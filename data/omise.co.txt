@@ -283,3 +283,5 @@ staging-omise.co
 dev-omise.co
 cdn-omise.co
 cdnomise.co
+*.internal.omise.co
+*.linksplus.omise.co

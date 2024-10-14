@@ -7508,3 +7508,5 @@ h3-hermes-prd.sn.tesla.services
 h1-hermes-stream-prd.sn.tesla.services
 h1-hermes-prd.sn.tesla.services
 maps-prd.fo.tesla.services
+*.webrtc.tesla.services
+dex-dev.do.tesla.services

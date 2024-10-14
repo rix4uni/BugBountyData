@@ -563,3 +563,4 @@ ovn.kubernetes.io
 profile.node.kubernetes.io
 compliantkubernetes.io
 authentication.kubernetes.io
+v1-30.docs.kubernetes.io

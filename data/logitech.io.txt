@@ -4939,3 +4939,6 @@ hoth.logitech.io
 pipeline-dev01.logitech.io
 kiros.logitech.io
 vpn.logitech.io
+*.mp.logitech.io
+loupedeck.mp.logitech.io
+offer-service-assets.os.logitech.io

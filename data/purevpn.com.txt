@@ -207,3 +207,6 @@ recurly-warehouse-webhooks.purevpn.com
 partnersapi.purevpn.com
 app.purevpn.com
 status.purevpn.com
+*.business.purevpn.com
+affiliatenodejs-api.purevpn.com
+staging-affiliatenodejs-api.purevpn.com

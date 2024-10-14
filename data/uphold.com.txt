@@ -137,3 +137,6 @@ cdn-v2.uphold.com
 hostmaster.videoclick.blog.uphold.com
 nuphold.com
 gh-mail.uphold.com
+*.bank-gateway.sandbox.uphold.com
+*.vault-service.webhooks.uphold.com
+*.vault-service.webhooks.sandbox.uphold.com

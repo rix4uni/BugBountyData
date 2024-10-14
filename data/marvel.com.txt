@@ -1089,3 +1089,12 @@ createmarvel.com
 www.createmarvel.com
 bifrost.marvel.com
 assets-cdn.marvel.com
+*.admin.marvel.com
+*.geo.admin.marvel.com
+*.geo.staging.admin.marvel.com
+*.staging.admin.marvel.com
+*.us-east-1.geo.admin.marvel.com
+*.us-east-1.geo.staging.admin.marvel.com
+*.us-west-2.geo.admin.marvel.com
+*.us-west-2.geo.staging.admin.marvel.com
+hcionline-dev.marvel.com

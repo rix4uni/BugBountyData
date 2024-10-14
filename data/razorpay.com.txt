@@ -452,3 +452,7 @@ who.corp.razorpay.com
 datarobot-cde.razorpay.com
 rudderstack.razorpay.com
 www.datarobot-cde.razorpay.com
+*.payroll.razorpay.com
+prod-gandalf.ezetap.razorpay.com
+turbo-upi-axis-sdk.razorpay.com
+www.turbo-upi-axis-sdk.razorpay.com

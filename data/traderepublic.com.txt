@@ -203,3 +203,8 @@ zendesk3.traderepublic.com
 api.cards.traderepublic.com
 email.gh-mail.traderepublic.com
 account.traderepublic.com
+*.corp.traderepublic.com
+access-admin.internal.production.traderepublic.com
+kisi-checkin.corp.traderepublic.com
+kisi-checkin.internal.corp.traderepublic.com
+trino.data-dev.traderepublic.com

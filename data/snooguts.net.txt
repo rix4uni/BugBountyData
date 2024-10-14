@@ -611,3 +611,12 @@ pub.message-prod-usva-aws-1.aws.achilles.snooguts.net
 error-tracking.kubernetes.ue1.snooguts.net
 grow-feedback.snooguts.net
 ranking-dashboard.snooguts.net
+*.pri.dev-prod-usva-aws-6.aws.achilles.snooguts.net
+*.pri.devorch-prod-usva-aws-1.aws.achilles.snooguts.net
+*.pri.inference-prod-usva-aws-1.aws.achilles.snooguts.net
+*.pri.message-prod-usva-aws-1.aws.achilles.snooguts.net
+*.pub.dev-prod-usva-aws-5.aws.achilles.snooguts.net
+*.pub.dev-prod-usva-aws-6.aws.achilles.snooguts.net
+*.pub.devorch-prod-usva-aws-1.aws.achilles.snooguts.net
+*.pub.inference-prod-usva-aws-1.aws.achilles.snooguts.net
+*.pub.message-prod-usva-aws-1.aws.achilles.snooguts.net

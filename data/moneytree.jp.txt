@@ -51,3 +51,7 @@ api2.moneytree.jp
 secure3.moneytree.jp
 transactional.moneytree.jp
 *.lpt-prod.moneytree.jp
+gs.lpt-prod.moneytree.jp
+refinery.lpt-dev.moneytree.jp
+refinery.lpt-prod.moneytree.jp
+refinery.lpt-stg.moneytree.jp

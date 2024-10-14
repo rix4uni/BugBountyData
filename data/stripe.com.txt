@@ -1168,3 +1168,7 @@ chef.getstripe.com
 ss-pilot-api.soundstripe.com
 adsx.greystripe.com
 fl.getstripe.com
+preprod-terminal-statics.stripe.com
+qa-terminal-statics.stripe.com
+terminal-statics.stripe.com
+www.dashboard.stripe.com

@@ -185,3 +185,6 @@ next-learn-dashboard.vercel.sh
 vercel.sh
 og-examples.vercel.sh
 next-site-git-next-14.vercel.sh
+*.block-app.vercel.sh
+ar.vercel.sh
+data.staging.streaming.vercel.sh

@@ -4307,3 +4307,6 @@ ebs.0-0000ax.apps.dev.jupiterone.io
 roll.2021.apps.us.jupiterone.io
 docker-registry.infra.jupiterone.io
 opentelemetry-collector.us.jupiterone.io
+argoworkflows.internal.infra.jupiterone.io
+dex.hsbc.jupiterone.io
+dex.statestreet.jupiterone.io

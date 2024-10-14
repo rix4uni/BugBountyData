@@ -482,3 +482,11 @@ ap-northeast-1.performance.paypay.gm.pai.mypaytm.com
 *.nonprod.riskverifier.mypaytm.com
 easy-report-stg-1.mypaytm.com
 nonprod.riskverifier.mypaytm.com
+*.internal.ap-south-1.poc.poc.risk.pai.mypaytm.com
+*.internal.ap-south-1.staging.lending-v2.risk.pai.mypaytm.com
+*.poc.poc.risk.pai.mypaytm.com
+*.staging.lending-v2.risk.pai.mypaytm.com
+internal.ap-south-1.poc.poc.risk.pai.mypaytm.com
+internal.ap-south-1.staging.lending-v2.risk.pai.mypaytm.com
+poc.poc.risk.pai.mypaytm.com
+staging.lending-v2.risk.pai.mypaytm.com

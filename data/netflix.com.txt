@@ -13064,3 +13064,16 @@ mailer.members.netflix.com
 exp.netflix.com
 ws.exp.netflix.com
 ls.netflix.com
+*.appboot-test.netflix.com
+*.ftl4.netflix.com
+*.ngp.prod.cloud.netflix.com
+*.ngp.staging.cloud.netflix.com
+identity.prod.netflix.com
+jschladentest.netflix.com
+lssgateway.prod.netflix.com
+mgkverifytest.security.netflix.com
+push.prod.us-east-2.netflix.com
+push.prod.us-east-2.internal.dradis.netflix.com
+venkman.cluster.eu-west-1.prod.cloud.netflix.com
+venkman.cluster.us-east-2.prod.cloud.netflix.com
+venkman.cluster.us-west-2.prod.cloud.netflix.com

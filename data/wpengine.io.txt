@@ -82,3 +82,5 @@ www.techops-staging.wpengine.io
 zabbix.wpengine.io
 zabbix-bionic.wpengine.io
 wpengine.io
+argocd-prod.wpengine.io
+argowf-prod.wpengine.io

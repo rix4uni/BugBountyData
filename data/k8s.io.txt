@@ -4956,3 +4956,6 @@ sdii1weuakscardsecrit002-dns-eca17ffd.hcp.westeurope.azmk8s.io
 southcentralus.azmk8s.io
 hcp.southcentralus.azmk8s.io
 carsarriveusnonprod-dns-3a26d633.hcp.eastus.azmk8s.io
+*.prow.k8s.io
+api.internal.scale-5000.periodic.test-cncf-aws.k8s.io
+oauth2-proxy.k8s.io

@@ -3254,3 +3254,7 @@ new-prod-aws-loginaccept-domain.carriersdk.sendcloud.com
 lotuslivelabs.carriersdk.sendcloud.com
 pdf.carriersdk.sendcloud.com
 teachfirst.carriersdk.sendcloud.com
+*.eu-west-1-0.sendcloud.com
+api.eu-west-1-0.app.sendcloud.com
+eu-west-1-0-eks.infra.sendcloud.com
+releaselog-tmp.sendcloud.com

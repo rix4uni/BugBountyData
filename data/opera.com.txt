@@ -3313,3 +3313,8 @@ production.opera-website.route53.opera.com
 recsys.geo.opera.com
 geo.op-mobile.opera.com
 www.thesoapopera.com
+*.auth.opera.com
+*.icb.opera.com
+*.trn.op-mobile.opera.com
+na-autoupdate.opera.com
+na-download.opera.com

@@ -8229,3 +8229,7 @@ bpriceline.com
 autopriceline.com
 dpriceline.com
 fpriceline.com
+*.pps.priceline.com
+*.staging.pps.priceline.com
+bar-card-app-res-enc-test.priceline.com
+staging.pps.priceline.com

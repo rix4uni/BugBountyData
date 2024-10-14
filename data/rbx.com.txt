@@ -1048,3 +1048,15 @@ api.netrbx.com
 members.grbx.com
 backtrace.rbx.com
 argo.rbx.com
+*.data-platform.airflow2.di.rbx.com
+*.stage.ee-temporal.rbx.com
+apis.ros-snap.rbx.com
+arize-api.rbx.com
+arize-exp.rbx.com
+arize-otlp.rbx.com
+changestream-manager-stage.rbx.com
+mosaic-proxy-stage.rbx.com
+ros-ai-chat-dev.rbx.com
+rozilla-stage.rbx.com
+rozilla-stx.rbx.com
+worker.dev2.mewtwo.rbx.com

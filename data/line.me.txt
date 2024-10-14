@@ -5579,3 +5579,6 @@ azurewebsites.onlyidonline.me
 us-east-1.eks.onlyidonline.me
 prod.onlyidonline.me
 staging.onlyidonline.me
+*.lpng.line.me
+lpng.line.me
+webgw-music.line.me

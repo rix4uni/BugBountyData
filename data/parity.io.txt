@@ -2020,3 +2020,13 @@ moloch-egress-tor06.teleport.parity.io
 pm-bounces.parity.io
 prizc-zgda2hrzsspp637z.teleport.parity.io
 update-server.parity.io
+argocd.parity-zombienet.parity.io
+chaos-mesh.parity-zombienet.parity.io
+identity-backend.parity-stg.parity.io
+kusama-try-runtime-node.parity-chains-scw.parity.io
+remix-backend.parity-stg.parity.io
+stg.data.parity.io
+vault-proxy.parity-mgmt.parity.io
+www-preview.parity-prod.parity.io
+www.parity-stg.parity.io
+xp-preview.parity-stg.parity.io

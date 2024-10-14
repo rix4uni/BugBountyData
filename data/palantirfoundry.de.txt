@@ -71,3 +71,6 @@ zire-egress-proxy.palantirfoundry.de
 soleil-egress-proxy.palantirfoundry.de
 zire.palantirfoundry.de
 *.gold.palantirfoundry.de
+eichenlaub-compute.palantirfoundry.de
+eichenlaub-containers.palantirfoundry.de
+eichenlaub-mgmt.palantirfoundry.de

@@ -3250,3 +3250,17 @@ dls-account.di.atlas.samsung.com
 api.runestone.samsung.com
 cc.di.runestone.samsung.com
 lcs.di.runestone.samsung.com
+*.dwb.samsung.com
+care.us.samsung.com
+dev-familynet.samsung.com
+dwb.samsung.com
+gsmc2.samsung.com
+jira.sarc.samsung.com
+jupyterlab.di.atlas.samsung.com
+s1-smn3.ecom-stg.samsung.com
+s7-smn5-api-cdn.ecom-stg.samsung.com
+sim.shop.samsung.com
+stg-familynet.samsung.com
+superset-dev-test.di.atlas.samsung.com
+www.fsc.shop.samsung.com
+www.jira.sarc.samsung.com

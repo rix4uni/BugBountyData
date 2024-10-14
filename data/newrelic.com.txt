@@ -1516,3 +1516,6 @@ service.dr.eu.newrelic.com
 support.eu.newrelic.com
 dyn.test.support.eu.newrelic.com
 test.support.eu.newrelic.com
+*.eu.nucleus-lb.newrelic.com
+login.dualstack.newrelic.com
+staging-one.dualstack.newrelic.com

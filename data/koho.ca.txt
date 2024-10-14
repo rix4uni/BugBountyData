@@ -100,3 +100,6 @@ core-banking.koho.ca
 green.amq.koho.ca
 verify.koho.ca
 sandbox-koho.ca
+*.internal.koho.ca
+*.line-of-credit.koho.ca
+line-of-credit.koho.ca

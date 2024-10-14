@@ -785,3 +785,8 @@ showroom.nike.net
 icknike.net
 zapatillasnike.net
 ecomm-ecs.nike.net
+*.ordercapture-prod.nike.net
+api-internal.ordermanage-qa.nike.net
+api-ordermanage-qa.nike.net
+api.ordermanage-qa.nike.net
+roadrunningcomparison.nike.net

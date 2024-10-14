@@ -5835,3 +5835,9 @@ default.default.foo-app.vespa.us-north-1.prod.node.instanceid.athenz.prod-us-nor
 vip.yahoo.cloud
 test-host1.yahoo.cloud
 container.com.yahoo.cloud
+*.dsp-plus-backend-prod-private.aws.yahoo.cloud
+*.finance-aws-devs.aws.yahoo.cloud
+*.identity-gcp-p-compute.gcp.yahoo.cloud
+*.use1.finance-aws-devs.aws.yahoo.cloud
+api.oauth.identity-gcp-p-compute.gcp.yahoo.cloud
+finance-aws-devs.aws.yahoo.cloud

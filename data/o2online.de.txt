@@ -777,3 +777,12 @@ cms.o2online.de
 cc-test.o2online.de
 m.ref-1.o2online.de
 test2.m.o2online.de
+*.dev1-www.o2online.de
+*.login.o2online.de
+*.login-ciam.o2online.de
+*.login-ciam-ct.o2online.de
+*.www.o2online.de
+dev1-www.o2online.de
+login-ciam-ct.o2online.de
+login-ciam-dev.o2online.de
+test-prepaid-aufladung.o2online.de

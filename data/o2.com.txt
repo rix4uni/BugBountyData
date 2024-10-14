@@ -10051,3 +10051,10 @@ turn-036d4d2891ff17f0c.wemo2.com
 turn-07a01a6c756b257cf.wemo2.com
 turn-0a12ddffcc853e411.wemo2.com
 turn-0c7fb5a308cf6af87.wemo2.com
+*.client.client-k8s.dlp-ingest-prod.aws.de.pri.o2.com
+*.high-1.raitmm02-dev.aws.de.pri.o2.com
+*.high-2.raitmm02-test.aws.de.pri.o2.com
+*.high.are-prod.aws.de.pri.o2.com
+*.high.gps-test.aws.de.pri.o2.com
+*.shared-ew3.services.aws-dev3.de.pri.o2.com
+*.shared.services.aws-dev1.de.pri.o2.com
