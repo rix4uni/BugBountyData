@@ -1,0 +1,15 @@
+*.simplereport.gov
+api-demo.simplereport.gov
+api-dev.simplereport.gov
+api-pentest.simplereport.gov
+api-prod.simplereport.gov
+api-stg.simplereport.gov
+api-test.simplereport.gov
+api-training.simplereport.gov
+demo.simplereport.gov
+dev.simplereport.gov
+stg.simplereport.gov
+test.simplereport.gov
+training.simplereport.gov
+www.simplereport.gov
+simplereport.gov

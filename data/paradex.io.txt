@@ -9,3 +9,5 @@ parity.paradex.io
 paradex.io
 *.paradex.io
 parity-kovan.paradex.io
+api-dev.paradex.io
+app-dev.paradex.io

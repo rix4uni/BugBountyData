@@ -20,3 +20,11 @@ routemaster-pubsub-metrics.deliveroo-data.net
 status.deliveroo-data.net
 deliveroo-data.net
 *.deliveroo-data.net
+malting-traffic.deliveroo-data.net
+franz-docs.deliveroo-data.net
+restaurants-insights.deliveroo-data.net
+jenkins-canoe-production-alb.deliveroo-data.net
+kafka-manager.deliveroo-data.net
+active-consumer-group.deliveroo-data.net
+jenkins-canoe-production-tst-alb.deliveroo-data.net
+404: not found404: not found404: not founddashboard.deliveroo-data.net

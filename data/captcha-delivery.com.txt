@@ -39,3 +39,5 @@ captcha-delivery.com
 *.sdbx-engine.captcha-delivery.com
 *.staging.captcha-delivery.com
 *.sdbx-sre.captcha-delivery.com
+api-us-iowa-1.captcha-delivery.com
+api-us-carolina-1.captcha-delivery.com

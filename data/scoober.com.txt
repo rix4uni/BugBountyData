@@ -140,3 +140,15 @@ myscoober.com
 *.thescoober.com
 thescoober.com
 www.thescoober.com
+broadcasts.dev.scoober.com
+city-configurator.beta.scoober.com
+_dmarc.scoober.com
+incidents-api.beta.scoober.com
+broadcasts.beta.scoober.com
+payroll-web.dev.scoober.com
+api-sf.dev.scoober.com
+payroll-api.internal.scoober.com
+incidents-api.dev.scoober.com
+chat2.dev.scoober.com
+restaurant-integration.internal.scoober.com
+incidents-api.internal.scoober.com

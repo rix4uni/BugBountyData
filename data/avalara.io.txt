@@ -2274,3 +2274,5 @@ platformpilot-us-east.web.avalara.io
 *.eriktest10.web.avalara.io
 *.nexus.avalara.io
 *.testing-io-domain-101.avalara.io
+email.certcapture.avalara.io
+service.avalara.io

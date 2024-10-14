@@ -93,3 +93,17 @@ minio.stage.intigriti.com
 payments.intigriti.com
 ext-intigriti.com
 *.ext-intigriti.com
+click.uat.intigriti.com
+jobs.uat.intigriti.com
+minio.uat.intigriti.com
+insecure.intigriti.com
+secure.intigriti.com
+challenge-0922.intigriti.com
+_dmarc.intigriti.com
+hybrid.intigriti.com
+communication.uat.intigriti.com
+api-company.intigriti.com
+minio-console.stage.intigriti.com
+bank.stage.intigriti.com
+minio-console.uat.intigriti.com
+api.stage.intigriti.com

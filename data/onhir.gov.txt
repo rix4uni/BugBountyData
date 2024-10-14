@@ -1,0 +1,12 @@
+*.onhir.gov
+_dmarc.onhir.gov
+_dmarc.autodiscover.onhir.gov
+_dmarc.www.onhir.gov
+adfs.onhir.gov
+autodiscover.onhir.gov
+mail.onhir.gov
+mail1.onhir.gov
+www.onhir.gov
+www.adfs.onhir.gov
+www.mail.onhir.gov
+onhir.gov

@@ -27,3 +27,11 @@ chimepayments.com
 *.cert.chimepayments.com
 vcas.cert.chimepayments.com
 *.prod.chimepayments.com
+ga-gold.qa.chimepayments.com
+ga-orange-nlb.dev5.chimepayments.com
+ga-orange-nlb.qa.chimepayments.com
+ga-orange-nlb.prod.chimepayments.com
+ga-orange-nlb.dev.chimepayments.com
+ga-gold.tmp-cert.chimepayments.com
+ga-orange-nlb.tmp-cert.chimepayments.com
+ga-orange.tmp-cert.chimepayments.com

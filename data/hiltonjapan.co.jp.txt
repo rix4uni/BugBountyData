@@ -51,3 +51,7 @@ kyoto.hiltonjapan.co.jp
 hiltonjapan.co.jp
 *.hiltonjapan.co.jp
 *.dev.hiltonjapan.co.jp
+_dmarc.hiltonjapan.co.jp
+doubletree-kyoto.dev.hiltonjapan.co.jp
+doubletree-kyoto-station.dev.hiltonjapan.co.jp
+doubletree-osaka-castle.dev.hiltonjapan.co.jp
