@@ -8390,3 +8390,5 @@ usw1.dev.argocd.edp-infra.optimizely.com
 usw1.prod.argocd.edp-infra.optimizely.com
 webproofing-gcp.cmp.optimizely.com
 webproofing-gcp.cmp-dev.optimizely.com
+*.octopus.optimizely.com
+octopus.optimizely.com

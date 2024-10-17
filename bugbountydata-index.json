@@ -374,8 +374,8 @@
     {
         "name": "adobe.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/adobe.com.txt",
-        "count": 24088,
-        "new": 0
+        "count": 24089,
+        "new": 1
     },
     {
         "name": "scene7.com",
@@ -740,8 +740,8 @@
     {
         "name": "aliyuncs.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/aliyuncs.com.txt",
-        "count": 122927,
-        "new": 0
+        "count": 122933,
+        "new": 6
     },
     {
         "name": "allbridge.io",
@@ -950,8 +950,8 @@
     {
         "name": "amazon.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/amazon.com.txt",
-        "count": 81167,
-        "new": 0
+        "count": 81168,
+        "new": 1
     },
     {
         "name": "amazon.co.uk",
@@ -1562,8 +1562,8 @@
     {
         "name": "att.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/att.com.txt",
-        "count": 398720,
-        "new": 0
+        "count": 398734,
+        "new": 14
     },
     {
         "name": "atg.se",
@@ -2354,8 +2354,8 @@
     {
         "name": "canon.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/canon.com.txt",
-        "count": 7028,
-        "new": 0
+        "count": 7029,
+        "new": 1
     },
     {
         "name": "jura.ch",
@@ -3212,8 +3212,8 @@
     {
         "name": "comcast.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/comcast.com.txt",
-        "count": 82810,
-        "new": 0
+        "count": 82812,
+        "new": 2
     },
     {
         "name": "xfinity.com",
@@ -3243,7 +3243,7 @@
         "name": "consensys.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/consensys.net.txt",
         "count": 3167,
-        "new": 1
+        "new": 0
     },
     {
         "name": "nfura.io",
@@ -3476,8 +3476,8 @@
     {
         "name": "cvshealth.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/cvshealth.com.txt",
-        "count": 11654,
-        "new": 2
+        "count": 11655,
+        "new": 1
     },
     {
         "name": "cynicaltechnology.com",
@@ -3764,8 +3764,8 @@
     {
         "name": "dell.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dell.com.txt",
-        "count": 69771,
-        "new": 0
+        "count": 69776,
+        "new": 5
     },
     {
         "name": "dellemc.com",
@@ -3818,14 +3818,14 @@
     {
         "name": "telekom.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/telekom.de.txt",
-        "count": 35273,
-        "new": 2
+        "count": 35274,
+        "new": 1
     },
     {
         "name": "telekom.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/telekom.net.txt",
-        "count": 7619,
-        "new": 0
+        "count": 7620,
+        "new": 1
     },
     {
         "name": "telekom.com",
@@ -4064,8 +4064,8 @@
     {
         "name": "duckduckgo.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/duckduckgo.com.txt",
-        "count": 951,
-        "new": 0
+        "count": 952,
+        "new": 1
     },
     {
         "name": "belastingdienst.nl",
@@ -4095,7 +4095,7 @@
         "name": "ecobee.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ecobee.com.txt",
         "count": 53049,
-        "new": 1
+        "new": 0
     },
     {
         "name": "bugbountyguide.com",
@@ -4232,8 +4232,8 @@
     {
         "name": "epam.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/epam.com.txt",
-        "count": 14233,
-        "new": 0
+        "count": 14234,
+        "new": 1
     },
     {
         "name": "infongen.com",
@@ -4382,8 +4382,8 @@
     {
         "name": "bandcamp.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/bandcamp.com.txt",
-        "count": 284260,
-        "new": 0
+        "count": 284427,
+        "new": 167
     },
     {
         "name": "amplitude-game.com",
@@ -4472,8 +4472,8 @@
     {
         "name": "etsy.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/etsy.com.txt",
-        "count": 70870,
-        "new": 0
+        "count": 70910,
+        "new": 40
     },
     {
         "name": "etsypayments.com",
@@ -4485,7 +4485,7 @@
         "name": "europa.eu",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/europa.eu.txt",
         "count": 16686,
-        "new": 1
+        "new": 0
     },
     {
         "name": "evaa.finance",
@@ -4773,7 +4773,7 @@
         "name": "facebook.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/facebook.com.txt",
         "count": 55268,
-        "new": 274
+        "new": 0
     },
     {
         "name": "fb.com",
@@ -4893,7 +4893,7 @@
         "name": "fidelity.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/fidelity.com.txt",
         "count": 18233,
-        "new": 1
+        "new": 0
     },
     {
         "name": "fidentity.ch",
@@ -5030,8 +5030,8 @@
     {
         "name": "ford.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ford.com.txt",
-        "count": 216918,
-        "new": 0
+        "count": 216961,
+        "new": 43
     },
     {
         "name": "omnicraftautoparts.com",
@@ -5480,8 +5480,8 @@
     {
         "name": "google.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/google.com.txt",
-        "count": 115576,
-        "new": 0
+        "count": 116323,
+        "new": 747
     },
     {
         "name": "youtube.com",
@@ -14372,8 +14372,8 @@
     {
         "name": "harvard.edu",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/harvard.edu.txt",
-        "count": 140798,
-        "new": 0
+        "count": 140842,
+        "new": 44
     },
     {
         "name": "forecastapp.com",
@@ -14594,8 +14594,8 @@
     {
         "name": "hy-vee.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/hy-vee.com.txt",
-        "count": 931,
-        "new": 0
+        "count": 932,
+        "new": 1
     },
     {
         "name": "hyatt.com",
@@ -14618,8 +14618,8 @@
     {
         "name": "ibm.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ibm.com.txt",
-        "count": 325125,
-        "new": 0
+        "count": 345778,
+        "new": 20653
     },
     {
         "name": "ibotta.com",
@@ -14666,8 +14666,8 @@
     {
         "name": "indeed.tech",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/indeed.tech.txt",
-        "count": 22856,
-        "new": 0
+        "count": 22857,
+        "new": 1
     },
     {
         "name": "indmoney.com",
@@ -14804,8 +14804,8 @@
     {
         "name": "intuit.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/intuit.com.txt",
-        "count": 101851,
-        "new": 0
+        "count": 101954,
+        "new": 103
     },
     {
         "name": "turbotax.com",
@@ -14973,7 +14973,7 @@
         "name": "jimdo.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/jimdo.com.txt",
         "count": 53917,
-        "new": 26
+        "new": 0
     },
     {
         "name": "jimdofree.com",
@@ -14996,8 +14996,8 @@
     {
         "name": "jivosite.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/jivosite.com.txt",
-        "count": 5993,
-        "new": 0
+        "count": 5995,
+        "new": 2
     },
     {
         "name": "johndeere.com",
@@ -15153,13 +15153,13 @@
         "name": "just-data.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/just-data.io.txt",
         "count": 649,
-        "new": 1
+        "new": 0
     },
     {
         "name": "just-eat.co.uk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/just-eat.co.uk.txt",
         "count": 2639,
-        "new": 2
+        "new": 0
     },
     {
         "name": "just-eat.com",
@@ -15177,7 +15177,7 @@
         "name": "just-eat.ie",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/just-eat.ie.txt",
         "count": 5555,
-        "new": 1
+        "new": 0
     },
     {
         "name": "just-eat.io",
@@ -15213,7 +15213,7 @@
         "name": "skipthedishes.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/skipthedishes.com.txt",
         "count": 5605,
-        "new": 17
+        "new": 0
     },
     {
         "name": "remove.bg",
@@ -15267,7 +15267,7 @@
         "name": "key.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/key.com.txt",
         "count": 8152,
-        "new": 4
+        "new": 0
     },
     {
         "name": "hellowallet.com",
@@ -15285,7 +15285,7 @@
         "name": "laurelroad.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/laurelroad.com.txt",
         "count": 226,
-        "new": 1
+        "new": 0
     },
     {
         "name": "cainbrothers.com",
@@ -15297,13 +15297,13 @@
         "name": "keybank.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/keybank.com.txt",
         "count": 1684,
-        "new": 33
+        "new": 0
     },
     {
         "name": "khanacademy.org",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/khanacademy.org.txt",
         "count": 222,
-        "new": 2
+        "new": 0
     },
     {
         "name": "bingo.com",
@@ -15363,7 +15363,7 @@
         "name": "kindredext.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kindredext.net.txt",
         "count": 604,
-        "new": 6
+        "new": 0
     },
     {
         "name": "ottokasino.com",
@@ -15411,19 +15411,19 @@
         "name": "skypicker.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/skypicker.com.txt",
         "count": 23911,
-        "new": 40
+        "new": 0
     },
     {
         "name": "kiwi.ki",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kiwi.ki.txt",
-        "count": 112,
-        "new": 0
+        "count": 113,
+        "new": 1
     },
     {
         "name": "koho.ca",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/koho.ca.txt",
         "count": 105,
-        "new": 3
+        "new": 0
     },
     {
         "name": "koho.app",
@@ -15441,7 +15441,7 @@
         "name": "kpt.ch",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kpt.ch.txt",
         "count": 113,
-        "new": 112
+        "new": 0
     },
     {
         "name": "dragonapp.io",
@@ -15459,7 +15459,7 @@
         "name": "kraken.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kraken.com.txt",
         "count": 696,
-        "new": 7
+        "new": 0
     },
     {
         "name": "cryptowat.ch",
@@ -15483,13 +15483,13 @@
         "name": "kubernetes.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kubernetes.io.txt",
         "count": 566,
-        "new": 1
+        "new": 0
     },
     {
         "name": "k8s.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/k8s.io.txt",
         "count": 4961,
-        "new": 3
+        "new": 0
     },
     {
         "name": "gcr.io",
@@ -15501,7 +15501,7 @@
         "name": "kucoin.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kucoin.com.txt",
         "count": 142,
-        "new": 2
+        "new": 0
     },
     {
         "name": "kuna.io",
@@ -15513,7 +15513,7 @@
         "name": "larksuite.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/larksuite.com.txt",
         "count": 12477,
-        "new": 3
+        "new": 0
     },
     {
         "name": "byteoversea.com",
@@ -15549,7 +15549,7 @@
         "name": "lazada.co.id",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lazada.co.id.txt",
         "count": 222,
-        "new": 1
+        "new": 0
     },
     {
         "name": "lazada.co.th",
@@ -15561,7 +15561,7 @@
         "name": "lazada.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lazada.com.txt",
         "count": 2407,
-        "new": 1
+        "new": 0
     },
     {
         "name": "lazada.com.ph",
@@ -15621,7 +15621,7 @@
         "name": "lex.vn",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lex.vn.txt",
         "count": 2337,
-        "new": 1
+        "new": 0
     },
     {
         "name": "supertms.com",
@@ -15735,7 +15735,7 @@
         "name": "letsexchange.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/letsexchange.io.txt",
         "count": 35,
-        "new": 3
+        "new": 0
     },
     {
         "name": "liberapay.com",
@@ -15759,7 +15759,7 @@
         "name": "lifeomic.life",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lifeomic.life.txt",
         "count": 11427,
-        "new": 1698
+        "new": 0
     },
     {
         "name": "lifeomic.com",
@@ -15771,7 +15771,7 @@
         "name": "jupiterone.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/jupiterone.io.txt",
         "count": 4312,
-        "new": 3
+        "new": 0
     },
     {
         "name": "lime.bike",
@@ -15789,19 +15789,19 @@
         "name": "li.me",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/li.me.txt",
         "count": 301,
-        "new": 1
+        "new": 0
     },
     {
         "name": "line.me",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/line.me.txt",
         "count": 5584,
-        "new": 3
+        "new": 0
     },
     {
         "name": "line-apps.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/line-apps.com.txt",
         "count": 11154,
-        "new": 4
+        "new": 0
     },
     {
         "name": "naver.jp",
@@ -15831,7 +15831,7 @@
         "name": "artist.link",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/artist.link.txt",
         "count": 62,
-        "new": 1
+        "new": 0
     },
     {
         "name": "pods.link",
@@ -15885,7 +15885,7 @@
         "name": "liquidweb.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/liquidweb.com.txt",
         "count": 58454,
-        "new": 11
+        "new": 0
     },
     {
         "name": "livestream.com",
@@ -15921,7 +15921,7 @@
         "name": "lahitapiola.fi",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lahitapiola.fi.txt",
         "count": 589,
-        "new": 2
+        "new": 0
     },
     {
         "name": "lahitapiola.mobile",
@@ -15933,7 +15933,7 @@
         "name": "lahitapiolarahoitus.fi",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lahitapiolarahoitus.fi.txt",
         "count": 55,
-        "new": 1
+        "new": 0
     },
     {
         "name": "tapiola.fi",
@@ -15945,13 +15945,13 @@
         "name": "logi.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/logi.com.txt",
         "count": 5204,
-        "new": 13
+        "new": 0
     },
     {
         "name": "streamlabs.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/streamlabs.com.txt",
         "count": 189,
-        "new": 1
+        "new": 0
     },
     {
         "name": "teambeyond.net",
@@ -15975,7 +15975,7 @@
         "name": "logitech.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/logitech.com.txt",
         "count": 819,
-        "new": 8
+        "new": 0
     },
     {
         "name": "logitechg.com",
@@ -15999,7 +15999,7 @@
         "name": "ultimateears.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ultimateears.com.txt",
         "count": 94,
-        "new": 2
+        "new": 0
     },
     {
         "name": "astrogaming.com",
@@ -16089,13 +16089,13 @@
         "name": "logitech.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/logitech.io.txt",
         "count": 4944,
-        "new": 3
+        "new": 0
     },
     {
         "name": "logmeonce.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/logmeonce.com.txt",
         "count": 8353,
-        "new": 7
+        "new": 0
     },
     {
         "name": "lululemon.com",
@@ -16113,7 +16113,7 @@
         "name": "lystit.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lystit.com.txt",
         "count": 5903,
-        "new": 246
+        "new": 0
     },
     {
         "name": "lyst.com",
@@ -16167,13 +16167,13 @@
         "name": "make.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/make.com.txt",
         "count": 2818,
-        "new": 3
+        "new": 0
     },
     {
         "name": "makemytrip.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/makemytrip.com.txt",
         "count": 663,
-        "new": 1
+        "new": 0
     },
     {
         "name": "makerdao.com",
@@ -16185,7 +16185,7 @@
         "name": "malwarebytes.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/malwarebytes.com.txt",
         "count": 3100,
-        "new": 2
+        "new": 0
     },
     {
         "name": "mb-cosmos.com",
@@ -16233,7 +16233,7 @@
         "name": "marriott.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/marriott.com.txt",
         "count": 6940,
-        "new": 74
+        "new": 0
     },
     {
         "name": "marriott.co.uk",
@@ -16268,8 +16268,8 @@
     {
         "name": "mars.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mars.com.txt",
-        "count": 2083,
-        "new": 11
+        "count": 2084,
+        "new": 1
     },
     {
         "name": "marschocolate.com",
@@ -16281,13 +16281,13 @@
         "name": "mms.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mms.com.txt",
         "count": 1253,
-        "new": 12
+        "new": 0
     },
     {
         "name": "pedigree.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/pedigree.com.txt",
         "count": 105,
-        "new": 3
+        "new": 0
     },
     {
         "name": "twix.com",
@@ -16323,13 +16323,13 @@
         "name": "royalcanin.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/royalcanin.com.txt",
         "count": 438,
-        "new": 5
+        "new": 0
     },
     {
         "name": "skittles.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/skittles.com.txt",
         "count": 36,
-        "new": 1
+        "new": 0
     },
     {
         "name": "royal-canin.com",
@@ -16377,7 +16377,7 @@
         "name": "mastercard.us",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mastercard.us.txt",
         "count": 74,
-        "new": 1
+        "new": 0
     },
     {
         "name": "simplify.com",
@@ -16389,13 +16389,13 @@
         "name": "priceless.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/priceless.com.txt",
         "count": 236,
-        "new": 2
+        "new": 0
     },
     {
         "name": "mastercard.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mastercard.com.txt",
         "count": 5877,
-        "new": 55
+        "new": 0
     },
     {
         "name": "bezcenneniespodzianki.pl",
@@ -16443,7 +16443,7 @@
         "name": "mastercard.co.za",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mastercard.co.za.txt",
         "count": 32,
-        "new": 1
+        "new": 0
     },
     {
         "name": "no-minimums.com.au",
@@ -16497,7 +16497,7 @@
         "name": "evonik.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/evonik.com.txt",
         "count": 947,
-        "new": 14
+        "new": 0
     },
     {
         "name": "devmaximum.com",
@@ -16545,7 +16545,7 @@
         "name": "mediamarkt.be",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mediamarkt.be.txt",
         "count": 93,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mediamarkt.ch",
@@ -16557,19 +16557,19 @@
         "name": "mediamarkt.com.tr",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mediamarkt.com.tr.txt",
         "count": 95,
-        "new": 3
+        "new": 0
     },
     {
         "name": "mediamarkt.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mediamarkt.de.txt",
         "count": 188,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mediamarkt.es",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mediamarkt.es.txt",
         "count": 82,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mediamarkt.gr",
@@ -16587,7 +16587,7 @@
         "name": "mediamarkt.nl",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mediamarkt.nl.txt",
         "count": 147,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mediamarkt.pl",
@@ -16635,7 +16635,7 @@
         "name": "meituan.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/meituan.com.txt",
         "count": 7389,
-        "new": 15
+        "new": 0
     },
     {
         "name": "meituan.net",
@@ -16658,26 +16658,26 @@
     {
         "name": "mendix.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mendix.com.txt",
-        "count": 976,
-        "new": 12
+        "count": 977,
+        "new": 1
     },
     {
         "name": "mercadolibre.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mercadolibre.com.txt",
         "count": 619,
-        "new": 1
+        "new": 0
     },
     {
         "name": "office.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/office.com.txt",
         "count": 8851,
-        "new": 27
+        "new": 0
     },
     {
         "name": "live.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/live.com.txt",
-        "count": 86720,
-        "new": 0
+        "count": 86722,
+        "new": 2
     },
     {
         "name": "onedrive.com",
@@ -16695,7 +16695,7 @@
         "name": "sharepoint.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sharepoint.com.txt",
         "count": 101464,
-        "new": 297
+        "new": 0
     },
     {
         "name": "lync.com",
@@ -16718,8 +16718,8 @@
     {
         "name": "microsoft.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/microsoft.com.txt",
-        "count": 87692,
-        "new": 0
+        "count": 89995,
+        "new": 2303
     },
     {
         "name": "live.net",
@@ -16731,7 +16731,7 @@
         "name": "skype.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/skype.com.txt",
         "count": 4169,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mobikwik.com",
@@ -16743,7 +16743,7 @@
         "name": "mobile.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mobile.de.txt",
         "count": 1769,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mobisystems.office",
@@ -16755,13 +16755,13 @@
         "name": "mollie.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mollie.com.txt",
         "count": 168,
-        "new": 2
+        "new": 0
     },
     {
         "name": "monespacesante.fr",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/monespacesante.fr.txt",
         "count": 175,
-        "new": 1
+        "new": 0
     },
     {
         "name": "monarchmoney.com",
@@ -16773,7 +16773,7 @@
         "name": "monash.edu",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/monash.edu.txt",
         "count": 10093,
-        "new": 68
+        "new": 0
     },
     {
         "name": "moneybird.com",
@@ -16797,19 +16797,19 @@
         "name": "moneytree.jp",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/moneytree.jp.txt",
         "count": 57,
-        "new": 4
+        "new": 0
     },
     {
         "name": "mongodb.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mongodb.com.txt",
         "count": 5166,
-        "new": 44
+        "new": 0
     },
     {
         "name": "tkn.zone",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tkn.zone.txt",
         "count": 189,
-        "new": 1
+        "new": 0
     },
     {
         "name": "moonpaycloud.com",
@@ -16833,13 +16833,13 @@
         "name": "mountsinai.org",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mountsinai.org.txt",
         "count": 822,
-        "new": 6
+        "new": 0
     },
     {
         "name": "mssm.edu",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mssm.edu.txt",
         "count": 1748,
-        "new": 25
+        "new": 0
     },
     {
         "name": "stoppain.org",
@@ -16881,7 +16881,7 @@
         "name": "nyeesurgnet.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nyeesurgnet.com.txt",
         "count": 358,
-        "new": 6
+        "new": 0
     },
     {
         "name": "mountsinaiconnect.org",
@@ -16989,7 +16989,7 @@
         "name": "moviexchange.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/moviexchange.com.txt",
         "count": 53,
-        "new": 1
+        "new": 0
     },
     {
         "name": "areeba.com.gn",
@@ -17019,19 +17019,19 @@
         "name": "mtn.ci",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mtn.ci.txt",
         "count": 266,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mtn.cm",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mtn.cm.txt",
-        "count": 155928,
-        "new": 0
+        "count": 155931,
+        "new": 3
     },
     {
         "name": "mtn.co.rw",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mtn.co.rw.txt",
         "count": 122,
-        "new": 3
+        "new": 0
     },
     {
         "name": "mtn.co.sz",
@@ -17049,7 +17049,7 @@
         "name": "mtn.co.za",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mtn.co.za.txt",
         "count": 8996,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mtn.com.af",
@@ -17097,7 +17097,7 @@
         "name": "mtncameroon.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mtncameroon.net.txt",
         "count": 188,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mtncongo.net",
@@ -17133,13 +17133,13 @@
         "name": "mtnzambia.co.zm",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mtnzambia.co.zm.txt",
         "count": 47,
-        "new": 3
+        "new": 0
     },
     {
         "name": "mtn.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mtn.com.txt",
         "count": 704,
-        "new": 2
+        "new": 0
     },
     {
         "name": "mtngbissau.com",
@@ -17175,7 +17175,7 @@
         "name": "muslimpro.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/muslimpro.com.txt",
         "count": 4597,
-        "new": 1
+        "new": 0
     },
     {
         "name": "myetherwallet.com",
@@ -17187,7 +17187,7 @@
         "name": "myndr.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/myndr.net.txt",
         "count": 39,
-        "new": 1
+        "new": 0
     },
     {
         "name": "myndr.nl",
@@ -17211,7 +17211,7 @@
         "name": "n26.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/n26.com.txt",
         "count": 113,
-        "new": 1
+        "new": 0
     },
     {
         "name": "narkasa.com",
@@ -17271,13 +17271,13 @@
         "name": "ncsc.gov.uk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ncsc.gov.uk.txt",
         "count": 1961,
-        "new": 50
+        "new": 0
     },
     {
         "name": "near.org",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/near.org.txt",
         "count": 178,
-        "new": 6
+        "new": 0
     },
     {
         "name": "near.foundation",
@@ -17289,7 +17289,7 @@
         "name": "nflxso.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nflxso.net.txt",
         "count": 5137,
-        "new": 10
+        "new": 0
     },
     {
         "name": "nflxext.com",
@@ -17313,25 +17313,25 @@
         "name": "netflix.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/netflix.com.txt",
         "count": 13079,
-        "new": 13
+        "new": 0
     },
     {
         "name": "netgear.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/netgear.com.txt",
         "count": 1412,
-        "new": 8
+        "new": 0
     },
     {
         "name": "newrelic.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/newrelic.com.txt",
         "count": 1521,
-        "new": 3
+        "new": 0
     },
     {
         "name": "newegg.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/newegg.com.txt",
         "count": 1008,
-        "new": 1
+        "new": 0
     },
     {
         "name": "newegg.ca",
@@ -17355,13 +17355,13 @@
         "name": "nextcloud.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nextcloud.com.txt",
         "count": 928,
-        "new": 30
+        "new": 0
     },
     {
         "name": "nextiva.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nextiva.com.txt",
         "count": 574,
-        "new": 3
+        "new": 0
     },
     {
         "name": "nextos.com",
@@ -17373,7 +17373,7 @@
         "name": "ngrok.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ngrok.com.txt",
         "count": 4168,
-        "new": 9
+        "new": 0
     },
     {
         "name": "ngrok.io",
@@ -17409,13 +17409,13 @@
         "name": "nicehash.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nicehash.com.txt",
         "count": 877,
-        "new": 6
+        "new": 0
     },
     {
         "name": "nike.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nike.com.txt",
-        "count": 81345,
-        "new": 0
+        "count": 82204,
+        "new": 859
     },
     {
         "name": "converse.com",
@@ -17427,7 +17427,7 @@
         "name": "nike.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nike.net.txt",
         "count": 792,
-        "new": 5
+        "new": 0
     },
     {
         "name": "ninjakiwi.com",
@@ -17456,14 +17456,14 @@
     {
         "name": "nokia.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nokia.com.txt",
-        "count": 26521,
-        "new": 0
+        "count": 26963,
+        "new": 442
     },
     {
         "name": "nominet.uk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nominet.uk.txt",
         "count": 410,
-        "new": 1
+        "new": 0
     },
     {
         "name": "nominet.org.uk",
@@ -17481,13 +17481,13 @@
         "name": "nordvpn.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nordvpn.com.txt",
         "count": 10589,
-        "new": 7
+        "new": 0
     },
     {
         "name": "nos.nl",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nos.nl.txt",
         "count": 6446,
-        "new": 4
+        "new": 0
     },
     {
         "name": "nozbe.com",
@@ -17499,19 +17499,19 @@
         "name": "nubank.com.br",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nubank.com.br.txt",
         "count": 4630,
-        "new": 1
+        "new": 0
     },
     {
         "name": "nutanix.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nutanix.com.txt",
         "count": 71892,
-        "new": 7
+        "new": 0
     },
     {
         "name": "oanda.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/oanda.com.txt",
         "count": 1415,
-        "new": 56
+        "new": 0
     },
     {
         "name": "oanda.jp",
@@ -17547,19 +17547,19 @@
         "name": "octopus.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/octopus.com.txt",
         "count": 297,
-        "new": 3
+        "new": 0
     },
     {
         "name": "odoo.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/odoo.com.txt",
         "count": 41248,
-        "new": 39
+        "new": 0
     },
     {
         "name": "offensive-security.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/offensive-security.com.txt",
         "count": 141,
-        "new": 4
+        "new": 0
     },
     {
         "name": "exploit-db.com",
@@ -17589,19 +17589,19 @@
         "name": "oktapreview.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/oktapreview.com.txt",
         "count": 29217,
-        "new": 73
+        "new": 0
     },
     {
         "name": "okto.tech",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/okto.tech.txt",
         "count": 33,
-        "new": 32
+        "new": 0
     },
     {
         "name": "okx.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/okx.com.txt",
         "count": 313,
-        "new": 2
+        "new": 0
     },
     {
         "name": "olacabs.com",
@@ -17649,7 +17649,7 @@
         "name": "olx.in",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/olx.in.txt",
         "count": 742,
-        "new": 1
+        "new": 0
     },
     {
         "name": "olx.co.za",
@@ -17679,13 +17679,13 @@
         "name": "omise.co",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/omise.co.txt",
         "count": 287,
-        "new": 2
+        "new": 0
     },
     {
         "name": "on2it.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/on2it.net.txt",
         "count": 1756,
-        "new": 1
+        "new": 0
     },
     {
         "name": "oneplus.com",
@@ -17751,7 +17751,7 @@
         "name": "onetrust.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/onetrust.com.txt",
         "count": 995,
-        "new": 7
+        "new": 0
     },
     {
         "name": "onfido.com",
@@ -17817,7 +17817,7 @@
         "name": "opera.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/opera.com.txt",
         "count": 3320,
-        "new": 5
+        "new": 0
     },
     {
         "name": "opera.software",
@@ -17829,7 +17829,7 @@
         "name": "opera.technology",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/opera.technology.txt",
         "count": 1891,
-        "new": 2
+        "new": 0
     },
     {
         "name": "sec-tunnel.com",
@@ -17841,7 +17841,7 @@
         "name": "opire.dev",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/opire.dev.txt",
         "count": 19,
-        "new": 19
+        "new": 0
     },
     {
         "name": "oppo.com",
@@ -18044,8 +18044,8 @@
     {
         "name": "optimizely.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/optimizely.com.txt",
-        "count": 8392,
-        "new": 55
+        "count": 8394,
+        "new": 2
     },
     {
         "name": "origindigital-pac.com.au",
@@ -18081,13 +18081,13 @@
         "name": "handmade.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/handmade.com.txt",
         "count": 424,
-        "new": 2
+        "new": 0
     },
     {
         "name": "overstock.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/overstock.com.txt",
         "count": 609,
-        "new": 3
+        "new": 0
     },
     {
         "name": "supplieroasis.com",
@@ -18099,7 +18099,7 @@
         "name": "ovh.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ovh.com.txt",
         "count": 76789,
-        "new": 62
+        "new": 0
     },
     {
         "name": "ovo.id",
@@ -18159,7 +18159,7 @@
         "name": "betfair.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/betfair.com.txt",
         "count": 10137,
-        "new": 1
+        "new": 0
     },
     {
         "name": "paddypower.com",
@@ -18177,7 +18177,7 @@
         "name": "pagerduty.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/pagerduty.com.txt",
         "count": 2299,
-        "new": 35
+        "new": 0
     },
     {
         "name": "palantir.com",
@@ -18189,19 +18189,19 @@
         "name": "palantir.tech",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantir.tech.txt",
         "count": 564,
-        "new": 2
+        "new": 0
     },
     {
         "name": "palantir.build",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantir.build.txt",
         "count": 465,
-        "new": 2
+        "new": 0
     },
     {
         "name": "palantircloud.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantircloud.com.txt",
         "count": 1012,
-        "new": 25
+        "new": 0
     },
     {
         "name": "palantircloud.co.uk",
@@ -18213,19 +18213,19 @@
         "name": "palantirfoundry.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantirfoundry.com.txt",
         "count": 2673,
-        "new": 91
+        "new": 0
     },
     {
         "name": "palantirfoundry.co.uk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantirfoundry.co.uk.txt",
         "count": 232,
-        "new": 7
+        "new": 0
     },
     {
         "name": "palantirfoundry.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantirfoundry.de.txt",
         "count": 76,
-        "new": 3
+        "new": 0
     },
     {
         "name": "palantirfoundry.fr",
@@ -18237,13 +18237,13 @@
         "name": "palantirfoundry.com.au",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantirfoundry.com.au.txt",
         "count": 58,
-        "new": 1
+        "new": 0
     },
     {
         "name": "palantirgov.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/palantirgov.com.txt",
         "count": 258,
-        "new": 14
+        "new": 0
     },
     {
         "name": "foundrygov.com",
@@ -18303,7 +18303,7 @@
         "name": "parity.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/parity.io.txt",
         "count": 2032,
-        "new": 10
+        "new": 0
     },
     {
         "name": "parrot.sh",
@@ -18315,7 +18315,7 @@
         "name": "zimisa.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zimisa.com.txt",
         "count": 9,
-        "new": 1
+        "new": 0
     },
     {
         "name": "pasls.com",
@@ -18387,7 +18387,7 @@
         "name": "paypal.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/paypal.com.txt",
         "count": 8259,
-        "new": 15
+        "new": 0
     },
     {
         "name": "py.pl",
@@ -18489,7 +18489,7 @@
         "name": "mypaytm.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mypaytm.com.txt",
         "count": 492,
-        "new": 8
+        "new": 0
     },
     {
         "name": "pcapcloud.com",
@@ -18519,7 +18519,7 @@
         "name": "picsart.studio",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/picsart.studio.txt",
         "count": 2345,
-        "new": 123
+        "new": 0
     },
     {
         "name": "pingone.com",
@@ -18537,7 +18537,7 @@
         "name": "pionex.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/pionex.com.txt",
         "count": 99,
-        "new": 1
+        "new": 0
     },
     {
         "name": "pixabay.com",
@@ -18549,13 +18549,13 @@
         "name": "pixiv.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/pixiv.net.txt",
         "count": 607,
-        "new": 1
+        "new": 0
     },
     {
         "name": "booth.pm",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/booth.pm.txt",
         "count": 17605,
-        "new": 26
+        "new": 0
     },
     {
         "name": "vroid.com",
@@ -18573,7 +18573,7 @@
         "name": "plaid.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/plaid.com.txt",
         "count": 487,
-        "new": 4
+        "new": 0
     },
     {
         "name": "planethoster.net",
@@ -18585,19 +18585,19 @@
         "name": "n0c.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/n0c.com.txt",
         "count": 641,
-        "new": 99
+        "new": 0
     },
     {
         "name": "planethoster.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/planethoster.com.txt",
         "count": 138,
-        "new": 2
+        "new": 0
     },
     {
         "name": "playstation.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/playstation.net.txt",
         "count": 8858,
-        "new": 10
+        "new": 0
     },
     {
         "name": "sonyentertainmentnetwork.com",
@@ -18609,7 +18609,7 @@
         "name": "playstation.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/playstation.com.txt",
         "count": 2287,
-        "new": 36
+        "new": 0
     },
     {
         "name": "playtech.com",
@@ -18639,7 +18639,7 @@
         "name": "polo-static.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/polo-static.com.txt",
         "count": 8,
-        "new": 1
+        "new": 0
     },
     {
         "name": "pon-cat.com",
@@ -18765,7 +18765,7 @@
         "name": "portswigger.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/portswigger.net.txt",
         "count": 35,
-        "new": 2
+        "new": 0
     },
     {
         "name": "web-security-academy.net",
@@ -18777,13 +18777,13 @@
         "name": "postmates.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/postmates.com.txt",
         "count": 1569,
-        "new": 2
+        "new": 0
     },
     {
         "name": "postnl.nl",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/postnl.nl.txt",
         "count": 3094,
-        "new": 9
+        "new": 0
     },
     {
         "name": "postnl.com",
@@ -18813,7 +18813,7 @@
         "name": "priceline.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/priceline.com.txt",
         "count": 8235,
-        "new": 4
+        "new": 0
     },
     {
         "name": "bookingholdings.com",
@@ -18837,7 +18837,7 @@
         "name": "protonvpn.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/protonvpn.com.txt",
         "count": 1838,
-        "new": 2
+        "new": 0
     },
     {
         "name": "protonvpn.ch",
@@ -18861,19 +18861,19 @@
         "name": "pumb.ua",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/pumb.ua.txt",
         "count": 137,
-        "new": 1
+        "new": 0
     },
     {
         "name": "purevpn.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/purevpn.com.txt",
         "count": 212,
-        "new": 3
+        "new": 0
     },
     {
         "name": "puzzle.ch",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/puzzle.ch.txt",
         "count": 985,
-        "new": 982
+        "new": 0
     },
     {
         "name": "cryptography.io",
@@ -18915,7 +18915,7 @@
         "name": "qulture.rocks",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/qulture.rocks.txt",
         "count": 103,
-        "new": 1
+        "new": 0
     },
     {
         "name": "app.mobile",
@@ -18927,7 +18927,7 @@
         "name": "quora.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/quora.com.txt",
         "count": 55188,
-        "new": 42
+        "new": 0
     },
     {
         "name": "qwant.com",
@@ -18939,13 +18939,13 @@
         "name": "rabobank.nl",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rabobank.nl.txt",
         "count": 2058,
-        "new": 13
+        "new": 0
     },
     {
         "name": "rabobank.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rabobank.com.txt",
         "count": 1543,
-        "new": 6
+        "new": 0
     },
     {
         "name": "railto.com",
@@ -18963,7 +18963,7 @@
         "name": "rarible.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rarible.com.txt",
         "count": 5295,
-        "new": 1
+        "new": 0
     },
     {
         "name": "ratelimited.me",
@@ -18975,19 +18975,19 @@
         "name": "razer.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/razer.com.txt",
         "count": 2097,
-        "new": 1
+        "new": 0
     },
     {
         "name": "razorpay.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/razorpay.com.txt",
         "count": 458,
-        "new": 4
+        "new": 0
     },
     {
         "name": "realogy.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/realogy.com.txt",
         "count": 532,
-        "new": 2
+        "new": 0
     },
     {
         "name": "bhgre.com",
@@ -18999,19 +18999,19 @@
         "name": "century21.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/century21.com.txt",
         "count": 4817,
-        "new": 1
+        "new": 0
     },
     {
         "name": "coldwellbanker.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/coldwellbanker.com.txt",
         "count": 310,
-        "new": 6
+        "new": 0
     },
     {
         "name": "cbcworldwide.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/cbcworldwide.com.txt",
         "count": 360,
-        "new": 2
+        "new": 0
     },
     {
         "name": "corcoran.com",
@@ -19023,13 +19023,13 @@
         "name": "era.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/era.com.txt",
         "count": 11879,
-        "new": 1
+        "new": 0
     },
     {
         "name": "sothebysrealty.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sothebysrealty.com.txt",
         "count": 334,
-        "new": 2
+        "new": 0
     },
     {
         "name": "nrtllc.com",
@@ -19053,13 +19053,13 @@
         "name": "cartus.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/cartus.com.txt",
         "count": 1265,
-        "new": 4
+        "new": 0
     },
     {
         "name": "cbintouch.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/cbintouch.com.txt",
         "count": 386,
-        "new": 1
+        "new": 0
     },
     {
         "name": "myzap.com",
@@ -19094,14 +19094,14 @@
     {
         "name": "redbull.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/redbull.com.txt",
-        "count": 3416,
-        "new": 28
+        "count": 3417,
+        "new": 1
     },
     {
         "name": "redbullmediahouse.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/redbullmediahouse.com.txt",
         "count": 396,
-        "new": 3
+        "new": 0
     },
     {
         "name": "redbullmusicacademy.com",
@@ -19119,7 +19119,7 @@
         "name": "snooguts.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/snooguts.net.txt",
         "count": 622,
-        "new": 9
+        "new": 0
     },
     {
         "name": "redd.it",
@@ -19167,7 +19167,7 @@
         "name": "reddithelp.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/reddithelp.com.txt",
         "count": 13,
-        "new": 1
+        "new": 0
     },
     {
         "name": "dubsmash.com",
@@ -19179,7 +19179,7 @@
         "name": "redislabs.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/redislabs.com.txt",
         "count": 2665,
-        "new": 63
+        "new": 0
     },
     {
         "name": "redis.com",
@@ -19251,7 +19251,7 @@
         "name": "resmed.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/resmed.com.txt",
         "count": 664,
-        "new": 19
+        "new": 0
     },
     {
         "name": "resmed.co.uk",
@@ -19281,7 +19281,7 @@
         "name": "resmed.com.au",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/resmed.com.au.txt",
         "count": 82,
-        "new": 1
+        "new": 0
     },
     {
         "name": "resmed.sg",
@@ -19311,7 +19311,7 @@
         "name": "resmed.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/resmed.de.txt",
         "count": 45,
-        "new": 1
+        "new": 0
     },
     {
         "name": "resmed.fr",
@@ -19359,7 +19359,7 @@
         "name": "resmed.com.cn",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/resmed.com.cn.txt",
         "count": 13,
-        "new": 4
+        "new": 0
     },
     {
         "name": "reveantivirus.com",
@@ -19371,7 +19371,7 @@
         "name": "rewind.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rewind.com.txt",
         "count": 181,
-        "new": 2
+        "new": 0
     },
     {
         "name": "replay.sh",
@@ -19388,14 +19388,14 @@
     {
         "name": "riotgames.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/riotgames.com.txt",
-        "count": 2946,
-        "new": 30
+        "count": 2948,
+        "new": 2
     },
     {
         "name": "rivian.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rivian.com.txt",
         "count": 178,
-        "new": 1
+        "new": 0
     },
     {
         "name": "rivianservices.com",
@@ -19443,19 +19443,19 @@
         "name": "robinhood.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/robinhood.com.txt",
         "count": 20536,
-        "new": 1
+        "new": 0
     },
     {
         "name": "roblox.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/roblox.com.txt",
         "count": 2391,
-        "new": 2
+        "new": 0
     },
     {
         "name": "rbx.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rbx.com.txt",
         "count": 1062,
-        "new": 12
+        "new": 0
     },
     {
         "name": "rockset.com",
@@ -19485,19 +19485,19 @@
         "name": "routerprotocol.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/routerprotocol.com.txt",
         "count": 159,
-        "new": 3
+        "new": 0
     },
     {
         "name": "rbs.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rbs.com.txt",
         "count": 1466,
-        "new": 2
+        "new": 0
     },
     {
         "name": "rbs.co.uk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/rbs.co.uk.txt",
         "count": 1141,
-        "new": 37
+        "new": 0
     },
     {
         "name": "rbsdigital.co.uk",
@@ -19520,8 +19520,8 @@
     {
         "name": "salesforce.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/salesforce.com.txt",
-        "count": 81956,
-        "new": 0
+        "count": 82522,
+        "new": 566
     },
     {
         "name": "samsungmobile.com",
@@ -19533,13 +19533,13 @@
         "name": "samsung.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/samsung.com.txt",
         "count": 3266,
-        "new": 14
+        "new": 0
     },
     {
         "name": "santos.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/santos.com.txt",
         "count": 825,
-        "new": 2
+        "new": 0
     },
     {
         "name": "tripit.com",
@@ -19569,7 +19569,7 @@
         "name": "scholarfundwa.org",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/scholarfundwa.org.txt",
         "count": 10,
-        "new": 1
+        "new": 0
     },
     {
         "name": "scholarfund.io",
@@ -19581,25 +19581,25 @@
         "name": "szkb.ch",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/szkb.ch.txt",
         "count": 127,
-        "new": 125
+        "new": 0
     },
     {
         "name": "pksz.ch",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/pksz.ch.txt",
         "count": 4,
-        "new": 3
+        "new": 0
     },
     {
         "name": "scopely.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/scopely.io.txt",
         "count": 14866,
-        "new": 2
+        "new": 0
     },
     {
         "name": "scopely.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/scopely.com.txt",
         "count": 190,
-        "new": 5
+        "new": 0
     },
     {
         "name": "withbuddies.com",
@@ -19635,19 +19635,19 @@
         "name": "securityscorecard.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/securityscorecard.com.txt",
         "count": 49,
-        "new": 1
+        "new": 0
     },
     {
         "name": "seek.com.au",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/seek.com.au.txt",
         "count": 777,
-        "new": 2
+        "new": 0
     },
     {
         "name": "seek.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/seek.com.txt",
         "count": 185107,
-        "new": 1
+        "new": 0
     },
     {
         "name": "skinfra.xyz",
@@ -19665,7 +19665,7 @@
         "name": "outfra.xyz",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/outfra.xyz.txt",
         "count": 6124,
-        "new": 2
+        "new": 0
     },
     {
         "name": "jobapi.net",
@@ -19737,7 +19737,7 @@
         "name": "semrush.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/semrush.net.txt",
         "count": 2416,
-        "new": 2
+        "new": 0
     },
     {
         "name": "semrushchina.cn",
@@ -19779,7 +19779,7 @@
         "name": "sendcloud.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sendcloud.com.txt",
         "count": 3260,
-        "new": 4
+        "new": 0
     },
     {
         "name": "shakepay.com",
@@ -19851,7 +19851,7 @@
         "name": "shipt.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/shipt.com.txt",
         "count": 171444,
-        "new": 3
+        "new": 0
     },
     {
         "name": "shopclues.com",
@@ -19869,7 +19869,7 @@
         "name": "shopify.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/shopify.com.txt",
         "count": 48209,
-        "new": 8
+        "new": 0
     },
     {
         "name": "shopifykloud.com",
@@ -19881,7 +19881,7 @@
         "name": "shoplazza.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/shoplazza.com.txt",
         "count": 7223,
-        "new": 1
+        "new": 0
     },
     {
         "name": "myshoplaza.com",
@@ -19947,7 +19947,7 @@
         "name": "slack.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/slack.com.txt",
         "count": 94106,
-        "new": 33
+        "new": 0
     },
     {
         "name": "quip.com",
@@ -19959,7 +19959,7 @@
         "name": "smartling.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/smartling.com.txt",
         "count": 96659,
-        "new": 1
+        "new": 0
     },
     {
         "name": "verbalizeit.com",
@@ -19977,7 +19977,7 @@
         "name": "smartsheet.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/smartsheet.com.txt",
         "count": 11030,
-        "new": 2
+        "new": 0
     },
     {
         "name": "smokescreen.io",
@@ -20001,13 +20001,13 @@
         "name": "snapchat.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/snapchat.com.txt",
         "count": 1809,
-        "new": 2
+        "new": 0
     },
     {
         "name": "spectacles.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/spectacles.com.txt",
         "count": 140,
-        "new": 1
+        "new": 0
     },
     {
         "name": "bitmoji.com",
@@ -20031,13 +20031,13 @@
         "name": "test-socrata.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/test-socrata.com.txt",
         "count": 6626,
-        "new": 1
+        "new": 0
     },
     {
         "name": "sony.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sony.com.txt",
         "count": 12774,
-        "new": 97
+        "new": 0
     },
     {
         "name": "astaro.at",
@@ -20126,8 +20126,8 @@
     {
         "name": "sophos.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sophos.com.txt",
-        "count": 26429,
-        "new": 281
+        "count": 26430,
+        "new": 1
     },
     {
         "name": "surfright.nl",
@@ -20151,7 +20151,7 @@
         "name": "soundcloud.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/soundcloud.com.txt",
         "count": 366,
-        "new": 4
+        "new": 0
     },
     {
         "name": "soundcloudmail.com",
@@ -20175,13 +20175,13 @@
         "name": "spacelift.dev",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/spacelift.dev.txt",
         "count": 2060,
-        "new": 15
+        "new": 0
     },
     {
         "name": "starlink.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/starlink.com.txt",
         "count": 637,
-        "new": 3
+        "new": 0
     },
     {
         "name": "starlinkisp.net",
@@ -20313,7 +20313,7 @@
         "name": "surprisinglyawesome.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/surprisinglyawesome.com.txt",
         "count": 16,
-        "new": 4
+        "new": 0
     },
     {
         "name": "soundtrap.com",
@@ -20355,7 +20355,7 @@
         "name": "spotify.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/spotify.net.txt",
         "count": 21353,
-        "new": 4
+        "new": 0
     },
     {
         "name": "imabandi.to",
@@ -20439,7 +20439,7 @@
         "name": "byspotify.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/byspotify.com.txt",
         "count": 423,
-        "new": 5
+        "new": 0
     },
     {
         "name": "whatsgoingonintheworld.com",
@@ -20607,7 +20607,7 @@
         "name": "sproutsocial.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sproutsocial.com.txt",
         "count": 281,
-        "new": 6
+        "new": 0
     },
     {
         "name": "getbambu.com",
@@ -20625,13 +20625,13 @@
         "name": "squareup.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/squareup.com.txt",
         "count": 18883,
-        "new": 1
+        "new": 0
     },
     {
         "name": "square.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/square.com.txt",
         "count": 11714,
-        "new": 2
+        "new": 0
     },
     {
         "name": "highwinds.com",
@@ -20679,31 +20679,31 @@
         "name": "standardbank.co.za",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/standardbank.co.za.txt",
         "count": 1736,
-        "new": 24
+        "new": 0
     },
     {
         "name": "standardbank.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/standardbank.com.txt",
         "count": 514,
-        "new": 12
+        "new": 0
     },
     {
         "name": "standardbank.co.ao",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/standardbank.co.ao.txt",
         "count": 55,
-        "new": 2
+        "new": 0
     },
     {
         "name": "stanbicbank.co.bw",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stanbicbank.co.bw.txt",
         "count": 35,
-        "new": 1
+        "new": 0
     },
     {
         "name": "stanbicbank.com.ci",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stanbicbank.com.ci.txt",
         "count": 11,
-        "new": 1
+        "new": 0
     },
     {
         "name": "standardbank.cd",
@@ -20727,7 +20727,7 @@
         "name": "stanbicbank.co.ke",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stanbicbank.co.ke.txt",
         "count": 149,
-        "new": 1
+        "new": 0
     },
     {
         "name": "standardlesothobank.co.ls",
@@ -20739,7 +20739,7 @@
         "name": "standardbank.co.mw",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/standardbank.co.mw.txt",
         "count": 47,
-        "new": 6
+        "new": 0
     },
     {
         "name": "standardbank.mu",
@@ -20757,25 +20757,25 @@
         "name": "standardbank.com.na",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/standardbank.com.na.txt",
         "count": 80,
-        "new": 2
+        "new": 0
     },
     {
         "name": "stanbicibtcbank.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stanbicibtcbank.com.txt",
         "count": 44,
-        "new": 1
+        "new": 0
     },
     {
         "name": "stanbicbank.co.tz",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stanbicbank.co.tz.txt",
         "count": 66,
-        "new": 2
+        "new": 0
     },
     {
         "name": "stanbicbank.co.ug",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stanbicbank.co.ug.txt",
         "count": 124,
-        "new": 5
+        "new": 0
     },
     {
         "name": "stanbicbank.co.zm",
@@ -20798,14 +20798,14 @@
     {
         "name": "stanford.edu",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stanford.edu.txt",
-        "count": 282988,
-        "new": 0
+        "count": 283118,
+        "new": 130
     },
     {
         "name": "starbucks.com.cn",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/starbucks.com.cn.txt",
         "count": 6907,
-        "new": 6
+        "new": 0
     },
     {
         "name": "starbucks.com.sg",
@@ -20835,13 +20835,13 @@
         "name": "istarbucks.co.kr",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/istarbucks.co.kr.txt",
         "count": 150,
-        "new": 10
+        "new": 0
     },
     {
         "name": "starbucks.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/starbucks.de.txt",
         "count": 69,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mystarbucks.kr",
@@ -20865,7 +20865,7 @@
         "name": "starbucks.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/starbucks.com.txt",
         "count": 4686,
-        "new": 23
+        "new": 0
     },
     {
         "name": "starbucks.jp",
@@ -20877,7 +20877,7 @@
         "name": "starbucks.co.jp",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/starbucks.co.jp.txt",
         "count": 319,
-        "new": 2
+        "new": 0
     },
     {
         "name": "starbucks.co.uk",
@@ -20907,7 +20907,7 @@
         "name": "statuspage.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/statuspage.io.txt",
         "count": 52964,
-        "new": 19
+        "new": 0
     },
     {
         "name": "driveuconnect.com",
@@ -20937,7 +20937,7 @@
         "name": "stripe.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stripe.com.txt",
         "count": 1174,
-        "new": 4
+        "new": 0
     },
     {
         "name": "touchtechpayments.com",
@@ -20991,37 +20991,37 @@
         "name": "stripo.email",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stripo.email.txt",
         "count": 87,
-        "new": 1
+        "new": 0
     },
     {
         "name": "strongdm.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/strongdm.com.txt",
         "count": 164,
-        "new": 16
+        "new": 0
     },
     {
         "name": "sdm.network",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sdm.network.txt",
-        "count": 5755,
-        "new": 149
+        "count": 5756,
+        "new": 1
     },
     {
         "name": "superbet.ro",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/superbet.ro.txt",
-        "count": 2073,
-        "new": 2
+        "count": 2074,
+        "new": 1
     },
     {
         "name": "surf.nl",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/surf.nl.txt",
         "count": 4493,
-        "new": 42
+        "new": 0
     },
     {
         "name": "swapcard.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/swapcard.com.txt",
         "count": 1161,
-        "new": 1
+        "new": 0
     },
     {
         "name": "sweatco.app",
@@ -21033,25 +21033,25 @@
         "name": "swiggy.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/swiggy.com.txt",
         "count": 280,
-        "new": 2
+        "new": 0
     },
     {
         "name": "post.ch",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/post.ch.txt",
         "count": 2860,
-        "new": 45
+        "new": 0
     },
     {
         "name": "synack.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/synack.com.txt",
         "count": 3906,
-        "new": 1
+        "new": 0
     },
     {
         "name": "t-mobile.cz",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/t-mobile.cz.txt",
         "count": 825,
-        "new": 9
+        "new": 0
     },
     {
         "name": "takealot.com",
@@ -21063,13 +21063,13 @@
         "name": "talus.ch",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/talus.ch.txt",
         "count": 101,
-        "new": 97
+        "new": 0
     },
     {
         "name": "td.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/td.com.txt",
-        "count": 28940,
-        "new": 394
+        "count": 28941,
+        "new": 1
     },
     {
         "name": "tealium.com",
@@ -21093,19 +21093,19 @@
         "name": "aetkasmart.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/aetkasmart.de.txt",
         "count": 30,
-        "new": 5
+        "new": 0
     },
     {
         "name": "alditalk-kundenbetreuung.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/alditalk-kundenbetreuung.de.txt",
         "count": 398,
-        "new": 3
+        "new": 0
     },
     {
         "name": "ayyildiz.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ayyildiz.de.txt",
         "count": 81,
-        "new": 4
+        "new": 0
     },
     {
         "name": "base.de",
@@ -21117,13 +21117,13 @@
         "name": "blau.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/blau.de.txt",
         "count": 258,
-        "new": 5
+        "new": 0
     },
     {
         "name": "blauworld.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/blauworld.de.txt",
         "count": 38,
-        "new": 1
+        "new": 0
     },
     {
         "name": "einfachprepaid.de",
@@ -21141,13 +21141,13 @@
         "name": "fonic.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/fonic.de.txt",
         "count": 37,
-        "new": 3
+        "new": 0
     },
     {
         "name": "nettokom.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nettokom.de.txt",
         "count": 81,
-        "new": 6
+        "new": 0
     },
     {
         "name": "netzclub.net",
@@ -21171,7 +21171,7 @@
         "name": "o2.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/o2.com.txt",
         "count": 10060,
-        "new": 7
+        "new": 0
     },
     {
         "name": "o2.de",
@@ -21183,13 +21183,13 @@
         "name": "o2business.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/o2business.de.txt",
         "count": 226,
-        "new": 3
+        "new": 0
     },
     {
         "name": "o2online.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/o2online.de.txt",
         "count": 788,
-        "new": 9
+        "new": 0
     },
     {
         "name": "o2service.de",
@@ -21207,7 +21207,7 @@
         "name": "ortelmobile.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ortelmobile.de.txt",
         "count": 68,
-        "new": 5
+        "new": 0
     },
     {
         "name": "simfinity.de",
@@ -21225,7 +21225,7 @@
         "name": "whatsappsim.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/whatsappsim.de.txt",
         "count": 78,
-        "new": 3
+        "new": 0
     },
     {
         "name": "9lives.be",
@@ -21291,19 +21291,19 @@
         "name": "vimla.se",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vimla.se.txt",
         "count": 31,
-        "new": 16
+        "new": 0
     },
     {
         "name": "vimla.work",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vimla.work.txt",
         "count": 3,
-        "new": 2
+        "new": 0
     },
     {
         "name": "vimla.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vimla.io.txt",
         "count": 59,
-        "new": 58
+        "new": 0
     },
     {
         "name": "goteleport.com",
@@ -21339,19 +21339,19 @@
         "name": "gravitational.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/gravitational.io.txt",
         "count": 51867,
-        "new": 50
+        "new": 0
     },
     {
         "name": "qq.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/qq.com.txt",
-        "count": 63968,
-        "new": 213
+        "count": 63969,
+        "new": 1
     },
     {
         "name": "tencent.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tencent.com.txt",
-        "count": 4951,
-        "new": 70
+        "count": 4952,
+        "new": 1
     },
     {
         "name": "tenpay.com",
@@ -21381,25 +21381,25 @@
         "name": "tesla.cn",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tesla.cn.txt",
         "count": 338,
-        "new": 1
+        "new": 0
     },
     {
         "name": "tesla.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tesla.com.txt",
         "count": 1502,
-        "new": 2
+        "new": 0
     },
     {
         "name": "tesla.services",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tesla.services.txt",
         "count": 7512,
-        "new": 2
+        "new": 0
     },
     {
         "name": "teslamotors.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/teslamotors.com.txt",
         "count": 747,
-        "new": 1
+        "new": 0
     },
     {
         "name": "teslainsuranceservices.com",
@@ -21417,7 +21417,7 @@
         "name": "standard.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/standard.com.txt",
         "count": 1091,
-        "new": 15
+        "new": 0
     },
     {
         "name": "thewaltdisneycompany.com",
@@ -21435,25 +21435,25 @@
         "name": "disneyanimation.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/disneyanimation.com.txt",
         "count": 468,
-        "new": 1
+        "new": 0
     },
     {
         "name": "pixar.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/pixar.com.txt",
         "count": 66539,
-        "new": 4
+        "new": 0
     },
     {
         "name": "marvel.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/marvel.com.txt",
         "count": 1100,
-        "new": 9
+        "new": 0
     },
     {
         "name": "lucasfilm.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/lucasfilm.com.txt",
         "count": 904,
-        "new": 16
+        "new": 0
     },
     {
         "name": "disneyplus.com",
@@ -21465,19 +21465,19 @@
         "name": "espn.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/espn.com.txt",
         "count": 940,
-        "new": 11
+        "new": 0
     },
     {
         "name": "disney.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/disney.com.txt",
-        "count": 44200,
-        "new": 989
+        "count": 44204,
+        "new": 4
     },
     {
         "name": "disneyconnect.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/disneyconnect.com.txt",
         "count": 12,
-        "new": 3
+        "new": 0
     },
     {
         "name": "disneynow.com",
@@ -21489,7 +21489,7 @@
         "name": "startv.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/startv.com.txt",
         "count": 304,
-        "new": 2
+        "new": 0
     },
     {
         "name": "hotstar.com",
@@ -21507,7 +21507,7 @@
         "name": "abc.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/abc.com.txt",
         "count": 1200,
-        "new": 2
+        "new": 0
     },
     {
         "name": "threema.ch",
@@ -21519,7 +21519,7 @@
         "name": "tickets.kz",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tickets.kz.txt",
         "count": 31,
-        "new": 2
+        "new": 0
     },
     {
         "name": "tickets.ua",
@@ -21543,7 +21543,7 @@
         "name": "tiktok.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tiktok.com.txt",
         "count": 1527,
-        "new": 1
+        "new": 0
     },
     {
         "name": "tiktokv.com",
@@ -21573,7 +21573,7 @@
         "name": "tstaging.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tstaging.com.txt",
         "count": 218,
-        "new": 1
+        "new": 0
     },
     {
         "name": "tstaging.tools",
@@ -21596,8 +21596,8 @@
     {
         "name": "tomtom.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tomtom.com.txt",
-        "count": 9053,
-        "new": 695
+        "count": 9077,
+        "new": 24
     },
     {
         "name": "teleatlas.com",
@@ -21609,31 +21609,31 @@
         "name": "tomtomgroup.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tomtomgroup.com.txt",
         "count": 5559,
-        "new": 400
+        "new": 0
     },
     {
         "name": "ton.diamonds",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ton.diamonds.txt",
         "count": 8,
-        "new": 1
+        "new": 0
     },
     {
         "name": "toobit.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/toobit.com.txt",
         "count": 33,
-        "new": 1
+        "new": 0
     },
     {
         "name": "topcoder.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/topcoder.com.txt",
         "count": 150,
-        "new": 1
+        "new": 0
     },
     {
         "name": "topechelon.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/topechelon.com.txt",
         "count": 84,
-        "new": 6
+        "new": 0
     },
     {
         "name": "torfs.be",
@@ -21651,13 +21651,13 @@
         "name": "schoenentorfs.be",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/schoenentorfs.be.txt",
         "count": 7,
-        "new": 1
+        "new": 0
     },
     {
         "name": "schoenentorfs.nl",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/schoenentorfs.nl.txt",
         "count": 128,
-        "new": 1
+        "new": 0
     },
     {
         "name": "touchincentive.com",
@@ -21699,13 +21699,13 @@
         "name": "traderepublic.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/traderepublic.com.txt",
         "count": 210,
-        "new": 5
+        "new": 0
     },
     {
         "name": "traveloka.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/traveloka.com.txt",
         "count": 2665,
-        "new": 1
+        "new": 0
     },
     {
         "name": "tvlk-data.com",
@@ -21735,13 +21735,13 @@
         "name": "fireeye.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/fireeye.com.txt",
         "count": 3848,
-        "new": 4
+        "new": 0
     },
     {
         "name": "trellix.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/trellix.com.txt",
         "count": 1878,
-        "new": 8
+        "new": 0
     },
     {
         "name": "skyhighsecurity.com",
@@ -21837,13 +21837,13 @@
         "name": "usa.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/usa.gov.txt",
         "count": 1243,
-        "new": 1
+        "new": 0
     },
     {
         "name": "gsa.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/gsa.gov.txt",
         "count": 69575,
-        "new": 34
+        "new": 0
     },
     {
         "name": "code.gov",
@@ -21861,13 +21861,13 @@
         "name": "tu-chemniz.de",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tu-chemniz.de.txt",
         "count": 677,
-        "new": 268
+        "new": 0
     },
     {
         "name": "tutanota.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tutanota.com.txt",
         "count": 66,
-        "new": 2
+        "new": 0
     },
     {
         "name": "tutanota.de",
@@ -21920,8 +21920,8 @@
     {
         "name": "twilio.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/twilio.com.txt",
-        "count": 18598,
-        "new": 46
+        "count": 18599,
+        "new": 1
     },
     {
         "name": "mopub.com",
@@ -21945,7 +21945,7 @@
         "name": "niche.co",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/niche.co.txt",
         "count": 46,
-        "new": 5
+        "new": 0
     },
     {
         "name": "twitterflightschool.com",
@@ -21957,7 +21957,7 @@
         "name": "twimg.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/twimg.com.txt",
         "count": 506,
-        "new": 1
+        "new": 0
     },
     {
         "name": "vine.co",
@@ -21969,7 +21969,7 @@
         "name": "twitter.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/twitter.com.txt",
         "count": 10466,
-        "new": 5
+        "new": 0
     },
     {
         "name": "gnip.com",
@@ -21987,13 +21987,13 @@
         "name": "tyk.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/tyk.io.txt",
         "count": 4605,
-        "new": 1
+        "new": 0
     },
     {
         "name": "ssa.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ssa.gov.txt",
         "count": 582,
-        "new": 14
+        "new": 0
     },
     {
         "name": "segurosocial.gov",
@@ -22107,7 +22107,7 @@
         "name": "dc3.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dc3.mil.txt",
         "count": 42,
-        "new": 1
+        "new": 0
     },
     {
         "name": "dcaa.mil",
@@ -22131,7 +22131,7 @@
         "name": "dcsa.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dcsa.mil.txt",
         "count": 92,
-        "new": 2
+        "new": 0
     },
     {
         "name": "dds.mil",
@@ -22179,13 +22179,13 @@
         "name": "disa.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/disa.mil.txt",
         "count": 250596,
-        "new": 33
+        "new": 0
     },
     {
         "name": "dla.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dla.mil.txt",
-        "count": 351770,
-        "new": 0
+        "count": 351776,
+        "new": 6
     },
     {
         "name": "dma.mil",
@@ -22197,7 +22197,7 @@
         "name": "dod.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dod.mil.txt",
         "count": 407,
-        "new": 2
+        "new": 0
     },
     {
         "name": "doded.mil",
@@ -22239,7 +22239,7 @@
         "name": "dren.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dren.mil.txt",
         "count": 2593,
-        "new": 4
+        "new": 0
     },
     {
         "name": "dsca.mil",
@@ -22269,7 +22269,7 @@
         "name": "dtsa.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dtsa.mil.txt",
         "count": 708,
-        "new": 6
+        "new": 0
     },
     {
         "name": "eb.mil",
@@ -22293,7 +22293,7 @@
         "name": "eucom.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/eucom.mil.txt",
         "count": 225,
-        "new": 2
+        "new": 0
     },
     {
         "name": "freedomaward.mil",
@@ -22305,13 +22305,13 @@
         "name": "health.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/health.mil.txt",
         "count": 272977,
-        "new": 25
+        "new": 0
     },
     {
         "name": "hpc.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/hpc.mil.txt",
         "count": 10584,
-        "new": 11
+        "new": 0
     },
     {
         "name": "inherentresolve.mil",
@@ -22359,7 +22359,7 @@
         "name": "jsf.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/jsf.mil.txt",
         "count": 69,
-        "new": 1
+        "new": 0
     },
     {
         "name": "jten.mil",
@@ -22383,7 +22383,7 @@
         "name": "marines.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/marines.mil.txt",
         "count": 286,
-        "new": 2
+        "new": 0
     },
     {
         "name": "mc.mil",
@@ -22407,7 +22407,7 @@
         "name": "militaryonesource.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/militaryonesource.mil.txt",
         "count": 148,
-        "new": 1
+        "new": 0
     },
     {
         "name": "milsuite.mil",
@@ -22430,14 +22430,14 @@
     {
         "name": "navy.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/navy.mil.txt",
-        "count": 507576,
-        "new": 0
+        "count": 507689,
+        "new": 113
     },
     {
         "name": "ng.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ng.mil.txt",
         "count": 188,
-        "new": 1
+        "new": 0
     },
     {
         "name": "nga.mil",
@@ -22467,7 +22467,7 @@
         "name": "osd.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/osd.mil.txt",
         "count": 255431,
-        "new": 4
+        "new": 0
     },
     {
         "name": "pacom.mil",
@@ -22509,13 +22509,13 @@
         "name": "socom.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/socom.mil.txt",
         "count": 131803,
-        "new": 5
+        "new": 0
     },
     {
         "name": "southcom.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/southcom.mil.txt",
         "count": 306,
-        "new": 11
+        "new": 0
     },
     {
         "name": "stratcom.mil",
@@ -22533,7 +22533,7 @@
         "name": "uscg.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/uscg.mil.txt",
         "count": 4021,
-        "new": 3
+        "new": 0
     },
     {
         "name": "usfk.mil",
@@ -22545,7 +22545,7 @@
         "name": "usmc.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/usmc.mil.txt",
         "count": 3420,
-        "new": 11
+        "new": 0
     },
     {
         "name": "ustranscom.mil",
@@ -22569,7 +22569,7 @@
         "name": "apps.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/apps.mil.txt",
         "count": 326,
-        "new": 4
+        "new": 0
     },
     {
         "name": "asbca.mil",
@@ -22605,7 +22605,7 @@
         "name": "crmforce.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/crmforce.mil.txt",
         "count": 295,
-        "new": 40
+        "new": 0
     },
     {
         "name": "cyber.mil",
@@ -22683,7 +22683,7 @@
         "name": "esgrevents.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/esgrevents.mil.txt",
         "count": 8,
-        "new": 1
+        "new": 0
     },
     {
         "name": "hacc.mil",
@@ -22737,7 +22737,7 @@
         "name": "nro.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nro.mil.txt",
         "count": 171,
-        "new": 2
+        "new": 0
     },
     {
         "name": "nsin.mil",
@@ -22767,7 +22767,7 @@
         "name": "spaceforce.mil",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/spaceforce.mil.txt",
         "count": 73,
-        "new": 1
+        "new": 0
     },
     {
         "name": "tapevents.mil",
@@ -22815,13 +22815,13 @@
         "name": "cdc.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/cdc.gov.txt",
         "count": 3450,
-        "new": 64
+        "new": 0
     },
     {
         "name": "cms.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/cms.gov.txt",
         "count": 3103,
-        "new": 65
+        "new": 0
     },
     {
         "name": "cuidadodesalud.gov",
@@ -22857,13 +22857,13 @@
         "name": "grantsolutions.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/grantsolutions.gov.txt",
         "count": 369,
-        "new": 4
+        "new": 0
     },
     {
         "name": "health.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/health.gov.txt",
         "count": 144,
-        "new": 4
+        "new": 0
     },
     {
         "name": "healthdata.gov",
@@ -22887,37 +22887,37 @@
         "name": "hhs.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/hhs.gov.txt",
         "count": 3381,
-        "new": 22
+        "new": 0
     },
     {
         "name": "hiv.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/hiv.gov.txt",
         "count": 18,
-        "new": 1
+        "new": 0
     },
     {
         "name": "hrsa.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/hrsa.gov.txt",
         "count": 1051,
-        "new": 34
+        "new": 0
     },
     {
         "name": "insurekidsnow.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/insurekidsnow.gov.txt",
         "count": 35,
-        "new": 1
+        "new": 0
     },
     {
         "name": "medicaid.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/medicaid.gov.txt",
         "count": 73,
-        "new": 1
+        "new": 0
     },
     {
         "name": "medicare.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/medicare.gov.txt",
         "count": 185,
-        "new": 1
+        "new": 0
     },
     {
         "name": "mymedicare.gov",
@@ -22929,7 +22929,7 @@
         "name": "nih.gov",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/nih.gov.txt",
         "count": 75620,
-        "new": 100
+        "new": 0
     },
     {
         "name": "organdonor.gov",
@@ -22965,7 +22965,7 @@
         "name": "uber.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/uber.com.txt",
         "count": 11291,
-        "new": 1
+        "new": 0
     },
     {
         "name": "ubnt.com",
@@ -22976,8 +22976,8 @@
     {
         "name": "ui.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ui.com.txt",
-        "count": 33842,
-        "new": 1898
+        "count": 33851,
+        "new": 9
     },
     {
         "name": "udemy.com",
@@ -22989,31 +22989,31 @@
         "name": "mod.uk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mod.uk.txt",
         "count": 874,
-        "new": 8
+        "new": 0
     },
     {
         "name": "mod.gov.uk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mod.gov.uk.txt",
         "count": 1020,
-        "new": 96
+        "new": 0
     },
     {
         "name": "umbraco.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/umbraco.com.txt",
         "count": 111,
-        "new": 2
+        "new": 0
     },
     {
         "name": "myfitnesspal.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/myfitnesspal.com.txt",
         "count": 191,
-        "new": 1
+        "new": 0
     },
     {
         "name": "underarmour.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/underarmour.com.txt",
         "count": 715,
-        "new": 14
+        "new": 0
     },
     {
         "name": "endomondo.com",
@@ -23025,7 +23025,7 @@
         "name": "mapmyfitness.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mapmyfitness.com.txt",
         "count": 62,
-        "new": 3
+        "new": 0
     },
     {
         "name": "mapmyride.com",
@@ -23061,7 +23061,7 @@
         "name": "uniultra.xyz",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/uniultra.xyz.txt",
         "count": 11,
-        "new": 7
+        "new": 0
     },
     {
         "name": "unikrn.com",
@@ -23085,25 +23085,25 @@
         "name": "unilever.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/unilever.com.txt",
         "count": 6046,
-        "new": 101
+        "new": 0
     },
     {
         "name": "united.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/united.com.txt",
         "count": 2211,
-        "new": 6
+        "new": 0
     },
     {
         "name": "ual.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ual.com.txt",
         "count": 6936,
-        "new": 49
+        "new": 0
     },
     {
         "name": "upgrade.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/upgrade.com.txt",
         "count": 631,
-        "new": 6
+        "new": 0
     },
     {
         "name": "uphabit.com",
@@ -23115,7 +23115,7 @@
         "name": "uphold.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/uphold.com.txt",
         "count": 142,
-        "new": 3
+        "new": 0
     },
     {
         "name": "ups.com",
@@ -23157,7 +23157,7 @@
         "name": "upstox.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/upstox.com.txt",
         "count": 416,
-        "new": 2
+        "new": 0
     },
     {
         "name": "upwork.com",
@@ -23187,7 +23187,7 @@
         "name": "urbandictionary.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/urbandictionary.com.txt",
         "count": 2138,
-        "new": 1
+        "new": 0
     },
     {
         "name": "urbanup.com",
@@ -23235,13 +23235,13 @@
         "name": "usaa.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/usaa.com.txt",
         "count": 1855,
-        "new": 4
+        "new": 0
     },
     {
         "name": "valiant.ch",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/valiant.ch.txt",
         "count": 109,
-        "new": 107
+        "new": 0
     },
     {
         "name": "teamfortress.com",
@@ -23301,7 +23301,7 @@
         "name": "vanillacommunities.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vanillacommunities.com.txt",
         "count": 1035,
-        "new": 4
+        "new": 0
     },
     {
         "name": "vanillaforums.com",
@@ -23313,13 +23313,13 @@
         "name": "vanillastaging.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vanillastaging.com.txt",
         "count": 889,
-        "new": 5
+        "new": 0
     },
     {
         "name": "vanillacommunity.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vanillacommunity.com.txt",
         "count": 1235,
-        "new": 7
+        "new": 0
     },
     {
         "name": "varonis.com",
@@ -23337,19 +23337,19 @@
         "name": "vechain.org",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vechain.org.txt",
         "count": 236,
-        "new": 19
+        "new": 0
     },
     {
         "name": "veeam.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/veeam.com.txt",
-        "count": 7543,
-        "new": 761
+        "count": 7544,
+        "new": 1
     },
     {
         "name": "kasten.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kasten.io.txt",
         "count": 2822,
-        "new": 45
+        "new": 0
     },
     {
         "name": "veeamgov.com",
@@ -23379,7 +23379,7 @@
         "name": "vercel.sh",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vercel.sh.txt",
         "count": 190,
-        "new": 3
+        "new": 0
     },
     {
         "name": "zeit.sh",
@@ -23391,13 +23391,13 @@
         "name": "vertexprotocol.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vertexprotocol.com.txt",
         "count": 112,
-        "new": 21
+        "new": 0
     },
     {
         "name": "vfsglobal.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vfsglobal.com.txt",
         "count": 74,
-        "new": 60
+        "new": 0
     },
     {
         "name": "vfsglobalco.uk",
@@ -23409,13 +23409,13 @@
         "name": "vfsglobal.ca",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vfsglobal.ca.txt",
         "count": 3,
-        "new": 1
+        "new": 0
     },
     {
         "name": "vfsevisa.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vfsevisa.com.txt",
         "count": 42,
-        "new": 34
+        "new": 0
     },
     {
         "name": "vgz.nl",
@@ -23427,7 +23427,7 @@
         "name": "viator.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/viator.com.txt",
         "count": 52425,
-        "new": 6
+        "new": 0
     },
     {
         "name": "viatorinc.com",
@@ -23445,7 +23445,7 @@
         "name": "vimeo.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vimeo.com.txt",
         "count": 378,
-        "new": 1
+        "new": 0
     },
     {
         "name": "vhx.tv",
@@ -23457,25 +23457,25 @@
         "name": "visma.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/visma.com.txt",
         "count": 2019,
-        "new": 16
+        "new": 0
     },
     {
         "name": "vismaonline.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vismaonline.com.txt",
         "count": 372,
-        "new": 1
+        "new": 0
     },
     {
         "name": "workbox.dk",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/workbox.dk.txt",
         "count": 24593,
-        "new": 252
+        "new": 0
     },
     {
         "name": "vista.co",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vista.co.txt",
         "count": 144,
-        "new": 5
+        "new": 0
     },
     {
         "name": "vista.co.nz",
@@ -23499,13 +23499,13 @@
         "name": "vivo.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vivo.com.txt",
         "count": 87009,
-        "new": 1
+        "new": 0
     },
     {
         "name": "vivo.xyz",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vivo.xyz.txt",
         "count": 510,
-        "new": 1
+        "new": 0
     },
     {
         "name": "vivo.cn",
@@ -23523,7 +23523,7 @@
         "name": "vng.nl",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vng.nl.txt",
         "count": 125,
-        "new": 1
+        "new": 0
     },
     {
         "name": "ondernemersfondsen.nl",
@@ -23583,7 +23583,7 @@
         "name": "radio2.be",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/radio2.be.txt",
         "count": 101,
-        "new": 3
+        "new": 0
     },
     {
         "name": "radioplus.be",
@@ -23595,37 +23595,37 @@
         "name": "sporza.be",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/sporza.be.txt",
         "count": 105,
-        "new": 1
+        "new": 0
     },
     {
         "name": "stubru.be",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/stubru.be.txt",
         "count": 241,
-        "new": 3
+        "new": 0
     },
     {
         "name": "vrt.be",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vrt.be.txt",
         "count": 1269,
-        "new": 15
+        "new": 0
     },
     {
         "name": "walla.co.il",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/walla.co.il.txt",
         "count": 1479,
-        "new": 2
+        "new": 0
     },
     {
         "name": "walmart.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/walmart.com.txt",
         "count": 9897,
-        "new": 123
+        "new": 0
     },
     {
         "name": "wealthsimple.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wealthsimple.com.txt",
         "count": 28107,
-        "new": 1
+        "new": 0
     },
     {
         "name": "simpletax.ca",
@@ -23637,19 +23637,19 @@
         "name": "web.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/web.com.txt",
         "count": 93064,
-        "new": 5
+        "new": 0
     },
     {
         "name": "register.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/register.com.txt",
         "count": 4842,
-        "new": 10
+        "new": 0
     },
     {
         "name": "networksolutions.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/networksolutions.com.txt",
         "count": 404,
-        "new": 1
+        "new": 0
     },
     {
         "name": "web.de",
@@ -23679,7 +23679,7 @@
         "name": "wellsfargo.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wellsfargo.com.txt",
         "count": 13162,
-        "new": 90
+        "new": 0
     },
     {
         "name": "westerndigital.com",
@@ -23787,7 +23787,7 @@
         "name": "westernunion.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/westernunion.com.txt",
         "count": 2298,
-        "new": 7
+        "new": 0
     },
     {
         "name": "westernunion.ee",
@@ -23907,7 +23907,7 @@
         "name": "wise.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wise.com.txt",
         "count": 6274,
-        "new": 1
+        "new": 0
     },
     {
         "name": "transferwise.com",
@@ -23931,7 +23931,7 @@
         "name": "wordcamp.org",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wordcamp.org.txt",
         "count": 5544,
-        "new": 13
+        "new": 0
     },
     {
         "name": "wordpress.net",
@@ -23961,7 +23961,7 @@
         "name": "wordpress.org",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wordpress.org.txt",
         "count": 1760,
-        "new": 1
+        "new": 0
     },
     {
         "name": "wordpressfoundation.org",
@@ -23985,19 +23985,19 @@
         "name": "wpengine.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wpengine.com.txt",
         "count": 102135,
-        "new": 190
+        "new": 0
     },
     {
         "name": "wpengine.io",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wpengine.io.txt",
         "count": 86,
-        "new": 2
+        "new": 0
     },
     {
         "name": "wpesvc.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wpesvc.net.txt",
         "count": 127,
-        "new": 3
+        "new": 0
     },
     {
         "name": "studiopress.com",
@@ -24009,13 +24009,13 @@
         "name": "mi.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/mi.com.txt",
         "count": 39330,
-        "new": 7
+        "new": 0
     },
     {
         "name": "miui.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/miui.com.txt",
         "count": 1072,
-        "new": 4
+        "new": 0
     },
     {
         "name": "xiaomiyoupin.com",
@@ -24045,7 +24045,7 @@
         "name": "xiaomi.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/xiaomi.com.txt",
         "count": 2898,
-        "new": 8
+        "new": 0
     },
     {
         "name": "xt.com",
@@ -24075,7 +24075,7 @@
         "name": "techcrunch.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/techcrunch.com.txt",
         "count": 408,
-        "new": 2
+        "new": 0
     },
     {
         "name": "makers.com",
@@ -24087,7 +24087,7 @@
         "name": "engadget.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/engadget.com.txt",
         "count": 5362,
-        "new": 1
+        "new": 0
     },
     {
         "name": "rivals.com",
@@ -24104,8 +24104,8 @@
     {
         "name": "yahoo.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yahoo.com.txt",
-        "count": 486975,
-        "new": 0
+        "count": 487048,
+        "new": 73
     },
     {
         "name": "protrade.com",
@@ -24231,13 +24231,13 @@
         "name": "oath.cloud",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/oath.cloud.txt",
         "count": 29543,
-        "new": 687
+        "new": 0
     },
     {
         "name": "yahoo.cloud",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yahoo.cloud.txt",
         "count": 5843,
-        "new": 6
+        "new": 0
     },
     {
         "name": "yahooapis.com",
@@ -24248,26 +24248,26 @@
     {
         "name": "yandex.ru",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex.ru.txt",
-        "count": 181420,
-        "new": 0
+        "count": 181440,
+        "new": 20
     },
     {
         "name": "yandex.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex.com.txt",
         "count": 25830,
-        "new": 10
+        "new": 0
     },
     {
         "name": "yandex.com.tr",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex.com.tr.txt",
         "count": 3214,
-        "new": 4
+        "new": 0
     },
     {
         "name": "yandex.kz",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex.kz.txt",
         "count": 2291,
-        "new": 2
+        "new": 0
     },
     {
         "name": "yandex.ua",
@@ -24279,7 +24279,7 @@
         "name": "yandex.by",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex.by.txt",
         "count": 957,
-        "new": 1
+        "new": 0
     },
     {
         "name": "yandex.st",
@@ -24291,31 +24291,31 @@
         "name": "yandex.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex.net.txt",
         "count": 110414,
-        "new": 174
+        "new": 0
     },
     {
         "name": "yandex.cloud",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex.cloud.txt",
         "count": 51,
-        "new": 8
+        "new": 0
     },
     {
         "name": "ya.ru",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/ya.ru.txt",
         "count": 25940,
-        "new": 4
+        "new": 0
     },
     {
         "name": "yandex-bank.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yandex-bank.net.txt",
         "count": 70,
-        "new": 1
+        "new": 0
     },
     {
         "name": "kinopoisk.ru",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/kinopoisk.ru.txt",
         "count": 157,
-        "new": 1
+        "new": 0
     },
     {
         "name": "auto.ru",
@@ -24333,7 +24333,7 @@
         "name": "yelp.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yelp.com.txt",
         "count": 13872,
-        "new": 1
+        "new": 0
     },
     {
         "name": "yelpwifi.com",
@@ -24381,7 +24381,7 @@
         "name": "yuga.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/yuga.com.txt",
         "count": 36,
-        "new": 2
+        "new": 0
     },
     {
         "name": "yugalabs.io",
@@ -24417,7 +24417,7 @@
         "name": "zapier.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zapier.com.txt",
         "count": 594,
-        "new": 4
+        "new": 0
     },
     {
         "name": "zendesk.com",
@@ -24465,13 +24465,13 @@
         "name": "zetachain.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zetachain.com.txt",
         "count": 173,
-        "new": 38
+        "new": 0
     },
     {
         "name": "zilliqa.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zilliqa.com.txt",
         "count": 300,
-        "new": 5
+        "new": 0
     },
     {
         "name": "learnscilla.com",
@@ -24501,7 +24501,7 @@
         "name": "manageengine.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/manageengine.com.txt",
         "count": 5522,
-        "new": 2
+        "new": 0
     },
     {
         "name": "qntrl.com",
@@ -24519,7 +24519,7 @@
         "name": "zoho.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zoho.com.txt",
         "count": 4887,
-        "new": 3
+        "new": 0
     },
     {
         "name": "zomato.com",
@@ -24531,7 +24531,7 @@
         "name": "zdev.net",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zdev.net.txt",
         "count": 231,
-        "new": 2
+        "new": 0
     },
     {
         "name": "zomatobook.com",
@@ -24549,25 +24549,25 @@
         "name": "meetzoom.us",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/meetzoom.us.txt",
         "count": 169,
-        "new": 47
+        "new": 0
     },
     {
         "name": "zoom.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zoom.com.txt",
-        "count": 2090,
-        "new": 53
+        "count": 2094,
+        "new": 4
     },
     {
         "name": "vartopia.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/vartopia.com.txt",
         "count": 134,
-        "new": 1
+        "new": 0
     },
     {
         "name": "zoomdev.us",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zoomdev.us.txt",
-        "count": 5240,
-        "new": 266
+        "count": 5243,
+        "new": 3
     },
     {
         "name": "dev-zoom.us",
@@ -24591,13 +24591,13 @@
         "name": "zoomgov.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zoomgov.com.txt",
         "count": 2118,
-        "new": 1
+        "new": 0
     },
     {
         "name": "wistia.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/wistia.com.txt",
         "count": 20057,
-        "new": 9
+        "new": 0
     },
     {
         "name": "zoompso.com",
@@ -24620,8 +24620,8 @@
     {
         "name": "zoomonprem.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zoomonprem.com.txt",
-        "count": 20508,
-        "new": 816
+        "count": 20514,
+        "new": 6
     },
     {
         "name": "zoomsvr.com",
@@ -24638,14 +24638,14 @@
     {
         "name": "zoom.us",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zoom.us.txt",
-        "count": 115968,
-        "new": 1593
+        "count": 115969,
+        "new": 1
     },
     {
         "name": "zynga.com",
         "URL": "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/zynga.com.txt",
         "count": 3292,
-        "new": 21
+        "new": 0
     },
     {
         "name": "zyngagames.com",
