@@ -146,3 +146,6 @@ communicationdiagnosis.cocatie.logius.nl
 prod-mail-relay-01d-dictu.logius.nl
 onlogius.nl
 www.onlogius.nl
+default._domainkey.logius.nl
+_autodiscover._tcp.logius.nl
+_dmarc.logius.nl

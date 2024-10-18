@@ -3838,3 +3838,5 @@ staging-instacom.cloudtrax.com
 mqtt-haproxy.cloudtrax.com
 status.cloudtrax.com
 mqtt-test-ssl.cloudtrax.com
+autorf.cloudtrax.com
+rsyslog.d.cloudtrax.com

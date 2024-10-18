@@ -144,3 +144,5 @@ pushgateway.usw2a1.rockset.com
 thanos-query.rockset.com
 kibana.apt2a1.rockset.com
 pushgateway.apt2a1.rockset.com
+demo.rockset.com
+api.rockset.us-west-2.rockset.com

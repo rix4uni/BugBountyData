@@ -647,3 +647,5 @@ prefect-dev.just-data.io
 *.jet-ml-infra.just-data.io
 prod.just-data.io
 test-cloudrun.dev.just-data.io
+tableau-cloud-ci.dev.just-data.io
+www.status.just-data.io

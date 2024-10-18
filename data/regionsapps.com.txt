@@ -104,3 +104,7 @@ itr-loan-sys-proxy-v1.api.regionsapps.com
 sscp-pro-payments-api.ocp.regionsapps.com
 wmbex-web.ocp.regionsapps.com
 fdp-prm-near-real-time-prod.ocp.regionsapps.com
+fdp-nas-qa.ocp-np-b.regionsapps.com
+fdp-nas-dr.ocp-b.regionsapps.com
+fdp-nas-dev.ocp-np-b.regionsapps.com
+fdp-nas-prod.ocp.regionsapps.com

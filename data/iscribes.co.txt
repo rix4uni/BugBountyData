@@ -230,3 +230,8 @@ www.azure-test-legacy-rest-datatest-azuresql.iscribes.co
 dev-g.iscribes.co
 test-app1.iscribes.co
 www.azure-qa-web-legacy-qatest-azuresql.iscribes.co
+azure-stg-web-legacy.iscribes.co
+azure-stg-legacy-rest.iscribes.co
+azure-stg-emr-rest.iscribes.co
+azure-stg-web-legacy-loadtest-azuresql.iscribes.co
+azure-stg.iscribes.co

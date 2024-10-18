@@ -5,3 +5,4 @@ api.prod.k8s.bonobo.ai
 api.staging.k8s.bonobo.ai
 app.bonobo.ai
 web.prod.k8s.bonobo.ai
+_dmarc.bonobo.ai

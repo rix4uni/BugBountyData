@@ -28,3 +28,4 @@ dev-hellofax.com
 *.qa-hellofax.com
 *.dev-hellofax.com
 marketing.staging-hellofax.com
+_dmarc.hellofax.com

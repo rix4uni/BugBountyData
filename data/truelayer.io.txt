@@ -12,3 +12,14 @@ sandbox-vault.truelayer.io
 control.truelayer.io
 infra-vault.truelayer.io
 development-vault.truelayer.io
+rabbitmq-sandbox-euw1.truelayer.io
+k8s-production-euw1.truelayer.io
+rabbitmq-production-euw1.truelayer.io
+analytics-development-vault.truelayer.io
+sandbox-development-vault.truelayer.io
+production-vault.truelayer.io
+crypto-sandbox-vault.truelayer.io
+k8s-development-euw1.truelayer.io
+k8s-sandbox-euw1.truelayer.io
+k8s-ops-euw1.truelayer.io
+rabbitmq-development-euw1.truelayer.io

@@ -298,3 +298,8 @@ checkpoints.zq2-prototestnet.zilliqa.com
 explorer.zq2-protodevnet.zilliqa.com
 faucet.zq2-protodevnet.zilliqa.com
 monitoring.zilliqa.com
+checkpoints.zq2-protodevnet.zilliqa.com
+cardano-staking.seed.zilliqa.com
+bootstrap.zq2-devnet.zilliqa.com
+checkpoints.zq2-devnet.zilliqa.com
+cardano-api.seed.zilliqa.com

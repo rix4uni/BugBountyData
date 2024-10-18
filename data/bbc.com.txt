@@ -9470,3 +9470,12 @@ notifications.api.bbc.com
 gtm-uk.www.bbc.com.pri.bbc.com
 bbc-global-app.api.bbc.com
 gtm-uk.account.bbc.com.pri.bbc.com
+mozart-routing-weather.test.api.bbc.com
+belfrage-playground.test.api.bbc.com
+mozart-routing-sport.api.bbc.com
+context-switcher.test.api.bbc.com
+mozart-routing-weather.api.bbc.com
+mozart-routing-sport.int.api.bbc.com
+context-switcher.api.bbc.com
+mozart-routing-sport.test.api.bbc.com
+belfrage-preview.test.api.bbc.com

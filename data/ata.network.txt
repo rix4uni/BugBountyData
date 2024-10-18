@@ -560,3 +560,6 @@ base-mainnet.ata.network
 blockbook.ata.network
 am-boot.ata.network
 hrdata.network
+eli5.ata.network
+explorer-testnet.ata.network
+pom-guide.ata.network

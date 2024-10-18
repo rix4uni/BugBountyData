@@ -189,3 +189,5 @@ k8s-prod.security.robinhood.net
 k8s-sec.prod.security.robinhood.net
 otp.infra.robinhood.net
 prod.security.robinhood.net
+admin.fleet.infra.robinhood.net
+fleet.infra.robinhood.net

@@ -1963,3 +1963,4 @@ igk.core-webhook-proxy.avax-test.network
 oc.pool.core-webhook-proxy.avax-test.network
 io.cn.core-webhook-proxy.avax-test.network
 *.core-webhook-proxy.avax-test.network
+_dmarc.avax-test.network

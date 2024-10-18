@@ -100,3 +100,7 @@ proxy-gen2-simulation-production.lime.bike
 rider-experimental.lime.bike
 iot-platform-core-staging.lime.bike
 _dmarc.lime.bike
+proxy-c.lime.bike
+proxy-test.lime.bike
+proxy-b.lime.bike
+proxy.lime.bike

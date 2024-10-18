@@ -16,3 +16,8 @@ doto.thoughtcorp.com
 test.thoughtcorp.com
 mail.thoughtcorp.com
 tenrox.thoughtcorp.com
+mysite.thoughtcorp.com
+selector1._domainkey.thoughtcorp.com
+selector2._domainkey.thoughtcorp.com
+msoid.thoughtcorp.com
+autodiscover.thoughtcorp.com

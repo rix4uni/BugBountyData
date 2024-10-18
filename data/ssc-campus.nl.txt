@@ -667,3 +667,7 @@ jeroen2-test.test-ssc-campus.nl
 int.test-ssc-campus.nl
 *.test-ssc-campus.nl
 rivm-file-a03p.rivm.ssc-campus.nl
+localhost.ssc-campus.nl
+knmi-sproc-l01p.knmi.ssc-campus.nl
+rivm-lmlng-l01p.rivm.ssc-campus.nl
+sscc-ddict-a01p.ddi.ssc-campus.nl

@@ -162,3 +162,6 @@ old.web.raumausstattung-hirschboeck.de
 dev.web.raumausstattung-hirschboeck.de
 erichboeck.de
 *.erichboeck.de
+_autodiscover._tcp.hboeck.de
+_xmpp-client._tcp.hboeck.de
+_xmpp-server._tcp.hboeck.de

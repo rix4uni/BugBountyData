@@ -354,3 +354,12 @@ _metrics.status.im
 vm.status.im
 sandbox.waku.nodes.status.im
 serverstatus.im
+store-02.do-ams3.status.prod.status.im
+store-01.do-ams3.status.prod.status.im
+store-01.ac-cn-hongkong-c.status.prod.status.im
+store-02.ac-cn-hongkong-c.status.prod.status.im
+boot-01.ac-cn-hongkong-c.status.prod.status.im
+boot-01.gc-us-central1-a.status.prod.status.im
+store-02.gc-us-central1-a.status.prod.status.im
+store-01.gc-us-central1-a.status.prod.status.im
+boot-01.do-ams3.status.prod.status.im

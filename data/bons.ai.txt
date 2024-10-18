@@ -175,3 +175,7 @@ prod-prometheus.azint.bons.ai
 prod-graphs.azint.bons.ai
 yiamo.devkube-cp-api.azdev.bons.ai
 tokenencryption.bons.ai
+autodiscover.bons.ai
+lyncdiscover.bons.ai
+enterpriseenrollment.bons.ai
+sip.bons.ai

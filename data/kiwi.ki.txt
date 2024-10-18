@@ -111,3 +111,11 @@ www.versions.services.kiwi.ki
 kiwi.ki
 gateway.kiwi.ki
 *.new-prod.kiwi.ki
+new-prod.kiwi.ki
+es.prod.kiwi.ki
+es-node-3.prod.kiwi.ki
+es-node-1.prod.kiwi.ki
+na.kiwi.ki
+housing.new-production.kiwi.ki
+lychee.new-production.kiwi.ki
+owa.kiwi.ki

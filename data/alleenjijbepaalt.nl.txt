@@ -5,3 +5,15 @@ bestanden.alleenjijbepaalt.nl
 alleenjijbepaalt.nl
 *.crm-alleenjijbepaalt.nl
 crm-alleenjijbepaalt.nl
+_kerberos-adm._tcp.alleenjijbepaalt.nl
+relay1.alleenjijbepaalt.nl
+autodiscover.alleenjijbepaalt.nl
+msoid.alleenjijbepaalt.nl
+_http._tcp.bestanden.alleenjijbepaalt.nl
+pop.alleenjijbepaalt.nl
+_http._tcp.alleenjijbepaalt.nl
+k2._domainkey.alleenjijbepaalt.nl
+k3._domainkey.alleenjijbepaalt.nl
+enterpriseenrollment.alleenjijbepaalt.nl
+_dmarc.alleenjijbepaalt.nl
+enterpriseregistration.alleenjijbepaalt.nl

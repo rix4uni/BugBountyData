@@ -8,3 +8,4 @@ cuv-prod.app
 *.prod.cuv-prod.app
 db.cuv-prod.app
 underwriter.prod.cuv-prod.app
+www.cuv-prod.app

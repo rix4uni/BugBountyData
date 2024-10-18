@@ -140,3 +140,5 @@ gh-mail.uphold.com
 *.bank-gateway.sandbox.uphold.com
 *.vault-service.webhooks.uphold.com
 *.vault-service.webhooks.sandbox.uphold.com
+identity-service.webhooks.uphold.com
+identity-service.webhooks.sandbox.uphold.com

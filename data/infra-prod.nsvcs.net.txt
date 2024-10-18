@@ -1,0 +1,13 @@
+shepherd-api.infra-prod.nsvcs.net
+consul.infra-prod.nsvcs.net
+devlake.infra-prod.nsvcs.net
+chartmuseum.infra-prod.nsvcs.net
+consul-api.infra-prod.nsvcs.net
+awx-callback.infra-prod.nsvcs.net
+devlake-grafana.infra-prod.nsvcs.net
+awx.infra-prod.nsvcs.net
+argocd.infra-prod.nsvcs.net
+argocd-tunneler-reverse.infra-prod.nsvcs.net
+argocd-tunneler-server.infra-prod.nsvcs.net
+vault-releng.infra-prod.nsvcs.net
+shepherd.infra-prod.nsvcs.net

@@ -4310,3 +4310,6 @@ opentelemetry-collector.us.jupiterone.io
 argoworkflows.internal.infra.jupiterone.io
 dex.hsbc.jupiterone.io
 dex.statestreet.jupiterone.io
+aws-sns-eventsource-jupiterone-prod-hsbc.infra.jupiterone.io
+aws-sns-eventsource-jupiterone-dev.infra.jupiterone.io
+dex.dev.jupiterone.io

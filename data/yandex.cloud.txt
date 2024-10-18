@@ -49,3 +49,7 @@ baremetal.cloud-preprod.yandex.cloud
 center.yandex.cloud
 kz.scale.yandex.cloud
 oss.datalens.yandex.cloud
+console.yandex.cloud
+dev.yandex.cloud
+staging.yandex.cloud
+preprod.yandex.cloud

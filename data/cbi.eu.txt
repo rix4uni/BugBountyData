@@ -95,3 +95,13 @@ www.lcbi.eu
 *.ncbi.eu
 *.ccbi.eu
 *.mcbi.eu
+my.cbi.eu
+vpn.cbi.eu
+remote.cbi.eu
+internet.cbi.eu
+pop.cbi.eu
+intranet.cbi.eu
+_tcp.cbi.eu
+selector1._domainkey.cbi.eu
+selector2._domainkey.cbi.eu
+video.cbi.eu

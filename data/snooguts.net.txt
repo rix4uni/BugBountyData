@@ -620,3 +620,10 @@ ranking-dashboard.snooguts.net
 *.pub.devorch-prod-usva-aws-1.aws.achilles.snooguts.net
 *.pub.inference-prod-usva-aws-1.aws.achilles.snooguts.net
 *.pub.message-prod-usva-aws-1.aws.achilles.snooguts.net
+pri.inference-prod-usva-aws-1.aws.achilles.snooguts.net
+pub.dev-prod-usva-aws-5.aws.achilles.snooguts.net
+pub.inference-prod-usva-aws-1.aws.achilles.snooguts.net
+pri.devorch-prod-usva-aws-1.aws.achilles.snooguts.net
+pri.dev-prod-usva-aws-6.aws.achilles.snooguts.net
+pub.devorch-prod-usva-aws-1.aws.achilles.snooguts.net
+pub.dev-prod-usva-aws-6.aws.achilles.snooguts.net

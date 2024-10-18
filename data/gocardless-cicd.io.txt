@@ -1,2 +1,14 @@
 gocardless-cicd.io
 ui-hub-branches.gocardless-cicd.io
+atlantis-webhooks.gocardless-cicd.io
+alertmanager.gocardless-cicd.io
+atlantis.gocardless-cicd.io
+prometheus.gocardless-cicd.io
+dispatcher.gocardless-cicd.io
+deployments-event-listener.gocardless-cicd.io
+deploys.gocardless-cicd.io
+chef.gocardless-cicd.io
+build.gocardless-cicd.io
+build-webhooks.gocardless-cicd.io
+tekton.gocardless-cicd.io
+argocd.gocardless-cicd.io

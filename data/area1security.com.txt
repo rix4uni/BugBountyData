@@ -173,3 +173,9 @@ sentry.test.area1security.com
 *.area1security.com
 *.portal.area1security.com
 *.horizon.area1security.com
+onpremise.area1security.com
+snoopy-agent.area1security.com
+dashboard.area1security.com
+apollo.area1security.com
+logging.test.area1security.com
+test.area1security.com

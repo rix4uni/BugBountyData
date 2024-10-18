@@ -100,3 +100,11 @@ qa-lms-api.voltsystems.net
 volt-walmart-app-api.voltsystems.net
 walmart-qa-import-log-api.voltsystems.net
 walmart-staging-blob.voltsystems.net
+webmail.voltsystems.net
+_sip._tls.voltsystems.net
+lyncdiscover.voltsystems.net
+msoid.voltsystems.net
+_dmarc.voltsystems.net
+autodiscover.voltsystems.net
+sip.voltsystems.net
+_sipfederationtls._tcp.voltsystems.net

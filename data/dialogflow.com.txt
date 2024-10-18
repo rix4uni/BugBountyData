@@ -4,3 +4,9 @@ console.dialogflow.com
 bot.dialogflow.com
 api.dialogflow.com
 static.dialogflow.com
+grpc.dialogflow.com
+grpc-stage.dialogflow.com
+assets.dialogflow.com
+discuss.dialogflow.com
+grpc-cce-apiai-funct-test.dialogflow.com
+grpc-gdev.dialogflow.com

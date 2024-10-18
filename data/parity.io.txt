@@ -2030,3 +2030,15 @@ vault-proxy.parity-mgmt.parity.io
 www-preview.parity-prod.parity.io
 www.parity-stg.parity.io
 xp-preview.parity-stg.parity.io
+traefik-internal.parity-zombienet.parity.io
+ldap.teleport.parity.io
+xp-preview.parity-prod.parity.io
+try-runtime-node.parity-chains.parity.io
+xp.parity-prod.parity.io
+17-121-125-74.teleport.parity.io
+metrics-gate.parity.io
+polkadot-parachain-people-connect-node-1.parity-chains.parity.io
+harbor-test.parity-stg.parity.io
+data.parity.io
+polkadot-parachain-people-connect-node-0.parity-chains.parity.io
+github-metrics-exporter-webhook.parity.io

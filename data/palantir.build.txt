@@ -463,3 +463,4 @@ gomod.palantir.build
 2c81dc25-dea6-48bb-9446-b5d827ce7634.palantir.build
 *.cgr.docker.palantir.build
 *.us-gov-west-1.external.staging.palantir.build
+cgr.docker.palantir.build

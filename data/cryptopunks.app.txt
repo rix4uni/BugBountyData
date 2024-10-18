@@ -10,3 +10,5 @@ cryptopunks.app
 wrapped.cryptopunks.app
 generator.cryptopunks.app
 www.wrapped.cryptopunks.app
+email.mail.cryptopunks.app
+_dmarc.cryptopunks.app

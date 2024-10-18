@@ -13077,3 +13077,12 @@ push.prod.us-east-2.internal.dradis.netflix.com
 venkman.cluster.eu-west-1.prod.cloud.netflix.com
 venkman.cluster.us-east-2.prod.cloud.netflix.com
 venkman.cluster.us-west-2.prod.cloud.netflix.com
+ftl4.netflix.com
+appboot-test.netflix.com
+identity.test.netflix.com
+identity.staging.netflix.com
+hopper-stream.prototypes.netflix.com
+14stockenroll.netflix.com
+scene-stream.prototypes.netflix.com
+venkman.cluster.us-east-1.prod.cloud.netflix.com
+nrdp.ws.swiss.netflix.com

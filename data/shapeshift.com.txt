@@ -265,3 +265,9 @@ testnet-sentinel.arkeo.shapeshift.com
 directory.arkeo.shapeshift.com
 daemon.highbury.shapeshift.com
 indexer.avalanche.shapeshift.com
+api.thorchain-v1.shapeshift.com
+thorchain-v1.shapeshift.com
+dev-daemon.thorchain-v1.shapeshift.com
+thorchain-v2.shapeshift.com
+dev-api.thorchain-v1.shapeshift.com
+neo.shapeshift.com

@@ -229,3 +229,11 @@ all-productsapi-production.je-apis.com
 opssupportroutingapi-production.je-apis.com
 all-homeweb.je-apis.com
 experimentapi-production.je-apis.com
+promotedplacementimporter-production.je-apis.com
+menuconsumerorchestratorapi.je-apis.com
+menuconsumerorchestratorapi-production.je-apis.com
+restauranteventsapi-pub.je-apis.com
+restauranteventsweb-pub.je-apis.com
+pub-restauranteventsapi-production.je-apis.com
+internal-uk-partnermanagement.je-apis.com
+public-ordertimeapi.je-apis.com

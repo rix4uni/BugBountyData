@@ -9,3 +9,16 @@ www.permanentrepresentations.nl
 a-magazines.permanentrepresentations.nl
 feeds.permanentrepresentations.nl
 permanentrepresentations.nl
+_stun-port._udp.permanentrepresentations.nl
+_stun._udp.permanentrepresentations.nl
+_stuns._tcp.permanentrepresentations.nl
+_stun-behavior._udp.permanentrepresentations.nl
+_presence._tcp.permanentrepresentations.nl
+_stun-behavior._tcp.permanentrepresentations.nl
+_nicname._udp.permanentrepresentations.nl
+_stun-behaviors._udp.permanentrepresentations.nl
+_sip._udp.permanentrepresentations.nl
+_ldaps._tcp.permanentrepresentations.nl
+_stun-p2._udp.permanentrepresentations.nl
+_sip._tcp.permanentrepresentations.nl
+_ldaps._udp.permanentrepresentations.nl

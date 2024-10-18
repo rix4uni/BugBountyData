@@ -1519,3 +1519,5 @@ test.support.eu.newrelic.com
 *.eu.nucleus-lb.newrelic.com
 login.dualstack.newrelic.com
 staging-one.dualstack.newrelic.com
+staging-gcp.newrelic.com
+docs.service.newrelic.com

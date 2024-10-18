@@ -53047,3 +53047,13 @@ ts-prod.ecobee.com
 encore.ecobee.com
 prod.encore.ecobee.com
 mqtt.dev.encore.ecobee.com
+pl-prod-aws.ecobee.com
+stage.ecostat.ecobee.com
+pl-stage-aws.ecobee.com
+_amazonses.ecobee.com
+_sipfederationtls._tcp.ecobee.com
+_sip._tls.ecobee.com
+akuanduba-temp.pl-stage.ecobee.com
+otel-col.pl-dev.ecobee.com
+akuanduba-temp.pl-prod.ecobee.com
+developer-apps.ecobee.com

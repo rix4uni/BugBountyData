@@ -110,3 +110,11 @@ station.prod.vertexprotocol.com
 station.sei-prod.vertexprotocol.com
 trigger.base-prod.vertexprotocol.com
 trigger.base-test.vertexprotocol.com
+signing-0.base-prod.vertexprotocol.com
+signing-1.base-prod.vertexprotocol.com
+gateway.base-test.vertexprotocol.com
+base-test.vertexprotocol.com
+trigger.sei-prod.vertexprotocol.com
+sequencer.base-test.vertexprotocol.com
+sequencer.base-prod.vertexprotocol.com
+archive.sei-prod.vertexprotocol.com
