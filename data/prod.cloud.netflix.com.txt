@@ -8227,3 +8227,6 @@ ios-multipath-cell2.prod.cloud.netflix.com
 ios-multipath-cell3.prod.cloud.netflix.com
 ios-multipath-cell1.prod.cloud.netflix.com
 tvos.prod.cloud.netflix.com
+venkman.cluster.us-east-2.prod.cloud.netflix.com
+venkman.cluster.eu-west-1.prod.cloud.netflix.com
+venkman.cluster.us-west-2.prod.cloud.netflix.com

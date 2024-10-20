@@ -564,3 +564,5 @@ mfe-pipelines.production.linktr.ee
 pagerpal.qa.linktr.ee
 mfe-mk-editor.qa.linktr.ee
 staticwebsite-dev.qa.linktr.ee
+mfe-auth.production.linktr.ee
+mfe-auth.qa.linktr.ee

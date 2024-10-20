@@ -749,3 +749,5 @@ toolbox-logdrop-customer.teslamotors.com
 origin-04eb23c-owner-api.teslamotors.com
 origin-insurance-ln.teslamotors.com
 wd-stg-teslarpsapi.teslamotors.com
+payment-gateway-prod-sign.teslamotors.com
+payment-gateway-prod-enc.teslamotors.com
