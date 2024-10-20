@@ -1550,3 +1550,4 @@ trader-tools.staging.oanda.com
 ldms-api.staging.oanda.com
 mt4-ng-practice01.oanda.com
 api.uat.oanda.com
+bi-optimove-orchestration.k8s-uat-usc1.u.gcp.oanda.com
