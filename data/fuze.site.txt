@@ -77,3 +77,5 @@ border.qa.uc.fuze.site
 stackstorm.d.fuze.site
 atlantis.mgmt.cloud.fuze.site
 edge.dep.uc.fuze.site
+vap-coreuc-activation-proxy1.uc.fuze.site
+dep-coreuc-activation-proxy1.uc.fuze.site

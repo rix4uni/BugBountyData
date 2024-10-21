@@ -53,3 +53,9 @@ console.yandex.cloud
 dev.yandex.cloud
 staging.yandex.cloud
 preprod.yandex.cloud
+enteprise.datalens.yandex.cloud
+zitadel.opensource.datalens.yandex.cloud
+datasphere-k8s.yandex.cloud
+enterprise.datalens.yandex.cloud
+opensource.datalens.yandex.cloud
+monitoring-preprod.yandex.cloud

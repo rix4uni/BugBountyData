@@ -748,3 +748,5 @@ srv.fact-pyscripts-dev.dev.fact.mandiant.com
 pr469.dev.asm.mandiant.com
 srv.mfr23-689.prod.fact.mandiant.com
 web.fact-label-test.dev.fact.mandiant.com
+_dmarc.mandiant.com
+portal-ng.mandiant.com

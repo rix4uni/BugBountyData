@@ -5223,3 +5223,6 @@ cokbook.mongodb.com
 us-west1.gcp.services.cloud.mongodb.com
 westeurope.azure.services.cloud.mongodb.com
 urp.devprod-infra.staging.corp.mongodb.com
+example1.mongodb.com
+_core.infrastructure.mongodb.com
+url.mongodb.com

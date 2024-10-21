@@ -1,0 +1,15 @@
+connect.tanzu.vmware.com
+dev.registry.tanzu.vmware.com
+buildpack-dependencies.tanzu.vmware.com
+www.registry.tanzu.vmware.com
+tanzu.vmware.com
+registry.tanzu.vmware.com
+www.dev.registry.tanzu.vmware.com
+dev.registry-acceptance.tanzu.vmware.com
+network.tanzu.vmware.com
+www.tanzu.vmware.com
+blue.network-acceptance.tanzu.vmware.com
+www.dev.registry-acceptance.tanzu.vmware.com
+info.tanzu.vmware.com
+network-integration.tanzu.vmware.com
+network-acceptance.tanzu.vmware.com

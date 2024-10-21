@@ -5130,3 +5130,13 @@ sentry.gocardless.com
 files.gocardless.com
 docs.gocardless.com
 partner-sandbox.gocardless.com
+crowdstrike-sandbox.bankaccountdata.gocardless.com
+ingest-iocs-crowdstrikesandbox.bankaccountdata.gocardless.com
+api-browser-staging.gocardless.com
+sandboxcrowdstrike.bankaccountdata.gocardless.com
+consoleauthorisations.workloads.crd.gocardless.com
+sandbox.ingest-iocs-crowdstrike.bankaccountdata.gocardless.com
+email.gh-mail.gocardless.com
+directoryrolebindings.rbac.crd.gocardless.com
+workloads.crd.gocardless.com
+rbac.crd.gocardless.com

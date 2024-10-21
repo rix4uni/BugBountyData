@@ -31,3 +31,17 @@ teamcity.starlingbank.com
 grafana.starlingbank.com
 engineering-admin.starlingbank.com
 gradle-cache.starlingbank.com
+files.starlingbank.com
+demo.starlingbank.com
+api-sandbox.starlingbank.com
+oauth.starlingbank.com
+registration.starlingbank.com
+developer-sandbox.starlingbank.com
+openbanking-sandbox.starlingbank.com
+international.starlingbank.com
+falcon.starlingbank.com
+payment-api-sandbox.starlingbank.com
+green.starlingbank.com
+blue.starlingbank.com
+email.starlingbank.com
+prod.starlingbank.com

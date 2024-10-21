@@ -24,3 +24,8 @@ cdn-monitor.services-prod.nsvcs.net
 clockwork-api.services-prod.nsvcs.net
 gocommerce.services-prod.nsvcs.net
 bitballoon-web.services-prod.nsvcs.net
+nf-server-api-tls.services-prod.nsvcs.net
+imageer.services-prod.nsvcs.net
+bans-grafana.services-prod.nsvcs.net
+nf-server-web-global-tls.services-prod.nsvcs.net
+nf-server-web-tls.services-prod.nsvcs.net

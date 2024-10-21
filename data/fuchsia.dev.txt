@@ -1,2 +1,14 @@
 g-issues.fuchsia.dev
 *.g-issues.fuchsia.dev
+www.fuchsia.dev
+fuchsia.dev
+uberproxy-san.fuchsia.dev
+support.fuchsia.dev
+blog.fuchsia.dev
+bugs.fuchsia.dev
+bugs-staging.fuchsia.dev
+bugs-dev.fuchsia.dev
+docs.fuchsia.dev
+cs.fuchsia.dev
+issues.fuchsia.dev
+go.fuchsia.dev

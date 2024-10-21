@@ -6038,3 +6038,5 @@ streaming-kafka-canary-receiver-grpc.data-0s.internal.api.openai.org
 *.unified-1s.api.openai.org
 integrity-gateway.admin.internal.api.openai.org
 *.pom.habanero.dev.openai.org
+academy.ingress.newt.sci.openai.org
+private.api.openai.org

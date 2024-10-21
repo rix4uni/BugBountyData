@@ -244,3 +244,6 @@ test-jlouk-6.mapbox.com
 test-jlouk-11.mapbox.com
 test-jlouk-12.mapbox.com
 test-ma-network-pr.mapbox.com
+api-poi-search-loadtest.mapbox.com
+api-geocoder-production.mapbox.com
+api-directions-mini-production.mapbox.com

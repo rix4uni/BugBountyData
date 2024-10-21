@@ -7,3 +7,16 @@ smtp.bitcoingold.org
 electrumx-us.bitcoingold.org
 test-node1.bitcoingold.org
 explorer.bitcoingold.org
+webdev.bitcoingold.org
+www.bitcoingold.org
+new-explorer.bitcoingold.org
+dnsseed.bitcoingold.org
+x9.dnsseed.bitcoingold.org
+bitcoingold.org
+dnsseed.testnet.bitcoingold.org
+headers.bitcoingold.org
+blockbook.bitcoingold.org
+test-explorer.bitcoingold.org
+new.explorer.bitcoingold.org
+test-dnsseed.bitcoingold.org
+test-faucet.bitcoingold.org

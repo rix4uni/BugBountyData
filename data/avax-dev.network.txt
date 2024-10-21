@@ -54,3 +54,8 @@ on-chain-rfq-demo-dev.avax-dev.network
 argocd-development.avax-dev.network
 _dmarc.avax-dev.network
 penguinid-poc.avax-dev.network
+etna.avax-dev.network
+prometheus-poc.avax-dev.network
+loki-poc.avax-dev.network
+grafana-poc.avax-dev.network
+demo.avax-dev.network

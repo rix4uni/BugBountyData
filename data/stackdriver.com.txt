@@ -48,3 +48,5 @@ google.stackdriver.com
 public.gturtle.stackdriver.com
 cors-10.google.stackdriver.com
 app.gturtle.stackdriver.com
+local-metadata-agent.stackdriver.com
+jmx-gateway.google.stackdriver.com

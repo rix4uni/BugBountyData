@@ -857,3 +857,6 @@ atmosphere-dev-ap-southeast-2.dev.cosmos.braintreepayments.com
 origin-atmosphere-qa.dev.cosmos.braintreepayments.com
 cardinal-passive-a-external.dev.cosmos.braintreepayments.com
 docs-sand.cosmos.braintreepayments.com
+tsys-client.qa.braintreepayments.com
+tsys-client.prod.braintreepayments.com
+orchestration-docs.dev.braintreepayments.com

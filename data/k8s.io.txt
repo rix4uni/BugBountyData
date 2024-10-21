@@ -4962,3 +4962,14 @@ oauth2-proxy.k8s.io
 nsigs.k8s.io
 release-1-8.cluster-api.sigs.k8s.io
 tsigs.k8s.io
+v1.channel.k8s.io
+v4.channel.k8s.io
+v2.channel.k8s.io
+kubescheduler.config.k8s.io
+mycustomapigroupname.api.k8s.io
+machine.cluster.k8s.io
+secrets-store.csi.k8s.io
+gold.storageclass.storage.k8s.io
+sparkapplications.sparkoperator.k8s.io
+v3.channel.k8s.io
+baremetal.cluster.k8s.io

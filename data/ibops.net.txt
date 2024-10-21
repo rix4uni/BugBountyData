@@ -1444,3 +1444,5 @@ sqlapi.0-c10.int-staging.ibops.net
 zabbix.0-210.int-staging.ibops.net
 mars.0-eenews-net.int-staging.ibops.net
 ftpadmin.0-apm-proxy.int-staging.ibops.net
+product-data.gateway.int.ibops.net
+product-data.gateway.int.staging.ibops.net

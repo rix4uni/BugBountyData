@@ -1,2 +1,6 @@
 nothing.domains
 *.nothing.domains
+email.nothing.domains
+piwik.nothing.domains
+this-is-a-secret-git-server.nothing.domains
+www.email.nothing.domains

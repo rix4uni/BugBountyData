@@ -50,3 +50,5 @@ football-rab-pricing-stage-green.test.k8s.test.betsharedservices.io
 football-rab-pricing-dev-test4.test.k8s.test.betsharedservices.io
 football-rab-pricing-stage-blue.test.k8s.test.betsharedservices.io
 football-rab-pricing-dev-dev.test.k8s.test.betsharedservices.io
+ws.testdr.push.green-1.k8s.betsharedservices.io
+ws.push.green-1.k8s.betsharedservices.io

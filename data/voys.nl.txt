@@ -137,3 +137,6 @@ web-chat.za-staging.holodeck.voys.nl
 alertmanager.wd1-main.warpdrive.voys.nl
 vmex.eu-production.holodeck.voys.nl
 *.eu-staging.holodeck.voys.nl
+phpipam.wd1-main.warpdrive.voys.nl
+static.voys.nl
+_dmarc.voys.nl

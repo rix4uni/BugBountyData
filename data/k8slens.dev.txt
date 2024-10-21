@@ -18,3 +18,13 @@ store.k8slens.dev
 api-docs.k8slens.dev
 docs.lenscloud-platform.k8slens.dev
 *.k8slens.dev
+lenscloud-platform-docs.k8slens.dev
+www.k8slens.dev
+api.lc-production1.k8slens.dev
+platform.k8slens.dev
+token-issuer.platform.k8slens.dev
+metabase.k8slens.dev
+api.cluster1.k8slens.dev
+keycloak.lc-production1.k8slens.dev
+account.k8slens.dev
+bored.k8slens.dev

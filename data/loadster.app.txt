@@ -8,3 +8,6 @@ swagger-proxy.loadster.app
 production.loadster.app
 caddystatus.loadster.app
 loadster.app
+www.loadster.app
+petstore.loadster.app
+api.loadster.app
