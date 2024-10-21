@@ -29603,3 +29603,10 @@ api2.amt-aws-uat.aws.oath.cloud
 www.19.05901382e83f3c777.tracker.cross-platform-analytics-alephd-dev.aws.oath.cloud
 cdn.taiwan-testapp-nonprod.aws.oath.cloud
 taiwan-testapp-nonprod.aws.oath.cloud
+*.canvass-search-qa.canvass-qa.aws-us-west-2a.staging.vespa.oath.cloud
+*.canvass-search-qa.canvass-qa.aws-us-west-2a.test.vespa.oath.cloud
+*.canvass-search-qa.canvass-qa.gcp-us-east5-a.staging.vespa.oath.cloud
+*.canvass-search-qa.canvass-qa.gcp-us-east5-a.test.vespa.oath.cloud
+*.d259d736.a.vespa.oath.cloud
+*.d259d736.g.vespa.oath.cloud
+*.d259d736.z.vespa.oath.cloud
