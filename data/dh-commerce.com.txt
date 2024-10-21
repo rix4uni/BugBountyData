@@ -11,3 +11,4 @@ selfservice-api.dev.dh-commerce.com
 selfservice-api.staging.dh-commerce.com
 translation.dh-commerce.com
 orders-api.dh-commerce.com
+*.dh-commerce.com

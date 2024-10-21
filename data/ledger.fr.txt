@@ -30,3 +30,4 @@ haproxy1.gra.ovh.ledger.fr
 middleware.ledger.fr
 statics.ledger.fr
 ledger.fr
+*.ledger.fr

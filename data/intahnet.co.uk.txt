@@ -31,3 +31,16 @@ grafana.intahnet.co.uk
 static.intahnet.co.uk
 git.intahnet.co.uk
 jellyfin.intahnet.co.uk
+thanos-storegateway-0-cov1-uk.intahnet.co.uk
+thanos-storegateway-1-cov1-uk.intahnet.co.uk
+thanos-storegateway-2-cov1-uk.intahnet.co.uk
+s3-internal.lon1-uk.intahnet.co.uk
+minio-console.cov1-uk.intahnet.co.uk
+preview.intahnet.co.uk
+*.preview.intahnet.co.uk
+thanos-storegateway-0-lon1-uk.intahnet.co.uk
+thanos-storegateway-1-lon1-uk.intahnet.co.uk
+thanos-storegateway-2-lon1-uk.intahnet.co.uk
+s3-internal.cov1-uk.intahnet.co.uk
+jellyfin-vue.intahnet.co.uk
+unifi.intahnet.co.uk

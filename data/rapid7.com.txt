@@ -820,3 +820,7 @@ deployment.insight.rapid7.com
 kb.support.rapid7.com
 exchange01.tor.rapid7.com
 eu.restdbapi.logs.insight.rapid7.com
+*.us.bifrost.cba.insight.rapid7.com
+us.bifrost.cba.insight.rapid7.com
+woke-salmon.mtc.rapid7.com
+www.woke-salmon.mtc.rapid7.com

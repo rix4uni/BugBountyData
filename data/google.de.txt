@@ -47,3 +47,5 @@ privacy.google.de
 mobile.google.de
 directory.google.de
 cse.google.de
+*.consent.corp.google.de
+*.corp.google.de

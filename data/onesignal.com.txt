@@ -1,2 +1,11 @@
 onesignal.com
 www.onesignal.com
+onesignal-data-dev.staging.onesignal.com
+onesignal-data.staging.onesignal.com
+*.staging.onesignal.com
+dashboard.staging.onesignal.com
+img-dev.staging.onesignal.com
+beefree-storage.staging.onesignal.com
+img.staging.onesignal.com
+assets-staging.staging.onesignal.com
+staging.onesignal.com

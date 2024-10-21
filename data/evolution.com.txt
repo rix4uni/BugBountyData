@@ -1840,3 +1840,5 @@ bi-app-test.evolution.com
 php-hiring-week.evolution.com
 bi-app-prod.evolution.com
 remote.evolution.com
+*.evolution.com
+*.www.evolution.com

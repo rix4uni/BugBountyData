@@ -1463,3 +1463,9 @@ skull-china-ng.qualcomm.com
 npi-rfq.qti.qualcomm.com
 remotepurchase-umgp.qualcomm.com
 dirbs-elasticsearch-tst.qualcomm.com
+stg.createpoint.qti.qualcomm.com
+*.be.forge.qualcomm.com
+dashboard-gbl.gcp-c2c-develop.qualcomm.com
+base-gbl.gcp-c2c-develop.qualcomm.com
+baps.qualcomm.com
+api-pepperjack.neptune-test.qualcomm.com

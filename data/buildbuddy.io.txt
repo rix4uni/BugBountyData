@@ -35,3 +35,4 @@ alerts.europe-west4.buildbuddy.io
 bazelcon.buildbuddy.io
 prom.us-central1.buildbuddy.io
 prom.buildbuddy.io
+helm.buildbuddy.io

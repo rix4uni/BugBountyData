@@ -1368,3 +1368,15 @@ lb-fabric-example.fortidemo.fortinet.com
 sdwan-thursday.fortidemo.fortinet.com
 ir-lb-roland.fortidemo.fortinet.com
 sdwan-emea-game-thursday.fortidemo.fortinet.com
+status.presence.fortinet.com
+*.labs.training.fortinet.com
+*.dfw.labs.training.fortinet.com
+*.dva.labs.training.fortinet.com
+*.fra.labs.training.fortinet.com
+*.hnd.labs.training.fortinet.com
+*.nce.labs.training.fortinet.com
+*.yhc.labs.training.fortinet.com
+*.yow.labs.training.fortinet.com
+*.ypk.labs.training.fortinet.com
+*.yvr.labs.training.fortinet.com
+*.yyc.labs.training.fortinet.com

@@ -22,3 +22,9 @@ eu.int.polyrize.com
 neo4j.int.polyrize.com
 promo.polyrize.com
 www.neo4j.int.polyrize.com
+*.int.polyrize.com
+*.preprod.polyrize.com
+*.staging.polyrize.com
+*.ca.polyrize.com
+*.polyrize.com
+*.eu.polyrize.com

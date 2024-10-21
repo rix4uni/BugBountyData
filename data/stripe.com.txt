@@ -1172,3 +1172,6 @@ preprod-terminal-statics.stripe.com
 qa-terminal-statics.stripe.com
 terminal-statics.stripe.com
 www.dashboard.stripe.com
+bigfoot.silverstripe.com
+staffdir.silverstripe.com
+wifi-guest.silverstripe.com

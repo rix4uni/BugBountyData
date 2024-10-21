@@ -2113,3 +2113,15 @@ sdc-coresvc2.synopsys.com
 config.cacsast.sig-clops.synopsys.com
 diamond-snps.synopsys.com
 us05fw-nat.synopsys.com
+*.altair.synopsys.com
+chatgpt4.synopsys.com
+acs-storage-cdev-us.altair.synopsys.com
+saasintg1-azure.cloud.synopsys.com
+addc1.saasintg1-azure.cloud.synopsys.com
+addc2.saasintg1-azure.cloud.synopsys.com
+johnwilson-anything.labs.polaris.synopsys.com
+service-smcc.labs.polaris.synopsys.com
+wsi-dash.labs.polaris.synopsys.com
+red-cat.labs.polaris.synopsys.com
+bdb-reader.labs.polaris.synopsys.com
+thanos.stg.cloudops.synopsys.com

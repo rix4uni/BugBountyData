@@ -2292,3 +2292,14 @@ ordersv2-next-02-dflt-02-https.next.prod.planet-labs.com
 platform-data-service-ie.staging.planet-labs.com
 pipeline-storage-archive.live.ingress-nginx.tfk-uc17.prod.planet-labs.com
 pv-sentinel-processing.prod.planet-labs.com
+*.qe-90.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-86.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-63.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-34.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-57.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-87.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-32.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-18.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-47.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.cert-manager.ingress.cinext-01.staging.k8s.planet-labs.com
+*.cert-manager.pw.cinext-01.staging.k8s.planet-labs.com

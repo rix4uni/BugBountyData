@@ -505,3 +505,15 @@ us.cdl.paloaltonetworks.com
 jp-s2.wildfire.paloaltonetworks.com
 search-tektalk-qa.paloaltonetworks.com
 us-central1.content.telemetry.paloaltonetworks.com
+bitcoin.dev3.as.appsvc.paloaltonetworks.com
+*.paloaltonetworks.com
+paloaltonetworks.com
+provider2.qa1.as.appsvc.paloaltonetworks.com
+ssopreview.paloaltonetworks.com
+www.ssopreview.paloaltonetworks.com
+www.paloaltonetworks.com
+data.product.xsoar.paloaltonetworks.com
+europe-west3.identity.prisma-saas.paloaltonetworks.com
+*.europe-west3.identity.prisma-saas.paloaltonetworks.com
+api-stg3.adv-saas-vis.paloaltonetworks.com
+pso-central-exp.paloaltonetworks.com

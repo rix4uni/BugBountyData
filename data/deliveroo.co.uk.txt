@@ -73,3 +73,8 @@ motherclucker.order.deliveroo.co.uk
 riders.deliveroo.co.uk
 order-staging.deliveroo.co.uk
 thecow.order.deliveroo.co.uk
+*.deliveroo.co.uk
+*.sandbox.deliveroo.co.uk
+*.staging.deliveroo.co.uk
+*.order.deliveroo.co.uk
+*.order-staging.deliveroo.co.uk

@@ -1,0 +1,15 @@
+api.analyzebox.atos.net
+apiproxy.a903446.global-a.dev.bm4gcp.agea.atos.net
+prometheus.global.3pa.bm4gcp.agea.atos.net
+dashboard.global.3pa.bm4gcp.agea.atos.net
+pki-valid.atos.net
+tls-ecc-root-2021-pki-valid.atos.net
+tls-rsa-root-2021-pki-valid.atos.net
+api.a563420eu1.eu1-a.dev.bm4gcp.agea.atos.net
+discovery.a648115.eu1-a.dev.bm4gcp.agea.atos.net
+awx.a563420eu1.eu1-a.dev.bm4gcp.agea.atos.net
+discovery.global.test.bm4gcp.agea.atos.net
+deployment.pcs.aws.atos.net
+api.a845972.global-a.dev.bm4gcp.agea.atos.net
+apiproxy.global.test.bm4gcp.agea.atos.net
+apiproxy.dev2vpod0.global-b.dev.bm4gcp.agea.atos.net

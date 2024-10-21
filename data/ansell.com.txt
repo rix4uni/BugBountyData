@@ -10,3 +10,11 @@ cd-qa-myansell.digital.ansell.com
 cm-qa.digital.ansell.com
 cd-qa-stag.digital.ansell.com
 pages.ansell.com
+ansell.com
+*.digital.ansell.com
+isupplier.ansell.com
+uat-isupplier.ansell.com
+*.ansell.com
+tst-isupplier.ansell.com
+tst2-isupplier.ansell.com
+tst1-isupplier.ansell.com

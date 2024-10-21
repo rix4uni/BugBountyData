@@ -4,3 +4,8 @@ admin.deliveroo.com.kw
 careers.deliveroo.com.kw
 deliveroo.com.kw
 foodscene.deliveroo.com.kw
+*.sandbox.deliveroo.com.kw
+*.deliveroo.com.kw
+*.staging.deliveroo.com.kw
+*.order.deliveroo.com.kw
+*.order-staging.deliveroo.com.kw

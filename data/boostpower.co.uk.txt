@@ -318,3 +318,5 @@ blair-e2e-bit-private.uat.boostpower.co.uk
 pan-service.bit-prod.boostpower.co.uk
 pdfgen-api.uat.billy.boostpower.co.uk
 customer-api.uat.billy.boostpower.co.uk
+*.public-psr.bit-nonprod.boostpower.co.uk
+*.public-psr.bit-prod.boostpower.co.uk

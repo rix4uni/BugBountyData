@@ -365,3 +365,10 @@ engine.uat.offers.ovoenergy.com
 ts.ovoenergy.com
 switch-csa-uat-pre-infex.ovoenergy.com
 paym.ovoenergy.com
+*.cop.ovoenergy.com
+*.energy-support.ovoenergy.com
+*.products.ovoenergy.com
+*.id.ovoenergy.com
+solar.ovoenergy.com
+*.solar.ovoenergy.com
+*.ondemand.ovoenergy.com

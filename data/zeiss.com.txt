@@ -1103,3 +1103,6 @@ bugfix-czmmax-3744-surgery-assi.dev.eq-mobile.zeiss.com
 staging.myvisionprofile.zeiss.com
 skmdevrbapi.zeiss.com
 mdpsrvcstest.zeiss.com
+author.max.aem.webdev.zeiss.com
+*.vision-p0.cloud.zeiss.com
+keycloak-weup.vision-p0.cloud.zeiss.com

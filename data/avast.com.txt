@@ -1592,3 +1592,13 @@ backendux.qa.int.avast.com
 4.prg.vc.avast.com
 git.wg.int.avast.com
 cdn-simulator.ff.avast.com
+program.gcporig.avast.com
+weborigin-webold-prod.gcporig.avast.com
+my-web-stage.avast.com
+vcp-portal-stage.ff.avast.com
+ipm-provider-test.ff.avast.com
+ipm-gcp-test.ff.avast.com
+driver-updater-test.ff.avast.com
+driver-updater-gcp-test.ff.avast.com
+devops-sandbox-test.stage-us-east1.smbrm.avast.com
+evomde-gcp.ff.avast.com

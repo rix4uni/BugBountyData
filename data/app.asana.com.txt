@@ -2763,3 +2763,8 @@ canary-us1-asana-cell07-affacce2.app.asana.com
 prod-us1-asana-cell14-4f6e8b5a.app.asana.com
 prod-us1-asana-cell11-91173137.asana.argocd.app.asana.com
 beta-us1-asana-cell01-56c1c03b.asana.argocd.app.asana.com
+*.prod-us1-asana-cell12-c37370ba.app.asana.com
+*.prod-us1-asana-cell12.app.asana.com
+*.prod-us1-asana-cell12-rollout.app.asana.com
+prod-us1-asana-cell12-c37370ba.asana.argocd.app.asana.com
+prod-us1-asana-cell12-c37370ba.app.asana.com

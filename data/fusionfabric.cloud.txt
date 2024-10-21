@@ -31,3 +31,6 @@ acme.291f3112.perf.fusionfabric.cloud
 qa.payments.fusionfabric.cloud
 acme-test.perf.perf.fusionfabric.cloud
 acme.3fc6cf0e.preprod.fusionfabric.cloud
+*.fusionfabric.cloud
+acme-test.winprodeastus.fusionfabric.cloud
+*.preprod.fusionfabric.cloud

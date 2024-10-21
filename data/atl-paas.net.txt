@@ -321,3 +321,11 @@ confluence-prod-eu-2--8lc8ot0vvrk2dvh1.eu-west-1.prod.atl-paas.net
 brisk-jira-website.us-east-1.staging.atl-paas.net
 confluence-prod-eu-3--oqefqejm0ebnrg3s.eu-west-1.prod.atl-paas.net
 confluence-prod-eu-1--9teh03r1ps7p8c4f.eu-west-1.prod.atl-paas.net
+*.frontend.public.atl-paas.net
+*.prod-apse2.frontend.public.atl-paas.net
+*.prod-east.frontend.public.atl-paas.net
+*.prod-apse.frontend.public.atl-paas.net
+*.prod-west2.frontend.public.atl-paas.net
+*.prod-euwest.frontend.public.atl-paas.net
+*.prod-west.frontend.public.atl-paas.net
+*.prod-eucentral.frontend.public.atl-paas.net

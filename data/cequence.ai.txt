@@ -695,3 +695,9 @@ auth-d.eng.int.cequence.ai
 prometheus.eng.int.cequence.ai
 edge.user-sandeep.eng.int.cequence.ai
 alertmanager-dev.eng.int.cequence.ai
+edge.cqprime.eng3.int.cequence.ai
+airflow.cqai.jac.demo.cequence.ai
+policy-engine.cqai.jac.demo.cequence.ai
+auth.cqai.jac.demo.cequence.ai
+ui.cqai.jac.demo.cequence.ai
+edge.cqai.jac.demo.cequence.ai

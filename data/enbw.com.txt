@@ -276,3 +276,5 @@ int-api-ecockpit.enbw.com
 dslkonto.enbw.com
 leasingangebot.enbw.com
 webdav.produktion.cms.enbw.com
+wallbox-shop.enbw.com
+*.wallbox-shop.enbw.com

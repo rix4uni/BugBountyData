@@ -2752,3 +2752,8 @@ publish.dev.aort.theplatform.com
 data.identity.auth.aort.theplatform.com
 cmpmov.cmp.aor-eks-1.eks.aor.theplatform.com
 sad-alert-processor.ops.cts.theplatform.com
+*.media.global.theplatform.com
+*.delivery.global.theplatform.com
+*.phl.theplatform.com
+*.entertainment.tv.global.theplatform.com
+test.mediafileanalysis.aor.theplatform.com

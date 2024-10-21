@@ -841,3 +841,9 @@ staging.r53.splunk.com
 identity-configuration.splunk.com
 iad-gw2.splunk.com
 px.staging.scs.splunk.com
+www.api.web.qa.splunk.com
+scs001-iad10.app-admin-temp.scs.splunk.com
+scs001-iad10.app-admin.scs.splunk.com
+app-admin-temp.scs.splunk.com
+staging-partners.splunk.com
+qa-partners.splunk.com

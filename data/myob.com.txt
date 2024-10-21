@@ -1123,3 +1123,9 @@ reminder-popeye-server-stub.jupiter-preprod.platform.myob.com
 victorops.demo.jupiter-preprod.platform.myob.com
 admin.account.myob.com
 dashboards.data.svc.europa.jupiter.myob.com
+dxp-seer-dashboard-grafana.svc.platform.myob.com
+alerting.psearch.svc.europa.jupiter.myob.com
+supporthub.myob.com
+stripe-merchant-account-auth.svc.platform.myob.com
+fs-event-processor.svc.platform.myob.com
+sme-licensing-service.dev.ar-service.myob.com

@@ -1,0 +1,8 @@
+mbg2-micollabx.rnd.aws.mitel.io
+micollab2-micollabx.rnd.aws.mitel.io
+mivb2-micollabx.rnd.aws.mitel.io
+*.us-east-1.us.api.mitel.io
+*.us-east-1.us.dev.api.mitel.io
+*.eu-central-1.eu.api.mitel.io
+*.eu-central-1.eu.dev.api.mitel.io
+*.ap-southeast-2.ap.dev.api.mitel.io

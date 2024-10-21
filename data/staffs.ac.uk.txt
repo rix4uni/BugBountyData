@@ -1,2 +1,15 @@
 staffs.ac.uk
 www.staffs.ac.uk
+gradex.staffs.ac.uk
+sumembership.sites.staffs.ac.uk
+awx.staffs.ac.uk
+grafana.staffs.ac.uk
+grafana-int.staffs.ac.uk
+grafana-prod-int.staffs.ac.uk
+grafana-prod.staffs.ac.uk
+grafana-test-int.staffs.ac.uk
+grafana-test.staffs.ac.uk
+grafanadash.staffs.ac.uk
+grafanatest.staffs.ac.uk
+*.sites.staffs.ac.uk
+sites.staffs.ac.uk

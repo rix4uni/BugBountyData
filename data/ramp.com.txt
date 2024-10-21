@@ -371,3 +371,9 @@ petside.cdn.ramp.com
 discovery.ramp.com
 demo-sso.ramp.com
 developers.ramp.com
+jenkins.am.identity.api.liveramp.com
+iwe-primary.us.am.identity.api.liveramp.com
+iwe-primary.us.am-staging.identity.api.liveramp.com
+lookup.am.identity.api.liveramp.com
+*.ramp.com
+motif.nexus.liveramp.com

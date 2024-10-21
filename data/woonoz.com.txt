@@ -52,3 +52,16 @@ voltaire-now.preprod-2.woonoz.com
 www.woonoz.com
 certification.woonoz.com
 livebook.traefik-prod.woonoz.com
+pma.rancher.woonoz.com
+manager-pro-pre3.traefik.woonoz.com
+manager-pre3.traefik.woonoz.com
+testmaria140.learn.traefik.woonoz.com
+pre1.learn.woonoz.com
+*.pre1.learn.woonoz.com
+*.pre3.learn.woonoz.com
+*.pre7.learn.woonoz.com
+*.pre2.learn.woonoz.com
+pre6.learn.woonoz.com
+*.pre6.learn.woonoz.com
+*.pre4.learn.woonoz.com
+*.pre5.learn.woonoz.com

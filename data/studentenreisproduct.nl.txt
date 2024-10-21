@@ -1,1 +1,9 @@
 services.studentenreisproduct.nl
+sturr-devtest.studentenreisproduct.nl
+*.sturr-demo.studentenreisproduct.nl
+*.sturr-dev.studentenreisproduct.nl
+*.sturr-devtest.studentenreisproduct.nl
+*.sturr-test.studentenreisproduct.nl
+sturr-demo.studentenreisproduct.nl
+sturr-dev.studentenreisproduct.nl
+sturr-test.studentenreisproduct.nl

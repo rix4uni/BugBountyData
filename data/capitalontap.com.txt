@@ -364,3 +364,6 @@ gocardless.us.capitalontap.com
 api-interactions.capitalontap.com
 prelive-mandrill-webhooks.us.capitalontap.com
 aadpodidtests.shared.ww.ext.k8s.capitalontap.com
+prometheus.pro.uk.int.k8s.capitalontap.com
+alertmanager.pro.uk.int.k8s.capitalontap.com
+grafana.pro.uk.int.k8s.capitalontap.com

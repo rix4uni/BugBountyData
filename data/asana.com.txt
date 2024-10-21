@@ -12363,3 +12363,6 @@ beta-us1-asana-exp-cell110-rollout.app.asana.com
 beta-us1-asana-exp-cell164-rollout.app.asana.com
 beta-us1-asana-exp-cell111-rollout.app.asana.com
 beta-us1-asana-exp-cell145-rollout.app.asana.com
+*.prod-us1-asana-cell12-c37370ba.app.asana.com
+prod-us1-asana-cell12-c37370ba.asana.argocd.app.asana.com
+prod-us1-asana-cell12-c37370ba.app.asana.com

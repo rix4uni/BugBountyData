@@ -136,3 +136,4 @@ resgate.eu-production.holodeck.voys.nl
 web-chat.za-staging.holodeck.voys.nl
 alertmanager.wd1-main.warpdrive.voys.nl
 vmex.eu-production.holodeck.voys.nl
+*.eu-staging.holodeck.voys.nl

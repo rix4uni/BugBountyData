@@ -1,0 +1,7 @@
+insights.covermymeds.com
+*.integration.covermymeds.com
+integration.covermymeds.com
+*.testing.covermymeds.com
+testing.covermymeds.com
+*.covermymeds.com
+covermymeds.com

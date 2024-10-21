@@ -11,3 +11,4 @@ staging-old.go-yubi.com
 developer.go-yubi.com
 pool.go-yubi.com
 mena.go-yubi.com
+*.go-yubi.com

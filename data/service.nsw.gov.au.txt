@@ -338,3 +338,8 @@ free-rego-check.service.nsw.gov.au
 auth.platform.vce.service.nsw.gov.au
 dashboard.apidevportal.service.nsw.gov.au
 replace-licence.service.nsw.gov.au
+service.nsw.gov.au
+*.api.vcpc-ext.service.nsw.gov.au
+*.service.nsw.gov.au
+*.apps.vcpc-ext.service.nsw.gov.au
+www.service.nsw.gov.au

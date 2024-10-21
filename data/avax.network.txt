@@ -275,3 +275,5 @@ test2-api.avax.network
 custody-api-dev.avax.network
 glacier-api-test.avax.network
 custody-api-prod.avax.network
+api-retro-9000.avax.network
+retro-9000.avax.network

@@ -153,3 +153,8 @@ downloads.arista.com
 gcp-dev.eos.arista.com
 events.arista.com
 vportal.arista.com
+ce.act.arista.com
+*.ce.act.arista.com
+wpbarista.com
+*.wpbarista.com
+traininglabs-dev.arista.com

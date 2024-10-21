@@ -2342,3 +2342,12 @@ py920.api.jde.coke.com
 b2c-fanta-alfies.alpha.apac.gcds.coke.com
 aadb2c-apig-pri.dev.uk.costa.alpha.global.gcds.coke.com
 dev.translation.emea.gcds.coke.com
+*.test.packaging.coke.com
+*.dev.tis.coke.com
+ingestion.prospect.beta.global.gcds.coke.com
+services-apig.prospect.beta.global.gcds.coke.com
+services.prospect.beta.global.gcds.coke.com
+conversion-apig.prospect.beta.global.gcds.coke.com
+privacy.prospect.beta.global.gcds.coke.com
+*.test.tis.coke.com
+*.dev.packaging.coke.com

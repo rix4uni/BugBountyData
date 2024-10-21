@@ -26,3 +26,5 @@ www.stackbit.com
 app.stackbit.com
 docs.stackbit.com
 staging.widget.stackbit.com
+*.app.stackbit.com
+*.stackbit.com

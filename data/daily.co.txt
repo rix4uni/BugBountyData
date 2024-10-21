@@ -301,3 +301,7 @@ trust.daily.co
 af-south-1.wss.daily.co
 jensenadsolutions.daily.co
 blog.staging.daily.co
+*.wss.daily.co
+*.daily.co
+*.eu-west-2.wss.daily.co
+*.eu-central-1.wss.daily.co

@@ -196,3 +196,5 @@ apps.stage.superbet.com
 feeds.superbet.com
 hubble.dev.superbet.com
 qa.betler.superbet.com
+*.stage.betler.superbet.com
+*.qa.betler.superbet.com

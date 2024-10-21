@@ -11910,3 +11910,9 @@ cmawsnpew2a.t-mobile.com
 vsgche10.sd-edge.t-mobile.com
 wrgcore.cnf.irv401.sip.t-mobile.com
 card-engine-direct.reg.dab.t-mobile.com
+*.t-mobile.com
+*.dd-stg.kube.t-mobile.com
+*.msg.t-mobile.com
+*.tfb.t-mobile.com
+*.ahub.t-mobile.com
+*.metrobyt-mobile.com

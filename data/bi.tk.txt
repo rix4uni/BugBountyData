@@ -109,3 +109,7 @@ gallant-hofstadter.docker.bi.tk
 docker.bi.tk
 determined-galileo.docker.bi.tk
 elated-matsumoto.docker.bi.tk
+fit-dashboard-a.bi.tk
+*.fit-dashboard-a.bi.tk
+equiptracker.fit-dashboard-a.bi.tk
+*.equiptracker.fit-dashboard-a.bi.tk

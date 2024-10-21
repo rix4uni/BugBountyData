@@ -53,3 +53,13 @@ studio-static.sanity.work
 apicdn.sanity.work
 api.r2.sanity.work
 api.sanity.work
+*.api-test.sanity.work
+*.api.sanity.work
+*.api.us.sanity.work
+*.apicdn.sanity.work
+*.apicdn.us.sanity.work
+*.cdn.sanity.work
+*.cdn.us.sanity.work
+*.sanity.work
+*.studio.sanity.work
+*.us.sanity.work

@@ -2222,3 +2222,4 @@ yakubu.staging.backend-staging.xvtest.net
 145.v2-staging-dennis.xvtest.net
 146.v2-staging-dennis.xvtest.net
 blog.web-staging.xvtest.net
+*.frontend-qa.xvtest.net

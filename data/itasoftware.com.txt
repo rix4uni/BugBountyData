@@ -841,3 +841,4 @@ guest-fw.dc4.itasoftware.com
 sec.ge0-0.inet-rtr1.dc4.itasoftware.com
 cust125-1.itasoftware.com
 cust32-185.itasoftware.com
+*.internal.itasoftware.com

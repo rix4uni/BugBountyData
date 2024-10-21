@@ -172,3 +172,5 @@ dk-copenhagen-api.citymapper.com
 docs.mainland-eks-staging.citymapper.com
 urluk-london-api.citymapper.com
 lobster.citymapper.com
+*.identity.citymapper.com
+*.citymapper.com

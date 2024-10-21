@@ -35072,3 +35072,13 @@ _value.lacework.net
 dev6-eks.corp2.lacework.net
 spork2.corp5.lacework.net
 qa1006.corp3.lacework.net
+*.poc.lacework.net
+*.dev7.corp.lacework.net
+*.lacework.net
+*.kubeaprodus2.lacework.net
+*.dev.lacework.net
+*.autopush3.corp.lacework.net
+*.corp.lacework.net
+*.dev3.corp.lacework.net
+*.preprod.corp.lacework.net
+*.qa7.corp.lacework.net

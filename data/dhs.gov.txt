@@ -1701,3 +1701,5 @@ tapidentityuat.tsa.dhs.gov
 sbcp5.dhs.gov
 baa2-12c.st.dhs.gov
 guac.env3.staging.cool.cyber.dhs.gov
+fema-gp.dhs.gov
+*.fema-gp.dhs.gov

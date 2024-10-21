@@ -755,3 +755,11 @@ openapidev.qa.bazaarvoice.com
 eugene-test-27.qa.bazaarvoice.com
 us-east-1a.bosun.prod.bazaarvoice.com
 feedmonitor.eu-west-1a.bosun.qa.bazaarvoice.com
+*.internal.sampling.prod.bazaarvoice.com
+*.eu.internal.sampling.prod.bazaarvoice.com
+*.us.internal.sampling.prod.bazaarvoice.com
+samplingcalculator.qa.bazaarvoice.com
+discover.bazaarvoice.com
+*.internal.sampling.qa.bazaarvoice.com
+*.eu.internal.sampling.qa.bazaarvoice.com
+*.us.internal.sampling.qa.bazaarvoice.com

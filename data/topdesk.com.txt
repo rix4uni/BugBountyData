@@ -45,3 +45,6 @@ library.topdesk.com
 sip.topdesk.com
 page.topdesk.com
 community.topdesk.com
+*.staging2.marketplace.topdesk.com
+topdesk.com
+*.topdesk.com

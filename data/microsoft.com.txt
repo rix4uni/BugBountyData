@@ -90985,3 +90985,14 @@ cusgaibluanr04.network.microsoft.com
 dsgsinwooanr04.network.microsoft.com
 duschy644anr04.network.microsoft.com
 tikaserverrt.prd-inline.mda.securitycenter.microsoft.com
+*.aadpoliciesapi.directory-int.teams.microsoft.com
+*.partnerapi.directory-int.teams.microsoft.com
+*.eventsync.directory-int.teams.microsoft.com
+*.qcibenwit-1.svc.aksinternal.cbci.microsoft.com
+*.qcicohani-1.svc.aksinternal.cbci.microsoft.com
+*.qci29217423.svc.aksinternal.cbci.microsoft.com
+*.qci29215312.svc.aksinternal.cbci.microsoft.com
+ics-test.ideas.microsoft.com
+ics.ideas.microsoft.com
+sharedservicesaadclient.dev.ms.onepub.microsoft.com
+sip.api.purview.microsoft.com

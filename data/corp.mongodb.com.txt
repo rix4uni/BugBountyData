@@ -1116,3 +1116,6 @@ devhub-ui.devrel.prod.corp.mongodb.com
 blog.website.prod.corp.mongodb.com
 mongodbcom.website.prod.corp.mongodb.com
 mongodbcom-qa5.website.staging.corp.mongodb.com
+central-rag.corps.staging.corp.mongodb.com
+apix-bot.skunkworks.staging.corp.mongodb.com
+apix-bot.cloud-build.staging.corp.mongodb.com

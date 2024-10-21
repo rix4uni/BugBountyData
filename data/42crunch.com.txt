@@ -44,3 +44,6 @@ platform-revision.dev.42crunch.com
 static.42crunch.com
 platform-ipfw.dev.42crunch.com
 registry.42crunch.com
+platform-admin.dev.42crunch.com
+protection.dev.42crunch.com
+services.dev.42crunch.com

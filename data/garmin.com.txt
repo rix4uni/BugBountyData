@@ -2,3 +2,13 @@ www2.garmin.com
 garmin.com
 www.garmin.com
 www8.garmin.com
+pns.ciq.stage.garmin.com
+*.pns.ciq.stage.garmin.com
+vivokidmission-demo.garmin.com
+*.vivokidmission-demo.garmin.com
+test.omtapp.garmin.com
+taroko-stg.gcs.garmin.com
+*.taroko-stg.gcs.garmin.com
+wue-transfer.garmin.com
+asia-oem.garmin.com
+*.asia-oem.garmin.com

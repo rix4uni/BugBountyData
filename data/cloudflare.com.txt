@@ -22750,3 +22750,5 @@ origin.indexer.ipfs.cloudflare.com
 indexer-origin.ipfs.cloudflare.com
 4.dcvcheck.cloudflare.com
 nel02-data.gcp.nel.cloudflare.com
+aig.cloudflare.com
+*.aig.cloudflare.com

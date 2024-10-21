@@ -12,3 +12,5 @@ client.dev.terminal.io
 www.client.dev.terminal.io
 www.terminal.io
 apply.dev.terminal.io
+infra-test.terminal.io
+*.infra-test.terminal.io

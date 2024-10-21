@@ -1,2 +1,5 @@
 meta.ai
 www.meta.ai
+*.meta.ai
+*.trunkstable.meta.ai
+trunkstable.meta.ai

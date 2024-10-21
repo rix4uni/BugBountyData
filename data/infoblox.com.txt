@@ -1,0 +1,4 @@
+teleport.gcp-dev.sdp.infoblox.com
+*.teleport.gcp-dev.sdp.infoblox.com
+*.ddi-prd-frk1.ddiaas.csp.infoblox.com
+*.ddi-prd-nva1.ddiaas.csp.infoblox.com

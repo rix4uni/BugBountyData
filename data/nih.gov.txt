@@ -75628,3 +75628,5 @@ scm.dev-ase.nhlbi.nih.gov
 scm.nonprod-ase.nhlbi.nih.gov
 awssec.nlm.nih.gov
 lhcaws-dev-pub.nlm.nih.gov
+*.nihlibrary.nih.gov
+*.catalog.ninds.nih.gov

@@ -92,3 +92,7 @@ o11.front-mail.frontapp.com
 out-5.frontapp.com
 message-tagger.data.frontapp.com
 auth-staging.data.frontapp.com
+in.frontapp.com
+in-nlb.frontapp.com
+frontapp.com
+*.frontapp.com

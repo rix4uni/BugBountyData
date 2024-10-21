@@ -105,3 +105,4 @@ mx1-ord.postmarkapp.com
 rebound-new.postmarkapp.com
 api.postmarkapp.com
 p-pm-inbound02a-aws-apnortheast2a.inbound.postmarkapp.com
+*.sg.postmarkapp.com

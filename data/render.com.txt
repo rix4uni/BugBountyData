@@ -1,0 +1,5 @@
+*.render.com
+*.app.render.com
+render.com
+image-registry.internal.dev.render.com
+*.image-registry.internal.dev.render.com

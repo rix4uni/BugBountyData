@@ -1,0 +1,9 @@
+wiki.quadx.xyz
+quadx.xyz
+*.dev.quadx.xyz
+*.prod.quadx.xyz
+*.quadx.xyz
+*.sandbox.quadx.xyz
+*.service.quadx.xyz
+*.staging.quadx.xyz
+*.test.quadx.xyz

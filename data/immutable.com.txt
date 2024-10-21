@@ -195,3 +195,5 @@ api.segment.sandbox.games.immutable.com
 commerce.dev.immutable.com
 l.marketing.immutable.com
 toolkit.immutable.com
+*.sandbox.x.immutable.com
+l.passport.immutable.com

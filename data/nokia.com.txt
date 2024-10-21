@@ -29216,3 +29216,5 @@ _h323cs._tcp.nokia.com
 _sips._tcp.nokia.com
 cm._domainkey.nokia.com
 *.eks-1-30-1310-065041.nuke-aws.labs.cns.nokia.com
+*.vt1021a-d58j4.aut.saas.nokia.com
+*.vt1021w-bkktq.aut.saas.nokia.com

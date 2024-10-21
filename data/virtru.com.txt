@@ -365,3 +365,4 @@ cse-virtru.production.mgmt-prod-blue.virtru.com
 litmus.develop-blue.virtru.com
 argocd.staging-green.virtru.com
 dockerhub-eas-eventsource-svc.mgmt.virtru.com
+*.secure.develop.virtru.com

@@ -454,3 +454,9 @@ alpha.abs.gov.au
 test.hub.census.abs.gov.au
 office-share.test.abs.gov.au
 ip-bwap.aws.abs.gov.au
+*.ausstats.test.abs.gov.au
+*.test.abs.gov.au
+*.ausstats.archive.test.abs.gov.au
+*.archive.test.abs.gov.au
+*.data.test.abs.gov.au
+data.api.abs.gov.au

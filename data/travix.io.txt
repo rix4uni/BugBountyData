@@ -9507,3 +9507,5 @@ test-1d7f0fa0-954b-47bb-acba-e3830d6ccddb.internal.travix.io
 dis-1010-origami-storybook.stg.internal.travix.io
 flightinfo.prd.internal.travix.io
 test-334cd933-ae81-4c40-b147-e910ccfa3084.prd.internal.travix.io
+*.tooling.internal.travix.io
+*.travix.io

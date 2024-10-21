@@ -24122,3 +24122,7 @@ a.adobe.com
 default._domainkey.adobe.com
 gme.corp.adobe.com
 sj1010010240180.corp.adobe.com
+maverick-api-stg.corp.adobe.com
+maverick-api-prd.corp.adobe.com
+maverick-api-dev.corp.adobe.com
+testbrokensan1.cm-verify.adobe.com

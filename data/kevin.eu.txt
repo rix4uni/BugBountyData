@@ -42,3 +42,7 @@ network.dev.kevin.eu
 tsp-api.dev.kevin.eu
 sandbox.kevin.eu
 authorization-host.staging.kevin.eu
+kevin.eu
+*.kevin.eu
+www.kevin.eu
+*.staging.kevin.eu

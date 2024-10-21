@@ -1,0 +1,8 @@
+cms12-int.ksat.no
+dev.aws-mcs-dev.az.ksat.no
+grafana.dev.aws-mcs-dev.az.ksat.no
+rabbitmq.dev.aws-mcs-dev.az.ksat.no
+*.dc.ksat.no
+*.staging.dc.ksat.no
+bitwarden.ksat.no
+splunk.ksat.no

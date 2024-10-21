@@ -52,3 +52,4 @@ staging.gaest.com
 stargate.gaest.com
 traefik.gaest.com
 opagaest.com
+*.gaest.com

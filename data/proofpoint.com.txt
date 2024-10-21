@@ -1022,3 +1022,10 @@ explore-dev.proofpoint.com
 adexch12.cloud.lab.proofpoint.com
 essentials-arc-web.aws-us-east-1.proofpoint.com
 scancloud-connector-eu.proofpoint.com
+scancloud.proofpoint.com
+scancloud-ext.prod-c15b-awsuse.proofpoint.com
+*.native.mc.access.proofpoint.com
+stg1-swg-nginx-s3-gw.access.proofpoint.com
+swg-nginx-s3-gw.access.proofpoint.com
+scancloud-ext.prod-c15a-awseuc.proofpoint.com
+scancloud-eu.proofpoint.com

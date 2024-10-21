@@ -35,3 +35,4 @@ jetbrains.clickhouse.com
 repo.clickhouse.com
 slack-events.clickhouse.com
 builds.clickhouse.com
+*.crypto-clickhouse.clickhouse.com

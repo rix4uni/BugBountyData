@@ -174,3 +174,9 @@ vpwebshopdev.apps.cloud.voith.com
 myvoith-registration-dev.apps.cloud.voith.com
 aka.voith.com
 www.corporatebranding.voith.com
+activity-stream-shadow.industrial.eu.voith.com
+acs.k8s.aws.cloud.voith.com
+digitalworkflowbuilder.staging.eu.voith.com
+activityreportssalesagents-staging.k8s.aws.cloud.voith.com
+nginx.dmz-eks.aws.cloud.voith.com
+customer-onboarding.k8s.aws.cloud.voith.com

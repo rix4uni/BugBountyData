@@ -1,0 +1,7 @@
+enigma.prod.wl.devim.team
+airflow.prod.devim.team
+collectors-saas.test.wl.devim.team
+collectors-saas2.test.wl.devim.team
+devim.team
+*.devim.team
+stage-asterisk-03.devim.team

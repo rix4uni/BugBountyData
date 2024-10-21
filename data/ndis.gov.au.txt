@@ -179,3 +179,6 @@ api.corporate-operational-datastore.development.ndis.gov.au
 osas-api.sandbox-zeus.development.ndis.gov.au
 jiraqa.partners.ndis.gov.au
 image.e.ndis.gov.au
+warp-debugging-access-only.development.ndis.gov.au
+ciam.user-acceptance-testing.staging.ndis.gov.au
+ciam.development.ndis.gov.au

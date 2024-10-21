@@ -356,3 +356,4 @@ inspections-southwaikato.buildnonprod.objective.com
 dev1.buildnonprod.objective.com
 waccc.nexus.objective.com
 phishing.infosec.objective.com
+*.buildnonprod.objective.com

@@ -1975,3 +1975,6 @@ wendigo.us-east-2.sandbox.qa.indeed.net
 pma.ausoff.indeed.net
 firefly.us-east-2.sandbox.stage.indeed.net
 template-service.sandbox.qa.indeed.net
+*.pages.stage.indeed.net
+code.stage.indeed.net
+registry.stage.indeed.net

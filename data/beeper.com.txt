@@ -268,3 +268,4 @@ us-east-1.media.beeper.com
 eu-central-2.media.beeper.com
 us-east-2.media.beeper.com
 aws.beeper.com
+*.beeper.com

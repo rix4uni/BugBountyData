@@ -36,3 +36,6 @@ docs.loginradius.com
 secure.loginradius.com
 authenticate.loginradius.com
 product-dev.demo.loginradius.com
+*.loginradius.com
+*.hub.loginradius.com
+loginradius.com

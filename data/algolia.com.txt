@@ -690,3 +690,5 @@ us.prod.inference.ai.algolia.com
 otlp.us.prod.inference.ai.algolia.com
 cdn.staging.inference.ai.algolia.com
 otlp.eu.prod.inference.ai.algolia.com
+*.us.prod.inference.ai.algolia.com
+*.eu.prod.inference.ai.algolia.com

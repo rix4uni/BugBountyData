@@ -119,3 +119,9 @@ na.kiwi.ki
 housing.new-production.kiwi.ki
 lychee.new-production.kiwi.ki
 owa.kiwi.ki
+*.new-production.kiwi.ki
+*.lychee.new-production.kiwi.ki
+*.housing.kiwi.ki
+*.housing.new-production.kiwi.ki
+*.services.new-production.kiwi.ki
+*.lychee.kiwi.ki

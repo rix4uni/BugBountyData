@@ -1,0 +1,7 @@
+duodeka.com
+*.duodeka.com
+drone.duodeka.com
+registry.duodeka.com
+verdaccio.duodeka.com
+docker-registry.duodeka.com
+srv2.duodeka.com

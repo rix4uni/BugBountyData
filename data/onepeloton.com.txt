@@ -360,3 +360,7 @@ factorypublic-factory-dashboard.prod.k8s.onepeloton.com
 wifi-config.stage.k8s.onepeloton.com
 jaypatel.dev.k8s.onepeloton.com
 braze-cc-poc.stage.k8s.onepeloton.com
+logistics.prod.k8s.onepeloton.com
+martech-backend-serv.dev.k8s.onepeloton.com
+verify.onepeloton.com
+*.verify.onepeloton.com

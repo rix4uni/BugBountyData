@@ -1,0 +1,13 @@
+static.test.csp.dev.nccgroup.com
+*.files.eu.csp.nccgroup.com
+*.files.uk.ci.csp.dev.nccgroup.com
+*.files.uk.csp.nccgroup.com
+*.files.uk.test.csp.dev.nccgroup.com
+*.files.eu.test.csp.dev.nccgroup.com
+*.files.us.ci.csp.dev.nccgroup.com
+static.csp.nccgroup.com
+*.files.us.test.csp.dev.nccgroup.com
+*.files.us.csp.nccgroup.com
+*.files.ap.test.csp.dev.nccgroup.com
+*.files.ap.csp.nccgroup.com
+static.ci.csp.dev.nccgroup.com

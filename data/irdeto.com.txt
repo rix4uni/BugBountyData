@@ -567,3 +567,11 @@ access-emea.irdeto.com
 portal.opd-live.opd24.irdeto.com
 poc-plugins-content.irdeto.com
 jobs.irdeto.com
+*.stage.fm.ks.irdeto.com
+*.fms.stage.fm.ks.irdeto.com
+*.kms.keystoneapis.stage.fm.ks.irdeto.com
+irca.stage.fm.ks.irdeto.com
+*.irca.stage.fm.ks.irdeto.com
+*.events.keystoneapis.stage.fm.ks.irdeto.com
+impertohelp.irdeto.com
+*.live.iot.irdeto.com

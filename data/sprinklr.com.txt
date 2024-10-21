@@ -575,3 +575,6 @@ prod3-spx-components.sprinklr.com
 prod-samsung-care.sprinklr.com
 azrqa-office-restricted-azrlb.sprinklr.com
 presentations.sprinklr.com
+*.prod-k8singress-intuition2.sprinklr.com
+*.prod-k8singress-intuition2-crossenv.sprinklr.com
+*.prod11-intuition.k8s-ingress-internal.sprinklr.com

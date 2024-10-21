@@ -519,3 +519,9 @@ mainserver.intpme.trueskill.playfab.com
 mainserver.intpme.gamesave.playfab.com
 mainserver.prodpme.matchmaking.playfab.com
 intpme.pubsub.playfab.com
+*.dev.catalog.playfab.com
+*.inventory-prod-westus2-2406.prod.inventory.playfab.com
+*.prod.inventory.playfab.com
+*.inventory-prod-westus3-2406.prod.inventory.playfab.com
+*.inventory-ppe-westus2-2407.inventory.ppe.economy.playfab.com
+*.inventory.ppe.economy.playfab.com

@@ -1,0 +1,11 @@
+prom2teams.sgp1.stage.do.ops-services.a.audinate.com
+prom2teams.sgp1.stage.do.ops-services.a.corp.audinate.com
+blackbox-exporter.cbg.prod.onprem.ops-services.a.audinate.com
+prometheus.cbg.prod.onprem.ops-services.a.audinate.com
+traefik.nbgp-2.sfo2.prod.do.ops-services.a.audinate.com
+prometheus.sgp1.stage.do.ops-services.a.audinate.com
+prometheus.sgp1.stage.do.ops-services.a.corp.audinate.com
+pushgateway.sgp1.stage.do.ops-services.a.corp.audinate.com
+jenkins.eng.stage.corp.audinate.com
+jenkins.eng.corp.audinate.com
+traefik.ops-node0.cbg.prod.onprem.ops-services.a.audinate.com

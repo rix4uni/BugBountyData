@@ -96,3 +96,8 @@ cx234-aws-us-west-2.coralogix.com
 stage.coralogix.com
 ap3.coralogix.com
 signup.coralogix.com
+*.ap3.coralogix.com
+*.coralogix.com
+*.cx498.coralogix.com
+*.eu2.coralogix.com
+*.gr.coralogix.com

@@ -40,3 +40,5 @@ regex-safety-validator.hackthebox.com
 academy-cdn.hackthebox.com
 events.hackthebox.com
 referral.hackthebox.com
+*.hackthebox.com
+*.dev.hackthebox.com

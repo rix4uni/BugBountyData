@@ -229,3 +229,4 @@ kubernetes.skia.org
 cim-api.skia.org
 ns2.skia.org
 mongodb.skia.org
+*.g-issues.skia.org

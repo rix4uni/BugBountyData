@@ -30,3 +30,4 @@ pattern-search.scrat.cloudflare-security.com
 passcake.cloudflare-security.com
 gcr-validation.cloudflare-security.com
 security-advisories-feeder.cloudflare-security.com
+*.retry.scrat.cloudflare-security.com

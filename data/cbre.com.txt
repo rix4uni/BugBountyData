@@ -16885,3 +16885,14 @@ prod-use2-green.svc.cbre.com
 prod-use2-blue.svc.cbre.com
 devops-use2-green.serviceinsight.cbre.com
 prod-usce-blue.svc.cbre.com
+active.uat.pjmtech-np.cbre.com
+active.uatapi.pjmtech-np.cbre.com
+dashboard.active.uat.pjmtech-np.cbre.com
+dashboard.preview.uat.pjmtech-np.cbre.com
+grafana.active.uat.pjmtech-np.cbre.com
+grafana.preview.uat.pjmtech-np.cbre.com
+grafana.qa.pjmtech-np.cbre.com
+grafana.uat.pjmtech-np.cbre.com
+preview.uat.pjmtech-np.cbre.com
+preview.uatapi.pjmtech-np.cbre.com
+poc-ereg.ifmhub.cbre.com

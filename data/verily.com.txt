@@ -5728,3 +5728,5 @@ test.iac.vrps.api.verily.com
 dev-stable.retinal.api.verily.com
 dev-stable.vrps.api.verily.com
 workbench-dev-unstable-ecm.api.verily.com
+bpls.prod.verily.com
+bpls2.prod.verily.com

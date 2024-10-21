@@ -11152,3 +11152,6 @@ iceblox.ctf.sec-tooling-dev.personio-internal.de
 ai.dev.personio-internal.de
 grpc-absence-management-service.dev.personio-internal.de
 cf-www.gitlab.personio-internal.de
+*.dev.personio-internal.de
+*.dd.dev.personio-internal.de
+*.tao.dev.personio-internal.de

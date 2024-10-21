@@ -4957,3 +4957,7 @@ ma.01.api.cx.metamask.io
 0050.api.cx.metamask.io
 006677.api.cx.metamask.io
 000058.api.cx.metamask.io
+evm.uat-api.cx.metamask.io
+account.uat-api.cx.metamask.io
+uat-api.cx.metamask.io
+*.uat-api.cx.metamask.io

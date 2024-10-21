@@ -912,3 +912,5 @@ ssh.ams-ix.net
 mailhog.rabbit-mq.ix-api-dev.ams-ix.net
 feat-change-seeds.ix-api-dev.ams-ix.net
 edge-eqx-015.sflow.ams-ix.net
+*.datafarm.sbx.ams-ix.net
+*.k3d-awx.sbx.ams-ix.net
