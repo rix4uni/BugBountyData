@@ -14944,3 +14944,16 @@ fuucet.n1.epm-rppl.projects.epam.com
 nexuses.edp.epam.com
 oauth-client.info.epam.com
 teams-dev-aws.awsdev.epm-dce.projects.epam.com
+*.apps.oss-install.mdtu-ddm.projects.epam.com
+*.teams-dev-aws.awsdev.epm-dce.projects.epam.com
+api.stage.pipeline.epam.com
+elasticsearch-v6-296.aws.radar.stage.epam.com
+milvus-prod.llm.lab.epam.com
+preview-en-cz-web-dev.aemcloud.epam.com
+preview-pl-web-dev.aemcloud.epam.com
+preview-timeline-web-dev.aemcloud.epam.com
+preview-ua-web-dev.aemcloud.epam.com
+r2.vladik-learn.epm-tmc.projects.epam.com
+rd.vladik-learn.epm-tmc.projects.epam.com
+resumebuilder.lab.epam.com
+stage.pipeline.epam.com

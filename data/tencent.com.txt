@@ -5001,3 +5001,7 @@ antivirus.bo.webproxy.idchost.tencent.com
 test.aibb.tencent.com
 webproxy.idcfreesurveyopscbillingjcusz-testpolicy-tmesitsz-message.cloud.tencent.com
 pre.aibb.tencent.com
+*.ifbook.tencent.com
+*.mock.ifbook.tencent.com
+gmbh.cloud.tencent.com
+ifbook.tencent.com

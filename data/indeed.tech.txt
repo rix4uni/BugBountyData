@@ -22920,3 +22920,5 @@ bmo.awscmhqa4.k8s.indeed.tech
 advertiserservice.awscmhstage2.k8s.indeed.tech
 billing-account-service-cdc.awscmh2.k8s.indeed.tech
 blobby.awscmh2.k8s.indeed.tech
+*.flex-redash.dev.indeed.tech
+rip-acct-confirm-qa-ldap.awscmhqa4.k8s.indeed.tech

@@ -3326,3 +3326,6 @@ dashboard-manager-master-hue8s.demo.grindr.io
 aefikpublic-cloud.demo.grindr.io
 k8s-east.demo.grindr.io
 email.notifications.grindr.io
+*.mlops-nonsensitive.grindr.io
+apis.mlops-nonsensitive.grindr.io
+mlops-nonsensitive.grindr.io

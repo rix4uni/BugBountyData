@@ -24126,3 +24126,8 @@ maverick-api-stg.corp.adobe.com
 maverick-api-prd.corp.adobe.com
 maverick-api-dev.corp.adobe.com
 testbrokensan1.cm-verify.adobe.com
+*.projectsilvy.adobe.com
+dev.projectsilvy.adobe.com
+no1010042234054.corp.adobe.com
+paceanoptii.cm-verify.adobe.com
+stg.projectsilvy.adobe.com

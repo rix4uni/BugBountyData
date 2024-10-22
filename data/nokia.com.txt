@@ -29218,3 +29218,16 @@ cm._domainkey.nokia.com
 *.eks-1-30-1310-065041.nuke-aws.labs.cns.nokia.com
 *.vt1021a-d58j4.aut.saas.nokia.com
 *.vt1021w-bkktq.aut.saas.nokia.com
+*.citwkl1610-xmhxl.aut.sdf.saas.nokia.com
+*.cw1014w-hhqf7.aut.saas.nokia.com
+*.cw1014w-hj82p.aut.saas.nokia.com
+*.cw1014w-qs84r.aut.saas.nokia.com
+*.eks-1-31-2110-223211.nuke-aws.labs.cns.nokia.com
+*.gp1021b-42x74.aut.saas.nokia.com
+*.pm1014w-pcvpb.aut.saas.nokia.com
+*.sdl1021wkl-a-znm29.aut.saas.nokia.com
+*.sdl1021wkl-b-t2rw7.aut.saas.nokia.com
+*.vt1014wkld-s22p9.aut.saas.nokia.com
+argocd.portal.icsef02.aut.sdf.saas.nokia.com
+argoworkflows.portal.icsef03.aut.sdf.saas.nokia.com
+argoworkflows.portal.icsef04.aut.sdf.saas.nokia.com

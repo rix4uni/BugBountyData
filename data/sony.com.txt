@@ -17289,3 +17289,6 @@ origin.nonprod.data.sie.sony.com
 nonprod.data.sie.sony.com
 microstrategy.nonprod.data.sie.sony.com
 interactive.sony.com
+*.dev.update.me.sony.com
+dev.update.me.sony.com
+prodreg-stage.electronics.sony.com

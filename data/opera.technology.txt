@@ -1889,3 +1889,7 @@ proxmox-am4.opera.technology
 trn.opera.technology
 elk-node4.opera.technology
 opensearch-node4.opera.technology
+mail-relay.opera.technology
+mail-relay.ams.opera.technology
+mail-relay.singa.opera.technology
+mail-relay.trn.opera.technology

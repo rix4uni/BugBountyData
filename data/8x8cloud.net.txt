@@ -205,3 +205,4 @@ nginxtest-dev.pilot.aws.infra8.8x8cloud.net
 mobilesvcs-stage.aws.infra8.8x8cloud.net
 mobilesvcs-dev.aws.infra8.8x8cloud.net
 www.8x8cloud.net
+*.mobilesvcs-dev.aws.infra8.8x8cloud.net

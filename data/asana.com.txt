@@ -12366,3 +12366,12 @@ beta-us1-asana-exp-cell145-rollout.app.asana.com
 *.prod-us1-asana-cell12-c37370ba.app.asana.com
 prod-us1-asana-cell12-c37370ba.asana.argocd.app.asana.com
 prod-us1-asana-cell12-c37370ba.app.asana.com
+*.prod-us1-asana-cell10-c22010e9.app.asana.com
+*.prod-us1-asana-cell11-527bb587.app.asana.com
+*.prod-us1-asana-cell14-1f1b15e0.app.asana.com
+prod-us1-asana-cell10-c22010e9.app.asana.com
+prod-us1-asana-cell10-c22010e9.asana.argocd.app.asana.com
+prod-us1-asana-cell11-527bb587.app.asana.com
+prod-us1-asana-cell11-527bb587.asana.argocd.app.asana.com
+prod-us1-asana-cell14-1f1b15e0.app.asana.com
+prod-us1-asana-cell14-1f1b15e0.asana.argocd.app.asana.com

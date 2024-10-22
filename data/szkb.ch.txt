@@ -134,3 +134,6 @@ ebill-mq-prod.szkb.ch
 viseca-api-test.szkb.ch
 developer-cs-cred.prod.szkb.ch
 ebill-api-prod.szkb.ch
+twint-api-test.szkb.ch
+twint-iam-test.szkb.ch
+twint-int-test.szkb.ch

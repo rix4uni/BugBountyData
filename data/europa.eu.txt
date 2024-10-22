@@ -16775,3 +16775,10 @@ emswe-db-test.emsa.europa.eu
 prod.citi.fpfis.tech.ec.europa.eu
 snctest.ecdp.tech.ec.europa.eu
 dublin.booking.europarl.europa.eu
+*.eurobarometer.europa.eu
+console.s3.cordis.europa.eu
+fts02.eu-2.datatransfer.open-science-cloud.ec.europa.eu
+office.drive.open-science-cloud.ec.europa.eu
+oms-jira.beta.open-science-cloud.ec.europa.eu
+permission-ui.test.aws.landing-zone.webcloud.ec.europa.eu
+s3.cordis.europa.eu

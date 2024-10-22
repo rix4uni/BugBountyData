@@ -11678,3 +11678,17 @@ internal-prometheus-kubemetrics.pt-techx-usw2.cvshealth.com
 testing-renewal-after-upgrade.cvshealth.com
 cld-f5-ltm-int-prd-09.cvshealth.com
 cld-f5-ltm-int-prd-10.cvshealth.com
+internal-argocd-non-prod.eip-stressnew.cvshealth.com
+internal-argocd-prod.prod-techx-usw2.cvshealth.com
+internal-grafana-non-prod.eip-stressnew.cvshealth.com
+internal-grafana-prod.prod-techx-usw2.cvshealth.com
+internal-kiali-non-prod.eip-stressnew.cvshealth.com
+internal-kiali-prod.prod-techx-usw2.cvshealth.com
+internal-non-prod.eip-stressnew.cvshealth.com
+internal-prod.prod-techx-usw2.cvshealth.com
+internal-prometheus-kubemetrics.eip-stressnew.cvshealth.com
+internal-prometheus-kubemetrics.prod-techx-usw2.cvshealth.com
+internal-tracing-non-prod.eip-stressnew.cvshealth.com
+internal-tracing-prod.prod-techx-usw2.cvshealth.com
+ioponc.external.aetapps.qa.cvshealth.com
+qa1.api-retail-pharmacy-use2.int.cvshealth.com

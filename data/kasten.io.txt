@@ -2927,3 +2927,5 @@ apps.demo-cluster-1.aws.kasten.io
 apps.rosademo.aws.kasten.io
 aws-encryption-integration-testcluster-67138.dev.do.kasten.io
 aws-encryption-integration-testcluster-6714d.dev.do.kasten.io
+aws-encryption-integration-testcluster-67123.dev.do.kasten.io
+staging.vdc-samit.aws.kasten.io

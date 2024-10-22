@@ -1896,3 +1896,7 @@ twepage.trellix.com
 asiasoutheast1.app.xdr.trellix.com
 emea-console.mobile.security.trellix.com
 wgs.trellix.com
+*.dlp.manage.trellix.com
+ap1-observability.etp.trellix.com
+prd01-observability.etp.trellix.com
+prd09-observability.etp.trellix.com
