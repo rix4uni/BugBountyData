@@ -545,3 +545,5 @@ my.ev.originenergy.com.au
 secure.gslb.originenergy.com.au
 upstream.originenergy.com.au
 testbnc.originenergy.com.au
+*.ev.originenergy.com.au
+alb.ev.originenergy.com.au

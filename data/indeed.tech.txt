@@ -22922,3 +22922,13 @@ billing-account-service-cdc.awscmh2.k8s.indeed.tech
 blobby.awscmh2.k8s.indeed.tech
 *.flex-redash.dev.indeed.tech
 rip-acct-confirm-qa-ldap.awscmhqa4.k8s.indeed.tech
+cammet-vortex-cluster-qa-ldap.awscmhqa5.k8s.indeed.tech
+e2b607580cb99224d83928d7f6543e15.loom-inference.awscmhqa4.k8s.indeed.tech
+flex-airbyte-api.indeed.tech
+main-performance-test-cpu-580.awscmhqa4.k8s.indeed.tech
+mockai.awscmh7.k8s.indeed.tech
+mockingbird.qa.indeed.tech
+mockingbird.qa.awscmhqa4.k8s.indeed.tech
+mockingbird.qa.us-east-2.indeed.tech
+test-vortex-cluster-qa-saml.awscmhqa5.k8s.indeed.tech
+tokenservice.awscmhinfra3.k8s.indeed.tech

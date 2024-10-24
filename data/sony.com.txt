@@ -17292,3 +17292,11 @@ interactive.sony.com
 *.dev.update.me.sony.com
 dev.update.me.sony.com
 prodreg-stage.electronics.sony.com
+*.eks-prod.infra.sie.sony.com
+*.jenkins.security.astronomy.sie.sony.com
+*.prod.cdp.gis.sony.com
+tvd-api-qa9.spe.sony.com
+tvdaccess-qa3.spe.sony.com
+tvdaccess-qa4.spe.sony.com
+upload.spe.sony.com
+www.dev.eams.sony.com

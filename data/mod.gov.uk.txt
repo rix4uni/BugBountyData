@@ -1161,3 +1161,8 @@ psdt.rdip-dev.ice.mod.gov.uk
 auth.landopensystems.mod.gov.uk
 msoid.mod.gov.uk
 c0167-prod.ice.mod.gov.uk
+*.c0012-devao.ice.mod.gov.uk
+*.c0012-devap.ice.mod.gov.uk
+*.secureshare.mod.gov.uk
+c0012-devao.ice.mod.gov.uk
+c0012-devap.ice.mod.gov.uk

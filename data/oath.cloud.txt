@@ -29651,3 +29651,13 @@ taiwan-testapp-nonprod.aws.oath.cloud
 *.stage.yk-red-nonprod.yk-serving.gcp-us-east5-a.test.vespa.oath.cloud
 andreer.pyvespa-test.andreer.aws-use1-az1.dev.vespa.oath.cloud
 vgizpbdlvfytwjhaa2xmjqynechcjkwht.vespa.oath.cloud
+*.a5eeb0f3.z.vespa.oath.cloud
+*.c9550ba2.a.cd.vespa.oath.cloud
+*.c9550ba2.g.cd.vespa.oath.cloud
+*.c9550ba2.z.cd.vespa.oath.cloud
+*.cd.private-link-6.basic-test.vespa.gcp-us-east5-a.staging.cd.vespa.oath.cloud
+*.cd.private-link-6.basic-test.vespa.gcp-us-east5-a.test.cd.vespa.oath.cloud
+*.e6000799.a.cd.vespa.oath.cloud
+*.e6000799.g.cd.vespa.oath.cloud
+*.e6000799.z.cd.vespa.oath.cloud
+exp-config.finance-k8s-nonprod.aws.oath.cloud

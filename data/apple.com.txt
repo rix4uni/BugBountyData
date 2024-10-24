@@ -83129,3 +83129,15 @@ linear-imt.tv.apple.com
 mfg63.insight.apple.com
 pal-pbz.g.apple.com
 pal-prod.g.apple.com
+apay-device-ccs-cert.apple.com
+apay-device-ccs-stage.apple.com
+apay-device-partner-cert.apple.com
+apay-device-partner-stage.apple.com
+apay-device-paymentservices-cert.apple.com
+apay-device-paymentservices-stage.apple.com
+apay-device-peerpayment-stage.apple.com
+apay-device-tsm-cert.apple.com
+gb-api-denali.awuse2.sbz.apple.com
+gb-ext-facade-denali.awuse2.sbz.apple.com
+linear-imtqa.tv.apple.com
+vast-mtg-eb-uat.apple.com

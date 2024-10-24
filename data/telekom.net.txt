@@ -7627,3 +7627,6 @@ dtbss-ips-papi-dev.targetbss.telekom.net
 lookup.fut.mba.telekom.net
 matrix.fut.mba.telekom.net
 support.automation.telekom.net
+dtag-tls-010132lb01.telekom.net
+dtag-tls-010901lb01.telekom.net
+hss-analytics.test.hotspot.telekom.net

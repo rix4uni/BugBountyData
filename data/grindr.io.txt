@@ -3329,3 +3329,4 @@ email.notifications.grindr.io
 *.mlops-nonsensitive.grindr.io
 apis.mlops-nonsensitive.grindr.io
 mlops-nonsensitive.grindr.io
+*.mlops-sensitive.grindr.io

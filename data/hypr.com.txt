@@ -1010,3 +1010,7 @@ tamstaging.tam.hypr.com
 seand.dev.hypr.com
 philosophypr.com
 amatprod.hypr.com
+*.localtest.dev.hypr.com
+localtest.dev.hypr.com
+mylocaltest.localtest.dev.hypr.com
+mylocaltest2.localtest.dev.hypr.com

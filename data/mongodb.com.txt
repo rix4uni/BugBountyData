@@ -5226,3 +5226,11 @@ urp.devprod-infra.staging.corp.mongodb.com
 example1.mongodb.com
 _core.infrastructure.mongodb.com
 url.mongodb.com
+mongogpt.aix.prod.corp.mongodb.com
+my-zendesk-tickets.css.prod.corp.mongodb.com
+mycelium-poc-migration.website.staging.corp.mongodb.com
+ollama-api.corps.staging.corp.mongodb.com
+ollama.corps.staging.corp.mongodb.com
+otel-collector.staging.corp.mongodb.com
+rag-uat.private-ai.staging.corp.mongodb.com
+smcsf.mongodb.com

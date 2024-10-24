@@ -27154,3 +27154,7 @@ bcbssc-stage.adobecqms.net
 dev-cs-pub.dfs.adobecqms.net
 dev.micron-dam.adobecqms.net
 author-girlscouts-stage.adobecqms.net
+*.build.elcorteingles.adobecqms.net
+*.perf.elcorteingles.adobecqms.net
+*.preprod.elcorteingles.adobecqms.net
+*.sit.elcorteingles.adobecqms.net

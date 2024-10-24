@@ -3612,3 +3612,8 @@ _stun-p2._tcp.tempeov.rws.nl
 nma.geoweb.rws.nl
 pc29.ptp.inloggen.rws.nl
 ps-i-www.ptp.inloggen.rws.nl
+*.k8s.svm-utrecht.cnap-am2.intranet.rws.nl
+*.k8s.wm-tab.cnap-am2.intranet.rws.nl
+k8s.svm-utrecht.cnap-am2.intranet.rws.nl
+keycloak-admin.acceptatie.vm-05.azure.grid.rws.nl
+validator-lkt-aid-triggers.fcd-acceptatietest.dmz.vm-04.azure.grid.rws.nl

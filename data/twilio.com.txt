@@ -18830,3 +18830,8 @@ ipv6-583793569.turn.twilio.com
 ipv6-583793534.turn.twilio.com
 *.messaging.dev-us1.twilio.com
 zscaler.corp.twilio.com
+*.messaging.us1.twilio.com
+ahoy.stage.twilio.com
+chunderm.ie1.gll.twilio.com
+chunderm.sg1.gll.twilio.com
+chunderm.us2.gll.twilio.com

@@ -628,3 +628,4 @@ net-proxysql.vercel.zapier.com
 mock.zapier.com
 redmine.zapier.com
 next.zapier.com
+*.api.zapier.com

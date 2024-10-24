@@ -7024,3 +7024,9 @@ proofer-entityname.apps.prd.aws-01.legalzoom.com
 moonwalk.apps.prd.aws-01.legalzoom.com
 dev.ancillary-sku-service.dev.aws-01.legalzoom.com
 qa.fn-documents-service.dev.aws-01.legalzoom.com
+cube-config-sa01.zoom.com
+docs.git.ops.sc.corp.zoom.com
+git.ops.corp.zoom.com
+ngxpls-ac140-internal.asynccomm04.corp.zoom.com
+ngxpls-acprod-internal.asynccomm04.corp.zoom.com
+realtime.docs.git.ops.sc.corp.zoom.com

@@ -5145,3 +5145,5 @@ cuxtonpc.teleport-proxy.apps.findaya.co.id
 prometheus.teleport-proxy.apps.findaya.co.id
 gopaylater.findaya.co.id
 cashloans.findaya.co.id
+api-waf.staging.findaya.co.id
+app-waf.findaya.co.id

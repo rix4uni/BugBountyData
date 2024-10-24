@@ -14957,3 +14957,15 @@ r2.vladik-learn.epm-tmc.projects.epam.com
 rd.vladik-learn.epm-tmc.projects.epam.com
 resumebuilder.lab.epam.com
 stage.pipeline.epam.com
+*.apps.ua-latest-1-9-10.mdtu-ddm.projects.epam.com
+api.ua-latest-1-9-10.mdtu-ddm.projects.epam.com
+cvm-int.eye.epam.com
+elasticsearch-v6-297.aws.radar.stage.epam.com
+elasticsearch-v6-459.aws.radar.epam.com
+milvus-dev.llm.lab.epam.com
+preview-cn-web-dev.aemcloud.epam.com
+preview-ru-web-dev.aemcloud.epam.com
+reports-adtp.epm-ppa.projects.epam.com
+stage-mkpl.gcp.gnrg-osdu.projects.epam.com
+technology-dev-azure.epmd-rdr.projects.epam.com
+wallet.epm-rppl.projects.epam.com

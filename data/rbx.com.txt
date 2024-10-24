@@ -1066,3 +1066,4 @@ rozilla.stx.rbx.com
 *.ml-platform-private-us-east-1-1-6-1-serving.prod.ml.rbx.com
 *.distribution-stage-old.rbx.com
 distribution-stage-old.rbx.com
+ccov-play.rbx.com

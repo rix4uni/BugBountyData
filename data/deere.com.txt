@@ -7278,3 +7278,10 @@ myops-api.deere.com
 iot.ats.deere.com
 vpnv.dx.deere.com
 ces2025.deere.com
+api.exco-prod-useast.alb.expertconnect.deere.com
+app.exco-prod-useast.alb.expertconnect.deere.com
+cs-admin.exco-prod-useast.alb.expertconnect.deere.com
+dc-service.exco-prod-useast.alb.expertconnect.deere.com
+diagnostics.exco-prod-useast.alb.expertconnect.deere.com
+vhb.exco-prod-useast.alb.expertconnect.deere.com
+vnd.exco-prod-useast.alb.expertconnect.deere.com

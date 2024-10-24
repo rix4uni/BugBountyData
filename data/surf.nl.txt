@@ -4504,3 +4504,16 @@ anatomytool.ci-renovate-pydanti-record-harvester.dev.sdp.surf.nl
 edurep.ci-renovate-pydanti-record-harvester.dev.sdp.surf.nl
 pmhify.record-harvester.dev.sdp.surf.nl
 surfsharekit.ci-renovate-starlet-record-harvester.dev.sdp.surf.nl
+*.stage-int.sdp.surf.nl
+anatomytool.ci-renovate-starlet-record-harvester.dev.sdp.surf.nl
+edurep.ci-renovate-starlet-record-harvester.dev.sdp.surf.nl
+guacamole.pilot1.sram.surf.nl
+input-opensearch-auditlog.wur.logging-poc.surf.nl
+minio-console.dev-int.sdp.surf.nl
+minio-console.stage-int.sdp.surf.nl
+minio.dev-int.sdp.surf.nl
+minio.infra-int.sdp.surf.nl
+pmhify.ci-renovate-starlet-record-harvester.dev.sdp.surf.nl
+stage-int.sdp.surf.nl
+surfsharekit.ci-renovate-pydanti-record-harvester.dev.sdp.surf.nl
+surfsharekit.ci-renovate-python--record-harvester.dev.sdp.surf.nl

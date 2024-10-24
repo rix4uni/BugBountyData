@@ -953,3 +953,7 @@ obtain-chain.link
 visitchain.link
 prod.telemetry.chain.link
 home.chain.link
+*.pepe.sandbox.enterprise.chain.link
+*.public.pepe.sandbox.enterprise.chain.link
+pepe.sandbox.enterprise.chain.link
+tokenmanager.chain.link
