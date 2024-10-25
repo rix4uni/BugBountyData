@@ -5493,3 +5493,7 @@ awstf.0-000000-blogs.cp3.ovo.id
 mexapi07.sg.aws.ovo.id
 0-101-api007zuqiubifendeveloper.cp3.ovo.id
 usrprofile04.sg.aws.ovo.id
+*.k8s.stg.aws.ovo.id
+*.pvt.k8s.stg.aws.ovo.id
+k8s.stg.aws.ovo.id
+pvt.k8s.stg.aws.ovo.id

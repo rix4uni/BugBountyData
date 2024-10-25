@@ -663,3 +663,11 @@ ui.ap-ventilation.resmed.com
 www.securepass.resmed.com
 www.support-portal-uat.resmed.com
 nightowl-admin-qa.resmed.com
+prod-amr-gstp-ols-api-service.resmed.com
+prod-eu-gstp-ols-api-service.resmed.com
+qa-eu-gstp-ols-api-service.resmed.com
+stg-eu-gstp-ols-api-service.resmed.com
+www.prod-amr-gstp-ols-api-service.resmed.com
+www.prod-eu-gstp-ols-api-service.resmed.com
+www.qa-eu-gstp-ols-api-service.resmed.com
+www.stg-eu-gstp-ols-api-service.resmed.com

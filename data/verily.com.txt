@@ -5730,3 +5730,6 @@ dev-stable.vrps.api.verily.com
 workbench-dev-unstable-ecm.api.verily.com
 bpls.prod.verily.com
 bpls2.prod.verily.com
+dev.cli.verily.com
+workbench-data-explorer-dev-unstable.verily.com
+workbench-support-dev-unstable.verily.com

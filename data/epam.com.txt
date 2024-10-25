@@ -14969,3 +14969,7 @@ reports-adtp.epm-ppa.projects.epam.com
 stage-mkpl.gcp.gnrg-osdu.projects.epam.com
 technology-dev-azure.epmd-rdr.projects.epam.com
 wallet.epm-rppl.projects.epam.com
+*.apps.from-sit-install.mdtu-ddm.projects.epam.com
+*.cl1-default-lb.epm-paas-anthos-apm.eu.gcp.cloudapp.epam.com
+api.from-sit-install.mdtu-ddm.projects.epam.com
+elasticsearch-v6-299.aws.radar.stage.epam.com

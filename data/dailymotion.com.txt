@@ -7709,3 +7709,9 @@ vc-batch-dragonfly-2024102001.data.dailymotion.com
 vc-batch-redis-2024101201.data.dailymotion.com
 watch-history-red-gcp-euw4.stg.data.dailymotion.com
 vc-batch-redis-2024102101.data.dailymotion.com
+internaltools-auto-moderator-38.ci.dailymotion.com
+internaltools-keycloak-147.ci.dailymotion.com
+internaltools-legacy-282.ci.dailymotion.com
+internaltools-massremove-ui-282.ci.dailymotion.com
+internaltools-moderation-619.ci.dailymotion.com
+vc-batch-redis-2024102301.data.dailymotion.com

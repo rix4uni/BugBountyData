@@ -1903,3 +1903,6 @@ prd09-observability.etp.trellix.com
 groove.trellix.com
 prd08-observability.etp.trellix.com
 www.prod.urlcat.amq.trellix.com
+*.asiasouth1.app.xdr.trellix.com
+*.useast4.app.xdr.trellix.com
+prd07-observability.etp.trellix.com

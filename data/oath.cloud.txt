@@ -29661,3 +29661,11 @@ vgizpbdlvfytwjhaa2xmjqynechcjkwht.vespa.oath.cloud
 *.e6000799.g.cd.vespa.oath.cloud
 *.e6000799.z.cd.vespa.oath.cloud
 exp-config.finance-k8s-nonprod.aws.oath.cloud
+*.d5baf209.a.cd.vespa.oath.cloud
+*.d5baf209.g.cd.vespa.oath.cloud
+*.d5baf209.z.cd.vespa.oath.cloud
+*.de31df9f.a.cd.vespa.oath.cloud
+*.de31df9f.g.cd.vespa.oath.cloud
+*.de31df9f.z.cd.vespa.oath.cloud
+exp-config.finance-k8s.aws.oath.cloud
+single-origin-cdn.taiwan-testapp-nonprod.aws.oath.cloud

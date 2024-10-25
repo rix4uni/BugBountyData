@@ -5234,3 +5234,11 @@ ollama.corps.staging.corp.mongodb.com
 otel-collector.staging.corp.mongodb.com
 rag-uat.private-ai.staging.corp.mongodb.com
 smcsf.mongodb.com
+*.dataplatform-dev.staging.corp.mongodb.com
+*.devprod-correctness.staging.corp.mongodb.com
+*.rsc.staging.corp.mongodb.com
+*.support.mongodb.com
+mongodbcom-poc-cdn.website.staging.corp.mongodb.com
+mongodbcom-poc.website.staging.corp.mongodb.com
+training-staging.mongodb.com
+website-poc-gateway-migration.website.staging.corp.mongodb.com

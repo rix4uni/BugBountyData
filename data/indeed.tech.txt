@@ -22932,3 +22932,11 @@ mockingbird.qa.awscmhqa4.k8s.indeed.tech
 mockingbird.qa.us-east-2.indeed.tech
 test-vortex-cluster-qa-saml.awscmhqa5.k8s.indeed.tech
 tokenservice.awscmhinfra3.k8s.indeed.tech
+curity-runtime-mtls-deprecated.indeed.tech
+curity-runtime-public-deprecated.qa.indeed.tech
+dmp-lite.cmh.sandbox.indeed.tech
+dmp-main.qa.sandbox.indeed.tech
+dmp.awscmhqa5.k8s.indeed.tech
+dmp.cmh.sandbox.indeed.tech
+dmp.qa.sandbox.indeed.tech
+dmp.sandbox.cmh.indeed.tech

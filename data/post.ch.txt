@@ -3065,3 +3065,5 @@ extranet-testix.post.ch
 fds1.post.ch
 as2-is-dev.post.ch
 rfidmon-temp.post.ch
+*.wsint.post.ch
+wsint.post.ch

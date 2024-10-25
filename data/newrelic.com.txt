@@ -1521,3 +1521,4 @@ login.dualstack.newrelic.com
 staging-one.dualstack.newrelic.com
 staging-gcp.newrelic.com
 docs.service.newrelic.com
+*.staging-httptools.newrelic.com

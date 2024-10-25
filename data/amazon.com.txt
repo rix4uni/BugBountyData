@@ -85115,3 +85115,6 @@ rcap-a708b626.amazon.com
 rcap-ac043851.amazon.com
 rcap-c1e90543.amazon.com
 rcap-c83d0105.amazon.com
+*.api-fips.sagemaker.us-gov-west-1.vpce.amazonaws.com.amazon.com
+ccs-feedback-api.corp.amazon.com
+lwn-nehedi-api-prod-kul.corp.amazon.com
