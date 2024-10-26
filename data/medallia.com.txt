@@ -1,3 +1,5 @@
 trust.medallia.com
 *.sc4.medallia.com
 *.eng.medallia.com
+*.dxa.den.medallia.com
+*.api.dxa.den.medallia.com

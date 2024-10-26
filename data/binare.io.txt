@@ -8,3 +8,6 @@ join.binare.io
 dashboard.binare.io
 api.binare.io
 admin.binare.io
+*.binare.io
+*.api.binare.io
+*.dashboard.binare.io

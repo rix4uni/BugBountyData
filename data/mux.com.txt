@@ -80,3 +80,5 @@ cms.mux.com
 *.staging.mux.com
 *.edgemf.staging.mux.com
 *.fastly-staging.mux.com
+globe.mux.com
+docs-legacy.mux.com

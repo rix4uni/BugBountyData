@@ -6073,3 +6073,6 @@ enrollments-aws.pearson.com
 platformadmin-stg.pearson.com
 sbx-assessment-onthego.pearson.com
 view.ocrm2.pearson.com
+eolservices-dev.pearson.com
+svc00376-us1-prd-ssl-1.lbaas.pearson.com
+api1-qa.pearson.com

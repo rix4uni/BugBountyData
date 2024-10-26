@@ -441,3 +441,5 @@ tlscanary-haul.mozilla.org
 puppetdashboard.mozilla.org
 raptor.mozilla.org
 vpn.mozilla.org
+*.support.mozilla.org
+hacks1.mozilla.org

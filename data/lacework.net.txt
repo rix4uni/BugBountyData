@@ -35082,3 +35082,4 @@ qa1006.corp3.lacework.net
 *.dev3.corp.lacework.net
 *.preprod.corp.lacework.net
 *.qa7.corp.lacework.net
+*.prodperf1.prodperf1.corp.lacework.net

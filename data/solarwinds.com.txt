@@ -1,1 +1,9 @@
 helpdesk.solarwinds.com
+*.na-02.st-ssp.solarwinds.com
+*.collector.dc-02.st-ssp.solarwinds.com
+*.collector.na-02.st-ssp.solarwinds.com
+*.dc-02.st-ssp.solarwinds.com
+*.na-02.cloud.solarwinds.com
+*.collector.dc-02.cloud.solarwinds.com
+*.collector.na-02.cloud.solarwinds.com
+*.dc-02.cloud.solarwinds.com

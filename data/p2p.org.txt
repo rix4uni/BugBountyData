@@ -21,3 +21,9 @@ aptos.p2p.org
 rpc.mainnet.nym.tm.p2p.org
 grpc.mainnet.nym.tm.p2p.org
 grpc-web.mainnet.nym.tm.p2p.org
+api.novel.remedy.tm.p2p.org
+rpc.novel.remedy.tm.p2p.org
+rosetta.kyve-mainnet.tm.p2p.org
+stride-mainnet-1-full-grpc.tm.p2p.org
+stride-mainnet-1-full.tm.p2p.org
+api.kyve-mainnet.tm.p2p.org

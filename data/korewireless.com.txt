@@ -469,3 +469,5 @@ webhook.api.korewireless.com
 *.chts.korewireless.com
 *.omnicore.korewireless.com
 *.iotsafe.korewireless.com
+*.http.korewireless.com
+status.korewireless.com

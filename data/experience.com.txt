@@ -7,3 +7,12 @@ api.preprod.experience.com
 surveys.preprod.experience.com
 pro.preprod.experience.com
 reports.preprod.experience.com
+sms-gcp.qa.experience.com
+surveys-gcp.qa.experience.com
+sms.qa.experience.com
+surveys.qa.experience.com
+kibana.qa.experience.com
+elasticsearch.qa.experience.com
+au.devtest.experience.com
+search.qa.experience.com
+socialmonitor.qa.experience.com

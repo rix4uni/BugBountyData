@@ -1470,3 +1470,6 @@ ext-tp-preprod.nrk.no
 telenor-lyd.nrk.no
 auth-we-ps-azure-nrk-cloud.nrk.no
 reverse.nrk.no
+backend-fido-feature.kube.nrk.no
+test-helsesjekken.int.nrk.no
+test-helsesjekken-int.int.nrk.no

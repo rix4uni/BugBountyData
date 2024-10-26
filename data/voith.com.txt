@@ -180,3 +180,7 @@ digitalworkflowbuilder.staging.eu.voith.com
 activityreportssalesagents-staging.k8s.aws.cloud.voith.com
 nginx.dmz-eks.aws.cloud.voith.com
 customer-onboarding.k8s.aws.cloud.voith.com
+www.houston-zoo.voith.com
+authreverseproxy.k8s.aws.cloud.voith.com
+reporting.staging.eu.voith.com
+translate-staging.k8s.aws.cloud.voith.com

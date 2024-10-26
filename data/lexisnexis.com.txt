@@ -10,3 +10,9 @@ dataquality.lexisnexis.com
 *.dataquality.lexisnexis.com
 accurintlocator.lexisnexis.com
 *.accurintlocator.lexisnexis.com
+*.tr.gnsops.lexisnexis.com
+tr.gnsops.lexisnexis.com
+*.tr.metabase.lexisnexis.com
+tr.metabase.lexisnexis.com
+*.tr.newsdesk.lexisnexis.com
+tr.newsdesk.lexisnexis.com

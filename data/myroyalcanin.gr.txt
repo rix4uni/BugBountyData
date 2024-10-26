@@ -6,3 +6,15 @@ mail.b2b.myroyalcanin.gr
 mail.myroyalcanin.gr
 mail.master.myroyalcanin.gr
 www.myroyalcanin.gr
+*.myroyalcanin.gr
+ftp.b2b.myroyalcanin.gr
+pop.b2b.myroyalcanin.gr
+smtp.b2b.myroyalcanin.gr
+ftp.master.myroyalcanin.gr
+pop.master.myroyalcanin.gr
+smtp.master.myroyalcanin.gr
+www.master.myroyalcanin.gr
+ftp.myroyalcanin.gr
+pop.myroyalcanin.gr
+smtp.myroyalcanin.gr
+*.master.myroyalcanin.gr

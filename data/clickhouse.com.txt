@@ -76,3 +76,5 @@ u57swl97we.eu-west-1.aws.clickhouse.com
 play-ci.clickhouse.com
 reg.clickhouse.com
 integration-tests.clickhouse.com
+sql-clickhouse.clickhouse.com
+*.sql-clickhouse.clickhouse.com

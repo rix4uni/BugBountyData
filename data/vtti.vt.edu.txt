@@ -4,3 +4,6 @@ aisb-ceph.cloud.vtti.vt.edu
 awx.cloud.vtti.vt.edu
 keycloak.cloud.vtti.vt.edu
 cdl-connector.pre-prod.cloud.vtti.vt.edu
+deinstall-pre-prod.cloud.vtti.vt.edu
+minio-aisb.cloud.vtti.vt.edu
+control-sr.cloud.vtti.vt.edu

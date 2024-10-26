@@ -65,3 +65,6 @@ beta.syfe.com
 internal.nonprod.syfe.com
 jpmc-transport-15012024.nonprod.syfe.com
 admin.syfe.com
+*.internal.saas.syfe.com
+*.saas.syfe.com
+*.blog-au.syfe.com

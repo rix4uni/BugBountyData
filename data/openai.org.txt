@@ -6040,3 +6040,17 @@ integrity-gateway.admin.internal.api.openai.org
 *.pom.habanero.dev.openai.org
 academy.ingress.newt.sci.openai.org
 private.api.openai.org
+*.unified-0s.api.openai.org
+private.southcentralus.api.openai.org
+*.prod-engine-aks-eastus-api-c6.internal.api.openai.org
+*.pom.infra-dev.dev.openai.org
+*.verify.pom.habanero.dev.openai.org
+envoy-egress-lb.search-1s.internal.api.openai.org
+*.ci-1.internal.api.openai.org
+colosseum-data.hd.openai.org
+*.test.pom.habanero.dev.openai.org
+prod-engine-aks-westus-api-c140.internal.api.openai.org
+*.prod-engine-aks-westus-api-c140.internal.api.openai.org
+*.int.habanero.dev.openai.org
+*.beam.int.habanero.dev.openai.org
+*.hubble-ui.int.habanero.dev.openai.org

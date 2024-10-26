@@ -8880,3 +8880,7 @@ fxbcustomer.business.comcast.com
 prodqa.voice.np.digital.business.comcast.com
 orion-payment-ui-prod.digital.business.comcast.com
 device-activation-ui-int.np.digital.business.comcast.com
+ecom.image.np.digital.business.comcast.com
+*.ecom.image.np.digital.business.comcast.com
+*.or.ecom.image.np.digital.business.comcast.com
+*.va.ecom.image.np.digital.business.comcast.com

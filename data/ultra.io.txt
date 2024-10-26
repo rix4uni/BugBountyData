@@ -1,1 +1,15 @@
 walletplayground.ultra.io
+wallboard.tool.ultra.io
+staging.app.ultra.io
+*.staging.app.ultra.io
+app.ultra.io
+*.app.ultra.io
+*.ultra.io
+qa.ultra.io
+*.qa.ultra.io
+download.app.ultra.io
+e2e-results.app.ultra.io
+qa.app.ultra.io
+*.qa.app.ultra.io
+staging.ultra.io
+*.staging.ultra.io

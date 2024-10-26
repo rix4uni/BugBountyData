@@ -133,3 +133,4 @@ press-center-static.vinted.com
 *.ingress.infra2.k8s.vinted.com
 *.int.vinted.com
 *.ingress.infra1.k8s.vinted.com
+*.ingress.prod2.k8s.vinted.com

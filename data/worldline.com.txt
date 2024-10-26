@@ -1162,3 +1162,4 @@ stage.rethink-transactions.worldline.com
 uat.sk.worldline.com
 gui-premium.worldline.com
 uat.terminals.worldline.com
+*.systemtest.payments.worldline.com

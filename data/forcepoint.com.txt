@@ -1962,3 +1962,15 @@ nightly0222.dup.dev.forcepoint.com
 nightly0804.eu-central-1.neo.dev.forcepoint.com
 neo.integration.forcepoint.com
 ngfwlicensesws-dev.forcepoint.com
+*.nightly.dup.dev.forcepoint.com
+*.nightly.eu-central-1.dup.dev.forcepoint.com
+*.dup.dev.forcepoint.com
+*.nightly.neo.dev.forcepoint.com
+*.nightly.eu-central-1.neo.dev.forcepoint.com
+*.nightly.ap-southeast-1.neo.dev.forcepoint.com
+*.neo.dev.forcepoint.com
+*.nightly.us-east-1.neo.dev.forcepoint.com
+*.nightly.ap-south-1.neo.dev.forcepoint.com
+*.nightly.ap-southeast-1.dup.dev.forcepoint.com
+*.nightly.us-east-1.dup.dev.forcepoint.com
+*.nightly.ap-south-1.dup.dev.forcepoint.com

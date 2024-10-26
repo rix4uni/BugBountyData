@@ -15,3 +15,8 @@ traefik.bureautique.omnicanal.orange.com
 langfuse.llm.cloudit.orange.com
 hpo-gcp.staging.0a7.cloudit.orange.com
 static-psm.cdb.cdn.orange.com
+qualification-static-s3.cdb-staging.cdn.orange.com
+qualification-s3.cdb-staging.cdn.orange.com
+recovery.staging.m2m.orange.com
+timeline-staging.tools.webcom.orange.com
+qualification-vod.cdb-staging.cdn.orange.com

@@ -1553,3 +1553,7 @@ events.hitachienergy.com
 power-quality-filter.configurator.hitachienergy.com
 nlvpngw02.hitachienergy.com
 nlvpngw01.hitachienergy.com
+stage.energyconnect.hitachienergy.com
+apigateway.stage.energyconnect.hitachienergy.com
+auth.stage.energyconnect.hitachienergy.com
+managementportal-new.stage.energyconnect.hitachienergy.com

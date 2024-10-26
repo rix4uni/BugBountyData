@@ -151,3 +151,9 @@ login.everest.healthequity.com
 wpublic.healthequity.com
 bridgespan.healthequity.com
 send.healthequity.com
+stg.pp.healthequity.com
+*.stg.pp.healthequity.com
+prd.pp.healthequity.com
+*.prd.pp.healthequity.com
+pplt.pp.healthequity.com
+*.pplt.pp.healthequity.com

@@ -3790,3 +3790,7 @@ docs-ndep.ent.nuance.com
 xinfra-ci-release-0237.xinfra-ci.private.crt.nuance.com
 fc.dragon.fr.dmp.nuance.com
 nuanfinplatapigtway-ext-np.nuance.com
+mg.emailus.nuance.com
+mg.emailap.nuance.com
+*.global-auth-stage.dev.crt.nuance.com
+*.gatekeeper2-qa.dev.crt.nuance.com

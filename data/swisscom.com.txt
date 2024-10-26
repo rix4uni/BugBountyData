@@ -1366,3 +1366,7 @@ bigdata.swisscom.com
 imagga-prod.swisscom.com
 lani.mobileid.swisscom.com
 plmapp-wingo.icp.swisscom.com
+elasticpath-poc.icp.swisscom.com
+*.elasticpath-poc.icp.swisscom.com
+*.eloqua.swisscom.com
+huldrych-glarus.dev-scapp.swisscom.com

@@ -13,3 +13,7 @@ grafanadash.staffs.ac.uk
 grafanatest.staffs.ac.uk
 *.sites.staffs.ac.uk
 sites.staffs.ac.uk
+*.ezproxy.staffs.ac.uk
+ezproxy.staffs.ac.uk
+reslifeapi.staffs.ac.uk
+reslifeapi-int.staffs.ac.uk

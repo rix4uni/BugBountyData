@@ -10387,3 +10387,12 @@ ae-22-5.rc-b.ce6.wtr.gb.net.ionos.com
 pg-53q7c5nul8iqfj3j.postgresql.fr-par.ionos.com
 pg-btem1q410gvfb6qc.postgresql.us-ewr.ionos.com
 pg-tcr66gsm6alp0ils.postgresql.de-fra.ionos.com
+pg-28reb3am3gslnfb5.postgresql.de-txl.ionos.com
+*.pg-28reb3am3gslnfb5.postgresql.de-txl.ionos.com
+*.2f8cf57d6dd5.logging.de-txl.ionos.com
+*.m-6qm2j9lq18cjpm6i.mongodb.de-fra.ionos.com
+ma-9tkmhhkcq2lgstmk.mariadb.de-txl.ionos.com
+vm-access.infra.us-ewr.ionos.com
+*.m-3e3enhb4jpq3l6lq.mongodb.de-fra.ionos.com
+ma-ramsjkcfcupskhcj.mariadb.de-fra.ionos.com
+ma-0n23hiietrm84pm3.mariadb.de-fra.ionos.com

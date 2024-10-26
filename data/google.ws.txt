@@ -21,3 +21,4 @@ adservice.google.ws
 ampcid.google.ws
 ns3.google.ws
 cctldtest.google.ws
+*.google.ws

@@ -183,3 +183,5 @@ api.zruzicka.dev.cleverfarm.cz
 can-nightly.dev.cleverfarm.cz
 www.app.prod.aws.cleverfarm.cz
 cf-satellite.cf-staging.dev.cleverfarm.cz
+*.cfd-6715-refactor-link.dev.cleverfarm.cz
+cfd-6715-refactor-link.dev.cleverfarm.cz

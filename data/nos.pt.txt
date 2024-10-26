@@ -2291,3 +2291,11 @@ ingress-ip-keycloak.mpro-qa.clg.nos.pt
 internetnotelemovel.nos.pt
 static2.nos.pt
 eticket.nos.pt
+*.dia.clg.nos.pt
+apple-provisioning-api-staging.cross-core-services.oizys.clg.nos.pt
+cinemas-showtime-api-staging.cross-core-services.oizys.clg.nos.pt
+notify-asset-views-api-staging.cross-core-services.oizys.clg.nos.pt
+privacy-manager-api-staging.cross-core-services.oizys.clg.nos.pt
+streaming-services-api-staging.cross-core-services.oizys.clg.nos.pt
+apple-provisioning-api.cross-core-services.oizys.clg.nos.pt
+settings-manager-api.cross-core-services.oizys.clg.nos.pt

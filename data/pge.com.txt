@@ -20834,3 +20834,9 @@ host16042.pge.com
 host161216.pge.com
 host18397.pge.com
 host15317.pge.com
+*.cloud.pge.com
+*.nonprod.pge.com
+engage-queries-prod.dc.pge.com
+engage-graph-1024.prod.dc.pge.com
+api-ext01.ss.pge.com
+engagetest-queries-predev.nonprod.pge.com

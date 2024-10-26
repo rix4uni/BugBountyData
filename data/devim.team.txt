@@ -5,3 +5,6 @@ collectors-saas2.test.wl.devim.team
 devim.team
 *.devim.team
 stage-asterisk-03.devim.team
+kbkinbch.dev.wl.devim.team
+kbkinbch-manage.dev.wl.devim.team
+grafana.k8s.devim.team

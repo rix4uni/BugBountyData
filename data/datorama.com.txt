@@ -1676,3 +1676,4 @@ facebookinsightsbreakdowns-prod-us.datorama.com
 poc-prod-us.datorama.com
 configserver-vault-prod-us2.azure.datorama.com
 cdp-spark-transformer-history-prod-eu.datorama.com
+*.datorama.com

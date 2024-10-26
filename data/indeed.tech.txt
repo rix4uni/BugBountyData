@@ -22940,3 +22940,7 @@ dmp.awscmhqa5.k8s.indeed.tech
 dmp.cmh.sandbox.indeed.tech
 dmp.qa.sandbox.indeed.tech
 dmp.sandbox.cmh.indeed.tech
+arr-language-tool-prod.awscmhinfra3.k8s.indeed.tech
+curity-runtime-public-deprecated.indeed.tech
+jobsearchservice-test-global-4b.awscmhstage2.k8s.indeed.tech
+jobsearchservice-test-global-5b.awscmhstage2.k8s.indeed.tech

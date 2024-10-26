@@ -38,3 +38,5 @@ shared-compute-eu-west-2.dev.infra.biofidelity.com
 bfsvr01.local.biofidelity.com
 dev.infra.biofidelity.com
 test.infra.biofidelity.com
+*.dev.infra.biofidelity.com
+*.analysis.biofidelity.com

@@ -125,3 +125,6 @@ akamai-test1.mintel.com
 oxygeneditor.mintel.com
 test1.svc.dev1.k8s-dev.mintel.com
 intranet.mintel.com
+*.int.everest-qa.aws.mintel.com
+*.int.everest-prod.aws.mintel.com
+*.int.everest-shared.aws.mintel.com

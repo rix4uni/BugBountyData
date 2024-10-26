@@ -14973,3 +14973,9 @@ wallet.epm-rppl.projects.epam.com
 *.cl1-default-lb.epm-paas-anthos-apm.eu.gcp.cloudapp.epam.com
 api.from-sit-install.mdtu-ddm.projects.epam.com
 elasticsearch-v6-299.aws.radar.stage.epam.com
+*.eu.stg-people.epm-dce.projects.epam.com
+*.in.stg-people.epm-dce.projects.epam.com
+eu.stg-people.epm-dce.projects.epam.com
+in.stg-people.epm-dce.projects.epam.com
+teams-collector-dev.epm-ppa.projects.epam.com
+admin-ui-v2.preship.gcp.gnrg-osdu.projects.epam.com

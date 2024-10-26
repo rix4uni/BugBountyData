@@ -1703,3 +1703,9 @@ baa2-12c.st.dhs.gov
 guac.env3.staging.cool.cyber.dhs.gov
 fema-gp.dhs.gov
 *.fema-gp.dhs.gov
+*.share-author-ext.dhs.gov
+*.share-pub-ext.dhs.gov
+preview-media.dhs.gov
+mobile-api.cbp.dhs.gov
+device.cbp.dhs.gov
+b2b.cbp.dhs.gov

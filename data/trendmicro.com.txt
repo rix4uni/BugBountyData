@@ -3026,3 +3026,10 @@ tes.trendmicro.com
 beta.mobilesecurity.trendmicro.com
 communication.space.trendmicro.com
 *.tmpn2.trendmicro.com
+sg-forward.workload.us-1.staging-cloudone.trendmicro.com
+*.opicon.us-1.dev-cloudone.trendmicro.com
+services.ca-1.cloudone.trendmicro.com
+services.au-1.cloudone.trendmicro.com
+services.ca-1.staging-cloudone.trendmicro.com
+services.ca-1.dev-cloudone.trendmicro.com
+campaign.space.trendmicro.com

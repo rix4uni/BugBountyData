@@ -11,3 +11,6 @@ static.csp.nccgroup.com
 *.files.ap.test.csp.dev.nccgroup.com
 *.files.ap.csp.nccgroup.com
 static.ci.csp.dev.nccgroup.com
+limb.uk.sc.nccgroup.com
+limb.sc.nccgroup.com
+*.limb.sc.nccgroup.com

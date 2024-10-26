@@ -324,3 +324,4 @@ bs-pim.cloud.akeneo.com
 test3-host.akeneo.com
 portal-dev1-sandbox.ip.akeneo.com
 305619a1-be4c-40e8.onboarder-dev.cloud.akeneo.com
+*.mcstaging.cloud.akeneo.com

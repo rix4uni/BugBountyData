@@ -357,3 +357,15 @@ dev1.buildnonprod.objective.com
 waccc.nexus.objective.com
 phishing.infosec.objective.com
 *.buildnonprod.objective.com
+alphatest4.processing.buildnonprod.objective.com
+alphatest4-api.processing.buildnonprod.objective.com
+inspections-alphatest4.processing.buildnonprod.objective.com
+inspectionsv2-alphatest4.processing.buildnonprod.objective.com
+consents-alphatest4.processing.buildnonprod.objective.com
+fileman-alphatest4.processing.buildnonprod.objective.com
+alphatest3.processing.buildnonprod.objective.com
+alphatest3-api.processing.buildnonprod.objective.com
+inspections-alphatest3.processing.buildnonprod.objective.com
+inspectionsv2-alphatest3.processing.buildnonprod.objective.com
+fileman-alphatest3.processing.buildnonprod.objective.com
+consents-alphatest3.processing.buildnonprod.objective.com

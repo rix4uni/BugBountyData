@@ -68,3 +68,6 @@ canary.roobet.com
 x.new.staging.roobet.com
 o3.ptr1644.roobet.com
 snoops-hotbox.games.roobet.com
+*.roobet.com
+*.staging.roobet.com
+*.games.staging.roobet.com

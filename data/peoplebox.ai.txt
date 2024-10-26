@@ -81,3 +81,5 @@ drone.devops.peoplebox.ai
 analytics-demo.peoplebox.ai
 analytics-changeme.peoplebox.ai
 tool.peoplebox.ai
+*.delta.peoplebox.ai
+ta.peoplebox.ai

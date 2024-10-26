@@ -1290,3 +1290,11 @@ launch.perf.dce.b2b.lego.com
 survey.staging.mcp.b2b.lego.com
 launch.b2b.lego.com
 services.acc.uat.loyalty.lego.com
+*.ew1.dev.smt.fp.corp.lego.com
+ew1.dev.smt.fp.corp.lego.com
+moderationplatform.customnickname.services.dev.corp.lego.com
+pr-12345.www.dev.corp.lego.com
+*.pr-12345.www.dev.corp.lego.com
+api.ns-dev-gbigotso.dev.personalisation.lego.com
+pr-55555.www.dev.corp.lego.com
+*.pr-55555.www.dev.corp.lego.com

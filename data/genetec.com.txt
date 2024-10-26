@@ -295,3 +295,5 @@ pag.genetec.com
 updateservice-dev.genetec.com
 svazpvbmg001.genetec.com
 home.genetec.com
+*.gpnsstage.genetec.com
+*.gpnsdev.genetec.com

@@ -19,3 +19,7 @@ gw-vpn.notion.so
 ops-vpn.notion.so
 qa.notion.so
 mail.notion.so
+*.notion.so
+*.dev.notion.so
+*.stg.notion.so
+*.www.notion.so

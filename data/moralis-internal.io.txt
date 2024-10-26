@@ -1,0 +1,8 @@
+*.aws-prod-api-1.moralis-internal.io
+*.vpc-ep-aws-prod-api-1.moralis-internal.io
+*.aws-prod-streams-master-2.moralis-internal.io
+*.vpc-ep-aws-prod-streams-master-2.moralis-internal.io
+*.aws-prod-platform-1.moralis-internal.io
+*.vpc-ep-aws-prod-platform-1.moralis-internal.io
+*.aws-prod-streams-worker-2.moralis-internal.io
+*.vpc-ep-aws-prod-streams-worker-2.moralis-internal.io

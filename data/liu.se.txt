@@ -145,3 +145,11 @@ mariadb-password.edu.liu.se
 pulp3.it.liu.se
 exam.it.liu.se
 exam.liu.se
+sentry.ctrl-c.liu.se
+peertube.ctrl-c.liu.se
+gitlab.ctrl-c.liu.se
+stalwart-test.kubernetes.ctrl-c.liu.se
+pages.ctrl-c.liu.se
+*.pages.ctrl-c.liu.se
+jamf1.test.ad.liu.se
+ccr.ctrl-c.liu.se

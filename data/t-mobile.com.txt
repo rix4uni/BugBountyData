@@ -11916,3 +11916,9 @@ card-engine-direct.reg.dab.t-mobile.com
 *.tfb.t-mobile.com
 *.ahub.t-mobile.com
 *.metrobyt-mobile.com
+ia-wat.prd.t-mobile.com
+syncup-signalr-dev.t-mobile.com
+syncup-signalr-stg.t-mobile.com
+syncup-signalr-ppd.t-mobile.com
+dev.consumer.auth.reggae.t-mobile.com
+dev.newhire-management.reggae.t-mobile.com

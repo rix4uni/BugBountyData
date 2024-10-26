@@ -4,3 +4,6 @@ admin.deliveroo.hk
 frites.order.deliveroo.hk
 rider.deliveroo.hk
 foodscene.deliveroo.hk
+*.order.deliveroo.hk
+*.order-staging.deliveroo.hk
+*.deliveroo.hk

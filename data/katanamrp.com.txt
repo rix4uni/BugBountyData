@@ -204,3 +204,6 @@ suppliers.katanamrp.com
 manufacturing-mf.katanamrp.com
 gpt-copilot-staging.katanamrp.com
 gpt-copilot.katanamrp.com
+sales-returns-staging.katanamrp.com
+sales-returns.katanamrp.com
+*.katanamrp.com

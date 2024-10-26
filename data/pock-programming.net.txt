@@ -1,2 +1,9 @@
 duplicati.srv.pock-programming.net
 mssql.srv.pock-programming.net
+bme.srv.pock-programming.net
+bme.pock-programming.net
+dump1090.local.pock-programming.net
+unraid.local.pock-programming.net
+rabbitmq.srv.pock-programming.net
+amqp.srv.pock-programming.net
+mqtt.srv.pock-programming.net

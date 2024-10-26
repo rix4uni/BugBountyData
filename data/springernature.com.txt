@@ -558,3 +558,5 @@ dds-a-api.springernature.com
 sn-prod-dogo-simac-oc-1.springernature.com
 registry-dash-test.springernature.com
 api-dash.springernature.com
+live.bflux.springernature.com
+*.live.bflux.springernature.com

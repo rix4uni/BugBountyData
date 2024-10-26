@@ -5,3 +5,16 @@ vaultapi.app.york.ac.uk
 www.hullminster.hull.hosted.york.ac.uk
 hullminster.hull.hosted.york.ac.uk
 sys-internal-lb-dev.aws.york.ac.uk
+eumdsrds.york.ac.uk
+eumdsrds.egu.york.ac.uk
+sgm.hosted.york.ac.uk
+*.sgm.hosted.york.ac.uk
+hosted2.york.ac.uk
+*.hosted2.york.ac.uk
+cfrstage.york.ac.uk
+idm.york.ac.uk
+www.york.ac.uk
+cifa.sos.hosted.york.ac.uk
+www.cifa.sos.hosted.york.ac.uk
+pure.york.ac.uk
+google-in-practice.york.ac.uk

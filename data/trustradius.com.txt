@@ -379,3 +379,6 @@ media-test.trustradius.com
 argocd-webhook.dev.trustradius.com
 a.khrystyna.trustradius.com
 jim.trustradius.com
+*.prod.trustradius.com
+redisinsights.stage.gcp.trustradius.com
+redisinsights.prod.gcp.trustradius.com

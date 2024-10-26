@@ -2171,3 +2171,16 @@ lobby-stg.cloud.unity3d.com
 relay-allocations-stg.cloud.unity3d.com
 qos-discovery-stg.cloud.unity3d.com
 argocd.prd.it.unity3d.com
+panhandler.test.it.unity3d.com
+panhandler.prd.it.unity3d.com
+www.hummus.app.create-data.unity3d.com
+fogbugz-redirects.test.cds.internal.unity3d.com
+fogbugz-redirects.test.ds.unity3d.com
+fogbugz-redirects.prd.ds.unity3d.com
+fogbugz-redirects.cds.internal.unity3d.com
+fogbugz-redirects.prd.cds.internal.unity3d.com
+artifactory-upload.test.it.unity3d.com
+fogbugz-redirects.ds.unity3d.com
+*.test.ds.unity3d.com
+kibana-genesis-01.test.logs.unity3d.com
+monitoring-kibana-genesis-01.test.logs.unity3d.com

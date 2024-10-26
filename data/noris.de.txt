@@ -261,3 +261,5 @@ vserver1.methode635-2.noris.de
 apps.hgg-prod-haufe-fs.noris.de
 api.tef-svc-prod-arsmedium4.noris.de
 *.apps.gfd-prod-scoop.noris.de
+*.apps.qs4-klartax-datev.noris.de
+*.apps.prod4-klartax-datev.noris.de

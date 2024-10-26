@@ -4313,3 +4313,13 @@ dex.statestreet.jupiterone.io
 aws-sns-eventsource-jupiterone-prod-hsbc.infra.jupiterone.io
 aws-sns-eventsource-jupiterone-dev.infra.jupiterone.io
 dex.dev.jupiterone.io
+query-engine-pod-002.internal.hsbc.jupiterone.io
+query-engine-pod-102.internal.us.jupiterone.io
+query-engine-pod-006.internal.us.jupiterone.io
+query-engine-pod-103.internal.us.jupiterone.io
+query-engine-pod-101.internal.us.jupiterone.io
+query-engine-pod-005.internal.us.jupiterone.io
+query-engine-pod-005-reader.internal.us.jupiterone.io
+query-engine-pod-003.internal.us.jupiterone.io
+query-engine-pod-007.internal.us.jupiterone.io
+query-engine-pod-007-reader.internal.us.jupiterone.io

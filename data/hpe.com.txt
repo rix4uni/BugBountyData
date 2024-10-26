@@ -1,0 +1,10 @@
+status-itg.it.hpe.com
+*.status-itg.it.hpe.com
+matter-itg.it.hpe.com
+prp-itg.wip.it.hpe.com
+imagefactory-pre-prod.corp.hpe.com
+imagefactory-pre-prod-api.corp.hpe.com
+imagefactory-pre-prod-apk-repo.corp.hpe.com
+imagefactory-pre-prod-debian-repo.corp.hpe.com
+status.it.hpe.com
+*.status.it.hpe.com

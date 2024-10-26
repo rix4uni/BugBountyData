@@ -20,3 +20,8 @@ tpmw-psa.test.netcetera.com
 ivo-test-project.ext.test-a-fra.cloud.netcetera.com
 *.ivo-test-project.int.test-a-fra.cloud.netcetera.com
 ivo-test-project.int.test-a-fra.cloud.netcetera.com
+grafana.frimobil.pids-test.netcetera.com
+keycloak.corporate-mobility.netcetera.com
+int-a-fra.cloud.netcetera.com
+*.int-a-fra.cloud.netcetera.com
+rancher-pre-test.cloud.netcetera.com

@@ -13206,3 +13206,17 @@ cte-m.sacbroker.wellsfargo.com
 fusapp-fix.wellsfargo.com
 gw-ras-uat.wellsfargo.com
 tx-a-gw-ras-uat.wellsfargo.com
+ap-jp1-a-gw-rrx.wellsfargo.com
+ap-jp1-a-portal-rrx-prod.wellsfargo.com
+ap-jp1-b-gw-rrx.wellsfargo.com
+ap-jp1-b-portal-rrx-prod.wellsfargo.com
+ap-sg1-a-gw-rrx.wellsfargo.com
+ap-sg1-a-portal-rrx-prod.wellsfargo.com
+ap-sg1-b-gw-rrx.wellsfargo.com
+ap-sg1-b-portal-rrx-prod.wellsfargo.com
+ctpsp-nonprod2026.wellsfargo.com
+ffo.wellsfargo.com
+ffo.ceo.wellsfargo.com
+portal-rrx-prod.wellsfargo.com
+tpr-oxdc.ceo.wellsfargo.com
+test-server-cert.wellsfargo.com

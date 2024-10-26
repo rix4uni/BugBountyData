@@ -5733,3 +5733,8 @@ bpls2.prod.verily.com
 dev.cli.verily.com
 workbench-data-explorer-dev-unstable.verily.com
 workbench-support-dev-unstable.verily.com
+stage.cli.verily.com
+stage.scatrac.api.verily.com
+test.cli.verily.com
+workbench-data-explorer-test.verily.com
+workbench-data-explorer-dev.verily.com

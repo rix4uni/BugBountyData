@@ -35,3 +35,4 @@ cyber.gov.au
 report.cyber.gov.au
 reportapp.cyber.gov.au
 api-report.cyber.gov.au
+*.test-ctis.cyber.gov.au

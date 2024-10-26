@@ -3,3 +3,11 @@ jenkins-server.vm.cesnet.cz
 mqs.cesnet.cz
 neo.cesnet.cz
 regalaxy.vm.cesnet.cz
+icinga.du.cesnet.cz
+monitoring.du.cesnet.cz
+nagios.du.cesnet.cz
+done-test.cesnet.cz
+netbox.done-test.cesnet.cz
+peering.done-test.cesnet.cz
+storage1.ceph-test.du.cesnet.cz
+cesnet.phishingator.cesnet.cz

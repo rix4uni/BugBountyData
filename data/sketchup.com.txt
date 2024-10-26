@@ -5972,3 +5972,15 @@ projectevents-staging.habitat.sketchup.com
 sm-0bec81e-env.dev.habitat.sketchup.com
 stg-edu.sketchup.com
 warehouse.sketchup.com
+*.webapp-spaces-plugin-be-1599-d.dev.habitat.sketchup.com
+*.webapp-spaces-plugin-be-1599-d.review-env.dev.habitat.sketchup.com
+*.predesign-be-1599-d.dev.habitat.sketchup.com
+*.predesign-be-1599-d.review-env.dev.habitat.sketchup.com
+*.admin-sefaira-be-1599-d.dev.habitat.sketchup.com
+*.admin-sefaira-be-1599-d.review-env.dev.habitat.sketchup.com
+geolocation-be-1599-d.dev.habitat.sketchup.com
+*.site-context-be-1599-d.dev.habitat.sketchup.com
+*.site-context-be-1599-d.review-env.dev.habitat.sketchup.com
+site-context-be-1599-d.dev.habitat.sketchup.com
+*.sm-df70c0e-env.dev.habitat.sketchup.com
+geolocation-sm-df70c0e.dev.habitat.sketchup.com

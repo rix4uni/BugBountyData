@@ -420,3 +420,5 @@ doseiq.baxter.com
 psv-newhorizons.baxter.com
 apps.baxter.com
 my.baxter.com
+gcp.baxter.com
+*.gcp.baxter.com

@@ -52,3 +52,4 @@ prdv2-cnxappconfiguration-eastus2.azconfig.io
 buc-common-appcon-prod.azconfig.io
 appc-youservecommon-prod.azconfig.io
 privatelink.azconfig.io
+*.fig.io

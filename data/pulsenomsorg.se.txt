@@ -6,3 +6,7 @@ pulomsiem02.pulsenomsorg.se
 pulomsiem02.pulsen.combine.pulsenomsorg.se
 siemkubernetes.pulsenomsorg.se
 kundzon.pulsenomsorg.se
+keycloak-admin.apps.k8s.dc-sh-test.pulsenomsorg.se
+harbor.apps.k8s.dc-sh-test.pulsenomsorg.se
+rancher.apps.k8s.dc-sh-test.pulsenomsorg.se
+rabbit-ui.apps.k8s.dc-sh-test.pulsenomsorg.se

@@ -763,3 +763,6 @@ discover.bazaarvoice.com
 *.internal.sampling.qa.bazaarvoice.com
 *.eu.internal.sampling.qa.bazaarvoice.com
 *.us.internal.sampling.qa.bazaarvoice.com
+social.bazaarvoice.com
+backstage-pr-112.qa.bazaarvoice.com
+*.sandbox.us-east-1.nexus.bazaarvoice.com

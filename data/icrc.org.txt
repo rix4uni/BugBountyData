@@ -338,3 +338,7 @@ flextranet.familylinks.icrc.org
 aoms.aztest.icrc.org
 wac.ext.icrc.org
 www.ir.icrc.org
+*.apps.ext.icrc.org
+*.apps.uat.icrc.org
+*.apps.test.icrc.org
+www.rcrc-conference.icrc.org

@@ -2912,3 +2912,6 @@ prod-us1-asana-cell12-f3d7aa33.app.asana.com
 r28183370.sync.app.asana.com
 prod-us1-asana-cell11-3e6070ee.app.asana.com
 prod-us1-asana-cell08-2c399bd6.asana.argocd.app.asana.com
+*.beta-us1-asana-cell01-3298fb76.app.asana.com
+beta-us1-asana-cell01-3298fb76.app.asana.com
+beta-us1-asana-cell01-3298fb76.asana.argocd.app.asana.com

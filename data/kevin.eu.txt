@@ -46,3 +46,5 @@ kevin.eu
 *.kevin.eu
 www.kevin.eu
 *.staging.kevin.eu
+*.dev.kevin.eu
+*.uat.kevin.eu

@@ -1,1 +1,6 @@
 hedgedoc.apps.aks-adfch-k8s-int-test-02.cloud.adfinis.com
+assessment.apps.aks-adfch-k8s-int-dev-02.cloud.adfinis.com
+test1.apps.aks-adfch-k8s-int-dev-02.cloud.adfinis.com
+argocd.apps.aks-adfch-k8s-int-dev-02.cloud.adfinis.com
+grafana.apps.aks-adfch-k8s-int-dev-02.cloud.adfinis.com
+codimd.adfinis.com

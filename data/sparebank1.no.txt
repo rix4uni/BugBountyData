@@ -2658,3 +2658,9 @@ sparebank1utvikling-demo-repo.test-dataplattform.sparebank1.no
 notteroy-tonsberg.sponsorportalen.sparebank1.no
 185-127-100-42.sparebank1.no
 185-127-101-139.sparebank1.no
+*.gitpod-alpha.dataplattform.sparebank1.no
+*.plattform.dataplattform.sparebank1.no
+*.semirandom.gitpod-alpha.dataplattform.sparebank1.no
+*.ws.gitpod-alpha.dataplattform.sparebank1.no
+*.pg.clusterdev-nightly.devaws.sparebank1.no
+*.clusterdev-nightly.devaws.sparebank1.no

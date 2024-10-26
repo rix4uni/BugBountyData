@@ -1,0 +1,14 @@
+openapi.in.cloud.ariba.com
+openapi-in1.in.cloud.ariba.com
+openapi-in2.in.cloud.ariba.com
+bnsmtp.service.cloud.ariba.com
+mx.eua.service.cloud.ariba.com
+mx01.bnsmtp.service.cloud.ariba.com
+mx02.bnsmtp.service.cloud.ariba.com
+mx03.bnsmtp.service.cloud.ariba.com
+euawsmtp.service.cloud.ariba.com
+smtpint-m1.euaw1.gcpint.ariba.com
+smtpint-m1.euaw2.gcpint.ariba.com
+euaw-mx01.service.cloud.ariba.com
+euaw-mx02.service.cloud.ariba.com
+euaw-mx03.service.cloud.ariba.com

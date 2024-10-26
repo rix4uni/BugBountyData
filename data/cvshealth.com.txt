@@ -11735,3 +11735,14 @@ internal-tracing-prod.pt-specialty-sprx.cvshealth.com
 ioponc.external.aetapps.dev.cvshealth.com
 qa-acs-author.cvshealth.com
 stage-acs-author.cvshealth.com
+cte.apigw-esl-ent-east.int.cvshealth.com
+cte.apigw-esl-ent-west.int.cvshealth.com
+cte.apigw-esl-ent.int.cvshealth.com
+pt.api-retail-pharmacy-use2.int.cvshealth.com
+uat.api-retail-pharmacy-use2.int.cvshealth.com
+internal-non-prod.medicare-asst-dev01.cvshealth.com
+internal-kiali-non-prod.medicare-asst-dev01.cvshealth.com
+internal-argocd-non-prod.medicare-asst-dev01.cvshealth.com
+internal-tracing-non-prod.medicare-asst-dev01.cvshealth.com
+internal-grafana-non-prod.medicare-asst-dev01.cvshealth.com
+internal-prometheus-kubemetrics.medicare-asst-dev01.cvshealth.com

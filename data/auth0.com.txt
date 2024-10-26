@@ -849,3 +849,10 @@ taegis.auth0.com
 *.edge.taegis.auth0.com
 *.edge.tenants.taegis.auth0.com
 *.wt.taegis.auth0.com
+ecobee-mobile-dev.auth0.com
+*.cnhind-dev.auth0.com
+*.edge.cnhind-dev.auth0.com
+*.edge.tenants.cnhind-dev.auth0.com
+*.wt.cnhind-dev.auth0.com
+local-a-lanacion.us.auth0.com
+local-b-lanacion.us.auth0.com

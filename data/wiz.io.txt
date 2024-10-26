@@ -2550,3 +2550,6 @@ _dmarc.wiz.io
 58ecbb1dd2ce42c8474bb18d036c41df.wiz.io
 wiz.io
 _amazonses.wiz.io
+*.fedstg1.wiz.io
+argocd.us2.gov.wiz.io
+argocd.us1.gov.wiz.io

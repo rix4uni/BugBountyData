@@ -1,3 +1,8 @@
 uat.api.traylogistics.cbord.com
 uat.frontend.traylogistics.cbord.com
 careers.cbord.com
+get.ca.cbord.com
+student.ca.cbord.com
+*.student.ca.cbord.com
+*.get.ca.cbord.com
+staging.patient.cbord.com

@@ -6,3 +6,4 @@ api.sandbox.almapay.com
 *.integrations.almapay.com
 *.staging.almapay.com
 *.sandbox.almapay.com
+checkout.sandbox.almapay.com

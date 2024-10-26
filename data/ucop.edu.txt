@@ -1565,3 +1565,6 @@ internal-prod.explore.was.devops.ucop.edu
 qa.basicneeds.ucop.edu
 uccmvst-plink-01.ucop.edu
 dev.procurement.ucop.edu
+test-ucpath.my.salesforce.com.ucop.edu
+samlproxy-2.sso.dev.iam.aws.ucop.edu
+samlproxy-1.sso.dev.iam.aws.ucop.edu

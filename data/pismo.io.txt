@@ -127,3 +127,6 @@ internal.pci.demo.pismo.io
 nequi.pismo.io
 pci.nequi.pismo.io
 sae1.internal.b3.pismo.io
+*.nequi.pismo.io
+global.nequi.pismo.io
+prod.nequi.pismo.io

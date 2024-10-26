@@ -629,3 +629,5 @@ www.bendixcvsupgrade.com
 *.use1.preprod.upgrade.com
 uplift-ecs.usw2.ondemand.upgrade.com
 uplift-ecs.usw2.prod.upgrade.com
+*.artifactory.usw2.cidev-platform.upgrade.com
+*.usw2.cidev-platform.upgrade.com

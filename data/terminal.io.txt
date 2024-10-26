@@ -14,3 +14,5 @@ www.terminal.io
 apply.dev.terminal.io
 infra-test.terminal.io
 *.infra-test.terminal.io
+pr-3817-sentinel.dev.terminal.io
+pr-3817-www.dev.terminal.io

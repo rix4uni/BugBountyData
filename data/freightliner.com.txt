@@ -1187,3 +1187,9 @@ rydersales-dtna-test.qa.freightliner.com
 170.2.210.14.freightliner.com
 19.dtna-appdmon.prd.freightliner.com
 dtnaconnect-dtna.prd.freightliner.com
+edex-campaign-dtna.prd.freightliner.com
+app-dtna-edex-campaign-prd-vip.prd.freightliner.com
+edex-campaign-dtna-test.qa.freightliner.com
+app-dtna-edex-campaign-test-vip.qa.freightliner.com
+edex-campaign-dtna-dev.dev.freightliner.com
+app-dtna-edex-campaign-dev-vip.dev.freightliner.com

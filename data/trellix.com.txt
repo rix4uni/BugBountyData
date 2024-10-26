@@ -1906,3 +1906,10 @@ www.prod.urlcat.amq.trellix.com
 *.asiasouth1.app.xdr.trellix.com
 *.useast4.app.xdr.trellix.com
 prd07-observability.etp.trellix.com
+edu-test-eu.etp.trellix.com
+www.devint.gsd.cloud.trellix.com
+www.devint.iam-rs.cloud.trellix.com
+www.devint.iam.cloud.trellix.com
+www.preprod.gsd.cloud.trellix.com
+www.preprod.iam-rs.cloud.trellix.com
+www.preprod.iam.cloud.trellix.com

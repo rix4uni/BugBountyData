@@ -303,3 +303,5 @@ report-monitor.prod-qt.backend-capital.com
 preview-ingress-db.preview-env.backend-capital.com
 prod-rancher-aws2-edgerouter-public.backend-capital.com
 demo-api-capital.backend-capital.com
+*.preview-env-qt.preview-env.backend-capital.com
+*.preview-tests.preview-env.backend-capital.com

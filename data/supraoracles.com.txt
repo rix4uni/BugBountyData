@@ -5,3 +5,5 @@ one-password-okta.cerberus.supraoracles.com
 teleport.supraoracles.com
 pritunl-vpn.entropy.supraoracles.com
 data.supraoracles.com
+jenkins.entropy.supraoracles.com
+*.supraoracles.com

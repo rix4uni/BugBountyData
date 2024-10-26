@@ -315,3 +315,5 @@ vpn.us.vadesecure.com
 front01.fbl.vadesecure.com
 mx03.cloud-preview.vadesecure.com
 mysurvey.vadesecure.com
+*.partner.vadesecure.com
+*.us.vadesecure.com

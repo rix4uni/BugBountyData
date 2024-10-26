@@ -387,3 +387,4 @@ blobd-orchestrator-sos.vie1.internal.exoscale.ch
 victoriametrics.preprod.internal.exoscale.ch
 jaeger-query.gva2-preprod.internal.exoscale.ch
 quickwit.vie1.internal.exoscale.ch
+blob-ui-sos.vie1.internal.exoscale.ch

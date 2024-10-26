@@ -4,3 +4,5 @@ zabbix.bobbie.de
 *.zabbix.bobbie.de
 mail-test.bobbie.de
 *.mail-test.bobbie.de
+dtrans.build.bobbie.de
+*.dtrans.build.bobbie.de

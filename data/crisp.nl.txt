@@ -454,3 +454,5 @@ crisp-dev.dev-001.test.crisp.nl
 mail.dev-001.test.partner.crisp.nl
 backup.dev-001.test.crisp.nl
 erikheidstra.dev-001.test.partner.crisp.nl
+crisp-ci.dev-001.partner.crisp.nl
+buildkite-agent.dev-001.crisp.nl

@@ -64,3 +64,12 @@ bo.dev2.ftmo.com
 id-ct.ftmo.com
 db1.ftmo.com
 db2.ftmo.com
+*.dev.ftmo.com
+*.dev2.ftmo.com
+*.dev3.ftmo.com
+*.dev4.ftmo.com
+*.devt.ftmo.com
+*.ftmo.com
+*.stage.ftmo.com
+*.stage2.ftmo.com
+*.test.ftmo.com

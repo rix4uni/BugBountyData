@@ -9,3 +9,7 @@ faucet.enjin.cn
 beam.enjin.cn
 ns2.enjin.cn
 blog.enjin.cn
+*.beam.enjin.cn
+*.cloud.enjin.cn
+*.enjin.cn
+*.faucet.enjin.cn

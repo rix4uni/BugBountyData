@@ -1,0 +1,12 @@
+test.ssb.cloud.nais.io
+*.test.ssb.cloud.nais.io
+external.test.ssb.cloud.nais.io
+*.external.test.ssb.cloud.nais.io
+prod.ssb.cloud.nais.io
+*.prod.ssb.cloud.nais.io
+dev.dev-nais.cloud.nais.io
+*.dev.dev-nais.cloud.nais.io
+external.dev.dev-nais.cloud.nais.io
+*.external.dev.dev-nais.cloud.nais.io
+external.prod.ssb.cloud.nais.io
+*.external.prod.ssb.cloud.nais.io

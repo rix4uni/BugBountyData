@@ -305,3 +305,8 @@ blog.staging.daily.co
 *.daily.co
 *.eu-west-2.wss.daily.co
 *.eu-central-1.wss.daily.co
+*.ap-south-1.wss.daily.co
+*.sa-east-1.wss.daily.co
+bots.staging.daily.co
+*.ap-southeast-2.wss.daily.co
+*.af-south-1.wss.daily.co

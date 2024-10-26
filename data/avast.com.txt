@@ -1602,3 +1602,5 @@ driver-updater-test.ff.avast.com
 driver-updater-gcp-test.ff.avast.com
 devops-sandbox-test.stage-us-east1.smbrm.avast.com
 evomde-gcp.ff.avast.com
+business-auth.test-europe-west3.smbrm.avast.com
+business-auth.test.smbrm.avast.com

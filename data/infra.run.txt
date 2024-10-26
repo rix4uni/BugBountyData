@@ -4,3 +4,7 @@ erp-test.infra.run
 erp.infra.run
 5016.bbb.infra.run
 5014.bbb.infra.run
+mail.infra.run
+autoconfig.infra.run
+autodiscover.infra.run
+5000.turn.infra.run

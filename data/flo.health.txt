@@ -30,3 +30,5 @@ quiz.flo.health
 outplay.flo.health
 auth.test.flo.health
 tms.flo.health
+bundled.scalajs.workers.flo.health
+*.flo.health

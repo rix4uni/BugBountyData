@@ -2395,3 +2395,7 @@ gamesapi.betfair.com.nxt.ppbdev.com
 developer.betfair.com.qa.ppbdev.com
 betfair.ar.qa.ppbdev.com
 betfair.cdn.gmmaster.ppbdev.com
+*.developer.betfair.com.au.qa.ppbdev.com
+*.betfair.com.au.prf.ppbdev.com
+*.betfair.com.au.nxt.ppbdev.com
+*.betfair.com.au.qa.ppbdev.com

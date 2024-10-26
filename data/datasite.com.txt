@@ -168,3 +168,9 @@ pub-slackg.dev.us2.datasite.com
 *.dev.datasite.com
 mail.datasite.com
 *.mail.datasite.com
+mail-dev.datasite.com
+*.mail-dev.datasite.com
+*.cb.datasite.com
+*.cdb.dev.datasite.com
+*.cdb.devops.datasite.com
+cdb.americas.datasite.com

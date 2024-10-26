@@ -6,3 +6,7 @@ jenkins.debian.org
 mirror-csail.debian.org
 l10n.debian.org
 onion.debian.org
+planet-master.debian.org
+planet-search.debian.org
+www-master.debian.org
+www-staging.debian.org

@@ -67,3 +67,4 @@ minc.getmeetio.com
 auth.getmeetio.com
 uptime.getmeetio.com
 sip.getmeetio.com
+*.getmeetio.com

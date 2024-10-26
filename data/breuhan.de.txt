@@ -15,3 +15,5 @@ homeassistant.avoton.home.breuhan.de
 wallabag.breuhan.de
 lan.breuhan.de
 public.breuhan.de
+*.home.breuhan.de
+*.public.breuhan.de

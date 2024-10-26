@@ -790,3 +790,5 @@ test-privateservice01.danskebank.com
 test-publicservice01.danskebank.com
 pki2.danskebank.com
 signingservice.danskebank.com
+dbp.danskebank.com
+dbp-bb.danskebank.com

@@ -5980,3 +5980,7 @@ www-hawthorn-origin-gf2.pnc.com
 webqa.collegeloans.pnc.com
 deliveryqa-cle.pnc.com
 efx-uat-cle.pnc.com
+*.treasury-qa1.pnc.com
+*.treasury-qa2.pnc.com
+*.treasury-qa3.pnc.com
+*.treasury-qa4.pnc.com

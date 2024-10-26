@@ -1031,3 +1031,5 @@ sdp-stg.anaplan.com
 ec2-auth1-1-sip.anaplan.com
 edge.tenants.auth0.anaplan.com
 prod-us6.app.anaplan.com
+*.np-eks.pai-np.predictive-dev.anaplan.com
+*.pai-np.predictive-dev.anaplan.com

@@ -1,2 +1,4 @@
 *.authentication.uat.moonpig.net
 *.api.authentication.uat.moonpig.net
+*.content.prod.moonpig.net
+*.webhook.content.prod.moonpig.net

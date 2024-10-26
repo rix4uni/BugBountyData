@@ -2,3 +2,5 @@ directories.demo.famedly.de
 *.directories.demo.famedly.de
 organisation-directory.demo.famedly.de
 user-directory.demo.famedly.de
+restic-fsn1.famedly.de
+*.restic-fsn1.famedly.de

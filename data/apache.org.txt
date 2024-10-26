@@ -5,3 +5,7 @@ selfserve-test-ec2-or.apache.org
 tobago-demo.apache.org
 tobago-vm.apache.org
 bpc1-he-fi.apache.org
+beam-cache.apache.org
+beam-cache-ec2-oh-us.apache.org
+infra-reports.apache.org
+infra-reporting-ec2-va.apache.org

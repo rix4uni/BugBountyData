@@ -53,3 +53,15 @@ test-adminapi-sql.syndev.dnv.com
 digisale-t1-web-sql.syndev.dnv.com
 digisale-t1-scheduler-sql.syndev.dnv.com
 digisale-t1-adminapi-sql.syndev.dnv.com
+scg.dnv.com
+www.scg.dnv.com
+*.scg.dnv.com
+interfaceproducts-adminapi-sql.syndev.dnv.com
+psr.nationalgas.dnv.com
+evolvestaging.dnv.com
+topo.dnv.com
+interfaceproducts-slms-sql.syndev.dnv.com
+interfaceproducts-services-sql.syndev.dnv.com
+interfaceproducts-web-sql.syndev.dnv.com
+interfaceproducts-scheduler-sql.syndev.dnv.com
+interfaceproducts-slas.syndev.dnv.com

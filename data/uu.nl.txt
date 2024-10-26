@@ -2470,3 +2470,6 @@ grafana.apps-tst.k8s.library.uu.nl
 acc.lettercraft.hum.uu.nl
 lettercraft.hum.uu.nl
 tst.lettercraft.hum.uu.nl
+uwsworkflow.apps.k8s.library.uu.nl
+workflow.library.uu.nl
+workflow.apps.k8s.library.uu.nl

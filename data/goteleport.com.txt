@@ -101,3 +101,5 @@ proxy1.goteleport.com
 proxy2.goteleport.com
 domain.goteleport.com
 domain-controller.domain.goteleport.com
+*.docusaurus.goteleport.com
+docusaurus.goteleport.com

@@ -1946,3 +1946,5 @@ api.takeaway.hktvmall.com
 push-api-v2.hktvmall.com
 cate-search.hktvmall.com
 live-stream.hktvmall.com
+*.cdn.test.vmall.com
+cdn.test.vmall.com

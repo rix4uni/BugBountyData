@@ -20,3 +20,8 @@ dev-sso.sage.com
 *.dev-sso.sage.com
 sn-ss-sbx.sage.com
 *.sn-ss-sbx.sage.com
+internal-devx.sage.com
+*.internal-devx.sage.com
+api4322.sbcpi-dev.sbc.sage.com
+events.sage.com
+api4326.sbcpi-dev.sbc.sage.com

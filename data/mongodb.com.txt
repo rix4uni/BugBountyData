@@ -5242,3 +5242,9 @@ mongodbcom-poc-cdn.website.staging.corp.mongodb.com
 mongodbcom-poc.website.staging.corp.mongodb.com
 training-staging.mongodb.com
 website-poc-gateway-migration.website.staging.corp.mongodb.com
+gen-scraper-sf-scraper.ts-tools.prod.corp.mongodb.com
+mongodbcom-mesh-poc-cdn.website.staging.corp.mongodb.com
+mongodbcom-mesh-poc.website.staging.corp.mongodb.com
+trino-dw-scraper.ts-tools.staging.corp.mongodb.com
+trino-jwt-gateway.dataplatform.staging.corp.mongodb.com
+gen-scraper-sf-scraper.ts-tools.staging.corp.mongodb.com

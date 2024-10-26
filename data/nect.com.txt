@@ -5,3 +5,6 @@ php.wijkconnect.com
 walletconnect.com
 *.walletconnect.com
 www.walletconnect.com
+adhoc.svc.nect.com
+dev.nect-frontend-website.int.svc.nect.com
+www.dev.nect-frontend-website.int.svc.nect.com

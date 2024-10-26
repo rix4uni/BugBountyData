@@ -1380,3 +1380,9 @@ status.presence.fortinet.com
 *.ypk.labs.training.fortinet.com
 *.yvr.labs.training.fortinet.com
 *.yyc.labs.training.fortinet.com
+fio-devops.corp.fortinet.com
+*.fortirecon.corp.fortinet.com
+*.fortinet.com
+ffc-725-faz-board.fortidemo.fortinet.com
+ffc-sa-test-board-2.fortidemo.fortinet.com
+ffc-725-sa-test-board-3.fortidemo.fortinet.com

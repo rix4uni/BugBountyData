@@ -919,3 +919,4 @@ ddi-dev-euc1.managed.test.infoblox.com
 az-usw-radius1.infoblox.com
 grpc.dstest.dev-31.kops.sdp.infoblox.com
 reports.dl.infoblox.com
+*.na.csp.infoblox.com

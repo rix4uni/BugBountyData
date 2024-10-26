@@ -1,0 +1,11 @@
+blog-ci-2-10-0-pr-390.t2.cvent.com
+guest-ci-2-10-0-pr-390.t2.cvent.com
+api-staging-ci-2-10-0-pr-390.t2.cvent.com
+blog-ci-3-0-0-pr-385.t2.cvent.com
+app-ci-3-0-0-pr-385.t2.cvent.com
+secure-ecommerce.api-platform-dev-pr-61.cvent.com
+acmcdk-ci-testing-us-east-1.lb.cvent.com
+*.lb.cvent.com
+acmcdk-ci-san-test.us-east-1.lb.cvent.com
+acmcdk-ci-san-test-cvent-sandbox.us-east-1.lb.cvent.com
+acmcdk-ci-testing-us-east-1-stack-2.lb.cvent.com

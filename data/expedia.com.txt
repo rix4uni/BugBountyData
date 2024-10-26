@@ -5004,3 +5004,5 @@ i.test.lodgingshared.expedia.com
 eps-health-checker.us-west-2.test.epsdecaf.expedia.com
 eps-health-checker.us-west-2.test.espdecaf.expedia.com
 *.dominicanrepublic.expedia.com
+eps-health-checker.us-west-2.prod.epsdecaf.expedia.com
+eps-health-checker.us-east-1.prod.epsdecaf.expedia.com

@@ -10,3 +10,13 @@ gate-api.equinor.com
 gcb-trayport-gateway-test.equinor.com
 gcb-dev.equinor.com
 oplog.equinor.com
+*.api.fusion.equinor.com
+*.app.fusion.equinor.com
+*.docs.fusion.equinor.com
+*.fusion.equinor.com
+dispatch-docs.equinor.com
+dasha.equinor.com
+ais.equinor.com
+lrn.equinor.com
+extlrn.equinor.com
+gcb-dev2.equinor.com

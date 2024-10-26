@@ -16,3 +16,6 @@ main.pages.rmmanfredi.com
 development.pages.rmmanfredi.com
 archive.prod.rmmanfredi.com
 vpn.rmmanfredi.com
+*.rmmanfredi.com
+*.staging.rmmanfredi.com
+*.prod.rmmanfredi.com

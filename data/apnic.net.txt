@@ -3422,3 +3422,8 @@ rdap.jpnic.tst.io.apnic.net
 rpki-as0.gke-sydney-test.nonprod.xyz.apnic.net
 bvi-21.auftd1.public.prd.nx.apnic.net
 conference.stg.xyz.apnic.net
+mr-96.notification.gke-sydney-test.nonprod.xyz.apnic.net
+mr-96.notification-slack.gke-sydney-test.nonprod.xyz.apnic.net
+conferences-182.gke-sydney-test.nonprod.xyz.apnic.net
+conferences-178.gke-sydney-test.nonprod.xyz.apnic.net
+conferences-181.gke-sydney-test.nonprod.xyz.apnic.net

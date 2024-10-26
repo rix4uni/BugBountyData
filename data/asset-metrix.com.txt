@@ -50,3 +50,5 @@ eoscp.services.asset-metrix.com
 dubag.services.asset-metrix.com
 *.bnpparibas.asset-metrix.com
 risk.services.asset-metrix.com
+*.bnpparibas-demo.asset-metrix.com
+*.bnpparibas-preprod.asset-metrix.com

@@ -1988,3 +1988,14 @@ www02.netapp.com
 ncv.na-ne1.gnf.netapp.com
 ncv.us-c2.npd.gnf.netapp.com
 atom-tst.eu-n1.npd.gnf.netapp.com
+ncv.us-c1.sandbox.internal.npd.gnf.netapp.com
+ncv.europe-southwest1.gcp.netapp.com
+ncv.eu-sw1.internal.gnf.netapp.com
+ncv-tst.us-w1-vmdb.npd.gnf.netapp.com
+ncv.northamerica-northeast2.gcp.netapp.com
+gwaws.cloudinsights-qa.netapp.com
+docker.gwaws.cloudinsights-qa.netapp.com
+adm.gwaws.cloudinsights-qa.netapp.com
+*.gwaws.cloudinsights-qa.netapp.com
+ncv.asia-northeast1.gcp.netapp.com
+cvs-so-eu-n1-tst-vmdb.dev.gcp.netapp.com

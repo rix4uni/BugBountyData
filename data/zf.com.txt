@@ -1615,3 +1615,17 @@ wa-aep-web-frontend-dev.mmm.azure.zf.com
 notification-mfint.api.eu1.scalar.zf.com
 vehicle-adapter.api.eu1.stg.scalar.zf.com
 data-sharing.app.eu1.dev.scalar.zf.com
+val-147454.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
+*.euwe1.core-dev.odyssey.zf.com
+feedlogs.app.eu1.dev.scalar.zf.com
+notes.app.eu1.scalar.zf.com
+val-147469.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
+val-146816-celp-ingestion.euwe1.ingestion-dev.odyssey.zf.com
+val-144293-user-avatar.euwe1.core-dev.odyssey.zf.com
+emailservice.app.eu1.dev.scalar.zf.com
+val-147526-user-avatar.euwe1.core-dev.odyssey.zf.com
+unitmanagement.app.ap1.stg.scalar.zf.com
+val-147553-celp-ingestion.euwe1.ingestion-dev.odyssey.zf.com
+units-simulator.app.eu1.dev.scalar.zf.com
+mf-react-zf-knowledge-portal-server.eu1.dev.scalar.zf.com
+val-147597-user-avatar.euwe1.core-dev.odyssey.zf.com

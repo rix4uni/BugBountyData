@@ -5739,3 +5739,7 @@ sfx2637.poker.zynga.com
 *.vino.dev.gotslots.zynga.com
 *.solitaire.zynga.com
 scorecards.security-prd.zynga.com
+rover-prd.security-prd.zynga.com
+*.mercury.zynga.com
+dev.sharedgames.k8s.zynga.com
+*.dev.sharedgames.k8s.zynga.com

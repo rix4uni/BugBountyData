@@ -1,2 +1,17 @@
 stg3.buildxact.com
 data.product.buildxact.com
+app-preprod.buildxact.com
+rfq.buildxact.com
+myhome.buildxact.com
+mobile.buildxact.com
+rfq-dev.buildxact.com
+api-sandbox.buildxact.com
+rfq-staging.buildxact.com
+manage-sandbox.buildxact.com
+app-sandbox.buildxact.com
+mobile-staging.buildxact.com
+mobile-dev.buildxact.com
+rfq-sandbox.buildxact.com
+app-development.buildxact.com
+myhome-dev.buildxact.com
+myhome-sandbox.buildxact.com

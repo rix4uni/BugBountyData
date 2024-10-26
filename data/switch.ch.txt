@@ -83,3 +83,13 @@ alertmanager.int.os-ls.kaas-staging.switch.ch
 da.sign-test.switch.ch
 api.sign-test.switch.ch
 da.sign-dev.switch.ch
+grafana.int.os-ls.kaas.switch.ch
+prometheus.int.os-ls.kaas.switch.ch
+alertmanager.int.os-ls.kaas.switch.ch
+keystone.api.s2.scloud.switch.ch
+swibf-nts1.switch.ch
+landingpage.misc.rpz.switch.ch
+landingpage.mw.rpz.switch.ch
+landingpage.ph.rpz.switch.ch
+indexer05.zh.cert.sonar.switch.ch
+draco.switch.ch

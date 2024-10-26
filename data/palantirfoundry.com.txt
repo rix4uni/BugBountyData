@@ -2719,3 +2719,13 @@ devcon-sql-commit.palantirfoundry.com
 devcon-sql-pipeline.palantirfoundry.com
 devcon-sql-stacktrace.palantirfoundry.com
 usw-16.palantirfoundry.com
+*.kitmanlabs.palantirfoundry.com
+devcon-java-pipeline.palantirfoundry.com
+devcon-ruby-sandbox.palantirfoundry.com
+devcon-scala-pipeline.palantirfoundry.com
+fmm.palantirfoundry.com
+generapr.palantirfoundry.com
+wsh.palantirfoundry.com
+corelogicdataextraction.palantirfoundry.com
+utcoverseasinc.palantirfoundry.com
+*.events.palantirfoundry.com

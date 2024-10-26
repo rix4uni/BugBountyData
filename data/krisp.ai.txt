@@ -150,3 +150,8 @@ api.new.krisp.ai
 download.new.krisp.ai
 newapi.krisp.ai
 dev.krisp.ai
+*.krisp.ai
+*.api.krisp.ai
+*.download.krisp.ai
+*.teams.krisp.ai
+*.upld.krisp.ai

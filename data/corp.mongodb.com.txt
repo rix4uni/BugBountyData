@@ -1119,3 +1119,11 @@ mongodbcom-qa5.website.staging.corp.mongodb.com
 central-rag.corps.staging.corp.mongodb.com
 apix-bot.skunkworks.staging.corp.mongodb.com
 apix-bot.cloud-build.staging.corp.mongodb.com
+mycelium-poc-preview.website.staging.corp.mongodb.com
+mycelium-poc.website.staging.corp.mongodb.com
+trino-dw-scraper.ts-tools.staging.corp.mongodb.com
+trino-dw-scraper.ts-tools.prod.corp.mongodb.com
+mongodbcom-poc-cdn.website.staging.corp.mongodb.com
+mongodbcom-poc.website.staging.corp.mongodb.com
+mongodbcom-mesh-poc-cdn.website.staging.corp.mongodb.com
+mongodbcom-mesh-poc.website.staging.corp.mongodb.com

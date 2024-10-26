@@ -1,0 +1,5 @@
+silentprovision-stg.gui.mcafee.com
+fwk-test-dev.int.ppawscommon.mcafee.com
+*.fwk-test-dev.int.ppawscommon.mcafee.com
+observability-dev1.int.ppawscommon.mcafee.com
+*.observability-dev1.int.ppawscommon.mcafee.com

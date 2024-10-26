@@ -1942,3 +1942,5 @@ marketing-tracking.thomsonreuters.com
 aks-app-demo-store.ef44.use2.azure-int.thomsonreuters.com
 taxprofessionals-status.hostedtax.thomsonreuters.com
 airflow-tr-secops-fedramp.aws-int.thomsonreuters.com
+*.mobile.reuters.com
+*.reuters.com

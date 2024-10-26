@@ -2223,3 +2223,5 @@ yakubu.staging.backend-staging.xvtest.net
 146.v2-staging-dennis.xvtest.net
 blog.web-staging.xvtest.net
 *.frontend-qa.xvtest.net
+web-frontend-pr-12006.frontend-qa.xvtest.net
+www.web-frontend-pr-12006.frontend-qa.xvtest.net

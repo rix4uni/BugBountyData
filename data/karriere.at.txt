@@ -146,3 +146,5 @@ ns1.news.karriere.at
 static.karriere.at
 api.test2.karriere.at
 router.karriere.at
+*.stage.karriere.at
+*.dev.karriere.at

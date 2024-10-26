@@ -42,3 +42,6 @@ stage.mmhmm.app
 signin-dev.mmhmm.app
 howtohybrid.mmhmm.app
 staging.www.mmhmm.app
+*.dev.cloud.mmhmm.app
+*.stage.cloud.mmhmm.app
+*.prod.cloud.mmhmm.app

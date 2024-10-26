@@ -1,0 +1,9 @@
+artifactory-dev.illumio.com
+docker-chaos.illumio.com
+docker-internal.illumio.com
+docker-public.illumio.com
+docker-release.illumio.com
+docker-scratch.illumio.com
+docker-snapshot.illumio.com
+docker-thirdparty.illumio.com
+dockerhub-cache.illumio.com

@@ -1029,3 +1029,17 @@ stg1-swg-nginx-s3-gw.access.proofpoint.com
 swg-nginx-s3-gw.access.proofpoint.com
 scancloud-ext.prod-c15a-awseuc.proofpoint.com
 scancloud-eu.proofpoint.com
+continuity-us3-rest.prod-c15a-awsuse.proofpoint.com
+cognito.peoplecentric.proofpoint.com
+auth.peoplecentric.proofpoint.com
+prometheus.peoplecentric.proofpoint.com
+alerts.peoplecentric.proofpoint.com
+chartmuseum-us.peoplecentric.proofpoint.com
+grafana.peoplecentric.proofpoint.com
+kibana-data.peoplecentric.proofpoint.com
+api.peoplecentric.proofpoint.com
+loki.peoplecentric.proofpoint.com
+connectpt2.proofpoint.com
+health-checker.prod-shared-eks1-apse1.proofpoint.com
+health-checker.prod-shared-eks2-apse1.proofpoint.com
+center-integration-api.prod-c15a-awsuse.proofpoint.com

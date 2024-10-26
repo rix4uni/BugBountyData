@@ -174,3 +174,8 @@ ransomwarewww.cisa.gov
 u00a0us-cert.cisa.gov
 onus-cert.cisa.gov
 cert.cisa.gov
+*.ci.protectivedns.cisa.gov
+*.dev.protectivedns.cisa.gov
+*.protectivedns.cisa.gov
+*.test-ci.protectivedns.cisa.gov
+*.test.protectivedns.cisa.gov

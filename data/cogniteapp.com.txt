@@ -1,2 +1,16 @@
 staging.omv-well-flow-rates.cogniteapp.com
 unleash-edge.cogniteapp.com
+*.az-pnq-gp-001.cogniteapp.com
+*.next.az-pnq-gp-001.cogniteapp.com
+*.pr.az-pnq-gp-001.cogniteapp.com
+*.preview.az-pnq-gp-001.cogniteapp.com
+*.staging.az-pnq-gp-001.cogniteapp.com
+az-pnq-gp-001.cogniteapp.com
+go.remote-xom.cogniteapp.com
+s1.remote-xom.cogniteapp.com
+s2.remote-xom.cogniteapp.com
+s3.remote-xom.cogniteapp.com
+s4.remote-xom.cogniteapp.com
+s5.remote-xom.cogniteapp.com
+s6.remote-xom.cogniteapp.com
+s7.remote-xom.cogniteapp.com

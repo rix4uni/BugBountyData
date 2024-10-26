@@ -5010,3 +5010,10 @@ ifbook.tencent.com
 palm-iot.tencent.com
 service.eco.tencent.com
 watermark.xlab.tencent.com
+*.ssc.tencent.com
+*.sso.copilot.tencent.com
+*.xrstore.tencent.com
+ssc.tencent.com
+sso.copilot.tencent.com
+xrstore.tencent.com
+llm.hunyuan.tencent.com

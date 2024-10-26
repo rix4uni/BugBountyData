@@ -242,3 +242,6 @@ ch1.gap.shadow.tech
 forest.preprod.shadow.tech
 zendesk.api-web.shadow.tech
 v6-test-insider-gap.shadow.tech
+nestor.drive.shadow.tech
+teleport.drive.shadow.tech
+*.teleport.drive.shadow.tech

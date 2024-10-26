@@ -367,3 +367,5 @@ aadpodidtests.shared.ww.ext.k8s.capitalontap.com
 prometheus.pro.uk.int.k8s.capitalontap.com
 alertmanager.pro.uk.int.k8s.capitalontap.com
 grafana.pro.uk.int.k8s.capitalontap.com
+api-poc.dev.us.ext.k8s.capitalontap.com
+develop-api-poc.us.capitalontap.com

@@ -24,3 +24,5 @@ eva-management-console.test.voiceai.cto-si.zebra.com
 eva-message-builder-service.test.voiceai.cto-si.zebra.com
 eva-service.test.voiceai.cto-si.zebra.com
 reflexis-backend-adapter-service.test.voiceai.cto-si.zebra.com
+*.zac-backup.cto-si.zebra.com
+zac-backup.cto-si.zebra.com

@@ -8504,3 +8504,6 @@ thissubdomainshouldonlyresolveifwildcard.thissubdomainshouldonlyresolveifwildcar
 argalephdockerlbtpp.turner.com
 www.001navelysroot.compapps.turner.com
 as.turner.com
+*.dx.dev2.electionapps.turner.com
+*.inet.dev2.electionapps.turner.com
+*.dev2.electionapps.turner.com

@@ -12382,3 +12382,6 @@ prod-jp1-asana-cell01-70c20de5.asana.argocd.app.asana.com
 prod-us1-asana-cell05-95540e75.app.asana.com
 prod-us1-asana-cell05-95540e75.asana.argocd.app.asana.com
 yir-share.asana.com
+*.beta-us1-asana-cell01-3298fb76.app.asana.com
+beta-us1-asana-cell01-3298fb76.app.asana.com
+beta-us1-asana-cell01-3298fb76.asana.argocd.app.asana.com

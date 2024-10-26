@@ -72,3 +72,4 @@ errorproxy.portal.eye.security
 eye.security
 catch.eye.security
 www.eye.security
+*.eye.security

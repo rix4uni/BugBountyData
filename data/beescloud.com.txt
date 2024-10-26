@@ -3302,3 +3302,7 @@ pr-155.audit.dev.beescloud.com
 cd.stusa110224.sa-demo.beescloud.com
 pr-1527.preview.app.devoptics-dev.beescloud.com
 bp02.aws.ps.beescloud.com
+vj-sda-ilb.cd-k8s.beescloud.com
+*.jgolden.ps.beescloud.com
+cbci-test-jnord-29909.dev-test.cbci.beescloud.com
+*.rkivisto.support.beescloud.com

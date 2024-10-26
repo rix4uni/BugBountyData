@@ -1,0 +1,8 @@
+auth-2-grpc.prod.euce1.aws.indrive.tech
+test-cert.prod.latam.saea1.aws.indrive.tech
+geo-config-admin-backend.prod.euce1.aws.indrive.tech
+argocd.infra.euce1.aws.indrive.tech
+garage-api-grpc.prod.eu.euce1.aws.indrive.tech
+auth-2.prod.euce1.aws.indrive.tech
+test-cert.prod.euce1.aws.indrive.tech
+frontend-indrive-com.prod.euce1.aws.indrive.tech

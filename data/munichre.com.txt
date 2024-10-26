@@ -304,3 +304,5 @@ gras-cvg01.na.munichre.com
 ondemand-prd.lri-prd.k8s.munichre.com
 lewsapac.munichre.com
 mail53.munichre.com
+*.app-nonprd-we-206.k8s.munichre.com
+*.app-prd-cc-217.k8s.munichre.com

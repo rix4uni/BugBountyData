@@ -159,3 +159,5 @@ cdm-dev.sage.fr
 *.cdm-dev.sage.fr
 cdm-stg.sage.fr
 *.cdm-stg.sage.fr
+cdm-qa.sage.fr
+*.cdm-qa.sage.fr

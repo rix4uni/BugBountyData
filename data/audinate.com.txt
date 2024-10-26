@@ -9,3 +9,6 @@ pushgateway.sgp1.stage.do.ops-services.a.corp.audinate.com
 jenkins.eng.stage.corp.audinate.com
 jenkins.eng.corp.audinate.com
 traefik.ops-node0.cbg.prod.onprem.ops-services.a.audinate.com
+traefik.ops-node0.sgp1.prod.do.ops-services.a.audinate.com
+tse.syd1.prod.do.iac.a.audinate.com
+*.audinate.com

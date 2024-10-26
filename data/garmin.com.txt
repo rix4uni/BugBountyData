@@ -1632,3 +1632,17 @@ avc-coredata.garmin.com
 cipher003d.tls.performance-networktech.garmin.com
 lb.newsroom.garmin.com
 videoshare.garmin.com
+*.gcs-upload.garmin.com
+*.geolocation.garmin.com
+csp-fleet.garmin.com
+*.csp-fleet.garmin.com
+*.serviceregistry.garmin.com
+*.pns.ciq.garmin.com
+*.taroko.gcs.garmin.com
+*.eraprocessing.garmin.com
+*.faceit.garmin.com
+*.gcsproxyserver.garmin.com
+*.appreview.garmin.com
+*.asr.gcs.garmin.com
+*.device-proxy.garmin.com
+*.developerportal.garmin.com

@@ -1,3 +1,6 @@
 ancestry.ca
 *.ancestry.ca
 *.ajax.ancestry.ca
+api.ancestry.ca
+archives.ancestry.ca
+blog.ancestry.ca

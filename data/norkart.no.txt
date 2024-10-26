@@ -174,3 +174,8 @@ customers.api.norkart.no
 customerservice.norkart.no
 kari.norkart.no
 kteskattbasis.api.norkart.no
+*.norkart.no
+*.api.norkart.no
+*.app.norkart.no
+*.k8s.norkart.no
+*.wms.norkart.no

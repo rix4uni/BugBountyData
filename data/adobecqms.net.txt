@@ -27180,3 +27180,12 @@ author-girlscouts-stage.adobecqms.net
 *.test.software-ag-stg-65.adobecqms.net
 software-ag-dev-65.adobecqms.net
 software-ag-stg-65.adobecqms.net
+*.build.northgate.adobecqms.net
+*.dev.northgate.adobecqms.net
+*.perf.northgate.adobecqms.net
+*.preprod.northgate.adobecqms.net
+*.prod.northgate.adobecqms.net
+*.qa.northgate.adobecqms.net
+*.sit.northgate.adobecqms.net
+*.stage.northgate.adobecqms.net
+*.test.northgate.adobecqms.net

@@ -51871,3 +51871,5 @@ weylandyutani.cloud.gravitational.io
 m-1729537513.cloud.gravitational.io
 matt-test-3.cloud.gravitational.io
 policy-load-test.cloud.gravitational.io
+*.awsic-dev2.cloud.gravitational.io
+awsic-dev2.cloud.gravitational.io

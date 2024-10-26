@@ -2,3 +2,6 @@ web-utils.sonos.com
 sanity-stage.sonos.com
 vhssndn4ci.hec.sonos.com
 www.vhssndn4ci.hec.sonos.com
+vault.service.consul.sandbox.aws.sonos.com
+vault-1.node.consul.sandbox.aws.sonos.com
+vault-2.node.consul.sandbox.aws.sonos.com

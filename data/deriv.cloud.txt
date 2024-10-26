@@ -69,3 +69,4 @@ bastion.staging.deriv.cloud
 redmine-qa.deriv.cloud
 qms.deriv.cloud
 brokerpilot.deriv.cloud
+*.deriv.cloud

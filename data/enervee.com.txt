@@ -39,3 +39,9 @@ uat.cms.dev.kube.enervee.com
 uat.cms.pub.dev.kube.enervee.com
 uat.enervee-cms.dev.kube.enervee.com
 uat.enervee-enervee-portal.pub.dev.kube.enervee.com
+prometheus.prod.kube.enervee.com
+alertmanager.prod.kube.enervee.com
+grafana.prod.kube.enervee.com
+le-92.prod.kube.enervee.com
+nipsco-marketplace-prod.pub.prod.kube.enervee.com
+nipsco-marketplace-prod.root.prod.kube.enervee.com

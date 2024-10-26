@@ -157,3 +157,6 @@ files.max.weather.com
 slackbot.nonprod.mercury.weather.com
 mparticle.weather.com
 maxalertlive.stg.max.weather.com
+dmserver.qa.max.weather.com
+dmserver.qa-a.max.weather.com
+fs-api.dev.max.weather.com

@@ -818,3 +818,5 @@ chi-prod-collector.nr-data.net
 *.syslog.eu.nr-data.net
 *.aws-ap-southeast-2.tracing.edge.nr-data.net
 *.aws-us-east-2.tracing.edge.nr-data.net
+*.syslog.nr-data.net
+*.aws-eu-central-1.tracing.edge.eu.nr-data.net
