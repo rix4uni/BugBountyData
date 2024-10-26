@@ -2341,3 +2341,13 @@ pv-sentinel-processing.prod.planet-labs.com
 *.qe-99.ingress.qualityeng-01.prod.k8s.planet-labs.com
 *.qe-9.ingress.qualityeng-01.prod.k8s.planet-labs.com
 *.qe-44.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-30.ingress.qualityeng-01.prod.k8s.planet-labs.com
+*.qe-81.ingress.qualityeng-01.prod.k8s.planet-labs.com
+temporal-demox01.staging.planet-labs.com
+*.qe-5.ingress.qualityeng-01.prod.k8s.planet-labs.com
+fbea94bf31b104fb.pv-prod-01.k8s.planet-labs.com
+*.tile-orchestrator-externals-next.ingress.pv-prod-01.prod.k8s.planet-labs.com
+*.tile-orchestrator-externals-next.pw.pv-prod-01.prod.k8s.planet-labs.com
+681b94e159af01d1.pv-prod-01.k8s.planet-labs.com
+*.tile-orchestrator-externals-live.ingress.pv-prod-01.prod.k8s.planet-labs.com
+*.tile-orchestrator-externals-live.pw.pv-prod-01.prod.k8s.planet-labs.com

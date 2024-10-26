@@ -322,3 +322,5 @@ vmz-ad-cf.video.tidal.com
 discourse.tidal.com
 stage.openapi.tidal.com
 sms.tidal.com
+*.manifest.stage.tidal.com
+*.manifest.tidal.com

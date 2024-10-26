@@ -1604,3 +1604,6 @@ devops-sandbox-test.stage-us-east1.smbrm.avast.com
 evomde-gcp.ff.avast.com
 business-auth.test-europe-west3.smbrm.avast.com
 business-auth.test.smbrm.avast.com
+business-backup-device.prod-europe-west1.smbrm.avast.com
+business-backup-device-prod-prg5.svc.avast.com
+business-backup-prod-prg.ff.avast.com

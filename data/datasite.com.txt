@@ -174,3 +174,5 @@ mail-dev.datasite.com
 *.cdb.dev.datasite.com
 *.cdb.devops.datasite.com
 cdb.americas.datasite.com
+*.stage.datasite.com
+*.sso.stage.datasite.com

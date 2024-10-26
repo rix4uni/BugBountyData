@@ -367,3 +367,5 @@ backup-storage-01.torproject.org
 ci-runner-x86-03.torproject.org
 metricsdb-01.torproject.org
 onionbalance-01.torproject.org
+karma1.torproject.org
+karma.torproject.org

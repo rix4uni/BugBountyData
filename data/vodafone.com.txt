@@ -135,3 +135,9 @@ sandbox.vf-sbx.engineering.vodafone.com
 composer-preprod-drc-rt.nonprod.chatbot.aws.cps.vodafone.com
 composer-preprod-drc-ui.nonprod.chatbot.aws.cps.vodafone.com
 api-plt01.dataiku.vodafone.com
+composer-pp-kevoice-runtime.chatbot-nonprd.aws.cps.vodafone.com
+test-assurance-vbi-snow.prod.harlock.ucc.vodafone.com
+*.non-prod.uk-digital.engineering.vodafone.com
+composer-dev-de-runtime.chatbot-nonprd.aws.cps.vodafone.com
+composer-dev-de-ui.chatbot-nonprd.aws.cps.vodafone.com
+api.vodafone-gpt.prod.palladium.aws.de.vodafone.com

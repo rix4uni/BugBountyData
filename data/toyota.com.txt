@@ -76,3 +76,14 @@ cloud.mfgoc-sb-tbmnc.tdmp.toyota.com
 engage-dev-api.nonprod.engage.toyota.com
 ssbi-ddc-dev.toyota.com
 t3services.dev.webapp.toyota.com
+dev-aem-sdp-tcom.origin.cepo-proxy.tms.aws.toyota.com
+prd-aem-sdp-tcom.origin.cepo-proxy.tms.aws.toyota.com
+tst-aem-sdp-tcom.origin.cepo-proxy.tms.aws.toyota.com
+stg-aem-sdp-tcom.origin.cepo-proxy.tms.aws.toyota.com
+stg-sdp-tcom.cdn.cepo-proxy.tms.aws.toyota.com
+dev-sdp-tcom.cdn.cepo-proxy.tms.aws.toyota.com
+tst-sdp-tcom.cdn.cepo-proxy.tms.aws.toyota.com
+dev1-aem-sdp-tcom.origin.cepo-proxy.tms.aws.toyota.com
+tst1-sdp-tcom.cdn.cepo-proxy.tms.aws.toyota.com
+tst1-aem-sdp-tcom.origin.cepo-proxy.tms.aws.toyota.com
+dev1-sdp-tcom.cdn.cepo-proxy.tms.aws.toyota.com

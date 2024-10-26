@@ -43,3 +43,5 @@ elasticsearch.mediacaddyportal.com
 metrics.mediacaddyportal.com
 visual.mediacaddyportal.com
 reporting.mediacaddyportal.com
+superset.mediacaddyportal.com
+reports.mediacaddyportal.com

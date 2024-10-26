@@ -1,2 +1,6 @@
 msteams-dev.dub.deepl.com
 msteams-media-dev.dub.deepl.com
+app.dev.deepl.com
+*.app.dev.deepl.com
+app.deepl.com
+*.app.deepl.com

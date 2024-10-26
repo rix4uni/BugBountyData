@@ -470,3 +470,8 @@ g.infra-int3.vpc1452.in.gfk.com
 *.int.webtas.vpc1445.in.gfk.com
 *.int.webtas.in.gfk.com
 arfl.cname.routing.mmsys-dev.mm.gfk.com
+flower.dis-orchestrator.dev.datain.in.gfk.com
+g.science-production.vpc1788.in.gfk.com
+p.science-production.vpc1788.in.gfk.com
+console.stg.vpc1625.in.gfk.com
+dis-orchestrator.dev.datain.in.gfk.com

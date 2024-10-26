@@ -1999,3 +1999,8 @@ adm.gwaws.cloudinsights-qa.netapp.com
 *.gwaws.cloudinsights-qa.netapp.com
 ncv.asia-northeast1.gcp.netapp.com
 cvs-so-eu-n1-tst-vmdb.dev.gcp.netapp.com
+ncv.us-e4.autopush-tst.internal.npd.gnf.netapp.com
+ncv.as-se1.internal.gnf.netapp.com
+ncv.au-se1.internal.gnf.netapp.com
+ncv.europe-central2-vmdb.gcp.netapp.com
+ncv.eu-w4.internal.gnf.netapp.com

@@ -3,3 +3,5 @@ sl.beamery.com
 *.platform.beamery-platform.bc.internal.beamery.com
 amazon.canary.beamery.com
 *.amazon.canary.beamery.com
+canary.beamery.com
+*.canary.beamery.com

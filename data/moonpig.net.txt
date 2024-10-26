@@ -2,3 +2,7 @@
 *.api.authentication.uat.moonpig.net
 *.content.prod.moonpig.net
 *.webhook.content.prod.moonpig.net
+*.authentication.prod.moonpig.net
+*.api.authentication.prod.moonpig.net
+auth.prod.moonpig.net
+auth.uat.moonpig.net

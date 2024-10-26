@@ -22,3 +22,12 @@ a74af4-d9625e9b.k8s.us-east-04.coreweave.com
 c5167f-f6c433ac.k8s.us-east-04.coreweave.com
 ttpmm-teleport.na.int.coreweave.com
 5fd28d-144fa30c.k8s.us-east-04.coreweave.com
+*.tenant-novelai.knative.chi.coreweave.com
+*.tenant-gooseprod-1.knative.chi.coreweave.com
+*.tenant-goosedev-1.knative.chi.coreweave.com
+*.tenant-conjecture-product.knative.chi.coreweave.com
+monitor-us-east.ext.coreweave.com
+monitor-us-east.int.coreweave.com
+teleport.us-east-08a.int.coreweave.com
+*.teleport.us-east-08a.int.coreweave.com
+teleport-tss.us-east-08a.int.coreweave.com

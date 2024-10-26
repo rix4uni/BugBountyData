@@ -20125,3 +20125,8 @@ wholesale-app-es7.wholesale-app-production.es-apps-a-us-ea1-yi1.kibana.shopifycl
 theme-store-es6.shopify-theme-store-production.es-apps-a-us-ea1-yi1.kibana.shopifycloud.com
 elasticsearch.flow-production.es-apps-a-us-ea1-yi1.kibana.shopifycloud.com
 arrive-server.arrive-server-production.es-apps-a-us-ea1-yi1.kibana.shopifycloud.com
+khosrow-certloader.es-dblgt.shopifycloud.com
+khosrow-certloader.khosrow.es-staging-us-ea1-rd1.elasticsearch.shopifycloud.com
+khosrow-certloader.secure-elasticsearch.khosrow.shopifycloud.com
+arrive-server.arrive-server-production.es-apps-a-us-ea1-yi1.splainer.shopifycloud.com
+*.dns.minerva-staging.shopifycloud.com

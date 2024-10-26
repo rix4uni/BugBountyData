@@ -578,3 +578,5 @@ presentations.sprinklr.com
 *.prod-k8singress-intuition2.sprinklr.com
 *.prod-k8singress-intuition2-crossenv.sprinklr.com
 *.prod11-intuition.k8s-ingress-internal.sprinklr.com
+*.prod3-intuition-aks.k8s-ingress-internal.sprinklr.com
+*.prod-intuition2.k8s-ingress-internal.sprinklr.com

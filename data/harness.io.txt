@@ -709,3 +709,5 @@ tudormacari.pkg.pr2.harness.io
 abhinavh.pr2.harness.io
 shivanandsonnad.pkg2.pr2.harness.io
 *.harness.io
+*.prod2.harness.io
+testdev1.pr2.harness.io

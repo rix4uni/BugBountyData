@@ -5105,3 +5105,4 @@ app.fuze.com
 browser.fuze.com
 sound-api.fuze.com
 d.fuze.com
+*.slack-connector-stage.fuze.com

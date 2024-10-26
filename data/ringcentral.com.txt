@@ -109,3 +109,14 @@ prometheus-1.aws58.pro.engage.int.ringcentral.com
 prometheus.aws58.pro.engage.int.ringcentral.com
 prometheus-0.aws58.pro.engage.int.ringcentral.com
 platform-kv.aws91.lab.engage.int.ringcentral.com
+service-telus.ringcentral.com
+trivy.aws91.lab.engage.int.ringcentral.com
+*.aws46-ev-eks02.aws46.ops.engage.int.ringcentral.com
+exports.lab.digital.ringcentral.com
+service-atos.ringcentral.com
+login-atos.ringcentral.com
+dashboard.aws45.ops.engage.int.ringcentral.com
+ev-blackbox-exporter.aws58.pro.engage.int.ringcentral.com
+enterprise-service-atos.ringcentral.com
+enterprise-service-telus.ringcentral.com
+vault.pro.engage.int.ringcentral.com

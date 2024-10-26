@@ -2057,3 +2057,16 @@ backend.bankpr628.sample.ctpnp.optum.com
 publicpr257.pmnts.optum.com
 api.publicpr257.pmnts.optum.com
 backend.publicpr257.pmnts.optum.com
+qsp-onbasewebsrv-cloud-uat.optum.com
+webapp-dbscompare.optum.com
+incubation.optum.com
+qsp-cloud-uat.optum.com
+bdpaas-docs.optum.com
+ariba-accural.optum.com
+qsp-letters-cloud-uat.optum.com
+myaccess-dev.optum.com
+callsummary.optum.com
+*.hospicepharmacy.optum.com
+audt.optum.com
+cpa-incident-automation-uat-preprod.optum.com
+qsp-uda-cloud-uat.optum.com

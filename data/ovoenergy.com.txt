@@ -375,3 +375,5 @@ solar.ovoenergy.com
 *.homemoves-uat.ovoenergy.com
 signup.solar.ovoenergy.com
 *.pay.ovoenergy.com
+submit-export-readings.ovoenergy.com
+*.submit-export-readings.ovoenergy.com

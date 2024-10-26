@@ -2772,3 +2772,8 @@ mediamanager.theplatform.com
 preview.widevine.entitlement.aie-eks-1.eks.aie.theplatform.com
 fms.aort-eks-2.aort.theplatform.com
 fms.aort-eks-2.eks.aort.theplatform.com
+*.entertainment.tv.api.us.theplatform.com
+*.api.us.theplatform.com
+*.entitlement.api.us.theplatform.com
+*.delivery.api.us.theplatform.com
+*.media.api.us.theplatform.com

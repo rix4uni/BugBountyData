@@ -3,3 +3,4 @@
 render.com
 image-registry.internal.dev.render.com
 *.image-registry.internal.dev.render.com
+*.localhost.render.com

@@ -26,3 +26,7 @@ dev10.communitygaming.io
 admin.uat.communitygaming.io
 roninmainnetcaddy.communitygaming.io
 dev2.communitygaming.io
+hubspot.communitygaming.io
+*.prod.communitygaming.io
+prod.communitygaming.io
+*.communitygaming.io

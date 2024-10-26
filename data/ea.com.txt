@@ -55,3 +55,13 @@ s2s-e2e.dingo-amp-int-blue.dingo.ea.com
 admin-e2e.int.dingo.ea.com
 admin-e2e.dingo-amp-int-blue.dingo.ea.com
 reviewer.dev.gcp.ugc-cs.captech.ea.com
+*.tib-k8s.qe-sports.ea.com
+*.tib.qe-sports.ea.com
+ugc-pipeline-service.int.gcp.ugc.neotek.ea.com
+keycloak.int.cf.ts4.ea.com
+keycloak.ext.int.cf.ts4.ea.com
+console-e2e.int.dingo.ea.com
+console-e2e.dingo-amp-int-blue.dingo.ea.com
+services-dashboards.gs.ea.com
+ugc-notification-service.int.gcp.ugc.neotek.ea.com
+prometheus-nlbip.messagebus-eks-e2etest.np.gs.ea.com

@@ -8,3 +8,10 @@ ringring.integration.som-eu.digital.engie.com
 ringring.integration-dev.som-eu.digital.engie.com
 rgpdreferentiel.api.noprod.discover.engie.com
 export-bill-e.api.noprod.discover.engie.com
+stage.feedermarket.engie.com
+ppr-bo.feedermarket.engie.com
+stage-bo.feedermarket.engie.com
+ne-preprod-potential.feedermarket.engie.com
+backup-bo.feedermarket.engie.com
+ppr.feedermarket.engie.com
+ne-preprod-bo.feedermarket.engie.com

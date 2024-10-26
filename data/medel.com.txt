@@ -43,3 +43,5 @@ staging.sitefinity.ent.medel.com
 sws-euw1-plesk-01.web-tools.ent.medel.com
 sfc-test.ent.medel.com
 hearring.web-test.medel.com
+*.web-dev.medel.com
+*.web-test.medel.com

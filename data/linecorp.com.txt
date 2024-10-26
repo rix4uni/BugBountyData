@@ -1001,3 +1001,5 @@ hello.iu-k8s-dev.linecorp.com
 growthy.game.linecorp.com
 growthy-portal.game.linecorp.com
 *.laas.linecorp.com
+*.raas.flava-stage.linecorp.com
+*.app-runner.linecorp.com

@@ -148,3 +148,4 @@ hebe.matrix.org
 nyx.matrix.org
 conf.matrix.org
 sentry-int.matrix.org
+*.int-http.matrix.org

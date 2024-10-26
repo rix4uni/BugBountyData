@@ -30,3 +30,7 @@ ad.community.iserv.eu
 iserv.ad.community.iserv.eu
 grafana.iserv.eu
 *.grafana.iserv.eu
+telemetry.iserv.eu
+*.telemetry.iserv.eu
+ad.telemetry.iserv.eu
+iserv.ad.telemetry.iserv.eu

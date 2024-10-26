@@ -3479,3 +3479,6 @@ test.portaal-wonen.vlaanderen.be
 davinci-toepassing.onderwijs-stage.vlaanderen.be
 www.davinci-toepassing.onderwijs-stage.vlaanderen.be
 test.budgethuren.vlaanderen.be
+*.budgethuren.vlaanderen.be
+*.apex-kiara-aip.vlaanderen.be
+*.onderwijs-dev.vlaanderen.be

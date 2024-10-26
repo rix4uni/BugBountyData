@@ -3,3 +3,4 @@ support.selectra.io
 k8s-nginx-ingress.lb.infra.development.cf.selectra.io
 bidding-optimizer.app.staging.aws.selectra.io
 blanco.app.production.aws.selectra.io
+staging.mew.selectra.io

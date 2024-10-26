@@ -94,3 +94,11 @@ clp.bayer.com
 dev.601263618889.cloud.bayer.com
 dd-56027.pbeat03002010-prod-1e78-dd-def.on-gcloud.bayer.com
 dicom-store.pbeat04006578-dev-25d2-calanti.on-gcloud.bayer.com
+orthanc-qa.p4006578-qa-dfcf-calantic.on-gcloud.bayer.com
+steffen-dev.pbeat03002010-prod-8e80-img-re.on-gcloud.bayer.com
+self-service.api.dev.cdp.int.bayer.com
+self-service.api.us-east-1.dev.cdp.int.bayer.com
+self-service.api.eu-central-1.dev.cdp.int.bayer.com
+tt-0.pbeat03002010-prod-8e80-img-re.on-gcloud.bayer.com
+foundation.bayer.com
+identitynet.brandstory.bayer.com

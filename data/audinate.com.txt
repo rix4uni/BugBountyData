@@ -12,3 +12,4 @@ traefik.ops-node0.cbg.prod.onprem.ops-services.a.audinate.com
 traefik.ops-node0.sgp1.prod.do.ops-services.a.audinate.com
 tse.syd1.prod.do.iac.a.audinate.com
 *.audinate.com
+traefik.eng-node0.syd.stage.vultr.ops-services.a.audinate.com

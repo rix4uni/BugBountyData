@@ -2,3 +2,12 @@ www.hex.pm
 hex.pm
 builds.staging.hex.pm
 builds.hex.pm
+diff.staging.hex.pm
+billing.staging.hex.pm
+staging.hex.pm
+www.staging.hex.pm
+bob.hex.pm
+deploy.hex.pm
+billing.hex.pm
+preview.hex.pm
+preview.staging.hex.pm

@@ -10396,3 +10396,7 @@ vm-access.infra.us-ewr.ionos.com
 *.m-3e3enhb4jpq3l6lq.mongodb.de-fra.ionos.com
 ma-ramsjkcfcupskhcj.mariadb.de-fra.ionos.com
 ma-0n23hiietrm84pm3.mariadb.de-fra.ionos.com
+*.m-8808aqcf8ug1bk0k.mongodb.de-txl.ionos.com
+ma-3lfd7u3l7ssivudq.mariadb.de-fra.ionos.com
+*.m-gd9e118c8kfi3se0.mongodb.de-txl.ionos.com
+*.85dbe534ab19.monitoring.de-txl.ionos.com

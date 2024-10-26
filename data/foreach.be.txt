@@ -1,0 +1,4 @@
+elasticsearch.pre-test.camalion.foreach.be
+kibana.pre-test.camalion.foreach.be
+apm.pre-test.camalion.foreach.be
+pre-test.camalion.foreach.be

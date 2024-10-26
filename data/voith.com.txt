@@ -184,3 +184,5 @@ www.houston-zoo.voith.com
 authreverseproxy.k8s.aws.cloud.voith.com
 reporting.staging.eu.voith.com
 translate-staging.k8s.aws.cloud.voith.com
+iot-core-signals-shadow.industrial.eu.voith.com
+rule-ui-playground.staging.eu.voith.com

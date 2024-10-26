@@ -7,3 +7,5 @@ mivb2-micollabx.rnd.aws.mitel.io
 *.eu-central-1.eu.dev.api.mitel.io
 *.ap-southeast-2.ap.dev.api.mitel.io
 *.ap.dev.api.mitel.io
+us-east-1.us.dev.0.tcp.little-mole.mitel.io
+*.us.dev.api.mitel.io

@@ -69,3 +69,4 @@ appsmesh.prod.apps.aws.roku.com
 dclsvc.geo.staging.ap.int.roku.com
 dclsvc.staging.ap.int.roku.com
 dclsvc-r2.use1.staging.ap.int.roku.com
+artifactory-r53-health-check.tools.roku.com

@@ -4507,3 +4507,4 @@ tophat.canary.us-east-2.sandbox.indeed.net
 uip-micro-content-jp-provider.ap-northeast-1.sandbox.indeed.net
 ord-cob1.indeed.net
 api-edu-webapp.us-east-2.sandbox.indeed.net
+*.labeler.sandbox.indeed.net

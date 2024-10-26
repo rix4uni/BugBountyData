@@ -1,1 +1,4 @@
 echo.sandbox.trek10.com
+prod2.trek10.com
+*.prod2.trek10.com
+*.trek10.com

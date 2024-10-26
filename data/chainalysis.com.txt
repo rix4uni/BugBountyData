@@ -189,3 +189,5 @@ riesling-public-api.reactor-beta.e.chainalysis.com
 riesling-api.reactor-beta.e.chainalysis.com
 riesling-public-api.reactor-dev.e.chainalysis.com
 riesling-api.reactor-dev.e.chainalysis.com
+*.kyt-dev.e.chainalysis.com
+kyt-dev.e.chainalysis.com

@@ -3,3 +3,10 @@ pci-xp-mc-payments-data.rr.latamairlines.com
 pci-xp-api-notification.st.latamairlines.com
 pci-xp-api-callback.rr.latamairlines.com
 pci-xp-mc-ancillary-fulfillment.st.latamairlines.com
+pci-xp-mc-refund-options.st.latamairlines.com
+pci-xp-mc-token-store.st.latamairlines.com
+pci-xp-api-ndc-payments.st.latamairlines.com
+pci-xp-api-anti-fraud-platform.st.latamairlines.com
+pci-xp-mc-ifg-cancellation.st.latamairlines.com
+pci-xp-api-callback.st.latamairlines.com
+pci-xp-mc-order-payment.st.latamairlines.com

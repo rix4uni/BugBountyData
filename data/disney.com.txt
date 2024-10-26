@@ -44514,3 +44514,12 @@ shadow.peos-wdw.wdprapps.disney.com
 shadow.package-offer-svc.dlr.wdprapps.disney.com
 coreiwms-scenario.wdw.disney.com
 development-qdrant.gpt.disney.com
+shadow.accommodation-adapter-dlr.wdprapps.disney.com
+shadow.accommodation-package-order-svc-dlr.wdprapps.disney.com
+shadow.reservation-adapter-dlr.wdprapps.disney.com
+shadow.reservation-properties-adapter-dlr.wdprapps.disney.com
+shadow.offer-adapter-dlr.wdprapps.disney.com
+shadow.packageaddon-svc.dlr.wdprapps.disney.com
+shadow.ground-transfer-svc.dlr.wdprapps.disney.com
+shadow.vehicle-rental-svc.dlr.wdprapps.disney.com
+shadow.insurance-svc.dlr.wdprapps.disney.com

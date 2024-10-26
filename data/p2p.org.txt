@@ -27,3 +27,7 @@ rosetta.kyve-mainnet.tm.p2p.org
 stride-mainnet-1-full-grpc.tm.p2p.org
 stride-mainnet-1-full.tm.p2p.org
 api.kyve-mainnet.tm.p2p.org
+rpc.kyve-mainnet.tm.p2p.org
+api.testnet.berachain.tm.p2p.org
+testnet.berachain.tm.p2p.org
+grpc-web.kyve-mainnet.tm.p2p.org

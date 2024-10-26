@@ -45,3 +45,11 @@ test.blepw.net
 metrics.blepw.net
 superset-staging.blepw.net
 reports.blepw.net
+airflow-stg.blepw.net
+live.blepw.net
+bigdata.blepw.net
+prod.superset.blepw.net
+www.airflow-dev.blepw.net
+analyze.blepw.net
+production-superset.blepw.net
+forecast.blepw.net

@@ -1,2 +1,6 @@
 myidm.ite.mypepsico.com
 www.myidm.ite.mypepsico.com
+myidm.qa.mypepsico.com
+www.myidm.qa.mypepsico.com
+*.qa.mypepsico.com
+qa.mypepsico.com

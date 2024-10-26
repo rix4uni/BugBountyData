@@ -2247,3 +2247,5 @@ portal-ath-fix-ath-p4pbon45qjheg.weu.stg.fb.csg.daimlertruck.com
 test.i.tcas.daimlertruck.com
 gevt-dev.weu.treasure.daimlertruck.com
 gevt-prod.weu.treasure.daimlertruck.com
+*.jpe.prd-jp.platform.private.csg.daimlertruck.com
+*.jpe.prd-jp.platform.csg.daimlertruck.com

@@ -24,3 +24,8 @@ vcf-stg.broadcom.com
 *.broadcom.com
 f88fe591-8497-4d92-9d8e-fae51dbec273.ds.dlp.protect.broadcom.com
 f88fe591-8497.ds.dlp.protect.broadcom.com
+apprisk.cloudsoc.broadcom.com
+*.apprisk.cloudsoc.broadcom.com
+webrisk.cloudsoc.broadcom.com
+*.webrisk.cloudsoc.broadcom.com
+servicedesk-dev.broadcom.com

@@ -1629,3 +1629,13 @@ val-147553-celp-ingestion.euwe1.ingestion-dev.odyssey.zf.com
 units-simulator.app.eu1.dev.scalar.zf.com
 mf-react-zf-knowledge-portal-server.eu1.dev.scalar.zf.com
 val-147597-user-avatar.euwe1.core-dev.odyssey.zf.com
+sensor-configuration.eu1.dev.scalar.zf.com
+service-diagnostics-dds.eu1.dev.scalar.zf.com
+user-management.api.eu1.dev.scalar.zf.com
+mf-react-integrators.eu1.stg.scalar.zf.com
+*.eu1.stg.scalar.zf.com
+user-management.api.eu1.stg.scalar.zf.com
+sums-service.eu1.dev.scalar.zf.com
+mf-react-integrators.ap1.stg.scalar.zf.com
+*.ap1.stg.scalar.zf.com
+people-mobility.app.eu1.dev.scalar.zf.com

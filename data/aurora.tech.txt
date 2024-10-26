@@ -1412,3 +1412,9 @@ mercury-use1-az1.mercury.production.aws-use1-batch-prod05.batch.cloud.aurora.tec
 mercury-use1-az1.mercury.production.aws-use1-batch-prod03.swe.cloud.aurora.tech
 edd4404112950ee1.aws-use1-batch-prod06.batch.cloud.aurora.tech
 mercury-use1-az2.mercury.production.aws-use1-batch-prod06.batch.cloud.aurora.tech
+0d422ff5612ff17f.common.cloud.aurora.tech
+workspace-framework.workspace-framework.dev2.common.cloud.aurora.tech
+bf2a52827e6a2cc6.common.cloud.aurora.tech
+map-explorer-api-dev.map-explorer.development.common.cloud.aurora.tech
+3e6a116adb944b23.use1-offboard-prod01.ob.cloud.aurora.tech
+config-service.vehicle-deployment.production.use1-offboard-prod01.ob.cloud.aurora.tech

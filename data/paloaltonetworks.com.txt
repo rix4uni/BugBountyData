@@ -549,3 +549,5 @@ elasticsearch-prod-us.adv-saas-vis.paloaltonetworks.com
 ingestion-prod-us.adv-saas-vis.paloaltonetworks.com
 kibana-prod-us.adv-saas-vis.paloaltonetworks.com
 pgadmin-prod-us.adv-saas-vis.paloaltonetworks.com
+sase.fedqa.appsvc.paloaltonetworks.com
+stratacloudmanager.fedqa.appsvc.paloaltonetworks.com

@@ -3,3 +3,6 @@ payments.noticeable.io
 production.pipeline.noticeable.io
 phrases.noticeable.io
 letters.noticeable.io
+staging.pipeline.noticeable.io
+dashboard.noticeable.io
+preview.widgets.noticeable.io

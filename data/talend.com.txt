@@ -623,3 +623,5 @@ vault-external.au.cloud.talend.com
 *.vault.ap.cloud.talend.com
 *.vault.us.cloud.talend.com
 *.vault-external.us.cloud.talend.com
+*.admin.datacatalog.int.cloud.talend.com
+*.admin.datacatalog.at.cloud.talend.com

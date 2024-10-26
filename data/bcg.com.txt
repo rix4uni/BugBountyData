@@ -1836,3 +1836,13 @@ case-xtest-7810-coreapi.non-prd.q.bcg.com
 case-xtest-7810.non-prd.q.bcg.com
 case-xtest-7810-streamer.non-prd.q.bcg.com
 keycloak.ptx.x.bcg.com
+swpdemo.bcg.com
+case-15895-96-streamer.prodigy.bcg.com
+case-10001029-frontend.prodigy.bcg.com
+case-10001029-backend.prodigy.bcg.com
+case-10001029-streamer.prodigy.bcg.com
+case-10001029-ingestion.prodigy.bcg.com
+case-155663-36-backend.prodigy.bcg.com
+case-155663-36-streamer.prodigy.bcg.com
+case-155663-36-ingestion.prodigy.bcg.com
+case-155663-36-frontend.prodigy.bcg.com

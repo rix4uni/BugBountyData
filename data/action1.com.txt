@@ -1,0 +1,12 @@
+remote.pd3.action1.com
+*.remote.pd3.action1.com
+backend.pd3.action1.com
+*.backend.pd3.action1.com
+remote.pd1.action1.com
+*.remote.pd1.action1.com
+backend.pd1.action1.com
+*.backend.pd1.action1.com
+app.pd1.action1.com
+*.app.pd1.action1.com
+app.pd3.action1.com
+*.app.pd3.action1.com

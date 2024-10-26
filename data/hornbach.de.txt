@@ -1,1 +1,6 @@
 glue.stage.hornbach.de
+media.int.hornbach.de
+media.prd.hornbach.de
+dev.cloud.gcp.hornbach.de
+*.dev.cloud.gcp.hornbach.de
+int-cdn.hornbach.de

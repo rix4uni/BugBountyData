@@ -4162,3 +4162,5 @@ documents.fq5.teleport.floqast.engineering
 dev1.teleport.fq6.floqast.engineering
 external.fq4.floqast.engineering
 auth.automation.teleport.floqast.engineering
+*.floqast.engineering
+*.fq6.floqast.engineering

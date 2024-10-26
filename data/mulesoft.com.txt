@@ -890,3 +890,5 @@ object-store-direct-us-east-1.anypoint.mulesoft.com
 object-store-direct-ca-central-1.stgx.anypoint.mulesoft.com
 object-store-direct-sa-east-1.stgx.anypoint.mulesoft.com
 api.mulesoft.com
+*.w8jsmqal.rpa.qax.mulesoft.com
+*.composer.mulesoft.com

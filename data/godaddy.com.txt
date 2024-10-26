@@ -2105,3 +2105,10 @@ origin-salesproducts.api.godaddy.com
 origin-linux-a2.salesproducts.api.godaddy.com
 origin-linux-p3.salesproducts.api.godaddy.com
 www.origin-salesproducts.api.godaddy.com
+wpayconnector.client.int.godaddy.com
+www.wpayconnector.client.int.godaddy.com
+www.wscomposer.int.godaddy.com
+enterprise-batch-platform.api.int.godaddy.com
+www.enterprise-batch-platform.api.int.godaddy.com
+*.consent.api.int.godaddy.com
+consent.api.int.godaddy.com

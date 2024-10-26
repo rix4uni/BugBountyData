@@ -3044,3 +3044,6 @@ jp.lenovo.com
 staging-marketplace-templates.cp.lenovo.com
 aidashboard.lenovo.com
 pic.shop.lenovo.com
+*.tc.lenovo.com
+*.artifactory.tc.lenovo.com
+*.lenovo.com

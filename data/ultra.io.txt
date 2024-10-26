@@ -13,3 +13,4 @@ qa.app.ultra.io
 *.qa.app.ultra.io
 staging.ultra.io
 *.staging.ultra.io
+dev.img.ultra.io

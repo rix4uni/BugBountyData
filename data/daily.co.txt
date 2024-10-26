@@ -310,3 +310,4 @@ blog.staging.daily.co
 bots.staging.daily.co
 *.ap-southeast-2.wss.daily.co
 *.af-south-1.wss.daily.co
+*.ap-northeast-2.wss.daily.co

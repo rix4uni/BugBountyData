@@ -856,3 +856,9 @@ ecobee-mobile-dev.auth0.com
 *.wt.cnhind-dev.auth0.com
 local-a-lanacion.us.auth0.com
 local-b-lanacion.us.auth0.com
+*.aa2-dev.auth0.com
+*.edge.aa2-dev.auth0.com
+*.edge.tenants.aa2-dev.auth0.com
+*.wt.aa2-dev.auth0.com
+dev-65itizgxvbm27qz3.jp.auth0.com
+dev-id7482cz2qhjkq1x.us.auth0.com

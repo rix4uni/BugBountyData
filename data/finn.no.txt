@@ -796,3 +796,5 @@ data-platform-integrations.pg.dev.finn.no
 data-platform-integrations-repl.pg.dev.finn.no
 fleet-network.apply.ctrl.finn.no
 pipeline-events.pg.toripg.rc.nmp.finn.no
+recommerce-statistics.pg.dev.finn.no
+recommerce-statistics-repl.pg.dev.finn.no

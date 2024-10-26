@@ -27,3 +27,8 @@ svenska.proxy.ipools.dev.gcp.veikkaus.fi
 vadmin.vt191.vmoottori.dev.gcp.veikkaus.fi
 nkp-cloud-vt25.vmoottori.dev.gcp.veikkaus.fi
 yggdrasil-m2m.gameproxy.stg.gcp.veikkaus.fi
+tahdenlento-cloud-vt07.vmoottori.stg.gcp.veikkaus.fi
+evolution-gaming.gameproxy.prod.gcp.veikkaus.fi
+int.infra.cap.dev.gcp.veikkaus.fi
+*.int.infra.cap.dev.gcp.veikkaus.fi
+netent-m2m.gameproxy.dev.gcp.veikkaus.fi

@@ -65,3 +65,9 @@ interfaceproducts-services-sql.syndev.dnv.com
 interfaceproducts-web-sql.syndev.dnv.com
 interfaceproducts-scheduler-sql.syndev.dnv.com
 interfaceproducts-slas.syndev.dnv.com
+gssit-svc.dnv.com
+*.gssit-svc.dnv.com
+www.dnv.com
+*.www.dnv.com
+africa.dnv.com
+*.africa.dnv.com

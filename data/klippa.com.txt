@@ -197,3 +197,5 @@ zeiss2.prodigy.hub.klippa.com
 prodigy.hub.klippa.com
 odoo-10.test-applications.klippa.com
 auth.test.lidl.delivery-portal.klippa.com
+argocd.k8s.klippa.com
+grafana.aks-de-west-test.k8s.klippa.com

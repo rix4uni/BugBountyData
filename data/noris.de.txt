@@ -263,3 +263,7 @@ api.tef-svc-prod-arsmedium4.noris.de
 *.apps.gfd-prod-scoop.noris.de
 *.apps.qs4-klartax-datev.noris.de
 *.apps.prod4-klartax-datev.noris.de
+api.qsu-paas-pop.noris.de
+*.apps.testmcs-pop.noris.de
+apps.qsu-paas-pop.noris.de
+*.apps.qsu-paas-pop.noris.de

@@ -8981,3 +8981,4 @@ _xmpp-server._tcp.olx.pl
 news.olx.pl
 _dmarc.olx.pl
 default._domainkey.olx.pl
+*.employer.olx.pl

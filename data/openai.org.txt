@@ -6054,3 +6054,7 @@ prod-engine-aks-westus-api-c140.internal.api.openai.org
 *.int.habanero.dev.openai.org
 *.beam.int.habanero.dev.openai.org
 *.hubble-ui.int.habanero.dev.openai.org
+pa-service-shadow.unified-0s.internal.api.openai.org
+*.prod-engine-aks-southcentralus-api-c13a.internal.api.openai.org
+*.ramhaba-svc-0-ram.int.habanero.dev.openai.org
+*.prod-engine-aks-eastus2-api-c21.internal.api.openai.org

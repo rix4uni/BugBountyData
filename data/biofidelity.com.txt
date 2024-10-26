@@ -40,3 +40,4 @@ dev.infra.biofidelity.com
 test.infra.biofidelity.com
 *.dev.infra.biofidelity.com
 *.analysis.biofidelity.com
+*.corp.biofidelity.com

@@ -146,3 +146,8 @@ mobile.1e.com
 insfbav.1e.com
 help.1e.com
 status.1e.com
+stg.preprod.1e.com
+*.background.stg.preprod.1e.com
+*.client.stg.preprod.1e.com
+*.stg.preprod.1e.com
+*.switch.stg.preprod.1e.com

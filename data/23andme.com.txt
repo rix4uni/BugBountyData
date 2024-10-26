@@ -109,3 +109,4 @@ staging.23andme.com
 mg-system.23andme.com
 api.23andme.com
 mta3.mail.23andme.com
+*.discover.23andme.com
