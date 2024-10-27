@@ -47,3 +47,17 @@ fr.mvp.mapmyrun.com
 walkingguide.mapmyrun.com
 de.mapmyrun.com
 meetshriram.mapmyrun.com
+*.mapmyrun.com.admin-mcas.ms
+*.mapmyrun.com.mcas-df.ms
+*.mapmyrun.com.admin-mcas-df.ms
+*.mapmyrun.com.mcas.ms
+*.mapmyrun.com.admin-us.cas.ms
+*.mapmyrun.com.us2.cas.ms
+*.mapmyrun.com.us.cas.ms
+*.mapmyrun.com.us3.cas.ms
+*.mapmyrun.com.admin-us2.cas.ms
+*.mapmyrun.com.eu2.cas.ms
+*.mapmyrun.com.admin-us3.cas.ms
+*.mapmyrun.com.eu.cas.ms
+*.mapmyrun.com.admin-eu.cas.ms
+*.mapmyrun.com.admin-eu2.cas.ms

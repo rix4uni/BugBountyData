@@ -53,3 +53,7 @@ map.dyn.uucp.hu
 imap.dyn.uucp.hu
 ip6.alpha.uucp.hu
 kereso.dyn.uucp.hu
+*.user.dyn.uucp.hu
+*.user.uucp.hu
+uucp.hu
+*.uucp.hu

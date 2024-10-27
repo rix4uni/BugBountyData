@@ -15,3 +15,7 @@ office.riveon.cloud
 auth.riveon.cloud
 auth.test.riveon.cloud
 status.riveon.cloud
+*.riveon.cloud
+*.driveon.cloud
+driveon.cloud
+www.driveon.cloud

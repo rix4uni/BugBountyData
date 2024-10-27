@@ -1555,3 +1555,4 @@ prometheus.k8s-corp-usc1.c.gcp.oanda.com
 sitegateway-demo.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin-demo.k8s-prod-use4.p.gcp.oanda.com
 hub-api.k8s-stg-usc1.s.gcp.oanda.com
+demo-kafka01.vm.p.gcp.oanda.com

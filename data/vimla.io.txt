@@ -59,3 +59,5 @@ web.ep.vimla.io
 www.rds.vimla.io
 bestall-api.vimla.io
 stage-vimla-se.vimla.io
+*.filter-user.api.vimla.io
+*.filter-user.api.qa.vimla.io

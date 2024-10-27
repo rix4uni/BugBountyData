@@ -385,3 +385,17 @@ acc-onderhoud.fbto.nl
 awverify.acc-mijnzorg.fbto.nl
 awverify.acc-blauwdruk.fbto.nl
 awverify.tst-www.fbto.nl
+*.fbto.nl.admin-mcas-df.ms
+*.fbto.nl.mcas-df.ms
+*.fbto.nl.mcas.ms
+*.fbto.nl.admin-mcas.ms
+*.fbto.nl.admin-us2.cas.ms
+*.fbto.nl.admin-us.cas.ms
+*.fbto.nl.eu.cas.ms
+*.fbto.nl.us2.cas.ms
+*.fbto.nl.us3.cas.ms
+*.fbto.nl.eu2.cas.ms
+*.fbto.nl.admin-eu.cas.ms
+*.fbto.nl.admin-eu2.cas.ms
+*.fbto.nl.us.cas.ms
+*.fbto.nl.admin-us3.cas.ms

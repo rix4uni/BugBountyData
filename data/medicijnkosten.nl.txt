@@ -11,3 +11,7 @@ www-p.medicijnkosten.nl
 cms-dev.medicijnkosten.nl
 andwww.medicijnkosten.nl
 cms-tst.medicijnkosten.nl
+*.medicijnkosten.nl.mcas-df.ms
+*.medicijnkosten.nl.admin-mcas.ms
+*.medicijnkosten.nl.mcas.ms
+*.medicijnkosten.nl.admin-mcas-df.ms

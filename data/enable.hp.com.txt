@@ -2,3 +2,15 @@ www.enable.hp.com
 images.enable.hp.com
 enable.hp.com
 app.enable.hp.com
+*.enable.hp.com.mcas.ms
+*.enable.hp.com.eu.cas.ms
+*.enable.hp.com.admin-us2.cas.ms
+*.enable.hp.com.admin-eu.cas.ms
+*.enable.hp.com.admin-us.cas.ms
+*.enable.hp.com.us2.cas.ms
+*.enable.hp.com.admin-us3.cas.ms
+*.enable.hp.com.admin-mcas.ms
+*.enable.hp.com.admin-eu2.cas.ms
+*.enable.hp.com.eu2.cas.ms
+*.enable.hp.com.us3.cas.ms
+*.enable.hp.com.us.cas.ms
