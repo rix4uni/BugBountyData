@@ -1214,3 +1214,10 @@ api-gateway-a.adobe.io
 aam.adobe.io
 cc-collab-ue1.adobe.io
 cc-api-sharedproductions-stage.adobe.io
+*.io-runtime.adp.adobe.io
+*.io-runtime.corp.adp.adobe.io
+*.io-runtime.int.adp.adobe.io
+io-runtime.adp.adobe.io
+io-runtime.corp.adp.adobe.io
+io-runtime.int.adp.adobe.io
+io-runtime.prd.adp.adobe.io

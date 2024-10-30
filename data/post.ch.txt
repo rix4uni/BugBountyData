@@ -3067,3 +3067,5 @@ as2-is-dev.post.ch
 rfidmon-temp.post.ch
 *.wsint.post.ch
 wsint.post.ch
+inventory.post.ch
+inventory-int.post.ch

@@ -7630,3 +7630,6 @@ support.automation.telekom.net
 dtag-tls-010132lb01.telekom.net
 dtag-tls-010901lb01.telekom.net
 hss-analytics.test.hotspot.telekom.net
+ctpstest.pix.telekom.net
+dtbss-ips-papi-uat.targetbss.telekom.net
+dtbss-tomi-papi-uat.targetbss.telekom.net

@@ -1556,3 +1556,4 @@ sitegateway-demo.k8s-prod-use4.p.gcp.oanda.com
 sitegateway-admin-demo.k8s-prod-use4.p.gcp.oanda.com
 hub-api.k8s-stg-usc1.s.gcp.oanda.com
 demo-kafka01.vm.p.gcp.oanda.com
+pic-mt-otms-mobile-gateway.k8s-uat-euw3.u.gcp.oanda.com

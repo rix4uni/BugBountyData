@@ -5845,3 +5845,7 @@ api.oauth-service.identity-gcp-s-compute.gcp.yahoo.cloud
 pr-mc.identity-gcp-s-compute.gcp.yahoo.cloud
 use1.finance-aws-devs.aws.yahoo.cloud
 dsp-plus-backend-prod-private.aws.yahoo.cloud
+*.api.asc.identity-gcp-p-compute.gcp.yahoo.cloud
+*.devpro-nonprod1-use1.omega.aws.yahoo.cloud
+api.asc.identity-gcp-p-compute.gcp.yahoo.cloud
+devpro-nonprod1-use1.omega.aws.yahoo.cloud

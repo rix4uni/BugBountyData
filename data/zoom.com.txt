@@ -7033,3 +7033,6 @@ realtime.docs.git.ops.sc.corp.zoom.com
 gozva2.ops.corp.zoom.com
 k8s-manager-eng-console.corp.zoom.com
 mbnqms.cpl.corp.zoom.com
+global-zcp-eng-private-mongod-vm-1.corp.zoom.com
+global-zcp-eng-private-mongod-vm-2.corp.zoom.com
+global-zcp-eng-private-mongod-vm-3.corp.zoom.com

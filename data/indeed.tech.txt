@@ -22944,3 +22944,9 @@ arr-language-tool-prod.awscmhinfra3.k8s.indeed.tech
 curity-runtime-public-deprecated.indeed.tech
 jobsearchservice-test-global-4b.awscmhstage2.k8s.indeed.tech
 jobsearchservice-test-global-5b.awscmhstage2.k8s.indeed.tech
+e21eb3ea66498638cd73f0e7dc9e8d11.loom-inference.awscmh5.k8s.indeed.tech
+e2bbf3a5ddf7be25d995d8552787512e.loom-inference.awscmh6.k8s.indeed.tech
+jobsearchservice-test-us-10a.awscmhstage2.k8s.indeed.tech
+jobsearchservice-test-us-7b.awscmhstage2.k8s.indeed.tech
+kubecost-migration.indeed.tech
+main-performance-test-cpu-582.awscmhqa4.k8s.indeed.tech

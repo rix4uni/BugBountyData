@@ -5249,3 +5249,8 @@ trino-dw-scraper.ts-tools.staging.corp.mongodb.com
 trino-jwt-gateway.dataplatform.staging.corp.mongodb.com
 gen-scraper-sf-scraper.ts-tools.staging.corp.mongodb.com
 edu.corp.mongodb.com
+chef-migration-test.cloud-dev.mongodb.com
+evergreen-61a3d3bcf29b988eeef426a2.devprod-evergreen.staging.corp.mongodb.com
+pv-pd-sync-s.ts-apac.staging.corp.mongodb.com
+spa-example.sa.staging.corp.mongodb.com
+web-app-example.sa.staging.corp.mongodb.com

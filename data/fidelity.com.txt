@@ -18275,3 +18275,14 @@ sso-nonprod.1.aps.aw014.c.fidelity.com
 sso-nonprod.aps.aw014.c.fidelity.com
 router-service-api-pr74.aw143.c.fidelity.com
 investor-profile-internal-api-pr74.aw143.c.fidelity.com
+api.int.flywheel-web.aw143.c.fidelity.com
+api.pr2610.flywheel-web.aw143.c.fidelity.com
+api.pr2611.flywheel-web.aw143.c.fidelity.com
+email-service-authenticated-pr6.aw143.c.fidelity.com
+enotify.1.aps.aw015.c.fidelity.com
+enotify.aps.aw015.c.fidelity.com
+investor-profile-internal-api-temp-pr6.aw143.c.fidelity.com
+investor-profile-internal-api-temp-prod.aw061.c.fidelity.com
+prod.flywheel-web.aw061.c.fidelity.com
+router-service-api-temp-pr6.aw143.c.fidelity.com
+router-service-api-temp-prod.aw061.c.fidelity.com

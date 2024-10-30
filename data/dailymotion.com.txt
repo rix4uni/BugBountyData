@@ -7719,3 +7719,13 @@ internaltools-keycloak-143.ci.dailymotion.com
 internaltools-legacy-283.ci.dailymotion.com
 internaltools-legacy-284.ci.dailymotion.com
 vc-batch-redis-2024102501.data.dailymotion.com
+devexp-fake-python-service-316.ci.dailymotion.com
+internaltools-assistant-71.ci.dailymotion.com
+internaltools-assistant-75.ci.dailymotion.com
+internaltools-assistant-76.ci.dailymotion.com
+internaltools-blocklist-ui-132.ci.dailymotion.com
+internaltools-gateway-97.ci.dailymotion.com
+internaltools-graphql-859.ci.dailymotion.com
+internaltools-moderation-620.ci.dailymotion.com
+vc-batch-redis-2024102601.stg.data.dailymotion.com
+vc-batch-redis-2024102701.data.dailymotion.com

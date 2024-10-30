@@ -693,3 +693,4 @@ otlp.eu.prod.inference.ai.algolia.com
 *.us.prod.inference.ai.algolia.com
 *.eu.prod.inference.ai.algolia.com
 *.cdn.eu.prod.inference.ai.algolia.com
+experiences-beta.algolia.com

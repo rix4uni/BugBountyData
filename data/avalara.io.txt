@@ -2324,3 +2324,5 @@ haplo-platform1013.mr.impendulo.avalara.io
 zeta.dev.eu-central-1.aws.avalara.io
 cap02.prd.us-east-1.aws.avalara.io
 eta.sbx.us-east-1.aws.avalara.io
+*.raas-prd.mylodgetax.raas.avalara.io
+raas-prd.mylodgetax.raas.avalara.io

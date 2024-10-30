@@ -5743,3 +5743,8 @@ rover-prd.security-prd.zynga.com
 *.mercury.zynga.com
 dev.sharedgames.k8s.zynga.com
 *.dev.sharedgames.k8s.zynga.com
+*.dev.csr3.k8s.zynga.com
+*.dev.devsecops.k8s.zynga.com
+*.dlakin.k8s.zynga.com
+*.prd.hunters.k8s.zynga.com
+*.stg.sharedservices.k8s.zynga.com

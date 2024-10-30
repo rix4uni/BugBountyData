@@ -6089,3 +6089,8 @@ open-ops.preprod.adscloud.huawei.com
 open-ops.sbeta1.adscloud.huawei.com
 open-ops.sbeta2.adscloud.huawei.com
 cdp1.test.huawei.com
+*.wecare.his.huawei.com
+api.preprod.mobileapp.adscloud.huawei.com
+api.sbeta3.mobileapp.adscloud.huawei.com
+valet-parking.adscloud.huawei.com
+valet-parking.preprod.adscloud.huawei.com

@@ -146,3 +146,4 @@ aws-prod-ap-seast-2-farm-01-api.tectonic.wpesvc.net
 api3.wpesvc.net
 farm-ingress-api-staging.wpesvc.net
 helm-repo-staging.wpesvc.net
+edge-api-staging.wpesvc.net

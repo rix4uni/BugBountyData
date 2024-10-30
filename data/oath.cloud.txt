@@ -29679,3 +29679,10 @@ single-origin-cdn.taiwan-testapp-nonprod.aws.oath.cloud
 *.ec443c48.g.cd.vespa.oath.cloud
 *.ec443c48.z.cd.vespa.oath.cloud
 test-cdn.taiwan-testapp-nonprod.aws.oath.cloud
+*.c988e21d.a.cd.vespa.oath.cloud
+*.c988e21d.g.cd.vespa.oath.cloud
+*.c988e21d.z.cd.vespa.oath.cloud
+*.dd940bc4.a.cd.vespa.oath.cloud
+*.dd940bc4.g.cd.vespa.oath.cloud
+*.dd940bc4.z.cd.vespa.oath.cloud
+test.abuec-aws-storage-dev.aws.oath.cloud

@@ -15095,3 +15095,7 @@ grpc-prod-apac.connect.checkpoint.com
 www.api-client-cloudia.portal.checkpoint.com
 washin-d7d8cd77-hap11.epmgmt.checkpoint.com
 www.api-client-cloudia.us.portal.checkpoint.com
+*.677276113025.dev.cgn.kube1.iaas.checkpoint.com
+*.internal.677276113025.dev.cgn.kube1.iaas.checkpoint.com
+cloudguard-waf.i2.checkpoint.com
+cpstock.checkpoint.com

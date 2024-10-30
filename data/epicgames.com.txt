@@ -7271,3 +7271,6 @@ e3s-sony-mock.affc.dev.use1a.on.epicgames.com
 external-logs-collector.fbfb.live.use1a.on.epicgames.com
 *.fab.cceb.dev.use1a.on.epicgames.com
 *.fab.ci.cceb.dev.use1a.on.epicgames.com
+anti-cheat.on.epicgames.com
+canary.anti-cheat.on.epicgames.com
+status.artpipe.epicgames.com
