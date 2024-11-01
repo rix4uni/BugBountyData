@@ -3130,7 +3130,6 @@ business.mobile.rakuten.co.jp
 stg-m.netsuper.rakuten.co.jp
 social-gift.marketplace.rakuten.co.jp
 android-api.app.rakuten.co.jp
-rakuten.co.jp
 ios-api.app.rakuten.co.jp
 console.openstack.cloud.rakuten.co.jp
 spf02.rakuten.co.jp
@@ -6353,3 +6352,5 @@ ns03d.rakuten.co.jp
 mx14d.rakuten.co.jp
 gs.rakuten.co.jp
 *.vissel-kobe.rakuten.co.jp
+screen-assistant.ai.rakuten.co.jp
+*.readee.rakuten.co.jp

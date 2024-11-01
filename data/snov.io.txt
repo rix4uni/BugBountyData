@@ -1,2 +1,6 @@
 preprod.snov.io
 de-1.https-proxy.snov.io
+lead-generation-stage-phpmyadmin.snov.io
+hubspot-stage-rabbitmq.snov.io
+task-stage-rabbitmq.snov.io
+task-stage-phpmyadmin.snov.io

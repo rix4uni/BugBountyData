@@ -1094,7 +1094,6 @@ dh-opensearch.info.dev.ecosia.org
 em-nuxt-build-fix.index.dev.ecosia.org
 em-storybook.www.eu-central-1.dev.ecosia.org
 va-fix-language-redirect.index.dev.ecosia.org
-ecosia.org
 ar-add-discarded-notifications.index.eu-central-1.dev.ecosia.org
 jg-cluster-ips.api.eu-central-1.dev.ecosia.org
 revert-2362-em-housekeeping.search.dev.ecosia.org

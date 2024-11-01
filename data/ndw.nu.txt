@@ -87,7 +87,6 @@ diego.ndw.nu
 www.ndw.nu
 havik.ndw.nu
 security.ndw.nu
-ndw.nu
 data-streamer.ndw.nu
 geojson-converter.ndw.nu
 datafusion.ndw.nu
@@ -100,8 +99,6 @@ sentry.ndw.nu
 design.ndw.nu
 *.internal.ndw.nu
 *.ndw.nu
-www.mail.servicedeskndw.nu
-mail.servicedeskndw.nu
 data.staging.ndw.nu
 melvin-acc.staging.ndw.nu
 dexter.staging.ndw.nu

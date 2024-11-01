@@ -21,7 +21,6 @@ werkenbij.vicompany.nl
 prtg.vicompany.nl
 odl.vicompany.nl
 mailings.vicompany.nl
-vicompany.nl
 statuspage.vicompany.nl
 work.vicompany.nl
 6years.vicompany.nl
@@ -36,3 +35,6 @@ bxswissch.acceptance.vicompany.nl
 wip.vicompany.nl
 christmas.vicompany.nl
 ingmarketsde-insights.acceptance.vicompany.nl
+*.vicompany.nl
+*.acceptance.vicompany.nl
+www.confluence.vicompany.nl

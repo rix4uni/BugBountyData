@@ -4,7 +4,6 @@ vrbzo.bctcloud.eu
 corsa1.bctcloud.eu
 hostmaster.bctcloud.eu
 bct-p81.bctcloud.eu
-bctcloud.eu
 bct-p34.bctcloud.eu
 bct-p11.bctcloud.eu
 bct-p39.bctcloud.eu
@@ -137,3 +136,10 @@ bct-waf-gw01.bctcloud.eu
 bdvs01.bctcloud.eu
 bct-p-mail001.bctcloud.eu
 gitlab.int.bctcloud.eu
+lelystad-acc.bctcloud.eu
+lelystad.bctcloud.eu
+bct-p-waf001.bctcloud.eu
+beek-acc.bctcloud.eu
+bct-p-vip001.bctcloud.eu
+bct-p-sftp001.bctcloud.eu
+bct-p-vip002.bctcloud.eu

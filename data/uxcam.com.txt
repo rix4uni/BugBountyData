@@ -33,7 +33,6 @@ appuat.uxcam.com
 grafana.uxcam.com
 search.uxcam.com
 eu.verifysession.uxcam.com
-uxcam.com
 us.verifysession.uxcam.com
 api-monitor.uxcam.com
 support.uxcam.com
@@ -68,3 +67,5 @@ acc89ab415.us.verifysession.uxcam.com
 integrated-platforms.uxcam.com
 websdk.uxcam.com
 1ce87a215a.us.verifysession.uxcam.com
+*.uxcam.com
+www.info.uxcam.com

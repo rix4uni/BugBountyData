@@ -650,7 +650,6 @@ n493.network-auth.com
 n411.network-auth.com
 n376.network-auth.com
 *.network-auth.com
-network-auth.com
 *.sandbox.network-auth.com
 *.poc.network-auth.com
 *.dev.network-auth.com
@@ -683,16 +682,6 @@ n7-spare.network-auth.com
 *.tunnel-proxy.dns.sandbox.network-auth.com
 tunnel-proxy.dns.network-auth.com
 tunnel-proxy.dns.sandbox.network-auth.com
-*.gov-meraki-staging-network-auth.com
-gov-meraki-staging-network-auth.com
-*.gov-network-auth.com
-gov-network-auth.com
-www.n385network-auth.com
-n385network-auth.com
-n2network-auth.com
-nnetwork-auth.com
-ww16.nnetwork-auth.com
-ww16.n2network-auth.com
 n781.network-auth.com
 n325-spare.network-auth.com
 n615-spare.network-auth.com
@@ -3339,3 +3328,5 @@ n35-spare.network-auth.com
 17sonybn262-spareavian209-span262-sparee.dev.network-auth.com
 firebasen299.ghcpi.dev.network-auth.com
 n186-spare.network-auth.com
+n963.network-auth.com
+org.dev.network-auth.com

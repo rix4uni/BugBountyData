@@ -4,7 +4,6 @@ shop.pasker.ru
 in.pasker.ru
 old.pasker.ru
 price.pasker.ru
-pasker.ru
 pad.pasker.ru
 sklad.pasker.ru
 service.pasker.ru
@@ -13,3 +12,4 @@ api.pasker.ru
 www.shop.pasker.ru
 new.pasker.ru
 board.pasker.ru
+*.pasker.ru

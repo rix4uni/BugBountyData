@@ -34814,7 +34814,6 @@ ip-145-116-153-38.wlan-int.ru.nl
 ip-195-169-208-146.eduvpn.ru.nl
 ip-145-116-130-251.wlan-int.ru.nl
 ip-145-97-31-232.wlan-ext.ru.nl
-ru.nl
 166-017.wlan-int.ru.nl
 ab35.gsuite.ru.nl
 ip-145-102-28-204.wlan-ext.ru.nl
@@ -62291,3 +62290,5 @@ smtp.science.ru.nl
 *.jupyterhub20.science.ru.nl
 jupyterhub20.science.ru.nl
 robinsonlab.science.ru.nl
+weblogs.socsci.ru.nl
+ghanar.isc.ru.nl

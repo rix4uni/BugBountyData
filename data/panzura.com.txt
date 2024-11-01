@@ -27,7 +27,6 @@ pds.status.panzura.com
 autodiscover.shop.panzura.com
 go.panzura.com
 mobileclient.panzura.com
-panzura.com
 qa.lab-edge.panzura.com
 www.lab-edge.panzura.com
 test-edge.panzura.com
@@ -84,3 +83,17 @@ www.bitstream.panzura.com
 bitstream.panzura.com
 sa.dev.panzura.com
 zeppelin-server.zeppelin-qa.panzura.com
+sadownload.int.sa.dev.panzura.com
+licensing.dev.panzura.com
+edge.us.it.panzura.com
+zeppelin-server.zeppelin.us.pds.dev.panzura.com
+www.anyconnect.panzura.com
+sa-opensearch.sa.dev.panzura.com
+s3.panzura.com
+data.panzura.com
+sagui.int.sa.dev.panzura.com
+sasupportdownload.int.sa.dev.panzura.com
+es.panzura.com
+saconnect.sa.dev.panzura.com
+support1.panzura.com
+saworkload.int.sa.dev.panzura.com

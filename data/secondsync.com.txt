@@ -11,8 +11,8 @@ production.secondsync.com
 server-1.secondsync.com
 staging2.secondsync.com
 subtitler-2.secondsync.com
-secondsync.com
 do-1.secondsync.com
 platform-staging.secondsync.com
 server-2.secondsync.com
 server-3.secondsync.com
+*.secondsync.com

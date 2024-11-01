@@ -55,7 +55,6 @@ mx2.smtp.startmail.com
 145-131-90-150.reverse.startmail.com
 migrate.startmail.com
 fw1.startmail.com
-startmail.com
 145-131-90-158.reverse.startmail.com
 imap2.startmail.com
 piwik.startmail.com
@@ -63,3 +62,18 @@ mx-in2.startmail.com
 mx3.startmail.com
 145-131-90-142.reverse.startmail.com
 beta.startmail.com
+smx.sc0.smtp.startmail.com
+mx-out4.startmail.com
+smx-4c0.smtp.startmail.com
+smx-4b2.smtp.startmail.com
+smx-7fb.smtp.startmail.com
+smx-7f1.smtp.startmail.com
+145-131-90-128.reverse.startmail.com
+smx-5ff.smtp.startmail.com
+145-131-90-140.reverse.startmail.com
+mx6.startmail.com
+use.startmail.com
+smx-5co.smtp.startmail.com
+smx-6ff.smtp.startmail.com
+www.support.startmail.com
+six-5c0.smtp.startmail.com

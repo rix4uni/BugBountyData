@@ -5,13 +5,8 @@ proto.medicijnkosten.nl
 www-tst.medicijnkosten.nl
 www.medicijnkosten.nl
 www-dev.medicijnkosten.nl
-medicijnkosten.nl
 www-acc.medicijnkosten.nl
 www-p.medicijnkosten.nl
 cms-dev.medicijnkosten.nl
 andwww.medicijnkosten.nl
 cms-tst.medicijnkosten.nl
-*.medicijnkosten.nl.mcas-df.ms
-*.medicijnkosten.nl.admin-mcas.ms
-*.medicijnkosten.nl.mcas.ms
-*.medicijnkosten.nl.admin-mcas-df.ms

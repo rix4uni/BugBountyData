@@ -3,7 +3,6 @@ prod-fees-server.depop.com
 blog-staging.depop.com
 sitemaps-staging.depop.com
 media-pictures.depop.com
-depop.com
 djangoadmin-static-stage.depop.com
 covid19.depop.com
 static-staging.depop.com
@@ -145,15 +144,3 @@ prod-consul.depop.com
 mail.ohhey.depop.com
 email.depop.com
 ed6f7t5x4s.depop.com
-galeriedepop.com
-autodepop.com
-netdepop.com
-bridepop.com
-codepop.com
-spinslidepop.com
-hidepop.com
-music.poolsidepop.com
-worldwidepop.com
-radiocidadepop.com
-shadepop.com
-festivalesdepop.com

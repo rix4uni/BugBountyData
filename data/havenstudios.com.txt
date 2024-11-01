@@ -19,7 +19,6 @@ jenkins.infra.havenstudios.com
 sta.logging.telemetry.havenstudios.com
 dev.ml.havenstudios.com
 dispatch.infra.havenstudios.com
-havenstudios.com
 sta.ci-agent.infra.havenstudios.com
 wip.ml.havenstudios.com
 services.aut.bleepprivate.havenstudios.com
@@ -65,8 +64,7 @@ book.docs.labs.havenstudios.com
 jenkins.staging.infra.havenstudios.com
 apt.plg.labs.havenstudios.com
 has-staging.havenstudios.com
-soulhavenstudios.com
-dhavenstudios.com
 mtl.perforce.infra.havenstudios.com
 llm.wip.ml.havenstudios.com
 emblem.gradio.wip.ml.havenstudios.com
+*.dev.telemetry.havenstudios.com

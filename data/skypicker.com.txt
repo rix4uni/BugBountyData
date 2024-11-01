@@ -17639,7 +17639,6 @@ skyglobal.booking-sandbox.skypicker.com
 skyjet.fe-cloudrun.skypicker.com
 skylms.fe-cloudrun.skypicker.com
 skynz.booking-sandbox.skypicker.com
-skypicker.com
 skyusers-19.booking-production.skypicker.com
 skyusersccount-ie-grid-b-7skyusersb306.fe-cloudrun.skypicker.com
 skywalker-dev.pg.skypicker.com
@@ -23957,3 +23956,13 @@ umbrella-review.skypicker.com
 *.asm.iap.balkan-sandbox.skypicker.com
 *.data-acq-production-test.skypicker.com
 *.skywalker.balkan-sandbox.skypicker.com
+*.iap.data-acq-sandbox.skypicker.com
+*.iap.data-acq-production.skypicker.com
+asm.iap.balkan-sandbox.skypicker.com
+bookie.iap.balkan-sandbox.skypicker.com
+data-acq-production-test.skypicker.com
+disruptions-pain.iap.balkan-sandbox.skypicker.com
+fintech-prod.skypicker.com
+fritter-ng-review.finance-prod.skypicker.com
+iap.data-acq-production.skypicker.com
+rta-pain.iap.balkan-sandbox.skypicker.com

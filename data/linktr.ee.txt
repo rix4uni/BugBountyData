@@ -51,7 +51,6 @@ link-types-config.production.linktr.ee
 link-types-config.qa.linktr.ee
 link-types.production.linktr.ee
 link-types.qa.linktr.ee
-linktr.ee
 linktree-web.production.linktr.ee
 linktree-web.qa.linktr.ee
 linktreepublicapi.qa.linktr.ee
@@ -473,8 +472,6 @@ www.jobs.linktr.ee
 www.metabase.linktr.ee
 www.qa.blog.linktr.ee
 ugc.production.linktr.ee
-llinktr.ee
-comlinktr.ee
 eb.production.linktr.ee
 edge.website.production.linktr.ee
 mfe-commerce.production.linktr.ee
@@ -566,3 +563,17 @@ mfe-mk-editor.qa.linktr.ee
 staticwebsite-dev.qa.linktr.ee
 mfe-auth.production.linktr.ee
 mfe-auth.qa.linktr.ee
+commerce-ingest.production.linktr.ee
+qa.ingest.qa.linktr.ee
+mfe-grow.qa.linktr.ee
+mfe-grow.production.linktr.ee
+tree-assets.qa.linktr.ee
+tree-assets.production.linktr.ee
+commerce-ingest.qa.linktr.ee
+brand-portal-origin.qa.linktr.ee
+merch.linktr.ee
+business-origin.qa.linktr.ee
+brand-portal-origin.production.linktr.ee
+*.users.linktr.ee
+*.qa.enrichments.linktr.ee
+*.enrichments.linktr.ee

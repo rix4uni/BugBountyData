@@ -164,7 +164,6 @@ deffmovpn01.emea.teleperformance.com
 lyncav.apac.teleperformance.com
 cn.teleperformance.com
 my16.teleperformance.com
-teleperformance.com
 carreirasbrazil.teleperformance.com
 exhybrid02.us.teleperformance.com
 hybrid01.teleperformance.com
@@ -793,3 +792,7 @@ www.cmad.teleperformance.com
 www.intranet-gr.emea.teleperformance.com
 businessinsights.teleperformance.com
 exhybrid04.us.teleperformance.com
+*.sngdc.ccms.teleperformance.com
+*.sebra.ccms.teleperformance.com
+*.wblt.ccms.teleperformance.com
+*.devdc.ccms.teleperformance.com

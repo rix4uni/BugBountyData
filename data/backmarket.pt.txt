@@ -1,4 +1,3 @@
-backmarket.pt
 oauth2-prod.backmarket.pt
 oauth2-prod-eu.backmarket.pt
 accounts.preprod.backmarket.pt
@@ -10,3 +9,11 @@ analytics.backmarket.pt
 oauth2-preprod-eu.backmarket.pt
 tr.backmarket.pt
 preprod.backmarket.pt
+parcel-cdn.entrega.backmarket.pt
+int.backmarket.pt
+oauth2-staging.backmarket.pt
+parcel-api.entrega.backmarket.pt
+dev.backmarket.pt
+ppr.backmarket.pt
+oauth2-preprod.backmarket.pt
+dse.backmarket.pt

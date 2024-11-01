@@ -151,7 +151,6 @@ keycloak.sodm.rijkscloud.nl
 dashboards.sodm.rijkscloud.nl
 rstudio.sodm.rijkscloud.nl
 datadrop.datafabriek.ienw.rijkscloud.nl
-rijkscloud.nl
 niels-test.ix.rijkscloud.nl
 registry.gitlab.wibo.ienw.rijkscloud.nl
 minio.dev.fib.ienw.rijkscloud.nl
@@ -2485,3 +2484,5 @@ bbapitest.ix.rijkscloud.nl
 jupyter.p-direkt.azure.rijkscloud.nl
 rstudio.p-direkt.azure.rijkscloud.nl
 shiny.p-direkt.azure.rijkscloud.nl
+rstudio.jvs.rijkscloud.nl
+jupyter.jvs.rijkscloud.nl

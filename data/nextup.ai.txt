@@ -121,7 +121,6 @@ jira-app.uat.nextup.ai
 jira9-int.preprod.nextup.ai
 teams-helpdesk-bot-release.uat.nextup.ai
 help.docs.slack.nextup.ai
-nextup.ai
 pd.uat.nextup.ai
 teams-bot-release.uat.nextup.ai
 teams-helpdesk-release.uat.nextup.ai
@@ -198,3 +197,8 @@ msteams-connector.nextup.ai
 adminer.prod.nextup.ai
 prometheus-de.prod.nextup.ai
 adminer.preprod.nextup.ai
+harbor.nextup.ai
+ankit-jira.preprod.nextup.ai
+link.nextup.ai
+*.us.int.prod.nextup.ai
+*.nextup.ai

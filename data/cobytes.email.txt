@@ -1,2 +1,12 @@
 autodiscover.cobytes.email
-cobytes.email
+www.cobytes.email
+*.cobytes.email
+mta-sts.cobytes.email
+webmail.cobytes.email
+panel.cobytes.email
+mx1.cobytes.email
+mx2.cobytes.email
+mx3.cobytes.email
+mx4.cobytes.email
+mail.cobytes.email
+mail.autodiscover.cobytes.email

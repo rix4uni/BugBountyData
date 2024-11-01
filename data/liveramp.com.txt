@@ -442,7 +442,6 @@ us-cicd.identity.api.liveramp.com
 jenkins.webhooks.liveramp.com
 support.us-develop.identity.api.liveramp.com
 tgb.eu-staging.identity.api.liveramp.com
-liveramp.com
 sso.liveramp.com
 dist-eu-dev.liveramp.com
 odelabs.liveramp.com
@@ -450,3 +449,5 @@ api-ingestion-dev.liveramp.com
 us-test.am-staging.identity.api.liveramp.com
 sqlui-dev.corp.liveramp.com
 idtypes-api.liveramp.com
+*.selectcert.liveramp.com
+*.select.liveramp.com

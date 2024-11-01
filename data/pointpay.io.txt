@@ -220,7 +220,6 @@ trade-events.dev.pointpay.io
 transport.pointpay.io
 transport.stage.pointpay.io
 prodadmin.pointpay.io
-pointpay.io
 api.staging-cluster.pointpay.io
 payments.pointpay.io
 wallet.pointpay.io

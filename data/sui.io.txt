@@ -80,7 +80,6 @@ db-snapshot.mainnet.sui.io
 hi.sui.io
 ci.sui.io
 overflow.vote.sui.io
-sui.io
 www.docs.sui.io
 ext.staging.sui.io
 www.explorer.sui.io
@@ -92,3 +91,14 @@ dev.internal.sui.io
 prod.internal.sui.io
 nomad.staging.sui.io
 nomad.sui.io
+rpc.mainnet.sui.io
+fullnode.testnet.sui.io
+public-rpc.mainnet.sui.io
+fullnode.devnet.sui.io
+oauth.sui.io
+transactions.sui.io
+fullnode.mainnet.sui.io
+lax-mnt-proxy-01.mainnet.sui.io
+verifysupporters.sui.io
+sui-wallet-demo.sui.io
+bridge.qa.sui.io

@@ -1,6 +1,5 @@
 stats.maenda.media
 unifi.maenda.media
-maenda.media
 vpn.maenda.media
 www.maenda.media
 cloud.maenda.media
@@ -8,3 +7,4 @@ mail.maenda.media
 my.maenda.media
 ftp.maenda.media
 dev.maenda.media
+*.dev.maenda.media

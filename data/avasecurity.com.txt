@@ -138,7 +138,6 @@ vcloud-robert.dt.avasecurity.com
 rtsp-jesse.us4.aware.avasecurity.com
 ts-sa-1.geo-turn.aware.avasecurity.com
 www.avasecurity.com
-avasecurity.com
 kinectrics-kipling-inc.na1.aware.avasecurity.com
 partner.avasecurity.com
 email.social.avasecurity.com
@@ -534,3 +533,6 @@ ts-eu-9.turn.aware.avasecurity.com
 rtsp-pentest.eu99.aware.avasecurity.com
 eu.rtsp.vcloud-test.dt.avasecurity.com
 rtsp-steady.dev-eu1.aware.avasecurity.com
+*.stream-jw.dev-eu1.aware.avasecurity.com
+*.rtsp-jw.dev-eu1.aware.avasecurity.com
+*.vcloud-hd.dt.avasecurity.com

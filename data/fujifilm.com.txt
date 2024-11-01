@@ -638,7 +638,6 @@ brains.fujifilm.com
 cmg01-jpn-qa-ffsi.fujifilm.com
 apeos-link-stg.fujifilm.com
 emulation.www.fujifilm.com
-fujifilm.com
 m2support-fb.fujifilm.com
 med-lib.fujifilm.com
 isl02.fujifilm.com
@@ -987,3 +986,5 @@ v14003734c01cucms07.fujifilm.com
 www-cms-fb.fujifilm.com
 timsprs.fujifilm.com
 assista-management-demo.fujifilm.com
+reportgenerator-qa.fujifilm.com
+*.reportgenerator-qa.fujifilm.com

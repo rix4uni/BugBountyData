@@ -86,7 +86,6 @@ heimdall-old.appsec-nonprod.cso.warnermedia.com
 test11.warnermedia.com
 www.safebreach.sb.warnermedia.com
 argmediaproxy02.warnermedia.com
-warnermedia.com
 podest1.desktopcloud.warnermedia.com
 cso.warnermedia.com
 sndbx.cendp.warnermedia.com
@@ -1162,3 +1161,4 @@ wbpsccmcmg.warnermedia.com
 cribl-leader-dev.nonprod.private-logs.warnermedia.com
 21csrimpactreport.warnermedia.com
 *.brandcenter.warnermedia.com
+*.dev.sdlp.warnermedia.com

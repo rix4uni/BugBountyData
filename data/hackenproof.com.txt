@@ -20,7 +20,6 @@ nhp.hackenproof.com
 dashboard.hackenproof.com
 ddar3dbd.hackenproof.com
 sc-ctf.hackenproof.com
-hackenproof.com
 *.hackenproof.com
 alecminichini.hackenproof.com
 backupserviceuser.dev.hackenproof.com
@@ -65,3 +64,5 @@ hpcr.hackenproof.com
 netmaker-stage.hackenproof.com
 netmaker-stage-api.hackenproof.com
 netmaker-stage-broker.hackenproof.com
+netmaker-v2-stage.hackenproof.com
+netmaker-v2-stage-api.hackenproof.com

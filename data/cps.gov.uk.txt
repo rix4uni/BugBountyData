@@ -39,7 +39,6 @@ jras-test.cps.gov.uk
 vpntest.lb-external.cps.gov.uk
 cpsafp-ltm-cm-wan-cin3-cin3.cps.gov.uk
 contact.cps.gov.uk
-cps.gov.uk
 cpswsl-wi-nex01.cps.gov.uk
 midserverdev.cps.gov.uk
 not-used-in-cin3.cps.gov.uk
@@ -88,3 +87,4 @@ prod.apigww.cps.gov.uk
 w.cps.gov.uk
 notprod.cps.gov.uk
 avww.cps.gov.uk
+*.cps.gov.uk

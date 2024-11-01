@@ -1,0 +1,16 @@
+pro-assets.cfse.biz
+resources.cfse.biz
+marketplace-gateway.cfse.biz
+pro.cfse.biz
+pas-api.cfse.biz
+integration.cfse.biz
+hometown.cfse.biz
+www.cfse.biz
+ftp.cfse.biz
+dc1.cfse.biz
+autodiscover.cfse.biz
+dc2.cfse.biz
+mail.cfse.biz
+dc1.pas-api.cfse.biz
+*.cfse.biz
+*.test.cfse.biz

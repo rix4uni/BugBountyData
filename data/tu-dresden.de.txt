@@ -46373,7 +46373,6 @@ whdd-9216.wh14.tu-dresden.de
 x8d1ed5ae.agdsn.tu-dresden.de
 mrburnz.wh29.tu-dresden.de
 wj0835.dip.tu-dresden.de
-tu-dresden.de
 _xmpp-server._tcp.tu-dresden.de
 hostmaster.tu-dresden.de
 _xmpp-client._tcp.tu-dresden.de
@@ -46381,3 +46380,7 @@ _autodiscover._tcp.tu-dresden.de
 drucker.gewv.iet.mw.tu-dresden.de
 stundenplan.mw.tu-dresden.de
 se-taiga.inf.tu-dresden.de
+idea.itvs.vkw.tu-dresden.de
+*.gewv.iet.mw.tu-dresden.de
+*.iet.mw.tu-dresden.de
+*.edutrain.n4e.geo.tu-dresden.de

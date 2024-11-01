@@ -13,7 +13,6 @@ stores.staging.salto.fr
 customizer.salto.fr
 lbcdn.salto.fr
 actu.salto.fr
-salto.fr
 corporate.salto.fr
 salto-styleguide.staging.salto.fr
 coupons.salto.fr
@@ -56,3 +55,9 @@ heartbeat-v3.staging.salto.fr
 heartbeat-v2.salto.fr
 beta-auth.salto.fr
 pc.middleware.salto.fr
+login-test.salto.fr
+fastly.vod.staging.salto.fr
+middleware.salto.fr
+a.salto.fr
+tvjs.preview.salto.fr
+c.salto.fr

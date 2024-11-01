@@ -4,7 +4,6 @@ www.stationx.net
 remove-this-fake.stationx.net
 forum.stationx.net
 mail.stationx.net
-stationx.net
 community.stationx.net
 pullzone1.stationx.net
 www.staging.stationx.net
@@ -14,3 +13,5 @@ help.stationx.net
 giveaway.stationx.net
 checkout.stationx.net
 *.stationx.net
+staging.stationx.net
+www.checkout.stationx.net

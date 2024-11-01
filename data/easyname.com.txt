@@ -103,7 +103,6 @@ whmcs.easyname.com
 osapi.easyname.com
 sst.easyname.com
 enterpriseenrollment.easyname.com
-easyname.com
 k8s-prod.easyname.com
 web118.easyname.com
 web34.easyname.com
@@ -51726,8 +51725,6 @@ customer-account.websitebuilder.easyname.com
 customers.websitebuilder.easyname.com
 bookings-checkout.websitebuilder.easyname.com
 55b558c7-api.websitebuilder.easyname.com
-www.aneasyname.com
-aneasyname.com
 *.bkstage.easyname.com
 *.sandbox.easyname.com
 404: not found0-00.websitebuilder.easyname.com

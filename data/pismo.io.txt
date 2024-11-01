@@ -31,7 +31,6 @@ consul.pismo.io
 api-global.aus.pismo.io
 dev.pismo.io
 now.pismo.io
-pismo.io
 pci.ind.pismo.io
 clientevaibem.pismo.io
 assets.pismo.io
@@ -130,3 +129,13 @@ sae1.internal.b3.pismo.io
 *.nequi.pismo.io
 global.nequi.pismo.io
 prod.nequi.pismo.io
+*.data.pismo.io
+pci.abnamro.pismo.io
+*.euw1.internal.pci.abnamro.pismo.io
+*.pci.abnamro.pismo.io
+*.internal.pci.abnamro.pismo.io
+euw1.internal.pci.abnamro.pismo.io
+euw1.internal.abnamro.pismo.io
+abnamro.pismo.io
+internal.pci.abnamro.pismo.io
+internal.abnamro.pismo.io

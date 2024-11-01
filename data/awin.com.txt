@@ -186,6 +186,13 @@ jira.awin.com
 1430.advertiser-mastertag.awin.com
 jup2038.advertiser-mastertag.awin.com
 www.awin.com
-awin.com
 id.dev.awin.com
 id.awin.com
+publisher-signup-api.cosmere-dev.aws.awin.com
+publisher-signup-api.cosmere-staging.aws.awin.com
+publisher-express-signup-ui.cosmere-staging.aws.awin.com
+programdata-service.awin.com
+*.master.advertiser-mastertag.awin.com
+*.master.dev.advertiser-mastertag.awin.com
+publisher-express-signup-ui.cosmere-prod.aws.awin.com
+publisher-signup-api.cosmere-prod.aws.awin.com

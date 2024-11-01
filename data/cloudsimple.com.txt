@@ -1,4 +1,3 @@
-cloudsimple.com
 blog.cloudsimple.com
 docs.gcloud.cloudsimple.com
 docs.azure.cloudsimple.com
@@ -51,3 +50,6 @@ gitlab-mirror.corp.cloudsimple.com
 ns4.corp.cloudsimple.com
 tools.azure.cloudsimple.com
 www.gitlab-prod.corp.cloudsimple.com
+sso.cloudsimple.com
+id.cloudsimple.com
+gcloud.cloudsimple.com

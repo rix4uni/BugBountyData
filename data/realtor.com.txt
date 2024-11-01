@@ -1,6 +1,5 @@
 apex-redirect.realtor.com
 *.realtor.com
-realtor.com
 tile2.neighborhoods.realtor.com
 o3.email.realtor.com
 rdc-dev.realtor.com
@@ -1349,3 +1348,11 @@ reverse104.realtor.com
 www.yoursuccess.realtor.com
 mach236.realtor.com
 reverse66.realtor.com
+podcast.realtor.com
+builderportal.realtor.com
+jimedwards.realtor.com
+notifications.realtor.com
+api-alpha.x.realtor.com
+rdc-x-web-prod.x.realtor.com
+*.frontdoor.qa.realtor.com
+*.pr.frontdoor.qa.realtor.com

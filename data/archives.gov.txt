@@ -74,7 +74,6 @@ petitions.obamawhitehouse.archives.gov
 coronavirus.trumpwhitehouse.archives.gov
 clintonwhitehouse6.archives.gov
 edelivery.archives.gov
-archives.gov
 hoover.blogs.archives.gov
 images.catalog.archives.gov
 crisisnextdoor.trumpwhitehouse.archives.gov
@@ -326,3 +325,5 @@ ogis-foia.blogs.archives.gov
 registry01.devops.oifd.archives.gov
 dev-om.nac-mvp.archives.gov
 apps-historyhub.archives.gov
+blogs.qa.archives.gov
+*.blogs.qa.archives.gov

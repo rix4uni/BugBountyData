@@ -1,5 +1,4 @@
 rabbit-l2p-test.yellowpepper.com
-yellowpepper.com
 cd.directory-non-prod.yellowpepper.com
 ci-ld-mvp-cde.yellowpepper.com
 non-cde-vault.directory-non-prod.yellowpepper.com
@@ -345,7 +344,6 @@ cde-load-test-monitoring.directory-non-prod.yellowpepper.com
 cheat-sheets.yellowpepper.com
 ci.fed-directory.yellowpepper.com
 bigdigit.yellowpepper.com
-mryellowpepper.com
 idp-pis-web-client.transfers-non-prod.yellowpepper.com
 bim-decoder-orig.dod-cde.yellowpepper.com
 idp-pis-web-admin.transfers-non-prod.yellowpepper.com
@@ -4870,3 +4868,4 @@ tampa.digitalcareers.0-l2p-cde-load-test.yellowpepper.com
 0-linguisticsabstracts-com.yellowpepper.com
 *.ads-eu-non-prod.yellowpepper.com
 *.yellowpepper.com
+*.ads-eu.yellowpepper.com

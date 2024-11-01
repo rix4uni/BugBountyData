@@ -90,7 +90,6 @@ api.recon-service.loanplatform.findaya.com
 kafka-bridge.loanplatform.staging.findaya.com
 api-dr.cpe.loanplatform.findaya.com
 api-dr.crs.loanplatform.findaya.com
-findaya.com
 *.findaya.com
 *.staging.cboss.findaya.com
 *.cboss.findaya.com

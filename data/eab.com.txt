@@ -4,7 +4,6 @@ adp.eab.com
 bizcard.eab.com
 quote2cash.eab.com
 campus-training2.eab.com
-eab.com
 ssms.ahp.dev.eab.com
 ecsu.eab.com
 attachment.eab.com
@@ -850,3 +849,6 @@ panto.qa.eab.com
 feature-ca-212.dev.careerascent.eab.com
 prod.dev.careerascent.eab.com
 *.ap.dev.sgd.eab.com
+*.campus.eab.com
+*.campus-qa-lime-mt.eab.com
+*.hi.eab.com

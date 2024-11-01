@@ -32,7 +32,6 @@ stg-ssl.gbtspain.com
 stg-my.gbtspain.com
 stg-desigual.gbtspain.com
 stg-miportal.gbtspain.com
-gbtspain.com
 tst-desigual.gbtspain.com
 tst-miportal.gbtspain.com
 tst-my.gbtspain.com
@@ -44,5 +43,4 @@ pre-ssl.gbtspain.com
 *.gbtspain.com
 enterpriseenrollment.gbtspain.com
 msoid.gbtspain.com
-pre-gbtspain.com
 sip.gbtspain.com

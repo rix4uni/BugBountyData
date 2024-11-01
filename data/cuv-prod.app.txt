@@ -3,7 +3,6 @@ api.prod.cuv-prod.app
 prod.cuv-prod.app
 g.cuv-prod.app
 wg.g.cuv-prod.app
-cuv-prod.app
 *.g.cuv-prod.app
 *.prod.cuv-prod.app
 db.cuv-prod.app

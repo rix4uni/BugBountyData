@@ -20,7 +20,6 @@ app.staking-uat.consensys.io
 linea-apps-search-api.dev.ai.consensys.io
 keymaster.eu-north-1.aws.staking-dev.consensys.io
 keymaster.japaneast.az.staking-dev.consensys.io
-consensys.io
 api-us-east-1.access-dev.internal.consensys.io
 ap-southeast-1.aws.staking-uat.consensys.io
 keymaster.ap-southeast-1.aws.staking.consensys.io
@@ -135,3 +134,4 @@ keymaster-prod.eu-north-1.aws.staking.consensys.io
 az.staking.consensys.io
 eu-north-1.aws.staking.consensys.io
 dev.snaps.consensys.io
+www.navhackathon.consensys.io

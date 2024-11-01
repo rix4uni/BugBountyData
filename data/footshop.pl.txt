@@ -1,7 +1,6 @@
 static.footshop.pl
 files.lab.footshop.pl
 static.lab.footshop.pl
-footshop.pl
 sitemaps-lab.footshop.pl
 sitemaps.footshop.pl
 www.footshop.pl
@@ -9,3 +8,6 @@ shop.lab.footshop.pl
 www.lab.footshop.pl
 shop.footshop.pl
 files.footshop.pl
+staging.footshop.pl
+shop.staging.footshop.pl
+lab.footshop.pl

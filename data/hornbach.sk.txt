@@ -8,7 +8,6 @@ zed.prd.gcp.hornbach.sk
 backend-api.dev.gcp.hornbach.sk
 www.stg.gcp.hornbach.sk
 backend-api.prd.gcp.hornbach.sk
-hornbach.sk
 glue.int.hornbach.sk
 stage.hornbach.sk
 cdn.hornbach.sk
@@ -59,3 +58,5 @@ int-cdn.hornbach.sk
 svc.hornbach.sk
 services.hornbach.sk
 stg-svc.hornbach.sk
+connect.hornbach.sk
+dcoll.hornbach.sk

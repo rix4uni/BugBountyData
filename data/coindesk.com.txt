@@ -88,7 +88,6 @@ development-quest.coindesk.com
 jobs-api.coindesk.com
 sandbox.scripts.coindesk.com
 staging.static.coindesk.com
-coindesk.com
 link.dev4.coindesk.com
 stateofcrypto.coindesk.com
 dev13.storybook.coindesk.com
@@ -268,11 +267,6 @@ netlify.coindesk.com
 sandbox.embed.coindesk.com
 upload.coindesk.com
 dev18.cms.coindesk.com
-thecoindesk.com
-adzcoindesk.com
-xcoindesk.com
-24coindesk.com
-thebitcoindesk.com
 rfd.coindesk.com
 dev.auth.coindesk.com
 dev.coindesk.com

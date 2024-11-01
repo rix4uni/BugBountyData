@@ -1,4 +1,3 @@
-ops.netlify.com
 spinnaker-test.ops.netlify.com
 spinnaker.ops.netlify.com
 rethink.ops.netlify.com
@@ -27,3 +26,5 @@ prerender.ops.netlify.com
 spinnaker-api.ops.netlify.com
 influx.ops.netlify.com
 monitoring.ops.netlify.com
+netlify-gitlab-1.ops.netlify.com
+netlify-ghe-1.ops.netlify.com

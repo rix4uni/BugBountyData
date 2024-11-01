@@ -13,11 +13,5 @@ analyze.airship.eu
 maestro-cluster.airship.eu
 sftp.airship.eu
 analyze-api.airship.eu
-airship.eu
 *.airship.eu
-euroairship.eu
-www.euroairship.eu
-luckyairship.eu
-*.luckyairship.eu
-www.fairship.eu
-fairship.eu
+api.airship.eu

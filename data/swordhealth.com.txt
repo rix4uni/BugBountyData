@@ -249,7 +249,6 @@ monitoring-api.ca.swordhealth.com
 mail.swordhealth.com
 minio-ha.staging.swordhealth.com
 ca.swordhealth.com
-swordhealth.com
 admin-ui.swordhealth.com
 edge-content.swordhealth.com
 logging-api.ca.swordhealth.com
@@ -374,3 +373,8 @@ api-eu.swordhealth.com
 monitoring.ca.swordhealth.com
 beta-us.swordhealth.com
 vpn-data.us.swordhealth.com
+beta-eu.swordhealth.com
+acl.swordhealth.com
+kiali.us.swordhealth.com
+shop.swordhealth.com
+vpn-workspaces.swordhealth.com

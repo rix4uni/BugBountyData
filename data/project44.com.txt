@@ -9,7 +9,6 @@ connector-inbound-jda.na.project44.com
 connector-inbound-jda.us-central1.production.project44.com
 discover.project44.com
 p44-americas.project44.com
-project44.com
 p44documents.na.project44.com
 www.flex-viz.api.project44.com
 nmc.staging.project44.com
@@ -401,3 +400,6 @@ unified-tracking.mongosync.europe-west1.production.project44.com
 vault.europe-west1.production.project44.com
 api-gateway-test.na.project44.com
 connector-inbound-otm.integration.project44.com
+na21.api.project44.com
+cummins.project44.com
+na1.project44.com

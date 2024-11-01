@@ -14,7 +14,6 @@ usermanagement.scriptcycle.com
 filetransfer.scriptcycle.com
 public.dev.scriptcycle.com
 secure.dev.scriptcycle.com
-scriptcycle.com
 ia1rtr1.ad.scriptcycle.com
 www.scriptcycle.com
 kafka-ui.test.scriptcycle.com
@@ -33,3 +32,4 @@ usermanagement.dev.scriptcycle.com
 switch-ui.dev.scriptcycle.com
 scriptcostapi.scriptcycle.com
 mongo-express.test.scriptcycle.com
+ad.scriptcycle.com

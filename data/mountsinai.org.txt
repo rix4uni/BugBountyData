@@ -799,10 +799,8 @@ sccsweb2.mountsinai.org
 symptomchecker.mountsinai.org
 tableau2.mountsinai.org
 test-host.mountsinai.org
-mountsinai.org
 intranet1.mountsinai.org
 mshs-live-ux.mountsinai.org
-cuemountsinai.org
 mshs-ot-prod-mgmt.ot.mountsinai.org
 mshsintranet.mountsinai.org
 mshs-prod-cds-2.ot.mountsinai.org
@@ -810,7 +808,6 @@ mshs-qa-ux.mountsinai.org
 mshs-w4-prod-mgmt1.mountsinai.org
 prod-stage-mshs.mountsinai.org
 mshs-prod-stage.ot.mountsinai.org
-keepmountsinai.org
 mshs-prod-stage-mssm.ot.mountsinai.org
 hy-app.mountsinai.org
 e.mountsinai.org

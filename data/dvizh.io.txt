@@ -40,7 +40,6 @@ elreg.make.dvizh.io
 prod-buyer.dvizh.io
 creditcore.dvizh.io
 reg.dvizh.io
-dvizh.io
 new.dvizh.io
 cdn.dvizh.io
 ikon.dvizh.io
@@ -55,3 +54,16 @@ demo.dvizh.io
 enco.dvizh.io
 pp.dvizh.io
 day.dvizh.io
+uds.dvizh.io
+chat.dvizh.io
+s.dvizh.io
+comm-platform.dvizh.io
+batch.dvizh.io
+primavera.dvizh.io
+booking.dvizh.io
+acquiring.dvizh.io
+admin.stage-buyer.dvizh.io
+gql.stage-buyer.dvizh.io
+admin.prod-buyer.dvizh.io
+gql.prod-buyer.dvizh.io
+login.dvizh.io

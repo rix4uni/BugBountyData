@@ -363,7 +363,6 @@ jet-ml-dev.just-data.io
 platform-onboarder.infra-dev.just-data.io
 vault-test.infra-dev.just-data.io
 www.just-data.io
-just-data.io
 deployments.astro-ml-dev.just-data.io
 registry.astro-ml-infra-dev.just-data.io
 kibana.astro-ml-dev.just-data.io
@@ -649,3 +648,4 @@ prod.just-data.io
 test-cloudrun.dev.just-data.io
 tableau-cloud-ci.dev.just-data.io
 www.status.just-data.io
+bq-sql-antipattern-api.dev.just-data.io

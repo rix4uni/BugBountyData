@@ -262,7 +262,6 @@ partner.upstox.com
 policy.upstox.com
 ref.upstox.com
 uat-cdn.upstox.com
-upstox.com
 user-data-service.upstox.com
 webstories.upstox.com
 dartstock-uatserv.upstox.com
@@ -411,7 +410,6 @@ nexus.upstox.com
 localcrm.upstox.com
 devops-test.upstox.com
 uat-payin.upstox.com
-warmupstox.com
 employee-benefits.upstox.com
 upstox-incoming-f-alb.upstox.com
 userguide.upstox.com

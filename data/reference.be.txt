@@ -129,7 +129,6 @@ shop-ingedachten.dev.reference.be
 www.oz.prd.reference.be
 input.reference.be
 web06.reference.be
-reference.be
 dev.reference.be
 anthology.cbpl.dev.reference.be
 carglass930-cm-be.prd.reference.be
@@ -441,3 +440,5 @@ staging-sdworxlu.prd.reference.be
 sdworxnl-cd-live.prd.reference.be
 staging-sdworxnl.prd.reference.be
 *.prd.reference.be
+www-ingedachten.prd.reference.be
+www-dansnospensees.prd.reference.be

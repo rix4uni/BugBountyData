@@ -165,7 +165,6 @@ app-st.wavecell.com
 smpp2-cn.wavecell.com
 dev-app-api.wavecell.com
 vi-api.wavecell.com
-wavecell.com
 www.mb-controller-prod-uk-01.vi.wavecell.com
 *.wavecell.com
 *.voice.wavecell.com
@@ -174,15 +173,3 @@ www.bosh-prod-sg-04.vi.wavecell.com
 www.bosh-prod-uk-01.vi.wavecell.com
 www.mbcm-prod-us-01.vi.wavecell.com
 *.vi.wavecell.com
-purewavecell.com
-www.purewavecell.com
-www.smartwavecell.com
-*.purewavecell.com
-secondwavecell.com
-www.secondwavecell.com
-www.pay.secondwavecell.com
-pay.secondwavecell.com
-buy.secondwavecell.com
-admin.secondwavecell.com
-bluewavecell.com
-*.bluewavecell.com

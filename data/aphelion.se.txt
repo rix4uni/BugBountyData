@@ -1,4 +1,3 @@
-aphelion.se
 sparebank1smn-prod.aphelion.se
 sparebank1smn-efx-prod.aphelion.se
 sparebank1smn-tp-prod.aphelion.se
@@ -268,7 +267,6 @@ ld3-ipa.aphelion.se
 www.aphelion.se
 career.aphelion.se
 92rgdh.aphelion.se
-aphelion.services
 swedbank-tp-prod-dr.aphelion.se
 swedbank-efx-prod-pri.aphelion.se
 swedbank-prod-pri.aphelion.se
@@ -332,20 +330,6 @@ ftbank-int-test.aphelion.se
 www.ftbank-int-test.aphelion.se
 st-int-test.aphelion.se
 www.st-int-test.aphelion.se
-*.aphelion.se.admin-mcas-df.ms
-*.aphelion.se.mcas.ms
-*.aphelion.se.mcas-df.ms
-*.aphelion.se.admin-mcas.ms
-*.aphelion.se.admin-us3.cas.ms
-*.aphelion.se.us.cas.ms
-*.aphelion.se.us3.cas.ms
-*.aphelion.se.us2.cas.ms
-*.aphelion.se.eu.cas.ms
-*.aphelion.se.admin-eu.cas.ms
-*.aphelion.se.admin-eu2.cas.ms
-*.aphelion.se.eu2.cas.ms
-*.aphelion.se.admin-us.cas.ms
-*.aphelion.se.admin-us2.cas.ms
 prod.aphelion.se
 *.prod.aphelion.se
 uat.aphelion.se

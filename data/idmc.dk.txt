@@ -1,7 +1,6 @@
 oid.idmc.dk
 ext.idmc.dk
 mx.idmc.dk
-idmc.dk
 ucph.idmc.dk
 io.idmc.dk
 vm.idmc.dk
@@ -10,3 +9,16 @@ openid.idmc.dk
 sid.idmc.dk
 cert.idmc.dk
 www.idmc.dk
+test-cert.idmc.dk
+test-ext.idmc.dk
+test.idmc.dk
+test-io.idmc.dk
+test-oid.idmc.dk
+test-sid.idmc.dk
+test-www.idmc.dk
+dev-cert.idmc.dk
+dev-ext.idmc.dk
+dev.idmc.dk
+dev-io.idmc.dk
+dev-oid.idmc.dk
+dev-sid.idmc.dk

@@ -65,7 +65,6 @@ r2.netw.nl
 sentinel.netw.nl
 support.netw.nl
 mon-it.netw.nl
-netw.nl
 engine.netw.nl
 test.netw.nl
 trakamail.netw.nl
@@ -100,3 +99,4 @@ isp1.netw.nl
 crm1.netw.nl
 elk.netw.nl
 st2.netw.nl
+*.netw.nl

@@ -1296,7 +1296,6 @@ airflow-general-airfl-mgvtz4ez-data-scheduler-global-us-ce1-qb8.global.airflow.s
 presto-production-etl-a-presto-data-trino-us-ce1-fz4.shopify-data-presto-global.shopifykloud.com
 presto-production-apps-a-presto-data-trino-us-central1-1.shopify-data-presto-global.shopifykloud.com
 presto-production-etl-b-presto-data-trino-us-ce1-fz4.shopify-data-presto-global.shopifykloud.com
-shopifykloud.com
 starscream-dataproc-w-24.starscream.yarn.shopifykloud.com
 oozie-dataproc-i.starscream.yarn.shopifykloud.com
 starscream-dataproc-w-36.starscream-adhoc.yarn.shopifykloud.com
@@ -1423,3 +1422,15 @@ dev.druid.shopifykloud.com
 airflow.shopifykloud.com
 presto.shopifykloud.com
 shopify-data-presto-canada.shopifykloud.com
+starscream-qa.yarn.shopifykloud.com
+starscream-dataproc-w-56.starscream.yarn.shopifykloud.com
+seamster-a.global.airflow.shopifykloud.com
+starscream-dataproc-w-66.starscream.yarn.shopifykloud.com
+starscream-dataproc-w-95.starscream.yarn.shopifykloud.com
+general.global.druid.shopifykloud.com
+oozie-dataproc-i.starscream-adhoc.yarn.shopifykloud.com
+shopify-data-landfill.playground.yarn.shopifykloud.com
+staging.tools.k8s-exp.shopifykloud.com
+dataproc-test.playground.yarn.shopifykloud.com
+org-sales-model.global.druid.shopifykloud.com
+starscream-dataproc-w-68.starscream.yarn.shopifykloud.com

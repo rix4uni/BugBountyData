@@ -172,7 +172,6 @@ openjade.cert.be
 www.cert.be
 finder.cert.be
 snorri.cert.be
-cert.be
 ellie.cert.be
 cfg.cert.be
 cuckoo.lab.cert.be
@@ -206,3 +205,4 @@ echidna.cert.be
 prometheus.aks.infra.cert.be
 tornado.cert.be
 alertmanager.aks.infra.cert.be
+*.cert.be

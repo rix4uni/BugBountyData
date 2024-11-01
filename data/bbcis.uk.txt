@@ -1,1 +1,8 @@
 openstack.mcr1.bbcis.uk
+openstack.lon1.bbcis.uk
+dev.bbcis.uk
+lb-dev.bbcis.uk
+object.lon1.bbcis.uk
+sso-nbe.bbcis.uk
+sso.bbcis.uk
+test.bbcis.uk

@@ -180,7 +180,6 @@ lumension.virtustream.com
 ns2.us.virtustream.com
 relaymxus10.virtustream.com
 hyattsville-maryland-data-center.virtustream.com
-virtustream.com
 its1.usdc1.net.virtustream.com
 bystrom-california-data-center.virtustream.com
 supporttest.virtustream.com
@@ -302,5 +301,4 @@ great-falls-virginia-data-center.virtustream.com
 lincolnia-virginia-colocation.virtustream.com
 lyncdiscover.virtustream.com
 ns4-sub.virtustream.com
-dellvirtustream.com
-dell-virtustream.com
+*.virtustream.com

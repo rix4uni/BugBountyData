@@ -112,7 +112,6 @@ test-monitor.govcloud.copado.com
 metrics.sg-robotic.copado.com
 metrics.qa.robotic.copado.com
 infra2.cvc.copado.com
-copado.com
 sessions.qa.robotic.copado.com
 robotic.copado.com
 ve-gt.tunnel.copado.com
@@ -510,3 +509,4 @@ sessions.robotic.copado.com
 sessions.test-robotic.copado.com
 stage.cvc.copado.com
 platform.test-robotic.copado.com
+hyperdisk.cvc.copado.com

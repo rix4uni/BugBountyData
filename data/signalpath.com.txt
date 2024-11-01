@@ -35,7 +35,6 @@ qa.signalpath.com
 analytics.signalpath.com
 click.signalpath.com
 sparc.signalpath.com
-signalpath.com
 test-viewpoint-api.gcp.signalpath.com
 test-crosscloud.gcp.signalpath.com
 dev-stable-crosscloud.gcp.signalpath.com
@@ -67,11 +66,6 @@ staging.signalpath.com
 styleguide.signalpath.com
 test-ingress.signalpath.com
 bandcamp.signalpath.com
-www.thesignalpath.com
-thesignalpath.com
-*.sentientsignalpath.com
-sentientsignalpath.com
-audiosignalpath.com
 c3-1.g.signalpath.com
 eg-5.g.signalpath.com
 ggc6.g.signalpath.com

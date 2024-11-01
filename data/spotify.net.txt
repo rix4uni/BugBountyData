@@ -20696,7 +20696,6 @@ zayit.lon.spotify.net
 zhalore.lom.sto1.spotify.net
 zhalore.sto.spotify.net
 zhalore.sto1.spotify.net
-spotify.net
 0.live.data.spotify.net
 0.oktaproxysync-live.data.spotify.net
 0aedub0.oktaproxysync-live.data.spotify.net
@@ -21229,8 +21228,6 @@ x2fit.spotify.net
 ldapexternal-gue1.spotify.net
 pnftranscript.spotify.net
 pbo-web-shared.spotify.net
-buyspotify.net
-api-spotify.net
 roles.gew1.spotify.net
 roles.guc3.spotify.net
 roles.gae2.spotify.net
@@ -26668,3 +26665,10 @@ beacon4.abba.spotify.net
 beacon3gangplank.abba.spotify.net
 7-control.beacon3.abba.spotify.net
 beacon-jhbiostest.abba.spotify.net
+adstudioauth.spotify.net
+tob-bot.spotify.net
+payments-local.spotify.net
+oauth-backstage-api.spotify.net
+admocker.spotify.net
+ldapexternal-focal-gue1-lb.spotify.net
+web-infra-kube-edge.spotify.net

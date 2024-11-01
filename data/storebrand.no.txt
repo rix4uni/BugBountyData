@@ -300,7 +300,6 @@ d-cm-integrator.enterprise.storebrand.no
 rtmonitor.intra.storebrand.no
 t-dadp-qlik1.common.storebrand.no
 sbhuat-api.storebrand.no
-storebrand.no
 mdmstba2.common.storebrand.no
 t-rte-api.storebrand.no
 dwh-apps.intra.storebrand.no
@@ -830,3 +829,10 @@ enterpriseenrollment.storebrand.no
 _dmarc.storebrand.no
 _h323ls._udp.storebrand.no
 supplierportal.storebrand.no
+t-ecm-monitor-ui.enterprise.storebrand.no
+eldartest2.qsdevtest.storebrand.no
+a-iib-test-suite-ws.enterprise.storebrand.no
+iib-test-suite-ws.enterprise.storebrand.no
+d-iib-test-suite-ws.enterprise.storebrand.no
+t-iib-test-suite-ws.enterprise.storebrand.no
+p-crm-archive1.common.storebrand.no

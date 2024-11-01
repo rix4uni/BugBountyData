@@ -26,7 +26,6 @@ shortlist.prod.erasmus.eduteams.org
 nagios.prod.erasmus.eduteams.org
 proxy.prod.erasmus.eduteams.org
 acc.myaccessid.eduteams.org
-eduteams.org
 prod-relay1.eduteams.org
 prod.ocre.eduteams.org
 profile.eduteams.org
@@ -45,3 +44,14 @@ ds.prod.erasmus.eduteams.org
 acc.sram.eduteams.org
 opsmonitoring.eduteams.org
 idhub-local.eduteams.org
+mdx.acc.eurofusion.eduteams.org
+tsp2.ls-aai.eduteams.org
+acc.surf-ram.eduteams.org
+proxy.acc.eurofusion.eduteams.org
+cm.acc.eurofusion.eduteams.org
+nagios.acc.eurofusion.eduteams.org
+webapp.acc.eurofusion.eduteams.org
+openstack.demo.eduteams.org
+opsnagios.acc.eurofusion.eduteams.org
+idhub.acc.eurofusion.eduteams.org
+watts.acc.eduteams.org

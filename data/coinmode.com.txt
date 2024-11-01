@@ -67,7 +67,6 @@ core-utilities-internal-metrics.internalmetrics.coinmode.com
 core-backend-image-analysis.image-analysis.coinmode.com
 le-53.coinmode.com
 core-frontend-cm-wpf-cse.cmwpfcse.coinmode.com
-coinmode.com
 blockchain-rpc.coinmode.com
 core-utilities-faucet.coinmode.com
 le-87.kyc-admin.coinmode.com
@@ -191,3 +190,17 @@ le-195.internalmetrics.coinmode.com
 discord.coinmode.com
 le-72.coinmode.com
 waiting.coinmode.com
+le-198.usernotification.coinmode.com
+core-utilities-internal-metrics-forwarder.internalmetrics.coinmode.com
+le-187.kyc3frontend.coinmode.com
+kyc3frontend.coinmode.com
+core-frontend-email-images-server.email.coinmode.com
+le-104.email.coinmode.com
+cmwpfcse.coinmode.com
+dev.coinmode.com
+dev.www.coinmode.com
+www.cmwpf.coinmode.com
+reg.coinmode.com
+mail.coinmode.com
+staging.coinmode.com
+dev.api.coinmode.com

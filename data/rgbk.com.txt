@@ -290,7 +290,6 @@ sentry.apps.np-b.openshift.rgbk.com
 regionsjotws.rgbk.com
 api.qa.p8c.rgbk.com
 ciam-qa.api.rgbk.com
-rgbk.com
 login-dev1.rgbk.com
 wpexchmail03.corp.rgbk.com
 wpahivnps02.corp.rgbk.com
@@ -578,6 +577,6 @@ rocpcert02.rgbk.com
 mysite2.rgbk.com
 crl.rgbk.com
 crl2.rgbk.com
-5551rgbk.com
-konsergbk.com
 depositfraud.rgbk.com
+fdb-ecbsv-dev.apps.np-b.openshift.rgbk.com
+fdb-ecbsv-qa.apps.np-b.openshift.rgbk.com

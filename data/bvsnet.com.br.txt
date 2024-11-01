@@ -1,4 +1,3 @@
-bvsnet.com.br
 capwebhom.bvsnet.com.br
 cms.bvsnet.com.br
 positivo.hom.bvsnet.com.br
@@ -129,3 +128,7 @@ transacional.bvsnet.com.br
 pwl-sandbox.bvsnet.com.br
 promocoes.bvsnet.com.br
 dw-api.bvsnet.com.br
+*.vivoservico.bvsnet.com.br
+*.servicos2.bvsnet.com.br
+commercial-shared-np.bvsnet.com.br
+gerenciamento-shared-dev.bvsnet.com.br

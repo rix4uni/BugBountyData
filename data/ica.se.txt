@@ -3,3 +3,10 @@ qa.handla.ica.se
 sandbox.handla.ica.se
 *.sandbox.handla.ica.se
 bica-api-prod-temp.ica.se
+mediabanken.ica.se
+profilshop.ica.se
+storecontrol.minbutik.ica.se
+poscontrol.storecontrol.minbutik.ica.se
+servicecontrol.storecontrol.minbutik.ica.se
+api.test.mediabanken.ica.se
+api.ver.mediabanken.ica.se

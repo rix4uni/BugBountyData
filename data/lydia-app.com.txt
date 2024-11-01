@@ -2,3 +2,10 @@ dev.cdn.lydia-app.com
 dev.services.lydia-app.com
 data-preprod.services.lydia-app.com
 services.lydia-app.com
+banking.lydia-app.com
+appsmith-dev.services.lydia-app.com
+preprod.banking.lydia-app.com
+appsmith-preprod.services.lydia-app.com
+openbanking.lydia-app.com
+preprod.services.lydia-app.com
+appsmith.services.lydia-app.com

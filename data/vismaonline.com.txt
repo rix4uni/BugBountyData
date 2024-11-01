@@ -339,7 +339,6 @@ creditcheck-restapi.internaltest.vismaonline.com
 creditcheck-soapapi.stage.vismaonline.com
 test.stage.vismaonline.com
 15170513.eaccounting.vismaonline.com
-vismaonline.com
 portal-api.internaltest.vismaonline.com
 vonsupporttool.stage.vismaonline.com
 elearning.internaltest.vismaonline.com
@@ -371,3 +370,4 @@ descarteswebdav.test.vismaonline.com
 auth-sandbox.test.vismaonline.com
 storage.photoservice.internaltest.vismaonline.com
 eaccountingplugins.vismaonline.com
+storage.photoservice.vismaonline.com

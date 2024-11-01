@@ -15,10 +15,15 @@ go.devskiller.com
 auth.devskiller.com
 ping.ide.devskiller.com
 docs.devskiller.com
-devskiller.com
 c.uw2.ide.devskiller.com
 eval.devskiller.com
 exam.devskiller.com
 num.devskiller.com
 wp.devskiller.com
 help.devskiller.com
+boost.devskiller.com
+stage.devskiller.com
+my-stage.devskiller.com
+click.devskiller.com
+*.devskiller.com
+*.uw2.ide.devskiller.com

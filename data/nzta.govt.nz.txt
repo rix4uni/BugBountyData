@@ -16,3 +16,7 @@ sys-paymentadmin-api.cps.nzta.govt.nz
 sys-telepay.cps.nzta.govt.nz
 sys-paymentadmin.cps.nzta.govt.nz
 sys-telepay-api.cps.nzta.govt.nz
+poc.vehiclescreening.nzta.govt.nz
+dev.permits.api.nzta.govt.nz
+tst.transact.nzta.govt.nz
+www.nzta.govt.nz

@@ -68899,7 +68899,6 @@ nlb-mcaas-prod.net.helix.gsa.gov
 iae-production.net.helix.gsa.gov
 www.r6.gsa.gov
 okta.vendors.test-eos.gsa.gov
-gsa.gov
 cs2sbwww.gsa.gov
 8astars2www.gsa.gov
 evsewww.gsa.gov
@@ -69599,3 +69598,11 @@ jihad.test-ppm.fcs.gsa.gov
 josh.test-ppm.fcs.gsa.gov
 test.sell.gsa.gov
 www.test.sell.gsa.gov
+web1.itss.gsa.gov
+e06r6m-sggtst06.gsa.gov
+grafana-loki-server.test-ppm.fcs.gsa.gov
+preprod-hrlinks.gsa.gov
+www.preprod-hrlinks.gsa.gov
+*.nex.fcs.gsa.gov
+nex.fcs.gsa.gov
+dev.myfcs.itplaybook.gsa.gov

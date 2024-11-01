@@ -234,7 +234,6 @@ ci.playfab.com
 eastus.gudge02.dev.developer.azure.playfab.com
 pubsub-prod-centralus-2106.prod.pubsub.playfab.com
 pubsub-prod-westus3-2206-02.prod.pubsub.playfab.com
-playfab.com
 catalog-dev-centralus-2305.dev.catalog.playfab.com
 upr-usj.playfab.com
 eastus2.datasvcs.dev.developer.azure.playfab.com
@@ -468,17 +467,7 @@ catalog-prod-southcentralus-2310.privatelink.prod.catalog.playfab.com
 *.inventory-prod-westus2-2407.inventory.prod.economy.playfab.com
 *.inventory.prod.economy.playfab.com
 *.inventory-prod-westus3-2407.inventory.prod.economy.playfab.com
-azureplayfab.com
 content1.prod.catalog.playfab.com
-main.azureplayfab.com
-main-01-alpha-5-b.main.azureplayfab.com
-main-01-alpha-5-c.main.azureplayfab.com
-main-01-alpha-5-a.main.azureplayfab.com
-main-01-gamma-5-b.main.azureplayfab.com
-main-01-gamma-5-a.main.azureplayfab.com
-main-01-gamma-5-c.main.azureplayfab.com
-api.main.azureplayfab.com
-d4eda.api.main.azureplayfab.com
 gs-prod-westus3-2406-02.prodpme.gsinfra.playfab.com
 catalog-prod-westus-2407.catalog.prod.economy.playfab.com
 pubsub.intpme2.lobby.playfab.com
@@ -525,3 +514,4 @@ intpme.pubsub.playfab.com
 *.inventory-prod-westus3-2406.prod.inventory.playfab.com
 *.inventory-ppe-westus2-2407.inventory.ppe.economy.playfab.com
 *.inventory.ppe.economy.playfab.com
+upr-usj.upr-usj.playfab.com

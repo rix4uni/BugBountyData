@@ -625,3 +625,17 @@ vault-external.au.cloud.talend.com
 *.vault-external.us.cloud.talend.com
 *.admin.datacatalog.int.cloud.talend.com
 *.admin.datacatalog.at.cloud.talend.com
+archive.help.talend.com
+security.talend.com
+www.talend.com
+traefik-public-security.eu.cloud.talend.com
+traefik-public-security-gloo.eu.cloud.talend.com
+app.eu.cloud.talend.com
+employeeacademy.talend.com
+controlplane.us.cloud.talend.com
+document-link.us.cloud.talend.com
+controlplane.us-west.cloud.talend.com
+document-link.eu.cloud.talend.com
+controlplane.eu.cloud.talend.com
+lab-sandbox.central.cloud.talend.com
+lab-stitch-dq.central.cloud.talend.com

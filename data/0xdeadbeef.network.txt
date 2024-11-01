@@ -2,7 +2,6 @@ irc.0xdeadbeef.network
 tor-exit.0xdeadbeef.network
 znc.0xdeadbeef.network
 sitemaps.0xdeadbeef.network
-0xdeadbeef.network
 backend.0xdeadbeef.network
 raeann.0xdeadbeef.network
 matrix.0xdeadbeef.network
@@ -11,3 +10,4 @@ dev.0xdeadbeef.network
 block-0-relay.0xdeadbeef.network
 www.0xdeadbeef.network
 app.0xdeadbeef.network
+*.0xdeadbeef.network

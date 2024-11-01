@@ -180,7 +180,6 @@ preprod.careers.transurban.com
 smtp-dc4.transurban.com
 splunk-security-posture.transurban.com
 test2.transurban.com
-transurban.com
 ten.transurban.com
 amsdev.transurban.com
 amisdev.transurban.com
@@ -251,3 +250,18 @@ nosans.transurban.com
 onesan.transurban.com
 sr14test.transurban.com
 api-uat.transurban.com
+prdnswccr.applications.transurban.com
+linktbff-pvt.transurban.com
+stage.transurban.com
+stage.cavs.transurban.com
+officeless.transurban.com
+click.transurban.com
+tdc4pcwee01.transurban.com
+stage.careers.transurban.com
+webmail.transurban.com
+webconf.transurban.com
+mail.transurban.com
+sip.transurban.com
+linktbff.transurban.com
+exttah.transurban.com
+extmah.transurban.com

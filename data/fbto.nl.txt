@@ -170,7 +170,6 @@ sip.fbto.nl
 cdn.fbto.nl
 mijn.fbto.nl
 nieuws.fbto.nl
-fbto.nl
 acc.cdn.fbto.nl
 stg.mijnzorg.fbto.nl
 acc.stg.mijnzorg.fbto.nl
@@ -218,9 +217,6 @@ prd-sitecorexc.fbto.nl
 www.community.fbto.nl
 tst3-cdn.fbto.nl
 www.welkombij.fbto.nl
-pop.wwwfbto.nl
-wwwfbto.nl
-mijnfbto.nl
 1.dev.blauwdruk.fbto.nl
 e.onderzoek.fbto.nl
 acc.identificeren.fbto.nl
@@ -268,9 +264,6 @@ chat1.fbto.nl
 db01.doz.fbto.nl
 mx2.fbto.nl
 tst.cm.www.fbto.nl
-www.scheepvaartbedrijfbto.nl
-scheepvaartbedrijfbto.nl
-www.mijnfbto.nl
 www.reisrvp.fbto.nl
 dev.mijn.fbto.nl
 dev.blauwdruk.fbto.nl
@@ -385,17 +378,3 @@ acc-onderhoud.fbto.nl
 awverify.acc-mijnzorg.fbto.nl
 awverify.acc-blauwdruk.fbto.nl
 awverify.tst-www.fbto.nl
-*.fbto.nl.admin-mcas-df.ms
-*.fbto.nl.mcas-df.ms
-*.fbto.nl.mcas.ms
-*.fbto.nl.admin-mcas.ms
-*.fbto.nl.admin-us2.cas.ms
-*.fbto.nl.admin-us.cas.ms
-*.fbto.nl.eu.cas.ms
-*.fbto.nl.us2.cas.ms
-*.fbto.nl.us3.cas.ms
-*.fbto.nl.eu2.cas.ms
-*.fbto.nl.admin-eu.cas.ms
-*.fbto.nl.admin-eu2.cas.ms
-*.fbto.nl.us.cas.ms
-*.fbto.nl.admin-us3.cas.ms

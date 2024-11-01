@@ -858,7 +858,6 @@ wildcard2.api.e1-np.sonyentertainmentnetwork.com
 wildcard.d1-np.sonyentertainmentnetwork.com
 wildcard.api.d1-pqa.sonyentertainmentnetwork.com
 wildcard.e1-pmgt.sonyentertainmentnetwork.com
-sonyentertainmentnetwork.com
 wildcard.q1-spint.sonyentertainmentnetwork.com
 wildcard.api.d1-pmgt.sonyentertainmentnetwork.com
 wildcard.e1-pqa.sonyentertainmentnetwork.com
@@ -899,7 +898,6 @@ cdn-a2.sonyentertainmentnetwork.com
 uniadmin.sonynei.net.sonyentertainmentnetwork.com
 wildcard.d1-spint.sonyentertainmentnetwork.com
 *.d1-np.sonyentertainmentnetwork.com
-account--sonyentertainmentnetwork.com
 muwebapi.sonyentertainmentnetwork.com
 support-stage.sonyentertainmentnetwork.com
 support-dev.sonyentertainmentnetwork.com
@@ -912,3 +910,4 @@ mx.b.email.sonyentertainmentnetwork.com
 nonprod.sonyentertainmentnetwork.com
 mx.ebmtest.email.sonyentertainmentnetwork.com
 porta.store.sonyentertainmentnetwork.com
+pdr.eve.sonyentertainmentnetwork.com

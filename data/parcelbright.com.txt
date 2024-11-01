@@ -8,7 +8,6 @@ cpanel.blog.parcelbright.com
 support.parcelbright.com
 claims.parcelbright.com
 admin.parcelbright.com
-parcelbright.com
 blog.parcelbright.com
 autodiscover.blog.parcelbright.com
 webdisk.blog.parcelbright.com
@@ -20,3 +19,5 @@ sandbox-admin.parcelbright.com
 beta.parcelbright.com
 developer.parcelbright.com
 import.parcelbright.com
+*.parcelbright.com
+*.sandbox.parcelbright.com

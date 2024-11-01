@@ -4,7 +4,6 @@ poczta.keraniss.pl
 fg.keraniss.pl
 nowy.keraniss.pl
 wwww.keraniss.pl
-keraniss.pl
 webmail.keraniss.pl
 imap.keraniss.pl
 pop3.keraniss.pl
@@ -15,3 +14,4 @@ mail.keraniss.pl
 plw.keraniss.pl
 www.keraniss.pl
 mta-sts.keraniss.pl
+*.keraniss.pl

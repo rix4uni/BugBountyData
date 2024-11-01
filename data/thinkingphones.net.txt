@@ -1,4 +1,3 @@
-thinkingphones.net
 sip.thinkingphones.net
 vap-bp2.sip.thinkingphones.net
 cap-bp5.sip.thinkingphones.net
@@ -175,3 +174,8 @@ cam-bp3.sip.thinkingphones.net
 plcmprov.thinkingphones.net
 hkp-bp2.sip.thinkingphones.net
 portal.thinkingphones.net
+*.tpn.thinkingphones.net
+*.qa.tpn.thinkingphones.net
+*.qtw.tpn.thinkingphones.net
+*.warden-stage.thinkingphones.net
+*.thinkingphones.net

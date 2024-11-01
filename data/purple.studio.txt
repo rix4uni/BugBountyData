@@ -2,7 +2,6 @@ onboards.core.purple.studio
 api.prod.core.purple.studio
 api.prod.senses-media.purple.studio
 api.dev.senses-media.purple.studio
-purple.studio
 api.dev.core.purple.studio
 api.dev.purple.studio
 senses.prod.purple.studio
@@ -11,3 +10,6 @@ www.purple.studio
 core.purple.studio
 dev.purple.studio
 docs.senses-media.purple.studio
+senses-media.purple.studio
+prod.senses-media.purple.studio
+prod.core.purple.studio

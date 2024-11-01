@@ -69,7 +69,6 @@ mdr-dashboard.apps.tst.eye.security
 api.integrations.eye.security
 login.eye.security
 errorproxy.portal.eye.security
-eye.security
 catch.eye.security
 www.eye.security
 *.eye.security

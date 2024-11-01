@@ -1,13 +1,3 @@
-guideflow.com
-*.guideflow.com
-edoverflow.com
-*.edoverflow.com
-dacapo.rightsflow.com
-presto.rightsflow.com
-trustcenter.guideflow.com
-goteamflow.com
-*.goteamflow.com
-guideflow-static.guideflow.com
 staging.developers.flow.com
 app.flow.com
 developers.flow.com
@@ -46,7 +36,6 @@ www.gent.flow.com
 www.masreggaeton.flow.com
 try.flow.com
 mail.flow.com
-flow.com
 cn.flow.com
 api.v1.play.flow.com
 playground.staging.flow.com
@@ -163,3 +152,5 @@ video.flow.com
 webdisk.flow.com
 sakra.flow.com
 support.flow.com
+rest-mainnet.flow.com
+access.mainnet.nodes.flow.com

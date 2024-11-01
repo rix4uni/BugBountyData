@@ -14,3 +14,11 @@ qa.app.ultra.io
 staging.ultra.io
 *.staging.ultra.io
 dev.img.ultra.io
+staging.image.ultra.io
+preprod.img.ultra.io
+api.website.staging.ultra.io
+liquidity.staging.ultra.io
+website.staging.ultra.io
+lc.dev.app.ultra.io
+webmin.dev.app.ultra.io
+*.testnet.app.ultra.io

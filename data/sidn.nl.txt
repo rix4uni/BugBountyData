@@ -748,7 +748,6 @@ ops-zonechk01-p.sidn.nl
 oxpdns1.sidn.nl
 pr.sidn.nl
 sftp.sidn.nl
-sidn.nl
 whois.sidn.nl
 app-profiler01-a.sidn.nl
 app-usmedia01-a.sidn.nl
@@ -4707,3 +4706,5 @@ newnotecenter.survey.sidn.nl
 proxy.survey.sidn.nl
 subversionhongkong.survey.sidn.nl
 vpn.survey.sidn.nl
+app-dmap11-p.sidn.nl
+trust.sidn.nl

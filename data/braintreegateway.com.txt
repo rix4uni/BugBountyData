@@ -74,7 +74,6 @@ www.qa2.braintreegateway.com
 www.sandbox.braintreegateway.com
 www.venmosdk.braintreegateway.com
 www.venmosdk.sandbox.braintreegateway.com
-braintreegateway.com
 _dmarc.braintreegateway.com
 https-sandbox.braintreegateway.com
 custom-endpoint.braintreegateway.com
@@ -93,3 +92,4 @@ munin-qwt.braintreegateway.com
 apply.sand.braintreegateway.com
 gateway-api.sandbox.braintreegateway.com
 w.braintreegateway.com
+gateway.qa.braintreegateway.com

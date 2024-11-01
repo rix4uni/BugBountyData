@@ -1,5 +1,4 @@
 bezpiecznaciaza.diag.pl
-diag.pl
 root.diag.pl
 german.diag.pl
 worker.diag.pl
@@ -125,3 +124,10 @@ rezonans-bielsko.diag.pl
 api.zamowienia.beta.diag.pl
 old.diag.pl
 www.smart.diag.pl
+wyniki-rydygier.diag.pl
+wyniki-papgen.diag.pl
+wyniki-rawicz.diag.pl
+wyniki-ilawa.diag.pl
+wyniki-bielanski.diag.pl
+wyniki-zdunowo.diag.pl
+*.diag.pl

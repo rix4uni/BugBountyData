@@ -1567,7 +1567,6 @@ events.usna.usda.gov
 199.129.36.240.usda.gov
 199.128.217.1.usda.gov
 mdwebforms02.aphis.usda.gov
-usda.gov
 199.128.216.111.usda.gov
 protracts.sc.egov.usda.gov
 199.128.217.102.usda.gov
@@ -1761,3 +1760,13 @@ www.fia.fs.usda.gov
 assetexplorer.scinet.usda.gov
 hubatlas.fas.usda.gov
 nsobs-dev.edc.usda.gov
+api.nac.fns.usda.gov
+globus-dev.fs.usda.gov
+*.globus-dev.fs.usda.gov
+ibs-stg.fs2c.usda.gov
+ucc2.scinet.usda.gov
+nsobs-test.edc.usda.gov
+search-dev.nac.fns.usda.gov
+dashboard-dev.nac.fns.usda.gov
+scinet.usda.gov
+www.scinet.usda.gov

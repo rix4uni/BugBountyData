@@ -184,7 +184,6 @@ eks-prod-hornbill-aps1.branch.io
 eks-prepared-cluster.branch.io
 eks-stage-oxpecker-usw1.branch.io
 eks-prod-blue-loon-usw1.branch.io
-branch.io
 cdn2.branch.io
 aws.branch.io
 custom.branch.io

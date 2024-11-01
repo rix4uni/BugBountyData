@@ -153,7 +153,6 @@ printerplan3.irf.se
 aerohive9.irf.se
 flux2.irf.se
 sspt.irf.se
-irf.se
 amagent.lund.irf.se
 dalin.irf.se
 arkivz.eiscat.irf.se
@@ -803,3 +802,5 @@ ima.irf.se
 kuhn-ltu.irf.se
 idpshibbolethv4.irf.se
 carp-2.irf.se
+mongrel.irf.se
+www.mongrel.irf.se

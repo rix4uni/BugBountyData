@@ -1,7 +1,6 @@
 traefik.sawyer.services
 ollama-api.sawyer.services
 registry.sawyer.services
-sawyer.services
 dashy.sawyer.services
 bitmagnet.sawyer.services
 fooocus.sawyer.services

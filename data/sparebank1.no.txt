@@ -1672,7 +1672,6 @@ orykl.gitpod-alpha.test-dataplattform.sparebank1.no
 185-127-100-37.sparebank1.no
 login.kreditt.naf.test.sparebank1.no
 test-1706257622332627001.devaws.sparebank1.no
-sparebank1.no
 185-127-100-94.sparebank1.no
 test-1636473615924828498.devaws.sparebank1.no
 gitpod-alpha.sb1u.dataplattform.sparebank1.no
@@ -2664,3 +2663,13 @@ notteroy-tonsberg.sponsorportalen.sparebank1.no
 *.ws.gitpod-alpha.dataplattform.sparebank1.no
 *.pg.clusterdev-nightly.devaws.sparebank1.no
 *.clusterdev-nightly.devaws.sparebank1.no
+*.modum.sparebank1.no
+*.nottero.sparebank1.no
+*.sponsorportalen.sparebank1.no
+satellite03.prod-int.sparebank1.no
+mwrga.gitpod-alpha.dataplattform.sparebank1.no
+satellite05.prod-int.sparebank1.no
+svc.preprod-app.prodaws.sparebank1.no
+satellite06.prod-int.sparebank1.no
+test-1730083495903823854.devaws.sparebank1.no
+vault-aws-broker.sb1u.dataplattform.sparebank1.no

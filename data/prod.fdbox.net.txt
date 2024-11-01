@@ -1,12 +1,6 @@
 playbook.data.prod.fdbox.net
-re-api-ngi-prod.fdbox.net
-re-api-prod.fdbox.net
-re-api-webhook-prod.fdbox.net
-re-approval-data-publisher-prod.fdbox.net
 www.playbook.data.prod.fdbox.net
 backup-redirectaccept-domain.prod.fdbox.net
-prod.fdbox.net
-datapreprod.fdbox.net
 academy-007-csq.156-19u.dokku.prod.fdbox.net
 web17650-csq.156-19u.dokku.prod.fdbox.net
 2012nianouzhoubeiduqiucsq.156-19u.dokku.prod.fdbox.net

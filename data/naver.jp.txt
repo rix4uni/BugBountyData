@@ -515,7 +515,6 @@ kafka.lsa.beta.naver.jp
 obs-cn.rts.line.naver.jp
 cac-dl-obs.official.line.naver.jp
 gfpw.line.naver.jp
-naver.jp
 legy-de-long.line.naver.jp
 cac-dl.stickershop.line.naver.jp
 cac-dl.profile.line.naver.jp
@@ -5587,3 +5586,6 @@ gd2u.220-cpanel.enquete.line.alpha.naver.jp
 035-v3-api-soa-int-lgecoltac-game.enquete.line.alpha.naver.jp
 18lgv3stc1-release-triauth-8080-kr03-gm2-beta3.enquete.line.alpha.naver.jp
 18dev03-clova-radiko-web-rc3.enquete.line.alpha.naver.jp
+*.beta.naver.jp
+*.line.alpha.naver.jp
+*.line.beta.naver.jp

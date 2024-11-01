@@ -5,7 +5,6 @@ br.genero.com
 graphql-cms.genero.com
 v1.genero.com
 support.genero.com
-genero.com
 meetings.genero.com
 authentication.genero.com
 mail.genero.com
@@ -19,3 +18,7 @@ dev.cdn.genero.com
 blog.genero.com
 dev-finals.cdn.genero.com
 cdn.genero.com
+v1.dev.genero.com
+dev1.genero.com
+staging.genero.com
+dev.genero.com

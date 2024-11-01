@@ -21,7 +21,6 @@ eastus.graphql.knockri.com
 graphql.knockri.com
 recruiter.knockri.com
 eastus.apply-dev.knockri.com
-knockri.com
 beta.dashboard.knockri.com
 dashboard-qa.knockri.com
 application.knockri.com
@@ -32,3 +31,18 @@ southuk.graphql.knockri.com
 apply-dev.knockri.com
 library.knockri.com
 library-dev.knockri.com
+graphql-dev.knockri.com
+beta.knockri.com
+binder.knockri.com
+logger.knockri.com
+hub.binder.knockri.com
+scheduler-dev.knockri.com
+annotation.knockri.com
+regional-logger.knockri.com
+regional.application.knockri.com
+stg-application.knockri.com
+mail1.knockri.com
+www.mail1.knockri.com
+www.mail.knockri.com
+email.knockri.com
+www.email.knockri.com

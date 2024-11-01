@@ -6,7 +6,6 @@ accounts.google.com.cu
 news.google.com.cu
 books.google.com.cu
 edu.google.com.cu
-google.com.cu
 workspace.google.com.cu
 scholar.google.com.cu
 translate.google.com.cu
@@ -22,3 +21,4 @@ toolbarqueries.google.com.cu
 cse.google.com.cu
 clients1.google.com.cu
 adservice.google.com.cu
+*.google.com.cu

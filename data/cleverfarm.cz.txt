@@ -42,7 +42,6 @@ cfd-5639-text-corrections.dev.cleverfarm.cz
 upgrade-nodejs-v18.dev.cleverfarm.cz
 cfd-5637-legislationcheck-warning.dev.cleverfarm.cz
 www.devel.dev.aws.cleverfarm.cz
-cleverfarm.cz
 cfd-6412-rest-of-the-translates.dev.cleverfarm.cz
 www.cleverfarm.cz
 cf-farm-backend.prod.cleverfarm.cz
@@ -185,3 +184,9 @@ www.app.prod.aws.cleverfarm.cz
 cf-satellite.cf-staging.dev.cleverfarm.cz
 *.cfd-6715-refactor-link.dev.cleverfarm.cz
 cfd-6715-refactor-link.dev.cleverfarm.cz
+staging.dev.aws.cleverfarm.cz
+app.prod.aws.cleverfarm.cz
+api.geolayers.vskorpil.dev.cleverfarm.cz
+www.blog.cleverfarm.cz
+*.cfd-6669-fertilizers-n-lang.dev.cleverfarm.cz
+cfd-6669-fertilizers-n-lang.dev.cleverfarm.cz

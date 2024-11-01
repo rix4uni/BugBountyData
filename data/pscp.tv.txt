@@ -319,7 +319,6 @@ prod-exp-video-us-west-2.pscp.tv
 prod-transcode-proxy-ap-northeast-1.pscp.tv
 prod-transcode-proxy-ap-southeast-1.pscp.tv
 prod-transcode-us-west-1.pscp.tv
-pscp.tv
 signer-ap-northeast-2.pscp.tv
 signer-ap-south-1.pscp.tv
 signer-ap-southeast-2.pscp.tv

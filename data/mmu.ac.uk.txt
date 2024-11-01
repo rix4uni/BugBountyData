@@ -4549,7 +4549,6 @@ ospino.ad.mmu.ac.uk
 asw-aca0104.mmu.ac.uk
 cra-valentinecopier-ipt.cre.aca.mmu.ac.uk
 lenovo-pc.mmu.ac.uk
-mmu.ac.uk
 android-4c19d940dcad1bda.mmu.ac.uk
 asc-adm3542.ad.mmu.ac.uk
 asw-aca0108.ad.mmu.ac.uk
@@ -14868,3 +14867,9 @@ h26.csh.hor.mmu.ac.uk
 h72.csh.hor.mmu.ac.uk
 n28.csh.hor.mmu.ac.uk
 al-bungalow-2950.als.adm.mmu.ac.uk
+safefutures.mmu.ac.uk
+*.dev.mmu.ac.uk
+*.qa.mmu.ac.uk
+*.uat.mmu.ac.uk
+*.bvd.mmu.ac.uk
+*.sit.mmu.ac.uk

@@ -1,1 +1,3 @@
 *.staging.dcc.dfs.de
+*.docker-rel-test.dcc.dfs.de
+*.docker-rel.dcc.dfs.de

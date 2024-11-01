@@ -34,7 +34,6 @@ silo-staging.memd.me
 services.memd.me
 portal.prod.memd.me
 cdn.memd.me
-memd.me
 doctoroncall.memd.me
 mhpform.memd.me
 portal-kill.memd.me
@@ -47,3 +46,5 @@ provider.memd.me
 www.memd.me
 jira.memd.me
 stage-portal.memd.me
+video.memd.me
+provider-next.prod.memd.me

@@ -204,7 +204,6 @@ wallet-test.zilliqa.com
 ws.zilliqa.com
 wss.devnet.zilliqa.com
 zilliqa-isolated-server-test.zilliqa.com
-zilliqa.com
 roadmap.zilliqa.com
 google.ssn.zilliqa.com
 www.roadmap.zilliqa.com
@@ -303,3 +302,4 @@ cardano-staking.seed.zilliqa.com
 bootstrap.zq2-devnet.zilliqa.com
 checkpoints.zq2-devnet.zilliqa.com
 cardano-api.seed.zilliqa.com
+checkpoints.zq2-protomainnet.zilliqa.com

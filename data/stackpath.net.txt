@@ -244,7 +244,6 @@ corero1-ssp1-usc1c-gcp.platform.stackpath.net
 full.remote.stackpath.net
 internal.dev.stackpath.net
 jira-dev.stackpath.net
-stackpath.net
 watch.stackpath.net
 west.remote.stackpath.net
 otel-staging.data.platform.stackpath.net
@@ -252,7 +251,6 @@ otel.otel-logs.log-streaming.data.dev.platform.stackpath.net
 otel.otel-logs.otel-staging.data.platform.stackpath.net
 otel.otel-replay-metrics.clickhouse.data.platform.stackpath.net
 unknown.stackpath.net
-cdnstackpath.net
 compute.stackpath.net
 otel.otel-metrics.otel-staging.data.platform.stackpath.net
 _dmarc.stackpath.net

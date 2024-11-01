@@ -52,8 +52,6 @@ tx-sentinel-ethereum-mainnet.api.cx.metamask.io
 tx-sentinel-base-mainnet.api.cx.metamask.io
 tx-sentinel-optimism-mainnet.api.cx.metamask.io
 tx-sentinel-test-subdomain.api.cx.metamask.io
-metamask.io
-secure2fa-metamask.io
 faucet.metamask.io
 community.metamask.io
 docs.metamask.io
@@ -234,3 +232,16 @@ fund-loss-investigation.metamask.io
 infuranet-faucet.metamask.io
 *.uat-api.cx.metamask.io
 www.metamask.io
+approve.card.metamask.io
+card.metamask.io
+dapp-scanning.api.cx.metamask.io
+developer.metamask.io
+signature-insights.api.cx.metamask.io
+www.dev.portfolio.metamask.io
+www.home.metamask.io
+www.portfolio.metamask.io
+www.uat-static.cx.metamask.io
+www.dev-static.cx.metamask.io
+www.stage.portfolio.metamask.io
+www.static.cx.metamask.io
+www.support.metamask.io

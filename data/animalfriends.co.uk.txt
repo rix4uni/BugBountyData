@@ -51,7 +51,6 @@ adam-cook.dev.devtest.corp.animalfriends.co.uk
 customerlogin.uat.animalfriends.co.uk
 api.ihs.dev.devtest.animalfriends.co.uk
 uat.corp.animalfriends.co.uk
-animalfriends.co.uk
 quote.ap.devtest.animalfriends.co.uk
 robert-carson.dev.devtest.corp.animalfriends.co.uk
 access02.animalfriends.co.uk
@@ -190,3 +189,5 @@ customerlogin.test.devtest.animalfriends.co.uk
 management.devtest.animalfriends.co.uk
 dev.animalfriends.co.uk
 link.animalfriends.co.uk
+redgate.test.devtest.animalfriends.co.uk
+*.dev.animalfriends.co.uk

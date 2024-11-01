@@ -95,7 +95,6 @@ hub.gainsight.com
 gsnapdb.gainsight.com
 www.gainsight.com
 eu-app.gainsight.com
-gainsight.com
 test.gainsight.com
 pulselibrary.gainsight.com
 preprod-access.gainsight.com
@@ -116,3 +115,5 @@ email.connect.gainsight.com
 insight.gainsight.com
 www.access.gainsight.com
 ds-jenkins.gainsight.com
+gslink.gsinternal.gainsight.com
+prodjenkins.gainsight.com

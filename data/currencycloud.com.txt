@@ -50,7 +50,6 @@ prod.api.currencycloud.com
 api-direct-demo.currencycloud.com
 direct-demo.currencycloud.com
 assets.currencycloud.com
-currencycloud.com
 hooks.currencycloud.com
 direct-demo1.currencycloud.com
 redirector.currencycloud.com
@@ -67,8 +66,6 @@ devapi2.currencycloud.com
 developer-staging1.currencycloud.com
 jpm-webhook.currencycloud.com
 direct-assets-demo.currencycloud.com
-thecurrencycloud.com
-jenkins-ci-nonprod.thecurrencycloud.com
 bd77fny.25508541t.currencycloud.com
 bdrc.currencycloud.com
 vpl-webhook.currencycloud.com

@@ -15,3 +15,13 @@ learn.celtra.io
 identity.celtra.io
 rvm-black.black.celtra.io
 distribution.celtra.io
+*.ai.celtra.io
+*.celtra.io
+*.black.celtra.io
+*.rvm-black.black.celtra.io
+*.uabmig.mig.celtra.io
+*.sso.us-east-1.celtra.io
+unilever.celtra.io
+cache-ssl.celtra.io
+inc.cache-ssl.celtra.io
+hub.celtra.io

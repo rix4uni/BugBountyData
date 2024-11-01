@@ -26,7 +26,6 @@ beta.fax.plus
 msoffice.fax.plus
 staging.fax.plus
 ws.fax.plus
-fax.plus
 accounts.fax.plus
 *.fax.plus
 *.mail.fax.plus
@@ -40,5 +39,5 @@ zendesk4.fax.plus
 at.orbit1.fax.plus
 cc.orbit1.fax.plus
 nn.orbit1.fax.plus
-onlinefax.plus
-*.onlinefax.plus
+new.fax.plus
+sip.fax.plus

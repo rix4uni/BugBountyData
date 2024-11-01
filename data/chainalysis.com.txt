@@ -139,7 +139,6 @@ input42.siem-prod.e.chainalysis.com
 demixer.beta.chainalysis.com
 darius.chainalysis.com
 rupture.chainalysis.com
-chainalysis.com
 docs.markets.chainalysis.com
 chris.chainalysis.com
 input42-prod.siem-prod.e.chainalysis.com
@@ -191,3 +190,8 @@ riesling-public-api.reactor-dev.e.chainalysis.com
 riesling-api.reactor-dev.e.chainalysis.com
 *.kyt-dev.e.chainalysis.com
 kyt-dev.e.chainalysis.com
+download.pac-dev.e.chainalysis.com
+us-download-internal.pac-dev.e.chainalysis.com
+dev.chainalysis.com
+*.dev.chainalysis.com
+frspofforth.chainalysis.com

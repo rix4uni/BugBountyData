@@ -133,7 +133,6 @@ lf.thedigitalacademy.tech.gov.sg
 public.uat.data.tech.gov.sg
 www.api.developer.tech.gov.sg
 dev.console.dev.developer.tech.gov.sg
-tech.gov.sg
 api.console.dev.developer.tech.gov.sg
 www.developer.tech.gov.sg
 aibots-api.private.data.tech.gov.sg
@@ -237,3 +236,5 @@ cio-api-intra.data.tech.gov.sg
 *.data.tech.gov.sg
 ollama.dev.gto.tech.gov.sg
 cioo-inter-alb.data.tech.gov.sg
+ollamaplus.dev.gto.tech.gov.sg
+*.developer.tech.gov.sg

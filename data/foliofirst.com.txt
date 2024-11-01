@@ -1,4 +1,3 @@
-foliofirst.com
 blog.foliofirst.com
 eapidentity.foliofirst.com
 eapoauth.foliofirst.com
@@ -11,3 +10,5 @@ verification.foliofirst.com
 www.foliofirst.com
 api.prodaws.foliofirst.com
 dapaws.foliofirst.com
+*.prodaws.foliofirst.com
+*.foliofirst.com

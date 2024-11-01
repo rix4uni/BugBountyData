@@ -126,7 +126,6 @@ leichtbau.dlr.de
 rms.dlr.de
 sso-dev.eoc.dlr.de
 mdm.dlr.de
-dlr.de
 pivcourse.dlr.de
 ns2.dlr.de
 ftp.dlr.de
@@ -3492,3 +3491,12 @@ dldeffmimp31exc.intra.dlr.de
 eoc-mid-0010-vm.eoc.dlr.de
 vpn-mgmt02.intra.dlr.de
 ts-vcenter-ba.intra.dlr.de
+dlrbwit08.intra.dlr.de
+vt-vml10.intra.dlr.de
+pm.la.dlr.de
+edpdev.eoc.dlr.de
+eodatadev.eoc.dlr.de
+gs-dev.eoc.dlr.de
+geodev.eoc.dlr.de
+geoservice-dev.eoc.dlr.de
+*.artifactory.gsoc.dlr.de

@@ -392,7 +392,6 @@ login-beta.mercadolibre.com
 login-test.mercadolibre.com
 mailem.mercadolibre.com
 matt.mercadolibre.com
-mercadolibre.com
 mytime.mercadolibre.com
 nginx.s1-pub-prd.mercadolibre.com
 nginx.s2-pub-prd.mercadolibre.com
@@ -595,12 +594,6 @@ centrodepartners.mercadolibre.com
 telefonos.mercadolibre.com
 helpdesk.mercadolibre.com
 pmsapp.mercadolibre.com
-sustentabilidadmercadolibre.com
-plantillasparamercadolibre.com
-supermercadolibre.com
-info-mercadolibre.com
-1mercadolibre.com
-alliancemercadolibre.com
 sg.mercadolibre.com
 ptr1968.sg.mercadolibre.com
 ptr7196.sg.mercadolibre.com
@@ -617,3 +610,15 @@ ptr1434.sg.mercadolibre.com
 ptr5525.mercadolibre.com
 ptr7609.mercadolibre.com
 training.mercadolibre.com
+www.investor.mercadolibre.com
+www.soap.mercadolibre.com
+*.nginx.s1-int-prd.mercadolibre.com
+*.ucs.orion-dev.mercadolibre.com
+*.nginx.m-int-dev.mercadolibre.com
+*.prodeng-overvpn.mercadolibre.com
+*.test-marcos3.mercadolibre.com
+*.test-marcos2.mercadolibre.com
+*.api.mercadolibre.com
+carro.mercadolibre.com
+5w34p17ade.mercadolibre.com
+2fwww.mercadolibre.com

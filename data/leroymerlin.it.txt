@@ -1,9 +1,5 @@
 oavtende.cloud.leroymerlin.it
 contaflow.cloud.leroymerlin.it
-*.leroymerlin.it.mcas.ms
-*.leroymerlin.it.mcas-df.ms
-*.leroymerlin.it.admin-mcas.ms
-*.leroymerlin.it.admin-mcas-df.ms
 *.cloud.leroymerlin.it
 *.dev.cloud.leroymerlin.it
 *.test.cloud.leroymerlin.it
@@ -13,10 +9,6 @@ www.loyaltystoreselector.cloud.leroymerlin.it
 oavbagno.cloud.leroymerlin.it
 pdv-backoffice-test.cloud.leroymerlin.it
 internoconvergente.cloud.leroymerlin.it
-*.crm.leroymerlin.it.admin-mcas-df.ms
-*.crm.leroymerlin.it.mcas.ms
-*.crm.leroymerlin.it.admin-mcas.ms
-*.crm.leroymerlin.it.mcas-df.ms
 gestionebadge.cloud.leroymerlin.it
 nuovegamme.cloud.leroymerlin.it
 ecosign.cloud.leroymerlin.it
@@ -51,7 +43,6 @@ backend-simulatore-colore-pareti-prep.leroymerlin.it
 code.leroymerlin.it
 moduloresi.test.cloud.leroymerlin.it
 roomcheckin.test.cloud.leroymerlin.it
-leroymerlin.itroom.fr
 gestioneposizioni.cloud.leroymerlin.it
 authentication.leroymerlin.it
 idea-piu-unsubscribe.cloud.leroymerlin.it
@@ -91,7 +82,6 @@ links.cloud.leroymerlin.it
 opus.leroymerlin.it
 www.leroymerlin.it
 ccdp.leroymerlin.it
-leroymerlin.it
 pdv.cloud.leroymerlin.it
 fastpickup.cloud.leroymerlin.it
 oaamobilibagno.prod.cloud.leroymerlin.it
@@ -117,7 +107,6 @@ checkrotture.cloud.leroymerlin.it
 agfiscali-caf.dev.cloud.leroymerlin.it
 agfiscali-ping.dev.cloud.leroymerlin.it
 productslocalization-api.cloud.leroymerlin.it
-recette-leroymerlin.itroom.fr
 filaunica-api-test.cloud.leroymerlin.it
 agevolazionifiscalicliente.cloud.leroymerlin.it
 ascoltocliente.leroymerlin.it
@@ -128,7 +117,6 @@ girosicurezza.cloud.leroymerlin.it
 portaleb2x.cloud.leroymerlin.it
 checkrotture-test.cloud.leroymerlin.it
 inventory.cloud.leroymerlin.it
-gateway-leroymerlin.itroom.fr
 ccdp.prep.leroymerlin.it
 ccdp.sit.leroymerlin.it
 yarc.leroymerlin.it
@@ -158,9 +146,6 @@ www.recensioni.leroymerlin.it
 *.webios.pre.cloud.leroymerlin.it
 *.webios.test.cloud.leroymerlin.it
 *.pub.mobile.cloud.leroymerlin.it
-*.leroymerlin.it.mcas-df-gov.us
-*.leroymerlin.it.mcas-gov.us
-*.leroymerlin.it.admin-mcas-gov.us
 simulatore-colore-pareti.leroymerlin.it
 backend-simulatore-colore-pareti.leroymerlin.it
 community.leroymerlin.it
@@ -174,16 +159,6 @@ trova.leroymerlin.it
 gestionecode.cloud.leroymerlin.it
 bucket-care-chatbot-uat.ccdp.uat.leroymerlin.it
 www.ccdp.prep.leroymerlin.it
-*.leroymerlin.it.us2.cas.ms
-*.leroymerlin.it.admin-eu.cas.ms
-*.leroymerlin.it.eu2.cas.ms
-*.leroymerlin.it.eu.cas.ms
-*.leroymerlin.it.us3.cas.ms
-*.leroymerlin.it.admin-us.cas.ms
-*.leroymerlin.it.admin-us2.cas.ms
-*.leroymerlin.it.admin-us3.cas.ms
-*.leroymerlin.it.us.cas.ms
-*.leroymerlin.it.admin-eu2.cas.ms
 dev.cloud.leroymerlin.it
 test.cloud.leroymerlin.it
 prd.cloud.leroymerlin.it
@@ -209,3 +184,4 @@ services.leroymerlin.it
 medias.leroymerlin.it
 mailportal.leroymerlin.it
 square.leroymerlin.it
+gestionebadge-api.test.cloud.leroymerlin.it

@@ -48,7 +48,6 @@ aws.build.phonegap.com
 slot-thailand.phonegap.com
 mediterranean.phonegap.com
 aws.phonegap.com
-phonegap.com
 afw.d18.dev.phonegap.com
 www.brahmatemple.phonegap.com
 www.econ-dc3.phonegap.com
@@ -64,15 +63,6 @@ bloomberglpblogfoxriver.phonegap.com
 *.build.phonegap.com
 *.aws.build.phonegap.com
 *.aws.phonegap.com
-admob-phonegap.com
-www.admob-phonegap.com
-webmail.iphonegap.com
-autodiscover.iphonegap.com
-cpanel.iphonegap.com
-mail.iphonegap.com
-iphonegap.com
-webdisk.iphonegap.com
-www.iphonegap.com
 stage.docs.build.phonegap.com
 2fbuild.phonegap.com
 stage.phonegap.com
@@ -93,3 +83,4 @@ git.phonegap.com
 meetup.phonegap.com
 www.build.phonegap.com
 buildstage.phonegap.com
+2fcommunity.phonegap.com

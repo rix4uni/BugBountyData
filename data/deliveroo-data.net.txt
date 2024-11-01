@@ -18,7 +18,6 @@ snowstorm.deliveroo-data.net
 jenkins-canoe-production-tst.deliveroo-data.net
 routemaster-pubsub-metrics.deliveroo-data.net
 status.deliveroo-data.net
-deliveroo-data.net
 *.deliveroo-data.net
 malting-traffic.deliveroo-data.net
 franz-docs.deliveroo-data.net

@@ -87,7 +87,6 @@ api.tssserversage.us-east-1.production.cbhq.net
 -train.cbhq.net
 tfe.us-east-1.production.cbhq.net
 tssbackend.use-east-1.production.cbhq.net
-cbhq.net
 sso.cbhq.net
 npm.cbhq.net
 sherlock-bpo.cbhq.net
@@ -162,10 +161,6 @@ cdp-web-staging.cbhq.net
 accounts-dev.cbhq.net
 contentful-dev.cbhq.net
 onboarding-staging.cbhq.net
-acbhq.net
-www.acbhq.net
-bcbhq.net
-www.bcbhq.net
 base-goerli-alpha-explorer.cbhq.net
 base-mainnet.cbhq.net
 base-sepolia-alpha.cbhq.net

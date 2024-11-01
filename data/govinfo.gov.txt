@@ -9,3 +9,6 @@ dctm.stage.govinfo.gov
 int.govinfo.gov
 ns2.govinfo.gov
 dctm.qa.govinfo.gov
+www.govinfo.gov
+*.analytics.govinfo.gov
+*.govinfo.gov

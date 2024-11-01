@@ -5,7 +5,6 @@ alerts.eu.newrelic.com
 api.eu.newrelic.com
 cf-infrastructure-command-api.eu.newrelic.com
 cloud-collector.eu.newrelic.com
-eu.newrelic.com
 eu.newrelic.com-tls10.eu.newrelic.com
 eu.newrelic.com-tls12.eu.newrelic.com
 httptools-non-sni.eu.newrelic.com

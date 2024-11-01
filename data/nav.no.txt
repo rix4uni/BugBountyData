@@ -40,7 +40,6 @@ sentry-enonic.gc.nav.no
 nhn-gw-t.nav.no
 453.51www.nav.no
 superset.dev.intern.nav.no
-nav.no
 api-portal.nav.no
 ztp.gc.nav.no
 vcse-cluster2.nav.no
@@ -311,3 +310,18 @@ hub.jetbrains.gc.nav.no
 zentral.gc.nav.no
 pexmgr.dev.nav.no
 lyncdiscover.nav.no
+videomote.nav.no
+pexconf01.videomote.nav.no
+pexconf02.videomote.nav.no
+pexconf03.videomote.nav.no
+pexconf04.videomote.nav.no
+pexconf05.videomote.nav.no
+pexconf06.videomote.nav.no
+pexedge01.videomote.nav.no
+pexedge02.videomote.nav.no
+pexedge03.videomote.nav.no
+pexedge04.videomote.nav.no
+pexedge05.videomote.nav.no
+pexedge06.videomote.nav.no
+pexmgr.videomote.nav.no
+*.nav.no

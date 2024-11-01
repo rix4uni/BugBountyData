@@ -606,7 +606,6 @@ api-76f5f766.duosecurity.com
 api-4104af0d.duosecurity.com
 admin-0b236bb6.duosecurity.com
 admin-02eadb06.duosecurity.com
-duosecurity.com
 api-20cbdefd.duosecurity.com
 admin-d9c5afcf.duosecurity.com
 admin-fa64fe2c.duosecurity.com
@@ -643,3 +642,6 @@ admin-30466303.duosecurity.com
 admin-91144fdc.duosecurity.com
 admin-ca5f8a41.duosecurity.com
 test.sharedsignals.duosecurity.com
+*.demo.login.duosecurity.com
+*.demo.sso.duosecurity.com
+redirect-first.test.duosecurity.com

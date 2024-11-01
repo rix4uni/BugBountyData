@@ -330,7 +330,6 @@ upflow-email.datadome.co
 bot-tester.sdbx-tr.datadome.co
 spongebobrecoveryeu-backend.eu-west-3.tooling.datadome.co
 spongebobrecoeu-backend.eu-west-3.tooling.datadome.co
-datadome.co
 ddbm2.paypal.com.first-party-js.datadome.co
 dd.g2.com.first-party-js.datadome.co
 fr.first-party-js.datadome.co
@@ -572,3 +571,7 @@ chargepoint.com.first-party-js.datadome.co
 ext.sezane.com.first-party-js.datadome.co
 sezane.com.first-party-js.datadome.co
 *.sdbx-dashboard.datadome.co
+sdbx-dashboard.datadome.co
+dev-es-datalake-us-monitoring-us-west-2.staging.datadome.co
+auth-staging.datadome.co
+dd.seloger-bureaux-commerces.com.first-party-js.datadome.co

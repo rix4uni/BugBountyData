@@ -16,5 +16,5 @@ images.process.st
 mail.process.st
 www.process.st
 get.process.st
-process.st
 community.process.st
+*.process.st

@@ -47,3 +47,4 @@ postman.10xbanking.com
 events.sandbox.10xbanking.com
 staging-conf.10xbanking.com
 trust.10xbanking.com
+*.external-hook.sandbox-dev.10xbanking.com

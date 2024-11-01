@@ -1,0 +1,15 @@
+customer.api.nab
+employee.api.nab
+intermediary.api.nab
+open.api.nab
+partner.api.nab
+sandbox.api.nab
+staging-customer.api.nab
+staging-employee.api.nab
+staging-intermediary.api.nab
+staging-open.api.nab
+staging-partner.api.nab
+staging-sandbox.api.nab
+pilot.api.nab
+sit.api.nab
+staging-pilot.api.nab

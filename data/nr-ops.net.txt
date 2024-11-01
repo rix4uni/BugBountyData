@@ -1,4 +1,3 @@
-nr-ops.net
 awsdev.nr-ops.net
 us.nr-ops.net
 cell.us.nr-ops.net
@@ -2037,3 +2036,15 @@ us-cromulent-word.cell.us.nr-ops.net
 *.stg-wild-animal.cell.us.nr-ops.net
 *.eu-bander-snatch.cell.eu.nr-ops.net
 *.eu-silly-club.cell.eu.nr-ops.net
+*.us-tasty-fry.cell.us.nr-ops.net
+*.stg-new-job.cell.us.nr-ops.net
+*.stg-big-metric.cell.us.nr-ops.net
+*.stg-thin-clerk.cell.us.nr-ops.net
+*.stg-graphic-design.cell.us.nr-ops.net
+*.us-drop-bear.cell.us.nr-ops.net
+*.stg-strange-ways.cell.us.nr-ops.net
+*.kafka.stg-big-metric.cell.us.nr-ops.net
+*.us-public-opinion.cell.us.nr-ops.net
+*.eu-glass-king.cell.eu.nr-ops.net
+kafka.test-long-sprint.cell.us.nr-ops.net
+stg-big-metric.cell.us.nr-ops.net

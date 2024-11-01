@@ -211,7 +211,6 @@ vpn-gw-chn.wago.com
 gigya.configurator.wago.com
 template-event-info-site.events.wago.com
 traefik-dev.solutions-platform.wago.com
-wago.com
 eas.wago.com
 217-6-107-124.wago.com
 gm-mqtt-qa.solutions-platform.wago.com
@@ -307,3 +306,5 @@ mail.wago.com
 uat.wago.com
 innotrans-gettogether.events.wago.com
 www.innotrans-networking.events.wago.com
+admin.dti-poc.wago.com
+viewer.dti-poc.wago.com

@@ -1135,7 +1135,6 @@ tst1ircbt01.cloud.tyk.io
 tst37-ecms.cloud.tyk.io
 tur-copsfont-private.cloud.tyk.io
 tyk.cloud.tyk.io
-tyk.io
 ua-test-vm.cloud.tyk.io
 uat-0.cloud.tyk.io
 ubit-teamcity-iag.cloud.tyk.io
@@ -4598,9 +4597,6 @@ obedient-postage-adm.aws-use1.cloud-ara.tyk.io
 star2star-communications.cloud.tyk.io
 zcabrokerd.cloud.tyk.io
 *.aws-apse2.cloud-ara.tyk.io
-cryptyk.io
-potyk.io
-beautyk.io
 international-hamster-gw.aws-apse1.cloud-ara.tyk.io
 hello.tyk.io
 customers.tyk.io

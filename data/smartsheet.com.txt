@@ -3914,7 +3914,6 @@ slzg5.bridge.smartsheet.com
 smart-glc-4.bridge.smartsheet.com
 smart-mountaineer-8.bridge.smartsheet.com
 smart-v70-5.bridge.smartsheet.com
-smartsheet.com
 smartworld.bridge.smartsheet.com
 smoke.bridge.smartsheet.com
 smsu.bridge.smartsheet.com
@@ -11024,8 +11023,9 @@ exch021.smartsheet.com
 extwsd.smartsheet.com
 bell-mbp-sdavid.smartsheet.com
 cedar.smartsheet.com
-to-smartsheet.com
 box.lab.smartsheet.com
 *.calendar.test.smartsheet.com
 calendar.test.smartsheet.com
 *.asset-preview.smartsheet.com
+hello.smartsheet.com
+saml-group-2.authn.smartsheet.com

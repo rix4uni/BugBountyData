@@ -1,4 +1,3 @@
-voipgrid.nl
 wiki.voipgrid.nl
 sig.voipgrid.nl
 tc2.voipgrid.nl
@@ -554,3 +553,6 @@ test2-test.voipgrid.nl
 ua7-grq-prd.voipgrid.nl
 nats2-ede-dev3.voipgrid.nl
 salt-master-dev5.voipgrid.nl
+wpdev.voipgrid.nl
+stun.voipgrid.nl
+dbweb1-grq.voipgrid.nl

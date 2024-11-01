@@ -1,5 +1,4 @@
 www2.trellia.com
-trellia.com
 www.intranet.trellia.com
 www.trellia.com
 intranet.trellia.com
@@ -13,3 +12,4 @@ support.trellia.com
 beta.trellia.com
 _udp.trellia.com
 _tcp.trellia.com
+*.trellia.com

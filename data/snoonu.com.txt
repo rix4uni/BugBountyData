@@ -1,6 +1,5 @@
 portal.snoonu.com
 www.snoonu.com
-snoonu.com
 apps.snoonu.com
 snoomart.snoonu.com
 sandbox-wallet.snoonu.com
@@ -147,3 +146,7 @@ dev-rudderstack.snoonu.com
 bz282.info.snoonu.com
 reborn-test.snoonu.com
 staging1-driver.snoonu.com
+ds-stg.internal.snoonu.com
+staging1-fleet-be.snoonu.com
+ds-stg.snoonu.com
+ds.snoonu.com

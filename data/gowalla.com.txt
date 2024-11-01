@@ -1,7 +1,6 @@
 www.gowalla.com
 api.gowalla.com
 blog.gowalla.com
-gowalla.com
 basedash.gowalla.com
 www.ws.gowalla.com
 hello.gowalla.com
@@ -87,3 +86,4 @@ kbstatic.gowalla.com
 mail.gowalla.com
 hapi.gowalla.com
 developers.gowalla.com
+*.gowalla.com

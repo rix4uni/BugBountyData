@@ -342,7 +342,6 @@ stagingcs1.mashery.com
 prod-j-worker-us-west-1b-64.mashery.com
 proxyworker-i-ea2da683.mashery.com
 cnn-12-3.tm.mashery.com
-mashery.com
 stagingcs12.api.mashery.com
 emusic.mashery.com
 smartfm.mashery.com
@@ -1714,3 +1713,4 @@ collegeboard-api-qa.api.mashery.com
 mashery-tm-us-east-1.mashery.com
 neustar-west.mashery.com
 lulu.mashery.com
+ptl-developer-bloomingdales.ptl.use1.mashery.com

@@ -71,7 +71,6 @@ custom-virtual2.gevme.com
 custom-virtual.gevme.com
 www.gevme.com
 custom.gevme.com
-gevme.com
 survey-dev.gevme.com
 auth.gevme.com
 bi.gevme.com
@@ -108,3 +107,19 @@ www.gems.gevme.com
 pre-prod.gevme.com
 dashboard.gevme.com
 mom-dev.gevme.com
+company-reports.gevme.com
+xpleads.gevme.com
+kiosk-op.crowdflow.gevme.com
+api-op.crowdflow.gevme.com
+bex-asia-2014-visitor-registration.gevme.com
+design-interiors-2014-visitor-registration.gevme.com
+*.gevme.com
+*.web.gevme.com
+*.offers.gevme.com
+*.she-home.gevme.com
+*.crowdflow.gevme.com
+*.gems.gevme.com
+*.stagingweb.gevme.com
+*.my.gevme.com
+*.academy.gevme.com
+*.printserver.gevme.com

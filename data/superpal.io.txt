@@ -113,7 +113,6 @@ error-smasher-jupyter.superpal.io
 cronjobs.superpal.io
 test-template.superpal.io
 example.superpal.io
-superpal.io
 error-metrics-metabase.engineering.superpal.io
 chirimoya-ui-kit-storybook.engineering.superpal.io
 api-stress.catalog-uber.superpal.io

@@ -422,3 +422,9 @@ apps.baxter.com
 my.baxter.com
 gcp.baxter.com
 *.gcp.baxter.com
+*.hub.baxter.com
+hub.baxter.com
+voalte-insight.baxter.com
+*.voalte-insight.baxter.com
+ucc.baxter.com
+*.ucc.baxter.com

@@ -30,8 +30,6 @@ webportal.fonic.de
 ws.fonic.de
 www.fonic.de
 www.lidl.fonic.de
-fonic.de
-flashfonic.de
 login-ciam-dev.fonic.de
 login-ciam-e2e1.fonic.de
 smetrics.fonic.de
@@ -60,3 +58,4 @@ api-e2e1.fonic.de
 api-e2e2.fonic.de
 auth-e2e2.fonic.de
 auth-lrt.fonic.de
+login-ciam-nfr.fonic.de

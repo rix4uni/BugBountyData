@@ -519,7 +519,6 @@ pin-mgp2020-stage.nrk.no
 radio.n637830.clients.dev.nrk.no
 neon-smarttv.m07039.clients.dev.nrk.no
 nora-stage.nrk.no
-nrk.no
 felt.nrk.no
 personalised-pages-stage.nrk.no
 profilesettings-test.nrk.no
@@ -1473,3 +1472,6 @@ reverse.nrk.no
 backend-fido-feature.kube.nrk.no
 test-helsesjekken.int.nrk.no
 test-helsesjekken-int.int.nrk.no
+dh-int-stage.nrk.no
+lyd-redirect.nrk.no
+lyd-preprod.nrk.no

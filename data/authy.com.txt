@@ -69,7 +69,6 @@ vmware.authy.com
 vmware-staging.authy.com
 www.authy.com
 assets-dev.authy.com
-authy.com
 callcenter.authy.com
 dev.authy.com
 forms-staging.authy.com
@@ -95,6 +94,7 @@ quest-stage.authy.com
 dlrs-dev.authy.com
 com.authy.com
 pre-prod.authy.com
-mostauthy.com
-colabauthy.com
-spauthy.com
+www.dev.authy.com
+www.stage.authy.com
+www.preview.authy.com
+preview.authy.com

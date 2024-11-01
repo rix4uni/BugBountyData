@@ -767,3 +767,7 @@ social.bazaarvoice.com
 backstage-pr-112.qa.bazaarvoice.com
 *.sandbox.us-east-1.nexus.bazaarvoice.com
 sit-components.prod.bazaarvoice.com
+*.us-east-1a.bosun.sandbox.bazaarvoice.com
+backstage-pr-111.qa.bazaarvoice.com
+content-search-staging.us-east-1a.bosun.prod.bazaarvoice.com
+backstage-pr-114.qa.bazaarvoice.com

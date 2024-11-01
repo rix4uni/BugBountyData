@@ -44,7 +44,6 @@ preprod.api.claims.ftx.com
 africa.ftx.com
 preprod.api.staging.claims.ftx.com
 api.tax.claims.ftx.com
-ftx.com
 com.api.staging.claims.ftx.com
 liquid.backend.staging.claims.ftx.com
 fix.ftx.com
@@ -66,3 +65,6 @@ www.ftx.com
 _dmarc.ftx.com
 test.ftx.com
 loc.ftx.com
+clicks.ftx.com
+api.ftx.com
+auth0cdn.ftx.com

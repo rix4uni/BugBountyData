@@ -1624,7 +1624,6 @@ api-nonrev-landing-page.southwest.com
 api-nonrev-landing-page.ptest2.qa.southwest.com
 sso.awsuse1.hooli0.hooli.dev.aws.southwest.com
 www.api-car-reservations.qa4.southwest.com
-southwest.com
 fsm.southwest.com
 api-mobile-air-shopping.sdc.southwest.com
 sc.southwest.com
@@ -1648,3 +1647,8 @@ www.swaalumni.southwest.com
 www.swaalumniqa.southwest.com
 www.swaalumnidev.southwest.com
 www.swaalumniuat.southwest.com
+jwks-csidev0-useast1.tok.jwks-dev.dev.southwest.com
+api.csidev0.tok.jwks-dev.dev.southwest.com
+csidev0.tok.jwks-dev.dev.southwest.com
+jwksapi.csidev0.tok.jwks-dev.dev.southwest.com
+api.jwks-csidev0-useast1.tok.jwks-dev.dev.southwest.com

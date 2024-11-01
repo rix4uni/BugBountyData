@@ -4,7 +4,15 @@ admin.deliveroo.fr
 foodscene.deliveroo.fr
 test.deliveroo.fr
 riders.deliveroo.fr
-deliveroo.fr
 *.staging.deliveroo.fr
 *.deliveroo.fr
 *.sandbox.deliveroo.fr
+crowdstrike.labaguette.commande.deliveroo.fr
+careers-staging.deliveroo.fr
+dtm.deliveroo.fr
+staging.deliveroo.fr
+sandbox.deliveroo.fr
+_sipfederationtls._tcp.announce.deliveroo.fr
+futurefood.deliveroo.fr
+cdn0.deliveroo.fr
+www.deliveroo.fr

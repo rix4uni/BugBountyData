@@ -1,4 +1,3 @@
-ed.gov
 www.ed.gov
 www2.ed.gov
 dr.msix.ed.gov
@@ -2174,3 +2173,20 @@ ept1-dva.ftim.ed.gov
 free1.ed.gov
 stage.empn.ed.gov
 test-share.ed.gov
+test1-api-backend.ftim.ed.gov
+*.ed.gov
+spf3.ed.gov
+sip.ed.gov
+allos010fsa.ed.gov
+hbcuweek.ed.gov
+proxy-edit.app.fsapartners.ed.gov
+lyncdiscover.ed.gov
+members.ed.gov
+ftp.eric.ed.gov
+mail.naep.ed.gov
+eduptcfwl01.ed.gov
+proxy-web.app.nsldstraining.ed.gov
+mail.app.fsapartners.ed.gov
+eolacc.fafsacm.ed.gov
+proxy-prod-api.api.fsapartners.ed.gov
+lb-drupal-edit.app.fsapartners.ed.gov

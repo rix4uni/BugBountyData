@@ -3761,7 +3761,6 @@ savethechildren.secproxy-dev.sc-corp.net
 sb-ptws.secproxy-dev.sc-corp.net
 sb20.secproxy-dev.sc-corp.net
 sbox.secproxy-dev.sc-corp.net
-sc-corp.net
 sc3-chart-1.secproxy-dev.sc-corp.net
 sc3-chart-1.vellum-stg.sc-corp.net
 scf.secproxy-dev.sc-corp.net
@@ -7693,3 +7692,4 @@ com.sc-corp.net
 135-207-249-22.secproxy-dev.sc-corp.net
 acc.3.vellum-stg.sc-corp.net
 users.2.vellum-stg.sc-corp.net
+engflow-cache-gcp-prod.sc-corp.net

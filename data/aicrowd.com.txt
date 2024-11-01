@@ -1,1 +1,3 @@
 argocd.aws-internal.k8s.aicrowd.com
+cli-error-reporter.aws-internal.k8s.aicrowd.com
+cli-error-reporter.aicrowd.com

@@ -220,7 +220,6 @@ rpc.status.im
 search.status.im
 serenity-testnets.status.im
 simpledapp.status.im
-status.im
 superset.bi.status.im
 telemetry.status.im
 token.status.im
@@ -353,7 +352,6 @@ canary.status.im
 _metrics.status.im
 vm.status.im
 sandbox.waku.nodes.status.im
-serverstatus.im
 store-02.do-ams3.status.prod.status.im
 store-01.do-ams3.status.prod.status.im
 store-01.ac-cn-hongkong-c.status.prod.status.im
@@ -363,3 +361,4 @@ boot-01.gc-us-central1-a.status.prod.status.im
 store-02.gc-us-central1-a.status.prod.status.im
 store-01.gc-us-central1-a.status.prod.status.im
 boot-01.do-ams3.status.prod.status.im
+node-01.do-ams3.dokku.misc.status.im

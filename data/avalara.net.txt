@@ -887,7 +887,6 @@ worksheet.avalara.net
 www.avalara.net
 dev.avalara.net
 www.registrations-uat.avalara.net
-avalara.net
 restrictions.classification.avalara.net
 test.afcprosoapsbx.avalara.net
 content.email.avalara.net
@@ -955,8 +954,6 @@ elr-simplified.registrations-qa.avalara.net
 registration-enabler-component.registrations-qa.avalara.net
 avalara-award.registrations-dev.avalara.net
 *.si-perf.vat.avalara.net
-developmentavalara.net
-*.developmentavalara.net
 *.rr.vr.avalara.net
 *.dev.vat.avalara.net
 *.orl-dev.registrations-dev.avalara.net
@@ -981,3 +978,14 @@ elr-simplified.registrations-sbx.avalara.net
 elr-simplified.registrations-eu.avalara.net
 reg-enabler-component.registrations-dev.avalara.net
 reg-enabler-component.registrations-qa.avalara.net
+center.cloudconnect.avalara.net
+restrictions-sandbox.classification.avalara.net
+developer.avalara.net
+quoting-sandbox.classification.avalara.net
+psd.avalara.net
+services.c.qa.avalara.net
+api-sandbox.classification.avalara.net
+quoting.classification.avalara.net
+subdomain.avalara.net
+api-production.classification.avalara.net
+api.classification.avalara.net

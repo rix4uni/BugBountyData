@@ -350,7 +350,6 @@ tempo-ingest.preprod.internal.exoscale.ch
 quickwit.preprod.internal.exoscale.ch
 harbor.internal.exoscale.ch
 blobd-orchestrator-block.gva2-preprod.internal.exoscale.ch
-internal.exoscale.ch
 tempo-metrics-generator.preprod.internal.exoscale.ch
 blobd-orchestrator-sos.fra1.internal.exoscale.ch
 geoip.gva2.internal.exoscale.ch
@@ -388,3 +387,17 @@ victoriametrics.preprod.internal.exoscale.ch
 jaeger-query.gva2-preprod.internal.exoscale.ch
 quickwit.vie1.internal.exoscale.ch
 blob-ui-sos.vie1.internal.exoscale.ch
+cloud-assess.internal.exoscale.ch
+riemann-dash.internal.exoscale.ch
+ppalert.internal.exoscale.ch
+logs.internal.exoscale.ch
+graph.internal.exoscale.ch
+internal-gv2.internal.exoscale.ch
+control.internal.exoscale.ch
+registry.internal.exoscale.ch
+blobd-orchestrator-block.zrh1.internal.exoscale.ch
+blob-ui-sos.gva2.internal.exoscale.ch
+quickwit-indexer.preprod.internal.exoscale.ch
+vm.gva2-preprod.internal.exoscale.ch
+vm.preprod.internal.exoscale.ch
+block-blobd-orchestrator.gva2-preprod.internal.exoscale.ch

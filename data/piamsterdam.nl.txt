@@ -1,14 +1,4 @@
 www.piamsterdam.nl
-thuiswerken.cpiamsterdam.nl
-cpiamsterdam.nl
-www.cpiamsterdam.nl
-*.topkapiamsterdam.nl
-topkapiamsterdam.nl
-ww2.cpiamsterdam.nl
-amsterdam.cpiamsterdam.nl
-www.amsterdam.cpiamsterdam.nl
-mail.cpiamsterdam.nl
-www.mail.cpiamsterdam.nl
 _x-puppet._tcp.piamsterdam.nl
 _kftp._udp.piamsterdam.nl
 _msft-gc-ssl._udp.piamsterdam.nl
@@ -25,4 +15,3 @@ _ldaps._tcp.piamsterdam.nl
 dfsugn81ql8y5qtfp73mey.piamsterdam.nl
 _sips._tcp.piamsterdam.nl
 _stun-p1._tcp.piamsterdam.nl
-piamsterdam.nl

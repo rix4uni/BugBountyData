@@ -301,7 +301,6 @@ otp.app.atlassolutions.com
 test.app.atlassolutions.com
 oracletest.app.atlassolutions.com
 psadms.app.atlassolutions.com
-atlassolutions.com
 search.atlassolutions.com
 ssquery.atlassolutions.com
 barney.app.atlassolutions.com
@@ -656,3 +655,5 @@ srv15.app.atlassolutions.com
 *.trunkstable.atlassolutions.com
 *.atlassolutions.com
 *.latest.atlassolutions.com
+ash4.atlassolutions.com
+prn1.atlassolutions.com

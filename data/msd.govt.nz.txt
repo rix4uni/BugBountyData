@@ -53,7 +53,6 @@ uat2.api.msd.govt.nz
 mutual.ssl.businessonlineservices.msd.govt.nz
 gw.api.msd.govt.nz
 insights.msd.govt.nz
-msd.govt.nz
 www-pre-prod.data.msd.govt.nz
 testcorpaccess.msd.govt.nz
 appmongw.msd.govt.nz
@@ -2446,3 +2445,11 @@ oetest.msd.govt.nz
 202-27-56-70.msd.govt.nz
 ha.my.msd.govt.nz
 identity.perf.az.msd.govt.nz
+identity.az.msd.govt.nz
+tvpn4.msd.govt.nz
+uat.remoteaccess.msd.govt.nz
+ite.ciam-realme-partner.dev.msd.govt.nz
+ite.ciam-realme-client-sl.dev.msd.govt.nz
+identity.perf.az.msd.govt.nz.az.msd.govt.nz
+ite.ciam-realme-client-wi.dev.msd.govt.nz
+cloudfront-test-test.awstest.msd.govt.nz

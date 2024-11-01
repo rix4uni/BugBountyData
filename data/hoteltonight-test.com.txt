@@ -366,7 +366,6 @@ places._domainkey.hoteltonight-test.com
 places._tcp.hoteltonight-test.com
 api-docs._tcp.hoteltonight-test.com
 sigzetta.hoteltonight-test.com
-hoteltonight-test.com
 www.hoteltonight-test.com
 waf.hoteltonight-test.com
 test-domain-2.hoteltonight-test.com
@@ -464,3 +463,7 @@ perftest-control.hoteltonight-test.com
 feature-googleio1.hoteltonight-test.com
 demo-prod.hoteltonight-test.com
 demo-uat.hoteltonight-test.com
+tourico.hoteltonight-test.com
+feature-hotusa-dataart3-v4.hoteltonight-test.com
+feature-ps2.hoteltonight-test.com
+feature-dataart6.hoteltonight-test.com

@@ -176,7 +176,6 @@ dal10-app.swiftype.com
 dal12-app.swiftype.com
 s.swiftype.com
 www.swiftype.com
-swiftype.com
 *.swiftype.com
 *.api.swiftype.com
 *.api.app-bvans-staging.swiftype.com
@@ -185,8 +184,6 @@ swiftype.com
 *.app-bearwood-staging.swiftype.com
 www.get.swiftype.com
 www.community.swiftype.com
-cc-swiftype.com
-www.cc-swiftype.com
 *.api.app-kovyrin-staging.swiftype.com
 *.app-kovyrin-staging.swiftype.com
 *.app-leeroy-staging.swiftype.com

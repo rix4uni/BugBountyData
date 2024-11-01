@@ -34,7 +34,6 @@ helpdesk.xinsto.net
 pve1.nc.xinsto.net
 university.xinsto.net
 mail.xinsto.net
-xinsto.net
 glpi.xinsto.net
 www.domains.xinsto.net
 blocked.xinsto.net
@@ -61,3 +60,4 @@ www.blocked.xinsto.net
 www.ipam.xinsto.net
 www.finance.xinsto.net
 wpcentral.xinsto.net
+*.xinsto.net

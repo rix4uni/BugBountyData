@@ -104,7 +104,6 @@ cpcontacts.omgevingswet.vng.nl
 evenement.vng.nl
 mail.omgevingswet.vng.nl
 standaarden.vng.nl
-vng.nl
 webdisk.omgevingswet.vng.nl
 webmail.omgevingswet.vng.nl
 www.omgevingswet.vng.nl
@@ -119,9 +118,6 @@ mfa.vng.nl
 statistiek.vng.nl
 vpn1.vng.nl
 wsus.vng.nl
-bvng.nl
-nvng.nl
-weblog.hvng.nl
 *.ise.vng.nl
 community.vng.nl
 klimaatscan.vng.nl
@@ -136,3 +132,4 @@ congresmanager.vng.nl
 huisvestingswet.vng.nl
 w.vng.nl
 sfbweb.vng.nl
+vngsvn01.ka.vng.nl

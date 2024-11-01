@@ -23,8 +23,13 @@ whatsnew.recruitly.io
 help.recruitly.io
 app.recruitly.io
 secure.recruitly.io
-recruitly.io
 data.cloud.recruitly.io
 vista-dev.recruitly.io
 cvparse.cloud.recruitly.io
 academy.recruitly.io
+api.edge.recruitly.io
+www.partners.recruitly.io
+www.recruitly.io
+*.recruitly.io
+www.secure.recruitly.io
+www.help.recruitly.io

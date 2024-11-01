@@ -143,7 +143,6 @@ stage-silabs.transim.com
 stage-st.transim.com
 stage-static.transim.com
 wsproxy.transim.com
-transim.com
 *.transim.com
 ams.transim.com
 apps.transim.com
@@ -182,13 +181,3 @@ turmoil.transim.com
 upi.transim.com
 volterra.transim.com
 websim.transim.com
-extransim.com
-www.pay.masstransim.com
-pay.masstransim.com
-www.masstransim.com
-masstransim.com
-www.extransim.com
-stransim.com
-www.stransim.com
-*.stransim.com
-wwwtransim.com

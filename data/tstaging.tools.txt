@@ -526,7 +526,6 @@ yrecs-prod.ue1.d2.tstaging.tools
 yrecs-prod.ue1.d4.tstaging.tools
 ytchu-test-emrcluster.ue1.staging-data.tstaging.tools
 ytest.ue1.staging-data.tstaging.tools
-tstaging.tools
 teleport.eck.ue1.cloudhub.tstaging.tools
 teleport.eck.ue1.mobile.tstaging.tools
 eck.ue1.cloudhub.tstaging.tools
@@ -545,3 +544,6 @@ www.tstaging.tools
 teleport.as1.cloudhub.tstaging.tools
 d4.tstaging.tools
 d1.tstaging.tools
+staging-communications.tstaging.tools
+open.ue1.d4.tstaging.tools
+nl-api.ue1.d1.tstaging.tools

@@ -1,5 +1,4 @@
 milcom.tps.xfinityhome.com
-xfinityhome.com
 aws.xfinityhome.com
 xh2-prod.aws.xfinityhome.com
 gaalarmservice.xh2-prod.aws.xfinityhome.com
@@ -959,3 +958,12 @@ bar.dev.xfinityhome.com
 cd1.dev.xfinityhome.com
 brand.dev.xfinityhome.com
 *.xh2-qa.aws.xfinityhome.com
+*.cms.xfinityhome.com
+*.int01-internal.aws.xfinityhome.com
+*.int01.aws.xfinityhome.com
+*.prod01-internal.aws.xfinityhome.com
+*.prod01.aws.xfinityhome.com
+*.test01-internal.aws.xfinityhome.com
+*.test01.aws.xfinityhome.com
+*.tps.xfinityhome.com
+*.xfinityhome.com

@@ -210,7 +210,6 @@ mpmta1.knowbe4.com
 mta2.cyberheistnews.knowbe4.com
 phishingtemplate.de.ai.internal.knowbe4.com
 staging.eecpro.knowbe4.com
-knowbe4.com
 us.pab.knowbe4.com
 staging.teleport.private.knowbe4.com
 advanced-reports.knowbe4.com
@@ -255,3 +254,5 @@ sfn.internal.knowbe4.com
 kaida.knowbe4.com
 vpn-secure-us1.it.knowbe4.com
 *.workfromhome.knowbe4.com
+*.eecpro.knowbe4.com
+academy.knowbe4.com

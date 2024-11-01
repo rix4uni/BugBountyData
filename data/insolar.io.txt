@@ -60,7 +60,6 @@ sentry.insolar.io
 nexus.insolar.io
 sonar.insolar.io
 jaeger.insolar.io
-insolar.io
 alerts.k8s-infra.insolar.io
 prometheus.k8s-infra.insolar.io
 yedyuut-admin.dev.insolar.io
@@ -414,17 +413,6 @@ testnet.insolar.io
 uscifarm.insolar.io
 www1.insolar.io
 hypervisor-10.insolar.io
-www.neworiginsolar.io
-www.joinsolar.io
-www.www.www.winsolar.io
-www.www.mysql.winsolar.io
-www.www.winsolar.io
-mysql.winsolar.io
-www.winsolar.io
-neworiginsolar.io
-storage-inbound.develop.originsolar.io
-storage-inbound.staging.originsolar.io
-storage-inbound.prod.originsolar.io
 wd.insolar.io
 zendesk2.insolar.io
 auth.insolar.io

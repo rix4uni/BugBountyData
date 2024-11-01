@@ -32,7 +32,6 @@ cn.vmi-group.com
 cognos-a.vmi-group.com
 www.webmail.vmi-group.com
 transfer.vmi-group.com
-vmi-group.com
 voip.vmi-group.com
 www.emmsentry.vmi-group.com
 vpnfg-vadodara.vmi-group.com
@@ -58,3 +57,4 @@ router.vmi-group.com
 mail.vmi-group.com
 postmaster.vmi-group.com
 crmtest.vmi-group.com
+*.vmi-group.com

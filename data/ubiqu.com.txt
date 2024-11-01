@@ -14,7 +14,6 @@ push.ubiqu.com
 api.access.ubiqu.com
 api.identity.strongpin.ubiqu.com
 demo.ubiqu.com
-ubiqu.com
 www.ubiqu.com
 api.identification.strongpin.ubiqu.com
 apps.ubiqu.com
@@ -27,3 +26,16 @@ sentry-proxy.ubiqu.com
 api.csc.eid.ubiqu.com
 api.token-generator.strongpin.ubiqu.com
 api.signature.strongpin.ubiqu.com
+gateway.ubiqu.com
+lb.eid.ubiqu.com
+dev.ubiqu.com
+pstore.ubiqu.com
+cpcalendars.ubiqu.com
+cpcontacts.ubiqu.com
+rt.access.ubiqu.com
+runtimev2.ubiqu.com
+www.pstore.ubiqu.com
+api.ubiqu.com
+kpn.api.ubiqu.com
+callback.ubiqu.com
+post.ubiqu.com

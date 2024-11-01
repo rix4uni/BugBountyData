@@ -9,7 +9,6 @@ composer.craftcms.com
 docs.craftcms.com
 staging.craftcms.com
 elliott.craftcms.com
-craftcms.com
 mo.craftcms.com
 id.craftcms.com
 feedback.craftcms.com
@@ -30,3 +29,10 @@ feed-proxy.craftcms.com
 forum.craftcms.com
 footest.craftcms.com
 *.craftcms.com
+*.api.craftcms.com
+*.console.craftcms.com
+*.id.craftcms.com
+*.plugins.craftcms.com
+translations.craftcms.com
+de.craftcms.com
+beta.craftcms.com

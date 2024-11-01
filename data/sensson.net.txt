@@ -18,7 +18,6 @@ dev.cms.sensson.net
 test123.sensson.net
 mrtg.mon.sensson.net
 s4.sensson.net
-sensson.net
 servecontent.sensson.net
 s6.sensson.net
 defigo.sensson.net
@@ -42,3 +41,19 @@ dns.sensson.net
 ns8.sensson.net
 svn.sensson.net
 siteuptime.sensson.net
+s3.test.sensson.net
+test.sensson.net
+www.test.sensson.net
+filter1.sensson.net
+ns1.sensson.net
+netdata.sensson.net
+account.test.sensson.net
+sentry.sensson.net
+www.dev.sensson.net
+dev.sensson.net
+www1.sensson.net
+git.sensson.net
+registry.sensson.net
+test-smtp.sensson.net
+smtp-test.sensson.net
+ns10.sensson.net

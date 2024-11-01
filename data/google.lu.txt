@@ -12,7 +12,6 @@ edu.google.lu
 adservice.google.lu
 news.google.lu
 flights.google.lu
-google.lu
 accounts.google.lu
 scholar.google.lu
 trends.google.lu
@@ -55,3 +54,4 @@ maps.google.lu
 local.google.lu
 toolbarqueries.google.lu
 marketingplatform.google.lu
+*.google.lu

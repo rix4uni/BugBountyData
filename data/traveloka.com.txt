@@ -975,7 +975,6 @@ sso-stage.mte.traveloka.com
 tool.ctv.traveloka.com
 tool.emn.traveloka.com
 transfer.eci.traveloka.com
-traveloka.com
 tvlk-loadtest-report-dev.tqs.traveloka.com
 url-shortener.web.traveloka.com
 userssignupdatabasevpn.afc.traveloka.com
@@ -2660,7 +2659,6 @@ update.traveloka.com
 000.transfer.sonar.020kumuhreadcosta-trackingdb-tw-okta-021kumuhreadread.apar.eci.traveloka.com
 receipt.traveloka.com
 messages.traveloka.com
-staging-traveloka.com
 mfcpapi.mfc.traveloka.com
 *.bei.traveloka.com
 whistle.afctestbeddandomainmsgmsgafctestbeddandomaintripathaud.afc.traveloka.com
@@ -2793,3 +2791,17 @@ badges.aprv.eci.traveloka.com
 ng.gtr.bustool.m2mnokie.internal.xxt.traveloka.com
 hnetstaging16.axes.traveloka.com
 *.xped.traveloka.com
+*.xpes.traveloka.com
+*.vcpd.traveloka.com
+*.ecb.traveloka.com
+*.xxts.traveloka.com
+legacy-tool.fpr.traveloka.com
+mfcptfe.mfc.traveloka.com
+tools.vsac.traveloka.com
+www.supplier.traveloka.com
+ctvd.traveloka.com
+sec.traveloka.com
+vcpd.traveloka.com
+vsac.traveloka.com
+xped.traveloka.com
+xpes.traveloka.com

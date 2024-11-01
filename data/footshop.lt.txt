@@ -1,4 +1,3 @@
-footshop.lt
 static.footshop.lt
 files.lab.footshop.lt
 static.lab.footshop.lt
@@ -9,3 +8,4 @@ sitemaps-lab.footshop.lt
 www.footshop.lt
 files.footshop.lt
 shop.footshop.lt
+*.footshop.lt

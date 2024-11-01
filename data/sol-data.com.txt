@@ -37,7 +37,6 @@ p111-pushws.sol-data.com
 scm5-acc.sol-data.com
 score107.sol-data.com
 sens.sol-data.com
-sol-data.com
 st10823003c.sol-data.com
 uploads-staging-confluence0-gatewayemea.sol-data.com
 web-production.sol-data.com
@@ -47,3 +46,8 @@ xe-0-1-1-953.sol-data.com
 xe-7-0-3.sol-data.com
 www.sol-data.com
 u002fweb.sol-data.com
+*.internal.sol-data.com
+*.production.us-west-2.sol-data.com
+*.internal.staging.sol-data.com
+*.staging.sol-data.com
+*.staging.us-west-2.sol-data.com

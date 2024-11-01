@@ -22,7 +22,6 @@ c1.glitch.com
 c2.glitch.com
 vfg6hd2.glitch.com
 support.glitch.com
-glitch.com
 fly.glitch.com
 cdn.glitch.com
 blog.staging.glitch.com
@@ -32,3 +31,5 @@ www.glitch.com
 status.glitch.com
 community.glitch.com
 2014-04-09.glitch.com
+*.testing.staging.glitch.com
+*.glitch.com

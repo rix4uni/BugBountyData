@@ -4,3 +4,13 @@ gcc-tools.jam.new
 www.jam.new
 instruction-set-feature.jam.new
 user-config.jam.new
+partnerwww.jam.new
+brand.jam.new
+nginxwww.jam.new
+profiles.jam.new
+app-www.jam.new
+www-cloudfront.jam.new
+ops.jam.new
+firewall.jam.new
+www-acc.jam.new
+wwwregion.jam.new

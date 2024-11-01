@@ -1,4 +1,3 @@
-google.com.pr
 www.google.com.pr
 translate.google.com.pr
 books.google.com.pr
@@ -69,3 +68,6 @@ consent.google.com.pr
 groups.google.com.pr
 google.google.com.pr
 chrome.google.com.pr
+*.google.com.pr
+*.clients6.google.com.pr
+*.cctldtest.google.com.pr

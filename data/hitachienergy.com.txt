@@ -703,7 +703,6 @@ primary.sftp.ameren.apm.solutions.hitachienergy.com
 remotesupport.hitachienergy.com
 tv.inside.hitachienergy.com
 web-mkrpt.scm.dev.renewableinsights.emi.solutions.hitachienergy.com
-hitachienergy.com
 auth-ne-mt01.identiq.hitachienergy.com
 dev-copy.ameren.apm.solutions.hitachienergy.com
 dev.ccrp.tsa.hitachienergy.com
@@ -1557,3 +1556,8 @@ stage.energyconnect.hitachienergy.com
 apigateway.stage.energyconnect.hitachienergy.com
 auth.stage.energyconnect.hitachienergy.com
 managementportal-new.stage.energyconnect.hitachienergy.com
+*.solutions.hitachienergy.com
+test-backend.akira.hitachienergy.com
+backend.akira.hitachienergy.com
+skywalker.lumadacommon.dev.lumada.solutions.hitachienergy.com
+*.skywalker.lumadacommon.dev.lumada.solutions.hitachienergy.com

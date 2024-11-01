@@ -1,4 +1,3 @@
-whereismytrain.in
 puraa.whereismytrain.in
 pre-prod-ilb.whereismytrain.in
 pv-preprod-puraa-mirror.whereismytrain.in
@@ -47,3 +46,16 @@ staging-tower.whereismytrain.in
 staging-puraa.whereismytrain.in
 pre-staging.whereismytrain.in
 staging.whereismytrain.in
+client-svc-autopush.whereismytrain.in
+client-svc-staging.whereismytrain.in
+client-svc-test.whereismytrain.in
+client-test.whereismytrain.in
+test.whereismytrain.in
+pre-prod-gactions.whereismytrain.in
+pre-prod-gtfs.whereismytrain.in
+gtfs.whereismytrain.in
+prod-gactions.whereismytrain.in
+gactions.whereismytrain.in
+prod-gtfs.whereismytrain.in
+pv-prod-tower.whereismytrain.in
+svc-test.whereismytrain.in

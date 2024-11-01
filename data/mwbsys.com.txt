@@ -37,7 +37,6 @@ keystone.mwbsys.com
 lic-iris-content-prod.mwbsys.com
 lic-iris-content-stage.mwbsys.com
 meps.mwbsys.com
-mwbsys.com
 oneview-stage.mwbsys.com
 pricing-cleo-prod.mwbsys.com
 pricing-genesis-prod.mwbsys.com
@@ -214,3 +213,4 @@ ipi-intg-lira-prod.mwbsys.com
 groot.mwbsys.com
 config.prd.platform.s.seventv.comiris.mwbsys.com
 ios.mwbsys.com
+android.mwbsys.com

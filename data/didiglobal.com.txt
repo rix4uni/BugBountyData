@@ -153,7 +153,6 @@ vpn-au.didiglobal.com
 vpn-jp.didiglobal.com
 vpn-ue.didiglobal.com
 vpn-us.didiglobal.com
-didiglobal.com
 data.intra.didiglobal.com
 intra.didiglobal.com
 vip.didiglobal.com
@@ -499,14 +498,6 @@ uat20230822sign.pay.didiglobal.com
 uat20230822transport.pay.didiglobal.com
 userimage.didiglobal.com
 usprestatic.didiglobal.com
-*.icdidiglobal.com
-icdidiglobal.com
-api.icdidiglobal.com
-www.icdidiglobal.com
-ddidiglobal.com
-*.ddidiglobal.com
-*.mexdidiglobal.com
-mexdidiglobal.com
 catchdata-us.didiglobal.com
 as-us.didiglobal.com
 api-sec-us.didiglobal.com
@@ -539,3 +530,4 @@ imc.didiglobal.com
 creditcard-standalone-api.didiglobal.com
 prod20240925transport.pay.didiglobal.com
 openfinance.sim.didiglobal.com
+payssl-cashloan.didiglobal.com

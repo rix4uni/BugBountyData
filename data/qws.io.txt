@@ -1,0 +1,15 @@
+loki.qws.io
+mimir.qws.io
+metrics.qws.io
+blackbox.observability.qws.io
+prom.pa1.observability.qws.io
+invoices.qws.io
+nomad.pa1.qws.io
+sources.qws.io
+cache.build.qws.io
+mimir.build.qws.io
+llm.qws.io
+llm2.test.qws.io
+nomad.dev.qws.io
+sources.thune.qws.io
+prom.ma1.observability.qws.io

@@ -1926,7 +1926,6 @@ res7.service.bmw.com
 utw-int2-wen.bmw.com
 auditm-int.bmw.com
 beta-developer.bmw.com
-bmw.com
 casacn-cn.bmw.com
 audit-int-gf4-public.bmw.com
 b2v-b2bappus.bmw.com
@@ -4158,3 +4157,7 @@ www-origin-prodn1.bmw.com
 cbe-prod-emea.bmw.com
 extkom-i.bmw.com
 e2e.eu-central-1.cbs2.public.kong.acme.bmw.com
+prod.eu-central-1.con-nav.public.kong.acme.bmw.com
+prod.ap-northeast-2.con-nav.public.kong.acme.bmw.com
+prod.us-east-1.con-nav.public.kong.acme.bmw.com
+se-int.wit.g3c.bmw.com

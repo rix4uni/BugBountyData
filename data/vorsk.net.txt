@@ -7,7 +7,6 @@ ip.vorsk.net
 ssl.vorsk.net
 linda.vorsk.net
 media.vorsk.net
-vorsk.net
 triton.vorsk.net
 firefly.vorsk.net
 hi.proxy.vorsk.net
@@ -15,3 +14,7 @@ code.vorsk.net
 git.vorsk.net
 static.vorsk.net
 *.vorsk.net
+sol.vorsk.net
+www.vorsk.net
+ucsd.vorsk.net
+home.vorsk.net

@@ -1,0 +1,8 @@
+au.api.cloudflare.com
+production.gateway.api.cloudflare.com
+canary.gateway.api.cloudflare.com
+docs.api.cloudflare.com
+gateway-entrypoint.api.cloudflare.com
+gateway.api.cloudflare.com
+entrypoint-worker.api.cloudflare.com
+edge-production.gateway.api.cloudflare.com

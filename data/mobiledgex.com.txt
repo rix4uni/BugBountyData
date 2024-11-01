@@ -1,4 +1,3 @@
-mobiledgex.com
 static.mobiledgex.com
 static-dev.mobiledgex.com
 apidocs-stage.mobiledgex.com
@@ -13,3 +12,6 @@ devtest.mobiledgex.com
 operators.mobiledgex.com
 www.krakowhack.mobiledgex.com
 ops-publish.mobiledgex.com
+dotcomstage.mobiledgex.com
+dev-publish.mobiledgex.com
+ops-stage.mobiledgex.com

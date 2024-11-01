@@ -40906,7 +40906,6 @@ nursing.stage-xi.nutanix.com
 nuschool.saas.nutanix.com
 nuschool.xi.nutanix.com
 nutanix-main.saas.nutanix.com
-nutanix.com
 nutanix.epoch.nutanix.com
 nutanixuniversity.xi.nutanix.com
 nutella.saas.nutanix.com
@@ -71879,9 +71878,6 @@ sizerwiki.prod.saas.nutanix.com
 sizerwiki.stage.saas.nutanix.com
 uptrace.supportgpt-prod-k8.saas.nutanix.com
 vcenter.hpoc.nutanix.com
-eucsafari-nutanix.com
-mynutanix.com
-shopnutanix.com
 aa4925e5-6c01-48bb-9d22-10fb3f162359.epoch.nutanix.com
 *.veritas.nutanix.com
 artifactory-pc.eng.nutanix.com
@@ -71979,3 +71975,15 @@ prismdemo.nutanix.com
 proxy-stage-my.nutanix.com
 dm3gp-st-vpn.nutanix.com
 phx-apstra-fc-1.corp.nutanix.com
+insights.corp.nutanix.com
+iam-deployment-add-ratelimit.us-west-dev.iam.xi.nutanix.com
+iam-deployment-jsonlogging.us-west-dev.iam.xi.nutanix.com
+iam-bootstrap-eng-279713.us-west-dev.iam.xi.nutanix.com
+it.frame.nutanix.com
+iam-deployment-authz-enable.us-west-dev.iam.xi.nutanix.com
+iam-themis-taven-test.us-west-dev.dev-iam.xi.nutanix.com
+iam-deployment-eng-269829.us-west-dev.iam.xi.nutanix.com
+support-dashboard-dev.corp.nutanix.com
+www.it-status.corp.nutanix.com
+themis-queryperf.dev.dev-iam.xi.nutanix.com
+iam-deployment-add-sha1-in-confi.us-west-dev.iam.xi.nutanix.com

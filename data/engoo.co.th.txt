@@ -1,5 +1,10 @@
 app.engoo.co.th
 www.engoo.co.th
-engoo.co.th
 *.dev.engoo.co.th
 dev.engoo.co.th
+master.dev.app.engoo.co.th
+dev.app.engoo.co.th
+api.engoo.co.th
+api.subdir.dev.engoo.co.th
+subdir.dev.app.engoo.co.th
+api.subdir.dev.app.engoo.co.th

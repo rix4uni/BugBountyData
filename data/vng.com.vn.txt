@@ -24,7 +24,6 @@ ts.vng.com.vn
 sip.vng.com.vn
 api.my.vng.com.vn
 dwh.vng.com.vn
-vng.com.vn
 fmstab.vng.com.vn
 it-pm.vng.com.vn
 uat-mra.vng.com.vn
@@ -124,3 +123,5 @@ quiz-iso.vng.com.vn
 lync2013.vng.com.vn
 dp.vng.com.vn
 lcs.vng.com.vn
+*.vng.com.vn
+www.captiveportal-login.vng.com.vn

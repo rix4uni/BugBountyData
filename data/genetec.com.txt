@@ -209,7 +209,6 @@ da.genetec.com
 3.genetec.com
 samip.genetec.com
 floorplan.genetec.com
-genetec.com
 pki-portal.genetec.com
 legacy.genetec.com
 vpnmtltest.genetec.com
@@ -297,3 +296,5 @@ svazpvbmg001.genetec.com
 home.genetec.com
 *.gpnsstage.genetec.com
 *.gpnsdev.genetec.com
+*.genetec.com
+*.subscriptions.genetec.com

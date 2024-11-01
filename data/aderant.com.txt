@@ -57,7 +57,6 @@ rdgateway03.livelink.aderant.com
 reset.aderant.com
 na.smtp.aderant.com
 conflicts.aderant.com
-aderant.com
 cloudidtest.aderant.com
 identity.aderant.com
 launchdarkly.aderant.com
@@ -197,3 +196,4 @@ superset.cluster.internal.cloud.aderant.com
 usermanagementtest.aderant.com
 www.ap.owa.aderant.com
 www3.aderant.com
+vpn-lon.aderant.com

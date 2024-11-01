@@ -1348,13 +1348,9 @@ o1841.em.crypto.oanda.com
 o1845.em.info.oanda.com
 oanda-feeder-live-dark.k8s-prod-use4.p.gcp.oanda.com
 partners.oanda.com
-oanda.com
-infoanda.com
-tmsoanda.com
 labstrader.oanda.com
 crypto.oanda.com
 wwww.oanda.com
-goanda.com
 cc-api.oanda.com
 fxds-public-exchange-rates-api.oanda.com
 *.fxserver01-ng.oanda.com
@@ -1557,3 +1553,6 @@ sitegateway-admin-demo.k8s-prod-use4.p.gcp.oanda.com
 hub-api.k8s-stg-usc1.s.gcp.oanda.com
 demo-kafka01.vm.p.gcp.oanda.com
 pic-mt-otms-mobile-gateway.k8s-uat-euw3.u.gcp.oanda.com
+services-login-api.k8s-stg-asne1.s.gcp.oanda.com
+services-login-api-dark.k8s-stg-asne1.s.gcp.oanda.com
+customer-impact.k8s-prod-use4.p.gcp.oanda.com

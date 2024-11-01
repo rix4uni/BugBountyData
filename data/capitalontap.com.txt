@@ -369,3 +369,9 @@ alertmanager.pro.uk.int.k8s.capitalontap.com
 grafana.pro.uk.int.k8s.capitalontap.com
 api-poc.dev.us.ext.k8s.capitalontap.com
 develop-api-poc.us.capitalontap.com
+prelive-api-hubspot-gateway.capitalontap.com
+api-hubspot-gateway.capitalontap.com
+*.capitalontap.com
+*.es.capitalontap.com
+*.uk.capitalontap.com
+*.us.capitalontap.com

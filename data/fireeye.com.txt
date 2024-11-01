@@ -3505,7 +3505,6 @@ etp-eu-restapi.fireeye.com
 etp-us-restapi.fireeye.com
 fenet1.eng.fireeye.com
 filefix.fireeye.com
-fireeye.com
 firelight.fireeye.com
 gsemail.fireeye.com
 gslink.fireeye.com
@@ -3736,7 +3735,6 @@ lvs-cloudprov-integration-prod-1.fireeye.com
 p.staging.sjc.training.fireeye.com
 volga.eng.fireeye.com
 www.labs-prom-monitor.eng.fireeye.com
-myfireeye.com
 irmqgg5429-hx-agent-1.hex01.helix.apps.fireeye.com
 hexcth646.ingest.apps.fireeye.com
 hexwbq873-hxdmz-agent-1.hex01.helix.apps.fireeye.com
@@ -4092,3 +4090,5 @@ hexkqn747-hx-webui-1.hex01.helix.apps.fireeye.com
 hexywt559-hx-webui-1.hex01.helix.apps.fireeye.com
 hexrmc565-hx-webui-1.hex01.helix.apps.fireeye.com
 *.sousw2prdv2.so.apps.fireeye.com
+iad1-csco01.fireeye.com
+www.iad1-csco01.fireeye.com

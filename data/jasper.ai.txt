@@ -44,7 +44,6 @@ api.jasper.ai
 help.jasper.ai
 app.jasper.ai
 app-staging.jasper.ai
-jasper.ai
 art.jasper.ai
 secure.jasper.ai
 voice.jasper.ai
@@ -59,3 +58,5 @@ og.jasper.ai
 legal.jasper.ai
 privacy.jasper.ai
 blog.jasper.ai
+app-staging-alt.jasper.ai
+*.jasper.ai

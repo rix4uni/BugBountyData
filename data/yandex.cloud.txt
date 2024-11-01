@@ -37,7 +37,6 @@ yq-staging.yandex.cloud
 kz.support-center.yandex.cloud
 scale.yandex.cloud
 support-center.yandex.cloud
-yandex.cloud
 www.yandex.cloud
 yabs.yandex.cloud
 mc.yandex.cloud
@@ -60,3 +59,5 @@ enterprise.datalens.yandex.cloud
 opensource.datalens.yandex.cloud
 monitoring-preprod.yandex.cloud
 center-staging.yandex.cloud
+kz.center.yandex.cloud
+kz.center-staging.yandex.cloud

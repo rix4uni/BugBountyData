@@ -1,5 +1,8 @@
-vulnix.sh
 cloud.vulnix.sh
 gitlab.vulnix.sh
 transmission.vulnix.sh
 ssh.gitlab.vulnix.sh
+jellyfin.vulnix.sh
+plex.vulnix.sh
+git.vulnix.sh
+tracker.vulnix.sh

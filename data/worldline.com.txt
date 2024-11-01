@@ -638,7 +638,6 @@ utv.cat.tvp.worldline.com
 prod-authent.caps.fo.hub.worldline.com
 access-services.worldline.com
 webconf.worldline.com
-worldline.com
 health.reporting.digitalbanking.worldline.com
 consultation-francepari-ph.gsb.worldline.com
 axf-api.psd2.apigee.digitalbanking.worldline.com
@@ -1163,3 +1162,9 @@ uat.sk.worldline.com
 gui-premium.worldline.com
 uat.terminals.worldline.com
 *.systemtest.payments.worldline.com
+www.nl.worldline.com
+login.test.payments.worldline.com
+js.baltic.worldline.com
+prd-consultation-pmu-jc.gsb.worldline.com
+prd-consultation-zeturf-ps.gsb.worldline.com
+platform-e-paymentschallenge-2023.event.worldline.com

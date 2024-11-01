@@ -200,7 +200,6 @@ vpn.swm.de
 as2-prod.swm.de
 newsletter.swm.de
 portal.muenchen.swm.de
-swm.de
 mails.meine.swm.de
 ns.swm.de
 www-k.swm.de
@@ -345,3 +344,8 @@ sp.swm.de
 artifactory.intra.swm.de
 xrechnung-lwp.swm.de
 stoerungen.app.swm.de
+more-test.swm.de
+isspk.test.azrapp-non-prod.swm.de
+swm-more-dev.web.non-prod.azrapp-non-prod.swm.de
+more-dev.web.non-prod.azrapp-non-prod.swm.de
+more-dev.swm.de

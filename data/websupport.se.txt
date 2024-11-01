@@ -1,1 +1,13 @@
 media.kunskap.websupport.se
+*.websupport.se
+marketing.websupport.se
+www.marketing.websupport.se
+*.production.websupport.se
+*.staging.websupport.se
+*.r101.websupport.se
+*.r103.websupport.se
+kunskap.websupport.se
+datainsights.websupport.se
+analytics-api.websupport.se
+status.websupport.se
+*.m101.websupport.se

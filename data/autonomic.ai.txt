@@ -30,6 +30,14 @@ developer.beta.autonomic.ai
 supplier-feed.beta.autonomic.ai
 api.autonomic.ai
 accounts.autonomic.ai
-autonomic.ai
 mail.autonomic.ai
 developer.autonomic.ai
+mmota-cdn.autonomic.ai
+sb1.autonomic.ai
+api.policy-reporter.prod.autonomic.ai
+kyverno-plugin.policy-reporter.prod.autonomic.ai
+ak.beta.autonomic.ai
+beta.autonomic.ai
+mmota.beta.cutover.test.beta.autonomic.ai
+insights.beta.cutover.test.beta.autonomic.ai
+api.beta.cutover.test.beta.autonomic.ai

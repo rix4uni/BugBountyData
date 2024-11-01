@@ -1,4 +1,3 @@
-pepfar.gov
 data.pepfar.gov
 2006-2009.pepfar.gov
 2009-2017.pepfar.gov
@@ -20,3 +19,6 @@ financial.pepfar.gov
 data-staging-2.pepfar.gov
 ww.pepfar.gov
 media.data.pepfar.gov
+*.pepfar.gov
+*.sharepointapps.pepfar.gov
+*.stagingapps.sharepoint.pepfar.gov

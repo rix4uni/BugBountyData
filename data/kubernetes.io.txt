@@ -211,7 +211,6 @@ jrss-215-71-158-29.docs.kubernetes.io
 kep.canary.kubernetes.io
 kings-food-markets.docs.kubernetes.io
 kubect.docs.kubernetes.io
-kubernetes.io
 lab-nbnc02.docs.kubernetes.io
 labelsapp.kubernetes.io
 livepoll.docs.kubernetes.io
@@ -559,9 +558,7 @@ pr-test.canary.kubernetes.io
 apf.kubernetes.io
 ovn-dpdk.default.ovn.kubernetes.io
 ovn.kubernetes.io
-100daysofkubernetes.io
 profile.node.kubernetes.io
-compliantkubernetes.io
 authentication.kubernetes.io
 v1-30.docs.kubernetes.io
 32-singed-com.docs.canary.kubernetes.io
@@ -2027,3 +2024,4 @@ a9ec71fa3593d22b7.docs.canary.kubernetes.io
 11-16452.docs.canary.kubernetes.io
 19-lan-3submit-queue.docs.canary.kubernetes.io
 188bocaiwang-22.docs.canary.kubernetes.io
+hello.kubernetes.io

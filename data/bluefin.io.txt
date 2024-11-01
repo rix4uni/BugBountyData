@@ -24,3 +24,5 @@ tool.sui-staging.int.bluefin.io
 sp-bounce.bluefin.io
 tool.sui-prod.int.bluefin.io
 sui-dev.int.bluefin.io
+www.bluefin.io
+dapi.api.sui-prod.bluefin.io

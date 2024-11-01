@@ -630,7 +630,6 @@ e0.pki.goog
 b2.pki.goog
 dams.3utilities.comcrl.pki.goog
 canada.pki.goog
-pki.goog
 cust99.pki.goog
 webmail.notamail.euocsp.pki.goog
 classes.pki.goog
@@ -844,3 +843,9 @@ at.pki.goog
 361cdninstagram.com379lijit.com397i.s-microsoft.com415sls.update.microsoft.com433dropbox.com451bidr.io469dis.criteo.com487ads.linkedin.com505sharethrough.com523digitru.st541pippio.com559appsflyer.com577nrb.footprintdns.com595ocsp.pki.goog
 pcache-pv-eu1.badoocdn.comcrl.pki.goog
 cust22.pki.goog
+*.pki.goog
+*.dv.acme-v02.api.pki.goog
+*.dv.acme-v02.test-api.pki.goog
+*.dv-sxg.acme-v02.api.pki.goog
+*.dv-sxg.acme-v02.test-api.pki.goog
+expired.gtsr1x.demo.pki.goog

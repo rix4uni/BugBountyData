@@ -1,5 +1,4 @@
 appversion.gravemelding.no
-gravemelding.no
 api.survey.gravemelding.no
 kart1.gravemelding.no
 static.gravemelding.no
@@ -24,3 +23,7 @@ kart2.gravemelding.no
 api.geomelding.gravemelding.no
 api.kundeportal.gravemelding.no
 beta.gravemelding.no
+docker.gravemelding.no
+geoweb.gravemelding.no
+gemini.gravemelding.no
+innsynsportal.gravemelding.no

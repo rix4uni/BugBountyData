@@ -1,5 +1,3 @@
-anywhere.re
-exploreanywhere.re
 ir.anywhere.re
 venonb.teams-api.anywhere.re
 prod.teams-api.anywhere.re
@@ -301,3 +299,4 @@ jobstest.anywhere.re
 venonb2.analyticsapi.anywhere.re
 stg.adapter.office-api.anywhere.re
 klo.office-api.anywhere.re
+*.qa4.userrecertificationapi.anywhere.re

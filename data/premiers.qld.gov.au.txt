@@ -47,7 +47,6 @@ poppies.premiers.qld.gov.au
 spf2.premiers.qld.gov.au
 tracker2.premiers.qld.gov.au
 campaigns.premiers.qld.gov.au
-premiers.qld.gov.au
 citrix.premiers.qld.gov.au
 rds-test.premiers.qld.gov.au
 buildingqld.premiers.qld.gov.au
@@ -62,3 +61,8 @@ ecu.premiers.qld.gov.au
 dcdpc-fw01.premiers.qld.gov.au
 dpctestaem03.premiers.qld.gov.au
 www.ird.premiers.qld.gov.au
+dcdpc-fw02.premiers.qld.gov.au
+rolr.premiers.qld.gov.au
+ecu.enews.premiers.qld.gov.au
+*.premiers.qld.gov.au
+www.cabbag.premiers.qld.gov.au

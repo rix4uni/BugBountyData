@@ -1,4 +1,3 @@
-gocardless.io
 looker-old.gocardless.io
 tekton.internal.gocardless.io
 lookerbot.gocardless.io
@@ -297,3 +296,4 @@ andrewjones-playground.playground.gocardless.io
 dispatcher.gocardless.io
 app.gocardless.io
 grpc.argocd.gocardless.io
+aisp-django.gocardless.io

@@ -8,7 +8,6 @@ apple-query.finance.yahoo.com
 ar.finance.yahoo.com
 ats-msfeed.finance.yahoo.com
 au.finance.yahoo.com
-au.pfinance.yahoo.com
 autoc.finance.yahoo.com
 badge.finance.yahoo.com
 beta.c.finance.yahoo.com
@@ -18,11 +17,9 @@ betastreamerapi.finance.yahoo.com
 billing.finance.yahoo.com
 br.finance.yahoo.com
 br.news.finance.yahoo.com
-br.pfinance.yahoo.com
 c.finance.yahoo.com
 ca.finance.yahoo.com
 ca.news.finance.yahoo.com
-ca.pfinance.yahoo.com
 ca.stage.finance.yahoo.com
 cf.finance.yahoo.com
 cf.news.finance.yahoo.com
@@ -49,11 +46,9 @@ es.messages.finance.yahoo.com
 esearch.finance.yahoo.com
 espanol.finance.yahoo.com
 espanol.news.finance.yahoo.com
-espanol.pfinance.yahoo.com
 espanol.seguros.finance.yahoo.com
 eu.feeds.finance.yahoo.com
 feeds.finance.yahoo.com
-finance.yahoo.com
 fr-ca.finance.yahoo.com
 fr.finance.yahoo.com
 fr.messages.finance.yahoo.com
@@ -77,7 +72,6 @@ mobile-query.edgecast-cdn.finance.yahoo.com
 mobile-query.finance.yahoo.com
 mx.finance.yahoo.com
 mx.news.finance.yahoo.com
-mx.pfinance.yahoo.com
 mysubscriptions.finance.yahoo.com
 news.finance.yahoo.com
 nz.finance.yahoo.com
@@ -85,7 +79,6 @@ oidc.checkout.finance.yahoo.com
 oidc.mysubscriptions.finance.yahoo.com
 oob-fo-intl-route.finance.yahoo.com
 oob-fo-route.finance.yahoo.com
-pfinance.yahoo.com
 premium.finance.yahoo.com
 preview.finance.yahoo.com
 proc.finance.yahoo.com
@@ -149,7 +142,6 @@ edgecast-cdn.finance.yahoo.com
 pr.finance.yahoo.com
 iquery-stage.finance.yahoo.com
 chartapi.finance.yahoo.com
-finance-yahoo.com
 real-chart.finance.yahoo.com
 rss.finance.yahoo.com
 partner-query.finance.yahoo.com
@@ -170,8 +162,6 @@ specials.finance.yahoo.com
 stage.cname.finance.yahoo.com
 stage.futures.finance.yahoo.com
 samsung-query.finance.yahoo.com
-cfinance.yahoo.com
-playground-finance.yahoo.com
 bs.eyeblaster.akadns.netbilling.finance.yahoo.com
 streamerapi.finance.yahoo.comstreamerapi.finance.yahoo.com
 mobile-query-stage.finance.yahoo.com

@@ -15,7 +15,6 @@ fineart.o.dev.vendo.no
 vendo.d.dev.vendo.no
 xlbil.d.dev.vendo.no
 nkom.d.dev.vendo.no
-vendo.no
 nlm.d.dev.vendo.no
 mta-sts.bounce.vendo.no
 www.auksjonen2.m.dev.vendo.no
@@ -30,3 +29,5 @@ s.dev.vendo.no
 fineart.d.dev.vendo.no
 auksjonen2.m.dev.vendo.no
 fineart.m.dev.vendo.no
+*.d8.dev.vendo.no
+*.vendo.no

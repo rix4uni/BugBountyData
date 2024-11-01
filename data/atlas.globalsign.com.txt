@@ -1,4 +1,3 @@
-atlas.globalsign.com
 hostedocsp.atlas.globalsign.com
 seal.atlas.globalsign.com
 timestamp.atlas.globalsign.com
@@ -22,3 +21,16 @@ api.dev.atlas.globalsign.com
 dev.logs.atlas.globalsign.com
 api.staging.atlas.globalsign.com
 auth.sit.atlas.globalsign.com
+api.portal.sit.atlas.globalsign.com
+api.portal.dev.atlas.globalsign.com
+auth.staging.atlas.globalsign.com
+sit.logs.atlas.globalsign.com
+auth.dev.atlas.globalsign.com
+api.sit.atlas.globalsign.com
+api.manage.atlas.globalsign.com
+manage.staging.atlas.globalsign.com
+www.atlas.globalsign.com
+avengers.dev.atlas.globalsign.com
+account.atlas.globalsign.com
+api.portal.atlas.globalsign.com
+api.manage.dev.atlas.globalsign.com

@@ -56,7 +56,6 @@ concern.montala.com
 mssociety.montala.com
 partners.montala.com
 stc.montala.com
-montala.com
 446e79b1.cert.montala.com
 coe.montala.com
 offline2.montala.com
@@ -184,3 +183,5 @@ nrc.montala.com
 arktiskebilleder.montala.com
 dns.montala.com
 shared2.montala.com
+*.montala.com
+6e7172f8.cert.montala.com

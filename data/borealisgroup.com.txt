@@ -249,7 +249,6 @@ echo.borealisgroup.com
 euro2024.borealisgroup.com
 email.borealisgroup.com
 av.borealisgroup.com
-borealisgroup.com
 ideas.borealisgroup.com
 voice.borealisgroup.com
 serviceportal.borealisgroup.com
@@ -312,3 +311,9 @@ borgate.ha.borealisgroup.com
 mechdrive.borealisgroup.com
 xmail4.borealisgroup.com
 euro2024.tst.borealisgroup.com
+uat.esb.ha.borealisgroup.com
+prod.esb.ha.borealisgroup.com
+guestnet.ha.borealisgroup.com
+devapps.ha.borealisgroup.com
+myborstardigitaltwin.uat.borealisgroup.com
+myborstardigitaltwin.borealisgroup.com

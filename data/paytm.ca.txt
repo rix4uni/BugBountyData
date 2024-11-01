@@ -38,7 +38,6 @@ www.signing.apar-stg.paytm.ca
 api.hero.paytm.ca
 api.paytm.ca
 int.hero.paytm.ca
-paytm.ca
 prod-internal.hero.paytm.ca
 docs.paytm.ca
 email.info.paytm.ca
@@ -59,3 +58,11 @@ ap-south.us-west-2.paylite.paytm.ca
 ap.us-west-2.paylite.paytm.ca
 paylite.paytm.ca
 books.paytm.ca
+zendesk1.paytm.ca
+pcs.paytm.ca
+pns-staging-p.paytm.ca
+rest-proxy-staging-new.paytm.ca
+zendesk4.paytm.ca
+zendesk2.paytm.ca
+zendesk3.paytm.ca
+rest-proxy.paytm.ca

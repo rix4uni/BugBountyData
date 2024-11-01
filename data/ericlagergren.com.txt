@@ -28,5 +28,5 @@ rpi1.ericlagergren.com
 dns2.ericlagergren.com
 gas-prices.ericlagergren.com
 leg-lookup.ericlagergren.com
-ericlagergren.com
 chronograf.ericlagergren.com
+*.ericlagergren.com

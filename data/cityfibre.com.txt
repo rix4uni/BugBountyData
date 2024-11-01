@@ -206,7 +206,6 @@ ipfixcol2.tools.cityfibre.com
 62-249-245-176-static.cityfibre.com
 abd105-client-1.network.cityfibre.com
 gsalite.dev.cityfibre.com
-cityfibre.com
 customer.cityfibre.com
 ipa-3.int.cityfibre.com
 linotp.tools.dev.cityfibre.com
@@ -313,3 +312,4 @@ swift53.cityfibre.com
 awxjobs.network.cityfibre.com
 linkedinlearning.cityfibre.com
 deebee.network.cityfibre.com
+*.staging.cityfibre.com

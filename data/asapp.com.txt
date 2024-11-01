@@ -114,7 +114,6 @@ awsdev.asapp.com
 flow-images.asapp.com
 www.securemail.asapp.com
 tmobile.asapp.com
-asapp.com
 api-ori.demo.asapp.com
 www.vpn.asapp.com
 aizhomesol.asapp.com
@@ -363,3 +362,15 @@ cobangle.us-east-1.preprod.asapp.com
 mtcosimbas.test.asapp.com
 doexpect.pci.asapp.com
 api-origin.test.asapp.com
+gsuse1.secmsg.asapp.com
+di.apollo-test.asapp.com
+di.daogsusw2-prod-pci.asapp.com
+di.legion-test.asapp.com
+echo-http-agnostic.ssl.asapp.com
+mtdagsusw2.pci.asapp.com
+mtdagsusw2.us-west-2.pci.asapp.com
+rokelton.test.asapp.com
+rokelton.us-east-1.test.asapp.com
+roklemme.prod.asapp.com
+roklemme.us-west-2.asapp.com
+ssh.infra.sandbox.asapp.com

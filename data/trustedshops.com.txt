@@ -247,7 +247,6 @@ app-integr.trustedshops.com
 app-qa.trustedshops.com
 cdn-qa.trustedshops.com
 trustedlogin.trustedshops.com
-trustedshops.com
 internal-status.trustedshops.com
 www.trustedshops.com
 cdn1.api.trustedshops.com
@@ -295,3 +294,14 @@ sso-dev.trustedshops.com
 app-api-integr.trustedshops.com
 mail.trustedshops.com
 product-review-qa.trustedshops.com
+sso-client-b2b-integr.trustedshops.com
+developers.trustedshops.com
+trustbadge-generator-qa.trustedshops.com
+fb-api.trustedshops.com
+api-log-integr.trustedshops.com
+cns.seo-dev.trustedshops.com
+enterpriseregistration.trustedshops.com
+protection-integr.trustedshops.com
+sales-report.trustedshops.com
+api-qa.trustedshops.com
+pi5.trustedshops.com

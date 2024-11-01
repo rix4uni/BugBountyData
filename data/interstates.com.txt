@@ -30,7 +30,6 @@ careers.interstates.com
 wbs.interstates.com
 fieldwbs.interstates.com
 dngadm.interstates.com
-interstates.com
 vpn.interstates.com
 talentcard.interstates.com
 craftsupport.interstates.com
@@ -228,3 +227,7 @@ helpdesk.interstates.com
 patch.interstates.com
 mobileframe.interstates.com
 adfs3.interstates.com
+automator.interstates.com
+www.automator.interstates.com
+*.interstates.com
+dngcc.interstates.com

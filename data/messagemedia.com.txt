@@ -1,3 +1,5 @@
 multitxt.test.qa.messagemedia.com
 receiver.dev.messagemedia.com
 dt-http-receiver.dev.messagemedia.com
+multitxt.test.stg.messagemedia.com
+wctp-failover.messagemedia.com

@@ -21,7 +21,6 @@ kdocms.kdo.de
 service.kdo.de
 kunden.kdo.de
 xtasoapproxy-rc.k8s-staging-extern.kdo.de
-kdo.de
 dbs-matomo.k8s-staging-extern.kdo.de
 ws.flexoffice.kdo.de
 formularserver.kdo.de
@@ -475,3 +474,14 @@ auth.meeting-clausthal-zellerfeld.kdo.de
 api.testnode03.trustchain.kdo.de
 nexta.kdo.de
 moderated.meeting-lkol.kdo.de
+kommune365.k8s-staging-extern.kdo.de
+gepart.kdo.de
+kdo-www-coronaapp.kdo.de
+vzd.zks-mtu.kdo.de
+vps.zks-mtu.kdo.de
+kdo-rz1-www-coronaapp.kdo.de
+k8s-staging-extern.kdo.de
+smtp2-ext.kdo.de
+k8s-productive-extern.kdo.de
+butis-clp.cap.kdo.de
+tsthap175.kdo.de

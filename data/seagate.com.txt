@@ -1,5 +1,4 @@
 fb.media.seagate.com
-seagate.com
 blog.seagate.com
 knowledge.seagate.com
 ftp.seagate.com
@@ -24,13 +23,10 @@ branding.seagate.com
 services.seagate.com
 learn.seagate.com
 origin-www.seagate.com
-toledo-seagate.com
 rescueandreplace.seagate.com
 nbg.seagate.com
 m.seagate.com
 support2.seagate.com
-recoverseagate.com
-fetchseagate.com
 cheetah.seagate.com
 rss.seagate.com
 labs.seagate.com
@@ -49,7 +45,6 @@ returns.seagate.com
 partnerreg.seagate.com
 nassupport.seagate.com
 spp.seagate.com
-theseagate.com
 my.seagate.com
 webaccess.ra.seagate.com
 smb.media.seagate.com
@@ -70,7 +65,6 @@ registration.seagate.com
 cloudstorage.seagate.com
 console.lyvecloud.seagate.com
 seagate-cloud.seagate.com
-socioseagate.com
 sssmg.seagate.com
 spdtfmaster.stsj.seagate.com
 training.seagate.com
@@ -3081,3 +3075,17 @@ sslvpn.az2.us-central-2.lyvecloud.seagate.com
 sgmtzbc1.seagate.com
 ns-sg.sslwip.seagate.com
 argocd.i.lyve.seagate.com
+qa7.lyve.seagate.com
+*.s3.qa7.lyve.seagate.com
+*.s3.us-central-1.qa7.lyve.seagate.com
+*.s3.us-west-1.qa7.lyve.seagate.com
+console.qa7.lyve.seagate.com
+iam.qa7.lyve.seagate.com
+rramp-server.qa7.lyve.seagate.com
+rramp.qa7.lyve.seagate.com
+s3.qa7.lyve.seagate.com
+s3.us-central-1.qa7.lyve.seagate.com
+s3.us-west-1.qa7.lyve.seagate.com
+sts.qa7.lyve.seagate.com
+us-central-1.qa7.lyve.seagate.com
+us-west-1.qa7.lyve.seagate.com

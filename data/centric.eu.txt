@@ -20,7 +20,6 @@ cbo-developertest.centric.eu
 sts.fed.centric.eu
 cenrmpa.centric.eu
 intrastore.centric.eu
-centric.eu
 asp-cloud.centric.eu
 bmw.logilink.centric.eu
 sts-asp.centric.eu
@@ -205,3 +204,5 @@ ssd.service.centric.eu
 betalen-dev.centric.eu
 *.betalen-dev.centric.eu
 www.craft.centric.eu
+*.ebeheer-burgerzaken.centric.eu
+ebeheer-burgerzaken.centric.eu

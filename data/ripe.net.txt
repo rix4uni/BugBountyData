@@ -1,11 +1,3 @@
-ripe.net
-broadstripe.net
-adstripe.net
-getstripe.net
-cloudcripe.net
-likestripe.net
-wearthestripe.net
-straightstripe.net
 stat.ripe.net
 apps.db.ripe.net
 labs.ripe.net
@@ -13,7 +5,6 @@ ftp.ripe.net
 db.ripe.net
 atlas.ripe.net
 v6asns.ripe.net
-caripe.net
 ris.ripe.net
 ripe76.ripe.net
 ripe67.ripe.net
@@ -21,7 +12,6 @@ ripe74.ripe.net
 ripe78.ripe.net
 ripe71.ripe.net
 readonly.labs.ripe.net
-wpstripe.net
 ripe72.ripe.net
 ipv6eyechart.ripe.net
 ripe69.ripe.net
@@ -41,18 +31,15 @@ rosie.ripe.net
 ripe77.ripe.net
 ripe61.ripe.net
 ripe80.ripe.net
-checkstripe.net
 dnsmon.ripe.net
 lists.ripe.net
 ripe63.ripe.net
 ripe70.ripe.net
 ripe75.ripe.net
-3stripe.net
 v6day.ripe.net
 ris-live.ripe.net
 ripeness.ripe.net
 lirportal.ripe.net
-pandemiagripe.net
 access.ripe.net
 sg-pub.ripe.net
 ripe64.ripe.net
@@ -68,7 +55,6 @@ localcert.ripe.net
 lab.db.ripe.net
 certification-stats.ripe.net
 my.ripe.net
-redstripe.net
 data.ris.ripe.net
 ripe81.ripe.net
 ripe62.ripe.net
@@ -126,12 +112,8 @@ webmail.ripe.net
 whack-a-mole.ripe.net
 www-old.ripe.net
 ns-sec.ripe.net
-soundstripe.net
 abcoude.ripe.net
 np.cctld.authdns.ripe.net
-stripe.net
-tvstripe.net
-account-stripe.net
 authdns.ripe.net
 arin.authdns.ripe.net
 pri.authdns.ripe.net
@@ -5174,7 +5156,6 @@ rohan.ripe.net
 stat-misc2.ripe.net
 p2002.probes.atlas.ripe.net
 p0b5c50dc.probes.atlas.ripe.net
-ws-labs-test-ripe.net
 dhcp-legacy-28-202.mtg.ripe.net
 vpn-66.ripe.net
 vpn-48.ripe.net
@@ -5771,7 +5752,6 @@ jp-osa-as59105-client.anchors.atlas.ripe.net
 bcast.ams-ix.k.ripe.net
 dhcp-30-125.mtg.ripe.net
 aerohive44.ripe.net
-ws-labs-pre-ripe.net
 journal1.atlas-hdp-dev.ripe.net
 dhcp-29-75.mtg.ripe.net
 ris-whois08.ripe.net
@@ -10315,7 +10295,6 @@ dsc.ripe.net
 dns.uk-lon-as60841.anchors.atlas.ripe.net
 p1003030.probes.atlas.ripe.net
 dhcp-30-254.mtg.ripe.net
-ws-pre-ripe.net
 p1003646.probes.atlas.ripe.net
 sg-sin-as18106.anchors.atlas.ripe.net
 dns.do-sti-as265695.anchors.atlas.ripe.net
@@ -15903,11 +15882,8 @@ eqix3-blade-1-13.ripe.net
 rrc02.ripe.net
 geo.ripe.net
 rrcc.ripe.net
-test-ripe.net
-933ripe.net
 antelope.ripe.net
 aquila-ftp.ripe.net
-aquila-ripe.net
 aso-test.ripe.net
 p34844.probes.atlas.ripe.net
 p6355.probes.atlas.ripe.net
@@ -15941,15 +15917,12 @@ hawk.ripe.net
 hawk-ftp.ripe.net
 hornet.ripe.net
 hostcount2.ripe.net
-httpripe.net
 info.ripe.net
 infoserv.ripe.net
 ipv6netdb.ripe.net
 jnro.ripe.net
-kite-ripe.net
 labs-lb.ripe.net
 lark.ripe.net
-libraryripe.net
 loginftp.ripe.net
 m.ripe.net
 users.media.ripe.net
@@ -15974,7 +15947,6 @@ ripexx.ripe.net
 rpsl.ripe.net
 rrc-validator.ripe.net
 test.rs.ripe.net
-security10ripe.net
 wdm.sg.ripe.net
 intentionally.broken.dualstack.wdm.sg.ripe.net
 u1344195727416.s1149906161.i1.v8.r4.t4.wdm.sg.ripe.net
@@ -16183,3 +16155,6 @@ www-pre-front-1.ripe.net
 www-int.ripe.net
 www2.ripe.net
 *.makstest.review.swe-rpki-dev.aws.ripe.net
+beta-ui.atlas.dev.ripe.net
+de-fra-as20676.anchors.atlas.ripe.net
+*.ripe.net

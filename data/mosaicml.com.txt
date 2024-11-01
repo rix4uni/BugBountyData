@@ -38,7 +38,6 @@ argocd-dev.int.mosaicml.com
 dev.morc.mosaicml.com
 hub.mosaicml.com
 mapi-sandbox.mosaicml.com
-mosaicml.com
 preview.console.mosaicml.com
 testing.api.mosaicml.com
 staging.api.mosaicml.com

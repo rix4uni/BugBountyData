@@ -1,0 +1,9 @@
+bilder.hifitorget.se
+api.hifitorget.se
+api-lb.hifitorget.se
+status.hifitorget.se
+www.hifitorget.se
+auth.hifitorget.se
+*.hifitorget.se
+test.hifitorget.se
+dev.hifitorget.se

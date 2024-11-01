@@ -4,7 +4,6 @@ dev-admin.spell.ml
 api.spell.ml
 apt.spell.ml
 get.spell.ml
-spell.ml
 dev-web.spell.ml
 join.spell.ml
 dev-registry.spell.ml

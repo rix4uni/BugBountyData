@@ -23,7 +23,6 @@ cms.bloemist.acc.topbloemen.be
 bloemist-dev.topbloemen.be
 www.topbloemen.be
 api.test.topbloemen.be
-topbloemen.be
 clicks.topbloemen.be
 websocket.bloemist.topbloemen.be
 mail.m.topbloemen.be
@@ -35,3 +34,4 @@ webservice.acc.topbloemen.be
 sites.topbloemen.be
 www.webservice.topbloemen.be
 preview.topbloemen.be
+*.topbloemen.be

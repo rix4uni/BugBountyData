@@ -16,3 +16,6 @@ mgmt-vermeulen.ops.prowise.io
 mgmt-pan.ops.prowise.io
 central.vermeulen.prowise.io
 ota.cms.vermeulen.prowise.io
+elastic.staging.prowise.io
+*.staging.prowise.io
+staging.prowise.io

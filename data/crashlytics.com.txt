@@ -1,5 +1,3 @@
-crashlytics.com
-fabriccrashlytics.com
 try.crashlytics.com
 support.crashlytics.com
 beta.crashlytics.com
@@ -105,3 +103,4 @@ alt923.crashlytics.com
 outbound.crashlytics.com
 asset-0.crashlytics.com
 finebase-settings.crashlytics.com
+*.crashlytics.com

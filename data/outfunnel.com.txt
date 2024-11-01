@@ -6,7 +6,6 @@ auth.outfunnel.com
 api-staging.outfunnel.com
 traefik-internal.outfunnel.com
 kubernetes-dashboard.outfunnel.com
-outfunnel.com
 drone.outfunnel.com
 app-dev.outfunnel.com
 webapp-staging.outfunnel.com

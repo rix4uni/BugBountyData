@@ -1305,7 +1305,6 @@ worldengine.labs.dans.knaw.nl
 www.niod.knaw.nl
 sand.meertens.knaw.nl
 www.meertens.knaw.nl
-knaw.nl
 hucdrive.s3.huc.knaw.nl
 wordpress.dans.knaw.nl
 kloeke.meertens.knaw.nl
@@ -2762,3 +2761,9 @@ test.mvn.huygens.knaw.nl
 license.labs.dans.knaw.nl
 pc194.cl.nioo.knaw.nl
 pc150.cto.nioo.knaw.nl
+*.huygens.knaw.nl
+iconclass.bureau.knaw.nl
+icontest.bureau.knaw.nl
+digitalis.bureau.knaw.nl
+www2.cbs.knaw.nl
+www.ia.bureau.knaw.nl

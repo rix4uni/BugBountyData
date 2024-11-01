@@ -15,7 +15,6 @@ event-service-dev.commonstock.com
 metabase.commonstock.com
 luigi.mds.commonstock.com
 ovh01.commonstock.com
-commonstock.com
 dev.watchlist.commonstock.com
 nats.commonstock.com
 ces.commonstock.com
@@ -147,4 +146,3 @@ apm.commonstock.com
 luigi.dev.mds.commonstock.com
 luigi.staging.mds.commonstock.com
 login.commonstock.com
-eatcommonstock.com

@@ -77,7 +77,6 @@ usergo.ebanx.com
 pesquisa.ebanx.com
 my.ebanx.com
 help.ebanx.com
-ebanx.com
 wwwa.ebanx.com
 myebanxlife.ebanx.com
 myebanxlife-test2.ebanx.com
@@ -206,3 +205,4 @@ enigma.ebanx.com
 master.openbanking.ebanx.com
 track.ebanx.com
 testes-openbanking.ebanx.com
+*.ebanx.com

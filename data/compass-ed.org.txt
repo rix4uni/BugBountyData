@@ -1,7 +1,6 @@
 auth.compass-ed.org
 jenkins.compass-ed.org
 mail2.compass-ed.org
-compass-ed.org
 www.compass-ed.org
 lewis.compass-ed.org
 mail1.compass-ed.org
@@ -14,3 +13,5 @@ nomad.z.compass-ed.org
 z.compass-ed.org
 mail.compass-ed.org
 ns1.compass-ed.org
+dev.compass-ed.org
+portal.compass-ed.org

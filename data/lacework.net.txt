@@ -16043,7 +16043,6 @@ laceholders.auprodn1.lacework.net
 lacework.auprodn1.lacework.net
 lacework.fra.lacework.net
 lacework.lacework.net
-lacework.net
 lacework.net.lacework.net
 laclassedeludivine.auprodn1.lacework.net
 laco-cis.auprodn1.lacework.net
@@ -35083,3 +35082,4 @@ qa1006.corp3.lacework.net
 *.preprod.corp.lacework.net
 *.qa7.corp.lacework.net
 *.prodperf1.prodperf1.corp.lacework.net
+*.staging.corp.lacework.net

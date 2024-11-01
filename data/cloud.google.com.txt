@@ -55,7 +55,6 @@ backupdr-staging.cloud.google.com
 backupdr.cloud.google.com
 bigquery.cloud.google.com
 cctldtest.cloud.google.com
-cloud.google.com
 composer-dev.cloud.google.com
 composer-qa.cloud.google.com
 composer-staging.cloud.google.com
@@ -91,7 +90,6 @@ dialogflow.cloud.google.com
 europe-west1.notebooks.cloud.google.com
 healthcare.cloud.google.com
 mtls.cloud.google.com
-nextcloud.google.com
 notebooks.cloud.google.com
 packages.cloud.google.com
 pipelines.cloud.google.com
@@ -143,7 +141,6 @@ dostawanavigator.cloud.google.com
 konsola.jp.cloud.google.com
 kompozytor-dev.cloud.google.com
 us-west1.datafusion.cloud.google.com
-x01zacloud.google.com
 sdk.cloud.google.com
 accesscontextmanager.cnrm.cloud.google.com
 apigee.cnrm.cloud.google.com

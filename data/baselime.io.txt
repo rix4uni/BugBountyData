@@ -1,6 +1,5 @@
 bridge.baselime.io
 cloudwatch-metrics.baselime.io
-baselime.io
 cloudtrail.baselime.io
 telemetry.baselime.io
 syslog.baselime.io

@@ -79,8 +79,6 @@ accounts.q2-pmgt.api.playstation.com
 accounts.q2-pqa.api.playstation.com
 accounts.q2-spint.api.playstation.com
 accounts.sp-int.api.playstation.com
-adaptorapi.playstation.com
-api.playstation.com
 auth.api.playstation.com
 c1-np.api.playstation.com
 c1-pmgt.api.playstation.com
@@ -272,7 +270,6 @@ satchel.api.playstation.com
 sbahn-publish.api.playstation.com
 sky-assets.api.playstation.com
 sp-int.api.playstation.com
-stage.adaptorapi.playstation.com
 store.auth.api.playstation.com
 takedown.api.playstation.com
 telemetry-cii.e1-np.api.playstation.com

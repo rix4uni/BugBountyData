@@ -199,7 +199,6 @@ parkgateway-waf.xiaojukeji.com
 zoom.xiaojukeji.com
 *.intra.xiaojukeji.com
 *.xiaojukeji.com
-xiaojukeji.com
 *.sec.xiaojukeji.com
 stargate.me.xiaojukeji.com
 *.manhattan.intra.xiaojukeji.com
@@ -732,8 +731,6 @@ zj.xiaojukeji.com
 gw-test.intra.xiaojukeji.com
 meetingcontrol.intra.xiaojukeji.com
 mirror.cs.princub.xiaojukeji.com
-mailgatexiaojukeji.com
-www.mailgatexiaojukeji.com
 sec.intra.xiaojukeji.com
 di-mock.xiaojukeji.com
 bosp-api.xiaojukeji.com

@@ -1,6 +1,5 @@
 dockerhub.notariat-services.com
 tango.notariat-services.com
-notariat-services.com
 charleston.notariat-services.com
 webhook-n8n-preprodintranet.notariat-services.com
 cfe.notariat-services.com
@@ -31,3 +30,4 @@ solutions.notariat-services.com
 solutions-print.notariat-services.com
 solutions.preprod.notariat-services.com
 tipimail.notariat-services.com
+*.notariat-services.com

@@ -1,4 +1,3 @@
-folioidentity.com
 devidentityservice.folioidentity.com
 dapverificationservice.folioidentity.com
 devverificationservice.folioidentity.com
@@ -11,3 +10,4 @@ dapidentityservice.folioidentity.com
 dev.folioidentity.com
 verification.folioidentity.com
 uatverification.folioidentity.com
+*.folioidentity.com

@@ -17,3 +17,11 @@ www.ccmclitera-uat.crowe.com
 gpiad.crowe.com
 www.gpiad.crowe.com
 func-platform-mec-api-stage.crowe.com
+cm-drx-publishingservice.crowe.com
+*.cm-drx-publishingservice.crowe.com
+cm-drx-identityserver.crowe.com
+*.cm-drx-identityserver.crowe.com
+itr-ondemand-stage.crowe.com
+taxconnect-uat.crowe.com
+hub.crowe.com
+*.hub.crowe.com

@@ -21,7 +21,6 @@ mail.schoolbytes.education
 staff.schoolbytes.education
 s3.schoolbytes.education
 www.schoolbytes.education
-schoolbytes.education
 dev.schoolbytes.education
 est123.sandbox.schoolbytes.education
 1.sandbox.schoolbytes.education
@@ -64,3 +63,17 @@ api.schoolbytes.education
 m51-122.mg.schoolbytes.education
 m123-223.mg.schoolbytes.education
 m227-106.mg.schoolbytes.education
+dev-qa-1.sandbox.schoolbytes.education
+www.dev-qa-2.sandbox.schoolbytes.education
+www.dev-qa-1.sandbox.schoolbytes.education
+branch-testing.sandbox.schoolbytes.education
+auth.pre.schoolbytes.education
+www.test123.sandbox.schoolbytes.education
+auth.dev.schoolbytes.education
+www.test.sandbox.schoolbytes.education
+www.est.sandbox.schoolbytes.education
+test123.sandbox.schoolbytes.education
+www.esting.sandbox.schoolbytes.education
+dev-qa1.sandbox.schoolbytes.education
+www.branch-testing.sandbox.schoolbytes.education
+dev-qa-2.sandbox.schoolbytes.education

@@ -6,7 +6,6 @@ cyber-assessment.perseus.de
 tig.www.perseus.de
 ped.vpn.perseus.de
 login2.stg.perseus.de
-perseus.de
 club.perseus.de
 pyphish.perseus.de
 sonarqube.perseus.de
@@ -85,3 +84,5 @@ irm-share.perseus.de
 www.grafana.perseus.de
 files.perseus.de
 com.udevs.perseus.de
+*.club.perseus.de
+*.perseus.de

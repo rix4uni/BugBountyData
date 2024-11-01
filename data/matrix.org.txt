@@ -2,7 +2,6 @@ www.matrix.org
 lfs.matrix.org
 matrix-client.matrix.org
 matrix-federation.matrix.org
-matrix.org
 spec.matrix.org
 staging.matrix.org
 www2.matrix.org
@@ -149,3 +148,18 @@ nyx.matrix.org
 conf.matrix.org
 sentry-int.matrix.org
 *.int-http.matrix.org
+conference.matrix.org
+aliucord.matrix.org
+elpis.matrix.org
+arke.matrix.org
+thermos-alt.matrix.org
+thermos.matrix.org
+adonis.matrix.org
+ersa.matrix.org
+paideia.int.matrix.org
+tenes.matrix.org
+ponos.matrix.org
+keros.matrix.org
+minos.matrix.org
+storas.int.matrix.org
+matrix-org-mscbot.matrix.org

@@ -1295,7 +1295,6 @@ test-swap.web.avalara.io
 cdn.ci.returns.ci.avalara.io
 cdn.qa.returns.ci.avalara.io
 cdn.returns.ci.avalara.io
-avalara.io
 chat.midgard.avalara.io
 qa.cip.exemptions.avalara.io
 netsuite.ceplogger.dev.avalara.io
@@ -2326,3 +2325,4 @@ cap02.prd.us-east-1.aws.avalara.io
 eta.sbx.us-east-1.aws.avalara.io
 *.raas-prd.mylodgetax.raas.avalara.io
 raas-prd.mylodgetax.raas.avalara.io
+nginx-external.gamma.prd.us-west-2.aws.avalara.io

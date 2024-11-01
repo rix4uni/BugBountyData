@@ -1,4 +1,3 @@
-riveon.cloud
 dev-drive.riveon.cloud
 grafana.riveon.cloud
 influxdb.riveon.cloud
@@ -16,6 +15,3 @@ auth.riveon.cloud
 auth.test.riveon.cloud
 status.riveon.cloud
 *.riveon.cloud
-*.driveon.cloud
-driveon.cloud
-www.driveon.cloud

@@ -1,0 +1,13 @@
+reviewers.addons.mozilla.org
+discovery.addons.mozilla.org
+code.addons.mozilla.org
+services.addons.mozilla.org
+pyrepo.addons.mozilla.org
+npmrepo.addons.mozilla.org
+builder.addons.mozilla.org
+forums.addons.mozilla.org
+versioncheck.addons.mozilla.org
+versioncheck-bg.addons.mozilla.org
+forum.addons.mozilla.org
+blocklist.addons.mozilla.org
+internal-api.addons.mozilla.org

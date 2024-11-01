@@ -266,7 +266,6 @@ zendesk4.sproutsocial.com
 test.identity.sproutsocial.com
 *.stage-advocacy.sproutsocial.com
 stage-advocacy.sproutsocial.com
-sproutsocial.com
 local.sproutsocial.com
 local.app.sproutsocial.com
 status.advocacy.sproutsocial.com
@@ -762,3 +761,4 @@ aafp.advocacy.sproutsocial.com
 email-link.sproutsocial.com
 lpscdn.sproutsocial.com
 engineering.sproutsocial.com
+demo.sproutsocial.com

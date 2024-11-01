@@ -1,4 +1,3 @@
-skybetservices.com
 static.skybetservices.com
 auth.skybetservices.com
 auth.nps.skybetservices.com
@@ -62,3 +61,19 @@ account.skybetservices.com
 schema.kafka.guea.skybetservices.com
 r.sidebar.staging.skybetservices.com
 r.auth.staging.skybetservices.com
+regstat.skybetservices.com
+www.account.staging.skybetservices.com
+www.api.verification.skybetservices.com
+www.document-upload-deletions.skybetservices.com
+www.document-upload.skybetservices.com
+www.email-verification.skybetservices.com
+www.pay.static.staging.skybetservices.com
+www.registration.staging.skybetservices.com
+www.registration.test5.skybetservices.com
+www.schema.kafka.skybetservices.com
+www.schema.kafka.staging.skybetservices.com
+www.sidebar.staging.skybetservices.com
+www.skybetservices.com
+www.verification.skybetservices.com
+www.verify.skybetservices.com
+www.verify.staging.skybetservices.com

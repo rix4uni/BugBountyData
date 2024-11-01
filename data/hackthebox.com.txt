@@ -18,7 +18,6 @@ zap.hackthebox.com
 get.hackthebox.com
 forum.hackthebox.com
 affiliate.hackthebox.com
-hackthebox.com
 account.hackthebox.com
 roadmap.hackthebox.com
 okt.hackthebox.com
@@ -42,3 +41,9 @@ events.hackthebox.com
 referral.hackthebox.com
 *.hackthebox.com
 *.dev.hackthebox.com
+airflow.data-dev.hackthebox.com
+meltano.data-dev.hackthebox.com
+noahbot.hackthebox.com
+data.hackthebox.com
+flock-ng-dev.hackthebox.com
+tableau.hackthebox.com

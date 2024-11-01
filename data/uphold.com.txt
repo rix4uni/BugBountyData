@@ -98,7 +98,6 @@ partner-portal.uphold.com
 partners.uphold.com
 portal.ascent.uphold.com
 telemetry.uphold.com
-uphold.com
 videoclick.blog.uphold.com
 zendesk-services.webhooks.sandbox.uphold.com
 zendesk-services.webhooks.uphold.com
@@ -124,10 +123,6 @@ partner-portal-sandbox.uphold.com
 edgetag.uphold.com
 ilp-gateway-usd-sandbox.uphold.com
 random-subdomain.uphold.com
-alexuphold.com
-condemnuphold.com
-nextuphold.com
-app-uphold.com
 webhooks.uphold.com
 webhooks.sandbox.uphold.com
 bank-gateway.sandbox.uphold.com
@@ -135,7 +130,6 @@ bank-gateway.sandbox.uphold.com
 mock.uphold.com
 cdn-v2.uphold.com
 hostmaster.videoclick.blog.uphold.com
-nuphold.com
 gh-mail.uphold.com
 *.bank-gateway.sandbox.uphold.com
 *.vault-service.webhooks.uphold.com

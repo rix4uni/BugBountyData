@@ -4,3 +4,12 @@ k8s-nginx-ingress.lb.infra.development.cf.selectra.io
 bidding-optimizer.app.staging.aws.selectra.io
 blanco.app.production.aws.selectra.io
 staging.mew.selectra.io
+callcenter.selectra.io
+auth.selectra.io
+ww.selectra.io
+microapps-sge-proxy.app.staging.aws.selectra.io
+portal-sge-proxy.app.staging.aws.selectra.io
+b2b.sge-proxy.app.staging.aws.selectra.io
+portal.sge-proxy.app.staging.aws.selectra.io
+*.selectra.io
+my-selectra.app.production.aws.selectra.io

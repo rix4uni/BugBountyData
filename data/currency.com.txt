@@ -27,10 +27,8 @@ and.currency.com
 www.burma.currency.com
 www.cbn.currency.com
 cache-api.currency.com
-currency.com
 boom.currency.com
 api.currency.com
 img.currency.com
-recurrency.com
-jobs.recurrency.com
-docs.recurrency.com
+*.currency.com
+internal-edu.backend.currency.com

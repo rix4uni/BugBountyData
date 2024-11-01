@@ -56,7 +56,6 @@ smpt3.riege.com
 staging.riege.com
 smtp1.riege.com
 sgp-test-tracking.riege.com
-riege.com
 legal.riege.com
 scope-exit.riege.com
 scope.riege.com
@@ -899,3 +898,8 @@ live-scope-fol.riege.com
 esl-tracking.riege.com
 test15-tracking.riege.com
 ip193.riege.com
+twm-test-tracking.riege.com
+qboauth.riege.com
+zet-test-tracking.riege.com
+twm-tracking.riege.com
+api-staging.riege.com

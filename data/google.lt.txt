@@ -10,7 +10,6 @@ books.google.lt
 toolbarqueries.google.lt
 local.google.lt
 ampcid.google.lt
-google.lt
 m.google.lt
 edu.google.lt
 clients6.google.lt
@@ -40,3 +39,4 @@ lh4.google.lt
 clients1.google.lt
 blogsearch.google.lt
 accounts.google.lt
+*.google.lt

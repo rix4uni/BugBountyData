@@ -2,7 +2,6 @@
 access.aktia.fi
 agp.aktia.fi
 aineistopalvelut.aktia.fi
-aktia.fi
 aktiacmg.aktia.fi
 allekirjoitus.aktia.fi
 api-aux.aktia.fi
@@ -166,3 +165,6 @@ www2.aktia.fi
 xtra.aktia.fi
 aametrics.aktia.fi
 allenamensbeds.aktia.fi
+*.authenticate.aktia.fi
+*.sys-test.authenticate.aktia.fi
+*.aktia.fi

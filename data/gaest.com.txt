@@ -1,6 +1,5 @@
 traefik-staging.gaest.com
 assets.cdn.gaest.com
-gaest.com
 api-testing.gaest.com
 stellar.gaest.com
 cs.gaest.com
@@ -51,5 +50,4 @@ www.gaest.com
 staging.gaest.com
 stargate.gaest.com
 traefik.gaest.com
-opagaest.com
 *.gaest.com

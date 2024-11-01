@@ -65,7 +65,6 @@ jira-internal.integrations.asana.plus
 jira-api-beta.integrations.asana.plus
 config.integrations-auth.asana.plus
 salesforce-backend.integrations.asana.plus
-asana.plus
 jira-dc.integrations.asana.plus
 auth.integrations-auth.asana.plus
 jira-api-allowedlist.integrations.asana.plus

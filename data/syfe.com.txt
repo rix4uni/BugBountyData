@@ -4,7 +4,6 @@ ag.syfe.com
 blog.syfe.com
 fwtrack.syfe.com
 www.qr-code-generator.syfe.com
-syfe.com
 internal.saas.syfe.com
 blog1.syfe.com
 o1.support-hk.syfe.com
@@ -68,3 +67,4 @@ admin.syfe.com
 *.internal.saas.syfe.com
 *.saas.syfe.com
 *.blog-au.syfe.com
+*.nonprod.syfe.com

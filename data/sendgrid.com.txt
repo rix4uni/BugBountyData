@@ -41,7 +41,6 @@ prod.sendgrid.com
 testing.sendgrid.com
 send.labs.sendgrid.com
 alabama.2.api.sendgrid.com
-sendgrid.com
 signup.testing.sendgrid.com
 assets2.sendgrid.com
 api-disabled.sendgrid.com
@@ -339,11 +338,7 @@ klaviyo.api-delete.sendgrid.com
 portal.sendgrid.com
 us-west-1.graphql-staging.sendgrid.com
 forum.sendgrid.com
-wwwsendgrid.com
-securesendgrid.com
 ul157.sendgrid.com
-to-sendgrid.com
-twilio-sendgrid.com
 uiux-assets.sendgrid.com
 tiara-assets.staging.sendgrid.com
 tiara-assets.testing.sendgrid.com

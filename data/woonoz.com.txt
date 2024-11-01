@@ -15,7 +15,6 @@ bo-escape-game.traefik-prod.woonoz.com
 gotoolmigration.traefik-prod.woonoz.com
 voltaire.woonoz.com
 broadcaster-ws.traefik-prod.woonoz.com
-woonoz.com
 pre3.learn.woonoz.com
 w4b-stat.woonoz.com
 r.training.woonoz.com
@@ -312,3 +311,7 @@ sasa-toto.digitt.traefik.woonoz.com
 woonoz-w4b-manager-demo.woonoz.com
 w4b-test-infra-prod.pma.traefik.woonoz.com
 demo-qui-marche.papamaman.traefik.woonoz.com
+rancher-prod.woonoz.com
+rancher-preprod.woonoz.com
+rancher-old-preprod.woonoz.com
+testmaria140.assurances.traefik.woonoz.com

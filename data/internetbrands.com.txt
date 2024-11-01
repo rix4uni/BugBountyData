@@ -21,7 +21,6 @@ nstein.internetbrands.com
 puppet1.internetbrands.com
 practicevideokit.internetbrands.com
 eqapp7-1.internetbrands.com
-internetbrands.com
 voip4.internetbrands.com
 ike-docker-local.artifactory.internetbrands.com
 new-car-services3.internetbrands.com
@@ -268,3 +267,4 @@ dr2.internetbrands.com
 gapps-sso.internetbrands.com
 ma1-mxout2.internetbrands.com
 smartsurvey.internetbrands.com
+*.internetbrands.com

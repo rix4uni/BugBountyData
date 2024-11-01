@@ -206,7 +206,6 @@ expert.clicksoftware.com
 mail40.clicksoftware.com
 auth1-svt-aus.cloud.clicksoftware.com
 sso-na.cloud.clicksoftware.com
-clicksoftware.com
 healthcenter-rss.clicksoftware.com
 w-11610793-lb.internal.clicksoftware.com
 okta2click.clicksoftware.com
@@ -456,7 +455,10 @@ vm-amsftp.clicksoftware.com
 tadtest.internal.clicksoftware.com
 vm-amiis.clicksoftware.com
 w-11926272-lb.internal.clicksoftware.com
-intelliclicksoftware.com
-clearclicksoftware.com
-firstclicksoftware.com
 homeserve-cm-sso.cloud.clicksoftware.com
+fse-ca-login.cloud.clicksoftware.com
+dev-fse-na-login.cloud.clicksoftware.com
+fse-eu-devel3-podev-login.cloud.clicksoftware.com
+ca01-ra-st01.cloud.clicksoftware.com
+fse-ca-sb-login.cloud.clicksoftware.com
+fse-anz-login.cloud.clicksoftware.com

@@ -350,7 +350,6 @@ tipsligan.atg.se
 enterpriseenrollment.atg.se
 metric.atg.se
 enterpriseregistration.atg.se
-atg.se
 login-portal.atg.se
 medlem.atg.se
 usercenter.atg.se
@@ -693,19 +692,6 @@ uagtest.atg.se
 www.nzggu.zfjmxm.atg.se
 *.dataplatform.sthlm.qa.awscloud.atg.se
 pr.assets.dev.atg.se
-boundlessatg.se
-advokatg.se
-*.advokatg.se
-www.media.fatg.se
-fatg.se
-pkipartner.fatg.se
-media.fatg.se
-www.fatg.se
-omatg.se
-www.omatg.se
-lommatg.se
-*.lommatg.se
-www.boundlessatg.se
 www.vlpucscva1.mgmt.hh.atg.se
 *.apps.sthlm.prod.awscloud.atg.se
 *.sthlm.prod.awscloud.atg.se
@@ -715,8 +701,6 @@ www.vlpucscva1.mgmt.hh.atg.se
 *.test2.hh.atg.se
 *.stage.hh.atg.se
 *.suppliers.atg.se
-wwwxatg.se
-*.wwwxatg.se
 *.apps.prelab.openshift.hh.atg.se
 *.ocpiprod.hastsportenshus.atg.se
 *.reg-ext.hh.atg.se
@@ -730,7 +714,6 @@ wwwxatg.se
 *.developer.aws.atg.se
 *.autotest9.hh.atg.se
 *.ocp-api-dev.hh.atg.se
-agmn.advokatg.se
 135-207-220-45.dev.atg.se
 ttftcuts.atg.se
 96-119-23-47.dev.atg.se
@@ -757,3 +740,4 @@ www2.atg.se
 vlinexus02.hh.atg.se
 com.example.atg.se
 dataplatform.sthlm.prod.awscloud.atg.se
+dataplatform.sthlm.qa.awscloud.atg.se

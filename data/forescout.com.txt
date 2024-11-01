@@ -214,7 +214,6 @@ ns2.forescout.com
 svc23.forescout.com
 www2.forescout.com
 crl.forescout.com
-forescout.com
 eaus.dev.cloud.forescout.com
 www.lab-mobileiron-2.qalab.forescout.com
 www.backend-api.device-cloud-dev.fsd.forescout.com
@@ -339,8 +338,6 @@ eaus.stg.internal.cloud.forescout.com
 www.eaus.stg.internal.cloud.forescout.com
 stg.cloud.forescout.com
 www.stg.cloud.forescout.com
-blazeinfosecforescout.com
-www.blazeinfosecforescout.com
 *.fem-eng.forescout.com
 www.investors.forescout.com
 2fupload.forescout.com

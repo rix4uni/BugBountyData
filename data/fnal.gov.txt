@@ -1,11 +1,7 @@
 www.fnal.gov
-fnal.gov
 *.fnal.gov
 indico.fnal.gov
 ssiferrygpvm02.fnal.gov
-*.fnal.gov.mcas-gov.us
-*.fnal.gov.mcas-df-gov.us
-*.fnal.gov.admin-mcas-gov.us
 *.apps.okdssidev2.fnal.gov
 test-6-eaf.fnal.gov
 test-3-eaf.fnal.gov
@@ -17,10 +13,6 @@ test-2-eaf.fnal.gov
 test-5-eaf.fnal.gov
 test-7-eaf.fnal.gov
 test-8-eaf.fnal.gov
-*.fnal.gov.mcas-df.ms
-*.fnal.gov.admin-mcas-df.ms
-*.fnal.gov.admin-mcas.ms
-*.fnal.gov.mcas.ms
 novadaq-far-datadisk-01.fnal.gov
 cmseos1514.fnal.gov
 minio-eaf.fnal.gov
@@ -218,7 +210,6 @@ cmsdcatst07.fnal.gov
 cmsdcatst06.fnal.gov
 cmsdcatst01.fnal.gov
 cmsdcatst08.fnal.gov
-n2fnal.govsc.net
 storagedev201.fnal.gov
 uqbar.fnal.gov
 srm.fnal.gov
@@ -1422,16 +1413,6 @@ nscpm1.fnal.gov
 nscpm-vip.fnal.gov
 nscpm2.fnal.gov
 nscpm4.fnal.gov
-*.fnal.gov.admin-eu2.cas.ms
-*.fnal.gov.eu.cas.ms
-*.fnal.gov.us.cas.ms
-*.fnal.gov.us2.cas.ms
-*.fnal.gov.admin-us3.cas.ms
-*.fnal.gov.us3.cas.ms
-*.fnal.gov.admin-us2.cas.ms
-*.fnal.gov.admin-us.cas.ms
-*.fnal.gov.eu2.cas.ms
-*.fnal.gov.admin-eu.cas.ms
 tst-htvault-03.fnal.gov
 htvaulttst.fnal.gov
 tst-htvault.fnal.gov
@@ -2275,7 +2256,6 @@ htccolldev02.fnal.gov
 htccedev02.fnal.gov
 htccolldev01.fnal.gov
 htccedev01.fnal.gov
-www-nova.fnal.govsport.hot-price.ru
 hostname.fnal.gov
 cmssrv277.fnal.gov
 gpgrid-gpgrid.fnal.gov
@@ -2603,3 +2583,4 @@ netvpn.fnal.gov
 xen-rsa.fnal.gov
 xen-piv.fnal.gov
 idp.fnal.gov
+cst-light1.fnal.gov

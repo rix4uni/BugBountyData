@@ -4,7 +4,6 @@ status.app.vaultplatform.com
 resources.vaultplatform.com
 status.vaultplatform.com
 araucana.vaultplatform.com
-vaultplatform.com
 dev-test.vaultplatform.com
 sbtest.vaultplatform.com
 www.api.forest.vaultplatform.com
@@ -31,3 +30,4 @@ demo.vaultplatform.com
 api.forest.demo.vaultplatform.com
 o1.ptr4739.vaultplatform.com
 v4v.vaultplatform.com
+*.vaultplatform.com

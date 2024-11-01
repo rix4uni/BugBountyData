@@ -71195,7 +71195,6 @@ nsxt.pcc-51-75-114-210.ovh.com
 nsxt.pcc-92-222-223-200.ovh.com
 ocsp.ovh.com
 old.ovh.com
-ovh.com
 payments-reports.corp.ovh.com
 preprod.logs.ovh.com
 proxy.csirt.ovh.com
@@ -76717,14 +76716,6 @@ bhs465-5eaab0e7d5afa0c8d4ffb725.bhs465.logs.ovh.com
 bhs1-64b916d3a212d025a085af0f.bhs1.logs.ovh.com
 infra-2.gra110.logs.ovh.com
 gra1-656390cfc7ec4f31b857269a.gra1.logs.ovh.com
-apollovh.com
-ercovh.com
-zfoxhovh.com
-hnbpovh.com
-build-ovh.com
-mundovh.com
-wovh.com
-e-ovh.com
 alerts.preprod-gra11.dataconvergence.ovh.com
 ldap.pcc-149-202-254-24.ovh.com
 ldap.pcc-178-32-194-124.ovh.com
@@ -76793,3 +76784,7 @@ www.ldap.pcc-5-135-132-67.ovh.com
 *.observability.ovh.com
 logs.observability.ovh.com
 observability.ovh.com
+nsxt.pcc-5-135-132-66.ovh.com
+nsxt.pcc-5-135-132-64.ovh.com
+ldap.pcc-51-210-115-167.ovh.com
+www.ldap.pcc-51-210-115-167.ovh.com

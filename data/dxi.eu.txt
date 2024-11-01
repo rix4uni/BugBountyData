@@ -381,7 +381,6 @@ host-14.dxi.eu
 host-35.dxi.eu
 host-76.dxi.eu
 host-118.dxi.eu
-dxi.eu
 *.aws-eu-west-2.int.dxi.eu
 *.int.dxi.eu
 *.dxi.eu
@@ -418,10 +417,6 @@ host-43.dxi.eu
 host-53.dxi.eu
 vince.dev.dxi.eu
 www.dxi.eu
-cloudxi.eu
-*.cloudxi.eu
-*.peruvianatwoodxi.eu
-peruvianatwoodxi.eu
 silo022.int.dxi.eu
 silo023.int.dxi.eu
 *.silo022.int.dxi.eu

@@ -1,4 +1,3 @@
-paystack.com
 developers.paystack.com
 checkout-studio.paystack.com
 go.paystack.com
@@ -48,3 +47,6 @@ offsite.paystack.com
 core.paystack.com
 _amazonses.paystack.com
 _dmarc.paystack.com
+support2.paystack.com
+*.paystack.com
+*.express.paystack.com

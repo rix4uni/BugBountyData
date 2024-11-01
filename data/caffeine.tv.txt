@@ -1411,7 +1411,6 @@ applink.caffeine.tv
 ssa.caffeine.tv
 content-guide.caffeine.tv
 www.caffeine.tv
-caffeine.tv
 get-clips.development.caffeine.tv
 private.staging.caffeine.tv
 mercy.staging.caffeine.tv
@@ -1558,10 +1557,8 @@ events-standalone.caffeine.tv
 frescotortillasn.caffeine.tv
 mg.email.caffeine.tv
 static-1n.caffeine.tv
-www.socialcaffeine.tv
 *.creator.staging.caffeine.tv
 *.creator.caffeine.tv
-socialcaffeine.tv
 *.kyleparrott.infra.caffeine.tv
 *.infra.caffeine.tv
 assets.random-environment.caffeine.tv

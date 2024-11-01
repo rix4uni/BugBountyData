@@ -1797,7 +1797,6 @@ domains.visma.com
 drive.visma.com
 authenticationsettings-api.connect.identity.stagaws.visma.com
 authenticationsettings-api.connect.int.identity.testaws.visma.com
-visma.com
 groups.visma.com
 gallery.apps.visma.com
 flytarkivpublic.visma.com
@@ -1996,10 +1995,6 @@ prima.medvind.visma.com
 enterprise-dev.visma.com
 autoreport.visma.com
 ig.visma.com
-teamjumbovisma.com
-bankvisma.com
-authvisma.com
-communityvisma.com
 superoffice.visma.com
 *.api.visma.com
 *.dbadapter.se1.vpca.visma.com
@@ -2036,3 +2031,12 @@ zendesk3.visma.com
 domainadm.visma.com
 *.latam.visma.com
 releasenotes.vismanet.denmark.visma.com
+ctrl.severa.stag.visma.com
+*.hosting.se2.vpca.visma.com
+*.adminhosting.se2.vpca.visma.com
+verify.api.rostergenbackend.vfxo.testaws.visma.com
+verify.api.rostergenfrontend.vfxo.testaws.visma.com
+api.rostergenfrontend.vfxo.testaws.visma.com
+api.rostergenbackend.vfxo.testaws.visma.com
+api.mobile.cloud.skole.stagaws.visma.com
+verify.api.mobile.cloud.skole.stagaws.visma.com

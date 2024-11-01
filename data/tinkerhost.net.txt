@@ -1,5 +1,4 @@
 filemanager2.tinkerhost.net
-tinkerhost.net
 app.tinkerhost.net
 community.tinkerhost.net
 files.tinkerhost.net
@@ -9,3 +8,8 @@ status.tinkerhost.net
 www.tinkerhost.net
 *.tinkerhost.net
 filemanager.tinkerhost.net
+www.mofhsub.tinkerhost.net
+mofhsub.tinkerhost.net
+clientexec.tinkerhost.net
+mt-link.tinkerhost.net
+beta1.tinkerhost.net

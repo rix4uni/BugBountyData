@@ -527,7 +527,6 @@ mail.chargebee.com
 analytics.au.chargebee.com
 ui.eu.chargebee.com
 bizops.eu.chargebee.com
-chargebee.com
 audits.au.chargebee.com
 enterpriseenrollment.chargebee.com
 eu.bizops.eu.chargebee.com
@@ -1864,3 +1863,4 @@ vowel.chargebee.com
 pricehubble-fr.chargebee.com
 propersum.chargebee.com
 *.items.eu.chargebee.com
+*.chargebee.com

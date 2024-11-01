@@ -97,7 +97,6 @@ prometheus.dev.rockset.com
 prometheus.euc1a1.rockset.com
 prometheus.rockset.com
 prometheus.use1a1.rockset.com
-rockset.com
 thanos.dev.rockset.com
 thanos.rockset.com
 _github-challenge-rockset.rockset.com
@@ -148,3 +147,16 @@ demo.rockset.com
 api.rockset.us-west-2.rockset.com
 api.usw2a1.dev.rockset.com
 terraform.rockset.com
+*.use1a1.dev.rockset.com
+*.usw1a1.dev.rockset.com
+*.usw2.rockset.com
+*.devb.dev.rockset.com
+*.use1.dev.rockset.com
+*.deva.dev.rockset.com
+*.use1a01.rockset.com
+*.dev2.use1.rockset.com
+*.rs3-use1-rockset-com.use1.rockset.com
+*.use1.rockset.com
+*.lab.dev.rockset.com
+*.control.rockset.com
+*.kube.control.rockset.com

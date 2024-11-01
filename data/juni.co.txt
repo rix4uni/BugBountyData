@@ -22,7 +22,6 @@ auth.juni.co
 kafka.k8s.juni.co
 api.k8s-dev.juni.co
 api.juni.co
-juni.co
 ga.juni.co
 api.k8s.juni.co
 psd2.api.juni.co
@@ -52,3 +51,5 @@ info.juni.co
 beta.juni.co
 preferences.juni.co
 kafka.k8s-staging.juni.co
+api.staging.juni.co
+*.api.staging.juni.co

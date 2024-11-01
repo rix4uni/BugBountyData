@@ -1,7 +1,6 @@
 *.allegro.pl.allegrosandbox.pl
 *.apps.developer.allegro.pl.allegrosandbox.pl
 *.developer.allegro.pl.allegrosandbox.pl
-allegro.pl.allegrosandbox.pl
 api.allegro.pl.allegrosandbox.pl
 api.wysylam.allegro.pl.allegrosandbox.pl
 apps.developer.allegro.pl.allegrosandbox.pl
@@ -17,17 +16,7 @@ static.allegro.pl.allegrosandbox.pl
 t.allegro.pl.allegrosandbox.pl
 upload.allegro.pl.allegrosandbox.pl
 webapi.allegro.pl.allegrosandbox.pl
-www.akropolis-allegro.pl.allegrosandbox.pl
-www.alanallegro.pl.allegrosandbox.pl
-www.c2allegro.pl.allegrosandbox.pl
-www.grdallegro.pl.allegrosandbox.pl
-www.itoallegro.pl.allegrosandbox.pl
 www.konto.wysylam.allegro.pl.allegrosandbox.pl
-www.maroc-allegro.pl.allegrosandbox.pl
-www.montana-allegro.pl.allegrosandbox.pl
-www.noallegro.pl.allegrosandbox.pl
-www.sandanskiallegro.pl.allegrosandbox.pl
-www.webmail-allegro.pl.allegrosandbox.pl
 wysylam.allegro.pl.allegrosandbox.pl
 enterprise.allegro.pl.allegrosandbox.pl
 gen-chat-call.allegro.pl.allegrosandbox.pl

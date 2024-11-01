@@ -10,7 +10,6 @@ community.careinnovations.com
 springboard.careinnovations.com
 populationhealthinsights.careinnovations.com
 checkout.careinnovations.com
-careinnovations.com
 fls-uat.careinnovations.com
 go.careinnovations.com
 devstore.careinnovations.com
@@ -61,3 +60,4 @@ splunk.careinnovations.com
 nutanix-vacare-c.careinnovations.com
 ciwaf.careinnovations.com
 stage.walmart.careinnovations.com
+*.careinnovations.com

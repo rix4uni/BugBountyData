@@ -56,7 +56,6 @@ unlocked.taxjar.com
 tjreporting.taxjar.com
 eac.w6nszgpcx9co.aws.taxjar.com
 ffiliate.taxjar.com
-taxjar.com
 feedback.taxjar.com
 leads.taxjar.com
 support.taxjar.com
@@ -74,3 +73,6 @@ www.test.taxjar.com
 test.taxjar.com
 sandbox-gateway.staging.api.taxjar.com
 *.taxjar.com
+app.ylf9pv1mnic4.aws.taxjar.com
+app-alb.aws.taxjar.com
+eac.ylf9pv1mnic4.aws.taxjar.com

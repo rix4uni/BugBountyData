@@ -179,7 +179,6 @@ pims-1964.k-stage.sbermarket.tech
 pims-1993.k-stage.sbermarket.tech
 pims-2136-api.k-stage.sbermarket.tech
 pims-2285-api.k-nonprod-content.sbermarket.tech
-sbermarket.tech
 datamanager.k-nonprod-content.sbermarket.tech
 grafana.k-content.sbermarket.tech
 landing-mars.k-stage.sbermarket.tech
@@ -397,3 +396,5 @@ inventory.sbermarket.tech
 pims-1297.k-stage.sbermarket.tech
 pims-2255-api.k-stage.sbermarket.tech
 gw-stage.sbermarket.tech
+*.sb-stage.sbermarket.tech
+*.sb-infra-basic.sbermarket.tech

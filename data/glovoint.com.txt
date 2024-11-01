@@ -1,4 +1,3 @@
-glovoint.com
 g8s-data-platform-dev.glovoint.com
 prodsec.glovoint.com
 trino.dev.data.glovoint.com
@@ -88,3 +87,4 @@ opentelemetry-collector-ci-metrics.g8s-runtime.glovoint.com
 mlflow.dispatching-dev.acc.glovoint.com
 ots.glovoint.com
 fs-docs.mlp-g8s-prod.glovoint.com
+g8s-services-dev-preview.glovoint.com

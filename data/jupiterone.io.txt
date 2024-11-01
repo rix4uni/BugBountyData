@@ -361,7 +361,6 @@ download.statestreet.jupiterone.io
 go.infra.jupiterone.io
 hotjobs.apps.dev.jupiterone.io
 jenkins.infra.jupiterone.io
-jupiterone.io
 launchdarkly.internal.statestreet.jupiterone.io
 login.statestreet.jupiterone.io
 neo4j-ops-manager-db.internal.us.jupiterone.io
@@ -4325,3 +4324,4 @@ query-engine-pod-007.internal.us.jupiterone.io
 query-engine-pod-007-reader.internal.us.jupiterone.io
 query-engine-pod-101-reader.internal.eu.jupiterone.io
 query-engine-pod-101.internal.eu.jupiterone.io
+aws-sns-eventsource-jupiterone-infra.infra.jupiterone.io

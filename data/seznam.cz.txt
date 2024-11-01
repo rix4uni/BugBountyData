@@ -901,11 +901,7 @@ mta-sts.294e93c7e01d6740.mx1.mojedomena.seznam.cz
 mta-sts.da51454f4ae6b120.mx1.mojedomena.seznam.cz
 www.slovnik.seznam.cz
 www.slovniky.seznam.cz
-aukce.televizeseznam.cz
-adminer.aukce.televizeseznam.cz
-redisadmin.aukce.televizeseznam.cz
 www.odkazy.seznam.cz
-notifikace.televizeseznam.cz
 horoskopy.seznam.cz
 www.horoskopy.seznam.cz
 horoskop.seznam.cz
@@ -922,3 +918,13 @@ www.seznam.cz
 fantasy.seznam.cz
 www.fantasy.seznam.cz
 www.klient.seznam.cz
+xshare.seznam.cz
+admin.xshare.seznam.cz
+api-admin.xshare.seznam.cz
+api-external.xshare.seznam.cz
+api-web.xshare.seznam.cz
+carddav.seznam.cz
+carddav-personal.seznam.cz
+staging.xshare.seznam.cz
+*.staging.xshare.seznam.cz
+*.xshare.seznam.cz

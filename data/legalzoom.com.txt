@@ -1,4 +1,3 @@
-legalzoom.com
 info.legalzoom.com
 blog.legalzoom.com
 divorce.legalzoom.com
@@ -1200,3 +1199,9 @@ goldengate.apps.prd.aws-01.legalzoom.com
 qa.api-web-session-service.dev.aws-01.legalzoom.com
 naics.model-hub.dev.aws-01.legalzoom.com
 personal-services.apigw.legalzoom.com
+rex-preview-prd.apps.prd.aws-01.legalzoom.com
+dev.iq-flow-preview.dev.aws-01.legalzoom.com
+dev-cf.iq-flow-preview.dev.aws-01.legalzoom.com
+*.artifactory.legalzoom.com
+rex-preview-qa.my-account-rex.dev.aws-01.legalzoom.com
+dev.personal-services.dev.aws-01.legalzoom.com

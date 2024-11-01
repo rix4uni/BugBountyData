@@ -14,7 +14,6 @@ dogfood.staging.secd3v.dev.x-rd.com.au
 dn.skywater.dev.x-rd.com.au
 gitlab.pl.skywater.dev.x-rd.com.au
 ci.skywater.dev.x-rd.com.au
-x-rd.com.au
 ea.skywater.dev.x-rd.com.au
 gitlab.sd.skywater.dev.x-rd.com.au
 nly.swcin.skywater.dev.x-rd.com.au
@@ -88,10 +87,3 @@ gitlab.xy.skywater.dev.x-rd.com.au
 *.jw.skywater.dev.x-rd.com.au
 *.ci.skywater.dev.x-rd.com.au
 *.dev.x-rd.com.au
-webmail.zzyzx-rd.com.au
-mail.zzyzx-rd.com.au
-cpanel.zzyzx-rd.com.au
-autodiscover.zzyzx-rd.com.au
-webdisk.zzyzx-rd.com.au
-zzyzx-rd.com.au
-www.zzyzx-rd.com.au

@@ -13,7 +13,6 @@ registration.iesohealth.com
 elearning.iesohealth.com
 hub.iesohealth.com
 us.iesohealth.com
-iesohealth.com
 status.iesohealth.com
 static.iesohealth.com
 login.iesohealth.com
@@ -65,3 +64,4 @@ cmtestaz-prod.internal.iesohealth.com
 email-gateway-prod-uk.internal.iesohealth.com
 registration-api-int.iesohealth.com
 auth-api-test-uk.internal.iesohealth.com
+*.iesohealth.com

@@ -1,6 +1,5 @@
 *.lightroom.adobe.com
 api.lightroom.adobe.com
-lightroom.adobe.com
 static.lightroom.adobe.com
 app-content.lightroom.adobe.com
 dl.lightroom.adobe.com
@@ -8,3 +7,4 @@ abd.addons-dev.lightroom.adobe.com
 addons-dev.lightroom.adobe.com
 samples.lightroom.adobe.com
 tutorialmaker.lightroom.adobe.com
+www.lightroom.adobe.com

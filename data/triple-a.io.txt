@@ -18,3 +18,4 @@ wpdemo.triple-a.io
 ln01-test.triple-a.io
 bank.triple-a.io
 dashboard-api.triple-a.io
+*.svc.triple-a.io

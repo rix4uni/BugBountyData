@@ -30,3 +30,5 @@ apps.google.co.ve
 books.google.co.ve
 *.consent.corp.google.co.ve
 *.corp.google.co.ve
+*.google.co.ve
+www.google.co.ve

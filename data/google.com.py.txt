@@ -55,8 +55,8 @@ lens.google.com.py
 www.google.com.py
 accounts.google.com.py
 consent.google.com.py
-google.com.py
 edu.google.com.py
 books.google.com.py
 plus.google.com.py
 gg.google.com.py
+*.google.com.py

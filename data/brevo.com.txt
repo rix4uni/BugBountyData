@@ -19,7 +19,6 @@ dashboard.brevo.com
 plugin.brevo.com
 account-app.brevo.com
 push-campaign-api.brevo.com
-brevo.com
 account-management-backend.brevo.com
 whatsapp-api.brevo.com
 account-billing-frontend-v2.brevo.com
@@ -200,3 +199,5 @@ metrics.brevo.com
 crm-api.brevo.com
 external-feeds.brevo.com
 ip-management.brevo.com
+www.assets.brevo.com
+inbound-webhooks.brevo.com

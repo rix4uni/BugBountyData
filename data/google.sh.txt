@@ -13,10 +13,15 @@ toolbarqueries.google.sh
 shopping.google.sh
 maps.google.sh
 mobile.google.sh
-google.sh
 images.google.sh
 clients1.google.sh
 books.google.sh
 news.google.sh
 ampcid.google.sh
 cctldtest.google.sh
+blogsearch.google.sh
+video.google.sh
+map.google.sh
+accounts.google.sh
+jmt17.google.sh
+*.google.sh

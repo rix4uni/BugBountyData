@@ -38,12 +38,9 @@ content.cuvva.com
 www.cuvva.com
 support.cuvva.com
 react-asset.cuvva.com
-cuvva.com
 gophish.cuvva.com
 *.g.prod.cuvva.com
 *.cuvva.com
-*.getcuvva.com
-getcuvva.com
 *.partner.cuvva.com
 *.g.nonprod.cuvva.com
 *.lp-contact.cuvva.com
@@ -57,11 +54,6 @@ getcuvva.com
 *.vendor.cuvva.com
 https-abs-twimg-com-4.cuvva.com
 mid.cuvva.com
-noreplycuvva.com
-dscuvva.com
-uncuvva.com
-*.uncuvva.com
-recuvva.com
 prod.cuvva.com
 nonprod.cuvva.com
 sys.cuvva.com

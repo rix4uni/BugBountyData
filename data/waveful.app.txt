@@ -72,5 +72,7 @@ run-test-g-us-east4-followuser.waveful.app
 run-g-us-east4-getleaderboard.waveful.app
 run-test-g-us-east4-sendmessage.waveful.app
 run-test-g-us-east4-sharepost.waveful.app
-waveful.app
 run-g-us-east4-getforyou.waveful.app
+run-test-g.waveful.app
+run-g-us-east4-likepost.waveful.app
+run-g-us-east4-viewpost.waveful.app

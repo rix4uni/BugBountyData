@@ -47,7 +47,6 @@ spidtestenv2.io.italia.it
 pa-onboarding.io.italia.it
 api.pa-onboarding.k8s-01.dev.io.italia.it
 developer.prod.io.italia.it
-io.italia.it
 app-backend.io.italia.it
 api-internal.io.italia.it
 pa-onboarding.dev.io.italia.it
@@ -79,3 +78,4 @@ developer.k8s-01.prod.io.italia.it
 prod.io.italia.it
 backend.developer.prod.io.italia.it
 app-backend.k8s-01.prod.io.italia.it
+api-secret-from-developer.io.italia.it

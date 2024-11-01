@@ -1664,7 +1664,6 @@ authenticate.assets-us-ops.codefi.network
 test-webhook-api-new-dev.codefi.network
 atlantis-va.shared.codefi.network
 account.metafi-dev.codefi.network
-codefi.network
 gas-api.metaswap.codefi.network
 price-api.metafi.codefi.network
 account.dev.mmcx.codefi.network
@@ -8561,3 +8560,5 @@ hostmaster.medialand.codefi.network
 prodtech.codefi.network
 shared.codefi.network
 my-alias.assets-paris-dev.codefi.network
+dev.shared.codefi.network
+on-ramp-content.metaswap-dev.codefi.network

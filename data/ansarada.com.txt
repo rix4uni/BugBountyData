@@ -27,7 +27,6 @@ _amazonses.ansarada.com
 msoid.ansarada.com
 autodiscover.ansarada.com
 info.ansarada.com
-ansarada.com
 jira.ansarada.com
 sip.ansarada.com
 help.ansarada.com
@@ -36,3 +35,12 @@ _h323cs._tcp.ansarada.com
 tenders.ansarada.com
 documents.spa.dev2.interface.ansarada.com
 wifi-ca.dev1.ansarada.com
+workflow.spa.staging.interface.ansarada.com
+workflow.spa.interface.ansarada.com
+esg.spa.interface.ansarada.com
+storybook-ansaradadotcom.spa.staging.interface.ansarada.com
+esg.spa.staging.interface.ansarada.com
+*.local.shared.ansarada.com
+ecommerce.spa.staging.interface.ansarada.com
+cas.spa.dev1.interface.ansarada.com
+esg.spa.dev1.interface.ansarada.com

@@ -1,4 +1,3 @@
-onesignal.com
 www.onesignal.com
 onesignal-data-dev.staging.onesignal.com
 onesignal-data.staging.onesignal.com
@@ -1683,3 +1682,5 @@ alan-mosko.onesignal.com
 b9good.onesignal.com
 a2zweddingcards.onesignal.com
 aptcoua.onesignal.com
+*.onesignal.com
+*.preview.onesignal.com

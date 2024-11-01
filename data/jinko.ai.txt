@@ -41,7 +41,6 @@ doc.jinko.ai
 api.qa.jinko.ai
 cistore.dev.jinko.ai
 api.staging.jinko.ai
-jinko.ai
 scheduler-flower-genmab-prod.prod-2.k8s.jinko.ai
 dev-bis.jinko.ai
 frontend-preprod.prod-2.k8s.jinko.ai
@@ -67,3 +66,5 @@ homebox.jinko.ai
 collaboration.jinko.ai
 novak.jinko.ai
 elasticsearch-preprod.prod-2.k8s.jinko.ai
+rstudio.servier-aml.jinkomputev2.jinko.ai
+productexperience.jinko.ai

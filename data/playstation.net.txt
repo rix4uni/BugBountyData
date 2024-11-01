@@ -8133,7 +8133,6 @@ wildcard.e1-pmgt.ac.playstation.net
 iv0001-npxs01095-00.auth.np.ac.playstation.net
 gms2-ubp.ww.prod.gems.playstation.net
 stn.np.community.playstation.net
-playstation.net
 3393-wildcard.np.rds.s0.playstation.net
 ps4updptl.np.community.playstation.net
 boku-commercial.d1-np.ac.playstation.net
@@ -8781,9 +8780,7 @@ a6.be.mgmt.communication.playstation.net
 pcs-nonprod-pub.nonprod.pcs.playstation.net
 sa-push.np.communication.playstation.net
 b0.bg.mgmt.communication.playstation.net
-clanplaystation.net
 dkr01.psv.update.playstation.net
-sce-playstation.net
 np.km.playstation.net
 np.stun.playstation.net
 net.playstation.net
@@ -8926,3 +8923,6 @@ in.np.stun.playstation.net
 tools.internal.pt.playstation.net
 api.vpce.pcs.playstation.net
 sgsc.e1.dl.playstation.net
+uks-7092-prod-usw2-p3mp.internal.pt.playstation.net
+*.uks-7092-prod-usw2-p3mp.internal.pt.playstation.net
+*.dash.playstation.net

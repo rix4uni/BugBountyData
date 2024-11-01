@@ -1405,7 +1405,6 @@ bazaar-qa-us-west-2.dev.braintree-api.com
 login-qa-us-east-2.dev.braintree-api.com
 journalist-prod-us-east-1.production.braintree-api.com
 localpaydemo-qa-us-west-2.dev.braintree-api.com
-braintree-api.com
 reader-eu-central-1.dev.braintree-api.com
 foundations-ui.dev.braintree-api.com
 reader-websocket-us-east-2.dev.braintree-api.com
@@ -1463,3 +1462,7 @@ threedsecure-sand-us-east-2.sandbox.braintree-api.com
 data-production.braintree-api.com
 data-staging.braintree-api.com
 jenkins-prod.braintree-api.com
+72.104.128payments.braintree-api.com
+cloudflare.sandbox.braintree-api.com
+bastion-splunk-us-east-2.splunk.braintree-api.com
+gatewaywww-prod.production.braintree-api.com

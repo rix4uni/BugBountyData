@@ -1,6 +1,5 @@
 *.a.exodus.io
 *.web-dapps.a.exodus.io
-a.exodus.io
 avax-c.a.exodus.io
 bitcoin.a.exodus.io
 bitcoinnew-d.a.exodus.io
@@ -31,7 +30,6 @@ vgs.fiat-d.a.exodus.io
 web-dapps-test.a.exodus.io
 web-dapps.a.exodus.io
 web3.a.exodus.io
-404: not founda.exodus.io
 ada.a.exodus.io
 algo-api.a.exodus.io
 algo-s.a.exodus.io
@@ -62,10 +60,8 @@ filecoin.a.exodus.io
 ftx.a.exodus.io
 geth-quorum-d.a.exodus.io
 gl-test.a.exodus.io
-grafana.exodus.io
 hedera.a.exodus.io
 kava.a.exodus.io
-metadata.exodus.io
 nano.a.exodus.io
 nem.a.exodus.io
 neo-mag-d.a.exodus.io
@@ -121,14 +117,12 @@ kava-p.a.exodus.io
 kava-s.a.exodus.io
 bsc-s.a.exodus.io
 tron-af-p.a.exodus.io
-ada.exodus.io
 nexotrack-s.a.exodus.io
 fantom-clarity-d.a.exodus.io
 fetch-n-cache.a.exodus.io
 hedera-proxy.a.exodus.io
 arbitrum-nova-clarity-s.a.exodus.io
 eth-s.a.exodus.io
-factombeta.exodus.io
 bitcoinsv-p.a.exodus.io
 crypto-news-s.a.exodus.io
 getc-d.a.exodus.io
@@ -298,7 +292,6 @@ avax-c-d.a.exodus.io
 polkascan-substrate-s.a.exodus.io
 waves-d.a.exodus.io
 eos-p.a.exodus.io
-kibana.exodus.io
 bsc-clarity-d.a.exodus.io
 filecoin-nn.a.exodus.io
 hedera-p.a.exodus.io
@@ -578,7 +571,6 @@ stellar-proxy-d.a.exodus.io
 exchange-verifier-d.a.exodus.io
 vertcoin-d.a.exodus.io
 substrate-api-sidecar-d.a.exodus.io
-hsdata.exodus.io
 xtz-s.a.exodus.io
 scam-hitlist.a.exodus.io
 www.a.exodus.io
@@ -596,3 +588,4 @@ minze.a.exodus.io
 polygon-qn-d.a.exodus.io
 kyc.a.exodus.io
 osmosis-proxy.a.exodus.io
+*.web-dapps-test.a.exodus.io

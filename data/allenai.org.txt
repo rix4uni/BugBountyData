@@ -1,7 +1,6 @@
 aristo-breve.apps.allenai.org
 qdecomp.apps.allenai.org
 itwiki.allenai.org
-allenai.org
 skiff-files-web.apps.allenai.org
 files.allenai.org
 pages.allenai.org
@@ -14,3 +13,14 @@ photoload-image-annotator.apps.allenai.org
 satlas.allenai.org
 scifact.apps.allenai.org
 scispacy.apps.allenai.org
+procthor.allenai.org
+allenai-web.apps.allenai.org
+mosaic.allenai.org
+www.allenai.org
+prior.allenai.org
+dataverse.apps.allenai.org
+fuels-data.wildlands.allenai.org
+*.allenai.org
+*.local.allenai.org
+phone2proc.allenai.org
+pritunl.allenai.org

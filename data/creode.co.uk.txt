@@ -74,7 +74,6 @@ www.generous-ape-order-management.uat73.creode.co.uk
 my1styears.staging.creode.co.uk
 cp.creode.co.uk
 apslegalireland.creode.co.uk
-creode.co.uk
 yorkshiresport.production.creode.co.uk
 sipsmith-multisite.uat72.creode.co.uk
 advancehe.uat72.creode.co.uk
@@ -443,3 +442,4 @@ softlaunch.cedar.watford.creode.co.uk
 softlaunch.farmatrust.creode.co.uk
 www.commerce-demo.uat72.creode.co.uk
 abe-ws.uat.creode.co.uk
+*.creode.co.uk

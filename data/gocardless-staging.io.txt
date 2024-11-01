@@ -1,4 +1,3 @@
-gocardless-staging.io
 connect-test-staging.gocardless-staging.io
 gc4x-rabbitmq.gocardless-staging.io
 ob-us.gocardless-staging.io
@@ -131,3 +130,4 @@ risk-que.gocardless-staging.io
 github-event-publisher.gocardless-staging.io
 open-banking-testbed.gocardless-staging.io
 prometheus.na.gocardless-staging.io
+www.gocardless-staging.io

@@ -29,7 +29,6 @@ saltrackingdata.lead.app
 fp.lead.app
 stg-punchcard.lead.app
 stg.frontend.lead.app
-lead.app
 backend.admin.lead.app
 apps.lead.app
 this.props.lead.app

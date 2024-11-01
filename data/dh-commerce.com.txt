@@ -1,4 +1,3 @@
-dh-commerce.com
 selfservice-api.dh-commerce.com
 translation.staging.dh-commerce.com
 perftest.dh-commerce.com
@@ -12,3 +11,4 @@ selfservice-api.staging.dh-commerce.com
 translation.dh-commerce.com
 orders-api.dh-commerce.com
 *.dh-commerce.com
+www.dh-commerce.com

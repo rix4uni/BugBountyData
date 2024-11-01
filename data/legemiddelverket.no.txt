@@ -19,7 +19,6 @@ nls.legemiddelverket.no
 utv-vedl-api.legemiddelverket.no
 at-api.legemiddelverket.no
 fest.legemiddelverket.no
-legemiddelverket.no
 int.legemiddelverket.no
 utv-api.legemiddelverket.no
 post.legemiddelverket.no
@@ -39,3 +38,7 @@ meet.legemiddelverket.no
 staging.legemiddelverket.no
 www.vigisec-te.legemiddelverket.no
 www.evi-te.legemiddelverket.no
+15www.legemiddelverket.no
+test.legemiddelverket.no
+pasientskjema.legemiddelverket.no
+pasientlogin.legemiddelverket.no

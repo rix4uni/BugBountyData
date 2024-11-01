@@ -7,7 +7,6 @@ stage.mixamo.com
 mac1.mixamo.com
 server2.mixamo.com
 api.mixamo.com
-mixamo.com
 blog.mixamo.com
 blog-stage.mixamo.com
 info.mixamo.com
@@ -18,9 +17,6 @@ proxy.mixamo.com
 cms.mixamo.com
 server4.mixamo.com
 trac.mixamo.com
-wwwmixamo.com
-*.wwwmixamo.com
-woomixamo.com
 2fwww.mixamo.com
 mazemanwalk.mixamo.com
 assets3.content.mixamo.com

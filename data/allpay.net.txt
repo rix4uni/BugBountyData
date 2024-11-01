@@ -1,10 +1,6 @@
-allpay.net
-callpay.net
-tiktokmallpay.net
 portal.allpay.net
 login.allpay.net
 webconnect.allpay.net
-www.callpay.net
 cdn1.prd01.allpay.net
 prd01.allpay.net
 api.prepaid.tpa.allpay.net
@@ -139,3 +135,6 @@ test3.allpay.net
 ezine.allpay.net
 vpn.allpay.net
 agilis.qua01.allpay.net
+*.prd01.allpay.net
+*.agilis.uat01.allpay.net
+*.agilis.trn01.allpay.net

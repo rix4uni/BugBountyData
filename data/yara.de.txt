@@ -7,3 +7,4 @@ windows.detection.yara.de
 pre.yara.de
 int.yara.de
 rules.yara.de
+*.yara.de

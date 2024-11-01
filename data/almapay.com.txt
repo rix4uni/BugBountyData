@@ -1,4 +1,3 @@
-almapay.com
 shop.sandbox.almapay.com
 api.almapay.com
 help.almapay.com
@@ -7,3 +6,6 @@ api.sandbox.almapay.com
 *.staging.almapay.com
 *.sandbox.almapay.com
 checkout.sandbox.almapay.com
+*.merchant-dashboard.staging.almapay.com
+*.portal.staging.almapay.com
+cdn.almapay.com

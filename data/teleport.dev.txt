@@ -29,7 +29,6 @@ yum.releases.teleport.dev
 yum.releases.development.teleport.dev
 zypper.releases.teleport.dev
 zypper.releases.development.teleport.dev
-teleport.dev
 cert-test.eks-gha-dev.cluster.teleport.dev
 _dmarc.teleport.dev
 dev.platform.teleport.dev
@@ -78,6 +77,5 @@ teleportrolev7.resources.teleport.dev
 spacelift.teleport.dev
 teleportuser.resources.teleport.dev
 debug.teleport.dev
-goteleport.dev
 win-jr2l4p7kn15.teleport.dev
 teleportopensshserverv2.resources.teleport.dev

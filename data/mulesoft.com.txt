@@ -47,7 +47,6 @@ cy.fabric2.rpa.qax.mulesoft.com
 www.training.mulesoft.com
 object-store-direct-eu-west-2.stgx.anypoint.mulesoft.com
 devx.anypoint.mulesoft.com
-mulesoft.com
 hqbhsyos.rpa.qax.mulesoft.com
 object-store-direct-us-east-1.devx.anypoint.mulesoft.com
 object-store-direct-ap-southeast-2.qax.anypoint.mulesoft.com
@@ -892,3 +891,9 @@ object-store-direct-sa-east-1.stgx.anypoint.mulesoft.com
 api.mulesoft.com
 *.w8jsmqal.rpa.qax.mulesoft.com
 *.composer.mulesoft.com
+*.workshops.mulesoft.com
+status.devx.mulesoft.com
+eu1-status.devx.mulesoft.com
+gov-status.devx.mulesoft.com
+dev2.platform.mulesoft.com
+maven.dev2.platform.mulesoft.com

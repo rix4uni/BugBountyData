@@ -144,7 +144,6 @@ admin-vpn.dev.grindr.io
 vpn.dsci.grindr.io
 vpn.preprod.dev.grindr.io
 dev.grindr.io
-grindr.io
 prod.grindr.io
 adbuilder.prod.grindr.io
 *.platform.grindr.io
@@ -187,7 +186,6 @@ astrodev.dev.grindr.io
 kibana.hub.grindr.io
 test.grindr.io
 webrt.hub.grindr.io
-www.metagrindr.io
 neo-k8s.prod.grindr.io
 spammer.dsci.grindr.io
 cloudera-manager.dsci.grindr.io
@@ -3330,3 +3328,4 @@ email.notifications.grindr.io
 apis.mlops-nonsensitive.grindr.io
 mlops-nonsensitive.grindr.io
 *.mlops-sensitive.grindr.io
+mlops-sensitive.grindr.io

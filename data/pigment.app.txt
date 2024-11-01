@@ -203,5 +203,8 @@ us1.staging-kiali.pigment.app
 www.staging.pigment.app
 _dmarc.pigment.app
 www.pigment.app
-pigment.app
 www.looker-api.pigment.app
+ai-dev-literalai.pigment.app
+ai-dev-langsmith.pigment.app
+staging-eu1-waf.pigment.app
+ai-dev-ai-dev-langsmith.pigment.app

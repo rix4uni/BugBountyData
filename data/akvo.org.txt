@@ -1,5 +1,4 @@
 flow-services.akvo.org
-akvo.org
 kabarole-wash.tc.akvo.org
 new-look.akvo.org
 pvw-dev.akvo.org
@@ -83,3 +82,21 @@ si-hcf-wash.tc.akvo.org
 staging3.akvo.org
 www.peak.akvo.org
 idh-prod.tc.akvo.org
+unep-gpml.akvo.org
+staging2.peak.akvo.org
+metrics.akvo.org
+unilog-k8s.akvo.org
+api-auth0.akvo.org
+isco.akvo.org
+tech-consultancy.akvo.org
+api.akvo.org
+www.staging3.akvo.org
+wai-mis.tc.akvo.org
+www.sites.akvo.org
+sitesdemo.akvo.org
+www.akvosites.akvo.org
+www.tc.akvo.org
+unicef-sig-map.tc.akvo.org
+sensors.akvo.org
+metrics-test.akvo.org
+rsr2.test.akvo.org

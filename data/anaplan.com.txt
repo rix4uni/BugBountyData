@@ -14,7 +14,6 @@ www.corp.anaplan.com
 help.anaplan.com
 uat.anaplan.com
 www.thebarn.anaplan.com
-anaplan.com
 auth-dev6.anaplan.com
 auth-dev9.anaplan.com
 www.anaplan.com
@@ -1033,3 +1032,6 @@ edge.tenants.auth0.anaplan.com
 prod-us6.app.anaplan.com
 *.np-eks.pai-np.predictive-dev.anaplan.com
 *.pai-np.predictive-dev.anaplan.com
+academy.anaplan.com
+iam-eu-in1.anaplan.com
+*.app-qaprod1.anaplan.com

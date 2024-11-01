@@ -1,4 +1,3 @@
-bobbie.de
 *.bobbie.de
 zabbix.bobbie.de
 *.zabbix.bobbie.de
@@ -6,3 +5,17 @@ mail-test.bobbie.de
 *.mail-test.bobbie.de
 dtrans.build.bobbie.de
 *.dtrans.build.bobbie.de
+tobias.bobbie.de
+*.tobias-bau.bobbie.de
+*.tobias.bobbie.de
+tobias-bau.bobbie.de
+hub.dev.platform.bobbie.de
+*.auth.dev.platform.bobbie.de
+*.hub.dev.platform.bobbie.de
+hub.staging.platform.bobbie.de
+*.hub.staging.platform.bobbie.de
+*.auth.staging.platform.bobbie.de
+draw.dev.platform.bobbie.de
+*.draw.dev.platform.bobbie.de
+draw.staging.platform.bobbie.de
+*.draw.staging.platform.bobbie.de

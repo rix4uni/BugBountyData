@@ -56,9 +56,10 @@ ns3.google.hn
 edu.google.hn
 m.google.hn
 chrome.google.hn
-google.hn
 maps.google.hn
 blogsearch.google.hn
 store.google.hn
 shopping.google.hn
 admob.google.hn
+*.google.hn
+www.adservice.google.hn

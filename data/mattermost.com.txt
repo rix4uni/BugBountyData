@@ -886,7 +886,6 @@ matterbuild.mattermost.com
 mattermod-new.mattermost.com
 mattermod.mattermost.com
 mattermost.cloud.mattermost.com
-mattermost.com
 matterwick.core.cloud.mattermost.com
 max.cloud.mattermost.com
 maya.cloud.mattermost.com
@@ -1876,9 +1875,6 @@ elias.cloud.mattermost.com
 gartner.cloud.mattermost.com
 git.infosec.mattermost.com
 mm-calico.dev.cloud.mattermost.com
-smattermost.com
-btymattermost.com
-familiesmattermost.com
 stavros-autoscaling-test-216.dev.cloud.mattermost.com
 docker.github-ee.test.mattermost.com
 gabe-p4.dev.cloud.mattermost.com
@@ -2240,3 +2236,8 @@ awat-e2e-owrdsuu5db84bfo8xkk1n15wirmir012.dev.cloud.mattermost.com
 awat-e2e-83gw8st6gpd43cx5dh1ejyrpwamir012.dev.cloud.mattermost.com
 playbooks.integrations.test.cloud.mattermost.com
 oracle.test.mattermost.com
+securityupdatecheck.mattermost.com
+angelos-pexip.dev.cloud.mattermost.com
+postgres.test.mattermost.com.test.mattermost.com
+gabe-pg1check.dev.cloud.mattermost.com
+kroescontrol.cloud.mattermost.com

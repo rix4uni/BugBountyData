@@ -31,7 +31,6 @@ www.gentlent.com
 pub.corp.gentlent.com
 gdb-monitoring.corp.gentlent.com
 my.gentlent.com
-gentlent.com
 root-ca3-demo-revoked.pki.gentlent.com
 ns2.gentlent.com
 blog.gentlent.com
@@ -56,3 +55,6 @@ cdn.gentlent.com
 ssl-issuance-test-0007.gentlent.com
 tester.gentlent.com
 ssl-issuance-test-0009.gentlent.com
+captain.gcore.gentlent.com
+gcore.gcore.gentlent.com
+*.gentlent.com

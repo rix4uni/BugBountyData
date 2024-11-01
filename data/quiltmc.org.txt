@@ -1,7 +1,6 @@
 elections.quiltmc.org
 forum.quiltmc.org
 status.quiltmc.org
-quiltmc.org
 maven.quiltmc.org
 team-info.quiltmc.org
 meta.quiltmc.org
@@ -12,3 +11,7 @@ discord.quiltmc.org
 collab.wiki.quiltmc.org
 forum-cdn.quiltmc.org
 helm-charts.quiltmc.org
+beacon.quiltmc.org
+stats.quiltmc.org
+maven2.quiltmc.org
+www.quiltmc.org

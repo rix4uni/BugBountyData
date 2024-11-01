@@ -1898,7 +1898,6 @@ user-api.my-ncsc.egs.asd.notprod.devops.ncsc.gov.uk
 user-api.my-ncsc.mario.asd.notprod.devops.ncsc.gov.uk
 welcome.pdns.service.ncsc.gov.uk
 welcometopdns.pdns.service.ncsc.gov.uk
-ncsc.gov.uk
 corp.ncsc.gov.uk
 cvpn.external.ncsc.gov.uk
 adds03.corp.ncsc.gov.uk
@@ -2041,3 +2040,8 @@ pr-2336.my-dev.prototype.service.ncsc.gov.uk
 hub.dev.audit.service.ncsc.gov.uk
 pr-2334.my-dev.prototype.service.ncsc.gov.uk
 pr-2335.my-dev.prototype.service.ncsc.gov.uk
+testy.stage.pdnsdata.service.ncsc.gov.uk
+pr-2025.my-dev.prototype.service.ncsc.gov.uk
+pr-1573.my-dev.prototype.service.ncsc.gov.uk
+pr-2337.my-dev.prototype.service.ncsc.gov.uk
+*.pr-2337.my-dev.prototype.service.ncsc.gov.uk

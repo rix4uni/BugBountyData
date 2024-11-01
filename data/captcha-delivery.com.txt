@@ -33,7 +33,6 @@ beta-c.captcha-delivery.com
 api-eu-north-1.captcha-delivery.com
 api-us-illinois-1.captcha-delivery.com
 api-us-east-2.captcha-delivery.com
-captcha-delivery.com
 *.prod.captcha-delivery.com
 *.captcha-delivery.com
 *.sdbx-engine.captcha-delivery.com
@@ -79,3 +78,4 @@ api-beta-eu-west-3.captcha-delivery.com
 api-us-florida-2.captcha-delivery.com
 dd.sdbx-dashboard.captcha-delivery.com
 *.sdbx-dashboard.captcha-delivery.com
+sdbx-dashboard.captcha-delivery.com

@@ -1,4 +1,3 @@
-enerbank.com
 application.enerbank.com
 info.enerbank.com
 sqlreport.enerbank.com
@@ -5548,3 +5547,6 @@ accesspoint.0-100-223-119s3-global.enerbank.com
 s3.ap-southeast-2.vpce.0-100-192-42.enerbank.com
 e1.enerbank.com
 amqpbridge-api.test.enerbank.com
+payment.enerbank.com
+www.fms.enerbank.com
+www.stagingbwp.enerbank.com

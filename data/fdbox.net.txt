@@ -183,7 +183,6 @@ fd-builds.fdbox.net
 rewards-api-internal.fdbox.net
 vpn-colo.fdbox.net
 account.wv.sportsbook.devstack-jd20210615-web.use1.dev.us.fdbox.net
-fdbox.net
 www.webtitan.fdbox.net
 devstack-icyplumemu0703-web.use1.dev.us.fdbox.net
 account.www.devstack-lowaerobat0617-web.use1.dev.us.fdbox.net
@@ -290,7 +289,6 @@ www.playbook.data.dev.fdbox.net
 www.ds-1.east.fdbox.net
 *.dev.ss.fdbox.net
 *.ss.fdbox.net
-webmaster@fdbox.net
 www.jenkins.east.fdbox.net
 admin-alertmanager-plateng-prod.draft.fdbox.net
 asa.east.fdbox.net
@@ -351,12 +349,6 @@ www.devstack-shyfernemu0709-web.use1.dev.us.fdbox.net
 wwwoldimagesearchbling14.perftest.fdbox.net
 dashboard.test.fdbox.net
 ukproduct4-api.east.fdbox.net
-www.upleafdbox.net
-upleafdbox.net
-*.vfdbox.net
-vfdbox.net
-pay.vfdbox.net
-www.pay.vfdbox.net
 locust-stresstest.test.fdbox.net
 locust-stresstest.use1.dev.draft.fdbox.net
 prod.fdbox.net

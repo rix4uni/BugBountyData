@@ -25,7 +25,6 @@ metabase.tymeshift.com
 rundeck.tymeshift.com
 tc-dev.tymeshift.com
 upsource.tymeshift.com
-tymeshift.com
 eap.tymeshift.com
 trail.tymeshift.com
 careers.tymeshift.com
@@ -37,3 +36,4 @@ postmates.tymeshift.com
 redis3-us1.tymeshift.com
 status.tymeshift.com
 www2.tymeshift.com
+*.tymeshift.com

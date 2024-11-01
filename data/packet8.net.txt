@@ -393,7 +393,6 @@ p5.packet8.net
 ipsbc01-dc6.packet8.net
 referral.packet8.net
 mediaswitch4.packet8.net
-packet8.net
 ops1-eq.packet8.net
 liveops.packet8.net
 vxsbc.packet8.net
@@ -1030,3 +1029,4 @@ _62.packet8.net
 _192.packet8.net
 wwwactivate.packet8.net
 _226.packet8.net
+uc3-eq.packet8.net

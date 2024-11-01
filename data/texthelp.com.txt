@@ -43,7 +43,6 @@ writinghelper-staging.dev.texthelp.com
 snapverter.texthelp.com
 enzo.texthelp.com
 pub-demo-web-fluency.texthelp.com
-texthelp.com
 authoringtool-webservices.texthelp.com
 crmdev.texthelp.com
 equatio-lti.texthelp.com
@@ -258,3 +257,9 @@ acton-proxy-staging.texthelp.com
 rw4gc-epub-qa.texthelp.com
 webappspeech.texthelp.com
 risks.texthelp.com
+equatio-auth.dev.texthelp.com
+wriq-api.texthelp.com
+speechstreamtoolbar-webservices-7.texthelp.com
+rw4gc-epub-production.texthelp.com
+kdefiles2.texthelp.com
+*.dev.texthelp.com

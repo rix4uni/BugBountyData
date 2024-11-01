@@ -82,3 +82,6 @@ cms.mux.com
 *.fastly-staging.mux.com
 globe.mux.com
 docs-legacy.mux.com
+*.oci-us-phoenix-1-vos1.staging.mux.com
+oci-us-phoenix-1-vos1.staging.mux.com
+blog.mux.com

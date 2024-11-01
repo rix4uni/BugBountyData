@@ -60,7 +60,6 @@ uw2.origin.qa.rivianservices.com
 uw2.origin.stage.rivianservices.com
 *.nebula.rivianservices.com
 api.prod.rivianservices.com
-rivianservices.com
 ruploader-asset.rivianservices.com
 tsync.rivianservices.com
 dev-secure.rivianservices.com
@@ -4992,3 +4991,5 @@ cpanel-devuw.0-0-6.qa.rivianservices.com
 oldmail-devuw.0-0-6.qa.rivianservices.com
 research.tech.0-0-6.qa.rivianservices.com
 0-0-8-00cms.qa.rivianservices.com
+v1acars.qa.rivianservices.com
+v1acars.stage.rivianservices.com

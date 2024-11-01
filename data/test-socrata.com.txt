@@ -64,7 +64,6 @@ esri-fed.test-socrata.com
 mchui.test-socrata.com
 sarab-scgc.test-socrata.com
 spending.john.test-socrata.com
-test-socrata.com
 tiger-opendata-dest.test-socrata.com
 bigtdata.john.test-socrata.com
 citydata.john.test-socrata.com
@@ -6624,3 +6623,6 @@ ghcpi.test-socrata.com
 jbb.test-socrata.com
 budhost2015.test-socrata.com
 *.homepage.apps.test-socrata.com
+homepage.apps.test-socrata.com
+integrations.apps.test-socrata.com
+jhyatt.test-socrata.com

@@ -1,4 +1,3 @@
-cisa.gov
 us-cert.cisa.gov
 niccs.cisa.gov
 presidentscup.cisa.gov
@@ -179,3 +178,5 @@ cert.cisa.gov
 *.protectivedns.cisa.gov
 *.test-ci.protectivedns.cisa.gov
 *.test.protectivedns.cisa.gov
+confluence.protectivedns.cisa.gov
+jira.protectivedns.cisa.gov

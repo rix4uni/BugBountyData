@@ -1065,7 +1065,6 @@ it.greenengage.ihg.com
 wuhov.gccloudpms.ihg.com
 myfederatesigning.ihg.com
 www.globalcatalogue.ihg.com
-ihg.com
 eksdev.d.microservices.ihg.com
 www.blog.ihg.com
 chase-qa-primary1-enc.ihg.com
@@ -2788,3 +2787,6 @@ eway.ihg.com
 _spf.ihg.com
 _sip._tls.ihg.com
 _sip._tcp.ihg.com
+csaprod04.ihg.com
+venafitest3.ihg.com
+www.venafitest3.ihg.com

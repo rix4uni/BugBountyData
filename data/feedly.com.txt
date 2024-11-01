@@ -1,6 +1,5 @@
 s3.feedly.com
 links.feedly.com
-feedly.com
 dev.feedly.com
 a.feedly.com
 cloud.feedly.com
@@ -102,3 +101,7 @@ proxy6.feedly.com
 email.em.feedly.com
 www.contentmarketers.feedly.com
 visuals1.feedly.com
+contentmarketers.feedly.com
+k.feedly.com
+stripe.feedly.com
+*.feedly.com

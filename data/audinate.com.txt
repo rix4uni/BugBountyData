@@ -13,3 +13,13 @@ traefik.ops-node0.sgp1.prod.do.ops-services.a.audinate.com
 tse.syd1.prod.do.iac.a.audinate.com
 *.audinate.com
 traefik.eng-node0.syd.stage.vultr.ops-services.a.audinate.com
+pbs.lon1.prod.do.iac.a.corp.audinate.com
+traefik.ops-node0.syd.prod.onprem.ops-services.a.audinate.com
+my4.sfo2.stage.web.do.audinate.com
+my04.sfo2.stage.web.do.audinate.com
+traefik.sgp1.stage.do.ops-services.a.audinate.com
+awx.ops.stage.audinate.com
+alertmanager.sgp1.stage.do.ops-services.a.audinate.com
+pushgateway.sgp1.stage.do.ops-services.a.audinate.com
+blackbox-exporter.sgp1.stage.do.ops-services.a.audinate.com
+status.syd.corp.audinate.com

@@ -3,5 +3,10 @@ cdn.iovlabs.org
 intranet.iovlabs.org
 www.iovlabs.org
 innovation.iovlabs.org
-iovlabs.org
 staging.iovlabs.org
+*.staging.iovlabs.org
+*.iovlabs.org
+staging.intranet.iovlabs.org
+staging2.iovlabs.org
+cms-site.iovlabs.org
+oauth2-innovation.iovlabs.org

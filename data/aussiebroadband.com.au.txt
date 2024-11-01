@@ -17,7 +17,6 @@ webmail.aussiebroadband.com.au
 partners.aussiebroadband.com.au
 staging-origin-auth.aussiebroadband.com.au
 autodiscover.aussiebroadband.com.au
-aussiebroadband.com.au
 www.aussiebroadband.com.au
 cpanel.aussiebroadband.com.au
 testacs.aussiebroadband.com.au
@@ -132,3 +131,5 @@ mercury.aussiebroadband.com.au
 prometheus-freeradius.aussiebroadband.com.au
 cloud.aussiebroadband.com.au
 tracker.aussiebroadband.com.au
+*.aussiebroadband.com.au
+*.mnss-fmg.aussiebroadband.com.au

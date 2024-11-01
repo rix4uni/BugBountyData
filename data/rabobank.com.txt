@@ -1390,7 +1390,6 @@ onboarding.rabobank.com
 ota-fa-energy-insights.rabobank.com
 portalrbbfepweb.cloudbruat.rabobank.com
 qdvnpdrsbc01.rabobank.com
-rabobank.com
 rabovcv.rabobank.com
 riskreducer-acc.rabobank.com
 riskreducer-tst.rabobank.com
@@ -1531,9 +1530,6 @@ mysecure-src.rabobank.com
 preprod-secure-openbanking.api.rabobank.com
 mymobile.gtm.rabobank.com
 sit-secure-openbanking-src.api.rabobank.com
-erabobank.com
-perscentrumrabobank.com
-coleccionrabobank.com
 twp.rabobank.com
 dwcstorage.rabobank.com
 dwcstorage-verification.rabobank.com
@@ -1541,3 +1537,4 @@ solaris-accpapi.rabobank.com
 splunkkongconsumer.rabobank.com
 stackstate-pa.rabobank.com
 test.rabobank.com
+creditcore.covenantmodule.gatewaytest.rabobank.com

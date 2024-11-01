@@ -1433,7 +1433,6 @@ localhost.messages.postmates.com
 merchants.postmates.com
 payments.postmates.com
 post.postmates.com
-postmates.com
 rebill.merchants.postmates.com
 testauth.postmates.com
 theresa-test.postmates.com
@@ -1562,8 +1561,6 @@ medialand.api-status.postmates.com
 medialand.gke-prod.postmates.com
 medialand.join.postmates.com
 images.postmates.com
-ww17.helpatpostmates.com
-partypostmates.com
 us-west-2.postmates.com
 email.mgm.postmates.com
 email.mgt.postmates.com

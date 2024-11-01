@@ -1,7 +1,6 @@
 eu10-vzwow19-z4-prod.ar.alvosec.com
 cloud.alvosec.com
 testnet-p2p.alvosec.com
-alvosec.com
 proton-api.alvosec.com
 testnet-api.alvosec.com
 cloud-p8.alvosec.com
@@ -28,3 +27,7 @@ ns2.alvosec.com
 mail.alvosec.com
 cs13341v4monnalisa.alvosec.com
 ns1.alvosec.com
+wireguard.alvosec.com
+dot.alvosec.com
+bp-proton.alvosec.com
+floating.alvosec.com

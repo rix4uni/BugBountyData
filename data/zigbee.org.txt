@@ -7,8 +7,8 @@ workspace.zigbee.org
 aws.zigbee.org
 w.zigbee.org
 docs.zigbee.org
-zigbee.org
 members.zigbee.org
 www.docs.zigbee.org
 www.groups.zigbee.org
 smtp.zigbee.org
+*.zigbee.org

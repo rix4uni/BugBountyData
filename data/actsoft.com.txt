@@ -21,7 +21,6 @@ stagingvfgbwebapi.actsoft.com
 actserver.actsoft.com
 webapi-cabmanager.actsoft.com
 api-connectweb.actsoft.com
-actsoft.com
 resource.actsoft.com
 wiki.actsoft.com
 training.actsoft.com
@@ -59,3 +58,6 @@ encorehelpapp2.actsoft.com
 stagingmaxisadmin.actsoft.com
 staging.actsoft.com
 cabsolutions.actsoft.com
+qaencorewebapi.actsoft.com
+qaencorereportingservice.actsoft.com
+qaencorehandsetapi.actsoft.com

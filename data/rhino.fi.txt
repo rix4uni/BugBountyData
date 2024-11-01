@@ -2,7 +2,6 @@ app.stg.rhino.fi
 vote.rhino.fi
 argocd.stg.rhino.fi
 docs.rhino.fi
-rhino.fi
 forum.rhino.fi
 api.rhino.fi
 www.rhino.fi
@@ -14,3 +13,5 @@ support.rhino.fi
 status.rhino.fi
 api.stg.rhino.fi
 tech.rhino.fi
+prd.rhino.fi
+stg.rhino.fi

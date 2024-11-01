@@ -1,4 +1,3 @@
-zodiacwatches.com
 kameleoon.zodiacwatches.com
 prod.zodiacwatches.com
 support.zodiacwatches.com
@@ -9,3 +8,6 @@ gtm.zodiacwatches.com
 mi.zodiacwatches.com
 staging.zodiacwatches.com
 dev.zodiacwatches.com
+*.zodiacwatches.com
+*.dev.zodiacwatches.com
+*.prod.zodiacwatches.com

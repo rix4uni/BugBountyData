@@ -19,7 +19,6 @@ mail-out.lu.registry.eu
 mail-out.registry.eu
 notify.lu.registry.eu
 regex.registry.eu
-registry.eu
 secure.lu.registry.eu
 secure.nl.registry.eu
 secure.registry.eu
@@ -91,11 +90,6 @@ whois.tryout.nl.registry.eu
 www.lu.registry.eu
 www.nl.registry.eu
 161nd.cn.cdn.clging.nl.registry.eu
-virtualregistry.eu
-euromacregistry.eu
-qualityregistry.eu
-ekpaa.greekregistry.eu
-alice-registry.eu
 tryout.nl.registry.eu
 selector1._domainkey.registry.eu
 help.registry.eu

@@ -1,5 +1,3 @@
-api.dailymotion.com
-fastapi.dailymotion.com
 graphql-dc3.api.dailymotion.com
 graphql-ix7.api.dailymotion.com
 graphql-lrp.api.dailymotion.com
@@ -19,20 +17,16 @@ hub.api.dailymotion.com
 keycloak-playground.api.dailymotion.com
 keycloak-stage.api.dailymotion.com
 keycloak.api.dailymotion.com
-lrpapi.dailymotion.com
 partner-notifications-playground.api.dailymotion.com
 partner-notifications-stage.api.dailymotion.com
 partner-notifications.api.dailymotion.com
 partner.api.dailymotion.com
-push-api.dailymotion.com
 release-saas.api.dailymotion.com
 search-playground.api.dailymotion.com
 search-stage.api.dailymotion.com
 search-temp.api.dailymotion.com
 search.api.dailymotion.com
-symbianapi.dailymotion.com
 test-api.api.dailymotion.com
-www.symbianapi.dailymotion.com
 xbased-new.api.dailymotion.com
 xbased-playground.api.dailymotion.com
 xbased-preprod.api.dailymotion.com

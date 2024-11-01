@@ -648,7 +648,6 @@ ztawebapps-cloud.teslamotors.com
 wildcard.teslamotors.com
 dataanalytics-reports.teslamotors.com
 origin-deliveryops.teslamotors.com
-teslamotors.com
 ipazta.teslamotors.com
 eaa-teslazero-cn-rdp.teslamotors.com
 origin-mytcore-stgsvc.teslamotors.com
@@ -742,8 +741,6 @@ origin-mutareexternal.teslamotors.com
 iwiki.teslamotors.com
 mos-stg2.teslamotors.com
 proxysvc-referral-stage.teslamotors.com
-xmailteslamotors.com
-wwwteslamotors.com
 payment-gateway-prod-ssl.teslamotors.com
 toolbox-logdrop-customer.teslamotors.com
 origin-04eb23c-owner-api.teslamotors.com

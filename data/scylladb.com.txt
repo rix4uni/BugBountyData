@@ -60,3 +60,6 @@ feature-store.scylladb.com
 training-fc-jenkins.scylladb.com
 auth.cloud.scylladb.com
 price-calc.gh.scylladb.com
+subresource.scylla-operator.scylladb.com
+www.scylladb.com
+www.repositories.scylladb.com

@@ -21,7 +21,6 @@ admin.nodecraft.com
 status.nodecraft.com
 admin-next.nodecraft.com
 api.nodecraft.com
-nodecraft.com
 reviews.nodecraft.com
 backups-s3-us-atlanta.nodecraft.com
 s3.nodecraft.com
@@ -32,3 +31,19 @@ discord.nodecraft.com
 analytics.nodecraft.com
 nats.nodecraft.com
 piwik.nodecraft.com
+community.nodecraft.com
+branding.nodecraft.com
+o2.ptr6144.nodecraft.com
+test-node2.nodecraft.com
+sessions.nodecraft.com
+uploads.nodecraft.com
+www.nats.nodecraft.com
+eu-database.nodecraft.com
+test-node.nodecraft.com
+useast-database.nodecraft.com
+billing-dev.nodecraft.com
+dev.nodecraft.com
+oauth.nodecraft.com
+us-east-database.nodecraft.com
+backupweb.nodecraft.com
+test-node1.nodecraft.com

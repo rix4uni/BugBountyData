@@ -53,7 +53,6 @@ beta.app.staging.shippit.com
 go.shippit.com
 staging.shippit.com
 developer.dev.shippit.com
-shippit.com
 ftp.connect.staging.shippit.com
 staging-news.shippit.com
 developer.stg.shippit.com
@@ -64,3 +63,6 @@ api.shippit.com
 website.shippit.com
 id.stg.shippit.com
 developer.staging.shippit.com
+www.developer.shippit.com
+www.staging.shippit.com
+www.developer.staging.shippit.com

@@ -223,7 +223,6 @@ wvut.branding.staging.skinfra.xyz
 zones.skinfra.xyz
 cloudformation.skinfra.xyz
 deploy.skinfra.xyz
-skinfra.xyz
 tor228-260-gre.ssod.skinfra.xyz
 tor7-35-pda.ssod.skinfra.xyz
 uploader.ssod.skinfra.xyz

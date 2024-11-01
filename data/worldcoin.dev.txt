@@ -1,4 +1,3 @@
-worldcoin.dev
 eu-south-1.orb.worldcoin.dev
 nlb-dev-us-west-2.development-us-west-2.worldcoin.dev
 us-west-2.development.worldcoin.dev
@@ -96,3 +95,4 @@ semaphore-mtb-phone.internal.crypto.worldcoin.dev
 http-okta-api.app-backend.worldcoin.dev
 *.stage-crypto.worldcoin.dev
 *.analytics.worldcoin.dev
+*.crypto.worldcoin.dev

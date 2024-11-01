@@ -41,7 +41,6 @@ qa.www.interclick.com
 east.a1.interclick.com
 s2spx.interclick.com
 portal.interclick.com
-interclick.com
 east.idcs.interclick.com
 lyncdiscover.interclick.com
 imap.interclick.com
@@ -111,4 +110,4 @@ admin.interclick.com
 content.interclick.com
 ops.sharepoint.interclick.com
 sj-mail.interclick.com
-painterclick.com
+*.interclick.com

@@ -1,6 +1,5 @@
 upload.xmpp.nck1236.com
 homeassistant.nck1236.com
-nck1236.com
 jellyfin.nck1236.com
 pubsub.xmpp.nck1236.com
 request.nck1236.com
@@ -8,3 +7,6 @@ xmpp.nck1236.com
 bitwarden.nck1236.com
 conference.xmpp.nck1236.com
 proxy.xmpp.nck1236.com
+meet.nck1236.com
+bot.nck1236.com
+matrix.nck1236.com

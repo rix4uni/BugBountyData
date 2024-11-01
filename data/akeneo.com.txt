@@ -102,7 +102,6 @@ boxes.akeneo.com
 okta.akeneo.com
 49c1400c-a906-4b6d.onboarder-dev.cloud.akeneo.com
 links.ft.akeneo.com
-akeneo.com
 fiftyfive.cloud.akeneo.com
 trial-preprod.akeneo.com
 dev.akeneo.com
@@ -325,3 +324,4 @@ test3-host.akeneo.com
 portal-dev1-sandbox.ip.akeneo.com
 305619a1-be4c-40e8.onboarder-dev.cloud.akeneo.com
 *.mcstaging.cloud.akeneo.com
+*.staplescanada-prod.cloud.akeneo.com

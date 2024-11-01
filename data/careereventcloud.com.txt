@@ -1,2 +1,5 @@
 payments.careereventcloud.com
 *.careereventcloud.com
+prod.careereventcloud.com
+staging.careereventcloud.com
+payments-qa.careereventcloud.com

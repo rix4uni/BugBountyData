@@ -55,7 +55,6 @@ mattermost.parabol.co
 tools.parabol.co
 email.parabol.co
 login.parabol.co
-parabol.co
 www.parabol.co
 ironbank-proving-ground-action-files.parabol.co
 action-files.parabol.co
@@ -64,3 +63,8 @@ mangroup-action-files.parabol.co
 keylane-action-files.parabol.co
 www.focus.parabol.co
 zopa-action-files.parabol.co
+*.tools.parabol.co
+*.parabol.co
+secure.parabol.co
+proving-ground.parabol.co
+app.parabol.co

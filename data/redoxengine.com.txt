@@ -125,7 +125,6 @@ internal.influxdb.redoxengine.com
 orb.redoxengine.com
 prometheus.10x.redoxengine.com
 prometheus.redoxengine.com
-redoxengine.com
 sftp.gamma.redoxengine.com
 sftp.redoxengine.com
 statsd.redoxengine.com
@@ -152,7 +151,6 @@ direct.redoxengine.com
 sftp.ca.redoxengine.com
 _www.redoxengine.com
 testapp.ca.redoxengine.com
-testredoxengine.com
 testbuild.redoxengine.com
 data-models.10x.redoxengine.com
 testfhir.redoxengine.com

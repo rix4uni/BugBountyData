@@ -727,7 +727,6 @@ metrics.nike.net
 mims.nike.net
 mongo.nike.net
 nagios.nike.net
-nike.net
 niketeam-api-dev.nike.net
 niketeam-api.nike.net
 niketeam-asset-download-internal.nike.net
@@ -782,11 +781,10 @@ core-nav-qa.nike.net
 devops.nike.net
 order-mfe-stg.nike.net
 showroom.nike.net
-icknike.net
-zapatillasnike.net
 ecomm-ecs.nike.net
 *.ordercapture-prod.nike.net
 api-internal.ordermanage-qa.nike.net
 api-ordermanage-qa.nike.net
 api.ordermanage-qa.nike.net
 roadrunningcomparison.nike.net
+entsvs-order-capture.nike.net

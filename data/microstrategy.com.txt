@@ -69,7 +69,6 @@ aw.cloud.microstrategy.com
 carrefour.cloud.microstrategy.com
 kr.microstrategy.com
 lcsap.microstrategy.com
-microstrategy.com
 ir.microstrategy.com
 lyncdiscover.microstrategy.com
 intelnow.microstrategy.com
@@ -242,3 +241,4 @@ sftp.microstrategy.com
 i2ba.microstrategy.com
 applications.lightning.microstrategy.com
 clouddemo.microstrategy.com
+*.microstrategy.com

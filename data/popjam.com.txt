@@ -189,7 +189,6 @@ www-old.popjam.com
 sdk-v2.popjam.com
 k8s.popjam.com
 vn.popjam.com
-popjam.com
 www.popjam.com
 *.dev.popjam.com
 *.staging.popjam.com
@@ -207,11 +206,6 @@ api.ap-southeast-1.k8s.staging.popjam.com
 api.ap-southeast-2.k8s.popjam.com
 api.internal.ap-southeast-1.kubernetes.popjam.com
 kibnni-07s1p021.ppp12.odn.ad.jptes.staging.popjam.com
-newpopjam.com
-www.kpopjam.com
-kpopjam.com
-*.lollypopjam.com
-lollypopjam.com
 web-auth.staging.popjam.com
 0-00-tutorial-jsonclassic-0-291-findbugs--ghcpi0-apps-push2.dev.popjam.com
 sexy---push2.dev.popjam.com

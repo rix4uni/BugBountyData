@@ -15,7 +15,6 @@ xray.october.eu
 demo.october.eu
 staging-api-i-deal.october.eu
 simplycomply.october.eu
-october.eu
 00-bootstrap-00-car21-web-wwww14node-webapp-okta-docscsr42app.october.eu
 staging-bi.october.eu
 staging-api.i-deal.october.eu
@@ -61,3 +60,4 @@ www.october.eu
 info.october.eu
 cdn.october.eu
 staging-app.october.eu
+*.october.eu

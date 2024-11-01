@@ -8,7 +8,6 @@ ergodirekt.dentolo.de
 dynamic.dentolo.de
 zahnreinigung.dentolo.de
 sorgenlos.dentolo.de
-dentolo.de
 goro-beta1.dentolo.de
 webflow.dentolo.de
 nuernberger.dentolo.de
@@ -61,3 +60,10 @@ verify.dentolo.de
 presse.dentolo.de
 goro-demo.dentolo.de
 staging.dentolo.de
+*.dentolo.de
+*.dev.dentolo.de
+*.cdn.dentolo.de
+*.dynamic.dentolo.de
+*.dyn.dentolo.de
+*.data.dentolo.de
+*.eco.dentolo.de

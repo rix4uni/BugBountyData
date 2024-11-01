@@ -50,7 +50,6 @@ assets-dev.doctolib.it
 about-dev.doctolib.it
 pro.doctolib.it
 www.info.doctolib.it
-doctolib.it
 fhir-prd-aws-de-fra-1.doctolib.it
 admin-staging.doctolib.it
 api-preprod.doctolib.it
@@ -62,8 +61,6 @@ partners-staging.doctolib.it
 *.portal-interf.doctolib.it
 *.portal-staging.doctolib.it
 *.preview.doctolib.it
-prodoctolib.it
-www.prodoctolib.it
 dev.doctolib.it
 staging.doctolib.it
 cust51.doctolib.it

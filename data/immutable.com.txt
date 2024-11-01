@@ -1,7 +1,5 @@
-immutable.com
 tiktok.immutable.com
 market.x.immutable.com
-truthimmutable.com
 support.immutable.com
 docs.x.immutable.com
 market.immutable.com
@@ -197,3 +195,17 @@ l.marketing.immutable.com
 toolkit.immutable.com
 *.sandbox.x.immutable.com
 l.passport.immutable.com
+*.dev.immutable.com
+*.commerce.dev.immutable.com
+*.dev.x.immutable.com
+*.hub.dev.immutable.com
+*.wallets.dev.immutable.com
+*.immutable.com
+*.hub.immutable.com
+*.wallets.immutable.com
+*.x.immutable.com
+*.commerce.immutable.com
+*.sandbox.immutable.com
+*.commerce.sandbox.immutable.com
+*.hub.sandbox.immutable.com
+*.wallets.sandbox.immutable.com

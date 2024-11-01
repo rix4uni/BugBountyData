@@ -26,7 +26,6 @@ ad.nor.test-iserv.de
 idm.iserv.coesfeld.test-iserv.de
 cal.stadt-gelsenkirchen.test-iserv.de
 handelslehranstalten.test-iserv.de
-test-iserv.de
 smz.test-iserv.de
 schuelerkarriere.test-iserv.de
 ad.es.test-iserv.de
@@ -336,3 +335,14 @@ stadtgiessen.test-iserv.de
 ad.stadtgiessen.test-iserv.de
 iserv.ad.stadtgiessen.test-iserv.de
 *.klettverlag.test-iserv.de
+ad.bbsf-sch.test-iserv.de
+iserv.ad.bbsf-sch.test-iserv.de
+*.staalen.test-iserv.de
+*.brainyoo-demo.test-iserv.de
+ad.tms-badoldesloe.test-iserv.de
+iserv.ad.tms-badoldesloe.test-iserv.de
+tms-badoldesloe.test-iserv.de
+*.tms-badoldesloe.test-iserv.de
+bbsf-sch.test-iserv.de
+*.bbsf-sch.test-iserv.de
+*.alzey-worms.test-iserv.de

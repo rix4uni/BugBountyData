@@ -1,5 +1,4 @@
 api.kount.net
-kount.net
 portal.kount.net
 risk.kount.net
 selfservice.kount.net
@@ -67,3 +66,16 @@ cd-awc.kount.net
 cent-awc.beta.kount.net
 pp-awc.kount.net
 cent-awc.demo.kount.net
+*.us.kount.net
+*.beta.kount.net
+*.demo.kount.net
+*.kount.net
+*.partner.beta.kount.net
+*.partner.demo.kount.net
+*.partner.kount.net
+*.partner.sandbox14.kount.net
+*.partner.test.kount.net
+*.sandbox14.kount.net
+*.sg.kount.net
+*.test.kount.net
+*.partner.qa.kount.net

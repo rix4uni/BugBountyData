@@ -145,7 +145,6 @@ smtps2.recbb.monespacesante.fr
 smtps1.pe1.monespacesante.fr
 smtps1.rec.monespacesante.fr
 smtps2.preprod1.monespacesante.fr
-monespacesante.fr
 smtps2.intnext.monespacesante.fr
 smtps2.preprod.monespacesante.fr
 ghicons.monespacesante.fr
@@ -174,3 +173,12 @@ smtps1.int.monespacesante.fr
 smtps1.recbb.monespacesante.fr
 *.developer.monespacesante.fr
 qualif.monespacesante.fr
+*.int.monespacesante.fr
+*.intnext.monespacesante.fr
+*.recbb.monespacesante.fr
+*.rec.monespacesante.fr
+*.pe1.monespacesante.fr
+*.preprod1.monespacesante.fr
+*.preprod2.monespacesante.fr
+*.preprod.monespacesante.fr
+*.securite.monespacesante.fr

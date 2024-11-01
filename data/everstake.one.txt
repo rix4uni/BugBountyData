@@ -33,7 +33,6 @@ internal.everstake.one
 iost-ide.everstake.one
 slurp-delivery.everstake.one
 eth-api-b2c.everstake.one
-everstake.one
 chromia-mainnet.everstake.one
 aff.everstake.one
 trust.everstake.one
@@ -41,3 +40,4 @@ neon-mainnet.everstake.one
 blog-api.everstake.one
 test-matrix.everstake.one
 snapshots-tezos.everstake.one
+*.everstake.one

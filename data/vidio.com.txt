@@ -226,3 +226,7 @@ airflow.vidio.com
 cdn-a-etslive.origin.int.vidio.com
 email1.vidio.com
 *.vidio.com
+api-doc.vidio.com
+www.staging.vidio.com
+www.blog.vidio.com
+www.vidio.com

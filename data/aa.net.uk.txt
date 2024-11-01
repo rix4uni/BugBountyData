@@ -57,7 +57,6 @@ www.aa.net.uk
 api.aa.net.uk
 control.aa.net.uk
 boxless.ec.aa.net.uk
-aa.net.uk
 excalibur.bec.aa.net.uk
 quota.aa.net.uk
 stuart.ec.aa.net.uk
@@ -1406,3 +1405,4 @@ ldap-a.services.aa.net.uk
 a-penniless.ec.aa.net.uk
 pypi.services.aa.net.uk
 james.ec.aa.net.uk
+test-dns-tch.aa.net.uk

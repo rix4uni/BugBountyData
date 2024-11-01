@@ -370,7 +370,6 @@ beta-us-west-2.musicmaker.kids-play.amazon.co.jp
 wwwoldpitan-wwwold.shigoto.amazon.co.jp
 tp.4786de18f-frontier.amazon.co.jp
 www.amazon.co.jp
-amazon.co.jp
 account-update.amazon.co.jp
 advertise.amazon.co.jp
 amazon.account-update.amazon.co.jp
@@ -429,7 +428,6 @@ key.amazon.co.jp
 *.beta.us-west-2.kids-bordering.amazon.co.jp
 *.alpha.us-west-2.kids-bordering.amazon.co.jp
 ?.amazon.co.jp
-theamazon.co.jp
 poicommunity.comwww.amazon.co.jp
 4d5ad1d2b-frontier.amazon.co.jp
 4786de18f-frontier.amazon.co.jp
@@ -483,3 +481,5 @@ drs-webipitan-drs-webi.shigoto.amazon.co.jp
 crossroad.amazon.co.jp
 asmw-gui.shigoto.amazon.co.jp
 altest-sellercentral.shigoto.amazon.co.jp
+us-west-2.prod.crossroad.amazon.amazon.co.jp
+us-west-2.prod.crossroad.amazon.co.jp

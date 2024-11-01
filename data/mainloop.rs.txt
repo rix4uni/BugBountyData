@@ -1,5 +1,4 @@
 beko.mainloop.rs
-mainloop.rs
 dbus.mainloop.rs
 pay.mainloop.rs
 www.mainloop.rs

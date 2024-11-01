@@ -1,4 +1,3 @@
-siteminder.com
 kinsta.siteminder.com
 gds.siteminder.com
 smuat.siteminder.com
@@ -89,3 +88,5 @@ partners-quote.siteminder.com
 *.partners-quote.siteminder.com
 *.quest.siteminder.com
 *.techspace.siteminder.com
+*.jira.siteminder.com
+*.login.siteminder.com

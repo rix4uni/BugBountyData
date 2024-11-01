@@ -82,11 +82,11 @@ plugin-test.stripo.email
 stage-plugins.stripo.email
 stage-plugins-third-party.stripo.email
 vpn-pritunl.stripo.email
-stripo.email
-viewstripo.email
 stripo-staging-cdn.stripo.email
 mau-staging-5-int.stripo.email
 static.stripo.email
 mau-staging-3-int.stripo.email
 mau-staging-4-int.stripo.email
 zabbix.stripo.email
+ftp.stripo.email
+scrsep.stripo.email

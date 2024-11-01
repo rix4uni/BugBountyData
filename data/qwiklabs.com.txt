@@ -1,4 +1,3 @@
-qwiklabs.com
 google.qwiklabs.com
 blog.qwiklabs.com
 go.qwiklabs.com
@@ -12,7 +11,6 @@ googlesolutions.qwiklabs.com
 fortinet.qwiklabs.com
 aws.qwiklabs.com
 ce.qwiklabs.com
-googleqwiklabs.com
 googlecoursera.qwiklabs.com
 bumper-boats-00.services.qwiklabs.com
 resources.bumper-boats-00.services.qwiklabs.com
@@ -155,3 +153,5 @@ roitraining.qwiklabs.com
 trainocate.qwiklabs.com
 zfaw72bxktdkptxghqb5clns36ocdcn5vt5j4wm4oeriopcfjr6q.us-central1-b.resources.bumper-boats-00.services.qwiklabs.com
 lorraine.qwiklabs.com
+*.qwiklabs.com
+*.dev.qwiklabs.com

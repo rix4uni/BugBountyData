@@ -1,4 +1,3 @@
-zimperium.com
 *.zimperium.com
 apac-console.zimperium.com
 spf-zcloud.zimperium.com
@@ -186,3 +185,19 @@ zappliance001.zimperium.com
 www.zappliance004.zimperium.com
 corp2-content.zimperium.com
 nyc-manifest.zimperium.com
+us12-lb.zimperium.com
+softbankb2b-device-api.zimperium.com
+softbankb2b-console.zimperium.com
+s1us-cdn.zimperium.com
+s1eu2-cdn.zimperium.com
+s1eu2-lb.zimperium.com
+gzus-lb.zimperium.com
+eu01.zimperium.com
+ziap-dev.zimperium.com
+zc175-console.zimperium.com
+mtdparity.zimperium.com
+zc151-trellix-elb.zimperium.com
+zc151-mcafee-elb.zimperium.com
+sso.zimperium.com
+s1us-lb.zimperium.com
+ziapprod-rfd.zimperium.com

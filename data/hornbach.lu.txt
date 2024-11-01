@@ -1,7 +1,6 @@
 glue.stage.hornbach.lu
 da.hornbach.lu
 oneapp.int.hornbach.lu
-hornbach.lu
 glue.int.hornbach.lu
 www.int.gcp.hornbach.lu
 media.int.hornbach.lu
@@ -64,3 +63,6 @@ www.stage.gcp.hornbach.lu
 svc.hornbach.lu
 stg-svc.hornbach.lu
 int-cdn.hornbach.lu
+www.fut.hornbach.lu
+www.int.hornbach.lu
+oneapp-api-spryker.dev.gcp.hornbach.lu

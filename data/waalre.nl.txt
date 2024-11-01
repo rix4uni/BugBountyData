@@ -5,7 +5,6 @@ apps.waalre.nl
 edienstenburgerzaken-test.waalre.nl
 edienstenburgerzaken.waalre.nl
 www.waalre.nl
-waalre.nl
 secure.waalre.nl
 afvalkalender.waalre.nl
 webserver.waalre.nl
@@ -16,8 +15,6 @@ sts.waalre.nl
 mijn.waalre.nl
 bewustwording.waalre.nl
 webmail.waalre.nl
-goedvoormekaarwaalre.nl
-*.goedvoormekaarwaalre.nl
 postmaster.waalre.nl
 osb.waalre.nl
 intranet.waalre.nl

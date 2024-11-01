@@ -64,7 +64,6 @@ linea-mainnet.jojo.exchange
 base-sepolia.jojo.exchange
 legacy.jojo.exchange
 docs.testnet.jojo.exchange
-jojo.exchange
 *.arbitrum-papertrade.jojo.exchange
 *.internal.arbitrum-papertrade.jojo.exchange
 *.k8s.arbitrum-papertrade.jojo.exchange
@@ -142,10 +141,6 @@ theia-frames-processor.base-sepolia.jojo.exchange
 twharf.base-mainnet.jojo.exchange
 voards.base-mainnet.jojo.exchange
 98eb.base-mainnet.jojo.exchange
-app-jojo.exchange
-*.app-jojo.exchange
-*.appjojo.exchange
-appjojo.exchange
 0c990fcb.base-sepolia.jojo.exchange
 0dpurknyjztxl.testnet.jojo.exchange
 acc.base-mainnet.jojo.exchange

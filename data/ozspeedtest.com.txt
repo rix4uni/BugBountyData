@@ -8,7 +8,6 @@ akamai.9bc68f9c.ozspeedtest.com
 blog.ozspeedtest.com
 mirror-binarylane-bne.ozspeedtest.com
 beta.ozspeedtest.com
-ozspeedtest.com
 us1.ozspeedtest.com
 us3.ozspeedtest.com
 intuitive-seemly.ozspeedtest.com
@@ -34,3 +33,4 @@ au3.ozspeedtest.com
 nl1.ozspeedtest.com
 mirror-oraclecloud-syd.ozspeedtest.com
 www.staging.ozspeedtest.com
+*.ozspeedtest.com

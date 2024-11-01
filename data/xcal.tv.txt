@@ -1,4 +1,3 @@
-xcal.tv
 r53.xcal.tv
 analytics.xcal.tv
 ccp.xcal.tv
@@ -5730,3 +5729,6 @@ dev2.epsds.coast.xcal.tv
 dvms3upload.stb.r53.xcal.tv
 ip-96-112-224-141.xbo.r53.xcal.tv
 *.player.xcal.tv
+couchbase-syd.locker.xvp.apac-1.xcal.tv
+couchbase-sgp.locker.xvp.apac-1.xcal.tv
+xvp-k8s-deployment-dashboard.exp.xvp.na-1.xcal.tv

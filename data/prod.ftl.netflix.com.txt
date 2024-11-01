@@ -34,7 +34,6 @@ probe-cell7.prod.ftl.netflix.com
 probe-cell8.prod.ftl.netflix.com
 probe-cell9.prod.ftl.netflix.com
 probe-dradis-anycast.prod.ftl.netflix.com
-prod.ftl.netflix.com
 ttl300awsnlb.prod.ftl.netflix.com
 ttl300awsultra.prod.ftl.netflix.com
 us-east-1-probe.prod.ftl.netflix.com
@@ -927,3 +926,5 @@ android-multipath-cell3.prod.ftl.netflix.com
 android-multipath-cell2.prod.ftl.netflix.com
 tvos.prod.ftl.netflix.com
 www.prod.ftl.netflix.com
+5-3-55-4.prod.ftl.netflix.com
+us-0-3-7.prod.ftl.netflix.com

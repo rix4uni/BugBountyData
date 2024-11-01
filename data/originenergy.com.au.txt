@@ -411,7 +411,6 @@ www.dataportal.originenergy.com.au
 yurika.fe.originenergy.com.au
 api-dev.originenergy.com.au
 enterpriseregistration.originenergy.com.au
-originenergy.com.au
 backend-im-pp.originenergy.com.au
 feedback.yoursay.originenergy.com.au
 download.originenergy.com.au
@@ -547,3 +546,11 @@ upstream.originenergy.com.au
 testbnc.originenergy.com.au
 *.ev.originenergy.com.au
 alb.ev.originenergy.com.au
+tsaai.jindabyne.em.originenergy.com.au
+*.im.originenergy.com.au
+*.genmsc.originenergy.com.au
+*.staging.originenergy.com.au
+*.paytest.originenergy.com.au
+*.digitalapi.originenergy.com.au
+*.static.originenergy.com.au
+*.uat-iproc.originenergy.com.au

@@ -65,3 +65,10 @@ monitor.ps.nets.eu
 payouts.unifiedapi.nets.eu
 payouts-worker.unifiedapi.nets.eu
 www.preview.epayment.nets.eu
+signing.nets.eu
+trustportal.nets.eu
+dispute-api.nets.eu
+www.dispute-api.nets.eu
+merchant.sandbox.unifiedapi.nets.eu
+reporting.sandbox.unifiedapi.nets.eu
+pdfservice-sfdc.exp.nets.eu

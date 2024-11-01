@@ -1,2 +1,8 @@
 argocd-prod.multipay.paypoint.com
 merchantportal.paypoint.com
+grafana-prod.multipay.paypoint.com
+identitymgmt-prod.multipay.paypoint.com
+mp-identity.paypoint.com
+ppp-aks-prod-suk-aks.multipay.paypoint.com
+childrenwithcancerpayments.paypoint.com
+ecotricity.openbanking.paypoint.com

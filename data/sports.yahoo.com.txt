@@ -23,9 +23,10 @@ realwire-delorean.sports.yahoo.com
 api-secure.sports.yahoo.com
 aud44-west-proxy-stream.sports.yahoo.com
 wyql-rw.sports.yahoo.com
-sports.yahoo.com
 ca.sports.yahoo.com
 kr.adm.sports.yahoo.com
 au.sports.yahoo.com
 aud41-west-proxy-stream.sports.yahoo.com
 image.maktoob.sports.yahoo.com
+*.sports.yahoo.com
+cloud-proxy.sports.yahoo.com

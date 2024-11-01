@@ -1,4 +1,3 @@
-magiceden.workers.dev
 sanur-rsd.magiceden.workers.dev
 sanur-rsa.magiceden.workers.dev
 kit-anti-bot-test.magiceden.workers.dev
@@ -32,3 +31,6 @@ playwright-report.magiceden.workers.dev
 tlsproxy.magiceden.workers.dev
 niko-rpc-router.magiceden.workers.dev
 *.magiceden.workers.dev
+*.long-cherry-9462.magiceden.workers.dev
+*.playwright-report-proxy.magiceden.workers.dev
+*.erc721m-cosign-server.magiceden.workers.dev

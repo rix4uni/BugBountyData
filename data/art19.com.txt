@@ -41,7 +41,6 @@ pubsub.art19.com
 rss.staging.art19.com
 webapp.production.cdn.art19.com
 www.admin.art19.com
-art19.com
 gamma.cdn.art19.com
 content.production.cdn.art19.com
 status.art19.com
@@ -58,5 +57,3 @@ router.gamma.imply.art19.com
 router.production.imply.art19.com
 schema-registry.main.gamma.kafka.art19.com
 webapp.staging.cdn.art19.com
-forexstart19.com
-opart19.com

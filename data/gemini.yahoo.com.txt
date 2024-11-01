@@ -21,7 +21,6 @@ b.gemini.yahoo.com
 bcp.gemini.yahoo.com
 be.gemini.yahoo.com
 beap.gemini.yahoo.com
-beta-gemini.yahoo.com
 blink-dpa.gemini.yahoo.com
 bulk.dpa.gemini.yahoo.com
 client.kafka.report.gemini.yahoo.com
@@ -34,7 +33,6 @@ docs.iws.nonprod.be.gemini.yahoo.com
 druid-mgr.bcp.report.gemini.yahoo.com
 druid-mgr.report.gemini.yahoo.com
 druid-mgr.stage.report.gemini.yahoo.com
-gemini.yahoo.com
 hv-qrs-beta1-ap-southeast-1a.gemini.yahoo.com
 hv-qrs-beta1-eu-west-1a.gemini.yahoo.com
 hv-qrs-beta1-us-east-1b.gemini.yahoo.com
@@ -87,10 +85,7 @@ stage.kafka.report.gemini.yahoo.com
 stage.report.api.gemini.yahoo.com
 stage.report.gemini.yahoo.com
 stgmerchant.gemini.yahoo.com
-testgemini.yahoo.com
 tp2.beap.gemini.yahoo.com
-stage-gemini.yahoo.com
-stagegemini.yahoo.com
 b.dashboard.gemini.yahoo.com
 p.dashboard.gemini.yahoo.com
 sg3.beap.gemini.yahoo.com
@@ -103,7 +98,6 @@ gq1.gemini.yahoo.com
 r.gemini.yahoo.com
 report.api.gemini.yahoo.com
 test.gemini.yahoo.com
-beap-gemini.yahoo.com
 a.gemini.yahoo.com
 254.247.220.128.in-addr.arpabeap.gemini.yahoo.com
 stg.api.gemini.yahoo.com

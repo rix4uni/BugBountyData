@@ -43,7 +43,6 @@ miramar.db-nextcloud.dewaardevanouderworden.nl
 assets.dewaardevanouderworden.nl
 api.dewaardevanouderworden.nl
 rabbitmq.dewaardevanouderworden.nl
-dewaardevanouderworden.nl
 app.dewaardevanouderworden.nl
 backend.dewaardevanouderworden.nl
 mail10.dewaardevanouderworden.nl
@@ -151,3 +150,7 @@ ssh.invest.dewaardevanouderworden.nl
 vpn.corporate.dewaardevanouderworden.nl
 vpn.invest.dewaardevanouderworden.nl
 www.django.dewaardevanouderworden.nl
+www.drupal.dewaardevanouderworden.nl
+www.jboss.dewaardevanouderworden.nl
+www.jetty.dewaardevanouderworden.nl
+www.joomla.dewaardevanouderworden.nl

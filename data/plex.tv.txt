@@ -193,7 +193,6 @@ transcoder-stage.plex.tv
 md02.plex.tv
 alexa-dev.plex.tv
 pubsub.plex.tv
-plex.tv
 cb-recommender-dev.provider.plex.tv
 metadata-cache-staging.plex.tv
 webloader.plex.tv
@@ -334,3 +333,4 @@ news.provider.plex.tv
 pubsub-validate.plex.tv
 webshows.provider.plex.tv
 www.app.plex.tv
+tvdogfood.plex.tv

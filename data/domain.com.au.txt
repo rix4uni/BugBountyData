@@ -6,7 +6,6 @@ joelbot-dev.ext.aws.domain.com.au
 uat.apm.domain.com.au
 dg-csm-02.dg.domain.com.au
 mediaplanner.dg.domain.com.au
-domain.com.au
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 stage-agent.domain.com.au
 t1.emails.domain.com.au
@@ -250,3 +249,13 @@ auth-admin.domain.com.au
 ykhqhe.domain.com.au
 ndes-jamf-01.domain.com.au
 pages.email.domain.com.au
+open.domain.com.au
+p-domain-redirects-v2-external-v2.dynamic.domain.com.au
+auction-results.domain.com.au
+api-foundation-nonprod.ext.aws.domain.com.au
+images.domain.com.au
+static.domain.com.au
+media.domain.com.au
+64064b1f5b49218.domain.com.au
+www.agent.domain.com.au
+*.domain.com.au

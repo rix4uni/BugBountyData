@@ -60,7 +60,6 @@ zendesk1.alasco.de
 maintenance.alasco.de
 rabbitmq.alasco.de
 rds.alasco.de
-alasco.de
 *.alasco.de
 *.dev.alasco.de
 *.demo.alasco.de
@@ -82,8 +81,6 @@ web192107.alasco.de
 webpostmandatabase-officebackups-domain.get.alasco.de
 wiki-private-metasql.hello.alasco.de
 wp-accept-domain.api.alasco.de
-www.halasco.de
-halasco.de
 rabbitmq-api.alasco.de
 analytics.staging.alasco.de
 pcf-28-api.staging.alasco.de

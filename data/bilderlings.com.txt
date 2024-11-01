@@ -7,7 +7,6 @@ gateway.bilderlings.com
 docs.open-banking.bilderlings.com
 lp.bilderlings.com
 mxdeac.bilderlings.com
-bilderlings.com
 static.bilderlings.com
 account.bilderlings.com
 nameless-tls-test.bilderlings.com
@@ -35,3 +34,7 @@ logging.bilderlings.com
 www.bilderlings.com
 admin.account.bilderlings.com
 help.bilderlings.com
+*.account.bilderlings.com
+*.bilderlings.com
+*.open-banking.bilderlings.com
+*.portal.bilderlings.com

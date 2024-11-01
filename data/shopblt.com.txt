@@ -30,7 +30,6 @@ images.shopblt.com
 cs.shopblt.com
 comwww.shopblt.com
 www1.shopblt.com
-shopblt.com
 thor.shopblt.com
 imap2.shopblt.com
 pop3.shopblt.com
@@ -148,3 +147,4 @@ smtp01.shopblt.com
 direct.shopblt.com
 mx0.shopblt.com
 mbox.shopblt.com
+*.shopblt.com

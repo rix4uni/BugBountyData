@@ -21,7 +21,6 @@ m.kolumbus.no
 status.kolumbus.no
 siri-et-test.kolumbus.no
 kart.kolumbus.no
-kolumbus.no
 old-driver.atl.kolumbus.no
 demo.kiosk.kolumbus.no
 ng-api.kolumbus.no
@@ -104,3 +103,11 @@ traffic-director-api-qc.atldev.kolumbus.no
 error.kolumbus.no
 www.sis.kolumbus.no
 fort-api.kolumbus.no
+minside-test.kolumbus.no
+walle.kolumbus.no
+grpc.kolumbus.no
+konkurranse.kolumbus.no
+enterpriseenrollment.kolumbus.no
+billettapp.kolumbus.no
+webmail.kolumbus.no
+ftp.kolumbus.no

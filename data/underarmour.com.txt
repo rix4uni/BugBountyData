@@ -693,9 +693,6 @@ load-ua03-vercel.ecm.underarmour.com
 uanext-ui-int.ecm.underarmour.com
 uanext-ui-prod.ecm.underarmour.com
 us.underarmour.com
-underarmour.com
-hunderarmour.com
-uunderarmour.com
 gisele.underarmour.com
 women.underarmour.com
 productsafety.underarmour.com
@@ -738,3 +735,6 @@ uanext-api-int.ecm.underarmour.com
 vhuaifixci.hec.underarmour.com
 uanext-api-prod.shop.underarmour.com
 uanext-ui-prod.shop.underarmour.com
+profile-development.ecm.underarmour.com
+profile-staging.ecm.underarmour.com
+dm-click.ecm.underarmour.com

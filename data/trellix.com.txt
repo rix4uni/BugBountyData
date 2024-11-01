@@ -1085,7 +1085,6 @@ telemetry.nai.trellix.com
 testing.trellix.com
 token.mobile.security.trellix.com
 tps.manage.trellix.com
-trellix.com
 uat.healthwatch.trellix.com
 ui-usw001.manage.trellix.com
 ui-usw002.manage.trellix.com
@@ -1136,7 +1135,6 @@ mdm-rt-interface.dev.edp.trellix.com
 apps.xdr.trellix.com
 hexbkh287-hx-agent-1.hex01.apps.xdr.trellix.com
 ihub.xdrprd-euc1.eu.xdr.trellix.com
-ccs-trellix.com
 ens.rest.gti.trellix.com
 repl.gti.trellix.com
 norad.repl.gti.trellix.com
@@ -1147,8 +1145,6 @@ us-east-1.trellix.com
 enswebcontrol.repl.gti.trellix.com
 echelon.rest.gti.trellix.com
 avts.trellix.com
-content.endpoint.ccs-trellix.com
-endpoint.ccs-trellix.com
 0.jeittdktqpaztnjr56wj485g6v.avqs.trellix.com
 jeittdktqpaztnjr56wj485g6v.avqs.trellix.com
 210.0.jeittdktqpaztnjr56wj485g6v.avqs.trellix.com
@@ -1171,8 +1167,6 @@ wc2h7nss5774jnb6uuz7qtvcuq.avqs.trellix.com
 0.wc2h7nss5774jnb6uuz7qtvcuq.avqs.trellix.com
 0.7nv19gehvlhv5fmwdpkm5rs7iq.avqs.trellix.com
 7nv19gehvlhv5fmwdpkm5rs7iq.avqs.trellix.com
-api-edruse.edruse.ccs-trellix.com
-edruse.ccs-trellix.com
 swg.repl.gti.trellix.com
 0.11flwfkzus3f36rpps1cdlzk15.avqs.trellix.com
 11flwfkzus3f36rpps1cdlzk15.avqs.trellix.com
@@ -1271,11 +1265,9 @@ u5iuebik6atp5qqsn2hpzdbp45.avqs.trellix.com
 eu-central-1.trellix.com
 soc.eu-central-1.trellix.com
 210.0.nkjlthc46iwr55ehd4np92z51i.avqs.trellix.com
-edrusw.ccs-trellix.com
 0.m69fbha2mja896zzp32wlgbik6.avqs.trellix.com
 0.u41ncdvub5nacek549qdrq56qq.avqs.trellix.com
 410.0.skv1m8sate8j7lutug1kctzfeq.avqs.trellix.com
-api-edrusw.edrusw.ccs-trellix.com
 m69fbha2mja896zzp32wlgbik6.avqs.trellix.com
 u41ncdvub5nacek549qdrq56qq.avqs.trellix.com
 0.1v3jb1zhqq6p53w7v7sas1j1ub.avqs.trellix.com
@@ -1919,3 +1911,13 @@ ingress.xdrprd-apne1.xdr.trellix.com
 www.gsd.cloud.trellix.com
 www.iam.cloud.trellix.com
 xdrprd-apne1.xdr.trellix.com
+sfserver.irmnvk3859-hx-agent-1.hex01.apps.xdr.trellix.com
+nicktest.cloud.trellix.com
+www.training-catalog.trellix.com
+hii-device-api.mobile.security.trellix.com
+content.mobile.security.trellix.com
+download.trellix.com
+soc.ap-southeast-2.trellix.com
+useast4.app.xdr.trellix.com
+nicktest.ops.cloud.trellix.com
+asiasouth1.app.xdr.trellix.com

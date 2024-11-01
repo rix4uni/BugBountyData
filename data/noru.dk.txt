@@ -31,7 +31,6 @@ ns.noru.dk
 ns2.noru.dk
 www.noru.dk
 kundeservice.noru.dk
-noru.dk
 post.noru.dk
 smtpseguro.noru.dk
 imap.noru.dk
@@ -75,3 +74,5 @@ mail02.noru.dk
 mailgate.noru.dk
 srv.noru.dk
 mailserver.noru.dk
+*.noru.dk
+*.static.noru.dk

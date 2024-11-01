@@ -6,7 +6,6 @@ cors-anywhere.glexia.net
 intern.glexia.net
 thecenter.glexia.net
 *.thecenter.glexia.net
-glexia.net
 *.glexia.net
 *.test.glexia.net
 mail.intern.glexia.net
@@ -88,8 +87,6 @@ mail.justin.glexia.net
 mail.umassstirfry.glexia.net
 www.realtorsmith.glexia.net
 webmail.umassstirfry.glexia.net
-*.chungcuglexia.net
-chungcuglexia.net
 matousek.glexia.net
 webdisk.matousek.glexia.net
 mail.matousek.glexia.net

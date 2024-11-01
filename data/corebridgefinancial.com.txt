@@ -1,4 +1,3 @@
-corebridgefinancial.com
 www.corebridgefinancial.com
 compass.corebridgefinancial.com
 dbp.corebridgefinancial.com
@@ -568,3 +567,12 @@ livedsu-plb.dsu.corebridgefinancial.com
 *.uat.connector.corebridgefinancial.com
 *.poc.api.corebridgefinancial.com
 *.connext.corebridgefinancial.com
+live.connector.corebridgefinancial.com
+dev.connector.corebridgefinancial.com
+rs.poc.apigateway.corebridgefinancial.com
+apigateway.corebridgefinancial.com
+dev.apigateway.corebridgefinancial.com
+mycrbgpwd.corebridgefinancial.com
+*.live.apigateway.corebridgefinancial.com
+dev.api.corebridgefinancial.com
+acsprodpreview.dmp.corebridgefinancial.com

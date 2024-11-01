@@ -80,7 +80,6 @@ inbound.api.staging.airkit.com
 bundles.airkit.com
 community.airkit.com
 us-west-2b.inbound.api.staging.airkit.com
-airkit.com
 assets.airkit.com
 webdisk.airkit.com
 us-west-2a.inbound.api.staging.airkit.com
@@ -117,11 +116,4 @@ www.cx.airkit.com
 a01-support.prod.airkit.com
 developer.prod.airkit.com
 ip-ranges.airkit.com
-airkit-on-airkit.com
-altairkit.com
-turbocreditrepairkit.com
-blindrepairkit.com
-outlookrepairkit.com
-worldrepairkit.com
-ascorepairkit.com
 prod.airkit.com

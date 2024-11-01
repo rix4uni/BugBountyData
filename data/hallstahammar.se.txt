@@ -9,7 +9,6 @@ lokalbokning.hallstahammar.se
 intranatet.hallstahammar.se
 login.edu.hallstahammar.se
 pssjalv.hallstahammar.se
-hallstahammar.se
 tsweb.hallstahammar.se
 eservice.hallstahammar.se
 futureweb.hallstahammar.se
@@ -39,3 +38,4 @@ mailscanner.hallstahammar.se
 spf2.hallstahammar.se
 adfs.hallstahammar.se
 spf1.hallstahammar.se
+*.hallstahammar.se

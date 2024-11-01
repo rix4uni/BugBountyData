@@ -11,3 +11,8 @@ help-center.servicebell.com
 cname-staging.servicebell.com
 university.servicebell.com
 status.servicebell.com
+api.servicebell.com
+uploads.servicebell.com
+cdn.servicebell.com
+www.servicebell.com
+*.servicebell.com

@@ -7411,7 +7411,6 @@ tooling.dev.ap.tesla.services
 tpsydg.stg.ep.tesla.services
 trip-planner-eu.prd.go.tesla.services
 xsoar-ext.prd.audit.tesla.services
-tesla.services
 hermes-stream-eu-west-eng.vn.tesla.services
 npuhe-eng-eu.vn.tesla.services
 xx.tesla.services

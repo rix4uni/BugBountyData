@@ -152,7 +152,6 @@ neo.orgnem.iowww.vechain.org
 pricing-api.vechain.org
 redirect.atp.vechain.org
 testnet.vechain.org
-vechain.org
 wallet-test.vechain.org
 wallet.vechain.org
 wiremock-hzarkbh8.dev.rewards.vechain.org
@@ -213,8 +212,6 @@ ls.dev.rewards.vechain.org
 testnet.dev.node.vechain.org
 node-test.vechain.org
 mainnet.live.prod.veworld.vechain.org
-creativechain.org
-trivechain.org
 *.ci.dev.node.vechain.org
 *.dev.faucet-app.vechain.org
 *.evearn.vechain.org
@@ -264,3 +261,5 @@ green.dev2.node.vechain.org
 prod.faucet-app.vechain.org
 testmarket.dev.marketplace.vechain.org
 insights.vechain.org
+live.b3tr.vechain.org
+dead.b3tr.vechain.org

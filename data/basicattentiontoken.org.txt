@@ -38,16 +38,11 @@ publishers-staging.basicattentiontoken.org
 eyeshade.mercury.basicattentiontoken.org
 publishers-staging-distro.basicattentiontoken.org
 publishers-distro.basicattentiontoken.org
-basicattentiontoken.org
 email.publishers-staging.basicattentiontoken.org
 email.publishers.basicattentiontoken.org
 *.basicattentiontoken.org
 *.mercury.basicattentiontoken.org
 *.pr.basicattentiontoken.org
-www.stg-basicattentiontoken.org
-www.staging-basicattentiontoken.org
-staging-basicattentiontoken.org
-www.development-basicattentiontoken.org
 _jumdepublishers.basicattentiontoken.org
 publishers-next-staging.basicattentiontoken.org
 tokenfrom-publishers.basicattentiontoken.org

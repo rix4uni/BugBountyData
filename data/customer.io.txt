@@ -108,7 +108,6 @@ hs.customer.io
 www.rsvp.customer.io
 timezones.customer.io
 marketing-track.customer.io
-customer.io
 cdp-east-edge.customer.io
 academy.customer.io
 manage.customer.io
@@ -153,3 +152,6 @@ sentry.customer.io
 links.customer.io
 login.customer.io
 www.try.customer.io
+*.customer.io
+*.fly-standalone.customer.io
+*.fly.customer.io

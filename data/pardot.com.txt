@@ -130,7 +130,6 @@ www.demo.pardot.com
 xhprof-ue1.perf.pardot.com
 storm.demo.pardot.com
 app-debug.dev.pardot.com
-pardot.com
 2013.pardot.com
 api.pardot.com
 artifactory-kubernetes.dev.pardot.com
@@ -343,9 +342,6 @@ upload.pardot.com
 elevate.pardot.com
 pi-phx.pardot.com
 push-next.pardot.com
-thespotforpardot.com
-gopardot.com
-mypardot.com
 bluemesh-dfw.pardot.com
 bluemesh-phx.pardot.com
 assets-phx.pardot.com

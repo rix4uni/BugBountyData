@@ -6,7 +6,6 @@ api.prerelease.enjinx.io
 www.enjinx.io
 ns5.enjinx.io
 development.enjinx.io
-enjinx.io
 ns3.enjinx.io
 ns1.enjinx.io
 ns4.enjinx.io
@@ -349,3 +348,10 @@ uk.enjinx.io
 edge.enjinx.io
 feeds.enjinx.io
 myhome.enjinx.io
+jumpnet.enjinx.io
+docs.enjinx.io
+azureheroes.enjinx.io
+goerli.enjinx.io
+bittrex.enjinx.io
+gowther.enjinx.io
+daemon.api.enjinx.io

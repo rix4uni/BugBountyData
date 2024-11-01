@@ -36,7 +36,6 @@ ns1.cyon.ch
 s002.cyon.ch
 order.cyon.ch
 localhost.cyon.ch
-cyon.ch
 server0.cyon.ch
 my.cyon.ch
 www.cyon.ch
@@ -179,3 +178,7 @@ server49.cyon.ch
 server31.cyon.ch
 s43mx.cyon.ch
 admin.cyon.ch
+s004.cyon.ch
+ns4.cyon.ch
+ns.cyon.ch
+*.cyon.ch

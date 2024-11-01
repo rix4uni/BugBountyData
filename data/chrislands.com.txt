@@ -133,7 +133,6 @@ sdi1.chrislands.com
 andmeister.chrislands.com
 lionbooks.chrislands.com
 royalroads.chrislands.com
-chrislands.com
 clbu01.chrislands.com
 crossroadbookstore.chrislands.com
 keenerbooks.chrislands.com
@@ -151,5 +150,5 @@ cldb02.chrislands.com
 demov2.chrislands.com
 dogstarbooks.chrislands.com
 pistilbooks.chrislands.com
-secure-chrislands.com
 wiki.chrislands.com
+*.chrislands.com

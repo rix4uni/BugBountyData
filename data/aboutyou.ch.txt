@@ -1,6 +1,5 @@
 m-spectrum.aboutyou.ch
 m-fr.aboutyou.ch
-aboutyou.ch
 ww.aboutyou.ch
 it.aboutyou.ch
 www-internal.aboutyou.ch
@@ -57,3 +56,4 @@ checkout-fr.aboutyou.ch
 fr-internal.aboutyou.ch
 api-fr-preview.aboutyou.ch
 checkout-mapp.aboutyou.ch
+*.aboutyou.ch

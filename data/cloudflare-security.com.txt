@@ -24,7 +24,6 @@ validate-result.scrat.cloudflare-security.com
 ctf-2022-pods.cloudflare-security.com
 blacklist.scrat.cloudflare-security.com
 retry.scrat.cloudflare-security.com
-cloudflare-security.com
 dtr-pull-requests.scrat.cloudflare-security.com
 pattern-search.scrat.cloudflare-security.com
 passcake.cloudflare-security.com
@@ -41,3 +40,4 @@ www.cloudflare-security.com
 iterate-project.scrat.cloudflare-security.com
 trick-or-treat.cloudflare-security.com
 poll-bitbucket.scrat.cloudflare-security.com
+*.snyk-report-timestamp.scrat.cloudflare-security.com

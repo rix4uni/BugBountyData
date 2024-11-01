@@ -957,7 +957,6 @@ view.emails.avira.com
 web7.avira.com
 web8.avira.com
 ftp.avira.com
-avira.com
 interceptor-plus.backup.avira.com
 prod-ha.auc.avira.com
 mail03-dtc.c01.avira.com
@@ -1485,3 +1484,14 @@ notifier1.avira.com
 cloud.emails.avira.com
 bones.avira.com
 www.ipm.avira.com
+emails.avira.com
+acns.oes.avira.com
+fpc-rest.tl.avira.com
+prod-api-fpc-rest.tl-aws.avira.com
+buy.avira.com
+extension.avira.com
+automation.qa.rd.tt.avira.com
+classify.pws-web-aws.avira.com
+csw.client.avira.com
+v2.web-rep.auc.avira.com
+www.avira-support-oem.avira.com

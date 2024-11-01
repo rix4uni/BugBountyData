@@ -89,6 +89,15 @@ us-west-2.jobapi.io
 us-west-2.staging.jobapi.io
 zeppelin.production.hetzner.jobapi.io
 zookeeper03-dds-staging-pkt-sjc1-us.jobapi.io
-jobapi.io
 murdor-search.jobapi.io
 www.jobapi.io
+transient.us-west-2.jobapi.io
+syd01.jobapi.io
+production.hetzner.jobapi.io
+dev.sjc1.jobapi.io
+hetzner.jobapi.io
+production.bm.jobapi.io
+k8s.jobapi.io
+us-west-2.k8s.jobapi.io
+sandbox.jobapi.io
+bm.jobapi.io

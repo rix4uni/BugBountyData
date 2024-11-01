@@ -1,4 +1,3 @@
-neat.hk
 business.neat.hk
 admin.neat.hk
 dashboard-beta.neat.hk
@@ -23,3 +22,5 @@ blog.neat.hk
 staging-faq.neat.hk
 test.neat.hk
 assets.neat.hk
+*.business.neat.hk
+*.neat.hk

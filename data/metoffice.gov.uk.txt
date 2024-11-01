@@ -541,7 +541,6 @@ data-legacy.prd.consumer-digital.api.metoffice.gov.uk
 registerb.metoffice.gov.uk
 www.college.metoffice.gov.uk
 externaldns1.mgz.metoffice.gov.uk
-metoffice.gov.uk
 www.bom-wow.metoffice.gov.uk
 www.metoffice.gov.uk
 expbmgw77.metoffice.gov.uk
@@ -977,3 +976,19 @@ datapointpre.metoffice.gov.uk
 expbmgw133.metoffice.gov.uk
 datapoint.metoffice.gov.uk
 dev.weather.metoffice.gov.uk
+_exxcmpd1dag4.cmpd1.metoffice.gov.uk
+ci.cli-be4fe.mass.metoffice.gov.uk
+nft.cli-be4fe.mass.metoffice.gov.uk
+pprd.cli-be4fe.mass.metoffice.gov.uk
+_exxcmpd1dag2.cmpd1.metoffice.gov.uk
+exxmgw1.metoffice.gov.uk
+pprd.api.mass.metoffice.gov.uk
+nft.api.mass.metoffice.gov.uk
+_exxcmpd1dag3.cmpd1.metoffice.gov.uk
+nft.portal.mass.metoffice.gov.uk
+ci.api.mass.metoffice.gov.uk
+weathercloud.metoffice.gov.uk
+_exxcmpd1dag1.cmpd1.metoffice.gov.uk
+pprd.portal.mass.metoffice.gov.uk
+ci.portal.mass.metoffice.gov.uk
+weather.metoffice.gov.uk

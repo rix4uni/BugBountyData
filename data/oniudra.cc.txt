@@ -73,7 +73,6 @@ hsts1.oniudra.cc
 playground-prod-reptile.aws.oniudra.cc
 public-events.oniudra.cc
 covid-19.oniudra.cc
-oniudra.cc
 datocms-api.oniudra.cc
 builder-staging.oniudra.cc
 static.login.oniudra.cc
@@ -199,3 +198,6 @@ wwworigin.oniudra.cc
 certifications-assets.oniudra.cc
 downloads-prod-mantis.oniudra.cc
 www2.oniudra.cc
+*.oniudra.cc
+plant.oniudra.cc
+factory-api.oniudra.cc

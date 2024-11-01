@@ -196,7 +196,6 @@ view-api-7.dc.elisa.fi
 view-api-256.dc.elisa.fi
 view-api-1-82.dc.elisa.fi
 view-api-17.dc.elisa.fi
-elisa.fi
 eip-login.elisa.fi
 view-api-240.dc.elisa.fi
 view-api-624.dc.elisa.fi
@@ -777,3 +776,16 @@ test-rp.mid.elisa.fi
 www-test.elisa.fi
 intranet.elisa.fi
 api-internal.corporate.elisa.fi
+eiplite-test10.itidm.elisa.fi
+eiplite-test11.itidm.elisa.fi
+viestipalvelu-mp.elisa.fi
+cust2653.ngn.elisa.fi
+cust2691.ngn.elisa.fi
+www.cust2691.ngn.elisa.fi
+somehaaste.elisa.fi
+*.lab2-mobi.elisa.fi
+tiedotus.elisa.fi
+corporate-test.elisa.fi
+www.corporate-test.elisa.fi
+staging.igw.elisa.fi
+www.staging.igw.elisa.fi

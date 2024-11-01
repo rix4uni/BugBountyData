@@ -3660,7 +3660,6 @@ in01gw2.synopsys.com
 paypal-status.polaris.synopsys.com
 peu-airflow.sigdatainsights.cloudops.synopsys.com
 us24-training-5.synopsys.com
-synopsys.com
 jp01-internet-hsrp.synopsys.com
 addc1.saaselte-azure.cloud.synopsys.com
 bi.labs.polaris.synopsys.com
@@ -4307,3 +4306,6 @@ thanos-blackduck-reg-grpc.kb.cloudops.synopsys.com
 us16-vpn-01.synopsys.com
 virlog-ioltest.synopsys.com
 mikeskitestem.synopsys.com
+polaris-assist-demo.labs.polaris.synopsys.com
+*.ci-2893457237.synopsys.com
+*.optimizer.synopsys.com

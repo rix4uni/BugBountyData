@@ -1,4 +1,3 @@
-skia.org
 autoroll.skia.org
 flutter-flutter-perf.skia.org
 api.skia.org
@@ -7,7 +6,6 @@ bug.skia.org
 androidx-perf.skia.org
 ct.skia.org
 flutter-gold.skia.org
-faskia.org
 autoroll-internal.skia.org
 webrtc-chromium-roll.skia.org
 skottie.skia.org
@@ -230,3 +228,7 @@ cim-api.skia.org
 ns2.skia.org
 mongodb.skia.org
 *.g-issues.skia.org
+*.skia.org
+*.issues.skia.org
+252fbugs.skia.org
+252fbug.skia.org

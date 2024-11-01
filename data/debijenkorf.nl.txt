@@ -2,7 +2,6 @@ prometheus.debijenkorf.nl
 ceres-content.debijenkorf.nl
 ceres-searchsuggest.debijenkorf.nl
 argocd.debijenkorf.nl
-www.werkenbijdebijenkorf.nl
 creative-content-bffe-preview.debijenkorf.nl
 creative-content-bffe.debijenkorf.nl
 creative-content.debijenkorf.nl
@@ -13,3 +12,5 @@ checkout.debijenkorf.nl
 alertmanager.debijenkorf.nl
 mint.debijenkorf.nl
 ceres-navigation.debijenkorf.nl
+ceres-oms.debijenkorf.nl
+policyreporter.debijenkorf.nl

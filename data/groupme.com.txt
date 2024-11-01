@@ -42,7 +42,6 @@ admin.groupme.com
 go.groupme.com
 kvm5-ext.rs.groupme.com
 relay2.groupme.com
-groupme.com
 chat.stg.groupme.com
 email.groupme.com
 i-staging.groupme.com
@@ -84,8 +83,7 @@ m.groupme.com
 situationroom.groupme.com
 preview.groupme.com
 www.app.groupme.com
-ridgegroupme.com
-vigroupme.com
-atlasgroupme.com
 westus2.groupme.com
 eastus2.groupme.com
+*.groupme.com
+*.aws.groupme.com

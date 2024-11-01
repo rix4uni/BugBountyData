@@ -8,7 +8,6 @@ dev-urent.upayments.com
 stage-ustore.upayments.com
 dev-landing.upayments.com
 preprod-checkout.upayments.com
-upayments.com
 handbook.upayments.com
 preprod-upayinvoice.upayments.com
 preprod-urent.upayments.com
@@ -119,3 +118,10 @@ dev-uinvoice.upayments.com
 preprod-ustoreapi.upayments.com
 dev-upaylink.upayments.com
 dev-uinterface.upayments.com
+preprod-uapi.upayments.com
+preprod-upayappapi.upayments.com
+preprod-apiv2api.upayments.com
+preprod-upayv2api.upayments.com
+uplugin.upayments.com
+sales.upayments.com
+preprod-uinvoiceapi.upayments.com

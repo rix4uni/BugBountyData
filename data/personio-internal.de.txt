@@ -4223,7 +4223,6 @@ personio-cdk-example.tools-dev.personio-internal.de
 personio-cdk-example.x.personio-internal.de
 personio-cdk-kotlin-example.dev.personio-internal.de
 personio-cdk-kotlin-example.ie.dev.personio-internal.de
-personio-internal.de
 personio-platform-artifact-service.co.dev.personio-internal.de
 personio-platform-artifact-service.dd.dev.personio-internal.de
 personio-platform-artifact-service.dev.personio-internal.de
@@ -8967,7 +8966,6 @@ rhino-emefwallow.gitlab2.personio-internal.de
 s3-infra-mysqlbackups-test.gitlab2.personio-internal.de
 sdk-34-5-2.stage.personio-internal.de
 servicesxternal-domain.prod.personio-internal.de
-stagepersonio-internal.de
 tempdev--docs.stage.personio-internal.de
 uploads-mybackups-test.x.personio-internal.de
 us-backups-test.x.personio-internal.de
@@ -10132,7 +10130,6 @@ configurepipelacceurepipeintraine.personio-internal.de
 j-000043850.personio-internal.de
 docker.personio-internal.de
 static-stage.personio-internal.de
-stage-personio-internal.de
 stagfider.personio-internal.de
 perf-notification-service-stage.personio-internal.de
 candidate-sourcing-servicetools-dev.personio-internal.de
@@ -11155,3 +11152,11 @@ cf-www.gitlab.personio-internal.de
 *.dev.personio-internal.de
 *.dd.dev.personio-internal.de
 *.tao.dev.personio-internal.de
+integrations-authentication-client-service-grpc.dev.personio-internal.de
+atlantis.infrastructure.personio-internal.de
+rre-ws.dev.personio-internal.de
+api.sec-tooling-dev.personio-internal.de
+pnmlfwfeature-coremodel.personio-internal.de
+host-your-resume-on-google-app-engine.personio-internal.de
+loop-small.personio-internal.de
+*.ar.dev.personio-internal.de

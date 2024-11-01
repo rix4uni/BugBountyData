@@ -258,7 +258,6 @@ mtovino2ndcoder.dev.play.nefeli.io
 nats2-global.x.staging.nefeli.io
 patch.ubuntu.play.nefeli.io
 mittens-traefik-internal.teleport.play.nefeli.io
-nefeli.io
 andrewfaugust.dev.play.nefeli.io
 loki.andrewftest1.dev.play.nefeli.io
 loki.dkozakovenv.dev.play.nefeli.io
@@ -346,3 +345,4 @@ catalyst.play.nefeli.io
 cortex.meigymtest2.dev.play.nefeli.io
 loki.mittens.dev.play.nefeli.io
 srv.steve.play.nefeli.io
+*.nefeli.io

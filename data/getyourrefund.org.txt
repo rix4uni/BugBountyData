@@ -10,6 +10,9 @@ go.getyourrefund.org
 statefile.demo.getyourrefund.org
 demo.getyourrefund.org
 origin.staging.getyourrefund.org
-getyourrefund.org
 irs.getyourrefund.org
 ctc.staging.getyourrefund.org
+logs.getyourrefund.org
+logs.staging.getyourrefund.org
+logs.demo.getyourrefund.org
+mef.getyourrefund.org

@@ -1,4 +1,3 @@
-backend-capital.com
 prod-pusher.backend-capital.com
 api.backend-capital.com
 api-adapter.backend-capital.com
@@ -305,3 +304,19 @@ prod-rancher-aws2-edgerouter-public.backend-capital.com
 demo-api-capital.backend-capital.com
 *.preview-env-qt.preview-env.backend-capital.com
 *.preview-tests.preview-env.backend-capital.com
+*.preview-test.preview-env.backend-capital.com
+*.preview-ref.preview-env.backend-capital.com
+*.preview-env-uat.preview-env.backend-capital.com
+*.preview-bckp-fix.preview-env.backend-capital.com
+*.preview-proxy-bc-test.preview-env.backend-capital.com
+*.preview-proxy-sb3.preview-env.backend-capital.com
+*.preview-news-44504.preview-env.backend-capital.com
+*.preview-proxy-shard.preview-env.backend-capital.com
+mi-4982.hermes-mi.backend-capital.com
+*.preview-env-pricing.preview-env.backend-capital.com
+mi-5000.hermes-mi.backend-capital.com
+mi-4992.hedwig-mi.backend-capital.com
+*.preview-env-ps-ss.preview-env.backend-capital.com
+*.preview-fe-24-14-test.preview-env.backend-capital.com
+*.preview-mpd-33115.preview-env.backend-capital.com
+*.preview-env-kms-sign.preview-env.backend-capital.com

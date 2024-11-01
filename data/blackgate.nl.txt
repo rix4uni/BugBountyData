@@ -50,7 +50,6 @@ rancher.blackgate.nl
 www.mtconfig.blackgate.nl
 portal.blackgate.nl
 loki.k8s.blackgate.nl
-blackgate.nl
 www.mssbc01.blackgate.nl
 bcm.blackgate.nl
 cdcompare.k8s.blackgate.nl
@@ -242,3 +241,4 @@ speed-ix.blackgate.nl
 jointtransit.blackgate.nl
 31-37-41-185.dsl.blackgate.nl
 64-37-41-185.dsl.blackgate.nl
+*.pages.k8s.blackgate.nl

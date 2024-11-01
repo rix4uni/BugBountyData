@@ -4,7 +4,6 @@ www.seloc.org
 classifieds.seloc.org
 thisis.seloc.org
 clubwww.seloc.org
-seloc.org
 eg.seloc.org
 docs.seloc.org
 easternengland.seloc.org
@@ -26,3 +25,10 @@ forums.seloc.org
 forum.seloc.org
 essex.seloc.org
 n.seloc.org
+*.seloc.org
+www.shop.seloc.org
+*.new.seloc.org
+s.seloc.org
+c.seloc.org
+m.seloc.org
+new-forums.seloc.org

@@ -45,7 +45,6 @@ api.us.sanity.work
 api.i2.sanity.work
 k8s-gcp-us-e4-stag-ing-01.sentry.sanity.work
 api-test.sanity.work
-sanity.work
 kitchen-preview.sanity.work
 typesense.sanity.work
 apicdn.beta.sanity.work
@@ -82,3 +81,9 @@ test.sanity.work
 eu.sanity.work
 bookinfo.sanity.work
 next.sanity.work
+*.k8s-gcp-eu-w1-stag-ing-01.sentry.sanity.work
+*.sentry.sanity.work
+*.k8s-gcp-us-e4-stag-ing-01.sentry.sanity.work
+*.api.i2.sanity.work
+*.apicdn.i2.sanity.work
+*.i2.sanity.work

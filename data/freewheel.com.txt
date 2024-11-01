@@ -151,7 +151,6 @@ prometheus.euw1.pre.strata.freewheel.com
 thanos-query.emea.strata.freewheel.com
 thanos-bucket.aps1.prod.strata.freewheel.com
 thanos-query.aps1.prod.strata.freewheel.com
-freewheel.com
 internal-onestrata-dev.pre.strata.freewheel.com
 internal-onestrata-ep.pre.strata.freewheel.com
 lyncdiscover.freewheel.com
@@ -189,10 +188,5 @@ thanos-bucket.knos.strata.freewheel.com
 auth.euw1.pre.strata.freewheel.com
 internal-onestrata-regression.pre.strata.freewheel.com
 resources.freewheel.com
-thefreewheel.com
-okfreewheel.com
-gofreewheel.com
-triggerandfreewheel.com
-londonfreewheel.com
 internal-onestrata-pqm.apse1.pre.strata.freewheel.com
 internal-pqm-apse1prerdssql01.apse1.pre.strata.freewheel.com

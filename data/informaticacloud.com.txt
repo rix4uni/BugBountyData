@@ -759,7 +759,6 @@ iicsassurance-usw3.dm-us.informaticacloud.com
 iicsassurance-usw3.dm1-us.informaticacloud.com
 iicsassurance-usw5.dm-us.informaticacloud.com
 info.informaticacloud.com
-informaticacloud.com
 insecure-apse1-cai.dm-ap.informaticacloud.com
 insecure-apse1-sfdc-cai.dm-ap.informaticacloud.com
 insecure-cai.dm-us.informaticacloud.com
@@ -1797,3 +1796,4 @@ cdam.dm2-me.informaticacloud.com
 fordtrust.informaticacloud.com
 qa-perf.static.informaticacloud.com
 sandbox.informaticacloud.com
+claire-models.dm-staging.informaticacloud.com

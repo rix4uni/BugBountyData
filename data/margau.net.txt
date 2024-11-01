@@ -36,7 +36,6 @@ _dmarc.philae.infra.margau.net
 k8s.http.k8s.margau.net
 mail.services.margau.net
 imap1.services.margau.net
-margau.net
 anycast.http.services.margau.net
 ip4.discover.margau.net
 smtp.margau.net
@@ -93,3 +92,4 @@ kepler.gen3.margau.net
 _dmarc.rosetta.infra.margau.net
 rosetta.ns.margau.net
 node01-vie01.node.k8s.margau.net
+hubble.pve.margau.net

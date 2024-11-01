@@ -106,7 +106,6 @@ analytics.menulog.com.au
 partner-centre.menulog.com.au
 ablink.orders.menulog.com.au
 australianexplorer.menulog.com.au
-menulog.com.au
 dodo.menulog.com.au
 tracking.menulog.com.au
 citysearch.menulog.com.au
@@ -2940,3 +2939,5 @@ staging.menulog.com.au
 www.partner-centre.menulog.com.au
 2fwww.menulog.com.au
 pages.menulog.com.au
+*.service-momp2.menulog.com.au
+*.devicehub.menulog.com.au

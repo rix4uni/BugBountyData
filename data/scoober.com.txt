@@ -123,7 +123,6 @@ internal.dev.scoober.com
 payroll-api.dev.scoober.com
 shiftplannerapp.dev.scoober.com
 shiftplanning.dev.scoober.com
-scoober.com
 wfm.scoober.com
 *.beta.scoober.com
 *.internal.scoober.com
@@ -133,13 +132,6 @@ wfm.scoober.com
 chat2.beta.scoober.com
 kpi-api.dev.scoober.com
 www.dev.scoober.com
-belascoober.com
-www.belascoober.com
-www.myscoober.com
-myscoober.com
-*.thescoober.com
-thescoober.com
-www.thescoober.com
 broadcasts.dev.scoober.com
 city-configurator.beta.scoober.com
 _dmarc.scoober.com

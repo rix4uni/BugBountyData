@@ -1,0 +1,12 @@
+api.john-group.org
+api.netmaker.john-group.org
+broker.netmaker.john-group.org
+dashboard.john-group.org
+dashboard.netmaker.john-group.org
+grafana.netmaker.john-group.org
+netmaker-exporter.netmaker.john-group.org
+prometheus.netmaker.john-group.org
+broker.john-group.org
+grafana.john-group.org
+netmaker-exporter.john-group.org
+prometheus.john-group.org

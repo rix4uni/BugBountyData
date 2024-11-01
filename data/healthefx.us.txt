@@ -17,7 +17,6 @@ dev6.healthefx.us
 dimension.healthefx.us
 enterprise.healthefx.us
 files.healthefx.us
-healthefx.us
 imap.healthefx.us
 info.healthefx.us
 lyncdiscover.healthefx.us
@@ -122,3 +121,10 @@ amvas2380.healthefx.us
 amvas270.healthefx.us
 amvas740.healthefx.us
 amvat2359.healthefx.us
+ambtv-gnss.healthefx.us
+amcbc-gnss.healthefx.us
+btv-cc-gnss.healthefx.us
+btv.healthefx.us
+cbc-cc-gnss.healthefx.us
+wtw-ep-prod-gnss.healthefx.us
+wtw-ep-uat-gnss.healthefx.us

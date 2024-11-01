@@ -4445,7 +4445,6 @@ ladb-document-api-gamma.line-apps.com
 shop.line-apps.com
 cac-scdn.line-apps.com
 cac-cdn-obs.line-apps.com
-line-apps.com
 igp-ig-release-frontend-us-cv.line-apps.com
 manga-api-gateway.line-apps.com
 blgimg.line-apps.com
@@ -11143,7 +11142,6 @@ ect-shipping.line-apps.com
 voom-gw-admin.line-apps.com
 crm-batch.line-apps.com
 clova-homescreen.line-apps.com
-topline-apps.com
 vcdn.line-apps.com
 today-obs-line-scdn-net.vcdn.line-apps.com
 sv.21.rch.line-apps.com
@@ -11232,3 +11230,4 @@ spam030-c3s-jp2p-prod.bdp.line-apps.com
 snode-jbod-555-c3s-jp3p-prod.bdp.line-apps.com
 *.landpress.line-apps.com
 landpress.line-apps.com
+fgw-th-pay.line-apps.com

@@ -1,7 +1,6 @@
 email.b2b.jobmedic.co.uk
 email.message.jobmedic.co.uk
 www.jobmedic.co.uk
-jobmedic.co.uk
 email.announce.jobmedic.co.uk
 email.solutions.jobmedic.co.uk
 *.jobmedic.co.uk
@@ -10,16 +9,4 @@ email.jobmedic.co.uk
 wwwtest.jobmedic.co.uk
 *.courses.jobmedic.co.uk
 courses.jobmedic.co.uk
-*.jobmedic.co.uk.us3.cas.ms
-*.jobmedic.co.uk.admin-us3.cas.ms
-*.jobmedic.co.uk.admin-us.cas.ms
-*.jobmedic.co.uk.eu.cas.ms
-*.jobmedic.co.uk.us2.cas.ms
-*.jobmedic.co.uk.eu2.cas.ms
-*.jobmedic.co.uk.us.cas.ms
-*.jobmedic.co.uk.admin-mcas.ms
-*.jobmedic.co.uk.admin-eu2.cas.ms
-*.jobmedic.co.uk.mcas.ms
-*.jobmedic.co.uk.admin-us2.cas.ms
-*.jobmedic.co.uk.admin-eu.cas.ms
 support.jobmedic.co.uk

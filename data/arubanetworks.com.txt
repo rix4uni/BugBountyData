@@ -1,4 +1,3 @@
-arubanetworks.com
 community.arubanetworks.com
 sensor.arubanetworks.com
 blogs.arubanetworks.com
@@ -3172,3 +3171,8 @@ www.praas.arubanetworks.com
 hotfix-5-2-0-g.k8s-prod.getaws.arubanetworks.com
 csl-es-stg.dass-8668-upgrade.eks-stg-use1.getaws.arubanetworks.com
 *.sc360-uat.arubanetworks.com
+byod.si-dev-us3.arubanetworks.com
+itsm.si-dev-us3.arubanetworks.com
+via-css1.arubanetworks.com
+aos-keygen.internal.eks-stg-use1.getaws.arubanetworks.com
+cslapi.internal.k8s-prod-usw1.getaws.arubanetworks.com

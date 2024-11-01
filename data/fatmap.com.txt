@@ -16,7 +16,6 @@ platform.fatmap.com
 tiles.dev.fatmap.com
 api-v1-production.fatmap.com
 api-v1-ysc.fatmap.com
-fatmap.com
 tracking.bi.dev.fatmap.com
 pritunl.vpn.dev.fatmap.com
 privileges.fatmap.com

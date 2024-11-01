@@ -3,5 +3,10 @@ test.lectus24.pl
 t1.lectus24.pl
 mta-2.mailing.lectus24.pl
 abuse.mailing.lectus24.pl
-lectus24.pl
 *.lectus24.pl
+service.lectus24.pl
+media.lectus24.pl
+www.lectus24.pl
+multimedia.mailing.lectus24.pl
+bcemgn.lectus24.pl
+www.mailing.lectus24.pl

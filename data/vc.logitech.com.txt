@@ -40,13 +40,11 @@ svcs.vc.logitech.com
 test.vc.logitech.com
 testreports.vc.logitech.com
 updates.vc.logitech.com
-vc.logitech.com
 zeus.dev.vc.logitech.com
 releasenotes.vc.logitech.com
 meetioapi.vc.logitech.com
 software.vc.logitech.com
 ping.vc.logitech.com
-global-svc.logitech.com
 kojin.vc.logitech.com
 raijin.vc.logitech.com
 connect-staging.vc.logitech.com
@@ -54,7 +52,6 @@ updates-sec.dev.vc.logitech.com
 raiden-staging.vc.logitech.com
 software-sec3.vc.logitech.com
 software-sec.dev.vc.logitech.com
-android-vc.logitech.com
 updates-beta.vc.logitech.com
 svcs-test.dev.vc.logitech.com
 us-west-2.vc.logitech.com

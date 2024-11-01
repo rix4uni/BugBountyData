@@ -29,7 +29,6 @@ com.openexchange.chronos.provider.google.ac
 ampcid.google.ac
 igv.oauth.google.ac
 clients6.google.ac
-google.ac
 image.google.ac
 window.google.ac
 trends.google.ac
@@ -58,3 +57,4 @@ mobile.google.ac
 translate.google.ac
 libs.com.google.ac
 silhouette.google.ac
+*.google.ac

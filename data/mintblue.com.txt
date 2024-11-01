@@ -17,7 +17,6 @@ console.mintblue.com
 sales.mintblue.com
 nft-invoicing.mintblue.com
 calculator.mintblue.com
-mintblue.com
 api-listener.mintblue.com
 landing.mintblue.com
 portainer.ops.mintblue.com
@@ -42,3 +41,4 @@ test.api.swarm2.mintblue.com
 traefik.ops.swarm2.mintblue.com
 kvk.mintblue.com
 wp2.mintblue.com
+*.mintblue.com

@@ -23,7 +23,6 @@ cdn.hotelscombined.com
 extranetbranch1.hotelscombined.com
 reporting.hotelscombined.com
 252fwww.hotelscombined.com
-hotelscombined.com
 smtp02.hotelscombined.com
 2fwww.hotelscombined.com
 datafeeds.hotelscombined.com
@@ -374,9 +373,6 @@ www.hotelscombined.com
 mail.hotelscombined.com
 dev.affiliates.hotelscombined.com
 staging.admin.hotelscombined.com
-ehotelscombined.com
-ghotelscombined.com
-chotelscombined.com
 48.click.compare.hotelscombined.com
 45.click.compare.hotelscombined.com
 16.click.notification.hotelscombined.com
@@ -388,3 +384,7 @@ chotelscombined.com
 21.click.compare.hotelscombined.com
 43.trk.mgs.hotelscombined.com
 19.click.compare.hotelscombined.com
+autodiscover.hotelscombined.com
+27.click.notification.hotelscombined.com
+book-dev.prod.hotelscombined.com
+18.click.notification.hotelscombined.com

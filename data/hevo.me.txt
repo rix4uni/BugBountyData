@@ -1,3 +1,12 @@
 vpn.hevo.me
 test-alerts-events-consumer-service.hevo.me
 test-alerts-notifications-consumer-service.hevo.me
+us-infra-es.hevo.me
+consul.asia.hevo.me
+cdn.hevo.me
+influxdb.asia.hevo.me
+rundeck.hevo.me
+us-influx.hevo.me
+sentry.test.hevo.me
+sentry.asia.hevo.me
+grafana.asia.hevo.me

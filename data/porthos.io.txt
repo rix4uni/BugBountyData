@@ -15,7 +15,6 @@ device-mgr-app.v0.qa.iot.porthos.io
 device-mgr-app.v0.dev.iot.porthos.io
 ws.print.core.porthos.io
 device-mgr-app.v0.int.iot.porthos.io
-porthos.io
 auth.dev.apexx.porthos.io
 client-generator.dev.core.porthos.io
 dev.admin-tool.oracode.porthos.io

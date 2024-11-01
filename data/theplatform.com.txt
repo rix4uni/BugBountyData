@@ -2655,13 +2655,6 @@ license.entitlement.alpha.k8s.aor.theplatform.com
 read.data.entitlement.ade-eks-1.eks.ade.theplatform.com
 stg-twc.store.indemand.theplatform.com
 sweeper.payment.commerce.bravo.k8s.aor.theplatform.com
-theplatform.com
-prsontheplatform.com
-comparetheplatform.com
-theageoftheplatform.com
-breatheplatform.com
-aware-theplatform.com
-de-platformtheplatform.com
 na.theplatform.com
 manifest.na.theplatform.com
 k8s.ava.theplatform.com
@@ -2777,3 +2770,8 @@ fms.aort-eks-2.eks.aort.theplatform.com
 *.entitlement.api.us.theplatform.com
 *.delivery.api.us.theplatform.com
 *.media.api.us.theplatform.com
+kubecost.ava-eks-1.eks.ava.theplatform.com
+kubecost.aie-eks-1.eks.aie.theplatform.com
+bookmark-as.eks.aort.theplatform.com
+kafka-ui-content-processing.aie-eks-1.eks.aie.theplatform.com
+kafka-ui-content-processing.ade-eks-1.eks.ade.theplatform.com

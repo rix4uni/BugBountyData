@@ -104,7 +104,6 @@ base-endpoint-build.collector.ally.sandbox.dev.spiritai.com
 eslint-fixes.fenix.ally.sandbox.dev.spiritai.com
 hacking-the-flow.editor.ally.sandbox.dev.spiritai.com
 freelander.spiritai.com
-spiritai.com
 alertmanager.dev.spiritai.com
 ally-api-sandbox.dev.spiritai.com
 messages-post-endpoint.collector.ally.sandbox.dev.spiritai.com
@@ -184,4 +183,3 @@ ally-lofn-sandbox.dev.spiritai.com
 ally-ouroboros-sandbox.dev.spiritai.com
 api-lockwood2.spiritai.com
 speech.spiritai.com
-inspiritai.com

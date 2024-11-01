@@ -28,7 +28,6 @@ www.google.pl
 mapy.google.pl
 clients6.google.pl
 picasa.google.pl
-google.pl
 adwords.google.pl
 scholar.google.pl
 _dmarc.google.pl
@@ -73,3 +72,4 @@ alt1.aspmx.l.google.pl
 mta-sts.alt1.aspmx.l.google.pl
 campaigns.google.pl
 khms1.google.pl
+*.google.pl

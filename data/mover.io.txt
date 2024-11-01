@@ -54,7 +54,6 @@ nike-admin.mover.io
 php-devbox.mover.io
 eus2.odyssey-testing.ops.mover.io
 www.bifrost-v2.mover.io
-mover.io
 openproject.ops.mover.io
 production.e.odyssey.ops.mover.io
 sdf-spo01-001-eus.cosmic.ecs.testing.mover.io
@@ -280,11 +279,7 @@ testing-api-fdpool.mover.io
 testing-dns-add-again.mover.io
 vir-new-api-1.gccm.mover.io
 mattermost-hooks.mover.io
-watermarkremover.io
-earthmover.io
 ops.mover.io
-www.watermarkremover.io
-api.watermarkremover.io
 spof01-006-usgovarizona.cosmic.gccm.mover.io
 spof01-006-usgovtexas.cosmic.gccm.mover.io
 *.production.odyssey.ops.mover.io

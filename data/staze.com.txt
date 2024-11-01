@@ -13,7 +13,6 @@ waterfront.staze.com
 msc.staze.com
 help.staze.com
 mail.staze.com
-staze.com
 www.app.staze.com
 campaigns.staze.com
 romowie.staze.com
@@ -23,3 +22,10 @@ osm-thome.staze.com
 www.romowie.staze.com
 s5.staze.com
 menzell-doehle.staze.com
+app.staze.com
+gerrit.staze.com
+media.staze.com
+assets.staze.com
+dev.staze.com
+auth.staze.com
+auth.dev.staze.com

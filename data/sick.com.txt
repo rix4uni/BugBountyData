@@ -1,5 +1,4 @@
 www.sick.com
-sick.com
 s3.systemselektor.svd.cloud.sick.com
 phpmyadmin.systemselektor.svd.cloud.sick.com
 assethub-admin.cloud.sick.com
@@ -526,3 +525,8 @@ svn.sick.com
 webkit-demo.svd.cloud.sick.com
 aasx.dev-cloud.sick.com
 latexco.uat-cloud.sick.com
+*.showcase.cloud.sick.com
+*.sd3.cloud.sick.com
+*.sd3.dev-cloud.sick.com
+*.sd3.uat-cloud.sick.com
+*.repo.cloud.sick.com

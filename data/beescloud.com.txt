@@ -2742,7 +2742,6 @@ nexus.stutest0712a.sa-demo.beescloud.com
 pr-1279.preview.app.devoptics-dev.beescloud.com
 pr-1346.preview.app.devoptics-dev.beescloud.com
 pr-2131.preview.app.dev.beescloud.com
-beescloud.com
 team-1-mm-1.team-1-aburdajewicz.general.support.beescloud.com
 es.arm-poc4.sa-demo.beescloud.com
 kibana.samanav.sa-demo.beescloud.com
@@ -3306,3 +3305,8 @@ vj-sda-ilb.cd-k8s.beescloud.com
 *.jgolden.ps.beescloud.com
 cbci-test-jnord-29909.dev-test.cbci.beescloud.com
 *.rkivisto.support.beescloud.com
+cbci-test-jmdesprez-25581.dev-test.cbci.beescloud.com
+*.sbx7.cbc.beescloud.com
+ci2.aws.aalwahab.ps.beescloud.com
+*.crl.aws.ps.beescloud.com
+*.tim.ps.beescloud.com

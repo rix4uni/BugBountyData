@@ -61,12 +61,10 @@ office.semmle.com
 blog.semmle.com
 pgsql-bi-01.uk.semmle.com
 www.ungoliant.internal.semmle.com
-semmle.com
 *.internal.semmle.com
 *.semmle.com
 *.blog.semmle.com
 *.demo.semmle.com
-postmaster@semmle.com
 webmailng.semmle.com
 web.semmle.com
 stats.semmle.com

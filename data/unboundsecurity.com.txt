@@ -10,7 +10,6 @@ cot21112.unboundsecurity.com
 css-espeo-k8s.unboundsecurity.com
 info.unboundsecurity.com
 lb7-jpmc.unboundsecurity.com
-unboundsecurity.com
 autodiscover.unboundsecurity.com
 aws-core-app.demo.unboundsecurity.com
 ekms-unboundsa.unboundsecurity.com
@@ -24,3 +23,7 @@ dh-lb-net-l4-nc.unboundsecurity.com
 comsec.unboundsecurity.com
 doc.unboundsecurity.com
 docs.unboundsecurity.com
+enterpriseregistration.unboundsecurity.com
+_dmarc.unboundsecurity.com
+ci.unboundsecurity.com
+enterpriseenrollment.unboundsecurity.com

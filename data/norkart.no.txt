@@ -101,7 +101,6 @@ bigip-1.mgmt.norkart.no
 sip.norkart.no
 vahendelser.api.norkart.no
 mapserver32.norkart.no
-norkart.no
 matrikkelgrunnbok.api.norkart.no
 svm-lync2013.norkart.no
 pocket.norkart.no
@@ -179,3 +178,19 @@ kteskattbasis.api.norkart.no
 *.app.norkart.no
 *.k8s.norkart.no
 *.wms.norkart.no
+media.atlas.api.norkart.no
+kdv.norkart.no
+mail2.norkart.no
+em949790.norkart.no
+em542830.norkart.no
+ktinstall.norkart.no
+maptiles.norkart.no
+ftp.norkart.no
+em936366.norkart.no
+em945886.norkart.no
+em922814.norkart.no
+gislinesky.norkart.no
+eiendomsinnsyn.norkart.no
+em1021022.norkart.no
+devops.norkart.no
+web.norkart.no

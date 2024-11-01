@@ -11,8 +11,12 @@ zrok.olrik.cloud
 nbg1-dc18.olrik.cloud
 p-gate02.olrik.cloud
 p-pve01.olrik.cloud
-olrik.cloud
 p-proxmox01.hq.olrik.cloud
 p-hz-nbg1-01.olrik.cloud
 p-pve02.olrik.cloud
 nbg1-dc1.olrik.cloud
+*.hq.olrik.cloud
+*.nbg1-dc1.olrik.cloud
+*.olrik.cloud
+*.remote.olrik.cloud
+www.olrik.cloud

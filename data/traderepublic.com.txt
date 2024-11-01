@@ -188,7 +188,6 @@ vpn.corporate-it.traderepublic.com
 news.traderepublic.com
 aquila-stg.security-playground.traderepublic.com
 loki-v3.internal.corp.traderepublic.com
-traderepublic.com
 info.traderepublic.com
 _dmarc.traderepublic.com
 o18.account.traderepublic.com
@@ -218,3 +217,5 @@ argocd-development.teleport.internal.corp.traderepublic.com
 kafka-ui.internal.corp.traderepublic.com
 develocity.internal.corp.traderepublic.com
 argocd-production.teleport.internal.corp.traderepublic.com
+cicd.cards.traderepublic.com
+*.cicd.cards.traderepublic.com

@@ -1,2 +1,12 @@
 rubygems.pkg.keygen.sh
 *.keygen.sh
+aardwolf.keygen.sh
+status.keygen.sh
+dist.keygen.sh
+get.keygen.sh
+bin.keygen.sh
+stdin.keygen.sh
+stdout.keygen.sh
+app.keygen.sh
+api.keygen.sh
+stats.keygen.sh

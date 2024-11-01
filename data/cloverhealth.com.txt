@@ -38,7 +38,6 @@ demo-enroll.cloverhealth.com
 metrics-non-prod.cloverhealth.com
 discover.cloverhealth.com
 enroll.cloverhealth.com
-cloverhealth.com
 cvs-proxy.cloverhealth.com
 pages.mail.cloverhealth.com
 picardo.cloverhealth.com
@@ -372,3 +371,4 @@ staging-airflow-gke.cloverhealth.com
 demo-gke-mc.cloverhealth.com
 staging-phi-cohorting-service-admin.cloverhealth.com
 ml-gateway.cloverhealth.com
+atlantis.cloverhealth.com

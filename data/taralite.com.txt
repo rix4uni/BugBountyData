@@ -20,7 +20,6 @@ staging.taralite.com
 staging-api.taralite.com
 staging-faspay.taralite.com
 www.taralite.com
-taralite.com
 dev.taralite.com
 apigw-prod.taralite.com
 grab-borrower.taralite.com
@@ -188,3 +187,4 @@ los-dashboard-dev.taralite.com
 repayment.uat.taralite.com
 serve.taralite.com
 api._domainkey.taralite.com
+dev-borrowerv2.taralite.com

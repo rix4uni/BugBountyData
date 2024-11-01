@@ -1,7 +1,6 @@
 *.medscape.org
 *.proddev.medscape.org
 *.staging.medscape.org
-medscape.org
 qa.medscape.org
 *.qa.medscape.org
 *.k8s.la1.medscape.org

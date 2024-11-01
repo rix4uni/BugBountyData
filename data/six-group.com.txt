@@ -17,7 +17,6 @@ api-test.np.six-group.com
 fts-qa.six-group.com
 vip-itu.pay.six-group.com
 ns1.six-group.com
-six-group.com
 reporting-security-itu.six-group.com
 api-cert.six-group.com
 baapt.ras.six-group.com
@@ -1135,3 +1134,7 @@ wes-idm-qa.np.six-group.com
 www.docs.blink.six-group.com
 ebill-bankapi-xp.np.six-group.com
 www.mail6.six-group.com
+www.exfeed.six-group.com
+exfeed.six-group.com
+www.exfeeduat.six-group.com
+exfeeduat.six-group.com

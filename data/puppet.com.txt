@@ -87,7 +87,6 @@ www.apt.repos.puppet.com
 guac3.classroom.puppet.com
 downloads-dev.puppet.com
 licenses-stage.puppet.com
-puppet.com
 maintenance.puppet.com
 pm.puppet.com
 cd4pe-trial-license.puppet.com
@@ -123,3 +122,4 @@ client.puppet.com
 pdk.classroom.puppet.com
 backend.hafjell.puppet.com
 dyndns.puppet.com
+*.training.puppet.com

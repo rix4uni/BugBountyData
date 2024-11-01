@@ -1,4 +1,3 @@
-eventim.pl
 mgtest2.eventim.pl
 passtest2.eventim.pl
 staging2.eventim.pl
@@ -19,3 +18,10 @@ streaming.eventim.pl
 www.eventim.pl
 autodiscover.eventim.pl
 blog.eventim.pl
+origin-www.eventim.pl
+sip.eventim.pl
+m.eventim.pl
+eurobasket.eventim.pl
+mobile.eventim.pl
+music.eventim.pl
+staging.auth.eventim.pl

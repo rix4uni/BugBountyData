@@ -12,7 +12,6 @@ operatorgroups.operators.coreos.com
 alertmanagerconfigs.monitoring.coreos.com
 jbossjeffe.coreos.com
 alertmanagers.monitoring.coreos.com
-coreos.com
 hooks.coreos.com
 prometheusrule.monitoring.coreos.com
 www.coreos.com

@@ -295,12 +295,6 @@ www.transactionmanager.coldwellbanker.com
 www1.coldwellbanker.com
 www2.coldwellbanker.com
 cms.dev-bcom.coldwellbanker.com
-coldwellbanker.com
-flcoldwellbanker.com
-wyocoldwellbanker.com
-vanguardcoldwellbanker.com
-connecticutcoldwellbanker.com
-alamogordocoldwellbanker.com
 images-listings.coldwellbanker.com
 *.cb-iat.iat-bcom.coldwellbanker.com
 *.cb-uat.dev-bcom.coldwellbanker.com
@@ -311,3 +305,6 @@ qa6.solo.coldwellbanker.com
 cb-uat.dev-bcom.coldwellbanker.com
 cb-iat.iat-bcom.coldwellbanker.com
 launchdarkly.uat-bcom.coldwellbanker.com
+caribbean.coldwellbanker.com
+snsupport.coldwellbanker.com
+www97.coldwellbanker.com

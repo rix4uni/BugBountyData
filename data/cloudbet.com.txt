@@ -25,7 +25,6 @@ static.cloudbet.com
 flightdeck.cloudbet.com
 assets.cloudbet.com
 stg.cloudbet.com
-cloudbet.com
 wp-test.cloudbet.com
 www.cloudbet.com
 api.cloudbet.com
@@ -39,3 +38,5 @@ agents.cloudbet.com
 affiliates-stg.cloudbet.com
 cdn.cloudbet.com
 copydeck.cloudbet.com
+affiliate.cloudbet.com
+*.affiliate.cloudbet.com

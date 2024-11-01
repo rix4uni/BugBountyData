@@ -61,3 +61,5 @@ archive.deskpro.com
 beta.get.deskpro.com
 pentest-1-cloud.deskpro.com
 *.send.deskpro.com
+*.prod.octopus.deskpro.com
+*.test.octopus.deskpro.com

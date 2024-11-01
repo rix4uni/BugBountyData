@@ -17,7 +17,6 @@ www.bankid.cz
 oidc.stage.bankid.cz
 narozeniny.bankid.cz
 developer.bankid.cz
-bankid.cz
 plus.bankid.cz
 developers.bankid.cz
 test.bankid.cz
@@ -51,3 +50,8 @@ www.bank.sandbox.bankid.cz
 www.michalik.stage.bankid.cz
 www.ux.stage.bankid.cz
 echo.stage.bankid.cz
+sandbox.dev.bankid.cz
+wallet.bankid.cz
+wallet.sandbox.bankid.cz
+demo.stage.bankid.cz
+api.oidc.bankid.cz

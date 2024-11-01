@@ -67,7 +67,6 @@ keycloak.ontw.dimp.podiumd.dimpact.nl
 openinwoner.ontw.dimp.podiumd.dimpact.nl
 keycloak.ow.lab.dimpact.nl
 dtestmidoffice.dimpact.nl
-dimpact.nl
 dev-objecttypen.dimpact.nl
 objecten.ontw.dimp.podiumd.dimpact.nl
 ontw-objecten.dimpact.nl
@@ -127,3 +126,5 @@ doeontwikkelingmidoffice.dimpact.nl
 dacceptatieloket.dimpact.nl
 dacceptatiemidoffice.dimpact.nl
 zac.ontw.dimp.podiumd.dimpact.nl
+acc-broker.dimpact.nl
+preprod-broker.dimpact.nl

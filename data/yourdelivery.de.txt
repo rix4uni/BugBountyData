@@ -44,6 +44,5 @@ config.yourdelivery.de
 staging.yourdelivery.de
 white.yourdelivery.de
 webmail.yourdelivery.de
-yourdelivery.de
 *.yourdelivery.de
 www.devel.yourdelivery.de

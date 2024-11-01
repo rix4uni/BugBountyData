@@ -1,1 +1,4 @@
 *.cb.zone
+aws.cb.zone
+bi.cb.zone
+*.aws.cb.zone

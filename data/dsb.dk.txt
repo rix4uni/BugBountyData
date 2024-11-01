@@ -595,7 +595,6 @@ jenkins-test.azure.dsb.dk
 feature-dsbapp-dev.dev.salescore.azure.dsb.dk
 delete-me-test-quality-gate.sandbox.salescore.azure.dsb.dk
 testaha.azure.dsb.dk
-dsb.dk
 locationsearchgrpc-api.sales-dev.azure.dsb.dk
 schooltraveladmin-ui.planning-uat.azure.dsb.dk
 dsbeq1u.kmd.dsb.dk
@@ -860,3 +859,8 @@ salescore-grafana-dev.azure.dsb.dk
 jira.dsb.dk
 vssapbu001u.dsb.dk
 d3-dev.dsb.dk
+tris-prd-v3.dsb.dk
+tris-uat-v1.dsb.dk
+tris-tst-v1.dsb.dk
+tris-sit-v1.dsb.dk
+tris-prd-v2.dsb.dk

@@ -10,7 +10,6 @@ jenkins.eslint.org
 de.eslint.org
 ja.eslint.org
 es.eslint.org
-eslint.org
 zh-hans.eslint.org
 *.docs.eslint.org
 *.eslint.org
@@ -25,4 +24,3 @@ play.eslint.org
 pt-br.eslint.org
 videoclick.docs.eslint.org
 zh-hans.docs.eslint.org
-html-eslint.org

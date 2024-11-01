@@ -16,7 +16,11 @@ mail.sim.fi
 dev.odoo.intranet.sim.fi
 dev.odoo.sim.fi
 cdn.sim.fi
-sim.fi
 odoo.sim.fi
 mstore.sim.fi
 api.sim.fi
+www.extranet.sim.fi
+staging.sim.fi
+sandbox.sim.fi
+gate.sim.fi
+2019.sim.fi

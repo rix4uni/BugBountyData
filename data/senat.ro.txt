@@ -74,7 +74,6 @@ senoff.senat.ro
 librenms.sendir.senat.ro
 guac.senat.ro
 ocr.senat.ro
-senat.ro
 web.senat.ro
 mailsenat.senat.ro
 bbb2.senat.ro
@@ -90,3 +89,5 @@ bbbb.senat.ro
 indico.senat.ro
 ip-41.senat.ro
 posta2.senat.ro
+statamic.senat.ro
+*.senat.ro

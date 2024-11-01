@@ -19,7 +19,6 @@ dev.cargobase.com
 tracking.cargobase.com
 async.cargobase.com
 www.cargobase.com
-cargobase.com
 campaign.cargobase.com
 files.cargobase.com
 grafana-prod.cargobase.com
@@ -27,3 +26,10 @@ status.cargobase.com
 careers.cargobase.com
 auth0.cargobase.com
 auth0-regression.cargobase.com
+next.cargobase.com
+piterpost.cargobase.com
+shakespeare.cargobase.com
+qaservices.cargobase.com
+www.careers.cargobase.com
+qaasync.cargobase.com
+websocket.cargobase.com

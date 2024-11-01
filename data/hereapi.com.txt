@@ -1,4 +1,3 @@
-hereapi.com
 traffic.ls.hereapi.com
 image.maps.ls.hereapi.com
 1.base.maps.ls.hereapi.com
@@ -5616,3 +5615,14 @@ us-east-1.isoline.route.ls.hereapi.com
 hapi-us-east-1.metarouter.api-gateway.ls.hereapi.com
 eu-west-1-traffic-analytics.api-gateway.sit.ls.hereapi.com
 us-east-1-tpegsetna-prd.api-gateway.ls.hereapi.com
+1.base.maps.sit.ls.hereapi.com
+us-west-2-prd-reverse.geocoder.ls.hereapi.com
+us-west-2-cit-batch.geocoder.ls.hereapi.com
+us-west-2-prd-forward.geocoder.ls.hereapi.com
+us-west-2-traffictilev2-prd.api-gateway.ls.hereapi.com
+batch.search.hereapi.com
+*.batch.search.hereapi.com
+*.search.hereapi.com
+*.ndslive.sit.ls.hereapi.com
+what3words.search.hereapi.com
+*.what3words.search.hereapi.com

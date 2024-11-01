@@ -35,7 +35,6 @@ help.lido.fi
 referral.lido.fi
 airdrop.lido.fi
 1inch-pool-rewards.lido.fi
-lido.fi
 vote.lido.fi
 wq-api.lido.fi
 pol-api-pub.lido.fi
@@ -178,9 +177,6 @@ alertmanager-tooling.lido.fi
 alertmanager-ethereum-critical.lido.fi
 loki-ethereum.lido.fi
 info.lido.fi
-elido.fi
-events-lido.fi
-event-lido.fi
-get-lido.fi
 lidoconnect.lido.fi
 db.lido.fi
+csm.lido.fi

@@ -10,7 +10,6 @@ tessapitst.australianballet.com.au
 tessapiprd.australianballet.com.au
 ohrm.australianballet.com.au
 autodiscover.australianballet.com.au
-australianballet.com.au
 tessanaprd.australianballet.com.au
 www.australianballet.com.au
 my.australianballet.com.au
@@ -44,3 +43,7 @@ devtest.australianballet.com.au
 assets.australianballet.com.au
 education.australianballet.com.au
 w.australianballet.com.au
+*.australianballet.com.au
+*.meta-api.australianballet.com.au
+2a57j78bhyip4713fgiygycxu10pmkz.meta-api.australianballet.com.au
+*.email.australianballet.com.au

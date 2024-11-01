@@ -73614,7 +73614,6 @@ boylston-besucherfuehrungen.srf.ch
 cgoobersmmunity.srf.ch
 commloftiskirky.srf.ch
 communrange86-171y.srf.ch
-srf.ch
 medienarchivteststream05.srf.ch
 admiuser250.srf.ch
 admminaton.srf.ch
@@ -100294,3 +100293,7 @@ txmehnsf.events.srf.ch
 tschugger.events.srf.ch
 www.tschugger.events.srf.ch
 www.txmehnsf.events.srf.ch
+ais.eai-general.aws-dev.srf.ch
+mediaingest-test.srf.ch
+*.production.srf.ch
+www.abc-srf3-challenge.events.srf.ch

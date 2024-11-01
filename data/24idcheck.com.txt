@@ -1,5 +1,4 @@
 inzage.24idcheck.com
-24idcheck.com
 doctest.24idcheck.com
 acc.test.24idcheck.com
 account.test.24idcheck.com
@@ -28,3 +27,5 @@ www.productie.24idcheck.com
 test.24idcheck.com
 tripmanager.24idcheck.com
 productie.24idcheck.com
+*.test.24idcheck.com
+*.24idcheck.com

@@ -421,7 +421,6 @@ xch.test.transporeon.com
 2024-08.operations.dev.transporeon.com
 atlascopcorental.operations.transporeon.com
 dhlsd.operations.staging.transporeon.com
-transporeon.com
 388997.operations.dev.transporeon.com
 redirect.operations.transporeon.com
 388997.operations.transporeon.com
@@ -442,3 +441,18 @@ translator.internal.operations.dev.transporeon.com
 ctc.transporeon.com
 customermc.transporeon.com
 *.elastic.transporeon.com
+summit.transporeon.com
+livesend.transporeon.com
+mercareon-reporting.transporeon.com
+sixfold.transporeon.com
+logon.test.transporeon.com
+addon.transporeon.com
+demoportal.transporeon.com
+api.internal.operations.transporeon.com
+shipper.test.transporeon.com
+helios-api.scratch-kh.dataplatform.internal.transporeon.com
+tr-mobile.transporeon.com
+api.internal.operations.dev.transporeon.com
+addon.test.transporeon.com
+data-sync.data-blender.internal.operations.transporeon.com
+tr-ticontract.transporeon.com

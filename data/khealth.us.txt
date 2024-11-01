@@ -1,4 +1,3 @@
-khealth.us
 production.khealth.us
 anthem.khealth.us
 kangpy.anthem.khealth.us
@@ -23,3 +22,5 @@ kirttest.anthem.khealth.us
 api-integration.khealth.us
 sdk-api.khealth.us
 identity-1.khealth.us
+*.anthem.khealth.us
+*.khealth.us

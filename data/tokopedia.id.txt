@@ -11,10 +11,10 @@ kibana.tokopedia.id
 mgmt.tokopedia.id
 origin-pay.tokopedia.id
 pci.tokopedia.id
-tokopedia.id
 wallet.tokopedia.id
 wallet1.tokopedia.id
 wallet2.tokopedia.id
 wildcard.tokopedia.id
 pay-staging.tokopedia.id
 snat.tokopedia.id
+pulsa-staging.tokopedia.id

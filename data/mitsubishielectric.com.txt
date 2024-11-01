@@ -2,7 +2,6 @@ auth1.mitsubishielectric.com
 www.mitsubishielectric.com
 app.mitsubishielectric.com
 252fus.mitsubishielectric.com
-mitsubishielectric.com
 au.mitsubishielectric.com
 asia.mitsubishielectric.com
 afr.mitsubishielectric.com
@@ -127,3 +126,4 @@ eu3a.mitsubishielectric.com
 gr3a.mitsubishielectric.com
 mm.mitsubishielectric.com
 be3a.mitsubishielectric.com
+*.mitsubishielectric.com

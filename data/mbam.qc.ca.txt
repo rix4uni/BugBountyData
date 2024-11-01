@@ -18,7 +18,6 @@ eudonet.mbam.qc.ca
 echo-api.mbam.qc.ca
 zendata.mbam.qc.ca
 boutik.mbam.qc.ca
-mbam.qc.ca
 edition.mbam.qc.ca
 peterdoig.mbam.qc.ca
 venice.mbam.qc.ca
@@ -38,3 +37,7 @@ staging.mbam.qc.ca
 ebillet.mbam.qc.ca
 plugin-bioz-sugar.mbam.qc.ca
 admin.mbam.qc.ca
+plugin-bioz-server.mbam.qc.ca
+plugin-bioz.mbam.qc.ca
+www2.mbam.qc.ca
+sondage.mbam.qc.ca

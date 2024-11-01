@@ -1,7 +1,6 @@
 multibg.service.mb-nn.ru
 cbase.mb-nn.ru
 juno.mb-nn.ru
-mb-nn.ru
 ncloud.mb-nn.ru
 stprod.mb-nn.ru
 mail.mb-nn.ru
@@ -95,3 +94,8 @@ cloud.akvilio.mb-nn.ru
 bitrix2.bizfin.mb-nn.ru
 prmox.mb-nn.ru
 r2d2.mb-nn.ru
+report.tarasova.mb-nn.ru
+*.corp.mb-nn.ru
+bitrix.sf.mb-nn.ru
+*.mb-nn.ru
+www.diana.mb-nn.ru

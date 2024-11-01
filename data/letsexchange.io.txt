@@ -14,7 +14,6 @@ trustee-old.letsexchange.io
 ws.letsexchange.io
 www.letsexchange.io
 api-tst.letsexchange.io
-letsexchange.io
 my.letsexchange.io
 phpadmin.letsexchange.io
 telegram.letsexchange.io
@@ -36,3 +35,4 @@ old-ws.letsexchange.io
 images.letsexchange.io
 testcdn.letsexchange.io
 api-widget.letsexchange.io
+images-dev.letsexchange.io

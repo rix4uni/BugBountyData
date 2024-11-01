@@ -1,0 +1,3 @@
+*.prod.oneplatform.build
+*.eu-west-1.prod.oneplatform.build
+*.prod1.prod.oneplatform.build

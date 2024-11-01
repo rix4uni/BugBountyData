@@ -1,5 +1,4 @@
 docs.ionic.io
-ionic.io
 enterprise-starter.ionic.io
 res.ionic.io
 market.ionic.io
@@ -37,3 +36,4 @@ try.ionic.io
 eas21.ionic.io
 docs-demo.ionic.io
 status.ionic.io
+*.ionic.io

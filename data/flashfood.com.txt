@@ -49,7 +49,6 @@ staging.flashfood.com
 app-staging.shopper.flashfood.com
 azure-dev-api.flashfood.com
 qa-identity.flashfood.com
-flashfood.com
 qa-api.flashfood.com
 farmbox.flashfood.com
 argocd-nonprod.platform.flashfood.com
@@ -81,3 +80,18 @@ labs-vault.platform.flashfood.com
 promo.flashfood.com
 dev-partnerops-service.flashfood.com
 labs-argocd.platform.flashfood.com
+img-legacy.flashfood.com
+staging-admin.flashfood.com
+split-proxy.flashfood.com
+split-proxy-staging.flashfood.com
+cdn-identity.flashfood.com
+api.staging.flashfood.com
+dev-mi-api.flashfood.com
+links.flashfood.com
+dev-mi-img.flashfood.com
+staging-img.flashfood.com
+hub.flashfood.com
+img.flashfood.com
+dev-app.flashfood.com
+dev-admin.flashfood.com
+admin.flashfood.com

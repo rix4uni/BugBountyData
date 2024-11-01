@@ -82,12 +82,9 @@ mail.cuvva.co
 admin.corp.cuvva.co
 test.ext.cuvva.co
 sgl.cuvva.co
-cuvva.co
 int.cuvva.co
 *.corp.cuvva.co
 *.cuvva.co
-*.getcuvva.co
-getcuvva.co
 *.dev.ext.cuvva.co
 *.sandbox.ext.cuvva.co
 *.test.ext.cuvva.co
@@ -103,8 +100,6 @@ getcuvva.co
 *.dev.env.cuvva.co
 *.dev.sys.cuvva.co
 *.sys.cuvva.co
-webmaster@cuvva.co
-james.billingham@cuvva.co
 a.prod.ext.cuvva.co
 aa.prod.ext.cuvva.co
 active.prod.ext.cuvva.co

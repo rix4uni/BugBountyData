@@ -1,0 +1,6 @@
+sandbox-gateway.staging.api.taxjar.com
+*.production.api.taxjar.com
+staging.api.taxjar.com
+www.api.taxjar.com
+*.staging.api.taxjar.com
+random-latency.staging.api.taxjar.com

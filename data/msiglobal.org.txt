@@ -2,7 +2,6 @@ webmail.msiglobal.org
 webmail.anz.msiglobal.org
 ru.msiglobal.org
 crm.msiglobal.org
-msiglobal.org
 cpanel.anz.msiglobal.org
 mail.anz.msiglobal.org
 www.ecr.anz.msiglobal.org
@@ -24,3 +23,4 @@ www.crm.msiglobal.org
 autodiscover.anz.msiglobal.org
 pt.msiglobal.org
 beta.msiglobal.org
+*.msiglobal.org

@@ -910,7 +910,6 @@ mtf.wallet.parity.io
 ola.cla.parity.io
 opencost.parity-mgmt.parity.io
 parity-downloads-mirror.parity.io
-parity.io
 phback.cla.parity.io
 phfront.cla.parity.io
 poc.wallet.parity.io
@@ -2042,3 +2041,4 @@ harbor-test.parity-stg.parity.io
 data.parity.io
 polkadot-parachain-people-connect-node-0.parity-chains.parity.io
 github-metrics-exporter-webhook.parity.io
+eth-rpc.parity-testnet.parity.io

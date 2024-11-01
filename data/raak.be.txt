@@ -8,6 +8,8 @@ vibe.raak.be
 netbase.raak.be
 info.raak.be
 feedback.raak.be
-raak.be
 blog.raak.be
 umbraco.raak.be
+*.raak.be
+*.umbraco.raak.be
+*.www.raak.be

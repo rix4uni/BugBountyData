@@ -1,0 +1,9 @@
+ui.supabase.io
+app.supabase.io
+www-internal.supabase.io
+test-api.supabase.io
+beta.supabase.io
+status.supabase.io
+www.supabase.io
+docs.supabase.io
+*.supabase.io

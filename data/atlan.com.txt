@@ -112,7 +112,6 @@ admin.atlan.com
 jira.atlan.com
 mail._domainkey.atlan.com
 manage.atlan.com
-atlan.com
 _dmarc.atlan.com
 home.atlan.com
 citrix.atlan.com
@@ -123,3 +122,7 @@ experience.atlan.com
 invitationhomes.atlan.com
 72-28-130-246-dhcp.mia.fl.atlan.com
 24-145-25-035-dhcp.jst.pa.atlan.com
+nextgen.atlan.com
+cci.atlan.com
+integrations.atlan.com
+*.atlan.com

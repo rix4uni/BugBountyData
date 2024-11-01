@@ -1,6 +1,15 @@
 support.billme.io
-billme.io
 stage.billme.io
 api-prod-v1.billme.io
 api-v2.billme.io
 www.billme.io
+crash-api-test.billme.io
+bm-download.billme.io
+bm-logs-test.billme.io
+bm-ecom-apis.billme.io
+crash-api.billme.io
+local-api-test.billme.io
+static.billme.io
+bm-local.billme.io
+local-api.billme.io
+billupload.billme.io

@@ -31,9 +31,10 @@ www.lainahakemus.bigbank.fi
 laina.bigbank.fi
 partner-test.bigbank.fi
 brokers.bigbank.fi
-bigbank.fi
 *.bigbank.fi
 *.email.bigbank.fi
 *.fi.bigbank.fi
 *.static.bigbank.fi
 localhost.bigbank.fi
+w.bigbank.fi
+org.fabric3.samples.bigbank.fi

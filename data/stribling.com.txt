@@ -20,7 +20,6 @@ email.stribling.com
 rds.stribling.com
 remote.stribling.com
 www.apps.stribling.com
-stribling.com
 kiwi.stribling.com
 data.stribling.com
 failover.stribling.com
@@ -29,10 +28,6 @@ www.data.stribling.com
 cas.stribling.com
 eblast.stribling.com
 gateway2.stribling.com
-marystribling.com
-alicestribling.com
-gallup-stribling.com
-michelastribling.com
 and.stribling.com
 oneyorkstreet.stribling.com
 displays.stribling.com
@@ -42,3 +37,4 @@ img1.stribling.com
 holidaycard.stribling.com
 2fwww.stribling.com
 img3.stribling.com
+*.stribling.com

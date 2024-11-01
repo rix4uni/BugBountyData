@@ -32,7 +32,6 @@ registry.indicia.nl
 ukomttochook.acceptatie.indicia.nl
 indiciatmp.hosting.indicia.nl
 genicap.hosting.indicia.nl
-indicia.nl
 www.tiptracknext-staging-login.indicia.nl
 webmail.indicia.nl
 connectivityengine.indicia.nl
@@ -360,3 +359,6 @@ ind-ehv-p-bsd01.hosting.indicia.nl
 ind-ehv-p-dru01.hosting.indicia.nl
 ind-ehv-p-srf02.hosting.indicia.nl
 mx02.hosting.indicia.nl
+identityproviderconnectivityengine.indicia.nl
+ind-ehv-p-crea01.hosting.indicia.nl
+ind-til-a-crea01.acceptatie.indicia.nl

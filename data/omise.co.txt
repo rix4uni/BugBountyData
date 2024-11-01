@@ -196,7 +196,6 @@ oengine-ewallet.omise.co
 oengine-pwp.omise.co
 omgslack.omise.co
 omgweb.apps.omise.co
-omise.co
 onboarding.omise.co
 payment.omise.co
 paynow.omise.co
@@ -279,10 +278,6 @@ app-center-api.omise.co
 apm-payment.omise.co
 13-y2.dashboard.omise.co
 docs.dat-cdn.omise.co
-staging-omise.co
-dev-omise.co
-cdn-omise.co
-cdnomise.co
 *.internal.omise.co
 *.linksplus.omise.co
 scimbridge.omise.co

@@ -173,7 +173,6 @@ vpn.platform.stage.getaround.com
 calendar.getaround.com
 support.getaround.com
 investor.getaround.com
-getaround.com
 cetelem.getaround.com
 secure.images.getaround.com
 pad.getaround.com
@@ -224,3 +223,13 @@ scim.getaround.com
 www.wat.g3staging.getaround.com
 no.bobil.getaround.com
 no.business.getaround.com
+*.admin.g3staging.getaround.com
+*.api.g3staging.getaround.com
+*.data.g3staging.getaround.com
+*.g3staging.getaround.com
+*.getaround.com
+*.health.g3staging.getaround.com
+*.images.g3staging.getaround.com
+*.services.g3staging.getaround.com
+*.spirit.g3staging.getaround.com
+*.www.g3staging.getaround.com

@@ -2,8 +2,9 @@ mx1.return-path.dk
 mx2.return-path.dk
 hermes.return-path.dk
 mail.return-path.dk
-return-path.dk
 nemesis.return-path.dk
 www.return-path.dk
 mta-sts.return-path.dk
 frigg.return-path.dk
+mx03.return-path.dk
+mx02.return-path.dk

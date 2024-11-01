@@ -69,16 +69,12 @@ feature-flag.bitdelta.com
 affiliate.bitdelta.com
 qa-v2.bitdelta.com
 feature-kyc.bitdelta.com
-bitdelta.com
 media.bitdelta.com
 www.bitdelta.com
 *.bitdelta.com
 *.dev.bitdelta.com
 *.amplify.bitdelta.com
 *.aws.bitdelta.com
-vpn.orbitdelta.com
-www.orbitdelta.com
-orbitdelta.com
 media-dev.bitdelta.com
 academy.bitdelta.com
 api.bitdelta.com

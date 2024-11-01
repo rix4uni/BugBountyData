@@ -7,7 +7,6 @@ amd-rx-2.home.bartz.cloud
 n8n.home.bartz.cloud
 lb.home.bartz.cloud
 request.home.bartz.cloud
-bartz.cloud
 status.home.bartz.cloud
 vault.home.bartz.cloud
 home.bartz.cloud
@@ -63,3 +62,4 @@ events.home.bartz.cloud
 mail01.bartz.cloud
 smtpseguro.bartz.cloud
 pop.bartz.cloud
+*.bartz.cloud

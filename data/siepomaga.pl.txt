@@ -4,7 +4,6 @@ staging.siepomaga.pl
 pages.siepomaga.pl
 app-moje.siepomaga.pl
 www.s2.siepomaga.pl
-siepomaga.pl
 office.siepomaga.pl
 moje-staging.siepomaga.pl
 staging-og-testing.siepomaga.pl
@@ -77,3 +76,6 @@ mailtrain.siepomaga.pl
 assets.siepomaga.pl
 wosp.siepomaga.pl
 www.wosp.siepomaga.pl
+moje-development.siepomaga.pl
+www.moje-master.siepomaga.pl
+master.siepomaga.pl

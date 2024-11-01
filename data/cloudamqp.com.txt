@@ -102,7 +102,6 @@ mailer.cloudamqp.com
 metrics-int.cloudamqp.com
 prometheus-writer.cloudamqp.com
 azure-v3.cloudamqp.com
-cloudamqp.com
 mgmt.cloudamqp.com
 test2.cloudamqp.com
 test3.cloudamqp.com
@@ -976,7 +975,6 @@ test-small-jackal.rmq.cloudamqp.com
 rmq.cloudamqp.com
 amqproxy.apt.cloudamqp.com
 test-blossom-hound.rmq.cloudamqp.com
-hostmaster@cloudamqp.com
 thumper.cloudamqp.com
 alpaca.cloudamqp.com
 *.cloudamqp.com
@@ -3287,3 +3285,9 @@ capybara.lmq.dev.cloudamqp.com
 lemming.lmq.dev.cloudamqp.com
 lemming-01.lmq.dev.cloudamqp.com
 mole.rmq3.dev.cloudamqp.com
+server.rmq.cloudamqp.com
+fast-brown-woodpecker.rmq.cloudamqp.com
+hefty-blond-bloodhound.rmq4.cloudamqp.com
+moose-01.rmq.cloudamqp.com
+devoted-teal-duck.rmq.cloudamqp.com
+octopus-01.rmq3.cloudamqp.com

@@ -58,7 +58,6 @@ smtp-3.warpcore.spaceforce.mil
 smtp-4.warpcore.spaceforce.mil
 smtp-5.warpcore.spaceforce.mil
 sxht-nm-vcucs1v.spaceforce.mil
-spaceforce.mil
 patrick.spaceforce.mil
 vandenberg.spaceforce.mil
 losangeles.spaceforce.mil
@@ -99,3 +98,5 @@ staging.my.spaceforce.mil
 smc.spaceforce.mil
 testing.spaceweather.spaceforce.mil
 httpwww.ssc.spaceforce.mil
+space-portal-dev.gravity.spaceforce.mil
+cms-dev.gravity.spaceforce.mil

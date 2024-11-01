@@ -15,7 +15,6 @@ accounts.google.bt
 consent.google.bt
 adwords.google.bt
 earth.google.bt
-google.bt
 books.google.bt
 www.google.bt
 ns3.google.bt
@@ -53,3 +52,4 @@ ampcid.google.bt
 enterprise.google.bt
 adssettings.google.bt
 button.google.bt
+*.google.bt

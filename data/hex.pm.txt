@@ -1,5 +1,4 @@
 www.hex.pm
-hex.pm
 builds.staging.hex.pm
 builds.hex.pm
 diff.staging.hex.pm
@@ -11,3 +10,16 @@ deploy.hex.pm
 billing.hex.pm
 preview.hex.pm
 preview.staging.hex.pm
+crispen.hex.pm
+s3.hex.pm
+voron0.canopus.hex.pm
+static.canopus.hex.pm
+voron2.canopus.hex.pm
+stats.staging.hex.pm
+stats.hex.pm
+status.hex.pm
+canopus.hex.pm
+repo.hex.pm
+octoprint.canopus.hex.pm
+redesign.hex.pm
+diff.hex.pm

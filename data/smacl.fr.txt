@@ -6,7 +6,6 @@ rec.dyn.smacl.fr
 mx2.smacl.fr
 identification.dyn.smacl.fr
 recrute.smacl.fr
-smacl.fr
 reverseprod2.dyn.smacl.fr
 identificationdev.dyn.smacl.fr
 reverseprod1.smacl.fr
@@ -42,3 +41,4 @@ box-qvt.smacl.fr
 mailouttest.smacl.fr
 pub.smacl.fr
 dev.smacl.fr
+_sipfederationtls._tcp.smacl.fr

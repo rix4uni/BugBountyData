@@ -13519,7 +13519,6 @@ tw-pp-tcv-billing.stage-ie1.twilio.com
 tw1juzbsa7.stage-ie1.twilio.com
 tweehonderdvijfentwintig.stage-ie1.twilio.com
 tweeting.stage-ie1.twilio.com
-twilio.com
 twitchwire.stage-ie1.twilio.com
 twserve-d48-baseline-plus-500k.stage-ie1.twilio.com
 twu1.stage-ie1.twilio.com
@@ -18511,14 +18510,6 @@ fa6b2c084cb7e77837f4026dc29f72419b087869-kafka-v1.twilio.com
 buson.twilio.com
 35-199-164-4s-23-223-55-42ts-1601737069-clienttons-s.twilio.com
 de88-63.twilio.com
-apitwilio.com
-ip-twilio.com
-withtwilio.com
-sendgridtwilio.com
-ytica4twilio.com
-sendgrid-twilio.com
-flextwilio.com
-talk2twilio.com
 stun.twilio.com
 r.twilio.com
 us1.r.twilio.com
@@ -18846,3 +18837,12 @@ prod-jp2.ad.corp.twilio.com
 stage-in1.ad.corp.twilio.com
 dev-in1.ad.corp.twilio.com
 prod-sg1.ad.corp.twilio.com
+kasi.corp.twilio.com
+os.smpp-ule.dev-us1.twilio.com
+sync-insights.xdr.stage-us1.twilio.com
+sync-insights.xdr.us1.twilio.com
+sync-insights.xdr.dev-us1.twilio.com
+opensearch.voiceinsights-internal.dev-us1.twilio.com
+api.opensearch.voiceinsights-internal.dev-us1.twilio.com
+dashboard.us-east-2.waas.corp.twilio.com
+dashboard.us-west-1.waas.corp.twilio.com

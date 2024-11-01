@@ -3029,7 +3029,6 @@ v3.impl.apim2proxy.backends.cms.gov
 v3.test.apim2proxy-ecs.backends.cms.gov
 v3.test.apim2proxy-internal-ecs.backends.cms.gov
 v4.apim-admin.backends.cms.gov
-cms.gov
 agentbrokerfaq.cms.gov
 nppes.cms.gov
 cloud.vpn.cms.gov
@@ -3187,3 +3186,16 @@ apim2proxy-internal.backends.cms.gov
 v4.apim2proxy-endpoint.backends.cms.gov
 idp-radvcdat.cms.gov
 test.dashboard.permerc.cms.gov
+ivrimp.eacms.aws.cms.gov
+ivrtest.eacms.aws.cms.gov
+squid-dev.eacms.aws.cms.gov
+squid-imp.eacms.aws.cms.gov
+squid-pro.eacms.aws.cms.gov
+squid-tes.eacms.aws.cms.gov
+squid-trn.eacms.aws.cms.gov
+bicvpe.cms.gov
+dev.casa.cms.gov
+prod.rfx.internal.cms.gov
+*.prod.rfx.internal.cms.gov
+aloha-uf-impl.infraops.backends.cms.gov
+tra-impl.cloud.cms.gov

@@ -28,7 +28,6 @@ docs.xendit.co
 api-drp.xendit.co
 invoice.xendit.co
 tpi-ui.xendit.co
-xendit.co
 dashboard-gateway-integration.xendit.co
 nginx-mtls-poc.xendit.co
 edd.xendit.co
@@ -108,3 +107,4 @@ checkout-staging.xendit.co
 api.xendit.co
 direct-debit-web.xendit.co
 bnpl-connector.xendit.co
+id.xendit.co

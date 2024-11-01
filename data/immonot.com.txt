@@ -52,7 +52,6 @@ a.dns.immonot.com
 www.registry.immonot.com
 _spf_ovh_vps.immonot.com
 diffusionespacenotaire.immonot.com
-immonot.com
 zrdyns.immonot.com
 trente-cinq.v4.immonot.com
 bonneau.v4.immonot.com
@@ -63,3 +62,4 @@ services3.immonot.com
 www.immonot.com
 stats-internes.immonot.com
 vpn.immonot.com
+*.immonot.com

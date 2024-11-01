@@ -55,7 +55,6 @@ mgmt01-us-east-1b.tubemogul.com
 cmp.geodns.tubemogul.com
 ct.tubemogul.com
 static.inplay.tubemogul.com
-tubemogul.com
 rtb-lb-event-iad-1c.tubemogul.com
 rtb-lb-tm-iad-1a.tubemogul.com
 rtb-lb-event-iad-1a.tubemogul.com
@@ -305,8 +304,6 @@ www.storezone01.corp.tubemogul.com
 www.tmvpn.tubemogul.com
 www.vpn.tubemogul.com
 zh-cn.tubemogul.com
-www.datatubemogul.com
-datatubemogul.com
 *.preprod.tubemogul.com
 ww.tubemogul.com
 geodns.tubemogul.com
@@ -402,7 +399,6 @@ rcv-srv02.inplay.tubemogul.com
 as-lb-eu-west.tubemogul.com
 rcv-srv03.inplay.tubemogul.com
 pl11.load.tubemogul.com
-252ftubemogul.com
 inplay-rcv24.tubemogul.com
 app.promo.tubemogul.com
 rcv-srv38.inplay.tubemogul.com
@@ -5106,3 +5102,4 @@ cdn-www.sandbox.tubemogul.com
 hbfcmnzpaz.cms.sandbox.tubemogul.com
 av-apps.sandbox.tubemogul.com
 as-lb-tm-iad-1b-www.sandbox.tubemogul.com
+andrew.wang.tubemogul.com

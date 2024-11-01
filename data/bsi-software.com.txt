@@ -49,7 +49,6 @@ access.space-test.bsi-software.com
 prtg.bsi-software.com
 developer-test.test.bsi-software.com
 evolta-beratung.bsi-software.com
-bsi-software.com
 access.space.test.bsi-software.com
 events.bsi-software.com
 optivo.bsi-software.com
@@ -82,3 +81,12 @@ www1.bsi-software.com
 owas.bsi-software.com
 beta.bsi-software.com
 www.sip.bsi-software.com
+docker.test.bsi-software.com
+svn2.bsi-software.com
+www.dummy.bsi-software.com
+*.bsi-software.com
+temptest.bsi-software.com
+test.developer.bsi-software.com
+test.docs.bsi-software.com
+www.access.space-test.bsi-software.com
+www.engage.bsi-software.com

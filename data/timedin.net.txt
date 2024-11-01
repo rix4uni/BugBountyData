@@ -1,7 +1,6 @@
 test.timedin.net
 static.timedin.net
 status.timedin.net
-timedin.net
 www.timedin.net
 api.timedin.net
 vps.timedin.net
@@ -55,3 +54,5 @@ passport.timedin.net
 ff.timedin.net
 autodiscover.timedin.net
 mpk.timedin.net
+*.ons.timedin.net
+*.timedin.net

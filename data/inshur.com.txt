@@ -615,3 +615,9 @@ api.policy-service0.prod0.europe-west1.ext.inshur.com
 houston.houston0.dev0.europe-west2.ext.inshur.com
 int-lb.glb1.test0.europe-west1.ext.inshur.com
 tasks.policy-service0.prod3.us-east1.ext.inshur.com
+ingress.cluster0.service0.prod2.europe-west2.ext.inshur.com
+europe-west1.ext.inshur.com
+www.explore.inshur.com
+www.inshur.com
+api.warmest-day.service0.dev0.europe-west1.ext.inshur.com
+cw-root.glb1.test0.europe-west1.ext.inshur.com

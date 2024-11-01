@@ -14,7 +14,6 @@ blogcontent.hiverhq.com
 app.hiverhq.com
 helpkb.hiverhq.com
 engg.hiverhq.com
-hiverhq.com
 v4.hiverhq.com
 status.hiverhq.com
 matomo.hiverhq.com
@@ -67,3 +66,14 @@ www.local.hiverhq.com
 cdn.hiverhq.com
 local.hiverhq.com
 blog.hiverhq.com
+kiwi.hiverhq.com
+support.hiverhq.com
+channels-middleware-v2.hiverhq.com
+auth.app.hiverhq.com
+v2stage.hiverhq.com
+chat-api.hiverhq.com
+cscontent.hiverhq.com
+template.hiverhq.com
+connectors.hiverhq.com
+status1.hiverhq.com
+testapp.hiverhq.com

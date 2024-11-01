@@ -1,4 +1,3 @@
-google.bs
 www.google.bs
 shopping.google.bs
 local.google.bs
@@ -25,3 +24,10 @@ ogs.google.bs
 picasa.google.bs
 groups.google.bs
 ns3.google.bs
+mobile.google.bs
+toolbarqueries.google.bs
+accounts.google.bs
+m.google.bs
+blogsearch.google.bs
+map.google.bs
+*.google.bs

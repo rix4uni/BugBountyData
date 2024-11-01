@@ -91,7 +91,6 @@ aws.sanoma.com
 extranet.sanoma.com
 learning.sanoma.com
 sts.sanoma.com
-sanoma.com
 conf.sanoma.com
 service.sanoma.com
 logs.sanoma.com
@@ -161,3 +160,6 @@ rtdoreen.osc-tools.production.eu-west-1.ext.cloud.sanoma.com
 nl-split.sanoma.com
 restricted.tools.osc-nu-dev.k8s.cloud.sanoma.com
 vpn-fi.sanoma.com
+hello.restricted.apps-1.osc-nu-test.k8s.cloud.sanoma.com
+wiki.sanoma.com
+grafana.restricted.apps-1.osc-nu-test.k8s.cloud.sanoma.com

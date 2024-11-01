@@ -43,7 +43,6 @@ training.glamox.com
 webmail.glamox.com
 www.remote.glamox.com
 remote-test.connect.glamox.com
-glamox.com
 c80service.glamox.com
 old.glamox.com
 savenergy.glamox.com
@@ -51,3 +50,6 @@ webcontroller.glamox.com
 easycalcservice.glamox.com
 www.abs.glamox.com
 www.sip.glamox.com
+*.glamox.com
+*.connect.glamox.com
+www.ftp02.glamox.com

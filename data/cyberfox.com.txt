@@ -21,6 +21,6 @@ phish-staging.cyberfox.com
 aware.cyberfox.com
 dns-staging.cyberfox.com
 apps-staging.cyberfox.com
-cyberfox.com
 msp.cyberfox.com
 my.cyberfox.com
+*.cyberfox.com

@@ -108,7 +108,6 @@ www.lp.kiwi.ki
 www.m.kiwi.ki
 www.monitor.kiwi.ki
 www.versions.services.kiwi.ki
-kiwi.ki
 gateway.kiwi.ki
 *.new-prod.kiwi.ki
 new-prod.kiwi.ki
@@ -125,3 +124,11 @@ owa.kiwi.ki
 *.housing.new-production.kiwi.ki
 *.services.new-production.kiwi.ki
 *.lychee.kiwi.ki
+paydirt.kiwi.ki
+bastion.kiwi.ki
+kiwikivpn.kiwi.ki
+sluicebox.kiwi.ki
+mqtt.kiwi.ki
+inspector.kiwi.ki
+sm.kiwi.ki
+mein.kiwi.ki

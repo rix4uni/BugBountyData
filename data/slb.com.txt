@@ -1,4 +1,3 @@
-slb.com
 www.slb.com
 www1.slb.com
 capacom.p4d.csp.slb.com
@@ -63811,3 +63810,12 @@ bciafi-176-79.slb.com
 bciafi-24-27.slb.com
 bciafi-4-152.slb.com
 *.slb.com
+lab.woodside.dmaas.slb.com
+eesy.evd.csp.slb.com
+eesy.evt.csp.slb.com
+eesy.evq.csp.slb.com
+eesy.p4d.csp.slb.com
+eesy2.evt.csp.slb.com
+eesy3.evt.csp.slb.com
+vizeesy.p4d.csp.slb.com
+mpd-rest-api.evd.csp.slb.com

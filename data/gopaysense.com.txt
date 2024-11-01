@@ -1,7 +1,6 @@
 kibana.gopaysense.com
 web.sandbox.gopaysense.com
 assets.gopaysense.com
-gopaysense.com
 jira.gopaysense.com
 paylater.gopaysense.com
 www.gopaysense.com
@@ -27,3 +26,6 @@ img.gopaysense.com
 metabase.gopaysense.com
 telemetry.gopaysense.com
 click.gopaysense.com
+*.gopaysense.com
+*.internal.gopaysense.com
+*.sandbox.gopaysense.com

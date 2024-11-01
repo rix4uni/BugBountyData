@@ -130,7 +130,6 @@ legy-us-addr.line.naver.jp
 legy-us-long.line.naver.jp
 legy-us-short.line.naver.jp
 legy-vn-short.line.naver.jp
-line.naver.jp
 lineat-navi.line.naver.jp
 manga.line.naver.jp
 media.line.naver.jp
@@ -201,7 +200,6 @@ giu.line.naver.jp
 os-vn.line.naver.jp
 cac-dl.os.line.naver.jp
 cac-dl-hsp.profile.line.naver.jp
-poicommunity.comline.naver.jp
 obs-us.rts.line.naver.jp
 gfpk-rc.line.naver.jp
 gm2z.line.naver.jp
@@ -1192,3 +1190,6 @@ gb-beta.lineapi.line.naver.jp
 gig-beta2.line.line.naver.jp
 gd2-rc2.line.line.naver.jp
 alpha.rabbit.caric.line.naver.jp
+dev.was.line.naver.jp
+qna.line.naver.jp
+api.rts.line.naver.jp

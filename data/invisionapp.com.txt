@@ -1368,7 +1368,6 @@ e78fa0e4b889e8a792e68a80e69cafe6b299e9be993e69c88linuxefbc88e7a.invisionapp.com
 xz.invisionapp.com
 fra-m.invisionapp.com
 s3-native-app.invisionapp.com
-invisionapp.com
 integrations.invisionapp.com
 login.invisionapp.com
 assets.v7-io.invisionapp.com
@@ -1835,7 +1834,6 @@ www.invisionapp.com
 *.aetna-support.invisionapp.com
 *.ingnl.invisionapp.com
 *.ingnl-support.invisionapp.com
-devops@invisionapp.com
 *.beta-www.invisionapp.com
 *.walmart.invisionapp.com
 *.walmart-support.invisionapp.com
@@ -6880,11 +6878,6 @@ zwy23157-v6.invisionapp.com
 zwy23157-v7.invisionapp.com
 zzj10740-v6.invisionapp.com
 zzj10740-v7.invisionapp.com
-spinvisionapp.com
-www.spinvisionapp.com
-*.skinvisionapp.com
-skinvisionapp.com
-go.getinvisionapp.com
 *.homecredit-io.invisionapp.com
 *.ba-io.invisionapp.com
 *.exo-io.invisionapp.com
@@ -6892,8 +6885,6 @@ go.getinvisionapp.com
 *.credit-agricole-io.invisionapp.com
 *.secu-support-io.invisionapp.com
 *.ing-factory-io.invisionapp.com
-bitcoinvisionapp.com
-*.bitcoinvisionapp.com
 *.conv10-io.preview.invisionapp.com
 *.atb.invisionapp.com
 *.here-support-io.invisionapp.com

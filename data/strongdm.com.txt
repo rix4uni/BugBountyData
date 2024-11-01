@@ -132,7 +132,6 @@ r04.strongdm.com
 reports.us-east-2.stg.strongdm.com
 server-b6daf117-0f5e-4.api.strongdm.com
 sn-idims-ws.strongdm.com
-strongdm.com
 web-helpdeskrepository.sdmt.strongdm.com
 www-34-5.strongdm.com
 zendesk1.strongdm.com
@@ -228,3 +227,4 @@ stg.strongdm.com
 ims.strongdm.com
 app-nlb.strongdm.com
 eng-snd.strongdm.com
+sdm-proxy-dev.us-east-2.dev.strongdm.com

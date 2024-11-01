@@ -1,6 +1,4 @@
-imovirtual.com
 ajuda.imovirtual.com
-simovirtual.com
 www.imovirtual.com
 statics.imovirtual.com
 statics2.imovirtual.com
@@ -238,3 +236,7 @@ ns1.imovirtual.com
 medisonho.imovirtual.com
 remaxbraga.imovirtual.com
 imocorporate.imovirtual.com
+*.imovirtual.com
+*.stg2.imovirtual.com
+*.stg.imovirtual.com
+*.prd2.imovirtual.com

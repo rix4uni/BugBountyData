@@ -298,7 +298,6 @@ www.integration.sensata.com
 www.engineering2.corp.sensata.com
 c5403011vce001.sensata.com
 www.arcs-dev.sensata.com
-sensata.com
 c5403011ccn001.sensata.com
 www.sanpgit01.sensata.com
 www.asia-cuc.corp.sensata.com
@@ -431,3 +430,5 @@ sdzpsmtp02.ext.sensata.com
 207-179-29-1.sensata.com
 www.airpax.sensata.com
 smtp02.sensata.com
+sip.sensata.com
+autodiscover.sensata.com

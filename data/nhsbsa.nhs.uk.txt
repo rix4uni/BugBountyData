@@ -40,7 +40,6 @@ dev.api.cvd.pharmacy.mys.nhsbsa.nhs.uk
 tst.api.cvd.pharmacy.mys.nhsbsa.nhs.uk
 tst.api.scs.pharmacy.mys.nhsbsa.nhs.uk
 api.dms.pharmacy.mys.nhsbsa.nhs.uk
-nhsbsa.nhs.uk
 catalyst.services.nhsbsa.nhs.uk
 tst.dental.mys.nhsbsa.nhs.uk
 tst.ssecs.opt.mys.nhsbsa.nhs.uk
@@ -269,3 +268,12 @@ ns1.portal.nhsbsa.nhs.uk
 suppliers-connect.nhsbsa.nhs.uk
 stg.mys.nhsbsa.nhs.uk
 api.xerox.nhsbsa.nhs.uk
+dis.pensions.nhsbsa.nhs.uk
+pol-stage.services.nhsbsa.nhs.uk
+pol-prod.services.nhsbsa.nhs.uk
+www.pension.nhsbsa.nhs.uk
+stg.api.nms.pharmacy.mys.nhsbsa.nhs.uk
+wwwpensions.nhsbsa.nhs.uk
+www.injurybenefitreview.nhsbsa.nhs.uk
+ww.pensions.nhsbsa.nhs.uk
+www.injurybenefit.nhsbsa.nhs.uk

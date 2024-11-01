@@ -4,7 +4,6 @@ www.mfn.se
 storage.mfn.se
 2fstorage.mfn.se
 editor.mfn.se
-mfn.se
 grafana.mfn.se
 kibana.mfn.se
 pgweb.mfn.se
@@ -31,3 +30,16 @@ pgadmin.mfn.se
 jaeger.mfn.se
 o1.ptr6673.mfn.se
 traefik.mfn.se
+wwww.mfn.se
+_tcp.mfn.se
+mailgate.mfn.se
+mx5.mfn.se
+bnc3.mfn.se
+mail12.mfn.se
+gate.mfn.se
+postmaster.mfn.se
+authsmtp.mfn.se
+correo.mfn.se
+smtp3.mfn.se
+mxt0.mfn.se
+ww.mfn.se

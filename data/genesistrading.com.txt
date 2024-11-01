@@ -34,7 +34,6 @@ webflow.genesistrading.com
 prime.genesistrading.com
 apps.genesistrading.com
 vpn.genesistrading.com
-genesistrading.com
 link.genesistrading.com
 go.genesistrading.com
 ideas.genesistrading.com
@@ -75,3 +74,5 @@ leader1.genesistrading.com
 api.uat.genesistrading.com
 developers-dev.genesistrading.com
 options-pricing.genesistrading.com
+*.genesistrading.com
+*.dr.genesistrading.com

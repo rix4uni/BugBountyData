@@ -1,13 +1,4 @@
-inmobi.com
-zinmobi.com
-puffinmobi.com
-adsinmobi.com
-kylinmobi.com
-beginmobi.com
-iinmobi.com
-grupoinmobi.com
 support.inmobi.com
-brainmobi.com
 appgalleries.inmobi.com
 info.inmobi.com
 go.inmobi.com
@@ -15,7 +6,6 @@ video.inmobi.com
 japan.inmobi.com
 technology.inmobi.com
 publisher.inmobi.com
-78winmobi.com
 cmp.inmobi.com
 choice.inmobi.com
 developer.inmobi.com
@@ -92,7 +82,6 @@ r-in.ls.glance-internal.inmobi.com
 nonmutt.eastus.trafficmanager.inmobi.com
 beacons.glance-internal.inmobi.com
 n.de.inmobi.com
-gm2.iinmobi.com
 www.inmobi.com
 config-ltvp.inmobi.com
 pulse.inmobi.com
@@ -6344,3 +6333,4 @@ go-live.glance-internal.inmobi.com
 vangogher-prod.glance-internal.inmobi.com
 www1.inmobi.com
 nginx-staging.glance-internal.inmobi.com
+*.test-spaces.glance-internal.inmobi.com

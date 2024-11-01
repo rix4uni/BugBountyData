@@ -7,7 +7,6 @@ marketing.fireclaytile.com
 dev.fireclaytile.com
 email.fireclaytile.com
 www.legacy.fireclaytile.com
-fireclaytile.com
 webdisk.staging.fireclaytile.com
 cpanel.legacy.fireclaytile.com
 hostmaster.fireclaytile.com
@@ -64,3 +63,4 @@ cpanel.archive.fireclaytile.com
 www.3www.fireclaytile.com
 cpcontacts.fireclaytile.com
 cpcalendars.fireclaytile.com
+*.fireclaytile.com

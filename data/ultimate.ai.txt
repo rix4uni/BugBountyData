@@ -69,7 +69,6 @@ chat.test-env-10.test.internal.ultimate.ai
 db.dev.ultimate.ai
 server2.proxy.ultimate.ai
 blog.ultimate.ai
-ultimate.ai
 dixa-automation.staging.ultimate.ai
 experiments.ultimate.ai
 giosg-automation.ultimate.ai
@@ -237,3 +236,5 @@ gitops2.ultimate.ai
 cm2.ultimate.ai
 cm.ultimate.ai
 nginx-test-in.ultimate.ai
+*.dev.ultimate.ai
+*.staging.ultimate.ai

@@ -463,7 +463,6 @@ spiketrap.snooguts.net
 www.grow.snooguts.net
 ketralnis.staging.snooguts.net
 w3-reporting-csp.kubernetes.ue1.snooguts.net
-snooguts.net
 reddit-desktop-loggedout.kubernetes.ue1.snooguts.net
 devvit-dev-portal.kubernetes.ue1.snooguts.net
 cliff_chen.staging.snooguts.net
@@ -628,3 +627,7 @@ pri.dev-prod-usva-aws-6.aws.achilles.snooguts.net
 pub.devorch-prod-usva-aws-1.aws.achilles.snooguts.net
 pub.dev-prod-usva-aws-6.aws.achilles.snooguts.net
 *.pri.dev-prod-usva-aws-5.aws.achilles.snooguts.net
+*.spiketrap.snooguts.net
+pri.dev-prod-usva-aws-5.aws.achilles.snooguts.net
+reddit-desktop-bot.kubernetes.ue1.snooguts.net
+crowdstrike.autodiscover.test.ue1.snooguts.net

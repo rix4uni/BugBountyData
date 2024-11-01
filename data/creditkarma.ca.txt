@@ -43,7 +43,6 @@ beta-fg-origin.creditkarma.ca
 www-fg-origin.creditkarma.ca
 zendesk1.creditkarma.ca
 zendesk2.creditkarma.ca
-creditkarma.ca
 *.creditkarma.ca
 aggregator-test.sjc1.creditkarma.ca
 cachemsc.creditkarma.ca
@@ -53,13 +52,6 @@ pgg168.creditkarma.ca
 sdk-4-75.creditkarma.ca
 upgr-mmxviii-cl-ts.creditkarma.ca
 vsplunkdeploy01.creditkarma.ca
-*.ccreditkarma.ca
-ccreditkarma.ca
-*.ww25.ccreditkarma.ca
-*.random.ccreditkarma.ca
-ww25.secure.ccreditkarma.ca
-www.kcreditkarma.ca
-kcreditkarma.ca
 api-fg-origin.sjc1.creditkarma.ca
 hostmaster.creditkarma.ca
 _dmarc.creditkarma.ca

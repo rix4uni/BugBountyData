@@ -1,6 +1,5 @@
 ad.prd.mobilevikings.be
 cs.prd.mobilevikings.be
-prd.mobilevikings.be
 mips.prd.mobilevikings.be
 ip.prd.mobilevikings.be
 prometheus-k8s.prd.mobilevikings.be
@@ -32,7 +31,6 @@ andre.prd.mobilevikings.be
 api.prd.mobilevikings.be
 alertmanager-gen.prd.mobilevikings.be
 budskap.prd.mobilevikings.be
-besosprd.mobilevikings.be
 grafana.prd.mobilevikings.be
 goldilocks.prd.mobilevikings.be
 prenta.prd.mobilevikings.be
@@ -44,18 +42,6 @@ prometheus-gen.prd.mobilevikings.be
 st1-02-13-03-bz-dcvpn-asa3.prd.mobilevikings.be
 statsd.prd.mobilevikings.be
 tor286-gre.prd.mobilevikings.be
-temp-prd.mobilevikings.be
-service-prd.mobilevikings.be
-strapi.service-prd.mobilevikings.be
-nginx-prd.mobilevikings.be
-tgwk8s-prd.mobilevikings.be
-businessprd.mobilevikings.be
-sgw-prd.mobilevikings.be
-live-prd.mobilevikings.be
-cust-prd.mobilevikings.be
-22prd.mobilevikings.be
-adsl-7-125-k8s-prd.mobilevikings.be
-ebayregprd.mobilevikings.be
 be.prd.mobilevikings.be
 confluence.prd.mobilevikings.be
 bookmarks.prd.mobilevikings.be
@@ -72,7 +58,6 @@ com.ar.ci1.prd.mobilevikings.be
 dev2.ssl.prd.mobilevikings.be
 cert.prd.mobilevikings.be
 confluence-dev.prd.mobilevikings.be
-1prd.mobilevikings.be
 bss-acceptance.internal.prd.mobilevikings.be
 andre.dev.prd.mobilevikings.be
 design-bucket.internal.prd.mobilevikings.be
@@ -269,7 +254,6 @@ account.prd.mobilevikings.be
 000114acc-masaccaccpresentacc-masaccaccdev.prd.mobilevikings.be
 05--betaacc-accacc-stage.prd.mobilevikings.be
 7c-admin1-pi8-acc-acc-portalacc-acc-strapiuat.prd.mobilevikings.be
-7c-containeracc000713acc-accacc-prd.mobilevikings.be
 0pproductionacc-masaccaccpresentaccbeanstalkaccsit.prd.mobilevikings.be
 0pt-disabled-accaccbeanstalkacc-accacc-sit.prd.mobilevikings.be
 7c-containeracc-acc-strapi.prd.mobilevikings.be
@@ -279,12 +263,10 @@ account.prd.mobilevikings.be
 7c-0000021acc.prd.mobilevikings.be
 7c--0psigned-accaccaccpresentacc-masaccacc.prd.mobilevikings.be
 0907ds2acc-masaccacc-accacc-internal.prd.mobilevikings.be
-000687acc-masaccaccacc-accaccprd.mobilevikings.be
 7c-000-1361accaccpresentaccbeanstalkacc.prd.mobilevikings.be
 trafficacc-masaccacc-masaccacc.prd.mobilevikings.be
 2aipromoacc-masaccacc-acc-strapi-dev1.prd.mobilevikings.be
 7c-containeracc-masaccacc-test.prd.mobilevikings.be
-000n1s89acc-masaccaccpresentacc-masaccacc-prd.mobilevikings.be
 0007511acc-masaccaccpresentacc-masaccaccinternal.prd.mobilevikings.be
 7c-9c2684e34-0pt-disabled-accacc-masaccaccsit.prd.mobilevikings.be
 7c-containeracc000713acc-accacc.prd.mobilevikings.be
@@ -320,7 +302,6 @@ besosprd-pub.prd.mobilevikings.be
 7c-0032931accaccsaccacc.prd.mobilevikings.be
 00078551f5c3acc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
 01768electronica-mas-masaccacc-masaccaccdev1.prd.mobilevikings.be
-7c-9c2684e34acc-acc-acc-strapiprd.mobilevikings.be
 7c-containeraccacc-acc007299acc.prd.mobilevikings.be
 7c-0032931accacc-masaccacc-9fsge2jdacc-accacc.prd.mobilevikings.be
 7c-9c2684e34acc-acc-inuseistratorsaccacc.prd.mobilevikings.be
@@ -334,8 +315,6 @@ besosprd-pub.prd.mobilevikings.be
 7c-000000001accaccaccpresentacc-masaccacc1.prd.mobilevikings.be
 2aipromoacc-masaccacc-mas-accacc-mas.prd.mobilevikings.be
 7c-containeraccacc001-accaccsit.prd.mobilevikings.be
-000014acc-masaccacc-masaccaccprd.mobilevikings.be
-7c-9c2684e34acc-acc-acc-acc-strapiprd.mobilevikings.be
 7c-0005481acc-acc-dist-portalacc.prd.mobilevikings.be
 7c-acc1accacc1-masaccacc.prd.mobilevikings.be
 0ppay-acc-acc-accacctest.prd.mobilevikings.be
@@ -355,11 +334,9 @@ besosprd-pub.prd.mobilevikings.be
 7c-002-1841accacc-accacc.prd.mobilevikings.be
 7c-9c2684e34-accacc1.prd.mobilevikings.be
 andrea123masaccacc-masaccacc-accacc.prd.mobilevikings.be
-7c-000-1361accacc-masaccaccaccprd.mobilevikings.be
 7c-000-1361accacc-nsacc-masaccacc.prd.mobilevikings.be
 7c-admin1-pi8-acc-acc-portalaccbeanstalkaccdev1.prd.mobilevikings.be
 7c-000-8221accistratorsaccaccsit.prd.mobilevikings.be
-7c-0032931accacc-prd.mobilevikings.be
 7c-000-1361accacc000713accacc-accacc.prd.mobilevikings.be
 7c-9c2684e34accaccaccistratorsaccacc.prd.mobilevikings.be
 7c-acc1accacc1-masaccacc-sit.prd.mobilevikings.be
@@ -443,18 +420,15 @@ staging.prd.mobilevikings.be
 7c--reset1accaccacc-dist-portalacc.prd.mobilevikings.be
 7c--0ppay-accacc-acc-strapidev.prd.mobilevikings.be
 003105-masaccacc-accacc.prd.mobilevikings.be
-7c-0005481acc-accpresentacc-masaccaccprd.mobilevikings.be
 0ptpreferences-masaccaccbeanstalkacc.prd.mobilevikings.be
 7c-9c2684e34acc-acc-0-38-ftth-accacc001.prd.mobilevikings.be
 2aipromoacc-masaccacc-dist-portalacc.prd.mobilevikings.be
 001752acc-masaccacc-masaccacc.prd.mobilevikings.be
-2aibillingaccpresentacc-masaccacc-prd.mobilevikings.be
 7c-0032931accacc-acc-strapiinternal.prd.mobilevikings.be
 0ptesteraccpresentacc-masaccaccdev.prd.mobilevikings.be
 0pt-000769-mas-mas-strapiacc-masaccacc-sit.prd.mobilevikings.be
 7c--0psigned-accaccpresentaccbeanstalkacc.prd.mobilevikings.be
 7c-containeraccacc-accaccacc007299acc.prd.mobilevikings.be
-003105-masaccacc-accaccprd.mobilevikings.be
 7c-9c2684e34acc-acc-acc-acc-strapiinternal.prd.mobilevikings.be
 7c-000000001acc-accacc-dev1.prd.mobilevikings.be
 7c--reset1accaccacc-dist-portalaccstage.prd.mobilevikings.be
@@ -478,9 +452,7 @@ staging.prd.mobilevikings.be
 7c---7c--0psigned-accacc-accacc.prd.mobilevikings.be
 7c-9c2684e34-accacctest.prd.mobilevikings.be
 05-skins-accacc-dist-portalaccpresentacc-masaccacc.prd.mobilevikings.be
-0ptesteraccpresentacc-masaccacc-staging-prd.mobilevikings.be
 0ptpreferencesbeanstalkacc-masaccacc.prd.mobilevikings.be
-7c-0000021acc-portalaccistratorsaccaccprd.mobilevikings.be
 besosdev-pub.prd.mobilevikings.be
 2ai-test2-accacc.prd.mobilevikings.be
 0pt-lanacc-dist-portalacc-masaccacc-dev1.prd.mobilevikings.be
@@ -498,7 +470,6 @@ besosdev-pub.prd.mobilevikings.be
 7c-000backup31accaccacc-masaccacc-1internal.prd.mobilevikings.be
 7c-containeraccacc-masaccacc-dev.prd.mobilevikings.be
 2aipromoacc-masaccacc-acc-strapi-stage.prd.mobilevikings.be
-003client2acc-masaccaccpresentacc-masaccacc-prd.mobilevikings.be
 7c-containeracc-dist-portalacc-acc.prd.mobilevikings.be
 7c-admin1-azhaccaccaccacc007299acc.prd.mobilevikings.be
 7c-containeraccacc-acc.prd.mobilevikings.be
@@ -553,8 +524,6 @@ dev-pub.prd.mobilevikings.be
 002096accpresentacc-masaccacc-uat.prd.mobilevikings.be
 7c-002-1841accacc-strapiacc-masaccacc.prd.mobilevikings.be
 7c-containeracc-masaccacc-accacc-sit.prd.mobilevikings.be
-7c-9c2684e34acc-acc-prd.mobilevikings.be
-7c-9c2684e34acc-accsaccacc-prd.mobilevikings.be
 7c-002-1841accacc-strapiaccsaccacc.prd.mobilevikings.be
 000658acc-masaccacc-accacc.prd.mobilevikings.be
 7c--0pt-confluenceacc1accaccacc-masaccacc.prd.mobilevikings.be
@@ -569,7 +538,6 @@ moocow.prd.mobilevikings.be
 0pt-disabled-acc-accacc-accacc.prd.mobilevikings.be
 andrea123masaccacc-masaccaccsaccacc.prd.mobilevikings.be
 7c-0005481acc-accistratorsaccacc.prd.mobilevikings.be
-0ptnov-masaccacc-dist-portalaccdev1-prd.mobilevikings.be
 andrea123masaccacc-masaccacc-acc-strapi.prd.mobilevikings.be
 7c--0pt-confluenceacc1accaccacc-acc-strapi.prd.mobilevikings.be
 7c-admin1-azhaccaccaccbeanstalkacc-dev.prd.mobilevikings.be
@@ -614,7 +582,6 @@ ikwbzlx.prd.mobilevikings.be
 7c-0007321acc-accaccacc.prd.mobilevikings.be
 7c-0005481accacc-portalaccistratorsaccacc.prd.mobilevikings.be
 7c-0000021acc-portalaccsaccacc.prd.mobilevikings.be
-7c-0000021acc-portalacc-mas-accaccprd.mobilevikings.be
 7c-9c2684e34acc-acc-strapiacc-acc-strapi.prd.mobilevikings.be
 000169acc-masaccaccacc-accacc.prd.mobilevikings.be
 7c-002-1841accaccsaccacc.prd.mobilevikings.be
@@ -646,10 +613,7 @@ c.prd.mobilevikings.be
 besosacc-pub.prd.mobilevikings.be
 7c-002-1841accacc-strapiacc-mas-accacc-mas.prd.mobilevikings.be
 7c-9c2684e34acc-acc-acc-strapi-uat.prd.mobilevikings.be
-0ptpreferences-masaccaccaccaccprd.mobilevikings.be
-7c-indiyaa1accacc-strapiaccacc-accaccprd.mobilevikings.be
 001eloyaltyacc-masaccacc-accacc1.prd.mobilevikings.be
-7c-9c2684e34acc-acc-inuseprd.mobilevikings.be
 002500-masaccacc-accacc.prd.mobilevikings.be
 7c-containeracc-acc-accpresentacc-masaccacc.prd.mobilevikings.be
 7c-000-8221accacc-dist-portalacc.prd.mobilevikings.be
@@ -673,7 +637,6 @@ besosacc-pub.prd.mobilevikings.be
 7c-000backup31acc1-accacc.prd.mobilevikings.be
 7c---7c-0003801acc1acc-accacc-internal.prd.mobilevikings.be
 7c-containeracc-acc-masaccaccistratorsaccacc.prd.mobilevikings.be
-7c-admin1-mas-acc-masaccaccprd.mobilevikings.be
 andrea123masaccacc-masaccacc-accacctest.prd.mobilevikings.be
 7c--0psigned-accaccaccpresentacc-masaccacc-sit.prd.mobilevikings.be
 000829-masaccacc-accaccuat.prd.mobilevikings.be
@@ -681,7 +644,6 @@ andrea123masaccacc-masaccacc-accacctest.prd.mobilevikings.be
 7c-containeracc-dist-portalaccsaccacc.prd.mobilevikings.be
 7c-003gov1accacc-acc-accaccsit.prd.mobilevikings.be
 7c-9c2684e34-accaccpresentaccbeanstalkacc.prd.mobilevikings.be
-7c-containeracc000713accbeanstalkaccprd.mobilevikings.be
 0007511acc-masaccaccpresentacc-masaccacc1.prd.mobilevikings.be
 000014acc-masaccacc-masaccacc.prd.mobilevikings.be
 7c-0003781accacc-dist-portalacc007299acc.prd.mobilevikings.be
@@ -696,7 +658,6 @@ andrea123masaccacc-masaccacc-masaccacc.prd.mobilevikings.be
 0pt-gateway-accacc-portalaccpresentacc-masaccacc.prd.mobilevikings.be
 0ptkoreaaccacc-accaccdev1.prd.mobilevikings.be
 7c-vimasaccacc-masaccaccacc-stage.prd.mobilevikings.be
-andrea123masaccacc-masaccacc-masaccaccprd.mobilevikings.be
 7c--0psigned-accaccistratorsaccacc.prd.mobilevikings.be
 05--stage4accacc-accacc.prd.mobilevikings.be
 besosprd.prd.mobilevikings.be
@@ -718,7 +679,6 @@ andrea123masaccacc-masaccacc-mas-accacc.prd.mobilevikings.be
 7c-0005481acc-acc.prd.mobilevikings.be
 7c--reset1accaccistratorsaccacc-stage.prd.mobilevikings.be
 7c-003gov1accacc-accpresentacc-masaccaccuat.prd.mobilevikings.be
-7c-containeraccacc-003client2-acc-strapiprd.mobilevikings.be
 7cdev7acc-accacc-dist-portalacc-masaccaccdev.prd.mobilevikings.be
 7c--0psigned-accacc713acc-masaccacc-dev.prd.mobilevikings.be
 7c-admin1-mas-acc-masaccaccstage.prd.mobilevikings.be
@@ -741,15 +701,12 @@ besosuwa.prd.mobilevikings.be
 trafficacc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
 7c-0000021acc-portalacc-mas-accaccsit.prd.mobilevikings.be
 7c--0psigned-accacc-0-38-ftth-accacc001.prd.mobilevikings.be
-05--beta-acc-accacc-dev-prd.mobilevikings.be
 7c-containeracc-acc-strapi-dev.prd.mobilevikings.be
 0ptnovacc-masaccaccaccinternal.prd.mobilevikings.be
 7c-0022401acc--0ptweb5acc-accacc.prd.mobilevikings.be
 7c-002-1841accacc-gjpresentacc-masaccacc.prd.mobilevikings.be
 7c-0-y-vikinginspace1accacc-accacc-1.prd.mobilevikings.be
-7c-0000021acc-masaccaccprd.mobilevikings.be
 7c-containeraccacc-003client2saccacc.prd.mobilevikings.be
-00007774wedoacc-masaccaccpresentacc-masaccaccprd.mobilevikings.be
 000031-001htmlacc-masaccaccacc-accacctest.prd.mobilevikings.be
 2aibillingacc-accacc.prd.mobilevikings.be
 7c-000-1361accacc-accbeanstalkacc-dev.prd.mobilevikings.be
@@ -764,14 +721,12 @@ andrea123masaccacc-masaccaccbeanstalkacc.prd.mobilevikings.be
 beyonce.prd.mobilevikings.be
 7c-9c2684e34acc--05-marchaccacc-acc-strapi-dev.prd.mobilevikings.be
 7c-9c2684e34acc-acc-accaccacc.prd.mobilevikings.be
-7c-9c2684e34accaccaccpresentaccbeanstalkacc-prd.mobilevikings.be
 7c-000-1361accacc-masaccaccacc.prd.mobilevikings.be
 001172-acc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
 2aipromoacc-masaccacc-acc-strapidev1.prd.mobilevikings.be
 0pt-disabled-acc-accacc-accaccsit.prd.mobilevikings.be
 arthur.prd.mobilevikings.be
 7c-0000021acc-portalaccaccacc007299acc-internal.prd.mobilevikings.be
-7c-0-y-vikinginspace1accacc-accaccprd.mobilevikings.be
 7c-002-1841accacc.prd.mobilevikings.be
 0psigned-mas-masmas-strapiaccpresentacc-masaccacc.prd.mobilevikings.be
 7c-9c2684e34accacc-masaccacctest.prd.mobilevikings.be
@@ -780,9 +735,7 @@ arthur.prd.mobilevikings.be
 7c-002-1-d1acc0007299acc-accacc.prd.mobilevikings.be
 7c-0022401acc--0ptweb5acc-masaccacctest.prd.mobilevikings.be
 7c-000-8221accsaccaccinternal.prd.mobilevikings.be
-7c-9c2684e34acc-acc-strapiaccacc-prd.mobilevikings.be
 7c-002-1841accaccacc.prd.mobilevikings.be
-7c-0-y-vikinginspace1acc-accaccprd.mobilevikings.be
 003204-acc-masaccaccacc-accacc.prd.mobilevikings.be
 7c-undefined1accaccpresentacc-masaccacc.prd.mobilevikings.be
 7c-acc1acc-dist-portalaccaccsit.prd.mobilevikings.be
@@ -791,7 +744,6 @@ arthur.prd.mobilevikings.be
 001215acc-masaccaccpresentacc-masaccacc-sit.prd.mobilevikings.be
 7c-002-1841accacc-acc-strapi.prd.mobilevikings.be
 05--beta-acc-accacc-dev-internal.prd.mobilevikings.be
-7c-002-1-d1acc0007299accpresentacc-masaccaccprd.mobilevikings.be
 7c-containeracc-masaccacc-masaccacc.prd.mobilevikings.be
 7c--0ppay-accaccbeanstalkaccstage.prd.mobilevikings.be
 0ptpreferences-masaccacc-masaccacc.prd.mobilevikings.be
@@ -807,7 +759,6 @@ arthur.prd.mobilevikings.be
 000169acc-masaccacc-masaccacc.prd.mobilevikings.be
 7c-000-1361accaccistratorsaccaccinternal.prd.mobilevikings.be
 7c-002-1841accaccacc-9fsge2jdacc-accacc.prd.mobilevikings.be
-7c-0032931accacc-acc-strapiprd.mobilevikings.be
 7c--0ppay-accacc65accacc-accaccstaging.prd.mobilevikings.be
 0ptnov-masaccaccbeanstalkacc.prd.mobilevikings.be
 7c-admin1-pi8-acc-acc-portalacc.prd.mobilevikings.be
@@ -851,7 +802,6 @@ gitlabpresentacc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
 0ptnovacc-masaccaccacc-sit.prd.mobilevikings.be
 andrea123masaccacc-masaccaccistratorsaccacc.prd.mobilevikings.be
 0ptkoreaaccacc-accacc.prd.mobilevikings.be
-7c--05--stage4-accaccacc-masaccacc-prd.mobilevikings.be
 7c-000-8221accaccpresentacc-masaccacc.prd.mobilevikings.be
 7c-0000021acc-portalacc-accacc.prd.mobilevikings.be
 7c-001london1acc-acc007299acc-accacc.prd.mobilevikings.be
@@ -865,14 +815,11 @@ andrea123masaccacc-masaccaccistratorsaccacc.prd.mobilevikings.be
 7c-000-8221acc-masaccacc-sentryacc.prd.mobilevikings.be
 7c-001respiratory1accpresentacc-masaccacctest.prd.mobilevikings.be
 7c-admin1-pi8-acc-acc-portalacc-acc-strapi.prd.mobilevikings.be
-001752acc-masaccacc-masaccacc-prd.mobilevikings.be
 7c-containeraccacc-acc-sentryacc.prd.mobilevikings.be
 7c-undefined1accaccpresentacc-masaccacctest.prd.mobilevikings.be
 7c-000-1361accacc-masaccacc-mas-accacc-mas.prd.mobilevikings.be
-000686acc-masaccacc-accaccinternalprd.mobilevikings.be
 7c-9c2684e34acc-acctest.prd.mobilevikings.be
 7c-containeraccaccaccacc-dev1.prd.mobilevikings.be
-0ptnovacc-masaccaccaccprd.mobilevikings.be
 7c-9c2684e34acc-acc-inuse-acc-strapitest.prd.mobilevikings.be
 7c-containeracc-dist-portalaccaccdev.prd.mobilevikings.be
 7c-indiyaa1accacc-strapiaccacc-accaccdev.prd.mobilevikings.be
@@ -905,7 +852,6 @@ andrea123masaccacc-strapiacc-accacc.prd.mobilevikings.be
 7c-9c2684e34-accacc-accacc-stage.prd.mobilevikings.be
 7c-0005481acc-acc-mas-accacc-staging.prd.mobilevikings.be
 7c-000-1361accaccacc-dist-portalacc.prd.mobilevikings.be
-0ptnov-masaccacc-dist-portalaccprd.mobilevikings.be
 7c-9c2684e34-accaccaccacctest.prd.mobilevikings.be
 7c--0pt-confluenceacc1accaccaccistratorsaccacc.prd.mobilevikings.be
 7c-002-1841accacc-strapiaccpresentaccbeanstalkacc.prd.mobilevikings.be
@@ -923,7 +869,6 @@ math.prd.mobilevikings.be
 7c-0032931accacc-masaccaccbeanstalkacc.prd.mobilevikings.be
 7c-002-1841accaccbeanstalkacc.prd.mobilevikings.be
 7c-000-8221acc-masaccacc-9fsge2jdacc-accacc.prd.mobilevikings.be
-7c-containeraccacc001saccaccprd.mobilevikings.be
 7c-000-1361accacc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
 7c--reset1accacc-dist-portalacc.prd.mobilevikings.be
 00193851accacc-masaccacc-accacctest.prd.mobilevikings.be
@@ -934,7 +879,6 @@ math.prd.mobilevikings.be
 7c--reset1accaccaccuat.prd.mobilevikings.be
 7c-000-1361accacc-sentryacc.prd.mobilevikings.be
 7c-0003781accacc-dist-portalaccsaccaccuat.prd.mobilevikings.be
-7c-000backup31accaccacc-masaccacc-prd.mobilevikings.be
 7c-0032931accacc-masaccacc-acc-strapisittest.prd.mobilevikings.be
 000114acc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
 7c-containeraccacc001istratorsaccacc.prd.mobilevikings.be
@@ -952,20 +896,17 @@ math.prd.mobilevikings.be
 7c-containeraccacc-acc-strapi1.prd.mobilevikings.be
 0907ds2acc-masaccacc-accacc-uat.prd.mobilevikings.be
 0ptnovacc-masaccacc-mas-accacc-mas.prd.mobilevikings.be
-7c-0022401acc-masacc-accacc-prd.mobilevikings.be
 7c-000backup31acc02-1a-dacc-masaccacc-dev1.prd.mobilevikings.be
 7c--0ppay-accacc-acc-strapi.prd.mobilevikings.be
 7c-containeracc-dist-portalaccaccaccinternal.prd.mobilevikings.be
 7c-0003781accacc-masaccacc.prd.mobilevikings.be
 7c-admin1-mas-accacc-masaccacc-stage.prd.mobilevikings.be
-7c-000-1361accacc-masaccaccacc-prd.mobilevikings.be
 7c-containeraccacc-16sifsazk2m-acc.prd.mobilevikings.be
 7c---7c--0psigned-accacc-accacc-staging.prd.mobilevikings.be
 7c-001london1accacc-00112200acc-accacc.prd.mobilevikings.be
 7c-9c2684e34acc-acc-strapiacc-9fsge2jdacc-accacc.prd.mobilevikings.be
 001129-masaccaccacc-accaccstaging1.prd.mobilevikings.be
 7c--0ppay-accacc65accacc-accaccdev-sit.prd.mobilevikings.be
-05-europewestacc-strapiaccacc-accaccprd.mobilevikings.be
 7c-acc1acc-dist-portalaccsaccacc.prd.mobilevikings.be
 7c-000000001acc-accacc.prd.mobilevikings.be
 7c--0pt-confluenceacc1accaccaccdev1.prd.mobilevikings.be
@@ -978,7 +919,6 @@ rachel.prd.mobilevikings.be
 7c-001london1accacc-00112200acc-masaccacctest.prd.mobilevikings.be
 7c-containeracc-acc-masaccacc-sentryacc.prd.mobilevikings.be
 7c-000-1361accacc-16sifsazk2m-acc.prd.mobilevikings.be
-7c-acc1accacc0001presentacc-masaccaccprd.mobilevikings.be
 7c-admin1-mas-accacc-mas-accacc-mas.prd.mobilevikings.be
 7c-containeraccacc-acc-acc-strapistage.prd.mobilevikings.be
 7c-002-1841accaccacc-masaccacc.prd.mobilevikings.be
@@ -1041,7 +981,6 @@ andrea123masaccacc-masaccacc.prd.mobilevikings.be
 7c-9c2684e34acc--05-marchaccacc-masaccacc.prd.mobilevikings.be
 7c-000-1361accaccistratorsaccaccstaging.prd.mobilevikings.be
 000686acc-masaccacc-accaccinternal.prd.mobilevikings.be
-7c-containeraccaccacc-prd.mobilevikings.be
 7c-containeracc000713accinternal.prd.mobilevikings.be
 003027acc-masaccaccpresentacc-masaccacc-dev1-stage.prd.mobilevikings.be
 7c-admin1-acc-k8sacc-accacc1.prd.mobilevikings.be
@@ -1075,7 +1014,6 @@ andrea123masaccacc-masaccacc.prd.mobilevikings.be
 00193851accacc-masaccaccacc-accacc.prd.mobilevikings.be
 7c-0000021acc007299acc.prd.mobilevikings.be
 7c-containeraccaccacc-accacc.prd.mobilevikings.be
-7c-0022401acc--0ptweb5acc-masaccaccprd.mobilevikings.be
 7c-0032931accacc-masaccacc-dev.prd.mobilevikings.be
 7c-0007321acc-acc-mas-accacc-mas.prd.mobilevikings.be
 001114acc-masaccaccpresentacc-masaccaccinternal.prd.mobilevikings.be
@@ -1086,16 +1024,13 @@ andrea123masaccacc-masaccacc.prd.mobilevikings.be
 7c-001respiratory1acc-mas-masaccaccsit.prd.mobilevikings.be
 7c-containeracc-masaccacc-masaccacc-uat.prd.mobilevikings.be
 7c-containeraccaccaccaccacc-accacc.prd.mobilevikings.be
-7c-admin1-azhaccaccaccbeanstalkacc-prd.mobilevikings.be
 7c-acc1accacc-inuse-accacc.prd.mobilevikings.be
-7c-admin1-pi8-acc-acc-portalacc-masaccacc-prd.mobilevikings.be
 05--beta-acc-accacc-dev.prd.mobilevikings.be
 7c-container-acc-accaccacc-masaccaccdev.prd.mobilevikings.be
 7c-vimasaccacc-masaccacc-mas-accacc-mas.prd.mobilevikings.be
 01626-mas---newlaptop-accacc-accacc.prd.mobilevikings.be
 7c-containeraccacc-masaccaccdev1stage.prd.mobilevikings.be
 7c-9c2684e34acc--05-marchaccacc-acc.prd.mobilevikings.be
-7c-container-acc-accaccpresentacc-masaccaccprd.mobilevikings.be
 7c-acc1acc-dist-portalaccacc-internal.prd.mobilevikings.be
 0ptnovacc-masaccaccpresentaccbeanstalkacc.prd.mobilevikings.be
 7c-0pproduction9fsge2jdacc1acc-accaccuat.prd.mobilevikings.be
@@ -1139,7 +1074,6 @@ prof.prd.mobilevikings.be
 0ptazuregatewaypresentacc-masaccacctest.prd.mobilevikings.be
 7c-0000021acc-16sifsazk2m-acc.prd.mobilevikings.be
 0004531accacc-masaccacc-accacctest.prd.mobilevikings.be
-2aibillingaccpresentacc-masaccaccprd.mobilevikings.be
 7c-000-8221acc-mas-accacc-mas.prd.mobilevikings.be
 7c-9c2684e34acc-acc-inuse-acc-strapi.prd.mobilevikings.be
 7c-containeracc.prd.mobilevikings.be
@@ -1168,7 +1102,6 @@ besosmas.prd.mobilevikings.be
 7c-9c2684e34acc-acc-inuse-masaccacc.prd.mobilevikings.be
 1504ds2acc-masaccaccacc-accacc.prd.mobilevikings.be
 7c-9c2684e34acc-acc-acc.prd.mobilevikings.be
-0ptpassacc-masaccaccprd.mobilevikings.be
 7c-containeraccacc001acc-accacctest.prd.mobilevikings.be
 000031-001htmlacc-masaccaccacc-accacc.prd.mobilevikings.be
 7c-admin1-mas-accacc-masaccacc.prd.mobilevikings.be
@@ -1233,7 +1166,6 @@ andrea123masaccacc-masaccacc007299acc.prd.mobilevikings.be
 7c-000-8221acc-masaccacc.prd.mobilevikings.be
 7c-admin1-azhaccaccacc.prd.mobilevikings.be
 7c-containeraccacc001-devsit.prd.mobilevikings.be
-7c-9c2684e34accacc-masaccaccprd.mobilevikings.be
 7c-9c2684e34acc-acc-acc-strapi-staging.prd.mobilevikings.be
 10cdev10accpresentacc-masaccacc.prd.mobilevikings.be
 danny.prd.mobilevikings.be
@@ -1261,7 +1193,6 @@ danny.prd.mobilevikings.be
 7c-0005481accacc-portalacc-acc-strapi.prd.mobilevikings.be
 7c-000-1361accacc-gjpresentacc-masaccacc-dev1.prd.mobilevikings.be
 7c-0000021accpresentacc-masaccacc.prd.mobilevikings.be
-00078551f5c3acc-masaccaccpresentacc-masaccacc-prd.mobilevikings.be
 7c-admin1-pi8-acc-acc-portalaccsaccacc.prd.mobilevikings.be
 7c-9c2684e34-accacc.prd.mobilevikings.be
 7c-000-8221acc-masaccaccaccacc007299acc.prd.mobilevikings.be
@@ -1271,7 +1202,6 @@ danny.prd.mobilevikings.be
 7c-acc1acc-dist-portalaccbeanstalkacc-staging.prd.mobilevikings.be
 0ptnov-masaccacc-mas-accacc.prd.mobilevikings.be
 7c-000-8221accistratorsaccacc.prd.mobilevikings.be
-003204-acc-masaccacc-masaccacc-prd.mobilevikings.be
 7c--0ppay-accacc-staging.prd.mobilevikings.be
 001114acc-masaccaccpresentacc-masaccacc-1.prd.mobilevikings.be
 7c-0005481acc-accbeanstalkaccsit.prd.mobilevikings.be
@@ -1291,7 +1221,6 @@ danny.prd.mobilevikings.be
 7c--05--stage4-accacc-acc-accacc-1.prd.mobilevikings.be
 7c-0007321acc-accistratorsaccacc.prd.mobilevikings.be
 bergman.prd.mobilevikings.be
-7c-0003781accaccaccpresentacc-masaccaccprd.mobilevikings.be
 7c-admin1-acc-accacc-masacc-accacc.prd.mobilevikings.be
 trafficacc-masaccacc-accacc.prd.mobilevikings.be
 7c-0007321acc-acc-nsaccacc-accacc.prd.mobilevikings.be
@@ -1335,7 +1264,6 @@ bluesky.prd.mobilevikings.be
 7c-containeraccacc-dist-portalacctest.prd.mobilevikings.be
 003171-accaccacc-accacc.prd.mobilevikings.be
 7c-9c2684e34acc-acc-strapiacc-masaccaccinternal.prd.mobilevikings.be
-7c-acc1acc-dist-portalaccistratorsaccacc-prd.mobilevikings.be
 0ptpreferences-masaccacc.prd.mobilevikings.be
 7c-0000021accacc-accacc.prd.mobilevikings.be
 7c-0007321acc-accbeanstalkacc.prd.mobilevikings.be
@@ -1348,7 +1276,6 @@ arhus.prd.mobilevikings.be
 andrea123masaccacc-masaccacc-mas-accacc-mas.prd.mobilevikings.be
 0907ds2acc-masaccacc-accacc-staging.prd.mobilevikings.be
 7c-0000021acc-portalaccaccacc.prd.mobilevikings.be
-7c-000-1361accacc-masaccacc-acc-strapiprd.mobilevikings.be
 0ptnov-masaccacc-dist-portalacc-staging.prd.mobilevikings.be
 francois.prd.mobilevikings.be
 7c-9c2684e34accacc-masaccaccstage.prd.mobilevikings.be
@@ -1360,7 +1287,6 @@ francois.prd.mobilevikings.be
 7c-containeraccacc-acc0042-strapiacc.prd.mobilevikings.be
 7c-0005481accacc-portalacc-0-38-ftth-accacc001.prd.mobilevikings.be
 7c-9c2684e34-accaccpresentaccbeanstalkacc-stage.prd.mobilevikings.be
-0pt-bluishmasaccacc-accacc-prd.mobilevikings.be
 7c-containeraccacc-acc-mas-accacc.prd.mobilevikings.be
 7c-003gov1accaccaccacc-accacc.prd.mobilevikings.be
 7c-0pproduction9fsge2jdacc1accacc-accacc-dev.prd.mobilevikings.be
@@ -1377,9 +1303,7 @@ andrea123masaccacc-masaccacc-masaccacc-stage.prd.mobilevikings.be
 7c-0005481acc-acc-acc-strapi.prd.mobilevikings.be
 7c--0pt-confluenceacc1accaccacc-acc.prd.mobilevikings.be
 7c-vimasaccacc-masaccaccacc.prd.mobilevikings.be
-0004531accacc-masaccacc-accaccprd.mobilevikings.be
 7c-containeraccaccinternal.prd.mobilevikings.be
-002-masaccaccpresentacc-masaccaccdev1prd.mobilevikings.be
 7c-0032931accacc-masaccacc-acc-strapi.prd.mobilevikings.be
 7c-9c2684e34-accacc-accacc.prd.mobilevikings.be
 00136086056c-masaccacc-masaccacc.prd.mobilevikings.be
@@ -1389,14 +1313,12 @@ andrea123masaccacc-masaccacc-masaccacc-stage.prd.mobilevikings.be
 000031002167acc-masaccaccacc-accacc-uat.prd.mobilevikings.be
 7c-9c2684e34-accacc-accaccsit.prd.mobilevikings.be
 7c-0000cardssto1accacc0001-masaccacc.prd.mobilevikings.be
-003client2acc-masaccaccpresentacc-masaccaccprd.mobilevikings.be
 7c-admin1-azhaccacc7299accacc-accacctest.prd.mobilevikings.be
 7c-0000021acc-portalaccistratorsaccacc.prd.mobilevikings.be
 001114acc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
 0ptnovaccaccacc-dist-portalacc.prd.mobilevikings.be
 7c-9c2684e34acc-acc-masaccaccdev.prd.mobilevikings.be
 7c-9c2684e34-accaccdev1.prd.mobilevikings.be
-7c-0005481acc-accbeanstalkaccprd.mobilevikings.be
 7c-0005481acc-acc-9fsge2jdacc-accacc.prd.mobilevikings.be
 7c-000-8221acc007299acc.prd.mobilevikings.be
 7c-0-y-vikinginspace1accacc-accacctest.prd.mobilevikings.be
@@ -1410,7 +1332,6 @@ andrea123masaccacc-masaccacc-masaccacc-stage.prd.mobilevikings.be
 2aipromoaccaccacc-accacc.prd.mobilevikings.be
 7c-0007321acc-acc-masaccacc.prd.mobilevikings.be
 7c-9c2684e34acc-accacc-accacc-uat.prd.mobilevikings.be
-trafficacc-masaccaccpresentacc-masaccacc-prd.mobilevikings.be
 7c-admin1-azhaccaccacc-acc-strapi.prd.mobilevikings.be
 7c-vimasaccacc-masaccacc-sentryacc.prd.mobilevikings.be
 7c-000-8221acc-masaccacc-acc.prd.mobilevikings.be
@@ -1433,7 +1354,6 @@ besosacc.prd.mobilevikings.be
 7c-container-acc-accaccacc-masaccacc.prd.mobilevikings.be
 0ptpreferences-masaccacc-sit.prd.mobilevikings.be
 7c-001london1acc-acc001presentacc-masaccaccsit.prd.mobilevikings.be
-7c--0pt-confluenceacc1accaccaccprd.mobilevikings.be
 7c-0005481acc-acc-acc-masaccaccuat.prd.mobilevikings.be
 7c--0psigned-accaccsaccacc.prd.mobilevikings.be
 00-aaa-acc-masaccacc-accacc.prd.mobilevikings.be
@@ -1455,12 +1375,9 @@ godzilla.prd.mobilevikings.be
 7c-0003781accaccpresentacc-masaccacc.prd.mobilevikings.be
 7c-containeracc-dist-portalaccacc1.prd.mobilevikings.be
 thecoon.prd.mobilevikings.be
-000169acc-masaccacc-masaccacc-prd.mobilevikings.be
-7c--0psigned-accaccpresentaccbeanstalkaccprd.mobilevikings.be
 7c-002-1-d1acc0007299acc-accaccstaging.prd.mobilevikings.be
 7c-0007321acc-acc-acc-strapi-dev1.prd.mobilevikings.be
 0ppayaccacc-dist-portalaccpresentaccbeanstalkacc.prd.mobilevikings.be
-0pproductionacc-masaccacc-acc-strapiuatprd.mobilevikings.be
 7c-002-1841accaccistratorsaccacc.prd.mobilevikings.be
 7c-containeraccacc001.prd.mobilevikings.be
 0pt-bluishmasaccacc-accacc-stage.prd.mobilevikings.be
@@ -1472,7 +1389,6 @@ thecoon.prd.mobilevikings.be
 7c-9c2684e34-0pt-disabled-accaccacc-accacc.prd.mobilevikings.be
 0pproductionacc-masaccacc-acc-strapi.prd.mobilevikings.be
 7c-0007321acc-accacc-dist-portalacctest.prd.mobilevikings.be
-7c-acc1acc-dist-portalaccistratorsaccaccprd.mobilevikings.be
 00193851accacc-masaccacc-accaccuat.prd.mobilevikings.be
 7c-containeraccacc-acc-acc-strapi.prd.mobilevikings.be
 2809ds1acc-masaccacc-accacc.prd.mobilevikings.be
@@ -1519,7 +1435,6 @@ prd-pub.prd.mobilevikings.be
 7c-0000021acc-portalaccaccacc007299acc.prd.mobilevikings.be
 001129-masaccaccacc-accaccstagingdev1.prd.mobilevikings.be
 000658acc-masaccaccpresentacc-masaccacc.prd.mobilevikings.be
-001172-acc-masaccaccpresentacc-masaccaccprd.mobilevikings.be
 7c-001london1acc-acc007299acc-accacc-dev.prd.mobilevikings.be
 7c-acc1accacc8acc-accacctest.prd.mobilevikings.be
 2aiproductionsacc-portalaccacc-accaccsit.prd.mobilevikings.be
@@ -1534,7 +1449,6 @@ prd-pub.prd.mobilevikings.be
 0ptnovpresentacc-masaccacc-test.prd.mobilevikings.be
 0007511acc-masaccacc-accacc.prd.mobilevikings.be
 01626-mas---newlaptop-accacc-accacctest.prd.mobilevikings.be
-7c--reset1accaccacc-accaccprd.mobilevikings.be
 7c-0032931accacc-masaccacc-acc-strapisit.prd.mobilevikings.be
 7c--05--stage4-accacc-acc-accacc.prd.mobilevikings.be
 7c-002-1841accacc-strapiaccbeanstalkacc.prd.mobilevikings.be
@@ -1563,7 +1477,6 @@ prd-pub.prd.mobilevikings.be
 7c-containeraccacc-003client2.prd.mobilevikings.be
 0ptnovacc-masaccacc007299acc.prd.mobilevikings.be
 001752acc-masaccacc-accaccdev1.prd.mobilevikings.be
-7c-000000001acc-accacc-dev1prd.mobilevikings.be
 000cust21acc-masaccacc-accacctest.prd.mobilevikings.be
 000829-masaccaccacc-accaccsit.prd.mobilevikings.be
 7c-containeracc-acc-masaccaccsit-dev.prd.mobilevikings.be
@@ -1593,13 +1506,11 @@ prd-pub.prd.mobilevikings.be
 7c-0005481acc-acc-acc-masaccaccstage.prd.mobilevikings.be
 7c-0007321acc-accistratorsaccaccstage.prd.mobilevikings.be
 7c-0021331accacc-acc-accacc.prd.mobilevikings.be
-7c-003gov1accaccaccacc-accaccprd.mobilevikings.be
 0ptnovpresentacc-masaccacc.prd.mobilevikings.be
 7c-containeracc-dist-portalaccistratorsaccacc1.prd.mobilevikings.be
 7c-admin1-accacc-masaccacc.prd.mobilevikings.be
 7c--0ppay-accacc.prd.mobilevikings.be
 7c-9c2684e34acc-acc-masaccacc.prd.mobilevikings.be
-7c--reset1accacc--0pt-accacc-acc-prd.mobilevikings.be
 7c--0pt-confluenceacc1accaccacc-accacc-stage.prd.mobilevikings.be
 0ptnovaccacc-16sifsazk2m-acc.prd.mobilevikings.be
 7c-0032931accacc-accacc-accacc.prd.mobilevikings.be
@@ -1608,10 +1519,8 @@ prd-pub.prd.mobilevikings.be
 7c-admin1-azhaccacc7299accacc-accacc.prd.mobilevikings.be
 7c-admin1-mas-accaccaccacc.prd.mobilevikings.be
 7c-entorno1accacc-accacc.prd.mobilevikings.be
-2aipromoacc-dist-portalacc-masaccacc-prd.mobilevikings.be
 7c-000-8221acc.prd.mobilevikings.be
 7c-000000001acc-accaccinternal.prd.mobilevikings.be
-7cdev7accaccaccpresentacc-masaccacc-prd.mobilevikings.be
 002213acc-masaccaccacc-accacc.prd.mobilevikings.be
 7c-0000021acc-acc-strapistaging.prd.mobilevikings.be
 0004531accacc-masaccacc-accacc-sit.prd.mobilevikings.be

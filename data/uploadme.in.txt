@@ -16,7 +16,6 @@ webmail.my.uploadme.in
 admin.uploadme.in
 ftp.uploadme.in
 kodoffice.uploadme.in
-uploadme.in
 cwp.uploadme.in
 compilo.uploadme.in
 www.uploadme.in
@@ -25,3 +24,4 @@ emby.uploadme.in
 backup.uploadme.in
 www.my.uploadme.in
 xxx.uploadme.in
+*.uploadme.in

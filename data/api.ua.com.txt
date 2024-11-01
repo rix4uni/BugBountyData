@@ -1,12 +1,9 @@
 *.api.ua.com
-api.ua.com
 consent.api.ua.com
 dataseries.api.ua.com
-devices-api.ua.com
 fitness-session-mfp.api.ua.com
 identity.api.ua.com
 inbox.api.ua.com
-integ-api.ua.com
 integ-challenges.api.ua.com
 integ-configuration.api.ua.com
 integ-consent.api.ua.com
@@ -39,8 +36,6 @@ integ-mapmyfitness.api.ua.com
 integ-mapmyrun.api.ua.com
 integ-mobile-config.api.ua.com
 integ-identity.api.ua.com
-wearecapicua.com
-kapikua.com
 premium.api.ua.com
 mapmyrun.api.ua.com
 media2.api.ua.com

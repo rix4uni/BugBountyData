@@ -1315,13 +1315,6 @@ www.smallbusiness.data.gov
 www.smartdisclosure.data.gov
 www.states.data.gov
 www.weather.data.gov
-_dmarc.healthdata.gov
-beta.healthdata.gov
-ddod.healthdata.gov
-hub.healthdata.gov
-legacy.healthdata.gov
-www.healthdata.gov
-www.legacy.healthdata.gov
 3bf139c2-1656-4685-9c63-0912b7dde606.ssb-staging.data.gov
 ci11889757508451alongsuffixtoensurewearegenerat.ssb-dev.data.gov
 solr-1a9a988d7f904.ssb-dev.data.gov
@@ -1332,7 +1325,6 @@ test-cloud-gov-indirect-value.api.data.gov
 api-eia-gov.domains.api.data.gov
 api-ods-od-nih-gov.domains.api.data.gov
 ref.data.gov
-data.gov
 api-nal-usda-gov.domains.api.data.gov
 api-fdic-gov.domains.api.data.gov
 _dmarc.data.gov
@@ -1382,13 +1374,6 @@ governance.data.gov
 standards.data.gov
 location.data.gov
 www.linked.data.gov
-healthdata.gov
-nmjusticedata.gov
-adata.gov
-geodata.gov
-mojavedata.gov
-gos2.geodata.gov
-lostmydata.gov
 medicare.data.gov
 london.data.gov
 www.planning.data.gov

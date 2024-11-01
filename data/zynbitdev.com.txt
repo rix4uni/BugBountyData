@@ -10,7 +10,6 @@ crmapi-test.zynbitdev.com
 socket-test.zynbitdev.com
 app-staging.zynbitdev.com
 dashboard-test.zynbitdev.com
-zynbitdev.com
 *.zynbitdev.com
 api-test-staging.zynbitdev.com
 crmapi-test-staging.zynbitdev.com

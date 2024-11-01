@@ -60,7 +60,6 @@ api.mantle-test.vertexprotocol.com
 blast-prod.vertexprotocol.com
 blast-test.vertexprotocol.com
 sepolia-test.vertexprotocol.com
-vertexprotocol.com
 gateway.prod.vertexprotocol.com
 archive.prod.vertexprotocol.com
 testnet.vertexprotocol.com
@@ -118,3 +117,4 @@ trigger.sei-prod.vertexprotocol.com
 sequencer.base-test.vertexprotocol.com
 sequencer.base-prod.vertexprotocol.com
 archive.sei-prod.vertexprotocol.com
+signing-1.base-test.vertexprotocol.com

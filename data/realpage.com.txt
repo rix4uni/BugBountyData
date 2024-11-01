@@ -2179,7 +2179,6 @@ eaas-ui-qa.realpage.com
 2935328.onlineleasing.realpage.com
 ebcdev.realpage.com
 8171408.onlineleasing.realpage.com
-realpage.com
 2936531.onlineleasing.realpage.com
 8190995.onlineleasing.realpage.com
 ver221412unit.onesite.realpage.com
@@ -7422,3 +7421,5 @@ z2.unit.realpage.com
 alliancemanagementinc.crossfiremedia.realpage.com
 vpn.realpage.com
 wynnestone.crossfiremedia.realpage.com
+*.sat-cws.realpage.com
+*.ppd-cws.realpage.com

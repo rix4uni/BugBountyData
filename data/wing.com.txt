@@ -1,9 +1,5 @@
-dev.trufflegrowing.com
-trufflegrowing.com
-www.trufflegrowing.com
 remoteid.opensky.wing.com
 game-dev.wing.com
-tech.glowing.com
 fwasiaceh.europe.wing.com
 sandbox.myorder.wing.com
 auth.partner.wing.com
@@ -25,7 +21,6 @@ nahum0.wing.com
 developers.wing.com
 api.wing.com
 loader.wing.com
-wing.com
 hostmaster.hostmaster.hostmaster.hostmaster.wing.com
 sandbox.delivery.wing.com
 staging.marketplace.wing.com
@@ -89,3 +84,8 @@ myorder.wing.com
 opensky-staging.wing.com
 huang53799199.pp.wing.com
 itc.wing.com
+*.myorder.wing.com
+*.delivery.wing.com
+*.oversight.opensky.wing.com
+*.partner.wing.com
+*.pro.opensky.wing.com

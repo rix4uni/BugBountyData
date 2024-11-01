@@ -1,6 +1,3 @@
-magiceden.io
-apps--magiceden.io
-www-magiceden.io
 help.magiceden.io
 blog.magiceden.io
 contenthub.magiceden.io
@@ -78,3 +75,5 @@ rpc-nlb.infra.magiceden.io
 solana.be.magiceden.io
 vip.magiceden.io
 checkout.magiceden.io
+erc721m-cosign-server.magiceden.io
+*.magiceden.io

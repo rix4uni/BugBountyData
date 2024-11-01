@@ -156,7 +156,6 @@ jenkins.luna-dev.scopely.com
 o12.wwechampions.scopely.com
 payment-gateway.prod.payments.playgami.scopely.com
 poc.dev.playgami.scopely.com
-scopely.com
 scs.ops.dev.playgami.scopely.com
 scs.ops.prod.playgami.scopely.com
 transfer.scopely.com
@@ -178,11 +177,8 @@ sandbox.playgami.scopely.com
 staging.luna-dev.scopely.com
 cdn.scopely.com
 _dmarc.scopely.com
-maxdatascopely.com
 juniper.scopely.com
 payments.playgami.scopely.com
-dprod.prod.maxdatascopely.com
-prod.maxdatascopely.com
 *.luna-api.scopely.com
 chunkstore.luna-dev.scopely.com
 luna-api.scopely.com

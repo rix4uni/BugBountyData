@@ -1,5 +1,3 @@
-shopify.io
-myshopify.io
 shipit.shopify.io
 notify-service.shopify.io
 environments.docs.shopify.io
@@ -745,3 +743,5 @@ chatsql.lit.shopify.io
 cask-staging-ai.shopify.io
 elnk.docs.shopify.io
 readme-enhancer.shopify.io
+*.lit.shopify.io
+*.skai-train.shopify.io

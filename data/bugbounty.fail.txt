@@ -33,5 +33,4 @@ api-customer-01.test.bugbounty.fail
 api-customer.test.bugbounty.fail
 api-customer-01.staging.bugbounty.fail
 cms.bugbounty.fail
-bugbounty.fail
 *.bugbounty.fail

@@ -35,7 +35,6 @@ r122.i.ripple.com
 b560.i.ripple.com
 release-south.rc.ripple.com
 xrp-holder-portal.staging.ripple.com
-ripple.com
 tc01.i.ripple.com
 b602.i.ripple.com
 integration-north.rc.ripple.com
@@ -768,3 +767,8 @@ blog.ripple.com
 lc1.i.ripple.com
 quiz.staging.swell2020.ripple.com
 r802proxy.i.ripple.com
+rdgateway.it.ripple.com
+api4.cortex.ops.ripple.com
+traka.it.ripple.com
+api.test.ripple.com
+api.dev.ripple.com

@@ -782,7 +782,6 @@ midgard.myteksi.net
 mla.myteksi.net
 mqtt.cycle.myteksi.net
 mysite.azure.myteksi.net
-myteksi.net
 nac01.gts.myteksi.net
 nagios.gts.myteksi.net
 netbox.gts.myteksi.net
@@ -4309,7 +4308,6 @@ db-admanager-replica-eng.myteksi.net
 geo-tools-smart-city.myteksi.net
 delv-stats.myteksi.net
 db-food-max-dataservice-replica-app.myteksi.net
-stg-myteksi.net
 chimera.myteksi.net
 s.conveyor.myteksi.net
 racktables.gts.myteksi.net
@@ -4360,3 +4358,5 @@ anemoi-ds-cx.data-engineering.myteksi.net
 anemoi-olympus.staging.data-engineering.myteksi.net
 anemoi-nebula-profile-flower.staging.data-engineering.myteksi.net
 locker.myteksi.net
+sentry.pages.myteksi.net
+pc-70.2.lax1.karta.myteksi.net

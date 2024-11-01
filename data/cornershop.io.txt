@@ -158,7 +158,6 @@ sonarqube.cornershop.io
 estimator.cornershop.io
 ml-prod.cornershop.io
 pfsense.cornershop.io
-cornershop.io
 ubereats-us.partners.cornershop.io
 metabase.internal.cornershop.io
 sftp.internal.cornershop.io
@@ -183,7 +182,6 @@ datalake.vpn.cornershop.io
 *.satellite.cornershop.io
 *.science.cornershop.io
 www.webhooks-marqeta-prod.cornershop.io
-ss.dev.thecornershop.io
 *.pe.internal.satellite.cornershop.io
 *.co.internal.satellite.cornershop.io
 *.internal.satellite.cornershop.io
@@ -605,3 +603,4 @@ sftp.uber-langensteins.cornershop.io
 _0c40f3c946f3094bbb0f114c32d611da.satellite.cornershop.io
 sftp-automation-shell.internal.cornershop.io
 airflow-prod-integrations-co.satellite.cornershop.io
+gpa.cornershop.io

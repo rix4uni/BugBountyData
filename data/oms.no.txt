@@ -70,7 +70,6 @@ katana.prod.oms.no
 lara.prod.oms.no
 os.dev.oms.no
 stage.webapp.norne.oms.no
-oms.no
 apps.test.oms.no
 mfi.dev.oms.no
 osmaster03.test.oms.no
@@ -122,3 +121,9 @@ test.webapp.vpff.oms.no
 apps.dev.oms.no
 pepe.prod.oms.no
 pdf2cmyk.oms.no
+rio.test.oms.no
+moses.test.oms.no
+hostmaster.oms.no
+lima.test.oms.no
+praha.test.oms.no
+knoll.test.oms.no

@@ -91,16 +91,9 @@ shoppers-manager.cornershopapp.com
 catalog-uber-merchants-api.cornershopapp.com
 grafana.cornershopapp.com
 catalog-uber-metadata-api.cornershopapp.com
-cornershopapp.com
 *.cornershopapp.com
 *.catalog-uber.cornershopapp.com
 *.domino.cornershopapp.com
-*.helpcornershopapp.com
-helpcornershopapp.com
-*.webcornershopapp.com
-webcornershopapp.com
-ubercornershopapp.com
-*.ubercornershopapp.com
 shopper-materials-public.cornershopapp.com
 nora.luis.cornershopapp.com
 staging.cornershopapp.com

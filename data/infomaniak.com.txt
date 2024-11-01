@@ -431,7 +431,6 @@ hosting.infomaniak.com
 storage-master.infomaniak.com
 safetracing.infomaniak.com
 ecologie.infomaniak.com
-infomaniak.com
 mail7-easygiga.infomaniak.com
 speedtest.infomaniak.com
 static.infomaniak.com
@@ -664,7 +663,6 @@ www.status.infomaniak.com
 *.swisstransfer.preprod.dev.infomaniak.com
 *.vbackup.infomaniak.com
 *.cloud.infomaniak.com
-postmaster@infomaniak.com
 *.ice.infomaniak.com
 *.vps.infomaniak.com
 *.live.infomaniak.com
@@ -822,14 +820,6 @@ vp582.ftp.infomaniak.com
 vu3go.ftp.infomaniak.com
 wiki.infomaniak.com
 y33no.ftp.infomaniak.com
-sympatestinfomaniak.com
-*.sympatestinfomaniak.com
-imap.my-infomaniak.com
-mail.my-infomaniak.com
-smtp.my-infomaniak.com
-pop.my-infomaniak.com
-my-infomaniak.com
-www.my-infomaniak.com
 es.landing.infomaniak.com
 it.landing.infomaniak.com
 edge5.vedge.infomaniak.com
@@ -906,3 +896,6 @@ canal32.vedge.infomaniak.com
 eg3es.myd.infomaniak.com
 gl1mj.myd.infomaniak.com
 xxxx.ftp.infomaniak.com
+av00j.vps.infomaniak.com
+hesh.myd.infomaniak.com
+1o506a.ftp.infomaniak.com

@@ -1667,7 +1667,6 @@ prod.teknor.adobecqms.net
 stage.teknor.adobecqms.net
 chase-com-prd.adobecqms.net
 author-informatica-stage-65.adobecqms.net
-adobecqms.net
 sunlifesit-static.adobecqms.net
 colgate-prod-colcom-cf.adobecqms.net
 author-hdfc-qa-03.adobecqms.net
@@ -20320,9 +20319,6 @@ philips.adobecqms.net
 *.sit.klockner.adobecqms.net
 *.prod65.klockner.adobecqms.net
 *.preprod.klockner.adobecqms.net
-pggm-prod65-adobecqms.net
-*.pggm-prod65-adobecqms.net
-*.ww25.pggm-prod65-adobecqms.net
 *.stage.bm-bajajfinance.adobecqms.net
 *.qa.bm-bajajfinance.adobecqms.net
 *.uat.bm-bajajfinance.adobecqms.net
@@ -27189,3 +27185,18 @@ software-ag-stg-65.adobecqms.net
 *.sit.northgate.adobecqms.net
 *.stage.northgate.adobecqms.net
 *.test.northgate.adobecqms.net
+nims.adobecqms.net
+dev2.nims.adobecqms.net
+prod65.nims.adobecqms.net
+dev1.nims.adobecqms.net
+dev3.nims.adobecqms.net
+stage65.nims.adobecqms.net
+*.stage65.nims.adobecqms.net
+*.test.nims.adobecqms.net
+*.qa.nims.adobecqms.net
+*.dev3.nims.adobecqms.net
+*.uat.nims.adobecqms.net
+*.dev2.nims.adobecqms.net
+*.prod65.nims.adobecqms.net
+*.dev1.nims.adobecqms.net
+devl.metlife.adobecqms.net

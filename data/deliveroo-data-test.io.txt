@@ -14,7 +14,6 @@ integration.deliveroo-data-test.io
 api.canoe-staging-k8s.deliveroo-data-test.io
 jenkins-canoe-staging-tst.deliveroo-data-test.io
 restaurant-data-api.deliveroo-data-test.io
-deliveroo-data-test.io
 *.deliveroo-data-test.io
 active-consumer-group.lab.deliveroo-data-test.io
 sql-dal.deliveroo-data-test.io

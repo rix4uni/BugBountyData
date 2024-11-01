@@ -1,0 +1,11 @@
+kafka.kafka-aggregate.endpoints.mcs.shopifyinternal.com
+kafka.kafka-cdc-sandbox.endpoints.mcs.shopifyinternal.com
+kafka.kafka-cdc-sandbox.statefulsets.mcs.shopifyinternal.com
+kafka.kafka-cdc-staging.endpoints.mcs.shopifyinternal.com
+kafka.kafka-cdc.endpoints.mcs.shopifyinternal.com
+kafka.kafka-regional.endpoints.mcs.shopifyinternal.com
+kafka.kafka-sandbox.endpoints.mcs.shopifyinternal.com
+kafka.kafka-sandbox.statefulsets.mcs.shopifyinternal.com
+kafka.kafka-staging.endpoints.mcs.shopifyinternal.com
+sfe.shopifyinternal.com
+statefulsets.mcs.shopifyinternal.com

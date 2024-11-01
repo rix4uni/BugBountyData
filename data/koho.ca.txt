@@ -91,7 +91,6 @@ bastion.koho.ca
 cashloads.koho.ca
 dashboards.koho.ca
 ingestion.data.koho.ca
-koho.ca
 kohoappsupport.koho.ca
 pm-bounces.koho.ca
 ptc-reversal.koho.ca
@@ -99,7 +98,6 @@ wildfire.koho.ca
 core-banking.koho.ca
 green.amq.koho.ca
 verify.koho.ca
-sandbox-koho.ca
 *.internal.koho.ca
 *.line-of-credit.koho.ca
 line-of-credit.koho.ca
@@ -165,3 +163,5 @@ s2._domainkey.koho.ca
 click.email.line-of-credit.koho.ca
 image.email.line-of-credit.koho.ca
 secure.line-of-credit.koho.ca
+cloud.email.line-of-credit.koho.ca
+pd.koho.ca

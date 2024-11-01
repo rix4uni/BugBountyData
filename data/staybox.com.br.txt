@@ -1,6 +1,5 @@
 go.emkt.staybox.com.br
 *.staybox.com.br
-staybox.com.br
 www.go.emkt.staybox.com.br
 fw01-cluster-smo.staybox.com.br
 *.fw01-smo-cluster.staybox.com.br
@@ -1511,3 +1510,6 @@ alessi.staybox.com.br
 smo.staybox.com.br
 41.43.179.190-rev.staybox.com.br
 sbsistemas.staybox.com.br
+*.eecosmo.staybox.com.br
+*.diozermoveis.staybox.com.br
+*.jb-demonstracao.staybox.com.br

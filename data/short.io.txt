@@ -29,7 +29,6 @@ stats-internal.short.io
 pubkey.short.io
 us-ip-2.short.io
 www.short.io
-short.io
 help.short.io
 dns2.short.io
 js.short.io
@@ -42,3 +41,4 @@ authorizer.short.io
 eu-ip-1.short.io
 backend-2.short.io
 trust.short.io
+*.short.io

@@ -111,7 +111,6 @@ stage.account.mackeeper.com
 test-updateav.mackeeper.com
 stage.antitheft.mackeeper.com
 bn.sz.mackeeper.com
-mackeeper.com
 *.account.mackeeper.com
 *.sz.mackeeper.com
 *.mackeeper.com
@@ -447,13 +446,6 @@ cdn2.mackeeper.com
 cn.mackeeper.com
 geo.mackeeper.com
 stage-app1.adwareanalyzer.mackeeper.com
-www.i-mackeeper.com
-i-mackeeper.com
-*.i-mackeeper.com
-*.uninstall-mackeeper.com
-uninstall-mackeeper.com
-downloadmackeeper.com
-www.downloadmackeeper.com
 135-197-254-45.mackeeper.com
 uxtest3.mackeeper.com
 stage.mackeeper.com

@@ -60,7 +60,6 @@ www.sim-karte-aktivierung.ortelmobile.de
 www.staging.ortelmobile.de
 www.www.www.www.www.www.www.www.www.www.www.www.cms.ortelmobile.de
 www.www.www.www.www.www.www.www.www.www.www.www.www.www.wwe.ortelmobile.de
-ortelmobile.de
 login-ciam.ortelmobile.de
 login-ciam-dev.ortelmobile.de
 login-ciam-e2e1.ortelmobile.de
@@ -73,3 +72,11 @@ cdn.umfrage.ortelmobile.de
 data.hinweis.ortelmobile.de
 data.information.ortelmobile.de
 data.umfrage.ortelmobile.de
+app.ortelmobile.de
+data.testing.ortelmobile.de
+login-ciam-ct-int.ortelmobile.de
+login-ciam-ct.ortelmobile.de
+login-ciam-e2e2.ortelmobile.de
+login-ct-int.ortelmobile.de
+login-ct.ortelmobile.de
+login-nfr.ortelmobile.de

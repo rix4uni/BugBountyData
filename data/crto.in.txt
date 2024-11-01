@@ -1,5 +1,4 @@
 pmc.crto.in
-crto.in
 youfollow.crto.in
 prod.crto.in
 www.crto.in
@@ -196,3 +195,6 @@ opensearch.prod.crto.in
 am6.hpc.preprod.crto.in
 opensearch.preprod.crto.in
 backup-mariadb.par.preprod.crto.in
+build-moab.crto.in
+devtools.crto.in
+webscale-ghost-externals.crto.in

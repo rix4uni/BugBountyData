@@ -213,7 +213,6 @@ test-app2.iscribes.co
 test-streaming-d.iscribes.co
 dxt-dev-messaging-svc-staging.iscribes.co
 test-i.iscribes.co
-iscribes.co
 dev-streaming-a.iscribes.co
 azure-dev-web-legacy.iscribes.co
 support.iscribes.co
@@ -235,3 +234,5 @@ azure-stg-legacy-rest.iscribes.co
 azure-stg-emr-rest.iscribes.co
 azure-stg-web-legacy-loadtest-azuresql.iscribes.co
 azure-stg.iscribes.co
+www.azure-stg-emr-rest.iscribes.co
+www.azure-stg.iscribes.co

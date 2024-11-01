@@ -1,5 +1,3 @@
-misp.ferm-rotterdam.nl
-portal.ferm-rotterdam.nl
 thuiswerken.bibliotheek.rotterdam.nl
 chat.ontwikkel.rotterdam.nl
 telewerken.rotterdam.nl
@@ -64,7 +62,6 @@ _sipfederationtls._tcp.rotterdam.nl
 ssrpm.rotterdam.nl
 www-test.bibliotheek.rotterdam.nl
 _amazonses.rotterdam.nl
-rotterdam.nl
 ns1.rotterdam.nl
 milieucentrum.rotterdam.nl
 jira.ioo.rotterdam.nl
@@ -1219,3 +1216,9 @@ plugin.bibliotheek.rotterdam.nl
 jboprd-geo.pr.ons.rotterdam.nl
 imelosftp-acc.rotterdam.nl
 sws.ontw1.ta-twd.rotterdam.nl
+www.gemeentarchief.rotterdam.nl
+www.geementarchief.rotterdam.nl
+ppmoflprojecten.rotterdam.nl
+sts-acc2.rotterdam.nl
+wijkraad.rotterdam.nl
+www.mijn.rotterdam.nl

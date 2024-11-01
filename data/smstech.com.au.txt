@@ -1,2 +1,7 @@
-smstech.com.au
 *.smstech.com.au
+view.smstech.com.au
+app.smstech.com.au
+www.smstech.com.au
+www.app.smstech.com.au
+*.dev.smstech.com.au
+*.qa.smstech.com.au

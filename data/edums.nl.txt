@@ -1,2 +1,8 @@
-edums.nl
 *.edums.nl
+images.edums.nl
+dev-images.edums.nl
+manage.edums.nl
+user-management-api.edums.nl
+provider.edums.nl
+user-management.edums.nl
+tst-images.edums.nl

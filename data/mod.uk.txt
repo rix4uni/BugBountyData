@@ -786,8 +786,6 @@ smtp.nsv.mod.uk
 tunes.cispe.mod.uk
 world-population-api.dso.appivate.mod.uk
 www.defencebills.mod.uk
-mod.uk
-chipchopmod.uk
 defenceimagery.mod.uk
 royal-navy.mod.uk
 sandhurst.mod.uk
@@ -829,7 +827,6 @@ shawbury.raf.mod.uk
 rfa.mod.uk
 abro.mod.uk
 challenge.mod.uk
-haemod.uk
 jsp600.ia.mod.uk
 jackspeak.royalnavy.mod.uk
 kosovo.mod.uk
@@ -876,3 +873,19 @@ preprod.r2d2.alpha.digital.mod.uk
 main.preprod.r2d2.alpha.digital.mod.uk
 csaf.digital.mod.uk
 www.csaf.digital.mod.uk
+www.wewerethere.defencedynamics.mod.uk
+civicform.raf.mod.uk
+dev3.acms.mod.uk
+ns1.da.mod.uk
+careers.royalnavy.mod.uk
+armyfitness.mod.uk
+mail.corpserv.mod.uk
+www.armycmsdev.mod.uk
+icaras.mod.uk
+defencesirf.mod.uk
+*.dgwmail.mod.uk
+*.armymail.mod.uk
+*.royalnavymail.mod.uk
+*.csmail.mod.uk
+*.cadetmail.mod.uk
+*.rafmail.mod.uk

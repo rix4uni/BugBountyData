@@ -1,6 +1,5 @@
 cms.geocomply.com
 *.geocomply.com
-geocomply.com
 preprod-bop-login.geocomply.com
 truelocation.geocomply.com
 engine.dev.geocomply.com
@@ -91,3 +90,5 @@ preprod-hub.geocomply.com
 releases.geocomply.com
 beta.geocomply.com
 analytics-caesars.geocomply.com
+backoffice.geocomply.com
+auth.geocomply.com

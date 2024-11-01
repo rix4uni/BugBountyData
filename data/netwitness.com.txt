@@ -51,7 +51,6 @@ cmsservice.netwitness.com
 cmsservice.staging.netwitness.com
 ww.netwitness.com
 telemetry-dashboards.staging.netwitness.com
-netwitness.com
 logdecoder.lab.hosted.netwitness.com
 investigator.netwitness.com
 joey.hosted.netwitness.com
@@ -171,7 +170,6 @@ oldservicedesk.netwitness.com
 devregister.netwitness.com
 egcaigw.netwitness.com
 proxmox.lab.netwitness.com
-emcnetwitness.com
 login.netwitness.com
 assets.staging.detectai.netwitness.com
 www.cloud.netwitness.com

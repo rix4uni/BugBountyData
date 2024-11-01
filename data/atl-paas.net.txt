@@ -1,4 +1,3 @@
-atl-paas.net
 bxp-content-static.prod.public.atl-paas.net
 metal.prod.atl-paas.net
 atlassian-gapp.atl-paas.net
@@ -362,3 +361,11 @@ confluence-prod-eu-1--9teh03r1ps7p8c4f.eu-west-1.prod.atl-paas.net
 *.us-east-1.staging.atl-paas.net
 *.eu-west-1.staging.public.atl-paas.net
 *.eu-west-1.sp.staging.atl-paas.net
+*.dev.atl-paas.net
+*.ap-southeast-2.dev.public.atl-paas.net
+*.ap-southeast-2.dev.atl-paas.net
+*.sgw.dev.atl-paas.net
+*.us-west-2.dev.atl-paas.net
+*.dev.public.atl-paas.net
+*.sp.dev.atl-paas.net
+*.us-west-2.dev.public.atl-paas.net

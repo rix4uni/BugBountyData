@@ -46,7 +46,6 @@ test.cjs.devtest.harness.io
 openldap1.harness.io
 piyushp.cluster1.pr2.harness.io
 ritek.pr2.harness.io
-harness.io
 localhost.qa.harness.io
 meenakshir.pr2.harness.io
 neelanjan.pr2.harness.io
@@ -711,3 +710,4 @@ shivanandsonnad.pkg2.pr2.harness.io
 *.harness.io
 *.prod2.harness.io
 testdev1.pr2.harness.io
+prod1.harness.io

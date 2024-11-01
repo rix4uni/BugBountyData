@@ -16,7 +16,6 @@ letest.cobytes.dev
 pascal.swarm01.cobytes.dev
 lemptest.cobytes.dev
 test.robin-stage.cobytes.dev
-cobytes.dev
 sentry.swarm01.cobytes.dev
 www.cobytes.dev
 test.hostfact.cobytes.dev
@@ -36,3 +35,4 @@ lemp03.portaltest.cobytes.dev
 win01.portaltest.cobytes.dev
 lemp01.portaltest.cobytes.dev
 lemp02.portaltest.cobytes.dev
+mail.cobytes.dev

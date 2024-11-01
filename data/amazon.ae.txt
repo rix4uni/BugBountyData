@@ -79,11 +79,8 @@ experiment-ealaweme.amazon.ae
 affiliate-program.amazon.ae
 p-yo-www-amazon-ae-kalias.amazon.ae
 *.browserapps.amazon.ae
-amazon.ae
 *.transient.amazon.ae
 *.amazon.ae
-samazon.ae
-www.samazon.ae
 associates.amazon.ae
 c9a5976c7-frontier.amazon.ae
 aan.amazon.ae
@@ -91,3 +88,6 @@ _dmarc.amazon.ae
 tp.99cf37d03-frontier.amazon.ae
 appx.transient.amazon.ae
 _amazonses.amazon.ae
+origin-services.amazon.ae
+alexa.amazon.ae
+msh.amazon.ae

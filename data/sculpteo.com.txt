@@ -1,4 +1,3 @@
-sculpteo.com
 www.sculpteo.com
 info.sculpteo.com
 pro-pre-prod.sculpteo.com
@@ -85,3 +84,6 @@ srv19.sculpteo.com
 srv17.sculpteo.com
 erp.sculpteo.com
 *.sculpteo.com
+*.data-branch.sculpteo.com
+*.branch.sculpteo.com
+*.pages.gitlab.sculpteo.com

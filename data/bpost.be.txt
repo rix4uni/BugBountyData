@@ -53,7 +53,6 @@ bpo.bpost.be
 bpost-epicon-prod.bpost.be
 bpost-fsb-int.bpost.be
 bpost-fsb-prod.bpost.be
-bpost.be
 bpostmap.bpost.be
 bpostsurrendezvous.bpost.be
 businesscustomersupport-api.bpost.be
@@ -415,8 +414,6 @@ medattest-pr.bpost.be
 parcellocker-partner.bpost.be
 link.bpost.be
 myprivacy-temp.bpost.be
-acbpost.be
-stbpost.be
 assets.bpost.be
 idp-int.bpost.be
 hosted5.bpost.be
@@ -577,3 +574,4 @@ webservices-acquia.bpost.be
 connect-generate.bpost.be
 bcc-st2.bpost.be
 ac1.bpost.be
+*.bpost.be

@@ -22,7 +22,6 @@ kafka.windsor.io
 shop.windsor.io
 videos.windsor.io
 cube.windsor.io
-windsor.io
 jakub2.windsor.io
 api.windsor.io
 accounts.windsor.io
@@ -55,3 +54,6 @@ www.windsor.io
 staging.conductor.windsor.io
 staging.sync.windsor.io
 *.windsor.io
+ww1.windsor.io
+ww12.windsor.io
+segment.windsor.io

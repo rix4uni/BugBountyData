@@ -73,7 +73,6 @@ iam.review.passport.gitcoin.co
 staging.granthub.gitcoin.co
 flower.api.staging.scorer.gitcoin.co
 status.gitcoin.co
-gitcoin.co
 allobook.gitcoin.co
 bridge.gitcoin.co
 staking.passport.gitcoin.co
@@ -172,3 +171,10 @@ public.scorer.gitcoin.co
 nexus.jx.ci.gitcoin.co
 grants-stack-ux-events.gitcoin.co
 www.support.gitcoin.co
+grants-stack-indexer.gitcoin.co
+redash.api.staging.scorer.gitcoin.co
+public.api.review.scorer.gitcoin.co
+alpha.passport-iam.gitcoin.co
+second.production.gitcoin.co
+public.api.staging.scorer.gitcoin.co
+*.passport.gitcoin.co

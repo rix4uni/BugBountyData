@@ -56,7 +56,6 @@ www-qa-lvgi.wearethink.com
 www.cdn-uat-lhh.wearethink.com
 www-uat.arup.wearethink.com
 www.wearethink.com
-wearethink.com
 cms-arup9-qa.wearethink.com
 git.wearethink.com
 old.cms-arup9-uat.wearethink.com
@@ -80,3 +79,4 @@ teamcity.wearethink.com
 www-arup9-qa.wearethink.com
 www-uat-lhh.wearethink.com
 www-uat-lhh-cdn.wearethink.com
+*.wearethink.com

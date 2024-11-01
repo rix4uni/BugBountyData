@@ -42070,7 +42070,6 @@ host-64-47-55-168.masergy.com
 host-64-47-213-226.masergy.com
 host-64-47-61-37.masergy.com
 host-94-199-133-124.masergy.com
-masergy.com
 host-64-47-0-17.masergy.com
 host-64-47-157-219.masergy.com
 host-64-47-57-234.masergy.com
@@ -74560,3 +74559,12 @@ mc004510-fems.masergy.com
 ib-musa.mc001329-fems3.masergy.com
 penpot.masergy.com
 *.mt10.sasedev.masergy.com
+*.a001.sasedev.masergy.com
+a001.sasedev.masergy.com
+usea2-a001-01.a001.sasedev.masergy.com
+usce1-a001-01.a001.sasedev.masergy.com
+*.a001.sase.masergy.com
+a001.sase.masergy.com
+usea2-a001-01.a001.sase.masergy.com
+usce1-a001-01.a001.sase.masergy.com
+lab-ocom1.lab.masergy.com

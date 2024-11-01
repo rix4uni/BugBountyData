@@ -21,7 +21,6 @@ kr.lorealaccess.com
 pk.lorealaccess.com
 au.lorealaccess.com
 th.lorealaccess.com
-lorealaccess.com
 academia-br.lorealaccess.com
 jp.lorealaccess.com
 ch.lorealaccess.com
@@ -59,3 +58,8 @@ br.lorealaccess.com
 us.lorealaccess.com
 baltics.lorealaccess.com
 pl.lorealaccess.com
+*.lorealaccess.com
+www.es.lorealaccess.com
+www.fr.lorealaccess.com
+www.it.lorealaccess.com
+www.uk.lorealaccess.com

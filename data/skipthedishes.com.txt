@@ -437,7 +437,6 @@ support.skipthedishes.com
 sentry.skipthedishes.com
 restaurants-static.skipthedishes.com
 menu-images-static-dev.skipthedishes.com
-skipthedishes.com
 api-alpha.skipthedishes.com
 wqo2j6r9di.skipthedishes.com
 ri6l2hf8b9.skipthedishes.com
@@ -5670,3 +5669,7 @@ origin-api-internal.skipthedishes.com
 react-customer-dev.skipthedishes.com
 api-tarot-dev.skipthedishes.com
 react-restaurant-live-ops-staguk.skipthedishes.com
+ncc.prodeu1.skipthedishes.com
+stagsk.skipthedishes.com
+daas-portal.staguk.skipthedishes.com
+daas-portal.dev.skipthedishes.com

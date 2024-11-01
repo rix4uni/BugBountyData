@@ -2647,7 +2647,6 @@ ed003.dev.do.kasten.io
 eric-test.dev.gke.kasten.io
 esumintest2.dev.gke.kasten.io
 gsb-mongo-issue.dev.gke.kasten.io
-kasten.io
 ldap.aws.kasten.io
 longevity.gke2.kasten.io
 mabhi-do.dev.do.kasten.io
@@ -2773,8 +2772,6 @@ aws-encryption-integration-testcluster-66754.dev.do.kasten.io
 saima-test-report.dev.do.kasten.io
 viveks.aws.kasten.io
 viveksdo.dev.do.kasten.io
-baukasten.io
-ikasten.io
 *.apps.amadeus42.mcourcy.dev.azure.kasten.io
 *.apps.carl-awsocp2.aws.kasten.io
 *.apps.carl-ocpgcp1.dev.gke.kasten.io
@@ -2937,3 +2934,7 @@ philip.dev.do.kasten.io
 aws-encryption-integration-testcluster-671b3.dev.do.kasten.io
 aws-encryption-integration-testcluster-671c8.dev.do.kasten.io
 aws-encryption-integration-testcluster-67207.dev.do.kasten.io
+aws-encryption-integration-testcluster-6721c.dev.do.kasten.io
+aws-encryption-integration-testcluster-67231.dev.do.kasten.io
+aws-encryption-integration-testcluster-6723a.dev.do.kasten.io
+aws-encryption-integration-testcluster-6723c.dev.do.kasten.io

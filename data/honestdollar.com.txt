@@ -65,16 +65,7 @@ api.qa.honestdollar.com
 mail.honestdollar.com
 www.qa.honestdollar.com
 api.honestdollar.com
-honestdollar.com
 *.honestdollar.com
-bluecollarhonestdollar.com
-www.bluecollarhonestdollar.com
-www.thehonestdollar.com
-thehonestdollar.com
-ukhonestdollar.com
-*.ukhonestdollar.com
-*.bluecollarhonestdollar.com
-*.thehonestdollar.com
 _dmarc.honestdollar.com
 imap.honestdollar.com
 signup.honestdollar.com
@@ -87,4 +78,3 @@ wldcrdrcrd.honestdollar.com
 smtp.honestdollar.com
 ftp.honestdollar.com
 pop.honestdollar.com
-goodhonestdollar.com

@@ -1,7 +1,6 @@
 prod-grpc.noblr.com
 test-services.noblr.com
 policycheck.noblr.com
-noblr.com
 elk.noblr.com
 nextgen.noblr.com
 p.noblr.com
@@ -27,8 +26,6 @@ test-webquote.noblr.com
 external.noblr.com
 dev-webquote.noblr.com
 mta.email.noblr.com
-knoblr.com
-huddles.knoblr.com
 sftp.noblr.com
 xgn.noblr.com
 email.noblr.com

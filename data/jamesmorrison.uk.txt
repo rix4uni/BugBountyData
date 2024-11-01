@@ -41,7 +41,6 @@ preview.jamesmorrison.uk
 develop.lifeadmin.jamesmorrison.uk
 admin.staging.jamesmorrison.uk
 staging.jamesmorrison.uk
-jamesmorrison.uk
 cdn.preprod.jamesmorrison.uk
 api.staging.jamesmorrison.uk
 r2-cdn.jamesmorrison.uk
@@ -54,3 +53,6 @@ admin.status.jamesmorrison.uk
 web-01.aws.jamesmorrison.uk
 r2-cdn.staging.jamesmorrison.uk
 web-02.aws.jamesmorrison.uk
+network-uptime-home.jamesmorrison.uk
+status.network.jamesmorrison.uk
+api.vortex.jamesmorrison.uk

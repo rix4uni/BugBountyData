@@ -98,7 +98,6 @@ jobs.bigbank.eu
 web-loan-application-bg.test.bigbank.eu
 www.id.bigbank.eu
 investor.bigbank.eu
-bigbank.eu
 3ds.bigbank.eu
 okd4.bigbank.eu
 3ds-staging.bigbank.eu
@@ -108,7 +107,6 @@ www.investor.bigbank.eu
 *.static.bigbank.eu
 *.test.bigbank.eu
 localhost.bigbank.eu
-sharepoint.my-bigbank.eu
 sgtm.bigbank.eu
 psd2-callback.bigbank.eu
 psd2-api.bigbank.eu

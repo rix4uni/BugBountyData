@@ -459,7 +459,6 @@ www1.teamoutpost.com
 www1.www.teamoutpost.com
 www2.teamoutpost.com
 www2.www.teamoutpost.com
-teamoutpost.com
 _cuplogin.teamoutpost.com
 _cuplogin.www.teamoutpost.com
 _cuplogin._tcp.teamoutpost.com
@@ -472,3 +471,7 @@ seq1.teamoutpost.com
 _tls.teamoutpost.com
 _tcp.www.teamoutpost.com
 _dmarc.www.teamoutpost.com
+_etcd-server-ssl.teamoutpost.com
+_collab-edge._tls.teamoutpost.com
+_cuplogin._tcp.www.teamoutpost.com
+app.teamoutpost.com

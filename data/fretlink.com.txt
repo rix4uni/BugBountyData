@@ -88,7 +88,6 @@ www.help.office.fretlink.com
 www.assets.test.fretlink.com
 rabbitmq.fretlink.com
 nix-store.private.in.fretlink.com
-fretlink.com
 toolbox.in.fretlink.com
 notifier.prod.in.fretlink.com
 www.prometheus.in.fretlink.com
@@ -139,3 +138,8 @@ tableau01.in.fretlink.com
 next2.www.fretlink.com
 callbacks.acceptance.test.fretlink.com
 app-lb.in.fretlink.com
+www.pricer.dev.test.fretlink.com
+newsletter.fretlink.com
+email.fretlink.com
+transporteur.fretlink.com
+expedier.fretlink.com

@@ -88,4 +88,5 @@ login-eu.navan.com
 *.netlify.navan.com
 *.ta-fe-chat-mod.netlify.navan.com
 www.navan.com
-navan.com
+*.app-react-components.netlify.navan.com
+*.navan.com

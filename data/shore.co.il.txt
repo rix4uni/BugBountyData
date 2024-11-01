@@ -3,7 +3,6 @@ www.shore.co.il
 zpush.shore.co.il
 nextcloud.shore.co.il
 autoconfig.shore.co.il
-shore.co.il
 kodi.shore.co.il
 matrix.shore.co.il
 notify.shore.co.il
@@ -24,3 +23,6 @@ mta-sts.shore.co.il
 smtp.shore.co.il
 library.shore.co.il
 kibana.shore.co.il
+toptal-iac-prod.aws.shore.co.il
+schoolapp.aws.shore.co.il
+ns2.shore.co.il

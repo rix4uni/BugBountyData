@@ -115,7 +115,6 @@ bittensor-hatom.api.onfinality.io
 astar-fireblocks.api.onfinality.io
 avalanche.beta.api.onfinality.io
 ethereum.beta.api.onfinality.io
-onfinality.io
 blog.onfinality.io
 console.onfinality.io
 terra-columbus-5.api.onfinality.io
@@ -285,3 +284,4 @@ nv.onfinality.io
 phala-0.boot.onfinality.io
 phala-1.boot.onfinality.io
 eu.health.onfinality.io
+zenchain-testnet.api.onfinality.io

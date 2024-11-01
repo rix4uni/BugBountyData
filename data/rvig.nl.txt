@@ -66,17 +66,9 @@ opendata.rvig.nl
 signing.acceptatie.rvig.nl
 rdweb.rvig.nl
 qa-client1.opentext.rvig.nl
-rvig.nl
 rni-portal.rvig.nl
 agw.idm.rvig.nl
 agw.lap.idm.rvig.nl
-www.id-rvig.nl
-id-rvig.nl
-farvig.nl
-www.farvig.nl
-*.farvig.nl
-www.hypervig.nl
-hypervig.nl
 *.rvig.nl
 abonneren.rvig.nl
 sdm.rvig.nl
@@ -96,3 +88,7 @@ _dmarc.rvig.nl
 _xmpp-server._tcp.rvig.nl
 publicaties-acc.rvig.nl
 publicaties-tst.rvig.nl
+publicaties-prod.rvig.nl
+a-www.rvig.nl
+a-magazines.rvig.nl
+a-opendata.rvig.nl

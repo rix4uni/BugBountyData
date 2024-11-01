@@ -1083,7 +1083,6 @@ mastercard.auspost.com.au
 platinum.auspost.com.au
 msg.auspost.com.au
 www1.auspost.com.au
-auspost.com.au
 www.auspost.com.au
 iet-api-trp.cooi-prod-01.internal.auspost.com.au
 staging.api.vtest-02.emr-np.gcp.auspost.com.au
@@ -1144,8 +1143,6 @@ uiapi.add-plus-dev-01.auspost.com.au
 app.add-plus-dev-01.auspost.com.au
 voucher-products-stest.npe.auspost.com.au
 www.blue.auspost.com.au
-smsf-gateway-auspost.com.au
-www.smsf-gateway-auspost.com.au
 *.npe.auspost.com.au
 www.ap-to-pakpobox.npe.auspost.com.au
 *.mypost-01.auspost.com.au
@@ -43456,6 +43453,6 @@ api-gway-pdev.npe.internal.gcp.auspost.com.au
 *.test1-ext.gitlab-sandpit.cd.auspost.com.au
 *.test1-int.gitlab-sandpit.cd.auspost.com.au
 *.verify.auspost.com.au
-yourlocalauspost.com.au
-www.yourlocalauspost.com.au
 gitlab-ext.gitlab-sandpit.cd.auspost.com.au
+api.amas-prod-01.gcp.auspost.com.au
+amas-prod-01.gcp.auspost.com.au

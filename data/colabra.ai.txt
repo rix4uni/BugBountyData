@@ -108,3 +108,4 @@ gql.canary.colabra.ai
 langfuse.canary.colabra.ai
 s3proxy.dev.colabra.ai
 pubchem.seyfip.colabra.ai
+*.colabra.ai

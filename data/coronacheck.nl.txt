@@ -98,7 +98,6 @@ www.holder-api.sx.coronacheck.nl
 www.www-origin.coronacheck.nl
 emax.test.coronacheck.nl
 web.acc.coronacheck.nl
-coronacheck.nl
 tvs.acc.coronacheck.nl
 verifier-api-origin.acc.coronacheck.nl
 dtapi.test.coronacheck.nl
@@ -109,10 +108,10 @@ dashboard.coronacheck.nl
 www.max.coronacheck.nl
 www.status.coronacheck.nl
 tvs-connect.test.coronacheck.nl
-uitlegcoronacheck.nl
-www.uitlegcoronacheck.nl
-*.olvgcoronacheck.nl
-olvgcoronacheck.nl
-www.happycoronacheck.nl
-happycoronacheck.nl
-decoronacheck.nl
+web.dev.coronacheck.nl
+ctp-api.acc.coronacheck.nl
+jwt.test.coronacheck.nl
+ctp-api.test.coronacheck.nl
+holder-api.env.coronacheck.nl
+verifier-api.env.coronacheck.nl
+ctp-api.coronacheck.nl

@@ -1,4 +1,3 @@
-okto.tech
 *.okto.tech
 3p.okto.tech
 admin.okto.tech
@@ -128,3 +127,7 @@ prod-mpc-mobile-c-node-1-spec.okto.tech
 sandbox-api.okto.tech
 email.okto.tech
 preprod-norge-data-query-service.okto.tech
+preprod-norge-blockchain-service.okto.tech
+preprod-okto-swap.okto.tech
+preprod-norge-engagement-data.okto.tech
+preprod-okto-dapp-integration-service.okto.tech

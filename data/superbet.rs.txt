@@ -1,4 +1,3 @@
-superbet.rs
 dev.superbet.rs
 stage.incubator.superbet.rs
 prod.incubator.superbet.rs
@@ -33,3 +32,15 @@ web.crm.betler.superbet.rs
 web.mig.betler.superbet.rs
 on.superbet.rs
 apps.stage.superbet.rs
+legacy.qa1deva-okta.prod.incubator.superbet.rs
+origin.betting.prod.incubator.superbet.rs
+api.web.crm.betler.superbet.rs
+www.superbet.rs
+tickets.web.superbet.rs
+incubator.superbet.rs
+production.betler.superbet.rs
+api.web.production.betler.superbet.rs
+gaming.web.superbet.rs
+betler.superbet.rs
+shops.web.superbet.rs
+betting.prod.incubator.superbet.rs

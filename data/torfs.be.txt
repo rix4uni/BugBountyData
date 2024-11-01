@@ -1,5 +1,3 @@
-localhost.schoenentorfs.be
-www.schoenentorfs.be
 *.torfs.be
 0.assets.torfs.be
 1.assets.torfs.be
@@ -44,12 +42,7 @@ www.blog.torfs.be
 www.samenfit.torfs.be
 www.winkels.torfs.be
 sip.torfs.be
-torfs.be
 feeds.torfs.be
-doxoconnect.schoenentorfs.be
-france-1.schoenentorfs.be
-buosecmobil.schoenentorfs.be
-schoenentorfs.be
 _sipfederationtls._tcp.torfs.be
 enterpriseregistration.torfs.be
 _sip._tls.torfs.be
@@ -105,6 +98,3 @@ zendesk2.torfs.be
 platform-pre.torfs.be
 stagingservice.torfs.be
 api-pre.torfs.be
-emailtorfs.be
-samenfittorfs.be
-riktorfs.be

@@ -25,7 +25,6 @@ books.google.sn
 id.google.sn
 ampcid.google.sn
 accounts.google.sn
-google.sn
 labs.google.sn
 clients6.google.sn
 cse.google.sn
@@ -50,3 +49,4 @@ blogsearch.google.sn
 ns2.google.sn
 ns3.google.sn
 edu.google.sn
+*.google.sn

@@ -43,7 +43,6 @@ go.bizible.com
 info.bizible.com
 www.cdn.bizible.com
 wp.bizible.com
-bizible.com
 *.int.bizible.com
 *.bizible.com
 *.sf.bizible.com
@@ -52,18 +51,6 @@ bizible.com
 *.sand.bizible.com
 *.dev.bizible.com
 *.staging.bizible.com
-www.getbizible.com
-getbizible.com
-trybizible.com
-www.trybizible.com
-www.bebizible.com
-lobizible.com
-www.lobizible.com
-gobizible.com
-www.gobizible.com
-cbizible.com
-bebizible.com
-*.cbizible.com
 lookerapi.bizible.com
 enterpriseregistration.bizible.com
 dynamics.bizible.com
@@ -72,4 +59,3 @@ stage-edit.bizible.com
 looker.bizible.com
 newcdn.bizible.com
 aw.bizible.com
-cdn-bizible.com

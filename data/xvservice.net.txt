@@ -64,7 +64,6 @@ dev.client.xvservice.net
 gatekeeper-public.dev.iat.it.xvservice.net
 pmgr.xvservice.net
 pmgr-staging.xvservice.net
-xvservice.net
 gatekeeper.prd.iat.it.xvservice.net
 serveradmin-exp.tz.xvservice.net
 rollbar-webhook.sys.xvservice.net

@@ -1,4 +1,3 @@
-certinia.com
 internal.certinia.com
 confluence.internal.certinia.com
 jira.internal.certinia.com
@@ -155,3 +154,5 @@ feature-console.dev.services.certinia.com
 ci.internal.certinia.com
 confluencedr.staging.internal.certinia.com
 jenkins.dev.cicd.certinia.com
+clx-staging.internal.certinia.com
+clx-demo.internal.certinia.com

@@ -60,3 +60,7 @@ api.dev-slobodan.vacationtracker.io
 app.vacationtracker.io
 api.release.beta.vacationtracker.io
 api-hotfix.beta.vacationtracker.io
+www.vacationtracker.io
+dashboard.vacationtracker.io
+*.marketing.demo.vacationtracker.io
+*.tabs-marketing.demo.vacationtracker.io

@@ -29,7 +29,6 @@ metrics.coinpayments.net
 signin-admin.coinpayments.net
 support.coinpayments.net
 conversions.coinpayments.net
-coinpayments.net
 media.coinpayments.net
 admin.coinpayments.net
 mailedm.coinpayments.net
@@ -43,3 +42,11 @@ logs.coinpayments.net
 adminapi.coinpayments.net
 bigcommerce.coinpayments.net
 www.coinpayments.net
+0048af77f3284791af5734076cfdcb29developer.coinpayments.net
+try.coinpayments.net
+image.mailsf.coinpayments.net
+www.www.coinpayments.net
+*.coinpayments.net
+*.alpha.coinpayments.net
+checkout.coinpayments.net
+api.coinpayments.net

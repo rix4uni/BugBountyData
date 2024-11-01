@@ -20,7 +20,6 @@ global-config-test.innerspace.io
 www.innerspace.io
 b03-api.innerspace.io
 info.innerspace.io
-innerspace.io
 support.innerspace.io
 partner-api.innerspace.io
 b02-app.innerspace.io
@@ -32,3 +31,6 @@ blog.innerspace.io
 intello.innerspace.io
 intello-dev.innerspace.io
 api.innerspace.io
+metricsui.test.innerspace.io
+global-config.test.innerspace.io
+metrics-api.test.innerspace.io

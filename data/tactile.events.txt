@@ -22,7 +22,6 @@ juristapp.tactile.events
 app.hop.tactile.events
 keiweek.tactile.events
 app.connect-b2b-flevoland.tactile.events
-tactile.events
 apenheul.tactile.events
 hello.tactile.events
 api.tactile.events
@@ -91,3 +90,7 @@ congo.tactile.events
 startjetoekomst.tactile.events
 training.tactile.events
 rijkswaterstaat.tactile.events
+website-new.tactile.events
+www.website-new.tactile.events
+app.inkom-2022.tactile.events
+app.flevolandgroeit.tactile.events

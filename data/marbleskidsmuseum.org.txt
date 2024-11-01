@@ -24,7 +24,6 @@ view.marbleskidsmuseum.org
 data.marbleskidsmuseum.org
 m.marbleskidsmuseum.org
 secure-backup.marbleskidsmuseum.org
-marbleskidsmuseum.org
 ip9.marbleskidsmuseum.org
 id.marbleskidsmuseum.org
 jira.marbleskidsmuseum.org
@@ -42,3 +41,6 @@ www4.marbleskidsmuseum.org
 www.secure.marbleskidsmuseum.org
 my.marbleskidsmuseum.org
 secure.marbleskidsmuseum.org
+addc3.marbles.marbleskidsmuseum.org
+www.addc3.marbles.marbleskidsmuseum.org
+*.marbleskidsmuseum.org

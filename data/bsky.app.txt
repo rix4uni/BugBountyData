@@ -16,7 +16,6 @@ mod.bsky.app
 pop2.bsky.app
 staging-origin.bsky.app
 av-img.bsky.app
-bsky.app
 push.bsky.app
 embed.bsky.app
 api.evt.bsky.app
@@ -36,3 +35,4 @@ www.docs.bsky.app
 t.gifs.bsky.app
 video.bsky.app
 legal.mod.bsky.app
+go.bsky.app

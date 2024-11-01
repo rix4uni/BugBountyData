@@ -67,7 +67,6 @@ gotestwaf.wallarm.com
 downloads.wallarm.com
 node-data0.audit.wallarm.com
 node-data0.eu1.wallarm.com
-wallarm.com
 node-data1.us1.wallarm.com
 eu1-qless.wallarm.com
 mx2.wallarm.com
@@ -120,3 +119,4 @@ beta.wallarm.com
 www.us1.api.wallarm.com
 us1-graphs.wallarm.com
 ico.wallarm.com
+argocd.staging.eu1.onprem.wallarm.com

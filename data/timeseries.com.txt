@@ -245,7 +245,6 @@ timeseries-ca-vpn.timeseries.com
 timeseries-demos-grafana.timeseries.com
 timeseries-saas-grafana.timeseries.com
 timeseries-services.timeseries.com
-timeseries.com
 to.timeseries.com
 ts-jenkins.timeseries.com
 tsg-alertmanager.timeseries.com
@@ -279,9 +278,6 @@ zdg-roster-planner-acceptance.timeseries.com
 zdg-roster-planner-production.timeseries.com
 zdg-roster-planner.timeseries.com
 zdg.timeseries.com
-schooltimeseries.com
-covidtimeseries.com
-thesmalltimeseries.com
 at.jku.anttracks.gui.frame.main.tab.heapevolution.tab.trendviz.tabs.timeseries.com
 pmo.timeseries.com
 ontology.timeseries.com
@@ -306,3 +302,10 @@ _workflow.timeseries.com
 std.timeseries.com
 aiokeydb.v1.commands.timeseries.com
 graph.life.income.timeseries.com
+smart-warehousing.timeseries.com
+props.timeseries.com
+smart-warehousing-accp.timeseries.com
+ckanext.timeseries.com
+valkey.commands.timeseries.com
+smart-warehousing-test.timeseries.com
+pf.timeseries.com

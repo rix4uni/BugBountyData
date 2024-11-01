@@ -85,7 +85,6 @@ clicks.vestiairecollective.com
 qc.backoffice.staging.vestiairecollective.com
 prim-api.vestiairecollective.com
 designsystem.vestiairecollective.com
-vestiairecollective.com
 tigate.vestiairecollective.com
 boapi-stagelab.vestiairecollective.com
 vulcain.staging.vestiairecollective.com
@@ -161,3 +160,5 @@ indexer.preprod.vestiairecollective.com
 es.staging.vestiairecollective.com
 *.vestiairecollective.com
 *.fenx.vestiairecollective.com
+api.docs.vestiairecollective.com
+chat-moderation.backoffice.vestiairecollective.com

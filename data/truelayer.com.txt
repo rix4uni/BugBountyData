@@ -130,7 +130,6 @@ test.mtls.truelayer.com
 thanos.truelayer.com
 transparency-calendar-api.truelayer.com
 truelayer-assets.truelayer.com
-truelayer.com
 truemonitor-admin.truelayer.com
 truemonitor-client-api.truelayer.com
 truemonitor.truelayer.com
@@ -172,3 +171,7 @@ test-api.klarna.mtls.truelayer.com
 truemonitor-api.truelayer.com
 vpn.truelayer.com
 prometheus-underlying.truelayer.com
+data-api-test.truelayer.com
+*.shopify.mtls.truelayer.com
+*.amazon-payments.mtls.truelayer.com
+*.klarna.mtls.truelayer.com

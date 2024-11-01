@@ -6,7 +6,6 @@ www.sv1.neurodiver.city
 mail.sv2.neurodiver.city
 www.neurodiver.city
 feedback.neurodiver.city
-neurodiver.city
 static.neurodiver.city
 cpanel.fs.neurodiver.city
 sv2.neurodiver.city
@@ -38,3 +37,4 @@ autodiscover.sv1.neurodiver.city
 webmail.sv2.neurodiver.city
 webmail.sv1.neurodiver.city
 *.fs.neurodiver.city
+*.neurodiver.city

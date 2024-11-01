@@ -922,7 +922,6 @@ liseran-staging.palantircloud.com
 beet-staging.palantircloud.com
 rosewood-policy.palantircloud.com
 brescia-mgmt.palantircloud.com
-palantircloud.com
 burgundy-sftp.palantircloud.com
 lapis.palantircloud.com
 lapis-training.palantircloud.com
@@ -1019,3 +1018,10 @@ lunate.palantircloud.com
 clavicle-containers.palantircloud.com
 mission-manager-dev-anthurium.palantircloud.com
 testing-bus-demo-meuse-dev.palantircloud.com
+dynamic-vargueno.palantircloud.com
+incus-compute.palantircloud.com
+containers-incus.palantircloud.com
+incus-container-registry.palantircloud.com
+incus-containers.palantircloud.com
+incus.palantircloud.com
+vpn-hyv1avslyqtp.palantircloud.com

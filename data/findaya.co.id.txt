@@ -103,7 +103,6 @@ api-ams-loanplatform.findaya.co.id
 api-aos-loanplatform.findaya.co.id
 app.gopaymodal.findaya.co.id
 payment.findaya.co.id
-findaya.co.id
 jari.findaya.co.id
 rancher.findaya.co.id
 vault.jari.findaya.co.id
@@ -5147,3 +5146,6 @@ gopaylater.findaya.co.id
 cashloans.findaya.co.id
 api-waf.staging.findaya.co.id
 app-waf.findaya.co.id
+email.notifications.findaya.co.id
+app-waf.staging.findaya.co.id
+api-waf.findaya.co.id

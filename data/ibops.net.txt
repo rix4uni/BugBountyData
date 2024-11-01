@@ -429,7 +429,6 @@ grpc.c10.cf.int.16.staging.ibops.net
 grpc.c10.forms.int.brand-1.staging.ibops.net
 grpc.intre.staging.ibops.net
 hw.voi.api.staging.ibops.net
-ibops.net
 iklanku-akali.api.staging.ibops.net
 isc.c5.useast1.staging.monolithstaging.staging.ibops.net
 j6.useast1.staging.monolithstaging.staging.ibops.net
@@ -483,10 +482,6 @@ www.ibops.net
 api.internal.k8s-sandbox.ibops.net
 api.k8s-sandbox-v2.ibops.net
 int2429692.lnk.telst-staging.ibops.net
-www.sibops.net
-sibops.net
-dibops.net
-www.dibops.net
 fwcm-alerts-cloudstation-us-west-2.ibops.net
 tracking.ibops.net
 poolstaging.monolith-staging.staging.ibops.net

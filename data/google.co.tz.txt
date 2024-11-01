@@ -32,7 +32,6 @@ payments.google.co.tz
 image.google.co.tz
 toolbar.google.co.tz
 www.video.google.co.tz
-google.co.tz
 ns1.google.co.tz
 consent.google.co.tz
 earth.google.co.tz
@@ -47,3 +46,4 @@ clients6.google.co.tz
 cse.google.co.tz
 ns2.google.co.tz
 translate.google.co.tz
+*.google.co.tz

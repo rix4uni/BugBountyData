@@ -1,2 +1,6 @@
 apfelbaum-ev.nextcloud.ibh.services
 dreb.nextcloud.ibh.services
+*.ibh.services
+mars02.grommunio.ibh.services
+smtp.grommunio.ibh.services
+mars01.grommunio.ibh.services

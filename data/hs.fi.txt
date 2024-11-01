@@ -36,7 +36,6 @@ hiilijalanjalki.hs.fi
 omakaupunki.hs.fi
 live.hs.fi
 mapps.hs.fi
-hs.fi
 arkisto.hs.fi
 asiakasposti.hs.fi
 phoenix.hs.fi
@@ -84,3 +83,5 @@ pakki.api.dev.datadesk.hs.fi
 asiakaspalvelu.hs.fi
 html.qa.hs.fi
 boa-test.hs.fi
+qa.arkku.datadesk.hs.fi
+html.test.hs.fi

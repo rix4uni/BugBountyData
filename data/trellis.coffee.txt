@@ -1,6 +1,5 @@
 sptrack.trellis.coffee
 tech.trellis.coffee
-trellis.coffee
 api-gateway.trellis.coffee
 www.api-gateway.trellis.coffee
 design.trellis.coffee

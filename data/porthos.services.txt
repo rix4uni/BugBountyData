@@ -3,7 +3,6 @@ deveu.nonprod.digitalbilling.porthos.services
 auth.core.porthos.services
 qa.nonprod.digitalbilling.porthos.services
 digitalkey.porthos.services
-porthos.services
 api.disrupt.porthos.services
 client-generator.core.porthos.services
 crl.pki.porthos.services

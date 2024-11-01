@@ -68,7 +68,6 @@ cmd.testshop.ratepay.com
 proxy.demoshop.ratepay.com
 collection.ratepay.com
 bitbucket-test.ratepay.com
-ratepay.com
 vpn2.ratepay.com
 mail.demoshop.ratepay.com
 seller.integration.aws.ratepay.com
@@ -115,3 +114,7 @@ hpp.demoshop.ratepay.com
 data.integration.aws.ratepay.com
 staging.aws.ratepay.com
 cora.ratepay.com
+wd-intern.sap.production.aws.ratepay.com
+rpawdpwd0.sap.production.aws.ratepay.com
+rpawdpvm001.sap.production.aws.ratepay.com
+wd.sap.production.aws.ratepay.com

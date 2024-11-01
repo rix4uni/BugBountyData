@@ -30,9 +30,10 @@ skelgen.phpunit.de
 git.phpunit.de
 sizepear.phpunit.de
 apidoc.phpunit.de
-phpunit.de
 foobar.phpunit.de
 www.phpunit.de
 www2.phpunit.de
 expectswww.phpunit.de
 *.phpunit.de
+ci.phpunit.de
+hostmaster.phpunit.de

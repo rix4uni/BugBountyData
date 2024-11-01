@@ -102,7 +102,6 @@ ib-zh4.orders.cert.zerohash.com
 www.orders.zerohash.com
 ubuntu.zerohash.com
 trade.zerohash.com
-zerohash.com
 api.zerohash.com
 sftp.zerohash.com
 camilletest2.cert.zerohash.com
@@ -110,3 +109,6 @@ camille2.cert.zerohash.com
 mta-sts.zerohash.com
 testwebsite.zerohash.com
 cc.api.zerohash.com
+*.entrypoint.cert.zerohash.com
+*.entrypoint.zerohash.com
+jmo-test.zerohash.com

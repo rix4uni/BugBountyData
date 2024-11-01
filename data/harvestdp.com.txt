@@ -101,7 +101,6 @@ piwik.au.harvestdp.com
 ballarat-budget-priorities.harvestdp.com
 api-export.ondemand.us.harvestdp.com
 form-preprod-au-test.bedrock.uat.harvestdp.com
-harvestdp.com
 wd-yoursay.pre-release.harvestdp.com
 form.ondemand.au.harvestdp.com
 gmwater-yoursay.auth.harvestdp.com
@@ -1954,3 +1953,8 @@ hdp-thehivedesign.cluster.ka1.prod.au.harvestdp.com
 iv-30year.cluster.prod.au.harvestdp.com
 nels-shape-uat-25-2.cluster.k1.preprod.au.harvestdp.com
 www.harvestdp.com.cluster.k1.preprod.au.harvestdp.com
+email.harvestdp.com
+dev.harvestdp.com
+hels-dialog.eu.app.harvestdp.com
+hels-dialog.app.harvestdp.com
+ausnet-communityhub.app.harvestdp.com

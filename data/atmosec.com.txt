@@ -50,7 +50,6 @@ prometheus.canada.atmosec.com
 alertmanager.eu.atmosec.com
 kbapi.dev2.atmosec.com
 mgmt.ofirisec.dev2.atmosec.com
-atmosec.com
 alertmanager.canada.atmosec.com
 api.dev.atmosec.com
 oauth2.dev.atmosec.com
@@ -180,3 +179,4 @@ prodeu.atmosec.com
 naorv2sec.dev2.atmosec.com
 eransec.dev2.atmosec.com
 matansec.dev2.atmosec.com
+atmosec.atmosec.com

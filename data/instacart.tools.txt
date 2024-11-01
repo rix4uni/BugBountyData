@@ -324,7 +324,6 @@ pbi-generic-test.dev.instacart.tools
 security-production.instacart.tools
 *.sandbox.instacart.tools
 *.instacart.tools
-instacart.tools
 *.kamino-test2.instacart.tools
 *.aws-657189893875.instacart.tools
 *.costcous.pbis-cf-dev.instacart.tools
@@ -414,3 +413,6 @@ vgs.payments.dev.instacart.tools
 care-training-admin-web-shoppers-shoppers.sandbox.instacart.tools
 _dmarc.instacart.tools
 inference-ui-algorithms.dev.instacart.tools
+pbis-cf.dev.instacart.tools
+logistics.sandbox.instacart.tools
+payments.dev.instacart.tools

@@ -1,4 +1,3 @@
-shopifycloud.com
 cdn.shopifycloud.com
 arrive-server.shopifycloud.com
 shopify-graphiql-app.shopifycloud.com
@@ -20130,3 +20129,18 @@ khosrow-certloader.khosrow.es-staging-us-ea1-rd1.elasticsearch.shopifycloud.com
 khosrow-certloader.secure-elasticsearch.khosrow.shopifycloud.com
 arrive-server.arrive-server-production.es-apps-a-us-ea1-yi1.splainer.shopifycloud.com
 *.dns.minerva-staging.shopifycloud.com
+gale-test.gale-test.es-apps-b-us-ce1-up2.elasticsearch.shopifycloud.com
+khosrow-certloader.es-4z6vb.shopifycloud.com
+khosrow-certloader.khosrow2.es-staging-us-ea1-rd1.elasticsearch.shopifycloud.com
+khosrow-certloader.secure-elasticsearch.khosrow2.shopifycloud.com
+5esc3.kibana.shopifycloud.com
+khosrow-certloader.khosrow2.es-staging-us-ea1-rd1.kibana.shopifycloud.com
+khosrow-certloader.kibana.khosrow2.shopifycloud.com
+*.attribution-streaming-pipeline.shopifycloud.com
+edith-test-9.es-r4bgg.shopifycloud.com
+edith-test-9.edith-test.es-staging-us-ce1-vs0.elasticsearch.shopifycloud.com
+edith-test-9.secure-elasticsearch.edith-test.shopifycloud.com
+*.server-pixels.shopifycloud.com
+r4cje.kibana.shopifycloud.com
+infra-central-search.infra-central-staging-unrestricted-sc81.es-apps-b-us-ce1-up2.kibana.shopifycloud.com
+infra-central-search.kibana.i0.staging-unrestricted-sc81.infra-central.shopifycloud.com

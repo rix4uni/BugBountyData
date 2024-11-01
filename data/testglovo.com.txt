@@ -1,4 +1,3 @@
-testglovo.com
 admin.couriers.testglovo.com
 embedded.couriers.testglovo.com
 kibana.testglovo.com
@@ -25,3 +24,7 @@ old.testglovo.com
 dev.sell.testglovo.com
 laaspartners.testglovo.com
 couriers.testglovo.com
+fleet.testglovo.com
+deliveryapp.testglovo.com
+auth.testglovo.com
+document-validation.couriers.testglovo.com

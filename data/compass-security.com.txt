@@ -150,7 +150,6 @@ blackout.compass-security.com
 e1.compass-security.com
 ns1.compass-security.com
 ns2.compass-security.com
-compass-security.com
 www.compass-security.com
 *.dfir.compass-security.com
 *.apps.compass-security.com
@@ -215,8 +214,6 @@ host-246-98.compass-security.com
 ns3.compass-security.com
 pheidippides.compass-security.com
 status.compass-security.com
-www.encompass-security.com
-encompass-security.com
 www.dfir.compass-security.com
 beta.compass-security.com
 sysadmin.compass-security.com

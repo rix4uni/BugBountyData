@@ -20,15 +20,9 @@ s3mobile-dev.blofin.com
 pre-prod.blofin.com
 s3test.blofin.com
 api.blofin.com
-blofin.com
 partner.blofin.com
 staging-admin.blofin.com
-claim-blofin.com
-www.claim-blofin.com
 *.blofin.com
-app-blofin.com
-wwwblofin.com
-*.wwwblofin.com
 beacon-log-server.blofin.com
 ws-private.blofin.com
 tempdev.blofin.com

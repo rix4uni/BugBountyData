@@ -538,7 +538,6 @@ yc.media-data-gcp-metastore-stg.gcp.yahoo.cloud
 ycpi.gcp.yahoo.cloud
 ycpi.ostk.yahoo.cloud
 go.yahoo.cloud
-yahoo.cloud
 amplus-ads-service.aspen-astra-dev.aws.yahoo.cloud
 campaign-service.aspen-astra-perf.aws.yahoo.cloud
 campaign-service.aspen-astra-stage.aws.yahoo.cloud

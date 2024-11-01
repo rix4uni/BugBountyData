@@ -1709,7 +1709,6 @@ rbsaatr2v.standardbank.co.za
 rbsaweb1v.standardbank.co.za
 rbsaweb2v.standardbank.co.za
 wss-fuel-uat.standardbank.co.za
-standardbank.co.za
 *.signinghub.standardbank.co.za
 apicentral.standardbank.co.za
 chat-v2-reach.standardbank.co.za
@@ -1772,3 +1771,6 @@ onboarding-staging.standardbank.co.za
 snapscan-staging.standardbank.co.za
 my360-mfe.standardbank.co.za
 nebulous.standardbank.co.za
+sit-lotto-mfe.standardbank.co.za
+merchantsignup.standardbank.co.za
+businessbankinguat.standardbank.co.za

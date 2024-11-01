@@ -1,7 +1,6 @@
 showroom-iast-call.novomind.cloud
 mc26.novomind.cloud
 allv-test.novomind.cloud
-novomind.cloud
 aohostels-test.novomind.cloud
 ele-prod.novomind.cloud
 iagent-callcomponents-preview.novomind.cloud
@@ -184,3 +183,12 @@ dachser-prod.novomind.cloud
 grube-test-call.novomind.cloud
 showroom-mssql.novomind.cloud
 op42.novomind.cloud
+kfw-abnahme.novomind.cloud
+kfw-test.novomind.cloud
+kfw-test-help.novomind.cloud
+kfw-abnahme-help.novomind.cloud
+kfw-prod-help.novomind.cloud
+kfw-prod-call.novomind.cloud
+kfw-abnahme-call.novomind.cloud
+kfw-test-call.novomind.cloud
+kfw-prod.novomind.cloud

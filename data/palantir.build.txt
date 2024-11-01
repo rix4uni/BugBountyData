@@ -451,7 +451,6 @@ webhooks.circle-127.staging.palantir.build
 webhooks.circle-dr.staging.palantir.build
 www.rtfm.palantir.build
 zalando.docker.palantir.build
-palantir.build
 autorelease.bots.palantir.build
 users.noreply.github.palantir.build
 com.palantir.build
@@ -464,3 +463,4 @@ gomod.palantir.build
 *.cgr.docker.palantir.build
 *.us-gov-west-1.external.staging.palantir.build
 cgr.docker.palantir.build
+*.us-west-1.coder.staging.palantir.build

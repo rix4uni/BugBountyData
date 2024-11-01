@@ -1,4 +1,3 @@
-szkb.ch
 wwwsec.szkb.ch
 *.szkb.ch
 *.xm.szkb.ch
@@ -138,3 +137,6 @@ twint-api-test.szkb.ch
 twint-iam-test.szkb.ch
 twint-int-test.szkb.ch
 twint-api-prod.szkb.ch
+panorama.szkb.ch
+kampagne.szkb.ch
+wsec.szkb.ch

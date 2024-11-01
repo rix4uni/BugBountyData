@@ -31,7 +31,6 @@ search-test.grindr.mobi
 profile-service.grindr.mobi
 account-service.grindr.mobi
 profile.grindr.mobi
-grindr.mobi
 *.grindr.mobi
 _dmarc.grindr.mobi
 boost-service.grindr.mobi

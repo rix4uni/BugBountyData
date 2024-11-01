@@ -13,7 +13,6 @@ blog.alan.com
 acceptance-zt.alan.com
 eb-be-demo.alan.com
 waitlist.alan.com
-alan.com
 shop.alan.com
 love.alan.com
 website.alan.com
@@ -296,3 +295,6 @@ murray-doc.alan.com
 marmot-api-acceptance.alan.com
 test-david.alan.com
 test-david-prod.alan.com
+datocms-graphql-proxy.alan.com
+datocms-graphql-proxy-prod.alan.com
+website-demo-pages.alan.com

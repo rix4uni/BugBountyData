@@ -10,7 +10,6 @@ api.wondery.com
 mp.wondery.com
 _dmarc.wondery.com
 advertising.wondery.com
-wondery.com
 staging.wondery.com
 www.advertising.wondery.com
 map.wondery.com
@@ -54,8 +53,6 @@ develop-content.wondery.com
 help.wondery.com
 s1.wondery.com
 admin.wondery.com
-discoverthewondery.com
-shopwondery.com
-amazonmusicwondery.com
 patrickdev.wondery.com
 www-dev.wondery.com
+*.wondery.com

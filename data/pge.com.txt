@@ -20562,7 +20562,6 @@ host1441.pge.com
 host15365.pge.com
 host163188.pge.com
 host16348.pge.com
-pge.com
 host139157.pge.com
 host139194.pge.com
 host153138.pge.com
@@ -20840,3 +20839,11 @@ engage-queries-prod.dc.pge.com
 engage-graph-1024.prod.dc.pge.com
 api-ext01.ss.pge.com
 engagetest-queries-predev.nonprod.pge.com
+esapviewer-dev.nonprod.pge.com
+esap-dev.nonprod.pge.com
+*.jfrogtf.nonprod.pge.com
+api-ch-ext-dev.nonprod.pge.com
+oeis-dev-s3.nonprod.pge.com
+stac.ss.pge.com
+ei79c67tk8.internal.us-west-2.ss.pge.com
+stacapi.ss.pge.com

@@ -118,7 +118,6 @@ resources-integration.sentiance.com
 resources.sentiance.com
 rocinante.b.sentiance.com
 sac.sentiance.com
-sentiance.com
 sentient.sentiance.com
 serenity.b.sentiance.com
 shared.sentiance.com
@@ -601,7 +600,6 @@ administrator--3-4.sentiance.com
 35b4-6ljxb93366z2l0zc4w1s1k406.sentiance.com
 21l0besoshxc25-knbghk75i4x09pqm.sentiance.com
 6v63-zq9vcyfh8-pxf4xo8lomj560ao.sentiance.com
-91sentiance.com
 beta5-0-8.sentiance.com
 2mzfn8i6ddnj8y18payhwzeche-plfu.sentiance.com
 8-aq5df3wd7xuhvvr15iw7uz-4w4qx.sentiance.com
@@ -2606,7 +2604,6 @@ iaz2calb288us9h8ihn264ok30z75.sentiance.com
 5nmard5cqhtf-wsnqricbp33ktinuai.sentiance.com
 a6rbco51o8keirm9fdipf8y4uap4ie1.sentiance.com
 1rge2qf7dcimljk-zf-3ky6z424qwm4.sentiance.com
-devsentiance.com
 90nr3y0jdgn09b5mb76sedn8lsineqh.sentiance.com
 08ob7rltebor5xdtr1crdrqlkbmvzj2.sentiance.com
 76jp-b3tj2mskcnatnloft2cvu9wtsb.sentiance.com
@@ -5186,3 +5183,17 @@ http.api.sentiance.com
 http.r10.sentiance.com
 http.track.sentiance.com
 http.api.h11.sentiance.com
+-corp.sentiance.com
+http.www.journeys-api.sentiance.com
+http.www.mtls-api.h11.sentiance.com
+tiles.i14.sentiance.com
+http.www.sentiance.com
+http.www.firehose.sentiance.com
+http.www.firehose.p9.sentiance.com
+http.www.journeysbe.sentiance.com
+http.www.preprod-firehose-sink.sentiance.com
+firehose-sink.i14.sentiance.com
+http.www.journeys-preprod-api.sentiance.com
+http.www.preprod-firehose.sentiance.com
+http.www.firehose.h11.sentiance.com
+http.www.staging3.sentiance.com

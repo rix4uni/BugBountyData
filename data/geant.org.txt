@@ -583,7 +583,6 @@ net-alarms-monitoring.geant.org
 relay-prod.geant.org
 san-102.geant.org
 eduidhu.testbed.oidcfed.incubator.geant.org
-geant.org
 dev.design.geant.org
 ems.geant.org
 san-236.geant.org
@@ -2403,3 +2402,18 @@ prod-sensu01.geant.org
 test-neteamserver-01.geant.org
 tts-dashboard.geant.org
 uat-gso-02.gap.geant.org
+cds.test-int.geant.org
+test-cds.geant.org
+cds.uat-int.geant.org
+uat-cds.geant.org
+lon2-uat-eduvpn01.geant.org
+media.edumeet.geant.org
+swd.geant.org
+pop-uat-eduvpn01.geant.org
+oxi-virt-1.test.nmaas.geant.org
+pro-virt-1.test.nmaas.geant.org
+lib-virt-1.test.nmaas.geant.org
+ams-uat-eduvpn01.geant.org
+ltc.turn.geant.org
+gra-virt-1.test.nmaas.geant.org
+maes1.incubator.geant.org

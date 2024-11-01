@@ -2,7 +2,6 @@ mx01.virtit.fr
 vw.virtit.fr
 cloud.virtit.fr
 ipv4.virtit.fr
-virtit.fr
 autoconfig.virtit.fr
 mta-sts.virtit.fr
 ip.virtit.fr
@@ -20,3 +19,16 @@ tvpc.virtit.fr
 mon01.virtit.fr
 git.virtit.fr
 imap.virtit.fr
+ns01.virtit.fr
+ns02.virtit.fr
+ipv6.virtit.fr
+www.virtit.fr
+rvpn.virtit.fr
+cvpn.virtit.fr
+owncloud.virtit.fr
+pfsense.virtit.fr
+vps.virtit.fr
+rt.virtit.fr
+kw.virtit.fr
+pve.virtit.fr
+maquette.virtit.fr

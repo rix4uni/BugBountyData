@@ -58,7 +58,6 @@ meta-refresh-internal-testing.hunter.io
 extension-api.hunter.io
 webstats.hunter.io
 ip.hunter.io
-hunter.io
 company-logo.hunter.io
 psthg.hunter.io
 article-extraction-internal.hunter.io
@@ -78,3 +77,4 @@ f7885a33-159a-47cf-bb99-4eb065d71a9b.internal.hunter.io
 www.blog.hunter.io
 postgres-master.internal.hunter.io
 affiliate-resources.hunter.io
+*.hunter.io

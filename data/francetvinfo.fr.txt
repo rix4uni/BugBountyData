@@ -13,7 +13,6 @@ geopolis.francetvinfo.fr
 la1ere.francetvinfo.fr
 pictures.live.francetvinfo.fr
 res.nl.francetvinfo.fr
-francetvinfo.fr
 api-front.edito.regions.francetvinfo.fr
 sources.live.francetvinfo.fr
 municipaly.francetvinfo.fr
@@ -83,3 +82,7 @@ nl.francetvinfo.fr
 live.francetvinfo.fr
 notifier.live.francetvinfo.fr
 api-front.live.francetvinfo.fr
+api-back.regions.francetvinfo.fr
+api-back.sport.francetvinfo.fr
+api-back.franceinfo.francetvinfo.fr
+api-back.outremer.francetvinfo.fr

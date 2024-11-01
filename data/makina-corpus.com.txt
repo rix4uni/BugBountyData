@@ -1,4 +1,3 @@
-makina-corpus.com
 mail3.makina-corpus.com
 municipalesgrenoble2014.makina-corpus.com
 municipalesnantes2014.makina-corpus.com
@@ -55,3 +54,5 @@ spf.makina-corpus.com
 pre.makina-corpus.com
 ns2.makina-corpus.com
 alt-mailman.makina-corpus.com
+*.antispam.makina-corpus.com
+*.makina-corpus.com

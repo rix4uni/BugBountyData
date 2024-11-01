@@ -11,7 +11,6 @@ esignature-sit.bankofmelbourne.com.au
 ciam.bankofmelbourne.com.au
 e2eibank-ext.bankofmelbourne.com.au
 sit02.www.privatebank.bankofmelbourne.com.au
-bankofmelbourne.com.au
 dev01.www.bankofmelbourne.com.au
 image.e.bankofmelbourne.com.au
 test.statements.view.bankofmelbourne.com.au
@@ -316,3 +315,5 @@ www.advicereferral.bankofmelbourne.com.au
 advicereferral.bankofmelbourne.com.au
 dev.digital-api.bankofmelbourne.com.au
 bbosit1.bankofmelbourne.com.au
+www.privatebank.bankofmelbourne.com.au
+e.bankofmelbourne.com.au

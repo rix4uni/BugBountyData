@@ -42,7 +42,6 @@ rus.kinorium.com
 barracuda.kinorium.com
 beef.kinorium.com
 m.kinorium.com
-kinorium.com
 img.kinorium.com
 sekta.kinorium.com
 en.kinorium.com
@@ -64,3 +63,4 @@ ua.kinorium.com
 ua.m.kinorium.com
 m.arms-dev.kinorium.com
 api.kinorium.com
+*.kinorium.com

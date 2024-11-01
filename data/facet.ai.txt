@@ -16,7 +16,6 @@ backend-prod.facet.ai
 auth.dev.facet.ai
 staging.facet.ai
 auth.staging.facet.ai
-facet.ai
 dev-blank.facet.ai
 app-prod.facet.ai
 auth.app-test.facet.ai

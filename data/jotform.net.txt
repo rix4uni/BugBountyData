@@ -5,7 +5,6 @@ turk.jotform.net
 italian.jotform.net
 ying.jotform.net
 max.jotform.net
-jotform.net
 portuguese.jotform.net
 www.jotform.net
 integration-tests.jotform.net
@@ -15,3 +14,7 @@ spanish.jotform.net
 submit.jotform.net
 support.jotform.net
 v2.jotform.net
+*.jotform.net
+newsletter.jotform.net
+www.submit.jotform.net
+www.secure.jotform.net

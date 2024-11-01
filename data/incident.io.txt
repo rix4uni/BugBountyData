@@ -1,4 +1,5 @@
-incident.io
 *.incident.io
 app.staging.incident.io
 api.staging.incident.io
+api-docs.incident.io
+www.incident.io

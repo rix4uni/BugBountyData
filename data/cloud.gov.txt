@@ -5654,7 +5654,6 @@ _tls.account.fr.cloud.gov
 _tls.ci.fr.cloud.gov
 b2baqa.app.cloud.gov
 banana-fs-intake-staging.app.cloud.gov
-cloud.gov
 srt-server-dev.app.cloud.gov
 pfabankfindui-d.app.cloud.gov
 _cisco-uds.opslogin.fr.cloud.gov
@@ -6959,7 +6958,6 @@ edb-test-27191.staging.cloud-gov-test-domain-0.com.external-domains-staging.clou
 logs.fr.dashboard.fr.cloud.gov
 fmdb.ynr9ed-dev.nimbus.cloud.gov
 edb-test-15085.production.cloud-gov-test-domain-2.com.external-domains-production.cloud.gov
-usdoscloud.gov
 gov.external-domains-production.cloud.gov
 fdic.gov.external-domains-production.cloud.gov
 usa.gov.external-domains-production.cloud.gov

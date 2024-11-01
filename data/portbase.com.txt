@@ -6,3 +6,14 @@ rdm.pcs.portbase.com
 rdm.kt.portbase.com
 go.portbase.com
 messaging-service.kt.portbase.com
+localclearance.pcs.portbase.com
+inspectionportal.accept.portbase.com
+localclearance.accept.portbase.com
+inspectionportal.pcs.portbase.com
+developer.portbase.com
+refdata-sync.accept.portbase.com
+refdata-sync.stc.portbase.com
+refdata-sync.kt.portbase.com
+refdata-sync.sc.portbase.com
+api.internal.cargo-controller-export.accept.portbase.com
+cargo-controller-export.accept.portbase.com

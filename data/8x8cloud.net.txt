@@ -111,7 +111,6 @@ platform-nonprod.aws.infra8.8x8cloud.net
 platform.aws.infra8.8x8cloud.net
 ops-staging.oci.infra8.8x8cloud.net
 cloud8-dev.aws.infra8.8x8cloud.net
-8x8cloud.net
 elc-rest-zipkin-acc-debug-tools-env-a-ca-toronto-1.analytics-production.oci.infra8.8x8cloud.net
 argocd-opsprodyyz-ca-toronto-1.ops-production.oci.infra8.8x8cloud.net
 kibana-elc-acc-elastic-cc-cdr-env-a-ca-toronto-1.analytics-production.oci.infra8.8x8cloud.net

@@ -1,0 +1,10 @@
+classification.de.forescout.cloud
+dapi-query.de.forescout.cloud
+datalake.de.forescout.cloud
+app.de.forescout.cloud
+dapi-ingest.de.forescout.cloud
+mgmt-sensors.de.forescout.cloud
+mgmtpod-1.de.forescout.cloud
+streaming-api.de.forescout.cloud
+tls-pulsar.de.forescout.cloud
+obs-sensors.de.forescout.cloud

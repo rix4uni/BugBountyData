@@ -7,3 +7,13 @@ byoc.kubesail.com
 platform-watch.kubesail.com
 wss.kubesail.com
 registry.kubesail.com
+cambrian.ops.kubesail.com
+kibana.ops.kubesail.com
+docs.kubesail.com
+mirror.kubesail.com
+grafana.ops.kubesail.com
+ops.kubesail.com
+ci-registry.kubesail.com
+ci-images.kubesail.com
+ci.kubesail.com
+usw1.kubesail.com

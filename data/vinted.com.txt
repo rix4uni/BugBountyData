@@ -134,3 +134,7 @@ press-center-static.vinted.com
 *.int.vinted.com
 *.ingress.infra1.k8s.vinted.com
 *.ingress.prod2.k8s.vinted.com
+rum-collector.svc.vinted.com
+careers.vinted.com
+www.vinted.com
+metrics-gateway.svc.vinted.com

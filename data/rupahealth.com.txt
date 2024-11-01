@@ -21,6 +21,6 @@ automations.rupahealth.com
 api-sandbox.rupahealth.com
 labs-sandbox.rupahealth.com
 blog.rupahealth.com
-rupahealth.com
 help.rupahealth.com
 sandbox-cdn.rupahealth.com
+*.rupahealth.com

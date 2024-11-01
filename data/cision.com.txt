@@ -1,4 +1,3 @@
-cision.com
 www1.cision.com
 www.cision.com
 ucp-dev-ftp.gcplb.cision.com
@@ -7,3 +6,8 @@ ucp-dev-ftp.gcplb.cision.com
 frankfurtnews.cision.com
 ptsystems.cision.com
 por-prod-001.gcplb.cision.com
+*.int.cision.com
+*.dev-usa-gke-soc2.int.cision.com
+*.qa-usa-gke-soc2.int.cision.com
+k8s-stack-test-app-dev-ssvcs-usa.int.cision.com
+k8s-stack-test-app-prod-ssvcs-usa.int.cision.com

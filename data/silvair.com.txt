@@ -45,7 +45,6 @@ pl.silvair.com
 apps.silvair.com
 log.silvair.com
 www.pl.silvair.com
-silvair.com
 logic.silvair.com
 www.ebook2.silvair.com
 ie.logic.silvair.com
@@ -56,3 +55,4 @@ blog.silvair.com
 au.logic.silvair.com
 bluetoothmesh.silvair.com
 us.logic.silvair.com
+*.platform-prod.silvair.com

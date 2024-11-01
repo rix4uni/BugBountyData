@@ -174,7 +174,6 @@ vault.svc-stg.k8s.tvlk-data.com
 vault.svc.k8s.tvlk-data.com
 tracking-tvlkapi.tvlk-data.com
 sso-grafana.tvlk-data.com
-tvlk-data.com
 feabtest-stg.tvlk-data.com
 feabtest.tvlk-data.com
 tpayapi.tvlk-data.com

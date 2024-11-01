@@ -1,4 +1,3 @@
-lanternpay.com
 test.lanternpay.com
 api.medicare.plat-qa.test.lanternpay.com
 providers.api.paramstore.test.lanternpay.com
@@ -478,3 +477,4 @@ api.providers.performance.lanternpay.com
 api.ndia.integration.test.lanternpay.com
 aces-signalr-uat.test.lanternpay.com
 api.signalrcore.plat-qa.test.lanternpay.com
+api.reportingplatform2.plat-qa.test.lanternpay.com

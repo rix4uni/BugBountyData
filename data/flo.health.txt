@@ -32,3 +32,8 @@ auth.test.flo.health
 tms.flo.health
 bundled.scalajs.workers.flo.health
 *.flo.health
+t.flo.health
+tr.flo.health
+t.test.flo.health
+t.staging.flo.health
+www.careers.flo.health

@@ -13,7 +13,6 @@ info.hyperscience.com
 zendesk1.hyperscience.com
 scimbridge.hyperscience.com
 dm.i.hyperscience.com
-hyperscience.com
 esc-343.master.hyperscience.com
 security.hyperscience.com
 keyers-test.master.hyperscience.com
@@ -64,3 +63,6 @@ esc-267.master.hyperscience.com
 testing.hyperscience.com
 gitlab.int.hyperscience.com
 testing-ecs.master.hyperscience.com
+cs5.production.hyperscience.com
+email.hyperscience.com
+help.hyperscience.com

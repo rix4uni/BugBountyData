@@ -6,3 +6,5 @@ theme.msg.bg
 self.colors.msg.bg
 mc.msg.bg
 data.msg.bg
+skin.msg.bg
+qboot.resume.dtcp.msg.bg

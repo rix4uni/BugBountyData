@@ -2,7 +2,6 @@ connect.tanzu.vmware.com
 dev.registry.tanzu.vmware.com
 buildpack-dependencies.tanzu.vmware.com
 www.registry.tanzu.vmware.com
-tanzu.vmware.com
 registry.tanzu.vmware.com
 www.dev.registry.tanzu.vmware.com
 dev.registry-acceptance.tanzu.vmware.com

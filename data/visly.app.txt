@@ -4,7 +4,6 @@ auth.visly.app
 editor.beta.visly.app
 api.beta.visly.app
 db.connect.visly.app
-visly.app
 state.visly.app
 super.visly.app
 github.beta.visly.app

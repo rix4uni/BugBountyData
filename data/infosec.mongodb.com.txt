@@ -1,7 +1,6 @@
 atlantis.sandbox.infosec.mongodb.com
 atlantis.security.sandbox.infosec.mongodb.com
 bitwarden.infosec.mongodb.com
-help-infosec.mongodb.com
 lab.sandbox.infosec.mongodb.com
 m01-graylog.infosec.mongodb.com
 m01-graylogging.infosec.mongodb.com
@@ -14,13 +13,3 @@ splunkdev.infosec.mongodb.com
 helm.staging.infosec.mongodb.com
 intercom.staging.infosec.mongodb.com
 staging.infosec.mongodb.com
-infosec.mongodb.com
-engineering-infosec.mongodb.com
-huluops-infosec.mongodb.com
-ftp1-infosec.mongodb.com
-decouvrezinfosec.mongodb.com
-000003ie9-infosec.mongodb.com
-jaegerinfosec.mongodb.com
-sslinfosec.mongodb.com
-support-manager-infosec.mongodb.com
-bazel-telemetryinfosec.mongodb.com

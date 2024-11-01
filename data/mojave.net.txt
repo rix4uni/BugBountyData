@@ -21,7 +21,6 @@ support.mojave.net
 vpn-corp.mojave.net
 windows-relay-proxy-cloud-sophos.mojave.net
 www.mojave.net
-mojave.net
 staging.mojave.net
 gateway-proxy-cloud-sophos-uk.mojave.net
 me.mojave.net
@@ -29,10 +28,6 @@ hostmaster.mojave.net
 int.mojave.net
 gwy-p.mojave.net
 connect.mojave.net
-eastmojave.net
-ftmojave.net
-cafemojave.net
-speedtest.ftmojave.net
 zookeeper-proxy-cloud-sophos-uk.mojave.net
 dev.int.mojave.net
 scep-dev.mojave.net

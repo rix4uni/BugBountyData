@@ -3619,7 +3619,6 @@ dlt-devicelogs.dattobackup.com
 www.dattobackup.com
 academy.dattobackup.com
 ntp.dattobackup.com
-dattobackup.com
 partner.dattobackup.com
 downloads.dattobackup.com
 use1-downloads.dattobackup.com
@@ -10549,3 +10548,5 @@ server5141.dattobackup.com
 110.130.147.136.dattobackup.com
 64.122.130.104.dattobackup.com
 *.device.dattobackup.com
+testdevice.dattobackup.com
+*.testdevice.dattobackup.com

@@ -2,7 +2,6 @@ beacon.bake.io
 status.bake.io
 assets.bake.io
 app.bake.io
-bake.io
 eth-beacons.bake.io
 cdt.bake.io
 api.bake.io
@@ -15,3 +14,5 @@ ssgtm.bake.io
 tableau.bake.io
 trust.bake.io
 merkle.bake.io
+*.cdt.bake.io
+*.bake.io

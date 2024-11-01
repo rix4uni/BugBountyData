@@ -3,7 +3,6 @@ account.recombee.com
 client-rapi-mediavine.recombee.com
 client-rapi-ca-east.recombee.com
 client-rapi-cnc.recombee.com
-recombee.com
 client-rapi-ap-se.recombee.com
 client-rapi-cnn.recombee.com
 admin.recombee.com
@@ -12,3 +11,7 @@ client-rapi-eu-west.recombee.com
 client-rapi.recombee.com
 client-rapi-au.recombee.com
 measure.recombee.com
+rapi.recombee.com
+client-rapi-us-west.recombee.com
+docs.recombee.com
+lemlist.recombee.com

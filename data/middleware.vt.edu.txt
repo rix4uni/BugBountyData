@@ -9,7 +9,6 @@ w.middleware.vt.edu
 apps-pprd.middleware.vt.edu
 apps.middleware.vt.edu
 webapps.middleware.vt.edu
-middleware.vt.edu
 login.middleware.vt.edu
 cas-dev.middleware.vt.edu
 www.middleware.vt.edu

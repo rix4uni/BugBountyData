@@ -1,6 +1,3 @@
-sbb.ch
-100fuersbb.ch
-vhsbb.ch
 company.sbb.ch
 mct.sbb.ch
 reporting.sbb.ch
@@ -13,7 +10,6 @@ ext.sbb.ch
 news.sbb.ch
 stories.sbb.ch
 m.sbb.ch
-srp-psbb.ch
 sbbcffffs-community.sbb.ch
 freizeit.sbb.ch
 travel.sbb.ch
@@ -26,7 +22,6 @@ kundenstimme.sbb.ch
 bahninfrastruktur.sbb.ch
 wifi.sbb.ch
 lostandfound.sbb.ch
-livebandsbb.ch
 gepaeckshop.sbb.ch
 leisure1.sbb.ch
 business.sbb.ch
@@ -104,7 +99,6 @@ xmlfahrplan.sbb.ch
 ucc1wc.sbb.ch
 leatsync.sbb.ch
 bps01t.dev-beta.sbb.ch
-offers-backend.int-sbb.ch
 log.mud.sbb.ch
 workplace.info.sbb.ch
 zoon.sbb.ch
@@ -219,7 +213,6 @@ reisebegleitung.vnext.sbb.ch
 ftps-intern.sbb.ch
 repo-ext.sbb.ch
 cld.sbb.ch
-ic.int-sbb.ch
 tms-int.sbb.ch
 apps.control01p.otc.sbb.ch
 solrmaster.sbb.ch
@@ -453,11 +446,9 @@ sbb-projekte.sbb.ch
 leapulldatafleet.sbb.ch
 wvbbrz0254.sbb.ch
 notfallstab.sbb.ch
-test-sbb.ch
 test-micro.sbb.ch
 lpn-test.sbb.ch
 appsi.sbb.ch
-fintest-ir.int-sbb.ch
 dmserd01.sbb.ch
 gtech-betriebscockpit.sbb.ch
 mail.sbb.ch
@@ -528,7 +519,6 @@ sbbmail2.sbb.ch
 capre-intp.app.obelix.otc.sbb.ch
 test-mmysites.sbb.ch
 ilwp-otc1-p01.sbb.ch
-oevgov.int-sbb.ch
 rpn-test.sbb.ch
 embed.sbb.ch
 ssp.sbb.ch
@@ -541,7 +531,6 @@ polarion-coordinator-t.sbb.ch
 wvbbrz0222.sbb.ch
 miku-int.sbb.ch
 apu-p-qgate4-i.sbb.ch
-oevgov-ec.int-sbb.ch
 touri-test-ws.sbb.ch
 lidir-int.sbb.ch
 i90256.sbb.ch
@@ -791,7 +780,6 @@ api-logging-dev.sbb.ch
 smsalarm.sbb.ch
 eavanti-test.sbb.ch
 cs16reprd01.sbb.ch
-snapshot-sbb.ch
 plan.sbb.ch
 biv-zvl-25042022.event.sbb.ch
 fglm-int.sbb.ch
@@ -911,7 +899,6 @@ prod-smo2.sbb.ch
 conseilvideo.sbb.ch
 mobileproxy.sbb.ch
 qmatic.sbb.ch
-oevgov-ir.int-sbb.ch
 kompetenzcheck-dev.app.sbb.ch
 festtagskarte-deve.sbb.ch
 dmstbe01.sbb.ch
@@ -1045,7 +1032,6 @@ ictskills.app.sbb.ch
 apimi.sbb.ch
 prod-sbc-gw1.sbb.ch
 fs.sbb.ch
-graphql.int-sbb.ch
 ci-ios-t.sbb.ch
 sapdms-deve.sbb.ch
 sappo2-ws.sbb.ch
@@ -1097,7 +1083,6 @@ webshop.sbb.ch
 rgs-lic-entw.sbb.ch
 offers-backend.dev-beta.sbb.ch
 dev-preview-infoportal.sbb.ch
-offers-backend.dev-sbb.ch
 mct.int.sbb.ch
 scheduler-v.sbb.ch
 klesytest.sbb.ch
@@ -1146,7 +1131,6 @@ wzuself.sbb.ch
 pulsetest.sbb.ch
 mediacenter-intranet.sbb.ch
 lisaprod.sbb.ch
-fintest-ec.int-sbb.ch
 next-reporting.sbb.ch
 nmd-static-websites-alias.app.sbb.ch
 ato-ts-tcp-poc.app.sbb.ch
@@ -1236,7 +1220,6 @@ bkprod.sbb.ch
 i90231.sbb.ch
 orariocargo-alias.app.sbb.ch
 gtech-betriebscockpit-test.sbb.ch
-ec.int-sbb.ch
 asset-alias.app.sbb.ch
 splunk-mobile-ws.sbb.ch
 gtech-translate-dev.sbb.ch
@@ -1315,7 +1298,6 @@ lohn-int.sbb.ch
 sbbmail-int.sbb.ch
 dmsintscs.sbb.ch
 dev.bin-ext.sbb.ch
-fintest-ic.int-sbb.ch
 confluence-ext.sbb.ch
 caros.sbb.ch
 lisaint.sbb.ch
@@ -1343,7 +1325,6 @@ fvpvoev.sbb.ch
 booking.sbb.ch
 ihpt.sbb.ch
 rsu.sbb.ch
-graphql.dev-sbb.ch
 authentication.sbb.ch
 webmail.sbb.ch
 cs16fesb02.sbb.ch
@@ -1378,7 +1359,6 @@ sbbmailint.sbb.ch
 designsystems.app.sbb.ch
 sso-inactive.sbb.ch
 supplierstest.sbb.ch
-origin.int-sbb.ch
 test1.event.sbb.ch
 test-logstash-wez-iwaf-test.sbb.ch
 lidir.sbb.ch
@@ -1408,7 +1388,6 @@ dmsife03.sbb.ch
 hop-kern.sbb.ch
 int-citrix.sbb.ch
 gdi-otc.sbb.ch
-plusistic2023.dev-sbb.ch
 ea-license.sbb.ch
 login.mud.sbb.ch
 capre-test.sbb.ch
@@ -1445,7 +1424,6 @@ lidir-testext.sbb.ch
 signaletik-test.sbb.ch
 dms-sb16.sbb.ch
 betriebsreport-test.sbb.ch
-edu-sbb.ch
 digicheck-test.sbb.ch
 cs16betst01.sbb.ch
 ssovpn.sbb.ch
@@ -1525,7 +1503,6 @@ hubarray.sbb.ch
 sapnp100.sbb.ch
 issues-ext-t.sbb.ch
 rgs-appl-prod-fr.sbb.ch
-int-sbb.ch
 tms-mob-prod02-public.sbb.ch
 fix.sbb.ch
 1.oca.sbb.ch
@@ -1608,7 +1585,6 @@ zol-sgd-02.sbb.ch
 wvbbrz0007.sbb.ch
 int-analytics.sbb.ch
 lscmeeting.event.sbb.ch
-lockersistic2023.dev-sbb.ch
 austausch-buspartner.event.sbb.ch
 tpomob-t.sbb.ch
 deploy.sbb.ch
@@ -1619,7 +1595,6 @@ f2.sbb.ch
 kmsp-test.sbb.ch
 test-mysites.sbb.ch
 int-company.sbb.ch
-graphql.test-sbb.ch
 horairecargo-alias.app.sbb.ch
 swisspassparking-aboapp-int.sbb.ch
 mi.sbb.ch
@@ -1674,7 +1649,6 @@ mrprod.sbb.ch
 prosec-bm-be-edu.sbb.ch
 personenortung.sbb.ch
 leapushdata.sbb.ch
-logistic2023.dev-sbb.ch
 wzuself-i.sbb.ch
 i87497.sbb.ch
 rgs-lic-prod-it.sbb.ch
@@ -1851,7 +1825,6 @@ oob.sbb.ch
 scheduler-i.sbb.ch
 int-rd-video.mud.sbb.ch
 cs16feprd02.sbb.ch
-dev-sbb.ch
 cs16feint02.sbb.ch
 timetablei.sbb.ch
 ictskills.sbb.ch
@@ -1888,7 +1861,6 @@ bvt-dev.sbb.ch
 dfamobile-test.sbb.ch
 shop-ext-i.dev-beta.sbb.ch
 dex.sbb.ch
-stabil-sbb.ch
 itzappint.sbb.ch
 itsmbm12.sbb.ch
 next-schulzug.sbb.ch
@@ -1902,7 +1874,6 @@ mii.sbb.ch
 test-etest.sbb.ch
 linkpage-int.sbb.ch
 i68939.sbb.ch
-feature-fintest.int-sbb.ch
 b2pe.sbb.ch
 smtpout.sbb.ch
 wvbbrz0252.sbb.ch
@@ -1978,7 +1949,6 @@ metermaid-alias.app.sbb.ch
 webdav.dfamobile-test.sbb.ch
 wartefristen-int.sbb.ch
 freizeit7.sbb.ch
-offers-backend.test-sbb.ch
 ipimos12.sbb.ch
 test-orig-beta.sbb.ch
 lohn-dev.sbb.ch
@@ -2009,7 +1979,6 @@ mud.sbb.ch
 nap.sbb.ch
 nap-nonprod.awslz.sbb.ch
 offers-backend.test-beta.sbb.ch
-pre-sbb.ch
 prod.devapp.sbb.ch
 selfsigned-test.devapp.sbb.ch
 test.devapp.sbb.ch
@@ -3097,7 +3066,6 @@ instandhaltung1.event.sbb.ch
 instandhaltungsanlass.event.sbb.ch
 int-appvpn.sbb.ch
 int-assets.insa.sbb.ch
-int-business-sbb.ch
 int-gp-alwayson.sbb.ch
 int-gp-mac.sbb.ch
 int-gp-mobile.sbb.ch
@@ -3133,7 +3101,6 @@ ipv-int.sbb.ch
 ipv-test.sbb.ch
 iqwdgxhl.event.sbb.ch
 iqxuqaxe.event.sbb.ch
-ir.int-sbb.ch
 irpk230524.event.sbb.ch
 iservice.sbb.ch
 iveg-dev.sbb.ch
@@ -3399,7 +3366,6 @@ oajvklhj.event.sbb.ch
 oberriet.event.sbb.ch
 ocmchbkc.event.sbb.ch
 od-summit2024.event.sbb.ch
-oevgov-ic.int-sbb.ch
 office-addins.sbb.ch
 ogin.mud.sbb.ch
 ohztyrdi.event.sbb.ch
@@ -3415,7 +3381,6 @@ ordermanagement.cop.tms.sbb.ch
 ordermanagement.cop.tms-int.sbb.ch
 ordermanagement.cop.tms-test.sbb.ch
 origin.dev-login.sbb.ch
-origin.test-sbb.ch
 otcp-webinfoportal.sbb.ch
 otm16-test-ws.sbb.ch
 otsc.sbb.ch
@@ -4045,10 +4010,6 @@ wast85d-proxy1.sbb.ch
 wbemmjfc.event.sbb.ch
 wbw.sbb.ch
 wbw-int.sbb.ch
-wcms-cf.dev-sbb.ch
-wcms-lb.dev-sbb.ch
-wcms-lb.int-sbb.ch
-wcms-lb.test-sbb.ch
 wcms.beta.sbb.ch
 wcms.dev-beta.sbb.ch
 wcms.int-beta.sbb.ch
@@ -4155,7 +4116,6 @@ zukunftstag2021-digital.event.sbb.ch
 zukunftstag2021.event.sbb.ch
 zukunftstag2022.event.sbb.ch
 zvdgclxe.event.sbb.ch
-origin.dev-sbb.ch
 i89760.sbb.ch
 ris-batchplot-inte.sbb.ch
 wvbbrz0267.sbb.ch
@@ -4389,12 +4349,10 @@ angular.sbb.ch
 esta.docker.bin.sbb.ch
 ssp-ui-tms-iad-shuntingassistant-dev.apps.tms01t.otc-test.sbb.ch
 ansiblejump.tools.sbb.ch
-api-backend-dev.dev-sbb.ch
 api-int.bps01t.otc-test.sbb.ch
 atlas.app.sbb.ch
 atlas.dev.app.sbb.ch
 b2p-dev.app.sbb.ch
-b9b1istic2023.dev-sbb.ch
 bonuspass-snapshot.app.sbb.ch
 bonuspass.info.sbb.ch
 capri-cloud-dev.app.sbb.ch
@@ -4439,7 +4397,6 @@ chext2.sbb.ch
 2scrummasterday24.event.sbb.ch
 32b0-41f8.event.sbb.ch
 35.app.sbb.ch
-3esbb.ch
 453b-a669.event.sbb.ch
 474a-9568.event.sbb.ch
 4a68.app.sbb.ch
@@ -5449,7 +5406,6 @@ history-storage-test-int.api.sbb.ch
 history.event.sbb.ch
 hitman5.app.sbb.ch
 hls-prefetch-parent.dev-beta.sbb.ch
-home.htmlsbb.ch
 hop-fq.bin.sbb.ch
 hopex-eadb-int-sand.api.sbb.ch
 hopex-eadb-int.api.sbb.ch
@@ -5461,7 +5417,6 @@ hotelsint.sbb.ch
 hpketkhj.event.sbb.ch
 hr-2024.event.sbb.ch
 hrnorge.event.sbb.ch
-htmlsbb.ch
 huhu.dev-files.sbb.ch
 i-aep2023.event.sbb.ch
 iazxlunl.event.sbb.ch
@@ -6657,7 +6612,6 @@ swisspass-parking.api.sbb.ch
 swisspassparking-aboapp-dev.sbb.ch
 swisssign-ssl-multi.sbb.ch
 swisssign-ssl-test.sbb.ch
-ssbb.ch
 sychung.event.sbb.ch
 syd05-prd-com-01a.event.sbb.ch
 syslog-test.cdc-dmz.sbb.ch
@@ -7362,16 +7316,13 @@ main.vnext.app.sbb.ch
 ltt-commissioning-administration-dev.app.sbb.ch
 zis-angebot-int.app.sbb.ch
 fo.sbb.ch
-test-dev-sbb.ch
 wias-api-int.app.sbb.ch
 com.event.sbb.ch
 paytrans-sand.api.sbb.ch
 iotsrv-tcp-dev.app.sbb.ch
-d68e.dev-sbb.ch
 now-bia-daten-test-int-sand.api.sbb.ch
 cronos-dev-alias.app.sbb.ch
 lt-pub-int.app.sbb.ch
-office365.dev-sbb.ch
 console-openshift-console.cluster-a.sbb.ch
 public-aws01t.app.sbb.ch
 demo.event.sbb.ch
@@ -7391,23 +7342,18 @@ zis-angebot.app.sbb.ch
 prail-dev.api.sbb.ch
 ijrmlkny.event.sbb.ch
 public-miniwaf-aws01t.app.sbb.ch
-hr-int.dev-sbb.ch
 public-timo03t.app.sbb.ch
 dwh-api-int.api.sbb.ch
 127.0.0.1repo.sbb.ch127.0.0.1ci.sbb.ch127.0.0.1svn.sbb.ch185.31.17.209repo1.maven.org127.0.0.1p2.sbb.ch
-lociic2023.dev-sbb.ch
-logiswsgc2023.dev-sbb.ch
 echo-timo11p.app.sbb.ch
 cronos-alias.app.sbb.ch
 apps.cluster-a.sbb.ch
 police-test.app.sbb.ch
 sbb.unic-orderconfirmation.order.info.sbb.ch
 echo-bps02p.app.sbb.ch
-logisticmiraculix.dev-sbb.ch
 _dmarc.sbb.ch
 node04az2.db05p.otc.sbb.ch
 fglm-dev.app.sbb.ch
-pbms.dev-sbb.ch
 83057a22.sbb.ch
 gbt-danke.event.sbb.ch
 corp.event.sbb.ch
@@ -7428,9 +7374,7 @@ dwh-api-int-sand.api.sbb.ch
 ihzudyda.event.sbb.ch
 dwh-api-sand.api.sbb.ch
 kib-testdurchsage-int-sand.api.sbb.ch
-lo251022ic2023.dev-sbb.ch
 public-maggie.app.sbb.ch
-int.dev-sbb.ch
 app-int.sbb.ch
 edi-adapter-prod.app.sbb.ch
 fake-token-url.sbb.ch
@@ -7439,7 +7383,6 @@ iotsrv-tcp.app.sbb.ch
 public-aws02t.app.sbb.ch
 viapp-int.app.sbb.ch
 ipmt-dev.app.sbb.ch
-dev-dev-sbb.ch
 appdev.sbb.ch
 smapi-sand.api.sbb.ch
 speedyshop.sbb.ch
@@ -7451,7 +7394,6 @@ gitguardian-test-alias.app.sbb.ch
 brlt210824.event.sbb.ch
 edi-adapter-test-alias.app.sbb.ch
 echo-clew01d.devapp.sbb.ch
-origin-cf.dev-sbb.ch
 dev.event.sbb.ch
 gitguardian-prod.app.sbb.ch
 public-webshop-timo03t.app.sbb.ch
@@ -7459,14 +7401,11 @@ public-miniwaf-maggie.app.sbb.ch
 public-trs01p.app.sbb.ch
 parkandrail-pwa-backend-prod.app.sbb.ch
 e510-38ed.event.sbb.ch
-logisintc2023.dev-sbb.ch
 solace.sbb.ch
 wasd85mcta3.sbb.ch
 vocabulary-alias.prod.app.sbb.ch
-reader.dev-sbb.ch
 sbb.easyride-sbb-customer-mailing-2.order.info.sbb.ch
 public-timo03p.app.sbb.ch
-dev.dev-sbb.ch
 public-trs01t.app.sbb.ch
 argocd.clew.sbb.ch
 fylwztpy.event.sbb.ch
@@ -7847,3 +7786,34 @@ www.biv-zvl-olten-171122.event.sbb.ch
 www.crm2023.event.sbb.ch
 www.dsoros2024.event.sbb.ch
 www.inaugurazione.officina.chiasso.event.sbb.ch
+www.ee02-9547.event.sbb.ch
+kom-together041224.event.sbb.ch
+www.kom-together041224.event.sbb.ch
+infra-betaker.otc.bin-i.sbb.ch
+anmeldung-zukunftstag-2024.event.sbb.ch
+www.anmeldung-zukunftstag-2024.event.sbb.ch
+dev-www.dev-www.sbb.ch
+test.commerce.sbb.ch
+www.wke2024.event.sbb.ch
+www.9694-bc26.event.sbb.ch
+9694-bc26.event.sbb.ch
+www.eimwsjye.event.sbb.ch
+www.railaway-partner-olma.event.sbb.ch
+www.grundsaetze-kundenorientierung.event.sbb.ch
+www.ojp2.0-insights-bls.event.sbb.ch
+ojp2.0-insights-bls.event.sbb.ch
+cpnxcqtn.event.sbb.ch
+i-aep-2024.event.sbb.ch
+origin-cf.dev-www.sbb.ch
+de-event-salonsuisse.event.sbb.ch
+www.bluulnjn.24.event.sbb.ch
+www.gemeinsamdigital24.event.sbb.ch
+www.entrenous23.event.sbb.ch
+bino090924.event.sbb.ch
+www.bino090924.event.sbb.ch
+ojp2.0-operativer-einsatz-bls.event.sbb.ch
+www.ojp2.0-operativer-einsatz-bls.event.sbb.ch
+www.wbemmjfc.event.sbb.ch
+unfallmeldung-test.sbb.ch
+www.roadshowbim.event.sbb.ch
+www.kiday.event.sbb.ch

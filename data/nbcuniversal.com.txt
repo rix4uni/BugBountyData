@@ -73,7 +73,6 @@ qa.api-cloudflare.nbcuniversal.com
 authorization.apis.dev.raptor.nbcuniversal.com
 moviedeals.nbcuniversal.com
 prod.nbcuniversal.com
-nbcuniversal.com
 focusfeatures.dev.raptor.nbcuniversal.com
 www.frontend-services.dev.raptor.nbcuniversal.com
 commercetools-choices.stage.raptor.nbcuniversal.com
@@ -104,5 +103,4 @@ focusfeatures.raptor.nbcuniversal.com
 git.nbcuniversal.com
 contractreporting.nbcuniversal.com
 auth.apis.stage.raptor.nbcuniversal.com
-comcastnbcuniversal.com
 commercetools-customer-support.stage.raptor.nbcuniversal.com

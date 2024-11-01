@@ -4,7 +4,6 @@ community.bitwage.com
 jobs.bitwage.com
 proxy4.bitwage.com
 api5.bitwage.com
-bitwage.com
 app.bitwage.com
 www.bitwage.com
 blog.bitwage.com
@@ -93,3 +92,4 @@ worker2qa.bitwage.com
 join.bitwage.com
 btc.bitwage.com
 sandbox.bitwage.com
+*.sandbox.bitwage.com

@@ -343,7 +343,6 @@ staging5-sephora.promoteiq.com
 ui.staging-homedepotca.promoteiq.com
 staging10-bjs.promoteiq.com
 via.promoteiq.com
-promoteiq.com
 api.devd-otto.promoteiq.com
 mapps-db.dev.iad.ms.promoteiq.com
 staging10-obi-de.promoteiq.com
@@ -757,3 +756,4 @@ developer.staging-chewy.promoteiq.com
 retailerdatasharesbox.promoteiq.com
 retailerdatashare.promoteiq.com
 sandbox-zappos.promoteiq.com
+*.proxysql.promoteiq.com

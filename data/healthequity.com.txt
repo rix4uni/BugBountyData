@@ -90,7 +90,6 @@ login.uat1.healthequity.com
 hsa.healthequity.com
 loginaz.my.healthequity.com
 support.healthequity.com
-healthequity.com
 client.pv.healthequity.com
 apps.pv.healthequity.com
 waitingroom.healthequity.com
@@ -157,3 +156,9 @@ prd.pp.healthequity.com
 *.prd.pp.healthequity.com
 pplt.pp.healthequity.com
 *.pplt.pp.healthequity.com
+dev.pp.healthequity.com
+*.dev.pp.healthequity.com
+test.dev.pp.healthequity.com
+googledns1.dev.pp.healthequity.com
+echo-app.zcor-d0-7831-07.dev.pp.healthequity.com
+echo-app.zcor-d0-7831-07.int.dev.pp.healthequity.com

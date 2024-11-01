@@ -4149,7 +4149,6 @@ uberhub.uberinternal.com
 uberhubdev.uberinternal.com
 uberhubtest.uberinternal.com
 uberhubtraining.uberinternal.com
-uberinternal.com
 uberversity-dev.uberinternal.com
 uberversity.uberinternal.com
 ubi-dca1.uberinternal.com
@@ -7405,3 +7404,5 @@ analytics.uberinternal.com
 3.mx1.dev.uberinternal.com
 ts02.uberinternal.com
 display-staging.uberinternal.com
+corp-datawarehouse.uberinternal.com
+*.devpod-us-va.uberinternal.com

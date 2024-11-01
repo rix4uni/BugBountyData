@@ -1,7 +1,6 @@
 superset.uvm-smart.essen.stackable.tech
 features.stackable.tech
 conn.xfsc.stackable.tech
-stackable.tech
 proof.xfsc.stackable.tech
 api.t2-test.stackable.tech
 api.t2.stackable.tech
@@ -88,3 +87,6 @@ secobserve-backend.stackable.tech
 ci-test.stackable.tech
 aas-gaiax-aas-demo.stackable.tech
 trino-gaiax-aas-demo.stackable.tech
+crd.stackable.tech
+grafana.open-source-dashboards.stackable.tech
+nifi-ui.int.stackable.tech

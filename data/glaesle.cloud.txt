@@ -3,7 +3,6 @@ auth.glaesle.cloud
 rss.glaesle.cloud
 imap.glaesle.cloud
 home.glaesle.cloud
-glaesle.cloud
 bitwarden.glaesle.cloud
 rezepte.glaesle.cloud
 autodiscover.glaesle.cloud
@@ -17,3 +16,4 @@ autoconfig.glaesle.cloud
 mta-sts.glaesle.cloud
 notes.glaesle.cloud
 todo.glaesle.cloud
+*.glaesle.cloud

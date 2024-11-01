@@ -1,7 +1,6 @@
 cdn.sender.net
 learn.sender.net
 sso.sender.net
-sender.net
 tr.sender.net
 help.sender.net
 test.sender.net
@@ -20,3 +19,7 @@ stats.sender.net
 share.sender.net
 seapp.sender.net
 staging.sender.net
+self.sender.net
+org.helios.apmrouter.sender.net
+pat.sender.net
+args.sender.net

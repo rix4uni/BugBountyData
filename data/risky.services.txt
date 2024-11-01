@@ -1,5 +1,4 @@
 portal.risky.services
-risky.services
 fin.risky.services
 chat.risky.services
 monitor.risky.services
@@ -9,3 +8,5 @@ mail.risky.services
 mta-sts.risky.services
 git.risky.services
 matrix.risky.services
+mc.risky.services
+evil.risky.services

@@ -56,7 +56,6 @@ kubecost.dev.cirrusinsight.com
 api-preview-staging.cirrusinsight.com
 api-preview.cirrusinsight.com
 api-preview-hotfix.cirrusinsight.com
-cirrusinsight.com
 account-ipbetatemp-exchangedns.tracking.cirrusinsight.com
 apache.tracking.cirrusinsight.com
 api-staging.cirrusinsight.com
@@ -173,12 +172,6 @@ zoomdv203mmr.tracking.cirrusinsight.com
 857-98-1.tracking.cirrusinsight.com
 *.cirrusinsight.com
 *.dev.cirrusinsight.com
-www.teamcirrusinsight.com
-teamcirrusinsight.com
-www.getcirrusinsight.com
-getcirrusinsight.com
-emails.teamcirrusinsight.com
-emails.getcirrusinsight.com
 beta.cirrusinsight.com
 aws-tracking.cirrusinsight.com
 ex-tracking.cirrusinsight.com

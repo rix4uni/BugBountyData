@@ -116,7 +116,6 @@ inter-ws.swedbank.se
 pdasync.swedbank.se
 lana.swedbank.se
 psm.swedbank.se
-swedbank.se
 proxy2.swedbank.se
 proxy3.swedbank.se
 access.test.swedbank.se
@@ -181,3 +180,6 @@ updated-external-4-unit-test.swedbank.se
 webmail.swedbank.se
 omega.swedbank.se
 hwsbcproddc2int.swedbank.se
+ib.swedbank.se
+core-account-alias-test.swedbank.se
+core-account-alias.swedbank.se
