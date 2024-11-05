@@ -37,8 +37,6 @@ asterix.ics.uci.edu
 capstone-server.ics.uci.edu
 gitlab-ics46-test.ics.uci.edu
 peter-capaldi-v6.ics.uci.edu
-www.cdb.ics.uci.edu
-www.ics.uci.edu
 wp-ics.ics.uci.edu
 wp-rsh.ics.uci.edu
 hack.ics.uci.edu
@@ -194,7 +192,7 @@ api.crowdhealth.ics.uci.edu
 manage.crowdhealth-staging.ics.uci.edu
 api.crowdhealth-staging.ics.uci.edu
 vision.ics.uci.edu
-www.crowdhealth.ics.uci.edu
+crowdhealth.ics.uci.edu
 ochca.ics.uci.edu
 faqfinder.ics.uci.edu
 athena.ics.uci.edu
@@ -207,7 +205,6 @@ auth-tippers.ics.uci.edu
 nlp.ics.uci.edu
 gitlab-cs142a-s21.ics.uci.edu
 rumba.ics.uci.edu
-crowdhealth.ics.uci.edu
 uci-tippers.ics.uci.edu
 test-tippers.ics.uci.edu
 hub-tippers.ics.uci.edu
@@ -241,7 +238,7 @@ home-tippers.ics.uci.edu
 unhygienix.ics.uci.edu
 wwwigb.ics.uci.edu
 rem.ics.uci.edu
-www.www.ics.uci.edu
+www.ics.uci.edu
 wwwstat.ics.uci.edu
 informatics.ics.uci.edu
 oai.ics.uci.edu
@@ -250,7 +247,7 @@ ivecg.ics.uci.edu
 wp-main.ics.uci.edu
 computationalscience.ics.uci.edu
 wwwstatistics.ics.uci.edu
-www.cs.ics.uci.edu
+cs.ics.uci.edu
 datascience.ics.uci.edu
 cpri.ics.uci.edu
 zeus.ics.uci.edu

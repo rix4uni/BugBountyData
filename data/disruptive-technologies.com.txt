@@ -25,7 +25,6 @@ jarvis.disruptive-technologies.com
 pack-and-ship.eu.disruptive-technologies.com
 influxdb-device-monitoring.dev.disruptive-technologies.com
 est.prod.disruptive-technologies.com
-www.disruptive-technologies.com
 emulator.beta.disruptive-technologies.com
 grafana.dev.disruptive-technologies.com
 developers.disruptive-technologies.com
@@ -114,7 +113,6 @@ mender.dev.disruptive-technologies.com
 jarvis.dev.disruptive-technologies.com
 sensor-manager.eu.disruptive-technologies.com
 images.disruptive-technologies.com
-www.studio.disruptive-technologies.com
 ccon-est.eu.disruptive-technologies.com
 data-connector-influxdb.dev.disruptive-technologies.com
 munin-new.dev.disruptive-technologies.com
@@ -124,7 +122,6 @@ influxdb-device-monitoring.prod.disruptive-technologies.com
 alertmanager-new.dev.disruptive-technologies.com
 sds-receiver-ng.prod.disruptive-technologies.com
 identity-new.dev.disruptive-technologies.com
-www.installation-planning.dev.disruptive-technologies.com
 jarvis-api.disruptive-technologies.com
 jarvis-api.dev.disruptive-technologies.com
 mender.prod.disruptive-technologies.com
@@ -147,13 +144,11 @@ erp-gw.prod.disruptive-technologies.com
 emulator.beta.dev.disruptive-technologies.com
 auth.prod.disruptive-technologies.com
 ccon-quic.dev.disruptive-technologies.com
-www.parts.disruptive-technologies.com
 parts.disruptive-technologies.com
 productweb-staging.staging.disruptive-technologies.com
-www.studio.dev.disruptive-technologies.com
 manufacturing.staging.disruptive-technologies.com
 emulator.beta.staging.disruptive-technologies.com
-www.studio.staging.disruptive-technologies.com
+studio.staging.disruptive-technologies.com
 grpc.sensor-manager.staging.disruptive-technologies.com
 ccon-manufacturing-gw.staging.disruptive-technologies.com
 erp-gw.staging.disruptive-technologies.com
@@ -168,7 +163,6 @@ cert-manager-test.dev.disruptive-technologies.com
 productweb.staging.disruptive-technologies.com
 cert-test.dev.disruptive-technologies.com
 ccon-ingress01.dev.disruptive-technologies.com
-studio.staging.disruptive-technologies.com
 grpc.api.dev.disruptive-technologies.com
 developers.staging.disruptive-technologies.com
 packing-backend.corp.disruptive-technologies.com

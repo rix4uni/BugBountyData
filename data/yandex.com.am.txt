@@ -8,7 +8,6 @@ api.directory.yandex.com.am
 education.yandex.com.am
 m.news.yandex.com.am
 m.test.news.yandex.com.am
-www.yandex.com.am
 cloud-api.yandex.com.am
 zen-int.yandex.com.am
 sso.passport.yandex.com.am
@@ -43,7 +42,7 @@ m.newssearch.yandex.com.am
 pass-test.yandex.com.am
 crowdtest.games.yandex.com.am
 der.yandex.com.am
-www.zen.yandex.com.am
+zen.yandex.com.am
 yabs.yandex.com.am
 4.downloader.disk.yandex.com.am
 news.yandex.com.am
@@ -72,7 +71,6 @@ api.passport-rc.yandex.com.am
 beta.disk.yandex.com.am
 mail.360.yandex.com.am
 morda.crowdtest.yandex.com.am
-zen.yandex.com.am
 guard.oauth-test.yandex.com.am
 files.messenger.yandex.com.am
 social.yandex.com.am

@@ -8,7 +8,7 @@ login.test.kiva.org
 login.kiva.org
 login.qa.kiva.org
 login.stage.kiva.org
-www.staging.kiva.org
+staging.kiva.org
 pa3ui-stage.dk1.kiva.org
 blog.build.kiva.org
 cms-page-server-qa.dk1.kiva.org
@@ -42,13 +42,12 @@ ld.kiva.org
 marketplace-api-stage.dk1.kiva.org
 marketplace-api-qa.dk1.kiva.org
 login.audit.kiva.org
-www.test.kiva.org
+test.kiva.org
 rtp-nuxt-stage.dk1.kiva.org
 ui-audit.dk1.kiva.org
 partner-api-test.dk1.kiva.org
 auth-test.dk1.kiva.org
 pa3ui-dev.dk1.kiva.org
-www.kiva.org
 marketplace-api.k1.kiva.org
 auth.k1.kiva.org
 partner-api.k1.kiva.org
@@ -56,7 +55,7 @@ adminui-stage.dk1.kiva.org
 adminui-dev.dk1.kiva.org
 marketplace-api-test.dk1.kiva.org
 cms-page-server.k1.kiva.org
-www.dev.kiva.org
+dev.kiva.org
 pa3ui.k1.kiva.org
 cms-page-server-test.dk1.kiva.org
 links.kiva.org

@@ -158,7 +158,6 @@ sip-eastus-wings-10.cip.nuance.com
 mar-itlabvc01.nuance.com
 qa.xinfra-ci-xinfra-4167.xinfra-ci.private.crt.nuance.com
 ccss-artifactory.cd4.crt.nuance.com
-www.m.nuance.com
 sft-emea.nuance.com
 stage.xinfra-ci-xinfra-4432.xinfra-ci.private.crt.nuance.com
 chatrouter-wellsfargo-test.nod-glb.nuance.com
@@ -483,7 +482,7 @@ bri-ato-t01.nuance.com
 k8dashtest.eastus2.sandbox.ndep.ent.nuance.com
 qa.xinfra-ci-xinfra-3248.crt.nuance.com
 test-dns-cert.ashutosh.sandboxes.private.crt.nuance.com
-www.australia.nuance.com
+australia.nuance.com
 nmc-dpa-production-eastus2-1.nuance.com
 nina.ca.nod-glb.nuance.com
 qa.xinfra-ci-expos-res.xinfra-ci.private.crt.nuance.com
@@ -1088,7 +1087,6 @@ humana.staging.nod.nuance.com
 nvvasbc11101.gatekeeper.nuance.com
 oncor.prod.nod.nuance.com
 stage.jons.crt.nuance.com
-australia.nuance.com
 dev.xinfra-ci-xinfra-3640.xinfra-ci.private.crt.nuance.com
 load.xinfra-ci-xinfra-4036.xinfra-ci.private.crt.nuance.com
 stage.xinfra-ci-xinfra-4270.xinfra-ci.private.crt.nuance.com
@@ -1149,7 +1147,6 @@ aac-asr-jenkins-01.nuance.com
 mymetro-nmc.nod.nuance.com
 ncp.insights.nuance.com
 r12oracleldev01.nuance.com
-www.textiosupport.nuance.com
 bi.nuance.com
 qa.xinfra-ci-xinfra-4028.xinfra-ci.private.crt.nuance.com
 entrd-jfrog-dlz01-dax.hpc.nuance.com
@@ -1282,7 +1279,6 @@ rileyiep141.eastus2.sandbox.iep.ent.nuance.com
 stage.xinfra-ci-xinfra-4235.xinfra-ci.private.crt.nuance.com
 testing.digital.nuance.com
 uksov1-ukso.private.crt.nuance.com
-www.res.nuance.com
 ws.dev.nuance.com
 portal-01.preprod.nuance.com
 stage.xinfra-ci-trace-test.xinfra-ci.private.crt.nuance.com
@@ -1863,11 +1859,10 @@ ar1.centralindia.dev.ndep.ent.nuance.com
 artifactory-enterprise.prod.mcs.az-koreasouth.mob.nuance.com
 eusr12qaext01.nuance.com
 mta.notifications.nuance.com
-www.aimtest.nuance.com
+aimtest.nuance.com
 image.notifications.nuance.com
 hde.nod.nuance.com
 ncp-ivr.staging.nod.nuance.com
-www.nuance.com
 load.xinfra-ci-xinfra-4420.xinfra-ci.private.crt.nuance.com
 demo-west1.digital.nuance.com
 dev.xinfra-ci-xinfra-3448.xinfra-ci.private.crt.nuance.com
@@ -1946,7 +1941,6 @@ internal.aimarketplace.nuance.com
 k8dashfinal.eastus2.sandbox.ndep.ent.nuance.com
 load.arashwan.crt.nuance.com
 load.xinfra-ci-xinfra-3182.crt.nuance.com
-www.wat-eq60-alpha.nuance.com
 dev.xinfra-ci-xinfra-4020.xinfra-ci.private.crt.nuance.com
 mx2-uk1.digital.nuance.com
 myssosigning.nuance.com
@@ -1968,7 +1962,6 @@ xinfra-ci-xinfra-4537.xinfra-ci.private.crt.nuance.com
 ukw.dragon.uk.dmp.nuance.com
 gk2.pslab.crt.nuance.com
 r12isptlqa2.nuance.com
-www.newzealand.nuance.com
 mobcc.nuance.com
 eushcpccsales.nuance.com
 qa.xinfra-ci-keda-netp.xinfra-ci.private.crt.nuance.com
@@ -2091,7 +2084,6 @@ xinfra-ci-xinfra-3502.xinfra-ci.private.crt.nuance.com
 pep.iep.nuance.com
 cd2.eastus2.qa.iep.ent.nuance.com
 hq-gw1-dmz.nuance.com
-www.emplois.nuance.com
 xinfra-ci-xinfra-3349.xinfra-ci.private.crt.nuance.com
 xinfra-ci-xsupport-5760.xinfra-ci.private.crt.nuance.com
 dev.xinfra-ci-xinfra-3403.xinfra-ci.private.crt.nuance.com
@@ -2496,7 +2488,7 @@ fta.digital.nuance.com
 internal.ci3.crt.nuance.com
 japan.nuance.com
 sip-uksouth-101.ivr.nuance.com
-www.hpc.nuance.com
+hpc.nuance.com
 zdt3.westus.dev.ndep.ent.nuance.com
 testn2.westus.dev.ndep.ent.nuance.com
 eushcpccsaleweb.nuance.com
@@ -2729,7 +2721,7 @@ dev.xinfra-ci-xinfra-3925.xinfra-ci.private.crt.nuance.com
 hq-wil-snt-nat.nuance.com
 nina01.hde.nod.nuance.com
 rightnowadmin.nuance.com
-www.network2.nuance.com
+network2.nuance.com
 xinfra-ci-clusteridoutp.xinfra-ci.private.crt.nuance.com
 xinfra-ci-1570118.xinfra-ci.private.crt.nuance.com
 mx1-ivr.digital.nuance.com
@@ -2843,7 +2835,7 @@ euscolumbia.nuance.com
 svvapsbc4000.staging.nod.nuance.com
 xinfra-ci-xinfra-5568.xinfra-ci.private.crt.nuance.com
 tts.staging.ivr.nuance.com
-www.licensing.nuance.com
+licensing.nuance.com
 clicktrack-swa-test.pep.nuance.com
 ccss-edge.cd4.crt.nuance.com
 dev.xinfra-ci-xinfra-3926.xinfra-ci.private.crt.nuance.com
@@ -3050,7 +3042,6 @@ xinfra-ci-xinfra-4835.xinfra-ci.private.crt.nuance.com
 load.xinfra-ci-xinfra-2531.xinfra-ci.private.crt.nuance.com
 qa.xinfra-ci-xinfra-3785.xinfra-ci.private.crt.nuance.com
 som-r12prodapp02.nuance.com
-www.jobs.nuance.com
 dev.xinfra-ci-xinfra-4165.xinfra-ci.private.crt.nuance.com
 mail.nuance.com
 nina2-ma.nod-glb.nuance.com
@@ -3069,7 +3060,6 @@ dev.xinfra-ci-fix-law-export-s.crt.nuance.com
 enterprisecontent.nuance.com
 load.xinfra-ci-xinfra-3260.crt.nuance.com
 sip-ukwest-100-lan.ivr.nuance.com
-www.mobiledemo.nuance.com
 xinfra-ci-xinfra-3195.xinfra-ci.private.crt.nuance.com
 dev.xinfra-ci-xinfra-4408.xinfra-ci.private.crt.nuance.com
 integrationapigateway.nuance.com
@@ -3332,7 +3322,6 @@ mtldev08.nuance.com
 corporatereseller.nuance.com
 epsecurity.iceng.nuance.com
 qa.xinfra-ci-xinfra-4043.xinfra-ci.private.crt.nuance.com
-www.som-lm-proxy01.nuance.com
 xinfra-ci-xinfra-5297.xinfra-ci.private.crt.nuance.com
 xinfra-ci-release-0202.xinfra-ci.private.crt.nuance.com
 r12isptlqa1.nuance.com
@@ -3424,7 +3413,6 @@ devops1.eastus2.sandbox.k8s.digital.nuance.com
 fecluster.centralindia.dev.ndep.ent.nuance.com
 load.xinfra-ci-bump-jaeger.xinfra-ci.private.crt.nuance.com
 qaa.nccnonprod.nuance.com
-www.app-lm-portal1.nrc1.us.grid.nuance.com
 xinfra-ci-xinfra-3661.xinfra-ci.private.crt.nuance.com
 fasttrack-api.ivr.nuance.com
 nnm1.nod-glb.nuance.com
@@ -3559,7 +3547,6 @@ qa.xinfra-ci-xinfra-3250.xinfra-ci.private.crt.nuance.com
 tr090721.eastus2.sandbox.iep.ent.nuance.com
 load.xinfra-ci-webhook.crt.nuance.com
 som-srvecs01.nuance.com
-hpc.nuance.com
 stage.danny1.crt.nuance.com
 iwantthepear.lorenzo.sandboxes.private.crt.nuance.com
 xinfra-ci-xinfra-3188.xinfra-ci.private.crt.nuance.com
@@ -3583,7 +3570,6 @@ stage.xinfra-ci-xinfra-2531.xinfra-ci.private.crt.nuance.com
 tcohen3.crt.nuance.com
 wcs-cd1.westus.dev.ndep.ent.nuance.com
 load.xinfra-ci-xinfra-3380.xinfra-ci.private.crt.nuance.com
-network2.nuance.com
 nvvasbc11100.gatekeeper.nuance.com
 qa.xinfra-ci-xinfra-2990.xinfra-ci.private.crt.nuance.com
 lyncedge.nuance.com
@@ -3594,7 +3580,6 @@ load.xinfra-ci-xinfra-4486.xinfra-ci.private.crt.nuance.com
 preprod.prod1c.crt.nuance.com
 stage.xinfra-ci-xinfra-4454.xinfra-ci.private.crt.nuance.com
 tok-raspilot.nuance.com
-www.mobiledemo1.nuance.com
 dev.xinfra-ci-xinfra-3188.crt.nuance.com
 qa.xinfra-ci-xinfra-3402.xinfra-ci.private.crt.nuance.com
 resellers.nuance.com
@@ -3671,8 +3656,6 @@ nn-test-fp8-public.nuance.com
 psticket.nuance.com
 danny1.crt.nuance.com
 remotesupport.nuance.com
-www.network.nuance.com
-licensing.nuance.com
 chatrouter-eu2.digital.nuance.com
 nina4-aks.ha.nod.nuance.com
 dev.xinfra-ci-xinfra-4436.xinfra-ci.private.crt.nuance.com
@@ -3774,8 +3757,6 @@ fc.dragon.fr.dmp.nuance.com
 nuanfinplatapigtway-ext-np.nuance.com
 mg.emailus.nuance.com
 mg.emailap.nuance.com
-*.global-auth-stage.dev.crt.nuance.com
-*.gatekeeper2-qa.dev.crt.nuance.com
 eusr12prodapp01.nuance.com
 eusr12prodapp03.nuance.com
 eusr12prodapp02.nuance.com

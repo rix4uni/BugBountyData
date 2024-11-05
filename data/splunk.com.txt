@@ -841,7 +841,6 @@ staging.r53.splunk.com
 identity-configuration.splunk.com
 iad-gw2.splunk.com
 px.staging.scs.splunk.com
-www.api.web.qa.splunk.com
 scs001-iad10.app-admin-temp.scs.splunk.com
 scs001-iad10.app-admin.scs.splunk.com
 app-admin-temp.scs.splunk.com
@@ -853,7 +852,6 @@ region-mxp10.auth.scs.splunk.com
 preview.splunkbase.splunk.com
 concierge.staging.splunk.com
 docs.splunksecurityessentials.glb.splunk.com
-www.splunk.com
 signup.splunk.com
 concierge.qa.splunk.com
 show.splunk.com
@@ -909,4 +907,3 @@ dev.cdn.splunkbase.splunk.com
 region-syd10.auth.scs.splunk.com
 test-appviewx.splunk.com
 region-iad10.auth-mtls.playground.scs.splunk.com
-*.auth-mtls.playground.scs.splunk.com

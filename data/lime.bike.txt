@@ -1,4 +1,3 @@
-*.lime.bike
 admintool.lime.bike
 admintool-experimental.lime.bike
 admintool-experimental-1.lime.bike
@@ -67,9 +66,7 @@ canary.lime.bike
 gpt.lime.bike
 nfc.lime.bike
 message-public.lime.bike
-www.lime.bike
 _web-production.lime.bike
-www.proxy-production.lime.bike
 production-b-juicer-ingress.lime.bike
 production-b-message-ingress.lime.bike
 web-message-high.lime.bike

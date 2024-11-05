@@ -1,10 +1,7 @@
 atlantis-utd-bhgskole.atlantis.ssb.no
 atlantis-levekaar.atlantis.ssb.no
-*.lab.dapla.ssb.no
 lab.dapla.ssb.no
-*.lab.dapla-test.ssb.no
 lab.dapla-test.ssb.no
-*.dapla-test.ssb.no
 dapla-test.ssb.no
 atlantis-papis.atlantis.ssb.no
 atlantis-strukt-miljoe.atlantis.ssb.no
@@ -13,7 +10,6 @@ atlantis-play-obr-b.atlantis.ssb.no
 atlantis-kostra.atlantis.ssb.no
 atlantis-suv-altinn.atlantis.ssb.no
 atlantis-arkitektur.atlantis.ssb.no
-www.ssb.no
 atlantis-bef-analyse.atlantis.ssb.no
 atlantis-arbmark-register.atlantis.ssb.no
 atlantis-energi-rapp.atlantis.ssb.no
@@ -32,7 +28,6 @@ dapla-lab-dev.ssb.no
 atlantis-helse-speshelse.atlantis.ssb.no
 atlantis-strukt-mva.atlantis.ssb.no
 atlantis-finmark.atlantis.ssb.no
-www.qa.ssb.no
 qa.ssb.no
 atlantis-datafangst-person.atlantis.ssb.no
 atlantis-reiseliv-korttid.atlantis.ssb.no
@@ -114,13 +109,10 @@ dev-bip-lwe01.ssb.no
 dev-bip-lwe-n.ssb.no
 dev-bip-kristian.ssb.no
 dev-bip-dan.ssb.no
-www.workbench.staging-bip-app.ssb.no
-www.lds-client.staging-bip-app.ssb.no
-www.zeppelin.staging-bip-app.ssb.no
-zeppelin.staging-bip-app.ssb.no
-keycloak.staging-bip-app.ssb.no
 workbench.staging-bip-app.ssb.no
 lds-client.staging-bip-app.ssb.no
+zeppelin.staging-bip-app.ssb.no
+keycloak.staging-bip-app.ssb.no
 dev-bip-jonas.ssb.no
 dev-bip-ci.ssb.no
 statbank.ssb.no
@@ -180,7 +172,7 @@ atlantis-bki.atlantis.ssb.no
 i.test.ssb.no
 ext-i.qa.ssb.no
 fx.ssb.no
-www.jakt.ssb.no
+jakt.ssb.no
 ow-wapadfs-02.ssb.no
 atlantis-mikrodata-oppdrag.atlantis.ssb.no
 atlantis-transport-kostra.atlantis.ssb.no

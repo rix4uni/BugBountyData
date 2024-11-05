@@ -1,12 +1,11 @@
 em.abritel.fr
-www.som.abritel.fr
 som.abritel.fr
 auth.abritel.fr
 imageshd.abritel.fr
 aide.abritel.fr
 location.abritel.fr
 www3.abritel.fr
-www.us.abritel.fr
+us.abritel.fr
 expedia.abritel.fr
 landing.abritel.fr
 imagestr.abritel.fr
@@ -14,7 +13,7 @@ smtp.abritel.fr
 autodiscover.abritel.fr
 stage.abritel.fr
 trk.abritel.fr
-www.connect.abritel.fr
+connect.abritel.fr
 www1.abritel.fr
 expedia.aide.abritel.fr
 localhost.abritel.fr
@@ -41,19 +40,12 @@ photo3.abritel.fr
 resourcesphp.abritel.fr
 resources.abritel.fr
 ownerreferral.abritel.fr
-www.expedia.abritel.fr
-us.abritel.fr
 images.mailaway.abritel.fr
 www-origin.abritel.fr
-connect.abritel.fr
 photo.abritel.fr
 imagesus.abritel.fr
-www.abritel.fr
-www.blog.abritel.fr
 ns2.abritel.fr
 imageseu.abritel.fr
-www.ownerreferral.abritel.fr
-*.abritel.fr
 badges.abritel.fr
 eg.abritel.fr
 mail.abritel.fr
@@ -258,7 +250,7 @@ jabber-admin.newsletter.abritel.fr
 acc-www64.newsletter.abritel.fr
 mobiboulder.newsletter.abritel.fr
 calendar.av.newsletter.abritel.fr
-www.searchboulder.newsletter.abritel.fr
+searchboulder.newsletter.abritel.fr
 www64.devops.newsletter.abritel.fr
 api1.newsletter.abritel.fr
 adserver.newsletter.abritel.fr
@@ -346,7 +338,7 @@ net.newsletter.abritel.fr
 social.newsletter.abritel.fr
 xrs268.newsletter.abritel.fr
 poland-av.newsletter.abritel.fr
-www.help.newsletter.abritel.fr
+help.newsletter.abritel.fr
 produ-8.newsletter.abritel.fr
 02.newsletter.abritel.fr
 ck.s268.newsletter.abritel.fr
@@ -681,7 +673,7 @@ msy.www64.newsletter.abritel.fr
 mg.abritel.fr
 info.newsletter.abritel.fr
 mia.newsletter.abritel.fr
-www.1andevacances.abritel.fr
+1andevacances.abritel.fr
 testing2-docs.newsletter.abritel.fr
 emailoutrr.newsletter.abritel.fr
 smtp4.newsletter.abritel.fr
@@ -886,7 +878,7 @@ sfdc-1024._domainkey.abritel.fr
 www-originbackups.newsletter.abritel.fr
 s445boulder.newsletter.abritel.fr
 backups-cms2.newsletter.abritel.fr
-www.shopping.newsletter.abritel.fr
+shopping.newsletter.abritel.fr
 promo.newsletter.abritel.fr
 clickmail.abritel.fr
 sales.admin3.newsletter.abritel.fr
@@ -936,7 +928,6 @@ idp.newsletter.abritel.fr
 2integration.newsletter.abritel.fr
 githubav.newsletter.abritel.fr
 cam.docs.newsletter.abritel.fr
-1andevacances.abritel.fr
 helloboulder.newsletter.abritel.fr
 2-adm.newsletter.abritel.fr
 jabber.newsletter.abritel.fr
@@ -968,7 +959,7 @@ agenda-kr.newsletter.abritel.fr
 agendaresources-cdn.newsletter.abritel.fr
 europe.newsletter.abritel.fr
 admin3-mailserver.newsletter.abritel.fr
-www.1andevacances.newsletter.abritel.fr
+1andevacances.newsletter.abritel.fr
 cust20-admin.newsletter.abritel.fr
 www64.container.newsletter.abritel.fr
 bounce.mk.newsletter.abritel.fr
@@ -1090,7 +1081,7 @@ surveyadmin.newsletter.abritel.fr
 dbadmin.newsletter.abritel.fr
 elearning-ar.newsletter.abritel.fr
 x3boulder.newsletter.abritel.fr
-www.www.newsletter.abritel.fr
+www.newsletter.abritel.fr
 cust9www64.newsletter.abritel.fr
 betaora.newsletter.abritel.fr
 us-origin.newsletter.abritel.fr
@@ -1196,7 +1187,7 @@ ad1www64.newsletter.abritel.fr
 arbucky.newsletter.abritel.fr
 stage1.newsletter.abritel.fr
 april.newsletter.abritel.fr
-www.jc.dev.esj.newsletter.abritel.fr
+jc.dev.esj.newsletter.abritel.fr
 freebsd.auth.newsletter.abritel.fr
 austin-s268.newsletter.abritel.fr
 smtpout0.newsletter.abritel.fr
@@ -1698,7 +1689,6 @@ local.newsletter.abritel.fr
 imgs.newsletter.abritel.fr
 fw.newsletter.abritel.fr
 usa-s268.newsletter.abritel.fr
-help.newsletter.abritel.fr
 images.banner.newsletter.abritel.fr
 call.boulder.newsletter.abritel.fr
 feedsbanner.newsletter.abritel.fr
@@ -1971,7 +1961,6 @@ fi-s268.newsletter.abritel.fr
 web1.newsletter.abritel.fr
 desktop.newsletter.abritel.fr
 mx0.newsletter.abritel.fr
-www.staging.newsletter.abritel.fr
 teamadmin.newsletter.abritel.fr
 webaccess-s268.newsletter.abritel.fr
 winxpadmin.newsletter.abritel.fr
@@ -1990,7 +1979,6 @@ skype-0.newsletter.abritel.fr
 demo-backups.newsletter.abritel.fr
 win33admin3.newsletter.abritel.fr
 foros.newsletter.abritel.fr
-1andevacances.newsletter.abritel.fr
 profile-backups.newsletter.abritel.fr
 ipsec.newsletter.abritel.fr
 adam.s449.newsletter.abritel.fr
@@ -2199,7 +2187,6 @@ p77zp116xs777ah4.newsletter.abritel.fr
 2016ssh.newsletter.abritel.fr
 jsc.newsletter.abritel.fr
 8hos.newsletter.abritel.fr
-www.blogwww64.newsletter.abritel.fr
 s268system.newsletter.abritel.fr
 pipex-gw-s449.newsletter.abritel.fr
 laboratoryagenda.newsletter.abritel.fr
@@ -2288,7 +2275,6 @@ css.newsletter.abritel.fr
 dns.newsletter.abritel.fr
 no.newsletter.abritel.fr
 devs.newsletter.abritel.fr
-shopping.newsletter.abritel.fr
 clients.2016.newsletter.abritel.fr
 agenda-preview.newsletter.abritel.fr
 emailoutrl.newsletter.abritel.fr
@@ -2356,7 +2342,6 @@ bna-s268.newsletter.abritel.fr
 jabber-www64.newsletter.abritel.fr
 img1admin.newsletter.abritel.fr
 pro.newsletter.abritel.fr
-jc.dev.esj.newsletter.abritel.fr
 laptop.newsletter.abritel.fr
 unused.boulder.newsletter.abritel.fr
 syboulder.newsletter.abritel.fr
@@ -2440,7 +2425,6 @@ broadcast-ip.19.newsletter.abritel.fr
 range86-156.s449.newsletter.abritel.fr
 bit-boulder.newsletter.abritel.fr
 lima-s268.newsletter.abritel.fr
-www.slb2.newsletter.abritel.fr
 ras.newsletter.abritel.fr
 rtr01www64.newsletter.abritel.fr
 mta-4.newsletter.abritel.fr
@@ -2490,7 +2474,7 @@ fhrsqmxxhte7srq9.newsletter.abritel.fr
 reklam-www64.newsletter.abritel.fr
 node.newsletter.abritel.fr
 0-integration.newsletter.abritel.fr
-www.newsletter.abritel.fr
+newsletter.abritel.fr
 boulderops.newsletter.abritel.fr
 2-voip.newsletter.abritel.fr
 time.newsletter.abritel.fr
@@ -2712,7 +2696,6 @@ messages.newsletter.abritel.fr
 partner-admin3.newsletter.abritel.fr
 ftp.newsletter.abritel.fr
 project.newsletter.abritel.fr
-searchboulder.newsletter.abritel.fr
 managerbeta.newsletter.abritel.fr
 mc.newsletter.abritel.fr
 iphone.newsletter.abritel.fr
@@ -2762,7 +2745,6 @@ i0bfntzspa1f2fox.newsletter.abritel.fr
 buy.newsletter.abritel.fr
 mta2.newsletter.abritel.fr
 sms.newsletter.abritel.fr
-www.demo.newsletter.abritel.fr
 lb.newsletter.abritel.fr
 incoming.newsletter.abritel.fr
 backupsmysql.newsletter.abritel.fr
@@ -2823,7 +2805,6 @@ ne-www64.newsletter.abritel.fr
 erpadmin.newsletter.abritel.fr
 tutorials-admin3.newsletter.abritel.fr
 s4491andevacances.newsletter.abritel.fr
-www.apiboulder.newsletter.abritel.fr
 arthumbs.newsletter.abritel.fr
 forum.newsletter.abritel.fr
 pl.newsletter.abritel.fr
@@ -3095,7 +3076,6 @@ avis-vacances.newsletter.abritel.fr
 image.newsletter.abritel.fr
 oauth2.newsletter.abritel.fr
 ts31.newsletter.abritel.fr
-newsletter.abritel.fr
 train-webdisk.newsletter.abritel.fr
 s268v1.newsletter.abritel.fr
 webservices.13.newsletter.abritel.fr
@@ -3145,7 +3125,6 @@ lib.newsletter.abritel.fr
 seminar.admin.newsletter.abritel.fr
 op.newsletter.abritel.fr
 s-beta.newsletter.abritel.fr
-www.tv.rss.newsletter.abritel.fr
 nl8.newsletter.abritel.fr
 profilesav.newsletter.abritel.fr
 ids.newsletter.abritel.fr
@@ -3162,7 +3141,6 @@ av-reset.newsletter.abritel.fr
 extranet-2.newsletter.abritel.fr
 0repo.newsletter.abritel.fr
 admin3.newsletter.abritel.fr
-www.newsboulder.newsletter.abritel.fr
 dd.newsletter.abritel.fr
 go.newsletter.abritel.fr
 folders.newsletter.abritel.fr

@@ -1,7 +1,5 @@
 tls.automattic.com
-*.automattic.com
 hosts.automattic.com
-www.hosts.automattic.com
 zengxianyong-vip.blog.automattic.com
 boards.automattic.com
 files.automattic.com
@@ -20,8 +18,8 @@ d.automattic.com
 wordpress-dev.chanlogs.automattic.com
 mgs-mager.gsfc.automattic.com
 kara.automattic.com
-www.engels.automattic.com
-www.noredirect.luatests.automattic.com
+engels.automattic.com
+noredirect.luatests.automattic.com
 www2.automattic.com
 basic-nodejs-dev.automattic.com
 ks-order-api.automattic.com
@@ -42,8 +40,7 @@ _collab-edge.automattic.com
 barley.goshawk.aws-42seamart.automattic.com
 dev.automattic.com
 homepages.automattic.com
-www.space.automattic.com
-www.automattic.com
+space.automattic.com
 netnod-ix-ge-b-sth-1500.automattic.com
 remote.automattic.com
 daniel.automattic.com
@@ -56,7 +53,7 @@ blogs.automattic.com
 forces.automattic.com
 hellow.automattic.com
 updates.automattic.com
-www.engels-new.automattic.com
+engels-new.automattic.com
 ay.automattic.com
 cl.cam.automattic.com
 einstein.automattic.com
@@ -72,7 +69,6 @@ wordpress.automattic.com
 access.automattic.com
 ns1.atl.automattic.com
 audience.automattic.com
-www.tls.automattic.com
 eqix-dc5.automattic.com
 netnod-ix-ge-b-sth-4470.automattic.com
 sin.automattic.com
@@ -139,11 +135,10 @@ redirect-to-http.luatests.automattic.com
 map.automattic.com
 mx.imap4.automattic.com
 nodejs.automattic.com
-www.old-domain.luatests.automattic.com
+old-domain.luatests.automattic.com
 bblocks.automattic.com
 mail.blog.automattic.com
 mail.automattic.com
-www.einstein.automattic.com
 getcertified.automattic.com
 cp.automattic.com
 162.58.automattic.com
@@ -224,7 +219,6 @@ pre-prod.automattic.com
 mongo.automattic.com
 digitaldaily.automattic.com
 dosfo1.automattic.com
-engels.automattic.com
 _spf.automattic.com
 vpn1.do-fra1.automattic.com
 matticspace.dfw.automattic.com
@@ -264,7 +258,7 @@ searchportal-qa.automattic.com
 cable.uk.172800innsns3.automattic.com
 as.automattic.com
 rongmingmai1981.blog.automattic.com
-www.investors.automattic.com
+investors.automattic.com
 smtp-gw2.dfw.automattic.com
 jobs.automattic.com
 forum.automattic.com
@@ -286,7 +280,7 @@ ackpress.automattic.com
 servers.automattic.com
 realclearpolitics.blogs.automattic.com
 candidatsbe.automattic.com
-www.jamf.automattic.com
+jamf.automattic.com
 9s.automattic.com
 jp.automattic.com
 lounge.automattic.com
@@ -301,13 +295,12 @@ uk.172800innsns3.automattic.com
 li.automattic.com
 blog2.automattic.com
 cds.automattic.com
-www.specialprojects.automattic.com
+specialprojects.automattic.com
 akamai.automattic.com
 bestof.automattic.com
 blog.automattic.com
 faq.automattic.com
 integration.automattic.com
-www.workshops.automattic.com
 gui.automattic.com
 i2.cdn.automattic.com
 vpn1.dofra1.automattic.com
@@ -341,7 +334,6 @@ mb.automattic.com
 apps.automattic.com
 img.automattic.com
 h-fa122ee86b054f02b523444e37142939-get7.cpanel.sites-confluence.aa.lax.automattic.com
-investors.automattic.com
 _spf-wwd.automattic.com
 mdm.automattic.com
 codalibris.automattic.com
@@ -351,7 +343,6 @@ confluence.automattic.com
 lists.automattic.com
 static.automattic.com
 gear.automattic.com
-space.automattic.com
 fieldguide.automattic.com
 adherents.automattic.com
 vip.files.automattic.com
@@ -381,12 +372,10 @@ doyyz1.automattic.com
 idprotect.automattic.com
 java.automattic.com
 ns4.automattic.com
-specialprojects.automattic.com
 vpn.automattic.com
 fra.automattic.com
 xw.lax.automattic.com
 museum.automattic.com
-www.redirect-to-http.luatests.automattic.com
 awsdashboard.automattic.com
 smtp-gw.dfw.automattic.com
 dot.automattic.com
@@ -415,7 +404,6 @@ cable.uk.172800innsns2.automattic.com
 detroit.blogs.automattic.com
 pdns1.dca.automattic.com
 labs.automattic.com
-old-domain.luatests.automattic.com
 stats.sat.automattic.com
 assets.automattic.com
 app.automattic.com
@@ -438,10 +426,8 @@ wpcom-themes.svn.automattic.com
 as2635mx2.ams.automattic.com
 cw411.automattic.com
 vpn1.doams2.automattic.com
-engels-new.automattic.com
 is.automattic.com
 lh4.automattic.com
-jamf.automattic.com
 searchportal-dev.automattic.com
 ns1.dfw.automattic.com
 frwebgate.access.automattic.com
@@ -457,10 +443,9 @@ ns2.ams.automattic.com
 ec3.automattic.com
 addthis.automattic.com
 amroth.automattic.com
-www.alternativemedicinesmiami.blogs-confluence.call.automattic.com
+alternativemedicinesmiami.blogs-confluence.call.automattic.com
 8-smtp0.lax.automattic.com
 agencieshelp.automattic.com
-noredirect.luatests.automattic.com
 11mail.automattic.com
 imap4.pop3.automattic.com
 download.automattic.com
@@ -523,7 +508,6 @@ confluence.dfw.automattic.com
 autoconfig.automattic.com
 retail.ams.automattic.com
 ftp.automattic.com
-www.dfw.automattic.com
 vault.automattic.com
 wap.ams.automattic.com
 industrial.automattic.com

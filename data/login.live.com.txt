@@ -1,7 +1,5 @@
-*.api.login.live.com
-*.login.live.com
-active.login.live.com
 api.login.live.com
+active.login.live.com
 authorization.aqs.login.live.com
 capp.login.live.com
 deprecated.authaqs.login.live.com
@@ -23,7 +21,6 @@ register.login.live.com
 signingcert.login.live.com
 skype-certapiqa-msaautocsrprod.login.live.com
 tools.login.live.com
-www.login.live.com
 xml.login.live.com
 accountskype.login.live.com
 client.accountprotection.login.live.com

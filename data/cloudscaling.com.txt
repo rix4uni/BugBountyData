@@ -15,7 +15,6 @@ mon.cloudscaling.com
 support.cloudscaling.com
 eval.cloudscaling.com
 sec.cloudscaling.com
-www.cloudscaling.com
 pd-vm2.cloudscaling.com
 ns1.cloudscaling.com
 mail.cloudscaling.com
@@ -39,4 +38,3 @@ jira.cloudscaling.com
 doc.cloudscaling.com
 core.cloudscaling.com
 engineering.cloudscaling.com
-*.cloudscaling.com

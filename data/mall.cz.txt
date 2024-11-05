@@ -2,7 +2,6 @@ _sip._tls.mall.cz
 vanoce.mall.cz
 eva.mall.cz
 _xmpp-server._tcp.mall.cz
-www.mall.cz
 domain.mall.cz
 blog.mall.cz
 autodiscover.mall.cz
@@ -30,7 +29,6 @@ default._domainkey.mall.cz
 msoid.mall.cz
 icewarp.mall.cz
 _sipfederationtls._tcp.mall.cz
-www.extwd.mall.cz
 test.mall.cz
 ns2.mall.cz
 exponea.mall.cz
@@ -87,7 +85,6 @@ localhost.mall.cz
 image-search.mall.cz
 test.m.mall.cz
 new.mall.cz
-www.vanoce.mall.cz
 mx.mall.cz
 tiscali-gw-dc1.mall.cz
 press.mall.cz
@@ -97,7 +94,6 @@ static.mall.cz
 dns2.mall.cz
 smtp1.mall.cz
 forum.mall.cz
-www.blog.mall.cz
 cz-dc2-s-030.mall.cz
 demo.mall.cz
 darky.mall.cz
@@ -114,6 +110,5 @@ news.mall.cz
 cz-dc1-gw.mall.cz
 test.e.mall.cz
 smtp2.mall.cz
-www.eva.mall.cz
 sk.i.mall.cz
 mpapi.mall.cz

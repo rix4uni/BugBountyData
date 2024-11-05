@@ -141,6 +141,4 @@ dev.rust-relay.walletconnect.com
 dev.react-app.walletconnect.com
 push.walletconnect.com
 node1.staging.tss.walletconnect.com
-*.walletconnect.com
-www.walletconnect.com
 v2migrationlab.walletconnect.com

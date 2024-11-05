@@ -1,5 +1,4 @@
-*.qonto.com
-*.connect.qonto.com
+connect.qonto.com
 seriesd.qonto.com
 welcome.qonto.com
 kyc.qonto.com
@@ -13,9 +12,7 @@ la-rentree-finance.qonto.com
 link.qonto.com
 register.qonto.com
 www-cbs.qonto.com
-www.qonto.com
 support.qonto.com
-connect.qonto.com
 hello.qonto.com
 legal.qonto.com
 oauth.qonto.com

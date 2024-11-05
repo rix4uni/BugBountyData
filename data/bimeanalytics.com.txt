@@ -46,8 +46,8 @@ ss.bimeanalytics.com
 a.bimeanalytics.com
 union.bimeanalytics.com
 bookmarks.bimeanalytics.com
-www.get.bimeanalytics.com
-www.try.bimeanalytics.com
+get.bimeanalytics.com
+try.bimeanalytics.com
 groups.bimeanalytics.com
 es.bimeanalytics.com
 dev.bimeanalytics.com
@@ -72,7 +72,6 @@ people.bimeanalytics.com
 maven.bimeanalytics.com
 www5b.bimeanalytics.com
 xroads.bimeanalytics.com
-try.bimeanalytics.com
 kk.bimeanalytics.com
 bigquery.bimeanalytics.com
 cn.bimeanalytics.com
@@ -88,7 +87,6 @@ help.bimeanalytics.com
 order.bimeanalytics.com
 slovari.bimeanalytics.com
 digilander.bimeanalytics.com
-get.bimeanalytics.com
 cp.bimeanalytics.com
 home.bimeanalytics.com
 users.bimeanalytics.com
@@ -98,12 +96,10 @@ user.bimeanalytics.com
 forums.bimeanalytics.com
 ku1720.bimeanalytics.com
 staging-en-2015.bimeanalytics.com
-www.bimeanalytics.com
 fr.bimeanalytics.com
 mail.bimeanalytics.com
 partnerportal.bimeanalytics.com
 webmail.bimeanalytics.com
-*.bimeanalytics.com
 applyenv1f2a8d228006.bimeanalytics.com
 backup-site.bimeanalytics.com
 bigqueryflash.bimeanalytics.com

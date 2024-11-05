@@ -56,13 +56,9 @@ developer.dev.shippit.com
 ftp.connect.staging.shippit.com
 staging-news.shippit.com
 developer.stg.shippit.com
-www.shippit.com
 support.shippit.com
 grafana.prd.shippit.com
 api.shippit.com
 website.shippit.com
 id.stg.shippit.com
 developer.staging.shippit.com
-www.developer.shippit.com
-www.staging.shippit.com
-www.developer.staging.shippit.com

@@ -1,4 +1,3 @@
-*.endomondo.com
 admin.endomondo.com
 api.endomondo.com
 api.mobile.endomondo.com
@@ -40,8 +39,6 @@ testdocker.endomondo.com
 testdocker.aws.endomondo.com
 ua.endomondo.com
 webserver.endomondo.com
-www.endomondo.com
-www.ua.endomondo.com
 zatopek.endomondo.com
 appdata.endomondo.com
 dk.store.endomondo.com

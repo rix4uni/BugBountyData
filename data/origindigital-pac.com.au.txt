@@ -1,8 +1,6 @@
-*.origindigital-pac.com.au
-*.api.origindigital-pac.com.au
+api.origindigital-pac.com.au
 aem-app-staging-web.origindigital-pac.com.au
 aem-app-staginga-web.origindigital-pac.com.au
-api.origindigital-pac.com.au
 api-prod.origindigital-pac.com.au
 assets-digital.origindigital-pac.com.au
 authupdateplans-api-prod.api.origindigital-pac.com.au
@@ -136,4 +134,3 @@ multisiteportal-login-prdb.origindigital-pac.com.au
 pdf-api-prod.origindigital-pac.com.au
 rm.dataportal.origindigital-pac.com.au
 s3assetsproxy-service-prod.origindigital-pac.com.au
-www.origindigital-pac.com.au

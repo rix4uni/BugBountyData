@@ -23,7 +23,7 @@ pre-tasman-inventory.exams.caa.co.uk
 caa-sccm-cmg.caa.co.uk
 pre-quadrant-identity.exams.caa.co.uk
 perf.np.register-drones.caa.co.uk
-www.register-drones.caa.co.uk
+register-drones.caa.co.uk
 dev-quadrant-invigilation.exams.caa.co.uk
 siteapps.caa.co.uk
 tasman-notificationsystem-email.exams.caa.co.uk
@@ -80,13 +80,13 @@ prd-tasman-administration.exams.caa.co.uk
 training.medical.caa.co.uk
 dev-acoms.caa.co.uk
 cygnumtest.avsec.caa.co.uk
-www.register-opauth.caa.co.uk
+register-opauth.caa.co.uk
 uat-quadrant-delivery.exams.caa.co.uk
 portal-pre.caa.co.uk
 atolclaimsstaffuat.caa.co.uk
 dev-tasman-scheduling.exams.caa.co.uk
 register-drones-api.caa.co.uk
-www.dnxct.caa.co.uk
+dnxct.caa.co.uk
 register-drones-admin-staging.caa.co.uk
 businessobjects.caa.co.uk
 uat-tasman-paymentgateway-default.exams.caa.co.uk

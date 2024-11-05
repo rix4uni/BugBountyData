@@ -2,13 +2,12 @@ unsubscribe.outbound.io
 phabricator.outbound.io
 whatis.outbound.io
 docs.outbound.io
-www.outbound.io
 signup.outbound.io
 email.umg.outbound.io
 cdn.outbound.io
 status.outbound.io
 broadcastreports.outbound.io
-www.try.outbound.io
+try.outbound.io
 dfsp.outbound.io
 api.outbound.io
 msg-cdn.outbound.io
@@ -18,4 +17,3 @@ app-router.outbound.io
 beta.outbound.io
 help.outbound.io
 learn.outbound.io
-try.outbound.io

@@ -62,7 +62,6 @@ resources.healthequity.com
 hub.healthequity.com
 demo.dev.pp.healthequity.com
 click.e.healthequity.com
-www.healthequity.com
 scottandwhite.healthequity.com
 sales.healthequity.com
 regenceut.healthequity.com
@@ -80,7 +79,6 @@ publichsa.healthequity.com
 wellmark.healthequity.com
 scoop.healthequity.com
 connecticutcommunity.healthequity.com
-www.americanexpress.healthequity.com
 firstinterstatebank.healthequity.com
 member.pi.healthequity.com
 americanrepublic.healthequity.com
@@ -112,7 +110,6 @@ w.healthequity.com
 login.localdev.healthequity.com
 image.e.healthequity.com
 pre-profileadmin.uat2.healthequity.com
-www.1hsa.healthequity.com
 individual.healthequity.com
 service.healthequity.com
 myubiquity.healthequity.com
@@ -151,13 +148,9 @@ wpublic.healthequity.com
 bridgespan.healthequity.com
 send.healthequity.com
 stg.pp.healthequity.com
-*.stg.pp.healthequity.com
 prd.pp.healthequity.com
-*.prd.pp.healthequity.com
 pplt.pp.healthequity.com
-*.pplt.pp.healthequity.com
 dev.pp.healthequity.com
-*.dev.pp.healthequity.com
 test.dev.pp.healthequity.com
 googledns1.dev.pp.healthequity.com
 echo-app.zcor-d0-7831-07.dev.pp.healthequity.com

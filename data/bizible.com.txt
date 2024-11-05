@@ -1,7 +1,6 @@
 252fcdn.bizible.com
 enterpriseenrollment.bizible.com
 acct.bizible.com
-www.bizible.com
 d-acct.bizible.com
 edgecdn.bizible.com
 a.bizible.com
@@ -22,7 +21,6 @@ int.bizible.com
 ns2.bizible.com
 info2.bizible.com
 io.bizible.com
-www.learn.bizible.com
 apps.bizible.com
 cdn.bizible.com
 ns1.bizible.com
@@ -32,7 +30,6 @@ services.bizible.com
 d.bizible.com
 ns3.bizible.com
 live.bizible.com
-www.awesome.bizible.com
 awesome.bizible.com
 email.bizible.com
 dev-www.bizible.com
@@ -41,16 +38,7 @@ roi.bizible.com
 support.bizible.com
 go.bizible.com
 info.bizible.com
-www.cdn.bizible.com
 wp.bizible.com
-*.int.bizible.com
-*.bizible.com
-*.sf.bizible.com
-*.apps.bizible.com
-*.stage.bizible.com
-*.sand.bizible.com
-*.dev.bizible.com
-*.staging.bizible.com
 lookerapi.bizible.com
 enterpriseregistration.bizible.com
 dynamics.bizible.com

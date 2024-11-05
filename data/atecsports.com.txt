@@ -2,7 +2,7 @@ ss.atecsports.com
 cloud.insider.atecsports.com
 login.atecsports.com
 origin-stage.atecsports.com
-www.ecom.atecsports.com
+ecom.atecsports.com
 admin-origin-prod-cms.atecsports.com
 admin-origin-stage-cms.atecsports.com
 shop.atecsports.com
@@ -17,7 +17,6 @@ emails.atecsports.com
 dev.atecsports.com
 origin-dev.atecsports.com
 media.atecsports.com
-www.atecsports.com
 origin-dev-cms.atecsports.com
 smetrics.atecsports.com
 qual-it-pod-global.ecom.atecsports.com
@@ -27,5 +26,3 @@ login-dev.atecsports.com
 stage.atecsports.com
 origin-stage-cms.atecsports.com
 login-qa.atecsports.com
-*.atecsports.com
-*.shop.atecsports.com

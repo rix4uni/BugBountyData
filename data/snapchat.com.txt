@@ -1,10 +1,9 @@
-*.snapchat.com
-*.api.snapchat.com
-*.ats.snapchat.com
-*.aws.duplex.snapchat.com
-*.aws.staging.duplex.snapchat.com
-*.games.snapchat.com
-*.sc-gw-dev.snapchat.com
+api.snapchat.com
+ats.snapchat.com
+aws.duplex.snapchat.com
+aws.staging.duplex.snapchat.com
+games.snapchat.com
+sc-gw-dev.snapchat.com
 0-prod.chat.snapchat.com
 0.gs.bmp.cognac.snapchat.com
 09.antivirus.snappublisher.snapchat.com
@@ -381,7 +380,6 @@ antivirusweb.snappublisher.snapchat.com
 ap-south1-aws.api.snapchat.com
 ap-southeast1-aws.gateway.snapchat.com
 ap-southeast1-aws192.snappublisher.snapchat.com
-api.snapchat.com
 api-kit.snapchat.com
 api.snappublisher.snapchat.com
 apis.snapchat.com
@@ -404,7 +402,6 @@ asia-southeast1.gs.airtime.cognac.snapchat.com
 asia-southeast1.gs.bmt.cognac.snapchat.com
 asia-southeast1.gs.catsr.cognac.snapchat.com
 assets.snappublisher.snapchat.com
-ats.snapchat.com
 attribution-shadow.snapchat.com
 auth.snapchat.com
 auth-chat-gateway069-prod.snappublisher.snapchat.com
@@ -413,9 +410,7 @@ autoconfig.snappublisher.snapchat.com
 autodiscover.snappublisher.snapchat.com
 aws-proxy-gcp.api.snapchat.com
 aws.api.snapchat.com
-aws.duplex.snapchat.com
 aws.snappublisher.snapchat.com
-aws.staging.duplex.snapchat.com
 awsantivirus.snappublisher.snapchat.com
 awsdashboard.snappublisher.snapchat.com
 b.snappublisher.snapchat.com
@@ -987,7 +982,6 @@ fw.snappublisher.snapchat.com
 ga.snappublisher.snapchat.com
 gac-rds-external-readonly-preprod.snappublisher.snapchat.com
 gac-rds-external-readonly.snappublisher.snapchat.com
-games.snapchat.com
 games.snappublisher.snapchat.com
 gantivirus-aom-produantivirus-at-find-dev.snappublisher.snapchat.com
 gantivirus-aom-produantivirus-at-find-devgws-uat.snappublisher.snapchat.com
@@ -1296,7 +1290,6 @@ rx.snappublisher.snapchat.com
 s.snapchat.com
 s3.chat-gateway083-prod.snappublisher.snapchat.com
 s3.snappublisher.snapchat.com
-sc-gw-dev.snapchat.com
 sc-gw-devdocs-antivirus.snappublisher.snapchat.com
 scan.snapchat.com
 scan-partners.snapchat.com
@@ -1492,9 +1485,6 @@ wordpress.snappublisher.snapchat.com
 wp.snappublisher.snapchat.com
 ww.snapchat.com
 ww1.snappublisher.snapchat.com
-www.snapchat.com
-www.business.snapchat.com
-www.intg.snapchat.com
 www1.snappublisher.snapchat.com
 www2.snappublisher.snapchat.com
 z.antivirus.snappublisher.snapchat.com
@@ -1545,7 +1535,6 @@ antivirus-antivirus-chef.snappublisher.snapchat.com
 chat-gateway227-prod.snappublisher.snapchat.com
 ingress-us-central1-gcp-api.sc-gw-dev.snapchat.com
 aws-api.sc-gw-dev.snapchat.com
-www.web.snapchat.com
 devantiviruslax.snappublisher.snapchat.com
 preproduction-dot-softserve.snapchat.com
 ingress-ap-south1-aws.api.snapchat.com
@@ -1659,12 +1648,10 @@ ingress-us-east1-gcp.api.snapchat.com
 ingress-us-west2-aws-api.sc-gw-dev.snapchat.com
 2009.antivirus.snappublisher.snapchat.com
 _etcd-server-ssl.snappublisher.snapchat.com
-www.snappublisher.snapchat.com
 _cuplogin.snappublisher.snapchat.com
 2015-antivirus.snappublisher.snapchat.com
 2012.snappublisher.snapchat.com
 _mta-sts.snappublisher.snapchat.com
-www.virusscan.snappublisher.snapchat.com
 educators.snapchat.com
 u002fwww.snapchat.com
 chat-gateway225-prod.chat.snapchat.com
@@ -1672,7 +1659,6 @@ chat-gateway225-prod.chat.snapchat.com
 chat-gateway022-prod.chat.snapchat.com
 chat-gateway364-prod.chat.snapchat.com
 httpsaaccounts.snapchat.com
-www.gcp.api.snapchat.com
 s3.snapchat.com
 chat-gateway200-prod.chat.snapchat.com
 chat-gateway253-prod.chat.snapchat.com

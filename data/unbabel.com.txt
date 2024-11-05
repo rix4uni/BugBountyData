@@ -325,7 +325,6 @@ portal-cfd-staging-ng-pub.test.unbabel.com
 halo-cfd-halo-dev-ng-pub.development.unbabel.com
 portal-cloudfront-ngprofilestaging-pub.infra.unbabel.com
 signup-cloudfront-production-ng-pub.production.unbabel.com
-www.cyrano.unbabel.com
 tacol8r-cdn.unbabel.com
 cert-test-11.unbabel.com
 echo-oidc-staging.unbabel.com
@@ -345,7 +344,7 @@ translationapios-langos-staging-ng.unbabel.com
 webeditorproxy.unbabel.com
 integrations.unbabel.com
 translationapios-langos-production-ng.unbabel.com
-www.fortivpn.unbabel.com
+fortivpn.unbabel.com
 tacol8r-cfd-testapp-dev-ng-pub.development.unbabel.com
 annotations-os.unbabel.com
 api.staging.k8s.infra.unbabel.com
@@ -394,7 +393,6 @@ gitlab.unbabel.com
 scarlett.unbabel.com
 languageosfileapis-lingo24-production-ng.unbabel.com
 gs-pt-br.gs-annotations.unbabel.com
-www.unbabel.com
 n8n.unbabel.com
 portal-cloudfront-stagingmajor-pub.infra.unbabel.com
 portal-dev-ng.unbabel.com
@@ -402,8 +400,6 @@ portal.unbabel.com
 signup-cloudfront-staging-ng-pub.test.unbabel.com
 signup.unbabel.com
 mtdemo.unbabel.com
-www.editors.unbabel.com
-www.register.unbabel.com
 portal-cfd-dev-ng-pub.development.unbabel.com
 samora.unbabel.com
 locworld.unbabel.com
@@ -487,14 +483,12 @@ web.unbabel.com
 portal-cfd-mifes-production-ng-pub.production.unbabel.com
 samora-cfd-cdn-pub.production.unbabel.com
 portal-cloudfront-prodmicroapps-pub.infra.unbabel.com
-www.meet.unbabel.com
-fortivpn.unbabel.com
 portal-staging.unbabel.com
 swatwam.unbabel.com
 ticketapi-staging-ng.unbabel.com
 portal-cloudfront-microapps-staging-ng-pub.test.unbabel.com
 test-staging-iam.unbabel.com
-www.ebola-info.unbabel.com
+ebola-info.unbabel.com
 signatures.unbabel.com
 swatwam-staging.unbabel.com
 webtranslator-cfd-staging-ng-pub.test.unbabel.com

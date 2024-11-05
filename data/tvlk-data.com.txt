@@ -1,4 +1,3 @@
-*.tvlk-data.com
 accom-review-correction.prod.tvlk-data.com
 accom-review-correction.stg.tvlk-data.com
 acl-backend.stg.tvlk-data.com
@@ -181,7 +180,6 @@ mkt-affiliate.tvlk-data.com
 duqunapp-stg.tvlk-data.com
 mbahdukun.tvlk-data.com
 _dmarc.tvlk-data.com
-www.tvlk-data.com
 data-gov.prod.tvlk-data.com
 sso-grafana-stg.tvlk-data.com
 expairflow.tvlk-data.com

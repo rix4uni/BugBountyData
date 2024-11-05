@@ -1,12 +1,10 @@
 nextcloud.gld.nl
-*.gld.nl
 upload.gld.nl
-www.wireless.gld.nl
+wireless.gld.nl
 feeds.gld.nl
 autodiscover.gld.nl
 henkpeters.gld.nl
 web.gld.nl
-www.gld.nl
 corona.gld.nl
 stream.gld.nl
 cdn.gld.nl
@@ -14,11 +12,9 @@ belofte.gld.nl
 regio8.localgrid.gld.nl
 webdev.gld.nl
 app.gld.nl
-wireless.gld.nl
 localgrid.gld.nl
 lab.gld.nl
 or.gld.nl
-www.cdn.gld.nl
 vaultwarden.gld.nl
 webcontent.gld.nl
 mail.gld.nl

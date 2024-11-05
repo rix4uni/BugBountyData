@@ -12,13 +12,12 @@ lb-test-single.infra-test.acc.glovoint.com
 ops.glovoint.com
 stage-provisioning.it.glovoint.com
 g8s-data-platform-prod.glovoint.com
-www.panorama.stage.it.glovoint.com
+panorama.stage.it.glovoint.com
 it.glovoint.com
 mlp-g8s-training-dev.glovoint.com
 design.glovoint.com
 lorenzo.infra-test.acc.glovoint.com
 partners-pwa-backend-demo.glovoint.com
-panorama.stage.it.glovoint.com
 pulpo.it.glovoint.com
 spinnaker.glovoint.com
 contracdb.glovoint.com
@@ -33,7 +32,7 @@ g8s-mlp-training-prod.glovoint.com
 g8s-services-dev.glovoint.com
 mlp-g8s-prod.glovoint.com
 2a57j78p5y77msdkhuijstmv1zl6ij9.andrii.infra-test.acc.glovoint.com
-www.andrii.infra-test.acc.glovoint.com
+andrii.infra-test.acc.glovoint.com
 lb-test.infra-test.acc.glovoint.com
 paf-tools.glovoint.com
 sftp.stage.it.glovoint.com
@@ -43,7 +42,6 @@ netbox.it.glovoint.com
 netbox.stage.it.glovoint.com
 syslog.stage.it.glovoint.com
 g8s-services-prod.glovoint.com
-andrii.infra-test.acc.glovoint.com
 m5-kubeflow.ml.dispatching-dev.acc.glovoint.com
 provisioning.it.glovoint.com
 zoekt.glovoint.com

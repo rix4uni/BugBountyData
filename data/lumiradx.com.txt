@@ -333,13 +333,11 @@ parcerias.lumiradx.com
 collaborazioni.lumiradx.com
 lumira-s3indexer.assay.lumiradx.com
 jaguar-solr-1.lumiradx.com
-www.jama-dev.lumiradx.com
 integration-synctransactionviewer.quantum.lumiradx.com
 dashboard.staging.assay.lumiradx.com
 dev1-synctransactionviewer.quantum.lumiradx.com
 inrstar-dev-quantum-1.lumiradx.com
 demo2-core-2.lumiradx.com
-www.wiki-stage.lumiradx.com
 qr.lumiradx.com
 x-partner-testresult.staging.assay.lumiradx.com
 jaguar-core-2.lumiradx.com
@@ -350,7 +348,6 @@ demo2.lumiradx.com
 integration-tools.quantum.lumiradx.com
 dev3-system.quantum.lumiradx.com
 dolos.lumiradx.com
-www.wiki-dev.lumiradx.com
 dev1-apitransactionviewer.quantum.lumiradx.com
 cnmi-dev-solr-1.lumiradx.com
 testresult-connector.staging.assay.lumiradx.com
@@ -364,10 +361,8 @@ dev3-platformmanager.quantum.lumiradx.com
 ldxcs-hscn-vpn.caresolutions.lumiradx.com
 staging-lumira-s3indexer.staging.assay.lumiradx.com
 bentley-solr-2.lumiradx.com
-www.ithelp.lumiradx.com
 envirologix.staging.assay.lumiradx.com
 wmo.quantum.lumiradx.com
-www.jama.lumiradx.com
 demo2-solr-1.lumiradx.com
 austin-mirthconnect.lumiradx.com
 dp.lumiradx.com
@@ -377,12 +372,10 @@ dev1-api.quantum.lumiradx.com
 jira-prod.lumiradx.com
 demo-qsys-1.lumiradx.com
 jaguar.lumiradx.com
-www.jira-quantum.lumiradx.com
 cnmi-dev-mongo-1.lumiradx.com
 kafka-mqtt.staging.assay.lumiradx.com
 caresolutions.lumiradx.com
 staging-x-partner-s3indexer.staging.assay.lumiradx.com
-www.jira-stage.lumiradx.com
 jaguar-mongo-1.lumiradx.com
 auth.ldx-analytics-dgtest-uk-preprod.lumiradx.com
 demo-qapi-1.lumiradx.com
@@ -402,7 +395,6 @@ cftest.lumiradx.com
 bentley-mongo-1.lumiradx.com
 cnmi-dev-core-2.lumiradx.com
 integration-synctransationviewer.quantum.lumiradx.com
-www.av.lumiradx.com
 hub.staging.assay.lumiradx.com
 qaatat35ctionviewer.quantum.lumiradx.com
 dev.cnmi.lumiradx.com
@@ -414,12 +406,10 @@ inrstar-dev-qsync-1.lumiradx.com
 s-qms-wi-31540.tools.lumiradx.com
 lumira-s3indexer.staging.assay.lumiradx.com
 ukstage-solr-2.lumiradx.com
-www.lumiradx.com
 docs.staging.assay.lumiradx.com
 bentley-mongo-2.lumiradx.com
 logstore.lumiradx.com
 form.lumiradx.com
-www.jira-dev.lumiradx.com
 dev1-sync.quantum.lumiradx.com
 integration-sync.quantum.lumiradx.com
 integration-dataviewer.quantum.lumiradx.com
@@ -428,7 +418,6 @@ logging.staging.assay.lumiradx.com
 operations-uk.lumiradx.com
 api.lumiradx.com
 dev1-tools.quantum.lumiradx.com
-www.testrail.lumiradx.com
 quantumtools.lumiradx.com
 spacewalk.lumiradx.com
 jaguar-mongo-2.lumiradx.com
@@ -437,10 +426,8 @@ integration-iis-1.quantum.lumiradx.com
 inrstar-ie.caresolutions.lumiradx.com
 dgtest-uk-preprod.lumiradx.com
 bentley-core-2.lumiradx.com
-www.parcerias.lumiradx.com
 inrstar-dev-qsys-1.lumiradx.com
 jaguar-solr-3.lumiradx.com
-www.wiki-quantum.lumiradx.com
 connect-data.staging.assay.lumiradx.com
 banalytics-data.staging.assay.lumiradx.com
 demo2-solr-3.lumiradx.com

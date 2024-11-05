@@ -1,6 +1,5 @@
-*.eu.newrelic.com
-*.infrastructure-command-api.eu.newrelic.com
-*.service.eu.newrelic.com
+infrastructure-command-api.eu.newrelic.com
+service.eu.newrelic.com
 alerts.eu.newrelic.com
 api.eu.newrelic.com
 cf-infrastructure-command-api.eu.newrelic.com
@@ -10,7 +9,6 @@ eu.newrelic.com-tls12.eu.newrelic.com
 httptools-non-sni.eu.newrelic.com
 httptools-sni.eu.newrelic.com
 identity-api.eu.newrelic.com
-infrastructure-command-api.eu.newrelic.com
 ingest-test-api.eu.newrelic.com
 insights.eu.newrelic.com
 log-api.eu.newrelic.com
@@ -22,7 +20,6 @@ pepito.test-httptools.eu.newrelic.com
 public-service-gateway.eu.newrelic.com
 radar-api.service.eu.newrelic.com
 rpm.eu.newrelic.com
-service.eu.newrelic.com
 sockets.service.eu.newrelic.com
 spectrum.cf-infrastructure-command-api.eu.newrelic.com
 synthetics.eu.newrelic.com
@@ -277,7 +274,7 @@ train.alertsm.service.dr.eu.newrelic.com
 1da96.service.dr.eu.newrelic.com
 administrators-140autodiscover.service.dr.eu.newrelic.com
 collector-186.eu.newrelic.com
-www.affiliates.service.dr.eu.newrelic.com
+affiliates.service.dr.eu.newrelic.com
 collector-137.eu.newrelic.com
 collector-257.eu.newrelic.com
 10k8s.service.dr.eu.newrelic.com
@@ -292,7 +289,6 @@ track.6.service.dr.eu.newrelic.com
 193-dev.service.dr.eu.newrelic.com
 117-infrastructuredev.service.dr.eu.newrelic.com
 alesund-gw1.service.dr.eu.newrelic.com
-www.service.dr.eu.newrelic.com
 24185.service.dr.eu.newrelic.com
 community.eu.newrelic.com
 apps.agent-usage-db-gateway.service.dr.eu.newrelic.com
@@ -401,7 +397,7 @@ alerttest.267.service.dr.eu.newrelic.com
 18.service.dr.eu.newrelic.com
 3507.service.dr.eu.newrelic.com
 alertregistry.service.dr.eu.newrelic.com
-www.789nfrastructurestaging.service.dr.eu.newrelic.com
+789nfrastructurestaging.service.dr.eu.newrelic.com
 infrastructure.001autodiscover.service.dr.eu.newrelic.com
 0-infrastructuretest.service.dr.eu.newrelic.com
 16.alertm.service.dr.eu.newrelic.com
@@ -461,7 +457,7 @@ ajby.service.dr.eu.newrelic.com
 s2._domainkey.eu.newrelic.com
 afshin1363.service.dr.eu.newrelic.com
 1cd.service.dr.eu.newrelic.com
-www.cadwmembership.admins.service.dr.eu.newrelic.com
+cadwmembership.admins.service.dr.eu.newrelic.com
 us-east-8.007-registry.service.dr.eu.newrelic.com
 6system-support-staging-16.service.dr.eu.newrelic.com
 229infrastructure-alert.service.dr.eu.newrelic.com
@@ -660,7 +656,7 @@ chi-prod-timeslice-11.eu.newrelic.com
 7klnfrastructure-staging.service.dr.eu.newrelic.com
 alize.service.dr.eu.newrelic.com
 adphi.service.dr.eu.newrelic.com
-www.cadwmembership.287.service.dr.eu.newrelic.com
+cadwmembership.287.service.dr.eu.newrelic.com
 16-learstaging.service.dr.eu.newrelic.com
 8-artifact-registry.service.dr.eu.newrelic.com
 18321.service.dr.eu.newrelic.com
@@ -766,7 +762,7 @@ aal.service.dr.eu.newrelic.com
 241-7.service.dr.eu.newrelic.com
 collector-205.eu.newrelic.com
 5-www.service.dr.eu.newrelic.com
-www.1.service.dr.eu.newrelic.com
+1.service.dr.eu.newrelic.com
 195157m.service.dr.eu.newrelic.com
 3919.service.dr.eu.newrelic.com
 learn.1.service.dr.eu.newrelic.com
@@ -955,7 +951,7 @@ alertswwwapi-alertm.service.dr.eu.newrelic.com
 allele.service.dr.eu.newrelic.com
 afmpc-10.service.dr.eu.newrelic.com
 infrastructure.m.237.service.dr.eu.newrelic.com
-www.9.service.dr.eu.newrelic.com
+9.service.dr.eu.newrelic.com
 adv.service.dr.eu.newrelic.com
 aliaaelmahdiy.service.dr.eu.newrelic.com
 37168.service.dr.eu.newrelic.com
@@ -1217,7 +1213,6 @@ collector3.eu.newrelic.com
 activatuprograma.service.dr.eu.newrelic.com
 14m.service.dr.eu.newrelic.com
 collector-168.eu.newrelic.com
-www.administrators.service.dr.eu.newrelic.com
 cloudfront-dl.eu.newrelic.com
 1-developer.service.dr.eu.newrelic.com
 discuss.m.102.service.dr.eu.newrelic.com
@@ -1252,7 +1247,7 @@ agronomy.service.dr.eu.newrelic.com
 306ec.service.dr.eu.newrelic.com
 discuss.262m.service.dr.eu.newrelic.com
 suppormail.alertsmail.service.dr.eu.newrelic.com
-www.114cadwmembership.service.dr.eu.newrelic.com
+114cadwmembership.service.dr.eu.newrelic.com
 apt.eu.newrelic.com
 acceptdlfkgjnvpeir.service.dr.eu.newrelic.com
 251140.service.dr.eu.newrelic.com
@@ -1324,7 +1319,6 @@ hypertext.252learm.service.dr.eu.newrelic.com
 24040.service.dr.eu.newrelic.com
 alerttestbed.service.dr.eu.newrelic.com
 188.service.dr.eu.newrelic.com
-1.service.dr.eu.newrelic.com
 collector-213.eu.newrelic.com
 289.service.dr.eu.newrelic.com
 206-9.service.dr.eu.newrelic.com
@@ -1447,7 +1441,6 @@ cloudflare-staging-metric-api.eu.newrelic.com
 39481.service.dr.eu.newrelic.com
 collector-267.eu.newrelic.com
 alconbry-piv-2.service.dr.eu.newrelic.com
-cadwmembership.admins.service.dr.eu.newrelic.com
 mail-159-2.alerts.eu.newrelic.com
 learn.195www.service.dr.eu.newrelic.com
 106.service.dr.eu.newrelic.com
@@ -1724,7 +1717,7 @@ activeafrica-co.service.dr.eu.newrelic.com
 3743b.service.dr.eu.newrelic.com
 _sip._sctp.service.dr.eu.newrelic.com
 v.agent-usage-db-gateway.service.dr.eu.newrelic.com
-www.administrator-cadwmembership.service.dr.eu.newrelic.com
+administrator-cadwmembership.service.dr.eu.newrelic.com
 portal.140.service.dr.eu.newrelic.com
 5n876q-bf65nh67gc-r.service.dr.eu.newrelic.com
 discuss-staging.accounting.service.dr.eu.newrelic.com
@@ -1815,7 +1808,6 @@ chi-staging-collector-pool.eu.newrelic.com
 2fchartmail.service.dr.eu.newrelic.com
 profiles.157m.service.dr.eu.newrelic.com
 infrastructure-userdata.1.service.dr.eu.newrelic.com
-www.2.service.dr.eu.newrelic.com
 131test.service.dr.eu.newrelic.com
 aayande.service.dr.eu.newrelic.com
 alertswwwapi.service.dr.eu.newrelic.com
@@ -2041,7 +2033,6 @@ chi-prod-collector-4.eu.newrelic.com
 212718nfrastructure-staging.service.dr.eu.newrelic.com
 ads.service.dr.eu.newrelic.com
 2agent-usage-db-gateway.service.dr.eu.newrelic.com
-www.157m-cadwmembership.service.dr.eu.newrelic.com
 dev.eu.newrelic.com
 9context.service.dr.eu.newrelic.com
 chi.140.service.dr.eu.newrelic.com
@@ -2204,7 +2195,6 @@ images.alertm.service.dr.eu.newrelic.com
 175-self-serve.service.dr.eu.newrelic.com
 infrastructure.46m.service.dr.eu.newrelic.com
 386c.service.dr.eu.newrelic.com
-affiliates.service.dr.eu.newrelic.com
 247.service.dr.eu.newrelic.com
 collector-229.eu.newrelic.com
 collector-167.eu.newrelic.com
@@ -2231,7 +2221,6 @@ chi-prod-collector-2.eu.newrelic.com
 106collector-252learm.service.dr.eu.newrelic.com
 0345concordia.service.dr.eu.newrelic.com
 8x32.service.dr.eu.newrelic.com
-www.chart-embed.service.eu.newrelic.com
 chi-staging-acct-2.eu.newrelic.com
 ags.service.dr.eu.newrelic.com
 48522.service.dr.eu.newrelic.com
@@ -2423,7 +2412,6 @@ collector-261.eu.newrelic.com
 1-dev.service.dr.eu.newrelic.com
 ahbt.service.dr.eu.newrelic.com
 afrri.service.dr.eu.newrelic.com
-9.service.dr.eu.newrelic.com
 aday.service.dr.eu.newrelic.com
 3954.service.dr.eu.newrelic.com
 250m.service.dr.eu.newrelic.com
@@ -2819,7 +2807,6 @@ br.eu.newrelic.com
 a5chp.service.dr.eu.newrelic.com
 collector-284.eu.newrelic.com
 chi-data-2-data1.eu.newrelic.com
-114cadwmembership.service.dr.eu.newrelic.com
 docsdrop.140.service.dr.eu.newrelic.com
 alix.service.dr.eu.newrelic.com
 usage.2fchartdata.service.dr.eu.newrelic.com
@@ -2855,7 +2842,7 @@ amata.service.dr.eu.newrelic.com
 14.292discusmail.service.dr.eu.newrelic.com
 aallan.service.dr.eu.newrelic.com
 alertsgit.service.dr.eu.newrelic.com
-www.140.service.dr.eu.newrelic.com
+140.service.dr.eu.newrelic.com
 184.service.dr.eu.newrelic.com
 infrastructure.autodiscover.198.service.dr.eu.newrelic.com
 infrastructure.m.250.service.dr.eu.newrelic.com
@@ -2905,7 +2892,6 @@ learn.215staging.service.dr.eu.newrelic.com
 254-supporttest.service.dr.eu.newrelic.com
 cert.alertsmail-collector-184.service.dr.eu.newrelic.com
 self.alertsm.service.dr.eu.newrelic.com
-www.admin.service.dr.eu.newrelic.com
 aliceerrada.service.dr.eu.newrelic.com
 16865.service.dr.eu.newrelic.com
 chart.alertautodiscover.service.dr.eu.newrelic.com
@@ -2974,7 +2960,6 @@ aeab.service.dr.eu.newrelic.com
 316a2.service.dr.eu.newrelic.com
 1605684893.service.dr.eu.newrelic.com
 active-discusm.service.dr.eu.newrelic.com
-www.114-cadwmembership.service.dr.eu.newrelic.com
 2028.service.dr.eu.newrelic.com
 2learminfrastructurautodiscover.service.dr.eu.newrelic.com
 ajbp.service.dr.eu.newrelic.com
@@ -3001,7 +2986,6 @@ collector-112.eu.newrelic.com
 amarshal.service.dr.eu.newrelic.com
 supportmail.230.service.dr.eu.newrelic.com
 216.alertautodiscover.service.dr.eu.newrelic.com
-cadwmembership.287.service.dr.eu.newrelic.com
 14-secure.service.dr.eu.newrelic.com
 157m.291.service.dr.eu.newrelic.com
 32234.service.dr.eu.newrelic.com
@@ -3023,7 +3007,7 @@ qn4xppbzjyijz5bji3sprpvjl43poxin._domainkey.eu.newrelic.com
 collector8.eu.newrelic.com
 agrupacioncombativosmercantiles.service.dr.eu.newrelic.com
 2013dlfkgjnvpeir.service.dr.eu.newrelic.com
-www.accountingcadwmembership.service.dr.eu.newrelic.com
+accountingcadwmembership.service.dr.eu.newrelic.com
 learn.252learmwww.service.dr.eu.newrelic.com
 15-82.service.dr.eu.newrelic.com
 agentdata.service.dr.eu.newrelic.com
@@ -3106,7 +3090,6 @@ aamcquay.service.dr.eu.newrelic.com
 a325wsm.service.dr.eu.newrelic.com
 adlar.service.dr.eu.newrelic.com
 admisiones.service.dr.eu.newrelic.com
-www.181.service.dr.eu.newrelic.com
 aclarkmeyers.service.dr.eu.newrelic.com
 22-98.service.dr.eu.newrelic.com
 east.alertsmail.service.dr.eu.newrelic.com
@@ -3130,7 +3113,6 @@ alfin2300.service.dr.eu.newrelic.com
 16alertm.service.dr.eu.newrelic.com
 258infrastructuretest.service.dr.eu.newrelic.com
 learnstaging.adm.service.dr.eu.newrelic.com
-administrator-cadwmembership.service.dr.eu.newrelic.com
 aflc-wp-remis.service.dr.eu.newrelic.com
 collector-158.eu.newrelic.com
 adsls.service.dr.eu.newrelic.com
@@ -3248,7 +3230,6 @@ alertswwwapihelp.service.dr.eu.newrelic.com
 addon.service.dr.eu.newrelic.com
 infrastructure-userdata.acc.service.dr.eu.newrelic.com
 195suppordev.service.dr.eu.newrelic.com
-www.4.service.dr.eu.newrelic.com
 collector-252learm.1.service.dr.eu.newrelic.com
 dev-insights.eu.newrelic.com
 168.service.dr.eu.newrelic.com
@@ -3421,7 +3402,6 @@ agent-usage-db-integration.service.dr.eu.newrelic.com
 4v1-reset.service.dr.eu.newrelic.com
 197.service.dr.eu.newrelic.com
 discuss.187mail.service.dr.eu.newrelic.com
-www.230.service.dr.eu.newrelic.com
 12290.service.dr.eu.newrelic.com
 acc-157m.service.dr.eu.newrelic.com
 99r.service.dr.eu.newrelic.com
@@ -3539,7 +3519,6 @@ cs.140autodiscover.service.dr.eu.newrelic.com
 15-89.service.dr.eu.newrelic.com
 0x6f0.service.dr.eu.newrelic.com
 documentation.alertsmail-collector-184.service.dr.eu.newrelic.com
-www.228cadwmembership.service.dr.eu.newrelic.com
 170learn-www.service.dr.eu.newrelic.com
 214autodiscover.service.dr.eu.newrelic.com
 addictedtoblush.service.dr.eu.newrelic.com
@@ -3665,7 +3644,6 @@ aerospaceadmin-learnsilstaging.service.dr.eu.newrelic.com
 007.service.dr.eu.newrelic.com
 10686.service.dr.eu.newrelic.com
 artifact-registry.284.service.dr.eu.newrelic.com
-www.alumni.service.dr.eu.newrelic.com
 155wildcard-6.service.dr.eu.newrelic.com
 chi-rubicon.eu.newrelic.com
 149-7.service.dr.eu.newrelic.com
@@ -3677,7 +3655,6 @@ afghanistan.service.dr.eu.newrelic.com
 cms-release.eu.newrelic.com
 7-m.service.dr.eu.newrelic.com
 265-chartdata.service.dr.eu.newrelic.com
-www.170.service.dr.eu.newrelic.com
 infrastructure.255-www.service.dr.eu.newrelic.com
 chi-staging-trace-api.eu.newrelic.com
 221wildcard-6.service.dr.eu.newrelic.com
@@ -3773,7 +3750,6 @@ agent-usage-db-chef.service.dr.eu.newrelic.com
 adfs.service.dr.eu.newrelic.com
 collector-102.eu.newrelic.com
 195-autodiscover.service.dr.eu.newrelic.com
-www.252learmcadwmembership.service.dr.eu.newrelic.com
 alertsmailm.service.dr.eu.newrelic.com
 2d825.service.dr.eu.newrelic.com
 akind-rpm-instartulsfostaging.service.dr.eu.newrelic.com
@@ -3804,7 +3780,7 @@ ad4.service.dr.eu.newrelic.com
 0513.service.dr.eu.newrelic.com
 dev-fastly-switchboard-cache.eu.newrelic.com
 learn.1-www.service.dr.eu.newrelic.com
-www.254.service.dr.eu.newrelic.com
+254.service.dr.eu.newrelic.com
 alexandra.service.dr.eu.newrelic.com
 267.service.dr.eu.newrelic.com
 adwords.service.dr.eu.newrelic.com
@@ -3970,7 +3946,6 @@ abp.service.dr.eu.newrelic.com
 hypertext.292.service.dr.eu.newrelic.com
 agsg.service.dr.eu.newrelic.com
 abuse.service.dr.eu.newrelic.com
-254.service.dr.eu.newrelic.com
 firewall.alertsm.service.dr.eu.newrelic.com
 adultfindoutdating.service.dr.eu.newrelic.com
 030.service.dr.eu.newrelic.com
@@ -4270,7 +4245,6 @@ alpsstaging.service.dr.eu.newrelic.com
 discusm.active.service.dr.eu.newrelic.com
 infrastructure.6-m.service.dr.eu.newrelic.com
 004domain-conditions.service.dr.eu.newrelic.com
-www.ads.service.dr.eu.newrelic.com
 250structure-userdata.service.dr.eu.newrelic.com
 chi-prod-agentdb-5.eu.newrelic.com
 2for1gift.service.dr.eu.newrelic.com
@@ -4290,7 +4264,7 @@ dr-collector-0.eu.newrelic.com
 104.service.dr.eu.newrelic.com
 dev-origin.eu.newrelic.com
 aissun.service.dr.eu.newrelic.com
-www.adimg.service.dr.eu.newrelic.com
+adimg.service.dr.eu.newrelic.com
 1-infrastructurautodiscover.service.dr.eu.newrelic.com
 214-rpm-admin.service.dr.eu.newrelic.com
 addamsd.service.dr.eu.newrelic.com
@@ -4332,7 +4306,6 @@ us-east-8.240-registry.service.dr.eu.newrelic.com
 collector-243.eu.newrelic.com
 alt-host.service.dr.eu.newrelic.com
 74.service.dr.eu.newrelic.com
-www.eu.newrelic.com
 agatux.service.dr.eu.newrelic.com
 25e2.service.dr.eu.newrelic.com
 discuss.adm.service.dr.eu.newrelic.com
@@ -4442,7 +4415,6 @@ europe.alertautodiscover.service.dr.eu.newrelic.com
 discuss.250-test.service.dr.eu.newrelic.com
 dev.alertm.service.dr.eu.newrelic.com
 8-140.service.dr.eu.newrelic.com
-www.123.service.dr.eu.newrelic.com
 97.service.dr.eu.newrelic.com
 225mail.service.dr.eu.newrelic.com
 269nerd-graph.service.dr.eu.newrelic.com
@@ -4465,7 +4437,6 @@ adelphi-amcld21.service.dr.eu.newrelic.com
 31617.service.dr.eu.newrelic.com
 143.service.dr.eu.newrelic.com
 23dlfkgjnvpeir.service.dr.eu.newrelic.com
-www.acc.service.dr.eu.newrelic.com
 67.service.dr.eu.newrelic.com
 collector-253.eu.newrelic.com
 acme.service.dr.eu.newrelic.com
@@ -4540,7 +4511,6 @@ agaadvogados.service.dr.eu.newrelic.com
 aix1.service.dr.eu.newrelic.com
 collector-114.eu.newrelic.com
 alexandre.service.dr.eu.newrelic.com
-www.2-cadwmembership.service.dr.eu.newrelic.com
 299wildcard-6.service.dr.eu.newrelic.com
 collector-160.eu.newrelic.com
 adelphi-msc.service.dr.eu.newrelic.com
@@ -4591,7 +4561,6 @@ accounts.service.dr.eu.newrelic.com
 38-32.service.dr.eu.newrelic.com
 ads3.service.dr.eu.newrelic.com
 50.service.dr.eu.newrelic.com
-accountingcadwmembership.service.dr.eu.newrelic.com
 ajue.service.dr.eu.newrelic.com
 0agent-usage-db-gateway.service.dr.eu.newrelic.com
 dev-infrastructure-api.eu.newrelic.com
@@ -4726,7 +4695,6 @@ alert178.service.dr.eu.newrelic.com
 chi-prod-data-5.eu.newrelic.com
 a2fe2.service.dr.eu.newrelic.com
 ache.service.dr.eu.newrelic.com
-140.service.dr.eu.newrelic.com
 administrators-chartdata.service.dr.eu.newrelic.com
 chi-staging-test-1.eu.newrelic.com
 infrastructure.256m.service.dr.eu.newrelic.com
@@ -4807,7 +4775,6 @@ nerd-graph.alerts.service.dr.eu.newrelic.com
 insights.dr.eu.newrelic.com
 agentwww.service.dr.eu.newrelic.com
 collector-5.eu.newrelic.com
-www.developer.eu.newrelic.com
 1232.service.dr.eu.newrelic.com
 nrsalesforce1._domainkey.eu.newrelic.com
 alpha1.service.dr.eu.newrelic.com
@@ -4817,7 +4784,6 @@ adm-discuss-test.service.dr.eu.newrelic.com
 advocatshmelev.service.dr.eu.newrelic.com
 217structure-userdata.service.dr.eu.newrelic.com
 akvi.service.dr.eu.newrelic.com
-adimg.service.dr.eu.newrelic.com
 900.service.dr.eu.newrelic.com
 2learmalertsm.service.dr.eu.newrelic.com
 ally35065-infrastructure-staging.service.dr.eu.newrelic.com
@@ -4835,10 +4801,8 @@ collector-177.eu.newrelic.com
 222b1.service.dr.eu.newrelic.com
 9infrastructure-context.service.dr.eu.newrelic.com
 18ten.service.dr.eu.newrelic.com
-www.docs-preview.eu.newrelic.com
 collector-182.eu.newrelic.com
 275-conditions.service.dr.eu.newrelic.com
-www.233.service.dr.eu.newrelic.com
 svc.alertsmail.service.dr.eu.newrelic.com
 1915.service.dr.eu.newrelic.com
 10724.service.dr.eu.newrelic.com
@@ -4918,7 +4882,6 @@ collector-234.eu.newrelic.com
 27540.service.dr.eu.newrelic.com
 4.alertm.service.dr.eu.newrelic.com
 2fchart192.service.dr.eu.newrelic.com
-www.14.service.dr.eu.newrelic.com
 360a2.service.dr.eu.newrelic.com
 96astaging.service.dr.eu.newrelic.com
 292.service.dr.eu.newrelic.com
@@ -4935,7 +4898,6 @@ alertproxy.service.dr.eu.newrelic.com
 14306.service.dr.eu.newrelic.com
 discuss.alpham.service.dr.eu.newrelic.com
 abbd.service.dr.eu.newrelic.com
-www.255-cadwmembership.service.dr.eu.newrelic.com
 22990.service.dr.eu.newrelic.com
 learnmail.249.service.dr.eu.newrelic.com
 284structurstaging.service.dr.eu.newrelic.com

@@ -1,8 +1,6 @@
 dsd-europe.enreach.com
 sp.enreach.com
-www.sp.enreach.com
 files.enreach.com
-www.enreach.com
 servicedesk.sp.enreach.com
 dev.help.enreach.com
 selectplan.enreach.com
@@ -12,7 +10,6 @@ intranet.enreach.com
 glassfrog.enreach.com
 sharepoint.enreach.com
 myprofile.enreach.com
-*.sp.enreach.com
 home.enreach.com
 voicebook.enreach.com
 profile.enreach.com
@@ -21,11 +18,8 @@ mijn.enreach.com
 content.enreach.com
 campaigns.enreach.com
 whistleblower.enreach.com
-*.enreach.com
 partnerconnect.sp.enreach.com
-www.partnerconnect.sp.enreach.com
 staging6.partnerconnect.sp.enreach.com
-www.staging6.partnerconnect.sp.enreach.com
 nightly-qa-php83.operator.enreach.com
 k8s-avance.operator.enreach.com
 k8s-prod.operator.enreach.com
@@ -107,10 +101,8 @@ testgermany.lms.enreach.com
 internal.lms.enreach.com
 dutch.lms.enreach.com
 ccl.enreach.com
-www.ccl.enreach.com
 shop.enreach.com
 designsystem.enreach.com
-www.designsystem.enreach.com
 contact-staging.enreach.com
 contact-test.enreach.com
 queue-staging.enreach.com
@@ -121,13 +113,9 @@ staging.intouch.enreach.com
 ext-monitor.enreach.com
 contact-k8s.enreach.com
 staging4.partnerconnect.sp.enreach.com
-www.staging4.partnerconnect.sp.enreach.com
 test.designsystem.enreach.com
 hotjar.designsystem.enreach.com
 pos.uk.enreach.com
 storybook.ccl.enreach.com
 ccl-storybook.enreach.com
-*.goodhabitz.enreach.com
-*.teams.enreach.com
-*.staging.enreach.com
 staging.enreach.com

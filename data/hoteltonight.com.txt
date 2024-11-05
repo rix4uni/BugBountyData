@@ -30,7 +30,6 @@ calendar.hoteltonight.com
 zendesk1.hoteltonight.com
 hte.hoteltonight.com
 mailer.hoteltonight.com
-www.hoteltonight.com
 concierge.hoteltonight.com
 bookbetter.hoteltonight.com
 connectivity-internal.hoteltonight.com
@@ -55,7 +54,7 @@ sf.hoteltonight.com
 engineering.hoteltonight.com
 event-webhook-handler.hoteltonight.com
 api-h2.hoteltonight.com
-www.build.hoteltonight.com
+build.hoteltonight.com
 image.news.hoteltonight.com
 partners-dev.hoteltonight.com
 zendesk2.hoteltonight.com
@@ -79,8 +78,6 @@ view.mailer.hoteltonight.com
 view.news.hoteltonight.com
 txt.hoteltonight.com
 connectivity.hoteltonight.com
-build.hoteltonight.com
-www.brand.hoteltonight.com
 imagery.hoteltonight.com
 image.mailer.hoteltonight.com
 magenta.hoteltonight.com

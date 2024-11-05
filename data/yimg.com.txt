@@ -1,11 +1,10 @@
-*.yimg.com
-*.amp.yimg.com
-*.atlas.cdn.yimg.com
-*.ec.yimg.com
-*.http.atlas.cdn.yimg.com
-*.mrs.yimg.com
-*.vpg.cdn.yimg.com
-*.yql.yimg.com
+amp.yimg.com
+atlas.cdn.yimg.com
+ec.yimg.com
+http.atlas.cdn.yimg.com
+mrs.yimg.com
+vpg.cdn.yimg.com
+yql.yimg.com
 125-224-158-246.dynamic.inb.yimg.com
 2fs.yimg.com
 69-148-170-113.lightspeed.nsv3.atlas.cdn.daa.yimg.com
@@ -154,7 +153,6 @@ ambdlv12.atlas.cdn.amb.yimg.com
 ambrack04.vpg.cdn.yimg.com
 ambsr01.atlas.cdn.amb.yimg.com
 ambsr02.atlas.cdn.amb.yimg.com
-amp.yimg.com
 api.sats.cdn.vip.ac4.yimg.com
 api.sats.cdn.vip.bf1.yimg.com
 api.sats.cdn.vip.gq1.yimg.com
@@ -192,7 +190,6 @@ atadlv10.atlas.cdn.ata.yimg.com
 atadlv11.atlas.cdn.ata.yimg.com
 atadlv12.atlas.cdn.ata.yimg.com
 atalakitlak.adrienn.1b.hucdn.ata.yimg.com
-atlas.cdn.yimg.com
 atlaslab02.atlas.cdn.a4e.yimg.com
 au.yimg.com
 au.i1.yimg.com
@@ -811,7 +808,6 @@ e.yimg.com
 e1.yimg.com
 e1.i1.yimg.com
 e1.news1.yimg.com
-ec.yimg.com
 edgecast-vod.yimg.com
 ep.yimg.com
 eur.yimg.com
@@ -1025,7 +1021,6 @@ hkbdlv08.atlas.cdn.hkb.yimg.com
 hkbrack04.vpg.cdn.yimg.com
 hkmxlv03.atlas.cdn.hkb.yimg.com
 home.yimg.com
-http.atlas.cdn.yimg.com
 http.stgatlas.cdn.yimg.com
 http.testatlas.cdn.yimg.com
 i-18000a11.http.atlas.cdn.yimg.com
@@ -1278,7 +1273,6 @@ mm.yimg.com
 mobile.aunz.yimg.com
 mobile1.o.yimg.com
 movies.aunz.yimg.com
-mrs.yimg.com
 mud.mm-a1.yimg.com
 mud.mm-a2.yimg.com
 mud.mm-a3.yimg.com
@@ -2129,15 +2123,12 @@ vn1dlv01-fms.atlas.cdn.vn1.yimg.com
 vn1dlv01.atlas.cdn.vn1.yimg.com
 vn1dlv02-fms.atlas.cdn.vn1.yimg.com
 vn1dlv02.atlas.cdn.vn1.yimg.com
-vpg.cdn.yimg.com
 wf.yip.cdn.vip.bf1.yimg.com
 wf.yip.cdn.vip.gq1.yimg.com
 wf.yip.cdn.vip.sp2.yimg.com
 wretch.yimg.com
-www.yimg.com
-www.flickr.coms.yimg.com
-www.s.yimg.com
-www.woot.coms.yimg.com
+flickr.coms.yimg.com
+woot.coms.yimg.com
 xa.yimg.com
 xa1.yimg.com
 xa2.yimg.com
@@ -2146,7 +2137,6 @@ xh.yimg.com
 xp.yimg.com
 y.l.yimg.com
 yp.hk.yimg.com
-yql.yimg.com
 chart.yimg.com
 contact.yimg.com
 d11.yimg.com
@@ -2210,9 +2200,9 @@ us.a.1.yimg.com
 us.dl.1.yimg.com
 us.st.11.yimg.com
 usi.1.yimg.com
-www.re.3mm-a6.yimg.com
-www.us.1i.yimg.com
-www.us.i.1.yimg.com
+re.3mm-a6.yimg.com
+us.1i.yimg.com
+us.i.1.yimg.com
 yahoobookwormtm1-1.exefromus.1.yimg.com
 1.yimg.com
 12.yimg.com
@@ -2557,7 +2547,6 @@ brarack02-z.vpg.cdn.yimg.com
 sg.ybinst5.ec.yimg.com
 hk.ybinst6.ec.yimg.com
 dcadlv24.yimg.com
-woot.coms.yimg.com
 sms.bcst.vip.cdn.in.yimg.com
 s1sdlod035.yimg.com
 gugi.aroapi.yimg.com
@@ -2618,7 +2607,6 @@ mibrack02-z.yimg.com
 cdn.a4e.yimg.com
 irdsatsnfs01.yimg.com
 debrack01.vpg.cdn.yimg.com
-us.i.1.yimg.com
 frarack05-z.vpg.cdn.yimg.com
 tw1rack03.yimg.com
 gq.ybinst1.ec.yimg.com
@@ -2932,7 +2920,6 @@ cdn.vip.ird.yimg.com
 global.yimg.com
 movies1.yimg.com
 atlas.cdn.kra.yimg.com
-flickr.coms.yimg.com
 atlas.cdn.daa.yimg.com
 com.cdn.yimg.com
 atlas.cdn.fra.yimg.com
@@ -3154,7 +3141,5 @@ ne1.yimg.com
 fp1.yimg.com
 cha.yimg.com
 mm-a4.yimg.com
-re.3mm-a6.yimg.com
-us.1i.yimg.com
 sn-ab5l6n7s.gvt1.comqos.video.yimg.com
 s1sdlod041.bcst.cdn.s1s.yimg.com

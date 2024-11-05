@@ -1,5 +1,4 @@
-*.starlingbank.com
-*.openintegrations.starlingbank.com
+openintegrations.starlingbank.com
 admin.starlingbank.com
 api.starlingbank.com
 api-openbanking-sandbox.starlingbank.com
@@ -13,7 +12,6 @@ help.starlingbank.com
 help-sandbox.starlingbank.com
 media.starlingbank.com
 openbanking.starlingbank.com
-openintegrations.starlingbank.com
 settleup.starlingbank.com
 ssg.starlingbank.com
 staging.starlingbank.com
@@ -21,9 +19,6 @@ token-api-sandbox.starlingbank.com
 tooling.starlingbank.com
 updates.starlingbank.com
 womenseurofantasyfootball.starlingbank.com
-www.starlingbank.com
-www.cics.starlingbank.com
-www.community.starlingbank.com
 3dsecure.starlingbank.com
 engine.starlingbank.com
 teamcity.starlingbank.com

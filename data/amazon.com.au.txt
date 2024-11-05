@@ -25,7 +25,6 @@ origin-music.amazon.com.au
 fls-fe-opf.amazon.com.au
 reinstate.amazon.com.au
 account-status.amazon.com.au
-www.amazon.com.au
 origin-logistics.amazon.com.au
 feed-browserapps.amazon.com.au
 download-photos.amazon.com.au
@@ -160,13 +159,10 @@ cf.04f01a85e-frontier.amazon.com.au
 api-key.amazon.com.au
 04f01a85e-frontier.amazon.com.au
 tp.04f01a85e-frontier.amazon.com.au
-www.logistics.amazon.com.au
-*.transient.amazon.com.au
 na-bob-dispatch-gamma-alexa.amazon.com.au
 eu-bob-dispatch-prod-alexa.amazon.com.au
 ?.amazon.com.au
 opf-www.amazon.com.au
-*.amazon.com.au
 wbservices.amazon.com.au
 aan.amazon.com.au
 dropbear.amazon.com.au
@@ -211,7 +207,6 @@ origin-brandregistry.amazon.com.au
 fkeq2rhwpuydtytg5ercnyd5mdfl7tif._domainkey.amazon.com.au
 tp.f68869011-frontier.amazon.com.au
 3ajfe2dkk6mps277ffhpmbp27r6f57ga._domainkey.suppliernotifications.amazon.com.au
-www.advertising.amazon.com.au
 digprjsurvey.amazon.com.au
 pdt-snowfort-canary-splithorizon-negative.transient.amazon.com.au
 origin-affiliate-program.amazon.com.au
@@ -247,4 +242,4 @@ x2fwww.amazon.com.au
 yo-www-amazon-com-au-kalias.amazon.com.au
 nt-www-amazon-com-au-kalias.amazon.com.au
 y3-www-amazon-com-au-kalias.amazon.com.au
-www.abc.smile.amazon.com.au
+abc.smile.amazon.com.au

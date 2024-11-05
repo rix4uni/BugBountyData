@@ -2,15 +2,12 @@ news.tempow.com
 docs.tempow.com
 gitlab.tempow.com
 mushra.tempow.com
-www.tempow.com
-www.news.tempow.com
 server-dev.aws.tempow.com
 bloatbuster.tempow.com
 btmap.tempow.com
-www.dev.tempow.com
+dev.tempow.com
 aws.tempow.com
 bugzilla.tempow.com
-dev.tempow.com
 jira-automator.tempow.com
 registry.gitlab.tempow.com
 specs.tempow.com
@@ -20,7 +17,4 @@ mz6cdzhwp3.tempow.com
 xtpd0pj54m.tempow.com
 z8o6b8iyrs.tempow.com
 lddynrm3jm.tempow.com
-*.aws.tempow.com
-*.support.tempow.com
-*.bugzilla.tempow.com
 pooch.tempow.com

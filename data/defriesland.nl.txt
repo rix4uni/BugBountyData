@@ -34,7 +34,7 @@ tst-mijncollectief.defriesland.nl
 vecozo.defriesland.nl
 service.defriesland.nl
 acc.api.zorgzoeker.defriesland.nl
-www.communicatieshop.defriesland.nl
+communicatieshop.defriesland.nl
 acc-stg-mijncollectief.defriesland.nl
 stg.www.defriesland.nl
 cm.secure.defriesland.nl
@@ -61,7 +61,6 @@ wces.defriesland.nl
 tst-mob-api.defriesland.nl
 zorgzoekerapi.defriesland.nl
 acc2-www.defriesland.nl
-communicatieshop.defriesland.nl
 stg.api.zorgzoeker.defriesland.nl
 acc.www.defriesland.nl
 acc-www.defriesland.nl
@@ -70,15 +69,13 @@ secure-cms.defriesland.nl
 1.tst.zorgzoeker.defriesland.nl
 e.defriesland.nl
 acc.secure.defriesland.nl
-www.zorgzoeker.defriesland.nl
-www.magazine.defriesland.nl
+magazine.defriesland.nl
 acc-secure-azure.defriesland.nl
 mob-api.defriesland.nl
 stg.mijncollectief.defriesland.nl
 acc-login-select.zorgkantoor.defriesland.nl
 acc.login.mijncollectief.defriesland.nl
 lyncdiscover.defriesland.nl
-www.defriesland.nl
 kraampakket.defriesland.nl
 pre-inloggen-digid.defriesland.nl
 mobweb.defriesland.nl
@@ -143,7 +140,6 @@ zorgvergelijken.defriesland.nl
 fanvanfit-acc.defriesland.nl
 stg-www.defriesland.nl
 tst-www.defriesland.nl
-magazine.defriesland.nl
 frits.defriesland.nl
 avkeuzehulp.defriesland.nl
 acc.cm.secure.defriesland.nl
@@ -198,13 +194,10 @@ stoelmassage.defriesland.nl
 strategie2020.defriesland.nl
 sync.defriesland.nl
 vds01.defriesland.nl
-www.mobweb.defriesland.nl
-www.service.defriesland.nl
 zoekcentrum.defriesland.nl
 zoombim.defriesland.nl
 zzapi.defriesland.nl
 zzcms.defriesland.nl
-*.defriesland.nl
 tst.www.defriesland.nl
 collectiviteitszoeker.defriesland.nl
 sorry-mijn.defriesland.nl

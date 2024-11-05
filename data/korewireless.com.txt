@@ -466,8 +466,4 @@ api-uo.korewireless.com
 devpolicy-api.cloud.korewireless.com
 enter.korewireless.com
 webhook.api.korewireless.com
-*.chts.korewireless.com
-*.omnicore.korewireless.com
-*.iotsafe.korewireless.com
-*.http.korewireless.com
 status.korewireless.com

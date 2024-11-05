@@ -1,15 +1,8 @@
-*.kite.trade
 api.kite.trade
 api-mobile.kite.trade
 developers.kite.trade
 websocket.kite.trade
 ws.kite.trade
-www.kite.trade
-www.api.kite.trade
-www.api-mobile.kite.trade
-www.developers.kite.trade
-www.websocket.kite.trade
-www.ws.kite.trade
 api-partners.kite.trade
 api-sandbox.kite.trade
 api-uat.kite.trade

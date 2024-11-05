@@ -11,7 +11,7 @@ upgrade.core.se
 uk.ac.bbsrc.tgac.miso.core.se
 files.core.se
 adds.core.se
-www.bjorn.core.se
+bjorn.core.se
 com.google.android.apps.gsa.search.core.se
 org.javarosa.core.se
 org.eclipse.cdt.core.se
@@ -24,7 +24,6 @@ org.niis.xroad.cs.admin.core.se
 org.cerberus.core.se
 institute.core.se
 anychart.core.se
-www.core.se
 licensing.core.se
 wiki.core.se
 pandas.core.se
@@ -43,7 +42,7 @@ w.core.se
 com.antgroup.geaflow.console.core.se
 org.apache.mina.core.se
 mail.core.se
-www.systems.core.se
+systems.core.se
 startrek.core.se
 com.robothy.s3.core.se
 com.renesas.cdt.core.se
@@ -82,7 +81,7 @@ org.springframework.security.core.se
 lunchcrew.core.se
 django.core.se
 meltano.core.se
-www.jemmonsphotography.core.se
+jemmonsphotography.core.se
 utsikt.core.se
 org.apache.fineract.infrastructure.core.se
 lib.core.se
@@ -121,7 +120,7 @@ lb.core.se
 com.redhat.amq.broker.core.se
 org.s7s.core.se
 md.core.se
-www.stockholm.core.se
+stockholm.core.se
 com.spring.core.se
 pylabnet.network.core.se
 _org.apache.mina.core.se
@@ -134,15 +133,14 @@ distutils.core.se
 org.biojava.nbio.core.se
 androidx.core.se
 hr.core.se
-www.n.core.se
+n.core.se
 rm01.core.se
 staffing.core.se
 ns2.core.se
-www.engineering.core.se
 c.core.se
 atlassian-bounces.core.se
 audioworx.core.se
-www.mission.core.se
+mission.core.se
 em5966.core.se
 proceso.androt.core.se
 bue1ex005.core.se

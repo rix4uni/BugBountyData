@@ -19,7 +19,6 @@ admin2.offermatica.com
 www-mcyster.corp.offermatica.com
 bb.offermatica.com
 app1-staging.offermatica.com
-www.offermatica.com
 otto-staging.corp.offermatica.com
 admin3.offermatica.com
 db2-prod1.offermatica.com
@@ -67,7 +66,7 @@ mbox12.offermatica.com
 corp.offermatica.com
 artifactory.corp.offermatica.com
 prod22.offermatica.com
-www.qa.offermatica.com
+qa.offermatica.com
 hdata34.recs.offermatica.com
 hdata34-recs.recs.offermatica.com
 hue1.cor2.dev1.offermatica.com
@@ -309,7 +308,6 @@ app2.cor1.qa11.offermatica.com
 mbox5e-prod14.offermatica.com
 dev4.offermatica.com
 perf-3.corp.offermatica.com
-qa.offermatica.com
 hdata61-recs.recs.offermatica.com
 hdata18-recs.recs.offermatica.com
 cc1.qa.offermatica.com

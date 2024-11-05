@@ -33,11 +33,6 @@ beta-c.captcha-delivery.com
 api-eu-north-1.captcha-delivery.com
 api-us-illinois-1.captcha-delivery.com
 api-us-east-2.captcha-delivery.com
-*.prod.captcha-delivery.com
-*.captcha-delivery.com
-*.sdbx-engine.captcha-delivery.com
-*.staging.captcha-delivery.com
-*.sdbx-sre.captcha-delivery.com
 api-us-iowa-1.captcha-delivery.com
 api-us-carolina-1.captcha-delivery.com
 api-eu-west-1.captcha-delivery.com
@@ -60,7 +55,6 @@ prod-static.prod.captcha-delivery.com
 _8cc78fe05f0d906e5ecada0ca4dfe83d.captcha-delivery.com
 api-ap-northeast-2.captcha-delivery.com
 static.sdbx-sre.captcha-delivery.com
-www.captcha-delivery.com
 api-me-central-1.captcha-delivery.com
 preprod-static.prod.captcha-delivery.com
 api-me-west-1.captcha-delivery.com
@@ -77,5 +71,4 @@ api-eu-west-2.captcha-delivery.com
 api-beta-eu-west-3.captcha-delivery.com
 api-us-florida-2.captcha-delivery.com
 dd.sdbx-dashboard.captcha-delivery.com
-*.sdbx-dashboard.captcha-delivery.com
 sdbx-dashboard.captcha-delivery.com

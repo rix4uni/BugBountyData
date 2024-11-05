@@ -1,4 +1,3 @@
-*.verbalizeit.com
 api.verbalizeit.com
 blog.verbalizeit.com
 cn.verbalizeit.com
@@ -10,7 +9,6 @@ production.verbalizeit.com
 staging.verbalizeit.com
 translators.verbalizeit.com
 web1.verbalizeit.com
-www.verbalizeit.com
 autotest.verbalizeit.com
 cdn.verbalizeit.com
 chat.verbalizeit.com
@@ -36,7 +34,6 @@ web2.verbalizeit.com
 workspace.verbalizeit.com
 ws-services.verbalizeit.com
 www-prod.verbalizeit.com
-www.skype.verbalizeit.com
 es_customers.verbalizeit.com
 localhost.verbalizeit.com
 assets.verbalizeit.com

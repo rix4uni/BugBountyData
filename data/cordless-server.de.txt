@@ -34,4 +34,3 @@ config.cordless-server.de
 api.cordless-server.de
 web.cordless-server.de
 post.cordless-server.de
-*.cordless-server.de

@@ -3,7 +3,6 @@ vqc.va.a.nbim.no
 api.merit-c4-test.a.nbim.no
 api.merit-c4.a.nbim.no
 vd-test.a.nbim.no
-www.nbim.no
 socket-tmix.financing.a.nbim.no
 api.citi-financing.a.nbim.no
 api.ai-llm-dev.a.nbim.no
@@ -113,11 +112,11 @@ ai-chat.ws-textanalytics-dev.a.nbim.no
 proj-cg.angle-dev.nbim.no
 sbc1.nbim.no
 api.socket-financing.a.nbim.no
-www.console.tic.a.nbim.no
+console.tic.a.nbim.no
 work.nbim.no
 datamonitor.financing.a.nbim.no
 tmix.financing-test.a.nbim.no
-www.console.tic-dev.a.nbim.no
+console.tic-dev.a.nbim.no
 socket-support.financing-test.a.nbim.no
 api.citi-financing-test.a.nbim.no
 2www.nbim.no
@@ -125,7 +124,7 @@ api.merit.a.nbim.no
 int.citi-financing-test.a.nbim.no
 socket-cashman.financing.a.nbim.no
 int.citi-financing.a.nbim.no
-www.polaris-dev.nbim.no
+polaris-dev.nbim.no
 socket-services.financing-dr.a.nbim.no
 citrix.nbim.no
 services.financing-dev.a.nbim.no

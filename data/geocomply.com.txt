@@ -1,5 +1,4 @@
 cms.geocomply.com
-*.geocomply.com
 preprod-bop-login.geocomply.com
 truelocation.geocomply.com
 engine.dev.geocomply.com
@@ -8,7 +7,7 @@ edge.stg.geocomply.com
 us4-es.geocomply.com
 argocd.dev.experimental.idp.geocomply.com
 analytics-wy-2.geocomply.com
-www.cdn.geocomply.com
+cdn.geocomply.com
 us11-es.geocomply.com
 us9-es.geocomply.com
 website.geocomply.com
@@ -22,7 +21,6 @@ es.geocomply.com
 dl.geocomply.com
 shared.stg.geocomply.com
 precheck-es.geocomply.com
-cdn.geocomply.com
 ca1-es.geocomply.com
 engine.geocomply.com
 integrationdocs.geocomply.com
@@ -53,7 +51,6 @@ oobee.geocomply.com
 sso.geocomply.com
 ca1-oobee-v2.geocomply.com
 us5-oobee-v2.geocomply.com
-www.plv.geocomply.com
 ums.geocomply.com
 us2-oobee.geocomply.com
 us4-auth.geocomply.com
@@ -73,7 +70,6 @@ pinpoint.geocomply.com
 us10-oobee.geocomply.com
 poc.experimental.idp.geocomply.com
 faas.geocomply.com
-www.geocomply.com
 nv-auth.geocomply.com
 security.geocomply.com
 engine.stg.geocomply.com

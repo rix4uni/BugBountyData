@@ -1,7 +1,6 @@
 staging.attestation.app
 ns2.attestation.app
 ns2.staging.attestation.app
-www.attestation.app
 hostmaster.attestation.app
 ns1.staging.attestation.app
 mta-sts.attestation.app

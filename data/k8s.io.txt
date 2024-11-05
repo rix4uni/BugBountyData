@@ -1,4 +1,4 @@
-*.cluster-api-ibmcloud.sigs.k8s.io
+cluster-api-ibmcloud.sigs.k8s.io
 6y71-7.docs.k8s.io
 api.e2e-0b558396e7-ff1eb.test-cncf-aws.k8s.io
 api.e2e-0e3b3b105e-51e6f.test-cncf-aws.k8s.io
@@ -54,7 +54,6 @@ cloud-provider-vsphere.sigs.k8s.io
 cluster-api-aws.sigs.k8s.io
 cluster-api-cloudstack.sigs.k8s.io
 cluster-api-gcp.sigs.k8s.io
-cluster-api-ibmcloud.sigs.k8s.io
 cluster-api-openstack.sigs.k8s.io
 cluster-api-operator.sigs.k8s.io
 cluster-api.sigs.k8s.io
@@ -183,7 +182,6 @@ v1-7.docs.k8s.io
 v1alpha1.cluster-api.sigs.k8s.io
 velodrome.k8s.io
 vsphere-csi-driver.sigs.k8s.io
-www.k8s.io
 youtube.k8s.io
 yt.k8s.io
 yum.k8s.io
@@ -310,8 +308,7 @@ virus03repo6com.changelog-kootac-pay.docs.k8s.io
 virus0stage16dev2-k8s-87654stage210z-www.27654.service.now.com2-logindevticketingfoia-dot-gov.appv1-7.docs.k8s.io
 wano-tvpd23.docs.canary.k8s.io
 web10391.bisniscepat.docs.canary.k8s.io
-www.canary.k8s.io
-www.virus0316comirus-r80.i43ubectl.docs.k8s.io
+virus0316comirus-r80.i43ubectl.docs.k8s.io
 yf.docs.k8s.io
 youtube.canary.k8s.io
 yt.canary.k8s.io
@@ -325,13 +322,12 @@ appv1-7.docs.k8s.io
 iobrbrjbr4-v1-7.docs.k8s.io
 fr-kusanagiommunityaime-demo-kubectl.docs.k8s.io
 host-209-149-112-62.docs.k8s.io
-www.docs.k8s.io
 antivirus1overi.fr-kusanagiommunityaime-demo-kubectl.docs.k8s.io
 virus0316com.host-209-149-112-62.docs.k8s.io
 virus0316ts-shanemancommunityaime-demo-kubectl.docs.k8s.io
-www.virus.syndeowww.sif1-7.docs.k8s.io
-www.antivirussistobrbrjbr-pwmbvigsvc.g.gi81.v1-7.docs.k8s.io
-www.virus-r80.i43ubectl.docs.k8s.io
+virus.syndeowww.sif1-7.docs.k8s.io
+antivirussistobrbrjbr-pwmbvigsvc.g.gi81.v1-7.docs.k8s.io
+virus-r80.i43ubectl.docs.k8s.io
 antivirusexceptionsoztips.beta.billing.bid.redirect2.kubectl.docs.k8s.io
 acc-operator-metrics-readercreatedclusterrole.rbac.authorization.k8s.io
 astrads-astradscluster-viewer-rolecreatedclusterrole.rbac.authorization.k8s.io
@@ -457,7 +453,6 @@ i43ubectl.docs.k8s.io
 virus0316com.changelog-kootac-pay.docs.k8s.io
 tototox-coleman.docs.canary.k8s.io
 mx225.docs.k8s.io
-*.k8s.io
 acc.docs.k8s.io
 access.docs.k8s.io
 admin.docs.k8s.io
@@ -4898,7 +4893,6 @@ apiservices.apiregistration.k8s.io
 output.kubeadm.k8s.io
 topology.node.k8s.io
 csistoragecapacity.storage.k8s.io
-*.prow.k8s.io
 api.internal.scale-5000.periodic.test-cncf-aws.k8s.io
 oauth2-proxy.k8s.io
 nsigs.k8s.io

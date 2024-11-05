@@ -9,7 +9,6 @@ uat.lider.cl
 vitrina.lider.cl
 image.info.lider.cl
 view.info.lider.cl
-www.lider.cl
 buysmart-staging.lider.cl
 imagenes2.lider.cl
 buysmart-content-manager-bff-staging.lider.cl
@@ -80,13 +79,11 @@ wlmstatic.lider.cl
 cyberweek.lider.cl
 beacon.www.lider.cl
 _dmarc.lider.cl
-www.puntodecompra.lider.cl
 beacon.apps-staging.lider.cl
 testing.lider.cl
 beacon.super.lider.cl
 beacon.super-qa.lider.cl
 i5-qa-images.lider.cl
-www.apps.lider.cl
 epi-miscecomm-vip01-apps.lider.cl
 epi-miscqa-vip01-apps-staging.lider.cl
 i5.images.lider.cl
@@ -126,4 +123,3 @@ get.lider.cl
 click.content.lider.cl
 image.content.lider.cl
 view.content.lider.cl
-*.lider.cl

@@ -1,6 +1,5 @@
-*.olx.co.id
-*.prd.infra.olx.co.id
-*.stg.infra.olx.co.id
+prd.infra.olx.co.id
+stg.infra.olx.co.id
 aceh.olx.co.id
 admin.qc.dev.olx.co.id
 ajakteman.olx.co.id
@@ -224,7 +223,6 @@ pondokaren.olx.co.id
 ponorogo.olx.co.id
 pontianak.olx.co.id
 prabumulih.olx.co.id
-prd.infra.olx.co.id
 prigen.olx.co.id
 probolinggo.olx.co.id
 propertibaru.olx.co.id
@@ -266,7 +264,6 @@ srandakan.olx.co.id
 ssl.olx.co.id
 stabat.olx.co.id
 staging-news.olx.co.id
-stg.infra.olx.co.id
 subang.olx.co.id
 sukabumi.olx.co.id
 sukaraja-jawatengah.olx.co.id
@@ -312,15 +309,7 @@ weru.olx.co.id
 wonogiri.olx.co.id
 wonosari-yogyakarta.olx.co.id
 wonosobo.olx.co.id
-www.olx.co.id
-www.belimobilgue.olx.co.id
-www.customer.olx.co.id
-www.jakartacity.olx.co.id
-www.malang.olx.co.id
-www.news.olx.co.id
-www.qc.dev.olx.co.id
-www.reserver-token.olx.co.id
-www.staging-news.olx.co.id
+customer.olx.co.id
 yogyakarta.olx.co.id
 yogyakartacity.olx.co.id
 am.olx.co.id
@@ -375,7 +364,6 @@ bambanglipuro.olx.co.id
 dealer.olx.co.id
 m.www.olx.co.id
 inspeksimobil.olx.co.id
-www.batam.olx.co.id
 tanjungtiram.olx.co.id
 iwww.olx.co.id
 praya.olx.co.id

@@ -19,7 +19,7 @@ app-sn06.marketo.com
 sjcommunity-index.marketo.com
 origin-engage-qe.marketo.com
 app-h.marketo.com
-www.alteryx.marketo.com
+alteryx.marketo.com
 lonrca03.marketo.com
 na-ab36.marketo.com
 na-g.marketo.com
@@ -28,7 +28,7 @@ sjrtp-cdn.marketo.com
 engage-qe-a.marketo.com
 na-ab03.marketo.com
 bizible.marketo.com
-www.nation.marketo.com
+nation.marketo.com
 app-sj40.marketo.com
 au-sn01.marketo.com
 app-ab03.marketo.com
@@ -71,7 +71,7 @@ app-guse4001.marketo.com
 engage-sj-b.marketo.com
 origin-app-ab11.marketo.com
 na-sjint2.marketo.com
-www.mavericks.marketo.com
+mavericks.marketo.com
 rubiks-www.marketo.com
 sts.qadynamics.marketo.com
 na-lon08.marketo.com
@@ -281,7 +281,6 @@ app-ab04.marketo.com
 na-sjo.marketo.com
 app-ab15.marketo.com
 na-sj12.marketo.com
-mavericks.marketo.com
 sn05canaryitpsecured.marketo.com
 na-ab44.marketo.com
 cpcalendars.mm.marketo.com
@@ -318,7 +317,6 @@ tableau.marketo.com
 na-sj19.marketo.com
 na-sj27.marketo.com
 app-sjl.marketo.com
-nation.marketo.com
 projects.marketo.com
 web-st.marketo.com
 lon-mma-control.marketo.com
@@ -336,7 +334,6 @@ autocukejvmab26a.marketo.com
 app-ab29.marketo.com
 na-sji.marketo.com
 fieldevents.marketo.com
-alteryx.marketo.com
 na-stage.marketo.com
 app-ab45.marketo.com
 au-sn03.marketo.com
@@ -547,14 +544,8 @@ app-ab55.marketo.com
 app-ab49.marketo.com
 app-sj37.marketo.com
 na-lon02.marketo.com
-www.marketo.com
 na-sj36.marketo.com
-*.marketo.com
-www.es.marketo.com
-www.uk.marketo.com
-www.de.marketo.com
 ww.es.marketo.com
-www.fr.marketo.com
 na-sj35.marketo.com
 app-sj35.marketo.com
 engage-int-b.marketo.com
@@ -576,7 +567,6 @@ engage-server-sn-a.marketo.com
 engage-server-ab-b.marketo.com
 engage-server-ab-a.marketo.com
 engage-server-sj-b.marketo.com
-www.careerconnect.marketo.com
 engage-server-st-b.marketo.com
 engage-server-st-a.marketo.com
 engage-server-qe-b.marketo.com
@@ -588,20 +578,6 @@ na-ab48.marketo.com
 na-ab47.marketo.com
 app-ab47.marketo.com
 testjadmin.podj.marketo.com
-*.blog.marketo.com
-*.qadynamics.marketo.com
-www.mm.marketo.com
-*.sales.marketo.com
-www.app.marketo.com
-www.dubvpn.marketo.com
-www.tkovpn.marketo.com
-www.smvpn.marketo.com
-www.tableau.marketo.com
-www.support-case.marketo.com
-www.ec2amaz-v34sjct.marketo.com
-www.learn.marketo.com
-www.ccde.events.marketo.com
-www.events.marketo.com
 ab-asr-03.marketo.com
 ab-asr-04.marketo.com
 ab-ee-api-ws.marketo.com
@@ -981,7 +957,6 @@ web-stserver.marketo.com
 webdev.marketo.com
 webstage.marketo.com
 webstersaidso.comstage.marketo.com
-www.jp.marketo.com
 www1.marketo.com
 www2.marketo.com
 www4.marketo.com
@@ -1220,4 +1195,3 @@ autodiscover.marketo.com
 pages.marketo.com
 simple.blog.marketo.com
 19testmay002.marketo.com
-www.spark.marketo.com

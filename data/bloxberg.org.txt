@@ -83,7 +83,6 @@ qa.voting.bloxberg.org
 blockexplorer-production-client.qa.k3s.test.bloxberg.org
 admin.bloxberg.org
 validators.test.bloxberg.org
-www.bloxberg.org
 core.bloxberg.org
 faucet.prod.test.bloxberg.org
 faucet.test.bloxberg.org

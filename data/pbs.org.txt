@@ -1,12 +1,9 @@
-*.vpn.pbs.org
 vpn.pbs.org
 ga.live.cdn.pbs.org
 source-qa.pbs.org
 source-dev.pbs.org
 dam-dev.pbs.org
-www.dam-dev.pbs.org
 dam-qa.pbs.org
-www.dam-qa.pbs.org
 wms-dev.pbs.org
 static.drm.pbs.org
 proxy-staging.drm.pbs.org

@@ -64,7 +64,6 @@ shop.weekday.com
 files.weekday.com
 cll.weekday.com
 beta.weekday.com
-www.weekday.com
 accv-www.weekday.com
 accc-www.weekday.com
 dev1-www.weekday.com
@@ -86,18 +85,16 @@ login.eu.qa.weekday.com
 login.eu.preprod.weekday.com
 login.eu.dev.weekday.com
 login.eu.weekday.com
-www.staging.weekday.com
+staging.weekday.com
 testshop.weekday.com
 wwwtest.staging.weekday.com
 link.testmail.weekday.com
-*.npr.weekday.com
-www.zeitgeist.weekday.com
+npr.weekday.com
 ape-www.weekday.com
 originwww.staging.weekday.com
 amsterdam.weekday.com
 cdn.weekday.com
 news.weekday.com
-npr.weekday.com
 r106.email.weekday.com
 r106.mail.weekday.com
 r107.email.weekday.com
@@ -111,7 +108,7 @@ r190.mail.weekday.com
 rsvp.weekday.com
 t.mail.weekday.com
 workplace.weekday.com
-www.aws.weekday.com
+aws.weekday.com
 cdn.aws.weekday.com
 format.weekday.com
 zend.date.date.weekday.com
@@ -176,7 +173,6 @@ cdn2.aws.weekday.com
 awp.mail.weekday.com
 selector1._domainkey.weekday.com
 rt1-m.news.weekday.com
-aws.weekday.com
 rt1-t.autoemail.weekday.com
 _dmarc.news.weekday.com
 master-cdn.aws.weekday.com

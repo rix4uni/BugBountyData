@@ -1,9 +1,7 @@
 apex-redirect.realtor.com
-*.realtor.com
 tile2.neighborhoods.realtor.com
 o3.email.realtor.com
 rdc-dev.realtor.com
-www.realtor.com
 dev-mfar.realtor.com
 img1.realtor.com
 identity-qa.realtor.com
@@ -25,7 +23,7 @@ consumer.realtor.com
 o4.email.realtor.com
 sandbox-qa.realtor.com
 o40.ptr1118.realtor.com
-www.hub.realtor.com
+hub.realtor.com
 mi.realtor.com
 qa.static.communities.realtor.com
 o32.ptr1114.realtor.com
@@ -114,7 +112,7 @@ smetrics.realtor.com
 o15.email.realtor.com
 o8.email.realtor.com
 o6.email.realtor.com
-www.beta.realtor.com
+beta.realtor.com
 topp.e.realtor.com
 homepage.realtor.com
 mail1.realtor.com
@@ -123,7 +121,7 @@ api.realtor.com
 graph-dev.realtor.com
 new.realtor.com
 cpbi-questionnaire-qa.realtor.com
-www.nar.realtor.com
+nar.realtor.com
 graph.realtor.com
 commercialsearch.realtor.com
 digitalcity.realtor.com
@@ -142,7 +140,7 @@ myaccount-qa.realtor.com
 leadingedge.realtor.com
 netscape.realtor.com
 tile1.neighborhoods.realtor.com
-www.ca.realtor.com
+ca.realtor.com
 external.qa.realtor.com
 b2bapp-staging.realtor.com
 cancel.realtor.com
@@ -192,7 +190,6 @@ neighborhoods.realtor.com
 lender.realtor.com
 images.realtor.com
 tpleads.realtor.com
-ca.realtor.com
 qa.static.realtor.com
 statusreports.realtor.com
 qa.neighborhoods.realtor.com
@@ -229,7 +226,6 @@ video.realtor.com
 ups.realtor.com
 email.mail.careers.realtor.com
 okta.realtor.com
-www.marketing.realtor.com
 new1.realtor.com
 image.e-success.realtor.com
 b2bapp.realtor.com
@@ -252,7 +248,6 @@ ghs.realtor.com
 myhome-static-assets-beta.realtor.com
 aol-homes.realtor.com
 finance.realtor.com
-beta.realtor.com
 o43.ptr3354.email.realtor.com
 haven-static-assets-production.realtor.com
 origin-hvr-beta.realtor.com
@@ -270,13 +265,11 @@ beta1.realtor.com
 pblog.realtor.com
 success.realtor.com
 graph-qa.realtor.com
-www.resource.realtor.com
 udb.fh.realtor.com
 communities.realtor.com
 careers.realtor.com
 e-success.realtor.com
 udb.fhadmin.realtor.com
-hub.realtor.com
 o2.email.realtor.com
 frontdoor.realtor.com
 resultsblog.realtor.com
@@ -308,7 +301,6 @@ reverse169.realtor.com
 mach186.realtor.com
 dc-qa-api.realtor.com
 smds220.realtor.com
-www.support.realtor.com
 smds146.realtor.com
 smds49.realtor.com
 qa.realestate.msn.realtor.com
@@ -319,7 +311,6 @@ qap2.api.realtor.com
 reverse133.realtor.com
 reverse219.realtor.com
 smds151.realtor.com
-www.partner-dashboard.realtor.com
 fh.realtor.com
 nancythompson.realtor.com
 reverse26.realtor.com
@@ -382,7 +373,7 @@ kjc98765.o.realtor.com
 mach208.realtor.com
 smds134.realtor.com
 mach188.realtor.com
-www.commercialsource.realtor.com
+commercialsource.realtor.com
 mach54.realtor.com
 mach179.realtor.com
 smds173.realtor.com
@@ -486,7 +477,6 @@ smds33.realtor.com
 qap2.services.realtor.com
 mach20.realtor.com
 barbaramarks.realtor.com
-www.solutioncenter.realtor.com
 reverse155.realtor.com
 mach207.realtor.com
 smds23.realtor.com
@@ -510,7 +500,6 @@ reverse147.realtor.com
 mach120.realtor.com
 smds126.realtor.com
 testing.realtor.com
-nar.realtor.com
 reverse13.realtor.com
 reverse182.realtor.com
 reverse245.realtor.com
@@ -570,7 +559,7 @@ smds39.realtor.com
 sdsitgn2.www.realtor.com
 register.realtor.com
 rbrownsales-cogs.realtor.com
-www.beatriceharendza.realtor.com
+beatriceharendza.realtor.com
 reverse175.realtor.com
 reverse246.realtor.com
 reverse138.realtor.com
@@ -799,7 +788,6 @@ smds44.realtor.com
 mach30.realtor.com
 mach70.realtor.com
 smds190.realtor.com
-www.sli.realtor.com
 smds133.realtor.com
 mach246.realtor.com
 mach245.realtor.com
@@ -865,7 +853,6 @@ mach76.realtor.com
 reverse156.realtor.com
 smds153.realtor.com
 smds166.realtor.com
-www.cloud.e-success.realtor.com
 reverse239.realtor.com
 reverse128.realtor.com
 mach40.realtor.com
@@ -875,7 +862,6 @@ reverse236.realtor.com
 smds189.realtor.com
 reverse228.realtor.com
 smds116.realtor.com
-www.ask.realtor.com
 origin-wpproxy.realtor.com
 smds102.realtor.com
 img.realtor.com
@@ -935,7 +921,7 @@ smds225.realtor.com
 reverse143.realtor.com
 mach211.realtor.com
 smds18.realtor.com
-www.ciofe.dgrdn.realtor.com
+ciofe.dgrdn.realtor.com
 internal.realtor.com
 redirect.realtor.com
 reverse217.realtor.com
@@ -964,7 +950,6 @@ mach57.realtor.com
 reverse22.realtor.com
 reverse113.realtor.com
 judymullings.realtor.com
-www.perftest.realtor.com
 originimg.realtor.com
 phyllisbrown.realtor.com
 qa.video.realtor.com
@@ -1062,7 +1047,6 @@ pr-web.frontdoor.qa.realtor.com
 quiz.realtor.com
 reverse201.realtor.com
 smds154.realtor.com
-www.apps.realtor.com
 mach129.realtor.com
 smds48.realtor.com
 reverse19.realtor.com
@@ -1166,7 +1150,6 @@ reverse15.realtor.com
 smds181.realtor.com
 qarc.api.realtor.com
 mach108.realtor.com
-www.click.e-success.realtor.com
 reverse188.realtor.com
 smds88.realtor.com
 mach213.realtor.com
@@ -1178,7 +1161,6 @@ smds114.realtor.com
 reverse17.realtor.com
 reverse70.realtor.com
 smds129.realtor.com
-www.consumer1.realtor.com
 smds145.realtor.com
 smds142.realtor.com
 mach209.realtor.com
@@ -1216,7 +1198,6 @@ omptrans.consumer1.realtor.com
 email.careers.realtor.com
 pr-web.frontdoor.sandbox-dev.realtor.com
 mach88.realtor.com
-www.security.realtor.com
 mach1.realtor.com
 mach226.realtor.com
 mach42.realtor.com
@@ -1278,11 +1259,9 @@ mach80.realtor.com
 login.realtor.com
 router-qa.realtor.com
 mach26.realtor.com
-www.console.realtor.com
 waltkurkela.realtor.com
 mach113.realtor.com
 smds169.realtor.com
-www.view.e-success.realtor.com
 mach82.realtor.com
 reverse21.realtor.com
 lesleystone.realtor.com
@@ -1302,7 +1281,6 @@ smds90.realtor.com
 okta-dev.realtor.com
 mach197.realtor.com
 smds43.realtor.com
-www.industry.realtor.com
 mach47.realtor.com
 smds244.realtor.com
 mach164.realtor.com
@@ -1330,7 +1308,6 @@ omptrans.info.realtor.com
 reverse191.realtor.com
 sreverse133.realtor.com
 smds73.realtor.com
-www.consumer.realtor.com
 reverse230.realtor.com
 o34.ptr9485.email.realtor.com
 reverse234.realtor.com
@@ -1338,14 +1315,12 @@ mach190.realtor.com
 qa.voting.realtor.com
 mach63.realtor.com
 mach43.realtor.com
-www.dashboardc.realtor.com
 www-02.realtor.com
 smds159.realtor.com
 smds57.realtor.com
 smds76.realtor.com
 smds162.realtor.com
 reverse104.realtor.com
-www.yoursuccess.realtor.com
 mach236.realtor.com
 reverse66.realtor.com
 podcast.realtor.com
@@ -1354,5 +1329,3 @@ jimedwards.realtor.com
 notifications.realtor.com
 api-alpha.x.realtor.com
 rdc-x-web-prod.x.realtor.com
-*.frontdoor.qa.realtor.com
-*.pr.frontdoor.qa.realtor.com

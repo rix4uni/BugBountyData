@@ -48,7 +48,7 @@ host164.lexis-nexis.com
 isweb.lexis-nexis.com
 web.lexis-nexis.com
 host181.lexis-nexis.com
-www.corpcounsel.lexis-nexis.com
+corpcounsel.lexis-nexis.com
 host177.lexis-nexis.com
 host184.lexis-nexis.com
 emarketplace.lexis-nexis.com
@@ -84,7 +84,6 @@ firewall2.lexis-nexis.com
 portaldemo.lexis-nexis.com
 lex.lexis-nexis.com
 lnxdev6.lexis-nexis.com
-corpcounsel.lexis-nexis.com
 host153.lexis-nexis.com
 cert-713.lexis-nexis.com
 host134.lexis-nexis.com
@@ -105,7 +104,7 @@ cert-base6.lexis-nexis.com
 certvital.lexis-nexis.com
 host154.lexis-nexis.com
 w6cdc4.lexis-nexis.com
-www.secure.lexis-nexis.com
+secure.lexis-nexis.com
 ftp.lexis-nexis.com
 host146.lexis-nexis.com
 shepardize.lexis-nexis.com
@@ -125,9 +124,8 @@ h50.lexis-nexis.com
 h50b.lexis-nexis.com
 host170.lexis-nexis.com
 wap.lexis-nexis.com
-www.w.3.lexis-nexis.com
+w.3.lexis-nexis.com
 b5dhcp40154.lexis-nexis.com
-www.lexis-nexis.com
 certlngermany.lexis-nexis.com
 mailgate2.lexis-nexis.com
 cdc-search.lexis-nexis.com
@@ -137,7 +135,6 @@ h50a.lexis-nexis.com
 irsadmin.lexis-nexis.com
 sprf3-www4.lexis-nexis.com
 wascert1-w3.lexis-nexis.com
-www.web.lexis-nexis.com
 localhost.lexis-nexis.com
 80-cisweb.lexis-nexis.com
 cert-grp5.lexis-nexis.com
@@ -167,7 +164,6 @@ host132.lexis-nexis.com
 hostmaster.lexis-nexis.com
 inote1.lexis-nexis.com
 release.lexis-nexis.com
-secure.lexis-nexis.com
 dossier.lexis-nexis.com
 host145.lexis-nexis.com
 host162.lexis-nexis.com
@@ -205,7 +201,6 @@ certlexisgw.lexis-nexis.com
 ant.lexis-nexis.com
 ns2.lexis-nexis.com
 prod.lexis-nexis.com
-www.ip.lexis-nexis.com
 prod1.lexis-nexis.com
 webcert3.lexis-nexis.com
 veracity.lexis-nexis.com

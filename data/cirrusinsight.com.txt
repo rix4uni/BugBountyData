@@ -34,8 +34,6 @@ staging-alertmanager.cirrusinsight.com
 kubecost.cirrusinsight.com
 assistant.cirrusinsight.com
 staging-kubecost.cirrusinsight.com
-www.secure3.cirrusinsight.com
-www.secure.cirrusinsight.com
 www2.cirrusinsight.com
 test-grafana.cirrusinsight.com
 grafana.dev.cirrusinsight.com
@@ -43,7 +41,6 @@ swag.cirrusinsight.com
 webapptest.dev.cirrusinsight.com
 alertmanager.cirrusinsight.com
 staging.cirrusinsight.com
-www.cirrusinsight.com
 prometheus.cirrusinsight.com
 autodiscover.dev.cirrusinsight.com
 home.cirrusinsight.com
@@ -170,12 +167,9 @@ zoomdv203mmr.tracking.cirrusinsight.com
 96-8-4-6.tracking.cirrusinsight.com
 548-1-6.tracking.cirrusinsight.com
 857-98-1.tracking.cirrusinsight.com
-*.cirrusinsight.com
-*.dev.cirrusinsight.com
 beta.cirrusinsight.com
 aws-tracking.cirrusinsight.com
 ex-tracking.cirrusinsight.com
-www.tracking.cirrusinsight.com
 hostmaster.tor94-123-pda.tracking.cirrusinsight.com
 hostmaster.blackpanther2-online-cz-titulky-4k.tracking.cirrusinsight.com
 hostmaster.nmlkjihgfedcba20.tracking.cirrusinsight.com

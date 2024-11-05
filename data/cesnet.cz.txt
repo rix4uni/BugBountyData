@@ -163,7 +163,7 @@ gui.grid.cesnet.cz
 oc-mesh.du.cesnet.cz
 oc-test.du.cesnet.cz
 rs.cesnet.cz
-www.dms.cesnet.cz
+dms.cesnet.cz
 wlc1.cesnet.cz
 dms-db.cesnet.cz
 akce.w2lan.cesnet.cz
@@ -228,12 +228,9 @@ tacs.cesnet.cz
 segin.vm.cesnet.cz
 ctlog.cesnet.cz
 budibase.docker.du.cesnet.cz
-www.owncloud4elixir.cesnet.cz
-www.owncloud.cesnet.cz
-owncloud.cesnet.cz
 owncloud4elixir.cesnet.cz
+owncloud.cesnet.cz
 owncloud.du4.cesnet.cz
-www.owncloud.du4.cesnet.cz
 ucs2.dc.cesnet.cz
 ucs2b.dc.cesnet.cz
 ucs2a.dc.cesnet.cz

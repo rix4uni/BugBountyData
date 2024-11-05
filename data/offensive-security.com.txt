@@ -1,6 +1,6 @@
-*.awx-kube.offensive-security.com
-*.kube.offensive-security.com
-*.qa.offensive-security.com
+awx-kube.offensive-security.com
+kube.offensive-security.com
+qa.offensive-security.com
 analytics.offensive-security.com
 analytics-preview.offensive-security.com
 api.offensive-security.com
@@ -12,7 +12,6 @@ apis-devops.offensive-security.com
 apis-preprod.offensive-security.com
 archive.offensive-security.com
 auth.offensive-security.com
-awx-kube.offensive-security.com
 backtrack.offensive-security.com
 bastion.offensive-security.com
 cerberus.offensive-security.com
@@ -42,7 +41,6 @@ images1.nea-petfood.comges.offensive-security.com
 janus-uat.offensive-security.com
 janus1.offensive-security.com
 janus2.offensive-security.com
-kube.offensive-security.com
 kube-proxy.offensive-security.com
 learn.offensive-security.com
 looker-api-1.offensive-security.com
@@ -68,7 +66,6 @@ proctoring.offensive-security.com
 proctoringapi.offensive-security.com
 prod-v2.offensive-security.com
 prod-worker-redis.offensive-security.com
-qa.offensive-security.com
 repo.offensive-security.com
 rocketchat-dev.offensive-security.com
 screenconnect.offensive-security.com
@@ -93,13 +90,6 @@ vault3.offensive-security.com
 vault4.offensive-security.com
 webcam.offensive-security.com
 wiki.offensive-security.com
-www.offensive-security.com
-www.chat.offensive-security.com
-www.community.offensive-security.com
-www.portal.offensive-security.com
-www.portal-preprod.offensive-security.com
-www.portal-preprod2.offensive-security.com
-www.support.offensive-security.com
 mail.offensive-security.com
 calendar.offensive-security.com
 upload.offensive-security.com
@@ -126,7 +116,6 @@ download2.offensive-security.com
 cdn3.offensive-security.com
 devel.offensive-security.com
 stg-rmq1.offensive-security.com
-www.repo.offensive-security.com
 wifusrv.offensive-security.com
 wifusrv2.offensive-security.com
 zendesk4.offensive-security.com
@@ -134,7 +123,5 @@ zimbra.offensive-security.com
 muts..at..offensive-security.com
 cdn.offensive-security.com
 _dmarc.offensive-security.com
-*.ops-ovh4.offensive-security.com
-*.ops-ovh9.offensive-security.com
 ops-ovh4.offensive-security.com
 ops-ovh9.offensive-security.com

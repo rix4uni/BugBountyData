@@ -31,7 +31,6 @@ federation.tigera.io
 lma.tigera.io
 packetcaptureapis.operator.tigera.io
 node1.remotecluster.tigera.io
-www.tigera.io
 downloads.tigera.io
 58ml-gw-ext2.sfo.tigera.io
 trial.tigera.io
@@ -59,6 +58,5 @@ docs.tigera.io
 test.tigera.io
 operator.tigera.io
 ce.tigera.io
-www.blog.tigera.io
 hostmaster.tigera.io
 rancher.tigera.io

@@ -45,7 +45,6 @@ resources.apnic.net
 roadmap.apnic.net
 ns2.apnic.net
 rand.apnic.net
-www.apnic.net
 xyz.apnic.net
 nonprod.xyz.apnic.net
 gke-sydney-test.nonprod.xyz.apnic.net
@@ -156,7 +155,7 @@ academy-mr-854.gke-sydney-test.nonprod.xyz.apnic.net
 dash-rpt-gen-plat-130.gke-sydney-test.nonprod.xyz.apnic.net
 elasticsearch2.apnic.net
 vault.sharedservices.devops.apnic.net
-www.apply.apnic.net
+apply.apnic.net
 apnic-vpn-167.apnic.net
 notification-web-mr-4.gke-sydney-test.nonprod.xyz.apnic.net
 prometheus.gke-virginia.prod.devops.apnic.net
@@ -248,7 +247,7 @@ ap-nano.rand.apnic.net
 apnic-labs-data.apnic.net
 rpki-validator-ideas.apnic.net
 va.apnic.net
-www.stg.apnic.net
+stg.apnic.net
 etabi.apnic.net
 rex-web-mr-260.gke-sydney-test.nonprod.xyz.apnic.net
 vlan903.nxgw1.apnic.net
@@ -817,7 +816,7 @@ apnic-vpn-186.apnic.net
 membership-intern-ik6lic.gke-sydney-test.nonprod.xyz.apnic.net
 vlan802.nxgw2.apnic.net
 rdapc.apnic.net
-www.secvpn.apnic.net
+secvpn.apnic.net
 jpanygw1.apnic.net
 rdap-cflb.tst.xyz.apnic.net
 monchecker.apnic.net
@@ -936,7 +935,6 @@ puppet.apnic.net
 wasabi.apnic.net
 crates-ssh.dash-server.gke-sydney-test.nonprod.xyz.apnic.net
 dash-web-mr-277.gke-sydney-test.nonprod.xyz.apnic.net
-stg.apnic.net
 ripestat.apnic.net
 ecnomination.apnic.net
 ez-retro-server.gke-sydney-test.nonprod.xyz.apnic.net
@@ -1326,7 +1324,6 @@ k8s-node-nx1.apnic.net
 po-1-33.jpgw1.mgmt.jp.apnic.net
 rpki-routinator1.apnic.net
 vswc.apnic.net
-www.survey.apnic.net
 ci-testing.dash-server.gke-sydney-test.nonprod.xyz.apnic.net
 footers.notification.gke-sydney-test.nonprod.xyz.apnic.net
 forms1.apnic.net
@@ -1676,7 +1673,7 @@ notify-14.notification.gke-sydney-test.nonprod.xyz.apnic.net
 prometheus.gke-virginia-test.nonprod.devops.apnic.net
 tumblong.rand.apnic.net
 cgi1-php-40.gke-sydney-test.nonprod.xyz.apnic.net
-www.eduroam.apnic.net
+eduroam.apnic.net
 vlan904.nxgw2.apnic.net
 election-services-fe.gke-sydney-test.nonprod.xyz.apnic.net
 academy-turbo-web-mr-183.gke-sydney-test.nonprod.xyz.apnic.net
@@ -1793,7 +1790,6 @@ gorgeond.apnic.net
 host17.automap.apnic.net
 host70.automap.apnic.net
 notification-web-mr-14.gke-sydney-test.nonprod.xyz.apnic.net
-secvpn.apnic.net
 sw1.apnic.net
 dash-backend-mr-96.gke-sydney-test.nonprod.xyz.apnic.net
 dash-web-mr-258.gke-sydney-test.nonprod.xyz.apnic.net
@@ -2075,7 +2071,6 @@ idnic-rdap.gke-virginia-test.nonprod.xyz.apnic.net
 membership-intern-gy81jt.gke-sydney-test.nonprod.xyz.apnic.net
 s.apnic.net
 vlan36.jpgw1.apnic.net
-www.staff.apnic.net
 academy-mr-836.gke-sydney-test.nonprod.xyz.apnic.net
 vlan37.ltm.apnic.net
 db2.apnic.net
@@ -2496,7 +2491,6 @@ foundation-metrics.origin.apnic.net
 po-11-602.nxgw1.bne.apnic.net
 svc-conf2.apnic.net
 cgi1-python-58.gke-sydney-test.nonprod.xyz.apnic.net
-www.academy.apnic.net
 slidemaker.apnic.net
 dash-report.gke-sydney-test.nonprod.xyz.apnic.net
 sensu-server03.apnic.net
@@ -2555,7 +2549,6 @@ ntp2.apnic.net
 nutmeg64.apnic.net
 vault.devops.apnic.net
 vlan102.aogw2.apnic.net
-www.win-digicert.sharedservices.xyz.apnic.net
 host33.automap.apnic.net
 measureipv6.labs.apnic.net
 mr-61.notification-slack.gke-sydney-test.nonprod.xyz.apnic.net
@@ -2888,7 +2881,6 @@ academy-turbo-web-mr-149.gke-sydney-test.nonprod.xyz.apnic.net
 dash-web-mr-402.gke-sydney-test.nonprod.xyz.apnic.net
 ldapauth2.apnic.net
 apnic-vpn-160.apnic.net
-eduroam.apnic.net
 membership-intern-gwiv0b.gke-sydney-test.nonprod.xyz.apnic.net
 netox-web-mr-171.gke-sydney-test.nonprod.xyz.apnic.net
 notification-web-mr-8.gke-sydney-test.nonprod.xyz.apnic.net
@@ -2952,7 +2944,6 @@ flink-jobmanager.gke-sydney-test.nonprod.devops.apnic.net
 host38.automap.apnic.net
 grafana.devops.apnic.net
 testwhois-master2.apnic.net
-www.origin.apnic.net
 dash-web-mr-371.gke-sydney-test.nonprod.xyz.apnic.net
 pd2sensu.apnic.net
 academy-mr-880.gke-sydney-test.nonprod.xyz.apnic.net
@@ -3205,7 +3196,6 @@ election-services-re.gke-sydney-test.nonprod.xyz.apnic.net
 g-0-0-1-201.aogw1.prd.ao.apnic.net
 academy-mr-826.gke-sydney-test.nonprod.xyz.apnic.net
 academy-mr-829.gke-sydney-test.nonprod.xyz.apnic.net
-apply.apnic.net
 host25.automap.apnic.net
 netox-api-netox-432.gke-sydney-test.nonprod.xyz.apnic.net
 tinyurl.apnic.net
@@ -3304,7 +3294,6 @@ apnic-vpn-70.apnic.net
 ltm-self-ia.au-ltmfront.apnic.net
 network.jpanygw1.apnic.net
 ap-mgmt.wifi.apnic.net
-www.ia-exch-2016.org.apnic.net
 dash-server-mr-149.gke-sydney-test.nonprod.xyz.apnic.net
 design-system-mr-105.tst.xyz.apnic.net
 ns3-kddi1.apnic.net

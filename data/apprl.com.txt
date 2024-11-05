@@ -19,7 +19,6 @@ click.apprl.com
 manual.apprl.com
 help.apprl.com
 auth.apprl.com
-www.apprl.com
 dev.apprl.com
 backend.prod.apprl.com
 c.apprl.com
@@ -37,7 +36,6 @@ solr.apprl.com
 cal.apprl.com
 _9f5117d17b4e10353317311948c8b6ae.dev2.clicks.apprl.com
 admin.dev.apprl.com
-www.prod.apprl.com
 monitor.apprl.com
 intercom._domainkey.apprl.com
 redis.apprl.com

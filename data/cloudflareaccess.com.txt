@@ -245,7 +245,6 @@ corpnet-staging.cloudflareaccess.com
 cicku.cloudflareaccess.com
 sqprod.cloudflareaccess.com
 block-byod-staging.cloudflareaccess.com
-*.cloudflareaccess.com
 sergiozygmunt.cloudflareaccess.com
 federationbroker.cloudflareaccess.com
 james.cloudflareaccess.com
@@ -1105,7 +1104,6 @@ rte.cloudflareaccess.com
 rtm.cloudflareaccess.com
 rubailali.cloudflareaccess.com
 rushstreetinteractive.cloudflareaccess.com
-rww.cloudflareaccess.com
 sageone.cloudflareaccess.com
 saimor.cloudflareaccess.com
 sak.cloudflareaccess.com
@@ -1332,8 +1330,7 @@ workos.cloudflareaccess.com
 wp.cloudflareaccess.com
 wsigboardgames.cloudflareaccess.com
 wtfstudio.cloudflareaccess.com
-www.cloudflareaccess.com
-www.tubagang.cloudflareaccess.com
+tubagang.cloudflareaccess.com
 xcsdwe.cloudflareaccess.com
 xenonodecom.cloudflareaccess.com
 xiaomica.cloudflareaccess.com

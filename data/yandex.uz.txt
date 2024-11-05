@@ -9,7 +9,7 @@ passport.yandex.uz
 www-rcm.yandex.uz
 passport-rc.yandex.uz
 ipv6.direct.yandex.uz
-www.direct.yandex.uz
+direct.yandex.uz
 api.music.yandex.uz
 practicum.yandex.uz
 m.taxi.yandex.uz
@@ -28,7 +28,6 @@ payment-widget.plus.yandex.uz
 ya-authproxy.taxi.yandex.uz
 external-api.plus.tst.yandex.uz
 touch.rasp.yandex.uz
-direct.yandex.uz
 ad-constructor.yandex.uz
 eda.yandex.uz
 pass-rc.yandex.uz
@@ -41,7 +40,6 @@ crowdtest.payment-widget-smarttv.plus.tst.yandex.uz
 crowdtest.plus.tst.yandex.uz
 crowdtest.api.plus.tst.yandex.uz
 payment-widget-smarttv.plus.tst.yandex.uz
-www.zen.yandex.uz
 zen.yandex.uz
 zen.crowdzeta.kaizen.yandex.uz
 balance.yandex.uz
@@ -87,9 +85,7 @@ files.messenger.yandex.uz
 guard.oauth-rc.yandex.uz
 guard.oauth.yandex.uz
 yabs.yandex.uz
-www.yandex.uz
-www.go.yandex.uz
-www.taxi.yandex.uz
+go.yandex.uz
 api.plus.yandex.uz
 homecrowdtest.yandex.uz
 morda.crowdtest.yandex.uz
@@ -99,10 +95,8 @@ crowdtest.maps.yandex.uz
 pass.yandex.uz
 oauth.yandex.uz
 cloud-api.yandex.uz
-www.m.tv.yandex.uz
 m.tv.yandex.uz
 pda.tv.yandex.uz
-www.pda.tv.yandex.uz
 collections.yandex.uz
 frontend.vh.yandex.uz
 new.pda.tv.yandex.uz
@@ -125,10 +119,9 @@ news.yandex.uz
 files.messenger.alpha.yandex.uz
 suggest.yandex.uz
 sec.api.browser.yandex.uz
-go.yandex.uz
 money.yandex.uz
 api.messenger.yandex.uz
-www.tv.yandex.uz
+tv.yandex.uz
 reviews.yandex.uz
 pro.yandex.uz
 m.news-clck.yandex.uz

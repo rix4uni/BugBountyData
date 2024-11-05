@@ -24,7 +24,7 @@ backup.prod.liantis.accounts.intracto.com
 jobs.prod.liantis.accounts.intracto.com
 liantis-awards.prod.liantis.accounts.intracto.com
 liantis-jobs.prod.liantis.accounts.intracto.com
-www.prod.liantis.accounts.intracto.com
+prod.liantis.accounts.intracto.com
 fevia.testing.intracto.com
 acc.losberger.cloud.intracto.com
 support.intracto.com
@@ -59,7 +59,6 @@ backup.accept.liantis.accounts.intracto.com
 jobs.accept.liantis.accounts.intracto.com
 newco-awards.accept.liantis.accounts.intracto.com
 newco-jobs.accept.liantis.accounts.intracto.com
-www.accept.liantis.accounts.intracto.com
 staging.vrt.cloud.intracto.com
 tagetik-testing.cloud.intracto.com
 acc.kdg.cloud.intracto.com
@@ -510,9 +509,7 @@ awards.newco.testing.intracto.com
 jobs.newco.testing.intracto.com
 platform.tgroep.testing.intracto.com
 intervest.testing.intracto.com
-www.intracto.com
 redesign.styleguide.reporting.swift.accounts.intracto.com
-www.redesign.styleguide.reporting.swift.accounts.intracto.com
 com.knaufinsulation.accounts.intracto.com
 prod.asset-requests.cloud.intracto.com
 facilicom.cloud.intracto.com
@@ -544,7 +541,7 @@ lti-testing-2024.acco-cloud.intracto.com
 sofialearn.cloud.intracto.com
 partena-professional.accounts.intracto.com
 knaufinsulation.cloud.intracto.com
-www.selfdrain.groupnivelles.shared.intracto.com
+selfdrain.groupnivelles.shared.intracto.com
 runner.swift.cloud.intracto.com
 web1.acc.bamaco.uu.cloud.intracto.com
 acc.partena.cloud.intracto.com
@@ -606,7 +603,7 @@ dev.patternlab.reporting.iso20022.accounts.intracto.com
 etap2024.testing.intracto.com
 vivaldisinterim.cloud.intracto.com
 acc.gennep.cloud.intracto.com
-www.seotools.intracto.com
+seotools.intracto.com
 web2.prod.intranet.uu.cloud.intracto.com
 secretsanta.cloud.intracto.com
 staging.yoonly.cloud.intracto.com
@@ -634,7 +631,7 @@ web.prod.bevelanden.cloud.intracto.com
 db.liantis.cloud.intracto.com
 lunch.intracto.com
 prod.mykot.cloud.intracto.com
-www.reporting.swift.accounts.intracto.com
+reporting.swift.accounts.intracto.com
 babylonia.cloud.intracto.com
 acc.dvgdemo.cloud.intracto.com
 prod.provincieutrecht.cloud.intracto.com
@@ -747,11 +744,9 @@ prod.planningstool.polly.cloud.intracto.com
 magnuswijnen.testing.intracto.com
 web1.acc.vanhoecke.cloud.intracto.com
 showcase.intracto.com
-selfdrain.groupnivelles.shared.intracto.com
 prod.epe.cloud.intracto.com
 ru.knaufinsulation.accounts.intracto.com
 acc.venlo.cloud.intracto.com
-www.testing.viata.accounts.intracto.com
 uk.knaufinsulation.accounts.intracto.com
 distripond.accounts.intracto.com
 pedico.testing.intracto.com
@@ -825,7 +820,7 @@ gcc.heraklith.accounts.intracto.com
 neopaul.testing.intracto.com
 bedrock.testing.intracto.com
 test.accounts.intracto.com
-www.hosted-assets.intracto.com
+hosted-assets.intracto.com
 prod.molenlanden.cloud.intracto.com
 games.intracto.com
 prod.imec-star.cloud.intracto.com
@@ -947,7 +942,7 @@ theater.tgroep.accounts.intracto.com
 viata.accounts.intracto.com
 provision76-1.testing.intracto.com
 noba.testing.intracto.com
-www.help.intracto.com
+help.intracto.com
 havep.cloud.intracto.com
 unaicase.testing.intracto.com
 caw.accounts.intracto.com
@@ -961,10 +956,9 @@ potatoes.freshfrombelgium.lekkervanbijons.accounts.intracto.com
 admin-salespad.nav.novatech.testing.intracto.com
 jirawebhooks.awesome.testing.intracto.com
 poultry.freshfrombelgium.lekkervanbijons.accounts.intracto.com
-www.dummy.testing.intracto.com
+dummy.testing.intracto.com
 testing.bosal.accounts.intracto.com
 vellance.cloud.intracto.com
-www.azura4me-demo.intracto.com
 frontend.futuria.testing.intracto.com
 herbots.cloud.intracto.com
 searchengine.testing.intracto.com
@@ -980,7 +974,6 @@ animals.freshfrombelgium.lekkervanbijons.accounts.intracto.com
 bruairapps.testing.intracto.com
 dermat.cloud.intracto.com
 web.cevo.cloud.intracto.com
-www.shop.racompany.accounts.intracto.com
 jira8.testing.intracto.com
 energeticanatura.cloud.intracto.com
 nopcommerce.testing.intracto.com
@@ -998,7 +991,6 @@ dev.intracto.com
 bio.freshfrombelgium.lekkervanbijons.accounts.intracto.com
 deceunynck.testing.intracto.com
 staging.havep.cloud.intracto.com
-www.viata.accounts.intracto.com
 facilicom.testing.intracto.com
 hermansheftrucks.cloud.intracto.com
 uit.testing.intracto.com
@@ -1038,7 +1030,6 @@ tzorg.tgroep.accounts.intracto.com
 horta.testing.intracto.com
 be.testing.viata.accounts.intracto.com
 bruxelles.staging.kidslife.accounts.intracto.com
-hosted-assets.intracto.com
 tgroep-oud.cloud.intracto.com
 crowdsupport.facilicom.testing.intracto.com
 nl.testing.viata.accounts.intracto.com
@@ -1047,7 +1038,6 @@ web.staging.stibbe.cloud.intracto.com
 dev.patternlab.reporting.swift.accounts.intracto.com
 vng-acc.cloud.intracto.com
 api.split.bosal.accounts.intracto.com
-reporting.swift.accounts.intracto.com
 toffice.tgroep.accounts.intracto.com
 acc.drimmelen.cloud.intracto.com
 intake.testing.intracto.com
@@ -1065,7 +1055,6 @@ farmaline.be.testing.intracto.com
 biv.cloud.intracto.com
 webmail.intracto.com
 web2.acc.vanhoecke.cloud.intracto.com
-www.support.intracto.com
 mailhog.jira8.testing.intracto.com
 mmood.mintjens.testing.intracto.com
 events.intracto.com
@@ -1080,7 +1069,6 @@ web.favoritegifts2017.testing.intracto.com
 kibana.sharedsearch.accounts.intracto.com
 essentblog.testing.intracto.com
 visual-regression.reporting.swift.accounts.intracto.com
-dummy.testing.intracto.com
 staging-oris.acps.accounts.intracto.com
 portal.testing.intracto.com
 configurator.orakel-staging.testing.intracto.com
@@ -1101,10 +1089,9 @@ walhalla.testing.intracto.com
 staging.turnerdewaele.cloud.intracto.com
 sodexo.testing.intracto.com
 vng.cloud.intracto.com
-www.testfutura.intracto.com
+testfutura.intracto.com
 api.favoritegifts2017.testing.intracto.com
 testing.intracto.com
-testfutura.intracto.com
 mails.biv.testing.intracto.com
 staging.materialise.cloud.intracto.com
 drupal-demo.testing.intracto.com
@@ -1164,7 +1151,6 @@ nominator.awesome.testing.intracto.com
 hellohousing.testing.intracto.com
 vlamgroen.testing.intracto.com
 intranetv2.ahmic.testing.intracto.com
-www.games.intracto.com
 klasse.testing.intracto.com
 recorhome.testing.intracto.com
 monitoring.intracto.com
@@ -1174,13 +1160,11 @@ steven3.testing.intracto.com
 cdn.vitazita.com.dev.intracto.com
 fastlane.testing.intracto.com
 goldenvoyages.cloud.intracto.com
-help.intracto.com
 vane.web.favoritegifts2017.testing.intracto.com
-www.hypotheekwinkel.testing.intracto.com
+hypotheekwinkel.testing.intracto.com
 tomc3.win1.testing.intracto.com
 wimverrezen.testing.intracto.com
 cvdv.testing.intracto.com
-seotools.intracto.com
 squidgame.intracto.com
 tgroep.accounts.intracto.com
 celforpharma.testing.intracto.com
@@ -1191,7 +1175,6 @@ ice.testing.intracto.com
 planningstool.polly.testing.intracto.com
 testing.bosal.cloud.intracto.com
 vlaamswelzijnsverbond2019.cloud.intracto.com
-www.sitinobe.accounts.intracto.com
 staging-oris.acps.cloud.intracto.com
 syliusdemo.testing.intracto.com
 hoffmann2024.testing.intracto.com

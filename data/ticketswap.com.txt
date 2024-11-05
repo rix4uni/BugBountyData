@@ -2,9 +2,7 @@ affiliate.ticketswap.com
 email.prco.ticketswap.com
 webhook.ticketswap.com
 admin.ticketswap.com
-*.ticketswap.com
 api.ticketswap.com
-www.ticketswap.com
 brand.ticketswap.com
 jobs.ticketswap.com
 appdownload.ticketswap.com
@@ -12,7 +10,7 @@ cdn.ticketswap.com
 clicks.ticketswap.com
 email-clicks.ticketswap.com
 press.ticketswap.com
-*.k8s.ticketswap.com
+k8s.ticketswap.com
 hubspot.ticketswap.com
 megamind.ticketswap.com
 fx.ticketswap.com

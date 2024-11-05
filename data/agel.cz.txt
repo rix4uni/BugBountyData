@@ -38,7 +38,7 @@ sumperk.odbery.agel.cz
 uschovna.agel.cz
 eshop-it.agel.cz
 agmed.agel.cz
-www.beh.agel.cz
+beh.agel.cz
 martekmedical.agel.cz
 vzdelavani.npo.agel.cz
 slp-auth.nvm.agel.cz
@@ -54,7 +54,7 @@ interchange.new-pfd.objednavky-distribuce.agel.cz
 slp-auth.hpo.agel.cz
 katalog.smn.agel.cz
 rezervace.agel.cz
-www.rezonance.agel.cz
+rezonance.agel.cz
 slp-auth.doz.agel.cz
 laborator.agel.cz
 fotosoutez.agel.cz
@@ -84,7 +84,6 @@ objednavkaliekov.agel.cz
 vysetreni.agel.cz
 vavia.agel.cz
 edu.agel.cz
-beh.agel.cz
 sportclinic.agel.cz
 prerov.odbery.agel.cz
 smn.agel.cz
@@ -101,7 +100,6 @@ nwww.nemocnicenovyjicin.agel.cz
 onlio.companyextended.resources.agel.cz
 te.agel.cz
 jesenickanemocnice.agel.cz
-rezonance.agel.cz
 perfectdistribution.agel.cz
 vzdelavani.agel.cz
 vzdelavani.phn.agel.cz
@@ -115,7 +113,6 @@ pruzkum.agel.cz
 dialyza.agel.cz
 agelplus.agel.cz
 npo.agel.cz
-www.agel.cz
 research.agel.cz
 hpo.agel.cz
 admin.objednavky-distribuce.agel.cz
@@ -134,7 +131,7 @@ dznymburk.agel.cz
 vtn.agel.cz
 jitsi.agel.cz
 click.rph.agel.cz
-www.stomatologie.agel.cz
+stomatologie.agel.cz
 szs.agel.cz
 slp.smn.agel.cz
 rezervace.nnj.agel.cz
@@ -159,7 +156,7 @@ nemocnicejesenik.agel.cz
 ikis.agel.cz
 nrc.agel.cz
 nemocnicesumperk.agel.cz
-www.familyday.agel.cz
+familyday.agel.cz
 dialyzasumperk.agel.cz
 diagnostickecentrum.agel.cz
 vos.szs.agel.cz
@@ -214,7 +211,6 @@ nst.agel.cz
 vzdelavani.smn.agel.cz
 e-mail.agel.cz
 old-pfd.objednavky-distribuce.agel.cz
-www.fotosoutez.agel.cz
 nrp.agel.cz
 optika.oca.agel.cz
 nemocnicepodhorska.agel.cz
@@ -225,7 +221,7 @@ ad.agel.cz
 nemocnicelouny.agel.cz
 transfuznisluzba.agel.cz
 lag.agel.cz
-www.vysledky.agel.cz
+vysledky.agel.cz
 e.agel.cz
 slp.nnj.agel.cz
 contentcontrol.agel.cz
@@ -251,7 +247,7 @@ slp.jen.agel.cz
 mammocentrum.agel.cz
 vzdelavani.nemocnicevitkovice.agel.cz
 materskaskola.agel.cz
-www.ndc.agel.cz
+ndc.agel.cz
 mamografickyscreening.nemocniceprostejov.agel.cz
 whistleblowing.agel.cz
 events.nnj.agel.cz
@@ -265,20 +261,14 @@ test.rezervuj.agel.cz
 reg.sympozium.agel.cz
 kardioden.nemocnicepodlesi.agel.cz
 poliklinika.agel.cz
-www.muj.agel.cz
+muj.agel.cz
 nemocnicevitkovice.agel.cz
-*.ikis.tools.agel.cz
-*.ikis-tst.tools.agel.cz
+ikis.tools.agel.cz
+ikis-tst.tools.agel.cz
 test.darca.agel.cz
-www.nemocniceostravavitkovice.agel.cz
 auth.agel.cz
-www.old-pfd.objednavky-distribuce.agel.cz
-www.objednavky-distribuce.agel.cz
-www.new-pfd.objednavky-distribuce.agel.cz
-www.vysetreni.agel.cz
 jeziskovaposta.agel.cz
 work.belu.agel.cz
-stomatologie.agel.cz
 roundwebproxy1.agel.cz
 zzz.agel.cz
 test.pruzkum.agel.cz
@@ -296,10 +286,7 @@ vzdelavani.stredomoravskanemocnicni.agel.cz
 cup.nemocnicepodlesi.agel.cz
 beta.objednavka-kca.agel.cz
 objednavka-kca.agel.cz
-www.hry.agel.cz
 registrace.nemocnicevitkovice.agel.cz
 objednavky.oca.agel.cz
 skalky.nnj.agel.cz
 registrace.nnj.agel.cz
-vysledky.agel.cz
-muj.agel.cz

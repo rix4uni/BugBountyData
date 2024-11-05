@@ -20926,10 +20926,7 @@ ws-ee-maidsvc-ic3.icloud.com
 ws-ee-maidsvc-ic4.icloud.com
 ws-ee-maidsvc.icloud.com
 www-buildvalidation.icloud.com
-www.icloud.com
-www.qr3no.icloud.com
-www.verify-apple.icloud.com
-*.icloud.com
+qr3no.icloud.com
 153.157.0.170.fhptelecom.com003.connectivity.icloud.com
 170-0-174-118.pinhaistelecom.com.brectivity.icloud.com
 170-0-174-240.pinhaistel003.monitorm.icloud.com
@@ -27153,9 +27150,6 @@ p202-streams.icloud.com
 p201-streams.icloud.com
 p201-statici.icloud.com
 p202-statici.icloud.com
-*.connectivity.icloud.com
-*.mail.icloud.com
-*.ckdatabaserpc.icloud.com
 p223-fmip-china.icloud.com
 p56-fmipalservice-china.icloud.com
 p02-quota.mj2kh.icloud.com
@@ -27400,13 +27394,11 @@ p205-smtp.mail.icloud.com
 p202-imap.mail.icloud.com
 p215-smtp.mail.icloud.com
 p204-mail.icloud.com
-www.account.icloud.com
+account.icloud.com
 secure.icloud.com
 p202-smtp.icloud.com
-account.icloud.com
 p204-smtp.icloud.com
 p203-smtp.icloud.com
-www.secure.icloud.com
 p201-mail.icloud.com
 p201-smtp.icloud.com
 p203-mail.icloud.com
@@ -27498,7 +27490,7 @@ p01-iwres0.mj2kh.icloud.com
 p03-fmipmobile-china-ic4.icloud.com
 p02-mobilebackup.mj2kh.icloud.com
 iworkextstoredevc.icloud.com
-www.fg1ad.icloud.com
+fg1ad.icloud.com
 iwres-scout.icloud.com
 inikz.ecf1f.ck.icloud.com
 p01-btmmdns.fg1ad.icloud.com
@@ -27933,7 +27925,7 @@ p02-iwmb.fg1ad.icloud.com
 p12-hello.connectivity.icloud.com
 fmipmobile-ic2.icloud.com
 contacts.mj2kh.icloud.com
-www.mj2kh.icloud.com
+mj2kh.icloud.com
 p03-iwmb7-china-ic4.icloud.com
 p01-pushws.fg1ad.icloud.com
 p03-fmip-china-ic1.icloud.com

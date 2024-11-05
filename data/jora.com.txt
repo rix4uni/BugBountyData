@@ -7,7 +7,6 @@ ng.jora.com
 ph.jora.com
 cdn.jora.com
 staging-id.jora.com
-www.jora.com
 api.jora.com
 la.jora.com
 staging-employer.jora.com
@@ -71,7 +70,7 @@ zendesk3.jora.com
 br.jora.com
 dz.jora.com
 dev-emp.jora.com
-www.nsw.jora.com
+nsw.jora.com
 ads-adserver.jora.com
 mmail.jora.com
 autodiscover.jora.com
@@ -88,7 +87,6 @@ kh.jora.com
 wwww.jora.com
 assets.jora.com
 ie.jora.com
-www.algerie.jora.com
 qa.jora.com
 usw1.jora.com
 zendesk2.jora.com
@@ -100,16 +98,10 @@ o3708.e.local.jora.com
 zendesk4.jora.com
 cdn1.jora.com
 za.jora.com
-nsw.jora.com
 dev-employer-test.jora.com
 partnerftp.jora.com
 production-firefly.jora.com
 ops.jora.com
-*.jora.com
-*.employer.jora.com
-*.ops.jora.com
-*.local.jora.com
-*.news.jora.com
 adsclub.events.jora.com
 alpha-hoststatus-db2-corp.events.jora.com
 apirelaysql.events.jora.com

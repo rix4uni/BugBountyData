@@ -16,9 +16,7 @@ support.k8slens.dev
 store.k8slens.dev
 api-docs.k8slens.dev
 docs.lenscloud-platform.k8slens.dev
-*.k8slens.dev
 lenscloud-platform-docs.k8slens.dev
-www.k8slens.dev
 api.lc-production1.k8slens.dev
 platform.k8slens.dev
 token-issuer.platform.k8slens.dev

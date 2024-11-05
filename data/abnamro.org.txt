@@ -38,7 +38,7 @@ salelead-crm-nl-msd-devops-a-rg.azure.abnamro.org
 gitdashboard.api.tikkie-d.aws.abnamro.org
 userenrolment.mobile.channelsp.aws.abnamro.org
 beeldbankieren-dta.channelsdta.aws.abnamro.org
-www.smartjobs.abnamro.org
+smartjobs.abnamro.org
 remotefunctionalities.panthers-d.aws.abnamro.org
 myaabgwpaymentsprdn.azure.abnamro.org
 baapi-acceptance.azure.abnamro.org
@@ -107,7 +107,7 @@ servicenow-et.abnamro.org
 aabcrmnlptrackandtraceapi01.azure.abnamro.org
 live-acc-no-pbi.dda-ta.aws.abnamro.org
 mobile-router.panthers-ta.aws.abnamro.org
-www.frc-et.abnamro.org
+frc-et.abnamro.org
 lz-dda-grip-live-a.azure.abnamro.org
 proxy-nl-prd-csd.azure.abnamro.org
 core-test.core.abnamro.org
@@ -152,7 +152,7 @@ core-q3pillar32021uk.core.abnamro.org
 lz-dda-pbi-de-live-p.azure.abnamro.org
 proxy-be-prd-csd.azure.abnamro.org
 proxy-nl-acc-csd.azure.abnamro.org
-www.proxy-acc.csd.azure.abnamro.org
+proxy-acc.csd.azure.abnamro.org
 beeldbankieren.channelsp.aws.abnamro.org
 cme03-p-pre-dam-images.azure.abnamro.org
 core-q42023uk.core.abnamro.org
@@ -436,7 +436,6 @@ mobile-router.panthers-p.aws.abnamro.org
 myaabgwsharedaw.azure.abnamro.org
 batr-rss-t-tre-devops-t-rg.azure.abnamro.org
 acc-clientportal.azure.abnamro.org
-frc-et.abnamro.org
 demo.tikkie-d.aws.abnamro.org
 informalinvestment.channelsp.aws.abnamro.org
 myaabgwborgpn.azure.abnamro.org
@@ -464,7 +463,6 @@ static.cdda-p.aws.abnamro.org
 acep03-a-appgw-public.azure.abnamro.org
 bamobile-prd.azure.abnamro.org
 scripla-public-app-gw-p.azure.abnamro.org
-proxy-acc.csd.azure.abnamro.org
 pnrs-devops-pnrs-d-rg.azure.abnamro.org
 green.speciaal-d.aws.abnamro.org
 live-pr-be.dda-p.aws.abnamro.org
@@ -512,7 +510,6 @@ webhook.azure.abnamro.org
 jira.aws.abnamro.org
 myaabgwsharedan.azure.abnamro.org
 myaabibrngwaw.azure.abnamro.org
-www.frc.abnamro.org
 caas-webhooks.espio-ta.aws.abnamro.org
 preview-pr-nl-retail-cdn.dda-p.aws.abnamro.org
 live.seocheckbot.api.dda-p.aws.abnamro.org
@@ -591,7 +588,6 @@ accpt.accpt-p-rg.azure.abnamro.org
 mobilebankingapprouter.mobile.channelsdta.aws.abnamro.org
 live-pr-investment-pbi.dda-p.aws.abnamro.org
 live.redirect.dda-p.aws.abnamro.org
-www.abnamro.org
 high5-st.abnamro.org
 auth-sandbox.api-sbx-p.aws.abnamro.org
 baweb-production.azure.abnamro.org
@@ -608,7 +604,7 @@ prod.iamweb-p.aws.abnamro.org
 prod.chatbot-p.aws.abnamro.org
 cbtp-be03-p-ag.azure.abnamro.org
 lss-cip-a.azure.abnamro.org
-www.scaledagile.abnamro.org
+scaledagile.abnamro.org
 ideal02a.azure.abnamro.org
 lz-owa-pbi-de-p-live.azure.abnamro.org
 trapsgewijs-kopen.azure.abnamro.org
@@ -921,7 +917,6 @@ preview-pr-nl-retail.dda-p.aws.abnamro.org
 lz-dda-nld-live-p.azure.abnamro.org
 reports.fintax-ta.aws.abnamro.org
 mcd2-a-ag.azure.abnamro.org
-www.initializr-d.dip01-initializr-d-rg.azure.abnamro.org
 batr-rss-a-batr-app-a-rg.azure.abnamro.org
 bawebconfig-prd.azure.abnamro.org
 core-ar2022uk.core.abnamro.org
@@ -929,5 +924,4 @@ chatbot-d.aws.abnamro.org
 blue.speciaal-d.aws.abnamro.org
 core-q32024uk.core.abnamro.org
 gbff.espio-d.aws.abnamro.org
-smartjobs.abnamro.org
 idpay-a.azure.abnamro.org

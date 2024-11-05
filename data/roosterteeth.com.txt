@@ -7,7 +7,7 @@ rtx.roosterteeth.com
 business.roosterteeth.com
 staging.achievementhunter.roosterteeth.com
 v2.roosterteeth.com
-www.blog.roosterteeth.com
+blog.roosterteeth.com
 auth.dev.roosterteeth.com
 comments.roosterteeth.com
 gameattack.staging.roosterteeth.com
@@ -49,7 +49,7 @@ staging.v2.roosterteeth.com
 svod-be.dev.roosterteeth.com
 funhaus.staging.roosterteeth.com
 helpdesk.roosterteeth.com
-www.games.roosterteeth.com
+games.roosterteeth.com
 upload.roosterteeth.com
 elr.roosterteeth.com
 business-service.staging.roosterteeth.com
@@ -59,7 +59,6 @@ screwattack.roosterteeth.com
 wtc.staging.roosterteeth.com
 chat.roosterteeth.com
 gameattack.qa.roosterteeth.com
-games.roosterteeth.com
 giftguide.roosterteeth.com
 magic.roosterteeth.com
 dev.roosterteeth.com
@@ -86,7 +85,6 @@ wtc.roosterteeth.com
 rtv3-video.roosterteeth.com
 thecreaturehub.roosterteeth.com
 deathbattle.roosterteeth.com
-www.roosterteeth.com
 notifications.staging.roosterteeth.com
 staging.theknow.roosterteeth.com
 view.email.roosterteeth.com
@@ -106,7 +104,6 @@ rtx-proxy-us-east-1.roosterteeth.com
 s3.roosterteeth.com
 staffstore.roosterteeth.com
 svod.roosterteeth.com
-www.coop.roosterteeth.com
 calendar.roosterteeth.com
 first-signup.roosterteeth.com
 staging.funhaus.roosterteeth.com
@@ -114,7 +111,6 @@ ratings-be-production-us-east-1.roosterteeth.com
 analytics.data.roosterteeth.com
 funhaus.roosterteeth.com
 theknow.roosterteeth.com
-www.business.roosterteeth.com
 gameattack.roosterteeth.com
 mail2.roosterteeth.com
 ratings.staging.roosterteeth.com
@@ -136,7 +132,6 @@ rtv2-video.roosterteeth.com
 friends.roosterteeth.com
 accounts.roosterteeth.com
 qa.roosterteeth.com
-blog.roosterteeth.com
 images.roosterteeth.com
 o1238.em.friends.roosterteeth.com
 theknow.qa.roosterteeth.com

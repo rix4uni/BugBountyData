@@ -15,9 +15,7 @@ rpc.mainnet.celestia.tm.p2p.org
 mainnet.nym.tm.p2p.org
 grpc.mainnet.celestia.tm.p2p.org
 tool.p2p.org
-*.tool.p2p.org
 aptos.p2p.org
-*.aptos.p2p.org
 rpc.mainnet.nym.tm.p2p.org
 grpc.mainnet.nym.tm.p2p.org
 grpc-web.mainnet.nym.tm.p2p.org
@@ -163,13 +161,11 @@ grpc-web.namada-expedition.tm.p2p.org
 bitcoin.threshold.p2p.org
 rosetta.haqq-testnet.tm.p2p.org
 rpc.mainnet.sei.tm.p2p.org
-www.p2p.org
 evm.mainnet.astria.tm.p2p.org
 rosetta.mainnet.astria.tm.p2p.org
 rosetta.mainnet.stride.tm.p2p.org
 graph.p2p.org
-*.graph.p2p.org
-www.webflow-dev.p2p.org
+webflow-dev.p2p.org
 30173501.p2p.org
 agoric-mainnet-1-full-grpc.tm.p2p.org
 agoric-mainnet-1-full.tm.p2p.org
@@ -622,7 +618,6 @@ velvet.tm.p2p.org
 venom.p2p.org
 venom.tm.p2p.org
 wallet.p2p.org
-webflow-dev.p2p.org
 wormchain-mainnet-1-full-grpc.tm.p2p.org
 wormchain-mainnet-1-full-old-endpoint.tm.p2p.org
 wormchain-mainnet-1-full.tm.p2p.org
@@ -630,8 +625,6 @@ wormchain-mainnet.tm.p2p.org
 wss1-kusama.p2p.org
 wss2-kusama.p2p.org
 wss3-kusama.p2p.org
-www.ethereum-staking.p2p.org
-www.rpc.p2p.org
 xpla-dimension-37-1-full-grpc.tm.p2p.org
 xpla-dimension-37-1-full-rest.tm.p2p.org
 xpla-dimension-37-1-full-ws.tm.p2p.org
@@ -786,6 +779,3 @@ vv-team-grafana.graph.p2p.org
 web.ethereum-staking.p2p.org
 web3-auth.wallet.p2p.org
 wormhole.p2p.org
-www.cosmos.p2p.org
-www.gameofstakes.p2p.org
-www.go.p2p.org

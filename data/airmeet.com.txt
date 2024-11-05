@@ -78,7 +78,4 @@ api-gateway-prod.eu.airmeet.com
 demo.airmeet.com
 prod-cf-content-hub.eu.airmeet.com
 prod-turn-comcast-3.us.airmeet.com
-*.airmeet.com
-*.eu.airmeet.com
-www.airmeet.com
 innotify.airmeet.com

@@ -66,7 +66,7 @@ airflow.k-analytics.sbermarket.tech
 ra-yc05.sbermarket.tech
 stf-gw.k-stage.sbermarket.tech
 vault-unseal-2.k-sec.sbermarket.tech
-www.inventory.sbermarket.tech
+inventory.sbermarket.tech
 pims-2369-api.k-nonprod-content.sbermarket.tech
 pims-1273.k-stage.sbermarket.tech
 pims-1886-api.k-nonprod-content.sbermarket.tech
@@ -90,7 +90,7 @@ pims-2409.k-nonprod-content.sbermarket.tech
 jcs.k-sec.sbermarket.tech
 vmcluster-rudderstack.sbermarket.tech
 webhook.k-infra.sbermarket.tech
-www.k-infra.sbermarket.tech
+k-infra.sbermarket.tech
 ra-yc04.sbermarket.tech
 jupyterhub.sbermarket.tech
 lenta-metabase.sbermarket.tech
@@ -164,7 +164,6 @@ fmcg-spinner.k-prod.sbermarket.tech
 bs-repeater.k-prod.sbermarket.tech
 infradev-4214-api.k-nonprod-content.sbermarket.tech
 pims-1606.k-nonprod-content.sbermarket.tech
-www.sbermarket.tech
 kibana.sbermarket.tech
 prometheus.infra.sbermarket.tech
 calc.k-stage.sbermarket.tech
@@ -237,7 +236,6 @@ grafana.sbermarket.tech
 pims-2268.k-nonprod-content.sbermarket.tech
 prometheus.k-prod.sbermarket.tech
 shopper-dvo-276-deploy.k-stage.sbermarket.tech
-k-infra.sbermarket.tech
 notary.k-infra.sbermarket.tech
 pims-1160-api.k-stage.sbermarket.tech
 pims-api.k-nonprod-content.sbermarket.tech
@@ -390,11 +388,7 @@ jira-connect.k-infra.sbermarket.tech
 pims-1958.k-nonprod-content.sbermarket.tech
 pims-2174-api.k-stage.sbermarket.tech
 pims-2442.k-nonprod-content.sbermarket.tech
-www.fuckupmeetup.sbermarket.tech
 alertmanager.k-infra.sbermarket.tech
-inventory.sbermarket.tech
 pims-1297.k-stage.sbermarket.tech
 pims-2255-api.k-stage.sbermarket.tech
 gw-stage.sbermarket.tech
-*.sb-stage.sbermarket.tech
-*.sb-infra-basic.sbermarket.tech

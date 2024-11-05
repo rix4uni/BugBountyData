@@ -166,7 +166,6 @@ pricing-backend.brevo.com
 in-automate.brevo.com
 pay.brevo.com
 api.phone-console.brevo.com
-www.brevo.com
 integration-app-enterprise-hooks.brevo.com
 push-api.brevo.com
 smtp-relay-europe-west1.brevo.com
@@ -199,5 +198,4 @@ metrics.brevo.com
 crm-api.brevo.com
 external-feeds.brevo.com
 ip-management.brevo.com
-www.assets.brevo.com
 inbound-webhooks.brevo.com

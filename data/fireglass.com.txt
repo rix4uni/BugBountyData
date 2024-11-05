@@ -1,4 +1,3 @@
-www.fireglass.com
 autodiscover.fireglass.com
 owa.fireglass.com
 crm.fireglass.com
@@ -11,8 +10,6 @@ sip.fireglass.com
 vpn.fireglass.com
 dev.fireglass.com
 auth.fireglass.com
-www.owa.fireglass.com
-*.fireglass.com
 legacy.fireglass.com
 lyncdiscover.fireglass.com
 projects.fireglass.com

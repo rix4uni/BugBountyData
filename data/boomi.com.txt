@@ -61,7 +61,7 @@ occm-us-east-1-hubsandboxcloud.underdog-sandbox.boomi.com
 occm-us-east-1-ksrred124.underdog-sandbox.boomi.com
 occm-us-east-1-maxcloud.engp-sandbox.boomi.com
 occm-us-east-1-aquila.sandbox.boomi.com
-www.occm-eastus-mnn11.sandbox.boomi.com
+occm-eastus-mnn11.sandbox.boomi.com
 chandrasekar-e2e.dcp-sandbox.boomi.com
 occm-us-east-1-runtimemigration1.sandbox.boomi.com
 axebroker.sandbox.boomi.com
@@ -78,20 +78,20 @@ automation-saas-cat-1.dcp-sandbox.boomi.com
 dcp-alon-8.dcp-sandbox.boomi.com
 dcp-bharathmaryada-05-14-58-1.dcp-sandbox.boomi.com
 jwelshp2.underdog-sandbox.boomi.com
-www.internal-otteytest3.sandbox.boomi.com
+internal-otteytest3.sandbox.boomi.com
 dcp-bharath-10.dcp-sandbox.boomi.com
 dcp-luis-8.dcp-sandbox.boomi.com
 orch-such-test.dcp-sandbox.boomi.com
 sreeplat14.underdog-sandbox.boomi.com
-www.azuresrav.sandbox.boomi.com
+azuresrav.sandbox.boomi.com
 rppl210322.underdog-sandbox.boomi.com
 occm-us-west-2-willistest02.finops-sandbox.boomi.com
 dcp-nhorn-07-20-12-04-1.dcp-sandbox.boomi.com
 occm-eastus-mnnp5.sandbox.boomi.com
 occm-us-east-1-bhat14.underdog-sandbox.boomi.com
-www.internal.sravaz1.sandbox.boomi.com
+internal.sravaz1.sandbox.boomi.com
 catalogue-manasa.dcp-sandbox.boomi.com
-www.occm-eastus-sk2.sandbox.boomi.com
+occm-eastus-sk2.sandbox.boomi.com
 rpazure1.sandbox.boomi.com
 testoct16.incredibles-sandbox.boomi.com
 manage-nessustest.sandbox.boomi.com
@@ -158,12 +158,12 @@ occm-us-west-2-odugutc2.sandbox.boomi.com
 rlat.dev.automate.boomi.com
 test.boomi.com
 automation-saas-extended-36.dcp-sandbox.boomi.com
-www.internal.azurefb2g.sandbox.boomi.com
+internal.azurefb2g.sandbox.boomi.com
 eu-assets.flow-test.boomi.com
 help.dcp-sandbox.boomi.com
 occm-us-east-1-bhat25.underdog-sandbox.boomi.com
 manage-ellen.sandbox.boomi.com
-www.dcp-prakhar.sandbox.boomi.com
+dcp-prakhar.sandbox.boomi.com
 rayudu-orc-1.dcp-sandbox.boomi.com
 engpdev.engp-sandbox.boomi.com
 dcp-bharathmaryada-16-14-41-3.dcp-sandbox.boomi.com
@@ -244,7 +244,7 @@ internal-jpscloud4.sandbox.boomi.com
 platsaik.incredibles-sandbox.boomi.com
 occm-us-east-1-jwelshp23e.underdog-sandbox.boomi.com
 automation-saas-develop-56.dcp-sandbox.boomi.com
-www.internal.azuresrav.sandbox.boomi.com
+internal.azuresrav.sandbox.boomi.com
 occm-us-east-2-sharonawsjw1.sandbox.boomi.com
 bhat20.underdog-sandbox.boomi.com
 dcp-cpedrotti-16-15-44-6.dcp-sandbox.boomi.com
@@ -333,7 +333,7 @@ srkplat.sandbox.boomi.com
 dcp-25.dcp-pipeline.boomi.com
 dcp-chandrasekar-10-08-12-1.dcp-sandbox.boomi.com
 occm-us-east-1-ksrred21.sandbox.boomi.com
-www.sso.boomi.com
+sso.boomi.com
 internal.abhiqaclone2.sandbox.boomi.com
 drdevplat.sandbox.boomi.com
 occm-us-east-1-pasindia.appsec-sandbox.boomi.com
@@ -391,7 +391,7 @@ platf-arv.sandbox.boomi.com
 automation-saas-extended-30.dcp-sandbox.boomi.com
 dcp-bharathmaryada-06-22-48-7.dcp-sandbox.boomi.com
 hr.boomi.com
-www.azurebh.sandbox.boomi.com
+azurebh.sandbox.boomi.com
 dcp-chandrasekar-11-09-34-3.dcp-sandbox.boomi.com
 occm-us-east-1-otteyplat2.underdog-sandbox.boomi.com
 apimcloud.sandbox.boomi.com
@@ -576,7 +576,6 @@ occm-us-east-1-swati206.underdog-sandbox.boomi.com
 occm-us-east-1-challa.runtime-sandbox.boomi.com
 occm-eu-west-1-prodtestgbr01.boomi.com
 dcp-cpedrotti-25-17-21-1.dcp-sandbox.boomi.com
-www.occm-eastus-mnnp5.sandbox.boomi.com
 occm-us-east-1-rjaintest2.sandbox.boomi.com
 ksrred70.sandbox.boomi.com
 dcp-darshan-19-11-50-7.dcp-sandbox.boomi.com
@@ -649,7 +648,7 @@ chrisdplt2.pipeline.boomi.com
 bhat60.underdog-sandbox.boomi.com
 dcp-darshan-19-14-57-1.dcp-sandbox.boomi.com
 azuredev453.sandbox.boomi.com
-www.as2.boomi.com
+as2.boomi.com
 dingo.sandbox.boomi.com
 dev-mdmservices.sandbox.boomi.com
 automation-saas-ext-11.dcp-sandbox.boomi.com
@@ -775,7 +774,7 @@ ppt-nov.incredibles-sandbox.boomi.com
 dino24.underdog-sandbox.boomi.com
 thyone.sandbox.boomi.com
 mdmperftest.qa.boomi.com
-www.internal.az643.sandbox.boomi.com
+internal.az643.sandbox.boomi.com
 challagws4.runtime-sandbox.boomi.com
 apimgw4n1.sandbox.boomi.com
 occm-us-east-1-ksrred34.underdog-sandbox.boomi.com
@@ -853,7 +852,7 @@ occm-us-west-2-kpsec2.sandbox.boomi.com
 automation-feature-26.dcp-sandbox.boomi.com
 occm-us-east-1-dino0327.underdog-sandbox.boomi.com
 occm-us-east-1-unicode.underdog-sandbox.boomi.com
-www.rpazure2.sandbox.boomi.com
+rpazure2.sandbox.boomi.com
 occm-us-east-1-dino18.underdog-sandbox.boomi.com
 orchmfaref.dcp-sandbox.boomi.com
 mscdr2.space-service.cj-sandbox.boomi.com
@@ -922,11 +921,11 @@ automation-saas-catalog-34.dcp-sandbox.boomi.com
 otteytest6.sandbox.boomi.com
 otteyp3.underdog-sandbox.boomi.com
 occm-us-east-1-upliftqa.sandbox.boomi.com
-www.sravaz2.sandbox.boomi.com
+sravaz2.sandbox.boomi.com
 dcp-bharathmaryada-29-10-23-1.dcp-sandbox.boomi.com
 dcp-suchitra-08-20-17-2.dcp-sandbox.boomi.com
 graphql-rajaram1.space-service.cj-sandbox.boomi.com
-www.newazure2g.sandbox.boomi.com
+newazure2g.sandbox.boomi.com
 dino01.sandbox.boomi.com
 kpplat10.sandbox.boomi.com
 apitestplt.sandbox.boomi.com
@@ -978,7 +977,7 @@ maxvpc.engp-sandbox.boomi.com
 occm-eastus-mnnp4.sandbox.boomi.com
 occm-us-east-1-bhat03.underdog-sandbox.boomi.com
 occm-us-east-1-runtimeprfbm3nm.sandbox.boomi.com
-www.internal.dkazure1.sandbox.boomi.com
+internal.dkazure1.sandbox.boomi.com
 automation-cat-extended-58.dcp-sandbox.boomi.com
 automation-saas-extended-76.dcp-sandbox.boomi.com
 themisto.sandbox.boomi.com
@@ -986,7 +985,7 @@ apimteam1cloud.apim-pipeline.boomi.com
 bharath-local-1.dcp-sandbox.boomi.com
 occm-us-west-2-plattest1.sandbox.boomi.com
 automation-um-5.dcp-sandbox.boomi.com
-www.login.boomi.com
+login.boomi.com
 wiki.boomi.com
 saimarch.incredibles-sandbox.boomi.com
 dcp-cpedrotti-15-11-59-1.dcp-sandbox.boomi.com
@@ -1007,7 +1006,6 @@ dcp-intel-prod.intelligence.boomi.com
 dcp-luis-29-10-45-5.dcp-sandbox.boomi.com
 dcp-suchitra-08-04-12-26-3.dcp-sandbox.boomi.com
 swati171.sandbox.boomi.com
-dcp-prakhar.sandbox.boomi.com
 automation-saas-develop-111.dcp-sandbox.boomi.com
 manage-kimvpc6.sandbox.boomi.com
 prodclone.space-service.cj-prod.boomi.com
@@ -1065,7 +1063,7 @@ dcp-darshan-19-11-50-8.dcp-sandbox.boomi.com
 murali2-platformservices.sandbox.boomi.com
 noa3.dcp-sandbox.boomi.com
 occm-us-east-1-kimpulp2.sandbox.boomi.com
-www.azure453.sandbox.boomi.com
+azure453.sandbox.boomi.com
 automation-saas-extended-17.dcp-sandbox.boomi.com
 dcp-suchitra-30-22-59-2.dcp-sandbox.boomi.com
 saiinc4.incredibles-sandbox.boomi.com
@@ -1073,7 +1071,7 @@ taskautomation.boomi.com
 automation-feature-2.dcp-sandbox.boomi.com
 runtimeperfqacloud1.runtime-sandbox.boomi.com
 occm-us-west-2-ravip3.incredibles-sandbox.boomi.com
-www.internal.snp1.sandbox.boomi.com
+internal.snp1.sandbox.boomi.com
 venu2307.incredibles-sandbox.boomi.com
 eu.flow-test.boomi.com
 dcp-92.dcp-pipeline.boomi.com
@@ -1086,7 +1084,7 @@ cis-plater.sandbox.boomi.com
 occm-us-east-1-kimpulp.sandbox.boomi.com
 kpplat13.sandbox.boomi.com
 dcp-bharathmaryada-02-15-49-8.dcp-sandbox.boomi.com
-www.dcp-luis.sandbox.boomi.com
+dcp-luis.sandbox.boomi.com
 dcp-luis-06-24-18-22-40.dcp-sandbox.boomi.com
 occm-us-east-1-internat.sandbox.boomi.com
 occm-us-east-1-willispl.finops-sandbox.boomi.com
@@ -1173,7 +1171,7 @@ tushar.sandbox.boomi.com
 apimunitedbroker.sandbox.boomi.com
 dcp-suchitra-10-20-39-2.dcp-sandbox.boomi.com
 occm-us-east-1-venu2308.incredibles-sandbox.boomi.com
-www.occm-eastus-rp.sandbox.boomi.com
+occm-eastus-rp.sandbox.boomi.com
 psrchaos.underdog-sandbox.boomi.com
 khousep2.underdog-sandbox.boomi.com
 manage-jwelshm3.sandbox.boomi.com
@@ -1205,7 +1203,7 @@ occm-us-east-1-relamars3.engp-sandbox.boomi.com
 odugumvpc1.sandbox.boomi.com
 theflash1.sandbox.boomi.com
 dcp-luis-16-08-13-1.dcp-sandbox.boomi.com
-www.prodclone.boomi.com
+prodclone.boomi.com
 iloveaws4.sandbox.boomi.com
 ksrred136.underdog-sandbox.boomi.com
 automation-saas-develop-160.dcp-sandbox.boomi.com
@@ -1310,7 +1308,7 @@ dcp-bharath-1.dcp-sandbox.boomi.com
 dcp-bharathmaryada-01-09-16-1.dcp-sandbox.boomi.com
 occm-us-east-1-bhat11.underdog-sandbox.boomi.com
 occm-us-west-2-sravtest1.runtime-sandbox.boomi.com
-www.occm-westus-napp.sandbox.boomi.com
+occm-westus-napp.sandbox.boomi.com
 occm-us-east-1-jwelshp23w.underdog-sandbox.boomi.com
 dcp-89.dcp-pipeline.boomi.com
 newton.sandbox.boomi.com
@@ -1381,7 +1379,7 @@ dcp-luis-01-10-28-1.dcp-sandbox.boomi.com
 occm-us-east-1-motuscloud1.hub-sandbox.boomi.com
 dcp-alon-10-04-14-20-1.dcp-pipeline.boomi.com
 splunk.jps3.sandbox.boomi.com
-www.internal.azureold.sandbox.boomi.com
+internal.azureold.sandbox.boomi.com
 ksrred61.sandbox.boomi.com
 automation-cat-extended-15.dcp-sandbox.boomi.com
 automation-saas-develop-54.dcp-sandbox.boomi.com
@@ -1391,7 +1389,6 @@ popeye1.sandbox.boomi.com
 dcp-alon-5.dcp-sandbox.boomi.com
 ketaki-release.dcp-sandbox.boomi.com
 orchestrator-nr6.dcp-sandbox.boomi.com
-sso.boomi.com
 occm-us-east-1-reltest.engp-sandbox.boomi.com
 occm-us-east-1-eq1plat.sandbox.boomi.com
 occm-us-east-1-gtripuracld.incredibles-sandbox.boomi.com
@@ -1590,11 +1587,10 @@ jwelshp2.sandbox.boomi.com
 ksrred132.underdog-sandbox.boomi.com
 occm-us-east-1-dkaws2.runtime-sandbox.boomi.com
 occm-us-east-1-rdshubfail.underdog-sandbox.boomi.com
-www.rockscooking.sandbox.boomi.com
+rockscooking.sandbox.boomi.com
 dcp-alon-07-26-10-33-1.dcp-sandbox.boomi.com
 occm-us-west-2-jwelshc23z.underdog-sandbox.boomi.com
 occm-us-east-1-ksrred60.underdog-sandbox.boomi.com
-rockscooking.sandbox.boomi.com
 occm-us-east-1-soniccloud1.sandbox.boomi.com
 spongegar.engp-sandbox.boomi.com
 kimh18.underdog-sandbox.boomi.com
@@ -1638,7 +1634,7 @@ dcp-19.dcp-pipeline.boomi.com
 occm-us-east-1-challa-cloud.sandbox.boomi.com
 occm-us-east-1-dino09.sandbox.boomi.com
 occm-us-west-2-otteytest5.sandbox.boomi.com
-www.internal-rockscooking.sandbox.boomi.com
+internal-rockscooking.sandbox.boomi.com
 occm-us-east-1-nartest.incredibles-sandbox.boomi.com
 hubdevdp1.hub-sandbox.boomi.com
 occm-us-west-2-abhiqacloud.sandbox.boomi.com
@@ -1656,7 +1652,7 @@ occm-us-west-1-ksrredcld20.runtime-sandbox.boomi.com
 dino0308.underdog-sandbox.boomi.com
 dcp-alon-18-13-15-7.dcp-sandbox.boomi.com
 thanhtran.sandbox.boomi.com
-www.occm-westus-s.sandbox.boomi.com
+occm-westus-s.sandbox.boomi.com
 occm-us-east-1-ksrred84.underdog-sandbox.boomi.com
 occm-us-west-2-karishmadr6.sandbox.boomi.com
 manage-chris.boomi.com
@@ -1667,7 +1663,7 @@ occm-us-west-2-spongegar.sandbox.boomi.com
 occm-us-west-2-archawscloud.runtime-sandbox.boomi.com
 orchestrator-cidrtest.dcp-sandbox.boomi.com
 occm-us-east-1-khousec3.runtime-sandbox.boomi.com
-www.kpaznfs1.sandbox.boomi.com
+kpaznfs1.sandbox.boomi.com
 dcp-chandrasekar-25-06-26-7.dcp-sandbox.boomi.com
 dcp-luis-10.dcp-sandbox.boomi.com
 dcp-suchitra-10-20-39-1.dcp-sandbox.boomi.com
@@ -1729,7 +1725,7 @@ occm-us-east-1-puffins2.sandbox.boomi.com
 sandeshqa-platformservices.services-pipeline.boomi.com
 dcp-bharathmaryada-07-17-04-4.dcp-sandbox.boomi.com
 occm-us-east-1-connectorland.sandbox.boomi.com
-www.internal.kpazurefips.sandbox.boomi.com
+internal.kpazurefips.sandbox.boomi.com
 alon16.dcp-sandbox.boomi.com
 dcp-cpedrotti-08-03-11-28-1.dcp-sandbox.boomi.com
 gsnlink.boomi.com
@@ -1848,7 +1844,7 @@ test.sandbox.boomi.com
 surya2405.incredibles-sandbox.boomi.com
 automation-build-3.dcp-sandbox.boomi.com
 dcp-chandrasekar-10-03-42-3.dcp-sandbox.boomi.com
-www.video.boomi.com
+video.boomi.com
 prodclone4-platformservices.services-preprod.boomi.com
 occm-us-east-1-swatitest9.sandbox.boomi.com
 occm-us-east-2-dineshdevcloud.sandbox.boomi.com
@@ -1988,7 +1984,7 @@ noa-orch.dcp-sandbox.boomi.com
 occm-us-east-1-pulpqa1.sandbox.boomi.com
 abhitest11.sandbox.boomi.com
 willisplat.sandbox.boomi.com
-www.internal.kpaznfs2.sandbox.boomi.com
+internal.kpaznfs2.sandbox.boomi.com
 occm-us-east-1-apirgcloud.apim-sandbox.boomi.com
 msctest.space-service.cj-sandbox.boomi.com
 odugudevdr.sandbox.boomi.com
@@ -2074,7 +2070,7 @@ composite-api.dcp-pipeline.boomi.com
 raghujf.engp-sandbox.boomi.com
 jw220719.sandbox.boomi.com
 occm-us-east-1-kir.incredibles-sandbox.boomi.com
-www.datalake-pipeline.boomi.com
+datalake-pipeline.boomi.com
 clonesrc.underdog-sandbox.boomi.com
 occm-us-east-1-karishma7.sandbox.boomi.com
 manage-anavana.engp-sandbox.boomi.com
@@ -2106,7 +2102,6 @@ services-prod.boomi.com
 bhat01.underdog-sandbox.boomi.com
 automation-saas-dev-19.dcp-sandbox.boomi.com
 dcp-alon-08-15-53-1.dcp-sandbox.boomi.com
-www.kltest13.sandbox.boomi.com
 occm-us-east-1-sizetesa.sandbox.boomi.com
 vish2.sandbox.boomi.com
 occm-us-east-1-ksrred18.sandbox.boomi.com
@@ -2156,7 +2151,7 @@ occm-us-east-1-saiinc.incredibles-sandbox.boomi.com
 khousep9.underdog-sandbox.boomi.com
 internal.sravaz2.sandbox.boomi.com
 occm-us-east-1-tmpbld.sandbox.boomi.com
-www.internal.kpaznfs1.sandbox.boomi.com
+internal.kpaznfs1.sandbox.boomi.com
 automation-8.dcp-sandbox.boomi.com
 automation-saas-develop-172.dcp-sandbox.boomi.com
 occm-us-east-1-platsaiku.sandbox.boomi.com
@@ -2216,7 +2211,7 @@ occm-us-west-2-ps1077-dr2.sandbox.boomi.com
 dcp-cpedrotti-16-10-27-9.dcp-sandbox.boomi.com
 orchestrator-luis-052.dcp-sandbox.boomi.com
 router-lomesh.dcp-sandbox.boomi.com
-www.login-qa.boomi.com
+login-qa.boomi.com
 jwpc3i18n.pipeline.boomi.com
 ksrred137.underdog-sandbox.boomi.com
 chandrasekar-test-aync.dcp-sandbox.boomi.com
@@ -2232,16 +2227,15 @@ apimunited.sandbox.boomi.com
 occm-us-west-2-swati159.sandbox.boomi.com
 akgwtest3.runtime-sandbox.boomi.com
 occm-us-east-1-bhat01.underdog-sandbox.boomi.com
-www.azswati.sandbox.boomi.com
+azswati.sandbox.boomi.com
 willisp2.finops-sandbox.boomi.com
 occm-us-east-1-ksrred57.sandbox.boomi.com
-www.azurecert.pipeline.boomi.com
+azurecert.pipeline.boomi.com
 dexter2.sandbox.boomi.com
-www.internal.arpithaaz3.sandbox.boomi.com
 occm-us-east-1-ravikiran1.incredibles-sandbox.boomi.com
 manage-swati112.sandbox.boomi.com
 automation-cat-extended-72.dcp-sandbox.boomi.com
-www.internal.sravazdr2.sandbox.boomi.com
+internal.sravazdr2.sandbox.boomi.com
 automation-saas-catalog-52.dcp-sandbox.boomi.com
 occm-ap-southeast-4-sravmel01.runtime-sandbox.boomi.com
 vpc.boomi.com
@@ -2250,11 +2244,9 @@ occm-us-east-1-babadook.sandbox.boomi.com
 splunk.manage-mikesvpc.sandbox.boomi.com
 dcp-luis-05-09-39-4.dcp-sandbox.boomi.com
 dennis5.sandbox.boomi.com
-internal.snp1.sandbox.boomi.com
 sandbox-component-service-cloudfront.sandbox.boomi.com
 rajtest.sandbox.boomi.com
 occm-us-west-2-shazdrplat.sandbox.boomi.com
-www.azuredev453.sandbox.boomi.com
 abhiqacloud-alb.sandbox.boomi.com
 occm-us-east-1-dineshtestcloud.sandbox.boomi.com
 malamute.appsec-sandbox.boomi.com
@@ -2385,7 +2377,6 @@ occm-us-west-2-speedforce.sandbox.boomi.com
 automation-cat-extended-55.dcp-sandbox.boomi.com
 karishma1.sandbox.boomi.com
 jw221012.underdog-sandbox.boomi.com
-www.internal.arpithaaz4.sandbox.boomi.com
 manage-mike11.sandbox.boomi.com
 apimgw02.lab.boomi.com
 automation-saas-cat-14.dcp-sandbox.boomi.com
@@ -2405,7 +2396,7 @@ apimmolecule3.sandbox.boomi.com
 automation-saas-extended-60.dcp-sandbox.boomi.com
 dcp-bharathmaryada-13-16-23-8.dcp-sandbox.boomi.com
 padmatest1.runtime-sandbox.boomi.com
-www.internal.devazure2g.sandbox.boomi.com
+internal.devazure2g.sandbox.boomi.com
 intelligence-bundle-service.sandbox.boomi.com
 dennis6.sandbox.boomi.com
 occm-us-west-2-khouse4.underdog-sandbox.boomi.com
@@ -2467,7 +2458,7 @@ rlfed.flow-dev.boomi.com
 usa-east.prodclone.eventstreams.boomi.com
 occm-us-east-1-ksrred102.underdog-sandbox.boomi.com
 manage-jwelsh4.sandbox.boomi.com
-www.azfipstrue.sandbox.boomi.com
+azfipstrue.sandbox.boomi.com
 ssazurecloud.sandbox.boomi.com
 occm-eu-west-2-prodtestgbr01.boomi.com
 occm-us-east-1-kimh12.sandbox.boomi.com
@@ -2488,7 +2479,6 @@ occm-us-east-1-denniscloud4.sandbox.boomi.com
 occm-us-east-1-ksrred108.underdog-sandbox.boomi.com
 pipplat.sandbox.boomi.com
 occm-us-west-2-jazzhands.sandbox.boomi.com
-www.kpdnscloud5.alb.sandbox.boomi.com
 apimcloudregression.sandbox.boomi.com
 jw220922.underdog-sandbox.boomi.com
 occm-us-east-1-surya2307.incredibles-sandbox.boomi.com
@@ -2504,7 +2494,6 @@ occm-us-east-1-relmigrk9.engp-sandbox.boomi.com
 occm-us-east-1-odugucvo.runtime-sandbox.boomi.com
 saifeb.incredibles-sandbox.boomi.com
 dcp-suchitra-19-17-30-20.dcp-sandbox.boomi.com
-internal.dkazure1.sandbox.boomi.com
 occm-us-east-1-ksrred106.underdog-sandbox.boomi.com
 jwelshp46.sandbox.boomi.com
 jw220411.underdog-sandbox.boomi.com
@@ -2535,12 +2524,12 @@ occm-us-west-2-jwelshc23m.underdog-sandbox.boomi.com
 otel.rlfed.flow-dev.boomi.com
 occm-us-east-1-kimmdm.sandbox.boomi.com
 occm-us-east-1-theflash.sandbox.boomi.com
-www.az648.sandbox.boomi.com
+az648.sandbox.boomi.com
 corona-platformservices.sandbox.boomi.com
 boomi-meg-sandbox-4.dcp-sandbox.boomi.com
 dcp-suchitra-08-18-10-1.dcp-sandbox.boomi.com
 occm-us-east-1-backups.underdog-sandbox.boomi.com
-www.answers.boomi.com
+answers.boomi.com
 ganesh1.underdog-sandbox.boomi.com
 automation-cat-extended-46.dcp-sandbox.boomi.com
 automation-r8.dcp-sandbox.boomi.com
@@ -2551,7 +2540,7 @@ baiq.datalake-sandbox.boomi.com
 dcp-10.dcp-pipeline.boomi.com
 occm-us-east-1-sreeplat13.underdog-sandbox.boomi.com
 occm-us-west-2-hub001.sandbox.boomi.com
-www.newazure453.sandbox.boomi.com
+newazure453.sandbox.boomi.com
 chris-24.dcp-sandbox.boomi.com
 dcp-suchitra-27-17-09-5.dcp-sandbox.boomi.com
 occm-us-west-2-pulpqa1.sandbox.boomi.com
@@ -2603,7 +2592,7 @@ mdmbeta.boomi.com
 build.dev.flow.boomi.com
 myplat3.sandbox.boomi.com
 graphql-naresh.space-service.cj-sandbox.boomi.com
-www.stevens2.sandbox.boomi.com
+stevens2.sandbox.boomi.com
 occm-us-east-1-testplat3.sandbox.boomi.com
 uplift3.sandbox.boomi.com
 dcp-chandrasekar-08-05-34-1.dcp-sandbox.boomi.com
@@ -2636,7 +2625,7 @@ orchestrator-rc2.dcp-sandbox.boomi.com
 kalamazoo1.sandbox.boomi.com
 bhat06.underdog-sandbox.boomi.com
 hetashvi-orch-test.dcp-sandbox.boomi.com
-www.azr8anf.sandbox.boomi.com
+azr8anf.sandbox.boomi.com
 manage-anav2.sandbox.boomi.com
 sharonazure2.sandbox.boomi.com
 occm-us-east-1-runtime3nmoleculebm.sandbox.boomi.com
@@ -2697,7 +2686,7 @@ margaret-sandbox.boomi.com
 eosisness-platformservices.sandbox.boomi.com
 rc-dev-oct5.dcp-sandbox.boomi.com
 orch410.dcp-sandbox.boomi.com
-www.kpazurefips.sandbox.boomi.com
+kpazurefips.sandbox.boomi.com
 automation-saas-dev-9.dcp-sandbox.boomi.com
 graphql-prodclone.space-service.cj-prod.boomi.com
 occm-us-east-1-jw220411.underdog-sandbox.boomi.com
@@ -2783,7 +2772,6 @@ automation-saas-develop-110.dcp-sandbox.boomi.com
 occm-us-east-2-darrenwftest.sandbox.boomi.com
 willisp2.finops.boomi.com
 occm-us-east-2-swatic3.sandbox.boomi.com
-datalake-pipeline.boomi.com
 akgwtest8.runtime-sandbox.boomi.com
 manage-karishma10.sandbox.boomi.com
 occm-us-east-1-kpplat24.sandbox.boomi.com
@@ -2795,7 +2783,6 @@ occm-us-east-1-ksrredcld15.runtime-sandbox.boomi.com
 occm-us-east-1-ctdmdm.sandbox.boomi.com
 abhitest1.boomi.com
 occm-us-east-2-kpdr5.sandbox.boomi.com
-internal-otteytest3.sandbox.boomi.com
 dcp-suchitra-27-21-08-1.dcp-sandbox.boomi.com
 deu.eventstreams.boomi.com
 occm-us-east-1-boomidevgwtest.runtime-sandbox.boomi.com
@@ -2845,7 +2832,7 @@ au.flow.boomi.com
 arvdevjen9.yml.engp-sandbox.boomi.com
 ksrred38.underdog-sandbox.boomi.com
 automation-saas-15.dcp-sandbox.boomi.com
-www.rpazure3.sandbox.boomi.com
+rpazure3.sandbox.boomi.com
 chandrasekar.dcp-sandbox.boomi.com
 dinor11.underdog-sandbox.boomi.com
 dcp-cpedrotti-27-13-46-3.dcp-sandbox.boomi.com
@@ -2870,7 +2857,6 @@ occm-us-west-2-unicode1.underdog-sandbox.boomi.com
 ksrred22.sandbox.boomi.com
 jwtest1.sandbox.boomi.com
 dcp-chandrasekar-11-09-34-1.dcp-sandbox.boomi.com
-www.dcp-intel-qa.pipeline.intelligence.boomi.com
 acmtest.es-sandbox.boomi.com
 khurikm3.engp-sandbox.boomi.com
 sreeplat01.underdog-sandbox.boomi.com
@@ -2905,7 +2891,6 @@ speedforce.sandbox.boomi.com
 apimsbcloud.sand.boomi.com
 dcp-bharathmaryada-06-22-48-9.dcp-sandbox.boomi.com
 crowdvpc.sandbox.boomi.com
-occm-eastus-rp.sandbox.boomi.com
 orchestrator-luis040.dcp-sandbox.boomi.com
 automation-saas-16.dcp-sandbox.boomi.com
 orch-kashif-28.dcp-sandbox.boomi.com
@@ -2953,7 +2938,6 @@ dino99.underdog-sandbox.boomi.com
 eventstreams-sandbox.boomi.com
 occm-us-east-1-motusdp1.hub-sandbox.boomi.com
 occm-us-east-1-relamars7.engp-sandbox.boomi.com
-newazure2g.sandbox.boomi.com
 209919-dfwfile1.dfw.boomi.com
 int9930abhishek.sandbox.boomi.com
 dcp-97.dcp-pipeline.boomi.com
@@ -2973,7 +2957,7 @@ occm-us-west-2-swat92.underdog-sandbox.boomi.com
 occm-us-east-1-stevens1.runtime-sandbox.boomi.com
 challagws6.runtime-sandbox.boomi.com
 automation-saas-extended-68.dcp-sandbox.boomi.com
-www.internal.sharonazure1.sandbox.boomi.com
+internal.sharonazure1.sandbox.boomi.com
 swatidr92.sandbox.boomi.com
 occm-us-east-1-eosisstack.sandbox.boomi.com
 occm-us-east-1-plat4test.sandbox.boomi.com
@@ -3044,7 +3028,7 @@ dcp-luis-14-16-22-3.dcp-sandbox.boomi.com
 occm-us-east-1-miketest5.engp-sandbox.boomi.com
 occm-us-west-2-jw220922d.underdog-sandbox.boomi.com
 occm-us-east-1-ksrred78.underdog-sandbox.boomi.com
-www.boomiqaaz.sandbox.boomi.com
+boomiqaaz.sandbox.boomi.com
 vpn.lab.boomi.com
 automation-saas-extended-65.dcp-sandbox.boomi.com
 manage-mikesvpc.sandbox.boomi.com
@@ -3054,7 +3038,7 @@ login.automate.boomi.com
 graphql-catdr.space-service.cj-sandbox.boomi.com
 rpawshub1.sandbox.boomi.com
 occm-us-east-1-dineshltst.sandbox.boomi.com
-www.internal.arpithaaz2.sandbox.boomi.com
+internal.arpithaaz2.sandbox.boomi.com
 dcp-alon-16-16-35-3.dcp-sandbox.boomi.com
 swati17.sandbox.boomi.com
 occm-us-west-2-swati67.sandbox.boomi.com
@@ -3077,7 +3061,7 @@ odugu01.underdog-sandbox.boomi.com
 qahubtest.sandbox.boomi.com
 occm-us-east-1-nrplatform.sandbox.boomi.com
 swati678.sandbox.boomi.com
-www.cdn.boomi.com
+cdn.boomi.com
 occm-us-east-1-stopcloud1.sandbox.boomi.com
 occm-us-east-1-kptest4.sandbox.boomi.com
 occm-us-east-1-tmaiplat.sandbox.boomi.com
@@ -3135,13 +3119,12 @@ bonb-prod.boomi.com
 occm-us-east-1-vidstack.incredibles-sandbox.boomi.com
 orch-lpa.dcp-sandbox.boomi.com
 orchestrator-luis10.dcp-sandbox.boomi.com
-azswati.sandbox.boomi.com
 uitech-sandbox.boomi.com
 occm-us-east-1-srplat3.underdog-sandbox.boomi.com
 occm-eu-central-1-prodintdeu01.boomi.com
 swatidr55.sandbox.boomi.com
 dcp-nhorn-25-11-38-3.dcp-sandbox.boomi.com
-www.community.boomi.com
+community.boomi.com
 occm-us-east-1-newvar2g.sandbox.boomi.com
 dcp-nhorn-25-11-38-8.dcp-sandbox.boomi.com
 baotest1.sandbox.boomi.com
@@ -3175,7 +3158,6 @@ psrllhorizontal10.sandbox.boomi.com
 occm-us-east-1-charansre.underdog-sandbox.boomi.com
 occm-us-west-2-jwelshp23a.underdog-sandbox.boomi.com
 testv4.datalake-sandbox.boomi.com
-cdn.boomi.com
 portal.na.controlplane.boomi.com
 occm-eastus-snp1.sandbox.boomi.com
 kptestdns4.sandbox.boomi.com
@@ -3236,7 +3218,6 @@ occm-us-west-2-odugutc01.underdog-sandbox.boomi.com
 occm-us-west-2-stplatmr.underdog-sandbox.boomi.com
 rl-testpr.flow-dev.boomi.com
 occm-us-east-1-prodhubfedeast01.boomi.com
-www.arpithaaz3.sandbox.boomi.com
 dcp-nhorn-26-22-26-3.dcp-sandbox.boomi.com
 occm-eastus-archaz1.sandbox.boomi.com
 occm-us-east-1-gw1basic2.sandbox.boomi.com
@@ -3302,7 +3283,6 @@ orchestrator-fina.dcp-sandbox.boomi.com
 willispl.sandbox.boomi.com
 gazula.runtime-sandbox.boomi.com
 dkgw1.runtime-sandbox.boomi.com
-login-qa.boomi.com
 orch-kashif-test.dcp-sandbox.boomi.com
 occm-us-east-1-shaztest4.sandbox.boomi.com
 lifecycle2-platformservices.sandbox.boomi.com
@@ -3369,7 +3349,6 @@ christest3.sandbox.boomi.com
 dcp-bharathmaryada-05-14-58-7.dcp-sandbox.boomi.com
 occm-us-east-1-sank0224.incredibles-sandbox.boomi.com
 occm-us-east-1-ksrred35.underdog-sandbox.boomi.com
-video.boomi.com
 automation-feature-8.dcp-sandbox.boomi.com
 kentest7.sandbox.boomi.com
 apimauth.sandbox.boomi.com
@@ -3400,7 +3379,6 @@ occm-us-east-1-swatitest4.sandbox.boomi.com
 occm-us-east-1-odugutest2.sandbox.boomi.com
 nagagw1.runtime-sandbox.boomi.com
 dcp-23.dcp-pipeline.boomi.com
-www.itapps-bonb-sandbox.boomi.com
 occm-us-east-1-kir-plat.incredibles-sandbox.boomi.com
 sg.flow-prod.boomi.com
 occm-us-east-1-sravmdmcloud.sandbox.boomi.com
@@ -3416,7 +3394,7 @@ automation-cat-extended-6.dcp-sandbox.boomi.com
 automation-saas-extended-16.dcp-sandbox.boomi.com
 occm-us-east-1-gw4napim3.sandbox.boomi.com
 test.datalake-sandbox.boomi.com
-www.itapps.bonb-prod.boomi.com
+itapps.bonb-prod.boomi.com
 occm-us-west-2-anuragplat.sandbox.boomi.com
 occm-us-east-1-oduguhub2.sandbox.boomi.com
 pii.datalake-prodclone.boomi.com
@@ -3436,7 +3414,7 @@ automation-saas-develop-52.dcp-sandbox.boomi.com
 dcp-chandrasekarramamoorthi-29-09-22-5.dcp-sandbox.boomi.com
 grogu.sandbox.boomi.com
 occm-us-west-2-tcqa1.sandbox.boomi.com
-www.azureold.sandbox.boomi.com
+azureold.sandbox.boomi.com
 relamars7.engp-sandbox.boomi.com
 occm-us-east-1-j.underdog-sandbox.boomi.com
 prodclone4.boomi.com
@@ -3554,7 +3532,6 @@ occm-us-east-1-ksrred131.underdog-sandbox.boomi.com
 sank0324.incredibles-sandbox.boomi.com
 qeng.sandbox.boomi.com
 occm-us-east-1-b2bintplat.pipeline.boomi.com
-www.occm-eastus-sravaz2.sandbox.boomi.com
 graphql-mscnew1.catalog-service.cj-sandbox.boomi.com
 prodclone.platform.boomi.com
 linktest1.sandbox.boomi.com
@@ -3586,7 +3563,6 @@ priyalpip9.sandbox.boomi.com
 occm-us-east-1-surya2301.underdog-sandbox.boomi.com
 occm-us-east-1-ksrred74.sandbox.boomi.com
 occm-us-east-1-tushar103.incredibles-sandbox.boomi.com
-www.dcp-prakhar-dev.sandbox.boomi.com
 occm-us-west-2-sravplat1.sandbox.boomi.com
 occm-us-east-1-devika2dr.sandbox.boomi.com
 apim-sandbox.boomi.com
@@ -3612,10 +3588,8 @@ jw220727dr.sandbox.boomi.com
 occm-us-east-1-odugu03.sandbox.boomi.com
 occm-us-east-1-shubham.engp-sandbox.boomi.com
 orch-assume.dcp-sandbox.boomi.com
-www.dcpintelligence.sandbox.boomi.com
 automation-saas-catalog-43.dcp-sandbox.boomi.com
 drflow.flow-dev.boomi.com
-internal.kpaznfs1.sandbox.boomi.com
 miketest5.engp-sandbox.boomi.com
 testcloudmolecule01test.runtime-sandbox.boomi.com
 rayudussp.dcp-sandbox.boomi.com
@@ -3623,14 +3597,13 @@ occm-us-east-1-kimh4.sandbox.boomi.com
 darshan-nikki.dcp-sandbox.boomi.com
 dcp-bharathmaryada-05-15-53-1.dcp-sandbox.boomi.com
 occm-us-east-1-sizetes2.sandbox.boomi.com
-www.kpaznfs2.sandbox.boomi.com
+kpaznfs2.sandbox.boomi.com
 automation-saas-extended-44.dcp-sandbox.boomi.com
 dcp-bharathmaryada-25-13-04-5.dcp-sandbox.boomi.com
 jw221001.underdog-sandbox.boomi.com
 manage-padawan.engp-sandbox.boomi.com
 eosisstack.sandbox.boomi.com
 cerberus.sandbox.boomi.com
-www.azuredev.sandbox.boomi.com
 automation-feature-41.dcp-sandbox.boomi.com
 dcp-30.dcp-pipeline.boomi.com
 tomplat.engp-sandbox.boomi.com
@@ -3685,14 +3658,12 @@ occm-us-east-1-ncc1701d.sandbox.boomi.com
 occm-us-east-1-swati3dr.sandbox.boomi.com
 dcp-63.dcp-pipeline.boomi.com
 occm-us-east-1-kpslavejob.sandbox.boomi.com
-www.azr7nfs.sandbox.boomi.com
 automation-saas-develop-211.dcp-sandbox.boomi.com
 occm-us-east-1-test02.sandbox.boomi.com
 api.prodclone4.boomi.com
 vishalp1.sandbox.boomi.com
 dcp-bharathmaryada-19-20-05-3.dcp-sandbox.boomi.com
 dcp-chandrasekar-25-06-26-4.dcp-sandbox.boomi.com
-www.azr8nfs.sandbox.boomi.com
 otel.drflowpassive.flow-dev.boomi.com
 pii.sandbox.boomi.com
 graphql-qa.catalog-service.cj-pipeline.boomi.com
@@ -3706,11 +3677,9 @@ occm-ap-southeast-4-sravm05.runtime-sandbox.boomi.com
 occm-us-east-1-surya2302.incredibles-sandbox.boomi.com
 backend.venu1.incredibles-sandbox.boomi.com
 sandbox.margaret-sandbox.boomi.com
-internal.azuresrav.sandbox.boomi.com
 occm-us-east-1-akaws4.runtime-sandbox.boomi.com
 occm-us-west-2-jwelshc23y.underdog-sandbox.boomi.com
 sonarqube.engpqa.engp-sandbox.boomi.com
-www.psraznfs.sandbox.boomi.com
 occm-us-west-2-swati3dr.sandbox.boomi.com
 occm-us-west-2-thishub.sandbox.boomi.com
 dcp-alon-08-03-11-06-4.dcp-sandbox.boomi.com
@@ -3732,7 +3701,7 @@ dcp-agents-7.dcp-sandbox.boomi.com
 occm-us-east-1-prodtestusawest02.boomi.com
 dcp-luis-14-21-40-1.dcp-sandbox.boomi.com
 occm-us-east-1-surya2310.incredibles-sandbox.boomi.com
-www.archaz1.sandbox.boomi.com
+archaz1.sandbox.boomi.com
 occm-us-east-1-christest1.sandbox.boomi.com
 internal.jpscloud4.sandbox.boomi.com
 kpplat26.engp-sandbox.boomi.com
@@ -3839,7 +3808,6 @@ max1vpc.engp-sandbox.boomi.com
 dcp-alon-08-04-15-47-1.dcp-sandbox.boomi.com
 dcp-alon-14-12-05-3.dcp-sandbox.boomi.com
 dcp-bharathmaryada-24-10-23-2.dcp-sandbox.boomi.com
-www.vault.boomi.com
 m.dingo.sandbox.boomi.com
 dev.taskautomation.boomi.com
 automation-saas-develop-208.dcp-sandbox.boomi.com
@@ -3953,7 +3921,7 @@ occm-us-west-2-swatidr65.sandbox.boomi.com
 bhat42.underdog-sandbox.boomi.com
 dcp-alon-4.dcp-pipeline.boomi.com
 dcp-suchitra-18-13-59-1.dcp-sandbox.boomi.com
-www.internal.archaz1.sandbox.boomi.com
+internal.archaz1.sandbox.boomi.com
 automation-saas-develop-147.dcp-sandbox.boomi.com
 kimtest.underdog-sandbox.boomi.com
 occm-us-west-2-jw220215a.underdog-sandbox.boomi.com
@@ -3962,7 +3930,6 @@ occm-us-east-2-otteymigsource.sandbox.boomi.com
 dcp-nhorn-25-11-38-7.dcp-sandbox.boomi.com
 occm-us-east-1-bhat08.underdog-sandbox.boomi.com
 occm-us-west-2-nagnp.runtime-sandbox.boomi.com
-azr8anf.sandbox.boomi.com
 aus-east.eventstreams.boomi.com
 raj-orch-15.dcp-sandbox.boomi.com
 occm-us-east-1-stevenstest4.sandbox.boomi.com
@@ -3974,7 +3941,7 @@ dcp-nhorn-26-22-26-2.dcp-sandbox.boomi.com
 dcp-suchitra-18-20-05-4.dcp-sandbox.boomi.com
 occm-us-east-1-ksrred73.sandbox.boomi.com
 occm-us-east-1-testplat02.sandbox.boomi.com
-www.psrazcvo.sandbox.boomi.com
+psrazcvo.sandbox.boomi.com
 manage-anav2.manage-pipeline.boomi.com
 occm-us-east-1-tushartest.sandbox.boomi.com
 murali.sandbox.boomi.com
@@ -3988,15 +3955,14 @@ ppt-rds.incredibles-sandbox.boomi.com
 kltest1.sandbox.boomi.com
 occm-us-east-1-drtesthubcloud.underdog-sandbox.boomi.com
 occm-us-west-2-kpdr3.sandbox.boomi.com
-internal.az643.sandbox.boomi.com
 help1.dcp-sandbox.boomi.com
-www.internal-oduguaz01.sandbox.boomi.com
+internal-oduguaz01.sandbox.boomi.com
 occm-us-east-1-jw220801.underdog-sandbox.boomi.com
 occm-us-east-1-dia5.sandbox.boomi.com
 occm-us-east-1-devikadr3.sandbox.boomi.com
 automation-saas-catalog-28.dcp-sandbox.boomi.com
 dcp-luis-09-10-19-46-2.dcp-sandbox.boomi.com
-www.archaz2.sandbox.boomi.com
+archaz2.sandbox.boomi.com
 occm-us-east-1-cloud4odugudrplat.sandbox.boomi.com
 dcp-hetashvi-23-18-20-1.dcp-sandbox.boomi.com
 jasonvpc.engp-sandbox.boomi.com
@@ -4006,7 +3972,6 @@ occm-us-east-1-ksrred126.underdog-sandbox.boomi.com
 occm-us-east-1-rpawstest5.sandbox.boomi.com
 dkazure1.sandbox.boomi.com
 automation-saas-develop-249.dcp-sandbox.boomi.com
-www.devazure2g.sandbox.boomi.com
 scqaplat1.sandbox.boomi.com
 occm-us-east-1-san0424.incredibles-sandbox.boomi.com
 m.as2plat.boomi.com
@@ -4040,7 +4005,6 @@ ai.datalake-prodclone.boomi.com
 dcp-suchitra-07-17-13-3.dcp-sandbox.boomi.com
 kiranv.engp-sandbox.boomi.com
 ksrred.incredibles-sandbox.boomi.com
-as2.boomi.com
 graphql-dodugu.space-service.cj-sandbox.boomi.com
 occm-us-east-1-chrisdqa1.sandbox.boomi.com
 titans.sandbox.boomi.com
@@ -4081,7 +4045,6 @@ occm-us-west-2-prodtestusawest01.boomi.com
 bhat38.underdog-sandbox.boomi.com
 mscstack.incredibles-sandbox.boomi.com
 otel-collector.flow.boomi.com
-www.psranfs.sandbox.boomi.com
 arvpf1.sandbox.boomi.com
 dcp-alon-13-16-27-1.dcp-sandbox.boomi.com
 kimh19.underdog-sandbox.boomi.com
@@ -4175,9 +4138,7 @@ willispl.finops.boomi.com
 automation-saas-develop-51.dcp-sandbox.boomi.com
 odugu02.sandbox.boomi.com
 occm-us-west-2-rpawstest1.underdog-sandbox.boomi.com
-occm-westus-napp.sandbox.boomi.com
 ums-automation-16.dcp-sandbox.boomi.com
-internal.azurefb2g.sandbox.boomi.com
 pulpcore3.incredibles-sandbox.boomi.com
 automation-cat-extended-57.dcp-sandbox.boomi.com
 ksrred152.underdog-sandbox.boomi.com
@@ -4208,7 +4169,7 @@ occm-us-east-1-ralphjtest01.sandbox.boomi.com
 apitestplt.apim-pipeline.boomi.com
 dinorhel7.underdog-sandbox.boomi.com
 occm-us-west-2-swatidr92.sandbox.boomi.com
-www.dcpjenkins.datalake-pipeline.boomi.com
+dcpjenkins.datalake-pipeline.boomi.com
 occm-us-east-1-oduguplat1.sandbox.boomi.com
 alon5.dcp-sandbox.boomi.com
 otteytest4.underdog-sandbox.boomi.com
@@ -4254,7 +4215,6 @@ sapland-sandbox.boomi.com
 bharathhiveconfig.dcp-sandbox.boomi.com
 dcp-agents-1.dcp-sandbox.boomi.com
 occm-us-east-1-archcloud4.sandbox.boomi.com
-rpazure3.sandbox.boomi.com
 pii.intelligence.boomi.com
 bonb-sandbox.boomi.com
 paul.nam-sandbox.boomi.com
@@ -4285,16 +4245,14 @@ occm-us-west-2-odugutest.sandbox.boomi.com
 automation-cat-extended-60.dcp-sandbox.boomi.com
 occm-us-east-1-kirp2.incredibles-sandbox.boomi.com
 occm-us-west-2-jwdr2201b.underdog-sandbox.boomi.com
-www.oduguaz01.sandbox.boomi.com
 psrgw1.sandbox.boomi.com
 automation-build-9.dcp-sandbox.boomi.com
 sandbox.incredibles-sandbox.boomi.com
-www.dcp.datalake-pipeline.boomi.com
+dcp.datalake-pipeline.boomi.com
 occm-eastus-cloud-rpazure1.internal.sandbox.boomi.com
 dcp-luis-07-26-22-17-4.dcp-pipeline.boomi.com
 otel.au.taskautomation.boomi.com
 occm-us-east-1-swati61.sandbox.boomi.com
-kpaznfs2.sandbox.boomi.com
 agents2.dcp-sandbox.boomi.com
 occm-us-west-2-bhat49.underdog-sandbox.boomi.com
 occm-us-east-1-devikamolecule.sandbox.boomi.com
@@ -4344,7 +4302,6 @@ ops.boomi.com
 connect.boomi.com
 occm-us-east-1-odugucloud.sandbox.boomi.com
 automation-saas-develop-146.dcp-sandbox.boomi.com
-www.abhiazureqac.sandbox.boomi.com
 c01-aus.integrate-test.boomi.com
 automation-saas-13.dcp-sandbox.boomi.com
 doodlebob.sandbox.boomi.com
@@ -4357,7 +4314,6 @@ occm-us-east-1-dkhubnp1.runtime-sandbox.boomi.com
 java171.sandbox.boomi.com
 occm-us-east-1-kpdnscloud4.sandbox.boomi.com
 occm-us-east-1-ksrred109.underdog-sandbox.boomi.com
-internal.kpaznfs2.sandbox.boomi.com
 occm-us-east-1-apitestplt.sandbox.boomi.com
 occm-us-east-1-prodhubusaeast01.boomi.com
 occm-us-east-1-jw220802.underdog-sandbox.boomi.com
@@ -4383,7 +4339,7 @@ occm-us-west-2-sharonp6.sandbox.boomi.com
 arche.sandbox.boomi.com
 surya2310.incredibles-sandbox.boomi.com
 occm-us-west-2-motuscloud1.hub-sandbox.boomi.com
-www.azr8cvo.sandbox.boomi.com
+azr8cvo.sandbox.boomi.com
 occm-us-west-2-abhitest1.sandbox.boomi.com
 eon-dev.boomi.com
 eosislog-platformservices.sandbox.boomi.com
@@ -4404,7 +4360,6 @@ ondemand.brian2.platform.boomi.com
 iantest1.sandbox.boomi.com
 graviteegw.sandbox.boomi.com
 occm-us-east-1-newdev2g.sandbox.boomi.com
-www.kpdnscloud5.boomi.com
 hubsandboxcloud.sandbox.boomi.com
 occm-us-east-1-jps11.sandbox.boomi.com
 manage-ctdmvpc2.sandbox.boomi.com
@@ -4450,7 +4405,6 @@ occm-us-east-1-jw220928.underdog-sandbox.boomi.com
 orchestrator-luis031.dcp-sandbox.boomi.com
 scratch.react-disc.cj-sandbox.boomi.com
 jps9.sandbox.boomi.com
-www.test.datalake-pipeline.boomi.com
 glkragle.sandbox.boomi.com
 router-rcdcp.dcp-sandbox.boomi.com
 occm-us-east-1-sank11.incredibles-sandbox.boomi.com
@@ -4479,7 +4433,7 @@ automation-feature-44.dcp-sandbox.boomi.com
 occm-us-east-1-runtimeperfmolecule1.sandbox.boomi.com
 automation-feature-28.dcp-sandbox.boomi.com
 occm-us-east-1-mscplat.underdog-sandbox.boomi.com
-www.azure30g.sandbox.boomi.com
+azure30g.sandbox.boomi.com
 occm-us-east-1-jwelshp50.sandbox.boomi.com
 devikadl2.sandbox.boomi.com
 occm-us-east-1-ksrred140.underdog-sandbox.boomi.com
@@ -4490,7 +4444,6 @@ dcp-bharathmaryada-25-13-04-2.dcp-sandbox.boomi.com
 occm-us-east-1-otteytest1.sandbox.boomi.com
 manage-kimvpc4.sandbox.boomi.com
 dcp-suchitra-01-14-37-1.dcp-sandbox.boomi.com
-internal-oduguaz01.sandbox.boomi.com
 occm-us-west-2-jwelshh23a.underdog-sandbox.boomi.com
 graphql-scratch.space-service.cj-sandbox.boomi.com
 occm-us-east-1-anuragtst.sandbox.boomi.com
@@ -4535,9 +4488,7 @@ manage-eabmvpc.sandbox.boomi.com
 occm-us-west-2-thishub.pipeline.boomi.com
 router.dcp-sandbox.boomi.com
 dcp-alon-08-03-11-06-1.dcp-sandbox.boomi.com
-www.occm-eastus-dkazurenp2.sandbox.boomi.com
 occm-us-east-1-var2g.sandbox.boomi.com
-internal.azureold.sandbox.boomi.com
 automation-build-4.dcp-sandbox.boomi.com
 occm-us-east-1-paypal10nbm.sandbox.boomi.com
 gb.test.automate.boomi.com
@@ -4557,14 +4508,12 @@ router-no-email.dcp-sandbox.boomi.com
 raj-orch-7.dcp-sandbox.boomi.com
 swatitest2.sandbox.boomi.com
 spaceboy.engp-sandbox.boomi.com
-www.sravazdr1.sandbox.boomi.com
 au.flow-prod.boomi.com
 akgwtest1.runtime-sandbox.boomi.com
 mnellurihubcloud.sandbox.boomi.com
 dcp-alon-14-11-38-2.dcp-sandbox.boomi.com
 dcp-suchitra-08-04-12-26-7.dcp-sandbox.boomi.com
 occm-us-east-1-gltest.sandbox.boomi.com
-www.sharonazure1.sandbox.boomi.com
 occm-us-east-1-kpbiggietest.sandbox.boomi.com
 chris-17.dcp-sandbox.boomi.com
 occm-us-east-1-jwelshh23a.underdog-sandbox.boomi.com
@@ -4706,7 +4655,7 @@ internal.testgateway.boomi.com
 occm-us-east-1-pc4sbox.underdog-sandbox.boomi.com
 dcp-bharathmaryada-16-14-41-2.dcp-sandbox.boomi.com
 occm-us-east-1-bhat02.underdog-sandbox.boomi.com
-www.oduguaz3.sandbox.boomi.com
+oduguaz3.sandbox.boomi.com
 occm-us-east-1-ksrredcld16.runtime-sandbox.boomi.com
 ksrred128.underdog-sandbox.boomi.com
 odugu07.sandbox.boomi.com
@@ -4761,7 +4710,7 @@ occm-us-east-1-soniccloud4.sandbox.boomi.com
 occm-us-west-1-kppeer2.pipeline.boomi.com
 backend.nr-test.incredibles-sandbox.boomi.com
 occm-ap-southeast-4-boomiprodanz.boomi.com
-www.azr7anf.sandbox.boomi.com
+azr7anf.sandbox.boomi.com
 occm-us-west-2-srtest-dr.sandbox.boomi.com
 occm-us-east-1-psrllhorizontal2.sandbox.boomi.com
 swatidr11.sandbox.boomi.com
@@ -4801,7 +4750,7 @@ pc4.prodclone.boomi.com
 otel-collector.flow-dev.boomi.com
 occm-us-east-1-amars21.underdog-sandbox.boomi.com
 services.rlat.dev.taskautomation.boomi.com
-www.dcptest.datalake-pipeline.boomi.com
+dcptest.datalake-pipeline.boomi.com
 dcp-76.dcp-pipeline.boomi.com
 dcp-alon-1.dcp-sandbox.boomi.com
 dcp-luis-09-10-19-46-1.dcp-sandbox.boomi.com
@@ -4840,10 +4789,9 @@ occm-us-east-1-upawsnet.runtime-sandbox.boomi.com
 dennis2.sandbox.boomi.com
 cis-eric.sandbox.boomi.com
 occm-us-east-1-ralphjtest.sandbox.boomi.com
-kpazurefips.sandbox.boomi.com
 ksrred121.underdog-sandbox.boomi.com
 automation-feature-50.dcp-sandbox.boomi.com
-www.arpithaazure.sandbox.boomi.com
+arpithaazure.sandbox.boomi.com
 occm-us-east-1-pulpmdmcl.sandbox.boomi.com
 occm-us-east-1-kpmdm567.sandbox.boomi.com
 bltestplat.sandbox.boomi.com
@@ -4858,7 +4806,6 @@ es-sandbox.boomi.com
 rahul-psr.sandbox.boomi.com
 automation-saas-catalog-9.dcp-sandbox.boomi.com
 runtimeprfbm3nm.sandbox.boomi.com
-www.kltest1.sandbox.boomi.com
 occm-us-west-2-jwelshp50.sandbox.boomi.com
 occm-us-east-2-otteytest1.sandbox.boomi.com
 occm-us-east-1-pulpqa2.sandbox.boomi.com
@@ -4879,7 +4826,6 @@ dcp-darshan-19-11-50-4.dcp-sandbox.boomi.com
 occm-us-west-2-dino25.underdog-sandbox.boomi.com
 drflow-assets.flow-dev.boomi.com
 orchestrator-6-28.dcp-sandbox.boomi.com
-www.occm-eastus-sk1.sandbox.boomi.com
 manage-badaztest.sandbox.boomi.com
 plat1.incredibles-sandbox.boomi.com
 dcp-54.dcp-pipeline.boomi.com
@@ -4896,7 +4842,6 @@ automation-saas-dev-5.dcp-sandbox.boomi.com
 occm-us-east-1-raghu01.sandbox.boomi.com
 occm-us-east-1-srkplat5.underdog-sandbox.boomi.com
 occm-us-west-2-odugu002.underdog-sandbox.boomi.com
-www.boomi.com
 exosphere.sandbox.boomi.com
 internal.archaz2.sandbox.boomi.com
 occm-us-east-1-sra7.engp-sandbox.boomi.com
@@ -4914,7 +4859,6 @@ automation-saas-cat-7.dcp-sandbox.boomi.com
 raj-orch-10.dcp-sandbox.boomi.com
 dbslave01.ord.boomi.com
 ksrred66.underdog-sandbox.boomi.com
-www.odugudevazure.sandbox.boomi.com
 occm-us-east-1-iloveaws3.sandbox.boomi.com
 occm-us-east-1-ctdsizebase.sandbox.boomi.com
 occm-ap-southeast-2-prodhubauslocal01.boomi.com
@@ -5039,10 +4983,8 @@ ca.flow-prod.boomi.com
 dcp-alon-16-16-35-1.dcp-sandbox.boomi.com
 occm-us-east-1-cisfix.underdog-sandbox.boomi.com
 occm-us-east-1-msctnet.underdog-sandbox.boomi.com
-www.internal.sravazdr1.sandbox.boomi.com
 occm-us-east-1-ksrred41.underdog-sandbox.boomi.com
 netappsri.underdog-sandbox.boomi.com
-community.boomi.com
 au-assets.flow-dev.boomi.com
 exchange.boomi.com
 dcp-bharathmaryada-20-17-03-2.dcp-sandbox.boomi.com
@@ -5148,7 +5090,6 @@ amars14.underdog-sandbox.boomi.com
 chandrasekar-411-release.dcp-sandbox.boomi.com
 mnplat1.incredibles-sandbox.boomi.com
 bharathconnectretry.dcp-sandbox.boomi.com
-www.internal.sravaz2.sandbox.boomi.com
 gb.flow.boomi.com
 perfplat01.sandbox.boomi.com
 occm-us-east-1-ksrred23.sandbox.boomi.com
@@ -5187,7 +5128,6 @@ jhw220107a.underdog-sandbox.boomi.com
 orchestrator-luis018.dcp-sandbox.boomi.com
 amitplat-1.underdog-sandbox.boomi.com
 psrllhorizontal6.sandbox.boomi.com
-internal.sravazdr2.sandbox.boomi.com
 prodclonedeu.eventstreams.boomi.com
 bhat03.underdog-sandbox.boomi.com
 automation-saas-extended-61.dcp-sandbox.boomi.com
@@ -5206,7 +5146,6 @@ hub1.boomi.com
 bharathsparkfix.dcp-sandbox.boomi.com
 mnhubnewcloud.sandbox.boomi.com
 dcp-luis-20-13-11-1.dcp-sandbox.boomi.com
-azurebh.sandbox.boomi.com
 occm-us-west-2-san0524.incredibles-sandbox.boomi.com
 orchestrator-luis041.dcp-sandbox.boomi.com
 9iq43fmz2k.boomi.com
@@ -5262,7 +5201,6 @@ occm-us-east-1-ctdplat4.sandbox.boomi.com
 apsprodclone.appsec-production.boomi.com
 engpdevjen.engp-sandbox.boomi.com
 lakshmipf.sandbox.boomi.com
-www.occm-eastus-mnn10.sandbox.boomi.com
 otel.rl.flow-dev.boomi.com
 app-community.boomi.com
 occm-us-east-1-psrllhorizontal3.sandbox.boomi.com
@@ -5322,10 +5260,9 @@ automation-saas-extended-5.dcp-sandbox.boomi.com
 dcp-chandrasekar-18-07-47-2.dcp-sandbox.boomi.com
 occm-us-west-2-stevens1.sandbox.boomi.com
 occm-us-east-1-dbhub1.underdog-sandbox.boomi.com
-www.internal-oduguaz3.sandbox.boomi.com
+internal-oduguaz3.sandbox.boomi.com
 chandrasekar-dev.dcp-sandbox.boomi.com
 jw221107.underdog-sandbox.boomi.com
-www.occm-eastus-rpazure1.sandbox.boomi.com
 occm-us-east-1-jwelshp4.sandbox.boomi.com
 manage-jps.sandbox.boomi.com
 keycloak.flow-dev.boomi.com
@@ -5393,7 +5330,6 @@ dcp-bharathmaryada-21-11-59-3.dcp-sandbox.boomi.com
 dcp-luis-29-10-45-4.dcp-sandbox.boomi.com
 dr.dev.automate.boomi.com
 orchestrator-class1.dcp-sandbox.boomi.com
-boomiqaaz.sandbox.boomi.com
 dcp-bharathmaryada-25-13-04-1.dcp-sandbox.boomi.com
 occm-us-west-2-archcloud1.sandbox.boomi.com
 rpawstest2.sandbox.boomi.com
@@ -5426,14 +5362,12 @@ occm-us-east-1-swatiplat4.sandbox.boomi.com
 au.automate.boomi.com
 automation-saas-catalog-19.dcp-sandbox.boomi.com
 occm-us-west-2-kpmdmdrfinal.sandbox.boomi.com
-www.stevensazure.sandbox.boomi.com
 jw220301a.underdog-sandbox.boomi.com
 pete-platformservices.sandbox.boomi.com
 occm-us-east-1-swati55dr.sandbox.boomi.com
 sravgwtest1.sandbox.boomi.com
-sravaz2.sandbox.boomi.com
 orchestrator-finrc.dcp-sandbox.boomi.com
-www.internal.azure453.sandbox.boomi.com
+internal.azure453.sandbox.boomi.com
 occm-us-east-1-kalamazoo364.sandbox.boomi.com
 dcp-75.dcp-pipeline.boomi.com
 kalamazoo.sandbox.boomi.com
@@ -5472,7 +5406,6 @@ scratchtest.discover.cj-sandbox.boomi.com
 occm-us-east-1-sravmdm57.sandbox.boomi.com
 occm-us-east-1-drhub.underdog-sandbox.boomi.com
 anavrel.sandbox.boomi.com
-www.internal.azfipstrue.sandbox.boomi.com
 dino20.underdog-sandbox.boomi.com
 admin-partner-portal.cj-sandbox.boomi.com
 dcp-luis-06-24-18-22-39.dcp-sandbox.boomi.com
@@ -5523,7 +5456,6 @@ occm-us-west-2-plattest2.sandbox.boomi.com
 manage-sharonvpc.sandbox.boomi.com
 connplat.connector-sandbox.boomi.com
 dcp-chandrasekar-12-04-59-1.dcp-sandbox.boomi.com
-www.ssazurecloud.sandbox.boomi.com
 occm-us-east-1-kpplat12.sandbox.boomi.com
 dcp-suchitra-19-17-30-24.dcp-sandbox.boomi.com
 occm-us-east-1-dino02.underdog-sandbox.boomi.com
@@ -5533,7 +5465,6 @@ rlfed-assets.flow-dev.boomi.com
 occm-us-east-1-stopjenkins.sandbox.boomi.com
 manage-taipipeline.boomi.com
 otteyplat2.pipeline.boomi.com
-www.internal.arpithaazure.sandbox.boomi.com
 automation-cat-extended-40.dcp-sandbox.boomi.com
 occm-us-east-1-mscnet.underdog-sandbox.boomi.com
 psrgw2.sandbox.boomi.com
@@ -5552,7 +5483,7 @@ occm-us-east-1-py3test1.sandbox.boomi.com
 occm-us-east-1-kpbiggiedest.sandbox.boomi.com
 occm-us-east-1-ppt08.sandbox.boomi.com
 web.boomi.com
-www.internal.azuredev.sandbox.boomi.com
+internal.azuredev.sandbox.boomi.com
 automation-25.dcp-sandbox.boomi.com
 dcp-27.dcp-pipeline.boomi.com
 kiranv.underdog-sandbox.boomi.com
@@ -5572,7 +5503,6 @@ occm-us-east-1-andor.runtime-sandbox.boomi.com
 occm-us-east-1-ganesh15.underdog-sandbox.boomi.com
 swati23.sandbox.boomi.com
 automation-24.dcp-sandbox.boomi.com
-kpaznfs1.sandbox.boomi.com
 dino0327.underdog-sandbox.boomi.com
 automation-saas-extended-34.dcp-sandbox.boomi.com
 datalake-sandbox.boomi.com
@@ -5581,8 +5511,6 @@ manage-apijenkins.sandbox.boomi.com
 psrchaos.sandbox.boomi.com
 darshan-nikhithag.dcp-sandbox.boomi.com
 occm-us-east-1-cisphas2.underdog-sandbox.boomi.com
-azuresrav.sandbox.boomi.com
-rpazure2.sandbox.boomi.com
 scdev1.sandbox.boomi.com
 starlord.sandbox.boomi.com
 occm-us-east-1-kpnfs1.sandbox.boomi.com
@@ -5621,8 +5549,6 @@ occm-us-east-1-stplatsr.underdog-sandbox.boomi.com
 kashif-2.dcp-sandbox.boomi.com
 ksrred46.underdog-sandbox.boomi.com
 pkishore.sandbox.boomi.com
-occm-westus-s.sandbox.boomi.com
-www.dkazure1.sandbox.boomi.com
 dcp-bharathmaryada-05-15-53-15.dcp-sandbox.boomi.com
 occm-us-east-1-ksrred72.underdog-sandbox.boomi.com
 ddplatpoc.sandbox.boomi.com
@@ -5635,7 +5561,6 @@ ssmvpc1.sandbox.boomi.com
 proxy.dev.flow.boomi.com
 occm-us-east-1-pulpplat4.sandbox.boomi.com
 manage-karishma2.sandbox.boomi.com
-www.blogs.boomi.com
 dcp-luis-14-16-22-1.dcp-sandbox.boomi.com
 occm-us-east-1-graviteemixed.sandbox.boomi.com
 dcp-12.dcp-pipeline.boomi.com
@@ -5692,7 +5617,7 @@ occm-us-east-1-testpulp1.runtime-sandbox.boomi.com
 rel-rd-platformservices.services-pipeline.boomi.com
 apim20molecule.sandbox.boomi.com
 apiperfgwf.sandbox.boomi.com
-www.internal.abhiazureqac.sandbox.boomi.com
+internal.abhiazureqac.sandbox.boomi.com
 priyalpip3.sandbox.boomi.com
 occm-us-east-1-khousec4.runtime-sandbox.boomi.com
 naresh2.discover.cj-sandbox.boomi.com
@@ -5750,7 +5675,6 @@ occm-us-east-1-bharathpla.underdog-sandbox.boomi.com
 occm-us-east-1-popeye.cj-sandbox.boomi.com
 dcp-cpedrotti-18-16-42-1.dcp-sandbox.boomi.com
 occm-us-east-1-mscincred2.incredibles-sandbox.boomi.com
-internal.arpithaaz2.sandbox.boomi.com
 sc.manage-prod.boomi.com
 platdbt3s.sandbox.boomi.com
 occm-us-east-1-justinplat.sandbox.boomi.com
@@ -5773,7 +5697,6 @@ occm-us-east-1-mirage6.atomsphere-sandbox.boomi.com
 occm-us-east-1-integr8cloud.sandbox.boomi.com
 automation-saas-develop-187.dcp-sandbox.boomi.com
 automation-saas-extended-13.dcp-sandbox.boomi.com
-azr7anf.sandbox.boomi.com
 dcp-52.dcp-pipeline.boomi.com
 gov.flow-fed.boomi.com
 dcp-suchitra-01-14-37-4.dcp-sandbox.boomi.com
@@ -5808,7 +5731,6 @@ manage-karishma5.sandbox.boomi.com
 apimteam1.apim-pipeline.boomi.com
 dcp-38.dcp-pipeline.boomi.com
 dcp-suchitra-08-20-58-2.dcp-sandbox.boomi.com
-internal.devazure2g.sandbox.boomi.com
 occm-us-west-2-stawscvo.underdog-sandbox.boomi.com
 automation-saas-develop-29.dcp-sandbox.boomi.com
 occm-us-east-1-ksrred24.sandbox.boomi.com
@@ -5833,7 +5755,6 @@ prod-platformservices.services-prod.boomi.com
 dcp-suchitra-27-17-09-3.dcp-sandbox.boomi.com
 occm-us-east-1-baiqa1.sandbox.boomi.com
 occm-us-west-2-oduguhub1.underdog-sandbox.boomi.com
-www.oduguazure.sandbox.boomi.com
 ksrred64.underdog-sandbox.boomi.com
 dcp-luis-09-20-16-1.dcp-sandbox.boomi.com
 qa.boomi.com
@@ -5854,7 +5775,6 @@ bhat04.underdog-sandbox.boomi.com
 automation-saas-develop-90.dcp-sandbox.boomi.com
 dcp-suchitra-07-17-13-1.dcp-sandbox.boomi.com
 graphql-prodclone4.space-service.cj-preprod.boomi.com
-www.internal.archaz2.sandbox.boomi.com
 occm-us-east-1-anavtest.sandbox.boomi.com
 occm-us-east-1-quickster.sandbox.boomi.com
 dcp-bharathmaryada-25-13-04-9.dcp-sandbox.boomi.com
@@ -5981,8 +5901,7 @@ anuj2305.incredibles-sandbox.boomi.com
 dino05.sandbox.boomi.com
 mscsree.discover.cj-sandbox.boomi.com
 automation-saas-develop-133.dcp-sandbox.boomi.com
-www.intelligence.datalake-pipeline.boomi.com
-www.dcp-prakhar-qa.sandbox.boomi.com
+intelligence.datalake-pipeline.boomi.com
 dino08.underdog-sandbox.boomi.com
 automation-custom-1.dcp-sandbox.boomi.com
 dcp-21.dcp-pipeline.boomi.com
@@ -5999,7 +5918,6 @@ manage-mike12.sandbox.boomi.com
 occm-us-east-1-bhat33.underdog-sandbox.boomi.com
 jpstest1.sandbox.boomi.com
 occm-us-east-1-stplat18fsx.underdog-sandbox.boomi.com
-www.sravazdr2.sandbox.boomi.com
 occm-us-west-2-oduguplat5.underdog-sandbox.boomi.com
 automation-saas-ext-14.dcp-sandbox.boomi.com
 engptitqa.engp-sandbox.boomi.com
@@ -6048,7 +5966,7 @@ occm-us-east-1-kpdnscloud2.sandbox.boomi.com
 occm-us-east-1-ksrredcld7.runtime-sandbox.boomi.com
 occm-us-east-1-psr2336molec.sandbox.boomi.com
 odugu05.sandbox.boomi.com
-www.snp1.sandbox.boomi.com
+snp1.sandbox.boomi.com
 manage-apim.sandbox.boomi.com
 pulp3.incredibles-sandbox.boomi.com
 automation-saas-develop-137.dcp-sandbox.boomi.com
@@ -6061,7 +5979,7 @@ occm-us-east-1-ksrred99.underdog-sandbox.boomi.com
 psrstack.sandbox.boomi.com
 occm-us-east-1-splunktest.sandbox.boomi.com
 occm-us-east-1-prodtestlegusaeast.boomi.com
-www.internal.azure30g.sandbox.boomi.com
+internal.azure30g.sandbox.boomi.com
 pattycakes.sandbox.boomi.com
 dcp-agents-13.dcp-sandbox.boomi.com
 dcp-bharathmaryada-05-14-58-3.dcp-sandbox.boomi.com
@@ -6096,7 +6014,6 @@ ppt03.incredibles-sandbox.boomi.com
 automation-cat-extended-10.dcp-sandbox.boomi.com
 b2bplat2.sandbox.boomi.com
 automation-feature-9.dcp-sandbox.boomi.com
-azurecert.pipeline.boomi.com
 dcp-bharathmaryada-05-15-53-10.dcp-sandbox.boomi.com
 dcp-suchitra-26-20-36-8.dcp-sandbox.boomi.com
 occm-us-east-1-ksrred148.underdog-sandbox.boomi.com
@@ -6120,8 +6037,6 @@ occm-us-east-1-dennis3.sandbox.boomi.com
 albga.incredibles-sandbox.boomi.com
 sharont3.sandbox.boomi.com
 occm-us-east-1-rdscloud.sandbox.boomi.com
-www.occm-westus-mn35.sandbox.boomi.com
-www.internal-swatiazure.sandbox.boomi.com
 apiprfplat.sandbox.boomi.com
 esplattest.sandbox.boomi.com
 occm-us-east-1-dino38.underdog-sandbox.boomi.com
@@ -6161,7 +6076,6 @@ ddpoc-platformservices.sandbox.boomi.com
 dcp-chandrasekar-09-07-29-1.dcp-sandbox.boomi.com
 priyapip11.sandbox.boomi.com
 occm-us-east-1-timbuktu02.sandbox.boomi.com
-internal.kpazurefips.sandbox.boomi.com
 ksrred55.sandbox.boomi.com
 muralipf.engp-sandbox.boomi.com
 ppt-may.incredibles-sandbox.boomi.com
@@ -6191,8 +6105,7 @@ sreeplat22.underdog-sandbox.boomi.com
 rc-dev-15.dcp-sandbox.boomi.com
 suchitra-newhire-test.dcp-sandbox.boomi.com
 occm-us-west-2-doodlebob.sandbox.boomi.com
-www.help.boomi.com
-dcptest.datalake-pipeline.boomi.com
+help.boomi.com
 occm-us-east-1-khurikplat.sandbox.boomi.com
 frank.nam-sandbox.boomi.com
 occm-us-west-2-challanp1.runtime-sandbox.boomi.com
@@ -6205,7 +6118,6 @@ occm-us-east-1-ctdsizetest2.sandbox.boomi.com
 ksrred120.underdog-sandbox.boomi.com
 manage-khousevpc2.underdog-sandbox.boomi.com
 orchestrator-luis02.dcp-sandbox.boomi.com
-www.swatiazure.sandbox.boomi.com
 otel.au.flow-prod.boomi.com
 hubplat3.sandbox.boomi.com
 ji3nbroker.sandbox.boomi.com
@@ -6238,7 +6150,6 @@ occm-us-east-1-ganesh13.underdog-sandbox.boomi.com
 manage-manovpc2.engp-sandbox.boomi.com
 dcp-suchitra-08-06-17-12-2.dcp-sandbox.boomi.com
 graphql-catalog.boomi.com
-www.login-staging.boomi.com
 automation-saas-extended-37.dcp-sandbox.boomi.com
 occm-us-west-2-doodlebob.engp-sandbox.boomi.com
 occm-us-west-2-pptdrcloud.underdog-sandbox.boomi.com
@@ -6261,7 +6172,7 @@ swag.boomi.com
 occm-us-east-1-titans.sandbox.boomi.com
 otel.ca.taskautomation.boomi.com
 occm-us-west-2-sandplat.sandbox.boomi.com
-www.kace.boomi.com
+kace.boomi.com
 occm-us-east-1-psrchaos.underdog-sandbox.boomi.com
 sizetes3.sandbox.boomi.com
 occm-us-east-1-kimh2.sandbox.boomi.com
@@ -6270,7 +6181,6 @@ dcp-cpedrotti-16-10-27-5.dcp-sandbox.boomi.com
 jw221027.underdog-sandbox.boomi.com
 odugumvpc7.sandbox.boomi.com
 occm-us-east-1-jwelshhub.underdog-sandbox.boomi.com
-newazure453.sandbox.boomi.com
 dino37.underdog-sandbox.boomi.com
 occm-us-east-1-rajrds.underdog-sandbox.boomi.com
 occm-us-east-1-ynrds.incredibles-sandbox.boomi.com
@@ -6295,7 +6205,6 @@ occm-us-east-1-bhat51.underdog-sandbox.boomi.com
 occm-us-east-1-shazcloud4.sandbox.boomi.com
 automation-saas-develop-136.dcp-sandbox.boomi.com
 dcp-cpedrotti-07-17-49-1.dcp-sandbox.boomi.com
-internal.archaz1.sandbox.boomi.com
 occm-us-west-2-archekscloud.runtime-sandbox.boomi.com
 automation-cat-extended-61.dcp-sandbox.boomi.com
 automation-feature-19.dcp-sandbox.boomi.com
@@ -6373,7 +6282,6 @@ psrmmm.sandbox.boomi.com
 swati200.sandbox.boomi.com
 bhat36.underdog-sandbox.boomi.com
 dino21.underdog-sandbox.boomi.com
-archaz2.sandbox.boomi.com
 dcp-cpedrotti-07-22-16-23-1.dcp-sandbox.boomi.com
 occm-us-west-2-vbcloud1.underdog-sandbox.boomi.com
 occm-us-east-1-bazookajoe.sandbox.boomi.com
@@ -6410,9 +6318,8 @@ occm-us-west-2-willistest01.finops.boomi.com
 vpctest.sandbox.boomi.com
 gb-assets.flow-test.boomi.com
 occm-us-east-1-sreeplat22.underdog-sandbox.boomi.com
-www.internal-odugudevazure.sandbox.boomi.com
+internal-odugudevazure.sandbox.boomi.com
 occm-us-east-1-bunnyhop.sandbox.boomi.com
-www.azurefb2g.sandbox.boomi.com
 stevens4.sandbox.boomi.com
 occm-us-west-2-swati7dr.sandbox.boomi.com
 b2bplat3.sandbox.boomi.com
@@ -6429,7 +6336,6 @@ automation-cat-extended-98.dcp-sandbox.boomi.com
 otel.us.flow-test.boomi.com
 dcp-alon-08-16-53-2.dcp-sandbox.boomi.com
 occm-us-west-2-gttopy3.incredibles-sandbox.boomi.com
-arpithaazure.sandbox.boomi.com
 automation-saas-extended-4.dcp-sandbox.boomi.com
 gw4napim4.sandbox.boomi.com
 occm-us-east-1-kimmdm3.sandbox.boomi.com
@@ -6450,7 +6356,6 @@ ellentest.sandbox.boomi.com
 occm-us-west-2-kraglerock.sandbox.boomi.com
 devika-platformservices.sandbox.boomi.com
 occm-us-east-1-psrllhorizontal1.sandbox.boomi.com
-www.occm-eastus-azpy3.sandbox.boomi.com
 sonarqube.manage-karishma5.pipeline.boomi.com
 occm-us-east-1-mnawsnp1.runtime-sandbox.boomi.com
 occm-us-east-1-mnhubcloud.sandbox.boomi.com
@@ -6489,7 +6394,7 @@ occm-us-east-1-scratch.pipeline.boomi.com
 occm-us-east-1-denniscloud2.sandbox.boomi.com
 raudu-orc-4.dcp-sandbox.boomi.com
 occm-us-east-1-kirnet.incredibles-sandbox.boomi.com
-www.itapps.bonb-sandbox.boomi.com
+itapps.bonb-sandbox.boomi.com
 ganesh14.underdog-sandbox.boomi.com
 dcp-alon-08-03-11-06-2.dcp-sandbox.boomi.com
 e2e.dcp-sandbox.boomi.com
@@ -6526,12 +6431,10 @@ discover1.cj-sandbox.boomi.com
 orchestrator-nr2.dcp-sandbox.boomi.com
 jwelshp3.underdog-sandbox.boomi.com
 nrplatform.sandbox.boomi.com
-dcp-luis.sandbox.boomi.com
 occm-us-east-1-kpbiggietest3.sandbox.boomi.com
 ums-automation-13.dcp-sandbox.boomi.com
 naeast1.connect.boomi.com
 occm-us-east-1-hubcloudresize.sandbox.boomi.com
-archaz1.sandbox.boomi.com
 occm-us-east-1-ksrred64.underdog-sandbox.boomi.com
 orch-emr.dcp-sandbox.boomi.com
 suchitra1.dcp-sandbox.boomi.com
@@ -6557,7 +6460,7 @@ akgwtest9.runtime-sandbox.boomi.com
 occm-us-east-1-dino04.underdog-sandbox.boomi.com
 swati68.sandbox.boomi.com
 occm-us-east-1-christest8.sandbox.boomi.com
-www.sravaz1.sandbox.boomi.com
+sravaz1.sandbox.boomi.com
 devikadr4.sandbox.boomi.com
 prodcloudgw.boomi.com
 ksrred138.underdog-sandbox.boomi.com
@@ -6616,7 +6519,6 @@ occm-us-east-1-paypalbenchmarkcloud.sandbox.boomi.com
 dcp-bharathmaryada-02-19-39-3.dcp-sandbox.boomi.com
 lonadmin.lon.boomi.com
 occm-us-east-1-ksrred123.underdog-sandbox.boomi.com
-occm-eastus-mnn11.sandbox.boomi.com
 occm-us-east-1-ganesh10.underdog-sandbox.boomi.com
 occm-us-east-1-pulpmdm56.sandbox.boomi.com
 murali-platformservices.pipeline.boomi.com
@@ -6653,7 +6555,6 @@ dcp-bharathmaryada-25-13-04-7.dcp-sandbox.boomi.com
 psrrahul.sandbox.boomi.com
 dcp-bharathmaryada-05-15-53-19.dcp-sandbox.boomi.com
 occm-us-west-2-jwelshhub.underdog-sandbox.boomi.com
-itapps.bonb-sandbox.boomi.com
 occm-us-east-1-kimpulp1.sandbox.boomi.com
 automation-cat-extended-48.dcp-sandbox.boomi.com
 automation-saas-develop-102.dcp-sandbox.boomi.com
@@ -6685,7 +6586,6 @@ qatestpreprod.sandbox.boomi.com
 dcp-luis-06-10-23-2.dcp-sandbox.boomi.com
 occm-us-east-1-drhubtestcloud.underdog-sandbox.boomi.com
 occm-us-east-1-motusplat1.hub-sandbox.boomi.com
-azure453.sandbox.boomi.com
 dcp-alon-10.dcp-pipeline.boomi.com
 dcp-suchitra-18-20-05-5.dcp-sandbox.boomi.com
 kishorep9595.sandbox.boomi.com
@@ -6700,7 +6600,6 @@ dcp-bharathmaryada-06-22-48-6.dcp-sandbox.boomi.com
 dcp-nhorn-11-16-03-8.dcp-sandbox.boomi.com
 occm-us-east-1-ppt-netapp.incredibles-sandbox.boomi.com
 arv108.sandbox.boomi.com
-www.occm-eastus-snp1.sandbox.boomi.com
 orchestrator-rc-relic.dcp-sandbox.boomi.com
 dino04.underdog-sandbox.boomi.com
 occm-us-east-1-timhairyhamburger.sandbox.boomi.com
@@ -6811,14 +6710,12 @@ ki-plat0.incredibles-sandbox.boomi.com
 us-assets.flow-prod.boomi.com
 pulpqa1.sandbox.boomi.com
 sai007.incredibles-sandbox.boomi.com
-www.otteytest3.sandbox.boomi.com
 occm-us-west-2-oduguplat5.sandbox.boomi.com
 automation-saas-develop-194.dcp-sandbox.boomi.com
 occm-us-east-1-dino002.underdog-sandbox.boomi.com
 orchestratortestone.dcp-sandbox.boomi.com
 eumdm.boomi.com
 occm-us-west-2-nrplatform.sandbox.boomi.com
-www.dcp-intel-prod.intelligence.boomi.com
 manage-azaz1vpc.engp-sandbox.boomi.com
 azr7cvo.sandbox.boomi.com
 dcp-luis-04-15-11-2.dcp-sandbox.boomi.com
@@ -6860,7 +6757,6 @@ dcp-chandrasekar-25-06-26-13.dcp-sandbox.boomi.com
 ksrred126.underdog-sandbox.boomi.com
 dcp-luis-06-24-18-22-20.dcp-sandbox.boomi.com
 occm-us-east-1-cloudbmi.underdog-sandbox.boomi.com
-www.occm-eastus-mnnp4.sandbox.boomi.com
 occm-us-east-1-bhat44.underdog-sandbox.boomi.com
 pulpplat1.sandbox.boomi.com
 occm-us-east-1-iantest1.sandbox.boomi.com
@@ -6896,7 +6792,6 @@ rpawstest1.runtime-sandbox.boomi.com
 occm-us-east-1-ksrredcld23.runtime-sandbox.boomi.com
 qaclone2.ondemand.boomi.com
 occm-us-east-1-sravmdmtest.sandbox.boomi.com
-intelligence.datalake-pipeline.boomi.com
 occm-us-east-1-jw220912.underdog-sandbox.boomi.com
 miketest5.sandbox.boomi.com
 anz.mdm.boomi.com
@@ -6941,7 +6836,6 @@ us.test.flow.boomi.com
 saiinc2.incredibles-sandbox.boomi.com
 dcp-4.dcp-pipeline.boomi.com
 occm-us-east-1-dino20.underdog-sandbox.boomi.com
-www.devazure.sandbox.boomi.com
 dcp-bharathmaryada-25-13-04-6.dcp-sandbox.boomi.com
 occm-us-east-1-psrgw1.sandbox.boomi.com
 occm-us-west-2-prodintusawest02.boomi.com
@@ -6951,7 +6845,6 @@ production-component-service.integrate-prod.boomi.com
 occm-us-east-1-sharont3.sandbox.boomi.com
 dan3.platform.boomi.com
 mnawsnpalb.sandbox.boomi.com
-www.internal.anavazure.sandbox.boomi.com
 occm-us-east-1-plat.sandbox.boomi.com
 automation-cat-extended-74.dcp-sandbox.boomi.com
 occm-us-east-1-dino03.sandbox.boomi.com
@@ -6972,7 +6865,6 @@ khousep1.underdog-sandbox.boomi.com
 rpgwtest2.sandbox.boomi.com
 connect.preprod.boomi.com
 nareshplt.underdog-sandbox.boomi.com
-oduguaz3.sandbox.boomi.com
 orchupgrade.dcp-sandbox.boomi.com
 federal.flow.boomi.com
 occm-us-west-2-bhat56.underdog-sandbox.boomi.com
@@ -7036,7 +6928,6 @@ dodugu.space-service.cj-sandbox.boomi.com
 occm-us-east-1-drcloud.underdog-sandbox.boomi.com
 occm-us-east-1-feadramp.underdog-sandbox.boomi.com
 occm-us-east-1-odugudr02.sandbox.boomi.com
-www.kimazure1.sandbox.boomi.com
 msctest2.discover.cj-sandbox.boomi.com
 occm-us-east-1-supersonic.sandbox.boomi.com
 apirgcloud.qa.boomi.com
@@ -7050,7 +6941,7 @@ alexmolecule.sandbox.boomi.com
 occm-us-west-2-pptcloud.underdog-sandbox.boomi.com
 dcp-agents-21.dcp-sandbox.boomi.com
 ironman.engp-sandbox.boomi.com
-www.occm-eastus-sn4.sandbox.boomi.com
+occm-eastus-sn4.sandbox.boomi.com
 sparkleponybroker2.sandbox.boomi.com
 occm-us-east-1-ps-1077.sandbox.boomi.com
 graphql-sairam.space-service.cj-sandbox.boomi.com
@@ -7098,7 +6989,6 @@ rdsuni.underdog-sandbox.boomi.com
 occm-us-west-2-kalamazoo01.sandbox.boomi.com
 manage-mrsparkle.sandbox.boomi.com
 occm-us-west-2-oduguhub1.sandbox.boomi.com
-www.internal.az648.sandbox.boomi.com
 dcp-bharathmaryada-07-26-16-41-1.dcp-sandbox.boomi.com
 platform.sandbox.boomi.com
 occm-us-east-1-reverseflash.sandbox.boomi.com
@@ -7135,7 +7025,6 @@ automation-cat-extended-77.dcp-sandbox.boomi.com
 chandrasekar-dev-3.dcp-sandbox.boomi.com
 occm-us-west-2-odugu03.sandbox.boomi.com
 rc-dev-18.dcp-sandbox.boomi.com
-www.internal.ssazurecloud.sandbox.boomi.com
 iamgroot.qa.boomi.com
 jwelsh3.sandbox.boomi.com
 benchmarkaws1.cloud.boomi.com
@@ -7162,7 +7051,6 @@ occm-us-east-1-stevens2.runtime-sandbox.boomi.com
 occm-us-east-1-kpmdmdest1.sandbox.boomi.com
 saitest.space-service.cj-sandbox.boomi.com
 swati210.underdog-sandbox.boomi.com
-stevens2.sandbox.boomi.com
 qa.margaret-pipeline.boomi.com
 occm-us-west-2-sank0124.incredibles-sandbox.boomi.com
 occm-us-east-1-kimtest12.sandbox.boomi.com
@@ -7198,7 +7086,6 @@ automation-feature-29.dcp-sandbox.boomi.com
 occm-us-east-1-psrbm3nc1.sandbox.boomi.com
 occm-us-east-1-qeng.sandbox.boomi.com
 orchestrator-luis009.dcp-sandbox.boomi.com
-www.occm-westus-mnnp1.sandbox.boomi.com
 andromeda.sandbox.boomi.com
 occm-us-east-1-miketest6.sandbox.boomi.com
 uplift4.uitech-sandbox.boomi.com
@@ -7291,7 +7178,6 @@ occm-us-east-1-apimperf2ngw.sandbox.boomi.com
 dcp-bharathmaryada-02-15-49-5.dcp-sandbox.boomi.com
 occm-us-west-2-willisp2.finops-sandbox.boomi.com
 occm-us-west-2-drdevplat.sandbox.boomi.com
-www.internal-azswati.sandbox.boomi.com
 dcp-alon-08-15-13-38-1.dcp-sandbox.boomi.com
 dcp-cpedrotti-09-22-14-54-2.dcp-sandbox.boomi.com
 occm-us-east-1-jw220208a.underdog-sandbox.boomi.com
@@ -7350,7 +7236,6 @@ api.usage.uitech-production.boomi.com
 dcp-alon-07-01-14-11-1.dcp-sandbox.boomi.com
 orchestrator-7-13.dcp-sandbox.boomi.com
 rpawstest2.runtime-sandbox.boomi.com
-www.stevens4.sandbox.boomi.com
 messier.sandbox.boomi.com
 occm-us-east-1-arpithaawssrc.sandbox.boomi.com
 gltest.sandbox.boomi.com
@@ -7358,19 +7243,16 @@ dcp-chandrasekarramamoorthi-05-09-29-2.dcp-sandbox.boomi.com
 drnew.underdog-sandbox.boomi.com
 engptitdev.engp-sandbox.boomi.com
 occm-us-west-2-ganesh17.underdog-sandbox.boomi.com
-internal.azure453.sandbox.boomi.com
 shazgw.sandbox.boomi.com
 vpctest3.sandbox.boomi.com
 automation-cat-extended-49.dcp-sandbox.boomi.com
 dcp-luis-22-18-28-1.dcp-sandbox.boomi.com
 dcp-suchitra-30-22-59-1.dcp-sandbox.boomi.com
-occm-eastus-sn4.sandbox.boomi.com
 training.boomi.com
 api.dingo.sandbox.boomi.com
 boomi-meg-sandbox-12.dcp-sandbox.boomi.com
 apimperf4ngw.sandbox.boomi.com
 occm-us-east-1-jpresplat.sandbox.boomi.com
-internal-rockscooking.sandbox.boomi.com
 dcp-60.dcp-pipeline.boomi.com
 occm-us-east-1-mdmtest.sandbox.boomi.com
 occm-us-east-1-tushar1.incredibles-sandbox.boomi.com
@@ -7449,7 +7331,7 @@ dcp-chandrasekar-19-11-03-1.dcp-sandbox.boomi.com
 occm-us-east-1-sreeplat07.underdog-sandbox.boomi.com
 odugu02.underdog-sandbox.boomi.com
 dev-platformservices.sandbox.boomi.com
-www.briantest1.sandbox.boomi.com
+briantest1.sandbox.boomi.com
 ksrred133.underdog-sandbox.boomi.com
 automation-saas-develop-176.dcp-sandbox.boomi.com
 automation-saas-develop-200.dcp-sandbox.boomi.com
@@ -7463,11 +7345,9 @@ uplift3.uitech-sandbox.boomi.com
 occm-eastus-s.sandbox.boomi.com
 occm-us-east-1-muraliplat.engp-sandbox.boomi.com
 graphql-ynstack.space-service.cj-sandbox.boomi.com
-www.rpazure1.sandbox.boomi.com
 automation-cat-extended-64.dcp-sandbox.boomi.com
 otel.eu.flow-prod.boomi.com
 dantest3.sandbox.boomi.com
-www.intelligence-datalake-pipeline.boomi.com
 automation-cat-extended-59.dcp-sandbox.boomi.com
 truong2.sandbox.boomi.com
 occm-us-east-1-swatidr90.sandbox.boomi.com
@@ -7495,11 +7375,9 @@ automation-cat-extended-29.dcp-sandbox.boomi.com
 occm-us-east-1-testhubcloud.sandbox.boomi.com
 orchestrator-luis-053.dcp-sandbox.boomi.com
 occm-us-east-1-kpdbcommands.sandbox.boomi.com
-www.occm-eastus-cloud-rpazure1.internal.sandbox.boomi.com
 occm-us-east-1-amars20.underdog-sandbox.boomi.com
 ksrred14.sandbox.boomi.com
 occm-eu-central-1-prodtestp1deu01.boomi.com
-www.internal.devazure.sandbox.boomi.com
 automation-saas-develop-158.dcp-sandbox.boomi.com
 dcp-alon-06-23-00-38-7.dcp-sandbox.boomi.com
 manage-stevens1.sandbox.boomi.com
@@ -7515,7 +7393,7 @@ occm-us-east-1-mnhubnewcloud.sandbox.boomi.com
 occm-us-west-2-drtestfa.underdog-sandbox.boomi.com
 scdev.sandbox.boomi.com
 qatest-platformservices.services-pipeline.boomi.com
-www.arpithaaz2.sandbox.boomi.com
+arpithaaz2.sandbox.boomi.com
 ksrred157.underdog-sandbox.boomi.com
 dcp-bharathmaryada-31-16-48-3.dcp-sandbox.boomi.com
 occm-us-east-1-ganesh16.underdog-sandbox.boomi.com
@@ -7527,7 +7405,6 @@ swatitest5.sandbox.boomi.com
 dcp-cpedrotti-07-09-12-07-3.dcp-sandbox.boomi.com
 occm-us-east-1-ksrredcld22.runtime-sandbox.boomi.com
 occm-us-west-2-prodhubusaeast01.boomi.com
-www.occm-eastus-s.sandbox.boomi.com
 automation-custom-20.dcp-sandbox.boomi.com
 dcp-agents-24.dcp-sandbox.boomi.com
 occm-us-east-1-briantest1.runtime-sandbox.boomi.com
@@ -7553,11 +7430,9 @@ rajarams.underdog-sandbox.boomi.com
 manage-qatest.sandbox.boomi.com
 automation-custom-11.dcp-sandbox.boomi.com
 occm-us-east-1-kiran.underdog-sandbox.boomi.com
-snp1.sandbox.boomi.com
 sharonpl5.sandbox.boomi.com
 occm-us-east-1-ksrred81.sandbox.boomi.com
 occm-us-east-1-odugudr01.sandbox.boomi.com
-internal.sharonazure1.sandbox.boomi.com
 occm-us-east-1-ksrred55.sandbox.boomi.com
 orch-inv.dcp-sandbox.boomi.com
 occm-us-east-1-sravmdm.sandbox.boomi.com
@@ -7591,7 +7466,6 @@ psrllhorizontal1.sandbox.boomi.com
 manage-vvpc.engp-sandbox.boomi.com
 bmiplat.underdog-sandbox.boomi.com
 dcp-chandrasekar-29-16-27-1.dcp-sandbox.boomi.com
-www.azr7cvo.sandbox.boomi.com
 alondevelop.dcp-sandbox.boomi.com
 catalog.boomi.com
 occm-us-east-1-coopawstest1.sandbox.boomi.com
@@ -7631,7 +7505,6 @@ occm-us-east-1-psrllhorizontal3new.sandbox.boomi.com
 automation-saas-ext-24.dcp-sandbox.boomi.com
 dcp-darshan-14-17-35-2.dcp-sandbox.boomi.com
 occm-us-west-2-kptest4.sandbox.boomi.com
-occm-eastus-sk2.sandbox.boomi.com
 occm-us-east-1-rpcloud.underdog-sandbox.boomi.com
 occm-us-east-1-sreeplat01.underdog-sandbox.boomi.com
 occm-us-east-1-dino0403.underdog-sandbox.boomi.com
@@ -7717,7 +7590,6 @@ sra3.engp-sandbox.boomi.com
 occm-us-east-1-jw220524.underdog-sandbox.boomi.com
 occm-us-west-2-pc4sbox.underdog-sandbox.boomi.com
 occm-us-west-2-prodintp2usaeast01.boomi.com
-internal-odugudevazure.sandbox.boomi.com
 miketest6.sandbox.boomi.com
 kragle.sandbox.boomi.com
 occm-us-east-1-perfbm3nc1.sandbox.boomi.com
@@ -7726,7 +7598,7 @@ satplat3.sandbox.boomi.com
 ganesh13.underdog-sandbox.boomi.com
 dcp-sre-4.dcp-sandbox.boomi.com
 dcp-suchitra-20-10-08-4.dcp-sandbox.boomi.com
-www.internal.anavazuretest.sandbox.boomi.com
+internal.anavazuretest.sandbox.boomi.com
 occm-us-west-2-kpnetappdest2.sandbox.boomi.com
 occm-ap-northeast-1-prodintjp01.boomi.com
 occm-us-east-1-sreenetapp.underdog-sandbox.boomi.com
@@ -7767,7 +7639,6 @@ occm-us-east-1-shaztstplt.apim-pipeline.boomi.com
 occm-us-east-1-sank05.incredibles-sandbox.boomi.com
 orchestrator-luis22.dcp-sandbox.boomi.com
 drtstplat2.sandbox.boomi.com
-arpithaaz2.sandbox.boomi.com
 automate.flow-dev.boomi.com
 priyalvpc1.sandbox.boomi.com
 apimplat.apim-pipeline.boomi.com
@@ -7777,7 +7648,6 @@ dcp-rc-04-18-11-1.dcp-sandbox.boomi.com
 occm-us-east-1-dino17.underdog-sandbox.boomi.com
 router-favi.dcp-sandbox.boomi.com
 manage-jwelsh3.sandbox.boomi.com
-azureold.sandbox.boomi.com
 raj-orch-12.dcp-sandbox.boomi.com
 sandbox-karpenter-platform.sandbox.boomi.com
 kppeer1.sandbox.boomi.com
@@ -7786,7 +7656,6 @@ orchestrator-luis014.dcp-sandbox.boomi.com
 occm-us-west-2-jwelshh23.underdog-sandbox.boomi.com
 occm-us-east-1-mrbluesky.sandbox.boomi.com
 bhat55.underdog-sandbox.boomi.com
-sravaz1.sandbox.boomi.com
 dcp-bharathmaryada-13-16-23-9.dcp-sandbox.boomi.com
 occm-us-east-1-dodugu.underdog-sandbox.boomi.com
 occm-us-east-1-hubplat.hub-sandbox.boomi.com
@@ -7841,7 +7710,6 @@ tmaiplat1.sandbox.boomi.com
 ppt06.incredibles-sandbox.boomi.com
 karishma2.sandbox.boomi.com
 intuit-vpc.connect.boomi.com
-dcp.datalake-pipeline.boomi.com
 swat92.underdog-sandbox.boomi.com
 ganesh12.underdog-sandbox.boomi.com
 occm-us-east-1-rpawstest1.underdog-sandbox.boomi.com
@@ -7898,14 +7766,12 @@ noa-orchestrator2.dcp-sandbox.boomi.com
 test.es-pipeline.boomi.com
 briantestwest1.sandbox.boomi.com
 ctdplat4.sandbox.boomi.com
-az648.sandbox.boomi.com
 dcp-nhorn-24-15-40-1.dcp-sandbox.boomi.com
 occm-us-west-2-tush12.incredibles-sandbox.boomi.com
 occm-us-east-1-jwelshp20.sandbox.boomi.com
 sreeplat15.underdog-sandbox.boomi.com
 odugutest3.sandbox.boomi.com
 occm-us-east-1-kpmdmnetapp.sandbox.boomi.com
-www.azure2g.sandbox.boomi.com
 occm-us-east-1-budgies.sandbox.boomi.com
 srkplat6.underdog-sandbox.boomi.com
 cisbmi.underdog-sandbox.boomi.com
@@ -7958,7 +7824,6 @@ graphql-mscanv.space-service.cj-sandbox.boomi.com
 dcp-chandrasekar-23-04-19-3.dcp-sandbox.boomi.com
 tgvpc.sandbox.boomi.com
 c02-usa-east.integrate-test.boomi.com
-www.occm-westus-mnnp3.sandbox.boomi.com
 widgetforums.boomi.com
 occm-us-west-2-swati160.sandbox.boomi.com
 automation-saas-develop-157.dcp-sandbox.boomi.com
@@ -7989,19 +7854,15 @@ rl-otel-collector.flow-dev.boomi.com
 ynstack2.space-service.cj-sandbox.boomi.com
 occm-us-west-2-integr8.sandbox.boomi.com
 occm-us-east-1-relamars1.engp-sandbox.boomi.com
-www.internal.newazure2g.sandbox.boomi.com
-internal.anavazuretest.sandbox.boomi.com
 priproxy1.engp-sandbox.boomi.com
 dcp-3.dcp-pipeline.boomi.com
 graphql-sandbox.catalog-service.cj-sandbox.boomi.com
 occm-us-west-2-netapptest.sandbox.boomi.com
 eq2plat.sandbox.boomi.com
-kace.boomi.com
 router.dcp-pipeline.boomi.com
 dcp-bharathmaryada-19-20-05-1.dcp-sandbox.boomi.com
 occm-us-east-1-prodintusaeast03.boomi.com
 occm-us-west-2-prodintp1usaeast01.boomi.com
-www.occm-eastus-srnp2.sandbox.boomi.com
 dcp-chandrasekar-06-03-53-4.dcp-sandbox.boomi.com
 occm-us-east-1-sank08.incredibles-sandbox.boomi.com
 orchestrator-luis021.dcp-sandbox.boomi.com
@@ -8016,7 +7877,6 @@ occm-us-east-1-saimar12.incredibles-sandbox.boomi.com
 occm-us-east-1-jwelshc23a.underdog-sandbox.boomi.com
 occm-us-east-1-testmdm56.sandbox.boomi.com
 occm-us-east-1-prodtestlegusaeast01.boomi.com
-www.internal.newazure453.sandbox.boomi.com
 dcp-luis-01-16-35-2.dcp-sandbox.boomi.com
 dcp-chandrasekar-10-03-42-4.dcp-sandbox.boomi.com
 occm-us-east-1-bhat48.underdog-sandbox.boomi.com
@@ -8048,8 +7908,6 @@ cyllene.sandbox.boomi.com
 occm-us-east-1-kpmdmdrfinal.sandbox.boomi.com
 scdev3.sandbox.boomi.com
 occm-us-east-1-nancyport.sandbox.boomi.com
-azfipstrue.sandbox.boomi.com
-answers.boomi.com
 automation-saas-develop-86.dcp-sandbox.boomi.com
 dcp-nhorn-1.dcp-sandbox.boomi.com
 amar77s2.underdog-sandbox.boomi.com
@@ -8063,8 +7921,6 @@ occm-us-east-1-swati160.sandbox.boomi.com
 occm-us-east-1-swati62.sandbox.boomi.com
 sanvpc.sandbox.boomi.com
 occm-us-east-1-rjackson-test.sandbox.boomi.com
-prodclone.boomi.com
-internal.azuredev.sandbox.boomi.com
 pulp.manage-prod.boomi.com
 dcp-suchitra-08-20-58-16.dcp-sandbox.boomi.com
 jwelshm127.sandbox.boomi.com
@@ -8099,7 +7955,6 @@ occm-us-west-2-jw220208a.underdog-sandbox.boomi.com
 automation-saas-develop-151.dcp-sandbox.boomi.com
 apimperfgw.sandbox.boomi.com
 manage-karishma7.sandbox.boomi.com
-www.dcp-qa.datalake-pipeline.boomi.com
 dcp-alon-16-15-45-1.dcp-sandbox.boomi.com
 feadramp.underdog-sandbox.boomi.com
 dcp-alon-07-13-13-35-1.dcp-sandbox.boomi.com
@@ -8109,7 +7964,6 @@ occm-us-east-1-dennis4.sandbox.boomi.com
 gw4napim1.sandbox.boomi.com
 occm-us-east-1-dino0321.underdog-sandbox.boomi.com
 occm-us-east-1-jw221107.underdog-sandbox.boomi.com
-psrazcvo.sandbox.boomi.com
 occm-us-east-1-uplift2.uitech-sandbox.boomi.com
 occm-us-east-1-kpmdmdb.sandbox.boomi.com
 occm-us-east-1-jw220210a.underdog-sandbox.boomi.com
@@ -8120,7 +7974,6 @@ rjackplat0.sandbox.boomi.com
 portal.incredibles-sandbox.boomi.com
 kimh13.sandbox.boomi.com
 occm-us-east-1-anuragplatcloud.sandbox.boomi.com
-www.psranfp.sandbox.boomi.com
 challagws7.runtime-sandbox.boomi.com
 dcp-luis-25-23-09-2.dcp-sandbox.boomi.com
 dcp-luis-29-16-46-2.dcp-sandbox.boomi.com
@@ -8129,7 +7982,6 @@ occm-us-east-1-kpmdmensurepwd.sandbox.boomi.com
 dcp-bharath-8.dcp-sandbox.boomi.com
 dcp-bharathmaryada-01-11-29-2.dcp-sandbox.boomi.com
 occm-us-east-1-hulk.engp-sandbox.boomi.com
-azure30g.sandbox.boomi.com
 occm-us-east-1-saptestingcloud.sandbox.boomi.com
 dino33.underdog-sandbox.boomi.com
 dcp-alon-07-13-13-35-4.dcp-sandbox.boomi.com
@@ -8228,9 +8080,7 @@ apim20mnbroker.pipeline.boomi.com
 sap.boomi.com
 dcp-chandrasekar-08-23-58-1.dcp-sandbox.boomi.com
 ppt08.sandbox.boomi.com
-login.boomi.com
 cisphase3.underdog-sandbox.boomi.com
-www.dcpjenkins.sandbox.boomi.com
 occm-us-east-1-bhat37.underdog-sandbox.boomi.com
 int9923ayush.sandbox.boomi.com
 demo.uitech-sandbox.boomi.com
@@ -8254,7 +8104,7 @@ occm-us-east-1-kpplat29.engp-sandbox.boomi.com
 manage-qapulp.sandbox.boomi.com
 automation-17.dcp-sandbox.boomi.com
 kpplat29.engp-sandbox.boomi.com
-www.internal-oduguazure.sandbox.boomi.com
+internal-oduguazure.sandbox.boomi.com
 andor.runtime-sandbox.boomi.com
 chris-10.dcp-sandbox.boomi.com
 jw221025.underdog-sandbox.boomi.com
@@ -8270,12 +8120,10 @@ automation-ums-19.dcp-sandbox.boomi.com
 occm-us-west-2-sank05.incredibles-sandbox.boomi.com
 kishore95.sandbox.boomi.com
 chandrasekar-develop-san.dcp-sandbox.boomi.com
-www.az643.sandbox.boomi.com
 dcp-bharathmaryada-05-14-58-2.dcp-sandbox.boomi.com
 dcp-suchitra-08-20-58-15.dcp-sandbox.boomi.com
 dcp-suchitra-08-20-58-3.dcp-sandbox.boomi.com
 occm-us-east-1-vish2.sandbox.boomi.com
-www.psranfu.sandbox.boomi.com
 dcp-suchitra-12-14-23-2.dcp-sandbox.boomi.com
 dcp-suchitra-08-04-12-26-5.dcp-sandbox.boomi.com
 occm-us-east-1-gtpy3.incredibles-sandbox.boomi.com
@@ -8286,14 +8134,12 @@ dcp-chandrasekar-07-02-31-4.dcp-sandbox.boomi.com
 occm-us-east-1-amars10.engp-sandbox.boomi.com
 occm-us-east-1-bhat31.underdog-sandbox.boomi.com
 otel.us.taskautomation.boomi.com
-www.occm-westus-mnnp2.sandbox.boomi.com
 ksrred57.sandbox.boomi.com
 automation-build-2.dcp-sandbox.boomi.com
 drtest.underdog-sandbox.boomi.com
 occm-us-east-1-bhat07.underdog-sandbox.boomi.com
 production.es-prod.boomi.com
 jps11.sandbox.boomi.com
-briantest1.sandbox.boomi.com
 manage-jwelshm1.sandbox.boomi.com
 occm-us-west-2-sharonpl4.sandbox.boomi.com
 portal.prodclone.controlplane.boomi.com
@@ -8328,7 +8174,6 @@ orchestrator-luis11.dcp-sandbox.boomi.com
 graphql-ynstack2.space-service.cj-sandbox.boomi.com
 dcp-bharathmaryada-16-14-41-4.dcp-sandbox.boomi.com
 sanplat1.underdog-sandbox.boomi.com
-dcpjenkins.datalake-pipeline.boomi.com
 alon-emr63.dcp-sandbox.boomi.com
 dcp-chandrasekar-10-03-42-2.dcp-sandbox.boomi.com
 ironman.sandbox.boomi.com
@@ -8349,9 +8194,7 @@ chandrasekar-rel.dcp-sandbox.boomi.com
 dcp-luis-07-07-45-3.dcp-sandbox.boomi.com
 occm-us-east-1-pc4inteast01.preprod.boomi.com
 occm-us-east-1-relmigrk8.engp-sandbox.boomi.com
-www.occm-eastus-archaz1.sandbox.boomi.com
 occm-us-east-1-cooptest2.sandbox.boomi.com
-www.internal.azuredev453.sandbox.boomi.com
 graphql-rajaram.catalog-service.cj-sandbox.boomi.com
 occm-us-east-1-ksrred107.underdog-sandbox.boomi.com
 orchestrator-relic.dcp-sandbox.boomi.com
@@ -8371,11 +8214,10 @@ occm-us-east-1-psr3nc.sandbox.boomi.com
 nsyrylo-platformservices.sandbox.boomi.com
 occm-us-east-1-connplat.connector-sandbox.boomi.com
 occm-us-east-1-integrate.sandbox.boomi.com
-www.briantest2.sandbox.boomi.com
+briantest2.sandbox.boomi.com
 manage-khurikm3.sandbox.boomi.com
 dcp-bharathmaryada-05-15-53-11.dcp-sandbox.boomi.com
 dcp-suchitra-26-20-36-1.dcp-sandbox.boomi.com
-internal-oduguaz3.sandbox.boomi.com
 orchestrator-luis-056.dcp-sandbox.boomi.com
 dodugu.sandbox.boomi.com
 manage-jwelshm2.sandbox.boomi.com
@@ -8413,7 +8255,6 @@ dcp-nhorn-08-22-18-28-9.dcp-sandbox.boomi.com
 dcp-suchitra-26-20-36-2.dcp-sandbox.boomi.com
 test.automate.boomi.com
 occm-us-east-1-prodintusaeast01.boomi.com
-internal-oduguazure.sandbox.boomi.com
 py3test3.incredibles-sandbox.boomi.com
 manage-pulpvpc.sandbox.boomi.com
 test.connect.boomi.com
@@ -8422,13 +8263,11 @@ dcp-alon-07-26-10-33-2.dcp-sandbox.boomi.com
 occm-us-east-1-gw4napim4.sandbox.boomi.com
 occm-us-east-1-rppl040422.underdog-sandbox.boomi.com
 test.underdog-sandbox.boomi.com
-internal.abhiazureqac.sandbox.boomi.com
 amars12.engp-sandbox.boomi.com
 dcp-luis-06-24-18-22-3.dcp-sandbox.boomi.com
 dcp-luis-9.dcp-sandbox.boomi.com
 occm-us-east-1-psr3nmol.sandbox.boomi.com
 occm-us-west-2-archtest1.sandbox.boomi.com
-help.boomi.com
 occm-us-east-1-chrisdplat.sandbox.boomi.com
 apim2ngw.sandbox.boomi.com
 rjackson.engp-sandbox.boomi.com
@@ -8468,8 +8307,6 @@ occm-us-east-1-awsim6629.incredibles-sandbox.boomi.com
 prodclone3-dr-platformservices.services-prod.boomi.com
 occm-us-west-2-ksrred33.underdog-sandbox.boomi.com
 dev-dr1-platformservices.sandbox.boomi.com
-azr8cvo.sandbox.boomi.com
-itapps.bonb-prod.boomi.com
 occm-us-east-1-ksrred105.underdog-sandbox.boomi.com
 orch29.dcp-sandbox.boomi.com
 occm-us-west-1-ctdmdm2.sandbox.boomi.com
@@ -8488,7 +8325,6 @@ graphql-msctest1.space-service.cj-sandbox.boomi.com
 psrprfbm3nm.sandbox.boomi.com
 occm-us-east-1-odugutc2.sandbox.boomi.com
 occm-us-east-1-swati56.sandbox.boomi.com
-internal.azure30g.sandbox.boomi.com
 bhat21.underdog-sandbox.boomi.com
 automation-cat-extended-13.dcp-sandbox.boomi.com
 hetashvi.dcp-sandbox.boomi.com
@@ -8526,12 +8362,9 @@ mscdiscover.discover.cj-sandbox.boomi.com
 occm-us-east-1-dino30.underdog-sandbox.boomi.com
 jwelshm76.sandbox.boomi.com
 automation-saas-extended-64.dcp-sandbox.boomi.com
-www.kalamazoo03.sandbox.boomi.com
 dino15.underdog-sandbox.boomi.com
 dennis7.sandbox.boomi.com
 occm-us-east-1-lakshplat.engp-sandbox.boomi.com
-www.azuretest.pipeline.boomi.com
-internal.sravaz1.sandbox.boomi.com
 automation-um-4.dcp-sandbox.boomi.com
 dcp-chandrasekar-22-07-55-1.dcp-sandbox.boomi.com
 kpplat24.sandbox.boomi.com
@@ -8562,7 +8395,6 @@ jps-balancer.sandbox.boomi.com
 sank05.incredibles-sandbox.boomi.com
 dcp-bharathmaryada-07-26-16-41-2.dcp-sandbox.boomi.com
 dcp-cpedrotti-09-11-22-37-6.dcp-sandbox.boomi.com
-www.outofthisworld.boomi.com
 occm-us-east-1-swatidr92.sandbox.boomi.com
 manage-mikestest.sandbox.boomi.com
 dcp-bharathmaryada-02-12-29-1.dcp-sandbox.boomi.com
@@ -8626,7 +8458,6 @@ occm-us-east-1-jw221020.underdog-sandbox.boomi.com
 new470.sandbox.boomi.com
 occm-us-east-1-swati7dr.sandbox.boomi.com
 occm-us-east-2-dineshcloud2.sandbox.boomi.com
-www.briantestwest1.sandbox.boomi.com
 dino19.underdog-sandbox.boomi.com
 dcp-luis-05-09-39-1.dcp-sandbox.boomi.com
 occm-us-east-1-uplift2.sandbox.boomi.com
@@ -8634,17 +8465,14 @@ rc-gold.dcp-sandbox.boomi.com
 sravalb2.sandbox.boomi.com
 occm-us-west-2-kalamazoo05.sandbox.boomi.com
 automation-saas-feature-1.dcp-sandbox.boomi.com
-www.sharonazure2.sandbox.boomi.com
 occm-us-east-1-ellen.sandbox.boomi.com
 kraglerock.sandbox.boomi.com
 occm-us-east-1-apim20mnbroker.pipeline.boomi.com
 occm-ca-central-1-prodhubca01.boomi.com
 occm-us-east-1-ksrred117.underdog-sandbox.boomi.com
 orch-link.dcp-sandbox.boomi.com
-www.internal.azure2g.sandbox.boomi.com
 automation-cat-extended-63.dcp-sandbox.boomi.com
 dcp-78.dcp-pipeline.boomi.com
-briantest2.sandbox.boomi.com
 occm-us-west-2-ksrred32.underdog-sandbox.boomi.com
 apple.sandbox.boomi.com
 dcp-cpedrotti-07-29-09-53-1.dcp-sandbox.boomi.com
@@ -8667,7 +8495,6 @@ dcp-bharathmaryada-05-15-53-7.dcp-sandbox.boomi.com
 krustykrab.engp-sandbox.boomi.com
 occm-us-east-1-motusdevp.hub-sandbox.boomi.com
 occm-us-west-2-jw221107.underdog-sandbox.boomi.com
-www.arpithaaz4.sandbox.boomi.com
 occm-us-east-1-scqaplat1.sandbox.boomi.com
 kimh10.sandbox.boomi.com
 mscincred1.incredibles-sandbox.boomi.com
@@ -8689,7 +8516,7 @@ dcp-16.dcp-pipeline.boomi.com
 occm-us-east-1-selinuxtest.sandbox.boomi.com
 thisplat.sandbox.boomi.com
 occm-us-east-1-srmdm57.sandbox.boomi.com
-*.ganeshcgw5.underdog-sandbox.boomi.com
+ganeshcgw5.underdog-sandbox.boomi.com
 us.fabric-dev.boomi.com
 us.fabric-test.boomi.com
 ca.fabric-prod.boomi.com
@@ -8844,7 +8671,6 @@ rocketenv.integrate-sandbox.boomi.com
 dcp-111.dcp-pipeline.boomi.com
 vish121.engp-sandbox.boomi.com
 dcp-119.dcp-pipeline.boomi.com
-ganeshcgw5.underdog-sandbox.boomi.com
 karishmadr3.sandbox.boomi.com
 occm-us-west-2-staws24.underdog-sandbox.boomi.com
 prodclone-component-service-cloudfront.integrate-prod.boomi.com
@@ -8944,21 +8770,15 @@ occm-us-east-1-bhat64.underdog-sandbox.boomi.com
 integrate-preprod.boomi.com
 testmdm2.sandbox.boomi.com
 9919-dfwfile1.dfw.boomi.com
-*.intsvc.sandbox.boomi.com
-*.jacocopoc.engp-sandbox.boomi.com
-occm-us-east-1-jacocopoc.engp-sandbox.boomi.com
 jacocopoc.engp-sandbox.boomi.com
-*.tg88.incredibles-sandbox.boomi.com
-occm-us-east-1-tg88.incredibles-sandbox.boomi.com
+occm-us-east-1-jacocopoc.engp-sandbox.boomi.com
 tg88.incredibles-sandbox.boomi.com
-*.manage-baseimage.engp-sandbox.boomi.com
-*.spongegar.engp-sandbox.boomi.com
-*.stplat2175.underdog-sandbox.boomi.com
-occm-us-east-1-stplat2175.underdog-sandbox.boomi.com
+occm-us-east-1-tg88.incredibles-sandbox.boomi.com
+manage-baseimage.engp-sandbox.boomi.com
 stplat2175.underdog-sandbox.boomi.com
-*.shubh001.engp-sandbox.boomi.com
-occm-us-east-1-shubh001.engp-sandbox.boomi.com
+occm-us-east-1-stplat2175.underdog-sandbox.boomi.com
 shubh001.engp-sandbox.boomi.com
+occm-us-east-1-shubh001.engp-sandbox.boomi.com
 gb.dev.workflow.boomi.com
 dev.workflow.boomi.com
 us.dev.workflow.boomi.com
@@ -8969,6 +8789,3 @@ us.test.workflow.boomi.com
 gb.workflow-test.boomi.com
 workflow-test.boomi.com
 occm-us-east-1-stevensaws3.underdog-sandbox.boomi.com
-*.qa.apiida-pipeline.boomi.com
-*.backend.qa.apiida-pipeline.boomi.com
-*.portal.qa.apiida-pipeline.boomi.com

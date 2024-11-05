@@ -26,8 +26,7 @@ airflow.agrevolution.in
 tally.agrevolution.in
 middleware-service.agrevolution.in
 status.agrevolution.in
-www.agrevolution.in
-www.hello.agrevolution.in
+hello.agrevolution.in
 honestfarms.agrevolution.in
 business.app.agrevolution.in
 agrimart.api.agrevolution.in
@@ -54,7 +53,6 @@ elasticapmnew.agrevolution.in
 app.agrevolution.in
 rancher.agrevolution.in
 network.agrevolution.in
-hello.agrevolution.in
 kheti.api.agrevolution.in
 farmer.api.agrevolution.in
 geoserver-public.agrevolution.in

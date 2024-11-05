@@ -7,9 +7,7 @@ status.dexalot.com
 app.dexalot.com
 api.dexalot.com
 vesting.dexalot.com
-www.dexalot.com
 adminbackend.dexalot.com
-*.dexalot.com
 adminbackend2.dexalot.com
 amm.dexalot.com
 api2.dexalot.com
@@ -29,4 +27,3 @@ dcg.dexalot.com
 subnet.dexalot.com
 merkletree.dexalot.com
 404: not foundadminbackend.dexalot.com
-www.app.dexalot.com

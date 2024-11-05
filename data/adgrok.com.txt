@@ -1,6 +1,6 @@
 mx10.adgrok.com
 mailhost.adgrok.com
-www.secure.adgrok.com
+secure.adgrok.com
 beta.adgrok.com
 new.adgrok.com
 srv.adgrok.com
@@ -12,7 +12,6 @@ mail12.adgrok.com
 mail1.adgrok.com
 ms1.adgrok.com
 mx4.adgrok.com
-www.adgrok.com
 ww.adgrok.com
 smtp1.adgrok.com
 mx7.adgrok.com
@@ -22,7 +21,6 @@ server2.adgrok.com
 server.adgrok.com
 server1.adgrok.com
 hermes.adgrok.com
-secure.adgrok.com
 mbox.adgrok.com
 mail.adgrok.com
 webmail.adgrok.com

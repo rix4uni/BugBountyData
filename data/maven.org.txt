@@ -1,5 +1,4 @@
-www.search.maven.org
-www.maven.org
+search.maven.org
 status.maven.org
 uk1.maven.org
 repo.apache.maven.org
@@ -9,7 +8,6 @@ search-aws.maven.org
 staging.repo2.maven.org
 insecure.repo1.maven.org
 staging.repo1.maven.org
-search.maven.org
 httpsrepo1.maven.org
 uk.maven.org
 repo2.maven.org
@@ -18,7 +16,6 @@ us-float.maven.org
 search-uk.maven.org
 central02.maven.org
 search-us.maven.org
-*.maven.org
 backlinks.maven.org
 benning-150-226-69-13.maven.org
 blogs.maven.org

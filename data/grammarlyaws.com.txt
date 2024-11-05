@@ -116,7 +116,7 @@ prod-settings-registry.prod-settings-registry.grammarlyaws.com
 admin.qa-proofit.grammarlyaws.com
 airflow-sandbox.data-warehouse.grammarlyaws.com
 sage-maker-scim-external.qa-redwall.grammarlyaws.com
-www.narnia.it.grammarlyaws.com
+narnia.it.grammarlyaws.com
 prod-hackermango-config.prod-hackermango.grammarlyaws.com
 qa-login-extra.qa-auth.grammarlyaws.com
 qa-speakerly.grammarlyaws.com
@@ -298,7 +298,6 @@ prod-entitlements.subscription.grammarlyaws.com
 prod-mercury.grammarlyaws.com
 qa-instance-refresh.qa-platform.grammarlyaws.com
 airflow.qa-nlp-processing.grammarlyaws.com
-narnia.it.grammarlyaws.com
 preprod-data-plane-blue.preprod-core.grammarlyaws.com
 qa-experiment.data.grammarlyaws.com
 qa-gb-audit-log.grammarlyaws.com

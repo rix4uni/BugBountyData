@@ -1,9 +1,7 @@
 doc.otrs.com
-www.corporate.otrs.com
 corporate.otrs.com
 captain.app.otrs.com
 ldapmanager.app.otrs.com
-www.otrs.com
 registry.app.otrs.com
 pad.app.otrs.com
 dev.otrs.com
@@ -23,4 +21,3 @@ dev-motest2.gsd.otrs.com
 dev-storm-new-features.gsd.otrs.com
 motest4.saas-beta.otrs.com
 dashboard.stg-app.otrs.com
-*.otrs.com

@@ -22,7 +22,7 @@ pantheon-docs.device42.com
 www-dev.device42.com
 content.cdni.device42.com
 pantheon-docs-test.device42.com
-www.demo.device42.com
+demo.device42.com
 heartofgold.device42.com
 host12.device42.com
 my.device42.com
@@ -35,7 +35,6 @@ api.device42.com
 saasbapi.device42.com
 upload-dev.device42.com
 lab.device42.com
-www.device42.com
 docs.device42.com
 pantheon-test-www.device42.com
 www-test.device42.com
@@ -81,7 +80,6 @@ b.device42.com
 kptestapi.dev.device42.com
 pantheon-www.device42.com
 license.device42.com
-www.registration.device42.com
 blog-dev.device42.com
 es.docs.device42.com
 upload-stg.device42.com
@@ -93,7 +91,6 @@ qa.device42.com
 cisco.device42.com
 myname.device42.com
 stg.docs.device42.com
-demo.device42.com
 host10.device42.com
 pages.device42.com
 pantheon-docs-dev.www.device42.com

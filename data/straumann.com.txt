@@ -32,7 +32,6 @@ nubix-poc-dev.straumann.com
 qa-www.straumann.com
 test-www.straumann.com
 tmp-test-www.straumann.com
-www.straumann.com
 intsiab-my.straumann.com
 intreg-my.straumann.com
 api-login.straumann.com
@@ -132,5 +131,4 @@ intsiab-opapi.straumann.com
 espaider-hom.straumann.com
 espaider.straumann.com
 connect.straumann.com
-www.connect.straumann.com
 dev02-wfm.straumann.com

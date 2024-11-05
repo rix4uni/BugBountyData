@@ -142,7 +142,7 @@ ui-ts.emps.anfcorp.com
 franchise-qa.anfcorp.com
 ui.qa.emps.anfcorp.com
 api-dv.emps.anfcorp.com
-*.oms.anfcorp.com
-*.dv.oms.anfcorp.com
-*.np.oms.anfcorp.com
-*.pr.oms.anfcorp.com
+oms.anfcorp.com
+dv.oms.anfcorp.com
+np.oms.anfcorp.com
+pr.oms.anfcorp.com

@@ -1252,9 +1252,6 @@ prod-8x8-eu-frankfurt-1-s61.oracle.infra.jitsi.net
 meet-jit-si.oracle-geo.infra.jitsi.net
 prod-8x8-us-ashburn-1-s2.oracle.infra.jitsi.net
 skynet-hello-world.cloudflare.jitsi.net
-*.cloudflare.jitsi.net
-*.jitsi.net
-www.turn.jitsi.net
 a2test.jitsi.net
 api-dev.jitsi.net
 api-vo-pilot.cloudflare.jitsi.net
@@ -1339,7 +1336,6 @@ scott.jitsi.net
 sirtaki.jitsi.net
 tango.jitsi.net
 tavram.jitsi.net
-www.jitsi.net
 yana.jitsi.net
 yasen.jitsi.net
 chunxu.jitsi.net
@@ -2314,7 +2310,6 @@ meet-jit-si-ap-tokyo-1-local-3603-jvb-49-114-7.jitsi.net
 meet-jit-si-ap-tokyo-1-local-3410-jvb-49-74-8.jitsi.net
 meet-jit-si-us-west-2a-s18-jvb-45-64-181.jitsi.net
 meet-jit-si-ap-se-1a-s12-jvb-11-11-94.jitsi.net
-www.cloudflare.jitsi.net
 meet-jit-si-ap-tokyo-1-local-3603-jvb-49-64-101.jitsi.net
 meet-jit-si-ap-tokyo-1-local-3410-jvb-49-96-15.jitsi.net
 meet-jit-si-eu-central-1b-s141-jvb-40-91-21.jitsi.net
@@ -6776,7 +6771,7 @@ baskets.jitsi.net
 beta-uk-london-1-global-2757-jvb-82-71-244.jitsi.net
 adw.jitsi.net
 beta-us-east-1a-s2-jvb-20-15-24.jitsi.net
-www.arquivos.jitsi.net
+arquivos.jitsi.net
 37967.jitsi.net
 129-176.jitsi.net
 beta-us-east-1a-s2-jvb-20-15-15.jitsi.net
@@ -7117,7 +7112,7 @@ bibliography.jitsi.net
 aoaolu6.jitsi.net
 ados.jitsi.net
 beta-us-east-1a-s2-jvb-20-15-197.jitsi.net
-www.17.jitsi.net
+17.jitsi.net
 175-87.jitsi.net
 beta-us-east-1a-s2-jvb-20-15-137.jitsi.net
 31488.jitsi.net
@@ -7378,7 +7373,6 @@ beta-eu-west-2a-s2-jvb-17-11-165.jitsi.net
 68cbb.jitsi.net
 app.jitsi.net
 51259.jitsi.net
-aww.jitsi.net
 166-194.jitsi.net
 60bf.jitsi.net
 167.jitsi.net
@@ -7497,7 +7491,7 @@ bilbo.jitsi.net
 administrador.jitsi.net
 banking.jitsi.net
 180-247.jitsi.net
-www.biz.jitsi.net
+biz.jitsi.net
 91112.jitsi.net
 amunra.jitsi.net
 27769.jitsi.net
@@ -7647,7 +7641,6 @@ adm.jitsi.net
 all-us-west-2-turn.jitsi.net
 2f726.jitsi.net
 9b57.jitsi.net
-17.jitsi.net
 aj.jitsi.net
 badges.jitsi.net
 6cc9e.jitsi.net
@@ -8107,7 +8100,6 @@ a01.jitsi.net
 3b9f2.jitsi.net
 144-131.jitsi.net
 beta-us-ashburn-1-global-2618-jvb-83-113-200.jitsi.net
-www.backup-resolver.jitsi.net
 accountability.jitsi.net
 12betyulechengbeiyongwang.jitsi.net
 ancient.jitsi.net
@@ -8288,7 +8280,7 @@ beta-us-phoenix-1-global-2757-jvb-84-117-101.jitsi.net
 amster.jitsi.net
 136-145.jitsi.net
 147b.jitsi.net
-www.blackberry.jitsi.net
+blackberry.jitsi.net
 bbdd.jitsi.net
 75b16.jitsi.net
 3143b.jitsi.net
@@ -8403,7 +8395,7 @@ apacsolr.jitsi.net
 10034.jitsi.net
 beta-us-east-1b-s1-jvb-20-8-190.jitsi.net
 91729.jitsi.net
-www.axiom.jitsi.net
+axiom.jitsi.net
 beta-us-phoenix-1-global-2756-jvb-84-103-195.jitsi.net
 alban.jitsi.net
 beta-meet-jit-si-us-ashburn-1-api.jitsi.net
@@ -8857,7 +8849,6 @@ beta-us-west-2b-s1-jvb-19-10-129.jitsi.net
 beta-us-west-2a-s0-jvb-19-7-137.jitsi.net
 4f924.jitsi.net
 204-32.jitsi.net
-2ww.jitsi.net
 3f658.jitsi.net
 76e68.jitsi.net
 beta-us-east-1a-s2-jvb-20-15-68.jitsi.net
@@ -8977,7 +8968,7 @@ beta-us-ashburn-1-global-2757-jvb-83-94-203.jitsi.net
 8843c.jitsi.net
 240.jitsi.net
 avatars.jitsi.net
-www.biblioteca.jitsi.net
+biblioteca.jitsi.net
 atlassian-1.jitsi.net
 229-109.jitsi.net
 121-165.jitsi.net
@@ -9145,7 +9136,6 @@ baifangyulechengdailishenqing.jitsi.net
 baken.jitsi.net
 bdc1.jitsi.net
 44779.jitsi.net
-biz.jitsi.net
 172-37.jitsi.net
 bea60482.jitsi.net
 beta-uk-london-1-global-3615-jvb-82-117-11.jitsi.net
@@ -10091,7 +10081,6 @@ beta-meet-jit-si-jvb-83-122-40.jitsi.net
 alessandra.jitsi.net
 632cf.jitsi.net
 142-213.jitsi.net
-blackberry.jitsi.net
 791a1.jitsi.net
 beta-us-west-2a-s4-jvb-19-13-15.jitsi.net
 1826.jitsi.net
@@ -10373,7 +10362,6 @@ amounts.jitsi.net
 beta-eu-west-2b-s5-jvb-17-10-136.jitsi.net
 apep.jitsi.net
 39-62.jitsi.net
-biblioteca.jitsi.net
 beta-eu-west-2b-s3-jvb-82-116-1.jitsi.net
 beta-eu-west-2a-s6-jvb-17-13-27.jitsi.net
 g6lxf1jzi4v0._tls.jitsi.net
@@ -10919,7 +10907,6 @@ around.jitsi.net
 15702.jitsi.net
 69992.jitsi.net
 beta-eu-west-2a-s2-jvb-17-13-240.jitsi.net
-3ww.jitsi.net
 3dlunpandanjibanxiazai.jitsi.net
 bed8.jitsi.net
 beta-us-east-1a-s2-jvb-20-15-192.jitsi.net

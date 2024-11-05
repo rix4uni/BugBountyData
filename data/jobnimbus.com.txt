@@ -16,7 +16,6 @@ webappui.jobnimbus.com
 apigateway.jobnimbus.com
 engage.jobnimbus.com
 try.jobnimbus.com
-www.jobnimbus.com
 web.jobnimbus.com
 old.jobnimbus.com
 product.jobnimbus.com
@@ -57,7 +56,6 @@ click.jobnimbus.com
 ad.jobnimbus.com
 jnprod-cdb1.jobnimbus.com
 learning.jobnimbus.com
-www.app.jobnimbus.com
 dev-sync.jobnimbus.com
 auth.dr.jobnimbus.com
 network-ingress.jobnimbus.com
@@ -75,7 +73,6 @@ web.use1.jobnimbus.com
 app.dev-web.jobnimbus.com
 mandrill.jobnimbus.com
 win1.jobnimbus.com
-www.try.jobnimbus.com
 19875413.jobnimbus.com
 downloads.jobnimbus.com
 datastreams.internal.secondary.jobnimbus.com

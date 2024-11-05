@@ -1,5 +1,5 @@
-*.fix.cfbenchmarks.com
-*.test.fix.cfbenchmarks.com
+fix.cfbenchmarks.com
+test.fix.cfbenchmarks.com
 blog.cfbenchmarks.com
 cfbinfo.cfbenchmarks.com
 defibraziluat.cfbenchmarks.com
@@ -17,10 +17,7 @@ uat.cfbenchmarks.com
 unregprod.cfbenchmarks.com
 unregprod1.cfbenchmarks.com
 unreguat.cfbenchmarks.com
-www.cfbenchmarks.com
 sftp.cfbenchmarks.com
-test.fix.cfbenchmarks.com
 uat.fix.cfbenchmarks.com
 bcpdr.cfbenchmarks.com
-fix.cfbenchmarks.com
 oracleprod1.cfbenchmarks.com

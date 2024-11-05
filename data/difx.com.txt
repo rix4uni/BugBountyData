@@ -29,7 +29,6 @@ test1.difx.com
 app.difx.com
 blog.difx.com
 terminal.difx.com
-www.difx.com
 lyncdiscover.difx.com
 test-public-api.difx.com
 sip.difx.com
@@ -39,9 +38,6 @@ futuredev.difx.com
 requests.difx.com
 admin-api.difx.com
 app-admin.difx.com
-www.deployment.difx.com
-*.difx.com
-*.deployment.difx.com
 db.difx.com
 p.difx.com
 video.difx.com
@@ -147,7 +143,7 @@ dns1.difx.com
 host.difx.com
 example.comadmin-test.difx.com
 sv43.difx.com
-www.kamuefq.difx.com
+kamuefq.difx.com
 em9316.sendmail.difx.com
 email.mail.difx.com
 url7928.sendmail.difx.com

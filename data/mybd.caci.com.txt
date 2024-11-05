@@ -94,7 +94,7 @@ idecs2scan.mybd.caci.com
 200-users.mybd.caci.com
 iso9.mybd.caci.com
 isc.mybd.caci.com
-www.athena-ussf.mybd.caci.com
+athena-ussf.mybd.caci.com
 fmf1.mybd.caci.com
 rd-clr-ocr.mybd.caci.com
 dpsnat09.dps.mybd.caci.com
@@ -114,7 +114,7 @@ ctkpasschange.eglb.mybd.caci.com
 dibhub.mybd.caci.com
 pc3.mybd.caci.com
 dhradrweb2.mybd.caci.com
-www.askit.mybd.caci.com
+askit.mybd.caci.com
 ak47.mybd.caci.com
 moveit.mybd.caci.com
 oracleclm.mybd.caci.com
@@ -165,13 +165,12 @@ pm2mail.mybd.caci.com
 sip.mybd.caci.com
 webnotes24.mybd.caci.com
 seadog.mybd.caci.com
-www.cdma360corp.ss.mybd.caci.com
+cdma360corp.ss.mybd.caci.com
 kbs-dns-p1.mybd.caci.com
 288-internet.mybd.caci.com
 sig2.mybd.caci.com
 147-csl.mybd.caci.com
 cis-epol01.mybd.caci.com
-www.mybd.caci.com
 wsmgmt.mybd.caci.com
 lib5.mybd.caci.com
 cis-epohdlr-02a.mybd.caci.com
@@ -240,7 +239,7 @@ auth.fdtm.mybd.caci.com
 adfs.arch.mybd.caci.com
 draco.mybd.caci.com
 wacweb.mybd.caci.com
-www.200-fgt3700-01.mybd.caci.com
+200-fgt3700-01.mybd.caci.com
 ebusiness.mybd.caci.com
 unicom.mybd.caci.com
 cloud-demo.mybd.caci.com
@@ -413,7 +412,6 @@ vraas.mybd.caci.com
 jax-vpnusr07.mybd.caci.com
 269-prn2.mybd.caci.com
 gitlab.fade.mybd.caci.com
-www.clm.mybd.caci.com
 fairfaxdmzmail1.mybd.caci.com
 hudjiradev.mybd.caci.com
 pe-ise-pdp-01.mybd.caci.com
@@ -434,14 +432,13 @@ cfense.mybd.caci.com
 pc7.mybd.caci.com
 sip.eglb.mybd.caci.com
 nmd-reports01.mybd.caci.com
-www.alt.mybd.caci.com
+alt.mybd.caci.com
 pc5.mybd.caci.com
-www.corianconfluence.mybd.caci.com
 idecs2blade5.mybd.caci.com
 wint-gfitracker.mybd.caci.com
 040-sysware04.mybd.caci.com
 viewfinity.mybd.caci.com
-www.pmtcrmc.mybd.caci.com
+pmtcrmc.mybd.caci.com
 pm2-t5120-ym.mybd.caci.com
 privia-fs.mybd.caci.com
 cacinotes17.mybd.caci.com
@@ -476,7 +473,6 @@ tedtrngweb.harmony-cloud.mybd.caci.com
 guardian.ess.mybd.caci.com
 hprofsdv.mybd.caci.com
 r12i-demo-patch.mybd.caci.com
-askit.mybd.caci.com
 vpn.mybd.caci.com
 brenmar-internet.mybd.caci.com
 enbosssvn.mybd.caci.com
@@ -527,15 +523,13 @@ dns4.mybd.caci.com
 myguestprint.mybd.caci.com
 nmodev01xp.mybd.caci.com
 aces.mybd.caci.com
-www.spawar.mybd.caci.com
+spawar.mybd.caci.com
 nox.mybd.caci.com
-www.vba.mybd.caci.com
 001-sa6500-out-01.mybd.caci.com
 rcsdhelp.mybd.caci.com
-www.csde.mybd.caci.com
 ugunhp98.mybd.caci.com
 brenmar-pix.mybd.caci.com
-www.njdep-dev-appwf.mybd.caci.com
+njdep-dev-appwf.mybd.caci.com
 cis-gp01a.mybd.caci.com
 uat.smds.mybd.caci.com
 ckcm.mybd.caci.com
@@ -655,7 +649,7 @@ fmf.mybd.caci.com
 hic.mybd.caci.com
 lgslabs-gitlab-test.mybd.caci.com
 rmtrgweb.mybd.caci.com
-www.dw-dev.mybd.caci.com
+dw-dev.mybd.caci.com
 04k-vhub.mybd.caci.com
 mailserver3b.mybd.caci.com
 hvdocexdb38.mybd.caci.com
@@ -669,7 +663,6 @@ flvsremotesupport.mybd.caci.com
 wi2spsdmz01.mybd.caci.com
 ext-ebsodstestoauth.mybd.caci.com
 cacira.mybd.caci.com
-www.highviewweb1.mybd.caci.com
 bracdbprod.mybd.caci.com
 g3mini12.mybd.caci.com
 cser.mybd.caci.com
@@ -713,7 +706,6 @@ windns1.mybd.caci.com
 idecs2blade1.mybd.caci.com
 quarantine3.mybd.caci.com
 mailserver2-2.mybd.caci.com
-athena-ussf.mybd.caci.com
 mpstd-iadm01.mpbeta.mybd.caci.com
 ise-psn-02a.mybd.caci.com
 ice.mybd.caci.com
@@ -795,7 +787,7 @@ pm2-sun02.mybd.caci.com
 devsoabpm-vm.mpstd.mybd.caci.com
 fedpilot03.mybd.caci.com
 logistics01.mybd.caci.com
-www.aztest.mybd.caci.com
+aztest.mybd.caci.com
 cp.mybd.caci.com
 jira.mpstd.mybd.caci.com
 armspreprod.mybd.caci.com
@@ -880,7 +872,7 @@ vdi.csl.mybd.caci.com
 ehr.mybd.caci.com
 rmonlineocc.mybd.caci.com
 expe01b.mybd.caci.com
-www.pmtfiar.mybd.caci.com
+pmtfiar.mybd.caci.com
 sg12.mybd.caci.com
 wdfttest.mybd.caci.com
 omega-iconect.mybd.caci.com
@@ -924,7 +916,6 @@ jax-users.mybd.caci.com
 cacinotes27.mybd.caci.com
 caci-5150.mybd.caci.com
 www-hq.mybd.caci.com
-www.ebusiness.mybd.caci.com
 04h-gfe-db30.mybd.caci.com
 elvis.csd.mybd.caci.com
 cis-ise-psna02.mybd.caci.com
@@ -976,7 +967,7 @@ idecs2blade2.mybd.caci.com
 cacinotes2.mybd.caci.com
 006-endpointprd.mybd.caci.com
 guestauth.mybd.caci.com
-www.csuitev10linux.mybd.caci.com
+csuitev10linux.mybd.caci.com
 keycloak.csde.mybd.caci.com
 tetest4.mybd.caci.com
 lync13-edge02.mybd.caci.com
@@ -1154,7 +1145,6 @@ beta-db.mybd.caci.com
 ess.mybd.caci.com
 rmas.mybd.caci.com
 bshp.mybd.caci.com
-www.aces.mybd.caci.com
 e3pswi-1.mybd.caci.com
 comms.mybd.caci.com
 200-corpdmz-users.mybd.caci.com
@@ -1164,7 +1154,6 @@ nmodev03xp.mybd.caci.com
 ise-psn-01a.mybd.caci.com
 clicktomeetapps.mybd.caci.com
 csuitedemo2.mybd.caci.com
-www.limestone.mybd.caci.com
 jax-internet.mybd.caci.com
 omega.mybd.caci.com
 temobile.mybd.caci.com
@@ -1210,7 +1199,6 @@ lmsdev.mybd.caci.com
 talxsso.mybd.caci.com
 caciguest.eglb.mybd.caci.com
 mage.mybd.caci.com
-www.eglb.mybd.caci.com
 jax-vpnusr03.mybd.caci.com
 ehsweb.mybd.caci.com
 040-sysware07.mybd.caci.com
@@ -1285,7 +1273,7 @@ mpstd-db01.mpbeta.mybd.caci.com
 access-auth.eglb.mybd.caci.com
 04k-pix-dmznat.mybd.caci.com
 pan-dpe01.mybd.caci.com
-www.nss.mybd.caci.com
+nss.mybd.caci.com
 downranget1w.mybd.caci.com
 imsdra.mybd.caci.com
 evnotes1.mybd.caci.com
@@ -1294,7 +1282,6 @@ pan-sun13.mybd.caci.com
 pm2-internet2.mybd.caci.com
 umechpxm.mybd.caci.com
 hqdmzmail1.mybd.caci.com
-spawar.mybd.caci.com
 idecsprod.mybd.caci.com
 ex2010edge01.mybd.caci.com
 bsssr01.bss.mybd.caci.com

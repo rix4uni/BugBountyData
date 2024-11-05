@@ -1,4 +1,4 @@
-www.a0.muscache.com
+a0.muscache.com
 chunk-gcp-us-east1-vop1.fastly.media.muscache.com
 f0.muscache.com
 iuq.cfcdn.media.muscache.com
@@ -44,7 +44,6 @@ s8.muscache.com
 i5.muscache.com
 freefire-gamer.cfcdn.media.muscache.com
 video.muscache.com
-a0.muscache.com
 cdx.muscache.com
 i0.muscache.com
 i3.muscache.com
@@ -53,7 +52,6 @@ smtp01-toldev-ast.cfcdn.media.muscache.com
 cn-cc.muscache.com
 cfcdn.media.muscache.com
 y7uikrf64rnzsgxo.media.muscache.com
-www.muscache.com
 s7.muscache.com
 cn-ali.muscache.com
 128a0.muscache.com
@@ -77,10 +75,6 @@ s9.muscache.com
 s1.muscache.com
 authentication-internals.media.muscache.com
 news-oembed.cfcdn.media.muscache.com
-*.cfcdn.media.muscache.com
-*.fastly.media.muscache.com
-*.media.muscache.com
-*.muscache.com
 cn-assets.muscache.com
 a0-a3.muscache.com
 socu.muscache.com
@@ -142,7 +136,7 @@ p.0-243cfcdn-dev.media.muscache.com
 nike.wwwasana.a1-1.0-242cfcdn.media.muscache.com
 zabawki.0-242cfcdn.media.muscache.com
 ph.a1.0-244cfcdnsit.media.muscache.com
-www.0-243cfcdn.media.muscache.com
+0-243cfcdn.media.muscache.com
 search.a1.0-245cfcdn-1-stage.media.muscache.com
 dev-internalwww.0-243cfcdna1-sit.media.muscache.com
 0-245cfcdn-19-scm.0-245cfcdn-1-stage.media.muscache.com
@@ -1323,7 +1317,7 @@ rrjdqlpfnhdev.0-245cfcdn-1-bucket.media.muscache.com
 cvs.0-245cfcdn-1-gw.media.muscache.com
 stage-olvhmjcjqe.dev.adm.a1.0-244cfcdn.media.muscache.com
 kqbbctqhhu.stage.a1.0-243cfcdntest.media.muscache.com
-www.0-244cfcdn.media.muscache.com
+0-244cfcdn.media.muscache.com
 sa2gbhdm100eu2izq.stage.a1.0-243cfcdnstaging.media.muscache.com
 buddy.0-242cfcdna1uat.media.muscache.com
 1edge.0-244cfcdn.media.muscache.com
@@ -1655,7 +1649,7 @@ container.api.a1-1.0-243cfcdn.media.muscache.com
 0-245cfcdna0dev.0-245cfcdn-1.media.muscache.com
 staging-apiinternal.dev1infra.adm.0-243cfcdna1.media.muscache.com
 000012-sit.0-245cfcdn-1-origin.media.muscache.com
-www.0-242cfcdn.media.muscache.com
+0-242cfcdn.media.muscache.com
 0-search.dev.0-244cfcdn-19-internal.media.muscache.com
 containers.sit.stage.a1.0-242cfcdntest.media.muscache.com
 dev-olvhmjcjqe.api.a1-uat.0-243cfcdn.media.muscache.com
@@ -2250,7 +2244,7 @@ raryrvhfpk.a0.0-243cfcdn-dev.media.muscache.com
 nacosfbl.deva1.0-243cfcdntest.media.muscache.com
 acdc.0-244cfcdn.media.muscache.com
 fbl-jenkins.0-245cfcdn-1-static.media.muscache.com
-www.0-244cfcdn-internal.media.muscache.com
+0-244cfcdn-internal.media.muscache.com
 4.0-243cfcdnstaging.media.muscache.com
 stagingwww.0-245cfcdn-1-cn.media.muscache.com
 v2-w11.sit.0-242cfcdn.media.muscache.com
@@ -2486,7 +2480,6 @@ wayf.a1-stage.0-242cfcdn1.media.muscache.com
 0-244cfcdn-dev1.media.muscache.com
 0--ccpam-stage.0-245cfcdn-1-www.media.muscache.com
 dev1-a1-1.0-245cfcdn-1-team.media.muscache.com
-0-243cfcdn.media.muscache.com
 0-243cfcdn-1alpha.0-245cfcdn-1.media.muscache.com
 bzwvtyvupbstaging.0-242cfcdn.media.muscache.com
 appw.deva1.0-243cfcdntest.media.muscache.com
@@ -2777,7 +2770,7 @@ dev-trgzailyjw.0-243cfcdn-dev.media.muscache.com
 psg.a0.0-243cfcdndev1.media.muscache.com
 000012-a1www.0-244cfcdndev1.media.muscache.com
 0-0-1.media.muscache.com
-www.www.0-242cfcdn.media.muscache.com
+www.0-242cfcdn.media.muscache.com
 uat-app-test.adm.a1.0-242cfcdn.media.muscache.com
 cfcdnstaging.0-243cfcdn.media.muscache.com
 online.0-243cfcdntest.media.muscache.com
@@ -3377,7 +3370,6 @@ sitacc.sitpxxwupzted.dev.0-242cfcdn-19.media.muscache.com
 document.sit.0-242cfcdn.media.muscache.com
 fbd4355cc7a6.dev.0-243cfcdn.media.muscache.com
 range86.dev-a1.0-244cfcdn.media.muscache.com
-0-242cfcdn.media.muscache.com
 245cfbilling.www.0-243cfcdn.media.muscache.com
 im3.muscache.com
 trgzailyjw-test.4.0-242cfcdn.media.muscache.com
@@ -3458,7 +3450,6 @@ blog.media.muscache.com
 000004fastlya1www.0-245cfcdn-1-stage.media.muscache.com
 sit-rtordbskoc.dev.0-242cfcdn-19.media.muscache.com
 734d54d889de.stage.a1.0-242cfcdn-stage.media.muscache.com
-0-244cfcdn.media.muscache.com
 contextualkeywords.adm.0-243cfcdna1.media.muscache.com
 typeahead.staging.0-242cfcdn19.media.muscache.com
 dev.4.0-242cfcdn.media.muscache.com
@@ -3961,7 +3952,7 @@ be.0-245cfcdn-1-dev1.media.muscache.com
 0-245cfcdn-1-hwcdn.0-243cfcdn.media.muscache.com
 000012-fastly-4-internal.a1.0-243cfcdn-stage.media.muscache.com
 36.media.muscache.com
-www.www.0-243cfcdn.media.muscache.com
+www.0-243cfcdn.media.muscache.com
 www-firewall.admwww.0-242cfcdna1.media.muscache.com
 infrainternal-internal.dev.0-215cfcdn-4.media.muscache.com
 stagewwwa.0-245cfcdn-1-www.media.muscache.com
@@ -4811,7 +4802,6 @@ min.20.0-243cfcdn-www.media.muscache.com
 0-245cfcdn-1-sentinel.media.muscache.com
 live.0-22-fastly1.media.muscache.com
 dag.0-245cfcdn-1-gw.media.muscache.com
-www.aa.0-244cfcdn-1.media.muscache.com
 mediaa.www.0-243cfcdn.media.muscache.com
 245cfcdnwww.0-245cfcdn-1-xxljob.media.muscache.com
 testadm.0-242cfcdn19.media.muscache.com
@@ -4857,7 +4847,6 @@ i9.0-245cfcdn-1-gw.media.muscache.com
 0-245cfcdn-19-mirror.0-245cfcdn-1-devops.media.muscache.com
 cdx.0-244cfcdn-4dev1.media.muscache.com
 0-20000125cfcdn-1.media.muscache.com
-0-244cfcdn-internal.media.muscache.com
 internal-vrmyectbhq.a0-sit.0-244cfcdn.media.muscache.com
 prod.0-243cfcdn-stage.media.muscache.com
 rotatey.stage.a1.0-242cfcdn.media.muscache.com

@@ -73,7 +73,6 @@ piwik.typo3.org
 status.typo3.org
 localize.typo3.org
 t3con08.typo3.org
-www.typo3.org
 t3con10-dallas.typo3.org
 t3con09-dallas.typo3.org
 git.typo3.org
@@ -108,7 +107,6 @@ proxy08.typo3.org
 srv145.typo3.org
 admin.typo3.org
 ms09.typo3.org
-www.mail.typo3.org
 srv117.typo3.org
 srv125.typo3.org
 ns.typo3.org
@@ -202,7 +200,6 @@ srv162.typo3.org
 srv170.typo3.org
 flow3.typo3.org
 srv107.typo3.org
-www.neos.typo3.org
 srv108-svn.typo3.org
 ms11.typo3.org
 phoenix.demo.typo3.org

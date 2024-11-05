@@ -30,7 +30,6 @@ auth-resources.entur.no
 kafka-admin.staging.entur.no
 docs.data.staging.entur.no
 traveller.entur.no
-www.entur.no
 traveller.dev.entur.no
 data.entur.no
 widget.entur.no
@@ -50,12 +49,6 @@ test.entur.no
 cpanel.entur.no
 rtd.entur.no
 mta-sts.mail.entur.no
-*.sbx.entur.no
-*.rtd.entur.no
-*.entur.no
-*.staging.entur.no
-*.dev.entur.no
-*.test.entur.no
 tavla-api.dev.entur.no
 tavla-api.entur.no
 org.entur.no

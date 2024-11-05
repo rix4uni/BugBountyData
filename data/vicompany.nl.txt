@@ -1,7 +1,7 @@
 ingapi-prod-b.acceptance.vicompany.nl
 jira.vicompany.nl
 tfs.vicompany.nl
-www.blog.vicompany.nl
+blog.vicompany.nl
 vpn.vicompany.nl
 square.vicompany.nl
 confluence.vicompany.nl
@@ -12,7 +12,6 @@ ingbeleggerscompetitiefr.acceptance.vicompany.nl
 products.vicompany.nl
 support.vicompany.nl
 crucible.vicompany.nl
-www.vicompany.nl
 mailstats.vicompany.nl
 gtma.vicompany.nl
 join.vicompany.nl
@@ -25,7 +24,6 @@ statuspage.vicompany.nl
 work.vicompany.nl
 6years.vicompany.nl
 acceptance.vicompany.nl
-blog.vicompany.nl
 lintjes.production.vicompany.nl
 sip.vicompany.nl
 mail.vicompany.nl
@@ -35,6 +33,3 @@ bxswissch.acceptance.vicompany.nl
 wip.vicompany.nl
 christmas.vicompany.nl
 ingmarketsde-insights.acceptance.vicompany.nl
-*.vicompany.nl
-*.acceptance.vicompany.nl
-www.confluence.vicompany.nl

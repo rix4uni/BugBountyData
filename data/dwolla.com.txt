@@ -52,7 +52,6 @@ try.dwolla.com
 webhooks-devint.dwolla.com
 webhooks-sandbox.dwolla.com
 webhooks.dwolla.com
-www.dwolla.com
 accounts-v2-devint.dwolla.com
 admin-playground.dwolla.com
 admin-poc-devint.dwolla.com
@@ -74,9 +73,3 @@ slack-integration-devint.dwolla.com
 trust.dwolla.com
 veeam.corp.dwolla.com
 wiki.corp.dwolla.com
-www.discuss.dwolla.com
-www.help.dwolla.com
-www.refer.dwolla.com
-www.scanner-nessus.corp.dwolla.com
-www.support.dwolla.com
-www.veeam.corp.dwolla.com

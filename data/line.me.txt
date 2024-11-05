@@ -1,12 +1,11 @@
-*.line.me
-*.blockchain.line.me
-*.dict.line.me
-*.game.line.me
-*.landpress.line.me
-*.live.line.me
-*.pockeo.line.me
-*.pockeobiz.line.me
-*.tr.line.me
+blockchain.line.me
+dict.line.me
+game.line.me
+landpress.line.me
+live.line.me
+pockeo.line.me
+pockeobiz.line.me
+tr.line.me
 10yenpingpong.line.me
 20-21newyear.game.line.me
 2013.line.me
@@ -120,7 +119,6 @@ biz.line-research.line.me
 biz.research.line.me
 bjlinks.game.line.me
 bleach.game.line.me
-blockchain.line.me
 blog.line.me
 blog-at.line.me
 blog-cms.line.me
@@ -249,7 +247,6 @@ developers-admin.game.line.me
 developers.game.line.me
 development.line.me
 devil.game.line.me
-dict.line.me
 direct.line.me
 directory.line.me
 dns.line.me
@@ -336,7 +333,6 @@ fweb-jp-pay.line.me
 fweb-tw-pay.line.me
 g.line.me
 gallery.line.me
-game.line.me
 game-blog.line.me
 game-blog-th.line.me
 game-oa.line.me
@@ -467,7 +463,6 @@ lan-click.tr.line.me
 lan-o.line.me
 lan3rd.line.me
 lan3rd-o.line.me
-landpress.line.me
 lap-blog.line.me
 lap-click.tr.line.me
 lawyer-cms.line.me
@@ -513,7 +508,6 @@ list.line.me
 lists.line.me
 littleknights-blog.line.me
 littleknights.game.line.me
-live.line.me
 livebuy.line.me
 loghost.line.me
 logs.line.me
@@ -713,8 +707,6 @@ play.game.line.me
 playnow7.game.line.me
 plus.line.me
 pm.line.me
-pockeo.line.me
-pockeobiz.line.me
 pod-mobile.game.line.me
 pod-payment.game.line.me
 pod-store.game.line.me
@@ -921,7 +913,6 @@ toriyoshisyoten.pockeo.line.me
 toss.line.me
 tower.game.line.me
 toycompany.game.line.me
-tr.line.me
 track.line.me
 trackit-sandbox.game.line.me
 trackit.game.line.me
@@ -1006,10 +997,7 @@ wow-blog.line.me
 ws.line.me
 ww1.line.me
 ww2.line.me
-www.line.me
 www-test.line.me
-www.sticker-contest.line.me
-www.terms2.line.me
 www2.line.me
 www5.line.me
 wwwtest.line.me
@@ -3175,7 +3163,6 @@ sketchfab.gift-blog-ja.line.me
 1-1creator-manual-en-fortune-manager-child.landpress.line.me
 1-testing1-elastic-indexing-pcm1creator.landpress.line.me
 0030040bfb6d201308091738515440660773425-feb-pcm.landpress.line.me
-www.camera.line.me
 1-proinfotrac-elastic-indexing-pcmfriend.landpress.line.me
 1-1creator-manual-en-intcms-child.landpress.line.me
 1-17-elastic-00251.landpress.line.me
@@ -4741,7 +4728,6 @@ channel.access2.line.me
 1-1creator-manual-en-animalhusb-internal.landpress.line.me
 1-17-elastic-indexing-cmsarshopping.landpress.line.me
 ldblog-userdomain-test-15.pokopangtown.game.line.me
-www.pokopangtown.game.line.me
 1000dsinl50fe2g-arlo-02-pre-child.landpress.line.me
 qa.foodie.line.me
 1-proinfotrac-elastic-indexing-pcm---038019.landpress.line.me
@@ -5387,7 +5373,6 @@ poicommunity.compage.line.me
 poicommunity.comsocial-plugins.line.me
 poicommunity.comstore.line.me
 poicommunity.comtimeline.line.me
-*.lpng.line.me
 lpng.line.me
 webgw-music.line.me
 developers-pay.line.me
@@ -5447,7 +5432,7 @@ map.line.me
 aqua.apigw.jp2.saas.line.me
 mig.apigw.jp2.saas.line.me
 tv-ac-de.line.me
-www.windows.apigw.jp2.saas.line.me
+windows.apigw.jp2.saas.line.me
 tv-rc.line.me
 access-dr2.line.me
 stg-dict.line.me

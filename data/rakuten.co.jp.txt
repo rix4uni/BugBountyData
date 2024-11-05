@@ -3149,7 +3149,6 @@ dev-cdn.rmc.contents.rakuten.co.jp
 event.oubo.rakuten.co.jp
 myshop.plaza.rms.rakuten.co.jp
 qa.pkg.video.rakuten.co.jp
-www.rakuten.co.jp
 project-manager.mobile.rakuten.co.jp
 accounts.id.rakuten.co.jp
 stream.cms.rakuten.co.jp
@@ -3306,7 +3305,7 @@ artgallery.nft.rakuten.co.jp
 mkrm1048d.rakuten.co.jp
 old2-limited.rakuten.co.jp
 old-emagazine.rakuten.co.jp
-www.asahicom.rakuten.co.jp
+asahicom.rakuten.co.jp
 content.moneyservice.rakuten.co.jp
 new-glogin.gl.rakuten.co.jp
 old-dr.grp04.m.rakuten.co.jp
@@ -3316,7 +3315,7 @@ seller.auction.rakuten.co.jp
 old-pdb.id.rakuten.co.jp
 old2-myshop.plaza.rakuten.co.jp
 ads-banner.pay.rakuten.co.jp
-www.homes.rakuten.co.jp
+homes.rakuten.co.jp
 old-etool.rakuten.co.jp
 ithacatransgendergm.rms.rakuten.co.jp
 ichiba-p-rate.api.rakuten.co.jp
@@ -3429,7 +3428,7 @@ old-bookslottery.step.rakuten.co.jp
 old-luckypoint.rakuten.co.jp
 dev-static.business.one.rakuten.co.jp
 jpost.auction.rakuten.co.jp
-www.jpaol.rakuten.co.jp
+jpaol.rakuten.co.jp
 old-admin.kuji.rakuten.co.jp
 rmc-cx.api.rakuten.co.jp
 stg-dp.travel.rakuten.co.jp
@@ -3533,7 +3532,7 @@ e.msso.m.rakuten.co.jp
 dr.msso.j.rakuten.co.jp
 stg.lp.rakuten.co.jp
 old-rmstool.collabo.rakuten.co.jp
-www.yomiuri.rakuten.co.jp
+yomiuri.rakuten.co.jp
 grp02.j.rakuten.co.jp
 api.gateway.drone.rakuten.co.jp
 new-ec.rakuten.co.jp
@@ -3578,7 +3577,7 @@ dealaccount.auction.rakuten.co.jp
 old-image.auction-ori.rakuten.co.jp
 new-review.rakuten.co.jp
 new-stg.insurance.rakuten.co.jp
-www.lab-vpn.mobile.rakuten.co.jp
+lab-vpn.mobile.rakuten.co.jp
 stg.item.rakuten.co.jp
 ematuser1054.rakuten.co.jp
 event.allabout.rakuten.co.jp
@@ -3638,7 +3637,7 @@ rmail1055c.rakuten.co.jp
 e.member.id.rakuten.co.jp
 new-m.wedding.rakuten.co.jp
 stg-02.api.screen.rakuten.co.jp
-www.ni-mall.rakuten.co.jp
+ni-mall.rakuten.co.jp
 old2-kuji.rakuten.co.jp
 stg.grp03.m.rakuten.co.jp
 old-test.grp03.m.rakuten.co.jp
@@ -3666,7 +3665,7 @@ new4-ts.basket.step.rakuten.co.jp
 image.dl.rakuten.co.jp
 new-rp01.collabo.rakuten.co.jp
 new-sftp-secondary.nba.rakuten.co.jp
-www.mainichi.rakuten.co.jp
+mainichi.rakuten.co.jp
 d.grp04.j.rakuten.co.jp
 corp.stay.rakuten.co.jp
 mkrm1206d.rakuten.co.jp
@@ -3782,7 +3781,6 @@ stg.grp03.j.rakuten.co.jp
 smtpalert05.travel.rakuten.co.jp
 redmine.kc.admintool.rakuten.co.jp
 mkrm1191d.rakuten.co.jp
-www.travel.rakuten.co.jp
 admin.wedding.rakuten.co.jp
 mgrtiron104d.rakuten.co.jp
 smtpalert02.travel.rakuten.co.jp
@@ -4020,13 +4018,13 @@ mkrm1221d.rakuten.co.jp
 ts.books.step.rakuten.co.jp
 mappli.travel.rakuten.co.jp
 auto-rmail.rms.rakuten.co.jp
-www.arukikata.rakuten.co.jp
+arukikata.rakuten.co.jp
 netgas101d.rakuten.co.jp
 old-m.p-store.rakuten.co.jp
 stg.24.rakuten.co.jp
 old-card-media.money.rakuten.co.jp
 new-help.rakuten.co.jp
-www.nifty.rakuten.co.jp
+nifty.rakuten.co.jp
 prod.akimg.video.rakuten.co.jp
 old-m.toto.rakuten.co.jp
 msvk16.travel.rakuten.co.jp
@@ -4150,7 +4148,7 @@ old-ts.sp.basket.step.rakuten.co.jp
 stg-m.wedding.rakuten.co.jp
 stg.test.grp02.j.rakuten.co.jp
 old-api.rms.rakuten.co.jp
-www.rakuten-bank.rakuten.co.jp
+rakuten-bank.rakuten.co.jp
 old-grp08.ias.rakuten.co.jp
 cash.gl.rakuten.co.jp
 chrm.tv.rakuten.co.jp
@@ -4161,7 +4159,7 @@ mkrm1137d.rakuten.co.jp
 rad.auction.rakuten.co.jp
 mgrtiron108d.rakuten.co.jp
 sqa.api.tv.rakuten.co.jp
-www.insidejp.rakuten.co.jp
+insidejp.rakuten.co.jp
 apgw.comm.rakuten.co.jp
 old-owners.delivery.rakuten.co.jp
 image.apps.rakuten.co.jp
@@ -4184,7 +4182,7 @@ old2-lgns.infoseek.rakuten.co.jp
 new-websearch.rakuten.co.jp
 admin.haccp.comm.rakuten.co.jp
 sandbox.api.rppcore.rakuten.co.jp
-www.shikokunews.rakuten.co.jp
+shikokunews.rakuten.co.jp
 space.rakuten.co.jp
 prerelease.api-ichiba-gateway.rakuten.co.jp
 old-api.calendar.rakuten.co.jp
@@ -4244,7 +4242,7 @@ mkrm1159d.rakuten.co.jp
 stg.internal.api.online.checkout.rakuten.co.jp
 msvk13.travel.rakuten.co.jp
 track.mart.rakuten.co.jp
-www.goo.rakuten.co.jp
+goo.rakuten.co.jp
 myaapi.auction.rakuten.co.jp
 old-stg-m.books.rakuten.co.jp
 old2-common.rakuten.co.jp
@@ -4336,7 +4334,6 @@ new-present.item.rakuten.co.jp
 stg-m.coupon.rakuten.co.jp
 old-test-glogin.rms.rakuten.co.jp
 stg-admin.globalexpress.rakuten.co.jp
-jpaol.rakuten.co.jp
 common.rakuten.co.jp
 lnd1.sp.add.cart.step.rakuten.co.jp
 old-auction.item.rakuten.co.jp
@@ -4434,7 +4431,7 @@ young.rakuten.co.jp
 license.video.rakuten.co.jp
 mkrm1192d.rakuten.co.jp
 ichiba-en.faq.rakuten.co.jp
-www.rfms.rakuten.co.jp
+rfms.rakuten.co.jp
 new-ns03.rakuten.co.jp
 etool.rakuten.co.jp
 mkrm1183d.rakuten.co.jp
@@ -4545,7 +4542,7 @@ old-manager.salon.rakuten.co.jp
 stg.point.widget.rakuten.co.jp
 mkrm1074d.rakuten.co.jp
 stg-myid.rakuten.co.jp
-www.rbs.rakuten.co.jp
+rbs.rakuten.co.jp
 stg-c.p.rakuten.co.jp
 stg.history.online.checkout.rakuten.co.jp
 smtprwith02.travel.rakuten.co.jp
@@ -4563,7 +4560,6 @@ ranking.ocn.rakuten.co.jp
 page.shashinkan.rakuten.co.jp
 old-m.rakupon.rakuten.co.jp
 widget.gs.rakuten.co.jp
-lab-vpn.mobile.rakuten.co.jp
 gl.rakuten.co.jp
 new-management.payment.rakuten.co.jp
 mkrm1031d.rakuten.co.jp
@@ -4586,9 +4582,9 @@ old-ecoto.rakuten.co.jp
 old-order-rp.rms.rakuten.co.jp
 old-privacy.rakuten.co.jp
 netsuper.rakuten.co.jp
-www.hochi.rakuten.co.jp
+hochi.rakuten.co.jp
 old2-pn.rakuten.co.jp
-www.biglobe.rakuten.co.jp
+biglobe.rakuten.co.jp
 smtprwith05.travel.rakuten.co.jp
 ns-private01-v.rakuten.co.jp
 store.kc.rakuten.co.jp
@@ -4599,7 +4595,7 @@ new-travel.collabo.rakuten.co.jp
 stg.insurance.rakuten.co.jp
 smtpalert01.travel.rakuten.co.jp
 pre-toto.rakuten.co.jp
-www.compaq.rakuten.co.jp
+compaq.rakuten.co.jp
 old-search.collabo.rakuten.co.jp
 order.step.rakuten.co.jp
 old-image.rental.rakuten.co.jp
@@ -4694,7 +4690,7 @@ anything.bookmark.rakuten.co.jp
 business.infoseek.rakuten.co.jp
 nba.rakuten.co.jp
 mkrm1144d.rakuten.co.jp
-www.sun-tv.rakuten.co.jp
+sun-tv.rakuten.co.jp
 macr.travel.rakuten.co.jp
 adm.public.auction.rakuten.co.jp
 event.mxtv.rakuten.co.jp
@@ -4707,7 +4703,7 @@ d.grp03.id.rakuten.co.jp
 old-csvdl.rms.rakuten.co.jp
 stg4.apply.card.rakuten.co.jp
 mkrm1065d.rakuten.co.jp
-www.rbbtoday.rakuten.co.jp
+rbbtoday.rakuten.co.jp
 old-m.lgns.rakuten.co.jp
 api.premium.rakuten.co.jp
 rns02.rakuten.co.jp
@@ -4763,7 +4759,7 @@ cdn.golf.rakuten.co.jp
 old-member.pointmail.rakuten.co.jp
 old-shop.notifier.rms.rakuten.co.jp
 old2-m.manager.review.rakuten.co.jp
-www.30min.rakuten.co.jp
+30min.rakuten.co.jp
 new-osearch.travel.rakuten.co.jp
 old-grp01.ashiato.rakuten.co.jp
 mkrm1171d.rakuten.co.jp
@@ -4861,7 +4857,7 @@ old2-stg-award.rakuten.co.jp
 fulldrive.cloud.rakuten.co.jp
 old-tool2.collabo.rakuten.co.jp
 stg-manage.travel.rakuten.co.jp
-www.woman.rakuten.co.jp
+woman.rakuten.co.jp
 portal.reward.rakuten.co.jp
 old-g01.pt.afl.rakuten.co.jp
 test.grp01.id.gs.rakuten.co.jp
@@ -4870,7 +4866,6 @@ stg.rakoo.rakuten.co.jp
 stg.pns.gl.rakuten.co.jp
 mailgw.wedding.rakuten.co.jp
 old-stg.st.grp03.id.rakuten.co.jp
-rbs.rakuten.co.jp
 gbuy.step.rakuten.co.jp
 old-grp15.ias.rakuten.co.jp
 stg.preview2.grp04.m.rakuten.co.jp
@@ -4952,7 +4947,6 @@ old-m.coupon.rakuten.co.jp
 new-dispatcher.payment.rakuten.co.jp
 new-special.infoseek.rakuten.co.jp
 old2-api.books.step.rakuten.co.jp
-woman.rakuten.co.jp
 old-test.grp02.j.rakuten.co.jp
 new-ask.step.rakuten.co.jp
 admintool.pointonline.rakuten.co.jp
@@ -5071,7 +5065,6 @@ rmail19.travel.rakuten.co.jp
 stg-vissel.fanclub.rakuten.co.jp
 old-lounge.plaza.rakuten.co.jp
 mkrmb43-187.smtp.rakuten.co.jp
-biglobe.rakuten.co.jp
 ts.sp.basket.step.rakuten.co.jp
 old-stg.test.accounts.id.rakuten.co.jp
 mkrm1219d.rakuten.co.jp
@@ -5238,7 +5231,7 @@ old-m.cash.rakuten.co.jp
 im.akimg.tv.rakuten.co.jp
 new-img.m.rakuten.co.jp
 smtp-jp-017199.fashion.rakuten.co.jp
-www.kadokawatv.rakuten.co.jp
+kadokawatv.rakuten.co.jp
 omimai.rakuten.co.jp
 stg.payment.rakuten.co.jp
 display.adsales.rakuten.co.jp
@@ -5307,7 +5300,7 @@ rc-info.screen.rakuten.co.jp
 r.m.rakuten.co.jp
 wedding.rakuten.co.jp
 old-admin.dining.rakuten.co.jp
-www.allabout.rakuten.co.jp
+allabout.rakuten.co.jp
 stg.grp04.j.rakuten.co.jp
 new-grp02.m.rakuten.co.jp
 new-p.rakuten.co.jp
@@ -5318,13 +5311,11 @@ directory.infoseek.rakuten.co.jp
 stg-api.rakutabe.rakuten.co.jp
 new-order.my.rakuten.co.jp
 pitatto.rakuten.co.jp
-asahicom.rakuten.co.jp
 mkrmb43-143.smtp.rakuten.co.jp
 mkrm1164d.rakuten.co.jp
 stg-s-cdn.rmp.rakuten.co.jp
 realestate-ori.rakuten.co.jp
 vissel.fanclub.rakuten.co.jp
-www.dailysports.rakuten.co.jp
 mkrm1125d.rakuten.co.jp
 old-reserve.my.rakuten.co.jp
 new2-research.rakuten.co.jp
@@ -5482,7 +5473,7 @@ new-emat.rakuten.co.jp
 old-grp04.j.rakuten.co.jp
 new-stg.grp03.m.rakuten.co.jp
 stg.st.grp01.j.rakuten.co.jp
-www.mxtv.rakuten.co.jp
+mxtv.rakuten.co.jp
 mxtr06c.rakuten.co.jp
 mrac-vip.rakuten.co.jp
 sqa.unext.tv.rakuten.co.jp
@@ -5501,7 +5492,6 @@ new-dashboard.books.rakuten.co.jp
 mkrm1077d.rakuten.co.jp
 partner.pay.rakuten.co.jp
 new-api.dmc.rakuten.co.jp
-compaq.rakuten.co.jp
 admin.rd.rakuten.co.jp
 tool3.collabo.rakuten.co.jp
 jrock.nft.rakuten.co.jp
@@ -5513,9 +5503,8 @@ stg-ramms.research.rakuten.co.jp
 old1-branch.onet.rakuten.co.jp
 mm.rakuten.co.jp
 api-bss.mobile.rakuten.co.jp
-www.ocn.rakuten.co.jp
 docs-loyalty.sandbox.rakuten.co.jp
-www.fumi23.rakuten.co.jp
+fumi23.rakuten.co.jp
 mkrm1155d.rakuten.co.jp
 new-bet.keiba.rakuten.co.jp
 auction.auto.rakuten.co.jp
@@ -5678,7 +5667,6 @@ new-api.books.rakuten.co.jp
 new-g01.api.bookmark.rakuten.co.jp
 grp02.api.rp.rakuten.co.jp
 old-global.rakuten.co.jp
-rakuten-bank.rakuten.co.jp
 stg-m.emagazine.rakuten.co.jp
 old-common2.rakuten.co.jp
 mkrm1026d.rakuten.co.jp
@@ -5747,7 +5735,7 @@ old2-install-app.rakuten.co.jp
 old-m.dining.rakuten.co.jp
 mgrtiron103d.rakuten.co.jp
 nsvr901c.rakuten.co.jp
-www.kget.rakuten.co.jp
+kget.rakuten.co.jp
 ins-akuji127z.rakuten.co.jp
 old-test.grp04.j.rakuten.co.jp
 glogin.gl.rakuten.co.jp
@@ -5893,7 +5881,7 @@ old-notifier.rakuten.co.jp
 point.widget.rakuten.co.jp
 rpms.point.gl.rakuten.co.jp
 old-academy.drone.rakuten.co.jp
-www.sponichi.rakuten.co.jp
+sponichi.rakuten.co.jp
 stg-api.kobo.rakuten.co.jp
 old-stg-m.rt.rakuten.co.jp
 binsurance101c-v2.rakuten.co.jp
@@ -5920,7 +5908,7 @@ old2-t2.sp.basket.step.rakuten.co.jp
 image-ori.rakuten.co.jp
 old2-api.dict.search.rakuten.co.jp
 old-stg.test.api.accounts.id.rakuten.co.jp
-www.fresheye.rakuten.co.jp
+fresheye.rakuten.co.jp
 old-shaken.rakuten.co.jp
 branch.onet.rakuten.co.jp
 stg.preview2.grp04.j.rakuten.co.jp
@@ -5984,7 +5972,6 @@ slb319c-test01.rakuten.co.jp
 stg-ftp-roc.nba.rakuten.co.jp
 old-event-item-ori.rakuten.co.jp
 mkrm1011d.rakuten.co.jp
-yomiuri.rakuten.co.jp
 nso.travel.rakuten.co.jp
 mkrm1213d.rakuten.co.jp
 biccamera.rakuten.co.jp
@@ -6021,7 +6008,6 @@ old-e.grp02.j.rakuten.co.jp
 mkrm1103d.rakuten.co.jp
 dev.manager.checkout.gl.rakuten.co.jp
 new-woman.rakuten.co.jp
-www.ins-hd.rakuten.co.jp
 new-m.rt.rakuten.co.jp
 stg2-ramms.research.rakuten.co.jp
 old2-p-store.rakuten.co.jp
@@ -6045,7 +6031,7 @@ funenglish.sandbox.rakuten.co.jp
 emat1120d.rakuten.co.jp
 gas01c.rakuten.co.jp
 license.tv.rakuten.co.jp
-www.response.rakuten.co.jp
+response.rakuten.co.jp
 mat58-157.smtp.rakuten.co.jp
 mkrm1227d.rakuten.co.jp
 client-grp02.nft.rakuten.co.jp
@@ -6170,7 +6156,6 @@ old-branch.onet.rakuten.co.jp
 emat1117d.rakuten.co.jp
 smtprwith07.travel.rakuten.co.jp
 new-compare.rakuten.co.jp
-www.infoseek.rakuten.co.jp
 spf-tw.rakuten.co.jp
 stg.preview3.grp04.j.rakuten.co.jp
 ebook.rakuten.co.jp
@@ -6351,6 +6336,4 @@ old-m.cardentry.rakuten.co.jp
 ns03d.rakuten.co.jp
 mx14d.rakuten.co.jp
 gs.rakuten.co.jp
-*.vissel-kobe.rakuten.co.jp
 screen-assistant.ai.rakuten.co.jp
-*.readee.rakuten.co.jp

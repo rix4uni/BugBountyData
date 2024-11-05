@@ -149,7 +149,7 @@ argocd.onms-fb-dev.dev.nonprod.dataservice.opennms.com
 mi-org2020-qmvlck9.cloud.opennms.com
 drive.opennms.com
 mi-mytestorg-bm9ubb8.cloud.opennms.com
-www.internal.opennms.com
+internal.opennms.com
 bto-dp2-prod.oaaslite.opennms.com
 opennms.internal.opennms.com
 grafana.onms-dp-stg.staging.nonprod.dataservice.opennms.com
@@ -213,7 +213,6 @@ gateway.onms-dp2-dev.staging.nonprod.dataservice.opennms.com
 mail.opennms.com
 lists.opennms.com
 mta04.opennms.com
-internal.opennms.com
 auth.onms-fb-prod.production.prod.dataservice.opennms.com
 flows.onms-dp-prod.production.prod.dataservice.opennms.com
 grafana.onms-dp2-prod.staging.nonprod.dataservice.opennms.com
@@ -226,7 +225,6 @@ video.opennms.com
 info.opennms.com
 ipa03.opennms.com
 mail1.opennms.com
-www.opennms.com
 web01.opennms.com
 argocd.onms-dp-prod.production.prod.dataservice.opennms.com
 grafana.onms-dp2-stg.staging.nonprod.dataservice.opennms.com

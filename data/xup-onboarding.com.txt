@@ -5,8 +5,8 @@ key-elavon.xup-onboarding.com
 demo.xup-onboarding.com
 dev.xup-onboarding.com
 easypay.xup-onboarding.com
-www.online.xup-onboarding.com
-www.online-dev.xup-onboarding.com
+online.xup-onboarding.com
+online-dev.xup-onboarding.com
 hotfix.xup-onboarding.com
 key-hotfix.xup-onboarding.com
 ewbuat.xup-onboarding.com
@@ -16,13 +16,10 @@ elavon-dev.xup-onboarding.com
 miramar.xup-onboarding.com
 tevora.xup-onboarding.com
 ewbprod.xup-onboarding.com
-online.xup-onboarding.com
 ssbprod.xup-onboarding.com
 eastwestbank.xup-onboarding.com
 key-elavon-prod.xup-onboarding.com
-online-dev.xup-onboarding.com
-www.online-pp.xup-onboarding.com
-www.xup-onboarding.com
+online-pp.xup-onboarding.com
 southstatebank.xup-onboarding.com
 pentest.xup-onboarding.com
 logs.xup-onboarding.com
@@ -30,7 +27,6 @@ qa.xup-onboarding.com
 isv-sandbox.xup-onboarding.com
 keyelavon.xup-onboarding.com
 keyelavonprod.xup-onboarding.com
-online-pp.xup-onboarding.com
 ssbuat.xup-onboarding.com
 key.xup-onboarding.com
 eastwestbank-uat.xup-onboarding.com

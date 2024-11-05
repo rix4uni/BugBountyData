@@ -14,16 +14,11 @@ auth.sunyjcc.edu
 jsrvadm01.jccadmin.sunyjcc.edu
 inb02.sunyjcc.edu
 jsrvproxy1.sunyjcc.edu
-www.sunyjcc.edu
 jsrvaca001.jccaca.sunyjcc.edu
-www.ssb02.sunyjcc.edu
 ssb02.sunyjcc.edu
-www.jsrvadm01.jccadmin.sunyjcc.edu
 ssb01.sunyjcc.edu
-www.ssb01.sunyjcc.edu
 campusstore.sunyjcc.edu
 banner.sunyjcc.edu
-www.inb02.sunyjcc.edu
 placementtesting.sunyjcc.edu
 search.credoreference.com.jsrvproxy1.sunyjcc.edu
 mail.sunyjcc.edu
@@ -36,7 +31,7 @@ statabs.proquest.com.jsrvproxy1.sunyjcc.edu
 galesupport.com.jsrvproxy1.sunyjcc.edu
 search-proquest-com.jsrvproxy1.sunyjcc.edu
 tei.sunyjcc.edu
-www.sciencedirect.com.jsrvproxy1.sunyjcc.edu
+sciencedirect.com.jsrvproxy1.sunyjcc.edu
 rss.sunyjcc.edu
 weeksgallery.sunyjcc.edu
 ambassadors.sunyjcc.edu
@@ -45,4 +40,3 @@ vpn.sunyjcc.edu
 jcchelpdesk.sunyjcc.edu
 prodtest.sunyjcc.edu
 emfilter.sunyjcc.edu
-*.sunyjcc.edu

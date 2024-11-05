@@ -1,4 +1,3 @@
-*.oneplus.cn
 account.oneplus.cn
 analytics.oneplus.cn
 api.oneplus.cn
@@ -62,7 +61,6 @@ upload.oneplus.cn
 video.oneplus.cn
 vpn.oneplus.cn
 vpn2.oneplus.cn
-www.oneplus.cn
 auth.oneplus.cn
 inventoryapi.oneplus.cn
 mdm.oneplus.cn
@@ -92,8 +90,8 @@ webdisk.test.oneplus.cn
 weixin.oneplus.cn
 wmsproxy.test.oneplus.cn
 wmsproxyapi.test.oneplus.cn
-www.google.com-adsense-account-start-make-money-online.oneplus.cn
-www.test7.oneplus.cn
+google.com-adsense-account-start-make-money-online.oneplus.cn
+test7.oneplus.cn
 wx.oneplus.cn
 yun.test.oneplus.cn
 go-cname.oneplus.cn
@@ -112,7 +110,6 @@ reviewimgdev.oneplus.cn
 bugsapi.oneplus.cn
 pgerrit.oneplus.cn
 jdb.oneplus.cn
-www.click.oneplus.cn
 csapi2.oneplus.cn
 pcapi.oneplus.cn
 sd818api.oneplus.cn

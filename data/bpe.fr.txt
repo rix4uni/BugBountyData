@@ -28,7 +28,6 @@ eckert.bpe.fr
 final.50.shuf.bpe.fr
 norm.tok.true.bpe.fr
 _predict.tok.true.bpe.fr
-www.bpe.fr
 finetune.iwslt.fr-en.bpe.fr
 ns2-composant.bpe.fr
 trombinoscope.bpe.fr
@@ -47,7 +46,7 @@ w.bpe.fr
 toy.test.bpe.fr
 test.en-fr.bpe.fr
 prefix.tree.bpe.fr
-www.gestion-financiere.bpe.fr
+gestion-financiere.bpe.fr
 ns-web-dmz1.pilote.bpe.fr
 trombinoscope.rec.bpe.fr
 valid0.bpe.fr

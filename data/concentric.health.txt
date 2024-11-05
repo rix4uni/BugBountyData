@@ -34,15 +34,13 @@ concentric-test.dev.concentric.health
 forms.concentric.health
 imperial.concentric.health
 site.web.concentric.health
-www.dev.concentric.health
+dev.concentric.health
 app.dev-next.concentric.health
 app.demo.concentric.health
 site.test.concentric.health
 connector.demo.concentric.health
-www.concentric.health
 admin.dev.concentric.health
 auth.au.concentric.health
-dev.concentric.health
 connector.concentric.health
 connector-service.concentric.health
 monitor.db.concentric.health

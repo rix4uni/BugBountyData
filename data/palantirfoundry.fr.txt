@@ -1,5 +1,4 @@
-*.palantirfoundry.fr
-*.terra.palantirfoundry.fr
+terra.palantirfoundry.fr
 bole.palantirfoundry.fr
 bole-compute.palantirfoundry.fr
 bole-container-registry.palantirfoundry.fr
@@ -37,6 +36,4 @@ rentcortex.palantirfoundry.fr
 seaweed.palantirfoundry.fr
 sg-issues.palantirfoundry.fr
 socgen.palantirfoundry.fr
-terra.palantirfoundry.fr
-www.palantirfoundry.fr
 france-bootcamp.palantirfoundry.fr

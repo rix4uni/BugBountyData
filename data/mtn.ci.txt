@@ -1,4 +1,3 @@
-*.mtn.ci
 4gmap.mtn.ci
 accessbillmanager.mtn.ci
 admin.mtn.ci
@@ -209,13 +208,8 @@ webconf.mtn.ci
 webmail.mtn.ci
 wimax.mtn.ci
 wspushandpull.mtn.ci
-www.mtn.ci
-www.esport.mtn.ci
-www.ewp-test.mobilemoney.mtn.ci
-www.ewp.mobilemoney.mtn.ci
-www.mtnplay.mtn.ci
-www.mtntv.mtn.ci
-www.tournament.mtn.ci
+esport.mtn.ci
+mtntv.mtn.ci
 wwwdr.mtn.ci
 xtratime.mtn.ci
 yellotv.mtn.ci
@@ -259,7 +253,6 @@ smppgestionpro.mtn.ci
 subscrition.gestionpro.mtn.ci
 testengineroom.mtn.ci
 testmomoagent.mtn.ci
-www.demo.mtn.ci
 yelloema.mtn.ci
 yellostartup.mtn.ci
 mtn-go-digital.godigital.mtn.ci

@@ -1,10 +1,8 @@
-*.taralite.com
-*.cp6.taralite.com
+cp6.taralite.com
 account.taralite.com
 admin-api.taralite.com
 api.taralite.com
 blog.taralite.com
-cp6.taralite.com
 dax-app.taralite.com
 dev-faspay.taralite.com
 dev-vcc.taralite.com
@@ -19,7 +17,6 @@ sandbox.taralite.com
 staging.taralite.com
 staging-api.taralite.com
 staging-faspay.taralite.com
-www.taralite.com
 dev.taralite.com
 apigw-prod.taralite.com
 grab-borrower.taralite.com
@@ -38,13 +35,12 @@ webmail.taralite.com
 auth.taralite.com
 dev-admin.taralite.com
 mail.taralite.com
-www.dev-borrowerv2.taralite.com
+dev-borrowerv2.taralite.com
 static.taralite.com
 digisign.dev.taralite.com
 qa2-borrower.taralite.com
 connect.taralite.com
 dev-lender.taralite.com
-www.dev-web.taralite.com
 digisign.taralite.com
 document.taralite.com
 kibana.taralite.com
@@ -187,4 +183,3 @@ los-dashboard-dev.taralite.com
 repayment.uat.taralite.com
 serve.taralite.com
 api._domainkey.taralite.com
-dev-borrowerv2.taralite.com

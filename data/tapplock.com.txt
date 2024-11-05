@@ -23,7 +23,6 @@ help.tapplock.com
 webmail.test.tapplock.com
 cpanel.test.tapplock.com
 autoconfig.mail.tapplock.com
-www.tapplock.com
 go.tapplock.com
 portal.tapplock.com
 mail.mail.tapplock.com
@@ -33,9 +32,5 @@ webmail.tapplock.com
 mail.tapplock.com
 webmail.help.tapplock.com
 support.tapplock.com
-www.mail.tapplock.com
-*.tapplock.com
-www.api.tapplock.com
 _dmarc.tapplock.com
-www.80richmond.tapplock.com
 80richmond.tapplock.com

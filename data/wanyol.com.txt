@@ -1,8 +1,7 @@
-*.wanyol.com
-*.finance-test.wanyol.com
-*.pay-overseas-test.wanyol.com
-*.pay-test.wanyol.com
-*.storage.wanyol.com
+finance-test.wanyol.com
+pay-overseas-test.wanyol.com
+pay-test.wanyol.com
+storage.wanyol.com
 a.feedback1.wanyol.com
 activity.colorostest.wanyol.com
 admin.crm1.wanyol.com
@@ -42,7 +41,6 @@ epoch-test.wanyol.com
 events.wanyol.com
 fast-wallet-test.wanyol.com
 fast-wallet.pay-test.wanyol.com
-finance-test.wanyol.com
 foreign.dc.wanyol.com
 forums-test-gl.wanyol.com
 fs1.storedev.wanyol.com
@@ -114,8 +112,6 @@ opsg-test3statics-gl.wanyol.com
 opsg-test3www.wanyol.com
 osec-ohids-cn-test.wanyol.com
 ostorage1.ocloud-test.wanyol.com
-pay-overseas-test.wanyol.com
-pay-test.wanyol.com
 pay.ucnewtest.wanyol.com
 res-fin-test.pay-test.wanyol.com
 res-fin.pay-test.wanyol.com
@@ -128,7 +124,6 @@ service.cosa.romtest.wanyol.com
 sit-support.wanyol.com
 soloop-test-sg.wanyol.com
 stat-dg-dc-test.wanyol.com
-storage.wanyol.com
 store-test1-a.wanyol.com
 store-test2-c.wanyol.com
 store.storedev.wanyol.com
@@ -166,7 +161,6 @@ wallet-relayserver-cn-test01.wanyol.com
 wallet.pay-test.wanyol.com
 wealth-fin-dev.pay-test.wanyol.com
 wealth-fin.pay-test.wanyol.com
-www.wanyol.com
 wxtest.wanyol.com
 0-demo.search-test.wanyol.com
 00b79.search-test.wanyol.com
@@ -11878,9 +11872,8 @@ www-test-salesbetatemp-exchangedns.search-test.wanyol.com
 www-test-tginsburg-at-tesla-com.search-test.wanyol.com
 www-usf4.search-test.wanyol.com
 www-xe-2-0-2.search-test.wanyol.com
-www.colorostest.wanyol.com
-www.google.com-conn5-origin-363da1.gitlabrepotestapi-oedgetest.emea-fw.old.wanyol.com
-www.search-test.wanyol.com
+google.com-conn5-origin-363da1.gitlabrepotestapi-oedgetest.emea-fw.old.wanyol.com
+search-test.wanyol.com
 www0-db2-corp.search-test.wanyol.com
 www01-static-clients-stats-corp.search-test.wanyol.com
 www01ns4.search-test.wanyol.com

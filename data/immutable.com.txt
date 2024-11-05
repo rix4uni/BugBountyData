@@ -33,7 +33,6 @@ magic-transfer.ropsten.immutable.com
 magic.games.immutable.com
 api.stage.mgmt.immutable.com
 beta.docs.x.immutable.com
-www.immutable.com
 rpc.dev.immutable.com
 stage.immutable.com
 api-s5t.immutable.com
@@ -193,19 +192,4 @@ api.segment.sandbox.games.immutable.com
 commerce.dev.immutable.com
 l.marketing.immutable.com
 toolkit.immutable.com
-*.sandbox.x.immutable.com
 l.passport.immutable.com
-*.dev.immutable.com
-*.commerce.dev.immutable.com
-*.dev.x.immutable.com
-*.hub.dev.immutable.com
-*.wallets.dev.immutable.com
-*.immutable.com
-*.hub.immutable.com
-*.wallets.immutable.com
-*.x.immutable.com
-*.commerce.immutable.com
-*.sandbox.immutable.com
-*.commerce.sandbox.immutable.com
-*.hub.sandbox.immutable.com
-*.wallets.sandbox.immutable.com

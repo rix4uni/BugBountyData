@@ -1,18 +1,16 @@
-*.space.commerce.gov
-*.ea.commerce.gov
-*.hr.commerce.gov
-*.connection.commerce.gov
+space.commerce.gov
+ea.commerce.gov
+hr.commerce.gov
+connection.commerce.gov
 beta.w1.space.commerce.gov
-*.beta.w1.space.commerce.gov
-*.learning.commerce.gov
-*.d.commerce.gov
-*.data.commerce.gov
-*.learn.commerce.gov
-*.e-learning.commerce.gov
-*.commerce.gov
-*.eas.commerce.gov
+learning.commerce.gov
+d.commerce.gov
+data.commerce.gov
+learn.commerce.gov
+e-learning.commerce.gov
+eas.commerce.gov
 login.csc.eas.commerce.gov
-*.camsic.commerce.gov
+camsic.commerce.gov
 arun-docdrupal8-762-commerce8.d.commerce.gov
 _dmarc.pre-prod-commerce.d.commerce.gov
 az-edit.ogc.commerce.gov
@@ -32,7 +30,6 @@ vijaya-docdrupal8-877-commerce8.d.commerce.gov
 dave-cldp-162-cldp9.d.commerce.gov
 vijaya-mbda8-148-mbda8.d.commerce.gov
 kai-docdrupal8-727-commerce8.d.commerce.gov
-d.commerce.gov
 dave-cc-296-ocio7.d.commerce.gov
 ets2tst.eas.commerce.gov
 kai-cldp9-148-cldp9.d.commerce.gov
@@ -59,7 +56,6 @@ arun-cc-staff64-cc7.d.commerce.gov
 edgar-mbda9-291-mbda9.d.commerce.gov
 jm-eda-170-eda9.d.commerce.gov
 vijaya-cldp-14a-cldp8.d.commerce.gov
-www.commerce.gov
 vijaya-docdrupal8-775-commerce8.d.commerce.gov
 dave-docdrupal8-808-commerce8.d.commerce.gov
 dave-commerce9-1019-commerce9.d.commerce.gov
@@ -170,7 +166,6 @@ dave-cc-302-cc7.d.commerce.gov
 az-mm.commerce.gov
 crequestcensusdr.eas.commerce.gov
 az-citrb.commerce.gov
-camsic.commerce.gov
 ansible-test-eda.d.commerce.gov
 dave-cldp-133-cldp9.d.commerce.gov
 dave-cldp-69-cldp8.d.commerce.gov
@@ -295,7 +290,6 @@ dave-citrb-57-citrb7.d.commerce.gov
 kai-cldp8-11-cldp8.d.commerce.gov
 zeva1-a.eas.commerce.gov
 dave-citrb-40-citrb7.d.commerce.gov
-connection.commerce.gov
 ak-eda-225-eda9.d.commerce.gov
 dave-commerce-1035-commerce9.d.commerce.gov
 ets2_test.eas.commerce.gov
@@ -341,7 +335,6 @@ arun-docdrupal8-783a-commerce8.d.commerce.gov
 mpentela-eda-141-eda9.d.commerce.gov
 survey.my.commerce.gov
 vijaya-mbda8-246-mbda8.d.commerce.gov
-hr.commerce.gov
 _dmarc.dave-docdrupal8-26-commerce8.d.commerce.gov
 arun-cdod9-161-cdo9.d.commerce.gov
 dave-authenticator-229-authenticator8.d.commerce.gov
@@ -376,7 +369,6 @@ processtoolboxdt.eas.commerce.gov
 vijaya-docdrupal8-830-commerce8.d.commerce.gov
 vijaya-mbda8-235-mbda8.d.commerce.gov
 dave-docdrupal8-58-commerce8.d.commerce.gov
-www.hr.commerce.gov
 _dmarc.dev.socmed.d.commerce.gov
 dave-docdrupal8-705-commerce8.d.commerce.gov
 denneson-mbda7-227-mbda7.d.commerce.gov
@@ -440,7 +432,6 @@ sriram-cicd-test-cc7.d.commerce.gov
 stan-mbda8-116-mbda8.d.commerce.gov
 vijaya-mbda8-207b-mbda8.d.commerce.gov
 dave-d7-323-medweek7.d.commerce.gov
-www.d.commerce.gov
 vijaya-mbda8-289-mbda8.d.commerce.gov
 vijaya-mbda9-353-mbda9.d.commerce.gov
 vminetdt.eas.commerce.gov
@@ -565,7 +556,7 @@ dave-docdrupal8-630-commerce8.d.commerce.gov
 eda-196.d.commerce.gov
 sriram-cicd-test-mbda7.d.commerce.gov
 dave-docdrupal8-823-commerce8.d.commerce.gov
-www.travel.cds.commerce.gov
+travel.cds.commerce.gov
 denneson-mbda8-188-mbda8.d.commerce.gov
 eda-d9.d.commerce.gov
 kai-cdo9-151-cdo9.d.commerce.gov
@@ -651,13 +642,11 @@ arun-docdrupal9-1025-commerce9.d.commerce.gov
 jm-eda-163-eda9.d.commerce.gov
 vijaya-mbda8-141-mbda8.d.commerce.gov
 vijaya-test-commerce8.d.commerce.gov
-www.daa.commerce.gov
 cscvpn.camsic.commerce.gov
 jim-cldp-83-cldp8.d.commerce.gov
 kai-cldp8-59a-cc8.d.commerce.gov
 mpentela-eda-208-eda9.d.commerce.gov
 stillwater-tibco.eas.commerce.gov
-learning.commerce.gov
 _dmarc.dev.mbda.d.commerce.gov
 dave-cldp-19-cldp8.d.commerce.gov
 edgarp-cdod9-cdo9.d.commerce.gov
@@ -705,7 +694,6 @@ ansible-test-portainer.d.commerce.gov
 dave-cldp-auth237-cldp8.d.commerce.gov
 dave-docdrupal8-637-commerce8.d.commerce.gov
 sayyagari-cdod9-79-cdo9.d.commerce.gov
-travel.cds.commerce.gov
 ets2nisttest.eas.commerce.gov
 arun-cc-380-cc7.d.commerce.gov
 dave-cldp-10b-cldp8.d.commerce.gov
@@ -800,7 +788,6 @@ dave-docdrupal8-616-commerce8.d.commerce.gov
 dave-docdrupal8-932-commerce8.d.commerce.gov
 kai-docdrupal9-6-commerce9.d.commerce.gov
 sriram-cicd-test-authenticator8.d.commerce.gov
-ea.commerce.gov
 15-create-a-help-page-for-users-staff.d.commerce.gov
 vijaya-mbda8-172-mbda8.d.commerce.gov
 _dmarc.vijaya-socmed-135-socmed.d.commerce.gov
@@ -884,7 +871,6 @@ ohrmdt.eas.commerce.gov
 arun-docdrupal8-646-commerce8.d.commerce.gov
 vijaya-mbda8-257-mbda8.d.commerce.gov
 vijaya-mbda8-195a-mbda8.d.commerce.gov
-www.space.commerce.gov
 noaa.data.commerce.gov
 denneson-mbda8-203-mbda8.d.commerce.gov
 dave-docdrupal8-804-commerce8.d.commerce.gov
@@ -942,7 +928,6 @@ edit.commerce.gov
 dave-d7-419-cc7.d.commerce.gov
 sandtibco.eas.commerce.gov
 dave-d7-335-ocio7.d.commerce.gov
-eas.commerce.gov
 arun-cldp-125-cldp8.d.commerce.gov
 arun-docdrupal8-783-commerce8.d.commerce.gov
 dave-d7-317-cc7.d.commerce.gov
@@ -1086,7 +1071,6 @@ sriram-cicd-test-commerce8.d.commerce.gov
 sunflowertst.adhoc.eas.commerce.gov
 sunflowerprd.eas.commerce.gov
 crescentandfull.estdtos.eas.commerce.gov
-www.ea.commerce.gov
 arun-cc-368-cc7.d.commerce.gov
 arun-cdo-62-cdo9.d.commerce.gov
 dave-cldp-132-cldp9.d.commerce.gov
@@ -1148,7 +1132,6 @@ osec-196.d.commerce.gov
 sriram-cicd-test-citrb7.d.commerce.gov
 vijaya-mbda8-15-mbda8.d.commerce.gov
 vijaya-mbda8-157-mbda8.d.commerce.gov
-space.commerce.gov
 ets2prodcensus.eas.commerce.gov
 dave-d7-343-cc7.d.commerce.gov
 dave-ocio-285-ocio7.d.commerce.gov
@@ -1197,7 +1180,6 @@ cbscomprizon.eas.commerce.gov
 kai-mbda8-46c-mbda8.d.commerce.gov
 vijaya-mbda8-159-mbda8.d.commerce.gov
 vijaya-mbda8-97-mbda8.d.commerce.gov
-e-learning.commerce.gov
 dave-cc-337-cc7.d.commerce.gov
 dave-mbda8-913-mbda8.d.commerce.gov
 vijaya-mbda8-74-mbda8.d.commerce.gov
@@ -1318,11 +1300,9 @@ kai-mbda8-272-mbda8.d.commerce.gov
 kai-mbda8-78-mbda8.d.commerce.gov
 stg-commerce9.d.commerce.gov
 vijaya-mbda8-72-mbda8.d.commerce.gov
-www.daadt.commerce.gov
 jim-cldp-71-cldp8.d.commerce.gov
 api.commerce.gov
 kai-docdrupal8-602-commerce8.d.commerce.gov
-learn.commerce.gov
 kai-docdrupal8-873-commerce8.d.commerce.gov
 vijaya-mbda9-321-mbda9.d.commerce.gov
 kai-cldp9-159-cldp9.d.commerce.gov
@@ -1351,7 +1331,6 @@ dennis-keycloak-saml-commerce8.d.commerce.gov
 dave-docdrupal8-889-commerce8.d.commerce.gov
 _dmarc.dave-socmed-72-socmed.d.commerce.gov
 stan-docdrupal8-597-commerce8.d.commerce.gov
-data.commerce.gov
 stg-ogc7.d.commerce.gov
 arun-docdrupal8-702-commerce8.d.commerce.gov
 arun-docdrupal8-717-commerce8.d.commerce.gov

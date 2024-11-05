@@ -1,7 +1,6 @@
 app.checkoutblocks.com
 staging.app.checkoutblocks.com
 api.checkoutblocks.com
-www.checkoutblocks.com
 cart-proxy.checkoutblocks.com
 edge.api.checkoutblocks.com
 demo.checkoutblocks.com
@@ -13,4 +12,3 @@ edge.events.checkoutblocks.com
 marketing.checkoutblocks.com
 legal.checkoutblocks.com
 try.checkoutblocks.com
-*.checkoutblocks.com

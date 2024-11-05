@@ -1,4 +1,3 @@
-*.weblate.org
 benjamin.weblate.org
 betaweb.weblate.org
 cachet.weblate.org
@@ -22,7 +21,6 @@ statping.weblate.org
 status.weblate.org
 status2.weblate.org
 support.weblate.org
-www.weblate.org
 zammad.weblate.org
 _dmarc.weblate.org
 mail.weblate.org

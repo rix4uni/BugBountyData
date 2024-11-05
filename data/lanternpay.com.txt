@@ -199,7 +199,7 @@ api.notificationhub.qa.test.lanternpay.com
 api.emailscore.acceptance.test.lanternpay.com
 ws.terminalsgateway.sandbox.lanternpay.com
 privateapi.auth.plat-qa.test.lanternpay.com
-www.plat-qa.test.lanternpay.com
+plat-qa.test.lanternpay.com
 api.tac.lanternpay.com
 api.ndia.sandbox.lanternpay.com
 auth.uat.test.lanternpay.com
@@ -300,7 +300,6 @@ claiming-portal.api.integration.test.lanternpay.com
 api.providers.tac.lanternpay.com
 api.payments.itops-qa.test.lanternpay.com
 api.ecommerce.lanternpay.com
-www.lanternpay.com
 albecs.lanternpay.com
 api.auth.qa.test.lanternpay.com
 api.notificationhub.acceptance.test.lanternpay.com
@@ -383,7 +382,6 @@ itops-qa-aces-pmib-web-alb.test.lanternpay.com
 api.billing.plat-qa.test.lanternpay.com
 es.integration.test.lanternpay.com
 providers.api.aces-3620.test.lanternpay.com
-plat-qa.test.lanternpay.com
 api.providers.plat-qa.test.lanternpay.com
 api.programs.integration.test.lanternpay.com
 api.auth.sandbox.lanternpay.com

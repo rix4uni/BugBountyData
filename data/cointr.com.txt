@@ -26,9 +26,7 @@ stream-cf.cointr.com
 websocket.cointr.com
 intranet.cointr.com
 ns1.cointr.com
-www.cointr.com
 track01.send004.cointr.com
-*.cointr.com
 ww2.cointr.com
 mx.cointr.com
 mx5.cointr.com
@@ -66,8 +64,8 @@ mailserver.cointr.com
 pluto.cointr.com
 cache.cointr.com
 apple.cointr.com
-www.gallery.cointr.com
-www.staging.cointr.com
+gallery.cointr.com
+staging.cointr.com
 int.cointr.com
 mx0.cointr.com
 mailin.cointr.com
@@ -85,7 +83,6 @@ webdisk.demo.cointr.com
 webmaster.cointr.com
 mx3.cointr.com
 smtps.cointr.com
-www.crm.cointr.com
 adm.cointr.com
 srv2.cointr.com
 pop3.cointr.com
@@ -162,7 +159,7 @@ tw.cointr.com
 board.cointr.com
 omah.cointr.com
 ftas.cointr.com
-www.mail.cointr.com
+mail.cointr.com
 _bimi.cointr.com
 mail5.cointr.com
 community.cointr.com
@@ -174,7 +171,6 @@ ns7.cointr.com
 sdfsd.cointr.com
 email.cointr.com
 dir.cointr.com
-www.shop.cointr.com
 smtpauth.cointr.com
 smtpseguro.cointr.com
 hstntx.cointr.com
@@ -199,7 +195,6 @@ om.cointr.com
 mail.comune.cointr.com
 zz.cointr.com
 core.cointr.com
-mail.cointr.com
 win.cointr.com
 amedd.cointr.com
 outmail.cointr.com
@@ -259,7 +254,7 @@ mail9.cointr.com
 tiger.cointr.com
 web2.cointr.com
 images8.cointr.com
-www.forums.cointr.com
+forums.cointr.com
 sntcca.cointr.com
 wallet.cointr.com
 pt.cointr.com

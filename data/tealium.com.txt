@@ -1,4 +1,3 @@
-*.tealium.com
 beta-education.tealium.com
 blog.tealium.com
 cms-staging.tealium.com
@@ -35,9 +34,6 @@ videos.tealium.com
 vulnmgr.tealium.com
 vulnmgr-internal.tealium.com
 wpmedia.tealium.com
-www.tealium.com
-www.education.tealium.com
-www.utui.tealium.com
 aws.tealium.com
 cdn.tealium.com
 enterpriseenrollment.tealium.com

@@ -110,7 +110,6 @@ certs.swm.de
 bg-i.muenchen.swm.de
 jobs-k.swm.de
 ovoc-cqd.swm.de
-www.extra.swm.de
 payment-backend.app.swm.de
 m-pay.azrapp.swm.de
 xrechnung-lwx.swm.de
@@ -236,7 +235,6 @@ sadb-i.muenchen.swm.de
 chatgpt-api.web.azr.swm.de
 meine-dev.swm.de
 nlb.ninjas.awsapp.swm.de
-www.swm.de
 cloud.swm.de
 app.vcloud-network.azrapp.swm.de
 bg-author-i.muenchen.swm.de
@@ -263,13 +261,12 @@ mako-mui.swm.de
 ninjas.awsapp.swm.de
 incubation.azrapp.swm.de
 orte-k.muenchen.swm.de
-www.m-card.swm.de
+m-card.swm.de
 energieatlas-dp.app.swm.de
 azure-agw-test.swm.de
 isspk-facade-prod.web.azrapp.swm.de
 asip-mobi.swm.de
 direktvermarktung.apps.swm.de
-m-card.swm.de
 beauskunftung-gateway-prod.web.azrapp.swm.de
 kotlindemo.swm.de
 as2.swm.de
@@ -326,7 +323,6 @@ odoo-pilot.dev.azrapp-non-prod.swm.de
 dsms-k.swm.de
 isspk-container-apps.dev.azrapp-non-prod.swm.de
 ww.swm.de
-www.crowdfunding.swm.de
 accessgw.swm.de
 intranet.swm.de
 nlb.ninjas.dev.awsapp-non-prod.swm.de

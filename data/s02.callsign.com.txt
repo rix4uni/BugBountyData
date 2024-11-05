@@ -106,7 +106,7 @@ get-callsign-com.acc.0-begin.cdn.k8s-aws-eu-west-245.s02.callsign.com
 20040302.0-begin537.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-basic-200502063rd-parties.cdn.k8s-aws-eu-west-245.s02.callsign.com
 223-request.0-begin-20020501.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.care.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
+care.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-basic-2904-00-tc-15173rod.cdn.k8s-aws-eu-west-245.s02.callsign.com
 223-request.0-begin-74093656.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-combination-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -430,7 +430,7 @@ j11s95b54wyzxgff.0-beginacceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-00-tc-312304-87-3-int-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-basic-3-converge-3rd-parties.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begin11-s00105-trees.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.18.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
+18.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-00-tc-download-04-less-int-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begin-19xprod-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-beginacceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -1411,7 +1411,7 @@ acc.0-basic.cdn.k8s-aws-eu-west-245.s02.callsign.com
 2012-prod.0-begin-20121022.cdn.k8s-aws-eu-west-245.s02.callsign.com
 bucket.0-basic2compute.cdn.k8s-aws-eu-west-245.s02.callsign.com
 20020501.0-email-signup-form.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.vidyo.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
+vidyo.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 820-prod.0-basic-a06asyncawait.cdn.k8s-aws-eu-west-245.s02.callsign.com
 choi60232.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-begin-20050206.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -1471,7 +1471,7 @@ groups.s02.callsign.com
 0-begin-19xprodaccount.cdn.k8s-aws-eu-west-245.s02.callsign.com
 820-prod.0-basic15bc2-prod.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-20020501-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.fcc.s02.callsign.com
+fcc.s02.callsign.com
 0-basic21x21-reda1629614474.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begin201302262012-prod.cdn.k8s-aws-eu-west-245.s02.callsign.com
 ctgbyje0ip1up1xi.0-basic-38ceb-sdk.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -1687,7 +1687,7 @@ ew53680r9akk8t.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-basic7-snake-game-0-sas-stuff05-trees.cdn.k8s-aws-eu-west-245.s02.callsign.com
 00-tc-7bkprod.0-basica2099332338.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begina2235820771-820-prod.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.karma.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
+karma.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-begin-2037-devsummit-245-get-callsign-com.cdn.k8s-aws-eu-west-245.s02.callsign.com
 74hc595.0-email-signup-form.cdn.k8s-aws-eu-west-245.s02.callsign.com
 2262.0-basic-55210709.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -2736,7 +2736,7 @@ a7545242280.0-begin.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begin5521070905-standard.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-00-tc-19057-60-4-int-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-basicacc00-tc-25052017.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.artotheque.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
+artotheque.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-begin-05-trees00-tc-15173rod.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-0-basicacc-int-account.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begin7937871488223-request.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -3269,7 +3269,7 @@ get-callsign-com.16.0-email-signup-form.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begin-sdk-20040302.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-begina3305764662012-prod.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-basic-sdk-2262.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.apaches.k12.chris.wanstrath.antivirus.co.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
+apaches.k12.chris.wanstrath.antivirus.co.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-basic1481603-1-42262.cdn.k8s-aws-eu-west-245.s02.callsign.com
 00-tc-15173rod.0-basic-3978.cdn.k8s-aws-eu-west-245.s02.callsign.com
 2262.0-begin-41p-prod.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -3369,7 +3369,6 @@ web989.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-0-beginaccount-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
 vyl3iiinzi8y8ral.0-basic-11775web-sdk.cdn.k8s-aws-eu-west-245.s02.callsign.com
 00-tc-15173rod.0-begin16435215.cdn.k8s-aws-eu-west-245.s02.callsign.com
-www.s02.callsign.com
 0-basic-10401-a1629614474.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-0-static-int-2012-prod-acceptor.cdn.k8s-aws-eu-west-245.s02.callsign.com
 3rd-parties.0-begin-1481603-1-4.cdn.k8s-aws-eu-west-245.s02.callsign.com
@@ -4638,7 +4637,7 @@ cuv.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-begin-000houseaccount.cdn.k8s-aws-eu-west-245.s02.callsign.com
 0-basic-2-bucket-00-ingressaccount.cdn.k8s-aws-eu-west-245.s02.callsign.com
 winkel.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
-www.tutos.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
+tutos.blue.cositeuw1.eu-west-1.internal.s02.callsign.com
 0-begin000house05-trees.cdn.k8s-aws-eu-west-245.s02.callsign.com
 l342z7owipcn5noxcv5hpaoirhormsy7._domainkey.s02.callsign.com
 00-tc-24-aarch64.0-basic10401.cdn.k8s-aws-eu-west-245.s02.callsign.com

@@ -1,8 +1,7 @@
-*.mssm.edu
-*.dmz.hpc.mssm.edu
-*.eresources.mssm.edu
-*.hpc.mssm.edu
-*.icahn.mssm.edu
+dmz.hpc.mssm.edu
+eresources.mssm.edu
+hpc.mssm.edu
+icahn.mssm.edu
 100.eb-13.mssm.edu
 101.eb-13.mssm.edu
 102.eb-13.mssm.edu
@@ -601,7 +600,6 @@ directory.mssm.edu
 discourse.gradschool.mssm.edu
 dm.radiology.mssm.edu
 dmc.icahn.mssm.edu
-dmz.hpc.mssm.edu
 dmzspeed.mssm.edu
 dns01.mssm.edu
 dns02.mssm.edu
@@ -672,7 +670,6 @@ eresearch.mssm.edu
 eresearch-new.mssm.edu
 eresearch-orig.mssm.edu
 eresearchstage.mssm.edu
-eresources.mssm.edu
 eresources-old.mssm.edu
 eresources.library.mssm.edu
 eresources02.mssm.edu
@@ -810,14 +807,12 @@ hobacks.neuro.mssm.edu
 hoffmg01.hpc.mssm.edu
 home-health.imss.mssm.edu
 housestaff.mssm.edu
-hpc.mssm.edu
 hubsrvr.imss.mssm.edu
 hybridmssm.mssm.edu
 hybridmssm-dcs.mssm.edu
 hyperion.bronx-va.mssm.edu
 iattend.mssm.edu
 ibd.med.mssm.edu
-icahn.mssm.edu
 ichan.mssm.edu
 id.mssm.edu
 ideate.mssm.edu
@@ -1593,86 +1588,12 @@ ws6.med.mssm.edu
 wtcdcc.mssm.edu
 wtcdcc-websrv-01.mssm.edu
 wtctherapy-web01.mssm.edu
-www.mssm.edu
 www-b.backup.mssm.edu
 www-backup-b.backup.mssm.edu
 www-backup-rib.mssm.edu
 www-ncbi-nlm-nih-gov.eresources.mssm.edu
 www-nejm-org.eresources.mssm.edu
 www-science-org.eresources.mssm.edu
-www.ai-ecg.mssm.edu
-www.airms.mssm.edu
-www.airms-hanacockpit.mssm.edu
-www.airms-nifi.mssm.edu
-www.airms-sandbox.mssm.edu
-www.airms-sql-001.mssm.edu
-www.airms-staging.mssm.edu
-www.alumnilibrary.mssm.edu
-www.applygs.mssm.edu
-www.bakellab.mssm.edu
-www.bings.mssm.edu
-www.bmeii-ev-xnat-18-web.mssm.edu
-www.bmeii-flywheel.mssm.edu
-www.ccmswao.mssm.edu
-www.chief.mssm.edu
-www.cvri-intranet.mssm.edu
-www.deepfigv.mssm.edu
-www.discourse.gradschool.mssm.edu
-www.echo-ess.mssm.edu
-www.eolas.mssm.edu
-www.eresearch.mssm.edu
-www.eresearchstage.mssm.edu
-www.eresources.library.mssm.edu
-www.exchange.mssm.edu
-www.exposome-watch.mssm.edu
-www.gambit-study.mssm.edu
-www.geospatial.mssm.edu
-www.gradschool.mssm.edu
-www.gumuslab.mssm.edu
-www.hana-ba1.mssm.edu
-www.hana-pa1.mssm.edu
-www.hana-pa2.mssm.edu
-www.hana-sa1.mssm.edu
-www.hpc.mssm.edu
-www.iattend.mssm.edu
-www.icahn.mssm.edu
-www.immuneregulation.mssm.edu
-www.iroq.mssm.edu
-www.labs.neuroscience.mssm.edu
-www.learningspace.mssm.edu
-www.levyprint.mssm.edu
-www.librarycf.mssm.edu
-www.libraryprint.mssm.edu
-www.lyris.mssm.edu
-www.mail.mssm.edu
-www.mssm-archives.mssm.edu
-www.myeloma.mssm.edu
-www.ndddbdev.mssm.edu
-www.nddetl02.mssm.edu
-www.neurodevdb.mssm.edu
-www.online.mssm.edu
-www.pathogendb.mssm.edu
-www.pintolab04.mssm.edu
-www.portalintdev.mssm.edu
-www.profileronline.mssm.edu
-www.psp.mssm.edu
-www.pspshiny.mssm.edu
-www.redcap.mssm.edu
-www.redcap03.mssm.edu
-www.retention.mssm.edu
-www.sap.mssm.edu
-www.scbeta.mssm.edu
-www.server.webcommons.mssm.edu
-www.silvermanmds.mssm.edu
-www.sinaicentral.mssm.edu
-www.teachmeded.mssm.edu
-www.tmii-flywheel.mssm.edu
-www.valt.mssm.edu
-www.vmpath.mssm.edu
-www.vpn-backup.mssm.edu
-www.vpn.bsckup.mssm.edu
-www.wellnesshub-services.mssm.edu
-www.wtcdcc.mssm.edu
 xinspire.mssm.edu
 xioniti01.u.hpc.mssm.edu
 xrf2.bsb.mssm.edu
@@ -1687,7 +1608,6 @@ zen.cns.mssm.edu
 zhangz05.u.hpc.mssm.edu
 dqd.airms-sandbox.mssm.edu
 idp.airms-sandbox.mssm.edu
-*.u.hpc.mssm.edu
 cancer-clinician.mssm.edu
 dataarkforms.hpc.mssm.edu
 eresearch-old.mssm.edu
@@ -1744,7 +1664,6 @@ vanbah01.dmz.hpc.mssm.edu
 wangm05.dmz.hpc.mssm.edu
 wangy33.dmz.hpc.mssm.edu
 watanh02.dmz.hpc.mssm.edu
-www.dmz.hpc.mssm.edu
 19.eresources.mssm.edu
 12p7-gov.eresources.mssm.edu
 16eebf97.eresources.mssm.edu
@@ -1881,7 +1800,7 @@ jle.com.200.eresources.mssm.edu
 diabetesjournals.199-org.eresources.mssm.edu
 0a-www-clinicalkey-com.eresources.mssm.edu
 apps.webofknowledge.13com.eresources.mssm.edu
-www.jbc.175org.eresources.mssm.edu
+jbc.175org.eresources.mssm.edu
 tx.ovid.186-com.eresources.mssm.edu
 202.eresources.mssm.edu
 1105a-www-google-com.eresources.mssm.edu
@@ -1927,7 +1846,7 @@ annals.183org.eresources.mssm.edu
 10p9-mountsinai-worldcat-org.eresources.mssm.edu
 02a-int.eresources.mssm.edu
 210-84-journals-plos-org.eresources.mssm.edu
-www.jle.com.129.eresources.mssm.edu
+jle.com.129.eresources.mssm.edu
 content.10028-6574wwwac-els-cdn-com.eresources.mssm.edu
 10027-6574wwwonlinelibrary-wiley-com.eresources.mssm.edu
 11baasldpubs-onlinelibrary-wiley-com.eresources.mssm.edu
@@ -1973,7 +1892,7 @@ aac.asm.org.206.eresources.mssm.edu
 1425mad-mountsinai-worldcat-org.eresources.mssm.edu
 20c2-journals-sagepub-com.eresources.mssm.edu
 13c1novel-coronavirus-onlinelibrary-wiley-com.eresources.mssm.edu
-www.ajhp.org.1.eresources.mssm.edu
+ajhp.org.1.eresources.mssm.edu
 10029-6573www-jcr2-clarivate-com.eresources.mssm.edu
 10awww-ahajournals-org.eresources.mssm.edu
 01www-nejm-org.eresources.mssm.edu
@@ -2007,7 +1926,7 @@ em7722.mssm.edu
 17-121-115-73.eresources.mssm.edu
 0cwww-uptodate-com.eresources.mssm.edu
 10baasldpubs-onlinelibrary-wiley-com.eresources.mssm.edu
-www.sciencedirect.126com.eresources.mssm.edu
+sciencedirect.126com.eresources.mssm.edu
 journals.sagepub.01-com.eresources.mssm.edu
 1104a-robotics-sciencemag-org.eresources.mssm.edu
 13d-pubmed-ncbi-nlm-nih-gov.eresources.mssm.edu
@@ -2244,7 +2163,7 @@ jpgmonline.213com.eresources.mssm.edu
 1e-doi-org.eresources.mssm.edu
 207-84-www-ahrq-gov.eresources.mssm.edu
 13p7novel-coronavirus-onlinelibrary-wiley-com.eresources.mssm.edu
-www.ajronline.133org.eresources.mssm.edu
+ajronline.133org.eresources.mssm.edu
 bjj.boneandjoint.org.126uk.eresources.mssm.edu
 10a-org.eresources.mssm.edu
 10c7-aasldpubs-onlinelibrary-wiley-com.eresources.mssm.edu
@@ -2274,7 +2193,7 @@ ascit-old.mssm.edu
 12p12www-ajronline-org.eresources.mssm.edu
 10028-6574wwwac-els-cdn-comlogs.eresources.mssm.edu
 118.eresources.mssm.edu
-www.jstor.org.212.eresources.mssm.edu
+jstor.org.212.eresources.mssm.edu
 s3.17a-ac-els-cdn-com.eresources.mssm.edu
 wildcardsubdomaintoprocess.mhmedical.115com.eresources.mssm.edu
 search-proquest-com.115.eresources.mssm.edu
@@ -2529,7 +2448,6 @@ onlinelibrary.wiley.161-com.eresources.mssm.edu
 dbx.mssm.edu
 accp1.onlinelibrary.wiley.109-com.eresources.mssm.edu
 10029-6576www-www-ncbi-nlm-nih-gov.eresources.mssm.edu
-ajronline.133org.eresources.mssm.edu
 1422mad-ajph-aphapublications-org.eresources.mssm.edu
 175-com.eresources.mssm.edu
 13d-www-science-org.eresources.mssm.edu
@@ -2578,7 +2496,7 @@ mssm.135-edu.eresources.mssm.edu
 sagepub.147com.eresources.mssm.edu
 1109aorg.eresources.mssm.edu
 us-west-2.210-84www-nejm-org.eresources.mssm.edu
-www.bloodjournal.118org.eresources.mssm.edu
+bloodjournal.118org.eresources.mssm.edu
 02bcom.eresources.mssm.edu
 batesvisualguide.com.206.eresources.mssm.edu
 10028-6574wwwac-els-cdn-commarket.eresources.mssm.edu
@@ -2653,7 +2571,7 @@ cms1.11p11www-tandfonline-com.eresources.mssm.edu
 1104a-jme-bmj-com.eresources.mssm.edu
 13edoi-org.eresources.mssm.edu
 1424mad-journals-sagepub-com.eresources.mssm.edu
-www.jbc.org.126.eresources.mssm.edu
+jbc.org.126.eresources.mssm.edu
 em22.mssm.edu
 conf.1105a-academic-oup-com.eresources.mssm.edu
 206-84alz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
@@ -2802,7 +2720,6 @@ opioidmanagement.0-com.eresources.mssm.edu
 16aerj-ersjournals-com.eresources.mssm.edu
 016b315l3cpzua4a.eresources.mssm.edu
 13b-novel-coronavirus-onlinelibrary-wiley-com.eresources.mssm.edu
-www.jle.com.200.eresources.mssm.edu
 10p7-www-dynamed-com.eresources.mssm.edu
 13b-jcr2-clarivate-com.eresources.mssm.edu
 12p7-novel-coronavirus-onlinelibrary-wiley-com.eresources.mssm.edu
@@ -2811,7 +2728,7 @@ wildcardsubdomaintoprocess.202org.eresources.mssm.edu
 10c3www-nejm-org.eresources.mssm.edu
 www-science-org.163.eresources.mssm.edu
 191-libguides-mssm-edu.eresources.mssm.edu
-www.jbc.org.210.eresources.mssm.edu
+jbc.org.210.eresources.mssm.edu
 10borg.eresources.mssm.edu
 198-pubmed-ncbi-nlm-nih-gov.eresources.mssm.edu
 12p12jcr2-clarivate-com.eresources.mssm.edu
@@ -2834,7 +2751,7 @@ web.b.ebscohost.com.161.eresources.mssm.edu
 elogin.opioidmanagement.153com.eresources.mssm.edu
 126org.eresources.mssm.edu
 02cwww-science-org.eresources.mssm.edu
-www.sciencedirect.189com.eresources.mssm.edu
+sciencedirect.189com.eresources.mssm.edu
 1428mad-www-acpjournals-org.eresources.mssm.edu
 wildcardsubdomaintoprocess.158com.eresources.mssm.edu
 org.212.eresources.mssm.edu
@@ -2882,7 +2799,6 @@ ebscohost.com.191.eresources.mssm.edu
 13ajamanetwork-com.eresources.mssm.edu
 a.ebscohost.183com.eresources.mssm.edu
 plugins.1105a-academic-oup-com.eresources.mssm.edu
-www.nature.186com.eresources.mssm.edu
 10a-jme-bmj-com.eresources.mssm.edu
 www-ncbi-nlm-nih-gov.1.eresources.mssm.edu
 11p11www-karger-com.eresources.mssm.edu
@@ -2927,7 +2843,6 @@ bloodjournal.109-org.eresources.mssm.edu
 13-anbg11-24a.eresources.mssm.edu
 13c6-www-ahrq-gov.eresources.mssm.edu
 119-www-liebertpub-com.eresources.mssm.edu
-jbc.175org.eresources.mssm.edu
 10ees.eresources.mssm.edu
 org.167.eresources.mssm.edu
 189-35.eresources.mssm.edu
@@ -2939,7 +2854,7 @@ org.167.eresources.mssm.edu
 partner.210-84www-nejm-org.eresources.mssm.edu
 1d-journals-plos-org.eresources.mssm.edu
 sagepub.198com.eresources.mssm.edu
-www.jpgmonline.1com.eresources.mssm.edu
+jpgmonline.1com.eresources.mssm.edu
 10029-6572wwwjcr2-clarivate-com.eresources.mssm.edu
 11ewww-cochranelibrary-com.eresources.mssm.edu
 0c-jcr2-clarivate-com.eresources.mssm.edu
@@ -2967,7 +2882,7 @@ stage.17a-ac-els-cdn-com.eresources.mssm.edu
 bmj.01com.eresources.mssm.edu
 12p7www-tandfonline-com.eresources.mssm.edu
 02dorg.eresources.mssm.edu
-www.jle.167-com.eresources.mssm.edu
+jle.167-com.eresources.mssm.edu
 apps.webofknowledge.com.183.eresources.mssm.edu
 208-84alz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
 13p12-login.eresources.mssm.edu
@@ -2978,7 +2893,6 @@ linkinghub.elsevier.com.135.eresources.mssm.edu
 205-84-uk.eresources.mssm.edu
 10029-6573wwwwww-tandfonline-com.eresources.mssm.edu
 web.a.ebscohost.190com.eresources.mssm.edu
-www.eurekaselect.com.135.eresources.mssm.edu
 133.eresources.mssm.edu
 boneandjoint.org.uk.147.eresources.mssm.edu
 147org.eresources.mssm.edu
@@ -3044,7 +2958,7 @@ elogin.opioidmanagement.com.169.eresources.mssm.edu
 cancerdiscovery.aacrjournals.1org.eresources.mssm.edu
 tx.ovid.163-com.eresources.mssm.edu
 backup.10c9-www-uptodate-com.eresources.mssm.edu
-www.jstor.1-org.eresources.mssm.edu
+jstor.1-org.eresources.mssm.edu
 10p7-org.eresources.mssm.edu
 b.ebscohost.com.186.eresources.mssm.edu
 10c6-erj-ersjournals-com.eresources.mssm.edu
@@ -3086,10 +3000,10 @@ org.133.eresources.mssm.edu
 manager.10c9-www-uptodate-com.eresources.mssm.edu
 pay.10029-6572wwwjcr2-clarivate-com.eresources.mssm.edu
 11e-www-healthaffairs-org.eresources.mssm.edu
-www.jbc.183org.eresources.mssm.edu
+jbc.183org.eresources.mssm.edu
 211.eresources.mssm.edu
 119-alz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
-www.eurekaselect.com.161.eresources.mssm.edu
+eurekaselect.com.161.eresources.mssm.edu
 151.eresources.mssm.edu
 10p8-science-sciencemag-org.eresources.mssm.edu
 101.eresources.mssm.edu
@@ -3156,7 +3070,6 @@ stripe.10028-6574wwwac-els-cdn-com.eresources.mssm.edu
 120-www-karger-com.eresources.mssm.edu
 linkinghub.elsevier.com.216.eresources.mssm.edu
 10bajph-aphapublications-org.eresources.mssm.edu
-jpgmonline.1com.eresources.mssm.edu
 210-57-55-83.eresources.mssm.edu
 0djournals-sagepub-comdmz.eresources.mssm.edu
 10029-6576wwwacademic-oup-com.eresources.mssm.edu
@@ -3194,7 +3107,6 @@ com.216.eresources.mssm.edu
 backup.11p11www-karger-com.eresources.mssm.edu
 10p8science-sciencemag-org.eresources.mssm.edu
 10ealz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
-sciencedirect.189com.eresources.mssm.edu
 10c9www-uptodate-com.eresources.mssm.edu
 13c6-www-clinicalkey-com.eresources.mssm.edu
 10c8-org.eresources.mssm.edu
@@ -3202,7 +3114,7 @@ sciencedirect.189com.eresources.mssm.edu
 cms.17a-ac-els-cdn-com.eresources.mssm.edu
 10c4es.eresources.mssm.edu
 13mmp-4-b.eresources.mssm.edu
-www.ajhp.org.109.eresources.mssm.edu
+ajhp.org.109.eresources.mssm.edu
 207-84-org.eresources.mssm.edu
 core.1103aorg.eresources.mssm.edu
 aacrjournals.org.212.eresources.mssm.edu
@@ -3254,7 +3166,7 @@ core.208-86-login.eresources.mssm.edu
 13p12-alz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
 105.eresources.mssm.edu
 10eajph-aphapublications-org.eresources.mssm.edu
-www.eurekaselect.163-com.eresources.mssm.edu
+eurekaselect.163-com.eresources.mssm.edu
 126com.eresources.mssm.edu
 2017-b1b.eresources.mssm.edu
 jamaevidence.mhmedical.115com.eresources.mssm.edu
@@ -3271,7 +3183,7 @@ docs.11p11www-tandfonline-com.eresources.mssm.edu
 content.10029-6572wwwjcr2-clarivate-com.eresources.mssm.edu
 155-com.eresources.mssm.edu
 208-86www-ajronline-org.eresources.mssm.edu
-www.bmj.174com.eresources.mssm.edu
+bmj.174com.eresources.mssm.edu
 sk.sagepub.com.158.eresources.mssm.edu
 10p10www-who-int.eresources.mssm.edu
 11p11www-jimmunol-org.eresources.mssm.edu
@@ -3341,7 +3253,7 @@ mail.17a-ac-els-cdn-com.eresources.mssm.edu
 11b-science-sciencemag-org.eresources.mssm.edu
 13westeurope.eresources.mssm.edu
 1-9-6-4.eresources.mssm.edu
-www.jbc.133org.eresources.mssm.edu
+jbc.133org.eresources.mssm.edu
 207-84www-clinicalkey-com.eresources.mssm.edu
 10p10gov.eresources.mssm.edu
 13dcom.eresources.mssm.edu
@@ -3366,7 +3278,7 @@ prod.10c9-www-uptodate-com.eresources.mssm.edu
 02d.eresources.mssm.edu
 asheducationbook.hematologylibrary.202org.eresources.mssm.edu
 1a-www-tandfonline-com.eresources.mssm.edu
-www.jpgmonline.com.183.eresources.mssm.edu
+jpgmonline.com.183.eresources.mssm.edu
 10027-6574wwwwww-healthaffairs-org.eresources.mssm.edu
 11e-www-scopus-com.eresources.mssm.edu
 208-85www-clinicalkey-com.eresources.mssm.edu
@@ -3468,7 +3380,7 @@ wildcardsubdomaintoprocess.tx.ovid.163-com.eresources.mssm.edu
 1dpubmed-ncbi-nlm-nih-gov.eresources.mssm.edu
 109-doi-org.eresources.mssm.edu
 1424mad-www-jimmunol-org.eresources.mssm.edu
-www.bmj.com.174.eresources.mssm.edu
+bmj.com.174.eresources.mssm.edu
 aace.161-com.eresources.mssm.edu
 02bwww-ajronline-org.eresources.mssm.edu
 10029-6572wwwes.eresources.mssm.edu
@@ -3560,7 +3472,6 @@ org.01.eresources.mssm.edu
 0e-erj-ersjournals-com-plugins.eresources.mssm.edu
 13c6-www-google-com.eresources.mssm.edu
 code.0e-erj-ersjournals-com.eresources.mssm.edu
-www.jstor.118org.eresources.mssm.edu
 asheducationbook.hematologylibrary.189org.eresources.mssm.edu
 206-84journals-plos-org.eresources.mssm.edu
 169-59.eresources.mssm.edu
@@ -3612,7 +3523,6 @@ cebp.aacrjournals.169-org.eresources.mssm.edu
 20a-int.eresources.mssm.edu
 16develop0-b.eresources.mssm.edu
 10p14www-atsjournals-org.eresources.mssm.edu
-www.bloodjournal.13-org.eresources.mssm.edu
 207-84-www-ahajournals-org.eresources.mssm.edu
 13d-alz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
 02c-jamaevidence-mhmedical-com.eresources.mssm.edu
@@ -3652,7 +3562,6 @@ itsecurity.mssm.135-edu.eresources.mssm.edu
 2025modem-233.eresources.mssm.edu
 alumni.beta.mssm.edu
 148.eresources.mssm.edu
-www.beta.mssm.edu
 211-84alz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
 pay.1103aorg.eresources.mssm.edu
 10buk.eresources.mssm.edu
@@ -3677,7 +3586,6 @@ oup.175-com.eresources.mssm.edu
 logs.17a-ac-els-cdn-com.eresources.mssm.edu
 statref.216-com.eresources.mssm.edu
 com.174.eresources.mssm.edu
-jle.com.129.eresources.mssm.edu
 12c1-www-acpjournals-org.eresources.mssm.edu
 web.a.ebscohost.129-com.eresources.mssm.edu
 10031-6574wwwpubs-rsna-org.eresources.mssm.edu
@@ -3703,7 +3611,6 @@ journals.sagepub.198com.eresources.mssm.edu
 10028-6574wwwac-els-cdn-com-web.eresources.mssm.edu
 1426madwww-ncbi-nlm-nih-gov.eresources.mssm.edu
 213.eresources.mssm.edu
-www.jpgmonline.com.190.eresources.mssm.edu
 10026-6574wwwwww-scopus-com.eresources.mssm.edu
 122-com.eresources.mssm.edu
 0dlibguides-mssm-edu.eresources.mssm.edu
@@ -3757,7 +3664,6 @@ electric.mssm.edu
 1103aorg.eresources.mssm.edu
 208-81-mountsinai-worldcat-org.eresources.mssm.edu
 2024.eresources.mssm.edu
-jstor.org.212.eresources.mssm.edu
 10029-6572wwwjcr2-clarivate-com-manager.eresources.mssm.edu
 19-plos-org.eresources.mssm.edu
 210-84www-nejm-org.eresources.mssm.edu
@@ -3794,7 +3700,6 @@ fasebj.204org.eresources.mssm.edu
 com.115.eresources.mssm.edu
 promotion.0c-academic-oup-com.eresources.mssm.edu
 directory-backup.mssm.edu
-www.fasebj.204org.eresources.mssm.edu
 1104a-es.eresources.mssm.edu
 0a-www-tandfonline-com.eresources.mssm.edu
 16-api2.eresources.mssm.edu
@@ -3873,7 +3778,6 @@ who.int.133.eresources.mssm.edu
 11ecom.eresources.mssm.edu
 208-84uk.eresources.mssm.edu
 statref.208com.eresources.mssm.edu
-www.jbc.191org.eresources.mssm.edu
 10031-6574www-www-cochranelibrary-com.eresources.mssm.edu
 206-84www-atsjournals-org.eresources.mssm.edu
 bmj.com.13.eresources.mssm.edu
@@ -4045,7 +3949,6 @@ org.186.eresources.mssm.edu
 10c7www-ahrq-gov.eresources.mssm.edu
 10029-6573wwwdoi-org.eresources.mssm.edu
 plos.1-org.eresources.mssm.edu
-ajhp.org.1.eresources.mssm.edu
 0a-libguides-mssm-edu.eresources.mssm.edu
 19-anbg9-10b.eresources.mssm.edu
 126.eresources.mssm.edu
@@ -4063,7 +3966,7 @@ eng.10c9-www-uptodate-com.eresources.mssm.edu
 wiley.com.183.eresources.mssm.edu
 1cuk.eresources.mssm.edu
 10p14pubs-rsna-org.eresources.mssm.edu
-www.sciencedirect.129com.eresources.mssm.edu
+sciencedirect.129com.eresources.mssm.edu
 pay.17a-ac-els-cdn-com.eresources.mssm.edu
 pnas.135-org.eresources.mssm.edu
 133rupress-org.eresources.mssm.edu
@@ -4075,7 +3978,6 @@ pnas.135-org.eresources.mssm.edu
 10b-jme-bmj-com.eresources.mssm.edu
 14-www-clinicalkey-com.eresources.mssm.edu
 promotion.12p11-science-sciencemag-org.eresources.mssm.edu
-www.bloodjournal.109-org.eresources.mssm.edu
 19a-www-ahrq-gov.eresources.mssm.edu
 13c6www-sciencedirect-com.eresources.mssm.edu
 16-jcr2-clarivate-com.eresources.mssm.edu
@@ -4175,7 +4077,6 @@ aacrjournals.org.115.eresources.mssm.edu
 208-82-www-ahajournals-org.eresources.mssm.edu
 accp1.onlinelibrary.wiley.118-com.eresources.mssm.edu
 0bwww-dynamed-com.eresources.mssm.edu
-www.pnas.135-org.eresources.mssm.edu
 10c3-science-sciencemag-org.eresources.mssm.edu
 aacrjournals.org.0.eresources.mssm.edu
 hematologylibrary.202org.eresources.mssm.edu
@@ -4220,7 +4121,7 @@ www-liebertpub-com.1.eresources.mssm.edu
 sagepub.147-com.eresources.mssm.edu
 10c1-onlinelibrary-wiley-com.eresources.mssm.edu
 10028-6574wwwac-els-cdn-combackend.eresources.mssm.edu
-www.pnas.175-org.eresources.mssm.edu
+pnas.175-org.eresources.mssm.edu
 12a-pubmed-ncbi-nlm-nih-gov.eresources.mssm.edu
 10p12-www-ahajournals-org.eresources.mssm.edu
 0djournals-sagepub-comclient.eresources.mssm.edu
@@ -4384,7 +4285,6 @@ b.ebscohost.com.129.eresources.mssm.edu
 elogin.opioidmanagement.214-com.eresources.mssm.edu
 208-83com.eresources.mssm.edu
 sciencedirect.com.174.eresources.mssm.edu
-www.jpgmonline.213com.eresources.mssm.edu
 10p8accessmedicine-mhmedical-com.eresources.mssm.edu
 20c2-com.eresources.mssm.edu
 208-85-robotics-sciencemag-org.eresources.mssm.edu
@@ -4404,7 +4304,6 @@ tx.ovid.212com.eresources.mssm.edu
 12p12aasldpubs-onlinelibrary-wiley-com.eresources.mssm.edu
 175com.eresources.mssm.edu
 10c8-www-atsjournals-org.eresources.mssm.edu
-www.fasebj.120org.eresources.mssm.edu
 11c6-www-google-com.eresources.mssm.edu
 163-77.eresources.mssm.edu
 205-84-www-healthaffairs-org.eresources.mssm.edu
@@ -4417,7 +4316,6 @@ core.205-84-www-healthaffairs-org.eresources.mssm.edu
 0c-academic-oup-comvpn.eresources.mssm.edu
 10031-6574www-www-nature-com.eresources.mssm.edu
 10p11-onlinelibrary-wiley-com.eresources.mssm.edu
-ajhp.org.109.eresources.mssm.edu
 02e-login.eresources.mssm.edu
 10029-6572www-www-science-org.eresources.mssm.edu
 13.eresources.mssm.edu
@@ -4437,7 +4335,6 @@ journals-sagepub-com.135.eresources.mssm.edu
 10030-6574wwwnovel-coronavirus-onlinelibrary-wiley-com.eresources.mssm.edu
 13p13jamaevidence-mhmedical-com.eresources.mssm.edu
 02ejournals-lww-com.eresources.mssm.edu
-www.jle.135com.eresources.mssm.edu
 1dpubs-rsna-org.eresources.mssm.edu
 206-84-www-ajronline-org.eresources.mssm.edu
 10029-6572wwwaccessmedicine-mhmedical-com.eresources.mssm.edu
@@ -4516,7 +4413,6 @@ cdn.mssm.edu
 1427mad-robotics-sciencemag-org.eresources.mssm.edu
 13c6-www-jimmunol-org.eresources.mssm.edu
 cdn.10029-6572wwwjcr2-clarivate-com.eresources.mssm.edu
-jbc.org.126.eresources.mssm.edu
 13-jimmunol-org.eresources.mssm.edu
 155com.eresources.mssm.edu
 10029-6572wwwjcr2-clarivate-comlive.eresources.mssm.edu
@@ -4565,7 +4461,6 @@ s3.10028-6574wwwac-els-cdn-com.eresources.mssm.edu
 promotion.0djournals-sagepub-com.eresources.mssm.edu
 19a-www-sciencedirect-com.eresources.mssm.edu
 10p9-www-jimmunol-org.eresources.mssm.edu
-pnas.175-org.eresources.mssm.edu
 10p9doi-org.eresources.mssm.edu
 0e-search-proquest-com.eresources.mssm.edu
 us-west-2.10029-6572wwwjcr2-clarivate-com.eresources.mssm.edu
@@ -4586,7 +4481,6 @@ www1.1105a-academic-oup-com.eresources.mssm.edu
 16awww-clinicalkey-com.eresources.mssm.edu
 129.eresources.mssm.edu
 org.uk.147.eresources.mssm.edu
-www.bloodjournal.158org.eresources.mssm.edu
 1107arobotics-sciencemag-org.eresources.mssm.edu
 10p14www-science-org.eresources.mssm.edu
 113m11www-who-int.eresources.mssm.edu
@@ -4753,7 +4647,6 @@ icahn.mssm.edu.147.eresources.mssm.edu
 10029-6575wwwwww-google-com.eresources.mssm.edu
 0a-www-karger-com-www2.eresources.mssm.edu
 cochranelibrary-wiley.169com.eresources.mssm.edu
-sciencedirect.126com.eresources.mssm.edu
 168.eresources.mssm.edu
 11b-journals-lww-com.eresources.mssm.edu
 2010.mssm.edu
@@ -4821,7 +4714,6 @@ compute.13p7www-karger-com.eresources.mssm.edu
 1108awww-dynamed-com.eresources.mssm.edu
 210-84www-atsjournals-org.eresources.mssm.edu
 1fgraph0.eresources.mssm.edu
-eurekaselect.163-com.eresources.mssm.edu
 13e-www-ncbi-nlm-nih-gov.eresources.mssm.edu
 02ewww-ncbi-nlm-nih-gov.eresources.mssm.edu
 13d-edu.eresources.mssm.edu
@@ -4872,7 +4764,6 @@ us-east-1.205-84-www-healthaffairs-org.eresources.mssm.edu
 118com.eresources.mssm.edu
 onlinelibrary.wiley.109com.eresources.mssm.edu
 10c3-www-tandfonline-com.eresources.mssm.edu
-www.nejm.109-org.eresources.mssm.edu
 17a-journals-sagepub-com.eresources.mssm.edu
 10027-6574wwwwww-nature-com.eresources.mssm.edu
 s3.12p11-science-sciencemag-org.eresources.mssm.edu
@@ -4884,7 +4775,7 @@ manager.12p11-science-sciencemag-org.eresources.mssm.edu
 116.eresources.mssm.edu
 0dacademic-oup-com.eresources.mssm.edu
 02a.eresources.mssm.edu
-www.bmj.212com.eresources.mssm.edu
+bmj.212com.eresources.mssm.edu
 11c1robotics-sciencemag-org.eresources.mssm.edu
 storage.13p7www-karger-com.eresources.mssm.edu
 12p7-www-karger-com.eresources.mssm.edu
@@ -5014,7 +4905,6 @@ liebertpub.210com.eresources.mssm.edu
 208-82www-cochranelibrary-com.eresources.mssm.edu
 12b-science-sciencemag-org.eresources.mssm.edu
 10029-6573wwwsearch-proquest-com.eresources.mssm.edu
-www.nature.120-com.eresources.mssm.edu
 10p4onlinelibrary-wiley-com.eresources.mssm.edu
 19adoi-org.eresources.mssm.edu
 12e-jme-bmj-com.eresources.mssm.edu
@@ -5023,7 +4913,6 @@ www.nature.120-com.eresources.mssm.edu
 1423madjamanetwork-com.eresources.mssm.edu
 208-86-aasldpubs-onlinelibrary-wiley-com.eresources.mssm.edu
 169-com.eresources.mssm.edu
-www.jpgmonline.13-com.eresources.mssm.edu
 126www-uptodate-com.eresources.mssm.edu
 01ess.eresources.mssm.edu
 2017.eresources.mssm.edu
@@ -5032,7 +4921,7 @@ www.jpgmonline.13-com.eresources.mssm.edu
 compute.210-84www-nejm-org.eresources.mssm.edu
 117.eresources.mssm.edu
 10p12com.eresources.mssm.edu
-www.eurekaselect.135-com.eresources.mssm.edu
+eurekaselect.135-com.eresources.mssm.edu
 ovidsp.tx.ovid.163-com.eresources.mssm.edu
 0djournals-sagepub-commedia.eresources.mssm.edu
 13p11rupress-org.eresources.mssm.edu
@@ -5052,7 +4941,6 @@ private.10028-6574wwwac-els-cdn-com.eresources.mssm.edu
 1e-www-ajronline-org.eresources.mssm.edu
 17-121-124-30.eresources.mssm.edu
 13p13-www-sciencedirect-com.eresources.mssm.edu
-jpgmonline.com.183.eresources.mssm.edu
 150.eresources.mssm.edu
 diabetesjournals.135-org.eresources.mssm.edu
 10027-6574www-www-ajronline-org.eresources.mssm.edu
@@ -5078,7 +4966,6 @@ wildcardsubdomaintoprocess.174-edu.eresources.mssm.edu
 dc2.ovid.com.129.eresources.mssm.edu
 1425mad-com.eresources.mssm.edu
 accp1.onlinelibrary.wiley.198-com.eresources.mssm.edu
-jbc.org.210.eresources.mssm.edu
 192.eresources.mssm.edu
 210www-karger-com.eresources.mssm.edu
 10p11-www-scopus-com.eresources.mssm.edu
@@ -5087,7 +4974,6 @@ jbc.org.210.eresources.mssm.edu
 cgseminars.beta.mssm.edu
 210-84com.eresources.mssm.edu
 org.206.eresources.mssm.edu
-eurekaselect.com.161.eresources.mssm.edu
 12a-catalyst-nejm-org.eresources.mssm.edu
 mhmedical.115com.eresources.mssm.edu
 178-118-147access.eresources.mssm.edu
@@ -5098,7 +4984,6 @@ mhmedical.115com.eresources.mssm.edu
 120-academic-oup-com.eresources.mssm.edu
 hematologylibrary.org.0.eresources.mssm.edu
 17accept.eresources.mssm.edu
-www.sciencedirect.119-com.eresources.mssm.edu
 10032-6574wwwjamaevidence-mhmedical-com.eresources.mssm.edu
 1erobotics-sciencemag-org.eresources.mssm.edu
 journals.aace.161-com.eresources.mssm.edu
@@ -5107,13 +4992,11 @@ journals.aace.161-com.eresources.mssm.edu
 208-83-robotics-sciencemag-org.eresources.mssm.edu
 k1._domainkey.mssm.edu
 0ajamanetwork-com.eresources.mssm.edu
-www.jbc.208org.eresources.mssm.edu
 206-org.eresources.mssm.edu
 208-83aasldpubs-onlinelibrary-wiley-com.eresources.mssm.edu
 10erupress-org.eresources.mssm.edu
 10-104com.eresources.mssm.edu
 0c-edu.eresources.mssm.edu
-bmj.212com.eresources.mssm.edu
 1109a-aasldpubs-onlinelibrary-wiley-com.eresources.mssm.edu
 196.eresources.mssm.edu
 199org.eresources.mssm.edu
@@ -5322,7 +5205,6 @@ cable.mssm.edu
 org.13.eresources.mssm.edu
 1d7.eresources.mssm.edu
 econsent-dashboard.mssm.edu
-bmj.com.174.eresources.mssm.edu
 10p10-edu.eresources.mssm.edu
 ebscohost.com.161.eresources.mssm.edu
 1427madwww-tandfonline-com.eresources.mssm.edu
@@ -5414,13 +5296,11 @@ forum.11djcr2-clarivate-com.eresources.mssm.edu
 12c6www-who-int.eresources.mssm.edu
 plugins.12d-es.eresources.mssm.edu
 12p12accessmedicine-mhmedical-com.eresources.mssm.edu
-www.jpgmonline.204-com.eresources.mssm.edu
 tx.ovid.com.158.eresources.mssm.edu
 1eorg.eresources.mssm.edu
 0ojrycobyc0qlrlc.eresources.mssm.edu
 cshlp.org.198.eresources.mssm.edu
 aacrjournals.186-org.eresources.mssm.edu
-www.jbc.org.01.eresources.mssm.edu
 us-west-1.1103aorg.eresources.mssm.edu
 faq.11djcr2-clarivate-com.eresources.mssm.edu
 10029-6577www-robotics-sciencemag-org.eresources.mssm.edu
@@ -5435,7 +5315,6 @@ wildcardsubdomaintoprocess.163-com.eresources.mssm.edu
 ovid.com.129.eresources.mssm.edu
 13p7erj-ersjournals-com.eresources.mssm.edu
 wiley.198-com.eresources.mssm.edu
-jbc.133org.eresources.mssm.edu
 18a-www-ahajournals-org.eresources.mssm.edu
 org.213.eresources.mssm.edu
 10-104novel-coronavirus-onlinelibrary-wiley-com.eresources.mssm.edu
@@ -5508,7 +5387,6 @@ ejournal.opioidmanagement.com.212.eresources.mssm.edu
 13d-ajph-aphapublications-org.eresources.mssm.edu
 0_-www-who-int.eresources.mssm.edu
 1c-www-ahrq-gov.eresources.mssm.edu
-eurekaselect.135-com.eresources.mssm.edu
 213com.eresources.mssm.edu
 210-84-www-dynamed-com.eresources.mssm.edu
 0a-www-karger-commy.eresources.mssm.edu
@@ -5522,7 +5400,6 @@ temp.1105a-academic-oup-com.eresources.mssm.edu
 190com.eresources.mssm.edu
 11derj-ersjournals-com.eresources.mssm.edu
 storage.1105a-academic-oup-com.eresources.mssm.edu
-bloodjournal.118org.eresources.mssm.edu
 10032-6574wwwjournals-lww-com.eresources.mssm.edu
 1109a-org.eresources.mssm.edu
 1103awww-acpjournals-org.eresources.mssm.edu
@@ -5547,7 +5424,6 @@ www-nejm-org.133.eresources.mssm.edu
 10p10www-acpjournals-org.eresources.mssm.edu
 10029-6574wwwwww-healthaffairs-org.eresources.mssm.edu
 208-83-pubs-rsna-org.eresources.mssm.edu
-www.mssm.edu.126.eresources.mssm.edu
 10.eresources.mssm.edu
 13ewww-healthaffairs-org.eresources.mssm.edu
 13e-int.eresources.mssm.edu
@@ -5641,7 +5517,6 @@ b.ebscohost.com.115.eresources.mssm.edu
 02c-www-nature-com.eresources.mssm.edu
 13c1www-clinicalkey-com.eresources.mssm.edu
 mobile.1423mad-org.eresources.mssm.edu
-www.pnas.org.01.eresources.mssm.edu
 10p10www-uptodate-com.eresources.mssm.edu
 webctdb2.backup.mssm.edu
 10c8www-jimmunol-org.eresources.mssm.edu
@@ -5664,7 +5539,6 @@ s3.0djournals-sagepub-com.eresources.mssm.edu
 www-dynamed-com.202.eresources.mssm.edu
 208-84-rupress-org.eresources.mssm.edu
 10p5onlinelibrary-wiley-com.eresources.mssm.edu
-www.ajhp.212-org.eresources.mssm.edu
 content.205-84-www-healthaffairs-org.eresources.mssm.edu
 208.eresources.mssm.edu
 103m10-jcr2-clarivate-com.eresources.mssm.edu
@@ -5711,7 +5585,6 @@ prometheus.12d-es.eresources.mssm.edu
 us-east-1.0e-erj-ersjournals-com.eresources.mssm.edu
 ap.mssm.edu
 mx-a.0.eresources.mssm.edu
-www.jpgmonline.153-com.eresources.mssm.edu
 161journals-lww-com.eresources.mssm.edu
 10032.eresources.mssm.edu
 12c6edu.eresources.mssm.edu
@@ -5743,7 +5616,6 @@ jamaevidence.mhmedical.190com.eresources.mssm.edu
 189.eresources.mssm.edu
 10p4www-cochranelibrary-com.eresources.mssm.edu
 10029-6577www-mountsinai-worldcat-org.eresources.mssm.edu
-www.jbc.1-org.eresources.mssm.edu
 10p9-journals-plos-org.eresources.mssm.edu
 00c0www-dynamed-com.eresources.mssm.edu
 10029-6577www-www-nejm-org.eresources.mssm.edu
@@ -5768,7 +5640,7 @@ dx.doi.org.eresources.mssm.edu
 ejournal.opioidmanagement.com.eresources.mssm.edu
 alz-journals-onlinelibrary-wiley-com.eresources.mssm.edu
 cebp.aacrjournals.org.eresources.mssm.edu
-www.ajronline.org.eresources.mssm.edu
+ajronline.org.eresources.mssm.edu
 explore.mssm.edu
 youngh02.u.hpc.mssm.edu
 clinchem.aaccjnls.org.eresources.mssm.edu
@@ -5785,7 +5657,6 @@ heart-bmj-com.eresources.mssm.edu
 rich.mssm.edu
 chunkybacon.mssm.edu
 asheducationbook.hematologylibrary.org.eresources.mssm.edu
-www.sciencedirect.com.eresources.mssm.edu
 online.liebertpub.com.eresources.mssm.edu
 la-forge.mssm.edu
 fludee01.dmz.hpc.mssm.edu
@@ -5808,7 +5679,7 @@ cleopatra.1425mad.mssm.edu
 sheehd01.u.hpc.mssm.edu
 osticket.hpc.mssm.edu
 casereports.bmj.com.eresources.mssm.edu
-www.jle.com.eresources.mssm.edu
+jle.com.eresources.mssm.edu
 stroke.ahajournals.org.eresources.mssm.edu
 journals-plos-org.eresources.mssm.edu
 hassod01.u.hpc.mssm.edu
@@ -5817,11 +5688,11 @@ tastac01.u.hpc.mssm.edu
 accessmedicine-mhmedical-com.eresources.mssm.edu
 linanm01.u.hpc.mssm.edu
 term-roww.mssm.edu
-www.ingentaconnect.com.eresources.mssm.edu
+ingentaconnect.com.eresources.mssm.edu
 proxy-1.mssm.edu
-www.bmj.com.eresources.mssm.edu
+bmj.com.eresources.mssm.edu
 clincancerres.aacrjournals.org.eresources.mssm.edu
-www.jbc.org.eresources.mssm.edu
+jbc.org.eresources.mssm.edu
 online.statref.com.eresources.mssm.edu
 cooka01.u.hpc.mssm.edu
 tomall01.u.hpc.mssm.edu
@@ -5860,7 +5731,7 @@ hn.mssm.edu
 chenx08.u.hpc.mssm.edu
 userid.u.hpc.mssm.edu
 www-atsjournals-org.eresources.mssm.edu
-www.jstor.org.eresources.mssm.edu
+jstor.org.eresources.mssm.edu
 url6402.mssm.edu
 batesvisualguide.com.eresources.mssm.edu
 itsecurity.mssm.edu.eresources.mssm.edu
@@ -5894,8 +5765,8 @@ netops.mssm.edu
 fromem03.u.hpc.mssm.edu
 irradiator.mssm.edu
 atc3.biomath.mssm.edu
-www.koples01.u.hpc.mssm.edu
-www.ajhp.org.eresources.mssm.edu
+koples01.u.hpc.mssm.edu
+ajhp.org.eresources.mssm.edu
 www-bmj-com.eresources.mssm.edu
 oxfordmedicine.com.eresources.mssm.edu
 ns5hq7zn5a.scholar.serialssolutions.com.eresources.mssm.edu
@@ -5911,7 +5782,7 @@ accessemergencymedicine-mhmedical-com.eresources.mssm.edu
 genesdev.cshlp.org.eresources.mssm.edu
 oem.bmj.com.eresources.mssm.edu
 cochranelibrary-wiley.com.eresources.mssm.edu
-www.nejm.org.eresources.mssm.edu
+nejm.org.eresources.mssm.edu
 shadrm01.u.hpc.mssm.edu
 www-nature-com.eresources.mssm.edu
 www-ahajournals-org.eresources.mssm.edu
@@ -5941,8 +5812,8 @@ jamaevidence.mhmedical.com.eresources.mssm.edu
 demeter-nn1.demeter.hpc.mssm.edu
 isc-old.mssm.edu
 hematologylibrary.org.eresources.mssm.edu
-www.bloodjournal.org.eresources.mssm.edu
-www.jpgmonline.com.eresources.mssm.edu
+bloodjournal.org.eresources.mssm.edu
+jpgmonline.com.eresources.mssm.edu
 galaxy.mssm.edu
 fenneb02.u.hpc.mssm.edu
 pilot.mssm.edu
@@ -5950,9 +5821,9 @@ circ.ahajournals.org.eresources.mssm.edu
 www-ahrq-gov.eresources.mssm.edu
 postdoctoralmentorship.mssm.edu
 gail01.u.hpc.mssm.edu
-www.pnas.org.eresources.mssm.edu
+pnas.org.eresources.mssm.edu
 10029-6574www.mssm.edu
-www.fasebj.org.eresources.mssm.edu
+fasebj.org.eresources.mssm.edu
 symantec.mssm.edu
 accessemergencymedicine.mhmedical.com.eresources.mssm.edu
 jpet.aspetjournals.org.eresources.mssm.edu
@@ -5967,9 +5838,8 @@ www-liebertpub-com.eresources.mssm.edu
 mc-controller.mssm.edu
 orig-starnet.mssm.edu
 onlinetherapy.mssm.edu
-www.eurekaselect.com.eresources.mssm.edu
+eurekaselect.com.eresources.mssm.edu
 pediatrics.aappublications.org.eresources.mssm.edu
-www.sungene.genetics.mssm.edu
 www-healthaffairs-org.eresources.mssm.edu
 ref.mssm.edu
 exch-evs1.mssm.edu
@@ -5985,7 +5855,6 @@ sc15compcancer.hpc.mssm.edu
 rosemf01.u.hpc.mssm.edu
 ors.mssm.edu
 isc.mssm.edu
-www.mssm.edu.eresources.mssm.edu
 orig-pintolab.mssm.edu
 haubem01.u.hpc.mssm.edu
 www-cochranelibrary-com.eresources.mssm.edu
@@ -6009,12 +5878,12 @@ http...actin.pharm.mssm.edu
 network.mssm.edu
 stm.sciencemag.org.eresources.mssm.edu
 torred23.u.hpc.mssm.edu
-www.nature.com.eresources.mssm.edu
+nature.com.eresources.mssm.edu
 orig-hheardatacenter.mssm.edu
 f5-vpn.mssm.edu
 apps.webofknowledge.com.eresources.mssm.edu
 orig-pintolab04.mssm.edu
-www.oxfordscholarship.com.eresources.mssm.edu
+oxfordscholarship.com.eresources.mssm.edu
 linkinghub.elsevier.com.eresources.mssm.edu
 www-scopus-com.eresources.mssm.edu
 nguyec05.u.hpc.mssm.edu

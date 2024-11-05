@@ -2,7 +2,6 @@
 accounts-tst.vattenfall.nl
 accounts-dev.vattenfall.nl
 tools-acc.vattenfall.nl
-www.vattenfall.nl
 agenttool-acc.vattenfall.nl
 api-acc.vattenfall.nl
 gisheatnl-acc.vattenfall.nl
@@ -17,7 +16,6 @@ mailing.vattenfall.nl
 accounts.vattenfall.nl
 energiemanager.vattenfall.nl
 www-tst.vattenfall.nl
-www.incharge.vattenfall.nl
 xl-leren.vattenfall.nl
 www-dev.vattenfall.nl
 www-prd.vattenfall.nl
@@ -97,7 +95,7 @@ www-acc.smartarchive.vattenfall.nl
 tools.vattenfall.nl
 storybook.vattenfall.nl
 stats.vattenfall.nl
-www.smartarchive.vattenfall.nl
+smartarchive.vattenfall.nl
 powerplants.vattenfall.nl
 tools-dev.vattenfall.nl
 energysolutions.vattenfall.nl

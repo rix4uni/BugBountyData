@@ -12,7 +12,6 @@ pass-rc.yandex.lv
 help.yandex.lv
 mail.yandex.lv
 crowdtest.mail.yandex.lv
-www.zen.yandex.lv
 zen.yandex.lv
 business.taxi.yandex.lv
 sso.passport.yandex.lv
@@ -32,12 +31,11 @@ pass-test.yandex.lv
 api.passport.yandex.lv
 files.messenger.yandex.lv
 yabs.yandex.lv
-www.go.yandex.lv
+go.yandex.lv
 m.legal.yandex.lv
 homecrowdtest.yandex.lv
-www.taxi.yandex.lv
+taxi.yandex.lv
 morda.crowdtest.yandex.lv
-www.help.yandex.lv
 legal.yandex.lv
 cloud-api.yandex.lv
 guard.oauth-rc.yandex.lv
@@ -54,7 +52,6 @@ passport.yandex.lv
 pda.newssearch.yandex.lv
 newssearch.yandex.lv
 m.newssearch.yandex.lv
-www.yandex.lv
 m.taxi.yandex.lv
 translate.yandex.lv
 prestable.taxi.yandex.lv
@@ -63,8 +60,6 @@ m.news.yandex.lv
 news.yandex.lv
 news-clck.yandex.lv
 files.messenger.alpha.yandex.lv
-go.yandex.lv
-taxi.yandex.lv
 pro.yandex.lv
 m.news-clck.yandex.lv
 mailpro.yandex.lv
@@ -74,7 +69,6 @@ api.messenger.alpha.yandex.lv
 uniproxy.messenger.yandex.lv
 push.yandex.lv
 backend.messenger.yandex.lv
-www.legal.yandex.lv
 api.chat.yandex.lv
 disk.yandex.lv
 suggest-maps.yandex.lv
@@ -109,7 +103,7 @@ crowdtest.games.yandex.lv
 bar-navig.yandex.lv
 sitesuggest.yandex.lv
 disc.yandex.lv
-www.narod.yandex.lv
+narod.yandex.lv
 real-time-poi.maps.yandex.lv
 mail.360.yandex.lv
 dsp.yandex.lv

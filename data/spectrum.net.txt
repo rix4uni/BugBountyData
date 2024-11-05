@@ -547,11 +547,8 @@ wifiprofile.spectrum.net
 wireless-api.ne.wtg.spectrum.net
 wireless-api.spectrum.net
 wireless-ne-services.sit-uw2.wtg.spectrum.net
-www.billing.spectrum.net
-www.mail3.spectrum.net
-www.makeapayment.spectrum.net
-www.ondemand.spectrum.net
-www.spectrum.net
+billing.spectrum.net
+makeapayment.spectrum.net
 zeebe-camunda8.dev.sdp-sa.spectrum.net
 zuulcharternet-green-cnet.spectrum.net
 1-review-mr-1-d3dizd.scratch.spectrum.net
@@ -1422,12 +1419,6 @@ wireless-api.ne.sit.wtg.spectrum.net
 wireless-nsl-qar1-kafka.private-sit.wtg.spectrum.net
 wtg-scratch.spectrum.net
 wtg.spectrum.net
-www.cmt3teamportal.cmdev.spectrum.net
-www.cmt3teamportalv.cmdev.spectrum.net
-www.fols.spectrum.net
-www.startoverui.prd.spectrum.net
-www.uat.fols.spectrum.net
-www.watch.spectrum.net
 xclass-preview.spectrum.net
 xclass.spectrum.net
 xplane.scratch.spectrum.net

@@ -26,7 +26,6 @@ concourse.internal.blockchain.info
 api.dev.blockchain.info
 nexus.internal.blockchain.info
 ws.blockchain.info
-www.ws.blockchain.info
 explorer.prod.blockchain.info
 pit.staging.blockchain.info
 horizon.blockchain.info
@@ -39,7 +38,7 @@ consul.dev.blockchain.info
 mail.dev.blockchain.info
 testnet.blockchain.info
 dashboard.internal.blockchain.info
-www.dev.blockchain.info
+dev.blockchain.info
 3aconsul.dev.blockchain.info
 autodiscover.dev.blockchain.info
 consul.internal.blockchain.info
@@ -67,7 +66,6 @@ media.blockchain.info
 europe-west1.staging.blockchain.info
 wallet-helper.prod.blockchain.info
 algorand.prod.blockchain.info
-www.blockchain.info
 cert-003.blockchain.info
 internal.blockchain.info
 nomad.dev.blockchain.info
@@ -99,7 +97,6 @@ alpha.blockchain.info
 consul.europe-west1.dev.blockchain.info
 health.dev.blockchain.info
 api.blockchain.info
-dev.blockchain.info
 prod.blockchain.info
 consul.prod.blockchain.info
 nomad.europe-west1.prod.blockchain.info
@@ -143,13 +140,6 @@ frontend.prod.blockchain.info
 release.prod.blockchain.info
 bci-ads.blockchain.info
 static.blockchain.info
-*.internal-nodes.prod.blockchain.info
-*.blockchain.info
-*.prod.blockchain.info
-*.staging.blockchain.info
-*.dev.blockchain.info
-*.internal.blockchain.info
-*.testnet.blockchain.info
 0-0-8.dev.blockchain.info
 0-40-2.dev.blockchain.info
 0-6.dev.blockchain.info
@@ -5719,7 +5709,6 @@ lw-dc3-devdist3.dev.blockchain.info
 lw-dc4-border2.dev.blockchain.info
 lw-dc4-dist1.dev.blockchain.info
 lweb32.dev.blockchain.info
-lww.dev.blockchain.info
 lxa02.dev.blockchain.info
 lxamestest1.dev.blockchain.info
 lync-pool01.dev.blockchain.info
@@ -9986,7 +9975,6 @@ www-reclamefilms.dev.blockchain.info
 www-staff-cacheeuw-meet-git.dev.blockchain.info
 www-tur.dev.blockchain.info
 www-warranty.dev.blockchain.info
-www.tqintra.dev.blockchain.info
 www0-20-3.dev.blockchain.info
 www1.dev.blockchain.info
 www14-bld.dev.blockchain.info
@@ -10421,7 +10409,6 @@ zyvcempjumzubref.dev.blockchain.info
 5fwww-3.dev.blockchain.info
 5lselcfmiw.dev.blockchain.info
 5rtl.dev.blockchain.info
-5ww.dev.blockchain.info
 5ww3-9-66.dev.blockchain.info
 5yrf.dev.blockchain.info
 06-0-7-5.dev.blockchain.info
@@ -11080,12 +11067,12 @@ csgeurope-west1.dev.blockchain.info
 csg.europe-west1.dev.blockchain.info
 self.blockchain.info
 feedbackwww.secure1.store.apple.com.dev.blockchain.info
-www.a2.cosette.dev.blockchain.info
+a2.cosette.dev.blockchain.info
 store.apple-gandalf.com.dev.blockchain.info
 store.apple.conokia.dev.blockchain.info
 roslineurope-west1.dev.blockchain.info
-www.cosette.dev.blockchain.info
-www.secure1.store.apple.com.dev.blockchain.info
+cosette.dev.blockchain.info
+secure1.store.apple.com.dev.blockchain.info
 mals-----------mals-----------mals-----------mals------4-4.dev.blockchain.info
 mals-----------mals------1------mals------166-2-b.dev.blockchain.info
 mals-----------mals------01021965qwe198dev.dev.blockchain.info

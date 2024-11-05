@@ -4,8 +4,7 @@ fb02itshh.fh-muenster.de
 git.fh-muenster.de
 login.ezproxy.fh-muenster.de
 limesurvey.fh-muenster.de
-www.ktet.fh-muenster.de
-www.fh-muenster.de
+ktet.fh-muenster.de
 idp.fh-muenster.de
 vibes.fh-muenster.de
 fb02itsscan01.fh-muenster.de
@@ -15,13 +14,9 @@ karriere.fh-muenster.de
 fb02itsscan06.fh-muenster.de
 roundcube.fh-muenster.de
 s3-backup.fh-muenster.de
-*.s3-backup.fh-muenster.de
-*.s3-ms-backup.fh-muenster.de
-*.s3-st-backup.fh-muenster.de
 s3-ms-backup.fh-muenster.de
 s3-st-backup.fh-muenster.de
 botolution.fh-muenster.de
-*.botolution.fh-muenster.de
 studitrainer.fh-muenster.de
 awx-tools-p1.fh-muenster.de
 awx-ara.fh-muenster.de

@@ -151,13 +151,4 @@ internal.ubiquity.stg.api.blockdaemon.com
 arrington-xrp-capital.blockdaemon.com
 dev.cr.blockdaemon.com
 dev.cr.api.blockdaemon.com
-*.app.blockdaemon.com
-*.data.blockdaemon.com
-*.trust.blockdaemon.com
 trust.blockdaemon.com
-*.stake.app.blockdaemon.com
-*.waas.blockdaemon.com
-*.stg.blockdaemon.com
-*.portara.backend.blockdaemon.com
-*.nodes.app.blockdaemon.com
-*.docs.blockdaemon.com

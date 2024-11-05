@@ -21,8 +21,6 @@ trustmarkinitiative.dev-lfprojects5.linuxfoundation.org
 voiceinteroperability.dev-lfprojects5.linuxfoundation.org
 organization.lfx.linuxfoundation.org
 docs.c.linuxfoundation.org
-www.docs.c.linuxfoundation.org
 lfx-insights-bff.dev.platform.linuxfoundation.org
-*.e.p.c.linuxfoundation.org
-*.e.np.c.linuxfoundation.org
-www.linuxfoundation.org
+e.p.c.linuxfoundation.org
+e.np.c.linuxfoundation.org

@@ -32,7 +32,6 @@ whois.nl.registry.eu
 whois.registry.eu
 whois.staging.registry.eu
 whois.tryout.registry.eu
-www.registry.eu
 board.lu.registry.eu
 board.nl.registry.eu
 board.registry.eu
@@ -87,8 +86,6 @@ whois.staging.lu.registry.eu
 whois.staging.nl.registry.eu
 whois.tryout.lu.registry.eu
 whois.tryout.nl.registry.eu
-www.lu.registry.eu
-www.nl.registry.eu
 161nd.cn.cdn.clging.nl.registry.eu
 tryout.nl.registry.eu
 selector1._domainkey.registry.eu
@@ -155,4 +152,3 @@ seata.registry.eu
 my.docker.registry.eu
 bp-webservice-gateway-strimko2test-main.apps.envtwo.dev.registry.eu
 control-plane-console-control-plane-platform-main.apps.envtwo.dev.registry.eu
-www.161nd.cn.cdn.clging.nl.registry.eu

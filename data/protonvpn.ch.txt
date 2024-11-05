@@ -1,4 +1,3 @@
-*.protonvpn.ch
 api.protonvpn.ch
 mail1.protonvpn.ch
 mail2.protonvpn.ch
@@ -6,7 +5,6 @@ ns1.protonvpn.ch
 ns2.protonvpn.ch
 ns3.protonvpn.ch
 secure.protonvpn.ch
-www.protonvpn.ch
 account-api.protonvpn.ch
 wireguard.protonvpn.ch
 dummy2.protonvpn.ch

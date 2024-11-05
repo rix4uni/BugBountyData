@@ -6233,10 +6233,6 @@ www-naij-com1-1.certisign.personio-internal.de
 www-naij-com68.stage.personio-internal.de
 www-pandaq.stage.personio-internal.de
 www-sec-tooling.personio-internal.de
-www.dev.personio-internal.de
-www.iam.dev.personio-internal.de
-www.postnord.personio-internal.de
-www.stage.personio-internal.de
 www01-accept-archivecorp.prod.personio-internal.de
 www01-accept-archivecorp.x.personio-internal.de
 www0downloadspostgresmx.x.personio-internal.de
@@ -11149,9 +11145,6 @@ iceblox.ctf.sec-tooling-dev.personio-internal.de
 ai.dev.personio-internal.de
 grpc-absence-management-service.dev.personio-internal.de
 cf-www.gitlab.personio-internal.de
-*.dev.personio-internal.de
-*.dd.dev.personio-internal.de
-*.tao.dev.personio-internal.de
 integrations-authentication-client-service-grpc.dev.personio-internal.de
 atlantis.infrastructure.personio-internal.de
 rre-ws.dev.personio-internal.de
@@ -11159,4 +11152,3 @@ api.sec-tooling-dev.personio-internal.de
 pnmlfwfeature-coremodel.personio-internal.de
 host-your-resume-on-google-app-engine.personio-internal.de
 loop-small.personio-internal.de
-*.ar.dev.personio-internal.de

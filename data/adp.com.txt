@@ -2626,7 +2626,6 @@ ns3.ds.adp.com
 dsmpayforcedemo.adp.com
 rsa-rest-ipe.nj.adp.com
 org-preprod.ihcm.adp.com
-www.ducs.adp.com
 autodiscover.esp.adp.com
 ditbenefits.nj.adp.com
 dc1ftcckvap0006.es.ad.adp.com
@@ -2635,7 +2634,6 @@ origin-in-adp-com.adp.com
 scp-taxlocator-iat.adp.com
 207135156243.adp.com
 in-adp-com-cm-dit.es.ad.adp.com
-www.ducs.ext.adp.com
 esicrm-prd.ad.esi.adp.com
 eetcred.adp.com
 workmarket-prod.adp.com
@@ -2658,7 +2656,7 @@ dc2skypewas01-ext.es.uc.adp.com
 expert.dit.latam.adp.com
 iat-accounts.adp.com
 change-password.emea.adp.com
-www.testtest03252024-8.adp.com
+testtest03252024-8.adp.com
 slcbdasweb.es.ad.adp.com
 vista-sea.dr.adp.com
 host244.adp.com
@@ -2671,7 +2669,7 @@ epc-ptc9.adp.com
 vega-app-adp-com-iat-origin.adp.com
 ibpmcos-iat.nj.adp.com
 207135156207.adp.com
-www.test0520241610.adp.com
+test0520241610.adp.com
 ns2.fis.adp.com
 tvpn22.us.adp.com
 adp178.ds.adp.com
@@ -2680,7 +2678,7 @@ laspcdsweb01.dswh.ds.adp.com
 insurance-adp-com-origin.gslb.adp.com
 ph-adp-com-iat.adp.com
 wfn.pdc.api.gslb2.adp.com
-www.adpdea.gslb2.adp.com
+adpdea.gslb2.adp.com
 meapayroll.staging.ehc.adp.com
 207135156165.adp.com
 scp-avsservices-dit2.avs.adp.com
@@ -2710,11 +2708,10 @@ eoi-voya.adp.com
 dc01siratelb001.net.adp.com
 support-dit.nj.adp.com
 mobifed-ipe.nj.adp.com
-www.vistaintegration.adp.com
+vistaintegration.adp.com
 verifications.adp.com
 staging-verifications.adp.com
 mnbbamapivipfit.ad.esi.adp.com
-*.es.ad.adp.com
 wgateway-ipe.nj.adp.com
 wgatewaylt-ipe.nj.adp.com
 wgateway-dit.nj.adp.com
@@ -2821,7 +2818,6 @@ runessmain3-fit.nj.adp.com
 recruiting-dit.nj.adp.com
 fsasso-fit.nj.adp.com
 hrnetappdit1.nj.adp.com
-www.wfn-fit-n.nj.adp.com
 bmsrunf5r14portal.esi.nj.adp.com
 scp-services-fit2.avs.adp.com
 scp-tax-fit2.avs.adp.com
@@ -2831,4 +2827,3 @@ systemstatus-dit.nj.adp.com
 wfm2.adpworld.staging.ehc.adp.com
 adac.smartpay.adp.com
 vpn.smartpay.adp.com
-www.zxp.it.adp.com

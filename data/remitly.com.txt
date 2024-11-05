@@ -104,9 +104,3 @@ api-prod.us-west-1.remitly.com
 lucasd.infra.int.remitly.com
 backend.lucasd.infra.int.remitly.com
 login.remitly.com
-*.remitly.com
-*.dev.remitly.com
-*.eks-local.k8s.remitly.com
-*.forge-k8scluster01-uswest2-local.k8s.remitly.com
-*.k8s.remitly.com
-*.us-west-2.remitly.com

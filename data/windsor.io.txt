@@ -50,10 +50,8 @@ tailor.windsor.io
 faust.api.windsor.io
 hook.windsor.io
 login.windsor.io
-www.windsor.io
 staging.conductor.windsor.io
 staging.sync.windsor.io
-*.windsor.io
 ww1.windsor.io
 ww12.windsor.io
 segment.windsor.io

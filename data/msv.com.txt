@@ -18,7 +18,6 @@ cc.msv.com
 link.msv.com
 displayscreen.msv.com
 connect.msv.com
-www.msv.com
 s.msv.com
 msvt.msv.com
 oultonpark.msv.com
@@ -34,7 +33,7 @@ drive.msv.com
 msvr-admin.msv.com
 radio.msv.com
 testing-v1.msv.com
-www.hybrid.msv.com
+hybrid.msv.com
 ps-admin.msv.com
 staging.msv.com
 ducati-azadmin.msv.com
@@ -50,5 +49,4 @@ healthcheck3.msv.com
 healthcheck1.msv.com
 news2.msv.com
 displaymyvehicle.msv.com
-*.msv.com
 cms-data-cache.msv.com

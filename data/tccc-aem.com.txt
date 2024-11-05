@@ -48,7 +48,6 @@ tccc-prod-brands-na-cocacola-en.tccc-aem.com
 tccc-prod-brands-nl-honesttea-nl.tccc-aem.com
 tccc-prod-nextgen-shared.tccc-aem.com
 tccc-stage-brands-br-crystal-pt.tccc-aem.com
-www.tccc-aem.com
 tccc-prod-brands-ae-sprite-en.tccc-aem.com
 tccc-prod-brands-be-honesttea-fr.tccc-aem.com
 tccc-prod-brands-bw-cocacola-en.tccc-aem.com
@@ -132,8 +131,6 @@ tccc-stage-brands-eg-cocacola-ar.tccc-aem.com
 tccc-stage-brands-nl-honesttea-nl.tccc-aem.com
 tccc-stage-brands-tr-sprite-tr.tccc-aem.com
 tccc-stage-brands-eg-fanta-ar.tccc-aem.com
-*.tccc-aem.com
-*.int.tccc-aem.com
 tccc-prod-journey-py-all-es.tccc-aem.com
 tccc-prod-one-nl-all-nl.tccc-aem.com
 tccc-prod-one-bg-all-bg.tccc-aem.com

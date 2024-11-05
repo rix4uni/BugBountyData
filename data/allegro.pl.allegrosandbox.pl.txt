@@ -1,11 +1,8 @@
-*.allegro.pl.allegrosandbox.pl
-*.apps.developer.allegro.pl.allegrosandbox.pl
-*.developer.allegro.pl.allegrosandbox.pl
+apps.developer.allegro.pl.allegrosandbox.pl
+developer.allegro.pl.allegrosandbox.pl
 api.allegro.pl.allegrosandbox.pl
 api.wysylam.allegro.pl.allegrosandbox.pl
-apps.developer.allegro.pl.allegrosandbox.pl
 archiwum.allegro.pl.allegrosandbox.pl
-developer.allegro.pl.allegrosandbox.pl
 edge.allegro.pl.allegrosandbox.pl
 edge.enterprise.allegro.pl.allegrosandbox.pl
 konto.wysylam.allegro.pl.allegrosandbox.pl
@@ -16,7 +13,6 @@ static.allegro.pl.allegrosandbox.pl
 t.allegro.pl.allegrosandbox.pl
 upload.allegro.pl.allegrosandbox.pl
 webapi.allegro.pl.allegrosandbox.pl
-www.konto.wysylam.allegro.pl.allegrosandbox.pl
 wysylam.allegro.pl.allegrosandbox.pl
 enterprise.allegro.pl.allegrosandbox.pl
 gen-chat-call.allegro.pl.allegrosandbox.pl
@@ -992,7 +988,6 @@ a-wwwstat-01.allegroimg.allegro.pl.allegrosandbox.pl
 a-0-afterwww.allegroimg.allegro.pl.allegrosandbox.pl
 a-0-www-uptodate-com-9.allegroimg.allegro.pl.allegrosandbox.pl
 a-apl-www.allegroimg.allegro.pl.allegrosandbox.pl
-www.allegro.pl.allegrosandbox.pl
 a-swagwww.allegroimg.allegro.pl.allegrosandbox.pl
 a-www-prod1.allegroimg.allegro.pl.allegrosandbox.pl
 a-confluencewwwaffpltomcat.allegroimg.allegro.pl.allegrosandbox.pl

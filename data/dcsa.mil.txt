@@ -1,4 +1,3 @@
-*.ai.ent.dcsa.mil
 ai.ent.dcsa.mil
 alt.dcsa.mil
 api.eapp.dcsa.mil
@@ -79,7 +78,6 @@ vetting.ot.test.dcsa.mil
 vetting.ot.test.aws.dcsa.mil
 vetting.test.dcsa.mil
 whiteoak.dcsa.mil
-www.dcsa.mil
 arcadia.dcsa.mil
 cor-pp-vn-001.cloud.dcsa.mil
 cor-pp-vn-002.cloud.dcsa.mil

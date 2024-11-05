@@ -5,7 +5,6 @@ local.verywellhealth.com
 a-uw2.verywellhealth.com
 a-ue1.verywellhealth.com
 links.verywellhealth.com
-www.verywellhealth.com
 internal2.continual.app.prod.aws.verywellhealth.com
 external11.continual.app.qa.aws.verywellhealth.com
 external17.disposable.app.qa.aws.verywellhealth.com
@@ -362,7 +361,7 @@ external3.pe-adhoc-4.app.qa.aws.verywellhealth.com
 internal4.pe-batch.app.qa.aws.verywellhealth.com
 external3.pe-adhoc-1.app.qa.aws.verywellhealth.com
 internal2.pe-adhoc-4.app.qa.aws.verywellhealth.com
-www.www.verywellhealth.com
+www.verywellhealth.com
 internal6.pe-adhoc-cmn.app.qa.aws.verywellhealth.com
 internal2.pe-adhoc-1.app.qa.aws.verywellhealth.com
 external9.pe-adhoc-1.app.qa.aws.verywellhealth.com

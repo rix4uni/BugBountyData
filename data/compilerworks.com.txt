@@ -22,15 +22,12 @@ rabobank.saas.compilerworks.com
 support.compilerworks.com
 vault-01.internal.compilerworks.com
 pierre-https-0.compilerworks.com
-www.compilerworks.com
 abc.dev.compilerworks.com
 fumble.dev.compilerworks.com
 mail.compilerworks.com
 wp.compilerworks.com
 jenkins.compilerworks.com
 saas.compilerworks.com
-www.gurgle.dev.compilerworks.com
-www.abc.dev.compilerworks.com
 _dmarc.gurgle.dev.compilerworks.com
 _dmarc.rabobank.saas.compilerworks.com
 snipe.compilerworks.com
@@ -38,11 +35,7 @@ vpn.compilerworks.com
 ns0.compilerworks.com
 ns1.compilerworks.com
 _dmarc.abc.dev.compilerworks.com
-www.tester.dev.compilerworks.com
 _dmarc.def.dev.compilerworks.com
-www.def.dev.compilerworks.com
 updates-dev.compilerworks.com
-www.ghi.dev.compilerworks.com
 dev.compilerworks.com
-www.rabobank.saas.compilerworks.com
 _dmarc.tester.dev.compilerworks.com

@@ -33,7 +33,6 @@ staticv2-4.rottentomatoes.com
 www-a.rottentomatoes.com
 admin.in.rottentomatoes.com
 adclient.rottentomatoes.com
-www.int-auth.rottentomatoes.com
 i.rottentomatoes.com
 rtv2-preview.rottentomatoes.com
 wrapper.rottentomatoes.com
@@ -84,7 +83,6 @@ origin-int-preferences.rottentomatoes.com
 au.beta.rottentomatoes.com
 ns1.rottentomatoes.com
 staging-2-3.dev.rottentomatoes.com
-www.movies.rottentomatoes.com
 editorialplugin.rottentomatoes.com
 in.rottentomatoes.com
 rt-editorial-staging-jon.dev.rottentomatoes.com
@@ -103,7 +101,6 @@ rtv2-production-origin.rottentomatoes.com
 editorialdeploy.dev.rottentomatoes.com
 _imprint-www.rottentomatoes.com
 _footer-www.rottentomatoes.com
-www.rottentomatoes.com
 api.rottentomatoes.com
 preferences.rottentomatoes.com
 preview-editorialstaging.rottentomatoes.com
@@ -127,7 +124,6 @@ staging4.rottentomatoes.com
 ofwww.rottentomatoes.com
 fimserve.rottentomatoes.com
 editorialadmin-origin.rottentomatoes.com
-www.auth.rottentomatoes.com
 prod-test.rottentomatoes.com
 metrics.rottentomatoes.com
 stg.rottentomatoes.com
@@ -135,7 +131,6 @@ new.rottentomatoes.com
 qa.in.rottentomatoes.com
 legacyorigin-rtv2-staging-future.dev.rottentomatoes.com
 uk.rottentomatoes.com
-www.api.rottentomatoes.com
 staging-qa.dev.rottentomatoes.com
 s.editorial.rottentomatoes.com
 ss.editorial.rottentomatoes.com

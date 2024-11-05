@@ -25,8 +25,7 @@ comms.rdc.uscg.gov
 dr12www.nvmc.uscg.gov
 dr16reports.nvmc.uscg.gov
 ds1.rdc.uscg.gov
-www.auxdata2.uscg.gov
-www.auxinfo.uscg.gov
+auxdata2.uscg.gov
 testenoad.nvmc.uscg.gov
 _dmarc.uscg.gov
 auxdata-dr.uscg.gov
@@ -62,14 +61,12 @@ ordermgmt.uscg.gov
 p16www.nvmc.uscg.gov
 sans3www.nvmc.uscg.gov
 testdhssans.nvmc.uscg.gov
-www.iccopr.uscg.gov
 accounts.ioc.uscg.gov
 auxdata.uscg.gov
 auxdataweb01.uscg.gov
 dr12developer.nvmc.uscg.gov
 spfin127.speedpay.comdc.uscg.gov
 testreports.nvmc.uscg.gov
-www.uscg.gov
 auxctrx2.uscg.gov
 s16testnoad.nvmc.uscg.gov
 sans1enoad.nvmc.uscg.gov
@@ -77,12 +74,9 @@ sans2enoad.nvmc.uscg.gov
 noad.nvmc.uscg.gov
 s16testnvmc.nvmc.uscg.gov
 sans1www.nvmc.uscg.gov
-www.navcen.uscg.gov
-auxdata2.uscg.gov
 auxdatatrain.uscg.gov
 cgns2.uscg.gov
 dr16dhssans.nvmc.uscg.gov
-www.nvmc.uscg.gov
 dsesns1.uscg.gov
 ra2.rdc.uscg.gov
 s12testnvmc.nvmc.uscg.gov
@@ -95,8 +89,6 @@ cgns5.uscg.gov
 dr16enoad.nvmc.uscg.gov
 ds4.rdc.uscg.gov
 ds6.rdc.uscg.gov
-www.auxdata.uscg.gov
-www.rdc.uscg.gov
 developer.nvmc.uscg.gov
 s12testreports.nvmc.uscg.gov
 nationalmap.uscg.gov

@@ -1,6 +1,4 @@
-*.google.gp
 ns3.google.gp
-www.google.gp
 archive.google.gp
 edu.google.gp
 ww.google.gp
@@ -41,7 +39,6 @@ cctldtest.google.gp
 enterprise.google.gp
 sms.google.gp
 google.google.gp
-www.clients6.google.gp
 adsense.google.gp
 maps.google.gp
 m.google.gp

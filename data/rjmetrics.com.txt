@@ -2,7 +2,7 @@ monitor02.rjmetrics.com
 scott.rjmetrics.com
 go-rjm.rjmetrics.com
 sellme.rjmetrics.com
-www.go.rjmetrics.com
+go.rjmetrics.com
 developers.rjmetrics.com
 cliff.rjmetrics.com
 hank.rjmetrics.com
@@ -28,7 +28,7 @@ ballerboard.rjmetrics.com
 redis.rjmetrics.com
 api.rjmetrics.com
 opportunities.labs.rjmetrics.com
-www.support.rjmetrics.com
+support.rjmetrics.com
 host2.rjmetrics.com
 apispy.rjmetrics.com
 dashboards.rjmetrics.com
@@ -45,7 +45,6 @@ monitor.rjmetrics.com
 olga.rjmetrics.com
 changes.rjmetrics.com
 engineering.rjmetrics.com
-go.rjmetrics.com
 howard.rjmetrics.com
 doug.rjmetrics.com
 api.olga.rjmetrics.com
@@ -54,7 +53,7 @@ king.rjmetrics.com
 advancedreporting.rjmetrics.com
 webhooks.rjmetrics.com
 w.rjmetrics.com
-www.certification.rjmetrics.com
+certification.rjmetrics.com
 pipedev.rjmetrics.com
 m2store.staging.rjmetrics.com
 underdog.rjmetrics.com
@@ -65,7 +64,6 @@ labs.rjmetrics.com
 ssdrop.rjmetrics.com
 pipeline-support.rjmetrics.com
 jira.rjmetrics.com
-www.w.rjmetrics.com
 info.rjmetrics.com
 get.rjmetrics.com
 sal.rjmetrics.com
@@ -73,7 +71,6 @@ sandbox-connect.rjmetrics.com
 ben.rjmetrics.com
 webdev.rjmetrics.com
 pipeline.rjmetrics.com
-support.rjmetrics.com
 collector.rjmetrics.com
 startupdata.rjmetrics.com
 archive.rjmetrics.com
@@ -85,7 +82,6 @@ robin.rjmetrics.com
 slackgrowthstudy.rjmetrics.com
 web.rjmetrics.com
 drop.rjmetrics.com
-www.rjmetrics.com
 style.rjmetrics.com
 alice.rjmetrics.com
 web002.rjmetrics.com
@@ -93,7 +89,6 @@ chuck.rjmetrics.com
 melrose.rjmetrics.com
 bob.rjmetrics.com
 rmoore.rjmetrics.com
-certification.rjmetrics.com
 ns1.rjmetrics.com
 status.rjmetrics.com
 chef.rjmetrics.com
@@ -107,5 +102,3 @@ alopez.office.rjmetrics.com
 dashboard.rjmetrics.com
 andrea.rjmetrics.com
 devops.rjmetrics.com
-www.style.rjmetrics.com
-*.rjmetrics.com

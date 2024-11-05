@@ -110,7 +110,6 @@ ams-edit-client.staging.meinestadt.de
 app-service.integration.meinestadt.de
 change-form-service.staging.meinestadt.de
 fussball.integration.meinestadt.de
-www.integration.meinestadt.de
 category-service.integration.meinestadt.de
 coop.integration.k8s.meinestadt.de
 sm-export-service.staging.meinestadt.de
@@ -137,7 +136,6 @@ geocoder-service.meinestadt.de
 jobsfiles.staging.meinestadt.de
 maps.integration.meinestadt.de
 webs.meinestadt.de
-www.staging.meinestadt.de
 adela-fogoros.office-dev.meinestadt.de
 jan-markus-langer.office-dev.meinestadt.de
 contingent-service.integration.meinestadt.de
@@ -167,7 +165,6 @@ pfp.meinestadt.de
 recht.integration.meinestadt.de
 seo.meinestadt.de
 uberall-service.meinestadt.de
-www.alexa.meinestadt.de
 ams-edit-client.integration.meinestadt.de
 channel-service.integration.meinestadt.de
 jobs-service.integration.meinestadt.de
@@ -185,7 +182,7 @@ stadtplan.meinestadt.de
 dirk-gustke-13.office-dev.meinestadt.de
 storybook-extern.meinestadt.de
 uberall-service.integration.meinestadt.de
-www.fussball.meinestadt.de
+fussball.meinestadt.de
 jobs.mobil.meinestadt.de
 immo-edit-service.integration.meinestadt.de
 mt-heroot02.meinestadt.de
@@ -216,8 +213,8 @@ news-service-proxy.staging.meinestadt.de
 oca-swagger.integration.meinestadt.de
 outdoor-activities-service.meinestadt.de
 static.meinestadt.de
-www.branchenbuch.meinestadt.de
-www.stadtinformation.meinestadt.de
+branchenbuch.meinestadt.de
+stadtinformation.meinestadt.de
 image-service.staging.meinestadt.de
 konto.staging.meinestadt.de
 openvpn.meinestadt.de
@@ -274,7 +271,6 @@ dirk-gustke-14.office-dev.meinestadt.de
 job-shop-categorypictures.meinestadt.de
 job-shop-sphere-service.meinestadt.de
 o3.ymail.meinestadt.de
-stadtinformation.meinestadt.de
 tilman-mayer.dyndns.meinestadt.de
 change-form-client-eks.integration.meinestadt.de
 corona-service.integration.meinestadt.de
@@ -352,14 +348,12 @@ kino.integration.k8s.meinestadt.de
 service02.meinestadt.de
 uebernachtung.staging.meinestadt.de
 meinhost.meinestadt.de
-www.secure.meinestadt.de
 andreas-paulick.local-dev.meinestadt.de
 image-resize.meinestadt.de
 mlm-service.meinestadt.de
 oca.staging.meinestadt.de
 user-action-tracking-service.staging.meinestadt.de
 apo-gateway.staging.meinestadt.de
-branchenbuch.meinestadt.de
 aika-service.integration.meinestadt.de
 auto-meta-sport-service.meinestadt.de
 outdoor-activities-service.production.meinestadt.de
@@ -394,12 +388,10 @@ cms01.meinestadt.de
 events-update-emitter-service.integration.meinestadt.de
 immo-edit-service.staging.meinestadt.de
 tibbr-service.meinestadt.de
-www.tourismus.meinestadt.de
+tourismus.meinestadt.de
 getapp.meinestadt.de
 oca.swagger.integration.meinestadt.de
 stadtinformation.staging.meinestadt.de
-www.mobil.meinestadt.de
-www.immobilien.meinestadt.de
 wikipedia.meinestadt.de
 gis-service-v2.integration.meinestadt.de
 your-ldap.office-dev.meinestadt.de
@@ -421,14 +413,12 @@ konto.preprod.meinestadt.de
 dirk-gustke-10.office-dev.meinestadt.de
 image-resize-v2.meinestadt.de
 sport.integration.meinestadt.de
-www.meinestadt.de
 ymail.meinestadt.de
 branchenbuch.tim-tornau.dyndns.meinestadt.de
 aktuell.meinestadt.de
 change-form-client-eks.meinestadt.de
 export-service2.meinestadt.de
 twitter-service.meinestadt.de
-www.internext.meinestadt.de
 real-estate-sunrise.production.k8s.meinestadt.de
 dwh-edit-service.meinestadt.de
 ext-tportal-1.meinestadt.de
@@ -479,14 +469,13 @@ care-service.staging.meinestadt.de
 dns01.develop6.meinestadt.de
 faq.staging.meinestadt.de
 service05.meinestadt.de
-www.deals.meinestadt.de
 dns01.develop4.meinestadt.de
 dirk-gustke-test-2023-05.local-dev.meinestadt.de
 channel-service.staging.meinestadt.de
 cms03.meinestadt.de
 dns01.develop5.meinestadt.de
 dns01.dyndns.meinestadt.de
-www.integration.k8s.meinestadt.de
+integration.k8s.meinestadt.de
 katharina-hofmann.office-dev.meinestadt.de
 news-service.meinestadt.de
 jonathan-duerbaum.local-dev.meinestadt.de
@@ -550,7 +539,6 @@ it-assets.meinestadt.de
 netsuite-rip-service.staging.meinestadt.de
 newsletter.integration.meinestadt.de
 oracle-edit-service.integration.meinestadt.de
-fussball.meinestadt.de
 image-resize-service.staging.meinestadt.de
 immowelt-service.integration.meinestadt.de
 dirk-gustke.office-dev.meinestadt.de
@@ -581,7 +569,6 @@ crm-rip-service.meinestadt.de
 gis-service-proxy.integration.meinestadt.de
 kino.meinestadt.de
 netsuite-jobs-service.meinestadt.de
-www.stadtplan.meinestadt.de
 jobs-service.meinestadt.de
 keycloak.staging.meinestadt.de
 nils-keller.dyndns.meinestadt.de
@@ -600,13 +587,12 @@ immo-edit-service.meinestadt.de
 letsencrypt-test.meinestadt.de
 studien.integration.k8s.meinestadt.de
 tourismus.integration.meinestadt.de
-www.veranstaltungen.meinestadt.de
+veranstaltungen.meinestadt.de
 marco-schwarz.dyndns.meinestadt.de
 fragen.integration.k8s.meinestadt.de
 storybook.meinestadt.de
 vpn.meinestadt.de
 storybook.integration.meinestadt.de
-www.katalog.meinestadt.de
 art-service2.staging.meinestadt.de
 dirk-gustke-7.office-dev.meinestadt.de
 image-service.meinestadt.de
@@ -627,7 +613,6 @@ dirk-gustke-15.office-dev.meinestadt.de
 letsencrypt-test-4.meinestadt.de
 werben.meinestadt.de
 storybook-sunrise-vue2.meinestadt.de
-tourismus.meinestadt.de
 markus-muellenborn.office-dev.meinestadt.de
 nils-keller.local-dev.meinestadt.de
 dirk-gustke-3.local-dev.meinestadt.de
@@ -653,11 +638,9 @@ odgerel-boldbaatar.local-dev.meinestadt.de
 jobs-apps.meinestadt.de
 jobs-apps.staging.meinestadt.de
 jobs-edit-service.integration.meinestadt.de
-www.home.meinestadt.de
 detail-portal-service.staging.meinestadt.de
 jobsfiles.meinestadt.de
 smart.staging.meinestadt.de
-www.preprod.meinestadt.de
 fragen-staging.meinestadt.de
 kleinanzeigen.staging.meinestadt.de
 news-service-proxy.meinestadt.de
@@ -670,7 +653,7 @@ backfill-management-service.staging.meinestadt.de
 dirk-gustke-9.office-dev.meinestadt.de
 katalog.integration.meinestadt.de
 kleinanzeigen.mobil.meinestadt.de
-www.kleinanzeigen.meinestadt.de
+kleinanzeigen.meinestadt.de
 aika-service2.meinestadt.de
 customer-performance-api.meinestadt.de
 uebernachtung.integration.meinestadt.de
@@ -684,7 +667,6 @@ cluster-services.staging.meinestadt.de
 employer-profiles-service.meinestadt.de
 job-shop-sphere-service.staging.meinestadt.de
 maps.staging.meinestadt.de
-veranstaltungen.meinestadt.de
 image-resize-service-eks.staging.meinestadt.de
 push-notification-matching-service.meinestadt.de
 anis-qazi.local-dev.meinestadt.de
@@ -700,7 +682,6 @@ statistic-cockpit.meinestadt.de
 t.integration.k8s.meinestadt.de
 auto.meinestadt.de
 kafkaui-shared.meinestadt.de
-kleinanzeigen.meinestadt.de
 marketing.meinestadt.de
 mt-ns6.meinestadt.de
 care-service.integration.meinestadt.de
@@ -708,7 +689,6 @@ netsuite-rip-service.integration.meinestadt.de
 wap.meinestadt.de
 ruz75t0h82.meinestadt.de
 branchenbuch-service.meinestadt.de
-www.lexikon.meinestadt.de
 dataplatform-service-reference.integration.meinestadt.de
 faq.integration.k8s.meinestadt.de
 image-resize-service.integration.meinestadt.de
@@ -728,7 +708,6 @@ mobile-jobs-service.integration.meinestadt.de
 news-service.integration.meinestadt.de
 api-v2.meinestadt.de
 newsletter.integration.k8s.meinestadt.de
-www.redaktion.meinestadt.de
 news-service-proxy.integration.meinestadt.de
 maximilian-azendorf.local-dev.meinestadt.de
 ams-push-emitter-service.staging.meinestadt.de
@@ -740,8 +719,6 @@ sm-import-service.integration.meinestadt.de
 uberall-service-v4.staging.meinestadt.de
 auto.integration.meinestadt.de
 push-notification-subscription-service.staging.meinestadt.de
-www.jobs.meinestadt.de
-www.kfz-service.meinestadt.de
 api-v2.staging.meinestadt.de
 customer-performance-api.staging.meinestadt.de
 dataplatform-service-reference.staging.meinestadt.de
@@ -752,7 +729,6 @@ category-management.integration.meinestadt.de
 img.meinestadt.de
 kino.integration.meinestadt.de
 real-estate-sunrise.staging.k8s.meinestadt.de
-www.kino.meinestadt.de
 fragen.meinestadt.de
 home.staging.meinestadt.de
 philip-joerres.local-dev.meinestadt.de

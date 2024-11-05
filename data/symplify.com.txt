@@ -21,7 +21,6 @@ intake.prod.condev.symplify.com
 click3.symplify.com
 staging.sss.symplify.com
 jupyter.symplify.com
-www.symplify.com
 cookies.symplify.com
 bi-eu-test-api.symplify.com
 apidocs.symplify.com
@@ -36,7 +35,7 @@ dev.symplify.com
 click.symplify.com
 dev.invoice.app.symplify.com
 strapi.symplify.com
-www.expertise.symplify.com
+expertise.symplify.com
 dev.app.symplify.com
 eu.app.symplify.com
 sss.symplify.com
@@ -60,7 +59,6 @@ test.symplify.com
 www1-new-proxy.symplify.com
 dev.sss.symplify.com
 staging.condev.symplify.com
-expertise.symplify.com
 cookies.staging.condev.symplify.com
 eu-north.symplify.com
 invoice-app.symplify.com

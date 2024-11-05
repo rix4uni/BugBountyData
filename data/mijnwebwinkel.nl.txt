@@ -1,5 +1,4 @@
 acc-store-branding-service.mijnwebwinkel.nl
-*.mijnwebwinkel.nl
 acc-customer.mijnwebwinkel.nl
 acc-sso.mijnwebwinkel.nl
 acc-catalog.mijnwebwinkel.nl
@@ -8,7 +7,6 @@ account.mijnwebwinkel.nl
 sso.mijnwebwinkel.nl
 tax-policy.mijnwebwinkel.nl
 store-branding-service.mijnwebwinkel.nl
-www.mijnwebwinkel.nl
 catalog.mijnwebwinkel.nl
 api.mijnwebwinkel.nl
 community.mijnwebwinkel.nl

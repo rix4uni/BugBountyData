@@ -53,7 +53,7 @@ fr-th2-r1.splio.fr
 5.171.190.91.resolve.splio.fr
 6.173.190.91.resolve.splio.fr
 9.170.190.91.resolve.splio.fr
-www.mail.splio.fr
+mail.splio.fr
 71.170.190.91.resolve.splio.fr
 adint.splio.fr
 185.170.190.91.resolve.splio.fr
@@ -78,7 +78,6 @@ yumiko2.splio.fr
 3.175.190.91.resolve.splio.fr
 5.170.190.91.resolve.splio.fr
 6.175.190.91.resolve.splio.fr
-mail.splio.fr
 mfwd.splio.fr
 190.170.190.91.resolve.splio.fr
 192.170.190.91.resolve.splio.fr
@@ -168,7 +167,6 @@ video.splio.fr
 171.170.190.91.resolve.splio.fr
 184.170.190.91.resolve.splio.fr
 dw1.splio.fr
-www.forward-auth.splio.fr
 140.170.190.91.resolve.splio.fr
 143.170.190.91.resolve.splio.fr
 209.170.190.91.resolve.splio.fr
@@ -240,11 +238,9 @@ golozor.splio.fr
 221.170.190.91.resolve.splio.fr
 251.175.190.91.resolve.splio.fr
 ayumi.splio.fr
-www.splio.fr
 dev.splio.fr
 fr-th2-r2.splio.fr
 167.170.190.91.resolve.splio.fr
 81.170.190.91.resolve.splio.fr
 gw.splio.fr
 toto.splio.fr
-*.splio.fr

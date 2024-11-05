@@ -1,13 +1,8 @@
 autoconfig.intelme.com
-www.intelme.com
-www.cpanel.intelme.com
-www.dns.intelme.com
-*.intelme.com
+cpanel.intelme.com
+dns.intelme.com
 mail.intelme.com
 autodiscover.intelme.com
-cpanel.intelme.com
 webdisk.intelme.com
 webmail.intelme.com
 secret.intelme.com
-dns.intelme.com
-www.mail.intelme.com

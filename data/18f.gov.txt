@@ -1,4 +1,4 @@
-*.sites-staging.federalist.18f.gov
+sites-staging.federalist.18f.gov
 18franklin.18f.gov
 _dmarc.18f.gov
 accessibility.18f.gov
@@ -111,7 +111,6 @@ redirect-test.18f.gov
 requests.18f.gov
 site2.18f.gov
 sites-dev.federalist.18f.gov
-sites-staging.federalist.18f.gov
 sites.federalistapp-staging.18f.gov
 slides.18f.gov
 staging.18f.gov
@@ -155,12 +154,6 @@ upaya-sp-dev.18f.gov
 upaya-sp-qa.18f.gov
 ux-guide.18f.gov
 writing-lab-guide.18f.gov
-www.18f.gov
-www.federalist-docs.18f.gov
-www.modularcontracting.18f.gov
-www.munki.18f.gov
-www.sites-dev.federalist.18f.gov
-www.staging.18f.gov
 wwwhandbook.18f.gov
 project-dashboard.18f.gov
 docs.18f.gov

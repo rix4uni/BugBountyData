@@ -33,7 +33,6 @@ device-prod2.central.arubanetworks.com
 apaceast-elb.cloudguest.central.arubanetworks.com
 naw2.cloudguest.central.arubanetworks.com
 uswest4.cloudguest.central.arubanetworks.com
-www.arubanetworks.com
 uswest4-elb.cloudguest.central.arubanetworks.com
 naw2-elb.cloudguest.central.arubanetworks.com
 app1.central.arubanetworks.com
@@ -112,7 +111,7 @@ es-stg.hotfix-5-6-0-c.k8s-prod.getaws.arubanetworks.com
 rendertron.k8s-stg.getaws.arubanetworks.com
 mm-7xxx-mcd-001-stg.central.arubanetworks.com
 us4.api.central.arubanetworks.com
-www.pctools.arubanetworks.com
+pctools.arubanetworks.com
 es.feature-banner-demo.k8s-prod.getaws.arubanetworks.com
 asw1-m.central.arubanetworks.com
 alphahm-cplogin.arubanetworks.com
@@ -121,7 +120,7 @@ es-stg.hotfix-6-0-a.k8s-prod.getaws.arubanetworks.com
 es-stg.notif.k8s-prod.getaws.arubanetworks.com
 os-dashboard.internal.eks-prod-usw1.getaws.arubanetworks.com
 qa-est.arubanetworks.com
-www.prod-v4.arubanetworks.com
+prod-v4.arubanetworks.com
 via-hpn2.arubanetworks.com
 si-stg-us3.arubanetworks.com
 cx-lic-stg.getaws.arubanetworks.com
@@ -141,12 +140,11 @@ asp-stg.mergeacc-hotfix.k8s-prod.getaws.arubanetworks.com
 asp.feature-search-fixes.k8s-prod.getaws.arubanetworks.com
 es-stg.defect-asp-connect.k8s-stg.getaws.arubanetworks.com
 webconf13-2.arubanetworks.com
-www.support.arubanetworks.com
 auth-workbench.arubanetworks.com
 asp-va-stg-rel-8-5.eks-stg-use1.getaws.arubanetworks.com
 mongoview.dev.getaws.arubanetworks.com
 workspace.arubanetworks.com
-www.via-blr.arubanetworks.com
+via-blr.arubanetworks.com
 kn-dev.arubanetworks.com
 airwave-alpha-5.arubanetworks.com
 asp-stg-rel-8-3.eks-stg-use1.getaws.arubanetworks.com
@@ -159,7 +157,7 @@ blr-it-auto.arubanetworks.com
 cloudops-ci.arubanetworks.com
 listener5.in.cpaaas.arubanetworks.com
 traininglab.arubanetworks.com
-www.sjc-workspace-01.arubanetworks.com
+sjc-workspace-01.arubanetworks.com
 alertmanager.k8s-stg.getaws.arubanetworks.com
 bugzillauat.arubanetworks.com
 es-stg.hotfix-3-9-0-c.k8s-prod.getaws.arubanetworks.com
@@ -175,7 +173,7 @@ asp-stg.hotfix-4-2-0-a.k8s-prod.getaws.arubanetworks.com
 asp-stg.notif.k8s-prod.getaws.arubanetworks.com
 asp.feature-ravi-294.k8prod.getaws.arubanetworks.com
 paths.ext.arubanetworks.com
-www.fbapps.arubanetworks.com
+fbapps.arubanetworks.com
 july-qe.k8s-prod.getaws.arubanetworks.com
 asp-master-kibana.dev.getaws.arubanetworks.com
 asp-stg.elastic-fix.k8s-prod.getaws.arubanetworks.com
@@ -214,7 +212,7 @@ via2-central.arubanetworks.com
 dashboard.k8s-prod.getaws.arubanetworks.com
 lyncdiscover.arubanetworks.com
 dev-v5.arubanetworks.com
-www.plursonademo4.arubanetworks.com
+plursonademo4.arubanetworks.com
 ds-es-stg.hotfix-8-1-d.internal.eks-stg-use1.getaws.arubanetworks.com
 iotops-jenkins.arubanetworks.com
 kibana.k8s-stg.getaws.arubanetworks.com
@@ -275,7 +273,7 @@ issu-es-stg.uat.eks-stg-use1.getaws.arubanetworks.com
 asp-stg.license-entitlemen.k8s-prod.getaws.arubanetworks.com
 mail.sirt.arubanetworks.com
 nsp-api-stg.internal.eks-stg-use1.getaws.arubanetworks.com
-www.plursonademo2.arubanetworks.com
+plursonademo2.arubanetworks.com
 airwave-alpha-7.arubanetworks.com
 autodiscover.arubanetworks.com
 dev-sso.arubanetworks.com
@@ -318,7 +316,6 @@ uaenorth1-hc.central.arubanetworks.com
 d484903d-eff1-4736-af47-ddc1b3766ecd.arubanetworks.com
 issu-es-stg.hotfix-8-1-a.eks-stg-use1.getaws.arubanetworks.com
 mdm.devicemanager.central.arubanetworks.com
-plursonademo2.arubanetworks.com
 skins.amigopod.arubanetworks.com
 a1.arubanetworks.com
 cpcontacts.merchandise.arubanetworks.com
@@ -352,7 +349,6 @@ apigw-cop-solutions.arubanetworks.com
 app-vatest03.central.arubanetworks.com
 asp.feature-jimmy-migration2.k8s-prod.getaws.arubanetworks.com
 ds-es.develop.internal.eks-prod-usw1.getaws.arubanetworks.com
-via-blr.arubanetworks.com
 cpanel.merchandise.arubanetworks.com
 csl-es-stg.issu-integration.internal.eks-stg-use1.getaws.arubanetworks.com
 ds-es-stg.okta.k8s-prod.getaws.arubanetworks.com
@@ -423,7 +419,6 @@ ds-es.hotfix-6-0-a.k8s-prod.getaws.arubanetworks.com
 es-stg.elastic-upgrades.k8s-prod.getaws.arubanetworks.com
 es-stg.rebrand.k8s-prod.getaws.arubanetworks.com
 es-stg.rel-6-1-devops-tes.k8s-prod.getaws.arubanetworks.com
-www.plursonademo3.arubanetworks.com
 sc360.arubanetworks.com
 ds-es-stg.hotfix-5-6-0-c.k8s-prod.getaws.arubanetworks.com
 es-stg.k8s-develop.k8s-prod.getaws.arubanetworks.com
@@ -467,7 +462,7 @@ ds-es.hotfix-5-7-0-h.k8s-prod.getaws.arubanetworks.com
 es-stg.develop.k8s-stg.getaws.arubanetworks.com
 es-stg.feature-angular.k8s-prod.getaws.arubanetworks.com
 sjc-rdsdir-01.arubanetworks.com
-www.passpoint.arubanetworks.com
+passpoint.arubanetworks.com
 beta-m.central.arubanetworks.com
 csl-es-stg.gs-11863-asp-be-pr.internal.eks-stg-use1.getaws.arubanetworks.com
 es-stg.cx-switch.eks-stg-use1.getaws.arubanetworks.com
@@ -485,7 +480,6 @@ alpha-gfctlr5.arubanetworks.com
 gen-ai-demo.internal.eks-stg-use1.getaws.arubanetworks.com
 hts-dashboard.arubanetworks.com
 swi.si-stg-us3.arubanetworks.com
-www.clearpass.arubanetworks.com
 ans-stg-develop.eks-stg.getaws.arubanetworks.com
 asp.feature-better-typing.k8prod.getaws.arubanetworks.com
 dashboard.k8prod.getaws.arubanetworks.com
@@ -506,7 +500,6 @@ gemini.arubanetworks.com
 device-sneakpeek.central.arubanetworks.com
 nae2-14-soa.central.arubanetworks.com
 ns1.arubanetworks.com
-www.careers.arubanetworks.com
 airwave-alpha-8.arubanetworks.com
 clearpass-hq1.arubanetworks.com
 es-stg.mar-qe.k8s-prod.getaws.arubanetworks.com
@@ -537,7 +530,7 @@ es-stg.dec-qe.k8s-prod.getaws.arubanetworks.com
 outdoorplanner.arubanetworks.com
 bugzillatest.arubanetworks.com
 ext-104-36-250-11.arubanetworks.com
-www.validate.arubanetworks.com
+validate.arubanetworks.com
 csl-es.master.eks-prod-usw1.getaws.arubanetworks.com
 es-stg.podman.internal.eks-stg.getaws.arubanetworks.com
 mail01.connect.arubanetworks.com
@@ -595,7 +588,7 @@ lms-cx-demo.internal.eks-stg.getaws.arubanetworks.com
 asp-va-stg-rel-7-4.eks-stg-use1.getaws.arubanetworks.com
 mx05.arubanetworks.com
 registry.dev.getaws.arubanetworks.com
-www.spinnaker.cloudops.arubanetworks.com
+spinnaker.cloudops.arubanetworks.com
 clr.arubanetworks.com
 es-stg.live-chat-prod.k8s-prod.getaws.arubanetworks.com
 asp-stg.okta-demo.k8s-prod.getaws.arubanetworks.com
@@ -616,14 +609,14 @@ es.hotfix-2-6-0-c.k8s-prod.getaws.arubanetworks.com
 mm-7005-mcd-008-prd.central.arubanetworks.com
 internal2-ofc.central.arubanetworks.com
 ofc-apaceast.central.arubanetworks.com
-www.sjck1200.arubanetworks.com
+sjck1200.arubanetworks.com
 aps.arubanetworks.com
 asp-master.k8s-stg.getaws.arubanetworks.com
 channel.arubanetworks.com
 csl-es-stg.rel-6-1-devops-tes.k8s-prod.getaws.arubanetworks.com
 es-stg.code-repo-scan.k8s-prod.getaws.arubanetworks.com
 redmine.arubanetworks.com
-www.b2bt.arubanetworks.com
+b2bt.arubanetworks.com
 asp.feature-bulk-cron.k8s-prod.getaws.arubanetworks.com
 coverityconnect.arubanetworks.com
 csl-es-stg.hotfix-8-0-c.internal.eks-stg-use1.getaws.arubanetworks.com
@@ -691,7 +684,6 @@ asp-stg.feature-es-ngit-matt.k8s-stg.getaws.arubanetworks.com
 cloudeval.arubanetworks.com
 ds-es-stg.issu-integration.internal.eks-stg-use1.getaws.arubanetworks.com
 es-stg.k8s-updates.k8s-prod.getaws.arubanetworks.com
-prod-v4.arubanetworks.com
 sftp1.arubanetworks.com
 arubapedia2.arubanetworks.com
 asp.master.k8s.getaws.arubanetworks.com
@@ -751,7 +743,6 @@ asp-stg.hotfix-3-5-0-b.k8s-prod.getaws.arubanetworks.com
 csl-es-stg.hotfix-8-1-a.internal.eks-stg-use1.getaws.arubanetworks.com
 ds-es-stg.database.k8s-prod.getaws.arubanetworks.com
 graphite1.central.arubanetworks.com
-www.via2.arubanetworks.com
 ds-ds-stg.compsep.internal.eks-stg-use1.getaws.arubanetworks.com
 asp-stg-csrf.eks-stg-use1.getaws.arubanetworks.com
 asp-stg.hotfix-4-4-0-d.k8s-prod.getaws.arubanetworks.com
@@ -891,7 +882,6 @@ asp-stg.rma-jan.k8s-prod.getaws.arubanetworks.com
 es-stg.new-header.k8s-prod.getaws.arubanetworks.com
 es.rma-notif.k8s-prod.getaws.arubanetworks.com
 sjc-l2013fe-04.arubanetworks.com
-www.plursona-blr.arubanetworks.com
 es-stg.atmosphere.k8s-prod.getaws.arubanetworks.com
 guest.hkg.getaws.arubanetworks.com
 mm-7005-mcd-002-prd.central.arubanetworks.com
@@ -1013,7 +1003,6 @@ es.master.internal.eks-prod-usw1.getaws.arubanetworks.com
 mail02.channel.arubanetworks.com
 pipe1.arubanetworks.com
 via-chn4.arubanetworks.com
-www.workspace.arubanetworks.com
 es-stg.hotfix-4-7-0-a.k8s-prod.getaws.arubanetworks.com
 asp-stg-uat.eks-stg-use1.getaws.arubanetworks.com
 asp-stg.faq.k8s-prod.getaws.arubanetworks.com
@@ -1042,7 +1031,6 @@ ds-es-stg.hotfix-5-6-0-d.k8s-prod.getaws.arubanetworks.com
 es.feature-search-fixes.k8s-prod.getaws.arubanetworks.com
 services-stg-us3.arubanetworks.com
 sjclync02.arubanetworks.com
-www.akb.arubanetworks.com
 asp.feature-es-ngit-matt.k8s-prod.getaws.arubanetworks.com
 mailone.arubanetworks.com
 phonehome2.arubanetworks.com
@@ -1105,7 +1093,6 @@ timberline.arubanetworks.com
 aiz.arubanetworks.com
 asps.arubanetworks.com
 www-dev3.arubanetworks.com
-www.securelogin.arubanetworks.com
 cx-license.getaws.arubanetworks.com
 ds-es-stg.develop.internal.eks-stg-use1.getaws.arubanetworks.com
 edcos.arubanetworks.com
@@ -1198,7 +1185,7 @@ help.centralon-prem.arubanetworks.com
 insights.arubanetworks.com
 scrubber.arubanetworks.com
 webmail.arubanetworks.com
-www.licensing.arubanetworks.com
+licensing.arubanetworks.com
 hpnproddmz.arubanetworks.com
 asp-stg.ccs-test.k8s-prod.getaws.arubanetworks.com
 asp.feature-code-organization.k8s.getaws.arubanetworks.com
@@ -1232,7 +1219,6 @@ csl-es.develop.internal.eks-prod-usw1.getaws.arubanetworks.com
 csl-es-stg.rel-6-0.k8s-prod.getaws.arubanetworks.com
 es-stg.podman.internal.eks-stg-use1.getaws.arubanetworks.com
 lms-stg.develop.k8s-stg.getaws.arubanetworks.com
-pctools.arubanetworks.com
 pek-via2.arubanetworks.com
 sjccitrix01.arubanetworks.com
 ds-es-stg.devops-test.internal.eks-stg-use1.getaws.arubanetworks.com
@@ -1276,7 +1262,6 @@ scope.dev.getaws.arubanetworks.com
 services-us1.arubanetworks.com
 asp.feature-jwt.k8s.getaws.arubanetworks.com
 clearpass-bn-alb.naas.arubanetworks.com
-plursonademo4.arubanetworks.com
 csl-es-stg.hotfix-7-0-csltest.k8s-prod.getaws.arubanetworks.com
 es.apollo-v2.k8s-prod.getaws.arubanetworks.com
 ext-104-36-248-127.arubanetworks.com
@@ -1299,7 +1284,6 @@ lms-stg-cx-switch-license.k8s-stg.getaws.arubanetworks.com
 aed-stg-uat.eks-stg-use1.getaws.arubanetworks.com
 alpha-gfctlr1.arubanetworks.com
 ans-stg-dec-qe.k8s-prod.getaws.arubanetworks.com
-www.outdoorplanner.arubanetworks.com
 ext-104-36-248-129.arubanetworks.com
 github.internal.eks-prod-usw1.getaws.arubanetworks.com
 via-blr2.arubanetworks.com
@@ -1324,7 +1308,7 @@ ofc-uswest4.central.arubanetworks.com
 ans-stg-hotfix-5-8-0.k8s-prod.getaws.arubanetworks.com
 asp-stg.defect-asp-connect.k8s-stg.getaws.arubanetworks.com
 es-stg.hotfix-5-2-0-g.k8s-prod.getaws.arubanetworks.com
-www.sirt.arubanetworks.com
+sirt.arubanetworks.com
 asp-stg-hotfix-5-6-0-a.k8s-prod.getaws.arubanetworks.com
 dev-v2.arubanetworks.com
 lmsinternal.getaws.arubanetworks.com
@@ -1337,7 +1321,6 @@ ds-es-stg.ds-dockerfile-chan.k8s-prod.getaws.arubanetworks.com
 es-stg.defect-analytics-f.k8s-prod.getaws.arubanetworks.com
 es-stg.develop.eks-stg.getaws.arubanetworks.com
 lms-stg.march22-release.k8s-stg.getaws.arubanetworks.com
-www.b2b.arubanetworks.com
 csl-es-stg.dev-8-3.internal.eks-stg-use1.getaws.arubanetworks.com
 es-stg.glp-sso.eks-stg-use1.getaws.arubanetworks.com
 es-stg.rma-page.k8s-prod.getaws.arubanetworks.com
@@ -1390,7 +1373,6 @@ genmobile.arubanetworks.com
 www-origin.arubanetworks.com
 asp-stg-sept-qe.k8s-prod.getaws.arubanetworks.com
 es.feature-1134-es-restore.k8s-prod.getaws.arubanetworks.com
-www.activate.arubanetworks.com
 apigw-uswest4.central.arubanetworks.com
 asp.develop.k8s-prod.getaws.arubanetworks.com
 alpha-1fctlr1.arubanetworks.com
@@ -1442,7 +1424,6 @@ asp-stg.uat.k8s-prod.getaws.arubanetworks.com
 foreman.arubanetworks.com
 legal.arubanetworks.com
 vault-ui.dev.getaws.arubanetworks.com
-www.ninja.arubanetworks.com
 kib.ktest.getaws.arubanetworks.com
 asp-stg.renewals.k8s-prod.getaws.arubanetworks.com
 asp.asp-lms-praveen.k8s.getaws.arubanetworks.com
@@ -1467,7 +1448,6 @@ csl-es-stg.readrepcompare.internal.eks-stg-use1.getaws.arubanetworks.com
 es-stg.uat.internal.eks-stg-use1.getaws.arubanetworks.com
 logs1.central.arubanetworks.com
 asp-stg-rel-6-0.k8s-prod.getaws.arubanetworks.com
-licensing.arubanetworks.com
 sip.arubanetworks.com
 asp.hotfix-2-6-0-b.k8s-prod.getaws.arubanetworks.com
 ds-es-stg.hotfix-5-2-0-f.k8s-prod.getaws.arubanetworks.com
@@ -1478,7 +1458,6 @@ asp-va-rel-7-1-test.eks-stg.getaws.arubanetworks.com
 ds-es.develop.k8s-prod.getaws.arubanetworks.com
 es-stg.case-test.k8s-prod.getaws.arubanetworks.com
 es-stg.join-enhance.k8s-prod.getaws.arubanetworks.com
-sirt.arubanetworks.com
 stash-slr.arubanetworks.com
 status.central.arubanetworks.com
 sjc-bskiesdc-09.blueskies.arubanetworks.com
@@ -1504,7 +1483,6 @@ margot.arubanetworks.com
 sjc-ns-master.arubanetworks.com
 asp-stg-may-qe.k8s-prod.getaws.arubanetworks.com
 asp.master.hkg.getaws.arubanetworks.com
-passpoint.arubanetworks.com
 si-onboarding-dev.arubanetworks.com
 sso.support.pavo.iot.developer.arubanetworks.com
 test-support.arubanetworks.com
@@ -1528,7 +1506,6 @@ seerss.arubanetworks.com
 csaf.arubanetworks.com
 boards.arubanetworks.com
 es-stg.refresh-apollo.k8s-prod.getaws.arubanetworks.com
-www.plursonademo.arubanetworks.com
 blr-vc-01.arubanetworks.com
 ccs-user-api-cop-apollo.arubanetworks.com
 ans-stg.dev-ops.k8s-prod.getaws.arubanetworks.com
@@ -1542,7 +1519,6 @@ issu-es.develop.eks-prod-usw1.getaws.arubanetworks.com
 listener2.in.cpaaas.arubanetworks.com
 mm-7005-mcd-000-prd.central.arubanetworks.com
 smtp.arubanetworks.com
-www.sjccitrix01.arubanetworks.com
 internal-status.central.arubanetworks.com
 ans-stg.dev-ops.k8s-stg.getaws.arubanetworks.com
 demo.clearpass.arubanetworks.com
@@ -1550,9 +1526,8 @@ ds-es-stg.rel-8-2-logout.internal.eks-stg-use1.getaws.arubanetworks.com
 lms-stg-rel-8-1.eks-stg-use1.getaws.arubanetworks.com
 taclabcppm.arubanetworks.com
 instant.arubanetworks.com
-spinnaker.cloudops.arubanetworks.com
 sso-cop-apollo.arubanetworks.com
-www.search-dev.arubanetworks.com
+search-dev.arubanetworks.com
 chef2.central.arubanetworks.com
 coreupdate.central.arubanetworks.com
 dex.hkg.getaws.arubanetworks.com
@@ -1567,7 +1542,7 @@ es-stg.rma-jan.k8s-prod.getaws.arubanetworks.com
 grafana.k8s-stg.getaws.arubanetworks.com
 kibana.k8s-prod.getaws.arubanetworks.com
 stg-hts-bi.arubanetworks.com
-www.prod-v2.arubanetworks.com
+prod-v2.arubanetworks.com
 asp-stg.esa.k8s-prod.getaws.arubanetworks.com
 dashboard.dev.getaws.arubanetworks.com
 image50.arubanetworks.com
@@ -1590,7 +1565,6 @@ deepak.central.arubanetworks.com
 ds-es-stg.emdm.k8s-prod.getaws.arubanetworks.com
 es.hotfix-8-0-h.internal.eks-prod-usw1.getaws.arubanetworks.com
 lyncadmin.arubanetworks.com
-sjc-workspace-01.arubanetworks.com
 cppm-oauth.hkg.getaws.arubanetworks.com
 devhub-stg-devops-eks.internal.eks-stg.getaws.arubanetworks.com
 eng-mail.arubanetworks.com
@@ -1599,7 +1573,6 @@ asp-stg-dec-qe.k8s-prod.getaws.arubanetworks.com
 cbp.arubanetworks.com
 es-stg.okta-demo-hpe.k8s-prod.getaws.arubanetworks.com
 si-filebeat-dev.arubanetworks.com
-www.arubapedia.arubanetworks.com
 arubaos.atl.arubanetworks.com
 app2-ap-ofc.central.arubanetworks.com
 csl-es-stg.rel-8-2-logout.internal.eks-stg-use1.getaws.arubanetworks.com
@@ -1684,9 +1657,7 @@ grafana.internal.eks-stg.getaws.arubanetworks.com
 airwavebot.arubanetworks.com
 ds-es-stg.devops-eks.k8s-prod.getaws.arubanetworks.com
 es-stg.hotfix-4-5-0-b.k8s-prod.getaws.arubanetworks.com
-prod-v2.arubanetworks.com
 si-collector-us1.arubanetworks.com
-www.ssows.arubanetworks.com
 cloud-live.arubanetworks.com
 cdn-us1.arubanetworks.com
 csl-es-stg.hotfix-8-0-e.internal.eks-stg-use1.getaws.arubanetworks.com
@@ -1698,7 +1669,6 @@ es-stg.entitlement.k8s-prod.getaws.arubanetworks.com
 grafana.k8prod.getaws.arubanetworks.com
 listener7.in.cpaaas.arubanetworks.com
 nsp-genai-dev.internal.eks-stg-use1.getaws.arubanetworks.com
-search-dev.arubanetworks.com
 asp-stg-cx-switch.k8s-prod.getaws.arubanetworks.com
 asp-stg-okta-demo.k8s-prod.getaws.arubanetworks.com
 asp.uat.k8s-prod.getaws.arubanetworks.com
@@ -1712,7 +1682,6 @@ pek-sip13.arubanetworks.com
 alphacp-pub.arubanetworks.com
 saturn.netinsight.arubanetworks.com
 via-pek1.arubanetworks.com
-www.via1.arubanetworks.com
 teleport-prod.central.arubanetworks.com
 ans-stg-rel-7-2.eks-stg-use1.getaws.arubanetworks.com
 ds-es-stg.rel-7-2.eks-stg-use1.getaws.arubanetworks.com
@@ -1751,7 +1720,6 @@ es.apollo-uat.k8s-prod.getaws.arubanetworks.com
 git.deepview.arubanetworks.com
 lockbox.arubanetworks.com
 si-filebeat.arubanetworks.com
-www.device.arubanetworks.com
 es-stg.devops.internal.eks-stg-use1.getaws.arubanetworks.com
 asp-stg-audience.k8s-prod.getaws.arubanetworks.com
 asp-stg.june-qe.k8s-prod.getaws.arubanetworks.com
@@ -1759,7 +1727,6 @@ asp.search.k8s-prod.getaws.arubanetworks.com
 ds-es-stg.live-chat-prod.k8s-prod.getaws.arubanetworks.com
 lms-stg.silver-peak.k8s-stg.getaws.arubanetworks.com
 pipe2.arubanetworks.com
-www.sso.arubanetworks.com
 asp-va-stg-cache-ck.eks-stg-use1.getaws.arubanetworks.com
 asp.feature-lms-schema-praveen.k8s.getaws.arubanetworks.com
 dashboard.arubanetworks.com
@@ -1808,7 +1775,6 @@ nae1.central.arubanetworks.com
 ans-stg-hotfix-8-1-a.eks-stg-use1.getaws.arubanetworks.com
 asp-stg-rel-8-2.eks-stg-use1.getaws.arubanetworks.com
 ds-es-stg.develop.k8s-prod.getaws.arubanetworks.com
-www.crashplan.arubanetworks.com
 nagios2.central.arubanetworks.com
 aed-stg-uat.internal.eks-stg.getaws.arubanetworks.com
 alpha-1fvmc2.arubanetworks.com
@@ -1840,7 +1806,6 @@ livechat.arubanetworks.com
 mail03.channel.arubanetworks.com
 naw3.central.arubanetworks.com
 tiger.arubanetworks.com
-validate.arubanetworks.com
 app2-eu-ofc.central.arubanetworks.com
 docs.skynet.cloudops.arubanetworks.com
 asp-stg.partner-login.k8s-prod.getaws.arubanetworks.com
@@ -1906,7 +1871,6 @@ hts-bi.arubanetworks.com
 asp-stg-rel-8-2-logout.eks-stg-use1.getaws.arubanetworks.com
 asp-stg.hotfix-3-7-0-b.k8s-prod.getaws.arubanetworks.com
 es-stg.hotfix-8-1-a.internal.eks-stg-use1.getaws.arubanetworks.com
-sjck1200.arubanetworks.com
 ans-stg.rc1024x.k8s-prod.getaws.arubanetworks.com
 cppmlab77.arubanetworks.com
 es.cop.k8s-prod.getaws.arubanetworks.com
@@ -1931,8 +1895,7 @@ mm-7005-awe-001-prd.central.arubanetworks.com
 eature-jimmy-1173.k8s-prod.getaws.arubanetworks.com
 cppmlab14.arubanetworks.com
 ds-es-stg.hotfix-5-8-0-e.k8s-prod.getaws.arubanetworks.com
-www.spinnaker-api.cloudops.arubanetworks.com
-www.sso-dev.arubanetworks.com
+sso-dev.arubanetworks.com
 cloudeval2.arubanetworks.com
 asp-stg.hotfix-4-4-0-c.k8s-prod.getaws.arubanetworks.com
 asp-stg.lms2.k8s-prod.getaws.arubanetworks.com
@@ -1960,9 +1923,7 @@ ags-thdweb.arubanetworks.com
 ans-stg-hotfix-8-2.eks-stg-use1.getaws.arubanetworks.com
 ds-es-stg.podman.eks-stg.getaws.arubanetworks.com
 ds-es-stg.rel-6-1.k8s-prod.getaws.arubanetworks.com
-www.cloud.arubanetworks.com
 asp-stg.develop.k8s-prod.getaws.arubanetworks.com
-www.pipe.arubanetworks.com
 aio-va-stg-uat.eks-stg-use1.getaws.arubanetworks.com
 ans-stg-hotfix-1-7-a.k8s-prod.getaws.arubanetworks.com
 asp-stg-emdm.k8s-prod.getaws.arubanetworks.com
@@ -1979,7 +1940,6 @@ airwave-ci.arubanetworks.com
 ans-stg-okta-intg.k8s-prod.getaws.arubanetworks.com
 ns4.arubanetworks.com
 partners.arubanetworks.com
-www.afp.arubanetworks.com
 alpha-1fctlr5.arubanetworks.com
 bugzilla-test.arubanetworks.com
 es-stg.feature-jimmy-2820.k8s-prod.getaws.arubanetworks.com
@@ -2038,8 +1998,6 @@ issu-es-stg.devops.eks-stg-use1.getaws.arubanetworks.com
 si-filebeat-apac-au.arubanetworks.com
 asp-stg-rel-8-3-gzip.eks-stg-use1.getaws.arubanetworks.com
 es.hotfix-5-7-0-h.k8s-prod.getaws.arubanetworks.com
-www.indigo.arubanetworks.com
-www.sso-uat.arubanetworks.com
 airwave-ph.arubanetworks.com
 asp-stg-asp-cs.k8s-prod.getaws.arubanetworks.com
 asp-stg.emdm.k8s-prod.getaws.arubanetworks.com
@@ -2089,7 +2047,6 @@ asp-stg.read-only-view.k8s-prod.getaws.arubanetworks.com
 rendertron.k8s-prod.getaws.arubanetworks.com
 titan.arubanetworks.com
 tower.dev.getaws.arubanetworks.com
-www.workspace-qa.arubanetworks.com
 asp-stg-rel-5-9.k8s-prod.getaws.arubanetworks.com
 dc2-3600.depoc.arubanetworks.com
 ds-es-stg.okta-demo-hpe.k8s-prod.getaws.arubanetworks.com
@@ -2112,10 +2069,8 @@ sw.arubanetworks.com
 uswest4-hc.central.arubanetworks.com
 asp-stg-hotfix-5-1-0-a.k8s-prod.getaws.arubanetworks.com
 erate.arubanetworks.com
-fbapps.arubanetworks.com
 opengrok1.arubanetworks.com
 lms-stg-afc-license.k8s-stg.getaws.arubanetworks.com
-www.search.arubanetworks.com
 ofc-apacsouth.central.arubanetworks.com
 extrack.ext.arubanetworks.com
 prod-v3.arubanetworks.com
@@ -2156,11 +2111,9 @@ ds-es-stg.hotfix-5-2a.k8s-prod.getaws.arubanetworks.com
 es-stg.rel-8-2.internal.eks-stg-use1.getaws.arubanetworks.com
 in.api.central.arubanetworks.com
 sso-federated-services.arubanetworks.com
-www.prod-v3.arubanetworks.com
 2factor.arubanetworks.com
 asp.develop.k8s.getaws.arubanetworks.com
 csl-es.master.k8s-prod.getaws.arubanetworks.com
-www.merchandise.arubanetworks.com
 asp-stg-busy-loop.k8s-prod.getaws.arubanetworks.com
 asp.feature-ravi-293.k8prod.getaws.arubanetworks.com
 asp-stg-rebrand.k8s-prod.getaws.arubanetworks.com
@@ -2174,19 +2127,16 @@ arubasftp.arubanetworks.com
 asp-stg-podman.internal.eks-stg.getaws.arubanetworks.com
 es.refresh-apollo.k8s-prod.getaws.arubanetworks.com
 kn.arubanetworks.com
-www.via-emea.arubanetworks.com
 asp-stg-uat-test.k8s-prod.getaws.arubanetworks.com
 dashboard1.baikal.arubanetworks.com
 es-stg.silver-peak.k8s-prod.getaws.arubanetworks.com
 pop3.arubanetworks.com
 servicesapi-dev.arubanetworks.com
-sso-dev.arubanetworks.com
 trainingvdi2.arubanetworks.com
 arubatraining.arubanetworks.com
 asp-stg-rel-6-1.k8s-prod.getaws.arubanetworks.com
 asp.feature-praveen-lms-mutations.k8s.getaws.arubanetworks.com
 asp-va-stg-rel-8-2.eks-stg-use1.getaws.arubanetworks.com
-b2bt.arubanetworks.com
 ds-es-stg.uat-test.k8s-prod.getaws.arubanetworks.com
 goliath-mm.arubanetworks.com
 sjc-l2013fe-05.arubanetworks.com
@@ -2195,7 +2145,6 @@ ccs-user-api-cop-solutions.arubanetworks.com
 cx-feature-navigator.dev.getaws.arubanetworks.com
 es.search-refinement.k8s-prod.getaws.arubanetworks.com
 test.arubanetworks.com
-www.partners.arubanetworks.com
 ans-stg-develop.k8s-prod.getaws.arubanetworks.com
 asp-stg-okta.k8s-prod.getaws.arubanetworks.com
 asp-stg-docker-build-on-ek.k8s-stg.getaws.arubanetworks.com
@@ -2206,7 +2155,6 @@ ans-stg-hotfix-7-0.k8s-prod.getaws.arubanetworks.com
 app.channel.arubanetworks.com
 cop-apollo.arubanetworks.com
 livechat-qa.arubanetworks.com
-www.via.arubanetworks.com
 mm-7005-mcd-004-prd.central.arubanetworks.com
 pavo.iot.developer.arubanetworks.com
 asp.apollo-uat.k8s-prod.getaws.arubanetworks.com
@@ -2227,7 +2175,6 @@ aria.arubanetworks.com
 tok-wac.arubanetworks.com
 es-stg.uat-test.k8s-prod.getaws.arubanetworks.com
 sjc-l2013edg-02.arubanetworks.com
-www.ase.arubanetworks.com
 images.central.arubanetworks.com
 alertmanager.k8s-prod.getaws.arubanetworks.com
 asp-stg-test-6005.k8s-prod.getaws.arubanetworks.com
@@ -2432,7 +2379,6 @@ devops-eks.k8s-prod.getaws.arubanetworks.com
 rap-emea.arubanetworks.com
 argon-ci.arubanetworks.com
 staging-viadistributiad-lb-labs-euraeura1-sc360-dev-rap1.devicemanager.central.arubanetworks.com
-www.boards.arubanetworks.com
 alphausers-nb.isb.arubanetworks.com
 cslapi.internal.eks-stg-use1.getaws.arubanetworks.com
 rma-prod.k8s-prod.getaws.arubanetworks.com
@@ -2510,7 +2456,6 @@ arubanetworks.dertron.k8s-prod.getaws.arubanetworks.com
 okta-demo.k8s-prod.getaws.arubanetworks.com
 eucentral3.cloudops.arubanetworks.com
 ebc.arubanetworks.com
-www.devicemanager.central.arubanetworks.com
 asp-hotfix-8-0-f.eks-prod-usw1.getaws.arubanetworks.com
 sso-uiduat.arubanetworks.com
 ans-stg-hotfix-8-4-a.eks-stg-use1.getaws.arubanetworks.com
@@ -2702,7 +2647,6 @@ certification.arubanetworks.com
 sell.arubanetworks.com
 asp-stg-use-base-nginx.eks-stg-use1.getaws.arubanetworks.com
 newtestwebsiteenvironment.arubanetworks.com
-www.security-ci.arubanetworks.com
 rcs-ng-eucentral2.central.arubanetworks.com
 hotfix-3-8-0-f.k8s-prod.getaws.arubanetworks.com
 app-attbeta.central.arubanetworks.com
@@ -3158,7 +3102,6 @@ aed-legacy.getaws.arubanetworks.com
 atmosphere.k8s-prod.getaws.arubanetworks.com
 issu-es-stg.gs-16233-praharsha.eks-stg-use1.getaws.arubanetworks.com
 rcs-azinternal.central.arubanetworks.com
-www.acp-ci.arubanetworks.com
 attbeta.cloudops.arubanetworks.com
 device-attbeta.central.arubanetworks.com
 test.invite.arubanetworks.com
@@ -3167,10 +3110,8 @@ apigw-stgthdnaas.central.arubanetworks.com
 bastion.apacsouth.cloudguest.central.arubanetworks.com
 ds-es-stg.rel-7-4.internal.eks-stg-use1.getaws.arubanetworks.com
 rcs-ng-xp-apaceast.central.arubanetworks.com
-www.praas.arubanetworks.com
 hotfix-5-2-0-g.k8s-prod.getaws.arubanetworks.com
 csl-es-stg.dass-8668-upgrade.eks-stg-use1.getaws.arubanetworks.com
-*.sc360-uat.arubanetworks.com
 byod.si-dev-us3.arubanetworks.com
 itsm.si-dev-us3.arubanetworks.com
 via-css1.arubanetworks.com

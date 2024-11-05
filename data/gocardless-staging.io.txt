@@ -30,7 +30,7 @@ skyhook-que.gocardless-staging.io
 alertmanager.gocardless-staging.io
 frontier-live.gocardless-staging.io
 i18n-relay-public.gocardless-staging.io
-www.engineering.gocardless-staging.io
+engineering.gocardless-staging.io
 api-test-staging.gocardless-staging.io
 frontier-sandbox.gocardless-staging.io
 i18n-relay-admin.gocardless-staging.io
@@ -62,7 +62,6 @@ storybook-backstage.gocardless-staging.io
 avro.gocardless-staging.io
 blog.gocardless-staging.io
 chat.gocardless-staging.io
-engineering.gocardless-staging.io
 frontier-que-sandbox.gocardless-staging.io
 guac.gocardless-staging.io
 ob-gcp.gocardless-staging.io
@@ -109,7 +108,6 @@ dev-docs.gocardless-staging.io
 dropsite-dropsite-billing-1.gocardless-staging.io
 oauth.gocardless-staging.io
 privacy-broker.gocardless-staging.io
-www.developer-handbook.gocardless-staging.io
 developer.gocardless-staging.io
 ais-dashboard.gocardless-staging.io
 lookup.gocardless-staging.io
@@ -130,4 +128,3 @@ risk-que.gocardless-staging.io
 github-event-publisher.gocardless-staging.io
 open-banking-testbed.gocardless-staging.io
 prometheus.na.gocardless-staging.io
-www.gocardless-staging.io

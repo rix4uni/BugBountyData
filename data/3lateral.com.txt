@@ -4,10 +4,8 @@ cloudfront-epicgames.3lateral.com
 ftp.3lateral.com
 gh-mail.3lateral.com
 email.gh-mail.3lateral.com
-www.3lateral.com
 dev.3lateral.com
 enterpriseregistration.3lateral.com
-*.3lateral.com
 _dmarc.3lateral.com
 mail.3lateral.com
 legacyvps.3lateral.com

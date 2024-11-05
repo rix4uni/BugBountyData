@@ -4,7 +4,6 @@ maedapi.dev.cftc.gov
 maedapi.test.cftc.gov
 maedapi.uat.cftc.gov
 comments.cftc.gov
-www.cftc.gov
 odata.rhm.dev.cftc.gov
 odata.maedreference.dev.cftc.gov
 odata.workforce.dev.cftc.gov
@@ -46,7 +45,7 @@ sirt.cftc.gov
 odata.lms.uat.cftc.gov
 dcprdlib.cftc.gov
 odata.maedhistory.uat.cftc.gov
-www.whistleblower.cftc.gov
+whistleblower.cftc.gov
 cftcfw.cftc.gov
 forms.test.cftc.gov
 mail.portal.cftc.gov
@@ -70,7 +69,6 @@ odata.offboarding.test.cftc.gov
 odata.pcs.test.cftc.gov
 odata.physicalsecurity.test.cftc.gov
 workforce.dev.cftc.gov
-www.workspace.cftc.gov
 odata.offboarding.uat.cftc.gov
 odata.rhm.test.cftc.gov
 portalapi1.dev.cftc.gov
@@ -111,13 +109,10 @@ smtp.cftc.gov
 traders.cftc.gov
 commsvc.biztalk.cftc.gov
 odata.workforce.uat.cftc.gov
-www.odata.workforce.test.cftc.gov
 odata.physicalsecurity.uat.cftc.gov
 portal.test.cftc.gov
 odata.maedreference.uat.cftc.gov
-www.smartcheck.cftc.gov
 taxii.cftc.gov
-www.services.cftc.gov
 av-engine-2019.cftc.gov
 ec2-96-127-87-23.us-gov-west-1.compute.amazonawlmail.cftc.gov
 mail.cftc.gov
@@ -133,5 +128,4 @@ forms1.test.cftc.gov
 legacy.cftc.gov
 cftcfw1.cftc.gov
 forms.dev.cftc.gov
-whistleblower.cftc.gov
 sirtftp.cftc.gov

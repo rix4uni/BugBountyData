@@ -2,7 +2,6 @@ stores.adoreme.com
 help.adoreme.com
 embrace.adoreme.com
 media-resize.adoreme.com
-www.adoreme.com
 m.adoreme.com
 server-side.adoreme.com
 se.m.adoreme.com
@@ -30,7 +29,7 @@ vpn-a.buh.adoreme.com
 datalance-dev.adoreme.com
 mta3.msg.adoreme.com
 git-receiver.vsuat.adoreme.com
-www.shopify-giftcard.retail.adoreme.com
+shopify-giftcard.retail.adoreme.com
 clark.adoreme.com
 git-receiver.vsprod.adoreme.com
 news.adoreme.com
@@ -82,11 +81,10 @@ dev-mag12.adoreme.com
 looker.adoreme.com
 quay-receiver.vsuat.adoreme.com
 shopify-fulfillment.retail.adoreme.com
-www.collections.adoreme.com
 datascience.adoreme.com
 gcs-img-tst-uploader.adoreme.com
 vs-monitoring.adoreme.com
-www.popup.adoreme.com
+popup.adoreme.com
 beanstalkd.retail.adoreme.com
 media.adoreme.com
 flux-receiver.stg.adoreme.com
@@ -119,15 +117,12 @@ vpn.adoreme.com
 dev.adoreme.com
 byc.adoreme.com
 world.adoreme.com
-www.stores.adoreme.com
 mgt.vpn.adoreme.com
 mta1.ev.adoreme.com
 send.adoreme.com
 vpn-a.nyc.adoreme.com
 vsprod-ops.adoreme.com
 firmly.adoreme.com
-popup.adoreme.com
-shopify-giftcard.retail.adoreme.com
 vendor.adoreme.com
 virtual-wall.prd.adoreme.com
 ops.adoreme.com
@@ -153,5 +148,4 @@ ms-tap.vsuat.adoreme.com
 pct.prd.adoreme.com
 mg.t.adoreme.com
 mg.m.adoreme.com
-*.prod.adoreme.com
 mercure.adoreme.com

@@ -3,7 +3,6 @@ api-staging.remixd.com
 player.remixd.com
 exchange-ott.remixd.com
 tags-staging.remixd.com
-www.remixd.com
 player-files-staging.remixd.com
 dashboard-staging.remixd.com
 feeds-staging.remixd.com
@@ -20,9 +19,7 @@ feeds.remixd.com
 tags.remixd.com
 dashboard.remixd.com
 pubcast-files-staging.remixd.com
-*.remixd.com
 audio.remixd.com
-*.player.remixd.com
 cpanel.remixd.com
 ns.remixd.com
 pubcast-tags.remixd.com

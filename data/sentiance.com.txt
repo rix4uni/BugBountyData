@@ -136,19 +136,6 @@ wapi.operations.sentiance.com
 weather.sentiance.com
 wiscnet.tiles-integration.sentiance.com
 ws.sentiance.com
-www.firehose-sink.g2.sentiance.com
-www.firehose.g2.sentiance.com
-www.firehose.h11.sentiance.com
-www.firehose.p9.sentiance.com
-www.firehose.sentiance.com
-www.journeys-api.sentiance.com
-www.journeys-preprod-api.sentiance.com
-www.journeysbe.sentiance.com
-www.mtls-api.h11.sentiance.com
-www.preprod-firehose-sink.sentiance.com
-www.preprod-firehose.sentiance.com
-www.sentiance.com
-www.staging3.sentiance.com
 www2.announcements.sentiance.com
 www2.sentiance.com
 y13.sentiance.com
@@ -4671,7 +4658,6 @@ ba6pwpnrayobwgmvx8gt9q8oi8j2fnb.sentiance.com
 8k9ya5nb4e4um1r8s-wgavo0vyizdd4.sentiance.com
 49-75.sentiance.com
 9i2oqz65o2oyhiuz3bv3bptr8-t2zkf.sentiance.com
-.sentiance.com
 a3kx19ghaoq1iyw7zu9psy3oq45mr24.sentiance.com
 76c3nmsizrriofvme5vhbyje8y86z8s.sentiance.com
 beta7-1-2.sentiance.com
@@ -5147,7 +5133,6 @@ http.h11.sentiance.com
 http.sentiance.com
 http.api.p9.sentiance.com
 http.api.y13.sentiance.com
-.announcements.sentiance.com
 http.resources.sentiance.com
 http.mtls-api.h11.sentiance.com
 http.drive.sentiance.com

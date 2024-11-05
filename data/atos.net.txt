@@ -26,7 +26,7 @@ airflow.a901712.eu1-a.dev.bm4gcp.agea.atos.net
 api.a623365.global-a.dev.bm4gcp.agea.atos.net
 docs.pcs.aws.atos.net
 netbox.a915074.global-a.dev.bm4gcp.agea.atos.net
-*.k8s.cmo.agea.atos.net
+k8s.cmo.agea.atos.net
 ccc.ng911.agea.atos.net
 ccc-west.ng911.agea.atos.net
 ccc-central.ng911.agea.atos.net
@@ -223,7 +223,7 @@ seed.bds.atos.net
 regtest.devstub3.dev-bm4gcp.agea.atos.net
 nzt.myco2c.adh.atos.net
 quicksight.dcs.aws.atos.net
-www.ams.agea.atos.net
+ams.agea.atos.net
 jira.meshtest-1.lab.cloud.sps.atos.net
 jira.meshtest.lab.cloud.sps.atos.net
 rebelbase.meshtest.lab.cloud.sps.atos.net

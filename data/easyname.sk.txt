@@ -1,15 +1,13 @@
 sst.easyname.sk
-www.easyname.sk
 local.dev.easyname.sk
 my.easyname.sk
 backoffice.adepretis.dev.easyname.sk
 system.adepretis.dev.easyname.sk
 static.adepretis.dev.easyname.sk
-www.adepretis.dev.easyname.sk
+adepretis.dev.easyname.sk
 css.adepretis.dev.easyname.sk
 api.adepretis.dev.easyname.sk
 phpmyadmin.adepretis.dev.easyname.sk
-adepretis.dev.easyname.sk
 js.adepretis.dev.easyname.sk
 my.adepretis.dev.easyname.sk
 images.adepretis.dev.easyname.sk
@@ -23,7 +21,6 @@ phpmyadmin.mlinzmayer.dev.easyname.sk
 api.mlinzmayer.dev.easyname.sk
 my.mlinzmayer.dev.easyname.sk
 css.mlinzmayer.dev.easyname.sk
-www.mlinzmayer.dev.easyname.sk
 backoffice.atwirdy.dev.easyname.sk
 static.atwirdy.dev.easyname.sk
 api.atwirdy.dev.easyname.sk
@@ -31,9 +28,8 @@ css.atwirdy.dev.easyname.sk
 system.atwirdy.dev.easyname.sk
 my.atwirdy.dev.easyname.sk
 images.atwirdy.dev.easyname.sk
-www.atwirdy.dev.easyname.sk
-phpmyadmin.atwirdy.dev.easyname.sk
 atwirdy.dev.easyname.sk
+phpmyadmin.atwirdy.dev.easyname.sk
 js.atwirdy.dev.easyname.sk
 js.cneaga.dev.easyname.sk
 my.cneaga.dev.easyname.sk
@@ -43,7 +39,6 @@ phpmyadmin.cneaga.dev.easyname.sk
 backoffice.cneaga.dev.easyname.sk
 system.cneaga.dev.easyname.sk
 api.cneaga.dev.easyname.sk
-www.cneaga.dev.easyname.sk
 images.cneaga.dev.easyname.sk
 static.cneaga.dev.easyname.sk
 tsemmler.dev.easyname.sk
@@ -54,7 +49,6 @@ js.tsemmler.dev.easyname.sk
 static.tsemmler.dev.easyname.sk
 css.tsemmler.dev.easyname.sk
 backoffice.tsemmler.dev.easyname.sk
-www.tsemmler.dev.easyname.sk
 phpmyadmin.tsemmler.dev.easyname.sk
 api.tsemmler.dev.easyname.sk
 api.jino.dev.easyname.sk
@@ -67,7 +61,6 @@ phpmyadmin.jino.dev.easyname.sk
 js.jino.dev.easyname.sk
 static.jino.dev.easyname.sk
 css.jino.dev.easyname.sk
-www.jino.dev.easyname.sk
 api.ras.dev.easyname.sk
 dev.easyname.sk
 my.ras.dev.easyname.sk
@@ -76,15 +69,13 @@ phpmyadmin.ras.dev.easyname.sk
 css.ras.dev.easyname.sk
 static.ras.dev.easyname.sk
 js.ras.dev.easyname.sk
-www.ras.dev.easyname.sk
-images.ras.dev.easyname.sk
 ras.dev.easyname.sk
+images.ras.dev.easyname.sk
 system.ras.dev.easyname.sk
 stage.easyname.sk
 css.stage.easyname.sk
 backoffice.stage.easyname.sk
 static.stage.easyname.sk
-www.stage.easyname.sk
 images.stage.easyname.sk
 js.stage.easyname.sk
 system.stage.easyname.sk

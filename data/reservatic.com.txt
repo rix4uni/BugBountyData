@@ -4,7 +4,6 @@ swagger.reservatic.com
 dev-iframe.reservatic.com
 turn-jitsi-meet.reservatic.com
 test.reservatic.com
-www.reservatic.com
 stats.reservatic.com
 dev.reservatic.com
 api.reservatic.com
@@ -13,9 +12,7 @@ api-dev.reservatic.com
 meet.reservatic.com
 kapacita.reservatic.com
 transmise-status.reservatic.com
-www.msk.reservatic.com
-www.nis.reservatic.com
+msk.reservatic.com
 nis.reservatic.com
 old.reservatic.com
-msk.reservatic.com
 status.reservatic.com

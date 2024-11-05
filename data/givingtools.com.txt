@@ -9,12 +9,11 @@ bandwidth-bot.givingtools.com
 blog.givingtools.com
 ns1.box.givingtools.com
 autoscaler.drone.givingtools.com
-www.host.givingtools.com
+host.givingtools.com
 admin.givingtools.com
 status.givingtools.com
 api.givingtools.com
 autoconfig.box.givingtools.com
-www.givingtools.com
 drone.givingtools.com
 mta-sts.status.givingtools.com
 obj.staging.givingtools.com
@@ -25,12 +24,10 @@ staging.givingtools.com
 box.givingtools.com
 hub.givingtools.com
 mta-sts.box.givingtools.com
-www.staging.givingtools.com
 short.staging.givingtools.com
 agent.drone.givingtools.com
 mail.givingtools.com
 gt4.givingtools.com
-host.givingtools.com
 mta-sts.givingtools.com
 admin.staging.givingtools.com
 obj.givingtools.com

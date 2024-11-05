@@ -9,7 +9,6 @@ bofa.myglance.net
 bofa-staging-presence-1.myglance.net
 cobrowse-bofa-location.myglance.net
 cdn-bofa.myglance.net
-www.myglance.net
 s0201.myglance.net
 glance-cam-bofa.myglance.net
 lb-bofa-video.myglance.net
@@ -20,7 +19,7 @@ staging-cam-1.myglance.net
 bofa-staging-video-a-1.myglance.net
 cdnstorage.myglance.net
 lb-qa-video.myglance.net
-www.ratetiger.myglance.net
+ratetiger.myglance.net
 cdn.myglance.net
 bofa-staging-nc-us-east-1.myglance.net
 bofa-staging-cloud.myglance.net
@@ -67,7 +66,6 @@ staging-cdn.myglance.net
 s0101.myglance.net
 ns-1070.awsdns-05.org.myglance.net
 staging-session-a-4.myglance.net
-ratetiger.myglance.net
 staging-video-a-1.myglance.net
 ns-466.awsdns-58.com.myglance.net
 lb-video.myglance.net

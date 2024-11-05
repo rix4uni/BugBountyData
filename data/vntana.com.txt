@@ -5,7 +5,7 @@ platform.vntana.com
 portal.vntana.com
 qa.vntana.com
 material-exchange-demo.vntana.com
-www.staging3.vntana.com
+staging3.vntana.com
 william-and-lauren.vntana.com
 optimization.vntana.com
 auth-acc.vntana.com
@@ -17,7 +17,6 @@ blog.vntana.com
 apps.vntana.com
 cdn.vntana.com
 demo.vntana.com
-www.vntana.com
 platform.acc.vntana.com
 staging2.vntana.com
 shop.vntana.com
@@ -25,7 +24,6 @@ static.acc.vntana.com
 static.staging.vntana.com
 landingpage.vntana.com
 demo.platform.vntana.com
-www.static.acc.vntana.com
 viewer.vntana.com
 billing.vntana.com
 static.dev.vntana.com
@@ -33,7 +31,6 @@ render.vntana.com
 track.vntana.com
 docker-registry.vntana.com
 jabra.vntana.com
-www.static.staging.vntana.com
 material-bank-demo.vntana.com
 static.vntana.com
 auth.vntana.com
@@ -50,5 +47,4 @@ embed.acc.vntana.com
 embed.vntana.com
 services.vntana.com
 maintenance.vntana.com
-www.test.vntana.com
-*.dev.saas.vntana.com
+dev.saas.vntana.com

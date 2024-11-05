@@ -90,7 +90,6 @@ business-api.staging.k8s.skipr.ninja
 api.development.skipr.ninja
 routing-map.test.skipr.ninja
 system-dashboard.production.skipr.ninja
-www.skipr.ninja
 booking-api.test.skipr.ninja
 booking-webview-api.production.skipr.ninja
 data-science.staging.skipr.ninja

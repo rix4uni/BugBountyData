@@ -29,7 +29,7 @@ infodienstenbpr2.prorail.nl
 scp-ms-oauth.prorail.nl
 fmis.prorail.nl
 kpi.prorail.nl
-www.referralprogramma.prorail.nl
+referralprogramma.prorail.nl
 uiabmobile.prorail.nl
 raildata.prorail.nl
 raildata-acc.prorail.nl
@@ -179,7 +179,6 @@ icto6-acc.prorail.nl
 icto6.prorail.nl
 sigma.prorail.nl
 railapps.prorail.nl
-www.prorail.nl
 otl.prorail.nl
 mijnprorail.prorail.nl
 k2workspace.prorail.nl
@@ -209,7 +208,7 @@ bconnect.tp.prorail.nl
 cbecc.prorail.nl
 gdc0000-nb09.ka.prorail.nl
 wagenlijst.prorail.nl
-www.aanbesteden.prorail.nl
+aanbesteden.prorail.nl
 visi-rrcb-a.prorail.nl
 ovgsacc.prorail.nl
 ctov.prorail.nl

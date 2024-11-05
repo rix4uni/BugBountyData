@@ -690,7 +690,6 @@ origin-qa-www1.pega.com
 dev-www1.pega.com
 ocsrp.pega.com
 dev-digitalit.pega.com
-*.wfi.pega.com
 usassets.cobrowse.pega.com
 disaster-recovery.pm.pega.com
 pega-docker.downloads.pega.com
@@ -705,7 +704,6 @@ ee.lab.pega.com
 euassets.cobrowse.pega.com
 collectionsstg.pega.com
 mhbkemea.wfi.pega.com
-www.pega.com
 lu-84-blr.eng.pega.com
 lu-85-hyd.eng.pega.com
 721-hfix.eng.pega.com
@@ -713,12 +711,8 @@ lu-84-hyd.eng.pega.com
 lu-84-cam.eng.pega.com
 lu-7413hfix-cam.eng.pega.com
 mkt-us-84.eng.pega.com
-www.portal.pega.com
 admin.pega.com
 lyncdiscoverinternal.pega.com
-www.voip-apme1.pega.com
 owa.pega.com
-www.bed-bdr-cucm-pub-ms.pega.com
 cdm.pega.com
 wburndubu.eng.pega.com
-www.localruntime.pega.com

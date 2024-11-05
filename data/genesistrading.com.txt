@@ -20,7 +20,6 @@ firezone.genesistrading.com
 gc.dev.genesistrading.com
 observe-qa.genesistrading.com
 dev.genesistrading.com
-www.genesistrading.com
 gys.qa.genesistrading.com
 delta1.genesistrading.com
 prime.dev.genesistrading.com
@@ -50,18 +49,11 @@ blog.genesistrading.com
 careers.genesistrading.com
 observe-dev.genesistrading.com
 gys-internal.uat.genesistrading.com
-www.access.genesistrading.com
 dr.genesistrading.com
-www.leader1.genesistrading.com
+leader1.genesistrading.com
 lgc1.genesistrading.com
-www.platform.genesistrading.com
 qa.genesistrading.com
-www.lgc1.genesistrading.com
 options-pricing.uat.genesistrading.com
-www.singapore.genesistrading.com
-www.apps.genesistrading.com
-www.signin.genesistrading.com
-www.vpn.genesistrading.com
 gys-internal.genesistrading.com
 gys.uat.genesistrading.com
 gt-prd.genesistrading.com
@@ -70,9 +62,6 @@ trading.uat.genesistrading.com
 gys.genesistrading.com
 prime.uat.genesistrading.com
 gitlab-risksystem.genesistrading.com
-leader1.genesistrading.com
 api.uat.genesistrading.com
 developers-dev.genesistrading.com
 options-pricing.genesistrading.com
-*.genesistrading.com
-*.dr.genesistrading.com

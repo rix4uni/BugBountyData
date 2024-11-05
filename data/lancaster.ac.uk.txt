@@ -1,4 +1,4 @@
-*.management.cluster.lusi.lancaster.ac.uk
+management.cluster.lusi.lancaster.ac.uk
 netsys-infra.lancaster.ac.uk
 sisyphus.lancaster.ac.uk
 bnclab.lancaster.ac.uk
@@ -16,8 +16,6 @@ netsys-loki.lancaster.ac.uk
 kulkea.lancaster.ac.uk
 mis-selenga.lancaster.ac.uk
 overseas-representatives.lancaster.ac.uk
-www.overseas-representatives.lancaster.ac.uk
 imagination.lancaster.ac.uk
 mis-shilka.lancaster.ac.uk
 postgraduate-applications.lancaster.ac.uk
-www.postgraduate-applications.lancaster.ac.uk

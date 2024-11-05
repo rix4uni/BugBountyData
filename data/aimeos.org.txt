@@ -74,16 +74,13 @@ help.aimeos.org
 webmail.aimeos.org
 smtp.aimeos.org
 docs.aimeos.org
-www.aimeos.org
 demo.aimeos.org
 packages.aimeos.org
 typo12.demo.aimeos.org
 dev.aimeos.org
-www.storage.aimeos.org
 docker.aimeos.org
 test.demo.aimeos.org
 typo32.demo.aimeos.org
 dev.demo.aimeos.org
 symfony.demo.aimeos.org
-*.aimeos.org
 slim.demo.aimeos.org

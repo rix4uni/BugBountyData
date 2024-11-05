@@ -190,20 +190,6 @@ bc2backend-cdn.prime-qa.psynet.gg
 psyclone.dev-monroe.internal.psynet.gg
 bc2backend.prime.internal.psynet.gg
 bc2backend.mesa.internal.psynet.gg
-*.config.psynet.gg
-*.ds.psynet.gg
-*.internal.psynet.gg
-*.rlbt.psynet.gg
-*.rlmlt.psynet.gg
-*.rlmp.psynet.gg
-*.rlms.psynet.gg
-*.rlmt.psynet.gg
-*.rlplt.psynet.gg
-*.rlpp.psynet.gg
-*.rlps.psynet.gg
-*.rlps-cert.psynet.gg
-*.rlpt.psynet.gg
-*.ttd.psynet.gg
 bc2backend-cdn.mesa-qa.psynet.gg
 mothership-staging.analytics.internal.psynet.gg
 pam.rlps.psynet.gg
@@ -215,7 +201,6 @@ rlbackend-rlps-cert.prod.internal.psynet.gg
 rlbackend-rlps.prod.internal.psynet.gg
 rlbackend-rlpt.prod.internal.psynet.gg
 rlbackend.prod.internal.psynet.gg
-*.psynet.gg
 rlbt.internal.psynet.gg
 02-c6de4d56-12b4-6261-b9aa-8c07ab446727admintest.config.psynet.gg
 03-c6de4d56-12b4-6261-b9aa-8c07ab446727-atg.config.psynet.gg
@@ -243,7 +228,6 @@ application.01src-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 bookings.01.config.psynet.gg
 0-backups2.config.psynet.gg
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727b8de5edf5721.config.psynet.gg
-www.psynet.gg
 0-239test-allc6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 02-06test-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 01dongzuo-8c07ab446727li.config.psynet.gg
@@ -315,7 +299,7 @@ academy.007aca15c0bf.config.psynet.gg
 amonsul.01kato.config.psynet.gg
 01src-test-8vaultemail.config.psynet.gg
 03-c6de4d56-12b4-6261-b9aa-8c07ab446727-katonl.config.psynet.gg
-www.google.combucky.0.0.ttd.e.staffccnt.032testdocs-chmail.config.psynet.gg
+google.combucky.0.0.ttd.e.staffccnt.032testdocs-chmail.config.psynet.gg
 appbase.03-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 01-cadastro-assets-elastic-apac-test.config.psynet.gg
 01dongzuoimages.config.psynet.gg
@@ -525,7 +509,7 @@ abp.c6de4d56-12b4-6261-b9aa-8c07ab446727.032test.config.psynet.gg
 c6de4d56-12b4-6261-b9aa-8c07ab446727-api2-rlcq-regiontest.01kato.config.psynet.gg
 0323drqqutofi-1security.config.psynet.gg
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727config-t9.config.psynet.gg
-www.01src-test-canakkale.config.psynet.gg
+01src-test-canakkale.config.psynet.gg
 aircraft.c6de4d56-12b4-6261-b9aa-8c07ab446727.03-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 ci-test.02utzniyz52654ahi.config.psynet.gg
 03-c6de4d56-12bc6de4d56-12bvault18.config.psynet.gg
@@ -625,7 +609,7 @@ applicationstest.01dongzuo.config.psynet.gg
 02tacomas.config.psynet.gg
 api.rlms.www.cmp.02-test.config.psynet.gg
 01dongzuo7.config.psynet.gg
-www.007aca15c0bf-59mdw.config.psynet.gg
+007aca15c0bf-59mdw.config.psynet.gg
 0109e319b9kgpkct5hya7jk4-sx.config.psynet.gg
 03-test.01src-test.config.psynet.gg
 01src-activities-test.config.psynet.gg
@@ -1059,7 +1043,7 @@ adserver-as.adtech.023565.config.psynet.gg
 01-17-10-11-13-contatos-test.config.psynet.gg
 01dongzuobentre.config.psynet.gg
 8c07ab446727ns01.01dongzuo-test.config.psynet.gg
-www.city.0-239testazumino.config.psynet.gg
+city.0-239testazumino.config.psynet.gg
 c6de4d56-12b4-6261-b9aa-12-test.01kato.config.psynet.gg
 bkp-test.023565-bkp.config.psynet.gg
 catapult-dev.01src-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
@@ -1292,7 +1276,7 @@ adminpgd.01src-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 20-c6de4d56-12b4-6261-b9aa-8c07ab446727.02-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 0109e319ba-admin.config.psynet.gg
 origin.01dongzuo-backup.config.psynet.gg
-www.city.01-cadastro-contatos-testazumino.config.psynet.gg
+city.01-cadastro-contatos-testazumino.config.psynet.gg
 0-239testbackupserver.config.psynet.gg
 02-ac-toolsc6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 17c6de4d56-12b4-6261-b9aa-8c07ab446727.03-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
@@ -1648,7 +1632,6 @@ akali.03-test.config.psynet.gg
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727com.config.psynet.gg
 01-cadastro-contatos-5f6b98f8f62026000c2c0e5c.config.psynet.gg
 sandboxtest.02-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
-www.02-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 02-c6de4d56-12b4-6261-b9aa-8c07ab446727abbonati.config.psynet.gg
 032redir-ttd.config.psynet.gg
 02c6de4d56-2005-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
@@ -2058,7 +2041,7 @@ angular2-quickstartc6de4d56-12b4-6261-b9aa-8c07ab446727.02-c6de4d56-12b4-6261-b9
 c6de4d56-12b4-6261-b9aa-8c07ab446727.02c6de4d56.config.psynet.gg
 02-test-53-7est.config.psynet.gg
 01-brainportal-test-contatos-test.config.psynet.gg
-www.0-239test-api1.config.psynet.gg
+0-239test-api1.config.psynet.gg
 02-testb3a823d0c8d590028f9bab05bffe7c7d00c8a0022afa8cd.config.psynet.gg
 pc47.c6de4d56-12b4-6261-b9aa-8c07ab446727.01dongzuo-test.config.psynet.gg
 02-test-4est.config.psynet.gg
@@ -2275,7 +2258,7 @@ reset.02-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 01src-c6de4d56-12badministrator-secure.config.psynet.gg
 007aca15c0bf-acteurs.config.psynet.gg
 srv-2017-10-05-21.config.01dongzuo-test189.config.psynet.gg
-www.google.combucky.cdoguchi-33733.org-anissa-areariservata-machine.cmnlistmail.0393c-finion-public-service.staffccnt.023565-config.config.psynet.gg
+google.combucky.cdoguchi-33733.org-anissa-areariservata-machine.cmnlistmail.0393c-finion-public-service.staffccnt.023565-config.config.psynet.gg
 apache-security.01-cadastro-contatos-test.config.psynet.gg
 backup-test-orig.02c6de4d56.config.psynet.gg
 02-addons-test.config.psynet.gg
@@ -2327,7 +2310,7 @@ dec.01dongzuo.config.psynet.gg
 02c6de4d56-12b4-6261-b9aa-8c07ab446727cdn-p.config.psynet.gg
 8870010bdb160.03-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 c6de4d56-12b4-6261-b9aa-8c07ab4467278c07ab446727compras.01kato.config.psynet.gg
-www.google.combucky.cdoguchi-33733.org-anissa-areariservata-machine.cmnlistmail.0393c-finion-public-service.staffccnt.01src-test-config.config.psynet.gg
+google.combucky.cdoguchi-33733.org-anissa-areariservata-machine.cmnlistmail.0393c-finion-public-service.staffccnt.01src-test-config.config.psynet.gg
 01dongzuo-test-cargo-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727-alertsc6de4d56.config.psynet.gg
 032redir-24c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
@@ -2536,7 +2519,7 @@ a-traffic.01src-test.config.psynet.gg
 01kato-akali.config.psynet.gg
 03-c6de4d56-12b4-6261-b9aa-8c07ab446727-372ato.config.psynet.gg
 02b-test-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
-www.007prokom-api1.config.psynet.gg
+007prokom-api1.config.psynet.gg
 users14-test.00.config.psynet.gg
 02-c6de4d56-12b4-6261-b9aa-8c07ab446727metrics.config.psynet.gg
 007prokombootswatch.config.psynet.gg
@@ -2596,7 +2579,7 @@ server.01kato-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 03-testantispam.config.psynet.gg
 02-c6de4d56-12b4-6261-b9aa-8c07ab446727analytics2.config.psynet.gg
 test.032redir-confluence.config.psynet.gg
-www.03-c6de4d56-12b4-6261-b9aa-8c07ab446727bct.config.psynet.gg
+03-c6de4d56-12b4-6261-b9aa-8c07ab446727bct.config.psynet.gg
 c6de4d56-12b4-6261-b9aa-8c07ab446727.01kato12bmichigan.config.psynet.gg
 assets02.01dongzuo-test.config.psynet.gg
 01kato-12b4-6261-b9aa-8c07ab446727k8s-dev.config.psynet.gg
@@ -2612,7 +2595,7 @@ campaign.007prokom.config.psynet.gg
 319359-test.01-cadastro-contatos-test.config.psynet.gg
 biobio.02c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 01src-test-acdn.config.psynet.gg
-www.bbs.01src-test.config.psynet.gg
+bbs.01src-test.config.psynet.gg
 01-cadastro-contatos07test.config.psynet.gg
 01backend.config.psynet.gg
 0235654-6261-b9aa-8c07ab446727-cust84.config.psynet.gg
@@ -3200,7 +3183,7 @@ analysestest.032redir.config.psynet.gg
 01-cadastro-contatos-17-10-09-13.config.psynet.gg
 alien4cloud-ui.02c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 0-032redir.config.psynet.gg
-www.0109e319bartem-test.config.psynet.gg
+0109e319bartem-test.config.psynet.gg
 01dongzuo-almostabank.config.psynet.gg
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727-c6de4d56-12bwin2k3.config.psynet.gg
 01dongzuo-bkp-backup-test.config.psynet.gg
@@ -3866,7 +3849,7 @@ admin.02c6de4d56ler-email.config.psynet.gg
 03-testbackend.config.psynet.gg
 02c6de4d56-12b4-6261-b9aa-8c07ab446727-17-10-04-07.config.psynet.gg
 0109e319b-12be.config.psynet.gg
-www.careers.007prokom.config.psynet.gg
+careers.007prokom.config.psynet.gg
 aura-components.02utzniyz52654ahi-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 032rediradm-git-ecloud.config.psynet.gg
 test.032testdocs.config.psynet.gg
@@ -3916,7 +3899,7 @@ availabilityc6de4d56-12b4-6261-b9aa-8c07ab446727.01-cadastro-contatos-test.confi
 1.base.maps.01-cadastro-contatos-test-api.config.psynet.gg
 0-test-icon-test.config.psynet.gg
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727-17-10-07-01.config.psynet.gg
-www.artem-test.032test.config.psynet.gg
+artem-test.032test.config.psynet.gg
 c6de4d56-12b4-6261-b9aa-8c07ab446727.01kato-aetest.config.psynet.gg
 01dongzuo-test18test.config.psynet.gg
 01src-test3d-druck-shop.config.psynet.gg
@@ -4262,7 +4245,6 @@ azure.antivirus.ruletheearth-production-737oia-dot-gov.9hfcycev7.ssocert.fr-test
 01-cadastro-affiliate-test.config.psynet.gg
 16121.srv-2017-10-06-07.02-c6de4d56-12b4-6261-b9aa-8c07ab446727config.config.psynet.gg
 01-cadastro-contatos-magazine.config.psynet.gg
-www.01src-test.config.psynet.gg
 03-c6de4d56-12b4-6261-b9aa-8c07ab446727-a-admin.config.psynet.gg
 captions.03-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 0-239test-ecloud.config.psynet.gg
@@ -4358,7 +4340,7 @@ c6de4d56-12bcascade-api-proxy.01kato.config.psynet.gg
 booger.01-cadastro-contatos-test.config.psynet.gg
 032ads-testsecurity.config.psynet.gg
 kuberapidocsesc6de4d56-12b4-6261-b9aa-8c07ab446727.01kato.config.psynet.gg
-www.artem-test.02c6de4d56.config.psynet.gg
+artem-test.02c6de4d56.config.psynet.gg
 01dongzuoal.config.psynet.gg
 04-c6de4d56-12b4-6261-b9aa-8c07ab446727.01.config.psynet.gg
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727-2011.config.psynet.gg
@@ -4421,8 +4403,8 @@ bet365gongsi1.01dongzuo.config.psynet.gg
 019-test.config.psynet.gg
 032testpay-alertsc6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 c6de4d56-12b4-6261-b9aa-8c07ab446727battlebreakershelp.01kato.config.psynet.gg
-www.02utzniyz52654ahi-apps-kuberapidocsesartem-test.config.psynet.gg
-www.032redirconfindustria.config.psynet.gg
+02utzniyz52654ahi-apps-kuberapidocsesartem-test.config.psynet.gg
+032redirconfindustria.config.psynet.gg
 0-mirror.config.psynet.gg
 0-aac6e6.config.psynet.gg
 01dongzuo-lb.config.psynet.gg
@@ -4605,7 +4587,7 @@ prodtest.01dongzuo.config.psynet.gg
 games.c6de4d56-12b4-6261-b9aa-8c07ab446727.01kato.config.psynet.gg
 belle625test.01dongzuo.config.psynet.gg
 01-action-c6de4d56-12b4-6261-b9aa-8c07ab446727-contatos-test.config.psynet.gg
-www.city.azumino.01-cadastro-contatos-test.config.psynet.gg
+city.azumino.01-cadastro-contatos-test.config.psynet.gg
 02action-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 01dongzuonginx.config.psynet.gg
 03-c6de4d56-12b4-6261-b9aa-8c07ab446727-artist.config.psynet.gg
@@ -4902,7 +4884,7 @@ addc6de4d56-12b4-6261-b9aa-8c07ab446727.01src-c6de4d56-12b4-6261-b9aa-8c07ab4467
 01src-c6de4d56-12b4-6261-b9aa-8c07ab446727-artoriasbottest.config.psynet.gg
 c6de4d56-12b4-6261-b9aa-8c07ab446727.blinky.01kato.config.psynet.gg
 01dongzuo-api-priv.config.psynet.gg
-www.confindustria.03-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
+confindustria.03-c6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 01dongzuo-cdn-pro.config.psynet.gg
 01dongzuoexpress4.config.psynet.gg
 03-testk5ijisy74tjofyz.config.psynet.gg
@@ -5196,7 +5178,7 @@ elastic-testing.02utzniyz52654ahi-autsvceb.config.psynet.gg
 03-test-addc6de4d56-12b4-6261-b9aa-8c07ab446727.config.psynet.gg
 031vod-adaptive.config.psynet.gg
 03-c6de4d56-12b4-6261-b9aa-8c07ab4467274hqxjrqmqhx6nu0qzw6.config.psynet.gg
-www.city.02-test.config.psynet.gg
+city.02-test.config.psynet.gg
 023565agile-itsm-web-test.config.psynet.gg
 01katobr.config.psynet.gg
 0-testaccountstest.config.psynet.gg

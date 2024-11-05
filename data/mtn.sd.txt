@@ -1,4 +1,3 @@
-*.mtn.sd
 api.mtn.sd
 apps.mtn.sd
 autodiscover.mtn.sd
@@ -44,8 +43,6 @@ speedtest2.mtn.sd
 test.mtn.sd
 webmail.mtn.sd
 wmail.mtn.sd
-www.mtn.sd
-www.mymtn.mtn.sd
 zigi-dev.mtn.sd
 landing.mtn.sd
 ns7.mtn.sd

@@ -5,15 +5,14 @@ ns2.cyon.ch
 dns-cpanel03-bsl01.cyon.ch
 webmailbeta.cyon.ch
 dns-cpanel01-bsl01.cyon.ch
-www.sslvpn.cyon.ch
+sslvpn.cyon.ch
 dns2.cyon.ch
 dns-cpanel02-bsl01.cyon.ch
-sslvpn.cyon.ch
 autoconfig.cyon.ch
-www.maildiscovery.cyon.ch
+maildiscovery.cyon.ch
 sitebuilder.cyon.ch
 vpn2.cyon.ch
-www.s003.cyon.ch
+s003.cyon.ch
 dns-cpanel04.cyon.ch
 mail.cyon.ch
 s001.cyon.ch
@@ -24,8 +23,6 @@ web1.cyon.ch
 ftp.cyon.ch
 cyon-web01-bsl01.cyon.ch
 survey.cyon.ch
-maildiscovery.cyon.ch
-s003.cyon.ch
 _autodiscover._tcp.cyon.ch
 cyon-mail01.cyon.ch
 webmail.cyon.ch
@@ -38,7 +35,6 @@ order.cyon.ch
 localhost.cyon.ch
 server0.cyon.ch
 my.cyon.ch
-www.cyon.ch
 po1.105.r01-bsl01.ip4.cyon.ch
 server38.cyon.ch
 mx6.cyon.ch
@@ -72,7 +68,7 @@ mgt-rdns2.cyon.ch
 91-20ip4.cyon.ch
 server42.cyon.ch
 mx7.cyon.ch
-www.demo.cyon.ch
+demo.cyon.ch
 mgt-ldap1.cyon.ch
 swissix.cyon.ch
 server48.cyon.ch
@@ -81,7 +77,6 @@ server21.cyon.ch
 s48mx.cyon.ch
 mailadmin.cyon.ch
 mx2.cyon.ch
-demo.cyon.ch
 statiet.ip4.cyon.ch
 s55mx.cyon.ch
 frooxdev1.cyon.ch
@@ -160,7 +155,6 @@ server16.cyon.ch
 server17.cyon.ch
 serverx.cyon.ch
 server10.cyon.ch
-www.login.cyon.ch
 server5.cyon.ch
 mgt-mon2.cyon.ch
 server18.cyon.ch
@@ -181,4 +175,3 @@ admin.cyon.ch
 s004.cyon.ch
 ns4.cyon.ch
 ns.cyon.ch
-*.cyon.ch

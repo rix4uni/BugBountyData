@@ -3,7 +3,6 @@ sb-prod-vpn.safebrands.com
 gollum.safebrands.com
 noc02.safebrands.com
 cm._domainkey.safebrands.com
-www.safebrands.com
 web03.safebrands.com
 noc.safebrands.com
 sp-sso.safebrands.com
@@ -70,7 +69,7 @@ surveillance-proxysql01.safebrands.com
 csso-preprod.safebrands.com
 dev-veille1.safebrands.com
 _a8b619a008f0405615e44c674c671453.safebrands.com
-www.client.safebrands.com
+client.safebrands.com
 srv491-5.safebrands.com
 hdp-namenode.safebrands.com
 ats-q20.safebrands.com
@@ -96,7 +95,6 @@ srv491-17.safebrands.com
 preprod-librenms.safebrands.com
 preprod-veille1.safebrands.com
 sb-filer01.safebrands.com
-client.safebrands.com
 srv492-35.safebrands.com
 sonde-nyc2-02.safebrands.com
 ocsinventory.safebrands.com
@@ -143,7 +141,6 @@ pdu20-1.safebrands.com
 gollum04.safebrands.com
 preprod-surveillance-proxysql01.safebrands.com
 web03-ipmi.safebrands.com
-www.infra01.backup.safebrands.com
 sb-prod-veeam.safebrands.com
 kenny2.client.safebrands.com
 sonde-fra1-02.safebrands.com

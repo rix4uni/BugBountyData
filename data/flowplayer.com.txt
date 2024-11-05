@@ -1,5 +1,4 @@
 staging.flowplayer.com
-www.flowplayer.com
 avatar.flowplayer.com
 cdn.flowplayer.com
 health.flowplayer.com
@@ -8,7 +7,7 @@ try.flowplayer.com
 pmi.flowplayer.com
 ihi.flowplayer.com
 releases.flowplayer.com
-www.static.flowplayer.com
+static.flowplayer.com
 stream.flowplayer.com
 email.flowplayer.com
 api.flowplayer.com
@@ -19,7 +18,6 @@ assets.flowplayer.com
 ovp-loader.flowplayer.com
 play.flowplayer.com
 devhub.flowplayer.com
-static.flowplayer.com
 tools.flowplayer.com
 aaa.flowplayer.com
 beta.flowplayer.com

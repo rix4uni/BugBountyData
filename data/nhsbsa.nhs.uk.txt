@@ -13,7 +13,6 @@ nbsa1exe1l.nhsbsa.nhs.uk
 stg.ssecs.opt.mys.nhsbsa.nhs.uk
 gpportal.mys.nhsbsa.nhs.uk
 dev.api.dms.pharmacy.mys.nhsbsa.nhs.uk
-www.nhsbsa.nhs.uk
 tst.api.ssecs.opt.mys.nhsbsa.nhs.uk
 api.contraception.pharmacy.mys.nhsbsa.nhs.uk
 chat.services.nhsbsa.nhs.uk
@@ -110,7 +109,7 @@ dmd-browser.nhsbsa.nhs.uk
 dev.api.nms.pharmacy.mys.nhsbsa.nhs.uk
 insight.datadictionary.dev.nhsbsa.nhs.uk
 mcp.nhsbsa.nhs.uk
-www.tst.health-charge-exemptions.nhsbsa.nhs.uk
+tst.health-charge-exemptions.nhsbsa.nhs.uk
 stg.rina.nhsbsa.nhs.uk
 jobs.nhsbsa.nhs.uk
 dr.catalyst.services.nhsbsa.nhs.uk
@@ -122,7 +121,6 @@ api.dev.health-charge-exemptions.nhsbsa.nhs.uk
 tst.assured.nhsbsa.nhs.uk
 test.optom.admin.mys.nhsbsa.nhs.uk
 portal.nhsbsa.nhs.uk
-tst.health-charge-exemptions.nhsbsa.nhs.uk
 supplyman.nhsbsa.nhs.uk
 az-d-tad-web01.nhsbsa.nhs.uk
 dev.information-rights.nhsbsa.nhs.uk
@@ -142,13 +140,11 @@ gitlab.dev.services.nhsbsa.nhs.uk
 uk033-acc-ebms.nhsbsa.nhs.uk
 timeman.nhsbsa.nhs.uk
 datawarehouse.nhsbsa.nhs.uk
-www.nhspensions.nhsbsa.nhs.uk
+nhspensions.nhsbsa.nhs.uk
 check-for-help-paying-nhs-costs.nhsbsa.nhs.uk
-www.health-charge-exemptions.nhsbsa.nhs.uk
 logs.nhsbsa.nhs.uk
 rina.tst.psn.nhsbsa.nhs.uk
 dev.api.high-volume-vaccination.gp-portal.mys.nhsbsa.nhs.uk
-www.dev.health-charge-exemptions.nhsbsa.nhs.uk
 faq.nhsbsa.nhs.uk
 stg.api.high-volume-vaccination.gp-portal.mys.nhsbsa.nhs.uk
 stg.health-charge-exemptions.nhsbsa.nhs.uk
@@ -164,7 +160,7 @@ stg.assured.nhsbsa.nhs.uk
 ns0.portal.nhsbsa.nhs.uk
 dev.jobs3.nhsbsa.nhs.uk
 xerox.api.stg.health-charge-exemptions.nhsbsa.nhs.uk
-www.pensions.nhsbsa.nhs.uk
+pensions.nhsbsa.nhs.uk
 stage.rtec-api-gateway.assured.nhsbsa.nhs.uk
 dts.nhsbsa.nhs.uk
 xerox.api.tst.health-charge-exemptions.nhsbsa.nhs.uk
@@ -199,7 +195,6 @@ maternity-exemption.nhsbsa.nhs.uk
 careers.nhsbsa.nhs.uk
 cdr-dip.nhsbsa.nhs.uk
 me-office-manage-my-caseload.nhsbsa.nhs.uk
-nhspensions.nhsbsa.nhs.uk
 cipbi.nhsbsa.nhs.uk
 connect.nhsbsa.nhs.uk
 mta-sts.nhsbsa.nhs.uk
@@ -228,7 +223,7 @@ az-d-tad-app01.nhsbsa.nhs.uk
 cod.manage-your-service-pharmacy.nhsbsa.nhs.uk
 epol.nhsbsa.nhs.uk
 status.nhsbsa.nhs.uk
-www.dscriptiff.nhsbsa.nhs.uk
+dscriptiff.nhsbsa.nhs.uk
 assured.dev.nhsbsa.nhs.uk
 dev.admin.mys.nhsbsa.nhs.uk
 dev.ssecs.admin.mys.nhsbsa.nhs.uk
@@ -236,7 +231,7 @@ integracitrix.nhsbsa.nhs.uk
 rina.nhsbsa.nhs.uk
 partialretirementcalculator.nhsbsa.nhs.uk
 uk033-ebms.nhsbsa.nhs.uk
-www.drugtariff.nhsbsa.nhs.uk
+drugtariff.nhsbsa.nhs.uk
 nbsa1-core-csgl.nhsbsa.nhs.uk
 information-rights.nhsbsa.nhs.uk
 bsawmpraid01.nhsbsa.nhs.uk
@@ -246,12 +241,10 @@ social-work-bursary.nhsbsa.nhs.uk
 bsa-notify.nhsbsa.nhs.uk
 ohs-caseman.nhsbsa.nhs.uk
 chips.manage-your-service-pharmacy.nhsbsa.nhs.uk
-www.mynhspension.nhsbsa.nhs.uk
 s-mynhspension.nhsbsa.nhs.uk
 rina.psn.nhsbsa.nhs.uk
 dev.pharmacy.mys.nhsbsa.nhs.uk
 integratest.nhsbsa.nhs.uk
-www.stg.health-charge-exemptions.nhsbsa.nhs.uk
 tst.api.high-volume-vaccination.gp-portal.mys.nhsbsa.nhs.uk
 insight.datadictionary.test.nhsbsa.nhs.uk
 api.hvv.manage-your-service-general-practice.nhsbsa.nhs.uk
@@ -261,7 +254,6 @@ api.ssecs.opt.mys.nhsbsa.nhs.uk
 byodportal01.nhsbsa.nhs.uk
 medicines-data-submission.nhsbsa.nhs.uk
 psn.nhsbsa.nhs.uk
-www.careers.nhsbsa.nhs.uk
 buy-prescription-prepayment-certificate.nhsbsa.nhs.uk
 c-mynhspension.nhsbsa.nhs.uk
 ns1.portal.nhsbsa.nhs.uk
@@ -271,9 +263,9 @@ api.xerox.nhsbsa.nhs.uk
 dis.pensions.nhsbsa.nhs.uk
 pol-stage.services.nhsbsa.nhs.uk
 pol-prod.services.nhsbsa.nhs.uk
-www.pension.nhsbsa.nhs.uk
+pension.nhsbsa.nhs.uk
 stg.api.nms.pharmacy.mys.nhsbsa.nhs.uk
 wwwpensions.nhsbsa.nhs.uk
-www.injurybenefitreview.nhsbsa.nhs.uk
+injurybenefitreview.nhsbsa.nhs.uk
 ww.pensions.nhsbsa.nhs.uk
-www.injurybenefit.nhsbsa.nhs.uk
+injurybenefit.nhsbsa.nhs.uk

@@ -1,8 +1,6 @@
 silentprovision-stg.gui.mcafee.com
 fwk-test-dev.int.ppawscommon.mcafee.com
-*.fwk-test-dev.int.ppawscommon.mcafee.com
 observability-dev1.int.ppawscommon.mcafee.com
-*.observability-dev1.int.ppawscommon.mcafee.com
 scgsr-1-g2-0.mcafee.com
 scgsr-1-g3-0.mcafee.com
 scgsr-2-g3-0.mcafee.com
@@ -3856,7 +3854,7 @@ msp.mcafee.com
 co.apis.mcafee.com
 dev.co.apis.mcafee.com
 apps.nextqa.mcafeemobilesecurity.awsmcafeemmspp.mcafee.com
-www.nextqa.mcafeemobilesecurity.awsmcafeemmspp.mcafee.com
+nextqa.mcafeemobilesecurity.awsmcafeemmspp.mcafee.com
 icbs.nextqa.mcafeemobilesecurity.awsmcafeemmspp.mcafee.com
 consumerapps-prod-53.awscommon.mcafee.com
 consumerapps.mcafee.com
@@ -3896,7 +3894,6 @@ pricewizardstg.mcafee.com
 nexscat4.mcafee.com
 logdecrypt.int.dev.mcafee.com
 einstein-greenfield.awscommon.mcafee.com
-www.mcafeemobilesecurity.awsmcafeemms.mcafee.com
 cspng-stg-deviceenroll-pub.dvqa.mcafee.com
 cspng-stg-deviceenroll-int.dvqa.mcafee.com
 singtel.mcafeemobilesecurity.awsmcafeemms.mcafee.com

@@ -42,9 +42,8 @@ stage.mmhmm.app
 signin-dev.mmhmm.app
 howtohybrid.mmhmm.app
 staging.www.mmhmm.app
-*.dev.cloud.mmhmm.app
-*.stage.cloud.mmhmm.app
-*.prod.cloud.mmhmm.app
+dev.cloud.mmhmm.app
+stage.cloud.mmhmm.app
 prod.cloud.mmhmm.app
 http.prod-recordings.mmhmm.app
 http.ooo-stage2.mmhmm.app
@@ -53,11 +52,9 @@ http.updates.mmhmm.app
 http.test.mmhmm.app
 http.share-stage.mmhmm.app
 http.watch-home.mmhmm.app
-www.mmhmm.app
 http.staging.mmhmm.app
 http.ooo.mmhmm.app
 http.share-dev.mmhmm.app
-stage.cloud.mmhmm.app
 http.account.ooo-dev.mmhmm.app
 dev-api.mmhmm.app
 app.mmhmm.app
@@ -85,7 +82,6 @@ http.account.ooo.mmhmm.app
 http.share.mmhmm.app
 http.watch.mmhmm.app
 http.content.mmhmm.app
-www.help.mmhmm.app
 http.dev.mmhmm.app
 http.malk.mmhmm.app
 http.prod-api.mmhmm.app
@@ -99,7 +95,6 @@ test.mmhmm.app
 oauth.mmhmm.app
 http.ml-stage.api.mmhmm.app
 http.zoom.mmhmm.app
-dev.cloud.mmhmm.app
 http.signin.ooo-stage.mmhmm.app
 http.dev-api.mmhmm.app
 http.www.help.mmhmm.app

@@ -40,7 +40,6 @@ community.depop.com
 ablink.click.depop.com
 pay-staging.depop.com
 stage-data-access-requests.depop.com
-www.depop.com
 safety-staging.depop.com
 data-access-requests.depop.com
 api.depop.com
@@ -100,7 +99,6 @@ graphql.depop.com
 build.kubernetes.depop.com
 2741.staging.depop.com
 onboarded.depop.com
-www.engineering.depop.com
 assets1.depop.com
 2712.staging.depop.com
 product.depop.com
@@ -123,10 +121,8 @@ o1.email.depop.com
 zendesk3.depop.com
 2840.staging.depop.com
 pd4vo0st5e.depop.com
-www.api-staging.depop.com
 o5196.mail.auth.depop.com
 auth.depop.com
-www.staging.depop.com
 data.depop.com
 2589.staging.depop.com
 broadcast.depop.com

@@ -1,5 +1,5 @@
 imap.uucp.hu
-www.dyn.uucp.hu
+dyn.uucp.hu
 alpha.uucp.hu
 search.uucp.hu
 gamma.am.tp.uucp.hu
@@ -37,7 +37,6 @@ chat.dyn.uucp.hu
 autoconfig.chat.dyn.uucp.hu
 alpha.lan1.uucp.hu
 autoconfig.uucp.hu
-www.uucp.hu
 lan.uucp.hu
 craw.dyn.uucp.hu
 kereso.uucp.hu
@@ -53,6 +52,3 @@ map.dyn.uucp.hu
 imap.dyn.uucp.hu
 ip6.alpha.uucp.hu
 kereso.dyn.uucp.hu
-*.user.dyn.uucp.hu
-*.user.uucp.hu
-*.uucp.hu

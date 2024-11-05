@@ -1,5 +1,4 @@
 testing.onlia.ca
-www.onlia.ca
 dev.onlia.ca
 insurance.onlia.ca
 acc-cms.onlia.ca
@@ -40,7 +39,6 @@ enterpriseregistration.onlia.ca
 test.onlia.ca
 beta.onlia.ca
 sense-api.onlia.ca
-*.onlia.ca
 betacmspd5.onlia.ca
 betapd5.onlia.ca
 tor.onlia.ca

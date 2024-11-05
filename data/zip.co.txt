@@ -95,7 +95,6 @@ ablink.edm.zip.co
 cdn.gb.zip.co
 ablink.go1.zip.co
 ablink.my.zip.co
-*.web.internal.sandbox.zip.co
 gateway.us.zip.co
 ablink.ca-edm.zip.co
 ablink.us-edm1.zip.co
@@ -110,20 +109,18 @@ checkoutanywhere.sand.us.zip.co
 nexus.sand.ca.zip.co
 mfe-test.dev.web.internal.zip.co
 search.internal.zip.co
-*.search.internal.zip.co
 api.static.sand.au.edge.zip.co
 site-tr.dev.web.internal.zip.co
 site-global.dev.web.internal.zip.co
 site-uk.dev.web.internal.zip.co
 secrets-manager.dev.web.internal.zip.co
-*.preview.dev.web.internal.zip.co
+preview.dev.web.internal.zip.co
 assets-us.dev.web.internal.zip.co
 site-us.dev.web.internal.zip.co
 assets.dev.web.internal.zip.co
 site-au.dev.web.internal.zip.co
 zipsters.dev.web.internal.zip.co
 geo.dev.web.internal.zip.co
-*.staging.eu.zip.co
 uk.dev.web.internal.zip.co
 dev.internal.zip.co
 checkout.sand.mx.zip.co
@@ -151,7 +148,7 @@ mgt.au.edge.zip.co
 checkout.mx.zip.co
 bpi.zip.co
 checkout.stg.us.zip.co
-www.auth.dev.tr.zip.co
+auth.dev.tr.zip.co
 merchant.sandbox.zip.co
 assets-dev.staging.web.internal.zip.co
 t.zip.co
@@ -227,18 +224,16 @@ api.static.dev.au.edge.zip.co
 gitlab.tr.zip.co
 quadriceps.mx.zip.co
 test-payzeeproxy.tr.zip.co
-www.help.zip.co
+help.zip.co
 test-rubicon.tr.zip.co
 api.dev2.zip.co
 auth.stg.tr.zip.co
-www.mage.zip.co
 test.dev2.zip.co
 search.internal.sandbox.zip.co
 search.internal.devglobal.zip.co
 mgmt.au.edge.zip.co
 autodiscover.tr.zip.co
 widget.zip.co
-auth.dev.tr.zip.co
 checkout.dev.sg.zip.co
 integrated-checkout.us.zip.co
 product-images.zip.co
@@ -246,7 +241,6 @@ labs.edge.zip.co
 test-sse.tr.zip.co
 internal.prod.eu.edge.zip.co
 rubicon.tr.zip.co
-www.auth.stg.tr.zip.co
 zip-api.dev.au.edge.zip.co
 bhn.partners.us.zip.co
 quadriceps.sand.us.zip.co
@@ -291,7 +285,6 @@ customer.dev.us.zip.co
 global-web-static-assets.dev.web.internal.zip.co
 helloworld.labs.au.edge.zip.co
 survey.zip.co
-preview.dev.web.internal.zip.co
 app-gw-api.dev.us.zip.co
 checkout.us.zip.co
 hi.us.zip.co
@@ -300,7 +293,7 @@ spi.labs.ae.zip.co
 api.gb.zip.co
 api.us.zip.co
 login.checkout.dev.us.zip.co
-www.partnership.zip.co
+partnership.zip.co
 gateway.dev.gb.zip.co
 login-uk.zip.co
 gateway.sand.ca.zip.co
@@ -336,7 +329,6 @@ cdn.dev.ca.zip.co
 bankreport.zip.co
 integrated-checkout-mock.sand.gb.zip.co
 test-media.tr.zip.co
-www.business.zip.co
 internal-http2.labs.au.edge.zip.co
 docs.us.zip.co
 integrated-checkout.dev.us.zip.co
@@ -345,7 +337,7 @@ cdn.dev.gb.zip.co
 merchant-login.dev.sg.zip.co
 secure2-mtls.dev.us.zip.co
 login.dev.gb.zip.co
-www.wbc.dev.zip.co
+wbc.dev.zip.co
 customer.dev.gb.zip.co
 giftcards.dev.us.zip.co
 gateway.dev.us.zip.co
@@ -360,7 +352,7 @@ merchant.sand.mx.zip.co
 vend.zip.co
 api.dev.sg.zip.co
 merchant.dev.ca.zip.co
-www.sdp.zip.co
+sdp.zip.co
 ank.sandbox.zip.co
 zip-checkout.dev.us.zip.co
 internal.labs.eu.edge.zip.co
@@ -414,7 +406,7 @@ research.zip.co
 test.api.dev2.zip.co
 app.business.dev.zip.co
 global-api.labs.au.edge.zip.co
-www.wbc.staging.zip.co
+wbc.staging.zip.co
 merchant.gb.zip.co
 retrieve.accertify.dev.us.zip.co
 track.gb.zip.co
@@ -462,7 +454,7 @@ checkout.gb.zip.co
 merchant.sand.ca.zip.co
 sand.us.edge.zip.co
 master.branch.dev.ca.zip.co
-www.bcdn-77433592.zip.co
+bcdn-77433592.zip.co
 wallet.prod.au.edge.zip.co
 daktela.tr.zip.co
 integrated-checkout-mock.dev.gb.zip.co
@@ -472,7 +464,7 @@ prod.in.eu.zip.co
 bigcommerce.us.zip.co
 merchant-login.mx.zip.co
 mobiletopup-test.sandbox.zip.co
-www.vpn.zip.co
+vpn.zip.co
 plus.zip.co
 internal.labsv1.au.edge.zip.co
 it.zip.co
@@ -502,7 +494,6 @@ giftcards.us.zip.co
 merchant.dev.sg.zip.co
 checkout.sg.zip.co
 integrated-checkout.gb.zip.co
-vpn.zip.co
 zip-kids-test.zip.co
 cdn.sand.gb.zip.co
 checkout-ut.us.zip.co
@@ -514,7 +505,6 @@ customer.gb.zip.co
 docs-nz.zip.co
 partner.sandbox.sandbox.zip.co
 data.in.zip.co
-bcdn-77433592.zip.co
 integrated-checkout.sand.us.zip.co
 merchant-login.sg.zip.co
 quadriceps-login.dev.mx.zip.co
@@ -545,10 +535,8 @@ gateway.sand.mx.zip.co
 labs.eu.edge.zip.co
 secure1-mtls.sand.us.zip.co
 cdn.dev.sg.zip.co
-www.business.dev.zip.co
 disputes.us.zip.co
 quadriceps-login.dev.sg.zip.co
-help.zip.co
 integrated-checkout.sand.gb.zip.co
 quadriceps.dev.mx.zip.co
 merchant.zip.co
@@ -558,13 +546,11 @@ help-nz.zip.co
 o3974.abmail.us-edm.zip.co
 o4467.e.us-accounts.zip.co
 url6322.care.zip.co
-www.stg.sg.zip.co
 assets.staging.web.internal.zip.co
 cdn.sand.ca.zip.co
 profile.data.address.zip.co
 test-daktela.tr.zip.co
 trx.sandbox.zip.co
-wbc.staging.zip.co
 checkout.dev.mx.zip.co
 internal.sand.eu.edge.zip.co
 nz.zip.co
@@ -580,7 +566,6 @@ merchant-login.gb.zip.co
 mobile.verify.us.zip.co
 in.dev.zip.co
 cdn.us.zip.co
-www.wbc.sandbox.zip.co
 help.ca.zip.co
 td.zip.co
 checkout.sand.gb.zip.co
@@ -592,7 +577,6 @@ gateway.dev.sg.zip.co
 login.gb.zip.co
 registry.tr.zip.co
 trx.zip.co
-www.sg.zip.co
 dev.zip.co
 ablink.uk-edm.zip.co
 checkoutanywhere.dev.us.zip.co
@@ -602,7 +586,6 @@ yodlee.api.sandbox.zip.co
 api.sandbox.zip.co
 url7541.send.zip.co
 sandbox.in.zip.co
-www.zip.co
 quadriceps.dev.sg.zip.co
 cdn.dev.us.zip.co
 pv2.zip.co
@@ -619,10 +602,7 @@ api.sg.zip.co
 groove.zip.co
 cde-app-gw.us.zip.co
 kyle30.zip.co
-wbc.dev.zip.co
-www.wbc.perf.zip.co
 quadriceps-login.dev.ae.zip.co
-sdp.zip.co
 merchant-login.sandbox.zip.co
 merchant-hub.dev.us.zip.co
 yodlee.api.zip.co
@@ -647,9 +627,7 @@ us.zip.co
 bills.zip.co
 labs.zip.co
 go.dev.zip.co
-www.dev.web.internal.zip.co
 dev.in.eu.zip.co
-www.wbc.zip.co
 start.zip.co
 quadriceps-login.sg.zip.co
 adzapper.cs.zip.co

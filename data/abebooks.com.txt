@@ -172,12 +172,11 @@ alpha.abegatewayinside.gateway.servicelookup.abebooks.com
 alpha.blue.abe-solr.search.servicelookup.abebooks.com
 fps-zvab-iad-alpha.abebooks.com
 help.abebooks.com
-www.community.abebooks.com
 support.www.abebooks.com
 fps-it-iad-beta.abebooks.com
 prod.blue.abe-solr.search.servicelookup.abebooks.com
 qa3inside.abebooks.com
-www.secure.buyback.abebooks.com
+secure.buyback.abebooks.com
 auth.www.abebooks.com
 orders.abebooks.com
 uploads.abebooks.com
@@ -204,7 +203,6 @@ channelprogram.abebooks.com
 invupd-api.ops-atlaws-prod.us-east-1.abebooks.com
 maintenance.ops.abebooks.com
 pictures.abebooks.com
-www.auction.abebooks.com
 alpha.confluence.abeatlassian.servicelookup.abebooks.com
 beta.blue.abe-solr.search.servicelookup.abebooks.com
 dogbert.abebooks.com
@@ -214,7 +212,6 @@ wiki.abebooks.com
 beta.abeauthmidway.auth.servicelookup.abebooks.com
 maintenance-lb.ops.abebooks.com
 nagios.ops.abebooks.com
-www.abebooks.com
 catalog.lab.public.service.abebooks.com
 local.abebooks.com
 nat1.abebooks.com
@@ -233,7 +230,6 @@ tp.0b4c9a994-frontier.abebooks.com
 alpha.green.abe-solr.search.servicelookup.abebooks.com
 dyelmetrics01.abebooks.com
 internalrelay.prod.abebooks.com
-secure.buyback.abebooks.com
 stashtest.kokanee.abebooks.com
 origin-dogbert.abebooks.com
 origin-auth.www.abebooks.com
@@ -251,7 +247,6 @@ lm-admin.splunk-aws-prod.abebooks.com
 matillion.abebooks.com
 nat7.abebooks.com
 tlsmail.abebooks.com
-www.support.abebooks.com
 webmail.dev.ops.abebooks.com
 beta.abegatewayinside.gateway.servicelookup.abebooks.com
 beta.green.searchapi.servicelookup.abebooks.com

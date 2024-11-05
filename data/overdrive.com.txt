@@ -268,11 +268,9 @@ semcofl.overdrive.com
 geo.api.overdrive.com
 mercedcountylibrary.overdrive.com
 coloradodc.overdrive.com
-www.ng.overdrive.com
-www.law.overdrive.com
-law.overdrive.com
-www.lib.overdrive.com
 ng.overdrive.com
+law.overdrive.com
+lib.overdrive.com
 cdn.overdrive.com
 riezone.overdrive.com
 stuttgart.overdrive.com
@@ -280,7 +278,6 @@ library2go.overdrive.com
 dev.law.overdrive.com
 dev.lib.overdrive.com
 svc.overdrive.com
-lib.overdrive.com
 fifeuk.overdrive.com
 lowercolumbia.overdrive.com
 read-dev.overdrive.com
@@ -401,5 +398,4 @@ nsls.auth.overdrive.com
 asd.lib.overdrive.com
 wplc.lib.overdrive.com
 sample-1fc8560fe48c0894e047772029e8a517.listen.overdrive.com
-www.overdrive.com
 www2.overdrive.com

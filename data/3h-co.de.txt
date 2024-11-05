@@ -10,7 +10,6 @@ reverse-proxy.docker-dev-server.3h-co.de
 confluence-postgres.codepumpe-docker-service.3h-co.de
 mail.3h-co.de
 nexus.3h-co.de
-www.3h-co.de
 mta-sts.3h-co.de
 rainloop.3h-co.de
 bitbucket.codepumpe-docker-service.3h-co.de

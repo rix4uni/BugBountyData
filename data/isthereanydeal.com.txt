@@ -1,13 +1,10 @@
-www.isthereanydeal.com
-*.isthereanydeal.com
 _nyx.isthereanydeal.com
 better.isthereanydeal.com
-www.better.isthereanydeal.com
 api-next.isthereanydeal.com
 deals.isthereanydeal.com
 dev.isthereanydeal.com
 es.isthereanydeal.com
-www.api.isthereanydeal.com
+api.isthereanydeal.com
 monitor.isthereanydeal.com
 docs.isthereanydeal.com
 warrent.isthereanydeal.com
@@ -26,8 +23,6 @@ maze.isthereanydeal.com
 admin.isthereanydeal.com
 matomo.isthereanydeal.com
 everywhere.isthereanydeal.com
-api.isthereanydeal.com
-www.es.isthereanydeal.com
 colcon.isthereanydeal.com
 esapi.isthereanydeal.com
 test.isthereanydeal.com

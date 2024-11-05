@@ -1,8 +1,6 @@
 bbb.evpn.simicar.fr
 evpn.simicar.fr
-*.evpn.simicar.fr
 ss.simicar.fr
-*.ss.simicar.fr
 aaa.simicar.fr
 geodis.evpn.simicar.fr
 ma.simicar.fr
@@ -15,7 +13,6 @@ ffoauth.simicar.fr
 smtp.simicar.fr
 ffimage.simicar.fr
 autoconfig.archive.simicar.fr
-www.simicar.fr
 mail.ma.simicar.fr
 autoconfig.simicar.fr
 ffverifier.simicar.fr

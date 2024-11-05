@@ -10,8 +10,6 @@ grafana.onevillage.io
 grafana.stage.onevillage.io
 stage.onevillage.io
 vendors.onevillage.io
-www.onevillage.io
-www.stage.onevillage.io
 airflow.tmp.onevillage.io
 api-tmp.stage.onevillage.io
 api.tmp.onevillage.io

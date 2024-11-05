@@ -1,5 +1,4 @@
 shopping.google.mk
-www.google.mk
 cse.google.mk
 ogs.google.mk
 image.google.mk
@@ -16,4 +15,3 @@ maps.google.mk
 id.google.mk
 translate.google.mk
 edu.google.mk
-*.google.mk

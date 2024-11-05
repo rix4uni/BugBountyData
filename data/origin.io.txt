@@ -1,14 +1,10 @@
-www.origin.io
 app.origin.io
 staging.origin.io
 apiqa.origin.io
 api.origin.io
 prod.origin.io
-*.origin.io
-*.dev.origin.io
-*.prod.origin.io
-*.qa.origin.io
-*.staging.origin.io
+dev.origin.io
+qa.origin.io
 apistaging.origin.io
 appstaging.origin.io
 test-api-1238407324.origin.io

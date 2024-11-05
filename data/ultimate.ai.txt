@@ -26,7 +26,6 @@ live-chat-automation.ultimate.ai
 rnd.ultimate.ai
 server2.dev.ultimate.ai
 sip.ultimate.ai
-www.ultimate.ai
 chat.k8s-production.ultimate.ai
 dashboard.jaakko-test-env.test.internal.ultimate.ai
 salesforce-case-automation.ultimate.ai
@@ -236,5 +235,3 @@ gitops2.ultimate.ai
 cm2.ultimate.ai
 cm.ultimate.ai
 nginx-test-in.ultimate.ai
-*.dev.ultimate.ai
-*.staging.ultimate.ai

@@ -44,7 +44,6 @@ account-de.nextup.ai
 msteams-jira.nextup.ai
 thanos.int.preprod.nextup.ai
 teams-integration-bot.uat.nextup.ai
-www.nextup.ai
 prometheus.prod.nextup.ai
 us.int.prod.nextup.ai
 chat-dev.nextup.ai
@@ -200,5 +199,3 @@ adminer.preprod.nextup.ai
 harbor.nextup.ai
 ankit-jira.preprod.nextup.ai
 link.nextup.ai
-*.us.int.prod.nextup.ai
-*.nextup.ai

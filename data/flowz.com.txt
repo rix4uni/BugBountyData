@@ -7,9 +7,7 @@ prospectly.flowz.com
 portfolio.flowz.com
 isecurify.flowz.com
 email.flowz.com
-www.flowz.com
 prod.obcrm.flowz.com
-www.prod.obcrm.flowz.com
 promopros.flowz.com
 hpb.flowz.com
 docs.flowz.com
@@ -18,15 +16,12 @@ invoicing.flowz.com
 admin.flowz.com
 dev-test.flowz.com
 support.flowz.com
-www.staging16.portfolio.flowz.com
 staging16.portfolio.flowz.com
 sign.flowz.com
-www.blog.flowz.com
 blog.flowz.com
 dev-2.flowz.com
 rancher.flowz.com
 dev-html.flowz.com
-www.dev-html.flowz.com
 marketing.flowz.com
 app.flowz.com
 api.admin.flowz.com
@@ -35,7 +30,6 @@ ob-portal.flowz.com
 fdt-ui.staging.flowz.com
 live.api.wls.flowz.com
 vc.flowz.com
-www.dev.flowz.com
 dev.flowz.com
 api.app.flowz.com
 devconf.flowz.com
@@ -286,7 +280,6 @@ api.flowzcrm594.flowz.com
 flowzcrm593.flowz.com
 api.flowzcrm593.flowz.com
 staging17.flowz.com
-www.staging17.flowz.com
 api.flowzcrm390.flowz.com
 flowzcrm390.flowz.com
 api.flowzcrm451.flowz.com
@@ -327,7 +320,6 @@ api.flowzcrm578.flowz.com
 flowzcrm578.flowz.com
 api.flowzcrm576.flowz.com
 flowzcrm576.flowz.com
-www.staging16.flowz.com
 staging16.flowz.com
 api.flowzcrm573.flowz.com
 flowzcrm573.flowz.com
@@ -791,7 +783,7 @@ flowzcrm111.flowz.com
 api.flowzcrm619.flowz.com
 flowzcrm259.flowz.com
 flowzcrm232.flowz.com
-www.crminstance.flowz.com
+crminstance.flowz.com
 flowzcrm369.flowz.com
 api.crm10.flowz.com
 api.flowzcrm315.flowz.com
@@ -799,7 +791,7 @@ api.crm6.flowz.com
 flowzcrm377.flowz.com
 crm4.flowz.com
 api.flowzcrm184.flowz.com
-www.meeting.flowz.com
+meeting.flowz.com
 api.flowzcrm424.flowz.com
 prod.obcrm.approval-api.flowz.com
 api.flowzcrm405.flowz.com
@@ -853,23 +845,19 @@ flowzbcrm95.flowz.com
 flowzcrm435.flowz.com
 flowzcrm434.flowz.com
 flowzcrm318.flowz.com
-meeting.flowz.com
 flowzcrm195.flowz.com
 flowzcrm306.flowz.com
 api.flowzcrm223.flowz.com
-www.vendor.flowz.com
 api.flowzcrm126.flowz.com
 api.flowzcrm109.flowz.com
 flowzcrm407.flowz.com
 api.flowzcrm151.flowz.com
 api.flowzcrm408.flowz.com
-www.customer.flowz.com
 api.flowzcrm379.flowz.com
 api.flowzcrm386.flowz.com
 api.flowzcrm104.flowz.com
 flowzcrm203.flowz.com
 api.flowzcrm470.flowz.com
-crminstance.flowz.com
 api.flowzcrm545.flowz.com
 flowzcrm243.flowz.com
 api.flowzcrm96.flowz.com
@@ -882,7 +870,6 @@ api.flowzcrm412.flowz.com
 api.autologin1.flowz.com
 flowzcrm394.flowz.com
 api.flowzcrm234.flowz.com
-www.vc.flowz.com
 flowzcrm185.flowz.com
 crm12.flowz.com
 flowzcrm619.flowz.com
@@ -926,7 +913,6 @@ api.flowzcrm398.flowz.com
 flowzcrm131.flowz.com
 api.flowzcrm425.flowz.com
 crm18.flowz.com
-www.cloud.flowz.com
 api.flowzcrm287.flowz.com
 webbuilder.flowz.com
 flowzcrm303.flowz.com
@@ -1116,7 +1102,6 @@ flowzcrm331.flowz.com
 api.flowzcrm198.flowz.com
 flowzcrm112.flowz.com
 api.flowzcrm343.flowz.com
-www.webmail.flowz.com
 flowzcrm252.flowz.com
 flowzcrm445.flowz.com
 api.flowzcrm208.flowz.com
@@ -1178,7 +1163,7 @@ flowzcrm145.flowz.com
 api.flowzcrm317.flowz.com
 api.flowzcrm182.flowz.com
 flowzcrm380.flowz.com
-www.clientcrm.flowz.com
+clientcrm.flowz.com
 flowzcrm340.flowz.com
 flowzcrm238.flowz.com
 api.flowzcrm306.flowz.com
@@ -1191,7 +1176,6 @@ flowzcrm395.flowz.com
 api.flowzcrm162.flowz.com
 flowzcrm344.flowz.com
 flowzcrm201.flowz.com
-www.beta.flowz.com
 api.flowzcrm325.flowz.com
 flowzcrm461.flowz.com
 api.flowzcrm174.flowz.com

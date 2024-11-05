@@ -1,4 +1,3 @@
-*.hotbit.io
 api.hotbit.io
 appapi.hotbit.io
 error.hotbit.io
@@ -11,7 +10,6 @@ ptr2.notice.hotbit.io
 sykda.hotbit.io
 test.hotbit.io
 ws.hotbit.io
-www.hotbit.io
 admin.hotbit.io
 appversion.hotbit.io
 cex.hotbit.io

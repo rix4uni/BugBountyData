@@ -388,7 +388,7 @@ nwk.usace.afpims.mil
 nwo.usace.afpims.mil
 nwp.usace.afpims.mil
 nws.usace.afpims.mil
-nww.usace.afpims.mil
+usace.afpims.mil
 offutt.usaf.afpims.mil
 ogc.dod.afpims.mil
 okng.joint.afpims.mil
@@ -472,7 +472,6 @@ travis.usaf.afpims.mil
 tripler.dod.afpims.mil
 trngcmd.usmc.afpims.mil
 tyndall.usaf.afpims.mil
-usace.afpims.mil
 usaf.afpims.mil
 usafe.usaf.afpims.mil
 usanato.army.afpims.mil
@@ -554,7 +553,6 @@ defensesbirsttr.dod.afpims.mil
 442fw.usaf.afpims.mil
 166aw.usaf.afpims.mil
 arcent.army.afpims.mil
-www.mvs.usace.afpims.mil
 camp-pendleton.dod.afpims.mil
 nwdc.navy.afpims.mil
 1stio.army.afpims.mil
@@ -591,11 +589,9 @@ seymourjohnson.dod.afpims.mil
 spaceforce.ussf.afpims.mil
 creech.usaf.afpims.mil
 wing.joint.afpims.mil
-www.lrl.usace.afpims.mil
 forcecom.uscg.afpims.mil
 135-207-33-17.dod.afpims.mil
 weed-irwin.dod.afpims.mil
-www.aflink.usaf.afpims.mil
 jrm.navy.afpims.mil
 egr8-388-pda.usace.afpims.mil
 cloud.dod.afpims.mil
@@ -608,7 +604,6 @@ airpac.navy.afpims.mil
 nmio.navy.afpims.mil
 ssc.ussf.afpims.mil
 safety-sandbox.navy.afpims.mil
-www.sam.usace.afpims.mil
 winn.army.afpims.mil
 swtw.usaf.afpims.mil
 56ac.army.afpims.mil
@@ -621,7 +616,6 @@ cnrma.navy.afpims.mil
 walterreed.dod.afpims.mil
 macdill.usaf.afpims.mil
 medlinet.army.afpims.mil
-www.mvp.usace.afpims.mil
 fourthfleet.navy.afpims.mil
 kirtland.tricare.afpims.mil
 lakenheath.dod.afpims.mil
@@ -630,7 +624,6 @@ cnrc.navy.afpims.mil
 sigonella.dod.afpims.mil
 ccad.army.afpims.mil
 cnmoc.navy.afpims.mil
-www.usace.afpims.mil
 mortuary.usaf.afpims.mil
 navifor.navy.afpims.mil
 msc.navy.afpims.mil
@@ -698,9 +691,7 @@ usanca.army.afpims.mil
 alsa.joint.afpims.mil
 dodcertpmo.dod.afpims.mil
 c7f.navy.afpims.mil
-www.nao.usace.afpims.mil
 190arw.usaf.afpims.mil
-www.afpims.mil
 cnreurafcent.navy.afpims.mil
 pensacola.dod.afpims.mil
 belvoirhospital.dod.afpims.mil
@@ -708,7 +699,6 @@ usnhistory.navy.afpims.mil
 2ndmeb.usmc.afpims.mil
 buckley.dod.afpims.mil
 dote.dod.afpims.mil
-www.beale.usaf.afpims.mil
 news.uscg.afpims.mil
 rmc.usace.afpims.mil
 munson.dod.afpims.mil
@@ -738,7 +728,6 @@ information.usmc.afpims.mil
 nsw.navy.afpims.mil
 104fw.usaf.afpims.mil
 cnic.navy.afpims.mil
-www.hq.usace.afpims.mil
 atlantic.navy.afpims.mil
 netcents.usaf.afpims.mil
 ipps-a.army.afpims.mil

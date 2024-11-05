@@ -31,9 +31,6 @@ teleport.smokescreen.io
 threat-intel.smokescreen.io
 try.smokescreen.io
 upload.smokescreen.io
-www.smokescreen.io
-www.connect.smokescreen.io
-www.cptest.smokescreen.io
 zscaler.ssf.transmitter.smokescreen.io
 rs1.smokescreen.io
 license.smokescreen.io
@@ -55,6 +52,5 @@ dev.smokescreen.io
 cloud.smokescreen.io
 portal.smokescreen.io
 saas.smokescreen.io
-www.staging-website-random.smokescreen.io
 sslvpn.smokescreen.io
 uat.smokescreen.io

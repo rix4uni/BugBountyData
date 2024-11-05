@@ -12,7 +12,6 @@ translate.google.ws
 mobile.google.ws
 ns1.google.ws
 cse.google.ws
-www.google.ws
 maps.google.ws
 m.google.ws
 ns2.google.ws
@@ -20,7 +19,6 @@ adservice.google.ws
 ampcid.google.ws
 ns3.google.ws
 cctldtest.google.ws
-*.google.ws
 asia.google.ws
 alt1.toolbarqueries.google.ws
 accounts.google.ws

@@ -12,13 +12,11 @@ serviceability.runnr.in
 merchant.runnr.in
 internal.runnr.in
 staging-internal.runnr.in
-www.test.staging.runnr.in
 staging2.runnr.in
 backoffice.staging.runnr.in
 mqtt-broker.runnr.in
 dev.runnr.in
 zomato.runnr.in
-www.runnr.in
 gstagingdev.runnr.in
 staging3.runnr.in
 referralpartner.runnr.in
@@ -40,7 +38,6 @@ staging1.runnr.in
 lms.runnr.in
 static.staging.runnr.in
 blog.runnr.in
-*.staging.runnr.in
 webtest.staging.runnr.in
 hr.hr.webtest.staging.runnr.in
 hr.webtest.staging.runnr.in

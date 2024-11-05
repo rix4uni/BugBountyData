@@ -1,5 +1,4 @@
 sftp.smartdollar.com
-www.smartdollar.com
 test.smartdollar.com
 qa.smartdollar.com
 pages.e.smartdollar.com
@@ -8,13 +7,11 @@ help.smartdollar.com
 blog.smartdollar.com
 view.e.smartdollar.com
 click.e.smartdollar.com
-www.blog.smartdollar.com
 help.test.smartdollar.com
 e.smartdollar.com
 mta.e.smartdollar.com
-www.test.smartdollar.com
 origin.smartdollar.com
 segment.smartdollar.com
-www.prod.smartdollar.com
+prod.smartdollar.com
 segment.qa.smartdollar.com
 segment.test.smartdollar.com

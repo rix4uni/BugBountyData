@@ -1,5 +1,4 @@
 1650-032.noez.de
-*.noez.de
 2690-001.noez.de
 rto.noez.de
 uc.noez.de
@@ -49,7 +48,7 @@ kvm2670-001.noez.de
 2690-022.noez.de
 prodtest.noez.de
 vhost26.noez.de
-www.board.noez.de
+board.noez.de
 t.noez.de
 dev1.noez.de
 l.noez.de
@@ -92,13 +91,12 @@ vhost53.noez.de
 1.status.noez.de
 my.cloudrontest1.noez.de
 vhost56.noez.de
-www.nas.noez.de
+nas.noez.de
 lxc1650-021.noez.de
 brian.noez.de
 testendpoint.noez.de
 ts.noez.de
 vhost101.noez.de
-nas.noez.de
 cc.noez.de
 doku.noez.de
 cw.noez.de
@@ -110,13 +108,12 @@ checkmk.noez.de
 vhost70.noez.de
 2690-012.noez.de
 dev.noez.de
-www.noez.de
 test123.noez.de
 2690-004.noez.de
 bridge.noez.de
 nci.noez.de
 ws2.noez.de
-www.gta.noez.de
+gta.noez.de
 1650-009.noez.de
 wm2018.noez.de
 status2.noez.de
@@ -126,7 +123,6 @@ help.noez.de
 7950-001.noez.de
 pterodactyl.noez.de
 my.blog.noez.de
-www.uc.noez.de
 economix.noez.de
 tracker.noez.de
 2690-021.noez.de
@@ -173,7 +169,6 @@ ncis2.noez.de
 rc.cw.noez.de
 vhost51.noez.de
 vhost63.noez.de
-board.noez.de
 test.noez.de
 gpanel.noez.de
 lxc1650-020.noez.de

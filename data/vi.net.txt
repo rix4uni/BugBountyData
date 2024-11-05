@@ -51,7 +51,7 @@ vi-2283-abs.cloud.vi.net
 holdingpage-ns.vi.net
 mail.hostyasui.com.colo.vi.net
 vi-colo-1610-ro.colo.vi.net
-www.www.vi.net
+www.vi.net
 vi-2572-capco.cloud.vi.net
 vi-2179-scr.cloud.vi.net
 mxhost-1-01.vi.net
@@ -86,7 +86,6 @@ vi-colo-2003-che.colo.vi.net
 esxi20.cloud.vi.net
 vi-colo-1498-cre.colo.vi.net
 vi-colo-1112-dra.colo.vi.net
-www.vi.net
 vi-2391-tor.cloud.vi.net
 sw01.vcloud.vi.net
 lists.vi.net
@@ -269,7 +268,7 @@ vi-2302-sea.cloud.vi.net
 esxi07.cloud.vi.net
 vi-colo-1958-eli.colo.vi.net
 vi-2182-ele.vcloud.vi.net
-www.france.vi.net
+france.vi.net
 vi-2512-bam.cloud.vi.net
 vi-2198-mad.vcloud.vi.net
 vi-2317-rhs.cloud.vi.net
@@ -376,7 +375,7 @@ vi-2274-spo.vcloud.vi.net
 vi-colo-1927-doc.colo.vi.net
 vi-colo-1824-cri.colo.vi.net
 vi-3672-sci.colo.vi.net
-www.asp.vi.net
+asp.vi.net
 surf.vi.net
 sh03.vi.net
 my.vi.net
@@ -539,7 +538,7 @@ vi-3227-hyp.cloud.vi.net
 vi-colo-1881-che.colo.vi.net
 vi-colo-1802-dra.colo.vi.net
 control.vi.net
-www.freenames.vi.net
+freenames.vi.net
 vi-2367-gov.xcloud.vi.net
 vi-3108-fit.cloud.vi.net
 vi-colo-1990-inf.colo.vi.net
@@ -581,7 +580,6 @@ wdrs.vi.net
 wapa.vi.net
 mxhost-1-05.mail.vi.net
 z2nas002.web.vi.net
-freenames.vi.net
 vi-colo-1730-wri.colo.vi.net
 esxi02.vcloud.vi.net
 vi-colo-1666-lig.colo.vi.net
@@ -666,18 +664,7 @@ vi-colo-2623.colo.vi.net
 smtp-1.vi.net
 vibmanager4.vi.net
 imap.mail.vi.net
-www.webmail.vi.net
-www.vi-3656-eas.cloud.vi.net
-www.vi-3654-eas.cloud.vi.net
-www.vi-3655-eas.cloud.vi.net
 dgw230.dc5.rtr.vi.net
-www.vi-3592-whi.cloud.vi.net
-www.vip.vi.net
-www.controlpanel.vi.net
-www.vi-3482-bri.colo.vi.net
-www.us.evdc.vi.net
-www.sh01.vi.net
-www.monitoring.vi.net
 vi-ads-1142.ads.vi.net
 vi-ads-915.ads.vi.net
 vi-ads-1208.ads.vi.net
@@ -732,12 +719,6 @@ vi-ads-1138.ads.vi.net
 vi-ads-1204.ads.vi.net
 vi-ads-1043.ads.vi.net
 vi-ads-1163.ads.vi.net
-www.legacy-controlpanel.vi.net
-www.vi-3338-new.vi.net
-www.vi-3534-per.vi.net
-www.vi-2492-vcy.cloud.vi.net
-www.cdn.vi.net
-www.test.vi.net
 test.vi.net
 ns3.vi.net
 webrelay.mail.vi.net

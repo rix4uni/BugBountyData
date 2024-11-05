@@ -141,9 +141,6 @@ vault.truelayer.com
 verification-demo-backend.truelayer.com
 verification.truelayer.com
 webhooks.truelayer.com
-www.blog.truelayer.com
-www.prisma.truelayer.com
-www.truelayer.com
 zendesk1.truelayer.com
 zendesk2.truelayer.com
 zendesk3.truelayer.com
@@ -172,6 +169,3 @@ truemonitor-api.truelayer.com
 vpn.truelayer.com
 prometheus-underlying.truelayer.com
 data-api-test.truelayer.com
-*.shopify.mtls.truelayer.com
-*.amazon-payments.mtls.truelayer.com
-*.klarna.mtls.truelayer.com

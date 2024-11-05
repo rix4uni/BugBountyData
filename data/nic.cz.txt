@@ -8,7 +8,6 @@ enum.nic.cz
 dar.nic.cz
 edice.nic.cz
 akademie.nic.cz
-www.akademie.nic.cz
 px-fred-s-01.nic.cz
 datovka.nic.cz
 auctions-master.nic.cz
@@ -106,7 +105,6 @@ adam.pages.nic.cz
 registry.nic.cz
 pages.nic.cz
 websites.pages.nic.cz
-www.bird.nic.cz
 mibew.nic.cz
 onlinechat.nic.cz
 siem-test.nic.cz
@@ -146,7 +144,6 @@ px-l-01.nic.cz
 onlinechat2.nic.cz
 labs.nic.cz
 calendar.nic.cz
-www.enum.nic.cz
 mojeid.mojeid-regtest-01.nic.cz
 mojeid.regtest.nic.cz
 epp.nic.cz
@@ -161,7 +158,7 @@ mailhog.euroix-devel.nic.cz
 px-s-01.nic.cz
 mailman-s-01.nic.cz
 mailman-r-01.nic.cz
-www.kampan.nic.cz
+kampan.nic.cz
 dock.nic.cz
 whoami.nic.cz
 traefik.nic.cz

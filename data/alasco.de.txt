@@ -49,7 +49,6 @@ sandbox.alasco.de
 demo.alasco.de
 hello.alasco.de
 login.dev.alasco.de
-www.alasco.de
 feature-dashboard.staging.alasco.de
 hack-patrick-powerbi-demo-deploy.staging.alasco.de
 files.alasco.de
@@ -60,11 +59,6 @@ zendesk1.alasco.de
 maintenance.alasco.de
 rabbitmq.alasco.de
 rds.alasco.de
-*.alasco.de
-*.dev.alasco.de
-*.demo.alasco.de
-*.sandbox.alasco.de
-*.staging.alasco.de
 apiapi.n.alasco.de
 concentrixanz.alasco.de
 dev-accountvpn-new-oceania.inside.alasco.de

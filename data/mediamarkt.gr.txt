@@ -1,4 +1,3 @@
-*.mediamarkt.gr
 app.mediamarkt.gr
 availability.mediamarkt.gr
 business.mediamarkt.gr
@@ -33,11 +32,6 @@ tickets.mediamarkt.gr
 uat.mediamarkt.gr
 walkin.mediamarkt.gr
 wizards.mediamarkt.gr
-www.mediamarkt.gr
-www.flyer.mediamarkt.gr
-www.mediatrends.mediamarkt.gr
-www.news.mediamarkt.gr
-www.wizards.mediamarkt.gr
 xml.mediamarkt.gr
 perf.mediamarkt.gr
 test.mediamarkt.gr

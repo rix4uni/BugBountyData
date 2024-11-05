@@ -4,7 +4,7 @@ web2.eu.ipendo.com
 web3.eu.ipendo.com
 mail2.ipendo.com
 testing.us.ipendo.com
-www.platform.apac.ipendo.com
+platform.apac.ipendo.com
 releasetest-online.eu.ipendo.com
 livetest.eu.ipendo.com
 labs.ipendo.com
@@ -30,7 +30,6 @@ livetest-login.eu.ipendo.com
 db2.eu.ipendo.com
 db2.us.ipendo.com
 web1.us.ipendo.com
-platform.apac.ipendo.com
 admintest.eu.ipendo.com
 app1.us.ipendo.com
 login.ipendo.com
@@ -39,13 +38,11 @@ swl-git03.ipendo.com
 db3.eu.ipendo.com
 admin.eu.ipendo.com
 online.us.ipendo.com
-www.ipendo.com
 dms.ipendo.com
 demo-login.eu.ipendo.com
 swl-git01.ipendo.com
 platform.us.ipendo.com
 admin.us.ipendo.com
-www.releasetest-online.apac.ipendo.com
 access.ipendo.com
 app1.eu.ipendo.com
 pv.ipendo.com

@@ -275,7 +275,6 @@ reviews.acrobat.com
 api2.acrobat.com
 v3.services.acrobat.com
 send.stage.acrobat.com
-www.acrobat.com
 fillsign-migrate.r53.acrobat.com
 send-asr.acrobat.com
 files-asr.acrobat.com
@@ -329,42 +328,6 @@ cloud.dev.dexilab.acrobat.com
 rna-resource.acrobat.com
 files.r53.acrobat.com
 sendnow.acrobat.com
-*.acrobat.com
-*.dev.dexilab.acrobat.com
-*.files.acrobat.com
-*.files.dev.dexilab.acrobat.com
-*.files.stage.acrobat.com
-*.stage.acrobat.com
-*.labs.acrobat.com
-*.dexilab.acrobat.com
-*.adobe.acrobat.com
-*.emea.adobe.acrobat.com
-*.na3.stage.acrobat.com
-*.stagelabs1.acrobat.com
-*.na3.acrobat.com
-*.na1.connect.acrobat.com
-*.adobe.stage.acrobat.com
-*.na6.acrobat.com
-www.stage.acrobat.com
-*.buzzword.acrobat.com
-*.emea.acrobat.com
-*.connectpro.acrobat.com
-*.test.dexilab.acrobat.com
-*.formscentral.acrobat.com
-*.digitalpublishing.acrobat.com
-*.digitalpublishing.stage.acrobat.com
-*.stage.buzzword.acrobat.com
-*.digitalpublishing.stagelabs3.acrobat.com
-*.beta.acrobat.com
-*.stagelabs3.acrobat.com
-*.stagelabs2.acrobat.com
-*.emea.stage.acrobat.com
-*.beta.emea.acrobat.com
-www.beta.emea.acrobat.com
-*.na4.acrobat.com
-*.na5.acrobat.com
-*.formscentral.stage.acrobat.com
-*.digitalpublishing.stage2.acrobat.com
 5minsolutions.na5.acrobat.com
 78342797.na5.acrobat.com
 aace.na4.acrobat.com
@@ -936,8 +899,6 @@ webseminar.na5.acrobat.com
 wgu.connectpro.acrobat.com
 whitehorse.na5.acrobat.com
 worldbankva.na4.acrobat.com
-www.carahsoft.acrobat.com
-www.lecturesonlife.acrobat.com
 yale.acrobat.com
 connectpro95633937.na5.acrobat.com
 appbuilder.digitalpublishing.acrobat.com
@@ -1050,7 +1011,7 @@ knics.digitalpublishing.acrobat.com
 xe.digitalpublishing.acrobat.com
 4lfresearningguilder.digitalpublishing.acrobat.com
 qmmenter.digitalpublishing.acrobat.com
-www.pgi-trial.emea.acrobat.com
+pgi-trial.emea.acrobat.com
 hur2.digitalpublishing.acrobat.com
 vutsrqponmlkjihgfedcba98.digitalpublishing.acrobat.com
 12.digitalpublishing.acrobat.com
@@ -1065,7 +1026,7 @@ gcents.digitalpublishing.acrobat.com
 alfresearningcentral-test.digitalpublishing.acrobat.com
 anlearningcentradingcentral-stationpremierelearningcenter.digitalpublishing.acrobat.com
 fsmb.na3.acrobat.com
-www.bt.acrobat.com
+bt.acrobat.com
 uwmedical-stat.digitalpublishing.acrobat.com
 2calversity.digitalpublishing.acrobat.com
 2u.digitalpublishing.acrobat.com
@@ -1114,7 +1075,6 @@ eobatplus.digitalpublishing.acrobat.com
 siteanalytics.acrobat.com
 ttus.digitalpublishing.acrobat.com
 grundfosmanagementas.acrobat.com
-www.na3.acrobat.com
 3rownload.digitalpublishing.acrobat.com
 qlfresearningcentradingcents.digitalpublishing.acrobat.com
 webcast.digitalpublishing.acrobat.com
@@ -1277,7 +1237,7 @@ ricess-2.digitalpublishing.acrobat.com
 10zyxwvutsrqponmlkji.digitalpublishing.acrobat.com
 api22.digitalpublishing.acrobat.com
 oiappbuilder.digitalpublishing.acrobat.com
-www.healthcarefinancial.acrobat.com
+healthcarefinancial.acrobat.com
 jkt.acrobat.com
 commentral-stationetword.digitalpublishing.acrobat.com
 hgcententradingcentrading.digitalpublishing.acrobat.com
@@ -1332,7 +1292,7 @@ vearningcentradingcents.digitalpublishing.acrobat.com
 courtjesther.acrobat.com
 ming.digitalpublishing.acrobat.com
 researningcentent.digitalpublishing.acrobat.com
-www.culture.acrobat.com
+culture.acrobat.com
 luthedge-0.digitalpublishing.acrobat.com
 dynamicinstationetradingcents-weighted.digitalpublishing.acrobat.com
 alfresearningcentradingcententral-stat.digitalpublishing.acrobat.com
@@ -1516,7 +1476,7 @@ galversity.digitalpublishing.acrobat.com
 getconsumerelectsharedicationetral-pro86502729.digitalpublishing.acrobat.com
 oenter.digitalpublishing.acrobat.com
 beaconrealtyofgeorgia.na5.acrobat.com
-www.next-dev.sflab.acrobat.com
+next-dev.sflab.acrobat.com
 adc-connedycentradingcentradingcentrading.digitalpublishing.acrobat.com
 connectsharedirectsharedirect.digitalpublishing.acrobat.com
 translatecz.acrobat.com
@@ -1724,7 +1684,7 @@ redicalversityconsumerelearningcentral-stage.digitalpublishing.acrobat.com
 adc-constationpresearningcententral-stationpremierelearning.digitalpublishing.acrobat.com
 vorkspacenter.digitalpublishing.acrobat.com
 spra.na3.acrobat.com
-www.securecheckout.acrobat.com
+securecheckout.acrobat.com
 cicess.digitalpublishing.acrobat.com
 cloud-alfresearningcentradingcents.digitalpublishing.acrobat.com
 ices.acrobat.com
@@ -1980,7 +1940,7 @@ hityconnectpro86502729.digitalpublishing.acrobat.com
 nmlkjihgfedcbaqualityconn.digitalpublishing.acrobat.com
 qg.digitalpublishing.acrobat.com
 connectpro87622359.emea.acrobat.com
-www.lebow.acrobat.com
+lebow.acrobat.com
 tsonlinesupport.adobe.acrobat.com
 adc-consumerelectsowense.digitalpublishing.acrobat.com
 zpro86502729.digitalpublishing.acrobat.com
@@ -3043,7 +3003,6 @@ e07p-1.digitalpublishing.acrobat.com
 foregonstatus.digitalpublishing.acrobat.com
 ked.digitalpublishing.acrobat.com
 oregonstationpresearch.digitalpublishing.acrobat.com
-uww.acrobat.com
 amenter.digitalpublishing.acrobat.com
 appbuilderpublish.digitalpublishing.acrobat.com
 lifeoptions.acrobat.com
@@ -3314,7 +3273,7 @@ jihgfedcbaqualittlebrow.digitalpublishing.acrobat.com
 jiles-weighted.digitalpublishing.acrobat.com
 ats.digitalpublishing.acrobat.com
 cpmail2.digitalpublishing.acrobat.com
-www.flavio.acrobat.com
+flavio.acrobat.com
 cpmailes-uplorelearningcentradingguild.digitalpublishing.acrobat.com
 expload-2.digitalpublishing.acrobat.com
 n-weighted.digitalpublishing.acrobat.com
@@ -3708,7 +3667,7 @@ utsrqponmlkjihgfedcba987654.digitalpublishing.acrobat.com
 buzzword-0.digitalpublishing.acrobat.com
 cannonfinancisationpresearningcentrading.digitalpublishing.acrobat.com
 fcrobatplus.digitalpublishing.acrobat.com
-www.soumu.acrobat.com
+soumu.acrobat.com
 connectpro29961689.acrobat.com
 as.digitalpublishing.acrobat.com
 geti.acrobat.com
@@ -3817,7 +3776,7 @@ nicalverts.digitalpublishing.acrobat.com
 adoba.acrobat.com
 1hurch1.digitalpublishing.acrobat.com
 redicalversitycontentral-prod.digitalpublishing.acrobat.com
-www.windows.acrobat.com
+windows.acrobat.com
 files-uplorelearningcentral-stationetral.digitalpublishing.acrobat.com
 francisationetral-stationetradingcentradingcentral-test.digitalpublishing.acrobat.com
 medicalversityconstagelabs3.digitalpublishing.acrobat.com
@@ -4166,7 +4125,6 @@ applicalversityconnedycenter.digitalpublishing.acrobat.com
 b07p-3.digitalpublishing.acrobat.com
 aloa.digitalpublishing.acrobat.com
 cpmailes-downiebakersityconnedycents-weighted.digitalpublishing.acrobat.com
-next-dev.sflab.acrobat.com
 9adingcententradingcents-weighted.digitalpublishing.acrobat.com
 rormscentradingcentradingcentral.digitalpublishing.acrobat.com
 9re.digitalpublishing.acrobat.com
@@ -4374,7 +4332,6 @@ luthedge-4.digitalpublishing.acrobat.com
 luthersityconnedycentent.digitalpublishing.acrobat.com
 luthersityconsumerelearning.digitalpublishing.acrobat.com
 osmailes-downiebakersitycontents-weighted.digitalpublishing.acrobat.com
-www.earthclassmail.acrobat.com
 3centradingcents.digitalpublishing.acrobat.com
 api4.digitalpublishing.acrobat.com
 lityconsumerelectsharedicalversityconnedycentradingcentral.digitalpublishing.acrobat.com
@@ -4497,7 +4454,7 @@ breeze83013797.acrobat.com
 8nnectsowensboro.digitalpublishing.acrobat.com
 cullbridges-download2.digitalpublishing.acrobat.com
 education.acrobat.com
-www.snapon.bostonregion.acrobat.com
+snapon.bostonregion.acrobat.com
 calversityconsumerelearningcentrading.digitalpublishing.acrobat.com
 commentententral.digitalpublishing.acrobat.com
 files-downiebakersityconnectsharedical-test.digitalpublishing.acrobat.com
@@ -4699,7 +4656,7 @@ vmwaredicalversityconsumerelectpro86502729.digitalpublishing.acrobat.com
 1ty.digitalpublishing.acrobat.com
 dcurch111.digitalpublishing.acrobat.com
 nanyaredicalverts.digitalpublishing.acrobat.com
-www.cbs.gov.acrobat.com
+cbs.gov.acrobat.com
 smu.na6.acrobat.com
 7rsityconnectpro86502729.digitalpublishing.acrobat.com
 9d.digitalpublishing.acrobat.com
@@ -5161,7 +5118,7 @@ prkspacess.digitalpublishing.acrobat.com
 qorkspacess.digitalpublishing.acrobat.com
 safeguardeanlearningcent.digitalpublishing.acrobat.com
 magma.acrobat.com
-www.h1base.na5.acrobat.com
+h1base.na5.acrobat.com
 bigtrend-applicalversity.digitalpublishing.acrobat.com
 mmsales-downiebakersem.digitalpublishing.acrobat.com
 tatus5.digitalpublishing.acrobat.com
@@ -5399,7 +5356,7 @@ cal-stationpresearningcentral-stagelabs3.digitalpublishing.acrobat.com
 euzzword.digitalpublishing.acrobat.com
 3ronics.digitalpublishing.acrobat.com
 8appbuilder.digitalpublishing.acrobat.com
-www.tier10.na5.acrobat.com
+tier10.na5.acrobat.com
 top.acrobat.com
 cp-1.digitalpublishing.acrobat.com
 drghassanyaredirectsharedicalversitycontentral.digitalpublishing.acrobat.com
@@ -6162,7 +6119,7 @@ auctionpremierelearningcentral-stage.digitalpublishing.acrobat.com
 auplorigiapplicalversityconnectshare.digitalpublishing.acrobat.com
 files-uploregonstationpresearningcentral-status.digitalpublishing.acrobat.com
 wlder.digitalpublishing.acrobat.com
-www.presidencia.acrobat.com
+presidencia.acrobat.com
 bradsch.acrobat.com
 cntral-stat.digitalpublishing.acrobat.com
 qllsign.digitalpublishing.acrobat.com
@@ -6408,7 +6365,7 @@ oregonstationpresearningcententral-test.digitalpublishing.acrobat.com
 ksu.acrobat.com
 sadiagnostics1.acrobat.com
 quest.arc.acrobat.com
-www.contrib.acrobat.com
+contrib.acrobat.com
 emea44122223.emea.acrobat.com
 uniselectusa.acrobat.com
 consumerelearningcentral-test.digitalpublishing.acrobat.com
@@ -6943,7 +6900,6 @@ fms6.digitalpublishing.acrobat.com
 alfresearningcentradingcentral-stage.digitalpublishing.acrobat.com
 o07p-1.digitalpublishing.acrobat.com
 salityconnectsowensboro.digitalpublishing.acrobat.com
-tier10.na5.acrobat.com
 6earningcentradingcents.digitalpublishing.acrobat.com
 formscententral-stationpresearningcentral-status.digitalpublishing.acrobat.com
 hign.digitalpublishing.acrobat.com
@@ -8330,7 +8286,6 @@ p-1-1.digitalpublishing.acrobat.com
 uwmedicalversityconsumerelearningguilder.digitalpublishing.acrobat.com
 ldschurch0.digitalpublishing.acrobat.com
 oboro.digitalpublishing.acrobat.com
-pgi-trial.emea.acrobat.com
 luthersityconsumerelearningcentents.digitalpublishing.acrobat.com
 medicalversityconsumerelearningcentents-weighted.digitalpublishing.acrobat.com
 9p-1-2.digitalpublishing.acrobat.com
@@ -8679,7 +8634,6 @@ downiebakersityconstatic.digitalpublishing.acrobat.com
 eeighted.digitalpublishing.acrobat.com
 qtsowensboro.digitalpublishing.acrobat.com
 tnyaredical-stat.digitalpublishing.acrobat.com
-www.admin.acrobat.com
 digiappbuilder3.digitalpublishing.acrobat.com
 kennedycents-weighted.digitalpublishing.acrobat.com
 signups.acrobat.com
@@ -9350,7 +9304,6 @@ profileedit.acrobat.com
 9iles-weighted.digitalpublishing.acrobat.com
 kennedycentradingcentradingcentradingcenter.digitalpublishing.acrobat.com
 nrghassanyaredicalverts.digitalpublishing.acrobat.com
-www.edtech.acrobat.com
 serbiss.emea.acrobat.com
 tdsb.na3.acrobat.com
 hormscents.digitalpublishing.acrobat.com
@@ -9370,7 +9323,7 @@ eentral-stationetradingcents.digitalpublishing.acrobat.com
 mmsales-downiebakersityconnectprod.digitalpublishing.acrobat.com
 niapplicalversityconstationetwork.digitalpublishing.acrobat.com
 rhsanyaredicalvertssss.digitalpublishing.acrobat.com
-www.yocumoil.acrobat.com
+yocumoil.acrobat.com
 9illsign.digitalpublishing.acrobat.com
 bcentral-stagelabs1.digitalpublishing.acrobat.com
 consumerelectsharedicatic.digitalpublishing.acrobat.com
@@ -9494,7 +9447,7 @@ hes.digitalpublishing.acrobat.com
 luthedge-publishingcententradingcentradingcentral.digitalpublishing.acrobat.com
 qualittlebrowniebakersityconstationpresearch.digitalpublishing.acrobat.com
 ctia.na4.acrobat.com
-www.usfa.acrobat.com
+usfa.acrobat.com
 breeze10396440.acrobat.com
 6ttlebrowniebakers.digitalpublishing.acrobat.com
 nthersityconsumerelectpro86502729.digitalpublishing.acrobat.com
@@ -9797,7 +9750,7 @@ mrpencisationpresearningcentral-status.digitalpublishing.acrobat.com
 w17p-2.digitalpublishing.acrobat.com
 ektron.acrobat.com
 scha.acrobat.com
-www.smellman.acrobat.com
+smellman.acrobat.com
 cpmailes-uploregonsumerelearningguild.digitalpublishing.acrobat.com
 drghassanyaredicationetradingcentents-weighted.digitalpublishing.acrobat.com
 dukeunivofmicinstationetral-status.digitalpublishing.acrobat.com
@@ -10232,7 +10185,7 @@ p22.digitalpublishing.acrobat.com
 cocommentral-stationetradingcenter.digitalpublishing.acrobat.com
 formscententrading.digitalpublishing.acrobat.com
 uplorelearningcententradingcententents.digitalpublishing.acrobat.com
-www.cms.acrobat.com
+cms.acrobat.com
 armscentrading.digitalpublishing.acrobat.com
 tationpremierelearningcentral-stagelabs2.digitalpublishing.acrobat.com
 xed.digitalpublishing.acrobat.com
@@ -10258,7 +10211,7 @@ lityconnectsharedical-stationpresearningcentral-test.digitalpublishing.acrobat.c
 z86502729.digitalpublishing.acrobat.com
 luthedge-5.digitalpublishing.acrobat.com
 ms.digitalpublishing.acrobat.com
-www.fsa.acrobat.com
+fsa.acrobat.com
 3dschurch1.digitalpublishing.acrobat.com
 koad2-weighted.digitalpublishing.acrobat.com
 3ttlebrowniebakers.digitalpublishing.acrobat.com
@@ -10311,7 +10264,7 @@ tgiappbuilder.digitalpublishing.acrobat.com
 vmwaredicalversityconnedycentradingcenter.digitalpublishing.acrobat.com
 4nectpro86502729.digitalpublishing.acrobat.com
 8ersityconnectpro86502729.digitalpublishing.acrobat.com
-www.uky.acrobat.com
+uky.acrobat.com
 ningcentradingcents.digitalpublishing.acrobat.com
 redirectronics.digitalpublishing.acrobat.com
 uwmedicationetral.digitalpublishing.acrobat.com
@@ -10602,7 +10555,7 @@ connectpro23677175.acrobat.com
 cpmailes-uplorigitalpublishingcentradingcentral-status.digitalpublishing.acrobat.com
 mbridges.digitalpublishing.acrobat.com
 qare.digitalpublishing.acrobat.com
-www.sophos.emea.acrobat.com
+sophos.emea.acrobat.com
 eotpro.acrobat.com
 3sityconnectpro86502729.digitalpublishing.acrobat.com
 iplorelearningcentradingcent.digitalpublishing.acrobat.com
@@ -11470,7 +11423,6 @@ francisationpresearningcentral.digitalpublishing.acrobat.com
 localversityconsumerelect.digitalpublishing.acrobat.com
 luthersityconsumerelectnow.digitalpublishing.acrobat.com
 redicalversitycontentral-stat.digitalpublishing.acrobat.com
-www.access.acrobat.com
 cocommentradingcentral.digitalpublishing.acrobat.com
 ech1.digitalpublishing.acrobat.com
 gfedcbaqualittlebrownie.digitalpublishing.acrobat.com
@@ -11561,7 +11513,6 @@ eonetral-stationetworkspacess.digitalpublishing.acrobat.com
 lex.digitalpublishing.acrobat.com
 littlebrowniebakersityconsumerelearningcentral-statepdf.digitalpublishing.acrobat.com
 xassanyare.digitalpublishing.acrobat.com
-www.cocc.acrobat.com
 dge.digitalpublishing.acrobat.com
 9verts.digitalpublishing.acrobat.com
 suzzword.digitalpublishing.acrobat.com
@@ -12167,7 +12118,7 @@ download2.digitalpublishing.acrobat.com
 f07p-1.digitalpublishing.acrobat.com
 vmwaredicalversityconnectsharedicalversitycontentents.digitalpublishing.acrobat.com
 orelearningcentradingcentradingcentral.digitalpublishing.acrobat.com
-www.europarl.acrobat.com
+europarl.acrobat.com
 formscentral-status.digitalpublishing.acrobat.com
 srqponmlkjihgfed.digitalpublishing.acrobat.com
 ttthersityconsumerelearningcententral-statepdf-weighted.digitalpublishing.acrobat.com
@@ -12462,7 +12413,6 @@ howniebakers.digitalpublishing.acrobat.com
 kyle.acrobat.com
 breezeplatform.adobe.acrobat.com
 7alittlebrowniebakers.digitalpublishing.acrobat.com
-lebow.acrobat.com
 online-shc.na6.acrobat.com
 kboro.digitalpublishing.acrobat.com
 localversityconstationetradingguilder.digitalpublishing.acrobat.com
@@ -12743,7 +12693,6 @@ iuthersityconnectpro86502729.digitalpublishing.acrobat.com
 medical-prod.digitalpublishing.acrobat.com
 connectpro89108294.emea.acrobat.com
 davidsonmorris.emea.acrobat.com
-www.my.adobe.acrobat.com
 auctionpresearningcententral-stat.digitalpublishing.acrobat.com
 littlebrowniebakersityconnedycentral-prod.digitalpublishing.acrobat.com
 srq.digitalpublishing.acrobat.com
@@ -12873,7 +12822,7 @@ wocalversity.digitalpublishing.acrobat.com
 auctionpresearningcentral.digitalpublishing.acrobat.com
 opload.digitalpublishing.acrobat.com
 premierelectsharedicalversityconnectnow.digitalpublishing.acrobat.com
-www.eere.acrobat.com
+eere.acrobat.com
 4ocalversity.digitalpublishing.acrobat.com
 calversityconnedycentral-prod.digitalpublishing.acrobat.com
 jihgfedcba987654.digitalpublishing.acrobat.com
@@ -12926,7 +12875,6 @@ cardeanlearningcentral-pro86502729.digitalpublishing.acrobat.com
 uityconnectsowensboro.digitalpublishing.acrobat.com
 v6502729.digitalpublishing.acrobat.com
 wnics.digitalpublishing.acrobat.com
-www.digitalpublishing.acrobat.com
 aect.digitalpublishing.acrobat.com
 quthedge.digitalpublishing.acrobat.com
 connectpro31504933.acrobat.com
@@ -13070,7 +13018,7 @@ universityconnectsharedicationetradingcentradingcentral-status.digitalpublishing
 universityconstationpresearningcentral-statepdf.digitalpublishing.acrobat.com
 1iappbuilder.digitalpublishing.acrobat.com
 adc-connectsharedicalversityconnedycentral-status.digitalpublishing.acrobat.com
-www.invest.acrobat.com
+invest.acrobat.com
 cloudupload.digitalpublishing.acrobat.com
 elearningcentradingcent.digitalpublishing.acrobat.com
 jhersityconnectpro86502729.digitalpublishing.acrobat.com
@@ -13463,7 +13411,6 @@ fp-1-7.digitalpublishing.acrobat.com
 frch1.digitalpublishing.acrobat.com
 tre.digitalpublishing.acrobat.com
 yversity.digitalpublishing.acrobat.com
-www.ceee.gwu.na4.acrobat.com
 002729.digitalpublishing.acrobat.com
 4ctpro86502729.digitalpublishing.acrobat.com
 rqponmlkj.digitalpublishing.acrobat.com
@@ -14117,7 +14064,6 @@ calverts1.digitalpublishing.acrobat.com
 downiebakersityconsumerelectsowensboro.digitalpublishing.acrobat.com
 mading.digitalpublishing.acrobat.com
 medicationetradingcentral-stagelabs3.digitalpublishing.acrobat.com
-h1base.na5.acrobat.com
 2ullbridges.digitalpublishing.acrobat.com
 dominionenterprises.na5.acrobat.com
 illinoisworknet.na5.acrobat.com
@@ -14195,7 +14141,7 @@ kzword-0.digitalpublishing.acrobat.com
 littlebrownload3.digitalpublishing.acrobat.com
 constationenligne.digitalpublishing.acrobat.com
 kennedycentradingcententral-stat.digitalpublishing.acrobat.com
-www.radiotherapy.acrobat.com
+radiotherapy.acrobat.com
 raintoday.acrobat.com
 hhersityconnectpro86502729.digitalpublishing.acrobat.com
 luthersityconnectpro16502726.digitalpublishing.acrobat.com
@@ -14235,8 +14181,7 @@ fmin.digitalpublishing.acrobat.com
 kennectsharedirectsharedical-stagelabs1.digitalpublishing.acrobat.com
 mmsales-download.digitalpublishing.acrobat.com
 lsb-nrw.emea.acrobat.com
-www.scottish.acrobat.com
-snapon.bostonregion.acrobat.com
+scottish.acrobat.com
 4cess.digitalpublishing.acrobat.com
 w67p-4.digitalpublishing.acrobat.com
 calversityconstationenligne.digitalpublishing.acrobat.com
@@ -14395,7 +14340,6 @@ iakers.digitalpublishing.acrobat.com
 rents.digitalpublishing.acrobat.com
 tationetral-static.digitalpublishing.acrobat.com
 aghted.digitalpublishing.acrobat.com
-www.tgslc.na4.acrobat.com
 luthersityconnedycententral-statepdf.digitalpublishing.acrobat.com
 researningcententral-status.digitalpublishing.acrobat.com
 uchurch1.digitalpublishing.acrobat.com
@@ -14472,7 +14416,6 @@ aba.acrobat.com
 1ss.digitalpublishing.acrobat.com
 files-downiebakersityconnedycententral-stat.digitalpublishing.acrobat.com
 ugcentradingcents.digitalpublishing.acrobat.com
-www.connectpro98306253.na5.acrobat.com
 li.na6.acrobat.com
 alfresearningcentradingcententral-test.digitalpublishing.acrobat.com
 awu.digitalpublishing.acrobat.com
@@ -14710,7 +14653,6 @@ uplorelearningcentradingcentents-weighted.digitalpublishing.acrobat.com
 lityconnedycentradingcentral-test.digitalpublishing.acrobat.com
 ngn.digitalpublishing.acrobat.com
 ythersem.digitalpublishing.acrobat.com
-www.open.acrobat.com
 nectpro86502729.digitalpublishing.acrobat.com
 ukspacess.digitalpublishing.acrobat.com
 v9.digitalpublishing.acrobat.com
@@ -14826,7 +14768,7 @@ keystonetral.digitalpublishing.acrobat.com
 constationpresco.digitalpublishing.acrobat.com
 redicalversityconstationpresearningcent.digitalpublishing.acrobat.com
 schoolofpe.acrobat.com
-www.ccnso.acrobat.com
+ccnso.acrobat.com
 6nload.digitalpublishing.acrobat.com
 ponmlkjihgfedcba9876543210zy.digitalpublishing.acrobat.com
 5ntradingcents.digitalpublishing.acrobat.com
@@ -15939,7 +15881,7 @@ ctyconnectpro86502729.digitalpublishing.acrobat.com
 formscentradingcententradingcentententradingcentents.digitalpublishing.acrobat.com
 thebridgesnetwork.acrobat.com
 fers.digitalpublishing.acrobat.com
-www.fluid.mmalliance.acrobat.com
+fluid.mmalliance.acrobat.com
 7lityconnectsowensboro.digitalpublishing.acrobat.com
 nwb.emea.acrobat.com
 ldschurch1.acrobat.com
@@ -17922,7 +17864,7 @@ uploregonsumerelectsharedical-state.digitalpublishing.acrobat.com
 adc-connedycentradingcentradingguilder.digitalpublishing.acrobat.com
 florelearningcentral-stationetradingcent.digitalpublishing.acrobat.com
 dukeuniversity.na5.acrobat.com
-www.connectpro85722179.acrobat.com
+connectpro85722179.acrobat.com
 ylder.digitalpublishing.acrobat.com
 dttlebrownload.digitalpublishing.acrobat.com
 formscentral-stationetradingcentradingcentral-statepdf.digitalpublishing.acrobat.com

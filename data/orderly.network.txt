@@ -324,7 +324,6 @@ qa-xxl-job.orderly.network
 xxl-job.orderly.network
 testnet-admin.orderly.network
 storybook.orderly.network
-www.orderly.network
 staging-argo.orderly.network
 dev-thanos-bucketweb-v2.orderly.network
 dev-pmm-rpc.orderly.network

@@ -17,7 +17,7 @@ api.apility.io
 bois.apility.io
 hostmaster.status.apility.io
 spain.apility.io
-www.community.apility.io
+community.apility.io
 status.apility.io
 satellite-eu-west.apility.io
 hostmaster.admin.apility.io
@@ -28,6 +28,5 @@ search.apility.io
 satellite-gce-us-east1-b.apility.io
 hostmaster.satellite-eu-west.apility.io
 hostmaster.satellite-gce-europe-west1-b.apility.io
-www.apility.io
 staging.apility.io
 hostmaster.satellite-gce-us-east1-b.apility.io

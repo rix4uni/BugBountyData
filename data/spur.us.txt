@@ -6,7 +6,6 @@ test2.mcl.spur.us
 verify-ind2.spur.us
 exports.spur.us
 verify-euc.spur.us
-www.spur.us
 verify-euw2.spur.us
 verify-sae1.spur.us
 app.spur.us
@@ -15,7 +14,7 @@ verify-ase.spur.us
 decrypt.mcl.spur.us
 bundle.mcl.spur.us
 verifys-usw.spur.us
-www.store.spur.us
+store.spur.us
 mcls.spur.us
 mcl.spur.us
 verify-ind.spur.us
@@ -32,7 +31,6 @@ verify.spur.us
 api.spur.us
 verifys-use.spur.us
 tang.spur.us
-store.spur.us
 verify-mew1.spur.us
 verify-ane1.spur.us
 verify-use.spur.us

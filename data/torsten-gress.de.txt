@@ -16,7 +16,6 @@ chat.prod.torsten-gress.de
 std.analytics.torsten-gress.de
 superset.uat.torsten-gress.de
 flow.preprod.torsten-gress.de
-www.torsten-gress.de
 alpha.torsten-gress.de
 ci.cicd.torsten-gress.de
 superset.beta.torsten-gress.de
@@ -113,7 +112,7 @@ analytics.torsten-gress.de
 pipeline.test.torsten-gress.de
 smtp.torsten-gress.de
 flowiseai.alpha.torsten-gress.de
-www.cloud.torsten-gress.de
+cloud.torsten-gress.de
 production.argo.torsten-gress.de
 development.cicd.torsten-gress.de
 flowise.test.torsten-gress.de

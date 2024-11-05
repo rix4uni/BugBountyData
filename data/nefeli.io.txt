@@ -61,7 +61,6 @@ demo.demo.nefeli.io
 cortex.smoke.smoke.play.nefeli.io
 loki.macaroni.dev.play.nefeli.io
 netspaces-example.play.nefeli.io
-www.nefeli.io
 traefik-internal.scratchy.teleport.play.nefeli.io
 nomad.rigatoni.teleport.play.nefeli.io
 cortex.andrei.dev.play.nefeli.io
@@ -345,4 +344,3 @@ catalyst.play.nefeli.io
 cortex.meigymtest2.dev.play.nefeli.io
 loki.mittens.dev.play.nefeli.io
 srv.steve.play.nefeli.io
-*.nefeli.io

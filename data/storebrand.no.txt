@@ -1,7 +1,7 @@
 fullmakt.intra.storebrand.no
 pp-dimmaster.intra.storebrand.no
-*.start-ts.intra.storebrand.no
-*.t-stb-mq.common.storebrand.no
+start-ts.intra.storebrand.no
+t-stb-mq.common.storebrand.no
 wolf.storebrand.no
 a-deploy-mgr.enterprise.storebrand.no
 a-ibm-sc.enterprise.storebrand.no
@@ -23,11 +23,10 @@ ibm-sc.enterprise.storebrand.no
 pp-mds.intra.storebrand.no
 dimmaster.intra.storebrand.no
 assets.storebrand.no
-*.wolf.storebrand.no
-*.mservice.wolf.storebrand.no
+mservice.wolf.storebrand.no
 t-deploy-mgr.enterprise.storebrand.no
 t-ilmt.common.storebrand.no
-*.start-ts.g2a.storebrand.no
+start-ts.g2a.storebrand.no
 kundeportalen-t.storebrand.no
 s-sam-scd-s2sp2.corp.storebrand.no
 aml-core-rest-api.enterprise.storebrand.no
@@ -62,7 +61,6 @@ p-wolf-elastic.wolf.storebrand.no
 a-cm-client-api.enterprise.storebrand.no
 d-dwh-reports.intra.storebrand.no
 t-wolf-kibana1.wolf.storebrand.no
-mservice.wolf.storebrand.no
 genus-p.storebrand.no
 ascmazmq01.common.storebrand.no
 egressgw.storebrand.no
@@ -131,7 +129,6 @@ t-cep-nho-api.enterprise.storebrand.no
 demo-podproxy2.wolf.storebrand.no
 t-rte-rest.enterprise.storebrand.no
 kofax-t.storebrand.no
-start-ts.intra.storebrand.no
 d-cm-persistence.enterprise.storebrand.no
 kundenett.storebrand.no
 www-a.tellus.intra.storebrand.no
@@ -256,7 +253,7 @@ messagebroker.corp.storebrand.no
 alp-stb-069.aaa.storebrand.no
 crm-api-p.partners.storebrand.no
 d-usb-datamart.common.storebrand.no
-www.g2a.storebrand.no
+g2a.storebrand.no
 d-rte-rest.enterprise.storebrand.no
 start-t.g2a.storebrand.no
 mail.storebrand.no
@@ -358,7 +355,7 @@ ihub.corp.storebrand.no
 api-p.rte.storebrand.no
 t-ibm-ace1.common.storebrand.no
 t-sam-scd-om1.coprp.storebrand.no
-www.partners.onprem.storebrand.no
+partners.onprem.storebrand.no
 d-ibm-mdm-db.common.storebrand.no
 api-d.cm.intra.storebrand.no
 d-fullmakt.intra.storebrand.no
@@ -367,7 +364,6 @@ enterpriseregistration.storebrand.no
 www-ts.storebrand.no
 passwordchange.storebrand.no
 claims.insurance.storebrand.no
-www.intra.storebrand.no
 t-sam-scd-sp5.corp.storebrand.no
 azmqv01.a-stb-mq.common.storebrand.no
 a-ibm-ace2.common.storebrand.no
@@ -434,7 +430,7 @@ ewsproxy.intra.storebrand.no
 xpression-p.storebrand.no
 log.wolf.storebrand.no
 a-cmstb.enterprise.storebrand.no
-www.tellus.intra.storebrand.no
+tellus.intra.storebrand.no
 conf.storebrand.no
 services.preprod.storebrand.no
 pkh-t.storebrand.no
@@ -505,7 +501,6 @@ azmqv01.a-ibm-mq.common.storebrand.no
 click.email.storebrand.no
 d-cm-ace.enterprise.storebrand.no
 xpression.storebrand.no
-www.onprem.storebrand.no
 d-wolf-kibana1.wolf.storebrand.no
 id-t.partners.onprem.storebrand.no
 kundeportalen.onprem.storebrand.no
@@ -603,16 +598,15 @@ lyncdiscover.storebrand.no
 view.email.storebrand.no
 sbhsit-cjd.storebrand.no
 cfo-nexus.storebrand.no
-partners.onprem.storebrand.no
 t-smtp.corp.storebrand.no
 d-api-cm.enterprise.storebrand.no
 cloud.email.storebrand.no
 a-cm-client-ui.enterprise.storebrand.no
 np.tellus.storebrand.no
-www.jump.storebrand.no
+jump.storebrand.no
 cm-persistance.enterprise.storebrand.no
 mdmstba1.common.storebrand.no
-www.intra.onprem.storebrand.no
+intra.onprem.storebrand.no
 eldartest4.qsdevtest.storebrand.no
 api-u.tellus.intra.storebrand.no
 xpression-u.storebrand.no
@@ -623,7 +617,7 @@ id.storebrand.no
 u-abakusintegrasjon.storebrand.no
 sip.storebrand.no
 d-dimmaster.intra.storebrand.no
-www.partners.storebrand.no
+partners.storebrand.no
 noma-prod.corp.storebrand.no
 test-mservice.wolf.storebrand.no
 hub-t.insurance.storebrand.no
@@ -654,7 +648,6 @@ www-t.storebrand.no
 helpline.storebrand.no
 guestportal.aaa.storebrand.no
 stb-dna5-fet-a1.aaa.storebrand.no
-start-ts.g2a.storebrand.no
 t-rtmonitor.intra.storebrand.no
 api-t.onprem.storebrand.no
 t-pexipconf.storebrand.no
@@ -673,10 +666,8 @@ ecm-p.storebrand.no
 id-t-gcp.intra.storebrand.no
 sbhpreprod-cjd.storebrand.no
 logginn-helse.storebrand.no
-t-stb-mq.common.storebrand.no
 t-benefit-api.enterprise.storebrand.no
 p-ibm-ace2.common.storebrand.no
-www.pensjonstjenester.storebrand.no
 id-t.partners.storebrand.no
 salesforce-fsc-t.partners.storebrand.no
 x-sam-scd-mucs1.corp.storebrand.no
@@ -704,7 +695,6 @@ nav.tellus.storebrand.no
 p-sam-ctrlm-em1.corp.storebrand.no
 acemqp02.common.storebrand.no
 tia.storebrand.no
-www.int-test.sbh.storebrand.no
 t-cfo-time.storebrand.no
 api-t.g2a.storebrand.no
 investor.storebrand.no
@@ -743,7 +733,6 @@ genushub-blue.genus-t.storebrand.no
 t-fullmakt.intra.storebrand.no
 int.sbh.storebrand.no
 entra-extids-api.intra.storebrand.no
-partners.storebrand.no
 p-dadp-qlik1.common.storebrand.no
 api.onprem.storebrand.no
 d-aml-client-api.enterprise.storebrand.no
@@ -765,7 +754,6 @@ acemqt02.common.storebrand.no
 cfo-sauron.storebrand.no
 abanp.tellus.storebrand.no
 m2m-t.onprem.storebrand.no
-www.storebrand.no
 a-cm-integrator.enterprise.storebrand.no
 www-t.pensjonstjenester.storebrand.no
 idportal.intra.storebrand.no

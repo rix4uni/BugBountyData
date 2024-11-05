@@ -7,14 +7,12 @@ mailing.ucsystems.nl
 speedtest.ucsystems.nl
 heino.ucsystems.nl
 static.ucsystems.nl
-www.ucsystems.nl
 boerman.ucsystems.nl
 shop.ucsystems.nl
 status.ucsystems.nl
 portaal.ucsystems.nl
 webmail.ucsystems.nl
 secret.ucsystems.nl
-www.shop.ucsystems.nl
 smtps.ucsystems.nl
 wiki.ucsystems.nl
 mx2.ucsystems.nl
@@ -48,7 +46,7 @@ vmail.ucsystems.nl
 mailbox.ucsystems.nl
 mx.ucsystems.nl
 mail.ucsystems.nl
-www.smtp.ucsystems.nl
+smtp.ucsystems.nl
 demo.ucsystems.nl
 4246396247111566452.ucsystems.nl
 screens.ucsystems.nl
@@ -62,7 +60,6 @@ pop3.ucsystems.nl
 mail02.ucsystems.nl
 vps.ucsystems.nl
 ftp.ucsystems.nl
-smtp.ucsystems.nl
 mailer.ucsystems.nl
 ns2.ucsystems.nl
 server2.ucsystems.nl

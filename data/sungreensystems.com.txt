@@ -2,7 +2,6 @@ autodiscover.sungreensystems.com
 blog.sungreensystems.com
 solar.sungreensystems.com
 webflow.sungreensystems.com
-www.sungreensystems.com
 announcements.sungreensystems.com
 blanktest.sungreensystems.com
 cpanel.sungreensystems.com
@@ -16,12 +15,4 @@ staging.sungreensystems.com
 testingsite.sungreensystems.com
 webdisk.sungreensystems.com
 webmail.sungreensystems.com
-www.announcements.sungreensystems.com
-www.blanktest.sungreensystems.com
-www.dev.sungreensystems.com
-www.emails.sungreensystems.com
-www.mail.sungreensystems.com
-www.new.sungreensystems.com
-www.old.sungreensystems.com
-www.staging.sungreensystems.com
-www.testingsite.sungreensystems.com
+emails.sungreensystems.com

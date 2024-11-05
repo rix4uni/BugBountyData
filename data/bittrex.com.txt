@@ -1,6 +1,5 @@
-*.bittrex.com
-*.james.bittrex.com
-*.stage.bittrex.com
+james.bittrex.com
+stage.bittrex.com
 7938ded5-c8be-4dcf-b6a8-4caadffd30e2.bittrex.com
 admin.bittrex.com
 api.bittrex.com
@@ -16,7 +15,6 @@ global.bittrex.com
 global.bittrex.comglobal.bittrex.com
 ilinks.bittrex.com
 international.bittrex.com
-james.bittrex.com
 links.bittrex.com
 mail.bittrex.com
 o1.email.bittrex.com
@@ -30,11 +28,9 @@ slack.bittrex.com
 socket.bittrex.com
 socket-stage.bittrex.com
 socket-v3.bittrex.com
-stage.bittrex.com
 support.bittrex.com
 trust.bittrex.com
 wp.stage.bittrex.com
-www.bittrex.com
 admin.stage.bittrex.com
 api-v3.bittrex.com
 api-v3.stage.bittrex.com
@@ -75,7 +71,6 @@ v3.api.james.bittrex.com
 we.stage.bittrex.com
 web-global.bittrex.com
 web.bittrex.com
-www.stage.bittrex.com
 yaralla.stage.bittrex.com
 yolo.stage.bittrex.com
 15-72-2.jimmy.bittrex.com
@@ -98,10 +93,8 @@ global.mobile.james.bittrex.com
 api.beta.bittrex.com
 cf-ssl56066-protected-www.bittrex.com
 selector1._domainkey.bittrex.com
-www.admin.bittrex.com
 cn.bittrex.com
 sharedpool._domainkey.bittrex.com
-www.james.bittrex.com
 gh-mail.bittrex.com
 global.james.bittrex.com
 email.gh-mail.bittrex.com

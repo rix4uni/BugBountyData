@@ -95,7 +95,7 @@ homer.w3.org
 ve-ag1.keio.w3.org
 w3cdhcp108.w3.org
 w3cdhcp98.w3.org
-www.drmarga.com.w3.org
+drmarga.com.w3.org
 albireo.w3.org
 mmm.w3.org
 skull.w3.org
@@ -356,7 +356,7 @@ hotate.keio.w3.org
 kore.w3.org
 vega.w3.org
 krustofski.w3.org
-www.validator.w3.org
+validator.w3.org
 search.w3.org
 bart.w3.org
 dione.w3.org
@@ -392,7 +392,7 @@ frink.w3.org
 kamala.w3.org
 lionel-hutz.w3.org
 sarlacc.w3.org
-www.www.w3.org
+www.w3.org
 calabash.w3.org
 cgdev.w3.org
 ger-test-20210316.w3.org
@@ -454,7 +454,6 @@ w3cdhcp62.w3.org
 lugash.w3.org
 naboo.w3.org
 w3cdhcp96.w3.org
-www.people.w3.org
 alphaara.w3.org
 kuiper.w3.org
 madai.keio.w3.org
@@ -506,7 +505,6 @@ cosmos.w3.org
 dr-zweig.w3.org
 irrehs.w3.org
 spf.keio.w3.org
-validator.w3.org
 ve3.same.keio.w3.org
 w3cdhcp20.w3.org
 w3cdhcp61.w3.org
@@ -597,7 +595,6 @@ services.w3.org
 vpn.w3.org
 w.w3.org
 w3cdhcp12.w3.org
-www.w3.org
 w3cdhcp107.w3.org
 w3cdhcp117.w3.org
 w3cdhcp32.w3.org

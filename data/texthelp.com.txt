@@ -1,6 +1,5 @@
 sl.texthelp.com
 licensing.texthelp.com
-*.texthelp.com
 licenseinfo.texthelp.com
 mathsolver.texthelp.com
 prismic-proof-of-concept.dev.texthelp.com
@@ -9,17 +8,17 @@ usdownloads.texthelp.com
 ebookreader.texthelp.com
 learnonline.texthelp.com
 googleproxy.dev.texthelp.com
-www.outlook.texthelp.com
+outlook.texthelp.com
 ist-staging.texthelp.com
 rscfluency02.texthelp.com
-www.media.texthelp.com
+media.texthelp.com
 pra.dev.texthelp.com
 screenreader.texthelp.com
 staging.texthelp.com
 browsealoud-webservices-8.texthelp.com
 equatio-api-dev.texthelp.com
 googleproxy.texthelp.com
-www.3cx1.texthelp.com
+3cx1.texthelp.com
 rwedge-webservices.texthelp.com
 converter.texthelp.com
 ptranslator.texthelp.com
@@ -38,7 +37,6 @@ speechus3.texthelp.com
 cdn.cloudcontrol.texthelp.com
 istapi.texthelp.com
 webservices.dev.texthelp.com
-media.texthelp.com
 writinghelper-staging.dev.texthelp.com
 snapverter.texthelp.com
 enzo.texthelp.com
@@ -53,7 +51,6 @@ speechstreamswa-webservices.texthelp.com
 fastdownloads.texthelp.com
 idp.texthelp.com
 mautic-staging.texthelp.com
-outlook.texthelp.com
 reachdeck.texthelp.com
 114083-app1.speech.texthelp.com
 pdf.dev.texthelp.com
@@ -69,7 +66,6 @@ academy-us.texthelp.com
 equatio-search-proxy-eu.texthelp.com
 fluency.texthelp.com
 status.texthelp.com
-www.enzo.texthelp.com
 pra.texthelp.com
 rscloudjs01.texthelp.com
 speechtci.texthelp.com
@@ -80,7 +76,6 @@ orbitnote-us.staging.texthelp.com
 acton-proxy.texthelp.com
 pdf.texthelp.com
 training.texthelp.com
-www.training.texthelp.com
 testnav-cognitive-auth.dev.texthelp.com
 rwpdf.texthelp.com
 textservices-1-us-west-1.dev.texthelp.com
@@ -140,7 +135,6 @@ messaging-api.texthelp.com
 orbitnotekitserver.dev.texthelp.com
 rscloudspeech04.texthelp.com
 factmappermac.texthelp.com
-3cx1.texthelp.com
 ist.texthelp.com
 rw4gc-simplify-qa.texthelp.com
 kde.texthelp.com
@@ -208,7 +202,6 @@ mautic.texthelp.com
 cc.texthelp.com
 equatio-academy.dev.texthelp.com
 ptranslatorca.texthelp.com
-www.learnonline.texthelp.com
 wriq-officeaddin.dev.texthelp.com
 messaging.texthelp.com
 orbitnote-staging.texthelp.com
@@ -239,9 +232,7 @@ messaging-dev.texthelp.com
 licensinglocal.texthelp.com
 my.texthelp.com
 webworx.texthelp.com
-www.texthelp.com
 rewordify-cdn.dev.texthelp.com
-www.support.texthelp.com
 translateuk.texthelp.com
 browsealoud-webservices-eu.texthelp.com
 cdn.equatio-academy.texthelp.com
@@ -262,4 +253,3 @@ wriq-api.texthelp.com
 speechstreamtoolbar-webservices-7.texthelp.com
 rw4gc-epub-production.texthelp.com
 kdefiles2.texthelp.com
-*.dev.texthelp.com

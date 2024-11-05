@@ -1313,7 +1313,6 @@ oms-dev.swisscom.com
 wfm.swisscom.com
 dev-smart-ict-support.swisscom.com
 g3w3.swisscom.com
-www.swisscom.com
 scsitsm-preprod.swisscom.com
 extranet-banking.swisscom.com
 net-partner.swisscom.com
@@ -1366,8 +1365,7 @@ imagga-prod.swisscom.com
 lani.mobileid.swisscom.com
 plmapp-wingo.icp.swisscom.com
 elasticpath-poc.icp.swisscom.com
-*.elasticpath-poc.icp.swisscom.com
-*.eloqua.swisscom.com
+eloqua.swisscom.com
 huldrych-glarus.dev-scapp.swisscom.com
 supplier.swisscom.com
 s.rastro.icp.swisscom.com
@@ -1376,7 +1374,6 @@ clima2.scapp.swisscom.com
 requirements.scapp.swisscom.com
 abc.test.swisscom.com
 staging.ventures.swisscom.com
-www.ventures.swisscom.com
 ventures.swisscom.com
 notentool.scapp.swisscom.com
 feedback-astra.voc.icp.swisscom.com
@@ -1445,7 +1442,7 @@ rsb21mf105p.swisscom.com
 sco-keycloak-dev2.scapp.swisscom.com
 ccds.dev-scapp.swisscom.com
 demo10.cimdcs.swisscom.com
-www.vpn.telehousing.swisscom.com
+vpn.telehousing.swisscom.com
 greenkai.icp.swisscom.com
 ealarm-dev-tlz.np-icp.swisscom.com
 soar-useractivation.scapp.swisscom.com
@@ -1496,7 +1493,6 @@ events.saas-prod.swisscom.com
 events.saas-nonprod.swisscom.com
 intwf.swisscom.com
 int-elasticsearch-mgmt.cs.swisscom.com
-www.int-elasticsearch-mgmt.cs.swisscom.com
 elasticsearch.int-lyra-836.appcloud.swisscom.com
 mssi-ems.swisscom.com
 ftthdb-app-vega.scapp.swisscom.com

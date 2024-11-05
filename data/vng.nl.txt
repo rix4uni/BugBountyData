@@ -1,5 +1,4 @@
-*.vng.nl
-*.omgevingswet.vng.nl
+omgevingswet.vng.nl
 aaa.ise.vng.nl
 api.berichtenapp.vng.nl
 autodiscover.vng.nl
@@ -43,7 +42,6 @@ mysite.king.vng.nl
 new.vng.nl
 ocs-com.vng.nl
 office.vng.nl
-omgevingswet.vng.nl
 ontwerptoolomgevingsplan.vng.nl
 oovpn.vng.nl
 oud.vng.nl
@@ -91,12 +89,6 @@ wijkpaspoort.vng.nl
 will-e.vng.nl
 willemshof.vng.nl
 wmovoorspelmodel.vng.nl
-www.vng.nl
-www.berichtenapp.vng.nl
-www.forum.vng.nl
-www.goederaad.vng.nl
-www.piwik.vng.nl
-www.werkenbij.vng.nl
 zelfscanvnverdrag.vng.nl
 cpanel.omgevingswet.vng.nl
 cpcalendars.omgevingswet.vng.nl
@@ -106,7 +98,6 @@ mail.omgevingswet.vng.nl
 standaarden.vng.nl
 webdisk.omgevingswet.vng.nl
 webmail.omgevingswet.vng.nl
-www.omgevingswet.vng.nl
 autodiscover.ka.vng.nl
 communities.vng.nl
 enterpriseenrollment.vng.nl
@@ -118,7 +109,6 @@ mfa.vng.nl
 statistiek.vng.nl
 vpn1.vng.nl
 wsus.vng.nl
-*.ise.vng.nl
 community.vng.nl
 klimaatscan.vng.nl
 ledenraadpleging.vng.nl

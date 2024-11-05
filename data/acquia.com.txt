@@ -280,7 +280,6 @@ svn-2625.devcloud.hosting.acquia.com
 svn-1745.prod.hosting.acquia.com
 usengage.acquia.com
 useastucc4.acquia.com
-www.radash.acquia.com
 cdp-aops-portal.acquia.com
 id.acquia.com
 iddev.acquia.com
@@ -289,15 +288,5 @@ mon2.ops.acquia.com
 mon3.ops.acquia.com
 opsbot.acquia.com
 srv-7882.devcloud.hosting.acquia.com
-www.acquia.com
 cms.acquia.com
 op-scim.acquia.com
-www.accounts.acquia.com
-www.api.content-hub.acquia.com
-www.cci.acquia.com
-www.cloud.acquia.com
-www.cohesiondocs.acquia.com
-www.dev.pipelines-internal.acquia.com
-www.insight.acquia.com
-www.sal.acquia.com
-www.staging.pipelines-internal.acquia.com

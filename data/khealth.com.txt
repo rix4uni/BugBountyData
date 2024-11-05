@@ -65,7 +65,7 @@ abmail.info.khealth.com
 manage.web.khealth.com
 ablink.mail.khealth.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.khealth.com
-www.care.khealth.com
+care.khealth.com
 dev.accounts.khealth.com
 care-plan-service.khealth.com
 feature-flags-portal.khealth.com
@@ -77,7 +77,6 @@ payme-service.k-production.khealth.com
 clinical-quality-kmd.khealth.com
 clinical-search-service.khealth.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.khealth.com
-care.khealth.com
 socket-service.khealth.com
 clinical-quality.khealth.com
 content-files.prod.therapy.khealth.com
@@ -119,7 +118,6 @@ auth.khealth.com
 mailno.khealth.com
 dev.subscriptions.khealth.com
 o3476.abmail.m.khealth.com
-www.khealth.com
 dragos.dev.therapy.khealth.com
 dev.k.we.khealth.com
 api.dev.therapy.khealth.com

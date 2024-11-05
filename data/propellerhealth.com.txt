@@ -6,7 +6,7 @@ dhmidtownallergy.propellerhealth.com
 bluecrossmn.propellerhealth.com
 walgreens.propellerhealth.com
 gsk.propellerhealth.com
-www.brand.propellerhealth.com
+brand.propellerhealth.com
 discourse.propellerhealth.com
 cfaai.propellerhealth.com
 anthemeast.propellerhealth.com
@@ -62,7 +62,7 @@ eligibility-assets.propellerhealth.com
 widgets.propellerhealth.com
 kibana-test.propellerhealth.com
 tableau.bi.propellerhealth.com
-www.staging.propellerhealth.com
+staging.propellerhealth.com
 childrenswi2.propellerhealth.com
 demo-ph.propellerhealth.com
 duluthfamilymedicine.propellerhealth.com
@@ -70,11 +70,10 @@ spp.propellerhealth.com
 breathe.propellerhealth.com
 decapod-firmware.propellerhealth.com
 es-eligibility.propellerhealth.com
-www.it-help.internal.propellerhealth.com
+it-help.internal.propellerhealth.com
 btc.propellerhealth.com
 ids.infrasec.propellerhealth.com
 evryhealth.propellerhealth.com
-staging.propellerhealth.com
 dhphoenix.propellerhealth.com
 bcbsil.propellerhealth.com
 open.propellerhealth.com
@@ -83,7 +82,6 @@ desertoasis.propellerhealth.com
 looker-demo.propellerhealth.com
 cloud.sfmc.propellerhealth.com
 stuart-dev.internal.propellerhealth.com
-www.developer.propellerhealth.com
 azdemo.propellerhealth.com
 asset-management.propellerhealth.com
 welcome2.propellerhealth.com

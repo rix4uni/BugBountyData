@@ -11,7 +11,7 @@ th-pay.boku.com
 phones-test.boku.com
 vpn-dfw.boku.com
 sg-grabpay.boku.com
-www.xianju.boku.com
+xianju.boku.com
 ph3-buy.boku.com
 maintenance.boku.com
 lb-fixme.aws-usw2.boku.com
@@ -73,7 +73,7 @@ toss-web.boku.com
 zabbixops-dfw.boku.com
 google-play.boku.com
 customer.boku.com
-www.investors.boku.com
+investors.boku.com
 jp-pay.boku.com
 id-shopeepay-web.boku.com
 ru-api4.boku.com
@@ -91,7 +91,6 @@ s.boku.com
 analytics-dev.boku.com
 my-touchngoaps.boku.com
 jira-dc-test.boku.com
-www.boku.com
 cn-pay.boku.com
 buy.boku.com
 vn-momo.boku.com
@@ -136,7 +135,6 @@ sa-pay.boku.com
 qa-us.opal.boku.com
 dev-redshift.boku.com
 merchants-portal.boku.com
-investors.boku.com
 ph-pay.boku.com
 google-play.dfw.boku.com
 consumer.dfw.boku.com
@@ -177,7 +175,7 @@ dc1-cfd.boku.com
 o3.mail.boku.com
 cctv.boku.com
 router-cfd.boku.com
-www.9076d.boku.com
+9076d.boku.com
 exchange.boku.com
 na-subscription-api-stage.boku.com
 bd-pay-stage.boku.com
@@ -1733,4 +1731,3 @@ kr-subscription-api-stage.boku.com
 th-api4-stage.boku.com
 it-google-play.boku.com
 inapp.boku.com
-*.boku.com

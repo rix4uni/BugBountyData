@@ -4,7 +4,6 @@ business.broadcast.com
 intel.broadcast.com
 dallasradio-to-qcradrm001.broadcast.com
 offsite.broadcast.com
-www.events.broadcast.com
 events.broadcast.com
 mailhost.broadcast.com
 commerce.broadcast.com
@@ -27,7 +26,6 @@ g2arc013.broadcast.com
 n815.broadcast.com
 raads.broadcast.com
 spark.broadcast.com
-www.broadcast.com
 tai-wmarc01.broadcast.com
 nba.broadcast.com
 steem.broadcast.com
@@ -51,7 +49,7 @@ rmarchk01.broadcast.com
 ww2.broadcast.com
 nvarc002.broadcast.com
 digital.broadcast.com
-www.cam.broadcast.com
+cam.broadcast.com
 chalkboard.broadcast.com
 clients.broadcast.com
 adserver.broadcast.com
@@ -64,10 +62,10 @@ cbt.broadcast.com
 chat.broadcast.com
 clintonvideo.broadcast.com
 allied.broadcast.com
-www.britwww.broadcast.com
+britwww.broadcast.com
 capitol.broadcast.com
 cgi.broadcast.com
-www.cisco.broadcast.com
+cisco.broadcast.com
 advertising.broadcast.com
 apps.broadcast.com
 nvarcint001.broadcast.com
@@ -78,10 +76,9 @@ big.broadcast.com
 broadcastevents.broadcast.com
 bc.broadcast.com
 broadcastcentral.broadcast.com
-*sa_www.broadcast.com
-cisco.broadcast.com
-*sa-www.broadcast.com
-www.aff.broadcast.com
+sa_www.broadcast.com
+sa-www.broadcast.com
+aff.broadcast.com
 asp.broadcast.com
 bturner.broadcast.com
 accounting.broadcast.com

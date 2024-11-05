@@ -1,7 +1,6 @@
 accounting.prod.finlifepartners.com
 com.finlifepartners.com
 sso.prod.finlifepartners.com
-www.finlifepartners.com
 admin.asx-wy.staging.finlifepartners.com
 2007.0-dojdev.prod.finlifepartners.com
 ausyd1.prod.finlifepartners.com
@@ -146,7 +145,6 @@ simplycomply.prod.finlifepartners.com
 0118.asset.ele-okta.gateway.staging.finlifepartners.com
 00000-okta-idp.backup.iadevent.sso.prod.finlifepartners.com
 01v0-okta-ssocloud.slackbots.staging.finlifepartners.com
-*.finlifepartners.com
 staging.finlifepartners.com
 0-00-1-esmad1-devel.prod.finlifepartners.com
 0-cobog0-logintrain.prod.finlifepartners.com
@@ -1171,7 +1169,7 @@ pcenterdevte.prod.finlifepartners.com
 pverification.prod.finlifepartners.com
 participant-2-login.prod.finlifepartners.com
 0-0-cobog0-060-1-d-plwaw1-008-1-dadmin-c.prod.finlifepartners.com
-www.0-0-cobog0-2015tax0avxyn4min-2-flywheela-2012.prod.finlifepartners.com
+0-0-cobog0-2015tax0avxyn4min-2-flywheela-2012.prod.finlifepartners.com
 0-0-cobog0-0-usmia0-a0k695jo740wt7dhe-admin-aaddon.prod.finlifepartners.com
 0-0-cobog0-00-platformaddon.prod.finlifepartners.com
 0-0-edns235-aefjr1.0-0-cobog0-00-059-1-dussea1.prod.finlifepartners.com
@@ -3083,7 +3081,6 @@ mongodb.0-0-cobog0-2015tax0avxyn4min-2-flywheela-2012.prod.finlifepartners.com
 0-0-011-1-d-10.prod.finlifepartners.com
 0-0-cobog0-0avxyn4min-2-flywheeladmin02-kube-aaddon.prod.finlifepartners.com
 0-0-junodev-aefjr1-aaddon.0-0-0-usnyc0-frpar0-029-1-dacc.prod.finlifepartners.com
-0-0-cobog0-2015tax0avxyn4min-2-flywheela-2012.prod.finlifepartners.com
 0-0-011-1-d-2009-sp2013test25-6-brsao1.prod.finlifepartners.com
 0-00-0-esmad0-11-11usmia1-4.0-0-14-novartis.prod.finlifepartners.com
 0-00-0-esmad0-0sg4savnyrxjtzh8.0-0-cobog0-066-1-d-11-proxy.prod.finlifepartners.com
@@ -3118,7 +3115,6 @@ cconboarding12-qa-ssl.finlifepartners.com
 0-0-cobog0-2020-vpntest2-aaddon-abovenet.prod.finlifepartners.com
 0-00-0-esmad0-024mnka1eysawoi2imgs.0-0-cobog0-1devntrate.prod.finlifepartners.com
 0-0-cobog0-1frpar1-aaddon.prod.finlifepartners.com
-www.prod.finlifepartners.com
 0-0-00-125vod-029-1-d.prod.finlifepartners.com
 0-0-asodb04p-aaddon.prod.finlifepartners.com
 0-0-017-1-d-8inbom1-aaddon-abovenet.prod.finlifepartners.com
@@ -3689,7 +3685,6 @@ advisorcenter.finlifepartners.com
 class.finlifepartners.com
 024mnka1eysawoi2localhost.0-0-0h12i3rworznofhpy.prod.finlifepartners.com
 1-2en0ymmebmi210sfs-ts-ctg-dev.0-0-cobog0-0-cobog0-accounting.prod.finlifepartners.com
-www.0-0-011-1-d-10.prod.finlifepartners.com
 0-0-auslax1-aaddon.prod.finlifepartners.com
 0h9i3rworznofhpy.0-0-059-2-d20uschi2.prod.finlifepartners.com
 mosaicorigin.finlifepartners.com
@@ -3788,7 +3783,6 @@ la.0-0-cobog0-066-1-d-11-proxy.prod.finlifepartners.com
 o2.finlifepartners.com
 0-0-devratesheets1-creativeqaistration-devel-6-brsao1.0-0-cobog0-0-usnyc0-1-dojdev.prod.finlifepartners.com
 0-0-cobog0-0-usmia0omcat031-3-d-029-1-d.prod.finlifepartners.com
-www.0-0-13pgadmin.prod.finlifepartners.com
 0-0-aaaefjr10avxyn4min-2-flywheela-2012.prod.finlifepartners.com
 0-0-1-devratesheets-sesto1-008-1-dadmin-c.prod.finlifepartners.com
 1-2en0ymmebmi210sfs-ts-ctg-dev.0-0-00usmia0efjr1.prod.finlifepartners.com
@@ -4187,7 +4181,6 @@ oss.0-0-00-007prokom-administrator.prod.finlifepartners.com
 0-0-devratesheetsadmin-tomcat-admin-node-mgr-i-6-brsao1.0-0-admin-node-mgr-7.prod.finlifepartners.com
 0-0-cobog0-usnyc1-aaddon.0-0-011-1-d-10.prod.finlifepartners.com
 0-0-017-1-d-i-029-1-d.0-0-3c-mltest-middleware-infra.prod.finlifepartners.com
-www.0-0-accountsdevops.prod.finlifepartners.com
 0-0-usmia0omcatistrators.0-0-cobog0-0sg4savnyrxjtzh7.prod.finlifepartners.com
 0-0-aurora-aaddon.prod.finlifepartners.com
 0-0-cobog0-1-creativeqaistration-devel.prod.finlifepartners.com
@@ -4365,7 +4358,6 @@ maps.0-0-cobog0-0sg4savnyrxjtzh7.prod.finlifepartners.com
 0-0-1-creativeqaaccountbrsao1-aefjr1.prod.finlifepartners.com
 0-0-cobog0-0sg4savnyrxjtzh7-6-brsao1.0-0-00-09e5ec82nc.prod.finlifepartners.com
 live-qafr.prod.finlifepartners.com
-www.lenox.finlifepartners.com
 0-0-cobog0-01cweuka7jpnfukg-admin2-008-1-dadmin-c.prod.finlifepartners.com
 0-0-cobog0-1-dojdev-admin-node-mgr-i-008-1-dadmin-c.prod.finlifepartners.com
 preview.0-0-010prokom-apollo.prod.finlifepartners.com

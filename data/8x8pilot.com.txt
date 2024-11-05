@@ -1,4 +1,4 @@
-www.lscfg.8x8pilot.com
+lscfg.8x8pilot.com
 digilander.8x8pilot.com
 www7b.8x8pilot.com
 de.8x8pilot.com
@@ -9,7 +9,6 @@ union.8x8pilot.com
 accountmanager.8x8pilot.com
 slovari.8x8pilot.com
 order.8x8pilot.com
-www.8x8pilot.com
 sso-staging.8x8pilot.com
 bridge.8x8pilot.com
 uni.8x8pilot.com
@@ -100,7 +99,6 @@ www5b.8x8pilot.com
 xroads.8x8pilot.com
 regusprov01-cc.8x8pilot.com
 sipconf2.8x8pilot.com
-lscfg.8x8pilot.com
 meetings.8x8pilot.com
 vocrmapi.8x8pilot.com
 pcmb2.8x8pilot.com
@@ -1105,15 +1103,10 @@ device3221316-39c8aed4-local.8x8pilot.com
 device1853324-87400de6-local.8x8pilot.com
 device2547978-6a936473.8x8pilot.com
 device1495856-b6319b74.8x8pilot.com
-www.sso.8x8pilot.com
 zendesksbox.mulesoft.8x8pilot.com
 burgerking.8x8pilot.com
 sibelco.8x8pilot.com
 webpaypaymentgateway.8x8pilot.com
 bengalkatteidanmark.8x8pilot.com
 beerline.8x8pilot.com
-*.8x8pilot.com
-*.local-env.8x8pilot.com
-*.bridge.8x8pilot.com
-www.pcmb2.8x8pilot.com
 mx2.8x8pilot.com

@@ -108,7 +108,7 @@ uplanners.wopi.securecircle.com
 981be25811.eu1.saas.securecircle.com
 47a18ece67.eu1.saas.securecircle.com
 saas.securecircle.com
-www.es.securecircle.com
+es.securecircle.com
 dd20193714.us2.saas.securecircle.com
 95fc7e796e.us2.saas.securecircle.com
 splunk.5d67fb412c.us2.saas.securecircle.com
@@ -154,7 +154,6 @@ ce0e0e027c.eu1.saas.securecircle.com
 splunk.13c95bc136.us2.saas.securecircle.com
 splunk.1b14193ba7.us2.saas.securecircle.com
 44714579a1.us2.saas.securecircle.com
-www.zht.securecircle.com
 securesend.us1.saas.securecircle.com
 splunk.22a340573c.us2.saas.securecircle.com
 splunk.e9469910fe.us2.saas.securecircle.com
@@ -204,7 +203,6 @@ dd19b12c28.us2.saas.securecircle.com
 a885277162.us2.saas.securecircle.com
 splunk.bf59ebfd43.us2.saas.securecircle.com
 f20d5462a9.sa1.saas.securecircle.com
-www.securecircle.com
 splunk.570a275e50.us1.saas.securecircle.com
 78cd313463.us2.saas.securecircle.com
 dc9c9e5f86.ap1.saas.securecircle.com
@@ -245,6 +243,4 @@ micromdm.securecircle.com
 b659533385.us2.saas.securecircle.com
 a9235fc23c.us1.saas.securecircle.com
 p.securecircle.com
-es.securecircle.com
-*.securecircle.com
 vsphere.office.securecircle.com

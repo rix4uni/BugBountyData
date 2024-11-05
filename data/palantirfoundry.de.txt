@@ -1,4 +1,3 @@
-*.palantirfoundry.de
 alexanderthamm-sandbox.palantirfoundry.de
 baesystemselectronicsystems-sandbox.palantirfoundry.de
 blaze.palantirfoundry.de
@@ -57,7 +56,6 @@ soleil-mgmt.palantirfoundry.de
 soleil-mgmt-staging.palantirfoundry.de
 soleil-staging.palantirfoundry.de
 telwise.palantirfoundry.de
-www.palantirfoundry.de
 farmak.palantirfoundry.de
 zire-container-registry.palantirfoundry.de
 kalish-vpn.palantirfoundry.de
@@ -69,7 +67,6 @@ zire-mgmt.palantirfoundry.de
 zire-egress-proxy.palantirfoundry.de
 soleil-egress-proxy.palantirfoundry.de
 zire.palantirfoundry.de
-*.gold.palantirfoundry.de
 eichenlaub-compute.palantirfoundry.de
 eichenlaub-containers.palantirfoundry.de
 eichenlaub-mgmt.palantirfoundry.de

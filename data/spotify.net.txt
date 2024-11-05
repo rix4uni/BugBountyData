@@ -1,14 +1,13 @@
-*.spotify.net
-*.a.test1.spotify.net
-*.hendrix-compute.spotify.net
-*.kubeflow-platform.spotify.net
-*.nb.spotify.net
-*.notebooks.spotify.net
-*.slingshot-instance.spotify.net
-*.slingshot-instance-external.spotify.net
-*.test1.spotify.net
-*.test2.spotify.net
-*.workbench.spotify.net
+a.test1.spotify.net
+hendrix-compute.spotify.net
+kubeflow-platform.spotify.net
+nb.spotify.net
+notebooks.spotify.net
+slingshot-instance.spotify.net
+slingshot-instance-external.spotify.net
+test1.spotify.net
+test2.spotify.net
+workbench.spotify.net
 10ly202.sto3.spotify.net
 10lz202.lon3.spotify.net
 11g1302.lon3.spotify.net
@@ -813,7 +812,6 @@
 9zf1302.lon3.spotify.net
 9zg1202.lon3.spotify.net
 a-logana-actress-sto8.staging.elastic.gew1.spotify.net
-a.test1.spotify.net
 aaliyah.ash.spotify.net
 aaliyah.lom.ash1.spotify.net
 aasia.ash.spotify.net
@@ -5845,7 +5843,6 @@ helvetia.lom.ash1.spotify.net
 hemlata.ash.spotify.net
 hemlata.ash1.spotify.net
 hemlata.lom.ash1.spotify.net
-hendrix-compute.spotify.net
 heng.ash.spotify.net
 heng.lom.ash1.spotify.net
 henrietta.lom.lon2.spotify.net
@@ -9914,7 +9911,6 @@ krista.sto.spotify.net
 kristabel.lom.sto1.spotify.net
 kristabel.sto.spotify.net
 kristi.lom.lon2.spotify.net
-kubeflow-platform.spotify.net
 kuniko.ash1.spotify.net
 kuniko.lom.ash1.spotify.net
 kylie.lom.sto1.spotify.net
@@ -13908,7 +13904,6 @@ nazaret.lom.lon2.spotify.net
 nazirah.ash.spotify.net
 nazirah.ash1.spotify.net
 nazirah.lom.ash1.spotify.net
-nb.spotify.net
 nda.spotify.net
 nediva.ash.spotify.net
 nediva.lom.ash1.spotify.net
@@ -13969,7 +13964,6 @@ noriko.sto.spotify.net
 noriko.sto1.spotify.net
 norine.ash1.spotify.net
 norine.lom.ash1.spotify.net
-notebooks.spotify.net
 novyanna.lom.lon2.spotify.net
 npm-registry.spotify.net
 ns1.spotify.net
@@ -16577,8 +16571,6 @@ skylar.lom.sto1.spotify.net
 skylar.sto.spotify.net
 slices.spotify.net
 slingshot-clouddns.spotify.net
-slingshot-instance.spotify.net
-slingshot-instance-external.spotify.net
 slingshot-proxy-helios.spotify.net
 slingshot-proxy-helios2.spotify.net
 smartling-001.lon.spotify.net
@@ -19285,9 +19277,7 @@ terri.int.sto.spotify.net
 terri.lom.sto1.spotify.net
 terrylyn.lom.lon2.spotify.net
 test.kubeflow-platform.spotify.net
-test1.spotify.net
 test1.wasabi.spotify.net
-test2.spotify.net
 thebandrehearsal.spotify.net
 thebandreunion.spotify.net
 thecla.lom.sto1.spotify.net
@@ -20597,38 +20587,9 @@ winsome.lom.lon2.spotify.net
 winsome.lon.spotify.net
 women.spotify.net
 wordpress.spotify.net
-workbench.spotify.net
 workday.spotify.net
 writing.spotify.net
-www.spotify.net
 www-testing.spotify.net
-www.bettermau5.spotify.net
-www.bettermau5-dev.spotify.net
-www.boost-lighthouse.spotify.net
-www.brand.spotify.net
-www.capsule8-poc.spotify.net
-www.clearpass.office.spotify.net
-www.comet-cf.spotify.net
-www.dev.kubeflow-platform.spotify.net
-www.gew1-spotifyassetmanagement-a-spxz.gew1.spotify.net
-www.globalprint.spotify.net
-www.jira.spotify.net
-www.jira-aws.spotify.net
-www.jira-uat.spotify.net
-www.jira.uat.spotify.net
-www.jiratest-aws.spotify.net
-www.live.spotify.net
-www.mdm.spotify.net
-www.podztools.spotify.net
-www.premium-brand.spotify.net
-www.prod.kubeflow-platform.spotify.net
-www.securitytesting.spotify.net
-www.test.kubeflow-platform.spotify.net
-www.thebandrehearsal.spotify.net
-www.uipath-prod.spotify.net
-www.uipath-uat.spotify.net
-www.uploadads.spotify.net
-www.wasabi-test22.spotify.net
 wynfled.ash.spotify.net
 wynfled.lom.ash1.spotify.net
 xaquelina.ash1.spotify.net
@@ -21200,7 +21161,6 @@ frogger.spotify.net
 it-bos.spotify.net
 sense-gcp-sp1eu.spotify.net
 spinachweb-testing.spotify.net
-www.support.spotify.net
 servicesmarketplace.spotify.net
 awseu3-docker-a1.cb-elk.cloud.spotify.net
 _grpc.services.gae2.spotify.net
@@ -21365,7 +21325,6 @@ sw-usnyc01-62-sec-1.office.spotify.net
 gbg-qsc.spotify.net
 sentry-cream.spotify.net
 descriptor-selector-client.spotify.net
-www.data.spotify.net
 yahproxy-gae2.spotify.net
 panorama.office.spotify.net
 submithack.spotify.net
@@ -21898,7 +21857,7 @@ lb-10.beacon3.abba.spotify.net
 0.confluence.beacon3.abba.spotify.net
 beacon4app-resources.abba.spotify.net
 host.4.beacon3.abba.spotify.net
-www.artistinsights-realtime.abba.spotify.net
+artistinsights-realtime.abba.spotify.net
 audio-sp-gruwww.abba.spotify.net
 5-aws.beacon3.abba.spotify.net
 july.beacon.abba.spotify.net
@@ -21966,7 +21925,7 @@ registration.2.beacon3.abba.spotify.net
 beacon-developer-legacy.abba.spotify.net
 8-bucket.beacon3.abba.spotify.net
 12.aws.beacon3.abba.spotify.net
-www.artist.abba.spotify.net
+artist.abba.spotify.net
 sandbox.11.abba.spotify.net
 12-a.beacon3.abba.spotify.net
 6-static.beacon3.abba.spotify.net
@@ -22123,7 +22082,7 @@ entities.beacon.abba.spotify.net
 beaconadministrators.abba.spotify.net
 accessbeacon.abba.spotify.net
 audio-sp-fra.beacon3.abba.spotify.net
-www.amplifier.abba.spotify.net
+amplifier.abba.spotify.net
 creativeportfolio.beacon.abba.spotify.net
 beacon3-cdn.abba.spotify.net
 avatars.beacon.abba.spotify.net
@@ -22151,7 +22110,7 @@ netherlands-5.beacon3.abba.spotify.net
 employee.beacon.abba.spotify.net
 akali.6.abba.spotify.net
 beacon3-help.abba.spotify.net
-www.analytics.abba.spotify.net
+analytics.abba.spotify.net
 2-search.abba.spotify.net
 disabled-2.beacon.abba.spotify.net
 t.7.abba.spotify.net
@@ -22206,7 +22165,7 @@ accountsgithub.abba.spotify.net
 aprilprofiles.abba.spotify.net
 adloginwww.abba.spotify.net
 edge-web.beacon3.abba.spotify.net
-www.svc.active.abba.spotify.net
+svc.active.abba.spotify.net
 beacon3-tableau-dev.abba.spotify.net
 9-preferences.abba.spotify.net
 beaconlogana.abba.spotify.net
@@ -22471,7 +22430,7 @@ america-8.beacon.abba.spotify.net
 audio-sp-ord-www.abba.spotify.net
 2-download.beacon3.abba.spotify.net
 cms1-6.beacon.abba.spotify.net
-www.aqueduct.abba.spotify.net
+aqueduct.abba.spotify.net
 dual-gslb.beacon.abba.spotify.net
 gew-accesspoint-b-qf.beacon3.abba.spotify.net
 nl-6.beacon.abba.spotify.net
@@ -22958,7 +22917,7 @@ confirm.9.beacon3.abba.spotify.net
 beacon3-sentry.abba.spotify.net
 audio-sp-bma-beacon3.abba.spotify.net
 uipath-prod.beacon.abba.spotify.net
-www.adm.abba.spotify.net
+adm.abba.spotify.net
 july.7.beacon3.abba.spotify.net
 api-internal.abba.spotify.net
 beaconlinklb.abba.spotify.net
@@ -23064,7 +23023,7 @@ z.7.abba.spotify.net
 akali.9.beacon3.abba.spotify.net
 accounts-staging-beacon3.abba.spotify.net
 beacon3-callback.abba.spotify.net
-www.svc.azan.abba.spotify.net
+svc.azan.abba.spotify.net
 tpe-3.beacon3.abba.spotify.net
 2.t.beacon3.abba.spotify.net
 beacon3legaladmin.abba.spotify.net
@@ -23090,7 +23049,6 @@ beacon3train.abba.spotify.net
 beaconemail.abba.spotify.net
 archivebeacon.abba.spotify.net
 8.beacon.abba.spotify.net
-www.alesti.abba.spotify.net
 email.3.beacon.abba.spotify.net
 beacon3-forums.abba.spotify.net
 ash-accesspoint-a.beacon.abba.spotify.net
@@ -23206,14 +23164,14 @@ docs-5.beacon.abba.spotify.net
 kubernetes-www.apac.abba.spotify.net
 spring-6.beacon3.abba.spotify.net
 beacon-tingle.abba.spotify.net
-www.apps.abba.spotify.net
+apps.abba.spotify.net
 akamaioct.abba.spotify.net
 export-0.beacon.abba.spotify.net
 promo-11.beacon3.abba.spotify.net
 euw.4.beacon3.abba.spotify.net
 forms-0.beacon3.abba.spotify.net
 andyroid.en.baidu-swag.abba.spotify.net
-www.audio-sp-sea.abba.spotify.net
+audio-sp-sea.abba.spotify.net
 beacon3divvycloud.abba.spotify.net
 beacon3-jira-test.abba.spotify.net
 beaconflightcontrol.abba.spotify.net
@@ -23260,7 +23218,7 @@ background.9.abba.spotify.net
 7.priv.beacon3.abba.spotify.net
 4nh6olifzi2c.spotify.net
 6-northamerica.abba.spotify.net
-www.7zx.abba.spotify.net
+7zx.abba.spotify.net
 12-output.beacon3.abba.spotify.net
 t.12.abba.spotify.net
 beacon3-msproxy.abba.spotify.net
@@ -23636,15 +23594,15 @@ s3-11.beacon.abba.spotify.net
 assetmanagement-www.abba.spotify.net
 beacondeveloper.abba.spotify.net
 lexicon.beacon.abba.spotify.net
-www.ash-jhbiostest-a.abba.spotify.net
+ash-jhbiostest-a.abba.spotify.net
 beacon3resetpassword-test.abba.spotify.net
 beaconomnicom-partner-staging.abba.spotify.net
 administrator.5.beacon.abba.spotify.net
 10-loadbalancer.beacon3.abba.spotify.net
-www.acc.abba.spotify.net
+acc.abba.spotify.net
 7-check.beacon3.abba.spotify.net
 5.kor.beacon.abba.spotify.net
-www.accounting.abba.spotify.net
+accounting.abba.spotify.net
 essence.beacon.abba.spotify.net
 europewest.2.abba.spotify.net
 08ac43133af2f974973aacca06aa4ffb.spotify.net
@@ -23662,7 +23620,6 @@ beacon3sprinter.abba.spotify.net
 kor.beacon.abba.spotify.net
 cf.0.beacon.abba.spotify.net
 12-germany.beacon.abba.spotify.net
-amplifier.abba.spotify.net
 forum.11.beacon.abba.spotify.net
 node.1.beacon3.abba.spotify.net
 globus.ball-ghcpi-www.abba.spotify.net
@@ -23677,7 +23634,7 @@ details.7.abba.spotify.net
 beacon3gew-accesspoint-b-cr.abba.spotify.net
 beacondeborah.abba.spotify.net
 api-docsboards.abba.spotify.net
-www.3.abba.spotify.net
+3.abba.spotify.net
 beacon-hwcdn.abba.spotify.net
 audio-sp-gru.abba.spotify.net
 12-ghcpi.beacon.abba.spotify.net
@@ -23726,7 +23683,7 @@ beacon3autodoc.abba.spotify.net
 upgrade-7.beacon3.abba.spotify.net
 havas-partner-staging.beacon.abba.spotify.net
 beacon-s3.abba.spotify.net
-www.accuratebluetooth.abba.spotify.net
+accuratebluetooth.abba.spotify.net
 beacon-walkme.abba.spotify.net
 6-singed.beacon.abba.spotify.net
 andyroid.accen.abba.spotify.net
@@ -23749,7 +23706,6 @@ beacon3webpush.abba.spotify.net
 europe-7.beacon3.abba.spotify.net
 avatarswww.abba.spotify.net
 northamerica.0.beacon3.abba.spotify.net
-www.adtools.abba.spotify.net
 na.9.abba.spotify.net
 beacon3content-delivery.abba.spotify.net
 beacon3-design.abba.spotify.net
@@ -23836,7 +23792,7 @@ beacon3alesti.abba.spotify.net
 11-germany.abba.spotify.net
 c-5.beacon3.abba.spotify.net
 puppetdashboard.beacon3.abba.spotify.net
-www.adminsbluetooth.abba.spotify.net
+adminsbluetooth.abba.spotify.net
 org.11.beacon.abba.spotify.net
 0-reviews.beacon3.abba.spotify.net
 production-12.beacon3.abba.spotify.net
@@ -23924,11 +23880,11 @@ previous.0.beacon.abba.spotify.net
 beacon3-clientvpn-busc.abba.spotify.net
 alamiyamailsbeacon4.abba.spotify.net
 4profile.abba.spotify.net
-www.account.abba.spotify.net
+account.abba.spotify.net
 0-ci.beacon.abba.spotify.net
 evelynn-10.beacon3.abba.spotify.net
 beacon3edge-web.abba.spotify.net
-www.battlesvc.abba.spotify.net
+battlesvc.abba.spotify.net
 audio-sp-sin.abba.spotify.net
 12-moved.beacon.abba.spotify.net
 globus.2-www.abba.spotify.net
@@ -24343,7 +24299,7 @@ adeventtrackerbeacon.abba.spotify.net
 1.demo.beacon3.abba.spotify.net
 pantheon-1.beacon3.abba.spotify.net
 4-pantheon.abba.spotify.net
-www.ainara.abba.spotify.net
+ainara.abba.spotify.net
 jinx.12.beacon.abba.spotify.net
 cn.2012.abba.spotify.net
 beacongew-spotifyassetmanagement-a-spxz.abba.spotify.net
@@ -24374,7 +24330,7 @@ beacon3-net.abba.spotify.net
 akamaiv1.abba.spotify.net
 beacon-partners.abba.spotify.net
 tur.4.abba.spotify.net
-www.backbone.abba.spotify.net
+backbone.abba.spotify.net
 production.9.beacon.abba.spotify.net
 beacon3-ananas.abba.spotify.net
 0-access.beacon3.abba.spotify.net
@@ -24389,7 +24345,6 @@ api-docsb.abba.spotify.net
 web-7.beacon.abba.spotify.net
 beacon3accessibility.abba.spotify.net
 beaconartifactory-docker.abba.spotify.net
-ash-jhbiostest-a.abba.spotify.net
 3.web.beacon3.abba.spotify.net
 9lax1.abba.spotify.net
 0.prod.beacon3.abba.spotify.net
@@ -24581,7 +24536,7 @@ wpp-partner.beacon3.abba.spotify.net
 10.enabled.beacon.abba.spotify.net
 beacon3-elastic.abba.spotify.net
 trial.6.abba.spotify.net
-www.administratorssvc.abba.spotify.net
+administratorssvc.abba.spotify.net
 beacon-webgoldenpath.abba.spotify.net
 auth-7.beacon.abba.spotify.net
 beacon4-manager.abba.spotify.net
@@ -24682,7 +24637,7 @@ migrate-7.beacon3.abba.spotify.net
 beacon-bloodhound.abba.spotify.net
 payment-1.beacon.abba.spotify.net
 api14.abba.spotify.net
-www.svc.ball.abba.spotify.net
+svc.ball.abba.spotify.net
 billing.2015.abba.spotify.net
 vpn.0.beacon.abba.spotify.net
 6.email.beacon.abba.spotify.net
@@ -24711,7 +24666,7 @@ dbhost.5.beacon3.abba.spotify.net
 bloodhound.beacon3.abba.spotify.net
 beaconash-contentclearingcrostore-a.abba.spotify.net
 13-profiles.abba.spotify.net
-www.apps-svc.abba.spotify.net
+apps-svc.abba.spotify.net
 disable.8.beacon3.abba.spotify.net
 c.3.abba.spotify.net
 command.8.beacon.abba.spotify.net
@@ -24822,7 +24777,7 @@ c.beacon3.abba.spotify.net
 10-test1.beacon3.abba.spotify.net
 audio-sp-dfw.beacon.abba.spotify.net
 edge.12.beacon3.abba.spotify.net
-www.2.abba.spotify.net
+2.abba.spotify.net
 adsgtmbeacon.abba.spotify.net
 up.1.beacon3.abba.spotify.net
 api-docs-4.beacon3.abba.spotify.net
@@ -24901,7 +24856,6 @@ beacon3-jobvite.abba.spotify.net
 authorized.1.abba.spotify.net
 beacon3-apresolve.abba.spotify.net
 12-demo.beacon.abba.spotify.net
-artist.abba.spotify.net
 apac.beacon3.abba.spotify.net
 beacon3.adventurer.abba.spotify.net
 billing.1.abba.spotify.net
@@ -25064,7 +25018,7 @@ production.beacon.abba.spotify.net
 confluence-uat.beacon.abba.spotify.net
 eng.3.beacon.abba.spotify.net
 1opm0bmh2lttc.abba.spotify.net
-www.app-prod.abba.spotify.net
+app-prod.abba.spotify.net
 engineering.3.abba.spotify.net
 11.target.beacon.abba.spotify.net
 v1.5.abba.spotify.net
@@ -25200,7 +25154,7 @@ global.4.abba.spotify.net
 3-secure.abba.spotify.net
 3-restricted.abba.spotify.net
 assetsvpnwww.abba.spotify.net
-www.auto.abba.spotify.net
+auto.abba.spotify.net
 beacon3-pawpaw.abba.spotify.net
 jinx.11.abba.spotify.net
 12-config.beacon3.abba.spotify.net
@@ -25290,14 +25244,12 @@ gew-accesspoint-b-fj.beacon3.abba.spotify.net
 audio-sp-grubeacon.abba.spotify.net
 1-beacon3.abba.spotify.net
 0-skins.beacon3.abba.spotify.net
-account.abba.spotify.net
 abtestingwww.abba.spotify.net
 0-bucket.beacon.abba.spotify.net
 beatbox.beacon3.abba.spotify.net
 sentinel.beacon3.abba.spotify.net
 beaconabrianna.abba.spotify.net
 beacon-dentsu.abba.spotify.net
-ainara.abba.spotify.net
 beacon-quimby.abba.spotify.net
 beacon-playlist-staging.abba.spotify.net
 beaconorg.abba.spotify.net
@@ -25314,7 +25266,6 @@ beacon3ciqe-gslb.abba.spotify.net
 7.hw.beacon3.abba.spotify.net
 beaconadsgtm.abba.spotify.net
 test.11.beacon.abba.spotify.net
-www.ash-weblb-wg.abba.spotify.net
 android3.abba.spotify.net
 3.2017.beacon3.abba.spotify.net
 beacon-watermelon.abba.spotify.net
@@ -25413,7 +25364,7 @@ beta.beacon.abba.spotify.net
 11-output.abba.spotify.net
 beacon-tableau-dev.abba.spotify.net
 server.12.beacon3.abba.spotify.net
-www.ash-kafka-a.abba.spotify.net
+ash-kafka-a.abba.spotify.net
 global.beacon.abba.spotify.net
 5-dbhost.beacon3.abba.spotify.net
 1d6f5h.abba.spotify.net
@@ -25506,7 +25457,7 @@ audio-sp-lhr-beacon.abba.spotify.net
 language-2.beacon.abba.spotify.net
 support-0.beacon.abba.spotify.net
 gew-accesspoint-b-mls.beacon.abba.spotify.net
-www.api-docs.abba.spotify.net
+api-docs.abba.spotify.net
 germany.2011.abba.spotify.net
 old.beacon4.abba.spotify.net
 3-tr.beacon.abba.spotify.net
@@ -25558,7 +25509,7 @@ staff.9.beacon3.abba.spotify.net
 debug-2.beacon3.abba.spotify.net
 alpha.7.beacon3.abba.spotify.net
 additional.10.beacon.abba.spotify.net
-www.anti.abba.spotify.net
+anti.abba.spotify.net
 17staff.abba.spotify.net
 beacon3ssl.abba.spotify.net
 12-tpe.abba.spotify.net
@@ -25747,7 +25698,7 @@ beacon3this-is.abba.spotify.net
 beacon-gew-accesspoint-b-lbn.abba.spotify.net
 4.disabled.beacon.abba.spotify.net
 6.dec.beacon.abba.spotify.net
-www.asanasvc.abba.spotify.net
+asanasvc.abba.spotify.net
 qrious.beacon3.abba.spotify.net
 admins.beacon3.abba.spotify.net
 create.3.beacon.abba.spotify.net
@@ -26024,7 +25975,6 @@ beacon3control.abba.spotify.net
 9-brasil.beacon.abba.spotify.net
 0-container.beacon.abba.spotify.net
 guc-spclient.beacon.abba.spotify.net
-3.abba.spotify.net
 abtesting.beacon3.abba.spotify.net
 beacon-kubeflow.abba.spotify.net
 beacon3dashboards.abba.spotify.net
@@ -26041,7 +25991,6 @@ beacon4anhalt.abba.spotify.net
 global.5.beacon.abba.spotify.net
 feb.8.abba.spotify.net
 9.eu.beacon3.abba.spotify.net
-www.audience-builder.abba.spotify.net
 dashboard.beacon3.abba.spotify.net
 9-edge.abba.spotify.net
 edge-grpc.beacon3.abba.spotify.net
@@ -26110,7 +26059,6 @@ elasticbeanstalk.beacon3.abba.spotify.net
 wikipedia.beacon3.abba.spotify.net
 beacon-gae-accesspoint-b-jr.abba.spotify.net
 developers.beacon3.abba.spotify.net
-www.beacon.abba.spotify.net
 5.backend.abba.spotify.net
 9-w3.abba.spotify.net
 11-hostname.beacon3.abba.spotify.net
@@ -26324,7 +26272,7 @@ engima-3.beacon3.abba.spotify.net
 api-docs-payment.abba.spotify.net
 beacon3gew-accesspoint-b-qf.abba.spotify.net
 developer.asphaltwww.abba.spotify.net
-www.artist-identity-image.abba.spotify.net
+artist-identity-image.abba.spotify.net
 gaffer.beacon3.abba.spotify.net
 api-tv.beacon.abba.spotify.net
 14billing.abba.spotify.net
@@ -26509,7 +26457,7 @@ beacon-provider.abba.spotify.net
 dbuser.4.beacon.abba.spotify.net
 error.12.beacon3.abba.spotify.net
 vpnwww.backend.abba.spotify.net
-www.2016svc.abba.spotify.net
+2016svc.abba.spotify.net
 6-testing1.beacon3.abba.spotify.net
 oct.12.abba.spotify.net
 lexikon-slack-app.beacon3.abba.spotify.net
@@ -26598,7 +26546,7 @@ src-11.beacon3.abba.spotify.net
 beacon3-angelita.abba.spotify.net
 20tpe.abba.spotify.net
 beacon-20.abba.spotify.net
-www.4svc.abba.spotify.net
+4svc.abba.spotify.net
 app-engine-test-beacon.abba.spotify.net
 9-email.abba.spotify.net
 3.a.beacon3.abba.spotify.net
@@ -26642,7 +26590,7 @@ docs.8.beacon3.abba.spotify.net
 1-target.beacon.abba.spotify.net
 php.5.abba.spotify.net
 adstudio.abba.spotify.net
-www.administrators-bluetooth.abba.spotify.net
+administrators-bluetooth.abba.spotify.net
 mega-sync.azure-en.abba.spotify.net
 register-1.beacon.abba.spotify.net
 beaconlegacy.abba.spotify.net

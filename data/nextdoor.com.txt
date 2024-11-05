@@ -616,7 +616,6 @@ us2-steamboat.service.nextdoor.com
 webhook.fr.nextdoor.com
 eu1-feeds.service.nextdoor.com
 www2.nextdoor.com
-www.nextdoor.com
 upperpacificheights.nextdoor.com
 oldeunionpreserve.nextdoor.com
 westhillstn.nextdoor.com
@@ -673,17 +672,15 @@ url7540.link-ext.ms.email.nextdoor.com
 laurelestates.nextdoor.com
 oldeweatherly.nextdoor.com
 sextonwoods.nextdoor.com
-www.forums.nextdoor.com
 fourseasons.nextdoor.com
 geo-tracking.nextdoor.com
 prod-puppet-uswest2-135-i-8053428f.cloud.nextdoor.com
 us1-ecs-ext-uswest2-29-i-0e106e0bc-public.cloud.nextdoor.com
-www.texanaplantation.nextdoor.com
+texanaplantation.nextdoor.com
 arborgreenefl.nextdoor.com
 saddlebrookorange.nextdoor.com
 tamvalley.nextdoor.com
 prod-puppet-uswest2-103-i-0ad4bc02.cloud.nextdoor.com
-www.us.nextdoor.com
 o54.email.nextdoor.com
 engelimaenggblog.nextdoor.com
 o2.is.email.nextdoor.com
@@ -723,7 +720,7 @@ tools-jenkins-uswest2-i-d0bf1708.cloud.nextdoor.com
 us1-ecs-ext-uswest2-7-i-94565849-public.cloud.nextdoor.com
 edgewood.nextdoor.com
 o50.ptr8297.msnam2.email.nextdoor.com
-www.foxmeadowrunnc.nextdoor.com
+foxmeadowrunnc.nextdoor.com
 staging-zkmonitor-useast1-19-i-1ffcc3e5.cloud.nextdoor.com
 argocd-stg.corp.nextdoor.com
 dollyridgepoint.nextdoor.com
@@ -735,7 +732,7 @@ menloparkca.nextdoor.com
 terraceparkoh.nextdoor.com
 marlyville.nextdoor.com
 prod-puppet-useast1-30-i-c3c60f2f.cloud.nextdoor.com
-www.edgebrook.nextdoor.com
+edgebrook.nextdoor.com
 argocd.corp.nextdoor.com
 hallerlake.nextdoor.com
 walnutwoodsin.nextdoor.com
@@ -806,7 +803,6 @@ fairwaysofsherrillpark.nextdoor.com
 yaleparkofrichardson.nextdoor.com
 o5.is.email.nextdoor.com
 m71-245.email.nextdoor.com
-www.es.nextdoor.com
 grandviewcommons.nextdoor.com
 thepreserveatlmt.nextdoor.com
 awosting.nextdoor.com
@@ -819,7 +815,6 @@ o14.ptr9287.ms.email.nextdoor.com
 keeganswoodtx.nextdoor.com
 o53.email.nextdoor.com
 thehillmo.nextdoor.com
-www.fr.nextdoor.com
 grandlakeca2.nextdoor.com
 tools-oss-useast1-i-3afe9e49.cloud.nextdoor.com
 newsantafe.nextdoor.com
@@ -840,7 +835,7 @@ rubyranch.nextdoor.com
 wildwood.nextdoor.com
 email.rs.es.nextdoor.com
 prod-proxy-1-uswest1-i-12a59cda.cloud.nextdoor.com
-www.melbournevillage.nextdoor.com
+melbournevillage.nextdoor.com
 creekviewhomeowners.nextdoor.com
 test-puppet-uswest2-matt-i-81da3b8a.cloud.nextdoor.com
 dev-puppetreports1-uswest2-i-07cd740f.cloud.nextdoor.com
@@ -856,8 +851,6 @@ lenoxplace.nextdoor.com
 mallardchase.nextdoor.com
 prod-puppet-vpc-uswest2-146-i-4cc9da46.cloud.nextdoor.com
 us1-ecs-ext-uswest2-21-i-9564f252-public.cloud.nextdoor.com
-www.edgemoor.nextdoor.com
-www.share.nextdoor.com
 neighbor.ca.nextdoor.com
 steamboatpeninsula.nextdoor.com
 _dmarc.nextdoor.com
@@ -873,7 +866,6 @@ regencypark.nextdoor.com
 staging.nextdoor.com
 windwoodnorth.nextdoor.com
 forestparkeastghmi.nextdoor.com
-www.se.nextdoor.com
 belwood-belgatos.nextdoor.com
 goldenmeadowsco.nextdoor.com
 hawthornephiladelphia.nextdoor.com
@@ -892,22 +884,18 @@ southfork.nextdoor.com
 greenbusinessgroup.nbriarfairfax.nextdoor.com
 browncroftna.nextdoor.com
 cityofdavis.nextdoor.com
-www.nl.nextdoor.com
 6rosegarden.nextdoor.com
 heatherwoodvillage.nextdoor.com
 canary.nextdoor.com
-www.no.nextdoor.com
 bannockburnmd.nextdoor.com
 museumparkmn.nextdoor.com
 phillipspointe.nextdoor.com
 prod-puppet-uswest1-11-i-f361593b.cloud.nextdoor.com
 brentmeade.nextdoor.com
-www.measure.nextdoor.com
 breezebay.nextdoor.com
 circlewoods.nextdoor.com
 prod-puppetca-vpc-uswest1-i-7484deb7.cloud.nextdoor.com
 springmeadowscollegestation.nextdoor.com
-www.engblog.nextdoor.com
 hub.corp.nextdoor.com
 m71-253.email.nextdoor.com
 test-puppet-uswest2-i-aa49cb98.cloud.nextdoor.com
@@ -920,11 +908,11 @@ prod-exhibitor4-uswest2-i-c86bc5ff.cloud.nextdoor.com
 o1.email.nextdoor.com
 argo.corp.nextdoor.com
 us1-ecs-ext-uswest2-3-i-e52f903c-public.cloud.nextdoor.com
-www.bucknerterrace.nextdoor.com
+bucknerterrace.nextdoor.com
 ptrichmond.nextdoor.com
 nantucket.nextdoor.com
 underwoodhillsga.nextdoor.com
-www.countrylane.nextdoor.com
+countrylane.nextdoor.com
 lostvalley.nextdoor.com
 m71-239.email.nextdoor.com
 us1-ecs-ext-uswest2-19-i-bcafd628-public.cloud.nextdoor.com
@@ -953,7 +941,7 @@ prod-photos.nextdoor.com
 m71-241.email.nextdoor.com
 prod-puppetca-rackspace-20935327.cloud.nextdoor.com
 sgt.nextdoor.com
-www.sonata.nextdoor.com
+sonata.nextdoor.com
 o10.rs.email.nextdoor.com
 prod-puppet-uswest2-97-i-595cfe50.cloud.nextdoor.com
 us1-ecs-ext-uswest2-3-i-50c7f248-public.cloud.nextdoor.com
@@ -962,7 +950,6 @@ o6.hs.email.nextdoor.com
 universityhillsla.nextdoor.com
 coppellgreens.nextdoor.com
 ops-tools.cloud.nextdoor.com
-www.uk.nextdoor.com
 prairieridgeoklahomacity.nextdoor.com
 us1-ecs-ext-uswest2-12-i-dcb7451b-public.cloud.nextdoor.com
 overbrookfarms.nextdoor.com
@@ -978,11 +965,9 @@ sunsetoaksnc.nextdoor.com
 ranchocarrillo.nextdoor.com
 winghaven.nextdoor.com
 url2395.ss.email.nextdoor.com
-www.jacksonplace.nextdoor.com
+jacksonplace.nextdoor.com
 prod-exhibitor3-uswest2-i-f26bc5c5.cloud.nextdoor.com
-www.start.nextdoor.com
 o55.email.nextdoor.com
-www.ca.nextdoor.com
 echelon.nextdoor.com
 us1-ecs-ext-uswest2-23-i-3ed900e6-public.cloud.nextdoor.com
 m.email.nextdoor.com
@@ -990,7 +975,6 @@ rs.email.nextdoor.com
 email.rs.au.nextdoor.com
 hampsteadma.nextdoor.com
 tammerontrace.nextdoor.com
-www.belwood-belgatos.nextdoor.com
 fairfaxvillacavalierwoods.nextdoor.com
 lummiisland.nextdoor.com
 roanokeomaha.nextdoor.com
@@ -1076,7 +1060,6 @@ m.fr.nextdoor.com
 heritagehillsalbuquerque.nextdoor.com
 umna.nextdoor.com
 ios.nextdoor.com
-www.dk.nextdoor.com
 portolaplace.nextdoor.com
 thewoodsatmuddybranc.nextdoor.com
 winterparkpines.nextdoor.com
@@ -1089,7 +1072,6 @@ owenspark.nextdoor.com
 ridgelysdelightmd.nextdoor.com
 westandersonville.nextdoor.com
 infra-cdk-k8s-stgmgmt-argocd.staging-mgmt1-core-eks.kubemgmt.nextdoor.com
-www.de.nextdoor.com
 dev-docker-registry-2-uswest1-i-886e3342.cloud.nextdoor.com
 acresgreen.nextdoor.com
 bristolparkedmond.nextdoor.com
@@ -1106,9 +1088,8 @@ agency.nextdoor.com
 clifton.nextdoor.com
 tools.corp.nextdoor.com
 nolo.nextdoor.com
-www.springcreekokc.nextdoor.com
+springcreekokc.nextdoor.com
 ferncrest.nextdoor.com
-www.it.nextdoor.com
 woodsvalley.nextdoor.com
 emeryville.nextdoor.com
 westparkcleveland.nextdoor.com
@@ -1120,7 +1101,6 @@ cypresspoint.nextdoor.com
 huntersvalleyassociation.nextdoor.com
 m71-242.email.nextdoor.com
 stmarysut.nextdoor.com
-www.au.nextdoor.com
 brightwood.nextdoor.com
 olddominion.nextdoor.com
 finnhillwa.nextdoor.com
@@ -1156,7 +1136,7 @@ summertreetx.nextdoor.com
 boroughbuildingarea.nextdoor.com
 lakemityleneforest.nextdoor.com
 m71-244.email.nextdoor.com
-www.beachwalkonvilano.nextdoor.com
+beachwalkonvilano.nextdoor.com
 cityofconcordnc.nextdoor.com
 claytonoh.nextdoor.com
 join.nextdoor.com

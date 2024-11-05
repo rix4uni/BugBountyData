@@ -41,7 +41,6 @@ services-sandbox.coinmetro.com
 get.coinmetro.com
 media.coinmetro.com
 hansecoin.coinmetro.com
-www.coinmetro.com
 email.coinmetro.com
 vpn.coinmetro.com
 open.coinmetro.com
@@ -80,8 +79,6 @@ master-rc.coinmetro.com
 cm-10480-lilai-rc.coinmetro.com
 cm-10477-rc.coinmetro.com
 new-listings-v2-rc.coinmetro.com
-*.coinmetro.com
-*.sandbox.rc.coinmetro.com
 admin-rc.coinmetro.com
 investor.coinmetro.com
 links.coinmetro.com
@@ -158,7 +155,7 @@ ad3new.frontend-new-test.coinmetro.com
 accsys.frontend-new-test.coinmetro.com
 almanaramedia.frontend-new-test.coinmetro.com
 as58.frontend-new-test.coinmetro.com
-www.123.frontend-new-test.coinmetro.com
+123.frontend-new-test.coinmetro.com
 15-captain.frontend-new-test.coinmetro.com
 acps.frontend-new-test.coinmetro.com
 antiiluzii.frontend-new-test.coinmetro.com
@@ -459,7 +456,6 @@ bq1.coinmetro.com
 anizyn.frontend-new-test.coinmetro.com
 2134.coinmetro.com
 36.frontend-new-test.coinmetro.com
-123.frontend-new-test.coinmetro.com
 24x7meditation.frontend-new-test.coinmetro.com
 aflmc.frontend-new-test.coinmetro.com
 3dmdf.frontend-new-test.coinmetro.com
@@ -872,7 +868,7 @@ andrus.frontend-new-test.coinmetro.com
 annacrafts.frontend-new-test.coinmetro.com
 alamslegacy.frontend-new-test.coinmetro.com
 ai2.coinmetro.com
-www.affiliates.frontend-new-test.coinmetro.com
+affiliates.frontend-new-test.coinmetro.com
 203-238.frontend-new-test.coinmetro.com
 adminmac.frontend-new-test.coinmetro.com
 dustin.coinmetro.com
@@ -1304,7 +1300,7 @@ apphys.frontend-new-test.coinmetro.com
 a1designer.frontend-new-test.coinmetro.com
 asc.frontend-new-test.coinmetro.com
 2headedsnake.frontend-new-test.coinmetro.com
-www.app.frontend-new-test.coinmetro.com
+app.frontend-new-test.coinmetro.com
 nextjs.analytics.frontend-new-test.coinmetro.com
 aric.frontend-new-test.coinmetro.com
 as183.frontend-new-test.coinmetro.com
@@ -1674,7 +1670,6 @@ applications.frontend-new-test.coinmetro.com
 committee.coinmetro.com
 51.frontend-new-test.coinmetro.com
 aisnmc.frontend-new-test.coinmetro.com
-www.ads.frontend-new-test.coinmetro.com
 alkoga.frontend-new-test.coinmetro.com
 arman.frontend-new-test.coinmetro.com
 1770.coinmetro.com
@@ -1761,7 +1756,7 @@ adyar.frontend-new-test.coinmetro.com
 1000-high-pr.frontend-new-test.coinmetro.com
 alchemist.frontend-new-test.coinmetro.com
 aphid.frontend-new-test.coinmetro.com
-www.api.frontend-new-test.coinmetro.com
+api.frontend-new-test.coinmetro.com
 aaohub.frontend-new-test.coinmetro.com
 admin2-wireless.frontend-new-test.coinmetro.com
 andreypererva.frontend-new-test.coinmetro.com
@@ -1833,7 +1828,6 @@ dgo.coinmetro.com
 adslgp.frontend-new-test.coinmetro.com
 actressskin.frontend-new-test.coinmetro.com
 adelphi-ideas.frontend-new-test.coinmetro.com
-api.frontend-new-test.coinmetro.com
 alvsports-lsh.frontend-new-test.coinmetro.com
 french.coinmetro.com
 arrgh.frontend-new-test.coinmetro.com
@@ -1984,7 +1978,6 @@ april.frontend-new-test.coinmetro.com
 aayande.frontend-new-test.coinmetro.com
 aok.frontend-new-test.coinmetro.com
 aquarium.frontend-new-test.coinmetro.com
-affiliates.frontend-new-test.coinmetro.com
 apiservercaptain.frontend-new-test.coinmetro.com
 aeroporto.frontend-new-test.coinmetro.com
 ban.coinmetro.com
@@ -2363,7 +2356,7 @@ astrolabe.frontend-new-test.coinmetro.com
 088.frontend-new-test.coinmetro.com
 angelasfavthings.frontend-new-test.coinmetro.com
 allexamguru.frontend-new-test.coinmetro.com
-www.1.frontend-new-test.coinmetro.com
+1.frontend-new-test.coinmetro.com
 arabia.frontend-new-test.coinmetro.com
 angelic.frontend-new-test.coinmetro.com
 argand.coinmetro.com
@@ -2694,7 +2687,7 @@ allisonprimalpregnancy.frontend-new-test.coinmetro.com
 11192521404255.frontend-new-test.coinmetro.com
 albpop.frontend-new-test.coinmetro.com
 analytics-nextjs.frontend-new-test.coinmetro.com
-www.abc.frontend-new-test.coinmetro.com
+abc.frontend-new-test.coinmetro.com
 alena.frontend-new-test.coinmetro.com
 afb.frontend-new-test.coinmetro.com
 082.frontend-new-test.coinmetro.com
@@ -2707,7 +2700,6 @@ afzalsukasuki.frontend-new-test.coinmetro.com
 andr214.frontend-new-test.coinmetro.com
 eisenstein.coinmetro.com
 aspdotnetcodebook.frontend-new-test.coinmetro.com
-www.art.frontend-new-test.coinmetro.com
 abhsia.frontend-new-test.coinmetro.com
 aare.frontend-new-test.coinmetro.com
 anthinerathenralkaatru.frontend-new-test.coinmetro.com
@@ -3103,7 +3095,6 @@ alarme.frontend-new-test.coinmetro.com
 adelphi-im1.frontend-new-test.coinmetro.com
 aon.frontend-new-test.coinmetro.com
 afatih.coinmetro.com
-www.ask.frontend-new-test.coinmetro.com
 artikel-populer.frontend-new-test.coinmetro.com
 adlt15.frontend-new-test.coinmetro.com
 childers.coinmetro.com
@@ -3119,7 +3110,6 @@ amrltx.frontend-new-test.coinmetro.com
 amylleblanc.frontend-new-test.coinmetro.com
 19nextjs.frontend-new-test.coinmetro.com
 ada.frontend-new-test.coinmetro.com
-www.adserver.frontend-new-test.coinmetro.com
 46.frontend-new-test.coinmetro.com
 albicocca.frontend-new-test.coinmetro.com
 advice.frontend-new-test.coinmetro.com
@@ -3460,7 +3450,6 @@ ansa.frontend-new-test.coinmetro.com
 ashley.frontend-new-test.coinmetro.com
 anaxmuda.frontend-new-test.coinmetro.com
 ans1.coinmetro.com
-abc.frontend-new-test.coinmetro.com
 adelphi-amcld24.frontend-new-test.coinmetro.com
 arnould.frontend-new-test.coinmetro.com
 allie.frontend-new-test.coinmetro.com
@@ -3492,7 +3481,6 @@ africa.frontend-new-test.coinmetro.com
 adikosiak.frontend-new-test.coinmetro.com
 force.coinmetro.com
 ansgw.frontend-new-test.coinmetro.com
-1.frontend-new-test.coinmetro.com
 abobadariodamedia.frontend-new-test.coinmetro.com
 agri.frontend-new-test.coinmetro.com
 argolikeseidiseis.frontend-new-test.coinmetro.com
@@ -3818,7 +3806,6 @@ as48.frontend-new-test.coinmetro.com
 ashb.frontend-new-test.coinmetro.com
 astrologosdelmundo.frontend-new-test.coinmetro.com
 amazonsilk.frontend-new-test.coinmetro.com
-www.alumni.frontend-new-test.coinmetro.com
 askdjfalsdkjfas.frontend-new-test.coinmetro.com
 145-rev.frontend-new-test.coinmetro.com
 edster.coinmetro.com
@@ -4021,7 +4008,6 @@ api1-storage.frontend-new-test.coinmetro.com
 alves.frontend-new-test.coinmetro.com
 anselmo.frontend-new-test.coinmetro.com
 almostbourdain.frontend-new-test.coinmetro.com
-www.apps.frontend-new-test.coinmetro.com
 aero3.frontend-new-test.coinmetro.com
 208.frontend-new-test.coinmetro.com
 acssites.frontend-new-test.coinmetro.com
@@ -4308,7 +4294,6 @@ ambridge.frontend-new-test.coinmetro.com
 allnewspk.frontend-new-test.coinmetro.com
 adminwireless.frontend-new-test.coinmetro.com
 ardhastres.frontend-new-test.coinmetro.com
-www.a.frontend-new-test.coinmetro.com
 09-captain.frontend-new-test.coinmetro.com
 ajowan.frontend-new-test.coinmetro.com
 ajk.frontend-new-test.coinmetro.com
@@ -4350,7 +4335,6 @@ acfsnork.frontend-new-test.coinmetro.com
 2012captain.frontend-new-test.coinmetro.com
 altitude.frontend-new-test.coinmetro.com
 arginine.frontend-new-test.coinmetro.com
-app.frontend-new-test.coinmetro.com
 bore.coinmetro.com
 arapahoe.frontend-new-test.coinmetro.com
 atchafalaya.frontend-new-test.coinmetro.com
@@ -4681,7 +4665,6 @@ adult-movies-online1.frontend-new-test.coinmetro.com
 alderan.coinmetro.com
 aalil.frontend-new-test.coinmetro.com
 24greeknews.frontend-new-test.coinmetro.com
-www.articles.frontend-new-test.coinmetro.com
 aramac.frontend-new-test.coinmetro.com
 angeles.frontend-new-test.coinmetro.com
 carefree.coinmetro.com

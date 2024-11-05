@@ -41,7 +41,6 @@ mdm.kriminalvarden.se
 login.kriminalvarden.se
 mam.kriminalvarden.se
 filsynk.kriminalvarden.se
-www.kriminalvarden.se
 atea-test-api.kriminalvarden.se
 atea-prod-api.kriminalvarden.se
 bloggcms.kriminalvarden.se
@@ -73,7 +72,6 @@ mailgw.kriminalvarden.se
 video-test.kriminalvarden.se
 dustin-prod-api.kriminalvarden.se
 utsikt-utv-app.kriminalvarden.se
-www.loginpoc.kriminalvarden.se
 dustin-test-api.kriminalvarden.se
 statistik.kriminalvarden.se
 ricoh-test-api.kriminalvarden.se
@@ -91,7 +89,6 @@ ping.kriminalvarden.se
 cb-login.kriminalvarden.se
 mam02.kriminalvarden.se
 vpn02.kriminalvarden.se
-www.statistik.kriminalvarden.se
 ricoh-prod-api.kriminalvarden.se
 fva.administration.kriminalvarden.se
 utsikt-utv-auth.kriminalvarden.se

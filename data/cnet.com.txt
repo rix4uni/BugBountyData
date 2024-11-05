@@ -892,7 +892,6 @@ pod-1-test-neutron-cache.nonprod.cnet.com
 pod-0-workload-test-cache.nonprod.cnet.com
 sleep-37895.nonprod.cnet.com
 sandbox-neutron-next.nonprod.cnet.com
-*.sandbox-neutron-next.nonprod.cnet.com
 image-uploader2.cnet.com
 seamless-qa.nonprod.cnet.com
 cnetdev38853.nonprod.cnet.com

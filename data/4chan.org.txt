@@ -25,7 +25,6 @@ boards.4chan.org
 sys.4chan.org
 currency.4chan.org
 find.4chan.org
-www.4chan.org
 status.4chan.org
 yanda.4chan.org
 yboards.4chan.org
@@ -43,9 +42,6 @@ bin.4chan.org
 nov.4chan.org
 tmp.4chan.org
 dat.4chan.org
-*.4chan.org
-*.static.4chan.org
-*.thumbs.4chan.org
 2.thumbs.4chan.org
 ns1.4chan.org
 swf.4chan.org

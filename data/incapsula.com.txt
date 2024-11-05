@@ -28,7 +28,6 @@ info.incapsula.com
 config.playground.ops.incapsula.com
 my.incapsula.com
 ns2.incpanel.incapsula.com
-www.incapsula.com
 ns1.incpanel.incapsula.com
 invalid.incapsula.com
 cs.incapsula.com
@@ -42,10 +41,8 @@ v4-mtu9k-six.incapsula.com
 your.incapsula.com
 msoid.incapsula.com
 msk-ix.incapsula.com
-www.nevermind.incapsula.com
+nevermind.incapsula.com
 dev.incapsula.com
-www.incpanel.incapsula.com
-www.pages.incapsula.com
 netblocks.incapsula.com
 azure-poc.incapsula.com
 is.incapsula.com

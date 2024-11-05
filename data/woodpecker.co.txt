@@ -1,4 +1,3 @@
-*.woodpecker.co
 a1.woodpecker.co
 a2.woodpecker.co
 admin.woodpecker.co
@@ -108,9 +107,6 @@ test1.woodpecker.co
 test2.woodpecker.co
 vps1.woodpecker.co
 white.woodpecker.co
-www.woodpecker.co
-www.api.woodpecker.co
-www.blog.woodpecker.co
 x.woodpecker.co
 xb2b.woodpecker.co
 z.woodpecker.co
@@ -170,7 +166,6 @@ accounts.woodpecker.co
 app1a.woodpecker.co
 oauth1.woodpecker.co
 sv13.prod.woodpecker.co
-www.status.woodpecker.co
 com.gy.woodpecker.co
 com.woodpecker.co
 sit.woodpecker.co

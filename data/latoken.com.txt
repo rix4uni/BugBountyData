@@ -1,5 +1,4 @@
-*.latoken.com
-*.tp.latoken.com
+tp.latoken.com
 agien.latoken.com
 airdrop.latoken.com
 api.latoken.com
@@ -76,16 +75,12 @@ strapi.latoken.com
 tdgw.latoken.com
 test.latoken.com
 test-prod1.latoken.com
-tp.latoken.com
 tracking.latoken.com
 tracking.bef.latoken.com
 vctv.latoken.com
 vctv.tp.latoken.com
 wallet.latoken.com
 web-airdrop.latoken.com
-www.latoken.com
-www.blog.latoken.com
-www.news.latoken.com
 api-new.latoken.com
 business-api.latoken.com
 business.latoken.com
@@ -109,7 +104,6 @@ ws.latoken.com
 flower-release.deliver.latoken.com
 vctv-prod.latoken.com
 promo2.latoken.com
-www.sale.latoken.com
 term2.latoken.com
 blockpass.latoken.com
 api-tp1.latoken.com

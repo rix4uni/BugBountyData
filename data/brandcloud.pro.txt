@@ -25,14 +25,12 @@ zipstreamer.server.brandcloud.pro
 zipstreamer.server.brandcloud.pro.docker2.server.brandcloud.pro
 cloud.safeplus.cz.docker1.server.brandcloud.pro
 brand.zetor.cz.docker1.server.brandcloud.pro
-www.brandcloud.pro
 manager.server.brandcloud.pro.docker1.server.brandcloud.pro
 manager.server.brandcloud.pro
 toolbox.brnoregion.com.docker1.server.brandcloud.pro
 brand.zetor.com.docker1.server.brandcloud.pro
 storage1.server.brandcloud.pro
 storage1.server.brandcloud.pro.storage1.server.brandcloud.pro
-*.brandcloud.pro
 elastic1.server1.brandcloud.pro.docker1.server.brandcloud.pro
 elastic1.server1.brandcloud.pro
 cd.brandcloud.pro
@@ -92,7 +90,7 @@ ngp.brandcloud.pro
 homecredit.brandcloud.pro
 footshop.beta.brandcloud.pro
 frydek-mistek.brandcloud.pro
-www.plzen.brandcloud.pro
+plzen.brandcloud.pro
 cms.brandcloud.pro
 altron.brandcloud.pro
 czechinvest.brandcloud.pro

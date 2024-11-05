@@ -1,6 +1,6 @@
 we-usw1-infra.k8s.foursquare.com
 support.foursquare.com
-www.engineering.foursquare.com
+engineering.foursquare.com
 emailclick.foursquare.com
 developer.foursquare.com
 developer.targeting.foursquare.com
@@ -13,7 +13,7 @@ fun.foursquare.com
 o1.sg.foursquare.com
 smtp.foursquare.com
 platform.foursquare.com
-www.design.foursquare.com
+design.foursquare.com
 pt.business.foursquare.com
 1fk4qnahz6.foursquare.com
 us-use1-infra.k8s.foursquare.com
@@ -24,12 +24,11 @@ uf-usw2-unfolded.k8s.foursquare.com
 business.foursquare.com
 img-s.foursquare.com
 logs.prod.foursquare.com
-www.enterprise.foursquare.com
+enterprise.foursquare.com
 us-use1-staging.k8s.foursquare.com
 captive.corp.foursquare.com
 central.foursquare.com
 m.foursquare.com
-engineering.foursquare.com
 sales.foursquare.com
 ybivdalkbyzpnsjsjwv.foursquare.com
 redirect.foursquare.com
@@ -132,10 +131,7 @@ o7.email.foursquare.com
 pt.foursquare.com
 corp.foursquare.com
 ja2.foursquare.com
-design.foursquare.com
 ja.foursquare.com
-www.drtacos.foursquare.com
-www.foursquare.com
 ap-apse1-apeksprod.k8s.foursquare.com
 docs.foursquare.com
 fr.foursquare.com
@@ -143,7 +139,6 @@ gameofcones.foursquare.com
 help.foursquare.com
 ja1.foursquare.com
 earlyadopter-staging.foursquare.com
-enterprise.foursquare.com
 auth-dev.studio.foursquare.com
 testdrtortas.foursquare.com
 www2.foursquare.com

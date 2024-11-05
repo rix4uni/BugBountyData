@@ -4,12 +4,10 @@ careers.deliveroo.it
 admin.deliveroo.it
 rider.deliveroo.it
 riders.deliveroo.it
-*.deliveroo.it
 careers-staging.deliveroo.it
-*.sandbox.deliveroo.it
-*.staging.deliveroo.it
-*.ordine.deliveroo.it
-*.ordine-staging.deliveroo.it
-www.bachecasindacale.riders.deliveroo.it
+sandbox.deliveroo.it
+staging.deliveroo.it
+ordine.deliveroo.it
+ordine-staging.deliveroo.it
 bachecasindacale.riders.deliveroo.it
 dtm.deliveroo.it

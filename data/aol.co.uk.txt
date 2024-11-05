@@ -1,9 +1,8 @@
-*.aol.co.uk
-*.help.aol.co.uk
-*.marketingpreferences.aol.co.uk
-*.myaccount.aol.co.uk
-*.payments.aol.co.uk
-*.search.aol.co.uk
+help.aol.co.uk
+marketingpreferences.aol.co.uk
+myaccount.aol.co.uk
+payments.aol.co.uk
+search.aol.co.uk
 0x89i6pfhbs5r5dflcaa-access.eu.aol.co.uk
 0x89i6pfhbs5r5dflcaa-autodiscover.eu.aol.co.uk
 0x89i6pfhbs5r5dflcaa-collabext.eu.aol.co.uk
@@ -479,7 +478,6 @@ hardware-gaming.support.eu.aol.co.uk
 hardware.cdn-support.eu.aol.co.uk
 hardware.git.eu.aol.co.uk
 harryhill.aol.co.uk
-help.aol.co.uk
 help.dev.aol.co.uk
 help.qa.aol.co.uk
 help.stage.aol.co.uk
@@ -646,7 +644,6 @@ mariofw.bbefdfdfd.homeserver.bu.eu.aol.co.uk
 mariomobile.bbefdfdfd.homeserver.bu.eu.aol.co.uk
 mariopay.bbefdfdfd.homeserver.bu.eu.aol.co.uk
 mariostatic.bbefdfdfd.homeserver.bu.eu.aol.co.uk
-marketingpreferences.aol.co.uk
 marketingpreferences.qa.aol.co.uk
 marketingpreferences.stage.aol.co.uk
 marketingpreferencescloud-meraki-asn.eu.aol.co.uk
@@ -784,7 +781,6 @@ my2.aolpictures.eu.aol.co.uk
 my2.darkorbit.eu.aol.co.uk
 my2.mobiledownloads.eu.aol.co.uk
 my2ggeneric.eu.aol.co.uk
-myaccount.aol.co.uk
 myaccount.dev.aol.co.uk
 myaccount.qa.aol.co.uk
 myaccount.stage.aol.co.uk
@@ -814,7 +810,6 @@ parentalcontrols.aol.co.uk
 partner.aol.co.uk
 partners.aol.co.uk
 payment.aol.co.uk
-payments.aol.co.uk
 payments.dev.aol.co.uk
 payments.qa.aol.co.uk
 payments.stage.aol.co.uk
@@ -883,7 +878,6 @@ screenname-01.aol.co.uk
 screenname-03.aol.co.uk
 screenname-03.qp-bcsdb-mip.eu.aol.co.uk
 screenname-beta.eu.aol.co.uk
-search.aol.co.uk
 search-dtc.aol.co.uk
 search-mtc.aol.co.uk
 search.hp.my.aol.co.uk
@@ -2025,22 +2019,9 @@ worldcup-vpc.il.realtime.proxy.1502542679.eu.aol.co.uk
 worldcup.viewer.a.eu.aol.co.uk
 worldcup1.eu.aol.co.uk
 worldfavor-kraken.eu.aol.co.uk
-www.aol.co.uk
 www-qa.aol.co.uk
-www.advertising.aol.co.uk
-www.aolproductcentral.aol.co.uk
-www.celebrity.aol.co.uk
-www.games.aol.co.uk
-www.harryhill.aol.co.uk
-www.lifestore.aol.co.uk
-www.music.aol.co.uk
-www.news.aol.co.uk
-www.rubyroom.aol.co.uk
-www.safetytoolbar.aol.co.uk
-www.shopping.aol.co.uk
-www.ssl.sandbox.aol.co.uk
-www.sslqa.sandbox.aol.co.uk
-www.video.aol.co.uk
+ssl.sandbox.aol.co.uk
+sslqa.sandbox.aol.co.uk
 www2.aol.co.uk
 www2.join.aol.co.uk
 wwwpile-stg.aol.co.uk
@@ -2083,7 +2064,6 @@ www01.aol.co.uk
 2011.aol.co.uk
 ab.aolmail.aol.co.uk
 register.aim.aol.co.uk
-www.search.aol.co.uk
 sagasafmcafeevirusscan2aolsecuritysuite.elitaplus.model.eu.aol.co.uk
 mcafeevirusscan2aolsecuritysuite.kamelean.eu.aol.co.uk
 lookinside2.imagesmcafeevirusscan2aolsecuritysuite.eu.aol.co.uk
@@ -2120,7 +2100,7 @@ antivirusa.rmt.dev2.aol.co.uk
 mcafeevirusscan2aolsecuritysuite-admin.intraship.eu.aol.co.uk
 rtr2bmcafeevirusscan2aolsecuritysuite.eu.aol.co.uk
 conversepollo.admin.mcafeevirusscan2aolsecuritysuite.app.tr.mod.1292859369.eu.aol.co.uk
-www.mcafeevirusscan2aolsecuritysuitemisa.eu.aol.co.uk
+mcafeevirusscan2aolsecuritysuitemisa.eu.aol.co.uk
 mcafeevirusscan2aolsecuritysuite.files.eu.aol.co.uk
 cdn.mcafeevirusscan2aolsecuritysuite-3.eu.aol.co.uk
 mcafeevirusscan2aolsecuritysuite.esportseu.vault.elb.1278703510.eu.aol.co.uk
@@ -2178,7 +2158,7 @@ merchweb.alpha.frontend.vpc0-mcafeevirusscan2aolsecuritysuite.625294741.eu.aol.c
 mcafeevirusscan2aolsecuritysuite.stream.originqp.pizzabox.vip.eu.aol.co.uk
 qp.mcafeevirusscan2aolsecuritysuite.pizzabox.vip.eu.aol.co.uk
 nike.patty.mcafeevirusscan2aolsecuritysuiteconsehesmsp01.eu.aol.co.uk
-www.mcafeevirusscan2aolsecuritysuite.misa.eu.aol.co.uk
+mcafeevirusscan2aolsecuritysuite.misa.eu.aol.co.uk
 mcafeevirusscan2aolsecuritysuiteassets.eu.aol.co.uk
 m.search.aol.co.uk
 network.search.aol.co.uk
@@ -2291,11 +2271,10 @@ chatandcommunity-qa.aol.co.uk
 getbroadband.aol.co.uk
 tvguidedata.aol.co.uk
 aimexpress.aol.co.uk
-www.travel.aol.co.uk
 discuss.aol.co.uk
 travel.search.aol.co.uk
 kayak.aol.co.uk
-www.opa.aol.co.uk
+opa.aol.co.uk
 try.aol.co.uk
 news-qa.aol.co.uk
 search.shopping.aol.co.uk
@@ -2308,7 +2287,6 @@ asset06.local.aol.co.uk
 m.fantasyfootball.aol.co.uk
 s.celebrity.aol.co.uk
 hometown.aol.co.uk
-www.tvguide.aol.co.uk
 newsletter.aol.co.uk
 recipes.aol.co.uk
 friaco.aol.co.uk
@@ -2317,16 +2295,13 @@ video-qa.aol.co.uk
 entertainment-qa.aol.co.uk
 _www.aol.co.uk
 weddings-qa.aol.co.uk
-www.living.aol.co.uk
 living-qa.aol.co.uk
-www.women.aol.co.uk
 asset05.local.aol.co.uk
 mx0.aol.co.uk
 games-qa.aol.co.uk
 lduk-qa.sandbox.rubyroom.aol.co.uk
 eleven-qa.aol.co.uk
 wunderloop.aol.co.uk
-www.money.aol.co.uk
 fanhouse.search.aol.co.uk
 members.aol.co.uk
 olympics.aol.co.uk
@@ -2336,7 +2311,6 @@ webcurtain.aol.co.uk
 aimprofiles.aol.co.uk
 filmdownloads.aol.co.uk
 s.aol.co.uk
-www.motoring.aol.co.uk
 money-qa.aol.co.uk
 webcards.aol.co.uk
 alertstst3.aol.co.uk
@@ -2355,7 +2329,6 @@ beta.aol.co.uk
 _lifestyle.aol.co.uk
 asset03.local.aol.co.uk
 asylum.search.aol.co.uk
-www.eleven.aol.co.uk
 news.search.aol.co.uk
 cars-qa.aol.co.uk
 testwin.sandbox.hotsearch.aol.co.uk
@@ -2378,7 +2351,7 @@ pc34.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.tere
 aq.teredo.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _ktelnet._udp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 032aolproductcentral-tsemmler.dev.aol.co.uk
-www.analyticssso.dev.aol.co.uk
+analyticssso.dev.aol.co.uk
 _msft-gc-ssl._tcp.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 18.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 animaltsemmler.dev.aol.co.uk
@@ -2439,7 +2412,7 @@ alan5adam-woods.dev.aol.co.uk
 209adam-woods.dev.aol.co.uk
 201.apirontend.dev.aol.co.uk
 log.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.analyticsdam-woods.dev.aol.co.uk
+analyticsdam-woods.dev.aol.co.uk
 _stun-behavior._udp.auth-ns.dev.aol.co.uk
 cb.dev2.adam-woods.dev.aol.co.uk
 init.as6-tsemmler.dev.aol.co.uk
@@ -2581,7 +2554,7 @@ accountsrm.dev.aol.co.uk
 pa.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 2016so.dev.aol.co.uk
 _stuns._udp.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.archive-tools.dev.aol.co.uk
+archive-tools.dev.aol.co.uk
 pruebas.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 shop.teredo.teredo.auth-ns.sandbox.advertising.aol.co.uk
 groupwise.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -2656,7 +2629,7 @@ ppp4.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth
 cust60.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _caldav._tcp.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 new.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.yummly.com.celebrity.aol.co.uk
+yummly.com.celebrity.aol.co.uk
 george.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 mercury.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 wichita.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -2677,7 +2650,7 @@ north.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.aut
 shuangseqiudewanfa.adam-woods.dev.aol.co.uk
 bt.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 bolsa.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.92.celebrity.aol.co.uk
+92.celebrity.aol.co.uk
 rwhois.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _ldaps._tcp.teredo.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ws5.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -2698,7 +2671,7 @@ agro-tools.dev.aol.co.uk
 apachesemmler.dev.aol.co.uk
 news.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 gift.adam-woods.dev.aol.co.uk
-www.2-m.dev.aol.co.uk
+2-m.dev.aol.co.uk
 tom.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ac.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 koe.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -2709,7 +2682,7 @@ amc.dev.aol.co.uk
 sac.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 bugs.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 conferencing.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
-www.2m.dev.aol.co.uk
+2m.dev.aol.co.uk
 alumniadam-woods.dev.aol.co.uk
 234-tsemmler.dev.aol.co.uk
 preview.aolsearch.aol.co.uk
@@ -2749,7 +2722,7 @@ foxtrot.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.au
 007dazhanhuangjiaduchang.actssolrsso.dev.aol.co.uk
 applysemmler.dev.aol.co.uk
 amanda-frontend.dev.aol.co.uk
-www.ardam-woods.dev.aol.co.uk
+ardam-woods.dev.aol.co.uk
 bayarea.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 01.auth-ns.auth-ns.dev.aol.co.uk
 comments.aimprofiles.aol.co.uk
@@ -2862,11 +2835,11 @@ core.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-
 announce.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 aurora-adam-woods.dev.aol.co.uk
 alterwind.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.m-captainmorgan.celebrity.aol.co.uk
+m-captainmorgan.celebrity.aol.co.uk
 write.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 support.adam-woods.dev.aol.co.uk
 balance.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.aolproductcentral-frontend.dev.aol.co.uk
+aolproductcentral-frontend.dev.aol.co.uk
 cbt.apirm.dev.aol.co.uk
 classifieds.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 py.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -2919,12 +2892,12 @@ no.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns
 taiyangchengtyc.adam-woods.dev.aol.co.uk
 tm.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 pg.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.app-sso.dev.aol.co.uk
+app-sso.dev.aol.co.uk
 tulsa.teredo.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 aolappdesign.dev.aol.co.uk
 araceli11-adam-woods.dev.aol.co.uk
 zuqiubocairuanjian.adam-woods.dev.aol.co.uk
-www.archiveadam-woods.dev.aol.co.uk
+archiveadam-woods.dev.aol.co.uk
 ks.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _tsdns._tcp.dev.aol.co.uk
 2091795021crm.dev.aol.co.uk
@@ -2968,7 +2941,7 @@ thor.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-n
 austinchristopher-ryan-beta-dev.dev.aol.co.uk
 netdata.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _imap3._udp.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.mynameistom.celebrity.aol.co.uk
+mynameistom.celebrity.aol.co.uk
 1566452773-adam-woods.dev.aol.co.uk
 public.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _kerberos-master._tcp.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
@@ -3018,7 +2991,7 @@ wind.adam-woods.dev.aol.co.uk
 ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _stuns._udp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 b.prdev.sandbox.cars.aol.co.uk
-www.adminhristopher-ryan-beta-dev.dev.aol.co.uk
+adminhristopher-ryan-beta-dev.dev.aol.co.uk
 signup.teredo.auth-ns.sandbox.advertising.aol.co.uk
 _sips._tcp.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 kappa.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3110,7 +3083,7 @@ mv.advantagedam-woods.dev.aol.co.uk
 b.cars.aol.co.uk
 1292859369frontend.dev.aol.co.uk
 50adam-woods.dev.aol.co.uk
-www.ts.adam-woods.dev.aol.co.uk
+ts.adam-woods.dev.aol.co.uk
 qmail.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 4lv0sge0k2mi9f6n.dev.aol.co.uk
 usa.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3210,7 +3183,7 @@ andrew.dev.aol.co.uk
 sweden.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 lib.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 inboulder.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.catinthehat.aol.co.uk
+catinthehat.aol.co.uk
 art-crm.dev.aol.co.uk
 cadillac.actssolrscrm.dev.aol.co.uk
 cust23.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3226,7 +3199,7 @@ ec2.35hristopher-ryan-beta-dev.dev.aol.co.uk
 commerce.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 andromedarm.dev.aol.co.uk
 alaskafrontend.dev.aol.co.uk
-www.angelos02tools.dev.aol.co.uk
+angelos02tools.dev.aol.co.uk
 milwaukee.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 abfrontend.dev.aol.co.uk
 gc._msdcs.adam-woods.dev.aol.co.uk
@@ -3238,7 +3211,7 @@ aomenzuidadeduchangjiudiancrm.dev.aol.co.uk
 cust62.teredo.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 rem.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 blogx.dev.adam-woods.dev.aol.co.uk
-www.appools.dev.aol.co.uk
+appools.dev.aol.co.uk
 andyppovey-adam-woods.dev.aol.co.uk
 queen.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 b.datalayer.sandbox.cars.aol.co.uk
@@ -3249,7 +3222,7 @@ spaces.sip.adam-woods.dev.aol.co.uk
 ws101.apirontend.dev.aol.co.uk
 qa1.aolbroadbandrm.dev.aol.co.uk
 antivirus-crm.dev.aol.co.uk
-www.adminrm.dev.aol.co.uk
+adminrm.dev.aol.co.uk
 20story-crm.dev.aol.co.uk
 sigma.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 dsdcs.celebrity.aol.co.uk
@@ -3281,7 +3254,7 @@ sprint.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.au
 terminalserver.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 5dsearchchristopher-ryan-beta-dev.dev.aol.co.uk
 www-1.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.alumnichristopher-ryan-beta-dev.dev.aol.co.uk
+alumnichristopher-ryan-beta-dev.dev.aol.co.uk
 intern.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 articlesrontend.dev.aol.co.uk
 ye.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3425,8 +3398,8 @@ aomenjinshayulechangdianhuasemmler.dev.aol.co.uk
 banking.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 2011christopher-ryan-beta-dev.dev.aol.co.uk
 mary.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.1crm.dev.aol.co.uk
-www.games.adam-woods.dev.aol.co.uk
+1crm.dev.aol.co.uk
+games.adam-woods.dev.aol.co.uk
 ws.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 jon.adam-woods.dev.aol.co.uk
 net.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3499,7 +3472,7 @@ mg.adam-woods.dev.aol.co.uk
 ws1.rtr2b.eu.app.dev.aol.co.uk
 auto.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 252faolmaide.dev.aol.co.uk
-www.analyticstsemmler.dev.aol.co.uk
+analyticstsemmler.dev.aol.co.uk
 252faolmailgva.dev.aol.co.uk
 aolbb-searcht-m56.aol.co.uk
 sierra.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3607,12 +3580,12 @@ dns-2.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth
 response.dailynewsletter.aol.co.uk
 comlhr.adam-woods.dev.aol.co.uk
 messenger.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.ar.adam-woods.dev.aol.co.uk
+ar.adam-woods.dev.aol.co.uk
 _ceph._tcp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 audiotools.dev.aol.co.uk
 bt.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 extranet.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.rss.adam-woods.dev.aol.co.uk
+rss.adam-woods.dev.aol.co.uk
 luton.classifieds.adam-woods.dev.aol.co.uk
 _kerberos-adm._udp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 pc226.1.adam-woods.dev.aol.co.uk
@@ -3711,7 +3684,7 @@ s1.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.
 madrid.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 sl.auth-ns.teredo.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 49-tsemmler.dev.aol.co.uk
-www.archivetools.dev.aol.co.uk
+archivetools.dev.aol.co.uk
 register01.aim-frontend.dev.aol.co.uk
 express.adam-woods.dev.aol.co.uk
 aolproductcentralrontend.dev.aol.co.uk
@@ -3751,7 +3724,7 @@ ori.adam-woods.dev.aol.co.uk
 429m.dev.aol.co.uk
 ix.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 shoppers.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.auools.dev.aol.co.uk
+auools.dev.aol.co.uk
 _nicname._tcp.dev.aol.co.uk
 microntdesarrollow.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 academico.auth-ns.auth-ns.teredo.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3786,7 +3759,7 @@ pc26.teredo.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 gy.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20postools.dev.aol.co.uk
 artifactory1adam-woods.dev.aol.co.uk
-www.m-captain_morgan.celebrity.aol.co.uk
+m-captain_morgan.celebrity.aol.co.uk
 1.auth-ns.dev.aol.co.uk
 ppp16.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _presence._udp.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3849,7 +3822,7 @@ slackware.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.
 chamber.actssolrs-sso.dev.aol.co.uk
 helponline.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 confidential.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.accadam-woods.dev.aol.co.uk
+accadam-woods.dev.aol.co.uk
 893695208tools.dev.aol.co.uk
 fanhouseuk.appsso.dev.aol.co.uk
 nv.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -3970,15 +3943,15 @@ la.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns
 ariescrm.dev.aol.co.uk
 tz.teredo.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cust15.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.stream.adam-woods.dev.aol.co.uk
+stream.adam-woods.dev.aol.co.uk
 apollo.teredo.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 owa1.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20searchfrontend.dev.aol.co.uk
 aomenyongliduchangguanwangrm.dev.aol.co.uk
 a104-frontend.dev.aol.co.uk
-www.android-tsemmler.dev.aol.co.uk
+android-tsemmler.dev.aol.co.uk
 baijialedexiachang.adam-woods.dev.aol.co.uk
-www.alumni-crm.dev.aol.co.uk
+alumni-crm.dev.aol.co.uk
 aolappblogx.dev.aol.co.uk
 0cd.dev.aol.co.uk
 enterprise.adam-woods.dev.aol.co.uk
@@ -4009,7 +3982,7 @@ ism.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-
 imap2.adam-woods.dev.aol.co.uk
 cust40.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 jazz.adam-woods.dev.aol.co.uk
-www.pda.adam-woods.dev.aol.co.uk
+pda.adam-woods.dev.aol.co.uk
 dm.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 aolc-sso.dev.aol.co.uk
 alexools.dev.aol.co.uk
@@ -4055,7 +4028,7 @@ ecommerce.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns
 api-air-miscdam-woods.dev.aol.co.uk
 _xmpp-bosh._tcp.dev.aol.co.uk
 boards.aol.co.uk
-www.archive-christopher-ryan-beta-dev.dev.aol.co.uk
+archive-christopher-ryan-beta-dev.dev.aol.co.uk
 c245.actssolrs-m.dev.aol.co.uk
 bsd01.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 sirius.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4118,7 +4091,7 @@ webdav.adam-woods.dev.aol.co.uk
 adserversemmler.dev.aol.co.uk
 20football-m.dev.aol.co.uk
 _submissions._tcp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.adserverrm.dev.aol.co.uk
+adserverrm.dev.aol.co.uk
 nuance.app-tsemmler.dev.aol.co.uk
 guce.adam-woods.dev.aol.co.uk
 ut.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4310,7 +4283,7 @@ applytools.dev.aol.co.uk
 myaccount.qa.angelos02.dev.aol.co.uk
 golf.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 countivirgia.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.careers.adam-woods.dev.aol.co.uk
+careers.adam-woods.dev.aol.co.uk
 athena.dev.aol.co.uk
 realtime.adam-woods.dev.aol.co.uk
 tm.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4327,7 +4300,7 @@ hokkaido.adam-woods.dev.aol.co.uk
 20indam-woods.dev.aol.co.uk
 shorturl.adam-woods.dev.aol.co.uk
 orlando.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.adserver-tools.dev.aol.co.uk
+adserver-tools.dev.aol.co.uk
 linux2.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20checkuautodiscover.dev.aol.co.uk
 members.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4433,7 +4406,7 @@ southcarolina.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.aut
 pss.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 my.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 dmail.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.ws.adam-woods.dev.aol.co.uk
+ws.adam-woods.dev.aol.co.uk
 cricket.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 juegos.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 4nts.dev.aol.co.uk
@@ -4453,7 +4426,7 @@ certify.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.teredo.teredo.auth-ns.auth
 asksso.dev.aol.co.uk
 20checkusmtp.dev.aol.co.uk
 canada.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.aolproductcentraltools.dev.aol.co.uk
+aolproductcentraltools.dev.aol.co.uk
 delphi.adam-woods.dev.aol.co.uk
 jlaql.adam-woods.dev.aol.co.uk
 ar.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4465,7 +4438,7 @@ calvin.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.ter
 doctor.adam-woods.dev.aol.co.uk
 82wardsso.dev.aol.co.uk
 ikr7ni8d9dvl4x1a4hi48tlg.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.contact.adam-woods.dev.aol.co.uk
+contact.adam-woods.dev.aol.co.uk
 3t-tools.dev.aol.co.uk
 windows02.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 start.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
@@ -4494,7 +4467,7 @@ lbk.15dam-woods.dev.aol.co.uk
 answers.aol.co.uk
 customers.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 webmaster.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.affiliatescrm.dev.aol.co.uk
+affiliatescrm.dev.aol.co.uk
 administrators.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cust36.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 hidden.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4523,7 +4496,6 @@ z-log.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.aut
 pc23.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 das.adam-woods.dev.aol.co.uk
 analyticscrm.dev.aol.co.uk
-92.celebrity.aol.co.uk
 newton.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ci.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 andyppoveytsemmler.dev.aol.co.uk
@@ -4537,7 +4509,6 @@ testcf.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.aut
 net.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 testlinux.auth-ns.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 www01.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-m-captain_morgan.celebrity.aol.co.uk
 appserver.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20room-m.dev.aol.co.uk
 vg.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4584,7 +4555,7 @@ quotes.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.aut
 pc1.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 aimtsemmler.dev.aol.co.uk
 dynamic.adam-woods.dev.aol.co.uk
-www.alexsso.dev.aol.co.uk
+alexsso.dev.aol.co.uk
 sql1.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 fayule.adam-woods.dev.aol.co.uk
 admin3rontend.dev.aol.co.uk
@@ -4645,7 +4616,7 @@ acsrontend.dev.aol.co.uk
 35.156-frontend.dev.aol.co.uk
 assets1-christopher-ryan-beta-dev.dev.aol.co.uk
 appserver.dev.aol.co.uk
-www.adadam-woods.dev.aol.co.uk
+adadam-woods.dev.aol.co.uk
 2yuznm.dev.aol.co.uk
 asdf-tools.dev.aol.co.uk
 private.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4655,7 +4626,7 @@ windows2003.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-
 archivetsemmler.dev.aol.co.uk
 _submissions._tcp.dev.aol.co.uk
 cust8.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.aolproductcentralfrontend.dev.aol.co.uk
+aolproductcentralfrontend.dev.aol.co.uk
 annuaire-sso.dev.aol.co.uk
 back.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ws10.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4697,7 +4668,6 @@ aus-frontend.dev.aol.co.uk
 support.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _sip._tcp.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 temp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.morgan.celebrity.aol.co.uk
 _rwhois._tcp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ks.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 manasa.sandbox.celebrity.aol.co.uk
@@ -4744,18 +4714,18 @@ _hybrid-pop._udp.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.a
 gamma.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ch.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 adinfo-crm.dev.aol.co.uk
-www.ar-tools.dev.aol.co.uk
+ar-tools.dev.aol.co.uk
 18.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20checkupblog.dev.aol.co.uk
 swg-proxy.dataprivacy.eu.access.dev.aol.co.uk
 phil.adam-woods.dev.aol.co.uk
 accounts.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.acties-adam-woods.dev.aol.co.uk
+acties-adam-woods.dev.aol.co.uk
 cust121.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 es.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 peoplesoft.auth-ns.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 webservices.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.angelos02tsemmler.dev.aol.co.uk
+angelos02tsemmler.dev.aol.co.uk
 20checkupnose.dev.aol.co.uk
 _www-http._tcp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 eng01.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4788,7 +4758,7 @@ orders.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.aut
 gta.sport.adam-woods.dev.aol.co.uk
 northwest.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 subfinder.api1-play.sandbox.admin.dev.aol.co.uk
-www.advertisingools.dev.aol.co.uk
+advertisingools.dev.aol.co.uk
 att-adam-woods.dev.aol.co.uk
 533424383-frontend.dev.aol.co.uk
 xml.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4875,11 +4845,11 @@ tucson.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.aut
 ages.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 gatekeeper.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 s181.rsync.adam-woods.dev.aol.co.uk
-www.test2.users.adam-woods.dev.aol.co.uk
+test2.users.adam-woods.dev.aol.co.uk
 th.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 wwwdev.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 mrtg.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.old.adam-woods.dev.aol.co.uk
+old.adam-woods.dev.aol.co.uk
 georgia.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 vi.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ts1.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -4904,7 +4874,7 @@ actionsemmler.dev.aol.co.uk
 mrosfqptpuo.www.adam-woods.dev.aol.co.uk
 call.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _sips._tcp.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.br.adam-woods.dev.aol.co.uk
+br.adam-woods.dev.aol.co.uk
 edit.aimprofiles.aol.co.uk
 18-checkout.dev.aol.co.uk
 hirlevel.adam-woods.dev.aol.co.uk
@@ -4925,7 +4895,6 @@ api.car.adam-woods.dev.aol.co.uk
 warehouse.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 submit.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 signin.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.b.celebrity.aol.co.uk
 999808269m.dev.aol.co.uk
 arizona-frontend.dev.aol.co.uk
 cust20.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
@@ -4943,7 +4912,7 @@ tools.dev.accounts.dev.aol.co.uk
 sb.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 1630148548rm.dev.aol.co.uk
 omnichannel.dev2.adam-woods.dev.aol.co.uk
-www.123-tools.dev.aol.co.uk
+123-tools.dev.aol.co.uk
 webdisk.demo.adam-woods.dev.aol.co.uk
 event.adam-woods.dev.aol.co.uk
 03.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -5046,7 +5015,7 @@ sun01.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.aut
 nuhdncifhyyhficndhun.adam-woods.dev.aol.co.uk
 galerias.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 fi.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.articlesools.dev.aol.co.uk
+articlesools.dev.aol.co.uk
 c.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 as-frontend.dev.aol.co.uk
 adrian-frontend.dev.aol.co.uk
@@ -5073,7 +5042,7 @@ rtr.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-n
 20nose-adam-woods.dev.aol.co.uk
 asia.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 portaleu-stage1.afu.dev.aol.co.uk
-www.adchristopher-ryan-beta-dev.dev.aol.co.uk
+adchristopher-ryan-beta-dev.dev.aol.co.uk
 qa.api.dev.aol.co.uk
 albacrm.dev.aol.co.uk
 gsx.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -5085,7 +5054,7 @@ ads.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.tered
 theta.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cache.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 3com.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.androidadam-woods.dev.aol.co.uk
+androidadam-woods.dev.aol.co.uk
 scotty.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 warrington.adam-woods.dev.aol.co.uk
 pc37.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -5127,7 +5096,7 @@ attrm.dev.aol.co.uk
 autorun.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 aaronhawkinsso.dev.aol.co.uk
 acalor.dev.aol.co.uk
-www.adssemmler.dev.aol.co.uk
+adssemmler.dev.aol.co.uk
 depot.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 tgibson1926.adam-woods.dev.aol.co.uk
 post.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
@@ -5145,7 +5114,7 @@ fr.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns
 sql.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 admin.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _stun._tcp.dev.aol.co.uk
-www.women.assets.dev.aol.co.uk
+women.assets.dev.aol.co.uk
 nebraska.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ppp6.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 isaserver.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -5240,7 +5209,6 @@ border.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 12bo.adam-woods.dev.aol.co.uk
 007dazhanhuangjiaduchangtools.dev.aol.co.uk
 007dazhanhuangjiaduchang-sso.dev.aol.co.uk
-m-captainmorgan.celebrity.aol.co.uk
 kids.aolsearch-m.dev.aol.co.uk
 ward.adam-woods.dev.aol.co.uk
 a02.dev.aol.co.uk
@@ -5408,7 +5376,7 @@ jrun.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth
 _ldaps._udp.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 harrow.classifieds.adam-woods.dev.aol.co.uk
 _smtp._tcp.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.aolproductcentralsso.dev.aol.co.uk
+aolproductcentralsso.dev.aol.co.uk
 12-christopher-ryan-beta-dev.dev.aol.co.uk
 aolapps-master.dev.aol.co.uk
 anthonyrontend.dev.aol.co.uk
@@ -5465,14 +5433,12 @@ bs.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.
 _smtp._udp.dev.aol.co.uk
 bob.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 202-christopher-ryan-beta-dev.dev.aol.co.uk
-mynameistom.celebrity.aol.co.uk
 shoppers.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 part.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.efm.survey.www.owa.eu.admin.dev.aol.co.uk
+efm.survey.www.owa.eu.admin.dev.aol.co.uk
 remote.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 streaming.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 souq-qe-1744661995.eu.accounts.dev.aol.co.uk
-www.dev.celebrity.aol.co.uk
 access.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _presence._tcp.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20postcrm.dev.aol.co.uk
@@ -5553,9 +5519,9 @@ invalid.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.a
 cfd185.adam-woods.dev.aol.co.uk
 www-2.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 freebsd0.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.admin-tools.dev.aol.co.uk
+admin-tools.dev.aol.co.uk
 li.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.api.adam-woods.dev.aol.co.uk
+api.adam-woods.dev.aol.co.uk
 patch.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 bsd1.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 documentacion.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -5611,7 +5577,6 @@ ee-frontend.dev.aol.co.uk
 accounts.dev.aol.co.uk
 tn.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 echo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.abctsemmler.dev.aol.co.uk
 so.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cvm.adam-woods.dev.aol.co.uk
 acnrsemmler.dev.aol.co.uk
@@ -5623,7 +5588,7 @@ asntools.dev.aol.co.uk
 abruckler.dev.aol.co.uk
 system.linzmeyer.dev.ads.dev.aol.co.uk
 delaware.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.advisor-basics-homepage.dev.aol.co.uk
+advisor-basics-homepage.dev.aol.co.uk
 france.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 zion.adam-woods.dev.aol.co.uk
 ibm.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -5633,7 +5598,7 @@ site.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth
 20rerontend.dev.aol.co.uk
 mtu.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 arizonachristopher-ryan-beta-dev.dev.aol.co.uk
-www.123-m.dev.aol.co.uk
+123-m.dev.aol.co.uk
 en.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 a104sso.dev.aol.co.uk
 edit.aimprofilesdam-woods.dev.aol.co.uk
@@ -5814,7 +5779,7 @@ la.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-n
 156m.dev.aol.co.uk
 techno.adam-woods.dev.aol.co.uk
 illinois.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.board.adam-woods.dev.aol.co.uk
+board.adam-woods.dev.aol.co.uk
 cust87.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 aolappchatbot.dev.aol.co.uk
 healthy1.api-tsemmler.dev.aol.co.uk
@@ -5936,7 +5901,7 @@ mpg.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-
 artools.dev.aol.co.uk
 test.dev2.adam-woods.dev.aol.co.uk
 web23.adam-woods.dev.aol.co.uk
-www.india.adam-woods.dev.aol.co.uk
+india.adam-woods.dev.aol.co.uk
 psi.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 muc.adam-woods.dev.aol.co.uk
 1640122446frontend.dev.aol.co.uk
@@ -5950,7 +5915,7 @@ ap.dev.aol.co.uk
 disney.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 paul.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ppp6.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
-www.affiliatesfrontend.dev.aol.co.uk
+affiliatesfrontend.dev.aol.co.uk
 ws2.teredo.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 printserv.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 a.auth-ns.dev.aol.co.uk
@@ -5989,7 +5954,7 @@ aolsvc.dev.aol.co.uk
 br.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 safe.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 xl.www.adam-woods.dev.aol.co.uk
-www.affiliatestools.dev.aol.co.uk
+affiliatestools.dev.aol.co.uk
 cust82.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 m.articletools.dev.aol.co.uk
 9.dev.aol.co.uk
@@ -6016,10 +5981,9 @@ omega.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth
 development.adam-woods.dev.aol.co.uk
 archivesm.dev.aol.co.uk
 correo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.fair.b.celebrity.aol.co.uk
+fair.b.celebrity.aol.co.uk
 11192521403954m.dev.aol.co.uk
 49tools.dev.aol.co.uk
-www.calendar.aol.co.uk
 idea.adam-woods.dev.aol.co.uk
 16.auth-ns.dev.aol.co.uk
 beta.pipe.room.chat.aol.co.uk
@@ -6050,7 +6014,7 @@ vn.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns
 baijialejiawang.adam-woods.dev.aol.co.uk
 cust82.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 portfolio.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.appfrontend.dev.aol.co.uk
+appfrontend.dev.aol.co.uk
 fr.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _http._sctp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 h25.lookinside2.adam-woods.dev.aol.co.uk
@@ -6302,7 +6266,6 @@ alabama.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.a
 earth.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 tf.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 abbvie01.dev.aol.co.uk
-www.chatandcommunity.aol.co.uk
 argondam-woods.dev.aol.co.uk
 owa02.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 b.aolsearch.aol.co.uk
@@ -6321,7 +6284,6 @@ board.eu.adam-woods.dev.aol.co.uk
 abstools.dev.aol.co.uk
 name.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 bs.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.api-frontend.dev.aol.co.uk
 aolcc.aolsvc.aol.co.uk
 aurarontend.dev.aol.co.uk
 0.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6336,7 +6298,7 @@ bg.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns
 08e5d6fd-f2a6-432e-b659.dev.aol.co.uk
 administrators.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20checkuemmler.dev.aol.co.uk
-www.abc-crm.dev.aol.co.uk
+abc-crm.dev.aol.co.uk
 stat.adam-woods.dev.aol.co.uk
 11.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 anghamirontend.dev.aol.co.uk
@@ -6435,10 +6397,10 @@ webalizer.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-n
 feilvbinbocaigongsi.adam-woods.dev.aol.co.uk
 advantagetools.dev.aol.co.uk
 at.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
-www.appssemmler.dev.aol.co.uk
+appssemmler.dev.aol.co.uk
 phoeniz.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 skywalker.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
-www.ar-crm.dev.aol.co.uk
+ar-crm.dev.aol.co.uk
 websvr.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 _caldav._tcp.auth-ns.auth-ns.dev.aol.co.uk
 store.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6516,7 +6478,7 @@ ircd.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-
 252faolmailuat.dev.aol.co.uk
 rho.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 asia.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.team.adam-woods.dev.aol.co.uk
+team.adam-woods.dev.aol.co.uk
 _nicname._udp.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cv.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 rhodeisland.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6562,7 +6524,7 @@ yellow.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.au
 m.celebrity.aol.co.uk
 hermes.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 252faolmail.dev.aol.co.uk
-www.archiveso.dev.aol.co.uk
+archiveso.dev.aol.co.uk
 aolpproductcentral.dev.aol.co.uk
 snoopy.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 alan5ools.dev.aol.co.uk
@@ -6633,7 +6595,7 @@ client1.aol.co.uk
 win2k3.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 edward.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 midwest.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.apisso.dev.aol.co.uk
+apisso.dev.aol.co.uk
 _ldaps._udp.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 pc6.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cust41.auth-ns.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6657,7 +6619,7 @@ flr-all.adam-woods.dev.aol.co.uk
 omega.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 server5.adam-woods.dev.aol.co.uk
 ws8.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
-www.alumnihristopher-ryan-beta-dev.dev.aol.co.uk
+alumnihristopher-ryan-beta-dev.dev.aol.co.uk
 knowledgebase.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 zhenqiandoudizhuxq168.adminhristopher-ryan-beta-dev.dev.aol.co.uk
 cust23.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6665,7 +6627,7 @@ remstats.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.
 lbk.15crm.dev.aol.co.uk
 533424383frontend.dev.aol.co.uk
 252faolmailes.dev.aol.co.uk
-www.qas.adam-woods.dev.aol.co.uk
+qas.adam-woods.dev.aol.co.uk
 9b4twrdvlbb1jyf0.dev.aol.co.uk
 aolappsautoconfig.dev.aol.co.uk
 asterix.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6693,7 +6655,7 @@ events.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth
 autorun.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cust52.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cust31.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.1.dev.aol.co.uk
+1.dev.aol.co.uk
 access-m.dev.aol.co.uk
 cbf3.adam-woods.dev.aol.co.uk
 pc27.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6706,7 +6668,7 @@ mtu.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-n
 intranet.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 204.adam-woods.dev.aol.co.uk
 1-6ools.dev.aol.co.uk
-www.auso.dev.aol.co.uk
+auso.dev.aol.co.uk
 acacia-tsemmler.dev.aol.co.uk
 aolbroadband.aol.co.uk
 sanantonio.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
@@ -6714,7 +6676,7 @@ cocoa.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.aut
 agk-tsemmler.dev.aol.co.uk
 acid.auth-ns.auth-ns.teredo.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 think.adam-woods.dev.aol.co.uk
-www.1dam-woods.dev.aol.co.uk
+1dam-woods.dev.aol.co.uk
 page.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 20preferenceschristopher-ryan-beta-dev.dev.aol.co.uk
 labor.adam-woods.dev.aol.co.uk
@@ -6835,7 +6797,7 @@ ov.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns
 cbt.api-sso.dev.aol.co.uk
 acacia.dev.aol.co.uk
 ak.dev.aol.co.uk
-www.advertisingcrm.dev.aol.co.uk
+advertisingcrm.dev.aol.co.uk
 data.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 apism.dev.aol.co.uk
 ia.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6905,7 +6867,6 @@ yu.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo
 _puppet._tcp.auth-ns.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 tianmayulecheng.adam-woods.dev.aol.co.uk
 liveevents.ads.dev.aol.co.uk
-qas.adam-woods.dev.aol.co.uk
 nu.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ws7.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 kilo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -6964,7 +6925,6 @@ tools.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.te
 asterix.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 acceso.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 ilmi.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
-www.nuhdncifhyyhficndhun.celebrity.aol.co.uk
 1566452773ools.dev.aol.co.uk
 devserver.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 wc3.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -7002,7 +6962,7 @@ maint.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.tered
 weblogic.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 administrator.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
 junewaters13.adam-woods.dev.aol.co.uk
-www.email.adam-woods.dev.aol.co.uk
+email.adam-woods.dev.aol.co.uk
 dev.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 a104dam-woods.dev.aol.co.uk
 bob.teredo.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -7043,7 +7003,7 @@ aboshopools.dev.aol.co.uk
 monitoring.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _ceph._tcp.dev.aol.co.uk
 s108.api-frontend.dev.aol.co.uk
-www.apprm.dev.aol.co.uk
+apprm.dev.aol.co.uk
 7.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cvs.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 mod.1697619877m.dev.aol.co.uk
@@ -7061,9 +7021,9 @@ adslso.dev.aol.co.uk
 5s.dev.aol.co.uk
 sun0.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 cust96.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.ausso.dev.aol.co.uk
+ausso.dev.aol.co.uk
 siebel.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.ads-sso.dev.aol.co.uk
+ads-sso.dev.aol.co.uk
 zhongguoshidabocaiwang.conseheeudc2.adam-woods.dev.aol.co.uk
 private.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 monitor.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -7075,7 +7035,6 @@ http.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-
 _http._tcp.dev.aol.co.uk
 aquacrm.dev.aol.co.uk
 20rechristopher-ryan-beta-dev.dev.aol.co.uk
-fair.b.celebrity.aol.co.uk
 _stun._tcp.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _ldap-admin._udp.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 update.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.sandbox.advertising.aol.co.uk
@@ -7098,7 +7057,7 @@ app03rontend.dev.aol.co.uk
 _www-ldap-gw._tcp.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 _stun-port._udp.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 9fayulecrm.dev.aol.co.uk
-www.dav75.users.adam-woods.dev.aol.co.uk
+dav75.users.adam-woods.dev.aol.co.uk
 fr.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 host.adam-woods.dev.aol.co.uk
 br.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -7154,7 +7113,7 @@ s1.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-n
 crs.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 freebsd.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 owa1.teredo.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.1ools.dev.aol.co.uk
+1ools.dev.aol.co.uk
 imagenes.adam-woods.dev.aol.co.uk
 cust125.teredo.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 arc-christopher-ryan-beta-dev.dev.aol.co.uk
@@ -7162,7 +7121,6 @@ king.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-
 1566452773m.dev.aol.co.uk
 archive.advertising.aol.co.uk
 ri.auth-ns.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-www.itsawildcardguys.celebrity.aol.co.uk
 11.webmanager.adam-woods.dev.aol.co.uk
 x-ray.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 pk.auth-ns.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
@@ -7267,7 +7225,3 @@ baltimore.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.auth-ns.teredo.auth-ns.
 achievefrontend.dev.aol.co.uk
 g.teredo.auth-ns.auth-ns.auth-ns.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
 legal.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.dev.aol.co.uk
-ssl.sandbox.aol.co.uk
-sslqa.sandbox.aol.co.uk
-*.sandbox.aol.co.uk
-*.sandbox.partners.aol.co.uk

@@ -1,4 +1,3 @@
-*.streamlabs.com
 analytics-matomo.streamlabs.com
 api-id.streamlabs.com
 aws.streamlabs.com
@@ -105,18 +104,10 @@ tracker.streamlabs.com
 turn.streamlabs.com
 twitch.streamlabs.com
 us-west-webrtc.streamlabs.com
-www.streamlabs.com
-www.api-id.streamlabs.com
-www.blog.streamlabs.com
-www.cms-marketing.streamlabs.com
-www.restreambeta-ingest.streamlabs.com
-www.streamlabsstudio-staging.streamlabs.com
-www.turn.streamlabs.com
 xt.streamlabs.com
 youtube.streamlabs.com
 stats-staging.streamlabs.com
 cms-stage.streamlabs.com
-www.cms-stage.streamlabs.com
 console.streamlabs.com
 join.streamlabs.com
 email.streamlabs.com
@@ -163,12 +154,11 @@ join-stage.streamlabs.com
 geo-loc.streamlabs.com
 streamlabs-electron.streamlabs.com
 kraken.streamlabs.com
-www.videoeditor.streamlabs.com
+videoeditor.streamlabs.com
 u6gityzfo0.streamlabs.com
 eu-east-restream-ingest.streamlabs.com
 slobs-media.streamlabs.com
 stripe.streamlabs.com
-videoeditor.streamlabs.com
 chatbot-api-stage.streamlabs.com
 slobs-symbol.streamlabs.com
 mobile-media.streamlabs.com

@@ -2,7 +2,6 @@ grafana.derhansen.com
 icinga.derhansen.com
 typo3-advisories-dev.derhansen.com
 gitlab.derhansen.com
-*.derhansen.com
 time.derhansen.com
 cloud.derhansen.com
 wiki.derhansen.com
@@ -10,7 +9,6 @@ sentry.derhansen.com
 piwik.derhansen.com
 solr9.derhansen.com
 solr8.derhansen.com
-www.derhansen.com
 media.derhansen.com
 sf-event-mgt-demo.derhansen.com
 solr.derhansen.com

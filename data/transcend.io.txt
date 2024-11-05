@@ -22,7 +22,6 @@ com.transcend.io
 docs.transcend.io
 app.retool.transcend.io
 verizon-sandbox.sombra.us.transcend.io
-www.docs.transcend.io
 test.transcend.io
 ci.transcend.io
 consent.us.transcend.io
@@ -32,7 +31,6 @@ llm-classifier.transcend.io
 transcend-saas-webhooks.us.transcend.io
 sombra-job-queue.us.transcend.io
 homebrew.transcend.io
-www.transcend.io
 codelabs.transcend.io
 sitescanner.transcend.io
 us.transcend.io

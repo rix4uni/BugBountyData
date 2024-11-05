@@ -84,14 +84,13 @@ booking-client-api.qa.autopay.io
 api-v2.test.autopay.io
 nwparkering.bo.autopay.io
 norgesgruppen.autopay.io
-www.product.autopay.io
+product.autopay.io
 tnp.autopay.io
 api-old.qa.autopay.io
 onsite-config.qa.autopay.io
 selfservice-api.test.autopay.io
 selfservice-api.autopay.io
 archive.qa.autopay.io
-product.autopay.io
 booking-backend.autopay.io
 qa.autopay.io
 kfg.autopay.io

@@ -6,7 +6,6 @@ hello.claritymoney.com
 avatar.claritymoney.com
 app.claritymoney.com
 email.claritymoney.com
-www.claritymoney.com
 mg.claritymoney.com
 mail.claritymoney.com
 beta.claritymoney.com
@@ -40,6 +39,3 @@ alexa.claritymoney.com
 ios-api.dev.claritymoney.com
 alexa.dev.claritymoney.com
 blog.claritymoney.com
-*.claritymoney.com
-*.dev.claritymoney.com
-*.beta.claritymoney.com

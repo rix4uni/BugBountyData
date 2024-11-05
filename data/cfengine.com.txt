@@ -8,7 +8,6 @@ hub.a10001.cfengine.com
 public.ci.cfengine.com
 vpn.cfengine.com
 support.cfengine.com
-www.cfengine.com
 builds.cfengine.com
 cf001linaws.cfengine.com
 test-dev.cfengine.com
@@ -25,7 +24,6 @@ cf190lin.cfengine.com
 cf001lin.cfengine.com
 cf106lin.cfengine.com
 staging.cfengine.com
-www.staging.cfengine.com
 ubuntu2204-demohub.a10042.cfengine.com
 staging.build.cfengine.com
 wf5.taa03lin.cfengine.com

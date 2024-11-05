@@ -7,7 +7,7 @@ ip-vnv-api.gehealthcare.com
 ip-vnv-apilb.gehealthcare.com
 links.gehealthcare.com
 comms.gehealthcare.com
-*.dhs.gehealthcare.com
+dhs.gehealthcare.com
 api.gm.xcs-dev.gehealthcare.com
 api.gehealthcare.com
 sims-prod-cloudfront.cloud.gehealthcare.com
@@ -152,7 +152,7 @@ vscanactive.gehealthcare.com
 hybrid-aws-e2.xcs-dev.gehealthcare.com
 qa-latam.gehealthcare.com
 ecso.gehealthcare.com
-www.encompass.gehealthcare.com
+encompass.gehealthcare.com
 myequipment.dev.gehealthcare.com
 beta2-ca.gehealthcare.com
 beta2-uk.gehealthcare.com

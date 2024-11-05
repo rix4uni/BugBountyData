@@ -25,7 +25,6 @@ pukcab.ezix.org
 webconsole.ezix.org
 docker.ezix.org
 kimsufi7-proxmox.ezix.org
-www.ezix.org
 kimsufi9.pbs.ezix.org
 restic.ezix.org
 mastodon.ezix.org
@@ -47,7 +46,7 @@ insectes.ezix.org
 secrets.ezix.org
 kimsufi7.proxmox.ezix.org
 classeur.ezix.org
-www.virtualbox.ezix.org
+virtualbox.ezix.org
 mx1.proxmox.ezix.org
 lyonel.storage.ezix.org
 lyonel.pcloud.ezix.org
@@ -100,7 +99,7 @@ minio.ezix.org
 graylog.ezix.org
 vps1.ezix.org
 glyptodon.ezix.org
-www.ezw.ezix.org
+ezw.ezix.org
 rpm.sw.ezix.org
 panopticon.ezix.org
 sys01.ezix.org

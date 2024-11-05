@@ -1,7 +1,6 @@
 nextcloud.herold.me
 smarthome.herold.me
 stats.herold.me
-www.herold.me
 k8s.herold.me
 mail.herold.me
 devpy.herold.me
@@ -9,13 +8,12 @@ remote.herold.me
 status.herold.me
 nodejs.herold.me
 projects.herold.me
-www.dev.herold.me
+dev.herold.me
 devp.herold.me
 mta-sts.mail.herold.me
 munin.herold.me
 phpmyadmin.herold.me
 pop3.herold.me
-www.projects.herold.me
 analytics.herold.me
 cloud.herold.me
 collabora.herold.me
@@ -30,7 +28,6 @@ edge.dus.gw.herold.me
 constantin.herold.me
 edge.fra.gw.herold.me
 webcam.herold.me
-dev.herold.me
 imap.herold.me
 smtp.herold.me
 220-mail.herold.me

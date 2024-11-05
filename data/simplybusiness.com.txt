@@ -1,12 +1,9 @@
 wp.simplybusiness.com
 business-rules-service.simplybusiness.com
-*.business-rules-service.simplybusiness.com
 business-rules-service-staging.simplybusiness.com
-*.business-rules-service-staging.simplybusiness.com
-www.simplybusiness.com
 partner-authenticated-handover-staging.simplybusiness.com
-*.integration.simplybusiness.com
-*.staging.simplybusiness.com
+integration.simplybusiness.com
+staging.simplybusiness.com
 partner-authenticated-handover.simplybusiness.com
 qcp-embed.simplybusiness.com
 view.simplybusiness.com
@@ -68,9 +65,6 @@ api.simplybusiness.com
 pa.simplybusiness.com
 dna.simplybusiness.com
 is.simplybusiness.com
-*.ncc-leaderboard.simplybusiness.com
-*.polycomm.simplybusiness.com
-*.ferret.simplybusiness.com
 amsuisse.quote.simplybusiness.com
 general-liability.simplybusiness.com
 agents-staging.simplybusiness.com
@@ -87,7 +81,6 @@ wp-new-staging.simplybusiness.com
 www-staging.simplybusiness.com
 hrblock.quote.simplybusiness.com
 saml-adapter-service.simplybusiness.com
-staging.simplybusiness.com
 jolly-roger-staging.simplybusiness.com
 api.staging.simplybusiness.com
 indicative-pricing-service-staging.simplybusiness.com
@@ -112,11 +105,8 @@ snowplow-collector-dev.simplybusiness.com
 data-mill-staging.simplybusiness.com
 idiophone-staging-us-east-2.simplybusiness.com
 brand.simplybusiness.com
-www.spark.simplybusiness.com
-integration.simplybusiness.com
 risk-profiler.staging.simplybusiness.com
 bnw-ref-instance-live-eu-west-1.simplybusiness.com
-www.get.simplybusiness.com
 quote-staging-eu-west-2.simplybusiness.com
 indicative-pricing-service.simplybusiness.com
 demo.simplybusiness.com

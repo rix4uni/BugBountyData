@@ -7,7 +7,6 @@ api.acc.delta10.nl
 prometheus.corp.delta10.nl
 flux.cloud.cluster.delta10.nl
 cloud.delta10.nl
-www.delta10.nl
 vpn.corp.delta10.nl
 learn.delta10.nl
 time.delta10.nl
@@ -48,7 +47,6 @@ hs.delta10.nl
 portal.acc.delta10.nl
 cloud.cluster.delta10.nl
 control.cluster.delta10.nl
-*.delta10.nl
 api.delta10.nl
 portal.delta10.nl
 superset.corp.delta10.nl

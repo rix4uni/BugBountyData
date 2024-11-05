@@ -41,7 +41,7 @@ hound.k8s.pvt.drizly.com
 sandbox.drizly.com
 supplier-staging1.development.k8s.pvt.drizly.com
 vault.hades.drizly.com
-www.sandbox.iframe.drizly.com
+sandbox.iframe.drizly.com
 content.drizly.com
 retailer-staging1.drizly.com
 argocd.tools.prod-clusters.drizly.com
@@ -64,7 +64,6 @@ supplier-staging2.development.k8s.pvt.drizly.com
 retailer-staging6.drizly.com
 zendesk3.drizly.com
 argo-cd.tools-dev.dev-clusters.drizly.com
-www.sandbox.drizly.com
 portal-staging2.drizly.com
 content-staging4.drizly.com
 staging3.drizly.com
@@ -246,7 +245,6 @@ portal-staging14.drizly.com
 jenkins.drizly.com
 supplier.prod.k8s.pvt.drizly.com
 jenkins.apps.development.pvt.drizly.com
-www.drizly.com
 guzzlr-api.integration.drizly.com
 ox-i.drizly.com
 retailer-sandbox.drizly.com
@@ -338,7 +336,6 @@ ox-ui.drizly.com
 workflows.tools.prod-clusters.drizly.com
 content-staging13-ext.drizly.com
 rpa-sidekiq.prod.pvt.drizly.com
-sandbox.iframe.drizly.com
 test-vault.pvt.drizly.com
 retailer-staging13-ext.drizly.com
 content-staging13.drizly.com

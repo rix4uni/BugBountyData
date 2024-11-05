@@ -1,9 +1,9 @@
-*.tools.msi.audi.com
-*.krusty.tools.msi.audi.com
-*.homer.tools.msi.audi.com
-*.willie.tools.msi.audi.com
-*.milhouse.tools.msi.audi.com
-*.nelson.tools.msi.audi.com
+tools.msi.audi.com
+krusty.tools.msi.audi.com
+homer.tools.msi.audi.com
+willie.tools.msi.audi.com
+milhouse.tools.msi.audi.com
+nelson.tools.msi.audi.com
 int-myaudi-service-appointment2.audi.com
 aoz-auktionen.audi.com
 oneaudi-feature-app-driving-experience.api.dev.one.audi.com
@@ -22,7 +22,6 @@ oneaudi-os-contentful-manager.api.dev.one.audi.com
 oneaudi-feature-app-vtp-teaser.api.prod.one.audi.com
 download-approval.audi.com
 entry.audi.com
-www.audi.com
 cms1-author.audi.com
 pim.audi.com
 cms3-author.audi.com

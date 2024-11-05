@@ -1,6 +1,5 @@
 dataroom-reports.spa.interface.ansarada.com
 mail.local.dataroom.ansarada.com
-www.mail.local.dataroom.ansarada.com
 gateway.readiness.ansarada.com
 kong-portalapi.gateway.dev1.core.ansarada.com
 gateway.dev1.core.ansarada.com
@@ -22,7 +21,6 @@ _h323ls._udp.ansarada.com
 spf2.ansarada.com
 _sip._tls.ansarada.com
 _sipfederationtls._tcp.ansarada.com
-www.ansarada.com
 _amazonses.ansarada.com
 msoid.ansarada.com
 autodiscover.ansarada.com
@@ -40,7 +38,7 @@ workflow.spa.interface.ansarada.com
 esg.spa.interface.ansarada.com
 storybook-ansaradadotcom.spa.staging.interface.ansarada.com
 esg.spa.staging.interface.ansarada.com
-*.local.shared.ansarada.com
+local.shared.ansarada.com
 ecommerce.spa.staging.interface.ansarada.com
 cas.spa.dev1.interface.ansarada.com
 esg.spa.dev1.interface.ansarada.com

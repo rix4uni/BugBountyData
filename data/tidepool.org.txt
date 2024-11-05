@@ -25,7 +25,6 @@ forms.tidepool.org
 prometheus.integration.tidepool.org
 auth.tidepool.org
 grafana.production.tidepool.org
-www.tidepool.org
 int-uploads.tidepool.org
 dev-api.tidepool.org
 kubernetes.dev.tidepool.org

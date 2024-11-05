@@ -13,8 +13,6 @@ service.pqa.waldenlocalmeat.com
 service.staging.waldenlocalmeat.com
 service.waldenlocalmeat.com
 shop.waldenlocalmeat.com
-www.members.bc.waldenlocalmeat.com
-www.waldenlocalmeat.com
 api.pqa.waldenlocalmeat.com
 api.staging.waldenlocalmeat.com
 api.staging2.waldenlocalmeat.com
@@ -26,6 +24,3 @@ members.staging2.waldenlocalmeat.com
 pilot.waldenlocalmeat.com
 service.staging2.waldenlocalmeat.com
 welcome.waldenlocalmeat.com
-www.bond.waldenlocalmeat.com
-www.meta.waldenlocalmeat.com
-www.shop.waldenlocalmeat.com

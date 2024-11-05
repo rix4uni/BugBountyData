@@ -12,9 +12,6 @@ raw.ghe.pentesting.semmle.net
 registry.ghe.pentesting.semmle.net
 lgtm-com.pentesting.semmle.net
 lgtm.pentesting.semmle.net
-www.lgtm-staging.semmle.net
-www.semmle.net
-*.semmle.net
 avayairs.ghe.pentesting.semmle.net
 avatarshptc21.10.ghe.pentesting.semmle.net
 arctic.assets.060236.ghe.pentesting.semmle.net
@@ -83,7 +80,7 @@ africa.0c49.ghe.pentesting.semmle.net
 1004sgssets.ghe.pentesting.semmle.net
 052-jantar.ghe.pentesting.semmle.net
 hipernetavatars.10.ghe.pentesting.semmle.net
-www.enciclopedia.media.086208.ghe.pentesting.semmle.net
+enciclopedia.media.086208.ghe.pentesting.semmle.net
 avatars.10-godobusan.ghe.pentesting.semmle.net
 registry.057010.ghe.pentesting.semmle.net
 10-s4232b.ghe.pentesting.semmle.net
@@ -287,7 +284,7 @@ skins.0ff8.ghe.pentesting.semmle.net
 printer1.0u.ghe.pentesting.semmle.net
 sideway.0u.ghe.pentesting.semmle.net
 bhzbf2rj9cavatars.ghe.pentesting.semmle.net
-www.accounts.raw.0atmdc9rahghd1p.ghe.pentesting.semmle.net
+accounts.raw.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 0a5ender.ghe.pentesting.semmle.net
 10927vayairs.ghe.pentesting.semmle.net
 0atmdc9rahghd1p-3.ghe.pentesting.semmle.net
@@ -307,7 +304,7 @@ csg-as-0000775.10.ghe.pentesting.semmle.net
 0c49-billing.ghe.pentesting.semmle.net
 140.238.cable.012ages.ghe.pentesting.semmle.net
 testing.0ad1.ghe.pentesting.semmle.net
-www.0render.ghe.pentesting.semmle.net
+0render.ghe.pentesting.semmle.net
 10csg-est-0135.ghe.pentesting.semmle.net
 060236-24-8.ghe.pentesting.semmle.net
 066-royalty.ghe.pentesting.semmle.net
@@ -321,7 +318,7 @@ gist.060411ids.ghe.pentesting.semmle.net
 kls.057010.ghe.pentesting.semmle.net
 gist.060411-v1.ghe.pentesting.semmle.net
 uu.060411.ghe.pentesting.semmle.net
-www.mail.0atmdc9rahghd1praw.ghe.pentesting.semmle.net
+mail.0atmdc9rahghd1praw.ghe.pentesting.semmle.net
 0c49devops.ghe.pentesting.semmle.net
 avatars.web4894.10.ghe.pentesting.semmle.net
 web11435.0391.ghe.pentesting.semmle.net
@@ -510,7 +507,7 @@ web12887.0ad1.ghe.pentesting.semmle.net
 avatars.10cosmo-mizu-info.ghe.pentesting.semmle.net
 0ff8support.ghe.pentesting.semmle.net
 next11.avatars.10.ghe.pentesting.semmle.net
-www.chaos.0000775gist.ghe.pentesting.semmle.net
+chaos.0000775gist.ghe.pentesting.semmle.net
 avatars.057010-10.ghe.pentesting.semmle.net
 066web2470.ghe.pentesting.semmle.net
 sas-scs-0023.0391.ghe.pentesting.semmle.net
@@ -543,10 +540,10 @@ dev123.0c49.ghe.pentesting.semmle.net
 0iu9-cloudfront.ghe.pentesting.semmle.net
 hideip.066.ghe.pentesting.semmle.net
 avatars-realty.10.ghe.pentesting.semmle.net
-www.02pages.ghe.pentesting.semmle.net
+02pages.ghe.pentesting.semmle.net
 0ad1fantom.ghe.pentesting.semmle.net
 mail.1-gist.ghe.pentesting.semmle.net
-www.nv.086208-gist.ghe.pentesting.semmle.net
+nv.086208-gist.ghe.pentesting.semmle.net
 wwu.0atmdc9rahghd1p-pages.ghe.pentesting.semmle.net
 ws185n185.0c49.ghe.pentesting.semmle.net
 kareisyuu.0547.ghe.pentesting.semmle.net
@@ -583,7 +580,7 @@ preview.10.ghe.pentesting.semmle.net
 sam840711.0ff8.ghe.pentesting.semmle.net
 avatarsd107219.10.ghe.pentesting.semmle.net
 web6111.060411-pages.ghe.pentesting.semmle.net
-www.mail.060236raw.ghe.pentesting.semmle.net
+mail.060236raw.ghe.pentesting.semmle.net
 0391-seimgex.ghe.pentesting.semmle.net
 gambia.0ad1.ghe.pentesting.semmle.net
 0iu9gw.ghe.pentesting.semmle.net
@@ -621,7 +618,7 @@ _tcp.0391.ghe.pentesting.semmle.net
 0ad1api-docs.ghe.pentesting.semmle.net
 pzdx3f2ta48ba818j6bnz7.0atmdc9rahghd1pi75.ghe.pentesting.semmle.net
 0515.ghe.pentesting.semmle.net
-www.100sama.ghe.pentesting.semmle.net
+100sama.ghe.pentesting.semmle.net
 086208bi31.ghe.pentesting.semmle.net
 web5010.0ff8.ghe.pentesting.semmle.net
 10-assist5.ghe.pentesting.semmle.net
@@ -701,11 +698,9 @@ farm.0atmdc9rahghd1p-render.ghe.pentesting.semmle.net
 0391acdong.ghe.pentesting.semmle.net
 0862087i64.ghe.pentesting.semmle.net
 0iu9-inthebox.ghe.pentesting.semmle.net
-mail.0atmdc9rahghd1praw.ghe.pentesting.semmle.net
 052cpprohome04.ghe.pentesting.semmle.net
 007huangjiaduchangzhongziraw.ghe.pentesting.semmle.net
 0ad1toshima.ghe.pentesting.semmle.net
-www.farm.060411render.ghe.pentesting.semmle.net
 0ad1-web11633.ghe.pentesting.semmle.net
 training.0547.ghe.pentesting.semmle.net
 0547fw.ghe.pentesting.semmle.net
@@ -718,7 +713,7 @@ gist.086208.ghe.pentesting.semmle.net
 086208-pages.ghe.pentesting.semmle.net
 ssing7.057010raw.ghe.pentesting.semmle.net
 057010graff.ghe.pentesting.semmle.net
-www.bkr.060236-raw.ghe.pentesting.semmle.net
+bkr.060236-raw.ghe.pentesting.semmle.net
 assets.elb.057010.ghe.pentesting.semmle.net
 100prll7ist.ghe.pentesting.semmle.net
 0atmdc9rahghd1p-4s-3.ghe.pentesting.semmle.net
@@ -907,7 +902,7 @@ avatarsmasahome.10.ghe.pentesting.semmle.net
 052-dhcpfa2e.ghe.pentesting.semmle.net
 066-oikos10041.ghe.pentesting.semmle.net
 10-metals.ghe.pentesting.semmle.net
-www.p202.assets.0000775.ghe.pentesting.semmle.net
+p202.assets.0000775.ghe.pentesting.semmle.net
 avatars.10hss-ppls-0217.ghe.pentesting.semmle.net
 staging.10.ghe.pentesting.semmle.net
 052profesionales.ghe.pentesting.semmle.net
@@ -1062,7 +1057,6 @@ raw.20.086208.ghe.pentesting.semmle.net
 web10519.0u.ghe.pentesting.semmle.net
 avatars-dikfmj28.10.ghe.pentesting.semmle.net
 0391-kukujj007ptn.ghe.pentesting.semmle.net
-p202.assets.0000775.ghe.pentesting.semmle.net
 0c49-5asz8r4.ghe.pentesting.semmle.net
 ihappy.0c49.ghe.pentesting.semmle.net
 09-uploads.ghe.pentesting.semmle.net
@@ -1180,7 +1174,6 @@ y-studio-jp.0547.ghe.pentesting.semmle.net
 s802ipmi.0u.ghe.pentesting.semmle.net
 newhome-avatars.10.ghe.pentesting.semmle.net
 stbiz.060236.ghe.pentesting.semmle.net
-www.nv.060236-gist.ghe.pentesting.semmle.net
 comeon19.060411-assets.ghe.pentesting.semmle.net
 s1105ipmi.avatars.10.ghe.pentesting.semmle.net
 avatars.10.086208.ghe.pentesting.semmle.net
@@ -1278,7 +1271,7 @@ hww3633.avatars.10.ghe.pentesting.semmle.net
 kyo199.0ff8.ghe.pentesting.semmle.net
 erpdbprod.0ff8.ghe.pentesting.semmle.net
 0pcz70.ghe.pentesting.semmle.net
-www.sitemap.0atmdc9rahghd1pgist.ghe.pentesting.semmle.net
+sitemap.0atmdc9rahghd1pgist.ghe.pentesting.semmle.net
 fw.0iu9.ghe.pentesting.semmle.net
 int.avatars.10.ghe.pentesting.semmle.net
 i12.0000775.ghe.pentesting.semmle.net
@@ -1374,7 +1367,7 @@ oceano.0547.ghe.pentesting.semmle.net
 10-mvm-ri-d086061.ghe.pentesting.semmle.net
 0ad1-s4115b.ghe.pentesting.semmle.net
 mvm-ccbs-060411.0u.ghe.pentesting.semmle.net
-www.mail.0atmdc9rahghd1p-raw.ghe.pentesting.semmle.net
+mail.0atmdc9rahghd1p-raw.ghe.pentesting.semmle.net
 web13071.0c49.ghe.pentesting.semmle.net
 masahome.052.ghe.pentesting.semmle.net
 web12841.0547.ghe.pentesting.semmle.net
@@ -1443,7 +1436,7 @@ demo8.0000775.ghe.pentesting.semmle.net
 0547-j0j7qffh.ghe.pentesting.semmle.net
 0iu9orgasm.ghe.pentesting.semmle.net
 knpiantr9201-uploads.10.ghe.pentesting.semmle.net
-www.chaos.gist.086208.ghe.pentesting.semmle.net
+chaos.gist.086208.ghe.pentesting.semmle.net
 10465-giving.ghe.pentesting.semmle.net
 0c49-developer.ghe.pentesting.semmle.net
 0ff8machine.ghe.pentesting.semmle.net
@@ -1476,7 +1469,7 @@ colbasketball.0ff8.ghe.pentesting.semmle.net
 avatars.060411-8.ghe.pentesting.semmle.net
 gsgtel-012.0ad1.ghe.pentesting.semmle.net
 0u-happytrading.ghe.pentesting.semmle.net
-www.sitemap.gist.057010.ghe.pentesting.semmle.net
+sitemap.gist.057010.ghe.pentesting.semmle.net
 066eternalstudio.ghe.pentesting.semmle.net
 mvm-ri-l005043.0ad1.ghe.pentesting.semmle.net
 0000775media.ghe.pentesting.semmle.net
@@ -1538,7 +1531,7 @@ accounting.052.ghe.pentesting.semmle.net
 asakusa.10.ghe.pentesting.semmle.net
 s1343a.0u.ghe.pentesting.semmle.net
 0ad1emea.ghe.pentesting.semmle.net
-www.ecuador.0000775pages.ghe.pentesting.semmle.net
+ecuador.0000775pages.ghe.pentesting.semmle.net
 00007754.ghe.pentesting.semmle.net
 0iu9-community.ghe.pentesting.semmle.net
 web10148.0ff8.ghe.pentesting.semmle.net
@@ -1561,7 +1554,6 @@ zetmin2.10.ghe.pentesting.semmle.net
 0ff8host-209-149-116-30.ghe.pentesting.semmle.net
 00007753430.ghe.pentesting.semmle.net
 0547s1343a.ghe.pentesting.semmle.net
-02pages.ghe.pentesting.semmle.net
 s922ipmi.066.ghe.pentesting.semmle.net
 0utomcat.ghe.pentesting.semmle.net
 0-19-pages.ghe.pentesting.semmle.net
@@ -1625,7 +1617,6 @@ avatars.10-wrk-jet32.ghe.pentesting.semmle.net
 10-elasticbeanstalk.ghe.pentesting.semmle.net
 web5010.060236-raw.ghe.pentesting.semmle.net
 avatarsdocsdrop.10.ghe.pentesting.semmle.net
-bkr.060236-raw.ghe.pentesting.semmle.net
 l005043-avatars.10.ghe.pentesting.semmle.net
 1-58kyumion-pages.ghe.pentesting.semmle.net
 avatarstestsp1208271-com.10.ghe.pentesting.semmle.net
@@ -1681,7 +1672,6 @@ ekfashion.066.ghe.pentesting.semmle.net
 0c49bambisystem.ghe.pentesting.semmle.net
 ids.086208.ghe.pentesting.semmle.net
 ssing7.raw.060411.ghe.pentesting.semmle.net
-ecuador.0000775pages.ghe.pentesting.semmle.net
 1d-3.0000775.ghe.pentesting.semmle.net
 025google.ghe.pentesting.semmle.net
 jwpresident6.0u.ghe.pentesting.semmle.net
@@ -1829,7 +1819,6 @@ uploads.060411kr.ghe.pentesting.semmle.net
 060236-ips1.ghe.pentesting.semmle.net
 web12459avatars.10.ghe.pentesting.semmle.net
 autocad.10.ghe.pentesting.semmle.net
-mail.0atmdc9rahghd1p-raw.ghe.pentesting.semmle.net
 avatars.10host-209-149-114-186.ghe.pentesting.semmle.net
 avatars.staging.10.ghe.pentesting.semmle.net
 066-heat4860.ghe.pentesting.semmle.net
@@ -1919,7 +1908,7 @@ uploads-ucsisa2.10.ghe.pentesting.semmle.net
 vps113.0u.ghe.pentesting.semmle.net
 0862082579.ghe.pentesting.semmle.net
 _ftp._tcp.0ad1.ghe.pentesting.semmle.net
-www.farm.0atmdc9rahghd1p.ghe.pentesting.semmle.net
+farm.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 10-sas-cas-0017.ghe.pentesting.semmle.net
 web1009.0ff8.ghe.pentesting.semmle.net
 guweb120.0u.ghe.pentesting.semmle.net
@@ -2027,7 +2016,7 @@ avatars-web3242.10.ghe.pentesting.semmle.net
 s1226b-avatars.10.ghe.pentesting.semmle.net
 myspace.0c49.ghe.pentesting.semmle.net
 ppc2.060411-render.ghe.pentesting.semmle.net
-www.samara.086208-render.ghe.pentesting.semmle.net
+samara.086208-render.ghe.pentesting.semmle.net
 0iu9-web10934.ghe.pentesting.semmle.net
 0c49-hss-health-l58.ghe.pentesting.semmle.net
 carter.avatars.10.ghe.pentesting.semmle.net
@@ -2045,7 +2034,7 @@ irs.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 avatars.selenagomez.10.ghe.pentesting.semmle.net
 security.0ff8.ghe.pentesting.semmle.net
 012avayairs.ghe.pentesting.semmle.net
-www.nv.gist.0atmdc9rahghd1p.ghe.pentesting.semmle.net
+nv.gist.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 0iu9-green-pocket-toshima-com.ghe.pentesting.semmle.net
 autodiscover.0u.ghe.pentesting.semmle.net
 10-kareisyuu-biz.ghe.pentesting.semmle.net
@@ -2177,7 +2166,7 @@ web10451.0u.ghe.pentesting.semmle.net
 086208e90.ghe.pentesting.semmle.net
 10-akasia20004.ghe.pentesting.semmle.net
 pages.0000775-8.ghe.pentesting.semmle.net
-www.bkr.060411raw.ghe.pentesting.semmle.net
+bkr.060411raw.ghe.pentesting.semmle.net
 cpprohome04.0iu9.ghe.pentesting.semmle.net
 0atmdc9rahghd1p-dlo.ghe.pentesting.semmle.net
 0547devcrm.ghe.pentesting.semmle.net
@@ -2232,7 +2221,6 @@ johyomi.0u.ghe.pentesting.semmle.net
 066.ghe.pentesting.semmle.net
 ybx3-uuohai-7eam.avatars.10.ghe.pentesting.semmle.net
 0547-dev123.ghe.pentesting.semmle.net
-www.sitemap.060236.ghe.pentesting.semmle.net
 uploads.stg.10.ghe.pentesting.semmle.net
 0391-4y8rnrpb3.ghe.pentesting.semmle.net
 kor.060411.ghe.pentesting.semmle.net
@@ -2261,7 +2249,6 @@ sas-reg-0027.avatars.10.ghe.pentesting.semmle.net
 g2cpx1.066.ghe.pentesting.semmle.net
 cpla2k6.assets.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 svc.10.ghe.pentesting.semmle.net
-nv.086208-gist.ghe.pentesting.semmle.net
 0c49v.ghe.pentesting.semmle.net
 0391-homerenovationsadmin.ghe.pentesting.semmle.net
 ppls.060236-assets.ghe.pentesting.semmle.net
@@ -2326,7 +2313,6 @@ riya.057010media.ghe.pentesting.semmle.net
 ppls-printer1.ppls.assets.060236.ghe.pentesting.semmle.net
 sandbox.10.ghe.pentesting.semmle.net
 0lm-render.ghe.pentesting.semmle.net
-bkr.060411raw.ghe.pentesting.semmle.net
 q14.057010.ghe.pentesting.semmle.net
 web18903.057010-assets.ghe.pentesting.semmle.net
 10-s1341b.ghe.pentesting.semmle.net
@@ -2381,7 +2367,6 @@ render.086208-pay.ghe.pentesting.semmle.net
 cmstest.0c49.ghe.pentesting.semmle.net
 066-cp08dev13.ghe.pentesting.semmle.net
 avatarskjhlhj0313.10.ghe.pentesting.semmle.net
-www.1.ghe.pentesting.semmle.net
 ppls-printer1.ppls.0atmdc9rahghd1passets.ghe.pentesting.semmle.net
 0u-webmail.ghe.pentesting.semmle.net
 0u-pethelper.ghe.pentesting.semmle.net
@@ -2449,7 +2434,7 @@ avatars.10-s1341b.ghe.pentesting.semmle.net
 10-origin.ghe.pentesting.semmle.net
 avatars.10-086208.ghe.pentesting.semmle.net
 10-moment.ghe.pentesting.semmle.net
-www.samara.057010-render.ghe.pentesting.semmle.net
+samara.057010-render.ghe.pentesting.semmle.net
 0atmdc9rahghd1pnov.ghe.pentesting.semmle.net
 valx02.0ff8.ghe.pentesting.semmle.net
 10-acc.ghe.pentesting.semmle.net
@@ -2574,7 +2559,7 @@ uploadshanabicon-com.10.ghe.pentesting.semmle.net
 pages.060411.ghe.pentesting.semmle.net
 0c49vpn.ghe.pentesting.semmle.net
 0ad1-yardin.ghe.pentesting.semmle.net
-www.0aw.ghe.pentesting.semmle.net
+0aw.ghe.pentesting.semmle.net
 0u-2swordstyle.ghe.pentesting.semmle.net
 0000775-pages.ghe.pentesting.semmle.net
 registry.0000775nl.ghe.pentesting.semmle.net
@@ -2615,7 +2600,7 @@ uploadsmetrics.10.ghe.pentesting.semmle.net
 060236-15.ghe.pentesting.semmle.net
 wwu.pages.060236.ghe.pentesting.semmle.net
 ecuador.10.ghe.pentesting.semmle.net
-www.kls.gist.0000775.ghe.pentesting.semmle.net
+kls.gist.0000775.ghe.pentesting.semmle.net
 0tupages.ghe.pentesting.semmle.net
 avatarscarpark.10.ghe.pentesting.semmle.net
 server.10.ghe.pentesting.semmle.net
@@ -2818,7 +2803,6 @@ minehg4.10.ghe.pentesting.semmle.net
 git.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 bumbi1.0ad1.ghe.pentesting.semmle.net
 0c49flores.ghe.pentesting.semmle.net
-www.chaos.060411gist.ghe.pentesting.semmle.net
 nanbacon.avatars.10.ghe.pentesting.semmle.net
 0570108ddd.ghe.pentesting.semmle.net
 052-astro2.ghe.pentesting.semmle.net
@@ -2829,7 +2813,6 @@ nanbacon.avatars.10.ghe.pentesting.semmle.net
 0ucsy11223.ghe.pentesting.semmle.net
 candy9avatars.10.ghe.pentesting.semmle.net
 10hs-eternalstudio-com.ghe.pentesting.semmle.net
-www.kls.060411-gist.ghe.pentesting.semmle.net
 cpla2k6.057010.ghe.pentesting.semmle.net
 avatarssalvador.10.ghe.pentesting.semmle.net
 hss-ppls-0217.0ff8.ghe.pentesting.semmle.net
@@ -2875,7 +2858,6 @@ assets.086208-kor.ghe.pentesting.semmle.net
 0ad1service.ghe.pentesting.semmle.net
 payment.avatars.10.ghe.pentesting.semmle.net
 066firewall.ghe.pentesting.semmle.net
-0render.ghe.pentesting.semmle.net
 astro2.0547.ghe.pentesting.semmle.net
 0c791.ghe.pentesting.semmle.net
 avatars.10-acc.ghe.pentesting.semmle.net
@@ -2993,7 +2975,6 @@ hamse7.10.ghe.pentesting.semmle.net
 0371204hrender.ghe.pentesting.semmle.net
 avatarsconfigsrv.10.ghe.pentesting.semmle.net
 10-csh-3-3.ghe.pentesting.semmle.net
-www.kls.057010.ghe.pentesting.semmle.net
 0iu9hss-health-l58.ghe.pentesting.semmle.net
 16.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 avatars.10-meteor.ghe.pentesting.semmle.net
@@ -3002,7 +2983,7 @@ dev.086208.ghe.pentesting.semmle.net
 avatarsredir.10.ghe.pentesting.semmle.net
 elderberry.10.ghe.pentesting.semmle.net
 7.060411.ghe.pentesting.semmle.net
-www.060411-lap.ghe.pentesting.semmle.net
+060411-lap.ghe.pentesting.semmle.net
 avatarsintima.10.ghe.pentesting.semmle.net
 intima.0391.ghe.pentesting.semmle.net
 pdu8-1.0391.ghe.pentesting.semmle.net
@@ -3037,7 +3018,6 @@ rochester1avatars.10.ghe.pentesting.semmle.net
 web11440.10.ghe.pentesting.semmle.net
 kareisyuu.0ff8.ghe.pentesting.semmle.net
 arctic.0391.ghe.pentesting.semmle.net
-www.beta2.057010.ghe.pentesting.semmle.net
 0ff8ingolf.ghe.pentesting.semmle.net
 057010wd2.ghe.pentesting.semmle.net
 0793render.ghe.pentesting.semmle.net
@@ -3047,14 +3027,13 @@ uploads.10-tnsckd7.ghe.pentesting.semmle.net
 086208pages.ghe.pentesting.semmle.net
 0iu9luckylady.ghe.pentesting.semmle.net
 086208-ops.ghe.pentesting.semmle.net
-www.farm.0atmdc9rahghd1p-render.ghe.pentesting.semmle.net
 billing.avatars.10.ghe.pentesting.semmle.net
 102-157iving.ghe.pentesting.semmle.net
 0ff8-happytrading.ghe.pentesting.semmle.net
 0ff8-apac.ghe.pentesting.semmle.net
 0ff8marlin2001.ghe.pentesting.semmle.net
 04.ghe.pentesting.semmle.net
-www.enciclopedia.media.057010.ghe.pentesting.semmle.net
+enciclopedia.media.057010.ghe.pentesting.semmle.net
 1-avayairs.ghe.pentesting.semmle.net
 02xvayairs.ghe.pentesting.semmle.net
 host-209-149-115-34.052.ghe.pentesting.semmle.net
@@ -3116,7 +3095,6 @@ vis.086208.ghe.pentesting.semmle.net
 misowa1.0ff8.ghe.pentesting.semmle.net
 0838.ghe.pentesting.semmle.net
 10-saf065.ghe.pentesting.semmle.net
-sitemap.0atmdc9rahghd1pgist.ghe.pentesting.semmle.net
 1004sg-raw.ghe.pentesting.semmle.net
 10-s1234b.ghe.pentesting.semmle.net
 0ff82-mfp-col.ghe.pentesting.semmle.net
@@ -3194,7 +3172,6 @@ avatars.mariweb.10.ghe.pentesting.semmle.net
 0jo-gist.ghe.pentesting.semmle.net
 gist.057010.ghe.pentesting.semmle.net
 minne1029.gist.060411.ghe.pentesting.semmle.net
-farm.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 10-ingolf.ghe.pentesting.semmle.net
 seoinjae1avatars.10.ghe.pentesting.semmle.net
 0atmdc9rahghd1ppp.ghe.pentesting.semmle.net
@@ -3269,7 +3246,7 @@ satsuki.0u.ghe.pentesting.semmle.net
 0c49hca-lab3-mac24.ghe.pentesting.semmle.net
 10getmoney.ghe.pentesting.semmle.net
 0odelo.ghe.pentesting.semmle.net
-www.salvador.060411pages.ghe.pentesting.semmle.net
+salvador.060411pages.ghe.pentesting.semmle.net
 stylen.0c49.ghe.pentesting.semmle.net
 0ad1-knots100.ghe.pentesting.semmle.net
 0atmdc9rahghd1praw.ghe.pentesting.semmle.net
@@ -3304,10 +3281,8 @@ kor.0000775.ghe.pentesting.semmle.net
 0547-cp08dev13.ghe.pentesting.semmle.net
 freespace.0ad1.ghe.pentesting.semmle.net
 jpc.060411.ghe.pentesting.semmle.net
-www.habbux.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 themediacodecs.057010-gist.ghe.pentesting.semmle.net
 0-atyponzad.ghe.pentesting.semmle.net
-mail.060236raw.ghe.pentesting.semmle.net
 clear1.0547.ghe.pentesting.semmle.net
 0pl-render.ghe.pentesting.semmle.net
 web2470.086208media.ghe.pentesting.semmle.net
@@ -3431,7 +3406,6 @@ prod.10.ghe.pentesting.semmle.net
 s3.060236.ghe.pentesting.semmle.net
 02-codeload.ghe.pentesting.semmle.net
 corinlhw1avatars.10.ghe.pentesting.semmle.net
-www.mail.raw.0000775.ghe.pentesting.semmle.net
 066-hip-hop.ghe.pentesting.semmle.net
 0c49-hideip-ch.ghe.pentesting.semmle.net
 render.0000775-9.ghe.pentesting.semmle.net
@@ -3473,7 +3447,6 @@ avatars.yougames.10.ghe.pentesting.semmle.net
 043215zyx.ghe.pentesting.semmle.net
 0hv-registry.ghe.pentesting.semmle.net
 avatars-pass.10.ghe.pentesting.semmle.net
-www.farm.057010.ghe.pentesting.semmle.net
 0ad1-fw.ghe.pentesting.semmle.net
 052-web16995.ghe.pentesting.semmle.net
 azazel.avatars.10.ghe.pentesting.semmle.net
@@ -3484,7 +3457,6 @@ hss-ppls-0079.10.ghe.pentesting.semmle.net
 0ff8-ops.ghe.pentesting.semmle.net
 avatars-web1721.10.ghe.pentesting.semmle.net
 1-pages.ghe.pentesting.semmle.net
-accounts.raw.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 060236-cdl.ghe.pentesting.semmle.net
 0u8registry.ghe.pentesting.semmle.net
 y11.060236.ghe.pentesting.semmle.net
@@ -3554,7 +3526,7 @@ satsuki.avatars.10.ghe.pentesting.semmle.net
 0wvvatars.ghe.pentesting.semmle.net
 0atmdc9rahghd1p-5s-2.ghe.pentesting.semmle.net
 066-portaledu5.ghe.pentesting.semmle.net
-www.habbux.0000775.ghe.pentesting.semmle.net
+habbux.0000775.ghe.pentesting.semmle.net
 avatars.10-royalty.ghe.pentesting.semmle.net
 0-origin-cdn.ghe.pentesting.semmle.net
 0ad1-s1341b.ghe.pentesting.semmle.net
@@ -3565,7 +3537,7 @@ gandistq.0547.ghe.pentesting.semmle.net
 gitlab.0ff8.ghe.pentesting.semmle.net
 0nzmedia.ghe.pentesting.semmle.net
 author.10.ghe.pentesting.semmle.net
-www.p202.0atmdc9rahghd1p-assets.ghe.pentesting.semmle.net
+p202.0atmdc9rahghd1p-assets.ghe.pentesting.semmle.net
 yabusaki.10.ghe.pentesting.semmle.net
 fwwilson.0iu9.ghe.pentesting.semmle.net
 immaster01qa.066.ghe.pentesting.semmle.net
@@ -3631,7 +3603,6 @@ africaavatars.10.ghe.pentesting.semmle.net
 0ad1dominoland.ghe.pentesting.semmle.net
 0000775agentx.ghe.pentesting.semmle.net
 _afs3-prserver._udp.0ad1.ghe.pentesting.semmle.net
-100sama.ghe.pentesting.semmle.net
 0ff8clear-healing-info.ghe.pentesting.semmle.net
 0iu9azure.ghe.pentesting.semmle.net
 media.10.ghe.pentesting.semmle.net
@@ -3643,7 +3614,6 @@ avatars.10-csh-3-3.ghe.pentesting.semmle.net
 0391-qoehtjd.ghe.pentesting.semmle.net
 0547l136185.ghe.pentesting.semmle.net
 0ff8-_dmarc.ghe.pentesting.semmle.net
-sitemap.gist.057010.ghe.pentesting.semmle.net
 06023690.ghe.pentesting.semmle.net
 0u-hanabicon-com.ghe.pentesting.semmle.net
 avatars.10-minne1029.ghe.pentesting.semmle.net
@@ -3690,7 +3660,6 @@ yri.060411.ghe.pentesting.semmle.net
 registry.060411hkg.ghe.pentesting.semmle.net
 0ad1enkadestar.ghe.pentesting.semmle.net
 0547-web12841.ghe.pentesting.semmle.net
-www.nv.086208.ghe.pentesting.semmle.net
 _smtp._udp.060411.ghe.pentesting.semmle.net
 0391marlin2000.ghe.pentesting.semmle.net
 juegos.media.060236.ghe.pentesting.semmle.net
@@ -3739,7 +3708,6 @@ test-xinfo358-xserver-com.10.ghe.pentesting.semmle.net
 ew54384r9b0a45.10.ghe.pentesting.semmle.net
 getmoney-avatars.10.ghe.pentesting.semmle.net
 1-render.ghe.pentesting.semmle.net
-www.beta2.086208.ghe.pentesting.semmle.net
 avatars.10-hss-hca-0081.ghe.pentesting.semmle.net
 0u-imarketing019ptn.ghe.pentesting.semmle.net
 066mvm-ccbs-060411.ghe.pentesting.semmle.net
@@ -3766,8 +3734,6 @@ csg.0000775.ghe.pentesting.semmle.net
 web10751.086208.ghe.pentesting.semmle.net
 bumilion2003ptn.0547.ghe.pentesting.semmle.net
 _dmarc.052.ghe.pentesting.semmle.net
-www.nv.086208gist.ghe.pentesting.semmle.net
-www.057010.ghe.pentesting.semmle.net
 060236s.ghe.pentesting.semmle.net
 avatars.10-vanessa.ghe.pentesting.semmle.net
 avatars.10-oknnko11.ghe.pentesting.semmle.net
@@ -3799,7 +3765,6 @@ footstreet.060236s.ghe.pentesting.semmle.net
 5asz8r4avatars.10.ghe.pentesting.semmle.net
 xserver.0547.ghe.pentesting.semmle.net
 0uds5evj.ghe.pentesting.semmle.net
-p202.0atmdc9rahghd1p-assets.ghe.pentesting.semmle.net
 0604112w0.ghe.pentesting.semmle.net
 cloud4.avatars.10.ghe.pentesting.semmle.net
 066rengenosato.ghe.pentesting.semmle.net
@@ -3943,7 +3908,6 @@ themediacodecs.0547.ghe.pentesting.semmle.net
 ebri063182.10.ghe.pentesting.semmle.net
 lect-health-007.10.ghe.pentesting.semmle.net
 animezone.0u.ghe.pentesting.semmle.net
-www.p202.060236-assets.ghe.pentesting.semmle.net
 media.dec.060236.ghe.pentesting.semmle.net
 086208kor.ghe.pentesting.semmle.net
 search.0iu9.ghe.pentesting.semmle.net
@@ -3981,14 +3945,13 @@ nol.060411raw.ghe.pentesting.semmle.net
 0ff8dlw140.ghe.pentesting.semmle.net
 0ad1avayairs.ghe.pentesting.semmle.net
 girllovers5.0ad1.ghe.pentesting.semmle.net
-www.060236-habbux.ghe.pentesting.semmle.net
+060236-habbux.ghe.pentesting.semmle.net
 ew53680r9be08navatars.10.ghe.pentesting.semmle.net
 0predia.ghe.pentesting.semmle.net
 0ff8-aidycool456.ghe.pentesting.semmle.net
 066-ong2012.ghe.pentesting.semmle.net
 avatars.4y8rnrpb3.10.ghe.pentesting.semmle.net
 do504005.0ff8.ghe.pentesting.semmle.net
-habbux.0000775.ghe.pentesting.semmle.net
 0ff8ihappy.ghe.pentesting.semmle.net
 007zhenrenyulecheng-uploads.ghe.pentesting.semmle.net
 10csg-corp-0011.ghe.pentesting.semmle.net
@@ -4042,7 +4005,6 @@ cursosavatars.10.ghe.pentesting.semmle.net
 smtpout2.0u.ghe.pentesting.semmle.net
 fw3jo99jta3.10.ghe.pentesting.semmle.net
 066stage.ghe.pentesting.semmle.net
-chaos.0000775gist.ghe.pentesting.semmle.net
 moment.0c49.ghe.pentesting.semmle.net
 ingolf.0000775-render.ghe.pentesting.semmle.net
 web6111.03s.ghe.pentesting.semmle.net
@@ -4055,7 +4017,6 @@ graphicssoftpre.0391.ghe.pentesting.semmle.net
 marom2-avatars.10.ghe.pentesting.semmle.net
 0cd.ghe.pentesting.semmle.net
 0547-cmstest.ghe.pentesting.semmle.net
-www.p202.060411assets.ghe.pentesting.semmle.net
 0ad1hw.ghe.pentesting.semmle.net
 0ff8-signed.ghe.pentesting.semmle.net
 raw.10.ghe.pentesting.semmle.net
@@ -4182,7 +4143,6 @@ file.10.ghe.pentesting.semmle.net
 0ad1-cms.ghe.pentesting.semmle.net
 usavatars.10.ghe.pentesting.semmle.net
 0000775-irs.ghe.pentesting.semmle.net
-www.057010-desire.ghe.pentesting.semmle.net
 086208.ghe.pentesting.semmle.net
 10-codeload.ghe.pentesting.semmle.net
 avatars.10-web2470.ghe.pentesting.semmle.net
@@ -4234,7 +4194,6 @@ web1721.10.ghe.pentesting.semmle.net
 0ad1-ghcpi.ghe.pentesting.semmle.net
 0ff841-129.ghe.pentesting.semmle.net
 052-alpha.ghe.pentesting.semmle.net
-enciclopedia.media.086208.ghe.pentesting.semmle.net
 qa2.086208.ghe.pentesting.semmle.net
 0391test-xinfo358-xserver-com.ghe.pentesting.semmle.net
 0iu9-reset.ghe.pentesting.semmle.net
@@ -4276,7 +4235,7 @@ staging.0u.ghe.pentesting.semmle.net
 052-collie.ghe.pentesting.semmle.net
 0570100547.ghe.pentesting.semmle.net
 0391-anelog.ghe.pentesting.semmle.net
-www.057010-beta2.ghe.pentesting.semmle.net
+057010-beta2.ghe.pentesting.semmle.net
 0391-s441ipmi.ghe.pentesting.semmle.net
 086208-a.ghe.pentesting.semmle.net
 jsjang693.0ad1.ghe.pentesting.semmle.net
@@ -4334,7 +4293,6 @@ avatars.10-stepparenting.ghe.pentesting.semmle.net
 060236fw.ghe.pentesting.semmle.net
 0udhcpfa2e.ghe.pentesting.semmle.net
 asianain.0391.ghe.pentesting.semmle.net
-www.juegos.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 059-v3-client.ghe.pentesting.semmle.net
 0391-csg-corp-0010.ghe.pentesting.semmle.net
 086208csg.ghe.pentesting.semmle.net
@@ -4345,7 +4303,6 @@ colbasketball.060236pages.ghe.pentesting.semmle.net
 0547-merchant.ghe.pentesting.semmle.net
 066-ssing7.ghe.pentesting.semmle.net
 avatarsmyphpsql71.10.ghe.pentesting.semmle.net
-057010-beta2.ghe.pentesting.semmle.net
 10-desire.ghe.pentesting.semmle.net
 0547haitham.ghe.pentesting.semmle.net
 media.057010.ghe.pentesting.semmle.net
@@ -4396,7 +4353,6 @@ avatars-myspace.10.ghe.pentesting.semmle.net
 052-anac-jp.ghe.pentesting.semmle.net
 0391-nanbacon-com.ghe.pentesting.semmle.net
 0ff8mail.ghe.pentesting.semmle.net
-www.citforum.media.0000775.ghe.pentesting.semmle.net
 jamesf9h1.avatars.10.ghe.pentesting.semmle.net
 wgjhg51m1q2ec7fa.0iu9.ghe.pentesting.semmle.net
 avatars.webmail.10.ghe.pentesting.semmle.net
@@ -4511,7 +4467,6 @@ health.10.ghe.pentesting.semmle.net
 066-seoinjae1.ghe.pentesting.semmle.net
 _dns-push-tls._tcp.0c49.ghe.pentesting.semmle.net
 assets.0000775.ghe.pentesting.semmle.net
-www.060411-desire.ghe.pentesting.semmle.net
 0atmdc9rahghd1p-i3.ghe.pentesting.semmle.net
 0u-lect-health-007.ghe.pentesting.semmle.net
 imarketing020ptnavatars.10.ghe.pentesting.semmle.net
@@ -4558,7 +4513,6 @@ chd-avatars.10.ghe.pentesting.semmle.net
 0547marlin2000.ghe.pentesting.semmle.net
 web10751.avatars.10.ghe.pentesting.semmle.net
 0c49-confluence.ghe.pentesting.semmle.net
-nv.gist.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 ahemskiss1.060411.ghe.pentesting.semmle.net
 uploads-accounting.10.ghe.pentesting.semmle.net
 hastur.060411.ghe.pentesting.semmle.net
@@ -4606,7 +4560,6 @@ siswebmail.080-4.ghe.pentesting.semmle.net
 0ct.ghe.pentesting.semmle.net
 assist5.0u.ghe.pentesting.semmle.net
 0ad1-emperor.ghe.pentesting.semmle.net
-enciclopedia.media.057010.ghe.pentesting.semmle.net
 _avatars-sec._tcp.0u.ghe.pentesting.semmle.net
 uploads-restricted.10.ghe.pentesting.semmle.net
 4ts.0000775.ghe.pentesting.semmle.net
@@ -4625,7 +4578,6 @@ uploads.10flores.ghe.pentesting.semmle.net
 twitch.066.ghe.pentesting.semmle.net
 tnsckd7.10.ghe.pentesting.semmle.net
 wd2.086208.ghe.pentesting.semmle.net
-0aw.ghe.pentesting.semmle.net
 08by2vh2qr-1ssets.ghe.pentesting.semmle.net
 0ad1-cliche.ghe.pentesting.semmle.net
 avatarssas-reg-0085.10.ghe.pentesting.semmle.net
@@ -4659,7 +4611,6 @@ avatarssideway.10.ghe.pentesting.semmle.net
 0ad1mvm-ri-d107219.ghe.pentesting.semmle.net
 hkg.raw.086208.ghe.pentesting.semmle.net
 detyatkoavatars.10.ghe.pentesting.semmle.net
-060411-lap.ghe.pentesting.semmle.net
 052-mobarwl7hri.ghe.pentesting.semmle.net
 0000775yri.ghe.pentesting.semmle.net
 4.086208.ghe.pentesting.semmle.net
@@ -4711,7 +4662,6 @@ registryavatars.10.ghe.pentesting.semmle.net
 web11440.0c49.ghe.pentesting.semmle.net
 uploadsd065137.10.ghe.pentesting.semmle.net
 avatars.10-training.ghe.pentesting.semmle.net
-www.beta2.060411.ghe.pentesting.semmle.net
 066-svcgateway.ghe.pentesting.semmle.net
 0c49jsjang693.ghe.pentesting.semmle.net
 assets.086208-cf.ghe.pentesting.semmle.net
@@ -4754,10 +4704,8 @@ moment.10.ghe.pentesting.semmle.net
 0ff8.0000775.ghe.pentesting.semmle.net
 codeload.lax.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 j0j7qffh.10.ghe.pentesting.semmle.net
-060236-habbux.ghe.pentesting.semmle.net
 0ff8ci.ghe.pentesting.semmle.net
 administrators.0ff8.ghe.pentesting.semmle.net
-www.juegos.media.060236.ghe.pentesting.semmle.net
 10853-gist.ghe.pentesting.semmle.net
 apolloavatars.10.ghe.pentesting.semmle.net
 uploads.086208s3.ghe.pentesting.semmle.net
@@ -4809,7 +4757,6 @@ janggabang.086208media.ghe.pentesting.semmle.net
 0547-uuohai.ghe.pentesting.semmle.net
 nari230410.0iu9.ghe.pentesting.semmle.net
 066-ds5evj.ghe.pentesting.semmle.net
-salvador.060411pages.ghe.pentesting.semmle.net
 avatars.acuzzang.10.ghe.pentesting.semmle.net
 candy9.066.ghe.pentesting.semmle.net
 abcdefgh.0u.ghe.pentesting.semmle.net
@@ -4864,7 +4811,7 @@ avatars.10-akasia20004.ghe.pentesting.semmle.net
 npages.066.ghe.pentesting.semmle.net
 108-784.ghe.pentesting.semmle.net
 artarmonavatars.10.ghe.pentesting.semmle.net
-www.samara.0000775render.ghe.pentesting.semmle.net
+samara.0000775render.ghe.pentesting.semmle.net
 avatars.10gw.ghe.pentesting.semmle.net
 host-209-149-115-34.0391.ghe.pentesting.semmle.net
 hww3633.0c49.ghe.pentesting.semmle.net
@@ -4882,7 +4829,6 @@ uploads.057010-php.ghe.pentesting.semmle.net
 10bau639.ghe.pentesting.semmle.net
 0ad1-signed.ghe.pentesting.semmle.net
 0ulab.ghe.pentesting.semmle.net
-samara.0000775render.ghe.pentesting.semmle.net
 0c494y8rnrpb3.ghe.pentesting.semmle.net
 0u-royalty.ghe.pentesting.semmle.net
 avatars.skinleader.10.ghe.pentesting.semmle.net
@@ -4898,9 +4844,7 @@ dev123-avatars.10.ghe.pentesting.semmle.net
 client.0c49.ghe.pentesting.semmle.net
 060411494.ghe.pentesting.semmle.net
 avatarsshoukichi-org.10.ghe.pentesting.semmle.net
-samara.057010-render.ghe.pentesting.semmle.net
 0u-kool74.ghe.pentesting.semmle.net
-chaos.gist.086208.ghe.pentesting.semmle.net
 detyatko-avatars.10.ghe.pentesting.semmle.net
 avatars.stage1.10.ghe.pentesting.semmle.net
 060411-media.ghe.pentesting.semmle.net
@@ -4968,7 +4912,6 @@ assets.060411-alt.ghe.pentesting.semmle.net
 0ad1dresso.ghe.pentesting.semmle.net
 cpprohome04.066.ghe.pentesting.semmle.net
 0ff8-apache.ghe.pentesting.semmle.net
-kls.gist.0000775.ghe.pentesting.semmle.net
 avatars-render.10.ghe.pentesting.semmle.net
 0c49-hlrdap.ghe.pentesting.semmle.net
 0ff8d086061.ghe.pentesting.semmle.net
@@ -4980,7 +4923,6 @@ render.060236.ghe.pentesting.semmle.net
 romeo.0atmdc9rahghd1p.ghe.pentesting.semmle.net
 registry.057010w3.ghe.pentesting.semmle.net
 mvm-ri-d107219.066.ghe.pentesting.semmle.net
-samara.086208-render.ghe.pentesting.semmle.net
 pzdx3f2ta48ba818j6bnz7.057010-i75.ghe.pentesting.semmle.net
 0391-hanjinho.ghe.pentesting.semmle.net
 057010gist.ghe.pentesting.semmle.net

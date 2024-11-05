@@ -3,10 +3,8 @@ www02.beta.elb.aws.aeroreport.de
 db01.beta.elb.aws.aeroreport.de
 www01.beta.elb.aws.aeroreport.de
 matomo.aeroreport.de
-www.aeroreport.de
 beta.aeroreport.de
 aws.aeroreport.de
-www.aws.aeroreport.de
 production.aeroreport.de
 ar-die-triebwerksmacher-14.aws.aeroreport.de
 ar-die-triebwerksmacher-9.aeroreport.de
@@ -25,7 +23,6 @@ ar-die-triebwerksmacher-9.aws.aeroreport.de
 ar-die-triebwerksmacher-11.aws.aeroreport.de
 ar-die-triebwerksmacher-3.aws.aeroreport.de
 ar-die-triebwerksmacher-2.aws.aeroreport.de
-www.newsletter.aeroreport.de
 ar-die-triebwerksmacher-8.aeroreport.de
 ar-die-triebwerksmacher-2.aeroreport.de
 ar-die-triebwerksmacher-4.aeroreport.de

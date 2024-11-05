@@ -515,7 +515,6 @@ jiratest.pom.extrahop.com
 demo.extrahop.com
 inconspicuous-web.pdx.he.extrahop.com
 integ.he.extrahop.com
-www.stage.extrahop.com
 news.extrahop.com
 marcv.he.extrahop.com
 dillo-proxy-hq.clink.extrahop.com
@@ -532,7 +531,6 @@ sentinel1.extrahop.com
 sentinel1.clink.extrahop.com
 gopi.he.extrahop.com
 performance.training.demos.extrahop.com
-*.i.willm.he.extrahop.com
 compat.iad.hopcloud.extrahop.com
 app.news.extrahop.com
 preprod.www.extrahop.com
@@ -548,7 +546,6 @@ partner.training.extrahop.com
 auth-west.extrahop.com
 calendar.extern.extrahop.com
 mail.extern.extrahop.com
-www.extrahop.com
 www-s.extrahop.com
 hop.extrahop.com
 security.training.demos.extrahop.com

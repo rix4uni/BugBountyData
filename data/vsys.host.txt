@@ -30,7 +30,5 @@ minio1.vsys.host
 cdn2.vsys.host
 iperf.vsys.host
 minio2.vsys.host
-www.vsys.host
-www.test.vsys.host
 mx2.vsys.host
 mx1.vsys.host

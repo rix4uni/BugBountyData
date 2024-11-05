@@ -52,7 +52,6 @@ sub-97-142-186.canva-apps.com
 00000-okta-idphwcdn.23346nginx-ingress-test-23346.a.ea-registry-production.canva-apps.com
 apps.canva-apps.com
 contentapp.canva-apps.com
-www.canva-apps.com
 002tousan-sportsbook-clustermail.9-polishlove1relyingparty-okta-stable.users.testbed.assets.canva-apps.com
 10oktascimserver.emeraldgrouppublishing.com.skyline.portal.crm-stage12.cloud.canva-apps.com
 000014-okta-idp.dev1.canva-apps.com
@@ -66,7 +65,7 @@ app-aafrkf1ri7s.canva-apps.com
 app-aafwzdio55q.canva-apps.com
 crowdstrikeadministrator.canva-apps.com
 crowdstriketestvpn.canva-apps.com
-www.paypal.canva-apps.com
+paypal.canva-apps.com
 crowdstrikestaging.canva-apps.com
 microsoft.canva-apps.com
 app-aafxl9ms1s8.canva-apps.com
@@ -78,7 +77,6 @@ att.canva-apps.com
 aws.crowdstriketest.canva-apps.com
 developgepgitlab.canva-apps.com
 app-abcdefg.canva-apps.com
-paypal.canva-apps.com
 devopscrowdstriketest.canva-apps.com
 crowdstriketestemea.canva-apps.com
 app-aagnn0xplmc.canva-apps.com
@@ -94,7 +92,7 @@ fwcrowdstriketest.canva-apps.com
 app-aafapkzffus.canva-apps.com
 amazon.canva-apps.com
 app-aagkzvxkzuw.canva-apps.com
-www.crowdstriketest.canva-apps.com
+crowdstriketest.canva-apps.com
 testcrowdstriketest.canva-apps.com
 crowdstriketest-k8s-prd.canva-apps.com
 crowdstriketest-public-apps-media.canva-apps.com
@@ -105,7 +103,6 @@ europecrowdstriketest.canva-apps.com
 app-aagkyzuv0ia.canva-apps.com
 app-aagmeb1udni.canva-apps.com
 cgicrowdstriketest.canva-apps.com
-crowdstriketest.canva-apps.com
 svcbrand-gepgitlab.canva-apps.com
 app-aagl5uzz5xu.canva-apps.com
 adminscrowdstriketest.canva-apps.com
@@ -126,14 +123,12 @@ app-aagirgdryhs.canva-apps.com
 securecrowdstriketest.canva-apps.com
 crowdstriketestingress.canva-apps.com
 crowdstriketestnautilus.canva-apps.com
-www.github.canva-apps.com
 crowdstriketest-s3.canva-apps.com
 app-aagmf2b1cte.canva-apps.com
 portal.crowdstriketest.canva-apps.com
-www.google.canva-apps.com
+google.canva-apps.com
 crowdstriketestaccount.canva-apps.com
 app-aagieajdpoo.canva-apps.com
-google.canva-apps.com
 edge-crowdstriketest.canva-apps.com
 crowdstriketest.apac.canva-apps.com
 crowdstriketest-org.canva-apps.com

@@ -1,5 +1,4 @@
 aichat.igloonet.cz
-*.igloonet.cz
 icinga.igloonet.cz
 api.igloonet.cz
 gladys.igloonet.cz
@@ -28,7 +27,6 @@ influxdb.igloonet.cz
 pwpush.igloonet.cz
 one.mrak.igloonet.cz
 flow.mrak.igloonet.cz
-www.mrak.igloonet.cz
 mrak.igloonet.cz
 icinga2.igloonet.cz
 fakt.igloonet.cz
@@ -52,7 +50,6 @@ tweek.igloonet.cz
 sentry.igloonet.cz
 wekan.igloonet.cz
 testcinga.igloonet.cz
-www.igloonet.cz
 git.igloonet.cz
 cr.igloonet.cz
 b.ns.igloonet.cz

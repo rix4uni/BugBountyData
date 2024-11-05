@@ -2825,20 +2825,6 @@ wu2.cfgstage.test-simplycomputermerchants.uccenv4.uccstg.t-mobile.com
 wwp.hotspot.t-mobile.com
 www-test.t-mobile.com
 www-test.test-simplycomputermerchants.52.uccenv4.uccstg.t-mobile.com
-www.busfamdiscount.t-mobile.com
-www.business.t-mobile.com
-www.egrc.external.t-mobile.com
-www.experienceforum.t-mobile.com
-www.genesisptl.t-mobile.com
-www.hotspot.t-mobile.com
-www.my.t-mobile.com
-www.myworklife.t-mobile.com
-www.promotions.t-mobile.com
-www.qvxp-ape.t-mobile.com
-www.referral.t-mobile.com
-www.t-mobile.com
-www.tenant29.5goil.bothell.t-mobile.com
-www.tfb.t-mobile.com
 www2.t-mobile.com
 wwxpol01.t-mobile.com
 xapiptnrqa2-cart.services.tfb.kube.t-mobile.com
@@ -3223,8 +3209,7 @@ wrgweb.cnf.aro402.t-mobile.com
 wrgweb.cnf.lab.t-mobile.com
 wrgweb.irv.t-mobile.com
 wrgweb1.chi.lab.t-mobile.com
-www.docs.t-mobile.com
-www.testmomail.eng.t-mobile.com
+testmomail.eng.t-mobile.com
 wwwold-cfgstage.wwwold-simplycomputermerchants.uccenv4.uccstg.t-mobile.com
 wwwold-simplycomputermerchants.uccenv4.uccstg.t-mobile.com
 zabbix-wu2.cfgstage.test-simplycomputermerchants.uccenv4.uccstg.t-mobile.com
@@ -3853,7 +3838,6 @@ wrg.uccenv3.uccstg.t-mobile.com
 hookup.t-mobile.com
 portal.lrs.t-mobile.com
 sandbox.t-mobile.com
-testmomail.eng.t-mobile.com
 wrg.uccenv4.uccstg.t-mobile.com
 bglr.lab.t-mobile.com
 dev.api.isp.t-mobile.com
@@ -4024,7 +4008,6 @@ prod.gateway-placement.api.isp.kube.t-mobile.com
 syo.speedtest.t-mobile.com
 prdtlbrml0014.t-mobile.com
 prd-hierarchy.hmt.t-mobile.com
-www.hookup.t-mobile.com
 hon.speedtest.t-mobile.com
 mir.speedtest.t-mobile.com
 services.ucc.kube.t-mobile.com
@@ -4414,7 +4397,6 @@ wrgweb.cnf.phi403.t-mobile.com
 wsg.bglr.lab.t-mobile.com
 wsg.pol2env4.uccstg.t-mobile.com
 wsgbglr.lab.t-mobile.com
-www.t-pac.t-mobile.com
 api-eng-devportal.msg.t-mobile.com
 apisecuregateway-ext.t-mobile.com
 bon-k8-ext.msg.t-mobile.com
@@ -4869,7 +4851,6 @@ vsgdae01.sd-edge.t-mobile.com
 wabod01s01.t-mobile.com
 wlui.tt.external.whlsvcs.t-mobile.com
 wsg.mstore.msg.eng.t-mobile.com
-www.portalactivation.t-mobile.com
 wyless.ext.test.t-mobile.com
 zoeystg-int.msg.t-mobile.com
 androidsftp-lab.t-mobile.com
@@ -4967,8 +4948,6 @@ wrapper-api.duck.tst.promos.t-mobile.com
 wrapperapi.duck.dev.promos.t-mobile.com
 wrg.mstore.msg.eng.t-mobile.com
 wrgweb.cnf.aro401.t-mobile.com
-www.advantagesweeps.t-mobile.com
-www.se.t-mobile.com
 apple-ext-gw.t-mobile.com
 apple-qlab06-ext.duck-stg-w2.kube.t-mobile.com
 aro403.t-mobile.com
@@ -5035,8 +5014,6 @@ view.tmobiz.t-mobile.com
 vsgsfe02.sd-edge.t-mobile.com
 wrgweb.cnf.aro403.t-mobile.com
 wrgweb.prod.sipgeo.t-mobile.com
-www.developer.t-mobile.com
-www.notice.t-mobile.com
 aasp.t-mobile.com
 aos.mstore.uccprodgeo.t-mobile.com
 apisearch.shm.t-mobile.com
@@ -5104,7 +5081,6 @@ vsgdce03.sd-edge.t-mobile.com
 wappush.t-mobile.com
 webdev4.rebellion.t-mobile.com
 webilab01.rebellion.t-mobile.com
-www.isp.t-mobile.com
 account.government.t-mobile.com
 api.test.clips.t-mobile.com
 apigwsmg-devstg.t-mobile.com
@@ -5470,7 +5446,6 @@ webtechreb.my.t-mobile.com
 whiteboxstoragepro.t-mobile.com
 wsc.magentaperf.t-mobile.com
 wsgc.stg.sip.t-mobile.com
-www.tsr.t-mobile.com
 xmpp1.ump.t-mobile.com
 api-eng-edgemgmt.msg.t-mobile.com
 atl2.eas.msg.t-mobile.com
@@ -5643,9 +5618,6 @@ vaspmt.t-mobile.com
 vsgdce04.sd-edge.t-mobile.com
 wrapper-api.dev.promos.t-mobile.com
 wsg.ttn2env3.uccstg.t-mobile.com
-www.ams.t-mobile.com
-www.careers.t-mobile.com
-www.hotspots.t-mobile.com
 apple-production-ext.duck-cde-prd-w2.kube.t-mobile.com
 apple-qlab07-ext.duck-stg-w2.kube.t-mobile.com
 applepaymerchantvalidationservice.kube.t-mobile.com
@@ -6721,7 +6693,7 @@ rmn-ping-service.rmn-dev-duck-npe-e1.kube.t-mobile.com
 tpas-qlab06.duck-stg-w2.kube.t-mobile.com
 qlab05.npe.ext.aedge.adn-gw.t-mobile.com
 beta.uep-care.t-mobile.com
-www.qvxp-serve-plab.t-mobile.com
+qvxp-serve-plab.t-mobile.com
 nos.network.t-mobile.com
 pristine.canvas.t-mobile.com
 tst-helios-api.test-promo.t-mobile.com
@@ -6793,7 +6765,7 @@ dev01.npe.east.aedge.adn-gw.t-mobile.com
 ttexpressway1cluster-e.t-mobile.com
 icg01.euv05.t-mobile.com
 prddcext702.external.t-mobile.com
-www.insidernetwork.t-mobile.com
+insidernetwork.t-mobile.com
 dev16.domainmanagement.t-mobile.com
 dmdmcfweb.jazz.t-mobile.com
 tpas-influxdb-stg.duck-stg-w2.kube.t-mobile.com
@@ -7115,7 +7087,7 @@ vepdg-poepg201-14.t-mobile.com
 glance.network.t-mobile.com
 caretechreb.my.t-mobile.com
 cdn.metadata.dev.tv.t-mobile.com
-www.qvxp-sell.t-mobile.com
+qvxp-sell.t-mobile.com
 ext.tt-prd02a.cf.t-mobile.com
 download.ttn2env3.uccstggeo.t-mobile.com
 metropromo.promos.t-mobile.com
@@ -7177,7 +7149,6 @@ www-lb.t-mobile.com
 cns-edgemgmt-api.t-mobile.com
 gos.t-mobile.com
 vasp-nwidstg.t-mobile.com
-www.qvxp-serve.t-mobile.com
 carrierfreedom-dev.test-promo.t-mobile.com
 dealer.invoice.tt.internal.t-mobile.com
 consumer.apimarket.t-mobile.com
@@ -7422,7 +7393,6 @@ wrg5.ttn.uccprodgeo.t-mobile.com
 wrgweb.cnf02.irv402.t-mobile.com
 east-1.load.profile.api.isp.kube.t-mobile.com
 hotfix.vax-security.jazz.t-mobile.com
-www.digital.t-mobile.com
 awsm.jazz.t-mobile.com
 card-engine.reg.dab.t-mobile.com
 certtestextssan0810.t-mobile.com
@@ -7847,7 +7817,6 @@ sentinel.api.isp.kube.t-mobile.com
 cr.stg.linelink.t-mobile.com
 epochstg.t-mobile.com
 certtest-18112020-ext-msan.t-mobile.com
-qvxp-serve-plab.t-mobile.com
 stg.skavaweb.ssp.ccp.t-mobile.com
 api-teststg-int.t-mobile.com
 vasp.core.lab.t-mobile.com
@@ -8143,7 +8112,6 @@ dev.lyr.newhope.kube.t-mobile.com
 dev3.skavapim.ssp.ccp.t-mobile.com
 eportalue.uccprodgeo.t-mobile.com
 prf-helios-notifi.test-promo.t-mobile.com
-qvxp-sell.t-mobile.com
 test1.eservice.t-mobile.com
 dev-tet-appserver-w2a-maximo01.corporate.t-mobile.com
 dev.skavaapiadmin.tbc.ccp.t-mobile.com
@@ -9058,7 +9026,7 @@ dev1.ecommorchestration.ahub.tfb.kube.t-mobile.com
 service.cnsdg.msg.lab.t-mobile.com
 signin.sso.websites.jazz.t-mobile.com
 skavacart.ssp.ccp.t-mobile.com
-www.natetest2.t-mobile.com
+natetest2.t-mobile.com
 dns-test-web2.jazz.t-mobile.com
 download.ttn2env3.ustg.t-mobile.com
 dev-usg.mgmt-npe.kube.t-mobile.com
@@ -9351,7 +9319,6 @@ prd.aedge.adn-gw.t-mobile.com
 dev01.ace.west.aedge.adn-gw.t-mobile.com
 cf-customerservice.test.promos.t-mobile.com
 tfbbug.uccprodgeo.t-mobile.com
-www.tos-shop-dev-ext.dd-stg.kube.t-mobile.com
 dev.media.t-mobile.com
 tpas-wiremock-dev.duck-dev-w2.kube.t-mobile.com
 dev-processpaymentsrouter.npe.eps.t-mobile.com
@@ -9529,7 +9496,6 @@ wrg1.ttn.uccprodgeo.t-mobile.com
 east-1.load.cmsbff.api.isp.kube.t-mobile.com
 pelapple-npe.duck-stg-w2.kube.t-mobile.com
 qtmdatahub.dev.t-mobile.com
-www.mytvision.t-mobile.com
 bff.tfb.t-mobile.com
 pcam-prd.t-mobile.com
 rhr-qlab02.px-npe2301.tke.t-mobile.com
@@ -9809,7 +9775,6 @@ plexpeb3.t-mobile.com
 dev-wrapper-api.test-promo.t-mobile.com
 apiarch21.jazz.t-mobile.com
 dailystaging.business.t-mobile.com
-natetest2.t-mobile.com
 bpsp9-kube.core.lab.t-mobile.com
 legacyportal.stg.iot.geo.t-mobile.com
 prf-promo.test-promo.t-mobile.com
@@ -10175,7 +10140,6 @@ dns-autotest.jazz.t-mobile.com
 dnsc2f.jazz.t-mobile.com
 tam.geo.t-mobile.com
 toolbox.perf.promos.t-mobile.com
-www.irts.t-mobile.com
 bullseye-v2-device.reg.dab.t-mobile.com
 dev1.orderadmin.ahub.tfb.kube.t-mobile.com
 eagstg-ext.msg.t-mobile.com
@@ -10500,7 +10464,6 @@ tst.dab.t-mobile.com
 vsgdae07.sdege.t-mobile.com
 acms-pol.t-mobile.com
 hello-my-dear.jazz.t-mobile.com
-insidernetwork.t-mobile.com
 npe-rallycon.appsec.corporate.t-mobile.com
 prdadscorp202.corporate.t-mobile.com
 ext.tt-prd03e.cf.t-mobile.com
@@ -10554,7 +10517,7 @@ west-2.prod.bulkdata.api.isp.kube.t-mobile.com
 d3-stg-w2-ext.npe-mesh.kube.t-mobile.com
 dns-api101gtest1.jazz.t-mobile.com
 estatemanager-ui.kube.t-mobile.com
-www.tool-terminal.t-mobile.com
+tool-terminal.t-mobile.com
 paymentkithelper.prd.eps.t-mobile.com
 syo5.wrgsec.uccprodgeo.t-mobile.com
 certtest-18112020-ext-ssan.t-mobile.com
@@ -10779,7 +10742,6 @@ prism-datacollector.dev.t-mobile.com
 prd-ssp-digitalapps.corporate.t-mobile.com
 qlab02.signin.sso.websites.jazz.t-mobile.com
 cygttn0140.t-mobile.com
-www.qvxp-sell-plab.t-mobile.com
 jztn-1-stg.jazz.t-mobile.com
 tpas-nintendo.duck-stg-w2.kube.t-mobile.com
 store-locator.reg.dab.t-mobile.com
@@ -11008,7 +10970,6 @@ prdwebgreen.uccadminportal.kube.t-mobile.com
 rt-ac68u-6680.t-mobile.com
 stg.tpas-api-v1-app-domain.pel.ccp.t-mobile.com
 global.sdege.t-mobile.com
-www.chadtestrevoke.t-mobile.com
 plab03.npe.east.aedge.adn-gw.t-mobile.com
 sdu-kc.t-mobile.com
 metropromo.dev.promos.t-mobile.com
@@ -11269,7 +11230,6 @@ stg.skavacms.ssp.ccp.t-mobile.com
 ildstg.uccprodgeo.t-mobile.com
 rt-ac68u-7168.t-mobile.com
 ccdui.kube.t-mobile.com
-www.iot.t-mobile.com
 east-1.uat.test-nclm.isp.kube.t-mobile.com
 easlab5.msg.lab.t-mobile.com
 offer-setup-api.test.promos.t-mobile.com
@@ -11284,7 +11244,6 @@ qlab2.skavaweb.ssp.ccp.t-mobile.com
 stg.tpas-api-v1-price-order-qlab01.pel.ccp.t-mobile.com
 testkevin.t-mobile.com
 wrgweb.cnf02.phi402.t-mobile.com
-www.staging.t-mobile.com
 qlab7.mcadmin.ahub.kube.t-mobile.com
 labvcep2391.t-mobile.com
 stg.tpas-api-v1-portin-validation-domain.pel.ccp.t-mobile.com
@@ -11665,11 +11624,6 @@ cmawsnpew2a.t-mobile.com
 vsgche10.sd-edge.t-mobile.com
 wrgcore.cnf.irv401.sip.t-mobile.com
 card-engine-direct.reg.dab.t-mobile.com
-*.t-mobile.com
-*.dd-stg.kube.t-mobile.com
-*.msg.t-mobile.com
-*.tfb.t-mobile.com
-*.ahub.t-mobile.com
 ia-wat.prd.t-mobile.com
 syncup-signalr-dev.t-mobile.com
 syncup-signalr-stg.t-mobile.com

@@ -283,12 +283,10 @@ ulsmuat-api.fcc.gov
 dirsloginpoc.fcc.gov
 azfw.fcc.gov
 files.fcc.gov
-www.fcc.gov
 lyncdiscover.fcc.gov
 _sips._tcp.fcc.gov
 puppetmaster.fcc.gov
 vipsns1.fcc.gov
-www.consumercomplaints.fcc.gov
 _sip._tcp.fcc.gov
 systems.fcc.gov
 dmz-ns.fcc.gov
@@ -301,7 +299,6 @@ _dmarc.info.fcc.gov
 _sipfederationtls._tcp.fcc.gov
 sip.fcc.gov
 api-proxy-uat4.fcc.gov
-www.data.fcc.gov
 _h323cs._udp.fcc.gov
 docs.fcc.gov
 api2.fcc.gov
@@ -313,7 +310,6 @@ docs-uat2.fcc.gov
 puppetmasterprod.fcc.gov
 _sip._tls.fcc.gov
 drupaladmin.fcc.gov
-www.auctionsigon2.fcc.gov
 wtb06.fcc.gov
 mailgate1.fcc.gov
 infoserver.fcc.gov
@@ -330,7 +326,6 @@ croatia.fcc.gov
 esnmail3.fcc.gov
 george1.fcc.gov
 supportcenter.fcc.gov
-www.pss.fcc.gov
 real.fcc.gov
 dc-isas-ltm1.fcc.gov
 wtbwww06.fcc.gov

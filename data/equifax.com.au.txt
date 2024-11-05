@@ -54,9 +54,6 @@ trk.equifax.com.au
 uat.iws.ver.auth.equifax.com.au
 uat.verifier.verificationexchange.equifax.com.au
 view.services.equifax.com.au
-www.cta.idmatrix.equifax.com.au
-www.equifax.com.au
-www.together.equifax.com.au
 xferah.equifax.com.au
 api.pa.equifax.com.au
 bhvpn.equifax.com.au
@@ -93,10 +90,4 @@ unavailable.cta.idmatrix.equifax.com.au
 unavailable.qa0.idmatrix.equifax.com.au
 ve.consumer.equifax.com.au
 verifier.verificationexchange.equifax.com.au
-www.commerce.equifax.com.au
-www.eperformance.equifax.com.au
-www.eperformancetest.equifax.com.au
-www.hsbc.equifax.com.au
-www.ignitedirect.equifax.com.au
-www.marketplace.equifax.com.au
-www.qa0.idmatrix.equifax.com.au
+commerce.equifax.com.au

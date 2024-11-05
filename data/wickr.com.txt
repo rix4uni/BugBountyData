@@ -1,4 +1,3 @@
-*.wickr.com
 admin.wickr.com
 admin-prod.wickr.com
 amazon.wickr.com
@@ -42,15 +41,6 @@ temp-gw-pro-prod.wickr.com
 testing-amazon.wickr.com
 vc.wickr.com
 walmart.wickr.com
-www.wickr.com
-www.amazon.wickr.com
-www.fed.wickr.com
-www.finra.wickr.com
-www.incyte.wickr.com
-www.nic.wickr.com
-www.partners.wickr.com
-www.preprod-amazon.wickr.com
-www.testing-amazon.wickr.com
 logs.wickr.com
 plus-download.wickr.com
 dls.wickr.com

@@ -1,5 +1,4 @@
 rubygems.pkg.keygen.sh
-*.keygen.sh
 aardwolf.keygen.sh
 status.keygen.sh
 dist.keygen.sh

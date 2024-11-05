@@ -1,10 +1,9 @@
-*.menulog.co.nz
-*.couriers.menulog.co.nz
-*.emails.menulog.co.nz
-*.feature.menulog.co.nz
-*.frontend.office.stag.clops.menulog.co.nz
-*.insidetrack.menulog.co.nz
-*.orders.menulog.co.nz
+couriers.menulog.co.nz
+emails.menulog.co.nz
+feature.menulog.co.nz
+frontend.office.stag.clops.menulog.co.nz
+insidetrack.menulog.co.nz
+orders.menulog.co.nz
 acc-shop.menulog.co.nz
 access.menulog.co.nz
 auth.menulog.co.nz
@@ -13,15 +12,10 @@ brandmanagement.menulog.co.nz
 canvas.menulog.co.nz
 cftest-customermanagement.menulog.co.nz
 connect.menulog.co.nz
-couriers.menulog.co.nz
 customermanagement.menulog.co.nz
 drivers.menulog.co.nz
-emails.menulog.co.nz
 events.menulog.co.nz
-feature.menulog.co.nz
-frontend.office.stag.clops.menulog.co.nz
 help.menulog.co.nz
-insidetrack.menulog.co.nz
 insights.menulog.co.nz
 invoicemanagement.menulog.co.nz
 itemavailability.menulog.co.nz
@@ -39,7 +33,6 @@ offline.menulog.co.nz
 ordermanagement.menulog.co.nz
 ordermanagementapi.menulog.co.nz
 orderpadconfigurationweb.menulog.co.nz
-orders.menulog.co.nz
 partner.menulog.co.nz
 partnercentreaccountmanagement.menulog.co.nz
 partneressentials.menulog.co.nz
@@ -60,8 +53,6 @@ rgm.menulog.co.nz
 shop.menulog.co.nz
 test-shop.menulog.co.nz
 treatmas.menulog.co.nz
-www.menulog.co.nz
-www.offers.menulog.co.nz
 zeusexternal.menulog.co.nz
 ablink.emails.menulog.co.nz
 device2009360-cb3e2484-local.menulog.co.nz
@@ -1111,7 +1102,6 @@ test-shopcf-193-41-223-169.menulog.co.nz
 acceptestauacceptantawaacceptds.menulog.co.nz
 6b0a0077-9d5e-4c26-9004-35fe61d9fa92.menulog.co.nz
 e585b3e4ba8eandroide4b8ade79a84id-cannot-be-resolved-or-is-not.menulog.co.nz
-www.ablink.emails.menulog.co.nz
 amp1-prod-ie-stage-blue-westeurope.menulog.co.nz
 emailabo.menulog.co.nz
 parsapner-ssapampcards.menulog.co.nz
@@ -1777,7 +1767,7 @@ airrulestoreservice.menulog.co.nz
 d8decatur.menulog.co.nz
 test-dns-cda03dc7.menulog.co.nz
 uat--ablink-192-84-18-113160.menulog.co.nz
-www.ablink.orders.menulog.co.nz
+ablink.orders.menulog.co.nz
 poisk.menulog.co.nz
 rftp1taurantevents.menulog.co.nz
 host-209-149-115-32.menulog.co.nz

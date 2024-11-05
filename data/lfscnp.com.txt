@@ -102,7 +102,7 @@ dev.lpayapp-dev3.lfscnp.com
 acc14015290fc651998ab55f2d05.001.development.odds-np.lfscnp.com
 dgv-kada-collector-test-snowflake.dev.data-governance-np.lfscnp.com
 lpay-monolith-admin-dev1.dev.lpayapp-dev1.lfscnp.com
-www.37degress.digitalweb.lfscnp.com
+37degress.digitalweb.lfscnp.com
 admin.lpay.lfscnp.com
 collections-pcc-adapter-rl-poc-dev.collections-sandbox.lfscnp.com
 gerry-slack-bot-workshop-api-dev.sandbox.risk-compliance-conduct-sandbox.lfscnp.com
@@ -118,7 +118,7 @@ ocr-service-prod.prod.o10s.lfscnp.com
 transaction-enrichment-service-test.01.test.eapi-pcinp.lfscnp.com
 3e9c5eceea190c764c66488e1b210c24d95.dev.lpayapp-dev3.lfscnp.com
 andrew-woollard-workshop-slack-bot-workshop-api-dev.sandbox.se-platform.lfscnp.com
-www.apply-test-au.originations-np.lfscnp.com
+apply-test-au.originations-np.lfscnp.com
 a95e8bd7a7d3e4abf36ee42fc55a5c8f.sandbox.se-platform.lfscnp.com
 b814949eab08eecae4372482d387c9e0c05.dev.lpayapp-dev4.lfscnp.com
 lpay-payment-plan-service-test.test.lpay-np.lfscnp.com
@@ -656,7 +656,6 @@ lpay-monolith-admin-sandbox.sandbox.lpay-sandbox.lfscnp.com
 collections-vision-adapter.collections-sandbox.lfscnp.com
 metadata.custodian.lfscnp.com
 a90b2eaff367ae790fc79e4a0fec.001.development.odds-np.lfscnp.com
-www.apply-test.originations-np.lfscnp.com
 c1264d4ef6fe28a85d9298c24cef0ba.sandbox.lpay-sandbox.lfscnp.com
 jason-pei-workshop-dev.sandbox.se-platform.lfscnp.com
 lpay-service-account-helper-dev2-au.dev.lpayapp-dev2.lfscnp.com
@@ -680,7 +679,6 @@ customer-support-service-test.test.customer-support-np.lfscnp.com
 events-service-test.01.test.eapi-pcinp.lfscnp.com
 lpay-service-billing-engine-dev1.dev.lpayapp-dev1.lfscnp.com
 se-task-dev.dev.se-platform-np.lfscnp.com
-apply-test-au.originations-np.lfscnp.com
 20b084e637f48b96e0d4f4f92a45.001.development.odds-np.lfscnp.com
 cnp-ts-api-test-sandbox.sandbox.odds-sandbox.lfscnp.com
 kdo6-slack-bot-workshop-api-dev.01.dev.eapi-np.lfscnp.com
@@ -1115,7 +1113,6 @@ athena-dev.dev.midrange-np.lfscnp.com
 82be856423d2aa1bacddb66f779.dev.merchant-services-np.lfscnp.com
 applybuy-vision-bridge.merchant-wallet-sandbox.lfscnp.com
 plh2-slack-bot-workshop-api-dev.dev.se-platform-np.lfscnp.com
-www.001.testapp.sandbox.lfscnp.com
 lpay-equifax-mock-dev1-stub.dev.lpayapp-dev1.lfscnp.com
 wetcms.prod.digitalweb.lfscnp.com
 ab19fc74ffc4a69c68e6903ec8da0ab2.collections-sandbox.lfscnp.com
@@ -1695,7 +1692,6 @@ mirjam-slack-bot-workshop-api-dev.sandbox.se-platform.lfscnp.com
 okta-event-webhook.dev.se-platform-np.lfscnp.com
 okta-migration-api-dev.dev.se-platform-np.lfscnp.com
 service-profiles-test.new.01.test.eapi-np.lfscnp.com
-37degress.digitalweb.lfscnp.com
 houston.dataops-astro-spike.datalake-sandbox.lfscnp.com
 bank-connect-service-test.np.o10s.lfscnp.com
 collections-events-subscriber-prod.collections-prod.lfscnp.com
@@ -2246,7 +2242,6 @@ auth.login.test.se-platform-np.lfscnp.com
 applybuy-report-service-dev.dev.merchant-services-np.lfscnp.com
 ldap-filenet-qa.dev.midrange-np.lfscnp.com
 feature-au-ht-main.apply-test.originations-np.lfscnp.com
-www.tmpkong.apigateway-sandbox.lfscnp.com
 go-api-chrism-dev.test.sandbox.lfscnp.com
 rsa-otp-service-dev.new.01.dev.eapi-pcinp.lfscnp.com
 auth.test.servicecentre.digitalservicing-np.lfscnp.com

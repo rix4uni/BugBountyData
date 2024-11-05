@@ -1,4 +1,3 @@
-*.lachain.io
 app.lachain.io
 bridge1.lachain.io
 dfwstrapi.lachain.io
@@ -24,7 +23,6 @@ test-hv.lachain.io
 testdapp.lachain.io
 testnet-graph-node.lachain.io
 wallet.lachain.io
-www.lachain.io
 bridge-balancer1.lachain.io
 relayer.lachain.io
 relayer6.lachain.io

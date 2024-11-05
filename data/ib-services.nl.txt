@@ -31,7 +31,7 @@ feature-save-changes-19616843.ibuildings.ib-services.nl
 feature-subsite-27213970.ib-services.nl
 feature-migration-vergaderingen-27213970.ib-services.nl
 v0-2-test-36273755.ibuildings.ib-services.nl
-www.zlm.ib-services.nl
+zlm.ib-services.nl
 audit-issues-26991521.ibuildings.ib-services.nl
 feature-layout-improvements-24798978.showbizz24.ib-services.nl
 feature-short-url-nick.27213970.ib-services.nl
@@ -79,7 +79,7 @@ feature-php72-support-18801401.ibuildings.ib-services.nl
 master-19627526.ibuildings.ib-services.nl
 competentie-tool.ib-services.nl
 drupal10-upgrade-16372408.ibuildings.ib-services.nl
-www.werkenbij.zlm.ib-services.nl
+werkenbij.zlm.ib-services.nl
 rechtsbijstand.zlmv5.ib-services.nl
 feature-dbseed-26991521.ibuildings.ib-services.nl
 prod-members.enex.ib-services.nl
@@ -88,11 +88,10 @@ feature-participatie-27213970.ib-services.nl
 feature-security-26991521.ibuildings.ib-services.nl
 hotfix-dpc20-239-config-16372408.ibuildings.ib-services.nl
 security-update-8-9-16-24798978.showbizz24.ib-services.nl
-www.werkenbij.zlmv5.ib-services.nl
+werkenbij.zlmv5.ib-services.nl
 feature-import-from-tce-18801401.ibuildings.ib-services.nl
 feature-shorturl-27213970.ib-services.nl
 hotfix-invalid-enddate-19627526.ibuildings.ib-services.nl
-werkenbij.zlmv5.ib-services.nl
 feature-hero-component-27213970.ib-services.nl
 storybook.mijn.zlm.ib-services.nl
 feature-drupal-updates-16372408.ibuildings.ib-services.nl
@@ -100,11 +99,10 @@ feature-shorten-env-urls.27213970.ib-services.nl
 ica.ibuildings.ib-services.nl
 static.rechtsbijstand.zlm2021.ib-services.nl
 test.tpl-ws.dev.ib-services.nl
-werkenbij.zlm.ib-services.nl
 feature-k8s-deployment-19616843.ibuildings.ib-services.nl
 k8s-example-53f191c2.ibuildings.ib-services.nl
 k8s-example-8f182e41.ibuildings.ib-services.nl
-www.zlm2021.ib-services.nl
+zlm2021.ib-services.nl
 mijn.zlmv5.ib-services.nl
 feature-layout-improvements-24798978.redactie24.ib-services.nl
 audit-issues-xss-nginx-26991521.ibuildings.ib-services.nl
@@ -144,7 +142,7 @@ rechtsbijstand.zlm2021.ib-services.nl
 feature-pg-contact-27213970.ibuildings.ib-services.nl
 master-16372408.ibuildings.ib-services.nl
 master-24798978.redactie24.ib-services.nl
-www.zlmv5.ib-services.nl
+zlmv5.ib-services.nl
 rechtsbijstand.zlm.ib-services.nl
 feature-drupal-upgrade-16372408.ibuildings.ib-services.nl
 urenoverzicht.ibuildings.ib-services.nl

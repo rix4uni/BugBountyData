@@ -23,17 +23,6 @@ services.dev.keepersecurity.eu
 services.qa.keepersecurity.eu
 services.qa2.keepersecurity.eu
 staging.keepersecurity.eu
-www.keepersecurity.eu
-www.admin.keepersecurity.eu
-www.admin.dev.keepersecurity.eu
-www.admin.qa.keepersecurity.eu
-www.admin.qa2.keepersecurity.eu
-www.dev.keepersecurity.eu
-www.qa.keepersecurity.eu
-www.qa2.keepersecurity.eu
-www.qats.keepersecurity.eu
-www.services.keepersecurity.eu
-www.services.dev.keepersecurity.eu
 gateway.qa.keepersecurity.eu
 nat.qa.keepersecurity.eu
 nat.keepersecurity.eu

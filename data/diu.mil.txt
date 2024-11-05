@@ -1,4 +1,3 @@
-*.diu.mil
 blueuas.diu.mil
 fileshare.diu.mil
 mta-sts.diu.mil
@@ -10,7 +9,6 @@ syslog1.diu.mil
 vpn.diu.mil
 workspaces.diu.mil
 workspaces2.diu.mil
-www.diu.mil
 vdi.diu.mil
 sfdc._domainkey.diu.mil
 salesforce._domainkey.diu.mil

@@ -103,12 +103,11 @@ mx2.mail.wobcom.de
 lg.lab.wobcom.de
 mailbox2.mail.wobcom.de
 cdr.istra.wobcom.de
-www.d.web.wobcom.de
+d.web.wobcom.de
 apax-ng.service.wobcom.de
 webmail.wobcom.de
 fuzzy.mail.wobcom.de
 a110.speedtest.wobcom.de
-www.wobcom.de
 s02.speedtest.lab.wobcom.de
 outbound-silver.staging.mail.wobcom.de
 akvorado.lab.wobcom.de
@@ -124,7 +123,6 @@ logs.staging.mail.wobcom.de
 ihvs0413-stawag-web.infra.wobcom.de
 mx1.staging.mail.wobcom.de
 voice.wobcom.de
-www.staging.wobcom.de
 sentry.wobcom.de
 login.wobcom.de
 gw.wobcom.de
@@ -144,7 +142,6 @@ das.service.wobcom.de
 ihvs0435-gaia-x-validator.infra.wobcom.de
 dashboard.service.wobcom.de
 das.staging.service.wobcom.de
-d.web.wobcom.de
 acs.wobcom.de
 staging.acs.wobcom.de
 test.autoconf.service.wobcom.de
@@ -179,7 +176,6 @@ abis-waiputv.service.wobcom.de
 mtext-test.service.wobcom.de
 staging.autoconf.service.wobcom.de
 t.web.wobcom.de
-www.t.web.wobcom.de
 gitlab.wobcom.de
 api.dns-intern01.service.wobcom.de
 dns-intern01.service.wobcom.de
@@ -356,7 +352,6 @@ tcds-dinos.service.wobcom.de
 cfhs2101.infra.wobcom.de
 fastnetmon.staging.service.wobcom.de
 ae0.111.cfrc0001.core.wobcom.de
-www.vault.service.wobcom.de
 monitor.wobcom.de
 cahs2041.infra.wobcom.de
 cprx1.pbx.wobcom.de

@@ -1,11 +1,9 @@
 sptrack.trellis.coffee
 tech.trellis.coffee
 api-gateway.trellis.coffee
-www.api-gateway.trellis.coffee
 design.trellis.coffee
 support.trellis.coffee
 delivery.trellis.coffee
 api.trellis.coffee
 admin.trellis.coffee
-www.trellis.coffee
 c.trellis.coffee

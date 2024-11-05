@@ -1,5 +1,4 @@
 arb.ahgora.com.br
-*.ahgora.com.br
 agreements-api.app.ahgora.com.br
 cdn.ahgora.com.br
 pw2.www.ahgora.com.br
@@ -48,16 +47,14 @@ test.ahgora.com.br
 sentry.ahgora.com.br
 dash.ahgora.com.br
 mirror.www.ahgora.com.br
-www.uni.ahgora.com.br
+uni.ahgora.com.br
 mon1.ahgora.com.br
 dados.ahgora.com.br
-uni.ahgora.com.br
 ti-glpi.ahgora.com.br
 gestao.ahgora.com.br
 qst.ahgora.com.br
 tryon.ahgora.com.br
 integra.ahgora.com.br
-www.ahgora.com.br
 registry.ahgora.com.br
 rocketchat.ahgora.com.br
 aplicacoes.ahgora.com.br

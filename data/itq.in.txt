@@ -1,6 +1,6 @@
 bidemo.itq.in
 smtp.itq.in
-www.delivery.itq.in
+delivery.itq.in
 mobile.itq.in
 paytm.itq.in
 lccservice.itq.in
@@ -18,7 +18,6 @@ trainings.itq.in
 hmpr.itq.in
 apisupport.itq.in
 lccintegrator.itq.in
-delivery.itq.in
 slcm.itq.in
 financial.itq.in
 mail.itq.in
@@ -27,7 +26,6 @@ estreaming.itq.in
 icc.itq.in
 lms.itq.in
 bi.itq.in
-www.itq.in
 minirules.itq.in
 vr3service.itq.in
 itqwebsite.itq.in
@@ -39,7 +37,6 @@ pat.itq.in
 test.itq.in
 ibe.itq.in
 dms.itq.in
-*.itq.in
 demo.itq.in
 email.itq.in
 ems.itq.in
@@ -1695,8 +1692,7 @@ writing.itq.in
 www-ahooga.itq.in
 www-autotrader.itq.in
 www-hotmail.itq.in
-www.itqalerts.itq.in
-www.trainings.itq.in
+itqalerts.itq.in
 wxpn.itq.in
 x-15.itq.in
 xara.itq.in

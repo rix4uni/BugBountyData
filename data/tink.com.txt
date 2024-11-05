@@ -3,7 +3,7 @@ mtls.api.staging.kirkby.tink.com
 resources.tink.com
 rz1.queens.tink.com
 wireless-bridge-1.queens.tink.com
-www.mtls.jpm.production.oxford.tink.com
+mtls.jpm.production.oxford.tink.com
 wireless-bridge-2.queens.tink.com
 dhl.tink.com
 api.sandbox.tink3.tink.com
@@ -23,7 +23,6 @@ status-sandbox.tink.com
 199.224.15.140.dhcp.queens.tink.com
 docs.us.tink.com
 queens2.tink.com
-www.tink.com
 199.224.15.154.dhcp.queens.tink.com
 api.us.tink.com
 se.tink.com
@@ -104,7 +103,7 @@ gw1.queens.tink.com
 mtls.api.staging.jersey.tink.com
 statusbeta.tink.com
 virtual-accounts.preprod.oxford.tink.com
-www.api.production.jersey.tink.com
+api.production.jersey.tink.com
 199.224.15.128.dhcp.queens.tink.com
 ads-193-170-084-176.dinamlex.tink.com
 mr.rz1.queens.tink.com
@@ -133,7 +132,6 @@ mr.queens.tink.com
 mtls.api.preprod.neston.tink.com
 mtls.api.production.kerry.tink.com
 rz1.newark.tink.com
-www.blog.tink.com
 benl-cetelem.link.tink.com
 merchants.preprod.oxford.tink.com
 mtls.api.production.neston.tink.com
@@ -181,7 +179,6 @@ console.staging.oxford.tink.com
 api.staging.cardiff.tink.com
 199.224.15.150.dhcp.queens.tink.com
 mtls.api.staging.neston.tink.com
-mtls.jpm.production.oxford.tink.com
 openbanking.tink.com
 aggregation.production.tink.com
 api.staging.jesrsey.tink.com
@@ -199,7 +196,6 @@ helpdesk.tink.com
 199.224.15.151.dhcp.queens.tink.com
 demo-it.link.tink.com
 mtls.jpm.staging.jersey.tink.com
-www.cm1.kyb.tink.com
 199.224.15.144.dhcp.queens.tink.com
 199.224.15.156.dhcp.queens.tink.com
 doc.tink.com
@@ -209,7 +205,7 @@ api-gateway.backend.console.tink.com
 support.tink.com
 199.224.15.141.dhcp.queens.tink.com
 199.224.15.153.dhcp.queens.tink.com
-www.api.staging.jersey.tink.com
+api.staging.jersey.tink.com
 consumer.tink.com
 199.224.15.133.dhcp.queens.tink.com
 larchmont.tink.com
@@ -218,7 +214,6 @@ switch1.queens.tink.com
 jws.jpm.staging.jersey.tink.com
 queens1.tink.com
 aggregation.staging.tink.com
-api.staging.jersey.tink.com
 console.us.tink.com
 smtp.tink.com
 mtls.api.production.oxford.tink.com
@@ -243,7 +238,6 @@ visa-a2a.staging.oxford.tink.com
 vpn1.queens.tink.com
 mtls.api.staging.cardiff.tink.com
 americanexpress.fr.link.tink.com
-api.production.jersey.tink.com
 hub2.queens.tink.com
 send.tink.com
 tink-ila-fw-001.tink.com

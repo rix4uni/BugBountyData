@@ -1,6 +1,5 @@
-*.ckla.staging.amplify.com
 ckla.staging.amplify.com
-*.poc.learning.amplify.com
+poc.learning.amplify.com
 colonialliteracy.amplify.com
 scienceofreading.amplify.com
 akronliteracy.amplify.com

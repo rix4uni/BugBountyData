@@ -3,7 +3,7 @@ autodiscover.authorize.net
 extprecp1f.authorize.net
 extprefe1f.authorize.net
 securequickcommercenet.authorize.net
-www.community.developer.cas.authorize.net
+community.developer.cas.authorize.net
 bbt.vpos.authorize.net
 13123-occ0-transact.authorize.net
 79802-occ0-scotest.authorize.net
@@ -53,12 +53,12 @@ mail.authorize.net
 anetrelay4f.authorize.net
 sandbox.authorize.net
 vpos.authorize.net
-www.community.developer.authorize.net
+community.developer.authorize.net
 57761-oce0-verify.authorize.net
 95749-oce0-partner.authorize.net
 45869-occ-securecapitalbankcardcom.authorize.net
 25943-occ0-content.authorize.net
-www.secure.authorize.net
+secure.authorize.net
 mail02.payment.authorize.net
 75074-oce-cardpresent.authorize.net
 76516-occ-merchant.authorize.net
@@ -123,7 +123,6 @@ cpmerchant2.authorize.net
 ucsd.vpos.authorize.net
 81234-oce0-logintest.authorize.net
 13123-occ-transact.authorize.net
-www.developer.authorize.net
 logintest.authorize.net
 testcontent.authorize.net
 approve.authorize.net
@@ -160,7 +159,6 @@ activate.authorize.net
 company.authorize.net
 com.liferay.commerce.payment.method.authorize.net
 developer.plus.authorize.net
-secure.authorize.net
 45324-occ0-accesstest.authorize.net
 86960-occ-securemerchantwarehousecom.authorize.net
 testpartner.authorize.net
@@ -211,7 +209,7 @@ nps.vpos.authorize.net
 anetrelay2f.authorize.net
 cas.authorize.net
 spf2.authorize.net
-www.images.payment.authorize.net
+images.payment.authorize.net
 cocard.vpos.authorize.net
 43484-oce-securepracticepaysolutioncom.authorize.net
 10.86.180.25login.authorize.net
@@ -236,7 +234,6 @@ idol.authorize.net
 38854-occ0-secure-ak.authorize.net
 13256-oce0-testcaptcha.authorize.net
 app.payment.authorize.net
-community.developer.authorize.net
 extta4f.authorize.net
 forms.authorize.net
 fw1-2.authorize.net
@@ -282,21 +279,18 @@ status.authorize.net
 18854-oce0-bapi.authorize.net
 98383-oce0-access.authorize.net
 79210-oce-test.authorize.net
-community.developer.cas.authorize.net
 extpreems1f.authorize.net
 sjemta01.authorize.net
 75470-oce-accountcapitalbankcardcom.authorize.net
 50680-occ-testverify.authorize.net
 75074-occ0-cardpresent.authorize.net
 statictest.authorize.net
-www.cas.authorize.net
 13256-occ0-testcaptcha.authorize.net
 15609-oce-cpmerchant.authorize.net
 50680-oce-testverify.authorize.net
 boarding.authorize.net
 extfe4f.authorize.net
 extweb3f.authorize.net
-images.payment.authorize.net
 sandbox.paybylink.plus.authorize.net
 secure2.authorize.net
 88541-occ0-bapitest.authorize.net
@@ -318,7 +312,6 @@ supporttest.authorize.net
 about.authorize.net
 pivotalpayments.vpos.authorize.net
 87856-oce-securemerchantcommercenet.authorize.net
-www.authorize.net
 captcha.authorize.net
 dpf.authorize.net
 25119-oce-captcha.authorize.net
@@ -346,7 +339,6 @@ sandbox.plus.authorize.net
 25984-oce-sandbox.authorize.net
 25119-oce0-captcha.authorize.net
 2.authorize.net
-www.verify.authorize.net
 qaems.authorize.net
 mycomputer.authorize.net
 jake.authorize.net
@@ -355,6 +347,5 @@ pay.authorize.net
 office.krishnapranami.authorize.net
 development.authorize.net
 psc.authorize.net
-www.app.payment.authorize.net
 integration.authorize.net
 extta4.authorize.net

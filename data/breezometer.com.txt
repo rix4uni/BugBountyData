@@ -3,7 +3,6 @@ blog.breezometer.com
 info.breezometer.com
 api.breezometer.com
 api-b2c.breezometer.com
-www.breezometer.com
 image-widget.breezometer.com
 accuracy-confidence-map.breezometer.com
 bi.breezometer.com
@@ -64,7 +63,6 @@ staging.api.breezometer.com
 us-stations-map-for-apple.breezometer.com
 raam-test.breezometer.com
 gateway.breezometer.com
-www.bi.breezometer.com
 starter7.api.breezometer.com
 tlc-social-login.api.breezometer.com
 mssql-users-admin.api.breezometer.com
@@ -169,7 +167,6 @@ wwp.api.breezometer.com
 ivote.api.breezometer.com
 happythai.api.breezometer.com
 wwwgames.api.breezometer.com
-www.staging.api.breezometer.com
 yyesvdaozmvk.breezometer.com
 trolley.api.breezometer.com
 pie-cloud.api.breezometer.com
@@ -282,7 +279,7 @@ ktyrhxrknviz.breezometer.com
 users-adminprometheus.api.breezometer.com
 pim123.api.breezometer.com
 1337722-22.chat.api.breezometer.com
-www.backload.mllp.api.breezometer.com
+backload.mllp.api.breezometer.com
 mgordlfknpez.breezometer.com
 starter.v1.api.breezometer.com
 prod.users-admin.api.breezometer.com
@@ -478,7 +475,7 @@ topmedjimurjeinfo.api.breezometer.com
 priv.api.breezometer.com
 nov-staging.api.breezometer.com
 starter.web.api.breezometer.com
-www.web.api.breezometer.com
+web.api.breezometer.com
 dev3.dr.api.breezometer.com
 nxt.api.breezometer.com
 zmkwivnkvpov.breezometer.com
@@ -496,7 +493,7 @@ brz-corecdn.api.breezometer.com
 pie-access.api.breezometer.com
 users-admin-image.api.breezometer.com
 compute.api.breezometer.com
-www.activity.api.breezometer.com
+activity.api.breezometer.com
 payment.api-beta.breezometer.com
 123178-28.chat.api.breezometer.com
 _sip._tcp.meet.api.breezometer.com
@@ -642,11 +639,11 @@ netlify.tools.api.breezometer.com
 olnnplrrljfu.breezometer.com
 drupal-tools.api.breezometer.com
 access.api.breezometer.com
-www.prod.api.breezometer.com
+prod.api.breezometer.com
 staging5.api.breezometer.com
 newmailstaging.api.breezometer.com
 nnitenklorry.breezometer.com
-www.validation.api.breezometer.com
+validation.api.breezometer.com
 creative.apndigital.api.breezometer.com
 tzowckmnjsjz.breezometer.com
 toolsprometheus.api.breezometer.com
@@ -656,7 +653,7 @@ pie-mysql.api.breezometer.com
 1324071-21.chat.api.breezometer.com
 stag.api.breezometer.com
 _ts3._udp.api.breezometer.com
-www.usw2.api.breezometer.com
+usw2.api.breezometer.com
 brz-core-mssql.api.breezometer.com
 estore.api.breezometer.com
 ui-nonprod.api.breezometer.com
@@ -760,7 +757,6 @@ partner.users-admin.api.breezometer.com
 mysql.api.breezometer.com
 cit.api.breezometer.com
 s3-staging.api.breezometer.com
-activity.api.breezometer.com
 1457801-1.chat.api.breezometer.com
 users-admin.stripe.api.breezometer.com
 users-admincareers.api.breezometer.com
@@ -834,7 +830,7 @@ piedb.api.breezometer.com
 pay-staging.api.breezometer.com
 netrange-50.api.breezometer.com
 security-staging.api.breezometer.com
-www.mobil.api.breezometer.com
+mobil.api.breezometer.com
 1070321-21.chat.api.breezometer.com
 levisth.api.breezometer.com
 tipti.api.breezometer.com
@@ -848,7 +844,7 @@ lp.api.breezometer.com
 mobilestoreby.api.breezometer.com
 brz-corelegacy.api.breezometer.com
 _kerberos-master._udp.api.breezometer.com
-www.superpharm.api.breezometer.com
+superpharm.api.breezometer.com
 avanticatn.api.breezometer.com
 conf.api.breezometer.com
 webserver1us.breezometer.com
@@ -866,7 +862,7 @@ cpt.api.breezometer.com
 1459098-48.chat.api.breezometer.com
 bali.api.breezometer.com
 103389-39.chat.api.breezometer.com
-www.art.api.breezometer.com
+art.api.breezometer.com
 gate-www.api.breezometer.com
 7.api-beta.breezometer.com
 my.api.breezometer.com
@@ -908,7 +904,7 @@ toskysoftcom.api.breezometer.com
 b1b.api.breezometer.com
 b2c-website-lb-prod.api.breezometer.com
 oauth-brz-core.api.breezometer.com
-www.green.api.breezometer.com
+green.api.breezometer.com
 brz-core.acc.api.breezometer.com
 pieapp.api.breezometer.com
 cbf8.api.breezometer.com
@@ -924,12 +920,11 @@ local-staging.api.breezometer.com
 motorsport.api.breezometer.com
 beta.users-admin.api.breezometer.com
 eventing-staging.api.breezometer.com
-www.downloads.api.breezometer.com
 staging-careers.api.breezometer.com
 brz-core.proxy.api.breezometer.com
 stagingir.api.breezometer.com
 users-admin.content.api.breezometer.com
-www.fun.api.breezometer.com
+fun.api.breezometer.com
 1402704-4.chat.api.breezometer.com
 test4.api.breezometer.com
 1459042-42.chat.api.breezometer.com
@@ -943,7 +938,6 @@ threat-advisories.api.breezometer.com
 archive-staging.api.breezometer.com
 oauth-starter.api.breezometer.com
 presentation.breezometer.com
-validation.api.breezometer.com
 ace.api.breezometer.com
 v2.api.breezometer.com
 v2-staging.api.breezometer.com
@@ -1025,7 +1019,7 @@ backup2.api.breezometer.com
 alt.api-beta.breezometer.com
 brz-core-market.api.breezometer.com
 uk.api.breezometer.com
-www.sepaio.api.breezometer.com
+sepaio.api.breezometer.com
 plugins.api.breezometer.com
 access-tools.api.breezometer.com
 corporate-www.api.breezometer.com
@@ -1140,14 +1134,13 @@ staging-image.api.breezometer.com
 moto-pointcompl.api.breezometer.com
 wwwextranet.api.breezometer.com
 administrator.tools.api.breezometer.com
-www.soporte.api.breezometer.com
+soporte.api.breezometer.com
 users-admin.client.api.breezometer.com
 1067486-36.chat.api.breezometer.com
 cas.api-beta.breezometer.com
 kctyvokypuws.breezometer.com
 1450951-1.chat.api.breezometer.com
 ipv3staging.api.breezometer.com
-sepaio.api.breezometer.com
 1388791-41.chat.api.breezometer.com
 sept.brz-core.api.breezometer.com
 v2-tools.api.breezometer.com
@@ -1532,7 +1525,7 @@ developer.api.breezometer.com
 api2www.api.breezometer.com
 role-tools.api.breezometer.com
 mec.api.breezometer.com
-www.sandbox.v1.api.breezometer.com
+sandbox.v1.api.breezometer.com
 v1-tools.api.breezometer.com
 w1-staging.api.breezometer.com
 starterwordpress.api.breezometer.com
@@ -1582,7 +1575,6 @@ origin-pie.api.breezometer.com
 stagingcms0.api.breezometer.com
 engineering.api-beta.breezometer.com
 private.pie.api.breezometer.com
-www.tour.api.breezometer.com
 fipxlkwoydmo.breezometer.com
 local.tools.api.breezometer.com
 wwwswagger.api.breezometer.com
@@ -1606,7 +1598,6 @@ pie.local.api.breezometer.com
 teampro.api.breezometer.com
 brz-core.legacy.api.breezometer.com
 administrator.starter.api.breezometer.com
-www.athena.api.breezometer.com
 autoconfig.m.api.breezometer.com
 starter-login.api.breezometer.com
 cit.hybrid.ccv.api.breezometer.com
@@ -1718,7 +1709,6 @@ piewp.api.breezometer.com
 sit.eu-central-1.eu.account.api.breezometer.com
 monitor-starter.api.breezometer.com
 rbwkapgkonms.breezometer.com
-www.client.api.breezometer.com
 drop.pie.api.breezometer.com
 school.api.breezometer.com
 brz-coreconf.api.breezometer.com
@@ -1755,7 +1745,7 @@ guidestaging.api.breezometer.com
 payment.users-admin.api.breezometer.com
 users-admin.wordpress.api.breezometer.com
 pptp.api.breezometer.com
-www.start.api.breezometer.com
+start.api.breezometer.com
 215-15.chat.api.breezometer.com
 code.users-admin.api.breezometer.com
 users-admineng.api.breezometer.com
@@ -1820,7 +1810,7 @@ eco.api.breezometer.com
 _amt._udp.api.breezometer.com
 brz-core.oauth2.api.breezometer.com
 win.api.breezometer.com
-www.english.api.breezometer.com
+english.api.breezometer.com
 simplesystemtrading.api.breezometer.com
 history-check.api-beta.breezometer.com
 19staging.api.breezometer.com
@@ -1857,7 +1847,6 @@ golestan.api.breezometer.com
 proxy.pie.api.breezometer.com
 tools.client.api.breezometer.com
 access.users-admin.api.breezometer.com
-superpharm.api.breezometer.com
 doc.api.breezometer.com
 fwovankzrokz.breezometer.com
 lab-users-admin.api.breezometer.com
@@ -2014,7 +2003,7 @@ zen.api.breezometer.com
 ou.api.breezometer.com
 bikehut-com-br.api.breezometer.com
 beta-pie.api.breezometer.com
-www.maps.api.breezometer.com
+maps.api.breezometer.com
 legacy.starter.api.breezometer.com
 thegirlybookclubcom.api.breezometer.com
 pjxskuklthbw.breezometer.com
@@ -2149,7 +2138,7 @@ data.api-beta.breezometer.com
 staging.administrator.api.breezometer.com
 rstaging.api.breezometer.com
 storage-tools.api.breezometer.com
-www.docs.api.breezometer.com
+docs.api.breezometer.com
 grid.api.breezometer.com
 build.pie.api.breezometer.com
 pictures.api.breezometer.com
@@ -2186,7 +2175,6 @@ compute-tools.api.breezometer.com
 ngdnbltliumy.breezometer.com
 openfire.api.breezometer.com
 hanquockr.api.breezometer.com
-www.dare.api.breezometer.com
 sara.api.breezometer.com
 db-tools.api.breezometer.com
 altpie.api.breezometer.com
@@ -2204,7 +2192,7 @@ wp.users-admin.api.breezometer.com
 center.api.breezometer.com
 staging.cdn.api.breezometer.com
 starterpayment.api.breezometer.com
-www.backpack.api.breezometer.com
+backpack.api.breezometer.com
 1207697-47.chat.api.breezometer.com
 users-adminldap.api.breezometer.com
 starter-server.api.breezometer.com
@@ -2255,7 +2243,6 @@ trennungsschmerzen.api.breezometer.com
 1142634-34.chat.api.breezometer.com
 staging-owa.api.breezometer.com
 mapsstaging.api.breezometer.com
-www.starter.api.breezometer.com
 priv.api-beta.breezometer.com
 tools.review.api.breezometer.com
 qwhzskgplgft.breezometer.com
@@ -2337,7 +2324,6 @@ staging-projects.api.breezometer.com
 api-pie.api.breezometer.com
 conf-users-admin.api.breezometer.com
 mobileteam.api.breezometer.com
-web.api.breezometer.com
 d.www.api.breezometer.com
 starter.proxy.api.breezometer.com
 dti.sdip.cit.cc.api.breezometer.com
@@ -2438,7 +2424,7 @@ uaytqwxxkfct.breezometer.com
 meet.api.breezometer.com
 istaging.api.breezometer.com
 www-nov.api.breezometer.com
-www.transfer.api.breezometer.com
+transfer.api.breezometer.com
 knntlrgpmftr.breezometer.com
 backup5.api.breezometer.com
 bb.api.breezometer.com
@@ -2473,7 +2459,7 @@ my-staging.api.breezometer.com
 json05.api.breezometer.com
 dev.starter.api.breezometer.com
 users-admin2022.api.breezometer.com
-www.tech.api.breezometer.com
+tech.api.breezometer.com
 connect.api-beta.breezometer.com
 radiusstaging.api.breezometer.com
 brz-core-access.api.breezometer.com
@@ -2490,7 +2476,6 @@ atseuromaster.api.breezometer.com
 starter-plugins.api.breezometer.com
 delivery-dates.api.breezometer.com
 es.api.breezometer.com
-www.c.api.breezometer.com
 review.api-beta.breezometer.com
 1072801-1.chat.api.breezometer.com
 piedev.api.breezometer.com
@@ -2671,7 +2656,6 @@ stagingphpmyadmin.api.breezometer.com
 toolscore.api.breezometer.com
 1444605-5.chat.api.breezometer.com
 erp.api.breezometer.com
-docs.api.breezometer.com
 staging-dec.api.breezometer.com
 brz-corestorage.api.breezometer.com
 tools-prometheus.api.breezometer.com
@@ -2691,7 +2675,7 @@ developer.tools.api.breezometer.com
 tools.www1.api.breezometer.com
 s1-starter.api.breezometer.com
 v1-starter.api.breezometer.com
-www.v3.api.breezometer.com
+v3.api.breezometer.com
 2012.pie.api.breezometer.com
 inmpnqdwrkyy.breezometer.com
 prd.binary.us-west-2.scbe.api.breezometer.com
@@ -2720,7 +2704,6 @@ pie-stripe.api.breezometer.com
 ftpadmin.www.api.breezometer.com
 netherlandsstaging.api.breezometer.com
 brz-coreservice.api.breezometer.com
-prod.api.breezometer.com
 mobi.api.breezometer.com
 brz-core.tech.api.breezometer.com
 squirrelmail.api-beta.breezometer.com
@@ -2763,7 +2746,7 @@ webmail.api.breezometer.com
 bm.api.breezometer.com
 www2.dr.api.breezometer.com
 ipv3.api-beta.breezometer.com
-www.monitor.api.breezometer.com
+monitor.api.breezometer.com
 av-staging.api.breezometer.com
 incoming-staging.api.breezometer.com
 conf-starter.api.breezometer.com
@@ -2841,7 +2824,6 @@ toolsshopify.api.breezometer.com
 anew-mon.api.breezometer.com
 guiastaging.api.breezometer.com
 brz-coremta-sts.api.breezometer.com
-www.spb.api.breezometer.com
 careers.users-admin.api.breezometer.com
 enktdnxrmpzx.breezometer.com
 gh-staging.api.breezometer.com
@@ -2873,7 +2855,6 @@ toolscorp.api.breezometer.com
 products.api.breezometer.com
 hka.chain.api.breezometer.com
 test-starter.api.breezometer.com
-monitor.api.breezometer.com
 opendocs-global.api.breezometer.com
 rhuuxcfnvqpp.breezometer.com
 tools.s1.api.breezometer.com
@@ -2884,7 +2865,6 @@ beddr.api.breezometer.com
 plugins.api-beta.breezometer.com
 starternetlify.api.breezometer.com
 code.api.breezometer.com
-backload.mllp.api.breezometer.com
 1083535-35.chat.api.breezometer.com
 eng.api.breezometer.com
 pie-raw.api.breezometer.com
@@ -2919,7 +2899,6 @@ cust74.api.breezometer.com
 ftpd-www.api.breezometer.com
 stagingforum.api.breezometer.com
 tools.info.api.breezometer.com
-transfer.api.breezometer.com
 users-admin-shopify.api.breezometer.com
 assets.api.breezometer.com
 ygjrkepyvynn.breezometer.com
@@ -2941,7 +2920,6 @@ asset.pie.api.breezometer.com
 qyjrkwarmhno.breezometer.com
 stagingwww.api.breezometer.com
 wb.api.breezometer.com
-usw2.api.breezometer.com
 pie.access.api.breezometer.com
 galeria.api.breezometer.com
 review-staging.api.breezometer.com
@@ -3016,7 +2994,6 @@ b-staging.api.breezometer.com
 corp-staging.api.breezometer.com
 stagingg.api.breezometer.com
 hella-poc.breezometer.com
-www.api.breezometer.com
 dhcp.api.breezometer.com
 directstaging.api.breezometer.com
 staging.review.api.breezometer.com
@@ -3098,7 +3075,6 @@ pieoauth2.api.breezometer.com
 help.api.breezometer.com
 p3.api.breezometer.com
 staginggroups.api.breezometer.com
-backpack.api.breezometer.com
 lalo.api.breezometer.com
 toy.api.breezometer.com
 ftp.api.breezometer.com
@@ -3158,7 +3134,6 @@ toolslegacy.api.breezometer.com
 pie.ads.api.breezometer.com
 starter-wordpress.api.breezometer.com
 stagingredirector.api.breezometer.com
-sandbox.v1.api.breezometer.com
 apollostaging.api.breezometer.com
 brz-core.partner.api.breezometer.com
 logs.api.breezometer.com
@@ -3177,7 +3152,7 @@ item.api.breezometer.com
 125374-24.chat.api.breezometer.com
 cwc.api.breezometer.com
 vista.api.breezometer.com
-www.2.api.breezometer.com
+2.api.breezometer.com
 plugins.brz-core.api.breezometer.com
 szotioctbixk.breezometer.com
 rzumifooqogz.breezometer.com
@@ -3247,7 +3222,6 @@ pie-acc.api.breezometer.com
 latiendaencasaes.api.breezometer.com
 core-users-admin.api.breezometer.com
 users-adminreview.api.breezometer.com
-www.api-beta.breezometer.com
 1341592-42.chat.api.breezometer.com
 web.brz-core.api.breezometer.com
 akamaistaging.api.breezometer.com
@@ -3267,7 +3241,6 @@ mail2.api.breezometer.com
 grafana.api.breezometer.com
 starter.faq.api.breezometer.com
 server5.www2.dr.api.breezometer.com
-www.stg.api.breezometer.com
 ir.starter.api.breezometer.com
 kzyosgnunbdo.breezometer.com
 shopbwelltw.api.breezometer.com
@@ -3404,7 +3377,6 @@ users-admin-cloud.api.breezometer.com
 app.pie.api.breezometer.com
 lbksidcpbhdv.breezometer.com
 www-staging.api.breezometer.com
-tech.api.breezometer.com
 bnhlootslkmq.breezometer.com
 administrator.pie.api.breezometer.com
 stagingfinal.api.breezometer.com

@@ -1,13 +1,12 @@
-*.upstox.com
-*.dev.upstox.com
-*.partners.upstox.com
-*.prod.upstox.com
-*.service-qa.upstox.com
-*.service-uat.upstox.com
-*.static.upstox.com
-*.static-uat.upstox.com
-*.uat.upstox.com
-*.uat1.upstox.com
+dev.upstox.com
+partners.upstox.com
+prod.upstox.com
+service-qa.upstox.com
+service-uat.upstox.com
+static.upstox.com
+static-uat.upstox.com
+uat.upstox.com
+uat1.upstox.com
 1p.upstox.com
 abc-orderbook.upstox.com
 access.upstox.com
@@ -42,7 +41,6 @@ cricexchange.upstox.com
 cricexchange-api.upstox.com
 cricinvest-api.upstox.com
 crm.upstox.com
-dev.upstox.com
 dev-in.upstox.com
 dev-validate.upstox.com
 developer.upstox.com
@@ -115,7 +113,6 @@ origin-service-uat-int.service-uat.upstox.com
 origin-service-uat.uat1.upstox.com
 oss.upstox.com
 outbound.upstox.com
-partners.upstox.com
 payin-service-qa-qa-int.service-qa.upstox.com
 payin-service-uat.uat1.upstox.com
 payment-callback-service-uat.upstox.com
@@ -134,7 +131,6 @@ pro.upstox.com
 pro-alpha.upstox.com
 pro-beta.upstox.com
 pro2.upstox.com
-prod.upstox.com
 profile.upstox.com
 profile-service-qa-qa-int.service-qa.upstox.com
 qa-my-4.upstox.com
@@ -158,9 +154,7 @@ sendy.upstox.com
 sensibull.upstox.com
 service.upstox.com
 service-cf.upstox.com
-service-qa.upstox.com
 service-request-qa-int.service-qa.upstox.com
-service-uat.upstox.com
 service-uat-cf.upstox.com
 sgb.upstox.com
 simsim.upstox.com
@@ -174,8 +168,6 @@ sparkline-int.static-uat.upstox.com
 sparkline.static.upstox.com
 sparkline.static-uat.upstox.com
 star.uat.upstox.com
-static.upstox.com
-static-uat.upstox.com
 static-uat.static-uat.upstox.com
 status.upstox.com
 stories.upstox.com
@@ -194,7 +186,6 @@ trade-history-qa-int.service-qa.upstox.com
 transactions.upstox.com
 tst12.upstox.com
 tv.upstox.com
-uat.upstox.com
 uat-chart-v2.upstox.com
 uat-holding-cf.upstox.com
 uat-invest.upstox.com
@@ -215,7 +206,6 @@ uat-v2.upstox.com
 uat.access.upstox.com
 uat.licipo.upstox.com
 uat.optionstrategy.upstox.com
-uat1.upstox.com
 unionbudget2022.upstox.com
 uplink.upstox.com
 upstox-api-rest-service-b.prod.upstox.com
@@ -235,8 +225,6 @@ webapp-uat-dev-1346.upstox.com
 wp.upstox.com
 ws.upstox.com
 ws-api.upstox.com
-www.upstox.com
-www.outbound.upstox.com
 ami.upstox.com
 api-v2.upstox.com
 appu.uat1.upstox.com
@@ -492,7 +480,6 @@ webapp-uat.dev.upstox.com
 crm-status.upstox.com
 uat-test-ws.upstox.com
 market-data-v1-uat.upstox.com
-www.uat-v2.upstox.com
 jenkins-nga.upstox.com
 market-data-feeder.prod.upstox.com
 payout-service.prod.upstox.com

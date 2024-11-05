@@ -49,20 +49,11 @@ slot-thailand.phonegap.com
 mediterranean.phonegap.com
 aws.phonegap.com
 afw.d18.dev.phonegap.com
-www.brahmatemple.phonegap.com
-www.econ-dc3.phonegap.com
-www.wiki.phonegap.com
-www.phonegap.com
 update.api.phonegap.com
-www.blog.phonegap.com
 bloombergbetablog.phonegap.com
 blogfoxriverbloomberg.phonegap.com
 bloomberglpblogfoxriver.phonegap.com
 00-v0-okta-network-gateway-prodsashidthakur1.build.phonegap.com
-*.phonegap.com
-*.build.phonegap.com
-*.aws.build.phonegap.com
-*.aws.phonegap.com
 stage.docs.build.phonegap.com
 2fbuild.phonegap.com
 stage.phonegap.com
@@ -81,6 +72,5 @@ test.app.phonegap.com
 plugins.phonegap.com
 git.phonegap.com
 meetup.phonegap.com
-www.build.phonegap.com
 buildstage.phonegap.com
 2fcommunity.phonegap.com

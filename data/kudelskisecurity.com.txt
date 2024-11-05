@@ -6,7 +6,6 @@ iam.kudelskisecurity.com
 portal-staging.kudelskisecurity.com
 cfstg.kudelskisecurity.com
 resources.kudelskisecurity.com
-www.kudelskisecurity.com
 splunk-events-multiaz.kudelskisecurity.com
 portal-pbrav.kudelskisecurity.com
 splunk-events.kudelskisecurity.com
@@ -23,7 +22,7 @@ drand2.kudelskisecurity.com
 partners.kudelskisecurity.com
 sip.kudelskisecurity.com
 sipamr.kudelskisecurity.com
-www.secureblueprint.kudelskisecurity.com
+secureblueprint.kudelskisecurity.com
 keylookup.kudelskisecurity.com
 testcve.kudelskisecurity.com
 chainoffools.kudelskisecurity.com

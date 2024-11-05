@@ -1,4 +1,3 @@
-*.avax-dev.network
 api.avax-dev.network
 bridgeandtunnel.avax-dev.network
 bridgeandtunnel-experimental.avax-dev.network
@@ -23,10 +22,6 @@ wallet-beta.avax-dev.network
 warden1.avax-dev.network
 warden2.avax-dev.network
 warden3.avax-dev.network
-www.noproxy-warden1.avax-dev.network
-www.warden1.avax-dev.network
-www.warden2.avax-dev.network
-www.warden3.avax-dev.network
 argocd.avax-dev.network
 backstage.avax-dev.network
 payment-gateway.avax-dev.network
@@ -48,7 +43,6 @@ bridge-api.avax-dev.network
 nft-api.avax-dev.network
 bitcoin-bridge-api.avax-dev.network
 charlie-test.avax-dev.network
-www.avax-dev.network
 on-chain-rfq-demo-dev.avax-dev.network
 argocd-development.avax-dev.network
 _dmarc.avax-dev.network

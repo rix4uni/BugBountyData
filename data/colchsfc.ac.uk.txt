@@ -14,7 +14,6 @@ vle.colchsfc.ac.uk
 portal.colchsfc.ac.uk
 staff.colchsfc.ac.uk
 re.colchsfc.ac.uk
-www.colchsfc.ac.uk
 proxy.colchsfc.ac.uk
 library.colchsfc.ac.uk
 storm.colchsfc.ac.uk
@@ -26,7 +25,7 @@ computing.colchsfc.ac.uk
 svr-work-stud.colchsfc.ac.uk
 easylink.colchsfc.ac.uk
 students.colchsfc.ac.uk
-www.remote.colchsfc.ac.uk
+remote.colchsfc.ac.uk
 autodiscover.colchsfc.ac.uk
 estream.colchsfc.ac.uk
 media.colchsfc.ac.uk
@@ -48,7 +47,6 @@ maths.colchsfc.ac.uk
 applications.colchsfc.ac.uk
 english.colchsfc.ac.uk
 busstudies.colchsfc.ac.uk
-remote.colchsfc.ac.uk
 modlang.colchsfc.ac.uk
 law.colchsfc.ac.uk
 remoteadmin.colchsfc.ac.uk
@@ -79,11 +77,10 @@ idrac-esxi-m-03.colchsfc.ac.uk
 papercut.colchsfc.ac.uk
 remotesupport.colchsfc.ac.uk
 idrac-esxi-s-03.colchsfc.ac.uk
-www.consultation.colchsfc.ac.uk
 attendance.advantage.colchsfc.ac.uk
 idp.colchsfc.ac.uk
 svr-work-14.colchsfc.ac.uk
-www.barracuda.colchsfc.ac.uk
+barracuda.colchsfc.ac.uk
 etype.colchsfc.ac.uk
 vcsa-01.colchsfc.ac.uk
 radius.colchsfc.ac.uk
@@ -126,7 +123,6 @@ test.wcfwebservice.colchsfc.ac.uk
 idrac.n-esxi-02.colchsfc.ac.uk
 outbound.colchsfc.ac.uk
 tillsadmin.colchsfc.ac.uk
-barracuda.colchsfc.ac.uk
 console.colchsfc.ac.uk
 workfolders.colchsfc.ac.uk
 idrac-esxi-n-01.colchsfc.ac.uk
@@ -145,7 +141,3 @@ dell-scg.colchsfc.ac.uk
 reswm10.colchsfc.ac.uk
 mail.colchsfc.ac.uk
 svr-work-13.colchsfc.ac.uk
-*.colchsfc.ac.uk
-*.advantage.colchsfc.ac.uk
-*.moodle.colchsfc.ac.uk
-*.staff.advantage.colchsfc.ac.uk

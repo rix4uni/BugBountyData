@@ -14,7 +14,6 @@ prod.fanniemay.com
 rstatic.locations.fanniemay.com
 staging.fanniemay.com
 test-akamai.fanniemay.com
-www.fanniemay.com
 www3.fanniemay.com
 cdn1.fanniemay.com
 cdn2.fanniemay.com
@@ -26,4 +25,3 @@ m.fanniemay.com
 mstage.fanniemay.com
 mstage.www.fanniemay.com
 origin-cache.fanniemay.com
-www.dev.fanniemay.com

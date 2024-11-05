@@ -31,7 +31,7 @@ view-api5-06.dc.elisa.fi
 unauthorized-00.dc.elisa.fi
 applewiki.elisa.fi
 unauthorized8-1.dc.elisa.fi
-www.dc.elisa.fi
+dc.elisa.fi
 view-api-6-0.dc.elisa.fi
 view-api2-9.dc.elisa.fi
 mycompany.emv-lab2.elisa.fi
@@ -86,7 +86,7 @@ view-api-6-6.dc.elisa.fi
 view-api-1-8-6.dc.elisa.fi
 chattst.elisa.fi
 view-api6-7.dc.elisa.fi
-www.view-api4-38.dc.elisa.fi
+view-api4-38.dc.elisa.fi
 view-api-81.dc.elisa.fi
 view-api-8-6.dc.elisa.fi
 auto.elisa.fi
@@ -160,7 +160,7 @@ view-api-07-7.dc.elisa.fi
 carrierservices.elisa.fi
 unauthorized-0-1.dc.elisa.fi
 view-api0-8.dc.elisa.fi
-www.view-api-435.dc.elisa.fi
+view-api-435.dc.elisa.fi
 view-api1-3-8.dc.elisa.fi
 view-api-160.dc.elisa.fi
 view-api-50-6.dc.elisa.fi
@@ -216,7 +216,7 @@ view-api-350.dc.elisa.fi
 view-api-89.dc.elisa.fi
 view-api-55-7.dc.elisa.fi
 view-api99-5.dc.elisa.fi
-www.io.elisa.fi
+io.elisa.fi
 ge-stt-poc.da.elisa.fi
 assets.elisa.fi
 view-api-2-4.dc.elisa.fi
@@ -330,7 +330,7 @@ view-api-53-7-4.dc.elisa.fi
 bullets.elisa.fi
 view-api-871.dc.elisa.fi
 view-api-494.dc.elisa.fi
-www.cis.elisa.fi
+cis.elisa.fi
 view-api-45-4.dc.elisa.fi
 view-api090.dc.elisa.fi
 helpnettest.elisa.fi
@@ -354,7 +354,7 @@ s3.ceph.elisa.fi
 view-api-43-7.dc.elisa.fi
 view-api9-96.dc.elisa.fi
 viihde-epg-api-prod.csf.elisa.fi
-www.cloudvoice1.elisa.fi
+cloudvoice1.elisa.fi
 view-api0-1.dc.elisa.fi
 view-api-15-9-9.dc.elisa.fi
 corporate.elisa.fi
@@ -431,7 +431,7 @@ view-api3-43.dc.elisa.fi
 view-api-111.dc.elisa.fi
 sso.id-test.elisa.fi
 view-api1-2-7.dc.elisa.fi
-www.view-api1-8-3.dc.elisa.fi
+view-api1-8-3.dc.elisa.fi
 cobby.elisa.fi
 view-api31.dc.elisa.fi
 paku.id.elisa.fi
@@ -631,7 +631,6 @@ view-api-1-64.dc.elisa.fi
 view-api-15-98.dc.elisa.fi
 view-api-923.dc.elisa.fi
 view-api-49-4.dc.elisa.fi
-www.elisa.fi
 view-api1-5.dc.elisa.fi
 view-api--9.dc.elisa.fi
 view-api09-1.dc.elisa.fi
@@ -647,7 +646,7 @@ view-api-5-7.dc.elisa.fi
 idols.elisa.fi
 view-api14.dc.elisa.fi
 content-api.elisa.fi
-www.unauthorized-95.dc.elisa.fi
+unauthorized-95.dc.elisa.fi
 content-api.external-resource.dev.elisa.fi
 view-api-1-9-8.dc.elisa.fi
 edut.elisa.fi
@@ -655,7 +654,7 @@ dev.elisa.fi
 view-api4-03.dc.elisa.fi
 chat.elisa.fi
 view-api2-15.dc.elisa.fi
-www.view-api2-2-6.dc.elisa.fi
+view-api2-2-6.dc.elisa.fi
 view-api0-99.dc.elisa.fi
 view-api0-97.dc.elisa.fi
 view-api-01.dc.elisa.fi
@@ -781,11 +780,8 @@ eiplite-test11.itidm.elisa.fi
 viestipalvelu-mp.elisa.fi
 cust2653.ngn.elisa.fi
 cust2691.ngn.elisa.fi
-www.cust2691.ngn.elisa.fi
 somehaaste.elisa.fi
-*.lab2-mobi.elisa.fi
+lab2-mobi.elisa.fi
 tiedotus.elisa.fi
 corporate-test.elisa.fi
-www.corporate-test.elisa.fi
 staging.igw.elisa.fi
-www.staging.igw.elisa.fi

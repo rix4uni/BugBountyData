@@ -21,7 +21,6 @@ data.iapp.org
 dusting.admin.dev.iapp.org
 securitytraining.iapp.org
 up.iapp.org
-www.iapp.org
 data.dev.iapp.org
 virtual.iapp.org
 upload.iapp.org
@@ -29,15 +28,15 @@ media.iapp.org
 gyongdev.dev.iapp.org
 staging.admin.iapp.org
 stephens.admin.dev.iapp.org
-www.ext.iapp.org
+ext.iapp.org
 events-app.iapp.org
 dgreen.dev.iapp.org
 gudy.api.dev.iapp.org
 taylorb.dev.iapp.org
 apia.iapp.org
 api.iapp.org
-www.pages.iapp.org
-www.testserver.iapp.org
+pages.iapp.org
+testserver.iapp.org
 dgreendev.dev.iapp.org
 gudy.admin.dev.iapp.org
 mbresnahan.dev.iapp.org
@@ -53,7 +52,6 @@ gyong.dev.iapp.org
 melissab.admin.dev.iapp.org
 rscerbo.api.dev.iapp.org
 melissab.api.dev.iapp.org
-www.media.iapp.org
 alexr.admin.dev.iapp.org
 coreyt.api.dev.iapp.org
 arindone.node.dev.iapp.org
@@ -67,17 +65,14 @@ gudydev.dev.iapp.org
 taylorb.api.dev.iapp.org
 core.privacy.iapp.org
 timg.admin.dev.iapp.org
-ext.iapp.org
 stephens.api.dev.iapp.org
 kellym.dev.iapp.org
 test.iapp.org
-pages.iapp.org
 genesisy.api.dev.iapp.org
 jcushing.admin.dev.iapp.org
 aws.prod.iapp.org
 ncappellodev.dev.iapp.org
 tomj.admin.dev.iapp.org
-www.live.iapp.org
 store.iapp.org
 spattidev.dev.iapp.org
 staging.api.iapp.org
@@ -88,7 +83,6 @@ dgreen.admin.dev.iapp.org
 rscerbo.admin.dev.iapp.org
 jkelleydev.dev.iapp.org
 tp.iapp.org
-www.virtual.iapp.org
 arindone.dev.iapp.org
 sr.iapp.org
 projectx.iapp.org
@@ -97,4 +91,3 @@ events.iapp.org
 bw.iapp.org
 ext2.iapp.org
 timg.dev.iapp.org
-www.data.dev.iapp.org

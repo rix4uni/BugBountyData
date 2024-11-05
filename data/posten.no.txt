@@ -5,7 +5,7 @@ pbe.qa.posten.no
 client.staging.signering.posten.no
 svane.da.posten.no
 wintidapi.posten.no
-www.rutebok.posten.no
+rutebok.posten.no
 mobile.baswaretest.posten.no
 pc100-242.da.posten.no
 pc186-197.ss.posten.no
@@ -21,7 +21,7 @@ pc179-193.sl.posten.no
 pc185-132.sl.posten.no
 proham.mv.posten.no
 r-pblillestrom.oa.posten.no
-www.webservices.posten.no
+webservices.posten.no
 hedwig.posten.no
 ocsrp.posten.no
 pc103168.ztv00-33.da.posten.no
@@ -139,7 +139,7 @@ publicqasnws.posten.no
 kundeservice.test.posten.no
 plautwebvpnqa.posten.no
 r-gjovikt.ho.posten.no
-www.districting.posten.no
+districting.posten.no
 oebs12.posten.no
 pc177-242.da.posten.no
 r-moirana.nl.posten.no
@@ -170,7 +170,7 @@ sasdvhdev.posten.no
 sip.posten.no
 ekstern.postlink.posten.no
 uadressert.posten.no
-www.pia.posten.no
+pia.posten.no
 kspu.oebs2.posten.no
 lbswcf.posten.no
 r-pbgjovik2.ho.posten.no
@@ -328,7 +328,7 @@ pos-mailgw02.posten.no
 smetrics.posten.no
 vaktplan.posten.no
 pc184-205.sl.posten.no
-www.qa.districting.posten.no
+qa.districting.posten.no
 oic.hcm.posten.no
 pc100-236.da.posten.no
 pc100-81.da.posten.no
@@ -351,7 +351,7 @@ pc100-84.da.posten.no
 pc177-4.da.posten.no
 ordre.posten.no
 pc100-119.da.posten.no
-www.kundeservice.posten.no
+kundeservice.posten.no
 pc177-211.da.posten.no
 accumulo-hadoop.posten.no
 minwintid.posten.no
@@ -397,8 +397,8 @@ tanuga.posten.no
 beta.signering.posten.no
 nyce-qa-bsh.posten.no
 pc177-138.da.posten.no
-www.msaqa.posten.no
-www.qa.distribusjon.posten.no
+msaqa.posten.no
+qa.distribusjon.posten.no
 kspuqa01.posten.no
 pc100-150.da.posten.no
 pc100-34.da.posten.no
@@ -437,7 +437,7 @@ r-fornebu.oa.posten.no
 activesync.posten.no
 hk1.ss.posten.no
 pc177-76.da.posten.no
-www.qa2.posten.no
+qa2.posten.no
 r-frimerke.oa.posten.no
 meet.posten.no
 owa.posten.no
@@ -449,10 +449,9 @@ r-respons.sl.posten.no
 alt-mudd.posten.no
 motivero.posten.no
 pc15-81.oa.posten.no
-www.oa.posten.no
+oa.posten.no
 contiki.posten.no
 fast-qa-admin.posten.no
-kundeservice.posten.no
 pc177-152.da.posten.no
 pdsa.da.posten.no
 pc100-199.da.posten.no
@@ -467,7 +466,7 @@ pc177-96.da.posten.no
 pc186-246.ss.posten.no
 pc100-185.da.posten.no
 pc185-102.sl.posten.no
-www.qa.intern.distribusjon.posten.no
+qa.intern.distribusjon.posten.no
 admin2.kp.posten.no
 pc177-119.da.posten.no
 pc185-157.sl.posten.no
@@ -555,7 +554,6 @@ pc100-62.da.posten.no
 r-pbgjovik.ho.posten.no
 kfssqldb.posten.no
 pc100-50.da.posten.no
-www.interchange.posten.no
 bitwarden.posten.no
 ec4qavip3.posten.no
 geo.kspu.qaoebs2.posten.no
@@ -601,7 +599,6 @@ r-sofienberg.oa.posten.no
 nmx2.da.posten.no
 r-lambert.oa.posten.no
 sistmp.test.posten.no
-www.distribusjon.posten.no
 client.test-az.signering.posten.no
 hyperion-epm-qa.posten.no
 nycepda.posten.no
@@ -677,7 +674,7 @@ r-larvik.vt.posten.no
 pc100-118.da.posten.no
 pc100-7.da.posten.no
 r-forde2.nv.posten.no
-www.qa.retro.posten.no
+qa.retro.posten.no
 poid.posten.no
 intern.qa.posten.no
 pc100-246.da.posten.no
@@ -695,7 +692,6 @@ pc179-105.sl.posten.no
 pebsappf01.posten.no
 r-verdal.tr.posten.no
 rti.flyfrakt.posten.no
-webservices.posten.no
 asterix.da.posten.no
 balder.da.posten.no
 karma.posten.no
@@ -819,7 +815,7 @@ gg.postgres.qa.posten.no
 kspuqa.posten.no
 pc177-24.da.posten.no
 varehotellet.posten.no
-www.uat.ekstern.posten.no
+uat.ekstern.posten.no
 pc100-33.da.posten.no
 r-kopervik.hl.posten.no
 bytexmgr.da.posten.no
@@ -855,7 +851,7 @@ pc100-143.da.posten.no
 pc100-147.da.posten.no
 pc177-21.da.posten.no
 pc177-28.da.posten.no
-www.ekstern.posten.no
+ekstern.posten.no
 pc100-165.da.posten.no
 pc100-99.da.posten.no
 hk4.ss.posten.no
@@ -863,10 +859,8 @@ pc100-142.da.posten.no
 pc100-151.da.posten.no
 pc177-193.da.posten.no
 pdvh1etl.posten.no
-districting.posten.no
 samarbeidqa.posten.no
 vaktplan.dev.posten.no
-www.qa.posten.no
 julevenn.posten.no
 pc177-226.da.posten.no
 qa.beta.signering.posten.no
@@ -898,7 +892,6 @@ qaprstolyngso.posten.no
 r-respons.oa.posten.no
 r-roros.tr.posten.no
 pc177-224.da.posten.no
-pia.posten.no
 r-bardufoss.tf.posten.no
 rutebok-db-schema.posten.no
 mobile-iam.posten.no
@@ -925,7 +918,7 @@ inwintid.posten.no
 pc100-167.da.posten.no
 pinsafe.posten.no
 pmqec.posten.no
-www.retro.posten.no
+retro.posten.no
 pc186-201.ss.posten.no
 qa.mylink.posten.no
 r-pbb-1.pbb.posten.no
@@ -938,7 +931,6 @@ pc177-141.da.posten.no
 pc100-232.da.posten.no
 alp-pos-011.posten.no
 leverandor.posten.no
-retro.posten.no
 pc100-48.da.posten.no
 pc179-216.sl.posten.no
 r-grimstad.ag.posten.no
@@ -979,7 +971,7 @@ api.qa.posten.no
 prodra2.mv.posten.no
 slillestpost01.oa.posten.no
 vki-qa.posten.no
-www.intern.distribusjon.posten.no
+intern.distribusjon.posten.no
 b360.posten.no
 pumagisserver.qa.posten.no
 r-sandnessjoen.nl.posten.no
@@ -1138,7 +1130,7 @@ pc100-156.da.posten.no
 pc186-213.ss.posten.no
 r-harstad.tf.posten.no
 r-trondht.tr.posten.no
-www.ro.posten.no
+ro.posten.no
 pc183-119.sl.posten.no
 ssl.posten.no
 pc100-94.da.posten.no
@@ -1150,7 +1142,6 @@ send.signering.posten.no
 dlp-juri.posten.no
 pc112-90.in.posten.no
 pc177-175.da.posten.no
-rutebok.posten.no
 controlpoint.mylink.posten.no
 dialin.posten.no
 login.mylink.posten.no
@@ -1209,7 +1200,6 @@ pc177-176.da.posten.no
 db2testdvh.posten.no
 flyfrakt.posten.no
 im.posten.no
-qa.districting.posten.no
 pc100-208.da.posten.no
 pc100-89.da.posten.no
 pc19122.ztv.ne.c185-102.sl.posten.no
@@ -1268,7 +1258,6 @@ pc100-214.da.posten.no
 pc177-158.da.posten.no
 pc19-254.oa.posten.no
 r-vika.oa.posten.no
-www.qa.rutebok.posten.no
 pc152-95.of.posten.no
 pc177-91.da.posten.no
 r-dabg14-1.da.posten.no
@@ -1278,7 +1267,6 @@ pc177-37.da.posten.no
 public.snws.posten.no
 pc177-181.da.posten.no
 pdsf.da.posten.no
-www.posten.no
 redesign.test.posten.no
 pc185-123.sl.posten.no
 pebswebf01.posten.no
@@ -1288,7 +1276,7 @@ pc100-108.da.posten.no
 pc100-179.da.posten.no
 pc177-30.da.posten.no
 ringstad.da.posten.no
-www.distrubsjon.posten.no
+distrubsjon.posten.no
 oebssystest.posten.no
 pc100-148.da.posten.no
 qa.priceapi.posten.no
@@ -1573,14 +1561,13 @@ pc100-42.da.posten.no
 pc177-71.da.posten.no
 r-jerikoveien.sl.posten.no
 tandem.da.posten.no
-www.uatmab.posten.no
+uatmab.posten.no
 etl1dvh.posten.no
 pc100-22.da.posten.no
 pc100-253.da.posten.no
 pcontikid02.posten.no
 r-mandal.ag.posten.no
 scan.posten.no
-www.distribusjon.qa.posten.no
 r-halden.of.posten.no
 pebsdbc02.posten.no
 pc177-39.da.posten.no
@@ -1600,7 +1587,6 @@ bpuopp.posten.no
 pc186-166.ss.posten.no
 r-odda.hl.posten.no
 snws.posten.no
-www.qa.ekstern.posten.no
 api.difiqa.signering.posten.no
 lbo.posten.no
 pc100-103.da.posten.no

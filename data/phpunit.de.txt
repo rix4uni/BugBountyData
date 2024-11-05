@@ -23,7 +23,6 @@ pear.phpunit.de
 smtp.phpunit.de
 forpear.phpunit.de
 localremotesizepear.phpunit.de
-www.svn.phpunit.de
 w.phpunit.de
 box.phpunit.de
 skelgen.phpunit.de
@@ -31,9 +30,7 @@ git.phpunit.de
 sizepear.phpunit.de
 apidoc.phpunit.de
 foobar.phpunit.de
-www.phpunit.de
 www2.phpunit.de
 expectswww.phpunit.de
-*.phpunit.de
 ci.phpunit.de
 hostmaster.phpunit.de

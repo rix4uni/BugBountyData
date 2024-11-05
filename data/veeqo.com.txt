@@ -8,8 +8,7 @@ gems.veeqo.com
 developers.veeqo.com
 jenkins.veeqo.com
 webhooks-test.veeqo.com
-www.api.veeqo.com
-www.veeqo.com
+api.veeqo.com
 app.veeqo.com
 rakuten-integration-staging.veeqo.com
 walmart-integration.veeqo.com
@@ -19,7 +18,7 @@ edit.veeqo.com
 shipments.veeqo.com
 staging-cdiscount-integration.veeqo.com
 static.veeqo.com
-www.api.api2cart.veeqo.com
+api.api2cart.veeqo.com
 staging.veeqo.com
 devs.veeqo.com
 noths-integration.veeqo.com
@@ -31,7 +30,6 @@ wiki.veeqo.com
 developer-forum.veeqo.com
 api.ext.veeqo.com
 static.ext.veeqo.com
-api.veeqo.com
 thumbnails.veeqo.com
 albextstaging.veeqo.com
 changelog.veeqo.com
@@ -49,8 +47,6 @@ shipments-ssl.veeqo.com
 staging-opencart-integration.veeqo.com
 print-demo.veeqo.com
 staging-rakuten-integration.veeqo.com
-www.staging.veeqo.com
-api.api2cart.veeqo.com
 api2cart.veeqo.com
 app.staging.veeqo.com
 email.veeqo.com
@@ -65,7 +61,6 @@ app.ext.veeqo.com
 cdiscount-integration.veeqo.com
 crimetrix.veeqo.com
 mail.veeqo.com
-www.shipments-ssl.veeqo.com
 beta.api2cart.veeqo.com
 etsy-integration.veeqo.com
 raft.veeqo.com
@@ -75,10 +70,8 @@ vend-integration.veeqo.com
 beta-api.api2cart.veeqo.com
 info.veeqo.com
 magento-integration.veeqo.com
-www.sentry.veeqo.com
-priceminister-integration.veeqo.com
 sentry.veeqo.com
-www.app.veeqo.com
+priceminister-integration.veeqo.com
 app.int.veeqo.com
 cdn.veeqo.com
 bigcommerce-integration.veeqo.com

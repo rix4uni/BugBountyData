@@ -26,7 +26,6 @@ payment.tastecard.co.uk
 remote.tastecard.co.uk
 test.contentstack.tastecard.co.uk
 test.tastecard.co.uk
-www.tastecard.co.uk
 api-test.tastecard.co.uk
 dcg-dc01.hd1.tastecard.co.uk
 dcg-dc02.hd1.tastecard.co.uk
@@ -89,13 +88,4 @@ tc-exs.hd1.tastecard.co.uk
 test-admin.tastecard.co.uk
 uat-admin.tastecard.co.uk
 uat.tastecard.co.uk
-www.admin.tastecard.co.uk
-www.anywhere.tastecard.co.uk
-www.auth03.tastecard.co.uk
-www.community.tastecard.co.uk
-www.dcg-dc01.hd1.tastecard.co.uk
-www.dcg-dc02.hd1.tastecard.co.uk
-www.dcg-dc04.hd1.tastecard.co.uk
-www.ello-dc01.hd1.tastecard.co.uk
-www.hd1.tastecard.co.uk
-www.tc-staging.tastecard.co.uk
+tc-staging.tastecard.co.uk

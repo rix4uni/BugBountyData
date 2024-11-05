@@ -366,11 +366,6 @@ sim.127.preprod.instant-system.com
 kafkaui.prod.instant-system.com
 cms.58.preprod.instant-system.com
 sim.127.qa.instant-system.com
-*.dev.instant-system.com
-*.test-api.instant-system.com
-*.dev-api.instant-system.com
-*.test.instant-system.com
-*.dev-test.instant-system.com
 sim.128.prod.instant-system.com
 22.userweb.qa.instant-system.com
 nodejs.dev.instant-system.com

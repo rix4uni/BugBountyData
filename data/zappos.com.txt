@@ -60,7 +60,7 @@ zycada.zappos.com
 ip166-206.zappos.com
 solr8.devo-bos.zappos.com
 vertex.corp.zappos.com
-www.ied.corp.zappos.com
+ied.corp.zappos.com
 retool.devops.zappos.com
 service.prod.metadata.ugc.zappos.com
 zsec-a1.ewoks.zappos.com
@@ -162,7 +162,7 @@ ip208-91-36-111.zappos.com
 ip208-91-36-252.zappos.com
 ip66-209-92-192.zappos.com
 ip208-91-36-21.zappos.com
-.m.zappos.com
+m.zappos.com
 ns.zappos.com
 jeb-test.ewoks.zappos.com
 alpha.us-west-1.marty.zappos.com
@@ -232,7 +232,7 @@ wms-perrier-service.bos.zappos.com
 alpha.concepts.marty.zappos.com
 live.concept.marty.zappos.com
 top-pins.apps.zappos.com
-www.dressme.zappos.com
+dressme.zappos.com
 pehz-rest.zappos.com
 ip105-206.zappos.com
 ip208-91-36-34.zappos.com
@@ -273,7 +273,6 @@ devo.taxonomy.zappos.com
 ip66-209-92-232.zappos.com
 ip208-91-36-178.zappos.com
 ip253-206.zappos.com
-m.zappos.com
 engage.zappos.com
 bg-ps.bos.zappos.com
 beta.fluid.zappos.com
@@ -378,7 +377,7 @@ host-208-93-84-221.rig.zappos.com
 ip208-91-36-153.zappos.com
 ip208-91-36-39.zappos.com
 vendorresources.zappos.com
-www.luigiorigin.zappos.com
+luigiorigin.zappos.com
 ip208-91-36-51.zappos.com
 snek.zappos.com
 beta.marty.zappos.com
@@ -474,7 +473,6 @@ explore.zappos.com
 ip66-209-92-240.zappos.com
 staging.pehz-rest.zappos.com
 plaza.zappos.com
-www.zappos.com
 ip208-91-36-118.zappos.com
 app.us-east-1.prod.kratos.zappos.com
 api.dev.bounties.ost.zappos.com
@@ -566,7 +564,7 @@ ws.bounties.zappos.com
 soa.devo-bos.zappos.com
 ip208-91-36-113.zappos.com
 ip208-91-36-46.zappos.com
-www.whiterabbit.zappos.com
+whiterabbit.zappos.com
 ip208-91-36-108.zappos.com
 ip208-91-36-167.zappos.com
 ip66-209-92-190.zappos.com
@@ -640,7 +638,6 @@ www-latest.zappos.com
 stuartweitzman.zappos.com
 rabbit.dev.bounties.ost.zappos.com
 ip208-91-36-93.zappos.com
-www.mail.zappos.com
 m-amazon.zappos.com
 lambda.devo.admin-tools.ugc.zappos.com
 shopping-b.zappos.com
@@ -672,7 +669,7 @@ itsplunk.splunk.zappos.com
 us-west-2.prod.kratos.zappos.com
 ip208-91-36-247.zappos.com
 ip208-91-36-254.zappos.com
-www.radius.zappos.com
+radius.zappos.com
 us-west-1.gamma.kratos.zappos.com
 beta.amethyst.zappos.com
 ip227-206.zappos.com
@@ -714,7 +711,6 @@ ip208-91-36-26.zappos.com
 mx02.ec2.zappos.com
 ops.zappos.com
 wms-perrier-jobs.bos.zappos.com
-dressme.zappos.com
 ip208-91-36-50.zappos.com
 vpcoip3.corp.zappos.com
 spring-admin.devo-bos.zappos.com
@@ -723,7 +719,6 @@ ip210-206.zappos.com
 ip128-206.zappos.com
 vpn16.zappos.com
 czfc-redirector-external.zappos.com
-radius.zappos.com
 meet.zappos.com
 ip184-206.zappos.com
 ip208-91-36-228.zappos.com
@@ -878,7 +873,6 @@ soa.bos.zappos.com
 systems.splunk.zappos.com
 sm07.devo-bos.zappos.com
 secure-zeta.sandbox.zappos.com
-ied.corp.zappos.com
 ip208-91-36-38.zappos.com
 alt.live.us-west-1.marty.zappos.com
 promotheus.bos.zappos.com
@@ -976,7 +970,7 @@ zycada-amzn.zappos.com
 ip142-206.zappos.com
 ip208-91-36-220.zappos.com
 ip208-91-36-235.zappos.com
-www.vendorimages.zappos.com
+vendorimages.zappos.com
 ip136-206.zappos.com
 switchfg.zappos.com
 api.beta.reactions.ugc.zappos.com
@@ -1025,7 +1019,7 @@ lcc.bos.zappos.com
 imageorigin-qa.zappos.com
 ip146-206.zappos.com
 ip66-209-92-159.zappos.com
-www.autodiscover.zappos.com
+autodiscover.zappos.com
 z0-qa.zappos.com
 ip127-206.zappos.com
 olympus.zappos.com
@@ -1131,7 +1125,6 @@ ip66-209-92-254.zappos.com
 ip212-206.zappos.com
 ip45-206.zappos.com
 meboo.zappos.com
-autodiscover.zappos.com
 corp.zappos.com
 elit.zappos.com
 ip208-91-36-128.zappos.com
@@ -1158,12 +1151,10 @@ meeboo.zappos.com
 video.zappos.com
 zapporo.bos.zappos.com
 authluxury.zappos.com
-luigiorigin.zappos.com
 search-soc.splunk.zappos.com
 ip208-91-36-190.zappos.com
 retool.zappos.com
 ip163-206.zappos.com
-whiterabbit.zappos.com
 qa-engage.zappos.com
 zufo-outbound-rest.devo-bos.zappos.com
 alt.live.us-east-2.marty.zappos.com
@@ -1193,7 +1184,6 @@ zjaasd.zappos.com
 secure-m-scdemo.zappos.com
 ip208-91-36-221.zappos.com
 ip208-91-36-59.zappos.com
-www.fs.zappos.com
 ip66-209-92-242.zappos.com
 aws-exchange.corp.zappos.com
 ip208-91-36-109.zappos.com
@@ -1264,7 +1254,6 @@ edi.devo-bos.zappos.com
 pehz-signalfx.devo-bos.zappos.com
 ip208-91-36-14.zappos.com
 ip208-91-36-192.zappos.com
-www.couture.zappos.com
 zufo-sideline-query.bos.zappos.com
 marty-alpha-upstream.zappos.com
 ip254-206.zappos.com
@@ -1333,7 +1322,6 @@ mailer7.zappos.com
 ip66-209-92-248.zappos.com
 sounder.zappos.com
 zufo-a-spot-updater.bos.zappos.com
-vendorimages.zappos.com
 portaldev.zappos.com
 ip208-91-36-174.zappos.com
 ip66-209-92-253.zappos.com
@@ -1417,8 +1405,6 @@ bounties.zappos.com
 zealot.zmt.zappos.com
 live-us-west-1.diamond.zappos.com
 amazoncouture-latest.zappos.com
-*.us-west-1.gamma.kratos.vrsnl.zappos.com
-*.us-west-1.gamma.kratos.zappos.com
 weather.apps.zappos.com
 zn.apps.zappos.com
 swch-cl.olympus.zappos.com

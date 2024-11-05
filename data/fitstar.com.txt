@@ -16,7 +16,6 @@ zabbix.fitstar.com
 static.fitstar.com
 shootprep.fitstar.com
 nginxproxy.fitstar.com
-www.fitstar.com
 webviews.staging.fitstar.com
 origin.app.staging.fitstar.com
 api2.fitstar.com
@@ -46,8 +45,6 @@ api-internal.fitstar.com
 origin.www.fitstar.com
 static2.fitstar.com
 discoursetest.fitstar.com
-*.fitstar.com
-*.staging.fitstar.com
 autodiscover.mail.fitstar.com
 cyberlink-powerdirector.staging.fitstar.com
 ipv4-c012-yyz004-bellcanada-isp.fitstar.com

@@ -1645,7 +1645,6 @@ backend.documentpr803.pmnts.optum.com
 dev-wmdppg.optum.com
 uhcsfl.dev-mypreferredcare.optum.com
 test-green.b360-gcp-npe.optum.com
-*.test-green.b360-gcp-npe.optum.com
 pr-1344.mosaic-nonprod.optum.com
 dev2-qualitygapassist.optum.com
 learn.optum.com
@@ -1663,17 +1662,13 @@ padss-service-ilgov-ctc.optum.com
 padss-service-ilgov-elr.optum.com
 amc-sso-qa.optum.com
 hospicepharmacy.optum.com
-www.hospicepharmacy.optum.com
 documentpr804.pmnts.optum.com
 api.documentpr804.pmnts.optum.com
 backend.documentpr804.pmnts.optum.com
 cm-workspace.optum.com
 snd.1902.portal.optum.com
-*.snd.1902.portal.optum.com
 1902.portal.optum.com
-*.1902.portal.optum.com
 stg.1902.portal.optum.com
-*.stg.1902.portal.optum.com
 adcext-xc.optum.com
 rxasset-dev.optum.com
 efs-dev-dce6.optum.com
@@ -1802,7 +1797,6 @@ test-oc-mms.optum.com
 mnr-coverage-benefits.optum.com
 preprod.optum.com
 edi-274prvdirinfo-bravo3.optum.com
-www.optum.com
 ie-api-gw2.optum.com
 _sip._udp.optum.com
 prdirx-rxview.optum.com
@@ -1817,7 +1811,7 @@ alaska-clouddev.optum.com
 wvie-admin.optum.com
 reco-dev.optum.com
 short-np.optum.com
-*.plumbing.edg-prod.optum.com
+plumbing.edg-prod.optum.com
 ipaas-stage.optum.com
 omni-vui-member-rb-eiprodv2ep.bot.caip.optum.com
 omni-vui-member-rb-eiprodv2e.bot.caip.optum.com
@@ -2065,7 +2059,6 @@ ariba-accural.optum.com
 qsp-letters-cloud-uat.optum.com
 myaccess-dev.optum.com
 callsummary.optum.com
-*.hospicepharmacy.optum.com
 audt.optum.com
 cpa-incident-automation-uat-preprod.optum.com
 qsp-uda-cloud-uat.optum.com
@@ -2699,7 +2692,6 @@ secplat-eks-neptune-test-ro.optum.com
 asset-tracking-eks-neptune-test-ro.optum.com
 asset-tracking-eks-neptune-test.optum.com
 prod-green.b360-gcp-prod.optum.com
-*.prod-green.b360-gcp-prod.optum.com
 secplat-neptune-stage.optum.com
 secplat-neptune-stage-ro.optum.com
 meilisearch-ui-stage.optum.com

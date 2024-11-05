@@ -1,5 +1,4 @@
 apps.ebookers.com
-www.ebookers.com
 w.ebookers.com
 citrix.ebookers.com
 travel.ebookers.com
@@ -11,7 +10,7 @@ t1.ac.ebookers.com
 book.ebookers.com
 ebmx01.ebookers.com
 holidays.ebookers.com
-www.yourpoints.ebookers.com
+yourpoints.ebookers.com
 mi.ebookers.com
 m1.ac.ebookers.com
 mta3.eg.ebookers.com
@@ -41,7 +40,6 @@ mta2.n.ebookers.com
 image.n.ebookers.com
 access.ebookers.com
 autodiscover.ebookers.com
-yourpoints.ebookers.com
 groups.ebookers.com
 faq.natwestyourpoints.private.ebookers.com
 link.customercare.ebookers.com
@@ -55,7 +53,6 @@ mta.eg.ebookers.com
 nectar.ebookers.com
 image.eg.ebookers.com
 experience.ebookers.com
-www.natwestyourpoints.ebookers.com
 ns6.ebookers.com
 ww2.ebookers.com
 faq.courtesyofcoutts.ebookers.com
@@ -66,13 +63,11 @@ inspiration.ebookers.com
 link.ebookers.com
 ns9.ebookers.com
 origin-www.ebookers.com
-www.natwestyourpoints.natwestblack.ebookers.com
+natwestyourpoints.natwestblack.ebookers.com
 r142.ac.ebookers.com
 link.mailer.ebookers.com
 omptrans.e.ebookers.com
-www.res1.ac.ebookers.com
 cres.ebookers.com
-www.courtesyofcoutts.ebookers.com
 ns3.ebookers.com
 cruiseres.ebookers.com
 m.ebookers.com
@@ -83,7 +78,7 @@ mta.n.ebookers.com
 login.ebookers.com
 faq.natwestyourpoints.ebookers.com
 ebmx02.ebookers.com
-www.natwestyourpoints.private.ebookers.com
+natwestyourpoints.private.ebookers.com
 products.ebookers.com
 ns2.ebookers.com
 faq.yourpoints.ebookers.com
@@ -91,7 +86,6 @@ ivr.ebookers.com
 affiliates.ebookers.com
 mta4.eg.ebookers.com
 ac.ebookers.com
-*.ebookers.com
 accommodation.ebookers.com
 affiliate.ebookers.com
 algarve.ebookers.com
@@ -161,7 +155,6 @@ nsmail.ebookers.com
 cheapflights.ebookers.com
 gwp.ebookers.com
 rhuber.ebookers.com
-www.destinations.ebookers.com
 datagw2.ebookers.com
 callquest.ebookers.com
 email.chat.ebookers.com

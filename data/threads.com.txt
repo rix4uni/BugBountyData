@@ -39,7 +39,6 @@ loadtest.ops.threads.com
 master.ops.threads.com
 sohan.ops.threads.com
 report.memcached.threads.com
-www.threads.com
 downloads.threads.com
 star.threads.com
 webflow.staging.threads.com

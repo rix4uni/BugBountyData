@@ -1,9 +1,8 @@
 auth.aware.avasecurity.com
 vcloud-marcin.dt.avasecurity.com
-*.vcloud-marcin.dt.avasecurity.com
 auth.mssp.avasecurity.com
-*.stream-greg.dev-eu1.aware.avasecurity.com
-*.rtsp-greg.dev-eu1.aware.avasecurity.com
+stream-greg.dev-eu1.aware.avasecurity.com
+rtsp-greg.dev-eu1.aware.avasecurity.com
 ts-us-1.turn.aware.avasecurity.com
 hls-marcin-2.dev-eu1.aware.avasecurity.com
 ts-us-8.geo-turn.aware.avasecurity.com
@@ -137,7 +136,6 @@ auth.mssp.dev.reveal.avasecurity.com
 vcloud-robert.dt.avasecurity.com
 rtsp-jesse.us4.aware.avasecurity.com
 ts-sa-1.geo-turn.aware.avasecurity.com
-www.avasecurity.com
 kinectrics-kipling-inc.na1.aware.avasecurity.com
 partner.avasecurity.com
 email.social.avasecurity.com
@@ -272,7 +270,6 @@ rtsp-psirt.dev-eu1.aware.avasecurity.com
 stream-jesse.na3.aware.avasecurity.com
 us.rtsp.vcloud-robert.dt.avasecurity.com
 rtsp.na1.aware.avasecurity.com
-stream-greg.dev-eu1.aware.avasecurity.com
 stream.eu3.aware.avasecurity.com
 rtsp.na3.aware.avasecurity.com
 ts-au-3.turn.aware.avasecurity.com
@@ -284,7 +281,6 @@ rtsp-test.eu99.aware.avasecurity.com
 eu.rtsp.vcloud-bogdan.dt.avasecurity.com
 us.rtsp.vcloud-steady.dt.avasecurity.com
 na1.aware.avasecurity.com
-www.vmr.avasecurity.com
 ts-us-10.turn.aware.avasecurity.com
 rtsp-nima.eu99.aware.avasecurity.com
 ts-eu-8.geo-turn.aware.avasecurity.com
@@ -413,7 +409,6 @@ rtsp-sira.dev-eu1.aware.avasecurity.com
 gwus.vcloud-bogdan.dt.avasecurity.com
 ts-as-3.turn.aware.avasecurity.com
 ts-test-eu-1.turn.aware.avasecurity.com
-rtsp-greg.dev-eu1.aware.avasecurity.com
 eu.rtsp.vcloud-greg.dt.avasecurity.com
 ts-na-4.geo-turn.aware.avasecurity.com
 ts-us-11.geo-turn.aware.avasecurity.com
@@ -533,6 +528,3 @@ ts-eu-9.turn.aware.avasecurity.com
 rtsp-pentest.eu99.aware.avasecurity.com
 eu.rtsp.vcloud-test.dt.avasecurity.com
 rtsp-steady.dev-eu1.aware.avasecurity.com
-*.stream-jw.dev-eu1.aware.avasecurity.com
-*.rtsp-jw.dev-eu1.aware.avasecurity.com
-*.vcloud-hd.dt.avasecurity.com

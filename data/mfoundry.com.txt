@@ -8,7 +8,7 @@ go.mfoundry.com
 mbankhostdev.mfoundry.com
 mfdellapp01.mfoundry.com
 nexus.mfoundry.com
-www.fdc.mfoundry.com
+fdc.mfoundry.com
 stage5.mfoundry.com
 sasvpn.mfoundry.com
 mojax.mfoundry.com
@@ -27,13 +27,9 @@ pol.mfoundry.com
 mbanktest.mfoundry.com
 ns2.mfoundry.com
 jira.mfoundry.com
-fdc.mfoundry.com
 ns1.mfoundry.com
 mworks.mfoundry.com
-www.gesa.mfoundry.com
-www.mfoundry.com
 stage2.mfoundry.com
-www.sasvpn.mfoundry.com
 gacsqa.mfoundry.com
 vmdev1.mfoundry.com
 manalytics.mfoundry.com

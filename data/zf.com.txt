@@ -1595,15 +1595,13 @@ metabase.ondemand.eu1.scalar.zf.com
 val-18209.euwe1.core-dev.odyssey.zf.com
 teams-management-datahub.api.eu1.stg.scalar.zf.com
 wesson-usa-fl.zf.com
-*.aep.mmm.azure.zf.com
-backoffice.aep.mmm.azure.zf.com
 aep.mmm.azure.zf.com
+backoffice.aep.mmm.azure.zf.com
 glue-backend.aep.mmm.azure.zf.com
 backend-gateway.aep.mmm.azure.zf.com
 glue-storefront.aep.mmm.azure.zf.com
 glue.aep.mmm.azure.zf.com
 mf-react-integrators.eu1.dev.scalar.zf.com
-*.eu1.dev.scalar.zf.com
 scheduled-trips.asyncapi.eu1.dev.scalar.zf.com
 identity-staging.zf.com
 process-automation.app.eu1.stg.scalar.zf.com
@@ -1616,7 +1614,6 @@ notification-mfint.api.eu1.scalar.zf.com
 vehicle-adapter.api.eu1.stg.scalar.zf.com
 data-sharing.app.eu1.dev.scalar.zf.com
 val-147454.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
-*.euwe1.core-dev.odyssey.zf.com
 feedlogs.app.eu1.dev.scalar.zf.com
 notes.app.eu1.scalar.zf.com
 val-147469.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
@@ -1633,17 +1630,15 @@ sensor-configuration.eu1.dev.scalar.zf.com
 service-diagnostics-dds.eu1.dev.scalar.zf.com
 user-management.api.eu1.dev.scalar.zf.com
 mf-react-integrators.eu1.stg.scalar.zf.com
-*.eu1.stg.scalar.zf.com
 user-management.api.eu1.stg.scalar.zf.com
 sums-service.eu1.dev.scalar.zf.com
 mf-react-integrators.ap1.stg.scalar.zf.com
-*.ap1.stg.scalar.zf.com
 people-mobility.app.eu1.dev.scalar.zf.com
 serviceline_test.zf.com
 val-147987-user-avatar.euwe1.core-dev.odyssey.zf.com
 websockets-push.app.eu1.dev.scalar.zf.com
 gloo-test-prd-apso1-ingstn-deployment.app.ap1.scalar.zf.com
-www.aep-dev.mmm.azure.zf.com
+aep-dev.mmm.azure.zf.com
 oem-fota.ap1.stg.scalar.zf.com
 people-mobility-mobile.app.eu1.stg.scalar.zf.com
 spot-subcontracting.api.push.eu1.dev.scalar.zf.com
@@ -1715,11 +1710,9 @@ val-114332.assetmanagement.euwe1.core-dev.odyssey.zf.com
 odr-support.api.eu1.dev.scalar.zf.com
 val-147918-user-avatar.euwe1.core-dev.odyssey.zf.com
 energyconsumer.api.eu1.stg.scalar.zf.com
-*.euwe1.team-warriors-sbx.cvcs.zf.com
 val-148534-user-avatar.euwe1.core-dev.odyssey.zf.com
 data-sharing.api.eu1.scalar.zf.com
 energyconsumer.api.eu1.scalar.zf.com
-*.apso1.core-stg.odyssey.zf.com
 feedlogs.app.ap1.stg.scalar.zf.com
 gloo-test-prd-apso1-core-deployment.app.ap1.scalar.zf.com
 gloo-test-core-deployment.app.eu1.scalar.zf.com
@@ -1733,11 +1726,9 @@ sums-service.app.eu1.stg.scalar.zf.com
 mf-react-workflows.eu1.stg.scalar.zf.com
 val-148801.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 driver-management.api.eu1.dev.scalar.zf.com
-*.apso1.core.odyssey.zf.com
 vehicle-adapter.api.eu1.scalar.zf.com
 transmedia.zf.com
 val-96337.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.chkcmp2.zf.com
 val-126234.mcu-backend.api.euwe1.ingestion-dev.odyssey.zf.com
 awssasp-ocpp-apps.zf.com
 mf-react-notifications.ap1.stg.scalar.zf.com
@@ -1756,7 +1747,6 @@ val-124964-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-137018.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-92560.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-65314-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.dev-assets.zf.com
 ingestionrollout.api.apso1.ingestion-stg.odyssey.zf.com
 val-28318.customjwt.api.euwe1.core-dev.odyssey.zf.com
 val-83407-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -1769,7 +1759,6 @@ val-44613.campaignmanager.api.euwe1.core-dev.odyssey.zf.com
 val-137359-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-66672.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-108337.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.aftermarketqa.zf.com
 mf-react-energy-system-reports.eu1.dev.scalar.zf.com
 iot.seb-localdev.euwe1.team-av-innovation-sbx.cvcs.zf.com
 iot.val-102470.euwe1.ingestion-dev.odyssey.zf.com
@@ -1827,7 +1816,6 @@ teststaticpage.euwe1.team-carver-sbx.cvcs.zf.com
 ras3-test1.india.zf.com
 reporting.eu1.dev.scalar.zf.com
 val-124746-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.login-qa.cloud.zf.com
 bmc-rsso-q.zf.com
 energysession.app.eu1.dev.scalar.zf.com
 firmwarecatalogue.api.eu1.dev.scalar.zf.com
@@ -1861,7 +1849,6 @@ val-94571-celp-ingestion.euwe1.ingestion-dev.odyssey.zf.com
 poc-planning.eu1.dev.scalar.zf.com
 user-management.api.eu1.scalar.zf.com
 val-58613.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.zfcmcloud.zf.com
 val-108267-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-35159.assetmanagement.euwe1.core-dev.odyssey.zf.com
 track-and-trace.hat.api.ap1.eu1.dev.scalar.zf.com
@@ -1873,7 +1860,7 @@ vpn04-z.emea.zf.com
 val-91362.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-89090-user-avatar.euwe1.core-dev.odyssey.zf.com
 scheduled-trips.api.eu1.dev.scalar.zf.com
-www.tas.zf.com
+tas.zf.com
 val-121543.euwe1.core-dev.odyssey.zf.com
 val-73978.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 azusvi-ocpp-apps.zf.com
@@ -1891,16 +1878,13 @@ val-70220-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-37932.assetmanagement.euwe1.core-dev.odyssey.zf.com
 interschmelzen.zf.com
 up-bucket-vehiclediag.eu1.dev.scalar.zf.com
-www.siq.zf.com
 certmgr-int-val-43523.euwe1.ingestion-dev.odyssey.zf.com
 sensors2.api.eu1.dev.scalar.zf.com
 kaltura.zf.com
-www.proxy.zf.com
 eco-dlq.api.eu1.dev.scalar.zf.com
 iot.val-100632.euwe1.ingestion-dev.odyssey.zf.com
 iot.val-121597.euwe1.core-dev.odyssey.zf.com
 val-26313.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.mx01.zf.com
 mf-react-unit-management.eu1.scalar.zf.com
 mf-react-duty-time.eu1.dev.scalar.zf.com
 val-139444-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -1909,11 +1893,9 @@ val-117209.assetmanagement.euwe1.core-dev.odyssey.zf.com
 pki-certificate-service.eu1.stg.scalar.zf.com
 mx03.zf.com
 sftp.zf.com
-www.customer-connect.zf.com
 val-58610-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-28848.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-37959.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.ota-dev.gmp.zf.com
 iot-pm-sim.val-125684.euwe1.core-dev.odyssey.zf.com
 ns3.zf.com
 web01prod.zf.com
@@ -1922,9 +1904,7 @@ teams-sbc02-apa.zf.com
 compliance.eu1.stg.scalar.zf.com
 val-32673.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-61169.unitmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.crm-gateway-dev.zf.com
 ras3-test7.emea.zf.com
-www.business-kons.zf.com
 hello.world.euwe1.shared-dev.cvcs.zf.com
 val-113073-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-91836.assetmanagement.euwe1.core-dev.odyssey.zf.com
@@ -1953,14 +1933,12 @@ service-diagnostics-ddm-adm.eu1.dev.scalar.zf.com
 val-111822-user-avatar.euwe1.core-dev.odyssey.zf.com
 logsearch.euwe1.cs-dev.cvcs.zf.com
 mcu-backend-service.api.eu1.dev.scalar.zf.com
-www.protech.zf.com
 glue-backend.marketplace.mmm.azure.zf.com
 service-core-schedulerorchestrator.eu1.dev.scalar.zf.com
 val-131622.assetmanagement.euwe1.core-dev.odyssey.zf.com
 service-diagnostics-dds.eu1.stg.scalar.zf.com
 val-28555.customjwt.api.euwe1.core-dev.odyssey.zf.com
 val-145815-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.switches-sensors.zf.com
 ingestion-rollout.app.ap1.stg.scalar.zf.com
 val-83866.assetmanagement.euwe1.core-dev.odyssey.zf.com
 mf-react-scheduled-trips.eu1.dev.scalar.zf.com
@@ -1972,7 +1950,7 @@ iac-frontend-resources.eu1.scalar.zf.com
 val-61240.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-29150.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 iot-simulation.api.eu1.dev.scalar.zf.com
-www.aad.zf.com
+aad.zf.com
 htmlgenerator.app.eu1.scalar.zf.com
 val-46765.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-54207.assetmanagement.euwe1.core-dev.odyssey.zf.com
@@ -1996,7 +1974,7 @@ val-96294.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 pages.transics-cicd.aws.zf.com
 gloo-test-zep-deployment.app.us1.dev.scalar.zf.com
 val-61076-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.marketing.zf.com
+marketing.zf.com
 mf-react-organization-settings.eu1.dev.scalar.zf.com
 ondemand.eu1.stg.scalar.zf.com
 core-template-eco.app.eu1.dev.scalar.zf.com
@@ -2018,7 +1996,7 @@ psp-admin-val-100971.euwe1.statuspage.odyssey.zf.com
 rules-configurator.app.eu1.scalar.zf.com
 val-66032.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-83364-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.marketplace-dev.mmm.azure.zf.com
+marketplace-dev.mmm.azure.zf.com
 webcon.zf.com
 certmanager-internal-sbx-jj.euwe1.team-newton-sbx.cvcs.zf.com
 fleet-installer.api.eu1.dev.scalar.zf.com
@@ -2051,7 +2029,6 @@ val-125491.iot.celp.euwe1.ingestion-dev.odyssey.zf.com
 scalar-frontend-core-service.app.eu1.dev.scalar.zf.com
 certmgr-int-val-112926.euwe1.ingestion-dev.odyssey.zf.com
 val-69894-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.mdmrouter.re.o365.zf.com
 azeuwe-ocpp-apps.zf.com
 val-114055-user-avatar.euwe1.core-dev.odyssey.zf.com
 test12.apps.nog.nog-ocp.aws.zf.com
@@ -2077,7 +2054,6 @@ sisa-login.zf.com
 iot-da.val-126517.euwe1.core-dev.odyssey.zf.com
 iot.val-121590.euwe1.core-dev.odyssey.zf.com
 otacommandmanager.api.eu1.dev.scalar.zf.com
-www.securemail.zf.com
 certmanager-vecv-val-43105.euwe1.ingestion-dev.odyssey.zf.com
 statuspage.euwe1.shared-dev.odyssey.zf.com
 val-116170-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -2122,17 +2098,14 @@ iot.val-121502.euwe1.core-dev.odyssey.zf.com
 sums.eu1.stg.scalar.zf.com
 val-121598.euwe1.core-dev.odyssey.zf.com
 apollo-demo-react-ui.eu1.dev.scalar.zf.com
-www.aftermarket.zf.com
 auth0jwt.api.euwe1.shared-dev.odyssey.zf.com
 ingestionrollout.api.euwe1.ingestion-dev.odyssey.zf.com
 iot-pm-sim.val-126262.euwe1.core-dev.odyssey.zf.com
 onlineshop-tr.zf.com
-www.myusers-aftermarket.zf.com
 xconnect.zf.com
 drivermanagement-dlqredrive.api.eu1.scalar.zf.com
 infinity.api.val-78169.euwe1.shared-dev.cvcs.zf.com
 val-43464.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.api.awseufr-ocpp.7431897349870731178.aws.zf.com
 mobilepush.api.eu1.stg.scalar.zf.com
 serviceline-kdh.zf.com
 val-120333-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -2142,16 +2115,12 @@ val-66408-user-avatar.euwe1.core-dev.odyssey.zf.com
 iot-pm-sim.val-126032.euwe1.core-dev.odyssey.zf.com
 msft.fleet-co2ai.zf.com
 service-software-distribution-webapi.eu1.stg.scalar.zf.com
-www.mdmrouter.re.diva.zf.com
 mf-react-energy-system-reports.eu1.scalar.zf.com
 val-31684.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.trailerfit.eu1.scalar.zf.com
 val-139274-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.teams-sbc02-emea.zf.com
 val-34803.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 innovationhub.zf.com
 mf-react-customer-invoice.eu1.dev.scalar.zf.com
-www.manuals.protech.zf.com
 join01kons.zf.com
 service-reporting-pdf-generator.eu1.scalar.zf.com
 frdn75904.zf.com
@@ -2160,8 +2129,6 @@ bmc-rsso.zf.com
 workflows.asyncapi.eu1.dev.scalar.zf.com
 driving-and-resting-times.api.eu1.scalar.zf.com
 mf-react-trailer-oem.eu1.dev.scalar.zf.com
-www.events.zf.com
-www.login.cloud.zf.com
 mf-react-webhook-developer-metrics.ap1.scalar.zf.com
 val-59383.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 mobileprivacy.api.eu1.dev.scalar.zf.com
@@ -2174,7 +2141,6 @@ awsusoh-ocpp-apps.zf.com
 scalable-vehicle-service.ondemand.eu1.scalar.zf.com
 val-70491-user-avatar.euwe1.core-dev.odyssey.zf.com
 gloo-test-dev-core-deployment.app.eu1.dev.scalar.zf.com
-www.myusers-aftermarket-cloud.zf.com
 cert-service.eu1.stg.scalar.zf.com
 jenkins.marketplace-dev.mmm.azure.zf.com
 sdm-kdh.zf.com
@@ -2195,19 +2161,16 @@ val-72675-eventlogger-processor.euwe1.core-dev.odyssey.zf.com
 awsusnv-ocpp-apps.zf.com
 devpo.zf.com
 val-54890.assetmanagement.euwe1.core-dev.odyssey.zf.com
-marketplace-dev.mmm.azure.zf.com
 tacho-management.api.eu1.scalar.zf.com
 proxy05.zf.com
 service-generic-logging-webapi.eu1.dev.scalar.zf.com
 val-35030.assetmanagement.euwe1.core-dev.odyssey.zf.com
 iot.val-121586.euwe1.core-dev.odyssey.zf.com
 mcu-backend-service.app.us1.dev.scalar.zf.com
-www.api.discovery.ocp.azure.zf.com
 core-datahub-test-mule.api.eu1.dev.scalar.zf.com
 iot.val-121519.euwe1.core-dev.odyssey.zf.com
 val-32910.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-96335.feedlogs.api.euwe1.core-dev.odyssey.zf.com
-www.serviceactions-test.protech.zf.com
 as2.zf.com
 val-30543.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 routing.app.eu1.scalar.zf.com
@@ -2259,7 +2222,6 @@ brakeperformance.app.eu1.dev.scalar.zf.com
 val-72752-eventlogger-processor.euwe1.core-dev.odyssey.zf.com
 val-25549.auth0jwt.api.euwe1.shared-dev.odyssey.zf.com
 proacademy.zf.com
-www.mydata-aftermarket-cloud.zf.com
 test.euwe1.team-warriors-sbx.cvcs.zf.com
 val-126247.mcu-backend.api.euwe1.ingestion-dev.odyssey.zf.com
 prod-ims.zf.com
@@ -2277,7 +2239,6 @@ prodiagnostics.eu1.dev.scalar.zf.com
 av.zf.com
 val-111326-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-81262.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.gmp.zf.com
 mf-react-oem-ota.eu1.dev.scalar.zf.com
 val-136201.iot.celp.euwe1.ingestion-dev.odyssey.zf.com
 val-96499-celp-ingestion.euwe1.ingestion-dev.odyssey.zf.com
@@ -2331,7 +2292,6 @@ val-110658.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-42049.unitmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-71466.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 mf-react-support-tickets.eu1.dev.scalar.zf.com
-www.ras.apa.zf.com
 val-125127-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-135747.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-46657.feedlogs.api.euwe1.core-dev.odyssey.zf.com
@@ -2348,14 +2308,12 @@ certmgr-int-val-93641.euwe1.ingestion-dev.odyssey.zf.com
 mf-react-secure-gateway.eu1.dev.scalar.zf.com
 val-122021.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-43288-eventlogger-processor.euwe1.core-dev.odyssey.zf.com
-www.test-assets.zf.com
 mf-react-developer-metrics.eu1.scalar.zf.com
 psp-admin-val-100955.euwe1.statuspage.odyssey.zf.com
 val-113887-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-51382.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-59335-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-83699.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.experience.zf.com
 _0__0_www.zf.com
 feedlogs-management-api.euwe1.core-dev.odyssey.zf.com
 mf-react-report-scheduler.eu1.dev.scalar.zf.com
@@ -2392,7 +2350,6 @@ val-32132.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-117675-user-avatar.euwe1.core-dev.odyssey.zf.com
 test-app2.nog-ocp.aws.zf.com
 val-40728.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.customer-connect-cloud.zf.com
 val-121590.euwe1.core-dev.odyssey.zf.com
 iot.val-101300.euwe1.ingestion-dev.odyssey.zf.com
 mf-react-trailer-oem.ap1.stg.scalar.zf.com
@@ -2420,20 +2377,16 @@ solicitation.zf.com
 val-113289-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-31029.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-82340.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.assets.zf.com
 apolloworkshopdatadog.api.eu1.scalar.zf.com
 val-67490.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 tdadatahub.api.eu1.scalar.zf.com
 val-80752-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.aspera.zf.com
 onlineshop-marineus.zf.com
 trailer-oem.api.eu1.dev.scalar.zf.com
-www.chkcmp1.zf.com
 infinity.api.val-78247.euwe1.shared-dev.cvcs.zf.com
 val-41075.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-112806-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-133118-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.serviceactions.protech.zf.com
 admins.welcomeat.zf.com
 iot.stg-apso1.apso1.ingestion-stg.odyssey.zf.com
 awsusnc-ocpp-apps.zf.com
@@ -2445,8 +2398,6 @@ com.zf.com
 infinity-val-78247.euwe1.shared-dev.cvcs.zf.com
 val-68393-user-avatar.euwe1.core-dev.odyssey.zf.com
 workshop.ap1.scalar.zf.com
-www.app.trailerfit.eu1.scalar.zf.com
-www.mydata-aftermarket.zf.com
 fileupload-deviceservice.apso1.ingestion-stg.odyssey.zf.com
 val-62614.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 data-sharing.api.eu1.stg.scalar.zf.com
@@ -2533,7 +2484,7 @@ val-28590.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-45037-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-61233.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-94722.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.marketplace.mmm.azure.zf.com
+marketplace.mmm.azure.zf.com
 azchbe-ocpp.zf.com
 datasharing.api.eu1.dev.scalar.zf.com
 val-113280-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -2587,7 +2538,7 @@ val-45335-user-avatar.euwe1.core-dev.odyssey.zf.com
 certmgr-int-val-68622.euwe1.ingestion-dev.odyssey.zf.com
 val-147058.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-73764-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.exptest.zf.com
+exptest.zf.com
 frdn75907.zf.com
 scalar-cockpit.eu1.dev.scalar.zf.com
 val-92936-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -2626,7 +2577,6 @@ core-energy-bff.app.eu1.scalar.zf.com
 messaging.euwe1.ui-stg.odyssey.zf.com
 support.stg.scalar.zf.com
 assetinsightssupport.api.eu1.dev.scalar.zf.com
-www.webcache.zf.com
 psp-admin-val-96721.euwe1.statuspage.odyssey.zf.com
 smgw.zf.com
 val-66532.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
@@ -2650,10 +2600,8 @@ val-31223.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 psp-admin-val-97076.euwe1.statuspage.odyssey.zf.com
 glue-backend.aep-dev.mmm.azure.zf.com
 val-35215.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.zf.com
 lpd-dev.zf.com
 mf-react-organization-settings.eu1.stg.scalar.zf.com
-www.manuals-br-test.protech.zf.com
 mf-react-sums-service.ap1.stg.scalar.zf.com
 psp-admin-val-100937.euwe1.statuspage.odyssey.zf.com
 val-64428.assetmanagement.euwe1.core-dev.odyssey.zf.com
@@ -2686,7 +2634,6 @@ unleash-tst.euwe1.shared-dev.cvcs.zf.com
 val-132502-user-avatar.euwe1.core-dev.odyssey.zf.com
 enterpriseenrollment.emea.office.zf.com
 val-102185-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.mdmrouter1.re.office.zf.com
 iot-pm-sim.api.eu1.dev.scalar.zf.com
 iot.val-121580.euwe1.core-dev.odyssey.zf.com
 zf-scalar-workshop.app.eu1.dev.scalar.zf.com
@@ -2695,7 +2642,6 @@ ras3-test.apa.zf.com
 aep-prod.mmm.azure.zf.com
 azchbe-ocpp-apps.zf.com
 frdn75008.zf.com
-www.msft.fleet-co2ai.zf.com
 val-54929.assetmanagement.euwe1.core-dev.odyssey.zf.com
 euwe1.shared.odyssey.zf.com
 scheduled-trips.app.eu1.dev.scalar.zf.com
@@ -2713,7 +2659,6 @@ val-43374.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-95029-user-avatar.euwe1.core-dev.odyssey.zf.com
 brakeperformance.app.eu1.scalar.zf.com
 val-133821-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.zfigelitftp.zf.com
 apps02kons.zf.com
 firmwarecatalog.api.ap1.scalar.zf.com
 routing.api.eu1.scalar.zf.com
@@ -2732,7 +2677,6 @@ val-101294.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 spot-subcontracting.api.internal.eu1.dev.scalar.zf.com
 val-66787-user-avatar.euwe1.core-dev.odyssey.zf.com
 prodiagnostics.ap1.stg.scalar.zf.com
-tas.zf.com
 val-126500.iot.celp.euwe1.ingestion-dev.odyssey.zf.com
 argocd.euwe1.shared-dev.odyssey.zf.com
 iot.val-122137.euwe1.core-dev.odyssey.zf.com
@@ -2765,14 +2709,12 @@ psp-admin-val-101092.euwe1.statuspage.odyssey.zf.com
 val-34984.assetmanagement.euwe1.core-dev.odyssey.zf.com
 eventlogger-processor.apso1.core-stg.odyssey.zf.com
 val-45327.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.crm-gateway.zf.com
 val-118733-user-avatar.euwe1.core-dev.odyssey.zf.com
 sensors.api.eu1.stg.scalar.zf.com
 val-61168.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 iot.val-101805.euwe1.ingestion-dev.odyssey.zf.com
 usermanagement.sbx.app.eu1.dev.scalar.zf.com
 val-121036.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.ausbildungsfinder.zf.com
 iot.val-121654.euwe1.core-dev.odyssey.zf.com
 val-95586-user-avatar.euwe1.core-dev.odyssey.zf.com
 iot.val-121589.euwe1.core-dev.odyssey.zf.com
@@ -2796,7 +2738,6 @@ val-27767.logsendgrid.api.euwe1.shared-dev.odyssey.zf.com
 iot-vehicle-orchestration.euwe1.core.odyssey.zf.com
 val-93851-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-68386-eventlogger-processor.euwe1.core-dev.odyssey.zf.com
-www.aep-prod.mmm.azure.zf.com
 val-67885.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-75638.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 ecomodule-jobs.app.eu1.dev.scalar.zf.com
@@ -2808,12 +2749,10 @@ val-113435-user-avatar.euwe1.core-dev.odyssey.zf.com
 iot.val-137012.euwe1.core-dev.odyssey.zf.com
 developer-metrics.eu1.dev.scalar.zf.com
 onlineshop-at.zf.com
-www.incapptic.zf.com
 media.aep-dev.mmm.azure.zf.com
 val-59394.assetmanagement.euwe1.core-dev.odyssey.zf.com
 regapp-public.zf.com
 val-93194.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.business.zf.com
 mf-react-webhook-developer-metrics.eu1.stg.scalar.zf.com
 val-110836-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-82306-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -2847,8 +2786,6 @@ val-132639.mcu-backend.api.euwe1.ingestion-dev.odyssey.zf.com
 apolloworkshopdatadog.api.eu1.stg.scalar.zf.com
 core-template-eco.api.eu1.dev.scalar.zf.com
 val-94583-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.webdevices.azure.zf.com
-www.jobs.zf.com
 eu1-bc.dmp-p.azure.zf.com
 val-75289.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-95104-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -2858,7 +2795,6 @@ unleash-dev.euwe1.shared-dev.cvcs.zf.com
 val-36739.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-132721.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 mf-react-event-logger.ap1.stg.scalar.zf.com
-www.100pac.zf.com
 val-32300.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 eventlogger.ingestion.eu1.dev.scalar.zf.com
 odr-decoder.eu1.stg.scalar.zf.com
@@ -2893,7 +2829,6 @@ val-78683-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-31575.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 proxy20.zf.com
 val-28421.customjwt.api.euwe1.core-dev.odyssey.zf.com
-www.aep.mmm.azure.zf.com
 val-105852-user-avatar.euwe1.core-dev.odyssey.zf.com
 stg-apso1-campaign-files.apso1.core-stg.odyssey.zf.com
 val-77150.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
@@ -2927,8 +2862,6 @@ feedlogs-management-api.apso1.core.odyssey.zf.com
 val-70270-user-avatar.euwe1.core-dev.odyssey.zf.com
 infinity-val-78170.euwe1.shared-dev.cvcs.zf.com
 ras3-test8.emea.zf.com
-www.ocpp-azwe.zf.com
-exptest.zf.com
 iot-pm-sim.val-125716.euwe1.core-dev.odyssey.zf.com
 test14.apps.nog.nog-ocp.aws.zf.com
 www04apps.zf.com
@@ -2944,7 +2877,6 @@ data-sharing.api.eu1.dev.scalar.zf.com
 nsx03.zf.com
 val-43418.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-46451.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.100photo.zf.com
 uptimecenter.api.eu1.dev.scalar.zf.com
 val-37030.assetmanagement.euwe1.core-dev.odyssey.zf.com
 certmanager-vecv-sbx-jj.euwe1.team-newton-sbx.cvcs.zf.com
@@ -2976,7 +2908,6 @@ grafana.apso1.shared.cvcs.zf.com
 scalar-frontend-core-service.app.eu1.stg.scalar.zf.com
 val-72815.unitmanagement.api.euwe1.core-dev.odyssey.zf.com
 apso1.ingestion.odyssey.zf.com
-marketing.zf.com
 azeugc-ocpp-apps.zf.com
 val-121654.euwe1.core-dev.odyssey.zf.com
 val-25514.logsendgrid.api.euwe1.shared-dev.odyssey.zf.com
@@ -2998,7 +2929,6 @@ val-136481-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-138902.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-58541.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-84413-user-avatar.euwe1.core-dev.odyssey.zf.com
-aad.zf.com
 reporting.eu1.scalar.zf.com
 val-42576.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 jobfair.app.eu1.dev.scalar.zf.com
@@ -3030,7 +2960,6 @@ driving-and-resting-times.api.eu1.stg.scalar.zf.com
 fileupload-internalservice.apso1.core-stg.odyssey.zf.com
 val-134175.assetmanagement.euwe1.core-dev.odyssey.zf.com
 val-130311.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.api.vault.aws.zf.com
 drivermanagement-dlqredrive.api.eu1.dev.scalar.zf.com
 spot-subcontracting.app.eu1.dev.scalar.zf.com
 eventlogger.app.eu1.stg.scalar.zf.com
@@ -3044,7 +2973,6 @@ admins-dev.welcomeat.zf.com
 awseulo-ocpp-apps.zf.com
 val-51295.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-65749-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.fleet-co2ai.zf.com
 infinity-val-78169.euwe1.shared-dev.cvcs.zf.com
 val-121588.euwe1.core-dev.odyssey.zf.com
 mf-react-schedule.eu1.stg.scalar.zf.com
@@ -3059,7 +2987,6 @@ val-102024.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 iot.val-125404.euwe1.core-dev.odyssey.zf.com
 val-59036.assetmanagement.euwe1.core-dev.odyssey.zf.com
 energyintegrator.app.eu1.scalar.zf.com
-www.manuals-br.protech.zf.com
 seb-localdev.euwe1.team-av-innovation-sbx.cvcs.zf.com
 frdn77x04.zf.com
 mf-react-topbar.eu1.scalar.zf.com
@@ -3084,7 +3011,6 @@ mf-react-trip-history.ap1.scalar.zf.com
 iot-driverapp.val-126284.euwe1.core-dev.odyssey.zf.com
 bmc-is.zf.com
 com.zmv.zf.com
-www.itonics.zf.com
 prodiagnostics.eu1.stg.scalar.zf.com
 proxy21.zf.com
 val-128270-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -3102,7 +3028,6 @@ val-93988.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 dwp-q.zf.com
 val-145533.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-35117.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.schmelzendatei.zf.com
 apps03kons.zf.com
 iot.val-113352.euwe1.ingestion-dev.odyssey.zf.com
 val-145825-user-avatar.euwe1.core-dev.odyssey.zf.com
@@ -3130,12 +3055,10 @@ val-41369.unitmanagement.api.euwe1.core-dev.odyssey.zf.com
 val-113562-user-avatar.euwe1.core-dev.odyssey.zf.com
 iot-pm-da.val-125447.euwe1.core-dev.odyssey.zf.com
 mf-react-account.ap1.stg.scalar.zf.com
-www.access.zf.com
 cdn.eu1.dev.scalar.zf.com
 oem-admin.eu1.dev.scalar.zf.com
 val-138968-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-90711-user-avatar.euwe1.core-dev.odyssey.zf.com
-www.zfsupplieracademy.zf.com
 gdprmessaging.api.eu1.stg.scalar.zf.com
 luftfahrt-kons.zf.com
 mf-react-test-app-to-be-removed-again.eu1.dev.scalar.zf.com
@@ -3229,7 +3152,6 @@ val-113711-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-34929.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 gloo-test-dev-ingstn-deployment.app.us1.dev.scalar.zf.com
 mf-react-pki-certificate-service.ap1.stg.scalar.zf.com
-aep-dev.mmm.azure.zf.com
 iac-frontend-resources.ap1.stg.scalar.zf.com
 tessa.zf.com
 service-sums-integration-gateway-webapi.eu1.scalar.zf.com
@@ -3242,7 +3164,6 @@ frdn77010.zf.com
 infinity-val-77383.euwe1.shared-dev.cvcs.zf.com
 operations.eu1.scalar.zf.com
 val-107996.assetmanagement.euwe1.core-dev.odyssey.zf.com
-www.api.zf.com
 driving-and-resting-times.api.eu1.dev.scalar.zf.com
 iot-pm-da.val-126262.euwe1.core-dev.odyssey.zf.com
 core-customerportal-api.api.eu1.dev.scalar.zf.com
@@ -3261,7 +3182,6 @@ iot-pm-da.val-125684.euwe1.core-dev.odyssey.zf.com
 iot-sim.euwe1.core-dev.odyssey.zf.com
 audit-log.app.eu1.dev.scalar.zf.com
 argocd.euwe1.shared.cvcs.zf.com
-www.fasoodrm.zf.com
 val-91980.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 psp-admin-val-100710.euwe1.statuspage.odyssey.zf.com
 uptimecenter.app.eu1.dev.scalar.zf.com
@@ -3291,7 +3211,6 @@ certmanager-vecv-val-116211.euwe1.ingestion-dev.odyssey.zf.com
 data-privacy.ap1.scalar.zf.com
 ras3-test3.apa.zf.com
 val-83026.assetmanagement.euwe1.core-dev.odyssey.zf.com
-marketplace.mmm.azure.zf.com
 mcu-ingestion-munic.app.us1.dev.scalar.zf.com
 diag-certificates.api.eu1.dev.scalar.zf.com
 apollo-demo-react-ui.ap1.scalar.zf.com
@@ -3354,7 +3273,6 @@ val-95290.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
 activity-definitions.api.eu1.stg.scalar.zf.com
 val-80877.unitmanagement.api.euwe1.core-dev.odyssey.zf.com
 webits1d.zf.com
-www.ag-auth.emea.zf.com
 assetinsights.api.eu1.dev.scalar.zf.com
 val-101737.assetmanagement.euwe1.core-dev.odyssey.zf.com
 frdn75903.zf.com
@@ -3372,7 +3290,6 @@ iot-pm-sim.val-125673.euwe1.core-dev.odyssey.zf.com
 iot.val-121592.euwe1.core-dev.odyssey.zf.com
 val-69462-user-avatar.euwe1.core-dev.odyssey.zf.com
 dev-campaign-files.euwe1.core-dev.odyssey.zf.com
-www.crm-gateway-test.zf.com
 frdn75021.zf.com
 mcuingestion-cargobull.app.us1.dev.scalar.zf.com
 frdn77x03.zf.com
@@ -3414,7 +3331,6 @@ iot.plf.us1.dev.scalar.zf.com
 usermanagementauth0-cache.plf.eu1.stg.scalar.zf.com
 val-136455-user-avatar.euwe1.core-dev.odyssey.zf.com
 people-mobility2.eu1.dev.scalar.zf.com
-www.manuals-test.protech.zf.com
 val-92509-user-avatar.euwe1.core-dev.odyssey.zf.com
 iot-simulator.val-126470.euwe1.core-dev.odyssey.zf.com
 val-37926.assetmanagement.euwe1.core-dev.odyssey.zf.com
@@ -3463,7 +3379,6 @@ val-69882.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 scalar-frontend-core-service.app.ap1.scalar.zf.com
 health.eu1.scalar.zf.com
 val-31686.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.ras.america.zf.com
 val-31691.kycmanagement.api.euwe1.core-dev.odyssey.zf.com
 workflows.app.eu1.scalar.zf.com
 mf-react-driver.ap1.scalar.zf.com
@@ -3471,4 +3386,3 @@ certmanager-vecv-val-112925.euwe1.ingestion-dev.odyssey.zf.com
 ces.zf.com
 val-138192-user-avatar.euwe1.core-dev.odyssey.zf.com
 val-40660.fleetmanagement.api.euwe1.core-dev.odyssey.zf.com
-www.mdmapp.re.office.zf.com

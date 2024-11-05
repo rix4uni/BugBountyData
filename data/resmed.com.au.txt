@@ -1,5 +1,4 @@
-*.resmed.com.au
-*.brand.resmed.com.au
+brand.resmed.com.au
 au1-mrs.resmed.com.au
 au2-iptexe-p01.resmed.com.au
 au2-iptexe-p02.resmed.com.au
@@ -11,7 +10,6 @@ au3tmg04ex1.resmed.com.au
 au3tmg04ex2.resmed.com.au
 autodiscover.resmed.com.au
 bgp2.resmed.com.au
-brand.resmed.com.au
 bridgit.resmed.com.au
 cam.resmed.com.au
 charlietest.resmed.com.au
@@ -70,13 +68,5 @@ testsftp.resmed.com.au
 view.email.resmed.com.au
 webapps.resmed.com.au
 webmail.resmed.com.au
-www.resmed.com.au
-www.dawn.resmed.com.au
-www.mail.resmed.com.au
-www.mobile.mail.resmed.com.au
-www.partners.resmed.com.au
-www.shop.resmed.com.au
-www.sleepassessment.resmed.com.au
-www.sslvpn.resmed.com.au
 selfie-api-uat.resmed.com.au
 selfiescreener-dev.resmed.com.au

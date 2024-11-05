@@ -40,7 +40,6 @@ strapi.spectrocloud.com
 spate1.spectrocloud.com
 info.spectrocloud.com
 grafana-monitoring-stack.dev2.spectrocloud.com
-www.spectrocloud.com
 login-okta.teams.spectrocloud.com
 msg.vertex.spectrocloud.com
 stage.spectrocloud.com
@@ -61,7 +60,6 @@ toolbox.palette-adv.spectrocloud.com
 eu.gehc.spectrocloud.com
 whitepapers.spectrocloud.com
 cg3.console.spectrocloud.com
-*.picard.spectrocloud.com
 legacy.docs.spectrocloud.com
 dex.sc-npe-1702.discovery.spectrocloud.com
 rc.spectrocloud.com

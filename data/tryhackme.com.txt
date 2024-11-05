@@ -1,4 +1,3 @@
-*.tryhackme.com
 admin.tryhackme.com
 assets.tryhackme.com
 blog.tryhackme.com
@@ -14,7 +13,6 @@ remote-eu-1.tryhackme.com
 remote-us-west-1.tryhackme.com
 resources.tryhackme.com
 store.tryhackme.com
-www.tryhackme.com
 lp.tryhackme.com
 maintenance.tryhackme.com
 react.tryhackme.com

@@ -1,7 +1,6 @@
-*.kramesondemand.com
-*.ma1.kramesondemand.com
-*.staging.kramesondemand.com
-*.stg-ma1.kramesondemand.com
+ma1.kramesondemand.com
+staging.kramesondemand.com
+stg-ma1.kramesondemand.com
 pre-ma1.kramesondemand.com
 w.kramesondemand.com
 kod.stg-ma1.kramesondemand.com
@@ -9,14 +8,10 @@ kod.dev01.kramesondemand.com
 kod.ma1.kramesondemand.com
 staging.fhir.kramesondemand.com
 uat.fhir.kramesondemand.com
-stg-ma1.kramesondemand.com
-ma1.kramesondemand.com
 v4.kramesondemand.com
 support.kramesondemand.com
 fhir.kramesondemand.com
 kod.qa01.kramesondemand.com
 dev01.kramesondemand.com
-www.kramesondemand.com
 preview.kramesondemand.com
-staging.kramesondemand.com
 qa01.kramesondemand.com

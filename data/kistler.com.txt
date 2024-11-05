@@ -580,10 +580,7 @@ local.kiconnect.hlmsec9.kistudiolab.kistler.com
 kistudiolab-ap2.skybasecloud.kistler.com
 auth.kiconnect.ziw.kistudiolab.kistler.com
 bio-studio.dsl.kistler.com
-www.kistler.com
 random-api.sandbox.hub.kistler.com
-www.jira.chemnitz.kistler.com
-www.vw-support.chemnitz.kistler.com
 shm.beta.hub.kistler.com
 api.shm.beta.hub.kistler.com
 grafana.shm.beta.hub.kistler.com
@@ -592,6 +589,5 @@ api.sandbox.hub.kistler.com
 auth.sandbox.hub.kistler.com
 sandbox.hub.kistler.com
 studio.sandbox.hub.kistler.com
-*.sandbox.hub.kistler.com
 vulnerabilities.beta.hub.kistler.com
 monitoring.sandbox.hub.kistler.com

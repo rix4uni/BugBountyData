@@ -3,7 +3,6 @@ staging.rukkaz.com
 cms.rukkaz.com
 forgot-password.rukkaz.com
 events.staging.rukkaz.com
-www.rukkaz.com
 sa-rukkaz-gamewithme-integrations.rukkaz.com
 api.staging.rukkaz.com
 events.rukkaz.com
@@ -17,9 +16,6 @@ api.rukkaz.com
 forgot-password.staging.rukkaz.com
 publishing-api.rukkaz.com
 url.rukkaz.com
-*.api.staging.rukkaz.com
-*.rukkaz.com
-*.staging.rukkaz.com
 admin2.rukkaz.com
 fwdkim1.rukkaz.com
 origin-video.rukkaz.com

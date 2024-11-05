@@ -22,16 +22,15 @@ bb-portal.mitsubishi-fuso.com
 assets2.mitsubishi-fuso.com
 dta-apps.mitsubishi-fuso.com
 forcefdp-uat5.mitsubishi-fuso.com
-www.extranet.mitsubishi-fuso.com
+extranet.mitsubishi-fuso.com
 mena.ascent.mitsubishi-fuso.com
 tco.mitsubishi-fuso.com
-extranet.mitsubishi-fuso.com
 kdweb-test.mitsubishi-fuso.com
 uoe.i.mitsubishi-fuso.com
 apps-extranet-dev.dealer.mitsubishi-fuso.com
 api-dev.mitsubishi-fuso.com
 fuso-shop-staging.app.mitsubishi-fuso.com
-www.brand.mitsubishi-fuso.com
+brand.mitsubishi-fuso.com
 ascent.mitsubishi-fuso.com
 apps.extranet-dev1-dealer.mitsubishi-fuso.com
 ecommunity.mitsubishi-fuso.com
@@ -42,7 +41,7 @@ uat-ascent.mitsubishi-fuso.com
 fvix.mitsubishi-fuso.com
 pars.mitsubishi-fuso.com
 digitalfusoev.mitsubishi-fuso.com
-www.shop.mitsubishi-fuso.com
+shop.mitsubishi-fuso.com
 mileagelease.mitsubishi-fuso.com
 force-okinawa.mitsubishi-fuso.com
 myfuso.mitsubishi-fuso.com
@@ -57,7 +56,7 @@ d2sq.i.mitsubishi-fuso.com
 fusoascent.mitsubishi-fuso.com
 ibos-dev.mitsubishi-fuso.com
 qa.truckonnect.mitsubishi-fuso.com
-www.th.mitsubishi-fuso.com
+th.mitsubishi-fuso.com
 apps.extranet-dealer1.mitsubishi-fuso.com
 forcefdp-uat4.mitsubishi-fuso.com
 sbo-dcvt-dms.mitsubishi-fuso.com
@@ -75,7 +74,6 @@ ascent-helpdesk.mitsubishi-fuso.com
 apiscuat-ascent.mitsubishi-fuso.com
 catalog.mitsubishi-fuso.com
 st-uoe.mitsubishi-fuso.com
-shop.mitsubishi-fuso.com
 ffp-test.mitsubishi-fuso.com
 ascent-pte.mitsubishi-fuso.com
 forcemon-fdp.mitsubishi-fuso.com
@@ -92,7 +90,6 @@ st-uoe.i.mitsubishi-fuso.com
 uat.fusoascent.mitsubishi-fuso.com
 globenetuat.mitsubishi-fuso.com
 uathd-ascent2.mitsubishi-fuso.com
-brand.mitsubishi-fuso.com
 uathd-ascent.mitsubishi-fuso.com
 uat-fusoascent.mitsubishi-fuso.com
 st2-cbp.i.mitsubishi-fuso.com
@@ -102,14 +99,13 @@ qm-ctrl.mitsubishi-fuso.com
 pqs.i.mitsubishi-fuso.com
 media.extranet-dev.dealer.mitsubishi-fuso.com
 forcefdp-uat3.mitsubishi-fuso.com
-www.my.mitsubishi-fuso.com
+my.mitsubishi-fuso.com
 forcefdp-dev1.mitsubishi-fuso.com
 forcefdp-nonprod.mitsubishi-fuso.com
 fusohorizon.mitsubishi-fuso.com
 maps.mitsubishi-fuso.com
 uat-ascent-dit.mitsubishi-fuso.com
 d2sqv.i.mitsubishi-fuso.com
-www.fusoascent.mitsubishi-fuso.com
 apps.extranet-dealer.mitsubishi-fuso.com
 mftbcfocat.mitsubishi-fuso.com
 posts.mitsubishi-fuso.com
@@ -217,7 +213,6 @@ test3-falcon.mitsubishi-fuso.com
 force-okayama.mitsubishi-fuso.com
 vlw-dev.mitsubishi-fuso.com
 oascent.mitsubishi-fuso.com
-my.mitsubishi-fuso.com
 cse.mitsubishi-fuso.com
 pabco-viva2.mitsubishi-fuso.com
 ecommunity-qa.mitsubishi-fuso.com
@@ -242,7 +237,6 @@ apifdpuat-ascent.mitsubishi-fuso.com
 forcefdp-uat8.mitsubishi-fuso.com
 forcefdp-devapi.mitsubishi-fuso.com
 domesticsales.i.mitsubishi-fuso.com
-www.mitsubishi-fuso.com
 sbo-dcvt-dms2-prod.mitsubishi-fuso.com
 sip13.mitsubishi-fuso.com
 force-iwate.mitsubishi-fuso.com

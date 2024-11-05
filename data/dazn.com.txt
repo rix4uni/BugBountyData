@@ -1,8 +1,6 @@
 safe.dazn.com
-*.safe.dazn.com
 startup-stag.dazn.com
 startup-dev.dazn.com
-www.dazn.com
 startup-prod.dazn.com
 merch3.dazn.com
 link.mail.dazn.com
@@ -112,7 +110,6 @@ isl-ca.dazn.com
 stack.gift-codes.api.dazn.com
 startup-test.dazn.com
 builds.business.dazn.com
-www.link.mail.dazn.com
 api.dazn.com
 prod.dazn20.dazn.com
 media.dazn.com
@@ -120,6 +117,5 @@ startup-dev-router.dazn.com
 docs-us.dazn.com
 eu-stag-api-content-portability.dazn.com
 rc.business.dazn.com
-www.tags.dazn.com
 teaser.moment.dazn.com
 creative.dazn.com

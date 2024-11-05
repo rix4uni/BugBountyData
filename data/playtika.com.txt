@@ -23,7 +23,6 @@ bf-prod-cdn.playtika.com
 redecor.playtika.com
 assets.wsop.playtika.com
 gnocchi-cdn-nc.playtika.com
-www.playtika.com
 rd-prod-cdn.playtika.com
 orig-mobile-hof.playtika.com
 bk-api-dsa.playtika.com
@@ -94,8 +93,8 @@ autodiscover.playtika.com
 bingo-preprod-services.playtika.com
 pras-preprod.playtika.com
 sm-preprod-purchase.playtika.com
-www.bf.playtika.com
-www.new.playtika.com
+bf.playtika.com
+new.playtika.com
 one-prepord-portal.playtika.com
 bestfiends-preprod.psf.playtika.com
 mx01.playtika.com
@@ -123,7 +122,7 @@ bingo-preprod-api.playtika.com
 cc-builds.cloud.playtika.com
 platforms-preprod2-messaging.playtika.com
 preprod.playtika.com
-www.cc-dest-preprod.playtika.com
+cc-dest-preprod.playtika.com
 addub.playtika.com
 bot.playtika.com
 one-preprod-static.playtika.com
@@ -138,7 +137,6 @@ f5test.playtika.com
 platforms-preprod2-php-dub.playtika.com
 sm-redirector-preprod.playtika.com
 store-ssl-01.playtika.com
-www.news2.playtika.com
 one-preprod2-id.playtika.com
 vpn-vin.playtika.com
 vs-fb-php-p1.playtika.com
@@ -154,10 +152,8 @@ cc-fb-preprod-app-dub.playtika.com
 portal.playtika.com
 pras-preprod-static.playtika.com
 sm-preprod-videoslots.playtika.com
-www.portal-external-b.psf.playtika.com
 portal-external-b.psf.playtika.com
 preprod-cdn.playtika.com
-bf.playtika.com
 cc-preprod-contests-fe-dub.playtika.com
 kafka-cc-1.cloud.playtika.com
 lyncweb.playtika.com
@@ -169,7 +165,7 @@ cc-fb-preprod-php.playtika.com
 sm-preprod-contests-fe.playtika.com
 vs-fb-mobile-dub.playtika.com
 cc-preprod-api-dsa-dub2.playtika.com
-www.preprod-www.playtika.com
+preprod-www.playtika.com
 bingo-preprod-static.playtika.com
 one-preprod-zuul.playtika.com
 sm-preprod-legacy-auth-proxy.playtika.com
@@ -187,12 +183,10 @@ preprodplatform.playtika.com
 partners.playtika.com
 sm-preprod-google.playtika.com
 sm-ya.playtika.com
-www.octopus.playtika.com
 bingo-stage-sfs-06.playtika.com
 lyncdiscover.playtika.com
 stash.playtika.com
 vs-mission-service-dub.playtika.com
-cc-dest-preprod.playtika.com
 dns1.playtika.com
 equity-award-information-center.playtika.com
 one-preprod2-kpi.playtika.com
@@ -240,11 +234,10 @@ sh-preprod-clientlogger.playtika.com
 gp-dublin.playtika.com
 sc-fb-capi-dub.playtika.com
 staging.playtika.com
-www.sip.playtika.com
+sip.playtika.com
 bingo-ce-app.playtika.com
 whyitisoktoplay-cdn.playtika.com
-preprod-www.playtika.com
-www.news1.playtika.com
+news1.playtika.com
 bb-preprod-api.playtika.com
 one-preprod2-static.playtika.com
 promo.playtika.com
@@ -253,14 +246,13 @@ events.playtika.com
 facebook-proxy-preprod.wsopdev.playtika.com
 sm-clientapi-preprod.playtika.com
 sm-preprod-inapps.playtika.com
-www.owa.playtika.com
+owa.playtika.com
 bingo-preprod-app.playtika.com
 pras-va2.playtika.com
 bingo-preprod-sfs-04.playtika.com
 bingo-preprod-sfs-06.playtika.com
 sgh-preprod-messaging.playtika.com
 webstore-preprod.playtika.com
-www.kafka-cc-1.cloud.playtika.com
 cc-fb-php-dub.playtika.com
 pras-preprod2.playtika.com
 vs-fb-android-dub.playtika.com
@@ -268,7 +260,6 @@ cdnwww.playtika.com
 one-preprod2-zuul.playtika.com
 pn-preprod-zuul.playtika.com
 sc-fb-php-dub.playtika.com
-www.psf.playtika.com
 analystday.playtika.com
 bingo-ce-api.playtika.com
 cc-preprod-http2-test.playtika.com
@@ -281,7 +272,6 @@ sm-preprod-missions.playtika.com
 vs-fb-preprod-static.playtika.com
 hipchat-sandbox.playtika.com
 k8s-dev.wsopdev.playtika.com
-owa.playtika.com
 sc-fb-mob-dub.playtika.com
 sm-haxe-app.playtika.com
 accelerator-events-preprod.psf.playtika.com
@@ -291,12 +281,7 @@ cc-preprod-php-dsa-dub2.playtika.com
 g-plus.playtika.com
 mta1.news2.playtika.com
 platforms-preprod2-redirector.playtika.com
-sip.playtika.com
-www.platform.playtika.com
 officeweb.playtika.com
-www.portal.playtika.com
-www.preprodplatform.playtika.com
-news1.playtika.com
 sc-fb-app-dub.playtika.com
 sm-od.playtika.com
 vs-fb-stage48.cloud.playtika.com
@@ -305,7 +290,6 @@ cdn-edgecast.playtika.com
 perion.playtika.com
 sm-php-va2.playtika.com
 sh-preprod-notificationlink.playtika.com
-www.wsop.playtika.com
 cc-preprod-collectibles-crafting.playtika.com
 zk-mm-app.playtika.com
 accelerator-events-preprod-static.psf.playtika.com
@@ -351,7 +335,7 @@ m206.playtika.com
 cc-star-converter.playtika.com
 i-04419ed64ff9ae9dd-prod-ws.wsop.playtika.com
 bingo-ce-bb-play.playtika.com
-www.sm-com-preprod.playtika.com
+sm-com-preprod.playtika.com
 vds-fb-ak.playtika.com
 i-05dfd7834352c91e5-prod-ws.wsop.playtika.com
 sm-stamp-card-va2.playtika.com
@@ -669,7 +653,7 @@ cc-promocode-p1.playtika.com
 vs-fb-app-p1.playtika.com
 app-vs-ya-ic.playtika.com
 cc-legacy-point-p1.playtika.com
-www.bo-preprod.cloud.playtika.com
+bo-preprod.cloud.playtika.com
 app1.playtika.com
 cc-fb-prod-auto-collect.playtika.com
 cc-fb-app-dest.playtika.com
@@ -717,7 +701,6 @@ fb-cdn.playtika.com
 i-0f2c5d0b431d8940f-prod-ws.wsop.playtika.com
 i-01e7f59dabb989646-prod-ws.wsop.playtika.com
 sgh-zuul-migration-va2.playtika.com
-www.sm-php-ca1.playtika.com
 vegas-ca1-app.playtika.com
 vegas-ca1-capi.playtika.com
 wsop-estream.playtika.com
@@ -738,7 +721,6 @@ vpn.lui1705-stage.euw.-.cloud.playtika.com
 bk-stage28-backoffice.psf.playtika.com
 i-0560e7ddb1f544929-prod-ws.wsop.playtika.com
 quality-gate-1697787007649-preprod.psf.playtika.com
-www.yarontest.playtika.com
 i-0eb08917f451359e9-prod-ws.wsop.playtika.com
 portal.staging.010418f11c73b3267.cloud.playtika.com
 vpn.internallui1705.global.-.cloud.playtika.com
@@ -894,7 +876,6 @@ wsop-prod-p2-88-prod-ws.wsop.playtika.com
 secure.acc.test.-04michaelos.cloud.playtika.com
 -08b-east-ecs-cdn-eccms1.cloud.playtika.com
 1-1995chido.login.-.cloud.playtika.com
-www.s3.wsopdev.playtika.com
 dev-wwwserver.-.cloud.playtika.com
 sept.-.cloud.playtika.com
 bk-stage6.psf.playtika.com
@@ -965,7 +946,7 @@ june.www.-.cloud.playtika.com
 webstage21bk-stage4-googleoffice-p2-57-prod-ws.018.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.facebook-proxy-stage49.03f5cc776299333.staging.cloud.playtika.com
 cc-stage66-appv-01.cloud.playtika.com
-www.repo.--punketa--12.cloud.playtika.com
+repo.--punketa--12.cloud.playtika.com
 www2-1995chidodev115.-.cloud.playtika.com
 api-rapid-ca1.playtika.com
 cdn-bubbleisland2-preprod-static-akm.playtika.com
@@ -1057,7 +1038,7 @@ i-021b8059673b219d5-prod-ws.wsop.playtika.com
 mail2-1995chido.www.-.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing0f9c0849c96b541e4.com.skyline.portal.crm-stage48.cloud.playtika.com
 10oktascimserverevents.bk-api-va2.com.skyline.portal.staging.cloud.playtika.com
-www.--punketa--12profile.cloud.playtika.com
+--punketa--12profile.cloud.playtika.com
 solitaire-qa1037.psf.playtika.com
 dns2-l7-poc.playtika.com
 i-081e7b184c251ec59-prod-ws.wsop.playtika.com
@@ -1271,7 +1252,7 @@ tr-sit.-.cloud.playtika.com
 lists.kafka-cc-1.cloud.playtika.com
 openpoker-ws-proxy-stage52.wsopdev.playtika.com
 rd-preprod-s3-static.playtika.com
-www.lax.bo-preprod.cloud.playtika.com
+lax.bo-preprod.cloud.playtika.com
 wsop-prod-p2-14-prod-ws.wsop.playtika.com
 api-pyodcnkky9ve77d7pi2q.preprodplatform.playtika.com
 owa.--punketa--12internal-preferences.cloud.playtika.com
@@ -1920,7 +1901,7 @@ wsop-stage13.wsopdev.playtika.com
 100f70168a6270c64a1.emeraldgrouppublishing.com.skyline.portal.staging.cloud.playtika.com
 beta-oktascimserver.referral-emeraldgrouppublishing.com.skyline.portal.staging.cloud.playtika.com
 p2-proxy-ap-northeast-1.wsop.playtika.com
-www.kafka-cc-1i-03e599e7539efe051-prod-ws.cloud.playtika.com
+kafka-cc-1i-03e599e7539efe051-prod-ws.cloud.playtika.com
 i-077d313f79c8e9a09-prod-ws.wsop.playtika.com
 stage-rd18.psf.playtika.com
 quality-gate-configsvctest-preprod-static.psf.playtika.com
@@ -1932,7 +1913,7 @@ slots-preprod.playtika.com
 ns1tmp.7.--punketa--12.cloud.playtika.com
 wsop-poker-standalone-stage55.wsopdev.playtika.com
 test.www.-.cloud.playtika.com
-www.bo-preprod.00eef746976de4f8b.cloud.playtika.com
+bo-preprod.00eef746976de4f8b.cloud.playtika.com
 bingo-dev37-app-01.vs-mission-service-dub.cloud.playtika.com
 bk-stage32.psf.playtika.com
 redecor-dsa-va2.playtika.com
@@ -2264,7 +2245,6 @@ githublui1705sit.-.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.i-0a040d6c50cfef703-prod-ws.com.stage22.portal.staging.cloud.playtika.com
 ews.01.cloud.playtika.com
 emeraldgrouppublishing.com.skyline.portal.slsocket.01591ab52ecaf7193.cloud.playtika.com
-www.yarontest2.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.cdn-bubbleisland2-preprod-static-akm.portal.0dd45a66148c45a24.staging.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.skyline.i-0c8d222d4f623c143-prod-wsportal.crm-stage48.cloud.playtika.com
 10oktascimserver.i-05dfd7834352c91e5-prod-wsemeraldgrouppublishing.com.stage22.portal.staging.cloud.playtika.com
@@ -2308,7 +2288,7 @@ altdev1-lui1705.-.cloud.playtika.com
 bingoblitz-cdn-akm.playtika.com
 rd-preprod-s3-pure-static.playtika.com
 skyline.portal.00f056bb6e21f0adf-crm-stage47.cloud.playtika.com
-www.--punketa--12-github.cloud.playtika.com
+--punketa--12-github.cloud.playtika.com
 app-merch.1995chido.sit.-.cloud.playtika.com
 junesjourney.psf.playtika.com
 wsop-poker-standalone-stage35.wsopdev.playtika.com
@@ -2351,7 +2331,7 @@ mtlsolitaire-qa12.psf.playtika.com
 --api-docs.cloud.playtika.com
 sm-stages-cdn-ec.cloud.playtika.com
 wsop-poker-standalone-stage8.wsopdev.playtika.com
-www.--punketa--12-admin.cloud.playtika.com
+--punketa--12-admin.cloud.playtika.com
 sm-stages-static-va2.playtika.com
 wsop-stage40-psf.wsopdev.playtika.com
 i-044e03ca3826835f1-prod-ws.wsop.playtika.com
@@ -2463,7 +2443,7 @@ cdn-solitaire-preprod-static2-ec.wspromo.0-forumimg-convcsm-stages-cdn.cloud.pla
 i-03e774eacbffca992-prod-ws.wsop.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.gp-kbp.portal.staging-sept.cloud.playtika.com
 ape-prod1-aws.wsop.playtika.com
-www.--punketa--12node.cloud.playtika.com
+--punketa--12node.cloud.playtika.com
 wsop-poker-destination-site-stage43.wsopdev.playtika.com
 wsop-prod-p2-102-prod-ws.wsop.playtika.com
 wsop-prod-p2-57-prod-ws.wsop.playtika.com
@@ -2645,7 +2625,7 @@ wsop-poker-facebook-stage37.wsopdev.playtika.com
 redecor-dsa.playtika.com
 cards-ext.playtika.com
 i-0d2494b90e11a9819-prod-ws.wsop.playtika.com
-www.bo-controller.cloud.playtika.com
+bo-controller.cloud.playtika.com
 rd-prod-s3-cdn.playtika.com
 --2017.cloud.playtika.com
 i-091ca777a81ac0d79-prod-ws.wsop.playtika.com
@@ -2673,7 +2653,7 @@ api-rapid-preprod.playtika.com
 psflight-qa3-static.psf.playtika.com
 1995chido.www15.-.cloud.playtika.com
 redecor-qa191.psf.playtika.com
-www.bo-preprod0cf4e962281db7ef7.cloud.playtika.com
+bo-preprod0cf4e962281db7ef7.cloud.playtika.com
 i-0338832fa0006c847-prod-ws.wsop.playtika.com
 0-114.dashbbininsidejob-stage-sfs-05rd.sm-stages-cdn.cloud.playtika.com
 10oktascimserver.service-stage48.com.skyline.0de62c3ad2379e820-portal.staging.cloud.playtika.com
@@ -2697,7 +2677,7 @@ blog.-04michaelos1dev1-3.cloud.playtika.com
 bs2zj4gidabhs.018sm-stages-cdn.cloud.playtika.com
 i-0ca86696a9dc5e549-prod-ws.wsop.playtika.com
 vpn.lui1705-billing.--sit.cloud.playtika.com
-www.www.details-stage00f053bb6e21f0adf.0-0-megagreeter.cloud.playtika.com
+www.details-stage00f053bb6e21f0adf.0-0-megagreeter.cloud.playtika.com
 10oktascim2013.emeraldgrouppublishing.com.skyline.portal.cdn-solitaire-preprod-static2.cloud.playtika.com
 16.1995chido.www.-.cloud.playtika.com
 axure.wsop.playtika.com
@@ -2736,7 +2716,7 @@ wsop-ape-stage16.wsopdev.playtika.com
 backend.mail2-1995chido.www.-.cloud.playtika.com
 beta-oktascimserver.emeraldgrouppublishing.com.skins.portal.staging.cloud.playtika.com
 wsop-poker-facebook-stage34.wsopdev.playtika.com
-www.preferences.--punketa--12.cloud.playtika.com
+preferences.--punketa--12.cloud.playtika.com
 bingo-preprod-cdn-akm.playtika.com
 hexbkm845-ui.www._domainkey.playtika.com
 ph-clogger.playtika.com
@@ -2842,7 +2822,7 @@ i-07d9a3d5fd05dae34-prod-ws.wsop.playtika.com
 sgh19-stage.psf.playtika.com
 solitaire-qa1082-backoffice.psf.playtika.com
 vs-fb-stage-wp4.i-0343dcf88eaf63c4a-prod-ws.cloud.playtika.com
-www.0-91.cloud.playtika.com
+0-91.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.skyline.portalcdn-bubbleisland2-preprod-static-akm.staging.cloud.playtika.com
 gp-test2.playtika.com
 quality-gate-1683809949711-preprod-static.psf.playtika.com
@@ -2959,7 +2939,7 @@ psflight1-stage.psf.playtika.com
 quality-gate-16916781982381-preprod.psf.playtika.com
 wsop-poker-destination-site-stage35.wsopdev.playtika.com
 i-06dda74add72fa3db-prod-ws.wsop.playtika.com
-www.bo-preprod-vegas-coupons.cloud.playtika.com
+bo-preprod-vegas-coupons.cloud.playtika.com
 quality-gate-16831209906701-preprod-backoffice.psf.playtika.com
 i-0d451b821d7c49f21-prod-ws.wsop.playtika.com
 lui1705-stage.api.-.cloud.playtika.com
@@ -3020,7 +3000,7 @@ slots-jp-coupon-aws.aws.playtika.com
 bf5-stage.psf.playtika.com
 bk-stage35.psf.playtika.com
 i-0610f2b0b9b0ac3cb-prod-ws.wsop.playtika.com
-www.--devops.cloud.playtika.com
+--devops.cloud.playtika.com
 webappwsop-prod-p2-57-prod-wssm-prod-dub-clogger.0-minsksm-stages-cdn.cloud.playtika.com
 2009-1995chido.sit.-.cloud.playtika.com
 i-0416d404ac440cd05-prod-ws.wsop.playtika.com
@@ -3101,7 +3081,6 @@ i-06a2d636b2ebe7c4b-prod-ws.wsop.playtika.com
 i-0dceb60696f3b0b7b-prod-ws.wsop.playtika.com
 vpn-iad.playtika.com
 stage-rd5.psf.playtika.com
---punketa--12profile.cloud.playtika.com
 0-0dda9inistrator.114.sm-z-p1-rupload-syd-cdn.cloud.playtika.com
 bk-stage17-backoffice-webapi.psf.playtika.com
 cdn-logs.playtika.com
@@ -3224,7 +3203,7 @@ internallui1705test.-.cloud.playtika.com
 jb-pk-static.playtika.com
 soa-qa.playtika.com
 api.elb.--punketa--12dev1.cloud.playtika.com
-www.00268c5747204db22-kafka-cc-3.cloud.playtika.com
+00268c5747204db22-kafka-cc-3.cloud.playtika.com
 bk-stage33.psf.playtika.com
 hub.service.01.cloud.playtika.com
 rd3-stage.psf.playtika.com
@@ -3276,7 +3255,7 @@ rd-s3-redecor-tapola-archived.playtika.com
 billing.email.lui1705.--sit.cloud.playtika.com
 mywsopdevtika9.0001robert0001sm-stages-cdn-akm.cloud.playtika.com
 php-www.-.cloud.playtika.com
-www.iterfid.cloud.playtika.com
+iterfid.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.skyline.portal.priv-crm-stage48.cloud.playtika.com
 solitaire-qa1107.psf.playtika.com
 mtlsolitaire.psf.playtika.com
@@ -3284,7 +3263,6 @@ tty.-1.cloud.playtika.com
 10oktascimserver.cc-fb-cdn.com.skyline.portal.staging.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.sm-com-preprod-gp-kbp.portal.staging.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.comsm-clientapi-preprod.facebook-proxy-stage49.portal.staging.cloud.playtika.com
-www.card-ext.playtika.com
 boardkings-qa18-static.psf.playtika.com
 cc-stage9-appv-01.cloud.playtika.com
 host.-04michaelos1dev1-sandbox.cloud.playtika.com
@@ -3456,7 +3434,6 @@ portal.slsocket.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.skyline.portal.cc-bonus-frontend-ca1.crm-stage12.cloud.playtika.com
 bf1-stage.psf.playtika.com
 bestfiendsstars1-stage.psf.playtika.com
---punketa--12-admin.cloud.playtika.com
 vs-fb-app-dub.playtika.com
 0-0dda9inistrator.114.sm-sedge-mws-shv-01-bos5es-cdn.cloud.playtika.com
 facebook-proxy-stage14.wsopdev.playtika.com
@@ -3513,7 +3490,7 @@ serverlui1705sit.reset.-.cloud.playtika.com
 standalone-proxy-stage40.wsopdev.playtika.com
 gp-sydney.playtika.com
 solitaire-qa816-backoffice.psf.playtika.com
-www.administrator.cloud.playtika.com
+administrator.cloud.playtika.com
 app-vs-od.playtika.com
 i-0897ed7d53737f9dd-prod-ws.wsop.playtika.com
 solitaire-qa1134.psf.playtika.com
@@ -3614,7 +3591,7 @@ pras-prod-dsa.playtika.com
 shop.-04michaelos1.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.skyline.0eff691a9b3360190.portal.crm-stage12.cloud.playtika.com
 cc-stage42-appv-01.cloud.playtika.com
-www.00012.cloud.playtika.com
+00012.cloud.playtika.com
 sgh11-stage.psf.playtika.com
 turkey.--sit.cloud.playtika.com
 stage-bf-stage-14.psf.playtika.com
@@ -3864,7 +3841,7 @@ ph-preprod-cdn.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.openpoker-ws-proxy-stage13.portal.preferences.staging.cloud.playtika.com
 stage-rd12.psf.playtika.com
 wsop-prod-p2-51-prod-ws.wsop.playtika.com
-www.-1-mirror.cloud.playtika.com
+-1-mirror.cloud.playtika.com
 0-0dda9inistrator.0-0dda9inistrator4.messaging-stages-cdn.cloud.playtika.com
 client.--sit.cloud.playtika.com
 elections.0003robert0003-sm-stages-cdn-ec.cloud.playtika.com
@@ -4047,7 +4024,6 @@ sit.--loadbalancer.cloud.playtika.com
 rd-s3-proxy.playtika.com
 0-114.dashbcamrd.man-stages-cdn.cloud.playtika.com
 0-114.demo.0-0dda90-fb-og-v2-stage38istratoristrator.staging.cloud.playtika.com
-00012.cloud.playtika.com
 wsop-poker-standalone-stage13.wsopdev.playtika.com
 wsop-stage36.wsopdev.playtika.com
 hof-gateway-ca1.playtika.com
@@ -4272,7 +4248,7 @@ ir.playtika.com
 cdn-solitaire-preprod-static.playtika.com
 i-09f4e242a34920658-prod-ws.wsop.playtika.com
 sm-sqlsages-cdn.cloud.playtika.com
-www.--confluence.cloud.playtika.com
+--confluence.cloud.playtika.com
 20-mail.-08b-east-ecs-cdn-ecstage.cloud.playtika.com
 servicenow-cdn.000.cloud.playtika.com
 wsop-poker-standalone-stage59.wsopdev.playtika.com
@@ -4280,7 +4256,6 @@ i-0d4fb37a8bca469e8-prod-ws.wsop.playtika.com
 facebook-proxy-stage3.wsopdev.playtika.com
 vegas-ca1-php.playtika.com
 owawww82.--punketa--12.cloud.playtika.com
-www.-1-test.cloud.playtika.com
 10cc-inapps.service-stage48.com.skyline.portal.staging.cloud.playtika.com
 design-imageproxy-dev.playtika.com
 12009.--punketa--12.cloud.playtika.com
@@ -4336,7 +4311,7 @@ bingo-preprod-app-dsa.playtika.com
 sgh-static-s3.playtika.com
 solitaire-qa1015.psf.playtika.com
 wsop-poker-facebook-stage10.wsopdev.playtika.com
-www.int.-.cloud.playtika.com
+int.-.cloud.playtika.com
 lui1705-stage.--july.cloud.playtika.com
 skyline.portal.staging.002525c37344e09.cloud.playtika.com
 tty-analytics.-1.cloud.playtika.com
@@ -4377,7 +4352,7 @@ skyline.portal.00fed58c9a98adb83-cdn-solitaire-preprod-static2.cloud.playtika.co
 2015-1995chido.-.cloud.playtika.com
 vs-mob-preprod.playtika.com
 fb-og-v2-stage7.wsopdev.playtika.com
-www.bo-preprod-0d306c3408e425e12.cloud.playtika.com
+bo-preprod-0d306c3408e425e12.cloud.playtika.com
 0-administratorsoa-qa.bingo-preprod-sfs-06.sm-stages-cdn.cloud.playtika.com
 api.1995chidodev1.--staff.cloud.playtika.com
 emailpoland.lui1705.--sit.cloud.playtika.com
@@ -4406,10 +4381,10 @@ sm-preprod-redirector.playtika.com
 i-05214c1e88b981ba5-prod-ws.wsop.playtika.com
 solitaire-qa308.psf.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.facebook-proxy-stage49-2016.portal.staging.cloud.playtika.com
-www.bucket.-.cloud.playtika.com
+bucket.-.cloud.playtika.com
 6.--punketa--12.cloud.playtika.com
 sm-preprod-bonus-legacy.playtika.com
-www.--developer.cloud.playtika.com
+--developer.cloud.playtika.com
 bk-stage26.psf.playtika.com
 portal.00f61a5d084eefb01-staging.cloud.playtika.com
 wsop-poker-standalone-stage1.wsopdev.playtika.com
@@ -4454,7 +4429,7 @@ ssltest.0-admissionssm-stages-cdn.cloud.playtika.com
 standalone-proxy-stage10.wsopdev.playtika.com
 stage-bf-stage-2.bf.playtika.com
 cc-one-user-registration-service.playtika.com
-www.00268c5747204db25-kafka-cc-1.cloud.playtika.com
+00268c5747204db25-kafka-cc-1.cloud.playtika.com
 mergetowerbots-qa537.psf.playtika.com
 pk-messaging-dsa.playtika.com
 sandbox1995chido.-.cloud.playtika.com
@@ -4599,7 +4574,7 @@ dz2563isv5m4b4oy42huiqwm-wpengine.www._domainkey.playtika.com
 --northamerica.cloud.playtika.com
 crm-internal-prod.wsop.playtika.com
 trprod1995chido.www.-.cloud.playtika.com
-www.servicenow-cdn-bo-preprod.cloud.playtika.com
+servicenow-cdn-bo-preprod.cloud.playtika.com
 rd-preprod-s3-redecor-profile.playtika.com
 -04michaelos1.cloud.playtika.com
 wsop-ape-stage14.wsopdev.playtika.com
@@ -4816,7 +4791,7 @@ slsocket.00eef746979de3f8b.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.skyline.portal.sgh-preprod-messagingcommon-grafana.cloud.playtika.com
 2tty.--punketa--12dev.cloud.playtika.com
 cvs-preprod.openpoker.cloud.playtika.com
-www.000afe57ade4b527b-bo-preprod.cloud.playtika.com
+000afe57ade4b527b-bo-preprod.cloud.playtika.com
 sgh-qa497.psf.playtika.com
 store.brazil.dev1-lui1705.-.cloud.playtika.com
 test.brand.-04michaelos.cloud.playtika.com
@@ -4968,14 +4943,13 @@ facebook-proxy-stage10.wsopdev.playtika.com
 fb-og-v2-stage58.wsopdev.playtika.com
 i-06a209f1cf50fda72-prod-ws.wsop.playtika.com
 turkey-dev2.1995chido.www.-.cloud.playtika.com
-www.-1-admin1.cloud.playtika.com
 1995chido-testing.-.cloud.playtika.com
 lui1705-stage-cms1.-.cloud.playtika.com
 piratekings-qa7-static.psf.playtika.com
 sm-yahoo-preprod-cdn.playtika.com
 openpoker-ws-proxy-stage5.wsopdev.playtika.com
 wsop-poker-standalone-stage11.wsopdev.playtika.com
-www.cc-playtinet-web-va2bo-preprod.cloud.playtika.com
+cc-playtinet-web-va2bo-preprod.cloud.playtika.com
 i-07ad4bfd9a14551e5-prod-ws.wsop.playtika.com
 i-0ae60316cb5e408f9-prod-ws.wsop.playtika.com
 wsop-poker-stage36.wsopdev.playtika.com
@@ -5001,7 +4975,6 @@ store.dev1-lui1705.--webapp.cloud.playtika.com
 bumyul2000.www._domainkey.playtika.com
 sgh1-stage-backoffice.psf.playtika.com
 sm-cloudinary-cdn.playtika.com
-www.pam.playtika.com
 api-apsfcvd251v583bipr1n.platform.playtika.com
 bf12-stage.psf.playtika.com
 catforce-preprod-backoffice-f5.psf.playtika.com
@@ -5131,7 +5104,7 @@ i-068b26e6ae1e7c173-prod-ws.wsop.playtika.com
 stagingpromotion.cloud.playtika.com
 cgi.0070.cloud.playtika.com
 pltf-stages-static-ca1.playtika.com
-www.--bucket.cloud.playtika.com
+--bucket.cloud.playtika.com
 redecor-qa330.psf.playtika.com
 quality-gate-1669038359886-preprod.psf.playtika.com
 vs-fb-stage48.i-019e1256dfd883d02-prod-ws.cloud.playtika.com
@@ -5511,7 +5484,7 @@ lui1705sit-ci.-.cloud.playtika.com
 bzo8gcy1m2pfygzq75kn-internal-gw.psf.playtika.com
 wsop-prod-p2-114-prod-ws.wsop.playtika.com
 solitaire-qa1078-backoffice.psf.playtika.com
-www.loadbalancer.bo-preprod.cloud.playtika.com
+loadbalancer.bo-preprod.cloud.playtika.com
 sgh-qa528.psf.playtika.com
 shop-1995chidoturkey.--uat.cloud.playtika.com
 wsop-poker-destination-site-stage9.wsopdev.playtika.com
@@ -5961,7 +5934,7 @@ i-0656bf2a5336286f6-prod-ws.wsop.playtika.com
 0-0dda904istrator.0-0dda9chaapinftistrator4.sm-stages-hrz.cloud.playtika.com
 1995chido.sit-t.-.cloud.playtika.com
 vs-stage1-by.gnocchi-cdn-nc-ec.cloud.playtika.com
-www.000bd9845a055eec4.cloud.playtika.com
+000bd9845a055eec4.cloud.playtika.com
 cc-messaging-ca1.playtika.com
 1995chido.wwwvpn.-.cloud.playtika.com
 quality-gate-ts-preprod-backoffice.psf.playtika.com
@@ -6002,7 +5975,6 @@ fb-og-v2-stage57.wsopdev.playtika.com
 mail2-1995chido.euwewww.-.cloud.playtika.com
 poc-tomcat-mongo.playtika.com
 test.nl.-04michaelos.cloud.playtika.com
-www.bo-preprod.00eef746976de2f8b.cloud.playtika.com
 bb-ca1-api.playtika.com
 bestfiendsstars-cs.psf.playtika.com
 prod.www.--punketa--12-nautilus.cloud.playtika.com
@@ -6117,7 +6089,7 @@ wsop-stage11.wsopdev.playtika.com
 mergetowerbots-preprod.psf.playtika.com
 myplaytika9.backend-standalone-proxy-fb-og-v2-stage9-prod-p2-099-prod-ws.0000.cloud.playtika.com
 chef.internallui1705.-.cloud.playtika.com
-www.bo-preprodcc-board.cloud.playtika.com
+bo-preprodcc-board.cloud.playtika.com
 f3.01.cloud.playtika.com
 exchange.sit.i.-.cloud.playtika.com
 ns1.random.7.--punketa--12.cloud.playtika.com
@@ -6217,7 +6189,6 @@ dockermysql.-.cloud.playtika.com
 i-0cf4c77ba9a90e2e9-prod-ws.wsop.playtika.com
 i-000ba30cd4ac35bb3-prod-ws.wsop.playtika.com
 i-0640e4ac7700362b6-prod-ws.wsop.playtika.com
-www.--punketa--12-europe.cloud.playtika.com
 stage-bf-stage-4.psf.playtika.com
 wsop-poker-facebook-stage23.wsopdev.playtika.com
 internal.-.cloud.playtika.com
@@ -6278,7 +6249,6 @@ api.--punketa--12dev1-machine.cloud.playtika.com
 bk-cdn-ec.playtika.com
 i-02576700ec7f82ef6-prod-ws.wsop.playtika.com
 quality-gate-1664812539941-preprod-backoffice.psf.playtika.com
---bucket.cloud.playtika.com
 0-0dda904istrator.0-0dda9chanameistrator4.sm-kievs-cdn.cloud.playtika.com
 fb-og-v2-stage36.wsopdev.playtika.com
 ml.client-logger01.cloud.playtika.com
@@ -6400,7 +6370,7 @@ development.php.gke.development.02.cloud.playtika.com
 www4.sm-qa1092s-cdn.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing-vs-fb-android.com.skyline.portal.slsocket.cloud.playtika.com
 solitaire-qa1053-static.psf.playtika.com
-www.bo-preprod.0152339d2d7a77c75.cloud.playtika.com
+bo-preprod.0152339d2d7a77c75.cloud.playtika.com
 apici.1995chidodev1.-.cloud.playtika.com
 clweb.www._domainkey.playtika.com
 wsop-poker-live-replication.portal.013906a153a6f3e16.cloud.playtika.com
@@ -6489,7 +6459,7 @@ eu1.www._domainkey.playtika.com
 i-09b9777b1d3be6ab3-prod-ws.wsop.playtika.com
 staging.00266c5747204db23.cloud.playtika.com
 wsop-daily-blitz-stage.wsopdev.playtika.com
-www.00268c5747204db28-kafka-cc-1.cloud.playtika.com
+00268c5747204db28-kafka-cc-1.cloud.playtika.com
 10oktascimserver.0274c6b568dd98e01backoffice-wsop.com.skyline.portal.staging.cloud.playtika.com
 bf-static.playtika.com
 lui1705-stage-poland.-.cloud.playtika.com
@@ -6647,7 +6617,6 @@ bestfiendsstars-cdn.psf.playtika.com
 i-0e114cd5201f613ac-prod-ws.wsop.playtika.com
 openpoker-ws-proxy-stage13.portal.staging.002525c37347e07.cloud.playtika.com
 com.skyline.portal.crm-stage48.00fed58c8a88adb81.cloud.playtika.com
-www.cloud.playtika.com
 promotion1.vs-fb-stage-wp1.cloud.playtika.com
 lui1705-stage-acc.-.cloud.playtika.com
 dev2.1995chido-2.www.-.cloud.playtika.com
@@ -6817,7 +6786,7 @@ wsop-stage38-psf.wsopdev.playtika.com
 i-0c10b4b83e2920c09-prod-ws.wsop.playtika.com
 lui1705-v2.-.cloud.playtika.com
 10oktascimserver.facebook-proxy-stage11.com.skyline.portal-preprod2.staging.cloud.playtika.com
-www.--punketa--12.cloud.playtika.com
+--punketa--12.cloud.playtika.com
 10oktascimserver.emeraldgrouppublishing.com.ctl-stage13.portal.staging.cloud.playtika.com
 app-com.-1.cloud.playtika.com
 blog.-04michaelos1dev1aws.cloud.playtika.com
@@ -6856,7 +6825,6 @@ apifrontpage.1995chidodev1.-.cloud.playtika.com
 app.sm-mm.playtika.com
 dashbftpdrd.sm-grafanaepsms-cdn.cloud.playtika.com
 wsop-stage2-psf.wsopdev.playtika.com
-www.stash.playtika.com
 cc-fb-viber-p1.playtika.com
 cc-stage96-appv-01.cloud.playtika.com
 pras-preprod-cdn-akm.playtika.com

@@ -1,5 +1,4 @@
 support.actility.com
-*.actility.com
 rms.poc2.actility.com
 demo-connector.actility.com
 close.actility.com
@@ -14,9 +13,9 @@ intranet.actility.com
 partners.preprod.actility.com
 das.dev.actility.com
 market.preprod.actility.com
-www.preprod.actility.com
+preprod.actility.com
 m2mcc.dev.actility.com
-www.energy.actility.com
+energy.actility.com
 office.thingpark.actility.com
 ecosystem.actility.com
 dev-afp.ops.actility.com
@@ -62,7 +61,6 @@ das.actility.com
 ops-timesheets.internal.actility.com
 elia-r3nr.preprod.connector.actility.com
 analytics.actility.com
-www.actility.com
 git.int.actility.com
 mail.actility.com
 mooc.preprod.actility.com

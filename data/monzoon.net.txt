@@ -5,7 +5,6 @@ zrhm-ops11.monzoon.net
 zrh-web09.monzoon.net
 zrh-bms02.monzoon.net
 shop.monzoon.net
-www.monzoon.net
 sso.monzoon.net
 login.monzoon.net
 zrh-iottest01.monzoon.net
@@ -86,8 +85,8 @@ zrh-as91.monzoon.net
 wob1-as45.monzoon.net
 sto1-as02.monzoon.net
 zrhm-ops12.monzoon.net
-www.dsl.monzoon.net
-www.ftth.monzoon.net
+dsl.monzoon.net
+ftth.monzoon.net
 oiz1-as02.monzoon.net
 fra1-as16.monzoon.net
 rt5t.monzoon.net
@@ -144,9 +143,7 @@ wwwtest.monzoon.net
 zrh-as61.monzoon.net
 zrh-as61-em0.monzoon.net
 fra1-as09.monzoon.net
-www.lgate.monzoon.net
 zrh-iot01.monzoon.net
-www.zrh-iot01.monzoon.net
 riv1-com01.monzoon.net
 46-253-177-30.static.monzoon.net
 wob1-as06.monzoon.net

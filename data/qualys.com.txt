@@ -33,7 +33,7 @@ sn233.s02.sjc01.qualys.com
 sn214.s02.sjc01.qualys.com
 sonarqube.intranet.qualys.com
 sn047.s01.gva01.qualys.com
-www.freescan.qualys.com
+freescan.qualys.com
 demo05.s02.sjc01.qualys.com
 scanservice1.poc.qualys.com
 qps.poc.qualys.com
@@ -211,9 +211,8 @@ sn123.s02.sjc01.qualys.com
 sn077.s01.gva01.qualys.com
 sn103.s01.gva01.qualys.com
 sn400.s02.sjc01.qualys.com
-freescan.qualys.com
 sn115.s01.gva01.qualys.com
-www.us.bo.qualys.com
+us.bo.qualys.com
 fts.qualys.com
 distribution.poc.qualys.com
 sn173.s02.sjc01.qualys.com
@@ -423,7 +422,6 @@ xrepo.dev.qualys.com
 distribution.qg14.int.qualys.com
 cw1.sc4.qualys.com
 sn161.s02.sjc01.qualys.com
-www.qualys.com
 sn168.s02.sjc01.qualys.com
 qualysapi-trn.int.qualys.com
 debug.qg4.apps.qualys.com
@@ -489,7 +487,7 @@ qagpublic-p03.int.qualys.com
 mail.qualys.com
 sn040.s02.sjc01.qualys.com
 debug.qg3.apps.qualys.com
-www.fr.qualys.com
+fr.qualys.com
 sn022.s02.sjc01.qualys.com
 dc38.qmobility.qualys.com
 sn045.s01.gva01.qualys.com
@@ -991,7 +989,6 @@ qualysguard.poc.qualys.com
 sn270.s02.sjc01.qualys.com
 sn102.s01.gva01.qualys.com
 certs.qg2.gov.qualys.com
-www.cn.qualys.com
 sn169.s02.sjc01.qualys.com
 sn024.s02.sjc01.qualys.com
 sn059.s01.gva01.qualys.com
@@ -1029,7 +1026,7 @@ sn422.s01.sea01.qualys.com
 qgadmin6.qualys.com
 scanssp06.qualys.com
 sn007.s02.iad01.qualys.com
-www.bo.ivs.ignite.qualys.com
+bo.ivs.ignite.qualys.com
 sn041.s02.sjc01.qualys.com
 bc1.sc4.qualys.com
 scanner16.sp15.qualys.com
@@ -1039,13 +1036,11 @@ sn425.s01.sea01.qualys.com
 og-vam5.ubizen.qualys.com
 sn329.s01.sea01.qualys.com
 sn429.s01.sea01.qualys.com
-www.fts-na.qualys.com
 testdeadenddummy.qualys.com
 agent02.ondemand.qualys.com
 ip12-162-2-29.us01.qualys.com
 p05.eng.sjc01.qualys.com
 sn244.s01.sea01.qualys.com
-www.camspublic.qg1.apps.qualys.com
 demohost1.gva.qualys.com
 scanner01.sp09.qualys.com
 vm5.mss.verisign.com.qualys.com
@@ -1114,7 +1109,6 @@ scanner09.sp12.qualys.com
 sn009.s02.iad01.qualys.com
 scanner07.sp14.qualys.com
 sn102.s02.iad01.qualys.com
-www.webauth2.qualys.com
 scheduler2.pci.qualys.com
 sn025.s02.iad01.qualys.com
 www5.bo.ivs.ignite.qualys.com
@@ -1162,7 +1156,6 @@ scanner12.sp01.qualys.com
 sn021.s02.iad01.qualys.com
 sn278.s01.sea01.qualys.com
 sn285.s01.sea01.qualys.com
-www.services.it.qualys.com
 scanner02.sp03.qualys.com
 scanner02.sp14.qualys.com
 sn314.s01.sea01.qualys.com
@@ -1243,9 +1236,7 @@ vm7.mss.verisign.com.qualys.com
 qagpublic.qualys.com
 freemap1.qualys.com
 scanner11.sp13.qualys.com
-www.camsrepo.qg3.apps.qualys.com
 scanner10.sp02.qualys.com
-www.qpartnerintegration.p01.sjc01.qualys.com
 console3.sc4.qualys.com
 qgadmin8.qualys.com
 scanner20.sp06.qualys.com
@@ -1254,7 +1245,6 @@ ip12-162-2-6.us01.qualys.com
 sn180.s01.sea01.qualys.com
 scanner04.sp12.qualys.com
 scanner42.sjdc01.qualys.com
-www.qpartnerintegration.p02.sjc01.qualys.com
 sn040.s01.sea01.qualys.com
 sn279.s02.sjc01.qualys.com
 sn443.s01.sea01.qualys.com
@@ -1543,10 +1533,9 @@ vuln.p08.eng.sjc01.qualys.com
 demo1.gva.qualys.com
 sn280.s01.sea01.qualys.com
 demo.qualys.com
-www.ivs.ignite.qualys.com
+ivs.ignite.qualys.com
 scanner04.sp09.qualys.com
 sn151.s01.sea01.qualys.com
-www.camsrepo.qg2.apps.qualys.com
 scanner06.sp01.qualys.com
 sn359.s01.sea01.qualys.com
 ip-64-39-108-3.us01.qualys.com
@@ -1560,7 +1549,6 @@ ip-64-39-107-2.us01.qualys.com
 sn352.s01.sea01.qualys.com
 sn224.s01.sea01.qualys.com
 sn293.s01.sea01.qualys.com
-www.camspublic.qg3.apps.qualys.com
 eqix-ema-dc.qualys.com
 qualysguard8.qualys.com
 scanner19.sp03.qualys.com
@@ -1574,7 +1562,6 @@ sn203.s01.sea01.qualys.com
 sn078.s02.iad01.qualys.com
 sn008.s02.iad01.qualys.com
 sn263.s01.sea01.qualys.com
-www.camspublic.qg2.apps.qualys.com
 scanner04.sp03.qualys.com
 scanner20.sp15.qualys.com
 scardphotography.ashleer20.sp02.qualys.com
@@ -1636,7 +1623,6 @@ sn260.s01.sea01.qualys.com
 sn333.s01.sea01.qualys.com
 sn446.s01.sea01.qualys.com
 certs-rrs.qualys.com
-www.camspm.qg1.apps.qualys.com
 scanner02.sp12.qualys.com
 scanner02.sp13.qualys.com
 scanner12.sp09.qualys.com
@@ -1686,13 +1672,11 @@ sn367.s01.sea01.qualys.com
 scanner06.sp11.qualys.com
 sn146.s01.sea01.qualys.com
 sn428.s01.sea01.qualys.com
-www.camsrepo.qg1.apps.qualys.com
 sn327.s01.sea01.qualys.com
 sn370.s01.sea01.qualys.com
 soaosb-qa01.int.qualys.com
 forum2.sc4.qualys.com
 sn431.s01.sea01.qualys.com
-www.invoice.qualys.com
 vm3.mss.verisign.com.qualys.com
 64-39-103-241.mds.qualys.com
 ip-64-39-108-2.us01.qualys.com
@@ -1706,7 +1690,6 @@ sn130.s02.iad01.qualys.com
 demo9.gva.qualys.com
 scanner03.sjdc01.qualys.com
 labs.qualys.com
-www.qpatchpublic.qg3.apps.qualys.com
 scanner38.sjdc01.qualys.com
 sn013.s02.iad01.qualys.com
 sn435.s01.sea01.qualys.com
@@ -2004,7 +1987,6 @@ webservice.qualys.com
 gateway-trn.int.qualys.com
 scanner05.sp09.qualys.com
 elk.sc4.qualys.com
-www.qualysguard.qualys.com
 sn209.s01.sea01.qualys.com
 sn336.s01.sea01.qualys.com
 sn175.s01.sea01.qualys.com
@@ -2040,13 +2022,10 @@ sn449.s01.sea01.qualys.com
 sn454.s01.sea01.qualys.com
 download-rrs.qualys.com
 scanner14.sp02.qualys.com
-www.semca.qg1.apps.qualys.com
 tc02.us.qualys.com
-www.sonarqube.intranet.qualys.com
 scanner11.sp09.qualys.com
 scanner14.sp11.qualys.com
 sn211.s01.sea01.qualys.com
-www.qgadmin.qualys.com
 scanner12.sp12.qualys.com
 sn004.s02.iad01.qualys.com
 sn125.s02.iad01.qualys.com
@@ -2094,7 +2073,6 @@ sn317.s01.sea01.qualys.com
 5ldrn1c1.qualys.com
 sans20-3a.qualys.com
 sn057.s02.sjc01.qualys.com
-fr.qualys.com
 sc4.qualys.com
 www4.bo.ivs.ignite.qualys.com
 ip12-162-2-28.us01.qualys.com
@@ -2314,7 +2292,6 @@ sn023.s02.iad01.qualys.com
 sn116.s01.sjc01.qualys.com
 jabber.qualys.com
 sn043.s02.iad01.qualys.com
-www.camspm.qg2.apps.qualys.com
 nochost.preview.qualys.com
 api7.us.qualys.com
 scanner10.sp12.qualys.com
@@ -2326,7 +2303,6 @@ sn030.s02.sjc01.qualys.com
 sn307.s01.sea01.qualys.com
 vss7.verizonbusiness.qualys.com
 counterpane1.pci.qualys.com
-www.camspm.qg3.apps.qualys.com
 scanner14.sjdc01.qualys.com
 sn033.s01.sea01.qualys.com
 sn442.s01.sea01.qualys.com

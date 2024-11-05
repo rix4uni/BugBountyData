@@ -1,4 +1,3 @@
-*.gcr.io
 137mbk8s.gcr.io
 142mbk8s.gcr.io
 209mbk8s.gcr.io
@@ -202,8 +201,6 @@ wiki.gcr.io
 wordpress.gcr.io
 wp.gcr.io
 ww1.gcr.io
-www.gcr.io
-www.k8s.gcr.io
 www1.gcr.io
 www2.gcr.io
 x22eu.gcr.io

@@ -22,7 +22,6 @@ inte.netatmo.com
 view.inte.netatmo.com
 shop.netatmo.com
 wwwbeta.netatmo.com
-www.netatmo.com
 backoffice-crmbeta.netatmo.com
 backoffice-crm.inte.netatmo.com
 buildingbeta.netatmo.com
@@ -67,7 +66,6 @@ health.netatmo.com
 homecontrol.netatmo.com
 info.netatmo.com
 netcomv2.inte.netatmo.com
-www.inte.netatmo.com
 apicom.inte.netatmo.com
 weathermap.inte.netatmo.com
 static.inte.netatmo.com
@@ -82,7 +80,6 @@ view.netatmo.com
 vpnfr.netatmo.com
 auth.netatmo.com
 api.netatmo.com
-www.shop-bo.netatmo.com
 shop-bo.netatmo.com
 static.netatmo.com
 start.netatmo.com
@@ -101,4 +98,3 @@ settingsvelux.inte.netatmo.com
 v1.inte.netatmo.com
 my.inte.netatmo.com
 blog.netatmo.com
-*.netatmo.com

@@ -1,9 +1,7 @@
-*.getadigital.com
 beta.getadigital.com
 porterbuddy.getadigital.com
 manager-porterbuddy.getadigital.com
 paragon-prod.getadigital.com
-*.paragon-prod.getadigital.com
 cibes.getadigital.com
 se-feedback-test.getadigital.com
 se-feedback.getadigital.com
@@ -31,7 +29,6 @@ test-inriver-explorer.getadigital.com
 web-03.getadigital.com
 1p-scim.getadigital.com
 samuel-portal.getadigital.com
-www.getadigital.com
 no-feedback-admin-test.getadigital.com
 feedback-admin.getadigital.com
 web-dev-04.getadigital.com

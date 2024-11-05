@@ -1,5 +1,3 @@
-*.desan.nl
-www.desan.nl
 status.kwh.desan.nl
 status.agridirect.desan.nl
 sftp.desan.nl
@@ -31,7 +29,7 @@ accept.kuo.desan.nl
 accept.hbo.desan.nl
 uc.desan.nl
 um.desan.nl
-www.beheer.shv.desan.nl
+beheer.shv.desan.nl
 nva.desan.nl
 hbo.desan.nl
 kuo.desan.nl
@@ -51,7 +49,6 @@ accept.desan.nl
 autodiscover.desan.nl
 trusted.desan.nl
 status.moec.desan.nl
-beheer.shv.desan.nl
 onderzoek.desan.nl
 pop3.desan.nl
 mail.desan.nl

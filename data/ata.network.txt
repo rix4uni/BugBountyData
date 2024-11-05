@@ -1,5 +1,4 @@
 canaryquests-1.ata.network
-www.ata.network
 veristore.ata.network
 conveyor-production.ata.network
 pom.ata.network
@@ -116,7 +115,6 @@ faucet.ata.network
 witness.ata.network
 witness-geode-mainnet.ata.network
 private-pool.ata.network
-*.ata.network
 a-geode-staging.ata.network
 fs-api.ata.network
 a-geode.ata.network

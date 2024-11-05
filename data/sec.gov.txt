@@ -8,7 +8,7 @@ wcmdev.sec.gov
 mdz-ws-efoiapal.sec.gov
 mail.sec.gov
 sfmail1.sec.gov
-www.meetings2.sec.gov
+meetings2.sec.gov
 secfwa.sec.gov
 rwrs-ns.sec.gov
 md-us-oithubrelay01.ix.sec.gov
@@ -40,15 +40,14 @@ tcrstg.sec.gov
 dmz-hub-db-stage.ixdmz.sec.gov
 relay3.sec.gov
 mdz-up-oitcaapm.ixdmz.sec.gov
-www.onlineforms.edgarfiling.sec.gov
-penguin.sec.gov
 onlineforms.edgarfiling.sec.gov
+penguin.sec.gov
 webexint-vm1.webex.sec.gov
 awacc.sec.gov
 mrs-d204.sec.gov
 wcmdev1.sec.gov
 adfs.sec.gov
-www.dcmstg.sec.gov
+dcmstg.sec.gov
 loginstg.glb.sec.gov
 mdz-us-oitopwcp09.ixdmz.sec.gov
 d1asavpn.ad.sec.gov
@@ -62,7 +61,7 @@ mrs-d109.sec.gov
 vdi-d1.sec.gov
 d2-web3.sec.gov
 d1z-up-oituimdmz.ixdmz.sec.gov
-www.portal.edgarfiling.sec.gov
+portal.edgarfiling.sec.gov
 meet2.sec.gov
 cms.sec.gov
 crow.sec.gov
@@ -81,12 +80,12 @@ email.glb.ad.sec.gov
 filermgmt-beta.edgarfiling.sec.gov
 devel1.datacatalog.sec.gov
 enfstage.sec.gov
-www.casarray.glb.ad.sec.gov
+casarray.glb.ad.sec.gov
 d2-stg-udmxohs1.ix.sec.gov
 feedback-alpha.edgarfiling.sec.gov
 d2-sec-feeds.sec.gov
 stage-portal-alpha.edgarfiling.sec.gov
-www.awmag.sec.gov
+awmag.sec.gov
 effssrtsweb.static.sec.gov
 d2-zix01.sec.gov
 mdz-ud-oithubrelay.ixdmz.sec.gov
@@ -97,5 +96,4 @@ stg.sec.gov
 wts.sec.gov
 d1-sec-dmzidm1.ixdmz.sec.gov
 acadia.glb.sec.gov
-www.sec.gov
 www2.sec.gov

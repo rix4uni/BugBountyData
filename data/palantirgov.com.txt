@@ -204,8 +204,6 @@ whirl-mgmt.palantirgov.com
 whirl-mgmt-staging.palantirgov.com
 whirl-staging.palantirgov.com
 woodward.palantirgov.com
-www.tang-saml.palantirgov.com
-www.va-saml.palantirgov.com
 zambia.palantirgov.com
 zimbabwe.palantirgov.com
 abbey-gws.palantirgov.com
@@ -222,7 +220,6 @@ c2n.palantirgov.com
 cranberry.palantirgov.com
 node.palantirgov.com
 demo-readiness-ai-02.palantirgov.com
-www.palantirgov.com
 dpmo.palantirgov.com
 missionmanager.palantirgov.com
 c2n-integration.palantirgov.com
@@ -241,13 +238,12 @@ ngc2.palantirgov.com
 rise8-gws.palantirgov.com
 alaris-compute.palantirgov.com
 odessa.palantirgov.com
-*.llm.palantirgov.com
+llm.palantirgov.com
 bis-containers.palantirgov.com
 bluestone.palantirgov.com
 burp-mckinley.palantirgov.com
 c2n-integration-g-usgc-2.palantirgov.com
 c2n-integration-map-server.palantirgov.com
-llm.palantirgov.com
 ngc2-chariot-minio.palantirgov.com
 ngc2-lattice.palantirgov.com
 ngc2-saber.palantirgov.com

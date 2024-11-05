@@ -5,10 +5,7 @@ netgreidslur.korta.is
 webpay.korta.is
 ecwid.korta.is
 demo.dev.korta.is
-www.netgreidslur.korta.is
 khsm.dev.korta.is
-www.korta.is
-www.shopify.korta.is
 shopify.korta.is
 svc-qa.korta.is
 vinnsla.korta.is
@@ -16,7 +13,7 @@ s.korta.is
 ecwid-gc.korta.is
 swagger.dev.korta.is
 ecwid-gw.korta.is
-www.mitt.korta.is
+mitt.korta.is
 p.korta.is
 test.korta.is
 tengi.korta.is
@@ -28,9 +25,7 @@ sandbox-webpayments.korta.is
 my.korta.is
 kpay.dev.korta.is
 js.dev.korta.is
-mitt.korta.is
 sandbox-integration.korta.is
 kibana.dev.korta.is
 pci.korta.is
 new.korta.is
-*.korta.is

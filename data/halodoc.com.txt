@@ -1,6 +1,5 @@
 looker.prod.halodoc.com
 lcenter.halodoc.com
-www.halodoc.com
 medisend-stage.int.halodoc.com
 qiscus-mqtt.api.halodoc.com
 digital-clinic.stage.halodoc.com
@@ -35,7 +34,6 @@ ph.halodoc.com
 prod.halodoc.com
 cme.halodoc.com
 stage.halodoc.com
-www.cme.halodoc.com
 api.halodoc.com
 test.prod.halodoc.com
 data.prod.halodoc.com

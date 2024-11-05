@@ -2,17 +2,15 @@ admin.spinback.com
 qa.spinback.com
 app.spinback.com
 dashboard.spinback.com
-www.spinback.com
 ico.spinback.com
 staging.spinback.com
 app.staging.spinback.com
-www.app.spinback.com
 integration.spinback.com
 blog.spinback.com
 demo.spinback.com
 svn.spinback.com
 prototype.spinback.com
-www.www.spinback.com
+www.spinback.com
 gateway.spinback.com
 workspace.spinback.com
 online.spinback.com
@@ -57,6 +55,4 @@ sites.spinback.com
 goto.spinback.com
 citrix.spinback.com
 office.spinback.com
-www.apps.spinback.com
-www.sites.spinback.com
-www.hq.spinback.com
+hq.spinback.com

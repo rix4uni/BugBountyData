@@ -33,7 +33,6 @@ api.customer-mock-api.preprod.membership.coop.co.uk
 causes-api.membership.digital.coop.co.uk
 api.digital.coop.co.uk
 electrical.coop.co.uk
-www.funeralcare.coop.co.uk
 funeralcare.coop.co.uk
 api.cooperate-dev.digital.coop.co.uk
 preprod.api.digital.coop.co.uk
@@ -41,7 +40,6 @@ causes-api.sit.membership-dev.digital.coop.co.uk
 causes-api.preprod.membership.digital.coop.co.uk
 api.cooperate.coop.co.uk
 estateplanning.coop.co.uk
-www.estateplanning.coop.co.uk
 causes-mgmt.sit.membership-dev.digital.coop.co.uk
 blog.coop.co.uk
 qa.co-operative.publishing-services.digital.coop.co.uk
@@ -58,7 +56,7 @@ fex-collaborate.sit.membership-dev.digital.coop.co.uk
 collaborate.sit.membership-dev.digital.coop.co.uk
 qa.api.fnc-dev.digital.coop.co.uk
 van-policy.coop.co.uk
-www.inbound-dev.digital.coop.co.uk
+inbound-dev.digital.coop.co.uk
 sit.api.coop.co.uk
 coopcmg.coop.co.uk
 dev.api.cls-dev.digital.coop.co.uk
@@ -98,6 +96,6 @@ flexera.coop.co.uk
 preview.development.co-operative.publishing-services.digital.coop.co.uk
 development.co-operative.publishing-services.digital.coop.co.uk
 youngdriver.coop.co.uk
-*.dev.retail.digital.coop.co.uk
+dev.retail.digital.coop.co.uk
 basket.dv.commerce.coop.co.uk
 order.dv.commerce.coop.co.uk

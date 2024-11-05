@@ -12,7 +12,7 @@ sg.coinbase.com
 press-dev.coinbase.com
 status.commerce.coinbase.com
 api.am.coinbase.com
-www.engineering.coinbase.com
+engineering.coinbase.com
 nft.coinbase.com
 ex-notify.coinbase.com
 compute-service.crypto.coinbase.com
@@ -80,7 +80,7 @@ billing-systems.coinbase.com
 developer.coinbase.com
 pg-sign-key-coinbase-002.prod.coinbase.com
 consumer.coinbase.com
-www.docs.custody.coinbase.com
+docs.custody.coinbase.com
 relay-api.coinbase.com
 community.coinbase.com
 store.coinbase.com
@@ -117,7 +117,6 @@ support-dev.prime.coinbase.com
 prime-staging.coinbase.com
 help-staging.coinbase.com
 support-staging.coinbase.com
-engineering.coinbase.com
 blog.coinbase.com
 api.coinbase.com
 institutional.coinbase.com
@@ -149,7 +148,6 @@ support.coinbase.com
 prime-dev.coinbase.com
 support-dev.coinbase.com
 custody.coinbase.com
-docs.custody.coinbase.com
 buy.coinbase.com
 jpm-rtp-dev.coinbase.com
 blog-staging.coinbase.com
@@ -280,7 +278,6 @@ bittip.coinbase.com
 wwww.coinbase.com
 www2.coinbase.com
 wvw.coinbase.com
-www.coinbase.com
 docs.cdp.coinbase.com
 go.wallet.coinbase.com
 l2-mainnet.wallet.coinbase.com
@@ -314,38 +311,6 @@ testnet-stellar.wallet.coinbase.com
 vendor-api.coinbase.com
 zcash-indexer.coinbase.com
 ropsten-infura.wallet.coinbase.com
-www.blog.coinbase.com
-*.coinbase.com
-*.accounts.coinbase.com
-*.analytics.coinbase.com
-*.billing-systems.coinbase.com
-*.cbs.coinbase.com
-*.ccm.coinbase.com
-*.cdp.coinbase.com
-*.cloud.coinbase.com
-*.commerce.coinbase.com
-*.console.cloud.coinbase.com
-*.consumer.coinbase.com
-*.custody.coinbase.com
-*.developer.coinbase.com
-*.exchange.coinbase.com
-*.external.coinbase.com
-*.help.coinbase.com
-*.indexer.coinbase.com
-*.institutional.coinbase.com
-*.international.coinbase.com
-*.lite.wallet.coinbase.com
-*.mail.coinbase.com
-*.n5e2.coinbase.com
-*.nft.coinbase.com
-*.pay.coinbase.com
-*.prime.coinbase.com
-*.pro.coinbase.com
-*.sandbox.exchange.coinbase.com
-*.sandbox.prime.coinbase.com
-*.sandbox.pro.coinbase.com
-*.ventures.coinbase.com
-*.wallet.coinbase.com
 12-mainnet.wallet.coinbase.com
 api-public.sandbox.prime.coinbase.com
 api.developer.coinbase.com
@@ -361,10 +326,7 @@ public.sandbox.prime.coinbase.com
 ws-feed-public.sandbox.exchange.coinbase.com
 ws-feed-public.sandbox.prime.coinbase.com
 acme-dev.nft.coinbase.com
-*.recruiting.coinbase.com
 pg-sign-key-coinbase-003.prod.coinbase.com
-*.crypto.coinbase.com
-*.am.coinbase.com
 portal.cloud.coinbase.com
 test-api-public.sandbox.pro.coinbase.com
 sessions.external.coinbase.com
@@ -438,7 +400,7 @@ public-165107.sandbox.exchange.coinbase.com
 ws-feed-jt001.sandbox.exchange.coinbase.com
 espublic.sandbox.exchange.coinbase.com
 apollo-api.sandbox.exchange.coinbase.com
-www.watermelon.sandbox.exchange.coinbase.com
+watermelon.sandbox.exchange.coinbase.com
 server01ws-feed.sandbox.exchange.coinbase.com
 debug13.api.sandbox.exchange.coinbase.com
 client43-api-public.sandbox.exchange.coinbase.com
@@ -684,7 +646,7 @@ jp.conv.sandbox.exchange.coinbase.com
 mobileweb.ws-feed.sandbox.exchange.coinbase.com
 default9m.api.sandbox.exchange.coinbase.com
 live.ahava.ash.sandbox.exchange.coinbase.com
-www.gejscript.sandbox.exchange.coinbase.com
+gejscript.sandbox.exchange.coinbase.com
 public.da.sandbox.exchange.coinbase.com
 688821.api.sandbox.exchange.coinbase.com
 a35-api-public.sandbox.exchange.coinbase.com
@@ -788,7 +750,7 @@ pbs.sandbox.exchange.coinbase.com
 test00.sandbox.exchange.coinbase.com
 ws-feed.cage2.sandbox.exchange.coinbase.com
 ma2api-public.sandbox.exchange.coinbase.com
-www.callus.ext.corp.sandbox.exchange.coinbase.com
+callus.ext.corp.sandbox.exchange.coinbase.com
 api.2.sandbox.exchange.coinbase.com
 europewest.public.sandbox.exchange.coinbase.com
 dn.sandbox.exchange.coinbase.com
@@ -1032,7 +994,7 @@ mr.itp.sandbox.exchange.coinbase.com
 o-0.sandbox.exchange.coinbase.com
 wew.sandbox.exchange.coinbase.com
 apideployed.sandbox.exchange.coinbase.com
-www.ws-feed.sandbox.exchange.coinbase.com
+ws-feed.sandbox.exchange.coinbase.com
 111-cache-blicnet.sandbox.exchange.coinbase.com
 leto.sandbox.exchange.coinbase.com
 new-dev.sandbox.exchange.coinbase.com
@@ -1188,7 +1150,7 @@ api-tutorial02.sandbox.exchange.coinbase.com
 api0001.sandbox.exchange.coinbase.com
 ht01-api-public.sandbox.exchange.coinbase.com
 redirect.sandbox.exchange.coinbase.com
-www.static.sandbox.exchange.coinbase.com
+static.sandbox.exchange.coinbase.com
 alexandria.sandbox.exchange.coinbase.com
 apicacti.sandbox.exchange.coinbase.com
 publicdefault13o.sandbox.exchange.coinbase.com
@@ -1477,7 +1439,7 @@ public-a24.sandbox.exchange.coinbase.com
 publicvm02.sandbox.exchange.coinbase.com
 ws-feed-euw.sandbox.exchange.coinbase.com
 auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.auth-ns.sandbox.exchange.coinbase.com
-www.login.sandbox.exchange.coinbase.com
+login.sandbox.exchange.coinbase.com
 api-publicrsa.sandbox.exchange.coinbase.com
 heartsrm01public.sandbox.exchange.coinbase.com
 public.demos.sandbox.exchange.coinbase.com
@@ -1541,7 +1503,6 @@ california.public.sandbox.exchange.coinbase.com
 ws-feed.california.sandbox.exchange.coinbase.com
 bucket.api-public.sandbox.exchange.coinbase.com
 client5.ws-feed.sandbox.exchange.coinbase.com
-www.api-public.sandbox.exchange.coinbase.com
 debug203.api-public.sandbox.exchange.coinbase.com
 nl.sandbox.exchange.coinbase.com
 movilles.sandbox.exchange.coinbase.com
@@ -1718,7 +1679,7 @@ turkey.sandbox.exchange.coinbase.com
 heartsrm01-api-public.sandbox.exchange.coinbase.com
 agencyq.sandbox.exchange.coinbase.com
 v10-public.sandbox.exchange.coinbase.com
-www.travel.sandbox.exchange.coinbase.com
+travel.sandbox.exchange.coinbase.com
 042-api.sandbox.exchange.coinbase.com
 ewe-hb-ggc-node3-216.sandbox.exchange.coinbase.com
 swwpublic.sandbox.exchange.coinbase.com
@@ -1871,7 +1832,7 @@ jwlactksymqmgq3vzzq2x1mc5h.sandbox.exchange.coinbase.com
 www-carrier.sandbox.exchange.coinbase.com
 ws-feed.backup01.sandbox.exchange.coinbase.com
 apimerch.sandbox.exchange.coinbase.com
-www.news.sandbox.exchange.coinbase.com
+news.sandbox.exchange.coinbase.com
 ewe-hb-ggc-node4-142.sandbox.exchange.coinbase.com
 api-public6.sandbox.exchange.coinbase.com
 aomenhuangjincheng.sandbox.exchange.coinbase.com
@@ -2290,7 +2251,7 @@ na2-api-sjl.sandbox.exchange.coinbase.com
 public-oct.sandbox.exchange.coinbase.com
 yourvirtualpresence.sandbox.exchange.coinbase.com
 uswest2public.sandbox.exchange.coinbase.com
-www.solutions.sandbox.exchange.coinbase.com
+solutions.sandbox.exchange.coinbase.com
 api.default12h.sandbox.exchange.coinbase.com
 nal-api-public.sandbox.exchange.coinbase.com
 debug234.sandbox.exchange.coinbase.com
@@ -2403,7 +2364,7 @@ dafayule.sandbox.exchange.coinbase.com
 publicw7e.sandbox.exchange.coinbase.com
 public-stage1.sandbox.exchange.coinbase.com
 bews-feed.sandbox.exchange.coinbase.com
-www.apac.sandbox.exchange.coinbase.com
+apac.sandbox.exchange.coinbase.com
 api-public-ext1.sandbox.exchange.coinbase.com
 oc.public.sandbox.exchange.coinbase.com
 tw-api.sandbox.exchange.coinbase.com
@@ -2773,7 +2734,7 @@ core.api.sandbox.exchange.coinbase.com
 out10.sandbox.exchange.coinbase.com
 public.edge.sandbox.exchange.coinbase.com
 salesws-feed.sandbox.exchange.coinbase.com
-www.us-west-2.prodaa.sandbox.exchange.coinbase.com
+us-west-2.prodaa.sandbox.exchange.coinbase.com
 apidebug.sandbox.exchange.coinbase.com
 public-test1.sandbox.exchange.coinbase.com
 inventory-public.sandbox.exchange.coinbase.com
@@ -3371,7 +3332,7 @@ ws-feed-132.sandbox.exchange.coinbase.com
 bcnpoc443-vip.sandbox.exchange.coinbase.com
 expensews-feed.sandbox.exchange.coinbase.com
 de06.sandbox.exchange.coinbase.com
-www.shop-en.sandbox.exchange.coinbase.com
+shop-en.sandbox.exchange.coinbase.com
 a105.api.sandbox.exchange.coinbase.com
 c6hpa.sandbox.exchange.coinbase.com
 api-publiczlb.sandbox.exchange.coinbase.com
@@ -3542,7 +3503,6 @@ eosintl.na14.sandbox.exchange.coinbase.com
 a34ws-feed.sandbox.exchange.coinbase.com
 api.public.sandbox.exchange.coinbase.com
 a38api-public.sandbox.exchange.coinbase.com
-www.sandbox.exchange.coinbase.com
 connect.api.sandbox.exchange.coinbase.com
 tpe.api-public.sandbox.exchange.coinbase.com
 globalws-feed.sandbox.exchange.coinbase.com
@@ -3846,7 +3806,7 @@ api-public.expwy02.sandbox.exchange.coinbase.com
 web03-api.sandbox.exchange.coinbase.com
 mta.et.sandbox.exchange.coinbase.com
 midwestpublic.sandbox.exchange.coinbase.com
-www.issuer.sandbox.exchange.coinbase.com
+issuer.sandbox.exchange.coinbase.com
 agapi-public.sandbox.exchange.coinbase.com
 api-public.cb01.sandbox.exchange.coinbase.com
 v11-api.sandbox.exchange.coinbase.com
@@ -3936,7 +3896,6 @@ penguin.sandbox.exchange.coinbase.com
 903.sandbox.exchange.coinbase.com
 1610.ws-feed.sandbox.exchange.coinbase.com
 ws-feed-user.sandbox.exchange.coinbase.com
-eww.sandbox.exchange.coinbase.com
 media-public.sandbox.exchange.coinbase.com
 api.cloud.coinbase.com
 api-rt2.sandbox.exchange.coinbase.com
@@ -3949,7 +3908,7 @@ client.api.sandbox.exchange.coinbase.com
 public-latin.sandbox.exchange.coinbase.com
 gfs270n149.userstorage.sandbox.exchange.coinbase.com
 ws-feed-mav01.sandbox.exchange.coinbase.com
-www.stage1.sandbox.exchange.coinbase.com
+stage1.sandbox.exchange.coinbase.com
 a87.sandbox.exchange.coinbase.com
 teredo.sandbox.exchange.coinbase.com
 dev01-api-public.sandbox.exchange.coinbase.com
@@ -3973,7 +3932,6 @@ publictez.sandbox.exchange.coinbase.com
 snat3.api-public.sandbox.exchange.coinbase.com
 lanpass-public.sandbox.exchange.coinbase.com
 static03.sandbox.exchange.coinbase.com
-www.developer.sandbox.exchange.coinbase.com
 internal-api.exchange.coinbase.com
 tmu1ws-feed.sandbox.exchange.coinbase.com
 public-snat4.sandbox.exchange.coinbase.com
@@ -4055,7 +4013,7 @@ globaljetclub.sandbox.exchange.coinbase.com
 2-qa.sandbox.exchange.coinbase.com
 public-default12m.sandbox.exchange.coinbase.com
 ws-feed.a51.sandbox.exchange.coinbase.com
-www.tempo.sandbox.exchange.coinbase.com
+tempo.sandbox.exchange.coinbase.com
 srv4.sandbox.exchange.coinbase.com
 public-enrollment.sandbox.exchange.coinbase.com
 public.fra1.sandbox.exchange.coinbase.com
@@ -4237,7 +4195,7 @@ mmi686.sandbox.exchange.coinbase.com
 stage2mobile13.sandbox.exchange.coinbase.com
 vmi1api-public.sandbox.exchange.coinbase.com
 a13-ws-feed.sandbox.exchange.coinbase.com
-www.stage2mobile107.sandbox.exchange.coinbase.com
+stage2mobile107.sandbox.exchange.coinbase.com
 recofriender.test.sandbox.exchange.coinbase.com
 gfs262n155.userstorage.sandbox.exchange.coinbase.com
 sjc1-accesspoint-a97.sjc1.sandbox.exchange.coinbase.com
@@ -4286,4 +4244,3 @@ experiments.public.sandbox.exchange.coinbase.com
 salee.sandbox.exchange.coinbase.com
 040api-public.sandbox.exchange.coinbase.com
 007public.sandbox.exchange.coinbase.com
-www.custody.coinbase.com

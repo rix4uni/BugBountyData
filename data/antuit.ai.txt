@@ -41,7 +41,6 @@ infracsdr.esp.antuit.ai
 torr-dev.price.antuit.ai
 madewell-uat.price.antuit.ai
 nagli.gapdr.esp.antuit.ai
-www.antuit.ai
 demo.antuit.ai
 rckdr.antuit.ai
 infracsdrtest1.antuit.ai
@@ -149,7 +148,6 @@ snd.esp.antuit.ai
 sip.antuit.ai
 elcforecast.antuit.ai
 monitoring.esp-central-grafana.antuit.ai
-www.elcforecastdr.antuit.ai
 torrid.antuit.ai
 cri-test.price.antuit.ai
 tedbaker.antuit.ai
@@ -157,5 +155,4 @@ jcr.esp.antuit.ai
 price-dev.crt.antuit.ai
 jcrew-dev.price.antuit.ai
 infracs.esp.antuit.ai
-*.antuit.ai
 fhapp.price.antuit.ai

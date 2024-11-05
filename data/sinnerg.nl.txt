@@ -1,19 +1,12 @@
 ns1.sinnerg.nl
 my.sinnerg.nl
-www.sinnerg.nl
-www.veeam.sinnerg.nl
 veeam.sinnerg.nl
-www.mail-in.sinnerg.nl
 mail-in.sinnerg.nl
-www.mail-out.sinnerg.nl
-www.da.sinnerg.nl
-da.sinnerg.nl
-www.77.staging.sinnerg.nl
-77.staging.sinnerg.nl
-www.webmail.sinnerg.nl
-ns2.sinnerg.nl
 mail-out.sinnerg.nl
-www.my.sinnerg.nl
+da.sinnerg.nl
+77.staging.sinnerg.nl
+webmail.sinnerg.nl
+ns2.sinnerg.nl
 vrrp.serverius.sinnerg.nl
 mail.sinnerg.nl
 vpn.sinnerg.nl
@@ -22,7 +15,6 @@ rtr2.serverius.sinnerg.nl
 mysql01.db.prod.gulf.sinnerg.nl
 web01.dev.gulf.sinnerg.nl
 dev.sinnerg.nl
-webmail.sinnerg.nl
 fallback.sinnerg.nl
 rtr1.serverius.sinnerg.nl
 jump2.sinnerg.nl
@@ -55,7 +47,7 @@ shared.sinnerg.nl
 blade01.chassis01.sinnerg.nl
 dns.sinnerg.nl
 raoul.sinnerg.nl
-www.webvisie.shared.sinnerg.nl
+webvisie.shared.sinnerg.nl
 vm395.sinnerg.nl
 xclamation.sinnerg.nl
 paytest.sinnerg.nl
@@ -66,7 +58,7 @@ supertrash.sinnerg.nl
 saint.phplist.sinnerg.nl
 phplist.sinnerg.nl
 switch02.chassis01.sinnerg.nl
-www.promotiezoetermeer.nl.plone01.sinnerg.nl
+promotiezoetermeer.nl.plone01.sinnerg.nl
 delias.sinnerg.nl
 alpha.sinnerg.nl
 freetest.sinnerg.nl
@@ -76,7 +68,7 @@ prewonen.sinnerg.nl
 switch01.chassis01.sinnerg.nl
 kvm.chassis01.sinnerg.nl
 winkel.sinnerg.nl
-www.promotiezoetermeer.plone01.sinnerg.nl
+promotiezoetermeer.plone01.sinnerg.nl
 mssqlserver.sinnerg.nl
 annascott.phplist.sinnerg.nl
 nagios01.sinnerg.nl
@@ -98,8 +90,6 @@ mm.floravontuur.plone01.sinnerg.nl
 vm355.sinnerg.nl
 prod.saint.sinnerg.nl
 sqlserver.sinnerg.nl
-promotiezoetermeer.plone01.sinnerg.nl
 stats.sinnerg.nl
 joomla01.sinnerg.nl
 rbs.sinnerg.nl
-webvisie.shared.sinnerg.nl

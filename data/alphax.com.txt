@@ -5,7 +5,6 @@ owa.alphax.com
 account.alphax.com
 gitlab02.alphax.com
 alphaxiptvbox.alphax.com
-www.alphax.com
 blog.alphax.com
 xciptv.alphax.com
 a.mx.alphax.com
@@ -15,7 +14,6 @@ ww01.alphax.com
 support.alphax.com
 mail.comune.alphax.com
 checkout.alphax.com
-*.alphax.com
 smtp1.alphax.com
 auth.alphax.com
 correo.alphax.com
@@ -137,7 +135,6 @@ support.agent.alphax.com
 checkout.agent.alphax.com
 owa.agent.alphax.com
 stream.agent.alphax.com
-www.agent.alphax.com
 local.agent.alphax.com
 static-web.agent.alphax.com
 fp.agent.alphax.com
@@ -176,11 +173,10 @@ mariokartwiki.alphax.com
 norfolksmash.alphax.com
 psnstourneys.alphax.com
 smashgbg.alphax.com
-www.cdn.alphax.com
+cdn.alphax.com
 quakeworld.alphax.com
 china.alphax.com
 edmontonfgc.alphax.com
-cdn.alphax.com
 teampienyc.alphax.com
 mariokart100subs.alphax.com
 badkidgaming.alphax.com
@@ -193,7 +189,6 @@ rpma.alphax.com
 torneossaltychile.alphax.com
 sfwarriors.alphax.com
 apps.alphax.com
-www.smtp.comune.alphax.com
 newchallenger.alphax.com
 iesports.alphax.com
 cn-tour.alphax.com
@@ -229,7 +224,7 @@ thatdamnlan.alphax.com
 pl.alphax.com
 msb.alphax.com
 project-conquerors.alphax.com
-www.video.alphax.com
+video.alphax.com
 otafestassault3.alphax.com
 rgcasiamini.alphax.com
 2017australianswimmingchampionshipsliveonlinetvcoverage.alphax.com
@@ -276,7 +271,7 @@ coultimate.alphax.com
 sys.alphax.com
 pandorasmash.alphax.com
 sdf.alphax.com
-www.chat.alphax.com
+chat.alphax.com
 mpls.alphax.com
 fujitsuliga.alphax.com
 golfclashtournaments.alphax.com
@@ -431,7 +426,6 @@ smsunshine.alphax.com
 25assistcups.alphax.com
 cgtrader.alphax.com
 thms.alphax.com
-www.account.alphax.com
 8pq1achwnvkbka0.alphax.com
 bacalhauspiritfc.alphax.com
 ngn.alphax.com
@@ -514,7 +508,7 @@ ares.alphax.com
 nngtoronto.alphax.com
 tenisiqq.alphax.com
 tsns.alphax.com
-www.seo.alphax.com
+seo.alphax.com
 dc.alphax.com
 devsql.alphax.com
 fsinf.alphax.com
@@ -557,7 +551,6 @@ sam.alphax.com
 montrealpokemonleague.alphax.com
 s1.alphax.com
 spriteclub.alphax.com
-www.staging.alphax.com
 heptacraft.alphax.com
 armagedinburgh.alphax.com
 new.alphax.com
@@ -755,7 +748,7 @@ armsfc.alphax.com
 pokkenarena.alphax.com
 pokecollege.alphax.com
 t5vsp2qlssuein5.alphax.com
-www.www.alphax.com
+www.alphax.com
 popcap.alphax.com
 nwmdz.alphax.com
 bredband.alphax.com
@@ -925,7 +918,7 @@ primitive-mammals.alphax.com
 pixelmonfr.alphax.com
 evilcentral.alphax.com
 venus.alphax.com
-www.ads.alphax.com
+ads.alphax.com
 v2.alphax.com
 smsub.alphax.com
 fightsessions.alphax.com
@@ -941,7 +934,7 @@ boosted-bonobos.alphax.com
 timcon.alphax.com
 bros-calamity.alphax.com
 autodiscover.support.alphax.com
-www.gallery.alphax.com
+gallery.alphax.com
 hoosierkeyforge.alphax.com
 autodiscover.dev.alphax.com
 dkr.alphax.com
@@ -975,7 +968,6 @@ gccmmx2018.alphax.com
 popcorncsgo.alphax.com
 skullgirlssolo.alphax.com
 webdisk.alphax.com
-www.owa.alphax.com
 in.alphax.com
 tfn.alphax.com
 staticip.alphax.com
@@ -1017,7 +1009,7 @@ aeo.alphax.com
 aex.alphax.com
 roanokefgc.alphax.com
 whiteskybelgiumteam.alphax.com
-www.intranet.alphax.com
+intranet.alphax.com
 worldclassgaming.alphax.com
 telesp.alphax.com
 bvgs.alphax.com
@@ -1123,10 +1115,8 @@ shffl.alphax.com
 so-net.alphax.com
 dyfwi.alphax.com
 1.alphax.com
-www.gitlab02.alphax.com
 helltanks.alphax.com
 retail.alphax.com
-video.alphax.com
 netbellumii.alphax.com
 lanhammermelee.alphax.com
 twcc.alphax.com
@@ -1162,7 +1152,6 @@ belongarenadrafts.alphax.com
 vgp.alphax.com
 tracking.alphax.com
 job.alphax.com
-www.m.alphax.com
 nanolaug.agent.alphax.com
 fwc.agent.alphax.com
 powerrankings.agent.alphax.com
@@ -1192,7 +1181,6 @@ cyberfights.agent.alphax.com
 edge.agent.alphax.com
 bdo-eu-events.agent.alphax.com
 rog.agent.alphax.com
-www.account.agent.alphax.com
 impulseclan.agent.alphax.com
 nerdnationpro.agent.alphax.com
 ll.agent.alphax.com
@@ -1304,9 +1292,7 @@ mailx.agent.alphax.com
 wlpc.agent.alphax.com
 tracking.agent.alphax.com
 sb.agent.alphax.com
-www.smtp.comune.agent.alphax.com
 hearthpwn.agent.alphax.com
-www.gitlab02.agent.alphax.com
 gametyrantsmash.agent.alphax.com
 belongarenadrafts.agent.alphax.com
 smtp01.agent.alphax.com
@@ -1455,7 +1441,7 @@ w4d.agent.alphax.com
 secure.agent.alphax.com
 mail._domainkey.smtp.agent.alphax.com
 _domainkey.smtp.agent.alphax.com
-www.www.agent.alphax.com
+www.agent.alphax.com
 apple.agent.alphax.com
 mx10.agent.alphax.com
 galleries.agent.alphax.com
@@ -1464,7 +1450,7 @@ gearsofwar.agent.alphax.com
 smashmadrid.agent.alphax.com
 quakeworld.agent.alphax.com
 ph.agent.alphax.com
-www.intranet.agent.alphax.com
+intranet.agent.alphax.com
 imerlo.agent.alphax.com
 community.agent.alphax.com
 popcorncsgo.agent.alphax.com
@@ -1473,7 +1459,7 @@ salemsmashfests.agent.alphax.com
 rss.agent.alphax.com
 dokbartz.agent.alphax.com
 finalfantasytcgaustralia.agent.alphax.com
-www.gallery.agent.alphax.com
+gallery.agent.alphax.com
 source.agent.alphax.com
 pittsmash.agent.alphax.com
 mariokartwiki.agent.alphax.com
@@ -1688,7 +1674,6 @@ brn.agent.alphax.com
 retail.agent.alphax.com
 krlck2k.agent.alphax.com
 host1.agent.alphax.com
-www.cdn.agent.alphax.com
 bayoen.agent.alphax.com
 gardenofmight.agent.alphax.com
 d4.agent.alphax.com
@@ -1761,7 +1746,6 @@ mmrl.agent.alphax.com
 4glte.agent.alphax.com
 punchplanet.agent.alphax.com
 mailbox.agent.alphax.com
-www.owa.agent.alphax.com
 sp.agent.alphax.com
 image.agent.alphax.com
 ohiocircuitseries.agent.alphax.com
@@ -1888,14 +1872,12 @@ frabble.agent.alphax.com
 heptacraft.agent.alphax.com
 gametotal.agent.alphax.com
 dhcp-bl.agent.alphax.com
-www.m.agent.alphax.com
 r2team.agent.alphax.com
 torneoluckia.agent.alphax.com
 cslsmash.agent.alphax.com
 vueltaciclistaalpaisvasco2017envivogratistv.agent.alphax.com
 aunfc.agent.alphax.com
 protournamentleague.agent.alphax.com
-www.video.agent.alphax.com
 smashground.agent.alphax.com
 teamunicycling.agent.alphax.com
 fujitsuliga.agent.alphax.com
@@ -2150,7 +2132,7 @@ autodiscover.dev.agent.alphax.com
 controlpanel.agent.alphax.com
 kneenation.agent.alphax.com
 necdodgeball.agent.alphax.com
-www.ads.agent.alphax.com
+ads.agent.alphax.com
 pokerheroes.agent.alphax.com
 gigabyteproleague.agent.alphax.com
 terranpl.agent.alphax.com
@@ -2206,8 +2188,7 @@ pjs.agent.alphax.com
 mailer.agent.alphax.com
 arcadedreams.agent.alphax.com
 madisonfgc.agent.alphax.com
-www.seo.agent.alphax.com
-www.staging.agent.alphax.com
+seo.agent.alphax.com
 comune.agent.alphax.com
 bvcs.agent.alphax.com
 theorycraft.agent.alphax.com
@@ -2276,4 +2257,4 @@ emv1.agent.alphax.com
 pokemonamapa.agent.alphax.com
 gye.agent.alphax.com
 larivals.agent.alphax.com
-www.chat.agent.alphax.com
+chat.agent.alphax.com

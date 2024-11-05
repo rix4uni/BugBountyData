@@ -34,7 +34,6 @@ orca-integration.ratepay.com
 gateway2.ratepay.com
 vpn-dc.ratepay.com
 snow.ratepay.com
-www.ratepay.com
 portainer.testshop.ratepay.com
 shared-infrastructure.dev.aws.ratepay.com
 docs.ratepay.com
@@ -53,7 +52,7 @@ ayou-cora.ratepay.com
 core.staging.aws.ratepay.com
 risk.staging.aws.ratepay.com
 m1.demoshop.ratepay.com
-www.demoshop.ratepay.com
+demoshop.ratepay.com
 data.production.aws.ratepay.com
 buyer.staging.aws.ratepay.com
 frida.ratepay.com
@@ -89,7 +88,6 @@ paymentpage.ratepay.com
 gateway-int.ratepay.com
 core.dev.aws.ratepay.com
 testshop.ratepay.com
-demoshop.ratepay.com
 drive.ratepay.com
 dtfn.ratepay.com
 sw6.demoshop.ratepay.com

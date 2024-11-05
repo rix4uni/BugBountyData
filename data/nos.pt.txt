@@ -597,7 +597,6 @@ status.mpro-qa.clg.nos.pt
 sms.sfmc-plugins.clg.nos.pt
 193-126-27-56.static.net.nos.pt
 edns.imstpl.nos.pt
-www.dma-cpm.nos.pt
 78-130-39-156.static.net.nos.pt
 78-130-39-254.static.net.nos.pt
 78-130-39-54.static.net.nos.pt
@@ -629,8 +628,6 @@ portal-api.nosid.oizys.clg.nos.pt
 193-126-27-82.static.net.nos.pt
 keycloak-dev-admin.i9.clz.nos.pt
 teste-busybox.oizys.clg.nos.pt
-www.airtunnel2.gslb.nos.pt
-www.mip.nos.pt
 airrace.nos.pt
 metadata-svc-prod.oizys.clg.nos.pt
 imagesn-static.nos.pt
@@ -662,7 +659,6 @@ webhooks-ghm.dataplat-ss.clg.nos.pt
 78-130-39-4.static.net.nos.pt
 193-126-27-150.static.net.nos.pt
 appletv-provisioner-service.zeta.oizys.clg.nos.pt
-www.airaccess.gslb.nos.pt
 193-126-27-43.static.net.nos.pt
 bilhetesliganos.nos.pt
 mail.net.nos.pt
@@ -752,8 +748,7 @@ jaeger.elkit-dev.clg.nos.pt
 193-126-27-224.static.net.nos.pt
 193-126-27-24.static.net.nos.pt
 stb-maintenance-api-staging.nextgen-fe.oizys.clg.nos.pt
-www.drive.stgaas.nos.pt
-www.nosvitaparcerias.nos.pt
+nosvitaparcerias.nos.pt
 oizys.clg.nos.pt
 corprecordings.cloud.nos.pt
 mlflow.mlflow-cloudmx-d.clg.nos.pt
@@ -826,7 +821,6 @@ ciberseguranca-dev.nos.pt
 78-130-39-221.static.net.nos.pt
 r.nos.pt
 browse-stargate-api-staging.nextgen-fe.oizys.clg.nos.pt
-www.vdi.gslb.nos.pt
 193-126-27-233.static.net.nos.pt
 78-130-39-105.static.net.nos.pt
 bilheteira-qms.cinemas.nos.pt
@@ -838,7 +832,6 @@ nos-shaka-cast-receiver-production.nostv.oizys.clg.nos.pt
 ri-whisper-api.nosi-fusion-iiai.oizys.clg.nos.pt
 193-126-27-34.static.net.nos.pt
 aggregator.ppm.oizys.clg.nos.pt
-www.video.vc.nos.pt
 193-126-27-202.static.net.nos.pt
 78-130-39-128.static.net.nos.pt
 signin-web.nosid.clg.nos.pt
@@ -847,7 +840,6 @@ hipster.calexcommaisumx.lab-01.clg.nos.pt
 interactive-test.advertisement.oizys.clg.nos.pt
 portfolio-api.nextgen-fe.oizys.clg.nos.pt
 remote-api.nextgen-fe.oizys.clg.nos.pt
-www.cinemas.nos.pt
 questionariocultura.nos.pt
 193-126-27-126.static.net.nos.pt
 193-126-27-153.static.net.nos.pt
@@ -888,12 +880,11 @@ media-dev.nos.pt
 api-gateway.nosid.clg.nos.pt
 nlm.nos.pt
 p.apg.clg.nos.pt
-www.assembleia.nos.pt
 multi-operator-login.i8n.nos.pt
 mx01.dc.nos.pt
 cdn1.nos.pt
 profile-associations-api.ppm.oizys.clg.nos.pt
-www.supportcentreapi.nos.pt
+supportcentreapi.nos.pt
 augmentation.clg.nos.pt
 193-126-27-100.static.net.nos.pt
 es1ottlb.stream.nos.pt
@@ -908,7 +899,6 @@ vibe-api-staging.cross-core-services.oizys.clg.nos.pt
 artifactoryci.i9.clz.nos.pt
 cartoes-homolog.nos.pt
 g.nos.pt
-www.webim.nos.pt
 voice-classifier.clg.nos.pt
 193-126-27-181.static.net.nos.pt
 78-130-39-169.static.net.nos.pt
@@ -928,7 +918,7 @@ nminisite.cloud-mini.nos.pt
 193-126-27-87.static.net.nos.pt
 auth.corp-oidc.ccoe-lab-000002.clg.nos.pt
 nos-gpt.oizys.clg.nos.pt
-www.fe.pink-dev.clg.nos.pt
+fe.pink-dev.clg.nos.pt
 smart.visai-d.clg.nos.pt
 78-130-39-137.static.net.nos.pt
 indhcp214a.nos.pt
@@ -938,7 +928,6 @@ enrichment-api-staging.nextgen-fe.oizys.clg.nos.pt
 artic-observer.oizys.clg.nos.pt
 wholesale.co.nos.pt
 internal.we.tvservices.clz.nos.pt
-www.nos.pt
 b2b-api.nos.pt
 nosedge-imo2.stream.nos.pt
 artic-extensions.oizys.clg.nos.pt
@@ -949,7 +938,7 @@ ajudaequipamentos.nos.pt
 78-130-39-114.static.net.nos.pt
 artic-lab-staging.oizys.clg.nos.pt
 cinemas-showtime-api.cross-core-services.oizys.clg.nos.pt
-www.devices-hub5g.nos.pt
+devices-hub5g.nos.pt
 backoffice.mpro-qa.nos.pt
 nosedge-pce5.stream.nos.pt
 es2ottlb.stream.nos.pt
@@ -959,7 +948,6 @@ mailws.nos.pt
 78-130-39-209.static.net.nos.pt
 api-gateway.nosid.oizys.clg.nos.pt
 image.web.nos.pt
-www.iosdmc.nos.pt
 193-126-27-169.static.net.nos.pt
 nextgen-ott-rc.i8n.nos.pt
 cliente.nos.pt
@@ -975,7 +963,6 @@ internal.ne.tvservices.clz.nos.pt
 193-126-27-199.static.net.nos.pt
 cwmp-mtls.genieacs-staging.oizys.clg.nos.pt
 ladoalado-dev.nos.pt
-www.appserver3.nos.pt
 etepm.nos.pt
 193-126-27-72.static.net.nos.pt
 dev.cinemas.nos.pt
@@ -989,7 +976,6 @@ portal.cloud.nos.pt
 notary.harbor.i9.clz.nos.pt
 dportal.wifi.nos.pt
 watch-together-api.nextgen-fe.oizys.clg.nos.pt
-www.web.btv.nos.pt
 193-126-27-249.static.net.nos.pt
 api-gateway.nextgen-fe.oizys.clg.nos.pt
 bootstrap.nos.pt
@@ -1110,7 +1096,6 @@ foxplay-fe-uma-rc.i8n.nos.pt
 atlantis01.crossp-staging.clg.nos.pt
 nostv-web-pp.nostv.oizys.clg.nos.pt
 servicos-lojaonline.nos.pt
-www.stratify.nos.pt
 u002fwww.nos.pt
 ne.tvservices.clz.nos.pt
 s2c-qms.clg.nos.pt
@@ -1118,7 +1103,6 @@ indhcp227a.nos.pt
 mytv-api.nextgen-fe-staging.oizys.clg.nos.pt
 esott8.stream.nos.pt
 search-aggregation-api-staging.nextgen-fe.oizys.clg.nos.pt
-www.b2b-demo.nos.pt
 voice-classifier-dev.clg.nos.pt
 api.selfcare-staging.oizys.clg.nos.pt
 contents-vod-api.nextgen-fe-staging.oizys.clg.nos.pt
@@ -1139,7 +1123,6 @@ jcr.i9.clz.nos.pt
 prometheus-sales2cart.s2c-dev.clg.nos.pt
 helloworld2.ccoe-lab-000002.clg.nos.pt
 user-session-device-api-staging.nosid.oizys.clg.nos.pt
-www.ipsec.nos.pt
 360.nos.pt
 click.web.nos.pt
 portfolio-api.aaaa.oizys.clg.nos.pt
@@ -1150,9 +1133,7 @@ wholesaleportal.nos.pt
 github.crossp-staging.clg.nos.pt
 keycloak-1.i9.clz.nos.pt
 login-service.nos.pt
-supportcentreapi.nos.pt
 video-api.nextgen-fe-staging.oizys.clg.nos.pt
-www.airds.gslb.nos.pt
 dia-pre-np.clg.nos.pt
 frank.srm.cdn.clw.nos.pt
 193-126-27-45.static.net.nos.pt
@@ -1164,14 +1145,13 @@ ns2.nos.pt
 prometheus.i8n.nos.pt
 img.tms.clg.nos.pt
 indhcp113a.nos.pt
-nosvitaparcerias.nos.pt
 sportingtv.nos.pt
 speedtest.nos.pt
 outsystemsdmz.nos.pt
 internal.api.clg.nos.pt
 docker-registry.i9.clg.nos.pt
 vault-test-oidc.i9.clz.nos.pt
-www.iot-dev.nos.pt
+iot-dev.nos.pt
 smart-bookmarks-api-staging.nextgen-fe.oizys.clg.nos.pt
 audiovisuais.nos.pt
 jabber.nos.pt
@@ -1198,8 +1178,7 @@ app-234ecbd0-0e2a-47a6-9a0a-45642d40571c-lojaonline-ist.apps.nos.pt
 193-126-27-223.static.net.nos.pt
 193-126-27-79.static.net.nos.pt
 78-130-39-214.static.net.nos.pt
-www.be.pink-dev.clg.nos.pt
-www.benflex.nos.pt
+benflex.nos.pt
 view.web.nos.pt
 lojaonline.nos.pt
 193-126-27-12.static.net.nos.pt
@@ -1213,7 +1192,6 @@ zeta-version-routing.zeta.oizys.clg.nos.pt
 analytics-api-staging.nextgen-fe.oizys.clg.nos.pt
 contents-epg-api.nextgen-fe.oizys.clg.nos.pt
 dapr.hades.clg.nos.pt
-www.stgaas.cloud.nos.pt
 78-130-39-205.static.net.nos.pt
 atlantis-d.atl-d.clw.nos.pt
 mock-server-staging.advertisement.oizys.clg.nos.pt
@@ -1234,7 +1212,6 @@ cache-manager-api.nextgen-fe-staging.oizys.clg.nos.pt
 wizardativacao.nos.pt
 odsm-adapter-api.video-session.oizys.clg.nos.pt
 sa.nos.pt
-www.upgradetv.nos.pt
 193-126-27-68.static.net.nos.pt
 api.fino.clg.nos.pt
 jaeger.qc.nos.pt
@@ -1256,7 +1233,6 @@ esott3.stream.nos.pt
 78-130-39-123.static.net.nos.pt
 nostv-windows-beta.nostv.oizys.clg.nos.pt
 video1.vc.nos.pt
-www.airassist.gslb.nos.pt
 tvservices.clz.nos.pt
 78-130-39-55.static.net.nos.pt
 78-130-39-30.static.net.nos.pt
@@ -1270,7 +1246,6 @@ stream360.dsmdemos-d.clg.nos.pt
 nos-chromecast-caf-receiver-production.nostv.oizys.clg.nos.pt
 api-it-integration-dev.nos.pt
 78-130-39-88.static.net.nos.pt
-www.nosmonitoring1.nos.pt
 coliseum-dev.nos.pt
 193-126-27-62.static.net.nos.pt
 78-130-39-119.static.net.nos.pt
@@ -1281,7 +1256,6 @@ i.nos.pt
 elkit-dev.clg.nos.pt
 atlantis-lab3.crossp.clz.nos.pt
 core.harbor.i9.clz.nos.pt
-devices-hub5g.nos.pt
 efax.nos.pt
 my.nos.pt
 mail.clientes.nos.pt
@@ -1307,7 +1281,6 @@ search-api.nextgen-fe.oizys.clg.nos.pt
 193-126-27-137.static.net.nos.pt
 78-130-39-113.static.net.nos.pt
 78-130-39-39.static.net.nos.pt
-fe.pink-dev.clg.nos.pt
 static.nos.pt
 nostvfe2.nos.pt
 193-126-27-135.static.net.nos.pt
@@ -1331,7 +1304,6 @@ ashur.cdn.clw.nos.pt
 wt.cdn.clw.nos.pt
 f.atlantis.clz.nos.pt
 pfmgr.nos.pt
-www.video-e1.vc.nos.pt
 confluence-redmine.i9.clz.nos.pt
 device-info-api.nextgen-fe.oizys.clg.nos.pt
 fjjportugal.squad5gevents-p.clw.nos.pt
@@ -1369,14 +1341,12 @@ avatar-api.ppm-staging.oizys.clg.nos.pt
 indhcp211a.nos.pt
 devices-authorization-api-staging.nextgen-fe.oizys.clg.nos.pt
 webhook-server.fino-d.clg.nos.pt
-www.ocm-cpm.nos.pt
 78-130-39-5.static.net.nos.pt
 grid-aggregation-api.nextgen-fe-staging.oizys.clg.nos.pt
 qms.api.clg.nos.pt
 193-126-27-185.static.net.nos.pt
 coroot.oizys.clg.nos.pt
 download.nos.pt
-www.sse.send.clg.nos.pt
 193-126-27-9.static.net.nos.pt
 accounts-api-staging.aaaa.oizys.clg.nos.pt
 hipster.diresousa.lab-01.clg.nos.pt
@@ -1440,7 +1410,7 @@ redir.nos.pt
 dev.www.nos.pt
 78-130-39-139.static.net.nos.pt
 78-130-39-164.static.net.nos.pt
-www.api.clg.nos.pt
+api.clg.nos.pt
 api-gateway-staging.nosid.oizys.clg.nos.pt
 talaria-1.webpa-staging.oizys.clg.nos.pt
 videodb1.vc.nos.pt
@@ -1450,7 +1420,6 @@ chat.nos.pt
 acs.tms.clg.nos.pt
 atlantis-lite.i9.clz.nos.pt
 ns2.tpl.nos.pt
-www.1praia5g.nos.pt
 corp-oidc.ccoe-lab-000002.clg.nos.pt
 193-126-27-245.static.net.nos.pt
 artifactoryvsts.i9.clz.nos.pt
@@ -1478,10 +1447,8 @@ testpomerium.i9.clz.nos.pt
 193-126-27-119.static.net.nos.pt
 78-130-39-78.static.net.nos.pt
 mail.parceiros.nos.pt
-www.mcs.nos.pt
 mail6.nos.pt
 indhcp225a.nos.pt
-www.unattended.xperience.nos.pt
 visai.clg.nos.pt
 mail3.clientes.nos.pt
 smtp01.mssp.nos.pt
@@ -1504,12 +1471,10 @@ artifactory-test.i9.clz.nos.pt
 78-130-39-232.static.net.nos.pt
 nginx-auth.i9.clg.nos.pt
 vpn.cloud.nos.pt
-www.conteudos.nos.pt
-www.pfm.nos.pt
+conteudos.nos.pt
 fernao-lopes.nosi-fusion-innovation-iiai.oizys.clg.nos.pt
 hgw-sw.nos.pt
 jira-gotocloud.i9.clz.nos.pt
-www.cartoes.nos.pt
 193-126-27-27.static.net.nos.pt
 mlflow.avaugmentat.clg.nos.pt
 user-session-device-api.nosid.oizys.clg.nos.pt
@@ -1549,14 +1514,11 @@ confluence.i9.clg.nos.pt
 webhooks-ghm.dataplat-ss-dev.clg.nos.pt
 193-126-27-210.static.net.nos.pt
 193-126-27-5.static.net.nos.pt
-www.mdc.nos.pt
 78-130-39-83.static.net.nos.pt
 hipster.utvtesvc.lab-01.clg.nos.pt
 mailws2.nos.pt
 nginx-acme.send.ccoe-lab-000002.clg.nos.pt
-www.smsinqueritos.nos.pt
 193-126-27-50.static.net.nos.pt
-www.sportingtv.nos.pt
 edge.cdn.clw.nos.pt
 193-126-27-15.static.net.nos.pt
 193-126-27-188.static.net.nos.pt
@@ -1569,19 +1531,16 @@ esott1.stream.nos.pt
 infomail3.nos.pt
 pilotosendpointpomerium.i9.clz.nos.pt
 qms.cinemas.nos.pt
-www.developers-innovation.nos.pt
 iris.i8n.nos.pt
 netflix-accounts-api.nextgen-fe.oizys.clg.nos.pt
 nostvfe1.nos.pt
 prometheus.cross-services.clg.nos.pt
-www.apigee.nos.pt
 helloworld-ir.ccoe-lab-000002.clg.nos.pt
 hgw-sw-dev.nos.pt
 jit.jitaccess.ccoe-lab-000002.clg.nos.pt
 78-130-39-142.static.net.nos.pt
 channels-schedule-api-staging.nextgen-fe.oizys.clg.nos.pt
 login.mpro.clg.nos.pt
-www.vcse.nos.pt
 jit-access.crossp.clg.nos.pt
 timeoff.i9.clg.nos.pt
 dia-dev-d.clg.nos.pt
@@ -1601,7 +1560,6 @@ atlantis5.crossp-lab.clz.nos.pt
 ipv4.de-cix.mad.es.as2860.nos.pt
 developer.mobilecentric.nos.pt
 udp-integration.iot.clg.nos.pt
-www.naohaligacoesimpossiveis.nos.pt
 193-126-27-231.static.net.nos.pt
 alertmanager.oizys.clg.nos.pt
 handbooks.nos.pt
@@ -1665,7 +1623,6 @@ dnsrslvr1.nos.pt
 profile-api-staging.nextgen-fe.oizys.clg.nos.pt
 nos-tui.nos.pt
 193-126-27-144.static.net.nos.pt
-api.clg.nos.pt
 indhcp142b.nos.pt
 alertmanager.i9.clz.nos.pt
 search-aggregation-api.nextgen-fe.oizys.clg.nos.pt
@@ -1681,7 +1638,6 @@ smtp.net.nos.pt
 78-130-39-17.static.net.nos.pt
 78-130-39-231.static.net.nos.pt
 78-130-39-245.static.net.nos.pt
-benflex.nos.pt
 notifications-api.nosid.oizys.clg.nos.pt
 oktapoc.nos.pt
 qaapps.nos.pt
@@ -1692,7 +1648,6 @@ selfcare-fe-uma-dev.i8n.nos.pt
 193-126-27-77.static.net.nos.pt
 polaris.i9.clz.nos.pt
 mlflow.clupa-l.clg.nos.pt
-www.ivd.gslb.nos.pt
 193-126-27-168.static.net.nos.pt
 78-130-39-61.static.net.nos.pt
 galeria.nos.pt
@@ -1703,12 +1658,11 @@ learning-actions-api.nextgen-fe-staging.oizys.clg.nos.pt
 se.campus.nos.pt
 193-126-27-8.static.net.nos.pt
 nos-chromecast-caf-receiver-dev.nostv.oizys.clg.nos.pt
-www.sa.nos.pt
 193-126-27-247.static.net.nos.pt
 78-130-39-120.static.net.nos.pt
 atlantis.i9.clg.nos.pt
 discos.nos.pt
-www.assessmentleadershift.nos.pt
+assessmentleadershift.nos.pt
 193-126-27-155.static.net.nos.pt
 privatebin.i9.clg.nos.pt
 signin-web.nosid.oizys.clg.nos.pt
@@ -1725,12 +1679,10 @@ atlantis.ccoe-lab-000002.clg.nos.pt
 sportingtvonline.nos.pt
 78-130-39-21.static.net.nos.pt
 apitest.contentenablers-lab.clg.nos.pt
-iot-dev.nos.pt
-www.atlantis.i9.clz.nos.pt
+atlantis.i9.clz.nos.pt
 remotas-tst.nos.pt
 78-130-39-53.static.net.nos.pt
 keycloak-0.i9.clz.nos.pt
-www.smscritical.nos.pt
 193-126-27-113.static.net.nos.pt
 87-196-82-193.net.nos.pt
 78-130-39-69.static.net.nos.pt
@@ -1762,7 +1714,6 @@ bookmarks-api-staging.nextgen-fe.oizys.clg.nos.pt
 dataprepper.elkit-dev.clg.nos.pt
 nosacademia.nos.pt
 ns3.nos.pt
-www.galacomercial.nos.pt
 193-126-27-197.static.net.nos.pt
 193-126-27-31.static.net.nos.pt
 nginx-google.hestia.clg.nos.pt
@@ -1817,13 +1768,11 @@ pomerium.i9.clz.nos.pt
 odsm-adapter-api.nextgen-fe.oizys.clg.nos.pt
 kafka-event-publisher.cross-core-services.oizys.clg.nos.pt
 webadmin-natapi.tpl.nos.pt
-atlantis.i9.clz.nos.pt
 fraude-venda-d.clg.nos.pt
 gitlab.co.nos.pt
 gipa.nos.pt
 78-130-39-16.static.net.nos.pt
 portal-api-staging.nosid.oizys.clg.nos.pt
-conteudos.nos.pt
 193-126-27-121.static.net.nos.pt
 2f8b87b29e3.nos.pt
 sms.sfmc-plugins-dev.clg.nos.pt
@@ -1837,7 +1786,6 @@ cwmp.genieacs.oizys.clg.nos.pt
 newsletters.nos.pt
 webrtc-server.calex2022.lab-01.clg.nos.pt
 mms.nos.pt
-www.m.pagamentos.nos.pt
 12312ijdip.nos.pt
 nginx-acme.gketesthestia.ccoe-lab-000002.clg.nos.pt
 daascodeware.cloud.nos.pt
@@ -1870,7 +1818,7 @@ fs.genieacs.oizys.clg.nos.pt
 helpdesk-novo.vpn.nos.pt
 userappsfavoritemanager.i8n.nos.pt
 mail3.corporate.nos.pt
-www.developers-ops-test.nos.pt
+developers-ops-test.nos.pt
 193-126-27-140.static.net.nos.pt
 193-126-27-241.static.net.nos.pt
 78-130-39-152.static.net.nos.pt
@@ -1885,15 +1833,12 @@ i8nd.nos.pt
 78-130-39-154.static.net.nos.pt
 opim1f5059.gslb.nos.pt
 tap.iot.clg.nos.pt
-www.nostvfe1.nos.pt
 193-126-27-58.static.net.nos.pt
 193-126-27-6.static.net.nos.pt
 78-130-39-202.static.net.nos.pt
 mail2.parceiros.nos.pt
 78-130-39-86.static.net.nos.pt
 redirect.nos.pt
-www.sts.gslb.nos.pt
-www.airmag.gslb.nos.pt
 s2c-tui.clg.nos.pt
 193-126-27-11.static.net.nos.pt
 edns1.ims.nos.pt
@@ -1930,7 +1875,6 @@ ingress.s2c.clg.nos.pt
 mqtt.iot.clg.nos.pt
 verify.i9.clz.nos.pt
 video2.vc.nos.pt
-www.downloadshare.nos.pt
 78-130-39-130.static.net.nos.pt
 mail4.nos.pt
 smtp.dc.nos.pt
@@ -1971,7 +1915,6 @@ ns1.nos.pt
 mage.stream.nos.pt
 78-130-39-200.static.net.nos.pt
 78-130-39-85.static.net.nos.pt
-www.webmail.nos.pt
 app-234ecbd0-0e2a-47a6-9a0a-45642d40571c.apps.nos.pt
 2fauth.co.nos.pt
 api-it-integration-tui.nos.pt
@@ -1983,13 +1926,10 @@ kibana.elkit.clg.nos.pt
 78-130-39-8.static.net.nos.pt
 epp-n.i8n.nos.pt
 selfcare-fe-dev-iris.i8n.nos.pt
-www.miga.nos.pt
 api-it-integration-qms.nos.pt
 heimdall.i9.clz.nos.pt
 prom-mobile.thanos.clz.nos.pt
-www.tools.nos.pt
 tui.api-np.clg.nos.pt
-www.b2b.nos.pt
 193-126-27-1.static.net.nos.pt
 193-126-27-191.static.net.nos.pt
 b32f8b87b29e3.nos.pt
@@ -2007,11 +1947,7 @@ search-api-staging.nextgen-fe.oizys.clg.nos.pt
 stb-maintenance-api.nextgen-fe-staging.oizys.clg.nos.pt
 193-126-27-26.static.net.nos.pt
 78-130-39-45.static.net.nos.pt
-www.fe.nos.pt
-www.share.nos.pt
 staging.ww.nos.pt
-www.linktree.clg.nos.pt
-developers-ops-test.nos.pt
 github-webhook.fino-d.clg.nos.pt
 mail.alfa.dc.nos.pt
 nosedge-pce3.stream.nos.pt
@@ -2025,7 +1961,6 @@ indhcp117b.nos.pt
 193-126-27-232.static.net.nos.pt
 push-provisioner-service.zeta.oizys.clg.nos.pt
 smart-bookmarks-api.nextgen-fe.oizys.clg.nos.pt
-www.portal.cloudcc.nos.pt
 78-130-39-104.static.net.nos.pt
 nexusmaster.emsa.clz.nos.pt
 prometheus-federate.oizys.clg.nos.pt
@@ -2041,7 +1976,6 @@ browse-stargate-api.nextgen-fe-staging.oizys.clg.nos.pt
 193-126-27-84.static.net.nos.pt
 mail4.lojas.nos.pt
 smtp.mssp.nos.pt
-www.login.co.nos.pt
 aggregator.ppm-staging.oizys.clg.nos.pt
 indhcp222a.nos.pt
 nosedge-pce6.stream.nos.pt
@@ -2070,7 +2004,6 @@ metadata-svc-debug.oizys.clg.nos.pt
 78-130-39-13.static.net.nos.pt
 78-130-39-72.static.net.nos.pt
 esott2.stream.nos.pt
-www.forum.nos.pt
 193-126-27-236.static.net.nos.pt
 78-130-39-211.static.net.nos.pt
 78-130-39-243.static.net.nos.pt
@@ -2102,7 +2035,6 @@ requests.sfmc-plugins-dev.clg.nos.pt
 78-130-39-68.static.net.nos.pt
 portal-web.nosid.clg.nos.pt
 security-codes-api-staging.nosid.oizys.clg.nos.pt
-www.galeria.nos.pt
 193-126-27-178.static.net.nos.pt
 193-13t.nos.pt
 mail2.fe.nos.pt
@@ -2124,7 +2056,6 @@ notifications-api-staging.nosid.oizys.clg.nos.pt
 193-126-27-59.static.net.nos.pt
 smsend1.nos.pt
 keycloak-test.i9.clz.nos.pt
-www.selfieacampeaoscp.nos.pt
 252fcliente-bo.co.nos.pt
 firmware.nos.pt
 78-130-39-188.static.net.nos.pt
@@ -2157,7 +2088,6 @@ profiles-api.ppm.oizys.clg.nos.pt
 78-130-39-63.static.net.nos.pt
 kibana.i9.clg.nos.pt
 ingress-api.s2c-tui.clg.nos.pt
-www.iosdmc-dev.nos.pt
 cloud.web.nos.pt
 video-api-staging.nextgen-fe.oizys.clg.nos.pt
 78-130-39-159.static.net.nos.pt
@@ -2168,7 +2098,6 @@ monitoring-center-service.zeta.oizys.clg.nos.pt
 kafka.oizys.clg.nos.pt
 uc.nos.pt
 nosid-aa-api.i8n.nos.pt
-www.recrutamento.nos.pt
 mytv-api.nextgen-fe.oizys.clg.nos.pt
 hubcm.devops-cicd-staging.clg.nos.pt
 indhcp211b.nos.pt
@@ -2184,8 +2113,6 @@ api-gateway.aaaa.oizys.clg.nos.pt
 atlantis.github.clg.nos.pt
 eso-mlflow.clg.nos.pt
 orders-dev.nos.pt
-www.appserver2.nos.pt
-www.iot.nos.pt
 profile-api.nextgen-fe.oizys.clg.nos.pt
 78-130-39-65.static.net.nos.pt
 78-131-161-231.tk.net.nos.pt
@@ -2196,7 +2123,6 @@ nosfield.nos.pt
 oauth.i9.clg.nos.pt
 78-130-39-155.static.net.nos.pt
 nosid-api-gateway-staging.i8n.nos.pt
-assessmentleadershift.nos.pt
 login.i9.clz.nos.pt
 orders-qms.nos.pt
 78-130-39-64.static.net.nos.pt
@@ -2220,7 +2146,6 @@ prod.api-np.clg.nos.pt
 areadeclientebrb.nos.pt
 learning-actions-api-staging.nextgen-fe.oizys.clg.nos.pt
 vibe-api.cross-core-services-staging.oizys.clg.nos.pt
-www.liveact.nos.pt
 nos-shaka-cast-receiver-dev.nostv.oizys.clg.nos.pt
 193-126-27-127.static.net.nos.pt
 193-126-27-14.static.net.nos.pt
@@ -2250,7 +2175,6 @@ clw.nos.pt
 api.qrcodemaker-dev.clg.nos.pt
 endpoints.i9.clz.nos.pt
 prometheus.hades.clg.nos.pt
-www.nos-knowit-wl-demo.nos.pt
 193-126-27-21.static.net.nos.pt
 api-gateway.nextgen-fe-staging.oizys.clg.nos.pt
 contents-vod-api.nextgen-fe.oizys.clg.nos.pt
@@ -2290,7 +2214,6 @@ ingress-ip-keycloak.mpro-qa.clg.nos.pt
 internetnotelemovel.nos.pt
 static2.nos.pt
 eticket.nos.pt
-*.dia.clg.nos.pt
 apple-provisioning-api-staging.cross-core-services.oizys.clg.nos.pt
 cinemas-showtime-api-staging.cross-core-services.oizys.clg.nos.pt
 notify-asset-views-api-staging.cross-core-services.oizys.clg.nos.pt
@@ -2299,10 +2222,8 @@ streaming-services-api-staging.cross-core-services.oizys.clg.nos.pt
 apple-provisioning-api.cross-core-services.oizys.clg.nos.pt
 settings-manager-api.cross-core-services.oizys.clg.nos.pt
 copilot.github.clg.nos.pt
-*.360t.nos.pt
 nosimobiledev.oizys.clg.nos.pt
 atlantis-aca.clz.nos.pt
-*.nos.pt
 aaaa-provisioner-service-staging.zeta.oizys.clg.nos.pt
 analytics-api.i8n.nos.pt
 api-np.clg.nos.pt
@@ -2383,7 +2304,6 @@ upgradetv.i8n.nos.pt
 vault-internal.i9.clg.nos.pt
 wacs-provisioner-service-staging.zeta.oizys.clg.nos.pt
 wtf-ott.i8n.nos.pt
-www.novislogin.co.nos.pt
 zeta-version-routing-staging.zeta.oizys.clg.nos.pt
 zeta.i8n.nos.pt
 2f7a97d9f9f1667a3907f55263.nos.pt
@@ -2540,11 +2460,5 @@ vibe-api.provisioning.oizys.clg.nos.pt
 web.ai4all.oizys.clg.nos.pt
 wifi.nos.pt
 wk.nos.pt
-www.cdngw.stream.nos.pt
-www.developers-ops.nos.pt
-www.ipsec.lab.nos.pt
-www.nostvfe2.nos.pt
-www.portalvpns.mssp.nos.pt
-www.videostr1.vc.nos.pt
 xvpc-atlantis.netopssrvprj-d.netopshostprj-d.clg.nos.pt
 ntp.nos.pt

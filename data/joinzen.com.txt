@@ -35,7 +35,6 @@ mail11.joinzen.com
 po.joinzen.com
 authsmtp.joinzen.com
 posta.joinzen.com
-www.joinzen.com
 satori.joinzen.com
 auth.joinzen.com
 email.joinzen.com
@@ -73,7 +72,6 @@ correo.joinzen.com
 root.joinzen.com
 beta.shifu.joinzen.com
 gate.joinzen.com
-www.beta.joinzen.com
 box.joinzen.com
 relay.joinzen.com
 ftp.joinzen.com
@@ -187,7 +185,7 @@ bw.joinzen.com
 testajax.joinzen.com
 us1.bouncer.joinzen.com
 skynet.joinzen.com
-www.es.joinzen.com
+es.joinzen.com
 zephyr.joinzen.com
 ae1-ablink.joinzen.com
 ww9.docker-ae1.joinzen.com
@@ -472,7 +470,7 @@ k-4.production.ap1.kaas.joinzen.com
 vnet.joinzen.com
 pc19.joinzen.com
 login2.joinzen.com
-www.board.joinzen.com
+board.joinzen.com
 mk8s.joinzen.com
 confound.joinzen.com
 autoconfig.store.joinzen.com
@@ -501,7 +499,7 @@ kalender.joinzen.com
 signup.joinzen.com
 wy.joinzen.com
 ww9.ee22-kco-php71-noae1.joinzen.com
-www.pwtalk.joinzen.com
+pwtalk.joinzen.com
 ae1-add2number.joinzen.com
 camel.joinzen.com
 ww9.ae1ee21-kp-php70-nl.ae1-green-js.joinzen.com
@@ -672,7 +670,6 @@ cust16.joinzen.com
 p.joinzen.com
 lv.joinzen.com
 dist.joinzen.com
-pwtalk.joinzen.com
 kaas.joinzen.com
 us.nonprod.eu1.lookup.joinzen.com
 yp.joinzen.com
@@ -851,7 +848,7 @@ o.joinzen.com
 shop1.joinzen.com
 af.joinzen.com
 websites.joinzen.com
-www.1.joinzen.com
+1.joinzen.com
 pop.joinzen.com
 cardplatform.joinzen.com
 mcs.playground.ap1.starbug.joinzen.com
@@ -1187,11 +1184,10 @@ payments-acquiring-service.playground.us3z.cloud.joinzen.com
 psel-service-eu.production.c2c.joinzen.com
 www6.joinzen.com
 find.joinzen.com
-www.apps.joinzen.com
+apps.joinzen.com
 pl.joinzen.com
 frontdesk.joinzen.com
 production.ap1.starbug.joinzen.com
-www.nonprod.us1.klarna-web.joinzen.com
 assistant-bff-eu.production.c2c.joinzen.com
 elb.production.eu1.lookup.joinzen.com
 openvpn.joinzen.com
@@ -1226,7 +1222,7 @@ rhodeisland.joinzen.com
 nonprod.eu1.statement-operations-service.joinzen.com
 shopping-gift-cards-eu.production.c2c.joinzen.com
 shopping-orders-bff.production.ap1.starbug.joinzen.com
-www.webmail.nonprod.eu1.data.joinzen.com
+webmail.nonprod.eu1.data.joinzen.com
 dns-validation.nonprod.joinzen.com
 cyber.joinzen.com
 cust113.joinzen.com
@@ -1282,7 +1278,6 @@ eu1.artifacts-gateway.joinzen.com
 kelly.joinzen.com
 kh.joinzen.com
 playground.ap1.starbug.joinzen.com
-webmail.nonprod.eu1.data.joinzen.com
 ww9.exportedcolumnpopulatorae1.joinzen.com
 merchant-portal-api-eu.staging.c2c.joinzen.com
 us1.tx.joinzen.com
@@ -1381,7 +1376,6 @@ moninfra.joinzen.com
 smtp.comune.joinzen.com
 staging.eu1.bitbucket.joinzen.com
 mirror.joinzen.com
-apps.joinzen.com
 edge.joinzen.com
 springdev.joinzen.com
 us-east-1-576729848596.prod.account.c2c.joinzen.com

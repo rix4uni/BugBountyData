@@ -47,7 +47,6 @@ dadmin-stage.multi1.ixlayer.com
 dev-reqform.internal.ixlayer.com
 dev.internal.ixlayer.com
 branded-stage.reference.ixlayer.com
-www.ixlayer.com
 illumina.ixlayer.com
 perf.webhooks.ixlayer.com
 dev12-reqform.internal.ixlayer.com
@@ -56,7 +55,7 @@ admin.reference.ixlayer.com
 admin-stage.reference.ixlayer.com
 ahip2022.ixlayer.com
 ahip.ixlayer.com
-*.ixdata.ixlayer.com
+ixdata.ixlayer.com
 prod-api.pwncovid.ixlayer.com
 virtuallab.dev.internal.ixlayer.com
 internal-support.ixlayer.com

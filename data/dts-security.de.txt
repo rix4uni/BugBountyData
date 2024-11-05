@@ -6,7 +6,7 @@ smail-aum.dts-security.de
 smail-boe.dts-security.de
 smail-sww.dts-security.de
 smail-vle.dts-security.de
-www.smail-ade-test.dts-security.de
+smail-ade-test.dts-security.de
 esxi-ms06.dts-security.de
 mm-fc-jc.dts-security.de
 secureemail-lfi.dts-security.de
@@ -27,7 +27,7 @@ smail-emc-mta1.dts-security.de
 smail-kpm.dts-security.de
 smail-leb.dts-security.de
 pa-vm-gp.fwittke.dts-security.de
-www.vulnmgmt-mssp001.dts-security.de
+vulnmgmt-mssp001.dts-security.de
 pwm-01.dts-security.de
 smail-swb.dts-security.de
 smail-sha.dts-security.de
@@ -52,7 +52,7 @@ secureemail-jac.dts-security.de
 secureemail-nno.dts-security.de
 smail-slw.dts-security.de
 vcenter.dts-security.de
-www.dsm01.daas.dts-security.de
+dsm01.daas.dts-security.de
 kgate.dts-security.de
 smail-drk.dts-security.de
 smail-bcw-mta1.dts-security.de
@@ -64,7 +64,7 @@ smail-ade-mta2.dts-security.de
 cmail-viv.dts-security.de
 lb01.dts-security.de
 smail-utz.dts-security.de
-www.sp.daas.dts-security.de
+sp.daas.dts-security.de
 esxi-ms13.dts-security.de
 pa-vm.fwittke.dts-security.de
 zerobin.dts-security.de
@@ -82,7 +82,6 @@ smail-ite.dts-security.de
 smail-ade-mta1.dts-security.de
 esm.dts-security.de
 esxi-ms01.dts-security.de
-www.smail-ade-mta1.dts-security.de
 secureemail-hth.dts-security.de
 smail-cpb.dts-security.de
 smail-pol.dts-security.de
@@ -100,7 +99,6 @@ secureemail-nfi.dts-security.de
 smail-moe.dts-security.de
 smail-thy-mta1.dts-security.de
 list.dts-security.de
-dsm01.daas.dts-security.de
 esxint03.dts-security.de
 smail-klw.dts-security.de
 smail-sdw.dts-security.de
@@ -187,7 +185,6 @@ smail-emp.dts-security.de
 smail-ics.dts-security.de
 smail-rps.dts-security.de
 vcenter-dc02.dts-security.de
-www.smail-ade.dts-security.de
 vcenter-ms-test01.dts-security.de
 emm01.dts-security.de
 mailrelay.dts-security.de
@@ -221,7 +218,6 @@ mm-proxy-01.dts-security.de
 secureemail-swe.dts-security.de
 smail-fvse.dts-security.de
 smail-mue-mta1.dts-security.de
-www.vcenter-dc01.dts-security.de
 relay01-dts.dts-security.de
 secureemail-cpb.dts-security.de
 secureemail-wessling.dts-security.de
@@ -235,7 +231,6 @@ vcenter8.dts-security.de
 cmail-swn.dts-security.de
 esxint14.dts-security.de
 smail-wil.dts-security.de
-www.smail-ade-mta2.dts-security.de
 smail-pie.dts-security.de
 smail-pro.dts-security.de
 smail-smw.dts-security.de
@@ -266,7 +261,6 @@ ftp.dts-security.de
 bc-esxi01.dts-security.de
 esxint02.dts-security.de
 vulnmgmt.dts-security.de
-vulnmgmt-mssp001.dts-security.de
 bb-esx02.dts-security.de
 smail-ecc-mta1.dts-security.de
 smail-vin.dts-security.de
@@ -293,7 +287,6 @@ smail-vem.dts-security.de
 sysdcpano001.dts-security.de
 mmdb1.dts-security.de
 smail-fey.dts-security.de
-sp.daas.dts-security.de
 smail-alt-mta1.dts-security.de
 esxi-simp03.dts-security.de
 minemeld.dts-security.de
@@ -342,7 +335,6 @@ cmail-epp.dts-security.de
 mmlb01.dts-security.de
 secureemail-wit.dts-security.de
 smail-gro.dts-security.de
-smail-ade-test.dts-security.de
 ti-lists.dts-security.de
 smail-shatap2.dts-security.de
 smail-itb.dts-security.de

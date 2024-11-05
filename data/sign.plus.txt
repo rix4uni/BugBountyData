@@ -1,4 +1,3 @@
-www.sign.plus
 zrh.mongo1.sign.plus
 fra.mongo1.sign.plus
 in.mail.sign.plus
@@ -12,8 +11,6 @@ api.sign.plus
 apidoc.sign.plus
 help.sign.plus
 notifications.sign.plus
-*.sign.plus
-*.mail.sign.plus
 affiliate.sign.plus
 assets-website.sign.plus
 beta.sign.plus

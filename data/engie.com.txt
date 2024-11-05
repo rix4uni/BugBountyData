@@ -1,7 +1,6 @@
 wss.common.api.engie.com
 dev-potential-v2.feedermarket.engie.com
 okta-logout.sbx.archi.digital.engie.com
-www.okta-logout.sbx.archi.digital.engie.com
 surveys.engie.com
 media-surveys.engie.com
 ringring.integration.som-eu.digital.engie.com
@@ -18,6 +17,5 @@ ne-preprod-bo.feedermarket.engie.com
 clamav.nemo.digital.engie.com
 api.preprod.nemo-noprod.digital.engie.com
 rex.engie.com
-www.rex.engie.com
 adi-in.dev-agathe.digital.engie.com
 langfuse.genai.digital.engie.com

@@ -52,8 +52,6 @@ trip.reseller.staging.1global.com
 websheets-staging.1global.com
 websheets.1global.com
 whatsapp-connector.1global.com
-www.1global.com
-www.staging.1global.com
 billing-dev1.oci-dev.1global.com
 cloud.jira.1global.com
 cpanel.1global.com
@@ -77,9 +75,3 @@ webdisk.1global.com
 webmail.1global.com
 websheets-qa.1global.com
 whm.1global.com
-www.confluence.1global.com
-www.fleetserver.cyberdefense.1global.com
-www.jira-dev.1global.com
-www.jira.1global.com
-www.rsp.console.1global.com
-www.websheets.1global.com

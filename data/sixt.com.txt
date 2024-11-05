@@ -4197,19 +4197,6 @@ www-naij-com8-2.ride.sixt.com
 www-pohlglsbike2.ride.sixt.com
 www-prd-trops.ride.sixt.com
 www-tr.ride.sixt.com
-www.about.sixt.com
-www.career360.hosted.goorange.sixt.com
-www.contentserv.hosted.goorange.sixt.com
-www.eventos.sixt.com
-www.kinderhilfe.hosted.goorange.sixt.com
-www.projects.sixt.com
-www.ride.sixt.com
-www.rp-idp.smc.sixt.com
-www.sbc04.sixt.com
-www.sbc06.sixt.com
-www.segments.sixt.com
-www.sixt-lukesky.hosted.goorange.sixt.com
-www.sixt.com
 www1.sixt.com
 www15-dhe.ride.sixt.com
 www2.sixt.com
@@ -4602,8 +4589,6 @@ sccs-test.sixt.com
 pm-stage.sixt.com
 aboutcodebout.sixt.com
 sysop.ride.sixt.com
-*.confluence.sixt.com
-*.sixtbook.sixt.com
 135-207-61-99.ride.sixt.com
 shield.ride.sixt.com
 135-207-179-46.ride.sixt.com
@@ -4694,7 +4679,6 @@ paper.sixt.com
 135-207-228-64.ride.sixt.com
 web-directus-api-prod.orange.sixt.com
 135-207-183-9.ride.sixt.com
-www.ir.sixt.com
 mobil.sixt.com
 135-207-56-58.ride.sixt.com
 prometheus-prod.orange.sixt.com

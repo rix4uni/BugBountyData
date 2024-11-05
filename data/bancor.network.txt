@@ -45,8 +45,6 @@ groups.bancor.network
 mail.bancor.network
 bounty.sarafu.bancor.network
 files.poa.bancor.network
-www.about.bancor.network
-www.blog.bancor.network
 api.test3.bancor.network
 app.test3.bancor.network
 dev.test2.bancor.network
@@ -67,7 +65,6 @@ test3.bancor.network
 widget-convert.test1.bancor.network
 app.demo.bancor.network
 localeos.bancor.network
-www.sarafu.bancor.network
 x-stage.bancor.network
 api.test7.bancor.network
 file.sarafu.bancor.network
@@ -75,7 +72,6 @@ brettonwoods.sarafu.bancor.network
 cn.blog.sarafu.bancor.network
 dev.test4.bancor.network
 files.demo.bancor.network
-www.brettonwoods.sarafu.bancor.network
 app.staging.bancor.network
 blog.sarafu.bancor.network
 app.poa.bancor.network
@@ -97,7 +93,7 @@ files.sarafu.bancor.network
 files.test3.bancor.network
 foob.bancor.network
 widget-convert.mirror.bancor.network
-www.brettonwoods.bancor.network
+brettonwoods.bancor.network
 app.sarafu.bancor.network
 bncr.sarafu.bancor.network
 ban-1769.test.bancor.network
@@ -106,7 +102,6 @@ dev.poa.bancor.network
 api.poa.bancor.network
 api.test5.bancor.network
 widget-convert.test4.bancor.network
-www.brettonwoods.poa.bancor.network
 files.test4.bancor.network
 dev.test5.bancor.network
 files.staging.bancor.network
@@ -120,10 +115,8 @@ buy.poa.bancor.network
 app.test6.bancor.network
 ban-1653.test.bancor.network
 widget-convert.sarafu.bancor.network
-www.ru.blog.bancor.network
 calendar.bancor.network
 help.bancor.network
-www.bancor.network
 support.bancor.network
 demo.bancor.network
 widget-convert.staging.bancor.network
@@ -140,7 +133,6 @@ ru.blog.sarafu.bancor.network
 home.bancor.network
 eos.ban-1708.test.bancor.network
 widget-convert.test2.bancor.network
-www.cn.blog.bancor.network
 ban1234.dev.bancor.network
 eos-stage.bancor.network
 api.demo.bancor.network
@@ -152,12 +144,10 @@ staging.swap.bancor.network
 about.sarafu.bancor.network
 support.poa.bancor.network
 test5.bancor.network
-brettonwoods.bancor.network
 staging.bancor.network
 dev.test3.bancor.network
 eos.bancor.network
 files.test6.bancor.network
-www.poa.bancor.network
 api.sarafu.bancor.network
 bncr.poa.bancor.network
 app.test4.bancor.network

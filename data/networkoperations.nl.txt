@@ -7,11 +7,10 @@ shared02.networkoperations.nl
 filter.networkoperations.nl
 infoprojects-node2.networkoperations.nl
 netops3-node1.networkoperations.nl
-www.shared01.networkoperations.nl
 shared01.networkoperations.nl
 netops3-node0.networkoperations.nl
 netops3-node2.networkoperations.nl
-www.smids01.networkoperations.nl
+smids01.networkoperations.nl
 mailgate.networkoperations.nl
 frontend2.mail.networkoperations.nl
 playsms.networkoperations.nl
@@ -20,13 +19,9 @@ infoprojects-node5.networkoperations.nl
 infoprojects-node4.networkoperations.nl
 infoprojects-node3.networkoperations.nl
 infoprojects-node1.networkoperations.nl
-www.algemenevoorwaarden.networkoperations.nl
 algemenevoorwaarden.networkoperations.nl
 certman.networkoperations.nl
-www.certman.networkoperations.nl
-www.b-smtp.networkoperations.nl
 b-smtp.networkoperations.nl
-www.networkoperations.nl
 placeholder.networkoperations.nl
 netops-pve3.networkoperations.nl
 netops-prox2.networkoperations.nl
@@ -53,7 +48,6 @@ netops-prox5.networkoperations.nl
 pve2.networkoperations.nl
 pve3.networkoperations.nl
 pve1.networkoperations.nl
-smids01.networkoperations.nl
 infoprojects-monitor.networkoperations.nl
 ns10.networkoperations.nl
 ns11.networkoperations.nl
@@ -111,6 +105,6 @@ smids.networkoperations.nl
 elovps02.networkoperations.nl
 hv-prox3.networkoperations.nl
 linxmon.networkoperations.nl
-www.frontend1.mail.networkoperations.nl
+frontend1.mail.networkoperations.nl
 rbackup03.networkoperations.nl
 netops3-node4.networkoperations.nl

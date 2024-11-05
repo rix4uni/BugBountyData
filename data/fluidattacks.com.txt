@@ -1,9 +1,7 @@
-*.fluidattacks.com
-*.eph.fluidattacks.com
-*.app.fluidattacks.com
-*.integrates.fluidattacks.com
-*.front.production.fluidattacks.com
-*.front.development.fluidattacks.com
+eph.fluidattacks.com
+app.fluidattacks.com
+integrates.fluidattacks.com
+front.production.fluidattacks.com
 front.development.fluidattacks.com
 landing.fluidattacks.com
 integrates.env.fluidattacks.com
@@ -22,15 +20,12 @@ trust.fluidattacks.com
 usa.fluidattacks.com
 help.fluidattacks.com
 zendesk1.domainkey.fluidattacks.com
-front.production.fluidattacks.com
 status2.fluidattacks.com
 cl.fluidattacks.com
 learn.fluidattacks.com
 status.fluidattacks.com
 integrates.front.production.fluidattacks.com
 servicios.fluidattacks.com
-eph.fluidattacks.com
-integrates.fluidattacks.com
 kcamargoatfluid.app.fluidattacks.com
 betterstack.fluidattacks.com
 news.fluidattacks.com
@@ -39,8 +34,6 @@ community.fluidattacks.com
 design.fluidattacks.com
 email.fluidattacks.com
 dev.fluidattacks.com
-www.fluidattacks.com
-app.fluidattacks.com
 cothanks.fluidattacks.com
 support.fluidattacks.com
 files.fluidattacks.com
@@ -68,7 +61,6 @@ mx.fluidattacks.com
 pathanks.fluidattacks.com
 pe.fluidattacks.com
 sourcegraph.fluidattacks.com
-www.ap.fluidattacks.com
 co.fluidattacks.com
 gtthanks.fluidattacks.com
 rd.fluidattacks.com

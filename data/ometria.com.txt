@@ -1,7 +1,6 @@
 support.ometria.com
 web-components.test.ometria.com
 admin.ometria.com
-www.ometria.com
 cms.ometria.com
 appstaging-admin.ometria.com
 cdn.ometria.com
@@ -35,13 +34,10 @@ console.ometria.com
 trk.ometria.com
 recommendations.ometria.com
 wp.ometria.com
-*.ometria.com
 bi.ometria.com
-www.trk.ometria.com
 sales.ometria.com
 thankyou.ometria.com
 it.ometria.com
-www.pages.ometria.com
 prod-eu-01.prod.kube.ometria.com
 www-staging-origin.ometria.com
 appstaging.ometria.com
@@ -51,9 +47,7 @@ site2018.ometria.com
 secureclick.ometria.com
 app.vwa-ahs.at.ometria.com
 appbroadcast.ometria.com
-www.lifecycle.ometria.com
 facilities.ometria.com
 test02.test02.kube.ometria.com
 testlc.ometria.com
 mobile-events.ometria.com
-www.console.ometria.com

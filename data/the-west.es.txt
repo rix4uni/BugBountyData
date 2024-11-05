@@ -1,4 +1,3 @@
-www.the-west.es
 es17.the-west.es
 art.the-west.es
 server2.the-west.es
@@ -56,7 +55,7 @@ sniper.the-west.es
 po.the-west.es
 authsmtp.the-west.es
 pop.the-west.es
-www.wiki.the-west.es
+wiki.the-west.es
 mail9.the-west.es
 mailer.the-west.es
 box.the-west.es
@@ -74,13 +73,12 @@ mx.the-west.es
 host.the-west.es
 mx2.the-west.es
 imap.the-west.es
-wiki.the-west.es
 cdn.public.the-west.es
 smtp01.the-west.es
 mta.the-west.es
 zmail.the-west.es
 mail1.the-west.es
-www.om.the-west.es
+om.the-west.es
 pop3.the-west.es
 imap1.the-west.es
 es3.the-west.es
@@ -95,7 +93,6 @@ mailrelay.the-west.es
 mx7.the-west.es
 root.the-west.es
 es11.the-west.es
-www.forum.the-west.es
 antispam.the-west.es
 mailhost.the-west.es
 www1.the-west.es
@@ -103,7 +100,6 @@ com.the-west.es
 mail2.the-west.es
 email.the-west.es
 gateway.the-west.es
-om.the-west.es
 es2.the-west.es
 out.the-west.es
 mail8.the-west.es

@@ -1,10 +1,6 @@
-*.cl1.ospito.nl
 cl1.ospito.nl
-*.cl2.ospito.nl
 cl2.ospito.nl
-*.ospito.nl
 cpanel.ospito.nl
-www.ospito.nl
 autodiscover.milan.ospito.nl
 mail.ospito.nl
 node01.cl2.ospito.nl
@@ -19,12 +15,7 @@ host06.cl1.ospito.nl
 host07.cl1.ospito.nl
 mail.testsite.ospito.nl
 testsite.ospito.nl
-www.testsite.ospito.nl
 my.ospito.nl
-www.my.ospito.nl
 rome.ospito.nl
-www.rome.ospito.nl
 milan.ospito.nl
-www.milan.ospito.nl
 venice.ospito.nl
-www.venice.ospito.nl

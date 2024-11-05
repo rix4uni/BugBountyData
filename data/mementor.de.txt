@@ -1,7 +1,6 @@
 bi-dev.mementor.de
 bi.mementor.de
 app.mementor.de
-www.mementor.de
 int.mementor.de
 support.mementor.de
 jenkins.mementor.de
@@ -17,7 +16,6 @@ dev-mongo.mementor.de
 dev.mementor.de
 sentry.mementor.de
 int-new.mementor.de
-*.int-new.mementor.de
 it-ticket-bot.mementor.de
 sonar.mementor.de
 dev-new.mementor.de

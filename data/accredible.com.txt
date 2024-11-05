@@ -178,13 +178,10 @@ unimore.accredible.com
 demo.accredible.com
 red.api.accredible.com
 getsmarterusb.accredible.com
-*.api.accredible.com
-*.eu.api.accredible.com
 performance.employment.accredible.com
 performance.accounts.accredible.com
-www.www.accredible.com
-performance.v2.dashboard.accredible.com
 www.accredible.com
+performance.v2.dashboard.accredible.com
 performance.verify.accredible.com
 performance.dashboard.accredible.com
 rails5.api.accredible.com
@@ -195,9 +192,7 @@ emails.accredible.com
 achievements.accredible.com
 udacity.accredible.com
 asugsvsummit.accredible.com
-www.academy.accredible.com
 udacityauth.accredible.com
-www.help.accredible.com
 blockcerts.accredible.com
 chromeoscertified.accredible.com
 canvas-dev.accredible.com

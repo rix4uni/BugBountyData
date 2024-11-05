@@ -5,7 +5,6 @@ support.bitwarden.com
 func.bitwarden.com
 get.bitwarden.com
 send.bitwarden.com
-www.bitwarden.com
 bassets.bitwarden.com
 notifications.bitwarden.com
 cdn.bitwarden.com
@@ -48,7 +47,6 @@ assets.bitwarden.com
 contributing-internal.bitwarden.com
 forms.bitwarden.com
 lewebapp.bitwarden.com
-www.blog.bitwarden.com
 dd.bitwarden.com
 o1.mail1.bitwarden.com
 bid47bv.22371289m.bitwarden.com
@@ -82,7 +80,6 @@ pm-bounces.bitwarden.com
 staging-help.bitwarden.com
 url.bitwarden.com
 vault-staging.bitwarden.com
-*.bitwarden.com
 comunity.bitwarden.com
 keyconnector.bitwarden.com
 packer.bitwarden.com

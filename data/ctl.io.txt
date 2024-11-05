@@ -1159,7 +1159,7 @@ es.dev.msp.ctl.io
 es-support.ctl.io
 naas-opstool-api.docs.naas.ctl.io
 es.managedsupport.ctl.io
-www.co2-calculator.useast.appfog.ctl.io
+co2-calculator.useast.appfog.ctl.io
 snakesandletters.uswest.appfog.ctl.io
 powerball-api.useast.appfog.ctl.io
 your-organization.cam.ctl.io
@@ -1167,7 +1167,6 @@ edge.int.watcher.ctl.io
 winsipediatest.useast.appfog.ctl.io
 rd-web-consumer.useast.appfog.ctl.io
 myreroute.useast.appfog.ctl.io
-www.ctl.io
 webfileswest.uswest.os.ctl.io
 api.backup.ctl.io
 platform-maintenance.ctl.io

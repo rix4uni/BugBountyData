@@ -250,8 +250,6 @@ webmail.unet1.ad.dtra.mil
 webmail2.dtra.mil
 webmail2.unet1.ad.dtra.mil
 wmd-gateway.cnttr.dtra.mil
-www.dtra.mil
-www.cnttr.dtra.mil
 zu351.abq.dtra.mil
 zu352.abq.dtra.mil
 cas.apps.dtra.mil
@@ -321,7 +319,6 @@ pac.dtra.mil
 keycloak.mines.dtra.mil
 idp.gslb-ext.dtra.mil
 dareu.dare.dtra.mil
-www.dtriac.dtra.mil
 nefps-webtop.cnet.dtra.mil
 ufpb.dtra.mil
 idp.dtra.mil
@@ -334,12 +331,12 @@ ansible-idp.cnet.gslb-ext.dtra.mil
 cnetidprequest.dtra.mil
 uedw1.cnttr.dtra.mil
 2dpublic.dtra.mil
-www.pager.cnttr.dtra.mil
+pager.cnttr.dtra.mil
 inet004.dtra.mil
 wmd.cnttr.dtra.mil
 geo-berry.osn.dtra.mil
 inet001.dtra.mil
-www.rcc.cnttr.dtra.mil
+rcc.cnttr.dtra.mil
 miramar.cnttr.dtra.mil
 amweblink.dtra.mil
 1.dtra.mil

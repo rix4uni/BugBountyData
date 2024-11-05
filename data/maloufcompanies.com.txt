@@ -14,7 +14,6 @@ traefik.devops.maloufcompanies.com
 vpn.maloufcompanies.com
 webmonitor.maloufcompanies.com
 webstats.maloufcompanies.com
-www.maloufcompanies.com
 cos2.sap.maloufcompanies.com
 ftps.maloufcompanies.com
 owa.maloufcompanies.com
@@ -24,7 +23,3 @@ sap.maloufcompanies.com
 vhcunds4ci.sap.maloufcompanies.com
 vhcunps4ci.sap.maloufcompanies.com
 vhcunqs4ci.sap.maloufcompanies.com
-www.ds4.maloufcompanies.com
-www.palo.maloufcompanies.com
-www.proxy.maloufcompanies.com
-www.vpn.maloufcompanies.com

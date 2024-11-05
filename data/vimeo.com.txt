@@ -1,11 +1,10 @@
-*.vimeo.com
-*.cloud.vimeo.com
-*.create.vimeo.com
-*.dev.create.vimeo.com
-*.player.vimeo.com
-*.stage.create.vimeo.com
-*.tus.vimeo.com
-*.venues.vimeo.com
+cloud.vimeo.com
+create.vimeo.com
+dev.create.vimeo.com
+player.vimeo.com
+stage.create.vimeo.com
+tus.vimeo.com
+venues.vimeo.com
 00.media.vimeo.com
 10.media.vimeo.com
 126544.cloud.vimeo.com
@@ -85,7 +84,6 @@ checkout.vimeo.com
 checkout-dev.vimeo.com
 click.email.vimeo.com
 click1.news.vimeo.com
-cloud.vimeo.com
 cloud.email.vimeo.com
 cloudpg.email.vimeo.com
 commitment-utilization-us-central1-dev.cloud.vimeo.com
@@ -95,7 +93,6 @@ commitment-utilization-us-east1-prod.cloud.vimeo.com
 commitment-utilization-us-west1-dev.cloud.vimeo.com
 commitment-utilization-us-west1-prod.cloud.vimeo.com
 community.vimeo.com
-create.vimeo.com
 dash-ingest-dev.cloud.vimeo.com
 dash-ingest.cloud.vimeo.com
 datum.vimeo.com
@@ -198,7 +195,6 @@ origin-assets.vimeo.com
 originassets.vimeo.com
 ott.vimeo.com
 pages.email.vimeo.com
-player.vimeo.com
 player-telemetry.vimeo.com
 player-tools.cloud.vimeo.com
 pler.vimeo.com
@@ -268,7 +264,6 @@ testing.vimeo.com
 testing2.vimeo.com
 true.vimeo.com
 ts.vimeo.com
-tus.vimeo.com
 tv.vimeo.com
 u.cloud.vimeo.com
 upload.vimeo.com
@@ -291,7 +286,6 @@ us-west1.upload.vimeo.com
 usfiles.tus.vimeo.com
 utmtrk.vimeo.com
 validator.cloud.vimeo.com
-venues.vimeo.com
 videoapi.vimeo.com
 videoapi-artax-dev.cloud.vimeo.com
 videoapi-artax-us-central1-dev.cloud.vimeo.com
@@ -308,12 +302,6 @@ viewmaster-glb-prod.cloud.vimeo.com
 viewmaster-highly-available.cloud.vimeo.com
 viewmaster.cloud.vimeo.com
 vikatan.vimeo.com
-www.vimeo.com
-www.api.vimeo.com
-www.investors.vimeo.com
-www.news.vimeo.com
-www.player.vimeo.com
-www.saml-signing.vimeo.com
 y.vimeo.com
 yer.vimeo.com
 zixi-registrar.vimeo.com
@@ -332,9 +320,7 @@ prometheus.stage.create.vimeo.com
 trickster.dev.create.vimeo.com
 trickster.stage.create.vimeo.com
 wp.vimeo.com
-dev.create.vimeo.com
 interactive.vimeo.com
-stage.create.vimeo.com
 leatherback.vimeo.com
 research.vimeo.com
 origin-assets-ge.vimeo.com
@@ -1239,7 +1225,7 @@ plutus.https1a-int._domainkey.vimeo.com
 dyn191.www._domainkey.vimeo.com
 i-3052b85a.cloud.vimeo.com
 1511623472.cloud.vimeo.com
-www._domainkey.vimeo.com
+_domainkey.vimeo.com
 1511493161.cloud.vimeo.com
 1511602682.cloud.vimeo.com
 i-eafa0e86.cloud.vimeo.com
@@ -1549,7 +1535,6 @@ i-369fc358.cloud.vimeo.com
 152051810.cloud.vimeo.com
 1511617300.cloud.vimeo.com
 152051735.cloud.vimeo.com
-_domainkey.vimeo.com
 70562.cloud.vimeo.com
 1511655186.cloud.vimeo.com
 1511923764.cloud.vimeo.com
@@ -2271,8 +2256,6 @@ rtmp-dev2.cloud.vimeo.com
 15.trk.mg.vimeo.com
 18.trk.mg.vimeo.com
 45.trk.mg.vimeo.com
-*.dev.vimeo.com
 12.trk.mg.vimeo.com
 21.trk.mg.vimeo.com
 22.trk.mg.vimeo.com
-*.hub.vimeo.com

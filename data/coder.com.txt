@@ -1,10 +1,6 @@
-*.nyc-eric-oss.demo.coder.com
 nyc-eric-oss.demo.coder.com
 info.coder.com
 tryme.demo.coder.com
-*.tryme.demo.coder.com
-*.eng-dev-west.demo.coder.com
 eng-dev-west.demo.coder.com
-*.eng-dev-east.demo.coder.com
 eng-dev-east.demo.coder.com
 telemetry.coder.com

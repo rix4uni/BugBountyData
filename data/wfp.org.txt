@@ -33,7 +33,7 @@ lwebconf.wfp.org
 router.job-listing.wfp.org
 vam.wfp.org
 dev.wazo.tza.wfp.org
-qww.shop.panorama.wfp.org
+shop.panorama.wfp.org
 colsnd.croom.nest.wfp.org
 prod.gmnotification.wfp.org
 histors.bmj.panorama.wfp.org
@@ -135,7 +135,7 @@ spaplusschoolmentry.2011.panorama.wfp.org
 meds.tur.wfp.org
 horiender.www.pma.panorama.wfp.org
 nutrechatea.per.wfp.org
-9ww.blog.panorama.wfp.org
+blog.panorama.wfp.org
 dev.esm.wfp.org
 wfpitromisepo01.global.wfp.org
 humanresources.syr.wfp.org
@@ -189,7 +189,7 @@ offication.www.pma.panorama.wfp.org
 beta.info.wfp.org
 job-listing.wfp.org
 dev.cspdata.wfp.org
-4ww.old.panorama.wfp.org
+old.panorama.wfp.org
 teamwork.wfp.org
 vam.hungermap.wfp.org
 mobile.less.wfp.org
@@ -238,14 +238,13 @@ maanorama.www.www.cart.panorama.wfp.org
 csweb.wfp.org
 gistors.catalog.panorama.wfp.org
 crm.panorama.wfp.org
-kww.www.catalog.panorama.wfp.org
-shop.panorama.wfp.org
+www.catalog.panorama.wfp.org
 qa.marketassessment.bgd.wfp.org
 auth.efs.wfp.org
 col.croom.nest.wfp.org
 micollab.mrt.wfp.org
 scope.eguide.wfp.org
-bww.catalog.panorama.wfp.org
+catalog.panorama.wfp.org
 data.cart.panorama.wfp.org
 pki2.old.panorama.wfp.org
 assetreporting.syr.wfp.org
@@ -354,7 +353,6 @@ gis.www.store.panorama.wfp.org
 z.www.panorama.wfp.org
 api.farm2go.wfp.org
 gis.jor.wfp.org
-blog.panorama.wfp.org
 edge.videoconference.wfp.org
 mj.panorama.wfp.org
 magento.panorama.wfp.org
@@ -372,7 +370,7 @@ store.panorama.wfp.org
 pma.wp.panorama.wfp.org
 foodrequest.www.www.pma.panorama.wfp.org
 dev.evidenceplanning.vam.wfp.org
-eww.www.dev.panorama.wfp.org
+www.dev.panorama.wfp.org
 api.identifybeneficiaryregistered.syr.wfp.org
 docuweb.www.pma.panorama.wfp.org
 docs.api.wfp.org
@@ -475,13 +473,12 @@ donatenow.wfp.org
 irisguard.api.efs.wfp.org
 analytics.wfp.org
 operact.lime.panorama.wfp.org
-4ww.www.test.panorama.wfp.org
+www.test.panorama.wfp.org
 beta.opweb.wfp.org
 global.wfp.org
 lyncdiscoperacking.www.www.cart.panorama.wfp.org
 api.optmus.wfp.org
 wfpgvabpmp01.global.wfp.org
-old.panorama.wfp.org
 staging.croom.nest.wfp.org
 qa.comp.wfp.org
 76.www.catalog.panorama.wfp.org
@@ -495,7 +492,6 @@ fsa.catalog.panorama.wfp.org
 letstest4.wfp.org
 webcast.wfp.org
 tracking.vam.wfp.org
-catalog.panorama.wfp.org
 wfpmcu1.wfp.org
 89.panorama.wfp.org
 wfpitromisemg02.global.wfp.org
@@ -571,7 +567,6 @@ cdn.newgo.wfp.org
 gendation.www.test.panorama.wfp.org
 mpos.scope.wfp.org
 gis.lbn.wfp.org
-7ww.blog.panorama.wfp.org
 itbusiness.wfp.org
 dev.moda.wfp.org
 marketassessment.bgd.wfp.org
@@ -697,7 +692,7 @@ herd.go.wfp.org
 travel.syr.wfp.org
 cog.panorama.wfp.org
 gms2.www.staging.panorama.wfp.org
-tww.www.demo.panorama.wfp.org
+www.demo.panorama.wfp.org
 dev.scips.wfp.org
 lips.syr.wfp.org
 executiveboard.wfp.org
@@ -710,7 +705,6 @@ glass.wfp.org
 gems.wfp.org
 epwebmail.www.2011.panorama.wfp.org
 validation.jor.wfp.org
-jww.demo.panorama.wfp.org
 servicedesknga.wfp.org
 phpmyadmin.panorama.wfp.org
 phpmyadmin.www.www.cart.panorama.wfp.org
@@ -728,7 +722,6 @@ logine.www.demo.panorama.wfp.org
 z.panorama.wfp.org
 admin.dev.servicemanagement.go.wfp.org
 prism.mng.wfp.org
-sww.shop.panorama.wfp.org
 uw.www.cart.panorama.wfp.org
 3t.panorama.wfp.org
 p.panorama.wfp.org
@@ -813,7 +806,6 @@ walktheword.www.2011.panorama.wfp.org
 qa.admin.opweb.wfp.org
 plusschoolmenus.wfp.org
 commondb.wfp.org
-uww.lime.panorama.wfp.org
 dev.buildingblocks.jor.wfp.org
 gis.khm.wfp.org
 bmj.demo.panorama.wfp.org
@@ -886,7 +878,6 @@ stagine2.www.dev.panorama.wfp.org
 news.panorama.wfp.org
 scoperact.speedycrm.panorama.wfp.org
 comet.wfp.org
-8ww.catalog.panorama.wfp.org
 digitariangulators.www.www.cart.panorama.wfp.org
 asswork.panorama.wfp.org
 roomsmanagement.syr.wfp.org
@@ -945,7 +936,7 @@ wfpegcoccp01.egy.wfp.org
 donations.wp.panorama.wfp.org
 ukr.reg.scope.wfp.org
 datacollection.panama.wfp.org
-rww.www.wp.panorama.wfp.org
+www.wp.panorama.wfp.org
 insight.cart.panorama.wfp.org
 api.dev.dashboard.wfp.org
 staging.spaplus.wfp.org
@@ -958,11 +949,10 @@ translations.executiveboard.wfp.org
 api.buildingblocks.syr.wfp.org
 buildingblocks.syr.wfp.org
 documents.wfp.org
-www.docs.wfp.org
+docs.wfp.org
 registration.sdn.beneficiaryregistration.cbt.wfp.org
 ns2.wfp.org
 ns1.wfp.org
-docs.wfp.org
 ngoguidance.manuals.wfp.org
 dev.oevmis.wfp.org
 storage.sandbox.scope.wfp.org
@@ -973,7 +963,7 @@ api.godocs.wfp.org
 fieldsecurityofficers.manuals.wfp.org
 partners.fleet.wfp.org
 khartoum.sdn.beneficiaryregistration.cbt.wfp.org
-www.designsystem.wfp.org
+designsystem.wfp.org
 buildingblocks.ukr.wfp.org
 foodsafetyqualitypublic.manuals.wfp.org
 logs.wazo.tza.wfp.org
@@ -1022,7 +1012,6 @@ docustore.wfp.org
 programmeguidance.manuals.wfp.org
 syr.reg.scope.wfp.org
 develop.lineachatea.col.wfp.org
-*.storybook.designsystem.wfp.org
 storybook.designsystem.wfp.org
 ocha.prod.wellbeing.wfp.org
 sharmila.wfp.org

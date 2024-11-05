@@ -41,7 +41,6 @@ doctor.delaware.pro
 ventures.delaware.pro
 github.delaware.pro
 scp.delaware.pro
-www.delaware.pro
 scp-qas.delaware.pro
 prose-ornl-auth.delaware.pro
 carriere.delaware.pro
@@ -74,7 +73,6 @@ tmp-inspirationevent.delaware.pro
 dfr-invoice-scanning.delaware.pro
 dte.delaware.pro
 tst-inside.delaware.pro
-www.scp-qas.delaware.pro
 demo-retailcar.delaware.pro
 sip.delaware.pro
 t.delaware.pro
@@ -95,7 +93,7 @@ staysafe.delaware.pro
 crm.d365.delaware.pro
 cv-qas.delaware.pro
 platinahub.delaware.pro
-www.hackathon.delaware.pro
+hackathon.delaware.pro
 time.delaware.pro
 kibana.delaware.pro
 corp.delaware.pro
@@ -125,21 +123,18 @@ iphub.delaware.pro
 store-qa.delaware.pro
 scheduling-qas.delaware.pro
 chatgpt-qas.delaware.pro
-hackathon.delaware.pro
 servicenow-qas.delaware.pro
 training-qas.delaware.pro
 rdweb.delaware.pro
 msoid.delaware.pro
 monitoring.delaware.pro
 events.delaware.pro
-www.dfr-invoice-scanning.delaware.pro
 archiveserver.delaware.pro
 bestwishes.delaware.pro
 qa-cv4u.delaware.pro
 sapccomanager.delaware.pro
 shortlink.delaware.pro
 vpn-dev-cn.delaware.pro
-www.scp.delaware.pro
 training-qas-fd.delaware.pro
 o1.ptr1812.delaware.pro
 confluence.delaware.pro
@@ -163,7 +158,6 @@ localhost.delaware.pro
 cv4u.delaware.pro
 expenses.delaware.pro
 shell.delaware.pro
-www.studentgame.delaware.pro
 itsm.delaware.pro
 search-pre.delaware.pro
 tmp-inside.delaware.pro

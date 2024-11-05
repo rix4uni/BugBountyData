@@ -63,7 +63,6 @@ production-cms.experience.who.int
 healthcluster.who.int
 ahpsr.who.int
 cms.partnership.who.int
-www.who.int
 pmnch.who.int
 data.who.int
 production-cms.partnership.who.int
@@ -76,7 +75,7 @@ hr-ukraine-dev.who.int
 tbtrialtrack.who.int
 mednet2.who.int
 rcceimplanner.who.int
-www.aws.iarc.who.int
+aws.iarc.who.int
 ojs.wpro.who.int
 tng.who.int
 tng-monitor-dev.who.int
@@ -97,7 +96,7 @@ dct.aho.afro.who.int
 polmis.emro.who.int
 jor-imap.emro.who.int
 mediacentre.who.int
-www.www.who.int
+www.who.int
 apps.lms-uat.lxp.academy.who.int
 preview.lms-uat.lxp.academy.who.int
 lms-uat.lxp.academy.who.int
@@ -119,7 +118,7 @@ data.lap-staging.lxp.academy.who.int
 africahealthforum.afro.who.int
 preview.panthers-lms.apps.develop.lxp.academy.who.int
 cci4eu.aws-lcb.iarc.who.int
-www.iarc.who.int
+iarc.who.int
 vlibrary.emro.who.int
 vhsl.emro.who.int
 countryportal-sandbox.who.int
@@ -128,7 +127,7 @@ preview.fix-es-lms.apps.develop.lxp.academy.who.int
 fix-es-lms.apps.develop.lxp.academy.who.int
 apps.fix-es-lms.apps.develop.lxp.academy.who.int
 studio.lap-uat.lxp.academy.who.int
-www.emro.who.int
+emro.who.int
 files.aho.afro.who.int
 lxp-constants-labs-dev.lxp.academy.who.int
 lxp-constants-default.lxp.academy.who.int
@@ -148,7 +147,6 @@ lxp-nginx-lms-labs-staging.apps.dev.lxp.academy.who.int
 lxp-nginx-cms-labs-staging.apps.dev.lxp.academy.who.int
 apps.dev-bump-plugin-openedx-tutor-lms-labs-dev.apps.dev.lxp.academy.who.int
 dev-bump-plugin-openedx-tutor-lms-labs-dev.apps.dev.lxp.academy.who.int
-www.euro.who.int
 umd.emro.who.int
 monographs.aws.iarc.who.int
 feat-lap-openedx-tutor-lms-labs-dev.apps.dev.lxp.academy.who.int
@@ -198,8 +196,7 @@ cms-openedx.apps.dev.lxp.academy.who.int
 lms-openedx.apps.dev.lxp.academy.who.int
 apps.lms-openedx.apps.dev.lxp.academy.who.int
 community-godata.who.int
-www.aws-test.iarc.who.int
-*.wpro.who.int
+aws-test.iarc.who.int
 wpro.who.int
 events.iarc.who.int
 expe.who.int
@@ -207,5 +204,4 @@ collab-edge.who.int
 expe-1.who.int
 expe-2.who.int
 expe-3.who.int
-*.who.int
 ems2.who.int

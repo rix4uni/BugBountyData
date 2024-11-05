@@ -14,7 +14,6 @@ auth.gocollect.findaya.com
 api.lss-portal.loanplatform.staging.findaya.com
 api.portal.loanplatform.staging.findaya.com
 api.crs.loanplatform.staging.findaya.com
-www.findaya.com
 api.findaya.com
 api.kyc.loanplatform.staging.findaya.com
 api.recon-service.loanplatform.staging.findaya.com
@@ -90,9 +89,6 @@ api.recon-service.loanplatform.findaya.com
 kafka-bridge.loanplatform.staging.findaya.com
 api-dr.cpe.loanplatform.findaya.com
 api-dr.crs.loanplatform.findaya.com
-*.findaya.com
-*.staging.cboss.findaya.com
-*.cboss.findaya.com
 _dmarc.findaya.com
 kafka-bridge-dr.loanplatform.findaya.com
 api-dr.lender.loanplatform.findaya.com

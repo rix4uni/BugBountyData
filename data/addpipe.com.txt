@@ -23,7 +23,6 @@ s4-eu2.addpipe.com
 s3b-eu2.addpipe.com
 api.addpipe.com
 s3b-eu.addpipe.com
-www.addpipe.com
 s3b-us2.addpipe.com
 s4-dev-us.addpipe.com
 s3b-dev-us.addpipe.com
@@ -43,14 +42,12 @@ s4-eu.addpipe.com
 s2-ru.addpipe.com
 s2.addpipe.com
 db-ams.addpipe.com
-www.api.addpipe.com
 s4.addpipe.com
 s2-ca.addpipe.com
 s4-ca.addpipe.com
 s2-us.addpipe.com
 s4-us.addpipe.com
 s4-ru.addpipe.com
-*.addpipe.com
 wp.addpipe.com
 dashboard-dev.addpipe.com
 ghost-dev.addpipe.com

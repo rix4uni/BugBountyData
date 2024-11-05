@@ -25,7 +25,6 @@ jenkins.production.backson.de
 jenkins.backson.de
 production-metabase.backson.de
 test-superset.backson.de
-www.backson.de
 uat.backson.de
 superset-alpha.backson.de
 subdo2.backson.de
@@ -35,4 +34,4 @@ argo-dev.backson.de
 analytics.dev.backson.de
 dev-superset.backson.de
 uat-argo.backson.de
-www.www.backson.de
+www.backson.de

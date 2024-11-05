@@ -1,5 +1,4 @@
 media.love.isdin.com
-*.media.love.isdin.com
 www-dev.api.love.isdin.com
 www-preproduction.api.love.isdin.com
 www-staging.backoffice.love.isdin.com
@@ -16,7 +15,6 @@ telederm.love.isdin.com
 www-staging-med-eu.love.isdin.com
 www-dev.love.isdin.com
 preproduction.backoffice.love.isdin.com
-www.love.isdin.com
 api-magento.love.isdin.com
 www-staging.api.love.isdin.com
 www-staging.love.isdin.com
@@ -46,7 +44,7 @@ www-dev.storybook.yuma.love.isdin.com
 www-testing.love.love.isdin.com
 www-dev.products.webeat.love.isdin.com
 video.love.isdin.com
-www.clustering-isdinlovers.love.isdin.com
+clustering-isdinlovers.love.isdin.com
 frontapps.love.isdin.com
 wwworigin.love.isdin.com
 dev.shopping.webeat.love.isdin.com
@@ -69,7 +67,7 @@ izoomv.love.isdin.com
 maintenance.love.isdin.com
 erp-api.love.isdin.com
 www-dev.points-manager.api.sellout.love.isdin.com
-www.love.love.isdin.com
+love.love.isdin.com
 backend.mobile.love.love.isdin.com
 trivisdinew.love.isdin.com
 ftp.love.isdin.com
@@ -79,7 +77,7 @@ www-pre.api.love.love.isdin.com
 jenkins.love.isdin.com
 backoffice.concept-store.love.isdin.com
 pocfaro.love.isdin.com
-www.store.love.isdin.com
+store.love.isdin.com
 autodiscover.love.isdin.com
 oregon.api.heimdall.webeat.love.isdin.com
 intraisdin.love.isdin.com
@@ -118,7 +116,7 @@ www-preview.webeat.love.isdin.com
 www-smartorder-staging.love.love.isdin.com
 labelling.love.isdin.com
 websockets.love.isdin.com
-www.monitoring.love.isdin.com
+monitoring.love.isdin.com
 webmail.love.isdin.com
 www-dev.love.love.isdin.com
 www-dev.erp-api.love.isdin.com
@@ -196,7 +194,6 @@ mail.love.isdin.com
 dev.ireland.shopping.webeat.love.isdin.com
 api-redirects.love.isdin.com
 www-staging.erp-api.love.isdin.com
-www.email.love.isdin.com
 cloudfront.backoffice.concept-store.love.isdin.com
 mail.pharmatrade.love.isdin.com
 www-staging.deals.isd.love.isdin.com
@@ -310,21 +307,17 @@ wwworigin.za-uat.love.isdin.com
 webeat.love.isdin.com
 www-dev05.love.isdin.com
 www-staging-api-magento.love.love.isdin.com
-store.love.isdin.com
 backend.back-office.webeat.love.isdin.com
 shopping.webeat.love.isdin.com
 www-dev.backoffice.webeat.love.isdin.com
 chat.love.isdin.com
-www.pharmatrade.love.isdin.com
 www-dev.products.isd.love.isdin.com
 oregon.shopping.webeat.love.isdin.com
 sp2013-sdn.love.isdin.com
 dev.products.webeat.love.isdin.com
 sp2013.love.isdin.com
-love.love.isdin.com
 broadcast.love.isdin.com
 www-dev-usa.dev.love.isdin.com
-clustering-isdinlovers.love.isdin.com
 sellout.love.isdin.com
 static.presales-med-eu.love.love.isdin.com
 www-dev.cdn.webeat.love.isdin.com

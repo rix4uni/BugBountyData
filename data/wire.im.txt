@@ -4,7 +4,6 @@ remote.wire.im
 wwww.wire.im
 game.wire.im
 dev.galacticraft.mod.api.wire.im
-www.wire.im
 hostmaster.wire.im
 lime.wire.im
 smtp.wire.im
@@ -27,7 +26,6 @@ _dmarc.autodiscover.wire.im
 dkim._domainkey.wire.im
 dev.wire.im
 mail._domainkey.wire.im
-www.hostmaster.wire.im
 mx0.wire.im
 root.wire.im
 service.wire.im
@@ -86,7 +84,6 @@ mykey._domainkey.service.wire.im
 pyanybn.wire.im
 eml.wire.im
 vps.wire.im
-www.lime.wire.im
 superset.staging.wire.im
 analytics-alpha.wire.im
 mysql.wire.im
@@ -114,7 +111,6 @@ mailx.wire.im
 mail6.wire.im
 cpanel.wire.im
 server1.wire.im
-www.exchange.wire.im
 send.wire.im
 hermes.wire.im
 argo.wire.im
@@ -124,7 +120,6 @@ ww01.wire.im
 lyncdiscover.wire.im
 _dmarc.remote.wire.im
 staging.superset.wire.im
-www.webmail.wire.im
 old.wire.im
 mx3.wire.im
 authsmtp.wire.im
@@ -136,7 +131,6 @@ build.hoth.wire.im
 art.wire.im
 stag-superset.wire.im
 relay2.wire.im
-www.smtp.wire.im
 antispam.wire.im
 whm.wire.im
 autoconfig.wire.im
@@ -178,14 +172,11 @@ m.wire.im
 smtpauth.wire.im
 mails.wire.im
 mail11.wire.im
-www.remote.wire.im
 _mta-sts.wire.im
 gate.wire.im
 www1.wire.im
 admin.wire.im
 thor.wire.im
-www.mail.wire.im
-www.crm.wire.im
 mx01.wire.im
 argo-std.wire.im
 ssl.wire.im

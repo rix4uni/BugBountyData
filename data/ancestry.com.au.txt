@@ -1,7 +1,6 @@
 mitsvc.ancestry.com.au
 interactive.ancestry.com.au
-*.ancestry.com.au
-*.ajax.ancestry.com.au
+ajax.ancestry.com.au
 secure.ancestry.com.au
 hints.ancestry.com.au
 mycanvas.ancestry.com.au
@@ -30,11 +29,8 @@ dnahomeaws.ancestry.com.au
 sharing.ancestry.com.au
 awtc.ancestry.com.au
 mcservices.ancestry.com.au
-www.ancestry.com.au
-www.mycanvas.ancestry.com.au
 dna.ancestry.com.au
 pointofsale.ancestry.com.au
-ajax.ancestry.com.au
 publicwebservices.ancestry.com.au
 herowall.ancestry.com.au
 person.ancestry.com.au
@@ -80,5 +76,4 @@ reply.ancestry.com.au
 id.ancestry.com.au
 facebook.ancestry.com.au
 spf2.ancestry.com.au
-www.community.ancestry.com.au
 imageservice.ancestry.com.au

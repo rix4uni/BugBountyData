@@ -10,7 +10,7 @@ uc-connector.disney.bluescape.com
 entitler.gdev1.bluescape.com
 pipefitter.stgperf.bluescape.com
 metabase-internal.devperf.bluescape.com
-www.instance2.identity-api.bluescape.com
+instance2.identity-api.bluescape.com
 identity.jnjstg.bluescape.com
 ucla.ss.bluescape.com
 config.doe.bluescape.com
@@ -20,7 +20,7 @@ browser-service.jnjstg.bluescape.com
 health.infrastg.bluescape.com
 admin.devperf.bluescape.com
 wallapps.devperf.bluescape.com
-www.www-new.bluescape.com
+www-new.bluescape.com
 workspace-sizer.marvelstudios.bluescape.com
 netlify.ford.bluescape.com
 workflow.devperf.bluescape.com
@@ -56,7 +56,7 @@ developer.bluescape.com
 pipefitter.apps.us.bluescape.com
 outlook.specstg.bluescape.com
 client.doe.bluescape.com
-www.jira.common.bluescape.com
+jira.common.bluescape.com
 identity.marvelstudios.bluescape.com
 graphql.gdev1.bluescape.com
 config.disney.bluescape.com
@@ -127,7 +127,7 @@ activity-feed.stg1.bluescape.com
 plugins.disney.bluescape.com
 popsync.jnjstg.bluescape.com
 sjsu.bluescape.com
-www.nexus.stg.bluescape.com
+nexus.stg.bluescape.com
 socket-rs.jnjstg.bluescape.com
 video-delivery.gdev1.bluescape.com
 stg.bluescape.com
@@ -174,7 +174,7 @@ portal.gdev1.bluescape.com
 metabase-internal.jnjstg.bluescape.com
 workspace-sizer.infrastg.bluescape.com
 cors.jnjstg.bluescape.com
-www.staging.consul0.bluescape.com
+staging.consul0.bluescape.com
 api.infrastg.bluescape.com
 elementary.specstg.bluescape.com
 cmt.specstg.bluescape.com
@@ -194,7 +194,7 @@ transfer.disney.bluescape.com
 minio.stg1.bluescape.com
 metabase.stg1.bluescape.com
 identity.apps.us.bluescape.com
-www.staging.consul2.bluescape.com
+staging.consul2.bluescape.com
 plugins.infrastg.bluescape.com
 elementary.infrastg.bluescape.com
 metabase.specstg.bluescape.com
@@ -217,14 +217,13 @@ transfer.fordstg.bluescape.com
 portal.stg1.bluescape.com
 config.fordstg.bluescape.com
 collab.devperf.bluescape.com
-www.kibana.gcommon.bluescape.com
+kibana.gcommon.bluescape.com
 collab.infrastg.bluescape.com
-www.instance2.consul0.bluescape.com
+instance2.consul0.bluescape.com
 portal-api.gdev1.bluescape.com
 sockhop.stg1.bluescape.com
 stunnel.ford.bluescape.com
 api.fordstg.bluescape.com
-www.bluescape.com
 avaya.bluescape.com
 knowledge.bluescape.com
 health-analytics.fordstg.bluescape.com
@@ -316,7 +315,7 @@ activity-feed.apps.us.bluescape.com
 document-service.gdev1.bluescape.com
 community.bluescape.com
 identity.apps.uat3.bluescape.com
-www.acceptance.collaboration.bluescape.com
+acceptance.collaboration.bluescape.com
 browser-service.devperf.bluescape.com
 portal-api.fordstg.bluescape.com
 config-center-service.disney.bluescape.com
@@ -343,7 +342,7 @@ outlook.gdev1.bluescape.com
 entitler.apps.us.bluescape.com
 staging.monit.bluescape.com
 client.infrastg.bluescape.com
-www.instance2.portal-api.bluescape.com
+instance2.portal-api.bluescape.com
 analytics-api.doe.bluescape.com
 plugins.devperf.bluescape.com
 elementary.stg1.bluescape.com
@@ -362,7 +361,7 @@ cobrowse.devperf.bluescape.com
 identity-api.infrastg.bluescape.com
 browser-service.apps.us.bluescape.com
 identity.devperf.bluescape.com
-www.wwwdr.bluescape.com
+wwwdr.bluescape.com
 apps.uat2.bluescape.com
 config.ford.bluescape.com
 isam.specstg.bluescape.com
@@ -410,7 +409,7 @@ socket-rs.spec.bluescape.com
 fallback.gdev1.bluescape.com
 idfed.fordstg.bluescape.com
 config.specstg.bluescape.com
-www.acceptance.portal.bluescape.com
+acceptance.portal.bluescape.com
 isam.ford.bluescape.com
 developer.apps.us.bluescape.com
 collab.jnjstg.bluescape.com
@@ -480,7 +479,7 @@ popsync.apps.us.bluescape.com
 instancex.bluescape.com
 uat.bluescape.com
 social-share.gdev1.bluescape.com
-www.sc3.bluescape.com
+sc3.bluescape.com
 elementary-worker.apps.us.bluescape.com
 workspace-sizer.gdev1.bluescape.com
 elementary-worker.jnjstg.bluescape.com
@@ -491,8 +490,8 @@ isam.stgperf.bluescape.com
 apps.us.bluescape.com
 stgperf.bluescape.com
 elementary-worker.gdev1.bluescape.com
-www.analytics.bluescape.com
-www.webapps.bluescape.com
+analytics.bluescape.com
+webapps.bluescape.com
 portal.apps.us.bluescape.com
 client.fordstg.bluescape.com
 portal.staging.bluescape.com
@@ -502,8 +501,8 @@ activity-feed.fordstg.bluescape.com
 wallapps.infrastg.bluescape.com
 config.infrastg.bluescape.com
 partner.bluescape.com
-www.acceptance.consul0.bluescape.com
-www.acceptance.utility.bluescape.com
+acceptance.consul0.bluescape.com
+acceptance.utility.bluescape.com
 identity.specstg.bluescape.com
 cmt.ford.bluescape.com
 entitler.stgperf.bluescape.com
@@ -551,7 +550,6 @@ cdata.stg1.bluescape.com
 isam.disney.bluescape.com
 admin.spec.bluescape.com
 analytics-api.marvelstudios.bluescape.com
-jira.common.bluescape.com
 www-stg.bluescape.com
 uc-connector.gdev1.bluescape.com
 elementary-worker.stg1.bluescape.com
@@ -561,9 +559,9 @@ document-service.stg1.bluescape.com
 isam.marvelstudios.bluescape.com
 metabase.disney.bluescape.com
 video-delivery.apps.us.bluescape.com
-www.loadtest.bluescape.com
+loadtest.bluescape.com
 outlook.devperf.bluescape.com
-www.acceptance.wallapps.bluescape.com
+acceptance.wallapps.bluescape.com
 plugins.gdev1.bluescape.com
 search.ford.bluescape.com
 socket.marvelstudios.bluescape.com
@@ -583,7 +581,7 @@ wallapps.disney.bluescape.com
 plugins.ford.bluescape.com
 client.bluescape.com
 client.gdev1.bluescape.com
-www.log.bluescape.com
+log.bluescape.com
 social-share.spec.bluescape.com
 identity-api.spec.bluescape.com
 disney.bluescape.com
@@ -650,7 +648,7 @@ social-share.fordstg.bluescape.com
 webrtc.apps.us.bluescape.com
 disneystg.bluescape.com
 identity.gdev1.bluescape.com
-www.acceptance.collaboration-balancer.bluescape.com
+acceptance.collaboration-balancer.bluescape.com
 metabase-internal.stg1.bluescape.com
 jnj.bluescape.com
 client.spec.bluescape.com
@@ -704,11 +702,11 @@ idfed.devperf.bluescape.com
 pipefitter.gdev1.bluescape.com
 plugins.stgperf.bluescape.com
 apps.gc1.bluescape.com
-www.staging.consul1.bluescape.com
+staging.consul1.bluescape.com
 analytics-api.jnjstg.bluescape.com
 pdp.specstg.bluescape.com
 entitler.doe.bluescape.com
-www.acceptance.configuration.bluescape.com
+acceptance.configuration.bluescape.com
 document-service.marvelstudios.bluescape.com
 elementary.devperf.bluescape.com
 isam.spec.bluescape.com
@@ -738,7 +736,6 @@ social-share.devperf.bluescape.com
 webclienttest.bluescape.com
 n8n.apps.us.bluescape.com
 n8n.disney.bluescape.com
-*.disney.bluescape.com
 n8n.marvelstudios.bluescape.com
 socket-rs.gdev1.bluescape.com
 turn.fordstg.bluescape.com
@@ -753,9 +750,7 @@ sockhop.disney.bluescape.com
 elastic-dev.common.bluescape.com
 instance2.wallapps.bluescape.com
 instance2.portal.bluescape.com
-acceptance.portal.bluescape.com
 kibana-dev-5.common.bluescape.com
-staging.consul2.bluescape.com
 dev2.bluescape.com
 instance2.configuration.bluescape.com
 staging.app.bluescape.com
@@ -764,13 +759,11 @@ nexus.gcommon.bluescape.com
 elastic-marvelstudios.common.bluescape.com
 acceptance.portal-new.bluescape.com
 kibana7.common.bluescape.com
-www.engage.bluescape.com
 us01-rmq.common.bluescape.com
 elastic.gcommon.bluescape.com
 apps.uat.bluescape.com
 uat2.bluescape.com
 instance2.health.bluescape.com
-acceptance.wallapps.bluescape.com
 nexus.gcc.bluescape.com
 docker.gciii.bluescape.com
 instance2.collaboration.bluescape.com
@@ -778,7 +771,6 @@ stg1.bluescape.com
 acceptance.health.bluescape.com
 docker.nexus.gc2.bluescape.com
 docker.nexus.gcc.bluescape.com
-kibana.gcommon.bluescape.com
 staging.collaboration.bluescape.com
 rabbit-dev.common.bluescape.com
 kibana7-dev.common.bluescape.com

@@ -15,7 +15,6 @@ beta.vault.ledger.fr
 neo5.ledger.fr
 haproxy1.rbx.ovh.ledger.fr
 lb.ledger.fr
-www.ledger.fr
 inventory.internal.ledger.fr
 nft.staging.aws.ledger.fr
 alpha.vault.ledger.fr
@@ -29,7 +28,6 @@ slackbot.staging.aws.ledger.fr
 haproxy1.gra.ovh.ledger.fr
 middleware.ledger.fr
 statics.ledger.fr
-*.ledger.fr
 internal-systems-bo-new.prod.aws.ledger.fr
 internal-systems-bo.prod.aws.ledger.fr
 appstore-front-k8s.staging.aws.ledger.fr

@@ -1,9 +1,6 @@
 data.infoptf.fhwa.dot.gov
-www.data.infoptf.fhwa.dot.gov
 rcapmtestweb.fra.dot.gov
-www.rcapmtestweb.fra.dot.gov
 rcapm.fra.dot.gov
-www.rcapm.fra.dot.gov
 rcapmtest.fra.dot.gov
 backend-rcapmweb.fra.dot.gov
 backend-rcapm.fra.dot.gov
@@ -217,13 +214,11 @@ screenshare.dot.gov
 elmscontent.dot.gov
 phmsa.dot.gov
 scitech.dot.gov
-www.dot.gov
 safetravel.dot.gov
 docketsinfo.dot.gov
 dms.dot.gov
 education.dot.gov
 hazmat.dot.gov
-www.marad.dot.gov
 capos.marad.dot.gov
 eis.marad.dot.gov
 epp.marad.dot.gov
@@ -244,16 +239,11 @@ sip.marad.dot.gov
 vesselhistory.marad.dot.gov
 webapps.marad.dot.gov
 safespect-train.fmcsa.dot.gov
-www.safespect-train.fmcsa.dot.gov
-www.case.fhwa.dot.gov
 case.fhwa.dot.gov
-www.case-stage.fhwa.dot.gov
 case-stage.fhwa.dot.gov
 backend-case.fhwa.dot.gov
 backend-case-stage.fhwa.dot.gov
-www.bil-chatbot.dot.gov
 origin-bil-chatbot.dot.gov
-www.pdf-filler.dot.gov
 382reporting.ost.dot.gov
 animalreport.ost.dot.gov
 cms.dotnet.dot.gov
@@ -276,4 +266,3 @@ vpic-stage.nhtsa.dot.gov
 vpic.nhtsa.dot.gov
 safespect-api-train.fmcsa.dot.gov
 www-nrd.nhtsa.dot.gov
-www.www-nrd.nhtsa.dot.gov

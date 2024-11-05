@@ -1,4 +1,3 @@
-*.google.ga
 groups.google.ga
 cirq.google.ga
 com.microids.google.ga
@@ -42,7 +41,6 @@ ns4.google.ga
 news.google.ga
 local.google.ga
 mail.google.ga
-www.google.ga
 get.google.ga
 admob.google.ga
 adssettings.google.ga

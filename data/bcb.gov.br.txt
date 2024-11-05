@@ -1,6 +1,4 @@
-*.homologa.bcb.gov.br
 homologa.bcb.gov.br
-*.bcnet.bcb.gov.br
 bcnet.bcb.gov.br
 www3.bcb.gov.br
 mkt.comunicacao.bcb.gov.br
@@ -24,7 +22,6 @@ valoresareceber.homologa.bcb.gov.br
 protocolodigital.bcb.gov.br
 credenciamento.bcb.gov.br
 cdn-www.bcb.gov.br
-www.bcb.gov.br
 webservice.operacional.scr2.bcb.gov.br
 expresso.bcb.gov.br
 eventos.bcb.gov.br

@@ -44,7 +44,6 @@ cc.rg.net
 r2.dfw.rg.net
 ipmi.vm0.dfx.rg.net
 cache0.rg.net
-www.rg.net
 sf.rg.net
 sw0.sea.rg.net
 pwr0.sea.rg.net
@@ -55,7 +54,7 @@ italo.rg.net
 six2.rg.net
 lo0.o0.dfw.rg.net
 pwr1-red.dfw.rg.net
-www.popscene.rg.net
+popscene.rg.net
 s0.iad.rg.net
 dhcp4.iad.rg.net
 vm0.iad.rg.net
@@ -87,7 +86,7 @@ rfd.rg.net
 dhcp-27.dfw.rg.net
 vm0.sea.rg.net
 ipmi.vm1.dfw.rg.net
-www.advanced3d.rg.net
+advanced3d.rg.net
 ipmi.vm1.iad.rg.net
 bbgp.rg.net
 icir.dfw.rg.net
@@ -143,7 +142,7 @@ rcuss-raft.rg.net
 dhcp0.iad.rg.net
 dhcp-26.dfw.rg.net
 vm2.sea.rg.net
-www.2torrant.rg.net
+2torrant.rg.net
 pfs0.sea.rg.net
 vpn173.sea.rg.net
 viz2.rg.net

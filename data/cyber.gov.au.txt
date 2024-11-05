@@ -30,11 +30,9 @@ support.pdns.cyber.gov.au
 analytics-v1.exerciseinabox.cyber.gov.au
 blockcheck.pdns.cyber.gov.au
 checkup.cyber.gov.au
-www.cyber.gov.au
 report.cyber.gov.au
 reportapp.cyber.gov.au
 api-report.cyber.gov.au
-*.test-ctis.cyber.gov.au
 _dmarc.cyber.gov.au
 scan5.checkup.cyber.gov.au
 scan4.checkup.cyber.gov.au
@@ -42,12 +40,7 @@ scan2.checkup.cyber.gov.au
 scan3.checkup.cyber.gov.au
 scan.checkup.cyber.gov.au
 scan1.checkup.cyber.gov.au
-www.marvin.cyber.gov.au
-www.stingray.cyber.gov.au
 scan2t.chips.cyber.gov.au
-www.eagleray.cyber.gov.au
-www.batray.cyber.gov.au
 scan1t.chips.cyber.gov.au
 scan3t.chips.cyber.gov.au
-www.manta.cyber.gov.au
 scan4t.chips.cyber.gov.au

@@ -56,7 +56,6 @@ auth-staging.tenet.textexpander.com
 sprocket-qa.tenet.textexpander.com
 auth-dev.tenet.textexpander.com
 assets-dev.tenet.textexpander.com
-www.cgi.textexpander.com
+cgi.textexpander.com
 staging.textexpander.com
 try.textexpander.com
-www.textexpander.com

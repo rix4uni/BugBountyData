@@ -1,14 +1,12 @@
 auth.dev.stjude.cloud
 homepage.staging.stjude.cloud
 design.stjude.cloud
-*.staging.stjude.cloud
 staging.stjude.cloud
 pecan-pr1912.staging.stjude.cloud
 pecan-pr1906.staging.stjude.cloud
 pecan-pr1914.staging.stjude.cloud
 pecan-pr1792.staging.stjude.cloud
 cstn-r-dev.ris.stjude.cloud
-*.cstn-r-dev.ris.stjude.cloud
 pecan-pr1928.staging.stjude.cloud
 test.permalinks.staging.stjude.cloud
 test.cstn.stjude.cloud
@@ -32,7 +30,6 @@ pecan-v2.staging.stjude.cloud
 subscribe.stjude.cloud
 histology-pr14.staging.stjude.cloud
 pecan-pr1698.staging.stjude.cloud
-www.stjude.cloud
 pr234.viz.staging.stjude.cloud
 ccdi-pr143.staging.stjude.cloud
 pecan-pin-dxpy.staging.stjude.cloud

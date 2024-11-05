@@ -44,7 +44,6 @@ occon17.owncloud.com
 ci.staging.owncloud.com
 officeonline.test.owncloud.com
 cust85.staging.owncloud.com
-www.owncloud.com
 cust76.staging.owncloud.com
 autodiscovercore.staging.owncloud.com
 customer.owncloud.com
@@ -69,7 +68,7 @@ yolanda.owncloud.com
 autodiscover-fb.staging.owncloud.com
 autodiscover-backoffice.staging.owncloud.com
 autodiscovercms.staging.owncloud.com
-www.api.staging.owncloud.com
+api.staging.owncloud.com
 cmail.staging.owncloud.com
 thor.staging.owncloud.com
 contact.staging.owncloud.com
@@ -95,7 +94,7 @@ cx.staging.owncloud.com
 coldfusion.staging.owncloud.com
 autodiscover.preview.staging.owncloud.com
 smtp.wwwtest.staging.owncloud.com
-www.w.owncloud.com
+w.owncloud.com
 cust117.staging.owncloud.com
 clusters.staging.owncloud.com
 portal.owncloud.com
@@ -222,7 +221,6 @@ autodiscoverstatic.staging.owncloud.com
 cust43.staging.owncloud.com
 cims.staging.owncloud.com
 autodiscover-autodiscover.staging.owncloud.com
-www.doc.owncloud.com
 autodiscover.backoffice.staging.owncloud.com
 d.staging.owncloud.com
 cust50.staging.owncloud.com
@@ -272,7 +270,6 @@ cust93.staging.owncloud.com
 autodiscover.support.staging.owncloud.com
 chicago.staging.owncloud.com
 sonja.owncloud.com
-w.owncloud.com
 cust107.staging.owncloud.com
 club.staging.owncloud.com
 cust37.staging.owncloud.com
@@ -339,7 +336,7 @@ cust52.staging.owncloud.com
 clicktrack.staging.owncloud.com
 cust67.staging.owncloud.com
 daily.owncloud.com
-www.devel.owncloud.com
+devel.owncloud.com
 citrix.staging.owncloud.com
 smtp.www.secure.staging.owncloud.com
 cust121.staging.owncloud.com
@@ -552,7 +549,6 @@ timesheet.owncloud.com
 rpi.owncloud.com
 ssh.drone.owncloud.com
 test1.owncloud.com
-www.oc.owncloud.com
 s8.owncloud.com
 vvfeudaler.owncloud.com
 proxy-group2-o365-workshop.wopi.owncloud.com

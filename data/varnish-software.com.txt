@@ -7,7 +7,6 @@ training.varnish-software.com
 router-newyork-01.varnish-software.com
 device.varnish-software.com
 docs.varnish-software.com
-www.varnish-software.com
 download.varnish-software.com
 jenkins.varnish-software.com
 diy-cdn.varnish-software.com
@@ -105,7 +104,7 @@ vpn66.varnish-software.com
 host120.g12.varnish-software.com
 host122.g12.varnish-software.com
 host115.g12.varnish-software.com
-www.sugar.varnish-software.com
+sugar.varnish-software.com
 exporter.varnish-software.com
 apienginedemo.varnish-software.com
 tuner.varnish-software.com
@@ -124,7 +123,7 @@ vms-controller.varnish-software.com
 admin-hmg9.varnish-software.com
 vpn79.varnish-software.com
 letshitch.varnish-software.com
-www.rt.varnish-software.com
+rt.varnish-software.com
 host94.g12.varnish-software.com
 cdn.diy-cdn.varnish-software.com
 dev.varnish-software.com
@@ -138,7 +137,6 @@ vpn75.varnish-software.com
 vpn88.varnish-software.com
 centos7.varnish-software.com
 host107.g12.varnish-software.com
-www.diy-cdn.varnish-software.com
 vms-awx.varnish-software.com
 vpn86.varnish-software.com
 cdn-singapore-04.varnish-software.com
@@ -184,11 +182,10 @@ stage.varnish-software.com
 vpn92.varnish-software.com
 host100.g12.varnish-software.com
 debrepomanager.varnish-software.com
-www.training.varnish-software.com
 cinnamon-ipmi.varnish-software.com
 tristran.varnish-software.com
 cdn-newyork-02.varnish-software.com
-www.misc.varnish-software.com
+misc.varnish-software.com
 router.diy-cdn.varnish-software.com
 host118.g12.varnish-software.com
 neverwhere-ipmi.varnish-software.com
@@ -197,7 +194,6 @@ ms-vac.varnish-software.com
 boot.varnish-software.com
 spiros.varnish-software.com
 vpn83.varnish-software.com
-www.wiki.varnish-software.com
 host123.g12.varnish-software.com
 developers.varnish-software.com
 grafana.varnish-software.com
@@ -245,7 +241,6 @@ vpn90.varnish-software.com
 nancy.varnish-software.com
 host98.g12.varnish-software.com
 catchplay.poc.varnish-software.com
-rt.varnish-software.com
 us-edge1.diy-cdn.varnish-software.com
 blaam.varnish-software.com
 host88.g12.varnish-software.com
@@ -309,11 +304,9 @@ staging.varnish-software.com
 host73.g12.varnish-software.com
 live.varnish-software.com
 vpn67.varnish-software.com
-sugar.varnish-software.com
 vpn72.varnish-software.com
 events.varnish-software.com
 mirrormask.varnish-software.com
-misc.varnish-software.com
 filebin2.varnish-software.com
 vpn68.varnish-software.com
 filebin.varnish-software.com

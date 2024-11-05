@@ -39,7 +39,7 @@ lms-api.barrage.net
 roango-roango-web.lb.barrage.net
 le-731.in.barrage.net
 le-729.in.barrage.net
-www.whm-host.barrage.net
+whm-host.barrage.net
 prosperity-digital-prosperity-digital-web.lb.barrage.net
 roxoft-back.lb.barrage.net
 genesis-genesis-web.in.barrage.net
@@ -51,7 +51,6 @@ alt.barrage.net
 redstone-back.lb.barrage.net
 le-573.in.barrage.net
 redstone.barrage.net
-www.barrage.net
 auth.lb.barrage.net
 hive-hive-gaas-whitelist-ip-boden.lb.barrage.net
 hive-hive-api.lb.barrage.net
@@ -104,11 +103,9 @@ npm.prod.barrage.net
 travelspot-backend-public-app.in.barrage.net
 le-710.in.barrage.net
 le-661.in.barrage.net
-whm-host.barrage.net
 travelspot-public-webapp.in.barrage.net
 le-722.in.barrage.net
 numenor.barrage.net
-www.numenor.barrage.net
 cloud-zero-runpod-machine-api.lb.barrage.net
 devops-kubetest.lb.barrage.net
 public-app-travelspot-backend.in.barrage.net
@@ -116,14 +113,12 @@ le-649.in.barrage.net
 le-596.in.barrage.net
 jira.barrage.net
 le-596.arwen.barrage.net
-www.npm.prod.barrage.net
 npm.barrage.net
 api.barrango.barrage.net
 travelspot-backend-public-app.lb.barrage.net
 barrage-redstone-back.lb.barrage.net
 le-636.in.barrage.net
 git.barrage.net
-www.hq.barrage.net
 expertise-application-expertise-api.lb.barrage.net
 stealth-demo-hd-wallet-generator.in.barrage.net
 proxy.xmpp1.testing.barrage.net
@@ -143,4 +138,3 @@ hyperstack-hyberstack-api.in.barrage.net
 thegeekgathering-thegeekgathering-web.in.barrage.net
 barrage-bsides-osijek.in.barrage.net
 barrage-redstone-front.in.barrage.net
-*.barrage.net

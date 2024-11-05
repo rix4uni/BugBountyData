@@ -52,8 +52,6 @@ tor.vpn.confluence.com
 training.confluence.com
 video.confluence.com
 vpn.confluence.com
-www.confluence.com
-www.fpadmin-test.confluence.com
 aspadfs.confluence.com
 aspadfstest.confluence.com
 beta.confluence.com
@@ -98,17 +96,4 @@ vpn-na-mtl.confluence.com
 vpn-na-pit.confluence.com
 wiki.confluence.com
 wikitest.confluence.com
-www.atl-tsgateway.confluence.com
-www.atl-vpn.confluence.com
-www.bcp.confluence.com
-www.bru-tsgateway.confluence.com
-www.bru-vpn.confluence.com
-www.collector.confluence.com
-www.download.confluence.com
-www.em.confluence.com
-www.hcmc-tsgateway.confluence.com
-www.pit-rdgateway.confluence.com
-www.pit-tsgateway.confluence.com
-www.support.confluence.com
-www.vpn.confluence.com
 www2.confluence.com

@@ -11,9 +11,9 @@ eshop.staging.algostudio.net
 admin.mp.staging.algostudio.net
 saveandwin.devel.algostudio.net
 api.mp.staging.algostudio.net
-www.gl.staging.algostudio.net
+gl.staging.algostudio.net
 _dmarc.algostudio.net
-www.signifyspecifierclub.origin.algostudio.net
+signifyspecifierclub.origin.algostudio.net
 lenovo.cloud.algostudio.net
 chat.pcc.staging.algostudio.net
 todoai.staging.algostudio.net
@@ -31,7 +31,6 @@ legal.pcc.staging.algostudio.net
 autodiscover.algostudio.net
 startuppanic.devel.algostudio.net
 semar.devel.algostudio.net
-signifyspecifierclub.origin.algostudio.net
 git.algostudio.net
 ated.seatap.staging.algostudio.net
 funrate.algostudio.net
@@ -43,7 +42,6 @@ staff-old.algostudio.net
 api.eshop.prod.algostudio.net
 enjoyhome.staging.algostudio.net
 help.algostudio.net
-www.yara.staging.algostudio.net
 myic.devel.algostudio.net
 api.forcefielder.staging.algostudio.net
 dashboard.yara.staging.algostudio.net
@@ -51,8 +49,6 @@ forcefielder.staging.algostudio.net
 order.mp.staging.algostudio.net
 signifyfunnelmanagement.origin.algostudio.net
 mail.algostudio.net
-www.algostudio.net
-www.eshop.prod.algostudio.net
 admin.eshop.staging.algostudio.net
 apps.algostudio.net
 monitoring.algostudio.net
@@ -62,7 +58,7 @@ df.pcc.staging.algostudio.net
 algo.staging.algostudio.net
 gratislampu.staging.algostudio.net
 eshop.devel.algostudio.net
-www.bekrafdev.algostudio.net
+bekrafdev.algostudio.net
 grid.algostudio.net
 devel.algostudio.net
 greetup.staging.algostudio.net
@@ -71,7 +67,6 @@ izza.algostudio.net
 api.greetup.staging.algostudio.net
 biima-aws.cloud.algostudio.net
 algomon.algostudio.net
-bekrafdev.algostudio.net
 project.algostudio.net
 glacier.algostudio.net
 api.eshop.devel.algostudio.net

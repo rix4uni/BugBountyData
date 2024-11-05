@@ -15,7 +15,6 @@ login-preprod.kobaltmusic.com
 authentication.kobaltmusic.com
 secure-test.kobaltmusic.com
 brand.kobaltmusic.com
-www.brand.kobaltmusic.com
 preprod.kobaltmusic.com
 synchpitch.kobaltmusic.com
 secure-preprod-internal.kobaltmusic.com
@@ -28,18 +27,16 @@ reporting.portal.kobaltmusic.com
 auth-dns-test.kobaltmusic.com
 creators.portal.kobaltmusic.com
 auth.kobaltmusic.com
-www.kobaltmusic.com
 prod.kobaltmusic.com
 test.kobaltmusic.com
 auth-sandbox.kobaltmusic.com
 new.portal.kobaltmusic.com
 kb.kobaltmusic.com
 songsearch.kobaltmusic.com
-www.synchusa.kobaltmusic.com
+synchusa.kobaltmusic.com
 files.kobaltmusic.com
 files-test.kobaltmusic.com
 portal-kb-sandbox.kobaltmusic.com
-synchusa.kobaltmusic.com
 hubspot.kobaltmusic.com
 appapi.kobaltmusic.com
 cdn.kobaltmusic.com

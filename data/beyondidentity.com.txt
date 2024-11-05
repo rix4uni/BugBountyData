@@ -1,10 +1,7 @@
-*.beyondidentity.com
 workbench.beyondidentity.com
-www.workbench.beyondidentity.com
 partners.beyondidentity.com
 customers.beyondidentity.com
 docs.beyondidentity.com
-www.beyondidentity.com
 packages.beyondidentity.com
 threat.beyondidentity.com
 acme-cloud-euc1.beyondidentity.com
@@ -33,9 +30,8 @@ launch-static.beyondidentity.com
 console-use2.beyondidentity.com
 webview-helper-config-overrides.beyondidentity.com
 get.beyondidentity.com
-www.developer.beyondidentity.com
-insights.beyondidentity.com
 developer.beyondidentity.com
+insights.beyondidentity.com
 console.beyondidentity.com
 api-euc1.beyondidentity.com
 auth-euc1.beyondidentity.com

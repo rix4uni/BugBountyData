@@ -1,4 +1,3 @@
-*.nsoft.com
 pma-ro.nsoft.com
 sp-7admin-dev.nsoft.com
 balkanbet.vision.nsoft.com
@@ -12,7 +11,7 @@ demo.nsoft.com
 academy.nsoft.com
 luckyx.nsoft.com
 npm.nsoft.com
-www.us.nsoft.com
+us.nsoft.com
 jenkins.nsoft.com
 prod-sb-gateway-lb.nsoft.com
 poolbet-client.nsoft.com
@@ -42,7 +41,6 @@ ns20.nsoft.com
 prod-sys-ctrl.nsoft.com
 cts.nsoft.com
 bitenow.nsoft.com
-www.nsoft.com
 prod-sb-live.nsoft.com
 support.nsoft.com
 inspired-sb-staging.nsoft.com
@@ -81,6 +79,5 @@ assets.nsoft.com
 sportsbook-platform-api.nsoft.com
 sp-production.nsoft.com
 sp-staging.nsoft.com
-us.nsoft.com
 sportsbook-public-api.nsoft.com
 dev-ngs.nsoft.com

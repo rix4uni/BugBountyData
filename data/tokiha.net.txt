@@ -1,4 +1,3 @@
-*.tokiha.net
 akame.tokiha.net
 ftp.tokiha.net
 home.tokiha.net
@@ -14,7 +13,6 @@ smtp.tokiha.net
 pma-sql.tokiha.net
 post-adm.tokiha.net
 qnap.tokiha.net
-www.tokiha.net
 clyne.tokiha.net
 imap.tokiha.net
 synology.tokiha.net

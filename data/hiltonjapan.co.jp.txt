@@ -11,7 +11,7 @@ doubletree-chatan.dev.hiltonjapan.co.jp
 hiroshima.hiltonjapan.co.jp
 fukuokaseahawk.hiltonjapan.co.jp
 chatan.hiltonjapan.co.jp
-www.dev.hiltonjapan.co.jp
+dev.hiltonjapan.co.jp
 doubletree-shuri.hiltonjapan.co.jp
 doubletree-toyama.dev.hiltonjapan.co.jp
 doubletree-toyama.hiltonjapan.co.jp
@@ -25,7 +25,6 @@ tokyo.dev.hiltonjapan.co.jp
 miyakojima.dev.hiltonjapan.co.jp
 conrad-tokyo.hiltonjapan.co.jp
 tokyobay.hiltonjapan.co.jp
-dev.hiltonjapan.co.jp
 sesoko.dev.hiltonjapan.co.jp
 nagoya.dev.hiltonjapan.co.jp
 doubletree-kyoto.hiltonjapan.co.jp
@@ -40,7 +39,6 @@ recruit.dev.hiltonjapan.co.jp
 r.hiltonjapan.co.jp
 tokyo.hiltonjapan.co.jp
 conrad-osaka.hiltonjapan.co.jp
-www.hiltonjapan.co.jp
 osaka.hiltonjapan.co.jp
 conrad-osaka.dev.hiltonjapan.co.jp
 miyakojima.hiltonjapan.co.jp
@@ -48,8 +46,6 @@ doubletree-naha.hiltonjapan.co.jp
 odawara.hiltonjapan.co.jp
 canopy-osaka.hiltonjapan.co.jp
 kyoto.hiltonjapan.co.jp
-*.hiltonjapan.co.jp
-*.dev.hiltonjapan.co.jp
 _dmarc.hiltonjapan.co.jp
 doubletree-kyoto.dev.hiltonjapan.co.jp
 doubletree-kyoto-station.dev.hiltonjapan.co.jp

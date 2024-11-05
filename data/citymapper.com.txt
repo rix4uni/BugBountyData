@@ -7,7 +7,6 @@ bumble-global-api.citymapper.com
 es-barcelona-api.citymapper.com
 cfc-staging-auth.citymapper.com
 batcave.citymapper.com
-www.citymapper.com
 fr-lille-api.citymapper.com
 us-dallas-api.citymapper.com
 uk-edinburgh-api.citymapper.com
@@ -48,7 +47,6 @@ us-cleveland-api.citymapper.com
 us-atlanta-api.citymapper.com
 at-vienna-api.citymapper.com
 nl-randstad-api.citymapper.com
-www.text2.citymapper.com
 grafana-internal.citymapper.com
 phabricator.citymapper.com
 turnstile-vpc-peerapi.citymapper.com
@@ -162,7 +160,6 @@ ru-moscow-api.citymapper.com
 the.citymapper.com
 us-saltlakecity-api.citymapper.com
 de-hamburg-api.citymapper.com
-www.text.citymapper.com
 global-consumer.hackney.citymapper.com
 paris.citymapper.com
 sso.internal-tools.citymapper.com
@@ -171,5 +168,3 @@ dk-copenhagen-api.citymapper.com
 docs.mainland-eks-staging.citymapper.com
 urluk-london-api.citymapper.com
 lobster.citymapper.com
-*.identity.citymapper.com
-*.citymapper.com

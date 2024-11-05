@@ -64,7 +64,6 @@ top.tactile.events
 hop.tactile.events
 app.rijkswaterstaat.tactile.events
 app.lustrumssr-r.tactile.events
-www.tactile.events
 email.tactile.events
 museumnachtleiden.tactile.events
 app.tudelft.tactile.events
@@ -91,6 +90,5 @@ startjetoekomst.tactile.events
 training.tactile.events
 rijkswaterstaat.tactile.events
 website-new.tactile.events
-www.website-new.tactile.events
 app.inkom-2022.tactile.events
 app.flevolandgroeit.tactile.events

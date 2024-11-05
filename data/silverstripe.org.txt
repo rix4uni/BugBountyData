@@ -1,9 +1,8 @@
 userhelp.silverstripe.org
 api.silverstripe.org
 slackarchive.silverstripe.org
-www.docs.silverstripe.org
+docs.silverstripe.org
 extensions.silverstripe.org
-www.silverstripe.org
 forum.silverstripe.org
 2.4.userhelp.silverstripe.org
 3.0.userhelp.silverstripe.org
@@ -17,12 +16,11 @@ ss3.demo.silverstripe.org
 m.ss3.demo.silverstripe.org
 v2.demo.silverstripe.org
 hackathon.silverstripe.org
-docs.silverstripe.org
 demos.silverstripe.org
 elvis.silverstripe.org
 ss4-demo.silverstripe.org
 svn.silverstripe.org
-www.addons.silverstripe.org
+addons.silverstripe.org
 2.3.userguide.silverstripe.org
 dev.seo.silverstripe.org
 beta.doc.silverstripe.org
@@ -34,12 +32,10 @@ cloudflare.silverstripe.org
 2.3.support.silverstripe.org
 logs.silverstripe.org
 staging.addons.silverstripe.org
-addons.silverstripe.org
 forumarchive.silverstripe.org
 rhino.silverstripe.org
 2.3.userhelp.silverstripe.org
 translate.silverstripe.org
-www.doc.silverstripe.org
 beta.docs.silverstripe.org
 buildbot.silverstripe.org
 ftp.silverstripe.org

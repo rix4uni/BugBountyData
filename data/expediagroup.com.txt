@@ -27,12 +27,10 @@ travelercasesubmit-test.expediagroup.com
 welcome.expediagroup.com
 media.expediagroup.com
 stage-publish.help.expediagroup.com
-www.innovation.expediagroup.com
-www.partner.expediagroup.com
+innovation.expediagroup.com
 connect.expediagroup.com
 egscc.expediagroup.com
 ers-mfa.expediagroup.com
-www.expediagroup.com
 mta2.comms.expediagroup.com
 lab.apis.expediagroup.com
 auth.test.apigw.expediagroup.com
@@ -55,11 +53,10 @@ apis.travelconnect-lab.expediagroup.com
 stage-publish.www.expediagroup.com
 image.comms.expediagroup.com
 prod-author.welcome.expediagroup.com
-www.host.expediagroup.com
+host.expediagroup.com
 status.developers.expediagroup.com
 lab.ers-mfa.expediagroup.com
 dev-author.help.expediagroup.com
-host.expediagroup.com
 email.nudge.expediagroup.com
 amplify.expediagroup.com
 dxhseh0dcf74jbac2biqqzq44gpjtnms.expediagroup.com
@@ -80,9 +77,8 @@ cppbackend.expediagroup.com
 test.apis.expediagroup.com
 affiliates.expediagroup.com
 test.customer-experience.expediagroup.com
-www.brand.expediagroup.com
+brand.expediagroup.com
 playground.apigw.expediagroup.com
-www.headless.expediagroup.com
 travelerformsint.expediagroup.com
 apis.travelconnect.expediagroup.com
 marketing.expediagroup.com
@@ -118,10 +114,8 @@ travelercasesubmitint.expediagroup.com
 dev-publish.www.expediagroup.com
 ir.expediagroup.com
 stage-publish.welcome.expediagroup.com
-innovation.expediagroup.com
 perf.apigw.expediagroup.com
 mxb.expediagroup.com
-brand.expediagroup.com
 auth.test.apis.expediagroup.com
 amex-merchant-details.test.expediagroup.com
 stage-author.welcome.expediagroup.com
@@ -155,31 +149,11 @@ verify-test.expediagroup.com
 image.partners.expediagroup.com
 preview-partner.expediagroup.com
 eg.expediagroup.com
-www.affiliates.expediagroup.com
-www.welcome.expediagroup.com
 auth.expediagroup.com
 iam.expediagroup.com
 click.partners.expediagroup.com
 edam.expediagroup.com
-*.sandbox.expediagroup.com
-*.expediagroup.com
 payments.expediagroup.com
-*.dev.apigw.expediagroup.com
-*.lab.apigw.expediagroup.com
-*.decaf.apigw.expediagroup.com
-*.expeso.apigw.expediagroup.com
-*.perf.apigw.expediagroup.com
-*.us-west-2.decaf.apigw.expediagroup.com
-*.us-west-2.lab.apigw.expediagroup.com
-*.us-west-2.dev.apigw.expediagroup.com
-*.salesforce.expediagroup.com
-*.ers-mfa.expediagroup.com
-*.dev.ers-mfa.expediagroup.com
-*.playground.apigw.expediagroup.com
-*.lab.ers-mfa.expediagroup.com
-*.apis.travelconnect.expediagroup.com
-*.apis.travelconnect-lab.expediagroup.com
-*.amerigo.expediagroup.com
 accounts.expediagroup.com
 api.expediagroup.com
 bounce.expediagroup.com
@@ -241,7 +215,7 @@ ofshooter.expediagroup.com
 omk.expediagroup.com
 pak.expediagroup.com
 paypaytl.com.expediagroup.com
-www.gdgestion.expediagroup.com
+gdgestion.expediagroup.com
 33900648.expediagroup.com
 login-com.expediagroup.com
 customer-experience.expediagroup.com
@@ -277,7 +251,7 @@ rddoppler-kafka-ewep-mirrorb1.ad.doppler-kafka-ewep-mirrorom.expediagroup.com
 0-0-0-birkart-2-ifftm-ifftm-globalmn.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 007e3.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 eventcenter.waging.com.com.expediagroup.com
-www.nodebettingapi-boolse.join.com.com.expediagroup.com
+nodebettingapi-boolse.join.com.com.expediagroup.com
 8lq9sasjpr-pro0-4graph-7-okta-wwwapi6spayom.expediagroup.com
 3customer-experience.expediagroup.com
 0-0-connect-3dcc-ifftm24b24-com.expediagroup.com
@@ -445,7 +419,7 @@ bitcifleetofknowledge.chcgcom.ksclib.com.expediagroup.com
 0-0-0-author-test-appy-2-ifftm-ifftm-globalmnilterdata2.expediagroup.com
 0-0-0-aohpirkart-2-ifftm-ifftm-gloaohpalmnilterdata2.expediagroup.com
 000-22.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.losethatbellyfat.com.expediagroup.com
+losethatbellyfat.com.expediagroup.com
 0-0-0-birkart-2-ibf4gbzmbf4gbzmtm-ibf4gbzmbf4gbzmtm24-globalmn.com.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 0000-bbb4.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 0-0-0-birkart-clw11bucketdevb-if11bucketdevb-globalmn-test.com.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
@@ -474,7 +448,7 @@ repository.expediagroup.com
 8lq9sasjpr-profilesamex-merchant-details.expediagroup.com
 8lq9sasjpr-profilestomcat-pay-lab.expediagroup.com
 0-0-0-birkart-clw1122b-accoulogsvops-test8s-globalmn.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.palemetal.com.expediagroup.com
+palemetal.com.expediagroup.com
 007dc.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 8lq9sasjpr-pro0-4graph-7-okta-wwwapi6sheadless.expediagroup.com
 0-0-0-00012-2-ifftm-ifftm-globalmnilterdata2.expediagroup.com
@@ -576,7 +550,7 @@ careerslink.team.staging.translation.com.expediagroup.com
 003.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 cdn.expediagroup.com
 develop.expediagroup.com
-www.dilleyexec.com.expediagroup.com
+dilleyexec.com.expediagroup.com
 8lq9sasjpr-pro0-4graph-7-okta-wwwapi6simgautodiscover.expediagroup.com
 0-0-0-birka4hideip-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 0-career-match.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
@@ -1026,7 +1000,7 @@ godotechonestorage.expediagroup.com
 0-4graph-7-okta-wwwapi6-profilesconnect.expediagroup.com
 00.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 0.apigw.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
-www.nodepoolse.join.audmulertfprod.audmulertfprod.expediagroup.com
+nodepoolse.join.audmulertfprod.audmulertfprod.expediagroup.com
 8lq9sasjpr-profilessandbox.expediagroup.com
 8lq9sasjpr-pro0-4graph-7-okta-wwwapi6smail.expediagroup.com
 8lq9sasjpr-profiles.expediagroup.com
@@ -1813,7 +1787,7 @@ log-caccounts-connectphideipm.expediagroup.com
 0-0-birkart-s163bg-emea-berg01-22ot11122.expediagroup.com
 0051c2.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 8lq9sasjpr-profilestomcatpay-lab.expediagroup.com
-www.ley20mil.expediagroup.com
+ley20mil.expediagroup.com
 008-2b.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 000-2.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 0-mxb.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
@@ -2276,7 +2250,7 @@ accoudevops-test8s.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 124-2b.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 1000amateursb1.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 bvrt3.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.affiliates.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
+affiliates.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 audgoproxy.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 act2be.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 acc-iad.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
@@ -2634,7 +2608,7 @@ calculator.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 author-api.0-0-0-0-0-0-birkart-1stdibs-ifftmbb-clw11233b-if11233b-globalmn.expediagroup.com
 aeu.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 careerslink3.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.nodepoolse.join.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
+nodepoolse.join.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 o28.ptr2115.0-0-0-b113-bkart-04stdibs-ifftm24b24-events.expediagroup.com
 7lom6nfwrqgs6.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 apis.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
@@ -2710,7 +2684,6 @@ aec.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 231.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 clientdecaf2.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 auth4.apigw.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-nodepoolse.join.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 122-3b.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 conf.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 churn.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
@@ -2903,7 +2876,6 @@ apple0-0-0-b113-bkart-04stdibs-ifftm24b24puter.0-0-0-b113-bkart-04stdibs-ifftm24
 aki.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 122-3b.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 akorigin.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.0-0-0-b113-bkart-04stdibs-ifftm24b24-affiliates.expediagroup.com
 aips.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 1-134.com.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 6b0.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
@@ -3157,7 +3129,6 @@ beta1.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 audarkimestage.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 account8.0-0-0-accouimapss-clw11124b-bergamot11122.expediagroup.com
 countproject.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.0-0-0-b113-bkart-04stdibs-ifftm24b24-brand.expediagroup.com
 5cc.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 border.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 accountebs.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
@@ -3294,7 +3265,6 @@ ar0-0-0-1114irkart-clw11aa41114-if11aa41114-glo1114almnhivews.0-0-0-1114irkart-c
 bangalore.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 262.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 test.0-0-0-b113-bkart-04stdibs-ifftm24b24-apigw.expediagroup.com
-affiliates.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 accountebs.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 1112c1.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 2p2rhz4.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
@@ -3583,7 +3553,6 @@ apic.0-0-0-b113-bkart-04stdibs-ifftm1354b1354.expediagroup.com
 apigateway-core1.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 9a.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 akadev.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.apis.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 9f7ncsjb4k24audmulertfprod.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 4beanstalk.com.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 www-test.paygw.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
@@ -4065,7 +4034,6 @@ zendesk3.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 account2phideip.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 0-21b.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 3ad8.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
-www.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 ata.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 08b3.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 adelie.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
@@ -4679,7 +4647,6 @@ athenas-stg.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm
 542.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 betaapi-us.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 8lq9sasjpr-pro0-4graph-7-okta-wwwapi6simg-affiliates.expediagroup.com
-www.brand.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 i3rd.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 1-app-app.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 admin-panel.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
@@ -4825,7 +4792,6 @@ businesstm.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 014-31.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 author-tnlst-appy.com.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 112-mail-app.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
-www.apis.0-0-0-b113-bkart-04stdibs-ifftm24b24-com.expediagroup.com
 abramson.0-0-0-b113-bkart-04stdibs-ifftm24b24.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 add-url.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com
 422-3.com.0-0-0-b113-bkart-04stdibs-ifftm24b24.expediagroup.com

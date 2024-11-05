@@ -15,7 +15,6 @@ dev.files.paturnpike.com
 quality.paturnpike.com
 testing.paturnpike.com
 files.paturnpike.com
-www.paturnpike.com
 development.paturnpike.com
 atms.paturnpike.com
 cmm.paturnpike.com
@@ -23,7 +22,6 @@ atmsq.paturnpike.com
 cmmq.paturnpike.com
 pay.paturnpike.com
 payroll.paturnpike.com
-*.paturnpike.com
 support.paturnpike.com
 videolog.paturnpike.com
 devcrosswalk.paturnpike.com
@@ -58,16 +56,15 @@ passvault.paturnpike.com
 rss.paturnpike.com
 rssq.paturnpike.com
 wsbasprd.paturnpike.com
-www.ezpass.csc.paturnpike.com
+ezpass.csc.paturnpike.com
 beonvpn.paturnpike.com
 w.ezpass.csc.paturnpike.com
 careers.paturnpike.com
 east.paturnpike.com
 w.paturnpike.com
 mail.paturnpike.com
-www.connect.paturnpike.com
+connect.paturnpike.com
 ebstrain.paturnpike.com
-ezpass.csc.paturnpike.com
 wwww.paturnpike.com
 central.paturnpike.com
 appeals.www.paturnpike.com
@@ -79,6 +76,6 @@ adfs.paturnpike.com
 apps.paturnpike.com
 intranet.paturnpike.com
 websvc.paturnpike.com
-www.expass.scs.paturnpike.com
+expass.scs.paturnpike.com
 pay.www.paturnpike.com
 pay.websvc.paturnpike.com

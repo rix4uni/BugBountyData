@@ -8,7 +8,6 @@ ge0-2.31.br01.gva01.jobup.ch
 ds01.gva253.jobup.ch
 c.jobup.ch
 www1.jobup.ch
-www.jobup.ch
 ar01.gva15.jobup.ch
 lo0.br01.gva20.jobup.ch
 vl21.cs01.gva01.jobup.ch
@@ -54,7 +53,6 @@ job-search-api.jobup.ch
 b2c-salary-api.jobup.ch
 service.jobup.ch
 ww.stage.jobup.ch
-www.stage.jobup.ch
 g.jobup.ch
 my.crm.jobup.ch
 pxptpv.jobup.ch
@@ -91,14 +89,13 @@ survey-api-stage.jobup.ch
 user-action-api.jobup.ch
 19.gva20.jobup.ch
 ge0-1-0.21.br01.gva02.jobup.ch
-www.mobile.jobup.ch
 webinar-api-stage.jobup.ch
 autodiscover.jobup.ch
 alix01.gva25.jobup.ch
 orig.jobup.ch
 sfmc-api-stage.jobup.ch
 vl12.cs01.gva02.jobup.ch
-www.mail.jobup.ch
+mail.jobup.ch
 static.stage.jobup.ch
 contact-api.jobup.ch
 cs01.gva01.jobup.ch
@@ -121,7 +118,6 @@ user-action-api-stage.jobup.ch
 informatique.jobup.ch
 wwww.jobup.ch
 chatgpt-jobsearch-plugin-api.jobup.ch
-mail.jobup.ch
 vl302.cs01.gva02.jobup.ch
 ge0-2.br01.gva01.jobup.ch
 mailer2.jobup.ch

@@ -22,7 +22,7 @@ att.threatcast.guardsquare.com
 mail.guardsquare.com
 pm-bounces.guardsquare.com
 tools.staging.guardsquare.com
-www.phabricator.guardsquare.com
+phabricator.guardsquare.com
 telemetry.development.guardsquare.com
 dana.ingest.threatcast.guardsquare.com
 ingest.next.threatcast.guardsquare.com
@@ -53,12 +53,9 @@ customers.guardsquare.com
 healthchecks.it.guardsquare.com
 protecctile.guardsquare.com
 dev-api.customers.guardsquare.com
-phabricator.guardsquare.com
-www.guardsquare.com
-www.support.guardsquare.com
+support.guardsquare.com
 de.derp.guardsquare.com
 ingest.staging.threatcast.guardsquare.com
-support.guardsquare.com
 staging.threatcast.guardsquare.com
 downloads.guardsquare.com
 glpi.it.guardsquare.com

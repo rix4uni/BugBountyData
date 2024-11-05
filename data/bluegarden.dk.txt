@@ -22,7 +22,6 @@ cprlookup.bluegarden.dk
 dataloen-importexport.bluegarden.dk
 prod-test.bluegarden.dk
 webred.bluegarden.dk
-www.bluegarden.dk
 preprod.bluegarden.dk
 crm-forms.bluegarden.dk
 orkide.bluegarden.dk
@@ -30,7 +29,7 @@ portal.bluegarden.dk
 la.bluegarden.dk
 mail.bluegarden.dk
 nemlon.bluegarden.dk
-www.e-arkiv3.bluegarden.dk
+e-arkiv3.bluegarden.dk
 dataloen.bluegarden.dk
 multiloen-erhverv.bluegarden.dk
 openvas.bluegarden.dk
@@ -60,6 +59,5 @@ test2.bluegarden.dk
 crm-forms3.bluegarden.dk
 dai-demo.bluegarden.dk
 preprod-dataloen-api.bluegarden.dk
-e-arkiv3.bluegarden.dk
 sms.bluegarden.dk
 preprod-logon.bluegarden.dk

@@ -1,5 +1,4 @@
-*.builtbygirls.com
-*.pr.login.builtbygirls.com
+pr.login.builtbygirls.com
 api.login.builtbygirls.com
 assets.builtbygirls.com
 b.builtbygirls.com
@@ -13,7 +12,6 @@ jobs.builtbygirls.com
 login.builtbygirls.com
 oidc.builtbygirls.com
 origin-www.builtbygirls.com
-pr.login.builtbygirls.com
 privacy.builtbygirls.com
 referral.builtbygirls.com
 secure.builtbygirls.com
@@ -34,7 +32,6 @@ wave-new.builtbygirls.com
 wave-origin.builtbygirls.com
 wave-stage.builtbygirls.com
 wave-stage-origin.builtbygirls.com
-www.builtbygirls.com
 confluence-elasticbeanstalkappintranetpostgresmx.builtbygirls.com
 gdpr-client-prod.builtbygirls.com
 sapi.trunk.login.builtbygirls.com

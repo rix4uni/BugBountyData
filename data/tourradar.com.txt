@@ -1,4 +1,3 @@
-*.tourradar.com
 geo.tourradar.com
 travel.rc.tourradar.com
 travelagents.tourradar.com
@@ -35,7 +34,6 @@ stage.b2b.tourradar.com
 help.tourradar.com
 internal-api.staging.tourradar.com
 poc-vpces-svc1.vpce.stage.b2b.tourradar.com
-www.tourradar.com
 insights.tourradar.com
 stage.tourradar.com
 sandbox.b2b.tourradar.com
@@ -50,19 +48,12 @@ api.importer-outsource.tourradar.com
 sandbox.tourradar.com
 api.sandbox.tourradar.com
 importer-outsource.tourradar.com
-www.tour-the-world.now.tourradar.com
 tour-the-world.now.tourradar.com
 api.shared.tourradar.com
 api.importer.external.tourradar.com
 shared.tourradar.com
-*.docs.sandbox.b2b.tourradar.com
-*.docs.b2b.tourradar.com
-*.stage.tourradar.com
-*.rc.tourradar.com
 rc.tourradar.com
-*.internal-api.rc.tourradar.com
 internal-api.rc.tourradar.com
-*.api.rc.tourradar.com
 api.rc.tourradar.com
 karlwatson.secure.tourradar.com
 partners.tourradar.com

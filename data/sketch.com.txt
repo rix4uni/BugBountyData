@@ -1,10 +1,9 @@
-*.sketch.com
-*.dev.sketch.com
-*.non-prod.sketch.com
-*.prod.sketch.com
-*.staging.sketch.com
-*.test.sketch.com
-*.test-01.sketch.com
+dev.sketch.com
+non-prod.sketch.com
+prod.sketch.com
+staging.sketch.com
+test.sketch.com
+test-01.sketch.com
 330765-web2.sketch.com
 beta-download.sketch.com
 beta-download-staging.sketch.com
@@ -13,7 +12,6 @@ cdn.dev.sketch.com
 cloud-dev.sketch.com
 cloud-staging.sketch.com
 communications.sketch.com
-dev.sketch.com
 developer.sketch.com
 domainpoc.sketch.com
 download.sketch.com
@@ -30,7 +28,6 @@ internal-download-staging.sketch.com
 lb-public.prod.sketch.com
 mail.sketch.com
 mx.sketch.com
-non-prod.sketch.com
 o1.ptr2227.sketch.com
 plausible.dev.sketch.com
 plausible.prod.sketch.com
@@ -39,13 +36,9 @@ plausible.test.sketch.com
 presence.prod.sketch.com
 private-download.sketch.com
 private-download-staging.sketch.com
-prod.sketch.com
-staging.sketch.com
 status.sketch.com
 support.sketch.com
 support.dev.sketch.com
-test.sketch.com
-test-01.sketch.com
 test-download.sketch.com
 test-download-staging.sketch.com
 testing-download.sketch.com
@@ -54,7 +47,6 @@ vpn-sre.non-prod.sketch.com
 vpn.non-prod.sketch.com
 vpn.prod.sketch.com
 vpn.sre.sketch.com
-www.sketch.com
 your.sketch.com
 global-shop.test.sketch.com
 milcom.test.sketch.com
@@ -64,9 +56,8 @@ pre-global-shop.test.sketch.com
 uncoverfbrevers-miscompras.test.sketch.com
 xiaomi-market.test.sketch.com
 https-abs-twimg-com9-1.test.sketch.com
-*.test-norf.sketch.com
-bid48cu.7692458t.sketch.com
 test-norf.sketch.com
+bid48cu.7692458t.sketch.com
 capacitor.prod.sketch.com
 metrics-collector.prod.sketch.com
 resources-cache.prod.sketch.com

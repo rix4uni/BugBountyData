@@ -1,5 +1,4 @@
 devcms.dnv.com
-*.devcms.dnv.com
 mecada.dnv.com
 rc-16-36-energyinstall-scheduler-sql.syndev.dnv.com
 rc-16-36-energyinstall1id.syndev.dnv.com
@@ -54,8 +53,6 @@ digisale-t1-web-sql.syndev.dnv.com
 digisale-t1-scheduler-sql.syndev.dnv.com
 digisale-t1-adminapi-sql.syndev.dnv.com
 scg.dnv.com
-www.scg.dnv.com
-*.scg.dnv.com
 interfaceproducts-adminapi-sql.syndev.dnv.com
 psr.nationalgas.dnv.com
 evolvestaging.dnv.com
@@ -66,13 +63,8 @@ interfaceproducts-web-sql.syndev.dnv.com
 interfaceproducts-scheduler-sql.syndev.dnv.com
 interfaceproducts-slas.syndev.dnv.com
 gssit-svc.dnv.com
-*.gssit-svc.dnv.com
-www.dnv.com
-*.www.dnv.com
 africa.dnv.com
-*.africa.dnv.com
 workspace.dnv.com
-www.workspace.dnv.com
 energydemofecher-survey-manager-api-sql.syndev.dnv.com
 energydemofecher-services-sql.syndev.dnv.com
 energydemofecher-anonymous-web.syndev.dnv.com

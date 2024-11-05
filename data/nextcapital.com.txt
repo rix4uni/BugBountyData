@@ -3,9 +3,9 @@ spinnaker.nextcapital.com
 demo.nextcapital.com
 newport-sandbox.nextcapital.com
 oneamerica-sit-fed.nextcapital.com
-www.prudential-uat-mtls.nextcapital.com
+prudential-uat-mtls.nextcapital.com
 aspmx.l.google.com.nextcapital.com
-www.repo.nextcapital.com
+repo.nextcapital.com
 john-hancock-uat-demo.nextcapital.com
 uat-idp.nextcapital.com
 auth-stub.nextcapital.com
@@ -27,7 +27,6 @@ prototype-fed.nextcapital.com
 prod-api-dr.nextcapital.com
 transamerica-representation.nextcapital.com
 john-hancock-api-dr.nextcapital.com
-prudential-uat-mtls.nextcapital.com
 bat-idp.nextcapital.com
 perf-representation-ext.nextcapital.com
 ascensus-resources-sit-demo.nextcapital.com
@@ -59,7 +58,7 @@ clamav.mirror.nextcapital.com
 alight-prototype.nextcapital.com
 uat-fed.nextcapital.com
 perf-representation.nextcapital.com
-www.svcisamapimo-nextcap.nextcapital.com
+svcisamapimo-nextcap.nextcapital.com
 vt-vpn.nextcapital.com
 john-hancock-fed.nextcapital.com
 docs.nextcapital.com
@@ -106,8 +105,6 @@ deb.nextcapital.com
 john-hancock-prod-mtls.nextcapital.com
 prod-saml.nextcapital.com
 prod-fed.nextcapital.com
-repo.nextcapital.com
-svcisamapimo-nextcap.nextcapital.com
 john-hancock-prod-saml.nextcapital.com
 john-hancock-uat-mtls.nextcapital.com
 spinnaker.poc.nextcapital.com
@@ -472,9 +469,6 @@ uat.nextcapital.com
 imap.nextcapital.com
 accounts.nextcapital.com
 email.nextcapital.com
-www.nextcapital.com
-www.john-hancock-prod-saml.nextcapital.com
-www.uat-saml.nextcapital.com
 ascensus-qpa-stg.nextcapital.com
 ascensus-newport-stg-demo-dr.nextcapital.com
 ascensus-franklin-templeton-stg-demo-dr.nextcapital.com
@@ -488,19 +482,7 @@ oneamerica-nca-sit.nextcapital.com
 massmutual-nca-uat.nextcapital.com
 sit-prudential-proxy.nextcapital.com
 prototype-prudential-api.nextcapital.com
-*.security.nextcapital.com
 prod-fed072025.nextcapital.com
-www.nonprod-api.nextcapital.com
-*.internal.nextcapital.com
-*.nextcapital.com
-www.prod-fed.nextcapital.com
-www.prod-saml.nextcapital.com
-www.svcisamapiprod-nextcap.nextcapital.com
-www.prod-api.nextcapital.com
-www.prudential-prod-mtls.nextcapital.com
-www.john-hancock-uat-mtls.nextcapital.com
-www.john-hancock-prod-mtls.nextcapital.com
-*.spinnaker.poc.nextcapital.com
 dev-jira.internal.nextcapital.com
 docusign.nextcapital.com
 jira.internal.nextcapital.com

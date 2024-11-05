@@ -52,7 +52,6 @@ verification.tokyo.cybellum.com
 develop.devops.cybellum.com
 medical.cybellum.com
 feature-cpd-7721.docs.devops-eks.cybellum.com
-www.cybellum.com
 cytiva.ls.danaher.cybellum.com
 feature-enforce-sonar-qualitygate.docs.devops-eks.cybellum.com
 denso.cybellum.com
@@ -73,7 +72,7 @@ feature-cpd-6798-containarize-cli.docs.devops-eks.cybellum.com
 bug-cpd-6796-update-checksec-to-latest.devops-eks.cybellum.com
 bug-cpd-7658-package-search.devops-eks.cybellum.com
 bug-cpd-7210-fix-db-sessions-stuck.docs.devops-eks.cybellum.com
-www.support.cybellum.com
+support.cybellum.com
 devops-fix-grafan-get-secrets.devops-eks.cybellum.com
 feature-cpd-7487-monitoring-page.docs.devops-eks.cybellum.com
 bmw.cybellum.com

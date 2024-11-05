@@ -1,4 +1,4 @@
-*.tv.widgets.yahoo.com
+tv.widgets.yahoo.com
 au.widgets.yahoo.com
 bis.tv.widgets.yahoo.com
 ces.bis.tv.widgets.yahoo.com
@@ -8,8 +8,6 @@ kr.widgets.yahoo.com
 manual.widgets.yahoo.com
 staging.bis.tv.widgets.yahoo.com
 static.widgets.yahoo.com
-tv.widgets.yahoo.com
-www.widgets.yahoo.com
 backend.widgets.yahoo.com
 new.widgets.yahoo.com
 ery.tv.widgets.yahoo.com

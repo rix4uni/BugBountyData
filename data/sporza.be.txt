@@ -1,4 +1,4 @@
-*.live.sporza.be
+live.sporza.be
 api.sporza.be
 api-dev.sporza.be
 api-stag.sporza.be
@@ -46,7 +46,6 @@ it.sporza.be
 it-next.sporza.be
 jaaroverzicht.sporza.be
 klassiekersspel.sporza.be
-live.sporza.be
 m.sporza.be
 m-wrapper.live.sporza.be
 m.beta.sporza.be
@@ -94,9 +93,7 @@ wkpronostiek-dev.sporza.be
 wkpronostiek-stag.sporza.be
 wkpronostiek.dev.sporza.be
 wkpronostiek.stag.sporza.be
-www.sporza.be
 www-next.sporza.be
-www.doemee.sporza.be
 xmascup.sporza.be
 images-dev.sporza.be
 sport-components.stag.sporza.be

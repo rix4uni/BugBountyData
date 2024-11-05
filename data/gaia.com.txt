@@ -19,7 +19,6 @@ subscriptions.gaia.com
 summit.gaia.com
 webvpn.gaia.com
 webvpn.vmprod.gaia.com
-www.gaia.com
 airflow.gaia.com
 api.gaia.com
 cluster01.production.gaia.com
@@ -31,6 +30,3 @@ cluster03.stage.gaia.com
 marketing-dev.gaia.com
 marketing-stage.gaia.com
 stage.gaia.com
-www.contentlibrary.gaia.com
-www.webvpn.gaia.com
-www.webvpn.vmprod.gaia.com

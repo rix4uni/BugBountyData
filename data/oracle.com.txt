@@ -3755,7 +3755,6 @@ acsinet13.oracle.com
 apexadb-ext-lb-dr.oracle.com
 apexadb-ext-lb.oracle.com
 signon.oracle.com
-www.oracle.com
 alertmanager-oke-stage-lfi-a.appoci.oracle.com
 alertmanager-oke-prod-lfi-a.appoci.oracle.com
 grafana-oke-prod-lfi-a.appoci.oracle.com
@@ -3830,5 +3829,4 @@ phx-support.oracle.com
 restgwoci.oracle.com
 securefiles.oracle.com
 www-uat-oci.oracle.com
-www.auto.oracle.com
 aolesc33.us.oracle.com

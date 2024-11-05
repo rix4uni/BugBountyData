@@ -1,7 +1,5 @@
 ssp.verizonmedia.com
-*.ssp.verizonmedia.com
 api.ssp.verizonmedia.com
-*.api.ssp.verizonmedia.com
 nar.adshowcase.verizonmedia.com
 vision.mail.verizonmedia.com
 adshowcase.verizonmedia.com
@@ -220,7 +218,6 @@ elasticdev02.fin.verizonmedia.com
 ftp.o2.verizonmedia.com
 magento-shop.verizonmedia.com
 stage-real.smp.verizonmedia.com
-www.verizonmedia.com
 stage.partnerportal.verizonmedia.com
 yamt-uat.amt.verizonmedia.com
 u002factservices.verizonmedia.com

@@ -73,8 +73,6 @@ nginxtest2.exzi.com
 nginxtest1.exzi.com
 loggerd.exzi.com
 exzilogger.exzi.com
-www.exzi.com
-*.exzi.com
 botsdev-api.exzi.com
 dev-db.exzi.com
 o1643.exzi.com
@@ -85,7 +83,7 @@ smtp.exzi.com
 em6778.exzi.com
 url8349.exzi.com
 mx.exzi.com
-www.www.exzi.com
+www.exzi.com
 authsmtp.exzi.com
 vpn.exzi.com
 autoconfig.exzi.com

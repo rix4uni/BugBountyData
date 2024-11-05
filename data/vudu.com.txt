@@ -50,7 +50,7 @@ llwww-beta2-v6.vudu.com
 keychest-v6.vudu.com
 llcc.vudu.com
 llimages-v6.staging.vudu.com
-www.mqc-v6.vudu.com
+mqc-v6.vudu.com
 llimages2.staging.vudu.com
 origin-provisioning.vudu.com
 origin.watch-v6.vudu.com
@@ -83,7 +83,7 @@ llclavodhls.vudu.com
 ecavoddash.vudu.com
 provisioning.dev.vudu.com
 wmtsim.vudu.com
-www.staging-v6.vudu.com
+staging-v6.vudu.com
 stg-livestream.vudu.com
 my-v6.vudu.com
 cs15.vudu.com
@@ -106,7 +106,7 @@ origin.www-wi.vudu.com
 websocket-cs.staging.vudu.com
 --100033829--5370367-_-www.vudu.com
 rokuproxy.vudu.com
-www.mqc.vudu.com
+mqc.vudu.com
 ecapicache.vudu.com
 ecimages2-beta1-v6.vudu.com
 origin-stg-pp.vudu.com
@@ -121,7 +121,6 @@ api.preprod.vudu.com
 llimages2-beta1.vudu.com
 startup-v6.vudu.com
 vzlstream-v6.vudu.com
-mqc.vudu.com
 forum.vudu.com
 cs28.vudu.com
 ecavodimagevault-v6.vudu.com
@@ -148,11 +147,10 @@ akaclavodvault.vudu.com
 akacldash-v6.vudu.com
 --3586864--2774599-_-www.vudu.com
 cmcvaultn.vudu.com
-www.wi.vudu.com
+wi.vudu.com
 akavault-v6.vudu.com
 images2-beta2.vudu.com
 images.preprod-v6.vudu.com
-wi.vudu.com
 akaclimagevault-v6.vudu.com
 ecwww-v6.vudu.com
 kickstart.qa.vudu.com
@@ -240,11 +238,10 @@ akaclavodvault-v6.vudu.com
 origin-rokuproxy.vudu.com
 vault6-mlp.vudu.com
 swpacks-v6.vudu.com
-www.llwww.vudu.com
+llwww.vudu.com
 cs20.vudu.com
 my.beta.vudu.com
 origin-images-v6.vudu.com
-www.preprod.vudu.com
 cs1.staging.vudu.com
 llcldash-v6.vudu.com
 cs2.vudu.com
@@ -324,7 +321,6 @@ preprod-v6.vudu.com
 dvd.staging.vudu.com
 origin-int-hntvuduportal.vudu.com
 scripts.qa.vudu.com
-mqc-v6.vudu.com
 images2.vudu.com
 origin-images-beta1-v6.vudu.com
 beta-x1-tvapp.vudu.com
@@ -354,7 +350,6 @@ origin-int-provisioning.vudu.com
 origin-viziotvapp.vudu.com
 llclhls.vudu.com
 prd-upcapi.vudu.com
-www.preprod-v6.vudu.com
 stg-upload.vudu.com
 viziotvapp.vudu.com
 akaimagevault-v6.vudu.com
@@ -378,7 +373,6 @@ origin.dvd.vudu.com
 beta-ps5-tvapp.vudu.com
 drk-apicache-v6.vudu.com
 origin-stg-keychest.vudu.com
-www.cs.vudu.com
 hdata-v6.vudu.com
 --100084481--5370367-_-www.vudu.com
 origin.speedtest-v6.vudu.com
@@ -402,7 +396,6 @@ mxout-mlp-bkup.vudu.com
 origin-images.staging.vudu.com
 prd-portal.vudu.com
 kickstart.vudu.com
-www.staging.vudu.com
 autodiscover.vudu.com
 ecwww-beta1-v6.vudu.com
 my-beta2-v6.vudu.com
@@ -422,7 +415,6 @@ ecavodhls.vudu.com
 target.vudu.com
 origin.assets-v6.vudu.com
 api.drk.vudu.com
-www.bugzilla.vudu.com
 speedtest.staging.vudu.com
 akaavodhls.vudu.com
 akacldash.vudu.com
@@ -484,12 +476,10 @@ ecimages-v6.vudu.com
 origin-viziotvappbeta.vudu.com
 origin.images2.vudu.com
 beta-vizio-tvapp.vudu.com
-llwww.vudu.com
 prd-pp.vudu.com
 stg-kickstart.vudu.com
 origin-prd-keychest.vudu.com
 share.vudu.com
-www.vudu.com
 akaavodvault-v6.vudu.com
 eclstream.vudu.com
 llclavodvault-v6.vudu.com
@@ -532,9 +522,8 @@ llcc-v6.vudu.com
 ns2.vudu.com
 origin-stg-vendor.vudu.com
 provisioning.qa.vudu.com
-www.beta.vudu.com
+beta.vudu.com
 origin-images2.vudu.com
-staging-v6.vudu.com
 origin.images2-v6.vudu.com
 images.wi.vudu.com
 origin.dvd.staging.vudu.com
@@ -549,13 +538,12 @@ vendorwi.vudu.com
 akahls.vudu.com
 int-hntfwcatalogsync.vudu.com
 viziotvappbeta.vudu.com
-www.wi-v6.vudu.com
+wi-v6.vudu.com
 origin-stg-livestream.vudu.com
 images.staging.vudu.com
 assets.vudu.com
 cs25.vudu.com
 myvudu-beta2.vudu.com
-www.feedback.vudu.com
 images-beta1-v6.vudu.com
 walmart.vudu.com
 akaavoddash.vudu.com
@@ -596,7 +584,6 @@ llclimagevault.vudu.com
 mxout-qa.vudu.com
 my-beta1-v6.vudu.com
 cc-v6.vudu.com
-wi-v6.vudu.com
 llwww.staging.vudu.com
 api.vudu.com
 myvudu.staging.vudu.com

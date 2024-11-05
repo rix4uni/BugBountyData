@@ -32,7 +32,7 @@ casper1rtc-stg.hyundai.com
 chat-be.hyundai.com
 adbsmetrics.hyundai.com
 stg.privacy-admin.hyundai.com
-www.htwo.hyundai.com
+htwo.hyundai.com
 ssgtm-sk.hyundai.com
 egw.stg.kr-svchub.hyundai.com
 egw.kr-svchub.hyundai.com
@@ -45,7 +45,6 @@ robotics.hyundai.com
 ps-dcxt-id.hyundai.com
 dev-kona.hyundai.com
 kona.hyundai.com
-htwo.hyundai.com
 ssgtm-pl.hyundai.com
 artlab.hyundai.com
 ssgtm-it.hyundai.com
@@ -57,10 +56,9 @@ shop.hyundai.com
 ssgtm-eu.hyundai.com
 ssgtm-cz.hyundai.com
 vms.hyundai.com
-www.hevent.hyundai.com
+hevent.hyundai.com
 stg.kr-ccapi.hyundai.com
 prd.kr-ccapi.hyundai.com
-www.hyundai.com
 clicktobuy.hyundai.com
 visitmain.hyundai.com
 hms.hyundai.com
@@ -115,4 +113,3 @@ gim.hyundai.com
 press.motorsport.hyundai.com
 org1-www.hyundai.com
 hmota-stg.vdm.hyundai.com
-*.hyundai.com

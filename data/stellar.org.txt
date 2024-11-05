@@ -158,7 +158,6 @@ anchor-sep-server-prd.stellar.org
 recoverysigner.worldbank.stellar.org
 aid-vendor-backend-2.stellar.org
 anchordirectory-quaew.stellar.org
-www.socialclub.stellar.org
 ap-sandbox-sdp-backend.stellar.org
 stellar.stellar.org
 soroban-rpc.stellar.org
@@ -171,7 +170,6 @@ api-stg.stellar.org
 validator-03.stellar.org
 core-live-a.stellar.org
 assets.stellar.org
-www.communityfund.stellar.org
 core-testnet2.stellar.org
 horizon-stellarx.stellar.org
 validator-05.stellar.org
@@ -196,5 +194,4 @@ old-lab.stellar.org
 research.stellar.org
 validator-01.stellar.org
 validator-04.stellar.org
-www.stellar.org
 devcon.stellar.org

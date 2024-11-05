@@ -1,7 +1,6 @@
 grow.airship.com
-www.support.airship.com
-status.airship.com
 support.airship.com
+status.airship.com
 orderform.airship.com
 events.airship.com
 auth-stag.airship.com
@@ -34,7 +33,6 @@ basement.airship.com
 stas.airship.com
 www-staging.airship.com
 partners.airship.com
-www.airship.com
 takeoff.airship.com
 analyze-api-staging.airship.com
 analyze-staging.airship.com
@@ -53,14 +51,10 @@ maestro.airship.com
 urban.airship.com
 tt.magma.airship.com
 analyze-forward.airship.com
-*.magma.airship.com
 analyze-forward-api.airship.com
-*.bizops.airship.com
-*.airship.com
 api0.airship.com
 the-ship-web.airship.com
 videoportal.airship.com
-www.urban.airship.com
-www.packflak.airship.com
+packflak.airship.com
 ns.airship.com
 stas.magma.airship.com

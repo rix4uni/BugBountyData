@@ -53,9 +53,6 @@ msd-gql.dream11.com
 sonarqube.dream11.com
 skillup.dream11.com
 chat-uat.dream11.com
-www.admin.dream11.com
-www.testserver.dream11.com
-www.staging.dream11.com
 graphql-uat.dream11.com
 abd-uat.dream11.com
 uat.dream11.com
@@ -64,10 +61,8 @@ ci-prod.dream11.com
 zendesk4.dream11.com
 artifacts.dream11.com
 bayonet-uat.dream11.com
-www.yahoo.dream11.com
 apk.dream11.com
 chat-service-uat.dream11.com
-www.iit.dream11.com
 iplpanel.dream11.com
 uat-new.dream11.com
 assets.dream11.com
@@ -88,9 +83,7 @@ msd.dream11.com
 life.dream11.com
 pkl.dream11.com
 teampdf.dream11.com
-www.line.dream11.com
 ipl.dream11.com
-www.stagingd11.dream11.com
 uaticc.dream11.com
 event-framework-load.dream11.com
 coordinator-team.dream11.com

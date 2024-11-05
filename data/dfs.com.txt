@@ -1,6 +1,5 @@
 data-tip-apis.dfs.com
 data-tip-apis-nprd.dfs.com
-*.dfs.com
 np-mulapi.dfs.com
 np-intdlb1-mulapi.dfs.com
 np-intilb1-mulapi.dfs.com
@@ -69,7 +68,6 @@ contentfulcustomappdev.dfs.com
 webuat.dfs.com
 careers.dfs.com
 blackbookdev.dfs.com
-*.blackbookdev.dfs.com
 xsinawfedap501.dfs.com
 ppc2app.dfs.com
 id.dfs.com
@@ -91,7 +89,6 @@ bcconnect.dfs.com
 symphony.dfs.com
 symphony-preprod.dfs.com
 spirit.dfs.com
-www.dfs.com
 shop-indonesia.dfs.com
 store-spirit.dfs.com
 asset-lasamctf.dfs.com

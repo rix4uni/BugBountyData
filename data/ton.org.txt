@@ -1,5 +1,5 @@
 bridge.ton.org
-www.minter.ton.org
+minter.ton.org
 docs.ton.org
 society.ton.org
 homo.michele.ton.org
@@ -8,7 +8,7 @@ test.ton.org
 jobs.ton.org
 live.ton.org
 verifier.ton.org
-www.wikipedia.ton.org
+wikipedia.ton.org
 drhousemd.ton.org
 dns.ton.org
 vesting.ton.org
@@ -16,10 +16,9 @@ retracer.ton.org
 archival-dump.ton.org
 translate.ton.org
 wallet.ton.org
-www.www.ton.org
+www.ton.org
 multisig.ton.org
 ru.ton.org
-minter.ton.org
 files.ton.org
 unfreezer.ton.org
 ide.ton.org
@@ -29,4 +28,3 @@ strapi.ton.org
 generalpatent.ton.org
 blog.ton.org
 answers.ton.org
-www.ton.org

@@ -3,7 +3,6 @@ accounts.eero.com
 ap.account.eero.com
 app.eero.com
 pause-stage.eero.com
-www.eero.com
 pro-stage.eero.com
 dev.eero.com
 stage.beta.eero.com
@@ -53,7 +52,6 @@ ap.test-accounts.eero.com
 blocked.eero.com
 store.eero.com
 webhooks.bizops.staging.eero.com
-www.blog.eero.com
 assets.stage.beta.eero.com
 assets.test.beta.eero.com
 apps.bizops.eero.com
@@ -74,7 +72,7 @@ assets.marketing-beta.eero.com
 sso.eero.com
 beta.eero.com
 tour-stage.eero.com
-www.joesshop.eero.com
+joesshop.eero.com
 3pl.bizops.staging.eero.com
 netsuite.3pl.bizops.staging.eero.com
 speed.eero.com

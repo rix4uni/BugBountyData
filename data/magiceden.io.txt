@@ -9,7 +9,6 @@ wk-notary-prod.magiceden.io
 flagr.magiceden.io
 wss-mainnet.magiceden.io
 stats-mainnet.magiceden.io
-www.magiceden.io
 flagr-w.magiceden.io
 wk-sanur-rsa.magiceden.io
 wk-sanur-rsd.magiceden.io
@@ -76,4 +75,3 @@ solana.be.magiceden.io
 vip.magiceden.io
 checkout.magiceden.io
 erc721m-cosign-server.magiceden.io
-*.magiceden.io

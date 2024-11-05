@@ -1,17 +1,15 @@
 sl.beamery.com
-*.beamery-platform.bc.internal.beamery.com
-*.platform.beamery-platform.bc.internal.beamery.com
+beamery-platform.bc.internal.beamery.com
+platform.beamery-platform.bc.internal.beamery.com
 amazon.canary.beamery.com
-*.amazon.canary.beamery.com
 canary.beamery.com
-*.canary.beamery.com
 login.beamery.com
 trust.beamery.com
 kafka-0.beamery-canary-amazon.bc.internal.beamery.com
 kafka-1.beamery-canary-amazon.bc.internal.beamery.com
 kafka-2.beamery-canary-amazon.bc.internal.beamery.com
 kafka-bootstrap.beamery-canary-amazon.bc.internal.beamery.com
-www.flows.beamery.com
+flows.beamery.com
 kafka-2.beamery-dr.bc.internal.beamery.com
 kafka-4.beamery-dr.bc.internal.beamery.com
 kafka-0.beamery-dr.bc.internal.beamery.com
@@ -33,8 +31,6 @@ kafka-4.beamery-production.bc.internal.beamery.com
 kafka-1.beamery-production.bc.internal.beamery.com
 kafka-0.beamery-production.bc.internal.beamery.com
 kafka-3.beamery-production.bc.internal.beamery.com
-flows.beamery.com
-www.beamery.com
 vanity.beamery.com
 valuecenter.beamery.com
 pages.beamery.com
@@ -77,4 +73,3 @@ preview2.beamery.com
 status.beamery.com
 amazon.preview.beamery.com
 sales.beamery.com
-*.fs.beamery.com

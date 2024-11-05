@@ -1,5 +1,3 @@
-*.bookweb.org
-www.bookweb.org
 handbook-new.bookweb.org
 handbook.bookweb.org
 new.bookweb.org
@@ -12,7 +10,6 @@ smtp.bookweb.org
 archive2013.bookweb.org
 archive.bookweb.org
 wi8.bookweb.org
-www.news.bookweb.org
 bestsellers.bookweb.org
 mail01.bookweb.org
 stage.bookweb.org
@@ -21,7 +18,6 @@ dev.bookweb.org
 members.bookweb.org
 archivenews.bookweb.org
 images.bookweb.org
-www.images.bookweb.org
 icwiki.bookweb.org
 web.bookweb.org
 staging.bookweb.org

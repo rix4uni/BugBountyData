@@ -1,5 +1,4 @@
 status-itg.it.hpe.com
-*.status-itg.it.hpe.com
 matter-itg.it.hpe.com
 prp-itg.wip.it.hpe.com
 imagefactory-pre-prod.corp.hpe.com
@@ -7,7 +6,6 @@ imagefactory-pre-prod-api.corp.hpe.com
 imagefactory-pre-prod-apk-repo.corp.hpe.com
 imagefactory-pre-prod-debian-repo.corp.hpe.com
 status.it.hpe.com
-*.status.it.hpe.com
 z2zhpecom-static-prd-01.glb1.hpe.com
 h1.glb1.hpe.com
 hpp12.glb1.hpe.com
@@ -7885,14 +7883,14 @@ v4nzproe.itcs.hpe.com
 sbesp-wst-ext.houston.hpe.com
 ci-ejatlascopco.appdev.elabs.xw.svcs.hpe.com
 c9w22419.itcs.hpe.com
-*.org-fpjzbx5h.glcp.mldes.ext.hpe.com
+org-fpjzbx5h.glcp.mldes.ext.hpe.com
 testvia.it.hpe.com
 testviavpn-apj.it.hpe.com
 testviavpn-emea.it.hpe.com
 test2via.it.hpe.com
 test2.via.it.apj.hpe.com
 test2.via.it.hpe.com
-*.sd.glcpdev.cloud.hpe.com
+sd.glcpdev.cloud.hpe.com
 gsem-livechat-itg.it.hpe.com
 viasecondtime.it.hpe.com
 viasecondtimever2.it.hpe.com
@@ -7902,7 +7900,5 @@ kva2.it.hpe.com
 kva1.it.hpe.com
 bidlot.technomics.ext.hpe.com
 staging.login.cloudvolumes.hpe.com
-www.qbert-uat.gss.ext.hpe.com
 community.instant-on.hpe.com
-*.org-2zln2tlw.glcp-hotfix.mldes.ext.hpe.com
-www.hpe.com
+org-2zln2tlw.glcp-hotfix.mldes.ext.hpe.com

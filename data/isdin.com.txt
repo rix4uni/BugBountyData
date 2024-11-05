@@ -1,11 +1,9 @@
 media.love.isdin.com
-*.media.love.isdin.com
 data.isdin.com
 assets.jobs.isdin.com
 points-manager-points-assignments.consumers.sellout.isdin.com
 api-redirects.isdin.com
 redirects.isdin.com
-www.isdin.com
 api.lys.isdin.com
 api.staging.loveisdinww.isdin.com
 tracing.isdin.com
@@ -77,11 +75,9 @@ www-pre.api.love.isdin.com
 www-production.api.love.isdin.com
 erp-api.isdin.com
 pre.backoffice.love.isdin.com
-www.monitoring.isdin.com
+monitoring.isdin.com
 www-staging.monitoring.isdin.com
 www-test.monitoring.isdin.com
 www-dev.cdn.webeat.isdin.com
 www-staging.backend.crm.isd.isdin.com
-*.landings.isdin.com
-*.www.isdin.com
-*.isdin.com
+landings.isdin.com

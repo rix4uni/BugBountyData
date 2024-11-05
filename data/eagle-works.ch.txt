@@ -1,4 +1,3 @@
-*.eagle-works.ch
 intranet.eagle-works.ch
 mail.eagle-works.ch
 srv.eagle-works.ch
@@ -9,7 +8,6 @@ mailadmin.eagle-works.ch
 nas.eagle-works.ch
 post.eagle-works.ch
 new.eagle-works.ch
-www.eagle-works.ch
 cloud.eagle-works.ch
 ucs.eagle-works.ch
 mta-sts.eagle-works.ch
@@ -17,4 +15,3 @@ support.eagle-works.ch
 old.eagle-works.ch
 20.eagle-works.ch
 axalp.eagle-works.ch
-www.mail.eagle-works.ch

@@ -1,7 +1,7 @@
 atpda-devel.test.it.liu.se
 eproflearn.ida.liu.se
 itn-web-devel.it.liu.se
-www.itn.liu.se
+itn.liu.se
 paymenttest.ad.liu.se
 paymenttest.it.liu.se
 wicke.it.liu.se
@@ -13,7 +13,7 @@ tracingcarbon.itn.liu.se
 tidred.test.it.liu.se
 tidredovisning.it.liu.se
 snickerboa.it.liu.se
-*.kubernetes-public.it.liu.se
+kubernetes-public.it.liu.se
 liudokd517.ad.liu.se
 liudokdev517.it.liu.se
 liukortapi.test.it.liu.se
@@ -74,7 +74,6 @@ aslan.research.liu.se
 omni.itn.liu.se
 pulp3.test.it.liu.se
 lysator.liu.se
-www.lysator.liu.se
 dip.hmv.liu.se
 duffman.it.liu.se
 kmat.it.liu.se
@@ -150,13 +149,11 @@ peertube.ctrl-c.liu.se
 gitlab.ctrl-c.liu.se
 stalwart-test.kubernetes.ctrl-c.liu.se
 pages.ctrl-c.liu.se
-*.pages.ctrl-c.liu.se
 jamf1.test.ad.liu.se
 ccr.ctrl-c.liu.se
 squarepants.it.liu.se
 grafana.net.liu.se
 weeping-angel.it.liu.se
-*.redcap.liu.se
 redcap.liu.se
 core.api.liu.se
 gmproxyapi.it.liu.se
@@ -178,7 +175,7 @@ snicpool018.serenity.nsc.liu.se
 c111.itl.liu.se
 dhcp145-160.itn.liu.se
 dhcp-159-132.isak.liu.se
-www.vcl.itn.liu.se
+vcl.itn.liu.se
 n231-116.hu.liu.se
 win01168.ad.liu.se
 c-nat-130-236-88-238.eduroam.liu.se
@@ -202,7 +199,7 @@ dhcp-157-154.isv.liu.se
 win01176.ad.liu.se
 n201-37.hu.liu.se
 eduwsus.ad.liu.se
-www.icg.isy.liu.se
+icg.isy.liu.se
 ifm16345.ad.liu.se
 dhcp148-216.itn.liu.se
 sc9-prod-cd2.ad.liu.se
@@ -277,15 +274,13 @@ ftp.lysator.liu.se
 hina.lysator.liu.se
 laban.lysator.liu.se
 labolina.lysator.liu.se
-www.cvl.isy.liu.se
 cvl.isy.liu.se
 isy-web2.it.liu.se
-www.bb.isy.liu.se
-www.ics.isy.liu.se
+bb.isy.liu.se
 ics.isy.liu.se
-www.eks.isy.liu.se
+eks.isy.liu.se
 pubcrawl-22dukatz.ctrl-c.liu.se
-www.elitidrott.on.liu.se
+elitidrott.on.liu.se
 biblintra.bibl.liu.se
 pubcrawl-22duk9y9.ctrl-c.liu.se
 cephdisk05.ctrl-c.liu.se

@@ -1,6 +1,5 @@
 offer.sipgate.com
 payment.sipgate.com
-www.sipgate.com
 app.sipgate.com
 app.dev.sipgate.com
 chatbot.dev.sipgate.com
@@ -14,7 +13,6 @@ static.sipgate.com
 console.sipgate.com
 console.dev.sipgate.com
 login.sipgate.com
-www.app.sipgate.com
 api.sipgate.com
 secure.sipgate.com
 stun.sipgate.com

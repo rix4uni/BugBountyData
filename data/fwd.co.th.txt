@@ -80,8 +80,7 @@ welcomesms.fwd.co.th
 welcomesms.sit.fwd.co.th
 welcomesms.uat.fwd.co.th
 wiswebservice.fwd.co.th
-www.fwd.co.th
-www.uat.fwd.co.th
+uat.fwd.co.th
 api.services.fwd.co.th
 api.services.sandbox.fwd.co.th
 api.services.staging.fwd.co.th
@@ -158,7 +157,6 @@ uat-afd-cd-www.fwd.co.th
 uat-cd-wa-stage-www.fwd.co.th
 uat-stage-www.fwd.co.th
 uat-www.fwd.co.th
-uat.fwd.co.th
 uat.service.fwd.co.th
 uc.fwd.co.th
 ulearn.fwd.co.th
@@ -167,4 +165,3 @@ vpn.fwd.co.th
 webadmin.fwd.co.th
 webconference.fwd.co.th
 webhooks-api.fwd.co.th
-www.outlook.fwd.co.th

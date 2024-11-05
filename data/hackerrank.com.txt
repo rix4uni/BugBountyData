@@ -4,7 +4,7 @@ usa.hackerrank.com
 git-rba.hackerrank.com
 fluvaccines.hackerrank.com
 mtls-ats.hackerrank.com
-www.virusinc.hackerrank.com
+virusinc.hackerrank.com
 sonar.vpc.hackerrank.com
 sync.hackerrank.com
 us.vmprovider.hackerrank.com
@@ -19,7 +19,7 @@ hrc.suggest.hackerrank.com
 in.vmprovider.hackerrank.com
 blog2.hackerrank.com
 usf.hackerrank.com
-www.www.hackerrank.com
+www.hackerrank.com
 skills.hackerrank.com
 k8s.hackerrank.com
 updates.hackerrank.com
@@ -32,7 +32,6 @@ metrics.hackerrank.com
 schedule.hackerrank.com
 jsonmock.hackerrank.com
 ing.hackerrank.com
-www.hackerrank.com
 main.hackerrank.com
 frontend-ide.hackerrank.com
 autosuggest.hackerrank.com
@@ -62,7 +61,6 @@ data.pendo.hackerrank.com
 odincovo.hackerrank.com
 origin-blog.hackerrank.com
 link.hackerrank.com
-www.fluvaccines.hackerrank.com
 candidatesupport.hackerrank.com
 exports.hackerrank.com
 pwc.hackerrank.com
@@ -75,7 +73,6 @@ looker.hackerrank.com
 gdpr.hackerrank.com
 static.hackerrank.com
 security.hackerrank.com
-virusinc.hackerrank.com
 games.hackerrank.com
 ww.hackerrank.com
 suggest.hackerrank.com
@@ -649,7 +646,6 @@ salesloft.hackerrank.com
 mail.hackerrank.com
 blog.hackerrank.com
 email.onboarding.hackerrank.com
-www.mtls-ats.hackerrank.com
 asia-che-plugin-registry-prod.projects.hackerrank.com
 jenkins.vpc.hackerrank.com
 ino.hackerrank.com
@@ -9274,21 +9270,6 @@ zyk.pair.hackerrank.com
 988nw02.vmprovider.hackerrank.com
 54240-200-106.hackerrank.com
 1910201929.hackerrank.com
-*.hackerrank.com
-*.ai.hackerrank.com
-*.authn-cyno.hackerrank.com
-*.in.aws.vmprovider.hackerrank.com
-*.in.vmprovider.hackerrank.com
-*.skills.hackerrank.com
-*.us.aws.vmprovider.hackerrank.com
-*.us.vmprovider.hackerrank.com
-*.vpc.hackerrank.com
 ieee.hackerrank.com
 lintserver.hackerrank.com
-*.suggest.hackerrank.com
-*.k8s.hackerrank.com
-*.hexagon.hackerrank.com
-*.lsp-aws.hackerrank.com
-*.lsp.hackerrank.com
-*.frontend-ide.hackerrank.com
 beta.hackerrank.com

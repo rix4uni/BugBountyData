@@ -1,5 +1,4 @@
 message-service-api-staging.nowpayments.io
-www.nowpayments.io
 ext-account.staging.nowpayments.io
 business.nowpayments.io
 api.sandbox.nowpayments.io
@@ -26,7 +25,6 @@ ops-grafana.nowpayments.io
 account.nowpayments.io
 prestashop.nowpayments.io
 v.nowpayments.io
-www.business.nowpayments.io
 ops-kibana.nowpayments.io
 account-api.sandbox.nowpayments.io
 ops-jenkins.nowpayments.io

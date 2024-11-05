@@ -40,7 +40,6 @@ pxl-dashboard.picturae.com
 naa-workflow.picturae.com
 argocd.picturae.com
 awx-k3s.mon.picturae.com
-www.picturae.com
 logging.c003.k8s.picturae.com
 grafana.c003.k8s.picturae.com
 kibana.c003.k8s.picturae.com
@@ -112,6 +111,5 @@ pic-storage-devel.edepot.picturae.com
 pic-devel-cmis.edepot.picturae.com
 pic-devel.edepot.picturae.com
 gitlab.picturae.com
-www.nl-dc-001.corp.picturae.com
 nl-dc-001.corp.picturae.com
 oxidized.mon.picturae.com

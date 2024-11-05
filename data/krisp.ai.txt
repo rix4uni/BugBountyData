@@ -129,7 +129,6 @@ voice-ai-newsletter.krisp.ai
 webcdn.krisp.ai
 websocket.krisp.ai
 whatsnew.krisp.ai
-www.krisp.ai
 zendesk1.krisp.ai
 zendesk2.krisp.ai
 zendesk3.krisp.ai
@@ -149,8 +148,3 @@ api.new.krisp.ai
 download.new.krisp.ai
 newapi.krisp.ai
 dev.krisp.ai
-*.krisp.ai
-*.api.krisp.ai
-*.download.krisp.ai
-*.teams.krisp.ai
-*.upld.krisp.ai

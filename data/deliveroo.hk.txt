@@ -4,13 +4,11 @@ admin.deliveroo.hk
 frites.order.deliveroo.hk
 rider.deliveroo.hk
 foodscene.deliveroo.hk
-*.order.deliveroo.hk
-*.order-staging.deliveroo.hk
-*.deliveroo.hk
+order.deliveroo.hk
+order-staging.deliveroo.hk
 careers-staging.deliveroo.hk
 clicks.deliveroo.hk
 dtm.deliveroo.hk
 sandbox.deliveroo.hk
 staging.deliveroo.hk
 cdn0.deliveroo.hk
-www.deliveroo.hk

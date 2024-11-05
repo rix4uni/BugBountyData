@@ -3,17 +3,13 @@ shashwatpandey.pr2.harness.io
 mayankk.pr2.harness.io
 scaletest.pr2.harness.io
 satyalingam.pr2.harness.io
-*.def.devtest.harness.io
 def.devtest.harness.io
-*.abc.devtest.harness.io
 abc.devtest.harness.io
-*.devtest.harness.io
 devtest.harness.io
 partners.harness.io
 gmp-qa.harness.io
 community.harness.io
 discuss.harness.io
-*.us.devtest.harness.io
 us.devtest.harness.io
 saran.pr2.harness.io
 dtrack-tmp.secops.harness.io
@@ -128,7 +124,7 @@ chandra.pr2.harness.io
 jit-m.harness.io
 sahilkr.pr2.harness.io
 sridharhemanth.pr2.harness.io
-www.qa.harness.io
+qa.harness.io
 andrewm.pr2.harness.io
 qc.harness.io
 harness-ui-static-private.harness.io
@@ -307,7 +303,7 @@ event.feature-flags.qa.harness.io
 dhruv.pr2.harness.io
 o1.ptr9797.harness.io
 verification.harness.io
-www.app.harness.io
+app.harness.io
 abhijith.pr2.harness.io
 event.feature-flags.uat.harness.io
 harbor.dev.harness.io
@@ -401,9 +397,7 @@ vikrantgupta.pr2.harness.io
 vivekbarnwal.pr2.harness.io
 test-registry.harness.io
 matts.pr2.harness.io
-www.api.harness.io
 accounts.eu.harness.io
-www.harness.io
 pankajkumar.pr2.harness.io
 saitejavn.pr2.harness.io
 com.ververica.statefun.flink.harness.io
@@ -525,7 +519,6 @@ shubhamch.pr2.harness.io
 siddharthasonker.pr2.harness.io
 gitness.pr2.harness.io
 hydra.dev.harness.io
-app.harness.io
 tudormacari5.pr2.harness.io
 us-west.gitspace.cde-target-play.qa.harness.io
 alertmanager.mmo.harness.io
@@ -610,7 +603,6 @@ codepulse.dev.harness.io
 jyoticcm.pr2.harness.io
 qa.pr2.harness.io
 rageshm.pr2.harness.io
-www.verification.harness.io
 qanew.harness.io
 abhi.pr2.harness.io
 deployment.spec.template.metadata.labels.harness.io
@@ -642,7 +634,6 @@ cdcngautomation.pr2.harness.io
 cseverino.pr2.harness.io
 iacmtest.qa.harness.io
 nasserg.pr2.harness.io
-qa.harness.io
 wptest.harness.io
 piyushbhuwalka.pr2.harness.io
 calvinl.pr2.harness.io
@@ -707,7 +698,5 @@ support.harness.io
 tudormacari.pkg.pr2.harness.io
 abhinavh.pr2.harness.io
 shivanandsonnad.pkg2.pr2.harness.io
-*.harness.io
-*.prod2.harness.io
 testdev1.pr2.harness.io
 prod1.harness.io

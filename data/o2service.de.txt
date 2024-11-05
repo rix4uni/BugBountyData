@@ -1,5 +1,4 @@
-*.o2service.de
-*.staging.o2service.de
+staging.o2service.de
 app.oat-adf.o2service.de
 app.oat-fnc.o2service.de
 app.qa-adf.o2service.de
@@ -122,11 +121,9 @@ splunk.o2service.de
 splunk-test.o2service.de
 splunk.staging.o2service.de
 sps.o2service.de
-staging.o2service.de
 tcm-shop-test.o2service.de
 voffice-test-tgps.o2service.de
 voffice-tgps.o2service.de
-www.o2service.de
 citrix-prod.o2service.de
 citrix-test.o2service.de
 www-test-v2.o2service.de

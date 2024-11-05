@@ -16,13 +16,11 @@ packager.eager.io
 plugins.eager.io
 provisioner.eager.io
 bus-dev.eager.io
-www.eager.io
 store.eager.io
 hooks.eager.io
-www.embed.books.eager.io
+embed.books.eager.io
 bundler.eager.io
 fast-direct.eager.io
-embed.books.eager.io
 status.eager.io
 manager.eager.io
 local.eager.io

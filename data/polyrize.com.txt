@@ -1,4 +1,3 @@
-www.polyrize.com
 eu.polyrize.com
 int.polyrize.com
 sales.polyrize.com
@@ -13,17 +12,9 @@ preprod.int.polyrize.com
 dev.int.polyrize.com
 sales.int.polyrize.com
 staging.polyrize.com
-www.neo4j-prod-1.int.polyrize.com
 fdr.polyrize.com
 app.polyrize.com
 dev.polyrize.com
 eu.int.polyrize.com
 neo4j.int.polyrize.com
 promo.polyrize.com
-www.neo4j.int.polyrize.com
-*.int.polyrize.com
-*.preprod.polyrize.com
-*.staging.polyrize.com
-*.ca.polyrize.com
-*.polyrize.com
-*.eu.polyrize.com

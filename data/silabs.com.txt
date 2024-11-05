@@ -7,12 +7,11 @@ ap1.silabs.com
 opsnet-qa.silabs.com
 b2bwebfarm.silabs.com
 customer.silabs.com
-www.jp.silabs.com
+jp.silabs.com
 itjaus002.silabs.com
-www.sgwaus001d.silabs.com
+sgwaus001d.silabs.com
 jnkaus001.silabs.com
 concur.silabs.com
-jp.silabs.com
 itjaus001.silabs.com
 iot-km-jenkins.silabs.com
 edi.silabs.com
@@ -28,7 +27,7 @@ sales.silabs.com
 jnkradops-aus.silabs.com
 z-wavecertification.silabs.com
 jenkins-hwt.silabs.com
-www.amt.silabs.com
+amt.silabs.com
 developer.silabs.com
 lanaus004.silabs.com
 lithium-stage.silabs.com
@@ -46,7 +45,6 @@ budvpn.silabs.com
 devmailgw.silabs.com
 pages.silabs.com
 forum.silabs.com
-www.sgwaus001.silabs.com
 movado.silabs.com
 stage.cpms.silabs.com
 z-ware3.silabs.com
@@ -63,9 +61,9 @@ wwwqa.silabs.com
 help.silabs.com
 keymaker.silabs.com
 jnkaus030.silabs.com
-www.www.silabs.com
+www.silabs.com
 corp-dig-jenkins.silabs.com
-www.ftpszxe01.silabs.com
+ftpszxe01.silabs.com
 dlpaus010.silabs.com
 mx.silabs.com
 egencia.silabs.com
@@ -98,7 +96,7 @@ proofpoint.silabs.com
 ns15.silabs.com
 autodiscover.silabs.com
 octause01.silabs.com
-www.seraus002x.silabs.com
+seraus002x.silabs.com
 jnkradops-hyd.silabs.com
 grfhyd001.silabs.com
 jnkaus028.silabs.com
@@ -113,4 +111,3 @@ rhnaus001.silabs.com
 ftpausr02.silabs.com
 webftp.silabs.com
 webftpcn.silabs.com
-ftpszxe01.silabs.com

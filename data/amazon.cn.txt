@@ -65,7 +65,7 @@ logistics.amazon.cn
 swa.amazon.cn
 cde-ta-g7g-preprod.amazon.cn
 digprjsurvey.amazon.cn
-www.alexa.comwww.amazon.cn
+alexa.comwww.amazon.cn
 erps.amazon.cn
 smtp-out-17-88.amazon.cn
 aws-cp-entity-retail-proxy-cn-north-1-prod.amazon.cn
@@ -527,7 +527,6 @@ aadserverinacceptatiews-assocgit-imgs.apps.1cpanel.com.sa.s.advertising.amazon.c
 aax-cn.accountsapacheretail-proxy-policy-cn-north-1-fe-gamma.webdb.aax-cn.1cpanel.com.sa.s.advertising.amazon.cn
 1cpanel.com.com-retail-north-cn-north.s.advertising.amazon.cn
 aadserverinacceptatieidentitygit-imgs.apps.1cpanel.com.xb-node-report-sa.s.advertising.amazon.cn
-www.amazon.cn
 1cpanel.com.api-cslp-emt-accounts-retail-proxy-cn-north-1-prod.s.advertising.amazon.cn
 1cpanel.com.accounts-retail-proxy-cn-north-1-prod-api-cslp-emt.s.advertising.amazon.cn
 1cpanel.com.sitebuilder-two-accounts-prod-prod-prod-north-prod-prod.s.advertising.amazon.cn
@@ -538,17 +537,12 @@ www.amazon.cn
 1cpanel.comcookie.accounts-prod-prod-prod-north-prod-prod.s.advertising.amazon.cn
 api.globalstore.amazon.cn
 your-orders.amazon.cn
-www.translogistics.amazon.cn
-*.s.advertising.amazon.cn
-www.cn-amazon-creturns.amazon.cn
-www.trans-logistics.amazon.cn
 ?.amazon.cn
 console.aws.amazon.cn
 dr.amazon.cn
 u1.amazon.cn
 u4.amazon.cn
 u5.amazon.cn
-www.cde-ta-g7g.amazon.cn
 awsmpdisbursementworkflowsretailproxy-bjs-prod.amazon.cn
 bcp-retail-proxy-cn-north-1-prod.amazon.cn
 bcs-retail-proxy-cn-north-1-prod.amazon.cn

@@ -24,7 +24,6 @@ fedtest-us1-outpost-storage.fedtest.wiz.io
 webhooks.on-demand-47.rde.wiz.io
 webhooks.daniel.velikanski.rde.wiz.io
 app.wiz.io
-*.app.wiz.io
 api.us81.app.wiz.io
 us81.backoffice.app.wiz.io
 prod-us81-admission-controller.app.wiz.io
@@ -177,7 +176,7 @@ lyncdiscover.wiz.io
 eu5.backoffice.integration.wiz.io
 integrate.wiz.io
 prod-us18.forensics-package.app.wiz.io
-www.peach.wiz.io
+peach.wiz.io
 webhooks.on-demand-55.rde.wiz.io
 agent-si.us1.test.wiz.io
 file-upload.us70.app.wiz.io
@@ -190,7 +189,7 @@ prod-us35-exports.app.wiz.io
 tunnel.us1.fedtest.wiz.io
 webhooks.us11.app.wiz.io
 tunnel.eu15.app.wiz.io
-www.legacy.wiz.io
+legacy.wiz.io
 fedstg1-us1-sensor.fedstg1.wiz.io
 prod-us32-admission-controller.app.wiz.io
 prod-us42-custom-file-detection.app.wiz.io
@@ -515,7 +514,6 @@ exports.us5.app.wiz.io
 languageserver.rde.wiz.io
 prod-us49-sensor.app.wiz.io
 prod-us58-netscanner-results.app.wiz.io
-peach.wiz.io
 agent.us47.app.wiz.io
 custom-file-detection.eu2.integration.wiz.io
 argocd.us48.app.wiz.io
@@ -537,7 +535,7 @@ argocd.us13.app.wiz.io
 diskanalyzer-results-source.ap-east-1.app.wiz.io
 test-eu4-reports.test.wiz.io
 tunnel-si.eu1.app.wiz.io
-www.guysiapp.azure.dev.wiz.io
+guysiapp.azure.dev.wiz.io
 prod-us7-custom-file-detection.app.wiz.io
 agent.us57.app.wiz.io
 api.us58.app.wiz.io
@@ -775,7 +773,6 @@ integration-us1-file-upload.integration.wiz.io
 netscanner-results.eu2.integration.wiz.io
 prod-eu4-outpost-storage.app.wiz.io
 prod-us25-file-upload.app.wiz.io
-www.wiz.io
 backoffice.e2e.wiz.io
 custom-file-detection.us10.app.wiz.io
 workflows.fedramp.wiz.io
@@ -949,7 +946,7 @@ webhooks.on-demand-11.rde.wiz.io
 diskanalyzer-results-source.eu-central-2.app.wiz.io
 us15.backoffice.app.wiz.io
 webhooks.us33.app.wiz.io
-www.guysi.azure.dev.wiz.io
+guysi.azure.dev.wiz.io
 integration-eu5-file-upload.integration.wiz.io
 tunnel.us73.app.wiz.io
 us19.backoffice.app.wiz.io
@@ -2235,7 +2232,6 @@ licht-fd3-kvcert.azure.dev.wiz.io
 netscanner-results.us3.integration.wiz.io
 webhooks.on-demand-58.rde.wiz.io
 cms.wiz.io
-legacy.wiz.io
 icons.wiz.io
 integration-eu8-custom-file-detection.integration.wiz.io
 licht-apidomain2.dev.wiz.io
@@ -2549,7 +2545,6 @@ masterserver.wiz.io
 _dmarc.wiz.io
 58ecbb1dd2ce42c8474bb18d036c41df.wiz.io
 _amazonses.wiz.io
-*.fedstg1.wiz.io
 argocd.us2.gov.wiz.io
 argocd.us1.gov.wiz.io
 docs2.test.wiz.io

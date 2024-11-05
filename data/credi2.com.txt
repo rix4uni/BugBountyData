@@ -8,7 +8,6 @@ sonarqube.dev-infra.credi2.com
 selenium.dev-infra.credi2.com
 tableau.credi2.com
 kafka-ui-test.non-prod.credi2.com
-www.credi2.com
 unleash-proxy-dev.non-prod.credi2.com
 4rnapi.credi2.com
 mage2.credi2.com
@@ -33,7 +32,7 @@ blaulicht.credi2.com
 new.tableau.credi2.com
 dev-infra.credi2.com
 fargate-selenium.dev-infra.credi2.com
-www.storybook-ui.non-prod.credi2.com
+storybook-ui.non-prod.credi2.com
 old.credi2.com
 my.credi2.com
 backend-cashpresso.dev-infra.credi2.com

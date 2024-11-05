@@ -1,7 +1,6 @@
 -chef.exmo.me
 wallet.exmo.me
 kz.exmo.me
-www.exmo.me
 ssl.crowdsale.exmo.me
 api.exmo.me
 ssl.exmo.me
@@ -13,10 +12,8 @@ support.exmo.me
 mail.exmo.me
 ws-api.exmo.me
 info.exmo.me
-*.exmo.me
 exmo-coin.exmo.me
 pm-bounces.exmo.me
-www.kz.exmo.me
 _dmarc.exmo.me
 hostmaster.exmo.me
 mail._domainkey.exmo.me

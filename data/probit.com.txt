@@ -1,5 +1,4 @@
-*.probit.com
-*.walletproxy.probit.com
+walletproxy.probit.com
 academy.probit.com
 accounts.probit.com
 api.probit.com
@@ -14,9 +13,7 @@ mx2.probit.com
 mx3.probit.com
 static.probit.com
 support.probit.com
-walletproxy.probit.com
-www.probit.com
-www.pwi.probit.com
+pwi.probit.com
 ww7.probit.com
 calendar.probit.com
 kepler.walletproxy.probit.com

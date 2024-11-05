@@ -12,7 +12,7 @@ orbis.doctolib.net
 tc.doctolib.net
 toto.doctolib.net
 joulica-staging.doctolib.net
-www.papercut.doctolib.net
+papercut.doctolib.net
 tfe-github-staging.doctolib.net
 ovh8.doctolib.net
 pro-ssl.doctolib.net
@@ -51,15 +51,13 @@ tfe-ui-staging.doctolib.net
 ovh2.doctolib.net
 preview.doctolib.net
 taskcluster.doctolib.net
-www.pro.inter.doctolib.net
+pro.inter.doctolib.net
 nexus.doctolib.net
-papercut.doctolib.net
 hashicorp-poc-vault-par.doctolib.net
 poc-matrix-conduit.doctolib.net
 tfe-agents-staging.doctolib.net
 jenkins-interf.doctolib.net
 tfe-run-tasks-prod.doctolib.net
-www.doctolib.net
 ssh.doctolib.net
 ops-ci.doctolib.net
 ovh3.doctolib.net
@@ -85,7 +83,6 @@ vault-internal-dev.doctolib.net
 teleport.doctolib.net
 mllp-interf.doctolib.net
 hashicorp-poc-vault-internal.doctolib.net
-pro.inter.doctolib.net
 hashicorp-poc-par.doctolib.net
 vault-internal-nonprod.doctolib.net
 teamcity.doctolib.net
@@ -94,11 +91,6 @@ buildagent-01.doctolib.net
 ftp-pic.doctolib.net
 logs.doctolib.net
 sonar.doctolib.net
-*.doctolib.net
-*.preview.doctolib.net
-*.teleport.doctolib.net
-*.tfe-run-tasks-prod.doctolib.net
-*.tfe-run-tasks-staging.doctolib.net
 export-tools-tooling.doctolib.net
 gitguardian.doctolib.net
 backstage-staging.doctolib.net

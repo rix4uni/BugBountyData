@@ -2,9 +2,6 @@ guide.hostgator.io
 mtls-gatorpay.hostgator.io
 test-mtls-gatorpay.hostgator.io
 dev-mtls-gatorpay.hostgator.io
-*.hostgator.io
-www.mtls-gatorpay.hostgator.io
-www.test-mtls-gatorpay.hostgator.io
 bus.hostgator.io
 cpanel.hostgator.io
 customersuccess.hostgator.io

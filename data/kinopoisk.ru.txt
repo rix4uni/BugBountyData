@@ -1,6 +1,5 @@
-*.kinopoisk.ru
-*.unstable.payment-widget.kinopoisk.ru
-*.unstable.payment-widget-smarttv.plus.tst.kinopoisk.ru
+unstable.payment-widget.kinopoisk.ru
+unstable.payment-widget-smarttv.plus.tst.kinopoisk.ru
 2016.kinopoisk.ru
 a11.kinopoisk.ru
 api.kinopoisk.ru
@@ -101,15 +100,12 @@ tr4.kinopoisk.ru
 trailers.kinopoisk.ru
 trconv.kinopoisk.ru
 unstable.ott.kinopoisk.ru
-unstable.payment-widget.kinopoisk.ru
 unstable.payment-widget-smarttv.kinopoisk.ru
-unstable.payment-widget-smarttv.plus.tst.kinopoisk.ru
 video.kinopoisk.ru
 videopartner.kinopoisk.ru
 widget.ott.kinopoisk.ru
 widgets.kinopoisk.ru
 www.kinopoisk.ru
-www.www.kinopoisk.ru
 code.kinopoisk.ru
 load.kinopoisk.ru
 mini.kinopoisk.ru

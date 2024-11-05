@@ -19,10 +19,6 @@ gw-vpn.notion.so
 ops-vpn.notion.so
 qa.notion.so
 mail.notion.so
-*.notion.so
-*.dev.notion.so
-*.stg.notion.so
-*.www.notion.so
 calendar.notion.so
 calendar-api.notion.so
 calendar-te.notion.so
@@ -72,6 +68,4 @@ app.mail.notion.so
 calendar-stg.notion.so
 api.mail.dev.notion.so
 file-local.notion.so
-www.notion.so
 sp.mail.notion.so
-www.front.notion.so

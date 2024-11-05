@@ -1,9 +1,8 @@
-*.nflxvideo.net
-*.1.live.nflxvideo.net
-*.1.oca.nflxvideo.net
-*.1.ocga.nflxvideo.net
-*.1.ocga.test.nflxvideo.net
-*.ftl.nflxvideo.net
+1.live.nflxvideo.net
+1.oca.nflxvideo.net
+1.ocga.nflxvideo.net
+1.ocga.test.nflxvideo.net
+ftl.nflxvideo.net
 001.ix.nflxvideo.net
 016.pit002.ix.nflxvideo.net
 0370.c107.lhr004.ix.nflxvideo.net
@@ -923,7 +922,6 @@
 1.lit002.suddenlink.isp.nflxvideo.net
 1.lit003.suddenlink.isp.nflxvideo.net
 1.lit004.suddenlink.isp.nflxvideo.net
-1.live.nflxvideo.net
 1.lmm001.megacable.isp.nflxvideo.net
 1.lnk001.windstream.isp.nflxvideo.net
 1.lnz001.liwest.isp.nflxvideo.net
@@ -1117,9 +1115,6 @@
 1.nwi001.talktalk.isp.nflxvideo.net
 1.nyc001.ix.nflxvideo.net
 1.nyc001.rcn.isp.nflxvideo.net
-1.oca.nflxvideo.net
-1.ocga.nflxvideo.net
-1.ocga.test.nflxvideo.net
 1.oka001.glbb.isp.nflxvideo.net
 1.okc001.gpn.isp.nflxvideo.net
 1.okc001.suddenlink.isp.nflxvideo.net
@@ -7227,7 +7222,6 @@ et7-4.es02.maa001.ix.nflxvideo.net
 et8-2.es01.maa001.ix.nflxvideo.net
 et8-2.es02.del002.ix.nflxvideo.net
 et8-2.es02.maa001.ix.nflxvideo.net
-ftl.nflxvideo.net
 fw02.nyc008.ix.nflxvideo.net
 gateway.netbarretos-isp.1.oca.nflxvideo.net
 gustavo.nflxvideo.net
@@ -22661,7 +22655,6 @@ vix2.nflxvideo.net
 vl100.cr01.lax001.ix.nc.nflxvideo.net
 vl100.cr01.mia001.ix.nc.nflxvideo.net
 webvtt.nflxvideo.net
-www.nflxvideo.net
 bogus.nflxvideo.net
 ipv4-c001-aar001-altibox-isp.ftl.nflxvideo.net
 ipv4-c001-abq001-centurylink-isp.ftl.nflxvideo.net
@@ -33908,7 +33901,6 @@ ipv4-c049-dfw003-ix.1.oca.nflxvideo.net
 ipv4-c019-ams001-kpn-isp.1.oca.nflxvideo.net
 ipv4-c002-btv001-consolidated-isp.1.oca.nflxvideo.net
 _1.lagg0.c007.bue001.nflxoc.isp.nflxvideo.net
-www.oca.nflxvideo.net
 ipv4-c046-mia003-ix.1.oca.nflxvideo.net
 ipv4-c043-lhr004-ix.1.oca.nflxvideo.net
 ipv4-c002-far001-arvig-isp.1.oca.nflxvideo.net

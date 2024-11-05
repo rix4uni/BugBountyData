@@ -1,5 +1,4 @@
 wifiap.chip1stop.com
-www.chip1stop.com
 ws-svn.chip1stop.com
 sp.chip1stop.com
 next-api.chip1stop.com
@@ -35,15 +34,10 @@ lyncdiscover.chip1stop.com
 securitygate.chip1stop.com
 mail2.chip1stop.com
 mail3.chip1stop.com
-*.chip1stop.com
-www.wifiap.chip1stop.com
-www.api.chip1stop.com
-www.nexty.chip1stop.com
-www.c1s-test1.chip1stop.com
 enterpriseregistration.chip1stop.com
 ir.multi.chip1stop.com
 ns01.multi.chip1stop.com
 ns02.multi.chip1stop.com
 test1.multi.chip1stop.com
-www.multi.chip1stop.com
+multi.chip1stop.com
 cms.chip1stop.com

@@ -1,6 +1,5 @@
 us-east-1.vpn.awit.at
 mx-02.awit.at
-*.awit.at
 movim.awit.at
 meet.awit.at
 rc.awit.at
@@ -19,7 +18,6 @@ send.awit.at
 support.awit.at
 vpn.awit.at
 webmail.awit.at
-www.awit.at
 xmpp.awit.at
 imap.awit.at
 smtp.awit.at

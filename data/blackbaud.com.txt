@@ -39,7 +39,6 @@ waftest.security.blackbaud.com
 anyconnect-lab.blackbaud.com
 workdayftp.blackbaud.com
 vpn.blackbaud.com
-www.blackbaud.com
 wealthpoint.blackbaud.com
 analyze.test.renxt.blackbaud.com
 sto-d.blackbaud.com
@@ -642,9 +641,6 @@ s41afnx07.fenxt.blackbaud.com
 s41afnx07databasemanager.fenxt.blackbaud.com
 s41afnx07citrixicaui.fenxt.blackbaud.com
 s41afnx07helpui.fenxt.blackbaud.com
-*.guidedfundraising.blackbaud.com
-*.performancemanagement.blackbaud.com
 s41afnx07stampapi.fenxt.blackbaud.com
 s21aaum01web01.nxt.blackbaud.com
-www.mft-us.blackbaud.com
 netscalertest.blackbaud.com

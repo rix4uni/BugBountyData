@@ -134,7 +134,6 @@ library-archives.particle.io
 go.particle.io
 docs.staging.particle.io
 docs.particle.io
-www.staging.particle.io
 dashboard.particle.io
 prerelease-docs.particle.io
 fonts.particle.io
@@ -142,7 +141,6 @@ login.staging.particle.io
 projects.particle.io
 www-assets.particle.io
 login.particle.io
-www.particle.io
 zendesk.particle.io
 cdn.particle.io
 console.particle.io
@@ -151,7 +149,6 @@ admin.particle.io
 intranet.particle.io
 spark.particle.io
 cloud.particle.io
-www.wholesale.particle.io
 eks-tcp-device-service-green-1-static.us-east-1.eks-production-gotham.particle.io
 nucleus.particle.io
 api.us-east-1.metropolis.particle.io
@@ -170,14 +167,12 @@ console.staging.particle.io
 nlb-ingress.us-east-1.metropolis.particle.io
 rec.us-east-1.metropolis.particle.io
 temporary-mongo26.staging.particle.io
-www.blog.particle.io
 packages.particle.io
 admin.us-east-1.eks-production-gotham.particle.io
 alb-ingress.us-east-1.eks-production-gotham.particle.io
 eks-tcp-device-service-blue-1-static.us-east-1.eks-production-gotham.particle.io
 calendar.particle.io
 staging-community.particle.io
-www.store.particle.io
 eks-tcp-device-service-blue-0-static.us-east-1.eks-production-gotham.particle.io
 build.us-east-1.eks-production-gotham.particle.io
 device.tcp.particle.io

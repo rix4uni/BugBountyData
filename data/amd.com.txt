@@ -382,7 +382,7 @@ mpsmartedge.amd.com
 ontrack-lnxpreprod2.amd.com
 acp-s3.amd.com
 scskdsintfdev.amd.com
-www.developer.amd.com
+developer.amd.com
 cmp.amd.com
 txnda.amd.com
 vhadxdsjdberp.amd.com
@@ -485,7 +485,6 @@ grc10prd.amd.com
 rdms-logviewer-sadc-dev.amd.com
 salescycleinternalcrm.amd.com
 syn-cixin-net.amd.com
-www.feedback.amd.com
 fsk-mdf-wlc02.amd.com
 hdl-grc-sdwan-edge02.amd.com
 myamdaz-dev.amd.com
@@ -503,7 +502,7 @@ ontrackuat.amd.com
 eia-dev.amd.com
 ontrackdev-azure.amd.com
 vhadxdevlb2.erp.amd.com
-www.shop-eu-de.amd.com
+shop-eu-de.amd.com
 atlgrpapci.amd.com
 nabu.amd.com
 salescyclestage.amd.com
@@ -516,7 +515,6 @@ wfmanager.amd.com
 artifactory-cdn.amd.com
 b2b-qa.amd.com
 sha-mdf-wlc01.amd.com
-www.shop-eu-en.amd.com
 wwwv5.amd.com
 qa.ceapi.amd.com
 render.er.github.amd.com
@@ -686,7 +684,7 @@ odcsslvpn.amd.com
 assets.er.github.amd.com
 atlvpn-bp.amd.com
 customer.amd.com
-www.shop-eu-fr.amd.com
+shop-eu-fr.amd.com
 myworktor.amd.com
 svlgtm.amd.com
 vhadxqs6db.erp.amd.com
@@ -869,7 +867,7 @@ docker-virtual.atlvartiapd01.amd.com
 texnda4.amd.com
 vhadxdsjcs.erp.amd.com
 video-svl-edge1-extv.amd.com
-www.ssl-developer.amd.com
+ssl-developer.amd.com
 app.amd.com
 atlimap.amd.com
 pngeq-mdf-wlc02.amd.com
@@ -1059,7 +1057,6 @@ txsmtp.amd.com
 devcenter.amd.com
 amdodcvpnp53.amd.com
 tpe-mdf-wlc02.amd.com
-www.shop-ca-en.amd.com
 aac0.amd.com
 atlspsioosp01.amd.com
 atlvdevapp02.amd.com
@@ -1432,7 +1429,6 @@ planodev-api.amd.com
 vhadxprdlb.erp.amd.com
 texint1.amd.com
 vhadxdgtci.erp.amd.com
-www.amd.com
 atlhrpap01.amd.com
 jama.amd.com
 msgpu-ci.amd.com
@@ -1534,7 +1530,6 @@ hkg-mdf-wlc01.amd.com
 shampprdeg.amd.com
 sgp-mdf-wlc02.amd.com
 sgpamdapps-ext.amd.com
-ssl-developer.amd.com
 atlvcmardbp02.amd.com
 epm-uat.amd.com
 latinamerica.amd.com
@@ -1752,7 +1747,6 @@ vhadxppocs.erp.amd.com
 reviews.amd.com
 scsapqa.amd.com
 scshvp02.amd.com
-www.app.amd.com
 bxfw.amd.com
 cn-insight.amd.com
 hmsosat-web.amd.com
@@ -1774,7 +1768,6 @@ atlsppap01.amd.com
 em.experience.amd.com
 ha2-gw.amd.com
 lsftp.amd.com
-shop-eu-fr.amd.com
 gtsprd.amd.com
 mkdcvapacapp01.amd.com
 vhadxdsjdb.erp.amd.com
@@ -1828,7 +1821,6 @@ hjsft.crd.amd.com
 ontrack-internal-perftest.amd.com
 system147.amd.com
 usazgwqci00.amd.com
-shop-eu-de.amd.com
 aac-s3.amd.com
 cixin2-gw.amd.com
 sinvpn.amd.com
@@ -2033,7 +2025,6 @@ webconf10.amd.com
 login.amd.com
 webconf.amd.com
 azhkg-sdwan-edge02.amd.com
-developer.amd.com
 isv.amd.com
 atlsso.amd.com
 rocmdocs.amd.com
@@ -2073,7 +2064,6 @@ facilties-qa.amd.com
 ftp_b2b_1.amd.com
 ontrack-internal-preprod.amd.com
 rtrk-beg-sdwan-edge01.amd.com
-www.ati.amd.com
 uatwww.amd.com
 ausb3hrprdap00.amd.com
 ausrpc.amd.com

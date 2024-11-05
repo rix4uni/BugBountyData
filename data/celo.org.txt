@@ -9,16 +9,13 @@ transfer.celo.org
 cooperate.celo.org
 wiki.celo.org
 transferanalytics.celo.org
-www.dev.celo.org
 brave.celo.org
 mining-pool.celo.org
 blog.celo.org
-www.celo.org
 verification-pool-staging.celo.org
-www.docs.celo.org
+docs.celo.org
 hackathon.celo.org
 faucet.celo.org
-docs.celo.org
 mondo.celo.org
 creatorsfund.celo.org
 api.transferanalytics.celo.org
@@ -52,8 +49,6 @@ kuneco.celo.org
 nft.celo.org
 internal.celo.org
 explorer.celo.org
-*.celo.org
-*.grameen.celo.org
 espresso.celo.org
 http-m-news06-com.celo.org
 psd.transferanalytics.celo.org
@@ -70,7 +65,6 @@ hs1-8568019._domainkey.celo.org
 hs2-8568019._domainkey.celo.org
 isoqual.celo.org
 aquiqu.celo.org
-www.nft.celo.org
 mail.celo.org
 ftp.celo.org
 baklava-forno-k8s-cf-test.celo.org
@@ -80,4 +74,3 @@ muzefoe.celo.org
 smtp.celo.org
 imap.celo.org
 mx.celo.org
-www.faucet.celo.org

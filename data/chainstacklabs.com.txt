@@ -1,5 +1,4 @@
 matic-mainnet.chainstacklabs.com
-www.chainstacklabs.com
 scroll-mainnet.chainstacklabs.com
 ws-harmony-mainnet.chainstacklabs.com
 kava.chainstacklabs.com
@@ -34,9 +33,6 @@ test874784.chainstacklabs.com
 evm.kava.chainstacklabs.com
 filecoin-calibration.chainstacklabs.com
 ws-matic-mainnet.chainstacklabs.com
-*.chainstacklabs.com
-*.data.kava.chainstacklabs.com
-*.kava.chainstacklabs.com
 api.kava.chainstacklabs.com
 cf.chainstacklabs.com
 grpc.kava.chainstacklabs.com

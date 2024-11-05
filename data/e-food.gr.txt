@@ -19,7 +19,6 @@ local.e-food.gr
 partnersignup.e-food.gr
 portal.e-food.gr
 ridersacademy.e-food.gr
-www.e-food.gr
 api.staging.e-food.gr
 beta.e-food.gr
 gmd.e-food.gr
@@ -28,5 +27,3 @@ grpc.e-food.gr
 grpctest.e-food.gr
 mgmtvpn.e-food.gr
 ssu.e-food.gr
-www.local.e-food.gr
-www.portal.e-food.gr

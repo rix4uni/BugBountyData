@@ -2,7 +2,6 @@ plan.electricimp.com
 jenkins.electricimp.com
 ide.electricimp.com
 impcentral.electricimp.com
-www.electricimp.com
 agent.electricimp.com
 apidoc.electricimp.com
 developer.electricimp.com
@@ -23,7 +22,6 @@ imphemeral-cellfwd02.boxen.electricimp.com
 prd03b.boxen.electricimp.com
 preview-impcentral.electricimp.com
 cellular.electricimp.com
-www.developer.electricimp.com
 preview-api.electricimp.com
 api03.boxen.electricimp.com
 prd18a.boxen.electricimp.com
@@ -64,7 +62,6 @@ api-new.electricimp.com
 imp-40.electricimp.com
 admin.electricimp.com
 imp-eaton01a.boxen.electricimp.com
-www.store.electricimp.com
 webresources.electricimp.com
 rich-local.electricimp.com
 pbproxy.electricimp.com

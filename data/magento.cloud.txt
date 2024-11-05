@@ -1,4 +1,3 @@
-*.magento.cloud
 5cflmcvgxlrag.c.i6chtk4jasmag.dev.ent.magento.cloud
 5zhmecfdljfug.magento.cloud
 6e65776e65772e6b6c677274682e696f.validation.magento.cloud
@@ -296,17 +295,15 @@ us-a1.dev.magento.cloud
 us-mattress.com.c.stholstr4t7xg.ent.magento.cloud
 vs.store.alshaya.com.c.kpwgmbven7d7y.ent.magento.cloud
 wholesale.fullers.co.uk.c.bn43ib6amczeo.ent.magento.cloud
-www.magento.cloud
-www.honey-b-graphql.magento.cloud
-www.pumpunderwear.ca.c.65y2iwmymaini.ent.magento.cloud
-www.pumpunderwear.co.c.65y2iwmymaini.ent.magento.cloud
-www.pumpunderwear.co.uk.c.65y2iwmymaini.ent.magento.cloud
-www.pumpunderwear.com.c.65y2iwmymaini.ent.magento.cloud
-www.pumpunderwear.es.c.65y2iwmymaini.ent.magento.cloud
-www.pumpunderwear.eu.c.65y2iwmymaini.ent.magento.cloud
-www.pumpunderwear.fr.c.65y2iwmymaini.ent.magento.cloud
-www.pumpunderwear.mx.c.65y2iwmymaini.ent.magento.cloud
-www.shopthegaudy.com.c.3iejkma52ddue.ent.magento.cloud
+pumpunderwear.ca.c.65y2iwmymaini.ent.magento.cloud
+pumpunderwear.co.c.65y2iwmymaini.ent.magento.cloud
+pumpunderwear.co.uk.c.65y2iwmymaini.ent.magento.cloud
+pumpunderwear.com.c.65y2iwmymaini.ent.magento.cloud
+pumpunderwear.es.c.65y2iwmymaini.ent.magento.cloud
+pumpunderwear.eu.c.65y2iwmymaini.ent.magento.cloud
+pumpunderwear.fr.c.65y2iwmymaini.ent.magento.cloud
+pumpunderwear.mx.c.65y2iwmymaini.ent.magento.cloud
+shopthegaudy.com.c.3iejkma52ddue.ent.magento.cloud
 yeutpcvne7n7tlwwjxyv6do6frsfntc2sdbwvcuddgjnxqdu4zxa.validation.magento.cloud
 mcstaging.bedbathandbeyond.com.mx.c.pdilwgkszpaym.dev.ent.magento.cloud
 1.pswbzvde42w46.ent.magento.cloud
@@ -796,7 +793,6 @@ i-083962638ffd83899.magento.cloud
 i-06287987562b7a04e.magento.cloud
 i-05b895be57bf41338.magento.cloud
 1.uwccjx3nbkpbi.4.dev.ent.magento.cloud
-www.sanasafinaz.com.c.wtzyes327l2ly.ent.magento.cloud
 i-01ff374d16dad387e.magento.cloud
 i-021e7269936496024.magento.cloud
 i-019b7edb4878f3ee4.magento.cloud
@@ -925,7 +921,7 @@ i-0f86561a2aa162a60.magento.cloud
 i-09d86a2e9a204461d.magento.cloud
 i-072d575613a83f1c3.magento.cloud
 i-09919ecc0540faacb.magento.cloud
-www.dailysale.com.c.le44lyziyn2ea.ent.magento.cloud
+dailysale.com.c.le44lyziyn2ea.ent.magento.cloud
 i-5c9877834fc19eea.magento.cloud
 i-0c21c03884c8fc69b.magento.cloud
 i-0d9bc2fa5515508a6.magento.cloud
@@ -3516,7 +3512,7 @@ i-07c8a9bf2c0685eea.magento.cloud
 i-0363513ab50624276.magento.cloud
 i-0e3e5a1ede30f2273.magento.cloud
 i-03b5d3515e4094e6a.magento.cloud
-www.celticfc.net.c.kgx7kkpv5biog.ent.magento.cloud
+celticfc.net.c.kgx7kkpv5biog.ent.magento.cloud
 i-02b226457879b5ad6.magento.cloud
 i-0373134c25b02b744.magento.cloud
 i-06aa54a0c47b55f1b.magento.cloud
@@ -3669,7 +3665,7 @@ i-05a95132a980f1ea7.magento.cloud
 i-095472f1ee6022b37.magento.cloud
 i-09da5e3bb3209e2d2.magento.cloud
 i-0d63ef12f3bad6b8c.magento.cloud
-www.mymagento.biz.c.sv7gvom4qrpek.ent.magento.cloud
+mymagento.biz.c.sv7gvom4qrpek.ent.magento.cloud
 i-00d07199e96adf7df.magento.cloud
 i-019decd3f9851572b.magento.cloud
 i-04308db995f67ddb4.magento.cloud
@@ -4188,7 +4184,7 @@ i-0c3e982955d400b99.magento.cloud
 i-02c48fc0561104a15.magento.cloud
 i-000e84cd658898ef3.magento.cloud
 i-0985bad479e43a871.magento.cloud
-www.drmartens.com.c.e4f6zrfsrlfna.ent.magento.cloud
+drmartens.com.c.e4f6zrfsrlfna.ent.magento.cloud
 i-06589dc6c35b44b51.magento.cloud
 i-0d53f5996a10413c5.magento.cloud
 i-060f94fc0e890c681.magento.cloud

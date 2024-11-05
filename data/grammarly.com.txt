@@ -68,7 +68,7 @@ balancer.grammarly.com
 virt2.grammarly.com
 vdusw-cs1.grammarly.com
 apps-public.grammarly.com
-www.dev.v.grammarly.com
+dev.v.grammarly.com
 mise-private.grammarly.com
 static.fridge.grammarly.com
 qacapi.grammarly.com
@@ -297,7 +297,6 @@ u003ewww.grammarly.com
 valtest.grammarly.com
 weaknessisourpower.dapi.grammarly.com
 words.grammarly.com
-dev.v.grammarly.com
 www2.grammarly.com
 zabbix.grammarly.com
 zh7m1dptc2.grammarly.com
@@ -354,24 +353,15 @@ mobile-android.grammarly.com
 imobile.grammarly.com
 1auto.grammarly.com
 simple-ab.grammarly.com
-www.grammarly.com
 proofit.denali-fb.grammarly.com
 alpha.denali-fb.grammarly.com
 api.grammarly.com
-*.denali-fb.grammarly.com
-www.autoreport.grammarly.com
-www.blog.grammarly.com
-www.nspl.grammarly.com
 private.login.grammarly.com
 stripe-integration.grammarly.com
-*.mise-private.grammarly.com
-*.denali-blue.grammarly.com
-*.grammarly.com
 localhost.send.grammarly.com
 passport.private.grammarly.com
 email-cdn.grammarly.com
 extension.grammarly.com
-www.dev.grammarly.com
 404: not foundaccess-manager.private.grammarly.com
 x22contenthub-static.grammarly.com
 campaign.grammarly.com

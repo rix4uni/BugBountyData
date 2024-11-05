@@ -4,7 +4,6 @@ myapp-preprod.previmeteo.com
 fp.previmeteo.com
 wp-dev-preprod.previmeteo.com
 blog.previmeteo.com
-www.previmeteo.com
 prod.previmeteo.com
 static.previmeteo.com
 meteo.previmeteo.com
@@ -14,12 +13,10 @@ my-beta.previmeteo.com
 my.previmeteo.com
 imap.previmeteo.com
 amp.previmeteo.com
-www.blog.previmeteo.com
 api.previmeteo.com
 my-legacy.previmeteo.com
 api-preprod.previmeteo.com
 blog-preprod.previmeteo.com
-www.blog-preprod.previmeteo.com
 services.previmeteo.com
 analytics.previmeteo.com
 sat.previmeteo.com
@@ -31,6 +28,5 @@ paiement-dev.previmeteo.com
 paiement.previmeteo.com
 dev.previmeteo.com
 sql-migr.previmeteo.com
-*.previmeteo.com
 www2.previmeteo.com
 www5.previmeteo.com

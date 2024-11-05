@@ -15,7 +15,7 @@ disk.yandex.md
 yabs.yandex.md
 oauth-rc.yandex.md
 pass.yandex.md
-www.go.yandex.md
+go.yandex.md
 m.taxi.yandex.md
 m.newssearch.yandex.md
 passport.yandex.md
@@ -33,7 +33,6 @@ ya-authproxy.taxi.yandex.md
 docviewer.yandex.md
 backend.messenger.yandex.md
 butterfly-proxy.yandex.md
-www.yandex.md
 delivery.yandex.md
 news-clck.yandex.md
 uniproxy.messenger.alpha.yandex.md
@@ -70,7 +69,6 @@ m-rc.yandex.md
 api.messenger.alpha.yandex.md
 zen-int.yandex.md
 files.yandex.md
-www.taxi.yandex.md
 telemost.yandex.md
 id-test.yandex.md
 clck.yandex.md
@@ -95,7 +93,6 @@ tv.yandex.md
 market.yandex.md
 m.news-clck.yandex.md
 pro.yandex.md
-www.zen.yandex.md
 l7test.yandex.md
 sso.passport-rc.yandex.md
 isk.yandex.md
@@ -104,7 +101,6 @@ beta.disk.yandex.md
 lego.yandex.md
 guard.oauth-test.yandex.md
 disc.yandex.md
-go.yandex.md
 m.test.news.yandex.md
 sitesuggest.yandex.md
 crowdtest.calendar.yandex.md
@@ -114,22 +110,5 @@ api.passport-test.yandex.md
 crowdtest.yandex.md
 crowdtest.games.yandex.md
 pass-test.yandex.md
-*.l7test.yandex.md
-*.crowdtest.games.yandex.md
-*.yandex.md
-*.chat.ws.yandex.md
-*.api.chat.yandex.md
-*.cloud-api.yandex.md
-*.downloader.disk.yandex.md
-*.oauth-rc.yandex.md
-*.crowdtest.maps.yandex.md
-*.homecrowdtest.yandex.md
-*.oauth.yandex.md
-*.oauth-test.yandex.md
 external.files.messenger.yandex.md
 external.files.messenger.alpha.yandex.md
-*.crowdtest.yandex.md
-*.morda.crowdtest.yandex.md
-*.disk.yandex.md
-*.zen.yandex.md
-*.editor.disk.yandex.md

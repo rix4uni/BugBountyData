@@ -20,7 +20,6 @@ mlflow-server.nepa.com
 n-import-api.nepa.com
 grpc.argocd.nepa.com
 mmm.nepa.com
-www.nepa.com
 api.n-auth.nepa.com
 ui.n-auth.nepa.com
 springboard.nepa.com
@@ -62,7 +61,6 @@ csp-portal.nepa.com
 opsit.nepa.com
 test-iap.nepa.com
 admin.n-auth.nepa.com
-www.mamut.nepa.com
 media.nepa.com
 test.m20apiserver.nepa.com
 m20apiserver.nepa.com
@@ -72,18 +70,17 @@ test.m20reportsbackend.nepa.com
 global.nepa.com
 auth.nepa.com
 ncodeapi.nepa.com
-*.nepa.com
 cellularone.nepa.com
 projectscopecalculator.nepa.com
 cx.nepa.com
 hello-test-web.nepa.com
 brand-tracker-api.nepa.com
 collector.nepa.com
-www.myfox.nepa.com
+myfox.nepa.com
 opentextai.nepa.com
 bigfoot.nepa.com
 menus.nepa.com
-www.rentadumpster.nepa.com
+rentadumpster.nepa.com
 airflow-machines.nepa.com
 staging.nepa.com
 en.nepa.com

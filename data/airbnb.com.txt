@@ -50,7 +50,7 @@ n30.t.airbnb.com
 test3-click.next.airbnb.com
 boxgws-qa.next.airbnb.com
 s2login.next.airbnb.com
-www.fr.airbnb.com
+fr.airbnb.com
 i-0da602df3f493773e.inst.aws.airbnb.com
 ftp.next.airbnb.com
 i-0dd69619fc0791ff5.inst.aws.airbnb.com
@@ -171,7 +171,6 @@ zh.airbnb.com
 vidyo.airbnb.com
 assets.airbnb.com
 replay.vidyo.airbnb.com
-fr.airbnb.com
 es.airbnb.com
 zh-t.airbnb.com
 public.airbnb.com
@@ -1643,7 +1642,6 @@ xxkey.next.airbnb.com
 sw.next.airbnb.com
 tr.next.airbnb.com
 vi.next.airbnb.com
-www.airbnb.com
 desunoeurope5-router-west-ws.staging.airbnb.com
 desunoeurope5-basket-west-ws.staging.airbnb.com
 wsdesunoeurope5-southeurope.staging.airbnb.com
@@ -1734,51 +1732,9 @@ desunoeurope5-qa-apigw.ws.staging.airbnb.com
 int-ids-desunoeurope5.ws.staging.airbnb.com
 desunoeurope5-www-idp.ws.staging.airbnb.com
 desunoeurope5-www-dbs.ws.staging.airbnb.com
-www.akamai-dev.airbnb.com
-*.admin.airbnb.com
-*.admin.dev.staging.airbnb.com
-*.admin-lite.airbnb.com
-*.admin-lite-next.airbnb.com
-*.admin-lite-staging.airbnb.com
-*.admin-next.airbnb.com
-*.admin-staging.airbnb.com
-*.api.dev.staging.airbnb.com
-*.dev.staging.airbnb.com
-*.one.dev.staging.airbnb.com
-*.prototype.airbnb.com
-*.prototype-internal.airbnb.com
-*.prototype-internal-next.airbnb.com
-*.prototype-internal-staging.airbnb.com
-*.prototype-next.airbnb.com
-*.prototype-staging.airbnb.com
-*.staging.airbnb.com
 turn.iac-dev.airbnb.com
-www.turn.iac-dev.airbnb.com
-*.airbnb.com
-*.internal.airbnb.com
-*.next.airbnb.com
-*.preprod.airbnb.com
-*.next-branch.airbnb.com
-www.akamai-ci.airbnb.com
 akamai-ci.airbnb.com
 api.akamai-ci.airbnb.com
-www.preprod.airbnb.com
-www.api.preprod.airbnb.com
-www.support.airbnb.com
-www.homer.iac-dev.airbnb.com
-www.iackam-uswest2.iac-dev.airbnb.com
-www.iackam-euwest1.iac-dev.airbnb.com
-www.iac-dev.airbnb.com
-www.tr-integration.airbnb.com
-*.prototype.admin.airbnb.com
-*.prototype.admin-lite.airbnb.com
-*.prototype.admin-lite-next.airbnb.com
-*.prototype.admin-lite-staging.airbnb.com
-*.prototype.admin-next.airbnb.com
-*.prototype.admin-staging.airbnb.com
-*.launchpad.airbnb.com
-*.vidyo.airbnb.com
-*.m.airbnb.com
 altrix.canary.airbnb.com
 api.staging.airbnb.com
 cdn.canary.airbnb.com
@@ -1798,7 +1754,6 @@ zendesk1.airbnb.com
 zendesk2.airbnb.com
 zendesk3.airbnb.com
 zendesk4.airbnb.com
-www.admin-lite.airbnb.com
 billing.futureplc-electronics.t.airbnb.com
 docker.cloud.admin.airbnb.com
 origin.beisproxytest.admin.airbnb.com
@@ -1808,7 +1763,6 @@ javaadmin.new.next.airbnb.com
 pt.admin.airbnb.com
 developer.s0.t.airbnb.com
 germany.admin.t.airbnb.com
-www.nerds.airbnb.com
 rudolph.aws.airbnb.com
 register.www1.admin.airbnb.com
 allamlatakia.uat.next.airbnb.com
@@ -1816,7 +1770,6 @@ elb.pg.admin.airbnb.com
 error.travelport-travel.t.airbnb.com
 forms.addshoppers.t.airbnb.com
 preferences.wgaca.t.airbnb.com
-www.assets.airbnb.com
 engineering.code.next.airbnb.com
 northamerica.devel.admin.airbnb.com
 valansis.fling.next.airbnb.com
@@ -2260,7 +2213,6 @@ container.pictures.next.airbnb.com
 marom2.moodle.next.airbnb.com
 import.jira.admin.airbnb.com
 preview.docs.next.airbnb.com
-www.no.airbnb.com
 tocarpianoadmin.dev.next.airbnb.com
 news.rkai.next.airbnb.com
 st.admin.airbnb.com
@@ -2294,7 +2246,7 @@ eastside.evd.next.airbnb.com
 0-elasticbeanstalk.js.admin.airbnb.com
 frontpage.pt.admin.airbnb.com
 turk.crosspixel-travel.t.airbnb.com
-www.gangstar-vegas.r.t.airbnb.com
+gangstar-vegas.r.t.airbnb.com
 i-0f15d4ca286b061c4.inst.aws.airbnb.com
 info.ide.admin.airbnb.com
 ccbs.dev.next.airbnb.com
@@ -2961,7 +2913,7 @@ accounts.view.admin.airbnb.com
 chef.direct.admin.airbnb.com
 i-0f8faecdeb39daaf6.inst.aws.airbnb.com
 bestyj.new.next.airbnb.com
-www.specular.r.t.airbnb.com
+specular.r.t.airbnb.com
 sexygirls.optustvnow.next.airbnb.com
 delete.t1.t.airbnb.com
 authorized.a.t.airbnb.com
@@ -3016,7 +2968,6 @@ usability.moodle.next.airbnb.com
 nbnx.int.next.airbnb.com
 europe.prp.admin.airbnb.com
 hidden.r.t.airbnb.com
-www.aws.inst.airbnb.com
 akamai.jira.admin.airbnb.com
 nov.solr.admin.airbnb.com
 puppia.dev.next.airbnb.com
@@ -3301,7 +3252,6 @@ jandie1.p2p.next.airbnb.com
 admin.origin.admin.airbnb.com
 region.stg.next.airbnb.com
 05d11ddacddcafd13.inst.aws.airbnb.com
-www.m.airbnb.com
 dev.tpsd-la.admin.airbnb.com
 june.traefik.admin.airbnb.com
 admin1.admin.t.airbnb.com
@@ -3402,7 +3352,6 @@ lovely.merchdirect.next.airbnb.com
 i-041bbc4f813f10bc4.inst.aws.airbnb.com
 secret.stg.admin.airbnb.com
 wirelesspencamera-net.ci.next.airbnb.com
-www.r.airbnb.com
 bobdylan.invenio.next.airbnb.com
 sandesh.merchdirect.next.airbnb.com
 mega10.moodle.next.airbnb.com
@@ -3429,7 +3378,7 @@ forum.assets0.next.airbnb.com
 akamai.minifr.t.airbnb.com
 forms.postfixadmin.admin.airbnb.com
 sandbox.risk.admin.airbnb.com
-www.rme.7.t.airbnb.com
+rme.7.t.airbnb.com
 hotmarket.apiwww.next.airbnb.com
 silverheaven.optimize.next.airbnb.com
 misite.new.next.airbnb.com
@@ -3530,7 +3479,7 @@ ke.optustvnow.next.airbnb.com
 sulake.optustvnow.next.airbnb.com
 akali.whm.admin.airbnb.com
 eng.app.t.airbnb.com
-www.mqp.2.t.airbnb.com
+mqp.2.t.airbnb.com
 i-07341323c66920216.inst.aws.airbnb.com
 resinok1.fling.next.airbnb.com
 latinamerica.test1.admin.airbnb.com
@@ -3707,8 +3656,7 @@ thorax.mail33.next.airbnb.com
 r-t-bn4v3fk7b5report.wc.r.t.airbnb.com
 enabled.toyota-nl.t.airbnb.com
 payment.edu.t.airbnb.com
-www.it.airbnb.com
-www.tedata.mp.t.airbnb.com
+tedata.mp.t.airbnb.com
 member.p2p.next.airbnb.com
 admin1.supervisor.admin.airbnb.com
 april.cn.admin.airbnb.com
@@ -3747,7 +3695,7 @@ private.investingchannel.t.airbnb.com
 develop.admin.airbnb.com
 disabled.mautic.admin.airbnb.com
 disabled.exchange.admin.airbnb.com
-www.www.airbnb.com
+www.airbnb.com
 video77.q.next.airbnb.com
 additional.adfs.next.airbnb.com
 cn.news.admin.airbnb.com
@@ -3762,7 +3710,7 @@ ryder.mail31.next.airbnb.com
 debica.evd.next.airbnb.com
 mba.ci.next.airbnb.com
 test.thai.admin.airbnb.com
-www.wearable.m.t.airbnb.com
+wearable.m.t.airbnb.com
 shutup.merchdirect.next.airbnb.com
 flower.admin.airbnb.com
 i-05a1df8f95ea203f7.inst.aws.airbnb.com
@@ -3883,7 +3831,7 @@ hackman.instwww.next.airbnb.com
 i-0eab803e4ee9bb686.inst.aws.airbnb.com
 workflow.moodle.next.airbnb.com
 com.hub.next.airbnb.com
-www.swiftpay.2.t.airbnb.com
+swiftpay.2.t.airbnb.com
 need.dev.next.airbnb.com
 dec.dealzon-electronics.t.airbnb.com
 fworld.moodle.next.airbnb.com
@@ -3994,7 +3942,6 @@ d213sdapb08052.r.t.airbnb.com
 ipaydawoo2com.moodle.next.airbnb.com
 recovered.mautic.admin.airbnb.com
 staff.console.t.airbnb.com
-www.next.airbnb.com
 current.home.t.airbnb.com
 homenhouse.instwww.next.airbnb.com
 api1.django.admin.airbnb.com
@@ -4095,7 +4042,7 @@ neogene.optustvnow.next.airbnb.com
 swagger.jss.t.airbnb.com
 inthesky.dev.next.airbnb.com
 i-08c03dc9ec52e0b05.inst.aws.airbnb.com
-www.ijibm.u.t.airbnb.com
+ijibm.u.t.airbnb.com
 hanazono.optimize.next.airbnb.com
 ids.bravenet-internet.t.airbnb.com
 i-0433ceae7bcbc23ed.inst.aws.airbnb.com
@@ -4104,7 +4051,6 @@ private.g1.admin.airbnb.com
 weatherpre.optustvnow.next.airbnb.com
 api.bmwnl.t.airbnb.com
 container.old.admin.airbnb.com
-www.zh.airbnb.com
 zelkova04.new.next.airbnb.com
 treehouse.moodle.next.airbnb.com
 espacoaprendente.h.t.airbnb.com
@@ -4158,8 +4104,7 @@ tka.p2p.next.airbnb.com
 export.qualif.admin.airbnb.com
 private.tableau.admin.airbnb.com
 merch.mysql.admin.airbnb.com
-www.omgpro.airbnb.com
-www.veligo.mp.t.airbnb.com
+veligo.mp.t.airbnb.com
 latti.mystique.next.airbnb.com
 eu.onrealm.t.airbnb.com
 akali.hunterdouglas.t.airbnb.com
@@ -4261,7 +4206,6 @@ hostname.mysql.admin.airbnb.com
 staff.flower.admin.airbnb.com
 july.git.admin.airbnb.com
 login.sslv3.admin.airbnb.com
-www.order.next.airbnb.com
 i-0f17231e70d03c65c.inst.aws.airbnb.com
 dev1.whm.admin.airbnb.com
 turkey.crosspixel-entertainment.t.airbnb.com
@@ -4269,7 +4213,7 @@ administrator.kibana.admin.airbnb.com
 import.www.admin.airbnb.com
 03492e22b638d1957.inst.aws.airbnb.com
 i-0cc4154ae7172b880.inst.aws.airbnb.com
-www.fenplast.r.t.airbnb.com
+fenplast.r.t.airbnb.com
 europewest.www2.admin.airbnb.com
 nginx.vk.admin.airbnb.com
 ksj.1.next.airbnb.com
@@ -4302,7 +4246,7 @@ dbms.lozo-cpg.t.airbnb.com
 mirror.vault.admin.airbnb.com
 origin.candybanana-videogames.t.airbnb.com
 cristianosadmin.1.next.airbnb.com
-www.saldoplast.t.t.airbnb.com
+saldoplast.t.t.airbnb.com
 news.invenio.next.airbnb.com
 sas1.new.next.airbnb.com
 eng.nexus.admin.airbnb.com
@@ -4582,7 +4526,6 @@ dbuser.mis.admin.airbnb.com
 frontpage.technorati-tech.t.airbnb.com
 promo.prometheus.admin.airbnb.com
 sept.t3.t.airbnb.com
-www.es.airbnb.com
 rede.new.next.airbnb.com
 cakent1.merchdirect.next.airbnb.com
 box.dev1.admin.airbnb.com
@@ -4777,7 +4720,7 @@ go.express.next.airbnb.com
 raritan3.fling.next.airbnb.com
 control.git.t.airbnb.com
 locked.collector.t.airbnb.com
-www.leonard-wedding.7.t.airbnb.com
+leonard-wedding.7.t.airbnb.com
 i-0db4f64997fc89f5d.inst.aws.airbnb.com
 enabled.vpn.t.airbnb.com
 authorized.flightaware-travel.t.airbnb.com
@@ -4982,7 +4925,7 @@ backup1-6.optustvnow.next.airbnb.com
 toulbox.adapter.next.airbnb.com
 promotion.v2.admin.airbnb.com
 restricted.whm.admin.airbnb.com
-www.seminaires.h.t.airbnb.com
+seminaires.h.t.airbnb.com
 yii.1.next.airbnb.com
 i-0d4dd761054ef88b2.inst.aws.airbnb.com
 test.primepublishing-food.t.airbnb.com
@@ -5472,7 +5415,7 @@ import.phpmyadmin.admin.airbnb.com
 iboji-net.kb.next.airbnb.com
 forms.dns.admin.airbnb.com
 r-sun24-com.evd.next.airbnb.com
-www.kyoei.2.t.airbnb.com
+kyoei.2.t.airbnb.com
 miner.catalog.next.airbnb.com
 i89.dev.next.airbnb.com
 i-0721145ccf792cfb0.inst.aws.airbnb.com
@@ -5597,7 +5540,6 @@ _tcp.next.airbnb.com
 _dmarc.next.airbnb.com
 webdisk.staging.airbnb.com
 kcjf.staging.airbnb.com
-www.staging.airbnb.com
 webmail.admin.airbnb.com
 _collab-edge._tls.next.airbnb.com
 _collab-edge.next.airbnb.com
@@ -5623,7 +5565,6 @@ cmf.staging.airbnb.com
 citizenconnect-uat.staging.airbnb.com
 ftp.staging.airbnb.com
 autodiscover.staging.airbnb.com
-www.admin.airbnb.com
 citizenconnect.staging.airbnb.com
 business.staging.airbnb.com
 p8637k7v3qg56.aws.inst.airbnb.com
@@ -6195,7 +6136,6 @@ a9covid19i-haina-icharon-elb29.a9covid19i-haina-o29-dempit02sskheassefacebook272
 a9covid19i-haina-icharon-elb29.a9covid19i-haina-dev929-demo9kheassefacebook2729ohe29.ws.staging.airbnb.com
 a9covidsun9i-ja53929-o29-dembounccnkheassefacebook2729de29h2.ws.staging.airbnb.com
 apachemmediaiac9.ws.next.airbnb.com
-www.samara.airbnb.com
 ads.he.next.airbnb.com
 akamai-examplrtpe651-03-ja-all.ws.next.airbnb.com
 a9covideroad9i-haina-o2929.a9covideroad9i-haina-o29-demapostgresikheassefacebook2729ohe29.ws.staging.airbnb.com

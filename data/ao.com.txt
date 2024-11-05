@@ -1,7 +1,7 @@
-*.tbpretail-beta.ao.com
+tbpretail-beta.ao.com
 media.ao.com
 megaweb-media.ao.com
-www.gtm.ao.com
+gtm.ao.com
 fbcapi.ao.com
 productpage-media.ao.com
 checkout.ao.com
@@ -41,11 +41,9 @@ alb-pub-aolwebsite.e-com.aws.r53-pub.ao.com
 payment.ao.com
 pss.products-beta.ao.com
 pss.products-staging.ao.com
-gtm.ao.com
 dashboards.logistics.ao.com
 assets.products-live.ao.com
 showroom.ao.com
-tbpretail-beta.ao.com
 teamcore.ao.com
 mi.ao.com
 aofinance.ao.com
@@ -62,7 +60,7 @@ clients.ao.com
 private.atp-courier.ao.com
 private-qa.atp-courier.ao.com
 live-tradeplace-purchase-order-api.supplychain.ao.com
-www.live-categorypages-ecs.megaweb.ao.com
+live-categorypages-ecs.megaweb.ao.com
 workload-production-test-one.d.ao.com
 beta-documents-v2.myaccount.ao.com
 alb-pub-aolwebsite.e-qa.aws.r53-pub.ao.com
@@ -71,7 +69,6 @@ d365-integration-api.ordermanagement.ao.com
 alb-pub-adewebsite.e-com.aws.r53-pub.ao.com
 communications.ao.com
 productservicesmanagement.products-live.ao.com
-www.beta-categorypages-ecs.megaweb.ao.com
 weighted.balanced.ao.com
 database.products-beta.ao.com
 tbpretail-staging.ao.com
@@ -85,7 +82,6 @@ autodiscover.ao.com
 akamaimedia.ao.com
 beta-core-attachments.myaccount.ao.com
 catalogueservice.products-live.ao.com
-live-categorypages-ecs.megaweb.ao.com
 documents-v2.myaccount.ao.com
 beta-reviews-api.megaweb.ao.com
 sts.ao.com
@@ -130,10 +126,8 @@ media-v2.ao.com
 nuget.ao.com
 testing-tool.private-qa.atp-courier.ao.com
 atp-courier.ao.com
-www.aobartender-prod.ao.com
 teamdiscovery.ao.com
 sdm.ao.com
 catalogue-search.products-beta.ao.com
 catalogue-search.products-live.ao.com
 www2.ao.com
-www.ao.com

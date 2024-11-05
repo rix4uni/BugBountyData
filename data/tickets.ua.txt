@@ -1,4 +1,3 @@
-*.tickets.ua
 a.tickets.ua
 admin.staging.tickets.ua
 admin.test.tickets.ua
@@ -136,10 +135,6 @@ vcenter.tickets.ua
 w.tickets.ua
 wiki.v2.api.tickets.ua
 worldhotels.tickets.ua
-www.tickets.ua
-www.avia.tickets.ua
-www.crm.tickets.ua
-www.m.avia.tickets.ua
 zulip.tickets.ua
 gdv2api.tickets.ua
 vipapi.tickets.ua
@@ -275,7 +270,6 @@ h6.tickets.ua
 tracking.tickets.ua
 avia.staging.tickets.ua
 zombie-mobile-adventures.tickets.ua
-www.travel.tickets.ua
 mobile.tickets.ua
 euro2016-sale.tickets.ua
 mailing.tickets.ua

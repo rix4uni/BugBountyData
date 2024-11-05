@@ -2,7 +2,6 @@ des-dev.genealogy.net
 wiki-devel.genealogy.net
 wiki-commons.genealogy.net
 wiki.genealogy.net
-www.genealogy.net
 vo.genealogy.net
 otrs-test.genealogy.net
 osm.genealogy.net
@@ -31,7 +30,7 @@ gedbas.genealogy.net
 vo2.genealogy.net
 mailgateway-02.genealogy.net
 discourse-test.genealogy.net
-www.gov.genealogy.net
+gov.genealogy.net
 discourse.genealogy.net
 gedbas-test.genealogy.net
 collabora.team.genealogy.net
@@ -50,12 +49,11 @@ imageserver.digibib.genealogy.net
 meta.genealogy.net
 ofb.genealogy.net
 list3.genealogy.net
-www.team.genealogy.net
+team.genealogy.net
 digibib.genealogy.net
 dev.genealogy.net
 wiki1.genealogy.net
 gov-test.genealogy.net
-www.digibib.genealogy.net
 wiki-upgrade.genealogy.net
 hosts.genealogy.net
 mailgateway-01.genealogy.net
@@ -68,17 +66,14 @@ wiki3.genealogy.net
 vo-test2.genealogy.net
 wiki2.genealogy.net
 calc.team.genealogy.net
-team.genealogy.net
 workflow.digibib.genealogy.net
 onlyoffice.team.genealogy.net
-gov.genealogy.net
 adressbuecher-test.genealogy.net
 viewer.digibib.genealogy.net
 gfw.genealogy.net
 agoff.genealogy.net
 gov-neu.genealogy.net
 wgff.genealogy.net
-www.adressbuecher.genealogy.net
 fgnff.genealogy.net
 forum-prod-01.genealogy.net
 mars.genealogy.net
@@ -118,7 +113,6 @@ vfwkwb.genealogy.net
 maus.genealogy.net
 venus.genealogy.net
 foko.genealogy.net
-www.gedbas.genealogy.net
 fotostudios.genealogy.net
 vereine.genealogy.net
 files.genealogy.net
@@ -144,4 +138,3 @@ list.genealogy.net
 mfp.genealogy.net
 swiss.genealogy.net
 compgen.genealogy.net
-www.grabsteine.genealogy.net

@@ -20,7 +20,6 @@ rcgr.ams1.v.rpki.daknob.net
 4.rcgr.ams1.v.rpki.daknob.net
 swide-vc.daknob.net
 my.ip.daknob.net
-www.daknob.net
 hyper2.s.daknob.net
 tp.daknob.net
 call.daknob.net
@@ -112,7 +111,7 @@ ganymede.s.daknob.net
 mneme.s.daknob.net
 tethys.s.daknob.net
 ikev2.daknob.net
-www.wifi.daknob.net
+wifi.daknob.net
 b.ns.daknob.net
 a.ns.daknob.net
 phobos.s.daknob.net

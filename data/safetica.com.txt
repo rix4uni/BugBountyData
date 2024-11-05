@@ -4,7 +4,6 @@ n-dev-licgen.safetica.com
 auth-proxy1-gwc.safetica.com
 policyengine.cloudprotection.safetica.com
 govpn.safetica.com
-*.safetica.com
 dev-matrix-connector.safetica.com
 cdn.safetica.com
 mdm-beta.safetica.com
@@ -30,7 +29,6 @@ saas-partner.safetica.com
 saas-core-api.safetica.com
 matrix-connector.safetica.com
 licgen.safetica.com
-www.safetica.com
 dev-portal-api.safetica.com
 portal-api.safetica.com
 upload2.safetica.com
@@ -80,7 +78,6 @@ partnerlab-cms.safetica.com
 servicedesk.safetica.com
 portal.safetica.com
 elearning.safetica.com
-www.careers.safetica.com
 auth-proxy3-all.safetica.com
 auth-proxy2-all.safetica.com
 auth-proxy1-all.safetica.com

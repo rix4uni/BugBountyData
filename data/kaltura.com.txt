@@ -1,11 +1,8 @@
 images.sgs2.ott.kaltura.com
-*.images.sgs2.ott.kaltura.com
 static.sgs2.ott.kaltura.com
-*.static.sgs2.ott.kaltura.com
 chat.nvp1.ovp.kaltura.com
 9008.mediaspace.kaltura.com
 nvq2-ao.mediaspace.kaltura.com
-*.nvq2-ao.mediaspace.kaltura.com
 2606942.mediaspace.kaltura.com
 5966742.mediaspace.kaltura.com
 4823132-1989.events.kaltura.com
@@ -132,8 +129,8 @@ op-www.kaltura.com
 sso.kaltura.com
 brand.kaltura.com
 externaltests.dev.kaltura.com
-*.e.live.nvp1.ovp.kaltura.com
-*.d.live.nvp1.ovp.kaltura.com
+e.live.nvp1.ovp.kaltura.com
+d.live.nvp1.ovp.kaltura.com
 kms-vpn-vfs1.ott.kaltura.com
 3062.kms-vpn-vfs1.ott.kaltura.com
 3211.kms-vpn-vfs1.ott.kaltura.com
@@ -146,7 +143,7 @@ kms-vpn-vfs1.ott.kaltura.com
 3038.kms-vpn-vfs1.ott.kaltura.com
 3035.kms-vpn-vfs1.ott.kaltura.com
 3047.kms-vpn-vfs1.ott.kaltura.com
-*.mediaspace.cap2.ovp.kaltura.com
-*.cap2.ovp.kaltura.com
+mediaspace.cap2.ovp.kaltura.com
+cap2.ovp.kaltura.com
 rhino.kux.ott.kaltura.com
-*.api-docs-develop.ott.kaltura.com
+api-docs-develop.ott.kaltura.com

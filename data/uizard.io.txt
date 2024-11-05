@@ -8,7 +8,6 @@ api.play.uizard.io
 bi.uizard.io
 hub.int.infra.uizard.io
 multiplayer.api.uizard.io
-www.uizard.io
 community.uizard.io
 us-west-2.stage.v2.uizard.io
 emailcio.uizard.io
@@ -69,7 +68,6 @@ api.stage.uizard.io
 int.uizard.io
 jenkins.eu-central-1.infra.v2.uizard.io
 storybook.api.dev.uizard.io
-www.dev.uizard.io
 _da7ea6335b4f5e10e35ab5ee1b633b6e.get.uizard.io
 cioeu77831.uizard.io
 eu-central-1.infra.v2.uizard.io

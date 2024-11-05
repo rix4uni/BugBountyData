@@ -16,11 +16,9 @@ scispacy.apps.allenai.org
 procthor.allenai.org
 allenai-web.apps.allenai.org
 mosaic.allenai.org
-www.allenai.org
 prior.allenai.org
 dataverse.apps.allenai.org
 fuels-data.wildlands.allenai.org
-*.allenai.org
-*.local.allenai.org
+local.allenai.org
 phone2proc.allenai.org
 pritunl.allenai.org

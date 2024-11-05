@@ -157,7 +157,6 @@ intranet.partners.ndis.gov.au
 api.developer.ndis.gov.au
 training-myaccesscheckerview.ndis.gov.au
 prod-2.kms.ndis.gov.au
-www.ndis.gov.au
 myid-task.development.apps.ndis.gov.au
 osas-api.development.ndis.gov.au
 corporate-operational-datastore.development.ndis.gov.au
@@ -182,7 +181,6 @@ warp-debugging-access-only.development.ndis.gov.au
 ciam.user-acceptance-testing.staging.ndis.gov.au
 ciam.development.ndis.gov.au
 experience-design.ndis.gov.au
-www.ourguidelines.ndis.gov.au
 myform.development.ndis.gov.au
 sas-analytics.development.ndis.gov.au
 binpaste.staging.ndis.gov.au

@@ -49,7 +49,6 @@ link.mail.glossier.com
 assets.glossier.com
 marketing.glossier.com
 bff.glossier.com
-www.glossier.com
 mail.glossier.com
 api.glossier.com
 ec2.glossier.com
@@ -62,7 +61,5 @@ boxen.glossier.com
 email.glossier.com
 link.glossier.com
 cart-api.glossier.com
-*.glossier.com
-*.loyalty.glossier.com
 help.glossier.com
 helpuk.glossier.com

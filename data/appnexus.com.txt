@@ -302,7 +302,7 @@ owa.appnexus.com
 01.esxi-host.ams1.appnexus.com
 04-hyperv-lax1.ad.corp.appnexus.com
 06.jira-sand.nym2.appnexus.com
-www.finance.appnexus.com
+finance.appnexus.com
 vpn3.corp.appnexus.com
 01.compas-smtp.nym2.appnexus.com
 05-spotweb-nym2.ad.corp.appnexus.com
@@ -571,7 +571,6 @@ vpn-68-67-167-34.corp.appnexus.com
 02-vidyo-router.nym2.appnexus.com
 03.ntp.sin3.appnexus.com
 03-dc-lax1.ad.corp.appnexus.com
-finance.appnexus.com
 jamf-dp.corp.appnexus.com
 01-prf-test-nym.ad.corp.appnexus.com
 vpn-68-67-167-98.corp.appnexus.com
@@ -618,7 +617,6 @@ lbip767087.nym2.appnexus.com
 01-sql-test-nym.ad.corp.appnexus.com
 01.awestfall-sand.ams3.appnexus.com
 obs02.nym2.appnexus.com
-www.techblog.appnexus.com
 01.fecru.nym2.appnexus.com
 02-dc-lax1.test.corp.appnexus.com
 jiranew.corp.appnexus.com.appnexus.com
@@ -777,7 +775,6 @@ lbip822774.lax1.appnexus.com
 lax1.staging.api.appnexus.com
 02.catchpoint.ams1.appnexus.com
 02.ntp.nym2.appnexus.com
-www.appnexus.com
 lbip2955.nym2.appnexus.com
 02-sun-prod-nym.ad.corp.appnexus.com
 01.rdw-sand.nym2.appnexus.com
@@ -929,7 +926,6 @@ api.appnexus.com
 vpn-68-67-167-110.corp.appnexus.com
 vpn-68-67-167-19.corp.appnexus.com
 portal.appnexus.com
-www.portal.appnexus.com
 01.nginx-bitbucket.nym2.appnexus.com
 lbip1599.lax1.appnexus.com
 04.catchpoint.lax1.appnexus.com
@@ -1087,7 +1083,7 @@ ip781862.nym2.appnexus.com
 vpn-68-67-167-45.corp.appnexus.com
 ip429239.nym2.appnexus.com
 lbip822720.lax1.appnexus.com
-www.lax1.appnexus.com
+lax1.appnexus.com
 vpn-68-67-167-89.corp.appnexus.com
 vpn-68-67-167-21.corp.appnexus.com
 vpn-68-67-167-119.corp.appnexus.com
@@ -1218,10 +1214,8 @@ lbip822696.lax1.appnexus.com
 weblogin.corp.appnexus.com
 vpn-68-67-167-88.corp.appnexus.com
 02.obs-worker.lax1.appnexus.com
-www.wiki.appnexus.com
 05.obs-worker.lax1.appnexus.com
 bm8054.nym2.appnexus.com
-lax1.appnexus.com
 openldap.corp.ams1.appnexus.com
 01.jira-sandbox.nym2.appnexus.com
 01.oas-techwiki.nym2.appnexus.com

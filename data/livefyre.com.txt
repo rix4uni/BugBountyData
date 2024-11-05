@@ -1,5 +1,4 @@
 ct220.dsr.livefyre.com
-www.livefyre.com
 lfcp-int-techcrunch.livefyre.com
 lfcp-techcrunch.livefyre.com
 lfcp-time-int.livefyre.com
@@ -33,7 +32,7 @@ cloudfront.zor.livefyre.com
 ns3.livefyre.com
 usea1l3ct23.livefyre.com
 10.72.180.60ct248.dsr.livefyre.com
-www.data.livefyre.com
+data.livefyre.com
 api.qa-ext.livefyre.com
 ct17.dsr.t402.livefyre.com
 lc86.dsr.livefyre.com
@@ -63,7 +62,7 @@ lfcp-time.livefyre.com
 ct279.dsr.livefyre.com
 ct213.dsr.livefyre.com
 vf-storifywebapp3.prod.livefyre.com
-www.cdn.livefyre.com
+cdn.livefyre.com
 analytics.livefyre.com
 lfcp-empowernetwork-int.livefyre.com
 ct229.dsr.livefyre.com
@@ -92,7 +91,6 @@ o3.notify.email.endgadget.livefyre.com
 studio.livefyre.com
 ct81.dsr.livefyre.com
 identy.livefyre.com
-cdn.livefyre.com
 trendmedia-int-0.ep.t402.livefyre.com
 zor.i4.livefyre.com
 ct293.dsr.livefyre.com
@@ -129,7 +127,7 @@ lc94.dsr.livefyre.comlc94.dsr.livefyre.com
 lc121.dsr.livefyre.com
 cloudfront.zor.qa-ext.livefyre.com
 lfcp-allthingsd-int.livefyre.com
-www.t402.livefyre.com
+t402.livefyre.com
 usea1l3lc53.livefyre.com
 ct240.dsr.livefyre.com
 usea1l3ct33.livefyre.com
@@ -163,7 +161,6 @@ indycar.ep.livefyre.com
 lfcp-joystiq.livefyre.com
 ct246.dsr.livefyre.com
 ct79.dsr.livefyre.com
-t402.livefyre.com
 blog.livefyre.com
 ct286.dsr.livefyre.com
 ct251.dsr.livefyre.com
@@ -187,8 +184,7 @@ ns4.livefyre.com
 sundialbrands-int-0.ep.t402.livefyre.com
 ct297.dsr.livefyre.com
 ct248.dsr.livefyre.com
-data.livefyre.com
-www.answers.livefyre.com
+answers.livefyre.com
 ct232.dsr.livefyre.com
 lc94.dsr.livefyre.com
 lc62.dsr.livefyre.com
@@ -214,7 +210,6 @@ ct252.dsr.livefyre.com
 bootstrap.t402.livefyre.com
 trendmedia.ep.livefyre.com
 ct294.dsr.livefyre.com
-www.qa-ext.livefyre.com
 lc84.dsr.livefyre.com
 lc79.dsr.livefyre.com
 cloudfront.zor.t402.livefyre.com
@@ -224,7 +219,6 @@ identity.livefyre.com
 lfcp-allthingsd.livefyre.com
 usea1l3ct34.livefyre.com
 10.72.180.60lc87.dsr.livefyre.com
-answers.livefyre.com
 lfcp-engadget.livefyre.com
 usea1l3ct93.livefyre.com
 ct70.dsr.livefyre.com

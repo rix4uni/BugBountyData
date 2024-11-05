@@ -166,7 +166,6 @@ le-166.discord.coinmode.com
 kyc.coinmode.com
 le-27.coinmode.com
 usernotification.coinmode.com
-www.coinmode.com
 metrics.coinmode.com
 le-10.coinmode.com
 support.coinmode.com
@@ -182,7 +181,7 @@ le-140.coinmode.com
 le-138.coinmode.com
 le-8.ina.coinmode.com
 le-49.coinmode.com
-www.cmwpfcse.coinmode.com
+cmwpfcse.coinmode.com
 git.coinmode.com
 vouchers-webapp.coinmode.com
 core-utilities-statement-generator.statement.coinmode.com
@@ -196,10 +195,8 @@ le-187.kyc3frontend.coinmode.com
 kyc3frontend.coinmode.com
 core-frontend-email-images-server.email.coinmode.com
 le-104.email.coinmode.com
-cmwpfcse.coinmode.com
 dev.coinmode.com
 dev.www.coinmode.com
-www.cmwpf.coinmode.com
 reg.coinmode.com
 mail.coinmode.com
 staging.coinmode.com

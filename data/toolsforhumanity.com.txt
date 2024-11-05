@@ -15,7 +15,6 @@ admin.stage.trading.toolsforhumanity.com
 api.trading.toolsforhumanity.com
 gifts.studios.toolsforhumanity.com
 mail.toolsforhumanity.com
-www.toolsforhumanity.com
 trading.toolsforhumanity.com
 _dmarc.toolsforhumanity.com
 forum.toolsforhumanity.com
@@ -26,11 +25,10 @@ topups.studios.toolsforhumanity.com
 static.marble.app-backend.toolsforhumanity.com
 donations.studios.toolsforhumanity.com
 shop.toolsforhumanity.com
-www.store.studios.toolsforhumanity.com
+store.studios.toolsforhumanity.com
 chat.studios.toolsforhumanity.com
 actions.studios.toolsforhumanity.com
 static.usernames.app-backend.toolsforhumanity.com
-store.studios.toolsforhumanity.com
 api.chat.studios.toolsforhumanity.com
 api.stage.chat.studios.toolsforhumanity.com
 auth.chat.studios.toolsforhumanity.com

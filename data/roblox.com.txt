@@ -1,6 +1,5 @@
-*.roblox.com
-*.api.roblox.com
-*.help.roblox.com
+api.roblox.com
+help.roblox.com
 208_185_116_57.ra.roblox.com
 209_206_40_254.rp.roblox.com
 64_124_125_10.sm.roblox.com
@@ -77,7 +76,6 @@ affiliates.roblox.com
 altdevforum.roblox.com
 ams1-128-116-121-3.roblox.com
 analytics.roblox.com
-api.roblox.com
 api.gametest1.roblox.com
 api.gametest2.roblox.com
 api.gametest3.roblox.com
@@ -240,7 +238,6 @@ gold.roblox.com
 golden.roblox.com
 graph.roblox.com
 groups.roblox.com
-help.roblox.com
 hkg1-128-116-118-3.roblox.com
 images.roblox.com
 imagesak.roblox.com
@@ -534,24 +531,8 @@ webblox.roblox.com
 wiki.roblox.com
 wiki-origin.roblox.com
 wikiblog.roblox.com
-www.roblox.com
-www.careers.roblox.com
-www.confluence.roblox.com
-www.corp.roblox.com
-www.developer.roblox.com
-www.devforum.roblox.com
-www.events.roblox.com
-www.games.api.roblox.com
-www.help.roblox.com
-www.jira.roblox.com
-www.survey.roblox.com
-www.tfs.roblox.com
-www.vpn.roblox.com
-www.vpn.cn.roblox.com
-www.wiki.roblox.com
 www2.roblox.com
 xn--www-rp0a.roblox.com
-xww.roblox.com
 _spf_20190122.roblox.com
 abtesting.api.roblox.com
 ad1.ra.roblox.com
@@ -1403,7 +1384,7 @@ edge-term4-lga2.roblox.com
 lga2-128-116-32-3.roblox.com
 hwww.roblox.com
 edge-term4-iad4.roblox.com
-www.gametest6.roblox.com
+gametest6.roblox.com
 ephemeralcounters.api.gametest6.roblox.com
 setup.gametest6.roblox.com
 edge-term4-atl1.roblox.com
@@ -2256,7 +2237,6 @@ ash1-economycreatorstats.roblox.com
 nrt2-128-116-120-4.roblox.com
 waw1-128-116-124-4.roblox.com
 gold-rlb50.roblox.com
-www.forum.roblox.com
 kaitrades.roblox.com
 fr.help.roblox.com
 pt.help.roblox.com
@@ -2299,4 +2279,3 @@ origin.corp.roblox.com
 lapp445.rp.roblox.com
 cn.vpn.roblox.com
 lapp72.chi1.roblox.com
-www.en.help.roblox.com

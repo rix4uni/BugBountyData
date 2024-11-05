@@ -22,7 +22,6 @@ help.monetha.io
 auth.monetha.io
 bounty.monetha.io
 artifacts.global.monetha.io
-www.staging.monetha.io
 assets.staging.monetha.io
 cdn.staging.monetha.io
 auth.www-temp.monetha.io
@@ -31,7 +30,6 @@ lambdagw.monetha.io
 slack.monetha.io
 shop-sandbox.monetha.io
 ico-sandbox.monetha.io
-www.monetha.io
 scanner.monetha.io
 app.monetha.io
 assets.monetha.io
@@ -42,7 +40,6 @@ events.monetha.io
 unicef-challenge.monetha.io
 monetha-shopify-app-demo.monetha.io
 identity-admin.staging.monetha.io
-www.blog.monetha.io
 payment.monetha.io
 identity-admin.monetha.io
 api.staging.monetha.io

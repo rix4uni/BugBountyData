@@ -26,7 +26,6 @@ globalsearch-dev.oniudra.cc
 mltools.oniudra.cc
 certifications-assets-cf.oniudra.cc
 wss-dev.iot.oniudra.cc
-www.oniudra.cc
 downloads-dev-wahoo.aws.oniudra.cc
 cloud-editor.oniudra.cc
 code-formatter.oniudra.cc
@@ -198,6 +197,5 @@ wwworigin.oniudra.cc
 certifications-assets.oniudra.cc
 downloads-prod-mantis.oniudra.cc
 www2.oniudra.cc
-*.oniudra.cc
 plant.oniudra.cc
 factory-api.oniudra.cc

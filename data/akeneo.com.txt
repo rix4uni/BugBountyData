@@ -165,7 +165,6 @@ email.mg.cloud.akeneo.com
 unlock.akeneo.com
 shared-catalogs-us.cloud.akeneo.com
 nagios-host.cloud.akeneo.com
-www.akeneo.com
 pr-896.api-dev.akeneo.com
 doors.akeneo.com
 pr-866.api-dev.akeneo.com
@@ -323,5 +322,5 @@ bs-pim.cloud.akeneo.com
 test3-host.akeneo.com
 portal-dev1-sandbox.ip.akeneo.com
 305619a1-be4c-40e8.onboarder-dev.cloud.akeneo.com
-*.mcstaging.cloud.akeneo.com
-*.staplescanada-prod.cloud.akeneo.com
+mcstaging.cloud.akeneo.com
+staplescanada-prod.cloud.akeneo.com

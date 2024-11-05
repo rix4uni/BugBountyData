@@ -5,7 +5,6 @@ help.top.host
 _dmarc.top.host
 cdn.top.host
 staging.top.host
-www.top.host
 _spf.top.host
 deploy.top.host
 ns2.top.host
@@ -25,9 +24,6 @@ stg-support.top.host
 node1.top.host
 node3.top.host
 webmail.top.host
-www.webmail-staging.top.host
+webmail-staging.top.host
 digital.top.host
 ipv4.seecix.ath.gr.as199246.top.host
-webmail-staging.top.host
-www.webmail.top.host
-*.top.host

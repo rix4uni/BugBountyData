@@ -10,7 +10,6 @@ gateway-acc.bco-portaal.nl
 api-test.bco-portaal.nl
 www-acc.bco-portaal.nl
 gateway-test.bco-portaal.nl
-www.bco-portaal.nl
 www-test.bco-portaal.nl
 www-demo.bco-portaal.nl
 gateway-qa4.bco-portaal.nl
@@ -36,4 +35,3 @@ gateway-demo.bco-portaal.nl
 signer-acc.bco-portaal.nl
 signer-test.bco-portaal.nl
 signer.bco-portaal.nl
-*.bco-portaal.nl

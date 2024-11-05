@@ -5,8 +5,7 @@ pld.lel.global
 smtp.secureserver.net.lel.global
 test6.lel.global
 tracker.lel.global
-www.lel.global
-www.staging.lel.global
+staging.lel.global
 webdisk.staging.lel.global
 autoconfig.staging.lel.global
 whitelabel.commx.staging.lel.global

@@ -1,5 +1,5 @@
 web02.medid.eu
-www.webmail.medid.eu
+webmail.medid.eu
 62.212.87.52-hostedby.medid.eu
 62.212.90.122-hostedby.medid.eu
 82.94.242.11-hostedby.medid.eu
@@ -24,7 +24,6 @@ web12.medid.eu
 62.212.87.55-hostedby.medid.eu
 82.94.242.62-hostedby.medid.eu
 db01.medid.eu
-webmail.medid.eu
 62.212.87.16-hostedby.medid.eu
 62.212.90.99-hostedby.medid.eu
 82.94.242.50-hostedby.medid.eu
@@ -36,7 +35,7 @@ service.medid.eu
 mail01.medid.eu
 62.212.87.53-hostedby.medid.eu
 62.212.90.113-hostedby.medid.eu
-www.imap.medid.eu
+imap.medid.eu
 foreman.medid.eu
 emea2011.medid.eu
 new.medid.eu
@@ -60,7 +59,6 @@ mail.medid.eu
 62.212.90.110-hostedby.medid.eu
 62.212.90.119-hostedby.medid.eu
 82.94.242.57-hostedby.medid.eu
-imap.medid.eu
 82.94.242.32-hostedby.medid.eu
 ns05.medid.eu
 ns02.medid.eu
@@ -124,14 +122,12 @@ ns03.medid.eu
 puppetmaster.medid.eu
 prepaid.medid.eu
 web11.medid.eu
-www.service.medid.eu
 62.212.87.18-hostedby.medid.eu
 62.212.87.23-hostedby.medid.eu
 62.212.87.26-hostedby.medid.eu
 62.212.90.98-hostedby.medid.eu
 82.94.242.47-hostedby.medid.eu
 82.94.242.54-hostedby.medid.eu
-www.medid.eu
 62.212.90.126-hostedby.medid.eu
 82.94.242.41-hostedby.medid.eu
 php.webapps.medid.eu

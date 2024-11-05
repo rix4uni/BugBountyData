@@ -27,7 +27,7 @@ pledge.onepeloton.de
 user-identity.prod.k8s.onepeloton.de
 user-identity-nginx.stage.k8s.onepeloton.de
 gql-argo-rollouts-poc.dev.k8s.onepeloton.de
-www.secret.onepeloton.de
+secret.onepeloton.de
 user-identity.stage.k8s.onepeloton.de
 business.onepeloton.de
 auth-orca-nginx.prod.k8s.onepeloton.de
@@ -38,13 +38,12 @@ auth-orca.stage.k8s.onepeloton.de
 auth-orca.prod.k8s.onepeloton.de
 xtest.onepeloton.de
 gql-elisevickery.dev.k8s.onepeloton.de
-www.test.onepeloton.de
+test.onepeloton.de
 schedule.studio.onepeloton.de
 pledge-uat-2021.onepeloton.de
 graph.prod.k8s.onepeloton.de
 dev-members.onepeloton.de
 studio.onepeloton.de
-www.onepeloton.de
 uat.onepeloton.de
 apparel.onepeloton.de
 tv.onepeloton.de

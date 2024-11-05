@@ -1,5 +1,4 @@
 www2.migros.ch
-www.migros.ch
 sommer-staging.migros.ch
 sommer-staging-2.migros.ch
 test-techradar.migros.ch
@@ -94,7 +93,7 @@ migzm932.migros.ch
 migzsm02.migros.ch
 migzmb93c.migros.ch
 grillitarier.migros.ch
-www.legacy.gmvd.migros.ch
+legacy.gmvd.migros.ch
 cert-test.migros.ch
 admin.industrie.migros.ch
 digires-s.gmsap.migros.ch
@@ -177,11 +176,8 @@ ucb5.pop.migros.ch
 ddab-ebf9.events.migros.ch
 ucb5.qpop.migros.ch
 playmobilmania.migros.ch
-www.ddab-ebf9.events.migros.ch
 medbasefr.events.migros.ch
-www.medbasefr.events.migros.ch
 medbasede.events.migros.ch
-www.medbasede.events.migros.ch
 api-qual.migros.ch
 api-manager-dev.migros.ch
 admin-api-dev.migros.ch

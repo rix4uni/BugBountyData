@@ -206,7 +206,6 @@ poll-widget.px.dataport.de
 meetings-widget-bot.px.dataport.de
 jvb05.px.dataport.de
 forum.px.dataport.de
-www.px.dataport.de
 ox-provisioning.px.dataport.de
 ics.px.dataport.de
 fs-push.px.dataport.de
@@ -378,8 +377,6 @@ editor-a12.modulf-1202.cloud-bdc.dataport.de
 a12-client-modulf-1202.cloud-bdc.dataport.de
 dfoerdermittelantrag.dataport.de
 xn--dfrdermittelantrag-e3b.dataport.de
-www.dfoerdermittelantrag.dataport.de
-www.xn--dfrdermittelantrag-e3b.dataport.de
 devportal-test.cloud-bdc.dataport.de
 publisher-modulf-dev.cloud-bdc.dataport.de
 private.test-amsel.pvog.dataport.de
@@ -520,11 +517,11 @@ public.test-backofficev2.pvog.cloud-bdc.dataport.de
 private.niklas.testintern.pvog.dataport.de
 rz-out-smtp-167.dataport.de
 public.rose.devextern.pvog.dataport.de
-www.sammelantrag-qs.dataport.de
+sammelantrag-qs.dataport.de
 drds.dataport.de
 reporting.test.dworkflowapp.dataport.de
-www.dhunderegister-stage.dataport.de
-www.ddatabox.dataport.de
+dhunderegister-stage.dataport.de
+ddatabox.dataport.de
 api.ai-asr.dataport.de
 meet.uc2.dataport.de
 demo.pvog.dataport.de
@@ -543,8 +540,8 @@ webapp.uc1.dataport.de
 renate-qs.dataport.de
 le-test.cloud-bdc.dataport.de
 cicd.apps.okd001.mcmp-stage.dsc.dataport.de
-www.balvi-bss-prod.dataport.de
-www.ddev-sec.dataport.de
+balvi-bss-prod.dataport.de
+ddev-sec.dataport.de
 uem-uag-sh.dataport.de
 dev.lugas.cloud-bdc.dataport.de
 preview.modulf-3712.cloud-bdc.dataport.de
@@ -565,7 +562,6 @@ public.fitko-demo.pvog.cloud-bdc.dataport.de
 uc.dataport.de
 public.manfred.testintern.pvog.dataport.de
 editor.modulf-3787.cloud-bdc.dataport.de
-ddev-sec.dataport.de
 dvs-poc.dataport.de
 schiffsregister-nds-qs.dataport.de
 public.rotkehlchen.testintern.pvog.dataport.de
@@ -587,7 +583,7 @@ api.qs.lugas.dataport.de
 editor.modulf-1111.cloud-bdc.dataport.de
 dworkflow.dataport.de
 modulf-3712.cloud-bdc.dataport.de
-www.dhunderegister-test.dataport.de
+dhunderegister-test.dataport.de
 private.rose.devextern.pvog.dataport.de
 private.asdf.testintern.pvog.dataport.de
 prod.dworkflowapp.dataport.de
@@ -598,11 +594,11 @@ sip.dataport.de
 kopers.wss.dataport.de
 public.api.qs.lugas.cloud-bdc.dataport.de
 iothub-devel.dataport.de
-www.fernzugriff1.dataport.de
+fernzugriff1.dataport.de
 public.elster.testintern.pvog.dataport.de
 dmptest.dataport.de
 private.dohle.pvog.cloud-bdc.dataport.de
-www.badegewaesserkarte.dataport.de
+badegewaesserkarte.dataport.de
 editor.modulf-3316.cloud-bdc.dataport.de
 modulf-3316.cloud-bdc.dataport.de
 preview.modulf-3863.cloud-bdc.dataport.de

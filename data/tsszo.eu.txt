@@ -280,8 +280,6 @@ visitors.tssfit.softplus.tsszo.eu
 wallbox.beta.app.tsszo.eu
 wallbox.dev.softplus.tsszo.eu
 wallbox.test.softplus.tsszo.eu
-www.hw.tsszo.eu
-www.single-sign-on.tsszo.eu
 youtrack.beta.app.tsszo.eu
 yt-old.tsszo.eu
 yt.tsszo.eu
@@ -305,4 +303,3 @@ identity.edo.tsszo.eu
 lpr.tsszo.eu
 printer.edo.tsszo.eu
 translation.edo.tsszo.eu
-www.app.tsszo.eu

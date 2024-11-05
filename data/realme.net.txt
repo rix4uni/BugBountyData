@@ -1,5 +1,4 @@
-*.realme.net
-*.partner.realme.net
+partner.realme.net
 flash.realme.net
 image01.realme.net
 image02.realme.net
@@ -10,7 +9,6 @@ o1.realme.net
 oms.realme.net
 oms-api.realme.net
 oms.partner.realme.net
-partner.realme.net
 pre.realme.net
 pre-oms.realme.net
 pre-oms-api.realme.net
@@ -29,7 +27,6 @@ static.realme.net
 static02.realme.net
 test1-event.realme.net
 traffic-lswebext.flgkhjyitqmnluotuxiu.prd.gitlab-pages.realme.net
-www.realme.net
 apollo.realme.net
 aps.realme.net
 doc.realme.net

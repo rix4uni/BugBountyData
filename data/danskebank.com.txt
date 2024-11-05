@@ -7,9 +7,9 @@ sandbox-debtregisternorway.danskebank.com
 y75389.syst.danskebank.com
 cardadm.danskebank.com
 teamsrec5az1.danskebank.com
-www.auth.danskebank.com
+auth.danskebank.com
 api-northstar.danskebank.com
-www.auth.test.danskebank.com
+auth.test.danskebank.com
 publiccontact17.danskebank.com
 districtone.danskebank.com
 publicmobilepay.danskebank.com
@@ -26,7 +26,7 @@ syst-privatebusiness.danskebank.com
 sip.danskebank.com
 3.sf.danskebank.com
 syst-privatecontact.danskebank.com
-www.test1.danskebank.com
+test1.danskebank.com
 auth.staging.danskebank.com
 sb-markets.danskebank.com
 ftpg3.danskebank.com
@@ -311,7 +311,6 @@ fxsalestrader.danskebank.com
 syst-mobildankort.cardsslclient.danskebank.com
 test2.danskebank.com
 syst-psd2-auth.danskebank.com
-auth.test.danskebank.com
 brooklynva.danskebank.com
 sf-webview.danskebank.com
 swish-api4.danskebank.com
@@ -408,7 +407,6 @@ dcxclient.test.danskebank.com
 expe3.video.danskebank.com
 pros-connect-acts01.danskebank.com
 dbcrm-uat.danskebank.com
-auth.danskebank.com
 news.danskebank.com
 prodsb-ftnidp.danskebank.com
 fiona-custody-nb-reporting.danskebank.com
@@ -450,7 +448,6 @@ test-p27-sekbatch-signature.danskebank.com
 api.findash.danskebank.com
 cem.danskebank.com
 tietoevryatm-pci.danskebank.com
-test1.danskebank.com
 token-signing-fs1.danskebank.com
 sb-cl7.danskebank.com
 fiona-ctf-reporting-prod.danskebank.com
@@ -596,24 +593,9 @@ st-link.publicationmail.danskebank.com
 syst-privateapps.danskebank.com
 syst-privateappsmobilepay.danskebank.com
 amlcustinteract-sm2host.danskebank.com
-www.danskebank.com
 brooklynsolutions.danskebank.com
 brandcenter.danskebank.com
 wjic-sm2host.danskebank.com
-www.beta.danskebank.com
-www.test.danskebank.com
-www.test0.danskebank.com
-www.test2.danskebank.com
-*.danskebank.com
-www.signup.test.danskebank.com
-www.auth.staging.danskebank.com
-www.signup.staging.danskebank.com
-www.signup.danskebank.com
-www.auth.dev.danskebank.com
-www.signup.dev.danskebank.com
-www.staging.signup.danskebank.com
-www.test.signup.danskebank.com
-www.dev.signup.danskebank.com
 cl5.danskebank.com
 contact.danskebank.com
 dci.danskebank.com
@@ -690,7 +672,6 @@ prod.danskebank.com
 fionline.danskebank.com
 pl.danskebank.com
 2fwww.danskebank.com
-www.reports.danskebank.com
 prod2.danskebank.com
 _dbparked.danskebank.com
 developersmail.danskebank.com

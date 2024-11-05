@@ -1702,9 +1702,6 @@ sbcp5.dhs.gov
 baa2-12c.st.dhs.gov
 guac.env3.staging.cool.cyber.dhs.gov
 fema-gp.dhs.gov
-*.fema-gp.dhs.gov
-*.share-author-ext.dhs.gov
-*.share-pub-ext.dhs.gov
 preview-media.dhs.gov
 mobile-api.cbp.dhs.gov
 device.cbp.dhs.gov
@@ -1812,7 +1809,7 @@ itdsservicesprod.cbp.dhs.gov
 itdsservicescert.cbp.dhs.gov
 ohss.dhs.gov
 dhscretportal.dhs.gov
-www.ssp.cisa.dhs.gov
+ssp.cisa.dhs.gov
 dac1-bcws-staging.tsa.dhs.gov
 dac1-staging.tsa.dhs.gov
 fpspub.dhs.gov
@@ -1829,7 +1826,6 @@ congressionalinquiry.uscis.dhs.gov
 servicecenter-dhshqhb.hq.dhs.gov
 bp-dev.sat.cbp.dhs.gov
 immvets.dhs.gov
-www.immvets.dhs.gov
 smtprelay.mail.cisa.dhs.gov
 vpn.denver.tsa.dhs.gov
 fw1a.denver.tsa.dhs.gov
@@ -1843,4 +1839,3 @@ logging-wcms.dhs.gov
 nessus-wcms.dhs.gov
 wcms-preview.dhs.gov
 wcms-staging.dhs.gov
-www.dhs.gov

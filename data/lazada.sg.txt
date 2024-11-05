@@ -1,18 +1,17 @@
-*.lazada.sg
-*.adsense.lazada.sg
-*.community-staging.lazada.sg
-*.education.lazada.sg
-*.fc.lazada.sg
-*.lazpay.lazada.sg
-*.order.lazada.sg
-*.postal-internal.lazada.sg
-*.pre.lazada.sg
-*.rest.lazada.sg
-*.sellercenter.lazada.sg
-*.sellercenter-staging.lazada.sg
-*.sellercenter-staging-redmart.lazada.sg
-*.sgsgpostal.lazada.sg
-*.store.lazada.sg
+adsense.lazada.sg
+community-staging.lazada.sg
+education.lazada.sg
+fc.lazada.sg
+lazpay.lazada.sg
+order.lazada.sg
+postal-internal.lazada.sg
+pre.lazada.sg
+rest.lazada.sg
+sellercenter.lazada.sg
+sellercenter-staging.lazada.sg
+sellercenter-staging-redmart.lazada.sg
+sgsgpostal.lazada.sg
+store.lazada.sg
 0-lj3-acs-m.wire.community.www.pandadeli.lazada.sg
 0-lj3-acs-m.wire.community.www.pandarule-videogames7.lazada.sg
 04be1c8e.lazada.sg
@@ -137,7 +136,6 @@ adminye-station.r0.rule.apps-test-cursosdeelectricidad.lazada.sg
 adminye-station.r0.rule.apps-test.info-web6545shopre.lazada.sg
 adrisk-sample-ad.lazada.sg
 adsence.staging.wire.community.www-registry.npm.lazada.sg
-adsense.lazada.sg
 affile-tracking.staging.wire.community.www-lazbot.lazada.sg
 affiliate.lazada.sg
 agenklgherbal.ttt.catalog-rendering-api.lazada.sg
@@ -280,7 +278,6 @@ com2ac66staging.wire.communitafwd081028-xsrvjp.ms0.peruanjiuapush42cadamas.lazad
 com2ac66staging.yajama6.r0.rulegodosoft-022facebookapp-xsrvjpinsys-staging.cart-p-appprdstgrichstg.lazada.sg
 comadminbkpdmin-p.webproxy.idccastromatusima.lazada.sg
 comadminbkpdmin-p.webproxy.idccastromatusimatracking-staging.lazada.sg
-community-staging.lazada.sg
 conductingmasterclass.ttt.catalog-rendering-api.lazada.sg
 configcenter.edas.lazada.sg
 console-staging.sellercenter.lazada.sg
@@ -346,7 +343,6 @@ eco.wire.community-12g.941descrowdsourcingcheng.lazada.sg
 edas-gw.lazada.sg
 edcba987.staging.wire.community.wwwdpdesc-m-mail70.lazada.sg
 educataloging-renders.edcba987.staging.wire.community.loginprodx-www.lazada.sg
-education.lazada.sg
 education-staging.lazada.sg
 efg456amy.ttt.catalog-rendering-api.lazada.sg
 eic.ttt.catalog-rendering-api.lazada.sg
@@ -385,7 +381,6 @@ ew543210zyxw.wire.community-parkeronline.budget-oppofind.com.nst.auth-supersona5
 ew543210zyxw.wire.community-parkeronline.budget-oppofind.com.nst.opusmobiled1web2310.lazada.sg
 ew543210zyxw.wire.community-parkeronline.budget-oppofind.comhd0.lazada.sg
 fbcallercententernal.sellercenter.wire.communityphoboshihowwwbetaappswww.www.prdstg.lazada.sg
-fc.lazada.sg
 ffile.sg-web.ffinion-enzoas-efind.staging.wire.community-parkeronline.budget.ecoppofind.com-bngintl.lazada.sg
 fichatecnicadm.msp.ttt.catalog-rendering-api.lazada.sg
 filebroker.lazada.sg
@@ -552,7 +547,6 @@ layout-staging.lazada.sg
 laz-postal.lazada.sg
 lazbot.lazada.sg
 laznet-api-pre.lazada.sg
-lazpay.lazada.sg
 lect-health-006-checkout-p.persona52ch.info.04be1c8e.agus.lazada.sg
 lect-health-006-checkout-p.persona52ch.info.agus.lazada.sg
 lepis.r0.rule-pod20.ww29.c9verkaufen-zinfo.lazada.sg
@@ -716,7 +710,6 @@ onsdiamondaddr.edas.lazada.sg
 open.lazada.sg
 openapi.lazada.sg
 openapi-stagingbelectme.redirectme.netcustomerswww-checkout-pdhcp.lazada.sg
-order.lazada.sg
 orders.lazada.sg
 otmbjc.cajajubilaciones.ttt.catalog-rendering-api.lazada.sg
 ouexn-kckj3dudb-bizestudiocellet-xinfoliermavpn.r0.rule-edas-gwweb.r0b-com2ac66staging.lazada.sg
@@ -796,11 +789,9 @@ pokerlandscapetaging.wire.community-12gthedexter.lazada.sg
 pokerlandscapetaging.wire.community-support.lazada.sg
 pornstarbabylon.ttt.catalog-rendering-api.lazada.sg
 postal.lazada.sg
-postal-internal.lazada.sg
 pq-eiut9h80jps6un.bei.ttt.catalog-rendering-api.lazada.sg
 pravdaobaborte.ttt.catalog-rendering-api.lazada.sg
 prdstgsher.lj3-a9876543210z.webproxy.idc-lorien.bh-arppofind.productionscom.lazada.sg
-pre.lazada.sg
 pre-ab.lazada.sg
 pre-abpersona52ch.infohwangjiniwxsm.lazada.sg
 pre-adsence.lazada.sg
@@ -942,7 +933,6 @@ resourcing.wire.community-parkeronline.budget-oppofind.como.ew54384r99z1wf.lazad
 resourcing.wire.community-parkeronline.budget-oppofind.comogiresun.lazada.sg
 response.lazada.sg
 response-staging.lazada.sg
-rest.lazada.sg
 rm-p.lazada.sg
 ros.r0.ruledmin.sellercenter-zac.opusmobilea7.comopam-mah1gemsballet.lazada.sg
 ros.wire.community-parkeronline.budget-oppofind.com.nst.opusmobiled1.sunil-xformhole-topup.lazada.sg
@@ -973,12 +963,9 @@ search-p.lazada.sg
 seller-pre-ab.staging.sipfederationtls.wire.community.www.webapp.lazada.sg
 seller-transparency-api.lazada.sg
 seller-transparency-api-staging.lazada.sg
-sellercenter.lazada.sg
 sellercenter-api.lazada.sg
 sellercenter-global-staging.lazada.sg
-sellercenter-staging.lazada.sg
 sellercenter-staging-api.lazada.sg
-sellercenter-staging-redmart.lazada.sg
 sellercenter-staging-static.lazada.sg
 sellercenter-static.lazada.sg
 sellercenter-station-akamaionsole.wire.community-pre-awww.bloggolden-charm.lazada.sg
@@ -990,7 +977,6 @@ sellet.r0.rule-info-showme.lazada.sg
 service.yajama6.r0.rule-latindc-live.lazada.sg
 service.yajama6.r0.rule-registration-live.lazada.sg
 servicemarket.lazada.sg
-sgsgpostal.lazada.sg
 shop-alimebot.lazada.sg
 shop-decoration-api.lazada.sg
 shop-decoration-api-staging.lazada.sg
@@ -1033,7 +1019,6 @@ static-origin.lazada.sg
 static-staging.lazada.sg
 station.lazada.sg
 station-api.lazada.sg
-store.lazada.sg
 strategyhowpadaughter1vut.wire.communitymail001raid.customshelpweb17039.lazada.sg
 strategyhowpadaughter1vut.wire.communitymail001raid.pam-mah1web17039.lazada.sg
 strategyhowpadaughter1vut.wire.communityqoconne001raid.pam-mah1web17039.lazada.sg
@@ -1277,11 +1262,9 @@ wormazi.sellercenteredcba987.help.suggest-staging.wire.communitycommunity.www-ia
 wormazi.sellercenteredcba987.help.wire.community.www.logincanmei.aana-4-ar.lazada.sg
 wormazi.sellercenteredcba987.openapi.staging.wire.community.www.canmeisupplier-staging.ar.lazada.sg
 wormazi.sellercenteredcba987.pre-cb-customshelp.wire.community.www.fbcallbacking.pre-store-canmei.ar.lazada.sg
-www.lazada.sg
 www-checkout-p-cbf1-ksiegarniajoy-xn-kckj.wire.community.www.panda.info-dill.lazada.sg
 www-dev.lazada.sg
 www-src.lazada.sg
-www.locker.lazada.sg
 www1.m.security.online-banking.redirectme.net.lazada.sg
 xbtgyyyee40vrn3.nablwp.ttt.catalog-rendering-api.lazada.sg
 xe6reedai-cytaty.r0.rule-pod20.ww29.c9verkaufenew54384r9bmbrg.lazada.sg
@@ -1380,7 +1363,6 @@ atlas.services.redirectme.netzz73z.email2.email2.email.lazada.sg
 redirectme.netz73.dmtrace.dmtrace.email.lazada.sg
 nledge-persona52ch.info.lazada.sg
 kr7v5ihmis74jjlf.webproxy.idcvpnfreedp2.www.lax-mya000001ptn-ihg.email2.lazada.sg
-www.google.comjenkinedu5purba.lazada.sg
 redirectme.netz74z.netczy.email2.lazada.sg
 redirectme.netczyzz4.email.email2.email.lazada.sg
 redirectme.netms.email2.lazada.sg.lazada.sg
@@ -1417,7 +1399,7 @@ suggest-lel-sg-stg.lazada.sg
 wire.community.lazada.sg
 redirectme.netzzz5.netczy2.dmtrace2.email2.lazada.sg
 redirectme.netmszz-twdvdzzz.netczy2.email.email.lazada.sg
-www.google.comapri2.mof.lazada.sg
+google.comapri2.mof.lazada.sg
 redirectme.net3.netczy.email.lazada.sg
 pre-gaea.lazada.sg
 redirectme.netzz73.netczy2.dmtrace.email2.lazada.sg
@@ -1444,7 +1426,6 @@ redirectme.netz2.email.email.email.lazada.sg
 redirectme.netczy.gcsd33008ptn-stgdev.email2.lazada.sg.lazada.sg
 redirectme.netms.email.email.email2.lazada.sg
 redirectme.netmszzzz-twdvdzz.netczy2.email2.lazada.sg
-www.google.com.co23916.trustpass-lazadaservlet.lazada.sg
 redirectme.netczyzz4z.netczy2.email.email2.lazada.sg
 fider-community.lazada.sg
 quiz2-builtin.facebook.redirectme.netczy.gcsd33008ptn-stgwallet-xinfo-on.mta49-university5op11655150lydrachat.lazada.sg
@@ -1514,8 +1495,6 @@ redirectme.netas12ww63www.research-asc-cdtest-2iaomiaobaodreamgirl-xsrvjpwinserv
 redirectme.net-twdvdzzzz.email.email2.lazada.sg
 redirectme.netczyzz5z.netczy.email2.lazada.sg
 redirectme.netmszz72.email2.email2.lazada.sg
-www.google.combucky.community-stg-33733.anissa-areariservata-machine.cmnbaliya2.volunteers-mta49.email2.lazada.sg
-www.google.comjenkinedu5lgbt.lazada.sg
 redirectme.netczyzzzzz73z.netczy2.email2.lazada.sg
 sjc.persona52ch.infojeoung252.lazada.sg
 ssc-bot-staging.lazada.sg
@@ -1598,7 +1577,7 @@ redirectme.netczyz-twdvdzzzzzz.email2.email2.lazada.sg
 bugs.redirectme.netczy.gcsd33008ptn-stgwallet-xinfo-on.email2.lazada.sg
 pre-print.order.lazada.sg
 redirectme.netczyz73z.email.dmtrace2.email2.lazada.sg
-www.google.com-open-source-cloud-distribution-4mce5knbeo-m-distribution.lazada.sg
+google.com-open-source-cloud-distribution-4mce5knbeo-m-distribution.lazada.sg
 redirectme.netz4.email.lazada.sg
 pre-xform.lazada.sg
 redirectme.netcnskeweb3788nlcloudcdotsta39survey.email2.lazada.sg.lazada.sg
@@ -1614,7 +1593,6 @@ redirectme.netczyzz5.netczy2.dmtrace2.email.lazada.sg
 quality.community-daily.lazada.sg
 redirectme.netczy7kh.cristovive343budgetsendai-ksiegarniajoy-xn-kckj.lazada.sg
 redirectme.netczyzzzzzz4z.email.email2.email.lazada.sg
-www.redmart.lazada.sg
 redirectme.netczywww.gcsd33008ptn-stgwallet-xinfo-on.email2.lazada.sg.lazada.sg
 redirectme.netczy74.email2.dmtrace2.lazada.sg
 acccs4rcs5.x1-europewest.webproxy.idcvpnfreedp2.www.stagingprdstgj7001021.booking.email2.lazada.sg
@@ -1706,7 +1684,7 @@ redirectme.netczyzzzzz-twdvdzzzzz.email2.email2.lazada.sg
 wire.community.wwwdpdesc-miheb.lazada.sg
 redirectme.netas12ww63www.checkout-p.dev.vpn.m.web6529.ppp235.lazada.sg.lazada.sg
 redirectme.net2z.dmtrace.email.email.lazada.sg
-www.google.combucky-eliejeo-stylist-qz5oyheapa.email2.lazada.sg.lazada.sg
+google.combucky-eliejeo-stylist-qz5oyheapa.email2.lazada.sg.lazada.sg
 redirectme.netzzzzzz2.netczy.email.lazada.sg
 redirectme.netmszzzz73.netczy2.email.lazada.sg
 redirectme.netmszz72.email2.email.email2.lazada.sg
@@ -1721,7 +1699,7 @@ redirectme.netz73.email2.dmtrace2.email.lazada.sg
 redirectme.netczyzz73z.email2.email.lazada.sg
 ops.sellercenter-staging.lazada.sg
 nest.sellercenter.lazada.sg
-www.google.comptes.comjenkinedu5.njtfs-v2-yun-kbm77002.lazada.sg
+google.comptes.comjenkinedu5.njtfs-v2-yun-kbm77002.lazada.sg
 redirectme.netczyzzz75.email.email2.lazada.sg
 redirectme.netzz-twdvdzz.dmtrace2.dmtrace2.email.lazada.sg
 ttt.catalog-university-api.lazada.sg
@@ -1729,7 +1707,7 @@ redirectme.netmszzzzz5.netczy2.email2.lazada.sg
 aws-payments.redirectme.netzz73z.email2.email2.email.lazada.sg
 redirectme.netz3z.dmtrace2.email.lazada.sg
 redirectme.netms2z.netczy2.email.lazada.sg
-www.google.com-open-source-cloud-computing-adsense-distribution.lazada.sg
+google.com-open-source-cloud-computing-adsense-distribution.lazada.sg
 redirectme.net.connectedtv.lazada.sg
 ttt.catalog-notifications-api.lazada.sg
 ex-wsus.redirectme.netczy.gcsd33008ptn-stg-www-checkout-p-infowww.email2.lazada.sg
@@ -1866,7 +1844,7 @@ mdc-img-upload.lazada.sg
 redirectme.netczy.email2.dmtrace2.email.lazada.sg
 redirectme.netczyz2.dmtrace.dmtrace.email.lazada.sg
 redirectme.netczyzzz75.email2.dmtrace2.email2.lazada.sg
-www.google.com-open-source-cloud-computing-static-file-distribution.lazada.sg
+google.com-open-source-cloud-computing-static-file-distribution.lazada.sg
 redirectme.netmszzzzzz.dmtrace2.email.email2.lazada.sg
 redirectme.netzz3z.dmtrace.dmtrace.email2.lazada.sg
 redirectme.netzzzzzz75.email2.lazada.sg
@@ -1891,7 +1869,7 @@ db-nagios.redirectme.netzz73z.email2.email2.email.lazada.sg
 redirectme.netmszzzzz-twdvdzzzzzz.netczy2.email.lazada.sg
 jira.sjc.persona52ch.infoyya.lazada.sg
 redirectme.netczyzzz73.netczy2.email2.email.lazada.sg
-www.google.com-juneufoodmuasalebang.world.lazada.sg
+google.com-juneufoodmuasalebang.world.lazada.sg
 billing-desktop-jahondoing.redirectme.netcnskeweb3788nlcloudcdotsta39-calendar.email2.lazada.sg
 beta-university.lazada.sg
 redirectme.netas12ww63www.research-asc-staticmobilefwsl.dev.vpn.m.web6529.ppp235.lazada.sg
@@ -2076,7 +2054,7 @@ redirectme.netzz-twdvdzzz.netczy2.email.email2.lazada.sg
 redirectme.netmszzzz72.email.email2.email2.lazada.sg
 static-asc-upload.sellercenter.lazada.sg
 redirectme.netzz5.dmtrace.email2.email2.lazada.sg
-www.google.combucky.33733.anissa-areariservata-machine.cmnbaliya2.volunteers-mta49.email2.lazada.sg.lazada.sg
+google.combucky.33733.anissa-areariservata-machine.cmnbaliya2.volunteers-mta49.email2.lazada.sg.lazada.sg
 s1327basana.a9876543210z.webproxy.idc-lorien.bh-arppofindmobileirondmin.com.lazada.sg
 redirectme.netms75z.netczy2.email.lazada.sg
 pre-tplportal.lazada.sg
@@ -2121,7 +2099,7 @@ redirectme.netz-twdvd.netczy2.email2.email2.lazada.sg
 redirectme.netczy.dmtrace2.email2.email2.lazada.sg
 devops-b-persona52ch.infolgq-itf-pre-lighthouse.email2.lazada.sg
 redirectme.net-awjunipernmcredmart.lune.lazada.sg.lazada.sg
-www.google.com-open-taobao-cloud-computing-services-distribution.lazada.sg
+google.com-open-taobao-cloud-computing-services-distribution.lazada.sg
 log-private-gre-host-009vihgfedcba9partner.qa.redirectme.netczy75z.lazada.sg
 redirectme.netz5.netczy.dmtrace2.email2.lazada.sg
 redirectme.netmsz73z.email2.lazada.sg
@@ -2160,7 +2138,6 @@ wire.communitytieshop.254.lazada.sg
 redirectme.netczy5.netczy2.dmtrace.email2.lazada.sg
 redirectme.netczy75.netczy2.dmtrace2.email2.lazada.sg
 redirectme.netz3.dmtrace2.dmtrace2.email2.lazada.sg
-www.google.combucky-oucc21.lazada.sg
 redirectme.netzz5.netczy.dmtrace.email.lazada.sg
 redirectme.netczyzzz.netczy.email2.lazada.sg
 redirectme.netczy.email2.email2.lazada.sg
@@ -2199,7 +2176,6 @@ redirectme.netzzzz5z.email2.email2.lazada.sg
 redirectme.netczyzzz3z.email2.lazada.sg
 redirectme.netczyzz75.email.email2.email.lazada.sg
 redirectme.netczy.externals1235ipmi-stg.email2.lazada.sg.lazada.sg
-www.google.combucky-ouctaiyangchengzenmedaili.lazada.sg
 redirectme.netczy-twdvdzzzzzz.dmtrace.email.email.lazada.sg
 pre-web.lazada.sg
 pre-rta-open.lazada.sg

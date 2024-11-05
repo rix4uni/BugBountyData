@@ -5,7 +5,7 @@ lo1-br02.jfk01.twitch.tv
 phx01.twitch.tv
 en-ca.twitch.tv
 pubsub-edge.chat.twitch.tv
-www.staging.twitch.tv
+staging.twitch.tv
 netnod-ix-ge-a-sth-4470.twitch.tv
 stage-origin.twitch.tv
 uploads-vgn.twitch.tv
@@ -19,7 +19,7 @@ live-lhr03.twitch.tv
 clips-beta-internal.twitch.tv
 chat.twitch.tv
 live-cdg-priv.twitch.tv
-www.th.blog.twitch.tv
+th.blog.twitch.tv
 prodpreview-extensions-worker.sings.twitch.tv
 tachyon-618ltf726387nm8o2xv8v5kwt436sljm.twitch.tv
 devportal-staging.twitch.tv
@@ -111,7 +111,7 @@ stats.twitch.tv
 tmi.twitch.tv
 swarms.sings.twitch.tv
 support.dev.twitch.tv
-www.embed.twitch.tv
+embed.twitch.tv
 noopwww.twitch.tv
 fan.twitch.tv
 click.twitch.tv
@@ -142,7 +142,6 @@ science.twitch.tv
 rpg.twitch.tv
 live-sel01.twitch.tv
 staging.us-west2.twitch.tv
-www.app.twitch.tv
 sfmarketing.twitch.tv
 mail6.twitch.tv
 event-panel.event-engineering.twitch.tv
@@ -159,7 +158,7 @@ ar.twitch.tv
 live-jfk-2.twitch.tv
 live-ord02.twitch.tv
 lo1-br01.arn01.twitch.tv
-www.kr.blog.twitch.tv
+kr.blog.twitch.tv
 e1-1-br01-ord01.twitch.tv
 cis.blog.twitch.tv
 sings-extension.twitch.tv
@@ -177,7 +176,6 @@ prod.us-west2.twitch.tv
 live-iad-2-priv.twitch.tv
 live-phx.twitch.tv
 v101-br.jfk01.twitch.tv
-www.it.blog.twitch.tv
 owl.staging.internal.us-west-2.twitch.tv
 servers.twitch.tv
 live-ams02.twitch.tv
@@ -201,7 +199,6 @@ gap-v6-bbr.event-engineering.twitch.tv
 m7g.twitch.tv
 web-cdn-ttvnw-net.web-cdn.twitch.tv
 mail4.twitch.tv
-th.blog.twitch.tv
 api.us-west-2.internal.twitch.tv
 cell-b.eventsub.wss.twitch.tv
 live-sjc.twitch.tv
@@ -232,7 +229,7 @@ ipv4.de-cix.fra.de.as46489.twitch.tv
 staging-api-alb.dev.us-west2.twitch.tv
 live-ord03-priv.twitch.tv
 clipmn.twitch.tv
-www.streamaid.twitch.tv
+streamaid.twitch.tv
 cloud.marketing.twitch.tv
 websub-test-proxy.twitch.tv
 clips-media-assets.twitch.tv
@@ -308,7 +305,7 @@ live-ams.twitch.tv
 ko.twitch.tv
 live-xbox.twitch.tv
 rtmp.twitch.tv
-www.nl.blog.twitch.tv
+nl.blog.twitch.tv
 api.twitch.tv
 twitchboard-prod.twitch.tv
 creative.twitch.tv
@@ -366,7 +363,6 @@ six1-sea01.twitch.tv
 pubsub-edge.twitch.tv
 sings-download.twitch.tv
 stargate.staging.us-west2.twitch.tv
-www.blog.twitch.tv
 twi.twitch.tv
 twitch-2.decix-dfw.twitch.tv
 twitchtv-peer-200p-spectrum.twitch.tv
@@ -404,7 +400,6 @@ fr-ca.twitch.tv
 live-bkk.twitch.tv
 live-rio.twitch.tv
 lo1-br01.cdg01.twitch.tv
-www.pl.blog.twitch.tv
 th.rpg.twitch.tv
 mew.twitch.tv
 polls.twitch.tv
@@ -420,7 +415,7 @@ api.chat.twitch.tv
 live-sjc-priv.twitch.tv
 stream.twitch.tv
 v201-br.fra01.twitch.tv
-www.pt.blog.twitch.tv
+pt.blog.twitch.tv
 pages.marketing.twitch.tv
 edge-beta.ads.twitch.tv
 help.twitch.tv
@@ -465,7 +460,6 @@ panels-staging.twitch.tv
 test.twitch.tv
 live-vie.twitch.tv
 v101-br01.iad01.twitch.tv
-staging.twitch.tv
 de-cix1.mad.twitch.tv
 mail5.twitch.tv
 switch.tv.twitch.tv
@@ -500,7 +494,6 @@ store.twitch.tv
 zerxam.tmi.twitch.tv
 clock.event-engineering.twitch.tv
 pong.twitch.tv
-embed.twitch.tv
 live-ord.twitch.tv
 rv.twitch.tv
 live-atl-priv.twitch.tv
@@ -516,14 +509,12 @@ de-cix.asean.twitch.tv
 live-osl.twitch.tv
 live-lim.twitch.tv
 support.twitch.tv
-www.fr.blog.twitch.tv
 de.blog.twitch.tv
 stg.moonlight.twitch.tv
 client-event-reporter.twitch.tv
 live-hel-priv.twitch.tv
 live-jfk-priv.twitch.tv
 lo1-br02.dfw01.twitch.tv
-www.es.blog.twitch.tv
 pt-br.twitch.tv
 origin-www.twitch.tv
 us-west-2.roundtrip.twitch.tv
@@ -534,13 +525,11 @@ v101-br.ams01.twitch.tv
 live-lhr-priv.twitch.tv
 live-pdx-priv.twitch.tv
 lg.tv.twitch.tv
-nl.blog.twitch.tv
 devbeta.twitch.tv
 live-fra02.twitch.tv
 view.marketing.twitch.tv
 status.twitch.tv
 us-west2.twitch.tv
-www.tr.blog.twitch.tv
 celadon-arztjmkowcbjjgq11.tv.twitch.tv
 lost.staging.m.twitch.tv
 it.twitch.tv
@@ -556,12 +545,10 @@ tv.twitch.tv
 vizima.twitch.tv
 live-mil-priv.twitch.tv
 connections.staging.internal.us-west-2.twitch.tv
-www.de.blog.twitch.tv
 assets.twitch.tv
 bits.twitch.tv
 aws.twitch.tv
 v101-br01.ams01.twitch.tv
-www.cis.blog.twitch.tv
 mta2.sfmarketing.twitch.tv
 canary-extensions-worker.sings.twitch.tv
 production.stargate.edge.internal.twitch.tv
@@ -569,7 +556,6 @@ ap-southeast-1.uploads-regional.twitch.tv
 live-atl.twitch.tv
 br01.hel01.twitch.tv
 vod-metro.twitch.tv
-streamaid.twitch.tv
 us-west-2.rtmp.moonlight.twitch.tv
 fra01.twitch.tv
 live-hkg-priv.twitch.tv
@@ -582,7 +568,6 @@ mskix.twitch.tv
 sings-extension-ext23.twitch.tv
 live-yto-priv.twitch.tv
 v101-br.iad01.twitch.tv
-www.jp.blog.twitch.tv
 zh-tw.twitch.tv
 live-dfw.twitch.tv
 live-lax.twitch.tv
@@ -601,12 +586,10 @@ live-iad05.twitch.tv
 live-mrs.twitch.tv
 live-den.twitch.tv
 localhost.twitch.tv
-www.se.blog.twitch.tv
 ingest-lb-ext.twitch.tv
 votey-mcvoteface.twitch.tv
 scoop.twitch.tv
 de.twitch.tv
-kr.blog.twitch.tv
 cfl.gql.twitch.tv
 live-tpe.twitch.tv
 live-tpe03.twitch.tv
@@ -634,7 +617,6 @@ discovery.twitch.tv
 origin.edge-beta.ads.twitch.tv
 gap-v4-bbr.event-engineering.twitch.tv
 cell-a.eventsub.wss.twitch.tv
-www.player.twitch.tv
 badges.production.us-west2.twitch.tv
 da.twitch.tv
 jfk01.twitch.tv
@@ -642,16 +624,14 @@ lo1-br01.ord01.twitch.tv
 live-eric.twitch.tv
 live-sel03.twitch.tv
 tr.twitch.tv
-www.twitch.tv
 deskmigration.twitch.tv
 dev.twitch.tv
 dartui.prod.us-west2.twitch.tv
 hu.twitch.tv
-www.gql.twitch.tv
 localhost.rig.twitch.tv
 live-priv.twitch.tv
 live-slc.twitch.tv
-www.tw.blog.twitch.tv
+tw.blog.twitch.tv
 vhs-registry.internal.twitch.tv
 prod-web-upload-service.prod.us-west2.twitch.tv
 live-hou.twitch.tv
@@ -665,7 +645,6 @@ live-slc-priv.twitch.tv
 live-waw.twitch.tv
 lo1-br02.ord01.twitch.tv
 connections-staging.internal.twitch.tv
-tw.blog.twitch.tv
 extension-files.twitch.tv
 live-jfk.twitch.tv
 www-origin.twitch.tv
@@ -674,7 +653,6 @@ launcher.twitch.tv
 owl.dev.id.internal.us-west-2.twitch.tv
 ro.twitch.tv
 wss-beta.twitch.tv
-pt.blog.twitch.tv
 singsbeta.twitch.tv
 extensions.sings.twitch.tv
 v4-mtu9k-six1-sea01.twitch.tv

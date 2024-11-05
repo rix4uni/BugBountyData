@@ -1,4 +1,3 @@
-*.lcx.com
 accounts.lcx.com
 admin.lcx.com
 bounty.lcx.com
@@ -25,7 +24,6 @@ terminal-public-api.lcx.com
 terminal-stream.lcx.com
 tiamonds-staging.lcx.com
 web.lcx.com
-www.lcx.com
 accounts-api.lcx.com
 api-kline.lcx.com
 defi-api.lcx.com
@@ -39,7 +37,7 @@ microsoft.lcx.com
 sale-roevwade-staging.lcx.com
 vizio.lcx.com
 wallets-api.lcx.com
-www.aetna.lcx.com
+aetna.lcx.com
 terminal-api-staging.lcx.com
 admin-staging-v2.lcx.com
 demo-exchange-api.lcx.com

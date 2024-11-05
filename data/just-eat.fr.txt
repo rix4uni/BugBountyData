@@ -93,9 +93,8 @@ ap-mon-p1-onebox.frontend.office.prod.clops.just-eat.fr
 ap-bbg-0063.frontend.office.prod.clops.just-eat.fr
 2-imap-p1-h5a.frontend.office.prod.clops.just-eat.fr
 bounce-shop-awards.frontend.office.prod.clops.just-eat.fr
-www.just-eat.fr
 tqmobile.1.frontend.office.prod.clops.just-eat.fr
-www.staging.just-eat.fr
+staging.just-eat.fr
 bounce.news.just-eat.fr
 c95.frontend.office.prod.clops.just-eat.fr
 mail.just-eat.fr
@@ -108,7 +107,6 @@ partner.just-eat.fr
 connect.just-eat.fr
 update.just-eat.fr
 o1.email.just-eat.fr
-staging.just-eat.fr
 corporate.just-eat.fr
 orders.just-eat.fr
 webdisk.staging.just-eat.fr
@@ -191,12 +189,6 @@ assets.just-eat.fr
 betacode.just-eat.fr
 zendesk1.just-eat.fr
 zendesk4.just-eat.fr
-*.just-eat.fr
-*.feature.just-eat.fr
-*.frontend.office.prod.clops.just-eat.fr
-*.frontend.office.stag.clops.just-eat.fr
-*.orders.just-eat.fr
-*.emails.just-eat.fr
 ridewith.just-eat.fr
 cpair.1.frontend.office.prod.clops.just-eat.fr
 zendesk2.just-eat.fr

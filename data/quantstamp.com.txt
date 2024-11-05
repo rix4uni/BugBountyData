@@ -10,8 +10,7 @@ sp.quantstamp.com
 en.quantstamp.com
 info.quantstamp.com
 betanet.quantstamp.com
-www.earn.quantstamp.com
-www.quantstamp.com
+earn.quantstamp.com
 prod.internalapps.quantstamp.com
 zh.quantstamp.com
 t-poc-demo.quantstamp.com
@@ -52,6 +51,5 @@ app.quantstamp.com
 eu-north-1.testnet-prod.zkrollups.quantstamp.com
 al-ebs-new.quantstamp.com
 dev.poc.quantstamp.com
-earn.quantstamp.com
 token.quantstamp.com
 oyaas-dev.quantstamp.com

@@ -305,7 +305,7 @@ renlisterus-i.bmwgroup.com
 webfmscp.bmwgroup.com
 int-web-csp-ml7.bmwgroup.com
 int-osmaster7.bmwgroup.com
-www.connecteddrive-event.bmwgroup.com
+connecteddrive-event.bmwgroup.com
 navip.bmwgroup.com
 bchmyh2-e2e-us.bmwgroup.com
 puma.bmwgroup.com
@@ -539,7 +539,7 @@ aos-ts.bmwgroup.com
 crm2015-ml.bmwgroup.com
 h5vco-preprod-mini.bmwgroup.com
 osmaster5.bmwgroup.com
-www.aida-prd.bmwgroup.com
+aida-prd.bmwgroup.com
 b2d-otb2-i.bmwgroup.com
 smstqc-reptest.bmwgroup.com
 imm-int4-gf3.bmwgroup.com
@@ -596,7 +596,7 @@ ilz-device-test.bmwgroup.com
 hdsl-i.bmwgroup.com
 onl-osmc-i.bmwgroup.com
 ispanext-device-test-us.bmwgroup.com
-www.artcar-i.bmwgroup.com
+artcar-i.bmwgroup.com
 wwwt2.bmwgroup.com
 new.bmwgroup.com
 pvmessage.cn.bmwgroup.com
@@ -626,7 +626,7 @@ bac.bmwgroup.com
 pumat.bmwgroup.com
 wcms3apps.bmwgroup.com
 annual-report2011.bmwgroup.com
-www.annual-report2013.bmwgroup.com
+annual-report2013.bmwgroup.com
 dealerserviceclaimsus-t.bmwgroup.com
 cfdifst.bmwgroup.com
 cosy04-int.bmwgroup.com
@@ -668,7 +668,6 @@ int-web-fass-uk.bmwgroup.com
 cosy03-int.bmwgroup.com
 adfw12-qa1.bmwgroup.com
 myair-bdr-qa.bmwgroup.com
-aida-prd.bmwgroup.com
 360reporting.bmwgroup.com
 nccsb2d-int.bmwgroup.com
 secure.bmwgroup.com
@@ -902,7 +901,7 @@ sgem-es.bmwgroup.com
 obp-i.bmwgroup.com
 webfmsci.bmwgroup.com
 int-opinions-click.bmwgroup.com
-www.bmwi-i.bmwgroup.com
+bmwi-i.bmwgroup.com
 zeprid-auth.bmwgroup.com
 rsp-crm-test1.bmwgroup.com
 alertnowip10.bmwgroup.com
@@ -916,7 +915,6 @@ codisvc-gk-if-test.bmwgroup.com
 ukdealer.bmwgroup.com
 csp-gftus.bmwgroup.com
 bch-us.bmwgroup.com
-www.artcar.bmwgroup.com
 at-ke.bmwgroup.com
 test.swg-mx.bmwgroup.com
 annual-report2017.bmwgroup.com
@@ -1158,7 +1156,6 @@ ecomi.bmwgroup.com
 moss-app-int2.bmwgroup.com
 analytics-rcp-next.bmwgroup.com
 charging-na-inttest.bmwgroup.com
-annual-report2013.bmwgroup.com
 awaiceh-test-emea.bmwgroup.com
 pkz-device-qa.bmwgroup.com
 itsn-qa-us.bmwgroup.com
@@ -1365,7 +1362,7 @@ h5vco-bmw-test.bmwgroup.com
 aos.bmwgroup.com
 usp11-dev.bmwgroup.com
 cosy02.bmwgroup.com
-www.aftersales.bmwgroup.com
+aftersales.bmwgroup.com
 uscdservices.bmwgroup.com
 ee-tmpbmi.bmwgroup.com
 integration.wissensfinder.bmwgroup.com
@@ -1395,7 +1392,6 @@ s4d-apis.asbc-int-emea.bmwgroup.com
 cargo-auth-everis-int.bmwgroup.com
 cfs-ie.bmwgroup.com
 materialdealer-es-int.bmwgroup.com
-www.connecteddrive.bmwgroup.com
 ucp-central.bmwgroup.com
 cfs-int3-maint.bmwgroup.com
 web-drm-uk.bmwgroup.com
@@ -1576,7 +1572,7 @@ wmsit.bmwgroup.com
 aftersales-checklist-dev.bmwgroup.com
 pkz-device-prod.bmwgroup.com
 at-gkm.bmwgroup.com
-www.connecteddrive-i.bmwgroup.com
+connecteddrive-i.bmwgroup.com
 vfcsas.bmwgroup.com
 caesar-info-int.bmwgroup.com
 aem-author-pre3.bmwgroup.com
@@ -1692,14 +1688,12 @@ rtl-services-b2d.bmwgroup.com
 customercare-i.bmwgroup.com
 int-static10-osmaster.bmwgroup.com
 cosy06.bmwgroup.com
-connecteddrive-event.bmwgroup.com
 vew.bmwgroup.com
 casai.bmwgroup.com
 dws.bmwgroup.com
 test-web-rr-tic-uk.bmwgroup.com
 eulabel-i.bmwgroup.com
 aem-author-pre6.bmwgroup.com
-www.bmwgroup.com
 test-web-drm-uk.bmwgroup.com
 tst-b2vapi.bmwgroup.com
 int-web-j-forms-uk.bmwgroup.com
@@ -1979,7 +1973,6 @@ kai-user-qa-eam.bmwgroup.com
 sgate2-int-apac.bmwgroup.com
 xpita-green.bmwgroup.com
 pita-dev.bmwgroup.com
-www.einvoicing.bmwgroup.com
 dcsus.bmwgroup.com
 ebest-gf5-int2.bmwgroup.com
 srpmm-api-i.bmwgroup.com
@@ -1990,7 +1983,6 @@ jobs.bmwgroup.com
 ispanext-device-qa-cn-weam.bmwgroup.com
 zadea-i.bmwgroup.com
 dealerportalid-prod.bmwgroup.com
-www.bericht2020.bmwgroup.com
 df3test-bmwinfobahn.bmwgroup.com
 ispanext-user-qa-ig-weam.bmwgroup.com
 b2dua4.bmwgroup.com
@@ -2008,17 +2000,13 @@ noaifa.bmwgroup.com
 msds-prod.bmwgroup.com
 dadosaberto-t.bmwgroup.com
 air-services-qa1-wen-basic.bmwgroup.com
-www.charging.bmwgroup.com
 kasio-b2d-qa1-wen.bmwgroup.com
 dealerportalsg-int.bmwgroup.com
 msdcrm365-int.bmwgroup.com
 plw-prod1.bmwgroup.com
-www.powertrain.bmwgroup.com
 dloyaltyreport.cn.bmwgroup.com
-www.bmwmuseumapp.bmwgroup.com
 xpita.bmwgroup.com
 uat-infobahn.bmwgroup.com
-www.press.bmwgroup.com
 air-services-b2i-int.bmwgroup.com
 osm-cloud-uat-kr.bmwgroup.com
 spf.bmwgroup.com
@@ -2035,7 +2023,6 @@ asapp-content-b2i.bmwgroup.com
 dev.api.dps.bmwgroup.com
 api.dps.bmwgroup.com
 dloyaltydealer.cn.bmwgroup.com
-www.report2020.bmwgroup.com
 dly.api.dps.bmwgroup.com
 etk-b2d-cn-eam.bmwgroup.com
 dvpigf5we.bmwgroup.com
@@ -2064,10 +2051,10 @@ zacrm-dev.bmwgroup.com
 webcalculator-prod.bmwgroup.com
 cfs-int7.bmwgroup.com
 extranet-bwint1-wen-premium.bmwgroup.com
-www.service-check-in-latam.bmwgroup.com
+service-check-in-latam.bmwgroup.com
 zap09focus-i.bmwgroup.com
 nicce-bh-int1.bmwgroup.com
-www.presstopic-i.bmwgroup.com
+presstopic-i.bmwgroup.com
 irapbdrius.bmwgroup.com
 air2-eam.bmwgroup.com
 jpsgw1-new.bmwgroup.com
@@ -2186,10 +2173,10 @@ api.ispaservices-prod.bmwgroup.com
 tric-device-smuc1-prod-cn.bmwgroup.com
 services.ddaus.prod.bmwgroup.com
 opus-int-aws.bmwgroup.com
-www.ustechapp.bmwgroup.com
+ustechapp.bmwgroup.com
 osm-sprint3-de-motorrad.bmwgroup.com
 remarketing-ar-prod-wen.bmwgroup.com
-www.ims-cfg.bmwgroup.com
+ims-cfg.bmwgroup.com
 psdmweb-wenmig-p.bmwgroup.com
 testing-new-practice101.bmwgroup.com
 air-services-qa1-eam.bmwgroup.com
@@ -2261,13 +2248,13 @@ pbpde-int-internet2.bmwgroup.com
 meethr-int.bmwgroup.com
 velocity-int.bmwgroup.com
 t7.nordics-1.bmwgroup.com
-www.dsp-stag-bmw.bmwgroup.com
+dsp-stag-bmw.bmwgroup.com
 web-epdn-nn.bmwgroup.com
 testdrive-int-au.bmwgroup.com
 sasnext-int.bmwgroup.com
 sgate2-test-acn.bmwgroup.com
 sgate1-int.bmwgroup.com
-www.customer-community.bmwgroup.com
+customer-community.bmwgroup.com
 osm-sprint3-uk-bmw.bmwgroup.com
 lt-api-int.cn.bmwgroup.com
 sustainability-newsletter.bmwgroup.com
@@ -2345,7 +2332,6 @@ uvm-aw-int.bmwgroup.com
 int.foclient.rent.bmwgroup.com
 cosydev-int.bmwgroup.com
 migration-demo-final-1012.bmwgroup.com
-bmwi-i.bmwgroup.com
 self-service.apim-beta-dev.bmwgroup.com
 agile.toolbox.bmwgroup.com
 adfqa2.bmwgroup.com
@@ -2359,7 +2345,7 @@ myair-b2i-qa1.bmwgroup.com
 document-wrapper-service.bmwgroup.com
 auth-next.bmwgroup.com
 mpos-preprd-temp.bmwgroup.com
-www.vote-int.bmwgroup.com
+vote-int.bmwgroup.com
 hdds3-wen-sgate.bmwgroup.com
 itsn-prod-us-deprecated.bmwgroup.com
 osm-cloud-fed-kr.bmwgroup.com
@@ -2600,7 +2586,7 @@ trz-sfa-qa-us-wen.bmwgroup.com
 qsense-emea-analytics-dev-b2d.bmwgroup.com
 cs-dna-wen-int.bmwgroup.com
 s-osb-cert-qa2-eam.bmwgroup.com
-www.dsp-stag-ecp.bmwgroup.com
+dsp-stag-ecp.bmwgroup.com
 al-telematics-p.bmwgroup.com
 origin-mocu-int.bmwgroup.com
 migration-demo-final-5007.bmwgroup.com
@@ -2717,7 +2703,6 @@ testing-mig-gf5-10024.bmwgroup.com
 milesbeintnew.bmwgroup.com
 kai-device-prod-wen.bmwgroup.com
 prosd.bmwgroup.com
-www.zeprid-int.bmwgroup.com
 usedcar.bmwgroup.com
 lima-int.bmwgroup.com
 dev-bmwinfobahn.bmwgroup.com
@@ -2815,13 +2800,11 @@ vinlookup-i.bmwgroup.com
 ms.sgate-dev.bmwgroup.com
 sgp01stocklocator-intg.bmwgroup.com
 tracy.bmwgroup.com
-www.zepridi-a.bmwgroup.com
 trz-toyota-qa.bmwgroup.com
 securedapi-i.bmwgroup.com
 uatparalleldfe.bmwgroup.com
 pos-cdn.bmwgroup.com
 cfs-int7-wen-nasfree.bmwgroup.com
-dsp-stag-ecp.bmwgroup.com
 apim-alpha-prod.bmwgroup.com
 dev.ris.bmwgroup.com
 gdb-t.bmwgroup.com
@@ -2978,7 +2961,7 @@ zadea-int.bmwgroup.com
 modgw1-n.bmwgroup.com
 crmel.bmwgroup.com
 delmanager-prod.bmwgroup.com
-www.us-tech-app-test.bmwgroup.com
+us-tech-app-test.bmwgroup.com
 app.aos-portal-i.bmwgroup.com
 int-wen-fte.bmwgroup.com
 ddrportalb2d-i.bmwgroup.com
@@ -2987,7 +2970,7 @@ webeam-2011.bmwgroup.com
 rce-request.opus-int.bmwgroup.com
 ipa-us.bmwgroup.com
 netftnoa3-test.bmwgroup.com
-www.td-dealerportal-int-au.bmwgroup.com
+td-dealerportal-int-au.bmwgroup.com
 dokmajob.bmwgroup.com
 ivsrfei2.bmwgroup.com
 was-ml7.bmwgroup.com
@@ -3019,11 +3002,9 @@ monitoring.opus-int.bmwgroup.com
 air-services-bdr-qa1.bmwgroup.com
 digitalshowroom-int.bmwgroup.com
 fsm-overview.opus-test.bmwgroup.com
-www.td-dealerportal-au.bmwgroup.com
 dvpigf4we-ws.bmwgroup.com
 onl-osmc-b2i-gfv4.bmwgroup.com
 testing-auto-813.bmwgroup.com
-www.sig.bmwgroup.com
 ispanext-user-qa2-cn-weam.bmwgroup.com
 cfs-de-int1.bmwgroup.com
 xpita-b2d-blue.bmwgroup.com
@@ -3060,7 +3041,7 @@ testing-auto-401.bmwgroup.com
 kasio-b2d-qa1.bmwgroup.com
 ilz-user-prod-gf4.bmwgroup.com
 trz-service-qa-us-nas.bmwgroup.com
-www.live-i.bmwgroup.com
+live-i.bmwgroup.com
 rsp-dcomc-int1.bmwgroup.com
 trainingmedia-new.bmwgroup.com
 prodstby-fa-be-alph.bmwgroup.com
@@ -3082,7 +3063,6 @@ vcs-int-api.bmwgroup.com
 dfeit-t.bmwgroup.com
 bmwi.bmwgroup.com
 msdcrm365.bmwgroup.com
-us-tech-app-test.bmwgroup.com
 origin-rsu-emea-prod.bmwgroup.com
 heidi-i1maint.bmwgroup.com
 rsc-prod-gfv5.bmwgroup.com
@@ -3107,7 +3087,7 @@ techradar-int.bmwgroup.com
 vsrus-int.bmwgroup.com
 chelpprod.bmwgroup.com
 pure-e2e.bmwgroup.com
-www.placementpool-i.bmwgroup.com
+placementpool-i.bmwgroup.com
 ivsrbewls.bmwgroup.com
 osm-sprint1-de-bmw.bmwgroup.com
 rmi-cn-int.bmwgroup.com
@@ -3192,7 +3172,6 @@ web-kvk-t.bmwgroup.com
 semcrm-int.bmwgroup.com
 api.ispaservices-int.bmwgroup.com
 bpsfshk.bmwgroup.com
-dsp-stag-bmw.bmwgroup.com
 tric-sfa-prod.bmwgroup.com
 cc-omc-gw-emea-int-nf.bmwgroup.com
 cargo-auth-device-qa2.bmwgroup.com
@@ -3238,7 +3217,7 @@ sgate2-int-login.bmwgroup.com
 symphonia-test.bmwgroup.com
 customer-community-dev.bmwgroup.com
 us.sgate-dev.bmwgroup.com
-www.press-gf4.bmwgroup.com
+press-gf4.bmwgroup.com
 myair2-b2d-us.bmwgroup.com
 tric-device-smuc2-qa-cn-temp.bmwgroup.com
 wen-aos-q2.bmwgroup.com
@@ -3385,7 +3364,7 @@ web-complaints-oidc.bmwgroup.com
 asbontest-nf.bmwgroup.com
 dsdus-int.bmwgroup.com
 migration-testing5004.bmwgroup.com
-www.placementpool-neu.bmwgroup.com
+placementpool-neu.bmwgroup.com
 ipa-ui-us.bmwgroup.com
 one-i.bmwgroup.com
 dvpgf5we.bmwgroup.com
@@ -3450,13 +3429,13 @@ test-nas-based.bmwgroup.com
 msdcrm365-ml.bmwgroup.com
 order-overview.opus-test.bmwgroup.com
 dev-weblogic-bwms.bmwgroup.com
-www.bmwfs-temp.bmwgroup.com
+bmwfs-temp.bmwgroup.com
 integration-cmsnfsc-india.bmwgroup.com
 plaza.bmwgroup.com
 dsp2za-auth.uat.bmwgroup.com
 at-bonuswen.bmwgroup.com
 test.mini-mx-nf.bmwgroup.com
-www.press-i-gf4.bmwgroup.com
+press-i-gf4.bmwgroup.com
 aem-author-prodn2.bmwgroup.com
 hakat-b2i-int.bmwgroup.com
 dyna-jira.bmwgroup.com
@@ -3477,7 +3456,6 @@ sparc.bmwgroup.com
 trz-bdr-prod.bmwgroup.com
 datafox-t.bmwgroup.com
 noaifa-test5.bmwgroup.com
-www.configure.bmwgroup.com
 apim-edge.bmwgroup.com
 sofiadealer-wen.bmwgroup.com
 finance-i-bmwfs-neu.bmwgroup.com
@@ -3508,7 +3486,7 @@ osm-nec-uat-cn-bmw.bmwgroup.com
 dealernetza-i.bmwgroup.com
 order-overview.opus-int.bmwgroup.com
 osm-cloud-uat-de-nl.bmwgroup.com
-www.ucrmktadmin.bmwgroup.com
+ucrmktadmin.bmwgroup.com
 oasisza-i.bmwgroup.com
 ispanext-user-prod-us-gf4.bmwgroup.com
 trainingmedia-i.bmwgroup.com
@@ -3573,7 +3551,7 @@ warranty-management-gen2.bmwgroup.com
 bmwjira-int.cn.bmwgroup.com
 adfus-qa2-wen12-2.bmwgroup.com
 b2d-mct-test-gf5.bmwgroup.com
-www.press-neu.bmwgroup.com
+press-neu.bmwgroup.com
 td-dealerportal-int-japan.bmwgroup.com
 dly.api.mobilitygraph.bmwgroup.com
 dsi-int.bmwgroup.com
@@ -3642,7 +3620,6 @@ milesnlintwen.bmwgroup.com
 incentivesus-p.bmwgroup.com
 fleetdata-int.bmwgroup.com
 alphabetonline-wls122-old.bmwgroup.com
-www.presstopic.bmwgroup.com
 nkamextp.bmwgroup.com
 bmwcardata1.bmwgroup.com
 thirdpartyloginint.bmwgroup.com
@@ -3695,11 +3672,9 @@ psisweb-prod.bmwgroup.com
 delivery-app-int-int.bmwgroup.com
 sgb89.dgspjxc.comsgate-na-int.bmwgroup.com
 hatsi-o.bmwgroup.com
-www.bmwtechinfo.bmwgroup.com
 dfeservices-i.bmwgroup.com
 contenthub-de-sm.bmwgroup.com
 heidi-gf5-i1.bmwgroup.com
-vote-int.bmwgroup.com
 rema-i2.bmwgroup.com
 int-retailerhub-rr.bmwgroup.com
 awaiceh-int-emea.bmwgroup.com
@@ -3748,7 +3723,7 @@ dsm-test.bmwgroup.com
 test-retailerhub-rr.bmwgroup.com
 cms-containerprices-inet-prod.bmwgroup.com
 cmtamx6a.bmwgroup.com
-www.live.bmwgroup.com
+live.bmwgroup.com
 n3wen-int.bmwgroup.com
 tric-pki-cbb-fe-qa-cn.bmwgroup.com
 preownedweb-us.bmwgroup.com
@@ -3787,7 +3762,6 @@ imservices-www-int.bmwgroup.com
 salportalne-i.bmwgroup.com
 m2mscope2.bmwgroup.com
 testing-auto-409.bmwgroup.com
-www.ispaservices-qa.bmwgroup.com
 delivery-app-test.bmwgroup.com
 temp-sfeapp-int.bmwgroup.com
 tsara-intuat-b2d.bmwgroup.com
@@ -3805,7 +3779,7 @@ fleetdata-api-e2e.bmwgroup.com
 schwacke-lt.bmwgroup.com
 weni-basicauth-dynatrace.bmwgroup.com
 wen-ig-oss-apps-qa1.bmwgroup.com
-www.dsp-stag-dlm.bmwgroup.com
+dsp-stag-dlm.bmwgroup.com
 creditcheck-int.bmwgroup.com
 dsd.bmwgroup.com
 xpita-b2d.bmwgroup.com
@@ -3948,7 +3922,7 @@ apim.bmwgroup.com
 gcdm-oneid-b.aws-backend.customer-i.bmwgroup.com
 trz-sfa-qa-wen.bmwgroup.com
 bemiweb-prod-neu.bmwgroup.com
-www.ipress-n.bmwgroup.com
+ipress-n.bmwgroup.com
 osm-cloud-int-uk-mini.bmwgroup.com
 micslpdev-webeam.bmwgroup.com
 immx-int3.bmwgroup.com
@@ -3967,7 +3941,7 @@ raedersstigf5.bmwgroup.com
 eccza-prodtest.bmwgroup.com
 kai-device-preprod-wen.bmwgroup.com
 heidi-i1.bmwgroup.com
-www.service-check-in-latam-int.bmwgroup.com
+service-check-in-latam-int.bmwgroup.com
 cssl-int-indop.bmwgroup.com
 dfegateway-t-nf.bmwgroup.com
 neainfra-eu.bmwgroup.com
@@ -4058,7 +4032,6 @@ aos-aws-qa1.bmwgroup.com
 apigee.mule-int.bmwgroup.com
 fisp-wen.bmwgroup.com
 asbonusitaprod.bmwgroup.com
-www.service-check-in.bmwgroup.com
 forgerock.aws-backend.customer-i.bmwgroup.com
 dirresponder-ext.bmwgroup.com
 testing-auto-802.bmwgroup.com
@@ -4075,7 +4048,7 @@ infobahnparallel.bmwgroup.com
 directfinance-new.bmwgroup.com
 cms-containermovements.bmwgroup.com
 crm-sfdc-api-us-int.bmwgroup.com
-www.ims-cfg-int.bmwgroup.com
+ims-cfg-int.bmwgroup.com
 ddp-uat.bmwgroup.com
 isiscbi-neu.bmwgroup.com
 dly-cocoapi.bmwgroup.com
@@ -4087,14 +4060,12 @@ int-web-tic-mini-cn-ml7.bmwgroup.com
 test-automate635.bmwgroup.com
 cfs-fr-int2.bmwgroup.com
 migration-testing102.bmwgroup.com
-www.placementpool.bmwgroup.com
 myair-b2i-i.bmwgroup.com
 rsdm-prod-o2.bmwgroup.com
 wen-april-i.bmwgroup.com
 qsense-aspire-es-dev-b2d.bmwgroup.com
 ilz-device-int4-py5.bmwgroup.com
 wdf-int2.bmwgroup.com
-www.partsi-n.bmwgroup.com
 wcminter-4.bmwgroup.com
 dmwf-int-cdn.bmwgroup.com
 tqc-b2d-temp.bmwgroup.com
@@ -4154,7 +4125,7 @@ qsense-emea-prod-b2d.bmwgroup.com
 customercare-test.bmwgroup.com
 xrm-crm2015-int.bmwgroup.com
 testing-auto-809.bmwgroup.com
-www.codex.bmwgroup.com
+codex.bmwgroup.com
 miniusagf4.bmwgroup.com
 dtos-mini-iv5.bmwgroup.com
 test-retailerhub-cloud-cs.bmwgroup.com
@@ -4239,7 +4210,6 @@ fsm-overview.opus-qa.bmwgroup.com
 rcp-next.bmwgroup.com
 vcs-gf4-i.bmwgroup.com
 crm-il-api-dev.bmwgroup.com
-customer-community.bmwgroup.com
 kai-user-int.bmwgroup.com
 qa-iucp.bmwgroup.com
 customer-temp.bmwgroup.com
@@ -4267,8 +4237,7 @@ ldb-vmw-bmw-comssl.bmwgroup.com
 int-mdsuk.bmwgroup.com
 migration-testing30010.bmwgroup.com
 vwh-services-i.bmwgroup.com
-www.dsp-stag-motorrad.bmwgroup.com
-www.partsi.bmwgroup.com
+dsp-stag-motorrad.bmwgroup.com
 api.aftersales-configuration-dev.bmwgroup.com
 milesnlint-alphera.bmwgroup.com
 cmtamx4b.bmwgroup.com
@@ -4278,7 +4247,7 @@ myair-b2d-int-eam.bmwgroup.com
 eveint1.bmwgroup.com
 prepdfe1new.bmwgroup.com
 minitechinfo-qa.bmwgroup.com
-www.plant.bmwgroup.com
+plant.bmwgroup.com
 cargo-auth-qa2.bmwgroup.com
 cesim-mno-api-client-bmw-de.bmwgroup.com
 test-autu999.bmwgroup.com
@@ -4326,7 +4295,6 @@ air-services-bdr-qa2.bmwgroup.com
 testing-auto-803.bmwgroup.com
 mtls.ckf-int.bmwgroup.com
 stg2-adm-b2brema.bmwgroup.com
-www.vote.bmwgroup.com
 rsp-crm-int2.bmwgroup.com
 aida-i-gf4.bmwgroup.com
 preownedweb-us-i.bmwgroup.com
@@ -4426,9 +4394,7 @@ rsp-our-int2.bmwgroup.com
 irapbdrpemea.bmwgroup.com
 api.countly-preprod.bmwgroup.com
 tric-scb-qa-cn.bmwgroup.com
-bmwfs-temp.bmwgroup.com
 web-rr-tic-ml7.bmwgroup.com
-www.sip.bmwgroup.com
 ispanext-user-qa-cn1-weam.bmwgroup.com
 trz-sfa-prod-wen.bmwgroup.com
 wen-ig-b2iua-qa1.bmwgroup.com
@@ -4485,7 +4451,6 @@ cc-omc-gw-emea-dly.bmwgroup.com
 gcdm-oneid-a.aws-backend.customer-i.bmwgroup.com
 gfbb-scpi-int.bmwgroup.com
 pkz-device-gf4-qa.bmwgroup.com
-www.geschaeftsbericht2018.bmwgroup.com
 ivsrfeint2.bmwgroup.com
 temp-bmwfs-i-ho-wls12.bmwgroup.com
 e4ci.bmwgroup.com
@@ -4496,7 +4461,7 @@ livetrip.bmwgroup.com
 cfs-ch-int3-wen.bmwgroup.com
 ucsl-tv4.bmwgroup.com
 dvpgf4we.bmwgroup.com
-www.mdr.bmwgroup.com
+mdr.bmwgroup.com
 pisa-runtime-e2e-cn.bmwgroup.com
 e4d-poa.bmwgroup.com
 sacfs.bmwgroup.com
@@ -4558,7 +4523,6 @@ one-pmt1-dev.bmwgroup.com
 intranet-practice102.bmwgroup.com
 carmenint5b2dsaml.bmwgroup.com
 pita-int-hn.bmwgroup.com
-ucrmktadmin.bmwgroup.com
 ispa-device-test-us-24.bmwgroup.com
 dfesearchservices-i2-vm.bmwgroup.com
 kasio-int-wen.bmwgroup.com
@@ -4598,7 +4562,7 @@ race-t-oidc.bmwgroup.com
 fleetdata-old.bmwgroup.com
 stg-b2bremarketing.bmwgroup.com
 stabi-int-wen.bmwgroup.com
-www.partnersinquality-hu.bmwgroup.com
+partnersinquality-hu.bmwgroup.com
 prosd-int.bmwgroup.com
 crm-il-api-br.bmwgroup.com
 cfs-ch-int1-wen.bmwgroup.com
@@ -4625,7 +4589,6 @@ osm-hot-de-motorrad.bmwgroup.com
 collaborationsmanagement.bmwgroup.com
 irap-int-emea-wen.bmwgroup.com
 tric-pki-cbb-fe-prod-cn-temp.bmwgroup.com
-service-check-in-latam.bmwgroup.com
 osmc-b2i-v-i.bmwgroup.com
 alphabetonline-wen-new.bmwgroup.com
 sgem-es-tpv.bmwgroup.com
@@ -4639,7 +4602,6 @@ neainfra-us-test-strong.bmwgroup.com
 teleservicesus-int2.bmwgroup.com
 wen-ig-oss-apps.bmwgroup.com
 prod-gf-bwms-xn.bmwgroup.com
-live.bmwgroup.com
 tabemea-webeam.bmwgroup.com
 future-retail-i-temp.bmwgroup.com
 migration-demo-final-2001.bmwgroup.com
@@ -4741,7 +4703,6 @@ myair-bdr-qa1-sm.bmwgroup.com
 sfcn-webcal-prod.bmwgroup.com
 zadsp.bmwgroup.com
 api.dcsus-i.bmwgroup.com
-partnersinquality-hu.bmwgroup.com
 emea3.test.alpha.sso.bmwgroup.com
 osmaster2-de-mini.bmwgroup.com
 mycareer-nf.bmwgroup.com
@@ -4781,7 +4742,6 @@ testing-itsmnext-w09-gf4-inter-dedi.bmwgroup.com
 migration-testing606.bmwgroup.com
 cfs-uk-int1-2.bmwgroup.com
 ucpr-china-int.bmwgroup.com
-www.asapdealer.bmwgroup.com
 ispi-perf.bmwgroup.com
 dems-prod.bmwgroup.com
 migration-testing5001.bmwgroup.com
@@ -4803,7 +4763,6 @@ fscalculator-i-web-ui.bmwgroup.com
 pki-cbb-fe-qa-us.bmwgroup.com
 dfesearchservices-i.bmwgroup.com
 dsdus-prod.bmwgroup.com
-dsp-stag-motorrad.bmwgroup.com
 rb2bam.sgate-dev.bmwgroup.com
 fscfditrx.bmwgroup.com
 timi.bmwgroup.com
@@ -4869,13 +4828,11 @@ qsp-int02.bmwgroup.com
 int-web-fi-ml7.bmwgroup.com
 einvoicing-infoportal-qa.bmwgroup.com
 lcs-mx.bmwgroup.com
-www.customer-community-dev.bmwgroup.com
 sasnext-api-tst.bmwgroup.com
 ijix.bmwgroup.com
 etk-int-b2i.bmwgroup.com
 smww.bmwgroup.com
 geschaeftsbericht2012.bmwgroup.com
-td-dealerportal-int-au.bmwgroup.com
 web-asmisrmt-ml7.bmwgroup.com
 coinnf-p-internet.bmwgroup.com
 mndm-int-n1-b2dwen.bmwgroup.com
@@ -4910,7 +4867,6 @@ ens.bmwgroup.com
 bemiweb-payaravm-int.bmwgroup.com
 sgate-dev.bmwgroup.com
 rossus-prod.bmwgroup.com
-www.testdrive-int-au.bmwgroup.com
 customer-i-temp.bmwgroup.com
 prod-osmaster1.bmwgroup.com
 dtos-bmw-iv4.bmwgroup.com
@@ -4946,7 +4902,6 @@ web-drp-nn.bmwgroup.com
 sfw10epv11.bmwgroup.com
 pac.bmwgroup.com
 processworld-int2.bmwgroup.com
-www.dwp-int.bmwgroup.com
 prod-fa-lu-alph.bmwgroup.com
 ilz-device-int4-1.bmwgroup.com
 trz-toyota-qa-deprecated.bmwgroup.com
@@ -4977,7 +4932,6 @@ topco-otpimized-calloff-int.bmwgroup.com
 emoboi-prod-us.bmwgroup.com
 ucp-services-int-sprint.bmwgroup.com
 test-web-ars-ml7.bmwgroup.com
-www.ipress.bmwgroup.com
 cs-dna-int.bmwgroup.com
 videos.bmwgroup.com
 demande3en1.bmwgroup.com
@@ -5014,7 +4968,6 @@ eapp-sit.bmwgroup.com
 ocr-int.bmwgroup.com
 api.aos-portal-i.bmwgroup.com
 wen-ig-oss-apps-qa2.bmwgroup.com
-www.customer-community-apac.bmwgroup.com
 webservice-policy.bmwgroup.com
 kai-int.bmwgroup.com
 sf5cn-eapp.bmwgroup.com
@@ -5064,7 +5017,7 @@ base-int-emea.bmwgroup.com
 star-prod.bmwgroup.com
 tric-device-smuc2-qa.bmwgroup.com
 encs.bmwgroup.com
-www.us-tech-app.bmwgroup.com
+us-tech-app.bmwgroup.com
 kai-device-test.bmwgroup.com
 sgate-test-emea.bmwgroup.com
 na.documents.pay.bmwgroup.com
@@ -5129,10 +5082,9 @@ trz-toyota-prod.bmwgroup.com
 dpmtwenus-int.bmwgroup.com
 srpmm-api-i-cc.bmwgroup.com
 qsense-fsamericas-prod-b2b.bmwgroup.com
-www.corporate-insurance.bmwgroup.com
+corporate-insurance.bmwgroup.com
 warrantypmus-t.bmwgroup.com
 dsd-e2e-us.bmwgroup.com
-www.bmwi.bmwgroup.com
 demo-4wg-docs-2024.bmwgroup.com
 ctsdmz-prod.bmwgroup.com
 cfs-ch-wen.bmwgroup.com
@@ -5162,12 +5114,10 @@ benifysaphcm.bmwgroup.com
 logging.aws-backend.customer.bmwgroup.com
 m.nordics.bmwgroup.com
 apim-portal.bmwgroup.com
-www.customer-community-apac-dev.bmwgroup.com
 itsn-prod-emea-wen.bmwgroup.com
 documents.opus.bmwgroup.com
 psis-test.bmwgroup.com
 rsp-crm.bmwgroup.com
-mdr.bmwgroup.com
 osm-int-uk.bmwgroup.com
 dfe-int3.bmwgroup.com
 technipedia-prod.bmwgroup.com
@@ -5238,7 +5188,6 @@ cfs-chatbot.bmwgroup.com
 itsn-ext-prod-us.bmwgroup.com
 modmx1-n.bmwgroup.com
 matrest-i.bmwgroup.com
-connecteddrive-i.bmwgroup.com
 tabus-int-webeam.bmwgroup.com
 practice-testing501.bmwgroup.com
 ver-fa-lu-alph.bmwgroup.com
@@ -5256,7 +5205,6 @@ myair-b2d-qa.bmwgroup.com
 external-example3719.bmwgroup.com
 pisa-runtime-e2e.bmwgroup.com
 cloud.customer-dev.bmwgroup.com
-ustechapp.bmwgroup.com
 vpp-analytics.bmwgroup.com
 efinance-directentry.bmwgroup.com
 int.corporate.bmwgroup.com
@@ -5266,7 +5214,7 @@ geschaeftsbericht2011.bmwgroup.com
 myair-b2d-qa1-us-eam.bmwgroup.com
 vechain.bmwgroup.com
 b2c-community-int.bmwgroup.com
-www.ispaservices-int.bmwgroup.com
+ispaservices-int.bmwgroup.com
 posdigital.bmwgroup.com
 crm-il-api-int.bmwgroup.com
 testingsanrundeck2024.bmwgroup.com
@@ -5325,7 +5273,6 @@ aws-backend.customer-i.bmwgroup.com
 dsp-ecp.bmwgroup.com
 test-delivery-app-admin-portal.bmwgroup.com
 etk-int-b2d-webeam.bmwgroup.com
-press-i-gf4.bmwgroup.com
 wen-ig-bps-int.bmwgroup.com
 mtls-services-backend-dev.bmwgroup.com
 air-services-bdr-qa2-eam.bmwgroup.com
@@ -5333,11 +5280,9 @@ trz-device-prod-us-wen.bmwgroup.com
 promotion-ordering.opus-int.bmwgroup.com
 dealercockpit-int.bmwgroup.com
 app.countly.bmwgroup.com
-www.premiumfs-ho-t-wls12.bmwgroup.com
 trs-int.bmwgroup.com
 origin-mocu.bmwgroup.com
 test-na.pay.bmwgroup.com
-www.service-check-in-int.bmwgroup.com
 mdm-shub.bmwgroup.com
 contenthub-eurasia-fr.bmwgroup.com
 msdsb2b-t.bmwgroup.com
@@ -5357,11 +5302,9 @@ cs-p.bmwgroup.com
 myair-b2d-us-eam.bmwgroup.com
 tisnetpartnet-t.bmwgroup.com
 wen-oss-apps.bmwgroup.com
-www.charging-int.bmwgroup.com
 gko-test.bmwgroup.com
 alclaims-colo.bmwgroup.com
 ispanext-user-qa-us-gf4.bmwgroup.com
-service-check-in-latam-int.bmwgroup.com
 output.bmwgroup.com
 td-dealerportal-dev.bmwgroup.com
 apisecscn-i.bmwgroup.com
@@ -5380,7 +5323,7 @@ uat-bps.bmwgroup.com
 dev.api.esocrm-test.bmwgroup.com
 rsu-download-prod.bmwgroup.com
 ispanext-eam.bmwgroup.com
-www.bmw-paimai.bmwgroup.com
+bmw-paimai.bmwgroup.com
 codisint1ws.bmwgroup.com
 nds-i.bmwgroup.com
 api.aftersales-configuration.bmwgroup.com
@@ -5456,7 +5399,6 @@ beauty-shots-wrapper.bmwgroup.com
 at-gkmwen.bmwgroup.com
 gcdm-emea-pmt1-dev.bmwgroup.com
 itsn-ext-qa-emea.bmwgroup.com
-www.dsp-stag-mini.bmwgroup.com
 ilz-user-test-gf4.bmwgroup.com
 qsense-pragati-prod.bmwgroup.com
 adf-qa1-b2b-wen12-2.bmwgroup.com
@@ -5498,12 +5440,11 @@ weni-m2m-dynatrace.bmwgroup.com
 dealercockpit2-us-e2e.bmwgroup.com
 parts-ordering.opus-qa.bmwgroup.com
 osm-cloud-int-kr-mini.bmwgroup.com
-www.placementpool-i-neu.bmwgroup.com
 heidit.bmwgroup.com
 edab2bi-6.bmwgroup.com
 dsc1.bmwgroup.com
 vcs-prod-api.bmwgroup.com
-www.srpmm-test.bmwgroup.com
+srpmm-test.bmwgroup.com
 apiseccn-i.bmwgroup.com
 test-wispres-nn.bmwgroup.com
 demswen-int.bmwgroup.com
@@ -5526,7 +5467,6 @@ pki-b2d-test-emea.bmwgroup.com
 csc-transportvolumenotification-int.bmwgroup.com
 adf-qa1-wen12-2.bmwgroup.com
 label4-i-wen.bmwgroup.com
-www.ispaservices-prod.bmwgroup.com
 foclient.rent.bmwgroup.com
 int-3nodes.bmwgroup.com
 aem-author-inta13test.bmwgroup.com
@@ -5563,7 +5503,7 @@ esagw8.bmwgroup.com
 sasnext-api.bmwgroup.com
 bwms-next-world.bmwgroup.com
 old-netftnoa-int.bmwgroup.com
-www.dwp-dev.bmwgroup.com
+dwp-dev.bmwgroup.com
 sslcrl-new.bmwgroup.com
 label4-t-wen.bmwgroup.com
 wdf-tcm-int-wenmigration.bmwgroup.com
@@ -5589,7 +5529,6 @@ heidi-stocklocator-i1.bmwgroup.com
 temp-sfmlp-prod.bmwgroup.com
 alclaims-new.bmwgroup.com
 stg2-api-b2brema.bmwgroup.com
-us-tech-app.bmwgroup.com
 alscore-int-gf5.bmwgroup.com
 alphera-i2-nf.bmwgroup.com
 osm-sit-uk-mini.bmwgroup.com
@@ -5600,7 +5539,7 @@ tgtg-nb-pp.bmwgroup.com
 testiinng-saaan.bmwgroup.com
 b2vapi-nf.bmwgroup.com
 wen-b2i-ua-q1.bmwgroup.com
-www.kasio-b2d-wen.bmwgroup.com
+kasio-b2d-wen.bmwgroup.com
 erel-t-oidc.bmwgroup.com
 osmaster2-uk-bmw.bmwgroup.com
 testautomation987.bmwgroup.com
@@ -5648,7 +5587,6 @@ sts-crm365-ml.bmwgroup.com
 asm-t2-aol-wen.bmwgroup.com
 vinlookup-t.bmwgroup.com
 cfs-uk-int3-wen.bmwgroup.com
-dwp-dev.bmwgroup.com
 int-cmsnfsc-india-mig.bmwgroup.com
 web-mini-tic-ml7.bmwgroup.com
 gcdm-emea-i-b.bmwgroup.com
@@ -5657,7 +5595,6 @@ s-osb-device-int-eam.bmwgroup.com
 wsdl-prod-mx.bmwgroup.com
 ilz-device-qa-py5.bmwgroup.com
 cn2.test.alpha.sso.bmwgroup.com
-www.parts-n.bmwgroup.com
 uat-rabbitmq-za.bmwgroup.com
 int-web-fi-nn.bmwgroup.com
 raedersstpnf.bmwgroup.com
@@ -5683,7 +5620,6 @@ migration-demo-final-2002.bmwgroup.com
 retailerhub2-cs.bmwgroup.com
 dmcinj.bmwgroup.com
 cobis-i1.bmwgroup.com
-www.parts.bmwgroup.com
 origin-e4n2.bmwgroup.com
 esagw3.bmwgroup.com
 testing-practice701.bmwgroup.com
@@ -5761,7 +5697,6 @@ etk-b2d-us.bmwgroup.com
 origin-cncms-int.bmwgroup.com
 ilz-decice-int2-us.bmwgroup.com
 at-gd-mig-int.bmwgroup.com
-www.zeprid-a.bmwgroup.com
 kai-int-wen-ba.bmwgroup.com
 aftersales-flat-rates.bmwgroup.com
 tsara-ref-b2d-webeam.bmwgroup.com
@@ -5771,14 +5706,12 @@ osmaster.bmwgroup.com
 zap09webappfs-i.bmwgroup.com
 orderingcockpit-dev.bmwgroup.com
 delivery-app-prod-prod.bmwgroup.com
-www.premiumfs-ho-i-wls12.bmwgroup.com
 testing-tufin-api-gf5-101.bmwgroup.com
 imsys-prod.bmwgroup.com
 air-services-int.bmwgroup.com
 qeu-t-nat.bmwgroup.com
 wdf-nws-wenmigration.bmwgroup.com
 etk-int-b2i-us.bmwgroup.com
-www.report.bmwgroup.com
 asbonusitaint-oidc.bmwgroup.com
 nasf-rmi-cn.bmwgroup.com
 lcs-mx-nf.bmwgroup.com
@@ -5871,9 +5804,7 @@ tisnet-i-emea.bmwgroup.com
 ivpbg-production.bmwgroup.com
 migration-testing805.bmwgroup.com
 oscarint-neu.bmwgroup.com
-www.charging-na-int.bmwgroup.com
 translator-b2b.bmwgroup.com
-www.asapp-content.bmwgroup.com
 crm-il-api-us-int.bmwgroup.com
 spoa-prod-2.bmwgroup.com
 b2dcontent-int-b2i.bmwgroup.com
@@ -5988,7 +5919,6 @@ fastlane.bmwgroup.com
 etk-int-b2i-eam.bmwgroup.com
 boss-i.bmwgroup.com
 minipub-stage.bmwgroup.com
-www.what-inspires-us.bmwgroup.com
 mybmw-us-test.bmwgroup.com
 srd-classic-int.bmwgroup.com
 mydealer-int-webeam.bmwgroup.com
@@ -6016,7 +5946,6 @@ tric-device-next-prod.bmwgroup.com
 tric-device-prod-us-deprecated.bmwgroup.com
 wdf-tcm-int-legacy.bmwgroup.com
 aos-qa2.bmwgroup.com
-www.annual-report2017.bmwgroup.com
 fisp-i4-temp.bmwgroup.com
 dtos-mc-iv5-int.bmwgroup.com
 boprodza-dsws-24.bmwgroup.com
@@ -6034,7 +5963,6 @@ air-services-b2d-qa1-eam.bmwgroup.com
 tsara-dev-b2d.bmwgroup.com
 eba-api-int-dsp.bmwgroup.com
 al-telematics-i.bmwgroup.com
-kasio-b2d-wen.bmwgroup.com
 heidi-next.bmwgroup.com
 mndm-prod-n2-b2dwen.bmwgroup.com
 ivsrbeotod.bmwgroup.com
@@ -6051,7 +5979,6 @@ itsmsuite-gate-test.bmwgroup.com
 trz-service-prod-cn-temp.bmwgroup.com
 shopusa-test.bmwgroup.com
 uat-cfeapi.bmwgroup.com
-bmw-paimai.bmwgroup.com
 wdf-next-int.bmwgroup.com
 za.sgate-dev.bmwgroup.com
 sgate-test-cn.bmwgroup.com
@@ -6073,7 +6000,6 @@ one-pmt1-int.bmwgroup.com
 migration-demo-final-5002.bmwgroup.com
 tric-device-qa-us.bmwgroup.com
 bmw-prod-a4-b2dwen.bmwgroup.com
-www.zeprid.bmwgroup.com
 hakat-b2b-int.bmwgroup.com
 focus-tst.bmwgroup.com
 follownow-dealer-test.bmwgroup.com
@@ -6086,7 +6012,6 @@ s-osb-cert.bmwgroup.com
 iucp.bmwgroup.com
 sgate2-piint-us.bmwgroup.com
 flims-gf5.bmwgroup.com
-ispaservices-int.bmwgroup.com
 sasnext-tst.bmwgroup.com
 pam-testing-final107-new1.bmwgroup.com
 dspza-tst.bmwgroup.com
@@ -6278,7 +6203,6 @@ self-service.apim-nonprod-dev.bmwgroup.com
 uat-nfsccore.bmwgroup.com
 smww-int-b2d.bmwgroup.com
 osmaster4.bmwgroup.com
-www.partnersinquality-gr.bmwgroup.com
 bmw-nonprod-int.bmwgroup.com
 testboveda-mx.bmwgroup.com
 rossus-prod-aws.bmwgroup.com
@@ -6303,7 +6227,6 @@ rep-b2vapi.bmwgroup.com
 rossus-i.bmwgroup.com
 teleservicesus-int4.bmwgroup.com
 pkz-device-qa-eam.bmwgroup.com
-www.sia.bmwgroup.com
 esa-na-e2e.bmwgroup.com
 igmigrationsles12new.bmwgroup.com
 kai-device-qa-wen.bmwgroup.com
@@ -6431,7 +6354,6 @@ rb2bemea.sgate-dev.bmwgroup.com
 h5vco-test2.bmwgroup.com
 zaonline-tst.bmwgroup.com
 msdsb2b-i.bmwgroup.com
-www.geschaeftsbericht2017.bmwgroup.com
 cloud.customer-pmt.bmwgroup.com
 pressevents.bmwgroup.com
 cargo-app-device-qa2.bmwgroup.com
@@ -6460,7 +6382,6 @@ test-retailerhub2-rr.bmwgroup.com
 vcommus-i.bmwgroup.com
 tabemea-sandbox.bmwgroup.com
 services-incentivesus-i-wen.bmwgroup.com
-live-i.bmwgroup.com
 motoepoailforecast-i.bmwgroup.com
 b2dcontent-dev.bmwgroup.com
 ispanext-device-prod-us-weam.bmwgroup.com
@@ -6490,7 +6411,6 @@ gestas-es-new.bmwgroup.com
 k8s-blue.aws-backend.customer-i.bmwgroup.com
 int-web-dso-ml7.bmwgroup.com
 preownedweb-us-int.bmwgroup.com
-www.pressnote.bmwgroup.com
 oss-pp.bmwgroup.com
 eaglenext.bmwgroup.com
 carmensolve-int.bmwgroup.com
@@ -6553,7 +6473,6 @@ plateforme-fidelisation-24.bmwgroup.com
 weblogic-test-env.bmwgroup.com
 alphabetonline-wls122.bmwgroup.com
 motorplan-p.bmwgroup.com
-www.service-check-in-dev.bmwgroup.com
 mnomgr-gd-de-e2e-new.bmwgroup.com
 esagw2.bmwgroup.com
 hakatalog-b2i-dev.bmwgroup.com
@@ -6585,7 +6504,6 @@ cms-containerprices-inet-int.bmwgroup.com
 techradar.bmwgroup.com
 asc-ha-int4-inter2.bmwgroup.com
 isipgqs.bmwgroup.com
-presstopic-i.bmwgroup.com
 dealernet-int.bmwgroup.com
 b2d-mediapool-i4.bmwgroup.com
 oan2.bmwgroup.com
@@ -6613,7 +6531,6 @@ my.sgate-dev.bmwgroup.com
 ofcon-int.bmwgroup.com
 edarest.bmwgroup.com
 backend.customer-i.bmwgroup.com
-www.qa.configure.bmwgroup.com
 int-osmaster8-cn.bmwgroup.com
 ipa-ui-emea.bmwgroup.com
 ati-ke-mig.bmwgroup.com
@@ -6622,7 +6539,6 @@ tst-fa-be-alph.bmwgroup.com
 int-web-tic-cn-ml7.bmwgroup.com
 heidi-maint.bmwgroup.com
 testing-auto-701.bmwgroup.com
-www.service-check-in-latam-dev.bmwgroup.com
 s-osb-b2i-qa1.bmwgroup.com
 dev-iucp.bmwgroup.com
 srd-prod-pay5.bmwgroup.com
@@ -6638,7 +6554,7 @@ matrest.bmwgroup.com
 ucpr-china.bmwgroup.com
 tsara-device.bmwgroup.com
 dsd-int.bmwgroup.com
-www.next100.bmwgroup.com
+next100.bmwgroup.com
 ilz-user-int2-gf4.bmwgroup.com
 fzab-oidc-int.bmwgroup.com
 rtl-services-int.bmwgroup.com
@@ -6653,11 +6569,9 @@ srd-edu.bmwgroup.com
 lcs-iv6.bmwgroup.com
 stabi-prod-wen.bmwgroup.com
 ddaus-t-gf4.bmwgroup.com
-next100.bmwgroup.com
 myair-b2i.bmwgroup.com
 ispanext-device-prod-ig-weam.bmwgroup.com
 mndm-preprod-n2-b2dwen.bmwgroup.com
-www.dwp.bmwgroup.com
 tqc-int-b2d-aws.bmwgroup.com
 srpnextp-gf4.bmwgroup.com
 ispinext-prod.bmwgroup.com
@@ -6721,7 +6635,6 @@ vcs-cloud-i.bmwgroup.com
 dmstoukps.bmwgroup.com
 oss-apps-qa1.bmwgroup.com
 prmg-prod.bmwgroup.com
-www.press-i.bmwgroup.com
 testing2023.bmwgroup.com
 zap09motorplan-i.bmwgroup.com
 sta-aem-iucp.bmwgroup.com
@@ -6736,7 +6649,6 @@ pos-preprd.bmwgroup.com
 buy-t-bmw-motorradza.bmwgroup.com
 alscore-test-gf5.bmwgroup.com
 sipgqs.bmwgroup.com
-www.annual-report2018.bmwgroup.com
 ista-edge-e2e-cn.bmwgroup.com
 servicesauxvehicules-i.bmwgroup.com
 aida-i-gf3.bmwgroup.com
@@ -6764,7 +6676,6 @@ testing-auto-306.bmwgroup.com
 int-na.documents.pay.bmwgroup.com
 smtpext.bmwgroup.com
 elan-gf5.bmwgroup.com
-www.td-dealerportal-japan.bmwgroup.com
 retailerhub-us2-rolls-roycemotorcars.bmwgroup.com
 mini-preprod-a3-b2dwen.bmwgroup.com
 dealercockpit-e2e-siteminder.bmwgroup.com
@@ -6782,7 +6693,6 @@ immx-test2.bmwgroup.com
 gcdm-emea-i-a-temp.bmwgroup.com
 int-web-rr-contact-ml7.bmwgroup.com
 extranet-bwint1-sgate-premium-oidc.bmwgroup.com
-www.pressnote-i.bmwgroup.com
 webtest-sp-t1.bmwgroup.com
 tric-device-smuc2-qa-cn.bmwgroup.com
 test-autu7896.bmwgroup.com
@@ -6898,7 +6808,7 @@ ckf-qa.bmwgroup.com
 fleetservice.bmwgroup.com
 web-dlrdir-nn.bmwgroup.com
 stg-api-b2brema.bmwgroup.com
-www.planta.bmwgroup.com
+planta.bmwgroup.com
 migration-testing30008.bmwgroup.com
 follownow-test.bmwgroup.com
 cargo-device-prod.bmwgroup.com
@@ -6947,7 +6857,6 @@ eudev-cocoapi-extended.bmwgroup.com
 testing-auto-966.bmwgroup.com
 gdb.bmwgroup.com
 plateforme-fidelisation-int-24.bmwgroup.com
-artcar-i.bmwgroup.com
 testing-auto-808.bmwgroup.com
 kai-m2m-int.bmwgroup.com
 ivsrbeoto.bmwgroup.com
@@ -6979,7 +6888,6 @@ apim.apim-nonprod-dev.bmwgroup.com
 srd-training.bmwgroup.com
 snow-prod1.bmwgroup.com
 velocity.bmwgroup.com
-www.srpmm-integration.bmwgroup.com
 cam.bmwgroup.com
 maintenance-temp.bmwgroup.com
 dave-int-gf4.bmwgroup.com
@@ -7078,7 +6986,6 @@ infonet3-nonas2.bmwgroup.com
 scap-int.bmwgroup.com
 minipub-preprod.bmwgroup.com
 intelligence-monitoring-int.bmwgroup.com
-www.bericht.bmwgroup.com
 backend.customer.bmwgroup.com
 api.vote.bmwgroup.com
 irap-emea-prod-wen.bmwgroup.com
@@ -7268,7 +7175,6 @@ web-fi-ml8.bmwgroup.com
 web-fi-oidc.bmwgroup.com
 web-rr-parts-oidc.bmwgroup.com
 webservice-carmen-int.bmwgroup.com
-www.testdrive-au.bmwgroup.com
 xpita-aws-test.bmwgroup.com
 xpita-b2d-aws-test.bmwgroup.com
 zhretail-int.bmwgroup.com
@@ -7315,7 +7221,6 @@ ddad.artifactory.cc.bmwgroup.com
 dealerportal-my-hotfix.bmwgroup.com
 debug.bmwgroup.com
 dfeservices-t.bmwgroup.com
-dsp-stag-dlm.bmwgroup.com
 eagle-testg4.bmwgroup.com
 elan-global.bmwgroup.com
 eu-muc-10.ddad.artifactory.cc.bmwgroup.com
@@ -7362,7 +7267,6 @@ pita-b2b-aws-test.bmwgroup.com
 pjsdf.bmwgroup.com
 pre-int-delivery-app-int.bmwgroup.com
 pre-int-delivery-app-pre-int.bmwgroup.com
-press-gf4.bmwgroup.com
 preview.pay.bmwgroup.com
 prod.am.customer.bmwgroup.com
 prod.customer-i.bmwgroup.com
@@ -7442,6 +7346,5 @@ upgrade.ebis.bmwgroup.com
 upgrade.scp-int.bmwgroup.com
 v1-24.awp-int.bmwgroup.com
 web-dso-ml7.bmwgroup.com
-www.sigtool.bmwgroup.com
-www.td-dealerportal-int-japan.bmwgroup.com
+sigtool.bmwgroup.com
 xpita-b2d-int.bmwgroup.com

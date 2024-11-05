@@ -41,7 +41,6 @@ fuga-docker4.fuga.cloud
 metering.lars.dev.fuga.cloud
 provisioning1.core.fuga.cloud
 youtrack.fuga.cloud
-www.fuga.cloud
 stagingamstwo.fuga.cloud
 identity.fuga.cloud
 metadata.api.ams.fuga.cloud
@@ -56,7 +55,7 @@ grafana.api.staging.fuga.cloud
 image.api.ams.fuga.cloud
 volumev2.api.staging.fuga.cloud
 volumev3.lars.dev.fuga.cloud
-www.cdn.fuga.cloud
+cdn.fuga.cloud
 metering.api.staging.fuga.cloud
 network.arnoud.dev.fuga.cloud
 contrail-webui.api.eu-west-2.fuga.cloud
@@ -86,7 +85,6 @@ orchestration.api.ams.fuga.cloud
 placement.api.staging.fuga.cloud
 placement.arnoud.dev.fuga.cloud
 vmx2.ams.fuga.cloud
-www.youtrack.fuga.cloud
 heat-cfn.lars.dev.fuga.cloud
 horizon.lars.dev.fuga.cloud
 heat-cfn.api.ams.fuga.cloud
@@ -102,7 +100,7 @@ object.api.staging.fuga.cloud
 rating.staging.fuga.cloud
 volumev2.arnoud.dev.fuga.cloud
 volumev3.api.staging.fuga.cloud
-www.docs.fuga.cloud
+docs.fuga.cloud
 content.fuga.cloud
 flowmailer.fuga.cloud
 fuga-docker3.fuga.cloud
@@ -119,7 +117,6 @@ metric.api.eu-west-2.fuga.cloud
 sandbox.fuga.cloud
 gridlicense1.core.fuga.cloud
 api.ams.fuga.cloud
-cdn.fuga.cloud
 image.lars.dev.fuga.cloud
 metadata.api.eu-west-2.fuga.cloud
 mtaging.fuga.cloud
@@ -157,7 +154,6 @@ s3.stagingamstwo.fuga.cloud
 rating.fuga.cloud
 contrail-webui.api.fuga.cloud
 docker-proxy1.r1.openstack.fuga.cloud
-docs.fuga.cloud
 grafana.api.ams.fuga.cloud
 identity.api.ams.fuga.cloud
 machete.fuga.cloud

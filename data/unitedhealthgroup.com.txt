@@ -1,6 +1,5 @@
 prd.unitedhealthgroup.com
 cfca.unitedhealthgroup.com
-www.unitedhealthgroup.com
 dev-cfca.unitedhealthgroup.com
 workroutersnsand.unitedhealthgroup.com
 ema-sts-stage.unitedhealthgroup.com
@@ -39,11 +38,9 @@ referrals.unitedhealthgroup.com
 cloudfed.unitedhealthgroup.com
 aa-selfservice-stage.unitedhealthgroup.com
 es.unitedhealthgroup.com
-www.es.unitedhealthgroup.com
-www.br.unitedhealthgroup.com
+br.unitedhealthgroup.com
 ulearn.unitedhealthgroup.com
 learnsource.unitedhealthgroup.com
-br.unitedhealthgroup.com
 sso.unitedhealthgroup.com
 stage-sso.unitedhealthgroup.com
 odplms.unitedhealthgroup.com
@@ -82,7 +79,7 @@ odplms-ctc.unitedhealthgroup.com
 sps.unitedhealthgroup.com
 careers-2019.unitedhealthgroup.com
 selfservice.unitedhealthgroup.com
-www.egrcstg.unitedhealthgroup.com
+egrcstg.unitedhealthgroup.com
 e1099.unitedhealthgroup.com
 egrc.unitedhealthgroup.com
 egrc-old.unitedhealthgroup.com
@@ -112,7 +109,7 @@ learnsource-stg.unitedhealthgroup.com
 referrals-stage.unitedhealthgroup.com
 referrals-tst.unitedhealthgroup.com
 10.86.180.25www.unitedhealthgroup.com
-www.unitedhealthgroup.comwww.unitedhealthgroup.com
+unitedhealthgroup.comwww.unitedhealthgroup.com
 10.86.180.25careers.unitedhealthgroup.com
 careers.unitedhealthgroup.comcareers.unitedhealthgroup.com
 m-referrals-stage.unitedhealthgroup.com
@@ -137,7 +134,6 @@ www-2018.unitedhealthgroup.com
 careers-test.unitedhealthgroup.com
 referrals-test.unitedhealthgroup.com
 careers-stage.unitedhealthgroup.com
-egrcstg.unitedhealthgroup.com
 be-globalselfservice.unitedhealthgroup.com
 learnsource-elr.unitedhealthgroup.com
 learnsource-ctc.unitedhealthgroup.com

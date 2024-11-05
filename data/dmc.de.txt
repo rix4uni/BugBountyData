@@ -46,7 +46,7 @@ asd.klingel.dmc.de
 de-meyer-mode-s01.staging.dmc.de
 cinoneweb-l01-ap01.dmc.de
 de.rlklingel.staging.dmc.de
-www.rlwellsana.staging.dmc.de
+rlwellsana.staging.dmc.de
 jako-de.test.dmc.de
 be.mona.staging.dmc.de
 rnb-test-ap01.dmc.de
@@ -83,7 +83,7 @@ nexus.dmc.de
 festo-t01.test.dmc.de
 kmo-l01-ap05.dmc.de
 de.babywalz-02.staging.dmc.de
-www.meyer-versand.staging.dmc.de
+meyer-versand.staging.dmc.de
 de.vamos-versand.staging.dmc.de
 zanker.tc.travelportal-fe.test.dmc.de
 fat-test-ap12.dmc.de
@@ -114,9 +114,8 @@ agency-test-ap04.dmc.de
 elegance-be.test.dmc.de
 revolution.dmc.de
 cs-l01-ap04.dmc.de
-www.dmc.de
 h3c-l01-ap03.dmc.de
-www.janvanderstorm.dmc.de
+janvanderstorm.dmc.de
 dmc-l01-ap83.dmc.de
 at.rlmona.staging.dmc.de
 at.klingel.test.dmc.de
@@ -142,7 +141,7 @@ erlebniswelt42.nvag-de.test.dmc.de
 rq.travelportal2-fe.test.dmc.de
 bonaparte-dk.test.dmc.de
 hb-l01-ap02.dmc.de
-www.handwerk-bw.dmc.de
+handwerk-bw.dmc.de
 ch.diemer.staging.dmc.de
 nl.nvag-test-ap05.test.dmc.de
 dmc-l01-ap08.dmc.de
@@ -179,7 +178,7 @@ ch.klingel.staging.dmc.de
 cz.klingel.test.dmc.de
 ul.travelportal2-be.test.dmc.de
 uw-ch.travelportal2-fe.test.dmc.de
-www.nl.meyer-versand.dmc.de
+nl.meyer-versand.dmc.de
 nl-meyer-mode-l01.dmc.de
 snat.nbg.dmc.de
 creditplus.test.dmc.de
@@ -325,11 +324,9 @@ kmo-l01-ap08.dmc.de
 test.dmc.de
 fat-test-ap04.dmc.de
 klicktel-shop.test.dmc.de
-nl.meyer-versand.dmc.de
 puppet.dmc.de
 jobs.dmc.de
 kmo-l01-ap10.dmc.de
-www.de.rlklingel.dmc.de
 ru.rlklingel.dmc.de
 modernehausfrau-be.walz.stage.dmc.de
 at.rlvamos-versand.staging.dmc.de
@@ -514,7 +511,7 @@ modernehausfrau-de.walz2.stage.dmc.de
 services.travelportal-fe.test.dmc.de
 be.wenz.test.dmc.de
 nl.rlbabista.staging.dmc.de
-www.janvanderstorm.staging.dmc.de
+janvanderstorm.staging.dmc.de
 babywalz-nl.test.dmc.de
 walzkidzz-be.kidzz.walz.dmc.de
 allianz_ropobav.preview.dmc.de
@@ -562,7 +559,7 @@ de.klingel.dmc.de
 de-janvanderstorm-i01.int.dmc.de
 nl.staging.mona.dmc.de
 babywalz-ch.walz.stage.dmc.de
-www.wellwide.staging.dmc.de
+wellwide.staging.dmc.de
 walzkidzz-com.kidzz.walz.dmc.de
 ns2.nbg.dmc.de
 babywalz-be.walz2.stage.dmc.de
@@ -764,7 +761,6 @@ de.rldiemer.staging.dmc.de
 outlet24-de.walz.stage.dmc.de
 gutscheine.travelportal2-fe.test.dmc.de
 cs-test-ap03.dmc.de
-www.intra.dmc.de
 at.casserole24.staging.dmc.de
 bonaparte-ch.test.dmc.de
 preview.dmc.de

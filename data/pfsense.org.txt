@@ -10,7 +10,6 @@ redmine.pfsense.org
 atxfiles.pfsense.org
 packages.pfsense.org
 sgpfiles.pfsense.org
-www.pfsense.org
 snapshots.pfsense.org
 updates.pfsense.org
 files.nyi.pfsense.org
@@ -37,10 +36,8 @@ translate.pfsense.org
 gitweb.pfsense.org
 crashreporter.pfsense.org
 mail.pfsense.org
-www.shop.pfsense.org
 connect.pfsense.org
 files.chi.pfsense.org
 devwiki.pfsense.org
 server.pfsense.org
-www.portal.pfsense.org
 nyifiles.pfsense.orgnyifiles.pfsense.org

@@ -14,7 +14,6 @@ ecsaz-abnav-apigee-absences-d.eneco.com
 iot-devicecontrol-api-a.eneco.com
 urenapp.eneco.com
 business-integration-api-dev.eneco.com
-www.eneco.com
 iot-heatcontrol-api-sb.eneco.com
 fswstest.eneco.com
 ecsaz-abnav-apigee-absences-p.eneco.com
@@ -109,7 +108,7 @@ pee.ssl-client.eneco.com
 coin.eneco.com
 web.p4.eneco.com
 meridian.eneco.com
-www.test.eneco.com
+test.eneco.com
 ccbuddy-tst.code.eneco.com
 ecsaz-agilepoint-d.eneco.com
 apigee-peeeks-dta.eneco.com
@@ -127,7 +126,7 @@ cluster-browse.streaming-dta.eneco.com
 vault.streaming-pt.eneco.com
 code.eneco.com
 esp-com-acc.streaming-dta.eneco.com
-www.festival.eneco.com
+festival.eneco.com
 connect.eneco.com
 enosapdeeci.eneco.com
 broker1-scram.ptaz.esp.eneco.com
@@ -152,7 +151,7 @@ api-test.code.eneco.com
 fme-ota.geodata.eneco.com
 ccbuddy.code.eneco.com
 esp-eet-std-fo-apps-acc.esp.eneco.com
-www.dev.eneco.com
+dev.eneco.com
 odpdb-dta.eneco.com
 enterpriseenrollment.eneco.com
 extranet1.eneco.com

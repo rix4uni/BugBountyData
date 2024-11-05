@@ -1168,13 +1168,11 @@ api.kpntest.netprotect-dev.eset.com
 telco.kpntest.netprotect-dev.eset.com
 india.store.eset.com
 i4.c.eset.com
-www.eset.com
 fdp.jamf.eset.com
 sales.noram.eset.com
 api.buy.eset.com
 test-hub.eset.com
 go.csas.netprotect.eset.com
-www.au.store.eset.com
 staging.id.cms.eset.com
 vpnwebhook.eset.com
 status.eset.com
@@ -1258,7 +1256,6 @@ www2.eset.com
 91-228-166-6.ptr.eset.com
 test-sampleshare.eset.com
 ussd-h5-oob.eset.com
-www.update.eset.com
 38-90-226-247.ptr.eset.com
 72-32-32-5.rev.eset.com
 91-228-165-202.ptr.eset.com
@@ -1317,9 +1314,7 @@ api.us1.ecos.eset.com
 dlm6.eset.com
 91-228-164-238.ptr.eset.com
 h1-rlwiki01-v.eset.com
-www.helpus.eset.com
 38-90-226-45.ptr.eset.com
-www.pentest.join.eset.com
 38-90-226-150.ptr.eset.com
 91-228-165-132.ptr.eset.com
 91-228-166-163.ptr.eset.com
@@ -1449,7 +1444,6 @@ h0-ars01-v.eset.com
 91-228-165-102.ptr.eset.com
 91-228-166-222.ptr.eset.com
 loco.eset.com
-www.identity.eset.com
 38-90-226-114.ptr.eset.com
 38-90-226-97.ptr.eset.com
 91-228-164-125.ptr.eset.com
@@ -1488,7 +1482,6 @@ f5-waf-azure-weu-test01.eset.com
 91-228-166-99.ptr.eset.com
 91-228-167-25.ptr.eset.com
 h1-fbappbeta-v.eset.com
-www.ipmapi.eset.com
 91-228-164-156.ptr.eset.com
 h3-mon01-v.eset.com
 sk-ba-h1-gw-nat.eset.com
@@ -1544,9 +1537,7 @@ netprotect-beta.eset.com
 91-228-167-222.ptr.eset.com
 psa-dev.eset.com
 staging.ws.eset.com
-www.passwordmanager.eset.com
 38-90-226-128.ptr.eset.com
-www.business.eset.com
 91-228-164-141.ptr.eset.com
 38-90-226-47.ptr.eset.com
 91-228-164-146.ptr.eset.com
@@ -1595,7 +1586,6 @@ qaeras.eset.com
 91-228-166-155.ptr.eset.com
 91-228-166-246.ptr.eset.com
 91-228-167-127.ptr.eset.com
-www.fs.eset.com
 workflows.eset.com
 38-90-226-249.ptr.eset.com
 91-228-164-7.ptr.eset.com
@@ -1605,7 +1595,6 @@ h1-dbpush-n01-v.eset.com
 h5-edfproxy-v.eset.com
 91-228-166-113.ptr.eset.com
 91-228-167-192.ptr.eset.com
-www.protect.eset.com
 38-90-226-93.ptr.eset.com
 mguardian01.eset.com
 38-90-226-189.ptr.eset.com
@@ -1649,7 +1638,6 @@ h1-versioncheck02-v.eset.com
 91-228-167-194.ptr.eset.com
 91-228-167-254.ptr.eset.com
 h1-smtpout-external01.eset.com
-www.kb.eset.com
 89.202.157.228.rev.eset.com
 91-228-165-157.ptr.eset.com
 91-228-166-118.ptr.eset.com
@@ -1672,7 +1660,6 @@ vm-dxmx02-s.eset.com
 38-90-226-255.ptr.eset.com
 91-228-164-236.ptr.eset.com
 h3-fbws02-v.eset.com
-www.images.security.eset.com
 109-74-154-89.ptr.eset.com
 38-90-226-46.ptr.eset.com
 91-228-166-153.ptr.eset.com
@@ -1694,7 +1681,6 @@ test-esa.eset.com
 91-228-165-234.ptr.eset.com
 91-228-167-231.ptr.eset.com
 dev-hub-notifications.eset.com
-www.ipm.eset.com
 91-228-164-126.ptr.eset.com
 91-228-164-150.ptr.eset.com
 qa.netprotect-dev.eset.com
@@ -1725,7 +1711,6 @@ id.cms.eset.com
 91-228-165-168.ptr.eset.com
 91-228-166-74.ptr.eset.com
 91-228-167-216.ptr.eset.com
-www.my.eset.com
 checkin.de.mdm.eset.com
 ba.8f.f10d.ip4.statibalrepo-v.eset.com
 72-32-67-102.rev.eset.com
@@ -1739,8 +1724,6 @@ smtpout.eset.com
 h3-arsd01-v.eset.com
 91-228-164-108.ptr.eset.com
 91-228-164-248.ptr.eset.com
-www.internal-support.eset.com
-www.try.eset.com
 91-228-165-34.ptr.eset.com
 91-228-165-182.ptr.eset.com
 91-228-165-235.ptr.eset.com
@@ -1862,7 +1845,6 @@ lifesize-18p.ba.eset.com
 h3-edf02-v.eset.com
 inspect.techconference.eset.com
 wip.eset.com
-www.login.eset.com
 91-228-164-213.ptr.eset.com
 91-228-165-179.ptr.eset.com
 91-228-166-251.ptr.eset.com
@@ -1990,7 +1972,6 @@ proxy.eset.com
 h1-edfspydb02-v.eset.com
 91-228-164-188.ptr.eset.com
 mailservices.eset.com
-www.loginbeta.eset.com
 38-90-226-141.ptr.eset.com
 38-90-226-90.ptr.eset.com
 91-228-166-95.ptr.eset.com
@@ -2036,12 +2017,10 @@ h3-esadb01-v.eset.com
 91-228-166-112.ptr.eset.com
 91-228-167-108.ptr.eset.com
 srvcesmc70s.hq.eset.com
-www.autodiscover.eset.com
 91-228-165-83.ptr.eset.com
 38-90-226-135.ptr.eset.com
 91-228-166-157.ptr.eset.com
 91-228-167-225.ptr.eset.com
-www.ela.eset.com
 91-228-166-238.ptr.eset.com
 tsm04.eset.com
 38-90-226-78.ptr.eset.com
@@ -2104,7 +2083,6 @@ h1-dlmtrack01-v.eset.com
 38-90-226-6.ptr.eset.com
 91-228-165-54.ptr.eset.com
 91-228-167-169.ptr.eset.com
-www.limesurvey.eset.com
 91-228-166-96.ptr.eset.com
 91-228-164-192.ptr.eset.com
 91-228-164-152.ptr.eset.com
@@ -2144,7 +2122,6 @@ h3-fbs01-v.eset.com
 91-228-164-122.ptr.eset.com
 91-228-166-239.ptr.eset.com
 91-228-166-93.ptr.eset.com
-www.au.lp.eset.com
 38-90-226-179.ptr.eset.com
 38-90-226-62.ptr.eset.com
 91-228-166-151.ptr.eset.com
@@ -2158,12 +2135,10 @@ h3-dbc03-n02-s.eset.com
 91-228-165-188.ptr.eset.com
 91-228-165-79.ptr.eset.com
 91-228-167-1.ptr.eset.com
-www.kr.store.eset.com
 91-228-164-171.ptr.eset.com
 91-228-164-92.ptr.eset.com
 91-228-166-230.ptr.eset.com
 91-228-166-31.ptr.eset.com
-www.survey.eset.com
 38-90-226-122.ptr.eset.com
 91-228-165-129.ptr.eset.com
 91-228-167-239.ptr.eset.com
@@ -2175,7 +2150,6 @@ h3-c01-s.eset.com
 38-90-226-4.ptr.eset.com
 91-228-165-24.ptr.eset.com
 91-228-165-255.ptr.eset.com
-www.ssitecat.eset.com
 38-90-226-3.ptr.eset.com
 91-228-165-133.ptr.eset.com
 91-228-166-120.ptr.eset.com
@@ -2206,7 +2180,7 @@ h1-sb01-s.eset.com
 91-228-167-85.ptr.eset.com
 38-90-226-146.ptr.eset.com
 38-90-226-185.ptr.eset.com
-www.eti-test.eset.com
+eti-test.eset.com
 38-90-226-239.ptr.eset.com
 91-228-167-93.ptr.eset.com
 de01.inspect.eset.com
@@ -2274,8 +2248,6 @@ ba-leak-v.eset.com
 h1-iploc01-v.eset.com
 91-228-165-242.ptr.eset.com
 91-228-166-220.ptr.eset.com
-www.offers.eset.com
-www.sampleshare.eset.com
 91-228-167-227.ptr.eset.com
 91-228-165-177.ptr.eset.com
 h1-sbhlp01-v.eset.com
@@ -2327,14 +2299,12 @@ go.wip.eset.com
 91-228-165-91.ptr.eset.com
 91-228-165-93.ptr.eset.com
 91-228-166-186.ptr.eset.com
-eti-test.eset.com
 skh1-webredir01-v.eset.com
 91-228-165-199.ptr.eset.com
 91-228-165-215.ptr.eset.com
 91-228-166-183.ptr.eset.com
 iz88ptr.eset.com
 91-228-167-248.ptr.eset.com
-www.go.eset.com
 38-90-226-242.ptr.eset.com
 38-90-226-171.ptr.eset.com
 38-90-226-203.ptr.eset.com
@@ -2342,7 +2312,6 @@ www.go.eset.com
 91-228-165-249.ptr.eset.com
 hotfix.cms.eset.com
 um10.za.eset.com
-www.agentsurefire.eset.com
 telco.netprotect-beta.eset.com
 h3-testeec-v.eset.com
 38-90-226-254.ptr.eset.com
@@ -2390,7 +2359,6 @@ expire.eset.com
 91-228-164-160.ptr.eset.com
 91-228-165-13.ptr.eset.com
 38-90-226-136.ptr.eset.com
-www.test-eti.eset.com
 91-228-165-206.ptr.eset.com
 91-228-164-158.ptr.eset.com
 38-90-226-31.ptr.eset.com
@@ -2421,7 +2389,6 @@ dlm3.eset.com
 91-228-164-240.ptr.eset.com
 109-74-154-85.ptr.eset.com
 91-228-166-3.ptr.eset.com
-www.anti-theft.eset.com
 38.11tr.eset.com
 91-228-167-159.ptr.eset.com
 91-228-165-135.ptr.eset.com
@@ -2436,7 +2403,6 @@ h1-f5gtm01-lsnr02.eset.com
 91-228-165-49.ptr.eset.com
 91-228-166-229.ptr.eset.com
 invoices.buy.eset.com
-www.beta-eti.eset.com
 91-228-164-148.ptr.eset.com
 91-228-164-132.ptr.eset.com
 prg-7-oob01.eset.com
@@ -2465,13 +2431,11 @@ test-protecthub.eset.com
 91-228-164-130.ptr.eset.com
 91-228-167-184.ptr.eset.com
 h3-esa01-v.eset.com
-www.onlineveilig.eset.com
 38-90-226-69.ptr.eset.com
 h3-arsd02-v.eset.com
 tsm06.eset.com
 91-233-211-0.ptr.eset.com
 ca01.protect.eset.com
-www.stage-rmt.eset.com
 91-228-167-255.ptr.eset.com
 38-90-226-196.ptr.eset.com
 38.96.39.10-226-174.ptr.eset.com
@@ -2521,7 +2485,6 @@ h3-infohub-lb01-v.eset.com
 dx02test.eset.com
 h3-dlm02-v.eset.com
 38-90-226-117.ptr.eset.com
-www.ecabeta.eset.com
 91-228-164-117.ptr.eset.com
 91-228-164-180.ptr.eset.com
 h3-c05.eset.com
@@ -2566,7 +2529,6 @@ images.protect-us.eset.com
 h3-proxy02-v.eset.com
 38-90-226-168.ptr.eset.com
 91-228-167-213.ptr.eset.com
-www.parentalcontrol.eset.com
 38-90-226-7.ptr.eset.com
 reg01.eset.com
 91-228-165-141.ptr.eset.com
@@ -2589,7 +2551,6 @@ h3-fbdb03-v.eset.com
 91-228-164-106.ptr.eset.com
 91-228-167-214.ptr.eset.com
 tsm00.eset.com
-www.blog.eset.com
 38-90-226-130.ptr.eset.com
 91-228-164-86.ptr.eset.com
 91-228-165-14.ptr.eset.com

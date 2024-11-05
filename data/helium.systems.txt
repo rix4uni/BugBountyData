@@ -2,7 +2,6 @@ wallet.api.helium.systems
 ota.helium.systems
 burrow.helium.systems
 staking.helium.systems
-*.helium.systems
 burrow1.helium.systems
 burrow2.helium.systems
 burrow3.helium.systems
@@ -22,5 +21,4 @@ conn.helium.systems
 router0.int.helium.systems
 www-staging.helium.systems
 buildbot.build.helium.systems
-www.helium.systems
 www-stage0.int.helium.systems

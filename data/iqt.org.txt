@@ -1,5 +1,4 @@
 mcu4.iqt.org
-www.iqt.org
 origin-wf.iqt.org
 rag.iqt.org
 event55.iqt.org
@@ -7,7 +6,6 @@ ocr.iqt.org
 controller.zt.iqt.org
 pki.iqt.org
 short.iqt.org
-www.short.iqt.org
 sso.iqt.org
 shorty.iqt.org
 chat.iqt.org
@@ -19,7 +17,6 @@ faq.iqt.org
 docker-registry.iqt.org
 gitlab.iqt.org
 mattermost.iqt.org
-*.pages.iqt.org
 pages.iqt.org
 ssh.b.gateway.iqt.org
 ssh.a.gateway.iqt.org
@@ -34,7 +31,6 @@ e-iad-net-vpn-inpher-b.iqt.org
 assets.iqt.org
 bitwarden.iqt.org
 mta-sts.iqt.org
-www.bitwarden.iqt.org
 status.iqt.org
 home.iqt.org
 mx1.iqt.org
@@ -64,11 +60,9 @@ e-pscgov-net-vpn1.iqt.org
 auraborealis.iqt.org
 e-iad-net-vpn1.iqt.org
 taxii.iqt.org
-*.glasses.iqt.org
 glasses.iqt.org
 portal.iqt.org
 d3.iqt.org
-www.d3.iqt.org
 d.iqt.org
 join.iqt.org
 s1.join.iqt.org

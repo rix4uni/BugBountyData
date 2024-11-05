@@ -9,7 +9,6 @@ logging.eu.swordhealth.com
 resources.swordhealth.com
 sh.swordhealth.com
 sh.au.swordhealth.com
-www.swordhealth.com
 admin-ui.au.swordhealth.com
 eu.swordhealth.com
 atlantis.beta.us.swordhealth.com
@@ -187,7 +186,6 @@ logging.au.swordhealth.com
 portal.ca.swordhealth.com
 ftp-admin-private.uk.swordhealth.com
 grafana.beta.us.swordhealth.com
-www.join.swordhealth.com
 atlantis.beta.eu.swordhealth.com
 grafana.uk.swordhealth.com
 webhooks.eu.swordhealth.com
@@ -325,7 +323,6 @@ video-api.swordhealth.com
 form.us.swordhealth.com
 learn.swordhealth.com
 vpn-security.swordhealth.com
-www.mls.swordhealth.com
 upload-api.au.swordhealth.com
 preview.swordhealth.com
 ftp-admin.us.swordhealth.com

@@ -10,7 +10,7 @@ ambassador.joinverse.com
 testapi2.joinverse.com
 enterprise-login.webhooks.joinverse.com
 v4b.beta.joinverse.com
-www.ambassadors.joinverse.com
+ambassadors.joinverse.com
 triple.api.joinverse.com
 ios-beta-enroll.joinverse.com
 mcduck-private.beta.joinverse.com
@@ -45,7 +45,6 @@ registry.joinverse.com
 api.beta.joinverse.com
 webwork2.testapi.joinverse.com
 sms.api.joinverse.com
-ambassadors.joinverse.com
 webhooks.beta.joinverse.com
 challenge.joinverse.com
 api.alpha.joinverse.com
@@ -55,10 +54,8 @@ multiverse.alpha.joinverse.com
 echoheaders.beta.joinverse.com
 bulldozer.joinverse.com
 weckey.joinverse.com
-www.joinverse.com
 multiverse.joinverse.com
 bitpanda.api.joinverse.com
 webhooks.joinverse.com
 multiverse.beta.joinverse.com
 merchant.alpha.joinverse.com
-www.web.beta.joinverse.com

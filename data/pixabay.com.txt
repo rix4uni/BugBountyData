@@ -1,9 +1,7 @@
-*.pixabay.com
-*.community.pixabay.com
+community.pixabay.com
 ablink.community.pixabay.com
 admin.pixabay.com
 cdn.pixabay.com
-community.pixabay.com
 crt.pixabay.com
 db.pixabay.com
 db1.pixabay.com
@@ -38,7 +36,6 @@ rc1.pixabay.com
 rc2.pixabay.com
 safesearch.pixabay.com
 static.pixabay.com
-www.pixabay.com
 e.community.pixabay.com
 link.pixabay.com
 piwik.rc1.pixabay.com

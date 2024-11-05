@@ -1,4 +1,3 @@
-*.onepeloton.com.au
-*.test.onepeloton.com.au
-*.xtest.onepeloton.com.au
-*.secret.onepeloton.com.au
+test.onepeloton.com.au
+xtest.onepeloton.com.au
+secret.onepeloton.com.au

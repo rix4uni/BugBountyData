@@ -575,11 +575,6 @@ prod3-spx-components.sprinklr.com
 prod-samsung-care.sprinklr.com
 azrqa-office-restricted-azrlb.sprinklr.com
 presentations.sprinklr.com
-*.prod-k8singress-intuition2.sprinklr.com
-*.prod-k8singress-intuition2-crossenv.sprinklr.com
-*.prod11-intuition.k8s-ingress-internal.sprinklr.com
-*.prod3-intuition-aks.k8s-ingress-internal.sprinklr.com
-*.prod-intuition2.k8s-ingress-internal.sprinklr.com
 prod-login.sprinklr.com
 verizon-chat.sprinklr.com
 community-ring.sprinklr.com
@@ -603,7 +598,6 @@ pixel-qa6.sprinklr.com
 qa6-apps-gke-external.sprinklr.com
 pictet-app.sprinklr.com
 prod3-common-apps2-k8s-azrlb.sprinklr.com
-www.sprinklr.com
 coca-cola-app.sprinklr.com
 app-named1.sprinklr.com
 links-prod3.sprinklr.com
@@ -632,12 +626,10 @@ prod-external-share-api.sprinklr.com
 primericasocial.sprinklr.com
 telekom.sprinklr.com
 prod18-sprcdn-advocacy-assets.sprinklr.com
-www.nationwide.sprinklr.com
 hpeamplify.sprinklr.com
 help-teya.sprinklr.com
 prod-live-chat.sprinklr.com
 prod-lc-mqtt-nike.sprinklr.com
-www.help.sprinklr.com
 community-pregnancy-org.sprinklr.com
 community-eparticipation.sprinklr.com
 qa-performance-test.sprinklr.com
@@ -649,7 +641,6 @@ bounce.sprinklr.com
 prod2-capacity-audit.sprinklr.com
 space-qa4.sprinklr.com
 luv2run.sprinklr.com
-www.jpmc.sprinklr.com
 ba-realitycheckers.sprinklr.com
 webuinqa-109.sprinklr.com
 qawp.sprinklr.com
@@ -663,10 +654,7 @@ prod2-external-share-api.sprinklr.com
 prod4-anomaly-engine-influxdb.sprinklr.com
 prod8-apps-gke-kwex.sprinklr.com
 netflixcare-training-app.sprinklr.com
-www.hdfc-api-ssl.sprinklr.com
 apps-k8s-node-ui-ext.sprinklr.com
-www.ugcstaging-sprinklr.sprinklr.com
 prod0-poc.sprinklr.com
 prod8-live-chat.sprinklr.com
 pixel-qa4.sprinklr.com
-*.dotcom.sprinklr.com

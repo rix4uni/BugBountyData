@@ -1,8 +1,7 @@
 dev.engoo.com
-*.dev.admin.engoo.com
-*.dev.engoo.com
-*.dev.tutor.engoo.com
-*.stg.tutor.engoo.com
+dev.admin.engoo.com
+dev.tutor.engoo.com
+stg.tutor.engoo.com
 prometheus-linode.sys.engoo.com
 subdir.app.engoo.com
-*.rtc.app.engoo.com
+rtc.app.engoo.com

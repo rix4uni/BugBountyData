@@ -52,7 +52,6 @@ grafana.cgn-1-int.cns.greenbaum.cloud
 superadmin.merp.greenbaum.cloud
 meet.greenbaum.cloud
 imk.greenbaum.cloud
-www.greenbaum.cloud
 smtp.svc.69a6570d-f7be-6d77-cc96-bc755959c411.cgn-1.cns.greenbaum.cloud
 get-pub-solar.svc.9ff951c9-1dc7-6e21-9548-f68f5547636d.cgn-1.cns.greenbaum.cloud
 superadm.greenbaum.cloud
@@ -240,7 +239,7 @@ lev-1.grafana.greenbaum.cloud
 pay.greenbaum.cloud
 helloar.greenbaum.cloud
 mail.blacksmith-healthcare.greenbaum.cloud
-www.cgn-1.cns.greenbaum.cloud
+cgn-1.cns.greenbaum.cloud
 wekan.svc.e00ea7b3-16f2-6341-f799-d298d316d27c.cgn-1.cns.greenbaum.cloud
 lev-1.adminui.greenbaum.cloud
 ad.cp.greenbaum.cloud

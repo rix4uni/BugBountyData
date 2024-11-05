@@ -10,7 +10,6 @@ overview.ffrn.de
 chat.ffrn.de
 md.ffrn.de
 fw.gluon.ffrn.de
-*.fw.gluon.ffrn.de
 go-neb.ffrn.de
 ns.ffrn.de
 nodes.ffrn.de
@@ -61,7 +60,6 @@ altneckar.ffrn.de
 gw05.ffrn.de
 one-a.ffrn.de
 owe.ffrn.de
-www.ffrn.de
 jitsi.ffrn.de
 opkg.mirror.ffrn.de
 alertmanager.ffrn.de

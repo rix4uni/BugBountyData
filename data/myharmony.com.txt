@@ -1,8 +1,7 @@
-*.myharmony.com
-*.dhg.myharmony.com
-*.dynamite.myharmony.com
-*.express.myharmony.com
-*.int.myharmony.com
+dhg.myharmony.com
+dynamite.myharmony.com
+express.myharmony.com
+int.myharmony.com
 api.myharmony.com
 app.myharmony.com
 app-media.myharmony.com
@@ -14,11 +13,8 @@ community.myharmony.com
 content.dhg.myharmony.com
 dev01-aps.dynamite.myharmony.com
 developer.myharmony.com
-dhg.myharmony.com
-dynamite.myharmony.com
 es.myharmony.com
 es-logi.myharmony.com
-express.myharmony.com
 files.myharmony.com
 forms.myharmony.com
 ftp.myharmony.com
@@ -27,7 +23,6 @@ geo.myharmony.com
 gerrit.myharmony.com
 harmonyassist.dynamite.myharmony.com
 home.myharmony.com
-int.myharmony.com
 jenkins.dynamite.myharmony.com
 kpwebtest.dynamite.myharmony.com
 logging.dhg.myharmony.com
@@ -61,7 +56,6 @@ svcs-int02.myharmony.com
 svcs-stg01.myharmony.com
 training.myharmony.com
 web.myharmony.com
-www.myharmony.com
 cf-svcs.myharmony.com
 preview-app.myharmony.com
 localhost.dynamite.myharmony.com

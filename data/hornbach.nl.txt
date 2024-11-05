@@ -1,5 +1,4 @@
 backend-api.hornbach.nl
-www.hornbach.nl
 1m2.hornbach.nl
 cdn.hornbach.nl
 glue.stage.hornbach.nl
@@ -8,7 +7,7 @@ backend-api.stage.hornbach.nl
 zed.stg.gcp.hornbach.nl
 chat.hornbach.nl
 zed.prd.gcp.hornbach.nl
-www.dev.gcp.hornbach.nl
+dev.gcp.hornbach.nl
 dev-svc.hornbach.nl
 glue.int.hornbach.nl
 preprod.hornbach.nl
@@ -18,10 +17,9 @@ backend-api.prd.gcp.hornbach.nl
 stage.hornbach.nl
 eventplanner.hornbach.nl
 zed.hornbach.nl
-www.stg.gcp.hornbach.nl
+stg.gcp.hornbach.nl
 glue.stg.gcp.hornbach.nl
 glue.dev.gcp.hornbach.nl
-www.eventplanner.hornbach.nl
 dcoll.hornbach.nl
 backend-api.int.hornbach.nl
 zed.dev.hornbach.nl
@@ -32,7 +30,7 @@ jobs.hornbach.nl
 media.int.hornbach.nl
 services.hornbach.nl
 stage1.hornbach.nl
-www.prd.gcp.hornbach.nl
+prd.gcp.hornbach.nl
 dev.hornbach.nl
 intshop-a.hornbach.nl
 mobile.hornbach.nl
@@ -68,4 +66,4 @@ media.prd.hornbach.nl
 zed.dev.gcp.hornbach.nl
 oneapp-api.dev.gcp.hornbach.nl
 m2.hornbach.nl
-www.int.gcp.hornbach.nl
+int.gcp.hornbach.nl

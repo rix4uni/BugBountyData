@@ -4,7 +4,7 @@ git.popsql.com
 changelog.popsql.com
 docs.popsql.com
 prospect.popsql.com
-www.pinecone.iowww.popsql.com
+pinecone.iowww.popsql.com
 analyzer.popsql.com
 analytics-api.popsql.com
 cloud.popsql.com
@@ -19,7 +19,6 @@ get.popsql.com
 analytics-cdn.popsql.com
 api.popsql.com
 cio.popsql.com
-www.popsql.com
 analytic-cdn.popsql.com
 bridge.popsql.com
 app.popsql.com

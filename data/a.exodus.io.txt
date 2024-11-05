@@ -1,5 +1,4 @@
-*.a.exodus.io
-*.web-dapps.a.exodus.io
+web-dapps.a.exodus.io
 avax-c.a.exodus.io
 bitcoin.a.exodus.io
 bitcoinnew-d.a.exodus.io
@@ -28,7 +27,6 @@ support-helpers.a.exodus.io
 vgs-fiat-d.a.exodus.io
 vgs.fiat-d.a.exodus.io
 web-dapps-test.a.exodus.io
-web-dapps.a.exodus.io
 web3.a.exodus.io
 ada.a.exodus.io
 algo-api.a.exodus.io
@@ -573,7 +571,6 @@ vertcoin-d.a.exodus.io
 substrate-api-sidecar-d.a.exodus.io
 xtz-s.a.exodus.io
 scam-hitlist.a.exodus.io
-www.a.exodus.io
 polygon-clarity.a.exodus.io
 kyc-d.a.exodus.io
 kyc-s.a.exodus.io
@@ -588,4 +585,3 @@ minze.a.exodus.io
 polygon-qn-d.a.exodus.io
 kyc.a.exodus.io
 osmosis-proxy.a.exodus.io
-*.web-dapps-test.a.exodus.io

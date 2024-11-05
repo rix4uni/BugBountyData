@@ -43,7 +43,6 @@ emailoutcc.mail.walmartmoneycard.com
 emailoutbe.mail.walmartmoneycard.com
 emailoutad.mail.walmartmoneycard.com
 emailouted.mail.walmartmoneycard.com
-*.walmartmoneycard.com
 www1.walmartmoneycard.com
 billpayment.walmartmoneycard.com
 qa.walmartmoneycard.com
@@ -52,10 +51,8 @@ www-stage.walmartmoneycard.com
 kvicxs.walmartmoneycard.com
 stage.walmartmoneycard.com
 author-stage.walmartmoneycard.com
-www.walmartmoneycard.com
 fim.walmartmoneycard.com
 share.walmartmoneycard.com
 smetrics.walmartmoneycard.com
 billpaymenttest.walmartmoneycard.com
 mystory.walmartmoneycard.com
-www.qa.walmartmoneycard.com

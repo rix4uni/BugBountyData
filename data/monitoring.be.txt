@@ -33,7 +33,7 @@ _dev.monitoring.be
 com.kalashnikov.monitoring.be
 saibot.airport.operations.monitoring.be
 upgrade.hipchat.monitoring.be
-www.hipchat.monitoring.be
+hipchat.monitoring.be
 sensu.stage.monitoring.be
 captain.graphite.monitoring.be
 grafana.test.monitoring.be
@@ -50,11 +50,9 @@ stage.monitoring.be
 ro.cs.tao.services.monitoring.be
 beta.soasta.monitoring.be
 graphite.prod.monitoring.be
-hipchat.monitoring.be
 grafana.prod.monitoring.be
 dc.monitoring.be
 this.monitoring.be
-www.monitoring.be
 org.greencloud.agentsystem.agents.monitoring.be
 splunk.test.monitoring.be
 grafana.monitoring.be

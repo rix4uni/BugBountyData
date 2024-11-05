@@ -136,7 +136,7 @@ office-dhcp-41.nlnetlabs.nl
 office-dhcp-2.nlnetlabs.nl
 vpn-gw.nlnetlabs.nl
 ws-b7.nlnetlabs.nl
-www.tug.do.nlnetlabs.nl
+tug.do.nlnetlabs.nl
 blog.nlnetlabs.nl
 office-dhcp-94.nlnetlabs.nl
 txt3.jelte.nlnetlabs.nl
@@ -271,7 +271,6 @@ office-dhcp-50.nlnetlabs.nl
 phare.nlnetlabs.nl
 ws-67.nlnetlabs.nl
 ziz.nlnetlabs.nl
-www.nlnetlabs.nl
 office-dhcp-24.nlnetlabs.nl
 rrdp.krill.nlnetlabs.nl
 ws-5c.nlnetlabs.nl
@@ -289,7 +288,6 @@ ke2ettjeajiueh.do.nlnetlabs.nl
 ke2ethgwsydza9.do.nlnetlabs.nl
 ns3.nlnetlabs.nl
 office-dhcp-10.nlnetlabs.nl
-www.jelte.nlnetlabs.nl
 ns2.jelte.nlnetlabs.nl
 dromedary.nlnetlabs.nl
 vpn-client-233.nlnetlabs.nl
@@ -371,7 +369,7 @@ ke2etpoq0o8it8.do.nlnetlabs.nl
 docker-test.do.nlnetlabs.nl
 l2tp-4.vpn.nlnetlabs.nl
 guantanamo.nlnetlabs.nl
-www.dnsthought.nlnetlabs.nl
+dnsthought.nlnetlabs.nl
 ke2eteztqkuwhq.do.nlnetlabs.nl
 ke2etmwawuo5fz.do.nlnetlabs.nl
 info.jelte.nlnetlabs.nl
@@ -771,7 +769,6 @@ ns2.nonss.jelte.nlnetlabs.nl
 l2tp-6.vpn.nlnetlabs.nl
 routinator.docs.nlnetlabs.nl
 ws-ba.nlnetlabs.nl
-tug.do.nlnetlabs.nl
 nate.do.nlnetlabs.nl
 salt.nlnetlabs.nl
 spider.nlnetlabs.nl
@@ -841,7 +838,6 @@ amalia.nlnetlabs.nl
 office-dhcp-76.nlnetlabs.nl
 l2tp-f.vpn.nlnetlabs.nl
 ke2etibtgqtmvo.do.nlnetlabs.nl
-www.insecure.nlnetlabs.nl
 magnesium.nlnetlabs.nl
 office-dhcp-49.nlnetlabs.nl
 overview.nlnetlabs.nl
@@ -906,7 +902,6 @@ ws-02.nlnetlabs.nl
 ws-29.nlnetlabs.nl
 ws-52.nlnetlabs.nl
 aws.oskar456.nlnetlabs.nl
-dnsthought.nlnetlabs.nl
 parrot.nlnetlabs.nl
 pptp-0.vpn.nlnetlabs.nl
 ws-1d.nlnetlabs.nl

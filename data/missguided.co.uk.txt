@@ -25,7 +25,7 @@ help.missguided.co.uk
 web6.missguided.co.uk
 uat5.missguided.co.uk
 www-perf.awsnonprod.missguided.co.uk
-www.login.missguided.co.uk
+login.missguided.co.uk
 waitingroom.missguided.co.uk
 images.missguided.co.uk
 oat-static.missguided.co.uk
@@ -41,9 +41,7 @@ static.missguided.co.uk
 112.missguided.co.uk
 email.mail.missguided.co.uk
 web5.missguided.co.uk
-.www.missguided.co.uk
-www.sonicwall2.missguided.co.uk
-www.missguided.co.uk
+sonicwall2.missguided.co.uk
 112-www.missguided.co.uk
 admin2.missguided.co.uk
 nfs01.missguided.co.uk
@@ -58,10 +56,8 @@ blog.missguided.co.uk
 api.fashionkillaz.missguided.co.uk
 db02.missguided.co.uk
 ecap.missguided.co.uk
-login.missguided.co.uk
 113-au.missguided.co.uk
 eu.missguided.co.uk
-sonicwall2.missguided.co.uk
 staging-eu.missguided.co.uk
 admin1.missguided.co.uk
 au.missguided.co.uk

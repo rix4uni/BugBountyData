@@ -1,6 +1,6 @@
 seo.skypixel.com
-www.avatar.skypixel.com
-www.music.skypixel.com
+avatar.skypixel.com
+music.skypixel.com
 light.skypixel.com
 cdn-light-cms-us.skypixel.com
 m.skypixel.com
@@ -15,7 +15,6 @@ mailer.skypixel.com
 work-us.skypixel.com
 api.skypixel.com
 app-service.skypixel.com
-www.tokyo.skypixel.com
 cdn-usa.skypixel.com
 cnblog.skypixel.com
 cdn-light-cn.skypixel.com
@@ -32,10 +31,8 @@ hs-staging.skypixel.com
 cn-test-sp.skypixel.com
 link2.skypixel.com
 stag-cms2-backend.skypixel.com
-music.skypixel.com
 email.mailer.skypixel.com
 pre-prod-picasso.skypixel.com
-avatar.skypixel.com
 sp-img-usa-test.skypixel.com
 metabase.skypixel.com
 s2fly8yz1y.skypixel.com
@@ -47,14 +44,12 @@ mimo-uat.skypixel.com
 sp-img-cn-test.skypixel.com
 spcn-webfront.skypixel.com
 sp-webfront.skypixel.com
-www.skypixel.com
 cms-api-prod.skypixel.com
 link.skypixel.com
 origin-www.skypixel.com
 test-cdn-light-cn.skypixel.com
 cdn-hz.skypixel.com
 prelaunch-usa.skypixel.com
-*.skypixel.com
 everything.skypixel.com
 setup-china.skypixel.com
 cdn-sp-webfront-cn.skypixel.com

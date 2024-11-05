@@ -1,6 +1,5 @@
-*.redis.com
-*.exhibit.demo.gallery.redis.com
-*.redisinsight.redis.com
+exhibit.demo.gallery.redis.com
+redisinsight.redis.com
 aether.ci.demo.gallery.redis.com
 auth.redis.com
 ci.demo.gallery.redis.com
@@ -13,7 +12,6 @@ download.redisinsight.redis.com
 engage.redis.com
 engineering.redis.com
 events.redis.com
-exhibit.demo.gallery.redis.com
 experience.redis.com
 forum.redis.com
 get.redis.com
@@ -36,7 +34,6 @@ oss.redis.com
 pages.redis.com
 portal.redis.com
 preferences.redis.com
-redisinsight.redis.com
 rlchat.redis.com
 sjpoc.redis.com
 stage-university.redis.com
@@ -53,7 +50,6 @@ trust.redis.com
 university.redis.com
 view.redis.com
 webmaster.redis.com
-www.redis.com
 auth.redisinsight.redis.com
 bounce.redis.com
 bounce1.redis.com

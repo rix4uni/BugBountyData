@@ -1024,7 +1024,7 @@ essentials-arc-web.aws-us-east-1.proofpoint.com
 scancloud-connector-eu.proofpoint.com
 scancloud.proofpoint.com
 scancloud-ext.prod-c15b-awsuse.proofpoint.com
-*.native.mc.access.proofpoint.com
+native.mc.access.proofpoint.com
 stg1-swg-nginx-s3-gw.access.proofpoint.com
 swg-nginx-s3-gw.access.proofpoint.com
 scancloud-ext.prod-c15a-awseuc.proofpoint.com
@@ -1480,10 +1480,8 @@ continuity-us3-webdav.prod-c15b-awsuse.proofpoint.com
 health-checker.prod-tapidmp-eks2-euc1.proofpoint.com
 health-checker.prod-scam-eks1-use1.proofpoint.com
 eu.access.proofpoint.com
-*.eu.access.proofpoint.com
 threatprotection.proofpoint.com
 us.access.proofpoint.com
-*.us.access.proofpoint.com
 inline-deploy.prod-c15a-awsuse.proofpoint.com
 91-207-213-80.proofpoint.com
 bifrost-api.prod-c15a-awsusw.proofpoint.com
@@ -1861,7 +1859,6 @@ prs-vip.ut7.proofpoint.com
 67-231-150-105.proofpoint.com
 67-231-158-14.proofpoint.com
 91-207-213-145.proofpoint.com
-www.outreach.proofpoint.com
 api.transit.private-green.us-east-1.clean1.dev.oit.proofpoint.com
 scancloud-ext.prod-c15b-awsapse2.proofpoint.com
 67-231-150-151.proofpoint.com
@@ -1983,7 +1980,6 @@ tap-vip.proofpoint.com
 testnewbdtfeatures.dev.picp.proofpoint.com
 67-231-158-7.proofpoint.com
 91-207-213-240.proofpoint.com
-www.scancloud-connector-eu.proofpoint.com
 62-209-50-245.proofpoint.com
 api.ingest.ap-southeast-2.ci1.dev.oit.proofpoint.com
 91-207-213-173.proofpoint.com
@@ -1998,7 +1994,6 @@ ctistaging.proofpoint.com
 208-84-64-194.proofpoint.com
 208-84-66-23.proofpoint.com
 67-231-155-32.proofpoint.com
-www.fieldmarketing.proofpoint.com
 67-231-147-160.proofpoint.com
 67-231-147-93.proofpoint.com
 91-207-213-68.proofpoint.com
@@ -2177,7 +2172,6 @@ canary-stp-api.prod-c15b-awsuse.proofpoint.com
 update-ams-internal.proofpoint.com
 67-231-155-146.proofpoint.com
 api.ingest.private-blue.eu-central-1.ci1.dev.oit.proofpoint.com
-www.threatresponse.proofpoint.com
 threatprotection.prod-c15a-awsuse.proofpoint.com
 91-209-104-227.proofpoint.com
 qamanualtestjan.dev.picp.proofpoint.com
@@ -2214,7 +2208,6 @@ tacacs-vip.us.proofpoint.com
 tapeng-tsa.prod-c15a-awsuse.proofpoint.com
 67-231-158-24.proofpoint.com
 67-231-150-223.proofpoint.com
-native.mc.access.proofpoint.com
 67-231-147-67.proofpoint.com
 lv-avatier04.corp.proofpoint.com
 62-209-50-73.proofpoint.com
@@ -2231,7 +2224,6 @@ testinfrachanges.dev.picp.proofpoint.com
 67-231-147-208.proofpoint.com
 lb4003.proofpoint.com
 se-ns1.proofpoint.com
-www.admin.proofpoint.com
 208-86-203-0.proofpoint.com
 67-231-154-252.proofpoint.com
 host-1.csands.se.proofpoint.com
@@ -2578,7 +2570,6 @@ canary-mde-connector.prod-c15a-awsuse.proofpoint.com
 208-84-64-160.proofpoint.com
 208-86-200-247.proofpoint.com
 62-209-50-82.proofpoint.com
-www.tap-vip.proofpoint.com
 208-86-200-19.proofpoint.com
 67-231-150-187.proofpoint.com
 ge-0-0-1-203.cr4001.proofpoint.com
@@ -2727,7 +2718,6 @@ relay-config.ser.proofpoint.com
 content.pendo-io.access.proofpoint.com
 208-84-66-214.proofpoint.com
 67-231-147-91.proofpoint.com
-www.harness-external.proofpoint.com
 185-132-181-31.proofpoint.com
 67-231-147-136.proofpoint.com
 91-207-213-147.proofpoint.com
@@ -2870,7 +2860,6 @@ fbetsa.se.proofpoint.com
 67-231-154-228.proofpoint.com
 arcfeeds.proofpoint.com
 jenkins.prov1.dev.picp.proofpoint.com
-www.adminapi-ca.proofpoint.com
 208-84-65-255.proofpoint.com
 citdesk.site.proofpoint.com
 emx-54-157-249-253.mx.emaildefense.proofpoint.com
@@ -3198,7 +3187,6 @@ lb-vip-snv.proofpoint.com
 api.private.eu-central-1.ci1.dev.oit.proofpoint.com
 citsecsrv.corp.proofpoint.com
 pps801-master.ttucker.se.proofpoint.com
-www.tapnsa.proofpoint.com
 canary-hermes-api.prod-c15b-awsuse.proofpoint.com
 share.proofpoint.com
 91-209-104-255.proofpoint.com
@@ -3251,7 +3239,6 @@ snv-ata01.corp.proofpoint.com
 api.ingest-green.ca-central-1.op1.op.analyze.proofpoint.com
 mde-connector.prod-c15a-awsuse.proofpoint.com
 smtp-ut7.proofpoint.com
-www.mde-add-in.proofpoint.com
 67-231-155-221.proofpoint.com
 rcoulter.se.proofpoint.com
 uivm071.proofpoint.com
@@ -3350,7 +3337,6 @@ tap-vip.prod-c15a-awsuse.proofpoint.com
 67-231-155-242.proofpoint.com
 91-207-213-24.proofpoint.com
 secureshare-int.proofpoint.com
-www.proofpoint.com
 208-86-200-21.proofpoint.com
 67-231-147-240.proofpoint.com
 remilogrotate.dev.picp.proofpoint.com
@@ -3391,7 +3377,6 @@ inline-deploy.prod-c15b-awsuse.proofpoint.com
 67-231-154-212.proofpoint.com
 91-209-104-207.proofpoint.com
 cr001-ge-1-0-6.at1.proofpoint.com
-www.hm.proofpoint.com
 62-209-50-85.proofpoint.com
 api.transit.private-green.us-east-1.ci1pr.dev.oit.proofpoint.com
 www29.proofpoint.com
@@ -3424,7 +3409,6 @@ e-0-1.fw5001-2.proofpoint.com
 62-209-50-143.proofpoint.com
 67-231-150-100.proofpoint.com
 canary-mde-connector.prod-c15b-awsuse.proofpoint.com
-www.tric-api.threatresponse.proofpoint.com
 62-209-50-255.proofpoint.com
 208-84-64-240.proofpoint.com
 91-207-213-140.proofpoint.com
@@ -3567,7 +3551,6 @@ rmupdatetest.dev.picp.proofpoint.com
 67-231-147-19.proofpoint.com
 67-231-147-209.proofpoint.com
 91-207-213-33.proofpoint.com
-www.essentials-aws-connector.proofpoint.com
 208-86-200-26.proofpoint.com
 ptp.vpn.proofpoint.com
 91-209-104-241.proofpoint.com
@@ -3627,7 +3610,6 @@ sa-us-new.proofpoint.com
 67-231-155-184.proofpoint.com
 91-207-213-126.proofpoint.com
 api.blue.ca-central-1.ci1.dev.oit.proofpoint.com
-www.digitalrisk.proofpoint.com
 ravpn-onespan-sc4.proofpoint.com
 208-84-64-166.proofpoint.com
 208-84-64-222.proofpoint.com
@@ -3648,7 +3630,6 @@ continuity-us3-webmail.prod-c15b-awsuse.proofpoint.com
 health-checker.prod-shared-eks1-use1.proofpoint.com
 208-84-66-112.proofpoint.com
 67-231-154-220.proofpoint.com
-www.fmcfeedback.proofpoint.com
 67-231-147-212.proofpoint.com
 67-231-150-71.proofpoint.com
 testbenchmarking.dev.picp.proofpoint.com
@@ -3871,7 +3852,6 @@ mail-eu.ser.proofpoint.com
 62-209-50-16.proofpoint.com
 67-231-150-235.proofpoint.com
 adptest.dev.picp.proofpoint.com
-www.nostradamus-predictor-alpha.proofpoint.com
 67-231-150-39.proofpoint.com
 91-207-213-198.proofpoint.com
 canary-mde-add-in.prod-c15b-awsuse.proofpoint.com
@@ -3886,7 +3866,6 @@ cts2-sc4.proofpoint.com
 api.transit.private-blue.us-east-1.stage1.stage.analyze.proofpoint.com
 67-231-150-188.proofpoint.com
 logstream-v3.prod-c15c-awsuse.proofpoint.com
-www.dsp-api.proofpoint.com
 67-231-147-134.proofpoint.com
 67-231-150-58.proofpoint.com
 208-84-64-120.proofpoint.com
@@ -4015,7 +3994,6 @@ login.socialng.proofpoint.com
 67-231-155-84.proofpoint.com
 91-209-104-204.proofpoint.com
 ns-sfo.proofpoint.com
-www.ingest-api-alpha.proofpoint.com
 cts3-sc4.proofpoint.com
 208-84-64-127.proofpoint.com
 208-86-200-255.proofpoint.com
@@ -4066,7 +4044,6 @@ vpn.proofpoint.com
 91-209-104-81.proofpoint.com
 67-231-150-53.proofpoint.com
 67-231-154-229.proofpoint.com
-www.tsalite.proofpoint.com
 91-207-213-208.proofpoint.com
 canary-scancloud-connector-eu.proofpoint.com
 testupdatemodels.dev.picp.proofpoint.com
@@ -4171,7 +4148,6 @@ exch.site.proofpoint.com
 91-207-213-114.proofpoint.com
 admingwd.sc4.proofpoint.com
 91-207-213-242.proofpoint.com
-www.threatprotection-api.proofpoint.com
 208-84-64-48.proofpoint.com
 208-86-200-199.proofpoint.com
 62-209-50-116.proofpoint.com
@@ -4297,7 +4273,6 @@ emx-54-91-95-251.mx.emaildefense.proofpoint.com
 67-231-147-197.proofpoint.com
 canary-takedown-admin-api.prod-c15a-awsuse.proofpoint.com
 208-86-200-24.proofpoint.com
-www.heartbeat.proofpoint.com
 62-209-50-56.proofpoint.com
 67-231-150-241.proofpoint.com
 bxtest.hosted.picp.proofpoint.com

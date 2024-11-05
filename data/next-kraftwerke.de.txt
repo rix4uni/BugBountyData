@@ -1,6 +1,5 @@
 tennet-pfm-test.next-kraftwerke.de
 tennet-pfm-prod.next-kraftwerke.de
-www.next-kraftwerke.de
 cplus-lf.next-kraftwerke.de
 chat.next-kraftwerke.de
 ems7.next-kraftwerke.de
@@ -50,7 +49,6 @@ nxhet-phe-front02.rzhet.next-kraftwerke.de
 rest2.next-kraftwerke.de
 exchange.domain.next-kraftwerke.de
 haggunenon2.next-kraftwerke.de
-www.ems.next-kraftwerke.de
 nxhet-phe-esx01.rzhet.next-kraftwerke.de
 haggunenon.next-kraftwerke.de
 nc01.next-kraftwerke.de
@@ -74,7 +72,6 @@ vpn.rzhet.next-kraftwerke.de
 aggregator-api.next-kraftwerke.de
 gw.next-kraftwerke.de
 autodiscover.next-kraftwerke.de
-www.keycloak.next-kraftwerke.de
 nc02.next-kraftwerke.de
 services.next-kraftwerke.de
 conference.next-kraftwerke.de
@@ -91,4 +88,3 @@ mxout-2200.next-kraftwerke.de
 g2t.next-kraftwerke.de
 nxhet-phe-esx02.rzhet.next-kraftwerke.de
 weekly.next-kraftwerke.de
-www.exo.next-kraftwerke.de

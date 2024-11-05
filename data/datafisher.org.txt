@@ -1,6 +1,4 @@
-*.upgrade.t.datafisher.org
 upgrade.t.datafisher.org
-*.datafisher.org
 cct.datafisher.org
 intmail.datafisher.org
 adapt.datafisher.org
@@ -28,19 +26,14 @@ learn.storaenso.com.prod.datafisher.org
 lms.swedishpdi.com.prod.datafisher.org
 elearning.caverioncampus.ru.prod.datafisher.org
 elearning.caverioncampus.com.prod.datafisher.org
-*.l.datafisher.org
 l.datafisher.org
-*.ll.datafisher.org
-*.int.datafisher.org
-*.s.datafisher.org
-*.se.t.datafisher.org
+ll.datafisher.org
 se.t.datafisher.org
 pauliggroup.datafisher.com.prod.datafisher.org
 dam.dfdolphin.com.prod.datafisher.org
 demo.dfdolphin.com.prod.datafisher.org
 df1.datafisher.org
 sec.datafisher.org
-www.datafisher.org
 dfdolphin.com.prod.datafisher.org
 enics-lms.dfcloud.io.prod.datafisher.org
 t.datafisher.org
@@ -54,6 +47,5 @@ demos.softwar.com.prod.datafisher.org
 afry.t.datafisher.org
 ahlstrom.datafisher.com.prod.datafisher.org
 imoh.t.datafisher.org
-ll.datafisher.org
 lp.datafisher.org
 test.t.datafisher.org

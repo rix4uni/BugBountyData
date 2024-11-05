@@ -1,4 +1,3 @@
-*.sandbox.directly.com
 0-216.sandbox.directly.com
 0-31.sandbox.directly.com
 007qiutanbifen.sandbox.directly.com
@@ -512,20 +511,11 @@ wp.app.sandbox.directly.com
 wp.sandbox.directly.com
 ww1.app.sandbox.directly.com
 ww1.sandbox.directly.com
-www.app.sandbox.directly.com
-www.cache.sandbox.directly.com
-www.cai.sandbox.directly.com
-www.db.sandbox.directly.com
-www.odincovo.sandbox.directly.com
-www.paypal-service-support.sandbox.directly.com
-www.paypal-signin.sandbox.directly.com
-www.sandbox.directly.com
-www.sandbox-worker01.sandbox.directly.com
-www.sandbox0.sandbox.directly.com
-www.sandbox01.sandbox.directly.com
-www.sandbox02.sandbox.directly.com
-www.sandbox1.sandbox.directly.com
-www.sandbox2.sandbox.directly.com
+cache.sandbox.directly.com
+cai.sandbox.directly.com
+db.sandbox.directly.com
+paypal-service-support.sandbox.directly.com
+paypal-signin.sandbox.directly.com
 www1.app.sandbox.directly.com
 www1.sandbox.directly.com
 www2.app.sandbox.directly.com
@@ -795,7 +785,6 @@ cachesslvpn-auth-mirror-my-oceania.sandbox.directly.com
 cai-db.sandbox.directly.com
 cai-dbchimebank.sandbox.directly.com
 cai-dbcostco.sandbox.directly.com
-cai.sandbox.directly.com
 campb97-11.sandbox.directly.com
 catloveers.sandbox.directly.com
 cbr.sandbox.directly.com
@@ -914,7 +903,6 @@ daws5.sandbox.directly.com
 day1s.sandbox.directly.com
 db-auth-mirror-my-oceania.sandbox.directly.com
 db-eu-gb.sandbox.directly.com
-db.sandbox.directly.com
 db2fms6.sandbox.directly.com
 dbfldn.sandbox.directly.com
 dbms-apiacc-accantiviruspre.sandbox.directly.com
@@ -2169,7 +2157,6 @@ wpe-client02-vm4.sandbox.directly.com
 ww-rsw95-2-prd.sandbox.directly.com
 ww1db2-corp.sandbox.directly.com
 www-edge.sandbox.directly.com
-www.shopping-world.sandbox.directly.com
 www0-shopamerica.sandbox.directly.com
 www68-6.sandbox.directly.com
 wwwwoceania-exchangedns.sandbox.directly.com
@@ -2447,7 +2434,7 @@ gabriel.app.sandbox.directly.com
 135-197-228-77.sandbox.directly.com
 135-207-168-12.sandbox.directly.com
 sni210393.app.sandbox.directly.com
-www.netflix-service-support.sandbox.directly.com
+netflix-service-support.sandbox.directly.com
 _collab-edge.app.sandbox.directly.com
 cn-nc-pod5-smp-device.sandbox.directly.com
 gomonster.sandbox.directly.com

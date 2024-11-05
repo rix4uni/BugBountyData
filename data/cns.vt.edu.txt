@@ -153,7 +153,7 @@ apps-preprod.cns.vt.edu
 nexus.cns.vt.edu
 webdav-prod-02.sda.cns.vt.edu
 cola-prod-02.cns.vt.edu
-www.publicportal.cns.vt.edu
+publicportal.cns.vt.edu
 junebug.cns.vt.edu
 dirkpc.cns.vt.edu
 brmmac.cns.vt.edu
@@ -174,7 +174,7 @@ keyserver.cns.vt.edu
 lanternfly.cns.vt.edu
 catvsurvey.cns.vt.edu
 stctr-219a1-ups-1.cns.vt.edu
-www.wireless.cns.vt.edu
+wireless.cns.vt.edu
 lunamoth.cns.vt.edu
 telephony.cns.vt.edu
 locust.cns.vt.edu
@@ -190,7 +190,6 @@ handel.cns.vt.edu
 armyworm.cns.vt.edu
 netcert.cns.vt.edu
 fish.cns.vt.edu
-www.cns.vt.edu
 ipv6-test-nolisten6.cns.vt.edu
 n2d037803.cns.vt.edu
 groupw.cns.vt.edu
@@ -232,7 +231,6 @@ hil-agw-1.cns.vt.edu
 owe-8e-ups-1.cns.vt.edu
 roseweevil.cns.vt.edu
 stgdesk.cns.vt.edu
-wireless.cns.vt.edu
 guest-dev.cns.vt.edu
 wirelesswg.cns.vt.edu
 webapp.neo.cns.vt.edu

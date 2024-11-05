@@ -49,7 +49,7 @@ cdn.ci.fr.cloud.gov
 pre.ci.fr.cloud.gov
 8c47d2ca892db2db73cef85013aac495.ci.fr.cloud.gov
 cc13cd6e46c1owa.ci.fr.cloud.gov
-www.appleid.jp.ci.fr.cloud.gov
+appleid.jp.ci.fr.cloud.gov
 gcom-product-find-qa.ci.fr.cloud.gov
 mail1.ci.fr.cloud.gov
 portal.ci.fr.cloud.gov
@@ -147,7 +147,6 @@ mysql.ci.fr.cloud.gov
 dyn.ci.fr.cloud.gov
 en.ci.fr.cloud.gov
 docker.ci.fr.cloud.gov
-www.ci.fr.cloud.gov
 autoconfig.ci.fr.cloud.gov
 signup.ci.fr.cloud.gov
 log.ci.fr.cloud.gov
@@ -175,7 +174,7 @@ _dmarc.ci.fr.cloud.gov
 gws-qa.ci.fr.cloud.gov
 nodejs-dev.ci.fr.cloud.gov
 a.ci.fr.cloud.gov
-www.verification-apple-appleid-account.ci.fr.cloud.gov
+verification-apple-appleid-account.ci.fr.cloud.gov
 awsdashboard.ci.fr.cloud.gov
 auth.ci.fr.cloud.gov
 cdq-api.ci.fr.cloud.gov

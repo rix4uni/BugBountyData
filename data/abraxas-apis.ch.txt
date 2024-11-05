@@ -21,7 +21,6 @@ sk-sg.bot.abraxas-apis.ch
 pre.iam.abraxas-apis.ch
 pre-dok.t04.migration-aap.abraxas-apis.ch
 pre.dok.abraxas-apis.ch
-www.abraxas-apis.ch
 pfaeffikon.bot.abraxas-apis.ch
 bdm-bs.bot.abraxas-apis.ch
 adliswil.bot.abraxas-apis.ch
@@ -241,7 +240,6 @@ pre.ep.abraxas-apis.ch
 wissenstool-zuerich.bot.abraxas-apis.ch
 taxmodeldata-backend.sta.sn.abraxas-apis.ch
 attachment-backend.sta.sn.abraxas-apis.ch
-www.sta.abraxas-apis.ch
 rebstein.bot.abraxas-apis.ch
 arc.vo.abraxas-apis.ch
 rebstein.sta.bot.abraxas-apis.ch
@@ -322,13 +320,10 @@ pro-sgl-sec.p03.migration-aap.abraxas-apis.ch
 next.bot.abraxas-apis.ch
 emm.p02.migration-aap.abraxas-apis.ch
 demo.txa.abraxas-apis.ch
-*.pro.identityservice.in.abraxas-apis.ch
 pro.identityservice.in.abraxas-apis.ch
-*.pro.mobile.in.abraxas-apis.ch
 pro.mobile.in.abraxas-apis.ch
 sg.sta.per.abraxas-apis.ch
 gbdbs.ter.abraxas-apis.ch
-www.gbdbs.ter.abraxas-apis.ch
 mobile.ep.abraxas-apis.ch
 b2b.ep.abraxas-apis.ch
 sta.dok-ecm.abraxas-apis.ch
@@ -337,11 +332,8 @@ stadt-sg.uat.bot.abraxas-apis.ch
 sta-con.t15.migration-aap.abraxas-apis.ch
 wetzikon.uat.bot.abraxas-apis.ch
 sta-con.t04.migration-aap.abraxas-apis.ch
-*.bot.abraxas-apis.ch
 bot.abraxas-apis.ch
-*.pre.mobile.in.abraxas-apis.ch
 pre.mobile.in.abraxas-apis.ch
-*.pre.identityservice.in.abraxas-apis.ch
 pre.identityservice.in.abraxas-apis.ch
 pro-bp.t02.migration-aap.abraxas-apis.ch
 sta-iks.t02.migration-aap.abraxas-apis.ch
@@ -372,8 +364,6 @@ sn-sta.t07.migration-aap.abraxas-apis.ch
 txa-pre.t07.migration-aap.abraxas-apis.ch
 txa-dev.t07.migration-aap.abraxas-apis.ch
 sta-yt.t06.migration-aap.abraxas-apis.ch
-*.abraxas-apis.ch
-*.pre.in.abraxas-apis.ch
 pre.in.abraxas-apis.ch
 sta.mig1.vo.abraxas-apis.ch
 pre.mig0.vo.abraxas-apis.ch
@@ -382,11 +372,10 @@ wetzikon.sta.bot.abraxas-apis.ch
 rueti.sta.bot.abraxas-apis.ch
 ma-zh.sta.bot.abraxas-apis.ch
 sta.eb.abraxas-apis.ch
-*.dev.sn.abraxas-apis.ch
-*.mig.p04.aap.abraxas-apis.ch
-*.p03.migration-aap.abraxas-apis.ch
-*.pre.sn.abraxas-apis.ch
-*.t04.migration-aap.abraxas-apis.ch
+dev.sn.abraxas-apis.ch
+mig.p04.aap.abraxas-apis.ch
+p03.migration-aap.abraxas-apis.ch
+t04.migration-aap.abraxas-apis.ch
 api-abraxas.iam.abraxas-apis.ch
 api-abraxas.pre.iam.abraxas-apis.ch
 api-sg.pre.iam.abraxas-apis.ch
@@ -414,7 +403,6 @@ sta.grpc-pap.dok-ecm.abraxas-apis.ch
 sta.grpc-schema.dok-ecm.abraxas-apis.ch
 sta.grpc-tenant.dok-ecm.abraxas-apis.ch
 sta.tax.abraxas-apis.ch
-www.gbdbsr3.ter.abraxas-apis.ch
 zh.uat.vo.abraxas-apis.ch
 zh.vo.abraxas-apis.ch
 sta.bbt.sec.abraxas-apis.ch
@@ -422,7 +410,3 @@ sta.db.dat.abraxas-apis.ch
 db.dat.abraxas-apis.ch
 pre.b2b.ep.abraxas-apis.ch
 bbt.sec.abraxas-apis.ch
-t04.migration-aap.abraxas-apis.ch
-dev.sn.abraxas-apis.ch
-p03.migration-aap.abraxas-apis.ch
-mig.p04.aap.abraxas-apis.ch

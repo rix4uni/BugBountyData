@@ -1,4 +1,3 @@
-*.gravitational.co
 acquia-east.gravitational.co
 acquia-main.gravitational.co
 adfs-east.gravitational.co
@@ -380,9 +379,6 @@ webinar-main.gravitational.co
 wework-east.gravitational.co
 wework-main.gravitational.co
 wordpresscluster.gravitational.co
-www.gravitational.co
-www.router.gravitational.co
-www.unifi.gravitational.co
 zdemo4-east.gravitational.co
 zdemo4-main.gravitational.co
 zdemo426-east.gravitational.co

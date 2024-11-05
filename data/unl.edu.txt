@@ -96,7 +96,6 @@ ffar-cr1000.unl.edu
 rtr129-93-86-0.unl.edu
 cselab6-000.unl.edu
 mycloudpr4100.unl.edu
-www.unl.edu
 www1.unl.edu
 hcc.unl.edu
 iimsrv8.unl.edu
@@ -109,7 +108,6 @@ cif.unl.edu
 wetcode.unl.edu
 libanswers.unl.edu
 unp-bookworm.unl.edu
-*.unp-bookworm.unl.edu
 jems-tst-hist.unl.edu
 cse.unl.edu
 aaai15-fundingsession.unl.edu
@@ -141,8 +139,6 @@ streubel.unl.edu
 studentobservatory.unl.edu
 sudoku.unl.edu
 vita.unl.edu
-www.cse.unl.edu
-www.physics.unl.edu
 coe-promotenure.unl.edu
 jems-tst-mysql.unl.edu
 seresl.unl.edu
@@ -151,7 +147,6 @@ smtp.unl.edu
 mailforward6.unl.edu
 mailrelay.unl.edu
 bf-3stk2n3.unl.edu
-*.unl.edu
 jems-prd-mysql.unl.edu
 ucommsrv4.unl.edu
 validator.unl.edu
@@ -162,7 +157,6 @@ cdrhmedia.unl.edu
 cdrhtest2.unl.edu
 familyletters.unl.edu
 lewisandclarkjournals.unl.edu
-www.biohuman.unl.edu
 biohuman.unl.edu
 its-lampinteg2.unl.edu
 accesscontrol-dev.unl.edu
@@ -272,7 +266,6 @@ ulearn.unl.edu
 unlreport.unl.edu
 varietytesting.unl.edu
 vetmed-scanning.unl.edu
-www.ianrpubs.unl.edu
 zoom-webinars.unl.edu
 its-lampstage2.unl.edu
 accesscontrol-stage.unl.edu
@@ -654,7 +647,7 @@ crec-212.unl.edu
 asc-dbase-test.unl.edu
 pcp430021pcs.unl.edu
 vcr-rzavala2.unl.edu
-www.kap.unl.edu
+kap.unl.edu
 pcp429219pcs.unl.edu
 pcp143976pcs.unl.edu
 red-c5415.unl.edu
@@ -1012,7 +1005,7 @@ pcp075974pcs.unl.edu
 pcp385797pcs.unl.edu
 arubatest.unl.edu
 agr-ham3.unl.edu
-www.sioux.unl.edu
+sioux.unl.edu
 ell-rm107.unl.edu
 pcp090323pcs.unl.edu
 phrec115.unl.edu
@@ -1093,7 +1086,7 @@ is-brnt-mac36.unl.edu
 facm1589.unl.edu
 secd-mkuhn.unl.edu
 hcc-nextt-scal-oob.unl.edu
-www.telecom.unl.edu
+telecom.unl.edu
 cba12l002.unl.edu
 its-681acddyv72.unl.edu
 secd-lnl14.unl.edu
@@ -1192,7 +1185,7 @@ nex00-all1234.unl.edu
 he142w2.unl.edu
 tlte-d102092.unl.edu
 lw1142-othmer15a.unl.edu
-www.parking.unl.edu
+parking.unl.edu
 win7_32-pc.unl.edu
 math-d5d758.unl.edu
 net-cr328.unl.edu
@@ -1323,7 +1316,7 @@ ff-backup01.unl.edu
 pcp430148pcs.unl.edu
 pcp138764pcs.unl.edu
 explore-evolution.unl.edu
-www.literacy.unl.edu
+literacy.unl.edu
 pcp075690pcs.unl.edu
 pcp079094pcs.unl.edu
 unl-nh520amxrx1.unl.edu
@@ -1562,7 +1555,7 @@ psych-mfflood.unl.edu
 pcp295687pcs.unl.edu
 newoperator3.unl.edu
 pcp333588pcs.unl.edu
-www.cfpaits.unl.edu
+cfpaits.unl.edu
 pcp186975pcs.unl.edu
 soc-dadf8b.unl.edu
 pcp428430pcs.unl.edu
@@ -1926,7 +1919,7 @@ unlesst217.unl.edu
 pcp060209pcs.unl.edu
 vbc-ipkvm.unl.edu
 unpd1109.unl.edu
-www.wsdecidenow.unl.edu
+wsdecidenow.unl.edu
 secd-261-cam.unl.edu
 dsaec-188pc.unl.edu
 pcp094703pcs.unl.edu
@@ -2168,7 +2161,7 @@ nfs-0977.unl.edu
 cob345b-kg5.unl.edu
 is-mrr-mac01.unl.edu
 unl-city-cp-sub1-pat.unl.edu
-www.plantpath.unl.edu
+plantpath.unl.edu
 ansc-hub22016.unl.edu
 pcp136953pcs.unl.edu
 psyc-4xfym02.unl.edu
@@ -2406,7 +2399,7 @@ pcp428104pcs.unl.edu
 pcp428966pcs.unl.edu
 pcp139726pcs.unl.edu
 red-d17n31.unl.edu
-www.ckb.unl.edu
+ckb.unl.edu
 nex08-gkzpnh2.unl.edu
 pcp162617pcs.unl.edu
 agr-haa6-3.unl.edu
@@ -2470,7 +2463,7 @@ cb3-5n9c3mm.unl.edu
 lclgt-ds-007.unl.edu
 casnr-gtr4kh2.unl.edu
 pas-1.unl.edu
-www.cob-aquarius.unl.edu
+cob-aquarius.unl.edu
 red-c2131.unl.edu
 nen2015rastede.unl.edu
 net4114.unl.edu
@@ -2742,7 +2735,7 @@ archives-spec.unl.edu
 hp1200-e236.unl.edu
 pcp152226pcs.unl.edu
 uc-mdc1.unl.edu
-www.wm-imp-3.unl.edu
+wm-imp-3.unl.edu
 pcp131268pcs.unl.edu
 desktop-lj3g0fa.unl.edu
 red-c1531.unl.edu
@@ -2923,7 +2916,7 @@ secd-loveall.unl.edu
 pcp429084pcs.unl.edu
 facm1336.unl.edu
 pcp075787pcs.unl.edu
-www.antiochia.unl.edu
+antiochia.unl.edu
 cba307as5.unl.edu
 gpc.unl.edu
 geog-9cbrx12.unl.edu
@@ -3032,7 +3025,6 @@ pcp078678pcs.unl.edu
 neun-enbulind.unl.edu
 dtfw-246-99.unl.edu
 pcp173200pcs.unl.edu
-cob-aquarius.unl.edu
 fmsbreakroom.unl.edu
 neun-cafesignleft.unl.edu
 pcp105940pcs.unl.edu
@@ -3400,7 +3392,7 @@ pcp031269pcs.unl.edu
 pcp347782pcs.unl.edu
 ccfl-clewis.unl.edu
 nhw213-amx-control.unl.edu
-www.cpsws.unl.edu
+cpsws.unl.edu
 pcp058106pcs.unl.edu
 pcp144910pcs.unl.edu
 lied-dstratman.unl.edu
@@ -3700,7 +3692,7 @@ finaid-rs11.unl.edu
 pcp388471pcs.unl.edu
 interaction.unl.edu
 pcp080309pcs.unl.edu
-www.dakota.unl.edu
+dakota.unl.edu
 pcp164785pcs.unl.edu
 pcp144063pcs.unl.edu
 rsch-fvncjm2.unl.edu
@@ -3761,7 +3753,7 @@ myinfo.unl.edu
 uh-reg111.unl.edu
 titan.unl.edu
 facm-shemp.unl.edu
-www.exempt.unl.edu
+exempt.unl.edu
 desktop-qkbq3bq.unl.edu
 unpdvpn11.unl.edu
 ansci-omr.unl.edu
@@ -4075,7 +4067,7 @@ ntc-262h-01.unl.edu
 coe-pc039.unl.edu
 jcs-cadlab02.unl.edu
 pcp142408pcs.unl.edu
-www.centralsandhills.unl.edu
+centralsandhills.unl.edu
 pcp171583pcs.unl.edu
 pcp137876pcs.unl.edu
 pcp141927pcs.unl.edu
@@ -4130,7 +4122,7 @@ bdl-5db8ns1.unl.edu
 ap42-betathetaphi-203.unl.edu
 pcp164527pcs.unl.edu
 engl-f1bbd1.unl.edu
-www.boone-nance.unl.edu
+boone-nance.unl.edu
 uhon-1105cr.unl.edu
 cse-avery347.unl.edu
 ath-sgraymiller.unl.edu
@@ -4377,7 +4369,7 @@ milh-c1-te4-4.unl.edu
 desktop-n6u48nq.unl.edu
 pcp142007pcs.unl.edu
 pcp194450pcs.unl.edu
-www.sustainability.unl.edu
+sustainability.unl.edu
 cob-demo01.unl.edu
 dhw1xhq1.unl.edu
 pcp430553pcs.unl.edu
@@ -4428,7 +4420,7 @@ civil-nhw150a.unl.edu
 ardcfs-l003.unl.edu
 pcp144801pcs.unl.edu
 ath-cchmelka.unl.edu
-www.pierce.unl.edu
+pierce.unl.edu
 jeanethe09.unl.edu
 pcp134676pcs.unl.edu
 psyc-28c5ac.unl.edu
@@ -4757,7 +4749,7 @@ lib1903dt.unl.edu
 pcp428630pcs.unl.edu
 unl-mems251mac.unl.edu
 net3992.unl.edu
-www.stanton.unl.edu
+stanton.unl.edu
 arch206hp.unl.edu
 mme-canjc1sb.unl.edu
 pcp170952pcs.unl.edu
@@ -4979,7 +4971,7 @@ bfbsc01bqfs.unl.edu
 math-127.unl.edu
 net3937.unl.edu
 netesx3.unl.edu
-www.news.unl.edu
+news.unl.edu
 ansc-unlrumnut.unl.edu
 27-henz122sw.unl.edu
 neun-cbbollichl.unl.edu
@@ -5111,7 +5103,6 @@ cba125-mba.unl.edu
 pcp176340pcs.unl.edu
 soc-758ae7.unl.edu
 se0163bp252.unl.edu
-www.veteran.unl.edu
 pcp049249pcs.unl.edu
 pcp164609pcs.unl.edu
 pcp429715pcs.unl.edu
@@ -5209,7 +5200,7 @@ cyaf-d102979.unl.edu
 pcp142209pcs.unl.edu
 jmc-09020.unl.edu
 pcp144966pcs.unl.edu
-www.sw4.unl.edu
+sw4.unl.edu
 pcp137452pcs.unl.edu
 red-c1114.unl.edu
 geog-928laser.unl.edu
@@ -5268,7 +5259,7 @@ crdh-llorang.unl.edu
 facm1382.unl.edu
 pcp137366pcs.unl.edu
 neun-cmmclaughd.unl.edu
-www.engr.unl.edu
+engr.unl.edu
 pcp430845pcs.unl.edu
 lw27-oth228.unl.edu
 gpc-bl308clock.unl.edu
@@ -5630,7 +5621,7 @@ pcp388886pcs.unl.edu
 lw1142-miln004.unl.edu
 testwcs.unl.edu
 eas-frlwcp2.unl.edu
-www.health.unl.edu
+health.unl.edu
 mabl-imacintel-mkostelnik.unl.edu
 necmader.unl.edu
 vc-byzd6y2ds.unl.edu
@@ -5819,7 +5810,7 @@ psyc-a06a60.unl.edu
 nebraskayouthadvocates.unl.edu
 mme-avizo.unl.edu
 milh-c1-te4-8.unl.edu
-www.focuslab.unl.edu
+focuslab.unl.edu
 isco-np-pbx-fxo-fxs-snyder.unl.edu
 pcp138918pcs.unl.edu
 bf-hqd8282.unl.edu
@@ -5902,7 +5893,7 @@ red-c7131.unl.edu
 otp007570ots.unl.edu
 pcp137174pcs.unl.edu
 pcp139642pcs.unl.edu
-www.libraries.unl.edu
+libraries.unl.edu
 seema-zenglab.unl.edu
 minint-02p45ot.unl.edu
 snr-0770.unl.edu
@@ -6090,7 +6081,6 @@ snr-1558.unl.edu
 pass0001.unl.edu
 bb-ng-fo4.unl.edu
 cob201c-gs1.unl.edu
-www.mesonet.unl.edu
 ath-bdscto-04.unl.edu
 cba-classic.unl.edu
 red-d18n34.unl.edu
@@ -6132,7 +6122,7 @@ net5266.unl.edu
 mistral.unl.edu
 nerds.unl.edu
 red-d22n13.unl.edu
-www.nemaha.unl.edu
+nemaha.unl.edu
 oxford-358.unl.edu
 ucomm-ucomm-nuc.unl.edu
 qsc-d302440.unl.edu
@@ -6170,7 +6160,7 @@ w146-eclab05.unl.edu
 pcp164484pcs.unl.edu
 pcp162953pcs.unl.edu
 rsch-d0llh02.unl.edu
-www.nuenergy.unl.edu
+nuenergy.unl.edu
 pcp348180pcs.unl.edu
 ncta-vtcolor2605.unl.edu
 ath-hsnvia-b-1.unl.edu
@@ -6945,7 +6935,7 @@ np40-npalmer2.unl.edu
 pcp058109pcs.unl.edu
 museumstore.unl.edu
 net-vdi-pcostello.unl.edu
-www.franklin.unl.edu
+franklin.unl.edu
 pcp144228pcs.unl.edu
 net4024.unl.edu
 hssreslifesm.unl.edu
@@ -7011,7 +7001,7 @@ pcp141553pcs.unl.edu
 ntaad-hfvzw33.unl.edu
 pcp061624pcs.unl.edu
 is-501-bwlp1.unl.edu
-www.luci.unl.edu
+luci.unl.edu
 pcp139333pcs.unl.edu
 bfbsc1474.unl.edu
 uh-cc104.unl.edu
@@ -7153,7 +7143,6 @@ phelps-mx-4110n.unl.edu
 gradfile1.unl.edu
 cj-bhomer8.unl.edu
 psyc218-cg-lap.unl.edu
-www.globalstudies.unl.edu
 ccfl-smundil.unl.edu
 crec-240.unl.edu
 pcp140842pcs.unl.edu
@@ -7161,7 +7150,7 @@ otkcc0.3px7k.unl.edu
 pcp139117pcs.unl.edu
 pcp140591pcs.unl.edu
 henz110aga.unl.edu
-www.extension.unl.edu
+extension.unl.edu
 pcp049227pcs.unl.edu
 pcp195594pcs.unl.edu
 pcp139149pcs.unl.edu
@@ -7573,7 +7562,7 @@ snr-1495.unl.edu
 ode-dsktopsupb.unl.edu
 eppac-19ccjr2.unl.edu
 pcp430269pcs.unl.edu
-www.fpc.unl.edu
+fpc.unl.edu
 lehcf-31xlx12.unl.edu
 rsch-jschuete12.unl.edu
 pcp058101pcs.unl.edu
@@ -7706,7 +7695,7 @@ cba215ds9.unl.edu
 dfunnell.unl.edu
 lw36-ecu-columbine.unl.edu
 bf-f3bz9z1.unl.edu
-www.dixon.unl.edu
+dixon.unl.edu
 wcburkins.unl.edu
 cob445pdellb1260dn.unl.edu
 hcc-anvil-175-18.unl.edu
@@ -7787,7 +7776,7 @@ tz-pad-1053-2.unl.edu
 red-d22n9.unl.edu
 pcp420125pcs.unl.edu
 pcp429207pcs.unl.edu
-www.us.unl.edu
+us.unl.edu
 law-cres122.unl.edu
 android-48418054439ca9bb.unl.edu
 ctxvmdlc039.unl.edu
@@ -7853,7 +7842,7 @@ pcp347702pcs.unl.edu
 rtr129-93-30-232.unl.edu
 w323-benchpc01.unl.edu
 libpub1430.unl.edu
-www.nebraskadairy.unl.edu
+nebraskadairy.unl.edu
 its-iperf1.unl.edu
 snr-p2462.unl.edu
 pci.unl.edu
@@ -8029,7 +8018,6 @@ pcp139375pcs.unl.edu
 motion4b.unl.edu
 microbiology.unl.edu
 divis-ssl2.unl.edu
-www.shib.unl.edu
 quimbyjh241-367.unl.edu
 pcp136943pcs.unl.edu
 pcp137402pcs.unl.edu
@@ -8215,7 +8203,7 @@ pcp138928pcs.unl.edu
 ath-mlewis-mbp.unl.edu
 pcp419625pcs.unl.edu
 pcp143375pcs.unl.edu
-www.redwillow.unl.edu
+redwillow.unl.edu
 unlneu353a-fwibooked.unl.edu
 ctxvmcba038.unl.edu
 cba339es2.unl.edu
@@ -8354,7 +8342,7 @@ cass.unl.edu
 bdl-lexmark2425.unl.edu
 unp-4a8330.unl.edu
 pcp096188pcs.unl.edu
-www.dodge.unl.edu
+dodge.unl.edu
 ccfl-ebrank.unl.edu
 buff-m2800.unl.edu
 is-1000-office-hpp2015.unl.edu
@@ -8382,7 +8370,7 @@ pcp137748pcs.unl.edu
 em-x6.unl.edu
 ntc-170-08.unl.edu
 dvxd2-dpc1.unl.edu
-www.chem.unl.edu
+chem.unl.edu
 bf-3tychb2.unl.edu
 pcp139478pcs.unl.edu
 pcp031162pcs.unl.edu
@@ -8454,7 +8442,7 @@ sbs-5d8893.unl.edu
 pcp141866pcs.unl.edu
 inspector.unl.edu
 eric-temp.unl.edu
-www.groweatlearn.unl.edu
+groweatlearn.unl.edu
 lw1142-whit160.unl.edu
 secd-268a-cam.unl.edu
 cb3-gnj3js1.unl.edu
@@ -8525,7 +8513,7 @@ buros-d101562.unl.edu
 se01carmen22.unl.edu
 cse-thin-08.unl.edu
 mailgate2.unl.edu
-www.history.unl.edu
+history.unl.edu
 pcp430189pcs.unl.edu
 pcp075862pcs.unl.edu
 redoxbiologycenter.unl.edu
@@ -8594,7 +8582,7 @@ pcp427927pcs.unl.edu
 pcp078621pcs.unl.edu
 cselab4-57.unl.edu
 rsch-training11.unl.edu
-www.secd-survey.unl.edu
+secd-survey.unl.edu
 pcp140494pcs.unl.edu
 desktop-ajhu40h.unl.edu
 trio-sss-504.unl.edu
@@ -8714,7 +8702,7 @@ dspanel.unl.edu
 cob036-l52.unl.edu
 secd-ecaruso.unl.edu
 nchc-chill.unl.edu
-www.westcentral.unl.edu
+westcentral.unl.edu
 pcp078877pcs.unl.edu
 anth-451c6b.unl.edu
 phil-997d1e.unl.edu
@@ -9107,7 +9095,6 @@ pp-mdenning2.unl.edu
 hcc-shor-m1428-vl21.unl.edu
 unl-lpv-wlc-2.lpv.unl.edu
 teac49-anespor-i7dellb.unl.edu
-antiochia.unl.edu
 pcp141638pcs.unl.edu
 jmc-35115.unl.edu
 pcp139767pcs.unl.edu
@@ -9184,7 +9171,7 @@ mwrsf-ap9.unl.edu
 unp-erippeteau.unl.edu
 admiss-charity2.unl.edu
 px506-ss-devel.unl.edu
-www.analytics.unl.edu
+analytics.unl.edu
 gpc-rh15pc.unl.edu
 castellocollectionek-spe103.unl.edu
 pcp137930pcs.unl.edu
@@ -9204,7 +9191,7 @@ cat29-greek-pdt.unl.edu
 red-c5809.unl.edu
 cj-vwebb.unl.edu
 lw26-nu209.unl.edu
-www.foodsci.unl.edu
+foodsci.unl.edu
 pcp145034pcs.unl.edu
 uh-wcdc-tv17.unl.edu
 lw35-davisontmp.unl.edu
@@ -9428,7 +9415,7 @@ cba12l023.unl.edu
 pcp140170pcs.unl.edu
 imac-932a9.unl.edu
 pcp429410pcs.unl.edu
-www.beadle.unl.edu
+beadle.unl.edu
 libpub1093.unl.edu
 secd-bkc313.unl.edu
 cors1205.unl.edu
@@ -9554,7 +9541,7 @@ dn-color.unl.edu
 pcp058111pcs.unl.edu
 ansc-kalptp14.unl.edu
 pcp075754pcs.unl.edu
-www.lincolnweather.unl.edu
+lincolnweather.unl.edu
 pcp139238pcs.unl.edu
 cob-train01-2.unl.edu
 finaid-std1.unl.edu
@@ -9648,7 +9635,7 @@ is-sysauth.unl.edu
 lw27-mant067.unl.edu
 ccfl-b8q7m63.unl.edu
 pcp429625pcs.unl.edu
-www.webster.unl.edu
+webster.unl.edu
 corssan2b.unl.edu
 pcp137859pcs.unl.edu
 unlspace-test.unl.edu
@@ -9806,7 +9793,7 @@ pcp078810pcs.unl.edu
 pcp104184pcs.unl.edu
 pcp133526pcs.unl.edu
 pcp076431pcs.unl.edu
-www.miller.unl.edu
+miller.unl.edu
 plac1021.unl.edu
 pcp046966pcs.unl.edu
 lw42-sae200s.unl.edu
@@ -10007,7 +9994,7 @@ bio-manter152-dxrx5.unl.edu
 fye-dnq2m12.unl.edu
 lw1142-nh518.unl.edu
 lw42-nicfic300.unl.edu
-www.deuel-garden.unl.edu
+deuel-garden.unl.edu
 cba237ff3.unl.edu
 hprcc-auth.unl.edu
 4h-933hxy1.unl.edu
@@ -10041,7 +10028,7 @@ cob045-ks2.unl.edu
 aah-w105gd-09.unl.edu
 connectdbtest-old.unl.edu
 netnebraskaftp.unl.edu
-www.ne-ltap.unl.edu
+ne-ltap.unl.edu
 pcp139607pcs.unl.edu
 unlmicropress.unl.edu
 red-c2203.unl.edu
@@ -10106,7 +10093,6 @@ bpdf-5vmhq02.unl.edu
 nu-sefire-1.unl.edu
 its-wepa-cob02.unl.edu
 dph-ctzq6z1.unl.edu
-parking.unl.edu
 mel11-tv07.unl.edu
 heuermannlectures.unl.edu
 psyc-g85hm02.unl.edu
@@ -10146,7 +10132,7 @@ stat-wstroup.unl.edu
 desktop-1g34kn3.unl.edu
 net-vdi-reubanks.unl.edu
 mlh-7chlg11.unl.edu
-www.cse-rt.unl.edu
+cse-rt.unl.edu
 pcp388903pcs.unl.edu
 jdburton.unl.edu
 pcp348037pcs.unl.edu
@@ -10191,7 +10177,7 @@ ccfl-qic-wd.unl.edu
 vdc-smincinerator.unl.edu
 wsl-hplc-mscomputer.unl.edu
 pcp105968pcs.unl.edu
-www.nsbe.unl.edu
+nsbe.unl.edu
 ansc-swine15.unl.edu
 psyc-5g08g21.unl.edu
 mead-sensor-05.unl.edu
@@ -10463,7 +10449,7 @@ pcp049292pcs.unl.edu
 cob406-eg6.unl.edu
 pcp428967pcs.unl.edu
 its-r9005wdk.unl.edu
-www.saunders.unl.edu
+saunders.unl.edu
 libpub1541mac.unl.edu
 esp.unl.edu
 pcp333508pcs.unl.edu
@@ -10584,7 +10570,6 @@ pcp165889pcs.unl.edu
 shel-5cg64156cg.unl.edu
 pcp115689pcs.unl.edu
 hist-626burnett.unl.edu
-www.southeast.unl.edu
 lw27-snyder1.unl.edu
 omahaponca.unl.edu
 its-5cg8419hj3-dock.unl.edu
@@ -10727,7 +10712,6 @@ pcp429080pcs.unl.edu
 ltap-mxl6202w0c.unl.edu
 pcp427834pcs.unl.edu
 ap42-wcrc104.unl.edu
-deuel-garden.unl.edu
 modl-f09dc3.unl.edu
 gn27vatech143.unl.edu
 eas-49ygdv2.unl.edu
@@ -10773,7 +10757,7 @@ lagbs-d7bv513.unl.edu
 pcp031334pcs.unl.edu
 johnsnodensimac.unl.edu
 gas-perm.unl.edu
-www.droughtimpacts.unl.edu
+droughtimpacts.unl.edu
 necit.unl.edu
 admiss-bfd2fx2.unl.edu
 pcp138476pcs.unl.edu
@@ -10878,7 +10862,7 @@ pcp163005pcs.unl.edu
 pcp125217pcs.unl.edu
 room103computer.unl.edu
 jmc-333-11.unl.edu
-www.cyfs.unl.edu
+cyfs.unl.edu
 unlardc138-fwibooked.unl.edu
 lw52-huskh203.unl.edu
 pcp385831pcs.unl.edu
@@ -11401,7 +11385,7 @@ ead-33tpcx1.unl.edu
 cob-delaportesp.unl.edu
 pcp142263pcs.unl.edu
 fdst-dp2gtv1.unl.edu
-www.horse.unl.edu
+horse.unl.edu
 npmvdihost2hxmgmt.unl.edu
 embury.unl.edu
 ece-worster2018.unl.edu
@@ -11478,7 +11462,7 @@ pcp141230pcs.unl.edu
 pcp071950pcs.unl.edu
 pcp139311pcs.unl.edu
 pcp385781pcs.unl.edu
-www.nebraskaedge.unl.edu
+nebraskaedge.unl.edu
 pcp144007pcs.unl.edu
 hp3525-n307.unl.edu
 dn1097.unl.edu
@@ -11795,7 +11779,6 @@ unlneu235-fwibooked.unl.edu
 pcp141758pcs.unl.edu
 cive-gsn119b.unl.edu
 kylesneckstation.unl.edu
-www.hort.unl.edu
 is-hrh-mac01.unl.edu
 ath-tthompson.unl.edu
 pcp144293pcs.unl.edu
@@ -12224,7 +12207,7 @@ pcp132123pcs.unl.edu
 math-tshores.unl.edu
 thea-cadlab08.unl.edu
 pcp170855pcs.unl.edu
-www.ianrhome.unl.edu
+ianrhome.unl.edu
 bse-91sqhm2.unl.edu
 ath-rgobel-p.unl.edu
 disp-ip-phone.unl.edu
@@ -12367,7 +12350,6 @@ law-libcanon.unl.edu
 sa-skelly.unl.edu
 tcd-rsamuelson2.unl.edu
 cyt-25.unl.edu
-exempt.unl.edu
 its-darins-pc.unl.edu
 pcp061582pcs.unl.edu
 chembio-lakert43.unl.edu
@@ -12867,7 +12849,7 @@ snr-1166b.unl.edu
 pcp429263pcs.unl.edu
 uh-neudin-tv02.unl.edu
 its-c17mn0rbfh00.unl.edu
-www.homelandplanning.unl.edu
+homelandplanning.unl.edu
 arsnelnk40sz7m2.unl.edu
 lw26-cba120.unl.edu
 ath-npohlen-lt.unl.edu
@@ -13023,7 +13005,7 @@ pcp117243pcs.unl.edu
 pcp150615pcs.unl.edu
 coms-b1c662.unl.edu
 wipg-2000-8b2.unl.edu
-www.4h.unl.edu
+4h.unl.edu
 ctxvmagecon034.unl.edu
 26-sag106.unl.edu
 ucomm-d25q4184f.unl.edu
@@ -13033,7 +13015,7 @@ csn3745-ser0-0-0-19.unl.edu
 cba-jsherrill.unl.edu
 pcp170479pcs.unl.edu
 pcp430364pcs.unl.edu
-www.hamilton.unl.edu
+hamilton.unl.edu
 pcp429360pcs.unl.edu
 ptp-oldhpark.unl.edu
 pcp382810pcs.unl.edu
@@ -13122,7 +13104,6 @@ pcp137396pcs.unl.edu
 law-teverman2m.unl.edu
 teac111lapew.unl.edu
 co-5cg916067ydock.unl.edu
-www.ppccourses.unl.edu
 ctxvmdlc173.unl.edu
 its-5cg84289g2.unl.edu
 4h-3q70382.unl.edu
@@ -13157,7 +13138,6 @@ farrp-rm247g.unl.edu
 pcp140134pcs.unl.edu
 fp-34qwcp1.unl.edu
 pcp430659pcs.unl.edu
-us.unl.edu
 ecomm.unl.edu
 math-ax88179.unl.edu
 pcp162186pcs.unl.edu
@@ -13219,7 +13199,7 @@ is-checkout.unl.edu
 ncta-clf.unl.edu
 pcp141101pcs.unl.edu
 norte.unl.edu
-www.extension-water.unl.edu
+extension-water.unl.edu
 pcp058081pcs.unl.edu
 snr-1039.unl.edu
 svmbsserver.unl.edu
@@ -13511,7 +13491,6 @@ uitis-fp25zzhq.unl.edu
 pcp136818pcs.unl.edu
 amxma4ca62.unl.edu
 pcp173438pcs.unl.edu
-www.ceen.unl.edu
 gpvec-verizon-booster-1.unl.edu
 lw27-oth9.unl.edu
 arch233lcd.unl.edu
@@ -13561,7 +13540,7 @@ pcp167078pcs.unl.edu
 nag77-1-88-176-236-29.fbx.pro.unl.edu
 prism-audio.unl.edu
 psyc-57vyjm1.unl.edu
-www.lncluorg.unl.edu
+lncluorg.unl.edu
 pcp140672pcs.unl.edu
 its-ctrx-xs06.unl.edu
 excalibur.unl.edu
@@ -13588,7 +13567,6 @@ hres1023.unl.edu
 uh-vc.unl.edu
 net4038.unl.edu
 lagen-d30hvjv3y.unl.edu
-www.4hplus.unl.edu
 rr-2ua5201jqp.unl.edu
 pcp060214pcs.unl.edu
 pcp090918pcs.unl.edu
@@ -13971,7 +13949,7 @@ pcp233217pcs.unl.edu
 pcp132093pcs.unl.edu
 law-room122east.unl.edu
 ttl-jgeyer.unl.edu
-www.climate.unl.edu
+climate.unl.edu
 facm1522.unl.edu
 lw42-bserv130.unl.edu
 owm-dmahler1.unl.edu
@@ -14149,7 +14127,7 @@ nh-pfreeman2.unl.edu
 math-4870ec.unl.edu
 its-hrh-pc03.unl.edu
 chem-rif-data2.unl.edu
-www.enve.unl.edu
+enve.unl.edu
 dvxc3-b.unl.edu
 1242-pdt06.unl.edu
 arch227.unl.edu
@@ -14602,7 +14580,6 @@ pcp136714pcs.unl.edu
 pcp046950pcs.unl.edu
 pcp078786pcs.unl.edu
 cedarpoint.unl.edu
-www.clay.unl.edu
 pcp072091pcs.unl.edu
 henz-imacintel-awilliams.unl.edu
 eas-3nnp7g1.unl.edu
@@ -14624,7 +14601,6 @@ pcp427898pcs.unl.edu
 isso-grad.unl.edu
 esl-7ed389.unl.edu
 ansc-cklaptop.unl.edu
-www.id.unl.edu
 idcworkarea-11.unl.edu
 al-okaily.unl.edu
 pcp044701pcs.unl.edu
@@ -14742,7 +14718,7 @@ pcp182115pcs.unl.edu
 pcp078480pcs.unl.edu
 rr-unayak.unl.edu
 jmc-13023.unl.edu
-www.its-webhost.unl.edu
+its-webhost.unl.edu
 ath-dianemiller.unl.edu
 edm-c02jx2.unl.edu
 math-9fbd4b.unl.edu
@@ -14805,7 +14781,7 @@ hres1031.unl.edu
 pcp058193pcs.unl.edu
 w323-benchpc12.unl.edu
 agr-mbernardsn4.unl.edu
-www.vislit.unl.edu
+vislit.unl.edu
 its-foodborne.unl.edu
 admiss-card-east.unl.edu
 som-krhsign.unl.edu
@@ -14981,7 +14957,7 @@ finaid-gsdkr22-temp.unl.edu
 f5-public-casper-vip.unl.edu
 rr-g35xln2-temp.unl.edu
 pcp322850pcs.unl.edu
-www.bike.unl.edu
+bike.unl.edu
 cse-talbin-01.unl.edu
 netlqs.unl.edu
 law-bookeye4.unl.edu
@@ -15043,7 +15019,7 @@ em-sb2.unl.edu
 vc-glybvd2.unl.edu
 fdst-patil01.unl.edu
 happi-jbsw6s2d.unl.edu
-www.studentaffairstime.unl.edu
+studentaffairstime.unl.edu
 pcp429695pcs.unl.edu
 splice.unl.edu
 nchc-ir3225.unl.edu
@@ -15153,7 +15129,6 @@ its-c02pvp3cg8wp.unl.edu
 se01f0w0vy1.unl.edu
 pcp129482pcs.unl.edu
 snr-2210.unl.edu
-www.agbiosafety.unl.edu
 snr-2202.unl.edu
 fst-sharp107.unl.edu
 pcp099919pcs.unl.edu
@@ -15374,7 +15349,6 @@ lstvc-5cg950806l.unl.edu
 pcp429223pcs.unl.edu
 lev316clj16.unl.edu
 pcp105952pcs.unl.edu
-www.speakersbureau.unl.edu
 lw27-mant104.unl.edu
 pcp075667pcs.unl.edu
 finaid-print16.unl.edu
@@ -15442,7 +15416,7 @@ milh-ratchet.unl.edu
 pcp171592pcs.unl.edu
 bf-4tkwfb2.unl.edu
 pcp348093pcs.unl.edu
-www.swe.unl.edu
+swe.unl.edu
 gpc-bl206amx.unl.edu
 pcp031300pcs.unl.edu
 ath-vbaxis1.unl.edu
@@ -15562,7 +15536,6 @@ athleticemail.unl.edu
 its-burn124pc.unl.edu
 uh-knol107-tp.unl.edu
 scs1975.unl.edu
-www.bosrsurvey.unl.edu
 pcp197796pcs.unl.edu
 net4262.unl.edu
 w146-benchpc15.unl.edu
@@ -15645,7 +15618,7 @@ pcp058165pcs.unl.edu
 cob141cs1.unl.edu
 snr-2020.unl.edu
 phrec-cheyenne5.unl.edu
-www.agecon.unl.edu
+agecon.unl.edu
 gn27-mer4h2.unl.edu
 pcp142347pcs.unl.edu
 27nh534.unl.edu
@@ -15669,10 +15642,8 @@ bfbsc1421.unl.edu
 cob125p-us1.unl.edu
 engl-bb3b1f.unl.edu
 phys-narsil.unl.edu
-www.qac.unl.edu
 finaid-8vlvfk2.unl.edu
 uhcc9xsrl1.unl.edu
-www.organ.unl.edu
 pcp430058pcs.unl.edu
 pcp138229pcs.unl.edu
 cdrhdev1.unl.edu
@@ -15764,7 +15735,7 @@ ath-baseball1.unl.edu
 pcp136936pcs.unl.edu
 pcp078764pcs.unl.edu
 pcp140091pcs.unl.edu
-www.merrick.unl.edu
+merrick.unl.edu
 cfpa-sccmtc.unl.edu
 cob-ds523-1.unl.edu
 arch229adjunct.unl.edu
@@ -15974,7 +15945,7 @@ cehssecure.unl.edu
 pcp328561pcs.unl.edu
 pcp071931pcs.unl.edu
 officejetprok550.unl.edu
-www.adactivation.unl.edu
+adactivation.unl.edu
 ars03.unl.edu
 sbs-tisdalehplj1606.unl.edu
 lw1142-wstd151c.unl.edu
@@ -16149,7 +16120,7 @@ lehcf-3htg8v1.unl.edu
 teach-dolsen.unl.edu
 fst-gdqjd42.unl.edu
 sep0059dc5a2b19.unl.edu
-www.humanrights.unl.edu
+humanrights.unl.edu
 pcp088397pcs.unl.edu
 cba140.unl.edu
 adams-devries.unl.edu
@@ -16189,7 +16160,7 @@ vdc-207printer.unl.edu
 gagehp4550.unl.edu
 cat35-ardc301.unl.edu
 law-75e1.unl.edu
-www.scottsbluff.unl.edu
+scottsbluff.unl.edu
 sandoz-jpoley3.unl.edu
 qsc304ss13.unl.edu
 compyg5.unl.edu
@@ -16425,7 +16396,7 @@ ath-kmosier-pro.unl.edu
 pcp144993pcs.unl.edu
 corsdfz.unl.edu
 pcp144549pcs.unl.edu
-www.crec.unl.edu
+crec.unl.edu
 cob036-l45.unl.edu
 is-brnt-mac04.unl.edu
 pcp429381pcs.unl.edu
@@ -16649,7 +16620,7 @@ cat29-ltap101.unl.edu
 red-d10n4.unl.edu
 net4210.unl.edu
 pcp080202pcs.unl.edu
-www.ams.unl.edu
+ams.unl.edu
 net6056-dock.unl.edu
 unpd1069.unl.edu
 pcp125733pcs.unl.edu
@@ -16669,7 +16640,7 @@ is-selq-pc33.unl.edu
 cyfs-mabl303conf.unl.edu
 wsec-c1-te1-7.unl.edu
 uh-wcdc123-01.unl.edu
-www.jefferson.unl.edu
+jefferson.unl.edu
 pcp080225pcs.unl.edu
 historyharvest.unl.edu
 mabl163b-laba01.unl.edu
@@ -16870,7 +16841,6 @@ cltct1tc1upe01.unl.edu
 cob104-l31.unl.edu
 psyc-mxl62026ly.unl.edu
 hah643-xerox.unl.edu
-www.carsonschool.unl.edu
 rtr129-93-197.unl.edu
 jmc-002147.unl.edu
 lfcb827eb66a281.unl.edu
@@ -17060,7 +17030,6 @@ pcp095505pcs.unl.edu
 cba214bdf5.unl.edu
 lynn-doser.unl.edu
 pcp061579pcs.unl.edu
-www.ewb.unl.edu
 pcp158553pcs.unl.edu
 vctr-fusion.unl.edu
 lw1142-nstd236.unl.edu
@@ -17122,12 +17091,11 @@ asdo-a126c7.unl.edu
 ntc-s1.unl.edu
 issec-2500n.unl.edu
 gives-win64.unl.edu
-ams.unl.edu
 pcp137840pcs.unl.edu
 advs-c33heartle.unl.edu
 itg-loadmgt.unl.edu
 pcp195597pcs.unl.edu
-www.accounting.unl.edu
+accounting.unl.edu
 pcp139413pcs.unl.edu
 henz-imacintel-259ga101273.unl.edu
 minint-v5qugaa.unl.edu
@@ -17238,7 +17206,7 @@ pcp418317pcs.unl.edu
 henz-hpljp3015n-213.unl.edu
 arch218.unl.edu
 lw52-cytmain-south.unl.edu
-www.custer.unl.edu
+custer.unl.edu
 uh-ecu215.unl.edu
 acct2046.unl.edu
 mme-ggogos2017.unl.edu
@@ -17384,7 +17352,7 @@ lehsec-j7ejv3x.unl.edu
 ent-millerbig.unl.edu
 lib1624dt.unl.edu
 pcp141917pcs.unl.edu
-www.myplan.unl.edu
+myplan.unl.edu
 hvnode3.unl.edu
 its-lnk-dns-prod-f5-367.unl.edu
 agr-dbzhzns1.unl.edu
@@ -17402,7 +17370,6 @@ pcp030785pcs.unl.edu
 piesl04.unl.edu
 teac227-gstudent-profilepc2.unl.edu
 pcp429288pcs.unl.edu
-plantpath.unl.edu
 netvra1.unl.edu
 rif-pc.unl.edu
 bsteach3.unl.edu
@@ -17448,7 +17415,6 @@ voicemail.unl.edu
 nctaaec08sd15.unl.edu
 reserved42-127.unl.edu
 pcp134709pcs.unl.edu
-custer.unl.edu
 27oth114d.unl.edu
 uh-chief1.unl.edu
 lw27-mant402a.unl.edu
@@ -17460,7 +17426,6 @@ xen2.unl.edu
 exact.unl.edu
 pcp133079pcs.unl.edu
 gpc-avh19pc.unl.edu
-www.nebraskapress.unl.edu
 gn28wcrc161.unl.edu
 nctajjb02.unl.edu
 adfs3.unl.edu
@@ -17469,7 +17434,7 @@ isco-np-pbx-fxo-fxs-westplace.unl.edu
 box-lookup-stage.unl.edu
 pcp057429pcs.unl.edu
 nctafl17tlb.unl.edu
-www.ath-football.unl.edu
+ath-football.unl.edu
 its-681ad43jw72.unl.edu
 chembio-jhendrix1.unl.edu
 crec-mac11.unl.edu
@@ -17560,7 +17525,6 @@ nu-colonial-b.unl.edu
 se2011w32g2.unl.edu
 snr-2482.unl.edu
 facm2389.unl.edu
-homelandplanning.unl.edu
 narya.unl.edu
 is-hrh-mac03.unl.edu
 pcp078704pcs.unl.edu
@@ -17618,7 +17582,7 @@ pcp140860pcs.unl.edu
 crec-319.unl.edu
 its-ctrx-img3.unl.edu
 pcp139498pcs.unl.edu
-www.richardson.unl.edu
+richardson.unl.edu
 snr-2315.unl.edu
 amxm9e03e9.unl.edu
 silvana.unl.edu
@@ -17632,7 +17596,7 @@ ath-fwi-dc5b.unl.edu
 jmc-05290.unl.edu
 pcp141262pcs.unl.edu
 lw27-qui212.unl.edu
-www.worldofviruses.unl.edu
+worldofviruses.unl.edu
 pcp388640pcs.unl.edu
 cehsit-d102801.unl.edu
 soil-fertility.unl.edu
@@ -17823,7 +17787,7 @@ pcp233227pcs.unl.edu
 burn127xen03.unl.edu
 crec-156.unl.edu
 nex48-f0ns8c3.unl.edu
-www.hprcc.unl.edu
+hprcc.unl.edu
 02d4ccae6e18a8c6d8b772d1ec770c1.unl.edu
 pcp130097pcs.unl.edu
 facm1278.unl.edu
@@ -17957,7 +17921,6 @@ pcp348155pcs.unl.edu
 pcp234839pcs.unl.edu
 pcp429304pcs.unl.edu
 pcp418069pcs.unl.edu
-merrick.unl.edu
 introlabs3.unl.edu
 lw26-aver13b1.unl.edu
 gpc-bl108amxrx4.unl.edu
@@ -18030,7 +17993,7 @@ secd-reading002.unl.edu
 admiss-sairan2.unl.edu
 upd1920.unl.edu
 pcp093431pcs.unl.edu
-www.nebraskaclimateoffice.unl.edu
+nebraskaclimateoffice.unl.edu
 comm-5dcxx52.unl.edu
 pcp071229pcs.unl.edu
 unpd3000.unl.edu
@@ -18049,7 +18012,6 @@ heath.unl.edu
 pcp136604pcs.unl.edu
 snr-unode6-calmit.unl.edu
 nctafd16-rr.unl.edu
-adactivation.unl.edu
 uhcl-mj028lkm.unl.edu
 bf-4b3hdv2.unl.edu
 chem-mstainsgroup1.unl.edu
@@ -18297,7 +18259,7 @@ bfbsc1045.unl.edu
 pcp140451pcs.unl.edu
 its-681a5920w72.unl.edu
 math-webwork3.unl.edu
-www.durhamschool.unl.edu
+durhamschool.unl.edu
 pcp380571pcs.unl.edu
 pcp132982pcs.unl.edu
 red-c7225.unl.edu
@@ -18446,7 +18408,6 @@ engr-lab13.unl.edu
 pcp385885pcs.unl.edu
 pcp428620pcs.unl.edu
 odin.unl.edu
-boone-nance.unl.edu
 pcp053442pcs.unl.edu
 se01r847pcf.unl.edu
 unp-cschwink.unl.edu
@@ -18810,7 +18771,7 @@ facm1153.unl.edu
 ath-mhankins.unl.edu
 pcp140070pcs.unl.edu
 serec.unl.edu
-www.studyabroad.unl.edu
+studyabroad.unl.edu
 pcp137064pcs.unl.edu
 clemlab-mac.unl.edu
 asa05-greek-pm.unl.edu
@@ -18992,7 +18953,6 @@ cust1015.unl.edu
 nmc-teac142-10.unl.edu
 jmc-09080.unl.edu
 pcp075182pcs.unl.edu
-www.emergency.unl.edu
 lw1142-woods209.unl.edu
 gn26gpv-d1.unl.edu
 w326-pc3.unl.edu
@@ -19024,14 +18984,13 @@ crec-p3500s.unl.edu
 katrinas-imac.unl.edu
 ath-ticket3.unl.edu
 nextt-avtl-power.unl.edu
-www.gpn.unl.edu
+gpn.unl.edu
 arch241piatkowski.unl.edu
 pcp134618pcs.unl.edu
 gpc-bl305amx.unl.edu
 psyc-4xgym02.unl.edu
 fdd-test-io.unl.edu
 cselab4-41.unl.edu
-www.ecomm.unl.edu
 fst-2bqpjk1.unl.edu
 pcp138619pcs.unl.edu
 necweedgrant.unl.edu
@@ -19049,7 +19008,6 @@ coe-pc094.unl.edu
 ianrnewsphotos.unl.edu
 pcp105954pcs.unl.edu
 rsch-training15.unl.edu
-nsbe.unl.edu
 dxl-rx-17e0027.unl.edu
 johnkilpatrick.unl.edu
 researchwriting.unl.edu
@@ -19070,13 +19028,13 @@ and121pc.unl.edu
 lw1142-wsec241.unl.edu
 lvcgsseh118-canonir4235.unl.edu
 bf-vmjwebb.unl.edu
-www.acm.unl.edu
+acm.unl.edu
 pcp347867pcs.unl.edu
 alec-34m225dw.unl.edu
 pcp382806pcs.unl.edu
 hres1006.unl.edu
 sbs-lmorrison.unl.edu
-www.pawnee.unl.edu
+pawnee.unl.edu
 lw1142-champ200n.unl.edu
 wlan-4-43.unl.edu
 trio-ub-501.unl.edu
@@ -19203,7 +19161,6 @@ pcp030847pcs.unl.edu
 cba274mf5.unl.edu
 virology-stuworker.unl.edu
 bse-crm149.unl.edu
-chem.unl.edu
 anth-8df99d.unl.edu
 dawescnty2-pc.unl.edu
 admiss-b52n6s2.unl.edu
@@ -19616,7 +19573,6 @@ netise1a.unl.edu
 vc-0775053.unl.edu
 cba239fg3.unl.edu
 corssan2a.unl.edu
-www.cehssecure.unl.edu
 snr-1227.unl.edu
 lrdae-hk8ck13.unl.edu
 28beadn316.unl.edu
@@ -19702,14 +19658,14 @@ red-xfer9.unl.edu
 uhcl114ex08.unl.edu
 soc-galactica.unl.edu
 secd-jones-bkc09.unl.edu
-www.darwinp2.unl.edu
+darwinp2.unl.edu
 ppc-6010.unl.edu
 helikarlabcctest2.unl.edu
-www.harlan.unl.edu
+harlan.unl.edu
 pcp429329pcs.unl.edu
 pcp138525pcs.unl.edu
 gks-mnealeigh-p.unl.edu
-www.thurston.unl.edu
+thurston.unl.edu
 pcp195640pcs.unl.edu
 net3962.unl.edu
 agr-vswartz2.unl.edu
@@ -19836,7 +19792,7 @@ bfbsc0604.unl.edu
 and-students6.unl.edu
 cob002-sign2.unl.edu
 nexwc-7tj03m2.unl.edu
-www.marketplace-dev.unl.edu
+marketplace-dev.unl.edu
 its-copper2.unl.edu
 laead-hgr4w23.unl.edu
 ml54.unl.edu
@@ -20247,7 +20203,6 @@ pcp095122pcs.unl.edu
 vc-hflfvt2d.unl.edu
 gs-c02s11ppg8wl.unl.edu
 desktop-eh7dnp1.unl.edu
-www.wonderwise.unl.edu
 pcp150613pcs.unl.edu
 arsnelnk4pyv8y1.unl.edu
 pcp144108pcs.unl.edu
@@ -20324,7 +20279,7 @@ pcp135491pcs.unl.edu
 pcp380707pcs.unl.edu
 pcp158295pcs.unl.edu
 pcp138842pcs.unl.edu
-www.polk.unl.edu
+polk.unl.edu
 coelabcamera.unl.edu
 mac-gnosan.unl.edu
 mc-09043.unl.edu
@@ -20357,7 +20312,7 @@ net5267.unl.edu
 bkr.unl.edu
 xr-laue.unl.edu
 nex08-cr4tdb3.unl.edu
-www.hall.unl.edu
+hall.unl.edu
 phrec51.unl.edu
 bpdf-kglenn3.unl.edu
 minint-35865et.unl.edu
@@ -20871,7 +20826,6 @@ pcp049201pcs.unl.edu
 pcp079026pcs.unl.edu
 cust1031.unl.edu
 jmc-teradek-decoder.unl.edu
-www.uh-rant.unl.edu
 fst-b7yvdz1.unl.edu
 gpac-201.unl.edu
 cerval.unl.edu
@@ -20885,7 +20839,6 @@ desktop-08f15nr.unl.edu
 adec-jpoley-printer.unl.edu
 pcp428803pcs.unl.edu
 ucomm-c07rn132g1j1.unl.edu
-www.math.unl.edu
 ntc-170-02.unl.edu
 pcp079121pcs.unl.edu
 ddl3nns1.unl.edu
@@ -20920,7 +20873,6 @@ uhartford228019.hartford.ecdc-tv21.unl.edu
 lw1142-krh100e.unl.edu
 pcp294528pcs.unl.edu
 gfosters-imac.unl.edu
-ckb.unl.edu
 vdc-114a.unl.edu
 pcp413150pcs.unl.edu
 secd-clinic005.unl.edu
@@ -21012,7 +20964,7 @@ crec-p42.unl.edu
 mdf-test-709.unl.edu
 teac229gs3desk.unl.edu
 pcp075785pcs.unl.edu
-www.museum.unl.edu
+museum.unl.edu
 snr-2148.unl.edu
 x0afcmaina1a.unl.edu
 pcp091572pcs.unl.edu
@@ -21160,11 +21112,10 @@ ugd-ldamuth1.unl.edu
 libmac1509.unl.edu
 psyc-80v4xq1.unl.edu
 pcp158333pcs.unl.edu
-www.dawson.unl.edu
 ento-102-ira4245.unl.edu
 nature.com.library.unl.edu
 pcp142790pcs.unl.edu
-www.wam.unl.edu
+wam.unl.edu
 bdl-hp452-e323.unl.edu
 math-dlgl942.unl.edu
 pcp092482pcs.unl.edu
@@ -21319,7 +21270,7 @@ pcp137136pcs.unl.edu
 civil.unl.edu
 wick-hp3500.unl.edu
 desktop-gs81oe7.unl.edu
-www.taps.unl.edu
+taps.unl.edu
 unp-4a7703.unl.edu
 cheyeene7.unl.edu
 pcp137070pcs.unl.edu
@@ -21403,7 +21354,6 @@ dtfw-245-68.unl.edu
 lw15-ppg-c1.unl.edu
 is-nu-pc23.unl.edu
 laead-hgltv23.unl.edu
-miller.unl.edu
 bf-j0v9rpa.unl.edu
 finaid-l6221nbw.unl.edu
 liedadmintech.unl.edu
@@ -21429,7 +21379,7 @@ lw1142-and22e.unl.edu
 pcp430439pcs.unl.edu
 ctxvmdlc046.unl.edu
 hcc-cvmfs-repo2.unl.edu
-www.polisci.unl.edu
+polisci.unl.edu
 vmsvr2.unl.edu
 unaddcdev2.unl.edu
 pcp141514pcs.unl.edu
@@ -21457,7 +21407,7 @@ pcp195911pcs.unl.edu
 ctxvmdlc083.unl.edu
 lw1142-htc106.unl.edu
 pcp430576pcs.unl.edu
-www.kearney.unl.edu
+kearney.unl.edu
 aecn-hc389n2.unl.edu
 snr-1467.unl.edu
 dcn-computer7.unl.edu
@@ -21571,7 +21521,7 @@ ml-constcam1.unl.edu
 cyt-clp108.unl.edu
 cp-5cg7242n7t.unl.edu
 cat29-wcrcbeef101.unl.edu
-www.ncna-region.unl.edu
+ncna-region.unl.edu
 hcc-chen.unl.edu
 0-csi.webofknowledge.com.library.unl.edu
 arise.unl.edu
@@ -22082,7 +22032,6 @@ fpp-storage.unl.edu
 ath-ha1.unl.edu
 pcp428583pcs.unl.edu
 piesl28.unl.edu
-cyfs.unl.edu
 snr-1566.unl.edu
 se01cjjhd12.unl.edu
 15-llnn.unl.edu
@@ -22272,7 +22221,6 @@ red-d12n8.unl.edu
 pcp105941pcs.unl.edu
 np40-ssattler.unl.edu
 dxg-matomo-test.unl.edu
-www.games.unl.edu
 lw1142-4hd200nw.unl.edu
 iimfairchild.unl.edu
 finaid-8ctvfk2.unl.edu
@@ -22574,7 +22522,6 @@ pcp170300pcs.unl.edu
 pcp069903pcs.unl.edu
 pcp096476pcs.unl.edu
 acm-unl.unl.edu
-richardson.unl.edu
 vcaa-areese.unl.edu
 pcp094784pcs.unl.edu
 lvcdv-3nkzl63dock.unl.edu
@@ -22704,7 +22651,7 @@ ardcffs-89zy1f1.unl.edu
 frommlab-t7400.unl.edu
 sua-huskerhall.unl.edu
 mead-sensor-01.unl.edu
-www.casmarcomm.unl.edu
+casmarcomm.unl.edu
 nmr-prnt-srv.unl.edu
 he234jh12.unl.edu
 gpc-hah112mac.unl.edu
@@ -22816,7 +22763,6 @@ bf-4rnxzv2.unl.edu
 phys-333jh.unl.edu
 pcp430014pcs.unl.edu
 pcp388945pcs.unl.edu
-vislit.unl.edu
 pcp143560pcs.unl.edu
 pcp139672pcs.unl.edu
 pcp141962pcs.unl.edu
@@ -22969,7 +22915,6 @@ cms.unl.edu
 pcp388473pcs.unl.edu
 res53.unl.edu
 nctaaec10sd15.unl.edu
-cse-rt.unl.edu
 pcp428743pcs.unl.edu
 red-c5903.unl.edu
 pcp429592pcs.unl.edu
@@ -23133,7 +23078,6 @@ sun-3020i7.unl.edu
 pcp304254pcs.unl.edu
 wcyoung-w.unl.edu
 lw1142-nano122.unl.edu
-www.cba.unl.edu
 vdc-ihcventana.unl.edu
 stat-hlab06.unl.edu
 pcp428539pcs.unl.edu
@@ -23296,7 +23240,7 @@ lehcf-3hrh8v1.unl.edu
 bse-3v7b5q1.unl.edu
 pcp385706pcs.unl.edu
 pcp137795pcs.unl.edu
-www.irp.unl.edu
+irp.unl.edu
 its-ctrx-xd02.unl.edu
 bineklab.unl.edu
 cse-yu-03.unl.edu
@@ -23368,7 +23312,7 @@ rlh215labc.unl.edu
 ath1903.unl.edu
 make.unl.edu
 pcp385800pcs.unl.edu
-www.judaic.unl.edu
+judaic.unl.edu
 pcp333511pcs.unl.edu
 pcp072009pcs.unl.edu
 nhs-d302953.unl.edu
@@ -23393,7 +23337,6 @@ rf-c02m20hhf8jc.unl.edu
 sns3.bo-1657.unl.edu
 pols-3wzhhv2.unl.edu
 x8560-n224.unl.edu
-www.spectrum.unl.edu
 aah-106rh02.unl.edu
 pcp123789pcs.unl.edu
 26-nu200n.unl.edu
@@ -23554,7 +23497,6 @@ snr-2004.unl.edu
 ode-4357.unl.edu
 admiss-rramir12.unl.edu
 f5-mathbooks.unl.edu
-history.unl.edu
 nu-compshopcamera2.unl.edu
 x0afcecaba1a07.unl.edu
 math-3pdjxr1.unl.edu
@@ -24022,7 +23964,7 @@ uhcl214caps01.unl.edu
 ento-64nwxz1.unl.edu
 2150cdn366jh.unl.edu
 pcp023903pcs.unl.edu
-www.frontier.unl.edu
+frontier.unl.edu
 libpub1719.unl.edu
 engr-weibao.unl.edu
 ischc-srogers.unl.edu
@@ -24258,7 +24200,7 @@ snr-2634.unl.edu
 pcp069772pcs.unl.edu
 ardccc-w001.unl.edu
 red-c2219.unl.edu
-www.mrsec.unl.edu
+mrsec.unl.edu
 dcn-sas01.unl.edu
 lw1142-and228.unl.edu
 red-gridftp11.unl.edu
@@ -24273,7 +24215,7 @@ pcp164380pcs.unl.edu
 pcp075909pcs.unl.edu
 lw26-netvl07.unl.edu
 aah-graphics-in.unl.edu
-www.postdoc.unl.edu
+postdoc.unl.edu
 pcp098961pcs.unl.edu
 cam-nh-01.unl.edu
 desktop-lqmcmjq.unl.edu
@@ -25022,10 +24964,9 @@ uhcvirtual8.unl.edu
 pcp138845pcs.unl.edu
 its-nuview-test.unl.edu
 pcp428905pcs.unl.edu
-www.scs.unl.edu
+scs.unl.edu
 nhs-d302851.unl.edu
 pcp136939pcs.unl.edu
-www.eweek.unl.edu
 android-6e111f007cffcaf6.unl.edu
 27llln200-3.unl.edu
 ode-6273753.unl.edu
@@ -25410,7 +25351,7 @@ unpd1077.unl.edu
 is-crh-pc12.unl.edu
 pcp095239pcs.unl.edu
 wff-012871.unl.edu
-www.procurement.unl.edu
+procurement.unl.edu
 pcp195647pcs.unl.edu
 pcp072064pcs.unl.edu
 is-compshop2.unl.edu
@@ -25927,7 +25868,7 @@ crestonair.unl.edu
 pcp164819pcs.unl.edu
 facm1151.unl.edu
 ccfl-croberts.unl.edu
-www.mesonet2.unl.edu
+mesonet2.unl.edu
 rfi-72myhm1.unl.edu
 brendas-airport-time-capsule.unl.edu
 pcp080373pcs.unl.edu
@@ -26146,7 +26087,6 @@ law-krockwell2.unl.edu
 pcp078819pcs.unl.edu
 pcp137810pcs.unl.edu
 pcp234757pcs.unl.edu
-www.aglec.unl.edu
 pcp173300pcs.unl.edu
 ntc-330n-02.unl.edu
 jmc-002117.unl.edu
@@ -26422,7 +26362,6 @@ chem-progproteomics.unl.edu
 csmce7.unl.edu
 pcp110200pcs.unl.edu
 pcp115437pcs.unl.edu
-www.hitchcock.unl.edu
 pcp138789pcs.unl.edu
 pcp142267pcs.unl.edu
 its-avh119pc.unl.edu
@@ -26471,7 +26410,6 @@ wiley.com.library.unl.edu
 pcp075612pcs.unl.edu
 t0ltc110as1a01.unl.edu
 libpub1216.unl.edu
-www.advance.unl.edu
 greek-nicole.unl.edu
 aguru-lptp.unl.edu
 mme181-mrwlc5.unl.edu
@@ -26483,7 +26421,6 @@ farritor-07.unl.edu
 minint-iqur5c5.unl.edu
 custer-lj4240.unl.edu
 cehs-mkostelnik.unl.edu
-sioux.unl.edu
 math-dfe983.unl.edu
 fst-9dcspd2.unl.edu
 lw27-ahg4-08.unl.edu
@@ -26516,7 +26453,6 @@ ap12-wdorm108.unl.edu
 ath-lifecenter2.unl.edu
 biochem-jlee7.unl.edu
 gpc-bl110pc.unl.edu
-crec.unl.edu
 math-9e5f2d.unl.edu
 cp2k48a.unl.edu
 pcp173344pcs.unl.edu
@@ -26943,7 +26879,6 @@ its-ls-apps.unl.edu
 phil-1022grad.unl.edu
 cob036-l59.unl.edu
 afrotc-bravo-lounge.unl.edu
-nemaha.unl.edu
 ath-jbusch.unl.edu
 se065gh6hx1.unl.edu
 pcp167093pcs.unl.edu
@@ -27013,7 +26948,7 @@ desktop-s7cvf9f.unl.edu
 chem-hage3dptr.unl.edu
 law-s110pj.unl.edu
 its-3bwfx12.unl.edu
-www.adminq.unl.edu
+adminq.unl.edu
 asun-front-desk.unl.edu
 snr-1879.unl.edu
 indo.unl.edu
@@ -27033,7 +26968,7 @@ pcp137350pcs.unl.edu
 red-kube-c7129.unl.edu
 pcp139602pcs.unl.edu
 phelps-redding-w.unl.edu
-www.ncdc.unl.edu
+ncdc.unl.edu
 klarsenlap.unl.edu
 em-edit1.unl.edu
 its-visionmaker.unl.edu
@@ -27322,7 +27257,7 @@ pcp079112pcs.unl.edu
 red-c7224.unl.edu
 pcp078472pcs.unl.edu
 pcp139140pcs.unl.edu
-www.lnclu10.unl.edu
+lnclu10.unl.edu
 pcp348145pcs.unl.edu
 cat35-ardc201.unl.edu
 fst-3dx3v62.unl.edu
@@ -27385,7 +27320,7 @@ wism-unl-air-1.unl.edu
 cb3-c79pc.unl.edu
 pcp132058pcs.unl.edu
 pcp428983pcs.unl.edu
-www.huskerbeeflab.unl.edu
+huskerbeeflab.unl.edu
 27-ecrc303.unl.edu
 math-013.unl.edu
 pcp144527pcs.unl.edu
@@ -27448,13 +27383,12 @@ perten-e321.unl.edu
 0-archives.datapages.com.library.unl.edu
 pcp429042pcs.unl.edu
 oth213printer.unl.edu
-www.raikes-portal.unl.edu
 ardc-p025.unl.edu
 lib14034.unl.edu
 lw1142-burn229.unl.edu
 ppc-mediaedit2.unl.edu
 unl-psb245pc.unl.edu
-www.holt.unl.edu
+holt.unl.edu
 ath-sschillinger.unl.edu
 ath-wrestling2.unl.edu
 gn28-mer4h100e.unl.edu
@@ -27884,7 +27818,7 @@ frontier-780.unl.edu
 rlh114lab11.unl.edu
 bf-hlpczc2.unl.edu
 dn-2016-2.unl.edu
-www.retreenebraska.unl.edu
+retreenebraska.unl.edu
 lw1142-whit230-2.unl.edu
 psyc-mxl9115hkp.unl.edu
 gpc-bl108amxtx5.unl.edu
@@ -28215,7 +28149,7 @@ cob201-gs1.unl.edu
 pcp430340pcs.unl.edu
 pcp429981pcs.unl.edu
 ansc-accounting.unl.edu
-www.vegdri.unl.edu
+vegdri.unl.edu
 engr-installer.unl.edu
 pcp428256pcs.unl.edu
 ucomm-5cg66226vp8.unl.edu
@@ -28225,7 +28159,7 @@ jcs-bbuffumwin.unl.edu
 vbs-hplaserjet2840.unl.edu
 pcp417984pcs.unl.edu
 unpd1030.unl.edu
-www.police.unl.edu
+police.unl.edu
 ruthulmeransc.unl.edu
 pcp141667pcs.unl.edu
 ap12-agwest3.unl.edu
@@ -28341,7 +28275,6 @@ se01c02g82p8djyc.unl.edu
 pcp139427pcs.unl.edu
 pcp355966pcs.unl.edu
 pcp144892pcs.unl.edu
-www.real.unl.edu
 rsch-czvhh02.unl.edu
 ath-medbdsc2.unl.edu
 admin-tkaiser.unl.edu
@@ -29536,7 +29469,6 @@ pcp123692pcs.unl.edu
 pcp347895pcs.unl.edu
 ctxxs01b.unl.edu
 pcp188038pcs.unl.edu
-retreenebraska.unl.edu
 pcp139078pcs.unl.edu
 pcp170850pcs.unl.edu
 lw52-hah332.unl.edu
@@ -29799,7 +29731,6 @@ pcp195643pcs.unl.edu
 arsnelnk4v8cqd2.unl.edu
 pcp428732pcs.unl.edu
 pcp144908pcs.unl.edu
-www.sheldon.unl.edu
 27oth201.unl.edu
 buff-plugge.unl.edu
 pcp069880pcs.unl.edu
@@ -29837,7 +29768,6 @@ pcp140071pcs.unl.edu
 cba388af2.unl.edu
 eas-7sgl4m1.unl.edu
 its-sand2-prod.unl.edu
-www.grassland.unl.edu
 desktop-fcjdp6t.unl.edu
 pcp144629pcs.unl.edu
 fyh-8zvyfg1.unl.edu
@@ -29970,7 +29900,7 @@ vcr-support.unl.edu
 faid-kdinkelman.unl.edu
 uhc605s171.unl.edu
 cbabbr5350dn.unl.edu
-www.confuciusinstitute.unl.edu
+confuciusinstitute.unl.edu
 nicbc-236wd15ds.unl.edu
 lw52-bdln211.unl.edu
 phys-337jh-pc.unl.edu
@@ -30039,7 +29969,6 @@ plac1094.unl.edu
 its-cxpress-sys01-nf.unl.edu
 lw26-numc150.unl.edu
 pcp049304pcs.unl.edu
-hprcc.unl.edu
 secd-autism04.unl.edu
 uhc10060009.unl.edu
 ms-offassoc-pc.unl.edu
@@ -30454,7 +30383,7 @@ pcp080378pcs.unl.edu
 develop.cellcollective.unl.edu
 secd-303printer.unl.edu
 pcp141929pcs.unl.edu
-www.hr.unl.edu
+hr.unl.edu
 wlan-4-6.unl.edu
 libpub1512.unl.edu
 pcp163062pcs.unl.edu
@@ -30465,7 +30394,6 @@ plasma-pat.unl.edu
 wlan-5-138.unl.edu
 pcp139337pcs.unl.edu
 xevo-control.unl.edu
-www.innovate.unl.edu
 printing.unl.edu
 cors1403ilo.unl.edu
 pcp117156pcs.unl.edu
@@ -30476,7 +30404,6 @@ pcp380629pcs.unl.edu
 pcp144726pcs.unl.edu
 rw-thomas.unl.edu
 eas-3hy0vl1.unl.edu
-huskerbeeflab.unl.edu
 vdc-necrospypt.unl.edu
 cive-170-1.unl.edu
 pcp144309pcs.unl.edu
@@ -30688,7 +30615,6 @@ pcp138943pcs.unl.edu
 uhcq9589100352.unl.edu
 fpa-cmarks.unl.edu
 pcp058152pcs.unl.edu
-swe.unl.edu
 net4016.unl.edu
 27nhw531.unl.edu
 pcp138456pcs.unl.edu
@@ -30792,7 +30718,7 @@ pcp429206pcs.unl.edu
 cselab5-096.unl.edu
 red-d18n14.unl.edu
 ahenrichs1.unl.edu
-www.iep.unl.edu
+iep.unl.edu
 uh-wcdc-tv10.unl.edu
 pcp141680pcs.unl.edu
 pcp141754pcs.unl.edu
@@ -30845,7 +30771,7 @@ uhcl-mj00plaj.unl.edu
 eelabs.unl.edu
 pcp060139pcs.unl.edu
 red-c9406.unl.edu
-www.transfer2.unl.edu
+transfer2.unl.edu
 asem-extra.unl.edu
 psyc-bhnjng1.unl.edu
 pcp080316pcs.unl.edu
@@ -30933,7 +30859,7 @@ jmc-35281.unl.edu
 teac142gsdesk.unl.edu
 pcp138703pcs.unl.edu
 ncv-dim2400-236.unl.edu
-www.bm3-server.unl.edu
+bm3-server.unl.edu
 chembio-la307.unl.edu
 ace-blackboard-nat.unl.edu
 pcp136682pcs.unl.edu
@@ -30985,7 +30911,7 @@ trio-ts-504.unl.edu
 pcp076532pcs.unl.edu
 its-nh327-23.unl.edu
 pcp125375pcs.unl.edu
-www.labmail.unl.edu
+labmail.unl.edu
 pcp069759pcs.unl.edu
 pcp194402pcs.unl.edu
 pcp062198pcs.unl.edu
@@ -30997,7 +30923,7 @@ cob041-sign.unl.edu
 pcp058148pcs.unl.edu
 cba14l025.unl.edu
 lw1142-4h211ne.unl.edu
-www.dropbox.unl.edu
+dropbox.unl.edu
 pcp060197pcs.unl.edu
 morrilfast-path135.unl.edu
 pcp419582pcs.unl.edu
@@ -31161,7 +31087,6 @@ pcp144790pcs.unl.edu
 pcp093669pcs.unl.edu
 ath-har19.unl.edu
 pcp150634pcs.unl.edu
-westcentral.unl.edu
 pcp076412pcs.unl.edu
 red-c1733.unl.edu
 pcp428121pcs.unl.edu
@@ -31170,7 +31095,6 @@ eng-eas5508.unl.edu
 se29bizhubc458.unl.edu
 plac1080.unl.edu
 esl-829c79.unl.edu
-centralsandhills.unl.edu
 pcp369241pcs.unl.edu
 henz-canoncopier-216.unl.edu
 jmc-09067.unl.edu
@@ -31285,7 +31209,6 @@ facm1465.unl.edu
 ebaesu.unl.edu
 facm2377.unl.edu
 hp-laserjet-4250.unl.edu
-iep.unl.edu
 red-d8n2.unl.edu
 pcp026270pcs.unl.edu
 6core.unl.edu
@@ -31388,7 +31311,7 @@ pcp348210pcs.unl.edu
 sbs-5209hb2.unl.edu
 rtr129-93-220.unl.edu
 pcp136581pcs.unl.edu
-www.globaltech.unl.edu
+globaltech.unl.edu
 cjtv-dbrown01.unl.edu
 ppc-hpelite4.unl.edu
 prcs1051.unl.edu
@@ -31521,9 +31444,7 @@ mme-nmrl2.unl.edu
 imse-jko.unl.edu
 vetmed-a118-east.unl.edu
 law-kblankley2.unl.edu
-www.dairystore.unl.edu
 pcp145281pcs.unl.edu
-extension-water.unl.edu
 cb3-3zrml02.unl.edu
 anth-f0314d.unl.edu
 secd-jessicagreen.unl.edu
@@ -31709,7 +31630,7 @@ pcp138379pcs.unl.edu
 lw26-aver12.unl.edu
 chem-zengstud03.unl.edu
 its-mxl6211v6y.unl.edu
-www.bfhome.unl.edu
+bfhome.unl.edu
 uhshare2010.unl.edu
 hws-hub.unl.edu
 tersofreezer-e119.unl.edu
@@ -31785,7 +31706,6 @@ lev119eja15.unl.edu
 arch241dock.unl.edu
 pcp347842pcs.unl.edu
 cba108.unl.edu
-www.ard.unl.edu
 fst-fic225ir4245.unl.edu
 stat-grad27.unl.edu
 mme-oti990bh.unl.edu
@@ -31855,7 +31775,7 @@ pcp347749pcs.unl.edu
 uhcl012cw01.unl.edu
 snr-2149.unl.edu
 pcp129136pcs.unl.edu
-www.precisionagriculture.unl.edu
+precisionagriculture.unl.edu
 secd-observation003.unl.edu
 26420413.unl.edu
 pcp265422pcs.unl.edu
@@ -32053,7 +31973,6 @@ cba369ef1.unl.edu
 anth-927lab03.unl.edu
 vcsa-ds4tjml.unl.edu
 pcp141755pcs.unl.edu
-www.lakota.unl.edu
 red-d20n25.unl.edu
 desktop-s0crp2i.unl.edu
 pcp139598pcs.unl.edu
@@ -32135,7 +32054,7 @@ phrec169.unl.edu
 pcp104322pcs.unl.edu
 law-publictwo.unl.edu
 pcp164352pcs.unl.edu
-www.ndicative.cona-region.unl.edu
+ndicative.cona-region.unl.edu
 ath-sdpgto-02.unl.edu
 pcp420465pcs.unl.edu
 bb-ng-fo3.unl.edu
@@ -32145,7 +32064,6 @@ cba-xd27.unl.edu
 ucomm-5035.unl.edu
 pcp093379pcs.unl.edu
 crec-216.unl.edu
-www.burt.unl.edu
 farrp-mspec.unl.edu
 phrec10.unl.edu
 red-c7308.unl.edu
@@ -32289,7 +32207,6 @@ agr-printer176keim.unl.edu
 agr-dmccallist2.unl.edu
 alert2.unl.edu
 pcp092888pcs.unl.edu
-www.sustainableag.unl.edu
 pcp069031pcs.unl.edu
 ap4c77-6dd0-2f30.unl.edu
 libsp1i.unl.edu
@@ -32306,7 +32223,7 @@ pcp167084pcs.unl.edu
 secd-sb-lab02.unl.edu
 bio-manter152-dxtx2.unl.edu
 lib11003.unl.edu
-www.dph.unl.edu
+dph.unl.edu
 acct1008.unl.edu
 pcp418142pcs.unl.edu
 is-compshop4.unl.edu
@@ -32344,7 +32261,7 @@ secd-mac-video06.unl.edu
 net-printerl16.unl.edu
 cbaitsdellprinter.unl.edu
 unl-nh177mac4.unl.edu
-www.cehssecure2.unl.edu
+cehssecure2.unl.edu
 pre3t.unl.edu
 lw1142-c.unl.edu
 pcp419880pcs.unl.edu
@@ -32405,7 +32322,7 @@ cb3-5b6fk02.unl.edu
 codexprocessorcomputer.unl.edu
 ath-tmiles.unl.edu
 its-wepa-vill01.unl.edu
-www.calmit.unl.edu
+calmit.unl.edu
 bioinfo2.unl.edu
 lw10-loveoutsidesw.unl.edu
 ardcchr-w027.unl.edu
@@ -32484,14 +32401,12 @@ he216-3.unl.edu
 pcp058126pcs.unl.edu
 issoisdp.unl.edu
 pcp136590pcs.unl.edu
-www.educationabroad.unl.edu
 pcp140325pcs.unl.edu
 main1084.unl.edu
 util1018.unl.edu
 agr-df2knnl1.unl.edu
 pcp089409pcs.unl.edu
 pcp429277pcs.unl.edu
-www.mathbooks.unl.edu
 sidneyrouter.unl.edu
 pcp137816pcs.unl.edu
 uh-selq-tv03.unl.edu
@@ -32595,7 +32510,6 @@ rosetta.unl.edu
 pcp060748pcs.unl.edu
 pcp428184pcs.unl.edu
 ext-8p2dvz1.unl.edu
-ianrhome.unl.edu
 libpub1829.unl.edu
 modl-signage.unl.edu
 ap31-concord107.unl.edu
@@ -32663,7 +32577,7 @@ red-c1913.unl.edu
 mead-radio-07.unl.edu
 nenjarvimary.unl.edu
 naldrett-e154-bead.unl.edu
-www.cropwatch.unl.edu
+cropwatch.unl.edu
 jmc-13020.unl.edu
 pcp355984pcs.unl.edu
 lib17005.unl.edu
@@ -32690,7 +32604,7 @@ pcp430667pcs.unl.edu
 unl-nuregencybamxcom.unl.edu
 crec-287.unl.edu
 devaney-qsys-pc.unl.edu
-www.me.unl.edu
+me.unl.edu
 pcp139118pcs.unl.edu
 pcp430342pcs.unl.edu
 pcp429918pcs.unl.edu
@@ -32724,19 +32638,17 @@ pcp185661pcs.unl.edu
 ent-cunningham.unl.edu
 cit-amoore2.unl.edu
 chembio-prp004935prs.unl.edu
-www.fhp.unl.edu
 pcp138913pcs.unl.edu
 iimsrv3.unl.edu
 pcp144981pcs.unl.edu
 lw1142-seaton102.unl.edu
 pcp419730pcs.unl.edu
-www.hayes.unl.edu
 pcp173278pcs.unl.edu
 ctxvmcba017.unl.edu
 admiss-jcolligan.unl.edu
 pcp388631pcs.unl.edu
 facm1605.unl.edu
-www.colfax.unl.edu
+colfax.unl.edu
 its-oldh305pc.unl.edu
 bse-dburns-lj.unl.edu
 pcp080091pcs.unl.edu
@@ -32854,7 +32766,6 @@ enre.unl.edu
 unl-gaun317tp.unl.edu
 secd-axis-rm222.unl.edu
 lreznicek.unl.edu
-www.wm-imp-1.unl.edu
 debbie-pc.unl.edu
 ea-7wv5lm1.unl.edu
 pcp144934pcs.unl.edu
@@ -33085,7 +32996,6 @@ pcp143901pcs.unl.edu
 lied-wd007.unl.edu
 pcp078574pcs.unl.edu
 snrs-0462.unl.edu
-myplan.unl.edu
 crec-221.unl.edu
 cob014-l6.unl.edu
 mwrsf-xps5.unl.edu
@@ -33099,7 +33009,6 @@ pcp130096pcs.unl.edu
 lw1142-plantsci367.unl.edu
 pcp134649pcs.unl.edu
 pcp367927pcs.unl.edu
-www.engage.unl.edu
 pcp144877pcs.unl.edu
 pcp145288pcs.unl.edu
 mme-181lab05.unl.edu
@@ -33148,7 +33057,7 @@ piesl26.unl.edu
 station-2-2008.unl.edu
 fdst-farrp010.unl.edu
 cfpa-das-12.unl.edu
-www.hive.unl.edu
+hive.unl.edu
 gambrinus.unl.edu
 rtr129-93-186-0.unl.edu
 pcp060130pcs.unl.edu
@@ -33177,7 +33086,6 @@ ath-djsec07.unl.edu
 lw26-nu28.unl.edu
 ode-canon113.unl.edu
 res75.unl.edu
-lincolnweather.unl.edu
 mme-359nel03.unl.edu
 ishd-skywarp.unl.edu
 rvb-sign01.unl.edu
@@ -33287,7 +33195,6 @@ snr-1671.unl.edu
 rtr129-93-160.unl.edu
 pcp139419pcs.unl.edu
 finaid-7vwcxv1-temp.unl.edu
-www.gage.unl.edu
 pcp158402pcs.unl.edu
 pcp138486pcs.unl.edu
 mail1018.unl.edu
@@ -33562,7 +33469,7 @@ pcp057369pcs.unl.edu
 bpdf-tswanson1.unl.edu
 cob511q-eg6.unl.edu
 pcp428872pcs.unl.edu
-www.studentaccounts.unl.edu
+studentaccounts.unl.edu
 lw52-hah612.unl.edu
 pmenard03-vpc.unl.edu
 agr-dclyqtv1.unl.edu
@@ -33661,7 +33568,6 @@ desktop-mbie1ek.unl.edu
 red-d15n17.unl.edu
 asdo-7857d6.unl.edu
 cat29-base201.unl.edu
-www.cass.unl.edu
 uhcmj00plaj.unl.edu
 pcp418367pcs.unl.edu
 pcp347734pcs.unl.edu
@@ -33826,7 +33732,7 @@ jmc-13022.unl.edu
 ischc-camera3.unl.edu
 pcp158053pcs.unl.edu
 pcp158388pcs.unl.edu
-www.ccfl.unl.edu
+ccfl.unl.edu
 teac141printcd.unl.edu
 unlext-tsw750.unl.edu
 rcomm-fll9pm1.unl.edu
@@ -33992,7 +33898,6 @@ hpb53d8a.unl.edu
 its-hostingprod1.unl.edu
 lw1142-ross123e.unl.edu
 is-crh-pc04.unl.edu
-www.mychc.unl.edu
 netshare.unl.edu
 rabindrapc.unl.edu
 is-selq-pc15.unl.edu
@@ -34013,7 +33918,7 @@ engr-djonesnuc.unl.edu
 pcp071905pcs.unl.edu
 ap42-sblf103.unl.edu
 law-s110cres.unl.edu
-www.recycling.unl.edu
+recycling.unl.edu
 edps-d102927.unl.edu
 pcp385960pcs.unl.edu
 pcp143396pcs.unl.edu
@@ -34046,7 +33951,6 @@ pcp133530pcs.unl.edu
 casnr-hkmjfx1.unl.edu
 red-sec-c1628.unl.edu
 pcp173276pcs.unl.edu
-lnclu10.unl.edu
 law-cccam6848.unl.edu
 lw26-bonarch322.unl.edu
 pcp348065pcs.unl.edu
@@ -34075,7 +33979,7 @@ snr-p1417.unl.edu
 pcp125461pcs.unl.edu
 pcp429446pcs.unl.edu
 ath-sjacobson.unl.edu
-www.companionanimal.unl.edu
+companionanimal.unl.edu
 red-c2205.unl.edu
 its-35v08v1.unl.edu
 bb-ng-fo6.unl.edu
@@ -34106,7 +34010,7 @@ lw1142-spc264.unl.edu
 pcp347903pcs.unl.edu
 teac129lapcrumann.unl.edu
 cse-usb-03.unl.edu
-www.connewww.confuciusinstitute.unl.edu
+connewww.confuciusinstitute.unl.edu
 pcp163027pcs.unl.edu
 pcp139380pcs.unl.edu
 ncta-canon-jc1rm-edcenter-color.unl.edu
@@ -34177,12 +34081,10 @@ is-analytics.unl.edu
 agr-sdworaknb.unl.edu
 red-c1812.unl.edu
 ath-tbedient.unl.edu
-www.idm.unl.edu
 pcp429023pcs.unl.edu
 math-147.unl.edu
 othm206stu22.unl.edu
 pcp429481pcs.unl.edu
-www.catering.unl.edu
 p-kirkstudent.unl.edu
 bse-irmak15.unl.edu
 net-mosaic-primary.unl.edu
@@ -34244,7 +34146,7 @@ secd-ricketts03.unl.edu
 its-c02gk1d3drjl.unl.edu
 rtr129-93-6-76.unl.edu
 cob445-ag6.unl.edu
-www.cse-mail.unl.edu
+cse-mail.unl.edu
 lev316erm15.unl.edu
 pcp369185pcs.unl.edu
 eng-eas3508.unl.edu
@@ -34491,8 +34393,6 @@ pcp347744pcs.unl.edu
 ath-jmandelko.unl.edu
 artssci-phurst.unl.edu
 pcp430324pcs.unl.edu
-health.unl.edu
-focuslab.unl.edu
 red-d11n18.unl.edu
 nctaaec24sd15.unl.edu
 r8500.unl.edu
@@ -34655,7 +34555,7 @@ pcp430091pcs.unl.edu
 mme181-mrw1c2.unl.edu
 unl-keim214tp.unl.edu
 pcp099916pcs.unl.edu
-www.fillmore.unl.edu
+fillmore.unl.edu
 ctxvmdlc027.unl.edu
 ath-jcartsens.unl.edu
 red-c7113.unl.edu
@@ -34671,7 +34571,6 @@ lawfs02c.unl.edu
 pp-tjackson3.unl.edu
 pa42-asindelar.unl.edu
 facm1068.unl.edu
-www.csd.unl.edu
 nutech-jk56hr1.unl.edu
 pcp170267pcs.unl.edu
 cs-canond5190b.unl.edu
@@ -34793,7 +34692,7 @@ lib12033lt.unl.edu
 jmc-axis292e.unl.edu
 netresolve.unl.edu
 ath-stc04.unl.edu
-www.libfind.unl.edu
+libfind.unl.edu
 neun-csofsstdd.unl.edu
 cse-sincovec-02.unl.edu
 se16gq7d3d1.unl.edu
@@ -34860,7 +34759,6 @@ jmc-axis292f.unl.edu
 nfsprintserver.unl.edu
 cors1402.unl.edu
 pcp428868pcs.unl.edu
-www.mlkweek.unl.edu
 fst-317hpcolor3600n.unl.edu
 raikes-ds00118.unl.edu
 pcp080141pcs.unl.edu
@@ -34909,7 +34807,6 @@ unl-nucribtp.unl.edu
 admiss-h136h02.unl.edu
 crec-copier10.unl.edu
 makerspace-compute-6b.unl.edu
-www.rha.unl.edu
 uhon-st104.unl.edu
 cob340e-ds1.unl.edu
 pcp429400pcs.unl.edu
@@ -34979,7 +34876,7 @@ prcs1068.unl.edu
 agr-nnicolai.unl.edu
 mrtg-ec-traffic.unl.edu
 snr-2494.unl.edu
-www.livingstoneonline.unl.edu
+livingstoneonline.unl.edu
 ath-mbb3.unl.edu
 pcp388442pcs.unl.edu
 raikes-conf127e.unl.edu
@@ -35103,7 +35000,6 @@ pcp164350pcs.unl.edu
 red-c7326.unl.edu
 red-d23n1.unl.edu
 burn127xen37.unl.edu
-enve.unl.edu
 em-c2qhd0rgdvhj.unl.edu
 snr-2374.unl.edu
 psych-4jhvtq2.unl.edu
@@ -35215,7 +35111,6 @@ pcp078867pcs.unl.edu
 ldap-css11501-wsec101.unl.edu
 akb-lab.unl.edu
 pcp123667pcs.unl.edu
-www.biotech.unl.edu
 pcp069746pcs.unl.edu
 pcp165223pcs.unl.edu
 pcp049259pcs.unl.edu
@@ -35350,7 +35245,7 @@ heco-imacintel-kkassebaum2.unl.edu
 bordera-t0-0-0-22.unl.edu
 pcp428737pcs.unl.edu
 wsec6c1-2-temp.unl.edu
-www.prairieschooner.unl.edu
+prairieschooner.unl.edu
 net3982.unl.edu
 hcc-anvil-175-35.unl.edu
 snr-p1852.unl.edu
@@ -36025,7 +35920,6 @@ nugisportal.unl.edu
 geog-62c687.unl.edu
 psyc-4rgpj02.unl.edu
 secd-mac-video09.unl.edu
-labmail.unl.edu
 pcp142283pcs.unl.edu
 shib-test.unl.edu
 pcp430023pcs.unl.edu
@@ -36173,7 +36067,6 @@ nci-dbrestel.unl.edu
 pcp333543pcs.unl.edu
 facm2381.unl.edu
 savannah.unl.edu
-foodsci.unl.edu
 altclabnw03imac.unl.edu
 afsmacbook2010.unl.edu
 coms-e18037.unl.edu
@@ -36376,7 +36269,6 @@ gn28meadfeed1.unl.edu
 nchc-terik.unl.edu
 buros-d302297.unl.edu
 rfi-41mj5v1.unl.edu
-engr.unl.edu
 cse-dedup4.unl.edu
 brdra-te0-0-0-10.unl.edu
 lw1142-physics245.unl.edu
@@ -36545,7 +36437,6 @@ desktop-9l9phgk.unl.edu
 gn28mead190.unl.edu
 mwrsf-latdoc1.unl.edu
 pcp141947pcs.unl.edu
-precisionagriculture.unl.edu
 secd-kwacker.unl.edu
 law-ds-010-w.unl.edu
 cat29-cather101.unl.edu
@@ -36593,7 +36484,6 @@ pcp139332pcs.unl.edu
 its-3kfqsw1.unl.edu
 d1kd0i.unl.edu
 lagft-mj0anm5y.unl.edu
-studentaccounts.unl.edu
 napt52.unl.edu
 cojmc-andn40-mcp1082.unl.edu
 pcp140125pcs.unl.edu
@@ -36759,8 +36649,6 @@ secd-hebertlab06.unl.edu
 civil-brother-color.unl.edu
 its-ne332-4235.unl.edu
 uitad-pf3psxa1.unl.edu
-www.adams.unl.edu
-mrsec.unl.edu
 pcp026246pcs.unl.edu
 asa05-greek-sn.unl.edu
 lw1142-housing208.unl.edu
@@ -36934,7 +36822,6 @@ pcp139638pcs.unl.edu
 happi-gvqj8m2.unl.edu
 libcir1327.unl.edu
 pcp142916pcs.unl.edu
-ncdc.unl.edu
 unp-4a5937.unl.edu
 cob325ab-mf1.unl.edu
 pcp420154pcs.unl.edu
@@ -37031,7 +36918,7 @@ ri-ir3225.unl.edu
 pcp093979pcs.unl.edu
 p-ll9.unl.edu
 hcc-stashtest.unl.edu
-www.re4now.unl.edu
+re4now.unl.edu
 pcp141311pcs.unl.edu
 bf-hlpmzc2.unl.edu
 pcp137864pcs.unl.edu
@@ -37141,7 +37028,7 @@ bse-bbay1.unl.edu
 pcp347856pcs.unl.edu
 pcp093392pcs.unl.edu
 27-charbor.unl.edu
-www.vdiconn2.unl.edu
+vdiconn2.unl.edu
 yerin.unl.edu
 pcp138480pcs.unl.edu
 ltap-0819737502.unl.edu
@@ -37208,7 +37095,6 @@ pcp143898pcs.unl.edu
 minint-a3f0kam.unl.edu
 delaveagalaptop.unl.edu
 pcp071878pcs.unl.edu
-www.data.mesonet.unl.edu
 pcp142404pcs.unl.edu
 cobprep-044.unl.edu
 pcp079090pcs.unl.edu
@@ -37359,7 +37245,6 @@ office-colorprinter.unl.edu
 libpub1210.unl.edu
 agr-11ymv52.unl.edu
 pcp105992pcs.unl.edu
-cpsws.unl.edu
 snr-1460.unl.edu
 pcp428119pcs.unl.edu
 castingnets.unl.edu
@@ -37561,7 +37446,6 @@ raikes-ds0046.unl.edu
 cojmc-andn40-sdx414.unl.edu
 pcp140592pcs.unl.edu
 pcp142852pcs.unl.edu
-scottsbluff.unl.edu
 ccfl-angora.unl.edu
 pcp347711pcs.unl.edu
 mrtg-techpark.unl.edu
@@ -37673,7 +37557,6 @@ pcp428610pcs.unl.edu
 rtr129-93-232-128.unl.edu
 soc-e4aa5d.unl.edu
 me-beta.unl.edu
-www.netshare.unl.edu
 forrestal-old.unl.edu
 pcp136461pcs.unl.edu
 pinkie-pie.unl.edu
@@ -37820,7 +37703,6 @@ ritawilson.unl.edu
 mngt2330dn.unl.edu
 rhino-gw1.unl.edu
 pcp044824pcs.unl.edu
-kap.unl.edu
 uitatnmorrisvm.unl.edu
 do-not-use.unl.edu
 pcp158414pcs.unl.edu
@@ -37886,7 +37768,6 @@ pcp380574pcs.unl.edu
 snr8.unl.edu
 27-nh420d.unl.edu
 pcp167112pcs.unl.edu
-www.bioenergy.unl.edu
 minint-g29re2e.unl.edu
 bfwsus.unl.edu
 pcp429351pcs.unl.edu
@@ -37956,9 +37837,8 @@ pcp197250pcs.unl.edu
 uhcg00rbq1.unl.edu
 its-cvma1-old.unl.edu
 secd-247iprinter.unl.edu
-www.netkbox1k.unl.edu
 mabl163b-labb01.unl.edu
-www.ehs.unl.edu
+ehs.unl.edu
 unpd1023.unl.edu
 pcp134753pcs.unl.edu
 pcp347769pcs.unl.edu
@@ -38029,7 +37909,6 @@ arch23cart.unl.edu
 cba380af1.unl.edu
 pcp070708pcs.unl.edu
 cehs02.unl.edu
-analytics.unl.edu
 ansc-rrasby.unl.edu
 cselab7-25.unl.edu
 cbaadocanon.unl.edu
@@ -38040,7 +37919,7 @@ pcp049101pcs.unl.edu
 henz213desk3.unl.edu
 pcp137223pcs.unl.edu
 admis-sairan72.unl.edu
-www.boyd.unl.edu
+boyd.unl.edu
 cbk-pc.unl.edu
 ath-psych2.unl.edu
 bdadmin-pc.unl.edu
@@ -38051,7 +37930,7 @@ ctxvmagecon039.unl.edu
 red-d11n10.unl.edu
 ea-lls110-xerox6022.unl.edu
 pcp430840pcs.unl.edu
-www.scottsbluff-morrill.unl.edu
+scottsbluff-morrill.unl.edu
 lib13066dt.unl.edu
 jmc-10079.unl.edu
 pcp167068pcs.unl.edu
@@ -38422,7 +38301,7 @@ ardcchr-hpclj3600.unl.edu
 pcp117197pcs.unl.edu
 its-5cg622775y.unl.edu
 nafcs.unl.edu
-www.glw.unl.edu
+glw.unl.edu
 its-rajeshpc.unl.edu
 as-2100tn.unl.edu
 image.lincoln.unl.edu
@@ -38431,7 +38310,6 @@ bfbsc14109.unl.edu
 jmc-25422.unl.edu
 rfi-g8vsxf1.unl.edu
 secdc-clinic04.unl.edu
-judaic.unl.edu
 tetraoxolane1.unl.edu
 cehs25.unl.edu
 psyc-29qr3d1.unl.edu
@@ -38462,7 +38340,7 @@ unlcms-project.unl.edu
 minint-tv48n4p.unl.edu
 stac-hp5nv.unl.edu
 nex098y31lc2.unl.edu
-www.ianr.unl.edu
+ianr.unl.edu
 ctxvmdlc063.unl.edu
 gn26-sblf4.unl.edu
 ttl-student17.unl.edu
@@ -38641,7 +38519,6 @@ pcp078737pcs.unl.edu
 cba138ds11.unl.edu
 amazon-be8206bad.unl.edu
 ctxvmagecon006.unl.edu
-www.marketplace.unl.edu
 pcp137852pcs.unl.edu
 vbs-rmoxley7040.unl.edu
 its-speterson.unl.edu
@@ -38698,7 +38575,6 @@ lw1142-loven1east.unl.edu
 pcp138183pcs.unl.edu
 park2040.unl.edu
 pcp429409pcs.unl.edu
-pierce.unl.edu
 asa05-ltap.unl.edu
 morrilfast-path145.unl.edu
 pcp427878pcs.unl.edu
@@ -38872,7 +38748,6 @@ pcp144528pcs.unl.edu
 ardc-p018.unl.edu
 cob423h-ff5.unl.edu
 snr-1544.unl.edu
-www.engineeringambassadors.unl.edu
 hpp3005-n322.unl.edu
 mwrsf-server2.unl.edu
 27-trans101.unl.edu
@@ -38986,7 +38861,7 @@ net3728.unl.edu
 mmac2.unl.edu
 pcp078739pcs.unl.edu
 is-and-pc02.unl.edu
-www.login.unl.edu
+login.unl.edu
 secd-observation001.unl.edu
 pcp043075pcs.unl.edu
 pcp142080pcs.unl.edu
@@ -39029,7 +38904,6 @@ j7958a.unl.edu
 hcc-gracc-apel-itb.unl.edu
 cselab4-75.unl.edu
 uh-fixittest.unl.edu
-www.appliedscience.unl.edu
 pcp143977pcs.unl.edu
 phcfg-server.unl.edu
 bf-8j6lb42.unl.edu
@@ -39058,7 +38932,6 @@ pcp420181pcs.unl.edu
 mabl-macpro-spanarelli.unl.edu
 ml-viz.unl.edu
 pcp138916pcs.unl.edu
-www.antivirus.unl.edu
 lagen-xl0033c03.unl.edu
 classiccbaweb.unl.edu
 pcp162723pcs.unl.edu
@@ -39086,7 +38959,6 @@ mwesely-temp.unl.edu
 pcp130173pcs.unl.edu
 cse-swei-03.unl.edu
 pcp418479pcs.unl.edu
-dodge.unl.edu
 bf-9q96fp1.unl.edu
 bioservx-node01.unl.edu
 cob325k-mf2.unl.edu
@@ -39229,7 +39101,6 @@ cat29-greek-ap101.unl.edu
 uh-hawk.unl.edu
 engl-smoore.unl.edu
 li1.unl.edu
-hamilton.unl.edu
 cse-asarma-11.unl.edu
 snr-2351.unl.edu
 netxmit-ws5-pc.unl.edu
@@ -39935,7 +39806,6 @@ cat65-milh101.unl.edu
 ff-grid4.unl.edu
 pcp429994pcs.unl.edu
 crs-c4c3dc.unl.edu
-www.bpdf.unl.edu
 pcp075561pcs.unl.edu
 ansc-msbg.unl.edu
 jcs-cad05.unl.edu
@@ -40193,7 +40063,6 @@ abroholos.unl.edu
 aah-w105gd-19.unl.edu
 symantec.unl.edu
 mcwic-conf.unl.edu
-www.eshop.unl.edu
 pcp241245pcs.unl.edu
 stat-cam05.unl.edu
 pcp173414pcs.unl.edu
@@ -40218,7 +40087,6 @@ ath-hvstudio1.unl.edu
 gn27-aghall29.unl.edu
 ansc-c118prt.unl.edu
 uhkwo1.syycdb1.unl.edu
-www.thinktank.unl.edu
 net4200.unl.edu
 001cc0fa6b5f.unl.edu
 pcp164193pcs.unl.edu
@@ -40317,7 +40185,7 @@ gpc-oldh207pc.unl.edu
 knowyourwell.unl.edu
 asdo-de2072.unl.edu
 evc-mj64ah9.unl.edu
-www.help.unl.edu
+help.unl.edu
 aecn-hc399n2.unl.edu
 cat29-mead201.unl.edu
 red-d20n16.unl.edu
@@ -40639,7 +40507,6 @@ asc-promotenure.unl.edu
 pcp388870pcs.unl.edu
 ath-jtezak.unl.edu
 mwrsf-xps21.unl.edu
-www.cpanel.unl.edu
 pcp136507pcs.unl.edu
 pcp069775pcs.unl.edu
 pcp125393pcs.unl.edu
@@ -40967,7 +40834,7 @@ modl-688e95.unl.edu
 pcp356026pcs.unl.edu
 pcp194518pcs.unl.edu
 cba310ks1.unl.edu
-www.unopa.unl.edu
+unopa.unl.edu
 sysbio513.unl.edu
 uh-hssoa.unl.edu
 eng-patterson1.unl.edu
@@ -40992,7 +40859,7 @@ aruba-conductor.lpv.unl.edu
 cba36l023.unl.edu
 facm1596.unl.edu
 teac49-eburgess-delltower.unl.edu
-www.gsl.unl.edu
+gsl.unl.edu
 aecn-86fbcg2.unl.edu
 jin.unl.edu
 pcp141203pcs.unl.edu
@@ -41048,7 +40915,6 @@ emcs-test-app1.unl.edu
 red-d11n7.unl.edu
 d2ysr921.unl.edu
 pcp164416pcs.unl.edu
-www.taubetapi.unl.edu
 frc01media13.unl.edu
 law-express02.unl.edu
 engl-a31a3a.unl.edu
@@ -41098,7 +40964,6 @@ pcp195848pcs.unl.edu
 pcp382685pcs.unl.edu
 pcp067465pcs.unl.edu
 pcp139371pcs.unl.edu
-www.engineering.unl.edu
 its-331x9z1.unl.edu
 snr-1732.unl.edu
 pcp181994pcs.unl.edu
@@ -41264,7 +41129,6 @@ red-c2410.unl.edu
 pcp075551pcs.unl.edu
 harh49-netlinx.unl.edu
 pcp144244pcs.unl.edu
-www.commencement.unl.edu
 pcp153359pcs.unl.edu
 ctxvmburnett31.unl.edu
 desktop-de353jl.unl.edu
@@ -41360,7 +41224,6 @@ msdatastore.unl.edu
 esl-dpearston.unl.edu
 eas-2bpxjq1.unl.edu
 uh-cc101.unl.edu
-www.aias.unl.edu
 cb3-mj0d5zvy.unl.edu
 mprcp.unl.edu
 kamui.unl.edu
@@ -41547,7 +41410,6 @@ pcp140673pcs.unl.edu
 fst-mxl6091bjb.unl.edu
 ath-dtcto-02.unl.edu
 ansc-gscopier.unl.edu
-jefferson.unl.edu
 cba36l008.unl.edu
 pcp430493pcs.unl.edu
 bssc1026.unl.edu
@@ -41556,7 +41418,6 @@ fst-my509002k0.unl.edu
 snr-1528.unl.edu
 ath-gluedtke.unl.edu
 houtc24.unl.edu
-www.grasscast.unl.edu
 libpub1608.unl.edu
 psychc89ws1.unl.edu
 pcp140318pcs.unl.edu
@@ -41631,7 +41492,6 @@ desktop-02ldoj1.unl.edu
 pcp355965pcs.unl.edu
 cob036-l51.unl.edu
 pcp138415pcs.unl.edu
-scottsbluff-morrill.unl.edu
 secd-motorspeech03.unl.edu
 pcp139104pcs.unl.edu
 208-lj1320.unl.edu
@@ -41698,7 +41558,6 @@ pcp385984pcs.unl.edu
 anscia222-tp.unl.edu
 minint-o98a9uu.unl.edu
 pcp144926pcs.unl.edu
-www.knox.unl.edu
 ntc-chrislaptop1.unl.edu
 lw42-apswitch.unl.edu
 pcp079098pcs.unl.edu
@@ -41715,7 +41574,6 @@ crec-148.unl.edu
 rakdkeck.unl.edu
 pcp385958pcs.unl.edu
 othm207g3.unl.edu
-www.tel.unl.edu
 engr-mamar.unl.edu
 ml48.unl.edu
 admiss-alex17-canonir4245.unl.edu
@@ -41853,7 +41711,6 @@ ath-noah-e.unl.edu
 d36x7jq1.unl.edu
 al-tiro-2-4.unl.edu
 wlan-4-28.unl.edu
-www.identityfinder.unl.edu
 ruralwellness.unl.edu
 nu-2vx14z2.unl.edu
 snr-p2398.unl.edu
@@ -41873,7 +41730,6 @@ nebnewspapers.unl.edu
 bf-hjz9pw1.unl.edu
 rr-hbs2hx1.unl.edu
 cob411b-is1.unl.edu
-fillmore.unl.edu
 pcp144539pcs.unl.edu
 psyc-57tzjm1.unl.edu
 pcp420496pcs.unl.edu
@@ -41882,7 +41738,6 @@ ee-startech.unl.edu
 libpub1083.unl.edu
 lw2600-test.unl.edu
 adm-pilot.unl.edu
-www.medici.unl.edu
 lw42-pdt220.unl.edu
 agr-02yl6arlvcg.unl.edu
 reserved8updcam.unl.edu
@@ -41932,7 +41787,6 @@ secd-mb-lab01.unl.edu
 is-brh-bwlp1.unl.edu
 uitat-dinspaging-tascam.unl.edu
 pcp347854pcs.unl.edu
-hr.unl.edu
 secdgreenlab205.unl.edu
 cse-mac-09.unl.edu
 gs-nbryan.unl.edu
@@ -41993,7 +41847,7 @@ pcp420108pcs.unl.edu
 ath-vbaxisptz1.unl.edu
 uhcl145clin03.unl.edu
 cselab5-021.unl.edu
-www.summer.unl.edu
+summer.unl.edu
 adsync.unl.edu
 psyc-9v8xcz1.unl.edu
 burs2007.unl.edu
@@ -42005,7 +41859,6 @@ schnable-apages.unl.edu
 csgraduationsurvey.unl.edu
 uh-ecu215hp4050.unl.edu
 pcp166863pcs.unl.edu
-www.ashfall.unl.edu
 pcp417892pcs.unl.edu
 dell40d1d1.unl.edu
 burn127xen48.unl.edu
@@ -42241,7 +42094,7 @@ pcp429327pcs.unl.edu
 libcirc1543.unl.edu
 pcp138436pcs.unl.edu
 cob036-l10.unl.edu
-www.nesen.unl.edu
+nesen.unl.edu
 stat-wstroup-1.unl.edu
 pcp385993pcs.unl.edu
 pcp141329pcs.unl.edu
@@ -42479,7 +42332,6 @@ pcp322889pcs.unl.edu
 pcp137040pcs.unl.edu
 pcp095138pcs.unl.edu
 nexha321nq72.unl.edu
-www.explore-evolution.unl.edu
 aah-w105gd-07.unl.edu
 edpsmicllesimac.unl.edu
 secd-proj-127.unl.edu
@@ -42501,7 +42353,6 @@ its-beade103mac.unl.edu
 xb-20150929jjrz.unl.edu
 fdst-ir3245i.unl.edu
 pcp195642pcs.unl.edu
-redwillow.unl.edu
 nawmn-dev.unl.edu
 pcp388486pcs.unl.edu
 lw1142-loves300w.unl.edu
@@ -42521,7 +42372,6 @@ psyc-3zsml02.unl.edu
 npmhxengoobmgmt2.unl.edu
 prcs2011.unl.edu
 pcp368998pcs.unl.edu
-www.exact.unl.edu
 lib17015.unl.edu
 ncta-lrclab4350.unl.edu
 laead-pf2b2n09.unl.edu
@@ -42622,7 +42472,6 @@ xerox-room356.unl.edu
 e550cd.unl.edu
 mvs-2ua5293kwt.unl.edu
 res72.unl.edu
-vegdri.unl.edu
 chem-ace3.unl.edu
 uh-sel7007-tv01.unl.edu
 pcp058169pcs.unl.edu
@@ -42777,7 +42626,7 @@ pcp031189pcs.unl.edu
 lcaah-jgwbv13.unl.edu
 pcp080382pcs.unl.edu
 jmc-10010.unl.edu
-www.otoe.unl.edu
+otoe.unl.edu
 hcc-ns1.unl.edu
 uh-wcdc119-02.unl.edu
 uhcl213dden1.unl.edu
@@ -42825,7 +42674,7 @@ jmc-appletv-cart.unl.edu
 desktop-gf7vm40.unl.edu
 ctxvmpublic012.unl.edu
 is-nh-bwlp1.unl.edu
-www.food.unl.edu
+food.unl.edu
 pcp140856pcs.unl.edu
 its-vmsa.unl.edu
 brendawest.unl.edu
@@ -42944,7 +42793,6 @@ pcp140577pcs.unl.edu
 quimbyjh241-402.unl.edu
 isco-project2.unl.edu
 land1019.unl.edu
-nuenergy.unl.edu
 ath-vbaxis-e.unl.edu
 crweducation.unl.edu
 ccfl-mdeveney-devel.unl.edu
@@ -42967,7 +42815,6 @@ ucommphotos.unl.edu
 fdst-hy4q221.unl.edu
 f5-marketplace.unl.edu
 pcp093387pcs.unl.edu
-droughtimpacts.unl.edu
 minint-9kp7v5s.unl.edu
 bf-hlvy4z2.unl.edu
 its-fqscrl1.unl.edu
@@ -43057,7 +42904,7 @@ ento-ggyk45000048.unl.edu
 ctxvmdlc008.unl.edu
 bio-manter152-dxrx14.unl.edu
 chem-mstainstu0.unl.edu
-www.cs.unl.edu
+cs.unl.edu
 0-www.pdcnet.org.library.unl.edu
 agh-030744.unl.edu
 pcp141316pcs.unl.edu
@@ -43102,7 +42949,6 @@ hcc-anvil-175-59.unl.edu
 nwiest-p67a.unl.edu
 comm-h1mjmr2.unl.edu
 pcp142381pcs.unl.edu
-login.unl.edu
 dsext.unl.edu
 libpub1529mac.unl.edu
 27-bra315.unl.edu
@@ -43134,7 +42980,6 @@ pcp134747pcs.unl.edu
 engl-copycenter.unl.edu
 unl-nuregencyaamx.unl.edu
 27-whit116.unl.edu
-www.oxfordmusiconline.com.library.unl.edu
 ccfl-win7-kvm.unl.edu
 pcp084601pcs.unl.edu
 pcp137166pcs.unl.edu
@@ -43221,7 +43066,6 @@ pcp141606pcs.unl.edu
 admiss-lehrlich.unl.edu
 macbook-megan.unl.edu
 pcp163018pcs.unl.edu
-climate.unl.edu
 pcp097126pcs.unl.edu
 gpc-bl104pc.unl.edu
 pcp428383pcs.unl.edu
@@ -43318,7 +43162,6 @@ laead-9cpc622.unl.edu
 pcp430403pcs.unl.edu
 pcp347727pcs.unl.edu
 pcp139557pcs.unl.edu
-wam.unl.edu
 gn15-mead-plots.unl.edu
 net4247.unl.edu
 pcp141742pcs.unl.edu
@@ -43448,7 +43291,6 @@ necsoil2.unl.edu
 wgs-hpojpcolor8100.unl.edu
 ljbc4.unl.edu
 kauf122a-sdx.unl.edu
-www.cedar.unl.edu
 civil-canon2.unl.edu
 ath-ashepherd.unl.edu
 rtr129-93-239-192.unl.edu
@@ -43660,7 +43502,6 @@ pcp134625pcs.unl.edu
 raikes-ds0022.unl.edu
 rtr129-93-249-128.unl.edu
 polycom.unl.edu
-worldofviruses.unl.edu
 altc-mabl120-hpljpro400mfpm425dn.unl.edu
 se01mjdkf98.unl.edu
 pcp062609pcs.unl.edu
@@ -43844,7 +43685,6 @@ jmc-13014.unl.edu
 pcp429532pcs.unl.edu
 pcp071231pcs.unl.edu
 modl-7c10a4.unl.edu
-calmit.unl.edu
 isit-teac202mac.unl.edu
 minint-5jbhod8.unl.edu
 ath-n275a.unl.edu
@@ -43861,7 +43701,6 @@ ento-60w70d1.unl.edu
 pcp080328pcs.unl.edu
 ard-gbtwj12.unl.edu
 netv-contivity.unl.edu
-www.washington.unl.edu
 pcp031201pcs.unl.edu
 itssec-macpro.unl.edu
 pcp136982pcs.unl.edu
@@ -43912,7 +43751,6 @@ unlcema155-fwibooked.unl.edu
 pcp141673pcs.unl.edu
 pcp170495pcs.unl.edu
 agr-3sx3ch2.unl.edu
-www.drought.unl.edu
 engr-111secswitcher.unl.edu
 sysbiopsi.unl.edu
 pcp030774pcs.unl.edu
@@ -44706,7 +44544,6 @@ pcp141768pcs.unl.edu
 to1.unl.edu
 pcp356010pcs.unl.edu
 stat-cam01.unl.edu
-www.unlisnotes.unl.edu
 vc-8xbgw12.unl.edu
 purc1025.unl.edu
 jcstf-rendacott2.unl.edu
@@ -44735,7 +44572,6 @@ ath-rvoecks-sb.unl.edu
 pcp136947pcs.unl.edu
 crec-390.unl.edu
 pcp069347pcs.unl.edu
-fpc.unl.edu
 pcp165787pcs.unl.edu
 02wmorr302-1.unl.edu
 pcp144812pcs.unl.edu
@@ -44802,11 +44638,10 @@ net4217.unl.edu
 ath-vbaxis-sc.unl.edu
 phrec-tsk6053.unl.edu
 sep0059dc5a2a02.unl.edu
-www.droughtmonitor.unl.edu
+droughtmonitor.unl.edu
 pcp150633pcs.unl.edu
 cba125ds11.unl.edu
 law-westlaw5.unl.edu
-www.isso.unl.edu
 libpub1026.unl.edu
 pcp428882pcs.unl.edu
 cojmc-andn44-mcp108.unl.edu
@@ -45036,7 +44871,6 @@ is-mrr-mac08.unl.edu
 necente6220.unl.edu
 e6500-w.unl.edu
 pcp144070pcs.unl.edu
-www.jktest1.unl.edu
 pcp078982pcs.unl.edu
 bfbsc1024.unl.edu
 pcp429171pcs.unl.edu
@@ -45094,7 +44928,6 @@ is-proxygradp2.unl.edu
 farrp-annah.unl.edu
 edadofficeprinter.unl.edu
 pcp145022pcs.unl.edu
-www.bosr.unl.edu
 pcp430345pcs.unl.edu
 cob125g-us2.unl.edu
 agr-1kvblr2.unl.edu
@@ -45118,7 +44951,6 @@ ccfl-greg.unl.edu
 aecn-fyh308-8580.unl.edu
 ccfl-mpaxton-sp.unl.edu
 pcp132116pcs.unl.edu
-www.csce.unl.edu
 hah818-m281fdw.unl.edu
 libinst221.unl.edu
 pcp097642pcs.unl.edu
@@ -45220,7 +45052,6 @@ rsch-c02wc9gyhv29.unl.edu
 pcp141240pcs.unl.edu
 pcp347733pcs.unl.edu
 desktop-u70a0vk.unl.edu
-www.butler.unl.edu
 its-mk3190-dev.unl.edu
 pcp136834pcs.unl.edu
 somethinginconspicuous.unl.edu
@@ -45284,7 +45115,6 @@ dcn-mmartinez.unl.edu
 pcp104144pcs.unl.edu
 law-admissionscolor.unl.edu
 ath-dat02.unl.edu
-www.is.unl.edu
 pcp428561pcs.unl.edu
 minint-h1fb64u.unl.edu
 pcp141341pcs.unl.edu
@@ -45602,7 +45432,6 @@ is-1000-office-hp7410.unl.edu
 its-c07mx06sdy3g.unl.edu
 cb3-14tk1j1.unl.edu
 pcp428682pcs.unl.edu
-durhamschool.unl.edu
 pcp104150pcs.unl.edu
 lied-balconycon.unl.edu
 agr-ht25qq2.unl.edu
@@ -45643,7 +45472,6 @@ milh-dq8qgh1.unl.edu
 pcp139127pcs.unl.edu
 jmc-10061.unl.edu
 pcp137398pcs.unl.edu
-www.bf.unl.edu
 27-hew605.unl.edu
 pcp234743pcs.unl.edu
 aah-mhoff.unl.edu
@@ -45745,7 +45573,6 @@ nh115-power04.unl.edu
 n9k-unmcdc-q09-2-eth1-48.unl.edu
 hcc-shor-m1429-ve50.unl.edu
 ent-lance.unl.edu
-www.nutrigenomics.unl.edu
 altc-teac138.unl.edu
 armando-laptop.unl.edu
 kalatel-video.unl.edu
@@ -45785,7 +45612,6 @@ oac-east-1.unl.edu
 27-henz37.unl.edu
 liedhp2055.unl.edu
 vcr-camera.unl.edu
-www.spl.unl.edu
 secd-mb-lab04.unl.edu
 jordan-apple-tv.unl.edu
 cse-vmcs-02.unl.edu
@@ -45849,14 +45675,13 @@ pcp136978pcs.unl.edu
 ath-sretzlaff.unl.edu
 rak-assurity3.unl.edu
 neun-clgbtstd3l.unl.edu
-www.net-mysp.unl.edu
 agr-377eptr.unl.edu
 android-978b239047f9836c.unl.edu
 its-gpmac.unl.edu
 eejaw209b.unl.edu
 math-113.unl.edu
 pcp139481pcs.unl.edu
-www.lnclu3.unl.edu
+lnclu3.unl.edu
 pcp139462pcs.unl.edu
 bse-gbashfordws.unl.edu
 law-room144.unl.edu
@@ -45952,7 +45777,7 @@ mariner.unl.edu
 0-login.incites.thomsonreuters.com.library.unl.edu
 pcp117198pcs.unl.edu
 esl-518color.unl.edu
-www.nature.com.libproxy.unl.edu
+nature.com.libproxy.unl.edu
 pcp134574pcs.unl.edu
 red-d18n8.unl.edu
 pcp413154pcs.unl.edu
@@ -46272,7 +46097,6 @@ uh-tv27.unl.edu
 secd-clinic010.unl.edu
 possibilities.unl.edu
 red-c2119.unl.edu
-confuciusinstitute.unl.edu
 cba209mg1.unl.edu
 dvxd1-mpc2.unl.edu
 hpnetworkprinter.unl.edu
@@ -46313,7 +46137,6 @@ pcp194423pcs.unl.edu
 pcp163859pcs.unl.edu
 0-www.tdnet.com.library.unl.edu
 its-wepa-cort01.unl.edu
-adminq.unl.edu
 lehnh-d302730.unl.edu
 minint-agmr5e3.unl.edu
 pcp139042pcs.unl.edu
@@ -46626,7 +46449,7 @@ lcaemcema201c.unl.edu
 cse-thin-03.unl.edu
 uh-ecu-clerical.unl.edu
 unpd2224.unl.edu
-www.phelps-gosper.unl.edu
+phelps-gosper.unl.edu
 pcp140544pcs.unl.edu
 dsaec-116-10.unl.edu
 pcp072043pcs.unl.edu
@@ -46650,7 +46473,6 @@ lw1142-plantsci271a.unl.edu
 pcp130115pcs.unl.edu
 droogte.unl.edu
 keycabinet25.unl.edu
-dakota.unl.edu
 pcp142648pcs.unl.edu
 pcp078785pcs.unl.edu
 hcc-shor-m1436-vl3011.unl.edu
@@ -46728,7 +46550,6 @@ esl11.unl.edu
 fwchange-dc1.unl.edu
 statgrad10.unl.edu
 pcp419765pcs.unl.edu
-ne-ltap.unl.edu
 lcemm-exact.unl.edu
 phys-hodgkin.unl.edu
 pcp136948pcs.unl.edu
@@ -47049,7 +46870,6 @@ crec-166.unl.edu
 stat-averyhelp.unl.edu
 pcp139436pcs.unl.edu
 bse-8554dv2.unl.edu
-www.nebraskaview.unl.edu
 android-5a87e142e499ff17.unl.edu
 pcp071908pcs.unl.edu
 libdev1a.unl.edu
@@ -47082,7 +46902,6 @@ facm1609.unl.edu
 trio-sss-500.unl.edu
 law-blepard1.unl.edu
 pcp162653pcs.unl.edu
-www.wamq.unl.edu
 netvranger.unl.edu
 ppc-server5b.unl.edu
 modl-amanolap2.unl.edu
@@ -47102,14 +46921,12 @@ pcp347701pcs.unl.edu
 pcp136111pcs.unl.edu
 aah-graphics-21.unl.edu
 pcp075721pcs.unl.edu
-www.art.unl.edu
 lw42-pdt210.unl.edu
 hres1012.unl.edu
 unlesst117-fwibooked.unl.edu
 evhs1038.unl.edu
 pcp348071pcs.unl.edu
 unl24.unl.edu
-www.buffalo.unl.edu
 business-images.unl.edu
 pcp139116pcs.unl.edu
 pcp171608pcs.unl.edu
@@ -47250,7 +47067,6 @@ lw42-pgd200w.unl.edu
 0-www.annualreviews.org.library.unl.edu
 pcp139324pcs.unl.edu
 chem05-5h0fdq1.unl.edu
-www.ndmc.unl.edu
 ucomm-printer1.unl.edu
 laead-1t7zhx1.unl.edu
 pcp388537pcs.unl.edu
@@ -47308,7 +47124,7 @@ agecon-filley219-mcp108.unl.edu
 ece-mhoffman421.unl.edu
 ee-iota.unl.edu
 chem-lakert1.unl.edu
-www.qjbe.unl.edu
+qjbe.unl.edu
 nexwc-34j3jh2.unl.edu
 border-csn.unl.edu
 pcp075305pcs.unl.edu
@@ -47566,7 +47382,6 @@ cyaf-d302148.unl.edu
 nexen-47h3613.unl.edu
 pcp330823pcs.unl.edu
 teac248-gstudent3-newdell.unl.edu
-www.seward.unl.edu
 nctaaec26fd13.unl.edu
 ywong-vbxp.unl.edu
 cba139fds2.unl.edu
@@ -47757,7 +47572,6 @@ pcp144879pcs.unl.edu
 jmc-28013.unl.edu
 cse-rdyer-05.unl.edu
 prometheus.unl.edu
-www.boxbutte.unl.edu
 pcp428500pcs.unl.edu
 net7035.unl.edu
 pcp430480pcs.unl.edu
@@ -47788,7 +47602,6 @@ ppc-edit1.unl.edu
 pcp429591pcs.unl.edu
 reserved90-126.unl.edu
 pcp180738pcs.unl.edu
-www.whatsup.unl.edu
 ctxvmagecon041.unl.edu
 ardc-postalmeter.unl.edu
 jmc-09069.unl.edu
@@ -47798,7 +47611,6 @@ bf-4zh3m02.unl.edu
 aah-woods11mini.unl.edu
 ath-afarokhmanesh-mbp.unl.edu
 pcp153331pcs.unl.edu
-www.central4.unl.edu
 hiswsus.unl.edu
 pcp142027pcs.unl.edu
 ath-bdscto01.unl.edu
@@ -47870,7 +47682,7 @@ vbs-gdelhon7040.unl.edu
 zac.unl.edu
 pcp134735pcs.unl.edu
 law-jmarshfield.unl.edu
-www.fs.unl.edu
+fs.unl.edu
 pcp136695pcs.unl.edu
 pols-9c2fe4.unl.edu
 bauhaus.unl.edu
@@ -48074,7 +47886,6 @@ pcp419609pcs.unl.edu
 pcp136913pcs.unl.edu
 elthon-inst.unl.edu
 cyfs-whit162-h2.unl.edu
-www.netv-is.unl.edu
 cob104-l38.unl.edu
 cba263ff1.unl.edu
 scanscopepc2.unl.edu
@@ -48109,7 +47920,6 @@ connectdb.unl.edu
 its-lph209-pc30.unl.edu
 pcp142205pcs.unl.edu
 pcp138500pcs.unl.edu
-www.antelope.unl.edu
 trio-sss-304.unl.edu
 pcp234882pcs.unl.edu
 minint-funct80.unl.edu
@@ -48142,7 +47952,7 @@ r6700v2.unl.edu
 psyc-332canon.unl.edu
 aah-16rh04.unl.edu
 talisma-media.unl.edu
-www.helpme.unl.edu
+helpme.unl.edu
 pcp429614pcs.unl.edu
 agr-d28dtyv1.unl.edu
 pcp115423pcs.unl.edu
@@ -48179,7 +47989,6 @@ cse-jholt-01.unl.edu
 isco-cc-pbx-fxo-office01.unl.edu
 pcp158431pcs.unl.edu
 uhon-lab1501.unl.edu
-www.uniprint.unl.edu
 pi-c1-ge2-2.unl.edu
 alliance-coext-fw.unl.edu
 stat-sim.unl.edu
@@ -48559,7 +48368,6 @@ desktop-o2ab6i9.unl.edu
 engr-lab50.unl.edu
 gpc-nhw129pc.unl.edu
 math-245canon.unl.edu
-www.bbr.unl.edu
 pcp166200pcs.unl.edu
 its-lpt114pc.unl.edu
 0-www.mycology.adelaide.edu.au.library.unl.edu
@@ -48597,7 +48405,7 @@ lw26-cba209.unl.edu
 uitatlph223apc.unl.edu
 ardc-sign2.unl.edu
 cherokee.unl.edu
-www.york.unl.edu
+york.unl.edu
 soc-lesa.unl.edu
 cors1501i.unl.edu
 pcp141598pcs.unl.edu
@@ -48842,7 +48650,7 @@ hist-607grad07.unl.edu
 cba275mg3.unl.edu
 pcp347865pcs.unl.edu
 pcp429211pcs.unl.edu
-www.ncesr.unl.edu
+ncesr.unl.edu
 laptop-e7ijhbq7.unl.edu
 pcp140111pcs.unl.edu
 bfbsc1462.unl.edu
@@ -48854,7 +48662,6 @@ bfpplac0004.unl.edu
 sbs-f2f94c.unl.edu
 0-www.worldcat.org.library.unl.edu
 pcp139406pcs.unl.edu
-transfer2.unl.edu
 ppc-webtest2.unl.edu
 lib1163a.unl.edu
 raikes-ds0031.unl.edu
@@ -48926,7 +48733,6 @@ uitatlph007pc.unl.edu
 pcp138141pcs.unl.edu
 pcp093512pcs.unl.edu
 versa-doc.unl.edu
-www.wayne.unl.edu
 adm-anl-a.unl.edu
 bf-8hy1833.unl.edu
 kea5.unl.edu
@@ -48970,7 +48776,7 @@ pcp126650pcs.unl.edu
 1up.unl.edu
 ansc-cwelchons.unl.edu
 agecon-filley105-dz7803.unl.edu
-www.dev-mwrsf.unl.edu
+dev-mwrsf.unl.edu
 arch131smart.unl.edu
 red-d9n16.unl.edu
 util1020.unl.edu
@@ -49019,7 +48825,7 @@ sitwithme.unl.edu
 pcp143985pcs.unl.edu
 netv-dr-encode12.unl.edu
 pcp144730pcs.unl.edu
-www.bias.unl.edu
+bias.unl.edu
 pcp429214pcs.unl.edu
 pcp197904pcs.unl.edu
 pcp388814pcs.unl.edu
@@ -49046,7 +48852,6 @@ snr-1564.unl.edu
 eth1-52-2--dlx1-pd6-q07-01-o4725417995a86.unl.edu
 coe-pc032.unl.edu
 27-oldh203.unl.edu
-www.nsave.unl.edu
 fdst-machine52.unl.edu
 cob-usbh2.unl.edu
 pcp123790pcs.unl.edu
@@ -49067,7 +48872,6 @@ pcp140729pcs.unl.edu
 lw15-bhw.unl.edu
 pcp141464pcs.unl.edu
 pcp138200pcs.unl.edu
-telecom.unl.edu
 ath-kmaple-air.unl.edu
 pcp428225pcs.unl.edu
 pols-540kang.unl.edu
@@ -49113,7 +48917,6 @@ vdc-samplerlabelprinter2.unl.edu
 pcp138292pcs.unl.edu
 admiss-hassler.unl.edu
 adfs5.unl.edu
-dropbox.unl.edu
 is-nu-ltc-pc03.unl.edu
 0-wt.proquest.com.library.unl.edu
 secd-318printer.unl.edu
@@ -49154,7 +48957,6 @@ math-b467ea.unl.edu
 teac-ldlugosh.unl.edu
 ee-office-hp-cp4025.unl.edu
 bfbsc14113.unl.edu
-me.unl.edu
 t3ub-505.unl.edu
 wldisplay2.unl.edu
 pcp139268pcs.unl.edu
@@ -49234,7 +49036,7 @@ gitlab-test.unl.edu
 admiss-jblowers.unl.edu
 bfbsc1453.unl.edu
 sbs-6be1ae.unl.edu
-www.eas.unl.edu
+eas.unl.edu
 henz-macpro-btonniges.unl.edu
 tlte-d101734.unl.edu
 pa42-ldurso.unl.edu
@@ -49273,7 +49075,7 @@ pcp085410pcs.unl.edu
 libpub1401.unl.edu
 ap12-edorm105.unl.edu
 phys-348jhm553.unl.edu
-www.dsp.unl.edu
+dsp.unl.edu
 pcp138455pcs.unl.edu
 gpc-teac112mac.unl.edu
 uh-tv26.unl.edu
@@ -49428,9 +49230,7 @@ neun-wcwilhitel.unl.edu
 se013c14jn1.unl.edu
 secdc-edit001.unl.edu
 its-dk-file.unl.edu
-www.ethics.unl.edu
 its-nyansa.unl.edu
-boyd.unl.edu
 pcp141256pcs.unl.edu
 middleearth-8.unl.edu
 unlcyt113-fwibooked.unl.edu
@@ -49478,7 +49278,7 @@ lw52-bdln321.unl.edu
 csmcelt2.unl.edu
 archdeanconf.unl.edu
 pcp418509pcs.unl.edu
-www.agronomy.unl.edu
+agronomy.unl.edu
 cpus-imac-3.unl.edu
 wsp053961wss.unl.edu
 pcp080181pcs.unl.edu
@@ -49534,7 +49334,6 @@ pcp060288pcs.unl.edu
 neun-desksignleft.unl.edu
 rtr129-93-250-160.unl.edu
 rak-130.unl.edu
-www.ccfl-training.unl.edu
 rtr129-93-154-128.unl.edu
 view.lincoln.unl.edu
 chemhagehplc10.unl.edu
@@ -49565,7 +49364,7 @@ biotech-sc.unl.edu
 pcp080409pcs.unl.edu
 crec-176.unl.edu
 unlserve.unl.edu
-www.ee.unl.edu
+ee.unl.edu
 asc-webserver-test.unl.edu
 pcp088551pcs.unl.edu
 pcp061674pcs.unl.edu
@@ -49661,7 +49460,6 @@ vdc-lganddiserver.unl.edu
 ink-courtyards.unl.edu
 jcs-lobby1.unl.edu
 qsc119sem12.unl.edu
-bm3-server.unl.edu
 net3530.unl.edu
 fhbc-028350b.unl.edu
 ctxvmburnett48.unl.edu
@@ -49763,7 +49561,6 @@ pcp143966pcs.unl.edu
 modl-5cg74152vk.unl.edu
 pcp429373pcs.unl.edu
 ea-c02m70nff5yw.unl.edu
-www.esp.unl.edu
 0-asa.scitation.org.library.unl.edu
 pcp145241pcs.unl.edu
 lw1142-fic250.unl.edu
@@ -49833,7 +49630,7 @@ nctacmh.unl.edu
 my.unl.edu
 cat65-burr101.unl.edu
 netv-dr-encode101.unl.edu
-www.esab.unl.edu
+esab.unl.edu
 lw1142-morr141w.unl.edu
 jcuidmd.unl.edu
 pcp135021pcs.unl.edu
@@ -49869,7 +49666,6 @@ chem-srg-raman.unl.edu
 pcp430622pcs.unl.edu
 mme-sfarritor.unl.edu
 em-c02hvc13dv33.unl.edu
-gsl.unl.edu
 ncta-westtraditional-9025.unl.edu
 net-hpm451dn.unl.edu
 psyc-b07002.unl.edu
@@ -49926,7 +49722,6 @@ cba222-2.unl.edu
 pcp388639pcs.unl.edu
 pcp031196pcs.unl.edu
 cat29-pound101.unl.edu
-www.nsco.unl.edu
 thea-cadlab06.unl.edu
 pcp173445pcs.unl.edu
 unpdfujitsu.unl.edu
@@ -49985,7 +49780,7 @@ lagft-ckchcmd6m.unl.edu
 snr-0799.unl.edu
 bfbsc14107.unl.edu
 stat-grad14.unl.edu
-www.cob-aquairus.unl.edu
+cob-aquairus.unl.edu
 its-cw1-file.unl.edu
 snr1.unl.edu
 nctaaec05sd15.unl.edu
@@ -50094,7 +49889,6 @@ pcp385576pcs.unl.edu
 pcp239275pcs.unl.edu
 pcp423534pcs.unl.edu
 p-ll5.unl.edu
-www.transfer.unl.edu
 bsop1004.unl.edu
 facm1573.unl.edu
 pa42-agupta.unl.edu
@@ -50262,7 +50056,6 @@ pcp430069pcs.unl.edu
 desktop-7u1al7c.unl.edu
 pcp060187pcs.unl.edu
 cob125-uc7.unl.edu
-harlan.unl.edu
 net-vdi-emedia1.unl.edu
 ctxvmdlc122.unl.edu
 pcp430226pcs.unl.edu
@@ -50274,7 +50067,6 @@ jthorp.unl.edu
 ncta-heat-jace.unl.edu
 pcp194583pcs.unl.edu
 phrec41.unl.edu
-www.vetmed.unl.edu
 pcp134563pcs.unl.edu
 snr-1327.unl.edu
 ndmcdataserve.unl.edu
@@ -50292,9 +50084,7 @@ crec-375.unl.edu
 meadowlark.unl.edu
 ell-dev.unl.edu
 desktop-bppne1o.unl.edu
-www.trailside.unl.edu
 dzenislab.unl.edu
-www.unlserve.unl.edu
 ath-stc11.unl.edu
 pcp162707pcs.unl.edu
 pcp385924pcs.unl.edu
@@ -50324,7 +50114,6 @@ afrotc-ncobw.unl.edu
 pcp388883pcs.unl.edu
 secd-meccarius.unl.edu
 cse-jcui-10.unl.edu
-procurement.unl.edu
 imagenowic.unl.edu
 cselab5-082.unl.edu
 nluitadapp001wp.unl.edu
@@ -50374,7 +50163,6 @@ pcp139483pcs.unl.edu
 pcp195690pcs.unl.edu
 ath-w132e-printer.unl.edu
 lw42-adm20b.unl.edu
-summer.unl.edu
 walterlab-macpro.unl.edu
 is-mrr-mac03.unl.edu
 lw26-numc212.unl.edu
@@ -50383,7 +50171,6 @@ psyc-mxl9143wyb.unl.edu
 pcp136549pcs.unl.edu
 nebraska.unl.edu
 pcp075652pcs.unl.edu
-lnclu3.unl.edu
 cob047-conf.unl.edu
 mabl251gsprint.unl.edu
 em-f5knt12nf694.unl.edu
@@ -50400,7 +50187,6 @@ red-c2010.unl.edu
 is-and-mac01.unl.edu
 admiss-kdecker.unl.edu
 ext-jh0nr22.unl.edu
-scs.unl.edu
 ee-lqu9010.unl.edu
 lied-wd015.unl.edu
 desktop-henduku.unl.edu
@@ -50425,7 +50211,6 @@ ssd-mxl50423b3.unl.edu
 pcp153268pcs.unl.edu
 pcp088101pcs.unl.edu
 pcp418407pcs.unl.edu
-www.surveyme.unl.edu
 pcp134560pcs.unl.edu
 red-c2413.unl.edu
 snr3.unl.edu
@@ -50447,7 +50232,7 @@ net-vdi-vbates.unl.edu
 pcp144305pcs.unl.edu
 lib11009.unl.edu
 dtfw-245-70.unl.edu
-www.planbig.unl.edu
+planbig.unl.edu
 laptop-ja.unl.edu
 pcp143948pcs.unl.edu
 cob301h-df3.unl.edu
@@ -50463,7 +50248,6 @@ jmc-2116.unl.edu
 pcp180912pcs.unl.edu
 35-sec122.unl.edu
 law-lab0nmq.unl.edu
-www.drinkingwater.unl.edu
 pcp139185pcs.unl.edu
 pcp096174pcs.unl.edu
 ath-trackstu6.unl.edu
@@ -50645,11 +50429,9 @@ nex04-sharpmx4140n.unl.edu
 rak-win1.unl.edu
 solomon.unl.edu
 cse-ssvoboda-04.unl.edu
-www.admin.unl.edu
 snrs-0391.unl.edu
 he125ko15.unl.edu
 pcp117167pcs.unl.edu
-www.ehelp.unl.edu
 jmc-25439.unl.edu
 sbsrc-redcap.unl.edu
 rtr129-93-62.unl.edu
@@ -50696,7 +50478,6 @@ pcp430899pcs.unl.edu
 lagvb-pf2callg.unl.edu
 dsaec-116-8.unl.edu
 cyfs-d25wj0jlj1gn.unl.edu
-www.anti-virus.unl.edu
 pcp322724pcs.unl.edu
 vc-gh5f6y2ds.unl.edu
 cobfin425yhpm477fdn.unl.edu
@@ -50804,7 +50585,6 @@ transition.unl.edu
 its-fvfwx1u6hv2h.unl.edu
 esl-518canon.unl.edu
 teac114-ajones-i7dell2.unl.edu
-cfpaits.unl.edu
 molr-d1v-po104.unl.edu
 math-047.unl.edu
 pcp388724pcs.unl.edu
@@ -50862,7 +50642,6 @@ land1026.unl.edu
 dlsc-dev.unl.edu
 need-ta0.unl.edu
 admiss-26rldh2.unl.edu
-www.cse-resources.unl.edu
 snr-1737.unl.edu
 pcp072044pcs.unl.edu
 pcp167055pcs.unl.edu
@@ -51010,7 +50789,6 @@ vc-g6yk441000h9.unl.edu
 altc-imac-cw02.unl.edu
 gpc-avh118pc.unl.edu
 27-and102e.unl.edu
-www.onlineteaching.unl.edu
 lw26-nu5w.unl.edu
 voip-molr-cucm-1.unl.edu
 hpcfa272.unl.edu
@@ -51068,7 +50846,6 @@ em-sb3.unl.edu
 cob104-l32.unl.edu
 bcrf-wks5.unl.edu
 demo.unl.edu
-holt.unl.edu
 pcp044733pcs.unl.edu
 pcp417871pcs.unl.edu
 shopcrec.unl.edu
@@ -51151,7 +50928,7 @@ pcp122417pcs.unl.edu
 ead-aperez.unl.edu
 gsc-triordanpg4.unl.edu
 pcp430094pcs.unl.edu
-www.its.unl.edu
+its.unl.edu
 pcp046907pcs.unl.edu
 pcp137394pcs.unl.edu
 fst-2ua8021wzn.unl.edu
@@ -51236,7 +51013,6 @@ pcp075914pcs.unl.edu
 pcp136408pcs.unl.edu
 gpc-demoamx.unl.edu
 tlte-a102973.unl.edu
-companionanimal.unl.edu
 selfie.unl.edu
 hp402-yeggy.unl.edu
 0-saemobilus.sae.org.library.unl.edu
@@ -51252,7 +51028,6 @@ bse-3pq81t2.unl.edu
 pcp078869pcs.unl.edu
 projects-test.unl.edu
 pcp138491pcs.unl.edu
-www.cuming.unl.edu
 net3842.unl.edu
 necmhp6230.unl.edu
 its-firestrike.unl.edu
@@ -51336,7 +51111,6 @@ pcp419767pcs.unl.edu
 rtr129-95-5-16.unl.edu
 gall-grad2010.unl.edu
 engr-c7test2.unl.edu
-www.ethnicstudies.unl.edu
 pcp430056pcs.unl.edu
 pcp428819pcs.unl.edu
 d9tpxkt1.unl.edu
@@ -51386,7 +51160,6 @@ pki101a-lt02.unl.edu
 agr-321keim-clj.unl.edu
 pcp076456pcs.unl.edu
 its-cct.unl.edu
-prairieschooner.unl.edu
 pc.unl.edu
 pcp049197pcs.unl.edu
 mwrsf-print8.unl.edu
@@ -51550,7 +51323,7 @@ pcp164829pcs.unl.edu
 jcs-cadlab03.unl.edu
 lib17011lt.unl.edu
 wrrumbaugh1.unl.edu
-www.casde.unl.edu
+casde.unl.edu
 ucomm-3225.unl.edu
 ap42-sblf106.unl.edu
 neun-ckitchenp.unl.edu
@@ -51619,7 +51392,7 @@ crec-id04.unl.edu
 mipc-entrance-1.unl.edu
 unpd1702.unl.edu
 pcp430850pcs.unl.edu
-www.extensioninthecity.unl.edu
+extensioninthecity.unl.edu
 cba339es1.unl.edu
 pcp138086pcs.unl.edu
 pcp139377pcs.unl.edu
@@ -51747,7 +51520,6 @@ aahs5gd-18.unl.edu
 unpd1631.unl.edu
 teac33-edaly-i7laptop.unl.edu
 hydro.unl.edu
-www.bursar.unl.edu
 secd-141barlow-mfp.unl.edu
 lw15-wmbn.unl.edu
 snr-1768.unl.edu
@@ -51776,7 +51548,7 @@ snr-1626.unl.edu
 labtp.unl.edu
 0-www.emis.de.library.unl.edu
 xrduser1.unl.edu
-www.uaad.unl.edu
+uaad.unl.edu
 he111ds16.unl.edu
 dynes-idc-vm1.unl.edu
 henz-xeroxcopier-pl.unl.edu
@@ -51852,7 +51624,6 @@ engl-202canon.unl.edu
 minint-jjs8ese.unl.edu
 cb3-b0wn0y2.unl.edu
 bse-apannier3.unl.edu
-hall.unl.edu
 27-ahg3-05.unl.edu
 lev202jk15.unl.edu
 milh-21pz391.unl.edu
@@ -52182,7 +51953,6 @@ cat65-bch101.unl.edu
 brestel.unl.edu
 gerry.unl.edu
 yamaguti.unl.edu
-www.cherry.unl.edu
 vdc-ampresearch.unl.edu
 snr-lattepanda03.unl.edu
 dsaec-jdfdr10.unl.edu
@@ -52236,7 +52006,6 @@ pcp170869pcs.unl.edu
 teac-hpljp2055dn-32.unl.edu
 idrac-4dwlrl1.unl.edu
 em-3.unl.edu
-www.soc.unl.edu
 pcp265458pcs.unl.edu
 pcp143514pcs.unl.edu
 pcp143933pcs.unl.edu
@@ -52338,7 +52107,6 @@ pcp043079pcs.unl.edu
 pcp142633pcs.unl.edu
 yashit3500.unl.edu
 ard-5j999y2ds.unl.edu
-www.extensionpubs.unl.edu
 ento-92n3js1.unl.edu
 l27-vatech129.unl.edu
 garhan.unl.edu
@@ -52410,7 +52178,6 @@ admiss-3z06xk2.unl.edu
 altc-imac-sw04.unl.edu
 pollinatorplot.unl.edu
 pcp141156pcs.unl.edu
-www.nshop.unl.edu
 yesselmanlab-backup.unl.edu
 teac42-nkatamneni2-newdell.unl.edu
 pcp295640pcs.unl.edu
@@ -52517,7 +52284,6 @@ pcp141552pcs.unl.edu
 ath-kwilliams.unl.edu
 isco-opdisplay1.unl.edu
 brdra-te0-0-0-21.unl.edu
-www.ponca.unl.edu
 pcp430047pcs.unl.edu
 pcp139137pcs.unl.edu
 26-nu30.unl.edu
@@ -52708,7 +52474,6 @@ nwc-20v9q41.unl.edu
 agr-keim162-l2710.unl.edu
 pcp085573pcs.unl.edu
 is-jgmc-pc05.unl.edu
-food.unl.edu
 cba114-sign.unl.edu
 scs1988.unl.edu
 pcp153354pcs.unl.edu
@@ -52719,7 +52484,6 @@ pcp173484pcs.unl.edu
 pcp078589pcs.unl.edu
 hcc-nrdstor-pki-c0425.unl.edu
 linux-qkza.unl.edu
-cs.unl.edu
 net-vdi-randy.unl.edu
 agr-keim318a-m254dw.unl.edu
 xcfrm0tc0s2a01.unl.edu
@@ -52792,7 +52556,7 @@ lw1142-law268.unl.edu
 cehs-therrington.unl.edu
 he142ce4.unl.edu
 ath-jvarrati.unl.edu
-www.fmp.unl.edu
+fmp.unl.edu
 pcp295676pcs.unl.edu
 pcp417873pcs.unl.edu
 law-w7ie9ff6.unl.edu
@@ -52926,7 +52690,7 @@ agecon-fyh47-dvx.unl.edu
 nsave-commsrv-new.unl.edu
 liufengruideair.unl.edu
 mohican.unl.edu
-www.inventory.unl.edu
+inventory.unl.edu
 pcp165980pcs.unl.edu
 pcp133553pcs.unl.edu
 lagft-95xy953.unl.edu
@@ -53078,7 +52842,6 @@ cat29-greek-spe101.unl.edu
 pcp139537pcs.unl.edu
 jmc-mac1.unl.edu
 cat29-agwh2-101.unl.edu
-www.prs.unl.edu
 bse-tfranti3.unl.edu
 phy-pcp368981pcs.unl.edu
 l27-nctaltc.unl.edu
@@ -53297,7 +53060,6 @@ ath-tmays-mbp.unl.edu
 0-bj.portlandpress.co.uk.library.unl.edu
 mwrsf-jim2.unl.edu
 nex08-fw97m13.unl.edu
-qjbe.unl.edu
 secd-ricketts19.unl.edu
 acs-01.unl.edu
 pcp188060pcs.unl.edu
@@ -53395,7 +53157,6 @@ ntc-toc.unl.edu
 libuicpp795se.unl.edu
 main1098.unl.edu
 fdst-dz4cfx1.unl.edu
-www.alec.unl.edu
 army-rford4.unl.edu
 wophy.unl.edu
 cba242ff1.unl.edu
@@ -53801,7 +53562,6 @@ he-d302454302.unl.edu
 pcp132171pcs.unl.edu
 pcp144520pcs.unl.edu
 pcp141759pcs.unl.edu
-www.lincolnmcpherson.unl.edu
 fst-fic115-m477.unl.edu
 pcp170942pcs.unl.edu
 arindams.unl.edu
@@ -53938,7 +53698,6 @@ sewardc4040.unl.edu
 net4030.unl.edu
 fit-dhaas7010.unl.edu
 pcp062265pcs.unl.edu
-www.vending.unl.edu
 pcp428265pcs.unl.edu
 gall-rschast1.unl.edu
 pcp144714pcs.unl.edu
@@ -54036,7 +53795,6 @@ pcp158443pcs.unl.edu
 net6092-dock.unl.edu
 pcp295697pcs.unl.edu
 27-nh517.unl.edu
-cehssecure2.unl.edu
 ucommwiedel.unl.edu
 hardin-c1-te1-5.unl.edu
 ath-hudl02.unl.edu
@@ -54190,7 +53948,6 @@ pcp158348pcs.unl.edu
 bse-chenry2.unl.edu
 lw42-btp2e.unl.edu
 pcp195624pcs.unl.edu
-www.ianr.busctr.unl.edu
 chem-303pc.unl.edu
 its-84zkcz1.unl.edu
 pcp137744pcs.unl.edu
@@ -54216,7 +53973,6 @@ pcp427887pcs.unl.edu
 its-idm-grouper-db2.unl.edu
 harh106amx.unl.edu
 lw26-cba132n.unl.edu
-groweatlearn.unl.edu
 pcp419897pcs.unl.edu
 crec-p03.unl.edu
 cse-tnguyen-08.unl.edu
@@ -54277,7 +54033,6 @@ vbs-reddylab6.unl.edu
 pcp153381pcs.unl.edu
 its-and-mac02.unl.edu
 pcp185273pcs.unl.edu
-taps.unl.edu
 stats-bigfoot1.unl.edu
 pcp173422pcs.unl.edu
 pcp129477pcs.unl.edu
@@ -54459,8 +54214,6 @@ snr-1682.unl.edu
 nscocam0.unl.edu
 fst-304xerox6180n.unl.edu
 pcp170620pcs.unl.edu
-stanton.unl.edu
-www.law.unl.edu
 mus-5cg54604f6.unl.edu
 brownlabhpprinter.unl.edu
 unl-neuprairiedsp.unl.edu
@@ -54602,7 +54355,7 @@ hundter.unl.edu
 pcp195835pcs.unl.edu
 bf-8982tm2.unl.edu
 lehse-214otwh03.unl.edu
-www.nfs.unl.edu
+nfs.unl.edu
 asa05-fremont.unl.edu
 math-015.unl.edu
 pcp069906pcs.unl.edu
@@ -54638,7 +54391,7 @@ cob-usb11.unl.edu
 pcp134582pcs.unl.edu
 molr-gduncan.unl.edu
 lib1165mc.unl.edu
-www.krugercollection.unl.edu
+krugercollection.unl.edu
 odyssey.unl.edu
 secdc-sanger.unl.edu
 laghb-gqkn513.unl.edu
@@ -54778,7 +54531,7 @@ pcp295531pcs.unl.edu
 anth-6f290b.unl.edu
 its-jh110mac.unl.edu
 cselab4-43.unl.edu
-www.ardc.unl.edu
+ardc.unl.edu
 pubprog.unl.edu
 co-2ua6182bv0.unl.edu
 pcp162686pcs.unl.edu
@@ -54952,7 +54705,6 @@ bio-manter152-dxrx8.unl.edu
 laptop-r80m8e77.unl.edu
 bpdf-9tmhq02.unl.edu
 phrec39.unl.edu
-www.historyharvest.unl.edu
 fyh-czvyfg1.unl.edu
 gn27-agcent101.unl.edu
 pcp430498pcs.unl.edu
@@ -54988,7 +54740,6 @@ pcp076017pcs.unl.edu
 pcp144459pcs.unl.edu
 pcp430505pcs.unl.edu
 afrotc-konica.unl.edu
-colfax.unl.edu
 dsaec-kmsvl8.unl.edu
 mycroft.unl.edu
 red-sense-dtn1.unl.edu
@@ -55016,7 +54767,6 @@ arch316lab09a.unl.edu
 wcskates.unl.edu
 uhc400rbq1.unl.edu
 wan-blv-tpd1-lo0-1.unl.edu
-literacy.unl.edu
 pcp388729pcs.unl.edu
 engl-2537ee.unl.edu
 lw27-oth47w.unl.edu
@@ -55061,7 +54811,6 @@ byoung10-chc.unl.edu
 pcp141944pcs.unl.edu
 snr-1448.unl.edu
 jmc-333-19.unl.edu
-www.ace.unl.edu
 anth428lab01.unl.edu
 rlh104g-jm.unl.edu
 pcp164804pcs.unl.edu
@@ -55094,7 +54843,6 @@ pcp137480pcs.unl.edu
 secd-rpeterson-dongle.unl.edu
 pcp144236pcs.unl.edu
 desktop-ps58ns4.unl.edu
-www.admissions.unl.edu
 pcp417971pcs.unl.edu
 pp-tpowers.unl.edu
 its-hl120g2.unl.edu
@@ -55316,7 +55064,6 @@ pcp429402pcs.unl.edu
 pcp420193pcs.unl.edu
 pcp388873pcs.unl.edu
 ph-ls210d9d2.unl.edu
-www.chc-gateway.unl.edu
 pcp141213pcs.unl.edu
 t3pc-301-old.unl.edu
 em-mbthinclient.unl.edu
@@ -55330,7 +55077,6 @@ pcp173392pcs.unl.edu
 zeng-vs1.unl.edu
 dsaec-tsgs1.unl.edu
 red-c1715.unl.edu
-www.mysoft.unl.edu
 snr-p1693.unl.edu
 is-cms-backup-app1.unl.edu
 lsttp-2500.unl.edu
@@ -55451,7 +55197,6 @@ finaid-mr10.unl.edu
 fleetmanagement.unl.edu
 secd-247dataprinter.unl.edu
 phrec75.unl.edu
-www.its-wac.unl.edu
 fp-hp2015.unl.edu
 lw1142-wseclnkn15.unl.edu
 ca.library.unl.edu
@@ -55622,7 +55367,6 @@ plac1064.unl.edu
 conquest.unl.edu
 pcp060157pcs.unl.edu
 vmm662.unl.edu
-ee.unl.edu
 phys-printer233jh.unl.edu
 is-027717m.unl.edu
 unpd1084.unl.edu
@@ -55797,7 +55541,6 @@ lw27-lsa-h10.unl.edu
 em-jrphdz1.unl.edu
 pcp170362pcs.unl.edu
 pcp418208pcs.unl.edu
-thurston.unl.edu
 pcp043030pcs.unl.edu
 cat65-hardin201.unl.edu
 pcp150621pcs.unl.edu
@@ -55850,7 +55593,7 @@ pcp058197pcs.unl.edu
 pcp140345pcs.unl.edu
 unpd1525.unl.edu
 pcp333524pcs.unl.edu
-www.lancaster.unl.edu
+lancaster.unl.edu
 pcp141581pcs.unl.edu
 wiebedesktop.unl.edu
 lauer-pf2b5hz4-dock.unl.edu
@@ -56136,7 +55879,6 @@ cj-bhomer.unl.edu
 pcp137902pcs.unl.edu
 minint-9vogfdr.unl.edu
 pcp137851pcs.unl.edu
-www.arboretum.unl.edu
 aecn-hc3f9n2.unl.edu
 pcp057273pcs.unl.edu
 net5411.unl.edu
@@ -56197,7 +55939,6 @@ elec-kkuhn.unl.edu
 warhawk.unl.edu
 uc-edit2.unl.edu
 pcp347793pcs.unl.edu
-www.cnfm.unl.edu
 agr-6rc56s2.unl.edu
 libms1201imac.unl.edu
 pcp170447pcs.unl.edu
@@ -56350,7 +56091,6 @@ tmfd-d302986.unl.edu
 math-0ba22d.unl.edu
 n201m553.unl.edu
 pcp388908pcs.unl.edu
-otoe.unl.edu
 pcp136561pcs.unl.edu
 henz-imacintel-jraible.unl.edu
 vctr-mxl4251hc8.unl.edu
@@ -56602,7 +56342,7 @@ pcp139164pcs.unl.edu
 wiseone.unl.edu
 pcp428130pcs.unl.edu
 net419-hp454.unl.edu
-www.geosciences.unl.edu
+geosciences.unl.edu
 cehs-bbolin.unl.edu
 pcp348165pcs.unl.edu
 ath-comasevicz.unl.edu
@@ -56708,7 +56448,6 @@ red-dev-el9.unl.edu
 pcp137455pcs.unl.edu
 pcp140193pcs.unl.edu
 pcp139751pcs.unl.edu
-dixon.unl.edu
 pcp079067pcs.unl.edu
 cba310kf2.unl.edu
 ncta-admiss1.unl.edu
@@ -56796,13 +56535,11 @@ anth-6qwk7x2.unl.edu
 irpi.unl.edu
 bdl-hp454ok-n230.unl.edu
 snr-p2212.unl.edu
-www.panhandle.unl.edu
 modl-shirerlap.unl.edu
 modl-pereiralap.unl.edu
 vbs-abe1.unl.edu
 dn1074.unl.edu
 studentdesk1204c.unl.edu
-www.cather.unl.edu
 pcp347768pcs.unl.edu
 ctxvmcba045.unl.edu
 pcp136836pcs.unl.edu
@@ -57124,7 +56861,6 @@ admin-cp4025.unl.edu
 pcp076711pcs.unl.edu
 crec-380.unl.edu
 agr-drpncv2.unl.edu
-www.psychology.unl.edu
 parkipc0003.unl.edu
 pp-jstevens13.unl.edu
 fp-h8j0m72.unl.edu
@@ -57161,7 +56897,6 @@ kea12.unl.edu
 pols-cebdec.unl.edu
 lw1142-stanl136.unl.edu
 red-d23n12.unl.edu
-www.cari.unl.edu
 soc-000ea6879eb9.unl.edu
 ip-reach.unl.edu
 adams-d830b.unl.edu
@@ -57452,7 +57187,6 @@ assessment-engineering.unl.edu
 stat-wanggrad01.unl.edu
 snr-1413.unl.edu
 cba33l012.unl.edu
-casmarcomm.unl.edu
 lw1142-htc127a.unl.edu
 desktop-5b0n0g7.unl.edu
 quimbyjh241-408.unl.edu
@@ -57642,7 +57376,6 @@ pcp144463pcs.unl.edu
 stat-grad12.unl.edu
 pcp141184pcs.unl.edu
 hcc-k0ner.unl.edu
-agronomy.unl.edu
 pcp142319pcs.unl.edu
 desktop-581kd0i.unl.edu
 scsapps-test.unl.edu
@@ -57667,7 +57400,6 @@ pcp173429pcs.unl.edu
 uhcl-mj00plaq.unl.edu
 42-bdln243.unl.edu
 admiss-vc.unl.edu
-www.oa.unl.edu
 pcp182007pcs.unl.edu
 ath-hsntieline-b.unl.edu
 libpub1i.unl.edu
@@ -57727,7 +57459,6 @@ crec-netpulse1.unl.edu
 ee-beta.unl.edu
 uhc2mvhlm1.unl.edu
 jcs-lobby3.unl.edu
-help.unl.edu
 net-vdi-khall.unl.edu
 fst-f5kmc11af693.unl.edu
 paperworkcamp.unl.edu
@@ -58000,7 +57731,6 @@ pcp060248pcs.unl.edu
 pcp141147pcs.unl.edu
 pcp170878pcs.unl.edu
 chem-bm.unl.edu
-www.secd.unl.edu
 crec-101.unl.edu
 pcp419908pcs.unl.edu
 ardc-swine-bridge.unl.edu
@@ -58046,8 +57776,6 @@ spm-ncmn.unl.edu
 its-ecu-pc06.unl.edu
 ncc-y1cap.unl.edu
 divag.unl.edu
-museum.unl.edu
-www.lnclu1.unl.edu
 uhcl019pt03.unl.edu
 pcp131270pcs.unl.edu
 net5250.unl.edu
@@ -58085,7 +57813,6 @@ pcp141106pcs.unl.edu
 purc1097.unl.edu
 lw26-nu241.unl.edu
 se03c02lx0a5fh05.unl.edu
-helpme.unl.edu
 mabl163-scotter-lj1022.unl.edu
 prcs2067.unl.edu
 pcp182095pcs.unl.edu
@@ -58272,7 +57999,6 @@ cba367aeg1.unl.edu
 eastuniontimeclock.unl.edu
 secd-cart01.unl.edu
 ucomm-konica-7222.unl.edu
-www.gamesq.unl.edu
 jmc-2121.unl.edu
 nicbreakouta3-fwibooked.unl.edu
 rhunt.unl.edu
@@ -58322,7 +58048,6 @@ netnebdev.unl.edu
 cse-samal-06.unl.edu
 pcp428995pcs.unl.edu
 agr-plsh377-ir4245.unl.edu
-postdoc.unl.edu
 rsch-jwicks12.unl.edu
 pcp418432pcs.unl.edu
 custer-goertz-w.unl.edu
@@ -58353,13 +58078,11 @@ reg-check.unl.edu
 cba268mg12.unl.edu
 projects3.unl.edu
 stac1009.unl.edu
-www.madison.unl.edu
 pcp423549pcs.unl.edu
 desktop-tv0af86.unl.edu
 libms1202a.unl.edu
 vetview.unl.edu
 pcp197891pcs.unl.edu
-www.printing.unl.edu
 pcp084618pcs.unl.edu
 cob235e-vm1.unl.edu
 bf-5184kq2.unl.edu
@@ -58591,7 +58314,6 @@ uhcl213caps09.unl.edu
 statsrv02.unl.edu
 buros-d102971.unl.edu
 cba14l23.unl.edu
-www.transportation.unl.edu
 vc-bluestem.unl.edu
 pcp347838pcs.unl.edu
 pcp128869pcs.unl.edu
@@ -58807,7 +58529,6 @@ matt-yoga.unl.edu
 snr-1301.unl.edu
 claude.unl.edu
 rigaku-multiflex.unl.edu
-casde.unl.edu
 che.unl.edu
 pcp419912pcs.unl.edu
 engr-lab47.unl.edu
@@ -59086,7 +58807,6 @@ pcp031204pcs.unl.edu
 soc-analyze.unl.edu
 lrdah-mj0daj6z.unl.edu
 libpub1601mac.unl.edu
-phelps-gosper.unl.edu
 r6350.unl.edu
 ath-psych1.unl.edu
 pcp030759pcs.unl.edu
@@ -59190,7 +58910,7 @@ pcp142302pcs.unl.edu
 pcp137486pcs.unl.edu
 crec-p35.unl.edu
 vdc-vir129.unl.edu
-www.big10meconf.unl.edu
+big10meconf.unl.edu
 bse-sothmanws1.unl.edu
 gpc-besy117pc.unl.edu
 pcp388928pcs.unl.edu
@@ -59330,7 +59050,6 @@ lw1142-housing216.unl.edu
 its-rvb123mac.unl.edu
 ath-aczumunski.unl.edu
 fpc-test-apps.unl.edu
-www.unltraveler.unl.edu
 math-a0351c.unl.edu
 pcp030845pcs.unl.edu
 otp0ef.unl.edu
@@ -59369,7 +59088,7 @@ dhbr0hx1.unl.edu
 its-2ctcn32.unl.edu
 avcog8.unl.edu
 cob235e-dk02.unl.edu
-www.gpsaf.unl.edu
+gpsaf.unl.edu
 net5066.unl.edu
 pcp134623pcs.unl.edu
 libcytir10.unl.edu
@@ -59418,7 +59137,6 @@ upd1915.unl.edu
 net-uhd2c.unl.edu
 cs14a3.unl.edu
 ccarlson-tsuda2.unl.edu
-its.unl.edu
 pcp138511pcs.unl.edu
 pcp144414pcs.unl.edu
 bat-jj.unl.edu
@@ -59434,7 +59152,6 @@ facm1623.unl.edu
 mme-bioflowlab1.unl.edu
 cb3-c02zd0udjwf2.unl.edu
 red-c2111.unl.edu
-www.my.unl.edu
 modl-9cchx12.unl.edu
 snr-2480.unl.edu
 cba-dhartline1.unl.edu
@@ -59491,7 +59208,6 @@ pcp134707pcs.unl.edu
 ardcchr-w014.unl.edu
 liedops032005.unl.edu
 kaelin-pc.unl.edu
-www.journalism.unl.edu
 pcp142478pcs.unl.edu
 pcp145251pcs.unl.edu
 pcp144173pcs.unl.edu
@@ -59850,7 +59566,6 @@ nenoki.unl.edu
 semcs-ws-jira.unl.edu
 red-d16n20.unl.edu
 cselab9-02.unl.edu
-www.ae.unl.edu
 telec1605.unl.edu
 lcaemrvb21315.unl.edu
 net7030.unl.edu
@@ -59930,7 +59645,6 @@ ischc-sworker1.unl.edu
 unl-neuarboramx.unl.edu
 lib1620dt.unl.edu
 dn1007.unl.edu
-dph.unl.edu
 pcp429961pcs.unl.edu
 admiss-computer.unl.edu
 psyc-3t9zkh2.unl.edu
@@ -60022,7 +59736,6 @@ bse-lj8550c.unl.edu
 net7020.unl.edu
 pcp060291pcs.unl.edu
 pcp347997pcs.unl.edu
-www.youthadultpartnerships.unl.edu
 jmc-35206.unl.edu
 purc2000.unl.edu
 pcp069806pcs.unl.edu
@@ -60179,7 +59892,6 @@ bosch1-laptop.unl.edu
 botanyserver-pc.unl.edu
 its-idm-vmhost1.unl.edu
 acct2034.unl.edu
-gpn.unl.edu
 bfbsc1040.unl.edu
 pcp139748pcs.unl.edu
 eeo-cspcic.unl.edu
@@ -60274,7 +59986,6 @@ media-2.unl.edu
 mus-ry518001ua.unl.edu
 pcp195645pcs.unl.edu
 pcp139630pcs.unl.edu
-planbig.unl.edu
 gpc-oldh308pc.unl.edu
 ath-fwi-wr-d.unl.edu
 pcp429719pcs.unl.edu
@@ -60573,7 +60284,6 @@ mus-reservcomp.unl.edu
 lied-d20kj72.unl.edu
 eas-mj0chdj3.unl.edu
 engl-226canon.unl.edu
-recycling.unl.edu
 aecn-hc3g9n2.unl.edu
 libpub1507mac.unl.edu
 mac-lt.unl.edu
@@ -60695,7 +60405,6 @@ cob-smithsp.unl.edu
 pcp427920pcs.unl.edu
 loulab.unl.edu
 teac21g-kgeisinger-i7dell.unl.edu
-bfhome.unl.edu
 cse-severett-01.unl.edu
 bizhub250.unl.edu
 pcp071327pcs.unl.edu
@@ -60823,7 +60532,6 @@ ard-ri17.unl.edu
 pp-aziems.unl.edu
 laead-pf2b5jtk.unl.edu
 admiss-jbrost.unl.edu
-sw4.unl.edu
 fst-bcd25mw1ctf.unl.edu
 engr-lab108.unl.edu
 qsc311mh15.unl.edu
@@ -60930,7 +60638,6 @@ chem-hageimac29.unl.edu
 pcp053417pcs.unl.edu
 lagae-pf2az2pb.unl.edu
 pcp150626pcs.unl.edu
-www.bkr.unl.edu
 facm1389.unl.edu
 ntc-330r-02.unl.edu
 nex00-all4321.unl.edu
@@ -61105,7 +60812,6 @@ red-c5821.unl.edu
 pcp141707pcs.unl.edu
 pcp428400pcs.unl.edu
 chem-jcarr3.unl.edu
-www.civil.unl.edu
 net3984.unl.edu
 cob525k-ef3.unl.edu
 agr-dgn05gx1.unl.edu
@@ -61169,7 +60875,6 @@ tess4.unl.edu
 pcp428818pcs.unl.edu
 its-681ab7djv72.unl.edu
 neu-garden.unl.edu
-www.divag.unl.edu
 its-c02lh1e9fh01.unl.edu
 uhctclockh47.unl.edu
 pcp142311pcs.unl.edu
@@ -61296,7 +61001,6 @@ cyfs-tc246c.unl.edu
 snr-1026.unl.edu
 hlcfpa-print.unl.edu
 pcp142315pcs.unl.edu
-www.entomology.unl.edu
 asci-beefanat.unl.edu
 ccfl2-pc.unl.edu
 26-sag24.unl.edu
@@ -61406,7 +61110,6 @@ plac1086.unl.edu
 pcp385715pcs.unl.edu
 bio-mcao.unl.edu
 lrsup-571gt13.unl.edu
-agecon.unl.edu
 pcp429477pcs.unl.edu
 andrill1.unl.edu
 pcp138443pcs.unl.edu
@@ -61512,7 +61215,6 @@ cpacs-comp507.unl.edu
 gn27-nctaact1.unl.edu
 pcp430385pcs.unl.edu
 pcp171590pcs.unl.edu
-studyabroad.unl.edu
 ultimakersystem-ccbdd30078f3.unl.edu
 ath-arose.unl.edu
 pcp166960pcs.unl.edu
@@ -61548,8 +61250,6 @@ pcp164943pcs.unl.edu
 iqsc-d302845.unl.edu
 rubisco-lim.unl.edu
 pcp139579pcs.unl.edu
-www.ncta.unl.edu
-www.mvasm.unl.edu
 cba229ff2.unl.edu
 bloomlap.unl.edu
 henz-imacintel-jhofeldt.unl.edu
@@ -61648,7 +61348,6 @@ ctxvmdlc195.unl.edu
 pcp428513pcs.unl.edu
 libkiosk2003.unl.edu
 fdd-ws-db.unl.edu
-www.biologyofhuman.unl.edu
 lw27-bra206nw.unl.edu
 pcp138522pcs.unl.edu
 00q1142.xileshengshi.unl.edu
@@ -61797,7 +61496,6 @@ cerhc1lobupe01.unl.edu
 dh.unl.edu
 pcp427874pcs.unl.edu
 metr6900.unl.edu
-lancaster.unl.edu
 is-ares.unl.edu
 jmc-thorson-2.unl.edu
 its-diavel.unl.edu
@@ -61868,7 +61566,6 @@ jmc-002171.unl.edu
 bse-akumar.unl.edu
 othm328polycom.unl.edu
 hcc-htcondorce11.unl.edu
-cse-mail.unl.edu
 teac222-dkauffman-dellaptop.unl.edu
 pcp094782pcs.unl.edu
 pcp347814pcs.unl.edu
@@ -61938,7 +61635,6 @@ unpd1781.unl.edu
 cob036-l55.unl.edu
 uhon-fdyws52.unl.edu
 rsch-jmurman.unl.edu
-www.wifi.unl.edu
 is-selq-pc19.unl.edu
 galilei.unl.edu
 fst-es10738078.unl.edu
@@ -62076,7 +61772,6 @@ pa42-rharrison.unl.edu
 nmc-arch107-10.unl.edu
 pcp418068pcs.unl.edu
 pcp141753pcs.unl.edu
-www.southernplains.unl.edu
 unltstdc01.unl.edu
 its-ccx5sd2.unl.edu
 pcp042983pcs.unl.edu
@@ -62088,7 +61783,6 @@ pcp138472pcs.unl.edu
 manterlab-7.unl.edu
 pcp333387pcs.unl.edu
 teac-aseagren.unl.edu
-krugercollection.unl.edu
 d6j5ngh1.unl.edu
 ento-c02wk02ej1.unl.edu
 26-du1.unl.edu
@@ -62125,17 +61819,14 @@ unlcyt115-fwibooked.unl.edu
 np15c7bb.unl.edu
 agr-dmwhite.unl.edu
 pcp137905pcs.unl.edu
-www.wastewater.unl.edu
 snr-2391.unl.edu
 iqsc104mh07.unl.edu
 cat29-cult102.unl.edu
-www.housingtime.unl.edu
 hist-73k0tq2.unl.edu
 red-sec-c1015.unl.edu
 math-169.unl.edu
 cba367eg11.unl.edu
 lied-b4963.unl.edu
-kearney.unl.edu
 hcc-schorr-mlxe-129-93-241-0.unl.edu
 sua-2224u.unl.edu
 secdc-motorspeech02.unl.edu
@@ -62168,8 +61859,6 @@ pcp136418pcs.unl.edu
 fpa-daspro09.unl.edu
 pcp093327pcs.unl.edu
 stat-helpdesk02.unl.edu
-mesonet2.unl.edu
-www.payroll.unl.edu
 teac141deskga.unl.edu
 cobstrlab3765dnf.unl.edu
 itg-avh19pc.unl.edu
@@ -62247,9 +61936,7 @@ net3957.unl.edu
 psychpccdesk.unl.edu
 pcp143289pcs.unl.edu
 cba18l35.unl.edu
-fmp.unl.edu
 27-wmb1-1.unl.edu
-ncesr.unl.edu
 arch21single.unl.edu
 agr-rgaussoin2.unl.edu
 lehcf-190wny2.unl.edu
@@ -62443,7 +62130,7 @@ pcp139226pcs.unl.edu
 2504.unl.edu
 pcp197846pcs.unl.edu
 enviromux.unl.edu
-www.chase.unl.edu
+chase.unl.edu
 mwrsf-office9.unl.edu
 pcp187018pcs.unl.edu
 rr-1dc5w12.unl.edu
@@ -62606,7 +62293,6 @@ honorsregistration-stage.unl.edu
 goodding03.unl.edu
 pcp138385pcs.unl.edu
 engl-9241.unl.edu
-york.unl.edu
 psyc-mxl7251jwq.unl.edu
 pcp165975pcs.unl.edu
 pcp057385pcs.unl.edu
@@ -62626,7 +62312,6 @@ math-098.unl.edu
 pcp388811pcs.unl.edu
 lw1142-andn228.unl.edu
 lw26-kddin.unl.edu
-www.sheridan.unl.edu
 angelettifreezers.unl.edu
 cors0902i.unl.edu
 its-helix-old.unl.edu
@@ -62650,8 +62335,6 @@ pcp139671pcs.unl.edu
 pcp096177pcs.unl.edu
 vdc-1pmddh2.unl.edu
 nexwc-foxm402dn.unl.edu
-www.isco-mcs5100-ipcm1.unl.edu
-bias.unl.edu
 cat29-holdrege101.unl.edu
 pcp419902pcs.unl.edu
 ard-02stud.unl.edu
@@ -62661,7 +62344,6 @@ pcp030823pcs.unl.edu
 hcc-netcon.unl.edu
 pcp429101pcs.unl.edu
 reserved83-126.unl.edu
-ardc.unl.edu
 net-vdi-rhansen.unl.edu
 dtfw-246-104.unl.edu
 pcp385844pcs.unl.edu
@@ -62681,7 +62363,6 @@ npi714f36.unl.edu
 oma-aa108245.unl.edu
 cse-hjiang-06.unl.edu
 cse-vmthin-02.unl.edu
-www.netvdiconnect.unl.edu
 pcp130101pcs.unl.edu
 he234ace13lt.unl.edu
 its-edscam.unl.edu
@@ -62859,7 +62540,6 @@ wckruger-w.unl.edu
 ath-mbbstu01.unl.edu
 neltap-drcady.unl.edu
 pcp132092pcs.unl.edu
-www.greensfunction.unl.edu
 secure.analsecure-dev2.unl.edu
 introlabs.unl.edu
 cb3-b71filma.unl.edu
@@ -62902,7 +62582,6 @@ pcp140702pcs.unl.edu
 secd-ricketts07.unl.edu
 dtfw-246-107.unl.edu
 facm2012.unl.edu
-www.nerec.unl.edu
 desktop-06jg13j.unl.edu
 netbadge.unl.edu
 snr-lenovo322.unl.edu
@@ -63026,7 +62705,6 @@ sbs-cnd9111bxv.unl.edu
 emis-tst-pgsql.unl.edu
 pcp162754pcs.unl.edu
 lln-n220-color.unl.edu
-inventory.unl.edu
 pcp141260pcs.unl.edu
 pcp137058pcs.unl.edu
 fyh-4qmft61.unl.edu
@@ -63103,7 +62781,6 @@ snr-2240.unl.edu
 vcr-mgreer.unl.edu
 nttl-hp2250.unl.edu
 nmc-imac5-mac.unl.edu
-www.docs.unl.edu
 snr-1569.unl.edu
 27-henz105.unl.edu
 lawpdu01.unl.edu
@@ -63928,7 +63605,6 @@ cas.unl.edu
 casnr-gtt2kh2.unl.edu
 net3323.unl.edu
 mabl233-jday-i7laptop.unl.edu
-www.cve.unl.edu
 wc14av.unl.edu
 unp-51w3xm2.unl.edu
 desktop-tck0lu2.unl.edu
@@ -63950,7 +63626,6 @@ itayercon-p.unl.edu
 cyaf-m103003.unl.edu
 pcp138266pcs.unl.edu
 secdc-noah008.unl.edu
-hive.unl.edu
 its-681a2l9jw72.unl.edu
 ath-djsec03.unl.edu
 lw1142-lwc219.unl.edu
@@ -63978,7 +63653,6 @@ pcp142432pcs.unl.edu
 cust2000.unl.edu
 net5057.unl.edu
 np40-zimbra.unl.edu
-nfs.unl.edu
 hplaserjetp4515.unl.edu
 pcp165173pcs.unl.edu
 prcs1015.unl.edu
@@ -64015,7 +63689,6 @@ uhcl034adm01.unl.edu
 prcs2010.unl.edu
 jmc-13016.unl.edu
 t3sys-ittrio.unl.edu
-frontier.unl.edu
 pcp143187pcs.unl.edu
 pcp182019pcs.unl.edu
 bse-aspader2.unl.edu
@@ -64102,7 +63775,6 @@ agrability.unl.edu
 pcp430200pcs.unl.edu
 fyh-hprsupnb1.unl.edu
 ento-mxx2120n0j.unl.edu
-www.scimath.unl.edu
 lw42-adm17.unl.edu
 lagft-6c2dq53.unl.edu
 eas302cp2025dn.unl.edu
@@ -64139,11 +63811,10 @@ pcp136808pcs.unl.edu
 bf-7j14hx1.unl.edu
 rtr129-93-93.unl.edu
 81505861.unl.edu
-news.unl.edu
 lw1142-lied1veste.unl.edu
 unl-city-cp-pub-pat.unl.edu
 pcp385957pcs.unl.edu
-www.snr.unl.edu
+snr.unl.edu
 uh-sellpdr-sdx.unl.edu
 cob511r-eg2.unl.edu
 snr-1054.unl.edu
@@ -64189,7 +63860,6 @@ argroup-pc1.unl.edu
 em-cms001.unl.edu
 cselab4-10.unl.edu
 its-mabl262mac.unl.edu
-ath-football.unl.edu
 pcp420113pcs.unl.edu
 is-jmack.unl.edu
 tusker-xfer.unl.edu
@@ -64305,7 +63975,6 @@ lev104hsb16b.unl.edu
 se46arenadr.unl.edu
 math-871858.unl.edu
 pcp170901pcs.unl.edu
-www.saline.unl.edu
 barat.unl.edu
 jdr-p50.unl.edu
 sbs-09a904.unl.edu
@@ -64348,7 +64017,6 @@ nwc-5gc0l02.unl.edu
 pcp129786pcs.unl.edu
 nbenes-lptp.unl.edu
 pcp137890pcs.unl.edu
-libraries.unl.edu
 secdc-ray.unl.edu
 pcp348072pcs.unl.edu
 quimby.unl.edu
@@ -64534,7 +64202,6 @@ co-4ngcl02.unl.edu
 pcp078592pcs.unl.edu
 ctxvmburnett47.unl.edu
 lib10054.unl.edu
-www.nettc.unl.edu
 he125clj10.unl.edu
 cbaacctgradlabb5460dn.unl.edu
 wff-c02qf0j6fvh.unl.edu
@@ -64989,7 +64656,6 @@ cat29-greek-pkt202.unl.edu
 mabl-thoush.unl.edu
 raikes-ds0050.unl.edu
 lls29canon.unl.edu
-droughtmonitor.unl.edu
 pcp076492pcs.unl.edu
 ctxvmdlc086.unl.edu
 pcp164154pcs.unl.edu
@@ -65011,7 +64677,7 @@ neihardt-d102323.unl.edu
 ctxvmdlc190.unl.edu
 imagenowic-new.unl.edu
 gpc-mnb5pc.unl.edu
-www.explorecenter.unl.edu
+explorecenter.unl.edu
 ppc-stats2.unl.edu
 me-hpprint.unl.edu
 agr-dcy434v1.unl.edu
@@ -65407,7 +65073,6 @@ wick-mac2.unl.edu
 lib1807dt.unl.edu
 pcp382692pcs.unl.edu
 netboot352.unl.edu
-www.dawes.unl.edu
 unl-sec237reartvcom.unl.edu
 pcp134718pcs.unl.edu
 42-nicfic279a.unl.edu
@@ -65549,7 +65214,6 @@ pcp093659pcs.unl.edu
 ppc-dell10.unl.edu
 pcp430136pcs.unl.edu
 odyssey-n212g.unl.edu
-www.casnr.unl.edu
 f5-ath-business.unl.edu
 unl-nanoboard1.unl.edu
 fst-10trnc2.unl.edu
@@ -65734,7 +65398,6 @@ ath1905.unl.edu
 julia-colbys-computer.unl.edu
 pols-349e54.unl.edu
 crec-174.unl.edu
-www.wm-imp-2.unl.edu
 aah-artcart09.unl.edu
 red-c1514.unl.edu
 ath-thenrichs-dell-dock.unl.edu
@@ -65888,7 +65551,6 @@ eas-jslxcz1.unl.edu
 pcp070759pcs.unl.edu
 cob-hornet.unl.edu
 lw1142-loven208e.unl.edu
-unopa.unl.edu
 psyc-docce1.unl.edu
 aah-mhoff-2.unl.edu
 gks-stribby.unl.edu
@@ -66175,7 +65837,6 @@ mead-sensor-08.unl.edu
 its-besy117mac.unl.edu
 pcp143537pcs.unl.edu
 pcp068905pcs.unl.edu
-www.pested.unl.edu
 desktop-bhfgei1.unl.edu
 asdo-7431e0.unl.edu
 pcp026262pcs.unl.edu
@@ -66354,7 +66015,6 @@ pcp138937pcs.unl.edu
 pcp430079pcs.unl.edu
 nhs-d-301910.unl.edu
 hcc-vm02.unl.edu
-livingstoneonline.unl.edu
 cb3-mri.unl.edu
 se29fys1dp1.unl.edu
 its-a5201jqr.unl.edu
@@ -66422,7 +66082,7 @@ law-rknight2.unl.edu
 its-conquest.unl.edu
 bpdf-moxa34.unl.edu
 pcp164789pcs.unl.edu
-www.isco-mcs5100-ipcm2.unl.edu
+isco-mcs5100-ipcm2.unl.edu
 pcp136336pcs.unl.edu
 libpub1219.unl.edu
 asdo-2ua72823d8.unl.edu
@@ -66442,7 +66102,6 @@ pcp141428pcs.unl.edu
 pcp117127pcs.unl.edu
 mme-jatprinter.unl.edu
 red-c0919.unl.edu
-ehs.unl.edu
 laefa-mj0ctzhc.unl.edu
 mwrsf-office29.unl.edu
 ath-iss-3.unl.edu
@@ -66479,7 +66138,6 @@ cat29-fedde101.unl.edu
 pcp144053pcs.unl.edu
 oww-lonlinewwide.unl.edu
 agr-115ssl1548.unl.edu
-webster.unl.edu
 fang.unl.edu
 cobipad4.unl.edu
 pcp430284pcs.unl.edu
@@ -66789,7 +66447,6 @@ lcaahrh17003.unl.edu
 nctaagh18fd13.unl.edu
 minint-9qgiqgc.unl.edu
 arch131lcd.unl.edu
-dsp.unl.edu
 pcp333622pcs.unl.edu
 se01c02mqmfd57.unl.edu
 isp-sshannon11.unl.edu
@@ -67053,7 +66710,7 @@ pcp143007pcs.unl.edu
 pcp134690pcs.unl.edu
 ath-performance5.unl.edu
 is-jgmc-pc13.unl.edu
-www.nebraskawater.unl.edu
+nebraskawater.unl.edu
 pcp162399pcs.unl.edu
 its-5cg622774k.unl.edu
 aah-wab208xerox5550dn.unl.edu
@@ -67061,7 +66718,6 @@ cb3-c07mg0yddwyn.unl.edu
 bks-konica7022.unl.edu
 issmportaltest.unl.edu
 neatba7490.unl.edu
-darwinp2.unl.edu
 admiss-gradltop.unl.edu
 pcp144570pcs.unl.edu
 acct2036.unl.edu
@@ -67141,7 +66797,6 @@ uhon-lab0812.unl.edu
 pcp429072pcs.unl.edu
 unl-nugeorgianamx.unl.edu
 pcp348073pcs.unl.edu
-horse.unl.edu
 ath-mmartin.unl.edu
 iqsced-lptp.unl.edu
 pcp144110pcs.unl.edu
@@ -67206,7 +66861,6 @@ and-class241.unl.edu
 pcp385727pcs.unl.edu
 pcp419675pcs.unl.edu
 advs-f390dc.unl.edu
-acm.unl.edu
 secdc-noah002.unl.edu
 chem-lakert.unl.edu
 engr-lab26.unl.edu
@@ -67277,7 +66931,6 @@ pcp234746pcs.unl.edu
 its-hrh-pc01.unl.edu
 bse-hp4240-b.unl.edu
 pcp430532pcs.unl.edu
-irp.unl.edu
 gn27-wcrcoldshop.unl.edu
 dcn-labhp4100.unl.edu
 ath-canderson.unl.edu
@@ -67318,7 +66971,6 @@ pcp428502pcs.unl.edu
 pcp130110pcs.unl.edu
 lw26-netv106.unl.edu
 cob345n-ks1.unl.edu
-www.upenn.unl.edu
 mme-stu2.unl.edu
 uhcl110clinicex03.unl.edu
 nuthatch.unl.edu
@@ -67354,7 +67006,6 @@ pcp143185pcs.unl.edu
 hcc-anvil-175-20.unl.edu
 bse-rm110n.unl.edu
 cb3-magscanner.unl.edu
-esab.unl.edu
 27-lsa-g06.unl.edu
 pcp234780pcs.unl.edu
 mosaic-dal.unl.edu
@@ -67607,7 +67258,6 @@ highschool.unl.edu
 pcp158393pcs.unl.edu
 fyh-f270gg1.unl.edu
 facm1667.unl.edu
-nebraskawater.unl.edu
 finaid-a5502hl5.unl.edu
 desktop-j9nl0c2.unl.edu
 lw1142-rich209.unl.edu
@@ -67719,7 +67369,6 @@ pcp417881pcs.unl.edu
 rogue10.unl.edu
 pcp142649pcs.unl.edu
 ccfl-hl8qk13.unl.edu
-uaad.unl.edu
 pcp166171pcs.unl.edu
 pcp139633pcs.unl.edu
 pcp080400pcs.unl.edu
@@ -67795,7 +67444,6 @@ srec-dslandscapes.unl.edu
 ctxvmdlc060.unl.edu
 apf80b.unl.edu
 jmc-35106.unl.edu
-www.extensiondocs.unl.edu
 its-ctrx-ps02.unl.edu
 snr-2207.unl.edu
 libcir0015.unl.edu
@@ -67850,7 +67498,6 @@ cba235ff2.unl.edu
 agr-fvfy9dxrhv2.unl.edu
 uh-reg112.unl.edu
 pcp140347pcs.unl.edu
-police.unl.edu
 pcp144551pcs.unl.edu
 android-b55d931e7852fce2.unl.edu
 secd-axis-rm225.unl.edu
@@ -67992,7 +67639,6 @@ ntc-330m-01.unl.edu
 its-2yfnxm2.unl.edu
 ath-chardy.unl.edu
 lw1142-50132.unl.edu
-www.mwrsf.unl.edu
 engr-nh404-cr.unl.edu
 pcp180721pcs.unl.edu
 chem-dberkowitz.unl.edu
@@ -68131,7 +67777,6 @@ isco-dms-rotary.unl.edu
 bserm110j.unl.edu
 pols-512brother.unl.edu
 pcp420098pcs.unl.edu
-www.ncmn.unl.edu
 snr-1222.unl.edu
 se0149w79z1.unl.edu
 edps-d102020.unl.edu
@@ -68249,7 +67894,6 @@ cob125m-us1.unl.edu
 solar.unl.edu
 greek-ls-rm332d.unl.edu
 pcp144330pcs.unl.edu
-big10meconf.unl.edu
 switchboard.unl.edu
 cyfs-whit162pitb.unl.edu
 cyyln2.unl.edu
@@ -68333,7 +67977,6 @@ ctxvmdlc032.unl.edu
 treatylexicon.unl.edu
 pcp053336pcs.unl.edu
 pcp430526pcs.unl.edu
-www.eclipse.unl.edu
 nu-south-1.unl.edu
 login.libproxy-dev.unl.edu
 asem-alexwestcopier.unl.edu
@@ -68473,7 +68116,6 @@ im-019841561053.unl.edu
 red-c9417.unl.edu
 pcp093425pcs.unl.edu
 anth-42b289.unl.edu
-ccfl.unl.edu
 pcp158028pcs.unl.edu
 its-jgmc-pc10.unl.edu
 lib08016.unl.edu
@@ -68535,7 +68177,6 @@ ctxvmcba021.unl.edu
 pos02.unl.edu
 apple-tv.unl.edu
 vdc-bbrodersen.unl.edu
-www.biosci.unl.edu
 milh-2dtnl71.unl.edu
 shel-auditorium.unl.edu
 casnr-gtr8kh2.unl.edu
@@ -68626,7 +68267,6 @@ lied-c07h852kdjd0.unl.edu
 castechs-imac.unl.edu
 nutech-f45qnn2.unl.edu
 boyds-mbp.unl.edu
-www.wireless-reg.unl.edu
 kalahari2.unl.edu
 ng-rnd4410.unl.edu
 42-nicfic315a.unl.edu
@@ -68661,7 +68301,6 @@ rtr129-93-215-128.unl.edu
 pcp144721pcs.unl.edu
 lw1142-hard49.unl.edu
 lcaemcemacart01.unl.edu
-www.nuengr.unl.edu
 ath-sid3.unl.edu
 keim214-pc27.unl.edu
 lnk-wan-east-inet-vlan516.unl.edu
@@ -68824,7 +68463,6 @@ dchristensen.unl.edu
 saturnv.unl.edu
 arch330barn.unl.edu
 he142cw316.unl.edu
-humanrights.unl.edu
 pcp144367pcs.unl.edu
 hp4250-n163.unl.edu
 payr2011.unl.edu
@@ -68963,7 +68601,6 @@ ndmc-hts01.unl.edu
 gs-swallman12.unl.edu
 pcp031226pcs.unl.edu
 cba12l024.unl.edu
-nesen.unl.edu
 nefarmman.unl.edu
 perfsonar-mgmt.unl.edu
 pcp128297pcs.unl.edu
@@ -69133,7 +68770,6 @@ admis-sairan70.unl.edu
 rtr129-93-237-112.unl.edu
 pcp153270pcs.unl.edu
 gpc-burn107pc.unl.edu
-re4now.unl.edu
 net-vdi-mflorence.unl.edu
 pcp333500pcs.unl.edu
 lw1142-bh17.unl.edu
@@ -69398,7 +69034,6 @@ unlathlt007.unl.edu
 pcp088080pcs.unl.edu
 cehsit-e102886.unl.edu
 27-nhw145s.unl.edu
-www.international.unl.edu
 cob445a-ag1.unl.edu
 cat35-claycenter201.unl.edu
 bionmr29.unl.edu
@@ -69516,7 +69151,6 @@ secd-noah00.unl.edu
 ncv1.unl.edu
 frc5ga16.unl.edu
 uh-reg22.unl.edu
-www.howard.unl.edu
 unl-nh522amxrx2.unl.edu
 minint-svu4mb1.unl.edu
 communityconnections.unl.edu
@@ -69590,7 +69224,6 @@ engr-lab119.unl.edu
 26-sag205.unl.edu
 pcp143204pcs.unl.edu
 advs-87bcec.unl.edu
-www.secd-calendar.unl.edu
 unlesst017-fwibooked.unl.edu
 cropsys-m402dn.unl.edu
 myilibrary.com.library.unl.edu
@@ -69700,7 +69333,6 @@ pcp132181pcs.unl.edu
 carikonica250.unl.edu
 unl-sec241-c40s.unl.edu
 pcp144920pcs.unl.edu
-www.lead.unl.edu
 tlf5300-50294.unl.edu
 snr-p1854.unl.edu
 ht28-selserver.unl.edu
@@ -69799,7 +69431,6 @@ union-mbeyke24.unl.edu
 teac-gatewaytablet-buros.unl.edu
 ff-nat01b.unl.edu
 pcp069745pcs.unl.edu
-extensioninthecity.unl.edu
 cbacscanon.unl.edu
 ncta-jmb.unl.edu
 ccfl-mike.unl.edu
@@ -69902,7 +69533,6 @@ admiss-52j75h2.unl.edu
 ap42-ccfl10se.unl.edu
 uitcs-unldairystoreqb75r.unl.edu
 pcp053332pcs.unl.edu
-www.animalscience.unl.edu
 bfbsc0706.unl.edu
 uh-wcdc-tv02.unl.edu
 admiss-7fthtn2.unl.edu
@@ -69933,7 +69563,6 @@ pcp419856pcs.unl.edu
 lied-carson.unl.edu
 psy-lhoffman.unl.edu
 pcp030707pcs.unl.edu
-extension.unl.edu
 wccole.unl.edu
 net7042.unl.edu
 raikes-kauf125-mcp.unl.edu
@@ -70017,7 +69646,7 @@ pp-molson13.unl.edu
 lw27-oth315.unl.edu
 teac-hpljp3015dn-111.unl.edu
 pcp139162pcs.unl.edu
-www.labs-lrc.unl.edu
+labs-lrc.unl.edu
 ctxvmdlc071.unl.edu
 neuromancer.unl.edu
 bdl-rnasultra-ncv.unl.edu
@@ -70274,7 +69903,6 @@ law-itcolor.unl.edu
 pcp388936pcs.unl.edu
 pcp163813pcs.unl.edu
 pcp430479pcs.unl.edu
-secd-survey.unl.edu
 cob036-l29.unl.edu
 desktop-v67rl6e.unl.edu
 unlhepold.unl.edu
@@ -70361,8 +69989,7 @@ lnragacb203-m479fdw.unl.edu
 desktop-vfhd0ai.unl.edu
 its-g6yk419019c6.unl.edu
 chem-dussaults1.unl.edu
-www.citphp.unl.edu
-www.spaceandtelecomlaw.unl.edu
+citphp.unl.edu
 pcp164606pcs.unl.edu
 nnf-anand.unl.edu
 hcc-osg-topology2.unl.edu
@@ -70433,7 +70060,6 @@ lw26-cb3292.unl.edu
 nex15-j1v5qn2.unl.edu
 ap42-softstdpress.unl.edu
 dragon48.unl.edu
-nebraskadairy.unl.edu
 pcp423523pcs.unl.edu
 jj.unl.edu
 vcaa-dwilson.unl.edu
@@ -70505,7 +70131,6 @@ pcp141513pcs.unl.edu
 snr-p0950.unl.edu
 ath-jhall.unl.edu
 lw26-aver122.unl.edu
-www.ltap.unl.edu
 pcp031208pcs.unl.edu
 gpc-oldh205pc.unl.edu
 lehse-214otwh02.unl.edu
@@ -70585,7 +70210,6 @@ pettee-pi.unl.edu
 red-d22n5.unl.edu
 services.unl.edu
 secdresource15.unl.edu
-cropwatch.unl.edu
 secd-green103.unl.edu
 stat-hlab20.unl.edu
 pcp144012pcs.unl.edu
@@ -70654,7 +70278,6 @@ bpdf-tsevera.unl.edu
 mwrsf-staff2.unl.edu
 pcp141208pcs.unl.edu
 phase8a.unl.edu
-snr.unl.edu
 pcp130177pcs.unl.edu
 red-d18n21.unl.edu
 mabl226-dklimes-gtw.unl.edu
@@ -70935,7 +70558,6 @@ netview.unl.edu
 pcp071892pcs.unl.edu
 lied-wd030.unl.edu
 park1033.unl.edu
-www.netsp.unl.edu
 pcp138736pcs.unl.edu
 hcc-nrp-shor-c5830.unl.edu
 land1009.unl.edu
@@ -71026,7 +70648,6 @@ law-rmcdermott3imac.unl.edu
 hprcc0-web.unl.edu
 lw26-sag10.unl.edu
 pcp137329pcs.unl.edu
-www.vdiconn3.unl.edu
 se29bizhub423.unl.edu
 desktop-p2q8r8j.unl.edu
 isr44-brdra.unl.edu
@@ -71244,7 +70865,6 @@ net3712.unl.edu
 desktop-rd4uie5.unl.edu
 aecn-hc3m9n2.unl.edu
 red-d23n4.unl.edu
-www.plantsciences.unl.edu
 cba126ads1.unl.edu
 pcp134612pcs.unl.edu
 its-sec-29e-hpm402dw.unl.edu
@@ -71284,7 +70904,6 @@ jss-admin.unl.edu
 net-checkout-09.unl.edu
 pcp388798pcs.unl.edu
 mwrsf-xps42.unl.edu
-marketplace-dev.unl.edu
 nutech-clbv6s2.unl.edu
 lw1242-1901y120.unl.edu
 rtr129-93-235.unl.edu
@@ -71310,7 +70929,6 @@ unpd1603.unl.edu
 altc-imac-nw02.unl.edu
 pcp164855pcs.unl.edu
 27lls29a.unl.edu
-www.huanggroup.unl.edu
 cob036-l60.unl.edu
 pcp079020pcs.unl.edu
 lehcf-dpk3bz1.unl.edu
@@ -71332,7 +70950,6 @@ cba-xd4.unl.edu
 chem-lakert51.unl.edu
 pcp057231pcs.unl.edu
 co-mjykfb1.unl.edu
-4h.unl.edu
 napt-67.unl.edu
 uhon-kcprint.unl.edu
 pi-c1-ge2-4.unl.edu
@@ -71363,7 +70980,6 @@ cob125f-us2.unl.edu
 win-kjhs6dd2o1a.unl.edu
 nctawdorm1.unl.edu
 law-itelitebook.unl.edu
-www.foodsafety.unl.edu
 mwrsf-reid-pc.unl.edu
 cselab3-33.unl.edu
 dcn-mxl5420jjc.unl.edu
@@ -71536,7 +71152,6 @@ cust1014.unl.edu
 cob525l-es5.unl.edu
 pcp428791pcs.unl.edu
 rtr129-93-193-128.unl.edu
-bike.unl.edu
 engl-a70732.unl.edu
 pcp137157pcs.unl.edu
 ctxvmdlc128.unl.edu
@@ -71653,7 +71268,6 @@ minint-hbd56hl.unl.edu
 rtr129-92-253-16-standby.unl.edu
 lcaemcema110-atv.unl.edu
 27lsa-h4.unl.edu
-luci.unl.edu
 red-c7305.unl.edu
 he142-labcam-se.unl.edu
 pcp139381pcs.unl.edu
@@ -71675,13 +71289,12 @@ pcp088383pcs.unl.edu
 bse-rm110o.unl.edu
 fst-5kqg0gdf9vn1.unl.edu
 stat-grad31.unl.edu
-www.dundy.unl.edu
+dundy.unl.edu
 pcp017922pcs.unl.edu
 pcp076724pcs.unl.edu
 jmc-333-04.unl.edu
 pcp139128pcs.unl.edu
 union-audit-amxmaster.unl.edu
-www.marketjournal.unl.edu
 cba-xd5.unl.edu
 wff-25vn11fj1gq.unl.edu
 bpdf-deltavlaptop.unl.edu
@@ -71756,7 +71369,6 @@ chem-dbb-uv2600.unl.edu
 lehmann.unl.edu
 net5213.unl.edu
 pcp333501pcs.unl.edu
-dev-mwrsf.unl.edu
 pcp429723pcs.unl.edu
 physastro-slangan111.unl.edu
 pcp429061pcs.unl.edu
@@ -71909,7 +71521,6 @@ is-brnt-mac02.unl.edu
 bf-b12r6y1.unl.edu
 secd-301cprinter.unl.edu
 red-kube-183-39.unl.edu
-fs.unl.edu
 pcp394033pcs.unl.edu
 bpdf-aml5.unl.edu
 pcp075196pcs.unl.edu
@@ -71934,7 +71545,6 @@ android-bc931f382a55a8c5.unl.edu
 trio-ts-001.unl.edu
 carmen-raber.unl.edu
 tran1003.unl.edu
-www.ruralpoll.unl.edu
 pcp139581pcs.unl.edu
 agr-d8bh0ms1.unl.edu
 pcp075772pcs.unl.edu
@@ -71947,7 +71557,6 @@ engl-canon6055.unl.edu
 cpbs-libprint.unl.edu
 pcp419888pcs.unl.edu
 scs1960.unl.edu
-its-webhost.unl.edu
 cba-cl19.unl.edu
 np40-dberkebile.unl.edu
 em-edit4.unl.edu
@@ -72000,7 +71609,6 @@ pcp429922pcs.unl.edu
 bf-3cnpot2.unl.edu
 lw1142-lovenbaseast.unl.edu
 42-oldh803.unl.edu
-studentaffairstime.unl.edu
 is-andr-r-pc04.unl.edu
 pcp348015pcs.unl.edu
 pcp144093pcs.unl.edu
@@ -72181,7 +71789,6 @@ rsch-tr-vdi-02.unl.edu
 crec-phonecc01.unl.edu
 lw1142-501train.unl.edu
 bohorok.unl.edu
-sustainability.unl.edu
 esl22.unl.edu
 27-ahg4-13.unl.edu
 pcp144693pcs.unl.edu
@@ -72225,7 +71832,6 @@ ott-encoder-2.unl.edu
 pcp140168pcs.unl.edu
 0-mbe.oupjournals.org.library.unl.edu
 pcp141550pcs.unl.edu
-saunders.unl.edu
 lw1142-lsfnw102.unl.edu
 pcp071992pcs.unl.edu
 lw1142-nhw213-2.unl.edu
@@ -72247,7 +71853,6 @@ pcp142017pcs.unl.edu
 crec-154.unl.edu
 net5010.unl.edu
 pcp144672pcs.unl.edu
-isco-mcs5100-ipcm2.unl.edu
 its-bl205sw3.unl.edu
 lw42-nicfic125.unl.edu
 math-022.unl.edu
@@ -72310,7 +71915,6 @@ youthsuicideprevention.unl.edu
 pcp328640pcs.unl.edu
 ff-monitoring.unl.edu
 fwsm-net.unl.edu
-www.lanco.unl.edu
 pcp430305pcs.unl.edu
 engr-codecmon.unl.edu
 law-cres115.unl.edu
@@ -72528,7 +72132,6 @@ ath-ahackbart-dell.unl.edu
 mabl132-rdalla-i7dell.unl.edu
 bcrf-wks3.unl.edu
 adams-m503n.unl.edu
-ianr.unl.edu
 is-appstuq.unl.edu
 pp-jvanetten08.unl.edu
 mechenglab-1.unl.edu
@@ -72678,7 +72281,6 @@ gs-mashbury.unl.edu
 ris-ci6.unl.edu
 pcp423559pcs.unl.edu
 pcp088566pcs.unl.edu
-ncna-region.unl.edu
 lw1142-wstd168.unl.edu
 pcp105935pcs.unl.edu
 red-d19n9.unl.edu
@@ -72758,7 +72360,6 @@ cba-aurora.unl.edu
 des203pc.unl.edu
 farrp-prt278e.unl.edu
 snr-1970.unl.edu
-www.ssp.unl.edu
 law-kiosk125.unl.edu
 pcp429181pcs.unl.edu
 pcp145003pcs.unl.edu
@@ -72856,7 +72457,6 @@ pcp069567pcs.unl.edu
 cojmc-30-18.unl.edu
 pcp132101pcs.unl.edu
 f5-fst-apps.unl.edu
-nebraskaedge.unl.edu
 pcp049265pcs.unl.edu
 pcp430581pcs.unl.edu
 pcp194511pcs.unl.edu
@@ -72906,7 +72506,6 @@ nrc-ldamuthdell.unl.edu
 hcc-nrp-shor-c5917.unl.edu
 pcp142065pcs.unl.edu
 asdo-9760fb.unl.edu
-nebraskaclimateoffice.unl.edu
 fyh-ctr45.unl.edu
 pcp234754pcs.unl.edu
 6867i00085d730c64.unl.edu
@@ -73013,14 +72612,12 @@ pcp072002pcs.unl.edu
 pcp165167pcs.unl.edu
 math-ddailey2.unl.edu
 pcp134666pcs.unl.edu
-www.mba.unl.edu
 pcp144230pcs.unl.edu
 vckonica420.unl.edu
 pcp430095pcs.unl.edu
 pcp088557pcs.unl.edu
 lw1142-mant408.unl.edu
 pcp162762pcs.unl.edu
-wm-imp-3.unl.edu
 hcc-mail.unl.edu
 ageconlab6.unl.edu
 adv-2100ptr.unl.edu
@@ -73054,7 +72651,6 @@ pcp143205pcs.unl.edu
 its-omnisoc2-int.unl.edu
 teac133-eniehaus-i7laptop.unl.edu
 lph-d302634.unl.edu
-vdiconn2.unl.edu
 he142w216.unl.edu
 vantageview.unl.edu
 cselab5-057.unl.edu
@@ -73077,9 +72673,7 @@ unp-h3ds9t2.unl.edu
 pcp385687pcs.unl.edu
 desktop-crte4pj.unl.edu
 pcp062233pcs.unl.edu
-accounting.unl.edu
 pcp333457pcs.unl.edu
-chase.unl.edu
 pcp388904pcs.unl.edu
 cba215cdf3.unl.edu
 pcp134597pcs.unl.edu
@@ -73501,7 +73095,6 @@ pcp129121pcs.unl.edu
 othm213kev.unl.edu
 uh-uh309canon.unl.edu
 pcp153353pcs.unl.edu
-www.budget.unl.edu
 0-www.osti.gov.library.unl.edu
 is-love.unl.edu
 soc-eyetrac01.unl.edu
@@ -73623,13 +73216,11 @@ unl-nugeorgianbcom1.unl.edu
 uhcl101him05.unl.edu
 pcp142299pcs.unl.edu
 pcp166949pcs.unl.edu
-labs-lrc.unl.edu
 fpa-whd.unl.edu
 ath-rpietig.unl.edu
 pcp347840pcs.unl.edu
 pcp094787pcs.unl.edu
 neun-cmbuysmanl.unl.edu
-citphp.unl.edu
 pcp071379pcs.unl.edu
 phrec168.unl.edu
 pcp023906pcs.unl.edu
@@ -73699,7 +73290,6 @@ em-studio3.unl.edu
 math-124.unl.edu
 math-8cg80533fl.unl.edu
 facm1721.unl.edu
-www.lnclu2.unl.edu
 is-jgmc-r-pc01.unl.edu
 biotech-clarosa.unl.edu
 pcp043037pcs.unl.edu
@@ -73782,7 +73372,6 @@ sbsrc-xl6180z13.unl.edu
 asdo-2ua72823d7.unl.edu
 isham-f5.unl.edu
 red-d15n20.unl.edu
-www.support.unl.edu
 purc1060.unl.edu
 law-mgardner1.unl.edu
 bfbsc1477.unl.edu
@@ -73840,7 +73429,6 @@ shel-d25y309lj1gq.unl.edu
 crec-p46.unl.edu
 pcp197720pcs.unl.edu
 pcp347722pcs.unl.edu
-www.netsync.unl.edu
 vasp6.unl.edu
 pcp132937pcs.unl.edu
 pcp138106pcs.unl.edu
@@ -73972,7 +73560,6 @@ unsm-96ttmr2.unl.edu
 hprcc7.unl.edu
 jmc-10083.unl.edu
 crec-140.unl.edu
-polk.unl.edu
 lib13059dt.unl.edu
 pcp134573pcs.unl.edu
 isco-moonbase04.unl.edu
@@ -73981,7 +73568,6 @@ libpub1911m.unl.edu
 engr-smnuc.unl.edu
 linksysgua.unl.edu
 cyfs-whit162-1c.unl.edu
-franklin.unl.edu
 secd-hebertlab03.unl.edu
 cp2k48.unl.edu
 r7000p.unl.edu
@@ -74031,7 +73617,6 @@ pcp158423pcs.unl.edu
 dtih1.unl.edu
 law-sposer1.unl.edu
 agr193-69.hine-bhl-5450dn.unl.edu
-www.federation.unl.edu
 ath-har17.unl.edu
 lev104clj16.unl.edu
 cat29-dairyres101.unl.edu
@@ -74136,7 +73721,6 @@ pcp428961pcs.unl.edu
 26-nu142w.unl.edu
 ccfl-wilson.unl.edu
 pcp142948pcs.unl.edu
-polisci.unl.edu
 27-chgbc.unl.edu
 pcp429963pcs.unl.edu
 red-d16n16.unl.edu
@@ -74153,7 +73737,6 @@ database-slave.unlcms.its-sys.unl.edu
 ca-pr-elp-010.unl.edu
 pcp417872pcs.unl.edu
 vctr-video1.unl.edu
-eas.unl.edu
 pcp079103pcs.unl.edu
 pcp347951pcs.unl.edu
 pcp417875pcs.unl.edu
@@ -74185,7 +73768,6 @@ cojmc-28-06.unl.edu
 cse-cpn-01.unl.edu
 dhxkwkm1.unl.edu
 cob345g-kf1.unl.edu
-glw.unl.edu
 df7cs4n1.unl.edu
 pcp078617pcs.unl.edu
 nebnewspapers-dev.unl.edu
@@ -74264,7 +73846,6 @@ kolab-prjctr.unl.edu
 isco-ups-pbx-conc.unl.edu
 pcp295530pcs.unl.edu
 its-mh-sign01.unl.edu
-www.sales.unl.edu
 cob-pancake.unl.edu
 asem-jsf.unl.edu
 pcp075602pcs.unl.edu
@@ -74272,7 +73853,6 @@ pcp088450pcs.unl.edu
 ncta-pos-cafe.unl.edu
 desktop-ljcubq9.unl.edu
 pcp385711pcs.unl.edu
-www.darwind2.unl.edu
 is-hardin.unl.edu
 libpub1211.unl.edu
 daedalus.unl.edu
@@ -74471,7 +74051,6 @@ pcp197862pcs.unl.edu
 pcp117163pcs.unl.edu
 hcc-pki-bro.unl.edu
 ath-har22.unl.edu
-lncluorg.unl.edu
 pcp142229pcs.unl.edu
 edmedia-abluestone.unl.edu
 libmac1501.unl.edu
@@ -74485,7 +74064,6 @@ pcp080085pcs.unl.edu
 rtr129-93-83.unl.edu
 nchc-bptalley.unl.edu
 plautzlabprinter371.unl.edu
-www.svo.unl.edu
 teac115-gstudent-olddell27.unl.edu
 cob201-gg2.unl.edu
 odysseyidrac.unl.edu
@@ -74537,7 +74115,6 @@ pcp419928pcs.unl.edu
 uhon-ld-surface.unl.edu
 its-681a16t9v72.unl.edu
 pcp420074pcs.unl.edu
-www.furnas.unl.edu
 bfbsc14112.unl.edu
 lw26-molr169s.unl.edu
 libcanonts.unl.edu
@@ -74606,7 +74183,6 @@ purdy.unl.edu
 desktop-9on7m21.unl.edu
 cba119ds3.unl.edu
 ath-mboehm-sdpg.unl.edu
-explorecenter.unl.edu
 pcp145269pcs.unl.edu
 aah-photolab01.unl.edu
 lw1131-bch113.unl.edu
@@ -74729,7 +74305,6 @@ pcp429013pcs.unl.edu
 ath-medbdsc02.unl.edu
 pcp347875pcs.unl.edu
 bse-canon3225a.unl.edu
-wsdecidenow.unl.edu
 lied-a4699.unl.edu
 al288xp.unl.edu
 lw1142-oldh841.unl.edu
@@ -75088,7 +74663,6 @@ agr-df2s8fz1.unl.edu
 its-arh-pc17.unl.edu
 purc1054.unl.edu
 laptop-oia9lmcr.unl.edu
-dundy.unl.edu
 pcp137777pcs.unl.edu
 vbs-adminassoc.unl.edu
 ctxvmburnett55.unl.edu
@@ -75118,7 +74692,6 @@ ath-kpflt.unl.edu
 pcp194581pcs.unl.edu
 pcp143947pcs.unl.edu
 lw1142-ross128.unl.edu
-www.platte.unl.edu
 law-libbizhub250.unl.edu
 cive-bdvorak2.unl.edu
 its-681ac6rmv72.unl.edu

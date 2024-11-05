@@ -365,7 +365,6 @@ cse-virtru.production.mgmt-prod-blue.virtru.com
 litmus.develop-blue.virtru.com
 argocd.staging-green.virtru.com
 dockerhub-eas-eventsource-svc.mgmt.virtru.com
-*.secure.develop.virtru.com
 tandemhr.secure.virtru.com
 theworksitegroup.secure.virtru.com
 utah.secure.virtru.com
@@ -380,7 +379,6 @@ e.virtru.com
 api-gcp.virtru.com
 static-gcp.virtru.com
 static-aws.virtru.com
-www.virtru.com
 keycloak-sjohns-test.dsp-dev-green.virtru.com
 tagging-pdp-sjohns-test.dsp-dev-green.virtru.com
 platform-sjohns-test.dsp-dev-green.virtru.com

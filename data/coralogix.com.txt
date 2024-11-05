@@ -75,7 +75,6 @@ test.coralogix.com
 jfrog.coralogix.com
 ap3-aws-ap-southeast-3.coralogix.com
 private.gr-aws-eu-west-1.coralogix.com
-www.coralogix.com
 cx234.coralogix.com
 app.dev02.coralogix.com
 simpplr-prod-us.app.cx498.coralogix.com
@@ -95,13 +94,6 @@ cx234-aws-us-west-2.coralogix.com
 stage.coralogix.com
 ap3.coralogix.com
 signup.coralogix.com
-*.ap3.coralogix.com
-*.coralogix.com
-*.cx498.coralogix.com
-*.eu2.coralogix.com
-*.gr.coralogix.com
-*.app.eu2.coralogix.com
-*.private.eu2.coralogix.com
 pumaglobal.coralogix.com
 datorama-dev.coralogix.com
 poc-h2o-eu.coralogix.com
@@ -646,7 +638,6 @@ dexcel.coralogix.com
 david.coralogix.com
 monkeyfit-api-prod_4889.coralogix.com
 raybansunglassesquotes.coralogix.com
-www.stg.coralogix.com
 sparkbeyond.coralogix.com
 18xx.coralogix.com
 melio.coralogix.com

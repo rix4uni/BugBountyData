@@ -1,7 +1,5 @@
-www.motorolasolutions.com
 devportal.cloud.motorolasolutions.com
 portal.cloud.motorolasolutions.com
-*.motorolasolutions.com
 licensing.motorolasolutions.com
 appstatus.motorolasolutions.com
 austin-cwiprod.motorolasolutions.com
@@ -49,7 +47,7 @@ blue.smartconnect-fed-stage.motorolasolutions.com
 byod.motorolasolutions.com
 learning.motorolasolutions.com
 mgln.motorolasolutions.com
-www.bos-einkaufsportal.motorolasolutions.com
+bos-einkaufsportal.motorolasolutions.com
 shop.motorolasolutions.com
 grafana-usgov.videomanager.ex.motorolasolutions.com
 hpalm9.motorolasolutions.com
@@ -186,7 +184,7 @@ vme.motorolasolutions.com
 china-cdn.xml.motorolasolutions.com
 seattle-csrprodcwi.motorolasolutions.com
 vlglakemre.videomanager.ex.motorolasolutions.com
-www.appstore.motorolasolutions.com
+appstore.motorolasolutions.com
 adminapi-usva.fed.radiocentral.motorolasolutions.com
 fps.radiocentral.motorolasolutions.com
 mail01.rm.motorolasolutions.com
@@ -372,7 +370,7 @@ hpalm4.motorolasolutions.com
 api.qa.servicecentral.motorolasolutions.com
 gfebssit3.motorolasolutions.com
 hpalm.motorolasolutions.com
-www.cirruscentral.motorolasolutions.com
+cirruscentral.motorolasolutions.com
 aerial.motorolasolutions.com
 nodnett.motorolasolutions.com
 seattle-cwiprod.motorolasolutions.com
@@ -387,7 +385,6 @@ hpalm6.motorolasolutions.com
 mobileota-ha09.p1f.motorolasolutions.com
 training-videoandaccess.motorolasolutions.com
 mycname.gcxn76-dnszone.pi.cloudsoftwarehub.motorolasolutions.com
-www.rewards.motorolasolutions.com
 waveptx1.motorolasolutions.com
 ingress.radiocentral.motorolasolutions.com
 mlmsti14app01.motorolasolutions.com
@@ -411,7 +408,7 @@ schohrpd.videomanager.ex.motorolasolutions.com
 israel-vpn.motorolasolutions.com
 access.motorolasolutions.com
 trade-ins.motorolasolutions.com
-www.fed-usar.cirruscentral.motorolasolutions.com
+fed-usar.cirruscentral.motorolasolutions.com
 mlmsti12dev01.motorolasolutions.com
 partnerhub-sit.motorolasolutions.com
 partners.motorolasolutions.com
@@ -469,7 +466,6 @@ gfagileuat.motorolasolutions.com
 cirruscentral.dev.motorolasolutions.com
 mlmsti14web01.motorolasolutions.com
 shop-business-dev1.motorolasolutions.com
-cirruscentral.motorolasolutions.com
 smartconnect-usgov.motorolasolutions.com
 artifactory.motorolasolutions.com
 adminapi-qa.radiocentral.motorolasolutions.com
@@ -494,7 +490,6 @@ mycontracts.motorolasolutions.com
 shop-business-test3.motorolasolutions.com
 idpapi.motorolasolutions.com
 docsurvey.motorolasolutions.com
-bos-einkaufsportal.motorolasolutions.com
 ccw.motorolasolutions.com
 hrqa.motorolasolutions.com
 adminportal-usva.fed-stage.radiocentral.motorolasolutions.com
@@ -526,7 +521,7 @@ cningress-usva.fed-stage.radiocentral.motorolasolutions.com
 mlmstiprod01.motorolasolutions.com
 shipping-test.motorolasolutions.com
 gfcp.motorolasolutions.com
-www.ecmportal.motorolasolutions.com
+ecmportal.motorolasolutions.com
 cningress-dev-west.radiocentral.motorolasolutions.com
 mlmadmin.motorolasolutions.com
 bfx2.motorolasolutions.com
@@ -592,7 +587,6 @@ hpalm8.motorolasolutions.com
 uco.videomanager.ex.motorolasolutions.com
 calgary-cwipres.motorolasolutions.com
 canary.smartconnect-fed-stage.motorolasolutions.com
-fed-usar.cirruscentral.motorolasolutions.com
 mail.tradeinemea.motorolasolutions.com
 email001.motorolasolutions.com
 myview.motorolasolutions.com
@@ -690,7 +684,7 @@ qwmail.motorolasolutions.com
 iprotect.motorolasolutions.com
 image.mypreferences.motorolasolutions.com
 georgecty.videomanager.ex.motorolasolutions.com
-www.entryradio.motorolasolutions.com
+entryradio.motorolasolutions.com
 mlmsti14dev01.motorolasolutions.com
 newpd.videomanager.ex.motorolasolutions.com
 files.motorolasolutions.com
@@ -787,7 +781,6 @@ www-dev.radiocentral.motorolasolutions.com
 littlerock-csrprod.motorolasolutions.com
 email.motorolasolutions.com
 customerhub.motorolasolutions.com
-ecmportal.motorolasolutions.com
 mlmsti07dev01.motorolasolutions.com
 mobileota-perf5.isd.motorolasolutions.com
 lapd-dev.motorolasolutions.com
@@ -898,7 +891,7 @@ adminapi.fed.radiocentral.motorolasolutions.com
 lacr.motorolasolutions.com
 api.dev.servicecentral.motorolasolutions.com
 make.motorolasolutions.com
-.visit.www.motorolasolutions.com
+visit.www.motorolasolutions.com
 blue.smartconnect-fed-can.motorolasolutions.com
 hack.dev.cirruscentral.motorolasolutions.com
 idmdevtest.imw.motorolasolutions.com
@@ -916,12 +909,10 @@ hamilton.videomanager.ex.motorolasolutions.com
 mdb8.videomanager.exc.motorolasolutions.com
 msimgms.motorolasolutions.com
 nhpd.videomanager.ex.motorolasolutions.com
-www.ecmportaltest.motorolasolutions.com
 ap.motorolasolutions.com
 mlmstibvxweb01.motorolasolutions.com
 newsroom.motorolasolutions.com
 dsr-stage.cirruscentral.motorolasolutions.com
-entryradio.motorolasolutions.com
 oamprod.motorolasolutions.com
 r164.na.motorolasolutions.com
 radio.videomanager.exc.motorolasolutions.com

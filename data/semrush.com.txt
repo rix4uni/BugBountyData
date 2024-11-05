@@ -1,7 +1,6 @@
-*.semrush.com
-*.backend.semrush.com
-*.custom.semrush.com
-*.publicapi.semrush.com
+backend.semrush.com
+custom.semrush.com
+publicapi.semrush.com
 1.semrush.com
 10.72.104.128api.semrush.com
 10.72.104.128cdn.semrush.com
@@ -70,7 +69,6 @@ au.backend.semrush.com
 autoconfig.semrush.com
 autodiscover.semrush.com
 b.semrush.com
-backend.semrush.com
 backend-v3.bl.semrush.com
 backendbl.semrush.com
 backendv3.bl.semrush.com
@@ -174,7 +172,6 @@ crawler.semrush.com
 crm.semrush.com
 crt.semrush.com
 csp.semrush.com
-custom.semrush.com
 custom-api.semrush.com
 custom-rc-api.custom.semrush.com
 cz.backend.semrush.com
@@ -373,7 +370,6 @@ product.semrush.com
 promo.semrush.com
 proxy.semrush.com
 pt.semrush.com
-publicapi.semrush.com
 publicapi.bl.semrush.com
 publicapi.va.semrush.com
 puppeteer-runner-k8s.semrush.com
@@ -486,47 +482,14 @@ wow-score.semrush.com
 wp.semrush.com
 ww.semrush.com
 ww1.semrush.com
-www.semrush.com
 www-staging.semrush.com
 www-test.semrush.com
-www.217764.semrush.com
-www.api.semrush.com
-www.bill.semrush.com
-www.billing-proc.semrush.com
-www.bkp.semrush.com
-www.c.semrush.com
-www.de.semrush.com
-www.dee.semrush.com
-www.ds.semrush.com
-www.e.semrush.com
-www.email.semrush.com
-www.es.semrush.com
-www.fr.semrush.com
-www.itr.semrush.com
-www.ity.semrush.com
-www.landing.semrush.com
-www.landings.semrush.com
-www.m.semrush.com
-www.mail.semrush.com
-www.monitoring.semrush.com
-www.mx1.semrush.com
-www.ns1.semrush.com
-www.ns2.semrush.com
-www.ns3.semrush.com
-www.potato.semrush.com
-www.pr.semrush.com
-www.pt.semrush.com
-www.r.semrush.com
-www.rc.semrush.com
-www.ru.semrush.com
-www.s.semrush.com
-www.secure.semrush.com
-www.semrush.comwww.semrush.com
-www.sf.semrush.com
-www.smm.semrush.com
-www.ta.semrush.com
-www.welcome.semrush.com
-www.www.semrush.com
+dee.semrush.com
+rc.semrush.com
+s.semrush.com
+semrush.comwww.semrush.com
+welcome.semrush.com
+www.semrush.com
 www2.semrush.com
 x5jgzahs78teo55g.www.semrush.com
 yext-api-rc.custom.semrush.com
@@ -570,7 +533,6 @@ helityponeocovidevdealerwaress.portal.sa.semrush.com
 discovidev.1017sa.semrush.com
 ks-inventory-api.semrush.com
 discovidev-mx7.sa.semrush.com
-www.covid.semrush.com
 test-discovidev.sa.semrush.com
 neocovidev2.mx01.sa.semrush.com
 117.siteaudit.bot.semrush.com
@@ -1003,7 +965,7 @@ resume.semrush.com
 semrush.com-antiviruspre.semrush.com
 discovidev.sa.m.semrush.com
 siteaudit.bot.semrush.com
-www.covidexm.semrush.com
+covidexm.semrush.com
 mcovideo-bot8.semrush.com
 discovidev.samx0.semrush.com
 semrush-ns.covideo-bot8.semrush.com
@@ -1052,7 +1014,7 @@ mx01.quantu-mirrorschooplacestilityponeocovidev.sa.semrush.com
 saftp.semrush.com
 18.covideo-bot8.semrush.com
 cafemediscovid19mailin1.sa.semrush.com
-www.vaccineiq.semrush.com
+vaccineiq.semrush.com
 pop-neocovidev2.sa.semrush.com
 covidexmmx2.semrush.com
 neocovidev2.support.sa.semrush.com
@@ -1131,7 +1093,7 @@ semrush.covideo-bot8host.semrush.com
 semrush.covideo-bot8.web.semrush.com
 helityponeocovidevdealerwaress-secure.sa.semrush.com
 quantu-mirrorschooplacestilityponeocovidev-m.sa.semrush.com
-www.minecraft-virusz.limit.semrush.com
+minecraft-virusz.limit.semrush.com
 cafemediscovid19.app-sa.semrush.com
 helityponeocovidevdealerwaress.host.sa.semrush.com
 vendor.semrush.com
@@ -1139,7 +1101,7 @@ secure.discovidev.sa.semrush.com
 18-sa.semrush.com
 portal.discovidev.sa.semrush.com
 mailin1-discovidev.sa.semrush.com
-www.ebscovideo.semrush.com
+ebscovideo.semrush.com
 cafemediscovid19.owa.sa.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.www1sa.semrush.com
 covideo-bot8.mx01.semrush.com
@@ -1177,7 +1139,7 @@ quantu-mirrorschooplacestilityponeocovidev.ftp-sa.semrush.com
 pay.semrush.com
 helityponeocovidevdealerwaress.ns2-sa.semrush.com
 securesemrush.covideo-bot8.semrush.com
-www.antivirus2.semrush.com
+antivirus2.semrush.com
 cafemediscovid19.ns3-sa.semrush.com
 sa.host.semrush.com
 hancovina.trustpass.semrush.com
@@ -1338,7 +1300,6 @@ discovidev.sa.cloud.semrush.com
 smtpsemrush.covideo-bot8.semrush.com
 semrush.covideo-bot8-mx01.semrush.com
 quantu-mirrorschooplacestilityponeocovidevremote.sa.semrush.com
-welcome.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.sa-ns3.semrush.com
 test-quantu-mirrorschooplacestilityponeocovidev.sa.semrush.com
 semrush.covideo-bot8-shop.semrush.com
@@ -1349,7 +1310,6 @@ cafemediscovid19.remotesa.semrush.com
 cafemediscovid19-web.sa.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.ns3.sa.semrush.com
 discovidev.sa-ns3.semrush.com
-www.en.semrush.com
 semrush.covideo-bot8app.semrush.com
 neocovidev2.remote-sa.semrush.com
 covideo-bot8-bbs.semrush.com
@@ -1392,7 +1352,6 @@ neocovidev2-ns1.sa.semrush.com
 bl.bot.semrush.com
 covideo-bot8-mx7.semrush.com
 helityponeocovidevdealerwaress.samx.semrush.com
-antivirus2.semrush.com
 sans2.semrush.com
 covidexmblog.semrush.com
 semrush-webmail.covideo-bot8.semrush.com
@@ -1409,7 +1368,6 @@ cafemediscovid19remote.sa.semrush.com
 saserver.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.mx7sa.semrush.com
 helityponeocovidevdealerwaress.saowa.semrush.com
-www.moneocovid19.sa.semrush.com
 neocovidev2-host.sa.semrush.com
 helityponeocovidevdealerwaress-mailin2.sa.semrush.com
 19sa.semrush.com
@@ -1438,7 +1396,7 @@ my.semrush.com
 cafemediscovid19.remote.sa.semrush.com
 forum.sa.semrush.com
 semrush.mx0.covideo-bot8.semrush.com
-www.ecommerceuncovered.dab-a1.semrush.com
+ecommerceuncovered.dab-a1.semrush.com
 vpn-helityponeocovidevdealerwaress.sa.semrush.com
 18.sa.semrush.com
 emailsa.semrush.com
@@ -1511,7 +1469,6 @@ discovidev.sa-mailin1.semrush.com
 forum.semrush.covideo-bot8.semrush.com
 cafemediscovid19.devsa.semrush.com
 semrush.mx01-covideo-bot8.semrush.com
-vaccineiq.semrush.com
 helityponeocovidevdealerwaress.saremote.semrush.com
 web.discovidev.sa.semrush.com
 discovidevvpn.sa.semrush.com
@@ -1569,7 +1526,7 @@ saapp.semrush.com
 covideo-bot8m.semrush.com
 mx0.covidexm.semrush.com
 web-cafemediscovid19.sa.semrush.com
-www.office5.semrush.com
+office5.semrush.com
 dns2.discovidev.sa.semrush.com
 famebiotech.semrush.com
 eset-nod32-antivirus.th.semrush.com
@@ -1670,7 +1627,6 @@ quantu-mirrorschooplacestilityponeocovidev-mail.sa.semrush.com
 cafemediscovid19.wwwsa.semrush.com
 helityponeocovidevdealerwaress.mailin2-sa.semrush.com
 k3.semrush.com
-www.sa.semrush.com
 semrush.smtp-covideo-bot8.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.sa-dns1.semrush.com
 mailhelityponeocovidevdealerwaress.sa.semrush.com
@@ -1750,7 +1706,6 @@ helityponeocovidevdealerwaressmailserver.sa.semrush.com
 ncov.html5.semrush.com
 coronavirus.semrush.com
 helityponeocovidevdealerwaressns.sa.semrush.com
-www.zeroviruses.ta.semrush.com
 mx01.helityponeocovidevdealerwaress.sa.semrush.com
 covidexm.web.semrush.com
 quantu-mirrorschooplacestilityponeocovidev-mailin1.sa.semrush.com
@@ -1778,7 +1733,7 @@ discovidev.sa.web.semrush.com
 mailneocovidev2.sa.semrush.com
 e-mobile.m.semrush.com
 helityponeocovidevdealerwaress-ns4.sa.semrush.com
-www.4.git.tncovvlzzzlbstl.semrush.com
+4.git.tncovvlzzzlbstl.semrush.com
 loncov7.pandora.semrush.com
 cafemediscovid19.sawebmail.semrush.com
 bloggingcontest.semrush.com
@@ -1827,7 +1782,7 @@ blog.neocovidev2.sa.semrush.com
 pc72-112.semrush.com
 cafemediscovid19.test.sa.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.portal-sa.semrush.com
-www.vaccines.oauth-new.semrush.com
+vaccines.oauth-new.semrush.com
 helityponeocovidevdealerwaress.ns1.sa.semrush.com
 m-quantu-mirrorschooplacestilityponeocovidev.sa.semrush.com
 discovidev.dns1sa.semrush.com
@@ -2084,11 +2039,10 @@ sa.m.semrush.com
 covideo-bot8.bbs.semrush.com
 neocovidev2-support.sa.semrush.com
 samx1.semrush.com
-dee.semrush.com
 cafemediscovid19-mx1.sa.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.dns2.sa.semrush.com
 portal-semrush.covideo-bot8.semrush.com
-www.covid.mx1.semrush.com
+covid.mx1.semrush.com
 18-covidexm.semrush.com
 helityponeocovidevdealerwaress-host.sa.semrush.com
 qadiscovidev2.sa.semrush.com
@@ -2417,7 +2371,6 @@ helityponeocovidevdealerwaress.smtp.sa.semrush.com
 mx.helityponeocovidevdealerwaress.sa.semrush.com
 helityponeocovidevdealerwaressserver.sa.semrush.com
 mx7-quantu-mirrorschooplacestilityponeocovidev.sa.semrush.com
-s.semrush.com
 cafemediscovid19ftp.sa.semrush.com
 sa.mailin2.semrush.com
 semrush-mx01.covideo-bot8.semrush.com
@@ -2473,7 +2426,6 @@ discovidev.sa-mail1.semrush.com
 apphelityponeocovidevdealerwaress.sa.semrush.com
 cafemediscovid19.blog.sa.semrush.com
 ns1sa.semrush.com
-covid.mx1.semrush.com
 semrush.covideo-bot8mail1.semrush.com
 sa.blog.semrush.com
 discovidev.sa-support.semrush.com
@@ -2597,7 +2549,6 @@ helityponeocovidevdealerwaress.2019-sa.semrush.com
 neocovidev2.sadev.semrush.com
 cafemediscovid19.sa.dns1.semrush.com
 sa.2018.semrush.com
-www.quantu-mirrorschooplacestilityponeocovidev.sa.semrush.com
 dev-sa.semrush.com
 helityponeocovidevdealerwaress.sa-pop.semrush.com
 cafemediscovid19.mx01sa.semrush.com
@@ -2610,7 +2561,6 @@ hosthelityponeocovidevdealerwaress.sa.semrush.com
 dns2.covideo-bot8.semrush.com
 semrush-cloud.covideo-bot8.semrush.com
 mx0.neocovidev2.sa.semrush.com
-covidexm.semrush.com
 dev-helityponeocovidevdealerwaress.sa.semrush.com
 discovidevmailin2.sa.semrush.com
 pop3.semrush.com
@@ -2719,9 +2669,7 @@ mx1.covideo-bot8.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.bbs.sa.semrush.com
 neocovidev2.sans4.semrush.com
 cim-api-dev.semrush.com
-vaccines.oauth-new.semrush.com
 tools.semrush.com
-ecommerceuncovered.dab-a1.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.sa-bbs.semrush.com
 testcovidexm.semrush.com
 semrush-2019.covideo-bot8.semrush.com
@@ -2738,7 +2686,6 @@ dns1-cafemediscovid19.sa.semrush.com
 samx7.semrush.com
 neocovidev2.sa-www1.semrush.com
 semrush.covideo-bot8-ns1.semrush.com
-ebscovideo.semrush.com
 elektroodle.semrush.com
 neocovidev2.web.sa.semrush.com
 vpndiscovidev.sa.semrush.com
@@ -2797,7 +2744,6 @@ semrush.mailserver-covideo-bot8.semrush.com
 secure.covideo-bot8.semrush.com
 mailin2-covideo-bot8.semrush.com
 sa.email.semrush.com
-www.zeroviruses.oauth-new.semrush.com
 discovidev-mailin2.sa.semrush.com
 1017sa.semrush.com
 quantu-mirrorschooplacestilityponeocovidev.pop-sa.semrush.com

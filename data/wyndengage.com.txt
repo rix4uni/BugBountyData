@@ -61,10 +61,8 @@ api.oktaqacentral.wyndengage.com
 eshop.comtessedubarry.wyndengage.com
 nervous-ganguly.wyndengage.com
 gifted-fermat.wyndengage.com
-www.redis.avvcentral.wyndengage.com
-www.backoffice.avvcentral.wyndengage.com
-phpmyadmin.avvcentral.wyndengage.com
 redis.avvcentral.wyndengage.com
+phpmyadmin.avvcentral.wyndengage.com
 api.avvcentral.wyndengage.com
 smtp.avvcentral.wyndengage.com
 apio2c.o2ccentral.wyndengage.com
@@ -75,9 +73,9 @@ api.o2ccentral.wyndengage.com
 natmock.o2ccentral.wyndengage.com
 rabbitmq.o2ccentral.wyndengage.com
 redis.o2ccentral.wyndengage.com
-www.smtp.lexcentral.wyndengage.com
-www.backoffice.lexcentral.wyndengage.com
-www.phpmyadmin.lexcentral.wyndengage.com
+smtp.lexcentral.wyndengage.com
+backoffice.lexcentral.wyndengage.com
+phpmyadmin.lexcentral.wyndengage.com
 laughing-brahmagupta.wyndengage.com
 phpmyadmin.maxcentral.wyndengage.com
 ecstatic-saha.wyndengage.com
@@ -88,7 +86,7 @@ elated-benz.wyndengage.com
 tender-murdock.wyndengage.com
 focused-burnell.wyndengage.com
 redis.mobileposcentral.wyndengage.com
-www.demo.wyndengage.com
+demo.wyndengage.com
 dev.wyndengage.com
 api.orange.wyndengage.com
 backoffice.developcentral.wyndengage.com
@@ -121,4 +119,4 @@ redis.yassinecentral.wyndengage.com
 redis.pwbcentral.wyndengage.com
 database.bookingcentral.wyndengage.com
 database.pwbcentral2.wyndengage.com
-www.perso.wyndengage.com
+perso.wyndengage.com

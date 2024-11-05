@@ -1,4 +1,3 @@
-www.nginx.com
 loki.detools.testenv.ctrl.nginx.com
 pr-1620-dev2.ctrl.nginx.com
 bb.nginx.com
@@ -82,7 +81,7 @@ openvpn.ctrl.nginx.com
 piwik.tools.wp.nginx.com
 receiver.ampify.nginx.com
 packaging-reports.nginx.com
-www.waf.nginx.com
+waf.nginx.com
 ns2.nginx.com
 london.wp.nginx.com
 qa-live.naas.nginx.com
@@ -90,7 +89,6 @@ luca-demo.ctrl.nginx.com
 rpm.ctrl.nginx.com
 pubgw-ip4.nginx.com
 moin.nginx.com
-waf.nginx.com
 proxy.nmsaas.nginx.com
 staging.nms.nginx.com
 docs.wp.nginx.com
@@ -101,7 +99,7 @@ pkgs.nginx.com
 eu-central-1.nmsaas.nginx.com
 be-staging.wp.nginx.com
 staging.nginx.com
-www.cdn.wp.nginx.com
+cdn.wp.nginx.com
 services.nginx.com
 blog.nginx.com
 crt.nms.nginx.com
@@ -126,8 +124,7 @@ openvpn1.ctrl.nginx.com
 pages.nginx.com
 pr-1625-dev2.ctrl.nginx.com
 staging.wp.nginx.com
-www.dev.wp.nginx.com
-www.wp.nginx.com
+dev.wp.nginx.com
 chris-le-dev2.ctrl.nginx.com
 docs-dev.wp.nginx.com
 origin-www.wp.nginx.com
@@ -140,7 +137,6 @@ mwl.nginx.com
 ns3.nginx.com
 v01.nginx.com
 us-west-2.nmsaas.nginx.com
-cdn.wp.nginx.com
 docs-staging.wp.nginx.com
 interact.nginx.com
 pr-1622-dev2.ctrl.nginx.com
@@ -168,13 +164,10 @@ pr-1621-dev2.ctrl.nginx.com
 receiver-grpc.amplify.nginx.com
 wiki.wp.nginx.com
 vault.ctrl.nginx.com
-www.assets.wp.nginx.com
 ctrdev-3928-tenants-to-le-dev2.ctrl.nginx.com
-dev.wp.nginx.com
 hello.nginx.com
 registry.ctrl.nginx.com
-www.staging.nginx.com
-www.www.nginx.com
+www.nginx.com
 apps.lab.okd.nginx.com
 cs.nginx.com
 testingleiss.ctrl.nginx.com

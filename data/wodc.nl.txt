@@ -1,4 +1,3 @@
-www.wodc.nl
 feeds.english.kennisbank.wodc.nl
 connect.wodc.nl
 opendata.english.kennisbank.wodc.nl
@@ -8,8 +7,7 @@ opendata.wodc.nl
 magazinesintern.wodc.nl
 magazines.kennisbank.wodc.nl
 opendata.english.wodc.nl
-www.magazines.wodc.nl
-www.portal-eji.wodc.nl
+portal-eji.wodc.nl
 magazines.english.wodc.nl
 english.wodc.nl
 magazinesintern.english.kennisbank.wodc.nl
@@ -23,7 +21,6 @@ magazinesintern.english.wodc.nl
 english.kennisbank.wodc.nl
 repository.wodc.nl
 opendata.kennisbank.wodc.nl
-.english.wodc.nl
 w.wodc.nl
 feeds.a-english.wodc.nl
 ftp.wodc.nl
@@ -106,5 +103,4 @@ authsmtp.wodc.nl
 vmail.wodc.nl
 barracuda.wodc.nl
 smtp.wodc.nl
-www.english.wodc.nl
 smtp3.wodc.nl

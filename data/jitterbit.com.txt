@@ -1,4 +1,3 @@
-*.gitops.jitterbit.com
 gitops.jitterbit.com
 docs-source.jitterbit.com
 docs.jitterbit.com
@@ -26,7 +25,6 @@ apps.qa-red.lcap.jitterbit.com
 dev5.jitterbit.com
 apps.qa-blue.lcap.jitterbit.com
 join.jitterbit.com
-www.jitterbit.com
 cwww.jitterbit.com
 cloud-studio-recipes.jitterbit.com
 reposit.jitterbit.com

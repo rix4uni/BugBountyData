@@ -1,5 +1,4 @@
 this.storage.root.ch
-www.root.ch
 xmldoc.root.ch
 tiles.root.ch
 champaign.root.ch
@@ -63,7 +62,7 @@ earth.scenetree.root.ch
 asp.root.ch
 subject.root.ch
 _browser.root.ch
-www.web.root.ch
+web.root.ch
 vfs.root.ch
 marc.root.ch
 tree.root.ch
@@ -99,7 +98,6 @@ sckmumail.root.ch
 urltree.root.ch
 uct.root.ch
 trace.root.ch
-web.root.ch
 cipp.root.ch
 aspredirect.root.ch
 stree.root.ch

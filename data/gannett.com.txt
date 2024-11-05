@@ -161,7 +161,7 @@ host-202.0.54.159.gannett.com
 host-204.0.54.159.gannett.com
 sanberna.gannett.com
 host-217.1.54.159.gannett.com
-www.webmail.east.gannett.com
+webmail.east.gannett.com
 host-4.1.54.159.gannett.com
 deliveryopportunities.gannett.com
 host-136.1.54.159.gannett.com
@@ -255,7 +255,7 @@ host-218.0.54.159.gannett.com
 digitalcreative.gannett.com
 jacksonsun.gns.gannett.com
 mia.gannett.com
-www.ashevill.gannett.com
+ashevill.gannett.com
 host-187.1.54.159.gannett.com
 primary.gdc.dc5.gannett.com
 aws.gannett.com
@@ -265,7 +265,7 @@ host-214.1.54.159.gannett.com
 help.gannett.com
 host-20.0.54.159.gannett.com
 22107703.854.6000www.gannett.com
-www.ganweb01.gannett.com
+ganweb01.gannett.com
 host-137.1.54.159.gannett.com
 host-123.0.54.159.gannett.com
 host-218.1.54.159.gannett.com
@@ -283,7 +283,6 @@ us.ad.gannett.com
 host-43.0.54.159.gannett.com
 dc5.gannett.com
 host-8.0.54.159.gannett.com
-www.gannett.com
 host-21.0.54.159.gannett.com
 w.ganweb01.gannett.com
 host-222.1.54.159.gannett.com
@@ -318,7 +317,7 @@ nimbus.gannett.com
 host-223.228.54.159.gannett.com
 host-108.10.54.159.gannett.com
 host-36.0.54.159.gannett.com
-www.host-27.25.8.167.gannett.com
+host-27.25.8.167.gannett.com
 moc2-vpnasa01.gannett.com
 host-16.0.54.159.gannett.com
 fmy.gannett.com
@@ -393,9 +392,8 @@ pr111904.htm.gannett.com
 host-253.1.54.159.gannett.com
 host-90.0.54.159.gannett.com
 enigma.web.pni.us.ad.gannett.com
-www.host-10.239.54.159.gannett.com
 host-197.0.54.159.gannett.com
-www.ybr.gannett.com
+ybr.gannett.com
 host-37.1.54.159.gannett.com
 host-33.243.54.159.gannett.com
 host-152.10.54.159.gannett.com
@@ -413,7 +411,7 @@ chat.gannett.com
 381nwww.gannett.com
 storynext.gannett.com
 host-249.1.54.159.gannett.com
-www.hewitt.gannett.com
+hewitt.gannett.com
 moc-vpnasa01.gannett.com
 host-136.10.54.159.gannett.com
 marion.gannett.com
@@ -576,7 +574,7 @@ host-38.0.54.159.gannett.com
 host-49.1.54.159.gannett.com
 downchat.gannett.com
 cco.gannett.com
-www.instant.gannett.com
+instant.gannett.com
 host-54.242.54.159.gannett.com
 host-152.0.54.159.gannett.com
 ia.gannett.com
@@ -688,7 +686,6 @@ host-17.0.54.159.gannett.com
 host-159.0.54.159.gannett.com
 host-54.1.54.159.gannett.com
 host-191.1.54.159.gannett.com
-ganweb01.gannett.com
 host-170.1.54.159.gannett.com
 host-108.1.54.159.gannett.com
 host-98.1.54.159.gannett.com
@@ -700,7 +697,6 @@ ns3.gannett.com
 host-36.242.54.159.gannett.com
 host-245.1.54.159.gannett.com
 host-242.0.54.159.gannett.com
-host-27.25.8.167.gannett.com
 californianonline.gns.gannett.com
 host-81.1.54.159.gannett.com
 host-9.1.54.159.gannett.com
@@ -821,8 +817,6 @@ apvendor.gannett.com
 okta.gannett.com
 srvibcm.gannett.com
 webapps.us.ad.gannett.com
-instant.gannett.com
-www.ganweb02.gannett.com
 host-97.138.54.159.gannett.com
 mg2-api-kiosk.gannett.com
 betasubscription-self-serve.gannett.com
@@ -3249,7 +3243,6 @@ host-244.7.8.167.gannett.com
 host-94.40.54.159.gannett.com
 host-214.123.54.159.gannett.com
 host-235.243.8.167.gannett.com
-www.investors.gannett.com
 host-36.139.54.159.gannett.com
 host-83.62.8.167.gannett.com
 host-195.4.54.159.gannett.com
@@ -6529,7 +6522,7 @@ host-173.250.8.167.gannett.com
 host-136.34.8.167.gannett.com
 host-169.105.54.159.gannett.com
 host-200.134.8.167.gannett.com
-www.gannetthg.dmz.gannett.com
+gannetthg.dmz.gannett.com
 host-246.248.8.167.gannett.com
 host-20.98.8.167.gannett.com
 host-114.234.54.159.gannett.com
@@ -10204,7 +10197,6 @@ host-187.31.8.167.gannett.com
 host-240.238.54.159.gannett.com
 host-195.83.54.159.gannett.com
 host-254.101.8.167.gannett.com
-webmail.east.gannett.com
 host-48.125.8.167.gannett.com
 host-221.35.54.159.gannett.com
 host-3.141.54.159.gannett.com
@@ -21926,7 +21918,7 @@ host-121.221.8.167.gannett.com
 host-203.126.8.167.gannett.com
 host-38.117.8.167.gannett.com
 host-184.47.54.159.gannett.com
-www.captiveportal-login.gannett.com
+captiveportal-login.gannett.com
 host-165.146.54.159.gannett.com
 host-10.25.8.167.gannett.com
 host-28.182.54.159.gannett.com
@@ -24243,7 +24235,6 @@ host-158.213.8.167.gannett.com
 host-18.174.54.159.gannett.com
 host-108.205.8.167.gannett.com
 host-249.229.54.159.gannett.com
-www.giadcwiki.gannett.com
 host-115.129.8.167.gannett.com
 host-3.49.54.159.gannett.com
 host-209.219.8.167.gannett.com
@@ -31896,7 +31887,7 @@ host-127.1.54.159.gannett.com
 host-86.5.8.167.gannett.com
 host-87.87.8.167.gannett.com
 host-172.17.54.159.gannett.com
-www.ent-mocapibi01.us.ad.gannett.com
+ent-mocapibi01.us.ad.gannett.com
 host-69.58.8.167.gannett.com
 host-138.48.8.167.gannett.com
 host-215.84.8.167.gannett.com
@@ -39745,7 +39736,7 @@ host-153.204.8.167.gannett.com
 host-140.78.54.159.gannett.com
 host-54.79.54.159.gannett.com
 host-15.69.8.167.gannett.com
-www.nutritiondimension.dmz.gannett.com
+nutritiondimension.dmz.gannett.com
 host-181.247.8.167.gannett.com
 host-100.146.54.159.gannett.com
 host-218.35.8.167.gannett.com
@@ -44732,7 +44723,6 @@ host-110.254.8.167.gannett.com
 host-97.154.54.159.gannett.com
 host-73.151.8.167.gannett.com
 host-73.196.54.159.gannett.com
-www.apvendor.gannett.com
 host-145.163.8.167.gannett.com
 host-146.125.54.159.gannett.com
 host-67.215.8.167.gannett.com
@@ -45106,7 +45096,6 @@ host-142.119.54.159.gannett.com
 host-255.114.54.159.gannett.com
 host-40.173.54.159.gannett.com
 host-193.97.54.159.gannett.com
-www.okta.gannett.com
 host-224.124.54.159.gannett.com
 host-21.5.54.159.gannett.com
 host-54.104.8.167.gannett.com
@@ -59066,7 +59055,7 @@ host-224.223.54.159.gannett.com
 host-250-228.nyropro.rocheste49.96.8.167.gannett.com
 host-245.137.54.159.gannett.com
 host-30.168.8.167.gannett.com
-www.ghgmedia.dmz.gannett.com
+ghgmedia.dmz.gannett.com
 host-168.8.8.167.gannett.com
 host-212.133.8.167.gannett.com
 host-126.239.54.159.gannett.com
@@ -73486,7 +73475,6 @@ host-53.168.8.167.gannett.com
 host-180.230.54.159.gannett.com
 host-240.66.54.159.gannett.com
 host-251.126.8.167.gannett.com
-www.campaigninsights.gannett.com
 host-28.14.8.167.gannett.com
 host-168.30.54.159.gannett.com
 host-214.95.54.159.gannett.com
@@ -87215,7 +87203,6 @@ host-118.91.8.167.gannett.com
 host-31.247.8.167.gannett.com
 host-72.144.54.159.gannett.com
 host-137.39.54.159.gannett.com
-ent-mocapibi01.us.ad.gannett.com
 host-7.189.54.159.gannett.com
 host-145.58.54.159.gannett.com
 host-186.8.8.167.gannett.com
@@ -89707,7 +89694,6 @@ host-9.27.54.159.gannett.com
 host-19.201.54.159.gannett.com
 host-6.65.8.167.gannett.com
 host-238.164.8.167.gannett.com
-www.jamf.us.ad.gannett.com
 host-84.71.8.167.gannett.com
 host-72.8.8.167.gannett.com
 host-57.217.8.167.gannett.com
@@ -95445,7 +95431,6 @@ host-133.214.8.167.gannett.com
 host-245.26.8.167.gannett.com
 host-133.59.54.159.gannett.com
 host-246.134.54.159.gannett.com
-www.ent-mocwbed02.us.ad.gannett.com
 host-80.125.8.167.gannett.com
 host-186.101.54.159.gannett.com
 host-76.20.8.167.gannett.com
@@ -96515,7 +96500,6 @@ host-177.2217.gannett.com
 host-5.124.8.167.gannett.com
 host-212.198.54.159.gannett.com
 host-132.61.54.159.gannett.com
-www.idpdmz.gannett.com
 host-66.40.54.159.gannett.com
 host-99.6.8.167.gannett.com
 host-147.16.8.167.gannett.com
@@ -97200,7 +97184,6 @@ host-92.107.54.159.gannett.com
 host-50.197.8.167.gannett.com
 host-31.189.8.167.gannett.com
 host-114.240.8.167.gannett.com
-www.ent-mocqaedms06.us.ad.gannett.com
 host-88.204.54.159.gannett.com
 host-230.69.54.159.gannett.com
 host-21.154.8.167.gannett.com
@@ -102373,7 +102356,6 @@ host-26.137.54.159.gannett.com
 host-148.63.54.159.gannett.com
 host-114.105.54.159.gannett.com
 host-72.23.54.159.gannett.com
-captiveportal-login.gannett.com
 host-228.186.8.167.gannett.com
 host-83.2.54.159.gannett.com
 host-8.149.54.159.gannett.com
@@ -105183,7 +105165,7 @@ host-140.146.8.167.gannett.com
 host-190.88.8.167.gannett.com
 host-120.9.8.167.gannett.com
 host-224.82.54.159.gannett.com
-www.nursingspectrum.dmz.gannett.com
+nursingspectrum.dmz.gannett.com
 host-38.123.54.159.gannett.com
 host-217.203.8.167.gannett.com
 host-65.98.54.159.gannett.com

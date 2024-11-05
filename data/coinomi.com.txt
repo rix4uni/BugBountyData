@@ -3,7 +3,6 @@ cdn.coinomi.com
 firebase.coinomi.com
 configuration.coinomi.com
 splitter.coinomi.com
-www.coinomi.com
 ios-beta.coinomi.com
 buy-sx.coinomi.com
 services.coinomi.com
@@ -13,6 +12,5 @@ storage.coinomi.com
 i18n.coinomi.com
 binaries.coinomi.com
 shop.coinomi.com
-*.coinomi.com
 status.coinomi.com
 icons.coinomi.com

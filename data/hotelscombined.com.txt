@@ -130,8 +130,8 @@ branch2.affiliates.hotelscombined.com
 descriptions.hotelscombined.com
 clicktale.hotelscombined.com
 owncloud.hotelscombined.com
-www.compare.hotelscombined.com
-www.secure.hotelscombined.com
+compare.hotelscombined.com
+secure.hotelscombined.com
 ww.hotelscombined.com
 trk.hotelscombined.com
 11.click.compare.hotelscombined.com
@@ -203,7 +203,6 @@ legacy-affiliates.hotelscombined.com
 dev2.hotelscombined.com
 static.hotelscombined.com
 pubprod.hotelscombined.com
-secure.hotelscombined.com
 10.trk.mgs.hotelscombined.com
 click.notification.hotelscombined.com
 o4.sg.hotelscombined.com
@@ -234,7 +233,6 @@ ssasaction.hotelscombined.com
 smtp01.hotelscombined.com
 14780www.hotelscombined.com
 yourcompany.hotelscombined.com
-compare.hotelscombined.com
 o2.sg.hotelscombined.com
 o3.sg.hotelscombined.com
 32.trk.mgs.hotelscombined.com
@@ -318,8 +316,7 @@ mama2016.hotelscombined.com
 48.click.notification.hotelscombined.com
 dev.hotelscombined.com
 dev.cmi-external.hotelscombined.com
-www.blog.hotelscombined.com
-www.search.hotelscombined.com
+blog.hotelscombined.com
 reporting2012.hotelscombined.com
 bojan3.cmi.hotelscombined.com
 octopus.hotelscombined.com
@@ -337,7 +334,6 @@ aperol-staging.affiliates.hotelscombined.com
 earnextramiles.hotelscombined.com
 growthbook.hotelscombined.com
 awsaffiliates.hotelscombined.com
-blog.hotelscombined.com
 o1.sg.hotelscombined.com
 reports-aws.hotelscombined.com
 www03.pubprod.hotelscombined.com
@@ -368,7 +364,6 @@ staging.hotelscombined.com
 www2.hotelscombined.com
 haproxy-dev.hotelscombined.com
 46.click.compare.hotelscombined.com
-www.hotelscombined.com
 42.trk.mgs.hotelscombined.com
 mail.hotelscombined.com
 dev.affiliates.hotelscombined.com

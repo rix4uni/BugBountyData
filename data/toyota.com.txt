@@ -24,15 +24,10 @@ finance-profile.dev.dcps.toyota.com
 dev.api.vls-nonprod.cloud.toyota.com
 avi-sprd-cert-renew.tfs.toyota.com
 amrd.toyota.com
-*.amrd.toyota.com
 mcs.toyota.com
 franchise.dev.dealer.toyota.com
 franchise.test.dealer.toyota.com
-*.franchise.dev.dealer.toyota.com
-*.franchise.test.dealer.toyota.com
 dev.dealer.toyota.com
-*.dev.dealer.toyota.com
-*.test.dealer.toyota.com
 test.dealer.toyota.com
 social.dev.customer.c360.toyota.com
 svl-proxy-api.vls-prod.cloud.toyota.com
@@ -110,7 +105,6 @@ uat.cat.quality1.toyota.com
 one.vdm.cubedev.toyota.com
 docs.hm.cube.toyota.com
 wfc-archival-prd.toyota.com
-*.wfc-archival-prd.toyota.com
 app.kivw-dev.cloud.toyota.com
 ldap-api-svc.qa.eig-hybrid.toyota.com
 test.explore.nonprod.engage.toyota.com
@@ -123,10 +117,8 @@ dev.promptguard.toyota.com
 api.dev.promptguard.toyota.com
 sup-es.dealer.toyota.com
 qa.dealer.toyota.com
-*.qa.dealer.toyota.com
 pepp.stage.dealer.toyota.com
 staffmaster-nxg.toyota.com
-*.staffmaster-nxg.toyota.com
 asp-es.dealer.toyota.com
 dev-api.nonprod.engage.toyota.com
 test-api.nonprod.engage.toyota.com

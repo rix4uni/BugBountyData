@@ -3616,7 +3616,6 @@ helpdesk.dattobackup.com
 assets.dattobackup.com
 crm.dattobackup.com
 dlt-devicelogs.dattobackup.com
-www.dattobackup.com
 academy.dattobackup.com
 ntp.dattobackup.com
 partner.dattobackup.com
@@ -3633,10 +3632,7 @@ careers.dattobackup.com
 updates.dattobackup.com
 old.dattobackup.com
 go.dattobackup.com
-*.dattobackup.com
 continuum.dattobackup.com
-www.continuum.dattobackup.com
-www.helpdesk.dattobackup.com
 33.dattobackup.com
 admin-portal.dattobackup.com
 alerts.dattobackup.com
@@ -5261,17 +5257,15 @@ admin-legacy.dattobackup.com
 server2153.dattobackup.com
 02446989.dattobackup.com
 ice.dattobackup.com
-www.device.dattobackup.com
 kent.dattobackup.com
 3www.dattobackup.com
-www.my.dattobackup.com
+my.dattobackup.com
 partners-legacy.dattobackup.com
 updates-legacy.dattobackup.com
-www.ci.dattobackup.com
+ci.dattobackup.com
 server3.dattobackup.com
 cal.dattobackup.com
 cert.dattobackup.com
-ci.dattobackup.com
 server2701.dattobackup.com
 speedtest.dattobackup.com
 download.dattobackup.com
@@ -5299,7 +5293,7 @@ supportfiles.dattobackup.com
 code.dattobackup.com
 beta.dattobackup.com
 reseller.dattobackup.com
-www.registration.dattobackup.com
+registration.dattobackup.com
 test80.dattobackup.com
 documentation.dattobackup.com
 advisoryboard.dattobackup.com
@@ -5309,7 +5303,6 @@ devices.dattobackup.com
 phpmyadmin.dattobackup.com
 landing.dattobackup.com
 techsupport-tv.dattobackup.com
-my.dattobackup.com
 test443.dattobackup.com
 test22.dattobackup.com
 registration-legacy.dattobackup.com
@@ -5320,7 +5313,6 @@ cart.dattobackup.com
 server4222.dattobackup.com
 server4039.dattobackup.com
 ices.dattobackup.com
-registration.dattobackup.com
 debian.dattobackup.com
 server20.dattobackup.com
 server4031.dattobackup.com
@@ -10547,6 +10539,4 @@ server5141.dattobackup.com
 64.85.254.162.dattobackup.com
 110.130.147.136.dattobackup.com
 64.122.130.104.dattobackup.com
-*.device.dattobackup.com
 testdevice.dattobackup.com
-*.testdevice.dattobackup.com

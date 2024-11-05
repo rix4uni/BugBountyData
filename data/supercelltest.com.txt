@@ -5,7 +5,6 @@ game-assets.rogue2.supercelltest.com
 grafana.test-services-eu-north.rogue1.supercelltest.com
 grafana.test-services.rogue1.supercelltest.com
 integration.lab.supercelltest.com
-www.supercelltest.com
 event-assets.flood2.supercelltest.com
 flood2.supercelltest.com
 game-assets.flood2.supercelltest.com
@@ -22,9 +21,3 @@ squadtest-1.squadtest.supercelltest.com
 staging.lab.supercelltest.com
 test-services.slashww.supercelltest.com
 twitch.supercelltest.com
-www.integration.lab.supercelltest.com
-www.lab.supercelltest.com
-www.noodles.lab.supercelltest.com
-www.quest.lab.supercelltest.com
-www.runner.lab.supercelltest.com
-www.staging.lab.supercelltest.com

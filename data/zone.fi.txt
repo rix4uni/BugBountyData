@@ -1,10 +1,8 @@
 pop3.zone.fi
 tuki.zone.fi
-www.zone.fi
 auth.webmail.zone.fi
 traficomepp.zone.fi
-www.mx.zone.fi
-www.traficomepp.zone.fi
+mx.zone.fi
 xdsl-84-239-191-132.nebulazone.zone.fi
 grafana.zone.fi
 mailconfig.zone.fi
@@ -17,7 +15,6 @@ imap.zone.fi
 help.zone.fi
 webmail.zone.fi
 cau.zone.fi
-mx.zone.fi
 vmail.zone.fi
 updates.api.webmail.zone.fi
 api.webmail.zone.fi

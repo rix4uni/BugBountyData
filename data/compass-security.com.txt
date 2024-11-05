@@ -150,12 +150,6 @@ blackout.compass-security.com
 e1.compass-security.com
 ns1.compass-security.com
 ns2.compass-security.com
-www.compass-security.com
-*.dfir.compass-security.com
-*.apps.compass-security.com
-*.apps.openshift.compass-security.com
-*.git.openshift.compass-security.com
-*.openshift.compass-security.com
 host-178-160.compass-security.com
 host-178-161.compass-security.com
 host-178-162.compass-security.com
@@ -214,7 +208,6 @@ host-246-98.compass-security.com
 ns3.compass-security.com
 pheidippides.compass-security.com
 status.compass-security.com
-www.dfir.compass-security.com
 beta.compass-security.com
 sysadmin.compass-security.com
 gui-17a87c3f-a1c5-499b-b028-ce38b0c4f8c6.dfir.compass-security.com
@@ -363,7 +356,6 @@ download-db6da25e-6152-4dd5-9375-426e4f086a1c.dfir.compass-security.com
 35fcb99b-f2f6-4b71-ad93-286d2ddea68b.dfir.compass-security.com
 gui-f57b7dea-c403-4824-a5ab-05e2c3384048.dfir.compass-security.com
 munin-orc.dfir.compass-security.com
-www.fumscrbe0nai-velociraptor.ir-test.compass-security.com
 2009136f-c91a-4ce7-a6a4-ea2bffd438a9.dfir.compass-security.com
 api1-inc001-drone.ir-test.compass-security.com
 bla.dfir.compass-security.com
@@ -416,7 +408,6 @@ dropwww.dfir.compass-security.com
 vi-inc001-drone.ir-test.compass-security.com
 www-akali.dfir.compass-security.com
 dlm1actsjht8e420.ir-test.compass-security.com
-www.398sovvu3ac6-velociraptor.ir-test.compass-security.com
 kor-www.dfir.compass-security.com
 mirror-www.dfir.compass-security.com
 oceaniawww.dfir.compass-security.com
@@ -490,7 +481,6 @@ challenge03.dfir.compass-security.com
 stageinc001-drone.ir-test.compass-security.com
 jwww.dfir.compass-security.com
 pubkeycloak.ir-test.compass-security.com
-www.hive.ir-test.compass-security.com
 w3keycloak.ir-test.compass-security.com
 media.dfir.compass-security.com
 add54b8e-ffe1-411a-8bdd-5f1bad949a55.dfir.compass-security.com
@@ -539,7 +529,6 @@ hwcdnwww.dfir.compass-security.com
 s-www.dfir.compass-security.com
 laskeycloak.ir-test.compass-security.com
 f292fa0c-6dc9-4179-bb9e-a4b8b6e9fc86.dfir.compass-security.com
-www.9bjeqc3h9fep-velociraptor.ir-test.compass-security.com
 inc001-drone-w.ir-test.compass-security.com
 inc001-drone-tst.ir-test.compass-security.com
 s1.ir-test.compass-security.com
@@ -556,7 +545,6 @@ cpoh668tp22ea2mi0hbg.ywnwt3b35o8d-velociraptor.ir-test.compass-security.com
 wwwakamai.dfir.compass-security.com
 idsinc001-drone.ir-test.compass-security.com
 8799f558-8166-428d-bc5b-83e924abbad4.dfir.compass-security.com
-www.download-fumscrbe0nai-velociraptor.ir-test.compass-security.com
 singed-drone.ir-test.compass-security.com
 www-team.dfir.compass-security.com
 latin-www.dfir.compass-security.com
@@ -642,8 +630,6 @@ wwwcfg.dfir.compass-security.com
 fa52bbb2-0bcb-428f-9cb8-9796b9dd5c61.dfir.compass-security.com
 d5q5u25ekl59os8p.dfir.compass-security.com
 k-inc001-drone.ir-test.compass-security.com
-www.fumscrbe0nai-drone.ir-test.compass-security.com
-www.ebb19q131cd4-rocketchat.ir-test.compass-security.com
 b7d0a960-871f-4c8f-ace9-6bdd42c57f65.dfir.compass-security.com
 kr-www.dfir.compass-security.com
 felix.dfir.compass-security.com
@@ -773,7 +759,6 @@ inc001-droneb.ir-test.compass-security.com
 www-git.dfir.compass-security.com
 wwwdev1.dfir.compass-security.com
 r-www.dfir.compass-security.com
-www.download-h3y7lf66pim5-velociraptor.ir-test.compass-security.com
 1d794e31-1ad3-47dc-ab29-7a822cdb56acoct.dfir.compass-security.com
 board.ir-test.compass-security.com
 inc001-stg.ir-test.compass-security.com
@@ -829,7 +814,6 @@ www-testbed.dfir.compass-security.com
 inexistend.dfir.compass-security.com
 2a-confluence.dfir.compass-security.com
 admin2dorc.dfir.compass-security.com
-www.6rfuxwpgpqcn-drone.ir-test.compass-security.com
 commumity.dfir.compass-security.com
 formskeycloak.ir-test.compass-security.com
 netwww.dfir.compass-security.com
@@ -873,7 +857,6 @@ da0c38cd-cc6a-4b1e-9686-0377e05cb866.dfir.compass-security.com
 wwwadmin.dfir.compass-security.com
 v-www.dfir.compass-security.com
 turkwww-dns.dfir.compass-security.com
-www.ir-test.compass-security.com
 14-inc001-drone.ir-test.compass-security.com
 thissubdomainshouldonlyresolveifwildcard.398sovvu3ac6-rocketchat.ir-test.compass-security.com
 download-1986f4ee-c24e-4c19-a8de-90de8d4462e7.dfir.compass-security.com
@@ -922,7 +905,6 @@ cart.turkwww.dfir.compass-security.com
 www-webapp.dfir.compass-security.com
 clientinc001-drone.ir-test.compass-security.com
 57q5dsta4bzhf3w7.sslvpn.compass-security.com
-www.keycloak.ir-test.compass-security.com
 www-repo.dfir.compass-security.com
 www-staging.dfir.compass-security.com
 gh-www.dfir.compass-security.com
@@ -939,7 +921,6 @@ welcome.dfir.compass-security.com
 gui-22b9268f-a473-4de6-b236-2133fa53c8ad.dfir.compass-security.com
 gui-3f706c69-4b0a-4cf0-a640-f33c975d6e01.dfir.compass-security.com
 18.dfir.compass-security.com
-www.398sovvu3ac6-drone.ir-test.compass-security.com
 ainc001-drone.ir-test.compass-security.com
 wwwd.dfir.compass-security.com
 download-b4569937-94eb-48f1-80bf-ddc6500f3af0.dfir.compass-security.com
@@ -967,7 +948,6 @@ gui-2d561a5b-538c-4335-88e3-46ace05c6e53.dfir.compass-security.com
 www-aws.dfir.compass-security.com
 www-profiles.dfir.compass-security.com
 aa368e1f-d2bf-4234-b485-352a3598d4fa.dfir.compass-security.com
-www.6rfuxwpgpqcn-rocketchat.ir-test.compass-security.com
 a9f2d84a-790e-4aa2-bc93-47d359d6eeac.dfir.compass-security.com
 www-europewest.dfir.compass-security.com
 wiki.1d794e31-1ad3-47dc-ab29-7a822cdb56ac.dfir.compass-security.com
@@ -1064,7 +1044,6 @@ wwwapi-docs.dfir.compass-security.com
 co6smnd3d3ocph9a4pdg.frontend-5m2qgor2wp9m-velociraptor.ir-test.compass-security.com
 june4.dfir.compass-security.com
 orcnetwork-ip.dfir.compass-security.com
-www.frontend-9bjeqc3h9fep-velociraptor.ir-test.compass-security.com
 thissubdomainshouldonlyresolveifwildcard.42eghi8vxb60-drone.ir-test.compass-security.com
 download-dfab6fa5-22db-4be9-b828-34f2df5eb61a.dfir.compass-security.com
 chef-www.dfir.compass-security.com
@@ -1279,7 +1258,6 @@ download-71f8306b-716b-4d71-a284-a009b3ed7c03.dfir.compass-security.com
 www-q.dfir.compass-security.com
 o6w6qg1eucykl9ch.ir-test.compass-security.com
 thissubdomainshouldonlyresolveifwildcard.6rfuxwpgpqcn-rocketchat.ir-test.compass-security.com
-www.9bjeqc3h9fep-rocketchat.ir-test.compass-security.com
 nlwww.dfir.compass-security.com
 g-drone.ir-test.compass-security.com
 www-app.dfir.compass-security.com
@@ -1454,7 +1432,6 @@ wwwoceania.dfir.compass-security.com
 server-www.dfir.compass-security.com
 9be35db0-a046-4ea3-9f5b-463c64b481a0.dfir.compass-security.com
 inc001-drone-server.ir-test.compass-security.com
-www.ebb19q131cd4-drone.ir-test.compass-security.com
 febae347-58e6-437d-8beb-4a80fff0b779.dfir.compass-security.com
 43274b0c-e9e0-47f9-adc8-5438f3c05dae.dfir.compass-security.com
 www-cms.dfir.compass-security.com
@@ -1482,7 +1459,6 @@ thissubdomainshouldonlyresolveifwildcard.download-9bjeqc3h9fep-velociraptor.ir-t
 download-5m2qgor2wp9m-velociraptor-version.ir-test.compass-security.com
 wwwvi.dfir.compass-security.com
 keycloak-skins.ir-test.compass-security.com
-www.ebb19q131cd4-velociraptor.ir-test.compass-security.com
 repository-www.dfir.compass-security.com
 g-keycloak.ir-test.compass-security.com
 keycloak-lax1.ir-test.compass-security.com
@@ -1490,7 +1466,6 @@ inc001-droneakamai.ir-test.compass-security.com
 productionwww.dfir.compass-security.com
 chef-drone.ir-test.compass-security.com
 s1directory.ir-test.compass-security.com
-www.download-ebb19q131cd4-velociraptor.ir-test.compass-security.com
 wwwbeta.dfir.compass-security.com
 gui-57845e83-6ade-450b-aca3-9c591f341659.dfir.compass-security.com
 wwwreviews.dfir.compass-security.com
@@ -1511,7 +1486,6 @@ gui-e7d386ec-2dde-414f-9127-36c04b9c77a3.dfir.compass-security.com
 ww.1d794e31-1ad3-47dc-ab29-7a822cdb56ac.dfir.compass-security.com
 download-9d8c12d9-38ad-4f57-a3e5-5d1648be35ec.dfir.compass-security.com
 p.dfir.compass-security.com
-www.zucchero.ir-test.compass-security.com
 gui-0f9656de-e303-45a6-b426-db59e7086975.dfir.compass-security.com
 2alas.dfir.compass-security.com
 wwwteam.dfir.compass-security.com
@@ -1527,7 +1501,6 @@ da.dfir.compass-security.com
 bhive.ir-test.compass-security.com
 5b240a0f-d6bb-43f7-8109-52cace48ace0.dfir.compass-security.com
 gui-f22dfdf6-ed2a-4296-8f7e-0831ef202081.dfir.compass-security.com
-www.download-398sovvu3ac6-velociraptor.ir-test.compass-security.com
 www-imap.dfir.compass-security.com
 www-static.dfir.compass-security.com
 inc001-drone-support.ir-test.compass-security.com
@@ -1598,7 +1571,6 @@ download-5m2qgor2wp9m-velociraptorjob.ir-test.compass-security.com
 inc49-drone.ir-test.compass-security.com
 turkwwwdomaincontroller.dfir.compass-security.com
 reviewswww.dfir.compass-security.com
-www.h3y7lf66pim5-velociraptor.ir-test.compass-security.com
 947hx6ejxizx5svi.dfir.compass-security.com
 inc001-team.ir-test.compass-security.com
 download-f2562654-ced4-4f5b-867a-5a9c3f84559f.dfir.compass-security.com
@@ -1691,7 +1663,6 @@ gitwww.dfir.compass-security.com
 76bm8h2kegl9058n.ir-test.compass-security.com
 16-www.dfir.compass-security.com
 localhost.turkwww.dfir.compass-security.com
-www.download-9bjeqc3h9fep-velociraptor.ir-test.compass-security.com
 d1.dfir.compass-security.com
 cnk7drefr3adeeu8jj6g.a4h83schtx6i-rocketchat.ir-test.compass-security.com
 v1.dfir.compass-security.com
@@ -1710,7 +1681,6 @@ wwwengine.dfir.compass-security.com
 9bwpzhn0mhzsqfs6.ir-test.compass-security.com
 www-hkg.dfir.compass-security.com
 dev1.dfir.compass-security.com
-www.frontend-fumscrbe0nai-velociraptor.ir-test.compass-security.com
 co6sm92q7f4ss9tpq64grestricted.download-5m2qgor2wp9m-velociraptor.ir-test.compass-security.com
 6fe0af10-7092-4cf2-a81b-6f570a7d5b76.dfir.compass-security.com
 thissubdomainshouldonlyresolveifwildcard.42eghi8vxb60-rocketchat.ir-test.compass-security.com
@@ -1817,7 +1787,6 @@ july-www.dfir.compass-security.com
 buckywww.dfir.compass-security.com
 20223.dfir.compass-security.com
 thissubdomainshouldonlyresolveifwildcard.frontend-ebb19q131cd4-velociraptor.ir-test.compass-security.com
-www.6rfuxwpgpqcn-velociraptor.ir-test.compass-security.com
 wwwoct.dfir.compass-security.com
 inc001-droneevelynn.ir-test.compass-security.com
 www2.dfir.compass-security.com
@@ -1884,7 +1853,6 @@ zjflymc31kc1qm2t.dfir.compass-security.com
 www-global.dfir.compass-security.com
 inc001-elasticbeanstalk.ir-test.compass-security.com
 gui-a997ec2b-c5a6-4fda-ba97-4c977b3387cf.dfir.compass-security.com
-www.frontend-ebb19q131cd4-velociraptor.ir-test.compass-security.com
 2251.dfir.compass-security.com
 cpoh7a8tp22eadfjdne0.03rjoxdgz0ls-rocketchat.ir-test.compass-security.com
 feedback05.dfir.compass-security.com
@@ -2209,7 +2177,6 @@ analyticshive.ir-test.compass-security.com
 1d794e31-1ad3-47dc-ab29-7a822cdb56acs5.dfir.compass-security.com
 f12f4a50-4bfe-48a7-92cb-409f41500d61.dfir.compass-security.com
 a270951a-b054-4c03-b844-ed9a58f21274.dfir.compass-security.com
-www.5m2qgor2wp9m-rocketchat.ir-test.compass-security.com
 gui-e2fda511-281a-40c3-91bb-ca2c7fc80b2a.dfir.compass-security.com
 brazil2a.dfir.compass-security.com
 search-www.dfir.compass-security.com
@@ -2295,7 +2262,6 @@ dbinc001-drone.ir-test.compass-security.com
 laxwww.dfir.compass-security.com
 wwwlatinamerica.dfir.compass-security.com
 inc001-testing.ir-test.compass-security.com
-www.9bjeqc3h9fep-drone.ir-test.compass-security.com
 1d794e31-1ad3-47dc-ab29-7a822cdb56acpartner.dfir.compass-security.com
 mailwww.dfir.compass-security.com
 repository-drone.ir-test.compass-security.com
@@ -2325,7 +2291,6 @@ gui-665c5820-6557-465b-aa45-ac1db9be0a58.dfir.compass-security.com
 15.dfir.compass-security.com
 sip1d794e31-1ad3-47dc-ab29-7a822cdb56ac.dfir.compass-security.com
 d8306813-896d-406f-b906-11a4b2db9117.dfir.compass-security.com
-www.h3y7lf66pim5-rocketchat.ir-test.compass-security.com
 boards-www.dfir.compass-security.com
 cf-inc001-drone.ir-test.compass-security.com
 jenkinswww.dfir.compass-security.com
@@ -2643,11 +2608,9 @@ northamericawww.dfir.compass-security.com
 cpofa30tp22dg1jqk7lg.download-9bjeqc3h9fep-velociraptor.ir-test.compass-security.com
 inc001-dronecloudfront.ir-test.compass-security.com
 www-staff.dfir.compass-security.com
-www.frontend-h3y7lf66pim5-velociraptor.ir-test.compass-security.com
 gui-7c2c10c4-d7c0-42fb-88dd-1ceb97d43f2c.dfir.compass-security.com
 www-julygw.dfir.compass-security.com
 gui-477b7c30-53f7-4bf3-a835-f5c420b5503c.dfir.compass-security.com
-www.h3y7lf66pim5-drone.ir-test.compass-security.com
 qa-www.dfir.compass-security.com
 _afs3-vlserver._tcp.dfir.compass-security.com
 authwww.dfir.compass-security.com
@@ -2702,7 +2665,6 @@ hivessl.ir-test.compass-security.com
 co6smpv9os4stok70ge0.398sovvu3ac6-velociraptor.ir-test.compass-security.com
 co6sna7dsdbsuucbn7og.hive.ir-test.compass-security.com
 orcdesktop-maps.dfir.compass-security.com
-www.sslvpn.compass-security.com
 download-b6cd4812-69c1-459c-a187-71c1251bd4ea.dfir.compass-security.com
 2az.dfir.compass-security.com
 z1.dfir.compass-security.com
@@ -2725,7 +2687,6 @@ sql-drone.ir-test.compass-security.com
 2a.dfir.compass-security.com
 gmail-orcd.dfir.compass-security.com
 aa744a02-27d7-4081-b353-a7468d113bdb.dfir.compass-security.com
-www.398sovvu3ac6-rocketchat.ir-test.compass-security.com
 stgwww.dfir.compass-security.com
 e872b2ef-56d1-4376-9577-4cf0c5e7c953.dfir.compass-security.com
 12b28c1d-3720-40fc-86a3-81f505299034.dfir.compass-security.com
@@ -2759,7 +2720,6 @@ keycloaki.ir-test.compass-security.com
 2016www.dfir.compass-security.com
 sqlwww.dfir.compass-security.com
 intwww.dfir.compass-security.com
-www.frontend-398sovvu3ac6-velociraptor.ir-test.compass-security.com
 gui-7a253202-f343-4864-be78-0ea6d2437503.dfir.compass-security.com
 0tdeg4jmfuyauih1.ir-test.compass-security.com
 wwwbilling.dfir.compass-security.com
@@ -2793,7 +2753,6 @@ f036c32b-1386-42de-939a-6ceb2a092e90.dfir.compass-security.com
 www-ghcpi.dfir.compass-security.com
 engima-www.dfir.compass-security.com
 download-e64ee9bb-449b-48a0-8b7a-96e10203e1bb.dfir.compass-security.com
-www.frontend-6rfuxwpgpqcn-velociraptor.ir-test.compass-security.com
 devopswww.dfir.compass-security.com
 7keycloak.ir-test.compass-security.com
 php-2a.dfir.compass-security.com
@@ -2901,7 +2860,6 @@ api-docswww.dfir.compass-security.com
 wwwlogin.dfir.compass-security.com
 downloads.dfir.compass-security.com
 cgi.dfir.compass-security.com
-www.42eghi8vxb60-rocketchat.ir-test.compass-security.com
 elb-keycloak.ir-test.compass-security.com
 developerwww.dfir.compass-security.com
 brand-www.dfir.compass-security.com
@@ -2950,7 +2908,6 @@ thissubdomainshouldonlyresolveifwildcard.ywnwt3b35o8d-velociraptor.ir-test.compa
 download-44ac490d-7ab7-4a49-b351-28cb0e17bbf4.dfir.compass-security.com
 6d718205-c452-4fcd-8ed9-27afef033cf5.dfir.compass-security.com
 wwwv.dfir.compass-security.com
-www.download-6rfuxwpgpqcn-velociraptor.ir-test.compass-security.com
 hivetest.ir-test.compass-security.com
 test4.ir-test.compass-security.com
 co6sm92q7f4ss9tpq64g-1d793e31-1ad3-47dc-ab29-7a822cdb56ac.download-5m2qgor2wp9m-velociraptor.ir-test.compass-security.com

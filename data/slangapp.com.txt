@@ -1,6 +1,6 @@
 docs-es.slangapp.com
-*.moon.slangapp.com
-*.sun.slangapp.com
+moon.slangapp.com
+sun.slangapp.com
 learn.slangapp.com
 api.slangapp.com
 pay.slangapp.com
@@ -28,11 +28,9 @@ pro.slangapp.com
 manage.demo.slangapp.com
 track.slangapp.com
 fm.tt.slangapp.com
-sun.slangapp.com
 es.blog.slangapp.com
 blog.slangapp.com
 tech.slangapp.com
 docs-pt.slangapp.com
 auth.slangapp.com
-moon.slangapp.com
 cdn.slangapp.com

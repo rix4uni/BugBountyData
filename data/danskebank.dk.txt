@@ -13,11 +13,10 @@ cl2.danskebank.dk
 appointment.danskebank.dk
 feedback.danskebank.dk
 cl8.danskebank.dk
-www.regrep.danskebank.dk
+regrep.danskebank.dk
 netbank2.danskebank.dk
 legitimering.danskebank.dk
 sandprod-mobilepaypos2.danskebank.dk
-www.cem.danskebank.dk
 lyncdiscover.danskebank.dk
 _dmarc.danskebank.dk
 syst-netbank2.danskebank.dk
@@ -87,7 +86,6 @@ cls.danskebank.dk
 syst-online.danskebank.dk
 financialdashboard.danskebank.dk
 syst-appointment.danskebank.dk
-www.danskebank.dk
 mqs4shr.danskebank.dk
 webconf02.syst.danskebank.dk
 syndicate.danskebank.dk
@@ -147,7 +145,6 @@ ras3.danskebank.dk
 news.danskebank.dk
 ap.survey.danskebank.dk
 meeting.danskebank.dk
-www.cemdemo.danskebank.dk
 syst-mobilepaymentuk.danskebank.dk
 smsreceive.danskebank.dk
 wac03.syst.danskebank.dk
@@ -176,7 +173,6 @@ apiebank3.danskebank.dk
 sunday.danskebank.dk
 mobilepayws2.danskebank.dk
 prod-www.danskebank.dk
-www.beta.danskebank.dk
 onlineinfo.danskebank.dk
 kredit.danskebank.dk
 district.danskebank.dk
@@ -245,7 +241,6 @@ prod-mobilepayws.danskebank.dk
 pros-connect.danskebank.dk
 qa-mobilepaypos.danskebank.dk
 qa-mobilepaypos3.danskebank.dk
-regrep.danskebank.dk
 sandbox-cl7.danskebank.dk
 sandprod-mobilepaypos.danskebank.dk
 sandprod-mobilepaypos3.danskebank.dk
@@ -275,8 +270,7 @@ valhalla.danskebank.dk
 valhalla2.danskebank.dk
 vpn2011.danskebank.dk
 wac.danskebank.dk
-www.aalborg.danskebank.dk
-www.conf.danskebank.dk
+aalborg.danskebank.dk
 api-legitimering.danskebank.dk
 api-ny-erhvervskunde.danskebank.dk
 apirict.danskebank.dk
@@ -296,7 +290,6 @@ syst-web.danskebank.dk
 syst-www.beta.danskebank.dk
 test-districtone.danskebank.dk
 syst-userapi2.danskebank.dk
-*.danskebank.dk
 syst-onetrader.danskebank.dk
 insights.danskebank.dk
 ww.danskebank.dk

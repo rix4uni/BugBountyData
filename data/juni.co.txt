@@ -10,7 +10,6 @@ psd2.api.staging.juni.co
 oauth.k8s-dev.juni.co
 admin.juni.co
 api.k8s-staging.juni.co
-www.juni.co
 app.dev.juni.co
 kafka.dev.juni.co
 vision.dev.juni.co
@@ -52,4 +51,3 @@ beta.juni.co
 preferences.juni.co
 kafka.k8s-staging.juni.co
 api.staging.juni.co
-*.api.staging.juni.co

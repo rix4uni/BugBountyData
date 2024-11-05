@@ -244,8 +244,7 @@ zendesk.api-web.shadow.tech
 v6-test-insider-gap.shadow.tech
 nestor.drive.shadow.tech
 teleport.drive.shadow.tech
-*.teleport.drive.shadow.tech
-*.frsbg02.compute.shadow.tech
+frsbg02.compute.shadow.tech
 redis-ui.trusted.eu.shadow.tech
 api.defra01.os.shadow.tech
 auth.defra01.os.shadow.tech

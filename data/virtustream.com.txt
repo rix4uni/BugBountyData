@@ -7,7 +7,6 @@ groveton-virginia-colocation.virtustream.com
 amm-qa.virtustream.com
 backups.virtustream.com
 pcmail.virtustream.com
-www.virtustream.com
 ns2-us-ptr01.virtustream.com
 baileys-crossroads-virginia-data-center.virtustream.com
 centreville-virginia-data-center.virtustream.com
@@ -19,8 +18,8 @@ american-canyon-california-colocation.virtustream.com
 mount-vernon-virginia-data-center.virtustream.com
 ms.virtustream.com
 ns1-us-ptr01.virtustream.com
-www.dashboard.virtustream.com
-www.lumension.virtustream.com
+dashboard.virtustream.com
+lumension.virtustream.com
 oakton-virginia-colocation.virtustream.com
 west-springfield-virginia-data-center.virtustream.com
 capitol-heights-maryland-colocation.virtustream.com
@@ -36,17 +35,15 @@ accokeek-maryland-colocation.virtustream.com
 cf-apps-us-central-1.virtustream.com
 filesync.virtustream.com
 reston-virginia-data-center.virtustream.com
-www.reston-virginia-data-center.virtustream.com
 autodiscover.virtustream.com
 usdc1.virtustream.com
 ns4.os.virtustream.com
 o1.tp.virtustream.com
 us3-demo.virtustream.com
-www.logon.virtustream.com
+logon.virtustream.com
 vscrm.virtustream.com
 clayton-california-data-center.virtustream.com
 downloadxstream.virtustream.com
-logon.virtustream.com
 pimmit-hills-virginia-colocation.virtustream.com
 dunn-loring-virginia-colocation.virtustream.com
 manassas-park-virginia-colocation.virtustream.com
@@ -55,7 +52,6 @@ vsusjenkins.virtustream.com
 castro-valley-california-colocation.virtustream.com
 merrifield-virginia-data-center.virtustream.com
 silver-spring-maryland-data-center.virtustream.com
-dashboard.virtustream.com
 ptrtest.virtustream.com
 relaymxus07.virtustream.com
 angwin-california-data-center.virtustream.com
@@ -64,10 +60,10 @@ wolf-trap-virginia-colocation.virtustream.com
 backup-01.virtustream.com
 ibr2.usdc1.net.virtustream.com
 rhui.virtustream.com
-www.cf-ops-us-central-1.virtustream.com
+cf-ops-us-central-1.virtustream.com
 dashboardsb.virtustream.com
 remote.virtustream.com
-www.threaddb.virtustream.com
+threaddb.virtustream.com
 xra.virtustream.com
 hyattsville-maryland-colocation.virtustream.com
 alexandria-virginia-colocation.virtustream.com
@@ -75,7 +71,7 @@ accokeek-maryland-data-center.virtustream.com
 odsrelay.virtustream.com
 relaymxjpn01b.virtustream.com
 alameda-california-colocation.virtustream.com
-www.belle-haven-virginia-data-center.virtustream.com
+belle-haven-virginia-data-center.virtustream.com
 emeryville-california-colocation.virtustream.com
 mount-rainier-maryland-colocation.virtustream.com
 north-potomac-maryland-colocation.virtustream.com
@@ -98,7 +94,7 @@ atherton-california-data-center.virtustream.com
 albany-california-colocation.virtustream.com
 danville-california-colocation.virtustream.com
 hillsboro-virginia-colocation.virtustream.com
-www.rockville-maryland-colocation.virtustream.com
+rockville-maryland-colocation.virtustream.com
 dashboard2.virtustream.com
 info.virtustream.com
 colmar-manor-maryland-colocation.virtustream.com
@@ -153,7 +149,6 @@ cobb-california-data-center.virtustream.com
 relaymxus08a.virtustream.com
 supportstaging.virtustream.com
 relaymxau01.virtustream.com
-www.vsr.virtustream.com
 relaymx01.virtustream.com
 vsusgitlab.virtustream.com
 washington-district-of-columbia-colocation.virtustream.com
@@ -176,7 +171,6 @@ glenarden-maryland-data-center.virtustream.com
 manassas-virginia-data-center.virtustream.com
 ns2.uk.virtustream.com
 vsusstaging.virtustream.com
-lumension.virtustream.com
 ns2.us.virtustream.com
 relaymxus10.virtustream.com
 hyattsville-maryland-data-center.virtustream.com
@@ -188,7 +182,6 @@ staging.virtustream.com
 bayview-montalvin-california-colocation.virtustream.com
 lorton-virginia-data-center.virtustream.com
 relaymxjpn02b.virtustream.com
-www.ms.virtustream.com
 blackhawk-camino-tassajara-california-data-center.virtustream.com
 relaymxjpn02a.virtustream.com
 albany-california-data-center.virtustream.com
@@ -212,7 +205,6 @@ cherryland-california-data-center.virtustream.com
 ns2-sub.virtustream.com
 resolver1.us.virtustream.com
 relaymxitar03.virtustream.com
-www.weaver.virtustream.com
 rockville-maryland-data-center.virtustream.com
 bolinas-california-colocation.virtustream.com
 brandywine-maryland-data-center.virtustream.com
@@ -223,7 +215,6 @@ amesti-california-colocation.virtustream.com
 aquia-harbour-virginia-colocation.virtustream.com
 relaymxnl01.virtustream.com
 sraus.virtustream.com
-www.virtustreamevents.virtustream.com
 chillum-maryland-data-center.virtustream.com
 ns1.us.virtustream.com
 culpeper-virginia-data-center.virtustream.com
@@ -245,7 +236,6 @@ fort-hunt-virginia-colocation.virtustream.com
 docs.xstreamone.virtustream.com
 ssp.virtustream.com
 servicedesk.virtustream.com
-threaddb.virtustream.com
 aptos-california-colocation.virtustream.com
 poolesville-maryland-colocation.virtustream.com
 seven-corners-virginia-data-center.virtustream.com
@@ -272,10 +262,8 @@ elk-grove-california-data-center.virtustream.com
 hybla-valley-virginia-colocation.virtustream.com
 exchangevs.virtustream.com
 its1.usdc2.net.virtustream.com
-cf-ops-us-central-1.virtustream.com
 www2.virtustream.com
 boyce-virginia-data-center.virtustream.com
-rockville-maryland-colocation.virtustream.com
 ns3-sub.virtustream.com
 camp-springs-maryland-colocation.virtustream.com
 otpenroll.virtustream.com
@@ -296,9 +284,7 @@ ashland-california-colocation.virtustream.com
 concord-california-data-center.virtustream.com
 enablecloud.virtustream.com
 is.virtustream.com
-belle-haven-virginia-data-center.virtustream.com
 great-falls-virginia-data-center.virtustream.com
 lincolnia-virginia-colocation.virtustream.com
 lyncdiscover.virtustream.com
 ns4-sub.virtustream.com
-*.virtustream.com

@@ -1,21 +1,20 @@
-*.line-apps.com
-*.api.line-apps.com
-*.bdp.line-apps.com
-*.brown.line-apps.com
-*.cony.line-apps.com
-*.cplane.line-apps.com
-*.demae.line-apps.com
-*.demae-infra.line-apps.com
-*.growthy.line-apps.com
-*.iu-dex.line-apps.com
-*.jp3.website.line-apps.com
-*.linode.gtm.line-apps.com
-*.mlu-showroom.line-apps.com
-*.mlu-showroom-beta.line-apps.com
-*.sprod.api.line-apps.com
-*.vqa-fabriclb.line-apps.com
-*.vqa-peter.line-apps.com
-*.website.line-apps.com
+api.line-apps.com
+bdp.line-apps.com
+brown.line-apps.com
+cony.line-apps.com
+cplane.line-apps.com
+demae.line-apps.com
+demae-infra.line-apps.com
+growthy.line-apps.com
+iu-dex.line-apps.com
+jp3.website.line-apps.com
+linode.gtm.line-apps.com
+mlu-showroom.line-apps.com
+mlu-showroom-beta.line-apps.com
+sprod.api.line-apps.com
+vqa-fabriclb.line-apps.com
+vqa-peter.line-apps.com
+website.line-apps.com
 0-covid19.rch.line-apps.com
 0-siaga-covid19-api.rch.line-apps.com
 0-viruswall.rch.line-apps.com
@@ -235,7 +234,6 @@ alpha.viruswall.rch.line-apps.com
 america-weather-botviruswall.sv.21.rch.line-apps.com
 analog.ee.0.rch.line-apps.com
 analog.rch.line-apps.com
-api.line-apps.com
 api-bubble.viruswall.sv.21.rch.line-apps.com
 api-camera.line-apps.com
 api-cameraviruswall.sv.21.rch.line-apps.com
@@ -314,7 +312,6 @@ bcrm-pttviruswall.test.3.rch.line-apps.com
 bcrm-tqm.line-apps.com
 bcrm-walls.line-apps.com
 bd.rch.line-apps.com
-bdp.line-apps.com
 belgorod.rch.line-apps.com
 bellegraph-com.sv.viruswall21.rch.line-apps.com
 bellegraph-com.viruswall.sv.21.rch.line-apps.com
@@ -359,7 +356,6 @@ bot-stickershop.line-apps.com
 bot.rch.line-apps.com
 brand-siaga-covid19-api.0.rch.line-apps.com
 brand.0.rch.line-apps.com
-brown.line-apps.com
 browser-viruswall.sv.21.rch.line-apps.com
 bubbles.viruswall.sv.21.rch.line-apps.com
 bubbles2.line-apps.com
@@ -691,7 +687,6 @@ config.0-siaga-covid19-api.rch.line-apps.com
 config.0.rch.line-apps.com
 cont.rch.line-apps.com
 container.viruswall.sv.21.rch.line-apps.com
-cony.line-apps.com
 cosv.21.viruswall.rch.line-apps.com
 cosv.viruswall-21.rch.line-apps.com
 coupon.line-apps.com
@@ -729,7 +724,6 @@ covid19deploy.covid19.3.rch.line-apps.com
 covid19om.rch.line-apps.com
 covid19test2june.rch.line-apps.com
 covid19testtr.rch.line-apps.com
-cplane.line-apps.com
 crawl.147-92-153-1.search.line-apps.com
 crawl.147-92-153-10.search.line-apps.com
 crawl.147-92-153-100.search.line-apps.com
@@ -1810,7 +1804,6 @@ delima-cwa.test2.3.rch.line-apps.com
 delima-cwa.test2.3viruswall.rch.line-apps.com
 delima-cwa.viruswalltest2.3.rch.line-apps.com
 delivery-driver-api.line-apps.com
-demae-infra.line-apps.com
 demae-pdf-generator.line-apps.com
 demae-pdf-generator-int.line-apps.com
 demaecan-user-feedback.line-apps.com
@@ -2043,7 +2036,6 @@ google-maps-api-proxy.line-apps.com
 gp-web-pay.line-apps.com
 gp.viruswall-sv.21.rch.line-apps.com
 groupcall-viruswall.sv.21.rch.line-apps.com
-growthy.line-apps.com
 growthy-analytics.test2.viruswall.3.rch.line-apps.com
 growthy-glog-jp.test2.3viruswall.rch.line-apps.com
 growthy-sandbox-growthywebcollector-80.line-apps.com
@@ -2164,7 +2156,6 @@ invest.sub---viruswall.3.rch.line-apps.com
 is.rch.line-apps.com
 ist2.rch.line-apps.com
 itsc-demo.line-apps.com
-iu-dex.line-apps.com
 iviruswall.rch.line-apps.com
 ix-sv.siaga-covid19-api21.rch.line-apps.com
 ix-sv.viruswall.21.rch.line-apps.com
@@ -2194,7 +2185,6 @@ jp20184test.line-apps.com
 jp20184test2.line-apps.com
 jp20184test3.line-apps.com
 jp20184test5.line-apps.com
-jp3.website.line-apps.com
 jrr.line-apps.com
 jt-viruswall.rch.line-apps.com
 jt.rch.line-apps.com
@@ -2391,7 +2381,6 @@ link-beta.line-apps.com
 link-org.line-apps.com
 link-rc.line-apps.com
 link-rc21.rch.line-apps.com
-linode.gtm.line-apps.com
 litmus.line-apps.com
 litmus-chaos.console.line-apps.com
 live.line-apps.com
@@ -2503,8 +2492,6 @@ metabase.dev.0.rch.line-apps.com
 mg.rch.line-apps.com
 mint.line-apps.com
 mirrorviruswall.sv.21.rch.line-apps.com
-mlu-showroom.line-apps.com
-mlu-showroom-beta.line-apps.com
 monico.line-apps.com
 moretab.rch.line-apps.com
 movie-web-th.line-apps.com
@@ -2931,7 +2918,6 @@ spot-ingress-public.line-apps.com
 spot-share-viruswall.sv.21.rch.line-apps.com
 spot-share.viruswall.sv.21.rch.line-apps.com
 spot-zipkin21.rch.line-apps.com
-sprod.api.line-apps.com
 sqlpad-viruswall.sv.21.rch.line-apps.com
 sqlpad.rch.line-apps.com
 square-api.rch.line-apps.com
@@ -4341,8 +4327,6 @@ vqa-apprunner-t001.line-apps.com
 vqa-apprunner-t002.line-apps.com
 vqa-apprunner-test1.line-apps.com
 vqa-apprunner-test2.line-apps.com
-vqa-fabriclb.line-apps.com
-vqa-peter.line-apps.com
 vu.rch.line-apps.com
 vutsr-viruswall.rch.line-apps.com
 vutsr.viruswall.rch.line-apps.com
@@ -4374,7 +4358,6 @@ web4720.viruswall-sv.21.rch.line-apps.com
 webapp-test-21.rch.line-apps.com
 webapp-test-viruswall.sv.21.rch.line-apps.com
 webapp.rch.line-apps.com
-website.line-apps.com
 westeurope-test2.rch.line-apps.com
 westeurope.test2-viruswall.3.rch.line-apps.com
 westeurope.test2.3.rch.line-apps.com
@@ -4384,14 +4367,6 @@ willows.dev.0.rch.line-apps.com
 wilmingtonstarnews.rch.line-apps.com
 withme.sv.21.rch.line-apps.com
 wowmalife-viruswall.sv.21.rch.line-apps.com
-www.cosv.21.viruswall.rch.line-apps.com
-www.cosv.viruswall-21.rch.line-apps.com
-www.danger.sv-viruswall.21.rch.line-apps.com
-www.danger.sv.21-viruswall.rch.line-apps.com
-www.danger.sv.21viruswall.rch.line-apps.com
-www.danger.sv.viruswall21.rch.line-apps.com
-www.mech.sv.21.rch.line-apps.com
-www.viruswallabc-sv.21.rch.line-apps.com
 xcdn-cn-prf.line-apps.com
 xcdn-cn-shp.line-apps.com
 xcdn-cn-stk.line-apps.com
@@ -4440,7 +4415,6 @@ ldblog-userdomain-test-47.line-apps.com
 ldblog-userdomain-test-50.line-apps.com
 lp-partner-kbank.line-apps.com
 test-public.line-apps.com
-demae.line-apps.com
 ladb-document-api-gamma.line-apps.com
 shop.line-apps.com
 cac-scdn.line-apps.com
@@ -4460,7 +4434,6 @@ demae-rc.line-apps.com
 gec-search-api-2.line-apps.com
 cac-cdn-stf.line-apps.com
 ff.w73.line-apps.com
-www.redirection-to.covid19.website.line-apps.com
 linecrs-line-scdn-net.vcdn.line-apps.com
 shkawakami-test-0607.line-apps.com
 planner-channel.line-apps.com
@@ -6140,7 +6113,6 @@ iviruswall.1.api.line-apps.com
 105663adb5768517e4336306a136f478.api.line-apps.com
 homedepot.1.api.line-apps.com
 crawl.147-91-153-208.api.line-apps.com
-www.0f4vjgkio277g6oo.api.line-apps.com
 growthy-staging-growthywebcollector-80-dsn.00gcmopt3b.api.line-apps.com
 aa6dfc54.1.api.line-apps.com
 147-92-163-203.api.line-apps.com
@@ -6658,7 +6630,6 @@ home.147-92-153-70.api.line-apps.com
 turkey.04onuae2mi.api.line-apps.com
 147-92-163-208.03onuae2mi.api.line-apps.com
 118.api.line-apps.com
-www.line-apps.com
 prod5-spint.1.api.line-apps.com
 032.api.line-apps.com
 akrmspsrvz.03onuae2mi.api.line-apps.com
@@ -9838,7 +9809,6 @@ b-9.1.api.line-apps.com
 147-92-163-126.api.line-apps.com
 lg-config-staging-dsn.00gcmopt4b.api.line-apps.com
 071.1.api.line-apps.com
-www.1.api.line-apps.com
 147-92-163-186.api.line-apps.com
 0e3b4ae326bfe8bb2e762a06382ec601.api.line-apps.com
 bo54.03onuae2mi.api.line-apps.com
@@ -10072,10 +10042,6 @@ legy-gslb-bk-dsn.00gcmopt10b.api.line-apps.com
 ai.line-apps.com
 147-92-246-212.04onuae2mi.api.line-apps.com
 demae-prd.line-apps.com
-*.demae-rc.line-apps.com
-*.ingress-fabriclb.line-apps.com
-*.litmus-chaos.console.line-apps.com
-*.demae-prd.line-apps.com
 aisl-test.line-apps.com
 crawl.147-92-251-26.search.line-apps.com
 crawl.147-92-251-27.search.line-apps.com
@@ -11146,12 +11112,10 @@ vcdn.line-apps.com
 today-obs-line-scdn-net.vcdn.line-apps.com
 sv.21.rch.line-apps.com
 cmp.line-apps.com
-*.landpress-dev.line-apps.com
-*.lpng.line-apps.com
-ldblog-userdomain-test-52.line-apps.com
-ldblog-userdomain-test-61.line-apps.com
 landpress-dev.line-apps.com
 lpng.line-apps.com
+ldblog-userdomain-test-52.line-apps.com
+ldblog-userdomain-test-61.line-apps.com
 snode-jbod-552-c3s-jp3p-prod.bdp.line-apps.com
 spam084-c3s-jp2p-prod.bdp.line-apps.com
 spam024-c3s-jp2p-prod.bdp.line-apps.com
@@ -11228,6 +11192,5 @@ snode-jbod-480-c3s-jp3p-prod.bdp.line-apps.com
 snode-jbod-517-c3s-jp3p-prod.bdp.line-apps.com
 spam030-c3s-jp2p-prod.bdp.line-apps.com
 snode-jbod-555-c3s-jp3p-prod.bdp.line-apps.com
-*.landpress.line-apps.com
 landpress.line-apps.com
 fgw-th-pay.line-apps.com

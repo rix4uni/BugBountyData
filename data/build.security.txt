@@ -15,7 +15,6 @@ library.build.security
 api.demo.build.security
 ingress-test.devops.build.security
 zuno2.menu.security.off.build.security
-www.build.security
 allmonitors.build.security
 ro.vendor.build.security
 this.image.build.security

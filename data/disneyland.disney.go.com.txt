@@ -91,11 +91,9 @@ latest.kiosk-svcs.fastpass.disneyland.disney.go.com
 load.integration-svcs.fastpass.disneyland.disney.go.com
 uat.disneyland.disney.go.com
 uat2.disneyland.disney.go.com
-www.disneyland.disney.go.com
 shadow.disneyland.disney.go.com
 castapp.disneyland.disney.go.com
 stage.castapp.disneyland.disney.go.com
-www.fastpass.disneyland.disney.go.com
 latest.integration-svcs.fastpass.disneyland.disney.go.com
 load.kiosk-ui.fastpass.disneyland.disney.go.com
 latest.kiosk-ui.fastpass.disneyland.disney.go.com

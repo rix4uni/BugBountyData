@@ -1,8 +1,7 @@
 000.000.000.svn.git.semmle.com
-www.git.semmle.com
+git.semmle.com
 lgtm-staging-frontend.dev.semmle.com
 dev.internal.semmle.com
-www.semmle.com
 help-staging.semmle.com
 chromium.demo.semmle.com
 c.semmle.com
@@ -27,8 +26,7 @@ community.semmle.com
 irc.semmle.com
 docs.semmle.com
 tableau-pub-01.uk.semmle.com
-www.mozilla.demo.semmle.com
-git.semmle.com
+mozilla.demo.semmle.com
 jira.semmle.com
 bi.demo.semmle.com
 ungoliant.semmle.com
@@ -48,10 +46,8 @@ wiki.semmle.com
 web-confluence-jira-prod-01.uk.semmle.com
 oxford.semmle.com
 uk.semmle.com
-www.rt.semmle.com
 ungoliant.internal.semmle.com
 web-confluence-jira-prod-02.uk.semmle.com
-mozilla.demo.semmle.com
 update.semmle.com
 monster.semmle.com
 lgtm-deploy.infra.semmle.com
@@ -60,11 +56,6 @@ dev-update.semmle.com
 office.semmle.com
 blog.semmle.com
 pgsql-bi-01.uk.semmle.com
-www.ungoliant.internal.semmle.com
-*.internal.semmle.com
-*.semmle.com
-*.blog.semmle.com
-*.demo.semmle.com
 webmailng.semmle.com
 web.semmle.com
 stats.semmle.com
@@ -96,7 +87,7 @@ abxb.git.semmle.com
 agpk.git.semmle.com
 70450-0.chat.apionfluence.000.000.000.000.git.semmle.com
 3eg-000.000.000.000.000.git.semmle.com
-www.alcatrazive.git.semmle.com
+alcatrazive.git.semmle.com
 ajhz.git.semmle.com
 alpha.git.semmle.com
 000-t2-www.git.semmle.com
@@ -119,7 +110,7 @@ ahx.git.semmle.com
 ajnq.git.semmle.com
 000.000.git.semmle.com
 postgrad-000.000.000.000.000.git.semmle.com
-www.massachusetts-confluence.000.000.000.000.git.semmle.com
+massachusetts-confluence.000.000.000.000.git.semmle.com
 adln.git.semmle.com
 adtl.git.semmle.com
 adba.git.semmle.com
@@ -132,7 +123,7 @@ adoz.git.semmle.com
 182.182.105.184.mtx.pascal-000.000.000.000.git.semmle.com
 3hpf5cgg8.git.semmle.com
 aae4.git.semmle.com
-www.annuaire-git.git.semmle.com
+annuaire-git.git.semmle.com
 afb.git.semmle.com
 9dw.confluence.000.000.000.000.git.semmle.com
 doberman-000.000.000.000.000.git.semmle.com
@@ -184,7 +175,7 @@ stronghold00.000.000.000.git.semmle.com
 alou.git.semmle.com
 afim.git.semmle.com
 9z.git.semmle.com
-www.cdn-images.confluence.000.000.000.000.git.semmle.com
+cdn-images.confluence.000.000.000.000.git.semmle.com
 sportsmedicine00.000.000.000.000.git.semmle.com
 afkm.git.semmle.com
 aes4.git.semmle.com
@@ -275,7 +266,7 @@ aea9.git.semmle.com
 mailhost-semmle.000.000.000.000.000.git.semmle.com
 video165000.000.000.000.000.git.semmle.com
 akxr.git.semmle.com
-www.ftp-000.000.000.000.git.semmle.com
+ftp-000.000.000.000.git.semmle.com
 aiyz.git.semmle.com
 8lx64w6lbk.git.semmle.com
 web-feconfluence.000.000.000.000.git.semmle.com
@@ -283,14 +274,14 @@ ajw5.git.semmle.com
 aewl.git.semmle.com
 ajuw.git.semmle.com
 aomy.git.semmle.com
-www.adserverit.git.semmle.com
+adserverit.git.semmle.com
 yewonb1onfluence.000.000.000.000.git.semmle.com
 lungcanceradmin.confluence.000.000.000.000.git.semmle.com
 aisn.git.semmle.com
 12-www.git.semmle.com
 akf7.git.semmle.com
 jf0-confluence.000.000.000.000.git.semmle.com
-www.alex3410.users000.000.000.000.000.git.semmle.com
+alex3410.users000.000.000.000.000.git.semmle.com
 aevr.git.semmle.com
 abzz.git.semmle.com
 coaf.000.000.000.000.000.git.semmle.com
@@ -310,7 +301,7 @@ amsc.git.semmle.com
 f12200.000.000.000.000.git.semmle.com
 ahgq.git.semmle.com
 demotmail-semmle.confluence.000.000.000.000.git.semmle.com
-www.america.git.semmle.com
+america.git.semmle.com
 aluw.git.semmle.com
 aqdl.git.semmle.com
 afrw.git.semmle.com
@@ -333,7 +324,7 @@ apwa.git.semmle.com
 anky.git.semmle.com
 afan.git.semmle.com
 0.git.semmle.com
-www.noneconfluence.000.000.000.000.git.semmle.com
+noneconfluence.000.000.000.000.git.semmle.com
 acmi.git.semmle.com
 systems00.000.000.000.000.git.semmle.com
 apdq.git.semmle.com
@@ -377,7 +368,7 @@ academico.git.semmle.com
 66.git.semmle.com
 akf0.git.semmle.com
 ankiety.git.semmle.com
-www.bazar.confluence.000.000.000.000.git.semmle.com
+bazar.confluence.000.000.000.000.git.semmle.com
 ianw.confluence.000.000.000.000.git.semmle.com
 adn8.git.semmle.com
 aph.git.semmle.com
@@ -400,7 +391,7 @@ ahmj.git.semmle.com
 ahh3.git.semmle.com
 sure1confluence.000.000.000.000.git.semmle.com
 aeuu.git.semmle.com
-www.mech-confluence.000.000.000.000.git.semmle.com
+mech-confluence.000.000.000.000.git.semmle.com
 t8x.confluence.000.000.000.000.git.semmle.com
 testbrvpsw.000.000.000.000.git.semmle.com
 ammsgit.git.semmle.com
@@ -432,7 +423,7 @@ anob.git.semmle.com
 aowp.git.semmle.com
 duka123confluence.000.000.000.000.git.semmle.com
 ttiik04211000.000.000.000.000.git.semmle.com
-www.cp-confluence.000.000.000.000.git.semmle.com
+cp-confluence.000.000.000.000.git.semmle.com
 aoqj.git.semmle.com
 aqjj.git.semmle.com
 wpeicgq-blog.000.000.000.000.000.git.semmle.com
@@ -445,7 +436,7 @@ ako5.git.semmle.com
 alaingit.git.semmle.com
 agjm.git.semmle.com
 agal.git.semmle.com
-www.api-docs.git.semmle.com
+api-docs.git.semmle.com
 aghl.git.semmle.com
 ads0.git.semmle.com
 aoxp.git.semmle.com
@@ -493,7 +484,7 @@ abe8.git.semmle.com
 adke.git.semmle.com
 amh0.git.semmle.com
 820-coit.git.semmle.com
-www.cheatonfluence.000.000.000.000.git.semmle.com
+cheatonfluence.000.000.000.000.git.semmle.com
 agjl.git.semmle.com
 ajde.git.semmle.com
 _1.git.semmle.com
@@ -505,8 +496,8 @@ dlw130-2000.000.000.000.000.git.semmle.com
 ach8.git.semmle.com
 cs.000.000.000.000.git.semmle.com
 taki00.000.000.000.000.git.semmle.com
-www.ehr.000.000.000.000.000.git.semmle.com
-www.wellington.confluence.000.000.000.000.git.semmle.com
+ehr.000.000.000.000.000.git.semmle.com
+wellington.confluence.000.000.000.000.git.semmle.com
 adq4.git.semmle.com
 aodr.git.semmle.com
 html.domainconfluence.000.000.000.000.git.semmle.com
@@ -514,7 +505,7 @@ ahay.git.semmle.com
 000.888darenyulecheng.000.000.000.000.git.semmle.com
 ajmi.git.semmle.com
 e-govservices-tp-csf00.000.000.000.git.semmle.com
-www.route-000.000.000.000.git.semmle.com
+route-000.000.000.000.git.semmle.com
 alme.git.semmle.com
 agnu.git.semmle.com
 aifl.git.semmle.com
@@ -636,7 +627,7 @@ afterdarkww.git.semmle.com
 ady4.git.semmle.com
 aeae.git.semmle.com
 delphi100.000.000.000.000.git.semmle.com
-www.2014.git.semmle.com
+2014.git.semmle.com
 aklj.git.semmle.com
 ahpy.git.semmle.com
 appt.git.semmle.com
@@ -670,7 +661,7 @@ aaeb.git.semmle.com
 adee.git.semmle.com
 aewt.git.semmle.com
 aona.git.semmle.com
-www.fairylandconfluence.000.000.000.000.git.semmle.com
+fairylandconfluence.000.000.000.000.git.semmle.com
 ae6ds31975-1.git.semmle.com
 anwx.git.semmle.com
 waiting.confluence.000.000.000.000.git.semmle.com
@@ -743,7 +734,7 @@ aicf.git.semmle.com
 51-169-95four.git.semmle.com
 aqlt.git.semmle.com
 apow.git.semmle.com
-www.bluray-confluence.000.000.000.000.git.semmle.com
+bluray-confluence.000.000.000.000.git.semmle.com
 6ndercpagit.git.semmle.com
 81qww.git.semmle.com
 aezr.git.semmle.com
@@ -766,7 +757,7 @@ aih4.git.semmle.com
 acqh.git.semmle.com
 csg-est-0046.csgconfluence.000.000.000.000.git.semmle.com
 alhe.git.semmle.com
-www.trailers00.000.000.000.000.git.semmle.com
+trailers00.000.000.000.000.git.semmle.com
 23-227-36-205it.git.semmle.com
 ryo.opusmobiled2confluence.000.000.000.000.git.semmle.com
 000-1love.000.000.000.000.000.git.semmle.com
@@ -801,7 +792,7 @@ mvm-qmri-0113.roslin.000.000.000.000.000.git.semmle.com
 196-215-jira.git.semmle.com
 afzx.git.semmle.com
 ahsd.git.semmle.com
-www.admin.git.semmle.com
+admin.git.semmle.com
 shachar11000.000.000.000.000.git.semmle.com
 alphawww.git.semmle.com
 xiangsilily000.000.000.000.000.git.semmle.com
@@ -816,7 +807,7 @@ ajms.git.semmle.com
 energyforum-confluence.000.000.000.000.git.semmle.com
 web252800.000.000.000.000.git.semmle.com
 20-svn.git.semmle.com
-www.humana-tours-confluence.000.000.000.000.git.semmle.com
+humana-tours-confluence.000.000.000.000.git.semmle.com
 000-demoww.git.semmle.com
 anb8.git.semmle.com
 51pit.git.semmle.com
@@ -835,7 +826,7 @@ ali6.git.semmle.com
 135-46our.git.semmle.com
 aoen.git.semmle.com
 akx6.git.semmle.com
-www.ips-confluence.000.000.000.000.git.semmle.com
+ips-confluence.000.000.000.000.git.semmle.com
 web11067confluence.000.000.000.000.git.semmle.com
 space87678-confluence.000.000.000.000.git.semmle.com
 000.000.000.10svn.git.semmle.com
@@ -1003,7 +994,7 @@ shop154845590.world-000.000.000.000.git.semmle.com
 aay3.git.semmle.com
 abt1.git.semmle.com
 inco00.000.000.000.git.semmle.com
-www.terminal000.000.000.000.000.git.semmle.com
+terminal000.000.000.000.000.git.semmle.com
 adminwww.git.semmle.com
 16-www.git.semmle.com
 odc2512confluence.000.000.000.000.git.semmle.com
@@ -1060,7 +1051,7 @@ aln0.git.semmle.com
 ane6.git.semmle.com
 babyboo00.000.000.000.000.git.semmle.com
 todayfood00.000.000.000.000.git.semmle.com
-www.whiti.co.nz.s-confluence.000.000.000.000.git.semmle.com
+whiti.co.nz.s-confluence.000.000.000.000.git.semmle.com
 acio.git.semmle.com
 akij.git.semmle.com
 mhs000.000.000.000.git.semmle.com
@@ -1076,7 +1067,7 @@ host-209-149-115-194-confluence.000.000.000.000.git.semmle.com
 8bjhupa3fmt6-iuy0-y1n.git.semmle.com
 137-122onfluence.000.000.000.000.git.semmle.com
 5i0rg62x5phsnwcfr148bd.git.semmle.com
-www.answers.git.semmle.com
+answers.git.semmle.com
 agpl.git.semmle.com
 acme.git.semmle.com
 vpn.1.git.semmle.com
@@ -1111,7 +1102,7 @@ ajuq.git.semmle.com
 hondainsatsu-com.000.000.000.000.git.semmle.com
 aptn.git.semmle.com
 acr4.git.semmle.com
-www.faironfluence.000.000.000.000.git.semmle.com
+faironfluence.000.000.000.000.git.semmle.com
 acfc.git.semmle.com
 external2000.000.000.000.git.semmle.com
 apfu.git.semmle.com
@@ -1126,7 +1117,7 @@ appu.git.semmle.com
 aazi.git.semmle.com
 ahpb.git.semmle.com
 anpv.git.semmle.com
-www.secured000.000.000.000.git.semmle.com
+secured000.000.000.000.git.semmle.com
 aclh.git.semmle.com
 afpk.git.semmle.com
 alhv.git.semmle.com
@@ -1219,7 +1210,7 @@ akvf.git.semmle.com
 aduh.git.semmle.com
 aihd.git.semmle.com
 0uhemldc73my7pdltawrqj.git.semmle.com
-www.amt-four.git.semmle.com
+amt-four.git.semmle.com
 16.git.semmle.com
 mafonfluence.000.000.000.000.git.semmle.com
 aggt.git.semmle.com
@@ -1229,7 +1220,7 @@ statusonfluence.000.000.000.000.git.semmle.com
 ablu.git.semmle.com
 ahd6.git.semmle.com
 anyb.git.semmle.com
-www.alice-five.git.semmle.com
+alice-five.git.semmle.com
 unallocated-host-000.000.000.000.000.git.semmle.com
 ahzl.git.semmle.com
 aaja.git.semmle.com
@@ -1249,7 +1240,7 @@ ebsco.confluence.000.000.000.000.git.semmle.com
 000.000.000.apiserversvn.git.semmle.com
 alov.git.semmle.com
 t3nonfluence.000.000.000.000.git.semmle.com
-www.apps-confluence.000.000.000.000.git.semmle.com
+apps-confluence.000.000.000.000.git.semmle.com
 ajyw.git.semmle.com
 000.000.000.svn.1.git.semmle.com
 26w8qdsyj.git.semmle.com
@@ -1293,7 +1284,7 @@ aoc.git.semmle.com
 admisiones.git.semmle.com
 d.ns.chmail.confluence.000.000.000.000.git.semmle.com
 web10199onfluence.000.000.000.000.git.semmle.com
-www.aspera.api.fr.000.000.000.000.git.semmle.com
+aspera.api.fr.000.000.000.000.git.semmle.com
 api-docs-www.git.semmle.com
 console-fe-benefits.akaww.git.semmle.com
 alterwind.git.semmle.com
@@ -1329,7 +1320,7 @@ aovp.git.semmle.com
 annw.git.semmle.com
 albj.git.semmle.com
 bay-confluence.000.000.000.000.git.semmle.com
-www.modelo.000.000.000.000.git.semmle.com
+modelo.000.000.000.000.git.semmle.com
 anle.git.semmle.com
 alli.git.semmle.com
 account.git.semmle.com
@@ -1337,7 +1328,7 @@ aab6.git.semmle.com
 video01-confluence.000.000.000.000.git.semmle.com
 addh.git.semmle.com
 akol.git.semmle.com
-www.orenburg.confluence.000.000.000.000.git.semmle.com
+orenburg.confluence.000.000.000.000.git.semmle.com
 ppls-printer4.ppls000.000.000.000.git.semmle.com
 67g1lq0eytgxc3bg4-l2.git.semmle.com
 ahrh.git.semmle.com
@@ -1355,7 +1346,7 @@ alexandre.git.semmle.com
 alto1-www.git.semmle.com
 000.000.000.12svn.git.semmle.com
 os21c.confluence.000.000.000.000.git.semmle.com
-www.myaccount00.000.000.000.git.semmle.com
+myaccount00.000.000.000.git.semmle.com
 api.new000.000.000.000.000.git.semmle.com
 aahp.git.semmle.com
 aval-jponfluence.000.000.000.000.git.semmle.com
@@ -1388,7 +1379,7 @@ alv1.git.semmle.com
 aavg.git.semmle.com
 aivw.git.semmle.com
 9p.git.semmle.com
-www.account-www.git.semmle.com
+account-www.git.semmle.com
 chapt-infoconfluence.000.000.000.000.git.semmle.com
 it.sslonfluence.000.000.000.000.git.semmle.com
 ajny.git.semmle.com
@@ -1423,7 +1414,6 @@ sub-166-155-91confluence.000.000.000.000.git.semmle.com
 000.000.000.8-svn.git.semmle.com
 tkp.confluence.000.000.000.000.git.semmle.com
 aigh.git.semmle.com
-6ww.git.semmle.com
 aess.git.semmle.com
 mailbe8.staffmail00.000.000.000.git.semmle.com
 0rmww.git.semmle.com
@@ -1483,11 +1473,11 @@ zzang0906100.000.000.000.000.git.semmle.com
 ahg7.git.semmle.com
 w90bf95c71kxh6pqhb-giydomrq.rqponmlkjihgfedcba9876543.snr-confluence.000.000.000.000.git.semmle.com
 car31.eng-confluence.000.000.000.000.git.semmle.com
-www.april.git.semmle.com
+april.git.semmle.com
 acwm.git.semmle.com
 afb6.git.semmle.com
 acvb.git.semmle.com
-www.fa000.000.000.000.git.semmle.com
+fa000.000.000.000.git.semmle.com
 ad.git.semmle.com
 ajn3.git.semmle.com
 aewc.git.semmle.com
@@ -1517,7 +1507,7 @@ alg2.git.semmle.com
 youvs.gamesconfluence.000.000.000.000.git.semmle.com
 apache-c.git.semmle.com
 vpn.6.git.semmle.com
-www.pokemononfluence.000.000.000.000.git.semmle.com
+pokemononfluence.000.000.000.000.git.semmle.com
 000.000.000.15-svn.git.semmle.com
 acacia.git.semmle.com
 apogee.git.semmle.com
@@ -1532,7 +1522,7 @@ induk11-040.000.000.000.000.000.git.semmle.com
 000.000.000.git.semmle.com
 aart.git.semmle.com
 yoshikisuny1.confluence.000.000.000.000.git.semmle.com
-www.franquicias-confluence.000.000.000.000.git.semmle.com
+franquicias-confluence.000.000.000.000.git.semmle.com
 ugate2.mpe-02-validation.apww.git.semmle.com
 media.fist7-2.fna.confluence.000.000.000.000.git.semmle.com
 camil.confluence.000.000.000.000.git.semmle.com
@@ -1587,7 +1577,6 @@ taiguk01-000.000.000.000.000.git.semmle.com
 abuse.git.semmle.com
 aqbu.git.semmle.com
 17www.git.semmle.com
-2ww.git.semmle.com
 catalyse.000.000.000.000.000.git.semmle.com
 akg0.git.semmle.com
 cpanel.ns.zy129-confluence.000.000.000.000.git.semmle.com
@@ -1617,7 +1606,7 @@ abj.git.semmle.com
 alrl.git.semmle.com
 chanwido7000.000.000.000.git.semmle.com
 aae8.git.semmle.com
-www.scm.it-000.000.000.000.000.git.semmle.com
+scm.it-000.000.000.000.000.git.semmle.com
 aec0.git.semmle.com
 aas6.git.semmle.com
 s1221b-confluence.000.000.000.000.git.semmle.com
@@ -1650,7 +1639,7 @@ aar1.git.semmle.com
 85lo8ugj.git.semmle.com
 web1699.000.000.000.000.000.git.semmle.com
 ap3.git.semmle.com
-www.apollo.git.semmle.com
+apollo.git.semmle.com
 msds.confluence.000.000.000.000.git.semmle.com
 wanlunpanjiqiaoconfluence.000.000.000.000.git.semmle.com
 ajs7.git.semmle.com
@@ -1686,11 +1675,11 @@ target-puppet.000.000.000.000.git.semmle.com
 ambk.git.semmle.com
 9-www.git.semmle.com
 amez.git.semmle.com
-www.plesk-confluence.000.000.000.000.git.semmle.com
+plesk-confluence.000.000.000.000.git.semmle.com
 orangesptr2confluence.000.000.000.000.git.semmle.com
 afvu.git.semmle.com
 abx5.git.semmle.com
-www.vegas.confluence.000.000.000.000.git.semmle.com
+vegas.confluence.000.000.000.000.git.semmle.com
 aag4.git.semmle.com
 analyticswww.git.semmle.com
 adk3.git.semmle.com
@@ -1704,7 +1693,6 @@ abmv.git.semmle.com
 quigon000.000.000.000.000.git.semmle.com
 ahm7.git.semmle.com
 sbp-gate-test-000.000.000.000.git.semmle.com
-www.2010.git.semmle.com
 akqw.git.semmle.com
 hoistfinance-api.euconfluence.000.000.000.000.git.semmle.com
 bookstore00.000.000.000.git.semmle.com
@@ -1783,7 +1771,7 @@ abi2.git.semmle.com
 abkf.git.semmle.com
 iceland00.000.000.000.000.git.semmle.com
 lona-confluence.000.000.000.000.git.semmle.com
-www.solsherpa-000.000.000.000.000.git.semmle.com
+solsherpa-000.000.000.000.000.git.semmle.com
 host-209-149-115-176onfluence.000.000.000.000.git.semmle.com
 swf-000.000.000.000.000.git.semmle.com
 0-pantheon.git.semmle.com
@@ -1863,7 +1851,7 @@ whs.000.000.000.000.000.git.semmle.com
 x-6.000.000.000.000.000.git.semmle.com
 ajpq.git.semmle.com
 3-www.git.semmle.com
-www.etpconfluence.000.000.000.000.git.semmle.com
+etpconfluence.000.000.000.000.git.semmle.com
 000.uponfluence.000.000.000.000.git.semmle.com
 afp1.git.semmle.com
 1gpwww.git.semmle.com
@@ -1871,7 +1859,7 @@ gi266admin000.000.000.000.git.semmle.com
 dcba987.service.now.comsivasl.xui.ptlogin2000.000.000.000.000.git.semmle.com
 afev.git.semmle.com
 lebronjames.semmleonfluence.000.000.000.000.git.semmle.com
-www.dcc00.000.000.000.000.git.semmle.com
+dcc00.000.000.000.000.git.semmle.com
 apji.git.semmle.com
 andv.git.semmle.com
 web18714confluence.000.000.000.000.git.semmle.com
@@ -1920,17 +1908,17 @@ psy-haloscopic.ppls.confluence.000.000.000.000.git.semmle.com
 apnz.git.semmle.com
 sunnynews.000.000.000.000.000.git.semmle.com
 01.git.semmle.com
-www.jaboglobal.com.sonfluence.000.000.000.000.git.semmle.com
+jaboglobal.com.sonfluence.000.000.000.000.git.semmle.com
 ajqn.git.semmle.com
 8qq-four.git.semmle.com
 ahdj.git.semmle.com
 sports1230-comonfluence.000.000.000.000.git.semmle.com
-www.2012.git.semmle.com
+2012.git.semmle.com
 000.frcasemanagerconfluence.000.000.000.000.git.semmle.com
 7e-git.git.semmle.com
 tnhawaii000.000.000.000.git.semmle.com
 amtr.git.semmle.com
-www.git-confluence.000.000.000.000.git.semmle.com
+git-confluence.000.000.000.000.git.semmle.com
 apollo-13.git.semmle.com
 is3confluence.000.000.000.000.git.semmle.com
 aawo.git.semmle.com
@@ -1938,7 +1926,7 @@ qoqo4496onfluence.000.000.000.000.git.semmle.com
 wv9-000.000.000.000.git.semmle.com
 aejb.git.semmle.com
 marketplace00.000.000.000.git.semmle.com
-www.computerfixonfluence.000.000.000.000.git.semmle.com
+computerfixonfluence.000.000.000.000.git.semmle.com
 4qjww.git.semmle.com
 akj0.git.semmle.com
 aldo.git.semmle.com
@@ -2030,7 +2018,7 @@ uk153200.000.000.000.git.semmle.com
 akt8.git.semmle.com
 rr7000.000.000.000.000.git.semmle.com
 afd4.git.semmle.com
-www.api1-toursconfluence.000.000.000.000.git.semmle.com
+api1-toursconfluence.000.000.000.000.git.semmle.com
 afjd.git.semmle.com
 000.000.admins-svn.git.semmle.com
 541-confluence.000.000.000.000.git.semmle.com
@@ -2052,20 +2040,20 @@ api1www.git.semmle.com
 aai2.git.semmle.com
 apvq.git.semmle.com
 r96confluence.000.000.000.000.git.semmle.com
-www.animemangagit.git.semmle.com
+animemangagit.git.semmle.com
 aws.domain-000.000.000.000.git.semmle.com
 aivz.git.semmle.com
 acsn.git.semmle.com
 adidas.git.semmle.com
 2-www.git.semmle.com
 aevi.git.semmle.com
-www.2016.git.semmle.com
+2016.git.semmle.com
 lijiboyulechengguanwangdizhi-000.000.000.000.git.semmle.com
 ammn.git.semmle.com
 anoc.git.semmle.com
 aokr.git.semmle.com
 adqf.git.semmle.com
-www.guia-000.000.000.000.git.semmle.com
+guia-000.000.000.000.git.semmle.com
 23227-git.git.semmle.com
 g8800.000.000.000.000.git.semmle.com
 www-t2.000.000.000.000.000.git.semmle.com
@@ -2079,7 +2067,7 @@ abq6.git.semmle.com
 akoj.git.semmle.com
 anuc.git.semmle.com
 imad000.000.000.000.000.git.semmle.com
-www.acessoit.git.semmle.com
+acessoit.git.semmle.com
 mtw000.000.000.000.000.git.semmle.com
 3quwww.git.semmle.com
 agvh.git.semmle.com
@@ -2264,7 +2252,7 @@ aqc.git.semmle.com
 web10762confluence.000.000.000.000.git.semmle.com
 akzg.git.semmle.com
 1ypfour.git.semmle.com
-www.meetme.msdproject-000.000.000.000.000.git.semmle.com
+meetme.msdproject-000.000.000.000.000.git.semmle.com
 web2932onfluence.000.000.000.000.git.semmle.com
 8hf.000.000.000.000.000.git.semmle.com
 adpu.git.semmle.com
@@ -2347,7 +2335,7 @@ aobz.git.semmle.com
 serv1-confluence.000.000.000.000.git.semmle.com
 aced.git.semmle.com
 alrv.git.semmle.com
-www.sheldor.usersconfluence.000.000.000.000.git.semmle.com
+sheldor.usersconfluence.000.000.000.000.git.semmle.com
 20www.git.semmle.com
 web1738onfluence.000.000.000.000.git.semmle.com
 assets-results2.support-confluence.000.000.000.000.git.semmle.com
@@ -2374,7 +2362,6 @@ d0m-confluence.000.000.000.000.git.semmle.com
 aci6.git.semmle.com
 akbu.git.semmle.com
 gewobagonfluence.000.000.000.000.git.semmle.com
-answers.git.semmle.com
 abcm.git.semmle.com
 peeeeeee7-comconfluence.000.000.000.000.git.semmle.com
 ipsec.000.000.000.000.git.semmle.com
@@ -2386,10 +2373,10 @@ ahfq.git.semmle.com
 adxn.git.semmle.com
 total.confluence.000.000.000.000.git.semmle.com
 n30.confluence.000.000.000.000.git.semmle.com
-www.raja-000.000.000.000.000.git.semmle.com
+raja-000.000.000.000.000.git.semmle.com
 14769000.000.000.000.000.git.semmle.com
 lsszzi000.000.000.000.000.git.semmle.com
-www.ilkonfluence.000.000.000.000.git.semmle.com
+ilkonfluence.000.000.000.000.git.semmle.com
 aoyn.git.semmle.com
 ado6.git.semmle.com
 aud.000.000.000.000.git.semmle.com
@@ -2401,14 +2388,14 @@ c.alpha.git.semmle.com
 amx6.git.semmle.com
 amis.git.semmle.com
 web1005700.000.000.000.000.git.semmle.com
-www.accounts.git.semmle.com
+accounts.git.semmle.com
 aaf-confluence.000.000.000.000.git.semmle.com
 accounts-www.git.semmle.com
 qualcomm.000.000.000.000.000.git.semmle.com
 akub.git.semmle.com
 optionsadmin-confluence.000.000.000.000.git.semmle.com
 csg-est-0308.csg-000.000.000.000.000.git.semmle.com
-www.levelup-000.000.000.000.git.semmle.com
+levelup-000.000.000.000.git.semmle.com
 hongboxinyu000.000.000.000.git.semmle.com
 ahon.git.semmle.com
 muel00.000.000.000.000.git.semmle.com
@@ -2418,7 +2405,7 @@ anok.git.semmle.com
 akk1.git.semmle.com
 ajod.git.semmle.com
 adga.git.semmle.com
-www.players000.000.000.000.git.semmle.com
+players000.000.000.000.git.semmle.com
 aglw.git.semmle.com
 homevideoadmin-000.000.000.000.000.git.semmle.com
 snkc001confluence.000.000.000.000.git.semmle.com
@@ -2434,7 +2421,6 @@ afvn.git.semmle.com
 acan.git.semmle.com
 ajzi.git.semmle.com
 000-nonce.git.semmle.com
-www.11.git.semmle.com
 earlypicker-000.000.000.000.git.semmle.com
 alob.git.semmle.com
 ada.git.semmle.com
@@ -2442,16 +2428,16 @@ anlq.git.semmle.com
 ahzi.git.semmle.com
 svc2-000.000.000.000.000.git.semmle.com
 ain9.git.semmle.com
-www.api.git.semmle.com
+api.git.semmle.com
 pdn11g-scan-000.000.000.000.git.semmle.com
 aix1.git.semmle.com
 aen9.git.semmle.com
 ajbv.git.semmle.com
 kern00.000.000.000.000.git.semmle.com
 0x4jira.git.semmle.com
-www.maa.000.000.000.000.git.semmle.com
+maa.000.000.000.000.git.semmle.com
 afvq.git.semmle.com
-www.alt.git.semmle.com
+alt.git.semmle.com
 akp.git.semmle.com
 aaf2.git.semmle.com
 anzy.git.semmle.com
@@ -2463,7 +2449,6 @@ amyc.git.semmle.com
 bodyup6000.000.000.000.000.git.semmle.com
 2c.git.semmle.com
 13808-www.git.semmle.com
-account-www.git.semmle.com
 aenq.git.semmle.com
 gourmetfoodadmin.000.000.000.000.git.semmle.com
 it-confluence.000.000.000.000.git.semmle.com
@@ -2510,7 +2495,7 @@ sj300.000.000.000.000.git.semmle.com
 uca.confluence.000.000.000.000.git.semmle.com
 andrew.git.semmle.com
 abrs.git.semmle.com
-www.test-000.000.000.000.000.git.semmle.com
+test-000.000.000.000.000.git.semmle.com
 199-45ww.git.semmle.com
 abtq.git.semmle.com
 gseibel.000.000.000.000.git.semmle.com
@@ -2518,7 +2503,7 @@ agca.git.semmle.com
 amiw.git.semmle.com
 alro.git.semmle.com
 aqgz.git.semmle.com
-www.02.git.semmle.com
+02.git.semmle.com
 db2.000.000.000.000.git.semmle.com
 alta.git.semmle.com
 apsb.git.semmle.com
@@ -2537,8 +2522,7 @@ amx4.git.semmle.com
 web457300.000.000.000.git.semmle.com
 amul.git.semmle.com
 puppymoon.000.000.000.000.git.semmle.com
-www.app.git.semmle.com
-www.api1.git.semmle.com
+api1.git.semmle.com
 amvl.git.semmle.com
 ahs7.git.semmle.com
 168-56-git.git.semmle.com
@@ -2551,7 +2535,7 @@ ajhb.git.semmle.com
 almuslimww.git.semmle.com
 web647100.000.000.000.000.git.semmle.com
 apiserver-www.git.semmle.com
-www.view.000.000.000.000.000.git.semmle.com
+view.000.000.000.000.000.git.semmle.com
 ajed.git.semmle.com
 alq8.git.semmle.com
 adtw.git.semmle.com
@@ -2684,7 +2668,6 @@ aiw7.git.semmle.com
 shop577159292.world-000.000.000.000.git.semmle.com
 afzs.git.semmle.com
 racersreunion000.000.000.000.000.git.semmle.com
-0ww.git.semmle.com
 advancedww.git.semmle.com
 service-000.000.000.000.000.git.semmle.com
 aen8.git.semmle.com
@@ -2696,8 +2679,8 @@ admans-xsrvjpjira.git.semmle.com
 admin.blog.semmle.com
 sub-166-155-10400.000.000.000.git.semmle.com
 delta2000.000.000.000.000.git.semmle.com
-www.sap00.000.000.000.000.git.semmle.com
-www.sos000.000.000.000.git.semmle.com
+sap00.000.000.000.000.git.semmle.com
+sos000.000.000.000.git.semmle.com
 web6065.confluence.000.000.000.000.git.semmle.com
 ah.git.semmle.com
 afs1.git.semmle.com
@@ -2713,11 +2696,10 @@ aopy.git.semmle.com
 afwt.git.semmle.com
 0stwww.git.semmle.com
 agy8.git.semmle.com
-2014.git.semmle.com
 122-88-jira.git.semmle.com
 aobj.git.semmle.com
 aoql.git.semmle.com
-www.www-confluence.000.000.000.000.git.semmle.com
+www-confluence.000.000.000.000.git.semmle.com
 music1042-000.000.000.000.000.git.semmle.com
 adw0.git.semmle.com
 5ka27l4o2gfdvia03dmzytm6.git.semmle.com
@@ -2776,7 +2758,7 @@ app1.git.semmle.com
 cs534101onfluence.000.000.000.000.git.semmle.com
 k.2009.git.semmle.com
 amid-git.git.semmle.com
-www.dota.000.000.000.000.git.semmle.com
+dota.000.000.000.000.git.semmle.com
 000.000.000.altsvn.git.semmle.com
 adr1.git.semmle.com
 apzn.git.semmle.com
@@ -2824,8 +2806,8 @@ acsk.git.semmle.com
 stamp-confluence.000.000.000.000.git.semmle.com
 ahk2.git.semmle.com
 888darenyulecheng-confluence.000.000.000.000.git.semmle.com
-www.rsc00.000.000.000.git.semmle.com
-www.akali.git.semmle.com
+rsc00.000.000.000.git.semmle.com
+akali.git.semmle.com
 afd7.git.semmle.com
 acwj.git.semmle.com
 000.000.000.svn.apt-internal.git.semmle.com
@@ -2858,7 +2840,7 @@ aiet.git.semmle.com
 anhb.git.semmle.com
 1daee-five.git.semmle.com
 amigo.git.semmle.com
-www.lessons.000.000.000.000.git.semmle.com
+lessons.000.000.000.000.git.semmle.com
 akcs.git.semmle.com
 agoy.git.semmle.com
 amzk.git.semmle.com
@@ -2901,10 +2883,9 @@ aal5.git.semmle.com
 anck.git.semmle.com
 502.git.semmle.com
 aposvawww.git.semmle.com
-1ww.git.semmle.com
 ussotest-confluence.000.000.000.000.git.semmle.com
 anjo.git.semmle.com
-www.blueocean62.users.admin.devconfluence.000.000.000.000.git.semmle.com
+blueocean62.users.admin.devconfluence.000.000.000.000.git.semmle.com
 aigr.git.semmle.com
 aeez.git.semmle.com
 234-148.git.semmle.com
@@ -2948,7 +2929,6 @@ andn.git.semmle.com
 akbf.git.semmle.com
 affi.git.semmle.com
 apna.git.semmle.com
-www.administrator.git.semmle.com
 alpda.git.semmle.com
 adrian.git.semmle.com
 aokp.git.semmle.com
@@ -2996,7 +2976,7 @@ apir.git.semmle.com
 000.000.000.akali-svn.git.semmle.com
 appli.git.semmle.com
 jkjihgfedcba9876543210zz.youtube.collanidda00.000.000.000.000.git.semmle.com
-www.suspended.000.000.000.000.git.semmle.com
+suspended.000.000.000.000.git.semmle.com
 mc.lax.000.000.000.000.git.semmle.com
 acwk.git.semmle.com
 2www.git.semmle.com
@@ -3007,7 +2987,7 @@ air8.git.semmle.com
 aiuu.git.semmle.com
 000-apollo.git.semmle.com
 ahs8.git.semmle.com
-www.cla000.000.000.000.000.git.semmle.com
+cla000.000.000.000.000.git.semmle.com
 api1-apollo.git.semmle.com
 toxik.confluence.000.000.000.000.git.semmle.com
 aeme.git.semmle.com
@@ -3049,7 +3029,7 @@ aao3.git.semmle.com
 carina00v.000.000.000.000.000.git.semmle.com
 aklp.git.semmle.com
 aoca.git.semmle.com
-www.lifestyle00.000.000.000.000.git.semmle.com
+lifestyle00.000.000.000.000.git.semmle.com
 32763confluence.000.000.000.000.git.semmle.com
 yoshionfluence.000.000.000.000.git.semmle.com
 9er-five.git.semmle.com
@@ -3127,7 +3107,6 @@ alliance.git.semmle.com
 ama5.git.semmle.com
 7u8.localization000.000.000.000.000.git.semmle.com
 sunrise-confluence.000.000.000.000.git.semmle.com
-5ww.git.semmle.com
 agm4.git.semmle.com
 000-depwww.git.semmle.com
 ammf.git.semmle.com
@@ -3160,7 +3139,7 @@ agj7.git.semmle.com
 haizile.world.000.000.000.000.000.git.semmle.com
 aclv.git.semmle.com
 irc.10.git.semmle.com
-www.oneview-confluence.000.000.000.000.git.semmle.com
+oneview-confluence.000.000.000.000.git.semmle.com
 adhq.git.semmle.com
 ale9.git.semmle.com
 ns30-000.000.000.000.000.git.semmle.com
@@ -3195,7 +3174,7 @@ adp.git.semmle.com
 aec4.git.semmle.com
 amy7.git.semmle.com
 agls.git.semmle.com
-www.20.git.semmle.com
+20.git.semmle.com
 rfc.000.000.000.000.000.git.semmle.com
 jc-www-000.000.000.000.000.git.semmle.com
 159-16.000.000.000.000.git.semmle.com
@@ -3231,7 +3210,7 @@ acds.git.semmle.com
 abi0.git.semmle.com
 decormaison-jponfluence.000.000.000.000.git.semmle.com
 kizunakeikaku-com.000.000.000.000.git.semmle.com
-www.why-000.000.000.000.000.git.semmle.com
+why-000.000.000.000.000.git.semmle.com
 sgshangtouzhu.admin-www.git.semmle.com
 26b4.000.000.000.000.000.git.semmle.com
 akjm.git.semmle.com
@@ -3317,7 +3296,7 @@ aiam.git.semmle.com
 acyu.git.semmle.com
 aack.git.semmle.com
 ael6.git.semmle.com
-www.neon00.000.000.000.git.semmle.com
+neon00.000.000.000.git.semmle.com
 net27sub02c-000.000.000.000.git.semmle.com
 6ev-four.git.semmle.com
 aowl.git.semmle.com
@@ -3353,7 +3332,6 @@ apvp.git.semmle.com
 anmw.git.semmle.com
 adzz.git.semmle.com
 132-235www.git.semmle.com
-www.4.git.semmle.com
 ajnr.git.semmle.com
 web5842confluence.000.000.000.000.git.semmle.com
 amazontr4268.confluence.000.000.000.000.git.semmle.com
@@ -3458,7 +3436,7 @@ afea.git.semmle.com
 ajp8.git.semmle.com
 dcsr.dep.000.000.000.000.git.semmle.com
 apple-pie2-com-000.000.000.000.git.semmle.com
-www.earnmoneyconfluence.000.000.000.000.git.semmle.com
+earnmoneyconfluence.000.000.000.000.git.semmle.com
 mxbackup1-confluence.000.000.000.000.git.semmle.com
 obamaconfluence.000.000.000.000.git.semmle.com
 000.000.svn.applications.git.semmle.com
@@ -3507,7 +3485,7 @@ alsu.git.semmle.com
 0-edge.git.semmle.com
 cara06000.000.000.000.git.semmle.com
 afzd.git.semmle.com
-www.2it.git.semmle.com
+2it.git.semmle.com
 v6ralph-confluence.000.000.000.000.git.semmle.com
 000.egovserviceshomeroom.000.000.000.000.git.semmle.com
 seacom000.000.000.000.000.git.semmle.com
@@ -3529,7 +3507,7 @@ a6.git.semmle.com
 ancb.git.semmle.com
 7654.git.semmle.com
 kassa.acceptatiefour.git.semmle.com
-www.www-9.manage-000.000.000.000.000.git.semmle.com
+www-9.manage-000.000.000.000.000.git.semmle.com
 29303git.git.semmle.com
 andrej.git.semmle.com
 web17945-confluence.000.000.000.000.git.semmle.com
@@ -3635,8 +3613,7 @@ afig.git.semmle.com
 aevl.git.semmle.com
 aagu.git.semmle.com
 abct.git.semmle.com
-alt.git.semmle.com
-www.apl-000.000.000.000.git.semmle.com
+apl-000.000.000.000.git.semmle.com
 ahhp.git.semmle.com
 abpn.git.semmle.com
 anpi.git.semmle.com
@@ -3666,7 +3643,7 @@ on20staticonfluence.000.000.000.000.git.semmle.com
 ahok.git.semmle.com
 abdb.git.semmle.com
 analytics-www.git.semmle.com
-www.lc.000.000.000.000.000.git.semmle.com
+lc.000.000.000.000.000.git.semmle.com
 amp.git.semmle.com
 ykk.confluence.000.000.000.000.git.semmle.com
 english-000.000.000.000.git.semmle.com
@@ -3748,7 +3725,7 @@ wuoonfluence.000.000.000.000.git.semmle.com
 aaxi.git.semmle.com
 aicv.git.semmle.com
 columbiascpre.confluence.000.000.000.000.git.semmle.com
-www.trkonfluence.000.000.000.000.git.semmle.com
+trkonfluence.000.000.000.000.git.semmle.com
 alaska.git.semmle.com
 aberdeen.git.semmle.com
 aiab.git.semmle.com
@@ -3759,7 +3736,7 @@ edirconfluence.000.000.000.000.git.semmle.com
 acd2.git.semmle.com
 aplc.git.semmle.com
 aoir.git.semmle.com
-www.spb-000.000.000.000.git.semmle.com
+spb-000.000.000.000.git.semmle.com
 sub-97-134-254onfluence.000.000.000.000.git.semmle.com
 aojw.git.semmle.com
 tryextacy.confluence.000.000.000.000.git.semmle.com
@@ -3834,7 +3811,6 @@ adov.git.semmle.com
 wlfrctonfluence.000.000.000.000.git.semmle.com
 8u7vaiu8bdu.git.semmle.com
 aonh.git.semmle.com
-apollo.git.semmle.com
 afdu.git.semmle.com
 ajsb.git.semmle.com
 aekr.git.semmle.com
@@ -3847,7 +3823,6 @@ tjwls80000.000.000.000.git.semmle.com
 6-www.git.semmle.com
 000-extgit-000.000.000.000.git.semmle.com
 kwik.000.000.000.000.git.semmle.com
-april.git.semmle.com
 214-249-000.000.000.000.git.semmle.com
 ajnn.git.semmle.com
 agis.git.semmle.com
@@ -3887,14 +3862,12 @@ ahl1.git.semmle.com
 amt8.git.semmle.com
 7tu.000.000.000.000.000.git.semmle.com
 acm6.git.semmle.com
-admin.git.semmle.com
 5ubzfkjw4ap3f40418khk.git.semmle.com
 ajxu.git.semmle.com
 ohnconfluence.000.000.000.000.git.semmle.com
 aflc.git.semmle.com
 apply00.000.000.000.git.semmle.com
 chinatownonfluence.000.000.000.000.git.semmle.com
-api.git.semmle.com
 albk.git.semmle.com
 adc3.git.semmle.com
 8irc.git.semmle.com
@@ -3963,7 +3936,6 @@ host-209-149-114-14-000.000.000.000.000.git.semmle.com
 142-249-four.git.semmle.com
 c128.000.000.000.000.git.semmle.com
 lms1.mobileapp-000.000.000.000.git.semmle.com
-api-docs.git.semmle.com
 183-168five.git.semmle.com
 agkd.git.semmle.com
 000.graylog-confluence.000.000.000.000.git.semmle.com
@@ -3994,11 +3966,10 @@ afod.git.semmle.com
 en60000.000.000.000.000.git.semmle.com
 al3ilm.git.semmle.com
 aasr.git.semmle.com
-www.just4funconfluence.000.000.000.000.git.semmle.com
+just4funconfluence.000.000.000.000.git.semmle.com
 altwww.git.semmle.com
 mp100.000.000.000.000.000.git.semmle.com
 mx03.confluence.000.000.000.000.git.semmle.com
-www.8.git.semmle.com
 ahit.git.semmle.com
 acm0.git.semmle.com
 afr5.git.semmle.com
@@ -4050,7 +4021,7 @@ apkf.git.semmle.com
 138-180-git.git.semmle.com
 kyungmin-027-confluence.000.000.000.000.git.semmle.com
 g1e-confluence.000.000.000.000.git.semmle.com
-www.iford000.000.000.000.git.semmle.com
+iford000.000.000.000.git.semmle.com
 acc7.git.semmle.com
 4no-confluence.000.000.000.000.git.semmle.com
 abf7.git.semmle.com
@@ -4074,7 +4045,6 @@ acgi.git.semmle.com
 njtrainingsystems-mentor4733onfluence.000.000.000.000.git.semmle.com
 echo2-000.000.000.000.git.semmle.com
 shop34461740.world.000.000.000.000.000.git.semmle.com
-www.alpha.git.semmle.com
 aid7.git.semmle.com
 dbprosearch01netconfluence.000.000.000.000.git.semmle.com
 ew53680r9be08n.confluence.000.000.000.000.git.semmle.com
@@ -4140,7 +4110,7 @@ aiza.git.semmle.com
 aflo.git.semmle.com
 365betjira.git.semmle.com
 a8www.git.semmle.com
-www.o.000.000.000.000.000.git.semmle.com
+o.000.000.000.000.000.git.semmle.com
 aqiw.git.semmle.com
 acs4.git.semmle.com
 ajiy.git.semmle.com
@@ -4179,7 +4149,7 @@ aio4.git.semmle.com
 000.000.000.8svn.git.semmle.com
 0-sandbox.git.semmle.com
 alpha1.git.semmle.com
-www.soa00.000.000.000.git.semmle.com
+soa00.000.000.000.git.semmle.com
 149-2529a4www.git.semmle.com
 nanum.app-backend00.000.000.000.git.semmle.com
 apza.git.semmle.com
@@ -4209,7 +4179,6 @@ aaf4.git.semmle.com
 inurface00.000.000.000.000.git.semmle.com
 ajpd.git.semmle.com
 aoer.git.semmle.com
-www.7.git.semmle.com
 aha0.git.semmle.com
 zjm.confluence.000.000.000.000.git.semmle.com
 000.headertop00.000.000.000.000.git.semmle.com
@@ -4234,7 +4203,7 @@ abbo.git.semmle.com
 aiyd.git.semmle.com
 tag-dev.idsync.analytics-www.git.semmle.com
 agjw.git.semmle.com
-www.syt.000.000.000.000.git.semmle.com
+syt.000.000.000.000.git.semmle.com
 amue.git.semmle.com
 acn7.git.semmle.com
 all8.git.semmle.com
@@ -4415,7 +4384,7 @@ aqks.git.semmle.com
 krbconfluence.000.000.000.000.git.semmle.com
 joons791-000.000.000.000.git.semmle.com
 aes5.git.semmle.com
-www.mail10000.000.000.000.git.semmle.com
+mail10000.000.000.000.git.semmle.com
 19.git.semmle.com
 3_wjconfluence.000.000.000.000.git.semmle.com
 ahiw.git.semmle.com
@@ -4466,7 +4435,6 @@ ajye.git.semmle.com
 hembeer-tech.nlconfluence.000.000.000.000.git.semmle.com
 akwu.git.semmle.com
 hss-health-0026.health.000.000.000.000.git.semmle.com
-akali.git.semmle.com
 amja.git.semmle.com
 aqjo.git.semmle.com
 aaxy.git.semmle.com
@@ -4532,7 +4500,7 @@ eservice-000.000.000.000.000.git.semmle.com
 apple.git.semmle.com
 amnj.git.semmle.com
 ns.heanet.ie.confluence.000.000.000.000.git.semmle.com
-www.weisse-liste.pflegeplaner000.000.000.000.000.git.semmle.com
+weisse-liste.pflegeplaner000.000.000.000.000.git.semmle.com
 abbasi-git.git.semmle.com
 000.000.000.svn.18.git.semmle.com
 alu8.git.semmle.com
@@ -4576,7 +4544,6 @@ afal.git.semmle.com
 ahap.git.semmle.com
 mstreaming-transaticlearpassword-ldap.docs-confluence.000.000.000.000.git.semmle.com
 8m.git.semmle.com
-2012.git.semmle.com
 afk5.git.semmle.com
 agi5.git.semmle.com
 aouj.git.semmle.com
@@ -4601,7 +4568,6 @@ akrs.git.semmle.com
 ajnh.git.semmle.com
 ahvw.git.semmle.com
 0z.git.semmle.com
-02.git.semmle.com
 adxl.git.semmle.com
 1737qipai.git.semmle.com
 aity.git.semmle.com
@@ -4686,7 +4652,6 @@ ahch.git.semmle.com
 anywhere.git.semmle.com
 aezf.git.semmle.com
 ader.git.semmle.com
-www.amazon.git.semmle.com
 aide.git.semmle.com
 chelyabinsk-rnoc-rr02.backbone-000.000.000.000.git.semmle.com
 web119000.000.000.000.000.git.semmle.com
@@ -4719,7 +4684,7 @@ airn.git.semmle.com
 abut.git.semmle.com
 1940500.000.000.000.git.semmle.com
 mondayshowconfluence.000.000.000.000.git.semmle.com
-www.nieuwsbrief.000.000.000.000.git.semmle.com
+nieuwsbrief.000.000.000.000.git.semmle.com
 afsz.git.semmle.com
 adt7.git.semmle.com
 anic.git.semmle.com
@@ -4777,7 +4742,6 @@ aevq.git.semmle.com
 oldnewsconfluence.000.000.000.000.git.semmle.com
 agqa.git.semmle.com
 bi.01ww.git.semmle.com
-3ww.git.semmle.com
 adwo.git.semmle.com
 orkutcommunity.000.000.000.000.000.git.semmle.com
 s005.000.000.000.000.000.git.semmle.com
@@ -4810,7 +4774,7 @@ ajxf.git.semmle.com
 alcz.git.semmle.com
 33251-git.git.semmle.com
 aeq.git.semmle.com
-www.php.confluence.000.000.000.000.git.semmle.com
+php.confluence.000.000.000.000.git.semmle.com
 web4921.confluence.000.000.000.000.git.semmle.com
 agpr.git.semmle.com
 2xewww.git.semmle.com
@@ -4829,7 +4793,7 @@ akhm.git.semmle.com
 kvm22confluence.000.000.000.000.git.semmle.com
 p2upport.ts.io.ioq-rece-confluence.000.000.000.000.git.semmle.com
 ydz-confluence.000.000.000.000.git.semmle.com
-www.zabbix-000.000.000.000.git.semmle.com
+zabbix-000.000.000.000.git.semmle.com
 aab0.git.semmle.com
 inqconfluence.000.000.000.000.git.semmle.com
 gyo000.000.000.000.000.git.semmle.com
@@ -4881,7 +4845,7 @@ smtp07.000.000.000.000.000.git.semmle.com
 loghost.www000.000.000.000.git.semmle.com
 oram05-h3-000.000.000.000.git.semmle.com
 shop65913038.000.000.000.000.git.semmle.com
-www.ap-confluence.000.000.000.000.git.semmle.com
+ap-confluence.000.000.000.000.git.semmle.com
 test.shop-000.000.000.000.000.git.semmle.com
 18.git.semmle.com
 aefh.git.semmle.com
@@ -4995,19 +4959,19 @@ abit.git.semmle.com
 staging.services-confluence.000.000.000.000.git.semmle.com
 vera00.000.000.000.000.git.semmle.com
 aosz.git.semmle.com
-www.crevette.confluence.000.000.000.000.git.semmle.com
+crevette.confluence.000.000.000.000.git.semmle.com
 abfr.git.semmle.com
 afrf.git.semmle.com
 f-magic-com-000.000.000.000.000.git.semmle.com
 va6confluence.000.000.000.000.git.semmle.com
 zbjkim000.000.000.000.git.semmle.com
-www.99jrtwww.git.semmle.com
+99jrtwww.git.semmle.com
 afo7.git.semmle.com
 lappi-jp.000.000.000.000.000.git.semmle.com
 afle.git.semmle.com
 a2-five.git.semmle.com
 sr-onetop-xsrvjp-confluence.000.000.000.000.git.semmle.com
-www.superc000.000.000.000.git.semmle.com
+superc000.000.000.000.git.semmle.com
 alaa.git.semmle.com
 abzl.git.semmle.com
 aggv.git.semmle.com

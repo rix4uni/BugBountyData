@@ -23,7 +23,7 @@ ossa2.yandex.az
 id.yandex.az
 m.disk.yandex.az
 api.messenger.alpha.yandex.az
-www.mail.yandex.az
+mail.yandex.az
 clck.yandex.az
 files.messenger.alpha.yandex.az
 mailpro.yandex.az
@@ -33,7 +33,6 @@ guard.oauth-test.yandex.az
 translate.yandex.az
 test.news.yandex.az
 rc.yandex.az
-www.zen.yandex.az
 core-pht-proxy.maps.yandex.az
 suggest-maps.yandex.az
 neim-tub.yandex.az
@@ -47,7 +46,6 @@ crowdtest.games.yandex.az
 push.yandex.az
 beta.disk.yandex.az
 editor.disk.yandex.az
-www.yandex.az
 sitesuggest.yandex.az
 downloader.disk.yandex.az
 guard.oauth-rc.yandex.az
@@ -62,7 +60,6 @@ guard.oauth.yandex.az
 m.news.yandex.az
 myfiles.yandex.az
 2.downloader.disk.yandex.az
-mail.yandex.az
 crowdtest.mail.yandex.az
 m.yandex.az
 external.files.messenger.alpha.yandex.az
@@ -107,22 +104,3 @@ id-test.yandex.az
 alice.yandex.az
 mail.360.yandex.az
 real-time-poi.maps.yandex.az
-*.l7test.yandex.az
-*.oauth-test.yandex.az
-*.crowdtest.games.yandex.az
-*.yandex.az
-*.api.chat.yandex.az
-*.chat.ws.yandex.az
-*.cloud-api.yandex.az
-*.downloader.disk.yandex.az
-*.oauth-rc.yandex.az
-*.crowdtest.maps.yandex.az
-*.homecrowdtest.yandex.az
-*.oauth.yandex.az
-*.morda.crowdtest.yandex.az
-*.crowdtest.yandex.az
-*.ossa2.yandex.az
-*.specto.yandex.az
-*.disk.yandex.az
-*.zen.yandex.az
-*.editor.disk.yandex.az

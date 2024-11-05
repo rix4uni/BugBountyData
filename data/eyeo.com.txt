@@ -8,7 +8,6 @@ aaf.telemetry.eyeo.com
 media.eyeo.com
 confluence.eyeo.com
 avast.telemetry.eyeo.com
-www.eyeo.com
 streamlit.eyeo.com
 icinga2.eyeo.com
 blog.eyeo.com
@@ -57,17 +56,10 @@ test-internal-matomo.eyeo.com
 icinga.eyeo.com
 galil.eyeo.com
 beta-collab.eyeo.com
-www.beta-collab.eyeo.com
 git.distpartners.eyeo.com
-www.git.distpartners.eyeo.com
-www.collab.eyeo.com
 collab.eyeo.com
-www.sandbox-jira.eyeo.com
 sandbox-jira.eyeo.com
 sandbox-confluence.eyeo.com
-www.sandbox-confluence.eyeo.com
-www.help.eyeo.com
-www.test-confluence.eyeo.com
 2.samsung-internet.filter-list-downloads.eyeo.com
 7.samsung-internet.filter-list-downloads.eyeo.com
 main.filter-delivery-staging.eyeo.com

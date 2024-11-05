@@ -19,7 +19,7 @@ r23.jf.intel.com
 esftdr-as2.intel.com
 as.sgx.trustedservices.intel.com
 plum.cps.intel.com
-www.wcs.adtechinc.marketingstudio.intel.com
+wcs.adtechinc.marketingstudio.intel.com
 popit-ft-prd.eglb.intel.com
 lbauto-192-198-164-131.cps.intel.com
 preproduction.intel.com
@@ -112,7 +112,7 @@ jfdmzpr05-ext.jf.intel.com
 ecv1iatsservicetool.cps.intel.com
 scpi.intel.com
 myaccess.intel.com
-www.atservice.intel.com
+atservice.intel.com
 egifwd02.intel.com
 erebus-e4-2.jf.intel.com
 fm1wrc.cps.intel.com
@@ -130,7 +130,7 @@ test2-iasbroker.intel.com
 yamuna.cps.intel.com
 tst1kratos.cps.intel.com
 prod-connection.intel.com
-www.wcs.onwardcomputersystem.marketingstudio.intel.com
+wcs.onwardcomputersystem.marketingstudio.intel.com
 ps-learn2.cps.intel.com
 globalsummit.intel.com
 eopenid-pre.intel.com
@@ -165,7 +165,7 @@ origin.devcloud.intel.com
 dev-wiki.digitalrequest.intel.com
 pre1sgcr.cps.intel.com
 qosvw.cps.intel.com
-www.makeit.intel.com
+makeit.intel.com
 cpslookup.intel.com
 prd1qdms.cps.intel.com
 seek.intel.com
@@ -197,7 +197,7 @@ fmfwpr15.fm.intel.com
 ps.sgx.trustedservices.intel.com
 casediagmf2.fm.intel.com
 solon.iil.intel.com
-www.wcs.broderscomputers.marketingstudio.intel.com
+wcs.broderscomputers.marketingstudio.intel.com
 sdo-dev.trustedservices.intel.com
 grooverly1.intel.com
 int2-cloudapi.intel.com
@@ -215,7 +215,7 @@ activation.test-trustedservices.intel.com
 smtp.customerinsight.intel.com
 m-test.intel.com
 mga11.intel.com
-www.wcs.aoitconsulting.marketingstudio.intel.com
+wcs.aoitconsulting.marketingstudio.intel.com
 connecticc.intel.com
 proxy2.hd.intel.com
 tst1trendservice-ecm.trendanalyticsmodule.cps.intel.com
@@ -341,7 +341,7 @@ ifttest-origin.intel.com
 ihi-stage.jf.intel.com
 bia.hd.intel.com
 email07.cps.intel.com
-www.service.intel.com
+service.intel.com
 newsroom.thailand.intel.com
 scsfm23.intel.com
 bel.epp.intel.com
@@ -351,7 +351,7 @@ ids2.intel.com
 dprptrlg-ppd.cps.intel.com
 preview-newsroom.intel.com
 pex-wus-c08.intel.com
-www.it.marketingstudio.intel.com
+it.marketingstudio.intel.com
 mgamail.eglb.intel.com
 esp.epp.intel.com
 tmgphoneatwork.intel.com
@@ -380,7 +380,7 @@ meet.corpint.intel.com
 mcafeerevenueshare-tst1.intel.com
 prdsupftp.cps.intel.com
 api.cms.platform.sports.intel.com
-www.datacentermanager.intel.com
+datacentermanager.intel.com
 designproject.learningstudio.intel.com
 soporte.intel.com
 emea.resellerstore.intel.com
@@ -437,7 +437,7 @@ scsjp01.intel.com
 fmsql509.fm.intel.com
 ecvfmbswarm.cps.intel.com
 prd1mren2w.cps.intel.com
-www.softwareoffer.intel.com
+softwareoffer.intel.com
 businessportal004.intel.com
 endebug-ext.eglb.intel.com
 businessportal004cons.intel.com
@@ -445,7 +445,7 @@ preview-marketingstudio.intel.com
 r28.jf.intel.com
 docker.cache.eu-west-3.tee.sports.intel.com
 visualadrenaline.intel.com
-www.fr.marketingstudio.intel.com
+fr.marketingstudio.intel.com
 developer.intel.com
 pmftuser.cps.intel.com
 morpheus.sc.intel.com
@@ -454,7 +454,7 @@ mrsproxyor19.intel.com
 apigw.build.lam-pilot.intel.com
 havpnl202.intel.com
 orderconfigurator.intel.com
-www.study.intel.com
+study.intel.com
 tmgphoneatwork.cps.intel.com
 bra.epp.intel.com
 insideout.intel.com
@@ -551,7 +551,7 @@ test.intel.com
 fmscsdpedge02-wc.cps.intel.com
 mrsproxyir15.intel.com
 seims-tst.cps.intel.com
-www.smartgrid.intel.com
+smartgrid.intel.com
 fmslogin102.cps.intel.com
 lbauto-192-198-160-105.cps.intel.com
 billingapi.intel.com
@@ -592,7 +592,7 @@ scsfm22.intel.com
 scsfm04.intel.com
 premierbench.cps.intel.com
 jffwpr01.jf.intel.com
-www.wcs.sunnytech.marketingstudio.intel.com
+wcs.sunnytech.marketingstudio.intel.com
 certremed.intel.com
 businessportallogoutcons.intel.com
 scsdnv.intel.com
@@ -616,7 +616,6 @@ fmsedm008.fm.intel.com
 community.edc.intel.com
 scsfm24.intel.com
 pex-wus-c10.intel.com
-datacentermanager.intel.com
 softwarestore.intel.com
 intelav.intel.com
 atropos.jf.intel.com
@@ -639,7 +638,7 @@ registrationcenter-ssl.intel.com
 ch16-gw.ch.intel.com
 learn.cps.intel.com
 ws.ec.lam-pilot.intel.com
-www.jp.marketingstudio.intel.com
+jp.marketingstudio.intel.com
 lbauto-192-198-167-142.cps.intel.com
 ptk1.westeurope.cloudapp.intel.com
 devfulphest06.intel.com
@@ -656,7 +655,7 @@ atropos4.jf.intel.com
 iboa1-or.cps.intel.com
 iam-pp.intel.com
 ocplm-testjcs.cps.intel.com
-www.tee.sports.intel.com
+tee.sports.intel.com
 ilms-day1.intel.com
 mgapp02.intel.com
 vpn-jf.eglb.intel.com
@@ -666,7 +665,7 @@ sniffer-pro-seg175.sc.intel.com
 mobilerel2.intel.com
 sipfm.intel.com
 murailotp.intel.com
-www.wcs.lanjavainc.marketingstudio.intel.com
+wcs.lanjavainc.marketingstudio.intel.com
 www91.intel.com
 proxy1.hd.intel.com
 rhadamanthus-f0-0.isng.intel.com
@@ -687,7 +686,7 @@ ifttest.cps.intel.com
 ib02.eglb.intel.com
 businessportal001bench.cps.intel.com
 b2btpaqa.cps.intel.com
-www.dev-qualitycenter.intel.com
+dev-qualitycenter.intel.com
 qa-learningstudio.intel.com
 mrsproxyor8.intel.com
 tst1lht-bcm.trendanalyticsmodule.cps.intel.com
@@ -785,14 +784,14 @@ nfl-dev.cdn.sports.intel.com
 client4.ch.intel.com
 secure-swpartner.intel.com
 fmextweb9.intel.com
-www.wcs.ctcsystemssrl.marketingstudio.intel.com
+wcs.ctcsystemssrl.marketingstudio.intel.com
 prd1rcm2w.cps.intel.com
 isdrrpp.intel.com
 www-dr.cps.intel.com
 email8-pre.intel.com
 ch70-gw.ch.intel.com
 universe.intel.com
-www.vi.marketingstudio.intel.com
+vi.marketingstudio.intel.com
 moderncodechallenge.intel.com
 businessportalbench.intel.com
 vdr.intel.com
@@ -804,12 +803,11 @@ fm1shale.cps.intel.com
 deployment.fd19.sports.intel.com
 prd-channelproducts.cps.intel.com
 premiercons.intel.com
-www.wcs.sfc.marketingstudio.intel.com
+wcs.sfc.marketingstudio.intel.com
 sdsi.intel.com
 workshops.ddcloud.intel.com
 ironkey-or.intel.com
 drc.intel.com
-dev-qualitycenter.intel.com
 shoppercampaigns-downloads.intel.com
 apis-ext-test-hf.intel.com
 contact.eglb.intel.com
@@ -831,7 +829,6 @@ egextdns01.intel.com
 scsiil03.intel.com
 registrationcenter-ndaorigin.cps.intel.com
 epid.trustedservices.intel.com
-www.qualitycenter.intel.com
 zh.realsenseappchallenge.intel.com
 fmslibra001.fm.intel.com
 modernstandbypartnerportal.intel.com
@@ -855,7 +852,7 @@ test-idq.intel.com
 create.intel.com
 priam.isw.intel.com
 digitalsecurity.intel.com
-www.olympics2018-update.sportscms.intel.com
+olympics2018-update.sportscms.intel.com
 bte01-ir.cps.intel.com
 scsfm.intel.com
 poc-cw-registrationcenter-download.intel.com
@@ -907,7 +904,7 @@ accounts.study.intel.com
 businessportalconsorigin.intel.com
 inteleducationresources.intel.com
 fm1irr-prd-fsc.amr.corp.intel.com
-www.epp.intel.com
+epp.intel.com
 fmfwpr03.fm.intel.com
 micrositesvpn.intel.com
 myctx-ir.cps.intel.com
@@ -958,7 +955,6 @@ scshd02.intel.com
 prd1sgak.cps.intel.com
 syndication.intel.com
 mrsproxyfm1.intel.com
-www.mtls.tee.sports.intel.com
 chextweb0.intel.com
 proserv-qa.intel.com
 ws.dev-int.lam-pilot.intel.com
@@ -967,7 +963,7 @@ _amazonses.intel.com
 dev-iss.intel.com
 telemetrydata.intel.com
 vpn.intel.com
-www.discounts.intel.com
+discounts.intel.com
 core.intel.com
 chextweb.intel.com
 mobileportal-int.intel.com
@@ -1000,7 +996,7 @@ conflictfree.intel.com
 fmsql750.fm.intel.com
 scsfm16.intel.com
 pgrail.intel.com
-www.olympics2018-data.sportscms.intel.com
+olympics2018-data.sportscms.intel.com
 qa-location.api.intel.com
 activation.trustedservices.intel.com
 elqtrkstg.intel.com
@@ -1063,7 +1059,7 @@ pt.intel.com
 businessportal003cons.cps.intel.com
 mta.intel.com
 vpn-mobile.eglb.intel.com
-www.wcs.multivendorproductsparts.marketingstudio.intel.com
+wcs.multivendorproductsparts.marketingstudio.intel.com
 myfoundrycons.cps.intel.com
 share.gameplay.intel.com
 upgrade.intel.com
@@ -1083,7 +1079,7 @@ lam-api.int.lam-pilot.intel.com
 drc-dev.intel.com
 ecv2sgak.cps.intel.com
 prd-syndication.cps.intel.com
-www.wcs.deltelcomllc.marketingstudio.intel.com
+wcs.deltelcomllc.marketingstudio.intel.com
 utp01.intel.com
 rsconf-dev.intel.com
 mits-pre.intel.com
@@ -1117,7 +1113,6 @@ irrxprd1fms.intel.com
 socialsigninpp.intel.com
 ircws.intel.com
 cache-int.api.intel.com
-www.cfa.devcloud.intel.com
 scsigk02.intel.com
 registration.intel.com
 jffwpr09.jf.intel.com
@@ -1186,7 +1181,7 @@ odata-origin.intel.com
 mysearch.intel.com
 businessportal001dev.intel.com
 lyncrp-ext-fm.eglb.intel.com
-www.tw.marketingstudio.intel.com
+tw.marketingstudio.intel.com
 web.cms.int.sports.intel.com
 arcstore-beta.intel.com
 builders.intel.com
@@ -1212,7 +1207,7 @@ perfmon-events.intel.com
 search2.cps.intel.com
 cms-stage.sports.intel.com
 iind-content-sync.cps.intel.com
-www.ai.intel.com
+ai.intel.com
 presync.intel.com
 elqtrk.thailand.intel.com
 eboa.cps.intel.com
@@ -1248,7 +1243,7 @@ irfwpr01.ir.intel.com
 test-game-admin.intel.com
 api.devcloud.intel.com
 isr.epp.intel.com
-www.cps.intel.com
+cps.intel.com
 mudmzpr02-ext.imu.intel.com
 qa-cloudapi.intel.com
 test.summits.intel.com
@@ -1307,13 +1302,13 @@ businessportal003bench.intel.com
 exto.intel.com
 learn5.intel.com
 webrtc.intel.com
-www.wcs.ordinateursunitechcomputers.marketingstudio.intel.com
+wcs.ordinateursunitechcomputers.marketingstudio.intel.com
 vpn-i-ha02.intel.com
 mango.cps.intel.com
 activityreimbursement.intel.com
 iglobe.ch.intel.com
 premdws.intel.com
-www.wcs.rbhall.marketingstudio.intel.com
+wcs.rbhall.marketingstudio.intel.com
 proxy1.ims.intel.com
 danaides-f1-0.ir.intel.com
 jpfwpr01.jp.intel.com
@@ -1570,7 +1565,7 @@ points-asmona-form.intel.com
 xdk.intel.com
 ddworkshops.intel.com
 ultbatchmap.intel.com
-www.wcs.8thgen.pclink.marketingstudio.intel.com
+wcs.8thgen.pclink.marketingstudio.intel.com
 scscr01.intel.com
 supporttickets-test.intel.com
 mga09.intel.com
@@ -1581,7 +1576,6 @@ imskey.intel.com
 pexip-amr.intel.com
 ecv2sgatewayeze.cps.intel.com
 ws.kc.lam-pilot.intel.com
-www.thailand.intel.com
 lbauto-192-198-164-93.cps.intel.com
 businessportalwelcome.intel.com
 fmfwpr06.fm.intel.com
@@ -1712,7 +1706,7 @@ test-iasbroker.intel.com
 login.devdesigningtools.intel.com
 scsshz02.intel.com
 r25.jf.intel.com
-www.cn.marketingstudio.intel.com
+cn.marketingstudio.intel.com
 tstbizsupport.intel.com
 partnercenter.intel.com
 github-webhooks-intel-pre-westus.intel.com
@@ -1722,7 +1716,6 @@ scspn03.intel.com
 scsfm14.intel.com
 cdrd.intel.com
 rpmww-qa.cps.intel.com
-discounts.intel.com
 appsec-int02.intel.com
 minos.intel.com
 evolvework.intel.com
@@ -1829,12 +1822,11 @@ scsiind03.intel.com
 jupyter.oneapi.devcloud.intel.com
 awslogin.intel.com
 proxy-perf-test.cps.intel.com
-www.eglb.intel.com
+eglb.intel.com
 fmsocsppr2cwa.cps.intel.com
 conf.intel.com
 configurator.intel.com
 wlan8.jf.intel.com
-epp.intel.com
 api-portal-internal.intel.com
 xdk-software.intel.com
 irscsdpedge02-ae.cps.intel.com
@@ -1901,7 +1893,6 @@ workflow-ext.intel.com
 scsidcint01-a.intel.com
 myfoundrysupp.cps.intel.com
 exhibitorportal.intel.com
-www.intel.com
 fmscdam005.fm.intel.com
 iil-content-sync.intel.com
 wrc.intel.com
@@ -1909,7 +1900,7 @@ prd1webquote.cps.intel.com
 channel.cps.intel.com
 partner.intel.com
 fmscses901-wc.cps.intel.com
-www.wcs.advancedcomputertech.marketingstudio.intel.com
+wcs.advancedcomputertech.marketingstudio.intel.com
 _sip._tls.intel.com
 registrationcenter-download-qa.intel.com
 software.seek.intel.com
@@ -2034,7 +2025,7 @@ orrail.intel.com
 a1.analytics.intel.com
 mtab02.intel.com
 email07-pre.cps.intel.com
-www.arabscience.intel.com
+arabscience.intel.com
 web.dev-int.lam-pilot.intel.com
 tapsrv-int02.cps.intel.com
 prd1cfhi3w01c.cps.intel.com
@@ -2067,7 +2058,7 @@ distimgmt.intel.com
 wsovantive-dev.fm.intel.com
 edevent.intel.com
 email07-pre.intel.com
-www.reader.intel.com
+reader.intel.com
 lbauto-198-175-96-186.cps.intel.com
 tapsrv-int02.intel.com
 wwwp.cps.intel.com
@@ -2080,8 +2071,8 @@ ittp.intel.com
 prepcache-www-o.intel.com
 businessportal002supp.cps.intel.com
 socialcookiedev.intel.com
-www.networkbuilders.intel.com
-www.html5dev-software.intel.com
+networkbuilders.intel.com
+html5dev-software.intel.com
 newsroom-prc.intel.com
 ccechina.intel.com
 pngfwpr02.png.intel.com
@@ -2094,7 +2085,6 @@ scextweb1.intel.com
 web.cms.qa.sports.intel.com
 rps-day1.intel.com
 rpmww.intel.com
-www.olympics2018-data-dev.sportscms.intel.com
 points-asmona-form.cps.intel.com
 vpn-prc.eglb.intel.com
 atropos8.jf.intel.com
@@ -2108,12 +2098,11 @@ mon.jf.intel.com
 b2bbizprod.cps.intel.com
 egeglb01.eglb.intel.com
 dsadata-origin.intel.com
-www.support.intel.com
+support.intel.com
 fmscdam021.fm.intel.com
 mrsproxyir7.intel.com
 easystepsonline.intel.com
 scspn14.intel.com
-softwareoffer.intel.com
 smallbusiness.intel.com
 sandbox.intel.com
 stagingservicelayer.eglb.intel.com
@@ -2153,7 +2142,6 @@ aut.epp.intel.com
 modifytest.intel.com
 externalreportingconsapp.intel.com
 utpapp01.intel.com
-www.fd19.sports.intel.com
 uatpartneruniversity.intel.com
 sau.epp.intel.com
 pre-erpm.intel.com
@@ -2188,7 +2176,7 @@ licensing.intel.com
 fmfwpr09.fm.intel.com
 tst-corpredirector.intel.com
 cc-is.intel.com
-www.wcs.datacenter.pclink.marketingstudio.intel.com
+wcs.datacenter.pclink.marketingstudio.intel.com
 iccconnect01.intel.com
 bte02.intel.com
 devapi.edge.devcloud.intel.com
@@ -2232,7 +2220,6 @@ wcm-qa.intel.com
 id-stage.hpdd.intel.com
 uplay-admin.intel.com
 auth-sso.oneapi.devcloud.intel.com
-tee.sports.intel.com
 acoma.cps.intel.com
 lyncdiscover.intel.com
 ns.intel.com
@@ -2288,11 +2275,9 @@ mrsproxybg12.intel.com
 resourcefirstdev.intel.com
 distimgmt-day1.intel.com
 jffwpr13.jf.intel.com
-makeit.intel.com
 pressl.intel.com
 itap-int4-waf.cps.intel.com
 app.plan.intel.com
-www.olympics2018-web.sportscms.intel.com
 api.cms-np.sports.intel.com
 lbauto-192-198-164-73.cps.intel.com
 fmr21.intel.com
@@ -2340,7 +2325,7 @@ fm1heron-pcache-ssl.cps.intel.com
 dev-context-s3.api.intel.com
 b2bservicesgateway.intel.com
 orextweb1.intel.com
-www.search.intel.com
+search.intel.com
 ccr-content-sync.cps.intel.com
 api-portal.intel.com
 kcl-api.pharma-analytics-platform.intel.com
@@ -2421,12 +2406,11 @@ pgdmzpr02-ext.png.intel.com
 downloadfinder.cps.intel.com
 hkg.epp.intel.com
 businessportal006bench.intel.com
-networkbuilders.intel.com
 ermwebviewer.eglb.intel.com
 development.api.trustedservices.intel.com
 redir-cps2-252.intel.com
 discover-at.intel.com
-www.th.marketingstudio.intel.com
+th.marketingstudio.intel.com
 egifwd01.intel.com
 qa-entitlementhub.intel.com
 comwebr2ext.intel.com
@@ -2455,7 +2439,7 @@ docker.cache.us-east-2.tee.sports.intel.com
 clf.eglb.intel.com
 proxy2.ims.intel.com
 irstssql01.ir.intel.com
-www.wcs.integralcorporation.marketingstudio.intel.com
+wcs.integralcorporation.marketingstudio.intel.com
 ib02.cps.intel.com
 tst2igeweb01.cps.intel.com
 ps-learn4.cps.intel.com
@@ -2498,7 +2482,7 @@ orslogin102.cps.intel.com
 ppfm01.fm.intel.com
 techtraining.intel.com
 apis-ext-test.intel.com
-www.asintelweb.cr.intel.com
+asintelweb.cr.intel.com
 fmprcfw01-ach.fm.intel.com
 atroposx.jf.intel.com
 lbauto-192-198-166-48.cps.intel.com
@@ -2597,7 +2581,7 @@ limestone.intel.com
 scsisw-2.intel.com
 mobilerel3cons.intel.com
 pex-wus-c05.intel.com
-www.wcs.8thgen.marketingstudio.intel.com
+wcs.8thgen.marketingstudio.intel.com
 fmfwpr10.fm.intel.com
 extrep-rteprd.intel.com
 signin-origin.intel.com
@@ -2644,7 +2628,6 @@ pan.epp.intel.com
 intelbrandadvantageprogram.intel.com
 intelpartneralliance.intel.com
 esr-gold.intel.com
-www.pp-qualitycenter.intel.com
 sso.edge.dev.devcloud.intel.com
 retailtools.intel.com
 nfl.cdn.sports.intel.com
@@ -2673,7 +2656,7 @@ loemsummit.intel.com
 jffwpr03.jf.intel.com
 businessportallogoutdev.intel.com
 orslogin101.cps.intel.com
-www.laes.marketingstudio.intel.com
+laes.marketingstudio.intel.com
 xehpg.intel.com
 digitalmarketplace.intel.com
 tst2igeweb02.cps.intel.com
@@ -2706,7 +2689,6 @@ signin.eglb.intel.com
 devep.devcloud.intel.com
 intelconnect.intel.com
 precrpmws.intel.com
-www.staging.study.intel.com
 fmsametime03.fm.intel.com
 ebpmsportal.cps.intel.com
 partners.intel.com
@@ -2720,7 +2702,7 @@ qa-context-s4.api.intel.com
 app-poc-nps.intel.com
 pdqan2w.cps.intel.com
 stheno.jp.intel.com
-www.promociones.intel.com
+promociones.intel.com
 iccconnect-in.intel.com
 apps.cfa.devcloud.intel.com
 registrationcenter-ssl-qa-download.intel.com
@@ -2735,7 +2717,7 @@ b2btpacon20.cps.intel.com
 pex-wus-c02.intel.com
 quality-designcenter.intel.com
 pre1-tsci.intel.com
-www.designintools.intel.com
+designintools.intel.com
 ca.pre1-trustedservices.eglb.intel.com
 devcloudpreprodstaging.intel.com
 pentium.intel.com
@@ -2780,7 +2762,6 @@ ind.epp.intel.com
 acrolinx-tst.intel.com
 mrsproxyha12.intel.com
 devcloudpreproddev.intel.com
-asintelweb.cr.intel.com
 appsecdownload.intel.com
 videos.intel.com
 businessportal004.cps.intel.com
@@ -2806,7 +2787,7 @@ petasus.isng.intel.com
 campaigncenter.intel.com
 goprologin.intel.com
 m.intel.com
-www.wcs.spsysnetpteltd.marketingstudio.intel.com
+wcs.spsysnetpteltd.marketingstudio.intel.com
 test-upgrades.eglb.intel.com
 tsde.intel.com
 tst1snopk.cps.intel.com
@@ -2828,7 +2809,6 @@ chex1.ch.intel.com
 dialin.intel.com
 ipdinterop.jf.intel.com
 adrms.intel.com
-www.pl.marketingstudio.intel.com
 vob-dev.intel.com
 ecv1sgatewaycr.cps.intel.com
 fedev.profiler.intel.com
@@ -2837,7 +2817,7 @@ mfaportalpp.intel.com
 b2btpaqa.intel.com
 tst1sgatewayeze.cps.intel.com
 connectse.intel.com
-www.tr.marketingstudio.intel.com
+tr.marketingstudio.intel.com
 platformactivation-app.intel.com
 web.ec.lam-pilot.intel.com
 hardware.intel.com
@@ -2869,15 +2849,14 @@ softwareinsight.intel.com
 ift-02.intel.com
 scsblr01.intel.com
 myfoundrybench.intel.com
-support.intel.com
-www.wcs.calculatedresearchandtechnology.marketingstudio.intel.com
+wcs.calculatedresearchandtechnology.marketingstudio.intel.com
 bca-prd.intel.com
 sfederationcca.cps.intel.com
 designcentersw-pp.intel.com
 sastha01.iil.intel.com
 myaccess-or.intel.com
-www.wcs.robinsonscomputerservices.marketingstudio.intel.com
-www.es.marketingstudio.intel.com
+wcs.robinsonscomputerservices.marketingstudio.intel.com
+es.marketingstudio.intel.com
 anti-theft.intel.com
 preprod-gameplay.intel.com
 timeline.intel.com
@@ -2913,7 +2892,6 @@ dev-connection.intel.com
 fmeglb01.eglb.intel.com
 fmscdam022.fm.intel.com
 prd1mbuild2w.cps.intel.com
-html5dev-software.intel.com
 gameplayapi.intel.com
 educate.intel.com
 businessportal005supp.cps.intel.com
@@ -2959,14 +2937,13 @@ srracsbc-01-campus.intel.com
 prd1egmps.cps.intel.com
 irscsdpedge01-xmpp.cps.intel.com
 simplecore-stg.intel.com
-www.wcs.mazdaconsulting.marketingstudio.intel.com
+wcs.mazdaconsulting.marketingstudio.intel.com
 mail.corpdev.intel.com
 cyrus.intel.com
 peach.cps.intel.com
 mga20.intel.com
 ecv1snopk.cps.intel.com
 prd1lz1.cps.intel.com
-www.wcs.pcmlogisticsllc.marketingstudio.intel.com
 ch.intel.com
 configurator-cons.intel.com
 tst-gameplay.intel.com
@@ -3099,7 +3076,7 @@ smartbuilding.iotdemo.intel.com
 mrsproxyir6.intel.com
 policy.system-usage-report.intel.com
 dcmdemo.intel.com
-www.wcs.precisiondatasolutionsinc.marketingstudio.intel.com
+wcs.precisiondatasolutionsinc.marketingstudio.intel.com
 fm1wip.cps.intel.com
 esr-qa.cps.intel.com
 tst1ircw.cps.intel.com
@@ -3184,9 +3161,8 @@ prd-monsoon11.cps.intel.com
 www97.intel.com
 fm1heron-pcache-www.cps.intel.com
 aggregator.nba.sportscms.intel.com
-www.glb.intel.com
+glb.intel.com
 irc-apigee-service.emaasmw.intel.com
-search.intel.com
 fmtscqr360iwv02.ed.cps.intel.com
 prd-arkrp.cps.intel.com
 scsjf17.intel.com
@@ -3210,13 +3186,11 @@ poc-installer.repos.intel.com
 sgcr.intel.com
 tensorflow-ci.intel.com
 _dmarc.intel.com
-www.intelandme.intel.com
 orrail-iot.intel.com
 dev-context-s2.api.intel.com
 vpn-i-ha01.intel.com
 mtransfer.intel.com
 processormatch.intel.com
-olympics2018-update.sportscms.intel.com
 login.fd19.sports.intel.com
 akastg-cache-int2.api.intel.com
 etserviceqa.intel.com
@@ -3238,7 +3212,6 @@ jupyter-sb7.edge.devcloud.intel.com
 fmtscqr360wsv01.ed.cps.intel.com
 asnvrdsgw.intel.com
 edgetemp.jf.intel.com
-www.olympics2018-cms-dev.sportscms.intel.com
 mrsproxyfm2.intel.com
 api.tee.sports.intel.com
 store.staging.study.intel.com
@@ -3306,7 +3279,6 @@ b2bwmtest.cps.intel.com
 staging2.intel.com
 saspsw01.intel.com
 poptimus.intel.com
-www.mtlsapi.tee.sports.intel.com
 itjira.intel.com
 tryoptane.intel.com
 iam-pp.cps.intel.com
@@ -3315,7 +3287,7 @@ admin.unitecloud.intel.com
 downloadcenter.intel.com
 security.intel.com
 cs-ccr1-dmz.fm.intel.com
-www.olympics2018-cms.sportscms.intel.com
+olympics2018-cms.sportscms.intel.com
 psirtw2.cps.intel.com
 fmfwpr02.fm.intel.com
 myctx.eglb.intel.com
@@ -3349,7 +3321,6 @@ cloudportal.intel.com
 fast.connected.intel.com
 aemdcontent.intel.com
 sbx.api.portal.trustedservices.intel.com
-designintools.intel.com
 transcoder.sports.intel.com
 inrail1.intel.com
 petasus.ims.intel.com
@@ -3414,13 +3385,13 @@ partner-admin.intel.com
 origin-platformsw.intel.com
 prd-dattww.cps.intel.com
 jira.hpdd.intel.com
-www.kenya.intel.com
+kenya.intel.com
 lbauto-198-175-96-56.cps.intel.com
 kalplana.cps.intel.com
 sssofm.cps.intel.com
 jf.intel.com
 webmail-int.cps.intel.com
-www.wcs.synnexus.marketingstudio.intel.com
+wcs.synnexus.marketingstudio.intel.com
 m.thailand.intel.com
 aw-lab-web-01.aw.intel.com
 cqr360w.cps.intel.com
@@ -3463,7 +3434,6 @@ b2btpacons.intel.com
 metrics.tee.sports.intel.com
 scsjf24.intel.com
 c2a.intel.com
-atservice.intel.com
 tartarus.isw.intel.com
 tst1trnc3w.cps.intel.com
 verify.epid.trustedservices.intel.com
@@ -3499,7 +3469,7 @@ ftpqa.intel.com
 devfulphest03.intel.com
 r2.technologyprovider.intel.com
 lighthouse.intel.com
-www.wcs.professionalinformationsystemsinc.marketingstudio.intel.com
+wcs.professionalinformationsystemsinc.marketingstudio.intel.com
 secprofile.cps.intel.com
 dev-cdrdv2.intel.com
 test182.cloudsecurity.intel.com
@@ -3508,14 +3478,13 @@ mrsproxyha14.intel.com
 fm1egret.cps.intel.com
 wip.intel.com
 plxs0892.pdx.intel.com
-promociones.intel.com
 antitrustgame.intel.com
 pss.intel.com
 dms-qa.cps.intel.com
 proxy1.ir.intel.com
 iotasia.intel.com
 cyberscoop-ex.intel.com
-www.br.marketingstudio.intel.com
+br.marketingstudio.intel.com
 prd1ircw.cps.intel.com
 ocplm-dev1jcs.cps.intel.com
 signinpp-origin.intel.com
@@ -3524,12 +3493,11 @@ mfaportal.intel.com
 edge-int.intel.com
 rconnect-adc.eglb.intel.com
 scscr.intel.com
-olympics2018-data.sportscms.intel.com
 ocplm-dev4jcs.cps.intel.com
 prd2-admin-cloudapi.intel.com
 mdcws.intel.com
 alecto.ch.intel.com
-www.wcs.unitekcomputersinc.marketingstudio.intel.com
+wcs.unitekcomputersinc.marketingstudio.intel.com
 mng.epp.intel.com
 cdrv2-test.apps1-fm-ext.icloud.intel.com
 atropos3.jf.intel.com
@@ -3572,7 +3540,6 @@ storagebuilders.intel.com
 iboa1.cps.intel.com
 verify.epid-prx.trustedservices.intel.com
 app-framework-software.intel.com
-ai.intel.com
 tuningplan.intel.com
 communities.intel.com
 exto-test.intel.com
@@ -3612,7 +3579,6 @@ aimsoa.iglb.intel.com
 irfsbnzweb02.ger.corp.intel.com
 amr-fmext-registry.caas.intel.com
 pgdmzpr04-ext2.png.intel.com
-www.test183.cloudsecurity.intel.com
 fmr03.intel.com
 tst1rspweb.cps.intel.com
 dlworkbench.intel.com
@@ -3633,7 +3599,7 @@ srracsbc-01-inet.iind.intel.com
 bgdmzpr04-ext2.iind.intel.com
 retailupgrades.intel.com
 appshowcase.wdg.intel.com
-www.appack.intel.com
+appack.intel.com
 fmdialprd02.ed.cps.intel.com
 eco3acsbc-inet01b.iind.intel.com
 gerrit-gfx-sh.intel.com
@@ -3688,7 +3654,7 @@ azslmap002.ch.intel.com
 teamcity02-or.intel.com
 rpmdev.intel.com
 af01p-ir-app05.devtools.intel.com
-www.aloha.intel.com
+aloha.intel.com
 ubit-artifactory-dev.intel.com
 chfdns01.ch.intel.com
 sttdisti-prd.intel.com
@@ -3820,7 +3786,7 @@ lbauto-10-11-52-35.cps.intel.com
 shzdmzpr03-ext2.sh.intel.com
 prd1idzwin.cps.intel.com
 ilnwebe1.ed.cps.intel.com
-www.desejodenatal.intel.com
+desejodenatal.intel.com
 fmscswas102.amr.corp.intel.com
 fmappgts1.intel.com
 www89.intel.com
@@ -3984,7 +3950,6 @@ axon-akspoc.intel.com
 tc01s-ir.secondary.devtools.intel.com
 downloadcenter-dev.intel.com
 itmanager3.intel.com
-www.shopadminaccess.intel.com
 hfpediagcxgw14.cps.intel.com
 sniff-253.ch.intel.com
 cje-fm-owrp-prod02-static.devtools.intel.com
@@ -4022,7 +3987,6 @@ ccss-staging.intel.com
 cons1msbiws04.ed.cps.intel.com
 bower.intel.com
 plt07.ch.intel.com
-www.analytics.intel.com
 mrsproxysh13.intel.com
 prd1mdfws.cps.intel.com
 fmbroker1.cps.intel.com
@@ -4124,7 +4088,6 @@ exsrv.intel.com
 ultrabookexperience.intel.com
 skcacsbc-campus01b.iind.intel.com
 scci21007.sc.intel.com
-www.customercare.intel.com
 ir-prod-codecollab.intel.com
 ark-qa.intel.com
 jfrailvoaweb01.jfrail.intel.com
@@ -4148,7 +4111,7 @@ or1heron-ssl.cps.intel.com
 prd1idpythw02.cps.intel.com
 tst2sgatewayeze.sfr.cps.intel.com
 mudmzpr06-ext.imu.intel.com
-www.easysteps.intel.com
+easysteps.intel.com
 prd-bcaws.cps.intel.com
 teamcity01-or.devtools.intel.com
 tc02p-iil.primary.devtools.intel.com
@@ -4194,9 +4157,9 @@ exp-minio-mai-api.intel.com
 lsr81.ch.intel.com
 irsumgapp008.ir.intel.com
 chh271.ch.intel.com
-www.iotsolutionsalliance.intel.com
+iotsolutionsalliance.intel.com
 amigo-253.ch.intel.com
-www.wcs.datelsystemsinc.marketingstudio.intel.com
+wcs.datelsystemsinc.marketingstudio.intel.com
 gfx-assets.sh.intel.com
 klocwork-gfx.intel.com
 ozzy.ch.intel.com
@@ -4268,13 +4231,11 @@ pg14-1-nex-cbrd-p089.intel.com
 teamcity-or.intel.com
 ideation.intel.com
 prd1ircews01.cps.intel.com
-www.olympics2018-web-dev.sportscms.intel.com
 test-commerce.api.intel.com
 arms-fe01a.cps.intel.com
 tc01p-sh.devtools.intel.com
 orsqawurl01.amr.corp.intel.com
 orscswas102.amr.corp.intel.com
-www.storagebuilders.intel.com
 uspss-desk35a.ch.intel.com
 s3.dualstack.sa-east-1.sthree.intel.com
 jrcppm5k.jer.intel.com
@@ -4307,13 +4268,12 @@ subcon.amax2.intel.com
 lmorris-mobl.ch.intel.com
 eas-int.intel.com
 ifsbenweb03.cps.intel.com
-www.ca.trustedservices.intel.com
 prd1matservicetool01.cps.intel.com
 spaczone.intel.com
 vmsdearweb01.amr.corp.intel.com
 gmlewis1-mobl1.ch.intel.com
 ba-next-af.devtools.intel.com
-www.ejulrich-cb.ch.intel.com
+ejulrich-cb.ch.intel.com
 igk.sova.intel.com
 azproxy-test.iglb.intel.com
 webgateway.intel.com
@@ -4338,7 +4298,6 @@ tst1jira2w01.ed.cps.intel.com
 prd1idzlogin01.cps.intel.com
 i360.intel.com
 tc05p-or.devtools.primary.intel.com
-www.technologysandboxcons.intel.com
 caifanes-1.ch.intel.com
 vpngp-amr.intel.com
 ch163-gw.ch.intel.com
@@ -4391,7 +4350,7 @@ chh292.ch.intel.com
 test-iuaws.intel.com
 o11y-otel.idcmgt.intel.com
 vmspm5is001.amr.corp.intel.com
-www.services.intel.com
+services.intel.com
 amrprotex017.devtools.intel.com
 ch32j1pvt1.ch.intel.com
 lyncweb-pp.intel.com
@@ -4518,7 +4477,6 @@ aa-prod-design.intel.com
 chs055.ch.intel.com
 fm7irr504.cps.intel.com
 vidbox2.intel.com
-www.sbx-as.sgx.trustedservices.intel.com
 af01p-sh-app05.devtools.intel.com
 tst1mateesg.eglb.intel.com
 secprofile-dr.cps.intel.com
@@ -4531,7 +4489,6 @@ vpngp-an.intel.com
 ipagraph-pre.intel.com
 scsiil-2.intel.com
 tst1protectedmediaonline.eglb.intel.com
-www.modeller.intel.com
 mrsproxysh4.intel.com
 rmsi-gold-int.intel.com
 or-prod-corpredirector.intel.com
@@ -4543,7 +4500,7 @@ godavari2.ed.cps.intel.com
 vpngp-kctidc.intel.com
 ecv1matservicetool01.cps.intel.com
 supportsuite-dev.intel.com
-www.test-ps2as.sgx.trustedservices.intel.com
+test-ps2as.sgx.trustedservices.intel.com
 tst2rcews.eglb.intel.com
 scsamc03.intel.com
 ark-care-tst.intel.com
@@ -4577,9 +4534,7 @@ v265-hf22d-zfg201-vrrp.cps.intel.com
 android.intel.com
 prd1idz-auth.cps.intel.com
 docker.imu.intel.com
-www.location.api.intel.com
 sgak.glb.intel.com
-www.channeltraining.intel.com
 skcacsbc-inet01.iind.intel.com
 fmspwewk02.cps.intel.com
 mail01.apactp.intel.com
@@ -4610,7 +4565,6 @@ hf2-sbox-codecollab.intel.com
 ajwatso2-mobl2.ch.intel.com
 test282.hadoop.intel.com
 pg14-1-nex-cbrd-p040.intel.com
-www.simplecore-dev-gar.intel.com
 fm1canary-ssl.cps.intel.com
 uspss-qa1.ch.intel.com
 prd2sps3w04.ed.cps.intel.com
@@ -4745,9 +4699,7 @@ teamcityha.iglb.intel.com
 aempod2content-active.intel.com
 fmspisip103.amr.corp.intel.com
 fre-con.ch.intel.com
-test-ps2as.sgx.trustedservices.intel.com
 fcehandbook.intel.com
-www.movieoffer.intel.com
 jpfwpr02.jp.intel.com
 nbflow.intel.com
 fmslogin01.ed.intel.com
@@ -4767,7 +4719,6 @@ ubit-teamcity-sh.primary.devtools.intel.com
 fmvsvdse102.ed.cps.intel.com
 klocwork-jf27.devtools.intel.com
 origin-int2-software.intel.com
-ejulrich-cb.ch.intel.com
 lbauto-172-30-179-149.cps.intel.com
 origin-int6-software.intel.com
 prd1ditapdisp02.cps.intel.com
@@ -4847,7 +4798,7 @@ mrsproxycr1.intel.com
 azslab013.ch.intel.com
 prd1synccmp05.cps.intel.com
 external-mail-relay.corpint.intel.com
-www.ddcloud.intel.com
+ddcloud.intel.com
 idcstg-aip-otel.cloud.intel.com
 vmsconmon1.amr.corp.intel.com
 calypsotrn.ch.intel.com
@@ -4889,7 +4840,6 @@ prd1sps3w04.cps.intel.com
 vpn-odc-idc.intel.com
 jmjordan-mobl.ch.intel.com
 secure-ext-relay.eglb.intel.com
-www.estimator.intel.com
 eir.amax2-ba.intel.com
 1-ecm.trendanalyticsmodule.cps.intel.com
 assetcenter.intel.com
@@ -4911,7 +4861,6 @@ fmr05.intel.com
 mysharepoint.fldc.intel.com
 eroom3-out.cps.intel.com
 cbjenkins-fm-static.devtools.intel.com
-www.context-sensing.intel.com
 af01p-sc-app02.devtools.intel.com
 menace.ch.intel.com
 webservices-intnew-fm.intel.com
@@ -5077,7 +5026,6 @@ contact-dev01.intel.com
 af02p-ir-app04.devtools.intel.com
 jdruth-mobl.ch.intel.com
 ccp-dev.laas.intel.com
-easysteps.intel.com
 jfrailvtf02.jfrail.intel.com
 pg14-1-nex-cbrd-p058.intel.com
 tst1sgatewaynotif.sfr.cps.intel.com
@@ -5109,7 +5057,7 @@ hsft-shares.intel.com
 v3076-fm11d-zfg301a.cps.intel.com
 tbvexclientapi-pp.intel.com
 vpngp-png04.intel.com
-www.guitarstar.intel.com
+guitarstar.intel.com
 fmtstircw02.cps.intel.com
 amrcmgp01-pp.intel.com
 scscasp023.sc.intel.com
@@ -5117,7 +5065,6 @@ lemadmincenter.cons.intel.com
 rigchallenge-api.intel.com
 ermwebviewer.intel.com
 dr1jazzccm01.ed.cps.intel.com
-www.bizstarterpack.intel.com
 ws-integration-agr.intel.com
 rb.local.pre.service.sgx.trustedservices.intel.com
 gfx-klocwork304.intel.com
@@ -5189,7 +5136,6 @@ pg14-1-nex-cbrd-p047.intel.com
 corpredirect-dev.intel.com
 bcauser-preview.intel.com
 fm2-sbox-codecollab.intel.com
-www.techprovider.intel.com
 fmstidua5.amr.corp.intel.com
 tst1sgatewayqa.cps.intel.com
 vf8psdctm002.ch.intel.com
@@ -5350,7 +5296,6 @@ forms-software.intel.com
 alfresco-bench.intel.com
 ole.intel.com
 tap-srv02.cps.intel.com
-olympics2018-cms.sportscms.intel.com
 ifredirect-preprod.intel.com
 fmsp1ermw01.ed.cps.intel.com
 m5i-fm.cps.intel.com
@@ -5449,7 +5394,6 @@ tst1mdfws01.cps.intel.com
 tfs-data-fm-03.devtools.intel.com
 hub-dev.docker.intel.com
 newemployee.intel.com
-www.tmgphoneatwork.intel.com
 myctx.intel.com
 lbauto-192-102-192-20.cps.intel.com
 secprofile-preprod.intel.com
@@ -5501,7 +5445,6 @@ fmsdsspre13.amr.corp.intel.com
 ifspdws02.cps.intel.com
 orrailvoafs01.jfrail.intel.com
 ecoacsbc-inet02b.iind.intel.com
-desejodenatal.intel.com
 fm1canary-prv-act-ssl.cps.intel.com
 tcall-pre.intel.com
 monster.ch.intel.com
@@ -5711,7 +5654,6 @@ teams.intel.com
 fmvip2.cps.intel.com
 chsolnsql01.ch.intel.com
 partneradmin.intel.com
-www.inara.intel.com
 ifspvws02.ed.cps.intel.com
 chhs79.ch.intel.com
 dev-cdrv2.apps1-fm-ext.icloud.intel.com
@@ -5954,8 +5896,7 @@ swx.intel.com
 cboa02.sym.cps.intel.com
 design-studio.intel.com
 cas-service.intel.com
-www.euclidcommunity.intel.com
-www.wcs.compucom.marketingstudio.intel.com
+euclidcommunity.intel.com
 prd1padisp2w05.cps.intel.com
 azsprod003-253.ch.intel.com
 fm6safapp004.fm.intel.com
@@ -5975,16 +5916,14 @@ iipapps.intel.com
 ifsbenweb01.cps.intel.com
 elrond.ch.intel.com
 int.update.intel.com
-www.induicp.intel.com
+induicp.intel.com
 af01p-il-app04.devtools.intel.com
 af01p-sh-app04.devtools.intel.com
 prd3synccmp01.cps.intel.com
 onezoo.intel.com
-www.dev-gameplay.intel.com
 fmspdrmsp1.cps.intel.com
 adminhost02.ddcloud.intel.com
 kafka-aurora-pre.caas.intel.com
-www.test-estimator.intel.com
 fms07esxcasd010.cps.intel.com
 vmsplansql020.amr.corp.intel.com
 musxalmd500.imu.intel.com
@@ -6006,7 +5945,6 @@ fm1erpm3w01.ed.cps.intel.com
 mga15.intel.com
 adcprod001-fg.ch.intel.com
 newton.ch.intel.com
-www.thunderboltimagebuilder.intel.com
 sapdrehb1c.intel.com
 msgcntr-svc-cons.intel.com
 lbauto-192-198-160-157.cps.intel.com
@@ -6016,7 +5954,6 @@ channelproducts-prd.intel.com
 pgmexprodwv02.gar.corp.intel.com
 pg14-1-nex-cbrd-k063.intel.com
 dialin-pp.intel.com
-www.simplecore-dev-ger.intel.com
 raspnuc203.amr.corp.intel.com
 mga07b.intel.com
 prd3synccmp05.cps.intel.com
@@ -6063,13 +6000,12 @@ africa.shewillconnect.intel.com
 dtr-pilot-sc.intel.com
 pex-ne-c02.intel.com
 designschoolnetwork.intel.com
-www.b2btpa-prd20.intel.com
 vmsejazz03.amr.corp.intel.com
 fabgpt.imc-cn01.rf3stg.mfgint.intel.com
 imbbc-vlan836.wan.intel.com
 prd3padisp2w04.ed.cps.intel.com
 sandbox-3.maestro-sandbox.one-edge.intel.com
-www.liveitup.intel.com
+liveitup.intel.com
 gdc.sova.intel.com
 intelsearch.cps.intel.com
 ch3-1j8-bw02.ch.intel.com
@@ -6096,10 +6032,10 @@ apaciotsc.intel.com
 fmtestbt01.ed.cps.intel.com
 v-tfs.devtools.intel.com
 chh311.ch.intel.com
-www.wcs.mobiuspartners.marketingstudio.intel.com
+wcs.mobiuspartners.marketingstudio.intel.com
 ignite.ch.intel.com
 amax2-qauat-inventory.intel.com
-www.fd19.intel.com
+fd19.intel.com
 fm1irr302.amr.corp.intel.com
 cofluent-design.intel.com
 businessportal006dr.cps.intel.com
@@ -6108,7 +6044,7 @@ eroom4-out.cps.intel.com
 uspss-desk17.ch.intel.com
 msgcntr-svc-d1.intel.com
 djpawlik-mobl.ch.intel.com
-www.gamingbundle.intel.com
+gamingbundle.intel.com
 shewillconnect.intel.com
 registrationcenter-ecv.cps.intel.com
 market.intel.com
@@ -6155,7 +6091,7 @@ kibana.tee19.sports.intel.com
 1tas-core-api.intel.com
 vpngp-srr07.intel.com
 v264-hf22d-zfg201b.cps.intel.com
-www.orderscons.intel.com
+orderscons.intel.com
 fmslogin102.ed.cps.intel.com
 chhs154.ch.intel.com
 identityapi.intel.com
@@ -6215,7 +6151,6 @@ tst1ircdb01.cps.intel.com
 lbauto-192-198-172-35.cps.intel.com
 tst1ircdbw01.cps.intel.com
 fmslogin101.ed.cps.intel.com
-www.goprologin.intel.com
 fm7fncw101.cps.intel.com
 jira.intel.com
 iamapi.intel.com
@@ -6227,7 +6162,6 @@ azsprint005.ch.intel.com
 pg14-1-nex-cbrd-p085.intel.com
 uspss-desk14.ch.intel.com
 pddmzpr01-ext.pd.intel.com
-www.connectzone.intel.com
 tfs-is-03.devtools.intel.com
 klocwork-iind6.devtools.intel.com
 fmsloginsqa02.ed.cps.intel.com
@@ -6307,7 +6241,6 @@ prdeverestw02.cps.intel.com
 ubit-teamcity-jf.intel.com
 vtune-demo.sc.intel.com
 plugins.app-framework-software.intel.com
-www.patents.intel.com
 ckcase-desk3.ch.intel.com
 af01p-gl-app04.devtools.intel.com
 gerklocwork001.devtools.intel.com
@@ -6355,7 +6288,6 @@ rm.laas.intel.com
 dafduck.ch.intel.com
 vmsiamwspr02.ed.cps.intel.com
 fmsppmfa04.ed.cps.intel.com
-arabscience.intel.com
 jf50504wf-tc.jf.intel.com
 fm1irr302.cps.intel.com
 taz.ch.intel.com
@@ -6416,7 +6348,6 @@ clf.intel.com
 fmsissopfs02.cps.intel.com
 cbrd-ext-k2003.intel.com
 github.intel.com
-www.policycentral.intel.com
 webservices-devnew-fm.intel.com
 gfx-assets-int.fm.intel.com
 tst1xdtdb01.cps.intel.com
@@ -6508,7 +6439,6 @@ aa-exp-mai.intel.com
 wcm-test.intel.com
 lcfwpr02.lc.intel.com
 swissapigatewayprod.intel.com
-www.vessel.intel.com
 systemtest14.amr.corp.intel.com
 pkudli-mobl.ch.intel.com
 azswww-ssl02.cps.intel.com
@@ -6520,7 +6450,6 @@ fmpediagcxgw4.cps.intel.com
 secprofile-preprod.cps.intel.com
 oaplm01.jfrail.intel.com
 vpngp-tec.intel.com
-www.email8-pre.intel.com
 utpdev02.intel.com
 pg14-1-nex-cbrd-p087.intel.com
 klocwork23-gfx.intel.com
@@ -6580,7 +6509,6 @@ retailedgesaml.intel.com
 ark-care02.intel.com
 apps.sp2019.intel.com
 fm7iugtax001.fm.intel.com
-liveitup.intel.com
 prod-corpredirector.intel.com
 modernpc.thailand.intel.com
 sntrax-qa-app.intel.com
@@ -6606,7 +6534,7 @@ test-automation-akamai.intel.com
 minio-ui-preprod.intel.com
 prdcdrweb.cps.intel.com
 cbrd-ext-k4010.intel.com
-www.hotels.intel.com
+hotels.intel.com
 prd1compdb2w01.cps.intel.com
 chw2w0029.ch.intel.com
 vpngp-amc02.intel.com
@@ -6654,10 +6582,8 @@ aclam-desk1.amr.corp.intel.com
 tst1ruw.cps.intel.com
 secprofile.ed.cps.intel.com
 vdc-dev04.laas.intel.com
-www.realserverhuntredeem.intel.com
 platformsw2-02.intel.com
 review.hpdd.intel.com
-www.test-as.sgx.trustedservices.intel.com
 hip160.ch.intel.com
 ekamms.intel.com
 wikiqa-f5.eglb.intel.com
@@ -6669,7 +6595,6 @@ appcenter.html5tools-software.intel.com
 vpngp-ger.intel.com
 osv01.sym.cps.intel.com
 pvpx-tst.intel.com
-gamingbundle.intel.com
 azsirrx201.cps.intel.com
 ewise.sc.intel.com
 tstscftweb01a.ed.cps.intel.com
@@ -6720,7 +6645,6 @@ meridian05.cps.intel.com
 prdaztfsvdr05.amr.corp.intel.com
 aa-exp-design.intel.com
 petasus.iil.intel.com
-www.aimsuite.intel.com
 usfbbasia.intel.com
 arcstore.intel.com
 rmsw04.sym.cps.intel.com
@@ -6735,7 +6659,6 @@ iboa1-fm.cps.intel.com
 tstprofabstrw02.ed.cps.intel.com
 consumption-abc.intel.com
 dashboardback.edge.devcloud.intel.com
-www.thunderboltimagebuilder-preprod.intel.com
 ironkey-int-lb.intel.com
 fp2dev.intel.com
 teamcity01-ir.devtools.intel.com
@@ -6761,7 +6684,6 @@ gfx-klocwork307.intel.com
 k8s.gfx-assets-build.iind.intel.com
 messagingwebservice.corpdev.intel.com
 s3.dualstack.ap-northeast-2.sthree.intel.com
-www.designcenter.intel.com
 cbrd-ext-p3006.intel.com
 stg1regcenews08.cps.intel.com
 tomcat-193.ch.intel.com
@@ -6795,7 +6717,6 @@ cdrd.apps1-fm-ext.icloud.intel.com
 dcentitled01-psp.intel.com
 prepcache-ssl.intel.com
 orrailvoaweb02.jfrail.intel.com
-induicp.intel.com
 vpngp-kctjf.intel.com
 b41984dbd5014b1b85f5832bda478606.intel.com
 consumption-api.intel.com
@@ -6821,7 +6742,7 @@ pg14-1-nex-cbrd-p052.intel.com
 bodvm02.cps.intel.com
 tnt-prd.intel.com
 af01d-or-app01.devtools.intel.com
-www.shop-cons.intel.com
+shop-cons.intel.com
 af01p-or.devtools.intel.com
 ubit-artifactory.intel.com
 vpngp-png-odc.intel.com
@@ -6871,7 +6792,6 @@ s3.eu-west-3.sthree.intel.com
 websocket-prod.intel.com
 gerrit-gfx-sh3.intel.com
 huntertest.sc.intel.com
-www.pim-microservices.intel.com
 cbrd-ext-p3013.intel.com
 mark-pre.intel.com
 prd1matservicetool02.cps.intel.com
@@ -6893,7 +6813,6 @@ v404-capubvip1-shz11d-zwaf201-vrrp.cps.intel.com
 fmssoaeprd101.cps.intel.com
 c11-1c8-bw02.ch.intel.com
 vpngp-srr-odc.intel.com
-www.click.intel.com
 tst1supplierws01.cps.intel.com
 eventbot.intel.com
 tstmsgcntrweb01.ed.cps.intel.com
@@ -6913,7 +6832,6 @@ ifsbenadmin03.cps.intel.com
 pgsloginpp01.ed.cps.intel.com
 chhs159.ch.intel.com
 fmspdrmsp2.cps.intel.com
-laes.marketingstudio.intel.com
 tst2rtc6jrs01.ed.cps.intel.com
 seimsws-prd.cps.intel.com
 af01p-ba-app02.devtools.intel.com
@@ -6960,7 +6878,7 @@ tst1tas3w01.cps.intel.com
 sct201-prd.intel.com
 perceptualchallenge.intel.com
 prd1cqr360w02.sym.cps.intel.com
-www.ordersbench.intel.com
+ordersbench.intel.com
 owrdev-caas.ir.intel.com
 1tas2-dev.intel.com
 esr-qa-intrl-dr.intel.com
@@ -6976,10 +6894,8 @@ chh153.ch.intel.com
 mscannon-mobl.ch.intel.com
 spcas-pilot.intel.com
 intelinsidews02.ed.cps.intel.com
-www.technologysandbox.intel.com
 dast-pre.intel.com
 fotaserver.intel.com
-www.www90.intel.com
 pgsloginpp.intel.com
 mindzilla.intel.com
 apacisa.intel.com
@@ -7015,7 +6931,7 @@ fmsvdset.cps.intel.com
 fmvsvdset.cps.intel.com
 itfnt-load1.ch.intel.com
 gfx-assets-build-backup4.afbuild.intel.com
-www.marketinginnovationaward.intel.com
+marketinginnovationaward.intel.com
 sentinel.intel.com
 int11-software.intel.com
 tstfmtfsvap04.amr.corp.intel.com
@@ -7099,7 +7015,7 @@ tst1kratftp01.cps.intel.com
 tstmsgcntrlog02.ed.cps.intel.com
 mla-minio-prod.intel.com
 scscasp017.sc.intel.com
-www.skillsforinnovation.intel.com
+skillsforinnovation.intel.com
 catchme.intel.com
 zpn111b-vpn102-ext.ice.intel.com
 vpngp-kctsrr.intel.com
@@ -7120,11 +7036,9 @@ ecv1matservicetool02.cps.intel.com
 anti-theftservice.intel.com
 pgxf201-vrrp-v201.ice.intel.com
 scspd-1.intel.com
-www.email07-pre.intel.com
 prdscftwsapp02a.ed.cps.intel.com
 sw-depot.intel.com
 test.yourid.intel.com
-www.webinar.intel.com
 ubproject.intel.com
 drpresto.intel.com
 lbauto-172-30-179-88.cps.intel.com
@@ -7162,7 +7076,7 @@ scfwpr02.sc.intel.com
 isoqa3.jf.intel.com
 macgit.intel.com
 sftpapi.gdevrel.intel.com
-www.wcs.microdexcomputercenter.marketingstudio.intel.com
+wcs.microdexcomputercenter.marketingstudio.intel.com
 admin-cloudapi2.intel.com
 dev-identityapi.intel.com
 fm1dtd3w01.cps.intel.com
@@ -7172,7 +7086,6 @@ fmsrds0043.amr.corp.intel.com
 um-ger.intel.com
 swap-calliope1.fm.intel.com
 cbrd-ext-k3011.intel.com
-study.intel.com
 fm7211-smg-r11pdu-20a.fm.intel.com
 chtr20.ch.intel.com
 fm7tstvip01.ed.cps.intel.com
@@ -7182,9 +7095,7 @@ cloudapi2.intel.com
 pre1-exsrv.intel.com
 appupgh.intel.com
 orspwswk002.amr.corp.intel.com
-www.ps.sgx.trustedservices.intel.com
 fmsmfauipp01.ed.cps.intel.com
-www.retireeportalclick.intel.com
 dev.api.cloudbenchmarking.intel.com
 irvviedapp002.ir.intel.com
 vmsqam5m002.cps.intel.com
@@ -7193,7 +7104,6 @@ fmyklkw001.fm.intel.com
 rmsi-qa-int.intel.com
 chtr04.ch.intel.com
 perforce01-r1.intel.com
-www.qa.mwom.intel.com
 ark-psp.intel.com
 amax2-subconmanagement.intel.com
 wwsdns02.ch.intel.com
@@ -7258,7 +7168,6 @@ accelerate.intel.com
 cbrd-ext-k4005.intel.com
 ubproject-staging.intel.com
 fmspp1ermwvip01.cps.intel.com
-services.intel.com
 fmsdsstst14.fm.intel.com
 test1-commerce.intel.com
 pg14-1-nex-cbrd-p091.intel.com
@@ -7316,8 +7225,6 @@ fmspdrmsp2.amr.corp.intel.com
 s3.dualstack.us-west-1.sthree.intel.com
 prd1padisp2w01.ed.cps.intel.com
 tst1idz2w01.cps.intel.com
-www.shoppercampaigns.intel.com
-www.learning.intel.com
 ubitcentral-prod-f5.fm.intel.com
 fmsloginpp.intel.com
 trainingcalendar.intel.com
@@ -7336,7 +7243,6 @@ c7.telemetry.intel.com
 gia.intel.com
 fce-commissioning-training.intel.com
 mrsproxypg8.intel.com
-www.mwom.intel.com
 prd1idz2wl02.cps.intel.com
 exp-minio-smg.intel.com
 fmsp1ermw02.cps.intel.com
@@ -7349,7 +7255,6 @@ ecv1ihc.cps.intel.com
 fmvsvdse.cps.intel.com
 chh250.ch.intel.com
 mrsproxy.corpdev.intel.com
-www.retailedge.intel.com
 ifspvas01.cps.intel.com
 ecv1egain3w04.cps.intel.com
 scscasp010.sc.intel.com
@@ -7399,7 +7304,7 @@ vmstfs12pdd004.amr.corp.intel.com
 ubit-teamcity-spd.primary.intel.com
 amax2-planning.intel.com
 gfx-assets-sandbox.intel.com
-www.wcs.comparinc.marketingstudio.intel.com
+wcs.comparinc.marketingstudio.intel.com
 lbauto-163-33-184-64.cps.intel.com
 click.partnervoice.intel.com
 resale-ext.intel.com
@@ -7410,7 +7315,7 @@ scscasp019.sc.intel.com
 chh269.ch.intel.com
 live-iuaws.intel.com
 prdngmcsvc01.ed.cps.intel.com
-www.kr.marketingstudio.intel.com
+kr.marketingstudio.intel.com
 ifspdws01.cps.intel.com
 cbrd-ext-k2002.intel.com
 af01p-or-app02.devtools.intel.com
@@ -7441,7 +7346,6 @@ prdb2bssweb01.ed.cps.intel.com
 emfe-prd.intel.com
 preeiamwls16.ed.cps.intel.com
 cache-www.intel.com
-www.shop.intel.com
 aempod2authors-pre.intel.com
 stg1bodvm.cps.intel.com
 secure-staging-appdeveloper.intel.com
@@ -7475,7 +7379,7 @@ manage-tst1aim2wcv.cps.intel.com
 azstdlab06.ch.intel.com
 bones.ch.intel.com
 af01p-png-app03.devtools.intel.com
-www.channelevents.intel.com
+channelevents.intel.com
 sttdoaplmstg.intel.com
 akastg-cache-int2.update.intel.com
 ch173-gw.ch.intel.com
@@ -7525,7 +7429,7 @@ orspwewk002.amr.corp.intel.com
 fm1prdrpsw02.ed.cps.intel.com
 t11faims3.ch.intel.com
 scsnks.ice.intel.com
-www.id.marketingstudio.intel.com
+id.marketingstudio.intel.com
 tms-global.intel.com
 stg1wssgateway.sfr.cps.intel.com
 analytics-aimsuite.intel.com
@@ -7541,7 +7445,6 @@ fmssoaedmz.cps.intel.com
 50.1.230.67.dsl.intel.com
 passreset-fm.cps.intel.com
 fmxugit5001.fm.intel.com
-www.usfbbasia.intel.com
 oceanic.intel.com
 d1ngmclog02.ed.cps.intel.com
 contentclick.intel.com
@@ -7554,7 +7457,6 @@ vpngp-fm03.intel.com
 v3076-fm11d-zfg301-vrrp.cps.intel.com
 fm1irr301.cps.intel.com
 prdfmtfsvap03.amr.corp.intel.com
-www.hfumesbc.intel.com
 fmspwewk01.cps.intel.com
 orsvdse102.ed.cps.intel.com
 cje-sc01-dr-il-prod01.devtools.intel.com
@@ -7610,7 +7512,7 @@ klocwork-png4.devtools.intel.com
 wcint.intel.com
 pvpx-tst01.intel.com
 mdmartin-mobl.ch.intel.com
-www.bestpracticesummit.intel.com
+bestpracticesummit.intel.com
 azsalis001.ch.intel.com
 dcmirror02-prd.intel.com
 1tas-tms.intel.com
@@ -7635,12 +7537,10 @@ friendfinder-poc.cps.intel.com
 distimgmt01-day1.intel.com
 amrprotexdev01.devtools.intel.com
 lbauto-192-198-160-133.cps.intel.com
-www.trendanalyticssoftware.intel.com
 avaamo-authenticate.apps1-or-ext.icloud.intel.com
 gpusw-ai-teams-bot-internal.intel.com
 serverconfiguratorpilot.intel.com
 bsdi1351.ch.intel.com
-www.iotroadshow.intel.com
 prd1mcafeerenw01.cps.intel.com
 ddcrowle-mobl.ch.intel.com
 fx084-t.ch.intel.com
@@ -7653,7 +7553,7 @@ ccemobileapp.intel.com
 pgslogin01.cps.intel.com
 cqr360w.sym.cps.intel.com
 chtr07.ch.intel.com
-www.vpronavigatorforlandesk.intel.com
+vpronavigatorforlandesk.intel.com
 azsap234.erps.intel.com
 stg1rcm2w01.cps.intel.com
 shzdmzpr05-ext.sh.intel.com
@@ -7708,11 +7608,10 @@ casiss-dev.intel.com
 pvt-workflow.intel.com
 ch3-1d9-cl01.ch.intel.com
 cdifdns01.cd.intel.com
-www.events.intel.com
+events.intel.com
 jmtruji1-mobl.ch.intel.com
 admin-vaquinha.intel.com
 tbvexdatapipelineapi-pp.intel.com
-channelevents.intel.com
 vpngp-kctpg.intel.com
 prd1wssgatewaycache.sfr.cps.intel.com
 ubit-teamcity-ba.primary.devtools.intel.com
@@ -7732,20 +7631,18 @@ prd1regceniws02.cps.intel.com
 accesstobook.intel.com
 fm7irr507.cps.intel.com
 prd1sps3w02.ed.cps.intel.com
-www.usfbbafrica.intel.com
+usfbbafrica.intel.com
 vpngp-srr03.intel.com
 sitka-eth2-216.ch.intel.com
 orsmfa02.ed.cps.intel.com
-www.simplecore-gar.intel.com
 library.intel.com
 pcross-test.ch.intel.com
-www.asiareseller.intel.com
 chlx150.ch.intel.com
 klocwork-inn5.devtools.intel.com
 fmspwswk.cps.intel.com
 avaamo-authenticate-dev.apps1-fm-ext.icloud.intel.com
 fm7irrx602.cps.intel.com
-www.ordersprodsup.intel.com
+ordersprodsup.intel.com
 psgoaplmprdap01.amr.corp.intel.com
 gerprotex028.devtools.intel.com
 fm2-codecollab.intel.com
@@ -7774,7 +7671,6 @@ chls020.ch.intel.com
 icc-portal-jf.ice.intel.com
 lbauto-192-198-172-38.cps.intel.com
 ejulrich-cb1.ch.intel.com
-www.service.theftdeterrent.intel.com
 scscasp006.sc.intel.com
 vpngp-igk-odc.intel.com
 fm1canary02-ssl.cps.intel.com
@@ -7863,7 +7759,6 @@ mobilerel.cps.intel.com
 pg14-1-nex-cbrd-k037.intel.com
 fmsb2brp03.cps.intel.com
 prdfmircv2w01.ed.cps.intel.com
-www.prepim-microservices.intel.com
 scft-support-tst.cps.intel.com
 af01p-ba-app08.devtools.intel.com
 sid-gerrit-gm.devtools.intel.com
@@ -7956,7 +7851,6 @@ review-stage1.hpdd.intel.com
 pg14-1-nex-cbrd-k055.intel.com
 dots.intel.com
 fce-projectcontrols.intel.com
-guitarstar.intel.com
 psirtwebservices.cps.intel.com
 garscantest02.devtools.intel.com
 prd1rcews.eglb.intel.com
@@ -8063,7 +7957,6 @@ vpngp-fm09.intel.com
 tstcdrweb02.ed.cps.intel.com
 als.amax2.intel.com
 int.test.connected.intel.com
-www.audienceanalytics.intel.com
 ecv1billing.eglb.intel.com
 orstwswk.cps.intel.com
 af01d-ir.devtools.intel.com
@@ -8071,7 +7964,6 @@ vmspaccl0045.amr.corp.intel.com
 utptest01.intel.com
 pre1bodvm01.cps.intel.com
 vmsqwctxsf.cps.intel.com
-www.game.info.intel.com
 mu-artifactory-quantum.imu.intel.com
 mrsproxycd5.intel.com
 arboyd-desk3.ch.intel.com
@@ -8123,7 +8015,7 @@ prdaztfsvdr07.amr.corp.intel.com
 azc3tr1-desk13.ch.intel.com
 faas.intel.com
 plxvglnx1149.pdx.intel.com
-www.wcs.crvcomputer.marketingstudio.intel.com
+wcs.crvcomputer.marketingstudio.intel.com
 klocwork010-gfx.intel.com
 godavari1.ed.cps.intel.com
 ecv2sgatewayeze.sfr.cps.intel.com
@@ -8132,7 +8024,7 @@ fpgasupport-prd.intel.com
 fmbroker2.cps.intel.com
 tang.pfmc.intel.com
 ieits-sm.cps.intel.com
-www.thunderboltimagebuilder-dev.intel.com
+thunderboltimagebuilder-dev.intel.com
 fm1cpmngws03.ed.cps.intel.com
 irs01esxcasc002.cps.intel.com
 ifs3-day1.intel.com
@@ -8149,8 +8041,6 @@ azsdrmmts.cps.intel.com
 vpn-odc-amc.intel.com
 af01p-fm-app01.devtools.intel.com
 vtune-stable.perfprofiler-earlyaccess.intel.com
-www.simplecore-dev.intel.com
-www.directreselleredge.intel.com
 ix188.ch.intel.com
 v404-capubvip1-shz11d-zwaf201b.cps.intel.com
 prd1mdfw01.cps.intel.com
@@ -8179,7 +8069,6 @@ azsebg06.ch.intel.com
 tc01s-or.devtools.intel.com
 prdfmtfsvap02.amr.corp.intel.com
 customersalescentertraining.intel.com
-www.email9.intel.com
 jupyter.cloudbenchmarking.intel.com
 pgslogin.ed.intel.com
 sfftap.intel.com
@@ -8450,7 +8339,6 @@ pg14-1-nex-cbrd-p037.intel.com
 infra-dev-minio.intel.com
 hadmzpr02.iil.intel.com
 isgproofpoint.intel.com
-www.dev-gameplayapi.intel.com
 kibana.cr.deacluster.intel.com
 ilnmid1.intel.com
 azwngp1-a.ch.intel.com
@@ -8470,10 +8358,9 @@ s3.ap-southeast-2.sthree.intel.com
 ipass.intel.com
 vmfmsaputil07.ed.cps.intel.com
 api.technologyaccess.intel.com
-www.int-cloudapi.intel.com
-www.gameplayapi.intel.com
+int-cloudapi.intel.com
 fmsmgapp101.fm.intel.com
-www.therighttechnology.intel.com
+therighttechnology.intel.com
 connectpilot-shz.intel.com
 sapdrehp1c.intel.com
 scspn10.intel.com
@@ -8634,7 +8521,6 @@ eir.amax2-cons.intel.com
 te-premia.intel.com
 lsr73.ch.intel.com
 api-devicemanagment.intel.com
-www.prechanneltraining.intel.com
 eurodownload.intel.com
 prd2sps3w03.ed.cps.intel.com
 fmsissofs02.amr.corp.intel.com
@@ -8651,7 +8537,6 @@ odata01-prdnew.intel.com
 vpngp-fm01.intel.com
 mobileportalotp.intel.com
 ib02-ir.cps.intel.com
-orderscons.intel.com
 fm1canary03-prv-act.cps.intel.com
 vmfmsaputil07.cps.intel.com
 chtr01.ch.intel.com
@@ -8692,7 +8577,7 @@ ordersapicons.intel.com
 sso.oneapi.dev.devcloud.intel.com
 passreset-int.intel.com
 apps1.dtb.one-edge.intel.com
-www.americasgreatestmakers.intel.com
+americasgreatestmakers.intel.com
 bowman.cps.intel.com
 partnerdata-api.intel.com
 fmspsirtwpa01.cps.intel.com
@@ -8724,7 +8609,6 @@ vidbox7.intel.com
 edr-ucp01.amr.corp.intel.com
 cbjenkins-preprod.devtools.intel.com
 infrahost04.ddcloud.intel.com
-appack.intel.com
 af01p.devtools.intel.com
 tst2idzwin.cps.intel.com
 nyiix-peering2-v4.intel.com
@@ -8733,12 +8617,10 @@ prddcmrvhfui01.ed.cps.intel.com
 teamcity-or.primary.intel.com
 software-dispatch.intel.com
 cegats1.ch.intel.com
-www.msp.intel.com
 origin-int8-software.intel.com
 esapepbench.cps.intel.com
 c11-1f7-pvt1.ch.intel.com
 scsshz01.intel.com
-www.simplecore-stg.intel.com
 prd1alinx.cps.intel.com
 mrsproxyfm7.intel.com
 jfrailvrds01.jfrail.intel.com
@@ -8801,7 +8683,7 @@ corporategh.intel.com
 secure-int2-appdeveloper.intel.com
 vmsmfadev03.amr.corp.intel.com
 1tas-api.intel.com
-www.transcodeservice.intel.com
+transcodeservice.intel.com
 hip169.ch.intel.com
 af02p-or-dr03.devtools.intel.com
 scipscn01.intel.com
@@ -8826,7 +8708,6 @@ orsmgapp101.jf.intel.com
 af01p-sc-app01.devtools.intel.com
 eroom7-2.cps.intel.com
 www-ssl.glb.intel.com
-bestpracticesummit.intel.com
 api.plm.intel.com
 cbrd-ext-p5017.intel.com
 jupyter-sso.edge.devcloud.intel.com
@@ -8868,7 +8749,6 @@ sifederation.intel.com
 sourcetfs2012.intel.com
 scsir02.intel.com
 gerscan01.devtools.intel.com
-www.as.sgx.trustedservices.intel.com
 tst1igeweb01.ed.cps.intel.com
 registrationcenter-ecv.intel.com
 azia081.ch.intel.com
@@ -8969,7 +8849,6 @@ test123.intel.com
 onestopadmin.intel.com
 cbrd-ext-k5007.intel.com
 o20.softwareoffer.intel.com
-reader.intel.com
 orpdvipwsv002.cps.intel.com
 tst1synccmp10.cps.intel.com
 af01p-or-app05.devtools.intel.com
@@ -8984,8 +8863,6 @@ meridian01.cps.intel.com
 vmspaccl002.ger.corp.intel.com
 orextweb0.intel.com
 ecoacsbc-campus02.iind.intel.com
-www.epid.trustedservices.intel.com
-www.indoorlocate.intel.com
 m5r-prod-fm.cps.intel.com
 btr-docker.intel.com
 scft-support-tst-v2.cps.intel.com
@@ -9001,7 +8878,6 @@ tst1scftwsapp01.cps.intel.com
 hip025.ch.intel.com
 releaseorder.amax2-pg.intel.com
 abaevent.intel.com
-therighttechnology.intel.com
 vmspm5is005.ger.corp.intel.com
 sapehp2d.intel.com
 fm1canary02-prv-wip-ssl.cps.intel.com
@@ -9012,7 +8888,7 @@ login.cps.intel.com
 prd1egain3w03.ed.cps.intel.com
 pngfwpr01.png.intel.com
 vtune-demo04.intel.com
-www.convertiblechallenge.intel.com
+convertiblechallenge.intel.com
 prd1rtc2w27.ed.cps.intel.com
 fmsqaeft009.ed.cps.intel.com
 hip470.ch.intel.com
@@ -9027,7 +8903,6 @@ webservices-prod-fm.intel.com
 int2.update.intel.com
 cnvrg.imc-cn01.rf3stg.mfgint.intel.com
 chlnc001.ch.intel.com
-www.eswsres01.sclab.intel.com
 tst1idz2w06.cps.intel.com
 orvsvdse.cps.intel.com
 azproxy-dev.iglb.intel.com
@@ -9051,7 +8926,6 @@ orsfront01.cps.intel.com
 af01p-mu-app01.devtools.intel.com
 webservices-preprod-ba.intel.com
 akastg-cache-dev.update.intel.com
-www.api.transcodeservice.intel.com
 af01p-cr-dr03.devtools.intel.com
 kenai-eth2-213.ch.intel.com
 tieconom-mobl.ch.intel.com
@@ -9081,12 +8955,10 @@ hip661.ch.intel.com
 prd1mdfw02.cps.intel.com
 gitlab-lab-pages.devtools.intel.com
 atdwez-198.ch.intel.com
-eglb.intel.com
 vdc-health.laas.intel.com
 pg14-1-nex-cbrd-k090a.intel.com
 c11-1b8-cl01.ch.intel.com
 azssql023.ch.intel.com
-www.cloudbuilders.intel.com
 prd4synccmp14.cps.intel.com
 cbrd-ext-k4101.intel.com
 prd1jira2w01.cps.intel.com
@@ -9133,7 +9005,6 @@ chat-test.laas.intel.com
 int.profiler.intel.com
 chtr08.ch.intel.com
 v265-hf22d-zwf201b.cps.intel.com
-www.ordersdev.intel.com
 tstore.amax2.intel.com
 klocwork2-jf.devtools.intel.com
 intelmcl.cps.intel.com
@@ -9144,7 +9015,7 @@ swiss-int.intel.com
 lsr54.ch.intel.com
 sfpnetbox.amr.corp.intel.com
 jffwpr12.jf.intel.com
-www.getlf-dev.intel.com
+getlf-dev.intel.com
 amrscantest17.devtools.intel.com
 mark-ciqa.intel.com
 vmschnswdr800.amr.corp.intel.com
@@ -9205,7 +9076,6 @@ atdappdev-svr.ch.intel.com
 apis-internal-sandbox.intel.com
 gfx-assets-build-pre-az.intel.com
 apis-ext-test-logs.intel.com
-www.recognition.intel.com
 cbrd-ext-p3010.intel.com
 consumption-abc-qa.intel.com
 scproxy1.sc.intel.com
@@ -9251,7 +9121,6 @@ aimsoa.intel.com
 af01p-fm-dr03.devtools.intel.com
 wcm-test-mark.intel.com
 conntest.intel.com
-aloha.intel.com
 prdngmcweb02.ed.cps.intel.com
 fseem.fm.intel.com
 crt-dc-fw.dp.intel.com
@@ -9263,7 +9132,6 @@ teamcity01-or.primary.intel.com
 httpgw1.cps.intel.com
 chhs115.ch.intel.com
 luminist.intel.com
-convertiblechallenge.intel.com
 ehcheck-day1.intel.com
 lbauto-192-198-172-26.cps.intel.com
 lbauto-192-198-172-19.cps.intel.com
@@ -9380,10 +9248,9 @@ vpngp-amc-odc.intel.com
 vmspm5is002.amr.corp.intel.com
 stg2sps3ws02.cps.intel.com
 amrscan03.devtools.intel.com
-www.tabletsforall.intel.com
 whataboutme.intel.com
 gta-awx-sand.intel.com
-www.mblbrandtst.intel.com
+mblbrandtst.intel.com
 pre1bodvm.cps.intel.com
 tasmania-223.ch.intel.com
 amax2-dr-shipperformance.intel.com
@@ -9446,7 +9313,6 @@ prd1padisp2w06.cps.intel.com
 iam-prod-fm.cps.intel.com
 saheadle-mobl.ch.intel.com
 int6-software.intel.com
-www.test182.cloudsecurity.intel.com
 ecv1idz-w01.cps.intel.com
 tssh-eapm.intel.com
 vpngp-kctfm.intel.com
@@ -9558,7 +9424,6 @@ fm1cpmngws02.ed.cps.intel.com
 validation-certificates.trustedservices.intel.com
 esh-qa.intel.com
 mark-qa.intel.com
-www.digitalmarketplace.intel.com
 connections.intel.com
 isecgvpn.intel.com
 iq.intel.com
@@ -9586,7 +9451,6 @@ getlf-ger.intel.com
 hip012.ch.intel.com
 wl-fm7.cps.intel.com
 aa-dsraptor-pvc-exp-smg-api.intel.com
-www.customerconnect.intel.com
 tst1servicegateway.cps.intel.com
 ch5-2d1-bw01.ch.intel.com
 avaamo-authenticate.apps1-fm-ext.icloud.intel.com
@@ -9605,7 +9469,6 @@ hip526.ch.intel.com
 v2610-fm11d-zfg301b.cps.intel.com
 adminhost03.ddcloud.intel.com
 appcenter-preprod.html5tools-software.intel.com
-www.fabricbuilders.intel.com
 jfipscn01.intel.com
 pin01.intel.com
 gta-awx.intel.com
@@ -9628,7 +9491,6 @@ lbauto-10-18-14-126.cps.intel.com
 trax-prod-primary-nat.iccw.intel.com
 klocwork03-gfx.fm.intel.com
 lbauto-192-198-172-11.cps.intel.com
-www.login.designintools.intel.com
 lyncws.skypeint.intel.com
 mrsproxypg.intel.com
 azvan2.ch.intel.com
@@ -9718,7 +9580,6 @@ fm1irr307.cps.intel.com
 ecv1idzwin.cps.intel.com
 fmsmacx16.fm.intel.com
 connectpilot-pg.intel.com
-www.clusterready.intel.com
 vmfmsaputil09.cps.intel.com
 sh-prod-codecollab.intel.com
 esr-dev-intrl-dr.intel.com
@@ -9734,8 +9595,7 @@ tmecollege.ch.intel.com
 qrchhdmtprxys2.amr.corp.intel.com
 tcdemo.intel.com
 amr002-update.devtools.intel.com
-www.digitaloil.intel.com
-americasgreatestmakers.intel.com
+digitaloil.intel.com
 1tas-staging-tms.intel.com
 vmfmsaputil06.cps.intel.com
 tfs2012af005.intel.com
@@ -9763,7 +9623,6 @@ mcafeeimagerequest.intel.com
 ubit-artifactory3.intel.com
 pre-solutionsdirectory.intel.com
 shhuff-mobl.ch.intel.com
-www.getexcited.intel.com
 tst1krat2w02.cps.intel.com
 f26pvap164.f26prod.intel.com
 trevis.hpdd.intel.com
@@ -9870,7 +9729,6 @@ pmft-dev.intel.com
 iam-prod-eg.cps.intel.com
 rm-test.laas.intel.com
 etserviceadmin.cps.intel.com
-www.ru.marketingstudio.intel.com
 ganglia.devep.devcloud.intel.com
 vmswsiamprd01.ed.cps.intel.com
 telemetry.edge.devcloud.intel.com
@@ -9908,14 +9766,13 @@ tpd-engage.intel.com
 chtr18.ch.intel.com
 ogreen-mobl2.ch.intel.com
 fmsp1ermwvip01.cps.intel.com
-www.iemm.cps.intel.com
 tst1tas3w.cps.intel.com
 tst1mat.cps.intel.com
 demo.tcar.intel.com
 tst1rspweb01.cps.intel.com
 fe5acd22-467e-417c-9c0f-50563bf49bf0.intel.com
 scssqldrg001.sc.intel.com
-www.smb.intel.com
+smb.intel.com
 lbauto-192-198-160-41.cps.intel.com
 bfd.amax2-ba.intel.com
 chhs73.ch.intel.com
@@ -10035,7 +9892,6 @@ prd1egain3w02.ed.cps.intel.com
 scsjfaws04.intel.com
 skcacsbc-pstn01b.iind.intel.com
 iam-prod.iglb.intel.com
-www.ccechina.intel.com
 dr1jazzlic01.ed.cps.intel.com
 sntrax-app.intel.com
 wcm-ops.intel.com
@@ -10061,7 +9917,6 @@ vpn-pan.eglb.intel.com
 vpn.glbppd.intel.com
 pre1cboa01.sym.cps.intel.com
 jfipscn04.intel.com
-www.agencytraining.intel.com
 hip562.ch.intel.com
 fmsxpprms.cps.intel.com
 pgextweb.intel.com
@@ -10085,7 +9940,6 @@ prd1rsws.cps.intel.com
 csctraining.intel.com
 s3-pdx11-2.infraiglb.us-staging-3.cloud.intel.com
 gaps.intel.com
-www.connect.intel.com
 mead.ch.intel.com
 o25.softwareoffer.intel.com
 tst1servicegateway-sitar.cps.intel.com
@@ -10162,10 +10016,8 @@ lan-62-73.intel.com
 lbauto-192-198-172-41.cps.intel.com
 tc02p-iil.devtools.primary.intel.com
 sid-gerrit.devtools.intel.com
-usfbbafrica.intel.com
 softwareblogs-zho.intel.com
 orrailvjira02.jfrail.intel.com
-www.apactools.intel.com
 prd1synccmp29.cps.intel.com
 klocwork-png3.devtools.intel.com
 isg-codecollab.intel.com
@@ -10175,7 +10027,7 @@ ubit-teamcity-sh.primary.intel.com
 cdrdv2-public.intel.com
 hip080.ch.intel.com
 scscasp032.sc.intel.com
-www.wcs.pcafterdarkinc.marketingstudio.intel.com
+wcs.pcafterdarkinc.marketingstudio.intel.com
 klocwork209-gfx.intel.com
 fcelspx.intel.com
 chisosnt.ch.intel.com
@@ -10189,7 +10041,6 @@ createdbyyouandintel.intel.com
 hip009.ch.intel.com
 orspdrmsp003.amr.corp.intel.com
 test.auth.yourid.intel.com
-www.sbx-pcs.sgx.trustedservices.intel.com
 cbrd-ext-p0007.intel.com
 orsissofs01.amr.corp.intel.com
 jupyter-sb2.oneapi.devcloud.intel.com
@@ -10316,7 +10167,6 @@ yumeng.sh.intel.com
 azcnexus.ch.intel.com
 rmoneill-desk.ch.intel.com
 vmsqam5m001.amr.corp.intel.com
-www.pypi.analyticstoolkit.intel.com
 shzdmzpr01-ext.sh.intel.com
 stable.perfprofiler-earlyaccess.intel.com
 s3.dualstack.ap-southeast-2.sthree.intel.com
@@ -10369,7 +10219,7 @@ chh298.ch.intel.com
 hipplot1.ch.intel.com
 gerscantest05.devtools.intel.com
 canberra-203.ch.intel.com
-www.de.marketingstudio.intel.com
+de.marketingstudio.intel.com
 technologyaccess.intel.com
 ecrail-portal-srr.ice.intel.com
 bowerwal01.ch.intel.com
@@ -10470,7 +10320,6 @@ sfa-sbox-codecollab.intel.com
 drcidtw01.cps.intel.com
 fm1canary03-prv-wip-ssl.cps.intel.com
 fmsvspint02.fm.intel.com
-www.futurecontest.intel.com
 ermwebviewerpp.intel.com
 chtonopah.ch.intel.com
 secure-pint-appdeveloper.intel.com
@@ -10515,7 +10364,6 @@ prd1mftkey.cps.intel.com.intel.com
 af03p-or-app04.devtools.intel.com
 jirastage.intel.com
 ecoacsbc-pstn01.iind.intel.com
-www.engagecn.intel.com
 reservation-dev.laas.intel.com
 coopexchange.intel.com
 hadmzpr01.iil.intel.com
@@ -10541,11 +10389,10 @@ vmspaccl0041.gar.corp.intel.com
 aempod1content.intel.com
 pvpxws-tst02.intel.com
 retailpartnermanager.intel.com
-www.gameplay.intel.com
 azfafilab05.ch.intel.com
 klocwork-jf9.devtools.intel.com
 fmsaphdbnbp1b.erps.intel.com
-www.geti.intel.com
+geti.intel.com
 mrsproxycd1.intel.com
 ecv2sgateway2t.sfr.cps.intel.com
 fm1cpmngws08.ed.cps.intel.com
@@ -10571,7 +10418,6 @@ tsttrendanalyticssoftware.intel.com
 ldap-query-broker.intel.com
 um-amr2.intel.com
 azssql020.ch.intel.com
-www.fmumesbc.intel.com
 prd1mren2w01.cps.intel.com
 c1111-183-b.ch.intel.com
 lbauto-10.110.116.197.cps.intel.com
@@ -10580,7 +10426,6 @@ orsesgprde.cps.intel.com
 stg1sgatewaygbg.sfr.cps.intel.com
 amrprotex004.devtools.intel.com
 fm7gctrpsw02.ed.cps.intel.com
-www.hpcdevcon.intel.com
 c711-sg.ch.intel.com
 hip634.ch.intel.com
 appupgh01-prd.intel.com
@@ -10596,7 +10441,6 @@ softwaresummit.intel.com
 pa-admin.intel.com
 sfederationdev.intel.com
 fmvpexm01.cps.intel.com
-iotsolutionsalliance.intel.com
 ubit-artifactory-il.intel.com
 sipae.corpint.intel.com
 ecoacsbc-pstn02b.iind.intel.com
@@ -10622,7 +10466,6 @@ kjagadis-mobl1.gar.corp.intel.com
 testfmtfsvap05.amr.corp.intel.com
 fm7stginstw01.amr.corp.intel.com
 lisolomo-mobl.ch.intel.com
-www.admin.retailedge.intel.com
 colt.ch.intel.com
 isg-sbox-codecollab.intel.com
 amax2-dr-transit.intel.com
@@ -10675,9 +10518,7 @@ prd1rave7w01.cps.intel.com
 campus.iind.intel.com
 tst1xdtdb02.cps.intel.com
 axon-asc-test.intel.com
-www.shop-origin.intel.com
 teamcity02-iil.devtools.intel.com
-www.techtutor.intel.com
 itfnt-surveyor.ch.intel.com
 ubit-teamcity-spd.primary.devtools.intel.com
 cache.update.intel.com
@@ -10695,7 +10536,6 @@ fmssoaeprde.intel.com
 chw2w0028.ch.intel.com
 amrprotex006.devtools.intel.com
 servicegatewayid.intel.com
-www.premiersupport.intel.com
 dashboardback.devep.devcloud.intel.com
 m5r-prod-pg.cps.intel.com
 orswww-ssl.cps.intel.com
@@ -10719,7 +10559,6 @@ apps.apacmarketingcommunity.intel.com
 bgaacsbc-pstn01.iind.intel.com
 klocwork-png7.devtools.intel.com
 teamcity.iil.secondary.intel.com
-www.b2btpa-con20.intel.com
 cbrd-ext-k5006.intel.com
 iam-pp-fm.intel.com
 mrsproxyfm3.intel.com
@@ -10750,13 +10589,11 @@ fm1canary02-prv-stg-ssl.cps.intel.com
 prd2sgatewaye2e.cps.intel.com
 phonevpn.intel.com
 tstfmtfsvap03.amr.corp.intel.com
-www.activatevpro.intel.com
 sc.aoai.iglb.intel.com
 intelinsideprogramn02.cps.intel.com
 cosmos8.intel.com
 tst1pctd02.cps.intel.com
 vmstfs13pda002.amr.corp.intel.com
-www.cloud-data-acquisition.intel.com
 msgcntr-svc-tst.intel.com
 ccats-app.intel.com
 af01p-png.devtools.intel.com
@@ -10871,7 +10708,6 @@ kmcdona1-mobl.ch.intel.com
 ba.next.af.devtools.intel.com
 fmsrv1.cps.intel.com
 icc-portal-srr.ice.intel.com
-ordersbench.intel.com
 chlx224.ch.intel.com
 esr-qa-app.intel.com
 tenant.iplm.intel.com
@@ -10952,7 +10788,6 @@ lbauto-192-198-172-16.cps.intel.com
 gerrit-gfx-igk.intel.com
 bfd.amax2-cons.intel.com
 vpngp-ir03.intel.com
-www.mrcloud-otel.eglb.intel.com
 dev.telemetrydata.intel.com
 cmjones-mobl2.ch.intel.com
 pma-test.laas.intel.com
@@ -11125,7 +10960,6 @@ mfapd.intel.com
 fmappgts1.cps.intel.com
 scft-v2.intel.com
 prdftpntweb02.cps.intel.com
-www.softwareproductsurvey.intel.com
 fm7chdphabriw01.cps.intel.com
 fmssoaeprd02.cps.intel.com
 multisitedirector03.intel.com
@@ -11172,14 +11006,11 @@ edge.intel.com
 cfang-mobl.ch.intel.com
 scsfm-2.intel.com
 ecoacsbc-inet02.iind.intel.com
-www.futureskills.intel.com
 eg1pdediagweb01.cps.intel.com
 login.connectcenter.intel.com
 pg14-1-nex-cbrd-p060.intel.com
 amax2-reliabilitytest.intel.com
 crucible-preprod.devtools.intel.com
-transcodeservice.intel.com
-skillsforinnovation.intel.com
 docker-store.intel.com
 vmsqwfts001.ed.cps.intel.com
 ibi-daas-gateway-az-dev.intel.com
@@ -11249,7 +11080,6 @@ embacsbc-pstn01b.iind.intel.com
 tmg-training.ch.intel.com
 fmsmsx203.amr.corp.intel.com
 prd1rv7adminw.cps.intel.com
-geti.intel.com
 fmsaputil08.cps.intel.com
 webservices-prod-pg.intel.com
 bot.pfmc.intel.com
@@ -11264,7 +11094,6 @@ c11-1h8-bw01.ch.intel.com
 gfx-klocwork315.intel.com
 klocwork-iind3.devtools.intel.com
 af01p-ir-dr02.devtools.intel.com
-www.dev-cdrdv2.intel.com
 ch3-2b8-bw01.ch.intel.com
 scft-support-v2.cps.intel.com
 esr-gold-app.intel.com
@@ -11299,7 +11128,6 @@ amax2-qauat-planning.intel.com
 klocwork-iind2.devtools.intel.com
 klocwork213-gfx.intel.com
 hip221.ch.intel.com
-www.promocanal.intel.com
 cei-mpa.intel.com
 ch31j3pvt1.ch.intel.com
 mscglab1.ch.intel.com
@@ -11310,7 +11138,6 @@ ifspdapp01.cps.intel.com
 fmsdssdev09.fm.intel.com
 tst1mbuild2w.cps.intel.com
 1tas-staging-core.intel.com
-www.insideout.intel.com
 connectedhome.intel.com
 vprasad-server.ch.intel.com
 vpngp-png13.intel.com
@@ -11326,7 +11153,6 @@ prdprofabstr01.ed.cps.intel.com
 myphoneatwork-dev01.intel.com
 fmqacpmng3w02.ed.cps.intel.com
 fm1canary.cps.intel.com
-www.thunderboltimagebuilder-test.intel.com
 fx076-t.ch.intel.com
 cje-ir-prod06-static.devtools.intel.com
 downloadcenter-dr.intel.com
@@ -11396,7 +11222,6 @@ tst2rtc6dcc01.ed.cps.intel.com
 fmsaputil07.cps.intel.com
 klocwork30-gfx.fm.intel.com
 azproxy-test.intel.com
-www.builders.intel.com
 jfipscn03.intel.com
 preview-commerce.intel.com
 fm6gdev6611.amr.corp.intel.com
@@ -11427,7 +11252,6 @@ intelpypi-dev.intel.com
 jfrailvrtca02.jfrail.intel.com
 s3.dualstack.ap-northeast-1.sthree.intel.com
 osv04.sym.cps.intel.com
-www.orders.intel.com
 rmsw02.sym.cps.intel.com
 prd1paygw.eglb.intel.com
 cbrd-ext-p5005.intel.com
@@ -11449,20 +11273,17 @@ devtest2-cloudapi.intel.com
 prd1scftweb.cps.intel.com
 cje-il-prod01.devtools.intel.com
 vdc-dev02.laas.intel.com
-getlf-dev.intel.com
 s3-ap-northeast-3.sthree.intel.com
 iccstpete.intel.com
 fmfsbnzweb03.amr.corp.intel.com
 autosys-webdev.intel.com
 intelsearch02.sym.cps.intel.com
-www.easymigration.intel.com
 wwsdns002-2.ch.intel.com
 mz2.intel.com
 tpd-engage-dev.intel.com
 valgpt-api.laas.intel.com
 ws-corpredirector.intel.com
 scft-support.cps.intel.com
-hotels.intel.com
 fm7pwvcenter001.fm.intel.com
 fm-sbox-codecollab.intel.com
 myfoundry3.intel.com
@@ -11510,7 +11331,6 @@ msgcenterlog.intel.com
 intelretailtracker-prd.intel.com
 gfx-assets-build.iind.intel.com
 distimgmt-tst.intel.com
-www.ias.intel.com
 lbauto-172-30-179-87.cps.intel.com
 nd-qb.igk.intel.com
 secure-newsroom.intel.com
@@ -11525,7 +11345,6 @@ azscpwebpro.ch.intel.com
 niihau-203.ch.intel.com
 preprod.click.intel.com
 narnonex-desk2.ch.intel.com
-www.secure.dev-plan.intel.com
 prd1egain3w03.cps.intel.com
 sapehp2c.intel.com
 hacnlbtfs01.ger.corp.intel.com
@@ -11570,7 +11389,6 @@ c311-sa.ch.intel.com
 shoppercampaigns-staging.intel.com
 k8s.gfx-assets-build.jf.intel.com
 cje-ir-prod06.devtools.intel.com
-www.createon.intel.com
 aa-dsraptor-pvc-exp-dsc-api.intel.com
 irvsplt300.ger.corp.intel.com
 v264-hf22d-zfg301-vrrp.cps.intel.com
@@ -11585,7 +11403,6 @@ ilnwebe2.ed.cps.intel.com
 cdi-prd.intel.com
 staging-market.intel.com
 azfafilab06.ch.intel.com
-mblbrandtst.intel.com
 kots.pai.devtools.intel.com
 partnerdata-qa.intel.com
 itatintel.intel.com
@@ -11626,7 +11443,6 @@ ubit-gfx-new.intel.com
 af01p-igk-app04.devtools.intel.com
 syndicationsecure-prd.intel.com
 test-retailupgrades.cps.intel.com
-www.getsoftwaresmart.intel.com
 lbauto-198-175-65-139.cps.intel.com
 ehcheck.intel.com
 fmbnh-ger.intel.com
@@ -11684,7 +11500,6 @@ tlgriffi-w2k.ch.intel.com
 chhs111.ch.intel.com
 prd1ircw02-ws.cps.intel.com
 ubit-teamcity-hf.secondary.devtools.intel.com
-events.intel.com
 vpngp-srr15.intel.com
 klocworktest-ir2.devtools.intel.com
 4dvhrkci-test.intel.com
@@ -11700,11 +11515,9 @@ idcs-dev.intel.com
 ubit-artifactory-sc.iglb.intel.com
 prd1synccmp01.cps.intel.com
 azsql523-cons.ch.intel.com
-www.usfbblatinamerica.intel.com
 ecsoidc.intel.com
 scsmrg.intel.com
 scscasp024.sc.intel.com
-www.tst-gameplay.intel.com
 prd4synccmp10.cps.intel.com
 rmsi.intel.com
 cpdp-cee-plse-sge-ias-liv-unlinkable.intel.com
@@ -11737,7 +11550,6 @@ ssvn.pdx.intel.com
 stg1eboavm.intel.com
 fm7stginstdb01.cps.intel.com
 vmspaccl0043.ger.corp.intel.com
-vpronavigatorforlandesk.intel.com
 webservices-devnew-ba.intel.com
 signingservice-b.fm.intel.com
 af01p-ba-app05.devtools.intel.com
@@ -11751,10 +11563,8 @@ andy-test.ch.intel.com
 sapehb2b.intel.com
 pdxproxy.intel.com
 passreset-ir.intel.com
-smartgrid.intel.com
 gerrit-gfx-mirror.iglb.intel.com
 lbauto-192-198-144-29.cps.intel.com
-www.simplecore-ger.intel.com
 fm1dtd3web02.cps.intel.com
 jira-dev01.intel.com
 sftp.gdevrel.intel.com
@@ -11879,12 +11689,10 @@ c311-sb.ch.intel.com
 ccats-day1-app.intel.com
 lbauto-192-198-172-14.cps.intel.com
 tst1ircws.cps.intel.com
-www.createdbyyouandintel.intel.com
 signingservice-preprod.intel.com
 diskless-stats.igk.intel.com
 vpngp-jf10.intel.com
 ifspvhsdws02.cps.intel.com
-www.contentclick.intel.com
 orsloginpp.intel.com
 prt-registry.sova.intel.com
 chh155.ch.intel.com
@@ -11921,7 +11729,6 @@ mbly-ci-sandbox.intel.com
 tswt02.amr.corp.intel.com
 preprod.update.intel.com
 test-ias.cps.intel.com
-www.retailexecutiveconference.intel.com
 mta02.customerinsight.intel.com
 tst1ircfl01.cps.intel.com
 partnerdata-api-dev.intel.com
@@ -11974,7 +11781,6 @@ msoagpt4.intel.com
 aps.market.intel.com
 pg14-1-nex-cbrd-k090.intel.com
 ark02-pspnew.intel.com
-int-cloudapi.intel.com
 aa-k8s-test-prod.intel.com
 tst-cdrdv2.apps1-or-ext.icloud.intel.com
 minio-mai-common-prod-im-cloud-api.intel.com
@@ -12008,7 +11814,6 @@ qaprint1.ch.intel.com
 gerrit-gfx-fm.intel.com
 inlapp414.iind.intel.com
 af01p-ir-app03.devtools.intel.com
-www.vaquinha.intel.com
 mrsproxysh12.intel.com
 prd1synccmp08.cps.intel.com
 chhs151.ch.intel.com
@@ -12074,7 +11879,6 @@ chh305.ch.intel.com
 iam-prod.eglb.intel.com
 mobilerelcons.cps.intel.com
 mvwiki.ph.intel.com
-www.prx-ps.sgx.trustedservices.intel.com
 fmsaptax43.cps.intel.com
 pdbojorq-desk.ch.intel.com
 new-ganymede.or.intel.com
@@ -12205,7 +12009,6 @@ jffwpr08.jf.intel.com
 cad000-seg110.sc.intel.com
 chhs155.ch.intel.com
 klocwork201-gfx.intel.com
-www.intelpartneralliance.intel.com
 imapmail.intel.com
 eroom2.intel.com
 ifspvws03.ed.cps.intel.com
@@ -12223,7 +12026,6 @@ vpngp-srr10.intel.com
 fmsloginpp102.ed.cps.intel.com
 sniff-220.ch.intel.com
 fm6dvcsa8.fm.intel.com
-www.insidethegame.intel.com
 klocwork-jf14.devtools.intel.com
 azssigacdev.ch.intel.com
 qa2-connection.intel.com
@@ -12251,7 +12053,6 @@ ifsprdadmin03.cps.intel.com
 hpccm.iglb.intel.com
 inlapp413.iind.intel.com
 vpngp-igk04.intel.com
-www.b2btools.intel.com
 corporategh-prd.intel.com
 app.intel.com
 pvp01.intel.com
@@ -12260,7 +12061,6 @@ fm1canary01-staging.cps.intel.com
 isoqa4.jf.intel.com
 hip347.ch.intel.com
 chhs162.ch.intel.com
-shop-cons.intel.com
 orsc2a.cps.intel.com
 fmprdircws01.cps.intel.com
 registrationcenter-ndaorigin01.cps.intel.com
@@ -12305,7 +12105,6 @@ docsvcs.intel.com
 tc01p-sh.primary.devtools.intel.com
 fmvsvdsee101.cps.intel.com
 ndrmsgcntrapp02.ed.cps.intel.com
-www.share.gameplay.intel.com
 hdmtteamcity-agents.iglb.intel.com
 ecv1ius.cps.intel.com
 ocsp.test2-trustedservices.intel.com
@@ -12349,7 +12148,7 @@ chhs50.ch.intel.com
 nsg-qb-ops.intel.com
 oleander-170.ch.intel.com
 scci56376.zsc16.intel.com
-www.wcs.raymondvhalltrainingandconsultantservices.marketingstudio.intel.com
+wcs.raymondvhalltrainingandconsultantservices.marketingstudio.intel.com
 tst1sgateway.sfr.cps.intel.com
 danang.intel.com
 prd1scftwsapp02.cps.intel.com
@@ -12358,7 +12157,6 @@ ger011-update.devtools.intel.com
 tc01s-ir.devtools.secondary.intel.com
 tcgsw-docker.amr.corp.intel.com
 github.forestscribe.intel.com
-www.tee19.sports.intel.com
 klocwork-jf29.devtools.intel.com
 klocworktest2-jf4.devtools.intel.com
 ehcheck-int.intel.com
@@ -12367,7 +12165,6 @@ tst1idz2w07.cps.intel.com
 info.intel.com
 droneconfigurator.intel.com
 orsmonsoon01.cps.intel.com
-www.mobilesurvey.intel.com
 swiss-pdx.intel.com
 fmslogin02.cps.intel.com
 hip586.ch.intel.com
@@ -12414,7 +12211,6 @@ ordersconscc.intel.com
 ecrail.eglb.intel.com
 m5r.cps.intel.com
 bsdi1350.ch.intel.com
-digitaloil.intel.com
 partnercentre.intel.com
 prt-registry.zp31.deacluster.intel.com
 scscasp003.sc.intel.com
@@ -12459,7 +12255,7 @@ prd1pctd01.cps.intel.com
 chhs49.ch.intel.com
 chlx126.ch.intel.com
 dierelease.amax2-ba.intel.com
-www.wcs.solutions.kicomputing.marketingstudio.intel.com
+wcs.solutions.kicomputing.marketingstudio.intel.com
 ssankura-mobl.ch.intel.com
 prd1sps3w02.cps.intel.com
 mscgats1.ch.intel.com
@@ -12480,7 +12276,6 @@ nmdb-dev.intel.com
 af02p-or-app03.devtools.intel.com
 orsmfa04.ed.cps.intel.com
 uscss.ch.intel.com
-ordersprodsup.intel.com
 race.intel.com
 mrsproxyor13.intel.com
 cidt.intel.com
@@ -12500,7 +12295,6 @@ scsmrg02.intel.com
 aa-exp-smg.intel.com
 msshenoy-mobl.ch.intel.com
 imapmailpoc.intel.com
-marketinginnovationaward.intel.com
 license.designintools.intel.com
 sjshott-mobl3.ch.intel.com
 orsfront02.cps.intel.com
@@ -12508,7 +12302,6 @@ proxy8.fm.intel.com
 prd1downloadcenter.cps.intel.com
 ubit-artifactory-ba.intel.com
 jira-gsae-preprod.intel.com
-www.rewards-you.intel.com
 lbauto-10-4-68-189.cps.intel.com
 1tas-bll-core.sh.intel.com
 connection.intel.com
@@ -12526,7 +12319,6 @@ prd1rv7adminw01.cps.intel.com
 vmstfs12pda001.amr.corp.intel.com
 signindev.intel.com
 af02p-ir.devtools.intel.com
-www.amt.iglb.intel.com
 sapehb2a.intel.com
 int8-software.intel.com
 fmsdsstst15.amr.corp.intel.com
@@ -12537,7 +12329,6 @@ pex-ne-c04.intel.com
 emfe01-prd.intel.com
 c111d4pvt1.ch.intel.com
 fmpdippwsp02.cps.intel.com
-thunderboltimagebuilder-dev.intel.com
 techprovidersocial.intel.com
 shcasilc-01.sh.intel.com
 creed-216.ch.intel.com
@@ -12710,7 +12501,6 @@ vpngp-sc.intel.com
 tc09p-or.secondary.devtools.intel.com
 simtester.intel.com
 scssrr17.intel.com
-www.supporttickets.intel.com
 pg14-1-nex-cbrd-p063.intel.com
 ipypi-alt11.intel.com
 azc3tr1-desk16.ch.intel.com
@@ -12788,14 +12578,12 @@ lvpone.ch.intel.com
 kauai-220.ch.intel.com
 pg14-1-nex-cbrd-p049.intel.com
 mai-common-prod-api.intel.com
-www.sbx-ps.sgx.trustedservices.intel.com
 vpngp-png03.intel.com
 c11-1b3-bw01.ch.intel.com
 ifspvweb01.cps.intel.com
 af03p-or-app01.devtools.intel.com
 mdf.intel.com
 azsfrday1-nlb.ch.intel.com
-www.prx-as.sgx.trustedservices.intel.com
 ubit-teamcity-iag.intel.com
 fmsap232.erps.intel.com
 profile-cons.intel.com
@@ -12807,7 +12595,6 @@ cje-fmowrp-prod01a.devtools.intel.com
 stg1regcenin.cps.intel.com
 sigopt.intel.com
 1tas-scheduler.intel.com
-www.enteraje.intel.com
 lbauto-10-9-152-22.cps.intel.com
 devtest2-admin-cloudapi.intel.com
 prdfmecalweb01.cps.intel.com
@@ -12827,7 +12614,6 @@ prd1iats2w01.cps.intel.com
 fmspwhsft002.ed.cps.intel.com
 fmqaerpm3w02.ed.cps.intel.com
 chlx218.ch.intel.com
-smb.intel.com
 klocwork2-png.devtools.intel.com
 prd1sgateway2t.cps.intel.com
 af01p-igk-app02.devtools.intel.com
@@ -12883,9 +12669,6 @@ amax2-dr-reliabilitytest.intel.com
 klocworktest-ir5.devtools.intel.com
 nomad-233.ch.intel.com
 solben.intel.com
-*devtools.intel.com
-*engage.intel.com
-.graphtrial.intel.com
 0-summary.epp.intel.com
 0cc1.devcloud.intel.com
 0fwww-32.epp.intel.com
@@ -14127,7 +13910,6 @@ cpip.epp.intel.com
 cpkubeless-error-handler-prd.epp.intel.com
 cpm.eglb.intel.com
 cpmgbiz.devcloud.intel.com
-cps.intel.com
 cpt.epp.intel.com
 cpttest3.epp.intel.com
 cql.epp.intel.com
@@ -14321,7 +14103,6 @@ dcws-ssl-ngeag-eit.epp.intel.com
 dd458ec20.epp.intel.com
 dd5fb43fb.epp.intel.com
 ddal-org.epp.intel.com
-ddcloud.intel.com
 de-ccs-webconsole.epp.intel.com
 de-es.epp.intel.com
 deals.epp.intel.com
@@ -16564,7 +16345,6 @@ kay-schneider.epp.intel.com
 kbcrawl.epp.intel.com
 kchellia-mobl.gar.corp.intel.com
 kdemo.epp.intel.com
-kenya.intel.com
 kepler-nba.epp.intel.com
 keppel.epp.intel.com
 keramik.epp.intel.com
@@ -18422,7 +18202,6 @@ serverless.epp.intel.com
 service-proxy.epp.intel.com
 service-route-demo.epp.intel.com
 service.devcloud.intel.com
-service.intel.com
 servicemanager.epp.intel.com
 servicenk11-a.epp.intel.com
 serviceruletheearthjwxt1h21-chdings.epp.intel.com
@@ -19860,23 +19639,7 @@ www-pandap2.devcloud.intel.com
 www-pohlglsbike2.devcloud.intel.com
 www-qa1.epp.intel.com
 www-users.epp.intel.com
-www.admin.clickint.intel.com
-www.apac-events.intel.com
-www.dev-as.sgx.trustedservices.intel.com
-www.dev-ps2as.sgx.trustedservices.intel.com
-www.devorders.intel.com
-www.mlt.amr.corp.intel.com
-www.partners.intel.com
-www.preprodclick.intel.com
-www.prx-ps2as.sgx.trustedservices.intel.com
-www.ps2as.sgx.trustedservices.intel.com
-www.public.designintools.intel.com
-www.qaorders.intel.com
-www.quality-designcenter.intel.com
-www.ssd.intel.com
-www.stage-designcenter.intel.com
-www.te.imu.intel.com
-www.tst-gameplayapi.intel.com
+ssd.intel.com
 www01.epp.intel.com
 www01atl.epp.intel.com
 www1.devcloud.intel.com
@@ -20418,7 +20181,6 @@ vpngp-sc02.intel.com
 mucla6041.vr.intel.com
 jf_sed_192_55_44_65.jf.intel.com
 gapps.intel.com
-www.test.buyfpga.intel.com
 customermdmmdetest.intel.com
 fms07esxoce302.cps.intel.com
 electrondr-int.cps.intel.com
@@ -20448,7 +20210,6 @@ bga_sed_192_102_190_86.iind.intel.com
 prom01.ch.sova.intel.com
 irsmsx102.ger.corp.intel.com
 customermdmwsdev.intel.com
-www.fpgacloud-test.intel.com
 jf_sed_192_55_44_70.jf.intel.com
 v385-fm72d-zlb201.cps.intel.com
 sandbox-1.maestro-sandbox.one-edge.intel.com
@@ -20540,7 +20301,6 @@ jf_sed_192_55_44_91.jf.intel.com
 fmir301-lo2029.wan.intel.com
 jf_sed_192_55_44_172.jf.intel.com
 ch.sova.intel.com
-www.marketingstudio.intel.com
 jf_sed_192_102_191_22.jf.intel.com
 vmsqwrel001.ed.cps.intel.com
 odc_sed_192_102_190_245.iind.intel.com
@@ -20629,7 +20389,6 @@ bga_sed_192_102_190_39.iind.intel.com
 portal.eu.trustauthority.intel.com
 bga_sed_192_102_190_83.iind.intel.com
 jf_sed_192_55_44_142.jf.intel.com
-www.shopnuc.intel.com
 srr_sed_192_102_190_76.iind.intel.com
 jf_sed_192_55_44_221.jf.intel.com
 esapepps.cps.intel.com
@@ -20664,13 +20423,11 @@ ludwig.sc.intel.com
 jf_sed_192_55_44_187.jf.intel.com
 jf_sed_192_55_44_147.jf.intel.com
 acms-bench.intel.com
-www.prx-pcs.sgx.trustedservices.intel.com
 artifactory.sclab.intel.com
 cmlab-test.intel.com
 test01.sclab.intel.com
 keycloak.maestro-sandbox.one-edge.intel.com
 jf_sed_192_55_44_79.jf.intel.com
-www.sym.cps.intel.com
 factorysolutions.intel.com
 jf_sed_192_55_44_216.jf.intel.com
 tbvexclientapi.intel.com
@@ -20777,7 +20534,6 @@ iinf185.iil.intel.com
 srr_sed_192_102_191_45.iind.intel.com
 tecac-gi0-1-7.wan.intel.com
 iaas001.cloud.intel.com
-www.chinacampus.jobs.intel.com
 srr_sed_192_102_191_68.iind.intel.com
 tst1rtc2wihs01.cps.intel.com
 ptk1dev.westeurope.cloudapp.intel.com
@@ -20794,7 +20550,7 @@ helm.eglb.intel.com
 jf_sed_192_55_44_199.jf.intel.com
 s3-pdx05-dev-4.tenantiglb.us-staging-1.cloud.intel.com
 pngir302-te0-1-0-602.wan.intel.com
-www.deapcaas-dev.intel.com
+deapcaas-dev.intel.com
 hfs02esxcasd002.cps.intel.com
 bgproxy02-ext.ice.intel.com
 fm_sed_198_175_79_143.fm.intel.com
@@ -20809,7 +20565,6 @@ jf_sed_192_55_44_165.jf.intel.com
 jf_sed_192_55_44_197.jf.intel.com
 sapnbp03.intel.com
 jf_sed_192_55_44_122.jf.intel.com
-www.emaasmw.intel.com
 irvapp026.ir.intel.com
 sapgsp03.intel.com
 stg.api.staging-1.cloud.intel.com
@@ -20822,7 +20577,6 @@ gsae-mission-control.intel.com
 mic-qb.pdx.intel.com
 jf_sed_192_55_44_125.jf.intel.com
 onetas2-dev-sche.intel.com
-www.yum.repos.intel.com
 ift-02-keyauth.intel.com
 bgproxy08-ext.ice.intel.com
 jf_sed_192_55_44_250.jf.intel.com
@@ -20885,7 +20639,6 @@ vmsini001a.cps.intel.com
 amr.corp.intel.com
 registery01.l10b2.deacluster.intel.com
 aisgisr.intel.com
-www.newsroom.intel.com
 jf_sed_192_55_44_126.jf.intel.com
 jf_sed_192_55_44_128.jf.intel.com
 fmspwurl02.ed.cps.intel.com
@@ -20922,7 +20675,6 @@ srr_sed_192_102_190_56.iind.intel.com
 jf_sed_192_55_44_164.jf.intel.com
 jf_sed_192_55_44_209.jf.intel.com
 ngsir301-bdi1.wan.intel.com
-www.codecollaborator.intel.com
 fm_sed_198_175_79_252.fm.intel.com
 jf_sed_192_55_44_144.jf.intel.com
 jf_sed_192_55_44_4.jf.intel.com
@@ -20935,7 +20687,6 @@ eco_sed_192_102_191_197.jf.intel.com
 swissautoops-int-iil.intel.com
 jf_sed_192_55_44_106.jf.intel.com
 jf_sed_192_55_44_23.jf.intel.com
-www.itpeernetwork.intel.com
 bga_sed_192_102_190_34.iind.intel.com
 srr_sed_192_102_190_55.iind.intel.com
 srr_sed_192_102_190_22.iind.intel.com
@@ -20963,7 +20714,6 @@ jf_sed_192_55_44_151.jf.intel.com
 jf_sed_192_55_44_210.jf.intel.com
 ipy4-gw.intel.com
 o11y02-otel.cloud.intel.com
-www.emaas.intel.com
 jf_sed_192_55_44_208.jf.intel.com
 vdc2-test.laas.intel.com
 partnerdata-abc-dev.intel.com
@@ -21003,7 +20753,6 @@ qa-entitlementent.intel.com
 pgproxy103-ext2.ice.intel.com
 fm_sed_198_175_79_15.fm.intel.com
 jf_sed_192_55_44_189.jf.intel.com
-www.newsroom.thailand.intel.com
 prd2sps3w04.intel.com
 bmaas002.cloud.intel.com
 bga_sed_192_102_190_36.iind.intel.com
@@ -21014,7 +20763,6 @@ jf_sed_192_55_44_68.jf.intel.com
 jf_sed_192_55_44_155.jf.intel.com
 eco_sed_192_102_191_200.jf.intel.com
 msyoung-w2k.ch.intel.com
-www.buyfpga.intel.com
 jf_sed_192_55_44_82.jf.intel.com
 lbauto-192-198-172-54.cps.intel.com
 jf_sed_192_55_44_137.jf.intel.com
@@ -21034,8 +20782,6 @@ ngsac-gi0-0-5.wan.intel.com
 hfs02esxcasc002.cps.intel.com
 srr_sed_192_102_191_52.iind.intel.com
 cyan.intel.com
-www.emaaslkg.intel.com
-www.thailand.gamerdays.intel.com
 docs.trustauthority.intel.com
 jf_sed_192_55_44_102.jf.intel.com
 api.pilot.trustauthority.intel.com
@@ -21079,7 +20825,6 @@ jf_sed_192_55_44_71.jf.intel.com
 staging.docea-power-analytics.intel.com
 laas-t0v.trustplatform.intel.com
 irsdnsp601.ger.corp.intel.com
-www.logbook.intel.com
 jf_sed_192_55_44_205.jf.intel.com
 prd1sps3w03.intel.com
 lbauto-192-198-167-193.cps.intel.com
@@ -21112,7 +20857,6 @@ observability.malina.intel.com
 zpn_sed_198_175_79_39.zpn.intel.com
 sandbox-2.maestro-sandbox.one-edge.intel.com
 swissautoops-int-sc.intel.com
-deapcaas-dev.intel.com
 v104-ngs125a-dsl101a-virtual.ice.intel.com
 swissautoops.intel.com
 toolbox-appdeveloper.intel.com
@@ -21169,7 +20913,6 @@ vpngp-fl.intel.com
 shzir301-te0-1-2-604.wan.intel.com
 fm_sed_198_175_79_134.fm.intel.com
 jf-bsw-cyn-max98090-6.jf.intel.com
-www.pcs.sgx.trustedservices.intel.com
 lbauto-10-110-64-32.cps.intel.com
 shproxy01-ext.ice.intel.com
 fmpdipp3wp01.cps.intel.com
@@ -21229,7 +20972,6 @@ swissnetbatch-iind.intel.com
 swissnetbatch-png.intel.com
 hfs02esxcbsu001.cps.intel.com
 reldev22172.cps.intel.com
-www.prepoints-asmo-na-form.intel.com
 jf_sed_192_55_44_62.jf.intel.com
 ioc-assist.cloud.intel.com
 prom01-alerts.ch.sova.intel.com
@@ -21255,7 +20997,6 @@ sid-klocwork-01.pdx.intel.com
 jf_sed_192_55_44_15.jf.intel.com
 1tas-dev-jks.intel.com
 jf_sed_192_55_44_185.jf.intel.com
-www.gfx-assets-build.jf.intel.com
 iftdr-keyauth.intel.com
 jf_sed_192_55_44_170.jf.intel.com
 gwapps.intel.com
@@ -21284,7 +21025,6 @@ lbauto-192-198-166-53.cps.intel.com
 idcstg-otel.cloud.intel.com
 dcmirror-qa.intel.com
 jf_sed_192_55_44_188.jf.intel.com
-www.appsecdownload.intel.com
 hfs02esxcbss005.cps.intel.com
 pgproxy104-ext2.ice.intel.com
 pcs.service.sgx.trustedservices.intel.com
@@ -21318,24 +21058,6 @@ eco_sed_192_102_191_164.iind.intel.com
 jf_sed_192_55_44_18.jf.intel.com
 hfs02esxcasd003.cps.intel.com
 static.sigopt.intel.com
-*.swiss-an.intel.com
-*.swiss-fm.intel.com
-*.swiss-iil.intel.com
-*.swiss-iind.intel.com
-*.swiss-int-iil.intel.com
-*.swiss-int-iind.intel.com
-*.swiss-int-sc.intel.com
-*.swiss-int.intel.com
-*.swiss-pdx.intel.com
-*.swiss-png.intel.com
-*.swiss-sc.intel.com
-*.swiss.intel.com
-*.swissnetbatch-iil.intel.com
-*.swissnetbatch-iind.intel.com
-*.swissnetbatch-pdx.intel.com
-*.swissnetbatch-sc.intel.com
-*.swissnetbatch.intel.com
-*.flex.sova.intel.com
 coolsw.intel.com
 reg.oneventseries.intel.com
 mashmaker.intel.com
@@ -21365,9 +21087,7 @@ irefservices.intel.com
 sharepoint.amr.ith.intel.com
 chinai2r.intel.com
 prd1glbser.cps.intel.com
-ssd.intel.com
 dsupport.intel.com
-euclidcommunity.intel.com
 softwareblogs-rus.intel.com
 paralleluniverse.intel.com
 spark.intel.com
@@ -21460,24 +21180,11 @@ atdatrmsmtnlb.ch.intel.com
 kmwlrnuweb.kssm.intel.com
 kmsifx0021.kssm.intel.com
 rf3pvrelayn14.mfg.intel.com
-www.rss.intel.com
-www.atdatrmsmtnlb.ch.intel.com
-www.certification-retail.intel.com
-www.developer.intel.com
-www.kmsifx0021.kssm.intel.com
-www.kmwlrnuweb.kssm.intel.com
 atdsdcppweb2.amr.corp.intel.com
 atdvepoweb01.amr.corp.intel.com
 pgvpclswef210.ccr.corp.intel.com
-www.images.dev-plan.intel.com
 rf3pxap608n1.rf3prod.mfg.intel.com
 proxy-chain.intel.com
-www.rf3pvrelayn14.mfg.intel.com
-www.pgvpclswef210.ccr.corp.intel.com
-www.atdsdcppweb2.amr.corp.intel.com
-www.atdvepoweb01.amr.corp.intel.com
-www.api.intelsa.intel.com
-www.rf3pxap608n1.rf3prod.mfg.intel.com
 proxy-png.intel.com
 gar.corp.intel.com
 amr.ith.intel.com
@@ -21663,7 +21370,6 @@ bgsbesrelayu06.gar.corp.intel.com
 cca.iglb.intel.com
 azsdmzrelay05.intel.com
 act.intel.com
-www.ekop.intel.com
 fm1vacshare-dm.cps.intel.com
 d1decentre01.intel.com
 inteld1.intel.com
@@ -21695,8 +21401,3 @@ swissautops-iil.intel.com
 enaa-test.intel.com
 warmline.intel.com
 warmlinehelp.intel.com
-*.sp2019qa.intel.com
-*.aiplayground.cloud.intel.com
-*.apps.sp2019qa.intel.com
-*.intel.com
-*.allinone.build.intel.com

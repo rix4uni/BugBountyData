@@ -1,11 +1,5 @@
-*.anthosapis.com
-*.global.anthosapis.com
-*.europe-west1.anthosapis.com
-*.us-central1.anthosapis.com
-*.us-east1.anthosapis.com
-*.us-west1.anthosapis.com
-us-east1.anthosapis.com
-us-central1.anthosapis.com
-us-west1.anthosapis.com
 global.anthosapis.com
 europe-west1.anthosapis.com
+us-central1.anthosapis.com
+us-east1.anthosapis.com
+us-west1.anthosapis.com

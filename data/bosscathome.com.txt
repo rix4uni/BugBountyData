@@ -34,7 +34,6 @@ pro.bosscathome.com
 pro.dev.bosscathome.com
 pro.uat.bosscathome.com
 sftp1.bosscathome.com
-www.bosscathome.com
 admin.amount-paid.bosscathome.com
 admin.approval-v2.bosscathome.com
 admin.bdt-3238.bosscathome.com
@@ -224,4 +223,3 @@ pro.sql-read.bosscathome.com
 pro.trade-lists.bosscathome.com
 prod.bosscathome.com
 uat.bosscathome.com
-www.dev.bosscathome.com

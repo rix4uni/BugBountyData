@@ -1,4 +1,3 @@
-www.woosa.com
 wishlist.woosa.com
 staging-help.woosa.com
 shopify-dev.woosa.com
@@ -16,20 +15,15 @@ roadmap.woosa.com
 dev.woosa.com
 werkenbij.woosa.com
 members.woosa.com
-*.woosa.com
 academy.woosa.com
 help.woosa.com
 multisite.woosa.com
 checkout.woosa.com
-*.adyenpayments.proxypoc.woosa.com
-*.adyen.proxypoc.woosa.com
 demo.woosa.com
 my.woosa.com
 devops.woosa.com
-*.adyenpayments.woosa.com
-*.adyen.woosa.com
-*.merchandise.woosa.com
+adyenpayments.woosa.com
+adyen.woosa.com
 merchandise.woosa.com
-*.dropshipping.woosa.com
 dropshipping.woosa.com
 pro.woosa.com

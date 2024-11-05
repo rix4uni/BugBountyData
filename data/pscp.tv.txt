@@ -1,5 +1,4 @@
-*.pscp.tv
-*.video.pscp.tv
+video.pscp.tv
 10.72.180.60prod-fastly-us-west-1.video.pscp.tv
 a.pscp.tv
 api.pscp.tv
@@ -263,7 +262,6 @@ turn-us-west-1.pscp.tv
 tusman.us-west-2.dev.pscp.tv
 tusman.us-west-2.prod.pscp.tv
 va.pscp.tv
-video.pscp.tv
 vidman-ap-northeast-1.pscp.tv
 vidman-ap-northeast-2.pscp.tv
 vidman-ap-south-1.pscp.tv
@@ -291,7 +289,6 @@ web-us-west-2.pscp.tv
 webdisk.acesso.pscp.tv
 wf-exch2010.pscp.tv
 willamonika.pscp.tv
-www.pscp.tv
 zz.pscp.tv
 canary-notification-service.pscp.tv
 canary-payman.pscp.tv

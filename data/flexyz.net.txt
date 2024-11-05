@@ -37,7 +37,7 @@ vlan-900.ape01srx01.ip.flexyz.net
 185-160-58-238.static.ip.flexyz.net
 185-160-59-130.static.ip.flexyz.net
 185-56-34-37.static.ip.flexyz.net
-www.nav01.profitlink.kwikfit.flexyz.net
+nav01.profitlink.kwikfit.flexyz.net
 185-160-58-138.static.ip.flexyz.net
 185-160-58-79.static.ip.flexyz.net
 185-56-32-12.static.ip.flexyz.net
@@ -230,7 +230,7 @@ desktop.kwikfit.flexyz.net
 185-160-57-87.static.ip.flexyz.net
 185-56-33-246.static.ip.flexyz.net
 185-56-34-74.static.ip.flexyz.net
-www.doorman.lijnco.flexyz.net
+doorman.lijnco.flexyz.net
 185-160-56-170.static.ip.flexyz.net
 185-160-56-213.static.ip.flexyz.net
 185-56-32-238.static.ip.flexyz.net
@@ -477,7 +477,7 @@ extranet.flexyz.net
 185-56-35-162.static.ip.flexyz.net
 185-56-35-34.static.ip.flexyz.net
 185-56-35-81.static.ip.flexyz.net
-www.kwikfit.flexyz.net
+kwikfit.flexyz.net
 185-160-56-161.static.ip.flexyz.net
 185-160-58-47.static.ip.flexyz.net
 185-24.static.ip.flexyz.net
@@ -1030,7 +1030,6 @@ business.customer-185-55-150p.flexyz.net
 185-56-33-101.static.ip.flexyz.net
 185-56-34-23.static.ip.flexyz.net
 185-56-35-99.static.ip.flexyz.net
-www.flexyz.net
 185-160-57-22.static.ip.flexyz.net
 185-160-57-54.static.ip.flexyz.net
 185-160-58-200.static.ip.flexyz.net
@@ -1147,7 +1146,6 @@ zeewolde.flexyz.net
 185-160-56-81.static.ip.flexyz.net
 185-56-34-229.static.ip.flexyz.net
 185-56-32-49.static.ip.flexyz.net
-doorman.lijnco.flexyz.net
 185-160-56-113.static.ip.flexyz.net
 185-160-56-166.static.ip.flexyz.net
 185-56-35-178.static.ip.flexyz.net
@@ -1440,7 +1438,6 @@ ltm.flexyz.net
 185-56-34-132.static.ip.flexyz.net
 185-56-34-199.static.ip.flexyz.net
 185-56-35-89.static.ip.flexyz.net
-www.nexus.flexyz.net
 185-160-57-167.static.ip.flexyz.net
 185-160-58-224.static.ip.flexyz.net
 185-56-32-186.static.ip.flexyz.net
@@ -1592,7 +1589,6 @@ vpn03.flexyz.net
 185-56-32-2.static.ip.flexyz.net
 185-56-32-253.static.ip.flexyz.net
 185-56-32-69.static.ip.flexyz.net
-www.nav02.acc.kwikfit.flexyz.net
 185-160-58-247.static.ip.flexyz.net
 185-56-33-4.static.ip.flexyz.net
 185-56-34-156.static.ip.flexyz.net
@@ -1825,7 +1821,6 @@ border01.ape01.ip.flexyz.net
 185-56-35-217.static.ip.flexyz.net
 185-56-32-196.static.ip.flexyz.net
 185-56-33-3.static.ip.flexyz.net
-www.desktop.kwikfit.flexyz.net
 185-160-56-172.static.ip.flexyz.net
 185-160-59-168.static.ip.flexyz.net
 185-160-59-177.static.ip.flexyz.net
@@ -1930,7 +1925,6 @@ www.desktop.kwikfit.flexyz.net
 185-160-58-96.static.ip.flexyz.net
 185-160-59-214.static.ip.flexyz.net
 185-160-59-54.static.ip.flexyz.net
-www.localcloud.kwikfit.flexyz.net
 185-160-56-10.static.ip.flexyz.net
 185-160-57-232.static.ip.flexyz.net
 185-160-58-111.static.ip.flexyz.net
@@ -2102,7 +2096,6 @@ mx02.zeewolde.flexyz.net
 185-160-58-45.static.ip.flexyz.net
 185-56-32-56.static.ip.flexyz.net
 185-56-33-188.static.ip.flexyz.net
-kwikfit.flexyz.net
 185-160-56-169.static.ip.flexyz.net
 185-160-59-44.static.ip.flexyz.net
 185-160-59-59.static.ip.flexyz.net

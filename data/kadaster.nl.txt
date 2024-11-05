@@ -70,7 +70,7 @@ vpn.test.cloud.kadaster.nl
 orkr-sh-lb-api.in.kadaster.nl
 test.certificate.kadaster.nl
 vjeh.kadaster.nl
-www.cms.test.kadaster.nl
+cms.test.kadaster.nl
 iep250.ie.kadaster.nl
 kss-adss-s-dc3.cs.kadaster.nl
 ontw-mijn.kadaster.nl
@@ -78,11 +78,11 @@ or.acceptatie.kadaster.nl
 verbeterdeluchtvaartkaart.acceptatie.kadaster.nl
 brkpb.cloud.kadaster.nl
 pi-extern.wcm.test.kadaster.nl
-www.test.huisstijl.kadaster.nl
+test.huisstijl.kadaster.nl
 rec.test.cloud.kadaster.nl
 pb.brk.acceptatie.kadaster.nl
 prd-vjeh.ext.kadaster.nl
-www.ontwikkeling.huisstijl.kadaster.nl
+ontwikkeling.huisstijl.kadaster.nl
 edu-kadatawebservice.kadaster.nl
 intranet.kadaster.nl
 kad-dtr-manager.so.kadaster.nl
@@ -204,7 +204,7 @@ pi-myk.wcm.kadaster.nl
 orkr-kss-web1.in.kadaster.nl
 password.iam.test.kadaster.nl
 sapgwd00.cs.kadaster.nl
-www.cms1.ontwikkeling.kadaster.nl
+cms1.ontwikkeling.kadaster.nl
 rdinfo.kadaster.nl
 lvb.kadaster.nl
 kss-adss-docsign.in.kadaster.nl
@@ -316,7 +316,6 @@ iep230.ie.kadaster.nl
 mvs-meeting.kadaster.nl
 orkr-kss-mob2.in.kadaster.nl
 dev-brm.in.kadaster.nl
-ontwikkeling.huisstijl.kadaster.nl
 sapcri12.cs.kadaster.nl
 test-kadatawebservice.kadaster.nl
 kik-aa.test.kadaster.nl
@@ -327,13 +326,13 @@ data.labs.kadaster.nl
 help.brt.test.kadaster.nl
 iep105.ie.kadaster.nl
 kadatawebservices.kadaster.nl
-www.cms.integratie.kadaster.nl
+cms.integratie.kadaster.nl
 aa.kadaster.nl
 access-policyservice.kadaster.nl
 dmo.document-viewer-api.dso.kadaster.nl
 kss-ksh.cs.kadaster.nl
 mailhigh2.kadaster.nl
-www.cms.kadaster.nl
+cms.kadaster.nl
 zakelijk.test.kadaster.nl
 beheer.bke.kadaster.nl
 cswg11.bhr.kadaster.nl
@@ -442,10 +441,10 @@ developer.bhr.kadaster.nl
 orkr-adss-docsign.fto.kadaster.nl
 orkr-kss-api.in.kadaster.nl
 test-mijn.kadaster.nl
-www.cms.ontwikkeling.kadaster.nl
+cms.ontwikkeling.kadaster.nl
 kss-signinghub-dca.rto.kadaster.nl
 sss-svc.in.kadaster.nl
-www.cms.acceptatie.kadaster.nl
+cms.acceptatie.kadaster.nl
 www1.kadaster.nl
 ams.test.kadaster.nl
 monitoring-plp-beheer.acs.kadaster.nl
@@ -559,7 +558,7 @@ beheer.cms.ontwikkeling.kadaster.nl
 bestelloket.kadaster.nl
 developer.cs.kadaster.nl
 kad-dca-nds-511.cs.kadaster.nl
-www.cms1.test.kadaster.nl
+cms1.test.kadaster.nl
 bes.acceptatie.kadaster.nl
 crm-int.erp.kadaster.nl
 ms.or.acceptatie.kadaster.nl
@@ -581,7 +580,6 @@ ksh-mob-in.orkr.kadaster.nl
 orkr-kss-api3.cs.kadaster.nl
 orkr-kss-console.fto.kadaster.nl
 test-mail.kadaster.nl
-www.kadaster.nl
 dso.kadaster.nl
 contserv.erp.acceptatie.kadaster.nl
 cswg030.bhr.kadaster.nl
@@ -616,7 +614,7 @@ dataleveringen.acceptatie.kadaster.nl
 iep238.ie.kadaster.nl
 poc.eid.test.kadaster.nl
 schemas.acceptatie.kadaster.nl
-www.cms2.acceptatie.kadaster.nl
+cms2.acceptatie.kadaster.nl
 cronacle.cs.kadaster.nl
 iep233.ie.kadaster.nl
 ms.dashboards.kadaster.nl
@@ -878,12 +876,12 @@ orkr-signinghub2.in.kadaster.nl
 worx.kadaster.nl
 bestelgebied.bke.kadaster.nl
 maintenance.kadaster.nl
-www.cms1.acceptatie.kadaster.nl
+cms1.acceptatie.kadaster.nl
 api.bag.test.kadaster.nl
 lvbag.test.cloud.kadaster.nl
 vsmart01.ksh.kadaster.nl
 plp-oracle-enterprise-manager.cs.kadaster.nl
-www.huisstijl.kadaster.nl
+huisstijl.kadaster.nl
 connect2.kadaster.nl
 dae-server-brt-01.in.kadaster.nl
 dashboards.kadaster.nl
@@ -1044,7 +1042,6 @@ sapgwd52.cs.kadaster.nl
 test.geodoc.dso.kadaster.nl
 api.brk.acceptatie.kadaster.nl
 elan-cli.in.kadaster.nl
-huisstijl.kadaster.nl
 kps-ocr.fto.kadaster.nl
 mg1.kadaster.nl
 ldap-virt1.cs.kadaster.nl
@@ -1082,7 +1079,6 @@ bagviewer.acceptatie.kadaster.nl
 beheer.cms.acceptatie.kadaster.nl
 cm.sam.kadaster.nl
 connect3.kadaster.nl
-www.cms1.kadaster.nl
 epc-test.kadaster.nl
 geobs.kadaster.nl
 service10.kadaster.nl
@@ -1095,7 +1091,7 @@ elan.cs.kadaster.nl
 kss-client.rto.kadaster.nl
 orkr-kss-mob2.cs.kadaster.nl
 ms.idc.acceptatie.kadaster.nl
-www.acceptatie.huisstijl.kadaster.nl
+acceptatie.huisstijl.kadaster.nl
 adc2.ext.kadaster.nl
 babs.gma.kadaster.nl
 cswg020.bhr.kadaster.nl
@@ -1119,7 +1115,7 @@ orkr-adss-dca.in.kadaster.nl
 cswg17.bhr.kadaster.nl
 kps-api.fto.kadaster.nl
 sapr3p00.cs.kadaster.nl
-www.cms2.kadaster.nl
+cms2.kadaster.nl
 gird.kadaster.nl
 formulieren-id.pre-prod.kadaster.nl
 iam-applications.in.kadaster.nl
@@ -1234,7 +1230,6 @@ bagviewer.test.kadaster.nl
 chatgpt.dst.kadaster.nl
 kss-tsa.fto.kadaster.nl
 verbeterdekaart.test.kadaster.nl
-www.labs.kadaster.nl
 service30.acceptatie.diginetwerk.kadaster.nl
 gdc.kadaster.nl
 acc-kadata.kadaster.nl
@@ -1287,10 +1282,8 @@ mailhigh1.kadaster.nl
 orkr-kss-web2.fto.kadaster.nl
 ms.bag-lv.test.kadaster.nl
 mx4.kadaster.nl
-test.huisstijl.kadaster.nl
 crm-ont.erp.kadaster.nl
 acc-kadata20.kadaster.nl
-acceptatie.huisstijl.kadaster.nl
 klic.acceptatie.kadaster.nl
 ms.bag-lv.kadaster.nl
 werkvoorraad.reps.test.kadaster.nl
@@ -1348,7 +1341,7 @@ apos-int.erp.kadaster.nl
 ae.dae.test.kadaster.nl
 creditmanagement.test.kadaster.nl
 developer.acceptatie.kadaster.nl
-www.cms2.test.kadaster.nl
+cms2.test.kadaster.nl
 authorization.acceptatie.kadaster.nl
 diginetwerk.kadaster.nl
 mutatie.dhub.kadaster.nl
@@ -1418,7 +1411,6 @@ iv-portal.in.kadaster.nl
 iv-pi-extern2.in.kadaster.nl
 iv-pi-myk.in.kadaster.nl
 iv-pi-pdok.in.kadaster.nl
-*.lvwoz.test01.private.kadaster.nl
 lvwoz.test01.private.kadaster.nl
 iv-portal.cs.kadaster.nl
 iv-pi-extern2.cs.kadaster.nl
@@ -1428,7 +1420,5 @@ iv-portal.fto.kadaster.nl
 iv-pi-extern2.fto.kadaster.nl
 iv-pi-myk.fto.kadaster.nl
 iv-pi-pdok.fto.kadaster.nl
-*.dst.test.cloud.kadaster.nl
-*.labs.test.kadaster.nl
 labs.test.kadaster.nl
-*.kkg.test.kadaster.nl
+kkg.test.kadaster.nl

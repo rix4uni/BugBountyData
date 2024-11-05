@@ -1,6 +1,5 @@
-*.toobit.com
-*.broker-admin.toobit.com
-*.saas-admin.toobit.com
+broker-admin.toobit.com
+saas-admin.toobit.com
 api.toobit.com
 api-code.toobit.com
 api-otc.toobit.com
@@ -17,15 +16,12 @@ support.toobit.com
 tb.toobit.com
 tb2.toobit.com
 wallet.toobit.com
-www.toobit.com
 www1.toobit.com
 www2.toobit.com
-broker-admin.toobit.com
-saas-admin.toobit.com
 visitor.toobit.com
 otc.toobit.com
 bamboo.toobit.com
-www.oprah.comwww.toobit.com
+oprah.comwww.toobit.com
 h5.toobit.com
 url631.toobit.com
 ws10.toobit.com

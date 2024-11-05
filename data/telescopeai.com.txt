@@ -17,7 +17,6 @@ system.hp.demo2.telescopeai.com
 testio.perfx.telescopeai.com
 health.demo.telescopeai.com
 keycloak.hp.demo2.telescopeai.com
-www.telescopeai.com
 events.demo.telescopeai.com
 events.msd.telescopeai.com
 video.demo.telescopeai.com
@@ -49,19 +48,6 @@ perf-stag.refinitiv.telescopeai.com
 keycloak.kantar.telescopeai.com
 system.kantar.telescopeai.com
 heroes.petrofac.telescopeai.com
-*.telescopeai.com
-*.alshaya.telescopeai.com
-*.hp.demo2.telescopeai.com
-*.kantar.telescopeai.com
-*.perf-stag.refinitiv.telescopeai.com
-*.sap.telescopeai.com
-*.sap-dev.telescopeai.com
 refi-stag.refinitiv.telescopeai.com
 system.alshaya.telescopeai.com
-www.events.msd.telescopeai.com
-www.grow.telescopeai.com
-www.login.telescopeai.com
-*.altrata.telescopeai.com
-*.demo.telescopeai.com
-*.video.demo.telescopeai.com
 ms53358028.telescopeai.com

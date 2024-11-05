@@ -33,7 +33,7 @@ cn0.ma4.manchester.uk.core.simwood.com
 185-63-142-234.mobile.simwood.com
 185-63-142-43.mobile.simwood.com
 185-63-143-50.mobile.simwood.com
-www.ld4.slough.uk.simwood.com
+ld4.slough.uk.simwood.com
 185-63-140-37.mobile.simwood.com
 185-63-141-185.mobile.simwood.com
 lon-b.the.london.uk.core.simwood.com
@@ -113,7 +113,7 @@ cn0.vta.london.uk.simwood.com
 185-63-141-231.mobile.simwood.com
 185-63-143-250.mobile.simwood.com
 e1-2.slo-a.ld4.slough.uk.core.simwood.com
-www.out.simwood.com
+out.simwood.com
 185-63-140-254.mobile.simwood.com
 185-63-141-17.mobile.simwood.com
 185-63-142-94.mobile.simwood.com
@@ -469,7 +469,7 @@ apiv4.simwood.com
 185-63-140-232.mobile.simwood.com
 185-63-142-68.mobile.simwood.com
 cn2.vta.london.uk.simwood.com
-www.beta.core.voxap.simwood.com
+beta.core.voxap.simwood.com
 185-63-141-10.mobile.simwood.com
 185-63-141-251.mobile.simwood.com
 the.e1-2.edi-a.sco.edinburgh.uk.core.simwood.com
@@ -479,7 +479,7 @@ ws.ld4.slough.uk.simwood.com
 185-63-142-195.mobile.simwood.com
 185-63-143-10.mobile.simwood.com
 185-63-143-163.mobile.simwood.com
-www.api.voxap.simwood.com
+api.voxap.simwood.com
 185-63-140-179.mobile.simwood.com
 185-63-140-239.mobile.simwood.com
 185-63-140-74.mobile.simwood.com
@@ -717,7 +717,6 @@ ve252.cs1.ld4.slough.uk.simwood.com
 185-63-143-178.mobile.simwood.com
 e1-8.lon-a.the.london.uk.simwood.com
 public-wifi.ve229.cs1.ld4.slough.uk.simwood.com
-beta.core.voxap.simwood.com
 185-63-141-225.mobile.simwood.com
 185-63-143-110.mobile.simwood.com
 185-63-140-206.mobile.simwood.com
@@ -732,7 +731,7 @@ netplan-gw.the0.the.london.uk.simwood.com
 185-63-141-203.mobile.simwood.com
 185-63-142-125.mobile.simwood.com
 tinet-gw.e1-4.lon-b.the.london.uk.simwood.com
-www.core.voxap.simwood.com
+core.voxap.simwood.com
 185-63-140-107.mobile.simwood.com
 185-63-142-205.mobile.simwood.com
 turn.svc.production.uk-lon-1.cns.simwood.com
@@ -797,7 +796,7 @@ reg.voxap.simwood.com
 185-63-143-30.mobile.simwood.com
 ld4.ve227.man-b.syn.manchester.uk.core.simwood.com
 uc.syn.manchester.uk.simwood.com
-www.cluster0.syn.manchester.uk.simwood.com
+cluster0.syn.manchester.uk.simwood.com
 185-63-141-72.mobile.simwood.com
 185-63-141-75.mobile.simwood.com
 185-63-141-95.mobile.simwood.com
@@ -903,7 +902,6 @@ slo-a.e1-6.slo-b.ld4.slough.uk.core.simwood.com
 out.us.simwood.com
 185-63-140-117.mobile.simwood.com
 185-63-140-191.mobile.simwood.com
-ld4.slough.uk.simwood.com
 ve204.man-a.syn.manchester.uk.core.simwood.com
 185-63-142-79.mobile.simwood.com
 185-63-143-136.mobile.simwood.com
@@ -945,7 +943,6 @@ portal-dev.ext.simwood.com
 rt3.syn.manchester.uk.core.simwood.com
 voipuser-gw.cpe.ve203.cs0.syn.manchester.uk.simwood.com
 185-63-143-183.mobile.simwood.com
-cluster0.syn.manchester.uk.simwood.com
 thn-1.thn.london.uk.core.simwood.com
 185-63-140-143.mobile.simwood.com
 185-63-140-79.mobile.simwood.com
@@ -964,7 +961,6 @@ cn0.ld4.slough.uk.core.simwood.com
 rt1.simwood.com
 vta.london.uk.core.simwood.com
 wifi-gw.ve303.cs0.the.london.uk.simwood.com
-out.simwood.com
 185-63-140-202.mobile.simwood.com
 man-b.syn.manchester.uk.simwood.com
 185-63-143-44.mobile.simwood.com
@@ -1025,7 +1021,6 @@ thn0.thn.london.uk.core.simwood.com
 185-63-143-13.mobile.simwood.com
 ve600.cs0.the.london.uk.simwood.com
 support.simwood.com
-www.support.simwood.com
 185-63-140-159.mobile.simwood.com
 dandev.ld4.slough.uk.simwood.com
 slocdr0.ws.ld4.slough.uk.simwood.com
@@ -1197,7 +1192,6 @@ uk18.ws.syn.manchester.uk.simwood.com
 185-63-142-15.mobile.simwood.com
 185-63-142-194.mobile.simwood.com
 the.e1-1.man-a.syn.manchester.uk.core.simwood.com
-www.simwood.com
 185-63-140-228.mobile.simwood.com
 185-63-140-98.mobile.simwood.com
 185-63-143-127.mobile.simwood.com
@@ -1222,7 +1216,6 @@ itcomms-gw.vta1.vta.london.uk.simwood.com
 185-63-143-159.mobile.simwood.com
 185-63-143-31.mobile.simwood.com
 185-63-143-4.mobile.simwood.com
-api.voxap.simwood.com
 185-63-141-173.mobile.simwood.com
 185-63-142-106.mobile.simwood.com
 185-63-142-30.mobile.simwood.com
@@ -1240,7 +1233,6 @@ equinix.e1-5.slo-a.ld4.slough.uk.simwood.com
 185-63-142-95.mobile.simwood.com
 185-63-143-112.mobile.simwood.com
 ngd-1.ngd.newport.uk.core.simwood.com
-www.carrier.simwood.com
 185-63-140-62.mobile.simwood.com
 185-63-141-21.mobile.simwood.com
 185-63-141-253.mobile.simwood.com
@@ -1280,7 +1272,6 @@ lon-a.the0.the.london.uk.core.simwood.com
 185-63-141-137.mobile.simwood.com
 185-63-142-71.mobile.simwood.com
 ve229.cs1.ld4.slough.uk.simwood.com
-core.voxap.simwood.com
 185-63-141-112.mobile.simwood.com
 185-63-141-19.mobile.simwood.com
 185-63-143-227.mobile.simwood.com
@@ -1403,4 +1394,3 @@ cs0.the.london.uk.simwood.com
 185-63-142-201.mobile.simwood.com
 185-63-142-81.mobile.simwood.com
 185-63-142-97.mobile.simwood.com
-www.beta.api.voxap.simwood.com

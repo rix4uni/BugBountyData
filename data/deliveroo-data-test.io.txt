@@ -4,7 +4,6 @@ jenkins-canoe-staging.deliveroo-data-test.io
 canoe-staging-k8s.deliveroo-data-test.io
 dashboard.deliveroo-data-test.io
 traffic.deliveroo-data-test.io
-www.deliveroo-data-test.io
 internal.canoe-staging-k8s.deliveroo-data-test.io
 kafka-manager.deliveroo-data-test.io
 order-status.deliveroo-data-test.io
@@ -14,7 +13,6 @@ integration.deliveroo-data-test.io
 api.canoe-staging-k8s.deliveroo-data-test.io
 jenkins-canoe-staging-tst.deliveroo-data-test.io
 restaurant-data-api.deliveroo-data-test.io
-*.deliveroo-data-test.io
 active-consumer-group.lab.deliveroo-data-test.io
 sql-dal.deliveroo-data-test.io
 bastion.canoe-staging-k8s.sut.deliveroo-data-test.io

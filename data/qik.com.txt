@@ -49,7 +49,7 @@ control.qik.com
 exchange.qik.com
 edge2.qik.com
 assets1.qik.com
-www.nonos.qik.com
+nonos.qik.com
 files.qik.com
 assets0.qik.com
 email.qik.com
@@ -62,5 +62,4 @@ db-sg-slave01.qik.com
 jira.qik.com
 download.qik.com
 support.qik.com
-www.qik.com
 blog.qik.com

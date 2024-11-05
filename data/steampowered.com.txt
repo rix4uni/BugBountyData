@@ -1,11 +1,10 @@
-*.steampowered.com
-*.beta.steampowered.com
-*.cm.steampowered.com
-*.forums.steampowered.com
-*.preview.steampowered.com
-*.repo.steampowered.com
-*.support.steampowered.com
-*.translation.steampowered.com
+beta.steampowered.com
+cm.steampowered.com
+forums.steampowered.com
+preview.steampowered.com
+repo.steampowered.com
+support.steampowered.com
+translation.steampowered.com
 202-180-64-226.steampowered.com
 202-180-64-227.steampowered.com
 202-180-64-231.steampowered.com
@@ -278,7 +277,6 @@ api.steampowered.com
 api-beta.steampowered.com
 api.origin.steampowered.com
 api.staging.steampowered.com
-beta.steampowered.com
 blog.steampowered.com
 bulkmail.steampowered.com
 cafe.steampowered.com
@@ -304,7 +302,6 @@ cloud-2.steampowered.com
 cloud-3.steampowered.com
 cloud-4.steampowered.com
 cloud-origin.steampowered.com
-cm.steampowered.com
 cm-01-okc1.cm.steampowered.com
 cm-01-sea1.cm.steampowered.com
 cm-01-waw1.cm.steampowered.com
@@ -400,7 +397,6 @@ developer.steampowered.com
 dia.steampowered.com
 dongle.steampowered.com
 faurt.steampowered.com
-forums.steampowered.com
 gds1.steampowered.com
 gds2.steampowered.com
 gds3.steampowered.com
@@ -427,8 +423,6 @@ partnerupload1.steampowered.com
 partnerupload1.staging.steampowered.com
 partnerupload2.steampowered.com
 partnerupload3.steampowered.com
-preview.steampowered.com
-repo.steampowered.com
 smtp.steampowered.com
 smtp-01-tuk1.steampowered.com
 smtp-02-tuk1.steampowered.com
@@ -484,17 +478,12 @@ store_mode.steampowered.com
 storefront.steampowered.com
 storefront-dist.steampowered.com
 storehelp.steampowered.com
-support.steampowered.com
 support.origin.steampowered.com
 support.smtp.steampowered.com
 support.staging.steampowered.com
 supportwiki.steampowered.com
 test.steampowered.com
-translation.steampowered.com
 video.edgecast.steampowered.com
-www.steampowered.com
-www.staging.steampowered.com
-www.store.steampowered.com
 partner.origin.steampowered.com
 api.steampowered.com5hl1master.steampowered.com5hl2master.steampowered.com
 video.akamai.steampowered.com
@@ -512,7 +501,6 @@ sflb-03-tuk1.steampowered.com
 cm4-mad1.cm.steampowered.com
 cm1-sto2.cm.steampowered.com
 store.akamai.steampowered.com
-*www.steampowered.com
 sflb-02-tuk1.steampowered.com
 cm1-jnb1.cm.steampowered.com
 cm0.steampowered.com

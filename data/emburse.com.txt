@@ -52,7 +52,6 @@ auth.ca.app-test.emburse.com
 pay.app-dev.emburse.com
 emails.soluciones.emburse.com
 crew.emburse.com
-www.emburse.com
 alb-ext.api-dev.emburse.com
 mlexpensecategory.api.emburse.com
 gcp.emburse.com

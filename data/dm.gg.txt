@@ -149,11 +149,6 @@ data-dailyfender-v2-api-ap-south-1.k8s.dm.gg
 data-dailyfender-v2-api-us-west-2.k8s.dm.gg
 leo-metadata-api-grpc-dc3.k8s.dm.gg
 playerlab.kube.dm.gg
-*.dm.gg
-*.pub.kube.dm.gg
-*.kube.dm.gg
-*.stg.dm.gg
-*.preview.kube.dm.gg
 cloud.dm.gg
 losangeles.dm.gg
 newyork.dm.gg
@@ -186,7 +181,6 @@ gitlab.dm.gg
 install.dm.gg
 aproxy.dm.gg
 pebed2.dm.gg
-www.dm.gg
 infralogs.dm.gg
 bodyguard-dev-legacy.kube.dm.gg
 adscheduler-prod-onprem-nyc.kube.dm.gg
@@ -349,7 +343,6 @@ adscheduler-prod-onprem-sg1.kube.dm.gg
 cerebro.kube.dm.gg
 bodyguard-priv.kube.dm.gg
 internaltools-player-staging.pub.kube.dm.gg
-www.infralogs.dm.gg
 developer-dev.kube.dm.gg
 business-dev.kube.dm.gg
 domain-verification-staging.kube.dm.gg

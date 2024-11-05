@@ -1,4 +1,3 @@
-www.netrise.io
 kb.netrise.io
 apollo.app-demo.netrise.io
 auth-mediator.turbine-demo.netrise.io
@@ -13,10 +12,9 @@ app-dev.netrise.io
 authn.turbine-dev.netrise.io
 gitlab.corp.netrise.io
 turbine-demo.netrise.io
-www.turbine.netrise.io
+turbine.netrise.io
 apollo.app-dev.netrise.io
 apollo.turbine-dev.netrise.io
-turbine.netrise.io
 turbine-prod.netrise.io
 vantage-demo.netrise.io
 auth-mediator.turbine.netrise.io

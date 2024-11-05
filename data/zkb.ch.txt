@@ -153,7 +153,6 @@ cppsecurelogin.zkb.ch
 phototanapp-01.zkb.ch
 ostapd-six.prod.zkb.ch
 paynetpd-six-prod.zkb.ch
-www.broker.zkb.ch
 ws-terminator-st2.extranet.zkb.ch
 infoapp-st1.zkb.ch
 onlineberatung-01.zkb.ch
@@ -192,16 +191,11 @@ infoapp-01.zkb.ch
 2020-staging.zkb.ch
 amt.zkb.ch
 sldws-01.extranet.zkb.ch
-www.etplib-ext-inst3-st2.st.zkb.ch
+etplib-ext-inst3-st2.st.zkb.ch
 etplib-inst4-st1.st.zkb.ch
-www.etplib-inst4-st1.st.zkb.ch
 etplib-inst3-st1.st.zkb.ch
-www.etplib-ext-inst3-st1.st.zkb.ch
 etplib-ext-inst3-st1.st.zkb.ch
 umfrage2.zkb.ch
-www.etradingpro-st1.extranet.zkb.ch
-www.etp-terminator-st1.zkb.ch
-www.ws-terminator-st1.extranet.zkb.ch
 ws-terminator-st1.extranet.zkb.ch
 sdreiapp.zkb.ch
 elena-sms.zkb.ch
@@ -236,6 +230,4 @@ pzm.zkb.ch
 stats.zkb.ch
 onba.zkb.ch
 fxnet.zkb.ch
-www.zkb.ch
-www.swc-02.zkb.ch
 fim-st1.zkb.ch

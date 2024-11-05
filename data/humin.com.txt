@@ -1,10 +1,8 @@
 api.humin.com
-www.api.humin.com
 o1.email.humin.com
 o2.email.humin.com
-www.prod.humin.com
+prod.humin.com
 staging.humin.com
-www.staging.humin.com
 o4.email.humin.com
 gateway.humin.com
 verify.humin.com
@@ -15,8 +13,6 @@ email.humin.com
 o5.email.humin.com
 i.humin.com
 backups.humin.com
-prod.humin.com
-www.humin.com
 o3.email.humin.com
 qa.humin.com
 ci.humin.com

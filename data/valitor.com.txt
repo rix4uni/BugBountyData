@@ -30,7 +30,6 @@ api.processing.uat.valitor.com
 193-4-196-85.valitor.com
 aw.valitor.com
 ft.uat.valitor.com
-www.testvts-issuing.valitor.com
 s2-cloudlink.valitor.com
 autodiscover.valitor.com
 service-auth300is.valitor.com
@@ -89,11 +88,9 @@ random.valitor.com
 s1-saga.uat.valitor.com
 s2-mpi.valitor.com
 specs.uat.valitor.com
-www.valitor.com
 testcases.authorization.acquiring.uat.valitor.com
 uat.valitor.com
 merchantapplication.valitor.com
-www.cardinalcommerce-acs.valitor.com
 s1-ingetrust.valitor.com
 service-auth150is.valitor.com
 visita.valitor.com
@@ -103,7 +100,6 @@ api.acquiring.valitor.com
 authorization.acquiring.valitor.com
 s1-testvts-issuing.valitor.com
 service-issuing300is.valitor.com
-www.mpi.test.valitor.com
 api-saga.valitor.com
 authorization-acquiring-test.valitor.com
 octopus.valitor.com
@@ -124,13 +120,11 @@ abs.uat.valitor.com
 docs.valitor.com
 docs.authorization.acquiring.uat.valitor.com
 s2-ike.valitor.com
-www.mpi.valitor.com
 support.valitor.com
 s1-ingetrust.uat.valitor.com
 3dsecure.test.valitor.com
 icmp-check-41.valitor.com
 s1-mpi.valitor.com
-www.ingetrust.valitor.com
 checkout.valitor.com
 api.dynamicapplication.aws.valitor.com
 authorization-acquiring.uat.valitor.com
@@ -154,9 +148,8 @@ vpspos-uat.valitor.com
 s2-terminal.valitor.com
 91-199-134-225.valitor.com
 91-199-134-226.valitor.com
-www.vts-issuing.valitor.com
-acquiring-specs.valitor.com
 vts-issuing.valitor.com
+acquiring-specs.valitor.com
 s2-random.valitor.com
 api.saga.valitor.com
 ft.valitor.com

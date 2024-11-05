@@ -1,7 +1,6 @@
-*.opera.software
-*.dev.osp.opera.software
-*.osp.opera.software
-*.vpn.opera.software
+dev.osp.opera.software
+osp.opera.software
+vpn.opera.software
 0asubmit-ash.osp.opera.software
 108-74.146.82.h05-18-04.osp.opera.software
 250asubmit-target.osp.opera.software
@@ -53,7 +52,6 @@ desktop-dna.osp.opera.software
 desktop-netinstaller-sub.osp.opera.software
 desktop-qualityclient-sub.osp.opera.software
 desktop-sessions-sub.osp.opera.software
-dev.osp.opera.software
 dna.osp.opera.software
 dns.opera.software
 dns-ui.opera.software
@@ -188,7 +186,6 @@ operanews-sub.osp.opera.software
 operators.opera.software
 ops.osp.opera.software
 opx-chef.opera.software
-osp.opera.software
 osp-gw-am3-01.osp.opera.software
 ospops-00-01.osp.opera.software
 ospstatus-test.osp.opera.software
@@ -290,13 +287,9 @@ trial-ci-cdn.osp.opera.software
 usernames.opera.software
 vault.opera.software
 vc.opera.software
-vpn.opera.software
 wd-inv.opera.software
 wg.opera.software
 wiki.opera.software
-www.opera.software
-www.buildbot-dev.opera.software
-www.dns.opera.software
 xenos.opera.software
 y.opera.software
 yopass.opera.software

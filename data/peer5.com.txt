@@ -7,7 +7,6 @@ sdk.sdk.peer5.com
 t.peer5.com
 data-new.peer5.com
 st-ws.peer5.com
-www.peer5.com
 blog.dir.peer5.com
 gateway.peer5.com
 internal-kibana.peer5.com
@@ -17,9 +16,8 @@ demo.peer5.com
 control.dir.peer5.com
 wowza.peer5.com
 wowza-azure.cdn.peer5.com
-www.api.peer5.com
-test-custom-hostname.peer5.com
 api.peer5.com
+test-custom-hostname.peer5.com
 peer5-ws-001.dir.peer5.com
 kibana.peer5.com
 goto.peer5.com
@@ -62,6 +60,5 @@ ci2.peer5.com
 globe.dir.peer5.com
 partners.peer5.com
 production.ibm.peer5.com
-www.t.peer5.com
 cdn.peer5.com
 kaltura2013.peer5.com

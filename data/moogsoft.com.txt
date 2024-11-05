@@ -39,7 +39,7 @@ aon-old.moogsoft.com
 sales.moogsoft.com
 gitlab-test.moogsoft.com
 minky.moogsoft.com
-www.community.moogsoft.com
+community.moogsoft.com
 compucom-master.moogsoft.com
 primary-production.moogsoft.com
 dev2.moogsoft.com
@@ -101,9 +101,8 @@ champagne.moogsoft.com
 integrations-downloads.moogsoft.com
 geico-primary.moogsoft.com
 irc.moogsoft.com
-www.raywebb.labs.moogsoft.com
+raywebb.labs.moogsoft.com
 consumergroup-singtel.moogsoft.com
-www.university.moogsoft.com
 keybank-rmq.moogsoft.com
 enterprise.moogsoft.com
 discover-rmq.moogsoft.com
@@ -123,7 +122,6 @@ vpnpoc.moogsoft.com
 stanford-rmq.moogsoft.com
 adds.moogsoft.com
 discover-secondary.moogsoft.com
-www.moogsoft.com
 apidev.docs.moogsoft.com
 sutterhealth.moogsoft.com
 kier-secondary.moogsoft.com
@@ -198,10 +196,8 @@ ftp.moogsoft.com
 portal.moogsoft.com
 mcafee.moogsoft.com
 manulife.moogsoft.com
-www.paul.moogsoft.com
 aon-secondary.moogsoft.com
 sensu.moogsoft.com
-community.moogsoft.com
 viacom.moogsoft.com
 tl.moogsoft.com
 jira-test.moogsoft.com
@@ -241,12 +237,9 @@ techblog.moogsoft.com
 docs.moogsoft.com
 john-austin-secondary13508-ha.labs.moogsoft.com
 thirstyarm.moogsoft.com
-raywebb.labs.moogsoft.com
 _dmarc.moogsoft.com
-www.servicedesk.moogsoft.com
 yahootest3.moogsoft.com
 scotch.moogsoft.com
-www.security.moogsoft.com
 sonar.moogsoft.com
 doug-bothwell18964-impl.labs.moogsoft.com
 marketplace.moogsoft.com
@@ -264,4 +257,3 @@ calix.moogsoft.com
 texashealth.moogsoft.com
 lh-dv.moogsoft.com
 promdemo.datalab.moogsoft.com
-*.moogsoft.com

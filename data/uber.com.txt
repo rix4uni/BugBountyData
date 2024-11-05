@@ -1,5 +1,4 @@
-*.uber.com
-*.cfe.uber.com
+cfe.uber.com
 1.dev.uber.com
 10ccc.mx.dev.uber.com
 10yuantiyanjinshishicai.mx.dev.uber.com
@@ -1375,7 +1374,6 @@ cerebro-testing.dev.uber.com
 cerebro.dev.uber.com
 cerner-staging.uber.com
 cf5d.mx.dev.uber.com
-cfe.uber.com
 cfe-geo1-sjc1.uber.com
 cfe1-sjc.cn.gcp.uber.com
 cfe7.mx.dev.uber.com
@@ -9364,15 +9362,8 @@ wuxian-dev1.dev.uber.com
 wuxian.dev.uber.com
 wuxingyule.mx.dev.uber.com
 wvec.mx.dev.uber.com
-www.uber.com
 www-engima.yuanlu1.dev.uber.com
 www-staging.uber.com
-www.amex.production.tokenizer.uber.com
-www.amex.sandbox.tokenizer.uber.com
-www.bizsys.uber.com
-www.blog.uber.com
-www.cpe.uber.com
-www.restauranthelp.uber.com
 www6ccccccc.mx.dev.uber.com
 wwwdafayulechengcom.mx.dev.uber.com
 wwwprod.mx.dev.uber.com

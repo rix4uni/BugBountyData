@@ -1,6 +1,5 @@
 api-my.thecollective.com
 my.thecollective.com
-www.thecollective.com
 reservations.thecollective.com
 live.thecollective.com
 book.thecollective.com
@@ -17,7 +16,6 @@ api-dash.thecollective.com
 connective.thecollective.com
 collector.thecollective.com
 colab-staging-fe.thecollective.com
-www.it.thecollective.com
 colab.thecollective.com
 booking.thecollective.com
 staging.thecollective.com
@@ -30,13 +28,6 @@ mail.thecollective.com
 api-oldoak.thecollective.com
 api-oldoak-collective.thecollective.com
 oldoak-collective.thecollective.com
-*.thecollective.com
-*.collector.thecollective.com
-*.island.thecollective.com
-*.staging.thecollective.com
-*.prod.thecollective.com
-*.perf.thecollective.com
-*.dev.thecollective.com
 beta.thecollective.com
 wsutto.thecollective.com
 api.thecollective.com

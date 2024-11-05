@@ -1,4 +1,4 @@
-*.internal.prohosting24.de
+internal.prohosting24.de
 docker2.prohosting24.de
 socket.prohosting24.de
 ph24-14.internal.prohosting24.de
@@ -9,14 +9,12 @@ support.prohosting24.de
 smokeping.prohosting24.de
 cdn.prohosting24.de
 backend.prohosting24.de
-www.prohosting24.de
 lang.prohosting24.de
 powerdns.prohosting24.de
 nextcloud.prohosting24.de
 staging.prohosting24.de
 ph24-13.internal.prohosting24.de
 mail-rapid.prohosting24.de
-internal.prohosting24.de
 ph24-12.internal.prohosting24.de
 fw2.prohosting24.de
 chat.prohosting24.de
@@ -40,7 +38,6 @@ intern.api.beta.prohosting24.de
 cdn.beta.prohosting24.de
 docs.api.prohosting24.de
 git.internal.prohosting24.de
-www.blog.prohosting24.de
 blog.prohosting24.de
 ipv6.prohosting24.de
 whoami.prohosting24.de

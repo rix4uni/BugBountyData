@@ -10,7 +10,6 @@ bdx.bahag.com
 portal-api.bahag.com
 portal.bahag.com
 go.bahag.com
-www.bahag.com
 insights.bahag.com
 bdc.bahag.com
 auth-qs.bahag.com
@@ -103,7 +102,7 @@ somedomain-202206281842.bahag.com
 test24.bahag.com
 somedomain-tmp1623691767.bahag.com
 backend-2-ams-qs.bahag.com
-www.hwk.bahag.com
+hwk.bahag.com
 8-scd-qs.bahag.com
 somedomain-tmp1623687337.bahag.com
 2-paw-prod.bahag.com
@@ -125,7 +124,6 @@ somedomain-202206281732.bahag.com
 somedomain-tmp1623689321.bahag.com
 test10.bahag.com
 receptor-monitoring-intern-dev.bahag.com
-www.tms.bahag.com
 test11.bahag.com
 somedomain-1656353698.bahag.com
 somedomain-tmp1623691820.bahag.com
@@ -144,7 +142,6 @@ qscrm01.bahag.com
 somedomein-1656347891.bahag.com
 bahag-ui-dev.bahag.com
 test-bdc-prod.bahag.com
-www.nt.bahag.com
 somedomain-202206281552-san1.bahag.com
 backend-1-ams-prod.bahag.com
 devop-tools-dev.bahag.com
@@ -155,7 +152,7 @@ ca.bahag.com
 somedomain-202206281723-san1.bahag.com
 test16.bahag.com
 test-3.bahag.com
-www.1-paw-prod.bahag.com
+1-paw-prod.bahag.com
 somedomain-202206281727.bahag.com
 bahagcom-3-slave-jenkins.bahag.com
 somedomain-202206281704-san1.bahag.com
@@ -164,7 +161,7 @@ supplier-portal-dev.bahag.com
 1-portal-domain-dev.bahag.com
 1-www-euronet-prod.bahag.com
 somedomain-202206281723.bahag.com
-www.vaccess.bahag.com
+vaccess.bahag.com
 somedomain-tmp1623691251.bahag.com
 shop-ams.bahag.com
 monitoring-dev.bahag.com

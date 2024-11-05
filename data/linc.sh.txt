@@ -4,7 +4,6 @@ renderer.linc.sh
 app.linc.sh
 graphql.linc.sh
 nextjs8-demo.linc.sh
-www.linc.sh
 subserver.linc.sh
 demo.linc.sh
 static-assets.linc.sh

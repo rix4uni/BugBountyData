@@ -1,4 +1,3 @@
-*.nextcloud.com
 accenture-spain.ltd2.nextcloud.com
 accountwarning.ltd.nextcloud.com
 aio-testing.nextcloud.com
@@ -235,7 +234,6 @@ videoluctv.ltd2.nextcloud.com
 vpn.nextcloud.com
 web2.nextcloud.com
 whiteboard.tech-preview.nextcloud.com
-www.nextcloud.com
 www2.nextcloud.com
 xmpp.nextcloud.com
 zitsh.nextcloud.com
@@ -794,7 +792,7 @@ aap.ltd.nextcloud.com
 desktopclient.nextcloud.com
 discourse.nextcloud.com
 _dmarc.nextcloud.com
-www.delectatech.nextcloud.com
+delectatech.nextcloud.com
 blabla.nextcloud.com
 dc01customerupdates.nextcloud.com
 00742b3530.nextcloud.com
@@ -817,7 +815,7 @@ dynamic4.nextcloud.com
 conarc.ltd2.nextcloud.com
 napriklad.nextcloud.com
 stg-sbg-mm-vbas.ltd2.nextcloud.com
-www.etsupdates.nextcloud.com
+etsupdates.nextcloud.com
 ltd.nextcloud.com
 211newsletter.nextcloud.com
 101-62.nextcloud.com

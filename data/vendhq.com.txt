@@ -17,9 +17,6 @@ supersecret123.service.us-west-2.aws.vendhq.com
 support.vendhq.com
 track.api.vendhq.com
 webhooks.api.vendhq.com
-www.blog.vendhq.com
-www.support.vendhq.com
-www.vendhq.com
 amber.sys.vendhq.com
 api-gateway-private-external.us-west-2.aws.vendhq.com
 api-gateway-public-external.us-west-2.aws.vendhq.com
@@ -39,4 +36,3 @@ sys.vendhq.com
 test.vendhq.com
 us-west-2.aws.vendhq.com
 vendteam.vendhq.com
-www.monoliph-corporate.feature.vendhq.com

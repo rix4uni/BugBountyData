@@ -9,7 +9,7 @@ autodiscover.ad.fuzebox.com
 njecorpproxy02.fuzebox.com
 sjocorpdevtools02.fuzebox.com
 yum.fuzebox.com
-www.refer.fuzebox.com
+refer.fuzebox.com
 jira.fuzebox.com
 njecorptools01.fuzebox.com
 sjocorpmx02.fuzebox.com
@@ -31,7 +31,6 @@ wiki.fuzebox.com
 go.fuzebox.com
 git.fuzebox.com
 njecorpproxy01.fuzebox.com
-refer.fuzebox.com
 sjowebvpn.fuzebox.com
 stage.plone.fuzebox.com
 ns4.fuzebox.com
@@ -44,7 +43,6 @@ ns1.fuzebox.com
 rnoprodns02.fuzebox.com
 w.fuzebox.com
 info.fuzebox.com
-www.fuzebox.com
 njecorpmx01.fuzebox.com
 sjocorpproxy02.fuzebox.com
 edit.fuzebox.com

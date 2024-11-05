@@ -1,4 +1,3 @@
-*.simplereport.gov
 api-demo.simplereport.gov
 api-dev.simplereport.gov
 api-pentest.simplereport.gov
@@ -11,7 +10,6 @@ dev.simplereport.gov
 stg.simplereport.gov
 test.simplereport.gov
 training.simplereport.gov
-www.simplereport.gov
 dev7.simplereport.gov
 origin-dev.simplereport.gov
 pentest.simplereport.gov

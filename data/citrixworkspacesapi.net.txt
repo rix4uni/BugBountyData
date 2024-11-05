@@ -389,7 +389,6 @@ mockresourceprovider-eastus-release-b.citrixworkspacesapi.net
 releasesproxy-ring1-us.citrixworkspacesapi.net
 releasesproxy-ring0-us.citrixworkspacesapi.net
 storefrontconfiguration-australiaeast-release-b.citrixworkspacesapi.net
-www.citrixworkspacesapi.net
 licensing-eu-test.citrixworkspacesapi.net
 poolprodaps-poolmanager-ap-s-4.citrixworkspacesapi.net
 receiverdemo-eastus-release-b.citrixworkspacesapi.net
@@ -1164,7 +1163,6 @@ healthdataalertstore-direct-westeurope-release-a.citrixworkspacesapi.net
 healthdatastore-westeurope-release-a.citrixworkspacesapi.net
 healthdataalertstore-australiaeast-release-b.citrixworkspacesapi.net
 healthdatastore-direct-eastus-release-b.citrixworkspacesapi.net
-*.citrixworkspacesapi.net
 gsp48-ssl-os32.dataprotection.citrixworkspacesapi.net
 rotabanner.citrixworkspacesapi.net
 squeezemeflat.westeurope-a.citrixworkspacesapi.net

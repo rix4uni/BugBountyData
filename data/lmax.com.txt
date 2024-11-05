@@ -84,6 +84,5 @@ doh.lmax.com
 dot.lmax.com
 web-order.singapore-professional.lmax.com
 market-data-api.london-professional.lmax.com
-*.lmax.com
 trading.perpetual-demo.lmax.com
 market-data.perpetual-demo.lmax.com

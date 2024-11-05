@@ -14,7 +14,6 @@ blog.fax.plus
 restapi.fax.plus
 geolocation.fax.plus
 vault2.fax.plus
-www.fax.plus
 zorro.fax.plus
 beta.msoffice.fax.plus
 apidoc.fax.plus
@@ -27,8 +26,6 @@ msoffice.fax.plus
 staging.fax.plus
 ws.fax.plus
 accounts.fax.plus
-*.fax.plus
-*.mail.fax.plus
 assets-website.fax.plus
 lb.fax.plus
 storage.fax.plus

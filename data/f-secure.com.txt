@@ -1735,7 +1735,6 @@ classic.radar.f-secure.com
 data.btstaging.ob.f-secure.com
 corp-reg.f-secure.com
 fsmsg0017.sp.f-secure.com
-www.f-secure.com
 clp-alpha-us-gw1.nc.f-secure.com
 clp-st-gw-fi.nc.f-secure.com
 clp-st-gw-nl.nc.f-secure.com
@@ -1746,7 +1745,7 @@ fs-162-246-165-029.f-secure.com
 fs-46-228-133-255.f-secure.com
 fs-46-228-136-193.f-secure.com
 fs-46-228-133-032.f-secure.com
-www.uag1.fi.f-secure.com
+uag1.fi.f-secure.com
 fs-162-246-166-019.f-secure.com
 fs-46-228-128-230.f-secure.com
 fs-162-246-165-022.f-secure.com
@@ -1790,7 +1789,7 @@ fs-162-246-164-202.f-secure.com
 fs-193-110-109-219.f-secure.com
 fs-193-110-108-101.f-secure.com
 fs-162-246-167-183.f-secure.com
-www.noms2.sp.f-secure.com
+noms2.sp.f-secure.com
 fs-162-246-167-240.f-secure.com
 fs-46-228-137-030.f-secure.com
 fs-162-246-164-006.f-secure.com
@@ -1829,8 +1828,6 @@ fs-185-173-211-211.f-secure.com
 fs-65-200-212-058.f-secure.com
 fs-162-246-167-249.f-secure.com
 fs-46-228-136-206.f-secure.com
-www.offer.f-secure.com
-www.vip.f-secure.com
 www3.company.f-secure.com
 company.f-secure.com
 www2.company.f-secure.com

@@ -80,5 +80,3 @@ alertmanager.qa.monitoring.avatao.com
 prometheus.qa.management.avatao.com
 alertmanager.qa.management.avatao.com
 auth.avatao.com
-*.avatao.com
-www.avatao.com

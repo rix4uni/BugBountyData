@@ -38,7 +38,6 @@ v4-v6-ea119-su121-na610.wagbridge.gaode.com
 api.gaode.com
 ea119-na610.wagbridge.gaode.com
 wagbridge.gaode.com
-www.gaode.com
 na610-na620.wagbridge.gaode.com
 su18-na62.wagbridge.gaode.com
 eu13.wagbridge.gaode.com
@@ -66,13 +65,6 @@ activity.gaode.com
 ditu.gaode.com
 lbs.gaode.com
 maps.gaode.com
-*.gaode.com
-*.api.gaode.com
-*.ces.gaode.com
-*.config.gaode.com
-*.exe.gaode.com
-*.navi.gaode.com
-*.service.gaode.com
 other.gaode.com
 act4.gaode.com
 pre-video-online.gaode.com

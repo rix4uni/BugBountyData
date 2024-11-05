@@ -4,7 +4,7 @@ mail.tracking.mtdv.nl
 scripts.mtdv.nl
 portal.mtdv.nl
 rancher.mtdv.nl
-www.client.mtdv.nl
+client.mtdv.nl
 213-239-201-202.static-ipv4.mtdv.nl
 dashboard.mtdv.nl
 vinyl.mtdv.nl
@@ -25,7 +25,6 @@ homeassistant.app.mtdv.nl
 dynamic.mtdv.nl
 auth.mtdv.nl
 admin.tracking.mtdv.nl
-www.admin.mtdv.nl
 mail.mtdv.nl
 pve.mtdv.nl
 gaming.mtdv.nl
@@ -39,7 +38,7 @@ admin.dynamic.mtdv.nl
 ipa.mtdv.nl
 portainer.docker1-de-fst.hosts.mtdv.nl
 gaming1-de-fst.hosts.mtdv.nl
-www.cloud.mtdv.nl
+cloud.mtdv.nl
 xbs.mtdv.nl
 autoconfig.tracking.mtdv.nl
 autodiscover.tracking.mtdv.nl
@@ -58,7 +57,7 @@ guacamole.mtdv.nl
 captain.app.mtdv.nl
 docker2-de-fst.hosts.mtdv.nl
 mail-testing.mtdv.nl
-www.ldap.mtdv.nl
+ldap.mtdv.nl
 admin.ldap.mtdv.nl
 distribution.mtdv.nl
 pterodactyl.mtdv.nl
@@ -68,8 +67,6 @@ host-01.de.cntb.gaming.mtdv.nl
 gaming-test.mtdv.nl
 panel.mtdv.nl
 webmail.mtdv.nl
-www.dynamic.mtdv.nl
-www.mtdv.nl
 nc.mtdv.nl
 hass.mtdv.nl
 torrent.app.mtdv.nl
@@ -77,13 +74,11 @@ pma-nas.mtdv.nl
 omv.mtdv.nl
 webmail.dynamic.mtdv.nl
 web1-de-fst.hosts.mtdv.nl
-www.tracking.mtdv.nl
 pihole.mtdv.nl
 privnet.mtdv.nl
 webmail.tracking.mtdv.nl
 invoice.mtdv.nl
 proxies.docker1-de-fst.hosts.mtdv.nl
-ldap.mtdv.nl
 hass.app.mtdv.nl
 host-01-backups.nl.spnbrk.gaming.mtdv.nl
 guacamole.app.mtdv.nl
@@ -98,13 +93,11 @@ fuego.mtdv.nl
 pf2-de-fst.hosts.mtdv.nl
 media.app.mtdv.nl
 pf1-de-fst.hosts.mtdv.nl
-client.mtdv.nl
 213-239-201-201.static-ipv4.mtdv.nl
 lists.mtdv.nl
 heimdall.mtdv.nl
 autodiscover.cloud.mtdv.nl
 gitlab.app.mtdv.nl
-cloud.mtdv.nl
 kimai.portal.mtdv.nl
 autoconfig.cloud.mtdv.nl
 ns1.mtdv.nl

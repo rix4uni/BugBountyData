@@ -1,7 +1,5 @@
 ace.iata.org
 developer.iata.org
-*.iata.org
-www.iata.org
 larverify-dev.iata.org
 larverify-test.iata.org
 guides.developer.iata.org
@@ -22,7 +20,7 @@ epic.iata.org
 forum.airtechzone.iata.org
 travelcentre.iata.org
 casslink-test.iata.org
-www.ndc-blog.iata.org
+ndc-blog.iata.org
 ndcbiztravel.iata.org
 sfb-access-la.iata.org
 sfb-webconf-si.iata.org
@@ -56,7 +54,7 @@ o365.iata.org
 t4.staging.timatic.iata.org
 sfb-webconf-ny.iata.org
 claritydashgv02.iata.org
-www.faa-liaison.iata.org
+faa-liaison.iata.org
 sso-sp.iata.org
 www2.learn.dataacademy.iata.org
 image.updates.iata.org
@@ -72,7 +70,7 @@ easypay3.iata.org
 portal.iata.org
 jigsaw.iata.org
 auth.newbsplink.iata.org
-www.planestories.iata.org
+planestories.iata.org
 api-integration-turb-aware.iata.org
 safr-test.iata.org
 sonar.ci.iata-pay.iata.org
@@ -93,7 +91,7 @@ corp-extranet.iata.org
 meet.wipext.iata.org
 ibspstest-sso.iata.org
 bsplinktest.iata.org
-www.cargois.iata.org
+cargois.iata.org
 sfb-web-gv.iata.org
 spapps.iata.org
 ftp.iata.org

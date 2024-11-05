@@ -17,12 +17,11 @@ redaksia.kriper.host.al
 linux28.host.al
 autodiscover.host.al
 ns11.host.al
-www.h03.host.al
+h03.host.al
 h04.host.al
 gjnf.host.al
 autoconfig.host.al
 linuxzone1.host.al
-www.host.al
 h04-a.host.al
 h03-b.host.al
 vizionplus.host.al
@@ -40,4 +39,3 @@ enea.host.al
 h06.host.al
 update1.your.domain.contact.information.host.al
 julia.host.al
-h03.host.al

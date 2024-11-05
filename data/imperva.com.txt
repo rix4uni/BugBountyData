@@ -208,15 +208,10 @@ www-il1.imperva.com
 jira-temp.imperva.com
 adfs.apps.imperva.com
 www7.imperva.com
-www.imperva.com
-*.b.c.d.imperva.com
+b.c.d.imperva.com
 1708439554.imperva.com
 api-security-engine-receiver.us.service.imperva.com
 lumberjack-api.service.imperva.com
-*.imperva.com
-*.service.imperva.com
 supportportalsandbox.imperva.com
-*.secure.imperva.com
-*.jsonar.imperva.com
-*.cn.imperva.com
+jsonar.imperva.com
 checkchd.service.imperva.com

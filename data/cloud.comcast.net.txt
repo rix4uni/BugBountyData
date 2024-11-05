@@ -22,7 +22,7 @@ ivod-config.g2.app.cloud.comcast.net
 exd.b1.app.cloud.comcast.net
 ttu-prod-app.g.app.cloud.comcast.net
 cafems-config-server-prod.g.app.cloud.comcast.net
-www.config-service-stg.g4.app.cloud.comcast.net
+config-service-stg.g4.app.cloud.comcast.net
 fzm-partner-arrange-prod.g.app.cloud.comcast.net
 experiencedesign.b2.app.cloud.comcast.net
 xhactivationportal.g.app.cloud.comcast.net
@@ -81,8 +81,6 @@ matador-prod.g1.app.cloud.comcast.net
 schedule-ivod.g3.app.cloud.comcast.net
 info-arch-config-prod.g.app.cloud.comcast.net
 eol-vacation.b1.app.cloud.comcast.net
-config-service-stg.g4.app.cloud.comcast.net
-www.config-service-stg.g5.app.cloud.comcast.net
 supplychain-gateway-prod.apps.cloud.comcast.net
 eis-stg.b1.app.cloud.comcast.net
 eol-wg-ims.b1.app.cloud.comcast.net

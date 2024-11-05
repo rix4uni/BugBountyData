@@ -1,6 +1,6 @@
-*.hyperdrive.lucasfilm.com
-*.pages.lucasfilm.com
-*.store.lucasfilm.com
+hyperdrive.lucasfilm.com
+pages.lucasfilm.com
+store.lucasfilm.com
 a.api.swoop.is-aws-atris.lucasfilm.com
 a.api.swoop.is-aws-atris-qa.lucasfilm.com
 a.mongo.swoop.is-aws-atris.lucasfilm.com
@@ -180,7 +180,6 @@ hub.lucasfilm.com
 hub2.lucasfilm.com
 huddle.lucasfilm.com
 huddle-qa.lucasfilm.com
-hyperdrive.lucasfilm.com
 hyperdrive-external.lucasfilm.com
 hyperdrive-qa.lucasfilm.com
 hyperdrive.is-aws-sandbox.lucasfilm.com
@@ -474,7 +473,6 @@ outs.lucasfilm.com
 outs-qa.lucasfilm.com
 ovouch.lucasfilm.com
 owa2010-ptp.lucasfilm.com
-pages.lucasfilm.com
 partner.lucasfilm.com
 partner-lfx.lucasfilm.com
 partner-lfx-ptp.lucasfilm.com
@@ -744,7 +742,6 @@ stg.lucasfilm.com
 stgsg.lucasfilm.com
 stgsing.lucasfilm.com
 stgsingapore.lucasfilm.com
-store.lucasfilm.com
 store-qa.lucasfilm.com
 store.atris.lucasfilm.com
 store.atris-qa.lucasfilm.com
@@ -856,17 +853,6 @@ wp-grandpa.lucasfilm.com
 wp-hparker.lucasfilm.com
 wpm.lucasfilm.com
 wps.lucasfilm.com
-www.lucasfilm.com
-www.characterappearances.lucasfilm.com
-www.confluence.lucasfilm.com
-www.fm-pwood-01v.lucasfilm.com
-www.jobs.lucasfilm.com
-www.lobot.lucasfilm.com
-www.mounds.lucasfilm.com
-www.outerrim.lucasfilm.com
-www.outlook.lucasfilm.com
-www.pe-gitlab-sf-01v.lucasfilm.com
-www.workplaceservices.lucasfilm.com
 xfermgr.lucasfilm.com
 xfermgr.ilm-sf.lucasfilm.com
 xfermgr1.ilm-sf.lucasfilm.com

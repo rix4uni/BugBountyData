@@ -699,13 +699,11 @@ integraconnect.getdbt.com
 semantic-layer.cloud.roche.getdbt.com
 cloud.macquarie.getdbt.com
 rev-words-temp-fef20e8-pr-us2-c1-111.azure-dev.cloud.getdbt.com
-www.getdbt.com
 semantic-layer.cloud.ftb.getdbt.com
 metadata.wandrews.singletenantazure.getdbt.com
 rev-words-temp-cd9d4ef-pr-us2-c1-111.azure-dev.cloud.getdbt.com
 ssmithtest.singletenant.getdbt.com
 rev-words-temp-35898be-pr-us2-c1-111.azure-dev.cloud.getdbt.com
 semantic-layer.cloud.pacificlife.getdbt.com
-*.stage.usaa.getdbt.com
-*.usaa.getdbt.com
-*.int.stage.usaa.getdbt.com
+stage.usaa.getdbt.com
+int.stage.usaa.getdbt.com

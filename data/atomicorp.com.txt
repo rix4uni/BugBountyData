@@ -25,8 +25,6 @@ ac3.atomicorp.com
 c-s-34129-1.saas.atomicorp.com
 gitlab.external.atomicorp.com
 ns7.atomicorp.com
-www.www2.atomicorp.com
-www.www6.atomicorp.com
 w.atomicorp.com
 ns.wiki.atomicorp.com
 ns2.www2.atomicorp.com
@@ -38,7 +36,6 @@ ns4.atomicorp.com
 app3.atomicorp.com
 www1.atomicorp.com
 saas-192-126-80-14.atomicorp.com
-www.atomicorp.com
 db1.atomicorp.com
 external1.atomicorp.com
 ns1.www2.atomicorp.com
@@ -50,12 +47,11 @@ lb2.atomicorp.com
 ns5.atomicorp.com
 iprange2.atomicorp.com
 lb1.atomicorp.com
-www.www3.atomicorp.com
+www3.atomicorp.com
 w6.atomicorp.com
 lm.atomicorp.com
 mail.updates.atomicorp.com
 ns2.atomicorp.com
-www.www5.atomicorp.com
 www4.atomicorp.com
 waf.atomicorp.com
 saas-192-126-80-11.atomicorp.com
@@ -65,12 +61,10 @@ mail.docs-dev.atomicorp.com
 mail.forums.atomicorp.com
 updates.atomicorp.com
 mail.wiki.atomicorp.com
-www.www4.atomicorp.com
 2.atomicorp.com
 dev.atomicorp.com
 ns.atomicorp.com
 ns.docs.atomicorp.com
 ns3.atomicorp.com
 ns6.atomicorp.com
-www3.atomicorp.com
 www0.atomicorp.com

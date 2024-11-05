@@ -1,4 +1,3 @@
-www.drexel.edu
 cti-xtwscc006.irttest.drexel.edu
 cti-xdwmsc001.irttest.drexel.edu
 ilab4.physics.drexel.edu
@@ -13,7 +12,6 @@ nurack1.physics.drexel.edu
 bioimage.coe.drexel.edu
 git-bioimage.coe.drexel.edu
 keysystems.irt.drexel.edu
-www.summerhousing.drexel.edu
 summerhousing.drexel.edu
 blackzebra.irt.drexel.edu
 enrichvalidate.irttest.drexel.edu
@@ -21,12 +19,11 @@ enrichvalidate.irt.drexel.edu
 cms.cci.drexel.edu
 macmgmt.irt.drexel.edu
 image.email.online.drexel.edu
-www.community-impact.drexel.edu
+community-impact.drexel.edu
 ezproxy2.library.drexel.edu
 stage.online.drexel.edu
 pan.noc.drexel.edu
 archsoc.westphal.drexel.edu
-community-impact.drexel.edu
 kplsupeye01.irt.drexel.edu
 intrapoll-24.noc.drexel.edu
 ktlscloudgw01.irttest.drexel.edu
@@ -34,7 +31,7 @@ kplspring05.irt.drexel.edu
 ktlspring10.irttest.drexel.edu
 kplws02.irt.drexel.edu
 charmatz.westphal.drexel.edu
-www.cci.drexel.edu
+cci.drexel.edu
 cyberpanel.westphal.drexel.edu
 offcampushousing.drexel.edu
 accommodate.drexel.edu
@@ -88,7 +85,6 @@ ga-int.irt.drexel.edu
 ga-int.irttest.drexel.edu
 d1mapi.irttest.drexel.edu
 servicestatus.drexel.edu
-www.westphal.drexel.edu
 westphal.drexel.edu
 rack11.cs.drexel.edu
 gitlab.irttest.drexel.edu
@@ -97,7 +93,7 @@ printers.irt.drexel.edu
 research.westphal.drexel.edu
 maps1.irt.drexel.edu
 alumni.drexel.edu
-www.lebow.drexel.edu
+lebow.drexel.edu
 api.lebow.drexel.edu
 intranet.lebow.drexel.edu
 secure.lebow.drexel.edu
@@ -124,7 +120,7 @@ bssintegrationws.irt.drexel.edu
 matchingservice.irttest.drexel.edu
 cv-node1.cci.drexel.edu
 nts.drexel.edu
-www.twentyfour.drexel.edu
+twentyfour.drexel.edu
 workflow.irttest.drexel.edu
 faidws.irttest.drexel.edu
 esm-jenkins.irt.drexel.edu
@@ -137,7 +133,7 @@ learn9.irttest.drexel.edu
 catalog.drexel.edu
 neumann-learn.irttest.drexel.edu
 medaille-learn.irttest.drexel.edu
-www.techserv.drexel.edu
+techserv.drexel.edu
 banner-secure.irttest.drexel.edu
 banner.irttest.drexel.edu
 eprocure.irttest.drexel.edu
@@ -205,7 +201,6 @@ wifi-util.noc.drexel.edu
 vpn.drexel.edu
 viz.drexel.edu
 com-xpwsim009.irt.drexel.edu
-cci.drexel.edu
 ktlscloudadm02.irttest.drexel.edu
 ktlscloudadm01.irttest.drexel.edu
 ktlscloudgw02.irttest.drexel.edu
@@ -241,7 +236,7 @@ cti-upwmsc001.irt.drexel.edu
 candidquestion.drexel.edu
 innoserv.library.drexel.edu
 baransearch.urcf.drexel.edu
-www.earlemacklaw.drexel.edu
+earlemacklaw.drexel.edu
 hbcumobility.cci.drexel.edu
 ask.drexel.edu
 cti-xpwexch001.drexel.edu

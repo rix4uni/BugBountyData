@@ -42,9 +42,7 @@ unofficial-builds.nodejs.org
 undici.nodejs.org
 2www.nodejs.org
 4www.nodejs.org
-aww.nodejs.org
 grafana.nodejs.org
-www.nodejs.org
 camp.nodejs.org
 logs.nodejs.org
 blogblog.nodejs.org
@@ -64,12 +62,10 @@ registry.nodejs.org
 buildbot.nodejs.org
 mail.nodejs.org
 8www.nodejs.org
-www.blog.nodejs.org
-www.buildbot.nodejs.org
 ci.nodejs.org
 new.nodejs.org
 build.nodejs.org
-www.cn.nodejs.org
+cn.nodejs.org
 store.nodejs.org
 11www.nodejs.org
 blogs.nodejs.org
@@ -79,4 +75,3 @@ calendar.nodejs.org
 rs2w3.faith.nodejs.org
 conduct.nodejs.org
 mobile.nodejs.org
-cn.nodejs.org

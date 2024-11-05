@@ -9,11 +9,11 @@ npol112.ol.ni.integration.nora.bevuta.com
 osmnominatim.production.muc.rz.bevuta.com
 osmtileserver2.staging.muc.rz.bevuta.com
 pol.d.nw.accept-bev.ops-staging.nora.bevuta.com
-www.staging.bevuta.com
+staging.bevuta.com
 booking.bevuta.com
 lst.nora.bevuta.com
 pol110.ol.ni.accept-bev.ops-staging.nora.bevuta.com
-www.radbonus.bevuta.com
+radbonus.bevuta.com
 matomo.production.mdt.rz.bevuta.com
 matrix.bevuta.com
 server2.backend-dev.nora.bevuta.com
@@ -145,7 +145,7 @@ kaletha.crm.bevuta.com
 training.nora.bevuta.com
 mattermost.staging.bre.rz.bevuta.com
 sentry.aux.mdt.rz.bevuta.com
-www.development.nora.bevuta.com
+development.nora.bevuta.com
 limesurvey.staging.mdt.rz.bevuta.com
 umlnew.bevuta.com
 pol110.ol.ni.accept-bev.nora.bevuta.com
@@ -159,7 +159,7 @@ npol112.ac.nw.training.nora.bevuta.com
 npol112.ac.nw.next-guk.nora.bevuta.com
 npol112.b.be.lst-test.nora.bevuta.com
 pol110.s.bw.lst-test.nora.bevuta.com
-www.staging.nora.bevuta.com
+staging.nora.bevuta.com
 zammad.staging.bre.rz.bevuta.com
 moodle.production.muc.rz.bevuta.com
 osmtileserver.production.mdt.rz.bevuta.com
@@ -172,7 +172,6 @@ admin.mail.staging.bevuta.com
 ms02.staging.fluur-nowa.bevuta.com
 deploybot-cms.bevuta.com
 npol.d.nw.lst-test.nora.bevuta.com
-radbonus.bevuta.com
 crm.staging.bevuta.com
 npol.d.nw.next-guk.nora.bevuta.com
 npol112.ol.ni.accept-bev.nora.bevuta.com
@@ -184,7 +183,6 @@ pol.d.nw.accept-guk.salus.bevuta.com
 heinlein.bevuta.com
 ms01.production.fluur-nowa.bevuta.com
 server1.next-guk.nora.bevuta.com
-development.nora.bevuta.com
 npol112.ac.nw.backend-dev.nora.bevuta.com
 pol110.demo.integration.nora.bevuta.com
 redmine-renovation.staging.mdt.rz.bevuta.com
@@ -264,7 +262,7 @@ verne.bevuta.com
 ui.staging.nora.bevuta.com
 limesurvey.production.muc.rz.bevuta.com
 pol110.hgw.mv.lst-test.nora.bevuta.com
-www.nora.bevuta.com
+nora.bevuta.com
 npol112.b.be.integration.ops-staging.nora.bevuta.com
 npol112.demo.next-guk.nora.bevuta.com
 npol112.k.nw.accept-bev.nora.bevuta.com
@@ -398,7 +396,6 @@ pol110.ol.ni.next-guk.nora.bevuta.com
 uml.staging.bevuta.com
 pol110.demo.preview-guk.nora.bevuta.com
 projects-integration.staging.bevuta.com
-staging.bevuta.com
 imhotep.bevuta.com
 npol112.k.nw.lst-test.nora.bevuta.com
 npol112.ol.ni.next-guk.nora.bevuta.com
@@ -406,7 +403,6 @@ pol.d.nw.next-guk.nora.bevuta.com
 pol110.vie.nw.training.nora.bevuta.com
 turn.meet.bevuta.com
 pol110.vie.nw.next-guk.nora.bevuta.com
-www.bevuta.com
 matomo.stage.mdt.rz.bevuta.com
 osmnominatim.production.bre.rz.bevuta.com
 pol110.b.be.accept-bev.nora.bevuta.com

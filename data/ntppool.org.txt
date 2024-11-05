@@ -1,6 +1,4 @@
-www.ntppool.org
 mapper.ntppool.org
-*.mapper.ntppool.org
 community.ntppool.org
 manage.ntppool.org
 pgdb.harbor.ntppool.org
@@ -11,11 +9,9 @@ sparkpost-db.ntppool.org
 st.ntppool.org
 vault.ntppool.org
 api.ntppool.org
-*.c3i.ntppool.org
 c3i.ntppool.org
-*.c3.ntppool.org
 c3.ntppool.org
-*.ntppool-store.c3.ntppool.org
+ntppool-store.c3.ntppool.org
 go.ntppool.org
 mail.ntppool.org
 status.ntppool.org
@@ -45,7 +41,6 @@ newso.ntppool.org
 geopromlt.ntppool.org
 geoprom.ntppool.org
 grafana.ntppool.org
-*.ntppool.org
 bent.ntppool.org
 loki-logs.ntppool.org
 loki.ntppool.org

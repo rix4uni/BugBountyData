@@ -74,7 +74,7 @@ blackbox.test.area1security.com
 gangplank.production.area1security.com
 kubrick-http.area1security.com
 appweb-sentry.test.area1security.com
-www.blog.area1security.com
+blog.area1security.com
 consumer.snoopy.production.area1security.com
 api.test.area1security.com
 breadsticks.canary.area1security.com
@@ -152,7 +152,6 @@ github.area1security.com
 support.area1security.com
 pages.github.area1security.com
 bounce.marketo.area1security.com
-www.area1security.com
 insights-staging.area1security.com
 deepsticks.canary.area1security.com
 indicators.area1security.com
@@ -164,14 +163,10 @@ prometheus.test.area1security.com
 email-protection.area1security.com
 vpn.area1security.com
 syncconsumer.snoopy.production.area1security.com
-blog.area1security.com
 downlow-eucentral1.production.area1security.com
 portal.test.area1security.com
 breadsticks-awseucentral1.area1security.com
 sentry.test.area1security.com
-*.area1security.com
-*.portal.area1security.com
-*.horizon.area1security.com
 onpremise.area1security.com
 snoopy-agent.area1security.com
 dashboard.area1security.com

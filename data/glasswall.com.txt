@@ -1,6 +1,6 @@
 cdr.glasswall.com
 assets.glasswall.com
-www.mail.glasswall.com
+mail.glasswall.com
 mail5.glasswall.com
 host.glasswall.com
 out.glasswall.com
@@ -66,7 +66,6 @@ srv.glasswall.com
 relay.glasswall.com
 smtp.glasswall.com
 zimbra.glasswall.com
-mail.glasswall.com
 cleanroom.glasswall.com
 staging.glasswall.com
 fileupload.glasswall.com
@@ -81,7 +80,6 @@ accesspoint.glasswall.com
 pop3.glasswall.com
 mx1.glasswall.com
 engineering.glasswall.com
-www.glasswall.com
 mta-sts.glasswall.com
 gpt.glasswall.com
 mx4.glasswall.com

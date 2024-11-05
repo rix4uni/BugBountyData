@@ -46,7 +46,6 @@ msoid.hmxservices.com
 rb3wiilive.hmxservices.com
 rb-dev-admin.hmxservices.com
 rb-qa-admin.hmxservices.com
-www.hmxservices.com
 apps.hmxservices.com
 ps3-blitz-cert.hmxservices.com
 spotlight-live-bi.hmxservices.com
@@ -104,7 +103,6 @@ kzero-admin-qa.hmxservices.com
 mon-influxdb.hmxservices.com
 rb-rivals-admin-prod.hmxservices.com
 prototype-static.hmxservices.com
-*.hmxservices.com
 rbps3dev1.hmxservices.com
 sompmgr.hmxservices.com
 http-proxy.hmxservices.com

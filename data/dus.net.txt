@@ -1,6 +1,5 @@
 secure.dus.net
 my.dus.net
-www.dus.net
 hermes.dus.net
 faxserver.dus.net
 carida.dus.net
@@ -14,7 +13,6 @@ smtp.dus.net
 monitor.dus.net
 custdns0.dus.net
 custdns1.dus.net
-www.secure.dus.net
 stun.dus.net
 mta-sts.dus.net
 server50.dus.net

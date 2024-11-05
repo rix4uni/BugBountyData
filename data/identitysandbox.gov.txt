@@ -6,7 +6,7 @@ sp.mww59.identitysandbox.gov
 app.mww59.identitysandbox.gov
 dashboard.mww59.identitysandbox.gov
 worker.mww59.identitysandbox.gov
-*.pivcac.mww59.identitysandbox.gov
+pivcac.mww59.identitysandbox.gov
 public-reporting-data.mshah.identitysandbox.gov
 public-reporting-data.nibrahim.identitysandbox.gov
 public-reporting-data.jlallen.identitysandbox.gov
@@ -27,8 +27,8 @@ public-reporting-data.pborowicz.identitysandbox.gov
 public-reporting-data.bleachbyte.identitysandbox.gov
 gitlab.identitysandbox.gov
 gitlab.bravo.gitlab.identitysandbox.gov
-*.tstest3.identitysandbox.gov
-*.pivcac.tstest3.identitysandbox.gov
+tstest3.identitysandbox.gov
+pivcac.tstest3.identitysandbox.gov
 sp.bleachbyte.identitysandbox.gov
 app.bleachbyte.identitysandbox.gov
 dashboard.bleachbyte.identitysandbox.gov
@@ -36,4 +36,4 @@ idp.origin.bleachbyte.identitysandbox.gov
 idp.bleachbyte.identitysandbox.gov
 worker.bleachbyte.identitysandbox.gov
 bleachbyte.identitysandbox.gov
-*.pivcac.bleachbyte.identitysandbox.gov
+pivcac.bleachbyte.identitysandbox.gov

@@ -1,5 +1,4 @@
-*.rubygems.org
-*.staging.rubygems.org
+staging.rubygems.org
 api.rubygems.org
 au-m.rubygems.org
 aws-eu-cache01.rubygems.org
@@ -28,7 +27,6 @@ production-origin.rubygems.org
 production.cf.rubygems.org
 production.s3.rubygems.org
 shipit.rubygems.org
-staging.rubygems.org
 staging-origin.rubygems.org
 stats.rubygems.org
 status.rubygems.org
@@ -40,7 +38,6 @@ tokyo-m.rubygems.org
 uptime.rubygems.org
 webauthn-review.rubygems.org
 webauthn-review-origin.rubygems.org
-www.rubygems.org
 fastly.rubygems.org
 index.staging.rubygems.org
 mailer.rubygems.org

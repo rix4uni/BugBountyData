@@ -1,6 +1,5 @@
-*.nominet.org.uk
-*.dns.service.nominet.org.uk
-*.ebero.nominet.org.uk
+dns.service.nominet.org.uk
+ebero.nominet.org.uk
 107.71-246-213.ipp4-196.nominet.org.uk
 133.90-246-213.ippool.namesco.n99.nominet.org.uk
 153.host-213-248-209-155.nominet.org.uk
@@ -114,13 +113,11 @@ dc2nomswcp01-vl413.nominet.org.uk
 dc2nomswcp01-vl417.nominet.org.uk
 dc2nomvcep01.okna.nominet.org.uk
 debian.nominet.org.uk
-dns.service.nominet.org.uk
 dnssec-resolv.nominet.org.uk
 domainavailability.nominet.org.uk
 download.nominet.org.uk
 dragon.nominet.org.uk
 dsc.nominet.org.uk
-ebero.nominet.org.uk
 ec2-feed-server.nominet.org.uk
 emptytummy.nominet.org.uk
 enum-epp.nominet.org.uk
@@ -6908,8 +6905,6 @@ wiki.nominet.org.uk
 wiki1.nominet.org.uk
 win-7-clone.nominet.org.uk
 wintermute.nominet.org.uk
-www.nominet.org.uk
-www.listapi.nominet.org.uk
 zdns-testbed.nominet.org.uk
 auth2.nominet.org.uk
 auth3.nominet.org.uk
@@ -6937,7 +6932,7 @@ testbed-dac.nominet.org.uk
 testjohnh.nominet.org.uk
 timor.nominet.org.uk
 tld.nominet.org.uk
-www.whois.nominet.org.uk
+whois.nominet.org.uk
 monitor.nominet.org.uk
 andrewv.nominet.org.uk
 auction.nominet.org.uk

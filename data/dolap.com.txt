@@ -1,4 +1,3 @@
-*.dolap.com
 api.dolap.com
 api-gateway.dolap.com
 api-ty.dolap.com
@@ -19,8 +18,6 @@ o616.email.dolap.com
 o617.email.dolap.com
 qa-ty-api.dolap.com
 ty-api.dolap.com
-www.dolap.com
-www.cdn.dolap.com
 agreement.dolap.com
 api-qa.dolap.com
 autodiscover.dolap.com

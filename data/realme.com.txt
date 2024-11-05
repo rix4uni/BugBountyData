@@ -1,12 +1,10 @@
-*.realme.com
-*.c.realme.com
-*.partner.realme.com
+c.realme.com
+partner.realme.com
 account.realme.com
 api.realme.com
 api-app.realme.com
 battle-api.realme.com
 buy.realme.com
-c.realme.com
 career.realme.com
 cloud.realme.com
 download.c.realme.com
@@ -24,7 +22,6 @@ mail.realme.com
 oms.realme.com
 oms-api.realme.com
 open.realme.com
-partner.realme.com
 payment.realme.com
 phone-api.realme.com
 pop3.realme.com
@@ -37,9 +34,6 @@ pre-partner.realme.com
 smtp.realme.com
 static.c.realme.com
 www.realme.com
-www.buy.realme.com
-www.event.realme.com
-www.www.realme.com
 c-api.realme.com
 danghuan.realme.com
 event-share.realme.com
@@ -138,7 +132,6 @@ mea-arwww.realme.comwww.realme.comwww.realme.com
 pre-c-api.realme.com
 iot-console.realme.com
 eupre-iot-logser.realme.com
-www.iot-eu-logser.realme.com
 pre-phone-web.realme.com
 inpre-iot-logser.realme.com
 owork09-api-cn.realme.com
@@ -203,7 +196,6 @@ eupre-iot-weight.realme.com
 pre-direct-oversea-promoter-api.realme.com
 iot-cn-user.realme.com
 iot-cn-weight.realme.com
-www.iot-logser.realme.com
 connect.realme.com
 ilwww.realme.com
 pre-partner-app-api.realme.com
@@ -214,7 +206,7 @@ owork05-api-cn.realme.com
 in-phone-service.realme.com
 owork04-api-cn.realme.com
 owork01-api-cn.realme.com
-www.community.realme.com
+community.realme.com
 20.realme.com
 verse.realme.com
 owork02-api-cn.realme.com

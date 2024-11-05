@@ -6,12 +6,8 @@ sanl.footlocker.com.au
 stores.footlocker.com.au
 target.footlocker.com.au
 trk.bc.footlocker.com.au
-www.footlocker.com.au
-www.uat7.origin.footlocker.com.au
-www.dev.api.footlocker.com.au
-www.masterkey.footlocker.com.au
-www.sanl.footlocker.com.au
-www.stage.api.footlocker.com.au
-www.target.footlocker.com.au
-www.test.api.footlocker.com.au
-www.uat.api.footlocker.com.au
+uat7.origin.footlocker.com.au
+dev.api.footlocker.com.au
+stage.api.footlocker.com.au
+test.api.footlocker.com.au
+uat.api.footlocker.com.au

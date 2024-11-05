@@ -10,7 +10,6 @@ stg.accounting.sageone.co.za
 staging.accounting.sageone.co.za
 standardbank.sageone.co.za
 training.payroll.sageone.co.za
-*.training.payroll.sageone.co.za
 telkom.sageone.co.za
 training.accounting.sageone.co.za
 dev.accounting.sageone.co.za
@@ -19,10 +18,8 @@ vox.sageone.co.za
 ignite.sageone.co.za
 mtn.sageone.co.za
 nedbankaccounting.sageone.co.za
-www.sageone.co.za
 help.accounting.sageone.co.za
 nedbankaccounting.accounting.sageone.co.za
-www.businessbooster.vodacom.sageone.co.za
 businessbooster.vodacom.sageone.co.za
 stage.accounting.sageone.co.za
 preproduction.accounting.sageone.co.za
@@ -33,7 +30,6 @@ ke.payroll.sageone.co.za
 api.accounting.sageone.co.za
 api.payroll.sageone.co.za
 conversionpreprod.accounting.sageone.co.za
-www.standardbank.sageone.co.za
 payrollstage.sageone.co.za
 telkombusiness.accounting.sageone.co.za
 mtn.accounting.sageone.co.za
@@ -43,7 +39,6 @@ safaricom.accounting.sageone.co.za
 mweb.accounting.sageone.co.za
 ng.accounting.sageone.co.za
 nigeria.sageone.co.za
-www.accounting.sageone.co.za
 equity.accounting.sageone.co.za
 ke.accounting.sageone.co.za
 thriving.accounting.sageone.co.za
@@ -51,13 +46,11 @@ telkom.accounting.sageone.co.za
 businessbuilder.vodacom.accounting.sageone.co.za
 flintfin.accounting.sageone.co.za
 na.accounting.sageone.co.za
-www.payroll.sageone.co.za
+payroll.sageone.co.za
 kenya.sageone.co.za
 vox.accounting.sageone.co.za
 sagewebstore.accounting.sageone.co.za
 blog.sageone.co.za
 lantic.accounting.sageone.co.za
 reports.payroll.sageone.co.za
-payroll.sageone.co.za
 standardbank.accounting.sageone.co.za
-*.app-dev.payroll.sageone.co.za

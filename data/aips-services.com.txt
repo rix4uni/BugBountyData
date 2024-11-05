@@ -1,4 +1,3 @@
-*.aips-services.com
 a5mlrn7y.development.aips-services.com
 adpinnovation1.backend.aips-services.com
 airweb.dashboard.aips-services.com
@@ -887,7 +886,6 @@ ww01coinbase6py.stag-master-int.aips-services.com
 2031-cdncoinbase3py.aips-services.com
 20110coinbase7py.aips-services.com
 streaming1.aips-services.com
-www.aips-services.com
 tcbc.k8s.aips-services.com
 nldev-v14-polaris-lb-v12.aips-services.com
 cs20-phx.documents.aips-services.com
@@ -899,23 +897,6 @@ ns2.aips-services.com
 ns1.aips-services.com
 ns8.aips-services.com
 ns4.aips-services.com
-www.ww01.10-dev-prometheus.aips-services.com
-www.ww01.stag-prometheus.5.aips-services.com
-www.ww01.17.aips-services.com
-www.ww01.10-ci.aips-services.com
-www.ww01.2031-client.aips-services.com
-www.ww01.jsm.aips-services.com
-www.ww01.10-brand.aips-services.com
-www.ww01.merchant.aips-services.com
-www.ww01.stag-polaris.5.aips-services.com
-www.ww01.jenkins.aips-services.com
-www.ww01.search.aips-services.com
-www.ww01.i.aips-services.com
-www.ww01.10-cms.aips-services.com
-www.ww01.boards.aips-services.com
-www.ww01.10.aips-services.com
-www.ww01.client.aips-services.com
-www.ww01.stag-masterengineering.aips-services.com
 au314-10-dev-v18-grafana.aips-services.com
 10-dev-v11-lbering.aips-services.com
 210-dev-v19-grafana.aips-services.com

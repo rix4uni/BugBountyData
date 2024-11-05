@@ -170,7 +170,6 @@ applications.justgiving.com
 fitness.staging.justgiving.com
 pages.contact.justgiving.com
 profile.justgiving.com
-www.justgiving.com
 donate-edge.staging.justgiving.com
 prompt.justgiving.com
 walkandtalk.justgiving.com
@@ -195,7 +194,6 @@ charities.justgiving.com
 company.justgiving.com
 v3-staging.justgiving.com
 about.dev.justgiving.com
-www.staging.justgiving.com
 discover-api.justgiving.com
 just-ln1-smtp1.justgiving.com
 givingtuesdaynow.justgiving.com
@@ -220,11 +218,10 @@ live.justgiving.com
 runforheroes.justgiving.com
 api-sandbox.justgiving.com
 mail6.justgiving.com
-www.local.justgiving.com
+local.justgiving.com
 dataapi.local.justgiving.com
 test1.justgiving.com
 home.sandbox.justgiving.com
-www.dev.justgiving.com
 funeraldirectors.justgiving.com
 sip.justgiving.com
 eventbrite.justgiving.com

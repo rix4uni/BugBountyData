@@ -138,7 +138,7 @@ jdproposalv.dpn.qa1-api.rewards.deere.com
 advance.qa1-api.rewards.deere.com
 customersearchcert.qa1-api.rewards.deere.com
 zusipn-moli19t-pzen1-ipmi.dpn.qa1-api.rewards.deere.com
-www.tipsnotebook.qa1-api.rewards.deere.com
+tipsnotebook.qa1-api.rewards.deere.com
 mediacooptest.qa1-api.rewards.deere.com
 kbspasv.tal.qa1-api.rewards.deere.com
 infohub-cert.qa1-api.rewards.deere.com
@@ -393,7 +393,7 @@ jdpo-devl.qa1-api.rewards.deere.com
 icinga.isg.qa1-api.rewards.deere.com
 power8v.dpn.qa1-api.rewards.deere.com
 csiridgtwyqav.dpn.qa1-api.rewards.deere.com
-www.jdqtinv.qa1-api.rewards.deere.com
+jdqtinv.qa1-api.rewards.deere.com
 open.dpn.qa1-api.rewards.deere.com
 merchantservicetc.powerplan.qa1-api.rewards.deere.com
 sdstest.qa1-api.rewards.deere.com
@@ -648,7 +648,7 @@ lxifopenorderdevl.qa1-api.rewards.deere.com
 devlapp158.tal.qa1-api.rewards.deere.com
 brandtraining.qa1-api.rewards.deere.com
 zusipn-moliesf-pzen1-service4.qa1-api.rewards.deere.com
-www.r2visitorservices.qa1-api.rewards.deere.com
+r2visitorservices.qa1-api.rewards.deere.com
 zdxisemonitor1.dx.qa1-api.rewards.deere.com
 gen4cc-os.virtd.qa1-api.rewards.deere.com
 adds.qa1-api.rewards.deere.com
@@ -661,8 +661,8 @@ rbacservqa-caas19v.qa1-api.rewards.deere.com
 jdparts.qa1-api.rewards.deere.com
 gltf-qual.qa1-api.rewards.deere.com
 agronomic-data-export.qa1-api.rewards.deere.com
-www.hay.qa1-api.rewards.deere.com
-www.johndeeretraining.qa1-api.rewards.deere.com
+hay.qa1-api.rewards.deere.com
+johndeeretraining.qa1-api.rewards.deere.com
 jdws.qa1-api.rewards.deere.com
 claimsv.eame.qa1-api.rewards.deere.com
 powertest2.tal.qa1-api.rewards.deere.com
@@ -706,7 +706,7 @@ gdtm.qa1-api.rewards.deere.com
 fdpnnesprod1v.dpn.qa1-api.rewards.deere.com
 frontierv.dpn.qa1-api.rewards.deere.com
 registerwarranty.tal.qa1-api.rewards.deere.com
-www.architecturepublications.qa1-api.rewards.deere.com
+architecturepublications.qa1-api.rewards.deere.com
 popstal.tal.qa1-api.rewards.deere.com
 devlapp454.tal.qa1-api.rewards.deere.com
 devl.digitalcatalogue.qa1-api.rewards.deere.com
@@ -716,7 +716,7 @@ fdpniisprod10b.dpn.qa1-api.rewards.deere.com
 agcc.qa1-api.rewards.deere.com
 devcreditapp.financial.qa1-api.rewards.deere.com
 dealerpathcert.qa1-api.rewards.deere.com
-www.tma.jdpublic.qa1-api.rewards.deere.com
+tma.jdpublic.qa1-api.rewards.deere.com
 smurf.qa1-api.rewards.deere.com
 cerescanada.qa1-api.rewards.deere.com
 performanceupgrades.qa1-api.rewards.deere.com
@@ -846,7 +846,7 @@ wasprod2b.dpn.qa1-api.rewards.deere.com
 cwp.aaa.qa1-api.rewards.deere.com
 idt.exco-devl-uscentral.alb.nprd-exco.qa1-api.rewards.deere.com
 gfmanowaucs1.jdnet.qa1-api.rewards.deere.com
-www.partsexpert.qa1-api.rewards.deere.com
+partsexpert.qa1-api.rewards.deere.com
 jdsn-eodsn.tal.qa1-api.rewards.deere.com
 jobs.qa1-api.rewards.deere.com
 zusipn-moli19t-pzen1-service1.qa1-api.rewards.deere.com
@@ -934,7 +934,7 @@ wholesalefinance-devl.qa1-api.rewards.deere.com
 lv-preview.qa1-api.rewards.deere.com
 stages.qa1-api.rewards.deere.com
 fdpnnesprod1t.dpn.qa1-api.rewards.deere.com
-www.vegas2017.qa1-api.rewards.deere.com
+vegas2017.qa1-api.rewards.deere.com
 documentum.qa1-api.rewards.deere.com
 jdsn-ams-prod.qa1-api.rewards.deere.com
 zman34cplan1.dpn.r2.qa1-api.rewards.deere.com
@@ -985,7 +985,7 @@ prqas.dx.qa1-api.rewards.deere.com
 australiaedb.qa1-api.rewards.deere.com
 dmstrategymanagement-tal.qa1-api.rewards.deere.com
 api-pay-qual.qa1-api.rewards.deere.com
-www.jdu.qa1-api.rewards.deere.com
+jdu.qa1-api.rewards.deere.com
 origin-br-wwwdev.qa1-api.rewards.deere.com
 wp.qa1-api.rewards.deere.com
 techpubs.qa1-api.rewards.deere.com
@@ -1040,7 +1040,7 @@ qualapp7.tal.qa1-api.rewards.deere.com
 zman34cplan3.dpn.r2.qa1-api.rewards.deere.com
 sapmintv.dpn.qa1-api.rewards.deere.com
 wasprod3i.dpn.qa1-api.rewards.deere.com
-www.expertconnect.qa1-api.rewards.deere.com
+expertconnect.qa1-api.rewards.deere.com
 jdsn-cart-qual.qa1-api.rewards.deere.com
 jdsn-pfep-qual.tal.qa1-api.rewards.deere.com
 invoices.parts.qc.qa1-api.rewards.deere.com
@@ -1094,7 +1094,7 @@ operationscenter-construction.qa1-api.rewards.deere.com
 jdf-webapp.qa1-api.rewards.deere.com
 epms.pu.qa1-api.rewards.deere.com
 tableau.tal.qa1-api.rewards.deere.com
-www.calculator.qa1-api.rewards.deere.com
+calculator.qa1-api.rewards.deere.com
 jdsn-suppliergroup.tal.qa1-api.rewards.deere.com
 domino.tal.qa1-api.rewards.deere.com
 jdset2v.dpn.qa1-api.rewards.deere.com
@@ -1102,7 +1102,7 @@ vagrant.qa1-api.rewards.deere.com
 pl-wwwqa.qa1-api.rewards.deere.com
 jdquote2.qa1-api.rewards.deere.com
 mkcn.qa1-api.rewards.deere.com
-www.scraper.qa1-api.rewards.deere.com
+scraper.qa1-api.rewards.deere.com
 fdpnwebprod2bi.dpn.qa1-api.rewards.deere.com
 sonarqube.nprd-exco.qa1-api.rewards.deere.com
 jdcstore.qa1-api.rewards.deere.com
@@ -1155,7 +1155,7 @@ ee.ifs.forestry.tal.qa1-api.rewards.deere.com
 r1css-unleash-proxy-server-cert.qa1-api.rewards.deere.com
 zusipn-moliesf-pzen2-service1.qa1-api.rewards.deere.com
 epirsv.tal.qa1-api.rewards.deere.com
-www.ekv.qa1-api.rewards.deere.com
+ekv.qa1-api.rewards.deere.com
 salescentertrainingr2.qa1-api.rewards.deere.com
 onejohndeere.qa1-api.rewards.deere.com
 sdkjdfqa.tal.qa1-api.rewards.deere.com
@@ -1298,7 +1298,6 @@ commserv-streaming.qa1-api.rewards.deere.com
 commerce1i.dpn.qa1-api.rewards.deere.com
 prodmigrate304.qa1-api.rewards.deere.com
 oldincentives.qa1-api.rewards.deere.com
-partsexpert.qa1-api.rewards.deere.com
 team-wds.virtd.qa1-api.rewards.deere.com
 fdnapp54.jdpublic.qa1-api.rewards.deere.com
 nz-previewqa.tal.qa1-api.rewards.deere.com
@@ -1366,7 +1365,7 @@ origin-be-sabo-previewqa.qa1-api.rewards.deere.com
 classic.arthur-devl.qa1-api.rewards.deere.com
 mlops-preview.qa1-api.rewards.deere.com
 itsupport.qa1-api.rewards.deere.com
-www.changepass.qa1-api.rewards.deere.com
+changepass.qa1-api.rewards.deere.com
 marketingrcmsqual.tal.qa1-api.rewards.deere.com
 employee.hybriscert.qa1-api.rewards.deere.com
 cppav.tal.qa1-api.rewards.deere.com
@@ -1389,9 +1388,7 @@ partsadvisorservicesv.tal.qa1-api.rewards.deere.com
 sa-fihrews.qa1-api.rewards.deere.com
 jdicsalesdev.tal.qa1-api.rewards.deere.com
 feedback.qa1-api.rewards.deere.com
-jdu.qa1-api.rewards.deere.com
 frontdoor-api-devl.qa1-api.rewards.deere.com
-www.skills.qa1-api.rewards.deere.com
 jdccustomerhistorycert.qa1-api.rewards.deere.com
 admin.contest.qa1-api.rewards.deere.com
 zinipn-punet14-pzen2-ipmi.dpn.qa1-api.rewards.deere.com
@@ -1425,7 +1422,7 @@ origin-lu-previewqa.qa1-api.rewards.deere.com
 dtac.qa1-api.rewards.deere.com
 fieldconnect.api.soa-proxy.qa1-api.rewards.deere.com
 np-idt.expertconnect.qa1-api.rewards.deere.com
-www.china.qa1-api.rewards.deere.com
+china.qa1-api.rewards.deere.com
 jdmobileqav.dpn.qa1-api.rewards.deere.com
 devlapp544.tal.qa1-api.rewards.deere.com
 sms.qa1-api.rewards.deere.com
@@ -1454,14 +1451,13 @@ test.dealer-jobs.qa1-api.rewards.deere.com
 invoices.partscerttcv.qa1-api.rewards.deere.com
 3dsearchdev.qa1-api.rewards.deere.com
 jdgatewaysand.tal.qa1-api.rewards.deere.com
-www.myjohndeere.qa1-api.rewards.deere.com
 search-query.qa.qa1-api.rewards.deere.com
 operationscenter-construction-qual.qa1-api.rewards.deere.com
 jdcireports.qa1-api.rewards.deere.com
 fcs.qa1-api.rewards.deere.com
 origin-pl-www.qa1-api.rewards.deere.com
 jdquote2ws-intcert-origin.qa1-api.rewards.deere.com
-www.hub.qa1-api.rewards.deere.com
+hub.qa1-api.rewards.deere.com
 genericreports.qa1-api.rewards.deere.com
 my.qa1-api.rewards.deere.com
 agwcdev.qa1-api.rewards.deere.com
@@ -1480,7 +1476,7 @@ johndeereagent19v.dpn.qa1-api.rewards.deere.com
 jdquote2qualtc.tal.qa1-api.rewards.deere.com
 oldpricednld.qa1-api.rewards.deere.com
 networkdirectorextqual.tal.qa1-api.rewards.deere.com
-www.eesti.qa1-api.rewards.deere.com
+eesti.qa1-api.rewards.deere.com
 fdpnvscan2.jdpublic.qa1-api.rewards.deere.com
 wasprod3c.dpn.qa1-api.rewards.deere.com
 devx-insights.qa1-api.rewards.deere.com
@@ -1495,14 +1491,13 @@ runopsq.tal.qa1-api.rewards.deere.com
 wasprod2dd.dpn.qa1-api.rewards.deere.com
 cert.debian.qa1-api.rewards.deere.com
 github19v.dpn.qa1-api.rewards.deere.com
-www.investor.qa1-api.rewards.deere.com
 pegacsfscert.qa1-api.rewards.deere.com
 accountq.tal.qa1-api.rewards.deere.com
 field-analyzer-pro-cert.qa1-api.rewards.deere.com
 cfdiat01-ced.qa1-api.rewards.deere.com
 cfwcpdm2.qa1-api.rewards.deere.com
 svap-api-cert.qa1-api.rewards.deere.com
-www.qualmfgportal.qa1-api.rewards.deere.com
+qualmfgportal.qa1-api.rewards.deere.com
 jdf-revolving-api-ext.qa1-api.rewards.deere.com
 scrum-estimator.qa1-api.rewards.deere.com
 equipmenttools-api.qa1-api.rewards.deere.com
@@ -1536,7 +1531,6 @@ zusipn-moli19t-pzen1-mgmt.dpn.qa1-api.rewards.deere.com
 jdquoteview.qa1-api.rewards.deere.com
 jdsn-sctc.tal.qa1-api.rewards.deere.com
 customersearchtcv.tal.qa1-api.rewards.deere.com
-www.myfinancialaccounts.qa1-api.rewards.deere.com
 factss.qa1-api.rewards.deere.com
 jdgatewayprt.qa1-api.rewards.deere.com
 tanduautonomy.qa1-api.rewards.deere.com
@@ -1570,7 +1564,6 @@ cgr.qa1-api.rewards.deere.com
 ge-preview.qa1-api.rewards.deere.com
 preview-in.qa1-api.rewards.deere.com
 webprod3bj.dpn.qa1-api.rewards.deere.com
-tipsnotebook.qa1-api.rewards.deere.com
 genericreports19th.qa1-api.rewards.deere.com
 wellbeing.qa1-api.rewards.deere.com
 aspm-dyv.dpn.qa1-api.rewards.deere.com
@@ -1639,7 +1632,7 @@ sa-contentcertv.qa1-api.rewards.deere.com
 customermdm-digital-user-cert.qa1-api.rewards.deere.com
 rconnect.qa1-api.rewards.deere.com
 jdportalsitsv.dpn.qa1-api.rewards.deere.com
-www.thehub.qa1-api.rewards.deere.com
+thehub.qa1-api.rewards.deere.com
 cob.dpn.qa1-api.rewards.deere.com
 qg1app01.dx.qa1-api.rewards.deere.com
 devlapp393.tal.qa1-api.rewards.deere.com
@@ -1752,7 +1745,7 @@ dealerlocatorcertapi.qa1-api.rewards.deere.com
 caas-grafana.qa1-api.rewards.deere.com
 decisionworkqueuetcv.tal.qa1-api.rewards.deere.com
 jdfanalytics.qa1-api.rewards.deere.com
-www.gamelearn.qa1-api.rewards.deere.com
+gamelearn.qa1-api.rewards.deere.com
 mx-preview.qa1-api.rewards.deere.com
 grafana.om.qa1-api.rewards.deere.com
 sia19v.tal.qa1-api.rewards.deere.com
@@ -1840,7 +1833,6 @@ propertycenter-cert.qa1-api.rewards.deere.com
 ci-infra.qa1-api.rewards.deere.com
 rcqualv.tal.qa1-api.rewards.deere.com
 cerescanadatraining.tal.qa1-api.rewards.deere.com
-johndeeretraining.qa1-api.rewards.deere.com
 wholesalereportingv.dpn.qa1-api.rewards.deere.com
 sabonl-www.qa1-api.rewards.deere.com
 configurator810.tal.qa1-api.rewards.deere.com
@@ -1930,7 +1922,6 @@ developerqa-portal.qa1-api.rewards.deere.com
 jdsn-eodsnv.tal.qa1-api.rewards.deere.com
 at-preview.qa1-api.rewards.deere.com
 supplier-cost-api-devl.qa1-api.rewards.deere.com
-www.gisnetwork.qa1-api.rewards.deere.com
 fclogincertv.qa1-api.rewards.deere.com
 fdmawjifs1.jdpublic.qa1-api.rewards.deere.com
 ztst90pexipedge1.test.qa1-api.rewards.deere.com
@@ -1950,7 +1941,7 @@ cloudsecurity.qa1-api.rewards.deere.com
 dataconnect.qa1-api.rewards.deere.com
 jdsn-contactus19v.tal.qa1-api.rewards.deere.com
 mylabdevices.dx.qa1-api.rewards.deere.com
-www.johndeereadvertising.qa1-api.rewards.deere.com
+johndeereadvertising.qa1-api.rewards.deere.com
 tcocert.qa1-api.rewards.deere.com
 bmsv.tal.qa1-api.rewards.deere.com
 dealerlocator.eame.qa1-api.rewards.deere.com

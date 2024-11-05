@@ -5,7 +5,6 @@ confighub.sellercenter.net
 guide.sellercenter.net
 sellerapi.sellercenter.net
 sonarqube.svc.sellercenter.net
-www.guide.sellercenter.net
 atlantis-auth.sellercenter.net
 atlantis-auth.svc.sellercenter.net
 auth.master-poc-atlantis.svc.sellercenter.net
@@ -51,6 +50,5 @@ wadi1-staging-prometheus.monitoring.sellercenter.net
 webapp-staging.rsin.sellercenter.net
 webapp.rsin.sellercenter.net
 ws.sellercenter.net
-www.sellercenter.net
 zalora2-live-prometheus.monitoring.sellercenter.net
 zalora2-staging-prometheus.monitoring.sellercenter.net

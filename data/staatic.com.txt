@@ -5,7 +5,6 @@ go.staging.staatic.com
 api.staatic.com
 do-ams3-staatic-platform.staatic.com
 assets.staatic.com
-www.staatic.com
 kibana.staatic.com
 go.staatic.com
 rancher.staatic.com
@@ -26,5 +25,4 @@ rancher.staatic.com
 6f8be4.wp.staatic.com
 app.staatic.com
 review.staatic.com
-*.review.staatic.com
 meet.staatic.com

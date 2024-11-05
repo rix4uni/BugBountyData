@@ -288,10 +288,6 @@ vus.stage.openbanking.mastercard.com.br
 webhook.dev.openbanking.mastercard.com.br
 webhook.openbanking.mastercard.com.br
 webhook.stage.openbanking.mastercard.com.br
-www.mastercard.com.br
-www.dev.openbanking.mastercard.com.br
-www.openbanking.mastercard.com.br
-www.stage.openbanking.mastercard.com.br
 r104.communications.mastercard.com.br
 r105.communications.mastercard.com.br
 r106.communications.mastercard.com.br
@@ -315,7 +311,7 @@ r133.communications.mastercard.com.br
 test.openbanking.mastercard.com.br
 communications.mastercard.com.br
 visa.mastercard.com.br
-www.unicard.mastercard.com.br
+unicard.mastercard.com.br
 view.e.mastercard.com.br
 test.dev.openbanking.mastercard.com.br
 localhost.e.mastercard.com.br

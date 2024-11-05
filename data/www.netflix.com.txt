@@ -1,7 +1,7 @@
 partnerapi.us-east-1.prodaa.www.netflix.com
 itunesconnect.dta.www.netflix.com
 oca-api.us-west-2.internal.dradis.www.netflix.com
-www.us-east-1.www.netflix.com
+us-east-1.www.netflix.com
 1ge-2-5-2233.prod.ftl.www.netflix.com
 api-2-4-1.prod.ftl.www.netflix.com
 presentationtracking.test.us-east-1.internal.dradis.www.netflix.com
@@ -45,19 +45,19 @@ bastion-legacy.itp.www.netflix.com
 account.us-east-1.internal.dradis.www.netflix.com
 dch-7-7738-7738.prod.ftl.www.netflix.com
 makeit.www.netflix.com
-www.alpha.www.netflix.com
+alpha.www.netflix.com
 ccs-int.us-east-1.prodaa.www.netflix.com
 pageprod-prod.us-east-1.internal.dradis.www.netflix.com
 athena-api.www.netflix.com
 g.www.netflix.com
 request.irod.test.www.netflix.com
 www-qa.test.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 catalog.us-west-2.prodaa.www.netflix.com
 api-0-8-1.prod.ftl.www.netflix.com
 dev-testcase-service.nrd.www.netflix.com
 sch-1-1763-1755.prod.ftl.www.netflix.com
-www.www.www.uswest.obiwan.www.netflix.com
+www.www.uswest.obiwan.www.netflix.com
 codex-prod.us-west-2.prodaa.www.netflix.com
 nintendo.nccp.latency.prodaa.www.netflix.com
 android-aws-dradis.prod.eu-west-1.internal.ftl.www.netflix.com
@@ -189,8 +189,8 @@ npp-internal.www.netflix.com
 dch-1-1045-1045.prod.ftl.www.netflix.com
 hdupgrade.eu-west-1.internal.dradis.www.netflix.com
 msg.www.netflix.com
-www.dradis.www.netflix.com
-www.www.www.www.www.www.www.cms.obiwan.www.netflix.com
+dradis.www.netflix.com
+www.www.www.www.www.www.cms.obiwan.www.netflix.com
 android.nccp.us-west-2.prodaa.www.netflix.com
 ichnaea.us-west-2.prodaa.www.netflix.com
 nrdp.prod.cloud.us-east-1.origin.prodaa.www.netflix.com
@@ -222,7 +222,7 @@ pulse.prod.cloud.www.netflix.com
 file-direct.dta.www.netflix.com
 sch-1-1763-1783.prod.ftl.www.netflix.com
 nmtracking.www.netflix.com
-www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.uswest.obiwan.www.netflix.com
 oc.prod.cloud.us-east-1.origin.prodaa.www.netflix.com
 us-east-1-probe.prod.ftl.www.netflix.com
 dch-3-3338-3338.prod.ftl.www.netflix.com
@@ -231,10 +231,10 @@ ichnaea.staging.us-east-1.internal.dradis.www.netflix.com
 masquerade.www.netflix.com
 nrdcrowdstaging.itd.www.netflix.com
 dch-7-7038-7038.prod.ftl.www.netflix.com
-www.us-west-2.internal.dradis.www.netflix.com
+us-west-2.internal.dradis.www.netflix.com
 ccs.eu-west-1.prodaa.www.netflix.com
 embed.develop-int.test.www.netflix.com
-www.www.www.www.www.www.cms.obiwan.www.netflix.com
+www.www.www.www.www.cms.obiwan.www.netflix.com
 ichnaea-web-dradis.prod.ftl.www.netflix.com
 appboot.us-west-2.prodaa.www.netflix.com
 ios.nccp.us-west-2.prodaa.www.netflix.com
@@ -280,7 +280,7 @@ ios-multipath-cell3.prod.us-west-2.internal.dradis.www.netflix.com
 nrdp-ipv6.prod.ftl.www.netflix.com
 tls13-scm.staging.ftl.www.netflix.com
 push.prod.us-west-2.www.netflix.com
-www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 customerevents.us-east-1.prodaa.www.netflix.com
 anycast-t3-c4-scm.prod.ftl.www.netflix.com
 api-global-ecc.eu-west-1.internal.dradis.www.netflix.com
@@ -302,7 +302,7 @@ api-global-ecc.us-east-1.internal.dradis.www.netflix.com
 nrdp-moderate.prod.ftl.www.netflix.com
 nrdp.ws.exp.dradis.www.netflix.com
 obiwanqa.test.www.netflix.com
-www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 api-0-4-10.prod.ftl.www.netflix.com
 ppp.prod.cloud.www.netflix.com
 tags.www.netflix.com
@@ -339,13 +339,13 @@ h2-scm.prod.ftl.www.netflix.com
 obiwan.test.www.netflix.com
 pubsub-us-west-2.dta.www.netflix.com
 dch-1-1032-1032.prod.ftl.www.netflix.com
-www.eu-west-1.internal.dradis.www.netflix.com
+eu-west-1.internal.dradis.www.netflix.com
 oclog.oc.prod.us-west-2.prodaa.www.netflix.com
 dch-1-1043-1043.prod.ftl.www.netflix.com
 sch-1-3052-3085.prod.ftl.www.netflix.com
 subtools-sandbox.www.netflix.com
 android-cell7.prod.ftl.www.netflix.com
-www.www.uswest.obiwan.www.netflix.com
+www.uswest.obiwan.www.netflix.com
 beaconimages-prod.us-east-1.prodaa.www.netflix.com
 aidsvc.us-east-1.internal.dradis.www.netflix.com
 ichnaea.geo2.www.netflix.com
@@ -372,7 +372,7 @@ beaconimages-prod.us-east-1.internal.dradis.www.netflix.com
 dch-0-0039-0039.prod.ftl.www.netflix.com
 help.eu-west-1.internal.dradis.www.netflix.com
 ios-multipath-cell2.prod.us-east-1.internal.dradis.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 jira-dev.www.netflix.com
 nrdp.prod.cloud.us-east-1.prodaa.www.netflix.com
 mcdn.www.netflix.com
@@ -411,7 +411,7 @@ dvd-www-test-baseline-stable.eng.dvdco.www.netflix.com
 playstation.nccp.us-west-2.internal.dradis.www.netflix.com
 ccs-log.latency.prodaa.www.netflix.com
 android8.appboot.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 nintendo.nccp.us-west-2.prodaa.www.netflix.com
 anycast-t1-c3-scm.prod.ftl.www.netflix.com
 help.eu-west-1.www.netflix.com
@@ -457,14 +457,14 @@ nmtracking.us-west-2.prodaa.www.netflix.com
 android.sharkboot.www.netflix.com
 api.us-east-1.internal.dradis.www.netflix.com
 uswest.obiwan.www.netflix.com
-www.sandbox.eu-west-1.prodaa.www.netflix.com
+sandbox.eu-west-1.prodaa.www.netflix.com
 contenthub.www.netflix.com
 messaging-eco.nrd.www.netflix.com
 api-global.eu-west-1.prodaa.www.netflix.com
 dch-0-40-40.prod.ftl.www.netflix.com
 ichnaea.test.www.netflix.com
 nrdp.ws.us-east-1.internal.dradis.www.netflix.com
-www.sandbox.us-east-1.prodaa.www.netflix.com
+sandbox.us-east-1.prodaa.www.netflix.com
 dch-1-1046-1046.prod.ftl.www.netflix.com
 tcp-4-009-1681.prod.ftl.www.netflix.com
 prod.cloud.us-west-2.internal.dradis.www.netflix.com
@@ -497,7 +497,7 @@ aidsvc.eu-west-1.internal.dradis.www.netflix.com
 api-staging.www.netflix.com
 nrdp-aws-dradis.prod.eu-west-1.internal.ftl.www.netflix.com
 oca-api-4rlatency.us-west-2.internal.dradis.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 ccs-log.us-east-1.prodaa.www.netflix.com
 ios.nccp.latency.prodaa.www.netflix.com
 probe-dradis-aws-only.prod.us-east-1.internal.ftl.www.netflix.com
@@ -525,7 +525,7 @@ cpeubuntu102.itp.www.netflix.com
 isp-0-224-1004.prod.ftl.www.netflix.com
 partnerapi.test.dradis.www.netflix.com
 thesecret.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 appboot.us-west-2.origin.prodaa.www.netflix.com
 ccs.us-east-1-sa.prodaa.www.netflix.com
 android-appboot.us-west-2.internal.dradis.www.netflix.com
@@ -536,7 +536,7 @@ muse.www.netflix.com
 oca-api-4rbal.us-east-1.internal.dradis.www.netflix.com
 android.nccp.us-east-1-sa.prodaa.www.netflix.com
 mf-streaming-web-west-1c.itp.www.netflix.com
-www.sandbox.us-east-1.origin.prodaa.www.netflix.com
+sandbox.us-east-1.origin.prodaa.www.netflix.com
 beacon.us-east-1.internal.dradis.www.netflix.com
 ichnaea.us-west-2.www.netflix.com
 ios.sharkboot.www.netflix.com
@@ -594,7 +594,7 @@ contactus.eu-west-1.www.netflix.com
 g-1-3085-3085.prod.ftl.www.netflix.com
 ichnaea-ios-dradis.prod.us-east-1.internal.ftl.www.netflix.com
 probe-aws-dradis.prod.us-east-1.internal.ftl.www.netflix.com
-www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.uswest.obiwan.www.netflix.com
 confluence.www.netflix.com
 nmtracking.us-east-1.internal.dradis.www.netflix.com
 dnmi.prod.us-east-1-sa.prodaa.www.netflix.com
@@ -724,7 +724,7 @@ nintendo.nccp.eu-west-1.internal.dradis.www.netflix.com
 signupqa.dflt.internal.dradis.www.netflix.com
 api-global.www.netflix.com
 oca-api-4rbal.us-west-2.internal.dradis.www.netflix.com
-www.sandbox.www.netflix.com
+sandbox.www.netflix.com
 nrdp.prod.cloud.us-west-2.origin.prodaa.www.netflix.com
 ccs-log-us.www.netflix.com
 customereventsqa.us-east-1.internal.dradis.www.netflix.com
@@ -740,7 +740,7 @@ account.us-west-2.internal.dradis.www.netflix.com
 deeplink.www.netflix.com
 n7uai5hc4idcetqy0swamrrzvfv26ebkpwxpzdtu.prod.cloud.www.netflix.com
 nflxme.us-west-2.internal.dradis.www.netflix.com
-www.www.www.www.assets.obiwan.www.netflix.com
+www.www.www.assets.obiwan.www.netflix.com
 1z-1-54-4.prod.ftl.www.netflix.com
 0-0006scm.int.cloud.prod.cloud.www.netflix.com
 android-aws.prod.ftl.www.netflix.com
@@ -762,7 +762,7 @@ mf-dvd-snap-west-1a.itp.www.netflix.com
 api-0-9-1.prod.ftl.www.netflix.com
 nmtracking.test.eu-west-1.internal.dradis.www.netflix.com
 novabuilds.www.netflix.com
-www.www.www.www.cms.obiwan.www.netflix.com
+www.www.www.cms.obiwan.www.netflix.com
 us-west-2.origin.prodaa.prod.cloud.www.netflix.com
 nflix-sherlock-prod-03.itp.www.netflix.com
 api.dradis.www.netflix.com
@@ -793,7 +793,7 @@ cbp.nccp.eu-west-1.www.netflix.com
 ios.prod.cloud.www.netflix.com
 oca-api.us-east-2.internal.dradis.www.netflix.com
 stm-gravity100-us-west-1.itd.www.netflix.com
-www.us-east-2.internal.dradis.www.netflix.com
+us-east-2.internal.dradis.www.netflix.com
 obiwan-wc.us-west-2.prodaa.www.netflix.com
 nrdp-nfrt.eu-west-1.prod.ftlbknd.www.netflix.com
 oca-api-4rlatency.us-east-2.internal.dradis.www.netflix.com
@@ -806,7 +806,7 @@ ichnaea.eu-west-1.www.netflix.com
 images.www.netflix.com
 nccp-nrdp-31.us-east-1.internal.dradis.www.netflix.com
 fast.dradis.www.netflix.com
-www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 beacon.us-east-1-sa.prodaa.www.netflix.com
 codex-prod.www.netflix.com
 ichnaea.dflt.internal.dradis.www.netflix.com
@@ -815,8 +815,8 @@ turbo.www.netflix.com
 occ-0-1196-3492.prod.ftl.www.netflix.com
 v4.us-east-1.probnik.www.netflix.com
 app.www.netflix.com
-www.us-west-2.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+us-west-2.www.netflix.com
+www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 cbp.nccp.us-east-1-sa.prodaa.www.netflix.com
 dnmi.prod.us-east-1.origin.prodaa.www.netflix.com
 uiboot.eu-west-1.origin.prodaa.www.netflix.com
@@ -827,7 +827,7 @@ et-4-3-1.prod.ftl.www.netflix.com
 xbox.nccp.us-west-2.internal.dradis.www.netflix.com
 aws-uiedns02.itp.www.netflix.com
 customerevents.eu-west-1.prodaa.www.netflix.com
-www.prod.ftl.www.netflix.com
+prod.ftl.www.netflix.com
 account.www.netflix.com
 android-oca.prod.ftl.www.netflix.com
 dch-9-3085-3085.prod.ftl.www.netflix.com
@@ -843,7 +843,6 @@ test.voicecontrol.us-east-1.prodaa.www.netflix.com
 isp-0-224-997.prod.ftl.www.netflix.com
 ixanycast-isp.ftl.www.netflix.com
 sch-1-3085-3038.prod.ftl.www.netflix.com
-www.jobs.www.netflix.com
 ios-1-6-4.prod.ftl.www.netflix.com
 api-7-4-1.prod.ftl.www.netflix.com
 beacon.us-east-2.internal.dradis.www.netflix.com
@@ -868,7 +867,7 @@ catalog.us-east-1.prodaa.www.netflix.com
 bluthquotes.www.netflix.com
 prod.partner.eu-west-1.internal.dradis.www.netflix.com
 test.security.www.netflix.com
-www.stage.www.netflix.com
+stage.www.netflix.com
 api-user.eu-west-1.prodaa.www.netflix.com
 prod.partner.us-east-1.prodaa.www.netflix.com
 test.voicecontrol.us-west-2.prodaa.www.netflix.com
@@ -882,7 +881,6 @@ customereventsqa.www.netflix.com
 ge-1-3-8.prod.ftl.www.netflix.com
 prod.cloud.eu-west-1.origin.prodaa.www.netflix.com
 h1-scm.prod.ftl.www.netflix.com
-www.www.netflix.com
 api.us-east-1-sa.www.netflix.com
 ichnaea-web-dradis.prod.eu-west-1.internal.ftl.www.netflix.com
 image.www.netflix.com
@@ -917,7 +915,7 @@ ws.push.staging.www.netflix.com
 android.nccp.www.netflix.com
 prod.http1.us-west-2.internal.dradis.www.netflix.com
 api.vandam.www.netflix.com
-www.top10.www.netflix.com
+top10.www.netflix.com
 xbox.nccp.us-west-2.prodaa.www.netflix.com
 ios-1-2-1.prod.ftl.www.netflix.com
 tvos.prod.http1.www.netflix.com
@@ -1014,7 +1012,7 @@ prod.cloud-sharded.us-west-2.prodaa.www.netflix.com
 cbp-us.nccp.us-west-2.internal.dradis.www.netflix.com
 partnerpay.www.netflix.com
 tcp-1-1042-1042.prod.ftl.www.netflix.com
-www.www.assets.obiwan.www.netflix.com
+www.assets.obiwan.www.netflix.com
 schedule.dta.www.netflix.com
 dexter.www.netflix.com
 fe-0-1-2.prod.ftl.www.netflix.com
@@ -1100,7 +1098,7 @@ hod.dta.www.netflix.com
 isp-1-1763-1763.prod.ftl.www.netflix.com
 android.prod.ftl-backend.us-west-2.origin.prodaa.www.netflix.com
 api.us-east-1.prodaa.www.netflix.com
-www.sandbox.us-west-2.prodaa.www.netflix.com
+sandbox.us-west-2.prodaa.www.netflix.com
 anycast-t0-c1-scm.prod.ftl.www.netflix.com
 develop.staging.ssic.www.netflix.com
 grail.www.netflix.com
@@ -1122,12 +1120,11 @@ android.nccp.us-east-1.internal.dradis.www.netflix.com
 ftl-backend.us-west-2.origin.prodaa.prod.cloud.www.netflix.com
 help.us-east-1.www.netflix.com
 probe-future-aws-dradis.prod.us-west-2.internal.ftl.www.netflix.com
-www.www.www.www.www.assets.obiwan.www.netflix.com
+www.www.www.www.assets.obiwan.www.netflix.com
 screening.www.netflix.com
 android.nccp.us-east-1.prod.http1.www.netflix.com
 shared-nlb.dradis.test.ftlbknd.www.netflix.com
 sustainability.www.netflix.com
-www.assets.obiwan.www.netflix.com
 oclog.oc.prod.us-west-2.origin.prodaa.www.netflix.com
 api.sandbox.us-east-1.internal.dradis.www.netflix.com
 cms.obiwan.test.www.netflix.com
@@ -1146,7 +1143,7 @@ delta.www.netflix.com
 npp.www.netflix.com
 anycast-t0-c3-scm.prod.ftl.www.netflix.com
 stm-streamingfs100-us-west-1.itp.www.netflix.com
-www.beta.www.netflix.com
+beta.www.netflix.com
 227.prod.cloud.www.netflix.com
 list-eco.nrd.www.netflix.com
 nrd-api.www.netflix.com
@@ -1157,7 +1154,7 @@ signup.us-east-1-sa.www.netflix.com
 sourcedeliveries.www.netflix.com
 nflix-foggy-prod-02.itp.www.netflix.com
 prod.http1.us-east-2.internal.dradis.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 ddi.www.netflix.com
 prod.partner.us-east-1.internal.dradis.www.netflix.com
 csapi.test.dvdco.www.netflix.com
@@ -1212,12 +1209,12 @@ sch-1-364-364.prod.ftl.www.netflix.com
 anycast-t3-c1-scm.prod.ftl.www.netflix.com
 dradis.prod.cloud.www.netflix.com
 isp-3-3448-3448.prod.ftl.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 xbox.nccp.us-east-1.internal.dradis.www.netflix.com
 backlot.www.netflix.com
 keyplatform2.www.netflix.com
 nflxme.dradis.www.netflix.com
-www.fyc.www.netflix.com
+fyc.www.netflix.com
 isp-0-224-1007.prod.ftl.www.netflix.com
 anycast-t1-c0-scm.prod.ftl.www.netflix.com
 hdupgrade.us-east-1.internal.dradis.www.netflix.com
@@ -1236,7 +1233,7 @@ testplan.dta.www.netflix.com
 email.engagements.www.netflix.com
 dch-1-3085-8.prod.ftl.www.netflix.com
 nflxme.us-east-2.internal.dradis.www.netflix.com
-www.us-east-1.internal.dradis.www.netflix.com
+us-east-1.internal.dradis.www.netflix.com
 dch-1-1040-1040.prod.ftl.www.netflix.com
 dnm.prod.us-east-1.prodaa.www.netflix.com
 nmtracking-sharded.us-east-1.prodaa.www.netflix.com
@@ -1281,7 +1278,7 @@ dch-1-1039-1039.prod.ftl.www.netflix.com
 assets.www.netflix.com
 v4.us-west-2.probnik.www.netflix.com
 oca-api-4rbalprodaa.dradis.www.netflix.com
-www.asasdasdaskdlakalksdmlkasdnddasakkkaksjdjnsadlwda.www.netflix.com
+asasdasdaskdlakalksdmlkasdnddasakkkaksjdjnsadlwda.www.netflix.com
 api-ftl.eu-west-1.origin.prodaa.www.netflix.com
 dualstack-anycast.prod.ftl.www.netflix.com
 ichnaea-web.us-west-2.prodaa.www.netflix.com
@@ -1365,8 +1362,8 @@ adtech100-us-west-1.itp.www.netflix.com
 nrdp.nccp.us-west-2.origin.prodaa.www.netflix.com
 anycast-t1-c0-noscm.prod.ftl.www.netflix.com
 ocga.ngp.prod.mtls.us-east-1.internal.dradis.www.netflix.com
+www.cms.obiwan.www.netflix.com
 www.www.cms.obiwan.www.netflix.com
-www.www.www.cms.obiwan.www.netflix.com
 prod.http1.us-east-1.prodaa.www.netflix.com
 prod.partnersecure.us-east-1.prodaa.www.netflix.com
 cache.www.netflix.com
@@ -1408,7 +1405,7 @@ nccp-starfox.us-west-2.internal.dradis.www.netflix.com
 nrdp-aws-dradis.prod.ftl.www.netflix.com
 prod-resources.www.netflix.com
 secured.www.netflix.com
-www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.uswest.obiwan.www.netflix.com
 api-ftl.us-west-2.prodaa.www.netflix.com
 obiwan-wc.us-east-1.prodaa.www.netflix.com
 dch-3-3049-3049.prod.ftl.www.netflix.com
@@ -1513,7 +1510,7 @@ nrdp.nccp.eu-west-1.prodaa.www.netflix.com
 anycast-t4-c0-scm.prod.ftl.www.netflix.com
 api-4-4-1.prod.ftl.www.netflix.com
 snapbox.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 nas-sftp-dse.itp.www.netflix.com
 android-aws-dradis.prod.us-east-2.internal.ftl.www.netflix.com
 appboot.www.netflix.com
@@ -1646,7 +1643,6 @@ api-user.us-west-2.prodaa.www.netflix.com
 asset.dta.www.netflix.com
 bifrost.nrd.www.netflix.com
 partnerapi.test.us-east-1.internal.dradis.www.netflix.com
-top10.www.netflix.com
 dch-1-1-1239.prod.ftl.www.netflix.com
 magfsprod102.itp.www.netflix.com
 ios.nccp.eu-west-1.prodaa.www.netflix.com
@@ -1679,7 +1675,7 @@ esn2.dta.www.netflix.com
 ichnaea-android-dradis.prod.us-east-2.internal.ftl.www.netflix.com
 segments.itp.www.netflix.com
 embed.www-int.test.www.netflix.com
-www.cms.obiwan.www.netflix.com
+cms.obiwan.www.netflix.com
 www1-qa.test.www.netflix.com
 ackbar-uswest.www.netflix.com
 com.android-5-21.prod.cloud.www.netflix.com
@@ -1691,7 +1687,6 @@ qr.www.netflix.com
 nflix-dominoblog-prod-01.itp.www.netflix.com
 presentationtracking.eu-west-1.prodaa.www.netflix.com
 ios-multipath-cell3.prod.us-east-1.internal.dradis.www.netflix.com
-fyc.www.netflix.com
 itp.prod.cloud.www.netflix.com
 android-sharded.prod.ftl.www.netflix.com
 api-0-4-9.prod.ftl.www.netflix.com
@@ -1708,7 +1703,7 @@ isp-0-224-1008.prod.ftl.www.netflix.com
 android-future-aws-dradis.prod.eu-west-1.internal.ftl.www.netflix.com
 android.prod.cloud.www.netflix.com
 editorial.www.netflix.com
-www.www.www.assets.obiwan.www.netflix.com
+www.www.assets.obiwan.www.netflix.com
 catalog.eu-west-1.internal.dradis.www.netflix.com
 cdn.www.netflix.com
 cops.www.netflix.com
@@ -1842,7 +1837,7 @@ nflix-jobsite-elasticsearch-prodtest-05.itp.www.netflix.com
 backlot.ingest.www.netflix.com
 bastion100-mgmt-us-west-1.itd.www.netflix.com
 nccp.eu-west-1.origin.prodaa.prod.cloud.www.netflix.com
-www.eu-west-1.www.netflix.com
+eu-west-1.www.netflix.com
 dev3-scm.prod.ftl.www.netflix.com
 api.nrd.www.netflix.com
 obiwand.test.www.netflix.com
@@ -1868,7 +1863,7 @@ calendar.www.netflix.com
 catalog.www.netflix.com
 isp-1-1046-1444.prod.ftl.www.netflix.com
 nrdp-aggressive.prod.ftl.www.netflix.com
-www.sandbox.eu-west-1.origin.prodaa.www.netflix.com
+sandbox.eu-west-1.origin.prodaa.www.netflix.com
 nrdp.ws.ale.www.netflix.com
 ios.staging.ftl.www.netflix.com
 cast-uiboot.test.http1.www.netflix.com
@@ -1876,7 +1871,6 @@ dvd.www.netflix.com
 et-1-2-1.prod.ftl.www.netflix.com
 venkman.cluster.us-east-2.prod.cloud.www.netflix.com
 prod.mtls.partner.us-east-1.prodaa.www.netflix.com
-cms.obiwan.www.netflix.com
 isp-1-376-376.prod.ftl.www.netflix.com
 obiwan-wc.us-east-1-sa.prodaa.www.netflix.com
 uiboot.us-east-1-sa.prodaa.www.netflix.com
@@ -1915,7 +1909,7 @@ api.us-east-1.www.netflix.com
 cloud.prod.cloud.www.netflix.com
 meechum.www.netflix.com
 network-tests.dta.www.netflix.com
-www.www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
+www.www.www.www.www.www.www.www.www.www.www.uswest.obiwan.www.netflix.com
 api.us-east-1-sa.prodaa.www.netflix.com
 dch-0-44-44.prod.ftl.www.netflix.com
 guilds.www.netflix.com
@@ -1929,14 +1923,14 @@ dch-4-4039-4039.prod.ftl.www.netflix.com
 dnmi.prod.dradis.www.netflix.com
 hot.dta.www.netflix.com
 release-int.test.www.netflix.com
-www.sandbox.us-west-2.origin.prodaa.www.netflix.com
+sandbox.us-west-2.origin.prodaa.www.netflix.com
 nrd.api.eu-west-1.prodaa.www.netflix.com
 internaljobs.www.netflix.com
 partnerapi.eu-west-1.internal.dradis.www.netflix.com
 request.iro.www.netflix.com
 ldmg101.www.netflix.com
 playstation.nccp.eu-west-1.www.netflix.com
-www.sandbox.dradis.www.netflix.com
+sandbox.dradis.www.netflix.com
 api-global.latency.prodaa.www.netflix.com
 creativeservices.itp.www.netflix.com
 nflix-jobsite-elasticsearch-prodtest-04.itp.www.netflix.com
@@ -1951,7 +1945,7 @@ nrdp70-appboot.www.netflix.com
 obiwan.www.netflix.com
 tableau.www.netflix.com
 ios-2-6-8.prod.ftl.www.netflix.com
-www.www.www.www.www.cms.obiwan.www.netflix.com
+www.www.www.www.cms.obiwan.www.netflix.com
 uiboot.latency.prodaa.www.netflix.com
 dch-7-7028-7028.prod.ftl.www.netflix.com
 obiwan-wc.eu-west-1.internal.dradis.www.netflix.com
@@ -2013,4 +2007,3 @@ ios-0-6-6.prod.ftl.www.netflix.com
 cbp-us.nccp.www.netflix.com
 media.www.netflix.com
 signupqa.www.netflix.com
-www.uswest.obiwan.www.netflix.com

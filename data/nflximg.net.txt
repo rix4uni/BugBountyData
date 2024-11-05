@@ -1,5 +1,4 @@
-*.nflximg.net
-*.nrd.nflximg.net
+nrd.nflximg.net
 adtech.nflximg.net
 ae.nflximg.net
 art-0.nflximg.net
@@ -23,7 +22,6 @@ dnmt.nflximg.net
 fast-com.nflximg.net
 help.nflximg.net
 jobsite.nflximg.net
-nrd.nflximg.net
 s-iko.nflximg.net
 scdn.nflximg.net
 secure-assets.nflximg.net
@@ -88,7 +86,6 @@ art-9.nflximg.net
 dnmt7.nflximg.net
 jobsite-staging.nflximg.net
 dnmt5.nflximg.net
-www.nflximg.net
 dnm7.nflximg.net
 subdomain.nflximg.net
 dnm3.nflximg.net

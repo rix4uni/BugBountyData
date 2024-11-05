@@ -6,7 +6,6 @@ queues01.platform161.com
 supervisor.production.platform161.com
 queues.production.platform161.com
 stackpath-cdn-creatives-production.platform161.com
-www.platform161.com
 stackpath-cdn-production.platform161.com
 kb.platform161.com
 email.platform161.com
@@ -121,7 +120,6 @@ wiseroll.platform161.com
 proximic.platform161.com
 medyanet.platform161.com
 nagios.production.platform161.com
-www.app.platform161.com
 kyston.platform161.com
 staging.platform161.com
 hydro.mulf.platform161.com

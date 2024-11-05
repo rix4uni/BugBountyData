@@ -1,4 +1,3 @@
-*.soundcloud.org
 actions-metrics.build-test.soundcloud.org
 actions-pub.sc-sean.soundcloud.org
 actions-webhook.build.soundcloud.org
@@ -74,7 +73,6 @@ graph.soundcloud.org
 payadmin.soundcloud.org
 payments.soundcloud.org
 web-components.soundcloud.org
-www.soundcloud.org
 dashboard-staging.soundcloud.org
 404: not found404: not found404: not founda-96-119-0-97.soundcloud.org
 96-119-0-97.soundcloud.org

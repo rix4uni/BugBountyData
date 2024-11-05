@@ -1,6 +1,6 @@
 backend.lead.app
 prod.backend.lead.app
-www.backup.lead.app
+backup.lead.app
 props.lead.app
 api.stage.ops.lead.app
 stg.teams.lead.app
@@ -8,10 +8,9 @@ gdpr.lead.app
 item.lead.app
 three.lead.app
 app.stage.ops.lead.app
-www.jp.lead.app
+jp.lead.app
 typography.lead.app
 _df.lead.app
-www.lead.app
 stg-teams.lead.app
 stg.backend.lead.app
 hadtaufakerateweight.lead.app
@@ -21,7 +20,6 @@ admin.lead.app
 crm.lead.app
 stg-msteams.lead.app
 app.lead.app
-backup.lead.app
 prod.frontend.lead.app
 _copy.lead.app
 self.lead.app
@@ -37,7 +35,6 @@ this.lead.app
 link.lead.app
 stg-frontend.lead.app
 stg-backend.lead.app
-jp.lead.app
 msteams.lead.app
 api.lead.app
 result.lead.app

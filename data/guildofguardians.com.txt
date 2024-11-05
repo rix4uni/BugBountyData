@@ -65,7 +65,6 @@ admin.dev.guildofguardians.com
 ops.guildofguardians.com
 stage.guildofguardians.com
 gog-community.stage.guildofguardians.com
-www.guildofguardians.com
 gog-community.dev.guildofguardians.com
 api.guildofguardians.com
 gog-community-portal-v1.dev.guildofguardians.com
@@ -74,4 +73,3 @@ gog-community-backend.dev.guildofguardians.com
 gog-guild-crafting-backend.stage.guildofguardians.com
 gog-guild-crafting.stage.guildofguardians.com
 gog-guild-crafting-fe.dev.guildofguardians.com
-*.dev.guildofguardians.com

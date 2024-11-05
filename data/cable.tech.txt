@@ -1,7 +1,6 @@
 api.cable.tech
 transaction-api.cable.tech
 shield.cable.tech
-*.cable.tech
 phoebe2.cable.tech
 riskassessment.cable.tech
 dev-api.cable.tech
@@ -42,7 +41,6 @@ assurance.dev.vercel.cable.tech
 dia.cable.tech
 api-svc.cable.tech
 dash.dev.cable.tech
-www.cable.tech
 prs-svc.cable.tech
 production.cable.tech
 retool.cable.tech

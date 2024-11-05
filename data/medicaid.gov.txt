@@ -1,4 +1,3 @@
-*.medicaid.gov
 1115publiccomments.medicaid.gov
 _dmarc.medicaid.gov
 adobe-ep.medicaid.gov
@@ -62,7 +61,6 @@ test0.medicaid.gov
 test0.edit.medicaid.gov
 uat.medicaid.gov
 uat.edit.medicaid.gov
-www.medicaid.gov
 test-edit.sdis.medicaid.gov
 test.sdis.medicaid.gov
 test-edit.data.medicaid.gov

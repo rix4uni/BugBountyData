@@ -1,7 +1,4 @@
-*.staging.tr-test.goog
-*.autopush.tr-test.goog
-*.dev.tr-test.goog
-uberproxy-san.tr-test.goog
+staging.tr-test.goog
 autopush.tr-test.goog
 dev.tr-test.goog
-staging.tr-test.goog
+uberproxy-san.tr-test.goog

@@ -1,5 +1,5 @@
 acceptatie-monitor.aerius.nl
-www.mattermost.aerius.nl
+mattermost.aerius.nl
 nexus-docker.aerius.nl
 klikmodel.aerius.nl
 hostmaster.aerius.nl
@@ -35,7 +35,6 @@ auth-dev.aerius.nl
 test-register.aerius.nl
 mail.aerius.nl
 regionaal-register.aerius.nl
-www.aerius.nl
 lightning.aerius.nl
 monitor.aerius.nl
 test-monitor.aerius.nl
@@ -45,7 +44,6 @@ acceptatie-register.aerius.nl
 scenario.aerius.nl
 acceptatie.aerius.nl
 link.aerius.nl
-mattermost.aerius.nl
 auth-register-dev.aerius.nl
 regelingsondersteuning.aerius.nl
 tel.mhfm2.aerius.nl
@@ -54,10 +52,8 @@ teste.colegionscarmo.aerius.nl
 support.apple.com.authenticate-access.aerius.nl
 valliant.rede.aerius.nl
 test9.seller.aerius.nl
-www.appleid.apple.com.my.aerius.nl
-www.blogbank.aerius.nl
-*.aerius.nl
-*.pr.aerius.nl
+appleid.apple.com.my.aerius.nl
+blogbank.aerius.nl
 klimaatwebwinkel.likmodel.aerius.nl
 ldsbc.112.aerius.nl
 0xffffff80.aerius.nl
@@ -69,7 +65,7 @@ gallery.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11k-acceptatie-scenario.aerius.nl
 117-16.aerius.nl
 06555babc800211370ccf073076462ab.aerius.nl
-www.1000.aerius.nl
+1000.aerius.nl
 042e4f8c359e1cb25artslag.aerius.nl
 059.aerius.nl
 11285521401242acceptatie-melding.aerius.nl
@@ -154,9 +150,9 @@ teams.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 1029.aerius.nl
 b1.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 03b811b7f3dbffbd02b8ab43c4cb7208.aerius.nl
-www.2.1.aerius.nl
+2.1.aerius.nl
 0eef957d86152a5330cfc32ac254c53c.aerius.nl
-www.remote.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+remote.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 100beer.aerius.nl
 private2.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 01test-melding.aerius.nl
@@ -293,7 +289,7 @@ au.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 102020048937.aerius.nl
 115nexus-docker.aerius.nl
 dummy.145.32.115.aerius.nl
-www.1-2rijden.aerius.nl
+1-2rijden.aerius.nl
 mail28.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 103-204-130-21.aerius.nl
 104-198-187-129.aerius.nl
@@ -306,7 +302,7 @@ mail28.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 101domain-acceptatie-calculator.aerius.nl
 0fwww-71.aerius.nl
 risk.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.001.aerius.nl
+001.aerius.nl
 050.aerius.nl
 1-scenario.aerius.nl
 acceptatie.0000.aerius.nl
@@ -355,8 +351,8 @@ acc-pro-qa-f-vergelijkingskaart.0.aerius.nl
 0fa0735009599135d2756f90b114432d.aerius.nl
 11192521404263-mail.aerius.nl
 103-13-121-25.aerius.nl
-www.inside.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.0test-melding.aerius.nl
+inside.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+0test-melding.aerius.nl
 12-174.aerius.nl
 091d9c61aa1125e6e379d3e24b5630c7.aerius.nl
 0.1.aerius.nl
@@ -373,7 +369,7 @@ cgm-web.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0a73fd42247994f40b9347ae238e59c0.aerius.nl
 118-188.aerius.nl
 test.11.aerius.nl
-www.10acceptatie-monitor.aerius.nl
+10acceptatie-monitor.aerius.nl
 11192521404256-test-calculator.aerius.nl
 0612023ffa6994zefkaartsg108nt.aerius.nl
 02v0.aerius.nl
@@ -406,7 +402,7 @@ pc173.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 03ujdd0legend.aerius.nl
 101-39.aerius.nl
 12-186.aerius.nl
-www.120test-calculator.aerius.nl
+120test-calculator.aerius.nl
 11307701266c8cb243a6b5a094203423.aerius.nl
 1212.aerius.nl
 1002353tbh2190470870.aerius.nl
@@ -424,13 +420,13 @@ acceptatie.051new.aerius.nl
 acceptatie-meander.10.aerius.nl
 118-118.aerius.nl
 1001-tricks.aerius.nl
-www.120-melding.aerius.nl
+120-melding.aerius.nl
 asmx.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 srs.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 198.162.0.1.aerius.nl
 120-59.aerius.nl
 116-203-253-219.aerius.nl
-www.why.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+why.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 110-202.aerius.nl
 10e53.aerius.nl
 112-static.aerius.nl
@@ -534,7 +530,7 @@ vitre-cassee.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 115-242.aerius.nl
 106-test-calculator.aerius.nl
 11-acceptatie-connect.aerius.nl
-www.phone.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+phone.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 39.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521403945ftp.aerius.nl
 107-62test-scenario.aerius.nl
@@ -544,7 +540,7 @@ java-sys.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 113aankoopcalculator.aerius.nl
 120-135.aerius.nl
 test-monitor.1.aerius.nl
-www.119calculator.aerius.nl
+119calculator.aerius.nl
 1000livrosdeengenharia.aerius.nl
 0g-hostmaster.aerius.nl
 108-62test-monitor.aerius.nl
@@ -580,7 +576,7 @@ aqua.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 186.144.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0--midwesttvwww0.aerius.nl
 dummy.145.32.5.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.emm.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+emm.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 115-acceptatie-imaer.aerius.nl
 11aaa.aerius.nl
 105-62-mattermost.aerius.nl
@@ -650,15 +646,15 @@ seg.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 04hfd-cas01.aerius.nl
 11098.aerius.nl
 11192521403952acceptatie-imaer.aerius.nl
-www.video.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.119regionaal-register.aerius.nl
+video.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+119regionaal-register.aerius.nl
 11bb6.aerius.nl
 user234.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11-87.aerius.nl
 120e176ed33909bcc77f6bc70893b553.aerius.nl
 smtp35.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0567e816-07d6-40b3-9dcd-f91e2e7e76c4.aerius.nl
-www.0-calculator.aerius.nl
+0-calculator.aerius.nl
 11192521403952test-calculator.aerius.nl
 00ck3d5r.aerius.nl
 10997.aerius.nl
@@ -755,7 +751,7 @@ smtp20.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 105test-register.aerius.nl
 07226artslag.aerius.nl
 107-62nexus-docker.aerius.nl
-www.117-acceptatie.aerius.nl
+117-acceptatie.aerius.nl
 0com.aerius.nl
 11192521404256webmail.aerius.nl
 0-i-07226ffa3f0fe084d-a28a00eftest.aerius.nl
@@ -776,7 +772,7 @@ test-scenario.04-acc-vpn.aerius.nl
 104-172.aerius.nl
 10369.aerius.nl
 112-146.aerius.nl
-www.116-acceptatie-meander.aerius.nl
+116-acceptatie-meander.aerius.nl
 mgmt.0755-oopp.aerius.nl
 101domain-melding.aerius.nl
 091.aerius.nl
@@ -787,7 +783,7 @@ genesis.051new.aerius.nl
 10bf.aerius.nl
 11192521403959-monitor.aerius.nl
 041rk1atie-connect.aerius.nl
-www.manager.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+manager.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11290521402554monitor.aerius.nl
 10kmgmt.aerius.nl
 073-acceptatie-calculator.aerius.nl
@@ -875,9 +871,8 @@ depannage-volet-roulant.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401242acceptatie-scenario.aerius.nl
 11-mattermost.aerius.nl
 static3.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.selfservice.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 114.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.10webmail.aerius.nl
+10webmail.aerius.nl
 11wangyulechengkexinma.aerius.nl
 114-217.aerius.nl
 0-i-07226ffa3f0fe084d-a28a00efcom.aerius.nl
@@ -907,7 +902,7 @@ index3.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 07226ffa3f0fe084det-fr.aerius.nl
 11k-gitlab.aerius.nl
 11285521401252imaer.aerius.nl
-www.rww.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+rww.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 112.aerius.nl
 0markt-overon.aerius.nl
 1098c.aerius.nl
@@ -917,7 +912,7 @@ www.rww.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0815-s1-fx01.aerius.nl
 11c-lightning.aerius.nl
 101-11.aerius.nl
-www.status.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+status.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 007zuqiujishibifenwang.aerius.nl
 11948.aerius.nl
 11kimaer.aerius.nl
@@ -989,14 +984,14 @@ accounting.aerius.nl
 1-lagg0-c002-pdx001.aerius.nl
 10acceptatie-connect.aerius.nl
 11290521402570klikmodel.aerius.nl
-www.10-acceptatie-monitor.aerius.nl
+10-acceptatie-monitor.aerius.nl
 host.042e4f8lajp359e1cb25-dev-cms.aerius.nl
 tec.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 114-x.aerius.nl
 042test.aerius.nl
-www.118mattermost.aerius.nl
+118mattermost.aerius.nl
 110-244.aerius.nl
-www.113-imaer.aerius.nl
+113-imaer.aerius.nl
 055newtest.aerius.nl
 11290521402558pdok.aerius.nl
 108new-www.aerius.nl
@@ -1009,7 +1004,7 @@ extras.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401255-acceptatie-pdok.aerius.nl
 11192521403949-acceptatie-scenario.aerius.nl
 11290521402551acceptatie-calculator.aerius.nl
-www.v1.1-mattermost.aerius.nl
+v1.1-mattermost.aerius.nl
 test.10.aerius.nl
 04-acc-vpnacceptatie-monitor.aerius.nl
 11-register.aerius.nl
@@ -1044,7 +1039,7 @@ info.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 lightning.1012.aerius.nl
 1-legend.aerius.nl
 104-248-56-159.aerius.nl
-rww.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 192.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401256acceptatie-calculator.aerius.nl
 0a326d.aerius.nl
@@ -1056,7 +1051,7 @@ hugo.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 009003422239ties.aerius.nl
 0879.aerius.nl
 11rer-nexus-docker.aerius.nl
-www.cabinet.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+cabinet.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 042e4f8lajp359e1cb25-on.aerius.nl
 11ir7o7198g948.aerius.nl
 105-gitlab.aerius.nl
@@ -1070,7 +1065,6 @@ favicon.ico.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0-2023-01-18.aerius.nl
 00408cac925ccceptatie-scenario.aerius.nl
 11dtest-connect.aerius.nl
-www.02.aerius.nl
 0atie-pdok.aerius.nl
 105-64.aerius.nl
 1-139.aerius.nl
@@ -1163,7 +1157,7 @@ pgp.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11-genesis.aerius.nl
 oscar.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11k-meander.aerius.nl
-www.11nexus.aerius.nl
+11nexus.aerius.nl
 10831.aerius.nl
 101-legend.aerius.nl
 112meander.aerius.nl
@@ -1232,7 +1226,7 @@ host03.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0252.aerius.nl
 100-test-scenario.aerius.nl
 116-147.aerius.nl
-www.115-genesis.aerius.nl
+115-genesis.aerius.nl
 05cse-z56i2kerisere0410dvkv-premiertytcosvpncloud-cse.aerius.nl
 0433.aerius.nl
 testsite.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
@@ -1271,7 +1265,6 @@ nitor.aerius.nl
 11192521404251-webmail.aerius.nl
 001manatie-imaer.aerius.nl
 11290521402564-test-melding.aerius.nl
-why.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 119-acceptatie-connect.aerius.nl
 027ff270d07ca12606eac0befb876ac1.aerius.nl
 04ws3t1.aerius.nl
@@ -1342,7 +1335,7 @@ test-register.10.aerius.nl
 its.1.aerius.nl
 01-wus.aerius.nl
 0f15f8deeb203a653b95ebbdcbef343d.aerius.nl
-www.117-melding.aerius.nl
+117-melding.aerius.nl
 003kumuhreadcosta-trackingdb-tw-okta-704kumuhreadread.aerius.nl
 test-register.0755-oopp.aerius.nl
 108-62-acceptatie-pdok.aerius.nl
@@ -1386,7 +1379,7 @@ lightning.1.aerius.nl
 052517444781.aerius.nl
 106-167.aerius.nl
 1-test-scenario.aerius.nl
-www.118nexus.aerius.nl
+118nexus.aerius.nl
 08aadf58-2eb8-4a38-ada0-f922537afacc.aerius.nl
 11192521403955-imaer.aerius.nl
 120mail.aerius.nl
@@ -1435,7 +1428,6 @@ ftpirosg1.0.aerius.nl
 11290521402568test.aerius.nl
 102f5.aerius.nl
 10255.aerius.nl
-001.aerius.nl
 0xfffffff8.aerius.nl
 117111.aerius.nl
 11192521403961pdok.aerius.nl
@@ -1461,7 +1453,6 @@ acceptatie-pdok.0hdfdi.aerius.nl
 11192521404255imaer.aerius.nl
 0d5d56e4c2cda578287ec28f335d76a4.aerius.nl
 12167.aerius.nl
-phone.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0-2022-10-28.aerius.nl
 100pdok.aerius.nl
 ntp3.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
@@ -1513,8 +1504,8 @@ foro.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521403944mgmt.aerius.nl
 11290521402566acceptatie-meander.aerius.nl
 metric.0-i-07226ffa3f0fe084d-a28a00ef.aerius.nl
-www.1-regionaal-register.aerius.nl
-www.0-acceptatie-connect.aerius.nl
+1-regionaal-register.aerius.nl
+0-acceptatie-connect.aerius.nl
 wachtwoorden.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 08aoyunhuizhongguozuqiu.aerius.nl
 0b041e8b624dcea32b1cf573c816f61c.aerius.nl
@@ -1526,12 +1517,11 @@ k8s-dev.aerius.nl
 error-espanol.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0-i-07226ffa3f0fe084d-a28a00efprod.aerius.nl
 106-76.aerius.nl
-www.025.aerius.nl
+025.aerius.nl
 042e4f8lajp359e1cb25-dev-cms-of.aerius.nl
 111-146.aerius.nl
 121-scenario.aerius.nl
 mychart.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-inside.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 00200.aerius.nl
 10gtest-connect.aerius.nl
 08c1a776906d94ca8842bb04ec83c492.aerius.nl
@@ -1553,7 +1543,7 @@ php.aerius.nl
 07c14b3b51ebeed4e25ec17bd3cd0e71.aerius.nl
 091c5512f73892450c36ddd0ac6b7167.aerius.nl
 1104893230.aerius.nl
-www.113-meander.aerius.nl
+113-meander.aerius.nl
 107-238.aerius.nl
 11tty-mail.aerius.nl
 1015nexus-docker.aerius.nl
@@ -1650,7 +1640,7 @@ ebook.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521403947-nexus.aerius.nl
 espresso.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521404256lightning.aerius.nl
-www.jobs.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+jobs.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 110-12.aerius.nl
 114-acceptatie-imaer.aerius.nl
 1014.aerius.nl
@@ -1659,7 +1649,6 @@ www.jobs.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 ingebed.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0-lote4kids.aerius.nl
 11290521402552acceptatie.aerius.nl
-www.co.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 12-meander.aerius.nl
 ghcpi.aerius.nl
 10-112.aerius.nl
@@ -1698,7 +1687,7 @@ stg.0-i-07226ffa3f0fe084d-a28a00ef.aerius.nl
 11290521402551acceptatie-monitor.aerius.nl
 101.aerius.nl
 daad.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.phpmyadmin.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+phpmyadmin.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 08prospectus.aerius.nl
 0df5f63d-2f9e-4809-bced-e0999264b093.aerius.nl
 107-62-acceptatie.aerius.nl
@@ -1865,7 +1854,7 @@ ils.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0000-mgmt.aerius.nl
 genesis.1.aerius.nl
 11192521404256acceptatie-pdok.aerius.nl
-www.galerie.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+galerie.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 pcwww.0.aerius.nl
 10534.aerius.nl
 1005-ks-okta-mq0faradayauthorizationjupiter-custody-ui-demo.aerius.nl
@@ -1973,7 +1962,7 @@ imaer.1015.aerius.nl
 10b99de704df3769a31e5f65508a9546.aerius.nl
 0dok2.aerius.nl
 11290521402558-test-connect.aerius.nl
-www.0imaer.aerius.nl
+0imaer.aerius.nl
 genesis.12.aerius.nl
 03-7.aerius.nl
 114-118.aerius.nl
@@ -1993,9 +1982,9 @@ dev.11.aerius.nl
 118-52.aerius.nl
 10ed.aerius.nl
 0000bc80000000005755.aerius.nl
-www.116-acceptatie-scenario.aerius.nl
+116-acceptatie-scenario.aerius.nl
 11196.aerius.nl
-www.121-hostmaster.aerius.nl
+121-hostmaster.aerius.nl
 adminservice.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11290521402566-imaer.aerius.nl
 11-14.aerius.nl
@@ -2052,7 +2041,7 @@ node2.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 mx58.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0612023at.aerius.nl
 10ef3e15c08b43ad4dfa14af3135d68c.aerius.nl
-www.10por1.aerius.nl
+10por1.aerius.nl
 discussie.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11500.aerius.nl
 11192521404261-acceptatie.aerius.nl
@@ -2124,14 +2113,13 @@ mohg.112.aerius.nl
 1072e.aerius.nl
 102-test-monitor.aerius.nl
 00ken-acc.aerius.nl
-10acceptatie-monitor.aerius.nl
 11285521401255-imaer.aerius.nl
 test.12.aerius.nl
 118-208.aerius.nl
 1014test-scenario.aerius.nl
 skin.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 dtc.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.0.aerius.nl
+0.aerius.nl
 gitlab.1.aerius.nl
 116-49.aerius.nl
 0k-imaer.aerius.nl
@@ -2251,7 +2239,6 @@ az-dev-ftp-p.1.aerius.nl
 0mepm7m4.aerius.nl
 06552ec41486.aerius.nl
 pdok.12.aerius.nl
-galerie.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 07226-acc.aerius.nl
 109-75.aerius.nl
 11285521401260-acceptatie-imaer.aerius.nl
@@ -2306,7 +2293,7 @@ intl.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 aantal.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 10305.aerius.nl
 msh.12.aerius.nl
-www.121-nexus.aerius.nl
+121-nexus.aerius.nl
 118aankoopcalculator.aerius.nl
 08sprod.aerius.nl
 11285521401244mattermost.aerius.nl
@@ -2343,7 +2330,6 @@ connect.1.aerius.nl
 tools.aerius.nl
 076.aerius.nl
 117-201.aerius.nl
-www.11mattermost.aerius.nl
 californiastateautomobileassociation.112.aerius.nl
 0htning.aerius.nl
 0027vbw99j-apps.aerius.nl
@@ -2360,7 +2346,7 @@ get-bestand.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 121-regionaal-register.aerius.nl
 0a34cb09873ce7e31fbf61f50e6514fe.aerius.nl
 mx36.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.120-acceptatie-meander.aerius.nl
+120-acceptatie-meander.aerius.nl
 0-198.aerius.nl
 0566d554d572fa45cc61a0a53abe7424.aerius.nl
 11k-acceptatie-connect.aerius.nl
@@ -2398,7 +2384,6 @@ p.009003422239intern.aerius.nl
 0629.aerius.nl
 11290521402567legend.aerius.nl
 11290521402551test.aerius.nl
-www.serveur.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 depannage-electricien.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 042e4f8lajp359e1cb25-dev-cms-media.aerius.nl
 0nd.aerius.nl
@@ -2420,7 +2405,6 @@ mail.0.aerius.nl
 11-acceptatie-meander.aerius.nl
 0505.aerius.nl
 03fd689a5c27fe1b5a516e65.aerius.nl
-0-calculator.aerius.nl
 1.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 test-monitor.09.aerius.nl
 register.10.aerius.nl
@@ -2462,7 +2446,6 @@ acceptatie.05.aerius.nl
 145.32.153.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 114acceptatie-melding.aerius.nl
 009003422239f3f5dmarc.aerius.nl
-jobs.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 rent.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401256-acceptatie-calculator.aerius.nl
 0-cp.aerius.nl
@@ -2472,7 +2455,6 @@ rent.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 107-62-scenario.aerius.nl
 screenshot.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 102-80.aerius.nl
-025.aerius.nl
 005005.aerius.nl
 120mattermost.aerius.nl
 10573.aerius.nl
@@ -2505,7 +2487,6 @@ genesis.03ujdd0.aerius.nl
 042e4f8lajp359e1cb27-dev-cms.aerius.nl
 kh.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 100088.aerius.nl
-www.12.aerius.nl
 1-ids.aerius.nl
 11742.aerius.nl
 ip14.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
@@ -2530,7 +2511,6 @@ arch-1.1.aerius.nl
 11192521404247gitlab.aerius.nl
 0e9e3209fdab9eb51ce6fd8116f75eec.aerius.nl
 114-74.aerius.nl
-121-hostmaster.aerius.nl
 pc221.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0jquery-tablednd.aerius.nl
 108klikmodel.aerius.nl
@@ -2562,7 +2542,7 @@ hostmaster.10.aerius.nl
 106-ftp.aerius.nl
 11271227162183414b3514791530.aerius.nl
 0reracceptatie-monitor.aerius.nl
-www.117-connect.aerius.nl
+117-connect.aerius.nl
 0fwww6-3.aerius.nl
 04f3e085de6122371f942fb38049bde7.aerius.nl
 srv22.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
@@ -2571,7 +2551,7 @@ srv22.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0b9f8f8a5a1ff6ca34a1eca95a8dce1f.aerius.nl
 109-69.aerius.nl
 09f11e1878c18a9b618fc6a485710995.aerius.nl
-www.115-test-melding.aerius.nl
+115-test-melding.aerius.nl
 11-check.aerius.nl
 0b75076a33835a43d80837df37071113.aerius.nl
 104-186.aerius.nl
@@ -2586,12 +2566,11 @@ mx198.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 1012-nexus-docker.aerius.nl
 100-161.aerius.nl
 11285521401240-mail.aerius.nl
-www.118-acceptatie-scenario.aerius.nl
+118-acceptatie-scenario.aerius.nl
 ns2.dns.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 104-62test-scenario.aerius.nl
 1-89.aerius.nl
 wwwstore-sas.0.aerius.nl
-www.core.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 099.aerius.nl
 113-204.aerius.nl
 112apptst.aerius.nl
@@ -2612,7 +2591,7 @@ prijslijst.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 250.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 g.0.aerius.nl
 00033.aerius.nl
-www.113-connect.aerius.nl
+113-connect.aerius.nl
 45.116.250.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 104-63.aerius.nl
 110g9513643e3o.aerius.nl
@@ -2623,7 +2602,7 @@ www.113-connect.aerius.nl
 002b809ac818346afd423a178cf438bd.aerius.nl
 08725c8d073973465ed4cd89a5ae8dd2.aerius.nl
 118acceptatie.aerius.nl
-www.117-mattermost.aerius.nl
+117-mattermost.aerius.nl
 04-acc-vpnacceptatie-register.aerius.nl
 colli.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 07226federationtls2test.aerius.nl
@@ -2636,7 +2615,7 @@ colli.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 12-187.aerius.nl
 0231.aerius.nl
 1-win-bk.aerius.nl
-www.xn--h1aedf6aze.1000rub.aerius.nl
+xn--h1aedf6aze.1000rub.aerius.nl
 101-acceptatie-melding.aerius.nl
 dev-www.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 103regionaal-register.aerius.nl
@@ -2651,7 +2630,6 @@ openhouden.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 04c88881b77977560ff5a5fb3a9a2393.aerius.nl
 0n-isp-1-2234.aerius.nl
 11192521404253dev.aerius.nl
-120test-calculator.aerius.nl
 11cmattermost.aerius.nl
 srv.042e4f8lajp359e1cb25-dev-cms.aerius.nl
 host-116.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
@@ -2659,9 +2637,7 @@ host-116.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 1-private.aerius.nl
 05wanouguan.aerius.nl
 103-6-54-198.aerius.nl
-www.1111.aerius.nl
 login.042e4f8lajp359e1cb25-dev-cms.aerius.nl
-www.sip.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 1001-delices-de-houria.aerius.nl
 010582633b2c624a2149b4d20bb3fc67.aerius.nl
 dns.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
@@ -2692,7 +2668,6 @@ prijsstelling.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 114-172.aerius.nl
 stores.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 08b0379bdfa3f29b16556c694d7c085d.aerius.nl
-www.112acilkiyafetler.aerius.nl
 114-146.aerius.nl
 man.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 089cdc6bdaa1f92053b9cc60a6535085.aerius.nl
@@ -2749,7 +2724,7 @@ whmcs.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 117test.aerius.nl
 disdls.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 101-62test-scenario.aerius.nl
-www.115test-monitor.aerius.nl
+115test-monitor.aerius.nl
 073-nexus-docker.aerius.nl
 10wb0908.aerius.nl
 0d44db40b88296c4dc8075d35fea08cf.aerius.nl
@@ -2788,7 +2763,7 @@ meander.12.aerius.nl
 009003422239internulieren-acc.aerius.nl
 10286.aerius.nl
 120ftp.aerius.nl
-www.1.aerius.nl
+1.aerius.nl
 097.aerius.nl
 10e0e.aerius.nl
 120thingsin20years.aerius.nl
@@ -2839,7 +2814,7 @@ x21.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 lbtest.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11-185.aerius.nl
 test-connect.10.aerius.nl
-www.120melding.aerius.nl
+120melding.aerius.nl
 11-acceptatie-pdok.aerius.nl
 ip236.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 121-149.aerius.nl
@@ -2860,7 +2835,7 @@ restoredchurchofgod.112.aerius.nl
 09-scenario.aerius.nl
 microsite.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 12-imaer.aerius.nl
-www.117-test-monitor.aerius.nl
+117-test-monitor.aerius.nl
 test-monitor.0000.aerius.nl
 0acceptatie.aerius.nl
 11192521403958klikmodel.aerius.nl
@@ -2875,7 +2850,7 @@ acceptatie-scenario.04-acc-vpn.aerius.nl
 106-23.aerius.nl
 12-monitor.aerius.nl
 ip70.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.118scenario.aerius.nl
+118scenario.aerius.nl
 1-6.aerius.nl
 mail10.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 103-117.aerius.nl
@@ -2938,7 +2913,6 @@ nexus-docker.0755-oopp.aerius.nl
 11290521402564-test.aerius.nl
 11285521401242-search.aerius.nl
 x52.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.113-dev.aerius.nl
 x66.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 026.aerius.nl
 0162.aerius.nl
@@ -2964,11 +2938,9 @@ host.0-nexus-docker-cn.aerius.nl
 0hdfdicceptatie.aerius.nl
 1121.aerius.nl
 static.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.mattermost.1014.aerius.nl
 109-143.aerius.nl
 112-196.aerius.nl
 112wg.aerius.nl
-www.119acceptatie-calculator.aerius.nl
 11192521403958-connect.aerius.nl
 xena.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 10melding.aerius.nl
@@ -2986,12 +2958,11 @@ ecomm.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 09search.aerius.nl
 images4.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401255-test.aerius.nl
-www.118-mail.aerius.nl
+118-mail.aerius.nl
 11290521402559hostmaster.aerius.nl
 mirror1.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 1183.aerius.nl
 07226federationtls-dev.aerius.nl
-www.mx2.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 016-gxu-216.aerius.nl
 108-216.aerius.nl
 115-24.aerius.nl
@@ -3062,7 +3033,7 @@ mta02.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401260-test-melding.aerius.nl
 114-legend.aerius.nl
 123.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.webserver.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+webserver.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 calculator.12.aerius.nl
 111-194.aerius.nl
 11192521404252-webmail.aerius.nl
@@ -3095,8 +3066,6 @@ acceptatie-scenario.02-acc-vpn.aerius.nl
 1-amc-feucht.aerius.nl
 110acceptatie-meander.aerius.nl
 1012-imaer.aerius.nl
-1000.aerius.nl
-2.1.aerius.nl
 115-158.aerius.nl
 pidlabelling.users.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11code-net.aerius.nl
@@ -3110,13 +3079,11 @@ missouri.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 118-102.aerius.nl
 077.aerius.nl
 10347.aerius.nl
-www.120hostmaster.aerius.nl
+120hostmaster.aerius.nl
 f.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521404259acceptatie-melding.aerius.nl
 06201320ac5e5b726796ca38a042c9c1.aerius.nl
-status.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 06115575e4df7648d65a289c2401f85a.aerius.nl
-0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0os3hhk5.aerius.nl
 1-68.aerius.nl
 117919.aerius.nl
@@ -3320,7 +3287,6 @@ cpanel.103-14-99-229.aerius.nl
 112-41.aerius.nl
 00s.aerius.nl
 06nianshijiebeijuesai.aerius.nl
-cabinet.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11ir7o7198g9.aerius.nl
 11285521401249mgmt.aerius.nl
 047a1fcc4e1e9366d9b1f83b3f9c9df9.aerius.nl
@@ -3365,7 +3331,6 @@ machine.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 00afbb704ad5c407a86e5a46374c40e8.aerius.nl
 11086qibocailaotoubocailaotou.aerius.nl
 144.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.11test-register.aerius.nl
 1110.aerius.nl
 11wangyulechengzhenzhengwangzhi.aerius.nl
 11285521401254-webmail.aerius.nl
@@ -3425,7 +3390,7 @@ calculator.101domain.aerius.nl
 115acceptatie-monitor.aerius.nl
 103-62-acceptatie-calculator.aerius.nl
 0-80.aerius.nl
-www.119scenario.aerius.nl
+119scenario.aerius.nl
 0-nexus-docker-cn-dev-cms.aerius.nl
 234.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401245nexus-docker.aerius.nl
@@ -3463,7 +3428,7 @@ statistics.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 100628-1440.aerius.nl
 calculator.11.aerius.nl
 lions.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.120register.aerius.nl
+120register.aerius.nl
 103-126.aerius.nl
 easyriver.212.194.103.104.aerius.nl
 11onmyown.aerius.nl
@@ -3487,7 +3452,6 @@ freeip66.175.1.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0euro.aerius.nl
 114mattermost.aerius.nl
 12-acceptatie-pdok.aerius.nl
-0.aerius.nl
 106-test.aerius.nl
 meander.1012.aerius.nl
 041c0031-a350-44c7-98a1-3d051183db0f.aerius.nl
@@ -3568,8 +3532,6 @@ cas.02b73a.aerius.nl
 085.aerius.nl
 0a59840ccdde9aee097ad8fa887bf3af.aerius.nl
 114-208.aerius.nl
-www.genesis.aerius.nl
-video.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 000hotdoll000.aerius.nl
 host-178.219.114.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 110-7.aerius.nl
@@ -3609,7 +3571,6 @@ search.02-acc-vpn.aerius.nl
 11285521401252-genesis.aerius.nl
 acceptatie-pdok.11.aerius.nl
 08a5d17fece019fdef73f3267d2bcfbf.aerius.nl
-webserver.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 10bettaiyangchengyouxixiazai.aerius.nl
 olb.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 109-176.aerius.nl
@@ -3633,7 +3594,6 @@ ivy.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401243-pdok.aerius.nl
 access.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 4.2.2.1.aerius.nl
-www.project.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 100-25.aerius.nl
 0tty-search.aerius.nl
 10000won.aerius.nl
@@ -3643,8 +3603,7 @@ mattermost.1.aerius.nl
 11192521403961klikmodel.aerius.nl
 110-nexus.aerius.nl
 0lth5u58.aerius.nl
-1.aerius.nl
-www.betterday.users.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
+betterday.users.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0612023ffa6994zefkaartsg108-tst.aerius.nl
 11192521403947test-register.aerius.nl
 12037.aerius.nl
@@ -3722,11 +3681,9 @@ sartoriustemplate.112.aerius.nl
 112-242.aerius.nl
 11285521401246klikmodel.aerius.nl
 0473.aerius.nl
-www.114acceptatie-monitor.aerius.nl
 0e7ce2e838a96c0453c12cb14779fda0.aerius.nl
 12-101.aerius.nl
 www-private.mattermost.10.aerius.nl
-www.10thmarines.aerius.nl
 big5.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 110-107.aerius.nl
 00-hostmaster.aerius.nl
@@ -3747,7 +3704,6 @@ host-27.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 078-whz-188.aerius.nl
 106-158.aerius.nl
 111-154.aerius.nl
-www.calculator.aerius.nl
 11192521403963register.aerius.nl
 1014test-melding.aerius.nl
 05ddd.aerius.nl
@@ -3763,8 +3719,7 @@ europe.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 01027921288.aerius.nl
 11acceptatie-pdok.aerius.nl
 112-dev.aerius.nl
-www.0-revelation.aerius.nl
-www.118acceptatie-monitor.aerius.nl
+118acceptatie-monitor.aerius.nl
 113ftp.aerius.nl
 103-62monitor.aerius.nl
 10-test-melding.aerius.nl
@@ -3782,12 +3737,10 @@ eportfolio.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 07226er.aerius.nl
 108-170.aerius.nl
 hipaa.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-115test-monitor.aerius.nl
 109-234.aerius.nl
 0cceptatie-melding.aerius.nl
 0fwww-61.aerius.nl
 10zyxwvutsrqponmlk.aerius.nl
-www.11-acceptatie-monitor.aerius.nl
 10g-acceptatie-calculator.aerius.nl
 101-165.aerius.nl
 119-96.aerius.nl
@@ -3801,7 +3754,7 @@ fred.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11185.aerius.nl
 11g-imaer.aerius.nl
 08083.aerius.nl
-www.0062.aerius.nl
+0062.aerius.nl
 11-dev.aerius.nl
 10db5.aerius.nl
 11285521401257-test-monitor.aerius.nl
@@ -3857,7 +3810,7 @@ zealous-tesla.103-90-230-18.aerius.nl
 1015test-connect.aerius.nl
 ip-host.234.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521404260acceptatie-imaer.aerius.nl
-www.acceptatie-monitor.1.aerius.nl
+acceptatie-monitor.1.aerius.nl
 x25.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 107-20-150-66.aerius.nl
 107-klikmodel.aerius.nl
@@ -3876,7 +3829,7 @@ acceptatie-scenario.041rk1.aerius.nl
 108-62lightning.aerius.nl
 11-86.aerius.nl
 11192521403961acceptatie-imaer.aerius.nl
-www.10-test-calculator.aerius.nl
+10-test-calculator.aerius.nl
 0c-acceptatie-connect.aerius.nl
 0755-ooppwww.aerius.nl
 0c8yr7hj.aerius.nl
@@ -3897,7 +3850,6 @@ uat.009003422239intern.aerius.nl
 10dregionaal-register.aerius.nl
 11290521402557-mgmt.aerius.nl
 103acceptatie-melding.aerius.nl
-www.saratov.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521403952-legend.aerius.nl
 118-161.aerius.nl
 0794.aerius.nl
@@ -3957,8 +3909,8 @@ eu.009003422239intern.aerius.nl
 11737.aerius.nl
 gitlab.05.aerius.nl
 111accor.aerius.nl
-www.0-dev.aerius.nl
-www.00408cac925c-mattermost.aerius.nl
+0-dev.aerius.nl
+00408cac925c-mattermost.aerius.nl
 0guzhan.aerius.nl
 09898e66a34f0aa8a624e9e2928cdf34.aerius.nl
 0pjzo3zk.aerius.nl
@@ -3982,7 +3934,7 @@ qr.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 112appacceptatie-melding.aerius.nl
 gist.aerius.nl
 112-236.aerius.nl
-www.120calculator.aerius.nl
+120calculator.aerius.nl
 000705.aerius.nl
 11nana.aerius.nl
 database.searching.net.1.aerius.nl
@@ -3990,7 +3942,7 @@ database.searching.net.1.aerius.nl
 0011cn.aerius.nl
 home.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 108c5.aerius.nl
-www.120test-melding.aerius.nl
+120test-melding.aerius.nl
 0-assets-docs-staging.aerius.nl
 12-melding.aerius.nl
 11358.aerius.nl
@@ -4003,7 +3955,7 @@ mail29.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 1107.aerius.nl
 acceptatie-connect.10jaar.aerius.nl
 02-acc-vpn.aerius.nl
-www.121-test-monitor.aerius.nl
+121-test-monitor.aerius.nl
 11192521403948-dev.aerius.nl
 0jmg2e3s.aerius.nl
 12-mattermost.aerius.nl
@@ -4028,13 +3980,11 @@ iphone.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11ded.aerius.nl
 01universe.aerius.nl
 12-test-melding.aerius.nl
-www.host1.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 0000imaer.aerius.nl
 112-82.aerius.nl
 emv27.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 12067qixingcaijieguo.aerius.nl
 110-91.aerius.nl
-emm.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11285521401256test.aerius.nl
 108-gitlab.aerius.nl
 09pdok.aerius.nl
@@ -4075,7 +4025,6 @@ test.1.aerius.nl
 11285521401240-mgmt.aerius.nl
 1112.aerius.nl
 100de.aerius.nl
-120-acceptatie-meander.aerius.nl
 106-80.aerius.nl
 111-238.aerius.nl
 0801.aerius.nl
@@ -4101,7 +4050,6 @@ klimaatwebwinkel.likmodel.10.aerius.nl
 0077f97438c5e4a9128039f8aa750478.aerius.nl
 11192521403960scenario.aerius.nl
 118-115.aerius.nl
-www.database.searching.net.1.aerius.nl
 0-lajp.aerius.nl
 acceptatie-meander.12.aerius.nl
 net.1.aerius.nl
@@ -4129,12 +4077,11 @@ whm.104-156-49-247.aerius.nl
 00o00.aerius.nl
 0dpp.aerius.nl
 0du-ub75dede6-c233-s1507785175-i95143f0d.aerius.nl
-remote.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11e65.aerius.nl
 revelation.11.aerius.nl
 klimaatwebwinkel.likmodel.12.aerius.nl
 10_acceptatie.aerius.nl
-www.0960768498.aerius.nl
+0960768498.aerius.nl
 10886.aerius.nl
 0755-oopp-imaer.aerius.nl
 connect.12.aerius.nl
@@ -4235,7 +4182,6 @@ imaer.1.aerius.nl
 106-genesis.aerius.nl
 101-62-acceptatie-pdok.aerius.nl
 alba.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
-www.11lightning.aerius.nl
 021.aerius.nl
 00000004000000148000test-scenario.aerius.nl
 0b7964cb706398ed9c93b1dc8d5f8a72.aerius.nl
@@ -4246,7 +4192,6 @@ init.0.aerius.nl
 03cc60d6fab401a7cd960f7998ecfa54.aerius.nl
 0_test-calculator.aerius.nl
 11989.aerius.nl
-phpmyadmin.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 119-215.aerius.nl
 www-aws.11-mattermost.aerius.nl
 u.0.aerius.nl
@@ -4299,12 +4244,11 @@ meander.09.aerius.nl
 027ac94a9e3d3e8a1e5d88e13cbb1a0c.aerius.nl
 diffs.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 09nexus-docker.aerius.nl
-www.11acceptatie.aerius.nl
+11acceptatie.aerius.nl
 06939e10fff0f65f6954652dfebbee2f.aerius.nl
 11290521402567-test-connect.aerius.nl
 11192521403956-search.aerius.nl
 11285521401251-genesis.aerius.nl
-acceptatie-monitor.1.aerius.nl
 020kumuhreadcosta-trackingdb-tw-okta-021kumuhreadread.aerius.nl
 0000bc80000000005959.aerius.nl
 0c958471780abf78e457070230827266.aerius.nl
@@ -4313,7 +4257,6 @@ acceptatie-monitor.1.aerius.nl
 sn.0-nexus-docker-cn.aerius.nl
 0api.aerius.nl
 055new-scenario.aerius.nl
-www.gallery.0883bdc8f5096b3e3969c69adef2156a.aerius.nl
 11192521404245imaer.aerius.nl
 grafana-dev.aerius.nl
 search-dev.aerius.nl

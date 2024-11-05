@@ -1,6 +1,6 @@
 license.widevine.com
 tukkvms003.widevine.com
-www.owa.widevine.com
+owa.widevine.com
 wwwtest.widevine.com
 license.staging.widevine.com
 integration.uat.widevine.com
@@ -15,7 +15,6 @@ uat-nightly.widevine.com
 license.uat.widevine.com
 secure-internal.widevine.com
 register.uat.widevine.com
-www.widevine.com
 uat-compat.widevine.com
 kirjvpn001.widevine.com
 bigbro.widevine.com
@@ -24,7 +23,6 @@ tukkvms001.widevine.com
 tukkvms002.widevine.com
 cn.widevine.com
 integration.widevine.com
-owa.widevine.com
 alt6326.widevine.com
 alt1628.widevine.com
 alt72716.widevine.com
@@ -602,7 +600,3 @@ alt35714.widevine.com
 alt93614.widevine.com
 alt3138.widevine.com
 alt2646.widevine.com
-*.widevine.com
-*.staging.widevine.com
-*.uat.widevine.com
-*.uat-nightly.widevine.com

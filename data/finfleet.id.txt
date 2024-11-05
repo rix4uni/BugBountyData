@@ -70,8 +70,6 @@ tracker-dev.express.finfleet.id
 tracker-staging.express.finfleet.id
 warehouse-dev.erp.finfleet.id
 warehouse-staging.erp.finfleet.id
-www.bo.finfleet.id
-www.finfleet.id
 yudi-test.finfleet.id
 3plapi-dev.expressx.finfleet.id
 3plapi-dev.finfleet.id
@@ -152,4 +150,3 @@ tracker-staging.expressx.finfleet.id
 tracker-staging.kgx.finfleet.id
 web-dev.finfleet.id
 web-staging.finfleet.id
-www.mail.finfleet.id

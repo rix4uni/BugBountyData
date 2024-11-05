@@ -1,7 +1,6 @@
 sf2aim.webmd.net
-*.webmd.net
 mail.webmd.net
-www.deploy.webmd.net
+deploy.webmd.net
 confluence.webmd.net
 sf2aim-qa01.webmd.net
 mobiledevices-iad1.webmd.net
@@ -35,7 +34,6 @@ ccsprod002.webmd.net
 legacyoapdx.webmd.net
 sip.webmd.net
 go.webmd.net
-deploy.webmd.net
 jiralab-ma1.webmd.net
 ns.webmd.net
 z-bnace-ivp-01.webmd.net
@@ -105,7 +103,7 @@ test.boards.my.webmd.net
 sales.webmd.net
 patch.images.webmd.net
 test-mhr.webmd.net
-www.wire.webmd.net
+wire.webmd.net
 eis.webmd.net
 shn.webmd.net
 onhealth.webmd.net
@@ -125,6 +123,5 @@ trk.ignite.webmd.net
 online.webmd.net
 ncontact.webmd.net
 atlwebmail.webmd.net
-www.webmd.net
-www.paperless.webmd.net
+paperless.webmd.net
 dcms.na.webmd.net

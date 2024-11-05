@@ -1,6 +1,5 @@
 go.tundra.com
 link.tundra.com
-www.tundra.com
 api.tundra.com
 catalogs.tundra.com
 community.tundra.com
@@ -11,5 +10,3 @@ service.tundra.com
 staging.tundra.com
 web-api.tundra.com
 wf.tundra.com
-www.api.tundra.com
-www.gateway.tundra.com

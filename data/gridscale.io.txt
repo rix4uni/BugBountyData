@@ -35,7 +35,6 @@ content.gridscale.io
 static-185-102-92-61.ipv4.gridscale.io
 redirector.gridscale.io
 turn.gridscale.io
-www.join.gridscale.io
 partner2.stage.gridscale.io
 papi.gridscale.io
 gsdemo-185-201-146-107.ipv4.demo.gridscale.io
@@ -53,7 +52,6 @@ static-185-102-92-56.ipv4.gridscale.io
 ae0-901.cr2.nbg.ipv4.gridscale.io
 core1.mgmt.access.gridscale.io
 grafana1.access.gridscale.io
-www.gridscale.io
 mymsg.stage.gridscale.io
 my.stage.gridscale.io
 gsdemo-185-201-146-38.ipv4.demo.gridscale.io

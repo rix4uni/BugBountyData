@@ -190,7 +190,6 @@ go.microstrategy.com
 mailgate2.microstrategy.com
 smtp.microstrategy.com
 remote-apac.microstrategy.com
-www.microstrategy.com
 vsb-washington.microstrategy.com
 mi-gw.microstrategy.com
 zscaler.microstrategy.com
@@ -241,4 +240,3 @@ sftp.microstrategy.com
 i2ba.microstrategy.com
 applications.lightning.microstrategy.com
 clouddemo.microstrategy.com
-*.microstrategy.com

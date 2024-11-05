@@ -1815,7 +1815,6 @@ eks-dev.ailab.ignite.harman.com
 samsung-ci-poprod.harman.com
 otaupdate-dev.harman.com
 hs.pro.harman.com
-www.live.harman.com
 live.harman.com
 apis.onecloud.harman.com
 tableau-store-prod-fca.store.ignite.harman.com
@@ -1834,5 +1833,4 @@ argocd.kdev.ignite.harman.com
 eks-att-prod-dmportal-plus.spark.harman.com
 eks-att-prod-core-apigw-plus.spark.harman.com
 techshelf.harman.com
-www.techshelf.harman.com
 cvat-7.stage.app.hollywood.harman.com

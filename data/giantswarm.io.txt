@@ -120,7 +120,6 @@ config-controller.giantswarm.io
 api.dev.giantswarm.io
 api.g8s.fra-1.giantswarm.io
 configs.provider.giantswarm.io
-www.giantswarm.io
 auth.giantswarm.io
 firstgen-docs.giantswarm.io
 application.giantswarm.io

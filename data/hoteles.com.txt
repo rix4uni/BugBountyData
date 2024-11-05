@@ -9,7 +9,6 @@ view.mail.hoteles.com
 es.hoteles.com
 us.hoteles.com
 es.grupos.hoteles.com
-www.hoteles.com
 eg.hoteles.com
 co.hoteles.com
 lookup.hoteles.com
@@ -21,7 +20,6 @@ ssl.hoteles.com
 br.hoteles.com
 mta.email.hoteles.com
 reserva.hoteles.com
-www.ssl.hoteles.com
 originb-www.hoteles.com
 origina-www.hoteles.com
 viajes.hoteles.com
@@ -40,8 +38,6 @@ alberta.hoteles.com
 sa.hoteles.com
 preprod-www.hoteles.com
 ssoriginb-www.hoteles.com
-*.hoteles.com
-*.grupos.hoteles.com
 foo.hoteles.com
 pages.pt.hoteles.com
 0.0.0.0.0.0.0.0.g_arg_hot_brand.hot_brand_esp_plural_exact.hoteles.com

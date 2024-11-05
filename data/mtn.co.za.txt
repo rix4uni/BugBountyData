@@ -1,5 +1,4 @@
-*.mtn.co.za
-*.play.mtn.co.za
+play.mtn.co.za
 105-209-206-114.access.mtn.co.za
 105-210-236-188.access.mtn.co.za
 105-236-0-65-esr-lo.mtn.co.za
@@ -8645,7 +8644,6 @@ p2.dmz.mtn.co.za
 partners.mtn.co.za
 passwordchange.mtn.co.za
 pay.mtn.co.za
-play.mtn.co.za
 playbundles.mtn.co.za
 portalsso.mtn.co.za
 portco.mtn.co.za
@@ -8761,14 +8759,7 @@ wifi.mtn.co.za
 wireless.mtn.co.za
 wlc-brc.mtn.co.za
 ws.mtn.co.za
-www.mtn.co.za
-www.gsmpro.mtn.co.za
-www.mmvd.mtn.co.za
-www.mtncloud.mtn.co.za
-www.onlinecms.mtn.co.za
-www.shortz.mtn.co.za
-www.socaas.mtn.co.za
-www.testbedplay.mtn.co.za
+testbedplay.mtn.co.za
 xsp.mtn.co.za
 xsp.ebu.mtn.co.za
 xsp2.mtn.co.za
@@ -8993,7 +8984,7 @@ ucc2u.in.ucc.mtn.co.za
 ucctut.in.ucc.mtn.co.za
 ucctuu.in.ucc.mtn.co.za
 mobizines.mtn.co.za
-www.onemail.mtn.co.za
+onemail.mtn.co.za
 stage-1app.mtn.co.za
 flamyarvb02.mtn.co.za
 ringtune.mtn.co.za
@@ -9007,9 +8998,9 @@ xtratime.mtn.co.za
 wwwstg.mtn.co.za
 flamyarvd01.mtn.co.za
 ebb.mtn.co.za
-www.wemail.mtn.co.za
+wemail.mtn.co.za
 jhvmail1.mtn.co.za
-www.stg.businessmarketplace.mtn.co.za
+stg.businessmarketplace.mtn.co.za
 tcpqa1.mtn.co.za
 bustraining.mtn.co.za
 aperture.mtn.co.za
@@ -9017,7 +9008,6 @@ shop-pprd.mtn.co.za
 wwww.webmail.mtn.co.za
 passwordselfservice.mtn.co.za
 businessmarketplace.mtn.co.za
-onemail.mtn.co.za
 nlamyarvu01.mtn.co.za
 nldmyarva01.mtn.co.za
 wwwmtnloaded.mtn.co.za
@@ -9104,11 +9094,10 @@ ricawap.mtn.co.za
 sms.mtn.co.za
 flamyarvs09.mtn.co.za
 rndext2.dmz.mtn.co.za
-www.warrior.mtn.co.za
+warrior.mtn.co.za
 w.mtn.co.za
 e-bus-uat.mtn.co.za
 myapps-t.mtn.co.za
-stg.businessmarketplace.mtn.co.za
 tfls-radome-web.mtn.co.za
 196-13-229-81.mtn.co.za
 fldsrbrvd02.mtn.co.za
@@ -9190,7 +9179,6 @@ nldeitrb5.mtn.co.za
 saw-mcaaa.mtn.co.za
 bms-ec.mtn.co.za
 saw-mcaaa-fl.mtn.co.za
-www.mtnloaded.mtn.co.za
 qa-serviceauth.mtn.co.za
 196-13-229-227.mtn.co.za
 mwws-qa.mtn.co.za
@@ -9237,7 +9225,6 @@ orbitesfweb.mtn.co.za
 196-13-229-174.mtn.co.za
 catalytic.mtn.co.za
 ptlstatic-gamerplus.mtn.co.za
-www.nms.mtn.co.za
 196-13-229-145.mtn.co.za
 activedb.mtn.co.za
 mtnmomo-qr.mtn.co.za
@@ -9246,7 +9233,6 @@ granada.mtn.co.za
 flaacsrva01.mtn.co.za
 196-13-229-63.mtn.co.za
 196-13-229-4.mtn.co.za
-www.learnhubplus.mtn.co.za
 196-13-229-137.mtn.co.za
 softwareinnovate.mtn.co.za
 api-online.mtn.co.za
@@ -9271,9 +9257,8 @@ es1staging.mtn.co.za
 cdi.mtn.co.za
 mtngprs3.mtn.co.za
 mywifi.mtn.co.za
-www.rentatomtom.co.za.mtn.co.za
+rentatomtom.co.za.mtn.co.za
 sift.mtn.co.za
-www.yelloed.mtn.co.za
 tfls-radome-web-jh.mtn.co.za
 196-13-229-228.mtn.co.za
 selector2._domainkey.mtn.co.za
@@ -9450,7 +9435,7 @@ dev.ebilling.mtn.co.za
 196-13-229-159.mtn.co.za
 196-13-229-114.mtn.co.za
 196-13-229-154.mtn.co.za
-www.hsf.mtn.co.za
+hsf.mtn.co.za
 odiprd_db.mtn.co.za
 mwws-dev.mtn.co.za
 api-online-uat.mtn.co.za
@@ -9495,7 +9480,6 @@ flafpprva03.mtn.co.za
 demogmtnapp.mtn.co.za
 c-ods2-prd.mtn.co.za
 soadig2esfweb.mtn.co.za
-testbedplay.mtn.co.za
 sdpreport.mtn.co.za
 ropjguuqtezem.mtn.co.za
 196-13-229-243.mtn.co.za
@@ -9775,7 +9759,6 @@ _dmarc.mtn.co.za
 196-13-229-53.mtn.co.za
 websensef5.mtn.co.za
 196-13-229-55.mtn.co.za
-hsf.mtn.co.za
 wdp.mtn.co.za
 196-13-229-129.mtn.co.za
 196-13-229-123.mtn.co.za
@@ -9786,7 +9769,6 @@ ismtp.mtn.co.za
 savematrix.mtn.co.za
 edgerelayrnd.mtn.co.za
 mits.mtn.co.za
-warrior.mtn.co.za
 bpmesfweb2.mtn.co.za
 196-13-229-224.mtn.co.za
 janus.mtn.co.za

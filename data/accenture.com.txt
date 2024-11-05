@@ -5309,7 +5309,6 @@ demandmgmt-mme-idc2.ciostage.accenture.com
 workplaceaudit-svc.accenture.com
 mojossp.accenture.com
 adtjazz3003.accenture.com
-www.accenture.com
 vrtdlccx1001.dir.svc.accenture.com
 vrtdlccx1002.dir.svc.accenture.com
 cloud-proxy.accenture.com
@@ -5457,7 +5456,6 @@ api.ehr.future.bpo.accenture.com
 fagtfr.ciostage.accenture.com
 fapmgr.ciostage.accenture.com
 dogood.accenture.com
-www.dogood.accenture.com
 fatmpmycompetency.ciostage.accenture.com
 spmd-api.ciostage.accenture.com
 spmd-api-ops.ciostage.accenture.com
@@ -5472,7 +5470,6 @@ ictadoption-dev.accenture.com
 mynavgreenitestimatoruat.ciostage.accenture.com
 mylearning-pi3.accenture.com
 cft-dtoc.accenture.com
-www.cft-dtoc.accenture.com
 paeshopprdvpn.accenture.com
 mgmt-paeshopprdvpn.accenture.com
 smart-uhcandidatesubscriber.accenture.com
@@ -5499,10 +5496,8 @@ thinktank.accenture.com
 lambda-sch-wd-int.ciodev.accenture.com
 sccalculator-apt.ciotest.accenture.com
 cft-dtoc-uat.accenture.com
-www.cft-dtoc-uat.accenture.com
 sccalculator-service.ciostage.accenture.com
 new-infolaboral.ciodev.accenture.com
-*.accenture.com
 sccalculator-service.accenture.com
 sccalculator-service-apt.ciotest.accenture.com
 mgmt-imagineaati-pavpn.accenture.com
@@ -5565,7 +5560,6 @@ pex.ciodev.accenture.com
 pex.accenture.com
 datm.uat.ciostage.accenture.com
 jira.contentanalytics.digital.accenture.com
-*.tower.accenture.com
 tower.accenture.com
 sm.smapicmdbstg.accenture.com
 smart-uhbillcodesubscriber.accenture.com
@@ -5712,7 +5706,7 @@ sapui5.xsa.idp-dev.accenture.com
 auditlog-server.xsa.idp-dev.accenture.com
 org-sap-devx-ui5.xsa.idp-dev.accenture.com
 org-sap-di-runner.xsa.idp-dev.accenture.com
-www.intelligentdata-xsa.idp-dev.accenture.com
+intelligentdata-xsa.idp-dev.accenture.com
 faiaspirenudgegenerator.accenture.com
 iaspire.services.accenture.com
 dfgke.ciodev.accenture.com
@@ -5732,7 +5726,6 @@ mysolutionplannernextgen-dtcalculator-sg.accenture.com
 mywizardcmw.ciotest.accenture.com
 usfoods-uat.accenture.com
 investor.accenture.com
-www.investor.accenture.com
 genwizardapi-ut1.accenture.com
 ndessvc-mdm-ca4-us.accenture.com
 capco-operations.ciotest.accenture.com
@@ -5747,12 +5740,9 @@ etbf.accenture.com
 mmertm.ciostage.accenture.com
 pbac-wrapper.cioperf.accenture.com
 industrygenai.accenture.com
-*.mcs.songassets.accenture.com
 mcs.songassets.accenture.com
-*.uxra.songassets.accenture.com
 uxra.songassets.accenture.com
 api.tfo.ctx.inn.accenture.com
-*.cns.songassets.accenture.com
 cns.songassets.accenture.com
 rewardsrulesengine-api.ciodev.accenture.com
 bi7-preprod.accenture.com
@@ -5781,9 +5771,9 @@ virtualospatching.accenture.com
 vrtva26368.dir.svc.accenture.com
 vrtva26369.dir.svc.accenture.com
 asutnextgen.accenture.com
-*.mypki-service.ciostage.accenture.com
+mypki-service.ciostage.accenture.com
 support-sbox6.accenture.com
-*.pmt.accenture.com
+pmt.accenture.com
 adtbitbucket001eu.dev.accenture.com
 support-postgres.accenture.com
 metrics-mc.airefinery.accenture.com
@@ -5823,7 +5813,6 @@ pavpn113001.accenture.com
 aquatest.abss.accenture.com
 clouddeliveryportal.accenture.com
 iop-gcot-wf.ciostage.accenture.com
-*.gce.songassets.accenture.com
 gce.songassets.accenture.com
 aa-crm-dev-vpn.accenture.com
 mgmt-aa-crm-dev-vpn.accenture.com
@@ -5833,7 +5822,7 @@ mmddpm.ciostage.accenture.com
 siewc1000.gdn.accenture.com
 siewc1001.gdn.accenture.com
 siewc1002.gdn.accenture.com
-*.accelerate.accenture.com
+accelerate.accenture.com
 sfdc-dashboard.it.accenture.com
 siefw1101.gdn.accenture.com
 siefw1102.gdn.accenture.com
@@ -5888,7 +5877,6 @@ mysolutionplanneranalyticsbotparallel-us.accenture.com
 acntertiary.accenture.com
 clientquality.accenture.com
 capco.operations.accenture.com
-www.capco.operations.accenture.com
 genai-isp-dev.accenture.com
 genai-ispapi-dev.accenture.com
 ff5-vpn.accenture.com

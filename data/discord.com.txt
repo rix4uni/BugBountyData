@@ -61,14 +61,11 @@ zendesk4.discord.com
 zendesk1.discord.com
 zendesk2.discord.com
 zendesk3.discord.com
-www.discord.com
-www.blog.discord.com
 newsletter.discord.com
 prod-wf1.discord.com
 prod-wf2.discord.com
 prod-wf3.discord.com
 static.discord.com
-*.discord.com
 cdn.discord.com
 developer.discord.com
 music.discord.com
@@ -107,7 +104,7 @@ apps.discord.com
 webmail.jut.discord.com
 webmail.discord.com
 gg.discord.com
-www.scamaz.discord.com
+scamaz.discord.com
 dominator.discord.com
 hs1-3885857._domainkey.discord.com
 laglounge.discord.com
@@ -179,7 +176,6 @@ partycats.discord.com
 pure-awesomeness.discord.com
 zendesk2._domainkey.discord.com
 cursed-ts.discord.com
-www.feedback.discord.com
 fly.discord.com
 dwww.discord.com
 smtp.mail.discord.com

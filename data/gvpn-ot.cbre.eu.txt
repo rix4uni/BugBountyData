@@ -2,7 +2,7 @@ uat-vaws.serviceinsightlocal.gvpn-ot.cbre.eu
 mypc-uag-au.gslb.gvpn-ot.cbre.eu
 cmms1.gvpn-ot.cbre.eu
 sky.gvpn-ot.cbre.eu
-www.uk.cmslistings.gvpn-ot.cbre.eu
+uk.cmslistings.gvpn-ot.cbre.eu
 gvpn-uat-gbrdc.gslb.gvpn-ot.cbre.eu
 uat-erix-research.gvpn-ot.cbre.eu
 jabber.gslb.gvpn-ot.cbre.eu
@@ -114,7 +114,7 @@ teamship.gvpn-ot.cbre.eu
 researchappppd.gvpn-ot.cbre.eu
 gbrdceway15.gvpn-ot.cbre.eu
 spbpmruntime.gvpn-ot.cbre.eu
-www.dataservices.gvpn-ot.cbre.eu
+dataservices.gvpn-ot.cbre.eu
 inspect.gvpn-ot.cbre.eu
 novypavlov.gvpn-ot.cbre.eu
 arcgis.gvpn-ot.cbre.eu
@@ -174,7 +174,7 @@ mypclab.gslb.gvpn-ot.cbre.eu
 ideashub.gvpn-ot.cbre.eu
 thehouseofproptech.gvpn-ot.cbre.eu
 primion.gvpn-ot.cbre.eu
-www.uat.assetiq.gvpn-ot.cbre.eu
+uat.assetiq.gvpn-ot.cbre.eu
 sharepoint-auth-old.gvpn-ot.cbre.eu
 dev-noti.serviceinsightlocal.gvpn-ot.cbre.eu
 ra.gvpn-ot.cbre.eu
@@ -192,7 +192,6 @@ mypc-uag-hk.gslb.gvpn-ot.cbre.eu
 dev-pmservice.serviceinsightlocal.gvpn-ot.cbre.eu
 ticketweb.gslb.gvpn-ot.cbre.eu
 sharepoint-auth.gvpn-ot.cbre.eu
-www.assetanalytics.gvpn-ot.cbre.eu
 testcloud.gvpn-ot.cbre.eu
 unicredit.gvpn-ot.cbre.eu
 dnstest.gvpn-ot.cbre.eu
@@ -305,13 +304,12 @@ walter.gvpn-ot.cbre.eu
 devspaincrm.uat.gvpn-ot.cbre.eu
 am-be.gvpn-ot.cbre.eu
 timetell-de-prd.gvpn-ot.cbre.eu
-www.mobile.gvpn-ot.cbre.eu
 ticketweb-prod.gvpn-ot.cbre.eu
-www.listingsresource.gvpn-ot.cbre.eu
+listingsresource.gvpn-ot.cbre.eu
 uat-erix-api.gvpn-ot.cbre.eu
 jobsearch.gvpn-ot.cbre.eu
 pluspropertyapi-uat.gvpn-ot.cbre.eu
-www.listingssearch.gvpn-ot.cbre.eu
+listingssearch.gvpn-ot.cbre.eu
 dev-authbridge.serviceinsightlocal.gvpn-ot.cbre.eu
 amex.gvpn-ot.cbre.eu
 trn-pmservice.serviceinsightlocal.gvpn-ot.cbre.eu
@@ -322,7 +320,7 @@ sharepoint-generic.uat.gvpn-ot.cbre.eu
 erixsmgapi-old.gvpn-ot.cbre.eu
 cmms-gw-ukwe-blue.serviceinsight.gvpn-ot.cbre.eu
 smg.gvpn-ot.cbre.eu
-www.residential.cmslistings.gvpn-ot.cbre.eu
+residential.cmslistings.gvpn-ot.cbre.eu
 testextranet.gvpn-ot.cbre.eu
 landx-api.aws.gvpn-ot.cbre.eu
 uat-gateway.serviceinsight.gvpn-ot.cbre.eu
@@ -337,7 +335,7 @@ webquoteclients.uat.gvpn-ot.cbre.eu
 coins.gvpn-ot.cbre.eu
 actualwestuat.listingsresources.gvpn-ot.cbre.eu
 cbcap.gvpn-ot.cbre.eu
-www.assetiq.gvpn-ot.cbre.eu
+assetiq.gvpn-ot.cbre.eu
 helpme.gvpn-ot.cbre.eu
 uat.listingsresource.gvpn-ot.cbre.eu
 ni-news.gvpn-ot.cbre.eu
@@ -368,7 +366,7 @@ sit-di.serviceinsightlocal.gvpn-ot.cbre.eu
 landx.aws.gvpn-ot.cbre.eu
 smp2.gvpn-ot.cbre.eu
 grg-api.gvpn-ot.cbre.eu
-www.uat.admin.assetiq.gvpn-ot.cbre.eu
+uat.admin.assetiq.gvpn-ot.cbre.eu
 dev.propertybook.gvpn-ot.cbre.eu
 sit-noti.serviceinsightlocal.gvpn-ot.cbre.eu
 loopapp.gvpn-ot.cbre.eu
@@ -436,19 +434,16 @@ plus.gvpn-ot.cbre.eu
 portal.gvpn-ot.cbre.eu
 scen.serviceinsightlocal.gvpn-ot.cbre.eu
 affiliatehub.gvpn-ot.cbre.eu
-www.preoccupied.gvpn-ot.cbre.eu
 plusbeta.gvpn-ot.cbre.eu
 erix.dev.upload.gvpn-ot.cbre.eu
 boardpapers-tst.gvpn-ot.cbre.eu
 gvpn.gslb.gvpn-ot.cbre.eu
 gvpn-uat.gvpn-ot.cbre.eu
 ssoextmfa.gvpn-ot.cbre.eu
-www.mycloud.gvpn-ot.cbre.eu
 dev-erix.gvpn-ot.cbre.eu
 kadaster.gvpn-ot.cbre.eu
 careers.gvpn-ot.cbre.eu
 plusmgmt02.gvpn-ot.cbre.eu
-www.helpme.gvpn-ot.cbre.eu
 esmdrsbcp002.gvpn-ot.cbre.eu
 dev-dyin.serviceinsightlocal.gvpn-ot.cbre.eu
 trn-authbridge.serviceinsightlocal.gvpn-ot.cbre.eu
@@ -460,7 +455,7 @@ sit-crsm.serviceinsightlocal.gvpn-ot.cbre.eu
 sso.gvpn-ot.cbre.eu
 vitecnovamobuat.gvpn-ot.cbre.eu
 sit-pmservice.serviceinsightlocal.gvpn-ot.cbre.eu
-www.gwsconnect.gvpn-ot.cbre.eu
+gwsconnect.gvpn-ot.cbre.eu
 emeaportal.gvpn-ot.cbre.eu
 authspaincrm.uat.gvpn-ot.cbre.eu
 ticketweb.gvpn-ot.cbre.eu
@@ -502,7 +497,6 @@ timetell.gvpn-ot.cbre.eu
 spbpmworkspace.gvpn-ot.cbre.eu
 rap-ot.gvpn-ot.cbre.eu
 intranet.gvpn-ot.cbre.eu
-www.gvpn-ot.cbre.eu
 mypcdr.gslb.gvpn-ot.cbre.eu
 flowscape.gvpn-ot.cbre.eu
 replica.argoweb-uat.gvpn-ot.cbre.eu
@@ -519,7 +513,6 @@ mydesktop.gvpn-ot.cbre.eu
 uipathorchestrator.gvpn-ot.cbre.eu
 gvpn-uat-esmdr.gslb.gvpn-ot.cbre.eu
 webassetsppd.gvpn-ot.cbre.eu
-assetiq.gvpn-ot.cbre.eu
 gvpn-uat-esmdr.gvpn-ot.cbre.eu
 sustainabilitytoolkit.gvpn-ot.cbre.eu
 grguat.gvpn-ot.cbre.eu
@@ -530,7 +523,7 @@ stagemysupplier.gvpn-ot.cbre.eu
 plusreportapi.gvpn-ot.cbre.eu
 plusdev.gvpn-ot.cbre.eu
 k2prd.gvpn-ot.cbre.eu
-www.cmslistings.gvpn-ot.cbre.eu
+cmslistings.gvpn-ot.cbre.eu
 maximo.gslb.gvpn-ot.cbre.eu
 trn-noti.serviceinsightlocal.gvpn-ot.cbre.eu
 authbridge.serviceinsightlocal.gvpn-ot.cbre.eu

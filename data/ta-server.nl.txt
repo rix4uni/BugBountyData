@@ -1,5 +1,4 @@
 plesk3.ta-server.nl
-www.ta-server.nl
 uptime-kuma.status.ta-server.nl
 aapanel.home.ta-server.nl
 billing-test.home.ta-server.nl
@@ -7,10 +6,9 @@ vpn.ta-server.nl
 server1.ta-server.nl
 webmail.ta-server.nl
 homee.ta-server.nl
-www.home.ta-server.nl
+home.ta-server.nl
 web.ta-server.nl
 status.server2.ta-server.nl
-home.ta-server.nl
 ns1.ta-server.nl
 status.ta-server.nl
 management-vpn.ta-server.nl
@@ -27,8 +25,7 @@ mta-sts.ta-server.nl
 noc.ta-server.nl
 facturatie.ta-server.nl
 wordpresstest1.cyberpanel.home.ta-server.nl
-www.homee.ta-server.nl
-www.whmcs.cyberpanel.home.ta-server.nl
+whmcs.cyberpanel.home.ta-server.nl
 cloud.ta-server.nl
 internal.ta-server.nl
 test1.server1.ta-server.nl
@@ -36,8 +33,6 @@ vls-web1.sws-hv.ta-server.nl
 wordpresstest.home.ta-server.nl
 vault.ta-server.nl
 resources.ta-server.nl
-whmcs.cyberpanel.home.ta-server.nl
-www.cloud.ta-server.nl
 mta-sts.mail.ta-server.nl
 plesk-fallback.ta-server.nl
 plesk2.ta-server.nl

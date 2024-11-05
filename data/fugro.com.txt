@@ -255,7 +255,6 @@ webassets.cloud.fugro.com
 wel-vin.dev.structures.sense.fugro.com
 wel.dev.structures.sense.fugro.com
 wel.structures.sense.fugro.com
-www.fugro.com
 12355-api.dev.cascade.fugro.com
 1353a-cait-api.dev.cascade.fugro.com
 173022.dashboard.datalogistics.fugro.com
@@ -1379,11 +1378,6 @@ weekly-restore-api.dev.cascade.fugro.com
 wfs-rc-test-api.dev.cascade.fugro.com
 www-stg-pr3pr0d.fugro.com
 www-uat-u4cc3p7.fugro.com
-www.monitoring.gaia.fugro.com
-www.monitoring.virgeo.fugro.com
-www.unisea.fugro.com
-www.vcs-e-01.fugro.com
-www.vessel-wifi.fugro.com
 xsoarbotdev.soc.fugro.com
 yggdrasil-api.dev.cascade.fugro.com
 yggdrasil-poc-api.dev.gdf.fugro.com

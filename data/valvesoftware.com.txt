@@ -1,19 +1,16 @@
-*.valvesoftware.com
-*.beta.valvesoftware.com
-*.deckgen.valvesoftware.com
-*.preview.valvesoftware.com
-*.store.valvesoftware.com
+beta.valvesoftware.com
+deckgen.valvesoftware.com
+preview.valvesoftware.com
+store.valvesoftware.com
 altmx.valvesoftware.com
 autodiscover.valvesoftware.com
 backup.ll.valvesoftware.com
-beta.valvesoftware.com
 blog.valvesoftware.com
 blogs.valvesoftware.com
 confluence.valvesoftware.com
 contact.valvesoftware.com
 core-backbone.valvesoftware.com
 cs-demo.valvesoftware.com
-deckgen.valvesoftware.com
 developer.valvesoftware.com
 dialin.valvesoftware.com
 exchange.valvesoftware.com
@@ -55,7 +52,6 @@ ns2.valvesoftware.com
 ns3.valvesoftware.com
 partnerwiki.valvesoftware.com
 pipeline.valvesoftware.com
-preview.valvesoftware.com
 puppet.valvesoftware.com
 satellite.valvesoftware.com
 search.valvesoftware.com
@@ -74,7 +70,6 @@ steamopsbeta.valvesoftware.com
 steamstats.valvesoftware.com
 steamsupport.valvesoftware.com
 steamsupportbeta.valvesoftware.com
-store.valvesoftware.com
 store.akamai.valvesoftware.com
 support.valvesoftware.com
 support-fraudbot.valvesoftware.com
@@ -87,8 +82,6 @@ vcenter.valvesoftware.com
 wcmx1.valvesoftware.com
 wcmx2.valvesoftware.com
 wcmx3.valvesoftware.com
-www.valvesoftware.com
-www.store.valvesoftware.com
 www4.ll.valvesoftware.com
 xperf.valvesoftware.com
 sourceu.valvesoftware.com
@@ -105,7 +98,6 @@ wcdev1.valvesoftware.com
 ftp-beta.valvesoftware.com
 tonyp.valvesoftware.com
 store-real.valvesoftware.com
-*.developer.valvesoftware.com
 forums.valvesoftware.com
 csham.valvesoftware.com
 boone.valvesoftware.com

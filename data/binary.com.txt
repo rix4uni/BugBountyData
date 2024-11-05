@@ -55,7 +55,7 @@ cdn.binary.com
 trading.binary.com
 ticktrade.binary.com
 aeon.binary.com
-www.affiliates.binary.com
+affiliates.binary.com
 record.binary.com
 static-www2.binary.com
 vr-mirror01.binary.com
@@ -71,7 +71,6 @@ siitec2.binary.com
 mt5-latam.binary.com
 staging-style.binary.com
 test.cf-pages-websockets.binary.com
-www.binary.com
 liveapi.binary.com
 bulktrader.binary.com
 zendesk2.binary.com
@@ -82,7 +81,6 @@ mt5-de02.binary.com
 mt5-real-sg03.binary.com
 feed01.binary.com
 mt5-real-sg.binary.com
-www.trading.binary.com
 lp.binary.com
 staging.cf-pages-binary-bot.binary.com
 kotsuban.binary.com
@@ -92,7 +90,6 @@ tech.binary.com
 stream.binary.com
 mt5-dev-real.binary.com
 host.binary.com
-affiliates.binary.com
 bot.binary.com
 staging.cf-pages-websockets.binary.com
 mail.binary.com
@@ -200,15 +197,9 @@ staging.cf-pages-tradingview.binary.com
 dfadmin-test.binary.com
 mta-sts.binary.com
 cf-ssl31291-protected-js.binary.com
-*.binary.com
-www.site.binary.com
-www.trade.binary.com
-www.trades.binary.com
 cashier-staging.binary.com
 conditions.binary.com
 rotabanner.eu-sw01.binary.com
-www.karen.binary.com
-www.vip.binary.com
 problem.binary.com
 _dmarc.binary.com
 io.improbable.keanu.vertices.bool.nonprobabilistic.operators.binary.com
@@ -333,7 +324,7 @@ _095f765038fc1950425d8b51da7111bd.binary.com
 k8s-lb-gcp.binary.com
 stream02.binary.com
 downturn.binary.com
-www.thefreedict.binary.com
+thefreedict.binary.com
 shauna.binary.com
 cf-ssl31291-protected-login.binary.com
 webapi01.binary.com

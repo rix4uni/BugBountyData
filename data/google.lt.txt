@@ -5,7 +5,6 @@ scholar.google.lt
 images.google.lt
 news.google.lt
 maps.google.lt
-www.google.lt
 books.google.lt
 toolbarqueries.google.lt
 local.google.lt
@@ -20,7 +19,7 @@ lh5.google.lt
 gsuite.google.lt
 ogs.google.lt
 trends.google.lt
-www.blogsearch.google.lt
+blogsearch.google.lt
 toolbar.google.lt
 lh3.google.lt
 lh6.google.lt
@@ -37,6 +36,4 @@ map.google.lt
 picasaweb.google.lt
 lh4.google.lt
 clients1.google.lt
-blogsearch.google.lt
 accounts.google.lt
-*.google.lt

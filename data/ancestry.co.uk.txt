@@ -1,5 +1,4 @@
-*.ancestry.co.uk
-*.ajax.ancestry.co.uk
+ajax.ancestry.co.uk
 media.ancestry.co.uk
 origin-boards.ancestry.co.uk
 origin-cms.ancestry.co.uk
@@ -9,7 +8,7 @@ mcimages.ancestry.co.uk
 mv.ancestry.co.uk
 origin-awt.ancestry.co.uk
 origin-awtc.ancestry.co.uk
-www.mycanvas.ancestry.co.uk
+mycanvas.ancestry.co.uk
 blogs.ancestry.co.uk
 comment.ajax.ancestry.co.uk
 mcservices.ancestry.co.uk
@@ -20,7 +19,6 @@ secure.ancestry.co.uk
 fel.ancestry.co.uk
 origin-publicwebservices.ancestry.co.uk
 media.tiscali.familyhistory.ancestry.co.uk
-mycanvas.ancestry.co.uk
 origin-landing.ancestry.co.uk
 trees.tiscali.ancestry.co.uk
 archives.ancestry.co.uk
@@ -30,10 +28,9 @@ hints.ancestry.co.uk
 header.ajax.ancestry.co.uk
 origin-pointofsale.ancestry.co.uk
 search.virgin.ancestry.co.uk
-ajax.ancestry.co.uk
 ancboards.ancestry.co.uk
 awt.ancestry.co.uk
-www.community.ancestry.co.uk
+community.ancestry.co.uk
 trees.virgin.ancestry.co.uk
 content.virgin.ancestry.co.uk
 facebook.ancestry.co.uk
@@ -54,8 +51,7 @@ asv.ancestry.co.uk
 landing.ancestry.co.uk
 mediasvc.virgin.ancestry.co.uk
 origin-mycanvas.ancestry.co.uk
-www.community.tiscali.ancestry.co.uk
-www.ancestry.co.uk
+community.tiscali.ancestry.co.uk
 connect.ancestry.co.uk
 shoebox.ancestry.co.uk
 origin-content.ancestry.co.uk
@@ -108,7 +104,6 @@ dnahomeslc.ancestry.co.uk
 ipns.ancestry.co.uk
 search.tiscali.ancestry.co.uk
 wiz.ancestry.co.uk
-community.tiscali.ancestry.co.uk
 prototype.ajax.ancestry.co.uk
 publicwebservices.ancestry.co.uk
 reply.ancestry.co.uk
@@ -123,7 +118,6 @@ origin-records.ancestry.co.uk
 search.ancestry.co.uk
 apv.dna.ancestry.co.uk
 aaemail.ajax.ancestry.co.uk
-community.ancestry.co.uk
 content.msn.ancestry.co.uk
 msn.lifestyle.ancestry.co.uk
 trees.ancestry.co.uk

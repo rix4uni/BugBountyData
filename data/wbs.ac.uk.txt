@@ -237,7 +237,6 @@ franklin.wbs.ac.uk
 hubble.wbs.ac.uk
 test16-a.wbs.ac.uk
 test16.wbs.ac.uk
-www.wbs.ac.uk
 test4-assets.wbs.ac.uk
 test13.wbs.ac.uk
 test4-my.wbs.ac.uk
@@ -292,8 +291,7 @@ dev2-schedule-my.wbs.ac.uk
 issugateway.wbs.ac.uk
 email.wbs.ac.uk
 gateway.wbs.ac.uk
-www.software.wbs.ac.uk
-www.gateway.wbs.ac.uk
+software.wbs.ac.uk
 my.wbs.ac.uk
 rimmer.wbs.ac.uk
 bell.wbs.ac.uk
@@ -305,7 +303,6 @@ newcomen.wbs.ac.uk
 schedule-assets.wbs.ac.uk
 adldap.wbs.ac.uk
 boltzmann.wbs.ac.uk
-software.wbs.ac.uk
 schedule-my.wbs.ac.uk
 beta-assets.wbs.ac.uk
 lyncdiscover.wbs.ac.uk
@@ -318,8 +315,8 @@ prod-assets-2.wbs.ac.uk
 preview-my.wbs.ac.uk
 omblog.wbs.ac.uk
 print.wbs.ac.uk
-www.rt.wbs.ac.uk
-www.studentfiles.wbs.ac.uk
+rt.wbs.ac.uk
+studentfiles.wbs.ac.uk
 beta-my4h-a.wbs.ac.uk
 test1-mis-kibana.wbs.ac.uk
 17ohrmbu.wbs.ac.uk
@@ -333,7 +330,7 @@ lesse.ad.wbs.ac.uk
 wbs007357.wbs.ac.uk
 jsd-db.int.wbs.ac.uk
 12fingekp.wbs.ac.uk
-www.help.wbs.ac.uk
+help.wbs.ac.uk
 beta-my4h.wbs.ac.uk
 dev21-my.wbs.ac.uk
 20mcomac.wbs.ac.uk
@@ -349,7 +346,6 @@ maxwell.wbs.ac.uk
 wbs006549.wbs.ac.uk
 18phd15js.wbs.ac.uk
 18phd17mv.wbs.ac.uk
-rt.wbs.ac.uk
 bose.ad.wbs.ac.uk
 wbs007352.wbs.ac.uk
 penrose.wbs.ac.uk
@@ -362,11 +358,9 @@ wbs006045.wbs.ac.uk
 aws-ep.wbs.ac.uk
 a101_mp2e.wbs.ac.uk
 moose.wbs.ac.uk
-www.jsd-db.int.wbs.ac.uk
 prod-my-2.wbs.ac.uk
 20issupc.wbs.ac.uk
 7finafincz.wbs.ac.uk
-www.weblab.wbs.ac.uk
 beta-my6h.wbs.ac.uk
 19issujb.wbs.ac.uk
 7fin02.wbs.ac.uk
@@ -443,7 +437,6 @@ beta-legacy.wbs.ac.uk
 12omomrr.wbs.ac.uk
 20remote8.wbs.ac.uk
 21issulp_test.wbs.ac.uk
-www.my.wbs.ac.uk
 wbs008669.wbs.ac.uk
 20remote28.wbs.ac.uk
 wbs-llm.wbs.ac.uk
@@ -480,13 +473,12 @@ pwa.wbs.ac.uk
 m.wbs.ac.uk
 iprint.wbs.ac.uk
 wbs008530.wbs.ac.uk
-studentfiles.wbs.ac.uk
 19besce.wbs.ac.uk
 beta-web-node1.wbs.ac.uk
 21ranking03.wbs.ac.uk
 7fin11.wbs.ac.uk
 prod-stylo-mongo1.int.wbs.ac.uk
-www.dev-web1h.int.wbs.ac.uk
+dev-web1h.int.wbs.ac.uk
 12fin01.wbs.ac.uk
 dev-web2h.int.wbs.ac.uk
 20tleeb.wbs.ac.uk
@@ -538,7 +530,6 @@ dev3-schedule-my.wbs.ac.uk
 12fin10.wbs.ac.uk
 prod-my7h.wbs.ac.uk
 mbawebboard.wbs.ac.uk
-www.themindisflat.wbs.ac.uk
 rtst.wbs.ac.uk
 19issuln.wbs.ac.uk
 20mbasva.wbs.ac.uk
@@ -620,8 +611,7 @@ a101_tpmc9l.wbs.ac.uk
 tatoo.wbs.ac.uk
 temp10.wbs.ac.uk
 pentest.wbs.ac.uk
-www.prod-web-api1.int.wbs.ac.uk
-www.dev-web1.int.wbs.ac.uk
+prod-web-api1.int.wbs.ac.uk
 illy.wbs.ac.uk
 12finfinol.wbs.ac.uk
 webmail1.wbs.ac.uk
@@ -662,7 +652,6 @@ beta-schedule21-assets.wbs.ac.uk
 prod-stylo-mongo.int.wbs.ac.uk
 proxytest.wbs.ac.uk
 electra.ad.wbs.ac.uk
-www.vulcan.wbs.ac.uk
 12fin07.wbs.ac.uk
 18besca.wbs.ac.uk
 test23.wbs.ac.uk
@@ -679,12 +668,10 @@ belusb_c2.wbs.ac.uk
 arotest.wbs.ac.uk
 prod-my7h-my.wbs.ac.uk
 20remote6.wbs.ac.uk
-www.kelvin.wbs.ac.uk
 wbsvm46.wbs.ac.uk
 prod-my8h.wbs.ac.uk
 beta-my5h-a.wbs.ac.uk
 wbs006083.wbs.ac.uk
-www.users.wbs.ac.uk
 wbs008793.wbs.ac.uk
 aa004838.wbs.ac.uk
 secure.wbs.ac.uk
@@ -695,7 +682,6 @@ rimmer_dev.wbs.ac.uk
 20phd19fg.wbs.ac.uk
 beta-schedule-my.wbs.ac.uk
 wbscrowdmics4.wbs.ac.uk
-help.wbs.ac.uk
 19ismssi.wbs.ac.uk
 acamar.wbs.ac.uk
 weber.ad.wbs.ac.uk
@@ -746,8 +732,6 @@ prod-schedule21.wbs.ac.uk
 capture-itlab.wbs.ac.uk
 20remote27.wbs.ac.uk
 a101_visualiser.wbs.ac.uk
-prod-web-api1.int.wbs.ac.uk
-www.dev-web2h.int.wbs.ac.uk
 prod-web3a.wbs.ac.uk
 wbs007211.wbs.ac.uk
 wbs008562.wbs.ac.uk
@@ -760,14 +744,11 @@ beta-my1h-my.wbs.ac.uk
 printtest.wbs.ac.uk
 06161.wbs.ac.uk
 geiger.ad.wbs.ac.uk
-www.prod-web-api2.int.wbs.ac.uk
 av2-m1.wbs.ac.uk
-dev-web1h.int.wbs.ac.uk
 17orsxd.wbs.ac.uk
 prod-web.wbs.ac.uk
 wbs008110.wbs.ac.uk
 vulcan.ad.wbs.ac.uk
-www.dev-web2.int.wbs.ac.uk
 12finafinap.wbs.ac.uk
 20remote29.wbs.ac.uk
 12finfinvr.wbs.ac.uk
@@ -787,7 +768,6 @@ prod-stylo-mongo3.int.wbs.ac.uk
 13finsibfl.wbs.ac.uk
 18dmbakb.wbs.ac.uk
 fermi.ad.wbs.ac.uk
-www.proteus.wbs.ac.uk
 test20.wbs.ac.uk
 wbs008721.wbs.ac.uk
 maglor.wbs.ac.uk

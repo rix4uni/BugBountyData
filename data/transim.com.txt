@@ -14,7 +14,6 @@ onsemi.transim.com
 quality-vishay.transim.com
 static2.transim.com
 microchip.transim.com
-www.transim.com
 stage-common.transim.com
 stage-iframe.transim.com
 quality-analog.transim.com
@@ -143,7 +142,6 @@ stage-silabs.transim.com
 stage-st.transim.com
 stage-static.transim.com
 wsproxy.transim.com
-*.transim.com
 ams.transim.com
 apps.transim.com
 consul.transim.com

@@ -23,7 +23,7 @@ emea2.api.copado.com
 api.sg-robotic.copado.com
 eu-robotic.copado.com
 test-copado-worker.backend.copado.com
-www.handbook.copado.com
+handbook.copado.com
 forceexperts.cvc.copado.com
 unified.monitor.copado.com
 emea-cn.api.copado.com
@@ -277,7 +277,6 @@ copado-worker-test.govcloud.copado.com
 engage.copado.com
 sf-huntmilitary.cvc.copado.com
 support.gpt.copado.com
-www.copado.com
 dsi.cvc.copado.com
 test-robotic.copado.com
 go.copado.com
@@ -344,7 +343,6 @@ billing.qa.robotic.copado.com
 explorer.robotic.copado.com
 infosys.cvc.copado.com
 sg-pace.sg-robotic.copado.com
-www.success.copado.com
 dev-ing.api.copado.com
 document-export.qa.robotic.copado.com
 govcloud.copado.com
@@ -353,13 +351,11 @@ assets.robotic.copado.com
 ai.eu-robotic.copado.com
 ai.robotic.copado.com
 api-gwy-prod.functions.copado.com
-www.app-api.copado.com
 cvc.copado.com
 sandbox.orion-test.copado.com
 repos.qa.robotic.copado.com
 pull-services.infra-test-robotic.copado.com
 envoy.qa.robotic.copado.com
-www.dev.copado.com
 beta-nexthink.cvc.copado.com
 pull-services.au-robotic.copado.com
 api.au-robotic.copado.com
@@ -387,7 +383,7 @@ beta-glic.cvc.copado.com
 copadogpt.au-robotic.copado.com
 poc16.cvc.copado.com
 dr-na.monitor.copado.com
-www.backup.copado.com
+backup.copado.com
 sessions.infra-test-robotic.copado.com
 api.infra-test-robotic.copado.com
 analytics.eu-robotic.copado.com
@@ -447,7 +443,6 @@ api.robotic.sg-robotic.copado.com
 beta-prudentrx.cvc.copado.com
 metrics.infra-test-robotic.copado.com
 sessions.infra-test-pace.infra-test-robotic.copado.com
-www.new.copado.com
 sandbox-tf.api.copado.com
 ai.sg-robotic.copado.com
 copadogpt-api.eu-robotic.copado.com
@@ -464,11 +459,9 @@ api.infra-test-pace.infra-test-robotic.copado.com
 infratest.cvc.copado.com
 copadogpt.robotic.copado.com
 api-test-beta.functions.copado.com
-handbook.copado.com
 metrics.sg-pace.sg-robotic.copado.com
 billing.au-robotic.copado.com
 security-int.cvc.copado.com
-backup.copado.com
 deprecated.api.copado.com
 functions.copado.com
 poc-auth.functions.copado.com
@@ -479,7 +472,6 @@ stest.cvc.copado.com
 api-gwy-dev.functions.copado.com
 pull-services.test-robotic.copado.com
 graphql.qa.robotic.copado.com
-www.people.copado.com
 copadogpt-api.au-robotic.copado.com
 beta-product-int.cvc.copado.com
 warehouse.au-robotic.copado.com

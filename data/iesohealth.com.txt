@@ -1,7 +1,6 @@
 thehub.iesohealth.com
 cdn.iesohealth.com
-www.status.iesohealth.com
-www.iesohealth.com
+status.iesohealth.com
 uk.iesohealth.com
 signup.iesohealth.com
 k.iesohealth.com
@@ -13,7 +12,6 @@ registration.iesohealth.com
 elearning.iesohealth.com
 hub.iesohealth.com
 us.iesohealth.com
-status.iesohealth.com
 static.iesohealth.com
 login.iesohealth.com
 cmtestaz2-test.internal.iesohealth.com
@@ -37,7 +35,6 @@ christest.internal.iesohealth.com
 eligibility-api-test-uk.internal.iesohealth.com
 chris1.internal.iesohealth.com
 eligibility-api-int-uk.internal.iesohealth.com
-www.hub.iesohealth.com
 images.iesohealth.com
 patient-api.iesohealth.com
 info.iesohealth.com
@@ -64,4 +61,3 @@ cmtestaz-prod.internal.iesohealth.com
 email-gateway-prod-uk.internal.iesohealth.com
 registration-api-int.iesohealth.com
 auth-api-test-uk.internal.iesohealth.com
-*.iesohealth.com

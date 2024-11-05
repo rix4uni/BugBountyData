@@ -11,7 +11,7 @@ test.melding.inspectieszw.nl
 acc2-nl-iszw-minezk-tvs-etd-saml-client-enc.inspectieszw.nl
 acc2-nl-iszw-minezk-tvs-etd-saml-client-sign.inspectieszw.nl
 acc2-nl-iszw-minezk-tvs-etd-saml-client-2wssl.inspectieszw.nl
-www.asbestovertredingen.inspectieszw.nl
+asbestovertredingen.inspectieszw.nl
 tst-nl-iszw-minezk-tvs-etd-saml-client-2wssl.inspectieszw.nl
 nl-minez-tvs-iszw-etd-saml-client-enc.inspectieszw.nl
 sdm.inspectieszw.nl
@@ -23,7 +23,6 @@ test.transparantie.inspectieszw.nl
 english.inspectieszw.nl
 tst2-nl-iszw-minezk-tvs-etd-saml-client-2wssl.inspectieszw.nl
 acceptatie.melding.inspectieszw.nl
-asbestovertredingen.inspectieszw.nl
 services.inspectieszw.nl
 opendata.english.inspectieszw.nl
 nhr.inspectieszw.nl
@@ -34,7 +33,6 @@ nl-iszw-minezk-tvs-etd-saml-client-enc.inspectieszw.nl
 preprod-iszw-ca.inspectieszw.nl
 acc-nl-iszw-minezk-tvs-etd-saml-client-sign.inspectieszw.nl
 prod-iszw-ca.inspectieszw.nl
-www.inspectieszw.nl
 transparantie.inspectieszw.nl
 meldingen.inspectieszw.nl
 tst2-nl-iszw-minezk-tvs-etd-saml-client-sign.inspectieszw.nl

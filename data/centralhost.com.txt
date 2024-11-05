@@ -21,7 +21,7 @@ accuratenational.centralhost.com
 auth-ns0.sj3.prod.centralhost.com
 boot.sc1.prod.centralhost.com
 gw1.ny1.centralhost.com
-www.trafficlabel4.centralhost.com
+trafficlabel4.centralhost.com
 66.28.209.3.centralhost.com
 ops.tx1.centralhost.com
 a1045d7.sv1.centralhost.com
@@ -67,11 +67,9 @@ rti2003060099.sv1.centralhost.com
 a1051.centralhost.com
 cerberus.centralhost.com
 srv2.sc1.centralhost.com
-www.trafficlabel6.centralhost.com
 sr2133.sv1.centralhost.com
-www.trafficlabel2.centralhost.com
+trafficlabel2.centralhost.com
 sl6012261.sv1.centralhost.com
-www.centralhost.com
 hyseq1.centralhost.com
 a1045d8.sv1.centralhost.com
 66.28.209.1.centralhost.com
@@ -79,7 +77,6 @@ a1000d1.sv1.centralhost.com
 kachinglb1.centralhost.com
 sl6011753.sv1.centralhost.com
 hp90n6mnm22t.sj2.centralhost.com
-trafficlabel2.centralhost.com
 65.77.130.4.centralhost.com
 66.28.209.8.centralhost.com
 ops.sv1.centralhost.com
@@ -95,7 +92,6 @@ a1045d15.sv1.centralhost.com
 mail2071.centralhost.com
 vf1-dc6.centralhost.com
 sr2139.sv1.centralhost.com
-trafficlabel4.centralhost.com
 65.77.130.7.centralhost.com
 core1.sv1.centralhost.com
 ns4.centralhost.com
@@ -119,7 +115,6 @@ filmgroups.centralhost.com
 a1045d11.sv1.centralhost.com
 a1045d12.sv1.centralhost.com
 hp90twmnm22t.sv1.centralhost.com
-www.trafficlabel1.centralhost.com
 core2.sv1.centralhost.com
 snmp.centralhost.com
 vcloudpxe.centralhost.com

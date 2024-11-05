@@ -80,7 +80,6 @@ api.ingest.lyve.seagate.com
 signup.lyvecloud.seagate.com
 wwwaem.seagate.com
 wwwaem2.seagate.com
-www.seagate.com
 ra.seagate.com
 alive.ra.seagate.com
 nastools.seagate.com
@@ -326,7 +325,7 @@ packetfabric-uk.lyve.seagate.com
 pilot-uk.lyve.seagate.com
 sgmpbpctxweb2.sing.seagate.com
 segtws008vip.ibm.seagate.com
-www.console.us-west-3-stg.lyvecloud.seagate.com
+console.us-west-3-stg.lyvecloud.seagate.com
 preprod.seagate.com
 annualreporttst.seagate.com
 iam.qa8.lyve.seagate.com
@@ -417,7 +416,6 @@ jts-ce.seagate.com
 iam.twofive.lyve.seagate.com
 sts.nbcuni-psg.lyve.seagate.com
 quickr.seagate.com
-www.nas.seagate.com
 s3.us-east-1.jba.lyve.seagate.com
 s3.eu-west-1.cloudcover.lyve.seagate.com
 s3.nbcuni-psg.lyve.seagate.com
@@ -499,7 +497,7 @@ returnstst.sing.seagate.com
 ctmtst.seagate.com
 device-api-staging.lyve.seagate.com
 twofive.lyve.seagate.com
-www.okla.seagate.com
+okla.seagate.com
 sapgtsqa.seagate.com
 sgmpbpctxweb16.citrixad.seagate.com
 devices-c1.api.lyvebeta.seagate.com
@@ -552,7 +550,7 @@ dwap1.sing.seagate.com
 console.us-west-2-svl.lyvecloud.seagate.com
 tt.webaccess.ra.seagate.com
 jira.seagate.com
-www.admin.staging.ra.seagate.com
+admin.staging.ra.seagate.com
 csportal.seagate.com
 hrappsprd2.sing.seagate.com
 kor-cup-pub-1.kor.thai.seagate.com
@@ -1176,7 +1174,6 @@ cvcfisapps.colo.seagate.com
 s3.den02.drivewealth.lyve.seagate.com
 okrapps1.okla.seagate.com
 awstst1002.aws.seagate.com
-www.personalcloud.seagate.com
 s3.starchive.lyve.seagate.com
 console.qa1.lyve.seagate.com
 api-usage.lyve.seagate.com
@@ -1217,7 +1214,7 @@ us-west-1-dev.lyvecloud.seagate.com
 ssl-okr.seagate.com
 s3.us-west-1.dropboxops.lyve.seagate.com
 signup.us-east-1.uat.lyvecloud.seagate.com
-www.stg.personalcloud.seagate.com
+stg.personalcloud.seagate.com
 us-east-1.qa3.lyve.seagate.com
 sgmpbpctxweb28.sing.seagate.com
 okmdev3162.addev.seagate.com
@@ -1301,7 +1298,6 @@ email.dastools.seagate.com
 badging.okla.seagate.com
 ftpshg.seagate.com
 mn-vpngw2.tco.seagate.com
-admin.staging.ra.seagate.com
 sso.seagate.com
 okmprd3179.okla.seagate.com
 sgmpbpctxweb6.citrixad.seagate.com
@@ -1709,7 +1705,6 @@ bacrdrprd.okla.seagate.com
 console.us-west-5.stg.lyvecloud.seagate.com
 db2.ibm.seagate.com
 ns01.lts2.seagate.com
-www.s3.us-west-3-stg.lyvecloud.seagate.com
 epe.seagate.com
 codereview.seagate.com
 pun-cm-pub-a.pun.seagate.com
@@ -1776,7 +1771,7 @@ ppqueue.gm.seagate.com
 specialsc.ibm.seagate.com
 ssoprd.okla.seagate.com
 vbn-okc.seagate.com
-www.apjrewards.seagate.com
+apjrewards.seagate.com
 mn-packeteer.tco.seagate.com
 ssodev.okla.seagate.com
 registration-api.lyve.seagate.com
@@ -1929,7 +1924,6 @@ segtws008.ibm.seagate.com
 us-west-2-stg.lyvecloud.seagate.com
 casemate-3.tco.seagate.com
 ssologin.colo.seagate.com
-okla.seagate.com
 hrepe.ang.sing.seagate.com
 me.okla.seagate.com
 annualreport.okla.seagate.com
@@ -2160,7 +2154,6 @@ apac-1-cm-sub-e.apac.seagate.com
 ssotst.ang.sing.seagate.com
 s3.us-central-2.rstor.lyve.seagate.com
 reseller.ibm.seagate.com
-stg.personalcloud.seagate.com
 sfix.seagate.com
 ssdcpod3cmsws-a.ssdc.sing.seagate.com
 dca02.starchive.lyve.seagate.com
@@ -2252,12 +2245,10 @@ iam.qa5.lyve.seagate.com
 jts-ce-tst.okla.seagate.com
 savviob.ibm.seagate.com
 sngtwservices.sing.seagate.com
-apjrewards.seagate.com
 itam.seagate.com
 d2recovery1.okla.seagate.com
 stage.ingest.lyve.seagate.com
 rabbitmq-usc.i.lyve.seagate.com
-www.staging.ra.seagate.com
 okrftptst.okla.seagate.com
 istst.seagate.com
 login.us-east-2.lyvecloud.seagate.com
@@ -2487,7 +2478,6 @@ sgmpbpctxweb31.sing.seagate.com
 wwfgtst.sing.seagate.com
 okm-usc-uc-pub-1.okla.seagate.com
 newstuff.ibm.seagate.com
-www.pen.maly.seagate.com
 foundationip.seagate.com
 pilot-tm.lyvebeta.seagate.com
 szpiss1.ang.sing.seagate.com
@@ -2517,7 +2507,6 @@ eu-west-1.qa2.lyve.seagate.com
 us-west.lts2.seagate.com
 okrra.okla.seagate.com
 s3.us-west-1.svl.lyvecloud.seagate.com
-www.stg.nas.seagate.com
 okm-zltm-stg-4r.okla.seagate.com
 citadel.tco.seagate.com
 api-sitbr.lyve.seagate.com
@@ -2569,7 +2558,6 @@ s3.us-central-1.sv15.lyve.seagate.com
 gfo.seagate.com
 sibgate.okla.seagate.com
 bunnysuitdev.aws.seagate.com
-console.us-west-3-stg.lyvecloud.seagate.com
 stxappstst.seagate.com
 fcd-jira.seagate.com
 us-geo.lts2.seagate.com
@@ -2866,7 +2854,6 @@ cheetahd.int.ibm.seagate.com
 okm-zltm-prd-4r.okla.seagate.com
 osa01.cloudstorage.lyve.seagate.com
 smc33-m09.colo.seagate.com
-www.ra.seagate.com
 windchill.seagate.com
 asiaphrwlg1.ang.sing.seagate.com
 homelacie.seagate.com
@@ -2907,7 +2894,6 @@ auth.lyvecloud-sandbox.seagate.com
 s3.calderdale.lyve.seagate.com
 console.us-west-1.svl.lyvecloud.seagate.com
 us-central-1.sv15.lyve.seagate.com
-www.ibm.seagate.com
 okcbobj.okla.seagate.com
 techlib.seagate.com
 engexcellence.seagate.com
@@ -3022,7 +3008,6 @@ okprd1195.okla.seagate.com
 lyvedogfoodint.seagate.com
 skcdogfood.seagate.com
 console.ap-southeast-1.lyvecloud.seagate.com
-www.admin.ra.seagate.com
 shopfloor.colo.seagate.com
 rramp-server.uk.lyve.seagate.com
 sslvpn.us-west-2-stg.lyvecloud.seagate.com
@@ -3076,16 +3061,13 @@ sgmtzbc1.seagate.com
 ns-sg.sslwip.seagate.com
 argocd.i.lyve.seagate.com
 qa7.lyve.seagate.com
-*.s3.qa7.lyve.seagate.com
-*.s3.us-central-1.qa7.lyve.seagate.com
-*.s3.us-west-1.qa7.lyve.seagate.com
+s3.qa7.lyve.seagate.com
+s3.us-central-1.qa7.lyve.seagate.com
+s3.us-west-1.qa7.lyve.seagate.com
 console.qa7.lyve.seagate.com
 iam.qa7.lyve.seagate.com
 rramp-server.qa7.lyve.seagate.com
 rramp.qa7.lyve.seagate.com
-s3.qa7.lyve.seagate.com
-s3.us-central-1.qa7.lyve.seagate.com
-s3.us-west-1.qa7.lyve.seagate.com
 sts.qa7.lyve.seagate.com
 us-central-1.qa7.lyve.seagate.com
 us-west-1.qa7.lyve.seagate.com

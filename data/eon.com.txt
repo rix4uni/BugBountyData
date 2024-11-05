@@ -6,11 +6,10 @@ corp.dms-dev.k8s.eon.com
 hr.dms-dev.k8s.eon.com
 grid.dms-dev.k8s.eon.com
 sales.dms-dev.k8s.eon.com
-rww.dms-dev.k8s.eon.com
+dms-dev.k8s.eon.com
 data-on.eon.com
 o365archive.dms-dev.k8s.eon.com
 dev-eis-sectorcoupling.eon.com
-*.flows.iot.eon.com
 flows.iot.eon.com
 argocd.dms-pdev.k8s.eon.com
 kubewarden.dms-pdev.k8s.eon.com
@@ -30,7 +29,6 @@ web.pebt-i.eon.com
 bayernwerk.pre.nemo.eon.com
 test1.qas.nemo.eon.com
 docs.pp.iot.eon.com
-*.flows.pp.iot.eon.com
 flows.pp.iot.eon.com
 test1.nemo.eon.com
 avacon.pre.nemo.eon.com

@@ -14,7 +14,7 @@ compusaemp.packet8.net
 192-84-16-254.packet8.net
 192-84-16-5.packet8.net
 192-84-16-109.packet8.net
-www.aastraconf.packet8.net
+aastraconf.packet8.net
 mailman1-l3-sjo.packet8.net
 community.packet8.net
 192-84-16-73.packet8.net
@@ -313,7 +313,6 @@ mx5.packet8.net
 ccc.packet8.net
 none.packet8.net
 noone.packet8.net
-aastraconf.packet8.net
 mailman1-uk.packet8.net
 ukbilling-mail.packet8.net
 tun0-l3-sjo.packet8.net
@@ -497,9 +496,7 @@ ordervoip.packet8.net
 orderdsl.packet8.net
 linkshare.packet8.net
 getpacket8.packet8.net
-www.packet8.net
 cognigen.packet8.net
-*.packet8.net
 192-84-16-155.packet8.net
 192-84-16-159.packet8.net
 192-84-16-171.packet8.net
@@ -814,7 +811,7 @@ _55.packet8.net
 _169.packet8.net
 sutherland.packet8.net
 _11.packet8.net
-www.avtivate.packet8.net
+avtivate.packet8.net
 _41.packet8.net
 _10.packet8.net
 _154.packet8.net
@@ -873,7 +870,6 @@ _4.packet8.net
 _53.packet8.net
 _20.packet8.net
 _177.packet8.net
-www.sr.packet8.net
 _95.packet8.net
 _145.packet8.net
 _217.packet8.net

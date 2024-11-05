@@ -1211,7 +1211,6 @@ kvm7.tp.gcorelabs.com
 ushosting.gcorelabs.com
 kvm8.ml2.gcorelabs.com
 laas-in-b0.lux.cloud.gcorelabs.com
-www.gcorelabs.com
 kvm3.tsc.gcorelabs.com
 dci-tl.gcorelabs.com
 kvm11.ml2.gcorelabs.com
@@ -1220,18 +1219,15 @@ kvm7.tii.gcorelabs.com
 kvm10.drf.gcorelabs.com
 kvm6.gn.gcorelabs.com
 kvm8.ww.gcorelabs.com
-www.campaign.gcorelabs.com
+campaign.gcorelabs.com
 admin-ui-stage.keycloak-sandbox.am3-hw-prod-2.gcorelabs.com
 dci-kal.gcorelabs.com
 kvm4.mi2.gcorelabs.com
 kvm7.ww.gcorelabs.com
 kvm2.tp.gcorelabs.com
 mail.gcorelabs.com
-www.webinar.gcorelabs.com
 kvm13.gnc.gcorelabs.com
 kvm16.sp3.gcorelabs.com
-www.promo.gcorelabs.com
-www.discount.gcorelabs.com
 kvm5.bu2.gcorelabs.com
 kvm14.drf.gcorelabs.com
 kvm14.pl1.gcorelabs.com
@@ -1243,7 +1239,7 @@ kvm17.drf.gcorelabs.com
 kvm10.cm.gcorelabs.com
 kvm0.kal.gcorelabs.com
 kvm10.ml2.gcorelabs.com
-www.events.gcorelabs.com
+events.gcorelabs.com
 laas-in-b2.lux.cloud.gcorelabs.com
 admin.gcorelabs.com
 kvm12.cc1.gcorelabs.com
@@ -1274,7 +1270,6 @@ kvm10.gnc.gcorelabs.com
 nl.gcorelabs.com
 console-novnc-dra42.cloud.gcorelabs.com
 hosting.gcorelabs.com
-www.hosting.gcorelabs.com
 kvm8.ny2.gcorelabs.com
 kvm11.gnc.gcorelabs.com
 kvm13.pl1.gcorelabs.com
@@ -1301,7 +1296,6 @@ kvmmgr-sqr-v6.gcorelabs.com
 kvmmgr-la2-v6.gcorelabs.com
 kvm6.anx.gcorelabs.com
 kvm7.ml2.gcorelabs.com
-events.gcorelabs.com
 kvm11.tii.gcorelabs.com
 kvm12.pl1.gcorelabs.com
 kvm4.cc1.gcorelabs.com
@@ -1312,8 +1306,6 @@ kvm6.ny2.gcorelabs.com
 kvmmgr-kx.gcorelabs.com
 kvm11.drf.gcorelabs.com
 kvm10.ww.gcorelabs.com
-www.waf.gcorelabs.com
-campaign.gcorelabs.com
 dnsapi.gcorelabs.com
 kvm3.scl2.gcorelabs.com
 kvm9.tii.gcorelabs.com

@@ -22,7 +22,6 @@ dev.glide.com
 api-e2e-staging.enterprise.glide.com
 mail.glide.com
 preferences.glide.com
-www.glide.com
 app.glide.com
 cdn.glide.com
 com.glide.com
@@ -35,7 +34,7 @@ packages.com.glide.com
 api-staging.enterprise.glide.com
 beta.glide.com
 api.glide.com
-www.neelam.glide.com
+neelam.glide.com
 blog.glide.com
 staging2.glide.com
 link.glide.com
@@ -47,7 +46,7 @@ libs.bumptech.glide.com
 dep.glide.com
 da.app.dev.glide.com
 app-e2e-staging.enterprise.glide.com
-www.ov.glide.com
+ov.glide.com
 dev.arunkumar.android.glide.com
 libs.ui.glide.com
 br.com.concrete.yosef.glide.com
@@ -57,7 +56,6 @@ help.glide.com
 dependencies.glide.com
 rootproject.ext.glide.com
 libs.github.glide.com
-www.blog.glide.com
 api-enterprise.dev.glide.com
 app-enterprise.dev.glide.com
 app-staging.enterprise.glide.com

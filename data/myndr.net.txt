@@ -1,4 +1,3 @@
-*.myndr.net
 admin.myndr.net
 api.myndr.net
 blocked.myndr.net
@@ -21,7 +20,6 @@ public.myndr.net
 public2.myndr.net
 push.myndr.net
 status.myndr.net
-www.myndr.net
 a-96-119-155-62.api.myndr.net
 api-us.myndr.net
 core-api-us.myndr.net

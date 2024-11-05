@@ -1,6 +1,5 @@
 researchservices.adelaide.edu.au
 openshift.services.adelaide.edu.au
-*.openshift.services.adelaide.edu.au
 build-new.adelaide.edu.au
 build.services.adelaide.edu.au
 rook.services.adelaide.edu.au
@@ -15,11 +14,11 @@ cmappdev01.ad.adelaide.edu.au
 libguides.adelaide.edu.au
 give.adelaide.edu.au
 rdweb.adelaide.edu.au
-*.ad.adelaide.edu.au
+ad.adelaide.edu.au
 rdbroker.adelaide.edu.au
 simulation.adelaide.edu.au
 blinecentral02.ad.adelaide.edu.au
-*.usc.adelaide.edu.au
+usc.adelaide.edu.au
 unispace-dev.adelaide.edu.au
 universityriskregister-uat.adelaide.edu.au
 complianceregister-uat.adelaide.edu.au
@@ -34,4 +33,3 @@ dash.services.adelaide.edu.au
 eassist.adelaide.edu.au
 careerhub.adelaide.edu.au
 kofax-uat-web1.ad.adelaide.edu.au
-www.adelaide.edu.au

@@ -11,8 +11,6 @@ zendesk2.psyonix.com
 cdn.psyonix.com
 steam.psyonix.com
 flat.psyonix.com
-www.psyonix.com
-www.stats.psyonix.com
 view.email.psyonix.com
 wiki.psyonix.com
 ca.email.psyonix.com
@@ -31,13 +29,11 @@ skpwgwwilw.psyonix.com
 tvdisplay.psyonix.com
 enterpriseregistration.psyonix.com
 enterpriseenrollment.psyonix.com
-*.psyonix.com
 email.gh-mail.psyonix.com
 preferences.email.psyonix.com
 drive.psyonix.com
 forum.psyonix.com
 _acme-challenge.psyonix.com
-www.rocketleague.psyonix.com
 lyncdiscover.psyonix.com
 board.psyonix.com
 lyncdiscoverinternal.psyonix.com
@@ -64,7 +60,6 @@ jason.psyonix.com
 calander.psyonix.com
 sip.psyonix.com
 autodiscover.psyonix.com
-www.wiki.psyonix.com
 sipinternal.psyonix.com
 gh-mail.psyonix.com
 bugs.psyonix.com

@@ -5,7 +5,6 @@ arcgis.baerum.kommune.no
 beta.baerum.kommune.no
 bibliotek.baerum.kommune.no
 baeringen.baerum.kommune.no
-www.baerum.kommune.no
 stoffkartotek.baerum.kommune.no
 sk-auth.baerum.kommune.no
 feide.baerum.kommune.no
@@ -34,7 +33,7 @@ sip.baerum.kommune.no
 dialin.baerum.kommune.no
 informasjonssikkerhet.baerum.kommune.no
 respons.baerum.kommune.no
-www.temp-www.baerum.kommune.no
+temp-www.baerum.kommune.no
 reise-utlegg.baerum.kommune.no
 tilgang.baerum.kommune.no
 trust.baerum.kommune.no
@@ -50,7 +49,6 @@ minside.baerum.kommune.no
 dev-minside.baerum.kommune.no
 uat-minside.baerum.kommune.no
 geminiportal.baerum.kommune.no
-temp-www.baerum.kommune.no
 mail2.baerum.kommune.no
 connect.baerum.kommune.no
 gjesteportal2.baerum.kommune.no
@@ -59,7 +57,7 @@ regdok.baerum.kommune.no
 svc-test-emm-proxy.baerum.kommune.no
 gjesteportal1.baerum.kommune.no
 agw.baerum.kommune.no
-www.lab.baerum.kommune.no
+lab.baerum.kommune.no
 mail.baerum.kommune.no
 svc-geointmercell-test.baerum.kommune.no
 rorarkiv-innsyn.baerum.kommune.no
@@ -80,9 +78,8 @@ gjesteportal2.gjest.baerum.kommune.no
 bkxif89i.srv.baerum.kommune.no
 ftp-efaktura.baerum.kommune.no
 hvaskjerinte.baerum.kommune.no
-www.gwsync.baerum.kommune.no
+gwsync.baerum.kommune.no
 svc-emm-cnt.baerum.kommune.no
-lab.baerum.kommune.no
 mos.baerum.kommune.no
 innkjop.baerum.kommune.no
 svc-emm-seg.baerum.kommune.no
@@ -91,7 +88,7 @@ innlogging.gjest.baerum.kommune.no
 sts.baerum.kommune.no
 svc-test-emm-seg.baerum.kommune.no
 utlegg.baerum.kommune.no
-www.intern.baerum.kommune.no
+intern.baerum.kommune.no
 svc-emm-proxy.baerum.kommune.no
 gjesteportal1.gjest.baerum.kommune.no
 labmios.baerum.kommune.no
@@ -100,7 +97,6 @@ gjest.gjest.baerum.kommune.no
 gjesteportal.gjest.baerum.kommune.no
 webmail.baerum.kommune.no
 lop.baerum.kommune.no
-intern.baerum.kommune.no
 svc-emm-tun.baerum.kommune.no
 skjema.baerum.kommune.no
 test-innlogging.baerum.kommune.no

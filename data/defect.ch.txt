@@ -1,5 +1,4 @@
 teleport.defect.ch
-*.teleport.defect.ch
 exchange.defect.ch
 homeassistant.defect.ch
 mfr-pf00.dyn.defect.ch
@@ -42,7 +41,6 @@ entry.defect.ch
 image.defect.ch
 mail2.defect.ch
 ns2.defect.ch
-www.defect.ch
 ipv4.defect.ch
 onlyoffice.defect.ch
 riley.defect.ch

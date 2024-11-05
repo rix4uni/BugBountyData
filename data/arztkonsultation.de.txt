@@ -1,6 +1,6 @@
 mailserver.arztkonsultation.de
 app-sandbox.arztkonsultation.de
-www.bahn-bkk.arztkonsultation.de
+bahn-bkk.arztkonsultation.de
 video-syncpilot.arztkonsultation.de
 app-stage.arztkonsultation.de
 turn04.arztkonsultation.de
@@ -8,8 +8,6 @@ video-steffi-test.arztkonsultation.de
 video-hashbaby-sandbox.arztkonsultation.de
 prometheus.monitoring.arztkonsultation.de
 app-sandbox-iframe.arztkonsultation.de
-www.hkk.arztkonsultation.de
-www.arztkonsultation.de
 hkk.arztkonsultation.de
 app-sandbox-jkhwkx386qpx.arztkonsultation.de
 app-demo.arztkonsultation.de
@@ -24,13 +22,11 @@ video-dm-test.arztkonsultation.de
 loki.monitoring.arztkonsultation.de
 idp.arztkonsultation.de
 sso.arztkonsultation.de
-bahn-bkk.arztkonsultation.de
 turnprom.turn04.arztkonsultation.de
 hilfe.arztkonsultation.de
 lp.arztkonsultation.de
-*.monitoring.arztkonsultation.de
 video-iengineers-test.arztkonsultation.de
-www.jobs.arztkonsultation.de
+jobs.arztkonsultation.de
 ak-coturn-01.arztkonsultation.de
 ssonext.app-next.arztkonsultation.de
 video-aokbawue-test.arztkonsultation.de
@@ -55,7 +51,6 @@ mail.arztkonsultation.de
 vitagroup.arztkonsultation.de
 app-test-master.arztkonsultation.de
 video-ganztags-test.arztkonsultation.de
-jobs.arztkonsultation.de
 umfrage.arztkonsultation.de
 ak-minio-cluster-node-01.minio.storage.arztkonsultation.de
 monitor.arztkonsultation.de
@@ -73,7 +68,6 @@ corona.arztkonsultation.de
 grey-label-test.arztkonsultation.de
 web02.arztkonsultation.de
 web01.arztkonsultation.de
-www.dak.arztkonsultation.de
 turntest.arztkonsultation.de
 app-test.arztkonsultation.de
 vs.arztkonsultation.de

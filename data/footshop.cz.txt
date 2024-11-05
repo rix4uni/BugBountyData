@@ -7,7 +7,6 @@ y-3.footshop.cz
 blog-de.footshop.cz
 shop.footshop.cz
 team.lab.footshop.cz
-www.footshop.cz
 superstar50.footshop.cz
 blog-en.footshop.cz
 auth.lab.footshop.cz
@@ -45,7 +44,7 @@ stats.lab.footshop.cz
 merchant.lab.footshop.cz
 on-call.footshop.cz
 files.lab.footshop.cz
-www.lab.footshop.cz
+lab.footshop.cz
 wms.footshop.cz
 grafana.beta.footshop.cz
 wrapp.lab.footshop.cz
@@ -60,7 +59,6 @@ logs.lab.footshop.cz
 mq.lab.footshop.cz
 db.lab.footshop.cz
 chronograf.lab.footshop.cz
-lab.footshop.cz
 db.staging.footshop.cz
 wrapp.beta.footshop.cz
 goalert.footshop.cz
@@ -111,7 +109,6 @@ ssr.footshop.cz
 passbolt.footshop.cz
 chronograf.footshop.cz
 search.preview.footshop.cz
-www.releases.footshop.cz
 releases.footshop.cz
 search.beta.footshop.cz
 logs.beta.footshop.cz

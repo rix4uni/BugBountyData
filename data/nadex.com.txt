@@ -10,7 +10,7 @@ origin-website-prod.nadex.com
 vpn.nadex.com
 login.test.nadex.com
 ns1.nadex.com
-www.net.nadex.com
+net.nadex.com
 prehost.nadex.com
 autodiscover.dtuiiq.nadex.com
 cpm.nadex.com
@@ -18,7 +18,7 @@ platform.nadex.com
 hcd.nadex.com
 acq.nadex.com
 origin-website-uat.nadex.com
-www.static.nadex.com
+static.nadex.com
 origin-trade.nadex.com
 upd.nadex.com
 origin-net-api.nadex.com
@@ -33,12 +33,10 @@ dtu.nadex.com
 mobile.nadex.com
 fix.nadex.com
 join.nadex.com
-net.nadex.com
 net-trade.nadex.com
 net-upd001c.nadex.com
 web-api.nadex.com
 web-mdp.nadex.com
-static.nadex.com
 deal.nadex.com
 chat.nadex.com
 demo-redir.nadex.com
@@ -63,17 +61,15 @@ web-poc009a.nadex.com
 website-demo.nadex.com
 dtuiiq.nadex.com
 web-mobile.nadex.com
-www.nadex.com
 alt.nadex.com
 nadex.aws.nadex.com
 demo-meet.nadex.com
 web-upd002b.nadex.com
-www.demo.nadex.com
+demo.nadex.com
 upd101c.nadex.com
 login.uat.nadex.com
 trade.nadex.com
-www.autodiscover.nadex.com
-www.binaries.nadex.com
+binaries.nadex.com
 api.nadex.com
 autodiscover.dtu.nadex.com
 website-staging.nadex.com
@@ -98,7 +94,6 @@ demo2.nadex.com
 origin-web-trade.nadex.com
 origin-website-staging.nadex.com
 web-chat.nadex.com
-www.web.nadex.com
 origin-demo-trade.nadex.com
 demo-ftp.nadex.com
 demo.static.nadex.com
@@ -119,7 +114,6 @@ ns0.nadex.com
 web-forms.nadex.com
 demo-mobile.nadex.com
 ig.nadex.com
-demo.nadex.com
 demo-acq.nadex.com
 web-ao.nadex.com
 demo-trade.nadex.com
@@ -129,8 +123,6 @@ net-mis.nadex.com
 redir.nadex.com
 sip.nadex.com
 website-uat.nadex.com
-www.sig.nadex.com
-binaries.nadex.com
 demo-cpm.nadex.com
 web-platform.nadex.com
 nadexdtu.aws.nadex.com
@@ -138,7 +130,6 @@ net-mdp001a.nadex.com
 mdp202a.nadex.com
 demo-deal.nadex.com
 forms.nadex.com
-www.cpm.nadex.com
 demo-mis.nadex.com
 net-hplp.nadex.com
 net-old.nadex.com

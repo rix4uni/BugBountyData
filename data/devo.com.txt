@@ -15,7 +15,6 @@ status.eu.devo.com
 us.devo.com
 te.soar-us.devo.com
 status.us.devo.com
-www.devo.com
 docs.devo.com
 engage.devo.com
 status.ca.devo.com
@@ -108,12 +107,11 @@ go.devo.com
 bitf.us.devo.com
 hecs.data.devo.com
 vpn.devo.com
-www.floyd.devo.com
+floyd.devo.com
 cluster01.ops.devo.com
 govcloud.devo.com
 deeptrace-internal.us.poc.devo.com
 the-corner.devo.com
-floyd.devo.com
 test01.ops.devo.com
 k8s-demo.data.devo.com
 soar.devo.com
@@ -211,7 +209,6 @@ collector-usn1aps2.devo.com
 test2.ops.devo.com
 collector.k8s.devo.com
 staging.devo.com
-www.education.devo.com
 collector-us.poc.devo.com
 deeptrace-internal.apac.devo.com
 telemetry-ca.devo.com

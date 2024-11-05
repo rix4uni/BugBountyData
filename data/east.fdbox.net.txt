@@ -1,4 +1,3 @@
-*.east.fdbox.net
 apibrowser.east.fdbox.net
 apidocs.east.fdbox.net
 backend-1.east.fdbox.net
@@ -19,11 +18,6 @@ tirefire-api.east.fdbox.net
 ukproduct4-api.east.fdbox.net
 vpn-1.east.fdbox.net
 wiki.east.fdbox.net
-www.dir-1.east.fdbox.net
-www.dir-2.east.fdbox.net
-www.ds-1.east.fdbox.net
-www.ds-2.east.fdbox.net
-www.jenkins.east.fdbox.net
 asa.east.fdbox.net
 chat.east.fdbox.net
 gollum.east.fdbox.net
@@ -33,4 +27,3 @@ vpn.east.fdbox.net
 vpn-2.east.fdbox.net
 deploy.east.fdbox.net
 jenkins-ops.east.fdbox.net
-www.east.fdbox.net

@@ -29,14 +29,12 @@ alexandria-jppierre.dev.services.qwiklabs.com
 athens-api-staging.dev.services.qwiklabs.com
 git-whisperer.services.qwiklabs.com
 status.qwiklabs.com
-www.reinvent.qwiklabs.com
 us-central1-b.resources.bumperboats-staging.dev.qwiklabs.com
 navy-03.services.qwiklabs.com
 us-east1-b.resources.bumper-boats-00.services.qwiklabs.com
 flane-latam.qwiklabs.com
 google-run.qwiklabs.com
 members.qwiklabs.com
-www.qwiklabs.com
 us-central1-c.resources.bumper-boats-00.services.qwiklabs.com
 athens.dev.qwiklabs.com
 dynamodb-run.qwiklabs.com
@@ -153,5 +151,3 @@ roitraining.qwiklabs.com
 trainocate.qwiklabs.com
 zfaw72bxktdkptxghqb5clns36ocdcn5vt5j4wm4oeriopcfjr6q.us-central1-b.resources.bumper-boats-00.services.qwiklabs.com
 lorraine.qwiklabs.com
-*.qwiklabs.com
-*.dev.qwiklabs.com

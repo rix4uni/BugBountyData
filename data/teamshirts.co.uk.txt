@@ -1,8 +1,6 @@
-*.teamshirts.co.uk
-*.qa.teamshirts.co.uk
-*.release.teamshirts.co.uk
-*.staging.teamshirts.co.uk
-*.test.teamshirts.co.uk
-*.internal.teamshirts.co.uk
+qa.teamshirts.co.uk
+release.teamshirts.co.uk
+staging.teamshirts.co.uk
+test.teamshirts.co.uk
+internal.teamshirts.co.uk
 wizard.teamshirts.co.uk
-www.teamshirts.co.uk

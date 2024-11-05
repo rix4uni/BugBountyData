@@ -1,4 +1,3 @@
-*.jobandtalent.com
 de.jobandtalent.com
 es.jobandtalent.com
 salesloft.jobandtalent.com
@@ -24,7 +23,6 @@ utbildning.jobandtalent.com
 prd.jobandtalent.com
 api-docs.workforce.jobandtalent.com
 enterpriseenrollment.jobandtalent.com
-www.jobandtalent.com
 plans.jobandtalent.com
 scheduler.jobandtalent.com
 dhl.jobandtalent.com
@@ -60,7 +58,6 @@ data-ingestion.staging.jobandtalent.com
 api.staging.jobandtalent.com
 auth-front.staging.jobandtalent.com
 zeppelin.staging.jobandtalent.com
-www.staging.jobandtalent.com
 workforce.staging.jobandtalent.com
 api-docs.workforce.staging.jobandtalent.com
 candidats.staging.jobandtalent.com
@@ -80,28 +77,24 @@ co.jobandtalent.com
 candidats.jobandtalent.com
 email.jobandtalent.com
 click.e.jobandtalent.com
-www.blog.jobandtalent.com
-*.staging.jobandtalent.com
+blog.jobandtalent.com
 ranking.jobandtalent.com
 campaigns.jobandtalent.com
 paysalary.jobandtalent.com
 admin.jobandtalent.com
 maven.jobandtalent.com
 prd.data.jobandtalent.com
-www.jobs.landings.jobandtalent.com
 empresas.jobandtalent.com
 ci.jobandtalent.com
 o9.email.cpgn.jobandtalent.com
 brother.jobandtalent.com
 link.jobandtalent.com
 o4.email.jobandtalent.com
-www.empleo.landings.jobandtalent.com
 bloguk.jobandtalent.com
 metabase-preprod.jobandtalent.com
 workers.jobandtalent.com
 devel.jobandtalent.com
 blogmx.jobandtalent.com
-www.enterpriseenrollment.jobandtalent.com
 companies.jobandtalent.com
 mta116242.news.jobandtalent.com
 o2.email.jobandtalent.com
@@ -118,7 +111,6 @@ cloud.e.jobandtalent.com
 gateway.staging.jobandtalent.com
 dev.jobandtalent.com
 bulk-tool.jobandtalent.com
-www.aws.jobandtalent.com
 mail.jobandtalent.com
 pressrum.jobandtalent.com
 view.e.jobandtalent.com
@@ -127,7 +119,6 @@ api-docs-auth.workforce.staging.jobandtalent.com
 landings.jobandtalent.com
 ovh1.jobandtalent.com
 auth-stg.stg.jobandtalent.com
-www.cursos.landings.jobandtalent.com
 gateway.jobandtalent.com
 mta.e.jobandtalent.com
 blogus.jobandtalent.com
@@ -138,7 +129,6 @@ freshservice-test.staging.jobandtalent.com
 o5.email.jobandtalent.com
 e.jobandtalent.com
 zeppelin.jobandtalent.com
-blog.jobandtalent.com
 mon.jobandtalent.com
 mta116243.news.jobandtalent.com
 m.jobandtalent.com

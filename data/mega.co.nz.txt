@@ -1,5 +1,4 @@
 cibuild.mega.co.nz
-*.cibuild.mega.co.nz
 karere-001.developers.mega.co.nz
 test.mega.co.nz
 gfs270n150.userstorage.mega.co.nz
@@ -9,7 +8,7 @@ gfs270n321.userstorage.mega.co.nz
 gfs270n436.userstorage.mega.co.nz
 docker.mega.co.nz
 old.mega.co.nz
-www.sugar.mega.co.nz
+sugar.mega.co.nz
 blog-sandbox3.developers.mega.co.nz
 gfs270n896.userstorage.mega.co.nz
 gfs208n178.userstorage.mega.co.nz
@@ -66,7 +65,7 @@ mail15.mega.co.nz
 ns2.mega.co.nz
 relay1.api.mega.co.nz
 sfu302n002.sfu.mega.co.nz
-www.dev2.sugar.mega.co.nz
+dev2.sugar.mega.co.nz
 sfu270n001.sfu.mega.co.nz
 gfs204n176.userstorage.mega.co.nz
 ns3.mega.co.nz
@@ -111,7 +110,7 @@ gfs208n202.userstorage.mega.co.nz
 citrix.mega.co.nz
 ip.mega.co.nz
 sip.mega.co.nz
-www.mail.mega.co.nz
+mail.mega.co.nz
 gfs204n134.userstorage.mega.co.nz
 gfs204n188.userstorage.mega.co.nz
 gfs302n502.userstorage.mega.co.nz
@@ -124,7 +123,6 @@ gfs302n510.userstorage.mega.co.nz
 gfs214n140.userstorage.mega.co.nz
 gfs204n174.userstorage.mega.co.nz
 bt3.api.mega.co.nz
-dev2.sugar.mega.co.nz
 ml.mega.co.nz
 gfs204n161.userstorage.mega.co.nz
 gfs440n011.userstorage.mega.co.nz
@@ -142,7 +140,6 @@ gfs214n142.userstorage.mega.co.nz
 dev3.developers.mega.co.nz
 gfs214n183.userstorage.mega.co.nz
 lists.mega.co.nz
-mail.mega.co.nz
 gfs270n438.userstorage.mega.co.nz
 gfs206n190.userstorage.mega.co.nz
 gfs206n193.userstorage.mega.co.nz
@@ -268,7 +265,6 @@ gfs262n334.userstorage.mega.co.nz
 gfs262n371.userstorage.mega.co.nz
 gfs208n119.userstorage.mega.co.nz
 gfs270n417.userstorage.mega.co.nz
-www.mega.co.nz
 gfs204n152.userstorage.mega.co.nz
 gfs270n400.userstorage.mega.co.nz
 help.mega.co.nz
@@ -287,7 +283,7 @@ gfs206n449.userstorage.mega.co.nz
 nsde2.mega.co.nz
 gfs262n311.userstorage.mega.co.nz
 mx01.mega.co.nz
-www.survey.mega.co.nz
+survey.mega.co.nz
 gfs270n421.userstorage.mega.co.nz
 gfs270n142.userstorage.mega.co.nz
 nsnl1.mega.co.nz
@@ -296,7 +292,6 @@ na.static.mega.co.nz
 login.mega.co.nz
 staging.mega.co.nz
 v34317.developers.mega.co.nz
-www.stats.sfu.mega.co.nz
 gfs270n375.userstorage.mega.co.nz
 gfs208n198.userstorage.mega.co.nz
 gfs214n162.userstorage.mega.co.nz
@@ -311,7 +306,6 @@ mx2.mega.co.nz
 push.api.mega.co.nz
 tools.mega.co.nz
 wp.mega.co.nz
-www.smoketest.static.mega.co.nz
 gfs214n171.userstorage.mega.co.nz
 gfs206n197.userstorage.mega.co.nz
 gfs270n437.userstorage.mega.co.nz
@@ -323,13 +317,11 @@ gfs530n012.userstorage.mega.co.nz
 gfs204n183.userstorage.mega.co.nz
 api-sandbox2.developers.mega.co.nz
 mail4.mega.co.nz
-www.babel.mega.co.nz
 gfs262n148.userstorage.mega.co.nz
 gfs270n443.userstorage.mega.co.nz
 gfs206n114.userstorage.mega.co.nz
 gfs302n002.userstorage.mega.co.nz
 ww1.mega.co.nz
-www.push.api.mega.co.nz
 gfs208n203.userstorage.mega.co.nz
 gfs302n512.userstorage.mega.co.nz
 gfs262n379.userstorage.mega.co.nz
@@ -458,7 +450,7 @@ gfs206n447.userstorage.mega.co.nz
 autotest2.developers.mega.co.nz
 gfs208n010.userstorage.mega.co.nz
 karere-003.developers.mega.co.nz
-www.lu1.api.mega.co.nz
+lu1.api.mega.co.nz
 www1.mega.co.nz
 gfs302n513.userstorage.mega.co.nz
 ssl.mega.co.nz
@@ -466,7 +458,6 @@ support.mega.co.nz
 gfs270n899.userstorage.mega.co.nz
 gfs302n515.userstorage.mega.co.nz
 gfs208n005.userstorage.mega.co.nz
-sugar.mega.co.nz
 dns1.mega.co.nz
 gfs204n206.userstorage.mega.co.nz
 gfs270n888.userstorage.mega.co.nz
@@ -486,7 +477,7 @@ nslu2.mega.co.nz
 gfs204n109.userstorage.mega.co.nz
 gfs206n186.userstorage.mega.co.nz
 gfs262n368.userstorage.mega.co.nz
-www.relay.api.mega.co.nz
+relay.api.mega.co.nz
 gfs270n877.userstorage.mega.co.nz
 autotest.developers.mega.co.nz
 gfs206n452.userstorage.mega.co.nz
@@ -571,7 +562,6 @@ bt4.api.mega.co.nz
 root.mega.co.nz
 mongodb.mega.co.nz
 gfs204n136.userstorage.mega.co.nz
-lu1.api.mega.co.nz
 gfs214n146.userstorage.mega.co.nz
 mail8.mega.co.nz
 gfs214n169.userstorage.mega.co.nz
@@ -602,12 +592,10 @@ webmail.mega.co.nz
 gfs214n102.userstorage.mega.co.nz
 gfs440n012.userstorage.mega.co.nz
 gfs270n895.userstorage.mega.co.nz
-relay.api.mega.co.nz
 gfs206n141.userstorage.mega.co.nz
 gfs302n003.userstorage.mega.co.nz
 m.mega.co.nz
 stage.mega.co.nz
 www2.mega.co.nz
-survey.mega.co.nz
 gfs214n114.userstorage.mega.co.nz
 gfs208n300.userstorage.mega.co.nz

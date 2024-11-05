@@ -19,7 +19,7 @@ chc.cameyo.com
 helpcenter.cameyo.com
 geostru.cameyo.com
 npact.cameyo.com
-www.server.cameyo.com
+server.cameyo.com
 jenkins.cameyo.com
 mpeastern.cameyo.com
 alzgra-play1.cameyo.com
@@ -27,7 +27,6 @@ euwe.play.cameyo.com
 status.cameyo.com
 alzgra-proxy.cameyo.com
 cpanel.cameyo.com
-server.cameyo.com
 partner-apisec.cameyo.com
 partner-hp.cameyo.com
 220-server.cameyo.com
@@ -36,7 +35,6 @@ logrhythm.cameyo.com
 bhisd.cameyo.com
 eyal.cameyo.com
 support.cameyo.com
-www.cameyo.com
 redis.dev.cameyo.com
 public.cameyo.com
 partner-asg-africa.cameyo.com
@@ -74,9 +72,7 @@ omnics.cameyo.com
 update.cameyo.com
 neptune.cameyo.com
 webhook.svc.cameyo.com
-www.training.cameyo.com
 partner-neverware.cameyo.com
-www.online.cameyo.com
 usea.play.cameyo.com
 dev.cameyo.com
 mqtt.dev.cameyo.com
@@ -102,6 +98,4 @@ klumbforestprd.cameyo.com
 neptune2.cameyo.com
 files.cameyo.com
 devonline.cameyo.com
-www.partnerportal.cameyo.com
-*.cameyo.com
 2flogrhythm.cameyo.com

@@ -5,7 +5,6 @@ blog.tenor.com
 api.tenor.com
 g.tenor.com
 api-v1.tenor.com
-www.tenor.com
 static.tenor.com
 gateway-tenor-us-west-1.tenor.com
 qa-prod.tenor.com
@@ -17,7 +16,6 @@ qa-staging.tenor.com
 viberbot-prod2.tenor.com
 viberbot-qa.tenor.com
 facebookbot.tenor.com
-www.blog.tenor.com
 line-app.tenor.com
 qa.tenor.com
 qa-autopush.tenor.com
@@ -27,4 +25,3 @@ qa-api.tenor.com
 viberbot-dev.tenor.com
 mxdia1.tenor.com
 skypebot.tenor.com
-*.tenor.com

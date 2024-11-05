@@ -1,4 +1,3 @@
-www.corebridgefinancial.com
 compass.corebridgefinancial.com
 dbp.corebridgefinancial.com
 assets.dbp.corebridgefinancial.com
@@ -15,7 +14,6 @@ annuities.corebridgefinancial.com
 portal.annuities.corebridgefinancial.com
 click.rs.corebridgefinancial.com
 gtm-ext.corebridgefinancial.com
-www.connext.corebridgefinancial.com
 life2.gtm-ext.corebridgefinancial.com
 live.paymentus.life2.gtm-ext.corebridgefinancial.com
 paymentus.life2.gtm-ext.corebridgefinancial.com
@@ -62,7 +60,7 @@ vip-ssquote-np.corebridgefinancial.com
 vendorws.life2.corebridgefinancial.com
 amr6.portal.connect.corebridgefinancial.com
 vip-aemservices.corebridgefinancial.com
-www.lifeportal.corebridgefinancial.com
+lifeportal.corebridgefinancial.com
 mobile.corebridgefinancial.com
 pha.corebridgefinancial.com
 glensfalls.corebridgefinancial.com
@@ -118,7 +116,6 @@ houstonisd.corebridgefinancial.com
 live.appright.life2.corebridgefinancial.com
 numc.corebridgefinancial.com
 perf.api.corebridgefinancial.com
-lifeportal.corebridgefinancial.com
 live.servicesintg.appian.corebridgefinancial.com
 qawaf.corebridgefinancial.com
 serc.corebridgefinancial.com
@@ -176,7 +173,6 @@ qa.esubws.life2.corebridgefinancial.com
 shelby.corebridgefinancial.com
 aemservices.dmp.corebridgefinancial.com
 fscj.corebridgefinancial.com
-www.dmp.corebridgefinancial.com
 elcwbs.life2.corebridgefinancial.com
 devsite2.corebridgefinancial.com
 astate.corebridgefinancial.com
@@ -285,7 +281,7 @@ wku.corebridgefinancial.com
 aemservices-qa.dmp.corebridgefinancial.com
 demo.corebridgefinancial.com
 dub-002-gen.connect.corebridgefinancial.com
-www.brandcentral.corebridgefinancial.com
+brandcentral.corebridgefinancial.com
 navicenthealth.corebridgefinancial.com
 osu.corebridgefinancial.com
 ucc-lon.connect.corebridgefinancial.com
@@ -307,7 +303,6 @@ cdom.corebridgefinancial.com
 click.life.corebridgefinancial.com
 jmc.corebridgefinancial.com
 live.agsourcetrac.im.corebridgefinancial.com
-brandcentral.corebridgefinancial.com
 qaauthor.corebridgefinancial.com
 site2.corebridgefinancial.com
 testpolicyservicews.corebridgefinancial.com
@@ -499,7 +494,6 @@ sbisd.corebridgefinancial.com
 waf-preview.dmp.corebridgefinancial.com
 mybenefitfair.corebridgefinancial.com
 qa.erws.life2.corebridgefinancial.com
-www.brandcentral-test.corebridgefinancial.com
 live.arws.life2.corebridgefinancial.com
 stthomas.corebridgefinancial.com
 testcrlresponse.corebridgefinancial.com
@@ -551,28 +545,13 @@ support.gtm-ext.corebridgefinancial.com
 uat.dpapiuatserviceintg.appian.corebridgefinancial.com
 live.portalserver2.appian.corebridgefinancial.com
 livedsu-plb.dsu.corebridgefinancial.com
-*.developers.corebridgefinancial.com
-*.cloud.api.corebridgefinancial.com
-*.pci.api.corebridgefinancial.com
-*.poc.web.corebridgefinancial.com
-*.corebridgefinancial.com
-*.developer.corebridgefinancial.com
-*.dev.connector.corebridgefinancial.com
-*.dmp.corebridgefinancial.com
-*.paymentus.life2.corebridgefinancial.com
-*.customerpltfm.corebridgefinancial.com
-*.lifeportal.corebridgefinancial.com
-*.live.connector.corebridgefinancial.com
-*.api.corebridgefinancial.com
-*.uat.connector.corebridgefinancial.com
-*.poc.api.corebridgefinancial.com
-*.connext.corebridgefinancial.com
-live.connector.corebridgefinancial.com
+poc.web.corebridgefinancial.com
 dev.connector.corebridgefinancial.com
+live.connector.corebridgefinancial.com
 rs.poc.apigateway.corebridgefinancial.com
 apigateway.corebridgefinancial.com
 dev.apigateway.corebridgefinancial.com
 mycrbgpwd.corebridgefinancial.com
-*.live.apigateway.corebridgefinancial.com
+live.apigateway.corebridgefinancial.com
 dev.api.corebridgefinancial.com
 acsprodpreview.dmp.corebridgefinancial.com

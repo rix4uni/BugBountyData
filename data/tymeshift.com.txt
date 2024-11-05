@@ -10,7 +10,6 @@ forestadmin-us1.tymeshift.com
 forestadmin-us2.tymeshift.com
 go.tymeshift.com
 proxy.tymeshift.com
-www.tymeshift.com
 redis2-us1.tymeshift.com
 track.tymeshift.com
 monyog.tymeshift.com
@@ -36,4 +35,3 @@ postmates.tymeshift.com
 redis3-us1.tymeshift.com
 status.tymeshift.com
 www2.tymeshift.com
-*.tymeshift.com

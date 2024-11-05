@@ -2,7 +2,6 @@ shelfless.bring.dk
 pickup.bring.dk
 shelfless.qa.bring.dk
 tracking.qa.bring.dk
-www.bring.dk
 tracking.bring.dk
 beta.tracking.bring.dk
 beta.bring.dk
@@ -10,7 +9,6 @@ pickup.qa.bring.dk
 retur.bring.dk
 booking.bring.dk
 mylink.mobil.bring.dk
-www.mylink.mobil.bring.dk
-www.qa.bring.dk
-www.prod.bring.dk
-www.qa.mylink.mobil.bring.dk
+qa.bring.dk
+prod.bring.dk
+qa.mylink.mobil.bring.dk

@@ -14,7 +14,6 @@ jbossjeffe.coreos.com
 alertmanagers.monitoring.coreos.com
 hooks.coreos.com
 prometheusrule.monitoring.coreos.com
-www.coreos.com
 etcd.database.coreos.com
 binding.operators.coreos.com
 etcd.coreos.com

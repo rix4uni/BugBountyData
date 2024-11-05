@@ -1,6 +1,3 @@
-*.03231761.qulture.rocks
-*.26c9e418.qulture.rocks
-*.9b7b6474.qulture.rocks
 03231761.qulture.rocks
 26c9e418.qulture.rocks
 9b7b6474.qulture.rocks
@@ -75,10 +72,6 @@ tunnel.qulture.rocks
 web.qulture.rocks
 wss.qulture.rocks
 wss-qa.qulture.rocks
-www.qulture.rocks
-www.app.qulture.rocks
-www.inspire.qulture.rocks
-www.site.qulture.rocks
 api.26c9e418.qulture.rocks
 api.9b7b6474.qulture.rocks
 app.26c9e418.qulture.rocks
@@ -89,8 +82,6 @@ email.qulture.rocks
 prod.qulture.rocks
 sftp.qulture.rocks
 universidade.qulture.rocks
-www.26c9e418.qulture.rocks
-www.9b7b6474.qulture.rocks
 bid48zh.9475110m.qulture.rocks
 conteudos.qulture.rocks
 cs.qulture.rocks
@@ -98,6 +89,5 @@ migration.qulture.rocks
 api.03231761.qulture.rocks
 app.03231761.qulture.rocks
 bastion.9b7b6474.qulture.rocks
-www.03231761.qulture.rocks
 atlantis.qulture.rocks
 clickcs.qulture.rocks

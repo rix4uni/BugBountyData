@@ -1,7 +1,5 @@
 echo.sandbox.trek10.com
 prod2.trek10.com
-*.prod2.trek10.com
-*.trek10.com
 datadogapi-eu-west.trek10.com
 platform.trek10.com
 cu-866a7pdun-fix.dev.auth0.trek10.com
@@ -12,7 +10,6 @@ dev.hyperplane.trek10.com
 t10sandbox.lti.sandbox.trek10.com
 2a57j77puya2p1r5wvxieh87woyv11d.apprunner.sandbox.trek10.com
 barney.sandbox.trek10.com
-www.trek10.com
 new.ssummers.sandbox.trek10.com
 workshops.trek10.com
 learn.trek10.com
@@ -57,7 +54,6 @@ fulde.lti.lllow.cloud.sandbox.trek10.com
 t10sandbox.lti.lllow.cloud.sandbox.trek10.com
 dev.ofn.trek10.com
 vpn-test.sandbox.trek10.com
-www.fedmine-test.sandbox.trek10.com
 fulde.lowtaxinfo.com.sandbox.trek10.com
 coverage-advisor-staging.trek10.com
 umbrella.sandbox.trek10.com
@@ -91,7 +87,7 @@ barney.lllow.cloud.sandbox.trek10.com
 code.trek10.com
 schedule.asaptire.sandbox.trek10.com
 pritunl.sandbox.trek10.com
-www.vpn.trek10.com
+vpn.trek10.com
 lti.lllow.cloud.85ztwk2gh.lti.sandbox.trek10.com
 datadog.trek10.com
 docs.faaapi.sandbox.trek10.com
@@ -115,7 +111,6 @@ test.sandbox.trek10.com
 foobarbbq.sandbox.trek10.com
 ualargocd.sandbox.trek10.com
 85ztwk2gh.lti.lllow.cloud.sandbox.trek10.com
-www.deleteme.sandbox.trek10.com
 qa.serverless-starter.sandbox.trek10.com
 registry.trek10.com
 api.barney.lllow.cloud.sandbox.trek10.com
@@ -128,7 +123,7 @@ api.sandbox.trek10.com
 sam-app.sandbox2.trek10.com
 dev.auth0.trek10.com
 odd.sandbox2.trek10.com
-www.aviatrix.trek10.com
+aviatrix.trek10.com
 simulators.trek10.com
 85ztwk2gh.lowtaxinfo.sandbox.trek10.com
 scorecard.sandbox.trek10.com
@@ -143,14 +138,12 @@ faa.sandbox.trek10.com
 3-intergation-tests.dev.auth0.trek10.com
 customdns.sandbox.trek10.com
 kowalski2.sandbox.trek10.com
-www.cpm.trek10.com
 dev.schedule.asaptire.sandbox.trek10.com
 staging2.trek10.com
 projects.trek10.com
 vpntest.sandbox.trek10.com
-www.rapid7.trek10.com
+rapid7.trek10.com
 harbor.trek10.com
-aviatrix.trek10.com
 dev.lti.sandbox.trek10.com
 ual.sandbox.trek10.com
 checkout.trek10.com
@@ -160,12 +153,10 @@ sandbox.trek10.com
 transcoded-videos.output-bucket.sandbox.trek10.com
 t10sandbox.lowtaxinfo.com.sandbox.trek10.com
 rounding-optimizer.sandbox.trek10.com
-vpn.trek10.com
 dev2.trek10.com
 sonarqube.umbrella.sandbox.trek10.com
 deliveryapi1.sandbox.trek10.com
 vpn-us-west-2.trek10.com
-rapid7.trek10.com
 coverage-lite-dev.trek10.com
 barney.lowtaxinfo.com.sandbox.trek10.com
 auth.sandbox.trek10.com

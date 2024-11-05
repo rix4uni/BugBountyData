@@ -85,7 +85,7 @@ deploymentgit.k3s.alliances.sprint.dynatracelabs.com
 demo2-git.k3s.alliances.sprint.dynatracelabs.com
 api-v2git.k3s.alliances.sprint.dynatracelabs.com
 coimbus.k3s.alliances.sprint.dynatracelabs.com
-www.1.k3s.alliances.sprint.dynatracelabs.com
+1.k3s.alliances.sprint.dynatracelabs.com
 6xkotmku2b6cj3dl.k3s.alliances.sprint.dynatracelabs.com
 keptn.developer.k3s.alliances.sprint.dynatracelabs.com
 marketplace.gcp.alliances.sprint.dynatracelabs.com
@@ -267,7 +267,7 @@ ci360it.k3s.alliances.sprint.dynatracelabs.com
 bny28ccr8rq32580.k3s.alliances.sprint.dynatracelabs.com
 0ibhwk56sbc1ef4r.k3s.alliances.sprint.dynatracelabs.com
 cpsjcalasanzbad.k3s.alliances.sprint.dynatracelabs.com
-www.alliances-keptn.k3s.alliances.sprint.dynatracelabs.com
+alliances-keptn.k3s.alliances.sprint.dynatracelabs.com
 2git.k3s.alliances.sprint.dynatracelabs.com
 bf65860bweit.k3s.alliances.sprint.dynatracelabs.com
 5.k3s.alliances.sprint.dynatracelabs.com
@@ -322,7 +322,7 @@ defaultkeptn.k3s.alliances.sprint.dynatracelabs.com
 dev-pakeptn.k3s.alliances.sprint.dynatracelabs.com
 analyticsmq-server-keptn.k3s.alliances.sprint.dynatracelabs.com
 226.k3s.alliances.sprint.dynatracelabs.com
-www.demo29.k3s.alliances.sprint.dynatracelabs.com
+demo29.k3s.alliances.sprint.dynatracelabs.com
 cdh-sprint.k3s.alliances.sprint.dynatracelabs.com
 at.k3s.alliances.sprint.dynatracelabs.com
 bwlj39sdkbc0lzhd.k3s.alliances.sprint.dynatracelabs.com
@@ -438,7 +438,7 @@ carwars-assets.k3s.alliances.sprint.dynatracelabs.com
 dgc1.k3s.alliances.sprint.dynatracelabs.com
 demoabilitykeptn.k3s.alliances.sprint.dynatracelabs.com
 keptn.bas-sprint.k3s.alliances.sprint.dynatracelabs.com
-www.config.k3s.alliances.sprint.dynatracelabs.com
+config.k3s.alliances.sprint.dynatracelabs.com
 crystallake.k3s.alliances.sprint.dynatracelabs.com
 arqsep.k3s.alliances.sprint.dynatracelabs.com
 bas-dev-keptn.k3s.alliances.sprint.dynatracelabs.com
@@ -467,7 +467,7 @@ keptn.com.k3s.alliances.sprint.dynatracelabs.com
 keptn.bas-backend.k3s.alliances.sprint.dynatracelabs.com
 hay.jahn-keptn.alliances.sprint.dynatracelabs.com
 dagit.k3s.alliances.sprint.dynatracelabs.com
-www.keptn.admin-web.k3s.alliances.sprint.dynatracelabs.com
+keptn.admin-web.k3s.alliances.sprint.dynatracelabs.com
 33n2ch6kwyjhy65i.k3s.alliances.sprint.dynatracelabs.com
 bas-dev.k3s.alliances.sprint.dynatracelabs.com
 communication-servicegit.k3s.alliances.sprint.dynatracelabs.com
@@ -683,13 +683,12 @@ demopos.k3s.alliances.sprint.dynatracelabs.com
 access2.k3s.alliances.sprint.dynatracelabs.com
 git.demo29.k3s.alliances.sprint.dynatracelabs.com
 4897it.k3s.alliances.sprint.dynatracelabs.com
-www.git.backstage.k3s.alliances.sprint.dynatracelabs.com
+git.backstage.k3s.alliances.sprint.dynatracelabs.com
 admregis.k3s.alliances.sprint.dynatracelabs.com
 beechi.k3s.alliances.sprint.dynatracelabs.com
 git.ap.k3s.alliances.sprint.dynatracelabs.com
 git.awa64997.k3s.alliances.sprint.dynatracelabs.com
 ar-keptn.k3s.alliances.sprint.dynatracelabs.com
-www.ci360-keptn.k3s.alliances.sprint.dynatracelabs.com
 apjepp.k3s.alliances.sprint.dynatracelabs.com
 cfg78236.k3s.alliances.sprint.dynatracelabs.com
 cdn1-platform.k3s.alliances.sprint.dynatracelabs.com
@@ -723,11 +722,11 @@ auroras3ccfinds.k3s.alliances.sprint.dynatracelabs.com
 darkdragon.k3s.alliances.sprint.dynatracelabs.com
 git.assign.k3s.alliances.sprint.dynatracelabs.com
 147.k3s.alliances.sprint.dynatracelabs.com
-www.developersgit.k3s.alliances.sprint.dynatracelabs.com
+developersgit.k3s.alliances.sprint.dynatracelabs.com
 asj34817-keptn.k3s.alliances.sprint.dynatracelabs.com
 demo15-git.k3s.alliances.sprint.dynatracelabs.com
 cannabox.k3s.alliances.sprint.dynatracelabs.com
-www.assignkeptn.k3s.alliances.sprint.dynatracelabs.com
+assignkeptn.k3s.alliances.sprint.dynatracelabs.com
 bf77887wnh-git.k3s.alliances.sprint.dynatracelabs.com
 vast.jahn-keptn.alliances.sprint.dynatracelabs.com
 danielgit.k3s.alliances.sprint.dynatracelabs.com
@@ -759,7 +758,6 @@ git.bf-sprint.k3s.alliances.sprint.dynatracelabs.com
 corpgit.k3s.alliances.sprint.dynatracelabs.com
 billingreportsapi-eu1.k3s.alliances.sprint.dynatracelabs.com
 concourse-prodgit.k3s.alliances.sprint.dynatracelabs.com
-www.git.andrzej.k3s.alliances.sprint.dynatracelabs.com
 api-staging-git.k3s.alliances.sprint.dynatracelabs.com
 git.bas-test.k3s.alliances.sprint.dynatracelabs.com
 api-v2it.k3s.alliances.sprint.dynatracelabs.com
@@ -795,7 +793,7 @@ ayots-cn-shanghai-ssd-b-public.k3s.alliances.sprint.dynatracelabs.com
 keptn.aws.k3s.alliances.sprint.dynatracelabs.com
 git.cdn.k3s.alliances.sprint.dynatracelabs.com
 keptn.admin.k3s.alliances.sprint.dynatracelabs.com
-www.git.demo21.k3s.alliances.sprint.dynatracelabs.com
+git.demo21.k3s.alliances.sprint.dynatracelabs.com
 keptn.bugs.k3s.alliances.sprint.dynatracelabs.com
 0b5cb5e5a73b9ea36.k3s.alliances.sprint.dynatracelabs.com
 d7c6.k3s.alliances.sprint.dynatracelabs.com
@@ -929,7 +927,7 @@ demo37.k3s.alliances.sprint.dynatracelabs.com
 aea69765git.k3s.alliances.sprint.dynatracelabs.com
 chronosit.k3s.alliances.sprint.dynatracelabs.com
 keptn.apmdemo.k3s.alliances.sprint.dynatracelabs.com
-www.5keptn.k3s.alliances.sprint.dynatracelabs.com
+5keptn.k3s.alliances.sprint.dynatracelabs.com
 keptn.deve2e.k3s.alliances.sprint.dynatracelabs.com
 demo9-git.k3s.alliances.sprint.dynatracelabs.com
 breizhcafe.k3s.alliances.sprint.dynatracelabs.com
@@ -953,7 +951,6 @@ cdn-aijge.k3s.alliances.sprint.dynatracelabs.com
 asj34817.k3s.alliances.sprint.dynatracelabs.com
 alnnggts303-dmz1.k3s.alliances.sprint.dynatracelabs.com
 keptn.demo38.k3s.alliances.sprint.dynatracelabs.com
-developersgit.k3s.alliances.sprint.dynatracelabs.com
 dis04.k3s.alliances.sprint.dynatracelabs.com
 7kc882.k3s.alliances.sprint.dynatracelabs.com
 aws-eu-central-1-dop2.k3s.alliances.sprint.dynatracelabs.com
@@ -1147,7 +1144,7 @@ keptn.assign.k3s.alliances.sprint.dynatracelabs.com
 d5d5.k3s.alliances.sprint.dynatracelabs.com
 cluster-us-west-2-hrd-bfcea1e8-9edc-4f17-af84-b14233064261.k3s.alliances.sprint.dynatracelabs.com
 argo-git.k3s.alliances.sprint.dynatracelabs.com
-www.bf39166geg-git.k3s.alliances.sprint.dynatracelabs.com
+bf39166geg-git.k3s.alliances.sprint.dynatracelabs.com
 mywebsite.jahn-keptn.alliances.sprint.dynatracelabs.com
 demo13-keptn.k3s.alliances.sprint.dynatracelabs.com
 cdn-luxresortsandhotels.k3s.alliances.sprint.dynatracelabs.com
@@ -1321,7 +1318,6 @@ vqp.jahn-keptn.alliances.sprint.dynatracelabs.com
 cloudcontrol-dev-git.k3s.alliances.sprint.dynatracelabs.com
 demo2-svc-git.k3s.alliances.sprint.dynatracelabs.com
 hyung05021.jahn-keptn.alliances.sprint.dynatracelabs.com
-keptn.admin-web.k3s.alliances.sprint.dynatracelabs.com
 git.april.k3s.alliances.sprint.dynatracelabs.com
 keptn.blog.k3s.alliances.sprint.dynatracelabs.com
 dev6git.k3s.alliances.sprint.dynatracelabs.com
@@ -1338,7 +1334,7 @@ git.bf39989bql.k3s.alliances.sprint.dynatracelabs.com
 b14233064261.k3s.alliances.sprint.dynatracelabs.com
 keptn.ada-api.k3s.alliances.sprint.dynatracelabs.com
 ctf1git.k3s.alliances.sprint.dynatracelabs.com
-www.cluster-eu-west-1-iam-test-devkeptn.k3s.alliances.sprint.dynatracelabs.com
+cluster-eu-west-1-iam-test-devkeptn.k3s.alliances.sprint.dynatracelabs.com
 dev.k3s.alliances.sprint.dynatracelabs.com
 git.assistant-sprint.k3s.alliances.sprint.dynatracelabs.com
 authenticate.k3s.alliances.sprint.dynatracelabs.com
@@ -1720,7 +1716,6 @@ hexf51rcyklmpafp.dagster.k3s.alliances.sprint.dynatracelabs.com
 apps.k3s.alliances.sprint.dynatracelabs.com
 ap-sprint2-aws-us-east-1mq-server-edge.k3s.alliances.sprint.dynatracelabs.com
 keptn.apollo.k3s.alliances.sprint.dynatracelabs.com
-www.csa-keptn.k3s.alliances.sprint.dynatracelabs.com
 adakeptn.k3s.alliances.sprint.dynatracelabs.com
 commons.k3s.alliances.sprint.dynatracelabs.com
 git.ada.k3s.alliances.sprint.dynatracelabs.com
@@ -1807,7 +1802,6 @@ keptn.aks.k3s.alliances.sprint.dynatracelabs.com
 keptn.cluster-eu-west-1-acceptancee2e-euwest.k3s.alliances.sprint.dynatracelabs.com
 adkeptn.k3s.alliances.sprint.dynatracelabs.com
 web12005emo2.ocp.jahn-keptn.alliances.sprint.dynatracelabs.com
-www.adam-git.k3s.alliances.sprint.dynatracelabs.com
 cas.k3s.alliances.sprint.dynatracelabs.com
 bf42099jbd-bf.jahn-keptn.alliances.sprint.dynatracelabs.com
 26sfwk24zfvoczr4.k3s.alliances.sprint.dynatracelabs.com
@@ -1825,7 +1819,7 @@ dasanyuanyulechengdaili.k3s.alliances.sprint.dynatracelabs.com
 8urq6xyeeepf5kze.k3s.alliances.sprint.dynatracelabs.com
 aksit.k3s.alliances.sprint.dynatracelabs.com
 git.assistant.k3s.alliances.sprint.dynatracelabs.com
-www.account-datakeptn.k3s.alliances.sprint.dynatracelabs.com
+account-datakeptn.k3s.alliances.sprint.dynatracelabs.com
 cgrc-org.k3s.alliances.sprint.dynatracelabs.com
 43n2fna26vzqrb7h.k3s.alliances.sprint.dynatracelabs.com
 cname-holland-rijnland.k3s.alliances.sprint.dynatracelabs.com
@@ -1840,11 +1834,11 @@ daniel.k3s.alliances.sprint.dynatracelabs.com
 cloudcontrol-sprint-git.k3s.alliances.sprint.dynatracelabs.com
 a6ngledrqenroyji.ada.k3s.alliances.sprint.dynatracelabs.com
 demo33.k3s.alliances.sprint.dynatracelabs.com
-www.backstagegit.k3s.alliances.sprint.dynatracelabs.com
+backstagegit.k3s.alliances.sprint.dynatracelabs.com
 carpeit.k3s.alliances.sprint.dynatracelabs.com
 git.brasil.k3s.alliances.sprint.dynatracelabs.com
 communautes.k3s.alliances.sprint.dynatracelabs.com
-www.ada-keptn.k3s.alliances.sprint.dynatracelabs.com
+ada-keptn.k3s.alliances.sprint.dynatracelabs.com
 0fxlm3wlzpmfojfa.k3s.alliances.sprint.dynatracelabs.com
 ataru-reikan-reisi-uranai-soudan-jyouhoukyoku.k3s.alliances.sprint.dynatracelabs.com
 atm9.k3s.alliances.sprint.dynatracelabs.com
@@ -1889,7 +1883,6 @@ demo26-git.k3s.alliances.sprint.dynatracelabs.com
 bid47pd.k3s.alliances.sprint.dynatracelabs.com
 bas-sandboxit.k3s.alliances.sprint.dynatracelabs.com
 demo12-git.k3s.alliances.sprint.dynatracelabs.com
-www.git.demo24.k3s.alliances.sprint.dynatracelabs.com
 managed-gateway.confluence.jahn-keptn.alliances.sprint.dynatracelabs.com
 demogit.k3s.alliances.sprint.dynatracelabs.com
 davis-micros-git.k3s.alliances.sprint.dynatracelabs.com
@@ -1945,7 +1938,7 @@ maersk.jahn-keptn.alliances.sprint.dynatracelabs.com
 baijialedewanfashizenyangde.k3s.alliances.sprint.dynatracelabs.com
 caderno2009.k3s.alliances.sprint.dynatracelabs.com
 5qu9gc68fq357r5p.k3s.alliances.sprint.dynatracelabs.com
-www.bf30203gyi.k3s.alliances.sprint.dynatracelabs.com
+bf30203gyi.k3s.alliances.sprint.dynatracelabs.com
 bocaidianziyouxiji.k3s.alliances.sprint.dynatracelabs.com
 111.k3s.alliances.sprint.dynatracelabs.com
 wildcardsubdomaintoprocess.brand.k3s.alliances.sprint.dynatracelabs.com
@@ -1984,7 +1977,7 @@ git.demo39.k3s.alliances.sprint.dynatracelabs.com
 billhigham.k3s.alliances.sprint.dynatracelabs.com
 chp39918-git.k3s.alliances.sprint.dynatracelabs.com
 ctf1-keptn.k3s.alliances.sprint.dynatracelabs.com
-www.demo17-git.k3s.alliances.sprint.dynatracelabs.com
+demo17-git.k3s.alliances.sprint.dynatracelabs.com
 attachment.k3s.alliances.sprint.dynatracelabs.com
 keptn.ctf1.k3s.alliances.sprint.dynatracelabs.com
 a22hole.k3s.alliances.sprint.dynatracelabs.com
@@ -2056,7 +2049,6 @@ daniel-keptn.k3s.alliances.sprint.dynatracelabs.com
 axi48nknn2kkblde.k3s.alliances.sprint.dynatracelabs.com
 awesome-translator.k3s.alliances.sprint.dynatracelabs.com
 business-keptn.k3s.alliances.sprint.dynatracelabs.com
-git.demo21.k3s.alliances.sprint.dynatracelabs.com
 keptn.azure-modernize-workshop.k3s.alliances.sprint.dynatracelabs.com
 artemis-searchkeptn.k3s.alliances.sprint.dynatracelabs.com
 catalogo.k3s.alliances.sprint.dynatracelabs.com
@@ -2078,7 +2070,6 @@ jbf.jahn-keptn.alliances.sprint.dynatracelabs.com
 boblbee.k3s.alliances.sprint.dynatracelabs.com
 24ea34c30ebe.k3s.alliances.sprint.dynatracelabs.com
 git.cacti.k3s.alliances.sprint.dynatracelabs.com
-www.dev101git.k3s.alliances.sprint.dynatracelabs.com
 azure-marketplace.k3s.alliances.sprint.dynatracelabs.com
 davis-for-alb-lambda-git.k3s.alliances.sprint.dynatracelabs.com
 admpublik.k3s.alliances.sprint.dynatracelabs.com
@@ -2091,7 +2082,6 @@ bas.k3s.alliances.sprint.dynatracelabs.com
 git.ctl.k3s.alliances.sprint.dynatracelabs.com
 vasoula.jahn-keptn.alliances.sprint.dynatracelabs.com
 demo15.k3s.alliances.sprint.dynatracelabs.com
-www.keptn.dev5.k3s.alliances.sprint.dynatracelabs.com
 digitalcamel.k3s.alliances.sprint.dynatracelabs.com
 cloudcontrolgit.k3s.alliances.sprint.dynatracelabs.com
 azure-modernize-workshop-stg-git.k3s.alliances.sprint.dynatracelabs.com
@@ -2156,7 +2146,7 @@ cui38248git.k3s.alliances.sprint.dynatracelabs.com
 ap-keptn.k3s.alliances.sprint.dynatracelabs.com
 8.k3s.alliances.sprint.dynatracelabs.com
 bf61362ecq-keptn.k3s.alliances.sprint.dynatracelabs.com
-www.keptn.activegate.k3s.alliances.sprint.dynatracelabs.com
+keptn.activegate.k3s.alliances.sprint.dynatracelabs.com
 ca05ywn3pi38hz4f.k3s.alliances.sprint.dynatracelabs.com
 at.confluence.jahn-keptn.alliances.sprint.dynatracelabs.com
 cluster-acceptancee2e-keptn.k3s.alliances.sprint.dynatracelabs.com
@@ -2357,7 +2347,7 @@ git.ci360-dev.k3s.alliances.sprint.dynatracelabs.com
 administrator.k3s.alliances.sprint.dynatracelabs.com
 8ad1ad1cca56.k3s.alliances.sprint.dynatracelabs.com
 baijialebaosha.k3s.alliances.sprint.dynatracelabs.com
-www.keptn.artur.k3s.alliances.sprint.dynatracelabs.com
+keptn.artur.k3s.alliances.sprint.dynatracelabs.com
 5git.k3s.alliances.sprint.dynatracelabs.com
 01it.k3s.alliances.sprint.dynatracelabs.com
 designskeptn.k3s.alliances.sprint.dynatracelabs.com
@@ -2393,7 +2383,6 @@ notes2.jahn-keptn.alliances.sprint.dynatracelabs.com
 changningshi.k3s.alliances.sprint.dynatracelabs.com
 git.biblioteca.k3s.alliances.sprint.dynatracelabs.com
 bsd-keptn.k3s.alliances.sprint.dynatracelabs.com
-ada-keptn.k3s.alliances.sprint.dynatracelabs.com
 apl-keptn.k3s.alliances.sprint.dynatracelabs.com
 buckykeptn.k3s.alliances.sprint.dynatracelabs.com
 autoprov-git.k3s.alliances.sprint.dynatracelabs.com
@@ -2417,7 +2406,7 @@ bf83031mbu.k3s.alliances.sprint.dynatracelabs.com
 dev1-vm2.k3s.alliances.sprint.dynatracelabs.com
 coveoconfluence.jahn-keptn.alliances.sprint.dynatracelabs.com
 bf79721aof.k3s.alliances.sprint.dynatracelabs.com
-www.defgit.k3s.alliances.sprint.dynatracelabs.com
+defgit.k3s.alliances.sprint.dynatracelabs.com
 connectorit.k3s.alliances.sprint.dynatracelabs.com
 keptn.0.k3s.alliances.sprint.dynatracelabs.com
 communication.k3s.alliances.sprint.dynatracelabs.com
@@ -2461,7 +2450,7 @@ git.bas-sandbox.k3s.alliances.sprint.dynatracelabs.com
 browse.k3s.alliances.sprint.dynatracelabs.com
 bocuruk.k3s.alliances.sprint.dynatracelabs.com
 42td5cv7iqwg8cpo.k3s.alliances.sprint.dynatracelabs.com
-www.ckjjmhb8lny0vyh2.k3s.alliances.sprint.dynatracelabs.com
+ckjjmhb8lny0vyh2.k3s.alliances.sprint.dynatracelabs.com
 brokergit.k3s.alliances.sprint.dynatracelabs.com
 connect-qtoserver-uks.k3s.alliances.sprint.dynatracelabs.com
 code-keptn.k3s.alliances.sprint.dynatracelabs.com
@@ -2470,7 +2459,7 @@ arcaplanet.k3s.alliances.sprint.dynatracelabs.com
 cyclestore.k3s.alliances.sprint.dynatracelabs.com
 sub-97-59-28-o8.apps.us.jahn-keptn.alliances.sprint.dynatracelabs.com
 8sq11j9a3dahfyw5.k3s.alliances.sprint.dynatracelabs.com
-www.dev7.k3s.alliances.sprint.dynatracelabs.com
+dev7.k3s.alliances.sprint.dynatracelabs.com
 backendkeptn.k3s.alliances.sprint.dynatracelabs.com
 3nmyv3iajscidm73.k3s.alliances.sprint.dynatracelabs.com
 git.demo25.k3s.alliances.sprint.dynatracelabs.com
@@ -2493,7 +2482,6 @@ sgc73453.sprint.dynatracelabs.com
 24ea34c30ebegit.k3s.alliances.sprint.dynatracelabs.com
 keptn.customer-server.k3s.alliances.sprint.dynatracelabs.com
 182.k3s.alliances.sprint.dynatracelabs.com
-assignkeptn.k3s.alliances.sprint.dynatracelabs.com
 keptn.contract-svc.k3s.alliances.sprint.dynatracelabs.com
 azuregit.k3s.alliances.sprint.dynatracelabs.com
 bf-sprint.k3s.alliances.sprint.dynatracelabs.com
@@ -2548,7 +2536,7 @@ dakswomen.k3s.alliances.sprint.dynatracelabs.com
 atlassianmq-server-git.k3s.alliances.sprint.dynatracelabs.com
 cloudcontrol-sprint.k3s.alliances.sprint.dynatracelabs.com
 cl9swm1xpat50h9z.k3s.alliances.sprint.dynatracelabs.com
-www.moonjam.users.jahn-keptn.alliances.sprint.dynatracelabs.com
+moonjam.users.jahn-keptn.alliances.sprint.dynatracelabs.com
 classroom.k3s.alliances.sprint.dynatracelabs.com
 4p0z8n5mgoalfvvh.k3s.alliances.sprint.dynatracelabs.com
 climexp-old.k3s.alliances.sprint.dynatracelabs.com
@@ -2582,7 +2570,7 @@ cp.k3s.alliances.sprint.dynatracelabs.com
 guild.apps.jahn-keptn.alliances.sprint.dynatracelabs.com
 2-git.k3s.alliances.sprint.dynatracelabs.com
 keptn.debug.k3s.alliances.sprint.dynatracelabs.com
-www.asj34817keptn.k3s.alliances.sprint.dynatracelabs.com
+asj34817keptn.k3s.alliances.sprint.dynatracelabs.com
 git.aws-modernize-workshop.k3s.alliances.sprint.dynatracelabs.com
 ctu0vgzn7x8mco3w.k3s.alliances.sprint.dynatracelabs.com
 dev-pcf-3-stratus.k3s.alliances.sprint.dynatracelabs.com
@@ -2666,7 +2654,6 @@ demo49-keptn.k3s.alliances.sprint.dynatracelabs.com
 agendait.k3s.alliances.sprint.dynatracelabs.com
 2lqe5esw5p3011dr.k3s.alliances.sprint.dynatracelabs.com
 broker-keptn.k3s.alliances.sprint.dynatracelabs.com
-www.code-keptn.k3s.alliances.sprint.dynatracelabs.com
 corpkeptn.k3s.alliances.sprint.dynatracelabs.com
 101.k3s.alliances.sprint.dynatracelabs.com
 bcg24249-git.k3s.alliances.sprint.dynatracelabs.com
@@ -2709,7 +2696,6 @@ ap-sandbox-01-virginia.k3s.alliances.sprint.dynatracelabs.com
 demo19-git.k3s.alliances.sprint.dynatracelabs.com
 argo-dok-sandboxkeptn.k3s.alliances.sprint.dynatracelabs.com
 abc12345git.k3s.alliances.sprint.dynatracelabs.com
-git.backstage.k3s.alliances.sprint.dynatracelabs.com
 demo20-git.k3s.alliances.sprint.dynatracelabs.com
 blahblah.k3s.alliances.sprint.dynatracelabs.com
 developers-auth-keptn.k3s.alliances.sprint.dynatracelabs.com
@@ -2744,7 +2730,6 @@ idpp-dev.jahn-keptn.alliances.sprint.dynatracelabs.com
 chat-one.k3s.alliances.sprint.dynatracelabs.com
 1-git.k3s.alliances.sprint.dynatracelabs.com
 git.bt.k3s.alliances.sprint.dynatracelabs.com
-bf30203gyi.k3s.alliances.sprint.dynatracelabs.com
 darkalliance.k3s.alliances.sprint.dynatracelabs.com
 keptn.ap-dev-loadtest-virginia.k3s.alliances.sprint.dynatracelabs.com
 account-dev-git.k3s.alliances.sprint.dynatracelabs.com
@@ -2781,7 +2766,6 @@ confluenceus.jahn-keptn.alliances.sprint.dynatracelabs.com
 consumption-svc-keptn.k3s.alliances.sprint.dynatracelabs.com
 analystgit.k3s.alliances.sprint.dynatracelabs.com
 artemis-support-git.k3s.alliances.sprint.dynatracelabs.com
-cluster-eu-west-1-iam-test-devkeptn.k3s.alliances.sprint.dynatracelabs.com
 cluster-eu-west-1-acceptancee2e-euwestkeptn.k3s.alliances.sprint.dynatracelabs.com
 idm-sandbox.confluence.jahn-keptn.alliances.sprint.dynatracelabs.com
 bugsit.k3s.alliances.sprint.dynatracelabs.com
@@ -2964,7 +2948,7 @@ apl.k3s.alliances.sprint.dynatracelabs.com
 dev-git.k3s.alliances.sprint.dynatracelabs.com
 keptn.apps.k3s.alliances.sprint.dynatracelabs.com
 git.carpe.k3s.alliances.sprint.dynatracelabs.com
-www.keptn.demo25.k3s.alliances.sprint.dynatracelabs.com
+keptn.demo25.k3s.alliances.sprint.dynatracelabs.com
 bic5i7cihinjhp9w.k3s.alliances.sprint.dynatracelabs.com
 cdn-adena.k3s.alliances.sprint.dynatracelabs.com
 boatdeck.k3s.alliances.sprint.dynatracelabs.com
@@ -3008,7 +2992,6 @@ brighthorizonsuat.k3s.alliances.sprint.dynatracelabs.com
 apit.k3s.alliances.sprint.dynatracelabs.com
 config-service-healthgit.k3s.alliances.sprint.dynatracelabs.com
 23sj52ohoblwglfu.k3s.alliances.sprint.dynatracelabs.com
-www.deus-dev-git.k3s.alliances.sprint.dynatracelabs.com
 budget-git.k3s.alliances.sprint.dynatracelabs.com
 customers.k3s.alliances.sprint.dynatracelabs.com
 chronos.k3s.alliances.sprint.dynatracelabs.com
@@ -3037,14 +3020,12 @@ app-keptn.k3s.alliances.sprint.dynatracelabs.com
 bazel-git.k3s.alliances.sprint.dynatracelabs.com
 cmh.jahn-keptn.alliances.sprint.dynatracelabs.com
 aws-usw2-prod.k3s.alliances.sprint.dynatracelabs.com
-demo17-git.k3s.alliances.sprint.dynatracelabs.com
 ace-keptn.k3s.alliances.sprint.dynatracelabs.com
 cn.k3s.alliances.sprint.dynatracelabs.com
 appns1.k3s.alliances.sprint.dynatracelabs.com
 keptn.alliances.k3s.alliances.sprint.dynatracelabs.com
 keptn.box.k3s.alliances.sprint.dynatracelabs.com
 demo20.k3s.alliances.sprint.dynatracelabs.com
-dev7.k3s.alliances.sprint.dynatracelabs.com
 ace-toolsgit.k3s.alliances.sprint.dynatracelabs.com
 keptn.aws-modernize-workshop.k3s.alliances.sprint.dynatracelabs.com
 boomi.k3s.alliances.sprint.dynatracelabs.com
@@ -3071,7 +3052,7 @@ keptn.blueprint.k3s.alliances.sprint.dynatracelabs.com
 desktop-keptn.k3s.alliances.sprint.dynatracelabs.com
 compliance-svc.k3s.alliances.sprint.dynatracelabs.com
 account-datait.k3s.alliances.sprint.dynatracelabs.com
-www.169.k3s.alliances.sprint.dynatracelabs.com
+169.k3s.alliances.sprint.dynatracelabs.com
 central-git.k3s.alliances.sprint.dynatracelabs.com
 keptn.appframework.k3s.alliances.sprint.dynatracelabs.com
 4ka1569n01v3wv2q.k3s.alliances.sprint.dynatracelabs.com
@@ -3079,7 +3060,6 @@ git.corp.k3s.alliances.sprint.dynatracelabs.com
 abc123.k3s.alliances.sprint.dynatracelabs.com
 davis-experimentalgit.k3s.alliances.sprint.dynatracelabs.com
 deposit-checker.k3s.alliances.sprint.dynatracelabs.com
-account-datakeptn.k3s.alliances.sprint.dynatracelabs.com
 daniel-onboardinggit.k3s.alliances.sprint.dynatracelabs.com
 confluencebf47317hxz.jahn-keptn.alliances.sprint.dynatracelabs.com
 api-hardening-keptn.k3s.alliances.sprint.dynatracelabs.com
@@ -3106,7 +3086,6 @@ atlassianit.k3s.alliances.sprint.dynatracelabs.com
 awa64997.k3s.alliances.sprint.dynatracelabs.com
 apps-loadtest-regression.k3s.alliances.sprint.dynatracelabs.com
 angelica-lime.k3s.alliances.sprint.dynatracelabs.com
-keptn.demo25.k3s.alliances.sprint.dynatracelabs.com
 keptn.biz.k3s.alliances.sprint.dynatracelabs.com
 git.analytics.k3s.alliances.sprint.dynatracelabs.com
 apply-dev-mb.k3s.alliances.sprint.dynatracelabs.com
@@ -3194,7 +3173,6 @@ demo9-keptn.k3s.alliances.sprint.dynatracelabs.com
 keptn.cf-demo.k3s.alliances.sprint.dynatracelabs.com
 akm80ddy56hiqu2x.k3s.alliances.sprint.dynatracelabs.com
 git.cloudcontrol-sandbox.k3s.alliances.sprint.dynatracelabs.com
-demo29.k3s.alliances.sprint.dynatracelabs.com
 keptn.demo17.k3s.alliances.sprint.dynatracelabs.com
 careersplus.k3s.alliances.sprint.dynatracelabs.com
 bf64471rgp.k3s.alliances.sprint.dynatracelabs.com
@@ -3221,7 +3199,6 @@ apps-keptn.k3s.alliances.sprint.dynatracelabs.com
 chat-one-keptn.k3s.alliances.sprint.dynatracelabs.com
 asianosekaii.k3s.alliances.sprint.dynatracelabs.com
 demo25-keptn.k3s.alliances.sprint.dynatracelabs.com
-1.k3s.alliances.sprint.dynatracelabs.com
 keptn.classroom.k3s.alliances.sprint.dynatracelabs.com
 confluence-compliance-svc.jahn-keptn.alliances.sprint.dynatracelabs.com
 bozukdisk.k3s.alliances.sprint.dynatracelabs.com
@@ -3241,7 +3218,6 @@ git.boomi.k3s.alliances.sprint.dynatracelabs.com
 bf44987zhy-keptn.k3s.alliances.sprint.dynatracelabs.com
 bf44987zhy-git.k3s.alliances.sprint.dynatracelabs.com
 git.cf.k3s.alliances.sprint.dynatracelabs.com
-www.bab85675keptn.k3s.alliances.sprint.dynatracelabs.com
 alame-hasanzade.k3s.alliances.sprint.dynatracelabs.com
 cityranger.k3s.alliances.sprint.dynatracelabs.com
 git.angular.k3s.alliances.sprint.dynatracelabs.com
@@ -3284,7 +3260,6 @@ deus-dev.k3s.alliances.sprint.dynatracelabs.com
 cfm05957.k3s.alliances.sprint.dynatracelabs.com
 carpe-appskeptn.k3s.alliances.sprint.dynatracelabs.com
 biz-test-keptn.k3s.alliances.sprint.dynatracelabs.com
-keptn.artur.k3s.alliances.sprint.dynatracelabs.com
 backend-git.k3s.alliances.sprint.dynatracelabs.com
 captions.k3s.alliances.sprint.dynatracelabs.com
 cfms.k3s.alliances.sprint.dynatracelabs.com
@@ -3325,7 +3300,6 @@ lab.jahn-keptn.alliances.sprint.dynatracelabs.com
 augaa0le1gfq2o7v.k3s.alliances.sprint.dynatracelabs.com
 account-sandbox.k3s.alliances.sprint.dynatracelabs.com
 cba542.k3s.alliances.sprint.dynatracelabs.com
-config.k3s.alliances.sprint.dynatracelabs.com
 239.k3s.alliances.sprint.dynatracelabs.com
 abc123-git.k3s.alliances.sprint.dynatracelabs.com
 77ca.k3s.alliances.sprint.dynatracelabs.com
@@ -3496,7 +3470,6 @@ git.apis.k3s.alliances.sprint.dynatracelabs.com
 git.bug.k3s.alliances.sprint.dynatracelabs.com
 contractacio.k3s.alliances.sprint.dynatracelabs.com
 ciscokeptn.k3s.alliances.sprint.dynatracelabs.com
-defgit.k3s.alliances.sprint.dynatracelabs.com
 developmentgit.k3s.alliances.sprint.dynatracelabs.com
 734b6eb69600.bf39166geg.k3s.alliances.sprint.dynatracelabs.com
 siem-dev.internal.ace-tools.sprint.dynatracelabs.com
@@ -3645,7 +3618,6 @@ b9dmpk7rz1qup2b7.k3s.alliances.sprint.dynatracelabs.com
 bitbucket.k3s.alliances.sprint.dynatracelabs.com
 wildcardsubdomaintoprocess.cluster.k3s.alliances.sprint.dynatracelabs.com
 git.deployment.k3s.alliances.sprint.dynatracelabs.com
-asj34817keptn.k3s.alliances.sprint.dynatracelabs.com
 a-git.k3s.alliances.sprint.dynatracelabs.com
 bf49960xxngit.k3s.alliances.sprint.dynatracelabs.com
 bc-backup.k3s.alliances.sprint.dynatracelabs.com
@@ -3759,7 +3731,6 @@ clients.k3s.alliances.sprint.dynatracelabs.com
 wildcardsubdomaintoprocess.cms.k3s.alliances.sprint.dynatracelabs.com
 alpha-git.k3s.alliances.sprint.dynatracelabs.com
 deb-drop.k3s.alliances.sprint.dynatracelabs.com
-ckjjmhb8lny0vyh2.k3s.alliances.sprint.dynatracelabs.com
 734b6eb69600.dev3.k3s.alliances.sprint.dynatracelabs.com
 default-keptn.k3s.alliances.sprint.dynatracelabs.com
 git.attachment.k3s.alliances.sprint.dynatracelabs.com
@@ -3855,7 +3826,6 @@ bugreporterkeptn.k3s.alliances.sprint.dynatracelabs.com
 26.k3s.alliances.sprint.dynatracelabs.com
 58.k3s.alliances.sprint.dynatracelabs.com
 develop.k3s.alliances.sprint.dynatracelabs.com
-www.git.config-service.k3s.alliances.sprint.dynatracelabs.com
 container.k3s.alliances.sprint.dynatracelabs.com
 4h1v89816sb5lwjt.k3s.alliances.sprint.dynatracelabs.com
 4lrdhkrtjwa6ucxs.k3s.alliances.sprint.dynatracelabs.com
@@ -3888,11 +3858,9 @@ keptn.demo3.k3s.alliances.sprint.dynatracelabs.com
 acdc.k3s.alliances.sprint.dynatracelabs.com
 api.internal.ace-tools.sprint.dynatracelabs.com
 6cwlbw4jivbbq8t9.k3s.alliances.sprint.dynatracelabs.com
-5keptn.k3s.alliances.sprint.dynatracelabs.com
 defra1-edge-bx-005.k3s.alliances.sprint.dynatracelabs.com
 comanezblog.k3s.alliances.sprint.dynatracelabs.com
 git.bf61362ecq.k3s.alliances.sprint.dynatracelabs.com
-www.dc.k3s.alliances.sprint.dynatracelabs.com
 172.k3s.alliances.sprint.dynatracelabs.com
 git.customer.k3s.alliances.sprint.dynatracelabs.com
 bf77887wnh.k3s.alliances.sprint.dynatracelabs.com
@@ -3922,7 +3890,6 @@ api-qa.k3s.alliances.sprint.dynatracelabs.com
 cloudapp-git.k3s.alliances.sprint.dynatracelabs.com
 clientes-keptn.k3s.alliances.sprint.dynatracelabs.com
 api-cr-dev.k3s.alliances.sprint.dynatracelabs.com
-www.demo20.k3s.alliances.sprint.dynatracelabs.com
 1043jams.k3s.alliances.sprint.dynatracelabs.com
 ci360-data-catalog-keptn.k3s.alliances.sprint.dynatracelabs.com
 developerit.k3s.alliances.sprint.dynatracelabs.com
@@ -4021,7 +3988,6 @@ acceptancee2e-euwest.k3s.alliances.sprint.dynatracelabs.com
 keptn.demo7.k3s.alliances.sprint.dynatracelabs.com
 alt.k3s.alliances.sprint.dynatracelabs.com
 admin-web-backend.k3s.alliances.sprint.dynatracelabs.com
-alliances-keptn.k3s.alliances.sprint.dynatracelabs.com
 autoremediationgit.k3s.alliances.sprint.dynatracelabs.com
 advancedbookings.k3s.alliances.sprint.dynatracelabs.com
 andr-keptn.k3s.alliances.sprint.dynatracelabs.com
@@ -4040,7 +4006,6 @@ amazinsoftware.k3s.alliances.sprint.dynatracelabs.com
 ablistadmin.k3s.alliances.sprint.dynatracelabs.com
 b5723a.k3s.alliances.sprint.dynatracelabs.com
 keptn.bas-test.k3s.alliances.sprint.dynatracelabs.com
-www.artapprkeptn.k3s.alliances.sprint.dynatracelabs.com
 keptn.central.k3s.alliances.sprint.dynatracelabs.com
 auth.k3s.alliances.sprint.dynatracelabs.com
 artemis-bazel-cachegit.k3s.alliances.sprint.dynatracelabs.com
@@ -4158,7 +4123,6 @@ cfm05957keptn.k3s.alliances.sprint.dynatracelabs.com
 cppcmappsync.k3s.alliances.sprint.dynatracelabs.com
 devops-servicesit.k3s.alliances.sprint.dynatracelabs.com
 demo40.k3s.alliances.sprint.dynatracelabs.com
-bf39166geg-git.k3s.alliances.sprint.dynatracelabs.com
 deviceactivations.k3s.alliances.sprint.dynatracelabs.com
 cam.k3s.alliances.sprint.dynatracelabs.com
 bizgit.k3s.alliances.sprint.dynatracelabs.com
@@ -4249,7 +4213,6 @@ gzl42324-confluence.jahn-keptn.alliances.sprint.dynatracelabs.com
 cdn-cjhhk.k3s.alliances.sprint.dynatracelabs.com
 keptn.dev-exp-public.k3s.alliances.sprint.dynatracelabs.com
 corp-git.k3s.alliances.sprint.dynatracelabs.com
-169.k3s.alliances.sprint.dynatracelabs.com
 734b6eb69600.chat-one.k3s.alliances.sprint.dynatracelabs.com
 demo42it.k3s.alliances.sprint.dynatracelabs.com
 channelengine.k3s.alliances.sprint.dynatracelabs.com
@@ -4303,7 +4266,6 @@ keptn.andr2-sf.k3s.alliances.sprint.dynatracelabs.com
 cqp70oiiwl7gua4c.k3s.alliances.sprint.dynatracelabs.com
 bo-ivt.k3s.alliances.sprint.dynatracelabs.com
 4m39g0w1g7m91e9z.k3s.alliances.sprint.dynatracelabs.com
-www.adam-sfgit.k3s.alliances.sprint.dynatracelabs.com
 contract-svc.k3s.alliances.sprint.dynatracelabs.com
 concourse-dev-green.jahn-keptn.alliances.sprint.dynatracelabs.com
 cdn-gnhpd.k3s.alliances.sprint.dynatracelabs.com
@@ -4371,7 +4333,7 @@ git.default.k3s.alliances.sprint.dynatracelabs.com
 biz-testgit.k3s.alliances.sprint.dynatracelabs.com
 artemis-support.k3s.alliances.sprint.dynatracelabs.com
 3dhumangan.k3s.alliances.sprint.dynatracelabs.com
-www.mystore.jahn-keptn.alliances.sprint.dynatracelabs.com
+mystore.jahn-keptn.alliances.sprint.dynatracelabs.com
 taxesadmin.jahn-keptn.alliances.sprint.dynatracelabs.com
 polldubh-confluence.jahn-keptn.alliances.sprint.dynatracelabs.com
 281mui1ud92xiaf4.k3s.alliances.sprint.dynatracelabs.com
@@ -4392,7 +4354,6 @@ clientsit.k3s.alliances.sprint.dynatracelabs.com
 adoh4kwe8enzhw1g.k3s.alliances.sprint.dynatracelabs.com
 css-xp-pcserver--app--canary.k3s.alliances.sprint.dynatracelabs.com
 cloudfrontkeptn.k3s.alliances.sprint.dynatracelabs.com
-www.sprint.dynatracelabs.com
 k3s.alliances.sprint.dynatracelabs.com
 default._bimi.git.assistant.k3s.alliances.sprint.dynatracelabs.com
 bas-loadtestkeptn.k3s.alliances.sprint.dynatracelabs.com
@@ -4421,7 +4382,6 @@ accessmyaccount.k3s.alliances.sprint.dynatracelabs.com
 184.k3s.alliances.sprint.dynatracelabs.com
 jobs-sandbox.jahn-keptn.alliances.sprint.dynatracelabs.com
 demo21-git.k3s.alliances.sprint.dynatracelabs.com
-eww.jahn-keptn.alliances.sprint.dynatracelabs.com
 7lsbd026c4nb2wpy.k3s.alliances.sprint.dynatracelabs.com
 alib-ca.k3s.alliances.sprint.dynatracelabs.com
 cdn-bfdhd.k3s.alliances.sprint.dynatracelabs.com
@@ -4622,7 +4582,6 @@ amoromance26.k3s.alliances.sprint.dynatracelabs.com
 cyanisaac.k3s.alliances.sprint.dynatracelabs.com
 254.k3s.alliances.sprint.dynatracelabs.com
 git.aws-modernize-workshop-stg.k3s.alliances.sprint.dynatracelabs.com
-keptn.activegate.k3s.alliances.sprint.dynatracelabs.com
 amnatcharoen.k3s.alliances.sprint.dynatracelabs.com
 git.appframework.k3s.alliances.sprint.dynatracelabs.com
 appdelivery.k3s.alliances.sprint.dynatracelabs.com
@@ -4704,9 +4663,7 @@ git.demo.k3s.alliances.sprint.dynatracelabs.com
 damithamarasinghe.k3s.alliances.sprint.dynatracelabs.com
 adamasuniversity.k3s.alliances.sprint.dynatracelabs.com
 d2jrizr88u9nvg.k3s.alliances.sprint.dynatracelabs.com
-www.clientgit.k3s.alliances.sprint.dynatracelabs.com
 ag488cbgq9limlda.k3s.alliances.sprint.dynatracelabs.com
-backstagegit.k3s.alliances.sprint.dynatracelabs.com
 tcdn.jahn-keptn.alliances.sprint.dynatracelabs.com
 assets-web7.k3s.alliances.sprint.dynatracelabs.com
 demo21git.k3s.alliances.sprint.dynatracelabs.com
@@ -4812,7 +4769,6 @@ conclavewiz.k3s.alliances.sprint.dynatracelabs.com
 keptn.awa64997.k3s.alliances.sprint.dynatracelabs.com
 demo39keptn.k3s.alliances.sprint.dynatracelabs.com
 confluencegit.k3s.alliances.sprint.dynatracelabs.com
-www.bietl.k3s.alliances.sprint.dynatracelabs.com
 cdn-store-025.k3s.alliances.sprint.dynatracelabs.com
 git.contract.k3s.alliances.sprint.dynatracelabs.com
 chair-keptn.k3s.alliances.sprint.dynatracelabs.com

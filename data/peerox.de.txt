@@ -1,7 +1,5 @@
 mx-demo-master-de-2204.demo.peerox.de
 mx-demo-master-de.demo.peerox.de
-*.mx-demo-master-de.demo.peerox.de
-*.mx-demo-master-de-2204.demo.peerox.de
 imageregistry.peerox.de
 dsm.peerox.de
 dash.peerox.de
@@ -105,7 +103,6 @@ henkel-demo.maddox.peerox.de
 overleaf.peerox.de
 srv0-mig-test.peerox.de
 webinar.peerox.de
-www.peerox.de
 maddox-staging.peerox.de
 oo-share.peerox.de
 imageregistry-new.peerox.de

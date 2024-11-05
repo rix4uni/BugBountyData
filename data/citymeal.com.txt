@@ -24,7 +24,6 @@ fr-cdn.citymeal.com
 bg.citymeal.com
 de-fopa.citymeal.com
 no-cdn.citymeal.com
-www.citymeal.com
 be-fopa.citymeal.com
 denmark.citymeal.com
 nl-cdn.citymeal.com
@@ -68,7 +67,6 @@ pl.citymeal.com
 bg-cdn.citymeal.com
 debug.citymeal.com
 fallbackapps.citymeal.com
-*.citymeal.com
 lu-ext-cdn.citymeal.com
 vn-ext-cdn.citymeal.com
 realapps.citymeal.com

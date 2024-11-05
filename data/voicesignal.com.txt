@@ -24,7 +24,6 @@ webmail.voicesignal.com
 lan.voicesignal.com
 imap.voicesignal.com
 qa.lan.voicesignal.com
-www.voicesignal.com
 mail.voicesignal.com
 vsearch.voicesignal.com
 c1.voicesignal.com
@@ -59,7 +58,7 @@ ski.voicesignal.com
 etools.voicesignal.com
 maya.voicesignal.com
 mailers.voicesignal.com
-www.de.voicesignal.com
+de.voicesignal.com
 trade.voicesignal.com
 org.arwww.voicesignal.com
 remote.voicesignal.com
@@ -69,7 +68,7 @@ wap2.voicesignal.com
 veronica.voicesignal.com
 sit.voicesignal.com
 ns32.voicesignal.com
-www.office.voicesignal.com
+office.voicesignal.com
 _stun-p2._udp.voicesignal.com
 sphinx.voicesignal.com
 evelynn.voicesignal.com
@@ -79,7 +78,6 @@ _presence._tcp.voicesignal.com
 vi.voicesignal.com
 _ldap-admin._udp.voicesignal.com
 arwww.voicesignal.com
-www.nl.voicesignal.com
 108.177.15.108.voicesignal.com
 f5.voicesignal.com
 tor.voicesignal.com
@@ -98,7 +96,7 @@ pan.voicesignal.com
 mart.voicesignal.com
 shingensui1930.comwww.voicesignal.com
 relay.voicesignal.com
-www.demos.voicesignal.com
+demos.voicesignal.com
 classifieds.voicesignal.com
 davinci.voicesignal.com
 bacula.voicesignal.com
@@ -128,7 +126,6 @@ _imaps._udp.voicesignal.com
 client.voicesignal.com
 dealers.voicesignal.com
 _avatars-sec._tcp.voicesignal.com
-demos.voicesignal.com
 themes.voicesignal.com
 tim.voicesignal.com
 _xmpp-server._udp.voicesignal.com
@@ -178,12 +175,12 @@ _dvbservdsc._tcp.voicesignal.com
 mail3.voicesignal.com
 exmail.voicesignal.com
 cms.voicesignal.com
-www.dar1music.comwww.voicesignal.com
+dar1music.comwww.voicesignal.com
 openerp.voicesignal.com
 recog0.voicesignal.com
 cloud.voicesignal.com
 italia.voicesignal.com
-www.plus.voicesignal.com
+plus.voicesignal.com
 map.voicesignal.com
 fa.voicesignal.com
 wallpapers.voicesignal.com
@@ -212,12 +209,10 @@ we.voicesignal.com
 syslog.voicesignal.com
 anyconnect.voicesignal.com
 ipc.voicesignal.com
-plus.voicesignal.com
 pop.voicesignal.com
 jinx.voicesignal.com
 duke.voicesignal.com
 mail2.lan.voicesignal.com
-www.lamarronclasista.org.arwww.voicesignal.com
 hcm.voicesignal.com
 _udp.voicesignal.com
 _stuns._tcp.voicesignal.com
@@ -233,7 +228,7 @@ parking.voicesignal.com
 _dmarc.voicesignal.com
 _stun-behaviors._udp.voicesignal.com
 tango.voicesignal.com
-www.beta.voicesignal.com
+beta.voicesignal.com
 ruwww.voicesignal.com
 blog.voicesignal.com
 tes.voicesignal.com
@@ -255,7 +250,6 @@ co.ugwww.voicesignal.com
 security.voicesignal.com
 out.voicesignal.com
 exodus.voicesignal.com
-www.cloud.voicesignal.com
 images4.voicesignal.com
 viking.voicesignal.com
 csr.voicesignal.com
@@ -272,9 +266,9 @@ vsearch2.voicesignal.com
 wp.voicesignal.com
 sv2.voicesignal.com
 eternity.voicesignal.com
-www.ns2.voicesignal.com
+ns2.voicesignal.com
 ww1.voicesignal.com
-www.ms.voicesignal.com
+ms.voicesignal.com
 bbb.voicesignal.com
 gsm.voicesignal.com
 bl.voicesignal.com
@@ -284,21 +278,18 @@ marketing.voicesignal.com
 h1.voicesignal.com
 gmail.voicesignal.com
 ns.voicesignal.com
-www.hk.voicesignal.com
 europa.voicesignal.com
 rek2.lan.voicesignal.com
 retail.voicesignal.com
 broadcast.voicesignal.com
 clientweb.voicesignal.com
-www.reseller.voicesignal.com
+reseller.voicesignal.com
 whatsup.voicesignal.com
 sql1.voicesignal.com
-beta.voicesignal.com
 _nicname._udp.voicesignal.com
 wl.voicesignal.com
 ar.voicesignal.com
 james.voicesignal.com
-dar1music.comwww.voicesignal.com
 _www-ldap-gw._udp.voicesignal.com
 solr.voicesignal.com
 ee.voicesignal.com
@@ -327,7 +318,6 @@ bbs.voicesignal.com
 shark.voicesignal.com
 s3.voicesignal.com
 blade.voicesignal.com
-www.classifieds.voicesignal.com
 ns31.voicesignal.com
 cinema.voicesignal.com
 extras.voicesignal.com
@@ -344,7 +334,6 @@ sonic.voicesignal.com
 iutnb.voicesignal.com
 sge.lan.voicesignal.com
 vietnam.voicesignal.com
-de.voicesignal.com
 _sips._tcp.voicesignal.com
 jw.voicesignal.com
 cmg4c4g5i1700pv9qnl0.voicesignal.com
@@ -363,7 +352,6 @@ sonicwall.voicesignal.com
 ul-cat6506-gw.voicesignal.com
 goofy.voicesignal.com
 clwww.voicesignal.com
-www.joomla.voicesignal.com
 _tcp.voicesignal.com
 friends.voicesignal.com
 sy.voicesignal.com
@@ -384,7 +372,6 @@ math.voicesignal.com
 _stun-p3._tcp.voicesignal.com
 internet.voicesignal.com
 idp.voicesignal.com
-www.map.voicesignal.com
 grace.voicesignal.com
 m.voicesignal.com
 king.voicesignal.com
@@ -402,7 +389,6 @@ smtp3.voicesignal.com
 nn.voicesignal.com
 latin.voicesignal.com
 xg.voicesignal.com
-www.samara.voicesignal.com
 cit.voicesignal.com
 theinspectionboys.comwww.voicesignal.com
 epaper.voicesignal.com
@@ -417,7 +403,6 @@ com.voicesignal.com
 _radiustls._udp.voicesignal.com
 enet1.voicesignal.com
 lina.voicesignal.com
-ms.voicesignal.com
 d7.voicesignal.com
 cis.voicesignal.com
 bewww.voicesignal.com
@@ -425,9 +410,7 @@ dc._msdcs.voicesignal.com
 video2.voicesignal.com
 netflow.voicesignal.com
 _timezone._tcp.voicesignal.com
-reseller.voicesignal.com
 dist.voicesignal.com
-office.voicesignal.com
 dav75.users.voicesignal.com
 vnwww.voicesignal.com
 core3.voicesignal.com
@@ -438,7 +421,5 @@ etc.voicesignal.com
 ns63.voicesignal.com
 da.voicesignal.com
 11192521404255.voicesignal.com
-www.gmail.voicesignal.com
 jason.voicesignal.com
 vsearch3.voicesignal.com
-ns2.voicesignal.com

@@ -1,7 +1,7 @@
 autodiscover.johndeere.com
 imaplegacy.johndeere.com
 sfb15man1ext.johndeere.com
-www.gator.johndeere.com
+gator.johndeere.com
 x-com.johndeere.com
 meet-in.johndeere.com
 webconf-rio.johndeere.com
@@ -82,10 +82,8 @@ lyncwsext-rio1.johndeere.com
 emailnhlegacy.johndeere.com
 webcon-br.johndeere.com
 webcon-ch.johndeere.com
-gator.johndeere.com
-www.johndeere.com
 im-man.johndeere.com
-www.help.expertconnect.johndeere.com
+help.expertconnect.johndeere.com
 sfb15ch1ext1.johndeere.com
 imappilot.johndeere.com
 sso-cert.johndeere.com
@@ -146,7 +144,6 @@ im-pun.johndeere.com
 sso-dev.johndeere.com
 zglo5esbc2k.johndeere.com
 sfb15br1ext2.johndeere.com
-help.expertconnect.johndeere.com
 ekv.johndeere.com
 lyncowaext-moline.johndeere.com
 lyncowaext-rio.johndeere.com
@@ -250,10 +247,7 @@ webcon2-br.johndeere.com
 ag.johndeere.com
 mail-content.support.johndeere.com
 p.e.johndeere.com
-www.jdparts.johndeere.com
-*.johndeere.com
 av2-br.johndeere.com
-*.vtv.johndeere.com
 awdevice.johndeere.com
 brand.johndeere.com
 buildyourownlinkatwww.johndeere.com
@@ -280,14 +274,9 @@ sr.johndeere.com
 w.johndeere.com
 wjww.johndeere.com
 ww.johndeere.com
-www.email.johndeere.com
-www.freshstart.johndeere.com
-www.gibsonusa.johndeere.com
-www.new.johndeere.com
-www.partnerships.johndeere.com
-www.partscountry.johndeere.com
-www.payroll.johndeere.com
-www.specify.johndeere.com
+freshstart.johndeere.com
+gibsonusa.johndeere.com
+payroll.johndeere.com
 wwww.johndeere.com
 zendeskverification.johndeere.com
 aisipn.johndeere.com

@@ -90,7 +90,7 @@ wedding.reference.be
 jacquesdelens-be.prd.reference.be
 sdworx-lms-cms.prd.reference.be
 www-dansnospensees.acc.reference.be
-www.webbel.dev.reference.be
+webbel.dev.reference.be
 autorepairgroup.dev.reference.be
 energie-habitat.acc.reference.be
 cofinimmo.reference.be
@@ -114,7 +114,7 @@ ecommerce.reference.be
 info.reference.be
 bekaert.dev.reference.be
 colruytklw-front.acc.reference.be
-www.adfs.reference.be
+adfs.reference.be
 demosite.reference.be
 ns03.reference.be
 vanhout-be.prd.reference.be
@@ -126,7 +126,7 @@ cm-sdworxbe.prd.reference.be
 ol-almanij.reference.be
 genaisys.dev.reference.be
 shop-ingedachten.dev.reference.be
-www.oz.prd.reference.be
+oz.prd.reference.be
 input.reference.be
 web06.reference.be
 dev.reference.be
@@ -234,8 +234,7 @@ prd.reference.be
 ns03-int.reference.be
 plazzza.acc.reference.be
 colruytklw-front.prd.reference.be
-www.reference.be
-www.mail.reference.be
+mail.reference.be
 pub.reference.be
 shurgard-cd.prd.reference.be
 profel-storybook.prd.reference.be
@@ -376,7 +375,6 @@ cera.acc.reference.be
 genaisys.reference.be
 olws01.reference.be
 dominion.reference.be
-mail.reference.be
 mm.reference.be
 sibelco.dev.reference.be
 dester.reference.be
@@ -399,7 +397,6 @@ monitor02.reference.be
 m.verkeerscentrum.reference.be
 ns02.reference.be
 kwebbel.reference.be
-adfs.reference.be
 ingrammicro.reference.be
 ftp.reference.be
 natuurenbos.acc.reference.be
@@ -439,6 +436,5 @@ sdworxmu-cd-live.prd.reference.be
 staging-sdworxlu.prd.reference.be
 sdworxnl-cd-live.prd.reference.be
 staging-sdworxnl.prd.reference.be
-*.prd.reference.be
 www-ingedachten.prd.reference.be
 www-dansnospensees.prd.reference.be

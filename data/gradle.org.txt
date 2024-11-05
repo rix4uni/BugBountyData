@@ -6,7 +6,6 @@ issues.gradle.org
 forums.gradle.org
 wiki.gradle.org
 services.gradle.org
-www.gradle.org
 plugins-artifacts.gradle.org
 plugins.gradle.org
 discuss.gradle.org
@@ -129,7 +128,7 @@ dev141.gradle.org
 dev145.gradle.org
 dev140.gradle.org
 dev5.gradle.org
-www.code-review.gradle.org
+code-review.gradle.org
 dev23.gradle.org
 dev114.gradle.org
 dev7.gradle.org
@@ -140,7 +139,6 @@ dev126.gradle.org
 dev125.gradle.org
 dev17.gradle.org
 dev22.gradle.org
-code-review.gradle.org
 dev6.gradle.org
 dev16.gradle.org
 dev18.gradle.org
@@ -158,5 +156,3 @@ www2.gradle.org
 old-forums.gradle.org
 feed.gradle.org
 atlantis.tf.gradle.org
-www.repo.gradle.org
-www.issues.gradle.org

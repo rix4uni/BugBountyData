@@ -8,7 +8,6 @@ manual.true.nl
 services.k8s.true.nl
 netflow.staging.true.nl
 error.true.nl
-www.true.nl
 repository.true.nl
 snapvault05.netapp-harvest.true.nl
 partypatrol.streaming.true.nl
@@ -42,16 +41,12 @@ portal.true.nl
 func.true.nl
 auth.system.func.true.nl
 werkenbij.true.nl
-www.jam.true.nl
 panic.true.nl
-www.panic.true.nl
 acceptatie-gitlab.true.nl
 saas.true.nl
 speedtest.true.nl
-www.zorgmail.true.nl
 zorgmail.true.nl
-www.billing.true.nl
-www.znwv.mx.true.nl
+billing.true.nl
 znwv.mx.true.nl
 mail01.da04.true.nl
 admin.true.nl

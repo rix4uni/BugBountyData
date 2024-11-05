@@ -8,7 +8,7 @@ w3.bio-test.hmri.org.au
 parkingadmin.hmri.org.au
 redcap-test.hmri.org.au
 my.hmri.org.au
-www.uatconnect.hmri.org.au
+uatconnect.hmri.org.au
 redcap-dev.hmri.org.au
 whoami.bio-test.hmri.org.au
 apps.bio-test.hmri.org.au
@@ -20,7 +20,6 @@ redcap.hmri.org.au
 itomic.hmri.org.au
 parkinguat.hmri.org.au
 discover.hmri.org.au
-www.hmri.org.au
 parking.hmri.org.au
 portainer.hmri.org.au
 parkingadminuat.hmri.org.au
@@ -36,7 +35,6 @@ cafmapi.hmri.org.au
 cafmapi-dev.hmri.org.au
 cafmcontractor.hmri.org.au
 lyncdiscover.hmri.org.au
-www.redcap.hmri.org.au
 whoami.hmri.org.au
 fmcapture-dev.hmri.org.au
 icbooks.hmri.org.au
@@ -51,7 +49,6 @@ intranet-test.hmri.org.au
 directaccess-webprobehost.hmri.org.au
 fmcapture.hmri.org.au
 servicedesk.hmri.org.au
-uatconnect.hmri.org.au
 connect-dev.hmri.org.au
 cafmcapture-dev.hmri.org.au
 mail.hmri.org.au
@@ -63,7 +60,6 @@ cafm-dev.hmri.org.au
 cafmcapture.hmri.org.au
 cafmcontractor-test.hmri.org.au
 directaccess.hmri.org.au
-www.sip.hmri.org.au
 lb.hmri.org.au
 api-dev.hmri.org.au
 cafmapi-test.hmri.org.au
@@ -73,7 +69,6 @@ cafm-test.hmri.org.au
 gateway.hmri.org.au
 jira-test.hmri.org.au
 skypewebservices.hmri.org.au
-www.secure.hmri.org.au
 api.hmri.org.au
 prod-lb.hmri.org.au
 api-test.hmri.org.au
@@ -82,7 +77,6 @@ test.hmri.org.au
 apps.hmri.org.au
 cafmcontractor-dev.hmri.org.au
 fmcontractor-dev.hmri.org.au
-www.uat.hmri.org.au
 cafmcapture-test.hmri.org.au
 intranet-dev.hmri.org.au
 dr-lb.hmri.org.au

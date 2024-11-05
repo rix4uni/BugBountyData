@@ -1,8 +1,6 @@
-*.byteoversea.com
-*.developer-sg.byteoversea.com
-*.libra.byteoversea.com
-abtest-va.byteoversea.com
 developer-sg.byteoversea.com
+libra.byteoversea.com
+abtest-va.byteoversea.com
 dm-maliva16.byteoversea.com
 dm16.byteoversea.com
 dm16-alisg.byteoversea.com
@@ -19,7 +17,6 @@ in2.byteoversea.com
 jsb-sg.byteoversea.com
 jsb-va.byteoversea.com
 lark-frontier.byteoversea.com
-libra.byteoversea.com
 log.byteoversea.com
 log15.byteoversea.com
 log16.byteoversea.com
@@ -583,4 +580,3 @@ ad-audit-proxy-mx.byteoversea.com
 csp-sg.byteoversea.com
 dig-live.byteoversea.com
 gts.byteoversea.com
-www.byteoversea.com

@@ -1,5 +1,4 @@
-*.g-uw1.thoughtco.com
-*.thoughtco.com
+g-uw1.thoughtco.com
 prod.aws.thoughtco.com
 pe-adhoc-1.app.qa.aws.thoughtco.com
 local.thoughtco.com
@@ -24,8 +23,6 @@ control.app.prod.aws.thoughtco.com
 continual.app.qa.aws.thoughtco.com
 a-ue1.thoughtco.com
 pe-adhoc-3.app.qa.aws.thoughtco.com
-www.thoughtco.com
-g-uw1.thoughtco.com
 external13.continual.app.prod.aws.thoughtco.com
 external11.continual.app.prod.aws.thoughtco.com
 internal17.continual.app.prod.aws.thoughtco.com

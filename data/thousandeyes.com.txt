@@ -312,8 +312,6 @@ vmanage.bb.thousandeyes.com
 web.thousandeyes.com
 www-upgrade.stg.thousandeyes.com
 www-upgrade.thousandeyes.com
-www.stg.thousandeyes.com
-www.thousandeyes.com
 yum.stg.thousandeyes.com
 yum.thousandeyes.com
 yumproxy.stg.thousandeyes.com
@@ -686,16 +684,8 @@ vpn.thousandeyes.com
 vpn2.thousandeyes.com
 vps4-atl1.ag0.thousandeyes.com
 wiki.thousandeyes.com
-www.apt.stg.ca.thousandeyes.com
-www.ccm.it.thousandeyes.com
-www.choco.it.thousandeyes.com
-www.corp.stg.thousandeyes.com
-www.corp.thousandeyes.com
-www.enterpriseenrollment.thousandeyes.com
-www.internal.repo.thousandeyes.com
-www.rum.eb.stg.thousandeyes.com
-www.snipeit.it.thousandeyes.com
-www.va-qualys.sfo1.o.thousandeyes.com
+corp.stg.thousandeyes.com
+corp.thousandeyes.com
 yum-origin.thousandeyes.com
 yumproxydr.stg.thousandeyes.com
 zook-analytics1.stg.us-east-1.aws.thousandeyes.com

@@ -20,7 +20,6 @@ sandbox.app.adviser.acsiss.com.au
 dev.app.trustedadviser.acsiss.com.au
 registertest.acsiss.com.au
 dev.register.acsiss.com.au
-www.staging5.acsiss.com.au
 staging5.acsiss.com.au
 auth.mydata.acsiss.com.au
 uat.api.acsiss.com.au
@@ -49,7 +48,6 @@ sandbox.licence.acsiss.com.au
 sandbox.admin.portal.acsiss.com.au
 perf.licence.acsiss.com.au
 dev.acsiss.com.au
-www.acsiss.com.au
 staging4.acsiss.com.au
 staging3.acsiss.com.au
 staging2.acsiss.com.au

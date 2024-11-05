@@ -1,4 +1,4 @@
-www.otaus.dev2.zetta.net.au
+otaus.dev2.zetta.net.au
 dns1.zetta.net.au
 ge0-3-lns2.per.zetta.net.au
 dns.zetta.net.au
@@ -9,7 +9,7 @@ mail.affdev.dev2.zetta.net.au
 cpanel.karltest.dev2.zetta.net.au
 webmail.dpivehicle.dev2.zetta.net.au
 ftp.zetta.net.au
-www.ecos.dev2.zetta.net.au
+ecos.dev2.zetta.net.au
 mail.appliedinnovation.dev2.zetta.net.au
 rad.per.zetta.net.au
 ricnz.dev2.zetta.net.au
@@ -18,11 +18,9 @@ webdisk.affdev.dev2.zetta.net.au
 cpanel.ricgroup.dev2.zetta.net.au
 lns2.syd.zetta.net.au
 webdisk.validationstudy.dev2.zetta.net.au
-www.ricnz.dev2.zetta.net.au
 ge0-0.lns.per.zetta.net.au
-www.zetta.net.au
-www.validationstudy.dev2.zetta.net.au
-www.karltest.dev2.zetta.net.au
+validationstudy.dev2.zetta.net.au
+karltest.dev2.zetta.net.au
 webdisk.appliedinnovation.dev2.zetta.net.au
 webdisk.karltest.dev2.zetta.net.au
 webmail.dillinger.dev2.zetta.net.au
@@ -36,11 +34,9 @@ smtp.zetta.net.au
 webmail.ricgroup.dev2.zetta.net.au
 webdisk.zettacom.dev2.zetta.net.au
 permasw02.zetta.net.au
-validationstudy.dev2.zetta.net.au
 webmail.affinitydup.dev2.zetta.net.au
 webdisk.dillinger.dev2.zetta.net.au
 permast01-1.zetta.net.au
-otaus.dev2.zetta.net.au
 ricgroup.dev2.zetta.net.au
 adebert01.zetta.net.au
 db07.zetta.net.au
@@ -64,7 +60,6 @@ mail.affinitytrial.dev2.zetta.net.au
 webdisk.ricgroup.dev2.zetta.net.au
 webmail.appliedinnovation.dev2.zetta.net.au
 cpanel.validationstudy.dev2.zetta.net.au
-www.web5.zetta.net.au
 sq.zetta.net.au
 cpanel.ricnz.dev2.zetta.net.au
 webdisk.ecos.dev2.zetta.net.au
@@ -78,7 +73,6 @@ static-4gman.zetta.net.au
 mail.dpivehicle.dev2.zetta.net.au
 kads.dev2.zetta.net.au
 ns1.mel01.zetta.net.au
-www.ricgroup.dev2.zetta.net.au
 perressw01.zetta.net.au
 cpanel.kads.dev2.zetta.net.au
 cpanel.glide.dev2.zetta.net.au
@@ -86,16 +80,14 @@ dnsadmin.zetta.net.au
 cpanel.ecos.dev2.zetta.net.au
 permast04.zetta.net.au
 cep.zetta.net.au
-ecos.dev2.zetta.net.au
 appliedinnovation.dev2.zetta.net.au
 cpanel.appliedinnovation.dev2.zetta.net.au
 mail.ecos.dev2.zetta.net.au
 ipv6.zetta.net.au
 perresbdr01.zetta.net.au
 zettacom.dev2.zetta.net.au
-www.dev2.zetta.net.au
 sydbort01.zetta.net.au
 utm1.zetta.net.au
 rad.syd.zetta.net.au
 ns2.per01.zetta.net.au
-*.noc.zetta.net.au
+noc.zetta.net.au

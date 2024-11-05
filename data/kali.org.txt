@@ -1,8 +1,6 @@
-*.kali.org
-*.10year.kali.org
-*.epimetheus.kali.org
-10cake.kali.org
 10year.kali.org
+epimetheus.kali.org
+10cake.kali.org
 aphrodite.kali.org
 apollo.kali.org
 ar.docs.kali.org
@@ -56,7 +54,6 @@ downloads.kali.org
 dzaa.kali.org
 en.docs.kali.org
 eos.kali.org
-epimetheus.kali.org
 eratos.kali.org
 eris.kali.org
 eros.kali.org
@@ -134,13 +131,6 @@ tr.docs.kali.org
 tracker.kali.org
 triton.kali.org
 urania.kali.org
-www.kali.org
-www.bugs.kali.org
-www.docs.kali.org
-www.forums.kali.org
-www.pkg.kali.org
-www.status.kali.org
-www.tools.kali.org
 zeus.kali.org
 aeacus.kali.org
 bittorrent.kali.org
@@ -160,13 +150,11 @@ erhive-repo-erchiventy.kali.org
 hecate-old.kali.org
 munin.kali.org
 nagios.kali.org
-www.br.docs.kali.org
 webserver.mail.ftp.ns1.vpn.w.kali.org
 webmail.prod.ns1.smtp.ftp.vpn.ftp.kali.org
 prod.test.smtp.prod.test.4porn.com.kali.org
 image-amd64.kali.org
 metrics.kali.org
-www.ja.docs.kali.org
 tethys.kali.org
 vpn.smtp.test.ns1.ares.kali.org
 prod.prod.online.www.google.fr.kali.org
@@ -175,8 +163,6 @@ wiki.kali.org
 gchive-712.kali.org
 image-nethunter.kali.org
 0kyhq0d327fzdcbapycmh.kali.org
-www.de.docs.kali.org
-www.fr.docs.kali.org
 prometheus.kali.org
 ave-http0.kali.org
 online.webmail.ftp.test.mail.ares.kali.org
@@ -194,9 +180,7 @@ athena.kali.org
 phoebe.kali.org
 buildd-i386.kali.org
 4iveodimages9.kali.org
-www.ar.docs.kali.org
 rdcbairis-8.kali.org
-www.cn.docs.kali.org
 ssh.ns1.prod.vpn.hermes.kali.org
 slpomenkins2.kali.org
 ssh.ssh.vpn.online.www.mozilla.org.kali.org
@@ -240,7 +224,7 @@ yphr.kali.org
 0earchive-09.docs.kali.org
 0ive-10-782.docs.kali.org
 0ive-12-11.docs.kali.org
-www.offensive-security.com.kali.org
+offensive-security.com.kali.org
 0iveols-3.docs.kali.org
 0rchive-50.docs.kali.org
 0mlkjihgfedcbaron-04-1.docs.kali.org
@@ -261,7 +245,7 @@ www.offensive-security.com.kali.org
 03216zy.docs.kali.org
 011zy.docs.kali.org
 0ivearchive-76.docs.kali.org
-www.mozilla.com.kali.org
+mozilla.com.kali.org
 0chivearchivearchive-old7.docs.kali.org
 0eus-5.docs.kali.org
 0ene-3.docs.kali.org
@@ -1568,7 +1552,7 @@ extrarape.com.kali.org
 0ponmlkjih.docs.kali.org
 0hive-repo1.docs.kali.org
 0hive-3-7.docs.kali.org
-www.addthis.com.kali.org
+addthis.com.kali.org
 0liopkgtestia.docs.kali.org
 0bos-8.docs.kali.org
 0ive-8-3.docs.kali.org
@@ -2167,7 +2151,7 @@ blog.mozilla.com.kali.org
 0ichive-archive-043213zyx.docs.kali.org
 0hive-100.docs.kali.org
 0rchive-75.docs.kali.org
-www.dev-point.com.kali.org
+dev-point.com.kali.org
 0nloades-5.docs.kali.org
 0chiveimage-41.docs.kali.org
 0ene-04.docs.kali.org
@@ -2286,7 +2270,7 @@ www.dev-point.com.kali.org
 0lkjihgfedcbacatopkgtestus-9.docs.kali.org
 0hive-3-119.docs.kali.org
 0654-9.docs.kali.org
-www.facebook.com.kali.org
+facebook.com.kali.org
 0iveerate-8-4.docs.kali.org
 0adest-7.docs.kali.org
 0hgfedcbaje.docs.kali.org
@@ -2679,7 +2663,7 @@ live.lmgtfy.com.kali.org
 0ivejen.docs.kali.org
 0hosphrod.docs.kali.org
 076.docs.kali.org
-www.redtubelive.com.kali.org
+redtubelive.com.kali.org
 09876543210zyxwvutsrqp7.docs.kali.org
 0dite-111111.docs.kali.org
 0a987653.docs.kali.org
@@ -2857,7 +2841,7 @@ statse.webtrendslive.com.kali.org
 0nkins0.docs.kali.org
 0ivearchive-8-5.docs.kali.org
 0mage-082.docs.kali.org
-www.pwnedandco.com.kali.org
+pwnedandco.com.kali.org
 0hivearepometermetera-10000000000000000.docs.kali.org
 0aestia-5.docs.kali.org
 0rchive-444.docs.kali.org
@@ -2933,7 +2917,7 @@ www.pwnedandco.com.kali.org
 65.docs.kali.org
 0hive-0ages-5.docs.kali.org
 0rchive-archive-secu.docs.kali.org
-www.ant.com.kali.org
+ant.com.kali.org
 08762.docs.kali.org
 0chivemage-33.docs.kali.org
 0ecalliope-12.docs.kali.org
@@ -3324,7 +3308,7 @@ i2.ytimg.com.kali.org
 0horosphaestus-3.docs.kali.org
 0gf.docs.kali.org
 0chive-3-46.docs.kali.org
-www.google.com.kali.org
+google.com.kali.org
 0hobos-0.docs.kali.org
 072.docs.kali.org
 0qponmlkjihgfedcbamene1.docs.kali.org
@@ -3456,7 +3440,7 @@ pu.plugrush.com.kali.org
 0hivedocs-7.docs.kali.org
 0e-56.docs.kali.org
 0fedcba9876543216zyxwv.docs.kali.org
-www.heavy-r.com.kali.org
+heavy-r.com.kali.org
 0543219.docs.kali.org
 0esrqp.docs.kali.org
 0rchive-eosphorosphoropos4.docs.kali.org
@@ -3607,7 +3591,7 @@ safebrowsing-cache.google.com.kali.org
 08zyxwvutsrqponml-6666.docs.kali.org
 05zyxwvutsrqp-5.docs.kali.org
 0hive-apollo1.docs.kali.org
-www.skype.com.kali.org
+skype.com.kali.org
 0caterpe.docs.kali.org
 0ades-10.docs.kali.org
 0ichoros-3.docs.kali.org
@@ -3620,7 +3604,7 @@ www.skype.com.kali.org
 0ecate-10.docs.kali.org
 0ike-89.docs.kali.org
 0atus5.docs.kali.org
-www.10.2.200.111.kali.org
+10.2.200.111.kali.org
 0chivearchive-49.docs.kali.org
 0gfedcbaarchive-melpomene0.docs.kali.org
 7-1.docs.kali.org
@@ -3841,7 +3825,7 @@ kal._domainkey.kali.org
 0osphosphobos.docs.kali.org
 06543218zy.docs.kali.org
 0ms.docs.kali.org
-www.cyprien.kali.org
+cyprien.kali.org
 0mlkjihgfedcba987654-8.docs.kali.org
 0ive-4-7.docs.kali.org
 0mlkjihgfedcbagchive-archivelachive-96.docs.kali.org
@@ -3895,7 +3879,7 @@ linuxusb.nfshost.com.kali.org
 0archive--5.docs.kali.org
 0fedcbahephaestus2.docs.kali.org
 0chivearchive-gchive43214zyxwv-1.docs.kali.org
-www.youtube.com.kali.org
+youtube.com.kali.org
 0ive-tools4.docs.kali.org
 0ima.docs.kali.org
 0hiveimages9.docs.kali.org
@@ -4051,7 +4035,7 @@ check6only.facebook.com.kali.org
 0hgfedcbaterpsichive-39.docs.kali.org
 0mage-7-9.docs.kali.org
 0-12-3.docs.kali.org
-www.talkandroid.com.kali.org
+talkandroid.com.kali.org
 0racker2.docs.kali.org
 0gfedc.docs.kali.org
 0e-8.docs.kali.org
@@ -4146,7 +4130,7 @@ www.talkandroid.com.kali.org
 0rchivearchive-12-12.docs.kali.org
 0543219z.docs.kali.org
 0ene-2.docs.kali.org
-www.paypalobjects.com.kali.org
+paypalobjects.com.kali.org
 0earchive-444.docs.kali.org
 7-4.docs.kali.org
 0age-5555.docs.kali.org
@@ -4834,7 +4818,7 @@ naca.sbs.com.au.kali.org
 0e-4.docs.kali.org
 0chivearchive-euterpsichore-08.docs.kali.org
 0baarchive-84.docs.kali.org
-www.xvideos.com.kali.org
+xvideos.com.kali.org
 012z.docs.kali.org
 0ecate3.docs.kali.org
 0mage-gchive43214zyxwv-333333333.docs.kali.org

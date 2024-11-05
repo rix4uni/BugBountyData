@@ -49,22 +49,18 @@ m.usfa.fema.gov
 my.nfipdirect.fema.gov
 search.fema.gov
 home.fema.gov
-www.fema.gov
-www.usfa.fema.gov
 prd-rmd.msc.fema.gov
 host138.fema.gov
 host133.fema.gov
 preview-m.fema.gov
 tdl.nfirs.fema.gov
 host172.fema.gov
-www.apps.usfa.fema.gov
 14115750101.msc.fema.gov
 idfedstage.nfipdirect.fema.gov
 lscms-mda.fema.gov
 mail.preptoolkit.fema.gov
 ndg-gg-aws-ivv.fema.gov
 tdl.atp.aws.fema.gov
-www.recovery.fema.gov
 host114.fema.gov
 hqpoker-1.fema.gov
 demo.apps.aws.fema.gov
@@ -73,7 +69,6 @@ prd-hazards.msc.fema.gov
 host131.fema.gov
 tdl.isource.fema.gov
 hazus-support.msc.fema.gov
-www.msc.fema.gov
 demo.integration.aws.fema.gov
 host155.fema.gov
 host168.fema.gov
@@ -99,7 +94,6 @@ host47.fema.gov
 prd-cfas.msc.fema.gov
 static.mec.fema.gov
 dev.lpms.fema.gov
-www.community.fema.gov
 152.3.209.in-addr.arpa.fema.gov
 host103.fema.gov
 host186.fema.gov
@@ -140,7 +134,7 @@ host85.fema.gov
 pivot.fema.gov
 afg.fema.gov
 tdl.integration.fema.gov
-www.cfas.msc.fema.gov
+cfas.msc.fema.gov
 mapviewtest.msc.fema.gov
 host190.fema.gov
 host245.fema.gov
@@ -173,7 +167,6 @@ host111.fema.gov
 lscms-sci.fema.gov
 uat-tools.msc.fema.gov
 host11.fema.gov
-www.preptoolkit.fema.gov
 eservices.fema.gov
 host228.fema.gov
 pstest.nfipdirect.fema.gov
@@ -202,7 +195,6 @@ host157.fema.gov
 host21.fema.gov
 tdl.ba.fema.gov
 visit.fema.gov
-www.training.fema.gov
 ucort-pivot-pentest.fema.gov
 host90.fema.gov
 conversations.mec.fema.gov
@@ -263,7 +255,6 @@ host41.fema.gov
 host87.fema.gov
 ipaws-cse-retool.aws.fema.gov
 ucort-pivot.fema.gov
-www.eptest.msc.fema.gov
 host178.fema.gov
 tdl.gis.fema.gov
 tdl.regportal.fema.gov
@@ -278,8 +269,7 @@ ipaws-staging-retool.aws.fema.gov
 lscms-wm.fema.gov
 cd.lscms-sci.fema.gov
 tdl.eservices.fema.gov
-www.floodmaps.fema.gov
-www.mnuss.fema.gov
+mnuss.fema.gov
 host91.fema.gov
 host225.fema.gov
 oneresponder.preptoolkit.fema.gov
@@ -359,7 +349,6 @@ host226.fema.gov
 host28.fema.gov
 host158.fema.gov
 host121.fema.gov
-www.nfipdirect.fema.gov
 filetrail.msc.fema.gov
 host201.fema.gov
 host202.fema.gov
@@ -424,7 +413,6 @@ host83.fema.gov
 pivot-analytics.fema.gov
 uat-hazus-support.msc.fema.gov
 host211.fema.gov
-cfas.msc.fema.gov
 auth.preptoolkit.fema.gov
 host12.fema.gov
 host191.fema.gov
@@ -441,7 +429,6 @@ irishub.preptoolkit.fema.gov
 d2sso.fema.gov
 train-fact.fema.gov
 regportal.fema.gov
-www.nfirs.fema.gov
 host25.fema.gov
 host209.fema.gov
 host124.fema.gov
@@ -459,7 +446,6 @@ manager.oneresponder.fema.gov
 lscms2.fema.gov
 origin-pivot-prod.fema.gov
 riskknowledge.fema.gov
-www.nfa.usfa.fema.gov
 ifema.fema.gov
 pivot-dev.fema.gov
 ftp.fema.gov
@@ -616,7 +602,6 @@ vsr.fema.gov
 ifemavdc.fema.gov
 sso.fema.gov
 docnet.fema.gov
-www.ace3.ssl.fema.gov
 zdm.nfipstat.fema.gov
 occ.training.fema.gov
 coop.nimcast.fema.gov

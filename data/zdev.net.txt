@@ -1,7 +1,7 @@
-*.eks.zdev.net
-*.preview.eks.zdev.net
-*.uiapps.preview.eks.zdev.net
-*.user.zdev.net
+eks.zdev.net
+preview.eks.zdev.net
+uiapps.preview.eks.zdev.net
+user.zdev.net
 1.api.zdev.net
 1api.zdev.net
 20-infocom.zdev.net
@@ -70,7 +70,6 @@ doc.zdev.net
 docker.zdev.net
 donvirus.zdev.net
 dsl.zdev.net
-eks.zdev.net
 eren.zdev.net
 flat.zdev.net
 flexvaccines.zdev.net
@@ -147,7 +146,6 @@ piyusht.zdev.net
 praagya.zdev.net
 prabhanshu.zdev.net
 prateekkumar.zdev.net
-preview.eks.zdev.net
 priyanka.zdev.net
 processmaker.zdev.net
 quarantine01.zdev.net
@@ -191,7 +189,6 @@ tushar.zdev.net
 u.zdev.net
 uber.zdev.net
 udit.zdev.net
-uiapps.preview.eks.zdev.net
 umar.zdev.net
 vg.zdev.net
 videotest.zdev.net
@@ -207,7 +204,6 @@ web18265.zdev.net
 web6228.zdev.net
 wiki.zdev.net
 wk.zdev.net
-www.zdev.net
 xyz.zdev.net
 yeastinfectiontreatmentremediezlog.zdev.net
 zlanka.zdev.net
@@ -215,13 +211,10 @@ zlog-publicvoidlife.zdev.net
 zlog-venetianmaskticino.zdev.net
 zlog-woodenmask.zdev.net
 zlogobatkankermulutrahim.zdev.net
-user.zdev.net
 zomato-api-gateway.eks.zdev.net
 zpaykit-service.eks.zdev.net
 something.zdev.net
 ad.zdev.net
-*.zdev.net
-*.api.zdev.net
 adts-dc4-mbx040.aaisrv01.ad.zdev.net
 cvoja.ad.zdev.net
 2600kalsrv11.ad.zdev.net

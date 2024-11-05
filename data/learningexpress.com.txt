@@ -17,11 +17,6 @@ test.learningexpress.com
 upgrade.learningexpress.com
 webdisk.dv1.learningexpress.com
 webmail.dv1.learningexpress.com
-www.dv1.learningexpress.com
-www.host.learningexpress.com
-www.internet.learningexpress.com
-www.learningexpress.com
-www.legacy.learningexpress.com
 cpanel.dev.learningexpress.com
 cpanel.magento2.learningexpress.com
 cpanel.test.learningexpress.com
@@ -40,6 +35,3 @@ webdisk.test.learningexpress.com
 webmail.dev.learningexpress.com
 webmail.magento2.learningexpress.com
 webmail.test.learningexpress.com
-www.dev.learningexpress.com
-www.magento2.learningexpress.com
-www.test.learningexpress.com

@@ -1168,7 +1168,7 @@ iris-pr-1147.review.service.aftonbladet.se
 hyperion-pr-1967.review.service.aftonbladet.se
 wellobe-iris-pr-1147.review.service.aftonbladet.se
 vektklubb-iris-pr-1147.review.service.aftonbladet.se
-*.service.aftonbladet.se
+service.aftonbladet.se
 chat-buddy-pr-142.review.service.aftonbladet.se
 hyperion-pr-1968.review.service.aftonbladet.se
 wellobe-iris-pr-1148.review.service.aftonbladet.se
@@ -2185,7 +2185,7 @@ convox-carbon-paper-pr-105.review.service.aftonbladet.se
 eventhub-pr-87.review.service.aftonbladet.se
 eventhub-pr-80.review.service.aftonbladet.se
 iris-pr-832.review.service.aftonbladet.se
-www.dreamteam.aftonbladet.se
+dreamteam.aftonbladet.se
 ai-buffe-pr-219.review.service.aftonbladet.se
 wwwe-pr-224.service.aftonbladet.se
 iris-pr-913.review.service.aftonbladet.se
@@ -3153,7 +3153,6 @@ vektklubb-iris-pr-841.review.service.aftonbladet.se
 widget-dashboard-pr-102.review.service.aftonbladet.se
 wwwc-pr-228.service.aftonbladet.se
 arke-pr-66.review.service.aftonbladet.se
-service.aftonbladet.se
 wellobe-iris-pr-347.review.service.aftonbladet.se
 article-summarizer-polaris-pr-170.review.service.aftonbladet.se
 fact-checker-pr-54.review.service.aftonbladet.se
@@ -4466,7 +4465,6 @@ iris-pr-536.review.service.aftonbladet.se
 iris-pr-603.review.service.aftonbladet.se
 osiris-pr-51.review.service.aftonbladet.se
 salesposter-pr-177.service.aftonbladet.se
-www.annonswebb.aftonbladet.se
 arke-pr-172.review.service.aftonbladet.se
 clicks-pr-105.service.aftonbladet.se
 cabinet-pr-113.review.service.aftonbladet.se
@@ -4851,7 +4849,7 @@ wellobe-iris-pr-396.review.service.aftonbladet.se
 energy-compass-pr-77.review.service.aftonbladet.se
 hyperion-pr-1809.review.service.aftonbladet.se
 vektklubb-iris-pr-674.review.service.aftonbladet.se
-www.stage3.play.aftonbladet.se
+stage3.play.aftonbladet.se
 arke-gui-pr-103.review.service.aftonbladet.se
 vektklubb-iris-pr-531.review.service.aftonbladet.se
 energy-compass-pr-111.review.service.aftonbladet.se
@@ -5662,7 +5660,6 @@ article-summarizer-pr-146.review.service.aftonbladet.se
 frontpage-api-pr-204.review.service.aftonbladet.se
 editorial-tools-pr-218.review.service.aftonbladet.se
 hyperion-pr-1081.review.service.aftonbladet.se
-www.blogg.aftonbladet.se
 hyperion-pr-1832.review.service.aftonbladet.se
 editorial-tools-pr-208.review.service.aftonbladet.se
 hyperion-pr-788.review.service.aftonbladet.se
@@ -5880,7 +5877,6 @@ frontpage-api-pr-229.review.service.aftonbladet.se
 iris-pr-815.review.service.aftonbladet.se
 iris-pr-427.review.service.aftonbladet.se
 coco-pr-171.review.service.aftonbladet.se
-www.aftonbladet.se
 editorialtools-pr-104.review.service.aftonbladet.se
 iris-pr-692.review.service.aftonbladet.se
 musik.aftonbladet.se
@@ -6384,7 +6380,7 @@ corona-timeline-pr-133.review.service.aftonbladet.se
 dodenskust.story.aftonbladet.se
 coco-pr-183.review.service.aftonbladet.se
 iris-pr-896.review.service.aftonbladet.se
-www.textarkivet.aftonbladet.se
+textarkivet.aftonbladet.se
 iris-pr-846.review.service.aftonbladet.se
 www-pr-178.service.aftonbladet.se
 arke-pr-196.review.service.aftonbladet.se
@@ -6645,7 +6641,6 @@ hyperion-pr-1347.review.service.aftonbladet.se
 iris-pr-1011.review.service.aftonbladet.se
 hyperion-pr-1445.review.service.aftonbladet.se
 wellobe-iris-pr-719.review.service.aftonbladet.se
-www.kampanj.aftonbladet.se
 frontpage-api-pr-119.review.service.aftonbladet.se
 hyperion-pr-1200.review.service.aftonbladet.se
 hyperion-pr-1359.review.service.aftonbladet.se
@@ -7464,8 +7459,6 @@ vektklubb-iris-pr-564.review.service.aftonbladet.se
 hyperion-pr-1730.review.service.aftonbladet.se
 tlahuizcalpantecuhtli-pr-133.review.service.aftonbladet.se
 hyperion-pr-1433.review.service.aftonbladet.se
-www.plus.aftonbladet.se
-dreamteam.aftonbladet.se
 wellobe-iris-pr-732.review.service.aftonbladet.se
 hyperion-pr-746.review.service.aftonbladet.se
 www-pr-165.service.aftonbladet.se
@@ -8114,7 +8107,7 @@ experiment-chat-buddy-pr-21.review.service.aftonbladet.se
 wwwc-pr-148.service.aftonbladet.se
 ai-buffe-pr-17.review.service.aftonbladet.se
 article-summarizer-polaris-pr-122.review.service.aftonbladet.se
-www.xlcoachen.aftonbladet.se
+xlcoachen.aftonbladet.se
 chat-buddy-pr-84.review.service.aftonbladet.se
 energy-compass-pr-135.review.service.aftonbladet.se
 hyperion-pr-1174.review.service.aftonbladet.se

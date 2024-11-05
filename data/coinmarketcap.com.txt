@@ -1,12 +1,9 @@
-*.coinmarketcap.com
-*.beta.coinmarketcap.com
-*.staging.coinmarketcap.com
+beta.coinmarketcap.com
+staging.coinmarketcap.com
 notification.coinmarketcap.com
 o2.ptr1570.coinmarketcap.com
 o1.ptr731.coinmarketcap.com
-beta.coinmarketcap.com
 accounts-beta.coinmarketcap.com
-staging.coinmarketcap.com
 blog.coinmarketcap.com
 api.coinmarketcap.com
 portal-api.coinmarketcap.com
@@ -66,7 +63,6 @@ web-api.coinmarketcap.com
 interest.coinmarketcap.com
 mobile-api-staging.coinmarketcap.com
 portal-api-beta.coinmarketcap.com
-www.coinmarketcap.com
 portal-api-sandbox.coinmarketcap.com
 testingstatic.coinmarketcap.com
 sandbox.coinmarketcap.com
@@ -74,7 +70,6 @@ web-api-beta.coinmarketcap.com
 headlines-api-ext.coinmarketcap.com
 headlines-api.coinmarketcap.com
 s2.coinmarketcap.com
-www.blog.coinmarketcap.com
 agora.coinmarketcap.com
 rates-api.coinmarketcap.com
 mobile-api.coinmarketcap.com

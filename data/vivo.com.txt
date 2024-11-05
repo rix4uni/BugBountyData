@@ -1,5 +1,4 @@
-*.vivo.com
-*.tianma-prd-in.vivo.com
+tianma-prd-in.vivo.com
 360.vivo.com
 85-132-193-33-static.vivo.com
 afgateway.vivo.com
@@ -65,7 +64,6 @@ shgj.vivo.com
 shop.vivo.com
 slb-exvivoportal-web.vivo.com
 tech.vivo.com
-tianma-prd-in.vivo.com
 usm.vivo.com
 vcrmuat.vivo.com
 visionplus.vivo.com
@@ -73,10 +71,7 @@ vivo360.vivo.com
 vs.vivo.com
 vsin.vivo.com
 webcloud.vivo.com
-www.vivo.com
-www.pelis.vivo.com
-www.portal.vivo.com
-www.ru.vivo.com
+pelis.vivo.com
 www2.vivo.com
 zap.vivo.com
 zhaopin.vivo.com
@@ -79924,7 +79919,6 @@ www-v2.tianma-prd-in.vivo.com
 www-wdc-stage.tianma-prd-in.vivo.com
 www-wdc.tianma-prd-in.vivo.com
 www-whitebear.tianma-prd-in.vivo.com
-www.tianma-prd-in.vivo.com
 www0-backups-www-test.tianma-prd-in.vivo.com
 www0-db2-corp.tianma-prd-in.vivo.com
 www0-docs.tianma-prd-in.vivo.com
@@ -83652,7 +83646,7 @@ web.vivo.com
 2app-wdps-okta-inc-parents-alt12prd.srb.vivo.com
 2fwww.vivo.com
 dev-ru.vivo.com
-www.247.vivo.com
+247.vivo.com
 http.www.vivo.com
 vvv.vivo.com
 supereasy.vivo.com
@@ -83679,8 +83673,6 @@ uaxpjcjqrxwsuao.vivo.com
 kernelapi.vivo.com
 app.vivo.com
 player.vivo.com
-www.domaincfg.vivo.com
-www.bbs.vivo.com
 gedoc.vivo.com
 fr-passport.vivo.com
 wwwtvperu.vivo.com
@@ -83688,14 +83680,13 @@ meuvivoempresas.vivo.com
 cdn.vivo.com
 mail.nz.vivo.com
 sg-accountstatic.vivo.com
-www.javadownloads.vivo.com
+javadownloads.vivo.com
 extranet.vivo.com
 union.vivo.com
 learning.vivo.com
 cqm1-4f-scx78b-c2960x-1.vivo.com
 coronae.vivo.com
 mail.np.vivo.com
-www.zap.vivo.com
 mtadm.vivo.com
 smtp.vivo.com
 wap.vivo.com
@@ -83704,12 +83695,9 @@ hunachaco.vivo.com
 de-gdpr-exstatic-vivofs.vivo.com
 de2-visionplus-cname.vivo.com
 rondoniao.vivo.com
-www.icampusbrasil.vivo.com
 skqmkpv.vivo.com
 vps.vivo.com
-www.wap.vivo.com
 accounts.vivo.com
-www.browserproxy.vivo.com
 eu-exstatic-vivofs.vivo.com
 lojaonline.vivo.com
 api.vivo.com
@@ -83726,7 +83714,6 @@ jthfucrlc.vivo.com
 garena.vivo.com
 sctrack.email.vivo.com
 play.vivo.com
-www.portaldeinformacoes.vivo.com
 metformin02.vivo.com
 mail.sg.vivo.com
 portal.recarga.vivo.com
@@ -84246,7 +84233,6 @@ control.vivo.com
 sms.vivo.com
 163.vivo.com
 intern.vivo.com
-www.hunachaco.vivo.com
 master.vivo.com
 205.vivo.com
 l.vivo.com
@@ -84466,7 +84452,7 @@ analytics.vivo.com
 tools.vivo.com
 168.vivo.com
 gd.vivo.com
-www.sixaeventos.vivo.com
+sixaeventos.vivo.com
 mx01.vivo.com
 uat.vivo.com
 bj.vivo.com
@@ -84595,7 +84581,6 @@ wwwevents.vivo.com
 c4p1620sm37retul7ovg.vivo.com
 wwwreviews.vivo.com
 190.0.vivo.com
-www.sdp.vivo.com
 st-expc-pay.vivo.com
 0-f2.vivo.com
 wwwtester.vivo.com
@@ -84619,7 +84604,7 @@ wwwalpha.vivo.com
 00-git.vivo.com
 0-begin.vivo.com
 0-v7.vivo.com
-www.0-60quartermiletimes.vivo.com
+0-60quartermiletimes.vivo.com
 c4p1620sm37retul84cg.vivo.com
 wwwwesteurope.vivo.com
 e.0.vivo.com
@@ -84629,12 +84614,11 @@ identity-pre.0.vivo.com
 0-developer.vivo.com
 0-np.vivo.com
 0-xu.vivo.com
-www.ww.vivo.com
 0-ulrichsweb17.vivo.com
 0-tf.vivo.com
 wwweu.vivo.com
 portaoinformaoes.vivo.com
-www.email.goldcell.vivo.com
+email.goldcell.vivo.com
 cn-idc-cname-www.vivo.com
 0-ms.vivo.com
 0-hq.vivo.com
@@ -84759,7 +84743,7 @@ st-expcswagger.vivo.com
 c4p1620sm37retul7i70.vivo.com
 0-edm.vivo.com
 c4p1620sm37retul8hog.vivo.com
-www.web2.0.vivo.com
+web2.0.vivo.com
 46.0.0.vivo.com
 c5bbmeosm37t41l972c0.vivo.com
 p.3.0.0.vivo.com
@@ -84826,7 +84810,7 @@ c4p1620sm37retul8r00.vivo.com
 c5bbmeosm37t41l981hg.vivo.com
 0-r4.vivo.com
 ixmhacloudax.0-eh.vivo.com
-www.68blcxm546gs1.1.1695635940.1.1.1695636056.7.0.0.vivo.com
+68blcxm546gs1.1.1695635940.1.1.1695636056.7.0.0.vivo.com
 deo.vivo.com
 0-developers-pre.vivo.com
 asia.vivo.com
@@ -84887,7 +84871,6 @@ c5bbmeosm37t41l9845g.vivo.com
 vivoplay.vivo.com
 www2013.vivo.com
 0-164.vivo.com
-68blcxm546gs1.1.1695635940.1.1.1695636056.7.0.0.vivo.com
 wwwh3-console.vivo.com
 0-0-misc.vivo.com
 c4p1620sm37retul8hsg.vivo.com
@@ -84909,7 +84892,6 @@ c4p1620sm37retul84t0.vivo.com
 0-aj.vivo.com
 www-vivofs-india-pub-8.vivo.com
 c4p1620sm37retul7nb0.vivo.com
-0-60quartermiletimes.vivo.com
 0-40.vivo.com
 00-phasertutorial.vivo.com
 www-k16s-prod.vivo.com
@@ -84956,7 +84938,7 @@ wwwscx84b.vivo.com
 0-vk.vivo.com
 0-oy.vivo.com
 0-sa.vivo.com
-www.tv.ao.vivo.com
+tv.ao.vivo.com
 c4p1620sm37retul921g.vivo.com
 wwwhupo.vivo.com
 0-ai.vivo.com
@@ -84970,9 +84952,9 @@ c5bbmeosm37t41l98fb0.vivo.com
 st-expcfet.vivo.com
 st-expccontrol.vivo.com
 00-j.vivo.com
-www.wiki-3.0.vivo.com
+wiki-3.0.vivo.com
 0-2000.vivo.com
-www.0-6packabs.vivo.com
+0-6packabs.vivo.com
 host.vivo.com
 0-ya.vivo.com
 ranzse.0.vivo.com
@@ -84990,7 +84972,6 @@ as-middle-prd.0.vivo.com
 0-213.vivo.com
 0-t.vivo.com
 c5bbmeosm37t41l98h90.vivo.com
-www.0.vivo.com
 wwwssl.vivo.com
 0-ll.vivo.com
 0-251.vivo.com
@@ -85024,7 +85005,7 @@ vwww.vivo.com
 0-0-ft-prd-proprietary.vivo.com
 c5bbmeosm37t41l9844g.vivo.com
 wwwmerch.vivo.com
-www.webedi.vivo.com
+webedi.vivo.com
 c4p1620sm37retul91i0.vivo.com
 0-28-devadmin.vivo.com
 0-jobbeneventsteventslog-bjobbenld.vivo.com
@@ -85061,7 +85042,7 @@ ml.vivo.com
 0-overview.vivo.com
 0-39.vivo.com
 0-diligenteventsteventslog-bdiligentld.vivo.com
-www.www.vivo.com
+www.vivo.com
 0-l8.vivo.com
 00-course-info.vivo.com
 pmex.vivo.com
@@ -85119,7 +85100,6 @@ c5bbmeosm37t41l98ifg.vivo.com
 2.0.vivo.com
 00-empezando.vivo.com
 st-expcz.vivo.com
-www.ranzse.0.vivo.com
 0-24-in-admin.vivo.com
 00-d3.vivo.com
 0-eh.vivo.com
@@ -85139,7 +85119,7 @@ c4p1620sm37retul7lkg.vivo.com
 0-ig.vivo.com
 c5bbmeosm37t41l98ec0.vivo.com
 0-static-ml.vivo.com
-www.meu.vivo.com
+meu.vivo.com
 0-24adminapi.vivo.com
 mail.0-90.vivo.com
 c4p1620sm37retul8340.vivo.com
@@ -85151,7 +85131,7 @@ c5bbmeosm37t41l970gg.vivo.com
 wwwdevops.vivo.com
 00-copy-me.vivo.com
 forums.0.vivo.com
-www.3.0.vivo.com
+3.0.vivo.com
 0-posta.vivo.com
 0-jb.vivo.com
 c5bbmeosm37t41l98aq0.vivo.com
@@ -85172,7 +85152,6 @@ c4p1620sm37retul7krg.vivo.com
 hr.0.vivo.com
 0-73.vivo.com
 00-e.vivo.com
-www.0-marescalcom.vivo.com
 4.5g.vivo.com
 portarecarga.vivo.com
 hupo.0.vivo.com
@@ -85191,7 +85170,7 @@ c4p1620sm37retul8mrg.vivo.com
 00-init-modules.vivo.com
 st-expcpriv.vivo.com
 145.0.vivo.com
-www.portalsva2.vivo.com
+portalsva2.vivo.com
 c4p1620sm37retul91f0.vivo.com
 c5bbmeosm37t41l980k0.vivo.com
 1707ds1-es.0.vivo.com
@@ -85231,7 +85210,7 @@ c4p1620sm37retul7kkg.vivo.com
 c5bbmeosm37t41l98as0.vivo.com
 00-api.vivo.com
 00-0-pre-pre.vivo.com
-www.citrix.accenture.vivo.com
+citrix.accenture.vivo.com
 0-liquid-web.vivo.com
 0-applog-test.vivo.com
 4007ds2-gj.0.vivo.com
@@ -85239,7 +85218,6 @@ www.citrix.accenture.vivo.com
 chong.00-4-test-in.vivo.com
 com127.0.0.vivo.com
 0-247.vivo.com
-wiki-3.0.vivo.com
 0-m2.vivo.com
 jobs.0.vivo.com
 0-14.vivo.com
@@ -85289,7 +85267,6 @@ wwwpriv.vivo.com
 c4p1620sm37retul8ek0.vivo.com
 0-mp3.vivo.com
 developersstatic.0.vivo.com
-www.gedoc.vivo.com
 0-93-in-in.vivo.com
 0-9-atelier.vivo.com
 6ywzq8bcthg8qk85.7.4.0.1.0.0.vivo.com
@@ -85312,7 +85289,7 @@ wwwfibra.vivo.com
 c4p1620sm37retul7iv0.vivo.com
 0-mon.vivo.com
 c4p1620sm37retul7rg0.vivo.com
-www.0-90.vivo.com
+0-90.vivo.com
 www-proxy.vivo.com
 wwwalt.vivo.com
 payglobal-static.0.vivo.com
@@ -85384,7 +85361,6 @@ launcher.vivo.com
 privacy-pre.0.vivo.com
 0-3d.vivo.com
 0-6n.vivo.com
-www.minhavivo.vivo.com
 c5bbmeosm37t41l98c4g.vivo.com
 00-main.vivo.com
 c4p1620sm37retul8qkg.vivo.com
@@ -85404,7 +85380,7 @@ c4p1620sm37retul7q3g.vivo.com
 0-macclemens.vivo.com
 0-v5.vivo.com
 179.0.vivo.com
-www.vivo.vivo.com
+vivo.vivo.com
 0-c7.vivo.com
 1.1.1695636056.7.0.0.vivo.com
 newcastleskipbins.0.vivo.com
@@ -85453,7 +85429,6 @@ vivocollege-admin.vivo.com
 0-mq.vivo.com
 0-docsapi6owa-cahideip.vivo.com
 imap.0.vivo.com
-www.denmanmotorinn.0.vivo.com
 0.1.0.0.vivo.com
 0-74.vivo.com
 0-118.vivo.com
@@ -85482,7 +85457,6 @@ www17.vivo.com
 0-proxyprod.vivo.com
 00-fitbit-demo.vivo.com
 1.1688110312.46.0.0.vivo.com
-web2.0.vivo.com
 0-na.vivo.com
 0-zs.vivo.com
 0--4.vivo.com
@@ -85642,7 +85616,6 @@ st-expcnorthamerica.vivo.com
 68blcxm546gs1.1.1688110298.1.1.1688110312.46.0.0.vivo.com
 0-eds.vivo.com
 st-expcbeta.vivo.com
-3.0.vivo.com
 c5bbmeosm37t41l97vfg.vivo.com
 0-80.vivo.com
 c4p1620sm37retul8c40.vivo.com
@@ -85687,12 +85660,11 @@ vivoddr.u.conect.d.fibra.p.vivo.com
 49.0.vivo.com
 0-uidynamic.vivo.com
 c5bbmeosm37t41l97s2g.vivo.com
-www.www.test.com.vivo.com
+www.test.com.vivo.com
 0-io.vivo.com
 0-asia-expstatisweb.vivo.com
 c4p1620sm37retul7p0g.vivo.com
 c5bbmeosm37t41l976jg.vivo.com
-www.0--c.vivo.com
 it.0.vivo.com
 3107ds1-nks.0.vivo.com
 204.0.vivo.com
@@ -85716,8 +85688,6 @@ tn.vivo.com
 0-qu.vivo.com
 0-230.vivo.com
 0-nk.vivo.com
-0-6packabs.vivo.com
-www.d.0.vivo.com
 c4p1620sm37retul7us0.vivo.com
 wwworigin.vivo.com
 0-paper-review.vivo.com
@@ -85746,7 +85716,6 @@ magazine.vivo.com
 tim.claro.oi.vivo.com
 c4p1620sm37retul8tcg.vivo.com
 0-tr-passport.vivo.com
-citrix.accenture.vivo.com
 www-dns4.vivo.com
 c5bbmeosm37t41l97lh0.vivo.com
 0-248.vivo.com
@@ -85795,12 +85764,10 @@ mx.0.vivo.com
 c5bbmeosm37t41l97380.vivo.com
 c5bbmeosm37t41l97kk0.vivo.com
 dialin.vivo.com
-www.player.vivo.com
 c4p1620sm37retul80n0.vivo.com
 applog.vivo.com
 st-expceuwe.vivo.com
 0-gf.vivo.com
-www.telefonica.vivo.com
 0-126.vivo.com
 0-internal-qwqee.vivo.com
 00-network.vivo.com
@@ -85810,7 +85777,6 @@ www.telefonica.vivo.com
 0-ww.vivo.com
 wwwstnetsdk.vivo.com
 0-3i.vivo.com
-www.68blcxm546gs1.1.1667663097.1.1.1667663208.60.0.0.vivo.com
 0-24admin-api.vivo.com
 0-uu.vivo.com
 0-q9.vivo.com
@@ -85873,7 +85839,6 @@ api.0.vivo.com
 wwwtesting.vivo.com
 0-5p.vivo.com
 payglobal.0.vivo.com
-www.findphone.vivo.com
 0-34.vivo.com
 0-terra.vivo.com
 www11scloud.vivo.com
@@ -85900,7 +85865,6 @@ c4p1620sm37retul7ijg.vivo.com
 st-expcmarket.vivo.com
 wwwinstitutocem.vivo.com
 wf.vivo.com
-www.reiki-energie-49-3.0.vivo.com
 0-iot.vivo.com
 0-113-dsl.vivo.com
 75.0.vivo.com
@@ -85974,14 +85938,12 @@ eu-ali-cname-www.0.vivo.com
 226.0.vivo.com
 00-einleitung.vivo.com
 wwwoid.vivo.com
-0-90.vivo.com
 control.0.vivo.com
 c4p1620sm37retul8b6g.vivo.com
 0-kc.vivo.com
 c4p1620sm37retul7rog.vivo.com
 c4p1620sm37retul8ia0.vivo.com
 0-administrators-groups.vivo.com
-www.alrojo.vivo.com
 c4p1620sm37retul8dm0.vivo.com
 0-search.vivo.com
 0-28-devtest.vivo.com
@@ -86063,17 +86025,14 @@ pelis.en.vivo.com
 asia-gdpr-exstatic.vivo.com
 eu-exshopstatic-vivofs.vivo.com
 de-gdpr-exstatic.vivo.com
-www.configuraraparelhos.vivo.com
 developersstatic.vivo.com
-www.autenticaint.vivo.com
-www.pelis.en.vivo.com
+autenticaint.vivo.com
 correio.vivo.com
 configuraraparelho.vivo.com
 asia-gdpr-exstatic-vivofs.vivo.com
 wwwstatic.vivo.com
-autenticaint.vivo.com
 bel.vivo.com
-www.vivo.comwww.vivo.comwww.vivo.comwww.vivo.com
+vivo.comwww.vivo.comwww.vivo.comwww.vivo.com
 ipv4.vivo.com
 career-uat.vivo.com
 quantumkit-screen.vivo.com
@@ -86573,7 +86532,7 @@ tdc.vivo.com
 digitaldelivery.vivo.com
 magazineunlockstatic.vivo.com
 moni-ort-stsdk.vivo.com
-www.ousitanio.vivo.com
+ousitanio.vivo.com
 xs.vivo.com
 jovi-trip.vivo.com
 psuite.vivo.com
@@ -86705,4 +86664,3 @@ theme-cash.vivo.com
 device2803486-10674681.vivo.com
 phenolru.vivo.com
 ru-expweb.vivo.com
-*.shenniu-prd-asia.vivo.com

@@ -19,12 +19,10 @@ remedy-hyur.dev.integration.geldmaat.nl
 tietoevry-proxied.dev.integration.geldmaat.nl
 ictservicedesk.geldmaat.nl
 locatiewijzer.geldmaat.nl
-www.locatiewijzer.geldmaat.nl
 rabobank.acc.integration.geldmaat.nl
 axxerion-pxvh.dev.integration.geldmaat.nl
 okta-nonprod.geldmaat.nl
 servicenow.prod.integration.geldmaat.nl
-www.geldmaat.nl
 remedy.prod.integration.geldmaat.nl
 remedy-iwcu.dev.integration.geldmaat.nl
 rabobank-iwcu.dev.integration.geldmaat.nl
@@ -316,7 +314,7 @@ servicenow-wcio.dev.integration.geldmaat.nl
 rabobank-proxied-hyur.dev.integration.geldmaat.nl
 rabobank-nbsm.dev.integration.geldmaat.nl
 tietoevry-jtha.dev.integration.geldmaat.nl
-www.partners.geldmaat.nl
+partners.geldmaat.nl
 remedy-ejzm.dev.integration.geldmaat.nl
 kpn-qvdj.dev.integration.geldmaat.nl
 remedy-pxvh.dev.integration.geldmaat.nl
@@ -466,7 +464,6 @@ app.prod.cra-forecast.geldmaat.nl
 brinks-fyxv.dev.integration.geldmaat.nl
 dev.isa.geldmaat.nl
 rabobank-proxied-wgbm.dev.integration.geldmaat.nl
-partners.geldmaat.nl
 brinks-dispatch-igpq.dev.integration.geldmaat.nl
 brinks-dispatch-qvdj.dev.integration.geldmaat.nl
 kpn-xguo.dev.integration.geldmaat.nl

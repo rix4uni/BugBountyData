@@ -1,4 +1,4 @@
-www.origin.costco.ca
+origin.costco.ca
 www-vqa7.costco.ca
 digitalshopcard-preprod.costco.ca
 my-vqa6.costco.ca
@@ -8,7 +8,7 @@ my-bd-vdevint5.costco.ca
 shopcardglentel.costco.ca
 t.costco.ca
 my-bd-perf.costco.ca
-www.mobility.costco.ca
+mobility.costco.ca
 www-vqa9.costco.ca
 www-vdevint2.costco.ca
 signin-qaui.costco.ca
@@ -22,9 +22,8 @@ tmx.costco.ca
 www1-perf.costco.ca
 bd-vdevint2.costco.ca
 www-vqa11.costco.ca
-www.costco.ca
 my-vuat2.costco.ca
-www.m.costco.ca
+m.costco.ca
 tires2.costco.ca
 www-perf.costco.ca
 www9.costco.ca
@@ -54,7 +53,6 @@ data.trx.costco.ca
 my-vqa7.costco.ca
 origin-bd-perf.costco.ca
 signin-sptui.costco.ca
-mobility.costco.ca
 tires.costco.ca
 content.costco.ca
 my-bd-vuat2.costco.ca
@@ -64,7 +62,6 @@ my-vdevint3.costco.ca
 m.vdevint4.costco.ca
 bd-vdevint4.costco.ca
 media-cdn.costco.ca
-www.t.costco.ca
 my-vqa3.costco.ca
 my-vqa1.costco.ca
 origin2-bd-perf.costco.ca
@@ -98,7 +95,6 @@ ess.costco.ca
 origin-vqa5.costco.ca
 www-vdevint6.costco.ca
 bd-vdevint7.costco.ca
-origin.costco.ca
 origin-vqa1.costco.ca
 origin4.costco.ca
 shopcardmanager.costco.ca
@@ -110,7 +106,6 @@ www2.costco.ca
 jobbankspt.costco.ca
 bd-vdevint5.costco.ca
 m-bd-vuat1.costco.ca
-m.costco.ca
 www-vdevint7.costco.ca
 www-vuat1.costco.ca
 tracking.costco.ca
@@ -196,7 +191,6 @@ my-bd-vdevint7.costco.ca
 my-bd-vqa6.costco.ca
 shopcardglentel-preprod.costco.ca
 m-bd-vqa3.costco.ca
-www.www2.costco.ca
 t1.costco.ca
 em7412.digitalshopcards.costco.ca
 origin-my-vdev2.costco.ca

@@ -39,7 +39,6 @@ confused.quote.simplybusiness.co.uk
 consent-service-staging.simplybusiness.co.uk
 email.simplybusiness.co.uk
 embed.simplybusiness.co.uk
-www.simplybusiness.co.uk
 custard-cream.simplybusiness.co.uk
 get.simplybusiness.co.uk
 glazed-doughnut.simplybusiness.co.uk
@@ -68,8 +67,8 @@ bc-uk.simplybusiness.co.uk
 zebra.simplybusiness.co.uk
 www-staging.simplybusiness.co.uk
 ebm.email.simplybusiness.co.uk
-*.staging.simplybusiness.co.uk
-*.integration.simplybusiness.co.uk
+staging.simplybusiness.co.uk
+integration.simplybusiness.co.uk
 idiophone-staging-eu-west-2.simplybusiness.co.uk
 airbyte-webapp.simplybusiness.co.uk
 content-discovery-staging.simplybusiness.co.uk
@@ -105,7 +104,6 @@ moneysupermarket.quote-staging.simplybusiness.co.uk
 aws-rds-01.simplybusiness.co.uk
 sb-airbyte.simplybusiness.co.uk
 sb-webhook.simplybusiness.co.uk
-www.aws-rds-01.simplybusiness.co.uk
 continuous-cover-staging.simplybusiness.co.uk
 tpslookup.simplybusiness.co.uk
 network.simplybusiness.co.uk

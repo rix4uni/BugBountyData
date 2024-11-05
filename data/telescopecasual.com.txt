@@ -7,9 +7,7 @@ odoo.telescopecasual.com
 roomplanner.telescopecasual.com
 stores.telescopecasual.com
 teamwork.telescopecasual.com
-www.debug.telescopecasual.com
-www.heroku.telescopecasual.com
-www.telescopecasual.com
+debug.telescopecasual.com
 beta.telescopecasual.com
 catalog-sandbox.telescopecasual.com
 ccutm.telescopecasual.com
@@ -17,5 +15,3 @@ dev-odoo.telescopecasual.com
 odoo-web-sandbox.telescopecasual.com
 odoo-web.telescopecasual.com
 unificontroller.telescopecasual.com
-www.ccutm.telescopecasual.com
-www.unificontroller.telescopecasual.com

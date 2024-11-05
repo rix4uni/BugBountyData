@@ -18,8 +18,6 @@ tests.dev.aws.kestio.live
 tests.kestio.live
 tests.prod.aws.kestio.live
 tests.staging.aws.kestio.live
-www.kestio.live
-www.masterklass.kestio.live
 coturn1.staging.aws.kestio.live
 dev.aws.kestio.live
 feraudet.aws.kestio.live
@@ -187,6 +185,3 @@ staging.aws.kestio.live
 test.dev.aws.kestio.live
 toto.prod.aws.kestio.live
 turn1.meet.kestio.live
-www.coturn1.staging.aws.kestio.live
-www.preprod.kestio.live
-www.turn1.meet.kestio.live

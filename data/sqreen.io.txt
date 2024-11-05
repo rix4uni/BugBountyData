@@ -8,7 +8,6 @@ myheaders.sqreen.io
 disrupt.sqreen.io
 cto-security-checklist.sqreen.io
 grafana.infra.sqreen.io
-www.sqreen.io
 bi.infra.sqreen.io
 blog.sqreen.io
 ci.infra.sqreen.io
@@ -27,7 +26,6 @@ sentry.agents.infra.sqreen.io
 www2.sqreen.io
 jenkins.infra.sqreen.io
 sentry-internal.agents.infra.sqreen.io
-www.blog.sqreen.io
 pypackages.infra.sqreen.io
 pre-dash.sqreen.io
 bff.staging.infra.sqreen.io

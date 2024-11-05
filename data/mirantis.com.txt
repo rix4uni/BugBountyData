@@ -17,7 +17,7 @@ pausedocker-prod-local.artifactory.mirantis.com
 mongodocker-prod-local.artifactory.mirantis.com
 registrydocker-prod-local.artifactory.mirantis.com
 v1.4.1visualizerdocker-prod-local.artifactory.mirantis.com
-www.catalog.mirantis.com
+catalog.mirantis.com
 2018.11.0elasticsearchdocker-prod-local.artifactory.mirantis.com
 visualizerdocker-prod-local.artifactory.mirantis.com
 download.mirantis.com
@@ -84,7 +84,6 @@ artifactory.mirantis.com
 2018.11.0nginx-ingress-controller-amd64docker-prod-local.artifactory.mirantis.com
 nginx-ingress-controller-amd64docker-prod-local.artifactory.mirantis.com
 mon.edu.mirantis.com
-www.mirantis.com
 registry.edu.mirantis.com
 mail.mirantis.com
 2018.11.0tillerdocker-prod-local.artifactory.mirantis.com
@@ -209,8 +208,3 @@ tekton.staging.presales.demo.mirantis.com
 argocd.staging.presales.demo.mirantis.com
 kuard.staging.presales.demo.mirantis.com
 kibana.edu.mirantis.com
-www.support.mirantis.com
-www.images.mirantis.com
-www.docs.mirantis.com
-www.security-portal.infra.mirantis.com
-www.binary.mirantis.com

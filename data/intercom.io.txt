@@ -88,7 +88,7 @@ mq44cv6t-ios-1-5-0.mobile-sdk-api.intercom.io
 nexus-router-b-15.intercom.io
 c7s50c8n-ios-2-4-2.mobile-sdk-api.intercom.io
 rkp9r87w-android-6-2-9-4.mobile-sdk-api.intercom.io
-www.affiliate-m8sdhldi-ios-7-9-0.mobile-sdk-api.intercom.io
+affiliate-m8sdhldi-ios-7-9-0.mobile-sdk-api.intercom.io
 zorz11ml-ios-1-32-0.mobile-sdk-api.intercom.io
 antivirus1.ipd319sn-android-3-1-4-1.mobile-sdk-api.intercom.io
 qkqseh75-android-1-0-2.mobile-sdk-api.intercom.io
@@ -358,7 +358,6 @@ intercomrades.intercom.io
 mobile-admin-client-android.intercom.io
 doc.intercom.io
 nexus-websocket-b.intercom.io
-www.intercom.io
 api-iam.au.intercom.io
 t040tluf-android-1-8-1.mobile-sdk-api.intercom.io
 vhxb5ke5-android.mobile-sdk-api.intercom.io
@@ -372,22 +371,6 @@ bx6ssdy0-android.mobile-sdk-api.intercom.io
 sss.widget.intercom.io
 zdotpjus-android.mobile-sdk-api.intercom.io
 w2ijfn98-android.mobile-sdk-api.intercom.io
-*.mobile-sdk-api.intercom.io
-*.intercom.io
-*.wiki.intercom.io
-*.au.intercom.io
-*.au.internal.intercom.io
-*.internal.intercom.io
-*.mobile-messenger.au.intercom.io
-*.corporate.intercom.io
-*.eu.intercom.io
-*.eu.internal.intercom.io
-*.mobile-messenger.eu.intercom.io
-*.whatsapp2.internal.intercom.io
-*.whatsapp.internal.intercom.io
-*.internal.corporate.intercom.io
-*.mobileapi-v2.eu.intercom.io
-www.wiki.internal.intercom.io
 00-83.mobile-sdk-api.intercom.io
 acc.mobile-sdk-api.intercom.io
 access.mobile-sdk-api.intercom.io
@@ -721,7 +704,6 @@ wp.mobile-sdk-api.intercom.io
 wrc-sg3.mobile-sdk-api.intercom.io
 www-4-02.mobile-sdk-api.intercom.io
 www-50.mobile-sdk-api.intercom.io
-www.mobile-sdk-api.intercom.io
 www1-oceania.mobile-sdk-api.intercom.io
 www1.mobile-sdk-api.intercom.io
 www2.mobile-sdk-api.intercom.io
@@ -834,8 +816,6 @@ w5374i76-android-4-0-1-9-4.mobile-sdk-api.intercom.io
 w9aaxg7e-android.mobile-sdk-api.intercom.io
 winget.intercom.io
 wjc6gt6n-android.mobile-sdk-api.intercom.io
-www.blog.intercom.io
-www.virusy53em61-ios-3-0-1.mobile-sdk-api.intercom.io
 x8o64ufr-android-2-8-9-1.mobile-sdk-api.intercom.io
 x8o64ufr-ios.mobile-sdk-api.intercom.io
 x9j9k4l7-android-1-1-0-1-3-3.mobile-sdk-api.intercom.io
@@ -1124,7 +1104,6 @@ kyii6kcb-android-4-1-0.mobile-sdk-api.intercom.io
 x8o64ufr-ios-120-0-0.mobile-sdk-api.intercom.io
 kd3jeuh3-android-4-5-0-2-0-1-5-1-2-2-4-1-3-4-7.mobile-sdk-api.intercom.io
 kpok3cq8-android-4-0-3.mobile-sdk-api.intercom.io
-affiliate-m8sdhldi-ios-7-9-0.mobile-sdk-api.intercom.io
 9rijwk1f-android-4-1-0-0.mobile-sdk-api.intercom.io
 o6c08hlm-ios-1-7-2.mobile-sdk-api.intercom.io
 cq5z1f8j-android-1-1-0-6-6-1.mobile-sdk-api.intercom.io

@@ -1,10 +1,9 @@
-*.veezi.com
-*.eu.veezi.com
-*.oz.veezi.com
-*.test.veezi.com
-*.us.veezi.com
-*.useast.veezi.com
-*.uswest.veezi.com
+eu.veezi.com
+oz.veezi.com
+test.veezi.com
+us.veezi.com
+useast.veezi.com
+uswest.veezi.com
 api.cn.veezi.com
 api.eu.veezi.com
 api.test.veezi.com
@@ -13,7 +12,6 @@ auth.veezi.com
 cms-api-web.test.veezi.com
 email.veezi.com
 engage.veezi.com
-eu.veezi.com
 foo.test.veezi.com
 help.veezi.com
 helpdesk.veezi.com
@@ -38,7 +36,6 @@ nziffcc.veezi.com
 nziffss.veezi.com
 nziffweb.veezi.com
 o1.email.veezi.com
-oz.veezi.com
 payments.cn.veezi.com
 payments.eu.veezi.com
 payments.test.veezi.com
@@ -57,7 +54,6 @@ ss.nz.veezi.com
 ss.test.veezi.com
 ss.us.veezi.com
 storage.veezi.com
-test.veezi.com
 ticketing.cn.veezi.com
 ticketing.eu.veezi.com
 ticketing.oz.veezi.com
@@ -67,11 +63,8 @@ ticketing.useast.veezi.com
 ticketing.uswest.veezi.com
 tna.useast.veezi.com
 url.veezi.com
-us.veezi.com
 use.veezi.com
-useast.veezi.com
 usw.veezi.com
-uswest.veezi.com
 web.test.veezi.com
 ws.veezi.com
 ws.ap.veezi.com
@@ -80,7 +73,6 @@ ws.eu.veezi.com
 ws.nz.veezi.com
 ws.test.veezi.com
 ws.us.veezi.com
-www.veezi.com
 gift-shop.eu.veezi.com
 api.uswest.veezi.com
 payments.uswest.veezi.com

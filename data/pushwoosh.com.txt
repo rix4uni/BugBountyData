@@ -49,7 +49,7 @@ f5d-0e325.api.pushwoosh.com
 prometheus.svc.pushwoosh.com
 753fa-ff6fa.api.pushwoosh.com
 community.pushwoosh.com
-www.4d148-cbf7b.api.pushwoosh.com
+4d148-cbf7b.api.pushwoosh.com
 union.pushwoosh.com
 16fba-f74ca.api.pushwoosh.com
 77a62-f25d4.api.pushwoosh.com
@@ -212,7 +212,7 @@ xray-vpn.corp.pushwoosh.com
 grafana.dev-cluster.pushwoosh.com
 f35a3-9b7cb.api.pushwoosh.com
 d187b-0d1c9.api.pushwoosh.com
-www.c0995-3f9b1.api.pushwoosh.com
+c0995-3f9b1.api.pushwoosh.com
 41160-ef265.api.pushwoosh.com
 r3-front-13.pushwoosh.com
 2938e-c5916.api.pushwoosh.com
@@ -220,7 +220,7 @@ vo-graph.stage.pushwoosh.com
 kafka-manager.stage.pushwoosh.com
 chrome.pushwoosh.com
 local.pushwoosh.com
-www.corp.pushwoosh.com
+corp.pushwoosh.com
 a99-42e46.api.pushwoosh.com
 import-segment.svc-nue.pushwoosh.com
 e5e5c-6e6ae.api.pushwoosh.com
@@ -233,7 +233,6 @@ play-reports.corp.pushwoosh.com
 05c65-66bbf.api.pushwoosh.com
 b9cbf-82162.api.pushwoosh.com
 b-f6281.api.pushwoosh.com
-corp.pushwoosh.com
 73083-a8218.api.pushwoosh.com
 dc261-5e500.api.pushwoosh.com
 r4-gw1.dc1.net.pushwoosh.com
@@ -280,7 +279,7 @@ dbs.pushwoosh.com
 98f9c-a3509.api.pushwoosh.com
 rambler.pushwoosh.com
 18a3b-4bf07.api.pushwoosh.com
-www.c61d8-8a617.api.pushwoosh.com
+c61d8-8a617.api.pushwoosh.com
 r1-front-01.pushwoosh.com
 front-05.pushwoosh.com
 c5-18693.api.pushwoosh.com
@@ -378,12 +377,12 @@ comune.pushwoosh.com
 h4.pushwoosh.com
 dex.dev-cluster.pushwoosh.com
 ce642-d8b84.api.pushwoosh.com
-www.products.pushwoosh.com
+products.pushwoosh.com
 front-08.pushwoosh.com
 04b39-89b2f.api.pushwoosh.com
 bbe27-9acde.api.pushwoosh.com
 bantoa.pushwoosh.com
-www.3e28f-6be45.api.pushwoosh.com
+3e28f-6be45.api.pushwoosh.com
 blog.pushwoosh.com
 pup.pushwoosh.com
 837ac-53586.api.pushwoosh.com
@@ -448,7 +447,7 @@ r3-front-15.pushwoosh.com
 3e1ac-93274.api.pushwoosh.com
 richmedia.pushwoosh.com
 eb9e7-37974.api.pushwoosh.com
-www.8688a-b4f14.api.pushwoosh.com
+8688a-b4f14.api.pushwoosh.com
 38053-b7737.api.pushwoosh.com
 user.pushwoosh.com
 inventory.pushwoosh.com
@@ -488,7 +487,7 @@ d48dd-4a8c9.api.pushwoosh.com
 f729a-ce94a.api.pushwoosh.com
 slovari.pushwoosh.com
 fa774-9f11c.api.pushwoosh.com
-www.84e00-0f767.api.pushwoosh.com
+84e00-0f767.api.pushwoosh.com
 cse.pushwoosh.com
 c29-8e033.api.pushwoosh.com
 4730f-5ec34.api.pushwoosh.com
@@ -499,7 +498,6 @@ h6.pushwoosh.com
 fb-webhook-handler.pushwoosh.com
 ed109-27c4e.api.pushwoosh.com
 cache-04.pushwoosh.com
-84e00-0f767.api.pushwoosh.com
 17a46-e3188.api.pushwoosh.com
 web.pushwoosh.com
 d5935-1dea9.api.pushwoosh.com
@@ -582,7 +580,7 @@ a3833-065f6.api.pushwoosh.com
 39c84-f26a2.api.pushwoosh.com
 71535-43e80.api.pushwoosh.com
 r3-front-17.pushwoosh.com
-www.bb7f5-ad08b.api.pushwoosh.com
+bb7f5-ad08b.api.pushwoosh.com
 bookmarks.pushwoosh.com
 r3-front-services-02.pushwoosh.com
 user-api.stage.pushwoosh.com
@@ -595,7 +593,7 @@ da876-47a52.api.pushwoosh.com
 c5e-cf578.api.pushwoosh.com
 582a9-2f8f5.api.pushwoosh.com
 pop3.pushwoosh.com
-www.1eaaa-3be72.api.pushwoosh.com
+1eaaa-3be72.api.pushwoosh.com
 math.pushwoosh.com
 81326-d2d27.api.pushwoosh.com
 60a31-7c111.api.pushwoosh.com
@@ -644,7 +642,7 @@ a1.api.pushwoosh.com
 link.pushwoosh.com
 api-m.inapp.pushwoosh.com
 b9f6b-32f86.chrome.pushwoosh.com
-www.8d509-bba5a.api.pushwoosh.com
+8d509-bba5a.api.pushwoosh.com
 d76-17111.api.pushwoosh.com
 57fcd-2aa1b.api.pushwoosh.com
 cdn.pushwoosh.com
@@ -667,7 +665,6 @@ gateway-cart.pushwoosh.com
 a3ed1-66c73.api.pushwoosh.com
 resortstapped.pushwoosh.com
 stc.pushwoosh.com
-products.pushwoosh.com
 ddc6a-20509.api.pushwoosh.com
 fronts.pushwoosh.com
 174b7-bb10a.api.pushwoosh.com
@@ -773,7 +770,6 @@ s.pushwoosh.com
 members.pushwoosh.com
 8eec4-bcbb2.api.pushwoosh.com
 a7788-5017d.api.pushwoosh.com
-www.e34bc-acdb0.api.pushwoosh.com
 90573-d74d8.api.pushwoosh.com
 skynewsarabia.pushwoosh.com
 e3a35-30789.api.pushwoosh.com
@@ -827,7 +823,6 @@ cache-01.pushwoosh.com
 ed8-70207.api.pushwoosh.com
 b9f6b-32f86.api.pushwoosh.com
 1177c-5b324.api.pushwoosh.com
-www.pushwoosh.com
 post-log.pushwoosh.com
 457fb-f4f38.api.pushwoosh.com
 asia.geo.pushwoosh.com
@@ -855,7 +850,7 @@ bc66a-b9148.api.pushwoosh.com
 9ea79-8994b.api.pushwoosh.com
 3cb-df736.api.pushwoosh.com
 www5f.pushwoosh.com
-www.a38ba-5ff46.api.pushwoosh.com
+a38ba-5ff46.api.pushwoosh.com
 9dfaf-1b532.api.pushwoosh.com
 1305b-d5787.api.pushwoosh.com
 3f1d7-76513.api.pushwoosh.com
@@ -925,7 +920,6 @@ ab-fc127.api.pushwoosh.com
 www5b.pushwoosh.com
 a-2edd3.api.pushwoosh.com
 workforcesoftware.pushwoosh.com
-8d509-bba5a.api.pushwoosh.com
 a47eb-d4c93.api.pushwoosh.com
 24968-3b9e3.api.pushwoosh.com
 1.dbs.pushwoosh.com
@@ -979,7 +973,6 @@ mongo-request-builder.svc-nue.pushwoosh.com
 go.stage.dev-cluster.pushwoosh.com
 pw-web-hooker.dev-cluster.pushwoosh.com
 sentry.pushwoosh.com
-www.wwdc18.meetup.pushwoosh.com
 dev-cluster.pushwoosh.com
 sso.svc-nue.pushwoosh.com
 alertmanager.svc-nue.pushwoosh.com
@@ -1228,13 +1221,6 @@ cd7ad-2c171.api.pushwoosh.com
 e21-60c0e.api.pushwoosh.com
 site-master-master.pwdock.corp.pushwoosh.com
 srich-media.svc-nue.pushwoosh.com
-*.corp.pushwoosh.com
-*.api.pushwoosh.com
-*.chrome.pushwoosh.com
-*.pushwoosh.com
 nginx.tp.pushwoosh.com
 tp.pushwoosh.com
-*.svc.pushwoosh.com
-*.dev-cluster.pushwoosh.com
 s3.nmassalitin.dev-cluster.pushwoosh.com
-*.stage.pushwoosh.com

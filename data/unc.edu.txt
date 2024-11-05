@@ -5,8 +5,8 @@ calendar.sils.unc.edu
 scholarship.law.unc.edu
 citap-test.ils.unc.edu
 fcrp3.unc.edu
-*.web11h.schsr.unc.edu
-*.web11hdemo.schsr.unc.edu
+web11h.schsr.unc.edu
+web11hdemo.schsr.unc.edu
 n.fcrp3.unc.edu
 rc-vcs-h8-dev.rc.unc.edu
 scamdetective.mml.unc.edu
@@ -20,7 +20,6 @@ cpcontacts.belskie.sites.oasis.unc.edu
 mail.belskie.sites.oasis.unc.edu
 webdisk.belskie.sites.oasis.unc.edu
 webmail.belskie.sites.oasis.unc.edu
-www.belskie.sites.oasis.unc.edu
 gelmore.sites.oasis.unc.edu
 cpanel.gelmore.sites.oasis.unc.edu
 cpcalendars.gelmore.sites.oasis.unc.edu
@@ -28,9 +27,7 @@ cpcontacts.gelmore.sites.oasis.unc.edu
 mail.gelmore.sites.oasis.unc.edu
 webdisk.gelmore.sites.oasis.unc.edu
 webmail.gelmore.sites.oasis.unc.edu
-www.gelmore.sites.oasis.unc.edu
 nccriminallaw.sog.unc.edu
-www.nccriminallaw.sog.unc.edu
 ppp.unc.edu
 intranet.chem.unc.edu
 app.sog.unc.edu
@@ -38,21 +35,18 @@ hsup-ksigfms.facilities.unc.edu
 imaginingfuture.unc.edu
 biag.cs.unc.edu
 civil.sog.unc.edu
-www.civil.sog.unc.edu
-www.cfk.unc.edu
-phakinpro.mml.unc.edu
 cfk.unc.edu
+phakinpro.mml.unc.edu
 vdi.renci.unc.edu
 geomaps.geosci.unc.edu
 virginappears.unc.edu
 gillings-projects.unc.edu
 addhealth.cpc.unc.edu
 uncstudentlegal.unc.edu
-www.uncstudentlegal.unc.edu
 uniman.med.unc.edu
 ojs.oasis.unc.edu
 benchmarking.sog.unc.edu
-*.sog.unc.edu
+sog.unc.edu
 pitjournal.unc.edu
 veilingfashion.unc.edu
 coastguard.sites.oasis.unc.edu
@@ -62,7 +56,6 @@ cpcontacts.coastguard.sites.oasis.unc.edu
 mail.coastguard.sites.oasis.unc.edu
 webdisk.coastguard.sites.oasis.unc.edu
 webmail.coastguard.sites.oasis.unc.edu
-www.coastguard.sites.oasis.unc.edu
 iamdan.sites.oasis.unc.edu
 cpanel.iamdan.sites.oasis.unc.edu
 cpcalendars.iamdan.sites.oasis.unc.edu
@@ -70,7 +63,6 @@ cpcontacts.iamdan.sites.oasis.unc.edu
 mail.iamdan.sites.oasis.unc.edu
 webdisk.iamdan.sites.oasis.unc.edu
 webmail.iamdan.sites.oasis.unc.edu
-www.iamdan.sites.oasis.unc.edu
 nielsen.sites.oasis.unc.edu
 cpanel.nielsen.sites.oasis.unc.edu
 cpcalendars.nielsen.sites.oasis.unc.edu
@@ -78,6 +70,5 @@ cpcontacts.nielsen.sites.oasis.unc.edu
 mail.nielsen.sites.oasis.unc.edu
 webdisk.nielsen.sites.oasis.unc.edu
 webmail.nielsen.sites.oasis.unc.edu
-www.nielsen.sites.oasis.unc.edu
 csclub.cs.unc.edu
 cci.cs.unc.edu

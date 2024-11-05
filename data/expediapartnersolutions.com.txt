@@ -43,12 +43,10 @@ portal.expediapartnersolutions.com
 authentication.expediapartnersolutions.com
 portal-permissions-canary.expediapartnersolutions.com
 templates-backend.test.expediapartnersolutions.com
-www.expediapartnersolutions.com
 app-lpnsso.expediapartnersolutions.com
 beta.sure.expediapartnersolutions.com
 partnerconnect.expediapartnersolutions.com
 info.expediapartnersolutions.com
-*.expediapartnersolutions.com
 comms.expediapartnersolutions.com
 go.expediapartnersolutions.com
 webv2-bucket.expediapartnersolutions.com

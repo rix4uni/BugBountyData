@@ -1,4 +1,3 @@
-*.all4running.nl
 ppm.all4running.nl
 static.all4running.nl
 aws.all4running.nl
@@ -15,7 +14,6 @@ acceptance.ppm.all4running.nl
 shoeadvisor.all4running.nl
 osa.all4running.nl
 satispress.all4running.nl
-www.all4running.nl
 bolt.all4running.nl
 akeneo.all4running.nl
 dmp.bolt.all4running.nl

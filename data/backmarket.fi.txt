@@ -1,5 +1,4 @@
 oauth2-prod-eu.backmarket.fi
-www.backmarket.fi
 analytics.backmarket.fi
 tr.backmarket.fi
 staging.story.backmarket.fi
@@ -8,8 +7,6 @@ accounts.preprod.backmarket.fi
 preprod.backmarket.fi
 accounts.backmarket.fi
 oauth2-preprod-eu.backmarket.fi
-*.backmarket.fi
-*.dev.backmarket.fi
-*.int.backmarket.fi
-*.preprod.backmarket.fi
+dev.backmarket.fi
+int.backmarket.fi
 ppr.backmarket.fi

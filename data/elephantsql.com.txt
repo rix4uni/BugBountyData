@@ -1,6 +1,5 @@
 api.elephantsql.com
 dev-mild-mangosteen-01.db.dev.elephantsql.com
-www.elephantsql.com
 horton.elephantsql.com
 email.elephantsql.com
 admin.elephantsql.com
@@ -8,8 +7,6 @@ customer.elephantsql.com
 chat.elephantsql.com
 status.elephantsql.com
 babar.elephantsql.com
-www.api.elephantsql.com
-www.customer.elephantsql.com
 docs.elephantsql.com
 db.elephantsql.com
 motty.db.elephantsql.com
@@ -24,8 +21,6 @@ sharp-pineapple.db.elephantsql.com
 crusty-pineapple.db.elephantsql.com
 tender-physalis.db.elephantsql.com
 otto.db.elephantsql.com
-*.db.elephantsql.com
-*.elephantsql.com
 burnt-grapefruit.db.elephantsql.com
 juicy-avocado.db.elephantsql.com
 roasted-mangosteen-01.db.elephantsql.com

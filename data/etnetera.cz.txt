@@ -49,7 +49,7 @@ jiri.etnetera.cz
 yop.etnetera.cz
 synergy.etnetera.cz
 scania.etnetera.cz
-www.activate.etnetera.cz
+activate.etnetera.cz
 mailadmin.etnetera.cz
 xtb-multi.etnetera.cz
 cz.etnetera.cz
@@ -60,8 +60,8 @@ datart-letni-cz-dev.etnetera.cz
 datart-letni-cz-fb-dev.etnetera.cz
 et-msupp.etnetera.cz
 nextcloud.etnetera.cz
-www.www.etnetera.cz
-www.payments.eroffnet.etnetera.cz
+www.etnetera.cz
+payments.eroffnet.etnetera.cz
 www2017.etnetera.cz
 primatest-paycapi.etnetera.cz
 secure.etnetera.cz
@@ -76,7 +76,6 @@ partnernet-test.etnetera.cz
 docker-registry.etnetera.cz
 ca.etnetera.cz
 mass-php-1-lb.etnetera.cz
-payments.eroffnet.etnetera.cz
 rancher-test.etnetera.cz
 spamone.etnetera.cz
 juicechat.etnetera.cz
@@ -160,7 +159,6 @@ m.eon-test.etnetera.cz
 primatest-static.etnetera.cz
 soyka.etnetera.cz
 xmail.etnetera.cz
-activate.etnetera.cz
 pm.etnetera.cz
 imap.etnetera.cz
 sexystranky-new.etnetera.cz
@@ -184,7 +182,6 @@ go.etnetera.cz
 firma.etnetera.cz
 primatest-payc.etnetera.cz
 trp.etnetera.cz
-www.etnetera.cz
 mx1.etnetera.cz
 ewa-cdn-www-mall-cz.etnetera.cz
 thinkbig.etnetera.cz

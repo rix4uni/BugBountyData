@@ -5621,8 +5621,4 @@ us-west-2-cit-batch.geocoder.ls.hereapi.com
 us-west-2-prd-forward.geocoder.ls.hereapi.com
 us-west-2-traffictilev2-prd.api-gateway.ls.hereapi.com
 batch.search.hereapi.com
-*.batch.search.hereapi.com
-*.search.hereapi.com
-*.ndslive.sit.ls.hereapi.com
 what3words.search.hereapi.com
-*.what3words.search.hereapi.com

@@ -15,7 +15,6 @@ prints.hq.printfly.com
 production.flynet.printfly.com
 routing-backend.flynet.printfly.com
 routing.flynet.printfly.com
-www.printfly.com
 account.employees.printfly.com
 admin.auth.printfly.com
 api.auth.employees.printfly.com

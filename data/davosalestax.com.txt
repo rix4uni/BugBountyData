@@ -4,7 +4,6 @@ ops-portal.qa.davosalestax.com
 sbx.davosalestax.com
 partner-portal.sbx.davosalestax.com
 ops-d30api.sbx.davosalestax.com
-www.davosalestax.com
 d30api.qa.davosalestax.com
 d30api.davosalestax.com
 partner-portal.davosalestax.com
@@ -33,6 +32,3 @@ d30api.rr.davosalestax.com
 davo-api.rr.davosalestax.com
 portal.rr.davosalestax.com
 ops-portal.rr.davosalestax.com
-*.davosalestax.com
-*.sbx.davosalestax.com
-*.qa.davosalestax.com

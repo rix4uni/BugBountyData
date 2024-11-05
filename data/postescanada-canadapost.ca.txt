@@ -1,7 +1,7 @@
 ws1.postescanada-canadapost.ca
 ssl.postescanada-canadapost.ca
 stg10.postescanada-canadapost.ca
-www.stg20.postescanada-canadapost.ca
+stg20.postescanada-canadapost.ca
 mail.postescanada-canadapost.ca
 w.postescanada-canadapost.ca
 dashboard.ws1.postescanada-canadapost.ca
@@ -10,7 +10,6 @@ dev23.postescanada-canadapost.ca
 sso.postescanada-canadapost.ca
 ssl1.postescanada-canadapost.ca
 stg21.postescanada-canadapost.ca
-www.ws1.postescanada-canadapost.ca
 dev20.postescanada-canadapost.ca
 dev22.postescanada-canadapost.ca
 sslstats.ssl.postescanada-canadapost.ca
@@ -32,7 +31,6 @@ stg11.est-oee.postescanada-canadapost.ca
 stg13.est-oee.postescanada-canadapost.ca
 stg12.est-oee.postescanada-canadapost.ca
 sslstats.postescanada-canadapost.ca
-www.postescanada-canadapost.ca
 dev21.postescanada-canadapost.ca
 prod.postescanada-canadapost.ca
 qa12.postescanada-canadapost.ca
@@ -42,7 +40,6 @@ email.postescanada-canadapost.ca
 stg10.est-oee.postescanada-canadapost.ca
 stg12.postescanada-canadapost.ca
 stg13.postescanada-canadapost.ca
-stg20.postescanada-canadapost.ca
 stg23.postescanada-canadapost.ca
 ps.postescanada-canadapost.ca
 stg14.postescanada-canadapost.ca

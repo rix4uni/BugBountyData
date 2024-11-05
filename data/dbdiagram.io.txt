@@ -1,10 +1,8 @@
-*.dbdiagram.io
 dbml.dbdiagram.io
 snowplow.dbdiagram.io
 tower.dbdiagram.io
 community.dbdiagram.io
 api.dbdiagram.io
-www.dbdiagram.io
 sendy.dbdiagram.io
 blog.dbdiagram.io
 staging.dbdiagram.io

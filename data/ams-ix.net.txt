@@ -168,7 +168,6 @@ product-offering-endpoint.ix-api-dev.ams-ix.net
 pxc-tel-141.ams-ix.net
 ocp-comp-03.int.ocp.ams-ix.net
 pxc-eqx-132.ams-ix.net
-www.ams-ix.net
 ganglia-eun-01.ams-ix.net
 ids-eun-01.ams-ix.net
 bootstrap.int.ocp.ams-ix.net
@@ -911,12 +910,9 @@ ssh.ams-ix.net
 mailhog.rabbit-mq.ix-api-dev.ams-ix.net
 feat-change-seeds.ix-api-dev.ams-ix.net
 edge-eqx-015.sflow.ams-ix.net
-*.datafarm.sbx.ams-ix.net
-*.k3d-awx.sbx.ams-ix.net
 nemix1.ams-ix.net
 stun1.noc.ams-ix.net
-*.pve.ams-ix.net
-*.chi.ams-ix.net
+pve.ams-ix.net
 bambix.lab.ams-ix.net
 hq-64.office.ams-ix.net
 mon-tc4-021-mon.noc.ams-ix.net
@@ -960,7 +956,7 @@ fw8-lab.lab.ams-ix.net
 sfp1.separatix-ng.ams-ix.net
 nid-ixn-349.noc.ams-ix.net
 rectrix.ams-ix.net
-www.lab.ams-ix.net
+lab.ams-ix.net
 boterix.office.ams-ix.net
 opstools-be.lab.ams-ix.net
 stats-collector.sflow.cw.ams-ix.net
@@ -1900,7 +1896,6 @@ core-lab-201.lab.ams-ix.net
 tst-dr1-05.ams-ix.net
 vpn-17.office.ams-ix.net
 vpn-9.office.ams-ix.net
-www.noc.ams-ix.net
 glusterfs2.lab.ams-ix.net
 hq-71.office.ams-ix.net
 vpn-28.office.ams-ix.net

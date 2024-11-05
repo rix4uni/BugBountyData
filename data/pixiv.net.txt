@@ -1,5 +1,4 @@
-*.pixiv.net
-*.secure.pixiv.net
+secure.pixiv.net
 10000000.pixiv.net
 77.pixiv.net
 accounts.pixiv.net
@@ -486,7 +485,6 @@ pr.pixiv.net
 premium-dev.pixiv.net
 public-api.secure.pixiv.net
 recruit.pixiv.net
-secure.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
 source.pixiv.net
@@ -502,11 +500,6 @@ view.info.pixiv.net
 vroid.pixiv.net
 waifu2x.pixiv.net
 www.pixiv.net
-www.embed.pixiv.net
-www.g-client-proxy.pixiv.net
-www.secure.pixiv.net
-www.sketch.pixiv.net
-www.www.pixiv.net
 cloud.info.pixiv.net
 img165.pixiv.net
 img133.pixiv.net

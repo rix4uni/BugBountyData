@@ -63,7 +63,6 @@ rtproxy-row-l7.waze.com
 renderer-am.waze.com
 renderer-row.waze.com
 adsassets.waze.com
-www.waze.com
 rtproxy-il.waze.com
 ctilesg-il.waze.com
 il-advil.waze.com
@@ -151,7 +150,6 @@ etiles5.waze.com
 kb.waze.com
 my.waze.com
 inbox.waze.com
-www.world.waze.com
 frontseat.waze.com
 storagegateway-row-ipv6.waze.com
 adview-prod-il.waze.com
@@ -210,7 +208,6 @@ bookmarks.waze.com
 thecompass-pt.waze.com
 movies.waze.com
 ftp.waze.com
-www.word.waze.com
 ctiles.world.waze.com
 admanage-row.waze.com
 newwww.waze.com
@@ -323,7 +320,7 @@ rt-xlb-na.waze.com
 rtproxy-row-l4.waze.com
 demo.waze.com
 mx.waze.com
-www.chnigxjw.waze.com
+chnigxjw.waze.com
 statsreport-na.waze.com
 ads-blog.waze.com
 test-notifications.staging.waze.com
@@ -469,4 +466,3 @@ ctilesgcs-il.waze.com
 profiles.world.waze.com
 webtiles-il.waze.com
 webtiles-row.waze.com
-*.waze.com

@@ -16,7 +16,6 @@ mtb.trustnota.com
 grafana-production.trustnota.com
 try.trustnota.com
 experiment.trustnota.com
-www.trustnota.com
 prod-message-center-mfe.trustnota.com
 app.trustnota.com
 qa.trustnota.com
@@ -37,4 +36,3 @@ support.trustnota.com
 graf-stage.trustnota.com
 dev2.trustnota.com
 qa2.trustnota.com
-*.trustnota.com

@@ -413,16 +413,13 @@ sitealliance.gene.com
 sc1lvpdustd1.gene.com
 tsdev.gene.com
 aemcs.gene.com
-*.aemcs.gene.com
-*.aem.gene.com
 mcfmvwiz.gene.com
 labintheloop.gene.com
 m-test.gene.com
-www.m-test.gene.com
 billpay.gene.com
 commbiwebdev.gene.com
 epicxcontent.gene.com
-www.pdr.gene.com
+pdr.gene.com
 sslvac-01-sara_ext.gene.com
 apstableau.gene.com
 augur.gcs.gene.com
@@ -454,11 +451,10 @@ clinicalstudyresults-qa.gene.com
 risesupport-qa.gene.com
 thestudio.gene.com
 diversity.gene.com
-www.conference.gene.com
+conference.gene.com
 staging.atp.gene.com
 galumni.gene.com
 gworks.gene.com
-www.dev-screenshots.gene.com
 url6828.gene.com
 prosetraining.gene.com
 contractswiz.gene.com
@@ -515,7 +511,6 @@ commbiwebuat.gene.com
 egress.gene.com
 securereader.gene.com
 securemail.gene.com
-www.gene.com
 mywso.gene.com
 gbopdadm.gene.com
 lsd-apps.gene.com
@@ -589,7 +584,7 @@ fonts.gene.com
 preview-author.aem.gene.com
 f.gene.com
 dnacloud-dev.gene.com
-www.alliances.gene.com
+alliances.gene.com
 jiraining-sapitstore.www.tr.appengine.gene.com
 ctpdev.gene.com
 e2erim.gene.com
@@ -604,7 +599,6 @@ dropbox1.gene.com
 emma.gene.com
 gene-ua.gene.com
 exotriage.gene.com
-alliances.gene.com
 commesb95-vac-ext.gene.com
 tnlogis401.activateactivate-paypal.usconfluence.www.pc.appengine.gene.com
 cdn.roche.atp.gene.com
@@ -678,7 +672,7 @@ appzone-uat.gene.com
 cdn.her2.atp.gene.com
 appstore-ua.gene.com
 geneapi.gene.com
-www.gip.gene.com
+gip.gene.com
 bonatest.gene.com
 ljp1100stagestudentmailonfluence.www.email.appengine.gene.com
 avastin-ua.gene.com
@@ -748,7 +742,7 @@ appzone-sc1.gene.com
 gchip.gene.com
 comm-preview.gene.com
 eyeonamd-qa.gene.com
-www.datacatalog.gene.com
+datacatalog.gene.com
 gene5-ua.gene.com
 css.gene.com
 digital.gene.com
@@ -756,7 +750,7 @@ ssourdataext-uat-authoronfluence.www.email.appengine.gene.com
 cdn.mld.atp.gene.com
 cdn.flee.atp.gene.com
 basecamp-dev.gene.com
-www.fortebuilder.gene.com
+fortebuilder.gene.com
 ggb.gene.com
 cdn.skin.atp.gene.com
 avastin-hcp-qa.gene.com
@@ -774,7 +768,6 @@ corpfleet-dev.gene.com
 cfliving-qa.gene.com
 stage-author.aem.gene.com
 ers-qa.gene.com
-www.give-online.gene.com
 qa-author.aem.gene.com
 gapps.gene.com
 cdcdevciam.gene.com

@@ -1,4 +1,4 @@
-*.infra.asapp.com
+infra.asapp.com
 optimumfixed-demo01.test.asapp.com
 comcast.asapp.com
 rcn.asapp.com
@@ -19,7 +19,7 @@ dishpostpaid.secmsg.asapp.com
 verizon.asapp.com
 rtapi.asapp.com
 dish-sdk.asapp.com
-www.api-client.asapp.com
+api-client.asapp.com
 charter-mobile.preprod.asapp.com
 di.legion-dev.asapp.com
 di.rio-preprod.asapp.com
@@ -28,7 +28,7 @@ dishwireless.asapp.com
 jetblue.preprod.asapp.com
 platform-test.secmsg.asapp.com
 ssl.asapp.com
-www.gp2.asapp.com
+gp2.asapp.com
 load-test.asapp.com
 private.asapp.com
 preprod.asapp.com
@@ -46,11 +46,9 @@ sdk.asapp.com
 lalala.awsdev.asapp.com
 dev-test.asapp.com
 sdk-alfa.staging.asapp.com
-www.rtapi.asapp.com
 ai.asapp.com
 sdk.staging.asapp.com
 api-ori.sandbox.asapp.com
-api-client.asapp.com
 charter.secmsg.asapp.com
 platform.secmsg.asapp.com
 login.asapp.com
@@ -61,7 +59,6 @@ api-dev-ori.test.asapp.com
 colo.awsdev.asapp.com
 di.fargo-prod.asapp.com
 tmobile.secmsg.asapp.com
-gp2.asapp.com
 developer.asapp.com
 optimummobile.secmsg.asapp.com
 github.asapp.com
@@ -81,7 +78,7 @@ public-dataset-model-store.awsdev.asapp.com
 api-ag.test.asapp.com
 di.cairo-preprod.asapp.com
 american-airlines.asapp.com
-www.vpn-mgmt.asapp.com
+vpn-mgmt.asapp.com
 assurantlifestyle.asapp.com
 test.asapp.com
 sdk.uat.asapp.com
@@ -94,7 +91,7 @@ verizon.preprod.asapp.com
 sprint.asapp.com
 api-ori.test.asapp.com
 infra.sandbox.asapp.com
-www.gp1.asapp.com
+gp1.asapp.com
 staging-test.asapp.com
 dish.asapp.com
 di.oslo-prod.asapp.com
@@ -103,7 +100,6 @@ assurantlifestyle.secmsg.asapp.com
 login.dev.asapp.com
 cx.asapp.com
 sdk-beta.staging.asapp.com
-www.asapp.com
 dishpostpaid.asapp.com
 sprint-frontend.asapp.com
 jetblue-demo01.test.asapp.com
@@ -112,10 +108,9 @@ login.preprod.asapp.com
 sprint-demo01.test.asapp.com
 awsdev.asapp.com
 flow-images.asapp.com
-www.securemail.asapp.com
 tmobile.asapp.com
 api-ori.demo.asapp.com
-www.vpn.asapp.com
+vpn.asapp.com
 aizhomesol.asapp.com
 charter-regional.secmsg.asapp.com
 taras-test.preprod.asapp.com
@@ -126,11 +121,9 @@ staging.asapp.com
 baimail.asapp.com
 rcn-frontend.asapp.com
 airflow.awsdev.asapp.com
-vpn.asapp.com
 platform.asapp.com
 charter.preprod.asapp.com
 support.asapp.com
-vpn-mgmt.asapp.com
 vps.asapp.com
 agnostic.secmsg.asapp.com
 dishget.secmsg.asapp.com
@@ -145,11 +138,9 @@ platform-preprod.secmsg.asapp.com
 rcn.secmsg.asapp.com
 di.infrausw2-prod.asapp.com
 speechocean.asapp.com
-gp1.asapp.com
 sprint.secmsg.asapp.com
 papers-slue.awsdev.asapp.com
 api-ori.asapp.com
-infra.asapp.com
 chat-form-host-champ.preprod.ssl.asapp.com
 preprod-shared.asapp.com
 rorodent.us-east-1.asapp.com

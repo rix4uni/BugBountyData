@@ -3,7 +3,6 @@ web.sandbox.gopaysense.com
 assets.gopaysense.com
 jira.gopaysense.com
 paylater.gopaysense.com
-www.gopaysense.com
 ci.gopaysense.com
 api-sbt.gopaysense.com
 core.gopaysense.com
@@ -18,7 +17,6 @@ images.gopaysense.com
 metabase-docker.gopaysense.com
 rmq.gopaysense.com
 arthamatics.gopaysense.com
-www.api.gopaysense.com
 kiosk.gopaysense.com
 hp-internal.gopaysense.com
 payments.gopaysense.com
@@ -26,6 +24,3 @@ img.gopaysense.com
 metabase.gopaysense.com
 telemetry.gopaysense.com
 click.gopaysense.com
-*.gopaysense.com
-*.internal.gopaysense.com
-*.sandbox.gopaysense.com

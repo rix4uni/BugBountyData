@@ -303,7 +303,6 @@ zenhr-pr-6585.staging.devops.zenhr.com
 zenhr-pr-8426.staging.devops.zenhr.com
 zenhr-pr-9239.staging4.devops.zenhr.com
 ami-zenhr-pr-10580.staging2.devops.zenhr.com
-www.zenhr.com
 cavall-pr-1541.staging.devops.zenhr.com
 pr1.staging.devops.zenhr.com
 cavall-pr-1950.staging.devops.zenhr.com
@@ -949,7 +948,7 @@ zenhr-pr-3168.staging.devops.zenhr.com
 zenhr-pr-7012.staging.devops.zenhr.com
 cavall-pr-840.staging2.devops.zenhr.com
 zenhr-pr-7017.staging.devops.zenhr.com
-www.ci.zenhr.com
+ci.zenhr.com
 cavall-pr-809.staging2.devops.zenhr.com
 zenhr-pr-2968.staging.devops.zenhr.com
 zenhr-pr-3520.staging.devops.zenhr.com
@@ -1117,7 +1116,7 @@ zenhr-pr-3428.staging.devops.zenhr.com
 staging4.zenhr.com
 zenhr-company-178.staging2.devops.zenhr.com
 zenhr-pr-2905.staging.devops.zenhr.com
-www.hotfix.zenhr.com
+hotfix.zenhr.com
 cavall-pr-981.staging2.devops.zenhr.com
 zenhr-pr-4199.staging2.devops.zenhr.com
 zenhr-pr-8263-mail.staging.devops.zenhr.com
@@ -1545,7 +1544,6 @@ zenhr-pr-3901.staging2.devops.zenhr.com
 zenhr-pr-2952.staging.devops.zenhr.com
 zenhr-pr-3364.staging.devops.zenhr.com
 zenhr-storybook-pr-4.staging2.devops.zenhr.com
-ci.zenhr.com
 zenhr-pr-5596.staging2.devops.zenhr.com
 zenhr-pr-3129.staging.devops.zenhr.com
 zenhr-pr-5941.staging2.devops.zenhr.com
@@ -1637,7 +1635,6 @@ zenhr-pr-3343-storybook.staging.devops.zenhr.com
 zenhr-pr-4162.staging2.devops.zenhr.com
 zenhr-pr-3381-storybook.staging.devops.zenhr.com
 zenhr-pr-3475.staging2.devops.zenhr.com
-hotfix.zenhr.com
 zenhr-pr-3379.staging.devops.zenhr.com
 zenhr-pr-2939.staging.devops.zenhr.com
 zenhr-storybook-1-storybook.staging.devops.zenhr.com
@@ -1792,7 +1789,6 @@ zenhr-pr-4094.staging2.devops.zenhr.com
 zenhr-pr-6911.staging.devops.zenhr.com
 cavall-pr-259.staging.devops.zenhr.com
 zenhr-master-storybook.staging.devops.zenhr.com
-www.staging.zenhr.com
 zenhr-pr-4493.staging2.devops.zenhr.com
 zenhr-pr-4894.staging2.devops.zenhr.com
 zenhr-pr-7093.staging.devops.zenhr.com
@@ -1847,7 +1843,6 @@ minio-console.staging3.devops.zenhr.com
 zenhr-company-3004-enc.staging.devops.zenhr.com
 zenhr-pr-3343.staging.devops.zenhr.com
 zenhr-pr-3928.staging2.devops.zenhr.com
-www.sa.zenhr.com
 zenhr-pr-3489.staging.devops.zenhr.com
 zenhr-pr-4901.staging2.devops.zenhr.com
 cavall-pr-351.staging.devops.zenhr.com
@@ -1888,7 +1883,6 @@ cavall-pr-1391.staging2.devops.zenhr.com
 cavall-pr-1453.staging.devops.zenhr.com
 cavall-pr-882.staging2.devops.zenhr.com
 cavall-pr-341.staging.devops.zenhr.com
-www.blog.zenhr.com
 zenhr-pr-4418.staging2.devops.zenhr.com
 cavall-pr-990.staging2.devops.zenhr.com
 zenhr-plain-storybook.staging.devops.zenhr.com
@@ -1951,7 +1945,6 @@ zenhr-pr-4969.staging2.devops.zenhr.com
 zenhr-pr-3300.staging.devops.zenhr.com
 zenhr-pr-4072.staging2.devops.zenhr.com
 zenhr-pr-5171.staging2.devops.zenhr.com
-www.login.zenhr.com
 development.zenhr.com
 docker.devops.zenhr.com
 staging2.devops.zenhr.com

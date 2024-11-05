@@ -1,4 +1,3 @@
-*.nozbe.com
 10steps-payments.nozbe.com
 2.nozbe.com
 3rdparty.nozbe.com
@@ -48,10 +47,6 @@ test.nozbe.com
 thumbs.nozbe.com
 webapp.nozbe.com
 wiki.nozbe.com
-www.nozbe.com
-www.checkout.nozbe.com
-www.server.nozbe.com
-www.test.nozbe.com
 about.staging.nozbe.com
 admin.staging.nozbe.com
 administrator.staging.nozbe.com
@@ -914,8 +909,6 @@ gis-qa.staging.nozbe.com
 internal-service-git.staging.nozbe.com
 prodv1anisrulegodosoft-communitsvc1mfont-subsets.staging.nozbe.com
 vps510-1.staging.nozbe.com
-www.mail.nozbe.com
-www.signup.nozbe.com
 205-185-200-77.staging.nozbe.com
 dev-ui-bf1.staging.nozbe.com
 conf.staging.nozbe.com
@@ -925,7 +918,6 @@ qa-staging13-culmediavendor-astathbck-testbeddandomain13athaud.staging.nozbe.com
 stripe.staging.nozbe.com
 monitordb2.staging.nozbe.com
 autodandomain-viewerfig-lab.staging.nozbe.com
-www.payments.nozbe.com
 tst1sgak.staging.nozbe.com
 betapublish.staging.nozbe.com
 http-translate-reference-com4-2.staging.nozbe.com

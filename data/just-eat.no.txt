@@ -76,7 +76,7 @@ no-partnercentre.just-eat.no
 antispam.just-eat.no
 staging.just-eat.no
 model.just-eat.no
-www.mail.just-eat.no
+mail.just-eat.no
 burger-baron.just-eat.no
 origin.just-eat.no
 sushiogthai.just-eat.no
@@ -98,7 +98,6 @@ partner-details.just-eat.no
 test.just-eat.no
 bit-oslo.just-eat.no
 host.just-eat.no
-mail.just-eat.no
 autodiscover.just-eat.no
 beta.just-eat.no
 shop.just-eat.no
@@ -201,13 +200,7 @@ testrest.just-eat.no
 vps.just-eat.no
 www1.just-eat.no
 zmail.just-eat.no
-www.just-eat.no
-*.just-eat.no
-*.couriers.just-eat.no
-*.frontend.office.stag.clops.just-eat.no
-*.frontend.office.prod.clops.just-eat.no
 ridewith.just-eat.no
-www.ablink.orders.just-eat.no
 _dmarc.just-eat.no
 japp_pizza.just-eat.no
 news.just-eat.no
@@ -258,7 +251,7 @@ tomcat.0-0-0-grillaccountingacc.frontend.office.prod.clops.just-eat.no
 0-0-0-bit-oslo.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-acckubectl-media.frontend.office.prod.clops.just-eat.no
 0-0-0-administrator1-db9acc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-guard1-db95.frontend.office.prod.clops.just-eat.no
+0-0-0-guard1-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-db9accb9adm.frontend.office.prod.clops.just-eat.no
 ebs.appb9.0-0-0-developer-accv1.frontend.office.prod.clops.just-eat.no
 0-0-0-admaccelastic5.frontend.office.prod.clops.just-eat.no
@@ -285,7 +278,7 @@ tomcat.0-0-0-guardapplicationaccacc.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-aqa.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-apib9-acc-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-guard5admh75b9adm.frontend.office.prod.clops.just-eat.no
-www.0-0-0-d032b-3ptb9adm5.frontend.office.prod.clops.just-eat.no
+0-0-0-d032b-3ptb9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-buzzblocksadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-admdev.frontend.office.prod.clops.just-eat.no
 0-0-0-accteam-qa-connectacc.frontend.office.prod.clops.just-eat.no
@@ -348,11 +341,11 @@ a.acc.0-0-0-chefapib9docsadm.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-d032b-3ptb9acc.frontend.office.prod.clops.just-eat.no
 0-0-0-controller-5admadm.frontend.office.prod.clops.just-eat.no
 ebs.appb9.0-0-0-grillacc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-d032b-accadm.frontend.office.prod.clops.just-eat.no
+5.0-0-0-d032b-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-netadm.frontend.office.prod.clops.just-eat.no
 0-0-0-devsadm.frontend.office.prod.clops.just-eat.no
 cdn-t.just-eat.no
-www.0-0-0-administratoracc5.frontend.office.prod.clops.just-eat.no
+0-0-0-administratoracc5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-trainaccadm.frontend.office.prod.clops.just-eat.no
 0-0-0-chef.frontend.office.prod.clops.just-eat.no
 0-0-0-0-merchantaccacc.frontend.office.prod.clops.just-eat.no
@@ -431,7 +424,7 @@ adm.0-0-0-grilladm-azure.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-5adm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-administrators0-accadm.frontend.office.prod.clops.just-eat.no
 a.acc.0-0-0-d032b5-db9.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-guardappb9.frontend.office.prod.clops.just-eat.no
+5.0-0-0-guardappb9.frontend.office.prod.clops.just-eat.no
 0-0-0-09u-db9awsadm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-history-aureladm-apib9-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-test-connect-adm.frontend.office.prod.clops.just-eat.no
@@ -506,7 +499,7 @@ blogs.just-eat.no
 0-0-0-frontenda-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-grillmediaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-controllera-accounting.frontend.office.prod.clops.just-eat.no
-www.cis.just-eat.no
+cis.just-eat.no
 0-0-0-autoconfigacc.frontend.office.prod.clops.just-eat.no
 0-0-0-d005h-0-5.frontend.office.prod.clops.just-eat.no
 0-0-0-0events-apib9docs-connect-acc.frontend.office.prod.clops.just-eat.no
@@ -584,7 +577,7 @@ ebs.appb9.0-0-0-admrestaurants.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-stagingadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-grill-admadm-connectacc.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-developeracc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-grill-acc5.frontend.office.prod.clops.just-eat.no
+0-0-0-grill-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5qa.frontend.office.prod.clops.just-eat.no
 0-0-0-0controllerqaadm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-developeracc.frontend.office.prod.clops.just-eat.no
@@ -608,7 +601,7 @@ tomcat.0-0-0-developer-accv1accacc.frontend.office.prod.clops.just-eat.no
 0-0-0-197-251b9adm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7dd132adm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-ablink-eat.frontend.office.prod.clops.just-eat.no
-www.0-0-0-admlogin5.frontend.office.prod.clops.just-eat.no
+0-0-0-admlogin5.frontend.office.prod.clops.just-eat.no
 0-0-0-3308-db9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-chef5adm-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-controller-5adm-db9.frontend.office.prod.clops.just-eat.no
@@ -654,7 +647,7 @@ assistive.just-eat.no
 0-0-0-0-internals-qaadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-apidocs-eat5.frontend.office.prod.clops.just-eat.no
 0-0-0-engineacc1gib9-connectacc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-frontend-acc-k8s5.frontend.office.prod.clops.just-eat.no
+0-0-0-frontend-acc-k8s5.frontend.office.prod.clops.just-eat.no
 5.0-0-0-grill-aadm.frontend.office.prod.clops.just-eat.no
 0-0-0-2011bestinput-connectacc.frontend.office.prod.clops.just-eat.no
 awmdm.just-eat.no
@@ -687,7 +680,7 @@ acc.0-0-0-d032b.frontend.office.prod.clops.just-eat.no
 0-0-0-citycardtt5.frontend.office.prod.clops.just-eat.no
 acc-history.0-0-0-adm-toolbar-0.frontend.office.prod.clops.just-eat.no
 0-0-0-bm-2431-retailadm.frontend.office.prod.clops.just-eat.no
-www.0-0-0-engineaadm5.frontend.office.prod.clops.just-eat.no
+0-0-0-engineaadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-5-db9-a-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032bqaadm0secureacc.frontend.office.prod.clops.just-eat.no
 0-0-0-controller-accqa.frontend.office.prod.clops.just-eat.no
@@ -783,7 +776,6 @@ a.acc.0-0-0-chef5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-demo5.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-acckubectl-eat.frontend.office.prod.clops.just-eat.no
 0-0-0-developeraccaccacc.frontend.office.prod.clops.just-eat.no
-0-0-0-frontend-acc-k8s5.frontend.office.prod.clops.just-eat.no
 0-0-0-ablinkadmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-acc-testingadmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-1gib9-acc.frontend.office.prod.clops.just-eat.no
@@ -797,7 +789,7 @@ a.acc.0-0-0-chef5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-beta-impervaadm5.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-0driversaoxun-connect-acc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-d032bqaadm5.frontend.office.prod.clops.just-eat.no
+0-0-0-d032bqaadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-5-accacc.frontend.office.prod.clops.just-eat.no
 0-0-0-1eldb9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-paywalladm-acc.frontend.office.prod.clops.just-eat.no
@@ -887,7 +879,7 @@ tomcat.0-0-0-guardappb9accacc.frontend.office.prod.clops.just-eat.no
 a.acc.0-0-0-grill.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-ademo.frontend.office.prod.clops.just-eat.no
 0-0-0-bucket5.frontend.office.prod.clops.just-eat.no
-www.0-0-0-guardappb9adm5.frontend.office.prod.clops.just-eat.no
+0-0-0-guardappb9adm5.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-chef-5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-backend-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-accdemoadm.frontend.office.prod.clops.just-eat.no
@@ -906,7 +898,7 @@ certifications.just-eat.no
 0-0-0-grill-a-media.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-digital-accadm.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-d032b-3ptb9.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
+5.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-homewebadm.frontend.office.prod.clops.just-eat.no
 0-0-0-adma4902500-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-admcloudfronts.frontend.office.prod.clops.just-eat.no
@@ -978,7 +970,6 @@ adm.0-0-0-guardapplication.frontend.office.prod.clops.just-eat.no
 0-0-0-amail05.frontend.office.prod.clops.just-eat.no
 0-0-0-0sd-db9-5adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-skins-db9.frontend.office.prod.clops.just-eat.no
-0-0-0-administratoracc5.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-5-3ptb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-toolbar1-db95.frontend.office.prod.clops.just-eat.no
 0-eat.0.0-0-0-d032bacc.frontend.office.prod.clops.just-eat.no
@@ -1011,7 +1002,7 @@ eat.0.0-0-0-controllera-shop.frontend.office.prod.clops.just-eat.no
 0.0-0-0-controller-aoxun.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0secure-admadm-connect-acc.frontend.office.prod.clops.just-eat.no
-www.bajazzo.just-eat.no
+bajazzo.just-eat.no
 0-0-0-adm-toolbar-01-db9-connect-acc.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-chef5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-3ptb9-apib9-acc.frontend.office.prod.clops.just-eat.no
@@ -1031,8 +1022,6 @@ asp.just-eat.no
 appb9.0-0-0-chef-5-acc.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-controller5-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-acc-lpparks.frontend.office.prod.clops.just-eat.no
-www.0-0-0-adm-acckubectl5.frontend.office.prod.clops.just-eat.no
-0-0-0-d032b-3ptb9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-azureh75b9adm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-apidocs-eatadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-toolbar5admacc.frontend.office.prod.clops.just-eat.no
@@ -1133,7 +1122,7 @@ bluecoast.just-eat.no
 api.a.acc.0-0-0-frontend-acc.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-frontend-5db9.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-food-d032badm-connectacc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-d032b-accadm5.frontend.office.prod.clops.just-eat.no
+0-0-0-d032b-accadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-train-connect-acc.frontend.office.prod.clops.just-eat.no
 0.0-0-0-d032bqaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-b2btest-2d7dd.frontend.office.prod.clops.just-eat.no
@@ -1187,7 +1176,6 @@ adm.0-0-0-d032bqaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-accteamadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-no-searchwebacc-accadm.frontend.office.prod.clops.just-eat.no
 bhurecv2.bhurecv.just-eat.no
-www.beta.just-eat.no
 0-0-0-b2btest-2d7ddadm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-engine5-apib9-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-3ptb9adm-application.frontend.office.prod.clops.just-eat.no
@@ -1197,7 +1185,7 @@ www.beta.just-eat.no
 0-0-0-0digitalacc-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-comdb9-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0serviceacc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-d032b.frontend.office.prod.clops.just-eat.no
+5.0-0-0-d032b.frontend.office.prod.clops.just-eat.no
 0-0-0-admssl-eatadm98x.frontend.office.prod.clops.just-eat.no
 0-0-0-0-d032baccadm-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-external-accadm.frontend.office.prod.clops.just-eat.no
@@ -1251,7 +1239,6 @@ appb9.0-0-0-controller-acc-acc.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-engineaccadm.frontend.office.prod.clops.just-eat.no
 0-0-0-eatridewith-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-assist-55.frontend.office.prod.clops.just-eat.no
-www.bambus.just-eat.no
 0-0-0-0-securityadk-db9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-chefapib9docsadmoradm.frontend.office.prod.clops.just-eat.no
 0-0-0-elasticacc.frontend.office.prod.clops.just-eat.no
@@ -1314,11 +1301,10 @@ acc.0-0-0-guard5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-controller-aoxun.frontend.office.prod.clops.just-eat.no
 0-0-0-0000858-5admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-adm0abmailadk5.frontend.office.prod.clops.just-eat.no
-www.0-0-0-administratoraws5.frontend.office.prod.clops.just-eat.no
+0-0-0-administratoraws5.frontend.office.prod.clops.just-eat.no
 5.0-0-0-d032b5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-portal-1-db9adm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-9898abc.frontend.office.prod.clops.just-eat.no
-bajazzo.just-eat.no
 0-0-0-controlleracc5.frontend.office.prod.clops.just-eat.no
 0-0-0-admlogindemo.frontend.office.prod.clops.just-eat.no
 0-0-0-admrestaurants-application.frontend.office.prod.clops.just-eat.no
@@ -1334,7 +1320,7 @@ adm.0-0-0-frontenda.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-portal-55.frontend.office.prod.clops.just-eat.no
 0-0-0-administrator-2d7dd.frontend.office.prod.clops.just-eat.no
 0-0-0-frontendaadm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
+5.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-aceops.frontend.office.prod.clops.just-eat.no
 0-0-0-controller5accdemo.frontend.office.prod.clops.just-eat.no
 0-0-0-0-frontend-acc-k8s-connectacc.frontend.office.prod.clops.just-eat.no
@@ -1355,7 +1341,7 @@ ebs.appb9.0-0-0-adm-skins.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-acckubectlacc.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-appb9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-email-2d7ddadm-accadm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-admssl-eat.frontend.office.prod.clops.just-eat.no
+5.0-0-0-admssl-eat.frontend.office.prod.clops.just-eat.no
 0-0-0-0localhost5acc.frontend.office.prod.clops.just-eat.no
 0-0-0-138x7r7o7198g948b9.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-1-db9-accounting.frontend.office.prod.clops.just-eat.no
@@ -1370,12 +1356,12 @@ appb9.0-0-0-engine-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-merchant-appb9-connectacc.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-adm-skins.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-priv-qa-connect-acc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-chefapib9docs5.frontend.office.prod.clops.just-eat.no
+0-0-0-chefapib9docs5.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-lab2v3acc.frontend.office.prod.clops.just-eat.no
 0-0-0-accgateway.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-admlogin.frontend.office.prod.clops.just-eat.no
 0-0-0-0-toolbar5adm5.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-guard-admevents.frontend.office.prod.clops.just-eat.no
+5.0-0-0-guard-admevents.frontend.office.prod.clops.just-eat.no
 0-0-0-admssl-eat-5acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0digital5adm5.frontend.office.prod.clops.just-eat.no
 ebs.appb9.0-0-0-admlogin.frontend.office.prod.clops.just-eat.no
@@ -1408,7 +1394,7 @@ just.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-admsupports-connect-acc.frontend.office.prod.clops.just-eat.no
 ebs.appb9.0-0-0-d032b-5.frontend.office.prod.clops.just-eat.no
 0-0-0-calendaradm-acc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-engine-accadm.frontend.office.prod.clops.just-eat.no
+5.0-0-0-engine-accadm.frontend.office.prod.clops.just-eat.no
 ebs.appb9.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-5adm-0-paywall.frontend.office.prod.clops.just-eat.no
 0-0-0-chefapib9docs-db9.frontend.office.prod.clops.just-eat.no
@@ -1469,7 +1455,6 @@ appb9.0-0-0-engine-5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-trial-accadm-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7dd-sniperadm-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-developer-accv1oradm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-chef-apib9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-acc-cvsacc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b5-db9admization.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-pay5.frontend.office.prod.clops.just-eat.no
@@ -1523,7 +1508,7 @@ appb9.0-0-0-controllera.frontend.office.prod.clops.just-eat.no
 mx.www.0-0-0-d032b5-db9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0autodiscover-acc-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b5-db9mediaadm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-controller-acc.frontend.office.prod.clops.just-eat.no
+5.0-0-0-controller-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-internalsacc-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-3ptb9admmediaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-controller-aoxun-connect-acc.frontend.office.prod.clops.just-eat.no
@@ -1541,7 +1526,6 @@ www.5.0-0-0-controller-acc.frontend.office.prod.clops.just-eat.no
 book.just-eat.no
 0-0-0-chef-apib9admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0000858accadm.frontend.office.prod.clops.just-eat.no
-5.0-0-0-guardappb9.frontend.office.prod.clops.just-eat.no
 0-0-0-guardapib9docs.frontend.office.prod.clops.just-eat.no
 reset-1.0-0-0-d032b5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-no-searchweb-adm-acc.frontend.office.prod.clops.just-eat.no
@@ -1557,7 +1541,6 @@ reset-1.0-0-0-d032b5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-allegroimg-ibos.frontend.office.prod.clops.just-eat.no
 0-0-0-frontenda-eat.frontend.office.prod.clops.just-eat.no
 5.0-0-0-engine.frontend.office.prod.clops.just-eat.no
-www.0-0-0-controlleracc5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032bacc-1-db9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-account-just-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-35-39db9-connectacc.frontend.office.prod.clops.just-eat.no
@@ -1692,11 +1675,10 @@ adm.0-0-0-frontend-acc-k8s.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-3ptb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-chef509u-db9-aoxun-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-acckubectlacc-5.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-grill-acc.frontend.office.prod.clops.just-eat.no
+5.0-0-0-grill-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0proxy3ptb9-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-admadmaccacc.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-apib9-dev-connectacc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-engine-1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0-guard-admevents-connect-acc.frontend.office.prod.clops.just-eat.no
 mx.www.0-0-0-grill-admadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-controlleracc-application.frontend.office.prod.clops.just-eat.no
@@ -1705,7 +1687,7 @@ mx.www.0-0-0-grill-admadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-developeracc-media.frontend.office.prod.clops.just-eat.no
 2fwww.just-eat.no
 0-0-0-0acc-shop-5-db9adm5.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-adm-skins.frontend.office.prod.clops.just-eat.no
+5.0-0-0-adm-skins.frontend.office.prod.clops.just-eat.no
 a.acc.0-0-0-chef-apib9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-portal5.frontend.office.prod.clops.just-eat.no
 0-0-0-176-db9-qaadm-connect-acc.frontend.office.prod.clops.just-eat.no
@@ -1817,7 +1799,7 @@ a.acc.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0-merchant-accadm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b0secureacc.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-chefapib9docs.frontend.office.prod.clops.just-eat.no
-www.0-0-0-controller-aoxun5.frontend.office.prod.clops.just-eat.no
+0-0-0-controller-aoxun5.frontend.office.prod.clops.just-eat.no
 0-0-0-engineeringadm-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-acc-server5.frontend.office.prod.clops.just-eat.no
 0-0-0-0secure-apib9adm-connect-acc.frontend.office.prod.clops.just-eat.no
@@ -1834,7 +1816,6 @@ api.a.acc.0-0-0-chefapib9docsadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-guardapplicationacc.frontend.office.prod.clops.just-eat.no
 0-0-0-5qu-db9admacc.frontend.office.prod.clops.just-eat.no
 004.just-eat.no
-5.0-0-0-d032b.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-d032b-3ptb9-2d7dd.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-grill-admadmacc.frontend.office.prod.clops.just-eat.no
 a.acc.0-0-0-engine.frontend.office.prod.clops.just-eat.no
@@ -1881,7 +1862,7 @@ ad01.just-eat.no
 0-0-0-barnaulmedia-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-onpremadm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-3ptb9-1-db9.frontend.office.prod.clops.just-eat.no
-www.0-0-0-grill-admadm5.frontend.office.prod.clops.just-eat.no
+0-0-0-grill-admadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7ddimperva.frontend.office.prod.clops.just-eat.no
 reset-1.0-0-0-admssl-eat.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b5-db9acc-connect-acc.frontend.office.prod.clops.just-eat.no
@@ -1916,7 +1897,6 @@ api.a.acc.0-0-0-guard-5.frontend.office.prod.clops.just-eat.no
 0-0-0-0000858-5adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032badm0secureacc.frontend.office.prod.clops.just-eat.no
 0-0-0-developeraccr.frontend.office.prod.clops.just-eat.no
-0-0-0-d032b-accadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-controller-aoxunoradm.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-engine-2d7dd.frontend.office.prod.clops.just-eat.no
 0-0-0-emailmedia-connectacc.frontend.office.prod.clops.just-eat.no
@@ -1994,7 +1974,6 @@ appb9.0-0-0-chef-apib9admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-d032b-3ptb9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7dd-38f8ddb9adm-connect-acc.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-guard-5.frontend.office.prod.clops.just-eat.no
-0-0-0-controller-aoxun5.frontend.office.prod.clops.just-eat.no
 0-0-0-0drivers-aurel.frontend.office.prod.clops.just-eat.no
 0-0-0-back2b95.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-5-1gib95.frontend.office.prod.clops.just-eat.no
@@ -2005,11 +1984,9 @@ tomcat.0-0-0-developer-accaccacc.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-toolbar-01gib9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-eatvpn-connect-acc.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-grill-acc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-chef-55.frontend.office.prod.clops.just-eat.no
 0-0-0-adm1-db9-eat-cisacc.frontend.office.prod.clops.just-eat.no
 0-0-0-controller-5-acc-acc.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-chef5admacc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-frontend-5db9.frontend.office.prod.clops.just-eat.no
 0-0-0-admcustomer-eats-accadm.frontend.office.prod.clops.just-eat.no
 mx.www.0-0-0-guard5-db9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-skinsadm.frontend.office.prod.clops.just-eat.no
@@ -2046,7 +2023,6 @@ ebs.appb9.0-0-0-frontend5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-55-db9.frontend.office.prod.clops.just-eat.no
 0.0-0-0-controller-5adm.frontend.office.prod.clops.just-eat.no
 eat.0.0-0-0-engine-shop.frontend.office.prod.clops.just-eat.no
-0-0-0-d032bqaadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-eventsadmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-anshb9adm.frontend.office.prod.clops.just-eat.no
 ebs.appb9.0-0-0-administrator.frontend.office.prod.clops.just-eat.no
@@ -2127,7 +2103,7 @@ mx.www.0-0-0-d032b-3ptb95.frontend.office.prod.clops.just-eat.no
 0-0-0-alozehevadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-controlleracc-auth-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-controllera1-db9-accadm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-grillaccounting.frontend.office.prod.clops.just-eat.no
+5.0-0-0-grillaccounting.frontend.office.prod.clops.just-eat.no
 0-0-0-003-db9-adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0promo-5-db9acc.frontend.office.prod.clops.just-eat.no
 0-0-0-ant-db9adm-connectacc.frontend.office.prod.clops.just-eat.no
@@ -2166,7 +2142,6 @@ ebs.appb9.0-0-0-guard5-db9adm.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-adm-toolbar-0.frontend.office.prod.clops.just-eat.no
 0-0-0-controlleraccqa.frontend.office.prod.clops.just-eat.no
 0-0-0-administratororadm.frontend.office.prod.clops.just-eat.no
-www.0-0-0-frontend5-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-admlogin-apib9-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-adm-acckubectlacc.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-5db91gib9.frontend.office.prod.clops.just-eat.no
@@ -2193,7 +2168,6 @@ appb9.0-0-0-chefapib9docsacc.frontend.office.prod.clops.just-eat.no
 0-0-0-frontendaqa.frontend.office.prod.clops.just-eat.no
 0-0-0-frontendademo.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-5db91gib9-acc.frontend.office.prod.clops.just-eat.no
-0-0-0-guardappb9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-apib9adm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0secure-acc-mobile5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-chef-5.frontend.office.prod.clops.just-eat.no
@@ -2267,7 +2241,6 @@ adm.0-0-0-engineaccadm.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-acckubectl.frontend.office.prod.clops.just-eat.no
 0-0-0-digital-retail-5.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-51-db95.frontend.office.prod.clops.just-eat.no
-www.0-0-0-grilladm-azure5.frontend.office.prod.clops.just-eat.no
 0-0-0-frontendaadmadm.frontend.office.prod.clops.just-eat.no
 0-0-0-engineapib9-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-aadm-acc.frontend.office.prod.clops.just-eat.no
@@ -2384,7 +2357,6 @@ eat.0.0-0-0-engineaccadm-shop.frontend.office.prod.clops.just-eat.no
 0-0-0-0000858adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-bathrooms-qaadm-acc.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-engine-accadm.frontend.office.prod.clops.just-eat.no
-5.0-0-0-controller-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-baeumigacc.frontend.office.prod.clops.just-eat.no
 reset-1.0-0-0-grilladm-azureadm.frontend.office.prod.clops.just-eat.no
 0-0-0-autoship-accadm.frontend.office.prod.clops.just-eat.no
@@ -2394,7 +2366,6 @@ reset-1.0-0-0-grilladm-azureadm.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-grillacc.frontend.office.prod.clops.just-eat.no
 0-0-0-bahai-orgb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-d032b-3ptb95.frontend.office.prod.clops.just-eat.no
-www.0-0-0-developer5.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-5-1gib9-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-train-32-220adm-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-connectaccadm-connectacc.frontend.office.prod.clops.just-eat.no
@@ -2419,7 +2390,6 @@ appb9.0-0-0-adm-skinsacc.frontend.office.prod.clops.just-eat.no
 0-0-0-chartertouradm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-security3ptb9adm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0partnerinsights5-accadm.frontend.office.prod.clops.just-eat.no
-5.0-0-0-d032b-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-artfueldb9.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-handle-connectacc.frontend.office.prod.clops.just-eat.no
 0.0-0-0-frontend-acc.frontend.office.prod.clops.just-eat.no
@@ -2648,7 +2618,7 @@ acc.0-0-0-chef-5.frontend.office.prod.clops.just-eat.no
 0-0-0-d086168-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-acc-k8s-3ptb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-app-west-db9-5.frontend.office.prod.clops.just-eat.no
-www.0-0-0-chef-5-db95.frontend.office.prod.clops.just-eat.no
+0-0-0-chef-5-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7dd-tesrestadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-0-guardappb9adm-connectacc.frontend.office.prod.clops.just-eat.no
@@ -2656,7 +2626,7 @@ www.0-0-0-chef-5-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-0details-5db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-ablink-eatadm.frontend.office.prod.clops.just-eat.no
 0-0-0-acc-stgadm-connect-acc.frontend.office.prod.clops.just-eat.no
-www.cep.just-eat.no
+cep.just-eat.no
 0-0-0-enginea-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-0europe-apib9-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-region-aws.frontend.office.prod.clops.just-eat.no
@@ -2776,7 +2746,6 @@ mx.www.0-0-0-guardappb9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-app-west-connect.frontend.office.prod.clops.just-eat.no
 0-0-0-admapacheeats5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b5-acc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-d032b-3ptb95.frontend.office.prod.clops.just-eat.no
 0-0-0-003-db95-db9admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-5apib9-connectacc.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-engine-1-db9.frontend.office.prod.clops.just-eat.no
@@ -2841,7 +2810,7 @@ _domainkey.just-eat.no
 0-0-0-admssl-eat.frontend.office.prod.clops.just-eat.no
 0-0-0-admartbom5-db9s.frontend.office.prod.clops.just-eat.no
 0-0-0-controller5r.frontend.office.prod.clops.just-eat.no
-www.0-0-0-guard5adm5.frontend.office.prod.clops.just-eat.no
+0-0-0-guard5adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7ddadmineatadm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032bapib9docsacc5.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-guard-admeventsacc.frontend.office.prod.clops.just-eat.no
@@ -2865,7 +2834,6 @@ appb9.0-0-0-engine-1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-4876-db9admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5-db9-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-a1gib9.frontend.office.prod.clops.just-eat.no
-5.0-0-0-grill-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-controlleraaccacc.frontend.office.prod.clops.just-eat.no
 0-0-0-admtest-shop-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-avcomeadm-connect-acc.frontend.office.prod.clops.just-eat.no
@@ -2896,7 +2864,7 @@ appb9.0-0-0-guardappb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-engineaccadm-db9.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-guardappb9acc.frontend.office.prod.clops.just-eat.no
 0-0-0-backendadm.frontend.office.prod.clops.just-eat.no
-www.0-0-0-administrator5.frontend.office.prod.clops.just-eat.no
+0-0-0-administrator5.frontend.office.prod.clops.just-eat.no
 0-0-0-admcert.frontend.office.prod.clops.just-eat.no
 0-0-0-adm0digital1s-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-eat-redirectoradm5.frontend.office.prod.clops.just-eat.no
@@ -2907,7 +2875,6 @@ www.0-0-0-administrator5.frontend.office.prod.clops.just-eat.no
 0-0-0-controlleraccadm.frontend.office.prod.clops.just-eat.no
 0-0-0-154-68.frontend.office.prod.clops.just-eat.no
 0-0-0-d032bacc-1gib9.frontend.office.prod.clops.just-eat.no
-5.0-0-0-adm-skins.frontend.office.prod.clops.just-eat.no
 0-0-0-controlleracc-auth-connect-acc.frontend.office.prod.clops.just-eat.no
 mx.www.0-0-0-administrator5.frontend.office.prod.clops.just-eat.no
 0-0-0-barnaulmedia-connect-acc.frontend.office.prod.clops.just-eat.no
@@ -2961,7 +2928,6 @@ mx.www.0-0-0-grill-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-restricted-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-guard-5-acc.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-engine.frontend.office.prod.clops.just-eat.no
-0-0-0-admlogin5.frontend.office.prod.clops.just-eat.no
 144.just-eat.no
 appb9.0-0-0-chefapib9docsadmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-acc-k8s98x.frontend.office.prod.clops.just-eat.no
@@ -2981,7 +2947,6 @@ api0.just-eat.no
 0-0-0-chef5adm-3ptb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-engineaccadm51gib9.frontend.office.prod.clops.just-eat.no
 0-0-0-admssl-eatadm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-engine.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-apib9-aoxun-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-5-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-5db9-1-db9.frontend.office.prod.clops.just-eat.no
@@ -3055,7 +3020,6 @@ apgateway-dr.just-eat.no
 0-0-0-0promo-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-10000000adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-grillaccountingaccdemo.frontend.office.prod.clops.just-eat.no
-0-0-0-administrator5.frontend.office.prod.clops.just-eat.no
 0-0-0-0022apib95.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-creativesqa.frontend.office.prod.clops.just-eat.no
 0-0-0-guard5-db9admmediaadm.frontend.office.prod.clops.just-eat.no
@@ -3103,7 +3067,6 @@ apolo.just-eat.no
 0-0-0-grilladm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032bqaadm-2d7dd.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-d032b5-db9.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-d032b-3ptb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-customer.frontend.office.prod.clops.just-eat.no
 0-0-0-0-adm-skins-connectacc.frontend.office.prod.clops.just-eat.no
 calendar.just-eat.no
@@ -3178,7 +3141,6 @@ a.acc.0-0-0-administrator.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-guardapplication.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-grill-aadmacc.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-d032badmaccacc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-frontend-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-frontendadmadm.frontend.office.prod.clops.just-eat.no
 0-0-0-4-74b9mediaacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0secure5-db9adm5.frontend.office.prod.clops.just-eat.no
@@ -3204,7 +3166,7 @@ dev.0-0-0-developer.frontend.office.prod.clops.just-eat.no
 0.0-0-0-guard-admevents.frontend.office.prod.clops.just-eat.no
 0-0-0-administratorization.frontend.office.prod.clops.just-eat.no
 0-0-0-guard-5apac.frontend.office.prod.clops.just-eat.no
-www.0-0-0-grill-a5.frontend.office.prod.clops.just-eat.no
+0-0-0-grill-a5.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-controlleracc.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-alumnosdb9acc.frontend.office.prod.clops.just-eat.no
 0-0-0-beta-impervaadm.frontend.office.prod.clops.just-eat.no
@@ -3234,7 +3196,6 @@ a.acc.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-engine5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-connectadkadm-connectacc.frontend.office.prod.clops.just-eat.no
 bandhan-tandoori.just-eat.no
-www.5.0-0-0-grill-aadm.frontend.office.prod.clops.just-eat.no
 adm.0-0-0-engineaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-netadm-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-dlorente.frontend.office.prod.clops.just-eat.no
@@ -3279,10 +3240,8 @@ a.acc.0-0-0-admssl-eat.frontend.office.prod.clops.just-eat.no
 0-eat.0.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-admtesrests-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-guard-5-connect-acc.frontend.office.prod.clops.just-eat.no
-www.blog.just-eat.no
 eat.0.0-0-0-grill-admadm-shop.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-frontend-acc.frontend.office.prod.clops.just-eat.no
-0-0-0-chefapib9docs5.frontend.office.prod.clops.just-eat.no
 0-0-0-administratorawsoradm.frontend.office.prod.clops.just-eat.no
 bdb2.just-eat.no
 0-0-0-0-internals-qaadmacc.frontend.office.prod.clops.just-eat.no
@@ -3419,7 +3378,6 @@ mx.www.0-0-0-chef-55.frontend.office.prod.clops.just-eat.no
 0-0-0-chefacc0-paywall-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-trainadk-db9-acc.frontend.office.prod.clops.just-eat.no
 0.0-0-0-administrator-apib9-acc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-admssl-eatadm.frontend.office.prod.clops.just-eat.no
 0-0-0-club-maccaroni-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032badm-1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-aadmaccdemo.frontend.office.prod.clops.just-eat.no
@@ -3507,7 +3465,6 @@ dev.0-0-0-engine-5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-adsdb9.frontend.office.prod.clops.just-eat.no
 0-0-0-developeracc-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5-db9admacc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-developeracc5.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7dd-toolbaradm.frontend.office.prod.clops.just-eat.no
 0-0-0-administrator-apib9-acc.frontend.office.prod.clops.just-eat.no
 adm.0-0-0-frontend-5db9.frontend.office.prod.clops.just-eat.no
@@ -3537,7 +3494,6 @@ ht-b.5.0-0-0-chef-5.frontend.office.prod.clops.just-eat.no
 0-0-0-firewallacc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-accadmmediaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-paywall-accadm5.frontend.office.prod.clops.just-eat.no
-5.0-0-0-engine-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-003-db9accacc.frontend.office.prod.clops.just-eat.no
 prod.clops.just-eat.no
 0-0-0-d032b-5-3-db9.frontend.office.prod.clops.just-eat.no
@@ -3551,7 +3507,6 @@ reset-1.0-0-0-engine-1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0-internals-1-db9acc.frontend.office.prod.clops.just-eat.no
 0-0-0-fe-cloudrunqa-accadm.frontend.office.prod.clops.just-eat.no
 eat.0.0-0-0-adm-creatives-shop.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-guardappb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-3ipmib9-qa.frontend.office.prod.clops.just-eat.no
 0-0-0-039accadm-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-controller5-1-db9.frontend.office.prod.clops.just-eat.no
@@ -3605,7 +3560,6 @@ appb9.0-0-0-guardappb9.frontend.office.prod.clops.just-eat.no
 0-0-0-controlleracc.frontend.office.prod.clops.just-eat.no
 0-0-0-admssl-eatadmmediaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-events-connect-acc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-guard-55.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-accadmmediaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-traffic05.frontend.office.prod.clops.just-eat.no
 0-0-0-176-db9-qaadm-accadm.frontend.office.prod.clops.just-eat.no
@@ -3616,7 +3570,6 @@ appb9.0-0-0-d032b-3ptb9.frontend.office.prod.clops.just-eat.no
 0-0-0-history-apib9.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-db9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7ddmailrelayadm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-grilladm-azure.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-acc-adm-accadm.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-d032b5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0secure5.frontend.office.prod.clops.just-eat.no
@@ -3680,7 +3633,6 @@ appb9.0-0-0-d032badm.frontend.office.prod.clops.just-eat.no
 a.acc.0-0-0-chef-5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-developeracc-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-subfolder-5acc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-guardapplication.frontend.office.prod.clops.just-eat.no
 ht-b.5.0-0-0-frontend5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-developerization.frontend.office.prod.clops.just-eat.no
 apivender.just-eat.no
@@ -3742,7 +3694,6 @@ bookkeeping.just-eat.no
 0-0-0-0eventsa5.frontend.office.prod.clops.just-eat.no
 beinformed.just-eat.no
 0-0-0-adoptionacc.frontend.office.prod.clops.just-eat.no
-5.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0-guardappb9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-dashboard-0.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7ddoid-5.frontend.office.prod.clops.just-eat.no
@@ -3757,7 +3708,6 @@ beinformed.just-eat.no
 0-0-0-guardadm.frontend.office.prod.clops.just-eat.no
 3895455729026485660.just-eat.no
 0-0-0-419db9adm5.frontend.office.prod.clops.just-eat.no
-0-0-0-guard1-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-0-portalacc-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-controller-5-1-db9acc.frontend.office.prod.clops.just-eat.no
 _adsp._domainkey.just-eat.no
@@ -3766,7 +3716,6 @@ _adsp._domainkey.just-eat.no
 0-0-0-0-grill-aadm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b5-db9adm-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0-trialapib9.frontend.office.prod.clops.just-eat.no
-0-0-0-grill-admadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-aadmaccacc.frontend.office.prod.clops.just-eat.no
 0.0-0-0-grill-shop.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-accqa.frontend.office.prod.clops.just-eat.no
@@ -3783,7 +3732,6 @@ appb9.0-0-0-controller-5admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-adstat-connectacc.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-guard5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-authenticateadm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-controller-5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-dataweb-accadm.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-d032b-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-09u-db9aoxun5.frontend.office.prod.clops.just-eat.no
@@ -3899,7 +3847,7 @@ adm.0-0-0-guard5-db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-2d7dd-38f8ddb9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-trialacc-connectacc.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-admssl-eat.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-adm-acckubectl.frontend.office.prod.clops.just-eat.no
+5.0-0-0-adm-acckubectl.frontend.office.prod.clops.just-eat.no
 0-0-0-9vn-db9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0-portal5admacc.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
@@ -3949,7 +3897,6 @@ eat.0.0-0-0-controller-5adm-shop.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b55.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-0-paywall.frontend.office.prod.clops.just-eat.no
 adm.0-0-0-d032b5.frontend.office.prod.clops.just-eat.no
-5.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032bqaadmadm.frontend.office.prod.clops.just-eat.no
 0-0-0-28-4-db9admacc.frontend.office.prod.clops.just-eat.no
 adm.0-0-0-administratoraws.frontend.office.prod.clops.just-eat.no
@@ -3958,7 +3905,6 @@ adm.0-0-0-administratoraws.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-a5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-admauthenticateacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0acc-shopaosdevdb9-connectacc.frontend.office.prod.clops.just-eat.no
-0-0-0-grill-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032baccadm-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-bhurecv2admacc.frontend.office.prod.clops.just-eat.no
 a.acc.0-0-0-engine-accadm.frontend.office.prod.clops.just-eat.no
@@ -3999,7 +3945,6 @@ acc.0-0-0-guard1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-0test-connect5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-92d-db9-qa-5-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-controller5.frontend.office.prod.clops.just-eat.no
-www.0-0-0-engine-accadm5.frontend.office.prod.clops.just-eat.no
 tomcat.0-0-0-adm-creatives.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-13727b9-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-chef98x-1-db9-accadm.frontend.office.prod.clops.just-eat.no
@@ -4027,7 +3972,6 @@ mx.www.0-0-0-chefapib9docsadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b51-db9-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-5vu-db9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-7-h-db9adm.frontend.office.prod.clops.just-eat.no
-0-0-0-chef-5-db95.frontend.office.prod.clops.just-eat.no
 0-0-0-chef-food-d032badm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0abmail-acc5.frontend.office.prod.clops.just-eat.no
 0-0-0-118-72-db95.frontend.office.prod.clops.just-eat.no
@@ -4108,7 +4052,6 @@ dev.0-0-0-guard-5-2d7dd.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-toolbar-0oradm.frontend.office.prod.clops.just-eat.no
 0-0-0-allegroimg-order5.frontend.office.prod.clops.just-eat.no
 0-0-0-guardappb9admization.frontend.office.prod.clops.just-eat.no
-www.0-0-0-chefapib9docsadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-adm0-toolbarsacc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-accadmadmadm.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-adm-skins.frontend.office.prod.clops.just-eat.no
@@ -4181,7 +4124,6 @@ reset-1.0-0-0-guardappb9admadm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032bqaadmh75b9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-admmedia-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-administrator5.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-developer.frontend.office.prod.clops.just-eat.no
 0-0-0-d032badm-0-paywall.frontend.office.prod.clops.just-eat.no
 0-0-0-guardappb9-accounting.frontend.office.prod.clops.just-eat.no
 0-0-0-controllera-oid-connectacc.frontend.office.prod.clops.just-eat.no
@@ -4240,7 +4182,6 @@ amc.just-eat.no
 0-0-0-amazingadmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-sql02qaadm-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-controlacc.frontend.office.prod.clops.just-eat.no
-www.0-0-0-d032badm5.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-adm-acckubectl.frontend.office.prod.clops.just-eat.no
 0-eat.0.0-0-0-chef-apib9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-1eldb9admacc.frontend.office.prod.clops.just-eat.no
@@ -4289,7 +4230,6 @@ api.a.acc.0-0-0-chef5adm.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-chef-5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-alisverisdb9admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend51gib9.frontend.office.prod.clops.just-eat.no
-www.0-0-0-chef5adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-admssladmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-eat-swagger5.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-gateway.frontend.office.prod.clops.just-eat.no
@@ -4359,7 +4299,6 @@ ebs.appb9.0-0-0-controller-aoxun.frontend.office.prod.clops.just-eat.no
 0-0-0-apihehe-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-003-db9awsadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-trialadk-db9adm-acc.frontend.office.prod.clops.just-eat.no
-0-0-0-grill-a5.frontend.office.prod.clops.just-eat.no
 0-0-0-administrator1admacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0drivers-adk-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-grillaccountingoradm.frontend.office.prod.clops.just-eat.no
@@ -4418,7 +4357,6 @@ appb9.0-0-0-controller5.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-developer-accv1.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-35-39db9-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-accteam-qa-connect-acc.frontend.office.prod.clops.just-eat.no
-0-0-0-engineaadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0deals-55.frontend.office.prod.clops.just-eat.no
 alpha-new-event.just-eat.no
 0-0-0-admacc-digitals-connectacc.frontend.office.prod.clops.just-eat.no
@@ -4466,7 +4404,6 @@ tomcat.0-0-0-developer-accacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0-internals-1-db9-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-administrators0-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-admadm-accounting.frontend.office.prod.clops.just-eat.no
-www.0-0-0-guard5-db9adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-apib9adm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-restrictedqa5.frontend.office.prod.clops.just-eat.no
 0-0-0-eatadmins-5.frontend.office.prod.clops.just-eat.no
@@ -4491,7 +4428,6 @@ broker.just-eat.no
 tomcat.0-0-0-grillacc.frontend.office.prod.clops.just-eat.no
 appb9.0-0-0-developer-acc-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-chefaccacc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-chef-5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-3ipmib9acc.frontend.office.prod.clops.just-eat.no
 0-eat.0.0-0-0-administratorawsacc.frontend.office.prod.clops.just-eat.no
 0-0-0-engineaadmadmadm.frontend.office.prod.clops.just-eat.no
@@ -4511,7 +4447,6 @@ www.5.0-0-0-chef-5-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-adm-frontpage-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-grill-aadm-3-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5-db9-acc.frontend.office.prod.clops.just-eat.no
-5.0-0-0-guard-admevents.frontend.office.prod.clops.just-eat.no
 0-0-0-0details-a-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-admssl-eatadm-pat.frontend.office.prod.clops.just-eat.no
 0-0-0-guard-admeventsdemo.frontend.office.prod.clops.just-eat.no
@@ -4563,7 +4498,6 @@ ebs.appb9.0-0-0-engine-5adm.frontend.office.prod.clops.just-eat.no
 0-0-0-chef55-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-80musicadmindb9acc.frontend.office.prod.clops.just-eat.no
 0-0-0-engine-shop.frontend.office.prod.clops.just-eat.no
-www.0-0-0-engineaccadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0digital-aurel.frontend.office.prod.clops.just-eat.no
 0-0-0-0localhost5-55.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b5-db998x.frontend.office.prod.clops.just-eat.no
@@ -4594,9 +4528,7 @@ tomcat.0-0-0-guard1-db9accacc.frontend.office.prod.clops.just-eat.no
 0-0-0-0bounce5.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-accadm-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-api-docs.frontend.office.prod.clops.just-eat.no
-5.0-0-0-admssl-eat.frontend.office.prod.clops.just-eat.no
 0-0-0-eat-v1-qa.frontend.office.prod.clops.just-eat.no
-www.0-0-0-adm-toolbar-05.frontend.office.prod.clops.just-eat.no
 0-0-0-allegroimgapac-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-admproductionss.frontend.office.prod.clops.just-eat.no
 0-0-0-chefacc-1-db9-connectacc.frontend.office.prod.clops.just-eat.no
@@ -4680,7 +4612,6 @@ acc.0-0-0-d032b5-db9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-acc-webappacc.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-traffic-eat-acc.frontend.office.prod.clops.just-eat.no
 api.a.acc.0-0-0-chef-5.frontend.office.prod.clops.just-eat.no
-5.0-0-0-adm-acckubectl.frontend.office.prod.clops.just-eat.no
 ebs.appb9.0-0-0-guard-admevents.frontend.office.prod.clops.just-eat.no
 dev.0-0-0-admlogin-2d7dd.frontend.office.prod.clops.just-eat.no
 0-0-0-adm0iodb92d7ddsacc.frontend.office.prod.clops.just-eat.no
@@ -4724,7 +4655,6 @@ tomcat.0-0-0-chefapib9docsaccacc.frontend.office.prod.clops.just-eat.no
 0-0-0-administratoraccization.frontend.office.prod.clops.just-eat.no
 0-0-0-eat-v1-qa-connect-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5-db9adm.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-d032b5.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-accteamadmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-fileallegroimgadmacc.frontend.office.prod.clops.just-eat.no
 0-0-0-center.frontend.office.prod.clops.just-eat.no
@@ -4757,7 +4687,6 @@ asd.just-eat.no
 0-0-0-artist-staging-db9acc.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-0abmailadkadm.frontend.office.prod.clops.just-eat.no
-0-0-0-administratoraws5.frontend.office.prod.clops.just-eat.no
 acc-history.0-0-0-adm-skins.frontend.office.prod.clops.just-eat.no
 0-0-0-eatmerchant.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b5-db9adm-3-db9.frontend.office.prod.clops.just-eat.no
@@ -4903,7 +4832,6 @@ dev.0-0-0-d032bqaadm-2d7dd.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5-1-db9-connectacc.frontend.office.prod.clops.just-eat.no
 0-0-0-apache2-accadm.frontend.office.prod.clops.just-eat.no
 0-0-0-0-guardapplication-acc.frontend.office.prod.clops.just-eat.no
-www.5.0-0-0-d032badm.frontend.office.prod.clops.just-eat.no
 0-0-0-developeraccmediaadm.frontend.office.prod.clops.just-eat.no
 0-0-0-d032b-5accdemo.frontend.office.prod.clops.just-eat.no
 acc.0-0-0-chefapib9docsadm.frontend.office.prod.clops.just-eat.no
@@ -4929,7 +4857,6 @@ acc.0-0-0-chef-apib9adm.frontend.office.prod.clops.just-eat.no
 0-0-0-frontendaoradm.frontend.office.prod.clops.just-eat.no
 0-0-0-frontend-acc-k8s-1-db9.frontend.office.prod.clops.just-eat.no
 0-0-0-admloginqa.frontend.office.prod.clops.just-eat.no
-0-0-0-guard5adm5.frontend.office.prod.clops.just-eat.no
 0-0-0-bathrooms-qaadm5.frontend.office.prod.clops.just-eat.no
 0-0-0-1-db9-11kkppb9-connectacc.frontend.office.prod.clops.just-eat.no
 mx.www.0-0-0-admlogin5.frontend.office.prod.clops.just-eat.no

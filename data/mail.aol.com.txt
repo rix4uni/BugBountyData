@@ -53,7 +53,6 @@ tv.mail.aol.com
 waol.mail.aol.com
 webmail1.mail.aol.com
 welcome.mail.aol.com
-www.mail.aol.com
 xobni.mail.aol.com
 yserv.mail.aol.com
 aads.mail.aol.com
@@ -809,7 +808,7 @@ api.d05.sandbox.acceptance.amp.mail.aol.com
 api-routemeup.sandbox.acceptance.amp.mail.aol.com
 m-qai-hdp-mnode01.advertising.mail.aol.com
 m-prd-nxg-exch04-node84.advertising.mail.aol.com
-www.adviser.mail.aol.com
+adviser.mail.aol.com
 dtm-origin.advertising.mail.aol.com
 0d0as6tid.ampx.mail.aol.com
 crs-review-api.read.advertising.mail.aol.com
@@ -1705,7 +1704,7 @@ m-prd-nxg-exch01-node112.advertising.mail.aol.com
 d-prd-mpsdb02.advertising.mail.aol.com
 master.logs.es.5min.mail.aol.com
 adgui-qa.advertising.mail.aol.com
-www.advertising.mail.aol.com
+advertising.mail.aol.com
 m-prd-nxg-exch02-node80.advertising.mail.aol.com
 pi-account-mgmt.egslb.sandbox.alpha.mail.aol.com
 m-prd-nxg-exch01-node36.advertising.mail.aol.com
@@ -1935,7 +1934,7 @@ m-prd-nxg-exch03-node106.advertising.mail.aol.com
 225d2jkk6aboozk.ampx.mail.aol.com
 m-prd-nxg-med02-node23.advertising.mail.aol.com
 m-dev-pwsafe01.advertising.mail.aol.com
-www.adspecs.mail.aol.com
+adspecs.mail.aol.com
 fps-api.sandbox.acceptance.amp.mail.aol.com
 api.maestro.sandbox.acceptance.amp.mail.aol.com
 p02-eu-wrobot01.advertising.mail.aol.com
@@ -2234,7 +2233,6 @@ ukapi.01e6fe919d1a7c447.ampx.mail.aol.com
 account-mgmt.exchange.egslb.sandbox.alpha.mail.aol.com
 1414zgld6we8.ampx.mail.aol.com
 f-prd-ldap01.advertising.mail.aol.com
-advertising.mail.aol.com
 m-dev-dp-jef02.advertising.mail.aol.com
 api.dbs.sandbox.acceptance.amp.mail.aol.com
 apienterprise-use-aem.sandbox.acceptance.amp.mail.aol.com
@@ -2323,7 +2321,6 @@ channel.aimx-vma.aimexpress.mail.aol.com
 m-prd-nxg-exch02-node15.advertising.mail.aol.com
 m-prd-nxg-exch01-flume01.advertising.mail.aol.com
 m-pt-reportingeng06.advertising.mail.aol.com
-www.afi.mail.aol.com
 fmvhadoop-r5-m01.5min.mail.aol.com
 1daxiodr1uym26mswwk264285d3.ampx.mail.aol.com
 dhcp189.asbnvaas.access.mail.aol.com
@@ -2770,7 +2767,7 @@ goviral-gluster4-staging.advertising.mail.aol.com
 611096061924.api.sandbox.acceptance.amp.mail.aol.com
 account-mgmt.egslbaolu2.sandbox.alpha.mail.aol.com
 fmvhadoop-r4-m13.5min.mail.aol.com
-www.sandbox.access.mail.aol.com
+sandbox.access.mail.aol.com
 m-prd-nxg-exch01-node65.advertising.mail.aol.com
 bops.api.sandbox.acceptance.amp.mail.aol.com
 fmvdbclst-m04.5min.mail.aol.com
@@ -2816,7 +2813,6 @@ api.abweb.mail.aol.com
 fmvdbstgcl-reserved19.5min.mail.aol.com
 bill.sandbox.alpha.mail.aol.com
 f-dev-uknickm.advertising.mail.aol.com
-www.11in2011.mail.aol.com
 rbfs.api.sandbox.acceptance.amp.mail.aol.com
 huluverse.account-mgmt.egslb.sandbox.alpha.mail.aol.com
 m-prd-nxg-exch02-node49.advertising.mail.aol.com
@@ -3506,7 +3502,7 @@ savi.api.sandbox.acceptance.amp.mail.aol.com
 account-mgmt.ingressegslb.sandbox.alpha.mail.aol.com
 m-prd-nxg-exch01-node12.advertising.mail.aol.com
 fmvhadoop-r4-m25.5min.mail.aol.com
-www.sandbox.acceptance.amp.mail.aol.com
+sandbox.acceptance.amp.mail.aol.com
 vaccount-mgmt.egslb.sandbox.alpha.mail.aol.com
 segment-account-mgmt.egslb.sandbox.alpha.mail.aol.com
 m-prd-nxg-med02-quova07.advertising.mail.aol.com
@@ -4105,7 +4101,6 @@ alto.mail.aol.com
 m-prd-nxg-exch03-node114.advertising.mail.aol.com
 account-mgmt-bedrock.egslb.sandbox.alpha.mail.aol.com
 l3account-mgmt.egslb.sandbox.alpha.mail.aol.com
-www.aarp.mail.aol.com
 m-prd-nxg-med02-node19.advertising.mail.aol.com
 m-prd-nxg-med01-node16s.advertising.mail.aol.com
 api.investisseurimperial.sandbox.acceptance.amp.mail.aol.com
@@ -4231,7 +4226,6 @@ m-prd-nxg-exch01-node32.advertising.mail.aol.com
 m-pt-reportingeng014.advertising.mail.aol.com
 1d4gvrszjbt4leb49p-fo8e2v31pl9u.ampx.mail.aol.com
 apimemberapps.sandbox.acceptance.amp.mail.aol.com
-www.abcnews.mail.aol.com
 m-prd-nxg-med02-node29.advertising.mail.aol.com
 gwww-strayeronline-clk4.ads.mail.aol.com
 account-mgmt-e2.egslb.sandbox.alpha.mail.aol.com
@@ -4589,7 +4583,6 @@ apielasticsearch.sandbox.acceptance.amp.mail.aol.com
 0x4dc3.ampx.mail.aol.com
 m-prd-nxg-exch1-node04.advertising.mail.aol.com
 m-prd-nxg-exch02-node28.advertising.mail.aol.com
-www.aim.mail.aol.com
 ir2.api.sandbox.acceptance.amp.mail.aol.com
 datacatalog.advertising.mail.aol.com
 abapi-m15.abweb.mail.aol.com
@@ -4649,7 +4642,6 @@ rio-api.sandbox.acceptance.amp.mail.aol.com
 apiivr.sandbox.acceptance.amp.mail.aol.com
 d-prd-lsa-mon01.advertising.mail.aol.com
 00004.ampx.mail.aol.com
-sandbox.acceptance.amp.mail.aol.com
 adcom-logging.advertising.mail.aol.com
 m-prd-art-bid44.advertising.mail.aol.com
 m-prd-nxg-exch02-node06.advertising.mail.aol.com
@@ -4698,7 +4690,7 @@ qzs-api.sandbox.acceptance.amp.mail.aol.com
 commandapi.sandbox.acceptance.amp.mail.aol.com
 0y2pw7.ampx.mail.aol.com
 api.system.sandbox.acceptance.amp.mail.aol.com
-www.5min.mail.aol.com
+5min.mail.aol.com
 cdmapi.sandbox.acceptance.amp.mail.aol.com
 00002.ampx.mail.aol.com
 fmvhadoop-r1-m06.5min.mail.aol.com
@@ -4795,7 +4787,6 @@ fmvhadoop-r4-m08.5min.mail.aol.com
 m-prd-nxg-exch01-node72.advertising.mail.aol.com
 adlabs.mail.aol.com
 1yx6-d1urt1ezqod324d1.ampx.mail.aol.com
-www.advisor.mail.aol.com
 m-prd-zencol04-1.advertising.mail.aol.com
 aimtoday.mail.aol.com
 oss-ap-southeast-1-api.sandbox.acceptance.amp.mail.aol.com
@@ -4904,7 +4895,6 @@ tpg-account-mgmt.egslb.sandbox.alpha.mail.aol.com
 m-prd-nxg-med02-node16.advertising.mail.aol.com
 m-prd-nxg-exch03-node12.advertising.mail.aol.com
 fmvdbvus-m05.5min.mail.aol.com
-adspecs.mail.aol.com
 stage.mini.advertising.mail.aol.com
 m-prd-nxg-exch03-node68.advertising.mail.aol.com
 logan.sandbox.allegro-demo.mail.aol.com
@@ -5086,7 +5076,7 @@ fmvhadoop-r3-m11.5min.mail.aol.com
 ecp.api.sandbox.acceptance.amp.mail.aol.com
 account-mgmt.egslb-tur.sandbox.alpha.mail.aol.com
 m-prd-reportingapp001.advertising.mail.aol.com
-www.5minconfprod.mail.aol.com
+5minconfprod.mail.aol.com
 zenoss-lb.advertising.mail.aol.com
 fmvhadoop-r4-m04.5min.mail.aol.com
 fmvorigin-m02ol.5min.mail.aol.com
@@ -5156,7 +5146,6 @@ affiliate.mail.aol.com
 m-prd-nxg-med02-node47s.advertising.mail.aol.com
 api.ex01.sandbox.acceptance.amp.mail.aol.com
 aci-cdn.advertising.mail.aol.com
-adviser.mail.aol.com
 m-prd-nxg-exch04-node88.advertising.mail.aol.com
 m-prd-nxg-med01-node22s.advertising.mail.aol.com
 m-prd-fad.advertising.mail.aol.com
@@ -5414,7 +5403,6 @@ fmvhadoop-r5-m17.5min.mail.aol.com
 propertyplatform-api.sandbox.acceptance.amp.mail.aol.com
 jenkins.aceapi.advertising.mail.aol.com
 m-prd-nxg-exch04-node90.advertising.mail.aol.com
-www.access.mail.aol.com
 aolp-reporting-services.advertising.mail.aol.com
 fmvfilesrv-l01.5min.mail.aol.com
 ip-10-97-27-72.advertising.mail.aol.com

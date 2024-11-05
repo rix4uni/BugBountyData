@@ -24,7 +24,6 @@ careers.servicenow.com
 nowlearning.servicenow.com
 styleguide.servicenow.com
 downloads.docs.servicenow.com
-www.servicenow.com
 ssosignon.servicenow.com
 servicenow-be-prod.servicenow.com
 em.servicenow.com
@@ -55,8 +54,7 @@ author.webqa.servicenow.com
 mx1.sjc4.servicenow.com
 externalbi.servicenow.com
 tracking.info.servicenow.com
-www.bomgar.servicenow.com
-www.tracking.info.servicenow.com
+bomgar.servicenow.com
 dev-apne1-wallboard.servicenow.com
 impactuat.servicenow.com
 lhr10ucexpye01.servicenow.com
@@ -71,7 +69,7 @@ communityhirelease.servicenow.com
 euwpwinfdc01.snca-comm.servicenow.com
 gri20.booth.servicenow.com
 hrsd-prototype.servicenow.com
-www.watchnow.servicenow.com
+watchnow.servicenow.com
 sn-usg-openframe-qa.servicenow.com
 tableaudev.servicenow.com
 apac-adc-vpx-0.snca-aus-gov.servicenow.com
@@ -87,7 +85,7 @@ apacctxsqllist3.snca-aus-gov.servicenow.com
 apacpwinfctxlc1.snca-aus-gov.servicenow.com
 internal.horizon.webdev.servicenow.com
 partnersuccess.webstg.servicenow.com
-www.ambassadors.servicenow.com
+ambassadors.servicenow.com
 apinow.management.servicenow.com
 dal20vcse02.servicenow.com
 dev-wallboard.servicenow.com
@@ -100,7 +98,6 @@ apiuat.management.servicenow.com
 asset.webqa.servicenow.com
 partnersuccess.webqa.servicenow.com
 servicewatch.servicenow.com
-www.sjc4seclogp01.servicenow.com
 apistg01.servicenow.com
 dam.webqa.servicenow.com
 registry-staging.servicenow.com
@@ -113,7 +110,6 @@ bigid.servicenow.com
 helsinki-docs.servicenow.com
 myqaportal.servicenow.com
 partnersuccess.webdev.servicenow.com
-www.servicematters.servicenow.com
 listeningpost.servicenow.com
 newhirestage.servicenow.com
 seclog01.servicenow.com
@@ -137,7 +133,7 @@ communityhiqaidc.servicenow.com
 communityhiupgradedev2.servicenow.com
 snca-use-sec.servicenow.com
 usw2pwinfdc02.snca-comm.servicenow.com
-www.lobo.servicenow.com
+lobo.servicenow.com
 dev.www.servicenow.com
 help.servicenow.com
 jss.servicenow.com
@@ -175,7 +171,6 @@ brandcenter-cms.servicenow.com
 geneva-docs.servicenow.com
 sn-ast-turn-server-dev.servicenow.com
 usw2pwinfdc01.snca-comm.servicenow.com
-www.jss.servicenow.com
 apiuatnow.management.servicenow.com
 hr20.booth.servicenow.com
 internal.horizon.servicenow.com
@@ -183,7 +178,7 @@ now-ps-openframe-prod.servicenow.com
 communitycorehiperftest.servicenow.com
 sin20ucexpye01.servicenow.com
 usepwinfdc04.snca-usa-gov.servicenow.com
-www.meetadmin.servicenow.com
+meetadmin.servicenow.com
 apacctxsqllist2.snca-aus-gov.servicenow.com
 impactdev.servicenow.com
 ldap.snca-comm.servicenow.com
@@ -197,7 +192,6 @@ brandcenter.webstg.servicenow.com
 newhire.servicenow.com
 servicenow-lab.servicenow.com
 valuecomposer-training.servicenow.com
-www.blogs.servicenow.com
 registry.servicenow.com
 supporthiqaidc.servicenow.com
 taxonomy.servicenow.com
@@ -223,13 +217,13 @@ ams20vcse02.servicenow.com
 apacpwinfctxcl1.snca-aus-gov.servicenow.com
 london-docs.servicenow.com
 sncanscsec.servicenow.com
-www.metro.servicenow.com
+metro.servicenow.com
 dtcs-artifactory-dev.servicenow.com
 sbo-externalbi.servicenow.com
 servicenow-br.servicenow.com
 uswpwinfctxsql2.snca-usa-gov.servicenow.com
 uswpwinfdc04.snca-usa-gov.servicenow.com
-www.stage-www.servicenow.com
+stage-www.servicenow.com
 api.developer.servicenow.com
 apiqa.management.servicenow.com
 dal20vcse01.servicenow.com
@@ -237,13 +231,12 @@ snca-apac-dev.servicenow.com
 surfseuat.servicenow.com
 prod.knowledge.servicenow.com
 syd4ucexpye01.servicenow.com
-www.financialblotter.servicenow.com
+financialblotter.servicenow.com
 apacvpn.servicenow.com
 autodiscover.servicenow.com
 biapps.servicenow.com
 edam.webstg.servicenow.com
 kafkaqa.servicenow.com
-www.webstg.servicenow.com
 use2pwinfdc02.snca-comm.servicenow.com
 accounts.servicenow.com
 apistg03.servicenow.com
@@ -290,9 +283,9 @@ dc-va.servicenow.com
 engage.servicenow.com
 nowforum.servicenow.com
 successuat.servicenow.com
-www.webqa.servicenow.com
+webqa.servicenow.com
 uswdlnautobot.servicenow.com
-www.knowledge.webapp.servicenow.com
+knowledge.webapp.servicenow.com
 communityhisearchqa.servicenow.com
 qa.www.servicenow.com
 signon.servicenow.com
@@ -302,7 +295,6 @@ acme-test.servicenow.com
 fo.servicenow.com
 inexlan1.servicenow.com
 knowledge.webdev.servicenow.com
-lobo.servicenow.com
 ebc.innovation.servicenow.com
 sin20extgwzoom.servicenow.com
 usepwinfdc01.snca-usa-gov.servicenow.com
@@ -310,7 +302,6 @@ uswpwinfctxlic1.snca-usa-gov.servicenow.com
 apigwdev.developer.servicenow.com
 success.servicenow.com
 usepwinfctxsf.snca-usa-gov.servicenow.com
-www.go.servicenow.com
 hrvalueblotter.servicenow.com
 stage.www.servicenow.com
 apacpwinfdc03.snca-comm.servicenow.com
@@ -319,7 +310,6 @@ biappsdev.servicenow.com
 bounce.servicenow.com
 ea-microservice-dev.servicenow.com
 usw2pwinfdc04.snca-comm.servicenow.com
-knowledge.webapp.servicenow.com
 nginx-api.adc.servicenow.com
 now-usg-openframe-prod.servicenow.com
 aem-author-stage.servicenow.com
@@ -329,7 +319,7 @@ developerdev.servicenow.com
 itomcimadminentrust.servicenow.com
 snca-metropolis-dev.servicenow.com
 usepwinfdc02.snca-usa-gov.servicenow.com
-www.utgtableau.servicenow.com
+utgtableau.servicenow.com
 sncagccusw.servicenow.com
 uswpwinfctxdc2.snca-usa-gov.servicenow.com
 api.management.servicenow.com
@@ -341,7 +331,6 @@ ci-demo.servicenow.com
 citrixdirector.servicenow.com
 gpsupport.servicenow.com
 qa.devops.servicenow.com
-webqa.servicenow.com
 apiqanow.developer.servicenow.com
 apistagenow.management.servicenow.com
 livenow.servicenow.com
@@ -371,10 +360,8 @@ dev.knowledge.servicenow.com
 phonevpn.servicenow.com
 stage-blogs.servicenow.com
 uswpwinfctxsql1.snca-usa-gov.servicenow.com
-watchnow.servicenow.com
 sin20vcse02.servicenow.com
 sncagov.servicenow.com
-www.pubapps.servicenow.com
 vdpdev.servicenow.com
 apicid-uat.servicenow.com
 dal20taniump01.corp.servicenow.com
@@ -406,22 +393,20 @@ extra-nternalbi.servicenow.com
 prod.servicenow.com
 sin20vcse-cluster01.servicenow.com
 usepwinfctxdc1.snca-usa-gov.servicenow.com
-meetadmin.servicenow.com
 supporthiupgradetest.servicenow.com
-www.idcagility.servicenow.com
+idcagility.servicenow.com
 aem-author-prod.servicenow.com
 apac-adc-vpx-1.snca-aus-gov.servicenow.com
 sn-webrtc-monitor-qa.servicenow.com
 stage-acme.testing.servicenow.com
 usw2-wallboard.servicenow.com
-www.eai.servicenow.com
 blogs.webstg.servicenow.com
 data.alert.servicenow.com
 images.servicenow.com
 snca-aus.servicenow.com
 snca-usw.servicenow.com
 tableau.servicenow.com
-www.telecommsblotter.servicenow.com
+telecommsblotter.servicenow.com
 dam.webstg.servicenow.com
 enterprisesearchstagesolr.servicenow.com
 euw2pwinfdc02.snca-comm.servicenow.com
@@ -436,7 +421,6 @@ brand-pub01.servicenow.com
 eaidev.servicenow.com
 externalbidr.servicenow.com
 personalise.servicenow.com
-telecommsblotter.servicenow.com
 sn-ps-openframe-qa.servicenow.com
 snsb7.servicenow.com
 tableauqa.servicenow.com
@@ -446,9 +430,7 @@ eaistage.servicenow.com
 istanbul-docs.servicenow.com
 use-adc-vpx-0.snca-usa-gov.servicenow.com
 usw2drwinfdc01.snca-usa-gov.servicenow.com
-www.tableauqa.servicenow.com
 edam.webqa.servicenow.com
-www.partners.servicenow.com
 apiqa.developer.servicenow.com
 apiqa02.servicenow.com
 dam.webdev.servicenow.com
@@ -496,7 +478,6 @@ cdn.notification.servicenow.com
 sncagccuse.servicenow.com
 tableauupgrade.servicenow.com
 use-adc-vpx-1.snca-usa-gov.servicenow.com
-www.ldap.snca-usa-gov.servicenow.com
 apacpwinfctxsq2.snca-aus-gov.servicenow.com
 mail.labcorp.servicenow.com
 sin20extgwft.servicenow.com
@@ -534,7 +515,6 @@ webqa.martech.servicenow.com
 mydevportal.servicenow.com
 snca-apac-pri.servicenow.com
 surfdev5.servicenow.com
-utgtableau.servicenow.com
 now-gts-openframe-prod.servicenow.com
 surfdevsolr.servicenow.com
 arcdesignsystem.servicenow.com
@@ -544,11 +524,8 @@ stage.webapi.servicenow.com
 ams3ucexpye01.servicenow.com
 boomicid.servicenow.com
 static.horizon.webdev.servicenow.com
-www.hrvalueblotter.servicenow.com
-www.signon.servicenow.com
 snca-usw-dev.servicenow.com
 syd10extgw.servicenow.com
-www.manufacturingblotter.servicenow.com
 api.misp.servicenow.com
 dev-knowledge.servicenow.com
 kafkaprod.servicenow.com
@@ -567,7 +544,6 @@ account.webqa.servicenow.com
 ams3ucexpye02.servicenow.com
 apacpwinfctxsf.snca-aus-gov.servicenow.com
 apistage.management.servicenow.com
-financialblotter.servicenow.com
 tabdev.servicenow.com
 communityhisandbox.servicenow.com
 solutions.servicenow.com
@@ -585,7 +561,6 @@ kafka.servicenow.com
 tanium.servicenow.com
 uswctxsqllist2.snca-usa-gov.servicenow.com
 ccoeportaldev.servicenow.com
-idcagility.servicenow.com
 nowlearningupqa.servicenow.com
 publish01.webdev.servicenow.com
 metrosubprod.servicenow.com
@@ -602,7 +577,6 @@ sncanscpri.servicenow.com
 acme.testing.servicenow.com
 apcipwinfdc01.snca-comm.servicenow.com
 apistage.developer.servicenow.com
-metro.servicenow.com
 now-it-openframe-prod.servicenow.com
 successqa.servicenow.com
 usw2pwinfdc03.snca-comm.servicenow.com
@@ -610,7 +584,6 @@ apps.community.servicenow.com
 inexlan2.servicenow.com
 mystageportal.servicenow.com
 snca-apac.servicenow.com
-www.content.servicenow.com
 tableaudr.servicenow.com
 webapi.webdev.servicenow.com
 apinow.developer.servicenow.com
@@ -663,12 +636,10 @@ apacpwinfdc03.snca-aus-gov.servicenow.com
 communitycorehidevidc.servicenow.com
 sjc4edge-cluster1.servicenow.com
 wallboard.servicenow.com
-www.euphonevpn.servicenow.com
 servicenow-ch.servicenow.com
 snca-eu-sec.servicenow.com
 usectxsqllist2.snca-usa-gov.servicenow.com
 app.connect.servicenow.com
-bomgar.servicenow.com
 dal20ucexpye01.servicenow.com
 dev-signon.servicenow.com
 laurieadminentrust.servicenow.com
@@ -682,7 +653,6 @@ emotive.servicenow.com
 gpmobile.servicenow.com
 kingston-docs.servicenow.com
 ldap.snca-aus-gov.servicenow.com
-www.docs.servicenow.com
 sn-ast-turn-server-qa.servicenow.com
 sn-usg-openframe-prod.servicenow.com
 stage.knowledge.servicenow.com
@@ -701,19 +671,16 @@ apiuat01.servicenow.com
 my.servicenow.com
 usemail.servicenow.com
 partnernowmarketing.servicenow.com
-ambassadors.servicenow.com
 dam.servicenow.com
 sncaaus.servicenow.com
 surfstage.servicenow.com
 trainingops.servicenow.com
-www.blog.servicenow.com
+blog.servicenow.com
 apidevnow.developer.servicenow.com
 dal20edge-cluster1.servicenow.com
 damauthor.webdev.servicenow.com
 kafkasubprod.servicenow.com
 snca-use.servicenow.com
-www.meet.servicenow.com
-www.kafkasbx.servicenow.com
 carveout-pilot-us.servicenow.com
 hsview.servicenow.com
 snca.servicenow.com
@@ -721,7 +688,6 @@ successdev.servicenow.com
 webstandards.servicenow.com
 syd4ucexpye02.servicenow.com
 vdp.servicenow.com
-www.mstr.servicenow.com
 kafkauat.servicenow.com
 sendto.labcorp.servicenow.com
 sjc4ucexpyejg02.servicenow.com
@@ -762,12 +728,10 @@ ams20vcse01.servicenow.com
 euw1pwinfdc02.snca-comm.servicenow.com
 now-gts-openframe-qa.servicenow.com
 securitylab.servicenow.com
-www.webdev.servicenow.com
 director.servicenow.com
 learninguat.servicenow.com
 sn-gts-openframe-prod.servicenow.com
 sncanscuse.servicenow.com
-stage-www.servicenow.com
 apiuat.servicenow.com
 qa-apne1-wallboard.servicenow.com
 secure-coding.servicenow.com
@@ -778,7 +742,6 @@ partnersuccess.servicenow.com
 sncaapac.servicenow.com
 apply.servicenow.com
 apps.uat.community.servicenow.com
-blog.servicenow.com
 dev-usw2-wallboard.servicenow.com
 lightstep.servicenow.com
 stage-blog.servicenow.com

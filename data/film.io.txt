@@ -5,7 +5,6 @@ staging.film.io
 club.film.io
 stage.film.io
 status.film.io
-www.film.io
 beta.film.io
 app.film.io
 staging2.film.io
@@ -23,9 +22,6 @@ stage-api.film.io
 fonts.film.io
 ftp.film.io
 demo-admin.film.io
-*.film.io
-*.village.film.io
-www.stage.film.io
 blackmirror.film.io
 blog.film.io
 coinlist.film.io

@@ -4,11 +4,10 @@ mta-sts.alias.vanbreda.be
 planb.vanbreda.be
 mta-sts.login-mail.acceptatie.vanbreda.be
 go.marketing.vanbreda.be
-www.vanbreda.be
 smtp.vanbreda.be
-www.eb.vanbreda.be
+eb.vanbreda.be
 backoffice-partners.test.vanbreda.be
-www.eservices.vanbreda.be
+eservices.vanbreda.be
 credibill-integration.dev.vanbreda.be
 tigerlab.vanbreda.be
 mta-sts.login-mail.vanbreda.be
@@ -28,7 +27,7 @@ backoffice-partners.dev.vanbreda.be
 portal.vanbreda.be
 lyncdiscover.inf.vanbreda.be
 auto.test.vanbreda.be
-www.banque.vanbreda.be
+banque.vanbreda.be
 gpcloud.inf.vanbreda.be
 remote.vanbreda.be
 auto.acceptatie.vanbreda.be
@@ -39,7 +38,6 @@ bike.vanbreda.be
 elinq.vanbreda.be
 efficyintegration.vanbreda.be
 bimi.vanbreda.be
-www.vk.vanbreda.be
 account.test.vanbreda.be
 mta-sts.client.vanbreda.be
 efficyintegration.dev.vanbreda.be
@@ -49,10 +47,8 @@ subagent.vanbreda.be
 int.vanbreda.be
 bike.dev.vanbreda.be
 mta-sts.inf.vanbreda.be
-www.inf.vanbreda.be
 ovb.vanbreda.be
-www.bank.vanbreda.be
-www.int.vanbreda.be
+bank.vanbreda.be
 login.vanbreda.be
 brioconnector.vanbreda.be
 app.dev.vanbreda.be
@@ -114,7 +110,6 @@ transfer3.vanbreda.be
 events.vanbreda.be
 credibill-integration.test.vanbreda.be
 fs.inf.vanbreda.be
-banque.vanbreda.be
 credibill-integration.vanbreda.be
 autodiscover.vanbreda.be
 portal.externe-acceptatie.vanbreda.be
@@ -126,9 +121,7 @@ transfer.uat.inf.vanbreda.be
 _dmarc.vanbreda.be
 autodiscover.subagent.vanbreda.be
 backoffice-digitalretail.dev.vanbreda.be
-bank.vanbreda.be
 transfer2.vanbreda.be
-www.events.vanbreda.be
 transfer.prod.inf.vanbreda.be
 transfer_prd.vanbreda.be
 backoffice-finance.vanbreda.be
@@ -158,14 +151,12 @@ autodiscover.inf.vanbreda.be
 host-193-108-201-17.vanbreda.be
 firewall.vanbreda.be
 e-work.vanbreda.be
-eb.vanbreda.be
 backoffice-vega.dev.vanbreda.be
 ag.xm.vanbreda.be
 staging.vanbreda.be
 dirweb-ext.inf.vanbreda.be
 briophoneintegration.vanbreda.be
 pluto.vanbreda.be
-eservices.vanbreda.be
 iam.test.vanbreda.be
 vpn.inf.vanbreda.be
 meet.inf.vanbreda.be

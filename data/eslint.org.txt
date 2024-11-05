@@ -3,7 +3,6 @@ eslint-github-bot.eslint.org
 jenkins2.eslint.org
 docs.eslint.org
 new.eslint.org
-www.eslint.org
 cn.eslint.org
 github-bot.eslint.org
 jenkins.eslint.org
@@ -11,8 +10,6 @@ de.eslint.org
 ja.eslint.org
 es.eslint.org
 zh-hans.eslint.org
-*.docs.eslint.org
-*.eslint.org
 archive.eslint.org
 explorer.eslint.org
 fr.eslint.org

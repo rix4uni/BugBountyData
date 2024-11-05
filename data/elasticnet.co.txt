@@ -150,7 +150,6 @@ es.yellowsector.inf.elasticnet.co
 kibana.yellowsector.inf.elasticnet.co
 kibana-app.yellowsector.inf.elasticnet.co
 fleet.zocalo.inf.elasticnet.co
-www.signal.inf.elasticnet.co
 terraform-lab.chris-test.dev.inf.elasticnet.co
 helloworld.spencer-eck-test.dev.inf.elasticnet.co
 code-ci-master.elastic-ci-prod.us-central1-a.gcp.elasticnet.co
@@ -4804,7 +4803,6 @@ sheknows-tagan.coalfire-ece-test.dev.inf.elasticnet.co
 p02.coalfire-ece-test.dev.inf.elasticnet.co
 listingphotos.coalfire-ece-test.dev.inf.elasticnet.co
 akamaiadmin.coalfire-ece-test.dev.inf.elasticnet.co
-www.elasticnet.co
 betlegoligaoyulechengpentest.cloudfront.coalfire-ece-test.dev.inf.elasticnet.co
 testpentest.coalfire-ece-test.dev.inf.elasticnet.co
 pentest.cloudfront.cdopic.coalfire-ece-test.dev.inf.elasticnet.co

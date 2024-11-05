@@ -1,9 +1,8 @@
-*.autoblog.com
-*.checkout.autoblog.com
-*.cms.dev.autoblog.com
-*.dev.autoblog.com
-*.fleks.cms.dev.autoblog.com
-*.fleks.dev.autoblog.com
+checkout.autoblog.com
+cms.dev.autoblog.com
+dev.autoblog.com
+fleks.cms.dev.autoblog.com
+fleks.dev.autoblog.com
 1000www.autoblog.com
 52145229.autoblog.com
 a.autoblog.com
@@ -23,13 +22,11 @@ ca.autoblog.com
 ca.news.autoblog.com
 carscoop.autoblog.com
 certisign.git.autoblog.com
-checkout.autoblog.com
 chicago-auto-show.autoblog.com
 chiese.autoblog.com
 chinese.autoblog.com
 cms.autoblog.com
 cms.aws.autoblog.com
-cms.dev.autoblog.com
 cn.autoblog.com
 co.jp.autoblog.com
 commetsmigtest.sandbox.autoblog.com
@@ -37,7 +34,6 @@ conceptcars.autoblog.com
 convertibles.autoblog.com
 de.autoblog.com
 detroit-auto-show.autoblog.com
-dev.autoblog.com
 dev.checkout.autoblog.com
 dev.sandbox.green.autoblog.com
 develop.autoblog.com
@@ -47,8 +43,6 @@ es.autoblog.com
 feeds.autoblog.com
 fleks-origin.staging.autoblog.com
 fleks-staging.autoblog.com
-fleks.cms.dev.autoblog.com
-fleks.dev.autoblog.com
 footer-change.sandbox.ca.autoblog.com
 forum.autoblog.com
 fr.autoblog.com
@@ -123,22 +117,8 @@ wagons.autoblog.com
 wp.cms.autoblog.com
 wp.cms.dev.autoblog.com
 ww.autoblog.com
-www.autoblog.com
-www.ask.autoblog.com
-www.autoblog.autoblog.com
-www.carscoop.autoblog.com
-www.de.autoblog.com
-www.detroit-auto-show.autoblog.com
-www.es.autoblog.com
-www.gadgets.autoblog.com
-www.green.autoblog.com
-www.i.autoblog.com
-www.japan.jp.autoblog.com
-www.jp.autoblog.com
-www.sports.autoblog.com
-www.spyphotos.autoblog.com
-www.yahoo.co.jp.autoblog.com
-www.yahoo.o.jp.autoblog.com
+autoblog.autoblog.com
+japan.jp.autoblog.com
 yahoo.co.jp.autoblog.com
 yahoo.o.jp.autoblog.com
 h-135-207-134-93.autoblog.com
@@ -170,7 +150,6 @@ homepage1.autoblog.com
 searchportal-dev.autoblog.com
 cim-qa.autoblog.com
 100www.autoblog.com
-www.minivans.autoblog.com
 search-dev.autoblog.com
 ycorona-demail3-90-5.autoblog.com
 tribunale.autoblog.com
@@ -204,7 +183,7 @@ shop.autoblog.com
 searchportal.autoblog.com
 cim-service-uat.autoblog.com
 docker.autoblog.com
-www.autoblog.com_www.autoblog.com
+autoblog.com_www.autoblog.com
 apple-trade.autoblog.com
 static.autoblog.com
 hdo9-6823-devcoronao8dehamster.autoblog.com
@@ -253,7 +232,7 @@ cakirhosting-facebook.autoblog.com
 provincia.autoblog.com
 cim-api.autoblog.com
 virus-flag.autoblog.com
-www.germanyanz-note.autoblog.com
+germanyanz-note.autoblog.com
 cs.autoblog.com
 cpapmask-email.autoblog.com
 devcoronapc7ogu-jemima.autoblog.com
@@ -314,7 +293,7 @@ fbdevcoronao8dehamster.autoblog.com
 comhow.autoblog.com
 sites.autoblog.com
 beta.autoblog.com
-www.sphanish.autoblog.com
+sphanish.autoblog.com
 corp.autoblog.com
 content.autoblog.com
 liveupdate.autoblog.com
@@ -445,7 +424,6 @@ elastic.autoblog.com
 bf1-beacon71.autoblog.com
 sg3twitch.autoblog.com
 www2.autoblog.com
-www.ch.autoblog.com
 demo.autoblog.com
 symposium.autoblog.com
 theverybestcats.autoblog.com
@@ -552,7 +530,7 @@ state-distance.autoblog.com
 tunertuesdays.autoblog.com
 a7e6ade1-d83c-4faa-bcc8-dc4618d3dd26.autoblog.com
 distancelearnpre.autoblog.com
-www.autoblog.comwww.autoblog.com
+autoblog.comwww.autoblog.com
 kimono-united-com.autoblog.com
 autodiscover.autoblog.com
 maskerade-rwd.autoblog.com
@@ -586,7 +564,6 @@ ycorona-demail3-90-6testory31-iq4tdpr-fe.autoblog.com
 device2909592-726e34d1-local.autoblog.com
 admin-zuqiuyuceliebiao.autoblog.com
 gqv.autoblog.com
-www.motorsports.autoblog.com
 carbuying.autoblog.com
 tccdev1167949386d2df425devecom.autoblog.com
 imask-15.autoblog.com
@@ -613,7 +590,6 @@ device2319750-79eca7be.autoblog.com
 mascara1865mail1-devnewsletters.autoblog.com
 devcorona-daiko-netip186ycs.autoblog.com
 kubernetes.autoblog.com
-www.podcast.autoblog.com
 mascara1865arkgw.autoblog.com
 pay.autoblog.com
 facemaskpro-c57.autoblog.com
@@ -642,7 +618,6 @@ webmail.autoblog.com
 hybridz.autoblog.com
 faq.autoblog.com
 cim-service-dev.autoblog.com
-autoblog.autoblog.com
 bbs.autoblog.com
 sg3staging.autoblog.com
 union.autoblog.com
@@ -657,7 +632,6 @@ adevcorona-mech-9.autoblog.com
 imaskar-bm1.autoblog.com
 japanese.autoblog.com
 promo-image-fix.sandbox.autoblog.com
-www.cnn.autoblog.com
 localhost.autoblog.com
 aijieniport01corona-demail1-4-9-2ends8.autoblog.com
 euabvspamquarantine-1.autoblog.com
@@ -688,7 +662,7 @@ dns1.autoblog.com
 cse.autoblog.com
 device3012404-2eea5936.autoblog.com
 corona-daiko-netip186ycs.autoblog.com
-www.au.autoblog.com
+au.autoblog.com
 device2046940-0d5fc2be-local.autoblog.com
 rootsweb.autoblog.com
 wwa.autoblog.com
@@ -2159,6 +2133,5 @@ activeupdate.autoblog.com
 cagassi.autoblog.com
 slowradio.autoblog.com
 gucenetwork-ip.autoblog.com
-japan.jp.autoblog.com
 8apan.jp.autoblog.com
 ca.green.autoblog.com

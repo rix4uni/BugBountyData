@@ -1,7 +1,6 @@
 acc-sso.myonlinestore.com
 sso.myonlinestore.com
 status.myonlinestore.com
-www.myonlinestore.com
 postfixadmin.stage.myonlinestore.com
 pop3.myonlinestore.com
 smtp.myonlinestore.com
@@ -22,7 +21,6 @@ ns2.myonlinestore.com
 ns1.myonlinestore.com
 mail.myonlinestore.com
 mail.stage.myonlinestore.com
-*.myonlinestore.com
 webmail.myonlinestore.com
 webmail.stage.myonlinestore.com
 connect.myonlinestore.com

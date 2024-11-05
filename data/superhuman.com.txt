@@ -14,7 +14,6 @@ new.superhuman.com
 metabase.admin.superhuman.com
 admin.auth.superhuman.com
 blog.superhuman.com
-www.superhuman.com
 emojis.superhuman.com
 trust.superhuman.com
 media.superhuman.com
@@ -23,12 +22,9 @@ help.superhuman.com
 outreach-link.superhuman.com
 alerts-link.superhuman.com
 get.superhuman.com
-www.blog.superhuman.com
 mail.superhuman.com
-*.superhuman.com
 mail-staging.superhuman.com
 web.superhuman.com
-www.r.superhuman.com
 media-staging.superhuman.com
 breakpad.superhuman.com
 breakpad-staging.superhuman.com

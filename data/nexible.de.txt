@@ -25,7 +25,6 @@ startupwoche.nexible.de
 kibana.cluster.nexible.de
 es-kopf.nexible.de
 confluence.r53.nexible.de
-www.nexible.de
 linkgen.nexible.de
 cms.nexible.de
 feature.nexible.de
@@ -168,4 +167,3 @@ feat-fron-1691.nonprod.nexible.de
 chore-cleanup.nonprod.nexible.de
 chore-caching.nonprod.nexible.de
 usertest-antragsstrecke-at.nonprod.nexible.de
-*.cluster.nx-nonprod.nexible.de

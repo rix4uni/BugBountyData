@@ -1,12 +1,12 @@
-*.faas.k1.dubai-1.cloud.gcore.com
+faas.k1.dubai-1.cloud.gcore.com
 roadmap.gcore.com
 arena-manager.cloud.gcore.com
-*.faas.k1.darmstadt-1.cloud.gcore.com
+faas.k1.darmstadt-1.cloud.gcore.com
 cw-logs.k1.luxembourg-2.cloud.gcore.com
 cdn.gamever.gcore.com
 accounts.gamever.gcore.com
 cloud.gamever.gcore.com
 auth.gamever.gcore.com
-*.k-box-dev-1.manassas-1.cloud.gcore.com
-*.k-box-dev-1.luxembourg-2.cloud.gcore.com
-*.k1.amsterdam-1.cloud.gcore.com
+k-box-dev-1.manassas-1.cloud.gcore.com
+k-box-dev-1.luxembourg-2.cloud.gcore.com
+k1.amsterdam-1.cloud.gcore.com

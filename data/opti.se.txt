@@ -6,7 +6,6 @@ app.opti.se
 app.prod.opti.se
 vpn.opti.se
 dev.opti.se
-www.opti.se
 docker.opti.se
 prod.opti.se
 meta.dev.opti.se
@@ -32,7 +31,6 @@ api.dev.opti.se
 integrations.prod.opti.se
 int.prod.opti.se
 int.opti.se
-www.fondab.prod.opti.se
 fondab.prod.opti.se
 monitor.dev.opti.se
 analytics.dev.opti.se
@@ -57,7 +55,7 @@ this.opti.se
 smtp.opti.se
 smtp-2.opti.se
 bra.opti.se
-www.fondab.dev.opti.se
+fondab.dev.opti.se
 agent.opti.se
 cart.opti.se
 _ugv.opti.se
@@ -69,7 +67,6 @@ config.opti.se
 _uav.opti.se
 mpc.opti.se
 smpc.opti.se
-fondab.dev.opti.se
 self.opti.se
 br2.opti.se
 com.mcmp.costbe.opti.se

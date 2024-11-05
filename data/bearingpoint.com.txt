@@ -66,7 +66,7 @@ jira-devops-platform.bearingpoint.com
 host161-231.bscdev.bearingpoint.com
 host179.bscdev.bearingpoint.com
 annualmeetingofpartners2022password.bearingpoint.com
-www.edge-license.bearingpoint.com
+edge-license.bearingpoint.com
 careers.bearingpoint.com
 storage.bearingpoint.com
 host36.bscdev.bearingpoint.com
@@ -80,7 +80,7 @@ host224.bscdev.bearingpoint.com
 ui.sinlog.demo.az.bearingpoint.com
 ticket.bearingpoint.com
 host140.bscdev.bearingpoint.com
-www.monitor-agrana.bearingpoint.com
+monitor-agrana.bearingpoint.com
 host161-56.bscdev.bearingpoint.com
 host219.bscdev.bearingpoint.com
 heimdall.bearingpoint.com
@@ -105,7 +105,7 @@ citrix.bmw.fstl.bearingpoint.com
 host14.bscdev.bearingpoint.com
 bff.sinlog.live.az.bearingpoint.com
 rtsm.bearingpoint.com
-www.colortool.bearingpoint.com
+colortool.bearingpoint.com
 host161-208.bscdev.bearingpoint.com
 host170.bscdev.bearingpoint.com
 host161-159.bscdev.bearingpoint.com
@@ -118,8 +118,7 @@ crowd.bearingpoint.com
 carrieresluxembourg.bearingpoint.com
 host161-102.bscdev.bearingpoint.com
 host161-235.bscdev.bearingpoint.com
-www.ci-devops-resource-platform.bearingpoint.com
-www.bearingpoint.com
+ci-devops-resource-platform.bearingpoint.com
 begrzfc03.bearingpoint.com
 kuard.dev.gc.bearingpoint.com
 host107.bscdev.bearingpoint.com
@@ -139,7 +138,7 @@ toscadqa.bearingpoint.com
 bess-fisheye.bearingpoint.com
 host102.bscdev.bearingpoint.com
 staging.ps.bearingpoint.com
-www.ssi-poc-sac.bearingpoint.com
+ssi-poc-sac.bearingpoint.com
 host161-85.bscdev.bearingpoint.com
 bipro490.agreeandsign.bearingpoint.com
 host161-63.bscdev.bearingpoint.com
@@ -180,7 +179,7 @@ app.bearingpoint.com
 host161-188.bscdev.bearingpoint.com
 host161-5.bscdev.bearingpoint.com
 smtp-out1.bearingpoint.com
-www.digital-credit-navigator.bearingpoint.com
+digital-credit-navigator.bearingpoint.com
 host154.bscdev.bearingpoint.com
 sfb-edge10-access.bearingpoint.com
 lcovpn.bscdev.bearingpoint.com
@@ -198,9 +197,9 @@ host161-170.bscdev.bearingpoint.com
 host161-210.bscdev.bearingpoint.com
 guestportal.bearingpoint.com
 host161-100.bscdev.bearingpoint.com
-www.regtechtraining.bearingpoint.com
+regtechtraining.bearingpoint.com
 host161-21.bscdev.bearingpoint.com
-www.samsc.bearingpoint.com
+samsc.bearingpoint.com
 host195.bscdev.bearingpoint.com
 bhs-poc-sac.bearingpoint.com
 toolbox.bearingpoint.com
@@ -212,7 +211,6 @@ knowminer-test.bearingpoint.com
 bess-grafana.bearingpoint.com
 host55.bscdev.bearingpoint.com
 iaasvault.bearingpoint.com
-www.web3lab.bearingpoint.com
 host161-219.bscdev.bearingpoint.com
 host192.bscdev.bearingpoint.com
 samsctest.bearingpoint.com
@@ -225,7 +223,6 @@ host161-80.bscdev.bearingpoint.com
 dash-devops-platform.bearingpoint.com
 host161-69.bscdev.bearingpoint.com
 host161-250.bscdev.bearingpoint.com
-www.bhs-poc-sac.bearingpoint.com
 cloud.bearingpoint.com
 host152.bscdev.bearingpoint.com
 docs.bearingpoint.com
@@ -253,7 +250,6 @@ host161-94.bscdev.bearingpoint.com
 regulator.fstl.bearingpoint.com
 smtp01-o365.bearingpoint.com
 host71.bscdev.bearingpoint.com
-regtechtraining.bearingpoint.com
 crowd-devops-platform.bearingpoint.com
 host120.bscdev.bearingpoint.com
 smtp-abacus-ms.bearingpoint.com
@@ -286,23 +282,19 @@ vpntest.bearingpoint.com
 host123.bscdev.bearingpoint.com
 host161-121.bscdev.bearingpoint.com
 journey.sinlog.live.az.bearingpoint.com
-www.hi.bearingpoint.com
-www.toscadqa.bearingpoint.com
 host161-53.bscdev.bearingpoint.com
 host51.bscdev.bearingpoint.com
 host27.bscdev.bearingpoint.com
 lyncdiscoverinternal.dev.bearingpoint.com
 ciscovpn.bearingpoint.com
-www.maintain.bearingpoint.com
 host148.bscdev.bearingpoint.com
 host38.bscdev.bearingpoint.com
-www.amra.bearingpoint.com
+amra.bearingpoint.com
 host161-217.bscdev.bearingpoint.com
 host221.bscdev.bearingpoint.com
 host3.bscdev.bearingpoint.com
 host54.bscdev.bearingpoint.com
 host92.bscdev.bearingpoint.com
-ssi-poc-sac.bearingpoint.com
 host161-101.bscdev.bearingpoint.com
 host161-30.bscdev.bearingpoint.com
 host161-31.bscdev.bearingpoint.com
@@ -322,7 +314,7 @@ b.lb.az.bearingpoint.com
 host121.bscdev.bearingpoint.com
 host25.bscdev.bearingpoint.com
 meet.bearingpoint.com
-www.samsccognos.bearingpoint.com
+samsccognos.bearingpoint.com
 host161-145.bscdev.bearingpoint.com
 host161-24.bscdev.bearingpoint.com
 hello.sinlog-dev.az.bearingpoint.com
@@ -334,7 +326,7 @@ searchcode-a1on.bearingpoint.com
 be.bearingpoint.com
 host48.bscdev.bearingpoint.com
 newbanking.bearingpoint.com
-www.caruna-hfm-dev.bearingpoint.com
+caruna-hfm-dev.bearingpoint.com
 host161-48.bscdev.bearingpoint.com
 host211.bscdev.bearingpoint.com
 host171.bscdev.bearingpoint.com
@@ -356,7 +348,7 @@ bess-git.bearingpoint.com
 host161-76.bscdev.bearingpoint.com
 host49.bscdev.bearingpoint.com
 host88.bscdev.bearingpoint.com
-www.rpa.bearingpoint.com
+rpa.bearingpoint.com
 hspd12.bearingpoint.com
 host161-168.bscdev.bearingpoint.com
 host161-176.bscdev.bearingpoint.com
@@ -377,7 +369,7 @@ api-gateway.cicd.demo.bearingpoint.com
 host132.bscdev.bearingpoint.com
 host241.bscdev.bearingpoint.com
 host6.bscdev.bearingpoint.com
-www.smtp-hybrid.bearingpoint.com
+smtp-hybrid.bearingpoint.com
 kafka-ui.admin.demo.dsa.az.bearingpoint.com
 host117.bscdev.bearingpoint.com
 portal.bearingpoint.com
@@ -407,7 +399,7 @@ host161-10.bscdev.bearingpoint.com
 connectedcar.bearingpoint.com
 myseasonsgreetings.bearingpoint.com
 host161-136.bscdev.bearingpoint.com
-www.networkaccess02.bearingpoint.com
+networkaccess02.bearingpoint.com
 eventapp.bearingpoint.com
 anewthing.bearingpoint.com
 host161-128.bscdev.bearingpoint.com
@@ -422,8 +414,7 @@ daconnect.bearingpoint.com
 host87.bscdev.bearingpoint.com
 host205.bscdev.bearingpoint.com
 host252.bscdev.bearingpoint.com
-www.heimdall.bearingpoint.com
-www.behorizon.bearingpoint.com
+behorizon.bearingpoint.com
 xray-devops-platform.bearingpoint.com
 host250.bscdev.bearingpoint.com
 newthinking.bearingpoint.com
@@ -436,7 +427,7 @@ host159.bscdev.bearingpoint.com
 host161-108.bscdev.bearingpoint.com
 nftexperience.bearingpoint.com
 sonar-devops-platform.bearingpoint.com
-www.innovation.bearingpoint.com
+innovation.bearingpoint.com
 filetransfer.bearingpoint.com
 host100.bscdev.bearingpoint.com
 host161-19.bscdev.bearingpoint.com
@@ -462,8 +453,6 @@ askyou.bearingpoint.com
 cd.bearingpoint.com
 host145.bscdev.bearingpoint.com
 host44.bscdev.bearingpoint.com
-www.benchmark.bearingpoint.com
-behorizon.bearingpoint.com
 csomrom-docker-artifactory-devops-platform.bearingpoint.com
 host161-161.bscdev.bearingpoint.com
 host161-40.bscdev.bearingpoint.com
@@ -475,7 +464,6 @@ ch.bearingpoint.com
 cloud-staging.bearingpoint.com
 meet.dev.bearingpoint.com
 sfb-edge10-webconf.bearingpoint.com
-ci-devops-resource-platform.bearingpoint.com
 host161-162.bscdev.bearingpoint.com
 host161-120.bscdev.bearingpoint.com
 host161-244.bscdev.bearingpoint.com
@@ -488,7 +476,7 @@ mail.bscdev.bearingpoint.com
 bess-vault.bearingpoint.com
 kafka-ui.admin.qa.dsa.az.bearingpoint.com
 host251.bscdev.bearingpoint.com
-www.behorizon01.bearingpoint.com
+behorizon01.bearingpoint.com
 finance.bearingpoint.com
 host10.bscdev.bearingpoint.com
 host161-50.bscdev.bearingpoint.com
@@ -522,7 +510,6 @@ host161-132.bscdev.bearingpoint.com
 host161-7.bscdev.bearingpoint.com
 host124.bscdev.bearingpoint.com
 oldprodvpn.mso.tyc.bearingpoint.com
-edge-license.bearingpoint.com
 strategy.bearingpoint.com
 host161-143.bscdev.bearingpoint.com
 host161-75.bscdev.bearingpoint.com
@@ -535,7 +522,6 @@ host173.bscdev.bearingpoint.com
 bebot.bearingpoint.com
 smtp02-t.bearingpoint.com
 blog.bearingpoint.com
-rpa.bearingpoint.com
 10.72.104.128www.bearingpoint.com
 eroom.bearingpoint.com
 bezrhfc01.bearingpoint.com
@@ -587,7 +573,7 @@ beparvpn.bearingpoint.com
 emea.bearingpoint.com
 host20.bscdev.bearingpoint.com
 signature.bearingpoint.com
-www.demevent.bearingpoint.com
+demevent.bearingpoint.com
 ws.bearingpoint.com
 host144.bscdev.bearingpoint.com
 host161-218.bscdev.bearingpoint.com
@@ -595,9 +581,8 @@ dk.bearingpoint.com
 nordiccareers.bearingpoint.com
 dsa.bearingpoint.com
 bess-bitbucket.bearingpoint.com
-www.consulting-karriere.bearingpoint.com
+consulting-karriere.bearingpoint.com
 host208.bscdev.bearingpoint.com
-samsccognos.bearingpoint.com
 abacus-ms-simu.bearingpoint.com
 host161-38.bscdev.bearingpoint.com
 host68.bscdev.bearingpoint.com
@@ -649,7 +634,6 @@ eta-gps-signal-simulator.dev.gc.bearingpoint.com
 host160.bscdev.bearingpoint.com
 host161-122.bscdev.bearingpoint.com
 host81.bscdev.bearingpoint.com
-www.bess-cf.bearingpoint.com
 lyncproxy.bearingpoint.com
 energypoint.bearingpoint.com
 tysvpn.bscdev.bearingpoint.com
@@ -674,7 +658,6 @@ wsusext.bearingpoint.com
 host138.bscdev.bearingpoint.com
 host161-239.bscdev.bearingpoint.com
 host242.bscdev.bearingpoint.com
-behorizon01.bearingpoint.com
 host161-116.bscdev.bearingpoint.com
 host233.bscdev.bearingpoint.com
 argus.bearingpoint.com
@@ -713,7 +696,6 @@ abacus.bearingpoint.com
 host103.bscdev.bearingpoint.com
 host161-171.bscdev.bearingpoint.com
 host31.bscdev.bearingpoint.com
-samsc.bearingpoint.com
 regtechmoodle.bearingpoint.com
 access.bearingpoint.com
 host.igdc.bearingpoint.com
@@ -741,7 +723,6 @@ opennet.bearingpoint.com
 fire.bearingpoint.com
 becxolx16.bearingpoint.com
 host58.bscdev.bearingpoint.com
-www.apncluster.bearingpoint.com
 host161-240.bscdev.bearingpoint.com
 nl.bearingpoint.com
 regtechmoodle-dev.bearingpoint.com
@@ -757,7 +738,7 @@ antragsmanagement-mv.bearingpoint.com
 fmcclabprod.bearingpoint.com
 host161-142.bscdev.bearingpoint.com
 host161-114.bscdev.bearingpoint.com
-www.ps.bearingpoint.com
+ps.bearingpoint.com
 prodvpn.mso.tyc.bearingpoint.com
 seniorconsultant.sapjobs.bearingpoint.com
 int.dsa.az.bearingpoint.com
@@ -811,7 +792,6 @@ fmcclabuat.bearingpoint.com
 fileexchange.bearingpoint.com
 host39.bscdev.bearingpoint.com
 svovpn.bscdev.bearingpoint.com
-caruna-hfm-dev.bearingpoint.com
 smtp01.bearingpoint.com
 bess-joomla-live.bearingpoint.com
 host206.bscdev.bearingpoint.com
@@ -819,7 +799,6 @@ host147.bscdev.bearingpoint.com
 host161-201.bscdev.bearingpoint.com
 bff.sinlog.demo.az.bearingpoint.com
 host146.bscdev.bearingpoint.com
-monitor-agrana.bearingpoint.com
 host161-61.bscdev.bearingpoint.com
 host45.bscdev.bearingpoint.com
 bewelcome.bearingpoint.com
@@ -858,19 +837,16 @@ becxolx17.bearingpoint.com
 intraspect3.bearingpoint.com
 host135.bscdev.bearingpoint.com
 host161-224.bscdev.bearingpoint.com
-amra.bearingpoint.com
 connect.bearingpoint.com
 host161-105.bscdev.bearingpoint.com
 spiritapp.bearingpoint.com
 gps-signal-simulation-service.prod.gc.bearingpoint.com
 prod.cicd.demo.bearingpoint.com
-smtp-hybrid.bearingpoint.com
 host141.bscdev.bearingpoint.com
 meetthemc.bearingpoint.com
 dev.az.bearingpoint.com
 host62.bscdev.bearingpoint.com
 host161-119.bscdev.bearingpoint.com
-innovation.bearingpoint.com
 smtp.bearingpoint.com
 host64.bscdev.bearingpoint.com
 admin.int.dsa.az.bearingpoint.com
@@ -895,13 +871,11 @@ activemanagerapi.bearingpoint.com
 dependency-track.bearingpoint.com
 host161-175.bscdev.bearingpoint.com
 host161-41.bscdev.bearingpoint.com
-www.agrana-poc-sac.bearingpoint.com
 stories.bearingpoint.com
 host161-103.bscdev.bearingpoint.com
 host41.bscdev.bearingpoint.com
 host161-67.bscdev.bearingpoint.com
 host189.bscdev.bearingpoint.com
-www.dcncluster.bearingpoint.com
 host118.bscdev.bearingpoint.com
 host161-134.bscdev.bearingpoint.com
 host161-130.bscdev.bearingpoint.com
@@ -910,14 +884,12 @@ webmail.bearingpoint.com
 accelerators.bearingpoint.com
 ess-be.bearingpoint.com
 host161-90.bscdev.bearingpoint.com
-networkaccess02.bearingpoint.com
 easytax-ci.bearingpoint.com
 host161-28.bscdev.bearingpoint.com
 host161-59.bscdev.bearingpoint.com
 lyncdiscoverinternal.bearingpoint.com
 nycvpn.bscdev.bearingpoint.com
 annualmeetingofpartners2023password.bearingpoint.com
-digital-credit-navigator.bearingpoint.com
 gitlab.gc.bearingpoint.com
 host161-254.bscdev.bearingpoint.com
 host161-99.bscdev.bearingpoint.com
@@ -929,11 +901,8 @@ host122.bscdev.bearingpoint.com
 host161-155.bscdev.bearingpoint.com
 smtp02-b.bearingpoint.com
 aovpn.bearingpoint.com
-consulting-karriere.bearingpoint.com
 gitlab-restore.gc.bearingpoint.com
-colortool.bearingpoint.com
 host161-45.bscdev.bearingpoint.com
-www.caruna-hfm-prod.bearingpoint.com
 host161-242.bscdev.bearingpoint.com
 host161-68.bscdev.bearingpoint.com
 systemhealth.bearingpoint.com
@@ -941,10 +910,8 @@ host63.bscdev.bearingpoint.com
 nexus3-devops-platform.bearingpoint.com
 host12.bscdev.bearingpoint.com
 host161-87.bscdev.bearingpoint.com
-ps.bearingpoint.com
 host4.bscdev.bearingpoint.com
 host93.bscdev.bearingpoint.com
-www.adaptive-project-navigator.bearingpoint.com
 api.dev.gc.bearingpoint.com
 blogrh.bearingpoint.com
 host184.bscdev.bearingpoint.com
@@ -960,11 +927,8 @@ host161-233.bscdev.bearingpoint.com
 host175.bscdev.bearingpoint.com
 atgrzstg10.bearingpoint.com
 altsignin.bearingpoint.com
-www.signin.bearingpoint.com
-www.altsignin.bearingpoint.com
 signin.bearingpoint.com
 dutydates.bearingpoint.com
-www.som.bearingpoint.com
 adoinsnow.bearingpoint.com
 admin-m.demo.dsa.az.bearingpoint.com
 adminevents.demo.dsa.az.bearingpoint.com
@@ -990,7 +954,7 @@ does-no-exist33.admin.rtsm.az.bearingpoint.com
 int-admin.demo.dsa.az.bearingpoint.com
 s-ui.admin.demo.dsa.az.bearingpoint.com
 qa-elb.dsa.az.bearingpoint.com
-www.assessmenttoolkit.bearingpoint.com
+assessmenttoolkit.bearingpoint.com
 kafka-uijuly.admin.rtsm-demo.dsa.az.bearingpoint.com
 apielb.sinlog.live.az.bearingpoint.com
 6.qa.dsa.az.bearingpoint.com
@@ -1242,7 +1206,6 @@ ui-pay.sinlog.dev.az.bearingpoint.com
 nautilus-ui.admin.demo.dsa.az.bearingpoint.com
 rtsmrestrict.dsa.az.bearingpoint.com
 boardsrtsm.dsa.az.bearingpoint.com
-www.bff.sinlog.demo.az.bearingpoint.com
 brand-ui.admin.demo.dsa.az.bearingpoint.com
 lanhello.sinlog.live.az.bearingpoint.com
 reset-admin.rtsm.dsa.az.bearingpoint.com
@@ -1629,7 +1592,6 @@ fw-demo.dsa.az.bearingpoint.com
 18-ui.sinlog.dev.az.bearingpoint.com
 apiweb.sinlog.dev.az.bearingpoint.com
 repository-ui.admin.rtsm-demo.dsa.az.bearingpoint.com
-www.kafka-ui.admin.int.dsa.az.bearingpoint.com
 adminghcpi.qa.dsa.az.bearingpoint.com
 jinxkafka-ui.admin.demo.dsa.az.bearingpoint.com
 wkafka-ui.admin.rtsm-demo.dsa.az.bearingpoint.com
@@ -1672,7 +1634,6 @@ kafka-uip.admin.rtsm.dsa.az.bearingpoint.com
 adminv.rtsm.dsa.az.bearingpoint.com
 formsadmin.rtsm.dsa.az.bearingpoint.com
 kafka-y.admin.demo.dsa.az.bearingpoint.com
-www.int.dsa.az.bearingpoint.com
 hellor.sinlog.dev.az.bearingpoint.com
 admin-g.rtsm-demo.az.bearingpoint.com
 demo-prod.dsa.az.bearingpoint.com
@@ -3136,7 +3097,6 @@ swagger-admin.qa.dsa.az.bearingpoint.com
 las-rtsm.dsa.az.bearingpoint.com
 mail-journey.sinlog.dev.az.bearingpoint.com
 privdemo.dsa.az.bearingpoint.com
-www.rtsm-demo.az.bearingpoint.com
 june-api.sinlog.live.az.bearingpoint.com
 vi-admin.rtsm-demo.az.bearingpoint.com
 demoprod.dsa.az.bearingpoint.com
@@ -3807,7 +3767,6 @@ api-docs-kafka-ui.admin.rtsm.az.bearingpoint.com
 data-admin.live.dsa.az.bearingpoint.com
 dropkafka-ui.admin.demo.dsa.az.bearingpoint.com
 adminb.rtsm-demo.dsa.az.bearingpoint.com
-www.live.dsa.az.bearingpoint.com
 springapi.sinlog.live.az.bearingpoint.com
 journeychef.sinlog.dev.az.bearingpoint.com
 g1.demo.dsa.az.bearingpoint.com
@@ -3907,7 +3866,6 @@ newadmin.qa.dsa.az.bearingpoint.com
 thissubdomainshouldonlyresolveifwildcard.admin.int.dsa.az.bearingpoint.com
 api-0.sinlog.dev.az.bearingpoint.com
 team-hello.sinlog.dev.az.bearingpoint.com
-www.bff.sinlog.dev.az.bearingpoint.com
 ipv4.dsa.az.bearingpoint.com
 brandadmin.demo.dsa.az.bearingpoint.com
 qanl.dsa.az.bearingpoint.com
@@ -4043,7 +4001,6 @@ ui-profile.sinlog.dev.az.bearingpoint.com
 latin-journey.sinlog.dev.az.bearingpoint.com
 admin-server.rtsm-demo.dsa.az.bearingpoint.com
 euwe-admin.rtsm.dsa.az.bearingpoint.com
-www.api.sinlog.dev.az.bearingpoint.com
 t-ui.admin.demo.dsa.az.bearingpoint.com
 journey-mon.sinlog.dev.az.bearingpoint.com
 journey-internal.sinlog.dev.az.bearingpoint.com
@@ -4184,7 +4141,6 @@ tomcatadmin.rtsm-demo.az.bearingpoint.com
 systemdemo.dsa.az.bearingpoint.com
 uistage1.sinlog.dev.az.bearingpoint.com
 qagit.dsa.az.bearingpoint.com
-www.bff.sinlog.live.az.bearingpoint.com
 originjourney.sinlog.dev.az.bearingpoint.com
 rrtsm.dsa.az.bearingpoint.com
 journey-net.sinlog.dev.az.bearingpoint.com
@@ -4264,7 +4220,6 @@ star.dsa.az.bearingpoint.com
 kafka-ui-dev.admin.demo.dsa.az.bearingpoint.com
 skins-journey.sinlog.dev.az.bearingpoint.com
 demoauth.dsa.az.bearingpoint.com
-www.kafka-ui.admin.rtsm-demo.az.bearingpoint.com
 devopsadmin.rtsm.dsa.az.bearingpoint.com
 devops-kafka-ui.admin.rtsm-demo.dsa.az.bearingpoint.com
 9-ui.admin.demo.dsa.az.bearingpoint.com
@@ -4295,7 +4250,6 @@ dev1kafka-ui.admin.rtsm.dsa.az.bearingpoint.com
 uismtp.sinlog.dev.az.bearingpoint.com
 journeyanalytics.sinlog.dev.az.bearingpoint.com
 uielasticbeanstalk.sinlog.dev.az.bearingpoint.com
-www.api.sinlog.live.az.bearingpoint.com
 train.rtsm-demo.az.bearingpoint.com
 live0.dsa.az.bearingpoint.com
 admin-euw.rtsm.dsa.az.bearingpoint.com
@@ -4877,7 +4831,6 @@ p-journey.sinlog.dev.az.bearingpoint.com
 qatest.dsa.az.bearingpoint.com
 demo-php.dsa.az.bearingpoint.com
 northamericaadmin.demo.dsa.az.bearingpoint.com
-www.kafka-ui.admin.live.dsa.az.bearingpoint.com
 engine-admin.rtsm.dsa.az.bearingpoint.com
 xmbpcygedc.qa.dsa.az.bearingpoint.com
 adminengine.rtsm-demo.az.bearingpoint.com
@@ -5507,7 +5460,6 @@ sinlog.demo.az.bearingpoint.com
 admin-merch.live.dsa.az.bearingpoint.com
 ui-akali.sinlog.dev.az.bearingpoint.com
 reviewsdemo.dsa.az.bearingpoint.com
-www.alumni.bearingpoint.com
 10.rtsm-demo.az.bearingpoint.com
 t.qa.dsa.az.bearingpoint.com
 turhello.sinlog.dev.az.bearingpoint.com
@@ -5694,7 +5646,6 @@ profile-admin.qa.dsa.az.bearingpoint.com
 kafka-proxy.admin.rtsm-demo.dsa.az.bearingpoint.com
 cf.sinlog.live.az.bearingpoint.com
 security-journey.sinlog.dev.az.bearingpoint.com
-www.ui.sinlog.dev.az.bearingpoint.com
 staff-ui.admin.rtsm-demo.dsa.az.bearingpoint.com
 does-no-exist33.dsa.az.bearingpoint.com
 demo6.dsa.az.bearingpoint.com

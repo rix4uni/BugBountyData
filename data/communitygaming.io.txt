@@ -27,9 +27,7 @@ admin.uat.communitygaming.io
 roninmainnetcaddy.communitygaming.io
 dev2.communitygaming.io
 hubspot.communitygaming.io
-*.prod.communitygaming.io
 prod.communitygaming.io
-*.communitygaming.io
 whitepaper.communitygaming.io
 p2.pritunl.communitygaming.io
 icons.communitygaming.io
@@ -49,14 +47,12 @@ partners.communitygaming.io
 qa.communitygaming.io
 lina.communitygaming.io
 admin.dev.communitygaming.io
-www.communitygaming.io
 dev3.communitygaming.io
 charttest.communitygaming.io
 manage.communitygaming.io
 blog.communitygaming.io
 next.communitygaming.io
 nextprod.communitygaming.io
-www.dev.communitygaming.io
 staging.communitygaming.io
 new.communitygaming.io
 roninmainnetvalidator.communitygaming.io

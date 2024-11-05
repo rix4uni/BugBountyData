@@ -1,11 +1,10 @@
-*.nextiva.com
-*.be.nextiva.com
-*.east.nextiva.com
-*.gcp.nextiva.com
-*.lab.nextiva.com
-*.nhc.nextiva.com
-*.south.nextiva.com
-*.west.nextiva.com
+be.nextiva.com
+east.nextiva.com
+gcp.nextiva.com
+lab.nextiva.com
+nhc.nextiva.com
+south.nextiva.com
+west.nextiva.com
 account.nextiva.com
 admin.nextiva.com
 analytics.nextiva.com
@@ -17,7 +16,6 @@ assets.nextiva.com
 auth.nextiva.com
 auth2.nextiva.com
 authenticate.nextiva.com
-be.nextiva.com
 business-voip.nextiva.com
 channel.nextiva.com
 cp.nextiva.com
@@ -79,7 +77,6 @@ dm6.nextiva.com
 dm7.nextiva.com
 dm8.nextiva.com
 dm9.nextiva.com
-east.nextiva.com
 eig.nextiva.com
 eng6cp4.lab.nextiva.com
 engcp1.lab.nextiva.com
@@ -104,7 +101,6 @@ exchange.nextiva.com
 fax.nextiva.com
 fax-mx1.nextiva.com
 faxportal.nextiva.com
-gcp.nextiva.com
 get.nextiva.com
 go.nextiva.com
 go.channel.nextiva.com
@@ -114,7 +110,6 @@ idp.nextiva.com
 img.nextiva.com
 it.nextiva.com
 jabber.nextiva.com
-lab.nextiva.com
 labcp1admin.nextiva.com
 labdm1.nextiva.com
 launch.nextiva.com
@@ -134,7 +129,6 @@ mcs.nextiva.com
 nextcon.nextiva.com
 nextconreg.nextiva.com
 nextos.nextiva.com
-nhc.nextiva.com
 north.nextiva.com
 np3.nextiva.com
 nps6.nextiva.com
@@ -183,7 +177,6 @@ sandbox2.lab.nextiva.com
 site1.voicemail.nextiva.com
 site4.voicemail.nextiva.com
 sms.nextiva.com
-south.nextiva.com
 sso.nextiva.com
 ssoapp.nextiva.com
 staging.nextiva.com
@@ -199,13 +192,7 @@ vfax.nextiva.com
 voicemail.nextiva.com
 voiptest.nextiva.com
 webhooks.nextiva.com
-west.nextiva.com
 wpvip.nextiva.com
-www.nextiva.com
-www.asksteve.nextiva.com
-www.engsip.lab.nextiva.com
-www.nextcon.nextiva.com
-www.nextconreg.nextiva.com
 accountmanager.nextiva.com
 admin6.lab.nextiva.com
 akixi.nextiva.com
@@ -515,7 +502,6 @@ temphw.nextiva.com
 maintsip.lab.nextiva.com
 np6.nextiva.com
 statuspage-notifications.nextiva.com
-www.recorder.nextiva.com
 labdm.nextiva.com
 zulip.nextiva.com
 labdm2.nextiva.com
@@ -570,4 +556,4 @@ em9183.nextiva.com
 hostmaster.be.nextiva.com
 smart.nextiva.com
 surgemail.voicemail.gcp.nextiva.com
-www.join.nextiva.com
+join.nextiva.com

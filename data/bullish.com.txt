@@ -82,7 +82,6 @@ sf-cdata.ext-api.pilot.bullish.com
 marketing.bullish.com
 server.bullish.com
 image.mail.bullish.com
-www.bullish.com
 ctrl.ext-api.pilot.bullish.com
 hostmaster.hostmaster.bullish.com
 cornea.exchange.bullish.com
@@ -106,14 +105,6 @@ mail5.bullish.com
 service.bullish.com
 host.bullish.com
 smtp.bullish.com
-*.bullish.com
-*.marketing.bullish.com
-*.access.bullish.com
-*.listing.bullish.com
-*.pilot.bullish.com
-*.api.pilot.bullish.com
-*.ext-api.pilot.bullish.com
-*.int-api.pilot.bullish.com
 help.bullish.com
 investors.bullish.com
 localhost.mail.bullish.com
@@ -122,7 +113,7 @@ pages.mail.bullish.com
 pv50-bistunium-k8scontour-ext.mail.bullish.com
 warriors.mail.bullish.com
 way.mail.bullish.com
-www.www.bullish.com
+www.bullish.com
 www2.bullish.com
 wwwwwebmailvjs.mail.bullish.com
 hostmaster.medialand.onboarding.bullish.com
@@ -133,7 +124,6 @@ post.bullish.com
 mart.bullish.com
 mx4.bullish.com
 mail.it.bullish.com
-www.int-api.pilot.bullish.com
 indian.bullish.com
 authsmtp.bullish.com
 proofpoint.bullish.com
@@ -147,7 +137,6 @@ mail1.bullish.com
 mx1.lay.bullish.com
 api.next.bullish.com
 mailbox.bullish.com
-www.pilot.bullish.com
 ns1.bullish.com
 e.bullish.com
 mx5.bullish.com
@@ -209,7 +198,6 @@ smtp.comune.bullish.com
 zmail.bullish.com
 mbox.bullish.com
 mailhost.bullish.com
-www.ext-api.pilot.bullish.com
 webmail.mail.bullish.com
 server1.bullish.com
 mx7.bullish.com

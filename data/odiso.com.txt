@@ -50,7 +50,6 @@ h2o-prod-prometheus.odiso.com
 cottonbird-prod-es.odiso.com
 keyclock.gcp-demo.odiso.com
 cloudgraph.odiso.com
-www.titi.odiso-sup.odiso.com
 prometheus-client1.gcp-demo.odiso.com
 adepoc-kibana.odiso.com
 fullnews-grafana.odiso.com
@@ -101,7 +100,6 @@ preprod.odiso.com
 prometheus.gcp-demo.odiso.com
 metrologie.odiso.com
 rabbit-cottonbird-prod.odiso.com
-www.odiso.com
 tikamoon-q3-prometheus.odiso.com
 cottonbird-pprd-nl.odiso.com
 bf-grafana.odiso.com

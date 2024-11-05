@@ -21,7 +21,6 @@ timesheet.astron.nl
 plm.astron.nl
 keycloak.astron.nl
 apertifwiki.astron.nl
-www.astron.nl
 sdc.astron.nl
 dop380.astron.nl
 omnify.astron.nl
@@ -61,11 +60,8 @@ ntserver31.astron.nl
 dop313.astron.nl
 wwwtest2.astron.nl
 tc.astron.nl
-www.tc.astron.nl
 vpn.astron.nl
-www.vpn.astron.nl
 maas.astron.nl
-www.support.astron.nl
 dop803.astron.nl
 dop814.astron.nl
 vo.astron.nl
@@ -76,9 +72,7 @@ dns1.astron.nl
 dns2.astron.nl
 graylog.astron.nl
 dop818.astron.nl
-www.secure-web.astron.nl
 secure-web.astron.nl
-www.act.astron.nl
 act.astron.nl
 ag001.astron.nl
 compute.astron.nl
@@ -96,7 +90,6 @@ dop288.astron.nl
 192871200.astron.nl
 mx-l-nxt.astron.nl
 dop341.astron.nl
-www.rdg.astron.nl
 xb2005.astron.nl
 intranetnew.astron.nl
 msss.astron.nl
@@ -121,7 +114,7 @@ eorstor1.astron.nl
 rad-prox.astron.nl
 ftp.astron.nl
 ifolder.astron.nl
-www.rdg2.astron.nl
+rdg2.astron.nl
 dop825.astron.nl
 smtp3.astron.nl
 pwm.astron.nl

@@ -10,7 +10,7 @@ connector-inbound-jda.us-central1.production.project44.com
 discover.project44.com
 p44-americas.project44.com
 p44documents.na.project44.com
-www.flex-viz.api.project44.com
+flex-viz.api.project44.com
 nmc.staging.project44.com
 yardapp-na12.voc.project44.com
 na-portal-armor.api.project44.com
@@ -57,7 +57,7 @@ truck-movement-insights.na.project44.com
 qcd.voc.project44.com
 sample.labs-na12.voc.project44.com
 ups.project44.com
-www.flex-viz.voc.project44.com
+flex-viz.voc.project44.com
 dd-orchestrator.europe-west1.production.project44.com
 rating-eu.voc.project44.com
 hello.project44.com
@@ -123,7 +123,6 @@ port-intel-na.voc.project44.com
 testingstatuspage.project44.com
 eu1.voc.project44.com
 statuspage.project44.com
-www.project44.com
 nmc-eu44.api.project44.com
 cca-demo.labs-na12.api.project44.com
 eu12.voc.project44.com
@@ -147,7 +146,6 @@ na-portal.api.project44.com
 btx-est-staging-mw.labs-na12.api.project44.com
 sap-lbn-connector.na.project44.com
 experience.project44.com
-flex-viz.api.project44.com
 server1.project44.com
 deliver.api.project44.com
 api.project44.com
@@ -169,7 +167,6 @@ commandcenter.project44.com
 deliver.project44.com
 p44-europe.project44.com
 gs-eu.voc.project44.com
-flex-viz.voc.project44.com
 rating-na.voc.project44.com
 p44documents.eu.project44.com
 example.labs-na12.voc.project44.com
@@ -259,7 +256,7 @@ spinnaker.mgmt.project44.com
 internal-kong-admin.sandbox.project44.com
 burrow-apps.integration.project44.com
 tableau.app.project44.com
-www.insightvm.stage.project44.com
+insightvm.stage.project44.com
 landingpage.americas.project44.com
 tenant-service.mongosync.stage.project44.com
 netbox.mgmt.project44.com
@@ -316,7 +313,6 @@ sap-lbn-connector.sandbox.project44.com
 spinnaker.cicd.project44.com
 atlantis.cicd.project44.com
 gate.spinnaker.cicd.project44.com
-www.vpn.mgmt.project44.com
 argo-rollouts.stage.project44.com
 labs-na12.voc.project44.com
 p44-connector-inbound-mg.sandbox.project44.com
@@ -329,14 +325,12 @@ argo-workflows.us-central1.integration.project44.com
 argocd.mgmt.project44.com
 argoworkflow.resources.project44.com
 argoworkflows.cicd.project44.com
-www.supplychaininsights.project44.com
 yard-visibility-na12.mqtt.na.project44.com
 europe.project44.com
 kong-admin.production.project44.com
 logs.europe-west1.production.project44.com
 spinnakerv2-test.cicd.project44.com
 unified-tracking.mongosync.integration.project44.com
-www.store.project44.com
 burrow-apps.us-west1.sandbox.project44.com
 p44-connector-inbound-mg.integration.project44.com
 api-gateway.eu.project44.com
@@ -351,7 +345,6 @@ p44-connector-inbound-abb.stage.project44.com
 internal-kong-admin.integration.project44.com
 secure.project44.com
 connector-inbound-otm.us-central1.production.project44.com
-www.global.project44.com
 burrow-logs.mgmt.project44.com
 yard-visibility-na12.mqtt.integration.project44.com
 connector-inbound-3gtms.sandbox.project44.com
@@ -361,7 +354,6 @@ connector-inbound-otm.stage.project44.com
 na12-labs.api.project44.com
 argo-rollouts.integration.project44.com
 internal-kong-admin.stage.project44.com
-www.vpn.project44.com
 yard-visibilty-na12.voc.project44.com
 yard-visibility-ui-k8s.na.project44.com
 tdx-api.americas.project44.com
@@ -392,7 +384,6 @@ connector-inbound-3gtms.stage.project44.com
 argo-rollouts.us-west1.sandbox.project44.com
 user-service-api.testing.project44.com
 nmc-eu44api.project44.com
-insightvm.stage.project44.com
 tour-internal-na12.api.project44.com
 vault.us-central1.production.project44.com
 landingpage.usdev.project44.com

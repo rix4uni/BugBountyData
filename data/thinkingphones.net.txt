@@ -28,7 +28,6 @@ cam-c4.sip.thinkingphones.net
 border-hkg.sip.thinkingphones.net
 qtw.tpn.thinkingphones.net
 vap-f4.sip.thinkingphones.net
-www.thinkingphones.net
 cam-g1.sip.thinkingphones.net
 dca-03.sip.thinkingphones.net
 edge.tpnlync.net.thinkingphones.net
@@ -174,8 +173,3 @@ cam-bp3.sip.thinkingphones.net
 plcmprov.thinkingphones.net
 hkp-bp2.sip.thinkingphones.net
 portal.thinkingphones.net
-*.tpn.thinkingphones.net
-*.qa.tpn.thinkingphones.net
-*.qtw.tpn.thinkingphones.net
-*.warden-stage.thinkingphones.net
-*.thinkingphones.net

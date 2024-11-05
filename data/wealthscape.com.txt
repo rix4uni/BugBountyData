@@ -1,6 +1,5 @@
 investor.wealthscape.com
 dmtfi.wealthscape.com
-www.wealthscape.com
 fpsmiscqa.wealthscape.com
 investorrtp1.wealthscape.com
 fpsmisxq2.wealthscape.com
@@ -8,7 +7,7 @@ advisormmk.wealthscape.com
 loginibgcqa-web.wealthscape.com
 simulatorrtp.wealthscape.com
 fpsmisxq2-old-web.wealthscape.com
-www.loginibgxq2.wealthscape.com
+loginibgxq2.wealthscape.com
 logincqa.wealthscape.com
 authorize-oma2.wealthscape.com
 fpsapi-cat.wealthscape.com
@@ -50,7 +49,6 @@ ixapirtp2.wealthscape.com
 authorizecat.wealthscape.com
 advisoroma1.wealthscape.com
 investorrtp2-proxy.wealthscape.com
-www.fpsmisxq2.wealthscape.com
 integrationxchangexq4.wealthscape.com
 alcxq3.wealthscape.com
 fpsmisweb.wealthscape.com
@@ -99,7 +97,6 @@ ecaap-oma1.wealthscape.com
 ecaapxfac-oma2.wealthscape.com
 fcappemu.retail.wealthscape.com
 ixapiadmin.retail.wealthscape.com
-loginibgxq2.wealthscape.com
 integrationxchangecatweb.wealthscape.com
 open-investorxq3-oma2.wealthscape.com
 wwwxq4.wealthscape.com
@@ -142,7 +139,6 @@ ixapiadminrtp2.wealthscape.com
 fpsapixq1.wealthscape.com
 authorize-rtp1.wealthscape.com
 investorxq1.wealthscape.com
-www.simulator.wealthscape.com
 fpsapicat-oma2.wealthscape.com
 investoroma1-proxy.wealthscape.com
 open-investorxq1web-oma2.wealthscape.com
@@ -153,8 +149,6 @@ open-investorrtp2.wealthscape.com
 failover-www.wealthscape.com
 open-investoroma1.wealthscape.com
 investorxq4-oma2.wealthscape.com
-www.advisor.wealthscape.com
-www.retail.wealthscape.com
 apexdns.wealthscape.com
 authorizexq1.wealthscape.com
 integrationxchangexq1.wealthscape.com
@@ -162,7 +156,7 @@ wwwdlxq1.wealthscape.com
 oinvestorrtp1.wealthscape.com
 advisor.retail.wealthscape.com
 investorrtp1-proxy.wealthscape.com
-www.integrationxchange.wealthscape.com
+integrationxchange.wealthscape.com
 fpsapixq1oma2.wealthscape.com
 authorizertp1.wealthscape.com
 ixapirtp1.wealthscape.com
@@ -184,7 +178,6 @@ open-investoroma2.wealthscape.com
 wwwoma1.wealthscape.com
 advisoroma2.wealthscape.com
 advisorrtp2.wealthscape.com
-www.loginxq2.wealthscape.com
 investorcat.wealthscape.com
 open-investormko.wealthscape.com
 fpsmisxq2web.wealthscape.com
@@ -197,7 +190,6 @@ dloma1.wealthscape.com
 ixapiadminoma2.wealthscape.com
 fpsapizq1.wealthscape.com
 investorcatweb.wealthscape.com
-www.loginibgcqa.wealthscape.com
 fpsapioma1.wealthscape.com
 fpsmis-rtp2.wealthscape.com
 login-rtp2.wealthscape.com
@@ -223,8 +215,6 @@ investoroma2.wealthscape.com
 open-investorxq4-oma2.wealthscape.com
 xqa3.wealthscape.com
 fpsmis-oma1.wealthscape.com
-www.fpsmiscqa.wealthscape.com
-www.logincqa.wealthscape.com
 login-oma2.wealthscape.com
 authorize-rtp2.wealthscape.com
 uao-client-nonprod.wealthscape.com
@@ -233,7 +223,6 @@ integrationxchangertp2.wealthscape.com
 login-oma1.wealthscape.com
 advisorxq1web.wealthscape.com
 fpsapirtp1.wealthscape.com
-integrationxchange.wealthscape.com
 open-investorxq3.wealthscape.com
 login.retail.wealthscape.com
 alcrtp2.wealthscape.com

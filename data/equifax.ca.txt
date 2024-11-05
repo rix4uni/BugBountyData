@@ -207,10 +207,6 @@ uatgbs.scotia.equifax.ca
 uatlfiqmrealtime.equifax.ca
 user-management.iccloud.equifax.ca
 vendorconnector.equifax.ca
-www.consumer.equifax.ca
-www.econsumer.equifax.ca
-www.equifax.ca
-www.myservices.equifax.ca
 accesspoint-ca.equifax.ca
 accesspoint-pa.equifax.ca
 accesspoint.equifax.ca
@@ -315,6 +311,4 @@ vip-mf-dev.luminate.equifax.ca
 vip-mf-prod.luminate.equifax.ca
 vip-mf-qa.luminate.equifax.ca
 vip-mf-uat.luminate.equifax.ca
-www.ignitemarketplace.equifax.ca
-www.solutions.equifax.ca
 zeus.equifax.ca

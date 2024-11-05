@@ -1,4 +1,3 @@
-*.logmeonce.com
 beta.logmeonce.com
 cdn.logmeonce.com
 explore.logmeonce.com
@@ -11,8 +10,6 @@ trk.logmeonce.com
 upm.logmeonce.com
 w1.logmeonce.com
 w2.logmeonce.com
-www.logmeonce.com
-www.upm.logmeonce.com
 00fb793b.resource.logmeonce.com
 a1-dv2.resource.logmeonce.com
 abc707-dev-ed.resource.logmeonce.com
@@ -1098,7 +1095,6 @@ lon3-pl4cassandra-b18.old2.logmeonce.com
 mss-sjc03-ngw-11-r3-900-2.old2.logmeonce.com
 pqypykueovjxhlboigdz.old2.logmeonce.com
 dcl7-ord.old2.logmeonce.com
-fww.old2.logmeonce.com
 spyker-mr-8.old2.logmeonce.com
 mailasignsectionfiles.old2.logmeonce.com
 private-pindrop-aggregator.old2.logmeonce.com
@@ -3315,7 +3311,7 @@ games.logmeonce.com
 com.logmeonce.com
 www5f.logmeonce.com
 grc2go.logmeonce.com
-www.dev.logmeonce.com
+dev.logmeonce.com
 www5d.logmeonce.com
 homepage3.logmeonce.com
 inst.logmeonce.com
@@ -3323,7 +3319,6 @@ slovari.logmeonce.com
 www5a.logmeonce.com
 web.logmeonce.com
 news.logmeonce.com
-dev.logmeonce.com
 class.logmeonce.com
 cs.logmeonce.com
 k2.logmeonce.com

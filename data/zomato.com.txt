@@ -1,4 +1,3 @@
-*.zomato.com
 148api.zomato.com
 166api.zomato.com
 1api.zomato.com
@@ -109,19 +108,6 @@ webserver4.zomato.com
 winecellar.zomato.com
 winecellar-internal.zomato.com
 ws-callcenter.zomato.com
-www.zomato.com
-www.cert1.zomato.com
-www.chat-emqx.zomato.com
-www.culture.zomato.com
-www.engineering.zomato.com
-www.payments-preprod.zomato.com
-www.success.zomato.com
-www.techblog.zomato.com
-www.trace.zomato.com
-www.traceapi.zomato.com
-www.upload.zomato.com
-www.winecellar.zomato.com
-www.zpay.zomato.com
 zpay.zomato.com
 zpay-test.zomato.com
 zpaytest.zomato.com

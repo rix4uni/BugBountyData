@@ -4,9 +4,8 @@ vpn-1c.volans.tech
 s.volans.tech
 frideath.volans.tech
 volans.volans.tech
-www.volans.tech
 1c-kz-old.volans.tech
-www.vpn-eu.volans.tech
+vpn-eu.volans.tech
 goho.volans.tech
 tc.volans.tech
 testnet.volans.tech
@@ -19,7 +18,7 @@ vpn-stage.volans.tech
 1c-work.volans.tech
 idpi.volans.tech
 hd.volans.tech
-www.wifi.volans.tech
+wifi.volans.tech
 1c-iga-sb.volans.tech
 fs.volans.tech
 hd-stage1.volans.tech
@@ -39,8 +38,7 @@ vpn-ykt-onec.volans.tech
 adm2fa.volans.tech
 tk8s.volans.tech
 airbyte.volans.tech
-www.1c-kz-vpn.volans.tech
-www.vpn-1c.volans.tech
+1c-kz-vpn.volans.tech
 vpn-msk.volans.tech
 sentinel.volans.tech
 prx2-mow2.volans.tech
@@ -62,14 +60,12 @@ februs-tg.volans.tech
 vpn-kz.volans.tech
 1c-kz.volans.tech
 hd-tg-stage.volans.tech
-vpn-eu.volans.tech
 1c-stage.volans.tech
 hd-tg.volans.tech
 hotdesk.volans.tech
 februs.volans.tech
 testing-vpn.volans.tech
 docker-hub.volans.tech
-wifi.volans.tech
 prx1-ams3.volans.tech
 wd.volans.tech
 servicedesk.volans.tech
@@ -77,7 +73,6 @@ corvus.volans.tech
 ch.volans.tech
 pi.volans.tech
 idpp.volans.tech
-1c-kz-vpn.volans.tech
 ykt-test.volans.tech
 7zfv.volans.tech
 inspectr.volans.tech
@@ -90,10 +85,6 @@ kyc-stage.volans.tech
 vm.volans.tech
 prx1.volans.tech
 ns1.volans.tech
-*.idpi.volans.tech
-*.idpp.volans.tech
-*.volans.tech
-*.tk8s.volans.tech
 p1092.wg.volans.tech
 p2012.wg.volans.tech
 p927.wg.volans.tech
@@ -258,7 +249,6 @@ p1666.wg.volans.tech
 p1851.wg.volans.tech
 p1402.wg.volans.tech
 p1767.wg.volans.tech
-www.idpi.volans.tech
 p916.wg.volans.tech
 p1449.wg.volans.tech
 p1417.wg.volans.tech
@@ -872,7 +862,6 @@ p708.wg.volans.tech
 p562.wg.volans.tech
 vpn-mx.nikita.volans.tech
 p1733.wg.volans.tech
-www.tk8s.volans.tech
 p1451.wg.volans.tech
 p41.wg.volans.tech
 p1770.wg.volans.tech
@@ -1134,7 +1123,6 @@ threestage.nikita.volans.tech
 p2133.wg.volans.tech
 p2011.wg.volans.tech
 p1366.wg.volans.tech
-www.nikita.volans.tech
 p1969.wg.volans.tech
 p1267.wg.volans.tech
 p1100.wg.volans.tech
@@ -1284,7 +1272,6 @@ p1910.wg.volans.tech
 documentation.nikita.volans.tech
 p597.wg.volans.tech
 p2235.wg.volans.tech
-www.idpp.volans.tech
 testsite.nikita.volans.tech
 p840.wg.volans.tech
 p1668.wg.volans.tech

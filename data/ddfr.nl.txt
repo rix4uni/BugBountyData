@@ -1,20 +1,16 @@
 webserver.ddfr.nl
-www.mail.ddfr.nl
-www.webmail.ddfr.nl
-www.ddfr.nl
+mail.ddfr.nl
+webmail.ddfr.nl
 mijn.ddfr.nl
 cloudsight.ddfr.nl
 ns1.ddfr.nl
-www.dnsbeheer.ddfr.nl
+dnsbeheer.ddfr.nl
 0.sub239.ddfr.nl
-webmail.ddfr.nl
-mail.ddfr.nl
 hosting.ddfr.nl
 pop3.ddfr.nl
 portaal.ddfr.nl
 mx2.ddfr.nl
 mx1.ddfr.nl
-dnsbeheer.ddfr.nl
 spamfilter.ddfr.nl
 remote.ddfr.nl
 ns2.ddfr.nl
@@ -583,7 +579,7 @@ sub160.ddfr.nl
 91.sub191.ddfr.nl
 sub179.ddfr.nl
 57.sub160.ddfr.nl
-www.prtg.ddfr.nl
+prtg.ddfr.nl
 90.sub239.ddfr.nl
 29.sub146.ddfr.nl
 110.sub237.ddfr.nl
@@ -3418,7 +3414,6 @@ outbound.ddfr.nl
 248.sub-91-106-230.ddfr.nl
 186.sub194.ddfr.nl
 173.sub229.ddfr.nl
-www.pop3.ddfr.nl
 51.185-92-81.ddfr.nl
 139.sub-91-106-226.ddfr.nl
 203.sub-91-106-226.ddfr.nl
@@ -4011,7 +4006,6 @@ sub108.ddfr.nl
 224.sub149.ddfr.nl
 87.sub182.ddfr.nl
 190.sub-91-106-231.ddfr.nl
-www.portaal.ddfr.nl
 236.sub-91-106-230.ddfr.nl
 149.sub178.ddfr.nl
 52.sub233.ddfr.nl
@@ -4285,7 +4279,6 @@ i5387acsub199.ddfr.nl
 210.sub232.ddfr.nl
 154.sub191.ddfr.nl
 138.sub160.ddfr.nl
-www.service.ddfr.nl
 sub180.ddfr.nl
 110.sub150.ddfr.nl
 14.sub-91-106-225.ddfr.nl
@@ -8918,7 +8911,6 @@ sub176.ddfr.nl
 2.184-92-81.ddfr.nl
 53.186-92-81.ddfr.nl
 218.sub184.ddfr.nl
-www.mijn.ddfr.nl
 111.sub176.ddfr.nl
 250.sub185.ddfr.nl
 166.167-186-31.ddfr.nl
@@ -9053,7 +9045,7 @@ sub-91-106-224.ddfr.nl
 232.sub-91-106-224.ddfr.nl
 45.sub166.ddfr.nl
 199.sub18.ddfr.nl
-www.web11.ddfr.nl
+web11.ddfr.nl
 128.sub183.ddfr.nl
 253.186-92-81.ddfr.nl
 97.195-136-83.ddfr.nl
@@ -11629,7 +11621,6 @@ sub-91-106-226.ddfr.nl
 67.sub197.ddfr.nl
 224.sub167.ddfr.nl
 225.sub188.ddfr.nl
-www.webserver.ddfr.nl
 130.195-136-83.ddfr.nl
 114.160-250-185.ddfr.nl
 203.sub191.ddfr.nl
@@ -11644,7 +11635,6 @@ www.webserver.ddfr.nl
 5.sub192.ddfr.nl
 133.160-250-185.ddfr.nl
 130.sub228.ddfr.nl
-web11.ddfr.nl
 97.sub-91-106-231.ddfr.nl
 78.sub190.ddfr.nl
 146.sub-91-106-229.ddfr.nl
@@ -15156,7 +15146,6 @@ nl-ams-odm-l5-bdr.ddfr.nl
 7.187-92-81.ddfr.nl
 245.184-92-81.ddfr.nl
 115.sub188.ddfr.nl
-prtg.ddfr.nl
 184.sub181.ddfr.nl
 29.187-92-81.ddfr.nl
 216.186-92-81.ddfr.nl
@@ -16312,7 +16301,6 @@ sub242.ddfr.nl
 197.23-0-37.ddfr.nl
 58.sub184.ddfr.nl
 231.sub189.ddfr.nl
-www.remote.ddfr.nl
 110.sub-91-106-224.ddfr.nl
 35.sub185.ddfr.nl
 32.sub148.ddfr.nl
@@ -17582,7 +17570,6 @@ hosting1.ddfr.nl
 196.187-92-81.ddfr.nl
 13.198-136-83.ddfr.nl
 32.sub177.ddfr.nl
-www.250.sub239.ddfr.nl
 210.sub22.ddfr.nl
 224.sub184.ddfr.nl
 46.sub16.ddfr.nl
@@ -17795,7 +17782,6 @@ nl-ams-odm-r318-bdr.ddfr.nl
 227.sub-91-106-231.ddfr.nl
 31.sub148.ddfr.nl
 38.sub146.ddfr.nl
-www.klantportaal.ddfr.nl
 220.198-136-83.ddfr.nl
 239.sub184.ddfr.nl
 158.sub-91-106-229.ddfr.nl
@@ -20447,7 +20433,6 @@ scanner01.ddfr.nl
 190.sub164.ddfr.nl
 91.sub177.ddfr.nl
 121.160-250-185.ddfr.nl
-www.hosting.ddfr.nl
 135.sub231.ddfr.nl
 79.sub151.ddfr.nl
 58.sub233.ddfr.nl
@@ -21470,4 +21455,3 @@ sub196.ddfr.nl
 106.187-92-81.ddfr.nl
 52.198-136-83.ddfr.nl
 184.sub188.ddfr.nl
-www.mx1.ddfr.nl

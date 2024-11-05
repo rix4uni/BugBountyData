@@ -2,7 +2,7 @@ sonos-na.audible.com
 highcastle.inside.audible.com
 uxresearch.audible.com
 wmp.audible.com
-www.ellen.audible.com
+ellen.audible.com
 blade-e.prod.audible.com
 ftp.audible.com
 careerjourney.audible.com
@@ -164,7 +164,6 @@ soap.prod.audible.com
 garmin.audible.com
 apimgmt.audible.com
 prometheus.audible.com
-www.audible.com
 brickcity.audible.com
 design.audible.com
 sansa.audible.com
@@ -196,7 +195,6 @@ coffee.audible.com
 impactcalendar.audible.com
 meeting1-beta.audible.com
 rewrite-test.audible.com
-ellen.audible.com
 about.audible.com
 lawdible.audible.com
 tp.85cf8037a-frontier.audible.com
@@ -254,11 +252,9 @@ rewrite-internal-beta.audible.com
 beta-wmp.audible.com
 orion-eu.audible.com
 preprod-api.audible.com
-www.beta.audible.com
 account.creator.audible.com
 enterprise-gen.audible.com
 pubdns3.audible.com
-www.download.audible.com
 wordcast.audible.com
 5eaa38a2d-frontier.audible.com
 85cf8037a-frontier.audible.com

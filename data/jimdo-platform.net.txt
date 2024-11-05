@@ -285,7 +285,6 @@ billing-prod.jimdo-platform.net
 payment-provider-stripe-japan.jimdo-platform.net
 nemo-category-prediction-prod.jimdo-platform.net
 domainsbackend-prod-alti.jimdo-platform.net
-*.jimdo-platform.net
 grafana-stage.jimdo-platform.net
 http-innoopedia-blogspot-com1-3.jimdo-platform.net
 webx2proxy69.jimdo-platform.net
@@ -293,7 +292,6 @@ workdayinfortraining.jimdo-platform.net
 a-frickel.jimdo-platform.net
 dolphin-website-renderer-prod.jimdo-platform.net
 moz-autoconfig.jimdo-platform.net
-www.jimdo-platform.net
 domainsfrontend-stage.jimdo-platform.net
 nemo-cps-fr-stage.jimdo-platform.net
 nemo-cps-nl-stage.jimdo-platform.net

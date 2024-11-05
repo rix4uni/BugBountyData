@@ -2,7 +2,6 @@ gane.ergon.ch
 backend.test05.wwz.ergon.ch
 backend.test12.wwz.ergon.ch
 threema.ergon.ch
-*.cl.ergon.ch
 cl.ergon.ch
 package-mirror.ergon.ch
 backend.test03.wwz.ergon.ch
@@ -131,7 +130,7 @@ ergon-dev.techscam.ctb.ergon.ch
 aram.ergon.ch
 artifacts.ergon.ch
 purple.ergon.ch
-*.viac.ergon.ch
+viac.ergon.ch
 vm-iam-9018.ergon.ch
 vm-iam-9014.ergon.ch
 vm-iam-9015.ergon.ch
@@ -173,7 +172,6 @@ bfs.ergon.ch
 sms.ergon.ch
 purpletest.ergon.ch
 foobar.k8s.ergon.ch
-www.foobar.k8s.ergon.ch
 test.foobar.k8s.ergon.ch
 finger.ergon.ch
 sandoni.ergon.ch
@@ -232,7 +230,6 @@ eyken.ergon.ch
 tech-859.eyken.ergon.ch
 backend.test16.wwz.ergon.ch
 novus.ergon.ch
-*.novus.ergon.ch
 mack.ergon.ch
 munki.ergon.ch
 vm-jira-8971.ergon.ch
@@ -262,8 +259,8 @@ directory.ergon.ch
 directorytestv4.ergon.ch
 carpet.ergon.ch
 marks.ergon.ch
-*.i.swarm.ergon.ch
-*.swarm.ergon.ch
+i.swarm.ergon.ch
+swarm.ergon.ch
 techradar.ergon.ch
 cgitools.ergon.ch
 erest.ergon.ch
@@ -271,7 +268,6 @@ ttshost.ergon.ch
 a10-eph-t1.ergon.ch
 ephemera-test.ergon.ch
 a10-eph-t0.ergon.ch
-www.ergon.ch
 ergon-dev-internal.ctb.ergon.ch
 ergon-dev.ctb.ergon.ch
 sbc.ergon.ch
@@ -322,7 +318,6 @@ fieldforce.test13.wwz.ergon.ch
 fieldforce.test06.wwz.ergon.ch
 testi.ergon.ch
 sip.ergon.ch
-www.egressy.ergon.ch
 jenks.ergon.ch
 dench.ergon.ch
 lessel.ergon.ch
@@ -348,7 +343,6 @@ gitlab.ergon.ch
 backend.test17.wwz.ergon.ch
 smartaz.ergon.ch
 a10-eph-2d.ergon.ch
-viac.ergon.ch
 openvpn2.ergon.ch
 mattermosttest-rtcd.ergon.ch
 mattermosttest.ergon.ch
@@ -366,7 +360,7 @@ anelli.ergon.ch
 directorytestv3.ergon.ch
 author-www.ergon.ch
 techscam.techscam.ctb.ergon.ch
-www.techscam.ctb.ergon.ch
+techscam.ctb.ergon.ch
 eastwood.ergon.ch
 gitlab-runner-node-9.ergon.ch
 test333.ergon.ch
@@ -374,7 +368,6 @@ sordello.ergon.ch
 test1234.ergon.ch
 test999.ergon.ch
 test123.ergon.ch
-*.ergon.ch
 gitlab-runner-node-8.ergon.ch
 ctb-dev.ctb.ergon.ch
 certbot-test.ctb.ergon.ch
@@ -402,19 +395,14 @@ newnexus.ergon.ch
 nexus.ergon.ch
 nexus-old.ergon.ch
 nexus-test.ergon.ch
-*.banking.ergon.ch
 banking.ergon.ch
 debix.novus.ergon.ch
 openvpn3.ergon.ch
 openvpn4.ergon.ch
 smtps.ergon.ch
 listserv.ergon.ch
-www.jenks.ergon.ch
-www.bax.ergon.ch
 va.ergon.ch
-*.va.ergon.ch
 openbanking.ergon.ch
-*.openbanking.ergon.ch
 coop-mws-nexus.ergon.ch
 letest.ergon.ch
 kathy.ergon.ch

@@ -1,4 +1,3 @@
-www.charite.de
 aerzteportal.charite.de
 dev.gb-best.charite.de
 temporal-test.dev-labs.charite.de
@@ -22,7 +21,7 @@ teufelsberg.charite.de
 s-mfas-sfasf03.charite.de
 bgmv.charite.de
 s-cfm-smslogweb.charite.de
-www.kks.charite.de
+kks.charite.de
 campus-test.charite.de
 redcap.charite.de
 rheuma-telekonsil.charite.de
@@ -242,7 +241,7 @@ poxapp.charite.de
 kibanavqcm.charite.de
 akademie-104.charite.de
 s-scc02.charite.de
-www.ceed.charite.de
+ceed.charite.de
 racoon-node-ilo.charite.de
 blueant-web.charite.de
 exwy-core.charite.de
@@ -318,7 +317,7 @@ t-aid01.charite.de
 jlab-pc13.charite.de
 s-factweb2.charite.de
 quest-test2.premier.charite.de
-www.s-vpro-scs.charite.de
+s-vpro-scs.charite.de
 s-sha-be01.charite.de
 perceptive-vpn-prefw.charite.de
 physiotherapie.charite.de
@@ -360,7 +359,6 @@ kaeru.charite.de
 s-webrtc-media.charite.de
 s-ext-mpidsp-b.charite.de
 s-vdi-ap-ct01.charite.de
-s-vpro-scs.charite.de
 s-cfm-sms-fixit-k.charite.de
 cheminfo02.charite.de
 s-delinea-ap01.charite.de
@@ -669,7 +667,7 @@ quest-merit.charite.de
 bih-science-management.charite.de
 perle5006-fabric.charite.de
 s-cfm-orcdmze.charite.de
-www.sfb650.charite.de
+sfb650.charite.de
 temp17.charite.de
 looop-mfm-zm.charite.de
 ply.dev-labs.charite.de
@@ -886,7 +884,7 @@ s-c15-web02.charite.de
 s-c02-miph-web1.charite.de
 hdl-w05.charite.de
 kelly.charite.de
-www.derma.charite.de
+derma.charite.de
 prothetik.charite.de
 t-wfal-moodle01.charite.de
 vladi-test.premier.charite.de
@@ -1465,7 +1463,7 @@ hygieneleitfaden.charite.de
 bert.charite.de
 rouxwin670-tg-3.charite.de
 s-artifacts.charite.de
-www.exneuro13.charite.de
+exneuro13.charite.de
 cosbid-devel.charite.de
 physiologie.charite.de
 s-it-kvmed03.charite.de
@@ -1538,7 +1536,7 @@ logpoint.charite.de
 strokedb.charite.de
 s-goobi-wf01.charite.de
 greenbone.charite.de
-www.dhzc.charite.de
+dhzc.charite.de
 bresson.charite.de
 woodpecker.premier.charite.de
 hygiene.charite.de
@@ -1735,7 +1733,6 @@ rh-ibm.charite.de
 virtuellemikroskopiedsb.charite.de
 looop-berlin.charite.de
 s-skype-fe.charite.de
-kks.charite.de
 video-mcu-ext.charite.de
 looop-udg.charite.de
 get-a-bed.charite.de
@@ -1855,7 +1852,6 @@ iknow.charite.de
 praeventionsmedizin.charite.de
 prtg-master.charite.de
 imagine1.charite.de
-www.neurocal.charite.de
 resuscitation-center.charite.de
 alumniclub.charite.de
 vrf-mlg.charite.de
@@ -2084,7 +2080,7 @@ schwbv.charite.de
 s-patho-schluns.charite.de
 t-hdl-lb02.charite.de
 vorlage-institut-stage.charite.de
-www.ccr.charite.de
+ccr.charite.de
 s-fast-radio.charite.de
 prof-bewerbungen-dev.charite.de
 s-sys-prom.charite.de
@@ -2315,7 +2311,6 @@ radionuklidlabor.charite.de
 biobank-test.charite.de
 nomail.charite.de
 s-uvn08.charite.de
-www.alumni.charite.de
 krawitz.charite.de
 ticket-bewerbungssystem.charite.de
 otc.charite.de
@@ -2356,7 +2351,6 @@ t-bih-databox.charite.de
 s-cfm-ssrs.charite.de
 merit-review-test.charite.de
 dsf-bpe-dev.charite.de
-cww.charite.de
 s-amz-app01.charite.de
 zugang-test.charite.de
 postfix.charite.de
@@ -2498,8 +2492,6 @@ s-ext-mpidsp-a.charite.de
 csk.charite.de
 dwh19.charite.de
 t-cei-dev-db01.charite.de
-www.netz-pki.charite.de
-www.labfolder.charite.de
 kruemel.charite.de
 s-bk-ap-test.charite.de
 s-c01-mzg-ap01.charite.de
@@ -2593,7 +2585,6 @@ merit-portal.charite.de
 cya-psm.charite.de
 wirbelsaeulenzentrum.charite.de
 targetfinder.charite.de
-www.s-labfolder01.charite.de
 nbmelikho5.charite.de
 mkg.charite.de
 s-c05-wic-www.charite.de
@@ -2615,7 +2606,7 @@ suckelborst.charite.de
 paediatrische-sonographie.charite.de
 deviat-project.charite.de
 t-forcont-app01.charite.de
-www.karriere.charite.de
+karriere.charite.de
 cepph-server-ilo.charite.de
 pfh.charite.de
 s-redcap-dsp02.charite.de
@@ -2716,7 +2707,6 @@ s-cya-psm02.charite.de
 s-c14-who-web02.charite.de
 hide-200-1.charite.de
 tinnituszentrum.charite.de
-ccr.charite.de
 vdgspektral.charite.de
 experimental-neurosurgery.charite.de
 dwh03.charite.de
@@ -2761,7 +2751,6 @@ debm.charite.de
 netz-helferlein.charite.de
 s-lync-fe2.charite.de
 s-redcap-ap02.charite.de
-karriere.charite.de
 ccix-labor-ge-fw1.charite.de
 kubermatic.k.cci.charite.de
 neoipc-demo.charite.de
@@ -2769,7 +2758,6 @@ accb.dotbase.charite.de
 zeus.charite.de
 intranet-2018.charite.de
 eas.charite.de
-exneuro13.charite.de
 s-uvc02.charite.de
 s-docflow01.charite.de
 zebanc-serv.charite.de
@@ -3047,7 +3035,6 @@ hl7mirth-sec.charite.de
 s-chkd73.charite.de
 brueckenkopf-tst.charite.de
 patientenporta2l.charite.de
-derma.charite.de
 postamt.charite.de
 dwh10.charite.de
 hyg-glims05.charite.de
@@ -3112,7 +3099,7 @@ kks-studien7m.charite.de
 test-gab-app.charite.de
 netz-digantrag.charite.de
 vcm-int-01.charite.de
-www.bmm.charite.de
+bmm.charite.de
 hdp-keycloak.charite.de
 rosenstr76.charite.de
 hdl-mgt02.charite.de
@@ -3124,7 +3111,6 @@ glaukom.charite.de
 nlp.charite.de
 netzvm-cvk1.charite.de
 ilp.charite.de
-www.netz-digantrag.charite.de
 s-bcrt-web03.charite.de
 wificontroller03.charite.de
 demo-dataexport-apu.charite.de
@@ -3356,7 +3342,7 @@ s-easydat01.charite.de
 deploy.charite.de
 s-acd.charite.de
 compbio.charite.de
-www.expneuropedia.charite.de
+expneuropedia.charite.de
 test-klinik.charite.de
 qtrust-test.charite.de
 mutationsearch2.charite.de
@@ -3502,7 +3488,6 @@ neurophysiology-grantyn.charite.de
 docflow-dev.charite.de
 ais-qm.charite.de
 alumniportal.charite.de
-dhzc.charite.de
 hide-200-17.charite.de
 ag-technikundgesundheit.charite.de
 s-factcontrol.charite.de
@@ -3525,7 +3510,6 @@ looop-eric.charite.de
 s-cfm-prtg.charite.de
 hdp2.charite.de
 t-c12-mim-lvdev.charite.de
-sfb650.charite.de
 temp02.charite.de
 nephrologie-intensivmedizin.charite.de
 ultraschall.charite.de
@@ -3583,7 +3567,6 @@ s-appservf.charite.de
 s-afaria-p01.charite.de
 s-p6p-sig1.charite.de
 rhythmologie.charite.de
-www.sexualmedizin.charite.de
 t-ics-mhsgate.charite.de
 dev-ids.health-x.charite.de
 s-pacs-uvc02.charite.de
@@ -3732,7 +3715,6 @@ acano-mgr2.charite.de
 i.charite.de
 s-bih-dm-ap01.charite.de
 webapp.charite.de
-ceed.charite.de
 esc.charite.de
 dns-cache1-e.charite.de
 t-c15-wne-caref.charite.de
@@ -3942,7 +3924,6 @@ mol92-8-88-166mol-neonatol.charite.de
 herzinsuffizienz.charite.de
 s-08-spi-stg01.charite.de
 lync-webservice.charite.de
-expneuropedia.charite.de
 virchow-contest.charite.de
 lms.charite.de
 storefront.charite.de

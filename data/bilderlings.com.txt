@@ -18,7 +18,6 @@ blog.bilderlings.com
 beta.bilderlings.com
 mpanel.pay.bilderlings.com
 acs1.bilderlings.com
-www.gateway.bilderlings.com
 s.bilderlings.com
 status.bilderlings.com
 assets.bilderlings.com
@@ -27,14 +26,8 @@ links.bilderlings.com
 forms.bilderlings.com
 maintenance.bilderlings.com
 ip.bilderlings.com
-www.acs.bilderlings.com
 acs.bilderlings.com
 open-banking.bilderlings.com
 logging.bilderlings.com
-www.bilderlings.com
 admin.account.bilderlings.com
 help.bilderlings.com
-*.account.bilderlings.com
-*.bilderlings.com
-*.open-banking.bilderlings.com
-*.portal.bilderlings.com

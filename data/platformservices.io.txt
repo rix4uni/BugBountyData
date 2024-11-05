@@ -13,7 +13,6 @@ artifactory.euw.platformservices.io
 prometheus.lgr.platformservices.io
 trading.test.kafka.euw.platformservices.io
 vault-vm.guea.platformservices.io
-www.platformservices.io
 ps-test.euw.platformservices.io
 consul.euw.platformservices.io
 docker-local-trusted.artifactory-test.ps-test.euw.platformservices.io
@@ -76,7 +75,7 @@ dev.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platforms
 awsegmentest.miamflpage.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 115.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
-www.00-00-04-assets-miamfl-2018-passest1-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
+00-00-04-assets-miamfl-2018-passest1-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 core-logs.test.platformservices.io
 nswchamblentest.0-cmx281tmx283log-bcld04.ece.test.platformservices.io
 00-00-06-assets-miamfl-2018-fw.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -85,7 +84,7 @@ core-logs.nps.platformservices.io
 00-00-04nscache10-miamfl-2018est1-oceania.2011.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 0-cmx280tmx283log-bcld04.ece.test.platformservices.io
 gueaprometheus01.test.platformservices.io
-www.00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 connect.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
 00-0-rdeveloperwcdnbcldhamblen-oceania.0-cmx283tmx283log-bcld-04-kafka-carole.ece.test.platformservices.io
 com.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -323,7 +322,7 @@ searchappeest1.0-cmx283tmx283log-bcld-03-lubo-ras.ece.test.platformservices.io
 10miamflwlfrctaws.0-cmx280tmx283log-bcld-04.ece.test.platformservices.io
 00-000-04-10miamfl-gordonest1-oceania.00-0-cmx283tmx283log-bcld10miamfl-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 cmx280tmx283log.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
-www.paris1hamblenest1.miamflpage.00-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
+paris1hamblenest1.miamflpage.00-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 000.00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-gpaas11-hamblen-oceania.0-cmx281tmx283log-bcld10miamfl.ece.test.platformservices.io
 00-00-ns-232-a-miamfl-2018-dhcp-bl-00-ns-232-a-miamfl-2018.2011.0-cmx280tmx283log-bcld.ece.test.platformservices.io
@@ -534,7 +533,7 @@ searchappe06hamblen.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ec
 gueaalertmanager01.test.platformservices.io
 oceaniaest1.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 prd.00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.00-00-hamblen-04-range86-128-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblen-04-range86-128-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 hamblens.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-00-ns-168-c-miamfl-2018.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-00-hamblenunspec20712804github.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
@@ -755,7 +754,7 @@ freebsd.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 0-cmx280tmx283log-bcld-space.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 00-000-04-hrlntx-hamblen-hamblen-oceania.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
 spacelgrdocker.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
-www.0-cmx283tmx283log-bcld-04-docs.ece.test.platformservices.io
+0-cmx283tmx283log-bcld-04-docs.ece.test.platformservices.io
 000-04-edge-hamblen.miamflpage.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-00-hamblen-altmiamfl04-hamblen1-oceania.0-cmx281tmx283log-bcld10miamfl.ece.test.platformservices.io
 00-00-hamblen-altmiamfl-hamblen.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
@@ -798,13 +797,12 @@ bcld187hamblen.ns-219-c.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 hamblenaltmiamfl04ymentest1.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 00-00-04-10miamflnode-hamblen-1511-oceania.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-00-corinne-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.00-00-hamblen-04-hamblen-z-paris2est1-oceania.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 0-rdeveloperwcdnbcld-04-ns-60-a.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-hamblen-hamblen98-62.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 redirest1.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 00-00-hamblentest1-04-ns-121-c.00-hamblen.0-cmx280tmx283log-bcld-04.ece.test.platformservices.io
 00-00-04-admin04-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 control-testeuwwww.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 00-00-04-04nscache10-miamfl-2018est1-oceania.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 latinest1.0-cmx283tmx283log-bcld-04-euw0-carole.ece.test.platformservices.io
@@ -978,7 +976,7 @@ hamblenxvm.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 fwest.0-cmx281tmx283log-bcld-ns-156-c.ece.test.platformservices.io
 134hamblenunspec207130est1.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 chef.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
-www.00-hamblen-hamblen-range86-140.00-hamblen.0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
+00-hamblen-hamblen-range86-140.00-hamblen.0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
 production.00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-hamblen-hamblen-151est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 eu.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
@@ -1186,7 +1184,7 @@ at.04.0-cmx282tmx283log-bcld.ece.test.platformservices.io
 00-hamblen.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 testhashicorp.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
 00-000-04-diconico.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
-www.000-04-hamblenxvm-65-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
+000-04-hamblenxvm-65-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 0-rdeveloperwcdnbcld-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-00-hamblen-hamblen-range86-140.miamflpage.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-0104lxssyv.ece.test.platformservices.io
@@ -1310,7 +1308,6 @@ lucytest.platformservices.io
 00-00-hamblen-altmiamfl-04-oceania.ns-219-c.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-000-04-eu-northhamblen04-dhcp-bl-000-04-eu-northhamblen04.00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-ap-northeast-miamfl-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.00-000-04-apacheest1-oceania.0-cmx281tmx283log-bcld-04-nswchamblen.ece.test.platformservices.io
 00-10support-miamfl-2018.0-rdeveloperwcdnbcld-space-00-hamblentest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 latinmiamfl00.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 miamflwlfrctest.00-hamblen.0-cmx280tmx283log-bcld-04.ece.test.platformservices.io
@@ -1457,7 +1454,6 @@ rdeveloperwcdnbcldhamblenest.0-cmx281tmx283log-bcld04.ece.test.platformservices.
 00-00-hamblen-ns-197-a-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-dev-chef-04-dev.0-cmx183tmx283log-bcld-space-04-a-luxembourg2.ece.test.platformservices.io
 spool.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
-www.00-00-04-assets-134hamblensa-2018est1-oceania.0-cmx282tmx283log-bcld-04.ece.test.platformservices.io
 00-000-04-hamblen-ns-17-c.0-cmx280tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 engineest1.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 vpnest.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
@@ -1674,7 +1670,6 @@ hamblenreverse20111.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 extbroker.0-cmx280tmx283log-bcld-04.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-04-kafkatestprometheus.ece.test.platformservices.io
 00-000-000-hamblen041-oceania.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
-0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-xvm-95-miamfl-2018.00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 freebsd.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 easthamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
@@ -1764,7 +1759,7 @@ preprod.2011.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 00-00-04-edge-miamfl-2018-oceania.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 hamblentest1test1.00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-space-carole.00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.aws041.0-cmx280tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+aws041.0-cmx280tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-hamblen-woh-hamblen-miamfl-2018.0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
 00-00-04-10miamflnode-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 00-000-04-highway-hamblen-hamblen1-oceania.miamflpage.00-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
@@ -1893,7 +1888,6 @@ oceania1.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 test10miamflwlfrct.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 pt.0-cmx282tmx283log-bcld04.ece.test.platformservices.io
 00-000-00-hamblen-miamfl-2018.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
-00-00-hamblen-04-range86-128-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 149hamblenrange86est1.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 00-000-04-04ns-215-cest1-oceania.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-000-04-daniloest1est1-oceania.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
@@ -2203,10 +2197,10 @@ images.00-0-cmx283tmx283log-bcld10miamfl-oceania.0-cmx283tmx283log-bcld-04-lubo-
 0-searchappehamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 prodest1.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 0-searchappe0400-hamblentest1-oceania.0-cmx280tmx283log-bcld.ece.test.platformservices.io
-www.00-00-hamblendhcpest1-oceania.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblendhcpest1-oceania.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 hamblenaltmiamflhamblen.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
 testvault-eu-west-3.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
-www.00-00-hamblen-04-range116-128-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblen-04-range116-128-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 0-cmx282tmx283log-bcld2011-03.ece.test.platformservices.io
 00-paris102011-miamfl-2018.0-rdeveloperwcdnbcld-space-00-hamblentest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 tr.0-cmx283tmx283log-bcld-04-docs.ece.test.platformservices.io
@@ -2266,7 +2260,6 @@ adminshamblen.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
 diconico.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-keystone-miamfl-2018.00-hamblen.0-cmx280tmx283log-bcld-space.ece.test.platformservices.io
 00-hamblentest1-spawar-hamblen.miamflpage.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
-00-00-hamblen-04-range116-128-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-hamblen-mailpub-2018.00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-187hamblenpcs.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 bclderse00.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
@@ -2385,7 +2378,7 @@ admin.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 00-00-hamblen-paris6-2018.miamflpage.0-cmx281tmx283log-bcld04.ece.test.platformservices.io
 data.2011.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
 0-searchappe04-ns-197-b-04lxssyv.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.region.00-hamblen.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
+region.00-hamblen.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 00-000-000-hamblen-sandbox1-oceania.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-0-searchappegordon-hamblen-oceania.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 vaultui.00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -2398,7 +2391,6 @@ npsdocker.spacelgrdocker.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 0-cmx280tmx284log-bcld-10miamfl.ece.test.platformservices.io
 adslgpest1.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 00-hamblen.0-cmx280tmx283log-bcld-space.ece.test.platformservices.io
-www.00-00-hamblen-hamblen-awsegment-oceania.0-cmx280tmx283log-bcld-space-04-a-luxembourg2.ece.test.platformservices.io
 00-xvm-76-miamfl-2018.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 devtestvault.test10miamflwlfrcttesttrading.0-cmx283tmx283log-bcld-01trusted.ece.test.platformservices.io
 00-00-hamblenreverse-2011cache5est1-oceania.0-cmx282tmx283log-bcld2011-04.ece.test.platformservices.io
@@ -2483,7 +2475,6 @@ awsest1.0-cmx282tmx283log-bcld04.ece.test.platformservices.io
 sp.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 00-00-10miamfl-chef-miamfl-2018est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 hamblenaltmiamfl04miamfl1.0-cmx282tmx283log-bcld-ns-156-c.ece.test.platformservices.io
-aws041.0-cmx280tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-hamblen-org-2018est1-oceania.00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-04-04-xvm-113-miamfl-2018-oceania.0-cmx283tmx283log-bcld-04-kafka-carole.ece.test.platformservices.io
 r.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
@@ -2650,7 +2641,7 @@ maine.0-cmx282tmx283log-bcld.ece.test.platformservices.io
 cc.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 0-cmx281tmx283log-bcld10miamfl.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
 dublinest.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
-www.00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-hamblen-altmiamfl04-hamblen.0-cmx283tmx283log-bcld-04-euw0-carole.ece.test.platformservices.io
 00-00-04-assets-miamfl-201804-api1-oceania.0-cmx283tmx283log-bcld-04-kafka-carole.ece.test.platformservices.io
 00-00-blogs-users-v-miamfl-20181-oceania.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
@@ -2861,7 +2852,6 @@ zk.00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ec
 00-00-hamblen-maa-hamblen-hamblen1-oceania.ns-219-c.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 fwdest1.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
 hamblenreverse150hamblenest1.00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.team.0-cmx283tmx283log-bcld-01-nswchamblen.ece.test.platformservices.io
 mrt.0-cmx282tmx283log-bcld.ece.test.platformservices.io
 hamblenomest.0-cmx283tmx283log-bcld-03-lubo-ras.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-000-01-alexis.ece.test.platformservices.io
@@ -3075,7 +3065,6 @@ testlogs.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.plat
 00-dns6fr1-miamfl-2018.0-cmx282tmx283log-bcldfield04.ece.test.platformservices.io
 km.ps.dev.kafka.euw.platformservices.io
 lbest.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-00-00-04-assets-miamfl-2018-passest1-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-00-hamblenunspec207128042011.0-rdeveloperwcdnbcld-space-00-hamblentest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-hamblensandbox04-ns-42-b-04-oceania.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 ad.00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -3097,7 +3086,6 @@ eu-west-2.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 hamblenhsrp49.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 00-000-04-hamblen-ns-187-b-oceania.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 00-000-04-2011-paris14-miamfl-2018.0-cmx282tmx283log-bcld2011-04.ece.test.platformservices.io
-region.00-hamblen.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 04paywall.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 poczta.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 miamflfield.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
@@ -3225,7 +3213,6 @@ relay5.miamflpage.0-cmx280tmx283log-bcld-04.ece.test.platformservices.io
 messaging.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 00-000-000-hamblen06hamblen.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 status.euw.platformservices.io
-www.00-0-cmx283tmx283log-bcld10miamfl-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-hamblen-ns-219-cest1-oceania.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 000-05-testbed-hamblen.0-cmx282tmx283log-bcld-04.ece.test.platformservices.io
 profilmx.0-cmx282tmx283log-bclderse.ece.test.platformservices.io
@@ -3329,7 +3316,6 @@ ar.0-cmx282tmx283log-bcld2011.ece.test.platformservices.io
 ns-220-c.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 gw.2011.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 00-000-04-ev-cryptocurreuw-miamfl-2018.04.0-cmx282tmx283log-bcld.ece.test.platformservices.io
-00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 npsidevault03.nps.platformservices.io
 ftp.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 000-04-hamblenns-11-c.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
@@ -3356,7 +3342,6 @@ hvmdvoipest1.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-00-hamblenreverse20112011-miamfl-2018.miamflpage.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 beta.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-000-01-hamblen-hamblenest1-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
-www.00-000-01-hamblen-oc-hamblen1-oceania.miamflpage.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-space-testlogs.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 hambleneu.0-cmx282tmx283log-bclderse.ece.test.platformservices.io
 00-00-hamblen-hamblen-hamblen-wohest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -3567,7 +3552,7 @@ admin.miamflpage.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 hamblen174hamblenest1.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-000-04-04-infinitum-hamblen1-oceania.0-cmx281tmx283log-bcld04.ece.test.platformservices.io
 00-000-04-hamblenns-71-c-hamblen.0-cmx283tmx283log-bcld-04-euw0-carole.ece.test.platformservices.io
-www.00-00-hamblen-range85-140-dhcp-bl-00-hamblen-range86-140.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblen-range85-140-dhcp-bl-00-hamblen-range86-140.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 0-searchappe10miamfl-04.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
 00-00-hamblen-04-04ns-75-b-2018est1-oceania.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 00-000-04-20-hamblenmc-hamblen1-oceania.0-cmx282tmx283log-bclderse.ece.test.platformservices.io
@@ -3743,7 +3728,7 @@ mrtest.00-00-hamblen-04-range86-128-2018-miamfl-2018.0-cmx283tmx283log-bcld-04-l
 water1.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 04-sup-164-v810.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-000-003hamblen-miamflhamblen-miamfl-2018.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
-www.hamblen.0-cmx280tmx283log-bcld-space-04-a-luxembourg2.ece.test.platformservices.io
+hamblen.0-cmx280tmx283log-bcld-space-04-a-luxembourg2.ece.test.platformservices.io
 bastienr.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-hamblenunspec207128-oceania.0-cmx280tmx283log-bcld-space-04-a-luxembourg2.ece.test.platformservices.io
 fwest1.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
@@ -3879,10 +3864,8 @@ miamflsandyr.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
 hwcdn.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 vault.0-cmx283tmx283log-bcld-04-euw0-carole.ece.test.platformservices.io
 24-0ns-112-c.0-cmx280tmx283log-bcld-space.ece.test.platformservices.io
-www.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
 00-000-04-hamblenmwest1-oceania.0-rdeveloperwcdnbcld-space-00-hamblentest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-000-ns-8-c-2011.0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
-0-cmx283tmx283log-bcld-04-docs.ece.test.platformservices.io
 hamblen.0-cmx283tmx283log-bcld-01-lubo-ras.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-04api2.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
 platformservices-logs-test.platformservices.io
@@ -3912,7 +3895,6 @@ consul.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 00-00-hamblen-7est1-oceania.0-cmx281tmx283log-bcld-ns-156-c.ece.test.platformservices.io
 00-0-searchappe10miamflest1-oceania.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-00-hamblenunspec207128-20111-oceania.0-cmx282tmx283log-bcld2011.ece.test.platformservices.io
-www.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-00-hamblenreverse-201104-oceania.0-cmx282tmx283log-bcld04.ece.test.platformservices.io
 testtesttrading.0-cmx282tmx283log-bclderse.ece.test.platformservices.io
 0-rdeveloperwcdnbcld-201100-vault-dr-miamfl-2018.00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -3945,14 +3927,13 @@ exchange.00-00-hamblen-136hamblenmaine-miamfl-2018.0-cmx283tmx283log-bcld-04-lub
 00-000-04-daniloest1.0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
 water.2011.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 10miamflwlfrct-euwiartifactory.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
-www.00-000-04-hamblen-ns-199-c-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
+00-000-04-hamblen-ns-199-c-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-000-04-lauth0-hamblen.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 00-00-hamblen-postmaster.miamflpage.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 directest1.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 191.00-hamblen.0-cmx282tmx283log-bcld-04.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-03-lubo-ras.ece.test.platformservices.io
 00-000-04-hamblen-z-paris1-oceania.0-cmx283tmx283log-bcld-03-lubo-ras.ece.test.platformservices.io
-www.00-00-hamblen-altmiamfl04041-oceania.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 paris17.miamflpage.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 testuntrusted.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 static.00-0-cmx283tmx283log-bcld10miamfl-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -3971,7 +3952,7 @@ demo.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ra
 00-00-hamblen-apache-2018-oceania.0-cmx282tmx283log-bcld-space.ece.test.platformservices.io
 0-cmx283tmx283log-bcld04-ns-197-b.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 000-04-github-hamblen.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 laptophamblen.miamflpage.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 00-00-hamblenocn-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 04.0-cmx282tmx283log-bcld.ece.test.platformservices.io
@@ -3986,13 +3967,11 @@ sept1.miamflpage.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 ca-central-1-testeuwiartifactory.ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-000-04-mail-hamblen-dhcp-bl-000-04-mail-hamblen.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
 00-00-hamblenno1-oceania.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.00-00-hamblen-136hamblenmaine-miamfl-2028.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 bdockertest.miamflpage.00-hamblen.0-cmx282tmx283log-bcld-04.ece.test.platformservices.io
 b.0-cmx281tmx283log-bclderse.ece.test.platformservices.io
 000-04-ap-northeast-2-hamblen.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-04-xvm-77-hamblen-dhcp-bl-000-04-04-xvm-77-hamblen.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 000-04-1hamblen-com-hamblen.0-cmx282tmx283log-bcldfield04.ece.test.platformservices.io
-www.00-00-erikds-hamblen-miamfl-2018-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 gueaidevault03.2011.0-cmx280tmx283log-bcld.ece.test.platformservices.io
 00-00-ns-168-c-miamfl-2018-oceania.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
 testnps.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
@@ -4091,7 +4070,6 @@ euwwwwtest10miamflwlfrctdeviartifactory.euwpraxis.0-cmx283tmx283log-bcld-01.ece.
 00-000-04-latin-2011-oceania.0-cmx283tmx283log-bcld-01-lubo-ras.ece.test.platformservices.io
 i.0-cmx283tmx283log-bcld-03-lubo-ras.ece.test.platformservices.io
 00-000-04-autodns-hamblen1-oceania.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
-www.0-rdeveloperwcdnbcld-space-00-hamblentest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 149hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-000-04-hamblenhsrp49-hamblen-oceania.0-rdeveloperwcdnbcld-space-00-hamblentest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 docker-local-trusted.artifactory.euw.platformservices.io
@@ -4237,7 +4215,6 @@ bcld041.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 003hamblenlibest1.00-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 alexis003hamblen.0-cmx282tmx283log-bcld04.ece.test.platformservices.io
 00-04-assets-miamfl-2018-nginx.0-cmx282tmx283log-bcld2011.ece.test.platformservices.io
-00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 hamblenaltmiamfl04ns.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
 hamblensandbox150hamblen.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 04untrustedcaroleguea.ns-219-c.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
@@ -4270,7 +4247,6 @@ cryptocurreuw.0-cmx282tmx283log-bcld2011-04.ece.test.platformservices.io
 00-00-contact-hamblen-miamfl-2018.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 04-0ns-109-c.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
 00-000-04-04ap-northeast-hamblen.0-cmx280tmx283log-bcld.ece.test.platformservices.io
-00-00-hamblen-range85-140-dhcp-bl-00-hamblen-range86-140.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-hamblen-hamblen174hamblen1-oceania.0-cmx281tmx283log-bcld04.ece.test.platformservices.io
 hamblenunspec207128yment.0-cmx283tmx283log-bcld-04-dev.ece.test.platformservices.io
 a1.0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
@@ -4335,7 +4311,6 @@ software.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-04-vpn.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
 hamblenunspec20712804.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 00-hamblenvaultui-hamblen.0-cmx283tmx283log-bcld-03-lubo-ras.ece.test.platformservices.io
-hamblen.0-cmx280tmx283log-bcld-space-04-a-luxembourg2.ece.test.platformservices.io
 00-000-04-150hamblenunused-space-oceania.00-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 00-hamblen-miamfl-2018-04.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 00-00-gordon04-miamfl-2018.0-cmx283tmx283log-bcld-04-docs.ece.test.platformservices.io
@@ -4396,7 +4371,7 @@ ns-219-c.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 help.0-cmx283tmx283log-bcld-04-euw0-carole.ece.test.platformservices.io
 home.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
 inhamblen04.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-www.00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
+00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-hamblensandbox150hamblen.miamflpage.0-cmx281tmx283log-bcld04.ece.test.platformservices.io
 wz.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
 00-00-hamblensandboxest1-oceania.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
@@ -4485,7 +4460,6 @@ bcld201100.0-cmx283tmx283log-bcld-04-docs.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-000-04-relay2-hamblen-hamblen.ece.test.platformservices.io
 00-00-04-assets-miamfl-2018-fw.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-000-hamblen06hamblencorp-oceania.2011.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
-www.00-00-hamblen-136hamblenmaine-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-04-stg.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-003-04-alexis.0-searchappe000-04-latinmiamfl-00-hamblen.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 ca.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
@@ -4507,7 +4481,6 @@ iartifactory-test.0-cmx283tmx283log-bcld-04-kafka-carole.ece.test.platformservic
 00-00-gordon04-miamfl-2018-miamfl-2018.0-cmx282tmx283log-bcld-space.ece.test.platformservices.io
 145hamblenest1.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 hambleniern1.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
-www.00-00-hamblen04-nswchamblen1-oceania.00-hamblen.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 00-000-04-charles-red-dhcp-bl-000-04-charles-red.0-cmx281tmx283log-bcldfield.ece.test.platformservices.io
 0-searchappe.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
 km.0-cmx281tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
@@ -4662,7 +4635,6 @@ broker.trading.prod.kafka.euw.platformservices.io
 account.0-cmx283tmx283log-bcld-04-docs.ece.test.platformservices.io
 sandboxest1.0-cmx283tmx283log-bcld-04-kafka-carole.ece.test.platformservices.io
 hamblenstest.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
-www.00-00-hamblen-ns-4-c-oceania.0-cmx283tmx283log-bcld-01.ece.test.platformservices.io
 00-00-hamblen-hamblen-vault-vmest1-oceania.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 00-000-04-10miamflz-hamblen-miamfl-2018.00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-diconico1-oceania.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
@@ -4729,7 +4701,6 @@ cms.0-cmx281tmx283log-bcld-space.ece.test.platformservices.io
 gueaidevault04.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 95.0-cmx283tmx283log-bcld-04-euw0-carole.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-047-devtestvaultsouth.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
-00-00-hamblen-paris1hamblenest1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-00-04-api-miamfl-201810miamfl1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 04mikeest1.0-cmx283tmx283log-bcld-04-euwdocker.ece.test.platformservices.io
 00-000-000-hamblen-sandbox1-oceania.0-cmx282tmx283log-bclderse.ece.test.platformservices.io
@@ -4829,7 +4800,6 @@ hamblenreverseyment1.0-cmx280tmx283log-bclderse.ece.test.platformservices.io
 relay6.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
 hamblenaltmiamflhamblen1.0-cmx283tmx283log-bcld-04-kafka.ece.test.platformservices.io
 unusedest.miamflpage.00-hamblen.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
-www.00-0-searchappe04-nswchamblenest1-oceania.miamflpage.00-hamblen.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 00-0-searchappe04.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 00-000-04-hamblensasknet-hamblen-oceania.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 prodest1.miamflpage.00-hamblen.0-cmx283tmx283log-bcld-03.ece.test.platformservices.io
@@ -4858,7 +4828,7 @@ webhook.guea.platformservices.io
 000-04-clairehamblen.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 0-rdeveloperwcdnbcld10miamfl04lxssyv.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
 contact.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io
-www.nswchamblentest1.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
+nswchamblentest1.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
 gueaidevaulttst05.test.platformservices.io
 c1.0-cmx281tmx283log-bcld10miamfl.ece.test.platformservices.io
 hamblenhamblent.0-cmx280tmx283log-bcld-10miamfl.ece.test.platformservices.io
@@ -4948,7 +4918,6 @@ sc.00-hamblen.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
 om.0-cmx283tmx283log-bcld-04-euw0.ece.test.platformservices.io
 digital.0-cmx283tmx283log-bcld-04-euwcarole.ece.test.platformservices.io
 00-00-hamblen-hamblen-hamblen-wohest4-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
-00-00-hamblendhcpest1-oceania.0-cmx282tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 0-accounting-bcld-04.ece.test.platformservices.io
 miamflwlfrctest.0-cmx282tmx283log-bclderse.ece.test.platformservices.io
 00-000-04-hamblenvault-dr.ns-219-c.0-cmx281tmx283log-bcld-04.ece.test.platformservices.io
@@ -5025,7 +4994,6 @@ artifactory.nps.platformservices.io
 00-00-hamblen-hamblen-aws-woh.00-00-hamblen-136hamblenmaine-miamfl-2018.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 0-cmx283tmx283log-bcld-edge.00-00-hamblen-hamblen-151-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 ops.0-cmx283tmx283log-bcld-04-euwdocker-test04cmx283tmx283log.ece.test.platformservices.io
-00-00-hamblen-miamfl-2018-04est1-oceania.0-cmx283tmx283log-bcld-04-lubo-ras.ece.test.platformservices.io
 euw.0-cmx282tmx283log-bcld04.ece.test.platformservices.io
 eu-west-3.0-cmx282tmx283log-bclderse.ece.test.platformservices.io
 euwpraxis.0-cmx283tmx283log-bcld-02.ece.test.platformservices.io

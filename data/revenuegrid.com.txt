@@ -1,7 +1,5 @@
 pia.revenuegrid.com
-*.pia.revenuegrid.com
 ua.revenuegrid.com
-*.ua.revenuegrid.com
 go.revenuegrid.com
 test4-slalom-product-signals.slalom.revenuegrid.com
 ri-hitachivantara-staging-sync.eu.revenuegrid.com
@@ -59,7 +57,6 @@ test4-slalom-product-drip.slalom.revenuegrid.com
 berlitz-at-drip.revenuegrid.com
 test-berlitz-drip.revenuegrid.com
 test-mufg-prod-addin.revenuegrid.com
-www.revenuegrid.com
 test3-slalom-product-sync.slalom.revenuegrid.com
 test4-slalom-product-sync.slalom.revenuegrid.com
 rg-hitachivantara-staging.eu.revenuegrid.com

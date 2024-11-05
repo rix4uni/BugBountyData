@@ -1,5 +1,4 @@
 vault.staging.in.prisid.io
-www.prisid.io
 api.app.prisid.io
 api-org-svc.app.prisid.io
 blog.prisid.io
@@ -7,14 +6,13 @@ idp.vault.staging.in.prisid.io
 blog.github.prisid.io
 api-payment-svc.app.prisid.io
 vault.staging-alt.prisid.io
-www.app.prisid.io
+app.prisid.io
 idp.app.sit.prisid.io
 app.sit.prisid.io
 admin.sit.prisid.io
 idp.cs.prisid.io
 share.prisid.io
 help.prisid.io
-app.prisid.io
 csp.prisid.io
 idp.admin.prisid.io
 api-recaptcha-svc.app.prisid.io
@@ -27,6 +25,4 @@ idp.cs.app.prisid.io
 quiz.prisid.io
 admin.prisid.io
 partner.prisid.io
-www.csp.prisid.io
-www.share.prisid.io
 share.sit.prisid.io

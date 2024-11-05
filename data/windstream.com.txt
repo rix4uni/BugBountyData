@@ -4,7 +4,7 @@ agentsocs.windstream.com
 ocs.windstream.com
 bizpac.windstream.com
 external.windstream.com
-www.smallbusiness.windstream.com
+smallbusiness.windstream.com
 vmbg04-ottawapub.windstream.com
 jobtracdev.windstream.com
 officesuite12.windstream.com
@@ -458,9 +458,7 @@ investors.windstream.com
 winsms.windstream.com
 sam.windstream.com
 activation.windstream.com
-smallbusiness.windstream.com
 investor.windstream.com
-www.windstream.com
 news.windstream.com
 aks08-dev-eus-hubble.windstream.com
 winsms-uat3.windstream.com
@@ -503,7 +501,7 @@ ns-prod.windstream.com
 vml343.servers.windstream.com
 seg2.windstream.com
 cwwapp670d.windstream.com
-www.portout.windstream.com
+portout.windstream.com
 myaccount.windstream.com
 vmlcppc004.windstream.com
 remedyworkrequest.windstream.com
@@ -519,7 +517,6 @@ venafi-test7.k8s.svc.windstream.com
 marketview.windstream.com
 twuctx001.windstream.com
 ns-dev.windstream.com
-portout.windstream.com
 wholesale_ticket.dev.windstream.com
 winservices.devproja.windstream.com
 twuctx002.windstream.com

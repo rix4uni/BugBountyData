@@ -21,7 +21,6 @@ api-listener.mintblue.com
 landing.mintblue.com
 portainer.ops.mintblue.com
 testapi.mintblue.com
-www.mintblue.com
 grafana.ops.mintblue.com
 api-taskmanager.mintblue.com
 impact.mintblue.com
@@ -41,4 +40,3 @@ test.api.swarm2.mintblue.com
 traefik.ops.swarm2.mintblue.com
 kvk.mintblue.com
 wp2.mintblue.com
-*.mintblue.com

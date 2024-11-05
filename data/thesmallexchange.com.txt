@@ -2,11 +2,10 @@ auth0.thesmallexchange.com
 public.thesmallexchange.com
 ab2.thesmallexchange.com
 ny2.thesmallexchange.com
-www.thesmallexchange.com
 subscribers.thesmallexchange.com
 mx1.ny2.thesmallexchange.com
 ready.thesmallexchange.com
-www.staging.thesmallexchange.com
+staging.thesmallexchange.com
 subscriber-admin-prod.thesmallexchange.com
 staging-api.subscribers.thesmallexchange.com
 api.subscribers.thesmallexchange.com
@@ -21,7 +20,6 @@ mx1.ab2.thesmallexchange.com
 automation.aws.thesmallexchange.com
 gpp.ny2.thesmallexchange.com
 mx2.ab2.thesmallexchange.com
-staging.thesmallexchange.com
 community.thesmallexchange.com
 gpp.ab2.thesmallexchange.com
 mx2.ny2.thesmallexchange.com

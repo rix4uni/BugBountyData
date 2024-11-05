@@ -1,9 +1,8 @@
-*.kuna.io
-*.dashboard.kuna.io
-*.doc-accounting.kuna.io
-*.kuna-pro.kuna.io
-*.merchant.kuna.io
-*.prod.kuna.io
+dashboard.kuna.io
+doc-accounting.kuna.io
+kuna-pro.kuna.io
+merchant.kuna.io
+prod.kuna.io
 admin-exchange.kuna.io
 admin-kunapayapp.kuna.io
 admin-pp.kuna.io
@@ -24,10 +23,8 @@ buy.kuna.io
 checkout.kuna.io
 client-pro.kuna.io
 crowdsale.kuna.io
-dashboard.kuna.io
 design.kuna.io
 dev.kuna.io
-doc-accounting.kuna.io
 docs.kuna.io
 docs-pay.kuna.io
 elections2020.kuna.io
@@ -44,11 +41,9 @@ igogo-exchange-api.kuna.io
 igogo-exchange-internal-api.kuna.io
 investors.kuna.io
 kun.kuna.io
-kuna-pro.kuna.io
 kunapayapp.kuna.io
 landing.kuna.io
 mainfront.client-pro.kuna.io
-merchant.kuna.io
 money.kuna.io
 my.kuna.io
 my-kuna.kuna.io
@@ -64,7 +59,6 @@ private-gateway-pp.kuna.io
 private-gateway-pro.kuna.io
 private-gateway-saas.kuna.io
 pro.kuna.io
-prod.kuna.io
 pusher.kuna.io
 ramp.kuna.io
 rest-api-kuna-bank-prod.kuna.io
@@ -79,9 +73,6 @@ test-pay-prod.kuna.io
 verification.kuna.io
 watch.kuna.io
 ws-pro.kuna.io
-www.kuna.io
-www.business.kuna.io
-www.eos.kuna.io
 pool.kuna.io
 debug.kuna.io
 pm-bounces.kuna.io
@@ -102,8 +93,6 @@ card.kuna.io
 0eosbp.kuna.io
 lb.kuna.io
 url7521.kuna.io
-www.doc-accounting.kuna.io
-www.kuna-pro.kuna.io
 x-o-admin.kuna.io
 eosbp.kuna.io
 email.kuna.io

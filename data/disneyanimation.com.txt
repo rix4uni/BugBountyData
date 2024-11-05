@@ -1,5 +1,4 @@
-*.disneyanimation.com
-*.artifactory.disneyanimation.com
+artifactory.disneyanimation.com
 1034-pro2.disneyanimation.com
 1300-pro2.disneyanimation.com
 1405-core.disneyanimation.com
@@ -28,7 +27,6 @@ arl-sidecar.disneyanimation.com
 arl-sidecarstage.disneyanimation.com
 arlilon.disneyanimation.com
 arlstage.disneyanimation.com
-artifactory.disneyanimation.com
 asafasc5a1-gw.disneyanimation.com
 asafasc5c1-gw.disneyanimation.com
 assets.disneyanimation.com
@@ -443,16 +441,9 @@ wordpress-dev.disneyanimation.com
 wordpress-test.disneyanimation.com
 workroom.disneyanimation.com
 wsoneaccess.disneyanimation.com
-www.disneyanimation.com
 www-staging.disneyanimation.com
-www.cdn.disneyanimation.com
-www.coda-stage.disneyanimation.com
-www.dremio4.disneyanimation.com
-www.media.disneyanimation.com
-www.technology.disneyanimation.com
 wynnchel.disneyanimation.com
 zurichtest.disneyanimation.com
-*.artifactory-dev.disneyanimation.com
 artifactory-dev.disneyanimation.com
 external-bur-01.disneyanimation.com
 external-bur-02.disneyanimation.com

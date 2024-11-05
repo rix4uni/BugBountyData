@@ -1,6 +1,5 @@
-*.squareup.com
-*.broadway.squareup.com
-*.harrisli-dev-cf.squareup.com
+broadway.squareup.com
+harrisli-dev-cf.squareup.com
 1.www--4.pad.squareup.com
 12.cccamp.pad.squareup.com
 13-transmetropolitan.pad.squareup.com
@@ -333,7 +332,6 @@ broadcast-v28.mtv.squareup.com
 broadcast-v30.mtv.squareup.com
 broadcast.sfo.squareup.com
 broadcast.vlan.200.core01.corp.squareup.com
-broadway.squareup.com
 bucketstatus.pad.squareup.com
 buyer-portal.squareup.com
 c.figaro.pad.squareup.com
@@ -997,7 +995,6 @@ gw-v28.mtv.squareup.com
 gw-v30.core1.mtv.squareup.com
 gw-v30.core2.mtv.squareup.com
 gw-v30.mtv.squareup.com
-harrisli-dev-cf.squareup.com
 help.squareup.com
 help-mail.pad.squareup.com
 help-messaging.squareup.com
@@ -2317,7 +2314,6 @@ westeurope-labordage.pad.squareup.com
 westeuropelush.pad.squareup.com
 wiki.squareup.com
 wiki.corp.squareup.com
-www.squareup.com
 www--0.pad.squareup.com
 www--0prod.pad.squareup.com
 www--1.pad.squareup.com
@@ -3233,19 +3229,6 @@ www-stage.pad.squareup.com
 www-test1.broadway.squareup.com
 www-vpn.pad.squareup.com
 www-vpn.www1-2.pad.squareup.com
-www.acs.squareup.com
-www.ftps.p.squareup.com
-www.imap.squareup.com
-www.microlearning.squareup.com
-www.mta-in.sip.sjc1.squareup.com
-www.mta-in.stage.sip.sjc1.squareup.com
-www.mx1.sjc1.squareup.com
-www.mx1.stage.sjc1.squareup.com
-www.mx2.sjc1.squareup.com
-www.mx2.stage.sjc1.squareup.com
-www.ocrcard-staging-connect.squareup.com
-www.pad.squareup.com
-www.store.squareup.com
 www0-1backend.pad.squareup.com
 www0-1trial.pad.squareup.com
 www0-2.billing.pad.squareup.com
@@ -6054,7 +6037,6 @@ cvsd.pad.squareup.com
 cvszilla.pad.squareup.com
 cw-pompano.pad.squareup.com
 cwautomate-api.pad.squareup.com
-cww.pad.squareup.com
 cx-dev-ag-int-edc.pad.squareup.com
 cxc-mergetest.pad.squareup.com
 cxcjira-test.pad.squareup.com
@@ -14490,7 +14472,6 @@ www-prd-trops.pad.squareup.com
 www-testexamplesbackup-meet-git.broadway.squareup.com
 www-testworld-of-tanks.pad.squareup.com
 www-yahoo-com.pad.squareup.com
-www.broadway.squareup.com
 www0-2.pad.squareup.com
 www0-db2-corp.pad.squareup.com
 www1-7-tr.broadway.squareup.com
@@ -15494,7 +15475,6 @@ agave.corp.squareup.com
 amazon-dxcon-fgcpnxiq.squareup.com
 origin-jp-canary.squareup.com
 3-nat.hq.squareup.com
-www.viruswww-20turkey.pad.squareup.com
 5-nat.hq.squareup.com
 1-nat.hq.squareup.com
 covoiturage-trieves.pad.squareup.com
@@ -15624,7 +15604,7 @@ www-140-admins.pad.squareup.com
 www-28-7www4-08.pad.squareup.com
 spiffe-oidc.www10-0.pad.squareup.com
 www11-6.pad.squareup.com
-www.www1-38.www-0-74.pad.squareup.com
+www1-38.www-0-74.pad.squareup.com
 wc-external.pad.squareup.com
 www-31-8.lab.pad.squareup.com
 www-35-8.admins.pad.squareup.com
@@ -15724,7 +15704,7 @@ mtaout-112-ewr.pad.squareup.com
 www47-7.pad.squareup.com
 www4-63.pad.squareup.com
 www-90-www0-78.pad.squareup.com
-www.www1-64stg.pad.squareup.com
+www1-64stg.pad.squareup.com
 www06-9.pad.squareup.com
 old.www-49.pad.squareup.com
 www-9-2merch6.pad.squareup.com
@@ -15809,11 +15789,11 @@ www11-9.www-35.pad.squareup.com
 mtaout.www42-2.pad.squareup.com
 www-2-5-5.mgmt.pad.squareup.com
 www-1-1-7.emea.pad.squareup.com
-www.www1-46.ebs.pad.squareup.com
+www1-46.ebs.pad.squareup.com
 www1-22.pad.squareup.com
 status.ingresswww.pad.squareup.com
 www-54-0-v3.pad.squareup.com
-www.www1-7-6-metric.pad.squareup.com
+www1-7-6-metric.pad.squareup.com
 support.pad.squareup.com
 www-112www9-5.pad.squareup.com
 www-3-8-1.pad.squareup.com
@@ -15856,7 +15836,7 @@ www1-0-8www0-3-7.pad.squareup.com
 www-3-5-2-www-15-9.pad.squareup.com
 www-133administrators.pad.squareup.com
 www-7-1.disabled.pad.squareup.com
-www.www-288.www11-4.pad.squareup.com
+www-288.www11-4.pad.squareup.com
 www1-96.pad.squareup.com
 trafficwww-288.pad.squareup.com
 www-35-2.pad.squareup.com
@@ -15928,7 +15908,7 @@ www-5.pad.squareup.com
 www-1-9-3-www-04-5.pad.squareup.com
 www-27-3uploads.pad.squareup.com
 toolbar-www-1-1-0.pad.squareup.com
-www.www14-9.gitlab.pad.squareup.com
+www14-9.gitlab.pad.squareup.com
 www1-8-6.pad.squareup.com
 www-272rpc.pad.squareup.com
 preview.www40-2.pad.squareup.com
@@ -16046,7 +16026,7 @@ www-3-53.pad.squareup.com
 www03-4.k8s-dev.pad.squareup.com
 production.pad.squareup.com
 www-4-0-3.pad.squareup.com
-www.www0-5-8www1-41.pad.squareup.com
+www0-5-8www1-41.pad.squareup.com
 www-3-1-1ingress.pad.squareup.com
 www-402-www0-52.pad.squareup.com
 www-2-67.pad.squareup.com
@@ -16168,7 +16148,6 @@ www-528.gemstash.pad.squareup.com
 www-339.pad.squareup.com
 www-15-7-www-3-1-5.pad.squareup.com
 controller.pad.squareup.com
-www.www03-4.k8s-dev.pad.squareup.com
 0204rox.broadway.squareup.com
 org.www-1-68.pad.squareup.com
 www1-9-5.pad.squareup.com
@@ -16264,7 +16243,7 @@ www-502k8s-prd.pad.squareup.com
 engineeringconnect.broadway.squareup.com
 www1-24-reth0-900.pad.squareup.com
 www-3-44.pad.squareup.com
-www.www11-4.pad.squareup.com
+www11-4.pad.squareup.com
 slb01awww-07-6.pad.squareup.com
 koala.pad.squareup.com
 www9-4.pad.squareup.com
@@ -16275,13 +16254,12 @@ www-3-28www-1-9-0.pad.squareup.com
 www-334authenticate.pad.squareup.com
 www-367-k8s-prod.pad.squareup.com
 trafficwww-061.pad.squareup.com
-www.www0-5-8stats.pad.squareup.com
+www0-5-8stats.pad.squareup.com
 www05-0.pad.squareup.com
 mgmt-www-1-6-1.pad.squareup.com
 pn.www-12-8.pad.squareup.com
 sol.www-1-91.pad.squareup.com
 www-529old.pad.squareup.com
-www14-9.gitlab.pad.squareup.com
 peering4-www-104.pad.squareup.com
 phpstatus-www.pad.squareup.com
 www-09-0.www2-6.pad.squareup.com
@@ -16323,7 +16301,6 @@ www-8-1www0-95.pad.squareup.com
 www0-0.pad.squareup.com
 www-2-62.pad.squareup.com
 www-2-4-3.pad.squareup.com
-www.www-90-www0-78.pad.squareup.com
 tester-www-1-2-0.pad.squareup.com
 www1-4-5-www-0-0.pad.squareup.com
 www-384-raw.pad.squareup.com
@@ -16409,7 +16386,6 @@ dashboard.squareup.com
 apollo.pad.squareup.com
 www13-2-admins.pad.squareup.com
 www-37-3-www-04-7.pad.squareup.com
-www0-5-8stats.pad.squareup.com
 www-255.pad.squareup.com
 www-356.pad.squareup.com
 www1-69.pad.squareup.com
@@ -16476,7 +16452,6 @@ t.pad.squareup.com
 www1-59.pad.squareup.com
 www3-7-www0-0-5.pad.squareup.com
 latency.origin.squareup.com
-www1-7-6-metric.pad.squareup.com
 static.pad.squareup.com
 infiltr8.pad.squareup.com
 www0-36.pad.squareup.com
@@ -16582,7 +16557,6 @@ oldwww4-6.pad.squareup.com
 www-003-amazon.pad.squareup.com
 www4-1-2.pad.squareup.com
 www-5-8.www.pad.squareup.com
-www.www1-58cvs.pad.squareup.com
 www-364.pad.squareup.com
 www-048-corner.pad.squareup.com
 prd.www-184.pad.squareup.com
@@ -16615,7 +16589,7 @@ www1-7-7.pad.squareup.com
 mgmt.www05-9.pad.squareup.com
 www7-0.pad.squareup.com
 www-285.pad.squareup.com
-www.www0-1-1cvs.pad.squareup.com
+www0-1-1cvs.pad.squareup.com
 toolbar.www-48.pad.squareup.com
 www-0-6-0.kubernetes.pad.squareup.com
 www-236.pad.squareup.com
@@ -16632,7 +16606,6 @@ pics.www2-4.pad.squareup.com
 www-7-7.pad.squareup.com
 www-03-1-asana.pad.squareup.com
 www-30-8.pad.squareup.com
-www0-1-1cvs.pad.squareup.com
 www-3-91.pad.squareup.com
 www-1-15-svc.pad.squareup.com
 oid.www40-7.pad.squareup.com
@@ -16718,7 +16691,6 @@ www-29-7.pad.squareup.com
 svc.www1-1-9.pad.squareup.com
 www9-5.pad.squareup.com
 www-0-8-9www-5-2-1.pad.squareup.com
-www.www42-7.www-28-4.pad.squareup.com
 gw.pad.squareup.com
 www-96.pad.squareup.com
 www1-57www2-4.pad.squareup.com
@@ -16741,7 +16713,7 @@ www-265-www-09-1.pad.squareup.com
 www0-6-2.pad.squareup.com
 www-2-6-4www-12-9.pad.squareup.com
 www-3-7-9.pad.squareup.com
-www.www1-2-8.pad.squareup.com
+www1-2-8.pad.squareup.com
 www49-8www-28-4.pad.squareup.com
 gitlab.pad.squareup.com
 www-226.pad.squareup.com
@@ -16774,7 +16746,6 @@ statusswag.www.pad.squareup.com
 tester.www-1-50.pad.squareup.com
 www4-0-6.pad.squareup.com
 toolbar.pad.squareup.com
-www-288.www11-4.pad.squareup.com
 www-3-5-6.pad.squareup.com
 www16-6.pad.squareup.com
 www-2-52.pad.squareup.com
@@ -16937,7 +16908,6 @@ prod.pad.squareup.com
 www41-4.pad.squareup.com
 005-lambdas.broadway.squareup.com
 www16-9.pad.squareup.com
-www.www1-2-3.training.pad.squareup.com
 www-06-3-www5-3.pad.squareup.com
 www-24-3-old.pad.squareup.com
 viruswww-20turkeyapac.pad.squareup.com
@@ -17045,7 +17015,7 @@ ci.pad.squareup.com
 www-11.www-33-2.pad.squareup.com
 www-512.pad.squareup.com
 www10-9-redir.pad.squareup.com
-www.www02-0.lab.pad.squareup.com
+www02-0.lab.pad.squareup.com
 www-32-7.mgmt.pad.squareup.com
 oid-www-325.pad.squareup.com
 preview-www-2-4-7.pad.squareup.com
@@ -17149,22 +17119,20 @@ signed.www7-3.pad.squareup.com
 www-154.active.pad.squareup.com
 www-21www-2-2-6.pad.squareup.com
 www1-8-7.pad.squareup.com
-www.www1-2-legacy.pad.squareup.com
+www1-2-legacy.pad.squareup.com
 tester-www0-65.pad.squareup.com
 www-2-1-1active.pad.squareup.com
 www-4-07.pad.squareup.com
 ghcpi.pad.squareup.com
 www-013-www-356.pad.squareup.com
 www9-7.pad.squareup.com
-www.www1-2-3www-03-5.pad.squareup.com
 so.www-14-6.pad.squareup.com
 www0-1.pad.squareup.com
 www-1-50.www4-21.pad.squareup.com
 notifications-www0-02.pad.squareup.com
-www.www1-1-4azure.pad.squareup.com
+www1-1-4azure.pad.squareup.com
 www7-7.www4-20.pad.squareup.com
 nigeria.www-9-2.pad.squareup.com
-www1-64stg.pad.squareup.com
 hulft-jcb.p.nrt1.squareup.com
 market-www7-9.pad.squareup.com
 www-245-www-19-2.pad.squareup.com
@@ -17185,12 +17153,11 @@ www1-63-toolbar.pad.squareup.com
 ll.0-101-0123549816.broadway.squareup.com
 www-6-2www-3-0-8.pad.squareup.com
 www-071vlan-151-snat01.pad.squareup.com
-www.www4-21ingress.pad.squareup.com
 www4-7-0.pad.squareup.com
 www4-2-4paywall.pad.squareup.com
 www1-5.pad.squareup.com
 germany.pad.squareup.com
-www.www15-7-www-319.pad.squareup.com
+www15-7-www-319.pad.squareup.com
 www1-1-0.pad.squareup.com
 www13-8.pad.squareup.com
 www1-2.pad.squareup.com
@@ -17231,12 +17198,11 @@ www1-51.pad.squareup.com
 www-02-7apache.pad.squareup.com
 www-7-4www-414.pad.squareup.com
 www0-79.pad.squareup.com
-www1-38.www-0-74.pad.squareup.com
 www0-06-redirect.pad.squareup.com
 www1-40.pad.squareup.com
 cccamp.pad.squareup.com
 www-26-1.pad.squareup.com
-www.www02-0.vlan-151-float01.pad.squareup.com
+www02-0.vlan-151-float01.pad.squareup.com
 www0-19.pad.squareup.com
 www4-45.www-1-4.pad.squareup.com
 adm.pad.squareup.com
@@ -17353,7 +17319,6 @@ mobileclientwww-25-1.pad.squareup.com
 platinum.www-1-19.pad.squareup.com
 www-003disabled.pad.squareup.com
 www-401.www-2-56.pad.squareup.com
-www.www10-8www42-7.pad.squareup.com
 www0-03.www1-01.pad.squareup.com
 netscaler.www-31-1.pad.squareup.com
 0-101-01-basic-types.broadway.squareup.com
@@ -17506,7 +17471,6 @@ www-523-portal.pad.squareup.com
 www16-2e3-33-2.pad.squareup.com
 www-45.pad.squareup.com
 www-0-42prd.pad.squareup.com
-www.www4-88.pad.squareup.com
 www-1-0.www1-5-6.pad.squareup.com
 www-98-rpc.pad.squareup.com
 www-53-www0-6-1.pad.squareup.com
@@ -17582,7 +17546,7 @@ www00-9www-3-0-4.pad.squareup.com
 www6-3.pad.squareup.com
 www-0-79www-0-92.pad.squareup.com
 www-1-18-www0-76.pad.squareup.com
-www.www1-7-6-www4-6-1.pad.squareup.com
+www1-7-6-www4-6-1.pad.squareup.com
 www0-4-7.pad.squareup.com
 developer.pad.squareup.com
 www-23-8.pad.squareup.com
@@ -17670,7 +17634,6 @@ www0-7-4redirector.pad.squareup.com
 www1-3-7.pad.squareup.com
 www-34-9.www-236.pad.squareup.com
 www-51-1.pad.squareup.com
-www.www1-7-6management.pad.squareup.com
 www4-2-8.pad.squareup.com
 www-7-8www-036.pad.squareup.com
 www-5-01.metrics.pad.squareup.com
@@ -17720,7 +17683,7 @@ wwwsigned.www49-6.pad.squareup.com
 bounce-layouts.broadway.squareup.com
 kr.pad.squareup.com
 www4-2-6.pad.squareup.com
-www.www1-38.pad.squareup.com
+www1-38.pad.squareup.com
 www-3-2-3.pad.squareup.com
 wiki.pad.squareup.com
 www-3-82-toolbar.pad.squareup.com
@@ -17736,7 +17699,6 @@ www4-0-3.pad.squareup.com
 www-08-6.www03-9.pad.squareup.com
 www1-4-9discover.pad.squareup.com
 develop.pad.squareup.com
-www02-0.vlan-151-float01.pad.squareup.com
 www-31-6preview.pad.squareup.com
 mssql01.www-036.pad.squareup.com
 www-0-3-0upload.pad.squareup.com
@@ -17762,11 +17724,8 @@ oobastion02.sjc2.squareup.com
 productions.www0-7-0.pad.squareup.com
 www-40-1.oid.pad.squareup.com
 www-5-2-2.pad.squareup.com
-www1-2-8.pad.squareup.com
 www-01stats.pad.squareup.com
 www-19-0.www-16-6.pad.squareup.com
-www.www11-4-assets.pad.squareup.com
-www1-46.ebs.pad.squareup.com
 partner-www-29-6.pad.squareup.com
 store.www0-67.pad.squareup.com
 www-2-58.pad.squareup.com
@@ -17844,7 +17803,6 @@ active.pad.squareup.com
 www0-2-0-upload.pad.squareup.com
 www1-41-active.pad.squareup.com
 www-4-0apiserver.pad.squareup.com
-www.www0-5-8.pad.squareup.com
 www-063privacy.pad.squareup.com
 market.www-343.pad.squareup.com
 rpc.pad.squareup.com
@@ -17892,7 +17850,7 @@ www-1-6-0www-105.pad.squareup.com
 www0-42.www-14-3.pad.squareup.com
 www4-1-7.pad.squareup.com
 paywall.pad.squareup.com
-www.www1-58-devs.pad.squareup.com
+www1-58-devs.pad.squareup.com
 www-15-6.self01.pad.squareup.com
 www-3-48.pad.squareup.com
 tienda.www1-1-0.pad.squareup.com
@@ -17906,7 +17864,7 @@ www-387.pad.squareup.com
 reset.pad.squareup.com
 www47-6.pad.squareup.com
 www-2-66.pad.squareup.com
-www.www0-5-8k8s-dev.pad.squareup.com
+www0-5-8k8s-dev.pad.squareup.com
 www-24-1.pad.squareup.com
 www-526.raw.pad.squareup.com
 www17-2.pad.squareup.com
@@ -18005,7 +17963,7 @@ www-1-30.www-272.pad.squareup.com
 www0-1-1www-365.pad.squareup.com
 www8-1.pad.squareup.com
 02075373602.broadway.squareup.com
-www.www0-78.cgi.pad.squareup.com
+www0-78.cgi.pad.squareup.com
 www-37-7-ctl.pad.squareup.com
 www-2-0-5.pad.squareup.com
 www-03-1-preview.pad.squareup.com
@@ -18026,7 +17984,6 @@ www-15-1-apidocs.pad.squareup.com
 www1-8-8.pad.squareup.com
 festforaine.pad.squareup.com
 www-115-rpc.pad.squareup.com
-www0-5-8www1-41.pad.squareup.com
 www-094-app.pad.squareup.com
 www19-6.pad.squareup.com
 www2-6.pad.squareup.com
@@ -18058,7 +18015,6 @@ www-263.pad.squareup.com
 www-32.pad.squareup.com
 www-5-2-1.pad.squareup.com
 brasil.pad.squareup.com
-www11-4.pad.squareup.com
 www0-3-8-www-1-4-8.pad.squareup.com
 www1-1-5.pad.squareup.com
 www-22-4.pad.squareup.com
@@ -18100,7 +18056,6 @@ www-340.pad.squareup.com
 www-3-1-5.pad.squareup.com
 www-29-0-priv.pad.squareup.com
 www-65.pad.squareup.com
-www0-5-8k8s-dev.pad.squareup.com
 www1-70-controller.pad.squareup.com
 www-35-3account.pad.squareup.com
 www-39-9www-41-3.pad.squareup.com
@@ -18123,7 +18078,6 @@ www-04-4.prd.pad.squareup.com
 mtu.www-0-2-3.pad.squareup.com
 rtr.www00-6.pad.squareup.com
 www48-7-www4-8-5.pad.squareup.com
-www1-1-4azure.pad.squareup.com
 www5-3.pad.squareup.com
 www-187-www-144.pad.squareup.com
 www4-8-5-www-3-6-4.pad.squareup.com
@@ -18150,7 +18104,6 @@ www-392.pad.squareup.com
 www-2-5-7-www-285.pad.squareup.com
 svc.www-16-1.pad.squareup.com
 www-403.pad.squareup.com
-www.www1-0-8.train.pad.squareup.com
 www0-65.pad.squareup.com
 www1-5-1.pad.squareup.com
 www-04-2-www-173.pad.squareup.com
@@ -18236,7 +18189,6 @@ www-2-97.pad.squareup.com
 www11-6-www4-16.pad.squareup.com
 www-2-6-4.pad.squareup.com
 www-3-27.pad.squareup.com
-www1-38.pad.squareup.com
 rpcwww0-09.pad.squareup.com
 mtaout-www-271.pad.squareup.com
 www-0-26.www.www1-2-8.pad.squareup.com
@@ -18344,7 +18296,6 @@ www-3-2-7.pad.squareup.com
 www-3-3-8-www-1-8-9.pad.squareup.com
 020679al.broadway.squareup.com
 trafficwww-30-0.pad.squareup.com
-www.www-528www1-46.pad.squareup.com
 www-278www09-0.pad.squareup.com
 www08-6.authentication.pad.squareup.com
 niquelebp.pad.squareup.com
@@ -18353,7 +18304,6 @@ www-1-83reserved.pad.squareup.com
 0-101-00kill.broadway.squareup.com
 www-374.pad.squareup.com
 www-99.pad.squareup.com
-www15-7-www-319.pad.squareup.com
 trainwww-2-11.pad.squareup.com
 vlan-151-float01www-06-8.pad.squareup.com
 www-1-61-scm.pad.squareup.com
@@ -18390,7 +18340,6 @@ oid.www-414.pad.squareup.com
 www-0-35.www-3-7-7.pad.squareup.com
 www0-28.pad.squareup.com
 pc17.www-2-4-4.pad.squareup.com
-www1-58-devs.pad.squareup.com
 www-27-4.pad.squareup.com
 www0-0-7-www-308.pad.squareup.com
 www-0-65-www2-3.pad.squareup.com
@@ -18433,7 +18382,6 @@ www-3-1-6.pad.squareup.com
 www15-0.pad.squareup.com
 0-100-666007-es6.broadway.squareup.com
 utah.www40-9.pad.squareup.com
-www.www11-1.www1-5-5.pad.squareup.com
 www-40-4.pad.squareup.com
 swag.www-3-32.pad.squareup.com
 www0-67.pad.squareup.com
@@ -18526,7 +18474,6 @@ www-1-72-raw.pad.squareup.com
 www1-87.pad.squareup.com
 v3www-0-9-3.pad.squareup.com
 www-37-5.pad.squareup.com
-www.www0-62www1-2-8.pad.squareup.com
 cvs.pad.squareup.com
 www-310.www-089.pad.squareup.com
 penseemolle.pad.squareup.com
@@ -18559,7 +18506,6 @@ www-2-9-7.pad.squareup.com
 entelotrack.squareup.com
 www04-8.pad.squareup.com
 www4-05.scm.pad.squareup.com
-www1-2-legacy.pad.squareup.com
 metric.www-13.pad.squareup.com
 www41-8.pad.squareup.com
 www-158.preview.pad.squareup.com
@@ -18581,7 +18527,6 @@ www1-39.pad.squareup.com
 xp.www-3-60.pad.squareup.com
 www07-8-www05-6.pad.squareup.com
 www-046-www-3-7-5.pad.squareup.com
-www1-7-6-www4-6-1.pad.squareup.com
 abn-api.broadway.squareup.com
 outgoing.www-89.pad.squareup.com
 i0ii8ca1q5554j5l.0-101.broadway.squareup.com
@@ -18666,7 +18611,6 @@ www0-8-9.pad.squareup.com
 www4-5.pad.squareup.com
 merchant.www0-1.pad.squareup.com
 www-6-9.pad.squareup.com
-www.toolbarwww0-3-9.pad.squareup.com
 www-3-8-8.redir.pad.squareup.com
 talk.www02-2.pad.squareup.com
 www-257.pad.squareup.com
@@ -18688,7 +18632,6 @@ www01-8.pad.squareup.com
 www1-82.pad.squareup.com
 www02-3.lab.pad.squareup.com
 scm.www-3-81.pad.squareup.com
-www.www0-78www-1-15.pad.squareup.com
 www0-8-0.pad.squareup.com
 www0-7-3documentation.pad.squareup.com
 www2-5.pad.squareup.com
@@ -18709,7 +18652,6 @@ www12-2.pad.squareup.com
 supportprofile.www0-9-1.pad.squareup.com
 www0-3-9www19-8.pad.squareup.com
 www-1-51-www-262.pad.squareup.com
-www.www1-7-6-ingress.pad.squareup.com
 www0-84.pad.squareup.com
 www-1-9-3.application.pad.squareup.com
 www4-0-5.pad.squareup.com
@@ -18748,7 +18690,6 @@ www0-68.pad.squareup.com
 uploads.www-08-2.pad.squareup.com
 www-3-5-6.documentation.pad.squareup.com
 www-35-7.pad.squareup.com
-www.www1-46.pad.squareup.com
 www14-4www-3-48.pad.squareup.com
 internals.pad.squareup.com
 www-5-1-0.pad.squareup.com
@@ -18763,7 +18704,6 @@ www0-09-account.pad.squareup.com
 marketwww0-6-0.pad.squareup.com
 www-32-9.pad.squareup.com
 acc.pad.squareup.com
-www.www0-78.customer.pad.squareup.com
 www-2-6-4www-521.pad.squareup.com
 www-27-2.authentication.pad.squareup.com
 mysql0.www0-80.pad.squareup.com
@@ -18794,7 +18734,6 @@ www-1-8.internals.pad.squareup.com
 america.pad.squareup.com
 www-2-48.pad.squareup.com
 www-3-5-2www0-20.pad.squareup.com
-www0-78.cgi.pad.squareup.com
 www-3-10.pad.squareup.com
 www16-2.pad.squareup.com
 taxes-notifications.pad.squareup.com
@@ -18840,7 +18779,6 @@ partou.pad.squareup.com
 utilities.www1-6-4.pad.squareup.com
 www-27.www--8.pad.squareup.com
 www-1-7-2.www-23-9.pad.squareup.com
-www.www4-1-1.pad.squareup.com
 www-44.pad.squareup.com
 www19-0-www40-7.pad.squareup.com
 tester.www-326.pad.squareup.com
@@ -18850,7 +18788,6 @@ www-3-70-www-1-5-8.pad.squareup.com
 www0-5-9authenticate.pad.squareup.com
 preview.www-3-70.pad.squareup.com
 studio.www-307.pad.squareup.com
-www02-0.lab.pad.squareup.com
 www4-4-8.pad.squareup.com
 stg.www-376.pad.squareup.com
 www-4-7.pad.squareup.com

@@ -76,7 +76,6 @@ smtpp15.rheinenergie.com
 sync.rheinenergie.com
 regionalstrom.rheinenergie.com
 storybook.onlineservice-test.rheinenergie.com
-www.microsite.rheinenergie.com
 ava-akz.rheinenergie.com
 assets.web-dev.rheinenergie.com
 chatbot-website.rheinenergie.com
@@ -92,7 +91,7 @@ login-dev.rheinenergie.com
 smtpp11.rheinenergie.com
 smartcontracting.rheinenergie.com
 devsummit-ki-demo.aks-mid-dev-public.rheinenergie.com
-www.energiewende.rheinenergie.com
+energiewende.rheinenergie.com
 onlinemanager-business.rheinenergie.com
 smtpp-25.rheinenergie.com
 tarifvergleichsrechner-dev.aks-mid-dev-public.rheinenergie.com
@@ -165,7 +164,6 @@ re-components.aks-mid-dev-public.rheinenergie.com
 smtpp-24.rheinenergie.com
 training.aks-mid-dev-public.rheinenergie.com
 web-mr.rheinenergie.com
-www.rheinenergie.com
 energiehandel-akzeptanz.rheinenergie.com
 ims-hb.rheinenergie.com
 caching.rheinenergie.com
@@ -196,7 +194,6 @@ sts.rheinenergie.com
 web-staging.cdn.rheinenergie.com
 webdispatcher-dev.rheinenergie.com
 betriebsmittel-dev.rheinenergie.com
-energiewende.rheinenergie.com
 meine-anlage.rheinenergie.com
 treue.rheinenergie.com
 jobs.rheinenergie.com

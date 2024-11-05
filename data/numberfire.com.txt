@@ -2,8 +2,7 @@ admin.numberfire.com
 espn.numberfire.com
 o2525.abmail.info.numberfire.com
 dev-author.numberfire.com
-www.numberfire.com
-www.live.numberfire.com
+live.numberfire.com
 www4.numberfire.com
 dev-admin.numberfire.com
 challenge.numberfire.com
@@ -18,8 +17,6 @@ dev-api.numberfire.com
 www2.numberfire.com
 nf-api-dev.numberfire.com
 nginx.qa.odds.numberfire.com
-live.numberfire.com
-www.challenge.numberfire.com
 www1.numberfire.com
 live-dev-api.numberfire.com
 odds.numberfire.com
@@ -33,4 +30,3 @@ www3.numberfire.com
 prod.odds.numberfire.com
 nf-api.numberfire.com
 squares.numberfire.com
-*.numberfire.com

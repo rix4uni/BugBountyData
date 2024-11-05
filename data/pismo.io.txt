@@ -85,7 +85,6 @@ developers.pismo.io
 eur.pismo.io
 internal.eu.pismo.io
 internal.depositary.pismo.io
-www.pismo.io
 portaldotitular.pismo.io
 global.citi.pismo.io
 data.pismo.io
@@ -126,16 +125,11 @@ internal.pci.demo.pismo.io
 nequi.pismo.io
 pci.nequi.pismo.io
 sae1.internal.b3.pismo.io
-*.nequi.pismo.io
 global.nequi.pismo.io
 prod.nequi.pismo.io
-*.data.pismo.io
 pci.abnamro.pismo.io
-*.euw1.internal.pci.abnamro.pismo.io
-*.pci.abnamro.pismo.io
-*.internal.pci.abnamro.pismo.io
 euw1.internal.pci.abnamro.pismo.io
+internal.pci.abnamro.pismo.io
 euw1.internal.abnamro.pismo.io
 abnamro.pismo.io
-internal.pci.abnamro.pismo.io
 internal.abnamro.pismo.io

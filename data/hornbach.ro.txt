@@ -3,7 +3,6 @@ media.prd.hornbach.ro
 int-cdn.hornbach.ro
 media.dev.hornbach.ro
 media.int.hornbach.ro
-www.hornbach.ro
 fut.hornbach.ro
 ti.hornbach.ro
 backend-api.int.hornbach.ro
@@ -20,7 +19,7 @@ int.hornbach.ro
 glue.prd.gcp.hornbach.ro
 publications.hornbach.ro
 glue.dev.gcp.hornbach.ro
-www.stg.gcp.hornbach.ro
+stg.gcp.hornbach.ro
 backend-api.stage.hornbach.ro
 zed.int.hornbach.ro
 zed.hornbach.ro
@@ -51,7 +50,7 @@ stage.hornbach.ro
 metrupatrat.hornbach.ro
 backend-api.stg.gcp.hornbach.ro
 da.hornbach.ro
-www.int.gcp.hornbach.ro
-www.prd.gcp.hornbach.ro
-www.dev.gcp.hornbach.ro
+int.gcp.hornbach.ro
+prd.gcp.hornbach.ro
+dev.gcp.hornbach.ro
 oneapp-api.prd.gcp.hornbach.ro

@@ -1253,7 +1253,6 @@ ssh-armis-admin-ocbc-9153.edge.armis.com
 ssh-armis-support-clv-9153.edge.armis.com
 ssh-armis-admin-westernmidstream-9191.edge.armis.com
 ssh-armis-admin-2368403.edge.armis.com
-aww.armis.com
 ssh-armis-support-elal-9154.edge.armis.com
 ssh-armis-admin-nestle-10564.edge.armis.com
 ssh-armis-support-takeda-9199.edge.armis.com
@@ -1356,7 +1355,6 @@ ssh-armis-support-test-hodaya-8153.edge.armis.com
 ssh-armis-support-wwt-morganstanley2-8153.edge.armis.com
 ssh-armis-support-wmu-9154.edge.armis.com
 ssh-armis-support-nrm-9159.edge.armis.com
-www.armis.com
 ssh-armis-admin-mondelez-15512.edge.armis.com
 ssh-armis-support-aus-9160.edge.armis.com
 ssh-armis-support-keystone-9157.edge.armis.com
@@ -1411,7 +1409,7 @@ ssh-armis-support-rc2-8160.edge.armis.com
 ssh-armis-support-mainlinehealth-9154.edge.armis.com
 ssh-armis-support-jpmc-9153.edge.armis.com
 ssh-armis-support-dcampus-9155.edge.armis.com
-www.www.armis.com
+www.armis.com
 californie.armis.com
 ssh-armis-support-ecolab-9479.edge.armis.com
 ssh-armis-support-flex-8156.edge.armis.com
@@ -1442,7 +1440,7 @@ ssh-armis-support-rc-new-8153.edge.armis.com
 ssh-armis-support-abbott-9835.edge.armis.com
 ssh-armis-support-spire-9154.edge.armis.com
 30828-8155-tcp-gateway.edge.armis.com
-www.web1.armis.com
+web1.armis.com
 ssh-armis-admin-ecolab-9479.edge.armis.com
 ssh-armis-support-ecolab-9334.edge.armis.com
 today.1.888.452.4011www.armis.com
@@ -1464,7 +1462,6 @@ ssh-armis-support-test-dror-dl-alignment3-8153.edge.armis.com
 ssh-armis-support-amadeus-9186.edge.armis.com
 ssh-armis-support-lumenis-9154.edge.armis.com
 ssh-root-test-yael7-9221.edge.armis.com
-www.vpn-va.dev.armis.com
 ssh-armis-support-lowesnpe-54105.edge.armis.com
 ssh-armis-support-homedepot-11763.edge.armis.com
 ssh-armis-support-abbott-9746.edge.armis.com
@@ -1637,7 +1634,6 @@ ssh-armis-support-nuvance-9154.edge.armis.com
 ssh-armis-support-upstate-9153.edge.armis.com
 ssh-armis-support-homedepot-12555.edge.armis.com
 ssh-armis-support-flex-9179.edge.armis.com
-3ww.armis.com
 ssh-armis-support-test-tcp-banner-8153.edge.armis.com
 agent-edge.secops.armis.com
 ssh-armis-support-houstonmethodist-9161.edge.armis.com
@@ -1677,7 +1673,6 @@ ssh-armis-support-water-ie-9221.edge.armis.com
 ssh-armis-support-indep-9153.edge.armis.com
 ssh-armis-support-vicdet-8171.edge.armis.com
 ssh-armis-support-votit-9188.edge.armis.com
-www.mgmt-p52.armis.com
 ssh-armis-support-reckitt-9153.edge.armis.com
 ssh-armis-admin-rc-new-8154.edge.armis.com
 ssh-armis-admin-test-gmp2-8153.edge.armis.com
@@ -1716,7 +1711,6 @@ test-mor-new.edge.armis.com
 ssh-armis-support-chattanooga-9153.edge.armis.com
 ssh-armis-support-skane-9160.edge.armis.com
 ssh-armis-support-votit-9164.edge.armis.com
-web1.armis.com
 ssh-armis-admin-nestle-9225.edge.armis.com
 ssh-armis-support-optumhealth-13003.edge.armis.com
 ssh-armis-support-test-tal-cip-8153.edge.armis.com
@@ -1731,7 +1725,7 @@ ssh-armis-admin-water-ie-9206.edge.armis.com
 ssh-armis-support-test-assetcentre1-8154.edge.armis.com
 ssh-armis-support-takeda-9201.edge.armis.com
 ssh-armis-support-votit-9162.edge.armis.com
-www.e.t.armis.com
+e.t.armis.com
 ssh-armis-support-walmart-9153.edge.armis.com
 ssh-armis-support-herouxdevtek-9153.edge.armis.com
 ssh-armis-support-largo-fl-9153.edge.armis.com
@@ -1766,7 +1760,6 @@ ssh-armis-support-nestle-9411.edge.armis.com
 ssh-armis-support-costco-9158.edge.armis.com
 prod4-tenant-private-console.edge.armis.com
 ssh-armis-support-bmw-8161.edge.armis.com
-www.go.armis.com
 ssh-armis-support-takeda-9156.edge.armis.com
 diag-md-test-rc-silf-8153.edge.armis.com
 ssh-armis-support-hpinc-9438.edge.armis.com
@@ -1815,7 +1808,6 @@ ssh-armis-support-mvs-il-8153.edge.armis.com
 ssh-armis-support-test-tenable-sc-8153.edge.armis.com
 ssh-armis-support-kaiser-9469.edge.armis.com
 ssh-armis-support-uah-9153.edge.armis.com
-www.ops-prod2.armis.com
 ssh-armis-support-rc2-8170.edge.armis.com
 ssh-armis-support-reckitt-9161.edge.armis.com
 ssh-armis-admin-ecolab-9355.edge.armis.com
@@ -1906,7 +1898,6 @@ ssh-armis-support-optumhealth-24291.edge.armis.com
 ssh-armis-support-tam-team-9186.edge.armis.com
 ssh-armis-support-test-emanuel-mt-8154.edge.armis.com
 ssh-armis-support-unitedairlines-9161.edge.armis.com
-www.vpn-il.dev.armis.com
 ssh-armis-support-votit-9185.edge.armis.com
 ssh-armis-support-mondelez-9808.edge.armis.com
 ssh-armis-support-test-danielw1-8153.edge.armis.com
@@ -2041,7 +2032,6 @@ ssh-armis-support-adm-italy-9154.edge.armis.com
 ssh-armis-admin-votit-9201.edge.armis.com
 ssh-armis-support-targaresources-8153.edge.armis.com
 ssh-armis-support-takeda-9317.edge.armis.com
-www.adfs-saml.dev.armis.com
 ssh-armis-support-hpinc-9153.edge.armis.com
 ssh-armis-support-test-saq-infra-12-8154.edge.armis.com
 ssh-armis-admin-usv-9357.edge.armis.com
@@ -2209,7 +2199,6 @@ diag-sm-mlgw-9153.edge.armis.com
 diag-sm-test-danielw-8155.edge.armis.com
 diag-sm-flex-9193.edge.armis.com
 diag-sm-rockwellautomation-9154.edge.armis.com
-*.edge-dev.armis.com
 diag-sm-flhealth-8153.edge.armis.com
 diag-sm-test-releasepen-1-8153.edge.armis.com
 diag-sm-test-danielw2-8153.edge.armis.com
@@ -2219,7 +2208,6 @@ diag-sm-test-danielw3-8153.edge.armis.com
 diag-sm-dcc-ie-9156.edge.armis.com
 diag-sm-dcc-ie-9170.edge.armis.com
 diag-sm-mclane-8199.edge.armis.com
-*.edge.armis.com
 diag-sm-tju-8153.edge.armis.com
 diag-sm-northside-9160.edge.armis.com
 diag-sm-lab-walmart-9153.edge.armis.com
@@ -2276,7 +2264,6 @@ diag-sm-vicdet-8168.edge.armis.com
 diag-sm-flex-9208.edge.armis.com
 diag-sm-solutions-55496.edge.armis.com
 diag-md-test-omerp-8158.edge.armis.com
-*.gw.armis.com
 diag-sm-flex-9207.edge.armis.com
 diag-sm-amat-9164.edge.armis.com
 diag-sm-test-john-8154.edge.armis.com

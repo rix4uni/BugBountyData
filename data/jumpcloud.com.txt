@@ -208,9 +208,4 @@ scim.pwm.jumpcloud.com
 grpc.pwm.jumpcloud.com
 nli.jumpcloud.com
 apple.mdm.prd02.jumpcloud.com
-www.jumpcloud.com
-*.apple.mdm.prd02.jumpcloud.com
-*.pwm.prd02.jumpcloud.com
-*.microsoft-mdm.prd02.jumpcloud.com
 microsoft-mdm.prd02.jumpcloud.com
-*.id.prd02.jumpcloud.com

@@ -3,7 +3,6 @@ dfnomad.int.efficientip.com
 df-filemanager.int.efficientip.com
 006c8799.bs.efficientip.com
 gitlab.efficientip.com
-*.gitlab-pages.efficientip.com
 gitlab-pages.efficientip.com
 quotationtools-dev.efficientip.com
 quotationtools.efficientip.com
@@ -17,7 +16,6 @@ pv28-0e60-4659.bs.efficientip.com
 pfe3-c18a-4b3b.bs.efficientip.com
 pubc-822d-4e98.bs.efficientip.com
 info.efficientip.com
-www.efficientip.com
 pf50-0780-47e4.bs.efficientip.com
 pvfe-0f4d-4f82.bs.efficientip.com
 pu13-df09-498f.bs.efficientip.com
@@ -77,10 +75,9 @@ blast24.int.efficientip.com
 int.efficientip.com
 mirror2.efficientip.com
 s.efficientip.com
-www.sandbox4.efficientip.com
 sandbox4.efficientip.com
 cdn.efficientip.com
-www.portail-cse.efficientip.com
+portail-cse.efficientip.com
 pm97-5250-4629.bs.efficientip.com
 sbm.efficientip.com
 dns1.int.efficientip.com
@@ -97,7 +94,6 @@ pvb1-d979-487a.bs.efficientip.com
 df-appsmith.int.efficientip.com
 vcenter.int.efficientip.com
 pf82-98fd-4b04.bs.efficientip.com
-www.marketing.efficientip.com
 pf00-8258-4b1a.bs.efficientip.com
 proxy-ovh-fr.efficientip.com
 rdit-tools.int.efficientip.com
@@ -120,9 +116,7 @@ pmb4-af19-457c.bs.efficientip.com
 2eugl.doh.efficientip.com
 dns2.int.efficientip.com
 pebf-9315-4045.bs.efficientip.com
-portail-cse.efficientip.com
 vmdev-lg.int.efficientip.com
-www.support.efficientip.com
 pf06-e353-4229.bs.efficientip.com
 rd-issuetracker.int.efficientip.com
 rdit.int.efficientip.com

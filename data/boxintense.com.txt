@@ -14,7 +14,6 @@ panel.boxintense.com
 vz2.boxintense.com
 dmarc.boxintense.com
 whdf9234t02fg43.boxintense.com
-www.boxintense.com
 openvpn.boxintense.com
 noc.boxintense.com
 mta-sts.boxintense.com
@@ -24,12 +23,9 @@ publicreport.boxintense.com
 monitor.boxintense.com
 cdn.boxintense.com
 seo.boxintense.com
-*.boxintense.com
-www.staging.boxintense.com
+staging.boxintense.com
 mail.staging.boxintense.com
 mail.boxintense.com
-www.server1-lax.boxintense.com
 server1-lax.boxintense.com
 ipv6.boxintense.com
-staging.boxintense.com
 ftpbackup1.boxintense.com

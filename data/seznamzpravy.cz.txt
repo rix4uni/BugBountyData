@@ -1,7 +1,6 @@
 notifikace.seznamzpravy.cz
 api.seznamzpravy.cz
 admin.seznamzpravy.cz
-www.seznamzpravy.cz
 api-admin.seznamzpravy.cz
 staging.share.seznamzpravy.cz
 share.seznamzpravy.cz
@@ -18,6 +17,4 @@ native.seznamzpravy.cz
 data.seznamzpravy.cz
 staging.seznamzpravy.cz
 eventserver.seznamzpravy.cz
-*.staging.campus.seznamzpravy.cz
 campus.seznamzpravy.cz
-*.campus.seznamzpravy.cz

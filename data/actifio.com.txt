@@ -80,8 +80,8 @@ sql-masking-prod.sa.actifio.com
 gateway-actifio-needham-1.actifio.com
 hello.actifio.com
 ndm-dns.actifio.com
-www.tco.actifio.com
-www.upvote.actifio.com
+tco.actifio.com
+upvote.actifio.com
 bls.actifio.com
 script.actifio.com
 cirrus.actifio.com
@@ -116,7 +116,6 @@ ge-0-0-1-ndmasr01.edge.actifio.com
 desktop.actifio.com
 ae1-1-ndmpalo02.edge.actifio.com
 bls01.corp.actifio.com
-tco.actifio.com
 wp1.actifio.com
 zoom-mczc-us-1.actifio.com
 partners.actifio.com
@@ -164,7 +163,6 @@ waloffice.actifio.com
 eps-mx1.actifio.com
 grr.actifio.com
 cloud.actifio.com
-www.shib.actifio.com
 zoom-mcmmr-us-1.actifio.com
 ge-0-0-1-pt200-walasr.edge.actifio.com
 ae35-ndm.actifio.com
@@ -185,6 +183,4 @@ cessna.actifio.com
 calsoftgw.actifio.com
 cybric.actifio.com
 gpvpn.actifio.com
-upvote.actifio.com
 walpalo-eth1-10.edge.actifio.com
-www.actifio.com

@@ -1,4 +1,3 @@
-*.unicef.ch
 campus.unicef.ch
 kfg-pdf-service.unicef.ch
 kfg-admin-api.unicef.ch
@@ -7,7 +6,6 @@ kfg-admin.unicef.ch
 kfg-pdf-service-staging.unicef.ch
 kfg-staging.unicef.ch
 kidsunited.unicef.ch
-www.unicef.ch
 image.email.unicef.ch
 cyclingforchildren.unicef.ch
 action.unicef.ch
@@ -27,12 +25,9 @@ mta.email.unicef.ch
 newsletter.unicef.ch
 autodiscover.unicef.ch
 stopphunger.unicef.ch
-www.stopphunger.unicef.ch
-www.stop-faim.unicef.ch
+stop-faim.unicef.ch
 stopallafame.unicef.ch
 email.unicef.ch
-www.stopallafame.unicef.ch
-stop-faim.unicef.ch
 vpn.unicef.ch
 transfer.unicef.ch
 w.unicef.ch

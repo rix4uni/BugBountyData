@@ -39,7 +39,7 @@ cs.ibotta.com
 register.ibotta.com
 o4787.mail.t.ibotta.com
 ecs-tf-env-test.ibotta.com
-www.liferewarded.ibotta.com
+liferewarded.ibotta.com
 static.ibotta.com
 admin-cfjhart.dev.ibotta.com
 partners.ibotta.com
@@ -60,7 +60,7 @@ gary-internal.ibotta.com
 link.ibotta.com
 o12.sg.sales.ibotta.com
 connected-content-staging.ibotta.com
-www.instagram.ibotta.com
+instagram.ibotta.com
 auth.dev.ibotta.com
 ecs-tf-env.ibotta.com
 help.ibotta.com
@@ -78,12 +78,12 @@ o13.sg.internal.ibotta.com
 content-server.ibotta.com
 feed-origin.ibotta.com
 admin-cf.ibotta.com
-www.k8sweb.dev.ibotta.com
+k8sweb.dev.ibotta.com
 community.ibotta.com
 retargeting.ibotta.com
 portal.ipn.ibotta.com
 autodiscover.cs.ibotta.com
-www.app.dev.ibotta.com
+app.dev.ibotta.com
 gary.ibotta.com
 api-cfjhart.dev.ibotta.com
 gpustage01.ibotta.com
@@ -94,7 +94,6 @@ auth.ibotta.com
 research.ibotta.com
 facebook.ibotta.com
 partnerships.ibotta.com
-www.alcohol.ibotta.com
 o6.email.ibotta.com
 connected-content.ibotta.com
 api.ibotta.com
@@ -119,12 +118,10 @@ api.dev.ibotta.com
 retail.ibotta.com
 cpg.ibotta.com
 audiences.ibotta.com
-liferewarded.ibotta.com
 admin.ibotta.com
 admin-cf.dev.ibotta.com
 admin.dev.ibotta.com
 home.ibotta.com
-k8sweb.dev.ibotta.com
 cs-k8sweb.dev.ibotta.com
 liferewarded-test.ibotta.com
 static-test.ibotta.com
@@ -145,7 +142,6 @@ cfjhart.dev.ibotta.com
 api-tfjhart.dev.ibotta.com
 press.ibotta.com
 dev.ibotta.com
-instagram.ibotta.com
 cashback.ibotta.com
 brand.ibotta.com
 tracking.ibotta.com
@@ -157,7 +153,6 @@ o3928.mail.ibotta.com
 o3929.mail.ibotta.com
 vpn.ibotta.com
 pgg26s.7106961t.ibotta.com
-app.dev.ibotta.com
 o3728.mail.security.ibotta.com
 link.dev.ibotta.com
 authenticate.ibotta.com
@@ -190,12 +185,9 @@ pas-test2.dev.ibotta.com
 karwendel.dev.ibotta.com
 auth.smonetti.dev.ibotta.com
 adpost-monolith-stagingin-eshin.dev.ibotta.com
-www.looker.ibotta.com
 groove.ibotta.com
-www.ibotta.com
 trust.ibotta.com
 ipn-campaign-gateway.plt.cx.ibotta.com
-*.ibotta.com
 ipn-campaign-gateway.plt.staging.cx.ibotta.com
 auth.dashboard.staging.ibotta.com
 ipn-campaign-gateway.fo.staging.cx.ibotta.com
@@ -203,11 +195,9 @@ bulk-offer-creation.ibotta.com
 cs-external.ibotta.com
 careers.ibotta.com
 jobs.ibotta.com
-www.solstice.ibotta.com
 user-config.portal.ipn.ibotta.com
 api-internal.ibotta.com
 auth-internal.ibotta.com
-*.dev.ibotta.com
 auth-stg-origin.dev.ibotta.com
 api-stg-origin.dev.ibotta.com
 grpc.gary.ibotta.com
@@ -217,15 +207,6 @@ api.gary.ibotta.com
 api-k8s.dev.ibotta.com
 auth-k8s.dev.ibotta.com
 api-k8s-test.dev.ibotta.com
-www.cs.ibotta.com
-www.sampling.ibotta.com
-www.shop.ibotta.com
-www.press.ibotta.com
-www.pinterest.ibotta.com
-www.facebook.ibotta.com
-www.cashback.ibotta.com
-www.brand.ibotta.com
-www.snap.ibotta.com
 0-40-7.d.ibotta.com
 0-41.d.ibotta.com
 0-48.d.ibotta.com
@@ -2567,7 +2548,6 @@ dw1.dev.ibotta.com
 dwn.d.ibotta.com
 dwphan.d.ibotta.com
 dwrider.d.ibotta.com
-dww.d.ibotta.com
 dz.dev.ibotta.com
 e-money.d.ibotta.com
 e024da11.d.ibotta.com
@@ -9433,7 +9413,6 @@ ret-9-3-2.d.ibotta.com
 cig1w342-ultimaterewards.d.ibotta.com
 hourh6cciio01.d.ibotta.com
 tadapreprod.d.ibotta.com
-www.staginglb.ibotta.com
 backupinternal-wwwmiembros.d.ibotta.com
 357-1.d.ibotta.com
 96-0-1-7.d.ibotta.com
@@ -9774,7 +9753,6 @@ bid47ge.d.ibotta.com
 gurafu-asia.d.ibotta.com
 web-ehs-rialto-ca.d.ibotta.com
 netjmp-01a.dev.ibotta.com
-www.d.ibotta.com
 135-207-253-70.d.ibotta.com
 0api-okta-bryansk.00.d.ibotta.com
 logosetgvhost.d.ibotta.com
@@ -9998,7 +9976,6 @@ my24.d.ibotta.com
 bid474i.d.ibotta.com
 934m.d.ibotta.com
 ipv4-c007-cun001-telmex-isp.d.ibotta.com
-www.api.ibotta.com
 www0master.d.ibotta.com
 htt-telcel-net-9-4.d.ibotta.com
 plb.d.ibotta.com
@@ -10469,7 +10446,6 @@ rhumatologie.d.ibotta.com
 egr3-3-gra.d.ibotta.com
 static-77.ibotta.com
 135-207-231-49.d.ibotta.com
-www.content-server.ibotta.com
 access.dev.ibotta.com
 135-207-181-32.d.ibotta.com
 0api-okta.2.admins.d.ibotta.com
@@ -10765,7 +10741,6 @@ fremont-13-10.d.ibotta.com
 0api-okta.00.rebate.d.ibotta.com
 myworkspace.d.ibotta.com
 04-77-8.d.ibotta.com
-www.app.ibotta.com
 sjc1-enapicataloger-a1.d.ibotta.com
 zhu.d.ibotta.com
 neocovidevalertmanager-ds.d.ibotta.com

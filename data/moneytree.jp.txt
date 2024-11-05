@@ -1,6 +1,5 @@
-*.moneytree.jp
-*.lpt-dev.moneytree.jp
-*.lpt-stg.moneytree.jp
+lpt-dev.moneytree.jp
+lpt-stg.moneytree.jp
 accounts.moneytree.jp
 api.moneytree.jp
 api-direct.moneytree.jp
@@ -25,7 +24,6 @@ jpck2.moneytree.jp
 jpom1.moneytree.jp
 link.moneytree.jp
 link-staging.moneytree.jp
-lpt-dev.moneytree.jp
 metrics.moneytree.jp
 mtlink.moneytree.jp
 myaccount-staging.moneytree.jp
@@ -41,15 +39,12 @@ send.moneytree.jp
 support.moneytree.jp
 work.moneytree.jp
 work-staging.moneytree.jp
-www.moneytree.jp
 wwws-staging.moneytree.jp
 lpt-prod.moneytree.jp
-lpt-stg.moneytree.jp
 secure4.moneytree.jp
 api2.moneytree.jp
 secure3.moneytree.jp
 transactional.moneytree.jp
-*.lpt-prod.moneytree.jp
 gs.lpt-prod.moneytree.jp
 refinery.lpt-dev.moneytree.jp
 refinery.lpt-prod.moneytree.jp

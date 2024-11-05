@@ -28,7 +28,6 @@ ppms-auctions-api-prod.ppms.gov
 ppms-auctions-api-staging.ppms.gov
 ppms-notification-api-staging.ppms.gov
 k8s-ingress-ppms-soap-proxy-prod.ppms.gov
-www.ppms.gov
 api-staging.ppms.gov
 staging.ppms.gov
 api.ppms.gov

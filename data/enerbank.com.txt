@@ -22,8 +22,8 @@ healthmonitor.integration.enerbank.com
 prequalify.dev.enerbank.com
 rebate.integration.enerbank.com
 status.uat.enerbank.com
-www.gbdevpress.enerbank.com
-www.keller.enerbank.com
+gbdevpress.enerbank.com
+keller.enerbank.com
 applicationreview.dev.enerbank.com
 live.enerbank.com
 prequalification-api.integration.enerbank.com
@@ -31,10 +31,8 @@ prometheus.uat.enerbank.com
 polsrvapi.uat.enerbank.com
 portal-dev-admin.enerbank.com
 proget.uat.enerbank.com
-www.application.enerbank.com
 user.enerbank.com
 devgbpress.enerbank.com
-gbdevpress.enerbank.com
 polsrvapi.integration.enerbank.com
 prequalification.enerbank.com
 datawarehouse.enerbank.com
@@ -82,8 +80,7 @@ identityserver.enerbank.com
 onlineappintegration.enerbank.com
 partners.uat.enerbank.com
 termscalculator.enerbank.com
-www.elynxparser.enerbank.com
-www.piwik.enerbank.com
+elynxparser.enerbank.com
 auditapi.enerbank.com
 contractor-onboarding.enerbank.com
 training.enerbank.com
@@ -129,7 +126,6 @@ appintegration-legacy.stage.enerbank.com
 application-b99.enerbank.com
 application-legacy.enerbank.com
 lenderaudit.uat.enerbank.com
-www.heatmasterchecklist.enerbank.com
 amqpservice-api.stage.enerbank.com
 creditreport.stage.enerbank.com
 maintenance.dev.enerbank.com
@@ -143,7 +139,7 @@ fms.integration.enerbank.com
 healthmonitor.enerbank.com
 keller.bwpdev.enerbank.com
 maintenance.stage.enerbank.com
-www.loan.enerbank.com
+loan.enerbank.com
 application-b99.uat.enerbank.com
 bwpdev.enerbank.com
 fms.uat.enerbank.com
@@ -181,7 +177,6 @@ md.uat.enerbank.com
 acme.stage.enerbank.com
 appintegration-legacy.integration.enerbank.com
 auditapi.integration.enerbank.com
-elynxparser.enerbank.com
 prequalify.stage.enerbank.com
 sub3.enerbank.com
 rebate.dev.enerbank.com
@@ -193,7 +188,6 @@ prometheus.dev.enerbank.com
 ppl-report-api.integration.enerbank.com
 servicing.integration.enerbank.com
 user.integration.enerbank.com
-www.payments.enerbank.com
 dealerresourcecenterdev.integration.enerbank.com
 dev.woodmaster.enerbank.com
 octopus.dev.enerbank.com
@@ -205,7 +199,6 @@ datawarehouse.dev.enerbank.com
 ppl-report-api.stage.enerbank.com
 stagingbwp.enerbank.com
 termscalculator-sf.uat.enerbank.com
-www.referral.enerbank.com
 amqpbridge-api.uat.enerbank.com
 applicationreview.integration.enerbank.com
 decisionengine.dev.enerbank.com
@@ -219,7 +212,6 @@ applicantverification.uat.enerbank.com
 calendar.stage.enerbank.com
 contractors.enerbank.com
 prod.enerbank.com
-www.enerbank.com
 grafana.enerbank.com
 rebate.stage.enerbank.com
 sqlreport.integration.enerbank.com
@@ -246,7 +238,7 @@ applicantverification.dev.enerbank.com
 applicantverification.stage.enerbank.com
 auditapi.dev.enerbank.com
 qfloorschecklist.enerbank.com
-www.get.enerbank.com
+get.enerbank.com
 calendar.enerbank.com
 grafana.dev.enerbank.com
 grafana.uat.enerbank.com
@@ -291,7 +283,6 @@ dev.fujitsu-resources.enerbank.com
 prod.uat.enerbank.com
 prometheus.enerbank.com
 termscalculator-sf.dev.enerbank.com
-www.sub2.enerbank.com
 elynxfilesorter.dev.enerbank.com
 partnerportal.integration.enerbank.com
 portal-admin.dev.enerbank.com
@@ -314,14 +305,12 @@ contractors.integration.enerbank.com
 document.uat.enerbank.com
 termscalculator.integration.enerbank.com
 wiremock.uat.enerbank.com
-www.devbwp.enerbank.com
 amqpbridge-api.stage.enerbank.com
 loan.uat.enerbank.com
 md.integration.enerbank.com
 user.stage.enerbank.com
 user.dev.enerbank.com
 wiremock.integration.enerbank.com
-www.partnerportalapp.bwpdev.enerbank.com
 application.integration.enerbank.com
 fms.stage.enerbank.com
 lenderapp.uat.enerbank.com
@@ -338,7 +327,6 @@ woodmaster.bwpdev.enerbank.com
 applicationreview.uat.enerbank.com
 calendar.dev.enerbank.com
 elynxparser.integration.enerbank.com
-get.enerbank.com
 status.integration.enerbank.com
 admin.enerbank.com
 appdemo.bwpdev.enerbank.com
@@ -377,7 +365,6 @@ policyserver.dev.enerbank.com
 product-api.enerbank.com
 adminintegration.enerbank.com
 contractor-onboarding.dev.enerbank.com
-loan.enerbank.com
 partnerportaladmin.dev.enerbank.com
 portal-dev.enerbank.com
 application-legacy.uat.enerbank.com
@@ -389,7 +376,6 @@ prequalification.uat.enerbank.com
 wiremock.enerbank.com
 dealerresourcecenter.enerbank.com
 fms.dev.enerbank.com
-keller.enerbank.com
 ma.stage.enerbank.com
 proget.dev.enerbank.com
 application.stage.enerbank.com
@@ -5548,5 +5534,3 @@ s3.ap-southeast-2.vpce.0-100-192-42.enerbank.com
 e1.enerbank.com
 amqpbridge-api.test.enerbank.com
 payment.enerbank.com
-www.fms.enerbank.com
-www.stagingbwp.enerbank.com

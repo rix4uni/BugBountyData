@@ -27,12 +27,11 @@ splunk-event-staging.cyberfusion.center
 testportal.cyberfusion.center
 az-us.cyberfusion.center
 mmpp.cyberfusion.center
-www.portal.cyberfusion.center
+portal.cyberfusion.center
 mail-cfc-us-prod-1.cyberfusion.center
 gl.cyberfusion.center
 az-test-ch.cyberfusion.center
 vpn-st1.cyberfusion.center
-portal.cyberfusion.center
 vpn-emea.cyberfusion.center
 splunk-event-dev.cyberfusion.center
 passwordreset.cyberfusion.center

@@ -220,7 +220,6 @@ appeastdev.wbd.com
 docs.helena.wbd.com
 ramp.beta.dap.wbd.com
 snapshot.eu-west.prod.bc.wbd.com
-www.wbd.com
 splint.eu-west.prod.bc.wbd.com
 devappcentralappservice.wbd.com
 brandcenter.wbd.com
@@ -342,7 +341,7 @@ straapcppma01.net.wbd.com
 screentrack.wbd.com
 gradletest.dev.dap.wbd.com
 feathr.dap.wbd.com
-www.pac.wbd.com
+pac.wbd.com
 infoblox.net.wbd.com
 dev-chatapp.wbd.com
 shadow-eu.dev.bc.wbd.com
@@ -694,7 +693,6 @@ bus.wbd.com
 beta-looker.wbd.com
 guest.wbd.com
 historicaldata-dev.wbd.com
-pac.wbd.com
 bi-dev.wbd.com
 qa-cnn-curator.wbd.com
 bc-support-mqtt-eu.dev.bc.wbd.com
@@ -801,19 +799,11 @@ vpcr-glb-ampp-discovery-sandbox5.wbd.com
 lookercloud.wbd.com
 vpcr-glb-ampp-discovery-sandbox1.wbd.com
 prodwesticopappservice01.wbd.com
-www.catman.wbd.com
 dowjones.wbd.com
 iport1.wbd.com
 myapps.wbd.com
 mta.seekercommunications.wbd.com
-www.upfrontrsvp.wbd.com
-www.askcnnstglegal.wbd.com
-www.askcnndevlegal.wbd.com
-www.catmanqa.wbd.com
-www.preview.thv.wbd.com
 sapcitrix.wbd.com
-www.catmanoffice.wbd.com
-www.askcnnlegal.wbd.com
 appvolwestdev.wbd.com
 sapcitrixsso.wbd.com
 iport2.wbd.com

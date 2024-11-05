@@ -1,6 +1,5 @@
-*.pumb.ua
-*.ctrl-b.pumb.ua
-*.cz-sender.pumb.ua
+ctrl-b.pumb.ua
+cz-sender.pumb.ua
 30razom.pumb.ua
 about.pumb.ua
 about-dev.pumb.ua
@@ -27,8 +26,6 @@ career.pumb.ua
 cc.pumb.ua
 cdn.pumb.ua
 count.pumb.ua
-ctrl-b.pumb.ua
-cz-sender.pumb.ua
 deeplinks.pumb.ua
 digital.pumb.ua
 docs.pumb.ua
@@ -75,10 +72,6 @@ wf.pumb.ua
 widget.cz-sender.pumb.ua
 widget.sender.pumb.ua
 win.pumb.ua
-www.pumb.ua
-www.30razom.pumb.ua
-www.digital.pumb.ua
-www.mobile-content.pumb.ua
 y.pumb.ua
 zalog.pumb.ua
 admin.cz-sender.pumb.ua
@@ -133,5 +126,4 @@ _h323ls._udp.pumb.ua
 _h323cs._tcp.pumb.ua
 13.pumb.ua
 i.pumb.ua
-www.studenthub.pumb.ua
 adocspumb.pumb.ua

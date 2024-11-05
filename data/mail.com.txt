@@ -1,8 +1,6 @@
-*.mail.com
-*.cad.www.mail.com
-*.navigator-lxa.mail.com
-*.navigator-pre-lxa.mail.com
-*.www.mail.com
+cad.www.mail.com
+navigator-lxa.mail.com
+navigator-pre-lxa.mail.com
 123loadboard.mail.com
 159731fa-d5ad-4d7e-b7a7-cef44e4fc8db.calendar.mail.com
 16.185.163.71.in-addr.arpa.mail.com
@@ -120,7 +118,6 @@ buydirectnsave-com-au.mail.com
 bzrxserv12.mail.com
 bzrxserv21.mail.com
 c.mail.com
-cad.www.mail.com
 cae-mcom-bs-dev04.mail.com
 cae-mcom-dev06.mail.com
 caldav.mail.com
@@ -636,8 +633,6 @@ nafsus-com01b.mail.com
 nav-app-mailcom-pre-lxa01-lb.mail.com
 nav-home-mailcom-pre-lxa01-lb.mail.com
 nav-web-mailcom-pre-lxa01-lb.mail.com
-navigator-lxa.mail.com
-navigator-pre-lxa.mail.com
 nbcfstaff-org01b.mail.com
 nck12-org0e.mail.com
 netorgft1128519.mail.com
@@ -922,16 +917,13 @@ woodsongfarm-net.mail.com
 writibrukutero7.mail.com
 wusa.navigator-lxa.mail.com
 wusa.navigator-pre-lxa.mail.com
-www.mail.com
 www-pre.mail.com
-www.autofolierung-schwyz.mail.com
-www.faq.mail.com
-www.refarby.mail.com
-www.yahoo.mail.com
+autofolierung-schwyz.mail.com
+refarby.mail.com
+yahoo.mail.com
 www2.mail.com
 y.mail.com
 y556798.mail.com
-yahoo.mail.com
 yourrulz.mail.com
 yqsip-com.mail.com
 yukieadams-com.mail.com
@@ -974,7 +966,6 @@ smtp3.mail.com
 spellcheck.mail.com
 traco.mail.com
 wa-qa.mail.com
-www.support.mail.com
 wyattmwakim.mail.com
 3c-cdn-qa-bs.mail.com
 3c-qa-bs.mail.com

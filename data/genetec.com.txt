@@ -24,7 +24,7 @@ subscriptions.genetec.com
 downloads.genetec.com
 fdnortheurope.login.genetec.com
 samtest1.genetec.com
-www.downloadcenter1.genetec.com
+downloadcenter1.genetec.com
 westeurope.staging.login.genetec.com
 northeurope.login.genetec.com
 gsampstage-anonymous.genetec.com
@@ -42,10 +42,9 @@ connect.genetec.com
 test.genetec.com
 paportal-devmaster.genetec.com
 svbackupservicesstaging.genetec.com
-www.events.genetec.com
 maintenance.genetec.com
 eastus-test5.login.genetec.com
-www.downloadcenter.genetec.com
+downloadcenter.genetec.com
 knowledge.genetec.com
 schemas.genetec.com
 nietzsche.genetec.com
@@ -73,7 +72,7 @@ westus.login.genetec.com
 expglobal.login.genetec.com
 hostmaster.genetec.com
 remotelab.genetec.com
-www.dap.genetec.com
+dap.genetec.com
 wwwpolicieswhichresulted.genetec.com
 gushealthstatus-dev.genetec.com
 somecer.genetec.com
@@ -88,7 +87,6 @@ rdisprovisioning.genetec.com
 mobile.genetec.com
 tips.genetec.com
 recursos.genetec.com
-downloadcenter.genetec.com
 cloudops01.genetec.com
 forecast.genetec.com
 sbc1.genetec.com
@@ -120,9 +118,7 @@ it.genetec.com
 info.genetec.com
 cfauconnet02.genetec.com
 crm.dev.genetec.com
-dap.genetec.com
 cstlaurent.genetec.com
-www.learningcrew.genetec.com
 certtest.genetec.com
 cpq.genetec.com
 gsampstage-qa.genetec.com
@@ -133,7 +129,7 @@ mailer.genetec.com
 portal.subscriptions.genetec.com
 resources.genetec.com
 vpnmtl.genetec.com
-www.socrates.genetec.com
+socrates.genetec.com
 wwwdownloads.genetec.com
 gelato-dev.genetec.com
 paportal-dev.genetec.com
@@ -184,7 +180,6 @@ login.genetec.com
 dev.genetec.com
 scservices.genetec.com
 systemreportservices.genetec.com
-www.genetec.com
 tipsts.genetec.com
 techpartners.genetec.com
 exp.login.genetec.com
@@ -195,7 +190,6 @@ testapp.login.genetec.com
 appliances.genetec.com
 paportal.genetec.com
 sampkac.genetec.com
-socrates.genetec.com
 www3.genetec.com
 gpnsprod1.genetec.com
 axisxgenetec-help.genetec.com
@@ -214,7 +208,6 @@ legacy.genetec.com
 vpnmtltest.genetec.com
 gtapforum.genetec.com
 bids.genetec.com
-downloadcenter1.genetec.com
 bloomreachsite-dev.genetec.com
 godmeandbp.genetec.com
 scwebactivation.genetec.com
@@ -294,7 +287,3 @@ pag.genetec.com
 updateservice-dev.genetec.com
 svazpvbmg001.genetec.com
 home.genetec.com
-*.gpnsstage.genetec.com
-*.gpnsdev.genetec.com
-*.genetec.com
-*.subscriptions.genetec.com

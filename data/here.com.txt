@@ -159,7 +159,6 @@ eu-west-1.ds.data.here.com
 prd.api.us-east-1.account.here.com
 prd.eu-west-1.ds.data.here.com
 version.prd.eu-west-1.ds.data.here.com
-www.here.com
 geocoder.cc.api.here.com
 reverse.geocoder.cc.api.here.com
 route.hybrid.api.here.com
@@ -16478,7 +16477,7 @@ matrix.route.cc.api.here.com
 pamsdc02.ad.here.com
 static-77-137.ptr.here.com
 static-91-183.sin.ptr.here.com
-www.stg.www.here.com
+stg.www.here.com
 mc91.here.com
 pchiweblync11.ad.here.com
 phantom-dev.splunk.ext.here.com
@@ -18024,7 +18023,6 @@ slp.pos.nlp.nokia.us-west-1.rd.pos.here.com
 static-65-107.atl.ptr.here.com
 trafficsensors.ext.here.com
 static-93-197.syd.ptr.here.com
-www.developer.here.com
 legal.tool.in.here.com
 static-80-110.pek.ptr.here.com
 static-80-50.pek.ptr.here.com
@@ -18124,7 +18122,7 @@ static-77-139.ptr.here.com
 patlcucmsuba.uc.here.com
 static-69-108.ptr.here.com
 static-72-217.lhr.ptr.here.com
-www.origin-dev.realitylens.here.com
+origin-dev.realitylens.here.com
 66-55-183-1ic-82-62.pek.ptr.here.com
 batch.data.api.platform.here.com
 config-volatile.platform.sit.api.here.com
@@ -18329,7 +18327,6 @@ static-74-248.lhr.ptr.here.com
 static-95-71.ptr.here.com
 wsm-workspace-service-kor.cme.in.here.com
 static-67-39.atl.ptr.here.com
-www.coverage.here.com
 yardmapcreator.here.com
 demo.dbclone.in.here.com
 static-74-24.lhr.ptr.here.com
@@ -18637,7 +18634,7 @@ eu-central-1.rd.pos.here.com
 fpm-fms.cme.in.here.com
 static-88-106.sin.ptr.here.com
 static-88-141.sin.ptr.here.com
-www.automateddrivingzones.here.com
+automateddrivingzones.here.com
 denodominor-dev.in.here.com
 static-70-1.ptr.here.com
 static-82-151.pek.ptr.here.com
@@ -19229,7 +19226,6 @@ metricinsights-uat.mace.in.here.com
 sit.desti.api.here.com
 static-66-69.atl.ptr.here.com
 v110-53-30-8.route.hybrid.api.here.com
-www.jaguar.here.com
 static-77-161.ptr.here.com
 static-80-69.pek.ptr.here.com
 api-gateway.int-2-aws-us-west-2.k8s.in.here.com
@@ -19363,7 +19359,6 @@ static-95-162.ptr.here.com
 catchpoint-proxy-sit.api.platform.in.here.com
 dev.talent-rnd.aws.in.here.com
 eu-west-1-mdns.net.in.here.com
-www.nac.in.here.com
 preview.tracks.ops.data.here.com
 static-68-107.atl.ptr.here.com
 static-75-132.lhr.ptr.here.com
@@ -19536,7 +19531,7 @@ dhcp-182.ptr.here.com
 lala14.here.com
 patlsldp04.core.in.here.com
 static-95-121.ptr.here.com
-www.dangeroussite.dont.click.here.com
+dangeroussite.dont.click.here.com
 1.pano.maps.cpt.cc.api.here.com
 static-77-105.ptr.here.com
 static-77-239.ptr.here.com
@@ -20017,7 +20012,7 @@ download.stg.hybrid.cc.api.here.com
 eswar.test.here.com
 static-83-184.pek.ptr.here.com
 upload.test.das.in.here.com
-www.cwiki.ext.here.com
+cwiki.ext.here.com
 log-routing-config.em.int-1-aws-eu-west-1.k8s.in.here.com
 static-78-72.ptr.here.com
 static-81-162.pek.ptr.here.com
@@ -20036,7 +20031,7 @@ em-log-routing-config.sit.borg-int-az-westus-2.dpaz.in.here.com
 static-83-129.pek.ptr.here.com
 static-74-146.lhr.ptr.here.com
 static-77-216.ptr.here.com
-www.audi-karteneditor.dip.here.com
+audi-karteneditor.dip.here.com
 static-94-223.ptr.here.com
 tiles.traffic.sit.api.here.com
 static-73-149.lhr.ptr.here.com
@@ -20363,7 +20358,7 @@ parkupdater.nxt.cc.api.here.com
 static-65-112.atl.ptr.here.com
 static-79-54.ptr.here.com
 static-94-124.ptr.here.com
-www.fqdn-goes.here.com
+fqdn-goes.here.com
 static-68-232.atl.ptr.here.com
 tpeg-beta.nxt.cc.api.here.com
 dhcp-167.ptr.here.com
@@ -20408,7 +20403,7 @@ maps.gfe.cit.api.here.com
 static-65-200.atl.ptr.here.com
 static-66-246.atl.ptr.here.com
 static-94-105.ptr.here.com
-www.dev.jaguar.here.com
+dev.jaguar.here.com
 2.aerial.maps.cit.api.here.com
 dev.eajira.it.here.com
 scheduler.here.com
@@ -21123,7 +21118,6 @@ static-65-195.atl.ptr.here.com
 static-78-116.ptr.here.com
 static-92-14.nuq.ptr.here.com
 24mm.administration-integ.komainu.cc.api.here.com
-dangeroussite.dont.click.here.com
 hugin.in.here.com
 sdaabbsk.sit.api.here.com
 off-street-parking.komainu.cc.api.here.com
@@ -21212,7 +21206,7 @@ sia.server.internal-p-aws-us-east-1.k8s.in.here.com
 static-67-89.atl.ptr.here.com
 static-69-118.ptr.here.com
 static-93-156.syd.ptr.here.com
-www.stg.hpo.in.here.com
+stg.hpo.in.here.com
 static-77-13.ptr.here.com
 static-77-218.ptr.here.com
 static-90-49.sin.ptr.here.com
@@ -21593,7 +21587,7 @@ stg.partners.here.com
 static-82-32.pek.ptr.here.com
 static-91-71.sin.ptr.here.com
 ver.cit.hybrid.ccv.api.here.com
-www.trafficanalytics.here.com
+trafficanalytics.here.com
 hdcms.aws.in.here.com
 beta.next.here.com
 ebvip.tool.in.here.com
@@ -21632,7 +21626,6 @@ static-67-97.atl.ptr.here.com
 24mm.fuel-devel.komainu.cc.api.here.com
 static-67-142.atl.ptr.here.com
 static-69-88.ptr.here.com
-dev.jaguar.here.com
 dhcp-173.ptr.here.com
 static-65-226.atl.ptr.here.com
 static-66-195.atl.ptr.here.com
@@ -21701,7 +21694,6 @@ index.data.api.platform.here.com
 mc93.here.com
 static-71-162.ptr.here.com
 static-75-225.lhr.ptr.here.com
-automateddrivingzones.here.com
 lala47.here.com
 pipelines-int.api.eu-ireland-plm-1.platform.sit.here.com
 workcenter-uat.ad.here.com
@@ -21830,7 +21822,6 @@ consul.service.consul.sdp.in.here.com
 grafana-kpis.in.here.com
 smartoffice.api.here.com
 voice-kor.cme.in.here.com
-www.tools.in.here.com
 splunkforwarder.rivermuse.here.com
 static-82-218.pek.ptr.here.com
 static-91-119.sin.ptr.here.com
@@ -22075,7 +22066,6 @@ wrls-4-stu.ptr.here.com
 static-80-157.pek.ptr.here.com
 static-89-253.sin.ptr.here.com
 static-93-102.syd.ptr.here.com
-trafficanalytics.here.com
 dhcp-209.ptr.here.com
 em-log-routing-config.prd.prd-1-aws-eu-west-1.k8s.in.here.com
 static-72-56.lhr.ptr.here.com
@@ -22110,7 +22100,6 @@ reverse.geocoder.cpt.hybrid.api.here.com
 splunkforwarder.rddc.here.com
 static-92-167.nuq.ptr.here.com
 subp-sps.cit.data.here.com
-www.cwiki.here.com
 static-74-6.lhr.ptr.here.com
 static-77-103.ptr.here.com
 static-80-37.pek.ptr.here.com
@@ -22359,7 +22348,6 @@ config.iam.prd-2-aws-us-west-2.k8s.in.here.com
 san-update-t3s.here.com
 static-65-3.atl.ptr.here.com
 static-83-120.pek.ptr.here.com
-www.mobility.here.com
 static-67-90.atl.ptr.here.com
 static-72-77.lhr.ptr.here.com
 static-78-154.ptr.here.com
@@ -22792,7 +22780,7 @@ dcm1-119-241-88-128.tky.mesh.ad.m.si.api.here.com
 lcast.pre.olp.api.here.com
 static-69-6.ptr.here.com
 static-94-57.ptr.here.com
-www.landrover.dev.in.here.com
+landrover.dev.in.here.com
 static-71-191.ptr.here.com
 static-76-18.ptr.here.com
 static-79-79.ptr.here.com
@@ -23353,7 +23341,6 @@ resource-index.api.platform.here.com
 static-78-66.ptr.here.com
 static-83-108.pek.ptr.here.com
 static-91-131.sin.ptr.here.com
-www.jaguar.dev.in.here.com
 4.sli.cc.api.here.com
 hhw.tpeg.traffic.api.here.com
 static-65-255.atl.ptr.here.com
@@ -24734,7 +24721,6 @@ static-78-217.ptr.here.com
 static-93-18.syd.ptr.here.com
 static-91-97.sin.ptr.here.com
 whois.ptr.here.com
-landrover.dev.in.here.com
 nntp.cutlass.in.here.com
 static-67-48.atl.ptr.here.com
 static-90-11.sin.ptr.here.com
@@ -24953,7 +24939,6 @@ admin-service-dev.api.platform.sit.here.com
 reverse.geocoder.cit.bulk.api.here.com
 static-69-101.ptr.here.com
 static-69-192.ptr.here.com
-audi-karteneditor.dip.here.com
 static-93-186.syd.ptr.here.com
 js.cc.api.here.com
 1.base.maps.cpt.cc.api.here.com
@@ -25136,7 +25121,6 @@ static-82-253.pek.ptr.here.com
 eu-west-1.dev.live.data.here.com
 live.nw.here.com
 stt.eu-west-1.traces.api.here.com
-www.platform.in.here.com
 static-73-2.lhr.ptr.here.com
 static-79-125.ptr.here.com
 static-95-173.ptr.here.com
@@ -25221,7 +25205,6 @@ image.maps.nxt.cc.api.here.com
 qa.us-east-1.accounting.stt.api.here.com
 static-92-44.nuq.ptr.here.com
 static-94-1.ptr.here.com
-www.dafobi.in.here.com
 static-91-116.sin.ptr.here.com
 static-91-149.sin.ptr.here.com
 static-76-148.ptr.here.com
@@ -25425,7 +25408,6 @@ static-67-253.atl.ptr.here.com
 static-88-234.sin.ptr.here.com
 static-95-148.ptr.here.com
 static-88-87.sin.ptr.here.com
-stg.hpo.in.here.com
 tpeg.sit.api.here.com
 ver.cit.us-east-1.ds.data.here.com
 static-65-208.atl.ptr.here.com
@@ -25454,7 +25436,7 @@ direct-admin.data.api.platform.sit.here.com
 can.wego-sit.hereweb.here.com
 static-73-108.lhr.ptr.here.com
 static-88-181.sin.ptr.here.com
-www.landcover.here.com
+landcover.here.com
 3.sps.cit.data.here.com
 4.sli.api.here.com
 rdextvip-pr-atl01.it.here.com
@@ -25536,7 +25518,6 @@ static-79-180.ptr.here.com
 static-74-132.lhr.ptr.here.com
 static-82-224.pek.ptr.here.com
 static-92-247.nuq.ptr.here.com
-www.info.here.com
 static-68-139.atl.ptr.here.com
 static-78-100.ptr.here.com
 static-77-163.ptr.here.com
@@ -25686,7 +25667,6 @@ static-70-230.ptr.here.com
 ipaas.int-2-aws-us-west-2.k8s.in.here.com
 static-65-193.atl.ptr.here.com
 static-93-171.syd.ptr.here.com
-www.landrover.here.com
 static-82-93.pek.ptr.here.com
 weu-svr-dcon02.ad.here.com
 chiwco.it.here.com
@@ -25760,7 +25740,7 @@ preco.places.dev.api.here.com
 static-67-100.atl.ptr.here.com
 static-67-215.atl.ptr.here.com
 static-89-45.sin.ptr.here.com
-www.dchidminor90.lnx.in.here.com
+dchidminor90.lnx.in.here.com
 admin-service.api.platform.sit.here.com
 desiree-nea-cit-test1.borg-p.nw.ops.here.com
 resource-access.api.platform.sit.here.com
@@ -26004,7 +25984,6 @@ static-77-179.ptr.here.com
 static-81-231.pek.ptr.here.com
 svip.it.here.com
 trafficanalytics.sit.api.here.com
-www.hpo.in.here.com
 ci4.sdip.ci.cc.api.here.com
 dr.vault-dev.hcs.aws.in.here.com
 prd-eu-west-2.access.api.here.com
@@ -26719,7 +26698,6 @@ dev.splunkforwarder.vet.here.com
 map-router-uat.in.here.com
 sez.vpn.here.com
 static-70-199.ptr.here.com
-cwiki.ext.here.com
 hth-qa.it.here.com
 static-80-56.pek.ptr.here.com
 static-93-178.syd.ptr.here.com
@@ -26919,7 +26897,6 @@ static-72-81.lhr.ptr.here.com
 static-76-86.ptr.here.com
 static-79-204.ptr.here.com
 static-83-97.pek.ptr.here.com
-www.automateddrivingzones.cit.here.com
 odin519test.in.here.com
 static-68-48.atl.ptr.here.com
 static-89-181.sin.ptr.here.com
@@ -26930,7 +26907,6 @@ osp.sit.cc.api.here.com
 scbe.stt.api.here.com
 static-68-23.atl.ptr.here.com
 static-80-13.pek.ptr.here.com
-www.thor.in.here.com
 static-65-50.atl.ptr.here.com
 static-74-196.lhr.ptr.here.com
 static-93-170.syd.ptr.here.com
@@ -27299,7 +27275,6 @@ static-71-225.ptr.here.com
 static-72-97.lhr.ptr.here.com
 static-90-172.sin.ptr.here.com
 static-72-31.lhr.ptr.here.com
-stg.www.here.com
 dev-api.das.in.here.com
 static-70-115.ptr.here.com
 static-70-187.ptr.here.com
@@ -27534,12 +27509,10 @@ static-78-28.ptr.here.com
 static-75-193.lhr.ptr.here.com
 static-77-169.ptr.here.com
 static-92-59.nuq.ptr.here.com
-www.platform.here.com
 1.sps.cpt.cc.data.here.com
 3.pano.maps.sit.cc.api.here.com
 sps.nxt.data.here.com
 static-73-186.lhr.ptr.here.com
-dchidminor90.lnx.in.here.com
 splunk.audi.aee.api.here.com
 static-80-34.pek.ptr.here.com
 dv-static-developer.here.com
@@ -27976,7 +27949,4 @@ pvldlyncpool.ad.here.com
 5.base.maps.tst.api.here.com
 pchilyncpool.ad.here.com
 si-probewsrest.traffic.data.here.com
-*.routing.in.here.com
-*.borg-rd.nw.ops.here.com
 sugardev.ext.here.com
-*.splunk.ext.here.com

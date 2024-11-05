@@ -1,11 +1,10 @@
 staging.omv-well-flow-rates.cogniteapp.com
 unleash-edge.cogniteapp.com
-*.az-pnq-gp-001.cogniteapp.com
-*.next.az-pnq-gp-001.cogniteapp.com
-*.pr.az-pnq-gp-001.cogniteapp.com
-*.preview.az-pnq-gp-001.cogniteapp.com
-*.staging.az-pnq-gp-001.cogniteapp.com
 az-pnq-gp-001.cogniteapp.com
+next.az-pnq-gp-001.cogniteapp.com
+pr.az-pnq-gp-001.cogniteapp.com
+preview.az-pnq-gp-001.cogniteapp.com
+staging.az-pnq-gp-001.cogniteapp.com
 go.remote-xom.cogniteapp.com
 s1.remote-xom.cogniteapp.com
 s2.remote-xom.cogniteapp.com
@@ -349,7 +348,7 @@ az-power-no-northeurope.cogniteapp.com
 operation.cogniteapp.com
 s2.remote-omv.cogniteapp.com
 cdf-landing-prod.cogniteapp.com
-www.operations.cogniteapp.com
+operations.cogniteapp.com
 discovery.cogniteapp.com
 api.az-dxb-001.cogniteapp.com
 opsup-dev.cogniteapp.com
@@ -415,7 +414,6 @@ cdf-streamlit-prod.cogniteapp.com
 files.cogniteapp.com
 api.az-ams-sp-002.cogniteapp.com
 cdf-atlas-ai-agent-builder-preview.cogniteapp.com
-www.cogniteapp.com
 s1.remote-japan.cogniteapp.com
 cdf-landing-preview.cogniteapp.com
 discover.preview.cogniteapp.com
@@ -636,7 +634,7 @@ preview.mp.greenfield.cogniteapp.com
 react-demo.bluefield.cogniteapp.com
 framo.opint.cogniteapp.com
 next.az-power-no-northeurope.cogniteapp.com
-www.opint-dev.cogniteapp.com
+opint-dev.cogniteapp.com
 infield.power-no.cogniteapp.com
 krm.inso.cogniteapp.com
 owa.pgs.cogniteapp.com
@@ -647,7 +645,6 @@ equinor.opint.cogniteapp.com
 preview.charts.greenfield.cogniteapp.com
 preview.infield.xom.cogniteapp.com
 preview.insight.cogniteapp.com
-staging.az-pnq-gp-001.cogniteapp.com
 jetfire.orangefield.cogniteapp.com
 next.az-ams-aloe.cogniteapp.com
 discover.bp.cogniteapp.com
@@ -721,7 +718,6 @@ mp.omv.cogniteapp.com
 tasks-api.preview.cogniteapp.com
 cwp.eco.cogniteapp.com
 development.cdn.cogniteapp.com
-preview.az-pnq-gp-001.cogniteapp.com
 dbbacktest.opint.cogniteapp.com
 digital-cockpit.cluster01.cogniteapp.com
 pr.robotics.eco.cogniteapp.com
@@ -796,7 +792,6 @@ robotics.azure-dev.cogniteapp.com
 staging.cwp.bluefield.cogniteapp.com
 staging.profiler.omv.cogniteapp.com
 staging.react-demo.pgs.cogniteapp.com
-next.az-pnq-gp-001.cogniteapp.com
 pr.bluefield.cogniteapp.com
 air.bp.cogniteapp.com
 fdw.az-sin-sp-001.cogniteapp.com
@@ -879,7 +874,6 @@ robotics.pgs.cogniteapp.com
 yardmap.xom.cogniteapp.com
 next.statnett.cogniteapp.com
 cwp.azure-dev.cogniteapp.com
-opint-dev.cogniteapp.com
 staging.digital-cockpit.greenfield.cogniteapp.com
 staging.infield.azure-dev.cogniteapp.com
 staging.insights.cogniteapp.com
@@ -903,7 +897,7 @@ preview.power-no.cogniteapp.com
 staging.cwp.greenfield.cogniteapp.com
 staging.fas.power-no.cogniteapp.com
 tfmc.opint.cogniteapp.com
-www.staging.insight.cogniteapp.com
+staging.insight.cogniteapp.com
 omv.opint.cogniteapp.com
 pr.az-ams-aloe.cogniteapp.com
 pr.react-demo.bp.cogniteapp.com
@@ -972,7 +966,6 @@ prod-test.fusion.cluster01.cogniteapp.com
 next.westeurope-1.cogniteapp.com
 fas.operations.cogniteapp.com
 jetfire.omv.cogniteapp.com
-operations.cogniteapp.com
 preview.discover.bluefield.cogniteapp.com
 s5.remote-testing.cogniteapp.com
 staging.digital-cockpit.bp.cogniteapp.com
@@ -1029,7 +1022,6 @@ staging.remote-editor.azure-dev.cogniteapp.com
 staging.robotics.pgs.cogniteapp.com
 mowi-insight.cogniteapp.com
 app.az-eastus-1.cogniteapp.com
-www.insight.cogniteapp.com
 preview.westeurope-1.cogniteapp.com
 verisure.opint-dev.cogniteapp.com
 dev.fusion.bp.cogniteapp.com
@@ -1112,7 +1104,6 @@ insight.cluster01.cogniteapp.com
 jetfire.aws-dub-test.cogniteapp.com
 noc-demo.insight.azure-dev.cogniteapp.com
 preview.discover.greenfield.cogniteapp.com
-www.staging.insights.cogniteapp.com
 next.omv.cogniteapp.com
 cognitor.cogniteapp.com
 cwp.omv.cogniteapp.com
@@ -1217,7 +1208,6 @@ aviv.opint-dev.cogniteapp.com
 jetfire.greenfield.cogniteapp.com
 pr.itg.eco.cogniteapp.com
 staging.cwp.azure-dev.cogniteapp.com
-staging.insight.cogniteapp.com
 aow-insight.cogniteapp.com
 next.cogniteapp.com
 pr.az-sin-sp-001.cogniteapp.com
@@ -1239,7 +1229,6 @@ staging.insight.bp.cogniteapp.com
 staging.profiler.bluefield.cogniteapp.com
 tenant-selector.xom.cogniteapp.com
 yardmap.bluefield.cogniteapp.com
-pr.az-pnq-gp-001.cogniteapp.com
 staging.aw-dub-gp-001.cogniteapp.com
 jetfire.az-pnq-gp-001.cogniteapp.com
 pr.charts.cogniteapp.com
@@ -1254,7 +1243,7 @@ staging.robotics.bluefield.cogniteapp.com
 s1.remote-testing.cogniteapp.com
 staging.isoplan.bluefield.cogniteapp.com
 staging.itg.azure-dev.cogniteapp.com
-www.insights.cogniteapp.com
+insights.cogniteapp.com
 operations-support.preview.cogniteapp.com
 cognite.opint.cogniteapp.com
 jetfire.azure-dev.cogniteapp.com
@@ -1585,7 +1574,6 @@ pr.robotics.pgs.cogniteapp.com
 staging.air.cogniteapp.com
 staging.air.xom.cogniteapp.com
 staging.rules.cogniteapp.com
-insights.cogniteapp.com
 preview.discover.cluster01.cogniteapp.com
 staging.profiler.greenfield.cogniteapp.com
 jetfire.cogniteapp.com
@@ -1630,7 +1618,6 @@ aw-dub-gp-001.cogniteapp.com
 cwp.asia-northeast1-1.cogniteapp.com
 fas.eco.cogniteapp.com
 staging.yardmap.statnett.cogniteapp.com
-www.opint.cogniteapp.com
 app.cogniteapp.com
 next.bluefield.cogniteapp.com
 cable-overview-test.cogniteapp.com

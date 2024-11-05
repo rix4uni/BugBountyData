@@ -48,7 +48,6 @@ service.prd.scs.svc.hornbach.com
 stg-auth.hornbach.com
 sts.hornbach.com
 video.hornbach.com
-www.hornbach.com
 ava.svc.hornbach.com
 coexist.hornbach.com
 dev-trafficmanager.hornbach.com
@@ -57,5 +56,3 @@ mailcon.hornbach.com
 mailcon1.hornbach.com
 mailcon2.hornbach.com
 test-login.hornbach.com
-www.jobs.hornbach.com
-www.newsletter.hornbach.com

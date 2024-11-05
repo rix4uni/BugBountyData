@@ -6,7 +6,6 @@ starwatcher.unx.sas.com
 innovate.sas.com
 tlsesdtestpipe01.unx.sas.com
 snyprod.ondemand.sas.com
-www.snyprod.ondemand.sas.com
 planapp-launcher.planapp-test-markha.unx.sas.com
 service-dev.sas.com
 crcache-test.pdt-infra-prod.unx.sas.com
@@ -19,6 +18,5 @@ dota-collector-test.unx.sas.com
 service-test.sas.com
 teemo-prod.unx.sas.com
 gelenable.sas.com
-*.gelenable.sas.com
 policy.pdt-infra-prod.unx.sas.com
 evaasresources.sas.com

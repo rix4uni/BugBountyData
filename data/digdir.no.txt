@@ -15,7 +15,6 @@ samarbeid.digdir.no
 dataservice-publisher.digdir.no
 statustest.digdir.no
 admin.api.fellesdatakatalog.digdir.no
-www.digdir.no
 aarsrapport2022.digdir.no
 testmiljo.status.digdir.no
 release.digdir.no
@@ -107,7 +106,6 @@ client-sync-app.ansattporten.test.digdir.no
 prodintegp.digdir.no
 lb.digdir.no
 test.minid.digdir.no
-www.meet.video.digdir.no
 test-client.ansattporten.test.digdir.no
 sso.fellesdatakatalog.digdir.no
 alertmanager.fellesdatakatalog.digdir.no
@@ -124,7 +122,6 @@ concepts.fellesdatakatalog.digdir.no
 dataservices.fellesdatakatalog.digdir.no
 datasets.fellesdatakatalog.digdir.no
 informationmodels.fellesdatakatalog.digdir.no
-*.fellesdatakatalog.digdir.no
 begrepskatalog.fellesdatakatalog.digdir.no
 catalog-admin-service.fellesdatakatalog.digdir.no
 catalog-admin.fellesdatakatalog.digdir.no
@@ -148,7 +145,6 @@ organization-bff.fellesdatakatalog.digdir.no
 reports-bff.fellesdatakatalog.digdir.no
 sparql.fellesdatakatalog.digdir.no
 validator.fellesdatakatalog.digdir.no
-www.fellesdatakatalog.digdir.no
 sparql.staging.fellesdatakatalog.digdir.no
 minside-samarbeid.digdir.no
 catalogue.fellesdatakatalog.digdir.no

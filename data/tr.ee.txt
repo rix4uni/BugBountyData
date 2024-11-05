@@ -1,4 +1,3 @@
-*.tr.ee
 beta.tr.ee
 beta.qa.tr.ee
 blog.tr.ee
@@ -9,7 +8,6 @@ redirect.tr.ee
 redirect.production.tr.ee
 redirect.qa.tr.ee
 redirect.qa.qa.tr.ee
-www.tr.ee
 zooda.tr.ee
 adn.tr.ee
 arved.tr.ee
@@ -30,9 +28,6 @@ pop.tr.ee
 reklaam.tr.ee
 rubi.tr.ee
 vana.tr.ee
-www.blog.tr.ee
-www.bo.tr.ee
-www.carmen.tr.ee
 xxl.tr.ee
 mail.tr.ee
 link.tr.ee

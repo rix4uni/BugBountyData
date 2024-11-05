@@ -8,8 +8,7 @@ mpp-ist.jpmorganchase.com
 myhealth-sjc-b.jpmorganchase.com
 mtrack-uat.jpmorganchase.com
 iaasn00127370.naeast.ad.jpmorganchase.com
-www.jobs.jpmorganchase.com
-www.jpmorganchase.com
+jobs.jpmorganchase.com
 answerkey.jpmorganchase.com
 gsa-devint31-cdc2.jpmorganchase.com
 mws-awcm.jpmorganchase.com
@@ -225,8 +224,7 @@ myhealth-aws-uat.jpmorganchase.com
 evs.jpmorganchase.com
 images.jpmorganchase.com
 idauatg2.jpmorganchase.com
-www.tier2portal.jpmorganchase.com
-www.efs.jpmorganchase.com
+tier2portal.jpmorganchase.com
 diversityportal.jpmorganchase.com
 fdc-multiline-proxy-uat.jpmorganchase.com
 hr-uat.jpmorganchase.com
@@ -301,7 +299,7 @@ alumni.jpmorganchase.com
 viewer.jpmorganchase.com
 workspaceone.jpmorganchase.com
 wecom-offshr.jpmorganchase.com
-www.clientinsights.jpmorganchase.com
+clientinsights.jpmorganchase.com
 myrewards-uat.jpmorganchase.com
 myrewards-new-uat.jpmorganchase.com
 evs-uat.jpmorganchase.com
@@ -317,7 +315,6 @@ workspaceone-uat.jpmorganchase.com
 wecom-offshr-uat.jpmorganchase.com
 authe-test.jpmorganchase.com
 cwmt-uat.jpmorganchase.com
-jobs.jpmorganchase.com
 dib.jpmorganchase.com
 px-eisp.jpmorganchase.com
 ssomfa-afm.jpmorganchase.com
@@ -1078,7 +1075,6 @@ test4-other-aem-uat.jpmorganchase.com
 test5-main-aem-uat.jpmorganchase.com
 test5-other-aem-uat.jpmorganchase.com
 thebutton.jpmorganchase.com
-tier2portal.jpmorganchase.com
 tpow.jpmorganchase.com
 tpx.jpmorganchase.com
 trackpoint.jpmorganchase.com
@@ -1237,16 +1233,12 @@ workspaceonet-certproxy-rdc.jpmorganchase.com
 wpsinp6c6.naeast.ad.jpmorganchase.com
 wpsinp6c6sql1.naeast.ad.jpmorganchase.com
 ws1-vpn-branch-dev.jpmorganchase.com
-www.brspin01.sp.br.jpmorganchase.com
-www.connect.jpmorganchase.com
-www.esweb.jpmorganchase.com
-www.hr.jpmorganchase.com
-www.hrpayandpersonalinfo.jpmorganchase.com
-www.india.jpmorganchase.com
-www.job.jpmorganchase.com
-www.portaldigital.jpmorganchase.com
-www.sindtkpftp01.tp.in.jpmorganchase.com
-www.spendradar.jpmorganchase.com
+brspin01.sp.br.jpmorganchase.com
+esweb.jpmorganchase.com
+hrpayandpersonalinfo.jpmorganchase.com
+india.jpmorganchase.com
+job.jpmorganchase.com
+sindtkpftp01.tp.in.jpmorganchase.com
 wwwl.esource.jpmorganchase.com
 wwwq1.jpmorganchase.com
 wwwq2.jpmorganchase.com
@@ -1264,7 +1256,6 @@ zippy.jpmorganchase.com
 101878-a-4-atlas-ak-uat.jpmorganchase.com
 101878-a-5-atlas-ak-prod.jpmorganchase.com
 101878-a-5-atlas-ak-uat.jpmorganchase.com
-*.jpmorganchase.com
 101878-a-1-atlas-aw-prod.jpmorganchase.com
 101878-a-2-atlas-aw-dev.jpmorganchase.com
 101878-a-4-atlas-ak-uat-aws.jpmorganchase.com
@@ -1344,9 +1335,6 @@ web-currency-services-uat-ndc.jpmorganchase.com
 wecom-offshr-uat-ndc.jpmorganchase.com
 ws1-vpn-branch.jpmorganchase.com
 ws1-vpn-branch-rdc.jpmorganchase.com
-www.diversityportal.jpmorganchase.com
-www.idauatg2proxy.jpmorganchase.com
-www.myrewardsatwork.jpmorganchase.com
 ygvalssqlp165.emea.ad.jpmorganchase.com
 www-ndc.jpmorganchase.com
 notice-emp-ndc.jpmorganchase.com

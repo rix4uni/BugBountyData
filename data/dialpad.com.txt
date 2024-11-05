@@ -216,14 +216,10 @@ app.staging.dialpad.com
 staging.client-delivery.dialpad.com
 snippet.dialpad.com
 us-east.dx.dialpad.com
-www.dialpad.com
-www.meetings.dialpad.com
 armenprovbeta.dialpad.com
-www.partners.dialpad.com
-*.tls.msrouting.dialpad.com
 vl472-ng.ebr1.hkg1.dialpad.com
 xe-2-0-0-1102-470-gm.ebr1.dal1.dialpad.com
-www.pk.dialpad.com
+pk.dialpad.com
 ge-0-0-0-1102-150-gm.ebr1.ams1.dialpad.com
 vl1101-gm.ebr1.ams1.dialpad.com
 vl781-pg.ebr1.hkg1.dialpad.com
@@ -242,7 +238,6 @@ prov.dialpad.com
 vl1101-gm.ebr1.sjc1.dialpad.com
 vl192-ng.ebr1.tyo2.dialpad.com
 csticket.dialpad.com
-pk.dialpad.com
 vl181-pg.ebr1.tyo1.dialpad.com
 vl342-ng.ebr1.dal1.dialpad.com
 prov12beta.dialpad.com
@@ -400,10 +395,8 @@ vl342-ng.ebr1.nyc1.dialpad.com
 vl891-pg.ebr1.tyo2.dialpad.com
 dev.client-delivery.dialpad.com
 ge-0-0-0-1102-350-gm.ebr1.ams1.dialpad.com
-www.signup.dialpad.com
 ausea31.msrouting.dialpad.com
 vl372-ng.ebr1.nyc1.dialpad.com
-www.legacy.dialpad.com
 app.beta.dialpad.com
 xe-2-0-0-1102-450-gm.ebr1.dal1.dialpad.com
 beta.client-delivery.dialpad.com
@@ -429,7 +422,6 @@ vl352-ng.ebr1.ams1.dialpad.com
 vl352-ng.ebr1.nyc1.dialpad.com
 cn.dialpad.com
 beta.dialpad.com
-www.outlookaddin.meetings.dialpad.com
 vl452-ng.ebr1.ams1.dialpad.com
 company.dialpad.com
 vl143-tg.ebr1.sjc1.dialpad.com

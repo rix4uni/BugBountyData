@@ -1,5 +1,4 @@
-*.rupiahtoken.com
-*.staging.rupiahtoken.com
+staging.rupiahtoken.com
 api.rupiahtoken.com
 api-dashboard.rupiahtoken.com
 api-gateway.rupiahtoken.com
@@ -18,7 +17,6 @@ sandbox.api-dashboard.rupiahtoken.com
 sandbox.backoffice.rupiahtoken.com
 sandbox.dashboard.rupiahtoken.com
 sandbox.idrt-gateway.rupiahtoken.com
-staging.rupiahtoken.com
 staging-api-178.rupiahtoken.com
 staging-dashboard.rupiahtoken.com
 staging-gateway.rupiahtoken.com
@@ -28,7 +26,6 @@ staging.dashboard.rupiahtoken.com
 staging.idrt-gateway.rupiahtoken.com
 webdisk.rupiahtoken.com
 webmail.rupiahtoken.com
-www.rupiahtoken.com
 0-0-0-3.staging-dashboard.rupiahtoken.com
 academy11.staging-dashboard.rupiahtoken.com
 accchina.staging-dashboard.rupiahtoken.com

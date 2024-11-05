@@ -476,8 +476,6 @@ release-app-dev.tools.oncatapult.com
 admin-gateway-compatqa.fallguys-dev.oncatapult.com
 admin-gateway-loadtest2.fallguys-dev.oncatapult.com
 admin-gateway-complianceqa.fallguys-dev.oncatapult.com
-*.fallguys.oncatapult.com
-*.fallguys-dev.oncatapult.com
 admin-gateway-closedbeta.fallguys-dev.oncatapult.com
 anti-cheat-testci.fallguys-dev.oncatapult.com
 bans-api-grpc-testci.fallguys-dev.oncatapult.com
@@ -513,7 +511,6 @@ dlc-images-staging.fallguys-dev-tools.oncatapult.com
 loadtest-api-loadtest.fallguys-dev.oncatapult.com
 admin-gateway.fallguys.oncatapult.com
 jontest-docs.catapult-dev.oncatapult.com
-*.fallguys-china.oncatapult.com
 gateway-loadtest2.fallguys-dev.oncatapult.com
 login-clientdev.fallguys-dev.oncatapult.com
 gameserver-gateway.fallguys.oncatapult.com
@@ -632,7 +629,6 @@ gameserver-gateway-staging.fallguys.oncatapult.com
 analytics-gateway-complianceqa.fallguys-dev.oncatapult.com
 gateway-openbeta.fallguys-dev.oncatapult.com
 analytics-gateway-internalqa.fallguys-dev.oncatapult.com
-www.oncatapult.com
 gateway-stable.moncton-dev.oncatapult.com
 gameserver-gateway-mobile.fallguys-dev.oncatapult.com
 login-loadtest.fallguys-dev.oncatapult.com

@@ -96,9 +96,6 @@ lyncdiscover.jdisonline.com
 smtpo3.jdisonline.com
 autodiscoverredirect.jdisonline.com
 app.jdisonline.com
-*.cxp.jdisonline.com
-*.jdisonline.com
-*.handle.jdisonline.com
 asm.jdisonline.com
 cmdb.jdisonline.com
 ftp.jdisonline.com
@@ -108,8 +105,6 @@ o1.jdisonline.com
 o2.jdisonline.com
 prodvpx-01.jdisonline.com
 prodvpx-02.jdisonline.com
-www.mail.jdisonline.com
 app1.jdisonline.com
 app2.jdisonline.com
 ns1.jdisonline.com
-www.jdisonline.com

@@ -4,11 +4,9 @@ cdn.helloworks.com
 portal.helloworks.com
 docs.helloworks.com
 marketing.helloworks.com
-www.helloworks.com
 api.helloworks.com
 stripe-webhooks.helloworks.com
 helloslow.helloworks.com
-*.helloworks.com
 complab.helloworks.com
 intercom-service.cdn.helloworks.com
 pgg12e.cdn.helloworks.com

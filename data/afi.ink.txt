@@ -4,7 +4,6 @@ test.afi.ink
 s3.afi.ink
 assets.afi.ink
 ftp.afi.ink
-*.afi.ink
 craftcms.afi.ink
 web2.afi.ink
 v3.afi.ink
@@ -12,7 +11,6 @@ dev.afi.ink
 zagazoo.afi.ink
 status.afi.ink
 web1.afi.ink
-www.afi.ink
 pma-dev.afi.ink
 pma.afi.ink
 k8s-2.afi.ink

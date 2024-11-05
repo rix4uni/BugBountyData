@@ -5,7 +5,6 @@ int2.bankcentral.net
 businessbanking.bankcentral.net
 int3.bankcentral.net
 beta-autobooks.bankcentral.net
-www.bankcentral.net
 uat-businessbanking.bankcentral.net
 image.email.bankcentral.net
 prep.bankcentral.net
@@ -15,20 +14,16 @@ zelle.bankcentral.net
 secure.bankcentral.net
 beta-secure.bankcentral.net
 view.email.bankcentral.net
-www.beta-autobooks.bankcentral.net
 billpay.bankcentral.net
-www.businessbanking.bankcentral.net
-www.uat-businessbanking.bankcentral.net
 autobooks.bankcentral.net
 ade1.bankcentral.net
 click.email.bankcentral.net
 aws-uat-businessbanking.bankcentral.net
 sip.bankcentral.net
-www.ist-businessbanking.bankcentral.net
+ist-businessbanking.bankcentral.net
 aggregator.bankcentral.net
 autodiscover.bankcentral.net
 meet.bankcentral.net
-ist-businessbanking.bankcentral.net
 pilot-secure.bankcentral.net
 qa.bankcentral.net
 access.bankcentral.net
@@ -36,6 +31,5 @@ cloud.email.bankcentral.net
 ade2.bankcentral.net
 beta-digital-investor.bankcentral.net
 lyncdiscover.bankcentral.net
-www.zelle.bankcentral.net
 apply.bankcentral.net
 digital-investor.bankcentral.net

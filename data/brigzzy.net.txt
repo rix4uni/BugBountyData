@@ -1,4 +1,3 @@
-*.brigzzy.net
 staging.jenkins.brigzzy.net
 staging.koha.brigzzy.net
 staging.twa.brigzzy.net
@@ -21,10 +20,9 @@ prox1.brigzzy.net
 ns1.brigzzy.net
 helpdesk.brigzzy.net
 nagios.brigzzy.net
-www.docker.brigzzy.net
+docker.brigzzy.net
 prox.brigzzy.net
 cloud.brigzzy.net
-docker.brigzzy.net
 ns2.brigzzy.net
 matrix.brigzzy.net
 ilodia.brigzzy.net

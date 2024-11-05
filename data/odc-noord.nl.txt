@@ -69,7 +69,7 @@ vpn.gn2.koop-pp.odc-noord.nl
 rvig-acc.topdesk.odc-noord.nl
 ilt-acc.topdesk.odc-noord.nl
 iucn-prd.topdesk.odc-noord.nl
-www.vpn.bzkprd.odc-noord.nl
+vpn.bzkprd.odc-noord.nl
 topdesk.odc-noord.nl
 members.odc-noord.nl
 ivho-acc.confluence.odc-noord.nl
@@ -77,9 +77,7 @@ wenku.odc-noord.nl
 varnish.odc-noord.nl
 rw-iene-prd.topdesk.odc-noord.nl
 dci-prd.topdesk.odc-noord.nl
-www.odc-noord.nl
 pgb-iam.odc-noord.nl
-vpn.bzkprd.odc-noord.nl
 doc-direkt-prd.topdeskva.odc-noord.nl
 iucn-prd.topdeskva.odc-noord.nl
 docdirekt-ont-va.topdesk.odc-noord.nl
@@ -125,7 +123,6 @@ admin-iam.odc-noord.nl
 vpn.rvb.odc-noord.nl
 admin-pgb-iam.odc-noord.nl
 iam.odc-noord.nl
-www.vpn.bzkdgvbrnpr.odc-noord.nl
 rvig-prd.jira.odc-noord.nl
 na-prd.topdesk.odc-noord.nl
 sp-acc.confluence.odc-noord.nl
@@ -199,7 +196,6 @@ socjenv-acc.topdeskva.odc-noord.nl
 socjenv-prd.topdeskva.odc-noord.nl
 logfw.odc-noord.nl
 acc.iaas-portal.odc-noord.nl
-www.vpn.bzknpr.odc-noord.nl
 gitlab.odc-noord.nl
 m2m.odc-noord.nl
 sp-acc.topdesk.odc-noord.nl

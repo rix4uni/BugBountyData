@@ -36,8 +36,6 @@ docs.loginradius.com
 secure.loginradius.com
 authenticate.loginradius.com
 product-dev.demo.loginradius.com
-*.loginradius.com
-*.hub.loginradius.com
 subangun.hub.loginradius.com
 inglobal.hub.loginradius.com
 farmmedia-dev.hub.loginradius.com
@@ -61,7 +59,7 @@ veggieveins.hub.loginradius.com
 presretac.hub.loginradius.com
 anciens-ccc.hub.loginradius.com
 turkishgolfadvisor.hub.loginradius.com
-www.teatrobaladre.hub.loginradius.com
+teatrobaladre.hub.loginradius.com
 beforeafters.hub.loginradius.com
 pedja2.hub.loginradius.com
 socialhubbub.hub.loginradius.com

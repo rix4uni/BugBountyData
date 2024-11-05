@@ -85,7 +85,7 @@ grcb.archer.rsa.com
 77738.assets.netwitness.rsa.com
 usres-mdf01-psn02.rsa.com
 dev-logupload.link.rsa.com
-www.hub.rsa.com
+hub.rsa.com
 77738.assets.staging.netwitness.rsa.com
 egcai-mdf01-psn01.rsa.com
 blogsdev.rsa.com
@@ -296,7 +296,6 @@ devops.rsa.com
 help.rsa.com
 idangatewaytest.uebasaas.dev.netwitness.rsa.com
 yuval-demo-01.uebasaas.dev.netwitness.rsa.com
-hub.rsa.com
 performance-env-001.uebasaas.dev.netwitness.rsa.com
 update.staging.netwitness.rsa.com
 citi.gotp.sign.uat.rsa.com
@@ -358,36 +357,6 @@ cardworks.archer.rsa.com
 arthrex-uat.archer.rsa.com
 investorsbank.archer.rsa.com
 saas01-eur.archer.rsa.com
-www.rsa.com
-www.jobs.rsa.com
-*.access.rsa.com
-*.netwitness.rsa.com
-www.devconnector.link.rsa.com
-www.connector.link.rsa.com
-www.devconnector2.link.rsa.com
-www.connector2.link.rsa.com
-*.cyberrange.rsa.com
-*.devops.rsa.com
-*.edsrvcs.rsa.com
-*.education.rsa.com
-*.educationservices.rsa.com
-*.labs.rsa.com
-*.university.rsa.com
-*.viasso.rsa.com
-www.sftp.rsa.com
-*.archer.rsa.com
-www.download.rsa.com
-*.viasso-dev.rsa.com
-*.rca.rsa.com
-*.staging.netwitness.rsa.com
-www.tms.rsa.com
-www.dunamis.rsa.com
-www.dunamis-dev.rsa.com
-*.lab.netwitness.rsa.com
-*.app.rsa.com
-www.riskassessment.rsa.com
-www.citid.otp.p3.prod.rsa.com
-*.syn.rsa.com
 active-messactivation.archer.rsa.com
 apps4rent.rsa.com
 argentina.rsa.com
@@ -453,12 +422,6 @@ voya-prod.archer.rsa.com
 voya-qa.archer.rsa.com
 vwcredit-egrc.archer.rsa.com
 ww2.rsa.com
-www.brazil.rsa.com
-www.china.rsa.com
-www.france.rsa.com
-www.germany.rsa.com
-www.italy.rsa.com
-www.russia.rsa.com
 equifax.archer.rsa.com
 basslet.rsa.com
 ws.externalmethod1.csd.rsa.com
@@ -500,7 +463,6 @@ vgrf.archer.rsa.com
 crl.rsa.com
 common.rsa.com
 configuration.rsa.com
-www.aus.rsa.com
 showpad.rsa.com
 license.rsa.com
 baptistcare-test.archer.rsa.com
@@ -854,7 +816,7 @@ authliveqa.netwitness.rsa.com
 yuval-demo-01.uebasaas.druktemonitor.netwitness.rsa.com
 idantenantz.uebasaas.acc2.netwitness.rsa.com
 uebasaas.birepontw03.netwitness.rsa.com
-www.elsalvador.rsa.com
+elsalvador.rsa.com
 solarisbank-dev.archer.rsa.com
 dima-test-002.uebasaas.cmstest.netwitness.rsa.com
 ecopetrol-dev.archer.rsa.com
@@ -1099,7 +1061,6 @@ cta-dev1.archer.rsa.com
 duoverzuim.netwitness.rsa.com
 ckr.netwitness.rsa.com
 ran-test-s3.uebasaas.annapaulowna.netwitness.rsa.com
-www.colombia.rsa.com
 authlivessl.netwitness.rsa.com
 assets.briltil.netwitness.rsa.com
 envoysolutions.archer.rsa.com
@@ -1158,7 +1119,6 @@ ran-script-test.uebasaas.charlois.netwitness.rsa.com
 maria-env-new.uebasaas.diversity.netwitness.rsa.com
 d0w.netwitness.rsa.com
 cms-private.netwitness.rsa.com
-www.bolivia.rsa.com
 assets.andromeda.netwitness.rsa.com
 dima-test-003.uebasaas.edumanager.netwitness.rsa.com
 17.netwitness.rsa.com
@@ -1783,7 +1743,6 @@ com-assets.netwitness.rsa.com
 dima-test-001.uebasaas.breakout.netwitness.rsa.com
 awtuimks01.netwitness.rsa.com
 cbc-dev.archer.rsa.com
-www.argentina.rsa.com
 cardworks-dev.archer.rsa.com
 5j2.netwitness.rsa.com
 dev-w3.netwitness.rsa.com
@@ -2521,7 +2480,6 @@ bekendmakingen.netwitness.rsa.com
 dev1cms.netwitness.rsa.com
 ania-test.archer.rsa.com
 assets.cloudmail.netwitness.rsa.com
-www.chile.rsa.com
 authlive.ap.netwitness.rsa.com
 8al.netwitness.rsa.com
 a7h.netwitness.rsa.com
@@ -3007,7 +2965,6 @@ uebasaas.euverem.netwitness.rsa.com
 docsuebasaas.netwitness.rsa.com
 5gh.netwitness.rsa.com
 ecopetrol.archer.rsa.com
-www.authlive.netwitness.rsa.com
 avaya-dev.archer.rsa.com
 bf4.netwitness.rsa.com
 client-update.netwitness.rsa.com
@@ -3299,7 +3256,6 @@ ci-update.netwitness.rsa.com
 authlive1.netwitness.rsa.com
 cms-net.netwitness.rsa.com
 cms-jinx.netwitness.rsa.com
-www.costarica.rsa.com
 idangatewaytest.uebasaas.chat.netwitness.rsa.com
 308.netwitness.rsa.com
 uebasaas.cheuq16.netwitness.rsa.com
@@ -3483,7 +3439,6 @@ ran-test-runner.uebasaas.crm.netwitness.rsa.com
 oregon-dev.archer.rsa.com
 cmsx.netwitness.rsa.com
 live.bro.netwitness.rsa.com
-www.korea.rsa.com
 carlisle-dev.archer.rsa.com
 rackspace.archer.rsa.com
 fgt.netwitness.rsa.com
@@ -3519,7 +3474,6 @@ authlive.economy.netwitness.rsa.com
 9db.netwitness.rsa.com
 ecms.netwitness.rsa.com
 4ma2ybcb-vdh1.dev.netwitness.rsa.com
-www.77738.assets.netwitness.rsa.com
 authlive-auth.netwitness.rsa.com
 euwe-authlive.netwitness.rsa.com
 clubcandystore.netwitness.rsa.com
@@ -3552,7 +3506,6 @@ vermont-dev.archer.rsa.com
 dima-test-003.uebasaas.clear.netwitness.rsa.com
 inmobiliaria-prod.archer.rsa.com
 aj1.netwitness.rsa.com
-www.ireland.rsa.com
 fnbo-dev.archer.rsa.com
 uebasaas.executive.netwitness.rsa.com
 9n9.netwitness.rsa.com
@@ -3603,7 +3556,6 @@ uebasaas.cendm0254.netwitness.rsa.com
 assets-ftp.netwitness.rsa.com
 uebasaas.buurtbudget.netwitness.rsa.com
 d-assets.netwitness.rsa.com
-www.honduras.rsa.com
 performance-006.uebasaas.545b350b.netwitness.rsa.com
 telemetry.apigateway.netwitness.rsa.com
 cnauthlive.netwitness.rsa.com
@@ -4194,7 +4146,6 @@ uebasaas.blauwehand.netwitness.rsa.com
 maif-test.archer.rsa.com
 akali-live.netwitness.rsa.com
 uebasaas.epm.netwitness.rsa.com
-www.mexico.rsa.com
 amx-test.archer.rsa.com
 uebasaas.fcswatch.netwitness.rsa.com
 cms-github.netwitness.rsa.com
@@ -4913,7 +4864,6 @@ uebasaas.aanvraagparkeren.netwitness.rsa.com
 fidelity.archer.rsa.com
 uebasaas.clientleveranciersportaal.netwitness.rsa.com
 dima-test-004.uebasaas.aads01.netwitness.rsa.com
-www.cms.netwitness.rsa.com
 uebasaas.cs102.netwitness.rsa.com
 12telemetry.netwitness.rsa.com
 dev-12.netwitness.rsa.com
@@ -5162,7 +5112,7 @@ investigator.bma.netwitness.rsa.com
 amd.archer.rsa.com
 dima-test-004.uebasaas.belkosten.netwitness.rsa.com
 wikimedia-dev.archer.rsa.com
-www.dominicanrepublic.rsa.com
+dominicanrepublic.rsa.com
 2014fietsbingo.netwitness.rsa.com
 poncebank-dev.archer.rsa.com
 uebasaas.com800.netwitness.rsa.com
@@ -5250,7 +5200,6 @@ amerisourcebergen-qa.archer.rsa.com
 assetsclient.netwitness.rsa.com
 assets-8.netwitness.rsa.com
 uebasaas.dehemrik.netwitness.rsa.com
-dominicanrepublic.rsa.com
 dev1-cms.netwitness.rsa.com
 cmsm.netwitness.rsa.com
 idangatewaytest.uebasaas.buurtbudget.netwitness.rsa.com

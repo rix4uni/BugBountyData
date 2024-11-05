@@ -27,7 +27,7 @@ soc2.samsara.com
 developers.samsara.com
 us3-trace.cloud.samsara.com
 mapimg.samsara.com
-www.rewards.samsara.com
+rewards.samsara.com
 us4.cloud.samsara.com
 static.cloud.samsara.com
 us8-trace.cloud.samsara.com
@@ -40,7 +40,6 @@ us6-hubserver.samsara.com
 labelapp.aiml.samsara.com
 nginx-driverappproxy.samsara.com
 owlchat.internal-api.aiml.samsara.com
-rewards.samsara.com
 foxglove-converter.aiml.samsara.com
 sarthak.aiml.samsara.com
 links1.samsara.com
@@ -62,7 +61,6 @@ investors.samsara.com
 academy.samsara.com
 status.samsara.com
 find.samsara.com
-www.samsara.com
 us11-hubserver.samsara.com
 duke-sandbox.internal.samsara.com
 us4-hubserver.samsara.com
@@ -99,4 +97,3 @@ dagster-readonly.aiml.samsara.com
 aws-eng-vpn.internal.samsara.com
 smart.samsara.com
 mihir.demo.aiml.samsara.com
-*.samsara.com

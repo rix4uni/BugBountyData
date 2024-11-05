@@ -2,7 +2,6 @@ api.dev.mycnote.com
 sonar.mycnote.com
 api.stage.mycnote.com
 alertmanager.dev.mycnote.com
-www.mycnote.com
 blog.mycnote.com
 contact.mycnote.com
 sonarqube.mycnote.com
@@ -15,7 +14,7 @@ fee.dev.mycnote.com
 wpstagingblog.mycnote.com
 newblog.mycnote.com
 alertmanager.app.mycnote.com
-www.invest.mycnote.com
+invest.mycnote.com
 prometheus.app.mycnote.com
 argocd.app.mycnote.com
 prometheus.dev.mycnote.com

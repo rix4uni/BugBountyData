@@ -16,7 +16,6 @@ consent.google.bt
 adwords.google.bt
 earth.google.bt
 books.google.bt
-www.google.bt
 ns3.google.bt
 mobile.google.bt
 blogsearch.google.bt
@@ -47,9 +46,7 @@ adsense.google.bt
 clients6.google.bt
 toolbarqueries.google.bt
 scholar.google.bt
-www.adservice.google.bt
 ampcid.google.bt
 enterprise.google.bt
 adssettings.google.bt
 button.google.bt
-*.google.bt

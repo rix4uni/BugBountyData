@@ -1,4 +1,4 @@
-www.ownerbookings.stayz.com.au
+ownerbookings.stayz.com.au
 dr.api.stayz.com.au
 auth.stayz.com.au
 static.stayz.com.au
@@ -10,7 +10,6 @@ api.stayz.com.au
 images.stayz.com.au
 admin.stayz.com.au
 stage.bookings.stayz.com.au
-www.awards.stayz.com.au
 bookings.stayz.com.au
 mail.stayz.com.au
 image.email.stayz.com.au
@@ -22,20 +21,17 @@ ninemsn.stayz.com.au
 m.stayz.com.au
 view.email.stayz.com.au
 whitelabel.stayz.com.au
-www.giveandgetaway.stayz.com.au
+giveandgetaway.stayz.com.au
 owners.stayz.com.au
 bookings.owners.stayz.com.au
-www.stayz.com.au
 carhire.stayz.com.au
 travel.stayz.com.au
 bookit.stayz.com.au
 waf-www.stayz.com.au
 click.email.stayz.com.au
-ownerbookings.stayz.com.au
 support.stayz.com.au
 demo.stayz.com.au
 pages.email.stayz.com.au
-*.stayz.com.au
 admin-dev.stayz.com.au
 admin-stage.stayz.com.au
 admin-test.stayz.com.au

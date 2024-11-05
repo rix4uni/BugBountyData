@@ -3,7 +3,6 @@ pickup.bring.se
 services.bring.se
 em.bring.se
 sq.bring.se
-www.bring.se
 tracking.qa.bring.se
 beta.tracking.bring.se
 cargoinrikes.bring.se
@@ -26,7 +25,7 @@ frigoscandia.bring.se
 pickup.test.bring.se
 mylink.mobil.bring.se
 app.bring.se
-www.qa.mylink.mobil.bring.se
+qa.mylink.mobil.bring.se
 binding.bring.se
 s.bring.se
 qa.test.bring.se
@@ -34,8 +33,6 @@ _entities.bring.se
 extranet.bring.se
 login.bring.se
 test.bring.se
-www.qa.bring.se
 self.bring.se
 retur.test.bring.se
 tracking.test.bring.se
-www.mylink.mobil.bring.se

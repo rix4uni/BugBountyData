@@ -1,4 +1,3 @@
-www.hs-worms.de
 www3.hs-worms.de
 analytics.ztt.hs-worms.de
 mailhost.ztt.hs-worms.de
@@ -1004,7 +1003,7 @@ client-181-59.eduroam.hs-worms.de
 hermann-pc.hs-worms.de
 verw-wlan-rz-34.verw.hs-worms.de
 wave-g3.rz.hs-worms.de
-www.unix-ag.hs-worms.de
+unix-ag.hs-worms.de
 esports.asta.hs-worms.de
 schlapptop-hp.hotaru.it.hs-worms.de
 wil-pc-alt19.inf-pool.it.hs-worms.de
@@ -1179,7 +1178,7 @@ client-182-137.eduroam.hs-worms.de
 client-185-155.eduroam.hs-worms.de
 ip-phone-tour-176.150.voip.rz.hs-worms.de
 ipmi-rz1-kvm.rz.hs-worms.de
-www.securityplayground.projekte.it.hs-worms.de
+securityplayground.projekte.it.hs-worms.de
 ztt22.ztt.hs-worms.de
 apc.ip-labor.it.hs-worms.de
 client-184-73.eduroam.hs-worms.de
@@ -1901,7 +1900,6 @@ hs-gaeste-client-251.rz.hs-worms.de
 ip-phone-verw-bib-175.197.voip.rz.hs-worms.de
 nas.dhr.hs-worms.de
 openstack-vm29.inf-pool.it.hs-worms.de
-securityplayground.projekte.it.hs-worms.de
 client-180-226.eduroam.hs-worms.de
 hermsdorf-note2.verw.hs-worms.de
 ip-phone-seminar-178.147.voip.rz.hs-worms.de
@@ -2268,7 +2266,7 @@ wave-lan-164-152.rz.hs-worms.de
 client-181-185.eduroam.hs-worms.de
 client-182-91.eduroam.hs-worms.de
 hs-gaeste-client-231.rz.hs-worms.de
-www.maengelmelder.projekte.it.hs-worms.de
+maengelmelder.projekte.it.hs-worms.de
 designlab-o05-1-ip17.rz.hs-worms.de
 wave-c039.rz.hs-worms.de
 client-181-179.eduroam.hs-worms.de
@@ -2360,7 +2358,6 @@ client-180-209.eduroam.hs-worms.de
 client-180-5.eduroam.hs-worms.de
 pop.hs-worms.de
 rz6-kvm-161.rz.hs-worms.de
-unix-ag.hs-worms.de
 wave-lan-164-182.rz.hs-worms.de
 wave-lan-164-71.rz.hs-worms.de
 client-180-212.eduroam.hs-worms.de
@@ -3064,7 +3061,7 @@ n140-teacher.fsl.it.hs-worms.de
 verw-client-65.verw.hs-worms.de
 vdi-windows-12.vdi.it.hs-worms.de
 a114-41.rz.hs-worms.de
-www.db.inf-pool.it.hs-worms.de
+db.inf-pool.it.hs-worms.de
 bafoeg2.verw.hs-worms.de
 client-180-28.eduroam.hs-worms.de
 client-185-118.eduroam.hs-worms.de
@@ -4312,7 +4309,6 @@ ip-phone-rz-174.68.voip.rz.hs-worms.de
 ip-phone-wir-177.226.voip.rz.hs-worms.de
 dyn0024.onl.it.hs-worms.de
 fachschaften-asta-stupa.voip.rz.hs-worms.de
-maengelmelder.projekte.it.hs-worms.de
 monverw.verw.hs-worms.de
 client-180-236.eduroam.hs-worms.de
 client-183-132.eduroam.hs-worms.de
@@ -4837,7 +4833,6 @@ ad2.woadtest.hs-worms.de
 client-183-120.eduroam.hs-worms.de
 client-183-33.eduroam.hs-worms.de
 linsrv29.rn-labor.it.hs-worms.de
-www.icms.hs-worms.de
 n240-dyn103.rn-labor.it.hs-worms.de
 ntl-66.nt-labor.it.hs-worms.de
 a107-83.rz.hs-worms.de
@@ -5227,7 +5222,7 @@ vpn-client-168-2.rz.hs-worms.de
 xservelom.ztt.hs-worms.de
 beamer-c131.rz.hs-worms.de
 phl-110.ph-labor.it.hs-worms.de
-www.prometheus.area42.it.hs-worms.de
+prometheus.area42.it.hs-worms.de
 a113-16.rz.hs-worms.de
 hypnos.ztt.hs-worms.de
 ip-phone-ztt-178.48.voip.rz.hs-worms.de
@@ -6486,7 +6481,6 @@ profplanner.mt-labor.it.hs-worms.de
 eduroam.hs-worms.de
 ip-phone-tour-176.219.voip.rz.hs-worms.de
 openstack-vm5.inf-pool.it.hs-worms.de
-prometheus.area42.it.hs-worms.de
 wave-c038.rz.hs-worms.de
 biblpc01.rz.hs-worms.de
 client-180-159.eduroam.hs-worms.de
@@ -6877,7 +6871,6 @@ a106-34.rz.hs-worms.de
 client-184-11.eduroam.hs-worms.de
 ll-i3.inf-pool.it.hs-worms.de
 openstack-vm16.inf-pool.it.hs-worms.de
-www.ztt.hs-worms.de
 ip-phone-rz-wave-175.26.voip.rz.hs-worms.de
 prod.icms-usercontent.hs-worms.de
 rz-pool-a104-pc206.rz.hs-worms.de
@@ -6899,7 +6892,6 @@ ip-phone-info-177.72.voip.rz.hs-worms.de
 marvin.linux-lounge.it.hs-worms.de
 rz-pool-a101-102-pc7.rz.hs-worms.de
 www-dmz.rz.hs-worms.de
-www.desktop.it.hs-worms.de
 zit.rz.hs-worms.de
 n242-dyn06.rt-labor.it.hs-worms.de
 phl-108.ph-labor.it.hs-worms.de
@@ -7930,7 +7922,7 @@ foreign-client-90.eduroam.hs-worms.de
 funck-pc.hs-worms.de
 vpn-client-168-229.rz.hs-worms.de
 wave-c132.rz.hs-worms.de
-www.vcenter.area42.it.hs-worms.de
+vcenter.area42.it.hs-worms.de
 sw-geb-bcd-loopback0.rz.hs-worms.de
 client-183-82.eduroam.hs-worms.de
 frei-214.area42.it.hs-worms.de
@@ -8128,7 +8120,6 @@ ip-phone-wir-177.164.voip.rz.hs-worms.de
 n140-master.fsl.it.hs-worms.de
 client-180-85.eduroam.hs-worms.de
 client-184-13.eduroam.hs-worms.de
-db.inf-pool.it.hs-worms.de
 ip-phone-rz-wave-175.109.voip.rz.hs-worms.de
 mobilemaster.ztt.hs-worms.de
 vpn-verw-asa-new.rz.hs-worms.de
@@ -8509,7 +8500,6 @@ ip-phone-seminar-178.165.voip.rz.hs-worms.de
 hettinger.hs-worms.de
 ntl-72.nt-labor.it.hs-worms.de
 pc-141.ip-labor.it.hs-worms.de
-vcenter.area42.it.hs-worms.de
 verw-wlan-ref-4-245.verw.hs-worms.de
 vpn-client-168-22.rz.hs-worms.de
 vdi-linux-13.vdi.it.hs-worms.de

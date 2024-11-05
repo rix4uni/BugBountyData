@@ -1645,7 +1645,6 @@ ul.epm-isdp.projects.epam.com
 staging-elearn-university.epm-mooc.projects.epam.com
 qa1-permissions.epm-talk.projects.epam.com
 stage-finance.epm-sbcm.projects.epam.com
-*.teams-dev-aws.awsdev.epm-dce.projects.epam.com
 teams-dev-aws.awsdev.epm-dce.projects.epam.com
 test1.internal.epm-prmo.projects.epam.com
 forecasting.stageaz.epm-crm.projects.epam.com
@@ -1750,13 +1749,11 @@ api.yb-lambda-2.mdtu-ddm.projects.epam.com
 hep-qa-learn.epm-tmc.projects.epam.com
 daimler-aqua-learn.epm-tmc.projects.epam.com
 stub.gcp.gnrg-osdu.projects.epam.com
-*.eks-test.aws.main.edp.projects.epam.com
 api.thunder.mdtu-ddm.projects.epam.com
-*.apps.thunder.mdtu-ddm.projects.epam.com
+apps.thunder.mdtu-ddm.projects.epam.com
 elearn.university.epm-mooc.projects.epam.com
 eu.stg-people.epm-dce.projects.epam.com
 stage.epm-prl.projects.epam.com
-*.r2.stage.infoportal-aws.epm-iass.projects.epam.com
 empathylab.staging.epm-iass.projects.epam.com
 in.stg-people.epm-dce.projects.epam.com
 system.eu.stg-people.epm-dce.projects.epam.com

@@ -1,5 +1,4 @@
-*.saytechnologies.com
-*.privacy.saytechnologies.com
+privacy.saytechnologies.com
 api.prod2.saytechnologies.com
 app.saytechnologies.com
 assets.saytechnologies.com
@@ -22,14 +21,12 @@ nexus.prod2.saytechnologies.com
 pay.saytechnologies.com
 portal.saytechnologies.com
 preferences.saytechnologies.com
-privacy.saytechnologies.com
 regulated-documents.saytechnologies.com
 shared-assets.prod2.saytechnologies.com
 sso.prod2.saytechnologies.com
 viewer.saytechnologies.com
 vote.saytechnologies.com
 voting-prod2.saytechnologies.com
-www.saytechnologies.com
 issuer-alt.saytechnologies.com
 missioncontrol-alt.saytechnologies.com
 share-range-analysis.saytechnologies.com

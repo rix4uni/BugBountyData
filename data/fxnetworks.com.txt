@@ -1,7 +1,6 @@
-*.fxnetworks.com
-*.production.fxwebnextjs.fxnetworks.com
-*.staging.fxwebnextjs.fxnetworks.com
-*.techops.fxwebnextjs.fxnetworks.com
+production.fxwebnextjs.fxnetworks.com
+staging.fxwebnextjs.fxnetworks.com
+techops.fxwebnextjs.fxnetworks.com
 124.140.233.35.bc.fxnetworks.com
 126.113.196.77.fxnetworks.com
 129.43.fxnetworks.com
@@ -222,7 +221,6 @@ paddyspub.blogs.fxnetworks.com
 pcs.fxnetworks.com
 production.alexafxskills.fxnetworks.com
 production.fxcmsadmin.fxnetworks.com
-production.fxwebnextjs.fxnetworks.com
 publisher.cms.fxnetworks.com
 publishreports.lisher.cms.fxnetworks.com
 qa.api.fxnetworks.com
@@ -291,7 +289,6 @@ staging.fapi.fxnetworks.com
 staging.fapiv4.fxnetworks.com
 staging.fearless.fxnetworks.com
 staging.fxcmsadmin.fxnetworks.com
-staging.fxwebnextjs.fxnetworks.com
 staging.ugc.fxnetworks.com
 staging.win10.fxnetworks.com
 staging1.fxnetworks.com
@@ -305,7 +302,6 @@ t.ec.fxnetworks.com
 techops.fapiv4.fxnetworks.com
 techops.fxcmsadmin.fxnetworks.com
 techops.fxurlshortenerdomain.fxnetworks.com
-techops.fxwebnextjs.fxnetworks.com
 terriers.blogs.fxnetworks.com
 test-primary.fxnetworks.com
 tv.fxnetworks.com
@@ -327,12 +323,5 @@ win10.fxnetworks.com
 win10.win10.fxnetworks.com
 work.fluxx.fxnetworks.com
 wp.fxnetworks.com
-www.fxnetworks.com
-www.fluxx.fxnetworks.com
-www.mysignin.fxnetworks.com
-www.newsletters.fxnetworks.com
-www.origin.cms.fxnetworks.com
-www.secureshop.fxnetworks.com
-www.support.fxnetworks.com
 www2.fxnetworks.com
 totallybiased.blogs.fxnetworks.com

@@ -1,7 +1,6 @@
-*.braintree-api.com
-*.bcoumes.dev.braintree-api.com
-*.dev.braintree-api.com
-*.sandbox.braintree-api.com
+bcoumes.dev.braintree-api.com
+dev.braintree-api.com
+sandbox.braintree-api.com
 10.72.104.128payments.braintree-api.com
 actions.braintree-api.com
 aegis-proxy-prod-ap-southeast-2.production.braintree-api.com
@@ -199,7 +198,6 @@ batch-validation-prod-us-east-2.production.braintree-api.com
 batch-validation-sand-us-west-2.sandbox.braintree-api.com
 bazaar-prod-us-west-2.production.braintree-api.com
 bazaar-sand-us-west-2.sandbox.braintree-api.com
-bcoumes.dev.braintree-api.com
 billing-registration-prod-us-west-2.production.braintree-api.com
 billpay-validator-ap-southeast-2.sandbox.braintree-api.com
 billpay-validator-eu-central-1.sandbox.braintree-api.com
@@ -401,7 +399,6 @@ datacenter.gateway-qa.dev.braintree-api.com
 datacenter.gateway-sand.sandbox.braintree-api.com
 datacenter.gatewaywww-prod.production.braintree-api.com
 demo-app-altpay-qa-us-west-2.dev.braintree-api.com
-dev.braintree-api.com
 dimension-finder-prod-us-east-1.production.braintree-api.com
 dimension-finder-prod-us-west-1.production.braintree-api.com
 dimension-finder-prod-us-west-2.production.braintree-api.com
@@ -1107,7 +1104,6 @@ reporting-taskworker-flower-sand-us-east-2.sandbox.braintree-api.com
 reporting-taskworker-flower-sand-us-west-1.sandbox.braintree-api.com
 reporting-taskworker-flower-sand-us-west-2.sandbox.braintree-api.com
 reporting-taskworker-flower-sand.sandbox.braintree-api.com
-sandbox.braintree-api.com
 sentinel-dataprod-us-east-2.data-production.braintree-api.com
 sentinel-dataprod-us-west-2.data-production.braintree-api.com
 sentinel-dataprod.data-production.braintree-api.com
@@ -1351,7 +1347,6 @@ billpay-validator-qa-us-east-2.dev.braintree-api.com
 journalist-qa-ap-southeast-2.dev.braintree-api.com
 cloud-ingress.gateway-qa.dev.braintree-api.com
 pingy-grpc-qa-us-west-2.dev.braintree-api.com
-www.braintree-api.com
 k8s-oidc-qa-eu-central-1.dev.braintree-api.com
 sftp.dev.braintree-api.com
 functions.dev.braintree-api.com

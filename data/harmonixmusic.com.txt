@@ -4,11 +4,10 @@ atlproxy.harmonixmusic.com
 somehost210.harmonixmusic.com
 support.harmonixmusic.com
 central.harmonixmusic.com
-www.harmonixmusic.com
 dtx-mag-01.harmonixmusic.com
 somehost219.harmonixmusic.com
 www-origin.harmonixmusic.com
-www.s3.harmonixmusic.com
+s3.harmonixmusic.com
 somehost215.harmonixmusic.com
 connect.harmonixmusic.com
 sip.harmonixmusic.com
@@ -28,7 +27,6 @@ admin-dev.harmonixmusic.com
 somehost211.harmonixmusic.com
 somehost217.harmonixmusic.com
 lyncdiscover.harmonixmusic.com
-s3.harmonixmusic.com
 lw.harmonixmusic.com
 ns1.harmonixmusic.com
 somehost218.harmonixmusic.com
@@ -72,8 +70,6 @@ lync.harmonixmusic.com
 sp.harmonixmusic.com
 hmxcorp-dev.s3.harmonixmusic.com
 example.harmonixmusic.com
-*.harmonixmusic.com
-*.s3.harmonixmusic.com
 epicaccount.harmonixmusic.com
 songsdb.harmonixmusic.com
 locustus.harmonixmusic.com
@@ -360,7 +356,6 @@ enklamedia-srv0-hmxcorp-prod.s3.harmonixmusic.com
 6-hmxcorp-prod-b.s3.harmonixmusic.com
 hmxcorp-aws.s3.harmonixmusic.com
 hmxcorp-dev-erdnjoaoi81kr3flgjedpz339dtcwgb3.s3.harmonixmusic.com
-aww.harmonixmusic.com
 dbz.s3.harmonixmusic.com
 github-stagewww.s3.harmonixmusic.com
 admin-loadtest5.hmxcorp-prod-b.s3.harmonixmusic.com
@@ -1198,7 +1193,6 @@ alextest7-0da40a17d.hmxcorp-prod-b.s3.harmonixmusic.com
 deadigital-dbdn.s3.harmonixmusic.com
 alex-xps-8500.harmonixmusic.com
 isirbqjmkv.harmonixmusic.com
-www.jobs.harmonixmusic.com
 academico.s3.harmonixmusic.com
 docsv8.hmxcorp-prod-b.s3.harmonixmusic.com
 com25hmxcorp-prod.s3.harmonixmusic.com
@@ -1602,7 +1596,7 @@ b0ef1cbc7480f7bffa033c83f81fb05f.s3.harmonixmusic.com
 stage9.hmxcorp-dev.s3.harmonixmusic.com
 2-prod.s3.harmonixmusic.com
 gateway.harmonixmusic.com
-www.angrycasino.s3.harmonixmusic.com
+angrycasino.s3.harmonixmusic.com
 hmxcorp-prod-a-prod-euc3a.s3.harmonixmusic.com
 hmxcorp-dev-s3.s3.harmonixmusic.com
 brqkfpblas.harmonixmusic.com
@@ -1683,7 +1677,6 @@ chani9-hmxcorp-prod-b.s3.harmonixmusic.com
 e6f79c614c62-hmxcorp-prod-b.s3.harmonixmusic.com
 hmxcorp-prod-a59e98016.s3.harmonixmusic.com
 soapqueen.com.s3.harmonixmusic.com
-3ww.harmonixmusic.com
 hmxcorp-prod-c.s3.harmonixmusic.com
 test-bastion.appspot.co.harmonixmusic.com
 email-hmxcorp-prod-b.s3.harmonixmusic.com
@@ -2198,7 +2191,6 @@ gamesworkshop.harmonixmusic.com
 awsuse1-nps-11hmxcorp-dev.s3.harmonixmusic.com
 a02.s3.harmonixmusic.com
 hmxcorp-devc13po-latest-gamedev.s3.harmonixmusic.com
-8ww.hmxcorp-prod-b.s3.harmonixmusic.com
 hmxcorp-prod-bc8f0.s3.harmonixmusic.com
 akamai.s3.harmonixmusic.com
 gw-euw8-prod.hmxcorp-dev.s3.harmonixmusic.com
@@ -3092,7 +3084,7 @@ gigmit-production.s3.harmonixmusic.com
 gcp-dev11-bertie-hmxcorp-prod-b.s3.harmonixmusic.com
 hmxcorp-prod-admin4.s3.harmonixmusic.com
 cust63.s3.harmonixmusic.com
-www.181st.net.harmonixmusic.com
+181st.net.harmonixmusic.com
 core-us-east12-forbes-developmenthmxcorp-prod.s3.harmonixmusic.com
 17-hmxcorp-prod-a.s3.harmonixmusic.com
 hmxcorp-devfortnitecontent-website-prod8.s3.harmonixmusic.com
@@ -3922,7 +3914,6 @@ hmxcorp-prod-bp12-licensee-northeast.s3.harmonixmusic.com
 auth.s3.harmonixmusic.com
 hmxcorp-devdc-cec0ad788e44.s3.harmonixmusic.com
 hmxcorp-prod-a-captumgroup-srv10.s3.harmonixmusic.com
-5ww.hmxcorp-prod-b.s3.harmonixmusic.com
 heddels-network.s3.harmonixmusic.com
 davidcephhmxcorp-prod-b.s3.harmonixmusic.com
 w5ww.hmxcorp-dev.s3.harmonixmusic.com
@@ -4275,7 +4266,7 @@ devops-hmxcorp-prod.s3.harmonixmusic.com
 65a2cf14-www.s3.harmonixmusic.com
 dk.s3.harmonixmusic.com
 civicscience-widgets.s3.harmonixmusic.com
-www.facebook.com.harmonixmusic.com
+facebook.com.harmonixmusic.com
 80e59896hmxcorp-prod-b.s3.harmonixmusic.com
 hmxcorp-prod-b-squawkbox-srv5.s3.harmonixmusic.com
 elasticbeanstalk-prod.s3.harmonixmusic.com
@@ -4303,7 +4294,6 @@ flyeasy.s3.harmonixmusic.com
 hmxcorp-prod-a-0a863bc6eb3a.s3.harmonixmusic.com
 18hmxcorp-dev.s3.harmonixmusic.com
 dev-usw2a-hmxcorp-qa.s3.harmonixmusic.com
-www.seahawks.com.s3.harmonixmusic.com
 hmxcorp-prod-bprometheus-sfo3-7.s3.harmonixmusic.com
 hmxcorp-prod-610241a19310e10.s3.harmonixmusic.com
 asderasdar27.hmxcorp-prod-b.s3.harmonixmusic.com
@@ -4952,7 +4942,6 @@ ec2075b8-f69a-2266-74ae-9da8b7e608b7-eu-central-1.hmxcorp-prod-b.s3.harmonixmusi
 hmxcorp-devdatastorage.s3.harmonixmusic.com
 ec2d14cba-ff5d-ff9b-1dbd-a233501140cda-eu-north-1hmxcorp-prod-b.s3.harmonixmusic.com
 concentrator.s3.harmonixmusic.com
-angrycasino.s3.harmonixmusic.com
 hmxcorp-deva5dbc94b8ff.s3.harmonixmusic.com
 int.harmonixmusic.com
 group.s3.harmonixmusic.com

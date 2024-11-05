@@ -1,4 +1,3 @@
-www.ancestry.fr
 wiz.ancestry.fr
 c.ancestry.fr
 shoebox.ancestry.fr
@@ -13,8 +12,7 @@ library.ancestry.fr
 landing.lm.ancestry.fr
 library.lm.ancestry.fr
 wiz2.ancestry.fr
-*.ancestry.fr
-*.ajax.ancestry.fr
+ajax.ancestry.fr
 pointofsale.ancestry.fr
 mediasvc.lm.ancestry.fr
 apimsk.ancestry.fr

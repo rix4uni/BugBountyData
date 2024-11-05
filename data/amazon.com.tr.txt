@@ -3,7 +3,7 @@ product-browserapps.amazon.com.tr
 r.amazon.com.tr
 ara.amazon.com.tr
 a9g-api.amazon.com.tr
-www.logistics.amazon.com.tr
+logistics.amazon.com.tr
 p-y3-www-amazon-com-tr-kalias.amazon.com.tr
 unagi.amazon.com.tr
 origin-dl.amazon.com.tr
@@ -20,7 +20,6 @@ reporter-browserapps.amazon.com.tr
 webservices.amazon.com.tr
 mws.services.amazon.com.tr
 edgeflow.aero.8fb1e192f-frontier.amazon.com.tr
-logistics.amazon.com.tr
 arap.amazon.com.tr
 fastly-www.amazon.com.tr
 advertising.amazon.com.tr
@@ -54,11 +53,10 @@ completion.amazon.com.tr
 p-yo-www-amazon-com-tr-kalias.amazon.com.tr
 vendorcentral.amazon.com.tr
 feed-browserapps.amazon.com.tr
-www.amazon.com.tr
 reinstate.amazon.com.tr
 aeswidget.amazon.com.tr
 hub.amazon.com.tr
-www.cdn.amazon.com.tr
+cdn.amazon.com.tr
 affiliate-program.amazon.com.tr
 carriercentral.amazon.com.tr
 aeswidgets.amazon.com.tr
@@ -75,9 +73,6 @@ dl.amazon.com.tr
 hubportal.amazon.com.tr
 sellercentral.amazon.com.tr
 origin-sellercentral.amazon.com.tr
-cdn.amazon.com.tr
-*.browserapps.amazon.com.tr
-*.transient.amazon.com.tr
 8fb1e192f-frontier.amazon.com.tr
 appx.transient.amazon.com.tr
 yo-www-amazon-com-tr-kalias.amazon.com.tr

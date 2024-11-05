@@ -110,7 +110,6 @@ us.dev.vault.sst.sophosapps.com
 us.qa.vault.sst.sophosapps.com
 us.vault.sst.sophosapps.com
 vector.sdp.sst.sophosapps.com
-www.assetopia.dev.sst.sophosapps.com
 agent-api.cf.factory.sophosapps.com
 agent-api.dev.factory.sophosapps.com
 agent-api.factory.sophosapps.com
@@ -262,7 +261,5 @@ vector-poc.sdp.sst.sophosapps.com
 vector.dev.sst.sophosapps.com
 wazuh-demo.sst.sophosapps.com
 wss.yellowpenguin.dev.sst.sophosapps.com
-www.assetopia.sst.sophosapps.com
-www.assetopia.staging.sst.sophosapps.com
 xgtelemetry.sophosapps.com
 yellowpenguin.dev.sst.sophosapps.com

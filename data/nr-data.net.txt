@@ -377,7 +377,6 @@ staging-synthetics-horde.dualstack.nr-data.net
 staging.otlp.nr-data.net
 us-calm-chain.cell.us.nr-data.net
 stg-nil-pointer.cell.us.nr-data.net
-www.nr-data.net
 cjones-test.cell.nr-data.net
 test-scary-orange.cell.us.nr-data.net
 stg-monkey-biz.cell.us.nr-data.net
@@ -814,8 +813,3 @@ us-hungry-menu.cell.us.nr-data.net
 vortex-nlb-http2-fed-us-taut-purple.nr-data.net
 non-port-traffic.staging-otlp.nr-data.net
 chi-prod-collector.nr-data.net
-*.syslog.eu.nr-data.net
-*.aws-ap-southeast-2.tracing.edge.nr-data.net
-*.aws-us-east-2.tracing.edge.nr-data.net
-*.syslog.nr-data.net
-*.aws-eu-central-1.tracing.edge.eu.nr-data.net

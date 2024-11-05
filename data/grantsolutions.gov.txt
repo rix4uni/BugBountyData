@@ -1,5 +1,4 @@
-*.grantsolutions.gov
-*.am.grantsolutions.gov
+am.grantsolutions.gov
 0-hhs-cdc-cgh-training-ggov.grantsolutions.gov
 _dmarc.grantsolutions.gov
 acf.grantsolutions.gov
@@ -34,7 +33,6 @@ acfgshvac.grantsolutions.gov
 acfgsld241.grantsolutions.gov
 acfgsld31r.grantsolutions.gov
 achecker.grantsolutions.gov
-am.grantsolutions.gov
 am2-acf-ecd-prod.grantsolutions.gov
 am2-acf-ecd-train.grantsolutions.gov
 am2-cdc-cfa-prod.grantsolutions.gov
@@ -345,12 +343,9 @@ usdotlitc.grantsolutions.gov
 va.grantsolutions.gov
 va-oted.grantsolutions.gov
 venus-home.grantsolutions.gov
-www.grantsolutions.gov
-www.ami.grantsolutions.gov
 hhs-acf-ocss.grantsolutions.gov
 hhs-acf-ofvps.grantsolutions.gov
 testdomain.grantsolutions.gov
-www.testdomain.grantsolutions.gov
 chatbot-dev.grantsolutions.gov
 chatbot-test.grantsolutions.gov
 dev.grantsolutions.gov
@@ -359,9 +354,6 @@ testdomain1.grantsolutions.gov
 testdomain2.grantsolutions.gov
 testdomain3.grantsolutions.gov
 venus.grantsolutions.gov
-www.testdomain1.grantsolutions.gov
-www.testdomain2.grantsolutions.gov
-www.testdomain3.grantsolutions.gov
 sds-test.grantsolutions.gov
 sdstest.grantsolutions.gov
 stig.grantsolutions.gov
@@ -416,7 +408,6 @@ nexus.grantsolutions.gov
 oldcohs.grantsolutions.gov
 appdynamics.grantsolutions.gov
 gsdbdoc.grantsolutions.gov
-www.rrm.grantsolutions.gov
 ohs-home.grantsolutions.gov
 armdemo.grantsolutions.gov
 awsdemo.grantsolutions.gov

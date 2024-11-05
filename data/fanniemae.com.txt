@@ -78,7 +78,6 @@ ami-lookup-tool.fanniemae.com
 devptlpub.fv7dp.etss.prod.fanniemae.com
 prodapi.duiu.du.prod.fanniemae.com
 fl8tmb.camr.etss.prod.fanniemae.com
-www.homepath.fanniemae.com
 ping.homepath.etss.prod.fanniemae.com
 askpoli.gp9.sfbu.prod.fanniemae.com
 mfdefeasancecalculator.fanniemae.com
@@ -154,7 +153,7 @@ mfdefeasancecalculator.acnt.fanniemae.com
 bizopsabc.fanniemae.com
 geocoder-nonprod.fanniemae.com
 sso-idp-asp-new2018.fanniemae.com
-www.scott904.fanniemae.com
+scott904.fanniemae.com
 dlv-liquid-w001-6.fanniemae.com
 fmsso-devl-jwt-non-critical-outbound-2024.fanniemae.com
 vis-700-uptest-02.fanniemae.com
@@ -189,7 +188,7 @@ panorama-e2.idmz.prod-essx.aws.fanniemae.com
 release.cvas.sfbu.prod.fanniemae.com
 scott-85.fanniemae.com
 vis-external-devl.e003.fanniemae.com
-www.powerposters.fanniemae.com
+powerposters.fanniemae.com
 connect-test-a.fanniemae.com
 disclosure-a-acpt.fanniemae.com
 fmsso-perf-int.fanniemae.com
@@ -197,7 +196,7 @@ cabo-wabo.e7878.fanniemae.com
 calculator.fanniemae.com
 ir2opsui.fanniemae.com
 ns4.fanniemae.com
-www.vice2-prd-test7.fanniemae.com
+vice2-prd-test7.fanniemae.com
 api.theexchange.fanniemae.com
 camr-oor.fanniemae.com
 mae.fanniemae.com
@@ -225,7 +224,7 @@ investorreporting.fanniemae.com
 pilv-flb-w01a-1.fanniemae.com
 usbank.fanniemae.com
 utc-p-colo-epzlb-02__pc2.fanniemae.com
-www.mfguide-acpt.fanniemae.com
+mfguide-acpt.fanniemae.com
 scott1067.fanniemae.com
 flbpf-alb-runtime-v70.flbpf.sdbx-ess.aws.fanniemae.com
 pubalb-oidc-01.idmz.essp.prod.fanniemae.com
@@ -394,7 +393,7 @@ pubalb-oidc-01.idmz.mfbu.prod.fanniemae.com
 vis-upgrade-external.e003.fanniemae.com
 aws-ldap.fanniemae.com
 fmsso-devl-jwt-critical-outbound-msr03883-2024.fanniemae.com
-www.17a.fanniemae.com
+17a.fanniemae.com
 _prod.fanniemae.com
 alcore-w50z-20.fanniemae.com
 bro.fanniemae.com
@@ -469,7 +468,6 @@ flbpf-nlb-runtime-v68.flbpf.devl-ess.aws.fanniemae.com
 fmsso-jwt-critical-outbound-2022.fanniemae.com
 test-cuws-collateralunderwriter.fanniemae.com
 fmsso-test.fanniemae.com
-scott904.fanniemae.com
 alacq-w13b-3.fanniemae.com
 dashboard-dev.fanniemae.com
 dusdisclose.fanniemae.com
@@ -543,7 +541,7 @@ apptcpr.hja.sb01.prod.fanniemae.com
 quill.fanniemae.com
 pefaptp-fw01ab.fanniemae.com
 pwp-fam-aedg03.fanniemae.com
-www.cmvropp1.fanniemae.com
+cmvropp1.fanniemae.com
 ecs-test-ext.0126-hhkkq.fanniemae.com
 mfaadmin.fanniemae.com
 plv-e84-a004-bwlb1.fanniemae.com
@@ -596,7 +594,7 @@ aerr-awssub001.e003.fanniemae.com
 az-prod-msr11869-g5q-veritasvault.fanniemae.com
 dc4-www.collateralunderwriter.fanniemae.com
 flbpf-nlb-runtime-v14.flbpf.devl-ess.aws.fanniemae.com
-www.exchange.fanniemae.com
+exchange.fanniemae.com
 alcore-w50y-4.fanniemae.com
 cets-acpt1.fanniemae.com
 fmsso-test-jwt-critical-outbound-msr01388-2023.fanniemae.com
@@ -605,7 +603,6 @@ plv-e84-a001-bwlb4.fanniemae.com
 _dpam.fanniemae.com
 pubalb-ptagfed-19.idmz.shdz.cont.fanniemae.com
 scott-ext.fanniemae.com
-www.askpoli.fanniemae.com
 dlv-liquid-w002-5.fanniemae.com
 bizops.fanniemae.com
 cetsportal.cets2ext.cmbu.prod.fanniemae.com
@@ -703,7 +700,7 @@ cmvcorp12sp2.fanniemae.com
 dmulta01.fanniemae.com
 splv-flb-w01x-2.fanniemae.com
 warn-status-500-02.fanniemae.com
-www.vice2-prd-test-internal.fanniemae.com
+vice2-prd-test-internal.fanniemae.com
 alv-liquid-w015-2.fanniemae.com
 illiquid-w70a-8.fanniemae.com
 peoplesofthrmsacpt.fanniemae.com
@@ -924,7 +921,7 @@ dlv-ffb-w001-5.fanniemae.com
 ebp.fanniemae.com
 fry.cdxms.prod-etss.aws.fanniemae.com
 qa-exin-int-first.0603-rqd4n.fanniemae.com
-www.vice2-prd-test-1.fanniemae.com
+vice2-prd-test-1.fanniemae.com
 aerr-awsdn001.e003.fanniemae.com
 dc2-gk.fanniemae.com
 dus360p.mfamp.mfbu.cont.fanniemae.com
@@ -958,7 +955,6 @@ pemplusp-fw01yz.fanniemae.com
 plv-fcp-a001-bwlb3.fanniemae.com
 register.ghd.csbu.cont.fanniemae.com
 teardown.fanniemae.com
-www.fanniemae.com
 ssopa-prod-apatcagwafa.fanniemae.com
 dlv-fat-a002.fanniemae.com
 fmsso-test.e001.fanniemae.com
@@ -1015,7 +1011,7 @@ hcdinfoexchangeuat.fanniemae.com
 jumbo-csr-qa-test2-here.fanniemae.com
 kashiftest3.fanniemae.com
 wellsfargo-clve.fanniemae.com
-www.cmvhq12pp1.fanniemae.com
+cmvhq12pp1.fanniemae.com
 cfms-clve.fanniemae.com
 auduui.fanniemae.com
 ecs-test060.0428-f2ukg.fanniemae.com
@@ -1114,7 +1110,7 @@ ile-or.fanniemae.com
 qa-exin-int-first.0719-hztun.fanniemae.com
 cmhweb-acpt.fanniemae.com
 fmsso-devl-api-int.fanniemae.com
-www.eb.lsdu.acpt-sfbu.aws.fanniemae.com
+eb.lsdu.acpt-sfbu.aws.fanniemae.com
 fmsso-acpt-cert-auth1-int.fanniemae.com
 ilv-e84-a005-bwlb4.fanniemae.com
 mfdealfactory.fanniemae.com
@@ -1263,7 +1259,7 @@ dc2-rsa-prod.fanniemae.com
 esbtranslator-int-test.fanniemae.com
 perr-awsdn019.e001.fanniemae.com
 sn01b.fanniemae.com
-www.scott967.fanniemae.com
+scott967.fanniemae.com
 awlkup-oor.fanniemae.com
 ecs-test060.0210-utbvn.fanniemae.com
 prod.cvas.sfbu.cont.fanniemae.com
@@ -1348,7 +1344,7 @@ pam_fj5_t.fanniemae.com
 rzrtol-01-b.prod.fanniemae.com
 alcore-w50z-25.fanniemae.com
 ecs-test-int-ext.0929-mpzk5.fanniemae.com
-www.mfguide.fanniemae.com
+mfguide.fanniemae.com
 dc4-hcd.fanniemae.com
 plliquid-w02y-8.fanniemae.com
 scott1.fanniemae.com
@@ -1357,7 +1353,7 @@ cmvcorp12sp3.fanniemae.com
 dc4-homeready-eligibility.fanniemae.com
 cmvhq9sp2.fanniemae.com
 middleware-prod-external-20.fanniemae.com
-www.vice2-prd-test-ext.fanniemae.com
+vice2-prd-test-ext.fanniemae.com
 dlv-fat-a004.fanniemae.com
 fmsso-engg-jwt-critical-outbound-2023.fanniemae.com
 plsysadm-uschedcs03.fanniemae.com
@@ -1410,7 +1406,7 @@ dlv-e84-a001-bwlb4.fanniemae.com
 pam_bb9_ppam.fanniemae.com
 pu-signup-eng.fanniemae.com
 vis-internal-devl.e003.fanniemae.com
-www.vice2-prd-test5.fanniemae.com
+vice2-prd-test5.fanniemae.com
 glass-devl.fanniemae.com
 bigdata.fanniemae.com
 dc1-sso.fanniemae.com
@@ -1636,7 +1632,6 @@ technologymanager-clve.fanniemae.com
 test96.fanniemae.com
 cert-for-test-45.fkk.devl-ceng.aws.fanniemae.com
 ch3-fmsso.fanniemae.com
-cmvhq12pp1.fanniemae.com
 cuvcorp12pp1.fanniemae.com
 pam_ffp_d.fanniemae.com
 peuserp-fw01yz.fanniemae.com
@@ -1737,7 +1732,6 @@ pamccp-p2x.fanniemae.com
 kashiftest.fanniemae.com
 twe-dev.fanniemae.com
 flbpf-nlb-runtime-v55.flbpf.devl-ess.aws.fanniemae.com
-mfguide-acpt.fanniemae.com
 prod.smdu2aws.sfbu.prod.fanniemae.com
 scott1127.fanniemae.com
 cptmkt-opstech-devl.fanniemae.com
@@ -1947,7 +1941,7 @@ illiquid-w70b-10.fanniemae.com
 push-treasury-acpt.fanniemae.com
 testbedpub.cdxms.etss.clve.fanniemae.com
 ucdrelationshipsvc-clve.fanniemae.com
-www.scott12345.fanniemae.com
+scott12345.fanniemae.com
 derr-awsrst001.e003.fanniemae.com
 enterpriseapi.fotgw.essp.cont.fanniemae.com
 nc2.fanniemae.com
@@ -2086,7 +2080,6 @@ drs-prod.fanniemae.com
 marketbridge.fanniemae.com
 smpsvc-devl2.fanniemae.com
 vpn.fanniemae.com
-www.cdxportal.e001.fanniemae.com
 brandon11.fanniemae.com
 flbpf-alb-runtime-v24.flbpf.cont-essp.aws.fanniemae.com
 scott16.fanniemae.com
@@ -2172,7 +2165,6 @@ marketroom-test.fanniemae.com
 derr-awsnn001.e003.fanniemae.com
 dynatrace.fanniemae.com
 ecs-test-int-ext.0628-mfzud.fanniemae.com
-mfguide.fanniemae.com
 node-e2-spoke2-tenant.fanniemae.com
 pam_fh1_t.fanniemae.com
 e64-devl-eb-02-webapi.e003.fanniemae.com
@@ -2246,7 +2238,7 @@ anothertest002.fanniemae.com
 ebrms8711-acpt.fanniemae.com
 plv-e1b-a008.fanniemae.com
 test1012.fanniemae.com
-www.vice-test2568.fanniemae.com
+vice-test2568.fanniemae.com
 ldng-perf-admin.fanniemae.com
 dc2-st.fanniemae.com
 dc4-fmssogw.fanniemae.com
@@ -2788,7 +2780,7 @@ alcore-w50z-19.fanniemae.com
 dodo-gor.fanniemae.com
 elrmacpt.fanniemae.com
 fmsso-test-jwt-non-critical-outbound-2023.fanniemae.com
-www.vice-prd-test.fanniemae.com
+vice-prd-test.fanniemae.com
 bogon.fanniemae.com
 old.fanniemae.com
 ch3-vera-ad.fanniemae.com
@@ -2825,7 +2817,6 @@ tlsysadm-w55a-2.fanniemae.com
 awv-f1n-a007.fanniemae.com
 smpprod1.peserv.cmbu.prod.fanniemae.com
 technologymanager.fanniemae.com
-www.procureone.fanniemae.com
 expc-cluster.fanniemae.com
 lb01a-dns.fanniemae.com
 pishared-ag10d.fanniemae.com
@@ -3144,7 +3135,6 @@ fotgw-ec2-fotacptsso.fotgw.acpt-ess.aws.fanniemae.com
 pe-test5.fanniemae.com
 scott906.fanniemae.com
 remapps.fanniemae.com
-cmvropp1.fanniemae.com
 hcimdev81.fanniemae.com
 cmvmrk12pp1.fanniemae.com
 dc2-reosearch.fanniemae.com
@@ -3191,7 +3181,7 @@ terr-awsdn008.e003.fanniemae.com
 fmsso-acpt-api-int.e001.fanniemae.com
 fmsso-perf-api-int.fanniemae.com
 pam-p2x.fanniemae.com
-www.vice2-prd-test8.fanniemae.com
+vice2-prd-test8.fanniemae.com
 autechprod-oor.fanniemae.com
 ecs-test060.0210-vdczs.fanniemae.com
 elcio1.fanniemae.com
@@ -3262,7 +3252,6 @@ ecs-test-ext-ecdsa.0113-7spxe.fanniemae.com
 ndc-01-b.prod.fanniemae.com
 piwv-fuh-a003.fanniemae.com
 soaservices-engd.fanniemae.com
-scott12345.fanniemae.com
 devportal-cms-test.fanniemae.com
 expc12ps02.fanniemae.com
 expe12ps01-int.fanniemae.com
@@ -3358,7 +3347,6 @@ elrm.fanniemae.com
 perr-awsint001.e001.fanniemae.com
 swhpet4142.uni--vp02-pub.fanniemae.com
 xen7ddcdr.fanniemae.com
-17a.fanniemae.com
 beastacpt.fanniemae.com
 dc4-easyconnect.fanniemae.com
 dlv-sfam-w017.fanniemae.com
@@ -3372,7 +3360,7 @@ dlv-sys-w011-1.fanniemae.com
 hbs.cdxms.acpt-etss.aws.fanniemae.com
 intg-piw-collateralunderwriter.fanniemae.com
 ucp-demo.fanniemae.com
-www.mrainternal.fanniemae.com
+mrainternal.fanniemae.com
 adpbah.fanniemae.com
 tyest45.fanniemae.com
 dlv-flb-w001-2.fanniemae.com
@@ -3490,7 +3478,7 @@ treasury-acpt.fanniemae.com
 aerr-awsnn003.e003.fanniemae.com
 fry.fmconnect.sfdl.prod.fanniemae.com
 rwv-f1n-a002.fanniemae.com
-www.media.fanniemae.com
+media.fanniemae.com
 cmvcorp12sp4.fanniemae.com
 ebpm-acptz3.fanniemae.com
 fmsso-devl-jwt-critical-outbound-2023.fanniemae.com
@@ -3534,7 +3522,7 @@ b2bselfserve-engd.fanniemae.com
 esblms.fanniemae.com
 gkp.mfmvc.mfbu.cont.fanniemae.com
 pe-mbs-dev4.fanniemae.com
-www.lsdu.acpt-sfbu.aws.fanniemae.com
+lsdu.acpt-sfbu.aws.fanniemae.com
 pubalb-saml-06.idmz.shdz.cont.fanniemae.com
 delphix1-ec2.tdm.cont-edss.aws.fanniemae.com
 hcimsiebel.fanniemae.com
@@ -3550,13 +3538,12 @@ tlliquid-w02a-3.fanniemae.com
 askpoliservicing-eng.fanniemae.com
 clean.fanniemae.com
 eqc3-gtm.fanniemae.com
-www.vice2-prd-test-external.fanniemae.com
+vice2-prd-test-external.fanniemae.com
 pricing-clve.fanniemae.com
 servicing-clves2.fanniemae.com
 bizopsabc-stage-b.prod.fanniemae.com
 cmvhq12sp1.fanniemae.com
 dlacq-ap12a-9.fanniemae.com
-www.loanlookup.fanniemae.com
 ecs-test060.0224-bb7el.fanniemae.com
 glassfed-clve.fanniemae.com
 mra.fanniemae.com
@@ -3583,7 +3570,6 @@ ra.fanniemae.com
 aerr-awsrst001.e003.fanniemae.com
 dc4-testremapps.fanniemae.com
 fmsso-acpt-jwt-outbound-2022.fanniemae.com
-mrainternal.fanniemae.com
 pam_fj5_d.fanniemae.com
 alcore-w50z-18.fanniemae.com
 connect-acpt.fanniemae.com
@@ -3665,7 +3651,6 @@ expe20ps02.fanniemae.com
 ibmwebspheremqqm.fnmabrsprodg.fanniemae.com
 chase.fanniemae.com
 fisgacpt2.fanniemae.com
-www.cuvcorp12pp1.fanniemae.com
 zsproxy.fanniemae.com
 ailv-fnd-a001.fanniemae.com
 glass-sso-test.fanniemae.com
@@ -3696,7 +3681,7 @@ alacq-w13b-2.fanniemae.com
 fmsso-idp-asp-ext2021.fanniemae.com
 pr360f-01.prod.fanniemae.com
 pubalb-passthru-02.idmz.sfbu.prod.fanniemae.com
-www.vice2-prd-test6.fanniemae.com
+vice2-prd-test6.fanniemae.com
 api-test-a.fanniemae.com
 pam_ak7_a.fanniemae.com
 pam_ffp_a.fanniemae.com
@@ -3796,7 +3781,6 @@ dc2-b2bselfserve.fanniemae.com
 alv-flb-w001-2.fanniemae.com
 glass-devl-a.fanniemae.com
 tibco-ems-lower.fanniemae.com
-media.fanniemae.com
 pe-servicing-test2.fanniemae.com
 plv-bdo-w001-1.fanniemae.com
 tesr.fanniemae.com
@@ -3853,7 +3837,6 @@ awv-f1n-a008.fanniemae.com
 fm-puimanage07.fanniemae.com
 perr-awsdn007.e001.fanniemae.com
 plv-fat-a008.fanniemae.com
-powerposters.fanniemae.com
 spilv-flb-w01b-2.fanniemae.com
 askpoli-acpt.fanniemae.com
 quickstrikes-acpt.fanniemae.com
@@ -3869,7 +3852,7 @@ ecs-test-int-ext.0930-c622l.fanniemae.com
 fmsso-eng-api-ext.fanniemae.com
 hco.devl.fanniemae.com
 sunwebadmin.fanniemae.com
-www.fmsso.fanniemae.com
+fmsso.fanniemae.com
 alliquid-w02a-19.fanniemae.com
 middleware-prod-external-14.fanniemae.com
 authgw.devl-auth.aws.fanniemae.com
@@ -3924,7 +3907,6 @@ torrential.fanniemae.com
 dc2-email.fanniemae.com
 ecs-test-int-ext.0505-gaoac.fanniemae.com
 pwv-ave-w001.fanniemae.com
-scott967.fanniemae.com
 acpt3-appraisalreview.fanniemae.com
 pesysadm-gl01y.fanniemae.com
 imraws.fanniemae.com
@@ -3942,7 +3924,7 @@ devl-formfree.fanniemae.com
 ecs-test060.0210-byaq4.fanniemae.com
 pam_eo7_d.fanniemae.com
 test-shakeout-csr-creation.fanniemae.com
-www.vice2-prd-test.fanniemae.com
+vice2-prd-test.fanniemae.com
 pam_fee_t2.fanniemae.com
 fmsso-acpt-jwt-critical-outbound-msr01388-2023.fanniemae.com
 scott883.fanniemae.com
@@ -4071,7 +4053,7 @@ intg-newalpha.fanniemae.com
 dlasset-ap22a.fanniemae.com
 flbpf-nlb-runtime-v67.flbpf.acnt-ess.aws.fanniemae.com
 plliquid-w70b-2.fanniemae.com
-www.mywebsite.fanniemae.com
+mywebsite.fanniemae.com
 spilv-flb-w01b.fanniemae.com
 businessgateway-extout.fanniemae.com
 dwv-bkc-a004.fanniemae.com
@@ -4141,7 +4123,6 @@ ecs-test-int-ext.0628-vezgf.fanniemae.com
 fmsso-eng-api.fanniemae.com
 customersurvey.fanniemae.com
 scott779.fanniemae.com.scott780.fanniemae.com
-fmsso.fanniemae.com
 myservicesautomationexternal.fanniemae.com
 plv-e84-a004-bwlb4.fanniemae.com
 pubalb-perf-07.idmz.shdz.cont.fanniemae.com

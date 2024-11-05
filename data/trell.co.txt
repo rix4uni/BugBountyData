@@ -25,7 +25,7 @@ devshop.trell.co
 gameshow.trell.co
 gs.staging.trell.co
 ns1.box.trell.co
-www.gptt.trell.co
+gptt.trell.co
 adminwriter.trell.co
 flask-sample.trell.co
 whatsapp-test.trell.co
@@ -65,7 +65,7 @@ creators-dev.trell.co
 create-v2.cms.trell.co
 shop.trell.co
 teleport.internal.trell.co
-www.stories.trell.co
+stories.trell.co
 cdn.trell.co
 insta.trell.co
 thumbnail.trell.co
@@ -73,7 +73,6 @@ cdn-gcp.trell.co
 bulk-writer-test.trell.co
 app.trell.co
 commerce.trell.co
-gptt.trell.co
 metrics.trell.co
 trails.trell.co
 amp.trell.co
@@ -89,7 +88,6 @@ cid.trell.co
 kibana-stage.trell.co
 teleport.trell.co
 test.trell.co
-www.trell.co
 config-dashboard.trell.co
 go-trell-commerce-stage.trell.co
 migrate-test.trell.co
@@ -105,7 +103,6 @@ gptx-stage.trell.co
 monitor.trell.co
 qcdashboard.trell.co
 skadoosh.trell.co
-stories.trell.co
 tagging-fe.trell.co
 kibana.trell.co
 vpn.trell.co
@@ -143,7 +140,6 @@ cad.trell.co
 go-users.trell.co
 k8s.v2.trell.co
 squidex.trell.co
-www.shop.trell.co
 metabase.trell.co
 analytics-jub.trell.co
 cad-server.trell.co

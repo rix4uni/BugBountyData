@@ -466,7 +466,7 @@ xp-ch-web-comms-custom-activity.st.latamairlines.com
 xp-ch-web-order-servicing.st.latamairlines.com
 pci-xp-mc-order-payment.latamairlines.com
 xp-ch-web-agent.rr.latamairlines.com
-www.corporate.rr.latamairlines.com
+corporate.rr.latamairlines.com
 xp-ch-web-agent-order-management.st.latamairlines.com
 xp-tc-test-admin.rr.latamairlines.com
 xp-web-mytrips.rr.latamairlines.com
@@ -541,7 +541,7 @@ xp-api-safetypay-ipn.rr.latamairlines.com
 xp-ch-web-exchange.st.latamairlines.com
 xp-ch-web-same-day-flight-change.st.latamairlines.com
 xp-ch-web-hotel-deals.rr.latamairlines.com
-www.agency.rr.latamairlines.com
+agency.rr.latamairlines.com
 xp-mc-anti-fraud-payment.rr.latamairlines.com
 pci-xp-tp-xpsp-front.rr.latamairlines.com
 xp-mc-agencies-mgmt.rr.latamairlines.com
@@ -553,14 +553,14 @@ xp-acl-data-anti-fraud.rr.latamairlines.com
 pci-xp-acl-iata-pay.rr.latamairlines.com
 xp-mc-anti-fraud-platform-configuration.rr.latamairlines.com
 xp-mc-order-fulfillment.st.latamairlines.com
-www.dev.latamairlines.com
+dev.latamairlines.com
 ndc.latamairlines.com
 xp-ch-web-agent-passenger-loyalty.st.latamairlines.com
 xp-ch-web-bnpl-corporate.rr.latamairlines.com
 pci-xp-api-notification.rr.latamairlines.com
 xp-ch-web-billing-document-recovery.st.latamairlines.com
 xp-api-ancillary-management.st.latamairlines.com
-www.agency.st.latamairlines.com
+agency.st.latamairlines.com
 xp-bff-xpsp-payment-checkout.rr.latamairlines.com
 pci-xp-tp-payments.rr.latamairlines.com
 web-user-backoffice.st.latamairlines.com
@@ -576,10 +576,8 @@ agencies-accounts.latamairlines.com
 xp-api-genesys-adapter.st.latamairlines.com
 pci-xp-api-anti-fraud-platform.rr.latamairlines.com
 xp-api-flight-operation.st.latamairlines.com
-www.agency.latamairlines.com
 xp-mc-order-metadata-writer.st.latamairlines.com
 pci-xp-mc-ifg-cancellation.rr.latamairlines.com
-www.latamairlines.com
 pci-xp-mc-refund-options.rr.latamairlines.com
 xp-api-user-platform.rr.latamairlines.com
 apitesting.rr.latamairlines.com
@@ -640,7 +638,6 @@ xp-mc-ewallet-account.st.latamairlines.com
 xp-ch-web-agent-ebiz-bridge.rr.latamairlines.com
 xp-api-customer.st.latamairlines.com
 xp-api-external-checkin.st.latamairlines.com
-www.corporate.latamairlines.com
 xp-ch-web-agent-order-management.rr.latamairlines.com
 xp-ch-web-bnpl-corporate.st.latamairlines.com
 xp-api-bloomreach-events.rr.latamairlines.com
@@ -648,7 +645,7 @@ xp-api-payment-notification.rr.latamairlines.com
 bff.rr.latamairlines.com
 xp-tc-anti-fraud-payment.st.latamairlines.com
 tp-order-robotic.st.latamairlines.com
-www.corporate.st.latamairlines.com
+corporate.st.latamairlines.com
 xp-api-notification.st.latamairlines.com
 xp-mc-anti-fraud-platform-configuration.st.latamairlines.com
 xp-acl-bnpl-ss.st.latamairlines.com

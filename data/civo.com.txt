@@ -3352,7 +3352,6 @@ e2f8e6f3-e6b1-4a46-9f67-c44f00cd6e92.k8s.civo.com
 528527c7-7005-4913-97ab-e1ffb2659619.civo.com
 73c9975f-d859-4229-a93a-f7c7657316ef.civo.com
 7aba26a6-2a25-4911-8cf1-b34da5ca2139.civo.com
-www.civo.com
 jb-cc-failsafe.feature.civo.com
 152ee66f-f382-43c1-a1b2-19d418845dcc.k8s.civo.com
 43895cb3-9753-4f53-ae91-2358d7591251.civo.com
@@ -6579,7 +6578,6 @@ rancher.61d488d7-0f0e-4dd9-8828-16fd968ee1af.k8s.civo.com
 5d7e15e7-e63e-460b-8691-042c48a302f6.civo.com
 bc34a4fe-59d6-475f-96e8-5ad97e34ebda.civo.com
 dc96a8b1-a7b1-4ae7-8f1a-d0d60adf63ef.civo.com
-www.wordpress.617ca2f1-5dc2-4b82-929d-6517f77bd9d5.k8s.civo.com
 0ee8c39a-5a08-4fa9-9eb6-6464cac9433a.civo.com
 2347489a-50d8-4c96-b78c-f08f02d21637.civo.com
 5aa63dc1-1e8b-4248-a1b3-bc0640a366ee.civo.com
@@ -7681,7 +7679,6 @@ ef63917e-f338-456c-ace4-4982aea6643f.civo.com
 be22e955-8dce-41ce-a7e4-adbc16fa88db.k8s.civo.com
 d276f460-cb2e-4e67-8c96-05a15bd7d6dd.civo.com
 fe1a1849-4bfa-4b96-afea-5119efe3d53d.civo.com
-www.community.staging.civo.com
 1306c935-20a0-461e-85a6-579d6fcdc22f.civo.com
 13979d77-f9e5-4f99-a531-db3323931c20.civo.com
 227e7b77-048d-4d76-b215-0ccb092d6340.civo.com
@@ -11129,7 +11126,6 @@ th-poolnamedelete.feature.civo.com
 77bcfa0d-00dc-43f9-a5f6-c4992170ff34.civo.com
 cdbca98c-3bf3-43a9-a0e5-620689ced5dc.k8s.civo.com
 defcd39d-4010-40ba-a73a-1d7403668172.civo.com
-www.staging.civo.com
 0d82a494-4353-492d-84e7-293ecca9d6a4.civo.com
 56634ae9-2d9a-45db-b301-ad2a2a411235.civo.com
 7fdfcdb5-d1c8-4c7d-9644-2df05a7665b0.k8s.civo.com
@@ -18330,7 +18326,7 @@ fecf5bd6-5eb7-4890-bd40-2c43ce1811bf.civo.com
 1a08d548-40bf-41b4-8360-c62f503f3d38.civo.com
 68666b4b-4f5a-4cb3-9114-f117aab4178e.civo.com
 a626bc42-05dc-4da5-9c8d-aca4b9a75b0c.civo.com
-www.wordpress.af1f1ed6-8759-4831-808a-394358ce5be0.k8s.civo.com
+wordpress.af1f1ed6-8759-4831-808a-394358ce5be0.k8s.civo.com
 711d3730-7661-410b-b9c2-e2d5b6bdb0ce.civo.com
 e06bfa56-c336-4777-85d8-ebe520d3815f.civo.com
 722a592a-8d44-4236-9267-363dbcc463c1.civo.com

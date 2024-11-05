@@ -5,7 +5,6 @@ app-user-cache-internal.mona.co
 get-test.mona.co
 sentry.mona.co
 help.mona.co
-www.mona.co
 black.mona.co
 st.mona.co
 dev.mona.co
@@ -43,9 +42,6 @@ passcode.mona.co
 kr-st.mona.co
 kr-ops.mona.co
 hari1.mona.co
-*.mona.co
-*.minted.mona.co
-*.x.mona.co
 echo.mona.co
 karl.x.mona.co
 edu.ucdavis.fiehnlab.mona.co

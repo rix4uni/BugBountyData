@@ -31,7 +31,6 @@ dev.example.org
 sc.example.org
 gem-mirror.example.org
 server.example.org
-www.example.org
 webdav.example.org
 public-kratos.example.org
 influx.example.org
@@ -91,7 +90,7 @@ kubernetes.example.org
 a.tile.example.org
 my-hc.example.org
 ghe.example.org
-www.cissp.example.org
+cissp.example.org
 webmail.example.org
 test.example.org
 yourdomain.example.org
@@ -177,7 +176,7 @@ julnow555.top.example.org
 fiasco222.top.example.org
 rawandrais.icu.example.org
 consulting.example.org
-www.zotero.org.proxy.example.org
+zotero.org.proxy.example.org
 idp.example.org
 julnew777.top.example.org
 3hggerh45h.mobi.example.org

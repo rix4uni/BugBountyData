@@ -15,7 +15,7 @@ api-eu-west1.getpolymorph.com
 promoconsole.getpolymorph.com
 cm-us-central1latin.getpolymorph.com
 console-backup-northamerica.getpolymorph.com
-www.blog.getpolymorph.com
+blog.getpolymorph.com
 nov-rudy-ap-southeast.getpolymorph.com
 api-docs-scotty.getpolymorph.com
 dropcanary.getpolymorph.com
@@ -58,7 +58,7 @@ k8-profiles.getpolymorph.com
 16-tester.getpolymorph.com
 cnk8-test.getpolymorph.com
 rudy-ap-southeast.getpolymorph.com
-www.stage.getpolymorph.com
+stage.getpolymorph.com
 akali-ap-southeast.getpolymorph.com
 test.getpolymorph.com
 bigjay.getpolymorph.com
@@ -77,7 +77,6 @@ e-test116.getpolymorph.com
 rudy-europe-west29.getpolymorph.com
 www-stg.getpolymorph.com
 nazarostest-secure.getpolymorph.com
-www.getpolymorph.com
 cm.verve.getpolymorph.com
 luigi-gcp.getpolymorph.com
 superset.k8.getpolymorph.com
@@ -161,7 +160,6 @@ bevo-eu-west-1.getpolymorph.com
 k8.us-east1.getpolymorph.com
 billingverve.getpolymorph.com
 consolekorea.getpolymorph.com
-blog.getpolymorph.com
 7console.getpolymorph.com
 productionbevo-europe-west1.getpolymorph.com
 consolerestrict.getpolymorph.com
@@ -248,7 +246,6 @@ bevo-us-east-1nl.getpolymorph.com
 adminverve.getpolymorph.com
 cm.canary.getpolymorph.com
 phab.getpolymorph.com
-stage.getpolymorph.com
 test81.getpolymorph.com
 tur-test.getpolymorph.com
 springcftest.getpolymorph.com

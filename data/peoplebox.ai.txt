@@ -67,7 +67,6 @@ api.demo.peoplebox.ai
 api.eu.peoplebox.ai
 eu.peoplebox.ai
 alpha.peoplebox.ai
-www.peoplebox.ai
 collaborative.demo.peoplebox.ai
 dashboard.peoplebox.ai
 collaborative.apna.peoplebox.ai
@@ -80,6 +79,4 @@ drone.devops.peoplebox.ai
 analytics-demo.peoplebox.ai
 analytics-changeme.peoplebox.ai
 tool.peoplebox.ai
-*.delta.peoplebox.ai
 ta.peoplebox.ai
-*.analytics-demo.peoplebox.ai

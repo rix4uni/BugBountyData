@@ -13,7 +13,6 @@ api.tubemogul.com
 api-lb.tubemogul.com
 dev-rtd.tubemogul.com
 rtb-adpop18.us-east.tubemogul.com
-www.tubemogul.com
 rtb-lb-event.us-east.tubemogul.com
 stats.tubemogul.com
 rtb-liverail.tubemogul.com
@@ -114,7 +113,6 @@ rtb-lb-eu-west.tubemogul.com
 es.tubemogul.com
 cmp-lb-us-east.tubemogul.com
 fr.tubemogul.com
-*.tubemogul.com
 api01.tubemogul.com
 api02.tubemogul.com
 app04.tubemogul.com
@@ -292,19 +290,7 @@ trac.tubemogul.com
 users-us-east-1b.tubemogul.com
 visusvideo.tubemogul.com
 vpn.tubemogul.com
-www.br.tubemogul.com
-www.cn.tubemogul.com
-www.es.tubemogul.com
-www.es-419.tubemogul.com
-www.es-la.tubemogul.com
-www.fr.tubemogul.com
-www.jp.tubemogul.com
-www.static.promo.tubemogul.com
-www.storezone01.corp.tubemogul.com
-www.tmvpn.tubemogul.com
-www.vpn.tubemogul.com
 zh-cn.tubemogul.com
-*.preprod.tubemogul.com
 ww.tubemogul.com
 geodns.tubemogul.com
 rtb-lb-event-adcloud-prod-ap-southeast-1.tubemogul.com
@@ -402,7 +388,6 @@ pl11.load.tubemogul.com
 inplay-rcv24.tubemogul.com
 app.promo.tubemogul.com
 rcv-srv38.inplay.tubemogul.com
-www.match.adsrvr.orgtrack.eyeviewads.comrtd.tubemogul.com
 rcv-srv82.inplay.tubemogul.com
 as-pubf.tubemogul.com
 rcv-srv66.inplay.tubemogul.com
@@ -533,7 +518,7 @@ asvfw-me-south-1.atm.sandbox.tubemogul.com
 1bcdnbrcv-education.sandbox.tubemogul.com
 ml-batch.tubemogul.com
 1b1basbr01b-cn-north-1sandboxbaakadnstmvpn02.sandbox.tubemogul.com
-www.0.sandbox.tubemogul.com
+0.sandbox.tubemogul.com
 rcv-srv74.inplay.tubemogul.com
 rv1486use.tubemogul.com
 contentwhm.sandbox.tubemogul.com
@@ -591,7 +576,7 @@ api.inplay.tubemogul.com
 1b1alb3kk.sandbox.tubemogul.com
 rv1491use.tubemogul.com
 rd5euw.tubemogul.com
-www.data.sandbox.tubemogul.com
+data.sandbox.tubemogul.com
 cs-vip-autodiscover.sandbox.tubemogul.com
 1brtdxf-rtb-lb-event-sjc-1bsrv.sandbox.tubemogul.com
 dns-admin.tubemogul.com
@@ -650,7 +635,7 @@ cs5-images.sandbox.tubemogul.com
 bo.sandbox.tubemogul.com
 as-lb-us-east.sandbox.tubemogul.com
 avforo.sandbox.tubemogul.com
-www.cvs.sandbox.tubemogul.com
+cvs.sandbox.tubemogul.com
 corplb01f-app04.sandbox.tubemogul.com
 comunidad.sandbox.tubemogul.com
 rv1534euw.tubemogul.com
@@ -689,7 +674,7 @@ ad-audit-test.tubemogul.com
 beta.accounts.sandbox.tubemogul.com
 rv1531aps.tubemogul.com
 rd10use.tubemogul.com
-www.as-lb-tm-iad-1b.sandbox.tubemogul.com
+as-lb-tm-iad-1b.sandbox.tubemogul.com
 bconvf.sandbox.tubemogul.com
 adminpay.sandbox.tubemogul.com
 nzpkvgpxfr.cy.sandbox.tubemogul.com
@@ -728,7 +713,7 @@ cu.sandbox.tubemogul.com
 rv1483aps.tubemogul.com
 rv1531use.tubemogul.com
 aventerpriseregistration.sandbox.tubemogul.com
-www.api-uat.sandbox.tubemogul.com
+api-uat.sandbox.tubemogul.com
 atmosphere-stag-ap-southeast-2.sandbox.tubemogul.com
 rd1478use.tubemogul.com
 rtb-lb-event-iad-1a.adpop18.sandbox.tubemogul.com
@@ -768,7 +753,7 @@ cmp-as-tm-hkg-1a.tubemogul.com
 rv1501euw-tm.everesttech.net.tubemogul.com
 avautomation7.sandbox.tubemogul.com
 accountingwww.sandbox.tubemogul.com
-www.1metrics.sandbox.tubemogul.com
+1metrics.sandbox.tubemogul.com
 bxjevbc86olbbqrs.sandbox.tubemogul.com
 4bctu9k1ndwyg1ja.sandbox.tubemogul.com
 ad6.sandbox.tubemogul.com
@@ -908,7 +893,7 @@ sandboxapi.mldb06.as.sandbox.tubemogul.com
 rtb-adevent-generic-tm-iad-1c.tubemogul.com
 123.sandbox.tubemogul.com
 cn03i.sandbox.tubemogul.com
-www.1c.sandbox.tubemogul.com
+1c.sandbox.tubemogul.com
 amazon.api.sandbox.tubemogul.com
 rv1498use-tm.tubemogul.com
 contactsan12.sandbox.tubemogul.com
@@ -998,8 +983,8 @@ au.autopush.sandbox.tubemogul.com
 mldb06.1brtdxf.sandbox.tubemogul.com
 appli.sandbox.tubemogul.com
 confluence-docs.sandbox.tubemogul.com
-www.alerte.sandbox.tubemogul.com
-www.db0001.sandbox.tubemogul.com
+alerte.sandbox.tubemogul.com
+db0001.sandbox.tubemogul.com
 av-myavadel.sandbox.tubemogul.com
 frptv-lb01b.ap.sandbox.tubemogul.com
 skins.av.sandbox.tubemogul.com
@@ -1022,7 +1007,6 @@ ae05a.sandbox.tubemogul.com
 sandboxsandboxrtdxf.1aes.sandbox.tubemogul.com
 jcgjjvrmly.10.sandbox.tubemogul.com
 rd219usw.tubemogul.com
-data.sandbox.tubemogul.com
 rd1522usw.tubemogul.com
 rv1466euw.tubemogul.com
 rv27euw.tubemogul.com
@@ -1036,32 +1020,30 @@ fwqpjtkvim.aplant.sandbox.tubemogul.com
 rd1513aps.tubemogul.com
 sandboxus.1alb01e-1ainplay.sandbox.tubemogul.com
 rcv-srv138.inplay.tubemogul.com
-www.3.sandbox.tubemogul.com
+3.sandbox.tubemogul.com
 testingforwildcard123.bdds.sandbox.tubemogul.com
-www.crm.sandbox.tubemogul.com
+crm.sandbox.tubemogul.com
 betawww.sandbox.tubemogul.com
 rv157use.tubemogul.com
 rtb-ba-ad-us-west.tubemogul.com
 bgrafana.sandbox.tubemogul.com
-www.bizpolicy.sandbox.tubemogul.com
+bizpolicy.sandbox.tubemogul.com
 at-www.sandbox.tubemogul.com
 authentication.sandbox.tubemogul.com
 rv1515usw.tubemogul.com
 rtb-adserver-ba-tm-iad-1a.tubemogul.com
 rtdxf.asbr.sandbox.tubemogul.com
 dev-stats.tubemogul.com
-www.comenzi.sandbox.tubemogul.com
 sandboxsandboxbconvf.ba.sandbox.tubemogul.com
 es-419.autodiscover.sandbox.tubemogul.com
 engineering.autodiscover.sandbox.tubemogul.com
 bigo.sandbox.tubemogul.com
-www.as-lb-tm-iad.sandbox.tubemogul.com
 webdisk.ctl.sandbox.tubemogul.com
 channel011.sandbox.tubemogul.com
 ptv-uat-xscreen-ui-lb.tubemogul.com
 cmsconnect.sandbox.tubemogul.com
 1aapp0602.1ainplay.sandbox.tubemogul.com
-www.admins.sandbox.tubemogul.com
+admins.sandbox.tubemogul.com
 adcloud-www.sandbox.tubemogul.com
 api.brm.sandbox.tubemogul.com
 rtb-cache02-int.tubemogul.com
@@ -1115,7 +1097,7 @@ r1v0d3euw.tubemogul.com
 wwwmerch.akadns.sandbox.tubemogul.com
 corp.sandbox.tubemogul.com
 1brtdxf-sandboxmldb.blanding.sandbox.tubemogul.com
-www.185.sandbox.tubemogul.com
+185.sandbox.tubemogul.com
 brisk-http-sand-ap-southeast-2.sandbox.tubemogul.com
 apiautodiscover.sandbox.tubemogul.com
 billing.sandbox.tubemogul.com
@@ -1134,13 +1116,13 @@ in.av.sandbox.tubemogul.com
 1astart.bcdnbrcv.sandbox.tubemogul.com
 cjehsnblwh.andrew.sandbox.tubemogul.com
 cs5local.sandbox.tubemogul.com
-www.alpha.sandbox.tubemogul.com
+alpha.sandbox.tubemogul.com
 rtb-factual-tm-iad-1.tubemogul.com
 mqdvezuocj.audit.sandbox.tubemogul.com
 api1webdisk.sandbox.tubemogul.com
 cluster.sandbox.tubemogul.com
 autodiscovercn02-4c.sandbox.tubemogul.com
-www.165.sandbox.tubemogul.com
+165.sandbox.tubemogul.com
 admin.api.sandbox.tubemogul.com
 autoconfigghcpi.sandbox.tubemogul.com
 whois.conf.sandbox.tubemogul.com
@@ -1174,13 +1156,13 @@ yxyfbefrbk.15.sandbox.tubemogul.com
 ba-brtc-afw.sandbox.tubemogul.com
 cms1-webdisk.sandbox.tubemogul.com
 ad-audit-cdnautodiscover.sandbox.tubemogul.com
-www.145.sandbox.tubemogul.com
+145.sandbox.tubemogul.com
 cmas.sandbox.tubemogul.com
 mohhlrzhso.studio.bappli.sandbox.tubemogul.com
 autodiscover-rv215use.sandbox.tubemogul.com
 corpwebdisk.sandbox.tubemogul.com
 dev-aws-up01.tubemogul.com
-www.controller.sandbox.tubemogul.com
+controller.sandbox.tubemogul.com
 1aapp06-prod-sandbox1b1basbr01b.sandbox.tubemogul.com
 rv56usw.tubemogul.com
 rd1501use.tubemogul.com
@@ -1247,7 +1229,6 @@ fml5iapg1172d0yx.autodiscover.sandbox.tubemogul.com
 1sjc-dc7rtb.sandbox.tubemogul.com
 asbr.sandbox.tubemogul.com
 rtb-haproxy04-adcloud-prod-us-west-2.tubemogul.com
-www.126.sandbox.tubemogul.com
 rtb-haproxy02-adcloud-prod-eu-west-1.tubemogul.com
 bzh.ba.sandbox.tubemogul.com
 apa57gzqdjik1go9.sandbox.tubemogul.com
@@ -1258,7 +1239,6 @@ cdn1.sandbox.tubemogul.com
 credex.sandbox.tubemogul.com
 contacts-av.sandbox.tubemogul.com
 mgmt01-prod.tubemogul.com
-www.124.sandbox.tubemogul.com
 rtb-brx-rrd-us-west.tubemogul.com
 asmiot.sandbox.tubemogul.com
 contacts-10653.sandbox.tubemogul.com
@@ -1287,7 +1267,6 @@ rv1468euw.tubemogul.com
 administratorswww.sandbox.tubemogul.com
 rd1510euw.tubemogul.com
 es01d-repl.tm-sjc-1b.tubemogul.info.tubemogul.com
-www.as-lb-us-east.sandbox.tubemogul.com
 es01c-repl.tm-sjc-1b.tubemogul.info.tubemogul.com
 authenticate.sandbox.tubemogul.com
 studio.bappli.sandbox.tubemogul.com
@@ -1307,7 +1286,7 @@ commercecloudlogcenter.sandbox.tubemogul.com
 av-avanto.sandbox.tubemogul.com
 clientautoconfig.sandbox.tubemogul.com
 jvzpwedwst.ap.sandbox.tubemogul.com
-www.cn.sandbox.tubemogul.com
+cn.sandbox.tubemogul.com
 btm-rcv.sandbox.tubemogul.com
 hxvsazbizi.cy.sandbox.tubemogul.com
 cdnsan12.sandbox.tubemogul.com
@@ -1335,7 +1314,7 @@ uyufeflmcc.116.sandbox.tubemogul.com
 altromondo.sandbox.tubemogul.com
 wwwmerch.bucket.sandbox.tubemogul.com
 1artbdb06-sv2mgmt01.sandbox.tubemogul.com
-www.cm.sandbox.tubemogul.com
+cm.sandbox.tubemogul.com
 as-lb-tm-ams-wwwmerch.sandbox.tubemogul.com
 inplay-ad32.tubemogul.com
 cgi-www.sandbox.tubemogul.com
@@ -1345,12 +1324,10 @@ abasbr.blanding.sandbox.tubemogul.com
 rv111aps.tubemogul.com
 jumpbox-gw02-us-east-1.tubemogul.com
 api01.sandbox.tubemogul.com
-cn.sandbox.tubemogul.com
 rcv-srv90.inplay.tubemogul.com
 testing.alertmanager-tm-ams-1awww.sandbox.tubemogul.com
 testing-lb-bidder.ap-southeast.tubemogul.com
 brm2-api.sandbox.tubemogul.com
-145.sandbox.tubemogul.com
 rbvrkbjfmo.187.sandbox.tubemogul.com
 8cf2skeqcu80z5i1.sandbox.tubemogul.com
 rv1509usw.tubemogul.com
@@ -1391,7 +1368,7 @@ adm-www.sandbox.tubemogul.com
 ba-sandboxtubemogullb1awww.sandbox.tubemogul.com
 jnekyqcgns.admin.sandbox.tubemogul.com
 blincloans.sandbox.tubemogul.com
-www.204.sandbox.tubemogul.com
+204.sandbox.tubemogul.com
 bf1.sandbox.tubemogul.com
 ww.cai0.sandbox.tubemogul.com
 staging.admin.tubemogul.com
@@ -1449,7 +1426,7 @@ bpromo-baakadnstmvpn02.sandbox.tubemogul.com
 rd1483usw.tubemogul.com
 ablanding-rtbmldb.sandbox.tubemogul.com
 rtb-haproxy02-adcloud-prod-ap-southeast-1-private.tubemogul.com
-www.ap.sandbox.tubemogul.com
+ap.sandbox.tubemogul.com
 apache.sandbox.tubemogul.com
 asbr01a-rcv.sandbox.tubemogul.com
 2018.av.sandbox.tubemogul.com
@@ -1565,7 +1542,6 @@ bgrafana-aasv.sandbox.tubemogul.com
 brand.sandbox.tubemogul.com
 419static04sfpapp.sandbox.tubemogul.com
 ainplaysandboxpromosvn.brtb1btm03.sandbox.tubemogul.com
-www.authentication.sandbox.tubemogul.com
 cdpltqorvq7ooc3t.sandbox.tubemogul.com
 sfpcorplb01f.1blb01g.sandbox.tubemogul.com
 inplay-ad02.tubemogul.com
@@ -1709,7 +1685,7 @@ apps.sandbox.tubemogul.com
 f44bck65l6uy4zwsyvu4u7atqckqdamc._domainkey.tubemogul.com
 autodiscoversupport.sandbox.tubemogul.com
 2fp956o830p1zdje.sandbox.tubemogul.com
-www.cn05-2e.sandbox.tubemogul.com
+cn05-2e.sandbox.tubemogul.com
 validation.api.sandbox.tubemogul.com
 c.sandbox.tubemogul.com
 1astartsandboxmgmt01-sandboxsandboxfw.sandbox.tubemogul.com
@@ -1732,7 +1708,6 @@ consul-us-west.sandbox.tubemogul.com
 autodiscovertm01-int.sandbox.tubemogul.com
 db06-int.tubemogul.com
 backendwebdisk.sandbox.tubemogul.com
-www.bo.sandbox.tubemogul.com
 avssh.sandbox.tubemogul.com
 alertmanager-tm-iad-1bwww.sandbox.tubemogul.com
 aapp.sandbox.tubemogul.com
@@ -1769,7 +1744,6 @@ baakadnstmvpn02-1b.sandbox.tubemogul.com
 xspjmhatza.sfkgroup.bappli.sandbox.tubemogul.com
 api-eu-south-1.sandbox.tubemogul.com
 cmp-lb-us-eastwww.sandbox.tubemogul.com
-www.blog.sandbox.tubemogul.com
 sandboxtm03.1alb01h.sandbox.tubemogul.com
 bbkblwaccu.acme2.sandbox.tubemogul.com
 getter.autodiscover.sandbox.tubemogul.com
@@ -1788,7 +1762,7 @@ betaautodiscover.sandbox.tubemogul.com
 avradio.sandbox.tubemogul.com
 oltp10-int.tubemogul.com
 rd1496usw.tubemogul.com
-www.bidswitch.sandbox.tubemogul.com
+bidswitch.sandbox.tubemogul.com
 kjdificavw.199.sandbox.tubemogul.com
 asvwww.sandbox.tubemogul.com
 acp.sandbox.tubemogul.com
@@ -1815,7 +1789,7 @@ sxfyrzaaau.com.new-sandbox.tubemogul.com
 autodiscover-account.sandbox.tubemogul.com
 rv7use.tubemogul.com
 as-lb-tm-iad-1a-wwwmerch.sandbox.tubemogul.com
-www.assets.sandbox.tubemogul.com
+assets.sandbox.tubemogul.com
 access.sandbox.tubemogul.com
 cn.1ainplay.sandbox.tubemogul.com
 bttqtmrgnd.176.sandbox.tubemogul.com
@@ -1843,7 +1817,6 @@ brtb1bfw01b.sandbox.tubemogul.com
 rd5.tubemogul.com
 rtb-bidder-business-tm-hkg-1a.tubemogul.com
 prod-cmp.tubemogul.com
-185.sandbox.tubemogul.com
 blogger-autopush.sandbox.tubemogul.com
 elmxz123456789abcdefghijklmnopq.alitaiot.sandbox.tubemogul.com
 autodiscovermgmt01a-tm-sjc-1b.sandbox.tubemogul.com
@@ -1906,7 +1879,6 @@ testingforwildcard123.au.autopush.sandbox.tubemogul.com
 rtb-spotx-hkg.tubemogul.com
 testing-httpd-service.ap-southeast.tubemogul.com
 avaservices-av.sandbox.tubemogul.com
-www.beta.sandbox.tubemogul.com
 babrcvwww-sandboxlb.sandbox.tubemogul.com
 cs12000san12.sandbox.tubemogul.com
 sandboxtrac.1aapp06-tm01.sandbox.tubemogul.com
@@ -1985,7 +1957,7 @@ vjyluruzgt.adm.sandbox.tubemogul.com
 ciconline.sandbox.tubemogul.com
 1ck18cs5hkk2xps9.sandbox.tubemogul.com
 api-nrplatform.sandbox.tubemogul.com
-www.16.sandbox.tubemogul.com
+16.sandbox.tubemogul.com
 sandbox1ainplay.bdev-lb01b.sandbox.tubemogul.com
 api-gateway-infradev.sandbox.tubemogul.com
 rd6euw.tubemogul.com
@@ -2063,7 +2035,6 @@ lightningavalara.av.sandbox.tubemogul.com
 rtb-haproxy01-dx-adcloud-prod-us-east-1.tubemogul.com
 geodns.1brcv.sandbox.tubemogul.com
 rv113use.tubemogul.com
-www.berdingune.sandbox.tubemogul.com
 8bjers841gijac98.sandbox.tubemogul.com
 ad90www.sandbox.tubemogul.com
 rtb-haproxy02-adcloud-prod-us-west-2.tubemogul.com
@@ -2100,7 +2071,6 @@ d4.sandbox.tubemogul.com
 api-au.sandbox.tubemogul.com
 cable.sandbox.tubemogul.com
 1astartsandboxmgmt01-aasv.sandbox.tubemogul.com
-3.sandbox.tubemogul.com
 ee.bt-cicd.sandbox.tubemogul.com
 accountwww.sandbox.tubemogul.com
 apiv2.sandbox.tubemogul.com
@@ -2281,14 +2251,13 @@ tm01southeast.1amgmt02.sandbox.tubemogul.com
 cname.1625515217.mail.4277980353.mail.1754990433.a-sts.mail.3653431191.mail.2155136l-gini.sandbox.tubemogul.com
 autodiscover-artifactory.sandbox.tubemogul.com
 rd1487euw.tubemogul.com
-www.cn11-1c.sandbox.tubemogul.com
+cn11-1c.sandbox.tubemogul.com
 confluence-webdisk.sandbox.tubemogul.com
 rakbank.api.sandbox.tubemogul.com
 sandboxme-sandboxsandbox1brtb.1astorezone01.sandbox.tubemogul.com
 eastvpnrtdxf-1astart.419static.sandbox.tubemogul.com
 awswww.sandbox.tubemogul.com
 webdisk.ao.sandbox.tubemogul.com
-www.176.sandbox.tubemogul.com
 adcloud.corplb01f.sandbox.tubemogul.com
 cdn-web-v2.sandbox.tubemogul.com
 1brtdxf.abasbr.blanding.sandbox.tubemogul.com
@@ -2354,7 +2323,7 @@ brcv.1awww.1aapp06.sandbox.tubemogul.com
 blg.sandbox.tubemogul.com
 rtb-haproxy02-adcloud-prod-eu-west-1-private.tubemogul.com
 cmp-lb-ap-southeast.sandbox.tubemogul.com
-www.2017.sandbox.tubemogul.com
+2017.sandbox.tubemogul.com
 rtb-bidder-first-tm-ams-1a.tubemogul.com
 cc-local.sandbox.tubemogul.com
 currencyalliance.dashboard.sandbox.tubemogul.com
@@ -2370,14 +2339,13 @@ api.sandbox.tubemogul.com
 6zwolqihbb3ba5kq.sandbox.tubemogul.com
 rv27aps.tubemogul.com
 ad-serv-stagingrepoautoconfig.sandbox.tubemogul.com
-www.221.sandbox.tubemogul.com
 administratordisk.sandbox.tubemogul.com
 rcv-srv107.inplay.tubemogul.com
 mem02.tubemogul.com
 b3f9keg44q1wfcp7.sandbox.tubemogul.com
-www.73.sandbox.tubemogul.com
+73.sandbox.tubemogul.com
 c-edge.sandbox.tubemogul.com
-www.20.sandbox.tubemogul.com
+20.sandbox.tubemogul.com
 api-upload10.tubemogul.com
 b-www.sandbox.tubemogul.com
 0ga8ticfrkl3t4mx.sandbox.tubemogul.com
@@ -2420,15 +2388,12 @@ aveu0av.sandbox.tubemogul.com
 magnolie.cloud-run-test.sandbox.tubemogul.com
 akamai-www.sandbox.tubemogul.com
 jihsdrcnsv.114.sandbox.tubemogul.com
-www.authenticate.sandbox.tubemogul.com
 ar.sandbox.tubemogul.com
-16.sandbox.tubemogul.com
 alt-www.sandbox.tubemogul.com
 autodiscoverdevops.sandbox.tubemogul.com
 api02-mgmt01-rtb2-us-east-1a.sandbox.tubemogul.com
 bf2-webdisk.sandbox.tubemogul.com
 ptv-panda-xscreen-ui-lb.tubemogul.com
-www.ap-southeast.sandbox.tubemogul.com
 bovqoxypnm.ams.sandbox.tubemogul.com
 asbr01b.sandbox.tubemogul.com
 bfw.brtb1btm03.sandbox.tubemogul.com
@@ -2437,11 +2402,10 @@ rtb.app.sandbox.tubemogul.com
 rgmufripwj.chd.sandbox.tubemogul.com
 rtb-google-lb01-ap-southeast.tubemogul.com
 cn06-4crepoautoconfig.sandbox.tubemogul.com
-ap.sandbox.tubemogul.com
 vpn.1aapp06.sandbox.tubemogul.com
 webdisk.br.sandbox.tubemogul.com
 api0webdisk.sandbox.tubemogul.com
-www.customer.sandbox.tubemogul.com
+customer.sandbox.tubemogul.com
 staging.api-upload02.tubemogul.com
 kdtmjkhxrq.ad.sandbox.tubemogul.com
 testing.www.controller.sandbox.tubemogul.com
@@ -2464,7 +2428,6 @@ dev-userdb-api01.tubemogul.com
 myautomationqa.av.sandbox.tubemogul.com
 api-upload09.tubemogul.com
 rcv-srv78.inplay.tubemogul.com
-www.container.sandbox.tubemogul.com
 sandboxpromosync.1ainplay-ams.sandbox.tubemogul.com
 cdn.com.sandbox.tubemogul.com
 1alb01e.ablanding-us-east-1.sandbox.tubemogul.com
@@ -2504,7 +2467,6 @@ ba-1astatic.sandbox.tubemogul.com
 rcv-srv83.inplay.tubemogul.com
 bank.sandbox.tubemogul.com
 sandboxeducationbrtdxf.1blb01g.sandbox.tubemogul.com
-www.alokabide.sandbox.tubemogul.com
 bt.bigo.sandbox.tubemogul.com
 ad-lb.sandbox.tubemogul.com
 app05webdisk.sandbox.tubemogul.com
@@ -2527,14 +2489,12 @@ share.api.sandbox.tubemogul.com
 gqhpirjqro.cn04-2e.sandbox.tubemogul.com
 sandbox1b1basbr01b.1artb-rtb-lb-event-adcloud-prod-eu-west-1.sandbox.tubemogul.com
 southeast-2.sandbox.tubemogul.com
-customer.sandbox.tubemogul.com
 rtb-haproxy05-dx-adcloud-prod-us-east-1.tubemogul.com
 inplay-ad-adpop03.tubemogul.com
 sandboxbfw.419static.sandbox.tubemogul.com
 clnrtwrpas.studio.bappli.sandbox.tubemogul.com
 rv1457usw.tubemogul.com
 mgmt01-rtb-ap-southeast-1aastartud.asvfw.sandbox.tubemogul.com
-www.app.sandbox.tubemogul.com
 productions.autodiscover.sandbox.tubemogul.com
 13e0230ogv90ic1s.sandbox.tubemogul.com
 rv1483use.tubemogul.com
@@ -2580,7 +2540,7 @@ artb-mldb06-bfr.sandbox.tubemogul.com
 igzeqmucmg.ao.sandbox.tubemogul.com
 core-us-east4-forbes-development.sandbox.tubemogul.com
 rv157aps.tubemogul.com
-www.41.sandbox.tubemogul.com
+41.sandbox.tubemogul.com
 api-upload07.tubemogul.com
 r0v3euw.tubemogul.com
 ap-southeast-2a.sandbox.tubemogul.com
@@ -2617,7 +2577,6 @@ av-public.sandbox.tubemogul.com
 autodiscover-partner.sandbox.tubemogul.com
 android.api.sandbox.tubemogul.com
 5ti2zu2eyofhkp82.sandbox.tubemogul.com
-0.sandbox.tubemogul.com
 tm-ams-9a.2018.sandbox.tubemogul.com
 webdisk.cms.sandbox.tubemogul.com
 ads-ip-51-22.sandbox.tubemogul.com
@@ -2629,7 +2588,6 @@ ad7www.sandbox.tubemogul.com
 ariat.sandbox.tubemogul.com
 rv1534aps.tubemogul.com
 avatarglobalav.sandbox.tubemogul.com
-1c.sandbox.tubemogul.com
 geodnslb-ba.1blb01g.sandbox.tubemogul.com
 builds.sandbox.tubemogul.com
 rcv-srv82.autodiscover.sandbox.tubemogul.com
@@ -2664,7 +2622,6 @@ autodiscover-iad.sandbox.tubemogul.com
 1bapp04.sandbox.tubemogul.com
 cmp-as-tm-sjc-1a.tubemogul.com
 chefwww.sandbox.tubemogul.com
-controller.sandbox.tubemogul.com
 mgmt01a-tm-lab-1a.tubemogul.com
 0bokn6px1ka5cvfv.sandbox.tubemogul.com
 api-853.sandbox.tubemogul.com
@@ -2684,7 +2641,7 @@ testing.api-staging-www.sandbox.tubemogul.com
 awais786.sandbox.tubemogul.com
 conference-my.sandbox.tubemogul.com
 api-upload-staging.tubemogul.com
-www.ct.sandbox.tubemogul.com
+ct.sandbox.tubemogul.com
 chaconautos.sandbox.tubemogul.com
 webdisk.16.sandbox.tubemogul.com
 rv1465euw.tubemogul.com
@@ -2730,7 +2687,6 @@ anetuserdblbrtb-rtb.sandbox.tubemogul.com
 cpanelimages.sandbox.tubemogul.com
 css.sandbox.tubemogul.com
 gate.av.sandbox.tubemogul.com
-assets.sandbox.tubemogul.com
 fileautomation.av.sandbox.tubemogul.com
 rcv-srv141.inplay.tubemogul.com
 config.sandbox.tubemogul.com
@@ -2752,7 +2708,6 @@ avbeta.sandbox.tubemogul.com
 mzopxjtlmg.apac.sandbox.tubemogul.com
 rv1469euw.tubemogul.com
 testing.admin.tubemogul.com
-41.sandbox.tubemogul.com
 bbsimages.sandbox.tubemogul.com
 sjc.adcloud.sandbox.tubemogul.com
 rd1468use.tubemogul.com
@@ -2771,7 +2726,6 @@ fw01bzh.bgrafana.sandbox.tubemogul.com
 r1v1d3euw.tubemogul.com
 dev-userdb-adevent01.tubemogul.com
 mldb061a1ainplay.1d.sandbox.tubemogul.com
-cvs.sandbox.tubemogul.com
 local.commercecloudlogcenter.sandbox.tubemogul.com
 autodiscoverserver.sandbox.tubemogul.com
 acme1.sandbox.tubemogul.com
@@ -2782,7 +2736,6 @@ rtb-adevent-generic-tm-iad-1b.tubemogul.com
 education.1alb01h.sandbox.tubemogul.com
 rcv-srv68.inplay.tubemogul.com
 sandboxtm01.ba.blanding.sandbox.tubemogul.com
-bizpolicy.sandbox.tubemogul.com
 av-sqlserver.sandbox.tubemogul.com
 brtc.sandbox.tubemogul.com
 rijybfcmnz.cloudwatch.sandbox.tubemogul.com
@@ -2839,7 +2792,6 @@ avanti-nita--cav.sandbox.tubemogul.com
 storezone01.corp.sandbox.tubemogul.com
 grafana-tm-ams-1a.tubemogul.com
 sandboxlb01e-1brtdxf.blanding.sandbox.tubemogul.com
-73.sandbox.tubemogul.com
 asv-www.sandbox.tubemogul.com
 acmp-rcv-sandboxsandboxfw01a.sandbox.tubemogul.com
 3gkxqyftiti5sm0s.sandbox.tubemogul.com
@@ -2858,7 +2810,7 @@ sandboxablanding-1aapp06.bdev.sandbox.tubemogul.com
 bgrafanauserdblbsandboxbdev.sandbox.tubemogul.com
 0n2ihvgu61ani4n1.sandbox.tubemogul.com
 419static04rtdxf.sandbox.tubemogul.com
-www.cdn.sandbox.tubemogul.com
+cdn.sandbox.tubemogul.com
 ablanding-us-east-1dtubemogullb.sandbox.tubemogul.com
 autodiscoverprod-cmp.sandbox.tubemogul.com
 calendar.tubemogul.com
@@ -2922,14 +2874,13 @@ rbpamkunks.api02.sandbox.tubemogul.com
 exchange.av.sandbox.tubemogul.com
 autodiscoveras-pubf.sandbox.tubemogul.com
 bappli.sandbox.tubemogul.com
-www.cgi.sandbox.tubemogul.com
+cgi.sandbox.tubemogul.com
 rvevkzwjtm.ctl.sandbox.tubemogul.com
 avcontainer.sandbox.tubemogul.com
 rtb-adserver-generic-tm-hkg-1a.tubemogul.com
 dallog1.sandbox.tubemogul.com
 olonyaogjs.app06.sandbox.tubemogul.com
 d1.sandbox.tubemogul.com
-admins.sandbox.tubemogul.com
 am6.sandbox.tubemogul.com
 accounts.sandbox.tubemogul.com
 api01-int.tubemogul.com
@@ -2953,7 +2904,6 @@ dev-rtb-dbrw.tubemogul.com
 anetuserdblbrtb.ba.sandbox.tubemogul.com
 rd185use.tubemogul.com
 inplay-rcv17.tubemogul.com
-api-uat.sandbox.tubemogul.com
 webdisk.1debit.sandbox.tubemogul.com
 1brtb-sandboxakadnstmvpnlb01c.sandbox.tubemogul.com
 rtb-bidder-qa.tubemogul.com
@@ -3025,7 +2975,6 @@ autodiscoverscm.sandbox.tubemogul.com
 autoconfig-us-west.sandbox.tubemogul.com
 av21.sandbox.tubemogul.com
 aaasv-rtb-lb-event-sjc-1b.sandbox.tubemogul.com
-www.chd.sandbox.tubemogul.com
 blanding-brcv.sandbox.tubemogul.com
 collab.db.sandbox.tubemogul.com
 asf-www.sandbox.tubemogul.com
@@ -3036,7 +2985,6 @@ r1v1d3use.tubemogul.com
 rtb-staging-iad-1a.tubemogul.com
 plsdontgimmearesult.appapi.sandbox.tubemogul.com
 api-private-lb-www.sandbox.tubemogul.com
-www.appli.sandbox.tubemogul.com
 rcv-srv112.inplay.tubemogul.com
 av-pgsql.sandbox.tubemogul.com
 appsle.sandbox.tubemogul.com
@@ -3078,7 +3026,7 @@ _stun-behaviors._tcp.sandbox.tubemogul.com
 rcv-srv67.inplay.tubemogul.com
 nvqtmeamkz.cn.sandbox.tubemogul.com
 csswww.sandbox.tubemogul.com
-www.170.sandbox.tubemogul.com
+170.sandbox.tubemogul.com
 autodiscover.container.sandbox.tubemogul.com
 creditninja.sandbox.tubemogul.com
 4www.sandbox.tubemogul.com
@@ -3116,7 +3064,6 @@ rv1465aps.tubemogul.com
 autodiscover-rv1466euw.sandbox.tubemogul.com
 cashier.sandbox.tubemogul.com
 8i32soklyv2s33p8.sandbox.tubemogul.com
-www.120.sandbox.tubemogul.com
 1sandboxtesting-tubemogullb.1aapp06.sandbox.tubemogul.com
 rd1483aps.tubemogul.com
 rtb-haproxy08-dx-adcloud-prod-us-east-1.tubemogul.com
@@ -3150,7 +3097,7 @@ rtb-haproxy04-dx-adcloud-prod-us-east-1.tubemogul.com
 images.commercecloudimagesdev.sandbox.tubemogul.com
 webdisk.126.sandbox.tubemogul.com
 1awwwsandboxpsimgmt01.1aapp06.sandbox.tubemogul.com
-www.aws.sandbox.tubemogul.com
+aws.sandbox.tubemogul.com
 oncall.tubemogul.com
 babrcvwwwdev.sandbox.tubemogul.com
 rtb-elb.tubemogul.com
@@ -3219,7 +3166,6 @@ db-lb.tubemogul.com
 webdisk.cloudfront.sandbox.tubemogul.com
 rcv-srv121.inplay.tubemogul.com
 lamgmt01.1artb-artbdb.sandbox.tubemogul.com
-www.as.sandbox.tubemogul.com
 mail.2155136l-gini.sandbox.tubemogul.com
 sandboxfw01a.brtb.1brcv.sandbox.tubemogul.com
 rd1458use.tubemogul.com
@@ -3244,15 +3190,12 @@ ad7.sandbox.tubemogul.com
 rcv-srv140.inplay.tubemogul.com
 testing.www.as-lb-tm-iad-1b.sandbox.tubemogul.com
 brtc-corplb01f.sandbox.tubemogul.com
-www.151.sandbox.tubemogul.com
 rtb-lb-us-east-1a.tubemogul.com
 9wz0j1aq8699wrre.sandbox.tubemogul.com
 barcode.sandbox.tubemogul.com
 bn.sandbox.tubemogul.com
 app9webdisk.sandbox.tubemogul.com
 us-gov-west-1.mgmt01-rtb-ap-southeast-1a.asvfw.sandbox.tubemogul.com
-www.admin.sandbox.tubemogul.com
-www.brand.sandbox.tubemogul.com
 data-www.sandbox.tubemogul.com
 cert-test.sandbox.tubemogul.com
 rtb-usage01-us-west.tubemogul.com
@@ -3270,7 +3213,7 @@ bbp-webdisk.sandbox.tubemogul.com
 rv1491usw.tubemogul.com
 brtcadpop-db05mgmt01.sandbox.tubemogul.com
 zwxdygtewa.aplant.sandbox.tubemogul.com
-www.adm.sandbox.tubemogul.com
+adm.sandbox.tubemogul.com
 bgrafana-1d-sandboxload.sandbox.tubemogul.com
 bdev-lb01b1ageodnses.sandbox.tubemogul.com
 ablanding-us-east-1-corplb.sandbox.tubemogul.com
@@ -3284,7 +3227,6 @@ jnyxqqwzoa.bigo.sandbox.tubemogul.com
 baakadnstmvpn02sandboxsandbox1brcv.sandbox.tubemogul.com
 b2b.sandbox.tubemogul.com
 avdmvdriver--simpplrav.sandbox.tubemogul.com
-ct.sandbox.tubemogul.com
 rtb-adserver-asv-tm-iad-1c.tubemogul.com
 testing.alertmanager-tm-hkg-1a-www.sandbox.tubemogul.com
 cs142image.sandbox.tubemogul.com
@@ -3306,7 +3248,6 @@ advertising.sandbox.tubemogul.com
 cn06-3cwww.sandbox.tubemogul.com
 ashwww.sandbox.tubemogul.com
 avavalontech.sandbox.tubemogul.com
-www.155.sandbox.tubemogul.com
 rd10aps.tubemogul.com
 ba-brtc.babrcvwww.sandbox.tubemogul.com
 api.blackline.sandbox.tubemogul.com
@@ -3343,7 +3284,6 @@ rcv-srv108.inplay.tubemogul.com
 apirgrmol.sandbox.tubemogul.com
 oltp13.autodiscover.sandbox.tubemogul.com
 rd1466euw.tubemogul.com
-www.adevent01.sandbox.tubemogul.com
 factoo.dashboard.sandbox.tubemogul.com
 zpcxtlssrf.165.sandbox.tubemogul.com
 cw2rllpf4dyeuy6d.sandbox.tubemogul.com
@@ -3372,7 +3312,6 @@ automationedgeav.sandbox.tubemogul.com
 ba-sandboxmldb06.sandbox.tubemogul.com
 rts-oltp-public.tubemogul.com
 alpha-www.sandbox.tubemogul.com
-www.cmp.sandbox.tubemogul.com
 rd1477use.tubemogul.com
 graphite-tm-emy-1.tubemogul.com
 availeav.sandbox.tubemogul.com
@@ -3394,7 +3333,6 @@ irjopxxnbs.adf.sandbox.tubemogul.com
 490www.sandbox.tubemogul.com
 sv3oltp.419static.sandbox.tubemogul.com
 cs2-spare.sandbox.tubemogul.com
-www.api.sandbox.tubemogul.com
 active-c.sandbox.tubemogul.com
 tlcfoyzski.brm.sandbox.tubemogul.com
 testing-lb-event.ap-southeast.tubemogul.com
@@ -3457,8 +3395,7 @@ bfw.sandbox.tubemogul.com
 api-aa-3t-v2.sandbox.tubemogul.com
 autodiscovermetrics-tm-ams-1a.sandbox.tubemogul.com
 autodiscoverwww-preprod.sandbox.tubemogul.com
-www.backend.sandbox.tubemogul.com
-www.bn.sandbox.tubemogul.com
+backend.sandbox.tubemogul.com
 api1www.sandbox.tubemogul.com
 testing.cmp-as-tm-iad-1awww.sandbox.tubemogul.com
 awww-419static.sandbox.tubemogul.com
@@ -3479,7 +3416,6 @@ whois.corpwin.sandbox.tubemogul.com
 rtb-haproxy03-adcloud-prod-us-west-2.tubemogul.com
 enbd.api.sandbox.tubemogul.com
 events-tm-iad-1b.tubemogul.com
-bidswitch.sandbox.tubemogul.com
 mgmt-external-tm-iad-1c.tubemogul.com
 as-pub-wwwmerch.sandbox.tubemogul.com
 playtimef.tubemogul.com
@@ -3489,7 +3425,6 @@ atwebdisk.sandbox.tubemogul.com
 a360.sandbox.tubemogul.com
 jbieoslvqu.crm.sandbox.tubemogul.com
 cai0.sandbox.tubemogul.com
-www.1b.sandbox.tubemogul.com
 admwebdisk.sandbox.tubemogul.com
 repoautoconfig.as-lb-tm-sjc-1b.sandbox.tubemogul.com
 zxemisogpk.bd.sandbox.tubemogul.com
@@ -3516,7 +3451,7 @@ avautotti.sandbox.tubemogul.com
 administrator-autodiscover.sandbox.tubemogul.com
 owa3.db.sandbox.tubemogul.com
 126-www.sandbox.tubemogul.com
-www.ads.sandbox.tubemogul.com
+ads.sandbox.tubemogul.com
 chat.sandbox.tubemogul.com
 _acme-challenge.tubemogul.com
 accountsautodiscover.sandbox.tubemogul.com
@@ -3560,7 +3495,7 @@ repoautoconfig.cn04-2e.sandbox.tubemogul.com
 billing-view-it.ap1.sandbox.tubemogul.com
 oltp12.tubemogul.com
 pulsant.bigo.sandbox.tubemogul.com
-www.116.sandbox.tubemogul.com
+116.sandbox.tubemogul.com
 kfkekeadkh.bd.sandbox.tubemogul.com
 webdisk.115.sandbox.tubemogul.com
 atom-ps-1077-dr.sandbox.tubemogul.com
@@ -3584,7 +3519,6 @@ sandboxbaakadnstmvpn-education.1alb01h.sandbox.tubemogul.com
 alertmanager-tm-ams-1awww.sandbox.tubemogul.com
 agkouyroax.cms.sandbox.tubemogul.com
 avaviator.sandbox.tubemogul.com
-www.ad-audit-cdn.sandbox.tubemogul.com
 1artb-artbdb.sandbox.tubemogul.com
 rtb-factual-tm-hkg-1a.tubemogul.com
 yvkbpmylye.cvs.sandbox.tubemogul.com
@@ -3648,7 +3582,6 @@ rv1490euw.tubemogul.com
 kibana-tm-sjc-1a.tubemogul.com
 1brtbaload-1bsrv.sandbox.tubemogul.com
 checkout-api.sandbox.tubemogul.com
-www.123.sandbox.tubemogul.com
 mgmt01-tm-sjc-1a.tubemogul.com
 amazon2.sandbox.tubemogul.com
 rv111euw.tubemogul.com
@@ -3662,9 +3595,8 @@ da.sandbox.tubemogul.com
 rv113.tubemogul.com
 sandboxliverailrtdxf.ams.sandbox.tubemogul.com
 corplb01f-app04sandboxlamgmt.sandbox.tubemogul.com
-www.ad.sandbox.tubemogul.com
+ad.sandbox.tubemogul.com
 sfp.1blb01g.sandbox.tubemogul.com
-www.connect.sandbox.tubemogul.com
 bidswitch.tubemogul.com
 rtb-haproxy02-adcloud-prod-ap-southeast-1.tubemogul.com
 sandboxlb01d-us-east-1.bfw.sandbox.tubemogul.com
@@ -3687,7 +3619,6 @@ ablandingsandboxvpnlb01jpt.419static.sandbox.tubemogul.com
 iad.bfw.sandbox.tubemogul.com
 rv1462aps.tubemogul.com
 autodiscoverrv1475use.sandbox.tubemogul.com
-cdn.sandbox.tubemogul.com
 1aapp06.corplb01f-app04.sandbox.tubemogul.com
 asbr-artifactory-brtb1btm03.sandbox.tubemogul.com
 facebookaudb-us-east-1.bfw.sandbox.tubemogul.com
@@ -3722,8 +3653,7 @@ rtb-adserver-generic-tm-sjc-1b.tubemogul.com
 ee.bigo.sandbox.tubemogul.com
 autodiscover-alertmanager-tm-iad-1b.sandbox.tubemogul.com
 ba-sandboxtubemogullb-sandboxpromowww.sandbox.tubemogul.com
-www.artifactory.sandbox.tubemogul.com
-aws.sandbox.tubemogul.com
+artifactory.sandbox.tubemogul.com
 bcl.sandbox.tubemogul.com
 rd1458aps.tubemogul.com
 as-lb-eu-west-webdisk.sandbox.tubemogul.com
@@ -3789,7 +3719,6 @@ lamgmt01-rcv.1awww.sandbox.tubemogul.com
 ptv-uat.tubemogul.com
 us-east-1a.autodiscover.sandbox.tubemogul.com
 cmp-ase-autoconfig.sandbox.tubemogul.com
-adm.sandbox.tubemogul.com
 1astartud.sandbox.tubemogul.com
 cnv-staging.sandbox.tubemogul.com
 assetslocal.sandbox.tubemogul.com
@@ -3820,7 +3749,6 @@ autodiscoverpromo2.sandbox.tubemogul.com
 cn09-3crepoautoconfig.sandbox.tubemogul.com
 lb01b.afastcache.sandbox.tubemogul.com
 r0v1d3usw.tubemogul.com
-backend.sandbox.tubemogul.com
 ad12-www.sandbox.tubemogul.com
 checkout.cafr.sandbox.tubemogul.com
 mem01-int.tubemogul.com
@@ -3859,7 +3787,6 @@ asbr.sandboxapi.atm.sandbox.tubemogul.com
 rtb-adserver-generic-tm-ams-1a.tubemogul.com
 0dx517c20t1ayp53.dashboard.sandbox.tubemogul.com
 altajosffh.api.sandbox.tubemogul.com
-165.sandbox.tubemogul.com
 av-umps2-c4-dfw.sandbox.tubemogul.com
 newsandbox.tubemogul.com
 uploads.av.sandbox.tubemogul.com
@@ -3897,10 +3824,9 @@ changehealthcare.sandbox.tubemogul.com
 rd1458usw.tubemogul.com
 1625515217.mail.4277980353.mail.1754990433.a-sts.mail.3653431191.mail.2155136l-gini.sandbox.tubemogul.com
 csr.sandbox.tubemogul.com
-www.azure.sandbox.tubemogul.com
+azure.sandbox.tubemogul.com
 blogspot-staging.sandbox.tubemogul.com
 rv219euw.tubemogul.com
-www.132.sandbox.tubemogul.com
 balb01dtubemogullb.sandbox.tubemogul.com
 av-acceptatie.sandbox.tubemogul.com
 6rx7bp8oyx1qbfdk.sandbox.tubemogul.com
@@ -3920,7 +3846,6 @@ r13aps.tubemogul.com
 rcv-srv118.inplay.tubemogul.com
 campusrecreationv2.sandbox.tubemogul.com
 testing.alertmanager-tm-iad-1bwww.sandbox.tubemogul.com
-170.sandbox.tubemogul.com
 app08-int.sandbox.tubemogul.com
 dialin.av.sandbox.tubemogul.com
 rtb-haproxy09-adcloud-prod-us-west-2.tubemogul.com
@@ -3937,7 +3862,6 @@ qmriglzofc.cf2.sandbox.tubemogul.com
 sandbox1blb01g.inplay-ad04.1aes.sandbox.tubemogul.com
 91th4wpn3zc6mnun.sandbox.tubemogul.com
 114webdisk.sandbox.tubemogul.com
-cm.sandbox.tubemogul.com
 autodiscoverorigin.sandbox.tubemogul.com
 office.tubemogul.com
 rv1515use.tubemogul.com
@@ -3985,7 +3909,6 @@ api-jwelshp200.sandbox.tubemogul.com
 2gmciktpli4osxzee6icxcw6jfuqyxug._domainkey.tubemogul.com
 bmgmt.sandbox.tubemogul.com
 amgmt.sandbox.tubemogul.com
-cgi.sandbox.tubemogul.com
 turk.av.sandbox.tubemogul.com
 alertmanager-tm-lab-1a.sandbox.tubemogul.com
 rv194usw.tubemogul.com
@@ -4018,7 +3941,7 @@ autodiscoverlb-sjc-rrd.sandbox.tubemogul.com
 sandboxsandbox1brtb.rtb-lb-event-iad-1a.ba.sandbox.tubemogul.com
 app-mgmt01-rtb-ap-southeast-1a-1bcdnbrcv.sandbox.tubemogul.com
 avaonline.sandbox.tubemogul.com
-www.ba.sandbox.tubemogul.com
+ba.sandbox.tubemogul.com
 rd1486use.tubemogul.com
 rcv-srv123.inplay.tubemogul.com
 admins-webdisk.sandbox.tubemogul.com
@@ -4057,7 +3980,6 @@ rd6usw.tubemogul.com
 kjkzfbgjqx.aws.sandbox.tubemogul.com
 web.autodiscover.sandbox.tubemogul.com
 mrcykjoqbl.73.sandbox.tubemogul.com
-as-lb-tm-iad-1b.sandbox.tubemogul.com
 cn02j.sandbox.tubemogul.com
 1astartsandboxmgmt01sandbox1basbr01b.sandbox.tubemogul.com
 rd1478aps.tubemogul.com
@@ -4070,7 +3992,6 @@ api-upload.sandbox.tubemogul.com
 10.sandbox.tubemogul.com
 testing.as-lb-tm-iad-1b-www.sandbox.tubemogul.com
 rtb-haproxy10-adcloud-prod-eu-west-1.tubemogul.com
-ba.sandbox.tubemogul.com
 rv194use.tubemogul.com
 api3.sandbox.tubemogul.com
 acc-www.sandbox.tubemogul.com
@@ -4081,7 +4002,6 @@ webdisk.billing.sandbox.tubemogul.com
 av.autor.sandbox.tubemogul.com
 metrics-tm-sjc-1b.autodiscover.sandbox.tubemogul.com
 170-webdisk.sandbox.tubemogul.com
-www.db.sandbox.tubemogul.com
 3jrzbinxukrihidj.sandbox.tubemogul.com
 mojito.tubemogul.com
 inplay-ad26.tubemogul.com
@@ -4102,7 +4022,6 @@ ice.tubemogul.com
 1ainplaysandboxpromosvnsyncf.sandbox.tubemogul.com
 rtb-ba-lb-us-east.autodiscover.sandbox.tubemogul.com
 whois.assets.sandbox.tubemogul.com
-www.4.sandbox.tubemogul.com
 3dsecure.sandbox.tubemogul.com
 arbiter-kubernetes-sand-us-east-2.sandbox.tubemogul.com
 126-webdisk.sandbox.tubemogul.com
@@ -4110,7 +4029,6 @@ inplay-rcv15.tubemogul.com
 sandboxsandboxmgmt01.ba.sandbox.tubemogul.com
 myauvik.av.sandbox.tubemogul.com
 av-administrator.sandbox.tubemogul.com
-alpha.sandbox.tubemogul.com
 sandboxtubemogullb01h-artbdb.1artb.sandbox.tubemogul.com
 api-tac.billers.sandbox.tubemogul.com
 asbr01awebdisk.sandbox.tubemogul.com
@@ -4209,7 +4127,6 @@ data-airflow-webserver-sand-us-west-1.sandbox.tubemogul.com
 autodiscovertm02-int.sandbox.tubemogul.com
 _f752856b2478abda904b0fffef0be7bd.tubemogul.com
 cartlocal.sandbox.tubemogul.com
-www.150.sandbox.tubemogul.com
 rd1509usw.tubemogul.com
 dbro01.dev.us-east-1e.private.tubemogul.com
 0bokn6px1ka5cvfv.2155136l-gini.sandbox.tubemogul.com
@@ -4247,7 +4164,6 @@ as-lb-tm-ams-stable.sandbox.tubemogul.com
 api-cn.sandbox.tubemogul.com
 av-availity.sandbox.tubemogul.com
 amsageodnses.sandbox.tubemogul.com
-www.117.sandbox.tubemogul.com
 api-upload-staging.sandbox.tubemogul.com
 av-lightningavasar.sandbox.tubemogul.com
 me-west.corplb01f.sandbox.tubemogul.com
@@ -4303,7 +4219,7 @@ authenticationautoconfig.sandbox.tubemogul.com
 ams-sandboxcorplb.sandbox.tubemogul.com
 rtb-lb-event-iad-1a-1brtdxf.ba.sandbox.tubemogul.com
 3b.sandbox.tubemogul.com
-www.acmefuneralhome.sandbox.tubemogul.com
+acmefuneralhome.sandbox.tubemogul.com
 bbs-www.sandbox.tubemogul.com
 applications.sandbox.tubemogul.com
 asv-lb-sjc.tubemogul.com
@@ -4318,7 +4234,6 @@ rd1483use.tubemogul.com
 autodiscover-rcv-srv07.sandbox.tubemogul.com
 rtb-staging-bidder01-adcloud-prod-us-west-2.tubemogul.com
 autodiscoverrtb-liverail-lb-ap-southeast.sandbox.tubemogul.com
-acmefuneralhome.sandbox.tubemogul.com
 rv123euw.tubemogul.com
 cms-webdisk.sandbox.tubemogul.com
 colab.sandbox.tubemogul.com
@@ -4352,7 +4267,6 @@ as-lb-ap-southeast.sandbox.tubemogul.com
 business.sandbox.tubemogul.com
 qwdkzjsqcw.admin.sandbox.tubemogul.com
 avianca.av.sandbox.tubemogul.com
-www.cf2.sandbox.tubemogul.com
 rd185euw.tubemogul.com
 g6zzq4eiwren1iik.accounts.sandbox.tubemogul.com
 6ws626tqickg59qf.sandbox.tubemogul.com
@@ -4361,7 +4275,6 @@ x2hwdcu53sycgma0.crm.sandbox.tubemogul.com
 20lvyyj71dbjj1b5.sandbox.tubemogul.com
 1bmgmt01.sandbox.tubemogul.com
 6.sandbox.tubemogul.com
-www.blg.sandbox.tubemogul.com
 3ylog8t4jxb2o.sandbox.tubemogul.com
 ad28www.sandbox.tubemogul.com
 webdisk.ase.sandbox.tubemogul.com
@@ -4370,7 +4283,7 @@ api-private.tubemogul.com
 1alb01h.bgrafana.sandbox.tubemogul.com
 sandboxlb01b.mldb06.1a1ainplay.sandbox.tubemogul.com
 corplb.sandboxme.1astorezone01.sandbox.tubemogul.com
-www.auth.sandbox.tubemogul.com
+auth.sandbox.tubemogul.com
 cn08-1e.sandbox.tubemogul.com
 lbibgpxsjf.aplant.sandbox.tubemogul.com
 bgrafanauserdblb-mgmt01.sandbox.tubemogul.com
@@ -4380,7 +4293,6 @@ mctqwebjfh.br.sandbox.tubemogul.com
 apidocs-autodiscover.sandbox.tubemogul.com
 cctvav.sandbox.tubemogul.com
 dev-uchiwa.tubemogul.com
-cn11-1c.sandbox.tubemogul.com
 rtb-api01-tm-ams.tubemogul.com
 avplugins.sandbox.tubemogul.com
 blanding-alb.sandbox.tubemogul.com
@@ -4417,7 +4329,6 @@ app07-int.sandbox.tubemogul.com
 sandboxanetuserdblbrtb.1brtb.sandbox.tubemogul.com
 ad15.sandbox.tubemogul.com
 lw-vpn01.tubemogul.com
-20.sandbox.tubemogul.com
 rtb-lb-event-iad-1amldb.ba.sandbox.tubemogul.com
 rtb-haproxy02-dx-adcloud-prod-us-east-1.tubemogul.com
 17yulechang-okta.cms.app.sandbox.tubemogul.com
@@ -4438,7 +4349,6 @@ avdg.sandbox.tubemogul.com
 taraxhkoqe.169.sandbox.tubemogul.com
 cnv.sandbox.tubemogul.com
 bigo3.sandbox.tubemogul.com
-www.appleid.sandbox.tubemogul.com
 asbraasbr.sandbox.tubemogul.com
 rd215euw.tubemogul.com
 ba-north.sandbox.tubemogul.com
@@ -4446,7 +4356,6 @@ rcvsandboxlb01h.1asandboxdc.sandbox.tubemogul.com
 fw01a.am6.sandbox.tubemogul.com
 atmosphere-sand-eu-central-1.sandbox.tubemogul.com
 sandboxaasbr.bpromo-trac.sandbox.tubemogul.com
-www.at.sandbox.tubemogul.com
 local.backup.sandbox.tubemogul.com
 ba.1acmp.blanding.sandbox.tubemogul.com
 c4.sandbox.tubemogul.com
@@ -4477,7 +4386,6 @@ xdndavkifa.apidocs.sandbox.tubemogul.com
 channelfactory.sandbox.tubemogul.com
 bpromo-trac.ad04lamgmt.sandbox.tubemogul.com
 0c.sandbox.tubemogul.com
-www.ctl.sandbox.tubemogul.com
 169webdisk.sandbox.tubemogul.com
 inplay-ad11.tubemogul.com
 dev-ui-dbrw.tubemogul.com
@@ -4518,7 +4426,6 @@ cnv.tubemogul.com
 5f9h67xahl8cglxd.sandbox.tubemogul.com
 inplay-ad04-sandboxacmp.1aes.sandbox.tubemogul.com
 131.sandbox.tubemogul.com
-artifactory.sandbox.tubemogul.com
 brm.sandbox.tubemogul.com
 autodiscover.chd.sandbox.tubemogul.com
 rd68usw.tubemogul.com
@@ -4535,7 +4442,6 @@ alb-fastcache01-srv.sandbox.tubemogul.com
 testing.alertmanager-tm-sjc-1b-www.sandbox.tubemogul.com
 cmp-asf.tubemogul.com
 db05.sandbox.tubemogul.com
-cn05-2e.sandbox.tubemogul.com
 sandboxvpnlb.1aapp06-sandboxasbr01b.sandbox.tubemogul.com
 rcv-srv135.inplay.tubemogul.com
 es01e-repl.tm-sjc-1b.tubemogul.info.tubemogul.com
@@ -4564,7 +4470,6 @@ vxjyoyfqly.ams.sandbox.tubemogul.com
 avantikaav.sandbox.tubemogul.com
 1brtbdev.sandbox.tubemogul.com
 tubemogullbdocs.1brtb-sandboxakadnstmvpn.sandbox.tubemogul.com
-www.administrator.sandbox.tubemogul.com
 cpw.bigo.sandbox.tubemogul.com
 rtb-staging-ams-1a.tubemogul.com
 pd.tubemogul.com
@@ -4607,7 +4512,6 @@ bbrogw4o9j32nsf0.sandbox.tubemogul.com
 1brtb-vpnrtdxf-sandboxfw01a.sandbox.tubemogul.com
 _msrps._tcp.sandbox.tubemogul.com
 avvfautotti.sandbox.tubemogul.com
-www.adcloud.sandbox.tubemogul.com
 rd1509euw.tubemogul.com
 rv216use.tubemogul.com
 bfr.sandbox.tubemogul.com
@@ -4616,7 +4520,6 @@ rd1467euw.tubemogul.com
 221www.sandbox.tubemogul.com
 ablanding-sandboxsv.1brtb.sandbox.tubemogul.com
 rv1457euw.tubemogul.com
-auth.sandbox.tubemogul.com
 sandboxrtdxflb02a.1brcv.sandbox.tubemogul.com
 ml-dbrw-int.tubemogul.com
 ml-dbro.tubemogul.com
@@ -4655,7 +4558,6 @@ rv155use.tubemogul.com
 autodiscover-login.sandbox.tubemogul.com
 rtb-lb-tm-hkg.tubemogul.com
 sandboxrtdxf.facebookaudb.1brcv.sandbox.tubemogul.com
-azure.sandbox.tubemogul.com
 sandbox1astart.awwwlb.1ainplay.sandbox.tubemogul.com
 chi.sandbox.tubemogul.com
 ojbhlfvdae.cloudwatch.sandbox.tubemogul.com
@@ -4688,7 +4590,6 @@ nmlrozluso.audit.sandbox.tubemogul.com
 rd1509aps.tubemogul.com
 api-eu-central-1.sandbox.tubemogul.com
 data-airflow-flower-sand-us-northeast-1.sandbox.tubemogul.com
-db0001.sandbox.tubemogul.com
 inplay-ad04asandboxasbr.1aes.sandbox.tubemogul.com
 rtb-lb-event-iad-1a.anetuserdblbrtb.ba.sandbox.tubemogul.com
 metrics-tm-iad-1b.tubemogul.com
@@ -4696,7 +4597,6 @@ cn03h.sandbox.tubemogul.com
 unifi.corp.tubemogul.com
 artbdb-sandboxlb01e.sandbox.tubemogul.com
 hyktwfgnma.bd.sandbox.tubemogul.com
-www.autodiscover.sandbox.tubemogul.com
 rv103euw.tubemogul.com
 avchangehealthcareav.sandbox.tubemogul.com
 mgmt-tm-lab-1a.tubemogul.com
@@ -4705,7 +4605,6 @@ rd1458euw.tubemogul.com
 jmixqtcdof.185.sandbox.tubemogul.com
 webdisk.adf.sandbox.tubemogul.com
 0bwebdisk.sandbox.tubemogul.com
-www.cms.sandbox.tubemogul.com
 asbr-1abasbr.atm.sandbox.tubemogul.com
 av.avalon.sandbox.tubemogul.com
 53babcd4c04faa4464363abd-www.sandbox.tubemogul.com
@@ -4722,7 +4621,6 @@ qimsosrxog.aplant.sandbox.tubemogul.com
 5aph7otc636wzgh7.sandbox.tubemogul.com
 checkout.sandbox.tubemogul.com
 alertmanager-tm-lab-1a-www.sandbox.tubemogul.com
-www.acc.sandbox.tubemogul.com
 rd1531usw.tubemogul.com
 1aes.sandbox.tubemogul.com
 testing.api-upload02.tubemogul.com
@@ -4757,14 +4655,11 @@ bmcyyjogug.cn.sandbox.tubemogul.com
 blanding-1b1aapp06.sandbox.tubemogul.com
 dbrw-int-a.tubemogul.com
 1artb.sandbox.tubemogul.com
-www.187.sandbox.tubemogul.com
 autodiscover-rd1466use.sandbox.tubemogul.com
 oltp12-int.tubemogul.com
 app5.sandbox.tubemogul.com
 application-autodiscover.sandbox.tubemogul.com
-crm.sandbox.tubemogul.com
 rd1466usw.tubemogul.com
-www.applepay.sandbox.tubemogul.com
 preprod-cmp.tubemogul.com
 dev-cmp-int.tubemogul.com
 sandboxasbr01b.bdev.sandbox.tubemogul.com
@@ -4787,7 +4682,6 @@ avstore.sandbox.tubemogul.com
 1artb-rtb-lb-event-adcloud-prod-eu-west-1mgmt.sandbox.tubemogul.com
 mgmt01b-tm-hkg-1a.tubemogul.com
 foto.av.sandbox.tubemogul.com
-www.ci.sandbox.tubemogul.com
 controllerwebdisk.sandbox.tubemogul.com
 cdn4.sandbox.tubemogul.com
 grafana-tm-hkg-1a.tubemogul.com
@@ -4799,7 +4693,6 @@ blb-eu-west-1.sandbox.tubemogul.com
 autodiscoverproduction.sandbox.tubemogul.com
 creditconcepts.sandbox.tubemogul.com
 inplay-ad97.tubemogul.com
-ad.sandbox.tubemogul.com
 oltp13-int.tubemogul.com
 hwcdn.autodiscover.sandbox.tubemogul.com
 ubhcxzyzih.br.sandbox.tubemogul.com
@@ -4852,7 +4745,6 @@ dx-tm03.astorezone.sandbox.tubemogul.com
 inplay-ad27.tubemogul.com
 sandboxsandboxasbr.1aapp06-prod.sandbox.tubemogul.com
 testing.api-upload.tubemogul.com
-www.cn03-1c.sandbox.tubemogul.com
 rcv-srv23.inplay.tubemogul.com
 rtb-google.tubemogul.com
 zflsxwmrjp.aws.sandbox.tubemogul.com
@@ -4862,7 +4754,7 @@ consul.sandbox.tubemogul.com
 7g4rrlpn43auh45i.sandbox.tubemogul.com
 api.badge.sandbox.tubemogul.com
 rtb-haproxy05-adcloud-prod-eu-west-1.tubemogul.com
-www.db1.sandbox.tubemogul.com
+db1.sandbox.tubemogul.com
 api-ca-west-2.sandbox.tubemogul.com
 190.sandbox.tubemogul.com
 sjbgsglxqi.cms.sandbox.tubemogul.com
@@ -4882,10 +4774,8 @@ bertie-private.sandbox.tubemogul.com
 atom-ps-10772.sandbox.tubemogul.com
 brtb-sandboxrtdxf.1brcv.sandbox.tubemogul.com
 brtbzh.sandbox.tubemogul.com
-2017.sandbox.tubemogul.com
 autodiscovertm-emy-1a.sandbox.tubemogul.com
 fral.aplant.sandbox.tubemogul.com
-1metrics.sandbox.tubemogul.com
 inplay-ad09.tubemogul.com
 events-tm-lab-1a.tubemogul.com
 asbrsandboxmonitor.sandbox.tubemogul.com
@@ -4918,14 +4808,12 @@ testing.www.adevent01.sandbox.tubemogul.com
 dev-as-lb-tm-emy.tubemogul.com
 account.sandbox.tubemogul.com
 contacts-72342.sandbox.tubemogul.com
-www.analytics.sandbox.tubemogul.com
 rd1465aps.tubemogul.com
 rtb-google-lb03-ap-southeast.tubemogul.com
 cslplasma.sandbox.tubemogul.com
 br-webdisk.sandbox.tubemogul.com
 unb.api.sandbox.tubemogul.com
 dev-mgmt.autodiscover.sandbox.tubemogul.com
-www.newsandbox.tubemogul.com
 dlzdqsffna.studio.bappli.sandbox.tubemogul.com
 av-oldmail.sandbox.tubemogul.com
 builds-san12.sandbox.tubemogul.com
@@ -4952,7 +4840,6 @@ eastlb01d03.1astatic-rtb-lb-event-adcloud-prod-eu-west-1.sandbox.tubemogul.com
 as-pubf-www.sandbox.tubemogul.com
 av-tfs.sandbox.tubemogul.com
 xnfvwrqirq.1b.sandbox.tubemogul.com
-204.sandbox.tubemogul.com
 419static04.sandbox.tubemogul.com
 ijwlyfqwnd.api.sandbox.tubemogul.com
 autodiscover-rcv-srv51.sandbox.tubemogul.com
@@ -4971,9 +4858,7 @@ heayztfmnm.com.sandbox.tubemogul.com
 cloudfront-webdisk.sandbox.tubemogul.com
 blanding.sandbox.tubemogul.com
 alertmanager-tm-hkg-1a-www.sandbox.tubemogul.com
-ads.sandbox.tubemogul.com
 autopush.sandbox.tubemogul.com
-www.ams.sandbox.tubemogul.com
 rv1507usw.tubemogul.com
 as-lb-tm-sjc-1b-autodiscover.sandbox.tubemogul.com
 advalidatorwebdisk.sandbox.tubemogul.com
@@ -4995,7 +4880,6 @@ net.autoconfig.sandbox.tubemogul.com
 iqhyeslfno.cy.sandbox.tubemogul.com
 devs.autodiscover.sandbox.tubemogul.com
 aetirdpeic.crm.sandbox.tubemogul.com
-116.sandbox.tubemogul.com
 rv1458aps.tubemogul.com
 1pgzbascvnbr2y9p.sandbox.tubemogul.com
 beast.sandbox.tubemogul.com
@@ -5010,7 +4894,6 @@ cms1.sandbox.tubemogul.com
 bf1www.sandbox.tubemogul.com
 rv215euw.tubemogul.com
 av.autonomy.sandbox.tubemogul.com
-db1.sandbox.tubemogul.com
 inplay-ad02.inplay.tubemogul.com
 rv111usw.tubemogul.com
 api-upload06.tubemogul.com
@@ -5023,7 +4906,6 @@ artbdb-sv3-sandboxamldb.sandbox.tubemogul.com
 avoauth2.sandbox.tubemogul.com
 brtb1btm03-bgrafanauserdblb.sandbox.tubemogul.com
 cmp-as-tm-iad-1b.tubemogul.com
-alerte.sandbox.tubemogul.com
 1bcdnbrcv.sandbox.tubemogul.com
 rv1501aps-tm.everesttech.net.tubemogul.com
 av-myava3.sandbox.tubemogul.com
@@ -5057,7 +4939,6 @@ ablanding-aaasv.1brtb.sandbox.tubemogul.com
 webdisk.authentication.sandbox.tubemogul.com
 inplay-ad07.tubemogul.com
 azuredisk.sandbox.tubemogul.com
-www.acme2.sandbox.tubemogul.com
 2moifgmhl6r5vgus.sandbox.tubemogul.com
 asv-sjc.tubemogul.com
 brtc-1blb01gwestwww.sandbox.tubemogul.com

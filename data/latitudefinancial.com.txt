@@ -62,7 +62,7 @@ developer.test.latitudefinancial.com
 digicerttest.latitudefinancial.com
 private.api-inactive.test.latitudefinancial.com
 salesforce.api-inactive.test.latitudefinancial.com
-www.securemail.latitudefinancial.com
+securemail.latitudefinancial.com
 connect.latitudefinancial.com
 merchantreporting.checkout.latitudefinancial.com
 visa.api.dev.latitudefinancial.com
@@ -80,9 +80,7 @@ test-payments-sftp.latitudefinancial.com
 sts.latitudefinancial.com
 tools.latitudefinancial.com
 pcc.api.latitudefinancial.com
-securemail.latitudefinancial.com
 coreadmin.latitudefinancial.com
-www.assets.latitudefinancial.com
 orion-preprod.latitudefinancial.com
 private.api.test.latitudefinancial.com
 nsc.latitudefinancial.com
@@ -97,7 +95,6 @@ api-inactive.latitudefinancial.com
 nss.latitudefinancial.com
 test.di.latitudefinancial.com
 verify.latitudefinancial.com
-www.latitudefinancial.com
 checkout.latitudefinancial.com
 dev.checkout.latitudefinancial.com
 mfa.latitudefinancial.com
@@ -124,15 +121,13 @@ inactive.cards.latitudefinancial.com
 private.api.dev.latitudefinancial.com
 snowtest.latitudefinancial.com
 visa.api-inactive.dev.latitudefinancial.com
-www.di.latitudefinancial.com
-www.oscassets.latitudefinancial.com
+oscassets.latitudefinancial.com
 api-inactive.sit.latitudefinancial.com
 income.latitudefinancial.com
 salesforce.api.dev.latitudefinancial.com
 api-inactive.dev.latitudefinancial.com
 shopify.api.test.latitudefinancial.com
 mobile.assets.test.latitudefinancial.com
-oscassets.latitudefinancial.com
 cardapp-test.latitudefinancial.com
 data.latitudefinancial.com
 merchanttraining.sandbox.checkout.latitudefinancial.com

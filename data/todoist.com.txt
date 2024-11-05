@@ -54,7 +54,6 @@ app.todoist.com
 outlook.todoist.com
 beta.todoist.com
 da.todoist.com
-www.todoist.com
 add.todoist.com
 status.todoist.com
 avatar-cdn.todoist.com
@@ -71,7 +70,6 @@ static.todoist.com
 next.todoist.com
 sandbox.todoist.com
 it.todoist.com
-www.status.todoist.com
 powerapp.todoist.com
 support-staging.todoist.com
 ru.todoist.com
@@ -83,14 +81,12 @@ ftp.todoist.com
 hi.todoist.com
 alpha.todoist.com
 o3.em.todoist.com
-www.ko.todoist.com
 bg3.v4.a.dl.ws.microsoft.comext.todoist.com
 au.download.windowsupdate.comext.todoist.com
 autodiscover.sigmagestion.comext.todoist.com
 271761.genapicloud.comext.todoist.com
 citymeo.frext.todoist.com
-www.tipi.budget.gouv.frext.todoist.com
-www.chrome.todoist.com
+tipi.budget.gouv.frext.todoist.com
 jp.todoist.com
 0qpw4h3e.todoist.com
 a914.todoist.com
@@ -146,7 +142,6 @@ zendesk2.todoist.com
 zendesk3.todoist.com
 zendesk4.todoist.com
 109-46.todoist.com
-*.todoist.com
 ppe.etihaowerapp.todoist.com
 pop.todoist.com
 xcomet10.todoist.com
@@ -169,7 +164,7 @@ _amazonses.todoist.com
 alumni-webdisk.test.todoist.com
 buttercup.test.todoist.com
 blogging-roots.test.todoist.com
-www.brmail-sfrextgouv.test.todoist.com
+brmail-sfrextgouv.test.todoist.com
 2ttycloud.test.todoist.com
 10permisos.test.todoist.com
 mg.test.todoist.com
@@ -277,7 +272,7 @@ alexbischof.test.todoist.com
 0lc.test.todoist.com
 88-revolutionaryrebellion.test.todoist.com
 gallery.c-team-xcomet08.test.todoist.com
-www.benefits.test.todoist.com
+benefits.test.todoist.com
 belfalas.test.todoist.com
 bh5ktqj6.147.test.todoist.com
 a-8.test.todoist.com
@@ -292,10 +287,10 @@ buckle.test.todoist.com
 login2.patient.blackbird-amsterdam.test.todoist.com
 authsigmagestion.test.todoist.com
 brubeck.test.todoist.com
-www.ap.test.todoist.com
+ap.test.todoist.com
 ackerman.test.todoist.com
 blackburn.test.todoist.com
-www.brgonzosfrextgouv.test.todoist.com
+brgonzosfrextgouv.test.todoist.com
 1-142.test.todoist.com
 magento.autoconfig.test.todoist.com
 12.test.todoist.com
@@ -322,7 +317,6 @@ artoseven.test.todoist.com
 beep.test.todoist.com
 94.test.todoist.com
 cust712team.271361stg-comet46xcomet09.test.todoist.com
-ap.test.todoist.com
 avonpark.test.todoist.com
 nov.admin.test.todoist.com
 ml.todoist.com
@@ -373,7 +367,7 @@ blocka-142.test.todoist.com
 s345azure.team.brandstg-comet09-status.test.todoist.com
 3205c63i1ri2fgjl.test.todoist.com
 bizarre-bazaar.test.todoist.com
-www.bmo.test.todoist.com
+bmo.test.todoist.com
 erp.autodiscover.test.todoist.com
 b2c-eu.test.todoist.com
 bsc.test.todoist.com
@@ -405,7 +399,7 @@ admin-event.test.todoist.com
 g6x8qo37of9q5fib.tlsa.bad.test.todoist.com
 122.test.todoist.com
 271381stg-comet43xcomet04-cust702team.test.todoist.com
-www.ws.antontest.test.todoist.com
+ws.antontest.test.todoist.com
 98.test.todoist.com
 aipna.test.todoist.com
 0trunc.tlsa.bad.test.todoist.com
@@ -430,7 +424,7 @@ bretandlaurelfarrer.test.todoist.com
 arbo.test.todoist.com
 becard.test.todoist.com
 autoconfig-ww.test.todoist.com
-www.3.test.todoist.com
+3.test.todoist.com
 artfag.test.todoist.com
 hnmovies.test.todoist.com
 breakers3.test.todoist.com
@@ -460,7 +454,7 @@ ar-bleach.test.todoist.com
 atlantis-shopteam.test.todoist.com
 axmuda.test.todoist.com
 baldulf.test.todoist.com
-www.boutique.test.todoist.com
+boutique.test.todoist.com
 argus.test.todoist.com
 autodiscoverdec.test.todoist.com
 ahs.test.todoist.com
@@ -552,7 +546,6 @@ aetos-grevena.test.todoist.com
 blackie.test.todoist.com
 asimplyklassichome.test.todoist.com
 attilla.test.todoist.com
-3.test.todoist.com
 bhzcmhc5l7s65lfs.tlsa.bad.test.todoist.com
 brewers.test.todoist.com
 beeskneesreviews.test.todoist.com
@@ -566,7 +559,7 @@ blanche.test.todoist.com
 beski.test.todoist.com
 adccgw.test.todoist.com
 site.boomerang.test.todoist.com
-www.budget.test.todoist.com
+budget.test.todoist.com
 bootpd.test.todoist.com
 s549azure.team.analytics.test.todoist.com
 anch.test.todoist.com
@@ -626,7 +619,7 @@ brus.test.todoist.com
 beritagadget.test.todoist.com
 app-host-team.test.todoist.com
 blueppp.test.todoist.com
-www.branheatherby.test.todoist.com
+branheatherby.test.todoist.com
 auth.api.test.todoist.com
 admincms.test.todoist.com
 biometry.test.todoist.com
@@ -678,7 +671,6 @@ account-webdisk.test.todoist.com
 atheling.test.todoist.com
 api-6.test.todoist.com
 iobj6pqh.adelphi-amcld13.test.todoist.com
-branheatherby.test.todoist.com
 41g8ebblk24btbre.test.todoist.com
 agent-appint-prep-iscw.test.todoist.com
 arkanosdovale.test.todoist.com
@@ -704,13 +696,12 @@ bourne.test.todoist.com
 156.test.todoist.com
 android-autodiscover.test.todoist.com
 alok3mil.test.todoist.com
-www.api.test.todoist.com
 banielectronic.test.todoist.com
 zendesk1._domainkey.todoist.com
 asnovellserver.test.todoist.com
 bbncc-eur.test.todoist.com
 bl.asalae.test.todoist.com
-www.are.test.todoist.com
+are.test.todoist.com
 agenda-ftp.test.todoist.com
 blondie.test.todoist.com
 brandingbybandall.test.todoist.com
@@ -798,7 +789,7 @@ autoconfigs1.test.todoist.com
 blog-apisfrextgouv.test.todoist.com
 argyle.test.todoist.com
 de.bumsbuero.test.todoist.com
-www.advertise.test.todoist.com
+advertise.test.todoist.com
 autodiscover-neon.test.todoist.com
 buzck7q6qqkipvk3.test.todoist.com
 anhuadaohang.test.todoist.com
@@ -812,7 +803,7 @@ arthas.test.todoist.com
 9fftzlx6tgqnoht9.test.todoist.com
 271361stg-comet43xcomet03-s432-c-team-xcomet00.test.todoist.com
 apf.test.todoist.com
-www.ad.test.todoist.com
+ad.test.todoist.com
 autodiscoverreports.test.todoist.com
 98uybcubn4dq5sd4.test.todoist.com
 2016.test.todoist.com
@@ -1171,7 +1162,7 @@ billspc.test.todoist.com
 autoconfigfreebsd.test.todoist.com
 s289gallery.c-team-xcomet48.test.todoist.com
 asvanfree.test.todoist.com
-www.business.test.todoist.com
+business.test.todoist.com
 baham.test.todoist.com
 baade.test.todoist.com
 b2b.test.todoist.com
@@ -1220,7 +1211,7 @@ admin-phpmyadmin.test.todoist.com
 autodiscover-eng.test.todoist.com
 agg1.test.todoist.com
 134.test.todoist.com
-www.apps.test.todoist.com
+apps.test.todoist.com
 babyoil.test.todoist.com
 bcd.test.todoist.com
 anb.test.todoist.com
@@ -1320,7 +1311,7 @@ pc34.c-team-xcomet48.test.todoist.com
 p7roj2jn2k7a2w4p.bad.test.todoist.com
 brother.test.todoist.com
 adm.test.todoist.com
-www.brweblogsfrextgouv.test.todoist.com
+brweblogsfrextgouv.test.todoist.com
 bsmr.test.todoist.com
 usfq99u3tyd7ihgu.bad.test.todoist.com
 range86-156gallery.c-team-xcomet48.test.todoist.com
@@ -1382,7 +1373,7 @@ blog.barny.test.todoist.com
 5fiwokm29aj5sp6b.test.todoist.com
 annaankaofficial.test.todoist.com
 0.test.todoist.com
-www.bgse.test.todoist.com
+bgse.test.todoist.com
 butthead.test.todoist.com
 bibliotecadeinvestigaciones.test.todoist.com
 asma.test.todoist.com
@@ -1390,7 +1381,6 @@ bestchatroulette.test.todoist.com
 administratorscust302team.test.todoist.com
 box470.test.todoist.com
 bbsppp.test.todoist.com
-brmail-sfrextgouv.test.todoist.com
 akubloggertegar.test.todoist.com
 aerope.test.todoist.com
 amani.test.todoist.com
@@ -1453,7 +1443,7 @@ arton.test.todoist.com
 ag.test.todoist.com
 attiliofolliero.test.todoist.com
 bambus.test.todoist.com
-www.archive.test.todoist.com
+archive.test.todoist.com
 autoconfigzendesk-login.test.todoist.com
 admin-redirector.test.todoist.com
 atarde.test.todoist.com
@@ -1486,7 +1476,7 @@ blt.test.todoist.com
 2x2spqjytqqeafna.test.todoist.com
 profiles.admin.test.todoist.com
 azy-banglay-choti.test.todoist.com
-www.auth.test.todoist.com
+auth.test.todoist.com
 acc.admin.test.todoist.com
 blognyamitra.test.todoist.com
 awards.test.todoist.com
@@ -1525,7 +1515,6 @@ billing.age.test.todoist.com
 alerts.c-team-xcomet08.test.todoist.com
 i0.comet.webchatgallery.c-team-xcomet48.test.todoist.com
 55mwhov0o6n4cgq7.test.todoist.com
-benefits.test.todoist.com
 bustaduck.test.todoist.com
 agency.test.todoist.com
 anaffordablewardrobe.test.todoist.com
@@ -1545,7 +1534,7 @@ pc16.gallery.c-team-xcomet48.test.todoist.com
 all-hosting-list.test.todoist.com
 fr.att.test.todoist.com
 as157.test.todoist.com
-www.btw.test.todoist.com
+btw.test.todoist.com
 anant.test.todoist.com
 burgundy.test.todoist.com
 22passi.test.todoist.com
@@ -1602,7 +1591,7 @@ algoquecontar-nachete70.test.todoist.com
 bradshaw.test.todoist.com
 amazinggracebigbear.test.todoist.com
 68.test.todoist.com
-www.b2k.test.todoist.com
+b2k.test.todoist.com
 md-webmail.b-mta.test.todoist.com
 127.test.todoist.com
 100badcu.tlsa.bad.test.todoist.com
@@ -1630,7 +1619,6 @@ adel03.test.todoist.com
 aut.test.todoist.com
 boojum.test.todoist.com
 040.test.todoist.com
-ad.test.todoist.com
 ackcheta.test.todoist.com
 a2c-net98.test.todoist.com
 autoconfig.test.todoist.com
@@ -1710,7 +1698,7 @@ lexfvj9shytdch3c.tlsa.bad.test.todoist.com
 ftp-mirrorgallery.c-team-xcomet08.test.todoist.com
 publisher.sbb.bofa.test.todoist.com
 ahum.test.todoist.com
-www.akedge-at.test.todoist.com
+akedge-at.test.todoist.com
 56.test.todoist.com
 br-web-sfrextgouv.test.todoist.com
 bcast.test.todoist.com
@@ -1759,7 +1747,7 @@ e6159gs4cy32q9td.tlsa.bad.test.todoist.com
 autodiscoverroot.test.todoist.com
 apg-4.test.todoist.com
 bolagoalnet.test.todoist.com
-www.acom.test.todoist.com
+acom.test.todoist.com
 autodiscoverproject.test.todoist.com
 lynoalijbwtg827r.tlsa.bad.test.todoist.com
 attitude.test.todoist.com
@@ -1814,7 +1802,7 @@ block2.test.todoist.com
 appsandroidnation.test.todoist.com
 pc1-gallery.c-team-xcomet48.test.todoist.com
 labs.autoconfig.test.todoist.com
-www.br-sfrextgouv.test.todoist.com
+br-sfrextgouv.test.todoist.com
 afterschooldaze.test.todoist.com
 autodiscoverapache.test.todoist.com
 addon.test.todoist.com
@@ -1869,13 +1857,11 @@ asktheblogster.test.todoist.com
 alenija.test.todoist.com
 brfol.test.todoist.com
 bonbon.test.todoist.com
-ws.antontest.test.todoist.com
 bst.test.todoist.com
 alex.test.todoist.com
 boxer.test.todoist.com
 boreal.test.todoist.com
 booth2.test.todoist.com
-www.aaf-ds01.test.todoist.com
 c-team-xcomet38.test.todoist.com
 bder.test.todoist.com
 anrt.test.todoist.com
@@ -1908,7 +1894,6 @@ asbury.test.todoist.com
 butor.test.todoist.com
 artesminhas-marta.test.todoist.com
 priv-sigmagestion.administrators.test.todoist.com
-auth.test.todoist.com
 blade14.test.todoist.com
 bhm.test.todoist.com
 archidose.test.todoist.com
@@ -1921,7 +1906,7 @@ anw.test.todoist.com
 biometria.test.todoist.com
 container.admin.test.todoist.com
 s325.gallery.c-team-xcomet48.test.todoist.com
-www.hens2.age.test.todoist.com
+hens2.age.test.todoist.com
 bois.test.todoist.com
 bahnhof.test.todoist.com
 bubba.test.todoist.com
@@ -1957,7 +1942,6 @@ abinashp.test.todoist.com
 azadigold.test.todoist.com
 boxo.test.todoist.com
 bertrustfi.test.todoist.com
-budget.test.todoist.com
 asims-004.test.todoist.com
 lab.autodiscover.test.todoist.com
 adminmbox-team.test.todoist.com
@@ -2024,7 +2008,7 @@ alcyone.test.todoist.com
 bechet.test.todoist.com
 aa.test.todoist.com
 bandersnatch.test.todoist.com
-www.24checkboxes.test.todoist.com
+24checkboxes.test.todoist.com
 1nd233qwf27202at.test.todoist.com
 brouhaha.test.todoist.com
 bruny.test.todoist.com
@@ -2071,14 +2055,12 @@ api-us.test.todoist.com
 bossuet.test.todoist.com
 ane-emh1.test.todoist.com
 bulimianervosan.test.todoist.com
-bmo.test.todoist.com
 asp-isp.test.todoist.com
 biz.test.todoist.com
 baixante.test.todoist.com
 acf4.test.todoist.com
 112-217.test.todoist.com
 365-days-of-christmas.test.todoist.com
-archive.test.todoist.com
 97.test.todoist.com
 asb.test.todoist.com
 amedicalcareer.test.todoist.com
@@ -2126,7 +2108,7 @@ as163.test.todoist.com
 adnan-agnesa.test.todoist.com
 broker.test.todoist.com
 36.test.todoist.com
-www.aangenaamklassiek.test.todoist.com
+aangenaamklassiek.test.todoist.com
 8f7jntujc87of9zn.test.todoist.com
 autodiscover-help.test.todoist.com
 cms.admin.test.todoist.com
@@ -2160,7 +2142,6 @@ biggles.test.todoist.com
 altif2010.test.todoist.com
 s202gallery.c-team-xcomet48.test.todoist.com
 jp.gallery.c-team-xcomet48.test.todoist.com
-www.av.test.todoist.com
 blogbusinessworld.test.todoist.com
 babymakingbybecky.test.todoist.com
 livery.a.test.todoist.com
@@ -2191,7 +2172,6 @@ br.2tty-sfrextgouv.test.todoist.com
 batboy.test.todoist.com
 blackwood.test.todoist.com
 b.autoconfig.test.todoist.com
-www.b2b.test.todoist.com
 000badcu.tlsa.bad.test.todoist.com
 bojalinuxer.test.todoist.com
 belenos.test.todoist.com
@@ -2301,7 +2281,6 @@ adminhomer.test.todoist.com
 s445azure-brandstg-comet01-status.271661stg-team.test.todoist.com
 boomerang.test.todoist.com
 adelphi-amcld3.test.todoist.com
-www.br-web-sfrextgouv.test.todoist.com
 ayxms.test.todoist.com
 asmit.test.todoist.com
 aem-at.test.todoist.com
@@ -2309,7 +2288,6 @@ europewest.autoconfig.test.todoist.com
 acts.test.todoist.com
 photos.autoconfig.test.todoist.com
 webchat.c-team-xcomet08.test.todoist.com
-www.m.appstore.test.todoist.com
 amoscaazul.test.todoist.com
 ashrarebooks.test.todoist.com
 azbowl.test.todoist.com
@@ -2360,7 +2338,6 @@ authentication.test.todoist.com
 arugala.test.todoist.com
 virtual.autoconfig.test.todoist.com
 app.autodiscover.test.todoist.com
-www.api-ip.test.todoist.com
 admin-testing.test.todoist.com
 2ttyproteam.test.todoist.com
 atlantiswww.test.todoist.com
@@ -2419,7 +2396,6 @@ agelakopoulos.test.todoist.com
 ardsley.test.todoist.com
 tggallery.c-team-xcomet48.test.todoist.com
 abilene.test.todoist.com
-btw.test.todoist.com
 bert.test.todoist.com
 brisvr.test.todoist.com
 affiliatedima.test.todoist.com
@@ -2460,12 +2436,10 @@ adslnat-curridabat-128.test.todoist.com
 autoconfig-singed.test.todoist.com
 blaxland.test.todoist.com
 barryc.test.todoist.com
-www.atria.test.todoist.com
 kr.autodiscover.test.todoist.com
 baana.test.todoist.com
 preferences.autoconfig.test.todoist.com
 a3t8n7xfvmklcr8u.test.todoist.com
-hens2.age.test.todoist.com
 aeschylus.test.todoist.com
 update.autodiscover.test.todoist.com
 8laj4icpz4udm53q.test.todoist.com
@@ -2483,7 +2457,6 @@ abv.test.todoist.com
 apg.test.todoist.com
 bangkok.test.todoist.com
 affreschidigitali.test.todoist.com
-www.2.test.todoist.com
 aws.acc.test.todoist.com
 allianz-demo.test.todoist.com
 beautynude.test.todoist.com
@@ -2586,14 +2559,14 @@ backlinksinstant.test.todoist.com
 alabamauncut.test.todoist.com
 dev.gallery.c-team-xcomet48.test.todoist.com
 bunch.test.todoist.com
-www.4.test.todoist.com
+4.test.todoist.com
 autodiscover-ticket.test.todoist.com
 abant.test.todoist.com
 aacckk.test.todoist.com
 adserver.test.todoist.com
 autodiscoverdev4.test.todoist.com
 216-cust131team.test.todoist.com
-www.4od.test.todoist.com
+4od.test.todoist.com
 autodiscoverlaboratories.test.todoist.com
 c-team-login-frextfrext-production.test.todoist.com
 breitlingcurrency.test.todoist.com
@@ -2608,7 +2581,7 @@ mvmt8adw.akustressgiler.test.todoist.com
 ba.test.todoist.com
 adsl01.test.todoist.com
 acssys.test.todoist.com
-www.155.test.todoist.com
+155.test.todoist.com
 unkhash.tlsa.bad.test.todoist.com
 blogbiztutor.test.todoist.com
 pro.app.test.todoist.com
@@ -2658,7 +2631,6 @@ s340.c-team-xcomet04.test.todoist.com
 boner.test.todoist.com
 software.c-team-xcomet48.test.todoist.com
 bosch.test.todoist.com
-brweblogsfrextgouv.test.todoist.com
 bubble.test.todoist.com
 docker-testing.bb.test.todoist.com
 asiasingapore.test.todoist.com
@@ -2670,7 +2642,6 @@ la-www.brsfrextgouv.test.todoist.com
 a-ems.test.todoist.com
 c-search-xcomet58.test.todoist.com
 agr.test.todoist.com
-are.test.todoist.com
 adminmy.test.todoist.com
 zendesk2._domainkey.todoist.com
 bru5.test.todoist.com
@@ -2821,7 +2792,6 @@ agazetaalaranjada.test.todoist.com
 9120082.test.todoist.com
 accountcloudregion-westus2.test.todoist.com
 apotheekvandijck.test.todoist.com
-www.alevras.test.todoist.com
 at.test.todoist.com
 appa.test.todoist.com
 ames-prandtl.test.todoist.com
@@ -2943,17 +2913,15 @@ comet.webchatgallery.c-team-xcomet38.test.todoist.com
 mail.gallery.c-team-xcomet48.test.todoist.com
 98-62.test.todoist.com
 bridalwearz.test.todoist.com
-www.bcr.test.todoist.com
+bcr.test.todoist.com
 audienciadatv.test.todoist.com
 117.test.todoist.com
 ao-meyer.test.todoist.com
 admete.test.todoist.com
 arrkay.test.todoist.com
-24checkboxes.test.todoist.com
 239.test.todoist.com
 ftpservergallery.c-team-xcomet48.test.todoist.com
 userstream.c-team-xcomet38.test.todoist.com
-www.billing.age.test.todoist.com
 70.test.todoist.com
 izqxr6inhc00386a.tlsa.bad.test.todoist.com
 bannermanager-pplive-paddy2.test.todoist.com
@@ -3007,7 +2975,6 @@ me.algol.test.todoist.com
 bitrix.test.todoist.com
 bulla.test.todoist.com
 benny.test.todoist.com
-4od.test.todoist.com
 ak3rojbl3wo3qla4.test.todoist.com
 barneyd.test.todoist.com
 billsmac.test.todoist.com
@@ -3193,7 +3160,6 @@ buzzard.test.todoist.com
 babyblue.test.todoist.com
 webservices.autodiscover.test.todoist.com
 alfven.test.todoist.com
-aangenaamklassiek.test.todoist.com
 10unkhash.tlsa.bad.test.todoist.com
 branch.test.todoist.com
 amandalucci.test.todoist.com
@@ -3227,7 +3193,6 @@ adelphi-ap.test.todoist.com
 ws.admin.test.todoist.com
 boards.test.todoist.com
 bkkpornstar.test.todoist.com
-brgonzosfrextgouv.test.todoist.com
 hidden-gallery.c-team-xcomet03.test.todoist.com
 biotechnet.test.todoist.com
 security.autoconfig.test.todoist.com
@@ -3331,7 +3296,7 @@ android-www.test.todoist.com
 ackfemalepreachers.test.todoist.com
 aspartic.test.todoist.com
 businesss332-c-team-xcomet03.test.todoist.com
-www.avior2.test.todoist.com
+avior2.test.todoist.com
 albaniaasas.test.todoist.com
 blografando.test.todoist.com
 airton.test.todoist.com
@@ -3352,7 +3317,6 @@ adelphi-asce03.test.todoist.com
 baecker.test.todoist.com
 agente2012.test.todoist.com
 alverstone.test.todoist.com
-www.hotels.api-team.test.todoist.com
 afn.test.todoist.com
 bigvalleydiscountstore.test.todoist.com
 slkc.gallery.c-team-xcomet48.test.todoist.com
@@ -3377,7 +3341,6 @@ torvfw8ojqhjd7qv.tlsa.bad.test.todoist.com
 00miles.test.todoist.com
 benioff.test.todoist.com
 3hsoftcom.test.todoist.com
-www.br.bbssfrextgouv.test.todoist.com
 agedwoman.test.todoist.com
 bg.test.todoist.com
 aedmvectra.test.todoist.com
@@ -3386,13 +3349,11 @@ dijjnw833zy660b8.tlsa.bad.test.todoist.com
 abapple.test.todoist.com
 bkendall.test.todoist.com
 artbyangelique.test.todoist.com
-www.games.c-team-xcomet04.test.todoist.com
 2tty-sfrextgouv.test.todoist.com
 auction.test.todoist.com
 avclub-grade-stylings.test.todoist.com
 avc-cms-jump-fix.test.todoist.com
 affinityconsultant.test.todoist.com
-www.br-smtp-sfrextgouv.test.todoist.com
 baleen.test.todoist.com
 actinium.test.todoist.com
 aws.test.todoist.com
@@ -3433,10 +3394,8 @@ angela.test.todoist.com
 1up.test.todoist.com
 bout-de-la-route.test.todoist.com
 arson.test.todoist.com
-www.agelakopoulos.test.todoist.com
 aechp.test.todoist.com
 bollywoodmp4videos.test.todoist.com
-business.test.todoist.com
 asims-ftcmpbll.test.todoist.com
 c-loadbalancer-xcomet58.test.todoist.com
 ap-east-9.test.todoist.com
@@ -3457,7 +3416,6 @@ abiangirls-pics.test.todoist.com
 brassens.test.todoist.com
 31josxrrltswux26.test.todoist.com
 auto2.test.todoist.com
-avior2.test.todoist.com
 agua.test.todoist.com
 0whnxcp94m3loccs.tlsa.bad.test.todoist.com
 admin-analytics.test.todoist.com
@@ -3482,14 +3440,13 @@ drop.admin.test.todoist.com
 blutarsky.test.todoist.com
 arya.test.todoist.com
 acetips.test.todoist.com
-www.bourse.test.todoist.com
 animepl.test.todoist.com
 183-dsl.test.todoist.com
 adiromeo.test.todoist.com
 astronewsastroananda.test.todoist.com
 bootes.test.todoist.com
 2-bbs.test.todoist.com
-www.boldbeginning.test.todoist.com
+boldbeginning.test.todoist.com
 bardot.test.todoist.com
 butiksstod.test.todoist.com
 andersonfamilycrew.test.todoist.com
@@ -3501,7 +3458,6 @@ binding.test.todoist.com
 ber6.test.todoist.com
 2tty-mailgw2sfrextgouv.test.todoist.com
 autodiscover-vps.test.todoist.com
-www.am-owa-it1.test.todoist.com
 abisanaz.test.todoist.com
 askprincessmolestia.test.todoist.com
 cp.autoconfig.test.todoist.com
@@ -3510,7 +3466,6 @@ nwgallery.c-team-xcomet48.test.todoist.com
 autoconfig-linux.test.todoist.com
 aster.test.todoist.com
 apason.test.todoist.com
-bcr.test.todoist.com
 207177077.test.todoist.com
 admit.test.todoist.com
 adscale.test.todoist.com
@@ -3540,7 +3495,6 @@ banner-pplive-paddy1.test.todoist.com
 utn3w7xw96pfwcdu.tlsa.bad.test.todoist.com
 webfaktura.acc.test.todoist.com
 bsuki702.test.todoist.com
-www.bluesky.test.todoist.com
 artifactory.test.todoist.com
 api-portal.test.todoist.com
 hkg.admin.test.todoist.com
@@ -3584,7 +3538,6 @@ bbvanet.test.todoist.com
 admin-partner.test.todoist.com
 7vzqzzltkgsm2o8f.bad.test.todoist.com
 afrri.test.todoist.com
-4.test.todoist.com
 br.agirlknows.test.todoist.com
 n7pdjh4.2tty-s432-c-team-xcomet03.test.todoist.com
 booked.test.todoist.com
@@ -3635,7 +3588,6 @@ pcs.c-team-xcomet04.test.todoist.com
 bricklin.test.todoist.com
 awesomewallpapers.test.todoist.com
 adminadserver.test.todoist.com
-www.4id.test.todoist.com
 mail.api-s432-c-team-xcomet03.test.todoist.com
 bequia.test.todoist.com
 tlsa.bad.test.todoist.com
@@ -3645,7 +3597,6 @@ tc.gallery.c-team-xcomet38.test.todoist.com
 bristolsport-print.test.todoist.com
 almak.test.todoist.com
 amigyu3.test.todoist.com
-advertise.test.todoist.com
 westeurope.autoconfig.test.todoist.com
 awholebrandnewyear.test.todoist.com
 autoconfigstage2.test.todoist.com
@@ -3766,7 +3717,6 @@ bluecrab.test.todoist.com
 belvoir-tdss.test.todoist.com
 187-204.test.todoist.com
 aasftu3lj6lp0cuq.test.todoist.com
-www.brdev-sfrextgouv.test.todoist.com
 antena2.test.todoist.com
 aubery.test.todoist.com
 ahp2v11qodky2xo4.bad.test.todoist.com
@@ -3791,7 +3741,6 @@ aspecthp.test.todoist.com
 astroboy.test.todoist.com
 t85akdbf.allppt.test.todoist.com
 ucom.gallery.c-team-xcomet48.test.todoist.com
-www.admin.test.todoist.com
 allergiesandceliac.test.todoist.com
 baftan.test.todoist.com
 bennettlt.test.todoist.com
@@ -3815,7 +3764,6 @@ w.av.test.todoist.com
 ftp2.admin.test.todoist.com
 bick.test.todoist.com
 4vwmj5tqwv8jnvkf.tlsa.bad.test.todoist.com
-br-sfrextgouv.test.todoist.com
 peml85nqxc4qqkjo.aguacate.test.todoist.com
 bluegreen.test.todoist.com
 aau.test.todoist.com
@@ -4010,7 +3958,6 @@ ajohnson.test.todoist.com
 email.alerts.test.todoist.com
 anker.test.todoist.com
 agelli.test.todoist.com
-www.br.2tty-sfrextgouv.test.todoist.com
 adminorigin.test.todoist.com
 actressmasaala.test.todoist.com
 79sxa2j73cdzitlv.test.todoist.com
@@ -4075,7 +4022,6 @@ blanca.test.todoist.com
 machine.admin.test.todoist.com
 atlasautodiscover.test.todoist.com
 bruder.test.todoist.com
-www.ambit.test.todoist.com
 student.autoconfig.test.todoist.com
 avindia.test.todoist.com
 abuydev.test.todoist.com
@@ -4103,7 +4049,6 @@ bingo.test.todoist.com
 c-team-comet04xcomet04.test.todoist.com
 27.test.todoist.com
 browndresswithwhitedots.test.todoist.com
-www.bnl.test.todoist.com
 breakfast.test.todoist.com
 ads.test.todoist.com
 bold.test.todoist.com
@@ -4112,7 +4057,6 @@ de.bb1.test.todoist.com
 4mo5k5eebtx9dd49.test.todoist.com
 adyhpq.test.todoist.com
 backup-team.test.todoist.com
-www.beap.test.todoist.com
 bin.test.todoist.com
 babekhj3.test.todoist.com
 aais.test.todoist.com
@@ -4230,7 +4174,6 @@ blackfriars.test.todoist.com
 autodiscoverdc.test.todoist.com
 autodiscoverfrextfrext.c-team-xcomet78.test.todoist.com
 antarestest.test.todoist.com
-www.bi.test.todoist.com
 api-qa.test.todoist.com
 dns.bad.test.todoist.com
 aliquippa.test.todoist.com
@@ -4302,7 +4245,6 @@ beefy.test.todoist.com
 aypool.test.todoist.com
 comext.bucket.test.todoist.com
 asr-template.test.todoist.com
-www.author.test.todoist.com
 artrick.test.todoist.com
 adminsecure.test.todoist.com
 artpc.test.todoist.com
@@ -4328,7 +4270,6 @@ andromede.test.todoist.com
 autodiscover-safl.test.todoist.com
 admin-eu.test.todoist.com
 900eburg2-wireless.test.todoist.com
-155.test.todoist.com
 c-internal-us-xcomet58.test.todoist.com
 ftp.allegro.test.todoist.com
 ww42.api.test.todoist.com
@@ -4338,7 +4279,6 @@ bolduc.test.todoist.com
 axiomset.test.todoist.com
 order.gallery.c-team-xcomet48.test.todoist.com
 de.abitofboth.test.todoist.com
-www.acejewelers.test.todoist.com
 block.test.todoist.com
 bentwaters-am1.test.todoist.com
 bollybytesblog.test.todoist.com
@@ -4365,7 +4305,6 @@ appcdnsfrextgouv.test.todoist.com
 backendteam.test.todoist.com
 boxingnewsboxon.test.todoist.com
 a-pac.test.todoist.com
-b2k.test.todoist.com
 atest.test.todoist.com
 ajs.test.todoist.com
 1960nene.test.todoist.com
@@ -4408,7 +4347,6 @@ aggingjackass.test.todoist.com
 aem-st.test.todoist.com
 anniversary.test.todoist.com
 sa0ylwv6.s345azure.271361.test.todoist.com
-www.bs-2424.test.todoist.com
 c-214.test.todoist.com
 101j9zvluyy8zejq.blog-sfrextgouv.test.todoist.com
 a-eds.test.todoist.com
@@ -4534,14 +4472,12 @@ bancuri.test.todoist.com
 antivirusupport.test.todoist.com
 aps.test.todoist.com
 bellismac.test.todoist.com
-www.balancedgrowth.test.todoist.com
 bnc.test.todoist.com
 biz-metrics-c-team.test.todoist.com
 banco.test.todoist.com
 afrc.test.todoist.com
 ablink.test.todoist.com
 amha.test.todoist.com
-boldbeginning.test.todoist.com
 europewest.autodiscover.test.todoist.com
 ausing.test.todoist.com
 artsworldwides.test.todoist.com
@@ -4557,7 +4493,6 @@ galleries.app.test.todoist.com
 mayday.gallery.c-team-xcomet38.test.todoist.com
 a203.test.todoist.com
 biogeo.test.todoist.com
-apps.test.todoist.com
 ardec-syb.test.todoist.com
 asghari-edu.test.todoist.com
 amygregson.test.todoist.com
@@ -4639,7 +4574,6 @@ bridgea.test.todoist.com
 allocation-apnic.test.todoist.com
 autoconfig-bookings.test.todoist.com
 autodiscover-redir.test.todoist.com
-bgse.test.todoist.com
 blackfin.test.todoist.com
 aom.test.todoist.com
 bismark.test.todoist.com
@@ -4662,7 +4596,6 @@ aper.test.todoist.com
 battle.test.todoist.com
 autoconfig-mail.test.todoist.com
 comet06.todoist.com
-akedge-at.test.todoist.com
 bbs-cdn-team.test.todoist.com
 bookingsm.test.todoist.com
 2019.test.todoist.com
@@ -4802,7 +4735,6 @@ bba.test.todoist.com
 6a1bt4z80ycnmedq.test.todoist.com
 bookings.test.todoist.com
 82ldtwc9rbmlxyew.test.todoist.com
-www.6.test.todoist.com
 affiliates.test.todoist.com
 berndgillich.test.todoist.com
 bwd.test.todoist.com
@@ -4814,7 +4746,6 @@ delivery.a.test.todoist.com
 bohica.test.todoist.com
 thijs.aguacate.test.todoist.com
 aandc168.test.todoist.com
-www.aviamama.test.todoist.com
 autodiscovercms.test.todoist.com
 accusoltechnologies.test.todoist.com
 accountmail.test.todoist.com
@@ -4832,7 +4763,6 @@ annex8.test.todoist.com
 appliedimprov.test.todoist.com
 dress.bigdad.test.todoist.com
 2tty-s432-c-team-xcomet03.test.todoist.com
-acom.test.todoist.com
 autoconfigmantis.test.todoist.com
 badanie.test.todoist.com
 artin.test.todoist.com
@@ -4848,10 +4778,8 @@ ay.test.todoist.com
 boltzmann.test.todoist.com
 arviragus.test.todoist.com
 azad.test.todoist.com
-boutique.test.todoist.com
 serviceapp.webfaktura.acc.test.todoist.com
 api-pre.gallery.c-team-xcomet08.test.todoist.com
-www.affiliate-it1.test.todoist.com
 autodiscoverneon.test.todoist.com
 bucsb.test.todoist.com
 alerts.test.todoist.com
@@ -4895,7 +4823,6 @@ newsite.admin.test.todoist.com
 akc-tickets.test.todoist.com
 733blog.test.todoist.com
 bleys.test.todoist.com
-www.cdn.antontest.test.todoist.com
 authc-team.test.todoist.com
 addons.test.todoist.com
 boronalli.test.todoist.com

@@ -1,9 +1,8 @@
-*.techcrunch.com
-*.dev.search.techcrunch.com
-*.pr.login.techcrunch.com
-*.qa.search.techcrunch.com
-*.search.techcrunch.com
-*.stage.login.techcrunch.com
+dev.search.techcrunch.com
+pr.login.techcrunch.com
+qa.search.techcrunch.com
+search.techcrunch.com
+stage.login.techcrunch.com
 alpha.login.techcrunch.com
 ampmetrics.techcrunch.com
 api.login.techcrunch.com
@@ -30,7 +29,6 @@ crunchies2012.techcrunch.com
 crunchies2013.techcrunch.com
 crunchies2014.techcrunch.com
 d.techcrunch.com
-dev.search.techcrunch.com
 develop.techcrunch.com
 develop22.techcrunch.com
 digital-cameras.techcrunch.com
@@ -83,16 +81,13 @@ partnerevents.techcrunch.com
 pitches.techcrunch.com
 pixel.techcrunch.com
 podcast.techcrunch.com
-pr.login.techcrunch.com
 preprod.techcrunch.com
 preprod22.techcrunch.com
 prod22.techcrunch.com
 profiles.techcrunch.com
 profiles-int.techcrunch.com
 projectors.techcrunch.com
-qa.search.techcrunch.com
 ryot.techcrunch.com
-search.techcrunch.com
 sites.techcrunch.com
 smartphones.techcrunch.com
 social.techcrunch.com
@@ -101,7 +96,6 @@ st.techcrunch.com
 stage.api.login.techcrunch.com
 stage.guce.techcrunch.com
 stage.guce.login.techcrunch.com
-stage.login.techcrunch.com
 stage.oidc.techcrunch.com
 staging.techcrunch.com
 startupalley.techcrunch.com
@@ -134,8 +128,6 @@ vote.crunchies2008.techcrunch.com
 webappsurvey2009.techcrunch.com
 webmail.techcrunch.com
 wiki.techcrunch.com
-www.techcrunch.com
-www.develop.techcrunch.com
 biz.techcrunch.com
 email.techcrunch.com
 learn.techcrunch.com
@@ -205,7 +197,6 @@ apps.jp-preprod.techcrunch.com
 connect.techcrunch.com
 tableau-ems.jp-preprod.techcrunch.com
 forum.techcrunch.com
-.techcrunch.com
 iad-cf.jp-preprod.techcrunch.com
 att-bt.jp-preprod.techcrunch.com
 reseller-alpha.jp-preprod.techcrunch.com

@@ -7,7 +7,6 @@ esims-frontend.digitalzone.app
 providers-portal.digitalzone.app
 retool.digitalzone.app
 tickets.digitalzone.app
-www.digitalzone.app
 autodiscover.digitalzone.app
 autodiscover.fast.digitalzone.app
 cpanel.digitalzone.app
@@ -28,8 +27,3 @@ webdisk.digitalzone.app
 webdisk.fast.digitalzone.app
 webmail.digitalzone.app
 webmail.fast.digitalzone.app
-www.fast.digitalzone.app
-www.fastpay.digitalzone.app
-www.pay.digitalzone.app
-www.paymnet.digitalzone.app
-www.store.digitalzone.app

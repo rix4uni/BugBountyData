@@ -1,7 +1,6 @@
 pmc.crto.in
 youfollow.crto.in
 prod.crto.in
-www.crto.in
 design.crto.in
 pibo.crto.in
 test.dc1.pl1.preprod.crto.in
@@ -61,7 +60,7 @@ backup-mariadb.va1.prod.crto.in
 ldap-ssl-uad.par.preprod.crto.in
 ilo208-024.bmc.crto.in
 jp2.prod.crto.in
-www.aerospike.preprod.crto.in
+aerospike.preprod.crto.in
 netproxy.par.preprod.crto.in
 scylla.preprod.crto.in
 netproxy.us5.prod.crto.in
@@ -88,7 +87,6 @@ uad001-par.uaddev.preprod.crto.in
 ldap-ssl-uad.preprod.crto.in
 va1.crto.in
 network-salt.us5.prod.crto.in
-www.uad001-par.uaddev.preprod.crto.in
 hpc.preprod.crto.in
 moab-filer.crto.in
 node.jp2.consul.prod.crto.in
@@ -125,7 +123,6 @@ am5.crto.in
 backup-mariadb.am6.prod.crto.in
 review.preprod.crto.in
 network-salt-staging.am6.preprod.crto.in
-aerospike.preprod.crto.in
 sg1.as.crto.in
 backup-mariadb.am6.preprod.crto.in
 network-salt.par.preprod.crto.in

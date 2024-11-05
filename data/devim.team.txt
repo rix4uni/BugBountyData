@@ -2,7 +2,6 @@ enigma.prod.wl.devim.team
 airflow.prod.devim.team
 collectors-saas.test.wl.devim.team
 collectors-saas2.test.wl.devim.team
-*.devim.team
 stage-asterisk-03.devim.team
 kbkinbch.dev.wl.devim.team
 kbkinbch-manage.dev.wl.devim.team
@@ -88,7 +87,7 @@ api.stage.dzp.devim.team
 0-dev.devim.team
 passbolt.devim.team
 underwriters.test.devim.team
-www.nova-zaim.dev.devim.team
+nova-zaim.dev.devim.team
 pincode.dev.devim.team
 fe-dzp-api.dwn-13781.review.devim.team
 tqm-chats.dev.wl.devim.team
@@ -177,11 +176,10 @@ fe-dzp-lk.pipeline-test.review.devim.team
 teamcity.devim.team
 gitlab.devim.team
 underwriter-dashboard.prod.devim.team
-www.times.devim.team
+times.devim.team
 underwriters.dev.devim.team
 pgwatch.prod.dzp.devim.team
 test-rabbitmq.dev.wl.devim.team
-times.devim.team
 test-template.dev.devim.team
 my.dzp-test.devim.team
 underwriter-long-front.prod.wl.devim.team
@@ -210,7 +208,6 @@ buromock.dev.wl.devim.team
 apollo-front.dev.devim.team
 bacula.devim.team
 dozarplati-test-api.devim.team
-nova-zaim.dev.devim.team
 rollouts.devops.devim.team
 saas-callbacks.dev.wl.devim.team
 gateway-grpc.dev.wl.devim.team
@@ -413,7 +410,7 @@ kbkiequifax.prod.wl.devim.team
 fe-dzp-api.pipeline-test.review.devim.team
 rfm-reports.dev.devim.team
 saas-legals.stage.wl.devim.team
-www.shop.devim.team
+shop.devim.team
 jpush.devim.team
 test-docs.devim.team
 call-analytics.prod.wl.devim.team
@@ -466,7 +463,6 @@ underwriter-dashboard.prod.wl.devim.team
 v.15mt-01.devim.team
 fpsequifax.dev.wl.devim.team
 emkopo-admin.dev.devim.team
-shop.devim.team
 dzp-admin.test.devim.team
 gerodot.parser.prod.wl.devim.team
 gerodot.stage.wl.devim.team
@@ -545,7 +541,6 @@ collectors-saas2.dev.wl.devim.team
 fpsequifax.prod.wl.devim.team
 white-label-cms.dev.wl.devim.team
 cryptoprorest.dev.wl.devim.team
-www.devim.team
 notary.harbor.k8s.devim.team
 underwritersvc.prod.wl.devim.team
 icinga.devim.team

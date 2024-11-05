@@ -1,5 +1,4 @@
-*.dev.osp.opera.software
-*.osp.opera.software
+dev.osp.opera.software
 0asubmit-ash.osp.opera.software
 108-74.146.82.h05-18-04.osp.opera.software
 250asubmit-target.osp.opera.software
@@ -33,7 +32,6 @@ desktop-dna.osp.opera.software
 desktop-netinstaller-sub.osp.opera.software
 desktop-qualityclient-sub.osp.opera.software
 desktop-sessions-sub.osp.opera.software
-dev.osp.opera.software
 dna.osp.opera.software
 docs.osp.opera.software
 forsberg-test-cmdline-01.osp.opera.software
@@ -210,4 +208,3 @@ trn04-02-03.osp.opera.software
 influxdb-test-ash.osp.opera.software
 vato-linkoping-dataops.osp.opera.software
 ofi-sub.osp.opera.software
-www.osp.opera.software

@@ -2,7 +2,6 @@ bcg-rmp.l3montree.cloud
 status.l3montree.cloud
 scanner.l3montree.cloud
 latex.l3montree.cloud
-www.l3montree.cloud
 mail.l3montree.cloud
 honeypot.l3montree.cloud
 wp-1.l3montree.cloud
@@ -16,7 +15,7 @@ wp.l3montree.cloud
 designdatagmbh.l3montree.cloud
 storage.l3montree.cloud
 api.minio.l3montree.cloud
-www.ozgsec.l3montree.cloud
+ozgsec.l3montree.cloud
 argocd.l3montree.cloud
 webdav.storage.l3montree.cloud
 auth.l3montree.cloud
@@ -24,10 +23,8 @@ kibana.l3montree.cloud
 intertec.l3montree.cloud
 monitoring.l3montree.cloud
 ukb.l3montree.cloud
-www.wp.l3montree.cloud
 rmpui.bonnconsultinggroup.l3montree.cloud
 proxy.honeypot.l3montree.cloud
 sv-keijser.l3montree.cloud
 rmp-ui.bonnconsultinggroup.l3montree.cloud
-ozgsec.l3montree.cloud
 sonarqube.l3montree.cloud

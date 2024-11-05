@@ -13,7 +13,6 @@ opal-client.global.cloudcents.bylight.com
 opal-server.global.cloudcents.bylight.com
 pgadmin.global.cloudcents.bylight.com
 rancher-ha-c-mgmt.bylightsdc.bylight.com
-www.bylight.com
 abc.cloudcents.bylight.com
 adfs.bylight.com
 andres0.cloudcents.bylight.com
@@ -83,7 +82,3 @@ webdisk.bylight.com
 webmail.bylight.com
 whm.bylight.com
 whoami.bylightsdc.bylight.com
-www.adfs.bylight.com
-www.ex.bylight.com
-www.fileshare.bylight.com
-www.riskradar.bylight.com

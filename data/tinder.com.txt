@@ -1,5 +1,4 @@
-*.tinder.com
-*.swipelife.tinder.com
+swipelife.tinder.com
 aa.ad.tinder.com
 abmail.tinder.com
 email.newsletter.tinder.com
@@ -64,15 +63,11 @@ policies.tinder.com
 polls.tinder.com
 sp.tinder.com
 staging.tinder.com
-swipelife.tinder.com
 swipenight.tinder.com
 tech.tinder.com
 testrail.tinder.com
 web.tinder.com
 welcome.tinder.com
-www.tinder.com
-www.help.tinder.com
-www.swipenight.tinder.com
 _spf1.tinder.com
 blog.tinder.com
 links.alerts.tinder.com
@@ -104,7 +99,6 @@ ww.tinder.com
 s2._domainkey.updates.tinder.com
 inception.tinder.com
 y4by6nr65rpjdotkl43rmkj6l3frdpoj._domainkey.mail.tinder.com
-www.inception.tinder.com
 s2._domainkey.mail.tinder.com
 wntci4txy3eyoq2rpvzujycxiqzqz3bc._domainkey.mail.tinder.com
 wew.tinder.com

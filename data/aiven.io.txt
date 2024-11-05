@@ -3,10 +3,10 @@ console-beta.aiven.io
 roadmap.aiven.io
 docs.aiven.io
 regatta.aiven.io
-www.api.aiven.io
+api.aiven.io
 help.aiven.io
 support.aiven.io
-www.console.aiven.io
+console.aiven.io
 video.aiven.io
 console.gcp.aiven.io
 aquarium-library.aiven.io
@@ -20,14 +20,12 @@ robjecter.aiven.io
 iam.aiven.io
 incident-management-docs.handbook.aiven.io
 vmail.aiven.io
-www.aiven.io
 support-redirect.aiven.io
 events.aiven.io
 status.aiven.io
 landing.aiven.io
 ideas.aiven.io
 partner-support.aiven.io
-console.aiven.io
 api-http2-preview.aiven.io
 developers.aiven.io
 go.aiven.io
@@ -41,8 +39,6 @@ console.aws.aiven.io
 play.aiven.io
 rest.aiven.io
 handbook.aiven.io
-api.aiven.io
-www.video.aiven.io
 admin-api.aiven.io
 console.azure.aiven.io
 helps.aiven.io

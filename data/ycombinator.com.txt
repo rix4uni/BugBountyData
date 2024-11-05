@@ -1,5 +1,4 @@
-*.ycombinator.com
-*.cf-upstream.ycombinator.com
+cf-upstream.ycombinator.com
 account.ycombinator.com
 aff2021.ycombinator.com
 api.ycombinator.com
@@ -35,9 +34,6 @@ themacro.ycombinator.com
 w21alumnidemoday.ycombinator.com
 wiki.ycombinator.com
 world.ycombinator.com
-www.ycombinator.com
-www.blog.ycombinator.com
-www.leap.ycombinator.com
 ycblog.ycombinator.com
 ychealthandbiosummit2022.ycombinator.com
 https-abs-twimg-com5-0.ycombinator.com
@@ -48,7 +44,6 @@ namail4-1.ycombinator.com
 hardcorenews.ycombinator.com
 events.ycombinator.com
 deals.ycombinator.com
-cf-upstream.ycombinator.com
 apply-static.ycombinator.com
 investors.ycombinator.com
 bookface-embed.ycombinator.com

@@ -11,13 +11,12 @@ api-usercentrics.verkkokauppa.com
 app-usercentrics.verkkokauppa.com
 rr.service.verkkokauppa.com
 privacy-proxy-usercentrics.verkkokauppa.com
-www.verkkokauppa.com
 api.verkkokauppa.com
 pdmp.service.verkkokauppa.com
 oqs.service.verkkokauppa.com
 aggregator-service-usercentrics.verkkokauppa.com
 web-api.service.test.verkkokauppa.com
-www.test.verkkokauppa.com
+test.verkkokauppa.com
 api.test.verkkokauppa.com
 rr.service.test.verkkokauppa.com
 oqs.service.test.verkkokauppa.com
@@ -45,11 +44,9 @@ metrics.service.verkkokauppa.com
 invoicing.verkkokauppa.com
 order.service.test.verkkokauppa.com
 investors.test.verkkokauppa.com
-test.verkkokauppa.com
 investors.verkkokauppa.com
 api.staging.verkkokauppa.com
 investors.staging.verkkokauppa.com
-www.staging.verkkokauppa.com
 relex.verkkokauppa.com
 ims.service.staging.verkkokauppa.com
 ims.service.verkkokauppa.com

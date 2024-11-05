@@ -1,4 +1,4 @@
-www.status.mlab.com
+status.mlab.com
 ds113785.mlab.com
 ds155737.mlab.com
 ds133876.mlab.com
@@ -131,7 +131,6 @@ ds121299.mlab.com
 ds241489.mlab.com
 staging-api.mlab.com
 ds161475.mlab.com
-status.mlab.com
 ds147905.mlab.com
 ds129966.mlab.com
 ds061325.mlab.com
@@ -210,7 +209,6 @@ ds011732.mlab.com
 ds025973.mlab.com
 ds013366.mlab.com
 ds157677.mlab.com
-www.mlab.com
 private-api.lattice.mlab.com
 ds121483.mlab.com
 ds015859.mlab.com
@@ -273,7 +271,6 @@ ds039155.mlab.com
 ds125016.mlab.com
 ds129038.mlab.com
 logs.mlab.com
-www.v1.api.mlab.com
 ds111204.mlab.com
 ds113448-a0.mlab.com
 ds139278.mlab.com
@@ -285,7 +282,7 @@ ds153730.mlab.com
 ds255970.mlab.com
 ds157818.mlab.com
 ds125469.mlab.com
-www.telemetry.mlab.com
+telemetry.mlab.com
 ds127655.mlab.com
 ds019101.mlab.com
 ds038547.mlab.com
@@ -306,7 +303,6 @@ ds129374.mlab.com
 ds235461.mlab.com
 ds247270.mlab.com
 ds111063.mlab.com
-www.mlab-service.internal.mlab.com
 ds123614.mlab.com
 ds235251.mlab.com
 store.mlab.com
@@ -441,7 +437,6 @@ bpq79.fleet.mlab.com
 ds149221.mlab.com
 ds023000.mlab.com
 ds031608.mlab.com
-telemetry.mlab.com
 mvh76.fleet.mlab.com
 vpn.mlab.com
 ds023303.mlab.com
@@ -656,4 +651,3 @@ ds159330.mlab.com
 ds149807-a0.mlab.com
 ds247759.mlab.com
 ds034677.mlab.com
-www.logs.mlab.com

@@ -11,7 +11,6 @@ post.qbp.com
 qa-login.qbp.com
 ts-gw1.qbp.com
 vpn1.qbp.com
-www.qbp.com
 adselfsrv01.mn1.qbp.com
 anaplanpcon01.mn1.qbp.com
 dev-login.qbp.com
@@ -23,10 +22,3 @@ qa-springauthserver-internal.us-east-1.qbp.com
 sapperp02.mn1.qbp.com
 us-east-1.qbp.com
 vcenter01.mn1.qbp.com
-www.adselfsrv01.mn1.qbp.com
-www.anaplanpcon01.mn1.qbp.com
-www.post.qbp.com
-www.sapperp02.mn1.qbp.com
-www.ts-gw1.qbp.com
-www.vcenter01.mn1.qbp.com
-www.vpn1.qbp.com

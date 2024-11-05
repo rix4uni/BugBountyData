@@ -41,7 +41,6 @@ suggest.carrentals.com
 p1-204157.e.carrentals.com
 pimcore.carrentals.com
 d.ns.e.carrentals.com
-www.carrentals.com
 docs.carrentals.com
 mta.eg.carrentals.com
 e.carrentals.com
@@ -50,10 +49,9 @@ click.eg.carrentals.com
 p1-204048.e.carrentals.com
 b.ns.r.carrentals.com
 jet.carrentals.com
-www.cartypes.carrentals.com
 ns3.carrentals.com
 servercookie.carrentals.com
-www.gethelp.carrentals.com
+gethelp.carrentals.com
 navision.carrentals.com
 jenkins.carrentals.com
 hostmaster.carrentals.com
@@ -68,7 +66,6 @@ c.ns.e.carrentals.com
 aws.carrentals.com
 kub-release.services.carrentals.com
 autodiscover.carrentals.com
-gethelp.carrentals.com
 chef-internal.carrentals.com
 mta2.eg.carrentals.com
 services.carrentals.com
@@ -122,13 +119,6 @@ i.m.carrentals.com
 link.carrentals.com
 l.e.carrentals.com
 links.carrentals.com
-*.carrentals.com
-*.services.carrentals.com
-*.aws.carrentals.com
-*.kub-dev.services.carrentals.com
-*.kub-prod.services.carrentals.com
-*.kub-release.services.carrentals.com
-*.int.carrentals.com
 apiv2.carrentals.com
 cr2.carrentals.com
 eg.carrentals.com
@@ -159,7 +149,7 @@ qa-api.carrentals.com
 analytics.carrentals.com
 qaci.carrentals.com
 s.r.carrentals.com
-www.travel2southafrica.carrentals.com
+travel2southafrica.carrentals.com
 e2e-user-account.carrentals.com
 enterprise.carrentals.com
 prod-supply-connector-servicev2.carrentals.com
@@ -174,13 +164,12 @@ pia-development.services.carrentals.com
 perf-user-account.carrentals.com
 b.r.carrentals.com
 reg.r.carrentals.com
-www.az.carrentals.com
+az.carrentals.com
 perf-user-account-service.carrentals.com
 fukc.carrentals.com
 affaires.ods.prod.carrentals.com
 staging-search-service.carrentals.com
 test.carrentals.com
-www.enterprise.carrentals.com
 m.r.carrentals.com
 wwww.carrentals.com
 perf-insurance-service.carrentals.com

@@ -1,6 +1,4 @@
 steampipe-posture.corp.tessian.com
-*.tessian.com
-www.tessian.com
 us.status.tessian.com
 info.tessian.com
 dnga.corp.tessian.com
@@ -15,7 +13,6 @@ status.tessian.com
 gslink1.tessian.com
 ovpna.corp.tessian.com
 dng.corp.tessian.com
-www.vpn.corp.tessian.com
 vpn.corp.tessian.com
 hello.tessian.com
 id.tessian.com
@@ -40,9 +37,7 @@ ssh.fdm.corp.tessian.com
 internal.fdm.corp.tessian.com
 store.tessian.com
 bst-staging.corp.tessian.com
-www.mdm.corp.tessian.com
 st-demo.internal.tessian.com
-www.id.tessian.com
 ore02.vpn.corp.tessian.com
 vpn-us.corp.tessian.com
 email.tessian.com

@@ -35,7 +35,6 @@ link.simscale.com
 staging-static-assets.simscale.com
 api-staging.simscale.com
 internal.simscale.com
-www.simscale.com
 docker.simscale.com
 kola.simscale.com
 virthost6.simscale.com
@@ -56,7 +55,7 @@ dev.simscale.com
 frontdev.simscale.com
 qa.simscale.com
 virthost9.simscale.com
-www.web-testing.simscale.com
+web-testing.simscale.com
 careers.simscale.com
 _www.simscale.com
 tanmahal.simscale.com
@@ -88,7 +87,6 @@ driller.simscale.com
 forum.simscale.com
 pentest.simscale.com
 plest.simscale.com
-web-testing.simscale.com
 u002fforum.simscale.com
 frontend-assets.stg.simscale.com
 redmine.simscale.com

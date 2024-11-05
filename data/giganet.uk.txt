@@ -34,7 +34,6 @@ uat-cms.giganet.uk
 uat-swift.giganet.uk
 partnerportal.giganet.uk
 dev-partnerportal-api.giganet.uk
-www.giganet.uk
 test-radius-service-5482.giganet.uk
 dev-servicenow-service.giganet.uk
 preprod-radius-service-5482-steering.giganet.uk
@@ -78,8 +77,6 @@ test2.auth.giganet.uk
 cityfibre-integration-staging.giganet.uk
 securelogin.giganet.uk
 confluent-ms-test.giganet.uk
-www.cityfibre-integration.giganet.uk
-www.cityfibre-integration-staging.giganet.uk
 image.news.giganet.uk
 confluent-service.giganet.uk
 view.news.giganet.uk

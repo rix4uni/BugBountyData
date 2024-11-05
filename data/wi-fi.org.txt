@@ -2,7 +2,6 @@ login.wi-fi.org
 certifications.wi-fi.org
 d10.wi-fi.org
 tms.wi-fi.org
-www.wi-fi.org
 certifications.prod.wi-fi.org
 ap.dev.afc.wi-fi.org
 certifications.staging.wi-fi.org
@@ -11,7 +10,6 @@ dev.afc.wi-fi.org
 cert.wi-fi.org
 indigo.wi-fi.org
 afc.wi-fi.org
-www.cert.wi-fi.org
 jenkins-indigo-tool.wi-fi.org
 dev.indigo.wi-fi.org
 dev.tms.wi-fi.org
@@ -25,7 +23,6 @@ policy-server.r2-testbed-rks.wi-fi.org
 osu-server.r2-testbed-rks.wi-fi.org
 remediation-server.r2-testbed-rks.wi-fi.org
 testserver.wi-fi.org
-www.testserver.wi-fi.org
 groups.wi-fi.org
 autodiscover.wi-fi.org
 main.wi-fi.org

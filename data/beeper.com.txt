@@ -117,7 +117,6 @@ users.eu-summer-moon.edge.beeper.com
 metrics.beeper.com
 ingress-mtls.internal.eu-super-bacon.edge.beeper.com
 prometheus.metrics.eu.edgeserv.beeper.com
-www.beeper.com
 ingress-mtls.internal.eu-plucky-sparrow.edge.beeper.com
 proxyserv.internal.eu-quiet-cloud.edge.beeper.com
 sso.internal.5fcf91.bridges.beeper.com
@@ -202,7 +201,6 @@ loki.metrics.aws.beeper.com
 argo-cd.internal.eu-fiery-chasm.edge.beeper.com
 prometheus.metrics.eu-holy-fire.edge.beeper.com
 user.eu-action-tiger.edge.beeper.com
-www.help.beeper.com
 users.edge-eu-holy-fire.bridges.beeper.com
 email.beeper.com
 alertmanager.metrics.5fcf91.bridges.beeper.com
@@ -236,7 +234,6 @@ thanos-ruler.metrics.hetzner.beeper.com
 beta.beeper.com
 changelog.beeper.com
 sso.internal.6187fa.bridges.beeper.com
-www.blog.beeper.com
 nodes.eu-fiery-chasm.edge.beeper.com
 user.eu-twilight-field.edge.beeper.com
 proxyserv.internal.6187fa.bridges.beeper.com
@@ -253,11 +250,9 @@ us-east-1.media.beeper.com
 eu-central-2.media.beeper.com
 us-east-2.media.beeper.com
 aws.beeper.com
-*.beeper.com
-*.users.eu-plucky-sparrow.edge.beeper.com
 argo-cd.internal.eu-fancy-tulip.edge.beeper.com
-*.users.eu-fancy-tulip.edge.beeper.com
-*.users.edge-eu-fancy-tulip.bridges.beeper.com
+users.eu-fancy-tulip.edge.beeper.com
+users.edge-eu-fancy-tulip.bridges.beeper.com
 user.eu-fancy-tulip.edge.beeper.com
 url2259.beeper.com
 config.chat.beeper.com

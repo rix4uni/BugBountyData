@@ -1,7 +1,6 @@
 admin.xepelin-hub.data.xepelin.com
-www.xepelin.com
 api.documents-manager.cl.xepelin.com
-www.gth.xepelin.com
+gth.xepelin.com
 kraken.xepelin.com
 ml-invoice.xepelin.com
 wallet-compass-service.xepelin.com
@@ -10,7 +9,7 @@ api.suite.data.xepelin.com
 signoz.prd.xepelin.com
 blog.xepelin.com
 wallet-bbva-service.xepelin.com
-www.fondos.xepelin.com
+fondos.xepelin.com
 growth.acquisition.xepelin.com
 suite.data.xepelin.com
 financiamiento.xepelin.com
@@ -34,8 +33,7 @@ lending-ap.api.xepelin.com
 beta-app.xepelin.com
 airflow.data.xepelin.com
 global-api.cl.xepelin.com
-fondos.xepelin.com
-www.dashboard.xepelin.com
+dashboard.xepelin.com
 magic-token.xepelin.com
 developers.xepelin.com
 analytics.xepelin.com
@@ -75,7 +73,6 @@ monetization.xepelin.com
 crm.xepelin.com
 production.mx.xepelin.com
 saas-users.mx.xepelin.com
-gth.xepelin.com
 blackops-cessions.api.xepelin.com
 vpn-access.xepelin.com
 bitwarden.xepelin.com

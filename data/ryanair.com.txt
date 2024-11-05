@@ -13,7 +13,6 @@ info.ryanair.com
 _sip._tls.ryanair.com
 enterpriseenrollment.ryanair.com
 mail.ryanair.com
-www.ryanair.com
 maintenace.nginx.fr162-128.ryanair.com
 help.ryanair.com
 test.ryanair.com
@@ -68,8 +67,7 @@ mntappbp.ryanair.com
 sit-mntappbp.ryanair.com
 oat-mntappbp.ryanair.com
 dev-mntappbp.ryanair.com
-www.se.hotels.ryanair.com
-www.dk.hotels.ryanair.com
+dk.hotels.ryanair.com
 tickets.ryanair.com
 gops.ryanair.com
 fopstraining.ryanair.com

@@ -976,7 +976,6 @@ sandboxwebsite-demo1.opfin.com
 h-opfin-weighted.opfin.com
 stage-staging.opfin.com
 opfin-prod-white-ext-6.opfin.com
-www.opfin.com
 production-compliance.opfin.com
 tomcatopfin-prod-green-ext.opfin.com
 prod-opfin-stage1.opfin.com
@@ -4133,4 +4132,3 @@ trial-opfin-prod-white-ext.opfin.com
 4demo2.opfin.com
 opfin-prod-green-extpage.opfin.com
 opfin-prod-green-page.opfin.com
-*.opfin.com

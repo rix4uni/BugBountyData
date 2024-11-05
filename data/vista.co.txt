@@ -1,8 +1,7 @@
-*.vista.co
-*.app.vista.co
-*.au1.app.vista.co
-*.sandbox.vista.co
-*.stg-au1.app.vista.co
+app.vista.co
+au1.app.vista.co
+sandbox.vista.co
+stg-au1.app.vista.co
 103-56-49-229.furu-power.costatic.vista.co
 103.19.vista.co
 103.196.222.66.rev.pcplc.vista.co
@@ -13,8 +12,6 @@ akrp01.vista.co
 akwap01.vista.co
 amazon-live.status.app.vista.co
 api.vista.co
-app.vista.co
-au1.app.vista.co
 autodiscover.vista.co
 av.vista.co
 brand.vista.co
@@ -82,7 +79,6 @@ r2.static.vista.co
 realtime-demo.uat.vista.co
 realtime-lukas.uat.vista.co
 realtime.uat.vista.co
-sandbox.vista.co
 scepman.vista.co
 sd.stg-au1.app.vista.co
 servicediscovery.stg-au1.app.vista.co
@@ -92,7 +88,6 @@ sperry.status.app.vista.co
 start-stop-vms.app.vista.co
 start-stop-vms.sandbox.vista.co
 static.vista.co
-stg-au1.app.vista.co
 support.vista.co
 test.vista.co
 test.uat.vista.co
@@ -116,11 +111,8 @@ webflow-brand.vista.co
 webflow1.vista.co
 webmail.vista.co
 wpm.stg-au1.app.vista.co
-www.vista.co
-www.lsweb-ext.vista.co
-www.sip.vista.co
 youcinema.status.app.vista.co
-*.status.app.vista.co
+status.app.vista.co
 major.status.app.vista.co
 patnl.status.app.vista.co
 aksmtp02.vista.co
@@ -150,7 +142,6 @@ cinedt.status.app.vista.co
 flixbh.status.app.vista.co
 united-web2.app.vista.co
 download.vista.co
-status.app.vista.co
 web.vista.co
 vpn2.vista.co
 akcppm.vista.co

@@ -146,7 +146,6 @@ edifactoringtest.centric.eu
 dbs01.da.centric.eu
 smc.centric.eu
 studytube.apps1.centric.eu
-www.centric.eu
 portal.sbr.centric.eu
 portal.services.centric.eu
 cbo-apigateway.centric.eu
@@ -200,9 +199,5 @@ enterpriseregistration.centric.eu
 rabo.logilink.centric.eu
 remote-support.centric.eu
 ssd.service.centric.eu
-*.ssd.service.centric.eu
 betalen-dev.centric.eu
-*.betalen-dev.centric.eu
-www.craft.centric.eu
-*.ebeheer-burgerzaken.centric.eu
 ebeheer-burgerzaken.centric.eu

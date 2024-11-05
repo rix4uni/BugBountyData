@@ -1,6 +1,5 @@
 wwwsec.szkb.ch
-*.szkb.ch
-*.xm.szkb.ch
+xm.szkb.ch
 activation.szkb.ch
 activation-test.szkb.ch
 activation-test-old.szkb.ch
@@ -114,16 +113,12 @@ vswtest.szkb.ch
 wlan.szkb.ch
 worxhome.xm.szkb.ch
 worxhometest.xm.szkb.ch
-www.szkb.ch
 www-new.szkb.ch
 www-tst.szkb.ch
 www-tst-old.szkb.ch
-www.live.szkb.ch
-www.newsletter.szkb.ch
 wwwsec-t1.szkb.ch
 wwwsec-test.szkb.ch
 wwwsec-test-old.szkb.ch
-xm.szkb.ch
 viseca-api-prod.szkb.ch
 viseca-api-apim-test.szkb.ch
 ebill-mq-test.szkb.ch

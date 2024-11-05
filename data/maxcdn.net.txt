@@ -22,10 +22,6 @@ test03-lax06.maxcdn.net
 thor-01-dal05.maxcdn.net
 vpn-sl-vir05.maxcdn.net
 web01.maxcdn.net
-www.cacti.maxcdn.net
-www.nagios.maxcdn.net
-www.yum.maxcdn.net
 yum.maxcdn.net
 kallout.maxcdn.net
-www.trynt.maxcdn.net
-*.maxcdn.net
+trynt.maxcdn.net

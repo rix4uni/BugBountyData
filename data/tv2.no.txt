@@ -65,12 +65,12 @@ extern-gwy2.tv2.no
 sumo.tv2.no
 webreports.tv2.no
 wmlnix4.tv2.no
-www.lb.tv2.no
+lb.tv2.no
 tlmanager.tv2.no
 baltus.tv2.no
 b2-176.tv2.no
 bits-modules-prod.aws16.tv2.no
-www.rekruttering.tv2.no
+rekruttering.tv2.no
 developer.tv2.no
 hl2.tv2.no
 id-dev.tv2.no
@@ -81,7 +81,7 @@ lab2.tv2.no
 grafana.admin.dev-rp.aws7.tv2.no
 remoteapps.tv2.no
 tags-stage.cloud.tv2.no
-www.tourmanager.tv2.no
+tourmanager.tv2.no
 sudo.jenkins.tv2.no
 testextmitt.tv2.no
 akhq.admin.rp.aws7.tv2.no
@@ -171,7 +171,7 @@ aphaproxy001.apf.tv2.no
 b2-165.tv2.no
 doorway.tv2.no
 helmut-test.vidispine-test.tv2.no
-www.seriehosten.sumo.tv2.no
+seriehosten.sumo.tv2.no
 test.golang.tv2.no
 b2-172.tv2.no
 dig2.tv2.no
@@ -182,7 +182,6 @@ alb.tips.cloud.tv2.no
 kibana.admin.dev-rp.aws7.tv2.no
 webtvsupport.tv2.no
 idolspill.tv2.no
-tourmanager.tv2.no
 zebra.tv2.no
 wifi2b.tv2.no
 ssl.3.damoh.tv2.no
@@ -198,7 +197,7 @@ b2-164.tv2.no
 beta.tv2.no
 info.tv2.no
 ip-dev.cloud.tv2.no
-www.ad.test-rp.aws7.tv2.no
+ad.test-rp.aws7.tv2.no
 stage-play.tv2.no
 presseinfo.tv2.no
 testagreemitt.tv2.no
@@ -249,7 +248,6 @@ ftp.tv2.no
 mobil.tv2.no
 tags-dev.cloud.tv2.no
 sm.tv2.no
-rekruttering.tv2.no
 image.labrador.tv2.no
 cnx.tv2.no
 mingat.tv2.no
@@ -272,13 +270,13 @@ dev.gcloud.tv2.no
 caddy.aws6.tv2.no
 ceal.tv2.no
 pexipedge02.tv2.no
-www.sumosommer.sumo.tv2.no
+sumosommer.sumo.tv2.no
 b2-177.tv2.no
 b2-179.tv2.no
 cuecards.tv2.no
 sports-api.aws13.sumo.tv2.no
 wapb.tv2.no
-www.premierleague.sumo.tv2.no
+premierleague.sumo.tv2.no
 sudo-stage.jenkins.tv2.no
 stage-sumo.tv2.no
 go.tv2.no
@@ -309,8 +307,7 @@ dialog.tv2.no
 gw2.sandbox-gke.gcloud.tv2.no
 app.ad.dev-rp.aws7.tv2.no
 gatekeeper.tv2.no
-www.probe.dev.gcloud.tv2.no
-www.ad.dev-rp.aws7.tv2.no
+ad.dev-rp.aws7.tv2.no
 ip-dev.tv2.no
 adweb.test-rp.aws7.tv2.no
 bridge3.tv2.no
@@ -331,7 +328,6 @@ dev.ip-test.tv2.no
 alertmanager.admin.dev-rp.aws7.tv2.no
 grafana.admin.rp.aws7.tv2.no
 valg.tv2.no
-premierleague.sumo.tv2.no
 escimo.tv2.no
 sportpremium2.tv2.no
 breaking-api.alpha.tv2.no
@@ -383,7 +379,6 @@ static.tv2.no
 fb.tv2.no
 eunet.tv2.no
 logit.tv2.no
-seriehosten.sumo.tv2.no
 wmlnix3.tv2.no
 wmosl5-3.tv2.no
 labrador.tv2.no
@@ -415,7 +410,7 @@ bgosg01.tv2.no
 oauthproxy.admin.dev-rp.aws7.tv2.no
 prometheus.admin.test-rp.aws7.tv2.no
 pub.cdn.tv2.no
-www.underholdning.sumo.tv2.no
+underholdning.sumo.tv2.no
 aws42.tv2.no
 golang.tv2.no
 sports-api2-stage.aws13.sumo.tv2.no
@@ -443,7 +438,7 @@ resultatservice-api.stage-sumo.tv2.no
 hjelp.tv2.no
 rikstoto-ftp.tv2.no
 scan4.tv2.no
-www.tv2.no.prod.tv2.no
+tv2.no.prod.tv2.no
 direktesport-prod.ai.tv2.no
 ppd.tv2.no
 balder.tv2.no
@@ -475,7 +470,6 @@ stage.int.tv2.no
 dig5.tv2.no
 loki-stage.jenkins.tv2.no
 pki1.tv2.no
-www.cdn.tv2.no
 api.tv2.no
 mitt.tv2.no
 politisk.tv2.no
@@ -498,7 +492,6 @@ d2-jenkins.aws-dev.tv2.no
 enterpriseenrollment.tv2.no
 odasb-scan.tv2.no
 ops.admin.rp.aws7.tv2.no
-www.tv2.no
 agresso.tv2.no
 ap2.tv2.no
 dig6.tv2.no
@@ -546,7 +539,6 @@ ap1.tv2.no
 ap.dev.gcloud.tv2.no
 b2-187.tv2.no
 b2-188.tv2.no
-sumosommer.sumo.tv2.no
 sumosupport.tv2.no
 stage.tv2.no
 frihet.tv2.no
@@ -587,10 +579,9 @@ sso-test.tv2.no
 sumotm.tv2.no
 vm.sumo.tv2.no
 news.tv2.no
-underholdning.sumo.tv2.no
 pki0.tv2.no
 client.stories.tv2.no
-www.ad.rp.aws7.tv2.no
+ad.rp.aws7.tv2.no
 test.pippen.tv2.no
 dashboard.admin.test-rp.aws7.tv2.no
 vmtips.tv2.no

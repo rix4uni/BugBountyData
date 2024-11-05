@@ -1,5 +1,4 @@
 enterpriseregistration.swr.de
-www.swr.de
 www1-origin.swr.de
 d.swr.de
 msoid.swr.de
@@ -99,10 +98,9 @@ wm-ondemand.swr.de
 mrxcox.swr.de
 mp3-download.swr.de
 regionale-genuesse.swr.de
-www.itsp.swr.de
+itsp.swr.de
 certauth.adfs.swr.de
 domino10.swr.de
-itsp.swr.de
 vturemeet.swr.de
 geschichte-des-suedwestens.swr.de
 g4931000.swr.de
@@ -116,7 +114,7 @@ picard.swr.de
 gastportal.swr.de
 radio.swr.de
 stg-217-066-035-006.swr.de
-www.mft-test.swr.de
+mft-test.swr.de
 mainzbleibtmainz.swr.de
 wahlergebnisse.swr.de
 traveler-wm2014.swr.de
@@ -128,7 +126,7 @@ webmail-mnz.swr.de
 mp3-live.swr.de
 ardwm2010.swr.de
 gast.swr.de
-www.ip6lab.swr.de
+ip6lab.swr.de
 itsm.swr.de
 stg-217-066-035-003.swr.de
 onair-dev.swr.de
@@ -143,14 +141,14 @@ s0000167.swr.de
 stg-fhtx-3220-acc-254-dmz4.swr.de
 webtaxi.swr.de
 wma-live.swr.de
-www.media-gw.swr.de
+media-gw.swr.de
 bewerberportalng.swr.de
 ard-buffet-app.swr.de
 vdevs.swr.de
 syncplicity.swr.de
 smaug.swr.de
 wm2014.swr.de
-www.hub.swr.de
+hub.swr.de
 smaug6.swr.de
 notfallrettung.swr.de
 av-dl.swr.de
@@ -158,12 +156,12 @@ s0003136.swr.de
 fc-ondemand.swr.de
 citrix-poc.swr.de
 fx1.swr.de
-www.incontrol.swr.de
+incontrol.swr.de
 multipacmultimedia-static.swr.de
 shiftjugglertest.swr.de
 s0000168.swr.de
 mobil.swr.de
-www.dev-mps-service.swr.de
+dev-mps-service.swr.de
 regio.swr.de
 s0000188.swr.de
 wm2010.swr.de
@@ -175,13 +173,11 @@ audiogram.lab.swr.de
 prod-mps.swr.de
 slnweb01.swr.de
 ftpproxy.swr.de
-www.vturemeet.swr.de
 virtuell.swr.de
 nano.swr.de
 gfn.lab.swr.de
 ard-buffet.swr.de
 cosinus.swr.de
-dev-mps-service.swr.de
 mdb.swr.de
 bad-194-127-132-200.swr.de
 greenguardiansvr.swr.de
@@ -190,12 +186,10 @@ webmail-bad.swr.de
 wmv-live.swr.de
 s0000170.swr.de
 standby.swr.de
-incontrol.swr.de
 tv1k.swr.de
 wahlergebnisse-europawahl-2024-rlp.swr.de
-www.mp.swr.de
+mp.swr.de
 stories.swr.de
-mft-test.swr.de
 event-2.swr.de
 tim.swr.de
 wavewaretest.swr.de
@@ -230,7 +224,6 @@ live3.swr.de
 mp4-download.swr.de
 wahlergebnisse-bundestagswahl-2021-rlp.swr.de
 stg-217-066-035-008.swr.de
-mp.swr.de
 av-adaptive.swr.de
 eva-card.swr.de
 onlinebot.swr.de
@@ -240,9 +233,7 @@ dataquery.swr.de
 webstatic.swr.de
 mxe2.swr.de
 cms-besucherfuehrung.swr.de
-media-gw.swr.de
 datadev.swr.de
-hub.swr.de
 mp3-origin.swr.de
 s0003052.swr.de
 bad-194-127-132-002.swr.de
@@ -250,11 +241,10 @@ s0000166.swr.de
 s0000171.swr.de
 om.swr.de
 wahlergebnisse-kommunalwahl-2024-bw.swr.de
-www.newsletter.swr.de
+newsletter.swr.de
 liveradio-dev.swr.de
 stg-217-066-035-009.swr.de
-www.mdmstest.swr.de
-www.wissen.swr.de
+mdmstest.swr.de
 isa1.swr.de
 webcollaboration.swr.de
 free.swr.de
@@ -263,7 +253,6 @@ stg-217-066-035-002.swr.de
 waveware.swr.de
 ms-teams-sbc.swr.de
 wahlergebnisse-bundestagswahl-2021-bw.swr.de
-mdmstest.swr.de
 mp3.swr.de
 bad-194-127-132-001.swr.de
 stg-217-066-035-001.swr.de
@@ -283,7 +272,6 @@ rnfms.swr.de
 autodiscover.free.swr.de
 g4931010.swr.de
 origin-demo.swr.de
-newsletter.swr.de
 beta3.swr.de
 stg-217-066-035-007.swr.de
 slnweb02.swr.de
@@ -297,7 +285,6 @@ kaffee-oder-tee.swr.de
 depot1.swr.de
 stg-217-066-035-004.swr.de
 s0000169.swr.de
-www.balrog.swr.de
 globex.swr.de
 bahnticket.swr.de
 media.swr.de
@@ -318,4 +305,3 @@ m.swr.de
 codefest.swr.de
 fx3.swr.de
 sdw.swr.de
-www.presseportal.swr.de

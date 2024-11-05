@@ -203,7 +203,6 @@ avanade.avature.net
 demoadobe.avature.net
 astellasjapan.avature.net
 berenberg.avature.net
-www.avature.net
 delta.avature.net
 accenture.avature.net
 bicgraphic.avature.net
@@ -315,7 +314,7 @@ docusign-sandboxciti.avature.net
 auricobackgroundcheck-williamblair.integrations.avature.net
 facadepeoplefluentsandboxloreal.avature.net
 talentqassessment-citi.avature.net
-www.citi-sso.avature.net
+citi-sso.avature.net
 entitylistfeedjobindustry-mckinsey.integrations.avature.net
 predictiveindexassessmenttool-pi.integrations.avature.net
 smtp-iats-tc8.avature.net
@@ -520,7 +519,6 @@ entitylistfeedjobfunction-mckinseysandbox.integrations.avature.net
 hackerrankassessmenttool-ciscostageats.integrations.avature.net
 portalsuatbhp.avature.net
 testfacadejobsite.integrations.avature.net
-citi-sso.avature.net
 portals-jacobs.avature.net
 iatsapp-tc10.avature.net
 iatsapp-en16.avature.net
@@ -808,7 +806,7 @@ laitram.avature.net
 mail-ap05-crm-ms03.avature.net
 iatsapp-en29.avature.net
 voutiquelhoelker.avature.net
-www.chcm2-clientcertificate-qasiemens.avature.net
+chcm2-clientcertificate-qasiemens.avature.net
 whataburger.avature.net
 path.avature.net
 docusign-voutiquemchakrabarti.integrations.avature.net
@@ -844,7 +842,7 @@ _mta-sts.smtp-holt.avature.net
 sandbox2bhp-clientcertificate.avature.net
 mail-tc05-crm-ms01.avature.net
 smtp-iats-gu12.avature.net
-www.uatbhp-clientcertificate.avature.net
+uatbhp-clientcertificate.avature.net
 facadeechosignrest.integrations.avature.net
 indeedconnectapply-premium.integrations.avature.net
 portalsdbgroup.avature.net
@@ -1131,7 +1129,7 @@ broadbeanjobimport-integrationsqa.avature.net
 vfcsandbox.avature.net
 avatureveracode.avature.net
 indeedconnectapply-sandboxpepsicoglobalpontoon.integrations.avature.net
-www.mobiletrust2.avature.net
+mobiletrust2.avature.net
 guccigroup.avature.net
 virtuosgames.avature.net
 iatsapp-th11.avature.net
@@ -1270,7 +1268,6 @@ linkedincsaprofileplugin-johnclements.integrations.avature.net
 testfacadecuteintegrationsqa.avature.net
 webcrowd.avature.net
 intercaretherapy.avature.net
-uatbhp-clientcertificate.avature.net
 providence.avature.net
 testtlsmigration.avature.net
 williamblair.avature.net
@@ -1303,7 +1300,7 @@ kellyinternalta.avature.net
 facadebcgcontactinfointegrationsqa.avature.net
 indeedconnectapply-sandboxindeed.avature.net
 sparkhireinterviews-pimco.integrations.avature.net
-www.mobiletrust.avature.net
+mobiletrust.avature.net
 executiverpo.avature.net
 voutiqueaccountmgmt1.avature.net
 linkedinmiddlewarewidget-integrations.integrations.avature.net
@@ -1383,7 +1380,6 @@ mail-crm-rr03-5.avature.net
 smtp-schmitt.avature.net
 sparkhireinterviews-uop.integrations.avature.net
 sandboxlululemoninc.avature.net
-www.sandboxnuffield-clientcertificate.avature.net
 premium.avature.net
 docusign-junioradventuresgroup.avature.net
 docusign-voutiquetburns.integrations.avature.net
@@ -1513,7 +1509,7 @@ executivesurf.avature.net
 hirerightsandboxcbs-integrations.integrations.avature.net
 sandboxregeneron.avature.net
 sandboxnikeglobal.avature.net
-www.cs-cdn.avature.net
+cs-cdn.avature.net
 kohls.avature.net
 portalaccenture.avature.net
 worklight.avature.net
@@ -1563,7 +1559,6 @@ jamcrackers3metadataimport-integrationsqa.integrations.avature.net
 mail-tc-crm-sa01.avature.net
 portalfbcareers.avature.net
 synopsys.avature.net
-cs-cdn.avature.net
 avasso-en2.avature.net
 broadbeanjobexport-sandboxrl.integrations.avature.net
 eu1.avature.net
@@ -1622,7 +1617,6 @@ workdaypeopleexportforkohls-sandboxkohls.integrations.avature.net
 iatsapp-prod-gu08.avature.net
 xerox.avature.net
 kellyrpo.avature.net
-chcm2-clientcertificate-qasiemens.avature.net
 generalatomics.avature.net
 hackerrankassessmenttool-sandboxtwosigma.avature.net
 portalgileadgermancareer.avature.net
@@ -1843,7 +1837,6 @@ firstadvantagebgcheck-gilead.avature.net
 smtp-iatsapp-th1.avature.net
 tazworksbackgroundcheck-sandboxuop.integrations.avature.net
 portalsorangetheory.avature.net
-mobiletrust.avature.net
 mail-th05-crm-ms02.avature.net
 mail-th07-crm-sg01.avature.net
 sandboxdeloitteglobal2.avature.net
@@ -2095,7 +2088,6 @@ smtp-iats-gu16.avature.net
 sonosportals.avature.net
 switchtoreplicatest.avature.net
 sandboxzungfu.avature.net
-mobiletrust2.avature.net
 kpmgcampus.avature.net
 scbxmljobfeed-sandboxscb1.integrations.avature.net
 demoailen.avature.net
@@ -2246,7 +2238,6 @@ linkedininats-epic.integrations.avature.net
 testfacadeigrasp.integrations.avature.net
 stagingunifi.avature.net
 voutiquekhyskell2.avature.net
-www.nuffield-clientcertificate.avature.net
 equestjobexport-stagingikea.integrations.avature.net
 sandboxrei.avature.net
 voutiqueaclancy.avature.net
@@ -2282,7 +2273,6 @@ hireright-integrationsqa.integrations.avature.net
 smtp-iats-we16.avature.net
 docusign-colorado.avature.net
 hireright-ciscostageats.avature.net
-www.chcm2-clientcertificate-siemens.avature.net
 linkedinoneclick-dhlconsulting.integrations.avature.net
 smtp-iats-ap6.avature.net
 testfacadeechosign.avature.net

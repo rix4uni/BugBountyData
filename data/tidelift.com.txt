@@ -1,8 +1,7 @@
 blog.tidelift.com
 sl.tidelift.com
-www.tidelift.com
-www.carefirst-proxy-jwt.tidelift.com
-www.carefirst-proxy-test.tidelift.com
+carefirst-proxy-jwt.tidelift.com
+carefirst-proxy-test.tidelift.com
 hooks.tidelift.com
 trust.tidelift.com
 carefirst-proxy-jwt-test.tidelift.com
@@ -10,14 +9,10 @@ community.tidelift.com
 discourse.tidelift.com
 docs.tidelift.com
 forum.tidelift.com
-www.carefirst-proxy.tidelift.com
-app.tidelift.com
 carefirst-proxy.tidelift.com
-carefirst-proxy-jwt.tidelift.com
+app.tidelift.com
 status-test.tidelift.com
-www.carefirst-proxy-jwt-test.tidelift.com
 api.tidelift.com
-carefirst-proxy-test.tidelift.com
 download.tidelift.com
 explore.tidelift.com
 status.tidelift.com

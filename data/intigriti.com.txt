@@ -29,7 +29,7 @@ api-stage.intigriti.com
 jobs-demo.intigriti.com
 mail.intigriti.com
 www-stage.intigriti.com
-www.careers.intigriti.com
+careers.intigriti.com
 click.intigriti.com
 autodiscover.intigriti.com
 acme-test.intigriti.com
@@ -37,7 +37,6 @@ uat.intigriti.com
 go.intigriti.com
 status.intigriti.com
 www-demo.intigriti.com
-careers.intigriti.com
 login.intigriti.com
 login-uat.intigriti.com
 proxy-token-requester.tools.intigriti.com
@@ -52,7 +51,6 @@ app-stage.intigriti.com
 login-demo.intigriti.com
 communication-stage.intigriti.com
 api-external-v1.intigriti.com
-www.intigriti.com
 lyncdiscover.intigriti.com
 int.stage.intigriti.com
 api-company-v1.intigriti.com
@@ -61,14 +59,6 @@ int.uat.intigriti.com
 int.intigriti.com
 int.prod.intigriti.com
 mta-sts.intigriti.com
-*.uat.intigriti.com
-*.int.prod.intigriti.com
-*.prod.intigriti.com
-*.int.stage.intigriti.com
-*.stage.intigriti.com
-*.int.uat.intigriti.com
-*.intigriti.com
-*.int.intigriti.com
 api-internal.intigriti.com
 api-internal.prod.intigriti.com
 api.prod.intigriti.com

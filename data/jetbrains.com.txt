@@ -17,10 +17,10 @@ oauth2-proxy-api.api.jetbrains.com
 riderflow-support.jetbrains.com
 configr.jetbrains.com
 internship.jetbrains.com
-www.pages.jetbrains.com
+pages.jetbrains.com
 fleet-support.jetbrains.com
 jetrotate.jetbrains.com
-www.enc.ns-bank.jetbrains.com
+enc.ns-bank.jetbrains.com
 data.services.jetbrains.com
 package-collector.dev.package-search.services.jetbrains.com
 guide.master-zdchint.mau.jetbrains.com
@@ -33,7 +33,7 @@ dotnettools-support.jetbrains.com
 ny2018-munich.jetbrains.com
 api.prod.package-search.services.jetbrains.com
 spotify.fls.jetbrains.com
-www.hub.jetbrains.com
+hub.jetbrains.com
 adobe.fls.jetbrains.com
 konnector.services.jetbrains.com
 dev.space.remote-dev-education.jetbrains.com
@@ -45,9 +45,9 @@ feedback.support.jetbrains.com
 stackexchange.dev-zdchint.mau.jetbrains.com
 test01.dev.space.remote-dev-education.jetbrains.com
 thankyou.services.jetbrains.com
-www.surveys.jetbrains.com
+surveys.jetbrains.com
 staging.zdviewcount.mau.jetbrains.com
-www.ssl.ns-bank.jetbrains.com
+ssl.ns-bank.jetbrains.com
 amazon.fls.jetbrains.com
 download.plugins.jetbrains.com
 cadence.jetbrains.com
@@ -59,7 +59,7 @@ oauth.fls.jetbrains.com
 staging.cloudconfig.jetbrains.com
 fromwww.jetbrains.com
 teamcity-support.jetbrains.com
-www.account.jetbrains.com
+account.jetbrains.com
 analytics.services.jetbrains.com
 jbstats.jetbrains.com
 kotlin-build-cache-int.services.jetbrains.com
@@ -78,7 +78,6 @@ services.jetbrains.com
 stackexchange-dev.dev-zdchint.mau.jetbrains.com
 dotx.jetbrains.com
 upsource.jetbrains.com
-pages.jetbrains.com
 uploads.jetbrains.com
 api-test.sandbox-resellers.jetbrains.com
 code2art-jetbrains-com.code2art.jetbrains.com
@@ -87,9 +86,8 @@ security-support.jetbrains.com
 slack-mps.jetbrains.com
 codewithme-lobby.api.jetbrains.com
 crmnext.jetbrains.com
-www.onboard.jetbrains.com
+onboard.jetbrains.com
 youtuback-mailer.jetbrains.com
-www.jetbrains.com
 es.prod.package-search.services.jetbrains.com
 academy.jetbrains.com
 account-alb.jetbrains.com
@@ -118,8 +116,7 @@ youtrack-workflow-converter.jetbrains.com
 admin.blog.jetbrains.com
 dotmemory-support.jetbrains.com
 pdb.jetbrains.com
-www.ea.jetbrains.com
-account.jetbrains.com
+ea.jetbrains.com
 mta-sts.jetbrains.com
 www-weighted.jetbrains.com
 youtube-dev.dev-zdchint.mau.jetbrains.com
@@ -140,7 +137,6 @@ code2art.jetbrains.com
 lobby-staging.fleet.api.jetbrains.com
 prod.zdviewcount.mau.jetbrains.com
 dpp.mau.jetbrains.com
-ea.jetbrains.com
 package-collector.prod.package-search.services.jetbrains.com
 friends-staging.services.jetbrains.com
 intellij-support.jetbrains.com
@@ -174,7 +170,7 @@ download.jetbrains.com
 konnector-staging.services.jetbrains.com
 dotpeek-support.jetbrains.com
 webmail.jetbrains.com
-www.jetpeople.jetbrains.com
+jetpeople.jetbrains.com
 youtube.dev-zdchint.mau.jetbrains.com
 www2.jetbrains.com
 frameworks.jetbrains.com
@@ -196,7 +192,6 @@ kotlin-demo.jetbrains.com
 tiles2.datalore.jetbrains.com
 youtrack-support.jetbrains.com
 dottrace-support.jetbrains.com
-enc.ns-bank.jetbrains.com
 jetsales.jetbrains.com
 tiles.datalore.jetbrains.com
 youtube.prod-zdchint.mau.jetbrains.com
@@ -226,7 +221,6 @@ active.jetprofile-prod.jetbrains.com
 artifacts.teamcity.jetbrains.com
 blogs-test.jetbrains.com
 marketplace.jetbrains.com
-onboard.jetbrains.com
 core.cadence.jetbrains.com
 download-ln.jetbrains.com
 guide-dev.dev-zdchint.mau.jetbrains.com
@@ -251,22 +245,16 @@ blogs-work-test-adm-12171.jetbrains.com
 datalore.jetbrains.com
 codewithme-relay-europe-north1-1.api.jetbrains.com
 confluence.jetbrains.com
-hub.jetbrains.com
 owa.jetbrains.com
-www.confluence.jetbrains.com
 f.jetbrains.com
-jetpeople.jetbrains.com
-surveys.jetbrains.com
 trust-center.jetbrains.com
 skyscanner.fls.jetbrains.com
-ssl.ns-bank.jetbrains.com
 comments.blog.jetbrains.com
 cache-redirector.jetbrains.com
 companions.jetbrains.com
 license-vault-support.jetbrains.com
 news.jetbrains.com
 qodana-support.jetbrains.com
-www.blogs.jetbrains.com
 datalore-forum.jetbrains.com
 resources-prod.jetbrains.com
 sales.jetbrains.com
@@ -277,4 +265,3 @@ idetalk.jetbrains.com
 computeservice.dev.space.remote-dev-education.jetbrains.com
 hacktoberfest2020.mau.jetbrains.com
 jetpost.services.jetbrains.com
-*.fls.jetbrains.com

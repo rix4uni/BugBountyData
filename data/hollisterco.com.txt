@@ -1,6 +1,5 @@
 cert-es.hollisterco.com
 giftcards.hollisterco.com
-www.hollisterco.com
 cert-de-eu.m.hollisterco.com
 m.de-eu.hollisterco.com
 cert-es.m.hollisterco.com
@@ -31,7 +30,7 @@ cert.m.hollisterco.com
 omp.e.hollisterco.com
 e2.hollisterco.com
 e.hollisterco.com
-www.smetrics.hollisterco.com
+smetrics.hollisterco.com
 careers-test.hollisterco.com
 cert-fr-eu.m.hollisterco.com
 it-eu.hollisterco.com
@@ -52,7 +51,6 @@ hol-xml.hollisterco.com
 it.hollisterco.com
 m.it-eu.hollisterco.com
 m.hollisterco.com
-smetrics.hollisterco.com
 es.hollisterco.com
 downloads.hollisterco.com
 zh-hk.hollisterco.com
@@ -90,12 +88,10 @@ test-origin-www.hollisterco.com
 track.hollisterco.com
 cert-de-eu.hollisterco.com
 careers-qa.hollisterco.com
-www.careers.hollisterco.com
 www04.hollisterco.com
 trackuk.hollisterco.com
 ready.hollisterco.com
 qa-clubcali.hollisterco.com
-www.careers2.hollisterco.com
 cert-giftcards-egapi.hollisterco.com
 cert-uk.hollisterco.com
 hol-xmlsrv1.hollisterco.com
@@ -129,18 +125,6 @@ uk.hollisterco.com
 tracking.hollisterco.com
 metrics.hollisterco.com
 img-cert.hollisterco.com
-*.hollisterco.com
-*.eu.hollisterco.com
-*.dev.hollisterco.com
-*.de-eu.hollisterco.com
-*.es-eu.hollisterco.com
-*.es.hollisterco.com
-*.fr-eu.hollisterco.com
-*.it-eu.hollisterco.com
-*.m.hollisterco.com
-*.nl-eu.hollisterco.com
-*.cert.hollisterco.com
-*.www03.hollisterco.com
 click.email.hollisterco.com
 http-dictionary-reference-com-0-4.es-eu.hollisterco.com
 https-upload-wikimedia-org-0-6.hollisterco.com
@@ -165,6 +149,5 @@ www1-m.hollisterco.com
 533a7d7f619a456caff4aa2b0433a811.hollisterco.com
 e.webagency.realizzazionesitionl.hollisterco.com
 max.hollisterco.com
-www.giftcards.hollisterco.com
 mg.tm.hollisterco.com
 mg.em.hollisterco.com

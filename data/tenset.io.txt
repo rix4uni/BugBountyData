@@ -3,7 +3,6 @@ infinity.tenset.io
 data.tenset.io
 gitlab.tenset.io
 294-d84080s.dev.tenset.io
-www.infinity.tenset.io
 registry.tenset.io
 105.m00sosg.dev.tenset.io
 claimback.tenset.io
@@ -15,20 +14,17 @@ f321659fdf99467f81327e3b96222fc5.tenset.io
 demo.tenset.io
 cdn-static.tenset.io
 marketplace.tenset.io
-www.tenset.io
 docs.tenset.io
 tglp.tenset.io
 auto.tenset.io
 cdn.tenset.io
 email.tenset.io
-www.tglp.tenset.io
 walletapi.tenset.io
 api2.tenset.io
 api2-testnet.tenset.io
 appform.tenset.io
 bridge-ctrl.tenset.io
 korea-tglp.tenset.io
-www.korea-tglp.tenset.io
 bridge.tenset.io
 v1.api.tenset.io
 api.tenset.io
@@ -38,4 +34,3 @@ s.tenset.io
 303-d84080s.dev.tenset.io
 286-d84080s.dev.tenset.io
 302-d84080s.dev.tenset.io
-*.dev.tenset.io

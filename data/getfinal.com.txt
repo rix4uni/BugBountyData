@@ -7,18 +7,16 @@ apply.getfinal.com
 community.getfinal.com
 fapi2-dev.getfinal.com
 update-api.qa1.getfinal.com
-www.security.getfinal.com
+security.getfinal.com
 api.getfinal.com
 authengine.qa2.getfinal.com
 ftp.dev2.getfinal.com
-security.getfinal.com
 authengine.qa1.getfinal.com
 dashboard.stage.getfinal.com
 vpn.qa1.getfinal.com
-www.dev.prepaid.getfinal.com
+dev.prepaid.getfinal.com
 em.getfinal.com
 o1.em.getfinal.com
-www.getfinal.com
 support.getfinal.com
 api.issuing.qa2.getfinal.com
 api.prepaid.getfinal.com
@@ -28,9 +26,7 @@ signup.getfinal.com
 stage.getfinal.com
 update-api.qa2.getfinal.com
 authengine.dev2.getfinal.com
-www.api.getfinal.com
 dashboard.getfinal.com
-dev.prepaid.getfinal.com
 ftp.qa2.getfinal.com
 outbound.prod1.getfinal.com
 update-api.getfinal.com
@@ -39,4 +35,3 @@ dev.getfinal.com
 internal.getfinal.com
 staging.getfinal.com
 vpn.qa2.getfinal.com
-www.api.dev.getfinal.com

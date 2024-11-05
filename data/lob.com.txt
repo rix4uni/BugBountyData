@@ -1,7 +1,6 @@
-*.lob.com
-*.hg.lob.com
-*.production-apps.lob.com
-*.render-production-apps.lob.com
+hg.lob.com
+production-apps.lob.com
+render-production-apps.lob.com
 address-autocomplete.lob.com
 address-doctor.lob.com
 address-scrollyteller.lob.com
@@ -38,7 +37,6 @@ groups.lob.com
 hello.lob.com
 help.lob.com
 help2.lob.com
-hg.lob.com
 integrations.lob.com
 jss.lob.com
 lens.lob.com
@@ -62,11 +60,9 @@ partners-api.lob.com
 partners-old.lob.com
 partners-portal.lob.com
 pizza-planet.lob.com
-production-apps.lob.com
 production-consul.lob.com
 production-nomad.lob.com
 production-traefik.lob.com
-render-production-apps.lob.com
 render-production-consul.lob.com
 render-production-nomad.lob.com
 render-production-traefik.lob.com
@@ -94,7 +90,6 @@ webhook-adapter.lob.com
 webhooks-ingestion.lob.com
 woody.lob.com
 wp.lob.com
-www.lob.com
 addressdata.lob.com
 api-ncsp-qa.production-apps.lob.com
 api-proxy.production-apps.lob.com
@@ -136,7 +131,7 @@ vibe-social-notification-yql.production-apps.lob.com
 w.lob.com
 webhook-adapter.production-apps.lob.com
 webhooks.lob.com
-www.team.lob.com
+team.lob.com
 69pb.render-production-apps.lob.com
 754-8-1.render-production-apps.lob.com
 public.lob.com
@@ -192,7 +187,6 @@ dmz.production-apps.lob.com
 temp.production-apps.lob.com
 wind4.production-apps.lob.com
 ga4.production-apps.lob.com
-www.production-apps.lob.com
 319-22.production-apps.lob.com
 oflags.lob.com
 faq.production-apps.lob.com

@@ -15,11 +15,9 @@ post.placeb.ch
 socket.prod.placeb.ch
 socket.stage.placeb.ch
 media.placeb.ch
-www.stage.placeb.ch
 api-stage.placeb.ch
 app.placeb.ch
 webapp2.placeb.ch
-www.placeb.ch
 placeb.placeb.ch
 server.placeb.ch
 cdn.placeb.ch
@@ -27,4 +25,3 @@ webapp-release.placeb.ch
 api-testing.placeb.ch
 boxfinder.placeb.ch
 api.placeb.ch
-*.placeb.ch

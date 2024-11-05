@@ -4,7 +4,6 @@ hledger-ui-experiment.app.unit410.com
 iap.lcd.dydx-mainnet.nodes.unit410.com
 iap.rpc.dydx-mainnet.nodes.unit410.com
 s12.bittensor-validator.mainnet.nodes.unit410.com
-www.s12.bittensor-validator.mainnet.nodes.unit410.com
 cs-broadcaster-service-prod.app.unit410.com
 chatui-production.app.unit410.com
 iap.consensus-api.eth-public-nodes.nodes.unit410.com

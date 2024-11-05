@@ -9,10 +9,8 @@ kong-graph.stage.k8s.onepeloton.at
 auth-orca.stage.k8s.onepeloton.at
 exposed-clb-demo-rbourne-suite.stage.k8s.onepeloton.at
 exposed-nlb-demo-rbourne-suite.test.k8s.onepeloton.at
-www.onepeloton.at
 auth-orca.prod.k8s.onepeloton.at
 user-identity-nginx.prod.k8s.onepeloton.at
-www.test.onepeloton.at
 exposed-clb-demo-rbourne-suite.dev.k8s.onepeloton.at
 public-clb-demo-rbourne-suite.dev.k8s.onepeloton.at
 public-clb-demo-rbourne-suite.test.k8s.onepeloton.at
@@ -46,6 +44,3 @@ exposed-nlb-demo-rbourne-suite.stage.k8s.onepeloton.at
 exposed-clb-demo-rbourne-suite.prod.k8s.onepeloton.at
 kong-graph.prod.k8s.onepeloton.at
 demo-rbourne-suite.dev.k8s.onepeloton.at
-*.onepeloton.at
-*.test.onepeloton.at
-*.xtest.onepeloton.at

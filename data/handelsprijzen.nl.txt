@@ -3,7 +3,6 @@ cluster.handelsprijzen.nl
 storage01.cluster.handelsprijzen.nl
 web02.cluster.handelsprijzen.nl
 hostmaster.handelsprijzen.nl
-www.handelsprijzen.nl
 lb01.cluster.handelsprijzen.nl
 web01.cluster.handelsprijzen.nl
 ns2.handelsprijzen.nl

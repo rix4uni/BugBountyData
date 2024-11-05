@@ -1,5 +1,4 @@
-*.laurelroad.com
-*.dcfrauddept.laurelroad.com
+dcfrauddept.laurelroad.com
 amp-gcp-qa.np.laurelroad.com
 amp-homelending-dev.np.laurelroad.com
 amp-origin-gcp-dev-np.laurelroad.com
@@ -50,7 +49,6 @@ cms-origin-uat.pp.laurelroad.com
 cms-uat.pp.laurelroad.com
 dashboard-dev-dr-2.np.laurelroad.com
 dashboard-dev-dr.np.laurelroad.com
-dcfrauddept.laurelroad.com
 dev.laurelroad.com
 dev.blaze.laurelroad.com
 email.laurelroad.com
@@ -218,7 +216,6 @@ tableau-dev-np.laurelroad.com
 tableau-dev.np.laurelroad.com
 tableau-origin-gcp.np.laurelroad.com
 tableau-uat-pp.laurelroad.com
-www.laurelroad.com
 member.laurelroad.com
 member.origin.laurelroad.com
 origin.pr.laurelroad.com

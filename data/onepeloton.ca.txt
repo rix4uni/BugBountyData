@@ -1,6 +1,5 @@
 account.onepeloton.ca
 gql-argo-rollouts-poc.dev.k8s.onepeloton.ca
-www.onepeloton.ca
 members.onepeloton.ca
 ge.stage.k8s.onepeloton.ca
 gql-graphql-gateway.stage.k8s.onepeloton.ca
@@ -19,7 +18,6 @@ auth-orca-nginx.test.k8s.onepeloton.ca
 commercial.onepeloton.ca
 ccstores-uat.onepeloton.ca
 kong-graph.stage.k8s.onepeloton.ca
-www.house.onepeloton.ca
 house.onepeloton.ca
 kong-graph.test.k8s.onepeloton.ca
 uat.onepeloton.ca
@@ -52,7 +50,3 @@ qa1-www.onepeloton.ca
 cooldown-uat.onepeloton.ca
 api-qa1-toggle-light-uat-members.onepeloton.ca
 uat-members.onepeloton.ca
-*.onepeloton.ca
-*.test.onepeloton.ca
-*.xtest.onepeloton.ca
-*.secret.onepeloton.ca

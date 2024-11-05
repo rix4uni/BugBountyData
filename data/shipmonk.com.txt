@@ -1,9 +1,8 @@
-*.shipmonk.com
 demo-labels.shipmonk.com
 demo-void-shipment.shipmonk.com
 get.shipmonk.com
 public-images.shipmonk.com
-www.security.shipmonk.com
+security.shipmonk.com
 cubiscan.shipmonk.com
 warehousehub.shipmonk.com
 beta.shipmonk.com
@@ -35,7 +34,6 @@ supervisor.shipmonk.com
 beta.app.shipmonk.com
 demo-tracking.shipmonk.com
 demo-shopify-tracking.shipmonk.com
-security.shipmonk.com
 demo-onboarding.shipmonk.com
 api.shipmonk.com
 demo-3dpacking.shipmonk.com
@@ -47,11 +45,9 @@ pma.shipmonk.com
 demo-sales.shipmonk.com
 supporttest.shipmonk.com
 o205.ptr2432.shipmonk.com
-www.shipmonk.com
 sales.shipmonk.com
 demo-cubiscan.shipmonk.com
 demo-mysql8-tracking.shipmonk.com
 demo-wms.shipmonk.com
 labels-tracking.shipmonk.com
-www.get.shipmonk.com
 demo.shipmonk.com

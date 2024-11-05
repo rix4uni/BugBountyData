@@ -1,9 +1,8 @@
-*.manageengine.com
-*.endpointcentral.manageengine.com
-*.id360.manageengine.com
-*.jiraanalytics.manageengine.com
-*.sdpondemand.manageengine.com
-*.snowanalytics.manageengine.com
+endpointcentral.manageengine.com
+id360.manageengine.com
+jiraanalytics.manageengine.com
+sdpondemand.manageengine.com
+snowanalytics.manageengine.com
 42northdental.sdpondemand.manageengine.com
 acmesmokedfishcorp.sdpondemand.manageengine.com
 ad1community.manageengine.com
@@ -59,7 +58,6 @@ desktopcentral.manageengine.com
 df-maintenance.sdpondemand.manageengine.com
 download.manageengine.com
 duk.sdpondemand.manageengine.com
-endpointcentral.manageengine.com
 es.academia.manageengine.com
 espdesk.manageengine.com
 eurpacitsupport.sdpondemand.manageengine.com
@@ -81,7 +79,6 @@ helpdeskiidea.sdpondemand.manageengine.com
 hffoodsgroup.sdpondemand.manageengine.com
 hobsons.sdpondemand.manageengine.com
 hyla.sdpondemand.manageengine.com
-id360.manageengine.com
 id360-ro.manageengine.com
 identitymanager.manageengine.com
 iimka.sdpondemand.manageengine.com
@@ -94,7 +91,6 @@ inti.sdpondemand.manageengine.com
 it360.sdpondemand.manageengine.com
 it360demo.manageengine.com
 itglossary.manageengine.com
-jiraanalytics.manageengine.com
 jonesdairyfarm.sdpondemand.manageengine.com
 kirbside.sdpondemand.manageengine.com
 koncept.sdpondemand.manageengine.com
@@ -185,14 +181,12 @@ roadmap.manageengine.com
 rwgit.sdpondemand.manageengine.com
 sandboxlicensing.manageengine.com
 sandycityit.sdpondemand.manageengine.com
-sdpondemand.manageengine.com
 sdpondemand-dr.manageengine.com
 se.manageengine.com
 search.manageengine.com
 secvisionsd.sdpondemand.manageengine.com
 skmme.sdpondemand.manageengine.com
 smeco.sdpondemand.manageengine.com
-snowanalytics.manageengine.com
 solucionesestrategicas.sdpondemand.manageengine.com
 sonydadc.sdpondemand.manageengine.com
 status.manageengine.com
@@ -224,17 +218,6 @@ wms.manageengine.com
 wms1.manageengine.com
 workspace.manageengine.com
 wpengine.sdpondemand.manageengine.com
-www.manageengine.com
-www.alarmsone.manageengine.com
-www.blogsint.manageengine.com
-www.cdn2.manageengine.com
-www.delicensing.manageengine.com
-www.latampartners.manageengine.com
-www.mdm.manageengine.com
-www.rmp.manageengine.com
-www.sandboxlicensing.manageengine.com
-www.sysadminday.manageengine.com
-www.uklicensing.manageengine.com
 zengroup.sdpondemand.manageengine.com
 zs-us4-lc4.manageengine.com
 zs-us4-lcgiant.manageengine.com
@@ -260,7 +243,6 @@ wms2.sdpondemand.manageengine.com
 wms3.manageengine.com
 wms5.sdpondemand.manageengine.com
 wms8.manageengine.com
-www.adcommunity.manageengine.com
 agi.sdpondemand.manageengine.com
 analytics.manageengine.com
 archives2.manageengine.com
@@ -340,7 +322,6 @@ valderi.sdpondemand.manageengine.com
 winshuttle.sdpondemand.manageengine.com
 winstonind.sdpondemand.manageengine.com
 wmich.sdpondemand.manageengine.com
-www.buzz.manageengine.com
 content.sdpondemand.manageengine.com
 private.sdpondemand.manageengine.com
 gruppobitron.sdpondemand.manageengine.com
@@ -356,8 +337,6 @@ natben.sdpondemand.manageengine.com
 wms7.sdpondemand.manageengine.com
 wms4.sdpondemand.manageengine.com
 itetek.sdpondemand.manageengine.com
-www.tr.manageengine.com
-www.au.manageengine.com
 proconminingandtunnelling.sdpondemand.manageengine.com
 wms8.sdpondemand.manageengine.com
 xaloysupport.sdpondemand.manageengine.com
@@ -455,13 +434,11 @@ log360cspdemo.manageengine.com
 preforums.manageengine.com
 premdm.manageengine.com
 iplocation.manageengine.com
-www.userconf.manageengine.com
 patch-agent2-ro.manageengine.com
 patch-ro.manageengine.com
 plusalarmsone.manageengine.com
 presdpondemand.manageengine.com
 remoteaccess-agent.manageengine.com
-www.info.manageengine.com
 csrsign.manageengine.com
 desktopcentrallabcluster4-ro.manageengine.com
 formstest.manageengine.com
@@ -614,11 +591,9 @@ mdm-ro.manageengine.com
 webupdate.manageengine.com
 desktopcentralcluster1-ro.manageengine.com
 presaasmanagerplus-ro.manageengine.com
-www.ondemand.manageengine.com
 patchlabcluster6.manageengine.com
 mdmgrid-ro.manageengine.com
 predcgrid.manageengine.com
-www.gr.manageengine.com
 patchcluster4.manageengine.com
 zlabssearch360crmoldhelp.manageengine.com
 remoteaccesslab-ro.manageengine.com
@@ -663,7 +638,6 @@ prepatchmaster-ro.manageengine.com
 analyticspluswl.manageengine.com
 info1.manageengine.com
 mdmmaster-ro.manageengine.com
-www.adsolutions.manageengine.com
 log360adapdemo.manageengine.com
 predesktopcentral-ro.manageengine.com
 desktopcentral-ro.manageengine.com
@@ -719,7 +693,6 @@ desktopcentralpremium5-ro.manageengine.com
 aulicensing.manageengine.com
 devicetrustmdm-ro.manageengine.com
 preidentitymanager-ro.manageengine.com
-www.on-demand.manageengine.com
 preleadslg.manageengine.com
 sprints-ro.manageengine.com
 patch-agent3-ro.manageengine.com
@@ -773,7 +746,6 @@ patch-agent4.manageengine.com
 484eb0a4aa2cd5010af083e5d9476327.cm.manageengine.com
 desktopcentralcluster1.manageengine.com
 endpointcentral-agent0-ro.manageengine.com
-www.solution.manageengine.com
 log360uebademo.manageengine.com
 identitymanager-ro.manageengine.com
 zs-us3-lcpre-h2.manageengine.com
@@ -1203,7 +1175,7 @@ access.jiraanalytics.manageengine.com
 2017adm.jiraanalytics.manageengine.com
 13sample.jiraanalytics.manageengine.com
 admin220-helpdesk6.jiraanalytics.manageengine.com
-www.andrew.jiraanalytics.manageengine.com
+andrew.jiraanalytics.manageengine.com
 alierogoldencrescent.jiraanalytics.manageengine.com
 almakos.jiraanalytics.manageengine.com
 322d41c9bee3106d587cc603ee785685.jiraanalytics.manageengine.com
@@ -1742,7 +1714,6 @@ confluence.2014.jiraanalytics.manageengine.com
 2781130ac2ba5a0dd4a450243b2d929b.jiraanalytics.manageengine.com
 387175912311.jiraanalytics.manageengine.com
 addontrain0-img.jiraanalytics.manageengine.com
-www.alcon.jiraanalytics.manageengine.com
 7bc73d6f3d8d27083f01826fc28719dd.jiraanalytics.manageengine.com
 3meus2info.jiraanalytics.manageengine.com
 14-org5.jiraanalytics.manageengine.com
@@ -2696,7 +2667,6 @@ adarshsweets.jiraanalytics.manageengine.com
 15pre-log340feeds.jiraanalytics.manageengine.com
 admin3-mx-b.jiraanalytics.manageengine.com
 ad8community-list4.jiraanalytics.manageengine.com
-www.anchieta.jiraanalytics.manageengine.com
 2014iphone.jiraanalytics.manageengine.com
 4b13eb63c283b49a54a60cb684aaf02e.jiraanalytics.manageengine.com
 2231a174b7cba594b80ff2c6b7f32973.jiraanalytics.manageengine.com
@@ -2983,7 +2953,7 @@ audemo.manageengine.com
 akamaielb.jiraanalytics.manageengine.com
 almiron.jiraanalytics.manageengine.com
 4e27c6d55f021fbca830a9a7cfd777e4.jiraanalytics.manageengine.com
-www.adsolutions.jiraanalytics.manageengine.com
+adsolutions.jiraanalytics.manageengine.com
 80i9ku52b847m.jiraanalytics.manageengine.com
 0f4c8acb3978f280606f9b643cccfddd.jiraanalytics.manageengine.com
 10-log379cspdemo.jiraanalytics.manageengine.com
@@ -4708,7 +4678,6 @@ adsolutions-minerva.jiraanalytics.manageengine.com
 005-svc.jiraanalytics.manageengine.com
 pre-log363feeds-ro.2023.jiraanalytics.manageengine.com
 3e48ddc609eaf249cd952c751276314a.jiraanalytics.manageengine.com
-andrew.jiraanalytics.manageengine.com
 5e0bacc00fead89c47af29ca0eb59af8.jiraanalytics.manageengine.com
 2qism5rkc04le.jiraanalytics.manageengine.com
 7d1e7fac858b478baf254e1c9356e408.jiraanalytics.manageengine.com
@@ -4721,7 +4690,6 @@ action.jiraanalytics.manageengine.com
 13023-desenvolvimento.jiraanalytics.manageengine.com
 testing7.api10.jiraanalytics.manageengine.com
 114dac38a5d9c356c6bbe6044e2ca572.jiraanalytics.manageengine.com
-adsolutions.jiraanalytics.manageengine.com
 658b953a4dc90fb76c437afb3aae755d.jiraanalytics.manageengine.com
 17roco.jiraanalytics.manageengine.com
 ampdemo-en.jiraanalytics.manageengine.com
@@ -4896,7 +4864,7 @@ admin5-blogs.jiraanalytics.manageengine.com
 54873eda5f72c38f784d0cc0a936b06a.jiraanalytics.manageengine.com
 9649a68eda06b1e4a172cd938bb9414b.jiraanalytics.manageengine.com
 18d2859e93b571085948581dfab1d0b3.jiraanalytics.manageengine.com
-www.adcommunity.jiraanalytics.manageengine.com
+adcommunity.jiraanalytics.manageengine.com
 ad11community-examples.jiraanalytics.manageengine.com
 aa748b42633d4942de2f974aec66579a.jiraanalytics.manageengine.com
 74490cd9b2ebfc84e3520a593fc0a3c0.jiraanalytics.manageengine.com
@@ -5472,7 +5440,6 @@ announcekit-dev.jiraanalytics.manageengine.com
 2-agent.4.jiraanalytics.manageengine.com
 analyticsplusdemomonitorlog347cloud.jiraanalytics.manageengine.com
 agenda-s7.jiraanalytics.manageengine.com
-adcommunity.jiraanalytics.manageengine.com
 aistindatastream.jiraanalytics.manageengine.com
 01982be39499132759dd71c1d770431e.jiraanalytics.manageengine.com
 andhra.jiraanalytics.manageengine.com
@@ -5506,7 +5473,6 @@ profile.ad9community.jiraanalytics.manageengine.com
 api1pma.jiraanalytics.manageengine.com
 acocid.sdpondemand.manageengine.com
 api.manageengine.com
-www.solutions.manageengine.com
 wwww.manageengine.com
 sofsolsdp.sdpondemand.manageengine.com
 patchdb1.manageengine.com
@@ -5525,7 +5491,6 @@ interim.sdpondemand.manageengine.com
 cornellscotthillhealthcenter.sdpondemand.manageengine.com
 pbniservice.sdpondemand.manageengine.com
 joelefrank.sdpondemand.manageengine.com
-www.pitstop.manageengine.com
 intranerveneuroscience.sdpondemand.manageengine.com
 pathstoneservicedesk.sdpondemand.manageengine.com
 neait.sdpondemand.manageengine.com

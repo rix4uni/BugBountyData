@@ -1,4 +1,3 @@
-*.je-apis.com
 adyennotifications.je-apis.com
 deliverymanagement.je-apis.com
 opsdocumentmanagement.je-apis.com
@@ -185,7 +184,6 @@ accountweb-migration.je-apis.com
 restaurantreviewapi-production.je-apis.com
 consul-production.je-apis.com
 orderweb.je-apis.com
-www.je-apis.com
 checkoutapi.je-apis.com
 deployments.je-apis.com
 restaurantfeesapi.je-apis.com

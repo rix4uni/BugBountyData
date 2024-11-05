@@ -1,12 +1,11 @@
 partnernet.amazon.nl
 billing-p2k.amazon.nl
 luna-staging.amazon.nl
-www.logistics.amazon.nl
+logistics.amazon.nl
 ara.amazon.nl
 api-amazondevices.amazon.nl
 fe-api-avs-idrs.amazon.nl
 alexa-skills-beta-na.amazon.nl
-www.amazon.nl
 brandservices.amazon.nl
 atv-ps-eu.amazon.nl
 kindlestore-sha-proxy.amazon.nl
@@ -55,10 +54,9 @@ tp.a8e4b1908-frontier.amazon.nl
 webservices.amazon.nl
 brandregistry.amazon.nl
 origin-dl.amazon.nl
-logistics.amazon.nl
 dtp.amazon.nl
 supply.amazon.nl
-www.advertising.amazon.nl
+advertising.amazon.nl
 akamai-renew-cert-digicert.amazon.nl
 fe-bob-dispatch-gamma-alexa.amazon.nl
 opf-www.amazon.nl
@@ -70,7 +68,6 @@ alexa-comms-mobile-service.amazon.nl
 hub.amazon.nl
 p-nt.www-amazon-nl.kalias.amazon.nl
 origin-logistics.amazon.nl
-advertising.amazon.nl
 play.amazon.nl
 kdseoa304.caipiao22888.cdp.amazon.nl
 transient.amazon.nl
@@ -116,12 +113,9 @@ account-p2k.amazon.nl
 dl.amazon.nl
 alexa.amazon.nl
 supplierconnect.amazon.nl
-www.cdn.amazon.nl
-*.transient.amazon.nl
 ?.amazon.nl
 r.amazon.nl
 tulip.amazon.nl
-*.amazon.nl
 252df37b2-frontier.amazon.nl
 aan.amazon.nl
 appx.transient.amazon.nl

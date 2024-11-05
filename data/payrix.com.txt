@@ -5,13 +5,12 @@ email.payrix.com
 endpoints.payrix.com
 powerschool.payrix.com
 powerschool-api.payrix.com
-www.api.payrix.com
+api.payrix.com
 test-pax.payrix.com
-www.payrix.com
 test-portal.payrix.com
 api-embedded-lending.payrix.com
 apiv2.stage.payrix.com
-www.portal.payrix.com
+portal.payrix.com
 webdisk.admin.payrix.com
 apiv2.ap-southeast-2-stage.payrix.com
 ryan.payrix.com
@@ -23,7 +22,6 @@ support.payrix.com
 web-test.payrix.com
 cf-test-portal.payrix.com
 cf-test-api.payrix.com
-portal.payrix.com
 api-qa.payrix.com
 freepbx.payrix.com
 test-admin-api.payrix.com
@@ -32,7 +30,6 @@ apiv2.uat.payrix.com
 api-v2.payrix.com
 track.payrix.com
 load1.payrix.com
-www.admin.payrix.com
 admin.payrix.com
 payrix.com.auwww.payrix.com
 api-sandbox-embedded-lending.payrix.com
@@ -43,7 +40,6 @@ apiv2.ap-southeast-2.payrix.com
 apiv2.ap-southeast-2.stage.payrix.com
 qa-api.payrix.com
 test-admin.payrix.com
-api.payrix.com
 worldpay.payrix.com
 sip.payrix.com
 embedded-lending.payrix.com
@@ -52,7 +48,6 @@ emv-test.payrix.com
 admin-api.payrix.com
 apiv2.bfdev.payrix.com
 apiv2.dev.payrix.com
-www.admin-api.payrix.com
 cloudapi.payrix.com
 test-api.payrix.com
 status.payrix.com

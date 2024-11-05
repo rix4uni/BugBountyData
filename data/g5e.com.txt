@@ -52,7 +52,7 @@ mail.g5e.com
 cross-sells.cdn-specialdeals.g5e.com
 api.test.pgpl.g5e.com
 cdn.test.pgpl.g5e.com
-www.jobs.g5e.com
+jobs.g5e.com
 games.g5e.com
 test-corporate.g5e.com
 api.test.store.g5e.com
@@ -69,8 +69,6 @@ pgpl.cdn-specialdeals.g5e.com
 api.test.specialdeals.g5e.com
 mini-games.specialdeals.g5e.com
 dynamic.cdn.test.pgpl.g5e.com
-jobs.g5e.com
-www.g5e.com
 cdn.pgpl.g5e.com
 rstudio.g5e.com
 api.dev-specialdeals.g5e.com
@@ -207,7 +205,6 @@ back-hr.g5e.com
 invoice.g5e.com
 btp-fb.g5e.com
 pgpnl.g5e.com
-www.pushwoosh.g5e.com
 consent.g5e.com
-www.tssfbphp.g5e.com
+tssfbphp.g5e.com
 btp-fb-iap.g5e.com

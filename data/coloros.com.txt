@@ -1,12 +1,10 @@
-*.coloros.com
-*.apps.coloros.com
-*.clonephone.coloros.com
-*.comm.coloros.com
+apps.coloros.com
+clonephone.coloros.com
+comm.coloros.com
 activity.coloros.com
 after-sales-eu.coloros.com
 after-sales-sg.coloros.com
 apicommunity.coloros.com
-apps.coloros.com
 asdt.coloros.com
 athletic-board.coloros.com
 avlconf.coloros.com
@@ -17,10 +15,8 @@ breeno.apps.coloros.com
 breenofs.apps.coloros.com
 classify-eu.apps.coloros.com
 classify.apps.coloros.com
-clonephone.coloros.com
 clonephonefs.coloros.com
 coloroswebsitefs.coloros.com
-comm.coloros.com
 community.coloros.com
 component-ota.coloros.com
 component-ota-eu.coloros.com
@@ -192,7 +188,6 @@ weather.coloros.com
 webproxy.rusfs.coloros.com
 websitefs.coloros.com
 weixin.coloros.com
-www.coloros.com
 account.coloros.com
 aod.coloros.com
 bbs.static.coloros.com

@@ -49,7 +49,7 @@ dev2-fe-trade.cdn.np.bunnings.com.au
 perf-cm-idp.cdn.np.bunnings.com.au
 qa-fe.cdn.np.bunnings.com.au
 uat-cm.cdn.np.bunnings.com.au
-www.workshop.bunnings.com.au
+workshop.bunnings.com.au
 communitystage.bunnings.com.au
 media.prod.bunnings.com.au
 dev2-fe-jumbuck.cdn.np.bunnings.com.au
@@ -98,7 +98,6 @@ intranet.bunnings.com.au
 ds.bunnings.com.au
 emm.bunnings.com.au
 perf-cm.cdn.np.bunnings.com.au
-www.bunnings.com.au
 dev-kiosk.app-np.bunnings.com.au
 dev-maps-analytics.app-np.bunnings.com.au
 dev2-cm-idp-proxy.cdn.np.bunnings.com.au
@@ -116,7 +115,6 @@ dev-map-editor.app-np.bunnings.com.au
 dev-map-viewer.app-np.bunnings.com.au
 api-retail.app-prod.bunnings.com.au
 api-retail-preview.app-prod.bunnings.com.au
-workshop.bunnings.com.au
 image.emails.bunnings.com.au
 uat-ordersubmission.cdn.np.bunnings.com.au
 qa-ordersubmission.cdn.np.bunnings.com.au

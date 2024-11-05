@@ -2,7 +2,6 @@ static.3w-projekt.pl
 cloud.3w-projekt.pl
 arduino.3w-projekt.pl
 gitlab.3w-projekt.pl
-www.3w-projekt.pl
 munin.3w-projekt.pl
 komtur.3w-projekt.pl
 komtur-status.3w-projekt.pl
@@ -11,7 +10,6 @@ izz.3w-projekt.pl
 wiki.3w-projekt.pl
 pmt.3w-projekt.pl
 canismajoris.komtur.3w-projekt.pl
-www.biogen-dev.komtur.3w-projekt.pl
 redmine.3w-projekt.pl
 cms.3w-projekt.pl
 jitsi.3w-projekt.pl
@@ -25,6 +23,3 @@ r4v.3w-projekt.pl
 cache.3w-projekt.pl
 _dmarc.3w-projekt.pl
 _mta-sts.3w-projekt.pl
-*.3w-projekt.pl
-*.komtur.3w-projekt.pl
-*.sandstorm.3w-projekt.pl

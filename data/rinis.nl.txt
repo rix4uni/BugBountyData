@@ -19,7 +19,6 @@ kto-services.rinis.nl
 acc.portal.rinis.nl
 https.gdk.acc.rinis.nl
 r22.rinis.nl
-www.acc-services.rinis.nl
 autodiscover.rinis.nl
 rabbitmq-1.rinis.nl
 1.https.gdk.pro.rinis.nl
@@ -27,7 +26,6 @@ caldav.rinis.nl
 r166.rinis.nl
 r23.rinis.nl
 webmail.rinis.nl
-www.rinis.nl
 acc-gateway.rinis.nl
 mx1.rinis.nl
 nameserver1.rinis.nl
@@ -48,7 +46,6 @@ poc-services.rinis.nl
 gdk.pro.rinis.nl
 1.https.gdk.acc.rinis.nl
 dev.rinis.nl
-www.oots-wss.rinis.nl
 smtp.rinis.nl
 imap.rinis.nl
 mx2.rinis.nl
@@ -59,9 +56,7 @@ unlock.rinis.nl
 https.gdk.pro.rinis.nl
 charon.rinis.nl
 ipsec.rinis.nl
-www.gateway.rinis.nl
 acc.documents.rinis.nl
 portal.rinis.nl
 tien.rinis.nl
-www.acc-gateway.rinis.nl
 ams-int-fw-002.acc.rinis.nl

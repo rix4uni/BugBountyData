@@ -11,5 +11,4 @@ microapps-sge-proxy.app.staging.aws.selectra.io
 portal-sge-proxy.app.staging.aws.selectra.io
 b2b.sge-proxy.app.staging.aws.selectra.io
 portal.sge-proxy.app.staging.aws.selectra.io
-*.selectra.io
 my-selectra.app.production.aws.selectra.io

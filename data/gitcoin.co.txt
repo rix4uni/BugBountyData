@@ -32,7 +32,7 @@ review.scorer.gitcoin.co
 testnet.passport.gitcoin.co
 bounties.gitcoin.co
 proofofstake.gitcoin.co
-www.passport.gitcoin.co
+passport.gitcoin.co
 test-c.gitcoin.co
 engage.gitcoin.co
 community.gitcoin.co
@@ -57,9 +57,7 @@ gtc.gitcoin.co
 go.gitcoin.co
 test.gitcoin.co
 round-manager.gitcoin.co
-www.hackathons.gitcoin.co
 blog.gitcoin.co
-passport.gitcoin.co
 grants-portal.gitcoin.co
 forum.schellingpoint.gitcoin.co
 review-10798.review.gitcoin.co
@@ -85,7 +83,6 @@ iam.staging.passport.gitcoin.co
 checker.gitcoin.co
 api.scorer.gitcoin.co
 conviction.gitcoin.co
-www.gitcoin.co
 review.passport.gitcoin.co
 docs.gitcoin.co
 gov.gitcoin.co
@@ -131,15 +128,12 @@ k8.gitcoin.co
 grantshub.gitcoin.co
 files.gitcoin.co
 api.k8.gitcoin.co
-www.scorer.gitcoin.co
 staging.scorer.gitcoin.co
 review-10804.review.gitcoin.co
 ceramic.staging.staging.dpopp.gitcoin.co
 crowdfund.gitcoin.co
 monocular.jx.ci.gitcoin.co
 review-10796.review.gitcoin.co
-www.test-c.gitcoin.co
-www.test.gitcoin.co
 w.gitcoin.co
 public.review.scorer.gitcoin.co
 kevin.stage.gitcoin.co
@@ -151,7 +145,6 @@ endgame.gitcoin.co
 immutable-memories.gitcoin.co
 api.internal.k8.gitcoin.co
 reportcards.gitcoin.co
-www.test-s.gitcoin.co
 coordinationmechanisms.gitcoin.co
 k2.endgame.gitcoin.co
 grantscanvas.gitcoin.co
@@ -170,11 +163,9 @@ grants-stack-indexer-do.gitcoin.co
 public.scorer.gitcoin.co
 nexus.jx.ci.gitcoin.co
 grants-stack-ux-events.gitcoin.co
-www.support.gitcoin.co
 grants-stack-indexer.gitcoin.co
 redash.api.staging.scorer.gitcoin.co
 public.api.review.scorer.gitcoin.co
 alpha.passport-iam.gitcoin.co
 second.production.gitcoin.co
 public.api.staging.scorer.gitcoin.co
-*.passport.gitcoin.co

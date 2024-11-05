@@ -114,7 +114,7 @@ new-front-end-new-sandbox.fenix.ally.sandbox.dev.spiritai.com
 speech1.spiritai.com
 stream-settings.pulse.ally.sandbox.dev.spiritai.com
 test-deployment.fenix.ally.sandbox.dev.spiritai.com
-www.old-website.spiritai.com
+old-website.spiritai.com
 add-sentry-io.api.ally.sandbox.dev.spiritai.com
 ally.spiritai.com
 apisvc.spiritai.com
@@ -178,7 +178,6 @@ base-stream.pulse.ally.sandbox.dev.spiritai.com
 ingress.ally.dev.spiritai.com
 isso.dev.spiritai.com
 qa.spiritai.com
-www.spiritai.com
 ally-lofn-sandbox.dev.spiritai.com
 ally-ouroboros-sandbox.dev.spiritai.com
 api-lockwood2.spiritai.com

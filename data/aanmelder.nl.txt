@@ -37,7 +37,6 @@ wordpress-staging.proxy.aanmelder.nl
 deutsche-telekom-salesforce.proxy.aanmelder.nl
 sel1._domainkey.aanmelder.nl
 68754.domeinen.aanmelder.nl
-www.aanmelder.nl
 sel2._domainkey.dmarc.domeinen.aanmelder.nl
 knowledge.aanmelder.nl
 69309.domeinen.aanmelder.nl
@@ -107,7 +106,6 @@ ww-i-dd82903b-7a6c56a7.aanmelder.nl
 ww-i-dd82903b-9f977642.aanmelder.nl
 ww-i-e53e515d-0495782d.aanmelder.nl
 ww-i-e53e515d-af8b4bb5.aanmelder.nl
-*.aanmelder.nl
 _dmarc.mail.aanmelder.nl
 _dmarc.mail.mijndomein.aanmelder.nl
 _dmarc.mail2.aanmelder.nl

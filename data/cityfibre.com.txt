@@ -247,7 +247,6 @@ hul101-perf-1.network.cityfibre.com
 ipa-4.int.cityfibre.com
 pb-client-1.network.cityfibre.com
 portal.cityfibre.com
-www.cityfibre.com
 ipa-1.int.cityfibre.com
 mgmt-1.cityfibre.com
 partners.dev.cityfibre.com
@@ -304,7 +303,6 @@ nig-1-gis.cityfibre.com
 swift45.cityfibre.com
 test.cityfibre.com
 unifi.int.cityfibre.com
-www.shelf.cityfibre.com
 elmo.platform.dev.cityfibre.com
 gis-lb-test.dev.cityfibre.com
 pb-perf-1.network.cityfibre.com
@@ -312,4 +310,3 @@ swift53.cityfibre.com
 awxjobs.network.cityfibre.com
 linkedinlearning.cityfibre.com
 deebee.network.cityfibre.com
-*.staging.cityfibre.com

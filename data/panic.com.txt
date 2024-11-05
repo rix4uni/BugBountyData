@@ -1,4 +1,3 @@
-*.panic.com
 syncbeta.panic.com
 fproxy.panic.com
 gitlab.panic.com
@@ -22,11 +21,10 @@ sync.panic.com
 ns1.panic.com
 nosslproxy.panic.com
 status.panic.com
-www.panic.com
 newposh.panic.com
 beta.panic.com
 lb.panic.com
-www.www.panic.com
+www.panic.com
 plausible.panic.com
 sign.panic.com
 dev.panic.com

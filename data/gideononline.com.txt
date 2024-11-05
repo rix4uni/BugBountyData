@@ -14,14 +14,13 @@ sftp.gideononline.com
 api-internal.gideononline.com
 cloudfront.gideononline.com
 cacti.gideononline.com
-www.dxplain.orgwww.gideononline.com
+dxplain.orgwww.gideononline.com
 learn.gideononline.com
 app-dev.gideononline.com
 core-dev.gideononline.com
 jenkins-ext.gideononline.com
 sweb.gideononline.com
 api-test.gideononline.com
-www.gideononline.com
 assets.gideononline.com
 hazmat.gideononline.com
 yahoo.gideononline.com
@@ -43,7 +42,6 @@ sandbox.gideononline.com
 mail.gideononline.com
 hazmat-web.gideononline.com
 ebooks.gideononline.com
-www.web.gideononline.com
 app.gideononline.com
 www-dev.gideononline.com
 exhibit.gideononline.com
@@ -52,7 +50,7 @@ sitev2a.gideononline.com
 _ref-web.gideononline.com
 consumer.gideononline.com
 calendar.gideononline.com
-www.www.gideononline.com
+www.gideononline.com
 api-dev.gideononline.com
 api-doc.gideononline.com
 demo.gideononline.com

@@ -13,7 +13,6 @@ dev.bookfinder.com
 eq1.bookfinder.com
 proxy.bookfinder.com
 viawww.bookfinder.com
-www.bookfinder.com
 ingress.bookfinder.com
 localhost.bookfinder.com
 staging.bookfinder.com
@@ -40,5 +39,5 @@ i.bookfinder.com
 images.bookfinder.com
 report.bookfinder.com
 wayback.bookfinder.com
-www.www.bookfinder.com
+www.bookfinder.com
 autodiscover.bookfinder.com

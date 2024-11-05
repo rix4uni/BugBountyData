@@ -683,7 +683,6 @@ whoisweb.dreamhost.com
 berzerker.dreamhost.com
 impa.dreamhost.com
 apache2-moon.cushman.dreamhost.com
-www.dreamhost.com
 apache2-bongo.buxton.dreamhost.com
 apache2-sith.blodgett.dreamhost.com
 apache2-vat.sisters.dreamhost.com
@@ -742,10 +741,8 @@ crt.dreamhost.com
 crl.dreamhost.com
 apache2-igloo.windstone.dreamhost.com
 apache2-daisy.william-livingston.dreamhost.com
-www.emicol5.dreamhost.com
 tetris.dreamhost.com
 roundcube.dreamhost.com
-www.ido.dreamhost.com
 ns.dreamhost.com
 apache2-emu.gag-halfrunt.dreamhost.com
 n1.dreamhost.com
@@ -757,7 +754,6 @@ apache2-echo.chaos-mite.dreamhost.com
 apache2-daisy.barrow.dreamhost.com
 apache2-grog.eddyville.dreamhost.com
 ns3.dreamhost.com
-www.affiliates.dreamhost.com
 east1-phpmyadmin.dreamhost.com
 ns4.dreamhost.com
 dns3.dreamhost.com
@@ -770,7 +766,6 @@ apache2-argon.supervisor.dreamhost.com
 apache2-ichiban.stardust.dreamhost.com
 scripts.dreamhost.com
 imap.dreamhost.com
-www.messages.dreamhost.com
 apache2-dap.cottrell.dreamhost.com
 apache2-dap.foxcraft.dreamhost.com
 sni.dreamhost.com
@@ -778,7 +773,7 @@ sunburn.dreamhost.com
 s388630.dreamhost.com
 ds1.dreamhost.com
 ds2.dreamhost.com
-www.sapac.dreamhost.com
+sapac.dreamhost.com
 apache2-vat.clayton.dreamhost.com
 apache2-bongo.gwinnett.dreamhost.com
 ip-208-113-157-157.dreamhost.com

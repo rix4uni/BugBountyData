@@ -1033,7 +1033,6 @@ bbtransact-app.uvu.edu
 cpanel.trenthoward.faculty.uvu.edu
 tools-dev.tc.uvu.edu
 ip.uvu.edu
-www.uvu.edu
 pobdev2.ad.uvu.edu
 uvscnet-rack-15.uvu.edu
 reserved-13.uvu.edu
@@ -1104,7 +1103,6 @@ tcesx-09.tc.uvu.edu
 ragan-m7cl.ad.uvu.edu
 stlocserver-59aff9b4c7211e7912606a15c73f3c3.uvu.edu
 dgmassets.tc.uvu.edu
-www.myapps.uvu.edu
 park-cash1.static.uvu.edu
 esx-12.uvu.edu
 bi-api.uvu.edu
@@ -1116,14 +1114,12 @@ cpanel.dustinshipp.faculty.uvu.edu
 ni.ad.uvu.edu
 fluid.tc.uvu.edu
 host-161-28-28-117.uvu.edu
-www.eugenecrane.faculty.uvu.edu
 host-161-28-28-191.uvu.edu
 ucsdirector.uvu.edu
 ce.uvu.edu
 sc-netscaler04.ad.uvu.edu
 informa1.uvu.edu
 host-161-28-28-121.uvu.edu
-www.ais-linux4.uvu.edu
 host-161-28-28-227.uvu.edu
 ais-apps1-temp.uvu.edu
 tcesx-6.tc.uvu.edu
@@ -1143,7 +1139,6 @@ getstats.uvu.edu
 rancher-prod.gitops.uvu.edu
 esx-05.uvu.edu
 amyhanson.on.uvu.edu
-www.theresahaugbelvin.faculty.uvu.edu
 ng-01.ad.uvu.edu
 adap1.ad.uvu.edu
 labstats.uvu.edu
@@ -1163,7 +1158,6 @@ host-161-28-28-160.uvu.edu
 host-161-28-28-79.uvu.edu
 tc-softspot.tc.uvu.edu
 baldenlabmachine.business.uvu.edu
-www.ashleyegan.faculty.uvu.edu
 uvmbamdb.ad.uvu.edu
 sc-pano.uvu.edu
 aspcs-new.uvu.edu
@@ -1273,7 +1267,6 @@ banner.uvu.edu
 qas-sst.ad.uvu.edu
 gz-comm2.uvu.edu
 it1510content.tc.uvu.edu
-www.trenthoward.faculty.uvu.edu
 dns.uvu.edu
 mail.jameskrause.faculty.uvu.edu
 drsysadmin-git.uvu.edu
@@ -1282,13 +1275,11 @@ webstaging-temp.uvu.edu
 elasticsearch.uvu.edu
 me116-hpljp-m402dne.printer.uvu.edu
 host-161-28-28-12.uvu.edu
-www.ais-jarvis.uvu.edu
 mailrouter-old.email.uvu.edu
 sc-starload1-ipmi.uvu.edu
 ctx-ddc-01.ad.uvu.edu
 checkoutdgm.tc.uvu.edu
 tcesx-20.tc.uvu.edu
-www.markcrane.faculty.uvu.edu
 cylechristenson.on.uvu.edu
 host-161-28-28-145.uvu.edu
 ba005-10018854z.ad.uvu.edu
@@ -1360,12 +1351,10 @@ uvscnet-rack-9.uvu.edu
 host-161-28-28-234.uvu.edu
 apic3.net.uvu.edu
 ccrr5.static.uvu.edu
-www.douggardner.faculty.uvu.edu
 sccm2.uvu.edu
 ha100-hp4050.printer.uvu.edu
 ctc-lanschool.ad.uvu.edu
 informa2.uvu.edu
-www.portfolio.faculty.uvu.edu
 tomhenry.faculty.uvu.edu
 reserve16.uvu.edu
 ipam-test.uvu.edu
@@ -1400,12 +1389,10 @@ ba007bhpclj4600n.printer.uvu.edu
 loggregator.static.uvu.edu
 qas-pg.ad.uvu.edu
 openenrollment.on.uvu.edu
-www.vernhart.faculty.uvu.edu
 rok.uvu.edu
 bustrack.uvu.edu
 ladyleman.on.uvu.edu
 scli.uvu.edu
-www.brucewilson.faculty.uvu.edu
 host-161-28-28-219.uvu.edu
 host-161-28-28-99.uvu.edu
 acewebtest.ad.uvu.edu
@@ -1415,10 +1402,8 @@ parkapp.uvu.edu
 host-161-28-28-24.uvu.edu
 host-161-28-28-3.uvu.edu
 michele.on.uvu.edu
-www.dome.util.uvu.edu
 netapp2-mgmt.uvu.edu
 reserved-14.uvu.edu
-www.fernandootaloraluna.faculty.uvu.edu
 gz-commlb.uvu.edu
 park-cash2.static.uvu.edu
 host-161-28-28-22.uvu.edu
@@ -1433,8 +1418,6 @@ helpfulben.on.uvu.edu
 tcesx-10.tc.uvu.edu
 host-161-28-28-200.uvu.edu
 afbackup.ad.uvu.edu
-www.amymarkgraf.faculty.uvu.edu
-www.wendyathens.faculty.uvu.edu
 sms4.uvu.edu
 colvincomm319g.on.uvu.edu
 cpcontacts.andreoliveira.faculty.uvu.edu
@@ -1442,7 +1425,6 @@ host-161-28-28-223.uvu.edu
 ist-abet.ad.uvu.edu
 dgmls.tc.uvu.edu
 deids.on.uvu.edu
-www.vincerossi.faculty.uvu.edu
 exchangew.ad.uvu.edu
 avsc-flym.tc.uvu.edu
 blindsided.on.uvu.edu
@@ -1465,7 +1447,6 @@ scctxlic.ad.uvu.edu
 af4.tc.uvu.edu
 tcesx-14.tc.uvu.edu
 webdisk.mikeduffin.faculty.uvu.edu
-www.campusvpn.uvu.edu
 wb219-2.business.uvu.edu
 av-ctx-pvs02.ad.uvu.edu
 wso2-keymanager.uvu.edu
@@ -1479,7 +1460,6 @@ tysonriskas.faculty.uvu.edu
 host-161-28-28-58.uvu.edu
 fa-sparc.uvu.edu
 que-clone.uvu.edu
-www.wso2-node01.uvu.edu
 host-161-28-28-97.uvu.edu
 tcit.tc.uvu.edu
 netmgmt-new.uvu.edu
@@ -1494,7 +1474,6 @@ dev-webapp.uvu.edu
 vssmgmtpa-idrac.uvu.edu
 student-svn.uvu.edu
 host-161-28-28-210.uvu.edu
-www.virtuallab.uvu.edu
 reserve7.uvu.edu
 ntnx-test-01.ad.uvu.edu
 dev-bdap.uvu.edu
@@ -1509,14 +1488,11 @@ testcomet.uvu.edu
 park-off-mgr.static.uvu.edu
 host-161-28-28-57.uvu.edu
 citrixstoreserv.ad.uvu.edu
-www.joshualothringer.faculty.uvu.edu
 jira.uvu.edu
 xenmover.ad.uvu.edu
 dcfw2.uvu.edu
-www.mikebird.faculty.uvu.edu
 nursingandtara.on.uvu.edu
 ntx-novacorps-08.uvu.edu
-www.emilyheider.faculty.uvu.edu
 varonis-collector.ad.uvu.edu
 wbcopy.printer.uvu.edu
 lbpublic224a.uvu.edu
@@ -1524,7 +1500,6 @@ host-161-28-28-111.uvu.edu
 yecu3.uvu.edu
 qa.apim.uvu.edu
 test.appointments.uvu.edu
-www.tomhenry.faculty.uvu.edu
 uvdarel.uvu.edu
 alexismchale.on.uvu.edu
 liberm.uvu.edu
@@ -1564,7 +1539,6 @@ stu-web2.uvu.edu
 lbpublic224p.uvu.edu
 ufra-ctc2.tc.uvu.edu
 wasatch.uvu.edu
-www.andreoliveira.faculty.uvu.edu
 netapp1-20.uvu.edu
 labasatch.uvu.edu
 fs1-admin.ad.uvu.edu
@@ -1593,7 +1567,6 @@ therealkimichanga.on.uvu.edu
 host-161-28-28-87.uvu.edu
 olsenku.uvu.edu
 host-161-28-28-154.uvu.edu
-www.dev.adv-assign.uvu.edu
 host-161-28-28-245.uvu.edu
 varonis-web.ad.uvu.edu
 ldaptst02.priv.uvu.edu
@@ -1601,7 +1574,6 @@ tylereddyerickson1.on.uvu.edu
 sydneyrn.on.uvu.edu
 host-161-28-28-228.uvu.edu
 host-161-28-28-196.uvu.edu
-www.cas-tst.uvu.edu
 mikeduffin.faculty.uvu.edu
 svn1.uvu.edu
 webdisk.portfolio.faculty.uvu.edu
@@ -1618,7 +1590,6 @@ sc.dexty.com.uvu.edu
 host-161-28-28-114.uvu.edu
 host-161-28-28-149.uvu.edu
 cpcalendars.tomhenry.faculty.uvu.edu
-www.markabramson.faculty.uvu.edu
 ws103konicac558.printer.uvu.edu
 ba003.printer.uvu.edu
 akgeportfolio.on.uvu.edu
@@ -1627,10 +1598,7 @@ host-161-28-28-155.uvu.edu
 ashleyallred.on.uvu.edu
 host-161-28-28-16.uvu.edu
 via.ad.uvu.edu
-www.jonathanwestover.faculty.uvu.edu
 tcesx-9.tc.uvu.edu
-www.snipeitsa.uvu.edu
-www.jennifershubert.faculty.uvu.edu
 cmomom.on.uvu.edu
 cpfwha.uvu.edu
 mikegaughan.on.uvu.edu
@@ -1661,9 +1629,7 @@ legsim.uvu.edu
 slwc-pci.uvu.edu
 aa1.tc.uvu.edu
 wb146lobbyclj3700.printer.uvu.edu
-www.lauraricaldi.faculty.uvu.edu
 ais-gw-07.uvu.edu
-www.dev.orientation.uvu.edu
 host-161-28-28-129.uvu.edu
 prtg-p2.ad.uvu.edu
 host-161-28-28-36.uvu.edu
@@ -1678,7 +1644,6 @@ warehousedb.uvu.edu
 gw2.tc.uvu.edu
 smtp-relay2.ad.uvu.edu
 gb203-c2.printer.uvu.edu
-www.dcvpn.uvu.edu
 webout1-mgmt.uvu.edu
 webdisk.jameskrause.faculty.uvu.edu
 host-161-28-28-199.uvu.edu
@@ -1694,7 +1659,6 @@ webout0-mgmt.uvu.edu
 esx-07.uvu.edu
 host-161-28-28-44.uvu.edu
 sc-netscaler05.ad.uvu.edu
-www.ronnettstutz.faculty.uvu.edu
 cos-mathlab.ad.uvu.edu
 spikejones.tc.uvu.edu
 bannerscripts-dr.uvu.edu
@@ -1702,7 +1666,6 @@ rboxxmanager117.ad.uvu.edu
 tcesx-31.tc.uvu.edu
 gt516d.printer.uvu.edu
 netapp-02.util.uvu.edu
-www.laurabusby.faculty.uvu.edu
 lindstrom.tc.uvu.edu
 rachelarocho.faculty.uvu.edu
 labstats2.uvu.edu
@@ -1715,7 +1678,6 @@ uvuazureadc.ad.uvu.edu
 host-161-28-28-238.uvu.edu
 sccm-scup1.ad.uvu.edu
 blakeseymour93.on.uvu.edu
-www.noahmyers.faculty.uvu.edu
 que.uvu.edu
 sbs-editbayc.ad.uvu.edu
 drxray.uvu.edu
@@ -1731,7 +1693,6 @@ duffinmi-mailxp.uvu.edu
 svm-ad-100.ad.uvu.edu
 uvutva.uvu.edu
 commvault-vlan100.ad.uvu.edu
-www.mallorysnyder.faculty.uvu.edu
 flexreg.uvu.edu
 lbpublic20.uvu.edu
 ctx-cr-win7.ad.uvu.edu
@@ -1756,7 +1717,6 @@ host-161-28-28-21.uvu.edu
 f5-kuber-ha.net.uvu.edu
 whatadayitsben.on.uvu.edu
 practice-git.uvu.edu
-www.annearendt.faculty.uvu.edu
 panapasarakuita.on.uvu.edu
 sccmdb.ad.uvu.edu
 esx-09.uvu.edu
@@ -1770,7 +1730,6 @@ vortex-internet.uvu.edu
 cpcalendars.dustinshipp.faculty.uvu.edu
 busadvc.uvu.edu
 resource.uvu.edu
-www.stephencampbell.faculty.uvu.edu
 jessicawood.on.uvu.edu
 ais-win.uvu.edu
 drvortex-ce1.uvu.edu
@@ -1781,9 +1740,7 @@ axis2.static.uvu.edu
 host-161-28-28-221.uvu.edu
 ctx-db-01.ad.uvu.edu
 wdsqcweb.uvu.edu
-www.drvpn.uvu.edu
 repository1.uvu.edu
-www.fl323-ablinuxvm.ad.uvu.edu
 scdeepfreeze.uvu.edu
 faronics.uvu.edu
 vtools.ad.uvu.edu
@@ -1792,8 +1749,6 @@ aslds.uvu.edu
 dev.outages.uvu.edu
 spss.ad.uvu.edu
 host-161-28-28-134.uvu.edu
-www.georgerudolph.faculty.uvu.edu
-www.jonathonhuckvale.faculty.uvu.edu
 rassy.on.uvu.edu
 livehelp1.uvu.edu
 pci-win2.uvu.edu
@@ -1827,7 +1782,6 @@ joshrn.on.uvu.edu
 host-161-28-28-109.uvu.edu
 host-161-28-28-213.uvu.edu
 salt-test1.uvu.edu
-www.jonbarclay.faculty.uvu.edu
 abbeyardiana.on.uvu.edu
 sarahblueuniverse.on.uvu.edu
 cworks.uvu.edu
@@ -1874,7 +1828,6 @@ rebeccagarlick.on.uvu.edu
 uccuvpn-mgmt.uvu.edu
 bigdataa.ad.uvu.edu
 newsas.uvu.edu
-www.faculty.uvu.edu
 sc-starlord2-ipmi.uvu.edu
 loghomescotlastatic.uvu.edu
 ws103-ricohmpc4500.printer.uvu.edu
@@ -1923,7 +1876,6 @@ ntx-novacorps-01.uvu.edu
 host-161-28-28-203.uvu.edu
 commserve-vlan21.ad.uvu.edu
 nb211-xbox.ad.uvu.edu
-www.danielfairbanks.faculty.uvu.edu
 jordanberger88.on.uvu.edu
 vss-recording7.cam.uvu.edu
 ccrr2.static.uvu.edu
@@ -1947,7 +1899,6 @@ ccrr4.static.uvu.edu
 bannerdmz--ha-lb.net.uvu.edu
 tcesx-02.tc.uvu.edu
 prometheus-fed.uvu.edu
-www.seantolman.faculty.uvu.edu
 host-161-28-28-132.uvu.edu
 dedupe.uvu.edu
 reddit.tc.uvu.edu
@@ -1960,7 +1911,6 @@ prtgentdmznettel1.ad.uvu.edu
 taylorcecil.on.uvu.edu
 endymion.uvu.edu
 acipp.on.uvu.edu
-www.ahmedalsharif.faculty.uvu.edu
 tbuse.tc.uvu.edu
 webrpt.uvu.edu
 old-confluence.uvu.edu
@@ -1969,12 +1919,10 @@ uvscnet-rack-11.uvu.edu
 contentdmold.uvu.edu
 valhallasgates.on.uvu.edu
 host-161-28-28-122.uvu.edu
-www.dallindurfee.faculty.uvu.edu
 webprod-temp.uvu.edu
 bannerdmz-ha-lb.net.uvu.edu
 cloud.uvu.edu
 ai3.tc.uvu.edu
-www.pbireports.uvu.edu
 ai122-49-233-22ai1.tc.uvu.edu
 tcesx-5.tc.uvu.edu
 arista.uvu.edu
@@ -1988,7 +1936,6 @@ tools2-dev.tc.uvu.edu
 ragan-sensor3b.ad.uvu.edu
 wc-edir.uvu.edu
 webout4.uvu.edu
-www.stevenherron.faculty.uvu.edu
 citron.obh.olexstoreserv.ad.uvu.edu
 wc204.crest.uvu.edu
 tims-clone.uvu.edu
@@ -2015,7 +1962,6 @@ host-161-28-28-128.uvu.edu
 wc-edir-ilo.uvu.edu
 saykussee.on.uvu.edu
 tcit-facstaff.tc.uvu.edu
-www.geoffreyzahn.faculty.uvu.edu
 logbox.static.uvu.edu
 deepfreeze2.static.uvu.edu
 sbs-editbayd.ad.uvu.edu
@@ -2110,7 +2056,6 @@ host-161-28-28-51.uvu.edu
 lbpublic224.uvu.edu
 stu-web3.uvu.edu
 issuingca.ad.uvu.edu
-www.snipeitavse.uvu.edu
 esvpn.uvu.edu
 vconvma.uvu.edu
 host-161-28-28-139.uvu.edu
@@ -2128,7 +2073,6 @@ host-161-28-28-240.uvu.edu
 uvpay.uvu.edu
 yecu1.uvu.edu
 terrablock24ex1.tc.uvu.edu
-www.nathantoke.faculty.uvu.edu
 tcops.tc.uvu.edu
 new.my.uvu.edu
 fusiondb.ad.uvu.edu
@@ -2190,7 +2134,6 @@ ctx-vdi-2016-master.ad.uvu.edu
 akoldamanyang.on.uvu.edu
 ldap.ad.uvu.edu
 ntx-novacorps-04-hyp.uvu.edu
-www.beta.appointments.uvu.edu
 park-lan-spec.static.uvu.edu
 sms2.uvu.edu
 ntx-etcitrix-01-hyp.uvu.edu
@@ -2211,14 +2154,12 @@ host-161-28-28-120.uvu.edu
 bradywrightsblog.on.uvu.edu
 hplj4-ab206c.printer.uvu.edu
 ifolder.uvu.edu
-www.alanparry.faculty.uvu.edu
 uvbiprod.uvu.edu
 tcesx-21.tc.uvu.edu
 tcesx-7.tc.uvu.edu
 suma.ad.uvu.edu
 oacrentmaster.ad.uvu.edu
 sc-netscalertest.ad.uvu.edu
-www.scottdewar.faculty.uvu.edu
 ntx-novacorps-07.uvu.edu
 stu-web1.uvu.edu
 lic-eng.ad.uvu.edu
@@ -2233,7 +2174,7 @@ gw-matcsf.static.uvu.edu
 msdata-test.uvu.edu
 webout2-mgmt.uvu.edu
 pricer.ad.uvu.edu
-www.dustinshipp.faculty.uvu.edu
+dustinshipp.faculty.uvu.edu
 lb-data-center-2.net.uvu.edu
 imacatlover.on.uvu.edu
 host-161-28-28-152.uvu.edu
@@ -2249,7 +2190,6 @@ kelsibaldwincomm319g.on.uvu.edu
 fshpal-nw6.uvu.edu
 tcesx-15.tc.uvu.edu
 uvscnet-rack-8.uvu.edu
-www.sallyrocks.faculty.uvu.edu
 host-161-28-28-230.uvu.edu
 webdisk.tysonriskas.faculty.uvu.edu
 host-161-28-28-70.uvu.edu
@@ -2317,7 +2257,6 @@ itoc.uvu.edu
 jayridingsblog.on.uvu.edu
 prtg-t1.ad.uvu.edu
 yoda2.tc.uvu.edu
-www.sterlingshaw.faculty.uvu.edu
 f5vhost.net.uvu.edu
 host-161-28-28-49.uvu.edu
 tims-test.uvu.edu
@@ -2328,14 +2267,12 @@ vortex-public.uvu.edu
 gt630-d6.ad.uvu.edu
 fshpal.uvu.edu
 dashboard.ta.uvu.edu
-www.almalaney.faculty.uvu.edu
 pbx.uvu.edu
 onion-master.uvu.edu
 mcafee-logon-collector.uvu.edu
 haisomm.on.uvu.edu
 green-labby2014.ad.uvu.edu
 fs215-m475dn.printer.uvu.edu
-www.davidframe.faculty.uvu.edu
 amberbaird.on.uvu.edu
 mail.andreoliveira.faculty.uvu.edu
 jake-kube3.uvu.edu
@@ -2346,8 +2283,6 @@ comply2.uvu.edu
 orgs.uvu.edu
 ace.uvu.edu
 dgmini-1.tc.uvu.edu
-www.skylersimmons.faculty.uvu.edu
-www.joejensen.faculty.uvu.edu
 sftp.uvu.edu
 bookstore-web.uvu.edu
 motorpool-tech.static.uvu.edu
@@ -2368,14 +2303,12 @@ barracuda2.uvu.edu
 sc-lanschool.uvu.edu
 av-ctx-pvs01.ad.uvu.edu
 ng-02.ad.uvu.edu
-dustinshipp.faculty.uvu.edu
 sc-netscaler01.ad.uvu.edu
 ntx-foundation.uvu.edu
 host-161-28-28-48.uvu.edu
 commvault-vlan21.ad.uvu.edu
 ais-linux7-clone.uvu.edu
 test.support.uvu.edu
-www.snipeitops.uvu.edu
 host-161-28-28-214.uvu.edu
 love.tc.uvu.edu
 ws101-ricohaficiosp4210n.printer.uvu.edu
@@ -2408,7 +2341,6 @@ netmgmt.uvu.edu
 testclient-01.ad.uvu.edu
 adorem2.ad.uvu.edu
 ram.uvu.edu
-www.opentouch.uvu.edu
 terrablock24d-1.tc.uvu.edu
 dr-svm-unix-29.util.uvu.edu
 cybersecurity.on.uvu.edu
@@ -2424,15 +2356,12 @@ public-lb.net.uvu.edu
 cent7temp.uvu.edu
 tcbmi.ad.uvu.edu
 info4415-ad.ad.uvu.edu
-www.paulweber.faculty.uvu.edu
 default-rdns.vocus.co.uvu.edu
 cscsql.uvu.edu
 pvs.uvu.edu
 ext.api.uvu.edu
-www.jameskrause.faculty.uvu.edu
 oed.com.ezproxy.uvu.edu
 dedupe-mgmt.uvu.edu
-www.composertst.uvu.edu
 tcesx-1.tc.uvu.edu
 blogs2.uvu.edu
 epoapp.ad.uvu.edu
@@ -2453,7 +2382,6 @@ host-161-28-28-19.uvu.edu
 gis-license.ad.uvu.edu
 ccrr6.static.uvu.edu
 host-161-28-28-20.uvu.edu
-www.mikestearns.faculty.uvu.edu
 uvscnet-rack-16.uvu.edu
 blade-tc.ad.uvu.edu
 host-161-28-28-248.uvu.edu
@@ -2469,7 +2397,6 @@ host-161-28-28-190.uvu.edu
 jamf-im.ad.uvu.edu
 uvusbs-riedel-antenna.uvu.edu
 esx-view.uvu.edu
-www.oed.com.ezproxy.uvu.edu
 me116-hpljp3005.printer.uvu.edu
 csh-minitab.ad.uvu.edu
 josephrbutler90.on.uvu.edu
@@ -2498,18 +2425,13 @@ benwin7.tc.uvu.edu
 groupertst-new.priv.uvu.edu
 ragan-lights.ad.uvu.edu
 netman.uvu.edu
-www.johnkidd.faculty.uvu.edu
 host-161-28-28-179.uvu.edu
 host-161-28-28-71.uvu.edu
 host-161-28-28-31.uvu.edu
-www.wso2.uvu.edu
-www.brycerytting.faculty.uvu.edu
 scsf1.ad.uvu.edu
 host-161-28-28-90.uvu.edu
-www.christaalbrechtcrane.faculty.uvu.edu
 vss-recording10-ilo.uvu.edu
 ais-apps.uvu.edu
-www.reclaimchris.faculty.uvu.edu
 host-161-28-28-98.uvu.edu
 lahvs.ad.uvu.edu
 touchnet-pci.uvu.edu
@@ -2521,7 +2443,6 @@ pobapp.ad.uvu.edu
 ais-pay.uvu.edu
 webdisk.wendikarbakhsh.faculty.uvu.edu
 tcesx-13.tc.uvu.edu
-www.leandrahernandez.faculty.uvu.edu
 cognos.uvu.edu
 lbpublic100.uvu.edu
 commvault-vlan51.ad.uvu.edu
@@ -2547,10 +2468,8 @@ bannertst.uvu.edu
 ldmsserver.tc.uvu.edu
 assetserver.uvu.edu
 brett.static.uvu.edu
-www.degreetst.uvu.edu
 tcsharp.tc.uvu.edu
 contentmanager2022.ad.uvu.edu
-www.dev.ice.uvu.edu
 host-161-28-28-136.uvu.edu
 eres.uvu.edu
 justdug.on.uvu.edu
@@ -2558,7 +2477,6 @@ ldaptst01.priv.uvu.edu
 tom-dev.uvu.edu
 dgm3a.tc.uvu.edu
 tctest.tc.uvu.edu
-www.wso2-analytics.uvu.edu
 ezproxyold.uvu.edu
 vssmobile.ad.uvu.edu
 svm-unix-29.uvu.edu
@@ -2671,11 +2589,9 @@ drdedupe.uvu.edu
 ba200g-wallbotz.static.uvu.edu
 beesknees.on.uvu.edu
 tylerandrew.on.uvu.edu
-www.tysonriskas.faculty.uvu.edu
 proxlockold.uvu.edu
 fsaweb.uvu.edu
 meet.uvu.edu
-www.kimnielsen.faculty.uvu.edu
 ntx-novacorps-03-hyp.uvu.edu
 ba112sharp350n.printer.uvu.edu
 host-161-28-28-135.uvu.edu
@@ -2686,7 +2602,6 @@ park-tango-shed.static.uvu.edu
 sc-ddc3.ad.uvu.edu
 zcm.uvu.edu
 host-161-28-28-148.uvu.edu
-www.mikeduffin.faculty.uvu.edu
 sc-netscaler03.ad.uvu.edu
 ws111fpec6.cam.uvu.edu
 wb-ctx-pvs02.ad.uvu.edu
@@ -2696,13 +2611,10 @@ wpad.ad.uvu.edu
 cpanel.mikeduffin.faculty.uvu.edu
 drdnsmasq.uvu.edu
 rboxx4.tc.uvu.edu
-www.bryancowley.faculty.uvu.edu
 bro2.static.uvu.edu
 lc204a.printer.uvu.edu
-www.nathangerber.faculty.uvu.edu
 testmonitor100.ad.uvu.edu
 ufra-ctc1.tc.uvu.edu
-www.michaelbunds.faculty.uvu.edu
 pba-beta.uvu.edu
 barksdale.on.uvu.edu
 dcfw1.uvu.edu
@@ -2710,7 +2622,7 @@ adoremdc4.ad.uvu.edu
 checkoutdgm-dev.tc.uvu.edu
 host-161-28-28-151.uvu.edu
 host-161-28-28-187.uvu.edu
-www.wendikarbakhsh.faculty.uvu.edu
+wendikarbakhsh.faculty.uvu.edu
 sheridanmiller.on.uvu.edu
 brandonrandolph.on.uvu.edu
 awintertonpc.ad.uvu.edu
@@ -2732,11 +2644,9 @@ kbott.on.uvu.edu
 ftp.tc.uvu.edu
 jmeter-s1.uvu.edu
 host-161-28-28-184.uvu.edu
-www.bobpalais.faculty.uvu.edu
 sccm-dp-03.ad.uvu.edu
 f5-kuber-cis.net.uvu.edu
 t1tosip.phone.uvu.edu
-www.findaid.uvu.edu
 hamiltonk.on.uvu.edu
 sms5.uvu.edu
 info2.uvu.edu
@@ -2760,7 +2670,6 @@ host-161-28-28-41.uvu.edu
 prome-test.uvu.edu
 host-161-28-28-140.uvu.edu
 donnettsackie.on.uvu.edu
-www.travasyoung.faculty.uvu.edu
 exhcange2.ad.uvu.edu
 host-161-28-28-14.uvu.edu
 host-161-28-28-65.uvu.edu
@@ -2775,7 +2684,6 @@ dev.legsim.uvu.edu
 egdt-dp.tc.uvu.edu
 r25-rapp.uvu.edu
 lic-eart.ad.uvu.edu
-www.sipsbc.uvu.edu
 control.uvu.edu
 temp-restore.uvu.edu
 host-161-28-28-18.uvu.edu
@@ -2836,7 +2744,6 @@ thecollector.static.uvu.edu
 bmi-webtst.ad.uvu.edu
 mgmtesx-02.util.uvu.edu
 ciscopi2.net.uvu.edu
-www.darennelson.faculty.uvu.edu
 vortex-public224.uvu.edu
 prtgpubavse2.ad.uvu.edu
 xerox2.wasatch.uvu.edu
@@ -2846,7 +2753,6 @@ sccm.ad.uvu.edu
 access.uvu.edu
 exchange3.ad.uvu.edu
 tcesx-04.tc.uvu.edu
-www.ops-automatron-test.static.uvu.edu
 uvdc1.uvu.edu
 info3422-00.ad.uvu.edu
 prometheus-test.priv.uvu.edu
@@ -2858,14 +2764,12 @@ commserve-vlan24.ad.uvu.edu
 gt516d-6115.printer.uvu.edu
 sc-lenovo-san1c.uvu.edu
 chaos-clone.uvu.edu
-www.rachelarocho.faculty.uvu.edu
 host-161-28-28-204.uvu.edu
 qc-webd.uvu.edu
 itunesu.tc.uvu.edu
 host-161-28-28-232.uvu.edu
 infocom1.uvu.edu
 util-10315829.ad.uvu.edu
-www.laurenhanks.faculty.uvu.edu
 host-161-28-28-236.uvu.edu
 primadata20.ad.uvu.edu
 netstats.uvu.edu
@@ -2886,7 +2790,6 @@ bbts-app.ad.uvu.edu
 host-161-28-28-175.uvu.edu
 xray.uvu.edu
 cs611-fortus450.ad.uvu.edu
-www.waynewhaley.faculty.uvu.edu
 bannerdmz-lb.net.uvu.edu
 daveh.tc.uvu.edu
 ragan-ion.ad.uvu.edu
@@ -2900,8 +2803,6 @@ vpn-stud-146-50-157-32.vpn.uvu.edu
 linpal.uvu.edu
 synopsys.ad.uvu.edu
 reserved-16.uvu.edu
-www.heathogden.faculty.uvu.edu
-www.degreeworks.uvu.edu
 chitester-old.uvu.edu
 cpanel.vincerossi.faculty.uvu.edu
 virtual-temp.uvu.edu
@@ -2922,7 +2823,6 @@ tools-dev.tv.uvu.edu
 ctx-director-01.ad.uvu.edu
 dr-svm-vm-mgmt.uvu.edu
 saq-b-ip-ba.uvu.edu
-www.tylerstandifird.faculty.uvu.edu
 stephaniebutler.on.uvu.edu
 netapp1-rlm.uvu.edu
 host-161-28-28-33.uvu.edu
@@ -2957,7 +2857,6 @@ bomgar.uvu.edu
 wingate.uvu.edu
 vortex-public100.uvu.edu
 ipsec.uvu.edu
-wendikarbakhsh.faculty.uvu.edu
 tmsp.tc.uvu.edu
 austinmansfield.on.uvu.edu
 ws111epec5.cam.uvu.edu
@@ -2965,12 +2864,9 @@ adhp1.ad.uvu.edu
 prtgpubprobe2.ad.uvu.edu
 uweidev.uvu.edu
 aus.faculty.uvu.edu
-www.aus.faculty.uvu.edu
 dgmcheckout-dev.tc.uvu.edu
 pubs.acs.org.ezproxy.uvu.edu
-www.acs.org.ezproxy.uvu.edu
+acs.org.ezproxy.uvu.edu
 services.acs.org.ezproxy.uvu.edu
 pubs-acs-org.ezproxy.uvu.edu
-www.ncbi.nlm.nih.gov.ezproxy.uvu.edu
-www.uvscs.uvu.edu
-www.virtuallabex.uvu.edu
+ncbi.nlm.nih.gov.ezproxy.uvu.edu

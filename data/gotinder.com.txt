@@ -1,12 +1,10 @@
-*.gotinder.com
-*.a.ue1az.gotinder.com
-*.c.ue1az.gotinder.com
-*.prodv2.gotinder.com
-*.staging1.gotinder.com
-*.staging3.gotinder.com
-*.ue1az.gotinder.com
-1712052.gotinder.com
 a.ue1az.gotinder.com
+c.ue1az.gotinder.com
+prodv2.gotinder.com
+staging1.gotinder.com
+staging3.gotinder.com
+ue1az.gotinder.com
+1712052.gotinder.com
 accoint.gotinder.com
 account.gotinder.com
 account.staging-communications.gotinder.com
@@ -90,7 +88,6 @@ botrank.staging1.gotinder.com
 botrank.ue1az.gotinder.com
 botrank2.gotinder.com
 build.gotinder.com
-c.ue1az.gotinder.com
 cerebro.gotinder.com
 chapo.gotinder.com
 chapo.ops1.gotinder.com
@@ -353,7 +350,6 @@ prodtest3-tools.gotinder.com
 prodtest3-webapp.gotinder.com
 prodtest3-website.gotinder.com
 prodtest3-website-api.gotinder.com
-prodv2.gotinder.com
 proffiscodtest1-keepalive-alb.gotinder.com
 prom-flink.staging1.gotinder.com
 prometheus.gotinder.com
@@ -407,8 +403,6 @@ staging-poc.gotinder.com
 staging-recs.gotinder.com
 staging-revenue.gotinder.com
 staging-trust.gotinder.com
-staging1.gotinder.com
-staging3.gotinder.com
 static.gotinder.com
 static-assets.gotinder.com
 story-assets.gotinder.com
@@ -443,7 +437,6 @@ tools.staging-revenue.gotinder.com
 tools.staging-trust.gotinder.com
 tools.staging1.gotinder.com
 tspdemo.gotinder.com
-ue1az.gotinder.com
 uno.gotinder.com
 upgrade-test.gotinder.com
 username.staging-communications.gotinder.com
@@ -471,18 +464,10 @@ website.staging-recs.gotinder.com
 website.staging-revenue.gotinder.com
 website.staging-trust.gotinder.com
 website.staging1.gotinder.com
-www.gotinder.com
-www.api.gotinder.com
-www.b9.gotinder.com
-www.content.gotinder.com
-www.gp.gotinder.com
-www.pagp.gotinder.com
-www.vpn.gotinder.com
 404: not foundaccount.gotinder.com
 obiapp.gotinder.com
 vip-2427718g18.gotinder.com
 _spf1.gotinder.com
-www.dev1.gotinder.com
 b.ue1az.gotinder.com
 d.ue1az.gotinder.com
 web.b.ue1az.pt.gotinder.com

@@ -23,7 +23,6 @@ traefik.tensing-live.zehka.net
 telemetry.zehka.net
 jimmy2.zehka.net
 wohnrad.zehka.net
-www.src.wohnrad.zehka.net
 mumble.zehka.net
 natenom.de.zehka.net
 graphs.zehka.net
@@ -36,14 +35,12 @@ matrix.zehka.net
 bouncer.zehka.net
 spd-duissern.zehka.net
 bombadil-mail.zehka.net
-www.zehka.net
 telemetry2.zehka.net
 git.zehka.net
 beta.zehka.net
 ota.zehka.net
 live.zehka.net
 pve.goldberry.zehka.net
-www.wohnrad.zehka.net
 leak.zehka.net
 crazy-mahavira.docker.zehka.net
 tender-jackson.docker.zehka.net
@@ -68,7 +65,6 @@ hungry-darwin.docker.zehka.net
 db.nilstest.docker.zehka.net
 sso.zehka.net
 bbb.zehka.net
-www.spd-duissern.zehka.net
 quizzical-shannon.docker.zehka.net
 lucid-joliot.docker.zehka.net
 eloquent-pare.docker.zehka.net
@@ -117,7 +113,6 @@ romantic-perlman.docker.zehka.net
 quizzical-blackwell.docker.zehka.net
 music.mumble.zehka.net
 meet.zehka.net
-www.beta.zehka.net
 ww.wohnrad.zehka.net
 renderer.grafanarender.docker.zehka.net
 thisisimportant.zehka.net

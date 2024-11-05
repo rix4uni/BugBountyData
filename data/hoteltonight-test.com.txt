@@ -366,13 +366,8 @@ places._domainkey.hoteltonight-test.com
 places._tcp.hoteltonight-test.com
 api-docs._tcp.hoteltonight-test.com
 sigzetta.hoteltonight-test.com
-www.hoteltonight-test.com
 waf.hoteltonight-test.com
 test-domain-2.hoteltonight-test.com
-*.hoteltonight-test.com
-*.internal.hoteltonight-test.com
-*.perftest.hoteltonight-test.com
-*.perftest-mini.hoteltonight-test.com
 magenta.hoteltonight-test.com
 origin-test.hoteltonight-test.com
 test-domain.hoteltonight-test.com

@@ -1,5 +1,4 @@
 it.coalitioninc.com
-*.it.coalitioninc.com
 crm.css.coalitioninc.com
 scim.coalitioninc.com
 security.coalitioninc.com
@@ -27,10 +26,5 @@ web.coalitioninc.com
 reggie.it.coalitioninc.com
 assets.security.coalitioninc.com
 internal.coalitioninc.com
-www.coalitioninc.com
 staging.coalitioninc.com
-*.staging.coalitioninc.com
-*.demo.coalitioninc.com
 dev.coalitioninc.com
-*.dev.coalitioninc.com
-*.coalitioninc.com

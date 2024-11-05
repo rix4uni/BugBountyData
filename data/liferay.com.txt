@@ -573,7 +573,6 @@ paynetportal-dev.lxc.liferay.com
 paynetportal-uat.lxc.liferay.com
 paynetportal.lxc.liferay.com
 orca.liferay.com
-*.orca.liferay.com
 admin-a9b2.lxc.liferay.com
 sura-uat.lxc.liferay.com
 sura.lxc.liferay.com
@@ -591,7 +590,6 @@ vitroemployeeptl-uat.lxc.liferay.com
 vitroemployeeptl.lxc.liferay.com
 web.liferay.com
 goodwill-dev.lxc.liferay.com
-www.liferay.com
 p2s7-preprod.lxc.liferay.com
 portales2-uat.lxc.liferay.com
 provisioning-test-uat.lxc.liferay.com
@@ -780,16 +778,10 @@ ecktest.lxc.liferay.com
 ecktest-uat.lxc.liferay.com
 admin-j8k9-modl.lxc.liferay.com
 repository.liferay.com
-www.login-dev.liferay.com
-*.lxc.liferay.com
-*.liferay.com
-*.a2x9-modl.lxc.liferay.com
-*.a9b2-modl.lxc.liferay.com
-*.b5r4-modl.lxc.liferay.com
-*.b6y9-modl.lxc.liferay.com
-*.c8x0-modl.lxc.liferay.com
-*.d4a3-modl.lxc.liferay.com
-*.e3v8-modl.lxc.liferay.com
+a9b2-modl.lxc.liferay.com
+b6y9-modl.lxc.liferay.com
+c8x0-modl.lxc.liferay.com
+e3v8-modl.lxc.liferay.com
 portales1.lxc.liferay.com
 portales2.lxc.liferay.com
 cloud-10-21-4-1.liferay.com
@@ -812,7 +804,6 @@ security-compliance-dev.liferay.com
 com.liferay.com
 admin-e5a2-uat.lxc.liferay.com
 admin-t7g2.lxc.liferay.com
-www.university.liferay.com
 goodwill--uat-lxc-liferay-com-test.lxc.liferay.com
 learn-dev.liferay.com
 lexicon-uat.lxc.liferay.com
@@ -825,7 +816,6 @@ biocaresdportal-preprod.lxc.liferay.com
 haproxy-float-21.liferay.com
 admin.k8c3-modl.lxc.liferay.com
 patcher-dev.lxc.liferay.com
-www.lesa-files.hu.liferay.com
 macrohealthpoc.lxc.liferay.com
 portalesweb-dev.lxc.liferay.com
 vm-7.liferay.com
@@ -857,7 +847,6 @@ available.liferay.com
 cloud-10-23-0-2.liferay.com
 evp-dev-preprod.lxc.liferay.com
 us.lax.liferay.com
-www.lesa-files-uat.us.liferay.com
 brim-uat.lxc.liferay.com
 g6s9-modl.lxc.liferay.com
 t7g2-modl.lxc.liferay.com
@@ -889,7 +878,6 @@ marketing-jp-uat.lxc.liferay.com
 vm-26.liferay.com
 hillsclerkportal.lxc.liferay.com
 sbcportal-dev.lxc.liferay.com
-www.educate.liferay.com
 admin-x1e4-prd3.lxc.liferay.com
 haproxy-float-20.liferay.com
 git.liferay.com
@@ -921,7 +909,6 @@ vm-3.liferay.com
 meet.liferay.com
 downloads.liferay.com
 sura-preprod.lxc.liferay.com
-www.training.liferay.com
 evp-uat.liferay.com
 haproxy-float-29.liferay.com
 qdexintldata.lxc.liferay.com
@@ -930,7 +917,6 @@ admin-e5a2-preprod.lxc.liferay.com
 admin-l6o0.lxc.liferay.com
 evp-uat-preprod.lxc.liferay.com
 wall-5.liferay.com
-e3v8-modl.lxc.liferay.com
 haproxy-float-36.liferay.com
 haproxy-float-52.liferay.com
 ldap.liferay.com
@@ -943,7 +929,6 @@ alsina-preprod.lxc.liferay.com
 haproxy-float-10.liferay.com
 issues.liferay.com
 admin-j5q1.lxc.liferay.com
-www.partner-educate.liferay.com
 aenorportalweb-dev.lxc.liferay.com
 partner-clone.lxc.liferay.com
 solutions-clone.lxc.liferay.com
@@ -999,9 +984,7 @@ admin-h0y4.lxc.liferay.com
 evp-dev.liferay.com
 websepes-uat.lxc.liferay.com
 aenorportalweb-uat.lxc.liferay.com
-c8x0-modl.lxc.liferay.com
 mp.liferay.com
-www.dev.liferay.com
 content.liferay.com
 testprovisioningu86-uat.lxc.liferay.com
 support-dev.liferay.com
@@ -1066,7 +1049,6 @@ ofhijosderivera-uat-preprod.lxc.liferay.com
 qalxc-uat02.lxc.liferay.com
 p5k1-modl.lxc.liferay.com
 alloy.liferay.com
-www.login.liferay.com
 cloud-10-0-40-5.liferay.com
 cloud-10-0-40-10.liferay.com
 haproxy-float-106.liferay.com
@@ -1134,7 +1116,6 @@ n7m2-modl.lxc.liferay.com
 nmgditbmswam-dev.lxc.liferay.com
 qdexintldata-uat.lxc.liferay.com
 service.portal.liferay.com
-b6y9-modl.lxc.liferay.com
 ifqmportal-uat.lxc.liferay.com
 support-uat-preprod.lxc.liferay.com
 yamahamotorydo.lxc.liferay.com
@@ -1181,7 +1162,6 @@ z5a1-modl.lxc.liferay.com
 haproxy-float-25.liferay.com
 b4u3-modl.lxc.liferay.com
 l1o8-modl.lxc.liferay.com
-www.lesa-files-uat.hu.liferay.com
 ns-2.liferay.com
 vm-33.liferay.com
 wall-1.lax.liferay.com
@@ -1212,9 +1192,7 @@ vm-22.liferay.com
 svn.liferay.com
 model.kernel.portal.liferay.com
 haproxy-float-104.liferay.com
-www.lesa-files.us.liferay.com
 portalesweb-uat.lxc.liferay.com
-www.learn.liferay.com
 model.portal.liferay.com
 admin-e3v8.lxc.liferay.com
 admin-v1e6.lxc.liferay.com
@@ -1229,7 +1207,6 @@ admin-z5a1-preprod.lxc.liferay.com
 admin-z5a1.lxc.liferay.com
 ifqmportal.lxc.liferay.com
 patcher-dev-clone.lxc.liferay.com
-a9b2-modl.lxc.liferay.com
 marketplace-dev.liferay.com
 admin-k4p9.lxc.liferay.com
 uat.lxc.liferay.com

@@ -146,7 +146,6 @@ femida.kontur.ru
 dostup.kontur.ru
 developer.kontur.ru
 diadoc-connector-api.kontur.ru
-www.focus.kontur.ru
 event.kontur.ru
 autodiag-dummy.kontur.ru
 r78-extern.kontur.ru
@@ -162,16 +161,13 @@ kassy.kontur.ru
 wic.kontur.ru
 forms.kontur.ru
 tp.kontur.ru
-www.zakupki.kontur.ru
 connector.kontur.ru
 paystats.kontur.ru
 certs.kontur.ru
 sales.kontur.ru
 panorama.kontur.ru
 reestro-docs.kontur.ru
-www.elba.kontur.ru
 egais.kontur.ru
-www.kontur.ru
 tools.kontur.ru
 s.kontur.ru
 crypto.kontur.ru
@@ -251,7 +247,6 @@ dev.kontur.ru
 express.kontur.ru
 mon.kontur.ru
 egais-demo.kontur.ru
-www.ftp-edi-01.kontur.ru
 api-normativ.kontur.ru
 egr.kontur.ru
 diadoc-test.kontur.ru
@@ -271,4 +266,3 @@ ns1.kontur.ru
 piwik.kontur.ru
 svetofor.kontur.ru
 expert.kontur.ru
-*.kontur.ru

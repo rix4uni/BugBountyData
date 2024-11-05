@@ -243,10 +243,10 @@ mta-sts.uploadmail.qs.datev.de
 triples.dev.datev.de
 community.datev.de
 mailout01.ms365.dev.datev.de
-www.ut.pages.gitscm.alm.datev.de
+ut.pages.gitscm.alm.datev.de
 serviceformulare.datev.de
 mailin.restmail.dev.datev.de
-www.umfrage2.datev.de
+umfrage2.datev.de
 accessu1.vdi.pp.datev.de
 cncportal.datev.de
 institutionen.secure.datev.de
@@ -254,7 +254,6 @@ artifactory.qs.datev.de
 e-rechnungsplattform.datev.de
 serviceformulare.dev.datev.de
 serviceformulare.qs.datev.de
-www.crowdfunding.datev.de
 crowdfunding.datev.de
 doc.portfoliocheck.sam.datev.de
 imr.internetservices.lab.datev.de
@@ -266,10 +265,8 @@ internetservices.lab.datev.de
 artifactory.datev.de
 api.il.lab.datev.de
 datacatalog.dev.datev.de
-www.gemeinsam-besser-machen.qs.datev.de
 gemeinsam-besser-machen.qs.datev.de
 gemeinsam-besser-machen.dev.datev.de
-www.gemeinsam-besser-machen.dev.datev.de
 portfoliocheck.ut.pages.gitscm.alm.datev.de
 stream.vms.pp.datev.de
 secure18.qs.datev.de
@@ -331,7 +328,6 @@ vpn3.dnet.qs.datev.de
 analyticsresults.datev.de
 releases.gitscm.alm.qs.datev.de
 jenkins.datev.de
-www.kanzleiboerse.qs.datev.de
 kanzleiboerse.qs.datev.de
 kanzleiboerse.dev.datev.de
 administration.secure.datev.de
@@ -343,7 +339,6 @@ itsm-dokuapi.prod.datev.de
 clusters.k8s.datev.de
 git.qs.datev.de
 bildungsforum.datev.de
-www.bildungsforum.datev.de
 staging.bildungsforum.datev.de
 login-smartit.csp.qs.datev.de
 foerdermittelcheck-api.inkubator.dev.datev.de
@@ -368,18 +363,15 @@ restproxy-0.cluster2.kafka.dev.datev.de
 lexinform-recht.secure.datev.de
 memvreply01.datev.de
 cloudsoftware-prerelease.datev.de
-www.dialogseminar-online-app.datev.de
 vpn23.dnet.qs.datev.de
 ns04.qs.datev.de
 prx193027051090.datev.de
 prx193027051111.datev.de
 prx193027052197.datev.de
-www.mobilelog.datev.de
 voice.api.qs.datev.de
 confluence.datev.de
 securepro2.datev.de
 ems.pp.datev.de
-www.vmanage-cisco.dev.datev.de
 api.qs.datev.de
 api.dev.datev.de
 datevvpn03.datev.de
@@ -413,4 +405,3 @@ e196225e2.datev.de
 idv878dh02.datev.de
 identitymanager.datev.de
 vpn02.gocloud.datev.de
-www.datev.de

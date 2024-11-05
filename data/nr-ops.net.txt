@@ -430,7 +430,6 @@ pr-10274.rpm-branch.nr-ops.net
 pr-13796.rpm-branch.nr-ops.net
 pr-16775.rpm-branch.nr-ops.net
 pr-18023.rpm-branch.nr-ops.net
-www.rpm-branch.nr-ops.net
 pr-14628.rpm-branch.nr-ops.net
 pr-16993.rpm-branch.nr-ops.net
 vault-dr-four.test-basic-boy.cell.us.nr-ops.net
@@ -1004,7 +1003,7 @@ stg-red-car.cell.us.nr-ops.net
 wf3a.cell.us.nr-ops.net
 cf1a.cell.us.nr-ops.net
 xe-1-0-2.br01.ord1.us.nr-ops.net
-www.ldap.svc.us.nr-ops.net
+ldap.svc.us.nr-ops.net
 mf2a.cell.us.nr-ops.net
 pr-14242.rpm-branch.nr-ops.net
 grandcentral-argo-test.ar2a.cell.us.nr-ops.net
@@ -1366,7 +1365,6 @@ pr-333.logs-search-receiver.ap.rpm-branch.nr-ops.net
 nat.fw02.ord4.us.nr-ops.net
 pr-17336.rpm-branch.nr-ops.net
 pr-16500.rpm-branch.nr-ops.net
-www.ldap-provider.svc.us.nr-ops.net
 pr-17777.rpm-branch.nr-ops.net
 pr-12538.rpm-branch.nr-ops.net
 pr-14887.rpm-branch.nr-ops.net
@@ -1411,8 +1409,6 @@ pr-16243.rpm-branch.nr-ops.net
 pr-16685.rpm-branch.nr-ops.net
 us-hardcore-hopper.cell.us.nr-ops.net
 stg-teeny-toes.cell.us.nr-ops.net
-www.nexpose-insightvm.awsdev.nr-ops.net
-ldap.svc.us.nr-ops.net
 pr-13163.rpm-branch.nr-ops.net
 stg-hamster-wheel.cell.us.nr-ops.net
 br02.ord.us.nr-ops.net
@@ -1644,7 +1640,6 @@ cf-registry.nr-ops.net
 us-great-idea.cell.us.nr-ops.net
 us-banana-grams.cell.us.nr-ops.net
 pr-18783.rpm-branch.nr-ops.net
-www.vault-test.r10.us.nr-ops.net
 pr-16366.rpm-branch.nr-ops.net
 pr-18328.rpm-branch.nr-ops.net
 pr-10679.rpm-branch.nr-ops.net
@@ -1940,9 +1935,6 @@ dev.coreint.nr-ops.net
 pr-13899.rpm-branch.nr-ops.net
 caa.test-basic-boy.cell.us.nr-ops.net
 eu-hot-chili.cell.eu.nr-ops.net
-*.eu-proud-roof.cell.eu.nr-ops.net
-*.stg-sunset-orange.cell.us.nr-ops.net
-*.stg-dozy-posy.cell.us.nr-ops.net
 kafka.test-lemon-peel.cell.us.nr-ops.net
 nerd-completion.staging-service.nr-ops.net
 kafka.test-beneficial-bean.cell.us.nr-ops.net
@@ -2008,7 +2000,6 @@ staging-credential-service.nr-ops.net
 pizza.jc1g.cell.us.nr-ops.net
 us-infinite-loop.cell.us.nr-ops.net
 us-toe-beans.cell.us.nr-ops.net
-www.nr-ops.net
 stg-good-idea.cell.us.nr-ops.net
 foobar.dp2a.cell.us.nr-ops.net
 test.test-basic-boy.cell.us.nr-ops.net
@@ -2028,23 +2019,11 @@ idp-service.staging-service.nr-ops.net
 vault-upgrade-secondary.test-basic-boy.cell.us.nr-ops.net
 stg-not-again.cell.us.nr-ops.net
 psql-prod-grandcentral.nr-ops.net
-www.cserv-graphql-gateway.nr-ops.net
 us-view-source.cell.us.nr-ops.net
 us-evil-algorithm.cell.us.nr-ops.net
 test-arctic-tern.cell.us.nr-ops.net
 us-cromulent-word.cell.us.nr-ops.net
-*.stg-wild-animal.cell.us.nr-ops.net
-*.eu-bander-snatch.cell.eu.nr-ops.net
-*.eu-silly-club.cell.eu.nr-ops.net
-*.us-tasty-fry.cell.us.nr-ops.net
-*.stg-new-job.cell.us.nr-ops.net
-*.stg-big-metric.cell.us.nr-ops.net
-*.stg-thin-clerk.cell.us.nr-ops.net
-*.stg-graphic-design.cell.us.nr-ops.net
-*.us-drop-bear.cell.us.nr-ops.net
-*.stg-strange-ways.cell.us.nr-ops.net
-*.kafka.stg-big-metric.cell.us.nr-ops.net
-*.us-public-opinion.cell.us.nr-ops.net
-*.eu-glass-king.cell.eu.nr-ops.net
-kafka.test-long-sprint.cell.us.nr-ops.net
 stg-big-metric.cell.us.nr-ops.net
+stg-strange-ways.cell.us.nr-ops.net
+kafka.stg-big-metric.cell.us.nr-ops.net
+kafka.test-long-sprint.cell.us.nr-ops.net

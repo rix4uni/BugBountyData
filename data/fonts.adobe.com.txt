@@ -1,15 +1,11 @@
-*.annotate-staging.fonts.adobe.com
-*.annotate.fonts.adobe.com
-*.fonts.adobe.com
+annotate-staging.fonts.adobe.com
+annotate.fonts.adobe.com
 assets.fonts.adobe.com
 stats.fonts.adobe.com
 afwebcdn.fonts.adobe.com
-annotate.fonts.adobe.com
 labs.fonts.adobe.com
 ccjktype.fonts.adobe.com
 api.fonts.adobe.com
-annotate-staging.fonts.adobe.com
 signed-assets.fonts.adobe.com
 feature-config.fonts.adobe.com
 game.fonts.adobe.com
-www.fonts.adobe.com

@@ -17,7 +17,6 @@ pre.mytravelsolution.com
 qa.mytravelsolution.com
 prelogs.mytravelsolution.com
 prw2.mytravelsolution.com
-www.mytravelsolution.com
 seguridad.mytravelsolution.com
 ftp.mytravelsolution.com
 stg-www.mytravelsolution.com
@@ -60,7 +59,6 @@ testusersexportsvalidation.mytravelsolution.com
 testusersimports.mytravelsolution.com
 testusersimportsvalidation.mytravelsolution.com
 testusers.mytravelsolution.com
-*.mytravelsolution.com
 autodiscover.mytravelsolution.com
 int.mytravelsolution.com
 msoid.mytravelsolution.com

@@ -93,7 +93,7 @@ plywood.imply.io
 eastus.azure.api-int.saas-stg.imply.io
 jdbc.eu-central-1.aws.api.eng.imply.io
 westeurope.azure.api.imply.io
-www.zachgketest.gcp.imply.io
+zachgketest.gcp.imply.io
 ap-southeast-1.aws.app.imply.io
 westeurope.azure.api.saas-stg.imply.io
 imply-gb-mmle.gcp.imply.io
@@ -233,7 +233,7 @@ eu-central-1.aws.api.eng.imply.io
 jdbc.eu-west-1.aws.api.imply.io
 grafana.qa.imply.io
 imply-gb-gke.gcp.imply.io
-www.partners.imply.io
+partners.imply.io
 us-east-2.aws.api.saas-stg.imply.io
 imply-ml-gketest.gcp.imply.io
 imply-demo2023.gcp.imply.io
@@ -245,7 +245,6 @@ imply-ttgke.gcp.imply.io
 saleshub.imply.io
 imply-walmart.gcp.imply.io
 us-east-1.aws.api.eng.imply.io
-www.imply.io
 imply-v-citrix.gcp.imply.io
 jenkins.support.imply.io
 test.eng.imply.io
@@ -297,7 +296,6 @@ us-east-1.aws.saas-sre.imply.io
 eu-west-1.aws.api-int.imply.io
 imply-cristian.gcp.imply.io
 imply-zach-10.gcp.imply.io
-partners.imply.io
 ap-south-1.aws.sre.saas-stg.imply.io
 us-west-2.aws.saas-sre.imply.io
 jenkins.qa.imply.io
@@ -317,7 +315,6 @@ imply-bibalp.gcp.imply.io
 imply-ml-se-gke.gcp.imply.io
 ap-northeast-2.aws.app.saas-stg.imply.io
 static.imply.io
-www.wp-site-prod.imply.io
 3dorg.api.imply.io
 jdbc.eu-west-1.aws.api.saas-stg.imply.io
 saas.imply.io

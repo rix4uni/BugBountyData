@@ -1,6 +1,5 @@
-*.tiktokv.com
-*.fcdn.us.tiktokv.com
-*.us.tiktokv.com
+fcdn.us.tiktokv.com
+us.tiktokv.com
 activity-va.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-va.tiktokv.com
@@ -193,7 +192,6 @@ dm16-va.tiktokv.com
 dm22-alisg.tiktokv.com
 echo.tiktokv.com
 eu.tiktokv.com
-fcdn.us.tiktokv.com
 fp.us2.tiktokv.com
 frontier.tiktokv.com
 frontier-ru.tiktokv.com
@@ -347,7 +345,6 @@ ugattribution-i18n.tiktokv.com
 ugattribution-sg.tiktokv.com
 unavailable.tiktokv.com
 upload22-normal-c-alisg.tiktokv.com
-us.tiktokv.com
 v.tiktokv.com
 v-va.tiktokv.com
 v16.tiktokv.com
@@ -484,7 +481,6 @@ webcast58-normal-alisg.tiktokv.com
 widget-i18n.tiktokv.com
 widget-sg.tiktokv.com
 widget-va.tiktokv.com
-www.tiktokv.com
 xdevice-api.tiktokv.com
 xlog.tiktokv.com
 xlog-va.tiktokv.com

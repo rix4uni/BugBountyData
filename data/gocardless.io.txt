@@ -153,7 +153,7 @@ tekton.gocardless.io
 prometheus.internal.gocardless.io
 obt-admin.gocardless.io
 directli-rabbitmq-sandbox.gocardless.io
-www.developer-handbook.gocardless.io
+developer-handbook.gocardless.io
 deployments-event-listener-lab.gocardless.io
 tekton-event-listener-lab.gocardless.io
 build-lab.gocardless.io
@@ -161,7 +161,7 @@ airflow-flower.gocardless.io
 build.gocardless.io
 kibana-lab.gocardless.io
 deployments-event-listener.gocardless.io
-www.engineering.gocardless.io
+engineering.gocardless.io
 medusa.gocardless.io
 agora-data-docs-staging.gocardless.io
 bi-documentation.gocardless.io
@@ -261,14 +261,11 @@ risk-que.gocardless.io
 spoc-staging.gocardless.io
 bp-webhooks-prd.gocardless.io
 it-handbook.gocardless.io
-developer-handbook.gocardless.io
-engineering.gocardless.io
 draupnir-lab-staging.gocardless.io
 dashboard.gocardless.io
 skyhook-sandbox.gocardless.io
 airflow-devel-ng.gocardless.io
 open-banking-gateway.gocardless.io
-www.gocardless.io
 visual-regression-results.gocardless.io
 directli-rabbitmq.gocardless.io
 directli-rabbitmq-staging.gocardless.io

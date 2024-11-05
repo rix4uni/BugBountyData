@@ -2,7 +2,6 @@ stores-picking.superpal.com
 catalog-review.superpal.com
 hugo-crm-center.superpal.com
 picking-endpoints-api.superpal.com
-www.superpal.com
 hugo-tms.superpal.com
 shoppercenter-api.superpal.com
 picking-endpoints-web.superpal.com
@@ -486,9 +485,7 @@ apicolombia-api.superpal.com
 totalorderdetail-api.superpal.com
 apiuserfulladdressfield-api.superpal.com
 storevisualizationrules-api.superpal.com
-*.superpal.com
 catalog-uber-api-cf-dev.superpal.com
-*.catalog-uber.superpal.com
 bouncer-brands-admin.superpal.com
 web-timeline.superpal.com
 ezedmedrescriezedmedtionslidation.whitelabel.superpal.com

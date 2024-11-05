@@ -135,7 +135,7 @@ ablink.lifecycle.onxmaps.com
 onxmaps-rs.docs.daily.onxmaps.com
 wp-main.production.onxmaps.com
 mtb-project.production.onxmaps.com
-www.staging.onxmaps.com
+staging.onxmaps.com
 layer-management.docs.daily.onxmaps.com
 identity-sdk.production.onxmaps.com
 try.onxmaps.com
@@ -178,7 +178,6 @@ mountain-project.staging.onxmaps.com
 mountain-project.production.onxmaps.com
 sharing.docs.daily.onxmaps.com
 onxcluster3.onxmaps.com
-www.onxmaps.com
 tpi.staging.onxmaps.com
 share-offroad.onxmaps.com
 offroute.consoles.daily.onxmaps.com
@@ -187,7 +186,7 @@ b5810646a7b6a0333cbf7c52a8cf02237.qa.onxmaps.com
 admin.daily.onxmaps.com
 previews.gis.onxmaps.com
 supergraph.consoles.daily.onxmaps.com
-www.production.onxmaps.com
+production.onxmaps.com
 offroute-bc.consoles.production.onxmaps.com
 ablink.marketing.onxmaps.com
 brandbook.onxmaps.com

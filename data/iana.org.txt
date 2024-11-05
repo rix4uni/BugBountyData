@@ -34,7 +34,6 @@ rzm-iana-ote.iana.org
 ftp.iana.org
 test.iana.org
 svn.iana.org
-www.iana.org
 app.iana.org
 beta.iana.org
 autodiscover.iana.org
@@ -42,14 +41,12 @@ dev.iana.org
 example.iana.org
 tree-91.iana.org
 tendency.7.iana.org
-www.ns.iana.org
 galileo.iana.org
 97cream.iana.org
 46.badge.iana.org
 50-surprise.iana.org
 pen.iana.org
 claim.iana.org
-www.itar.iana.org
 hydrant-67.iana.org
 snail11.iana.org
 credit.iana.org
@@ -79,13 +76,11 @@ svn.int.iana.org
 ntia-ui.iana.org
 rzm-ntia.iana.org
 blackhole-4.iana.org
-www.rzm-epp.iana.org
 ppa-request.iana.org
 ntia-portal.iana.org
 number-6.iana.org
 git.int.iana.org
 registry.int.iana.org
-www.rzm.iana.org
 blackhole-3.iana.org
 api.iana.org
 www2.iana.org

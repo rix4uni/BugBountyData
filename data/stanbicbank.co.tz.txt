@@ -1,4 +1,3 @@
-*.stanbicbank.co.tz
 api-gateway.stanbicbank.co.tz
 api-gateway.sandbox.stanbicbank.co.tz
 changecontrol.stanbicbank.co.tz
@@ -55,17 +54,13 @@ ussd.stanbicbank.co.tz
 utilitycode.stanbicbank.co.tz
 utilitycodeuat.stanbicbank.co.tz
 wakalauat.stanbicbank.co.tz
-www.stanbicbank.co.tz
-www.encrypt.stanbicbank.co.tz
-www.ibanking.stanbicbank.co.tz
+encrypt.stanbicbank.co.tz
 sbtussduat.stanbicbank.co.tz
 ussdtigouat.stanbicbank.co.tz
 wakala.stanbicbank.co.tz
 acsservices.stanbicbank.co.tz
 sbtussd.stanbicbank.co.tz
-encrypt.stanbicbank.co.tz
 m.stanbicbank.co.tz
-www.m.stanbicbank.co.tz
 webchat.stanbicbank.co.tz
 w.encrypt.stanbicbank.co.tz
 q1.stanbicbank.co.tz

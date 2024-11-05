@@ -19,8 +19,6 @@ cruise-control.main.production.kafka.art19.com
 rss.gamma.art19.com
 telemetry.art19.com
 webapp-assets.art19.com
-www.login.art19.com
-www.art19.com
 web-player.art19.com
 transcoder-production.art19.com
 cruise-control.main.gamma.kafka.art19.com
@@ -40,17 +38,12 @@ urls-rss.art19.com
 pubsub.art19.com
 rss.staging.art19.com
 webapp.production.cdn.art19.com
-www.admin.art19.com
 gamma.cdn.art19.com
 content.production.cdn.art19.com
 status.art19.com
 transcoder.art19.com
-www.cms.art19.com
 media-assets.art19.com
 pubsub-production.art19.com
-www.staging.art19.com
-www.transcoding.art19.com
-www.gamma.art19.com
 content.gamma.cdn.art19.com
 import-transcoder.us-west-1.staging.internal.art19.com
 router.gamma.imply.art19.com

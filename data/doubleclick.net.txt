@@ -1,10 +1,9 @@
-*.doubleclick.net
-*.au.doubleclick.net
-*.de.doubleclick.net
-*.fls.doubleclick.net
-*.fr.doubleclick.net
-*.jp.doubleclick.net
-*.uk.doubleclick.net
+au.doubleclick.net
+de.doubleclick.net
+fls.doubleclick.net
+fr.doubleclick.net
+jp.doubleclick.net
+uk.doubleclick.net
 ad.mo.doubleclick.net
 prefmgr-staging.doubleclick.net
 prefmgr-dev.doubleclick.net
@@ -408,10 +407,4 @@ agoogleads.g.doubleclick.net
 9405921.fls.doubleclick.net
 10049954.fls.doubleclick.net
 13952538.fls.doubleclick.net
-fr.doubleclick.net
-*.g.doubleclick.net
 g.doubleclick.net
-jp.doubleclick.net
-de.doubleclick.net
-au.doubleclick.net
-uk.doubleclick.net

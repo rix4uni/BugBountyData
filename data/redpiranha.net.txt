@@ -1,6 +1,5 @@
 ce-kickstart.au.inf.redpiranha.net
-*.redpiranha.net
-*.cesoc.redpiranha.net
+cesoc.redpiranha.net
 rdp.admin.redpiranha.net
 grafana-watchtower-au1.inf.redpiranha.net
 draw.redpiranha.net
@@ -13,7 +12,6 @@ forum.redpiranha.net
 cloud.redpiranha.net
 store.redpiranha.net
 externalchecks.redpiranha.net
-www.redpiranha.net
 simplerisk.compliance.redpiranha.net
 site.redpiranha.net
 test.redpiranha.net

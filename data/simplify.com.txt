@@ -1,7 +1,6 @@
-*.simplify.com
-*.mtf.simplify.com
-*.store.simplify.com
-*.store.mtf.simplify.com
+mtf.simplify.com
+store.simplify.com
+store.mtf.simplify.com
 affordassist.store.simplify.com
 alieninnptyltd.store.simplify.com
 api.simplify.com
@@ -63,7 +62,6 @@ minbeiblabeib.store.simplify.com
 montlasalle.store.simplify.com
 montlasallelb.store.simplify.com
 mse1.obenpta.store.simplify.com
-mtf.simplify.com
 mtf.static.simplify.com
 my-fair-sweets.store.simplify.com
 mytillytreats.store.simplify.com
@@ -91,8 +89,6 @@ stage.simplify.com
 stage.static.simplify.com
 standardbank.store.simplify.com
 static.simplify.com
-store.simplify.com
-store.mtf.simplify.com
 store.uat.simplify.com
 stutysbakehouse.store.simplify.com
 test-16.store.simplify.com
@@ -108,7 +104,6 @@ virus0316-bgi.store.simplify.com
 virus0316-qa.store.simplify.com
 virus0316bmart.store.simplify.com
 virus0316pvs.store.simplify.com
-www.simplify.com
 www2.simplify.com
 www2.api.simplify.com
 www2.sandbox.simplify.com
@@ -592,8 +587,8 @@ tannenexpress.simplify.com
 vickyscurly.store.simplify.com
 w.simplify.com
 webmail.simplify.com
-www.hgtv.simplify.com
-www.naic.simplify.com
+hgtv.simplify.com
+naic.simplify.com
 admin.store.simplify.com
 cms.store.simplify.com
 db.store.simplify.com
@@ -2982,7 +2977,7 @@ system.corp.er3.administrator.store.mtf.simplify.com
 asn-production.store.mtf.simplify.com
 1qy8tt40p7n9v7tao3knw537-wpengine.store.mtf.simplify.com
 aws.store.mtf.simplify.com
-www.go.simplify.com
+go.simplify.com
 addons.store.mtf.simplify.com
 72tzn6mykkeo8yoc.store.mtf.simplify.com
 abc12crossstitch.store.mtf.simplify.com
@@ -3368,7 +3363,6 @@ do.213.store.mtf.simplify.com
 a3ocy.store.mtf.simplify.com
 a8hfu5ml605jrs8b.datax.aws.store.mtf.simplify.com
 axis4-web.store.mtf.simplify.com
-www.connect.simplify.com
 rp.toolbar.alpha-er3.store.mtf.simplify.com
 angel-celynrejusogmailcom.store.mtf.simplify.com
 alimentossaludables.store.mtf.simplify.com
@@ -3453,7 +3447,6 @@ aaaaa.store.mtf.simplify.com
 corp.adm-er3.store.mtf.simplify.com
 9i5srsue853lmfya.store.mtf.simplify.com
 atleagle.store.mtf.simplify.com
-www.apps.store.mtf.simplify.com
 cgi.corp.1-er3.store.mtf.simplify.com
 static.authenticate.store.mtf.simplify.com
 astgi-docs.store.mtf.simplify.com
@@ -4163,7 +4156,6 @@ corp.github.apache-er3.store.mtf.simplify.com
 s.beta.rpc.ingress.authenticate.store.mtf.simplify.com
 2-ns3.store.mtf.simplify.com
 9svk1jx7ww1mazrj.store.mtf.simplify.com
-go.simplify.com
 aomenjinshabocai.store.mtf.simplify.com
 218-64-116-037.store.mtf.simplify.com
 cret.11.store.mtf.simplify.com
@@ -4829,7 +4821,6 @@ aedy2j2eivpoodh1.store.mtf.simplify.com
 209-56-117-056.store.mtf.simplify.com
 204-64-117-082.store.mtf.simplify.com
 app-test.store.mtf.simplify.com
-www.authenticate.store.mtf.simplify.com
 776ypfxv7doqwjx7.store.mtf.simplify.com
 0z10qq67yygrbpu8.store.mtf.simplify.com
 aoying88zixunwangboyingtouzi.store.mtf.simplify.com
@@ -4912,7 +4903,6 @@ ar.store.mtf.simplify.com
 divine.store.simplify.com
 module-sympy.simplify.com
 gloam.store.simplify.com
-www.mr-chow-brewing-co.store.simplify.com
 dsec.store.simplify.com
 dohavets.store.simplify.com
 ccftasearthawards.store.simplify.com

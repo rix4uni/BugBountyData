@@ -1,7 +1,7 @@
 android.crownbet.com.au
 card.svt.env.crownbet.com.au
 crwn-mel-expe01.crownbet.com.au
-www.svt.env.crownbet.com.au
+svt.env.crownbet.com.au
 content.crownbet.com.au
 intppal.ci.env.crownbet.com.au
 mta2.email.crownbet.com.au
@@ -73,7 +73,6 @@ fraudnet-mock-service.crownbet.com.au
 intcard.ci.env.crownbet.com.au
 salesadmin.crownbet.com.au
 smtp10.fun.crownbet.com.au
-www.uat.env.crownbet.com.au
 fraud-assessment-service.crownbet.com.au
 sig.crownbet.com.au
 corporate.crownbet.com.au
@@ -86,7 +85,6 @@ intppal.crownbet.com.au
 ns1.new.crownbet.com.au
 feedlogapi.crownbet.com.au
 api.crownbet.com.au
-www.crownbet.com.au
 card.uat.env.crownbet.com.au
 contentful.crownbet.com.au
 intppal.uat.env.crownbet.com.au
@@ -111,7 +109,6 @@ ns2.fun.crownbet.com.au
 marketingadminapi.crownbet.com.au
 mta.email.crownbet.com.au
 ns2.info.crownbet.com.au
-svt.env.crownbet.com.au
 finance360-api.crownbet.com.au
 bir.svt.env.crownbet.com.au
 intercept.crownbet.com.au

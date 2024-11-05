@@ -14,7 +14,7 @@ publiccloudimagechangeinfo.suse.com
 myaccount.suse.com
 lists-stage.suse.com
 mailman-stage.eks-prod.suse.com
-*.prenv.trento.suse.com
+prenv.trento.suse.com
 ci.edge.suse.com
 support-ftps.suse.com
 support-ftp.emea.suse.com
@@ -26,12 +26,10 @@ chat.suse.com
 partner.suse.com
 static.scc.suse.com
 badges.suse.com
-www.suse.com
 wwwsuseprd.eks-prod.suse.com
 kubernetes-charts.suse.com
 kcharts.suse.com
 susechampions.suse.com
-*.suse.com
 build.suse.com
 ptf.suse.com
 repos.suse.com
@@ -41,7 +39,6 @@ sources.suse.com
 registry.suse.com
 registry-storage.suse.com
 forums.suse.com
-www.forums.suse.com
 jobs.suse.com
 jira.suse.com
 confluence.suse.com
@@ -59,7 +56,6 @@ jira-dev.eks-dev.suse.com
 suseconlinks.trento.suse.com
 groove.suse.com
 developer.suse.com
-www.developer.suse.com
 packagehub.suse.com
 drivers.suse.com
 beta.suse.com
@@ -84,7 +80,6 @@ scc-test.suse.com
 sd.suse.com
 kb.suse.com
 ranchercomprd.eks-prod.suse.com
-*.cdn.suse.com
 cdn.suse.com
 test-customer-uploads.suse.com
 customer-uploads.suse.com
@@ -115,9 +110,8 @@ fate.suse.com
 login-opensuse.suse.com
 hackweek.suse.com
 trento.suse.com
-*.trento.suse.com
 community.suse.com
-*.corp.suse.com
+corp.suse.com
 test-rancher-aws.itpe.suse.com
 kbtest.corp.suse.com
 jirasdtest.corp.suse.com
@@ -126,9 +120,7 @@ wiki-stg.corp.suse.com
 frawpcsbtmw01.corp.suse.com
 cf-buildpacks.suse.com
 testbucket.suse.com
-www.wiki.corp.suse.com
 wiki.corp.suse.com
-www.ir.suse.com
 registry-storage-staging.suse.com
 iprint.suse.com
 meet.suse.com
@@ -140,7 +132,6 @@ fralpcsremote02.corp.suse.com
 events.suse.com
 xmpp.suse.com
 autodiscover.suse.com
-www.jobs.suse.com
 dialin.suse.com
 ucupdates-r2.suse.com
 susecomstg.eks-prod.suse.com
@@ -155,7 +146,6 @@ partners.suse.com
 hydra.suse.com
 peng-node3.suse.com
 nat2.nue.suse.com
-prenv.trento.suse.com
 sdb.suse.com
 int.opti.suse.com
 nat3.prg.suse.com

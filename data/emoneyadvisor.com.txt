@@ -21,7 +21,7 @@ confluence.ema.emoneyadvisor.com
 bmiller01.ema.emoneyadvisor.com
 appdev-jenkins.ema.emoneyadvisor.com
 vfdv-lbsrpt04.emadev.emoneyadvisor.com
-www.na.emoneyadvisor.com
+na.emoneyadvisor.com
 internalsys-jenkins.ema.emoneyadvisor.com
 vfsv-docker07.dmz.emoneyadvisor.com
 vfsv-embweb81.dmz.emoneyadvisor.com
@@ -87,7 +87,6 @@ vfcv-pptsvr02.ema.emoneyadvisor.com
 awssplunkhf01.ema.emoneyadvisor.com
 lvcuccxs01.ema.emoneyadvisor.com
 vfsv-embweb51.dmz.emoneyadvisor.com
-www.blog.emoneyadvisor.com
 vfprodfw.emoneyadvisor.com
 vfccuxnp01.ema.emoneyadvisor.com
 lbsvision.ema.emoneyadvisor.com
@@ -121,7 +120,7 @@ rc.emoneyadvisor.com
 explore.emoneyadvisor.com
 scan.emadev.emoneyadvisor.com
 bcg3b7.412965t.emoneyadvisor.com
-www.training.emoneyadvisor.com
+training.emoneyadvisor.com
 learning.emoneyadvisor.com
 vpn.emoneyadvisor.com
 ws.emadev.emoneyadvisor.com
@@ -131,7 +130,7 @@ client.emoneyadvisor.com
 order.emoneyadvisor.com
 awssplunkidx03.ema.emoneyadvisor.com
 vfcv-oktmgt01.ema.emoneyadvisor.com
-www.community.emoneyadvisor.com
+community.emoneyadvisor.com
 hyperion.ema.emoneyadvisor.com
 pptr.ema.emoneyadvisor.com
 vfccucmp01-ms.ema.emoneyadvisor.com
@@ -225,7 +224,6 @@ developer.emoneyadvisor.com
 fmr.ema.emoneyadvisor.com
 vfcpur101.ema.emoneyadvisor.com
 vfsv-embweb70.dmz.emoneyadvisor.com
-community.emoneyadvisor.com
 emadev.emoneyadvisor.com
 bitbucket.ema.emoneyadvisor.com
 ema-externalbeta2.salesforceintegration.emoneyadvisor.com
@@ -238,14 +236,13 @@ ns1.emoneyadvisor.com
 vfxv-embweb13.dmz.emoneyadvisor.com
 lvcexpext01.ema.emoneyadvisor.com
 vfcv-nssmgt01.ema.emoneyadvisor.com
-www.blog.ema.emoneyadvisor.com
+blog.ema.emoneyadvisor.com
 vfcv-excmgt02.ema.emoneyadvisor.com
 lvccuxns02.ema.emoneyadvisor.com
 awssplunkhf02.ema.emoneyadvisor.com
 vfcsplunkidx05.ema.emoneyadvisor.com
 cambridgesso.emadev.emoneyadvisor.com
 vbuild03.emadev.emoneyadvisor.com
-www.test-corpweb.ema.emoneyadvisor.com
 vfdv-emgapi01.emadev.emoneyadvisor.com
 trck.go.emoneyadvisor.com
 vfdv-w23mtp01.emadev.emoneyadvisor.com
@@ -265,7 +262,6 @@ mail-gw.emoneyadvisor.com
 conference-2-standalonecluster8f237.emoneyadvisor.com
 vfsv-embweb74.dmz.emoneyadvisor.com
 vfmv-embweb51.dmz.emoneyadvisor.com
-www.ask.emoneyadvisor.com
 provpn.emoneyadvisor.com
 expressway.emoneyadvisor.com
 wac-lv.dmz.emoneyadvisor.com
@@ -281,7 +277,6 @@ api-staging.dmz.emoneyadvisor.com
 vfxv-embweb14.dmz.emoneyadvisor.com
 vfcp-mktfil01.ema.emoneyadvisor.com
 vfdv-lmndns02.emadev.emoneyadvisor.com
-www.emoneyadvisor.com
 sberkani.ema.emoneyadvisor.com
 emamail02.ema.emoneyadvisor.com
 vfsv-docker03.dmz.emoneyadvisor.com
@@ -348,7 +343,6 @@ test-jira.ema.emoneyadvisor.com
 vfmv-embweb70.dmz.emoneyadvisor.com
 emoney.emoneyadvisor.com
 lyncdiscover.emoneyadvisor.com
-na.emoneyadvisor.com
 vfdv-devmds04.emadev.emoneyadvisor.com
 radvpn.emoneyadvisor.com
 vfxv-embweb18.dmz.emoneyadvisor.com
@@ -373,7 +367,6 @@ w.emoneyadvisor.com
 vfdv-lbsrpt01.emadev.emoneyadvisor.com
 radsechost01.ema.emoneyadvisor.com
 vfxv-embpjs02.dmz.emoneyadvisor.com
-blog.ema.emoneyadvisor.com
 mail01.response.emoneyadvisor.com
 calendar.emoneyadvisor.com
 sdfw.emoneyadvisor.com
@@ -406,5 +399,4 @@ emamail01.ema.emoneyadvisor.com
 windowsadmincenter.emadev.emoneyadvisor.com
 codacy.ema.emoneyadvisor.com
 vfcsplunkidx04.ema.emoneyadvisor.com
-training.emoneyadvisor.com
 vfdv-w06mtp01.emadev.emoneyadvisor.com

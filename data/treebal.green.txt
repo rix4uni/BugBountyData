@@ -1,4 +1,4 @@
-*.meet.treebal.green
+meet.treebal.green
 admin.treebal.green
 admin.dev.treebal.green
 admin.dev.eimis.treebal.green
@@ -18,7 +18,6 @@ m.treebal.green
 m.dev.eimis.treebal.green
 m.eu-0.dev.treebal.green
 matrix.dev.eimis.treebal.green
-meet.treebal.green
 meet.eu-0.treebal.green
 meet.eu-0.dev.treebal.green
 meet.eu-1.dev.treebal.green
@@ -37,8 +36,6 @@ turn-green.dev.treebal.green
 u.treebal.green
 urlshortener.treebal.green
 userservice.treebal.green
-www.treebal.green
-www.dev.eimis.treebal.green
 api-327485g35.treebal.green
 api-apicmsdb1-origin.treebal.green
 apilogqa-apiproduction.greenwww.treebal.green

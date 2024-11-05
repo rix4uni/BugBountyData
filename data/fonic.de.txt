@@ -1,4 +1,3 @@
-*.fonic.de
 api.fonic.de
 cdn.information.fonic.de
 crm.fonic.de
@@ -28,8 +27,6 @@ wap.fonic.de
 webmail.fonic.de
 webportal.fonic.de
 ws.fonic.de
-www.fonic.de
-www.lidl.fonic.de
 login-ciam-dev.fonic.de
 login-ciam-e2e1.fonic.de
 smetrics.fonic.de

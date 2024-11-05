@@ -27,7 +27,7 @@ elearning-samples.tableau.com
 logos.online.tableau.com
 na2gateway-ft.tableau.com
 gw-krk4-1-corp-prefull.tableau.com
-www.demo.tableau.com
+demo.tableau.com
 apacgateway-2fft-ary.tableau.com
 10az.online.tableau.com
 clicks.tableau.com
@@ -40,7 +40,7 @@ tabsccmcld.tableau.com
 globalcdn-downloads.tableau.com
 engagement.keynote.tc19.tableau.com
 mapsconfig.tableau.com
-www.prod-eu-west-2.metrics.tableau.com
+prod-eu-west-2.metrics.tableau.com
 10aw.online.tableau.com
 bridge-prod-uk-a.online.tableau.com
 demo.tservertrust.tableau.com
@@ -97,14 +97,13 @@ bridge-us-west-2c.online.tableau.com
 featureflag.tableau.com
 origin-10ax.online-stage.tableau.com
 gw-geoauto-2-corp-prefull.tableau.com
-www.partners.tableau.com
+partners.tableau.com
 globalcdn-www.tableau.com
 dev.metrics.tableau.com
 dev.trust.tableau.com
 gw-ndc2-1-mdm.tableau.com
 prod-useast-a.online.tableau.com
 us-west-2b-data.online.tableau.com
-www.clicks.tableau.com
 wwww.tableau.com
 gw-muc1-1-managed.tableau.com
 gw-ndc1-1-corp.tableau.com
@@ -116,7 +115,7 @@ dev-covid19-data.tableau.com
 ext.metrics.tableau.com
 tc21.tableau.com
 test.mobile-dev.tableau.com
-www.tc20reg.tableau.com
+tc20reg.tableau.com
 gw-fra1-1-corp-presplit.tableau.com
 portal.healthcare.tableau.com
 prod-ca-a.online.tableau.com
@@ -127,7 +126,7 @@ db.datasets.tableau.com
 elearning-beta.tableau.com
 okta.mobile-dev.tableau.com
 publicstage.tableau.com
-www.help.tableau.com
+help.tableau.com
 gw-lon2-1-corp-prefull.tableau.com
 bridge-10az.online.tableau.com
 bridge-dub01-linux.online.tableau.com
@@ -142,7 +141,7 @@ demoslinnext.tableau.com
 tc14.tableau.com
 developer.tableau.com
 nonprod.stone.ea.tableau.com
-www.customer-portal.tableau.com
+customer-portal.tableau.com
 lab-connectors.tableau.com
 tc16.tableau.com
 gw-geoauto-2-corp.tableau.com
@@ -156,7 +155,7 @@ bridge-us-east-1-data.online.tableau.com
 engage.tableau.com
 gw-adc1-1-mls-mdm.tableau.com
 oos.tableau.com
-www.tc20tickets.tableau.com
+tc20tickets.tableau.com
 apacgateway-2f.tableau.com
 bridge-eu-west-1a.online.tableau.com
 import.idp.tableau.com
@@ -195,7 +194,6 @@ failover-origin-www.tableau.com
 gw-dca2-1-corp-prefull.tableau.com
 stone.ea.tableau.com
 ts.embedded.tableau.com
-www.partnersummit.tableau.com
 connectors.tableau.com
 db.test.datasets.tableau.com
 gw-lab1-1-corp-prefull.tableau.com
@@ -252,8 +250,7 @@ auth-proxy.lab-connectors.tableau.com
 engineering.tableau.com
 gw-adc1-1-mls-corp-prefull.tableau.com
 origin-online.tableau.com
-www.embedded.tableau.com
-customer-portal.tableau.com
+embedded.tableau.com
 ts1.embedded.tableau.com
 gw-edc1-1-mls-managed-ary.tableau.com
 mail05.data.tableau.com
@@ -273,7 +270,7 @@ sparklertrust.tableau.com
 ts2.embedded.tableau.com
 admin.template-services.tableau.com
 public-stage.tableau.com
-www.myserver-ddo.tableau.com
+myserver-ddo.tableau.com
 itadmin2.keynote.tc19.tableau.com
 gw-geoauto-1-corp.tableau.com
 ilp.tableau.com
@@ -281,7 +278,6 @@ test8.mobile-dev.tableau.com
 vizable.tableau.com
 gw-geoauto-1-managed.tableau.com
 public-aws.tableau.com
-www.flowwriter.tableau.com
 prod-eu-west-1.metrics.tableau.com
 gw-geoauto-1-managed-ary.tableau.com
 gw-ndc1-1-corp-prefull.tableau.com
@@ -300,7 +296,7 @@ gw-dca2-1-managed-ary.tableau.com
 gw-ndc1-1-managed.tableau.com
 kbcdn.tableau.com
 maps.tableau.com
-www.content-migration-tool.tableau.com
+content-migration-tool.tableau.com
 spowa.tableau.com
 gw-geoauto-1-mdm.tableau.com
 origin.onlinehelp.tableau.com
@@ -312,17 +308,13 @@ analytics.tableau.com
 attask.tableau.com
 emailtracking.manage.online.tableau.com
 prod-uswest-c.online.tableau.com
-myserver-ddo.tableau.com
 gw-yvr2-1-corp-prefull.tableau.com
-help.tableau.com
 prod-apnortheast-a.online.tableau.com
 wt.idp.tableau.com
 bridge-10ax-linux.online.tableau.com
-content-migration-tool.tableau.com
 failover-origin-trust.tableau.com
 gw-dca2-1-corp.tableau.com
 gw-tyo3-1-corp-presplit.tableau.com
-www.demodepot.tableau.com
 ry0tak.keynote.tc18.tableau.com
 apacgateway.tableau.com
 emeagateway-2f.tableau.com
@@ -384,7 +376,6 @@ gw-sandbox-1-mls-managed.tableau.com
 import-load.idp.tableau.com
 prod-public-us-west-a.online.tableau.com
 tc17.tableau.com
-www.vpnportal-sf.tableau.com
 euw1.allegro.online.tableau.com
 gw-aus2-1-managed.tableau.com
 kerberos.mobile-dev.tableau.com
@@ -392,7 +383,6 @@ maintenance.buy.tableau.com
 ontour15.tableau.com
 vpnportal-2fa.tableau.com
 ilp.licensing.tableau.com
-www.client-gateway.prod-ap-southeast-2.metrics.tableau.com
 beta-connectors.tableau.com
 airflow-ew1.online.tableau.com
 api-rc.datasets.tableau.com
@@ -406,7 +396,7 @@ dataequityhub.tableau.com
 policystore.online.tableau.com
 style-assets.tableau.com
 tc19reg.tableau.com
-www.kb.tableau.com
+kb.tableau.com
 usw2.allegro.online.tableau.com
 webservice.idp.tableau.com
 ea.tableau.com
@@ -464,8 +454,6 @@ myaccount.tableau.com
 port-ndc1-1-mdm.tableau.com
 bridge-us-east-1.online-stage.tableau.com
 na2gateway.tableau.com
-www.tc20sponsor.tableau.com
-www.tc-europe20sponsor.tableau.com
 app.data.tableau.com
 airflow-use1.online.tableau.com
 bridge-10ax.online.tableau.com
@@ -494,7 +482,6 @@ sipmtls.tableau.com
 ap-southeast-2.cepp.online.tableau.com
 sso.online.tableau.com
 us-east-1-data.online.tableau.com
-www.tc-europe20tickets.tableau.com
 auth-proxy.beta-connectors.tableau.com
 exchangessr.tableau.com
 gw-adc1-1-mls-corp-presplit.tableau.com
@@ -504,18 +491,14 @@ publicstaticcdn.tableau.com
 adhoc.mobile-dev.tableau.com
 client-gateway.stable.metrics.tableau.com
 mobile-dev.tableau.com
-tc20reg.tableau.com
 yvr1gateway-2fft.tableau.com
 gw-geoauto-1-corp-presplit.tableau.com
-www.onlinehelp.tableau.com
 gw-yvr2-1-corp-presplit.tableau.com
 demoapac.tableau.com
 gw-adc1-1-corp-presplit.tableau.com
 public-migration.tableau.com
 test4.mobile-dev.tableau.com
-www.tc-europe20reg.tableau.com
 gsnlink.tableau.com
-embedded.tableau.com
 nagateway-ft.tableau.com
 public-pantheon.tableau.com
 us-west-2b.online.tableau.com
@@ -538,10 +521,8 @@ api.datasets.tableau.com
 get.tableau.com
 mail06.data.tableau.com
 partner.tableau.com
-partners.tableau.com
 datamgmt.keynote.tc19.tableau.com
 customer-anecdote.tableau.com
-www.community.tableau.com
 keynote.tc19.tableau.com
 gw-aus2-1-managed-ary.tableau.com
 test1.mobile-dev.tableau.com
@@ -552,8 +533,6 @@ galop-dev.connectors.tableau.com
 origin-tableau-www.tableau.com
 showcasesso.online.tableau.com
 umapi.tableau.com
-prod-eu-west-2.metrics.tableau.com
-tc20tickets.tableau.com
 data.tableau.com
 dub01.online-stage.tableau.com
 metricinsights.tableau.com
@@ -571,9 +550,7 @@ mapsproxy.tableau.com
 us-west-2c.online.tableau.com
 bridge-10az-linux.online.tableau.com
 dub01.online.tableau.com
-kb.tableau.com
 tc15.tableau.com
-www.engineering.tableau.com
 tpc3.keynote.tc18.tableau.com
 gw-lke0-1-corp-presplit.tableau.com
 api.dev.datasets.tableau.com
@@ -586,12 +563,10 @@ gw-sandbox-1-mls-corp-prefull.tableau.com
 origin-dub01.online-stage.tableau.com
 prod-useast-b.online.tableau.com
 tableau-server.dev.metrics.tableau.com
-www.usergroups.tableau.com
 apply.tableau.com
 eu-west-1.cepp.online.tableau.com
 gw-edc1-1-mls-mdm.tableau.com
 tas.tableau.com
-www.failover-origin-www.tableau.com
 port-ndc1-1-managed.tableau.com
 quoting.tableau.com
 analytics.emea.tableau.com
@@ -601,13 +576,11 @@ demoslincur.tableau.com
 origin-10ay.online-stage.tableau.com
 web.manage.online.tableau.com
 ingress.idp.tableau.com
-www.tableau.com
 gw-edc1-1-mdm.tableau.com
 bridge-prod-apsoutheast-a.online.tableau.com
 cptest-linux.online.tableau.com
 naa64-1-78-213-126-75.fbxateway-2f.tableau.com
 public.tableau.com
-demo.tableau.com
 public-stage-migration.tableau.com
 eloqua-auth-proxy.connectors.tableau.com
 gw-dub2-1-corp-presplit.tableau.com
@@ -618,7 +591,6 @@ gw-sandbox-1-mls-corp.tableau.com
 origin-10ay.online.tableau.com
 tc19.tableau.com
 vpnportal-corp-prefull.tableau.com
-www.client-gateway.prod-ap-northeast-1.metrics.tableau.com
 galop-prod.connectors.tableau.com
 rmt.keynote.tc19.tableau.com
 healthcare.tableau.com
@@ -633,7 +605,6 @@ forseti.online-stage.tableau.com
 gw-adc1-1-test.tableau.com
 gw-sfo2-1-corp-prefull.tableau.com
 stable.metrics.tableau.com
-www.e360.tableau.com
 test6.mobile-dev.tableau.com
 sip.tableau.com
 gw-edc1-1-corp.tableau.com
@@ -652,7 +623,6 @@ origin-trust-global.tableau.com
 tpc.keynote.tc18.tableau.com
 250ok.tableau.com
 edge.idp.tableau.com
-www.prerelease.tableau.com
 10az-linux.online.tableau.com
 api-test.datasets.tableau.com
 beta.demoapac.tableau.com
@@ -664,9 +634,7 @@ public2.tableau.com
 publicbeta.tableau.com
 media.embedded.tableau.com
 bridge-prod-uswest-d2123414412.online.tableau.com
-*.healthcare.tableau.com
 ftp.tableau.com
 data.healthcare.tableau.com
 us-west-2a.customdomain.online.tableau.com
 forseti.manage.online.tableau.com
-*.awsquickstart.tableau.com

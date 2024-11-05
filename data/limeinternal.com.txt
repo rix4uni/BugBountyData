@@ -1,4 +1,3 @@
-*.limeinternal.com
 airflow.limeinternal.com
 airflow-mwaa.limeinternal.com
 anomalo.limeinternal.com
@@ -22,7 +21,6 @@ sidewalk-data-collection.limeinternal.com
 tab.limeinternal.com
 tableau.limeinternal.com
 test.limeinternal.com
-www.limeinternal.com
 fortigate.limeinternal.com
 mlflow.limeinternal.com
 ml-prod.limeinternal.com

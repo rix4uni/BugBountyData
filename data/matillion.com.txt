@@ -817,7 +817,6 @@ create-connector.matillion.com
 roadmap.matillion.com
 api.saas-streaming-platform.eu1.platform-dev.matillion.com
 nate-test.matillion-security-sandbox.matillion.com
-*.component-library.matillion.com
 wtf-dev.matillion-cto.matillion.com
 partner-connect.platform.matillion.com
 agentmanager-dev-legacy.billing-preprod.matillion.com
@@ -868,7 +867,6 @@ liquibase.eu-west-3.dev.user-identity-service.application-services-1-dev.matilli
 liquibase.eu-west-3.dev.streaming-platform.application-services-1-dev.matillion.com
 liquibase.eu1.dev.streaming-platform.application-services-1-dev.matillion.com
 id.core.matillion.com
-www.matillion.com
 liquibase.eu.preprod.cyoc.cyoc-preprod.matillion.com
 liquibase.eu-west-3.preprod.cyoc.cyoc-preprod.matillion.com
 liquibase.us.preprod.cyoc.cyoc-preprod.matillion.com
@@ -880,6 +878,5 @@ liquibase.eu.dev.demo-aa-a.matillion-infra-sandbox.matillion.com
 liquibase.us-east-1.prod.billing.cactus-prod.matillion.com
 permissions.core.matillion.com
 dpc-support.platform.matillion.com
-*.wtf-dev.matillion-cto.matillion.com
 wtf.matillion-cto.matillion.com
 wtf-dev-api.matillion-cto.matillion.com

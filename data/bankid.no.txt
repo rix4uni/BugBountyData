@@ -19,7 +19,7 @@ tools.bankid.no
 login.at.bankid.no
 tag-onlinetest2.bankid.no
 activation1.bankid.no
-www.auth.bankid.no
+auth.bankid.no
 session.idverify.bankid.no
 dl.bankid.no
 api.idverify.bankid.no
@@ -37,7 +37,6 @@ info.bankid.no
 udd.bankid.no
 at.bankid.no
 bestillinger.bankid.no
-www.login.bankid.no
 boss1.dev.anti-fraud.bankid.no
 boss.dev.anti-fraud.bankid.no
 va-preprod1.bankid.no
@@ -49,7 +48,6 @@ www2.bankid.no
 se.sso.bankid.no
 sdm-preprod.bankid.no
 sso.bankid.no
-auth.bankid.no
 signering.bankid.no
 webclient.bankid.no
 preprod.idcheck.bankid.no
@@ -83,7 +81,7 @@ ul.app.bankid.no
 mobile-onlinetest1.bankid.no
 auth.preprod.bankid.no
 beta.bankid.no
-www.userinfo.bankid.no
+userinfo.bankid.no
 userinfo.at.bankid.no
 web1.dev.anti-fraud.bankid.no
 csfe.bankid.no
@@ -93,7 +91,6 @@ app.bankid.no
 webclient-preprod.bankid.no
 sdm.bankid.no
 boss2.dev.anti-fraud.bankid.no
-www.bankid.no
 udd-preprod.bankid.no
 preprod.bankid.no
 develop.bankid.no
@@ -101,7 +98,6 @@ proto20.bankid.no
 web2.dev.anti-fraud.bankid.no
 cp-preprod.bankid.no
 sign.at.bankid.no
-userinfo.bankid.no
 sign.preprod.bankid.no
 app.min.bankid.no
 api.min.bankid.no

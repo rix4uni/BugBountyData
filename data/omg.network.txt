@@ -35,9 +35,7 @@ mta-sts.omg.network
 argocd.mainnet.v1.omg.network
 audit-watcher-rinkeby-lr.omg.network
 build.omg.network
-*.omg.network
 watcher.ropsten.v1.omg.network.omg.network
-www.omg.network
 guilds.omg.network
 merch.omg.network
 argocd-prod-infra.omg.network

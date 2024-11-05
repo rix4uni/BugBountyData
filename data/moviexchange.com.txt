@@ -1,4 +1,3 @@
-*.moviexchange.com
 admin.moviexchange.com
 api.moviexchange.com
 api-prod.moviexchange.com
@@ -19,7 +18,6 @@ origin.moviexchange.com
 staging-api.moviexchange.com
 test-staging.moviexchange.com
 webflow.moviexchange.com
-www.moviexchange.com
 admin-ci.moviexchange.com
 admin-qa.moviexchange.com
 admin-staging.moviexchange.com

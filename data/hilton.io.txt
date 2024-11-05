@@ -31,7 +31,6 @@ apic-t2.hilton.io
 m.hilton.io
 pep-s.hilton.io
 pep.hilton.io
-www.hilton.io
 apip-s2.hilton.io
 kapip.hilton.io
 api-prv.hilton.io
@@ -88,8 +87,6 @@ fr-fr.hilton.io
 ro-ro.hilton.io
 da-dk.hilton.io
 ar-ae.hilton.io
-*.pep.hilton.io
-*.pep-s.hilton.io
 bg-bg.stg.hilton.io
 en-gb.stg.hilton.io
 es-xm.test.hilton.io

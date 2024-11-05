@@ -3,7 +3,6 @@ jenkins.midnightbsd.org
 bugreport.midnightbsd.org
 app.midnightbsd.org
 svnweb.midnightbsd.org
-www.midnightbsd.org
 svn.midnightbsd.org
 archer.midnightbsd.org
 sec.midnightbsd.org
@@ -11,4 +10,3 @@ discovery.midnightbsd.org
 portsnap3.midnightbsd.org
 mta-sts.midnightbsd.org
 portsnap2.midnightbsd.org
-www.stargazer.midnightbsd.org

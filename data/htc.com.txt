@@ -82,10 +82,10 @@ esg-supplychain-api.htc.com
 ws2-e2e-asia.htc.com
 downloaduk.htc.com
 htcmbpipe.htc.com
-www.csr.htc.com
-www.esports.htc.com
+csr.htc.com
+esports.htc.com
 deputyportal.htc.com
-www.mqtt.htc.com
+mqtt.htc.com
 tpimss-2.htc.com
 htcpipe2.htc.com
 s.htc.com
@@ -155,8 +155,7 @@ util.e2e.asia.htc.com
 getstart.htc.com
 middleware-booking.htc.com
 tracking.e2e.asia.htc.com
-csr.htc.com
-www.esg.htc.com
+esg.htc.com
 facade1.e2e.htc.com
 e2e.asia.htc.com
 ws1-e2e-asia.htc.com
@@ -166,13 +165,11 @@ stage-blog.htc.com
 www-test.htc.com
 mobile.htc.com
 community.htc.com
-www.htc.com
 media-myhtcstore.htc.com
 blog.htc.com
 promotioncenter.htc.com
 gaming.htc.com
 myhtcstore.htc.com
-esports.htc.com
 ithelps.htc.com
 dataservice-cloud.htc.com
 otpmfa.htc.com
@@ -8121,7 +8118,6 @@ mpsharedservices.shopamerica.htc.com
 mpsse.shopamerica.htc.com
 mq2chat.shopamerica.htc.com
 mqtt-prod.shopamerica.htc.com
-mqtt.htc.com
 mr-38.shopamerica.htc.com
 mr-56.shopamerica.htc.com
 mr-84.shopamerica.htc.com
@@ -11473,16 +11469,6 @@ wsf0-shopamerica.htc.com
 wsf2-shopamerica.htc.com
 wsf3-shopamerica.htc.com
 www-shopamerica.htc.com
-www.america.htc.com
-www.cnmail.htc.com
-www.fbapps.htc.com
-www.lance.htc.com
-www.offertashowbiz.htc.com
-www.shield.htc.com
-www.shopamerica.htc.com
-www.smetrics.htc.com
-www.support.htc.com
-www.usmail.htc.com
 www1-5-30.shopamerica.htc.com
 www1-shopamerica.htc.com
 www1.htc.com
@@ -11503,7 +11489,6 @@ zoeshare-test.htc.com
 zoeshare.htc.com
 4alumni-sync-customer-account-nelaoktarina.shopamerica.htc.com
 178-164-239-16.shopamerica.htc.com
-*.htc.com
 180-062-038-106.htc.com
 58-33-131-117.htc.com
 59-33-131-117.htc.com
@@ -11566,10 +11551,6 @@ vivesync-asia4.htc.com
 ws1-uag1-corp.htc.com
 ws1-uag2-corp.htc.com
 ws1-uagcorp.htc.com
-www.asia.htc.com
-www.desire.htc.com
-www.europe.htc.com
-www.tattoo.htc.com
 esg-dev-supplychain-api.htc.com
 system-acceptatie-salesbetatemp-exchangedns.shopamerica.htc.com
 system-config-config-vip-svnusers.shopamerica.htc.com
@@ -12792,7 +12773,6 @@ zoomsct233mmr.shopamerica.htc.com
 09.shopamerica.htc.com
 9lz5rb.shopamerica.htc.com
 9qnxmyfe1k.shopamerica.htc.com
-9ww.shopamerica.htc.com
 9z.shopamerica.htc.com
 11-3-8-4.shopamerica.htc.com
 012secrets.shopamerica.htc.com
@@ -13081,7 +13061,6 @@ www-az-test.htc.com
 origin-tracking.e2e.asia.htc.com
 git.sw.studio.htc.com
 ftp.e2e.asia.htc.com
-www.twintouch.htc.com
 myhtcserviceapac.htc.com
 test.facade2.e2e.htc.com
 partnerotp.htc.com
@@ -13109,14 +13088,12 @@ asiahub.htc.com
 web58-shopamerica.htc.com
 asiaproject.htc.com
 ocswebcn.htc.com
-www.buzz.htc.com
 ushelpdesk.htc.com
 tw.store-test.htc.com
 origin-facade2.e2e.htc.com
 mailreply.htc.com
 admin-protips.htc.com
 uslyedav01.htc.com
-www.smart.htc.com
 utiltest.htc.com
 estore-hk.htc.com
 dimensionplus.htc.com
@@ -13130,7 +13107,6 @@ stockists.htc.com
 wsf6-shopamerica.htc.com
 uslync.htc.com
 tpe1-f5lc02.htc.com
-www.friendship.htc.com
 htccois.htc.com
 asiaabs.htc.com
 secure-media.htc.com
@@ -13140,7 +13116,6 @@ securecn.htc.com
 rest-b1.htc.com
 unlocksearch.htc.com
 origin-e2easiaws1.htc.com
-www.touchquiz.htc.com
 testchin.htc.com
 vivesync-asia3.htc.com
 rewardcenterasia.htc.com
@@ -13149,7 +13124,6 @@ e2easiafacade1.htc.com
 vpncn.htc.com
 origin-ws2.e2e.htc.com
 secureuk.htc.com
-www.s620.htc.com
 myhtcserviceemea.htc.com
 dmmail.htc.com
 sapwd.htc.com
@@ -13164,7 +13138,6 @@ cctcampaign.htc.com
 ramsaprn.htc.com
 utsurvey.htc.com
 files.research.htc.com
-www.noel.htc.com
 reporting.e2e.asia.htc.com
 origin-e2e.asia.htc.com
 test999.htc.com
@@ -13199,10 +13172,8 @@ web57-shopamerica.htc.com
 origin-util.e2e.asia.htc.com
 htcpipe8.htc.com
 globaltest.htc.com
-www.stockists.htc.com
 lc1.htc.com
 weatherorange.manila1.htc.com
-www.dream.htc.com
 touchcruise.htc.com
 htc-careers.htc.com
 origin-ws1.e2e.htc.com
@@ -13212,12 +13183,9 @@ e2easiatracking.htc.com
 origin-e2e-tracking-us.htc.com
 dbcstest.htc.com
 e2e-eu.htc.com
-www.touch2.htc.com
-www.hd2.htc.com
 webmail.friendship.htc.com
 origin-middleware-booking.htc.com
 channel.apac.htc.com
-www.competition.htc.com
 test-download.uk.htc.com
 eagstodo.htc.com
 origin-dl2-gtm.htc.com
@@ -13234,14 +13202,12 @@ origin-ws2.e2e.asia.htc.com
 castiron.cct.htc.com
 htcshare.htc.com
 vivesync-us3.htc.com
-www.tytnseries.htc.com
 ocsacus.htc.com
 easyoffice.htc.com
 sqa-external.htc.com
 partnerspuk.htc.com
 aublog.htc.com
 e2easiautil.htc.com
-www.gumball.htc.com
 test-downloads.europe.htc.com
 vpnand.htc.com
 web59-shopamerica.htc.com
@@ -13269,7 +13235,6 @@ competitions.htc.com
 www0.shopamerica.htc.com
 ww-0.shopamerica.htc.com
 ukrma3.htc.com
-www.legend.htc.com
 shark-shopamerica.htc.com
 recruiting-portal-backend.htc.com
 asiama.htc.com
@@ -13820,7 +13785,7 @@ cisfra.10.shopamerica.htc.com
 inguem.10.shopamerica.htc.com
 ilium.1.shopamerica.htc.com
 12-75.shopamerica.htc.com
-www.slb5.10.shopamerica.htc.com
+slb5.10.shopamerica.htc.com
 lantron.1.shopamerica.htc.com
 eg71.10.shopamerica.htc.com
 02-4-8.shopamerica.htc.com
@@ -14161,7 +14126,6 @@ l.100greekblogs.shopamerica.htc.com
 11.11.shopamerica.htc.com
 amandla.14.shopamerica.htc.com
 localchange.10.shopamerica.htc.com
-www.japan.htc.com
 dpo.10.shopamerica.htc.com
 rostov.10.shopamerica.htc.com
 iwdrm.10.shopamerica.htc.com
@@ -14718,7 +14682,7 @@ ad.10.shopamerica.htc.com
 devenv11.123bestfriend.shopamerica.htc.com
 vati.1.shopamerica.htc.com
 firechief.1.shopamerica.htc.com
-www.ogloszenia.10.shopamerica.htc.com
+ogloszenia.10.shopamerica.htc.com
 07image.shopamerica.htc.com
 seal.10.shopamerica.htc.com
 hpbbpmbf.10.shopamerica.htc.com
@@ -14813,7 +14777,6 @@ nycenet.1.shopamerica.htc.com
 irclip.10.shopamerica.htc.com
 fjalar.1.shopamerica.htc.com
 06-6-4.shopamerica.htc.com
-www.mea.htc.com
 cep.10.shopamerica.htc.com
 04-0-2-1-7.shopamerica.htc.com
 ballarat.10.shopamerica.htc.com
@@ -15025,7 +14988,6 @@ fice0.127.shopamerica.htc.com
 ughtpissinginpublic.10.shopamerica.htc.com
 k1._domainkey.htc.com
 img8.1.shopamerica.htc.com
-slb5.10.shopamerica.htc.com
 ypeadmin9.127.shopamerica.htc.com
 12bearsboardswww.shopamerica.htc.com
 koechel.1.shopamerica.htc.com
@@ -15189,7 +15151,6 @@ eu-north-6.10000freedirectorylist.shopamerica.htc.com
 cmts5.10.shopamerica.htc.com
 11bears-zimbra.shopamerica.htc.com
 046.shopamerica.htc.com
-www.xml.10.shopamerica.htc.com
 jrun.1.shopamerica.htc.com
 02-83.shopamerica.htc.com
 cloud.07.shopamerica.htc.com
@@ -15696,7 +15657,6 @@ validclick.1.shopamerica.htc.com
 quixote.10.shopamerica.htc.com
 giovanni.1.shopamerica.htc.com
 ftp1admin9.127.shopamerica.htc.com
-ogloszenia.10.shopamerica.htc.com
 1-lagg0-c070-sea001-ix.shopamerica.htc.com
 allkeygen.14.shopamerica.htc.com
 rse.10.shopamerica.htc.com
@@ -16188,7 +16148,6 @@ gearmaster.1.shopamerica.htc.com
 01-zhmfur6bn5arotas.shopamerica.htc.com
 towhee.10.shopamerica.htc.com
 mx2-admin9.127.shopamerica.htc.com
-www.loja.10.shopamerica.htc.com
 1-costatest-alb-okta-default-w3.shopamerica.htc.com
 05-74-2.shopamerica.htc.com
 mote8.mysql5.128.shopamerica.htc.com
@@ -16482,7 +16441,6 @@ zinbun.1.shopamerica.htc.com
 simula.10.shopamerica.htc.com
 0-062-038-102wwwwwwwap.shopamerica.htc.com
 0d44.shopamerica.htc.com
-0ww.shopamerica.htc.com
 andressilvaa.10.shopamerica.htc.com
 07e12e-asia.shopamerica.htc.com
 muni.10.shopamerica.htc.com
@@ -16717,7 +16675,6 @@ vice9.10.shopamerica.htc.com
 rocketmusicandvideo.1.shopamerica.htc.com
 lms.127.shopamerica.htc.com
 07ws3.shopamerica.htc.com
-www.student.10.shopamerica.htc.com
 erin.1.shopamerica.htc.com
 portalmysql5.128.shopamerica.htc.com
 v28.10.shopamerica.htc.com
@@ -16855,7 +16812,6 @@ ca-central-0.123bestfriend.shopamerica.htc.com
 n001.10.shopamerica.htc.com
 357.14.shopamerica.htc.com
 ms16.127.shopamerica.htc.com
-www.api.1.shopamerica.htc.com
 11-ap-northeast-6.shopamerica.htc.com
 lightning.10.shopamerica.htc.com
 tritiondata.10.shopamerica.htc.com

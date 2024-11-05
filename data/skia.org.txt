@@ -53,7 +53,6 @@ thanos-ruler.skia.org
 fuzzer.skia.org
 skcms-skia-roll.skia.org
 catapult-roll.skia.org
-www.skia.org
 angle-gold.skia.org
 uberproxy-san.skia.org
 prom.skia.org
@@ -227,8 +226,5 @@ kubernetes.skia.org
 cim-api.skia.org
 ns2.skia.org
 mongodb.skia.org
-*.g-issues.skia.org
-*.skia.org
-*.issues.skia.org
 252fbugs.skia.org
 252fbug.skia.org

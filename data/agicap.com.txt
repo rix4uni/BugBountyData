@@ -27,7 +27,6 @@ aggregator.agicap.com
 api.agicap.com
 help.agicap.com
 mobilegateway.agicap.com
-www.agicap.com
 app.agicap.com
 kubenurse.agicap.com
 invoicing-api.agicap.com
@@ -44,7 +43,6 @@ intercom-vigilante.agicap.com
 content.agicap.com
 frontend.agicap.com
 files.agicap.com
-*.agicap.com
 ai-assistant.agicap.com
 dsintintranext.agicap.com
 enterpriseenrollment.agicap.com

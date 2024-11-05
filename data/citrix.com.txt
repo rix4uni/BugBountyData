@@ -1,4 +1,3 @@
-www.citrix.com
 costcalculator.sky.citrix.com
 qamyworkprod0.citrix.com
 developer-docs.citrix.com
@@ -57,7 +56,7 @@ qa.ccm-service.citrix.com
 qa.loginservice.citrix.com
 webalertsdev.citrix.com
 accounts.citrix.com
-www.cq.cr.dev2.aws.citrix.com
+cq.cr.dev2.aws.citrix.com
 qa.im.cloudbroker.citrix.com
 stg-blogsctx-origin.citrix.com
 mailalerts.citrix.com
@@ -121,7 +120,7 @@ amsdemo.democloud.citrix.com
 linequality.citrix.com
 amsgotest.citrix.com
 identitymgmt-dev.citrix.com
-www.ftlpmyctx22.citrix.com
+ftlpmyctx22.citrix.com
 saivnvir.xmdev.citrix.com
 ftlqidpweb02.citrix.com
 titan-qa2.citrix.com
@@ -156,10 +155,10 @@ meet.citrix.com
 images.democloud.citrix.com
 dal09-szc01.democloud.citrix.com
 lonagee1.citrix.com
-www.qasupport.citrix.com
+qasupport.citrix.com
 mailalertsuat.citrix.com
 employeeconnect.citrix.com
-www.dig-it.citrix.com
+dig-it.citrix.com
 webproduction.dk.citrix.com
 sin1softphone.citrix.com
 fipssslqualys.citrix.com
@@ -167,17 +166,17 @@ bth-sql.bth.citrix.com
 mobilefeed.citrix.com
 flexcast.citrix.com
 edocs.citrix.com
-www.citrixservicesqa.citrix.com
+citrixservicesqa.citrix.com
 feeds.citrix.com
 testadfs.citrix.com
-www.trials-qa.citrix.com
+trials-qa.citrix.com
 isecert.citrix.com
 mydev.citrix.com
 evolution-dev.citrix.com
 kc-comms.citrix.com
 apacaccess.rtst.citrix.com
 nsstage-ldap02.ftl.onelab.citrix.com
-www.ediqa.citrix.com
+ediqa.citrix.com
 autodiscover.eu.citrix.com
 aneelatestent1.xmdev.citrix.com
 citrixsrviceshaqa.citrix.com

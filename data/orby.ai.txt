@@ -14,7 +14,6 @@ staging2-grpc.orby.ai
 staging-internal-app.orby.ai
 web-app.orby.ai
 preprod-grpc.orby.ai
-www.orby.ai
 dev-web-app.orby.ai
 staging-web-app.orby.ai
 dev-internal-app.orby.ai

@@ -22,7 +22,6 @@ check.check-receiver.mazdermind.de
 polyhone.mazdermind.de
 monit.mazdermind.de
 check.monit.mazdermind.de
-www.mazdermind.de
 grafana.mazdermind.de
 oc.mazdermind.de
 jabber.mazdermind.de
@@ -41,6 +40,5 @@ restya.mazdermind.de
 hatjitsu.mazdermind.de
 pad.mazdermind.de
 traefik.mazdermind.de
-www.kube.mazdermind.de
 osm.mazdermind.de
 test6.mazdermind.de

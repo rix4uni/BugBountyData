@@ -1,4 +1,3 @@
-*.mwbsys.com
 api-mbet.mwbsys.com
 ark.mwbsys.com
 cloudflare-stage.mwbsys.com
@@ -12,7 +11,6 @@ reporting-01.ios.mwbsys.com
 sirius.mwbsys.com
 sms-01.ios.mwbsys.com
 wakanda-prod.mwbsys.com
-www.sirius.mwbsys.com
 afidan.mwbsys.com
 auth.mwbsys.com
 autodiscover.mwbsys.com
@@ -65,7 +63,6 @@ bactem.mwbsys.com
 eml-stage.mwbsys.com
 ipi-intg-gatekeeper-prod.mwbsys.com
 static-vos.mwbsys.com
-www.keystone.mwbsys.com
 ipi-intg-oathkeeper-prod.mwbsys.com
 keystone-qa.mwbsys.com
 static-cdn-dev.mwbsys.com
@@ -95,7 +92,6 @@ cms-stage-wp-to-json.mwbsys.com
 ark-stage.mwbsys.com
 nebula-stage.mwbsys.com
 zabbix-aws.mwbsys.com
-www.mwbsys.com
 bridge.mwbsys.com
 ipi-intg-gatekeeper-prod-internal.mwbsys.com
 ipi-intg-lira-stage.mwbsys.com

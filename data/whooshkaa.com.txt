@@ -21,7 +21,7 @@ tts-player.whooshkaa.com
 test-rss.whooshkaa.com
 cloudera-private.whooshkaa.com
 legacy-dashboard.whooshkaa.com
-www.staging.whooshkaa.com
+staging.whooshkaa.com
 go.whooshkaa.com
 staging-private.whooshkaa.com
 staging-icy.whooshkaa.com
@@ -40,8 +40,6 @@ tts-api.whooshkaa.com
 uat-media.whooshkaa.com
 dev-auth.whooshkaa.com
 mail-bounce.whooshkaa.com
-staging.whooshkaa.com
-www.whooshkaa.com
 support2.whooshkaa.com
 test-api.whooshkaa.com
 test-tts.whooshkaa.com
@@ -70,14 +68,13 @@ staging-mps.whooshkaa.com
 play.whooshkaa.com
 uat-player.whooshkaa.com
 test.whooshkaa.com
-www.uat.whooshkaa.com
+uat.whooshkaa.com
 goto.whooshkaa.com
 api.whooshkaa.com
 uat-megaphonesignup.whooshkaa.com
 livestream.whooshkaa.com
 vast-uk.whooshkaa.com
 video.whooshkaa.com
-uat.whooshkaa.com
 test-images.whooshkaa.com
 mde.whooshkaa.com
 dev-livestream.whooshkaa.com
@@ -87,4 +84,3 @@ private.whooshkaa.com
 staging-developer.whooshkaa.com
 support.whooshkaa.com
 dev-images-2.whooshkaa.com
-*.whooshkaa.com

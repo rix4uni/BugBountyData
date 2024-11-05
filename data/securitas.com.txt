@@ -255,7 +255,6 @@ gip.sis.securitas.com
 gcptoursintegrationapi.dev-sis.securitas.com
 dev-gcptoursintegrationapi.sis.securitas.com
 advisor.securitas.com
-www.securitas.com
 snucke.securitas.com
 genaipy.qa-sis.securitas.com
 gcptasksapi.dev-sis.securitas.com
@@ -325,7 +324,6 @@ qa-localization.sis.securitas.com
 ds-onetrust.securitas.com
 auth.digital.securitas.com
 dev-consent.sis.securitas.com
-www.solutions.securitas.com
 dev-authbridge.sis.securitas.com
 support.securitas.com
 passwordreset.securitas.com
@@ -353,7 +351,6 @@ ds-test-onetrust.securitas.com
 test-onetrust.securitas.com
 dev-onetrust.securitas.com
 flow.securitas.com
-www.flow.securitas.com
 sam.securitas.com
 hragenttest.securitas.com
 recruitment.securitas.com
@@ -408,8 +405,6 @@ dev-issuereporting.sis.securitas.com
 prod-messages.sis.securitas.com
 uat-sam.securitas.com
 supporttest.securitas.com
-www.sisswedenmsd365prod.securitas.com
-www.sisswedenmsd365uat.securitas.com
 prod-organizationapi.sis.securitas.com
 sensordata.sis.securitas.com
 rs-devwebtools.sis.securitas.com
@@ -417,17 +412,15 @@ gcpintegration.qa-sis.securitas.com
 rsssagateway.sis.securitas.com
 dev-mysaiclassifier.sis.securitas.com
 links.qa-sis.securitas.com
-www.tracktikeu.securitas.com
 dev-testproject.sis.securitas.com
 netbox.cln.securitas.com
 issuereporting.sis.securitas.com
-www.uat-netbox.cln.securitas.com
+uat-netbox.cln.securitas.com
 analyticsworker.dev-sis.securitas.com
 sis.securitas.com
 demo.advisor.securitas.com
 rsmasreceiver.qa-sis.securitas.com
 authorizationgraphingestionapi.dev-sis.securitas.com
-www.go.solutions.securitas.com
 consent.sis.securitas.com
 qa-testproject.sis.securitas.com
 authorizationgraph.sis.securitas.com
@@ -438,8 +431,6 @@ links.dev-sis.securitas.com
 mysreportsapi.sis.securitas.com
 gcpreportsapi.qa-sis.securitas.com
 auth.qa-sis.securitas.com
-www.tracktiklatam.securitas.com
-www.netbox.cln.securitas.com
 prod-ri-awareness-be.sis.securitas.com
 rsinvitations.sis.securitas.com
 sspr-check.securitas.com

@@ -1,13 +1,11 @@
-*.topcoder.com
-*.app.topcoder.com
-*.app-dev.topcoder.com
-*.dev.topcoder.com
-*.fs.topcoder.com
+app.topcoder.com
+app-dev.topcoder.com
+dev.topcoder.com
+fs.topcoder.com
 accounts.topcoder.com
 accounts-auth0.topcoder.com
 admin.topcoder.com
 api.topcoder.com
-app.topcoder.com
 apps.topcoder.com
 arena.topcoder.com
 arenaws.topcoder.com
@@ -39,7 +37,6 @@ cotm.topcoder.com
 crowdsourcing.topcoder.com
 dashboards.topcoder.com
 demo.topcoder.com
-dev.topcoder.com
 dev.arena.topcoder.com
 dev1.topcoder.com
 dna.topcoder.com
@@ -48,7 +45,6 @@ enterprise.topcoder.com
 facedetection.topcoder.com
 faceid.topcoder.com
 forums.topcoder.com
-fs.topcoder.com
 gateway.poseidon.topcoder.com
 go.topcoder.com
 hello.topcoder.com
@@ -127,14 +123,6 @@ webhooks.topcoder.com
 wiki.topcoder.com
 wordpress.topcoder.com
 wordpress-move.topcoder.com
-www.topcoder.com
-www.bluehost.topcoder.com
-www.bluehost-test01.topcoder.com
-www.bluehost-test02.topcoder.com
-www.demo.topcoder.com
-www.go.topcoder.com
-www.help.topcoder.com
-www.site.topcoder.com
 x.topcoder.com
 x-receiver.topcoder.com
 x-upceiver.topcoder.com
@@ -175,7 +163,6 @@ paypalx.topcoder.com
 local.topcoder.com
 amd.topcoder.com
 tco04.topcoder.com
-app-dev.topcoder.com
 iarpa3dchallenge.topcoder.com
 topgear.topcoder.com
 cs.topcoder.com
@@ -191,7 +178,7 @@ archive.topcoder.com
 blitz.topcoder.com
 epa.topcoder.com
 community-app-cdn.topcoder.com
-www.df14.topcoder.com
+df14.topcoder.com
 tco13.topcoder.com
 mm.topcoder.com
 env.topcoder.com
@@ -202,7 +189,6 @@ arena2.topcoder.com
 bugs.topcoder.com
 staging.lc.topcoder.com
 alu.topcoder.com
-df14.topcoder.com
 comcast.topcoder.com
 community-zurich.topcoder.com
 internal-api.topcoder.com

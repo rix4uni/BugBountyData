@@ -1,4 +1,3 @@
-*.mtnzambia.co.zm
 autodiscover.mtnzambia.co.zm
 beyondtrust.internal.mtnzambia.co.zm
 billingcentre.internal.mtnzambia.co.zm
@@ -26,8 +25,6 @@ store.business.mtnzambia.co.zm
 tas.mtnzambia.co.zm
 vpn.mtnzambia.co.zm
 webmail.mtnzambia.co.zm
-www.mtnzambia.co.zm
-www.sslvpn.mtnzambia.co.zm
 zmhqvsroem.internal.mtnzambia.co.zm
 zmlupislapp01.internal.mtnzambia.co.zm
 zmluvmbtdr01.internal.mtnzambia.co.zm
@@ -41,7 +38,6 @@ zmopttcoweb02.mtnzambia.co.zm
 isluat.mtnzambia.co.zm
 rebalancertest.mtnzambia.co.zm
 sslvpn-ctl1.mtnzambia.co.zm
-*.internal.mtnzambia.co.zm
 zmluvrnimdevp01.internal.mtnzambia.co.zm
 zmluvrnimuat01.internal.mtnzambia.co.zm
 chamae.mtnzambia.co.zm

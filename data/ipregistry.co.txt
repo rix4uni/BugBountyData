@@ -33,7 +33,6 @@ staging.download.ipregistry.co
 metadata2.ipregistry.co
 updates.ipregistry.co
 dashboard.ipregistry.co
-www.ipregistry.co
 acme.ipregistry.co
 cdn.ipregistry.co
 api.ipregistry.co
@@ -55,4 +54,3 @@ dev.auth.ipregistry.co
 dev.api.ipregistry.co
 payments.ipregistry.co
 accounts.ipregistry.co
-*.ipregistry.co

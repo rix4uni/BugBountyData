@@ -1,8 +1,7 @@
 careers.deliveroo.com.qa
 admin.deliveroo.com.qa
 riders.deliveroo.com.qa
-*.order-staging.deliveroo.com.qa
-*.sandbox.deliveroo.com.qa
-*.order.deliveroo.com.qa
-*.staging.deliveroo.com.qa
-*.deliveroo.com.qa
+order-staging.deliveroo.com.qa
+sandbox.deliveroo.com.qa
+order.deliveroo.com.qa
+staging.deliveroo.com.qa

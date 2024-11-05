@@ -1,7 +1,6 @@
 ews2013-app01.ews2013.zynbitdev.com
 owa-test.zynbitdev.com
 ews2013.zynbitdev.com
-www.zynbitdev.com
 mail.ews2013.zynbitdev.com
 app.zynbitdev.com
 api-test.zynbitdev.com
@@ -10,7 +9,6 @@ crmapi-test.zynbitdev.com
 socket-test.zynbitdev.com
 app-staging.zynbitdev.com
 dashboard-test.zynbitdev.com
-*.zynbitdev.com
 api-test-staging.zynbitdev.com
 crmapi-test-staging.zynbitdev.com
 dashboard-test-staging.zynbitdev.com

@@ -24,7 +24,6 @@ subscriptions.api.dribbleup.com
 team.dribbleup.com
 teams.dribbleup.com
 tracking.dribbleup.com
-www.dribbleup.com
 activations.app-services.dribbleup.com
 analytics.dribbleup.com
 api.dribbleup.com
@@ -37,8 +36,3 @@ cloud.dribbleup.com
 gt.dribbleup.com
 hq.dribbleup.com
 secure-redirect.email.dribbleup.com
-www.cdn.dribbleup.com
-www.data.dribbleup.com
-www.dusoccer.dribbleup.com
-www.staging.dribbleup.com
-www.teams.dribbleup.com

@@ -239,10 +239,6 @@ web.zmsp.cat.earlywarning.io
 web.zmsp.dev.earlywarning.io
 web.zmsp.qa.earlywarning.io
 web.zmsp.uat.earlywarning.io
-www.mywallet-management.wallet.cat.earlywarning.io
-www.mywallet-management.wallet.dev.earlywarning.io
-www.mywallet-management.wallet.qa.earlywarning.io
-www.mywallet-management.wallet.uat.earlywarning.io
 xid-mockauth.cat.earlywarning.io
 xid-mockauth.dev.earlywarning.io
 xid-mockauth.qa.earlywarning.io
@@ -363,9 +359,6 @@ ui.assets.wallet.dev.earlywarning.io
 wallet.cat.earlywarning.io
 wallet.dev.earlywarning.io
 wallet.qa.earlywarning.io
-www.api.cat.earlywarning.io
-www.mywallet-management-east.wallet.dev.earlywarning.io
-www.mywallet-management-west.wallet.dev.earlywarning.io
 xid-mockauth.qa1.earlywarning.io
 xid-mockauth.qa2.earlywarning.io
 xid-mockbank.qa1.earlywarning.io

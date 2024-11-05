@@ -1,4 +1,3 @@
-*.securityscorecard.com
 academy.securityscorecard.com
 academy2.securityscorecard.com
 analytics.securityscorecard.com
@@ -32,9 +31,6 @@ trust.securityscorecard.com
 uat.securityscorecard.com
 uat.trust.securityscorecard.com
 video.securityscorecard.com
-www.securityscorecard.com
-www.partners.securityscorecard.com
-www.trust.securityscorecard.com
 api.securityscorecard.com
 assets.securityscorecard.com
 go.securityscorecard.com

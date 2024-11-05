@@ -1,4 +1,3 @@
-*.stanbicbank.co.zm
 api-gateway.stanbicbank.co.zm
 api-gateway.sandbox.stanbicbank.co.zm
 bluesky.stanbicbank.co.zm
@@ -30,14 +29,10 @@ stbg.stanbicbank.co.zm
 tax.stanbicbank.co.zm
 test.laserfiche.stanbicbank.co.zm
 uat-digiaud.stanbicbank.co.zm
-www.stanbicbank.co.zm
-www.bluesky.stanbicbank.co.zm
-www.encrypt.stanbicbank.co.zm
+encrypt.stanbicbank.co.zm
 www3.ebank.stanbicbank.co.zm
 w.encrypt.stanbicbank.co.zm
-encrypt.stanbicbank.co.zm
 m.stanbicbank.co.zm
 webchat.stanbicbank.co.zm
-www.m.stanbicbank.co.zm
 ibankingsit.stanbicbank.co.zm
 flowgate.stanbicbank.co.zm

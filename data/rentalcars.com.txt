@@ -93,7 +93,6 @@ mapi-nonprod.rentalcars.com
 o11.email.opodo.rentalcars.com
 origin-www-ams.rentalcars.com
 united-uat.rentalcars.com
-www.rentalcars.com
 origin-www.rentalcars.com
 arb.rentalcars.com
 dba-dashboard.dng.rentalcars.com
@@ -280,7 +279,6 @@ intranet-rides.dng.rentalcars.com
 dovolena.rentalcars.com
 bil-ui.drive.rentalcars.com
 cars-cf-prod-booking.rentalcars.com
-*.marketplace.rentalcars.com
 search.marketplace.rentalcars.com
 helpdesk.rentalcars.com
 o1.ptr135.marketplace.rentalcars.com

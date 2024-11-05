@@ -558,7 +558,6 @@ engine-pr-18028.dev.groove.clari.com
 engine-pr-18029.dev.groove.clari.com
 engine-pr-18026.dev.groove.clari.com
 engine-pr-18030.dev.groove.clari.com
-*.integrations.clari.com
 engine-pr-18043.dev.groove.clari.com
 engine-pr-17989.dev.groove.clari.com
 engine-pr-17987.dev.groove.clari.com
@@ -589,7 +588,6 @@ engine-pr-17792.dev.groove.clari.com
 engine-pr-17781.dev.groove.clari.com
 engine-pr-17785.dev.groove.clari.com
 go.copilot.clari.com
-www.clari.com
 engine-pr-18041.dev.groove.clari.com
 engine-pr-18042.dev.groove.clari.com
 engine-pr-18047.dev.groove.clari.com
@@ -643,7 +641,6 @@ engine-pr-18035.dev.groove.clari.com
 engine-pr-18036.dev.groove.clari.com
 engine-pr-18038.dev.groove.clari.com
 hackathon-static.prestaging.clari.com
-www.circle.clari.com
 engine-pr-17772.dev.groove.clari.com
 engine-pr-17774.dev.groove.clari.com
 engine-pr-17780.dev.groove.clari.com
@@ -803,4 +800,3 @@ engine-pr-18037.dev.groove.clari.com
 engine-pr-18040.dev.groove.clari.com
 engine-pr-18046.dev.groove.clari.com
 wingman-eks-dev.wingman.clari.com
-www.konggateway.clari.com

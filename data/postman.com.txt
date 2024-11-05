@@ -1,8 +1,6 @@
-*.postman.com
-*.gw.postman.com
-*.go.postman.com
+gw.postman.com
+go.postman.com
 quickstarts.postman.com
-www.postman.com
 academy.postman.com
 learning.postman.com
 blog.postman.com
@@ -37,7 +35,7 @@ flow.cdn.postman.com
 bifrost-v10.gw.postman.com
 design.postman.com
 get.postman.com
-*.eu.postman.com
+eu.postman.com
 2020-us-election-apis.postman.com
 api.postman.com
 apisec.cdn.postman.com
@@ -67,7 +65,6 @@ billing.srv.postman.com
 design.learning.postman.com
 documenter.gw.postman.com
 documenter.postman.com
-go.postman.com
 god.explore.postman.com
 god.gw.postman.com
 iapub.gw.postman.com
@@ -99,9 +96,7 @@ wwww.postman.com
 blog.static.postman.com
 cdn.postman.com
 edit.blog.postman.com
-eu.postman.com
 explore.gw.postman.com
-gw.postman.com
 gw.us.postman.com
 learning-next.postman.com
 learning-old.postman.com
@@ -115,6 +110,3 @@ staging1.blog.postman.com
 unique.26407827.gw.us.postman.com
 unique.26407897.enc.us.postman.com
 unique.26407897.us.postman.com
-www.blog.postman.com
-www.edit.blog.postman.com
-www.staging1.blog.postman.com

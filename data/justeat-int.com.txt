@@ -1,4 +1,3 @@
-*.justeat-int.com
 adyennotifications.justeat-int.com
 alerting-i18n-production.justeat-int.com
 api.justeat-int.com
@@ -315,7 +314,6 @@ partnermenuapi-i18n-production.justeat-int.com
 searchworker.justeat-int.com
 it-pcmoduleitemavailability-i18n-production.justeat-int.com
 restaurantreviewapi-i18n-production.justeat-int.com
-www.justeat-int.com
 authenticationproxy-i18n-production.justeat-int.com
 ie-authenticationproxy.justeat-int.com
 no-performancedb-i18n-production.justeat-int.com

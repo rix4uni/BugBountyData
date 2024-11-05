@@ -16,7 +16,7 @@ np-ccc-uk-gateway.serviceinsight.cbre.com
 ccc.serviceinsight.cbre.com
 crystal-ball-gateway.serviceinsight.cbre.com
 uat-ccc.serviceinsight.cbre.com
-www.crystal-ball.serviceinsight.cbre.com
+crystal-ball.serviceinsight.cbre.com
 ccc-us-gateway.serviceinsight.cbre.com
 devops-gw-e-green.serviceinsight.cbre.com
 devops-ccc.serviceinsight.cbre.com
@@ -96,5 +96,4 @@ poc-cmms-auth.serviceinsight.cbre.com
 poc-emea.serviceinsight.cbre.com
 dev-siif-gateway.serviceinsight.cbre.com
 poc-cmms2.serviceinsight.cbre.com
-crystal-ball.serviceinsight.cbre.com
 devops-cmms-w-greengw.serviceinsight.cbre.com

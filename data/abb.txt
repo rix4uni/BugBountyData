@@ -4,7 +4,6 @@ brand.abb
 ability.abb
 waf.abb
 enterprisesoftware.abb
-www.abb
 abilityplatform.abb
 nic.abb
 eu.marketplace.ability.abb
@@ -23,13 +22,9 @@ campaigns.abb
 tv.abb
 new.waf.abb
 inside.abb
-www.inside.abb
 electrification.abb
-www.electrification.abb
 robotics.abb
-www.robotics.abb
 group.abb
-www.group.abb
 ghh-apmorange.genix.platform-dev.ability.abb
 pilot31.ghh.genix.platform-dev.ability.abb
 pilot31.alerta.genix.platform-dev.ability.abb
@@ -40,7 +35,7 @@ pilot28.alerta.genix.platform-dev.ability.abb
 pilot28.cachet.genix.platform-dev.ability.abb
 ghh-genix-qe-new.platform-tst.ability.abb
 nk00.genix.platform-dev.ability.abb
-www.mondo.abb
+mondo.abb
 pkg.abb
 com.abb
 obj.abb
@@ -79,7 +74,6 @@ pilot44.cachet.genix.platform-dev.ability.abb
 penguindev.genix.platform-dev.ability.abb
 cobots.abb
 campaigns.cobots.abb
-www.cobots.abb
 pilot40.ghh.genix.platform-dev.ability.abb
 pilot40.alerta.genix.platform-dev.ability.abb
 pilot40.cachet.genix.platform-dev.ability.abb
@@ -94,7 +88,6 @@ pilot62.ghh.genix.platform-dev.ability.abb
 pilot62.alerta.genix.platform-dev.ability.abb
 pilot62.cachet.genix.platform-dev.ability.abb
 krakenseal.genix.platform-dev.ability.abb
-mondo.abb
 pilot65.ghh.genix.platform-dev.ability.abb
 pilot65.alerta.genix.platform-dev.ability.abb
 pilot65.cachet.genix.platform-dev.ability.abb
@@ -104,8 +97,7 @@ pilot67.cachet.genix.platform-dev.ability.abb
 t44.genix.platform-dev.ability.abb
 t34.genix.platform-dev.ability.abb
 onpremupg.genix.platform-dev.ability.abb
-*.careers.abb
-*.s-global-qa.cms.abb
+s-global-qa.cms.abb
 pilot68.ghh.genix.platform-dev.ability.abb
 pilot68.alerta.genix.platform-dev.ability.abb
 pilot68.cachet.genix.platform-dev.ability.abb

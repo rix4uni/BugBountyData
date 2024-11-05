@@ -74,7 +74,6 @@ test-bridge-collector.callstats.io
 archiver-1.callstats.io
 taas-ap-southeast-1.aws.callstats.io
 test-api-1.callstats.io
-www.callstats.io
 data-webrtc-stats.callstats.io
 taas-us-east-1.aws.callstats.io
 taas-ap-south-1.aws.callstats.io
@@ -103,7 +102,6 @@ appsettings-us-west-2.callstats.io
 urlauth.callstats.io
 rest-api-events-prod.usab1.oracle.callstats.io
 _interval.callstats.io
-www.demo.callstats.io
 taas-oci-ap-mumbai-1.aws.callstats.io
 test-api.callstats.io
 ingress.euff1.oracle.callstats.io

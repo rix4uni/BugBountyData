@@ -3,7 +3,6 @@ pickup-dev.isuzu-tis.com
 pickup-stg.isuzu-tis.com
 ds.isuzu-tis.com
 storybook.isuzu-tis.com
-www.isuzu-tis.com
 my.isuzu-tis.com
 demo-amplify-react-spa.isuzu-tis.com
 truck.isuzu-tis.com
@@ -15,14 +14,12 @@ yaya-demo.isuzu-tis.com
 truck-dev.isuzu-tis.com
 platform-demo-yaya.isuzu-tis.com
 platform-demo-react-spa-web.isuzu-tis.com
-www.truck-dev.isuzu-tis.com
 mux-dev.isuzu-tis.com
 truck-perf.isuzu-tis.com
 crmuat-my.isuzu-tis.com
 truck-test.isuzu-tis.com
 ssc.isuzu-tis.com
 netlify-pickup.isuzu-tis.com
-www.netlify-pickup.isuzu-tis.com
 mux-cms-oho.isuzu-tis.com
 crmprd-my.isuzu-tis.com
 pickup-perf.isuzu-tis.com
@@ -31,9 +28,8 @@ pickup.isuzu-tis.com
 uat-www.isuzu-tis.com
 mux-stg.isuzu-tis.com
 2019tis.isuzu-tis.com
-www.vercel-pickup-stg.isuzu-tis.com
+vercel-pickup-stg.isuzu-tis.com
 netlify-truck.isuzu-tis.com
 vercel-pickup-dev.isuzu-tis.com
-vercel-pickup-stg.isuzu-tis.com
 vercel-truck.isuzu-tis.com
 server-gtm-prd.isuzu-tis.com

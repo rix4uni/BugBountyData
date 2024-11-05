@@ -1,10 +1,9 @@
-*.local.tutanota.com
+local.tutanota.com
 _sipfederationtls._tcp.tutanota.com
 api.local.tutanota.com
 app.tutanota.com
 custom.tutanota.com
 l.tutanota.com
-local.tutanota.com
 login.tutanota.com
 login.local.tutanota.com
 login.test.tutanota.com
@@ -51,9 +50,6 @@ w7.api.tutanota.com
 w8.api.tutanota.com
 w9.tutanota.com
 w9.api.tutanota.com
-www.tutanota.com
-www.local.tutanota.com
-www.status.tutanota.com
 launch.tutanota.com
 pp.tutanota.com
 4chanhehacker.tutanota.com

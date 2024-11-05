@@ -1,4 +1,3 @@
-*.insurekidsnow.gov
 _dmarc.insurekidsnow.gov
 adobe-ep.insurekidsnow.gov
 dev.insurekidsnow.gov
@@ -14,7 +13,6 @@ m.insurekidsnow.gov
 qa.insurekidsnow.gov
 test.insurekidsnow.gov
 test.edit.insurekidsnow.gov
-www.insurekidsnow.gov
 www1a.insurekidsnow.gov
 www1b.insurekidsnow.gov
 www1c.insurekidsnow.gov

@@ -1,4 +1,3 @@
-*.maximum.nl
 acceptatie01.maximum.nl
 admin.webmail.maximum.nl
 aegon.maximum.nl
@@ -177,11 +176,6 @@ wiki.maximum.nl
 windowsr2.maximum.nl
 wp-acceptatie01.maximum.nl
 wp-staging01.maximum.nl
-www.maximum.nl
-www.mail.maximum.nl
-www.mdmserver.maximum.nl
-www.nlvpn.maximum.nl
-www.openvpn.maximum.nl
 zabbix.maximum.nl
 ziggo.maximum.nl
 backup.fileserverbackup.maximum.nl
@@ -207,10 +201,9 @@ star.maximum.nl
 verweij.maximum.nl
 video.maximum.nl
 wielemaker.maximum.nl
-www.albert.verweij.maximum.nl
-www.corne.wielemaker.maximum.nl
-www.ouessant.maximum.nl
-www.projactive.maximum.nl
+albert.verweij.maximum.nl
+corne.wielemaker.maximum.nl
+projactive.maximum.nl
 zendesk1.maximum.nl
 zendesk2.maximum.nl
 zendesk3.maximum.nl

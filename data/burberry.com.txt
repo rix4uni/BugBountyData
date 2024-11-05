@@ -42,7 +42,7 @@ fi.pre-prod.burberry.com
 pl.pre-prod.burberry.com
 bg.pre-prod.burberry.com
 se.pre-prod.burberry.com
-www.pre-prod.burberry.com
+pre-prod.burberry.com
 ru.pre-prod.burberry.com
 es.pre-prod.burberry.com
 in.pre-prod.burberry.com
@@ -169,7 +169,7 @@ wecom-api.prod.wecom.burberry.com
 prf.burberry.com
 browse-nft1cn-north.nonprod.aws-cn.burberry.com
 o1.sgprod.orders.mail.burberry.com
-www.preprod.burberry.com
+preprod.burberry.com
 zeus.burberry.com
 api-cdp.qa.gio.burberry.com
 mo.burberry.com
@@ -217,13 +217,11 @@ lv.preprod.burberry.com
 americas.guest1.burberry.com
 estfb.apps.burberry.com
 mo.rc1.burberry.com
-pre-prod.burberry.com
 ca.preprod.burberry.com
 enbcnacs01.burberry.com
 exchange.burberry.com
 browse-prod1cnb.prod.aws-cn.burberry.com
 gio-webui-qa.cn-apps.burberry.com
-www.kisses.burberry.com
 ciprodmic.apps.burberry.com
 idam.burberry.com
 help.hkff.employeestore.burberry.com
@@ -248,10 +246,10 @@ makeup.nonprod.ar-cn.burberry.com
 uk.preprod.burberry.com
 br.burberry.com
 browse-uat4cn-north.nonprod.aws-cn.burberry.com
-www.live.burberry.com
+live.burberry.com
 logiqc-test.app.burberry.com
 optimizely-prod1cweb.prod.aws-cn.burberry.com
-www.est.apps.burberry.com
+est.apps.burberry.com
 hkgdc21-f26-isepsn11.ise.burberry.com
 nrw-preview.burberry.com
 at.preprod.burberry.com
@@ -265,7 +263,7 @@ content-uat1cn-nw.nonprod.aws-cn.burberry.com
 makeup.apps.burberry.com
 productionxcenter.burberry.com
 uat.verizon.ebonding.burberry.com
-www.us.burberry.com
+us.burberry.com
 au.rc1.burberry.com
 nlddc01-fg-ise-psn1.ise.burberry.com
 visioncc.stg.vxi-cn.burberry.com
@@ -277,7 +275,7 @@ content-uat2cn-northwest.nonprod.aws-cn.burberry.com
 api.nft.burberry.com
 h5-visioncc.prod.vxi-cn.burberry.com
 streaming.test.ar-cn.burberry.com
-www.testmg.burberry.com
+testmg.burberry.com
 identity.apps.burberry.com
 apachepreprod.burberry.com
 jp.qa17.burberry.com
@@ -344,7 +342,6 @@ qa.email.burberry.com
 tr.qa12.burberry.com
 admin.eks.ops.burberry.com
 api.wx.cn.burberry.com
-est.apps.burberry.com
 image-stg.westore.burberry.com
 qawebui.qa.gio.burberry.com
 test-api.apps.burberry.com
@@ -456,7 +453,6 @@ sipdrgw02-1.burberry.com
 nlddc01-fg-acs1.burberry.com
 ru.qa12.burberry.com
 si.rc1.burberry.com
-www.burberry.com
 mt.qa7.burberry.com
 api.burberry.com
 network.burberry.com
@@ -470,7 +466,6 @@ lv.qa12.burberry.com
 qa.assetslibrary.wcw.burberry.com
 shoes.nonprod.aws-cn.burberry.com
 stealth-test.app.burberry.com
-www.wsdashboard.burberry.com
 es.preprod.burberry.com
 nlddc01-fg-acs2.burberry.com
 pre-cnstaffsale.apps.burberry.com
@@ -506,7 +501,6 @@ sg.qa12.burberry.com
 sso.test.burberry.com
 tracking-sensors.prod.westore.burberry.com
 emeia.guest1.burberry.com
-live.burberry.com
 rc1.burberry.com
 mt.burberry.com
 optimizely-nonprod.nonprod.aws-cn.burberry.com
@@ -568,7 +562,7 @@ at.rc1.burberry.com
 content-preview1cnb.prod.aws-cn.burberry.com
 identity-prod1cn.prod.aws-cn.burberry.com
 productionapache.burberry.com
-www.uk.burberry.com
+uk.burberry.com
 my.preprod.burberry.com
 mailer064.burberry.com
 qa.burberry.com
@@ -581,7 +575,6 @@ assetslibrary.wcw.burberry.com
 sk.qa12.burberry.com
 comodo.static.burberry.com
 festive.burberry.com
-www.network.burberry.com
 au.preprod.burberry.com
 nlamscrsacs01.burberry.com
 pim.apps.burberry.com
@@ -595,7 +588,6 @@ bread.wcw.burberry.com
 careers.burberry.com
 qa.qa12.burberry.com
 storefront.burberry.com
-uk.burberry.com
 septshow2017.cn.burberry.com
 git.developers.burberry.com
 optimizely-prod1cweb-n.prod.aws-cn.burberry.com
@@ -606,7 +598,7 @@ showstatus-api.apps.burberry.com
 apac.guest1.burberry.com
 testwebdispatcher.burberry.com
 browse-uat4cnb.nonprod.aws-cn.burberry.com
-www.auth.sso.burberry.com
+auth.sso.burberry.com
 americas1.guest1.burberry.com
 kw.qa12.burberry.com
 awswebdispatcher.burberry.com
@@ -620,7 +612,7 @@ help.usff.employeestore.burberry.com
 api.uat1.apac.burberry.com
 ch.rc1.burberry.com
 identity-preprod1cn-northwest.nonprod.aws-cn.burberry.com
-www.oms.burberry.com
+oms.burberry.com
 mobile-preview.burberry.com
 lookbook.burberry.com
 e2e-b2b2c.apps.burberry.com
@@ -704,7 +696,6 @@ de.rc1.burberry.com
 gr.preprod.burberry.com
 nsg.burberry.com
 webui.prod.gio.burberry.com
-www.show.burberry.com
 giftinghub.burberry.com
 ipauthoriser.apps.burberry.com
 be.preprod.burberry.com
@@ -748,14 +739,10 @@ search.test.ar-cn.burberry.com
 us.employeestore.burberry.com
 api.eis.burberry.com
 autodiscover.burberry.com
-preprod.burberry.com
 test.ar-cn.burberry.com
-www.dev.burberry.com
 show-messages.apps.burberry.com
 h5-visioncc-uat.uat.vxi-cn.burberry.com
 test.china.streaming.burberry.com
-us.burberry.com
-www.estfb.apps.burberry.com
 view.emails.burberry.com
 gigya.identity-preprod.nonprod.aws-cn.burberry.com
 it.qa12.burberry.com
@@ -797,7 +784,7 @@ ca.rc1.burberry.com
 uk.qa12.burberry.com
 es.qa12.burberry.com
 tools.apps.burberry.com
-www.nft.burberry.com
+nft.burberry.com
 browse-prod1cn-n.prod.aws-cn.burberry.com
 content-prodcn.prod.aws-cn.burberry.com
 mysap.burberry.com
@@ -805,7 +792,6 @@ uat-b2b2c.apps.burberry.com
 my.qa7.burberry.com
 catalogue.tst.apps.burberry.com
 hades.burberry.com
-www.apps.burberry.com
 china.eventslive.streaming.burberry.com
 feedback.burberry.com
 impala.aptest.burberry.com
@@ -826,8 +812,6 @@ cn.stg.burberry.com
 cvd2020.cn.burberry.com
 analytics.burberry.com
 bags.prod.ar-cn.burberry.com
-auth.sso.burberry.com
-oms.burberry.com
 us.rc1.burberry.com
 eks-cn.nonprod.aws-cn.burberry.com
 acplbppd.burberry.com
@@ -867,7 +851,6 @@ fi.preprod.burberry.com
 ceorder.burberry.com
 es.rc1.burberry.com
 qa.rc1.burberry.com
-www.uat.burberry.com
 adfs.burberry.com
 sk.rc1.burberry.com
 preprod.ie.burberry.com
@@ -905,7 +888,6 @@ content-prod1cnb.prod.aws-cn.burberry.com
 mo.qa12.burberry.com
 preprod.ise.burberry.com
 main-campaign.apps.burberry.com
-nft.burberry.com
 trench.burberry.com
 virtualstore.nonprod.aws-cn.burberry.com
 bsurf-ws.tb.burberry.com

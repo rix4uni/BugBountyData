@@ -1,9 +1,7 @@
 travelsupport-d.cla.ns.nl
-*.travelsupport-d.cla.ns.nl
 nszakelijk-o.cla.ns.nl
-*.nszakelijk-o.cla.ns.nl
 preference-api.appciam-d.cla.ns.nl
-www.test.ns.nl
+test.ns.nl
 admin.test.ns.nl
 admin76.test.ns.nl
 cms.test.ns.nl
@@ -32,7 +30,7 @@ int1822257customerapi.customer-d.cla.ns.nl
 milestone.ns.nl
 modality-api.plannen-d.cla.ns.nl
 thanos-querier-openshift-monitoring.apps.aro20-stg.ns.nl
-www.testen.ns.nl
+testen.ns.nl
 app-reisinfo.prorail.ns.nl
 dashboardsdev-nspaas-3.nspaas-o.cla.ns.nl
 ecomdev-167-api.ecomservice-d.cla.ns.nl
@@ -61,7 +59,7 @@ logging-rbg.ceap.ns.nl
 maas-performance-b57db8f3.nsapp-o.cla.ns.nl
 maas-performance-d55153eb.nsapp-o.cla.ns.nl
 sip.ns.nl
-www.lbiwebforms.ns.nl
+lbiwebforms.ns.nl
 flexorderprocessor252303.consfe-o.cla.ns.nl
 gbm-api-int-2457442.nszakelijk-o.cla.ns.nl
 orp-acceptatie.mobile-apps.ns.nl
@@ -174,7 +172,6 @@ maximo-mob.test.ns.nl
 nspaas-demo-app-avinash.demo.nspaas-o.cla.ns.nl
 sonar.kgg.topaas.ns.nl
 sonar.tac.topaas.ns.nl
-www.ns.nl
 ecom-portaal.ns.nl
 int1851931customerapi.customer-d.cla.ns.nl
 mijnstation-a.ns.nl
@@ -274,7 +271,7 @@ bart-svc-4.team-demo.nspaascluster.kcnspaaspocdev.clz.ns.nl
 brandveiligheid.app.ns.nl
 flexorderprocessor258418.consfe-o.cla.ns.nl
 flexwebshopjelena.consfe-o.cla.ns.nl
-www.chat2.ns.nl
+chat2.ns.nl
 adresboek.acc.ns.nl
 spoorkaart.paris-s.cla.ns.nl
 test-fd.kcnspaasdev.clz.ns.nl
@@ -307,7 +304,6 @@ reinigingsapp-nedt-a-b2b.ns.nl
 rtmo.nedt.t.b2b.ns.nl
 sapfiori-a.ns.nl
 sonar.dna.topaas.ns.nl
-www.chat0.ns.nl
 pret-t.ns.nl
 roswebshop.consfe-o.cla.ns.nl
 container-registry-test.kcnspaasdev.clz.ns.nl
@@ -362,7 +358,7 @@ gbm-api-int-2460557.nszakelijk-o.cla.ns.nl
 int2441328customerapi-int.customer-d.cla.ns.nl
 rtma.nedt.p.b2b.ns.nl
 spoorkaart.paris-o.cla.ns.nl
-www.osdirect-t-backend.ns.nl
+osdirect-t-backend.ns.nl
 dashboards-aws-61942.nspaas-o.cla.ns.nl
 fastapi.aws.nspaas-o.cla.ns.nl
 grafana.aks.sandbox.cla.ns.nl
@@ -404,7 +400,7 @@ api.craws-s.cla.ns.nl
 ilse-adapter-a.kclocota.clz.ns.nl
 thanos-querier-openshift-monitoring.apps.aro40-prd.ns.nl
 verlofboek.ns.nl
-www.nsmeldpuntintegriteit.ns.nl
+nsmeldpuntintegriteit.ns.nl
 fep-p.cla.ns.nl
 bijsturing.test.ns.nl
 infoplus-o.ns.nl
@@ -428,7 +424,7 @@ dms.app.ns.nl
 flexorderprocessor257000.consfe-o.cla.ns.nl
 flp-s.ns.nl
 jira-acc.topaas.ns.nl
-www.orp-metingen-p.mobile-apps.ns.nl
+orp-metingen-p.mobile-apps.ns.nl
 paris-o.cla.ns.nl
 payments.mfe.mijnns-o.cla.ns.nl
 stations.travelinformation-s.cla.ns.nl
@@ -456,7 +452,7 @@ bart-svc.team-demo.nspaascluster.kcnspaaspocdev.clz.ns.nl
 gateway.apiportalpoc.ns.nl
 kbs-a.ns.nl
 socks.azure1.nspaas-o.cla.ns.nl
-www.kcnscloudt.clz.ns.nl
+kcnscloudt.clz.ns.nl
 rps-t.mobile-apps.ns.nl
 actuelelandelijkevrijetekstberichten-v1.service.p.ns.nl
 actuelereikwijdtetreinenvtb-v1.service.p.ns.nl
@@ -534,7 +530,7 @@ echo.armin.aws.e2e.nspaas-o.cla.ns.nl
 extern-iwork.ns.nl
 dashboards-aws-61477.nspaas-o.cla.ns.nl
 int2452637customerapi-int.customer-d.cla.ns.nl
-www.osdirect-o-backend.ns.nl
+osdirect-o-backend.ns.nl
 applicationsapi-t.kclocota.clz.ns.nl
 arnu.ns.nl
 dashboard.mfe.mijnns-o.cla.ns.nl
@@ -595,7 +591,6 @@ bam-a.acceptatie.ns.nl
 console-openshift-console.apps.aro40-prd.ns.nl
 int1893356customerapi.customer-d.cla.ns.nl
 sonar.kva.topaas.ns.nl
-osdirect-o-backend.ns.nl
 places.location-p.cla.ns.nl
 su20nifi103a.ns.nl
 fastapi.aws.nspaas-s.cla.ns.nl
@@ -640,7 +635,7 @@ dashboards-aws-avinash.nspaas-o.cla.ns.nl
 flo-angular-test.bcc-o.cla.ns.nl
 jenkins.frame.topaas.ns.nl
 orp-mijnmaterieel-a.mobile-apps.ns.nl
-www.sigma-acc.ns.nl
+sigma-acc.ns.nl
 48.134.41.212.in-addr.arpa.ns.nl
 cataloguesaskia-local.nsapp-o.cla.ns.nl
 dashboards-aws-59350.nspaas-o.cla.ns.nl
@@ -784,7 +779,7 @@ gbm-api-int-2486513.nszakelijk-o.cla.ns.nl
 grafana.kclocop.clz.ns.nl
 int2417639customerapi-int.customer-d.cla.ns.nl
 splitter-t.kclocota.clz.ns.nl
-www.orp-metingen-a.mobile-apps.ns.nl
+orp-metingen-a.mobile-apps.ns.nl
 jenkins.flexba.topaas.ns.nl
 kms-a.ns.nl
 nsftpota.ns.nl
@@ -833,7 +828,7 @@ harmtest.kcmaplet.clz.ns.nl
 ontwikkel-oslc.maximo.ns.nl
 rob.dpk.p.b2b2.ns.nl
 decoratorproxy.ns.nl
-www.devopsint.ns.nl
+devopsint.ns.nl
 sonar.dnakaa.topaas.ns.nl
 webhra.acceptatie.ns.nl
 api-bijsturing.acceptatie.ns.nl
@@ -860,7 +855,6 @@ api.ofk-p.cla.ns.nl
 catalogue-test-saskia-local-2.nsapp-o.cla.ns.nl
 int2341048customerapi.customer-d.cla.ns.nl
 ns-atwork.ns.nl
-orp-metingen-a.mobile-apps.ns.nl
 i4i-acc.ns.nl
 iamportaalapp.ns.nl
 netex-viewer-a.ns.nl
@@ -895,7 +889,7 @@ container-registry.harbor.kcnspaasdev.clz.ns.nl
 container-registrylennart.nspaas-o.cla.ns.nl
 downloads-openshift-console.apps.aro40-prd.ns.nl
 flexorderprocessor.consfe-o.cla.ns.nl
-www.avg.ns.nl
+avg.ns.nl
 vsmviewer.ns.nl
 gbm-api-int-2486528.nszakelijk-o.cla.ns.nl
 gids-t.kclocota.clz.ns.nl
@@ -973,7 +967,6 @@ remon.ns.nl
 vsmviewer-t.ns.nl
 gcre.ns.nl
 kennisbank-productie.ns.nl
-nsmeldpuntintegriteit.ns.nl
 saprpp.prod.ns.nl
 knvb-dri-a-b2b.ns.nl
 app-t.reisinfo.prorail.ns.nl
@@ -1089,13 +1082,12 @@ paraplu-acc.app.ns.nl
 url-api.plannen-d.cla.ns.nl
 vsplanui.ns.nl
 mcm205.kclocota.clz.ns.nl
-www.culottes-periodiques.ns.nl
+culottes-periodiques.ns.nl
 bam-k5.test.ns.nl
 console-openshift-console.apps.aro20-prd.ns.nl
 dashboards-aws-63538.nspaas-o.cla.ns.nl
 jenkins.uat.topaas.ns.nl
 logintest.ns.nl
-lbiwebforms.ns.nl
 pgadmin.kcmaplet.clz.ns.nl
 registrytom.harbor.kcnspaasdev.clz.ns.nl
 apiportal.ns.nl
@@ -1258,10 +1250,9 @@ ns-it-tech-radar.sre-o1.cla.ns.nl
 sonar.mnns.topaas.ns.nl
 tvta.ns.nl
 ws20api001a.cloud.ns.nl
-www.osdirect-o.ns.nl
+osdirect-o.ns.nl
 nsftp.acceptatie.ns.nl
 portal.dino.acceptatie.ns.nl
-www.spoordeel.ns.nl
 ari-a.mobile-apps.ns.nl
 confluence-acc.topaas.ns.nl
 educatie-birt.maximo.ns.nl
@@ -1421,7 +1412,6 @@ dashboards-aws-63582.nspaas-o.cla.ns.nl
 int5customerapi-int.customer-d.cla.ns.nl
 stubws.ofk-o.cla.ns.nl
 servicessgo.ns.nl
-www.mobiel.ns.nl
 api1900648.push-d.cla.ns.nl
 app.azure2.nspaas-o.cla.ns.nl
 assets.stations.paris-o.cla.ns.nl
@@ -1461,7 +1451,7 @@ dashboards-aws-62163.nspaas-o.cla.ns.nl
 orp-servicecoachwal-a.mobile-apps.ns.nl
 orp-servicecoachwal-p.mobile-apps.ns.nl
 su20nifi101p.ns.nl
-www.acc.pasfoto.klanten.ns.nl
+acc.pasfoto.klanten.ns.nl
 dummy-test-app.kcmaplet.clz.ns.nl
 gbm-api-int-2477799.nszakelijk-o.cla.ns.nl
 section-monitoring-v2.craws-o.cla.ns.nl
@@ -1548,7 +1538,6 @@ catalogue-test-saskia.nsapp-o.cla.ns.nl
 e2e.biljetten.acceptatie.ns.nl
 flexorderprocessor245734.consfe-o.cla.ns.nl
 gbm-api.nszakelijk-s.cla.ns.nl
-orp-metingen-p.mobile-apps.ns.nl
 vclnazorg-a.ns.nl
 verlorengoed-a.ns.nl
 nspaas-demo-app.hein-jan.nspaas-o.cla.ns.nl
@@ -1585,7 +1574,7 @@ brandveiligheid-test.app.ns.nl
 dashboards-aws-59288.nspaas-o.cla.ns.nl
 flexorderprocessor229389.consfe-o.cla.ns.nl
 pas-klant-e.ns.nl
-www.vision.ns.nl
+vision.ns.nl
 mx8.ns.nl
 nexus-text.topaas.ns.nl
 capaciteitsplanner-t.ns.nl
@@ -1601,7 +1590,6 @@ reis.a.dc2.ns.nl
 sga-t.kclocota.clz.ns.nl
 test.maximo.ns.nl
 beheer-mijnmeldpunt-t.ns.nl
-chat2.ns.nl
 dashboards.nspaas-o-1.nspaas-o.cla.ns.nl
 gbm-api-int-2464026.nszakelijk-o.cla.ns.nl
 harbor.sre-o1.cla.ns.nl
@@ -1624,7 +1612,7 @@ api.plannen-s.cla.ns.nl
 cf-places.location-s.cla.ns.nl
 digitalevrijgave-a.ns.nl
 pas-medewerker.ns.nl
-www.osdirect-t.ns.nl
+osdirect-t.ns.nl
 transferoptions-nmbs-acc.ns.nl
 nedt.p.ams.ns.nl
 vmsppv.ns.nl
@@ -1790,7 +1778,7 @@ kcsamenreiskorting.ns.nl
 reporting.ns.nl
 securitybackoffice.acceptatie.ns.nl
 sonar.novabrim.topaas.ns.nl
-www.vision-stg.ns.nl
+vision-stg.ns.nl
 tickets.book-d.cla.ns.nl
 places-opensearch.location-p.cla.ns.nl
 redirect.travelsupport-d.cla.ns.nl
@@ -1818,7 +1806,6 @@ sonar.kwrtshrp.topaas.ns.nl
 webmail.prod.ns.nl
 sts.portaal.ns.nl
 orp-ontwikkel.mobile-apps.ns.nl
-osdirect-t.ns.nl
 proposition-definition-service260400.consfe-o.cla.ns.nl
 rs-nedt-t-b2b.ns.nl
 sonar.dnataa.topaas.ns.nl
@@ -1852,7 +1839,7 @@ nginx-test.kcgenta.clz.ns.nl
 dummy.default.azure2.nspaas-o.cla.ns.nl
 frame-api.kcframep.clz.ns.nl
 gbm-api-int-2474277.nszakelijk-o.cla.ns.nl
-www.cylocks.ns.nl
+cylocks.ns.nl
 maas-performance-79b64744.nsapp-o.cla.ns.nl
 reisinfo.travelinformation-s.cla.ns.nl
 reiswijzer.fvt-d.cla.ns.nl
@@ -1869,7 +1856,6 @@ echo.e2e.nspaas-s.cla.ns.nl
 pas-beheer-t4.ns.nl
 orp-nscontacten-p.mobile-apps.ns.nl
 pas-services-t.mobile-apps.ns.nl
-sigma-acc.ns.nl
 gbm-api-int-2486669.nszakelijk-o.cla.ns.nl
 preference-api.appciam-s.cla.ns.nl
 idpapi.appciam-p.cla.ns.nl
@@ -1886,7 +1872,6 @@ dashboards-aws-63641.nspaas-o.cla.ns.nl
 dashboards-aws-tom.nspaas-o.cla.ns.nl
 hell.kcnscloudt.clz.ns.nl
 prio.ns.nl
-www.chat1.ns.nl
 pso-oi-acc.ns.nl
 vtv.mobile-apps.ns.nl
 av.ns.nl
@@ -1938,7 +1923,7 @@ ofk-p.cla.ns.nl
 api.push-d.cla.ns.nl
 dashboards-aws-67343.nspaas-o.cla.ns.nl
 frame-api-acceptance.kcframeta.azds.ns.nl
-www.terraformregistry.ns.nl
+terraformregistry.ns.nl
 josiada.ns.nl
 maas-performance-e155eca6.nsapp-o.cla.ns.nl
 sandbox-bb.maximo.ns.nl
@@ -1963,7 +1948,6 @@ techradar-api.fcso-o.cla.ns.nl
 add-new-card.mfe.mijnns-s.cla.ns.nl
 cloudopsdocs.clz.ns.nl
 dashboards-azure-fai.nspaas-o.cla.ns.nl
-terraformregistry.ns.nl
 scm.orp.cloud.ns.nl
 dirk-app.kcmaplet.clz.ns.nl
 decoratorproxy-test2.ns.nl
@@ -1985,7 +1969,6 @@ panto.ns.nl
 preview-nswebapp.nsapp-a.cla.ns.nl
 nswebapp-v2.nsapp-o.cla.ns.nl
 schedulelink-rostarcas.portaal.ns.nl
-testen.ns.nl
 jovanacustomerapi-dev.customer-d.cla.ns.nl
 interface.kcpk.ns.nl
 cf-virtueletrein.location-d.cla.ns.nl
@@ -2018,7 +2001,6 @@ flexorderprocessor246924.consfe-o.cla.ns.nl
 int2422861customerapi-int.customer-d.cla.ns.nl
 long.kcnscloudt.clz.ns.nl
 mdd-t.ns.nl
-osdirect-o.ns.nl
 jenkins.bcdocu.topaas.ns.nl
 jenkins.ebt.topaas.ns.nl
 kaas.infoplus.ns.nl
@@ -2033,7 +2015,6 @@ sonar.sre.topaas.ns.nl
 194-151-127-221.ns.nl
 nscloud-stack.clz.ns.nl
 portaal.microlearnings-a.ns.nl
-www.chat.ns.nl
 dashboards-aws-64738.nspaas-o.cla.ns.nl
 flexorderprocessor250788.consfe-o.cla.ns.nl
 int1851676customerapi.customer-d.cla.ns.nl
@@ -2058,7 +2039,6 @@ dashboards-aws-lennart.nspaas-o.cla.ns.nl
 ib.ns.nl
 jenkins.kwrtsb30.topaas.ns.nl
 productie-bb.maximo.ns.nl
-vision-stg.ns.nl
 customerapi.customer-p.cla.ns.nl
 grafana.kcrsmanp.clz.ns.nl
 nginx.kcgenta.clz.ns.nl
@@ -2092,7 +2072,6 @@ nova.ns.nl
 app-mtls-reisinfo-t.prorail.ns.nl
 ovcp.bas.prod.ns.nl
 pas-klant-e.mobile-apps.ns.nl
-devopsint.ns.nl
 hpsm.portaal.ns.nl
 int2368754customerapi.customer-d.cla.ns.nl
 permissions.mfe.mijnns-o.cla.ns.nl
@@ -2116,7 +2095,7 @@ app-mtls-reisinfo-a.prorail.ns.nl
 app.aws.nspaas-s.cla.ns.nl
 bi-sas-va.ns.nl
 grafana.rbdev.clz.ns.nl
-www.areyousecure.ns.nl
+areyousecure.ns.nl
 graylog.kcframeta.clz.ns.nl
 jenkins.cro.topaas.ns.nl
 restitutie-formulier-a.ns.nl
@@ -2166,7 +2145,6 @@ su20nifi101a.ns.nl
 jenkins.mlab.topaas.ns.nl
 jenkins.obist.topaas.ns.nl
 kam-openshift-gitops.apps.aro20-stg.ns.nl
-acc.pasfoto.klanten.ns.nl
 amadeus-3002d1.ns.nl
 assets.paris-s.cla.ns.nl
 dashboards-aws-58125.nspaas-o.cla.ns.nl
@@ -2322,7 +2300,6 @@ brandveiligheid-prod.app.ns.nl
 dashboards-aws-59587.nspaas-o.cla.ns.nl
 demo-aws-lennart.nspaas-o.cla.ns.nl
 container-registry.harbor.kcharbor01t.clz.ns.nl
-www.acc.ns.nl
 ecomservice-d.cla.ns.nl
 int2406813customerapi-int.customer-d.cla.ns.nl
 reinigingsapp-nedt-t-b2b.ns.nl
@@ -2356,7 +2333,6 @@ actuelelandelijkeberichten-v1.service.p.ns.nl
 console-openshift-console.apps.drp-prd.ns.nl
 echo.avinash.aws.e2e.nspaas-o.cla.ns.nl
 webclient-pureconnect.acc.ns.nl
-www.webformulier.ns.nl
 ontwikkel-birt.maximo.ns.nl
 pas.dbb-d.cla.ns.nl
 sonar.frame.topaas.ns.nl
@@ -2365,7 +2341,6 @@ capaciteitsplanner.ns.nl
 dashboardsdev-nspaas-2.nspaas-o.cla.ns.nl
 flexwebshop.consfe-p.cla.ns.nl
 frame-api-integration.kcframeta.azds.ns.nl
-vision.ns.nl
 dashboards-aws-64081.nspaas-o.cla.ns.nl
 elasticsearch-openshift-logging.apps.aro40-prd.ns.nl
 nspaas-o.cla.ns.nl
@@ -2564,7 +2539,6 @@ actuelestationvrijetekstberichten-v1.service.a.ns.nl
 maas-ruud2.nsapp-o.cla.ns.nl
 notary.harbor.nspaas-o.cla.ns.nl
 nscloudappacc.ns.nl
-osdirect-t-backend.ns.nl
 int2422632customerapi-int.customer-d.cla.ns.nl
 noc.ns.nl
 prometheus-k8s-openshift-monitoring.apps.aro20-stg.ns.nl
@@ -2622,7 +2596,7 @@ notary.nspaascluster.kcnspaaspocdev.clz.ns.nl
 thanos-querier-openshift-monitoring.apps.aro20-prd.ns.nl
 loginapi.ipa-d.cla.ns.nl
 otsapi.appciam-s.cla.ns.nl
-www.keuze-online.ns.nl
+keuze-online.ns.nl
 nsr.ns.nl
 sonar.nssi.topaas.ns.nl
 flexwebshop.consfe-o.cla.ns.nl
@@ -2648,7 +2622,6 @@ remon-a.acceptatie.ns.nl
 orp-servicecoach-p.mobile-apps.ns.nl
 pas-medewerker-t.mobile-apps.ns.nl
 permissies.mijnns-s.cla.ns.nl
-avg.ns.nl
 catalogue-test-saskia-2.nsapp-o.cla.ns.nl
 dms-acc.app.ns.nl
 maas-performance-87a2c466.nsapp-o.cla.ns.nl
@@ -2698,7 +2671,6 @@ jenkins.toco.topaas.ns.nl
 mobile.dino.acceptatie.ns.nl
 nibo2gw-acc.ns.nl
 62.134.41.212.in-addr.arpa.ns.nl
-areyousecure.ns.nl
 b2b.prod.ns.nl
 businesscardaanvragen-api.nszakelijk-o.cla.ns.nl
 jenkins.kwartstb2.topaas.ns.nl
@@ -2748,7 +2720,6 @@ account.mfe.mijnns-o.cla.ns.nl
 actuelevertrektijden-v1.service.a.ns.nl
 api.kld-p.cla.ns.nl
 dashboards-aws-61411.nspaas-o.cla.ns.nl
-www.forum.ns.nl
 fvt-d.cla.ns.nl
 maas-performance-64d8e939.nsapp-o.cla.ns.nl
 pas-beheer-t.mobile-apps.ns.nl
@@ -2838,7 +2809,6 @@ agentdesktopmashups-t.ns.nl
 api.ofk-s.cla.ns.nl
 businesscardaanvragen-backend.nszakelijk-o.cla.ns.nl
 cyberacademy.ns.nl
-cylocks.ns.nl
 btob-hpsm-sn-prod.ns.nl
 cf-virtual-train.location-d.cla.ns.nl
 rostarcas.acc-portaal.ns.nl
@@ -2852,7 +2822,6 @@ int1968824customerapi.customer-d.cla.ns.nl
 jenkins.cons.topaas.ns.nl
 orp-mijndienst-a.mobile-apps.ns.nl
 sonar.apim.topaas.ns.nl
-www.sigma.ns.nl
 dashboards-aws-68173.nspaas-o.cla.ns.nl
 jenkins.robdo.topaas.ns.nl
 klanttokenbeheer.acceptatie.ns.nl
@@ -3058,15 +3027,12 @@ fastapi.azure-o.nspaas-o.cla.ns.nl
 klantaccountbeheer.test.ns.nl
 mijnstation-t.ns.nl
 service-formulieren.ns.nl
-test.ns.nl
-www.autodiscover.ns.nl
 tc4-b2b.acc.ns.nl
 toegang2.ns.nl
 vms-t.ns.nl
 actueleaankomsttijden-v1.service.a.ns.nl
 app.nspaas-s.cla.ns.nl
 dso-crucible-test.ns.nl
-keuze-online.ns.nl
 sonarqube-acc.topaas.ns.nl
 orp-mijnbiljetten-p.mobile-apps.ns.nl
 orp-teammanager-t.mobile-apps.ns.nl

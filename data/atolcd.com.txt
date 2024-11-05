@@ -1,4 +1,3 @@
-*.priv.atolcd.com
 priv.atolcd.com
 sagsparis-preprod.atolcd.com
 sags-preprod-bo.atolcd.com
@@ -34,7 +33,7 @@ rna-gertrude-production-graphql-test.atolcd.com
 ridf-gertrude-mediatheque-graphql-prod.atolcd.com
 rbfc-webdav-prod.atolcd.com
 rbfc-gertrude-mediatheque-prod.atolcd.com
-www.acta.atolcd.com
+acta.atolcd.com
 pdl-gertrude-diffusion-test.atolcd.com
 axereal-api.atolcd.com
 agora-api-preprod.atolcd.com
@@ -120,7 +119,7 @@ farmeo-sig-foncier-geoserver-preprod.atolcd.com
 remocra.atolcd.com
 pdl-macave-test.atolcd.com
 agralia-api.atolcd.com
-www.especes-invasives-pl.atolcd.com
+especes-invasives-pl.atolcd.com
 ressources-acolyance.atolcd.com
 capl-preprod.atolcd.com
 ressources-rhonea.atolcd.com
@@ -171,7 +170,6 @@ apca-sigacertif-preprod.atolcd.com
 ressources-tbg77.atolcd.com
 area-cal-magatrium-preprod.atolcd.com
 ctguyane-ldap.atolcd.com
-www.atolcd.com
 farmeo-geoserver-preprod.atolcd.com
 ressources-dijoncereales.atolcd.com
 ressources-vivescia.atolcd.com

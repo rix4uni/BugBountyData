@@ -58,7 +58,7 @@ dcs-prod-irl1-v085-0ccc47a87.edge-irl1.demdex.com
 la-dcs-6-3.internal.demdex.com
 adobe.demdex.com
 kshbdn145a.internal.demdex.com
-www.tim.demdex.com
+tim.demdex.com
 dcs-prod-irl1-2-v018-0bd060ab7.edge-irl1.demdex.com
 dcs-prod-irl1-1-v016-0f7d269ca.edge-irl1.demdex.com
 dcs-prod-irl1-v089-0cf5888ba.edge-irl1.demdex.com
@@ -128,7 +128,7 @@ ksadn330.internal.demdex.com
 kshbdn01.internal.demdex.com
 kshbdn103a.internal.demdex.com
 use-hbase-staging-master2.internal.demdex.com
-www.bank.demdex.com
+bank.demdex.com
 dcs-prod-va6-v033-04795c489.edge-va6.demdex.com
 dcs-prod-irl1-v090-0907572fe.edge-irl1.demdex.com
 dcs-prod-irl1-2-v018-0c31a9294.edge-irl1.demdex.com
@@ -150,7 +150,6 @@ dcs-prod-irl1-1-v014-0cc77c74c.edge-irl1.demdex.com
 dcsdcs-prod-irl1-v052-0ee2cdc79.edge-irl1.demdex.com
 dev1-hbase0-node2d.demdex.com
 ksadn321.internal.demdex.com
-tim.demdex.com
 dcs-prod-irl1-v089-0bc0be24b.edge-irl1.demdex.com
 sae-iris-radiumone1.internal.demdex.com
 demo-puppet3.demdex.com
@@ -194,7 +193,6 @@ dcs-prod-tyo3-2-v041-06fa3ef21.edge-tyo3.demdex.com
 dcs-prod-irl1-2-v012-03d9cf435.edge-irl1.demdex.com
 dcs-prod-irl1-v086-09d56791c.edge-irl1.demdex.com
 dcs-prod-irl1-v083-0c7a3cf9f.edge-irl1.demdex.com
-bank.demdex.com
 dcs-prod-irl1-2-v018-0a8f340e5.edge-irl1.demdex.com
 dcs-prod-irl1-v090-084326971.edge-irl1.demdex.com
 ksadn322.internal.demdex.com
@@ -215,7 +213,6 @@ ksadn139.internal.demdex.com
 kshbdn07.internal.demdex.com
 kshbdn117e.internal.demdex.com
 sae-dcs-28.internal.demdex.com
-www.demdex.com
 dcs-prod-irl1-v086-06faaa0ed.edge-irl1.demdex.com
 telstra.demdex.com
 api.demdex.com

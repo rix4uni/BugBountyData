@@ -53,7 +53,7 @@ partners-staging.fundingoptions.com
 ledgerlive.fundingoptions.com
 logstash.fundingoptions.com
 metabase.fundingoptions.com
-www.test-site.fundingoptions.com
+test-site.fundingoptions.com
 fp-matcher.prod.service.fundingoptions.com
 example-service.prod.fundingoptions.com
 kakapo-staging.fundingoptions.com
@@ -88,7 +88,6 @@ sentry.fundingoptions.com
 lm.prod.service.fundingoptions.com
 borbdb.prod.fundingoptions.com
 feedback.fundingoptions.com
-www.fundingoptions.com
 fundinglive.fundingoptions.com
 sanction-matching-service.prod.fundingoptions.com
 system-of-record.dev.service.fundingoptions.com

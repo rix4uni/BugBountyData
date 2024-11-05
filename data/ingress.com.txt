@@ -24,8 +24,6 @@ qa-missions.ingress.com
 qa-support.ingress.com
 staging.ingress.com
 support.ingress.com
-www.events.ingress.com
-www.ingress.com
 bio.ingress.com
 controller-api.ai.ingress.com
 controller.ai.ingress.com

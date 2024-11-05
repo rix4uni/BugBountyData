@@ -1,5 +1,4 @@
-*.threatdown.com
-*.telemetry.threatdown.com
+telemetry.threatdown.com
 ars.cloud.threatdown.com
 arsws.cloud.threatdown.com
 billing-management-business.threatdown.com
@@ -9,9 +8,7 @@ dev-www.threatdown.com
 store.threatdown.com
 support.threatdown.com
 try.threatdown.com
-www.threatdown.com
 status.threatdown.com
-telemetry.threatdown.com
 block.threatdown.com
 _dmarc.threatdown.com
 api-msp-telemetry.threatdown.com

@@ -65,7 +65,6 @@ service-now.dropboxer.net
 viruses.predict.dropboxer.net
 predict.dropboxer.net
 assist.dropboxer.net
-www.99plus.dropboxer.net
 badges.dropboxer.net
 dbx-ldap-api-dev-use2.dropboxer.net
 amer-west-ext.vpn.dropboxer.net
@@ -86,7 +85,6 @@ oracle-ords-uat.dropboxer.net
 doozers-api-dev.dropboxer.net
 doozers-api-prd.dropboxer.net
 admin-jira-stage.dropboxer.net
-www.dropboxer.net
 api-jira-dev.dropboxer.net
 admin-jira.dropboxer.net
 api.dropboxer.net
@@ -142,14 +140,6 @@ tftp-a.dropboxer.net
 summit.dropboxer.net
 medicare.dropboxer.net
 aware.dropboxer.net
-*.dropboxer.net
-*.f2k.dropboxer.net
-*.teleport-dbx.dropboxer.net
-*.teleport-dbx-stage.dropboxer.net
-*.secrets.dropboxer.net
-*.build.dropboxer.net
-*.epe.dropboxer.net
 pp.dropboxer.net
 thedirectory.dropboxer.net
-*.sb-stage.build.dropboxer.net
 sb-stage.build.dropboxer.net

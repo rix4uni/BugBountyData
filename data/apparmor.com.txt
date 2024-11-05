@@ -40,7 +40,7 @@ usf.apparmor.com
 mohawkcollege.apparmor.com
 alaskapacific.apparmor.com
 chamberlain.apparmor.com
-www.uic.apparmor.com
+uic.apparmor.com
 lavc.apparmor.com
 csmd.apparmor.com
 crescentschool.apparmor.com
@@ -227,7 +227,6 @@ bowvalleycollege.apparmor.com
 losrios.apparmor.com
 sju.apparmor.com
 redirect.apparmor.com
-www.tmcc.apparmor.com
 sbccd.apparmor.com
 algomau.apparmor.com
 howard.apparmor.com
@@ -241,12 +240,11 @@ itsmarta.apparmor.com
 nscad.apparmor.com
 mun-grenfell.apparmor.com
 columbia.apparmor.com
-uic.apparmor.com
 push.apparmor.com
 iaclea.apparmor.com
 viu.apparmor.com
 ufl-scripps.apparmor.com
-www.rossumed.apparmor.com
+rossumed.apparmor.com
 ucsf.apparmor.com
 temple.apparmor.com
 daytonastate.apparmor.com
@@ -275,7 +273,6 @@ usu.apparmor.com
 uaa.apparmor.com
 jmu.apparmor.com
 sdsu-outreach.apparmor.com
-www.arkchiefs.apparmor.com
 dickinsonstate.apparmor.com
 flemingcollege.apparmor.com
 stetson.apparmor.com
@@ -324,7 +321,6 @@ portagecollege.apparmor.com
 tamuc.apparmor.com
 nsu.apparmor.com
 roseman.apparmor.com
-www.illinoisstate.apparmor.com
 sva.apparmor.com
 coxhealth.apparmor.com
 solano.apparmor.com
@@ -339,7 +335,6 @@ butlercc.apparmor.com
 montana.apparmor.com
 murdoch.apparmor.com
 yorku.apparmor.com
-rossumed.apparmor.com
 nd.apparmor.com
 unsw.apparmor.com
 alamancecc.apparmor.com
@@ -386,13 +381,11 @@ chusj.apparmor.com
 vanderbilt.apparmor.com
 cookman.apparmor.com
 cambriancollege.apparmor.com
-www.apparmor.com
 richmond.apparmor.com
 tru.apparmor.com
 2fufl-scripps.apparmor.com
 marquette.apparmor.com
 elac.apparmor.com
-www.uwosh.apparmor.com
 strangeplanet.apparmor.com
 napavalley.apparmor.com
 stmarysca.apparmor.com

@@ -106,7 +106,6 @@ ax046f54.xspm.axonius.com
 try.axonius.com
 ax06caaf.xspm.axonius.com
 atlas.in.axonius.com
-*.atlas.in.axonius.com
 xspm-ax07b3db-es.in.axonius.com
 xspm-ax0d5915-es.in.axonius.com
 4e76b40c3a6f24e2-es.in.axonius.com
@@ -256,7 +255,6 @@ xspm-default-api.in.axonius.com
 xspm-axit-s1-mq.in.axonius.com
 xspm-ax0c15d9-sb-es.in.axonius.com
 cc6ff26da52556a4-es.in.axonius.com
-www.axonius.com
 6abaa5f7347ac083-mq.in.axonius.com
 b74be66dd733f4b0-es.in.axonius.com
 ax0bb2d4.xspm.axonius.com
@@ -441,7 +439,6 @@ ax0b26fd.xspm.axonius.com
 4ad9a3767cc9043a-int.on.axonius.com
 xspm-ax06ec6b-logs.in.axonius.com
 ax0817e3.xspm.axonius.com
-www.diag-t.axonius.com
 e9674d73d4c8c7e9.in.axonius.com
 xspm-ax0d360a-mq.in.axonius.com
 ax0cceb0.xspm.axonius.com
@@ -542,7 +539,6 @@ xspm-ax085a76.xspm.axonius.com
 xspm-ax0fd9ef-mq.in.axonius.com
 xspm-amex-logs.in.axonius.com
 4e76b40c3a6f24e2-int.on.axonius.com
-www.cloud-vpn.axonius.com
 xspm-ax0d27b2-logs.in.axonius.com
 xspm-ax0b2ce1-logs.in.axonius.com
 xspm-ax0733fe-rabbitmq.in.axonius.com
@@ -677,4 +673,3 @@ xspm-mindbody-es.in.axonius.com
 ax0fd9ef.xspm.axonius.com
 xspm-ax0fd9ef-rabbitmq.in.axonius.com
 xspm-ax0fd9ef-es.in.axonius.com
-*.on.axonius.com

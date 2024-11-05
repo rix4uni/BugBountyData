@@ -42,7 +42,6 @@ web-test.villaos.mobomo.net
 web.dev.cato.mobomo.net
 web.map.mbn.mobomo.net
 web.prod.cato.mobomo.net
-www.dev.ncei.noaa.mobomo.net
 answers.usgs.mobomo.net
 api.dev.cato.mobomo.net
 api.dev.rgs.mobomo.net
@@ -110,5 +109,5 @@ web-markdown.villaos.mobomo.net
 web.dev.rgs.mobomo.net
 web.production.cato.mobomo.net
 web.test.cato.mobomo.net
-www.joinallofus.mobomo.net
-www.onr.mobomo.net
+joinallofus.mobomo.net
+onr.mobomo.net

@@ -32,7 +32,6 @@ api.stackdriver.com
 calendar.stackdriver.com
 feedback.stackdriver.com
 cors-11.google.stackdriver.com
-www.stackdriver.com
 event-gateway.stackdriver.com
 gprod.stackdriver.com
 static-3.gturtle.stackdriver.com
@@ -49,6 +48,3 @@ cors-10.google.stackdriver.com
 app.gturtle.stackdriver.com
 local-metadata-agent.stackdriver.com
 jmx-gateway.google.stackdriver.com
-*.stackdriver.com
-*.google.stackdriver.com
-*.gturtle.stackdriver.com

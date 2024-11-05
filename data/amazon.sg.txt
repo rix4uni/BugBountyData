@@ -7,7 +7,6 @@ accelerator.amazon.sg
 brandservices.amazon.sg
 fastly-www.amazon.sg
 origin-dl.amazon.sg
-www.amazon.sg
 apx-security.amazon.sg
 gaming.amazon.sg
 api-amazondevices.amazon.sg
@@ -49,7 +48,6 @@ sellercentral.amazon.sg
 origin-www.amazon.sg
 fls-fe.amazon.sg
 a9g-api.amazon.sg
-*.transient.amazon.sg
 associates.amazon.sg
 04788557e-frontier.amazon.sg
 aan.amazon.sg

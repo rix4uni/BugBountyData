@@ -5,7 +5,6 @@ vpn.devolutions.net
 svn.devolutions.net
 _sipfederationtls._tcp.devolutions.net
 blog2.devolutions.net
-www.devolutions.net
 forum-api.devolutions.net
 telemetry.devolutions.net
 enterpriseenrollment.devolutions.net
@@ -35,7 +34,6 @@ internal-academy.devolutions.net
 server.devolutions.net
 download.devolutions.net
 sip.devolutions.net
-www.merch.devolutions.net
 _sip._tls.devolutions.net
 support.devolutions.net
 youtube.devolutions.net
@@ -85,7 +83,6 @@ wayk.devolutions.net
 helpserver.devolutions.net
 plus.devolutions.net
 jftestpatatepoil.devolutions.net
-*.operations.devolutions.net
 web.devolutions.net
 status.devolutions.net
 gateway.devolutions.net

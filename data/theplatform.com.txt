@@ -106,7 +106,7 @@ url.monitor.aor.theplatform.com
 altcdm.k803.ava.theplatform.com
 read.data.media2.theplatform.com
 widevine.entitlement.asg-eks-1.eks.asg.theplatform.com
-www.origin.mpx.theplatform.com
+origin.mpx.theplatform.com
 altcdm.k804.aor.theplatform.com
 cmporc.aort-eks-1.eks.aort.theplatform.com
 uploads.www.theplatform.com
@@ -534,7 +534,7 @@ dr.data.nginx.community.bravo.k8s.ava.theplatform.com
 ob01-phl.theplatform.com
 read.data.listing.tv.theplatform.com
 sweeper.payment.commerce.aort-eks-1.eks.aort.theplatform.com
-www.sea1vpn.theplatform.com
+sea1vpn.theplatform.com
 data.media3.bravo.k8s.ava.theplatform.com
 dev.ocms-hg-config.ops.cts.theplatform.com
 fairplay.entitlement.sea.ap.theplatform.com
@@ -760,7 +760,6 @@ replicant1.solr.product.aie-eks-1.eks.aie.theplatform.com
 aie.theplatform.com
 fms.bravo.k8s.aort.theplatform.com
 order.commerce.aor-eks-1.eks.aor.theplatform.com
-sea1vpn.theplatform.com
 widevine.entitlement.ap.theplatform.com
 primary.indexer.product.bravo.k8s.aor.theplatform.com
 read.data.delivery.aie-eks-1.eks.aie.theplatform.com
@@ -881,7 +880,7 @@ metrics.ava.theplatform.com
 read.data.entitlement.bravo.k8s.aor.theplatform.com
 sea1.fbperm.theplatform.com
 tax.commerce.bravo.k8s.aie.theplatform.com
-www.tpvpn.theplatform.com
+tpvpn.theplatform.com
 accounts.audience.ade-eks-1.eks.ade.theplatform.com
 admin.storefront.commerce.sandbox.theplatform.com
 ingest.aort-eks-1.eks.aort.theplatform.com
@@ -1303,7 +1302,7 @@ read.data.userprofile.community.bravo.k8s.ade.theplatform.com
 adapter.ingest.ade-eks-1.eks.ade.theplatform.com
 data.event.commerce.ade-eks-1.eks.ade.theplatform.com
 metrics-ingest.theplatform.com
-www.tpjira.corp.theplatform.com
+tpjira.corp.theplatform.com
 wfo-api-proxy.preview.cts.theplatform.com
 feed.entertainment.tv.test.aort.theplatform.com
 read.data.configuration.commerce.ade-eks-1.eks.ade.theplatform.com
@@ -1733,7 +1732,6 @@ accounts.audience.bravo.k8s.aor.theplatform.com
 ingest.theplatform.com
 data.userprofile.community.bravo.k8s.aort.theplatform.com
 disney.read.data.entitlement.theplatform.com
-origin.mpx.theplatform.com
 payment.commerce.bravo.k8s.ava.theplatform.com
 playready2.entitlement.us.theplatform.com
 sea1.data.euid.theplatform.com
@@ -1903,7 +1901,6 @@ tscfg-preprod.aort-eks-1.eks.aort.theplatform.com
 data.accountsettings.community.sea1.theplatform.com
 data.publish.bravo.k8s.aie.theplatform.com
 mpx.long.test.corp.theplatform.com
-www.phl1vpn.theplatform.com
 code.identity.auth.prod.theplatform.com
 data.media3.aor-eks-1.eks.aor.theplatform.com
 filerefresher.entitlement.bravo.k8s.ava.theplatform.com
@@ -2073,7 +2070,6 @@ filehandler.theplatform.com
 lgi.publish2.theplatform.com
 link-alb-test.aort-eks-1.eks.aort.theplatform.com
 read.data.euid.bravo.k8s.ava.theplatform.com
-www.stg-user.identity.auth.theplatform.com
 test.data.key.entitlement.bravo.k8s.ava.theplatform.com
 cvp-auth.theplatform.com
 data.entrds.bravo.k8s.ade.theplatform.com
@@ -2161,7 +2157,6 @@ capews.cpd.ava.theplatform.com
 license.entitlement.bravo.k8s.ava.theplatform.com
 ob02.theplatform.com
 read.playback.data.userprofile.community.bravo.k8s.aie.theplatform.com
-tpvpn.theplatform.com
 accounts.aor-eks-1.eks.aor.theplatform.com
 lgi.preprocessor2.theplatform.com
 data.nginx.community.bravo.k8s.ava.theplatform.com
@@ -2220,7 +2215,6 @@ enduser.bravo.k8s.asg.theplatform.com
 manage.npvr.aort-eks-1.eks.aort.theplatform.com
 phl1.fbperm.theplatform.com
 test.order.commerce.theplatform.com
-tpjira.corp.theplatform.com
 concurrency2.delivery.sea.ap.theplatform.com
 console-service.aws.theplatform.com
 ftpencoding.sandbox.theplatform.com
@@ -2345,7 +2339,6 @@ checkout.commerce.ade-eks-1.eks.ade.theplatform.com
 data.product.ade-eks-1.eks.ade.theplatform.com
 read.playback.order.commerce.ade-eks-1.eks.ade.theplatform.com
 tupxs3.bravo.k8s.aort.theplatform.com
-www.stg-admin.identity.auth.theplatform.com
 cim.data.media.theplatform.com
 cmpdel.cmp.ava-eks-1.eks.ava.theplatform.com
 data.validation.theplatform.com
@@ -2517,7 +2510,6 @@ drtest.data.entitlement.theplatform.com
 ingest3.theplatform.com
 logging-ingest.bravo.ade.theplatform.com
 loom-service-prod.aor-eks-1.eks.aor.theplatform.com
-www.theplatform.com
 bookmark-as.bravo.k8s.aort.theplatform.com
 data.accountsettings.community.aort.theplatform.com
 event.stage.timeshifted.theplatform.com
@@ -2745,17 +2737,12 @@ publish.dev.aort.theplatform.com
 data.identity.auth.aort.theplatform.com
 cmpmov.cmp.aor-eks-1.eks.aor.theplatform.com
 sad-alert-processor.ops.cts.theplatform.com
-*.media.global.theplatform.com
-*.delivery.global.theplatform.com
-*.phl.theplatform.com
-*.entertainment.tv.global.theplatform.com
 test.mediafileanalysis.aor.theplatform.com
 windowsmediamobile.theplatform.com
 testwww.theplatform.com
 maxmind.theplatform.com
 mediamanagerservices.theplatform.com
 sctevs-eks.aor.theplatform.com
-www.feed.entertainment.tv.ade.theplatform.com
 stg-pdk.theplatform.com
 amc-ccdn-origin.theplatform.com
 amc434413adserver-stage.theplatform.com
@@ -2765,11 +2752,6 @@ mediamanager.theplatform.com
 preview.widevine.entitlement.aie-eks-1.eks.aie.theplatform.com
 fms.aort-eks-2.aort.theplatform.com
 fms.aort-eks-2.eks.aort.theplatform.com
-*.entertainment.tv.api.us.theplatform.com
-*.api.us.theplatform.com
-*.entitlement.api.us.theplatform.com
-*.delivery.api.us.theplatform.com
-*.media.api.us.theplatform.com
 kubecost.ava-eks-1.eks.ava.theplatform.com
 kubecost.aie-eks-1.eks.aie.theplatform.com
 bookmark-as.eks.aort.theplatform.com

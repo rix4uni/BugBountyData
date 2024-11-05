@@ -1,7 +1,6 @@
 stage.airtasker.com
 support1.airtasker.com
 content.airtasker.com
-www.airtasker.com
 status.airtasker.com
 admin.airtasker.com
 images.airtasker.com
@@ -19,7 +18,7 @@ plus.airtasker.com
 seo-pages-eu-west-2.airtasker.com
 ablink.email.airtasker.com
 seo-pages.airtasker.com
-www.dev.airtasker.com
+dev.airtasker.com
 web-assets.dev.airtasker.com
 getmoredone.airtasker.com
 internal.status.dev.airtasker.com
@@ -32,7 +31,6 @@ k8s.stage.airtasker.com
 automated.airtasker.com
 discover.airtasker.com
 press.airtasker.com
-dev.airtasker.com
 email.airtasker.com
 s3-assets.airtasker.com
 ml.airtasker.com
@@ -84,7 +82,6 @@ o1540.abmail.automated.airtasker.com
 carl.airtasker.com
 frontend.dev-aws.airtasker.com
 lb1.airtasker.com
-www.go.airtasker.com
 api.k8s.stage.airtasker.com
 dev-k8s.airtasker.com
 london-dev.airtasker.com

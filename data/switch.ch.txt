@@ -8,7 +8,6 @@ alertmanager-stage.switch.ch
 callisia.switch.ch
 acca.switch.ch
 bromo.switch.ch
-www.switch.ch
 rr.aai.switch.ch
 browsertest.aai.switch.ch
 ca.aai.switch.ch
@@ -51,7 +50,6 @@ kaas.admin.switch.ch
 bernina.switch.ch
 fl-1-33.zhdk.cloud.switch.ch
 transformationblog.switch.ch
-www.transformationblog.switch.ch
 test-misp.switch.ch
 sgr-misp.switch.ch
 thanos-receive.switch.ch
@@ -59,7 +57,6 @@ alertmanager.int.scc-zhw.sck.cloud.switch.ch
 sck.cloud.switch.ch
 karma.int.scc-zhw.sck.cloud.switch.ch
 pages.switch.ch
-*.pages.switch.ch
 manager.zh.cert.sonar.switch.ch
 manager.cert.sonar.switch.ch
 api.sign.switch.ch
@@ -106,16 +103,13 @@ coldstor.admin.scloud.switch.ch
 engines.admin.scloud.switch.ch
 kaas.admin.scloud.switch.ch
 swsd24.events.switch.ch
-www.swsd24.events.switch.ch
 whois.cert.switch.ch
 htvgsctj.events.switch.ch
-www.htvgsctj.events.switch.ch
 fl-15-89.zhdk.cloud.switch.ch
 production.portal.cloud.switch.ch
 cloud.switch.ch
 prometheus.api-int.staging.scloud.switch.ch
 forumdays2024.events.switch.ch
-www.forumdays2024.events.switch.ch
 grafana.int.os-zh.kaas.switch.ch
 alertmanager.int.os-zh.kaas.switch.ch
 fl-12-211.zhdk.cloud.switch.ch

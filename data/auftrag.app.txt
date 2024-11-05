@@ -1,6 +1,4 @@
 dev-api.auftrag.app
-*.auftrag.app
-www.auftrag.app
 hop.auftrag.app
 demo.auftrag.app
 dev.auftrag.app

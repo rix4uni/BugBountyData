@@ -241,7 +241,6 @@ cpcontacts.atl-d-12.cloudsites.vps.net
 staffwiki.vps.net
 cloudkeeperuk2-b.vps.net
 www4.vps.net
-www.vps.net
 68.169.40.62.static.vps.net
 68-169-44-48.vps.net
 xz40guo.blog.vps.net
@@ -255,7 +254,7 @@ lb.vps.net
 50.31.255.235.static.vps.net
 50.31.255.97.static.vps.net
 ds1-chi.vps.net
-www.contrib.vps.net
+contrib.vps.net
 oc.vps.net
 pc.vps.net
 50.31.253.172.static.vps.net
@@ -269,10 +268,9 @@ watchdog.vps.net
 daniel.vps.net
 hosted.by.vps.net
 ssdvps-31969.vps.net
-www.myka.vps.net
+myka.vps.net
 rss.vps.net
 50.31.254.219.static.vps.net
-www.cloudkeepersjc-a.vps.net
 50.31.252.172.static.vps.net
 68.169.40.162.static.vps.net
 50.31.253.97.static.vps.net
@@ -298,9 +296,7 @@ newsvote.vps.net
 68.169.43.218.static.vps.net
 68.169.46.179.static.vps.net
 centos54.vps.net
-www.atl-d-8.cloudhosting.vps.net
 50.31.252.168.static.vps.net
-www.cloudkeeperatl-e.vps.net
 da.vps.net
 idj.vps.net
 68-169-43-116.static.vps.net
@@ -327,7 +323,6 @@ candidatsbe.vps.net
 68.169.44.233.static.vps.net
 colo10.vps.net
 ssdvps-77762.vps.net
-www.reseller.vps.net
 bsalazar.vps.net
 live.vps.net
 50.31.252.38.static.vps.net
@@ -347,7 +342,6 @@ nationalstrategies.standards.vps.net
 ssdvps-56091.vps.net
 vps.vps.net
 50.31.253.56.static.vps.net
-www.cloudkeepersin-a.vps.net
 68.169.41.62.static.vps.net
 68.169.43.35.static.vps.net
 68.169.45.66.static.vps.net
@@ -356,10 +350,8 @@ www.cloudkeepersin-a.vps.net
 68.169.40.244.static.vps.net
 ssdvps-54867.vps.net
 ssdvps-57523.vps.net
-www.cloudkeeperslc-d.vps.net
 knowledge.vps.net
 50.31.253.9.static.vps.net
-www.cloudkeeperlon-g.vps.net
 cloudkeeperchi-d.vps.net
 amarok.vps.net
 aws.vps.net
@@ -372,7 +364,7 @@ mix1.vps.net
 50.31.253.178.static.vps.net
 basehead.vps.net
 crunchies2009.vps.net
-www.dev.vps.net
+dev.vps.net
 50.31.252.77.static.vps.net
 tsed.vps.net
 68.169.43.92.static.vps.net
@@ -385,15 +377,12 @@ connect.vps.net
 50.31.253.82.static.vps.net
 68.169.40.192.static.vps.net
 net-man2.vps.net
-www.thg-nyc-cp.vps.net
 dir.vps.net
 member.vps.net
 50.31.252.176.static.vps.net
 50.31.253.208.static.vps.net
 68.169.44.232.static.vps.net
 68.169.44.57.static.vps.net
-www.checkout3.vps.net
-www.cloudkeeperdev-a.vps.net
 50.31.252.254.static.vps.net
 colo10-network.vps.net
 www-03.vps.net
@@ -404,7 +393,6 @@ www-03.vps.net
 50.31.255.240.static.vps.net
 50.31.255.87.static.vps.net
 68.169.45.118.static.vps.net
-www.cloudkeeperlax-a.vps.net
 209.236.76.172.static.vps.net
 68.169.46.175.static.vps.net
 68.169.40.213.static.vps.net
@@ -432,7 +420,6 @@ mathijs.vps.net
 ssdvps-46419.vps.net
 68.169.45.157.static.vps.net
 ssdvps-24181.vps.net
-www.atl-d-9.cloudhosting.vps.net
 insin.vps.net
 media.xbox360.vps.net
 50.31.252.153.static.vps.net
@@ -441,7 +428,6 @@ media.xbox360.vps.net
 68.169.46.22.static.vps.net
 209.236.76.16.static.vps.net
 50.31.254.88.static.vps.net
-www.cloudkeeperbeta-a.vps.net
 mhb.vps.net
 68.169.44.64.static.vps.net
 xs-dev.vps.net
@@ -451,7 +437,6 @@ xs-dev.vps.net
 50.31.253.102.static.vps.net
 50.31.254.243.static.vps.net
 68.169.43.109.static.vps.net
-www.ams-a-1.cloudsites.vps.net
 50.22.146.52-static.reverse.vps.net
 50.31.252.204.static.vps.net
 centos.vps.net
@@ -478,8 +463,7 @@ gsa.vps.net
 50.31.254.10.static.vps.net
 pl.vps.net
 cloud.vps.net
-www.par-a-1.cloudsites.vps.net
-www.cocof.vps.net
+cocof.vps.net
 rob.vps.net
 50.22.146.59-static.reverse.vps.net
 68.169.45.124.static.vps.net
@@ -491,7 +475,6 @@ rob.vps.net
 68.169.45.19.static.vps.net
 50.31.255.20.static.vps.net
 68.169.40.29.static.vps.net
-www.pc.vps.net
 cpaneltest2a.vps.net
 legalterms.vps.net
 50.22.186.222-static.reverse.vps.net
@@ -533,7 +516,6 @@ shops.vps.net
 68.169.43.111.static.vps.net
 68.169.43.112.static.vps.net
 68.169.45.33.static.vps.net
-www.cloudkeeperlon-h.vps.net
 network.vps.net
 am.vps.net
 68.169.40.186.static.vps.net
@@ -545,8 +527,7 @@ ereslibre.vps.net
 50.31.254.65.static.vps.net
 50.31.254.60.static.vps.net
 50.31.252.221.static.vps.net
-www.cloudkeeperspl-a.vps.net
-www.2009.vps.net
+2009.vps.net
 50.31.253.211.static.vps.net
 50.31.255.36.static.vps.net
 50.31.255.85.static.vps.net
@@ -593,7 +574,6 @@ cw411.vps.net
 68-169-43-27.static.vps.net
 50.31.253.76.static.vps.net
 50.31.253.124.static.vps.net
-www.tok-a-1.cloudhosting.vps.net
 benjamin.vps.net
 bradsch.vps.net
 gongyi.vps.net
@@ -608,11 +588,9 @@ vps-proxy.vps.net
 50.31.253.114.static.vps.net
 50.31.254.158.static.vps.net
 68.169.46.77.static.vps.net
-www.img.vps.net
 50.22.186.215-static.reverse.vps.net
 50.31.253.134.static.vps.net
 68.169.44.63.static.vps.net
-www.cdn.vps.net
 50.31.255.239.static.vps.net
 50.31.255.47.static.vps.net
 50.31.255.215.static.vps.net
@@ -643,7 +621,6 @@ aa.usno.vps.net
 68.169.45.55.static.vps.net
 68.169.46.108.static.vps.net
 68.169.43.202.static.vps.net
-www.cloudkeepersea-a.vps.net
 50.31.254.110.static.vps.net
 50.31.255.32.static.vps.net
 50.31.254.42.static.vps.net
@@ -710,7 +687,6 @@ gaspa.vps.net
 68.169.43.252.static.vps.net
 68.169.43.201.static.vps.net
 68.169.46.124.static.vps.net
-www.lon-1-uat.cloudsites.vps.net
 50.31.252.41.static.vps.net
 68.169.45.147.static.vps.net
 50.31.252.121.static.vps.net
@@ -718,7 +694,6 @@ www.lon-1-uat.cloudsites.vps.net
 50.31.252.26.static.vps.net
 50.31.255.187.static.vps.net
 68.169.40.142.static.vps.net
-www.console.apps.vps.net
 1.bp.vps.net
 50.31.253.79.static.vps.net
 68.169.40.176.static.vps.net
@@ -730,7 +705,6 @@ cloudkeeperaus-a.vps.net
 50.31.254.132.static.vps.net
 68.169.45.216.static.vps.net
 68.169.46.200.static.vps.net
-www.cloudkeepersea-b.vps.net
 nces.vps.net
 50.31.254.6.static.vps.net
 50.31.253.46.static.vps.net
@@ -751,7 +725,6 @@ zero2ipo.blog.vps.net
 50.31.253.75.static.vps.net
 50.31.255.222.static.vps.net
 68.169.40.72.static.vps.net
-www.cloudkeeperchi-c.vps.net
 000.vps.net
 50.31.252.239.static.vps.net
 i7lp.vps.net
@@ -760,7 +733,6 @@ i7lp.vps.net
 68.169.40.187.static.vps.net
 68.169.44.172.static.vps.net
 self.vps.net
-www.db-staging.vps.net
 50.31.252.238.static.vps.net
 50.31.253.206.static.vps.net
 68.169.40.207.static.vps.net
@@ -778,7 +750,6 @@ insignia.vps.net
 ssdvps-63861.vps.net
 50.31.255.12.static.vps.net
 net-nyc.vps.net
-www.ams-a-2.cloudsites.vps.net
 de.vps.net
 68.169.41.54.static.vps.net
 geo.vps.net
@@ -799,7 +770,6 @@ ssdvps-42714.vps.net
 50.31.255.218.static.vps.net
 209.236.76.17.static.vps.net
 209.236.76.85.static.vps.net
-www.cloudkeeperfra-b.vps.net
 50.31.255.137.static.vps.net
 puppet.vps.net
 50.31.253.253.static.vps.net
@@ -822,7 +792,7 @@ weblog.vps.net
 68.169.44.42.static.vps.net
 68.169.45.149.static.vps.net
 68.169.46.151.static.vps.net
-www.aipl.vps.net
+aipl.vps.net
 50.31.253.190.static.vps.net
 50.31.252.232.static.vps.net
 50.31.255.248.static.vps.net
@@ -835,7 +805,6 @@ theinsider.vps.net
 50.31.255.127.static.vps.net
 68.169.44.215.static.vps.net
 68.169.44.218.static.vps.net
-www.cloudkeepertok-a.vps.net
 50.31.253.34.static.vps.net
 gohkdc.vps.net
 68.169.43.80.static.vps.net
@@ -875,7 +844,6 @@ subs.vps.net
 68.169.41.101.static.vps.net
 50.31.252.136.static.vps.net
 50.31.252.52.static.vps.net
-www.cloudkeeperlon-r.vps.net
 163.vps.net
 50.31.252.114.static.vps.net
 50.31.253.42.static.vps.net
@@ -917,7 +885,6 @@ cimg20.vps.net
 50.22.146.62-static.reverse.vps.net
 68.169.46.237.static.vps.net
 ssdvps-76700.vps.net
-www.ams-a-1.cloudhosting.vps.net
 68.169.40.243.static.vps.net
 arc.vps.net
 50.31.252.2.static.vps.net
@@ -943,7 +910,6 @@ itp.vps.net
 50.31.254.2.static.vps.net
 galera.vps.net
 50.31.252.85.static.vps.net
-www.cloudkeepertest-a.vps.net
 50.31.253.113.static.vps.net
 68.169.43.212.static.vps.net
 lon-k-1.cloudhosting.vps.net
@@ -999,7 +965,6 @@ ntp1.vps.net
 68.169.44.162.static.vps.net
 68.169.45.49.static.vps.net
 ssdvps-61030.vps.net
-www.mont-a-1.cloudsites.vps.net
 ang.vps.net
 wayoutwest.vps.net
 68.169.43.113.static.vps.net
@@ -1023,7 +988,6 @@ consumerelectronics.na3.vps.net
 68.169.45.20.static.vps.net
 geeksquad.vps.net
 hostmaster.vps.net
-www.ams-a-4.cloudsites.vps.net
 savannah.vps.net
 50.31.255.107.static.vps.net
 50.31.255.234.static.vps.net
@@ -1041,7 +1005,6 @@ touchuserinterface.vps.net
 50.31.252.222.static.vps.net
 68.169.40.15.static.vps.net
 68.169.41.179.static.vps.net
-www.chi-e-1.cloudsites.vps.net
 68-169-44-44.static.vps.net
 68-169-46-183.static.vps.net
 50.31.252.65.static.vps.net
@@ -1056,7 +1019,7 @@ ssdvps-97178.vps.net
 50.31.254.177.static.vps.net
 50.31.252.242.static.vps.net
 ssdvps-46960.vps.net
-www.cms.vps.net
+cms.vps.net
 francis.vps.net
 68.169.41.190.static.vps.net
 68.169.44.127.static.vps.net
@@ -1065,7 +1028,6 @@ francis.vps.net
 68-169-44-170.static.vps.net
 50.31.253.131.static.vps.net
 50.31.252.66.static.vps.net
-www.ams-a-2.cloudhosting.vps.net
 apps.vps.net
 50.31.255.223.static.vps.net
 investors.vps.net
@@ -1073,7 +1035,6 @@ investors.vps.net
 68.169.45.109.static.vps.net
 50.31.255.190.static.vps.net
 68.169.46.35.static.vps.net
-www.lon-k-1.cloudsites.vps.net
 diybbs.vps.net
 50.31.252.76.static.vps.net
 50.31.254.1.static.vps.net
@@ -1082,7 +1043,7 @@ diybbs.vps.net
 server.cloudsites.vps.net
 ssdvps-45794.vps.net
 263.vps.net
-www.redbooks.vps.net
+redbooks.vps.net
 68.169.40.171.static.vps.net
 vsbooklady.vps.net
 68-169-45-139.vps.net
@@ -1094,7 +1055,7 @@ v.news.vps.net
 209.236.76.58.static.vps.net
 50.31.252.169.static.vps.net
 50.31.255.219.static.vps.net
-www.amplify.vps.net
+amplify.vps.net
 68-169-46-26.static.vps.net
 209.236.77.45.static.vps.net
 50.31.254.89.static.vps.net
@@ -1105,8 +1066,6 @@ chani3.vps.net
 50.31.254.247.static.vps.net
 68.169.41.119.static.vps.net
 vps209414.vps.net
-www.atl-d-12.cloudsites.vps.net
-www.cloudkeeperuk2-a.vps.net
 209.236.76.188.static.vps.net
 50.31.253.183.static.vps.net
 209.236.77.60.static.vps.net
@@ -1117,7 +1076,6 @@ cloudkeeperhong-a.vps.net
 ssdvps-18463.vps.net
 50.31.255.246.static.vps.net
 68.169.44.183.static.vps.net
-www.testuber-dev.vps.net
 68-169-45-89.vps.net
 meeting.vps.net
 50.31.254.187.static.vps.net
@@ -1125,7 +1083,6 @@ meeting.vps.net
 faculty.vps.net
 mp3.vps.net
 ssdvps-33558.vps.net
-www.cloudkeeperpar-a.vps.net
 50.31.255.19.static.vps.net
 50.31.255.197.static.vps.net
 pulse.vps.net
@@ -1156,8 +1113,6 @@ ppenggd.blog.vps.net
 rus.vps.net
 ssdvps-45423.vps.net
 ssdvps-number.vps.net
-www.cloudkeeperhkg-a.vps.net
-www.cloudkeeperwdc-a.vps.net
 68-169-44-95.vps.net
 50.31.253.163.static.vps.net
 50.31.253.187.static.vps.net
@@ -1169,7 +1124,6 @@ ev.vps.net
 50.31.253.44.static.vps.net
 68.169.40.36.static.vps.net
 68.169.45.143.static.vps.net
-www.desktop.vps.net
 68-169-45-95.vps.net
 public.vps.net
 tpmdc.vps.net
@@ -1183,7 +1137,6 @@ tpmdc.vps.net
 50.31.255.60.static.vps.net
 68.169.43.47.static.vps.net
 68.169.46.172.static.vps.net
-www.atl-d-2.cloudsites.vps.net
 eo.vps.net
 libhex.svn.vps.net
 50.31.252.199.static.vps.net
@@ -1191,7 +1144,6 @@ libhex.svn.vps.net
 50.31.253.182.static.vps.net
 whats1.vps.net
 68-169-45-151.static.vps.net
-www.control.vps.net
 50.31.254.109.static.vps.net
 50.31.254.203.static.vps.net
 50.31.255.164.static.vps.net
@@ -1204,15 +1156,12 @@ liferea.vps.net
 martushevskyi.vps.net
 68.169.45.182.static.vps.net
 68.169.44.153.static.vps.net
-www.cloudkeeperslc-k.vps.net
-www.tok-a-1.cloudsites.vps.net
-www.cbs.gov.vps.net
+cbs.gov.vps.net
 groups.vps.net
 68-169-46-63.static.vps.net
 50.31.253.148.static.vps.net
 68.169.40.154.static.vps.net
 68.169.40.51.static.vps.net
-www.cloudkeeperlon-f.vps.net
 50.22.175.137-static.reverse.vps.net
 50.31.254.135.static.vps.net
 68.169.43.48.static.vps.net
@@ -1231,7 +1180,6 @@ bbs.travel.vps.net
 209.236.76.227.static.vps.net
 50.31.255.237.static.vps.net
 uk2-infra.vps.net
-www.cloudkeeperlon-k.vps.net
 feedback.vps.net
 integration.vps.net
 50.31.255.31.static.vps.net
@@ -1246,7 +1194,6 @@ us.vps.net
 ssdvps-65948.vps.net
 68.169.44.206.static.vps.net
 ssdvps-19520.vps.net
-www.cloudkeeperatl-f.vps.net
 feh.vps.net
 fss.vps.net
 reviews.vps.net
@@ -1264,7 +1211,6 @@ dvd.vps.net
 50.31.255.206.static.vps.net
 68.169.43.142.static.vps.net
 smart.vps.net
-www.cloudkeeperslc-h.vps.net
 seal.vps.net
 simile.vps.net
 50.31.253.101.static.vps.net
@@ -1316,8 +1262,6 @@ chatzilla.vps.net
 50.31.252.53.static.vps.net
 68.169.46.174.static.vps.net
 net-lon-ssd.vps.net
-www.atl-d-1.geo.vps.net
-www.cloudkeepernyc-a.vps.net
 yetanblog.blog.vps.net
 computing-dictionary.vps.net
 209.236.76.137.static.vps.net
@@ -1325,7 +1269,6 @@ computing-dictionary.vps.net
 68.169.40.2.static.vps.net
 68.169.43.231.static.vps.net
 68.169.46.211.static.vps.net
-www.cloudkeeperdal-b.vps.net
 50.31.253.214.static.vps.net
 50.31.254.182.static.vps.net
 50.31.255.141.static.vps.net
@@ -1342,7 +1285,6 @@ static-ip.vps.net
 209.236.76.15.static.vps.net
 50.31.254.238.static.vps.net
 68.169.45.189.static.vps.net
-www.cloudkeepermont-a.vps.net
 50.31.252.223.static.vps.net
 209.236.77.130.static.vps.net
 68.169.41.47.static.vps.net
@@ -1362,7 +1304,6 @@ post.news.vps.net
 olpc.download.vps.net
 50.31.252.200.static.vps.net
 68.169.40.156.static.vps.net
-www.cloudkeepervan-a.vps.net
 community.vps.net
 b371.vps.net
 50.31.254.136.static.vps.net
@@ -1389,7 +1330,6 @@ pedro.vps.net
 68.169.44.159.static.vps.net
 68.169.46.164.static.vps.net
 pt.vps.net
-www.kb.vps.net
 host.vps.net
 ranger.vps.net
 50.31.253.155.static.vps.net
@@ -1398,7 +1338,6 @@ ranger.vps.net
 cloud.powered.by.vps.net
 ntp2.vps.net
 50.31.253.55.static.vps.net
-www.cloudkeeperams-b.vps.net
 148.vps.net
 50.31.254.55.static.vps.net
 68.169.43.181.static.vps.net
@@ -1443,7 +1382,6 @@ ssdvps-56780.vps.net
 50.31.253.219.static.vps.net
 50.31.254.235.static.vps.net
 testnode1.vps.net
-www.slc-f-2.cloudsites.vps.net
 profiles.vps.net
 siteanalytics.vps.net
 50.31.252.180.static.vps.net
@@ -1453,7 +1391,7 @@ siteanalytics.vps.net
 68.169.46.224.static.vps.net
 ssdvps-52253.vps.net
 brainstormk12.vps.net
-www.europarl.vps.net
+europarl.vps.net
 50.22.186.205-static.reverse.vps.net
 50.31.254.181.static.vps.net
 50.31.253.143.static.vps.net
@@ -1477,15 +1415,13 @@ starchild.gsfc.vps.net
 68.169.46.34.static.vps.net
 survey2.vps.net
 68.169.46.54.static.vps.net
-www.multistrada.vps.net
+multistrada.vps.net
 50.31.252.133.static.vps.net
 68.169.44.144.static.vps.net
 50.31.253.192.static.vps.net
 68.169.41.65.static.vps.net
 68.169.41.70.static.vps.net
 68.169.45.186.static.vps.net
-www.atl-d-4.cloudsites.vps.net
-www.cloudkeepermia-a.vps.net
 50.31.252.234.static.vps.net
 50.31.255.64.static.vps.net
 68.169.46.210.static.vps.net
@@ -1529,7 +1465,6 @@ ssdvps-39988.vps.net
 68.169.43.188.static.vps.net
 68.169.45.201.static.vps.net
 ubuntu.vps.net
-www.cloudkeeperlon-a.vps.net
 50.31.252.226.static.vps.net
 50.31.253.126.static.vps.net
 50.31.253.61.static.vps.net
@@ -1553,9 +1488,7 @@ gl.vps.net
 68.169.43.133.static.vps.net
 68.169.45.169.static.vps.net
 68.169.45.221.static.vps.net
-www.cloudkeeperdal-c.vps.net
 50.31.253.120.static.vps.net
-www.cloudkeeperman-b.vps.net
 industry.vps.net
 50.31.255.26.static.vps.net
 jackzhudaming.blog.vps.net
@@ -1582,7 +1515,6 @@ tmp.vps.net
 68.169.41.201.static.vps.net
 68-169-45-135.static.vps.net
 68.169.43.68.static.vps.net
-www.cloudkeeperslc-a.vps.net
 50.31.254.7.static.vps.net
 50.31.254.82.static.vps.net
 50.31.253.166.static.vps.net
@@ -1638,15 +1570,12 @@ ssdvps-55254.vps.net
 50.31.252.158.static.vps.net
 68.169.41.27.static.vps.net
 templates.vps.net
-www.thg-priv-cp.vps.net
 atl-d-6.cloudhosting.vps.net
 50.22.175.142-static.reverse.vps.net
 50.31.255.24.static.vps.net
 50.31.255.74.static.vps.net
 68.169.40.221.static.vps.net
-www.api.vps.net
 soutenir.vps.net
-www.manage.vps.net
 50.31.253.6.static.vps.net
 50.31.255.255.static.vps.net
 68.169.46.212.static.vps.net
@@ -1665,7 +1594,6 @@ cbachina.vps.net
 finapps.vps.net
 50.31.253.156.static.vps.net
 68.169.44.3.static.vps.net
-www.cloudkeeperfra-a.vps.net
 lielft.vps.net
 68-169-43-195.static.vps.net
 68.169.40.16.static.vps.net
@@ -1675,14 +1603,12 @@ lielft.vps.net
 50.31.252.15.static.vps.net
 50.31.253.31.static.vps.net
 ssdvps-49452.vps.net
-www.atl-d-5.cloudsites.vps.net
 w1.vps.net
 wireless.vps.net
 50.31.254.128.static.vps.net
 68.169.41.209.static.vps.net
 68.169.44.98.static.vps.net
 68.169.46.80.static.vps.net
-www.slc-f-1.cloudsites.vps.net
 io.vps.net
 50.31.254.145.static.vps.net
 50.31.252.212.static.vps.net
@@ -1712,7 +1638,7 @@ extensions.vps.net
 68.169.46.217.static.vps.net
 68.169.46.234.static.vps.net
 yevhen-docker.vps.net
-www.net.vps.net
+net.vps.net
 50.31.252.195.static.vps.net
 50.31.254.4.static.vps.net
 chuyunworkroom.blog.vps.net
@@ -1791,7 +1717,6 @@ dontclickthis.vps.net
 50.31.253.179.static.vps.net
 68.169.43.208.static.vps.net
 68.169.41.37.static.vps.net
-www.chi-f-1.cloudsites.vps.net
 68-169-46-118.static.vps.net
 50.22.186.192-static.reverse.vps.net
 50.31.252.40.static.vps.net
@@ -1815,7 +1740,7 @@ sr.vps.net
 68.169.40.198.static.vps.net
 zh.vps.net
 68.169.40.169.static.vps.net
-www.nc.vps.net
+nc.vps.net
 50.31.253.141.static.vps.net
 50.31.255.228.static.vps.net
 68.169.43.57.static.vps.net
@@ -1833,14 +1758,11 @@ cgi.vps.net
 68.169.44.25.static.vps.net
 net-atl.vps.net
 net-fra.vps.net
-www.cloudkeeperuk2-b.vps.net
 50.31.252.178.static.vps.net
 50.31.254.26.static.vps.net
-www.edu.vps.net
 68.169.43.162.static.vps.net
 host-.static.vps.net
 ssdvps-81658.vps.net
-www.staffwiki.vps.net
 corporate.vps.net
 dnereverri.vps.net
 50.31.253.21.static.vps.net
@@ -1856,7 +1778,6 @@ blog.wysota.vps.net
 209.236.76.3.static.vps.net
 68.169.40.135.static.vps.net
 68.169.45.251.static.vps.net
-www.cloudkeeperchi-a.vps.net
 50.31.252.6.static.vps.net
 68.169.41.79.static.vps.net
 68.169.41.87.static.vps.net
@@ -1890,7 +1811,6 @@ love.vps.net
 68.169.40.172.static.vps.net
 68.169.43.176.static.vps.net
 68.169.44.182.static.vps.net
-www.fra-a-1.cloudsites.vps.net
 50.31.253.215.static.vps.net
 50.31.254.228.static.vps.net
 68.169.41.84.static.vps.net
@@ -1901,7 +1821,6 @@ code.vps.net
 50.31.254.197.static.vps.net
 68.169.40.174.static.vps.net
 ssdvps-10650.vps.net
-www.cloudkeeperslc-g.vps.net
 209.236.76.160.static.vps.net
 68.169.43.148.static.vps.net
 68.169.45.151.static.vps.net
@@ -1920,14 +1839,13 @@ ram.vps.net
 68.169.43.172.static.vps.net
 68.169.44.201.static.vps.net
 68.169.45.156.static.vps.net
-www.cloudkeeperlon-i.vps.net
 campaign.vps.net
-www.office.vps.net
+office.vps.net
 50.31.255.199.static.vps.net
 68.169.43.11.static.vps.net
 68.169.41.253.static.vps.net
 68.169.46.75.static.vps.net
-www.sidney.ars.vps.net
+sidney.ars.vps.net
 50.31.252.197.static.vps.net
 50.31.253.165.static.vps.net
 50.31.255.122.static.vps.net
@@ -1938,12 +1856,10 @@ ssdvps-21355.vps.net
 50.31.253.53.static.vps.net
 colo13-gw687.vps.net
 miruku.vps.net
-www.cloudkeeperchi-f.vps.net
 68-169-45-185.static.vps.net
 50.31.254.231.static.vps.net
 68.169.43.60.static.vps.net
 68.169.44.110.static.vps.net
-www.cloudkeeperlon-b.vps.net
 209.236.76.90.static.vps.net
 50.31.253.238.static.vps.net
 50.31.253.69.static.vps.net
@@ -1969,13 +1885,11 @@ ssdvps-79122.vps.net
 50.22.186.211-static.reverse.vps.net
 microsites.vps.net
 68-169-43-113.static.vps.net
-www.whmcsdemo.vps.net
 wiki.developer.vps.net
 50.31.255.1.static.vps.net
 68.169.43.191.static.vps.net
 68.169.44.216.static.vps.net
 colo13.vps.net
-www.test-b-cp.vps.net
 68-169-45-159.vps.net
 50.31.253.145.static.vps.net
 history.news.vps.net
@@ -1989,11 +1903,9 @@ cosmetic.lady.vps.net
 50.31.255.51.static.vps.net
 50.31.255.73.static.vps.net
 68.169.44.200.static.vps.net
-www.atl-d-6.cloudsites.vps.net
 projects.vps.net
 50.31.252.160.static.vps.net
 50.31.255.139.static.vps.net
-www.slc-f-3.cloudsites.vps.net
 chkpt.vps.net
 50.31.253.70.static.vps.net
 68.169.45.25.static.vps.net
@@ -2005,8 +1917,6 @@ safesurf.vps.net
 68.169.44.112.static.vps.net
 68.169.45.135.static.vps.net
 ssdvps-45490.vps.net
-www.atl-d-11.cloudsites.vps.net
-www.cloudkeeperams-a.vps.net
 68-169-45-124.static.vps.net
 68.169.44.107.static.vps.net
 68.169.45.123.static.vps.net
@@ -2093,7 +2003,6 @@ guides.vps.net
 50.31.253.66.static.vps.net
 68.169.40.204.static.vps.net
 pro3.vps.net
-www.atl-d-10.cloudsites.vps.net
 209.236.76.42.static.vps.net
 50.31.252.105.static.vps.net
 af.vps.net
@@ -2133,14 +2042,13 @@ master.vps.net
 68.169.43.209.static.vps.net
 50.31.252.140.static.vps.net
 209.236.77.191.static.vps.net
-www.cloudkeeperatl-a.vps.net
 newsletters.vps.net
 rover.vps.net
 tlc.vps.net
 50.31.253.228.static.vps.net
 ssdvps-22916.vps.net
 50.31.254.179.static.vps.net
-www.soumu.vps.net
+soumu.vps.net
 46.23.72.141.uk2.vps.net
 50.31.253.186.static.vps.net
 68.169.41.51.static.vps.net
@@ -2157,7 +2065,6 @@ carlo.vps.net
 50.31.252.216.static.vps.net
 conferences.vps.net
 ns2.carter-dev.vps.net
-www.atl-d-7.cloudhosting.vps.net
 50.31.255.183.static.vps.net
 colo13-network.vps.net
 jira.vps.net
@@ -2179,8 +2086,6 @@ about.vps.net
 209.236.76.162.static.vps.net
 50.31.252.246.static.vps.net
 68.169.40.78.static.vps.net
-www.atl-d-3.cloudsites.vps.net
-www.cloudkeeperlon-q.vps.net
 avogadro.vps.net
 50.31.255.175.static.vps.net
 50.31.255.28.static.vps.net
@@ -2206,7 +2111,7 @@ newswm.vps.net
 68.169.44.102.static.vps.net
 ssdvps-37582.vps.net
 download_market.vps.net
-www.rkblog.vps.net
+rkblog.vps.net
 50.31.253.171.static.vps.net
 68.169.40.18.static.vps.net
 209.236.76.0.static.vps.net
@@ -2252,7 +2157,6 @@ verisignevents.vps.net
 68.169.43.228.static.vps.net
 68.169.46.184.static.vps.net
 68.169.41.178.static.vps.net
-www.thg-chl-cp.vps.net
 209.236.76.12.static.vps.net
 68.169.40.125.static.vps.net
 50.31.252.228.static.vps.net
@@ -2265,17 +2169,16 @@ ssdvps-47492.vps.net
 68.169.44.122.static.vps.net
 reverse.vps.net
 encyclopedia.vps.net
-www.physics.vps.net
+physics.vps.net
 ta.vps.net
 50.31.255.2.static.vps.net
 68.169.40.232.static.vps.net
 info.vps.net
-www.nws.vps.net
+nws.vps.net
 50.31.253.212.static.vps.net
 50.31.254.237.static.vps.net
-www.future.vps.net
+future.vps.net
 68.169.45.50.static.vps.net
-www.console.vps.net
 bbs.gz.house.vps.net
 pam.vps.net
 50.31.255.140.static.vps.net
@@ -2327,7 +2230,6 @@ ssdvps-98489.vps.net
 50.31.255.233.static.vps.net
 dnsstaging.vps.net
 servarica2.vps.net
-www.atl-d-9.cloudsites.vps.net
 comedy.vps.net
 50.31.252.171.static.vps.net
 50.31.255.244.static.vps.net
@@ -2345,8 +2247,6 @@ pressblue.vps.net
 50.31.253.77.static.vps.net
 68.169.41.173.static.vps.net
 68.169.45.7.static.vps.net
-www.cloudkeeperfra-c.vps.net
-www.lon-k-2.cloudsites.vps.net
 auto.vps.net
 egsc.vps.net
 iam.vps.net
@@ -2367,14 +2267,12 @@ gw64-fastest.vps.net
 209.236.76.75.static.vps.net
 50.31.255.135.static.vps.net
 50.31.253.154.static.vps.net
-www.cloudkeeperphx-a.vps.net
 catalog.vps.net
 50.31.252.247.static.vps.net
 50.31.253.112.static.vps.net
 68.169.40.199.static.vps.net
 68.169.41.48.static.vps.net
 68.169.43.59.static.vps.net
-www.cloudkeepertor-a.vps.net
 meta.vps.net
 unterm.vps.net
 50.31.252.142.static.vps.net
@@ -2395,7 +2293,6 @@ abcnews.vps.net
 68.169.44.123.static.vps.net
 68.169.44.97.static.vps.net
 68.169.45.62.static.vps.net
-www.cloudkeepersyd-a.vps.net
 fboudra.vps.net
 209.236.76.167.static.vps.net
 68.169.44.136.static.vps.net
@@ -2413,7 +2310,7 @@ cm.vps.net
 68.169.43.238.static.vps.net
 68.169.45.106.static.vps.net
 68.169.45.219.static.vps.net
-www.jp.vps.net
+jp.vps.net
 ma.vps.net
 50.31.252.35.static.vps.net
 68.169.43.150.static.vps.net
@@ -2423,7 +2320,6 @@ ma.vps.net
 68.169.40.229.static.vps.net
 68.169.41.165.static.vps.net
 test1.vps.net
-www.cloudkeeperndel-a.vps.net
 release.vps.net
 50.31.255.201.static.vps.net
 68.169.40.252.static.vps.net
@@ -2438,11 +2334,11 @@ uk2.vps.net
 209.236.76.56.static.vps.net
 50.22.175.146-static.reverse.vps.net
 gnomefreak-76.vps.net
-www.vet.vps.net
+vet.vps.net
 50.31.253.67.static.vps.net
 68.169.40.231.static.vps.net
 68.169.41.73.static.vps.net
-www.nhlbi.vps.net
+nhlbi.vps.net
 50.22.146.63-static.reverse.vps.net
 50.31.253.125.static.vps.net
 68.169.44.191.static.vps.net
@@ -2455,11 +2351,10 @@ la.vps.net
 dictionnaire.vps.net
 68.169.45.218.static.vps.net
 tyrannio.vps.net
-www.homepages.ucl.vps.net
+homepages.ucl.vps.net
 50.31.253.153.static.vps.net
 satus.vps.net
 68.169.46.133.static.vps.net
-www.elk.vps.net
 50.31.255.52.static.vps.net
 68.169.43.226.static.vps.net
 209.236.76.139.static.vps.net
@@ -2481,13 +2376,11 @@ daim.project.vps.net
 68.169.43.160.static.vps.net
 68.169.44.36.static.vps.net
 68.169.45.96.static.vps.net
-www.cloudkeeperchi-g.vps.net
 gz.house.vps.net
 206.217.193.183.static.vps.net
 209.236.76.131.static.vps.net
 209.236.76.237.static.vps.net
 68-169-44-60.static.vps.net
-dev.vps.net
 68.169.44.137.static.vps.net
 50.31.254.28.static.vps.net
 50.31.254.32.static.vps.net
@@ -2498,7 +2391,7 @@ dev.vps.net
 68.169.44.240.static.vps.net
 chicago.vps.net
 popwatch.vps.net
-www.presidencia.vps.net
+presidencia.vps.net
 profile.vps.net
 careers.vps.net
 gdata.vps.net
@@ -2506,7 +2399,6 @@ gdata.vps.net
 50.31.253.107.static.vps.net
 50.31.253.8.static.vps.net
 50.31.255.11.static.vps.net
-www.cloudkeeperlon-e.vps.net
 ps2.vps.net
 209.236.77.95.static.vps.net
 50.31.252.124.static.vps.net
@@ -2524,12 +2416,11 @@ jiangfengxhq.blog.vps.net
 stus.vps.net
 xy2.vps.net
 68.169.45.222.static.vps.net
-www.jerseyseafood.vps.net
+jerseyseafood.vps.net
 50.31.253.10.static.vps.net
 50.31.255.34.static.vps.net
 50.31.255.6.static.vps.net
 50.31.255.79.static.vps.net
-www.cloudkeepernyc-c.vps.net
 50.31.252.10.static.vps.net
 50.31.255.162.static.vps.net
 50.31.255.17.static.vps.net
@@ -2571,11 +2462,9 @@ search.vps.net
 68.169.45.249.static.vps.net
 ncf.vps.net
 webserver.vps.net
-www.fw1.ams1.vps.net
 reg.email.vps.net
 50.31.253.13.static.vps.net
 50.31.253.85.static.vps.net
-www.cloudkeeperman-a.vps.net
 68.169.40.139.static.vps.net
 50.31.255.161.static.vps.net
 50.31.252.131.static.vps.net
@@ -2587,7 +2476,7 @@ www.cloudkeeperman-a.vps.net
 hy.vps.net
 cloudsites.vps.net
 60minutes.vps.net
-www.ars.vps.net
+ars.vps.net
 68.169.41.5.static.vps.net
 68.169.45.76.static.vps.net
 209.236.76.21.static.vps.net
@@ -2602,7 +2491,6 @@ singapore.cdn.vps.net
 68-169-44-128.vps.net
 68.169.41.24.static.vps.net
 50.31.253.181.static.vps.net
-www.atl-d-8.cloudsites.vps.net
 cds.vps.net
 50.31.254.153.static.vps.net
 68.169.46.137.static.vps.net
@@ -2617,14 +2505,12 @@ host-68-169-189-89.tic.vps.net
 68.169.43.165.static.vps.net
 50.31.254.122.static.vps.net
 68.169.45.71.static.vps.net
-www.atl-d-7.cloudsites.vps.net
-www.cloudkeeperlon-m.vps.net
 50.31.252.190.static.vps.net
 50.31.253.217.static.vps.net
 68.169.43.241.static.vps.net
 68.169.46.199.static.vps.net
 ssdvps-53071.vps.net
-www.chiark.vps.net
+chiark.vps.net
 209.236.76.115.static.vps.net
 50.31.254.167.static.vps.net
 209.236.76.125.static.vps.net
@@ -2654,7 +2540,6 @@ tormu.vps.net
 209.236.77.4.static.vps.net
 68.169.44.88.static.vps.net
 ssdvps-29759.vps.net
-www.cloudkeeperlon-p.vps.net
 68.169.45.39.static.vps.net
 68-169-43-54.static.vps.net
 209.236.77.166.static.vps.net
@@ -2687,7 +2572,6 @@ ssdvps-10457.vps.net
 articles.vps.net
 paleobiology.vps.net
 50.31.252.13.static.vps.net
-www.err.vps.net
 68-169-45-248.static.vps.net
 50.31.252.141.static.vps.net
 50.31.255.253.static.vps.net
@@ -2709,7 +2593,6 @@ cableproducts.vps.net
 68.169.45.138.static.vps.net
 68.169.45.36.static.vps.net
 ssdvps-26272.vps.net
-www.cloudkeeperatl-d.vps.net
 rssfeeds.vps.net
 68.169.40.146.static.vps.net
 68.169.43.164.static.vps.net
@@ -2724,11 +2607,9 @@ node1.vps.net
 209.236.76.178.static.vps.net
 50.31.254.195.static.vps.net
 50.31.254.71.static.vps.net
-www.zabbix.vps.net
 docs.vps.net
 209.236.76.236.static.vps.net
 50.31.253.108.static.vps.net
-www.ams-a-3.cloudsites.vps.net
 ditu.vps.net
 webapps.vps.net
 50.31.252.33.static.vps.net
@@ -2737,7 +2618,6 @@ webapps.vps.net
 50.31.255.247.static.vps.net
 68.169.41.12.static.vps.net
 68.169.46.65.static.vps.net
-www.cloudkeeperslc-f.vps.net
 68-169-44-209.static.vps.net
 50.31.253.86.static.vps.net
 50.31.255.147.static.vps.net
@@ -2778,10 +2658,8 @@ partner.vps.net
 68.169.43.65.static.vps.net
 50.31.254.66.static.vps.net
 50.31.255.40.static.vps.net
-www.cloudkeepergua-a.vps.net
 el.vps.net
 68.169.43.242.static.vps.net
-www.cloudkeeperatl-g.vps.net
 68.169.41.81.static.vps.net
 68.169.45.128.static.vps.net
 68-169-46-28.static.vps.net
@@ -2795,9 +2673,7 @@ s1.vps.net
 quest.arc.vps.net
 mgs-mager.gsfc.vps.net
 68-169-43-114.static.vps.net
-www.cloudkeeperdal-a.vps.net
 68-169-45-137.vps.net
-www.cloudkeeperlon-l.vps.net
 publib.boulder.vps.net
 50.31.255.63.static.vps.net
 50.31.255.9.static.vps.net
@@ -2819,7 +2695,6 @@ down1.tech.vps.net
 derek.vps.net
 ispmgr.vps.net
 ssdvps-99204.vps.net
-www.control.uat.vps.net
 50.31.253.47.static.vps.net
 feeds.vps.net
 50.31.254.61.static.vps.net
@@ -2829,6 +2704,4 @@ net-tok.vps.net
 work.nicks.vps.net
 net-wdc1.vps.net
 vpsbraprx4.vps.net
-www.cloudkeepersin-b.vps.net
-www.blog.vps.net
 net-syd.vps.net

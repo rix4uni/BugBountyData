@@ -46,8 +46,6 @@ prometheus.gaest.com
 admin-staging.gaest.com
 invoices.gaest.com
 metabase-kubernetes.gaest.com
-www.gaest.com
 staging.gaest.com
 stargate.gaest.com
 traefik.gaest.com
-*.gaest.com

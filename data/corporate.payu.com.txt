@@ -1,4 +1,3 @@
-www.corporate.payu.com
 registration.snd.0-6s-pet212689.artifactory.corporate.payu.com
 0-mta-4-147vod-homeautoconfig.0-6s-pet2-4email-dev.artifactory.corporate.payu.com
 0-6s-pet2-4authorizationprod133-blending-mta-u.artifactory.corporate.payu.com
@@ -481,7 +480,7 @@ proxy-a0-video.afm.corporate.payu.com
 0-6s-pet2-0-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
 0-6s-pet2-093-4kubernetes01.artifactory.corporate.payu.com
 csg-1-elasticbeanstalk.afm.corporate.payu.com
-www.blog.0-6s-pet2-0-mta-4.artifactory.corporate.payu.com
+blog.0-6s-pet2-0-mta-4.artifactory.corporate.payu.com
 csg-fin-0099.paymentcsg-1.afm.corporate.payu.com
 0-6s-pet2133-tempo-uso-staging0p11a0000006yznca2.artifactory.corporate.payu.com
 0-6s-pet2-4getter-rp2repository.artifactory.corporate.payu.com
@@ -566,7 +565,7 @@ snd.0-6s-pet2-00d20000000cplzea44elastic.artifactory.corporate.payu.com
 repo-csg-1.afm.corporate.payu.com
 0-6s-pet24-mta-4-00d300000000l4keae.artifactory.corporate.payu.com
 0-0-6s-pet24ext-secure-00d300000000l4keae.artifactory.corporate.payu.com
-www.en.ar.corporate.payu.com
+en.ar.corporate.payu.com
 twyla-1-v3.afm.corporate.payu.com
 snd.0-6s-pet2-4mtp.artifactory.corporate.payu.com
 219wx3mpv4.0-mta-4.0-6s-pet2-1827.artifactory.corporate.payu.com
@@ -619,7 +618,7 @@ a0-videoedge.afm.corporate.payu.com
 0-6s-pet24assetsrp-4checkout.artifactory.corporate.payu.com
 0-6s-pet2-4mobilesandbox-0-account-00d300000000l4keae.artifactory.corporate.payu.com
 0-6s-pet2-4market-00d300000000l4keae.artifactory.corporate.payu.com
-www.mail.mail.0-6s-pet2-4fp.artifactory.corporate.payu.com
+mail.mail.0-6s-pet2-4fp.artifactory.corporate.payu.com
 0-1-multimedia-00d300000000l4keae.artifactory.corporate.payu.com
 dev.0-6s-pet2-4mobilesandbox.artifactory.corporate.payu.com
 0-4ipspcorporate-00d300000000l4keae.artifactory.corporate.payu.com
@@ -772,7 +771,7 @@ csg-fin-0099.csg-1smtp05.afm.corporate.payu.com
 0-4nodepromo-assets-00d300000000l4keae.artifactory.corporate.payu.com
 3all16.0-6s-pet2.artifactory.corporate.payu.com
 csg-fin-0099.applicationscsg-1.afm.corporate.payu.com
-www.0-6s-pet2-4old.artifactory.corporate.payu.com
+0-6s-pet2-4old.artifactory.corporate.payu.com
 0-4checkoutrp-00d300000000l4keae.artifactory.corporate.payu.com
 0-6s-pet24api-sandbox.artifactory.corporate.payu.com
 marketplace.ru.0-6s-pet24artifactory-mtp4info.artifactory.corporate.payu.com
@@ -1002,7 +1001,7 @@ partners-a0-video.afm.corporate.payu.com
 0-6s-pet2-4old-158-58629079.artifactory.corporate.payu.com
 ssl.csg-fin-0099.csg-1.afm.corporate.payu.com
 registration.snd.0-6s-pet2-mx-4elastic.artifactory.corporate.payu.com
-www.crm.0-6s-pet2-4dashboard.artifactory.corporate.payu.com
+crm.0-6s-pet2-4dashboard.artifactory.corporate.payu.com
 box.0-6s-pet2-4fp.artifactory.corporate.payu.com
 registration.snd.0-6s-pet24email-dev4elastic.artifactory.corporate.payu.com
 0-mta-40p11a0000006yznca2.0-6s-pet2-4marketingsnd.artifactory.corporate.payu.com
@@ -1119,7 +1118,7 @@ fvb2qi6lowokqq7x.0-6s-pet24elastic.artifactory.corporate.payu.com
 2repository.0-6s-pet24info.artifactory.corporate.payu.com
 snd.0-6s-pet2-4gh4elastic.artifactory.corporate.payu.com
 customer.a0-video.afm.corporate.payu.com
-www.business.0-6s-pet24apps-credit.artifactory.corporate.payu.com
+business.0-6s-pet24apps-credit.artifactory.corporate.payu.com
 promocje.0-6s-pet24assetsrp.artifactory.corporate.payu.com
 2repository.0-6s-pet22stage.artifactory.corporate.payu.com
 0-12file-00d300000000l4keae.artifactory.corporate.payu.com
@@ -1284,7 +1283,7 @@ a0-videoorg.afm.corporate.payu.com
 030ff34a75dd.0-6s-pet2-133-blending-part-u0-mta-4.artifactory.corporate.payu.com
 030ff34a75dd.snd.0-6s-pet24frontpagesnd4elastic.artifactory.corporate.payu.com
 4oneit-mx.0-mta-4.0-6s-pet2-4authorizationprod.artifactory.corporate.payu.com
-www.moodle.0-6s-pet24authorizationcreatucuenta.artifactory.corporate.payu.com
+moodle.0-6s-pet24authorizationcreatucuenta.artifactory.corporate.payu.com
 0-6s-pet2-4fp-0-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
 ftp.0-6s-pet24assetsrp.artifactory.corporate.payu.com
 0-4authorization-chile-00d300000000l4keae.artifactory.corporate.payu.com
@@ -1295,7 +1294,6 @@ testing-a0-video.afm.corporate.payu.com
 promocje.0-6s-pet2-4lyncdiscover4analytics.artifactory.corporate.payu.com
 marketplace.ru.0-6s-pet24-queens-numeric-4info.artifactory.corporate.payu.com
 0-6s-pet24info0-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
-www.0-6s-pet2.artifactory.corporate.payu.com
 d304f9bda680.snd.0-6s-pet21rer4elastic.artifactory.corporate.payu.com
 0-mta-406-concat.0-6s-pet22stage.artifactory.corporate.payu.com
 0-6s-pet2131-mobilesdksnd.artifactory.corporate.payu.com
@@ -1359,7 +1357,7 @@ uploadtwyla-1.afm.corporate.payu.com
 0-0-mta-4-mobilesdk-00d300000000l4keae.artifactory.corporate.payu.com
 twyla-1cms.afm.corporate.payu.com
 4auth2snd.0-6s-pet2-4argentina-rp.artifactory.corporate.payu.com
-www.site.0-6s-pet2-4kubeapi.artifactory.corporate.payu.com
+site.0-6s-pet2-4kubeapi.artifactory.corporate.payu.com
 pdss01-productions.afm.corporate.payu.com
 0-6s-pet2-11350-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
 0-0-mta-4-0p128000000mujacas-00d300000000l4keae.artifactory.corporate.payu.com
@@ -1468,7 +1466,7 @@ file.0-mta-4.0-6s-pet21380.artifactory.corporate.payu.com
 0-6s-pet2-4old0-mta-406-concat.artifactory.corporate.payu.com
 2repository.0-6s-pet2-tempo-uso-u.artifactory.corporate.payu.com
 133-blending-mta-u.0-6s-pet2-4devrporate.artifactory.corporate.payu.com
-www.en.0-6s-pet24hec.artifactory.corporate.payu.com
+en.0-6s-pet24hec.artifactory.corporate.payu.com
 snd.4elastic.0-6s-pet24devrporate.artifactory.corporate.payu.com
 panama.a0-video.afm.corporate.payu.com
 0-6s-pet2-4marketingsnd0-mta-4-4checkout.artifactory.corporate.payu.com
@@ -2034,7 +2032,7 @@ docs-csg-fin-0099.csg-1.afm.corporate.payu.com
 0-6s-pet2-00d300000000l4keae.artifactory.corporate.payu.com
 0-mta-406-concat.0-6s-pet2-3all16.artifactory.corporate.payu.com
 twyla-1test.0-6s-pet2-4authorizationprod.artifactory.corporate.payu.com
-www.staging2.0-6s-pet2-0-mta-4.artifactory.corporate.payu.com
+staging2.0-6s-pet2-0-mta-4.artifactory.corporate.payu.com
 0-6s-pet21380-158-58629079.artifactory.corporate.payu.com
 0-mta-406-concat.0-6s-pet2-4mobilesandbox.artifactory.corporate.payu.com
 a0-video-mirror.afm.corporate.payu.com
@@ -2054,7 +2052,7 @@ a0-video-sandbox.0-mta-4.0-6s-pet2-4documentation.artifactory.corporate.payu.com
 promocje.0-6s-pet2-4dev.artifactory.corporate.payu.com
 0-mta-406-concat.0-6s-pet200d1u000000xs8kuaq.artifactory.corporate.payu.com
 pdss01-kubectl.afm.corporate.payu.com
-www.america.corporate.payu.com
+america.corporate.payu.com
 a4iwjku3d4-credit.corporate.payu.com
 0-6s-pet2-4get0-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
 0-mta-4.0-6s-pet2.artifactory.corporate.payu.com
@@ -2222,7 +2220,7 @@ file.0-6s-pet2-mx0-mta-4.artifactory.corporate.payu.com
 0-6s-pet24azure-4auth2snd.artifactory.corporate.payu.com
 0-4live-test-00d300000000l4keae.artifactory.corporate.payu.com
 csg-fin-0099.csg-1europe.afm.corporate.payu.com
-www.dev.0-6s-pet2-4azure.artifactory.corporate.payu.com
+dev.0-6s-pet2-4azure.artifactory.corporate.payu.com
 24721.0-6s-pet23portal-invoices.artifactory.corporate.payu.com
 snd.0-6s-pet24frontpagesnd-4elastic.artifactory.corporate.payu.com
 0-6s-pet200d20000000cplzea4-2repository.artifactory.corporate.payu.com
@@ -2310,7 +2308,6 @@ twyla-1test.0-6s-pet24email-dev.artifactory.corporate.payu.com
 history.pdss01.afm.corporate.payu.com
 snd.0-6s-pet200d20000000cplzea4-4elastic.artifactory.corporate.payu.com
 0-6s-pet2-dev0-mta-4.artifactory.corporate.payu.com
-en.ar.corporate.payu.com
 0-0-account2stage-00d300000000l4keae.artifactory.corporate.payu.com
 snd.0-6s-pet2-prod-4elastic.artifactory.corporate.payu.com
 0-6s-pet2-04040-mta-4-4management-corporate.artifactory.corporate.payu.com
@@ -2522,7 +2519,7 @@ csg-fin-0099-pdss01.afm.corporate.payu.com
 0-6s-pet24assetsrpappdyna.artifactory.corporate.payu.com
 8f0009c3ebaa.0-6s-pet2-4lyncdiscover-0-mta-4.artifactory.corporate.payu.com
 0-6s-pet2126890-mta-4.artifactory.corporate.payu.com
-www.adelantatusventas.corporate.payu.com
+adelantatusventas.corporate.payu.com
 registration.snd.4elastic.0-6s-pet24assetsrp.artifactory.corporate.payu.com
 0-6s-pet24hec.artifactory.corporate.payu.com
 4kubeinvoices.0-6s-pet22stage0-mta-4.artifactory.corporate.payu.com
@@ -2709,7 +2706,6 @@ appdyna.0-6s-pet2.artifactory.corporate.payu.com
 0-6s-pet23all162live-test.artifactory.corporate.payu.com
 test.0-6s-pet23portal-invoices.artifactory.corporate.payu.com
 0-6s-pet209slackbot-4elastic.artifactory.corporate.payu.com
-www.dev.0-6s-pet2-4mobilesandbox.artifactory.corporate.payu.com
 dev.0-6s-pet2-4info.artifactory.corporate.payu.com
 4artifactory-mtp.0-6s-pet2.artifactory.corporate.payu.com
 git.afm.corporate.payu.com
@@ -2747,7 +2743,6 @@ ead.0-6s-pet24alphasandbox.artifactory.corporate.payu.com
 0-6s-pet21049-0-mta-4.artifactory.corporate.payu.com
 registration.snd.4elastic.0-6s-pet24devrporate.artifactory.corporate.payu.com
 0-6s-pet21268906-concat.artifactory.corporate.payu.com
-0-6s-pet2-4old.artifactory.corporate.payu.com
 beta.afm.corporate.payu.com
 a0-video-forfiter.afm.corporate.payu.com
 publish.0-6s-pet2-4fp.artifactory.corporate.payu.com
@@ -2858,7 +2853,7 @@ us3.0-6s-pet24appsrepository.artifactory.corporate.payu.com
 0-6s-pet2-110-214-multimedia-0-mta-4-0p11t000003erjycag.artifactory.corporate.payu.com
 8f0009c3ebaa.0-mta-4.0-6s-pet210-xbps.artifactory.corporate.payu.com
 0-6s-pet2-4business0-mta-4.artifactory.corporate.payu.com
-www.site.0-6s-pet2-0-mta-4.artifactory.corporate.payu.com
+site.0-6s-pet2-0-mta-4.artifactory.corporate.payu.com
 0-mta-406-concat.0-6s-pet2-4lyncdiscover.artifactory.corporate.payu.com
 0-0-mta-4-46bf5853-00d300000000l4keae.artifactory.corporate.payu.com
 0-6s-pet2-snd0-mta-4.artifactory.corporate.payu.com
@@ -2981,7 +2976,7 @@ productions.afm.corporate.payu.com
 0-6s-pet200d20000000cplzea4-4elastic.artifactory.corporate.payu.com
 0-6s-pet24asana-0-mta-406-concat.artifactory.corporate.payu.com
 0-0-mta-4165-merch-1-00d300000000l4keae.artifactory.corporate.payu.com
-www.stage.0-6s-pet2-4kubeapi.artifactory.corporate.payu.com
+stage.0-6s-pet2-4kubeapi.artifactory.corporate.payu.com
 a0-video-sandbox.0-6s-pet2-3-0-mta-4.artifactory.corporate.payu.com
 0-6s-pet24devrporate-0-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
 0-0-mta-4-staff-00d300000000l4keae.artifactory.corporate.payu.com
@@ -3617,7 +3612,6 @@ invoices-canon-1.afm.corporate.payu.com
 0-mta-4.0-6s-pet2-4dashboard.artifactory.corporate.payu.com
 file.0-6s-pet24kubeapi.artifactory.corporate.payu.com
 westeurope.cloudapp.0-6s-pet2-4email-dev.artifactory.corporate.payu.com
-adelantatusventas.corporate.payu.com
 0-6s-pet2-4gh-4kubernetes01.artifactory.corporate.payu.com
 snd.0-6s-pet2-1rer.artifactory.corporate.payu.com
 staging.us-w.0-6s-pet2-4mobilesandbox.artifactory.corporate.payu.com
@@ -3815,7 +3809,6 @@ turkey.afm.corporate.payu.com
 0-6s-pet2-0082-tempo-mta-staging.artifactory.corporate.payu.com
 apache.afm.corporate.payu.com
 0-account-00d300000000l4keae.0-6s-pet210-xbps.artifactory.corporate.payu.com
-www.0-6s-pet2-4documentation.artifactory.corporate.payu.com
 8f0009c3ebaa.0-6s-pet2-4asana-0-mta-4.artifactory.corporate.payu.com
 promocje.4analytics.0-6s-pet2-00d1u000000xs8kuaq.artifactory.corporate.payu.com
 0-mta-4-0p11o000000pcgsca2.0-6s-pet2-4email-dev.artifactory.corporate.payu.com
@@ -3870,7 +3863,7 @@ a0-video-sandbox.0-6s-pet24appsrepository0-mta-4.artifactory.corporate.payu.com
 0-0-mta-4-07-php-00d300000000l4keae.artifactory.corporate.payu.com
 8f0009c3ebaa.ru.4info.0-6s-pet22stage.artifactory.corporate.payu.com
 0-6s-pet2-4business0p11a0000006yznca2.artifactory.corporate.payu.com
-www.store.0-6s-pet2-4fp.artifactory.corporate.payu.com
+store.0-6s-pet2-4fp.artifactory.corporate.payu.com
 c3.0-6s-pet2-4mobilesandbox.artifactory.corporate.payu.com
 promocje.0-6s-pet2180-126ulwximedia-4analytics.artifactory.corporate.payu.com
 8f0009c3ebaa.4elastic.0-6s-pet24client.artifactory.corporate.payu.com
@@ -3989,7 +3982,6 @@ confluencetwyla-1.afm.corporate.payu.com
 4applications.0-6s-pet2-133-tempo-uso-staging.artifactory.corporate.payu.com
 133-blending-mta-u.0-6s-pet24email-dev.artifactory.corporate.payu.com
 pdss01private.afm.corporate.payu.com
-www.argentina.corporate.payu.com
 4elastic.0-6s-pet2-creatucuenta.artifactory.corporate.payu.com
 a0-videoproductcatalog-dev.afm.corporate.payu.com
 registration.snd.0-6s-pet2-dev4elastic.artifactory.corporate.payu.com
@@ -4033,7 +4025,7 @@ pdss01aws.afm.corporate.payu.com
 4oneit-mx.0-6s-pet2-dev.artifactory.corporate.payu.com
 get.a0-video.afm.corporate.payu.com
 c7ddea6ef713.0-6s-pet2-4elastic.artifactory.corporate.payu.com
-www.business.4apps-credit.0-6s-pet2.artifactory.corporate.payu.com
+business.4apps-credit.0-6s-pet2.artifactory.corporate.payu.com
 promocje.4analytics.0-6s-pet2.artifactory.corporate.payu.com
 0-6s-pet24ingressmx4beta-assets.artifactory.corporate.payu.com
 0-6s-pet24azure-0-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
@@ -4047,7 +4039,6 @@ a0-video-sandbox.0-6s-pet2-09slackbot-0-mta-4.artifactory.corporate.payu.com
 0-6s-pet24europewestrp0-mta-40p11a0000006yznca2.artifactory.corporate.payu.com
 133-blending-mta-u.0-6s-pet2-4kubeapi.artifactory.corporate.payu.com
 snd.0-6s-pet2-0p14i000000zakhsaa4elastic.artifactory.corporate.payu.com
-business.0-6s-pet24apps-credit.artifactory.corporate.payu.com
 0-mta-4-4kubernetes01.0-6s-pet2-4applications.artifactory.corporate.payu.com
 4auth2snd.0-6s-pet2-dev.artifactory.corporate.payu.com
 0-6s-pet24authorizationcreatucuenta-4elastic.artifactory.corporate.payu.com
@@ -4301,7 +4292,6 @@ promocje.0-6s-pet2-tempo-uso-u4analytics.artifactory.corporate.payu.com
 0-mta-406-concat.0-6s-pet24applications.artifactory.corporate.payu.com
 4mtp.0-6s-pet2.artifactory.corporate.payu.com
 marketplace.ru.0-6s-pet24applications4info.artifactory.corporate.payu.com
-en.0-6s-pet24hec.artifactory.corporate.payu.com
 promocje.0-6s-pet2131-mobilesdk.artifactory.corporate.payu.com
 8f0009c3ebaa.dev.0-6s-pet24alphasandbox.artifactory.corporate.payu.com
 redir.afm.corporate.payu.com
@@ -4355,7 +4345,7 @@ outlook.0-6s-pet2.artifactory.corporate.payu.com
 0-mta-4-0p11t000003erjycag.0-6s-pet2-4info.artifactory.corporate.payu.com
 snd.0-6s-pet2-0-mta-4-4elastic.artifactory.corporate.payu.com
 intern.0-6s-pet2-4email-dev.artifactory.corporate.payu.com
-www.email.0-6s-pet2-4mobilesandbox.artifactory.corporate.payu.com
+email.0-6s-pet2-4mobilesandbox.artifactory.corporate.payu.com
 0-6s-pet2-4notificationorate.artifactory.corporate.payu.com
 0-0p146000000esr7cag-00d300000000l4keae.artifactory.corporate.payu.com
 main.0-6s-pet2-4azure.artifactory.corporate.payu.com
@@ -4363,7 +4353,6 @@ main.0-6s-pet2-4azure.artifactory.corporate.payu.com
 0-6s-pet2-4asana-4mobileappdyna.artifactory.corporate.payu.com
 8f0009c3ebaa.0-6s-pet24info0-mta-4.artifactory.corporate.payu.com
 0-6s-pet2-180-126ulwximedia0-mta-4-4checkout.artifactory.corporate.payu.com
-business.4apps-credit.0-6s-pet2.artifactory.corporate.payu.com
 0-6s-pet24api-sandbox-158-58629079.artifactory.corporate.payu.com
 a0-video-org.afm.corporate.payu.com
 promocje.0-6s-pet2-creatucuenta4analytics.artifactory.corporate.payu.com
@@ -4390,7 +4379,7 @@ promocje.0-6s-pet24-queens-numeric-4analytics.artifactory.corporate.payu.com
 0-6s-pet2-4email-dev01.artifactory.corporate.payu.com
 219wx3mpv4.0-6s-pet2-133-tempo-uso-staging0-mta-4.artifactory.corporate.payu.com
 0-0-mta-4-134vod-00d300000000l4keae.artifactory.corporate.payu.com
-www.test.0-6s-pet24assetsrp.artifactory.corporate.payu.com
+test.0-6s-pet24assetsrp.artifactory.corporate.payu.com
 4pa.0-6s-pet2.artifactory.corporate.payu.com
 0-0-mta-4-4metricchile-00d300000000l4keae.artifactory.corporate.payu.com
 kube.csg-fin-0099.csg-1.afm.corporate.payu.com
@@ -4541,7 +4530,6 @@ csg-1credit.afm.corporate.payu.com
 pdss01prd.afm.corporate.payu.com
 doc.0-6s-pet2-4email-dev.artifactory.corporate.payu.com
 development.afm.corporate.payu.com
-www.4documentation.0-6s-pet2.artifactory.corporate.payu.com
 0-6s-pet215373-2repository.artifactory.corporate.payu.com
 asana.a0-video.afm.corporate.payu.com
 csg-1-announcements.afm.corporate.payu.com

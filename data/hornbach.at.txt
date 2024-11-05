@@ -4,11 +4,10 @@ media.prd.hornbach.at
 media.int.hornbach.at
 int-cdn.hornbach.at
 backend-api.stage.hornbach.at
-www.hornbach.at
 oneapp.hornbach.at
 glue.hornbach.at
 backend-api.hornbach.at
-www.prd.gcp.hornbach.at
+prd.gcp.hornbach.at
 zed.dev.gcp.hornbach.at
 backend-api.dev.gcp.hornbach.at
 stage.hornbach.at
@@ -19,12 +18,12 @@ preprod.hornbach.at
 backend-api.int.gcp.hornbach.at
 zed.prd.gcp.hornbach.at
 fut.hornbach.at
-www.stg.gcp.hornbach.at
+stg.gcp.hornbach.at
 zed.int.gcp.hornbach.at
 glue.stg.gcp.hornbach.at
 oneapp-api.prd.gcp.hornbach.at
 oneapp-api.dev.gcp.hornbach.at
-www.dev.gcp.hornbach.at
+dev.gcp.hornbach.at
 int.hornbach.at
 dev.hornbach.at
 glue.int.gcp.hornbach.at

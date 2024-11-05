@@ -1,12 +1,11 @@
-*.open-xchange.com
-*.gitlab.open-xchange.com
-*.gitlab-test.open-xchange.com
-*.kube.open-xchange.com
-*.pages.open-xchange.com
-*.pages-test.open-xchange.com
-*.qa.open-xchange.com
-*.registry.open-xchange.com
-*.registry-test.open-xchange.com
+gitlab.open-xchange.com
+gitlab-test.open-xchange.com
+kube.open-xchange.com
+pages.open-xchange.com
+pages-test.open-xchange.com
+qa.open-xchange.com
+registry.open-xchange.com
+registry-test.open-xchange.com
 3www.open-xchange.com
 activation.open-xchange.com
 alcatraz.open-xchange.com
@@ -71,8 +70,6 @@ facade2.open-xchange.com
 feeds.protect.open-xchange.com
 forum.open-xchange.com
 git.open-xchange.com
-gitlab.open-xchange.com
-gitlab-test.open-xchange.com
 gitlab.poc-1.open-xchange.com
 gitlab.poc-2.open-xchange.com
 gitweb.open-xchange.com
@@ -93,7 +90,6 @@ jira.open-xchange.com
 kas.poc-1.open-xchange.com
 kas.poc-2.open-xchange.com
 knowledgebase.open-xchange.com
-kube.open-xchange.com
 ldap.open-xchange.com
 ldb.open-xchange.com
 lists.open-xchange.com
@@ -139,8 +135,6 @@ ox6-test.open-xchange.com
 ox6.qa.open-xchange.com
 oxae-update.open-xchange.com
 oxcs-research.open-xchange.com
-pages.open-xchange.com
-pages-test.open-xchange.com
 partner.open-xchange.com
 pbsr01-dev.open-xchange.com
 pc23.open-xchange.com
@@ -155,11 +149,8 @@ portal.open-xchange.com
 production.open-xchange.com
 prototyp.open-xchange.com
 pubsub.open-xchange.com
-qa.open-xchange.com
 qa.cloud.open-xchange.com
 qaproduction.cloud2.open-xchange.com
-registry.open-xchange.com
-registry-test.open-xchange.com
 registry.poc-1.open-xchange.com
 registry.poc-2.open-xchange.com
 report.open-xchange.com
@@ -224,11 +215,8 @@ wgw-oe.open-xchange.com
 wiki.open-xchange.com
 ws.sharding.appsuite-dev.open-xchange.com
 wso.open-xchange.com
-www.open-xchange.com
 www-direct.open-xchange.com
 www-neu.open-xchange.com
-www.career.open-xchange.com
-www.production.open-xchange.com
 www2.open-xchange.com
 www3.open-xchange.com
 www3.open-xchange.com.open-xchange.com
@@ -267,7 +255,6 @@ appsuite.it.open-xchange.com
 appsuite.qa.open-xchange.com
 auto-forum.open-xchange.com
 autoconfig.open-xchange.com
-aww.open-xchange.com
 background-forum.open-xchange.com
 blackduck.open-xchange.com
 cloud.open-xchange.com
@@ -294,7 +281,6 @@ mailing._domainkey.open-xchange.com
 mdm.open-xchange.com
 _b6429e813b3d50adf2f85247bb9d6a8e.open-xchange.com
 tesmail-test.open-xchange.com
-www.summit.open-xchange.com
 testing-japan.open-xchange.com
 whmcs.open-xchange.com
 mailing._domainkey.t.open-xchange.com
@@ -331,7 +317,6 @@ crm.open-xchange.com
 demo3.open-xchange.com
 oxee-demo-staging.open-xchange.com
 httsummit.open-xchange.com
-www.i18n.open-xchange.com
 ftware.open-xchange.com
 l10n.open-xchange.com
 mobile-mail-dev.open-xchange.com
@@ -345,7 +330,6 @@ server3.docs.open-xchange.com
 a5.orum.open-xchange.com
 repos.open-xchange.com
 piwik.open-xchange.com
-www.oxae-update.open-xchange.com
 appsuite-7100.docs.open-xchange.com
 mentation.open-xchange.com
 orum.open-xchange.com
@@ -472,7 +456,6 @@ us-west-1.qa.open-xchange.com
 v2.qa.open-xchange.com
 vpn.qa.open-xchange.com
 wordpress.qa.open-xchange.com
-www.qa.open-xchange.com
 www1.qa.open-xchange.com
 www2.qa.open-xchange.com
 50-60.qa.open-xchange.com

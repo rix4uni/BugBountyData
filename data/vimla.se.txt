@@ -12,7 +12,6 @@ api.vimla.se
 services.vimla.se
 mitt.vimla.se
 res.e.vimla.se
-*.vimla.se
 api-docs.vimla.se
 brandbook.vimla.se
 jobs.vimla.se
@@ -25,7 +24,4 @@ stage.vimla.se
 stage.forumet.vimla.se
 support.vimla.se
 t.e.vimla.se
-www.vimla.se
-www.stage.vimla.se
-www.t.e.vimla.se
 rds.vimla.se

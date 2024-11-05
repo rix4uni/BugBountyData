@@ -1,7 +1,6 @@
 us.dashboard.herondata.io
 firezone.herondata.io
 postman.herondata.io
-www.herondata.io
 dashboard.herondata.io
 staging.app.herondata.io
 dev.cloud.herondata.io
@@ -19,5 +18,4 @@ metabase.herondata.io
 gcp.herondata.io
 recurrence.herondata.io
 staging-dash.herondata.io
-www.app.herondata.io
 old.herondata.io

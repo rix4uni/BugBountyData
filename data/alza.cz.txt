@@ -1,7 +1,5 @@
 www2.alza.cz
-www.alza.cz
 phx-test.alza.cz
-*.phx-test.alza.cz
 lyncdiscover.alza.cz
 l-dc1-k8smain.alza.cz
 devi18n.alza.cz
@@ -9,7 +7,7 @@ phoenix.alza.cz
 confluence.alza.cz
 citihu-test.alza.cz
 betajean.alza.cz
-www.img.letter.alza.cz
+img.letter.alza.cz
 autodiscover.alza.cz
 mail.alza.cz
 jean.alza.cz
@@ -20,7 +18,6 @@ cdn.alza.cz
 mkt-se.letter.alza.cz
 _sipfederationtls._tcp.alza.cz
 support5.alza.cz
-img.letter.alza.cz
 info.alza.cz
 admin.alza.cz
 exchange.alza.cz
@@ -28,12 +25,11 @@ jira.alza.cz
 test.alza.cz
 registry.lab.alza.cz
 ns2.alza.cz
-www.lnk.letter.alza.cz
+lnk.letter.alza.cz
 image.alza.cz
 k2.alza.cz
 servicedesk.alza.cz
 enterpriseregistration.alza.cz
-lnk.letter.alza.cz
 enterpriseenrollment.alza.cz
 beta.alza.cz
 spf.alza.cz
@@ -84,7 +80,6 @@ wc.alza.cz
 gate.alza.cz
 mx60.alza.cz
 t-dc1-k8s01.alza.cz
-www.audiokniharoku.alza.cz
 adminv2.alza.cz
 p-dc1-k8sdmz01.alza.cz
 mx33.alza.cz
@@ -144,10 +139,7 @@ mx46.alza.cz
 av.alza.cz
 mx31.alza.cz
 t-dc1-k8sdmz01.alza.cz
-*.t-dc1-k8sdmz01.alza.cz
 test-dmz.alza.cz
-*.test-dmz.alza.cz
-*.t-dc1-k8ssre.alza.cz
 measuring-pixel-service.alza.cz
 gatebooking.alza.cz
 customerloans.alza.cz

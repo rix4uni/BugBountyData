@@ -38,7 +38,7 @@ sapiv.nara.gov
 mcmd6.nara.gov
 vpn.nara.gov
 asavpn.nara.gov
-www.era.nara.gov
+era.nara.gov
 ingest.era.nara.gov
 mcmd8.nara.gov
 portal.nara.gov
@@ -87,9 +87,7 @@ stage-44-app.eop.nara.gov
 cat-44-app.eop.nara.gov
 cat-44.eop.nara.gov
 cat-43-app.eop.nara.gov
-www.nara.gov
 cat.www.era.nara.gov
-www.cat.www.era.nara.gov
 cat.ingest.era.nara.gov
 alfresco-patch.era.nara.gov
 alfresco-process.era.nara.gov
@@ -122,7 +120,6 @@ rcpbsdevapp.nara.gov
 galilei.nara.gov
 edison.nara.gov
 era2-pilot-process.era.nara.gov
-www.era2-pilot-process.era.nara.gov
 mcmd5.nara.gov
 soranus.nara.gov
 minerva.nara.gov
@@ -160,7 +157,6 @@ rcpbsapp.nara.gov
 rcpbstest.nara.gov
 naraeldap2.nara.gov
 process.era.nara.gov
-www.hoover.nara.gov
 hoover.nara.gov
 bunsen.nara.gov
 volta.nara.gov
@@ -189,14 +185,13 @@ archiveslaura.nara.gov
 ameeks.nara.gov
 ardor.nara.gov
 archiveseleanor.nara.gov
-www.clinton.nara.gov
 achen2.nara.gov
 clinton.2.nara.gov
 arch2.nara.gov
 atlanta.nara.gov
-www.alanta.nara.gov
+alanta.nara.gov
 a2zcm5.nara.gov
-www.cart.nara.gov
+cart.nara.gov
 1930census.nara.gov
 cips.nara.gov
 ador.nara.gov

@@ -6,8 +6,6 @@ marketplace.django-cms.org
 user-guide.django-cms.org
 ci.django-cms.org
 docs.django-cms.org
-www.django-cms.org
-*.django-cms.org
 shiheyuyu.demo.django-cms.org
 jujarojo.demo.django-cms.org
 donosu.demo.django-cms.org
@@ -221,7 +219,6 @@ wajuhobo.demo.django-cms.org
 kyusayege.demo.django-cms.org
 idateri.demo.django-cms.org
 nikerahi.demo.django-cms.org
-www.demo.django-cms.org
 pachibuzu.demo.django-cms.org
 hemobeni.demo.django-cms.org
 w.django-cms.org

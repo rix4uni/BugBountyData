@@ -16,7 +16,6 @@ shoproku.cz.stage.heu.cz
 admin.darky.heureka.cz.stage.heu.cz
 s3-backup.heu.cz
 ingress.stage.k8s.heu.cz
-www.heu.cz
 article-sk.k8s.heu.cz
 es.logging.k8s.heu.cz
 login.k8s.heu.cz
@@ -84,7 +83,6 @@ admin.inspirace.heureka.cz.stage.heu.cz
 telemetry.heu.cz
 logging-es.k8s.heu.cz
 products.promo.heureka.sk.stage.heu.cz
-www.heureka.cz.stage.heu.cz
 purchase-product-detail-fe.sk.stage.k8s.heu.cz
 gpages.heu.cz
 dex.k8s.heu.cz

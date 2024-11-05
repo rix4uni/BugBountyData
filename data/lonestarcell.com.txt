@@ -1,4 +1,3 @@
-*.lonestarcell.com
 231wallet.lonestarcell.com
 api.lonestarcell.com
 app.lonestarcell.com
@@ -27,9 +26,5 @@ smtp1.lonestarcell.com
 smtp2.lonestarcell.com
 sslvpn.lonestarcell.com
 websense-wcg.lonestarcell.com
-www.lonestarcell.com
-www.231wallet.lonestarcell.com
-www.app.lonestarcell.com
-www.auth.lonestarcell.com
 esim.lonestarcell.com
 chatbot.lonestarcell.com

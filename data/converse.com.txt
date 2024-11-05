@@ -1,6 +1,5 @@
-*.converse.com
-*.awards.converse.com
-*.digitalhub.converse.com
+awards.converse.com
+digitalhub.converse.com
 61racq2pun.171.random-patterns.converse.com
 api.converse.com
 api.dev.qr.converse.com
@@ -15,7 +14,6 @@ authoring.converse.com
 authoring.staging.converse.com
 authoring.test.converse.com
 autodiscover.converse.com
-awards.converse.com
 backstage.converse.com
 camp.converse.com
 canary-www.converse.com
@@ -34,7 +32,6 @@ dev-api.converse.com
 dev-jobs.converse.com
 dev.digitalhub.converse.com
 dev.qr.converse.com
-digitalhub.converse.com
 e.converse.com
 ecn-m.converse.com
 ecn-www.converse.com
@@ -171,10 +168,7 @@ video.converse.com
 view.e.converse.com
 view.official.converse.com
 wholesalecontent.converse.com
-www.converse.com
 www-dark.converse.com
-www.login.converse.com
-www.readyformoreho99o9.converse.com
 api.dev.digitalhub.converse.com
 biz.converse.com
 ci.converse.com

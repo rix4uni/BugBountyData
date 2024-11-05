@@ -42,7 +42,6 @@ prod.airopta.smartiiz.dis-hosting.fr
 pma.preprod.stadereims.dis-hosting.fr
 es.passionatepeople.invacare.dis-hosting.fr
 prod.nowbrains.smartiiz.dis-hosting.fr
-www.dis-hosting.fr
 pma.prod.codiclic.dis-hosting.fr
 healthchecks.dis-hosting.fr
 prod.nowleads.smartiiz.dis-hosting.fr
@@ -213,7 +212,7 @@ ip-10.mojo.dis-hosting.fr
 pma.preprod.lmc.dis-hosting.fr
 archives.debian.mirrors.dis-hosting.fr
 pma.preprod.savebag.altais.dis-hosting.fr
-www.influx.dis-hosting.fr
+influx.dis-hosting.fr
 laboulerouge.altais.dis-hosting.fr
 maildev.preprod.web.sonepar.dis-hosting.fr
 sury-archive.mirrors.dis-hosting.fr
@@ -230,15 +229,12 @@ prod.keentalent.yootalent.dis-hosting.fr
 prod.transport-toussaint.smartiiz.dis-hosting.fr
 pma.prod.web.acpm.dis-hosting.fr
 acpm-sia-prod.dis-hosting.fr
-www.logs.dis-hosting.fr
 ip-8.mojo.dis-hosting.fr
 pma.prod.up.pocheco.dis-hosting.fr
-www.monitoring.dis-hosting.fr
 preprod.objectif-emergence.smartiiz.dis-hosting.fr
 acpm-numeo.dis-hosting.fr
 wanguard.dis-hosting.fr
 preprod.slowcosmetic.dis-hosting.fr
-influx.dis-hosting.fr
 pma.hsw.dis-hosting.fr
 ip-9.mojo.dis-hosting.fr
 repo.dis-hosting.fr
@@ -247,7 +243,6 @@ pma.feuillette.altais.dis-hosting.fr
 pma.prod.invacare-blog.dis-hosting.fr
 ip-5.mojo.dis-hosting.fr
 maildev.prod.controle.acpm.dis-hosting.fr
-www.gw-broker.dis-hosting.fr
 pass.dis-hosting.fr
 acpm-symeo-prod.dis-hosting.fr
 ip-18.mojo.dis-hosting.fr

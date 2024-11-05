@@ -1,4 +1,3 @@
-*.authy.com
 2fwww.authy.com
 android.authy.com
 api.authy.com
@@ -67,7 +66,6 @@ support.authy.com
 tracking.authy.com
 vmware.authy.com
 vmware-staging.authy.com
-www.authy.com
 assets-dev.authy.com
 callcenter.authy.com
 dev.authy.com
@@ -94,7 +92,4 @@ quest-stage.authy.com
 dlrs-dev.authy.com
 com.authy.com
 pre-prod.authy.com
-www.dev.authy.com
-www.stage.authy.com
-www.preview.authy.com
 preview.authy.com

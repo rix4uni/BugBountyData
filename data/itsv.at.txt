@@ -10,7 +10,6 @@ auth.itsv.at
 access-bvaeb.itsv.at
 access-bva.itsv.at
 access-svb.itsv.at
-www.itsv.at
 ftpproxy.itsv.at
 bestellantrag.itsv.at
 access-wgkk-neu.itsv.at
@@ -24,7 +23,7 @@ access-test.itsv.at
 sip.itsv.at
 access-bva-test.itsv.at
 _autodiscover._tcp.itsv.at
-www.intranet.itsv.at
+intranet.itsv.at
 access-svs.itsv.at
 bestellantragtest.itsv.at
 access-adc2.itsv.at
@@ -33,14 +32,11 @@ access-sva.itsv.at
 herzderdigitalisierung-mobile.itsv.at
 proems.itsv.at
 pop.itsv.at
-www.herzderdigitalisierung.itsv.at
+herzderdigitalisierung.itsv.at
 newsletter.itsv.at
 karriere.itsv.at
 pop3.itsv.at
 wgkk-citrixt.itsv.at
 imap.itsv.at
-herzderdigitalisierung.itsv.at
 mail.itsv.at
-www.proems.itsv.at
-www.karriere.itsv.at
 autodiscover.rz.itsv.at

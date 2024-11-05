@@ -6,7 +6,6 @@ sa.mygov.scot
 alpha.mygov.scot
 tradingnation.mygov.scot
 stage.mygov.scot
-www.mygov.scot
 beta.mygov.scot
 patternlibrary.mygov.scot
 resources.mygov.scot
@@ -26,7 +25,6 @@ assets-production.servicename.service.mygov.scot
 dev.www.mygov.scot
 bluredirect.aws.mygov.scot
 devredirect.mygov.scot
-www.servicename.service.mygov.scot
 www-production.servicename.service.mygov.scot
 perwww.mygov.scot
 origin.publishing.mygov.scot

@@ -12,8 +12,8 @@ direct-assets-nonprod.currencycloud.com
 status2.currencycloud.com
 media.currencycloud.com
 happyholidays.currencycloud.com
-www.cf-mtls-prod.currencycloud.com
-www.jpm-webhook.currencycloud.com
+cf-mtls-prod.currencycloud.com
+jpm-webhook.currencycloud.com
 xmas.currencycloud.com
 2349326.currencycloud.com
 o3.mail.currencycloud.com
@@ -26,11 +26,9 @@ www-staging-1.currencycloud.com
 o2.mail.currencycloud.com
 developer-staging.currencycloud.com
 direct-assets.currencycloud.com
-www.cf-mtls-demo.currencycloud.com
-cf-mtls-prod.currencycloud.com
+cf-mtls-demo.currencycloud.com
 reporting-nonprod.currencycloud.com
 salesloft.currencycloud.com
-cf-mtls-demo.currencycloud.com
 reporting-staging.currencycloud.com
 aesigbx4n2sz.currencycloud.com
 hooks-demo.currencycloud.com
@@ -39,7 +37,6 @@ status.currencycloud.com
 reporting-demo.currencycloud.com
 blog.currencycloud.com
 devapi.currencycloud.com
-www.currencycloud.com
 mail-relay1.currencycloud.com
 mail-relay2.currencycloud.com
 insights.currencycloud.com
@@ -64,7 +61,6 @@ henchbulp.currencycloud.com
 sg-click.currencycloud.com
 devapi2.currencycloud.com
 developer-staging1.currencycloud.com
-jpm-webhook.currencycloud.com
 direct-assets-demo.currencycloud.com
 bd77fny.25508541t.currencycloud.com
 bdrc.currencycloud.com

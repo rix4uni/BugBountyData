@@ -25,7 +25,7 @@ game3.aws.assecobs.pl
 game-ekssandbox01.aws.assecobs.pl
 rancher.eksdc01.aws.assecobs.pl
 services.aganik.aws.assecobs.pl
-www.sip.assecobs.pl
+sip.assecobs.pl
 svn.abs.assecobs.pl
 rancher.eks01.aws.assecobs.pl
 rabbitmq.aganik-dev.aws.assecobs.pl
@@ -144,7 +144,6 @@ scim-playground.aws.assecobs.pl
 businessbank-doc.assecobs.pl
 wawsdu01.abs.assecobs.pl
 qlik6.demo.assecobs.pl
-sip.assecobs.pl
 smtp.assecobs.pl
 erpavp.assecobs.pl
 cms.assecobs.pl
@@ -164,7 +163,6 @@ callback.assecobs.pl
 outlook.abs.assecobs.pl
 vpn-a.assecobs.pl
 vpn-e.assecobs.pl
-www.assecobs.pl
 konferencjahr.assecobs.pl
 time.assecobs.pl
 erpdemocloud.assecobs.pl
@@ -207,7 +205,6 @@ businesscommerce-doc.assecobs.pl
 ankiety.assecobs.pl
 ns5.assecobs.pl
 orbico.assecobs.pl
-www.opss.assecobs.pl
 mailserviceapi-doc.assecobs.pl
 myapps.assecobs.pl
 ingtest.gke.assecobs.pl
@@ -342,11 +339,9 @@ abserp.assecobs.pl
 touchinit.assecobs.pl
 lubvpn.assecobs.pl
 jterm.demomerit.cloud.assecobs.pl
-*.assecobs.pl
 opensearch.aws.assecobs.pl
 2048-int-ngnix.eksprod.aws.assecobs.pl
 eksupgr.aws.assecobs.pl
-*.abs.assecobs.pl
 derp1.headscale.assecobs.pl
 headscale.assecobs.pl
 rabbitmq.aganik-dev-dev.aws.assecobs.pl

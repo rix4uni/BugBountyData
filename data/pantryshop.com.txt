@@ -17,7 +17,6 @@ ingest.pantryshop.com
 admin.pantryshop.com
 v2.pantryshop.com
 api-1.pantryshop.com
-www.pantryshop.com
 prerender.pantryshop.com
 checkout.pantryshop.com
 cart-service.pantryshop.com
@@ -35,4 +34,3 @@ secure.staging.pantryshop.com
 b2b-api-ex-v1.staging.pantryshop.com
 api-1.staging.pantryshop.com
 api-2.staging.pantryshop.com
-*.pantryshop.com

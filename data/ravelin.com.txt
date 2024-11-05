@@ -12,7 +12,6 @@ id.ravelin.com
 keep.ravelin.com
 pages.ravelin.com
 test.api-staging.ravelin.com
-www.syslog.ravelin.com
 production.website.ravelin.com
 vault.ravelin.com
 3ds-us-east4.f.pci.ravelin.com
@@ -29,10 +28,9 @@ cdn2-staging.ravelin.com
 maven.ravelin.com
 pci-victoriametrics-staging.ravelin.com
 cdn2.ravelin.com
-www.staging.website.ravelin.com
+staging.website.ravelin.com
 pci-staging.ravelin.com
 pci-acs-staging2.ravelin.com
-staging.website.ravelin.com
 victoriametrics-us-central1.staging.pci.ravelin.com
 developer.ravelin.com
 3ds-europe-west1.staging.pci.ravelin.com
@@ -42,7 +40,6 @@ cdn.ravelin.com
 victoriametrics-europe-west1.live.pci.ravelin.com
 victoriametrics-europe-west1.staging.pci.ravelin.com
 acs.ravelin.com
-www.ravelin.com
 c-pci-victoriametrics.ravelin.com
 pci-victoriametrics-f.ravelin.com
 3ds-us-central1.live.pci.ravelin.com

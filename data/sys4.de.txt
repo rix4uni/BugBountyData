@@ -5,7 +5,6 @@ netbox.sys4.de
 avmirror.sys4.de
 dnssec.m3aawg58.sys4.de
 forecast.sys4.de
-www.sys4.de
 src-old.sys4.de
 download.sys4.de
 dane.sys4.de
@@ -13,7 +12,7 @@ support.sys4.de
 time.sys4.de
 mail.sys4.de
 _pop3s._tcp.sys4.de
-www.test.sys4.de
+test.sys4.de
 news.sys4.de
 blog.sys4.de
 romeo.sys4.de
@@ -36,7 +35,6 @@ mta-sts.sys4.de
 sepa.sys4.de
 lima.sys4.de
 golf.sys4.de
-test.sys4.de
 webmail.sys4.de
 wiki.sys4.de
 _pop3._tcp.sys4.de
@@ -80,7 +78,7 @@ ns-v.sys4.de
 www-dev.sys4.de
 ml.srv.sys4.de
 muc.sys4.de
-www.dev.sys4.de
+dev.sys4.de
 kai.sys4.de
 bravo.sys4.de
 patrick.sys4.de

@@ -45,7 +45,7 @@ pinnacle-api.amazon.it
 elinks.business.amazon.it
 origin-www.amazon.it
 youraccount.amazon.it
-www.prodotti-sponsorizzati.amazon.it
+prodotti-sponsorizzati.amazon.it
 internal-campfire-eu.amazon.it
 msh.amazon.it
 skills-store-eu.amazon.it
@@ -62,13 +62,13 @@ avs-idrs.amazon.it
 drs-web-gamma.amazon.it
 alexa-skills-beta-na.amazon.it
 opf-sellercentral.amazon.it
-www.services.amazon.it
+services.amazon.it
 alexa-skills-na.amazon.it
-www.repair.amazon.it
+repair.amazon.it
 pubblicitario.amazon.it
 programma-affiliazione.amazon.it
 cde-ta-g7g-preprod.amazon.it
-www.logistics.amazon.it
+logistics.amazon.it
 sellerflex.amazon.it
 rental-account.hubportal.amazon.it
 cookie.browserapps.amazon.it
@@ -129,7 +129,6 @@ alx-inbound.amazon.it
 xml.amazon.it
 intranet.video.amazon.it
 brandservices.amazon.it
-services.amazon.it
 business.amazon.it
 catalog-retail.amazon.it
 kindle-store-proxy-endpoint.amazon.it
@@ -175,7 +174,6 @@ cmu-receiver-eu.amazon.it
 your-orders.amazon.it
 cloud.amazon.it
 panel.amazon.it
-repair.amazon.it
 fastly-www.amazon.it
 auxilium.amazon.it
 brandregistry.amazon.it
@@ -188,7 +186,6 @@ apx-security.amazon.it
 mt.amazon.it
 partnercentral.amazon.it
 cde-ta-g7g.amazon.it
-prodotti-sponsorizzati.amazon.it
 cdn.amazon.it
 dp-gw-na.amazon.it
 mscisv3prod.amazon.it
@@ -238,7 +235,6 @@ dl.amazon.it
 download-photos.amazon.it
 alexaskills.amazon.it
 aan.amazon.it
-logistics.amazon.it
 na-api-alexa.amazon.it
 sell.amazon.it
 data.amazon.it
@@ -266,17 +262,8 @@ tp.de499dd16-frontier.amazon.it
 6ca7af544-frontier.amazon.it
 smile.amazon.it
 ec2.www.amazon.it
-www.panel.amazon.it
 3dwww.amazon.it
-www.amazon.it
 tp.cd53a9b61-frontier.amazon.it
-*.crossroad.amazon.it
-www.advertising.amazon.it
-*.browserapps.amazon.it
-*.eu-west-1.prod.crossroad.amazon.it
-*.eu-west-1.beta.crossroad.amazon.it
-*.eu-west-1.gamma.crossroad.amazon.it
-*.transient.amazon.it
 key.amazon.it
 fe-bob-dispatch-gamma-alexa.amazon.it
 na-bob-dispatch-gamma-alexa.amazon.it
@@ -284,9 +271,6 @@ fe-bob-dispatch-prod-alexa.amazon.it
 eu-bob-dispatch-prod-alexa.amazon.it
 na-bob-dispatch-prod-alexa.amazon.it
 eu-bob-dispatch-gamma-alexa.amazon.it
-www.cdn.amazon.it
-www.sp.amazon.it
-*.business.amazon.it
 ?.amazon.it
 ads.amazon.it
 advertise.amazon.it
@@ -294,7 +278,6 @@ asp.amazon.it
 marketing.amazon.it
 monza.amazon.it
 opf-www.amazon.it
-*.amazon.it
 appx.transient.amazon.it
 blog-affiliazione.amazon.it
 kindlefidle-store-proxy-endpoint.amazon.it

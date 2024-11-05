@@ -2,15 +2,13 @@ alt-learn.6703e4b00098d.lctp0001.tp.core.blackboard.com
 aliased.registrar.api.blackboard.com
 registrar.cloudbb.blackboard.com
 bb-gbc.blackboard.com
-*.blackboard.com
 us-gov.registrar.api.blackboard.com
 admin-mayo.blackboard.com
-www.help.blackboard.com
+help.blackboard.com
 bbip.us-gov-west-1.api.blackboard.com
 basic-doc-viewer.us-gov-west-1.api.blackboard.com
 ns3.blackboard.com
 ca.sso.api.blackboard.com
-help.blackboard.com
 lync13webext.blackboard.com
 au.map.api.blackboard.com
 pacollege-test.blackboard.com
@@ -36,7 +34,6 @@ roosevelt.blackboard.com
 vpn-ind.blackboard.com
 us-gov.tenancy.api.blackboard.com
 ns1.blackboard.com
-www.blackboard.com
 us-gov.sso.api.blackboard.com
 howard.blackboard.com
 sftptransfer.blackboard.com
@@ -157,7 +154,7 @@ uoitoct2014.blackboard.com
 cloudbb.blackboard.com
 tcsg-angelpdp.blackboard.com
 blackboard-216-200-106-4.blackboard.com
-www.pfinprd.blackboard.com
+pfinprd.blackboard.com
 pcssd.blackboard.com
 flvirtualstaging.blackboard.com
 benedictine-migtemp.blackboard.com
@@ -265,7 +262,7 @@ fnu.blackboard.com
 unifeob.blackboard.com
 sena-new.blackboard.com
 a-69-196-235-108.blackboard.com
-www.bbitcorpcgw.blackboard.com
+bbitcorpcgw.blackboard.com
 26.subnet-69-194-26.ellijay.a-69-196-235-214.blackboard.com
 cccsapp08.blackboard.com
 northwoodtempcu5.blackboard.com
@@ -373,7 +370,7 @@ montgomery-test.blackboard.com
 learn.mfrdev02.mfrdevf1.local.core.blackboard.com
 alt-learn.mfdev001.lcdev002.local.core.blackboard.com
 oademo1.blackboard.com
-www.hu.blendedschools.blackboard.com
+hu.blendedschools.blackboard.com
 hamptonu-test.blackboard.com
 vahealthadmin-stage.blackboard.com
 bbtest.mayo.blackboard.com
@@ -386,7 +383,7 @@ a-69-196-234-93.blackboard.com
 a-69-196-234-39.blackboard.com
 tampa.blackboard.com
 learn.65958a08d3762.lcdev002.dev.core.blackboard.com
-www.metc.combatmedic.blackboard.com
+metc.combatmedic.blackboard.com
 a-69-196-233-202.blackboard.com
 obridge.blackboard.com
 mercyhurst.blackboard.com
@@ -535,7 +532,7 @@ uccvirtual-test.blackboard.com
 asu-stage1.blackboard.com
 monroecollege.blackboard.com
 kuderuniversity.blackboard.com
-www.globalevents.blackboard.com
+globalevents.blackboard.com
 douglascollege-test.blackboard.com
 faulkner.blackboard.com
 segi.blackboard.com
@@ -611,7 +608,7 @@ um1.blackboard.com
 calbaptist.blackboard.com
 rdc-bb.blackboard.com
 a-69-196-234-89.blackboard.com
-www.pfinnonprd.blackboard.com
+pfinnonprd.blackboard.com
 a-69-196-232-227.blackboard.com
 acenet.blackboard.com
 sisaas-qa-oracle-ga.blackboard.com
@@ -637,7 +634,7 @@ bcps-upgradetesting.blackboard.com
 tamuccstaging.blackboard.com
 tabuk-test.blackboard.com
 ciu10.blackboard.com
-www.sipaccess.blackboard.com
+sipaccess.blackboard.com
 ju.blackboard.com
 cibertec-temp.blackboard.com
 tourow.blackboard.com
@@ -760,7 +757,7 @@ utmb-migtemp.blackboard.com
 fcms.blackboard.com
 sunycgcc.blackboard.com
 learn.ce0hhtst.lcint001.int.core.blackboard.com
-www.avaya1.blackboard.com
+avaya1.blackboard.com
 rdpolytech.blackboard.com
 luisstemp.blackboard.com
 learn.scclone1702.lcdev002.dev.core.blackboard.com
@@ -952,7 +949,7 @@ nbu-temp.blackboard.com
 strayertempclone.blackboard.com
 uniteconline.blackboard.com
 griffith-test.blackboard.com
-www.mobileorderdemo.blackboard.com
+mobileorderdemo.blackboard.com
 miami-odb.blackboard.com
 moreheadstate-bb9.blackboard.com
 password.blackboard.com
@@ -1058,7 +1055,7 @@ learn.grath0123.lcdev002.dev.core.blackboard.com
 southbanktest.blackboard.com
 ottawaeval.blackboard.com
 coastalcarolina-test.blackboard.com
-www.mobileorderdemoapi.blackboard.com
+mobileorderdemoapi.blackboard.com
 johnstoncc.blackboard.com
 mhhetest2.blackboard.com
 a-69-196-232-158.blackboard.com
@@ -1083,18 +1080,16 @@ drexel-mhmig.blackboard.com
 a-69-196-234-198.blackboard.com
 host99.blackboard.com
 sbccdtest.blackboard.com
-hu.blendedschools.blackboard.com
 sfccmo-clone.blackboard.com
 a-69-196-235-37.blackboard.com
 np-staging.blackboard.com
 uplift.blackboard.com
 uem-staging.blackboard.com
-www.mobileorderprodapi.blackboard.com
+mobileorderprodapi.blackboard.com
 jefferson-temp.blackboard.com
 lta.blackboard.com
 rotc-stage.blackboard.com
 bulldogbucks.blackboard.com
-www.vpn-col.blackboard.com
 wilsoncc.blackboard.com
 mnv-staging.blackboard.com
 mobile-pf-learn-mh01.blackboard.com
@@ -1243,7 +1238,6 @@ sistemascbt-odb.blackboard.com
 bellevue.blackboard.com
 sutd.blackboard.com
 coastalbendbb9-temp.blackboard.com
-www.password.blackboard.com
 lhsoc-clone.blackboard.com
 delval.blackboard.com
 northallegheny.blackboard.com
@@ -1297,7 +1291,6 @@ rdc-temp.blackboard.com
 alt-learn.6626b97746eed.lcint001.int.core.blackboard.com
 a-69-196-235-204.blackboard.com
 cune-test.blackboard.com
-pfinprd.blackboard.com
 a-69-196-233-210.blackboard.com
 ulibertadores.blackboard.com
 learn.candro0003.lcdev001.dev.core.blackboard.com
@@ -1477,7 +1470,7 @@ iuoestaging.blackboard.com
 a-69-196-235-151.blackboard.com
 alt-learn.9hm8gkmg.lcdev002.dev.core.blackboard.com
 alt-learn.adnfsclone30p.adflt.dev.core.blackboard.com
-www.help-docs.blackboard.com
+help-docs.blackboard.com
 melearn.blackboard.com
 host202.blackboard.com
 us.signin.blackboard.com
@@ -1579,7 +1572,6 @@ mail-relay7-ams1.blackboard.com
 usi-old.blackboard.com
 citldemo.blackboard.com
 keystone-k12-admin.blackboard.com
-www.avaya3.blackboard.com
 pl.blackboard.com
 northshore.blackboard.com
 hccs.blackboard.com
@@ -1784,7 +1776,7 @@ southernmissdldev.blackboard.com
 daytonacollege-test.blackboard.com
 host151.blackboard.com
 cua.blackboard.com
-www.login.blackboard.com
+login.blackboard.com
 martincc.blackboard.com
 morganstateclone.blackboard.com
 a-69-196-235-196.blackboard.com
@@ -2222,7 +2214,7 @@ lo1-bb1-sv2.blackboard.com
 enmuu.blackboard.com
 app.email.blackboard.com
 abdn.blackboard.com
-www.managedhosting.blackboard.com
+managedhosting.blackboard.com
 eth4-4-bb1-dc2.blackboard.com
 bellevue_temp.blackboard.com
 maximus-test.blackboard.com
@@ -2515,7 +2507,7 @@ a-69-196-235-218.blackboard.com
 grupomagno.blackboard.com
 csub2integrationqa10.blackboard.com
 utbrownsvilletest.blackboard.com
-www.vpndc.blackboard.com
+vpndc.blackboard.com
 bbprepo.blackboard.com
 bbpartners1.blackboard.com
 northshore-stage.blackboard.com
@@ -2637,7 +2629,7 @@ dist21.blackboard.com
 cmsutest.blackboard.com
 learn.nfstestad.intflt01.int.core.blackboard.com
 vesta.blackboard.com
-www.careers.blackboard.com
+careers.blackboard.com
 a-69-196-234-44.blackboard.com
 learn.mfdev001.lcdev001.local.core.blackboard.com
 dcvc1.blackboard.com
@@ -2737,7 +2729,7 @@ confederation.blackboard.com
 allenschool-test.blackboard.com
 princetontest.blackboard.com
 learning.tamhsc.blackboard.com
-www.letmein.blackboard.com
+letmein.blackboard.com
 nccustaging.blackboard.com
 mghcme.blackboard.com
 sceis-test.blackboard.com
@@ -2761,7 +2753,7 @@ eacct-rowancard-sp.blackboard.com
 waubonsee.blackboard.com
 bb-commerce.blackboard.com
 kroton.blackboard.com
-www.letmeinstg.blackboard.com
+letmeinstg.blackboard.com
 a-69-196-235-200.blackboard.com
 tamusatest.blackboard.com
 slu.dev.blackboard.com
@@ -2999,7 +2991,7 @@ sfccmo-temp.blackboard.com
 host106.blackboard.com
 a-69-196-234-243.blackboard.com
 xcard-sp.blackboard.com
-www.mobileorder.blackboard.com
+mobileorder.blackboard.com
 caanz-staging.blackboard.com
 granthamstaging.blackboard.com
 csccsaasstage.blackboard.com
@@ -3091,7 +3083,7 @@ unitec-staging.blackboard.com
 zamorano.blackboard.com
 fag.blackboard.com
 sa-webstats.blackboard.com
-www.metc.dental.blackboard.com
+metc.dental.blackboard.com
 stisd.blackboard.com
 ivytechtemp.blackboard.com
 apse1p.api.blackboard.com
@@ -3192,7 +3184,7 @@ fundacionlaboral-test.blackboard.com
 vaaastage.blackboard.com
 northumbriasaas-test.blackboard.com
 alt-learn.mfri0001.lcdev002.local.core.blackboard.com
-www.bbss.blackboard.com
+bbss.blackboard.com
 a-69-196-232-222.blackboard.com
 idla-saas.blackboard.com
 mail-relay195.ams1.blackboard.com
@@ -3397,7 +3389,6 @@ a-69-196-234-120.blackboard.com
 mustaging.blackboard.com
 hbu.blackboard.com
 pace.blackboard.com
-www.bbtransact-sp.blackboard.com
 temp-pupr.blackboard.com
 a-69-196-250-220.blackboard.com
 cehosting.blackboard.com
@@ -3494,7 +3485,7 @@ leidenreadonly.blackboard.com
 uottawa-prodclone.blackboard.com
 bransonhs.blackboard.com
 uta-archive.blackboard.com
-www.connections-summit.blackboard.com
+connections-summit.blackboard.com
 mhhestaging4.blackboard.com
 snhutest.blackboard.com
 acc2.blackboard.com
@@ -3609,7 +3600,6 @@ susqu.blackboard.com
 iemx.blackboard.com
 gvtc-stage.blackboard.com
 fordham-stage.blackboard.com
-www.appcatalog.blackboard.com
 mail-relay7-ruh1.blackboard.com
 sbccd-archive.blackboard.com
 a-69-196-235-152.blackboard.com
@@ -3857,7 +3847,6 @@ nfpastage.blackboard.com
 lyncdiscoverinternal.blackboard.com
 alt-61bced46aed1c.blackboard.com
 us.capture.blackboard.com
-connections-summit.blackboard.com
 svanegas-one.blackboard.com
 brcn.blackboard.com
 setonhall-temp.blackboard.com
@@ -4070,7 +4059,7 @@ ksau-hs.blackboard.com
 obridgetest.blackboard.com
 obs.blackboard.com
 fprod-uas.blackboard.com
-www.partnerportal.blackboard.com
+partnerportal.blackboard.com
 learn.clonelina1.lctp0001.tp.core.blackboard.com
 otceval.blackboard.com
 midwestern.temp.blackboard.com
@@ -4381,7 +4370,6 @@ bowdoin-pilot.blackboard.com
 pcom.blackboard.com
 calhoun-odb.blackboard.com
 alt-learn.adint.lcint001.int.core.blackboard.com
-letmein.blackboard.com
 uem.blackboard.com
 a-69-196-250-255.blackboard.com
 nursetu.blackboard.com
@@ -4466,9 +4454,7 @@ a-69-196-234-189.blackboard.com
 a-69-196-235-235.blackboard.com
 blackboard-ct.blackboard.com
 bbtemp.mc.blackboard.com
-login.blackboard.com
 ce8-uma.blackboard.com
-www.mail2.blackboard.com
 c6prdapp02.blackboard.com
 lssu-bb.blackboard.com
 a-69-196-235-228.blackboard.com
@@ -4968,7 +4954,7 @@ ibero-analytics.blackboard.com
 smueval.blackboard.com
 hamline-temp.blackboard.com
 a-69-196-234-58.blackboard.com
-www.metc.ancillary.blackboard.com
+metc.ancillary.blackboard.com
 a-69-196-235-246.blackboard.com
 cloud-storage-prod-kr.prod.content-processing.api.blackboard.com
 uic2.blackboard.com
@@ -5000,7 +4986,6 @@ globusmedical.blackboard.com
 consorzio-cise.blackboard.com
 vaotstest2-tst-uas.blackboard.com
 alt-learn.65958a08d3762.lcdev002.local.core.blackboard.com
-avaya1.blackboard.com
 uab.staging.blackboard.com
 uvmonline-temp.blackboard.com
 a-69-196-233-119.blackboard.com
@@ -5143,7 +5128,7 @@ aic-migtemp.blackboard.com
 a-69-196-235-211.blackboard.com
 mssc.blackboard.com
 casestage.blackboard.com
-www.metc.publichealth.blackboard.com
+metc.publichealth.blackboard.com
 a-69-196-233-67.blackboard.com
 laboure.blackboard.com
 yccc.blackboard.com
@@ -5341,7 +5326,7 @@ ve7-vrrp-gw1-va2.blackboard.com
 umkc-old.blackboard.com
 osbc.blackboard.com
 denison-test.blackboard.com
-www.blendedschools.blackboard.com
+blendedschools.blackboard.com
 onlinestrayer-temp.blackboard.com
 mayoclinictest.blackboard.com
 saddleback.blackboard.com
@@ -5353,7 +5338,6 @@ lakeland.blackboard.com
 inpt-eval.blackboard.com
 tradocstage.blackboard.com
 learn.gyclone6.lcdev001.dev.core.blackboard.com
-partnerportal.blackboard.com
 joplin.blackboard.com
 mail-relay10-cal1.blackboard.com
 a-69-196-234-188.blackboard.com
@@ -5387,7 +5371,6 @@ grainger.blackboard.com
 mail-relay19-cse1.blackboard.com
 uhatest.blackboard.com
 google-meet-creator.kr.prod.bb-google-service.api.blackboard.com
-www.avaya4.blackboard.com
 a-69-196-234-251.blackboard.com
 neuclone.blackboard.com
 cabrini.blackboard.com
@@ -5502,7 +5485,6 @@ vu.blackboard.com
 ksauhs-pyramidanalytics.blackboard.com
 host21.blackboard.com
 a-69-196-234-234.blackboard.com
-help-docs.blackboard.com
 csuci-analytics.blackboard.com
 alt-learn.tom.lcdev001.dev.core.blackboard.com
 cobbccstage.blackboard.com
@@ -5535,7 +5517,7 @@ utep-stage.blackboard.com
 reportabusepa-test.blackboard.com
 a-69-196-232-143.blackboard.com
 acphstest.blackboard.com
-www.vfone-cts-us.blackboard.com
+vfone-cts-us.blackboard.com
 coahomacc.blackboard.com
 c6prddb1.blackboard.com
 k12deved2-consulting.blackboard.com
@@ -5638,7 +5620,6 @@ aum-migtemp.blackboard.com
 mybucks.blackboard.com
 a-69-196-232-179.blackboard.com
 a-69-196-235-158.blackboard.com
-www.va3sbc.blackboard.com
 a-69-196-235-20.blackboard.com
 luzan5.blackboard.com
 ap-southeast-1-san1.blackboard.com
@@ -5658,7 +5639,7 @@ mail-relay10-fra4.blackboard.com
 senac-analytics.blackboard.com
 shoreline.blackboard.com
 grantham-temp.blackboard.com
-www.leiden.blackboard.com
+leiden.blackboard.com
 a-9-234-47.blackboard.com
 uniritter.blackboard.com
 gvtcstage-ilp.blackboard.com
@@ -5820,7 +5801,6 @@ a-69-196-235-113.blackboard.com
 cornerstonesd.blackboard.com
 northeastern-test.blackboard.com
 a-69-196-234-29.blackboard.com
-www.shop.blackboard.com
 uq-eval.blackboard.com
 a-69-196-235-76.blackboard.com
 en-pr.help.blackboard.com
@@ -5947,7 +5927,7 @@ host241.blackboard.com
 iesb-temp.blackboard.com
 gcvlctest.blackboard.com
 host61.blackboard.com
-www.metc.nursing.blackboard.com
+metc.nursing.blackboard.com
 camsch.blackboard.com
 keiserflex.blackboard.com
 a-69-196-233-22.blackboard.com
@@ -6180,7 +6160,7 @@ tritoncetest.blackboard.com
 hec-paris.blackboard.com
 esamc-temp.blackboard.com
 uoit-test.blackboard.com
-www.vpnla.blackboard.com
+vpnla.blackboard.com
 a-69-196-235-64.blackboard.com
 a-69-196-233-169.blackboard.com
 vpnlab.blackboard.com
@@ -6250,7 +6230,6 @@ v4prdapp02.blackboard.com
 sadev-learn201410-1.blackboard.com
 meridian-institute.blackboard.com
 upctmp.blackboard.com
-www.cursosonline.blackboard.com
 mml.blackboard.com
 fresno-archive.blackboard.com
 utmb.blackboard.com
@@ -6399,7 +6378,6 @@ cpdlf.blackboard.com
 fcps9staging.blackboard.com
 host244.blackboard.com
 swccd.blackboard.com
-mobileorder.blackboard.com
 lcsc.blackboard.com
 gotomarket.blackboard.com
 fcmssaas-test.blackboard.com
@@ -6567,7 +6545,6 @@ csub2integrationqa15.blackboard.com
 msudenver-analytics.blackboard.com
 indwes2.blackboard.com
 mbro.blackboard.com
-managedhosting.blackboard.com
 jic-pyramid2018-analytics.blackboard.com
 utecvirtual.blackboard.com
 wilmcoll.blackboard.com
@@ -6765,13 +6742,12 @@ host179.blackboard.com
 upcstgtmp102014.blackboard.com
 ca.capture.blackboard.com
 cnu.blackboard.com
-www.metc.training.blackboard.com
+metc.training.blackboard.com
 bcm.blackboard.com
 unadmexico-test.blackboard.com
 google-meet-creator.eu.prod.bb-google-service.api.blackboard.com
 vpn-va2-ap.blackboard.com
 a-69-196-234-236.blackboard.com
-www.sftptransfer.blackboard.com
 a-69-196-235-123.blackboard.com
 a-69-196-233-6.blackboard.com
 saintpaul-temp.blackboard.com
@@ -6807,7 +6783,7 @@ cobbtemp.blackboard.com
 slowpokerodriguez.blackboard.com
 301104-148586.blackboard.com
 duoc-03981035.blackboard.com
-www.sponsorships.blackboard.com
+sponsorships.blackboard.com
 lctest.blackboard.com
 audencia.blackboard.com
 huawei-eval.blackboard.com
@@ -6894,7 +6870,6 @@ asij.blackboard.com
 uas-unimore-test.blackboard.com
 le-test.blackboard.com
 host15.blackboard.com
-www.mail1.blackboard.com
 dev.behind.blackboard.com
 nacctest.blackboard.com
 a-69-196-235-8.blackboard.com
@@ -6988,11 +6963,10 @@ nu-test.blackboard.com
 insper.blackboard.com
 ucavila.blackboard.com
 a-69-196-235-181.blackboard.com
-www.vpnes.blackboard.com
 laniertech-clone.blackboard.com
 explorancetest.blackboard.com
 wilsoncctest.blackboard.com
-www.metc.diagnostic.blackboard.com
+metc.diagnostic.blackboard.com
 learn.mfr1234.lctdev.local.core.blackboard.com
 roguecc-test.blackboard.com
 learnonline-dev.blackboard.com
@@ -7082,7 +7056,6 @@ dodeavs.blackboard.com
 contracts.blackboard.com
 humber.blackboard.com
 aiepclone.blackboard.com
-www.avaya2.blackboard.com
 grupoa-demo01.blackboard.com
 ucat-stage.blackboard.com
 redentor.blackboard.com
@@ -7116,7 +7089,6 @@ alt-learn.82ossulc.lcint001.int.core.blackboard.com
 lmunet-test.blackboard.com
 a-69-196-233-160.blackboard.com
 interstage.blackboard.com
-www.bbvtxoprd.blackboard.com
 newcastle.blackboard.com
 bakeroctober.blackboard.com
 eth4-3-bb1-va3.blackboard.com
@@ -7179,7 +7151,7 @@ axgrant.blackboard.com
 umaadmin.blackboard.com
 se1demo.blackboard.com
 kumc.blackboard.com
-www.metc.bmtcp.blackboard.com
+metc.bmtcp.blackboard.com
 smcm.blackboard.com
 learnonline-collaborate.blackboard.com
 monsmart.blackboard.com
@@ -7193,7 +7165,6 @@ iit-test.blackboard.com
 wvup-saastest.blackboard.com
 eth4-1-bb2-dc2.blackboard.com
 ji-test.blackboard.com
-mobileorderdemo.blackboard.com
 capitol-college.blackboard.com
 host125.blackboard.com
 learn.jmcc2401.lcdev002.dev.core.blackboard.com
@@ -7289,7 +7260,6 @@ host54.blackboard.com
 a-69-196-234-128.blackboard.com
 umcptest.blackboard.com
 ccac-migtemp2.blackboard.com
-bbss.blackboard.com
 bb2-va2.blackboard.com
 bakertest2.blackboard.com
 chaminadeonline.blackboard.com
@@ -7368,7 +7338,6 @@ nec-temp.blackboard.com
 uco-eval.blackboard.com
 uxlab-s.blackboard.com
 iir.blackboard.com
-www.bbvtxoqa.blackboard.com
 eth2-4-bb2-sv2.blackboard.com
 ucc-ie.blackboard.com
 uamont-pyramid2020-analytics.blackboard.com
@@ -7517,7 +7486,6 @@ ottawa-mh.blackboard.com
 uc-analytics.blackboard.com
 massmaritime-temp.blackboard.com
 hasselt-eval.blackboard.com
-www.vpn-eur.blackboard.com
 a-69-196-233-19.blackboard.com
 va-emcc-prod.blackboard.com
 a-69-196-235-231.blackboard.com
@@ -7609,7 +7577,7 @@ teste-kroton.blackboard.com
 utrgv.blackboard.com
 umalearn-temp.blackboard.com
 chc.blackboard.com
-www.metc.fnsd.blackboard.com
+metc.fnsd.blackboard.com
 cengageintegrationqa2.blackboard.com
 duqdev.blackboard.com
 westgatech.blackboard.com
@@ -7705,7 +7673,6 @@ learn.mfri0001.lcdev002.local.core.blackboard.com
 mhhestaging1.blackboard.com
 ur.blackboard.com
 mail-relay38-cse1.blackboard.com
-www.developer.appcatalog.blackboard.com
 a-69-196-233-76.blackboard.com
 ogeecheetech.blackboard.com
 a-69-196-234-210.blackboard.com
@@ -7776,7 +7743,6 @@ mail-relay6-cal1.blackboard.com
 bryant-test.blackboard.com
 ccc-clone.blackboard.com
 galileo-europe.blackboard.com
-careers.blackboard.com
 southbank.blackboard.com
 a-69-196-235-4.blackboard.com
 a-69-196-234-65.blackboard.com
@@ -7834,7 +7800,6 @@ uafs-pyramid2020-analytics.blackboard.com
 csuni.blackboard.com
 templeq42015cu4tmp.blackboard.com
 pekinhigh.blackboard.com
-globalevents.blackboard.com
 webconf.blackboard.com
 a-69-196-250-213.blackboard.com
 barry6.blackboard.com
@@ -7916,7 +7881,6 @@ tampatest.blackboard.com
 a-69-196-250-215.blackboard.com
 join.blackboard.com
 dgoredemo.blackboard.com
-pfinnonprd.blackboard.com
 familytreeuniversity.blackboard.com
 cune.blackboard.com
 rictest.blackboard.com
@@ -8009,7 +7973,6 @@ bustage.blackboard.com
 mjscollege.blackboard.com
 a-69-196-232-104.blackboard.com
 owusaas-test.blackboard.com
-letmeinstg.blackboard.com
 tamut.blackboard.com
 a-69-196-235-139.blackboard.com
 pt-pt.help.blackboard.com
@@ -8019,7 +7982,6 @@ socal-analytics.blackboard.com
 ca.foundations.blackboard.com
 denison.blackboard.com
 eth1-gw1-cse1.blackboard.com
-blendedschools.blackboard.com
 host66.blackboard.com
 original-performance-5.blackboard.com
 npcc-test.blackboard.com
@@ -8082,7 +8044,6 @@ uwa-test.blackboard.com
 ares.blackboard.com
 a-69-196-232-243.blackboard.com
 csuglobal-odb.blackboard.com
-leiden.blackboard.com
 bblearn-preview1.blackboard.com
 supporttest.blackboard.com
 communityworcester-stage.blackboard.com
@@ -8125,9 +8086,7 @@ sc-analytics.blackboard.com
 curtintest.blackboard.com
 cce.blackboard.com
 mail02.email.blackboard.com
-bbitcorpcgw.blackboard.com
 content-library-capture-eu-prod-sms-api.capture.blackboard.com
-www.vpnin.blackboard.com
 delawareareacc.blackboard.com
 ccfes.blackboard.com
 kac.blackboard.com
@@ -8241,7 +8200,6 @@ kckcceval.blackboard.com
 yorkschool.blackboard.com
 chemeketa-test.blackboard.com
 a-69-196-233-177.blackboard.com
-www.lync13fepool1.blackboard.com
 blogs.blackboard.com
 host253.blackboard.com
 learn.crathtest1.lcdev002.local.core.blackboard.com
@@ -8300,7 +8258,6 @@ a-69-196-233-203.blackboard.com
 a-69-196-235-208.blackboard.com
 campusvirtualtemp.blackboard.com
 av.blackboard.com
-www.vpnaz.blackboard.com
 senaintro-dr.blackboard.com
 chapman-test.blackboard.com
 jtsa.blackboard.com
@@ -8325,7 +8282,6 @@ bmc.blackboard.com
 nwtcmh.blackboard.com
 snhu-odb.blackboard.com
 enmuu.staging.blackboard.com
-www.developer.blackboard.com
 thecae.blackboard.com
 pisdeschool.blackboard.com
 eth4-3-bb1-sv2.blackboard.com
@@ -8354,7 +8310,6 @@ kumc-uas.blackboard.com
 bblearn-playground2.blackboard.com
 a-69-196-234-161.blackboard.com
 solarenergy.blackboard.com
-www.images.email.blackboard.com
 tccdclone.blackboard.com
 cipd.blackboard.com
 ctccs.blackboard.com
@@ -8458,7 +8413,6 @@ pgcconline-temp.blackboard.com
 cetys-mh.blackboard.com
 xbhs.blackboard.com
 aud.blackboard.com
-sponsorships.blackboard.com
 docker.blackboard.com
 qu-test.blackboard.com
 toyotastaging.blackboard.com
@@ -8579,7 +8533,6 @@ le-production.blackboard.com
 a-69-196-232-126.blackboard.com
 ve7-gw1-va2.blackboard.com
 neuonline.blackboard.com
-vpndc.blackboard.com
 host14.blackboard.com
 gwinnetttech.blackboard.com
 eth4-4-bb2-sv2.blackboard.com
@@ -8728,7 +8681,6 @@ host172.blackboard.com
 analytics-sydvpn.blackboard.com
 mail-relay5-cse1.blackboard.com
 test-usc.blackboard.com
-www.travel.blackboard.com
 mhhestaging2-internal.blackboard.com
 fr-fr.help.blackboard.com
 a-69-196-234-150.blackboard.com
@@ -8865,7 +8817,6 @@ findlay-stage.blackboard.com
 southernmissstaging.blackboard.com
 odu-stage.blackboard.com
 pfwstage.blackboard.com
-mobileorderdemoapi.blackboard.com
 beachboardtest.blackboard.com
 ottawa30.blackboard.com
 nic.blackboard.com
@@ -8924,7 +8875,7 @@ onlinehs.blackboard.com
 krotonprodclone5.blackboard.com
 senactemp.blackboard.com
 a-69-196-235-117.blackboard.com
-www.trainingcenter.blackboard.com
+trainingcenter.blackboard.com
 a-69-196-235-251.blackboard.com
 blackboard-209-133-91-2.blackboard.com
 cursos-udem.blackboard.com
@@ -9081,13 +9032,11 @@ bbkey.blackboard.com
 ue-stage.blackboard.com
 a-69-196-234-171.blackboard.com
 jnet.blackboard.com
-sipaccess.blackboard.com
 manage-bbpr.blackboard.com
 cambridgehealth.blackboard.com
 a-69-196-232-207.blackboard.com
 a-69-196-233-102.blackboard.com
 learn.nmszfj61.lcdev001.local.core.blackboard.com
-vfone-cts-us.blackboard.com
 kroton-upgrade-test.blackboard.com
 cgsctest.blackboard.com
 gcal.blackboard.com
@@ -9286,7 +9235,6 @@ indstate.blackboard.com
 host63.blackboard.com
 secureapp.blackboard.com
 sunywcc.blackboard.com
-www.assets.blackboard.com
 hpu-temp.blackboard.com
 ca.authz.api.blackboard.com
 learn.mfr1234.dncv2pu1.dev.core.blackboard.com
@@ -9303,7 +9251,6 @@ host143.blackboard.com
 blackboard-209-133-74-3.blackboard.com
 bb-ualr.blackboard.com
 sanjacinto.blackboard.com
-mobileorderprodapi.blackboard.com
 ccad.blackboard.com
 paisboa.blackboard.com
 alt-learn.663009aae88ed.lcint001.int.core.blackboard.com
@@ -9426,7 +9373,6 @@ atu-test.blackboard.com
 sdcnursing.blackboard.com
 wichitastate2.blackboard.com
 sanjacinto-temp.blackboard.com
-vpnla.blackboard.com
 bellevue-pyramid2018.blackboard.com
 pitt-temp.blackboard.com
 actioncard-sp.blackboard.com
@@ -9470,7 +9416,7 @@ eud-eval.blackboard.com
 bpptest.blackboard.com
 hec.blackboard.com
 pointpark.blackboard.com
-www.metc.hcs.blackboard.com
+metc.hcs.blackboard.com
 a-69-196-233-26.blackboard.com
 ulatinacr-staging.blackboard.com
 usw.blackboard.com
@@ -9558,7 +9504,6 @@ inter.blackboard.com
 ui-unibe.blackboard.com
 shsu-analytics.blackboard.com
 blackboard-209-133-75-8.blackboard.com
-trainingcenter.blackboard.com
 iona.blackboard.com
 ctccnode04.blackboard.com
 wku.blackboard.com
@@ -9592,7 +9537,7 @@ learn.0a0oxr2t.lcdev001.dev-02.core.blackboard.com
 alt-learn.cwp3ivor.lcdev001.dev.core.blackboard.com
 learn.igmneq7e.lcdev001.dev.core.blackboard.com
 alt-learn.80tuq4lz.lcdev001.dev.core.blackboard.com
-*.prod.notifications.api.blackboard.com
+prod.notifications.api.blackboard.com
 alt-learn.30pt20ye.lcdev001.dev.core.blackboard.com
 learn.30pt20ye.lcdev001.dev.core.blackboard.com
 alt-learn.weitest1.lcdev001.dev.core.blackboard.com
@@ -9622,7 +9567,6 @@ alt-learn.ibtsint.lcint001.int.core.blackboard.com
 learn.ibtsint.lcint001.int.core.blackboard.com
 alt-learn.ibtslocal.lcdev001.dev.core.blackboard.com
 alt-learn.ibtsdev.lcdev001.dev.core.blackboard.com
-*.foundations.blackboard.com
 learn.w5ieg0wa.lcdev001.local.core.blackboard.com
 alt-learn.w5ieg0wa.lcdev001.local.core.blackboard.com
 alt-learn.ibtslocal.lcdev001.local.core.blackboard.com
@@ -9684,7 +9628,6 @@ learn.gyprovtest3.lcint001.int.core.blackboard.com
 alt-learn.gyprovtest3.lcint001.int.core.blackboard.com
 learn.gyoung02.lc000001.blackboard.com
 alt-learn.gyoung02.lc000001.blackboard.com
-*.cloudbb.blackboard.com
 learn.ec03v248.lcdev001.dev.core.blackboard.com
 alt-learn.ec03v248.lcdev001.dev.core.blackboard.com
 alt-learn.gyprovtest1.lcdev001.dev.core.blackboard.com
@@ -9700,8 +9643,6 @@ au.video-studio.api.blackboard.com
 ca.video-studio.api.blackboard.com
 eu.video-studio.api.blackboard.com
 us.video-studio.api.blackboard.com
-*.sgc.api.blackboard.com
-*.kr.api.blackboard.com
 alt-learn.ad23c.lctp0001.tp.core.blackboard.com
 alt-learn.v2x7phvv.lcdev001.dev.core.blackboard.com
 alt-learn.saidecomm6.lcdev001.dev.core.blackboard.com
@@ -9724,7 +9665,6 @@ alt-learn.adsite.lcint001.int.core.blackboard.com
 alt-learn.ce0hhtst.lcint001.int.core.blackboard.com
 alt-5b5f84b0e8c04.blackboard.com
 learn.itdsto2u.lcdev001.local.core.blackboard.com
-*.au.api.blackboard.com
 alt-learn.adclone9.lcdev002.dev.core.blackboard.com
 learn.adclone7.lcdev002.local.core.blackboard.com
 alt-learn.adclone7.lcdev002.local.core.blackboard.com
@@ -9799,15 +9739,9 @@ learn.clonetgt6.lcdev002.dev.core.blackboard.com
 alt-learn.adurai123.lcdev002.dev.core.blackboard.com
 learn.ethan2.ethanflt.local.core.blackboard.com
 alt-learn.ethan2.ethanflt.local.core.blackboard.com
-*.help.blackboard.com
-*.korea.api.blackboard.com
 alt-learn.1gsof1ud.lcint001.int.core.blackboard.com
-*.us.api.blackboard.com
-*.eu.api.blackboard.com
-*.ca.api.blackboard.com
 alt-learn.jmcc2401.lcdev002.local.core.blackboard.com
 ui-ap2.extensions.blackboard.com
-*.apse1c.api.blackboard.com
 learn.z7byrl4a.lcdev001.local.core.blackboard.com
 learn.clonetest5.lcdev002.dev.core.blackboard.com
 alt-learn.clonetest5.lcdev002.dev.core.blackboard.com
@@ -9818,16 +9752,12 @@ alt-learn.gy12345.gytestfl.local.core.blackboard.com
 learn.gy12345.gytestfl.local.core.blackboard.com
 learn.thomas.a123.dev.core.blackboard.com
 alt-learn.thomas.a123.dev.core.blackboard.com
-*.sa.api.blackboard.com
-*.apse1p.api.blackboard.com
 alt-learn.mfr1234.lctdev.blackboard.com
 learn.mfr1234.lctdev.blackboard.com
 ca.extensions.blackboard.com
 learn.mfrifsx1.mfriesen-fsx.blackboard.com
 alt-learn.mfrifsx1.mfriesen-fsx.blackboard.com
 illuminate.blackboard.com
-*.us-gov-west-1.api.blackboard.com
-*.email.blackboard.com
 eu.config-inst-pages-prod.config.api.blackboard.com
 ca.config-inst-pages-prod.config.api.blackboard.com
 au.config-inst-pages-prod.config.api.blackboard.com
@@ -9843,23 +9773,9 @@ us.prod.lms-achievements.api.blackboard.com
 us.config-inst-pages-prod-stage.config.api.blackboard.com
 config-inst-pages-prod.config.api.blackboard.com
 config-inst-pages-prod-stage.config.api.blackboard.com
-*.blog.blackboard.com
-*.cstp.blackboard.com
-*.login.blackboard.com
-*.collab-session-authz.api.blackboard.com
-*.tp.collab-session-authz.api.blackboard.com
-*.api.blackboard.com
-*.reach.blackboard.com
-*.ca.foundations.blackboard.com
-www.vpn-usa.blackboard.com
-www.vpn-ind.blackboard.com
-www.vpnce.blackboard.com
-www.community.blackboard.com
 lyncfe4.blackboard.com
 hasselt-testmig.blackboard.com
 ca-central-1-san1.blackboard.com
-*.dev.bbss.blackboard.com
-*.blendedschools.blackboard.com
 alt-59d68b9738f4e.blackboard.com
 alt-5ff48394bbe36.blackboard.com
 alt-5b6bce0407d12.blackboard.com
@@ -9979,7 +9895,6 @@ ntu-livemig.blackboard.com
 galileo-global-test.blackboard.com
 sckans.blackboard.com
 fmarion.blackboard.com
-prod.notifications.api.blackboard.com
 uorg-test.blackboard.com
 tp-test.blackboard.com
 x2dtest.blackboard.com

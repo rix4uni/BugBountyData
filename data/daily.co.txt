@@ -163,7 +163,6 @@ blkterritory.daily.co
 niftynei.daily.co
 letsgetdigital.daily.co
 trainiac.daily.co
-www.daily.co
 guided.daily.co
 truewind.daily.co
 preview-8019.staging.daily.co
@@ -300,16 +299,7 @@ trust.daily.co
 af-south-1.wss.daily.co
 jensenadsolutions.daily.co
 blog.staging.daily.co
-*.wss.daily.co
-*.daily.co
-*.eu-west-2.wss.daily.co
-*.eu-central-1.wss.daily.co
-*.ap-south-1.wss.daily.co
-*.sa-east-1.wss.daily.co
 bots.staging.daily.co
-*.ap-southeast-2.wss.daily.co
-*.af-south-1.wss.daily.co
-*.ap-northeast-2.wss.daily.co
 preview-12083.staging.daily.co
 preview-11978.staging.daily.co
 relaxing.daily.co
@@ -332,6 +322,3 @@ preview-11111.staging.daily.co
 banana.ambient-scribe-dev.daily.co
 main.ambient-scribe-dev.daily.co
 for-deploy-testing.ambient-scribe-dev.daily.co
-*.ap-southeast-1.wss.daily.co
-*.us-east-1.wss.daily.co
-*.preview-12083.staging.daily.co

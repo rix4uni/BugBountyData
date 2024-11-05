@@ -1,4 +1,3 @@
-www.aprms.insulet.com
 conjur-master.aprms.insulet.com
 omnipod5-web-app.aprms.insulet.com
 autodiscover.aprms.insulet.com
@@ -18,15 +17,15 @@ docs.aprms.insulet.com
 vhiucpclcc01.sap.aprms.insulet.com
 vhiucqgtdb.sap.aprms.insulet.com
 vhiucpgtci.sap.aprms.insulet.com
-www.employeeonboarding.aprms.insulet.com
+employeeonboarding.aprms.insulet.com
 jira-dev.aprms.insulet.com
 vhiucotdotc01.sap.aprms.insulet.com
 s4prd.sap.aprms.insulet.com
 mail-gw.aprms.insulet.com
-www.fringe4.aprms.insulet.com
+fringe4.aprms.insulet.com
 sgddr.aprms.insulet.com
 sugartest.aprms.insulet.com
-www.omnipod5-web-app-staging.aprms.insulet.com
+omnipod5-web-app-staging.aprms.insulet.com
 wyatt.aprms.insulet.com
 express.aprms.insulet.com
 postman.aprms.insulet.com
@@ -44,7 +43,7 @@ zero.aprms.insulet.com
 sav2.aprms.insulet.com
 enterpriseregistration.aprms.insulet.com
 apps-int.aprms.insulet.com
-www.guestpod.aprms.insulet.com
+guestpod.aprms.insulet.com
 ins-exch16-01.aprms.insulet.com
 helpdesk.aprms.insulet.com
 aprms.aprms.insulet.com
@@ -60,20 +59,16 @@ wireless-mail.aprms.insulet.com
 securemail.aprms.insulet.com
 savrem.aprms.insulet.com
 vhiucws4wd01.sap.aprms.insulet.com
-www.fringe.aprms.insulet.com
+fringe.aprms.insulet.com
 slinky.aprms.insulet.com
 adfs.aprms.insulet.com
 empledta.aprms.insulet.com
 vhiuchfddb.sap.aprms.insulet.com
 apps.aprms.insulet.com
-fringe.aprms.insulet.com
 vhiucpfsdb.sap.aprms.insulet.com
-www.slinky.aprms.insulet.com
 studio54.aprms.insulet.com
 vhiucws3wd01.sap.aprms.insulet.com
-fringe4.aprms.insulet.com
 jira-test-int.aprms.insulet.com
-www.omnipod5-web-app.aprms.insulet.com
 actonpod.aprms.insulet.com
 fiori-tst.sap.aprms.insulet.com
 zixvpm01.aprms.insulet.com
@@ -85,7 +80,6 @@ aprms-int.aprms.insulet.com
 vhiucpsaweb01.sap.aprms.insulet.com
 monitor.aprms.insulet.com
 jenkins-cloud.aprms.insulet.com
-www.aprms.aprms.insulet.com
 vhiucdfjdb.sap.aprms.insulet.com
 vhiucdsaweb01.sap.aprms.insulet.com
 carnegie.aprms.insulet.com
@@ -104,7 +98,6 @@ sav.aprms.insulet.com
 fiori.sap.aprms.insulet.com
 prd-ing.aprms.insulet.com
 s4dev.sap.aprms.insulet.com
-www.fringe1.aprms.insulet.com
 vhiucqs4ci.sap.aprms.insulet.com
 pki.aprms.insulet.com
 omnipod5-web-app-test.aprms.insulet.com
@@ -112,7 +105,6 @@ vhiucpclcc02.sap.aprms.insulet.com
 di-uat-py.aprms.insulet.com
 vhiucdgtci.sap.aprms.insulet.com
 sticky.aprms.insulet.com
-employeeonboarding.aprms.insulet.com
 vhiucds4db.sap.aprms.insulet.com
 enterpriseenrollment.aprms.insulet.com
 tst-ing.aprms.insulet.com
@@ -127,9 +119,7 @@ vhiucdfsci.sap.aprms.insulet.com
 investor.aprms.insulet.com
 vhiucdgtdb.sap.aprms.insulet.com
 fringe2.aprms.insulet.com
-www.omnipod5-web-app-test.aprms.insulet.com
 appscb.aprms.insulet.com
-www.fringe2.aprms.insulet.com
 fringe5.aprms.insulet.com
 express1.aprms.insulet.com
 fiori-dev.sap.aprms.insulet.com
@@ -137,7 +127,6 @@ di-tst-py.aprms.insulet.com
 vhiucps4db.sap.aprms.insulet.com
 vhiucpfjdb.sap.aprms.insulet.com
 shell.aprms.insulet.com
-omnipod5-web-app-staging.aprms.insulet.com
 vhiucdfsdb.sap.aprms.insulet.com
 ins-expe1.aprms.insulet.com
 onguard.aprms.insulet.com

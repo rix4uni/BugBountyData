@@ -1,7 +1,7 @@
 cloudron.proojekte.cloud
 nextcloud-old.proojekte.cloud
 dashboard.netmaker.proojekte.cloud
-www.wordpress.proojekte.cloud
+wordpress.proojekte.cloud
 test2.wordpress.proojekte.cloud
 test.wordpress.proojekte.cloud
 outline-storage.proojekte.cloud
@@ -15,7 +15,6 @@ cs2-nbg-hetzner.proojekte.cloud
 infinitewp.proojekte.cloud
 infinitewp.wordpress.proojekte.cloud
 nocodb.proojekte.cloud
-wordpress.proojekte.cloud
 learndash.wordpress.proojekte.cloud
 tutorlms.wordpress.proojekte.cloud
 dev.sveltekit.proojekte.cloud
@@ -43,7 +42,6 @@ nextcloud.proojekte.cloud
 rocketchat.proojekte.cloud
 bitwarden-rs.proojekte.cloud
 syncthing.cs1-nbg-hetzner.proojekte.cloud
-www.proojekte.cloud
 syncthing.web.proojekte.cloud
 lychee.proojekte.cloud
 autoconfig.proojekte.cloud

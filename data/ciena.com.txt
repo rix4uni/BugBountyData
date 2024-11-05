@@ -1,4 +1,3 @@
-*.cal.ciena.com
 cal.ciena.com
 my-uat.ciena.com
 my.ciena.com
@@ -13,7 +12,6 @@ video.ciena.com
 dev.dev.ciena.com
 ace.ciena.com
 springboard.ciena.com
-www.springboard.ciena.com
 supplierportalpoag.ciena.com
 tenant.apps.ciena.com
 media.ciena.com
@@ -28,7 +26,6 @@ cs.ciena.com
 test-epxvpn.ciena.com
 test-eastus2-epxvpn.ciena.com
 test-centralus-epxvpn.ciena.com
-www.springboarddev.ciena.com
 springboarddev.ciena.com
 eastus2-epxvpn.ciena.com
 learningsupport.ciena.com
@@ -49,7 +46,6 @@ insights.ciena.com
 euvn.ciena.com
 apps.ciena.com
 uat.apps.ciena.com
-www.ciena.com
 cappstest.ciena.com
 gatewaychecktest.cs.ciena.com
 go.ciena.com
@@ -79,7 +75,6 @@ test.apps.ciena.com
 gsestools.ciena.com
 amorxsewebd01.ciena.com
 phpadmin.cloudopsportal.ciena.com
-www.springboarddemo.ciena.com
 springboarddemo.ciena.com
 prod.cloudopsportal.ciena.com
 cloudopsportal.ciena.com
@@ -111,7 +106,6 @@ aze2pwaacr3.ciena.com
 aze2pwaaiqb1.ciena.com
 aze2pwaaiqb2.ciena.com
 aze2pwaaiqb3.ciena.com
-www.aacontrolroom.ciena.com
 aiagent.ciena.com
 entrustssltest.ciena.com
 entrustssltestboth.ciena.com
@@ -140,7 +134,6 @@ events.ciena.com
 staging.cloudsvcs.ciena.com
 assessment.ciena.com
 connect.ciena.com
-www.customerservice.ciena.com
 dev.m.ciena.com
 golinks.ciena.com
 m.ciena.com

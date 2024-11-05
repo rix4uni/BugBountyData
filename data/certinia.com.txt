@@ -7,8 +7,8 @@ fr.staging.certinia.com
 helpsystemtest.certinia.com
 mkt.certinia.com
 staging.directory.certinia.com
-www.staging.certinia.com
-www.develop.certinia.com
+staging.certinia.com
+develop.certinia.com
 analytics.ci.internal.certinia.com
 confluence-cf.staging.internal.certinia.com
 jenkins.dev.ci.internal.certinia.com
@@ -47,7 +47,6 @@ confluence2.staging.internal.certinia.com
 devops.dev.ci.internal.certinia.com
 directory.staging.certinia.com
 other.staging.internal.certinia.com
-staging.certinia.com
 library.certinia.com
 work-graph.ci.internal.certinia.com
 fr.certinia.com
@@ -89,13 +88,11 @@ image.mail.certinia.com
 steampipe.internal.certinia.com
 traefik.sfry.internal.certinia.com
 backstage.internal.certinia.com
-develop.certinia.com
 ngroktest.certinia.com
 ssh.bitbucket.internal.certinia.com
 the-phish.certinia.com
 xray-staging.certinia.com
 sfry-sandbox.internal.certinia.com
-www.certinia.com
 zerotrustpoc.certinia.com
 confluencetwo.staging.internal.certinia.com
 engage.certinia.com

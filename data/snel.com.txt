@@ -20,7 +20,6 @@ plesk01.snel.com
 monitor.snel.com
 staging.snel.com
 backup-rtd.snel.com
-www.snel.com
 kvmconsole.snel.com
 dev2.snel.com
 lp.snel.com
@@ -112,7 +111,6 @@ files.snel.com
 server192.snel.com
 server87.snel.com
 server217.snel.com
-www.hosted-by.snel.com
 purehv07.snel.com
 echoip.nl1.k8s.snel.com
 rtd-sdc.snel.com
@@ -383,7 +381,6 @@ server162.snel.com
 server155.snel.com
 server309.snel.com
 ss.snel.com
-www.cpanel1.snel.com
 http.docker.snel.com
 session.snel.com
 custom.7ted-by.snel.com

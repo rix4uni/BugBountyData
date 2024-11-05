@@ -47,7 +47,6 @@ c.iryna.trustradius.com
 serhii.trustradius.com
 c.simona.trustradius.com
 vadym.trustradius.com
-www.trustradius.com
 unity.trustradius.com
 b.oleksandr.trustradius.com
 b.vadym.trustradius.com
@@ -282,7 +281,6 @@ internal-api.dev.trustradius.com
 tr-web-2938.dev.trustradius.com
 bvt1.trustradius.com
 internal-api.prod.trustradius.com
-www.thankyou.trustradius.com
 slackbot.stage.trustradius.com
 tr-web-3020.dev.trustradius.com
 tr-web-3033.dev.trustradius.com
@@ -378,6 +376,6 @@ media-test.trustradius.com
 argocd-webhook.dev.trustradius.com
 a.khrystyna.trustradius.com
 jim.trustradius.com
-*.prod.trustradius.com
+prod.trustradius.com
 redisinsights.stage.gcp.trustradius.com
 redisinsights.prod.gcp.trustradius.com

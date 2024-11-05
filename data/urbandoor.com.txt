@@ -1,5 +1,4 @@
 ci.urbandoor.com
-www.demo.urbandoor.com
 demo.urbandoor.com
 static.urbandoor.com
 admin.urbandoor.com
@@ -14,7 +13,6 @@ demo.api.urbandoor.com
 provider.urbandoor.com
 demo.provider.urbandoor.com
 marketplace.urbandoor.com
-www.urbandoor.com
 syslog.devops.urbandoor.com
 staging.urbandoor.com
 provider.demo.urbandoor.com
@@ -30,9 +28,7 @@ admin.demo.urbandoor.com
 ops.demo.urbandoor.com
 api-testing.urbandoor.com
 metrics.urbandoor.com
-www.staging.urbandoor.com
 link.urbandoor.com
-*.urbandoor.com
 provider.staging.urbandoor.com
 kbounces.urbandoor.com
 guest.urbandoor.com

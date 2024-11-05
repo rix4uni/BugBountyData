@@ -2,7 +2,7 @@ portfolio-us-east-2.api.cx.metamask.io
 notification.api.cx.metamask.io
 accounts-us-east-2.api.cx.metamask.io
 price.api.cx.metamask.io
-www.api.cx.metamask.io
+api.cx.metamask.io
 evm.api.cx.metamask.io
 gas.api.cx.metamask.io
 push.api.cx.metamask.io
@@ -28,7 +28,6 @@ gas-us-east-2.api.cx.metamask.io
 accounts.api.cx.metamask.io
 primitives.api.cx.metamask.io
 authentication.api.cx.metamask.io
-api.cx.metamask.io
 token.api.cx.metamask.io
 proxy-us-east-2.api.cx.metamask.io
 transaction.api.cx.metamask.io
@@ -230,18 +229,8 @@ blockaid.metamask.io
 gas.dev-api.cx.metamask.io
 fund-loss-investigation.metamask.io
 infuranet-faucet.metamask.io
-*.uat-api.cx.metamask.io
-www.metamask.io
 approve.card.metamask.io
 card.metamask.io
 dapp-scanning.api.cx.metamask.io
 developer.metamask.io
 signature-insights.api.cx.metamask.io
-www.dev.portfolio.metamask.io
-www.home.metamask.io
-www.portfolio.metamask.io
-www.uat-static.cx.metamask.io
-www.dev-static.cx.metamask.io
-www.stage.portfolio.metamask.io
-www.static.cx.metamask.io
-www.support.metamask.io

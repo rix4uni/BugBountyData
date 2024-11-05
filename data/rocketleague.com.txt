@@ -1,7 +1,6 @@
 tracking.rocketleague.com
 competitive.rocketleague.com
 ftp.rocketleague.com
-www.rocketleague.com
 email.mg.rocketleague.com
 mail.rocketleague.com
 zendesk1.rocketleague.com
@@ -34,7 +33,6 @@ rewards-test.rocketleague.com
 -k8s-dev.rocketleague.com
 fanclash-staging.rocketleague.com
 rewards.rocketleague.com
-*.rocketleague.com
 dev.oauth.rocketleague.com
 dev.datlag.pulz.ui.navigation.screen.initial.home.rocketleague.com
 pl.rocketleague.com

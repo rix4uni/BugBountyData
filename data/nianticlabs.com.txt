@@ -980,13 +980,7 @@ wayspot-service.nianticlabs.com
 web-ng-components.eng.nianticlabs.com
 whismur-proxy.eng.nianticlabs.com
 www-demo.eng.nianticlabs.com
-www.build-analytics.eng.nianticlabs.com
-www.data.eng.nianticlabs.com
-www.nianticlabs.com
-www.research.nianticlabs.com
-www.unsubscribe-dev.eng.nianticlabs.com
-www.unsubscribe-int.eng.nianticlabs.com
-www.unsubscribe.nianticlabs.com
+data.eng.nianticlabs.com
 advsync-dcasadevall.eng.nianticlabs.com
 ai-charlie.eng.nianticlabs.com
 analytics-dev-aghaleb.eng.nianticlabs.com
@@ -1198,7 +1192,6 @@ coreinfra-test-ry.eng.nianticlabs.com
 coreinfra-test-ry.nianticlabs.com
 d2d-arbe-grafana.eng.nianticlabs.com
 d2d-arbe-prometheus.eng.nianticlabs.com
-data.eng.nianticlabs.com
 deployments.drvenus-dev.eng.nianticlabs.com
 dev-anarula-ingress.eng.nianticlabs.com
 dev-nianticgar-graf.eng.nianticlabs.com
@@ -1801,8 +1794,6 @@ wild-sanctuary-dev.eng.nianticlabs.com
 wild-sanctuary-integ.eng.nianticlabs.com
 wild-sanctuary-stg.eng.nianticlabs.com
 winston.drvenus-dev.eng.nianticlabs.com
-www.corp.nianticlabs.com
-www.newsletter.nianticlabs.com
 yang-dev-holoholo.eng.nianticlabs.com
 yang-dev-mfe.eng.nianticlabs.com
 yang-dev-titan.eng.nianticlabs.com

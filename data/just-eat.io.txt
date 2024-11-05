@@ -1,13 +1,10 @@
-*.just-eat.io
-*.api.just-eat.io
-*.i18n.api.just-eat.io
 api.just-eat.io
+i18n.api.just-eat.io
 au-partnerapi.just-eat.io
 aus.api.just-eat.io
 dr-ie-partnerapi.just-eat.io
 dr-uk-partnerapi.just-eat.io
 es-partnerapi.just-eat.io
-i18n.api.just-eat.io
 ie-partnerapi.just-eat.io
 it-partnerapi.just-eat.io
 nz-partnerapi.just-eat.io
@@ -655,7 +652,6 @@ ac1f6bc4689acalfwinternal.aus.api.just-eat.io
 partnerfw-www.aus.api.just-eat.io
 ac1f6bc2689acalfwevents0stage.aus.api.just-eat.io
 ac1f6bc2689acalfws3-dev1.aus.api.just-eat.io
-www.just-eat.io
 ac1f6bc2689acalfwpartnerfw1.aus.api.just-eat.io
 0-0-000-0000-4610-c6c04f374332-00fw-stage.aus.api.just-eat.io
 0-0-00-stgskins-ksy3151stage.aus.api.just-eat.io
@@ -763,5 +759,4 @@ apachefw-test.aus.api.just-eat.io
 privatefw1.aus.api.just-eat.io
 0-0-000-0000-4610-c6c04f374332-00fwuat.aus.api.just-eat.io
 ac1f6bc2689acalfweng1.aus.api.just-eat.io
-*.aus.api.just-eat.io
 rotabanner.just-eat.io

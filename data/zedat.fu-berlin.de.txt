@@ -1,5 +1,4 @@
 vpn.zedat.fu-berlin.de
-www.zedat.fu-berlin.de
 webmail1.zedat.fu-berlin.de
 exp-jabber-e2.zedat.fu-berlin.de
 ldap-legacy1.zedat.fu-berlin.de
@@ -22,7 +21,7 @@ baustelle1.zedat.fu-berlin.de
 rads1.zedat.fu-berlin.de
 racks.zedat.fu-berlin.de
 nagios.zedat.fu-berlin.de
-www.news.zedat.fu-berlin.de
+news.zedat.fu-berlin.de
 software.zedat.fu-berlin.de
 web.zedat.fu-berlin.de
 login.zedat.fu-berlin.de
@@ -48,11 +47,10 @@ faser-neu.zedat.fu-berlin.de
 identity.zedat.fu-berlin.de
 checkin.zedat.fu-berlin.de
 abz.zedat.fu-berlin.de
-news.zedat.fu-berlin.de
 vcse.zedat.fu-berlin.de
 cms.zedat.fu-berlin.de
 startrek.zedat.fu-berlin.de
-www.guelmez.zedat.fu-berlin.de
+guelmez.zedat.fu-berlin.de
 ftp.zedat.fu-berlin.de
 paprika.zedat.fu-berlin.de
 backup.zedat.fu-berlin.de

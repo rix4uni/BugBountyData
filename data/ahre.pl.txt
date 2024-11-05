@@ -5,7 +5,7 @@ notatki.ahre.pl
 admin.o.ahre.pl
 ksiazki.ahre.pl
 nextcloud.ahre.pl
-www.o.ahre.pl
+o.ahre.pl
 projekty.ahre.pl
 sejf.ahre.pl
 wideo.ahre.pl
@@ -26,7 +26,6 @@ collabora.ahre.pl
 onlyoffice.ahre.pl
 galway.ahre.pl
 slodkiechwile.ahre.pl
-www.ika.ahre.pl
 smtp.ahre.pl
 czat.ahre.pl
 jedrzejko.ahre.pl
@@ -34,12 +33,10 @@ admin.jedrzejko.ahre.pl
 pobierz.ahre.pl
 skan.ahre.pl
 webmail.dysk.ahre.pl
-www.slodkiechwile.ahre.pl
 mx.ahre.pl
 mailtest.ahre.pl
 faktury.ahre.pl
 pop3.ahre.pl
-www.ahre.pl
 nas.ahre.pl
 spotkanie.ahre.pl
 zabbix.ahre.pl
@@ -48,15 +45,10 @@ admin.ika.ahre.pl
 belfast.ahre.pl
 dysk.ahre.pl
 nms.ahre.pl
-www.dysk.ahre.pl
-www.trebacka4.ahre.pl
 admin.dysk.ahre.pl
-www.faktury.ahre.pl
 autoconfig.ahre.pl
-www.jedrzejko.ahre.pl
 pop.ahre.pl
 projekty-api.ahre.pl
-www.perly.ahre.pl
 auth.spotkanie.ahre.pl
 radio.ahre.pl
 admin.perly.ahre.pl
@@ -71,4 +63,3 @@ napisy.ahre.pl
 vpn.ahre.pl
 webmail.faktury.ahre.pl
 dublin.ahre.pl
-o.ahre.pl

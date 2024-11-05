@@ -1,9 +1,9 @@
-*.authentication.uat.moonpig.net
-*.api.authentication.uat.moonpig.net
-*.content.prod.moonpig.net
-*.webhook.content.prod.moonpig.net
-*.authentication.prod.moonpig.net
-*.api.authentication.prod.moonpig.net
+authentication.uat.moonpig.net
+api.authentication.uat.moonpig.net
+content.prod.moonpig.net
+webhook.content.prod.moonpig.net
+authentication.prod.moonpig.net
+api.authentication.prod.moonpig.net
 auth.prod.moonpig.net
 auth.uat.moonpig.net
 api.uat.moonpig.net
@@ -67,7 +67,7 @@ api.content.dev.moonpig.net
 api.factory-app-spike.dev.moonpig.net
 api.search-lturmanidze.dev.moonpig.net
 product.dev.moonpig.net
-www.web-purchase.uat.moonpig.net
+web-purchase.uat.moonpig.net
 postal-options-legacy.dev.moonpig.net
 basket.dev.moonpig.net
 fulfilment-products.dev.moonpig.net
@@ -83,7 +83,7 @@ graphql-schema-composition-play.gateway.dev.moonpig.net
 democoarse2.dev.moonpig.net
 api.mnpg-spike-micrograph2.dev.moonpig.net
 favourites.dev.moonpig.net
-www.web-personalise.dev.moonpig.net
+web-personalise.dev.moonpig.net
 api.studio.prod.moonpig.net
 api.platform.dev.moonpig.net
 api.democoarse2.uat.moonpig.net
@@ -93,7 +93,6 @@ inlays.dev.moonpig.net
 product-mapper.studio.prod.moonpig.net
 internal-55.product.dev.moonpig.net
 api.data-inference.uat.moonpig.net
-webhook.content.prod.moonpig.net
 api.business.dev.moonpig.net
 api.commercetools-proxy.uat.moonpig.net
 edge.spike-plc.dev.moonpig.net
@@ -106,5 +105,5 @@ search-legacy.prod.moonpig.net
 api.recipients.dev.moonpig.net
 api.spike-auth.dev.moonpig.net
 recommendations.dev.moonpig.net
-*.consignments.prod.moonpig.net
-*.api.consignments.prod.moonpig.net
+consignments.prod.moonpig.net
+api.consignments.prod.moonpig.net

@@ -1,4 +1,3 @@
-*.exon.io
 aaaadefaultssl.exon.io
 staging.exon.io
 netdata.next01.exon.io
@@ -44,7 +43,6 @@ analytics.exon.io
 blog.exon.io
 esi.exon.io
 ruby.exon.io
-www.exon.io
 clientzone.exon.io
 mining.exon.io
 whm.exon.io
@@ -64,13 +62,11 @@ prague.exon.io
 fwl.prg.exon.io
 cdn.exon.io
 cpanel.next03.exon.io
-www.enterprise-email1.exon.io
-www.enterprise-cpanel1.exon.io
 enterprise-email1.exon.io
+enterprise-cpanel1.exon.io
 passbolt.exon.io
 lsws.exon.io
 safe-vision.exon.io
-enterprise-cpanel1.exon.io
 next.exon.io
 dashboard.exon.io
 cpanel.exon.io

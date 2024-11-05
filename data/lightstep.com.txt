@@ -60,7 +60,6 @@ meta.lightstep.com
 internal-public.lightstep.com
 api-grpc.lightstep.com
 api-docs.lightstep.com
-www.lightstep.com
 api.lightstep.com
 ingest.lightstep.com
 collector-grpc-meta.lightstep.com

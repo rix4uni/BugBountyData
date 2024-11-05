@@ -94,7 +94,6 @@ job-dashboard.scoober.com
 payroll-web.scoober.com
 scoober-courier-api.dev.scoober.com
 tracker.dev.scoober.com
-www.scoober.com
 ticket.dev.scoober.com
 assets.dev.scoober.com
 cookie-privacy.dev.scoober.com
@@ -124,14 +123,8 @@ payroll-api.dev.scoober.com
 shiftplannerapp.dev.scoober.com
 shiftplanning.dev.scoober.com
 wfm.scoober.com
-*.beta.scoober.com
-*.internal.scoober.com
-*.dev.scoober.com
-*.scoober.com
-*.automation.scoober.com
 chat2.beta.scoober.com
 kpi-api.dev.scoober.com
-www.dev.scoober.com
 broadcasts.dev.scoober.com
 city-configurator.beta.scoober.com
 _dmarc.scoober.com

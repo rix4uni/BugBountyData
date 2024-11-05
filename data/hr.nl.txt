@@ -79,7 +79,6 @@ test.cmgt.hr.nl
 mobile-api.hr.nl
 vpn-med.hr.nl
 mydesktop-test.hr.nl
-www.profielen.hr.nl
 debian.hr.nl
 cmgt.hr.nl
 student.osiris.hr.nl
@@ -141,7 +140,6 @@ vakgroep.hosted.hr.nl
 timelapse.hr.nl
 login2.hr.nl
 mysql.gmt.hr.nl
-www.med.hr.nl
 mobilityonline.hr.nl
 med.cmd.hr.nl
 stud.media.hr.nl
@@ -182,7 +180,7 @@ project.gmt.hr.nl
 limesurvey-kcbi.hr.nl
 zorginnovatie.hr.nl
 access.hr.nl
-www.hint.hr.nl
+hint.hr.nl
 webfarm.hr.nl
 raet.hr.nl
 nagios.hr.nl
@@ -208,9 +206,7 @@ ou2fd.hr.nl
 mainportinnovation.hr.nl
 mirror.hr.nl
 talentontwikkeling.hr.nl
-hint.hr.nl
 zemi.hr.nl
-www.hr.nl
 rac-beoordelingen-test.hr.nl
 peercoach.hr.nl
 lms-acc.hr.nl
@@ -241,7 +237,6 @@ suffix09.hr.nl
 highlights.hr.nl
 mattermost.hr.nl
 windows10.hr.nl
-www.debian.hr.nl
 confluence-test.hr.nl
 rac-ict-ilo1.hr.nl
 brandscheiding.hr.nl
@@ -308,11 +303,10 @@ biiacc.hr.nl
 jaarverslag.hr.nl
 moodle-wolt.ivg.hr.nl
 bii.hr.nl
-www.learnsharp-igo.hr.nl
+learnsharp-igo.hr.nl
 mu-install.hr.nl
 lob-cv.hr.nl
 pistis.hr.nl
-learnsharp-igo.hr.nl
 meet.hr.nl
 selligent.hr.nl
 idm.hr.nl
@@ -325,7 +319,6 @@ oriondms.hr.nl
 webcon.hr.nl
 learnsharp-lm.hr.nl
 pegasus.hr.nl
-www.rac-beoordelingen.hr.nl
 global.hr.nl
 whatsmyip.hr.nl
 cpanel.hr.nl
@@ -337,7 +330,7 @@ kr-install.hr.nl
 osiris-saml.hr.nl
 learnsharp-ota.hr.nl
 redirect.hr.nl
-www.hogeschoolenglish.hr.nl
+hogeschoolenglish.hr.nl
 api-mgmt-tst.hr.nl
 docbase-appsrv1-acc.hr.nl
 gemstracker.hr.nl
@@ -408,7 +401,6 @@ laravel-chess.cmgt.hr.nl
 mapleta-acc.hr.nl
 med.gmt.hr.nl
 suffix00.hr.nl
-www.mediatheek.hr.nl
 eduroam.hr.nl
 hintoud.hr.nl
 lyncdiscoverinternal.hr.nl
@@ -453,7 +445,6 @@ suffix07.hr.nl
 codaacc13.hr.nl
 limesurvey-kcto.hr.nl
 mapleta.hr.nl
-www.kernel.hr.nl
 forms.hr.nl
 inhetbuitenland.hr.nl
 learnsharp.hr.nl
@@ -488,7 +479,6 @@ step-test.hr.nl
 api-mgmt.hr.nl
 centroid.hr.nl
 planontest.hr.nl
-www.mirror.hr.nl
 moodle.ifm.hr.nl
 status-extranet-acc.hr.nl
 registerpraktijkleren.hr.nl
@@ -537,13 +527,11 @@ archief.hr.nl
 docent.gmt.hr.nl
 sfbpool.hr.nl
 selligentwebservice-acc.hr.nl
-hogeschoolenglish.hr.nl
 lyncdir.hr.nl
 mapletaform.hr.nl
 mli20192021.hr.nl
 osirisacc.hr.nl
 trion.hr.nl
-www.mijn-testupgrade.hr.nl
 sbwebsvc-v2-acc.hr.nl
 smtp5.hr.nl
 vault.hr.nl
@@ -606,7 +594,6 @@ mobile-web-test.hr.nl
 renderfiles.wdka.hr.nl
 vray.wdka.hr.nl
 zendmz.hr.nl
-www.zemi.hr.nl
 login3.hr.nl
 print.hr.nl
 rac-ict-usg.hr.nl
@@ -615,7 +602,6 @@ osiris-basis.hr.nl
 kaasstengel2.hr.nl
 luna.hr.nl
 test.apps.hr.nl
-www.opensuse.hr.nl
 globalprotect.hr.nl
 eset-mdc.hr.nl
 mobile-web-staging.hr.nl

@@ -1,4 +1,3 @@
-*.dragonapp.io
 admin.dragonapp.io
 chat.dragonapp.io
 graylog.dragonapp.io
@@ -7,7 +6,4 @@ webrtc.dragonapp.io
 messenger2.dragonapp.io
 releases.dragonapp.io
 webrtc2.dragonapp.io
-www.dragonapp.io
 wipe.dragonapp.io
-www.webrtc.dragonapp.io
-www.webrtc2.dragonapp.io

@@ -47,7 +47,6 @@ buildmodel.model.new
 railsjwtauth.model.new
 this.model.new
 frappe.model.new
-www.model.new
 hav.model.new
 ingress.model.new
 org.mariotaku.twidere.extension.model.new

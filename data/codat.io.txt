@@ -26,7 +26,6 @@ mtls.api.codat.io
 quickbooksonlinesandbox-integration.codat.io
 wave-uat.codat.io
 users.codat.io
-www.codat.io
 products-api-integration.codat.io
 freshbooks.private.uat.codat.io
 amazonsellercentral-uat.codat.io
@@ -751,7 +750,6 @@ commerce-sandbox-integration.codat.io
 mollie.codat.io
 sagebankfeed-integration-test.codat.io
 waveapi-dev-test.codat.io
-www.careers.codat.io
 connector-dashboard.codat.io
 jpmc.codat.io
 quickbooksdesktop-integration-test.codat.io
@@ -886,7 +884,6 @@ shopify-integration-test.codat.io
 salesforce.codat.io
 otel-integration.codat.io
 ncino.private.integration.codat.io
-www.test.codat.io
 pm-bounces.codat.io
 exact-uat-test.codat.io
 users-api-integration-test.codat.io
@@ -968,7 +965,6 @@ connectors.codat.io
 ncinosynccanvas-uat.codat.io
 clientcredentials.codat.io
 visualize-commerce-uat.codat.io
-www.docs.codat.io
 banking-data-intg-uksouth.codat.io
 exact.private.uat.codat.io
 expensesync-dev-test.codat.io

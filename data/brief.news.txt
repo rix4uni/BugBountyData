@@ -5,12 +5,10 @@ api.brief.news
 api.dev.brief.news
 cdn.brief.news
 api-dev.brief.news
-www.dev.brief.news
+dev.brief.news
 cdn.dev.brief.news
 join.brief.news
 join-dev.brief.news
-www.brief.news
-dev.brief.news
 join.dev.brief.news
 o1.ptr5806.brief.news
 digest.brief.news
@@ -47,5 +45,4 @@ url8486.updates.brief.news
 cio62974.brief.news
 parsing-api.brief.news
 parsing-api.dev.brief.news
-*.brief.news
 prod.brief.news

@@ -1,10 +1,7 @@
 id.staging.portal.ptc.com
 id.dev1.portal.ptc.com
-*.gdx.creo.ptc.com
 gdx.creo.ptc.com
-*.staging-gdx.creo.ptc.com
 staging-gdx.creo.ptc.com
-*.ptc.com
 ind-portal.ptc.com
 d.acc-sandbox-00.dev.atlas.ptc.com
 azurestack.ptc.com
@@ -756,4 +753,3 @@ aazsv-wwwsc02s.ptcnet.ptc.com
 licensing-test-internal.ptc.com
 oneoff.sandbox.dev.atlas.ptc.com
 pwdcsv-inspub20.ptcnet.ptc.com
-www.windchillextensions.ptc.com

@@ -6,13 +6,11 @@ cdn.rupahealth.com
 labs-staging.rupahealth.com
 staging-cdn.rupahealth.com
 clinic.rupahealth.com
-www.blog.rupahealth.com
+blog.rupahealth.com
 partners.rupahealth.com
 embed.rupahealth.com
-www.content.rupahealth.com
 labs.rupahealth.com
 practitioners.rupahealth.com
-www.rupahealth.com
 analytics.rupahealth.com
 docs.rupahealth.com
 api.rupahealth.com
@@ -20,7 +18,5 @@ hsemail.rupahealth.com
 automations.rupahealth.com
 api-sandbox.rupahealth.com
 labs-sandbox.rupahealth.com
-blog.rupahealth.com
 help.rupahealth.com
 sandbox-cdn.rupahealth.com
-*.rupahealth.com

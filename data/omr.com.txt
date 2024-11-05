@@ -49,7 +49,6 @@ staging.video.omr.com
 metabase.omr.com
 staging.kibana.omr.com
 stockexchange.omr.com
-www.omr.com
 staging.omr.com
 go.omr.com
 preview.omr.com
@@ -76,5 +75,4 @@ staging.paulplus.omr.com
 ci.dev.omr.com
 leadscan.omr.com
 drone.dev.omr.com
-www.staging.omr.com
 staging.exhibitors.omr.com

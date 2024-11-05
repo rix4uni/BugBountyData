@@ -4,7 +4,6 @@ c.tiles.mapillary.com
 tools.mapillary.com
 tiles3.mapillary.com
 vistas.mapillary.com
-www.mapillary.com
 jenkins.mapillary.com
 legacy.mapillary.com
 status.mapillary.com
@@ -66,13 +65,10 @@ loris.mapillary.com
 forum-static.mapillary.com
 android-releases.mapillary.com
 static.mapillary.com
-*.mapillary.com
-*.elva.mapillary.com
 inspirational-short-sermons.mapillary.com
 next.mapillary.com
 rtlog16-normal-alisg.mapillary.com
 signup.mapillary.com
-*.my-od.mapillary.com
 _www.mapillary.com
 org.openstreetmap.josm.plugins.mapillary.com
 correu.03zebrastaging1.my-od-1.03-mapilli.my-od-1.mapillary.com
@@ -644,7 +640,6 @@ elva-staging.03-mapilli.my-od-1.mapillary.com
 central.elva.03-mapilli.my-od-1.mapillary.com
 ondemand.03zebragraphstage.my-od-1.03-mapilli.my-od-1.mapillary.com
 ns52.03-mapilli-box-internal.my-od-1.mapillary.com
-www.elva.mapillary.com
 gx1.0enj5rrcxx9r2y40-box.my-od-1.03-mapilli.my-od-1.mapillary.com
 cabal.dev.03-mapilli.my-od-1.mapillary.com
 x.03-mapillistaging.my-od-1.03-mapilli.my-od-1.mapillary.com
@@ -2399,7 +2394,6 @@ expo.03-mapilli-sit.my-od-1.03-mapilli.my-od-1.mapillary.com
 projeto.2024.dev.03-mapilli.my-od-1.03-mapilli.my-od-1.mapillary.com
 foro2.03-mapillibox.my-od-1.mapillary.com
 widgets.elva.03-mapilli.my-od-1.mapillary.com
-www.03zebra-graph.my-od-1.03-mapilli.my-od-1.mapillary.com
 dev.03-mapilli-graph.my-od-1.mapillary.com
 teach.2024.03-mapillistaging.my-od-1.mapillary.com
 artem.03-mapilli-sit.my-od-1.mapillary.com
@@ -2641,7 +2635,7 @@ culture.elva.mapillary.com
 thunder.03-mapilli.my-od-1.03-mapilli.my-od-1.mapillary.com
 listas.03-mapillibox.my-od-1.mapillary.com
 perm.03-mapilli2024.my-od-1.03-mapilli.my-od-1.mapillary.com
-www.graph.03zebra.my-od-1.03-mapilli.my-od-1.mapillary.com
+graph.03zebra.my-od-1.03-mapilli.my-od-1.mapillary.com
 clip.03-mapilli-sit.my-od-1.mapillary.com
 ki.2024.03-mapilli.my-od-1.mapillary.com
 kam.03-mapilli.my-od-1.mapillary.com
@@ -4595,7 +4589,6 @@ rx.03-mapilli-box.my-od-1.03-mapilli.my-od-1.mapillary.com
 cwa.dev1.03-mapillibox.my-od-1.mapillary.com
 cognos.03-mapilli2024.my-od-1.03-mapilli.my-od-1.mapillary.com
 bim.2024.dev.03-mapilli.my-od-1.mapillary.com
-graph.03zebra.my-od-1.03-mapilli.my-od-1.mapillary.com
 oms.03-mapilli-graph.my-od-1.mapillary.com
 gsf.2024-test.03-mapilli.my-od-1.mapillary.com
 blitz.03-mapilli-sit.my-od-1.mapillary.com

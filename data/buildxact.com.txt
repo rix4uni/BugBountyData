@@ -17,7 +17,6 @@ myhome-dev.buildxact.com
 myhome-sandbox.buildxact.com
 smartestimate-dev.buildxact.com
 smartestimate-staging.buildxact.com
-*.buildxact.com
 api-v3-uat.buildxact.com
 developer-sbx.buildxact.com
 redirects.buildxact.com
@@ -28,7 +27,6 @@ merchant.buildxact.com
 get.buildxact.com
 s.buildxact.com
 lyncdiscover.buildxact.com
-www.buildxact.com
 auth.myhome-dev.buildxact.com
 stg2.buildxact.com
 app-dev.buildxact.com

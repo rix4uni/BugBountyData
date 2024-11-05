@@ -1,4 +1,3 @@
-*.teleport.dev
 apt.releases.teleport.dev
 apt.releases.development.teleport.dev
 cdn.teleport.dev
@@ -24,7 +23,6 @@ updates.releases.teleport.dev
 updates.releases.development.teleport.dev
 usage.teleport.dev
 usage-stg.teleport.dev
-www.teleport.dev
 yum.releases.teleport.dev
 yum.releases.development.teleport.dev
 zypper.releases.teleport.dev

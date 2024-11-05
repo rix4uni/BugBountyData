@@ -1,5 +1,3 @@
-*.eu.floqast.app
-*.system.eu.floqast.app
 system.eu.floqast.app
 api-gateway.eu.floqast.app
 avatars.eu.floqast.app
@@ -396,7 +394,6 @@ review-notes.system.eu.eu.floqast.app
 internal-automation.eu.floqast.app
 txm.hackme.eu.floqast.app
 gl-links.system.hackme.eu.floqast.app
-www.eu.floqast.app
 replication.system.eu.eu.floqast.app
 new-client-setups.system.hackme.eu.floqast.app
 clamav.system.au.eu.floqast.app

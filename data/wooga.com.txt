@@ -36,7 +36,7 @@ mimir-staging.prod.kube.bit.wooga.com
 am.prod.kube.bit.wooga.com
 events.mops.wooga.com
 js.wooga.com
-www.pras-staging.jj.wooga.com
+pras-staging.jj.wooga.com
 koson.wt.wooga.com
 dashboard.internal.kube.bit.wooga.com
 dashboard.prod.kube.bit.wooga.com
@@ -64,7 +64,7 @@ usermgmt.wt.wooga.com
 jupyterhub.internal.kube.bit.wooga.com
 sonar-staging.atlas.wooga.com
 umci-stg.internal.kube.bit.wooga.com
-www.mops.wooga.com
+mops.wooga.com
 gd.koson-prod-mirror.wt.wooga.com
 cdn-dd.wooga.com
 jj-jenkins-staging.atlas.wooga.com
@@ -91,7 +91,6 @@ oauth-ad-staging.sbs.wooga.com
 staging.events.wooga.com
 koson-testing.wt.wooga.com
 pp-build-counter.atlas.wooga.com
-www.people.wooga.com
 cdn-wooganetwork.wooga.com
 cdn.sbs.wooga.com
 ci-android.pp.wooga.com
@@ -146,7 +145,6 @@ jenkins-resources.atlas.wooga.com
 pp-oauth-ad-staging.sbs.wooga.com
 prom.prod.kube.bit.wooga.com
 test2-echo.prod.kube.bit.wooga.com
-www.wooga.com
 abacus.bit.wooga.com
 admin.dd.wooga.com
 dialogues.jj.wooga.com
@@ -174,11 +172,9 @@ mraid.mops.wooga.com
 koson-rc.wt.wooga.com
 cdn1.dd.wooga.com
 ci.pp.wooga.com
-www.story-editor.nct.wooga.com
 kibana.bit.wooga.com
-pras-staging.jj.wooga.com
 unifiedbuildsystem.atlas.wooga.com
-www.fbfp.mops.wooga.com
+fbfp.mops.wooga.com
 de-production-eu-west-1.kube.bit.wooga.com
 atlantis.wt.wooga.com
 cdn-sbs.wooga.com
@@ -222,7 +218,6 @@ docs-sandbox.sbs.wooga.com
 g9-live-android.wooga.com
 gd.koson-qa.wt.wooga.com
 gls.gbs.wooga.com
-fbfp.mops.wooga.com
 routing.kube.bit.wooga.com
 zeppelin.prod.kube.bit.wooga.com
 cdn.mops.wooga.com
@@ -239,7 +234,6 @@ jj-jenkins.atlas.wooga.com
 milestones.wooga.com
 manage-sandbox-headless.sbs.wooga.com
 drive.wooga.com
-mops.wooga.com
 myprofile.wooga.com
 junesjourney-staging.sbs.wooga.com
 sbs-oauth-ad-staging.sbs.wooga.com
@@ -251,13 +245,11 @@ liveops-dev.wt.wooga.com
 api.sbs.akamaized.wooga.com
 oauth.prod.kube.bit.wooga.com
 staging.myprofile.wooga.com
-www.dialogues.jj.wooga.com
 cdn-sbs-wooganetwork-2nd.wooga.com
 cdn-wooganetwork-2nd.wooga.com
 games.wooga.com
 geoiplookup.gbs.wooga.com
 g9-live-ios.wooga.com
-www.blog.wooga.com
 wt.wooga.com
 assets1.g8.wooga.com
 pras-ci.jj.wooga.com
@@ -355,7 +347,6 @@ bi-three.wooga.com
 walt.mops.wooga.com
 my.wooga.com
 bi-dev-frontend.wooga.com
-www.n.wooga.com
 dd.t.wooga.com
 jira.mw.wooga.com
 resources.atlas.wooga.com
@@ -382,4 +373,3 @@ daa.t.wooga.com
 accounts.wooga.com
 bi2i.t.wooga.com
 gem.sdk.wooga.com
-*.bit.wooga.com

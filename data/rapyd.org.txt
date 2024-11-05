@@ -13,7 +13,6 @@ qatestgw.rapyd.org
 intgforge.rapyd.org
 valerig-nginx.rapyd.org
 pwm.rapyd.org
-www.clearpass.rapyd.org
 clearpass.rapyd.org
 testgw.rapyd.org
 prodintsupport.rapyd.org
@@ -32,10 +31,8 @@ jenkins-k8s.rapyd.org
 qaforge.rapyd.org
 pmadmin-dev.rapyd.org
 banklogs-prod.finops.rapyd.org
-www.awsvpn.rapyd.org
-argocd-k8s.rapyd.org
-www.instant.rapyd.org
 awsvpn.rapyd.org
+argocd-k8s.rapyd.org
 rundeck.rapyd.org
 jenkins.private.rapyd.org
 forge.rapyd.org

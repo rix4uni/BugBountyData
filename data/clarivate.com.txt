@@ -1,11 +1,9 @@
 content.pendo.portal.clarivate.com
 santen-clarita.clarivate.com
-*.apps.clarivate.com
+apps.clarivate.com
 tm1inprotech.clarivate.com
 workbench.clarivate.com
 learning.clarivate.com
-*.learning.clarivate.com
-*.clarivate.com
 gedeon-richter.dashboard.dev.clarivate.com
 invoices.clarivate.com
 librarysoftware.clarivate.com
@@ -30,7 +28,6 @@ images.mail.discover.clarivate.com
 regeneron-rapbiconwin.dev.clarivate.com
 satn.converis.clarivate.com
 app.mail.discover.clarivate.com
-apps.clarivate.com
 clarita-starter-demo.clarivate.com
 genmab-clarita.stg.clarivate.com
 geo.pegasus.clarivate.com

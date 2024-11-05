@@ -1,5 +1,5 @@
 mail02.mbktape.com
-www.mail.mbktape.com
+mail.mbktape.com
 smtpauth.mbktape.com
 pop3.mbktape.com
 server2.mbktape.com
@@ -16,7 +16,6 @@ adhesivetape-converting.mbktape.com
 mailbox.mbktape.com
 host.mbktape.com
 imap.mbktape.com
-www.mbktape.com
 ns.mbktape.com
 gate.mbktape.com
 imap1.mbktape.com
@@ -31,8 +30,6 @@ postmaster.mbktape.com
 poczta.mbktape.com
 m.mbktape.com
 screenshot-www.mbktape.com
-mail.mbktape.com
-www.blog.mbktape.com
 community.mbktape.com
 relay2.mbktape.com
 autodiscover.mbktape.com

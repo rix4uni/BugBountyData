@@ -52,7 +52,7 @@ heimdall.geant.org
 prod-map01.geant.org
 san-106.geant.org
 stage.ar2021.geant.org
-www.caren.geant.org
+caren.geant.org
 san-206.geant.org
 san-172.geant.org
 test-psui-centos6.geant.org
@@ -314,7 +314,6 @@ prod-dashboard02.geant.org
 ipsec-vpn.geant.org
 san-241.geant.org
 ar2017.geant.org
-www.geant.org
 test-adfs.geant.org
 grouper-ws.uat-authzmanager.geant.org
 san-118.geant.org
@@ -442,7 +441,6 @@ san-034.geant.org
 san-061.geant.org
 gp4l.geant.org
 eventr-uat.geant.org
-www.geant3.archive.geant.org
 jump01.geant.org
 test-adfs2.geant.org
 san-010.geant.org
@@ -454,7 +452,7 @@ bitbucket.software.geant.org
 pmp-central.geant.org
 prod-eduvpn01.geant.org
 test-01.software.geant.org
-www.kratos.geant.org
+kratos.geant.org
 26www.geant.org
 cloud.geant.org
 wallet-ehic-issuer.maes1.incubator.geant.org
@@ -511,7 +509,6 @@ oos.sharepoint.geant.org
 san-087.geant.org
 stage.careers.geant.org
 webdav.geant.org
-www.dante.archive.geant.org
 san-177.geant.org
 tnc15.geant.org
 inacademia.geant.org
@@ -638,7 +635,6 @@ reset.geant.org
 mdq.incubator.geant.org
 test-wiki.geant.org
 wiki-prod.geant.org
-www.learning.geant.org
 uat.officewebapps.sharepoint.geant.org
 san-020.geant.org
 authz.geant.org
@@ -787,10 +783,8 @@ san-195.geant.org
 guest-printer.amsterdam.geant.org
 uat-moodle01.geant.org
 docs.geant.org
-www.intranet.geant.org
 san-168.geant.org
 nrenservices.geant.org
-www.edupert.geant.org
 san-157.geant.org
 foo-ev.geant.org
 test-authzslave02.geant.org
@@ -911,7 +905,6 @@ san-101.geant.org
 san-202.geant.org
 san-069.geant.org
 prod-ne-saltmaster01.geant.org
-caren.geant.org
 uat.geant3.archive.geant.org
 san-063.geant.org
 prod-dashboardv3-monitoring.geant.org
@@ -974,7 +967,6 @@ eduvpn-0005.vm.geant.org
 jenkins02.geant.org
 prod-fra-gluster01.geant.org
 psmp-gn-drac-bud-hu.geant.org
-www.perfsonar.geant.org
 prod-influxdb-metadata02.geant.org
 prod-nomad-ingress01.geant.org
 prod-nomad-server03.geant.org
@@ -991,17 +983,12 @@ prod-sensu-postgres02.geant.org
 uat-pgwitness01.gap.geant.org
 lg.test-int.geant.org
 nmaas-worker02.geant.org
-www.impact.geant.org
-www.services.geant.org
 generic-jra2t4.geant.org
 roedunet.faas.geant.org
 stepup01.lsaai.geant.org
 prod-fra-gluster03.geant.org
 test-postgres-witness.geant.org
-www.itservices.geant.org
 booked.test.nmaas.geant.org
-www.ar2017.geant.org
-www.tnc20.geant.org
 mt-test-dev01-vie-idrac.nemo.geant.org
 psmp-lhc-owd-par-fr.geant.org
 test-zfs.geant.org
@@ -1040,12 +1027,11 @@ test-influxperf-client01.geant.org
 kube-manager01.geant.org
 proxy-prod.geant.org
 test.faas.geant.org
-www.cloudflare.geant.org
+cloudflare.geant.org
 dev.ar2021.geant.org
 mail.geant.org
 splunk-ams-peer02.geant.org
 uat-netbox-01.gap.geant.org
-www.staff.geant.org
 blog.wpdev.geant.org
 splunk-ams-peer02-idrac.geant.org
 neteam-wiki.geant.org
@@ -1064,7 +1050,6 @@ test-nomad-server02.geant.org
 cvdmirror.int.geant.org
 incommon.testbed.oidcfed.incubator.geant.org
 uat-librenms-oxidized01.geant.org
-www.prod-eduvpn01.geant.org
 test-inprov02.geant.org
 test-oidc-pam01.geant.org
 k8s-gitlab.software.geant.org
@@ -1085,7 +1070,6 @@ caren-training.faas.geant.org
 test-keycloak.geant.org
 certbot.faas.geant.org
 psmp-lhc-mgmt-gen-ch.geant.org
-www.security.geant.org
 test-glitchtip.internal.geant.org
 test-influxdb-metadata02.geant.org
 iucc-win10.geant.org
@@ -1160,13 +1144,10 @@ scionint-gw2.rt1.fra.de.geant.org
 swd-dashboards.geant.org
 packet-trace.geant.org
 template.faas.geant.org
-www.docs.geant.org
 test-sonarqube-scripts.int.geant.org
 uat-idp02.geant.org
 wacren-gw.mx1.lon.uk.geant.org
 fra-prod-wiki02.geant.org
-www.design.geant.org
-www.pmc21.geant.org
 foo-le-cert.geant.org
 prod-sensu-checks02.geant.org
 psmp-lhc-drac-fra-de.geant.org
@@ -1179,7 +1160,6 @@ guest-printer.office.ams.geant.org
 prod-ems.geant.org
 service-status.geant.org
 test-keycloak02.geant.org
-www.clouds.geant.org
 eduvpn-0003.vm.geant.org
 igtf26oct21.farnsworth.geant.org
 ipsec-vpn-nat-nomios.geant.org
@@ -1232,7 +1212,7 @@ hbku.mx1.lon.uk.geant.org
 ps-bookworm.qalab.geant.org
 restored02.geant.org
 test-nomad01.geant.org
-www.see-userforum2021.geant.org
+see-userforum2021.geant.org
 nsi.geant.org
 psmp-gn-drac-ams-nl.geant.org
 psmp-gn-mgmt-lis-pt.geant.org
@@ -1256,7 +1236,6 @@ ehic.maes1.incubator.geant.org
 bar03.geant.org
 ipsec-vpn-nat02.geant.org
 nren8.faas.geant.org
-www.template.faas.geant.org
 prod.pool.waf.geant.org
 autocon01-179.gap.geant.org
 prod-dashboard-elk04.geant.org
@@ -1281,7 +1260,6 @@ prod-redblue-land.geant.org
 prod-snas.geant.org
 prod-swd-elk03.geant.org
 test1.faas.geant.org
-www.ar2020.geant.org
 runner02.test.gap.geant.org
 uran-training.faas.geant.org
 uat-influxdb-metadata02.geant.org
@@ -1318,7 +1296,6 @@ test-filesender-idp.geant.org
 test-zfs02.geant.org
 uat-galera03.geant.org
 test-sonarqube.geant.org
-www.news.geant.org
 autocon01-173.gap.geant.org
 cb-prd-vpn.geant.org
 par-vm-test01.geant.org
@@ -1357,7 +1334,6 @@ wpt.waf.geant.org
 psmp-gn-drac-lon-uk.geant.org
 roam01.geant.org
 test-poc-ceph03.geant.org
-www.archive.geant.org
 resolver2.office.ams.geant.org
 online.tnc.geant.org
 puppetdb.geant.org
@@ -1376,8 +1352,7 @@ terraformator.geant.org
 azrena-training.faas.geant.org
 dev.tnc23.geant.org
 relay-prod-01.geant.org
-www.tnc25.geant.org
-www.test.faas.geant.org
+tnc25.geant.org
 cbg-prod-eduvpn01.geant.org
 prod-dashboard-elk03.geant.org
 psmp-gn-bw-lon-uk.geant.org
@@ -1386,12 +1361,11 @@ uat-influxdb-metadata01.geant.org
 prod-poller-ui01.geant.org
 psmp-lhc-bw-gen-ch.geant.org
 tnc09.geant.org
-www.connect.geant.org
 autocon01-180.gap.geant.org
 idrac.prod-dashboard02.geant.org
 puppetdb.int.geant.org
 test-michal01.geant.org
-www.symposium.geant.org
+symposium.geant.org
 sec-webtest-01.geant.org
 test-rancherbarn03.geant.org
 dashboardv3-monitoring.geant.org
@@ -1413,11 +1387,9 @@ vpn1.geant.org
 idrac.uat-dashboard01.geant.org
 neteng.acme-test.geant.org
 psmp-gn-mgmt-poz-pl.geant.org
-www.inside.geant.org
 prod-idp02.geant.org
 prod-nomad01.geant.org
 autocon01-147.gap.geant.org
-see-userforum2021.geant.org
 sensu-postgres.geant.org
 autocon01-176.gap.geant.org
 test-moodle-sql01.geant.org
@@ -1428,7 +1400,6 @@ nagios-gcs.geant.org
 roam05.geant.org
 uat-brian-dboard3-availability01.geant.org
 uat-devops-wiki.geant.org
-www.tools.geant.org
 test-elk01.geant.org
 prod-sm-reports01.geant.org
 test-consul.geant.org
@@ -1441,7 +1412,6 @@ gn-splunk02.geant.org
 ns225.waf.geant.org
 prod-nomad-server02.geant.org
 prod.tnc23.geant.org
-www.idp.geant.org
 prod-forgejo01.geant.org
 secondary.nemo.geant.org
 vm-000073.vm.geant.org
@@ -1462,7 +1432,6 @@ uat-pgwitness03.gap.geant.org
 db01.uat.gap.geant.org
 uat-kube-master01.geant.org
 uat-librenms-poller03.geant.org
-www.am-prd-fortivpn01.geant.org
 monitoring.gap.geant.org
 test-duoauth01.geant.org
 acme.int.geant.org
@@ -1475,7 +1444,6 @@ test-win-sensu.geant.org
 uat-swd-documentation01.geant.org
 test-cert01.geant.org
 scionint-gw1.rt1.fra.de.geant.org
-www.poller-admin.geant.org
 autocon01-163.gap.geant.org
 hbku-gw.mx1.par.fr.geant.org
 pgwitness01.uat.gap.geant.org
@@ -1521,9 +1489,7 @@ ace02.geant.org
 uat-elk02.geant.org
 pete-test01.geant.org
 prod-onsamgmt.geant.org
-www.bamboo.software.geant.org
 uat-nomad-ingress02.geant.org
-www.educonf.geant.org
 graph.gap.geant.org
 nmaas-vpn04.geant.org
 prod-acme02.geant.org
@@ -1569,14 +1535,11 @@ test2.test.faas.geant.org
 wildcard-mixed.geant.org
 prod-poller-sensu-agent03.geant.org
 resources.test.gap.geant.org
-www.ar2018.geant.org
 lab-noc-ps01-uat.geant.org
 prod-fra-netengdocs01.geant.org
 psmp-gn-bw-poz-pl.geant.org
 autocon01-186.gap.geant.org
 test-inventory-provider-cpoc01.geant.org
-tnc25.geant.org
-www.partner.geant.org
 prod-ne-gitlabrunner01.geant.org
 test-sonarqube-scripts.internal.geant.org
 uat-eventr.geant.org
@@ -1618,7 +1581,7 @@ login-patrick.geant.org
 autocon01-145.gap.geant.org
 prod-influxdb01.geant.org
 test-ps02.geant.org
-www.geenit3-intranet.archive.geant.org
+geenit3-intranet.archive.geant.org
 prod-nsi.geant.org
 superpowerconnect.geant.org
 prod-swd-documentation01.geant.org
@@ -1690,7 +1653,6 @@ test-fra-centos8.geant.org
 kube-slave03.geant.org
 prod-swd-elk02.geant.org
 vm-000086.vm.geant.org
-www.careers.geant.org
 claw-test.geant.org
 jenkins.geant.org
 uat-influxdb01.geant.org
@@ -1717,9 +1679,7 @@ kube-slave02.geant.org
 marnet.faas.geant.org
 test-poller-zookeeper02.geant.org
 test-ranchercowboy03.geant.org
-www.test-eduvpn02.geant.org
 uat-inprov02.geant.org
-www.edugain-test-02.faas.geant.org
 test-psui-vis.geant.org
 addr.geant.ha.geant.org
 uat-eduvpn.geant.org
@@ -1735,7 +1695,6 @@ test-tools01.geant.org
 uat-inventory-provider01.geant.org
 bren-training.faas.geant.org
 dev-ian01.geant.org
-www.about.geant.org
 test-infoblox00.geant.org
 tnc2010.geant.org
 test-dashboard-elk01.geant.org
@@ -1749,8 +1708,7 @@ logs.it.geant.org
 fra-packer-image.geant.org
 test-idp-o365.geant.org
 test-sensu-checks.internal.geant.org
-www.edugain.geant.org
-www.tnc23.geant.org
+tnc23.geant.org
 autocon01-136.gap.geant.org
 nomad.uat-int.geant.org
 pmc23.geant.org
@@ -1765,13 +1723,11 @@ gitlab.software.geant.org
 prod-haproxy02.geant.org
 test-rancid.geant.org
 transip1.geant.org
-www.ti.incubator.geant.org
 test-cobbler.geant.org
 test-keycloak01.geant.org
 test-vault01.geant.org
 test-poc-cephreplica01.geant.org
 test-release-service02.geant.org
-www.supply2.geant.org
 claw.geant.org
 nmaas-reflector01.geant.org
 prod-mda01.geant.org
@@ -1821,7 +1777,6 @@ psmp-uat-mgmt-fra-de.geant.org
 scionext-gw2.rt1.fra.de.geant.org
 test-noc-alarms-monitoring01.geant.org
 test-openvpn-as02.geant.org
-www.ar2021.geant.org
 autocon01-142.gap.geant.org
 test-nas01.geant.org
 nemo-ddos-det2-vie-at-idrac.geant.org
@@ -1832,7 +1787,6 @@ uat-mail.geant.org
 autocon01-159.gap.geant.org
 security-team-test.geant.org
 test-poc-ceph02.geant.org
-www.eduvpn.geant.org
 test-ems-payments.geant.org
 test-haproxy-internal01.geant.org
 uat-psqa-debian-11.geant.org
@@ -1844,7 +1798,6 @@ stage.geant.org
 test-foo.geant.org
 test-noc-alarms-ui01.geant.org
 uat-poller-admin.geant.org
-www.ar2022.geant.org
 autocon01-193.gap.geant.org
 psmp-gn-owd-poz-pl.geant.org
 psmp-lhc-owd-gen-ch.geant.org
@@ -1867,7 +1820,7 @@ prod-nomad-ingress02.geant.org
 prod-splunk-fwd02.geant.org
 test-site-vpn01.geant.org
 uat-mda01.geant.org
-www.tnc24.geant.org
+tnc24.geant.org
 psmp-gn-mgmt-02-fra-de.geant.org
 test-influxdb01.geant.org
 test-inventory-provider02.geant.org
@@ -1889,9 +1842,7 @@ drac-pra-prod-dtn01.geant.org
 perfsonar-test1.qalab.geant.org
 test-bellastesting.geant.org
 test-nomad03.geant.org
-kratos.geant.org
 test-noc-alarms-vm01.geant.org
-www.uat-eduvpn01.geant.org
 jim-test.office.ams.geant.org
 prod-trafficgenerator01.geant.org
 test-noc-alarms-ui02.geant.org
@@ -1899,27 +1850,20 @@ nemo-ddos-det2-par-fr-idrac.geant.org
 nmaas-vpn02.geant.org
 db02.uat.gap.geant.org
 nix1.geant.org
-www.resources.geant.org
 acme.maes1.incubator.geant.org
 uat-ems02.geant.org
-www.scimitar.geant.org
 noc-alarms-ui.geant.org
 test-oidcop-01.geant.org
 prod.cloudflare.geant.org
 uat-galera02.geant.org
-www.geant3-intranet.archive.geant.org
 ham-prod-dtn01.geant.org
 librenms.geant.org
 prod-db01.gap.geant.org
 uat-proxysql01.geant.org
 mic.geant.org
 wpe.waf.geant.org
-www.incubator.geant.org
 symposium23.geant.org
-www.community.geant.org
-www.tnc21.geant.org
 psmp-gn-bw-pra-cz.geant.org
-www.test-eduvpn01.geant.org
 db.prod.gap.geant.org
 prod-lon-pg-witness.geant.org
 prod-splunk-fwd01.geant.org
@@ -1933,7 +1877,6 @@ roam102.geant.org
 autocon01-146.gap.geant.org
 novnc.speakers.tnc.geant.org
 prod.tnc25.geant.org
-www.tnc22.geant.org
 igtf26oct21-a.farnsworth.geant.org
 test-poller-sensu-agent03.geant.org
 rns-ng.test-edugain02.geant.org
@@ -1948,9 +1891,7 @@ uat-prometheus.geant.org
 uat-sensu03.geant.org
 pool.waf.geant.org
 stage.tnc24.geant.org
-www.edupki.geant.org
 litnet.faas.geant.org
-www.edugain-test-01.faas.geant.org
 fra-prod-routinator01.geant.org
 pink01.geant.org
 prod-poller-sensu-agent01.geant.org
@@ -1958,7 +1899,6 @@ prod-inventory-provider01.geant.org
 wacren-training.faas.geant.org
 test-agalaxy-vm.geant.org
 autocon01-172.gap.geant.org
-www.symposium23.geant.org
 idrac.test-dashboard01.geant.org
 puppet801.geant.org
 test-training-filesender01.geant.org
@@ -2027,7 +1967,6 @@ dev.tnc.geant.org
 psmp-gn-drac-poz-pl.geant.org
 scionint.rt1.fra.de.geant.org
 test-edugain02.geant.org
-symposium.geant.org
 prod-irc.geant.org
 autocon01-194.gap.geant.org
 prod-db.gap.geant.org
@@ -2047,7 +1986,6 @@ autocon01-141.gap.geant.org
 test-poller-influxdb-full.geant.org
 prod-redblue-core.geant.org
 uat-db01.gap.geant.org
-www.uat-eduvpn02.geant.org
 ansible.test.gap.geant.org
 jarvis.geant.org
 lon2.scim.geant.org
@@ -2057,7 +1995,6 @@ roam02.geant.org
 uat-wp-traffic.geant.org
 public-brian.geant.org
 uat-psqa-ubuntu-18.geant.org
-www.jobsboard.geant.org
 psmp-gn-drac-lon2-uk.geant.org
 psmp-gw-drac-lis-pt.geant.org
 test-elk03.geant.org
@@ -2113,7 +2050,6 @@ prod-msp-radius02.geant.org
 prod-vault03.geant.org
 prod.tools.geant.org
 uat-sp-haproxy01.geant.org
-www.geant3plus.archive.geant.org
 test-adeel02.geant.org
 uat-dashboard-storage02.geant.org
 mh-test.geant.org
@@ -2152,7 +2088,6 @@ prod-nocalarms-jui02.geant.org
 drac-lon-prod-dtn01.geant.org
 grena.faas.geant.org
 uat-rancid.geant.org
-www.casefornrens.geant.org
 prod-jenkins02.geant.org
 autocon01-167.gap.geant.org
 test-cvdmirror.geant.org
@@ -2165,7 +2100,6 @@ vopaas.geant.org
 sec-webtest-02.geant.org
 ns207.waf.geant.org
 splunk-lon2-peer02.geant.org
-www.ar2019.geant.org
 brian-data.geant.org
 scionext.rt1.fra.de.geant.org
 test-dashboard-collector.geant.org
@@ -2182,7 +2116,6 @@ uat-nomad01.geant.org
 validation3-test.faas.geant.org
 par-prod-consul03.geant.org
 timemap.test-int.geant.org
-www.trustidentity.geant.org
 prod-noc-alarms-vm01.geant.org
 uat-service-proxy-monitoring01.geant.org
 hsm-sign.faas.geant.org
@@ -2195,7 +2128,6 @@ fedwork3.geant.org
 forgejo.test-int.geant.org
 repositories02.geant.org
 vm-000137.vm.geant.org
-www.ar2016.geant.org
 autocon01-184.gap.geant.org
 test-influxdb-metadata03.geant.org
 test-mail.geant.org
@@ -2222,7 +2154,6 @@ devops-wiki.int.geant.org
 prod-elk02.geant.org
 ps-build.geant.org
 test-poller-kafka-broker02.geant.org
-tnc23.geant.org
 devops-wiki.geant.org
 psmp-gn-owd-sof-bg.geant.org
 test-lg02.geant.org
@@ -2249,13 +2180,11 @@ test-bellatesting.geant.org
 test-psui-ubuntu01.geant.org
 test-vault.geant.org
 autocon01-152.gap.geant.org
-www.tnc19.geant.org
 testhost1.amsterdam.geant.org
 autocon01-140.gap.geant.org
 nomad.int.geant.org
 sofa01.geant.org
 uat-swd-elk03.geant.org
-www.suf2021.geant.org
 psmp-gn-mgmt-lon2-uk.geant.org
 uat-haproxy.geant.org
 uat-rancid01.geant.org
@@ -2263,7 +2192,6 @@ dv-eduteams01.geant.org
 prod-academy03.geant.org
 test-noc-alarms02.geant.org
 uat-fra-claw01.geant.org
-cloudflare.geant.org
 ns208.waf.geant.org
 prod.symposium.geant.org
 test-owncloud01.geant.org
@@ -2273,7 +2201,6 @@ prod-octo-rpki01.geant.org
 puppetdb-postgres.geant.org
 rancid.geant.org
 test3.test.faas.geant.org
-www.wpnstest.geant.org
 uat-forgejo01.geant.org
 autocon01-185.gap.geant.org
 psmp-gn-owd-vie-at.geant.org
@@ -2309,7 +2236,6 @@ test-mailserver.service.ha.geant.org
 tnms-fra-prod.geant.org
 uat-dashboard-elk03.geant.org
 orientplus.wpdev.geant.org
-tnc24.geant.org
 uat-tts-dashboard.geant.org
 psnc-pllab.geant.org
 restored01.geant.org
@@ -2335,7 +2261,6 @@ uat-academy02.geant.org
 prod-geantmap02.geant.org
 prod-tools01.geant.org
 test-lg01.geant.org
-www.projects.geant.org
 autocon01-189.gap.geant.org
 prod-gso-02.gap.geant.org
 prod-routinator01.geant.org
@@ -2366,12 +2291,10 @@ email.mentoring.geant.org
 green03.geant.org
 jump02.geant.org
 sensu-checks.test-int.geant.org
-www.network.geant.org
 psmp-lhc-mgmt-fra-de.geant.org
 roam99.geant.org
 prod-elk-devops01.geant.org
 psmp-gn-mgmt-gw-par-fr.geant.org
-www.prod-eduvpn02.geant.org
 dks-hsm1.geant.org
 nmaas-master01.geant.org
 uag.aw.geant.org
@@ -2389,7 +2312,6 @@ test-training-idp01.geant.org
 nomad.test.ha.geant.org
 uat-db02.gap.geant.org
 uat-msp-radius01.geant.org
-www.gts01.wpdev.geant.org
 devops.status.geant.org
 lindaprojects.geant.org
 mt-stage01-fra-idrac.nemo.geant.org

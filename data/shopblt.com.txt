@@ -48,7 +48,6 @@ eml.shopblt.com
 root.shopblt.com
 smtp3.shopblt.com
 mail2.shopblt.com
-aww.shopblt.com
 ww.shopblt.com
 tiger.shopblt.com
 vps.shopblt.com
@@ -62,7 +61,7 @@ vnet.shopblt.com
 out.shopblt.com
 gate.shopblt.com
 mailbox.shopblt.com
-www.shopblt.comwww.shopblt.com
+shopblt.comwww.shopblt.com
 owa.shopblt.com
 barracuda.shopblt.com
 internet.shopblt.com
@@ -134,7 +133,6 @@ server2.shopblt.com
 imap.shopblt.com
 mail6.shopblt.com
 exchange.shopblt.com
-www.shopblt.com
 mail.shopblt.com
 dns.shopblt.com
 mta1.shopblt.com
@@ -147,4 +145,3 @@ smtp01.shopblt.com
 direct.shopblt.com
 mx0.shopblt.com
 mbox.shopblt.com
-*.shopblt.com

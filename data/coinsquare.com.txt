@@ -31,7 +31,6 @@ support.coinsquare.com
 widgets-sandbox.coinsquare.com
 widgets-uat.coinsquare.com
 widgets.coinsquare.com
-www.coinsquare.com
 admin-production.coinsquare.com
 admin.coinsquare.com
 admin1.dev.labs.coinsquare.com
@@ -101,18 +100,5 @@ whiskey.coinsquare.com
 wsapi.prod.labs.coinsquare.com
 wsapi1.dev.labs.coinsquare.com
 wsapi1.stage.labs.coinsquare.com
-www.atp-production.coinsquare.com
-www.ats-production.coinsquare.com
-www.dealer.coinsquare.com
-www.grapparetto.coinsquare.com
-www.join.coinsquare.com
-www.news.coinsquare.com
-www.prod.labs.coinsquare.com
-www.refer.coinsquare.com
-www.sherry.coinsquare.com
-www.vpn.coinsquare.com
-www.web1.dev.labs.coinsquare.com
-www.web1.stage.labs.coinsquare.com
-www.whiskey.coinsquare.com
 zumrails-webhook-prod.coinsquare.com
 zumrails-webhook-stage.coinsquare.com

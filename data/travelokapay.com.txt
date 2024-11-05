@@ -1,11 +1,8 @@
-*.travelokapay.com
-*.cobrand.travelokapay.com
-*.merchant.travelokapay.com
+cobrand.travelokapay.com
+merchant.travelokapay.com
 api.travelokapay.com
 api.merchant.travelokapay.com
 cash-middleware.travelokapay.com
-cobrand.travelokapay.com
-merchant.travelokapay.com
 mfc.travelokapay.com
 mfinotif.travelokapay.com
 mfops-fe.travelokapay.com
@@ -22,5 +19,4 @@ tvpay-tools.prod.travelokapay.com
 origin-api.merchant.travelokapay.com
 data-ingestion.travelokapay.com
 origin-api.travelokapay.com
-www.travelokapay.com
 api-tpaypmg.travelokapay.com

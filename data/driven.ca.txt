@@ -601,7 +601,7 @@ self.driven.ca
 preview9.driven.ca
 rattleandhum.driven.ca
 admin.demo.staging.driven.ca
-www.wildstone.driven.ca
+wildstone.driven.ca
 cccbm.driven.ca
 stape.driven.ca
 com.oc.hawk.kubernetes.keepalive.port.driven.ca
@@ -614,7 +614,6 @@ go.driven.ca
 ruddell.driven.ca
 com.oc.hawk.container.runtime.port.driven.ca
 intranet.driven.ca
-www.driven.ca
 this.driven.ca
 demo.staging.driven.ca
 fr.amou.ffbad.tournaments.slack.bot.infra.driven.ca

@@ -1,8 +1,6 @@
 ombudsmen.parliament.nz
-*.ombudsmen.parliament.nz
 auditnz.parliament.nz
 autodiscover.auditnz.parliament.nz
-www.auditnz.parliament.nz
 auditor-general.parliament.nz
 bills.parliament.nz
 data.parliament.nz
@@ -13,7 +11,6 @@ oag.parliament.nz
 asdonline.oag.parliament.nz
 autodiscover.oag.parliament.nz
 data.oag.parliament.nz
-www.oag.parliament.nz
 ombudsman.parliament.nz
 autodiscover.ombudsman.parliament.nz
 careers.ombudsman.parliament.nz
@@ -27,7 +24,6 @@ smtp.ombudsman.parliament.nz
 staging.ombudsman.parliament.nz
 vpn.ombudsman.parliament.nz
 vpn2.ombudsman.parliament.nz
-www.ombudsman.parliament.nz
 ondemand.parliament.nz
 parliamentarycollection.parliament.nz
 pce.parliament.nz
@@ -38,4 +34,3 @@ mail.secure.parliament.nz
 selectcommittees.parliament.nz
 umbraco.parliament.nz
 videos.parliament.nz
-www.parliament.nz

@@ -1,5 +1,4 @@
-*.avax.network
-*.cchain.explorer.avax.network
+cchain.explorer.avax.network
 academy.avax.network
 api.avax.network
 athereum.avax.network
@@ -11,7 +10,6 @@ bridge.avax.network
 bridgeandtunnel.avax.network
 buy.avax.network
 buy-backup.avax.network
-cchain.explorer.avax.network
 chat.avax.network
 community.avax.network
 core.avax.network
@@ -77,16 +75,6 @@ wallet-beta.avax.network
 wallet-network-assets.avax.network
 warden.avax.network
 welcome.avax.network
-www.avax.network
-www.avangers.avax.network
-www.chat.avax.network
-www.discord.avax.network
-www.hub.avax.network
-www.reddit.avax.network
-www.sale.avax.network
-www.telegram.avax.network
-www.twitter.avax.network
-www.warden.avax.network
 airflow.avax.network
 atlantis.avax.network
 bd.avax.network
@@ -253,7 +241,6 @@ email.mg.avax.network
 graphnode2.avax.network
 api-us-west-2.avax.network
 burp.avax.network
-www.metrics.avax.network
 chain.avax.network
 mainnet-straitsx-y2550.avax.network
 gas-relayer.avax.network

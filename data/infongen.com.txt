@@ -21,7 +21,6 @@ chef.aws.infongen.com
 graylog2.infongen.com
 host182.infongen.com
 host185.infongen.com
-www.chef.aws.infongen.com
 host181.infongen.com
 host166.infongen.com
 host173.infongen.com
@@ -44,7 +43,6 @@ host190.infongen.com
 oid.infongen.com
 host187.infongen.com
 host165.infongen.com
-www.infongen.com
 host174.infongen.com
 mobile.infongen.com
 host184.infongen.com
@@ -212,14 +210,11 @@ blog.infongen.com
 newsletter.infongen.com
 alphangen.infongen.com
 v4.infongen.com
-*.infongen.com
-*.stage.infongen.com
 21cust139.tnt28.sfo8.da.uu.net167.infongen.com
 corpsite1.aws.infongen.com
 corpsite3.aws.infongen.com
 corpsite4.aws.infongen.com
 us1-inet-3750a.infongen.com
-*.aws.infongen.com
 abbott.infongen.com
 aaa.infongen.com
 bw.infongen.com

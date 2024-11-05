@@ -30,7 +30,6 @@ smtp.netlim.com
 pbrand.netlim.com
 mx4.netlim.com
 smtpauth.netlim.com
-www.netlim.com
 gate.netlim.com
 server.netlim.com
 mail10.netlim.com
@@ -84,7 +83,6 @@ ccc.dddd.netlim.com
 cpanel.netlim.com
 prune.netlim.com
 blog.netlim.com
-www.mails.netlim.com
 aniqmail.netlim.com
 smail.netlim.com
 mywebmail.netlim.com
@@ -96,5 +94,4 @@ correu.netlim.com
 mail1.netlim.com
 exchangecorp.netlim.com
 exchange.netlim.com
-www.prune.netlim.com
 mail01.netlim.com

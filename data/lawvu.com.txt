@@ -1,5 +1,5 @@
 marketplace.lawvu.com
-www.inview.lawvu.com
+inview.lawvu.com
 api-team-gateway.lawvu.com
 api.lawvu.com
 docs.lawvu.com
@@ -12,7 +12,7 @@ admin-eu.lawvu.com
 community.lawvu.com
 dev.public-api.lawvu.com
 workshare-authworker-fra.lawvu.com
-www.au.public-api.lawvu.com
+au.public-api.lawvu.com
 us.lawvu.com
 eu.lawvu.com
 workshare-authworker-team.lawvu.com
@@ -32,7 +32,7 @@ api-docs-private.lawvu.com
 teams-worker-dev.lawvu.com
 zuva-api-us.zuva.lawvu.com
 staging.public-api.lawvu.com
-www.us.public-api.lawvu.com
+us.public-api.lawvu.com
 zuva-au.zuva.lawvu.com
 academy.lawvu.com
 developer.lawvu.com
@@ -48,12 +48,9 @@ staging.lawvu.com
 gmail-cloudfunctions-dev.lawvu.com
 mailsync-worker-au.lawvu.com
 webdisk.lawvu.com
-www.can.public-api.lawvu.com
-www.eu.public-api.lawvu.com
 zuva-api-au.zuva.lawvu.com
 zuva-api-dev.zuva.lawvu.com
 fields.zuva-dev-test.zuva.lawvu.com
-us.public-api.lawvu.com
 feedback.lawvu.com
 fields.zuva-us.zuva.lawvu.com
 go.lawvu.com
@@ -62,11 +59,9 @@ zuva-dev.lawvu.com
 admin-au.lawvu.com
 admin-us.lawvu.com
 cpanel.lawvu.com
-inview.lawvu.com
 team.public-api.lawvu.com
 workshare-authworker-usa.lawvu.com
 fields.zuva-dev.zuva.lawvu.com
-www.lawvu.com
 developers.lawvu.com
 fields.zuva-eu.zuva.lawvu.com
 api-docs.lawvu.com
@@ -80,9 +75,7 @@ api-sandbox.lawvu.com
 info.lawvu.com
 o1.ptr5123.mail.lawvu.com
 qa.public-api.lawvu.com
-au.public-api.lawvu.com
 admin-aus.lawvu.com
-www.can.lawvu.com
 zuva-dev.zuva.lawvu.com
 demo.lawvu.com
 zuva-api-dev-test.zuva.lawvu.com

@@ -1,5 +1,3 @@
-*.nflxext.com
-*.assets.nflxext.com
 assets.nflxext.com
 assets-atv.nflxext.com
 assets-sha1.nflxext.com
@@ -13,13 +11,10 @@ ncds.nflxext.com
 ncds-sha1.nflxext.com
 ncds.test.nflxext.com
 webvtt-s.nflxext.com
-www.nflxext.com
 webvtt.nflxext.com
 x2fassets.nflxext.com
-www.assets.nflxext.com
 games.nflxext.com
 atv.assets.nflxext.com
-*.games.nflxext.com
 akam.geo.nflxext.com
 geo.nflxext.com
 san.akam.geo.nflxext.com

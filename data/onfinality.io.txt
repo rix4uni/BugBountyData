@@ -160,7 +160,6 @@ crust-dns.api.onfinality.io
 rancher.mgmt.onfinality.io
 centrifuge-dns.api.onfinality.io
 dfkchain.api.onfinality.io
-www.onfinality.io
 nodle-testnet-bootnode-0.p2p.onfinality.io
 lh.health.onfinality.io
 kusama-0.boot.onfinality.io

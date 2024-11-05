@@ -1,4 +1,3 @@
-www.olcott.com
 relay1.olcott.com
 host.olcott.com
 mail.olcott.com
@@ -25,14 +24,13 @@ smtp01.olcott.com
 mx10.olcott.com
 mx0.olcott.com
 relay.olcott.com
-www.client.olcott.com
+client.olcott.com
 newmail.olcott.com
 thor.olcott.com
 mx2.olcott.com
 ross.olcott.com
 poczta.olcott.com
 auth.olcott.com
-client.olcott.com
 mx.olcott.com
 smtpauth.olcott.com
 mailer.olcott.com

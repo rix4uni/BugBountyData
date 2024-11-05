@@ -9,7 +9,7 @@ ns1.corp.cloudsimple.com
 public-preview-portal.cloudsimple.com
 info.cloudsimple.com
 preview.gcloud.cloudsimple.com
-www.cs-demo.cloudsimple.com
+cs-demo.cloudsimple.com
 mailhost.corp.cloudsimple.com
 staging.cloudsimple.com
 cs-staging.cloudsimple.com
@@ -24,10 +24,8 @@ westus-he.azure.cloudsimple.com
 support.cloudsimple.com
 jenkins-dev-master01.corp.cloudsimple.com
 az-westus.cloudsimple.com
-www.cs-staging.cloudsimple.com
 preview.cloudsimple.com
 registry-proxy-01.corp.cloudsimple.com
-cs-demo.cloudsimple.com
 az-westus-maas.cloudsimple.com
 corp.cloudsimple.com
 dealreg.cloudsimple.com
@@ -36,7 +34,6 @@ tenant.cloudsimple.com
 vpn-sv4.corp.cloudsimple.com
 gitlab-prod.corp.cloudsimple.com
 docker.corp.cloudsimple.com
-www.cloudsimple.com
 registry-proxy-02.corp.cloudsimple.com
 atlas.corp.cloudsimple.com
 mailhost.cloudsimple.com
@@ -49,7 +46,6 @@ gitlab-dev.corp.cloudsimple.com
 gitlab-mirror.corp.cloudsimple.com
 ns4.corp.cloudsimple.com
 tools.azure.cloudsimple.com
-www.gitlab-prod.corp.cloudsimple.com
 sso.cloudsimple.com
 id.cloudsimple.com
 gcloud.cloudsimple.com

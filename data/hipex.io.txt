@@ -65,7 +65,7 @@ testshop.hipex.io
 dazhboard.hipex.io
 alert.monitor.hipex.io
 maxilia3.hipex.io
-www.push.monitor.hipex.io
+push.monitor.hipex.io
 production1086.hipex.io
 edge-pack.hipex.io
 pack.hipex.io
@@ -95,7 +95,7 @@ production233.hipex.io
 metaalwinkel.hipex.io
 production1021.hipex.io
 maxilia8.hipex.io
-www.error.hipex.io
+error.hipex.io
 cookiewall.hipex.io
 production1067.hipex.io
 production1126.hipex.io
@@ -109,7 +109,6 @@ percolate-staging.hipex.io
 competitor.hipex.io
 production1100.hipex.io
 pimcore.staging765.hipex.io
-error.hipex.io
 testdomein2server3.hipex.io
 phpro-pack.hipex.io
 production864.hipex.io
@@ -173,7 +172,7 @@ pika.testdomein1server3.hipex.io
 magento-hhvm.hipex.io
 staging1205.hipex.io
 production1087.hipex.io
-www.loki.monitor.hipex.io
+loki.monitor.hipex.io
 test.cdn.dekbeddiscounter.hipex.io
 production1070.hipex.io
 webleads-pack.hipex.io
@@ -201,7 +200,6 @@ tuinartikeltotaal.hipex.io
 mail2.hipex.io
 production1130.hipex.io
 node.staging543.hipex.io
-push.monitor.hipex.io
 support.hipex.io
 production189.hipex.io
 production1121.hipex.io
@@ -258,7 +256,6 @@ production412.hipex.io
 magento.staging765.hipex.io
 production1078.hipex.io
 production1122.hipex.io
-www.hipex.io
 pager.hipex.io
 percolate.hipex.io
 weprovide-pack.hipex.io
@@ -269,12 +266,10 @@ mediact-pack.hipex.io
 reporting.hipex.io
 dev.hipex.io
 platform-api.hipex.io
-loki.monitor.hipex.io
 hoofdfabriek-pack.hipex.io
 support-v2.hipex.io
 maxifleur.hipex.io
 production138.hipex.io
-www.monitor.hipex.io
 provision.hipex.io
 production1111.hipex.io
 beta-pack.hipex.io

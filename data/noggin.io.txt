@@ -2,7 +2,6 @@ headspace.noggin.io
 signin.noggin.io
 learn.noggin.io
 notifications.noggin.io
-www.noggin.io
 integrations.noggin.io
 adfs.noggin.io
 support.noggin.io
@@ -40,9 +39,7 @@ certauth.adfs.noggin.io
 ad.noggin.io
 twilio-drtst.tools.noggin.io
 test-ad.noggin.io
-www.support.noggin.io
-www.rds-au1.ad.noggin.io
+rds-au1.ad.noggin.io
 tools.noggin.io
 assets.wan.noggin.io
 tools-dev.noggin.io
-rds-au1.ad.noggin.io

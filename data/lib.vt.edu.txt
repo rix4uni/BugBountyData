@@ -1,7 +1,5 @@
 ask.lib.vt.edu
-www.ask.lib.vt.edu
 reynoldshomestead.blog.lib.vt.edu
-www.reynoldshomestead.blog.lib.vt.edu
 matomo-dev.cloud.lib.vt.edu
 vtechworks-pprd.cloud.lib.vt.edu
 dspace7-pprd-bk.cloud.lib.vt.edu
@@ -13,7 +11,7 @@ hokiesathome.lib.vt.edu
 staffspace.its.lib.vt.edu
 rum.cloud.lib.vt.edu
 docker-newprod.pri.lib.vt.edu
-www.vtechworks.lib.vt.edu
+vtechworks.lib.vt.edu
 lapis.its.lib.vt.edu
 vtechworks.prod.cloud.lib.vt.edu
 theses.lib.vt.edu
@@ -67,6 +65,5 @@ ezproxy-dev.lib.vt.edu
 podcasts-dev.cloud.lib.vt.edu
 serapis.lib.vt.edu
 cts.blog.lib.vt.edu
-www.cts.blog.lib.vt.edu
 rum-dev.cloud.lib.vt.edu
 isgm-archive.cloud.lib.vt.edu

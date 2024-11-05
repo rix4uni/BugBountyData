@@ -1,5 +1,4 @@
 phishing-test.cyannetworks.com
-*.cyannetworks.com
 sugar.cyannetworks.com
 tech.cyannetworks.com
 binaries.cyannetworks.com
@@ -9,7 +8,6 @@ partnerarea.devel.cyannetworks.com
 tech.devel.cyannetworks.com
 vpn.cyannetworks.com
 appliance.cyannetworks.com
-www.cyannetworks.com
 redmine.cyannetworks.com
 service.cyannetworks.com
 party-tfvericudevel.cyannetworks.com

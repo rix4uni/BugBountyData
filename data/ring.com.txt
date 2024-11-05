@@ -80,7 +80,7 @@ static-assets-blink-oauth.dev.ring.com
 ecs-internal.blink-oauth.dev.ring.com
 firmware-release-grafana.dev.ring.com
 fw-ch.ring.com
-www.gamma.ring.com
+gamma.ring.com
 create-dpd.ringo.release.ring.com
 appdev-b.prod.rs-corelogs.dm.ring.com
 api.devices.beta.us-east-2.eventstream.dm.ring.com
@@ -318,7 +318,7 @@ ps-eu.ring.com
 rss-dpd-internal-iad.rss.qa.ring.com
 user-0cet4pm.cable.mindspring.ring.com
 user-11fa460.dsl.mindspring.ring.com
-www.qa.ring.com
+qa.ring.com
 ringo-api-dings-rss.dev.ring.com
 arsh.ring.com
 bosporus-sandbox-us-east-1.ring.com
@@ -328,7 +328,7 @@ api.gonogo.gamma.metrics.shuttle.ring.com
 api.internal.us-east-1.ringo.dev.ring.com
 api.internal.us-west-2.ringo.qa.ring.com
 api.qa.ring.com
-www.pupquarterly.ring.com
+pupquarterly.ring.com
 communityprograms.dev.ring.com
 firmwrms.ring.com
 api.us-east-1.geocode.qa.ring.com
@@ -535,7 +535,6 @@ kafka-ui.us-east-1.lds.prod.ring.com
 static-install.ring.com
 querier.tempo.beta.ring.com
 neighbors-feed.prod.eventstream.dm.ring.com
-www.ring.com
 en-uk.ring.com
 fs-usw1-a-179.ring.com
 gws.ap-southeast-2.ringo.release.ring.com
@@ -620,7 +619,7 @@ hortacomunitariagrajau.ring.com
 hr.dev.ring.com
 idx004.interim.splunk.dm.ring.com
 lpd.dev.ring.com
-www.jira.atl-dev.ring.com
+jira.atl-dev.ring.com
 nh-attrib.qa.ring.com
 admin-gateway.us-east-1.firmwrms.dev.ring.com
 create-dpd.us-east-1.ringo.qa.ring.com
@@ -765,7 +764,7 @@ cm.prod.backendcapisplunk.dm.ring.com
 gws.eu-north-1.ringo.qa.ring.com
 gws.us-east-1.ringo.dev.ring.com
 rss-chime-internal-iad.rsshq.dev.ring.com
-www.systrading-ecommerce.ring.com
+systrading-ecommerce.ring.com
 insider.rc3.ring.com
 autodiscover.research.ring.com
 cell-0.calls.qa.ring.com
@@ -939,7 +938,6 @@ sim-cmh.artifactory.prod.ring.com
 prod.iq-tools.ring.com
 us-east-2.dncs.release.ring.com
 dpd-nrt.rss.qa.ring.com
-jira.atl-dev.ring.com
 sr-consumer.ring.com
 bbdr.ring.com
 sink.dev.ring.com
@@ -1078,7 +1076,7 @@ manage.dev.lexicon.dm.ring.com
 aw5vsdv.weebly.ring.com
 create-dings.us-east-1.ringo.ring.com
 create-lpd.ap-south-1.ringo.dev.ring.com
-www.nessus.sec.ring.com
+nessus.sec.ring.com
 cocoadoorbellv3.ring.com
 alerts.dev.ring.com
 fs-0243.ring.com
@@ -1203,14 +1201,14 @@ ezlwd8nb.palantir.ring.com
 nz-en.qa.ring.com
 o5.sg.qa.ring.com
 ps-aps1.stg2.ring.com
-www.vpn.ring.com
+vpn.ring.com
 create-dings.ap-southeast-2.ringo.qa.ring.com
 internal.ap-northeast-1.ringo.release.ring.com
 webhooks.prod.splunk.dm.ring.com
 admin.tempo.prod.ring.com
 alwayshomecamera.rss.qa.ring.com
 lpd-debug.rsshq.dev.ring.com
-www.alpha.ring.com
+alpha.ring.com
 internal.ap-southeast-1.ringo.dev.ring.com
 internal.eu-north-1.ringo.ring.com
 shc1.dev.splunk.dm.ring.com
@@ -1308,7 +1306,7 @@ devices.us-west-2.firmwrms.qa.ring.com
 dohodotseti.ring.com
 neighborsapigw.us-east-1.gws.qa.ring.com
 to.ring.com
-www.myidziecko.ring.com
+myidziecko.ring.com
 geocode.dev.ring.com
 firmwrms.dev.ring.com
 thrive.ring.com
@@ -1380,7 +1378,6 @@ crimewatch-api.dev.ring.com
 devices.us-east-1.firmwrms.ring.com
 features.ring.com
 internal.us-east-1.ringo.qa.ring.com
-nessus.sec.ring.com
 pdx.rss.dev.ring.com
 ring-dm-sample.dev.capisplunk.dm.ring.com
 rss-dpd-service.rsshq.qa.ring.com
@@ -1448,7 +1445,6 @@ gamma.udms.dm.ring.com
 gws.us-west-2.firmwrms.dev.ring.com
 ps-apse2.stg2.ring.com
 videos.dev.ring.com
-www.getdoorbot.com.ring.com
 appdev-b.dev.rs-corelogs.dm.ring.com
 dev.transform-data-controller.codev.research.ring.com
 gws.us-east-1.firmwrms.release.ring.com
@@ -1514,7 +1510,6 @@ comments-api.release.ring.com
 compass.ring.com
 gws.us-west-2.device-groups-service.dev.ring.com
 nhadmin.dev.ring.com
-www.webhooks.prod.splunk.dm.ring.com
 mleonov.alpha.api.vivi.research.ring.com
 cell-2.us-west-2.calls.ring.com
 create-dings.us-east-2.ringo.dev.ring.com
@@ -1639,7 +1634,7 @@ download2.ring.com
 marketing-static.ring.com
 oauth.worker.dev.ring.com
 us-west-2.delhi.nw.dev.ring.com
-www.arnelpineda.ring.com
+arnelpineda.ring.com
 cdn.ring.com
 cm.prod.cloud2.dm.ring.com
 eventstream3pgw.us-west-2.gws.ring.com
@@ -1682,7 +1677,7 @@ dpd-debug.rsshq.qa.ring.com
 gws.us-east-1.device-groups-service.dev.ring.com
 internal.ap-southeast-1.ringo.qa.ring.com
 ps.qa.ring.com
-www.confluence.atl-dev.ring.com
+confluence.atl-dev.ring.com
 create-lpd.us-west-2.ringo.dev.ring.com
 beta.ring.com
 chpro-pdx.rss.dev.ring.com
@@ -1717,7 +1712,6 @@ fs-usw1-a-267.ring.com
 fs-usw1-d-322.ring.com
 trumpreleaseyourreturns.ring.com
 uk-en.ring.com
-www.rs.splunk.dm.ring.com
 us-east-1.firmwrms.release.ring.com
 cell-1.us-west-2.calls.qa.ring.com
 rss-chime-internal-iad.rss.dev.ring.com
@@ -1765,7 +1759,6 @@ rss-lpd-internal-nrt.rss.qa.ring.com
 se-en.dev.ring.com
 us-west-2.firmwrms.dev.ring.com
 kiali.us-east-1.lds.qa.ring.com
-gamma.ring.com
 1ststreet-com-au.mail.protection.outlook.ring.com
 alpha.snezhana.codev.research.ring.com
 create-hpcam.ap-southeast-2.ringo.qa.ring.com
@@ -1803,7 +1796,7 @@ eu-north-1.ringo.ring.com
 ufe.splunk.dm.ring.com
 us-east-2.ringo.dev.ring.com
 6.ring.com
-www.rock.am.ring.com
+rock.am.ring.com
 create-dings.eu-west-1.ringo.ring.com
 thedisposabowl.ring.com
 app-snaps.release.ring.com
@@ -1854,7 +1847,6 @@ jump-ap-south-1.ring.com
 d.confluence.stg.atl.ring.com
 gih.web1.best-one.ring.com
 grahamcracker.ring.com
-www.rs.dev.splunk.dm.ring.com
 api.stark.ring.com
 cocoa-nrt.rss.qa.ring.com
 edge.qa.sink.dm.ring.com
@@ -1870,7 +1862,7 @@ iad.prod.lexicon.dm.ring.com
 ps-apse1.dev.ring.com
 user-0c99cj2.ring.com
 user-38q49ib.cable.ring.com
-www.girodluca.idesign.ring.com
+girodluca.idesign.ring.com
 cocoa-dub.rss.qa.ring.com
 snapshotsgw.us-east-1.gws.ring.com
 jbox-beta.ring.com
@@ -2058,7 +2050,6 @@ eventstream3pgw.us-west-2.gws.dev.ring.com
 maghrebmachrek.ring.com
 rss-chime-internal-nrt.rss.qa.ring.com
 beta.vivi.codev.research.ring.com
-qa.ring.com
 us-east-1.dncs.release.ring.com
 atlassian.dev.ring.com
 chimev2.dev.ring.com
@@ -2126,7 +2117,7 @@ api.internal.us-east-2.ringo.release.ring.com
 ch-debug.dev.ring.com
 rss-dpd-service.dev.ring.com
 us-east-1-iperf.ring.com
-www.dungoreksa.ring.com
+dungoreksa.ring.com
 admin.dev.ring.com
 create-hpcam.us-east-1.ringo.dev.ring.com
 pns.ring.com
@@ -2316,7 +2307,6 @@ cs-tools.dev.ring.com
 gws.us-east-1.device-groups-service.qa.ring.com
 hf-ingest.nonprod.cloud1.dm.ring.com
 o17.sg.verify.ring.com
-alpha.ring.com
 internal.release.rollouts.shuttle.ring.com
 srvstatic.ring.com
 sss.ring.com
@@ -2348,7 +2338,6 @@ users.dev.splunk.dm.ring.com
 test.rms-emulator.ring.com
 dev.rms-emulator.ring.com
 internal.2fa.dev.ring.com
-www.beta.ring.com
 api.internal.ap-south-1.ringo.release.ring.com
 apex.publicsafety.ring.com
 api.compass.dev.ring.com
@@ -2758,8 +2747,6 @@ deafult.us-east-1.lds.prod.ring.com
 fw-pcu.dev.ring.com
 rms.ring.com
 site.ring.com
-www.get.ring.com
-www.ring-shop.ring.com
 es.news.neighbors.dev.ring.com
 app-content2.ring.com
 api-device.qa.ring.com
@@ -2849,7 +2836,6 @@ fs-use1-h-0219.ring.com
 geotest.ring.com
 gws.eu-west-1.ringo.ring.com
 oauth.prod.splunk.dm.ring.com
-www.dev.ring.com
 adhoc.sh.splunk.dm.ring.com
 devices.us-east-1.firmwrms.dev.ring.com
 qa-automation-01.qa.ring.com
@@ -2869,10 +2855,8 @@ internal.ringtones-service.dev.ring.com
 nh-posts-gw.dev.ring.com
 sip-api.qa.ring.com
 cocoadoorbellv3.qa.ring.com
-confluence.atl-dev.ring.com
 firmwares.qa.ring.com
 nhadmin.qa.ring.com
-vpn.ring.com
 clownfish.ring.com
 create-lpd.eu-north-1.ringo.ring.com
 idx010.interim.splunk.dm.ring.com
@@ -2965,7 +2949,6 @@ nh-crimewatch-api-gw.ring.com
 qatest.devices-emulator.ring.com
 rs.sh.dev.splunk.dm.ring.com
 test.sink.dm.ring.com
-*.svc.ring.com
 gws.ring.com
 us-east-1.gws.ring.com
 prod.ring.com

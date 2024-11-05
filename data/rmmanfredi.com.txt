@@ -4,7 +4,6 @@ admin.rmmanfredi.com
 nas.prod.rmmanfredi.com
 go.rmmanfredi.com
 drive.prod.rmmanfredi.com
-www.rmmanfredi.com
 ark.rmmanfredi.com
 status.rmmanfredi.com
 scim.rmmanfredi.com
@@ -16,6 +15,5 @@ main.pages.rmmanfredi.com
 development.pages.rmmanfredi.com
 archive.prod.rmmanfredi.com
 vpn.rmmanfredi.com
-*.rmmanfredi.com
-*.staging.rmmanfredi.com
-*.prod.rmmanfredi.com
+staging.rmmanfredi.com
+prod.rmmanfredi.com

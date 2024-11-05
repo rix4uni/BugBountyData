@@ -14,7 +14,7 @@ kindle-store-proxy-endpoint.amazon.com.mx
 account.kep.amazon.com.mx
 kep.amazon.com.mx
 test-www.amazon.com.mx
-www.logistics.amazon.com.mx
+logistics.amazon.com.mx
 rental-account.hubportal.amazon.com.mx
 www14.amazon.com.mx
 orders.amazon.com.mx
@@ -37,7 +37,6 @@ akamai-renew-cert-digicert.amazon.com.mx
 dl.amazon.com.mx
 alexaanswers.amazon.com.mx
 sellerflex.amazon.com.mx
-www.amazon.com.mx
 aba.amazon.com.mx
 dtp.amazon.com.mx
 completion.amazon.com.mx
@@ -83,7 +82,7 @@ skills-store.amazon.com.mx
 origin-dl.amazon.com.mx
 origin-sellercentral.amazon.com.mx
 music.amazon.com.mx
-www.cdn.amazon.com.mx
+cdn.amazon.com.mx
 na-bob-dispatch-prod-alexa.amazon.com.mx
 aax-na.amazon.com.mx
 sellercentral.cdn.amazon.com.mx
@@ -104,7 +103,6 @@ edgeflow-dp.aero.4e37fb303-frontier.amazon.com.mx
 p-y3-www-amazon-com-mx-kalias.amazon.com.mx
 author.amazon.com.mx
 leer.amazon.com.mx
-logistics.amazon.com.mx
 terrier.amazon.com.mx
 dp-gw-preprod.amazon.com.mx
 billing-kep.amazon.com.mx
@@ -158,7 +156,6 @@ api.amazon.com.mx
 arcus-www.amazon.com.mx
 alexa.amazon.com.mx
 relay.amazon.com.mx
-cdn.amazon.com.mx
 dossier-browserapps.amazon.com.mx
 rental-account.hub.amazon.com.mx
 alexaskills.amazon.com.mx
@@ -175,16 +172,13 @@ gaming-api.amazon.com.mx
 supplychain.amazon.com.mx
 opf-www.amazon.com.mx
 tp.15db73592-frontier.amazon.com.mx
-*.transient.amazon.com.mx
 luna.amazon.com.mx
-*.trabaja.amazon.com.mx
 na-bob-dispatch-gamma-alexa.amazon.com.mx
 fe-bob-dispatch-prod-alexa.amazon.com.mx
 eu-bob-dispatch-prod-alexa.amazon.com.mx
 eu-bob-dispatch-gamma-alexa.amazon.com.mx
 ?.amazon.com.mx
 tp.8a9a0d4f6-frontier.amazon.com.mx
-*.amazon.com.mx
 4e37fb303-frontier.amazon.com.mx
 tp.4e37fb303-frontier.amazon.com.mx
 appx.transient.amazon.com.mx
@@ -359,7 +353,7 @@ ip251.126.03v9hcrxibieyo71.trabaja.amazon.com.mx
 226.178.03v9hcrxibieyo71.trabaja.amazon.com.mx
 150-115.03v9hcrxibieyo71.trabaja.amazon.com.mx
 151198.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.028.trabaja.amazon.com.mx
+028.trabaja.amazon.com.mx
 reset.apx-security-alb.trabaja.amazon.com.mx
 124.03v9hcrxibieyo71.trabaja.amazon.com.mx
 166-89.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -375,7 +369,7 @@ reset.apx-security-alb.trabaja.amazon.com.mx
 17.224.03v9hcrxibieyo71.trabaja.amazon.com.mx
 88.162.03v9hcrxibieyo71.trabaja.amazon.com.mx
 xsbqkeqnz583ovx9.179.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.2013.03v9hcrxibieyo71.trabaja.amazon.com.mx
+2013.03v9hcrxibieyo71.trabaja.amazon.com.mx
 232-208.03v9hcrxibieyo71.trabaja.amazon.com.mx
 168-64.03v9hcrxibieyo71.trabaja.amazon.com.mx
 90.164.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -539,7 +533,7 @@ xxynowayyzz.123-184.03v9hcrxibieyo71.trabaja.amazon.com.mx
 155204.03v9hcrxibieyo71.trabaja.amazon.com.mx
 1-108.03v9hcrxibieyo71.trabaja.amazon.com.mx
 187128.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.015.trabaja.amazon.com.mx
+015.trabaja.amazon.com.mx
 119-156.03v9hcrxibieyo71.trabaja.amazon.com.mx
 178-22.03v9hcrxibieyo71.trabaja.amazon.com.mx
 185-91.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -683,7 +677,7 @@ xxynowayyzz.219-31.03v9hcrxibieyo71.trabaja.amazon.com.mx
 119-233.03v9hcrxibieyo71.trabaja.amazon.com.mx
 172-247.03v9hcrxibieyo71.trabaja.amazon.com.mx
 69.18.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.2009.03v9hcrxibieyo71.trabaja.amazon.com.mx
+2009.03v9hcrxibieyo71.trabaja.amazon.com.mx
 174173.03v9hcrxibieyo71.trabaja.amazon.com.mx
 170-245.03v9hcrxibieyo71.trabaja.amazon.com.mx
 xxynowayyzz.0165f9b4-a-62cb3a1a-s-sites.trabaja.amazon.com.mx
@@ -844,7 +838,6 @@ bdhl2w6museredyiphoktvqriblcl4aq._domainkey.amazon.com.mx
 035-rxg-319.trabaja.amazon.com.mx
 001ktuzpsk6ijxqt.trabaja.amazon.com.mx
 121192.03v9hcrxibieyo71.trabaja.amazon.com.mx
-2013.03v9hcrxibieyo71.trabaja.amazon.com.mx
 211.160.03v9hcrxibieyo71.trabaja.amazon.com.mx
 78.110.03v9hcrxibieyo71.trabaja.amazon.com.mx
 213.13.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -877,7 +870,7 @@ hwbhhslqlexnu7nds6bbktx76ms3gusg._domainkey.amazon.com.mx
 115-155.03v9hcrxibieyo71.trabaja.amazon.com.mx
 225-87.03v9hcrxibieyo71.trabaja.amazon.com.mx
 157-33.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.2005.03v9hcrxibieyo71.trabaja.amazon.com.mx
+2005.03v9hcrxibieyo71.trabaja.amazon.com.mx
 146226.03v9hcrxibieyo71.trabaja.amazon.com.mx
 xxynowayyzz.018-r.trabaja.amazon.com.mx
 185-238.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -1583,7 +1576,6 @@ origin-ams.amazon.com.mx
 85.217.03v9hcrxibieyo71.trabaja.amazon.com.mx
 208141.03v9hcrxibieyo71.trabaja.amazon.com.mx
 140-135.03v9hcrxibieyo71.trabaja.amazon.com.mx
-015.trabaja.amazon.com.mx
 105.03v9hcrxibieyo71.trabaja.amazon.com.mx
 238.22.03v9hcrxibieyo71.trabaja.amazon.com.mx
 231-120.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -1824,7 +1816,6 @@ origin-api.amazon.com.mx
 168-204.03v9hcrxibieyo71.trabaja.amazon.com.mx
 178-186.03v9hcrxibieyo71.trabaja.amazon.com.mx
 29.103.03v9hcrxibieyo71.trabaja.amazon.com.mx
-2005.03v9hcrxibieyo71.trabaja.amazon.com.mx
 237.156.03v9hcrxibieyo71.trabaja.amazon.com.mx
 17-230.03v9hcrxibieyo71.trabaja.amazon.com.mx
 192-165.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -2375,7 +2366,6 @@ host.214.03v9hcrxibieyo71.trabaja.amazon.com.mx
 103-127.03v9hcrxibieyo71.trabaja.amazon.com.mx
 138-148.03v9hcrxibieyo71.trabaja.amazon.com.mx
 153-251.03v9hcrxibieyo71.trabaja.amazon.com.mx
-028.trabaja.amazon.com.mx
 193.net-31.172.03v9hcrxibieyo71.trabaja.amazon.com.mx
 232.187.03v9hcrxibieyo71.trabaja.amazon.com.mx
 48.126.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -2740,7 +2730,7 @@ thumbnails.trabaja.amazon.com.mx
 160189.03v9hcrxibieyo71.trabaja.amazon.com.mx
 204-36.03v9hcrxibieyo71.trabaja.amazon.com.mx
 141.159.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.001swsroot.trabaja.amazon.com.mx
+001swsroot.trabaja.amazon.com.mx
 228.171.03v9hcrxibieyo71.trabaja.amazon.com.mx
 111.03v9hcrxibieyo71.trabaja.amazon.com.mx
 xxynowayyzz.121082.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -2906,7 +2896,6 @@ mlxkbvkbtk3c2ge3644q4osv4dis53qb._domainkey.amazon.com.mx
 118-103.03v9hcrxibieyo71.trabaja.amazon.com.mx
 000-602abillsstaging-files.trabaja.amazon.com.mx
 032164.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.01.trabaja.amazon.com.mx
 181.137.03v9hcrxibieyo71.trabaja.amazon.com.mx
 102-228.03v9hcrxibieyo71.trabaja.amazon.com.mx
 30.220.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -2986,7 +2975,7 @@ tp.0daac5856-frontier.amazon.com.mx
 031.trabaja.amazon.com.mx
 136-210.03v9hcrxibieyo71.trabaja.amazon.com.mx
 159-66.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.14.03v9hcrxibieyo71.trabaja.amazon.com.mx
+14.03v9hcrxibieyo71.trabaja.amazon.com.mx
 5.129.03v9hcrxibieyo71.trabaja.amazon.com.mx
 17205.03v9hcrxibieyo71.trabaja.amazon.com.mx
 21-107.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -3461,7 +3450,6 @@ origin-services.amazon.com.mx
 95.168.03v9hcrxibieyo71.trabaja.amazon.com.mx
 44.181.03v9hcrxibieyo71.trabaja.amazon.com.mx
 115.206.03v9hcrxibieyo71.trabaja.amazon.com.mx
-001swsroot.trabaja.amazon.com.mx
 210-243.03v9hcrxibieyo71.trabaja.amazon.com.mx
 122.214.03v9hcrxibieyo71.trabaja.amazon.com.mx
 243.232.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -3586,7 +3574,6 @@ xxynowayyzz.003-zel5zsmtycufkc47.trabaja.amazon.com.mx
 151-159.03v9hcrxibieyo71.trabaja.amazon.com.mx
 162.190.03v9hcrxibieyo71.trabaja.amazon.com.mx
 134-234.03v9hcrxibieyo71.trabaja.amazon.com.mx
-2009.03v9hcrxibieyo71.trabaja.amazon.com.mx
 03jvdk5v6c86437b.trabaja.amazon.com.mx
 192.210.03v9hcrxibieyo71.trabaja.amazon.com.mx
 155-164.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -3668,7 +3655,7 @@ xxynowayyzz.003-zel5zsmtycufkc47.trabaja.amazon.com.mx
 248.153.03v9hcrxibieyo71.trabaja.amazon.com.mx
 213-73.03v9hcrxibieyo71.trabaja.amazon.com.mx
 101-91.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.2017.03v9hcrxibieyo71.trabaja.amazon.com.mx
+2017.03v9hcrxibieyo71.trabaja.amazon.com.mx
 20-112.03v9hcrxibieyo71.trabaja.amazon.com.mx
 ip176.120.03v9hcrxibieyo71.trabaja.amazon.com.mx
 153152.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -3742,7 +3729,7 @@ tp.686c5c447-frontier.amazon.com.mx
 186-162.03v9hcrxibieyo71.trabaja.amazon.com.mx
 179.2.03v9hcrxibieyo71.trabaja.amazon.com.mx
 176.202.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.2015nikeairmax.03v9hcrxibieyo71.trabaja.amazon.com.mx
+2015nikeairmax.03v9hcrxibieyo71.trabaja.amazon.com.mx
 157-111.03v9hcrxibieyo71.trabaja.amazon.com.mx
 196-161.03v9hcrxibieyo71.trabaja.amazon.com.mx
 xxynowayyzz.167.104.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -3941,13 +3928,11 @@ xxynowayyzz.164-103.03v9hcrxibieyo71.trabaja.amazon.com.mx
 189197.03v9hcrxibieyo71.trabaja.amazon.com.mx
 205228.03v9hcrxibieyo71.trabaja.amazon.com.mx
 75.138.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.111.03v9hcrxibieyo71.trabaja.amazon.com.mx
 156094.03v9hcrxibieyo71.trabaja.amazon.com.mx
 153.110.03v9hcrxibieyo71.trabaja.amazon.com.mx
 12-75.03v9hcrxibieyo71.trabaja.amazon.com.mx
 146.22.03v9hcrxibieyo71.trabaja.amazon.com.mx
 139104.03v9hcrxibieyo71.trabaja.amazon.com.mx
-14.03v9hcrxibieyo71.trabaja.amazon.com.mx
 0247.trabaja.amazon.com.mx
 6.193.03v9hcrxibieyo71.trabaja.amazon.com.mx
 03-78.trabaja.amazon.com.mx
@@ -3965,7 +3950,6 @@ xxynowayyzz.132080.03v9hcrxibieyo71.trabaja.amazon.com.mx
 149-14.03v9hcrxibieyo71.trabaja.amazon.com.mx
 212.115.03v9hcrxibieyo71.trabaja.amazon.com.mx
 228127.03v9hcrxibieyo71.trabaja.amazon.com.mx
-2015nikeairmax.03v9hcrxibieyo71.trabaja.amazon.com.mx
 121-240.03v9hcrxibieyo71.trabaja.amazon.com.mx
 130-248.03v9hcrxibieyo71.trabaja.amazon.com.mx
 112-93.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -4189,7 +4173,6 @@ alexa-skills-beta-fe-api.trabaja.amazon.com.mx
 177.143.03v9hcrxibieyo71.trabaja.amazon.com.mx
 tp.8a25e4778-frontier.amazon.com.mx
 142.102.03v9hcrxibieyo71.trabaja.amazon.com.mx
-2017.03v9hcrxibieyo71.trabaja.amazon.com.mx
 134-222.03v9hcrxibieyo71.trabaja.amazon.com.mx
 62.196.03v9hcrxibieyo71.trabaja.amazon.com.mx
 151117.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -4317,7 +4300,7 @@ product-browserapps.trabaja.amazon.com.mx
 116.129.03v9hcrxibieyo71.trabaja.amazon.com.mx
 25.156.03v9hcrxibieyo71.trabaja.amazon.com.mx
 114.16.03v9hcrxibieyo71.trabaja.amazon.com.mx
-www.211.03v9hcrxibieyo71.trabaja.amazon.com.mx
+211.03v9hcrxibieyo71.trabaja.amazon.com.mx
 183108.03v9hcrxibieyo71.trabaja.amazon.com.mx
 114.152.03v9hcrxibieyo71.trabaja.amazon.com.mx
 35.156.03v9hcrxibieyo71.trabaja.amazon.com.mx
@@ -4789,7 +4772,6 @@ email.amazon.com.mx
 195252.03v9hcrxibieyo71.trabaja.amazon.com.mx
 180-175.03v9hcrxibieyo71.trabaja.amazon.com.mx
 130-228.03v9hcrxibieyo71.trabaja.amazon.com.mx
-211.03v9hcrxibieyo71.trabaja.amazon.com.mx
 235.179.03v9hcrxibieyo71.trabaja.amazon.com.mx
 169-77.03v9hcrxibieyo71.trabaja.amazon.com.mx
 212.202.03v9hcrxibieyo71.trabaja.amazon.com.mx

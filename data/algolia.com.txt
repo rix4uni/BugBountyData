@@ -37,7 +37,6 @@ analytics-4.algolia.com
 usage.algolia.com
 integrations.algolia.com
 logs-8.algolia.com
-www.algolia.com
 staging.ai.platform.de.algolia.com
 status-admin.algolia.com
 aiact.algolia.com
@@ -343,7 +342,6 @@ blackhole2.algolia.com
 places-dev.algolia.com
 facebooksearch.algolia.com
 github.algolia.com
-www.integrations.algolia.com
 camunda.dealdesk.algolia.com
 ai-personalization.eu.algolia.com
 analytics-review.de.algolia.com
@@ -361,22 +359,10 @@ staging.ai-personalization.eu.algolia.com
 task-runner.dealdesk.algolia.com
 us.prod.workflows.algolia.com
 workspace.dealdesk.algolia.com
-www.au.dev.workflows.algolia.com
-www.integrations-development.algolia.com
-www.integrations-staging.algolia.com
-www.partners.algolia.com
-www.stories.algolia.com
-*.algolia.com
-*.au.dev.workflows.algolia.com
-*.cdn.us.prod.inference.ai.algolia.com
-*.dashboard.algolia.com
-*.de.algolia.com
-*.dev-dashboard.algolia.com
-*.mulesoft.algolia.com
-*.mulesoft-dev.algolia.com
-*.sandbox.algolia.com
-*.us.algolia.com
-*.us.prod.workflows.algolia.com
+cdn.us.prod.inference.ai.algolia.com
+mulesoft.algolia.com
+mulesoft-dev.algolia.com
+sandbox.algolia.com
 ai.platform.de.algolia.com
 ai.platform.us.algolia.com
 ams.algolia.com
@@ -396,7 +382,6 @@ c1-use-3.algolia.com
 c3-use-1.algolia.com
 c3-use-2.algolia.com
 c3-use-3.algolia.com
-cdn.us.prod.inference.ai.algolia.com
 crawlers.algolia.com
 dep-ndasubnuabsdnaosndubasd.algolia.com
 ecommerce-images.algolia.com
@@ -410,8 +395,6 @@ linkedinsearch.algolia.com
 magento-demo.algolia.com
 magento-test.algolia.com
 magentoconnect.algolia.com
-mulesoft.algolia.com
-mulesoft-dev.algolia.com
 new-hn.algolia.com
 ns1.algolia.com
 ns2.algolia.com
@@ -455,7 +438,6 @@ pages.m.algolia.com
 events.algolia.com
 foundation-ops-dashboard-2.algolia.com
 shopify-stream-6.algolia.com
-www.us.prod.workflows.algolia.com
 mesos-master-3.algolia.com
 shopify-stream-5.algolia.com
 shopify-stream-4.algolia.com
@@ -554,7 +536,6 @@ service.dev-dashboard.algolia.com
 7.dev-dashboard.algolia.com
 demo.dev-dashboard.algolia.com
 repo-fluentbit.dev-dashboard.algolia.com
-www.pages.algolia.com
 mail.algolia.com
 em8814.algolia.com
 build-cdn.dev-dashboard.algolia.com
@@ -599,7 +580,6 @@ sgmt.dev-dashboard.algolia.com
 de.dev-dashboard.algolia.com
 telemetry-proxy.dev-dashboard.algolia.com
 dev-admin.dev-dashboard.algolia.com
-www.resources.algolia.com
 integrations.dev-dashboard.algolia.com
 s1._domainkey.algolia.com
 bob.dev-dashboard.algolia.com
@@ -631,7 +611,6 @@ prod.workflows.dev-dashboard.algolia.com
 aerialcss.dev-dashboard.algolia.com
 shopify.dev-dashboard.algolia.com
 recommend.us.dev-dashboard.algolia.com
-www.dev-dashboard.algolia.com
 preprod.dev-dashboard.algolia.com
 shopify-stream-2.dev-dashboard.algolia.com
 ima.dev-dashboard.algolia.com
@@ -660,7 +639,6 @@ beta-hn.algolia.com
 task-runner.preprod.dev-dashboard.algolia.com
 demos-cdn.dev-dashboard.algolia.com
 magento2.dev-dashboard.algolia.com
-sandbox.algolia.com
 disourse.algolia.com
 guides.algolia.com
 eu.prod.inference.ai.algolia.com
@@ -670,8 +648,4 @@ us.prod.inference.ai.algolia.com
 otlp.us.prod.inference.ai.algolia.com
 cdn.staging.inference.ai.algolia.com
 otlp.eu.prod.inference.ai.algolia.com
-*.us.prod.inference.ai.algolia.com
-*.eu.prod.inference.ai.algolia.com
-*.cdn.eu.prod.inference.ai.algolia.com
 experiences-beta.algolia.com
-*.staging.inference.ai.algolia.com

@@ -1013,7 +1013,6 @@ medix.my.my.automationanywhere.digital
 aai-donaldson-qa.my.my.automationanywhere.digital
 lonza-1.my.my.automationanywhere.digital
 bancopichincha-prod.my.my.automationanywhere.digital
-www.my.automationanywhere.digital
 ns1.dev.my.automationanywhere.digital
 freetrial-unisys.my.my.automationanywhere.digital
 nidec-oradea-1dev.my.my.automationanywhere.digital
@@ -2676,7 +2675,7 @@ wtnzmx01.ce.my.automationanywhere.digital
 fusiongbs-11.my.my.automationanywhere.digital
 mwmmotores-1.my.my.automationanywhere.digital
 grupopereira.my.my.automationanywhere.digital
-www.dev.my.automationanywhere.digital
+dev.my.automationanywhere.digital
 astro-1.my.my.automationanywhere.digital
 fusiongbs-15.my.my.automationanywhere.digital
 nike-picc-pa-prod.my.my.automationanywhere.digital
@@ -3609,7 +3608,6 @@ manac-sandbox.cloud-3.my.automationanywhere.digital
 agcsgprd.my.my.automationanywhere.digital
 copal.cloud-3.my.automationanywhere.digital
 crprd001.my.my.automationanywhere.digital
-dev.my.automationanywhere.digital
 avr-1.my.my.automationanywhere.digital
 oildri-dev.cloud.my.automationanywhere.digital
 confluentmedical-1dev.my.my.automationanywhere.digital
@@ -5176,7 +5174,6 @@ isc-prod.my.my.automationanywhere.digital
 gfm-cr1.my.my.automationanywhere.digital
 f9p8bba1.ce.my.automationanywhere.digital
 hcl-sbd.my.my.automationanywhere.digital
-*.my.automationanywhere.digital
 mbsrpa-p.my.automationanywhere.digital
 gtg-dev.my.automationanywhere.digital
 rpa-bancodavivienda-des-col.my.automationanywhere.digital
@@ -5197,7 +5194,7 @@ bacrpap.my.automationanywhere.digital
 lyondellbasell-2.my.automationanywhere.digital
 ccdigitalops-1.my.automationanywhere.digital
 scskfinance-1.my.automationanywhere.digital
-www.tangentia-1.my.automationanywhere.digital
+tangentia-1.my.automationanywhere.digital
 trinetprd.my.automationanywhere.digital
 tplatam-prd-us.my.automationanywhere.digital
 tpilatam-dev-us.my.automationanywhere.digital

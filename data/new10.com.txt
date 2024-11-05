@@ -9,8 +9,7 @@ service.new10.com
 early-warning.prd.new10.com
 vpn-irl.prd.new10.com
 graphql.new10.com
-www.new10.com
-www.co-browsing.new10.com
+co-browsing.new10.com
 ww1.new10.com
 company-info-service.prd.new10.com
 mta.contact.new10.com
@@ -42,8 +41,7 @@ early-warning-service.prd.new10.com
 u.new10.com
 marketing.new10.com
 callback.new10.com
-www.git.new10.com
-www.service.new10.com
+git.new10.com
 api.new10.com
 callback.prd.new10.com
 lcm.prd.new10.com
@@ -62,13 +60,10 @@ new10.mambu-proxy.new10.com
 status.new10.com
 development.new10.com
 document-management-service.prd.new10.com
-www.acc.new10.com
 image.contact.new10.com
 graphql-api.new10.com
 psd2.prd.new10.com
 payment-service.prd.new10.com
-co-browsing.new10.com
-git.new10.com
 nginx.prd.new10.com
 financial-health.prd.new10.com
 zomer.new10.com
@@ -87,4 +82,3 @@ enterpriseenrollment.new10.com
 _amazonses.new10.com
 sip.new10.com
 msoid.new10.com
-www.kvk.api.new10.com

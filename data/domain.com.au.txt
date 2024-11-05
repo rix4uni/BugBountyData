@@ -114,7 +114,6 @@ hl.domain.com.au
 domain-workato-dev.ext.aws.domain.com.au
 admin.domain.com.au
 domain-as-platform-prod.ext.aws.domain.com.au
-www.domain.com.au
 watoday.domain.com.au
 theage.domain.com.au
 domain-search-prod.ext.aws.domain.com.au
@@ -257,5 +256,3 @@ images.domain.com.au
 static.domain.com.au
 media.domain.com.au
 64064b1f5b49218.domain.com.au
-www.agent.domain.com.au
-*.domain.com.au

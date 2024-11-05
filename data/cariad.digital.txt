@@ -798,7 +798,7 @@ workflows-preprod.ga.adp.cariad.digital
 workflows-qa.ga.adp.cariad.digital
 workflows-sandbox.ga.adp.cariad.digital
 workflows.ga.adp.cariad.digital
-www.legal-pre-assessment.cariad.digital
+legal-pre-assessment.cariad.digital
 0af4080b-9147-1241-8191-6b1240860001.dev.petrol.cariad.digital
 10141.cars.adp.cariad.digital
 2838.test.cars.adp.cariad.digital
@@ -1618,5 +1618,3 @@ wandb.bigdatastack.eu.dev.ingenuity.cariad.digital
 web-events.dev.otaconnect.cariad.digital
 web-events.qa.otaconnect.cariad.digital
 webhook.dev-eu.gda.cariad.digital
-www.api-hub.cariad.digital
-www.developer.cariad.digital

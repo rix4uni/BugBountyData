@@ -277,8 +277,6 @@ woodstock.staff.simple.com
 wordpress.simple.com
 wp.simple.com
 ww1.simple.com
-www.simple.com
-www.ldap.corp.simple.com
 www1.simple.com
 www2.simple.com
 0-00.corp.simple.com
@@ -2544,12 +2542,11 @@ www-643.simple.com
 www-70-0.simple.com
 www-81.simple.com
 www-87.simple.com
-www.beta.simple.com
-www.dogdirt.simple.com
-www.englais.simple.com
-www.homemade.simple.com
-www.joel2army.simple.com
-www.so.simple.com
+dogdirt.simple.com
+englais.simple.com
+homemade.simple.com
+joel2army.simple.com
+so.simple.com
 www1-8-1.simple.com
 www1-8-3.simple.com
 www1-9login.simple.com
@@ -2733,7 +2730,6 @@ zts-pub.simple.com
 8-8-0.simple.com
 8fdropbox-12.simple.com
 8hzvr22.simple.com
-8ww.simple.com
 8www.simple.com
 9-3.simple.com
 9e5f.simple.com
@@ -3087,7 +3083,7 @@ www7a.simple.com
 music.simple.com
 resume.simple.com
 ff.simple.com
-www.free-ipad-dev.simple.com
+free-ipad-dev.simple.com
 pp.simple.com
 _cuplogin._tcp.simple.com
 informatik.simple.com

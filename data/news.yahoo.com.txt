@@ -1,5 +1,4 @@
-*.news.yahoo.com
-*.yql.news.yahoo.com
+yql.news.yahoo.com
 address.news.yahoo.com
 alpha.news.yahoo.com
 api.news.yahoo.com
@@ -140,15 +139,9 @@ ve.news.yahoo.com
 vn.news.yahoo.com
 weekendedition.news.yahoo.com
 whoknew.news.yahoo.com
-www.ca.news.yahoo.com
-www.in.news.yahoo.com
-www.news.yahoo.com
-www.whoknew.news.yahoo.com
-yql.news.yahoo.com
 za.news.yahoo.com
 zeta.news.yahoo.com
 beta.vn.news.yahoo.com
-www.uk.news.yahoo.com
 uk.mobile.news.yahoo.com
 hk.beta.news.yahoo.com
 boards.news.yahoo.com
@@ -193,4 +186,3 @@ es-us.news.yahoo.com
 uat-au.news.yahoo.com
 app.news.yahoo.com
 ue-tw.news.yahoo.com
-www.search.news.yahoo.com

@@ -28,8 +28,7 @@ faxserver.brit.com
 global-1-dal.brit.com
 ris.brit.com
 shok.brit.com
-www.brit.com
-www.localhost.brit.com
+localhost.brit.com
 portal.brit.com
 portaldev.brit.com
 global-dal-cors.brit.com
@@ -41,9 +40,7 @@ bear.brit.com
 rbdi.brit.com
 rapid7-phoenix.brit.com
 global-test-dal.brit.com
-localhost.brit.com
 cloud-s3-3.brit.com
-www.dev.brit.com
 global-dal.brit.com
 cloudstore.brit.com
 update.brit.com

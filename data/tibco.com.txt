@@ -4,7 +4,6 @@ mft.tibco.com
 eu-west.my.tibco.com
 tsd.tibco.com
 stg-www.tibco.com
-www.tibco.com
 maintenance-platform.my.tibco.com
 gi.tibco.com
 community.tibco.com
@@ -46,7 +45,7 @@ us-east.messaging.cloud.tibco.com
 au.messaging.cloud.tibco.com
 geoanalyticsbuilder.tibco.com
 hello.tibco.com
-www.store.tibco.com
+store.tibco.com
 tibcoconnect.tibco.com
 legacycommunity.tibco.com
 docs.tibco.com

@@ -182,7 +182,7 @@ boe-kommune.enterprise.visma.no
 byremo-vgs.inschool.visma.no
 bergen-privategymnas.inschool.visma.no
 skedsmo-vgs.inschool.visma.no
-www.heggen-vgs.inschool.visma.no
+heggen-vgs.inschool.visma.no
 skogmo-vgs.inschool.visma.no
 eidsvoll.inschool.visma.no
 static.inschool.visma.no
@@ -205,14 +205,12 @@ sentrum-vgs.inschool.visma.no
 flekkefjord-vgs.inschool.visma.no
 vaktboktest.resweb.visma.no
 partnerinsights.visma.no
-www.visma.no
 retailshop.visma.no
 kontohjelp.visma.no
 ardal-vgs.inschool.visma.no
 stolavstavanger-vgs.inschool.visma.no
 mash.ver.visma.no
 vestlandfylke.enterprise.visma.no
-heggen-vgs.inschool.visma.no
 fannefjord-vgs.inschool.visma.no
 alesund.elaring.visma.no
 kvaloya-vgs.inschool.visma.no
@@ -277,7 +275,6 @@ narvik-vgs.inschool.visma.no
 storhamar-vgs.inschool.visma.no
 vardo-vgs.inschool.visma.no
 nordosterdal-vgs.inschool.visma.no
-www.fusa-vgs.inschool.visma.no
 api.foresatt.visma.no
 rubbestadnes-vgs.inschool.visma.no
 oksnevad-vgs.inschool.visma.no
@@ -372,7 +369,7 @@ bjertnes-vgs.inschool.visma.no
 minside.visma.no
 akrehamn-vgs.inschool.visma.no
 fordelansatt.visma.no
-www.lonnogpersonalabc.visma.no
+lonnogpersonalabc.visma.no
 smiskolen-tffk.inschool.visma.no
 nordgudbrandsdaldombaas-vgs.inschool.visma.no
 fitjar-vgs.inschool.visma.no
@@ -382,7 +379,6 @@ stendi.enterprise.visma.no
 holmen-vgs.inschool.visma.no
 mailand.inschool.visma.no
 fagskolen-ostfold.inschool.visma.no
-www.osgymnas-vgs.inschool.visma.no
 vestlofoten-vgs.inschool.visma.no
 hitra-kommune.enterprise.visma.no
 ulstein-vgs.inschool.visma.no
@@ -491,7 +487,6 @@ kuben-vgs.inschool.visma.no
 aal-vgs.inschool.visma.no
 kopervik-vgs.inschool.visma.no
 karriere-innlandet.inschool.visma.no
-*.verdev.visma.no
 verdev.visma.no
 brsk.inschool.visma.no
 enterprise.visma.no
@@ -519,7 +514,6 @@ enterprisebi.visma.no
 aws.verdev.visma.no
 testwebred.visma.no
 testwebred.xn--elring-qua.visma.no
-www.elaring.visma.no
 test.admin.innkjop.visma.no
 movar.elaring.visma.no
 vlfk.elaring.visma.no
@@ -575,4 +569,3 @@ api.servicemigrate.cloud.skole.visma.no
 worker.cloud.skole.visma.no
 api.mobile.cloud.skole.visma.no
 api.tools.cloud.skole.visma.no
-*.enterprise-test.visma.no

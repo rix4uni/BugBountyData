@@ -1,5 +1,4 @@
-*.ual.com
-*.global.ual.com
+global.ual.com
 125.mips0010022.ual.com
 154.ual.com
 156.92.15.62.ual.com
@@ -785,7 +784,6 @@ github-dev.ual.com
 github-qa.ual.com
 glintdashboard.ual.com
 glintsurvey.ual.com
-global.ual.com
 globaldestinytours.ual.com
 gndcdevdpdmz1m01.ual.com
 gndcdevdpxdmz01m01.ual.com
@@ -1957,12 +1955,6 @@ workforcemgmt.ual.com
 workspace.ual.com
 worldserver.ual.com
 worldserverdev.ual.com
-www.ual.com
-www.kr.ual.com
-www.promo.dev.aws.ual.com
-www.promo.prd.aws.ual.com
-www.promo.qa.aws.ual.com
-www.promo.stg.aws.ual.com
 wysectx.ual.com
 wysectx.citrix.ual.com
 xclr.ual.com
@@ -2465,7 +2457,6 @@ ualaki-records.ual.com
 ethicsandcompliancehub.ual.com
 ualaki-pndcapiauth2.ual.com
 ualaki-myflight-stage.ual.com
-www.signon.ual.com
 ualaki-kms-mffdev.ual.com.ual.com
 ualaki-eresnew.ual.com
 ualaki-airporthubops-qa-authsvc.ual.com

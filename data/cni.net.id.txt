@@ -2102,7 +2102,6 @@ n20286z165l12.static.ctm.87.202.cni.net.id
 26.32.91.103.cni.net.id
 61.151.27.223.cni.net.id
 82.167.23.182.cni.net.id
-www.apps.cni.net.id
 216.124.254.116.cni.net.id
 35.157.31.103.cni.net.id
 5.181.87.202.cni.net.id
@@ -4897,7 +4896,6 @@ mail.cni.net.id
 248.252.90.103.cni.net.id
 80.124.254.116.cni.net.id
 90.182.87.202.cni.net.id
-www.unifi.cni.net.id
 191.254.90.103.cni.net.id
 137.153.27.223.cni.net.id
 152.34.91.103.cni.net.id
@@ -6505,7 +6503,7 @@ bbb.cni.net.id
 246.164.23.182.cni.net.id
 5.158.27.223.cni.net.id
 81.183.87.202.cni.net.id
-www.svr1.cni.net.id
+svr1.cni.net.id
 129.121.254.116.cni.net.id
 111.3.91.103.cni.net.id
 13.253.90.103.cni.net.id
@@ -7637,7 +7635,6 @@ google-v4.cni.net.id
 29.202.66.116.cni.net.id
 34.165.23.182.cni.net.id
 44.173.23.182.cni.net.id
-www.cloud-kpu.cni.net.id
 111.171.23.182.cni.net.id
 167.253.90.103.cni.net.id
 242.188.87.202.cni.net.id
@@ -8784,7 +8781,6 @@ gmx.cni.net.id
 222.152.27.223.cni.net.id
 143.184.87.202.cni.net.id
 17.127.254.116.cni.net.id
-svr1.cni.net.id
 210.169.23.182.cni.net.id
 212.0.91.103.cni.net.id
 9.189.87.202.cni.net.id
@@ -9499,7 +9495,6 @@ dataclient.dcbali.cni.net.id
 77.171.23.182.cni.net.id
 93.159.31.103.cni.net.id
 148.156.31.103.cni.net.id
-www.cloud-kpu2.cni.net.id
 123.126.254.116.cni.net.id
 164.177.87.202.cni.net.id
 242.144.27.223.cni.net.id
@@ -10557,7 +10552,6 @@ cloud.cni.net.id
 190.184.87.202.cni.net.id
 209.186.87.202.cni.net.id
 79.151.27.223.cni.net.id
-www.cni.net.id
 172.1.91.103.cni.net.id
 190.147.27.223.cni.net.id
 204.125.254.116.cni.net.id
@@ -12875,7 +12869,6 @@ ich.cni.net.id
 152.159.27.223.cni.net.id
 193.174.23.182.cni.net.id
 72.150.27.223.cni.net.id
-www.bali.cni.net.id
 106.29.91.103.cni.net.id
 187.145.27.223.cni.net.id
 188.171.23.182.cni.net.id
@@ -14283,7 +14276,6 @@ webdisk.apps.cni.net.id
 31.157.27.223.cni.net.id
 55.179.87.202.cni.net.id
 64.170.23.182.cni.net.id
-www.hosting2.cni.net.id
 170.159.27.223.cni.net.id
 206.171.23.182.cni.net.id
 188.144.27.223.cni.net.id
@@ -17112,7 +17104,7 @@ syslog2.cni.net.id
 48.29.91.103.cni.net.id
 69.206.66.116.cni.net.id
 98.254.90.103.cni.net.id
-www.hosting.cni.net.id
+hosting.cni.net.id
 124.163.23.182.cni.net.id
 135.34.91.103.cni.net.id
 195.157.27.223.cni.net.id
@@ -18501,7 +18493,6 @@ jancuk.dcbali.cni.net.id
 202.162.23.182.cni.net.id
 246.252.90.103.cni.net.id
 58.164.23.182.cni.net.id
-hosting.cni.net.id
 118.180.87.202.cni.net.id
 143.158.27.223.cni.net.id
 161.180.87.202.cni.net.id

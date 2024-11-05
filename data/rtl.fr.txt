@@ -365,7 +365,6 @@ rev-171-112.rtl.fr
 rev-166-79.rtl.fr
 rev-169-135.rtl.fr
 rev-173-146.rtl.fr
-www.cutscene.rtl.fr
 rev-162-197.rtl.fr
 rev-164-91.rtl.fr
 rev-166-106.rtl.fr
@@ -491,7 +490,7 @@ rev-166-97.rtl.fr
 rev-167-5.rtl.fr
 rev-168-9.rtl.fr
 rev-173-207.rtl.fr
-www.lab.rtl.fr
+lab.rtl.fr
 rev-161-224.rtl.fr
 rev-166-61.rtl.fr
 rev-166-53.rtl.fr
@@ -530,7 +529,6 @@ rev-175-36.rtl.fr
 rev-161-91.rtl.fr
 rev-163-28.rtl.fr
 rev-175-126.rtl.fr
-www.esprit.rtl.fr
 media.lab.civ.rtl.fr
 rev-172-66.rtl.fr
 rev-169-168.rtl.fr
@@ -663,7 +661,6 @@ rev-175-162.rtl.fr
 rev-164-159.rtl.fr
 rev-173-154.rtl.fr
 rev-163-164.rtl.fr
-lab.rtl.fr
 rev-162-214.rtl.fr
 rev-174-10.rtl.fr
 cover.hls.rtl.fr
@@ -721,7 +718,7 @@ rev-175-40.rtl.fr
 rev-164-89.rtl.fr
 rev-174-125.rtl.fr
 rev-173-202.rtl.fr
-www.cache01.th2lf.cdn.m6dd.rtl.fr
+cache01.th2lf.cdn.m6dd.rtl.fr
 radio.eng.rtl.fr
 rev-170-146.rtl.fr
 rev-171-102.rtl.fr
@@ -774,7 +771,7 @@ rev-166-140.rtl.fr
 rev-172-189.rtl.fr
 rev-174-197.rtl.fr
 rev-175-33.rtl.fr
-www.th2lf.cdn.m6dd.rtl.fr
+th2lf.cdn.m6dd.rtl.fr
 rev-163-145.rtl.fr
 rev-164-134.rtl.fr
 rev-164-119.rtl.fr
@@ -1274,7 +1271,6 @@ rev-164-24.rtl.fr
 rev-162-215.rtl.fr
 rev-167-38.rtl.fr
 th2-xmr-1-v466.rtl.fr
-www.cache02.th2lf.cdn.m6dd.rtl.fr
 rev-168-228.rtl.fr
 th2-xmr-2-v561.rtl.fr
 rev-160-105.rtl.fr
@@ -1325,7 +1321,6 @@ rev-169-101.rtl.fr
 rev-173-68.rtl.fr
 rev-173-196.rtl.fr
 rev-174-195.rtl.fr
-www.cache03.th2lf.cdn.m6dd.rtl.fr
 rev-163-140.rtl.fr
 rev-167-230.rtl.fr
 rev-173-235.rtl.fr
@@ -1812,7 +1807,6 @@ rev-167-213.rtl.fr
 rev-169-59.rtl.fr
 rev-175-144.rtl.fr
 rev-175-175.rtl.fr
-www.rtl.fr
 rev-163-182.rtl.fr
 rev-166-101.rtl.fr
 rev-166-46.rtl.fr
@@ -1870,7 +1864,6 @@ stream.dev.hls.rtl.fr
 rev-160-196.rtl.fr
 rev-166-21.rtl.fr
 cdn-media.rtl.fr
-th2lf.cdn.m6dd.rtl.fr
 rev-166-244.rtl.fr
 rev-168-111.rtl.fr
 rev-170-232.rtl.fr
@@ -1964,7 +1957,7 @@ cdnorigin.hls.rtl.fr
 rev-166-217.rtl.fr
 rev-169-132.rtl.fr
 rev-174-54.rtl.fr
-www.jeu-rentree.rtl.fr
+jeu-rentree.rtl.fr
 rev-160-252.rtl.fr
 rev-163-168.rtl.fr
 rev-168-171.rtl.fr
@@ -2586,14 +2579,13 @@ rev-174-188.rtl.fr
 rev-169-192.rtl.fr
 rev-170-99.rtl.fr
 rev-171-13.rtl.fr
-www.cutscene2.rtl.fr
+cutscene2.rtl.fr
 rev-163-46.rtl.fr
 rev-167-58.rtl.fr
 rev-160-29.rtl.fr
 rev-161-233.rtl.fr
 rev-168-12.rtl.fr
 rev-170-173.rtl.fr
-www.static.rtl.fr
 rev-164-20.rtl.fr
 rev-164-8.rtl.fr
 rev-166-197.rtl.fr
@@ -3070,7 +3062,7 @@ vm-front.rtl.fr
 rev-160-133.rtl.fr
 rev-164-210.rtl.fr
 rev-172-162.rtl.fr
-www.tic.rtl.fr
+tic.rtl.fr
 rev-167-166.rtl.fr
 rev-168-211.rtl.fr
 rev-170-193.rtl.fr
@@ -3096,7 +3088,6 @@ rev-175-16.rtl.fr
 rev-163-250.rtl.fr
 rev-169-119.rtl.fr
 rev-171-20.rtl.fr
-www.plannings.rtl.fr
 rev-171-189.rtl.fr
 rev-172-221.rtl.fr
 rev-173-137.rtl.fr
@@ -3162,8 +3153,6 @@ rev-167-32.rtl.fr
 rev-175-35.rtl.fr
 rev-160-137.rtl.fr
 rev-174-118.rtl.fr
-www.rh-actus.rtl.fr
-www.backoffice.astro.rtl.fr
 rev-162-70.rtl.fr
 rev-169-127.rtl.fr
 rev-171-121.rtl.fr
@@ -3348,7 +3337,6 @@ rev-175-113.rtl.fr
 rev-163-201.rtl.fr
 rev-163-93.rtl.fr
 rev-164-90.rtl.fr
-www.sports.rtl.fr
 rev-164-231.rtl.fr
 rev-169-227.rtl.fr
 revo.lab.rtl.fr
@@ -3359,7 +3347,7 @@ rev-169-43.rtl.fr
 rev-162-36.rtl.fr
 rev-163-125.rtl.fr
 rev-169-115.rtl.fr
-www.lab.civ.rtl.fr
+lab.civ.rtl.fr
 source-video.rtl.fr
 rev-160-204.rtl.fr
 rev-173-5.rtl.fr
@@ -3639,7 +3627,6 @@ rev-166-186.rtl.fr
 rev-160-30.rtl.fr
 rev-162-138.rtl.fr
 rev-166-180.rtl.fr
-cache01.th2lf.cdn.m6dd.rtl.fr
 casting.civ.rtl.fr
 rev-164-162.rtl.fr
 rev-169-174.rtl.fr
@@ -3826,7 +3813,6 @@ rev-170-179.rtl.fr
 rev-173-45.rtl.fr
 rev-169-97.rtl.fr
 rev-170-108.rtl.fr
-tic.rtl.fr
 rev-168-225.rtl.fr
 rev-174-113.rtl.fr
 rev-175-91.rtl.fr
@@ -3845,7 +3831,6 @@ rev-174-109.rtl.fr
 th2-xmr-2-v562.rtl.fr
 rev-166-94.rtl.fr
 rev-168-78.rtl.fr
-www.media.rtl.fr
 rev-166-221.rtl.fr
 rev-173-103.rtl.fr
 rev-163-202.rtl.fr
@@ -4132,7 +4117,7 @@ rev-161-64.rtl.fr
 rev-162-177.rtl.fr
 rev-171-182.rtl.fr
 rev-171-202.rtl.fr
-www.civ.rtl.fr
+civ.rtl.fr
 bo.rtl.fr
 rev-160-98.rtl.fr
 rev-163-241.rtl.fr
@@ -4189,7 +4174,6 @@ rev-170-217.rtl.fr
 rev-168-1.rtl.fr
 rev-174-218.rtl.fr
 rev-174-23.rtl.fr
-cutscene2.rtl.fr
 rev-166-222.rtl.fr
 rev-168-87.rtl.fr
 rev-160-36.rtl.fr

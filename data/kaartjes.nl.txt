@@ -5,15 +5,14 @@ mail6.kaartjes.nl
 shop.kaartjes.nl
 mail2.kaartjes.nl
 pop.kaartjes.nl
-www.korting.kaartjes.nl
+korting.kaartjes.nl
 srv.kaartjes.nl
 correo.kaartjes.nl
 smtpauth.kaartjes.nl
 root.kaartjes.nl
 mx1.kaartjes.nl
 mailin.kaartjes.nl
-www.bestel.kaartjes.nl
-www.shop.kaartjes.nl
+bestel.kaartjes.nl
 remote.kaartjes.nl
 imap2.kaartjes.nl
 relay.kaartjes.nl
@@ -21,7 +20,6 @@ mailgw.kaartjes.nl
 exchange.kaartjes.nl
 poczta.kaartjes.nl
 m.kaartjes.nl
-bestel.kaartjes.nl
 mx20.kaartjes.nl
 mx0.kaartjes.nl
 ms1.kaartjes.nl
@@ -48,7 +46,6 @@ mx4.kaartjes.nl
 smtp2.kaartjes.nl
 ns1.kaartjes.nl
 postmaster.kaartjes.nl
-www.kaartjes.nl
 mbox.kaartjes.nl
 mailer.kaartjes.nl
 email.kaartjes.nl

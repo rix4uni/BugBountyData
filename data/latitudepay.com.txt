@@ -8,7 +8,7 @@ api.uat.latitudepay.com
 app.my.latitudepay.com
 app.uat.latitudepay.com
 websdk.my.latitudepay.com
-www.my.latitudepay.com
+my.latitudepay.com
 api.latitudepay.com
 app.sg.latitudepay.com
 checkout.dev.latitudepay.com
@@ -18,8 +18,6 @@ checkout.uat.latitudepay.com
 docs.sg.latitudepay.com
 apply.dev.latitudepay.com
 merchant.sg.latitudepay.com
-www.latitudepay.com
-www.sg.latitudepay.com
 help.latitudepay.com
 karma.my.latitudepay.com
 uat.latitudepay.com
@@ -30,7 +28,6 @@ demo.my.latitudepay.com
 k2.my.latitudepay.com
 privacy.latitudepay.com
 stores.sg.latitudepay.com
-my.latitudepay.com
 k2.sg.latitudepay.com
 websdk.sg.latitudepay.com
 ginger.sg.latitudepay.com

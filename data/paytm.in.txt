@@ -1,5 +1,4 @@
-*.paytm.in
-*.oauth-aws.paytm.in
+oauth-aws.paytm.in
 accounts-staging.paytm.in
 accounts-staging-lb.paytm.in
 aml.paytm.in
@@ -36,7 +35,6 @@ kyc-staging.paytm.in
 kyc-staging-lb.paytm.in
 mail.paytm.in
 nearx.paytm.in
-oauth-aws.paytm.in
 oauth-sandbox.paytm.in
 openvpn.paytm.in
 payments-automation.paytm.in
@@ -192,7 +190,6 @@ wallet-staging.paytm.in
 walletdev-jenkins.paytm.in
 webinvoke.paytm.in
 weex-beta.paytm.in
-www.paytm.in
 axis.paytm.in
 cerberus.paytm.in
 dev3.paytm.in
@@ -240,7 +237,6 @@ staticgw1-pa.paytm.in
 stage.paytm.in
 pgp-automation2.paytm.in
 akamai-accounts-staging.paytm.in
-www.trust.paytm.in
 patient.paytm.in
 pg2-ite2-temp.paytm.in
 staticgw-pa.paytm.in

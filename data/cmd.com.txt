@@ -31,7 +31,6 @@ prometheus.accounts.cmd.com
 grafana.free-shared.cmd.com
 jzonline.cmd.com
 sensu-staging.cmd.com
-www.cmd.com
 value.cmd.com
 sensu.accounts.cmd.com
 app.freemium1.cmd.com
@@ -159,7 +158,6 @@ saltmaster.accounts.app.cmd.com
 demo.cmd.com
 grafana.sub2.cmd.com
 prometheus.sub6.cmd.com
-www.rsa.cmd.com
 freemium1.app.cmd.com
 free1.sos-app.cmd.com
 info.cmd.com

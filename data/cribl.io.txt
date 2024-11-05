@@ -25,7 +25,6 @@ trust.cribl.io
 curious.cribl.io
 certifications.cribl.io
 relay.find.cribl.io
-www.cribl.io
 intranet.cribl.io
 cdn-internal-test.build.cribl.io
 enablement.cribl.io
@@ -49,7 +48,7 @@ lumen.cribl.io
 docs.cribl.io
 lab-splunk.cribl.io
 blog.cribl.io
-*.testing.cribl.io
+testing.cribl.io
 corp-wg.corp.cribl.io
 jenkins.build.cribl.io
 licenseaccept.cribl.io

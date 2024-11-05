@@ -81,7 +81,6 @@ api-5d0d7e91.duosecurity.com
 api-37786932.duosecurity.com
 api-2cd3573a.duosecurity.com
 api-4f68f2bf.duosecurity.com
-www.duosecurity.com
 api-30062418.duosecurity.com
 api-2e364e56.duosecurity.com
 api-1793b17c.duosecurity.com
@@ -642,6 +641,6 @@ admin-30466303.duosecurity.com
 admin-91144fdc.duosecurity.com
 admin-ca5f8a41.duosecurity.com
 test.sharedsignals.duosecurity.com
-*.demo.login.duosecurity.com
-*.demo.sso.duosecurity.com
+demo.login.duosecurity.com
+demo.sso.duosecurity.com
 redirect-first.test.duosecurity.com

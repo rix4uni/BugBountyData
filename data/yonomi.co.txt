@@ -7,7 +7,7 @@ o1.email.yonomi.co
 tts.dev.yonomi.co
 apps.staging.yonomi.co
 auth.staging.yonomi.co
-www.iotplatform.yonomi.co
+iotplatform.yonomi.co
 data.yonomi.co
 dashboard-dev.yonomi.co
 apps.yonomi.co
@@ -17,8 +17,6 @@ data.staging.yonomi.co
 platform.yonomi.co
 connectors.yonomi.co
 api.staging.yonomi.co
-www.yonomi.co
-www.platform.yonomi.co
 tts.staging.yonomi.co
 developer.staging.yonomi.co
 auth.yonomi.co
@@ -28,7 +26,6 @@ connectors-core.staging.yonomi.co
 connectors-core.dev.yonomi.co
 cdn.staging.yonomi.co
 inventor.dev.yonomi.co
-iotplatform.yonomi.co
 connectors.dev.yonomi.co
 tts.yonomi.co
 dashboard.dev.yonomi.co
@@ -42,7 +39,6 @@ api-dev.yonomi.co
 o2.email.yonomi.co
 url9355.yonomi.co
 url8962.yonomi.co
-*.yonomi.co
 email.yonomi.co
 webcast89.yonomi.co
 webforward.yonomi.co

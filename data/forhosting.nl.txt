@@ -1,15 +1,11 @@
-*.ticket.forhosting.nl
 ticket.forhosting.nl
-www.forhosting.nl
 elastic.forhosting.nl
 librenms.forhosting.nl
 status.forhosting.nl
 dedi22.forhosting.nl
 ns1.forhosting.nl
-www.builder.forhosting.nl
 builder.forhosting.nl
 cdn.forhosting.nl
-www.cdn.forhosting.nl
 rdp.forhosting.nl
 smtp.forhosting.nl
 cloud.forhosting.nl
@@ -19,8 +15,6 @@ pop.forhosting.nl
 rc.forhosting.nl
 ns2.forhosting.nl
 azuracast.forhosting.nl
-www.help.forhosting.nl
 help.forhosting.nl
-www.autoconfig.forhosting.nl
-www.autodiscover.forhosting.nl
+autodiscover.forhosting.nl
 amsweb01.forhosting.nl

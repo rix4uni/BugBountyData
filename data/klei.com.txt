@@ -31,11 +31,10 @@ lobby-cdn.klei.com
 redmine.klei.com
 klei-motd.klei.com
 jwt.metrics.klei.com
-www.klei.com
 doorbot.klei.com
 unauth.metrics.klei.com
 status.klei.com
-www.its.my.klei.com
+its.my.klei.com
 cdn.forums.klei.com
 lobby.klei.com
 motd.klei.com
@@ -59,7 +58,6 @@ validate.us-east-1.prod.klei.com
 validate.ap-southeast-1.prod.klei.com
 shop-old.klei.com
 jenkins-dev.klei.com
-www.accounts.klei.com
 jenkins-dontstarve.klei.com
 lobby-v2.klei.com
 dst-translation-mods.klei.com

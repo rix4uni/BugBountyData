@@ -4,8 +4,6 @@ communication.mericq.com
 portail.mericq.com
 analytics.mericq.com
 new.mericq.com
-www.mericq.com
-*.mericq.com
 blanc.mericq.com
 intranet.mericq.com
 blanc.test.mericq.com
@@ -14,9 +12,3 @@ meriscope.mericq.com
 test.new.mericq.com
 wiki.mericq.com
 billy.mericq.com
-*.new.mericq.com
-*.test.mericq.com
-*.dev.mericq.com
-*.blanc.test.mericq.com
-*.blanc.mericq.com
-*.test.new.mericq.com

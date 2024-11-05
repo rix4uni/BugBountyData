@@ -1,13 +1,8 @@
 pre-production.api.alexanderstreet.com
-*.pre-production.api.alexanderstreet.com
 pre-production.search.alexanderstreet.com
-*.pre-production.search.alexanderstreet.com
 pre-production.mambo.alexanderstreet.com
-*.pre-production.mambo.alexanderstreet.com
 pre-production.adminportal.alexanderstreet.com
-*.pre-production.adminportal.alexanderstreet.com
 pre-production.documents.alexanderstreet.com
-*.pre-production.documents.alexanderstreet.com
 ol-830.lazr.ci.alexanderstreet.com
 lf-2640-date.psyctherapy.ci.alexanderstreet.com
 upgrade-jwplayer.lazr.ci.alexanderstreet.com
@@ -108,13 +103,9 @@ wod2.alexanderstreet.com
 master.mambo.ci.alexanderstreet.com
 lazr.drupal10.ci.alexanderstreet.com
 php7-only.lazr.ci.alexanderstreet.com
-*.alexanderstreet.com
 pre-production.alexanderstreet.com
-*.pre-production.alexanderstreet.com
 pre-production.video.alexanderstreet.com
-*.pre-production.video.alexanderstreet.com
 ui.nuvo.alexanderstreet.com
-*.ui.nuvo.alexanderstreet.com
 clmu.alexanderstreet.com
 128.193.1.1.master.lazr.drupal10.ci.alexanderstreet.com
 ucirvine.ativ.alexanderstreet.com
@@ -159,7 +150,7 @@ stolaf.ativ.alexanderstreet.com
 dntl.alexanderstreet.com
 fau.ativ.alexanderstreet.com
 uta.ativ.alexanderstreet.com
-www.nvcc.ativ.alexanderstreet.com
+nvcc.ativ.alexanderstreet.com
 staging.corpsite.alexanderstreet.com
 brain.alexanderstreet.com
 i-8746-media-object-auth.lazr.ci.alexanderstreet.com
@@ -174,7 +165,7 @@ cwo2.alexanderstreet.com
 authorize.alexanderstreet.com
 ap-revamp-collection.ap.ci.alexanderstreet.com
 adminportal.alexanderstreet.com
-www.temple.ativ.alexanderstreet.com
+temple.ativ.alexanderstreet.com
 daivalpha.alexanderstreet.com
 documents.ci.alexanderstreet.com
 master.ap.ci.alexanderstreet.com
@@ -245,9 +236,7 @@ ctvz.alexanderstreet.com
 ahivalpha.alexanderstreet.com
 virginia.ativ.alexanderstreet.com
 ant1.alexanderstreet.com
-www.asp6new.alexanderstreet.com
 asiv.alexanderstreet.com
-www.tamu.ativ.alexanderstreet.com
 api.ci.alexanderstreet.com
 bldr.alexanderstreet.com
 solomon.bwld.alexanderstreet.com
@@ -285,7 +274,6 @@ valdosta.ativ.alexanderstreet.com
 cwon.alexanderstreet.com
 anth.alexanderstreet.com
 ci.alexanderstreet.com
-www.aadr.alexanderstreet.com
 etbu.ativ.alexanderstreet.com
 ahivbeta.alexanderstreet.com
 bard.ativ.alexanderstreet.com
@@ -299,7 +287,6 @@ clmubeta.alexanderstreet.com
 uab.ativ.alexanderstreet.com
 snoisle.ativ.alexanderstreet.com
 fiu.ativ.alexanderstreet.com
-nvcc.ativ.alexanderstreet.com
 io-object.lazr.ci.alexanderstreet.com
 uwaterloo.ativ.alexanderstreet.com
 cwld.alexanderstreet.com
@@ -327,4 +314,3 @@ aamr.alexanderstreet.com
 edge.lazr.ci.alexanderstreet.com
 montgomerycounty.ativ.alexanderstreet.com
 edge.ap.ci.alexanderstreet.com
-www.alexanderstreet.com

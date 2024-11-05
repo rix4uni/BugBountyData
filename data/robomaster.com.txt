@@ -1,10 +1,9 @@
 jjjzqzpc.robomaster.com
 test-registration.robomaster.com
-www.bbs.robomaster.com
+bbs.robomaster.com
 wwww.robomaster.com
 test-www.robomaster.com
 stag-www.robomaster.com
-bbs.robomaster.com
 cdn-hz-live.robomaster.com
 registration.robomaster.com
 trestle.robomaster.com
@@ -16,7 +15,6 @@ test.www.robomaster.com
 stag-cms.robomaster.com
 cdn-hz.robomaster.com
 anime-dbeta.robomaster.com
-www.robomaster.com
 vod.robomaster.com
 mp.robomaster.com
 cdn-hz-staging.robomaster.com
@@ -28,9 +26,7 @@ test-cms.robomaster.com
 games.robomaster.com
 m.robomaster.com
 stag-mp.robomaster.com
-www.www.robomaster.com
-www.games.robomaster.com
-*.robomaster.com
+www.robomaster.com
 saas.robomaster.com
 gray-preview.robomaster.com
 account.robomaster.com

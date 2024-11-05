@@ -19,7 +19,6 @@ status.trustwallet.com
 app-analytics.trustwallet.com
 blog.trustwallet.com
 element.trustwallet.com
-www.trustwallet.com
 cms.trustwallet.com
 backend-search.trustwallet.com
 backend.trustwallet.com
@@ -40,16 +39,10 @@ wallet-connect.trustwallet.com
 test-api.trustwallet.com
 developer-test.trustwallet.com
 beta.dapp.trustwallet.com
-www.naming.trustwallet.com
 blockatlas.trustwallet.com
 stg.trustwallet.com
 eu.trustwallet.com
-www.secure.trustwallet.com
 secure.trustwallet.com
 us.trustwallet.com
 ipfs.trustwallet.com
 ap.trustwallet.com
-*.trustwallet.com
-*.ap.trustwallet.com
-*.us.trustwallet.com
-*.eu.trustwallet.com

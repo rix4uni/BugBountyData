@@ -8,7 +8,6 @@ firebase-settings.crashlytics.com
 reports.crashlytics.com
 e.crashlytics.com
 api.crashlytics.com
-www.crashlytics.com
 update.crashlytics.com
 apps.crashlytics.com
 1firebase-settings.crashlytics.com
@@ -81,7 +80,6 @@ rebase-settings.crashlytics.com
 alt1005.crashlytics.com
 blog.crashlytics.com
 cm.crashlytics.com
-www.settings.firebase.crashlytics.com
 alt01.crashlytics.com
 aaasettings.crashlytics.com
 settings-api.crashlytics.com
@@ -103,4 +101,3 @@ alt923.crashlytics.com
 outbound.crashlytics.com
 asset-0.crashlytics.com
 finebase-settings.crashlytics.com
-*.crashlytics.com

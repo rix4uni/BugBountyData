@@ -1,4 +1,3 @@
-www.jumbo.com
 ish-bo-pmrwebhook.prod.cloud.jumbo.com
 ish-weblive-nlb.prod.cloud.jumbo.com
 preview-environments-static.test.cloud.jumbo.com
@@ -845,13 +844,11 @@ webshop-refund.internal.prod.cloud.jumbo.com
 webshop-refund.internal.test.cloud.jumbo.com
 weekly-lists-mongo-express.internal.prod.cloud.jumbo.com
 weekly-lists.internal.prod.cloud.jumbo.com
-www.acc.cloud.jumbo.com
-www.adverteren.jumbo.com
-www.dev.cloud.jumbo.com
-www.prod.cloud.jumbo.com
-www.test.cloud.jumbo.com
-acc-www.jumbo.com
 acc.cloud.jumbo.com
+dev.cloud.jumbo.com
+prod.cloud.jumbo.com
+test.cloud.jumbo.com
+acc-www.jumbo.com
 adaudit.jumbo.com
 aem.acc.cloud.jumbo.com
 aem.dev.cloud.jumbo.com
@@ -977,7 +974,6 @@ delivery-subscription-apigw.internal.acc.cloud.jumbo.com
 delivery-subscription-apigw.internal.dev.cloud.jumbo.com
 delivery-subscription-apigw.internal.prod.cloud.jumbo.com
 delivery-subscription-apigw.internal.test.cloud.jumbo.com
-dev.cloud.jumbo.com
 devops-adoption-dashboard-static.enablement.dev.aws.jumbo.com
 dex-authk8s.dev.cloud.jumbo.com
 dex-token.svc.cloud.jumbo.com
@@ -1432,7 +1428,6 @@ pricing-service.internal.prod.cloud.jumbo.com
 pricing-service.internal.test.cloud.jumbo.com
 pricing.internal.dev.cloud.jumbo.com
 pricing.internal.test.cloud.jumbo.com
-prod.cloud.jumbo.com
 product-availability-admin.internal.acc.cloud.jumbo.com
 product-availability-admin.internal.prod.cloud.jumbo.com
 product-availability-admin.internal.test.cloud.jumbo.com
@@ -1647,7 +1642,6 @@ styleguide.dev.cloud.jumbo.com
 sumatra.jumbo.com
 svc.cloud.jumbo.com
 tagging-standards-static.services.prod.aws.jumbo.com
-test.cloud.jumbo.com
 testapp.internal.acc.cloud.jumbo.com
 testapp.internal.dev.cloud.jumbo.com
 testapp.internal.prod.cloud.jumbo.com
@@ -1705,11 +1699,6 @@ weekly-lists.internal.test.cloud.jumbo.com
 weekly-lists.prod.cloud.jumbo.com
 weekly-lists.test.cloud.jumbo.com
 workspace.jumbo.com
-www.hallo.jumbo.com
-www.mobileapi.jumbo.com
-www.nieuws.jumbo.com
-www.pers.jumbo.com
-www.service.jumbo.com
 xai61003.jumbo.com
 xai61018.jumbo.com
 xai61019.jumbo.com

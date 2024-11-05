@@ -12,7 +12,7 @@ eparagony.predevel.spark.pl
 api.spark.pl
 foto.spark.pl
 eparagony.spark.pl
-www.test.spark.pl
+test.spark.pl
 link.spark.pl
 predevel.spark.pl
 eparagony.sandbox.spark.pl
@@ -21,10 +21,8 @@ get.spark.pl
 login.predevel.spark.pl
 login.devel.spark.pl
 devel.spark.pl
-test.spark.pl
 static.devel.spark.pl
 static.spark.pl
-www.spark.pl
 login.sandbox.spark.pl
 it.agilelab.bigdata.wasp.spark.pl
 org.apache.wayang.spark.pl
@@ -50,7 +48,7 @@ com.spark.pl
 message.downloading.spark.pl
 cn.njupt.bigdata.spark.pl
 sparkpouserfuncvisitor-org.apache.pig.backend.hadoop.executionengine.spark.pl
-www.brand.spark.pl
+brand.spark.pl
 sparkprinter-java.io.printstream-org.apache.pig.backend.hadoop.executionengine.spark.pl
 com.tencent.blueking.dataflow.spark.pl
 predevel.login.spark.pl
@@ -69,11 +67,9 @@ test123456789.api.spark.pl
 joingroupoptimizerspark-org.apache.pig.backend.hadoop.executionengine.spark.pl
 sparkpopackageannotator-org.apache.pig.backend.hadoop.executionengine.spark.pl
 vpn.login.devel.spark.pl
-www.link.spark.pl
 kylin.engine.spark-conf.spark.pl
 org.apache.pig.backend.hadoop.executionengine.spark.pl
 refs.spark.pl
-brand.spark.pl
 com.adevinta.spark.pl
 kylin.storage.columnar.spark-conf.spark.pl
 io.github.fbiville.spark.pl
@@ -107,7 +103,6 @@ addjobstats-org.apache.pig.backend.hadoop.executionengine.physicallayer.relation
 combineroptimizer-org.apache.pig.backend.hadoop.executionengine.spark.pl
 mta-sts.spark.pl
 vpn.predevel.spark.pl
-www.get.spark.pl
 initialize-org.apache.pig.impl.pigcontext-org.apache.pig.backend.hadoop.executionengine.spark.pl
 org.igniterealtime.spark.pl
 accumulatoroptimizer-org.apache.pig.backend.hadoop.executionengine.spark.pl

@@ -1,12 +1,10 @@
-*.cancel.wmconnect.com
-*.changeplan.wmconnect.com
+cancel.wmconnect.com
+changeplan.wmconnect.com
 autoconfig.wmconnect.com
 autodiscover.wmconnect.com
 b.wmconnect.com
 bill.wmconnect.com
 ca.comms.wmconnect.com
-cancel.wmconnect.com
-changeplan.wmconnect.com
 comms.wmconnect.com
 e.comms.wmconnect.com
 guce.wmconnect.com
@@ -19,7 +17,6 @@ stage.guce.wmconnect.com
 trunk.guce.wmconnect.com
 view.comms.wmconnect.com
 webmail.wmconnect.com
-www.wmconnect.com
 email.wmconnect.com
 mail.wmconnect.com
 a.mx.b.account.wmconnect.com
@@ -44,7 +41,6 @@ mymail.wmconnect.com
 reg.account.wmconnect.com
 video.wmconnect.com
 wvines03.wmconnect.com
-www.mail.wmconnect.com
 oidc.wmconnect.com
 stage.oidc.wmconnect.com
 asv.wmconnect.com

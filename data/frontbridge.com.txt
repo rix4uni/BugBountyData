@@ -24,7 +24,6 @@ maintenance.frontbridge.com
 mail.archive.frontbridge.com
 spfb.frontbridge.com
 mail.global.frontbridge.com
-www.frontbridge.com
 spam.frontbridge.com
 preview-haw.frontbridge.com
 spamstage.frontbridge.com
@@ -41,7 +40,7 @@ auper-4255-mail2.customer.frontbridge.com
 148-archive.frontbridge.com
 outbound-sin.frontbridge.com
 mdrc-410-mail1.customer.frontbridge.com
-www.global.frontbridge.com
+global.frontbridge.com
 preview.frontbridge.com
 network.frontbridge.com
 archive.frontbridge.com
@@ -54,7 +53,6 @@ telus.frontbridge.com
 quarantine.telus.frontbridge.com
 158-archive.frontbridge.com
 archive.telus.frontbridge.com
-global.frontbridge.com
 spfc.frontbridge.com
 admin.preview.frontbridge.com
 voltage-pp-0000.frontbridge.com

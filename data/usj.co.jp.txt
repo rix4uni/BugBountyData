@@ -17,7 +17,7 @@ dynamics-api-uat.usj.co.jp
 web-staging-dev.usj.co.jp
 rtoaster.usj.co.jp
 wts-o.usj.co.jp
-www.tt.usj.co.jp
+tt.usj.co.jp
 webapi-dev.usj.co.jp
 apass-p.usj.co.jp
 apass-p-tt.usj.co.jp
@@ -78,7 +78,7 @@ services-staging-qa.usj.co.jp
 express.usj.co.jp
 web.usj.co.jp
 dynamics-api-dev.usj.co.jp
-www.tt8.usj.co.jp
+tt8.usj.co.jp
 ns.usj.co.jp
 express-tt.usj.co.jp
 mticket.tt.usj.co.jp
@@ -213,7 +213,6 @@ deployer1-stg.usj.co.jp
 official.usj.co.jp
 www2.usj.co.jp
 test_www.tt.usj.co.jp
-www.usj.co.jp
 guide.usj.co.jp
 guide-test.usj.co.jp
 member.tt.usj.co.jp
@@ -238,7 +237,6 @@ spap3-dev.usj.co.jp
 test1-s.usj.co.jp
 ticket2-tt.usj.co.jp
 wedding.usj.co.jp
-www.onlinestore.usj.co.jp
 spap.usj.co.jp
 spap3-ext2-qa.usj.co.jp
 apip-uat.usj.co.jp

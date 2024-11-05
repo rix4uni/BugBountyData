@@ -1,8 +1,8 @@
-*.pages.gitstaging.gitlab.login.gov
-*.pages.production.gitlab.login.gov
-*.pivcac.dm.login.gov
-*.pivcac.prod.login.gov
-*.pivcac.staging.login.gov
+pages.gitstaging.gitlab.login.gov
+pages.production.gitlab.login.gov
+pivcac.dm.login.gov
+pivcac.prod.login.gov
+pivcac.staging.login.gov
 _dmarc.login.gov
 acmeqa.login.gov
 app.brody.login.gov
@@ -98,12 +98,7 @@ mc.login.gov
 mta-sts.login.gov
 mz.login.gov
 pa11y.login.gov
-pages.gitstaging.gitlab.login.gov
-pages.production.gitlab.login.gov
 partners.login.gov
-pivcac.dm.login.gov
-pivcac.prod.login.gov
-pivcac.staging.login.gov
 preview.login.gov
 prod.login.gov
 pt.login.gov
@@ -186,7 +181,6 @@ worker.dm.login.gov
 worker.prod.login.gov
 worker.staging.login.gov
 worker.tf.login.gov
-www.login.gov
 zendesk.login.gov
 idp.rubyqa.login.gov
 idp.sverchnr.login.gov
@@ -196,7 +190,6 @@ rubyqa.login.gov
 sverchnr.login.gov
 test1.login.gov
 test2.login.gov
-www.pivcac.prod.login.gov
 e9d9.pivcac.prod.login.gov
 eb9f.pivcac.prod.login.gov
 3e72.pivcac.prod.login.gov
@@ -208,7 +201,6 @@ f018.pivcac.prod.login.gov
 b78b.pivcac.prod.login.gov
 0211.pivcac.prod.login.gov
 lg-public.pages.production.gitlab.login.gov
-www.pivcac.staging.login.gov
 4df3.pivcac.staging.login.gov
 projects.pages.production.gitlab.login.gov
 node1.pivcac.prod.login.gov
@@ -236,7 +228,7 @@ images-vdc.pivcac.dm.login.gov
 a06617b3a558308ddb.support.pivcac.staging.login.gov
 paywall.pivcac.dm.login.gov
 0f73.pivcac.prod.login.gov
-www.pacer.uscourts.login.gov
+pacer.uscourts.login.gov
 31d7tools.pivcac.prod.login.gov
 signedlogin.pivcac.prod.login.gov
 af1d.pivcac.prod.login.gov
@@ -287,7 +279,6 @@ pass.pivcac.dm.login.gov
 ar-stis-web-na.pivcac.dm.login.gov
 eb3f.0017fd63dd5727318.pivcac.prod.login.gov
 beta.arquivoestado.pivcac.dm.login.gov
-www.old.pivcac.staging.login.gov
 etrans13.pivcac.dm.login.gov
 arquivoestado-security.pivcac.dm.login.gov
 0--0--a-ns61661661.pivcac.dm.login.gov

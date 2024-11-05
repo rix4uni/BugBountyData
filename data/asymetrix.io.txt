@@ -7,10 +7,8 @@ rseth.asymetrix.io
 eeth.asymetrix.io
 app.asymetrix.io
 api.asymetrix.io
-*.asymetrix.io
 preprod-api.asymetrix.io
 preprod-app.asymetrix.io
 preprod.asymetrix.io
-www.asymetrix.io
 prod.asymetrix.io
 _dmarc.asymetrix.io

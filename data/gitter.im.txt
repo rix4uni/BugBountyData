@@ -65,7 +65,6 @@ files-beta.gitter.im
 staging.gitter.im
 avatars-beta-01.gitter.im
 app-beta.gitter.im
-www.gitter.im
 avatars-staging-05.gitter.im
 avatars-staging-origin.gitter.im
 cdn02-beta.gitter.im
@@ -75,7 +74,6 @@ badges.staging.gitter.im
 update.gitter.im
 avatars-04.gitter.im
 developer-beta.gitter.im
-*.gitter.im
 mywdc03-prd-lbal-01b.gitter.im
 wikilb.gitter.im
 avatars-staging-01.gitter.im

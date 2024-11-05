@@ -1,9 +1,5 @@
 services.studentenreisproduct.nl
 sturr-devtest.studentenreisproduct.nl
-*.sturr-demo.studentenreisproduct.nl
-*.sturr-dev.studentenreisproduct.nl
-*.sturr-devtest.studentenreisproduct.nl
-*.sturr-test.studentenreisproduct.nl
 sturr-demo.studentenreisproduct.nl
 sturr-dev.studentenreisproduct.nl
 sturr-test.studentenreisproduct.nl
@@ -18,8 +14,6 @@ sturr-prod.studentenreisproduct.nl
 confirm.studentenreisproduct.nl
 tekton.sturr-dev.studentenreisproduct.nl
 mijn.studentenreisproduct.nl
-www.studentenreisproduct.nl
-www.services.studentenreisproduct.nl
 sturr-acc.studentenreisproduct.nl
 internal.sturr-devtest.studentenreisproduct.nl
 student.sturr-dev.studentenreisproduct.nl
@@ -33,7 +27,7 @@ duo-acl.sturr-test.studentenreisproduct.nl
 integratieservice.sturr-dev.studentenreisproduct.nl
 mijn.sturr-dev.studentenreisproduct.nl
 flipperkastacl.sturr-acc.studentenreisproduct.nl
-www.declaraties.studentenreisproduct.nl
+declaraties.studentenreisproduct.nl
 tls-acl.sturr-test.studentenreisproduct.nl
 develop.studentenreisproduct.nl
 mijn.sturr-acc.studentenreisproduct.nl
@@ -45,7 +39,6 @@ eidas.sturr-acc.studentenreisproduct.nl
 mijn.sturr-demo.studentenreisproduct.nl
 flipperkastacl.sturr-dev.studentenreisproduct.nl
 eidas.sturr-dev.studentenreisproduct.nl
-declaraties.studentenreisproduct.nl
 clustermanagement.sturr-test.studentenreisproduct.nl
 koppelen.studentenreisproduct.nl
 services.sturr-test.studentenreisproduct.nl

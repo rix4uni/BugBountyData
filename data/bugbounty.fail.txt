@@ -28,9 +28,7 @@ cms.feature.bugbounty.fail
 api-hacker-01.test.bugbounty.fail
 cms-01.test.bugbounty.fail
 api-customer-01.feature.bugbounty.fail
-www.bugbounty.fail
 api-customer-01.test.bugbounty.fail
 api-customer.test.bugbounty.fail
 api-customer-01.staging.bugbounty.fail
 cms.bugbounty.fail
-*.bugbounty.fail

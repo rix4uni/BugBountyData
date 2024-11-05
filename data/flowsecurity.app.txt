@@ -15,7 +15,6 @@ rpm.flowsecurity.app
 registry.flowsecurity.app
 helm.flowsecurity.app
 rpm.dev.flowsecurity.app
-www.flowsecurity.app
 login.flowsecurity.app
 api.test.flowsecurity.app
 registry.dev.flowsecurity.app

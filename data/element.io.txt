@@ -51,7 +51,7 @@ element-call.olivier.sales-demos.element.io
 ntfy.simon-gui.sales-demos.element.io
 element.lutz-gui.sales-demos.element.io
 element.external.nbb.kieranml.ems-support-self-serve.element.io
-www.trinity.element.io
+trinity.element.io
 matrix.upload.ems-support-self-serve.element.io
 jitsi.lutz.sales-demos.element.io
 dash.meet.element.io
@@ -281,7 +281,6 @@ status.element.io
 hookshot.olivier-openid-adfs.sales-demos.element.io
 auditbot.ubuntu.james.ems-support-self-serve.element.io
 call.simon-ess.sales-demos.element.io
-trinity.element.io
 simon-ess.sales-demos.element.io
 integrator.olivier-lfdn.sales-demos.element.io
 aoi-yume.element.io
@@ -383,7 +382,6 @@ adminbot.simon-gui.sales-demos.element.io
 nbb.kieranml.ems-support-self-serve.element.io
 gnome.element.io
 app.element.io
-www.element.io
 openastronomy.element.io
 mozilla.element.io
 staging.element.io

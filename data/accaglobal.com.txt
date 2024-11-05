@@ -50,7 +50,7 @@ uk.accaglobal.com
 examsws.apps.accaglobal.com
 glw-mx02.accaglobal.com
 learning.ethics.accaglobal.com
-www.cnjobs.accaglobal.com
+cnjobs.accaglobal.com
 sc.accaglobal.com
 test.iassess.accaglobal.com
 annualreport.accaglobal.com
@@ -64,7 +64,7 @@ mapmycareer.accaglobal.com
 myacca.b2b.accaglobal.com
 ns0.accaglobal.com
 sys.b2b-api.apps.accaglobal.com
-www.virtual-assistant.accaglobal.com
+virtual-assistant.accaglobal.com
 learning.stage.accaglobal.com
 access-sl.accaglobal.com
 dev-sec.soa.apps.accaglobal.com
@@ -94,7 +94,7 @@ pttest.preprodportal.accaglobal.com
 studentblog.accaglobal.com
 sys.soa.apps.accaglobal.com
 ireland.accaglobal.com
-www.russia.accaglobal.com
+russia.accaglobal.com
 enterpriseregistration.accaglobal.com
 www3.accaglobal.com
 acca-virtual-cm-su-1a.uk.accaglobal.com
@@ -112,7 +112,6 @@ api.cn.stage.accaglobal.com
 int.soa.apps.accaglobal.com
 oat.b2b-api.apps.accaglobal.com
 pakaccountants.accaglobal.com
-cnjobs.accaglobal.com
 digitalhub.accaglobal.com
 irelandbookings.accaglobal.com
 wac-lo.accaglobal.com
@@ -146,7 +145,7 @@ studying.accaglobal.com
 guest.accaglobal.com
 mail.hesext.accaglobal.com
 thefuture.accaglobal.com
-www.diploma.accaglobal.com
+diploma.accaglobal.com
 dl.aem.accaglobal.com
 partner-registration.uat.accaglobal.com
 t.support.accaglobal.com
@@ -155,12 +154,11 @@ equalsmail2.accaglobal.com
 oatws.apps.accaglobal.com
 sso.accaglobal.com
 study-in-singapore.accaglobal.com
-www.equalshk.accaglobal.com
+equalshk.accaglobal.com
 aem-sso.dev.accaglobal.com
 cbe4.accaglobal.com
 cbefaq.accaglobal.com
 portland1.accaglobal.com
-www.myacca.b2b.accaglobal.com
 competencyframework.accaglobal.com
 devopstest.test.iassess.accaglobal.com
 singapore.accaglobal.com
@@ -171,7 +169,7 @@ newjersey1.accaglobal.com
 prd.accaglobal.com
 rulebook.accaglobal.com
 sgblog.accaglobal.com
-www.hongkong.accaglobal.com
+hongkong.accaglobal.com
 uat.ext.exams.apps.accaglobal.com
 sys.test.iassess.accaglobal.com
 cucm.uk.accaglobal.com
@@ -182,10 +180,9 @@ pay.accaglobal.com
 citrix.accaglobal.com
 login.deviam.accaglobal.com
 oatcbeservices.accaglobal.com
-www.myacca.accaglobal.com
+myacca.accaglobal.com
 cbedr4.accaglobal.com
 yourfuture.accaglobal.com
-www.mapmycareer.accaglobal.com
 careers2.accaglobal.com
 accaportal.tst1.accaglobal.com
 b2b-api.apps.accaglobal.com
@@ -234,7 +231,6 @@ examinerinterviews.accaglobal.com
 apply.accaglobal.com
 dialin.accaglobal.com
 login.iam.accaglobal.com
-russia.accaglobal.com
 cbe.accaglobal.com
 dev.soa.apps.accaglobal.com
 mxug01.accaglobal.com
@@ -242,12 +238,10 @@ r58.support.accaglobal.com
 sys.exams.apps.accaglobal.com
 ae.accaglobal.com
 api.cn.accaglobal.com
-virtual-assistant.accaglobal.com
 drcbe.accaglobal.com
 aem-sso.accaglobal.com
 exammethod.accaglobal.com
 soa-pre-prod.accaglobal.com
-hongkong.accaglobal.com
 sys.ext.exams.apps.accaglobal.com
 sys.reportengine.exams.apps.accaglobal.com
 dev.test.iassess.accaglobal.com
@@ -261,7 +255,6 @@ pay.preprod.accaglobal.com
 ru-data.accaglobal.com
 build-login.iam.accaglobal.com
 internal-api.apps.accaglobal.com
-myacca.accaglobal.com
 lyncweb-lo.accaglobal.com
 sec.soa.apps.accaglobal.com
 oat.test.iassess.accaglobal.com
@@ -296,30 +289,25 @@ cn.stage.accaglobal.com
 guests.accaglobal.com
 sbc-wdc.accaglobal.com
 shgsec-fw01.cn.accaglobal.com
-www.digitalhub.accaglobal.com
 elink.accaglobal.com
 mentoring.accaglobal.com
 uat.cbept.accaglobal.com
 build-login.build01.iam.accaglobal.com
 oatcbelicensing.accaglobal.com
 partner-registration.sit.accaglobal.com
-www.sgblog.accaglobal.com
 acca-virtual-cm-su-3a.uk.accaglobal.com
 cbelivejumpbox.accaglobal.com
-diploma.accaglobal.com
 haproxy01a.prod01.iam.accaglobal.com
 oatcbe.accaglobal.com
 paperf3www.accaglobal.com
-www.uk.accaglobal.com
 sa.accaglobal.com
 cn.wecom.accaglobal.com
-equalshk.accaglobal.com
 oat-wssop.iam.accaglobal.com
 prod01.iam.accaglobal.com
 myacca.test2.accaglobal.com
 pv-test.accaglobal.com
 r59.support.accaglobal.com
-www.ausnz.accaglobal.com
+ausnz.accaglobal.com
 scotland.accaglobal.com
 aramco.businesslearning.accaglobal.com
 load.test.iassess.accaglobal.com
@@ -348,7 +336,6 @@ lyncdiscover.accaglobal.com
 obsessivesavingdisorder.foat-wssop.iam.accaglobal.com
 recruiter.accaglobal.com
 smetrics.accaglobal.com
-www.accaglobal.com
 ld9-vpn.accaglobal.com
 beta.jobs.accaglobal.com
 cbedr7.accaglobal.com
@@ -360,7 +347,6 @@ build-wssop.iam.accaglobal.com
 centraleurope.accaglobal.com
 oat-haproxy01b.oat01.iam.accaglobal.com
 oat.apps.accaglobal.com
-www.experience.accaglobal.com
 acca-virtual-un-bk-1a.uk.accaglobal.com
 prod-login.prod01.iam.accaglobal.com
 vale.accaglobal.com
@@ -397,7 +383,6 @@ ourimpact-test.accaglobal.com
 soa.apps.accaglobal.com
 jobs.accaglobal.com
 virtual-assistant.dev.accaglobal.com
-www.annualreport.accaglobal.com
 wales.accaglobal.com
 stage.accaglobal.com
 uat.soa.apps.accaglobal.com
@@ -410,7 +395,6 @@ cbereporting.accaglobal.com
 graduates.accaglobal.com
 oat-sec.soa.apps.accaglobal.com
 smtp.hesext.accaglobal.com
-www.ireland.accaglobal.com
 aspen.accaglobal.com
 dialin.wipext.accaglobal.com
 webdisk.mapmycareer.accaglobal.com
@@ -484,7 +468,6 @@ paymentplanner.accaglobal.com
 dt.aem.accaglobal.com
 blogs.accaglobal.com
 uat-sec.soa.apps.accaglobal.com
-www.stage.accaglobal.com
 sys.spcbe.apps.accaglobal.com
 exch-ns2.accaglobal.com
 learning.accaglobal.com
@@ -500,5 +483,4 @@ membersforboards.accaglobal.com
 shop.accaglobal.com
 cn.accaglobal.com
 equalsmail.accaglobal.com
-*.internal.dev.iassess.accaglobal.com
-*.dev.iassess.accaglobal.com
+internal.dev.iassess.accaglobal.com

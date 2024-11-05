@@ -1,6 +1,6 @@
-*.can.medallia.ca
-*.athena-studio.yul1.medallia.ca
-*.athena-studio.can.medallia.ca
+can.medallia.ca
+athena-studio.yul1.medallia.ca
+athena-studio.can.medallia.ca
 feedback.digital-cloud.medallia.ca
 resources.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.ca
@@ -11,7 +11,6 @@ lb.mdsdk.can.medallia.ca
 digital-cloud.apis.medallia.ca
 cibc.medallia.ca
 filestash.can.medallia.ca
-www.medallia.ca
 digital-cloud-can-main.medallia.ca
 digital-cloud.medallia.ca
 apis.sbx.yul1.medallia.ca
@@ -23,7 +22,6 @@ apis.medallia.ca
 e0z00co.api.medallia.ca
 apis.sbx.can.medallia.ca
 yul1.medallia.ca
-can.medallia.ca
 api.sbx.can.medallia.ca
 eng.can.medallia.ca
 sbx.yul1.medallia.ca
@@ -35,4 +33,4 @@ customapps.medallia.ca
 kiaca.medallia.ca
 marriott.api.medallia.ca
 survey.medallia.ca
-*.video.medallia.ca
+video.medallia.ca

@@ -1,4 +1,3 @@
-www.docbyte.com
 monitor.docbyte.com
 customercommunication.docbyte.com
 staging.docbyte.com
@@ -16,7 +15,6 @@ contenthuben.docbyte.com
 fr.docbyte.com
 demo-scf.docbyte.com
 old.docbyte.com
-www.old.docbyte.com
 trail.email.docbyte.com
 ws.api.idp.federale.docbyte.com
 ws.api.idp.federale.tst.docbyte.com
@@ -25,11 +23,11 @@ tenantconfig.docbyte.com
 lob-search-prd.federale.docbyte.com
 api.idp.federale.docbyte.com
 data-model.federale.docbyte.com
-*.federale.docbyte.com
+federale.docbyte.com
 lob-search-uat.federale.uat.docbyte.com
 api.idp.federale.uat.docbyte.com
 data-model.federale.uat.docbyte.com
-*.federale.uat.docbyte.com
+federale.uat.docbyte.com
 lob-search-tst.federale.tst.docbyte.com
 lob-search-dev.federale.dev.docbyte.com
 tenantconfig.uat.docbyte.com
@@ -38,9 +36,6 @@ api.idp.federale.tst.docbyte.com
 data-model.federale.tst.docbyte.com
 api.idp.federale.dev.docbyte.com
 data-model.federale.dev.docbyte.com
-*.federale.tst.docbyte.com
-*.federale.dev.docbyte.com
-*.dev.docbyte.com
-*.docbyte.com
-*.vpn.docbyte.com
-*.sandbox.docbyte.com
+federale.tst.docbyte.com
+federale.dev.docbyte.com
+dev.docbyte.com

@@ -10,7 +10,6 @@ api.r7.sanity.work
 api.r8.sanity.work
 letsencrypt01.cdn.sanity.work
 manage-next.sanity.work
-www.sanity.work
 cdn.eu.sanity.work
 manage.sanity.work
 apicdn.k8s-gcp-eu-w1-stag-ing-01.i.sanity.work
@@ -52,16 +51,6 @@ studio-static.sanity.work
 apicdn.sanity.work
 api.r2.sanity.work
 api.sanity.work
-*.api-test.sanity.work
-*.api.sanity.work
-*.api.us.sanity.work
-*.apicdn.sanity.work
-*.apicdn.us.sanity.work
-*.cdn.sanity.work
-*.cdn.us.sanity.work
-*.sanity.work
-*.studio.sanity.work
-*.us.sanity.work
 kitchen-demo.sanity.work
 kibana.sanity.work
 content-ops-ui.sanity.work
@@ -81,9 +70,3 @@ test.sanity.work
 eu.sanity.work
 bookinfo.sanity.work
 next.sanity.work
-*.k8s-gcp-eu-w1-stag-ing-01.sentry.sanity.work
-*.sentry.sanity.work
-*.k8s-gcp-us-e4-stag-ing-01.sentry.sanity.work
-*.api.i2.sanity.work
-*.apicdn.i2.sanity.work
-*.i2.sanity.work

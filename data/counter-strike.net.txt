@@ -1,6 +1,5 @@
-*.beta.counter-strike.net
-*.preview.counter-strike.net
 beta.counter-strike.net
+preview.counter-strike.net
 blog.counter-strike.net
 bot.counter-strike.net
 countermap.counter-strike.net
@@ -8,11 +7,7 @@ enquirer.counter-strike.net
 forums.counter-strike.net
 new.blog.counter-strike.net
 old-blog.counter-strike.net
-preview.counter-strike.net
 store.counter-strike.net
-www.counter-strike.net
-www.blog.counter-strike.net
-www.new.blog.counter-strike.net
 mallww.new.blog.counter-strike.net
 en-gb.fbjspn.au.www.new.blog.counter-strike.net
 csnation.counter-strike.net
@@ -83,6 +78,6 @@ dl.www.counter-strike.net
 skins.counter-strike.net
 abdo.autoconfig.blog.counter-strike.net
 accounts.autoconfig.blog.counter-strike.net
-www.markufo.users.autoconfig.blog.counter-strike.net
+markufo.users.autoconfig.blog.counter-strike.net
 opel.autoconfig.blog.counter-strike.net
 webservis.www.counter-strike.net

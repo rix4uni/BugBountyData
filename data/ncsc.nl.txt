@@ -43,14 +43,13 @@ mijn.test.ncsc.nl
 app3.check.ncsc.nl
 nspnws-cursus.ncsc.nl
 app2.check.ncsc.nl
-www.ncsc.nl
 check.ncsc.nl
 api.acc.ncsc.nl
 opendata.ncsc.nl
 securened.ncsc.nl
 smtp1.check.ncsc.nl
 min2.ncsc.nl
-www.staging.ncsc.nl
+staging.ncsc.nl
 mijn.acc.ncsc.nl
 rtr-x21.ncsc.nl
 www-acc.ncsc.nl
@@ -92,7 +91,6 @@ privaat-acceptatie.octomon.ncsc.nl
 securened-acc.ncsc.nl
 securened-dev.ncsc.nl
 securened-tst.ncsc.nl
-www.magazines.ncsc.nl
 www-inx.ncsc.nl
 w.ncsc.nl
 nwrar-acc.ncsc.nl

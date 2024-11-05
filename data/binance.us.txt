@@ -3,7 +3,6 @@ institutions.binance.us
 support.binance.us
 email.directmaila.binance.us
 o4502.e.mail.binance.us
-www.binance.us
 accounts-preprod.binance.us
 fapi.binance.us
 email.mailera.binance.us
@@ -21,7 +20,6 @@ clicks.binance.us
 ustrwg.binance.us
 docsaly.binance.us
 mailserv.www.binance.us
-*.binance.us
 docs.binance.us
 test.binance.us
 pre.binance.us
@@ -37,7 +35,7 @@ int-wsp-stream.binance.us
 directmaila.binance.us
 data.binance.us
 pm-bounces.posta.binance.us
-www.splegisconsulta.camara.binance.us
+splegisconsulta.camara.binance.us
 gh-mail.binance.us
 verify81546.email.mailera.binance.us
 directmail.binance.us

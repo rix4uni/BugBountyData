@@ -1,11 +1,10 @@
 sandbox.om.mojadm.sk
 auth.mojadm.sk
 m.mojadm.sk
-www.my.mojadm.sk
+my.mojadm.sk
 review.intern.mojadm.sk
 mail-link.mojadm.sk
 ressourcen.mojadm.sk
-www.mojadm.sk
 account-rls.mojadm.sk
 auth-new.mojadm.sk
 discoverreceiver.mojadm.sk
@@ -15,8 +14,6 @@ checkout.mojadm.sk
 signin.mojadm.sk
 del.mm.mojadm.sk
 autodiscover.mojadm.sk
-my.mojadm.sk
-www.auth.mojadm.sk
 journalspecial.mojadm.sk
 accounts-rls.mojadm.sk
 del.t.mm.mojadm.sk

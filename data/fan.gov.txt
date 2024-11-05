@@ -16,7 +16,7 @@ wskblchid01.fan.gov
 wskblchid02.fan.gov
 splunk-storm.fan.gov
 splunk.storm.fan.gov
-www.test.fan.gov
+test.fan.gov
 dev.fan.gov
 gitlab.fan.gov
 splunk.fan.gov
@@ -31,7 +31,6 @@ calendar.fan.gov
 jiraekstest.fan.gov
 drive.fan.gov
 vsfs.fan.gov
-www.fan.gov
 gitalydev.fan.gov
 gitlabdev.fan.gov
 gitlabdev2.fan.gov
@@ -56,7 +55,6 @@ gitlabeksdev2.fan.gov
 ansible.fan.gov
 docs.fan.gov
 gitlabcssdev.fan.gov
-test.fan.gov
 jiraeksprod.fan.gov
 lorawan.fan.gov
 praefectdev-fan-gov.fan.gov
@@ -70,7 +68,6 @@ jiradevha02.fan.gov
 setools-ansible.fan.gov
 splunktest.fan.gov
 toolsdev.fan.gov
-www.dev.fan.gov
 dts.fan.gov
 cssinfo.fan.gov
 jiradev2.fan.gov

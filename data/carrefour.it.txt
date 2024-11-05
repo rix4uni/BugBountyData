@@ -16,11 +16,11 @@ modamare.carrefour.it
 click.email.carrefour.it
 images.carrefour.it
 lotstracking-test.web.carrefour.it
-www.vefa.web.carrefour.it
+vefa.web.carrefour.it
 mcmstage.carrefour.it
 newsletter.carrefour.it
 appstore.carrefour.it
-www.intrattenimento.carrefour.it
+intrattenimento.carrefour.it
 dev.substitution.carrefour.it
 devapi.concorso.carrefour.it
 docsit.carrefour.it
@@ -36,11 +36,11 @@ dev.assistantai.carrefour.it
 lemiesfide.carrefour.it
 localhost.carrefour.it
 rqygwl.carrefour.it
-www.util.carrefour.it
+util.carrefour.it
 assistantai.carrefour.it
 formazioneobbligatoria-bo.carrefour.it
 mtls.api.carrefour.it
-www.keycloak-uat.tc.carrefour.it
+keycloak-uat.tc.carrefour.it
 demo.carrefour.it
 benesserecongusto.carrefour.it
 dev-concorso.carrefour.it
@@ -55,7 +55,6 @@ api.tc.carrefour.it
 ecommerce-assets.web.carrefour.it
 substitution.carrefour.it
 express.carrefour.it
-www.carrefour.it
 cloud.email.carrefour.it
 sitecore-admin-int.carrefour.it
 shelflife.carrefour.it
@@ -73,7 +72,7 @@ vpn.carrefour.it
 pop3.carrefour.it
 carrefourfranchising-test.carrefour.it
 confluence.carrefour.it
-www.lavoraconnoi.carrefour.it
+lavoraconnoi.carrefour.it
 tablet.carrefour.it
 bimbi-superstar.carrefour.it
 reportpeoplesmarter-test.carrefour.it
@@ -93,7 +92,6 @@ ipermercati-supermercati.carrefour.it
 image.email.carrefour.it
 expressintavola.carrefour.it
 shop-stg.carrefour.it
-www.newsletter.carrefour.it
 babypapera.carrefour.it
 dondolo.carrefour.it
 pa-calculator.carrefour.it
@@ -102,7 +100,7 @@ regaliaziendali.carrefour.it
 contest-login.carrefour.it
 devadminapi.concorso.carrefour.it
 gioco.carrefour.it
-www.carrefourfranchising.carrefour.it
+carrefourfranchising.carrefour.it
 todolist.carrefour.it
 cs.carrefour.it
 devpremio.carrefour.it
@@ -112,7 +110,7 @@ lm.carrefour.it
 news.carrefour.it
 afterwork-preprod.carrefour.it
 content.carrefour.it
-www.keycloak.tc.carrefour.it
+keycloak.tc.carrefour.it
 gametherapy.carrefour.it
 itaca.carrefour.it
 unideaperexpress.carrefour.it
@@ -130,7 +128,6 @@ concorsopassioneitaliana.carrefour.it
 developers-test.carrefour.it
 itdmz1test.carrefour.it
 innovazione.carrefour.it
-www.concorso.carrefour.it
 iperdvd.carrefour.it
 booking.viaggi.carrefour.it
 estoybien.carrefour.it
@@ -140,7 +137,7 @@ easy-mobile.carrefour.it
 mtls-dev.api.carrefour.it
 mtls-test.api.carrefour.it
 orespesebene.carrefour.it
-www.viaggi.carrefour.it
+viaggi.carrefour.it
 coupon.carrefour.it
 collezioneagnelli.carrefour.it
 email.carrefour.it
@@ -175,7 +172,6 @@ dbp-dev.web.carrefour.it
 piteco.carrefour.it
 lamarchetta.carrefour.it
 spesaonline-int.carrefour.it
-vefa.web.carrefour.it
 spesaonline.carrefour.it
 ungrandecuore.carrefour.it
 test-admin.carrefour.it
@@ -183,11 +179,9 @@ effettocarugate.carrefour.it
 backend.hybridstock.carrefour.it
 jscape-gw.web.carrefour.it
 vincilatuaspesa.carrefour.it
-www.volantino.carrefour.it
 specchio.carrefour.it
 impegniacquisto-test.web.carrefour.it
 suditalia.carrefour.it
-util.carrefour.it
 megapoz.carrefour.it
 shop-int.carrefour.it
 club.carrefour.it
@@ -200,7 +194,6 @@ regali-aziendali.carrefour.it
 biodentro.carrefour.it
 impegniacquisto.web.carrefour.it
 ucare.tc.carrefour.it
-viaggi.carrefour.it
 serviziep.carrefour.it
 sitecore-admin-stg.carrefour.it
 gente.carrefour.it
@@ -211,9 +204,7 @@ lunchbox-test.carrefour.it
 accounts.carrefour.it
 jira-prepod.carrefour.it
 jscape-gw-test.web.carrefour.it
-lavoraconnoi.carrefour.it
 restock.carrefour.it
-www.beasuperhero.carrefour.it
 confluence-preprod.carrefour.it
 essenziali.carrefour.it
 peoplesmarter.carrefour.it
@@ -226,23 +217,18 @@ natale.carrefour.it
 ancorapiubuoni.carrefour.it
 dev.concorso.carrefour.it
 jscape-srv.web.carrefour.it
-carrefourfranchising.carrefour.it
 shop.carrefour.it
 meraviglieagnelli.carrefour.it
 hotels.viaggi.carrefour.it
 lotstracking-dev.web.carrefour.it
-www.mtls-dev.api.carrefour.it
 megapopz.carrefour.it
 terreditalia.carrefour.it
 prezzibloccati.carrefour.it
 t.carrefour.it
-www.mtls-test.api.carrefour.it
-www.mtls.api.carrefour.it
 collettaalimentare-stg.carrefour.it
 aiutantedibabbonatale.carrefour.it
 franchising.carrefour.it
 guest.carrefour.it
-keycloak.tc.carrefour.it
 libriditesto.carrefour.it
 rimborsostorico.carrefour.it
 ilovemydenim.carrefour.it
@@ -250,7 +236,6 @@ salone.carrefour.it
 babystars.carrefour.it
 carrefourfranchising-sso.carrefour.it
 jscape-srv-test.web.carrefour.it
-keycloak-uat.tc.carrefour.it
 mta.email.carrefour.it
 piteco-test.carrefour.it
 afterwork.carrefour.it

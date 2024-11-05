@@ -1,4 +1,3 @@
-*.dev.grindr.io
 admin-vpn.dev.grindr.io
 astro.dev.grindr.io
 astrobf.dev.grindr.io
@@ -22,6 +21,3 @@ mesos-services.dev.grindr.io
 airflow-eks.dev.grindr.io
 dash.dev.grindr.io
 vpn.curious.astro.dev.grindr.io
-*.astro.dev.grindr.io
-*.astrobf.dev.grindr.io
-*.astrodev.dev.grindr.io

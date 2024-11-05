@@ -6,7 +6,6 @@ this.notebook.new
 scope.notebook.new
 pyneurotrace.notebook.new
 djitsu.notebook.new
-www.notebook.new
 self.notebook.new
 commands.sas.notebook.new
 help.notebook.new

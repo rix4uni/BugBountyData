@@ -3,7 +3,6 @@ berks-api.parse.com
 com.sun.xml.internal.rngom.parse.com
 chemdataextractor.parse.com
 laika.parse.com
-www.parse.com
 int.parse.com
 pdns6.parse.com
 1-courier.sandbox.push.apple.comapi.parse.com
@@ -37,4 +36,3 @@ jenkins-master3.int.parse.com
 kp.parse.com
 apt.parse.com
 elb.parse.com
-*.parse.com

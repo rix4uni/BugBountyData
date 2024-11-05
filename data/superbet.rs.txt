@@ -35,7 +35,6 @@ apps.stage.superbet.rs
 legacy.qa1deva-okta.prod.incubator.superbet.rs
 origin.betting.prod.incubator.superbet.rs
 api.web.crm.betler.superbet.rs
-www.superbet.rs
 tickets.web.superbet.rs
 incubator.superbet.rs
 production.betler.superbet.rs

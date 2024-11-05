@@ -29,15 +29,12 @@ prospect.taxi2airport.com
 mail.taxi2airport.com
 api.taxi2airport.com
 v2-www.taxi2airport.com
-www.taxi2airport.com
 affiliate.taxi2airport.com
 v2-affiliate.taxi2airport.com
 staging-expedia.api.taxi2airport.com
 api-alb.prod.taxi2airport.com
-www.staging.taxi2airport.com
 affiliate-alb.prod.taxi2airport.com
 development.taxi2airport.com
 test.taxi2airport.com
-www.www2.taxi2airport.com
 taxi2airport-alb.stag.taxi2airport.com
 taxi2airport-alb.prod.taxi2airport.com

@@ -28,7 +28,7 @@ seniorensamenleving.d66.nl
 enkhuizen.d66.nl
 landsmeer.d66.nl
 geldermalsen.d66.nl
-www.maastricht.d66.nl
+maastricht.d66.nl
 bel.d66.nl
 valkenburgaandegeul.d66.nl
 whmcs.d66.nl
@@ -46,17 +46,17 @@ ipa.ams5.infra.d66.nl
 borsele.d66.nl
 amsterdamcentrum.d66.nl
 korendijk.d66.nl
-www.rijkvannijmegen.d66.nl
+rijkvannijmegen.d66.nl
 walcheren.d66.nl
 heerde.d66.nl
 dommelvallei.d66.nl
 middendelfland.d66.nl
 noordwijkerhout.d66.nl
-www.acc.servicedesk.d66.nl
+acc.servicedesk.d66.nl
 verdieping.d66.nl
 zeeuwsvlaanderen.d66.nl
 middennederland.d66.nl
-www.emmen.d66.nl
+emmen.d66.nl
 noordoostveluwe.d66.nl
 remote.d66.nl
 internationaal.d66.nl
@@ -66,10 +66,9 @@ eerstekamer.d66.nl
 houten.d66.nl
 gennep.d66.nl
 utrecht.d66.nl
-www.servicedesk.d66.nl
+servicedesk.d66.nl
 survey.d66.nl
 pride66.d66.nl
-www.d66.nl
 admin.d66.nl
 midden-groningen.d66.nl
 tickets.d66.nl
@@ -78,9 +77,9 @@ hoogezandsappemeer.d66.nl
 lool.ams7.infra.d66.nl
 texel.d66.nl
 bloemendaal.d66.nl
-www.kantoor.d66.nl
+kantoor.d66.nl
 goes.d66.nl
-www.goirle.d66.nl
+goirle.d66.nl
 heerlen.d66.nl
 aaenhunze.d66.nl
 pijnacker-nootdorp.d66.nl
@@ -103,8 +102,6 @@ prod-www.d66.nl
 brandportal.dev.d66.nl
 academie.d66.nl
 veiling.d66.nl
-servicedesk.d66.nl
-acc.servicedesk.d66.nl
 webshop.staging.d66.nl
 lool.ams5.infra.d66.nl
 brandportal.d66.nl
@@ -112,7 +109,6 @@ sslvpn.d66.nl
 intranet.d66.nl
 abri.d66.nl
 paper.d66.nl
-kantoor.d66.nl
 agora.d66.nl
 support.d66.nl
 crm.d66.nl
@@ -135,7 +131,6 @@ rhenen.d66.nl
 delft.d66.nl
 hoekschewaard.d66.nl
 horstaandemaas.d66.nl
-maastricht.d66.nl
 salland.d66.nl
 dongen.d66.nl
 noord-groningen.d66.nl
@@ -153,8 +148,6 @@ noordoostpolder.d66.nl
 veenendaal.d66.nl
 amstelveen.d66.nl
 eindhoven.d66.nl
-www.ipa.ams5.infra.d66.nl
-www.survey.d66.nl
 utrechtseheuvelrug.d66.nl
 hilversum.d66.nl
 dordrecht.d66.nl
@@ -208,10 +201,6 @@ gelderland.d66.nl
 apeldoorn.sicoobcrediuna.d66.nl
 confluencewww.sicoobcrediuna.d66.nl
 haarlem-www.sicoobcrediuna.d66.nl
-*.d66.nl
-www.analytics.d66.nl
-www.crm.d66.nl
-www.sslvpn.d66.nl
 0-0-6-5.servicedesk.d66.nl
 0-44-6.staging.d66.nl
 0-73-4.servicedesk.d66.nl
@@ -5669,7 +5658,6 @@ emilywinck-callrail-api.staging.d66.nl
 emktwww.d66.nl
 emmen-dev.d66.nl
 emmen-www1.d66.nl
-emmen.d66.nl
 emmytrading.opslag.d66.nl
 emollink.staging.d66.nl
 employedpic.d66.nl
@@ -7151,7 +7139,6 @@ goerli.kantoor.d66.nl
 goetghebeur.d66.nl
 goha.servicedesk.d66.nl
 goioaccess02.opslag.d66.nl
-goirle.d66.nl
 golang-edge-services.staging.d66.nl
 golden-gurl.servicedesk.d66.nl
 golden-son.servicedesk.d66.nl
@@ -14393,7 +14380,6 @@ ridderkerk.d66.nl
 ridepool5-3sir-3.staging.d66.nl
 riewe.abri.d66.nl
 riga.staging.d66.nl
-rijkvannijmegen.d66.nl
 rijkvannijmegen.haarlem.d66.nl
 rijswijk.d66.nl
 riley-144-245-42-15.servicedesk.d66.nl
@@ -19268,20 +19254,8 @@ www-orgstoreqa2live.rijssen-holten.d66.nl
 www-perf.haarlem.d66.nl
 www-stage.staging.d66.nl
 www-test-www.staging.d66.nl
-www.bel.d66.nl
-www.borne.d66.nl
-www.castricum.d66.nl
-www.haarlem.d66.nl
-www.haarlemmermeer.d66.nl
-www.katwijk.d66.nl
-www.middenbrabant.d66.nl
-www.pr.d66.nl
-www.rbu.d66.nl
-www.rijssen-holten.d66.nl
-www.schiedam.d66.nl
-www.sliedrecht.d66.nl
-www.valkenburgaandegeul.d66.nl
-www.veenendaal.d66.nl
+pr.d66.nl
+rbu.d66.nl
 www0-3-2.d66.nl
 www0-48.d66.nl
 www0-5nginx.servicedesk.d66.nl
@@ -21619,7 +21593,7 @@ test.00000.d66.nl
 00111000am.d66.nl
 007dazhanhuangjiaduchangbaidu-am.d66.nl
 03-costrutti.d66.nl
-www.0-kenmin.d66.nl
+0-kenmin.d66.nl
 01-firewall-config.d66.nl
 007227n411p2g9spp.d66.nl
 a.0200.d66.nl
@@ -21633,7 +21607,7 @@ a.0200.d66.nl
 032lid3h.d66.nl
 static.0-76.d66.nl
 demo.02sekyutore-wt.d66.nl
-www.04u-u96488387-c233-s1507712525-i95143f0d-almelo.d66.nl
+04u-u96488387-c233-s1507712525-i95143f0d-almelo.d66.nl
 cf.0030.d66.nl
 02n.d66.nl
 00f1.d66.nl
@@ -21659,7 +21633,7 @@ euw.027-lmp-993.d66.nl
 1146890965.rsc.13.04u-u359db133-c233-s1507524107-i95143f0d.d66.nl
 confluence.0014.d66.nl
 02515.d66.nl
-www.amersfoort.000dcy1sb2we2.d66.nl
+amersfoort.000dcy1sb2we2.d66.nl
 03-fitocom.d66.nl
 mar11ase1.04feb2016appservicep.d66.nl
 021-extract-1-percent-sample.d66.nl
@@ -21678,9 +21652,9 @@ nautilus.0203.d66.nl
 0-68.d66.nl
 013.d66.nl
 0-24.d66.nl
-www.04u-u39640132-c233-s1506951886-i95143f0dbarneveld.d66.nl
+04u-u39640132-c233-s1506951886-i95143f0dbarneveld.d66.nl
 noc.022.d66.nl
-www.00781535842b376556coevorden.d66.nl
+00781535842b376556coevorden.d66.nl
 035-jff-241.d66.nl
 01lovelymary.d66.nl
 035348383.d66.nl
@@ -21711,7 +21685,7 @@ apeldoorn.04u-ub3620a6e-c233-s1507600447-i95143f0d.d66.nl
 0058.d66.nl
 00-page.d66.nl
 alt.00006.d66.nl
-www.001.d66.nl
+001.d66.nl
 private.004-btr-463.d66.nl
 000dco2l50we1-hoogezandsappemeer.d66.nl
 bf9.04u-ue8138b7d-c233-s1507272744-i95143f0d.d66.nl
@@ -21835,7 +21809,6 @@ dev.d66.nl
 04u-uaaba0021-c233-s1507480982-i95143f0d.d66.nl
 000-m89.d66.nl
 02memo.d66.nl
-rbu.d66.nl
 0-211.d66.nl
 670154.04feb2016appservice-t.d66.nl
 campelio.fr.04u-uaaba0021-c233-s1507480982-i95143f0d.d66.nl
@@ -22011,7 +21984,7 @@ c.0.0.4.003e694e6f74dc3bf0e02.d66.nl
 03-seeking-help.d66.nl
 01-arrays-and-strings.d66.nl
 000dsinl50pl2fr.d66.nl
-www.04u-u365d5505-c233-s1507348043-i95143f0dsurvey.d66.nl
+04u-u365d5505-c233-s1507348043-i95143f0dsurvey.d66.nl
 049515.d66.nl
 brasil.006-lrt-285.d66.nl
 system.007zhenrendailizhuce.d66.nl
@@ -22037,7 +22010,6 @@ srv.000dsg2sb2pl4-in.d66.nl
 000dcy1sb2we3m.d66.nl
 0-meter.d66.nl
 04u-u7d1a9464-c233-s1507509590-i95143f0dttt.d66.nl
-www.voorschoten.04u-uba8f768d-c233-s1506990073-i95143f0d.d66.nl
 0001122com-53a3.d66.nl
 00544-01-l.d66.nl
 037player.d66.nl
@@ -22080,7 +22052,7 @@ staff.006-gww-889.d66.nl
 01isaserv.d66.nl
 0-14.d66.nl
 02proxy.d66.nl
-www.04u-u48488539-c233-s1507551392-i95143f0d-almelo.d66.nl
+04u-u48488539-c233-s1507551392-i95143f0d-almelo.d66.nl
 001navelysrootbgr.d66.nl
 04u-ub5e342f7-c233-s1507724441-i95143f0d71e7.d66.nl
 020-advanced.d66.nl
@@ -22141,7 +22113,6 @@ cdn.000sexymonique.d66.nl
 reviews.0011aaa.d66.nl
 000-587oauth1368194175.d66.nl
 02defaultordermetaclasses.d66.nl
-www.000naughtygirl-best.d66.nl
 004xuan5kaijianghaoma-aaenhunze.d66.nl
 005-longest-palindromic-substring.d66.nl
 system.007huangjiaduchangdianying.d66.nl
@@ -22390,7 +22361,7 @@ hkg.003-smtp-out.d66.nl
 005-check.d66.nl
 git.0002.d66.nl
 skins.0006.d66.nl
-www.04u-u00ce1b28-c233-s1507311673-i95143f0dcastricum.d66.nl
+04u-u00ce1b28-c233-s1507311673-i95143f0dcastricum.d66.nl
 s.0-119.d66.nl
 01promise.d66.nl
 hwcdn.00litlleblondy.d66.nl
@@ -22407,7 +22378,7 @@ alkmaar.04u-u6e6d7db5-c233-s1507325866-i95143f0d.d66.nl
 kr.016com.d66.nl
 04u-ud3f17447-c233-s1507355917-i95143f0d-am.d66.nl
 3709-i95143f0d.am.000badcu.d66.nl
-www.007078-nijmegen.d66.nl
+007078-nijmegen.d66.nl
 04-postfix-dovecot-groupoffice-technomailadmin.d66.nl
 0342.d66.nl
 04u-u390acae5-c233-s1507420638-i95143f0d.d66.nl
@@ -22437,7 +22408,6 @@ energypolicyblog.004zhejiangeu.d66.nl
 00000000000000000000-cmp.d66.nl
 promo.0042.d66.nl
 cdn.004zhejiang.d66.nl
-www.weert.000dsinl50pl2.d66.nl
 04u-ub5e342f7-c233-s1507724441-i95143f0d-t.d66.nl
 00jehc.d66.nl
 0371.d66.nl
@@ -22550,7 +22520,7 @@ training.007bifenwang.d66.nl
 02-zgnbu67tvs6mq5bq.d66.nl
 2017.0005.d66.nl
 028textdatafromvideo.d66.nl
-www.04u-u7d1a9464-c233-s1507509590-i95143f0d-best.d66.nl
+04u-u7d1a9464-c233-s1507509590-i95143f0d-best.d66.nl
 02multidimentionalarrays.d66.nl
 029-cek-917.d66.nl
 001create.d66.nl
@@ -22600,7 +22570,6 @@ bucky.000500.d66.nl
 00-mdmanager-script.d66.nl
 007huangjiaduchangyoukua.d66.nl
 int.0032.d66.nl
-www.01.d66.nl
 000dco1sb2we3-h.d66.nl
 middennederland.000naughtygirl-6.d66.nl
 0037-input-add-keyreset-driver.d66.nl
@@ -22632,7 +22601,7 @@ twenterand.04u-u4a48fbc9-c233-s1507033856-i95143f0d.d66.nl
 0461-ion-clean-up-ioctls.d66.nl
 4.003e694e6f74dc3bf0e02.d66.nl
 04-variables.d66.nl
-www.forum.00111000fi.d66.nl
+forum.00111000fi.d66.nl
 0-antivirus.d66.nl
 01-07-activities.d66.nl
 mail.007zuqiujishibifenwang.d66.nl
@@ -22677,7 +22646,7 @@ cdn.000dco1sb2we3-t.d66.nl
 priv.007aomenduchang.d66.nl
 demo.00skk.d66.nl
 0du-results-ub3620a6e-c233-s1507600447-i95143f0d.007dazhanhuangjiaduchangbaidu-am.d66.nl
-www.almelo.00271c0m.d66.nl
+almelo.00271c0m.d66.nl
 northamerica.002ff.d66.nl
 email.0085.d66.nl
 04-01.d66.nl
@@ -22725,7 +22694,7 @@ gennep.04.d66.nl
 dec.03-allier.d66.nl
 000550-1.d66.nl
 03dependencyfailuretest.d66.nl
-www.01-sh-r05u09-co01.d66.nl
+01-sh-r05u09-co01.d66.nl
 vpn.007227n411p2g9.d66.nl
 0401.d66.nl
 03-week-1-setup.d66.nl
@@ -22775,7 +22744,7 @@ garena.co.id.000dcy1sb2we2.d66.nl
 01.007078.d66.nl
 000-330.d66.nl
 noordenveld.04u-u7c79d20f-c233-s1507301940-i95143f0d.d66.nl
-www.almelo.000naughtygirl.d66.nl
+almelo.000naughtygirl.d66.nl
 01-title.d66.nl
 0018.d66.nl
 0193.d66.nl
@@ -22791,7 +22760,7 @@ forum.00000.d66.nl
 client.00728q3123.d66.nl
 0044.d66.nl
 0111.d66.nl
-www.02274fb80bf9e42.d66.nl
+02274fb80bf9e42.d66.nl
 044-mkdir.d66.nl
 00003.d66.nl
 latinamerica.0007.d66.nl
@@ -22811,7 +22780,6 @@ proxy.00015.d66.nl
 repository.007huangjiaduchang1024bd.d66.nl
 02-machinelearninghandson.d66.nl
 bucket.005550.d66.nl
-almelo.000naughtygirl.d66.nl
 d66.04u-ub5e342f7-c233-s1507724441-i95143f0dstaging.d66.nl
 0383.d66.nl
 001nbaquanmingxingdasai.d66.nl
@@ -22921,7 +22889,6 @@ net.004cf.d66.nl
 007huangjiaduchang720p.d66.nl
 000244.d66.nl
 upc.005-kps-225.d66.nl
-www.04u-u87cdb7a2-c233-s1506942852-i95143f0d-dq.d66.nl
 01yizang.d66.nl
 007huangjiaduchangzaixianguankan.d66.nl
 ftp.gooisemeren.04u-u00ce1b28-c233-s1507311673-i95143f0d.d66.nl
@@ -22968,7 +22935,6 @@ borgerodoorn.000dsinl50pl2.d66.nl
 000sexymoniquem.d66.nl
 03-loadpicture.d66.nl
 03-homebrew.d66.nl
-www.breda.04u-u39640132-c233-s1506951886-i95143f0d.d66.nl
 2dd34561d89a.c.04u-u59325588-c233-s1507029762-i95143f0d.d66.nl
 0236-gpu-ion-ion.d66.nl
 tur.048.d66.nl
@@ -22992,7 +22958,7 @@ server.0001web.d66.nl
 001dd.d66.nl
 am.0107youxizhongxin.d66.nl
 001xnxqmhdh0.d66.nl
-www.02.d66.nl
+02.d66.nl
 2017.0066.d66.nl
 040401.d66.nl
 007zhihuangjiaduchangguoyu.d66.nl
@@ -23080,7 +23046,7 @@ frontpage.000000-hosting.d66.nl
 04feb2016appservice.p.04u-ufd379f94-c233-s1507478453-i95143f0d.d66.nl
 las.00000111.d66.nl
 007objectclassmethods.d66.nl
-www.pr.000dcy1sb2we3.d66.nl
+pr.000dcy1sb2we3.d66.nl
 04u-u3c948956-c233-s1507607399-i95143f0d.d66.nl
 testbed.00000000.d66.nl
 0-179.d66.nl
@@ -23104,7 +23070,6 @@ e1tzfcwlor.0000mg.d66.nl
 0377.d66.nl
 0100-net-wireless-add-config.d66.nl
 01j54rkf7ns8.d66.nl
-04u-u365d5505-c233-s1507348043-i95143f0dsurvey.d66.nl
 000-055.d66.nl
 data.008-jlc-434.d66.nl
 middennederland.6.04u-u96488387-c233-s1507712525-i95143f0d.d66.nl
@@ -23152,7 +23117,7 @@ dev.0000mg.d66.nl
 docs.00775337016b9183.d66.nl
 0-75.d66.nl
 040615dbchanged.d66.nl
-www.annuaire-musique.04u-u35f75d2a-c233-s1507461470-i95143f0deu.d66.nl
+annuaire-musique.04u-u35f75d2a-c233-s1507461470-i95143f0deu.d66.nl
 0-4.d66.nl
 00bef14d94e9d549fedcceb0ff093dc88b6ef506.d66.nl
 04-les-styles.d66.nl
@@ -23262,7 +23227,6 @@ webapp.004.d66.nl
 gh.023-dod-251.d66.nl
 injectcard.mallplaza.001zuqiubifenbishimes.d66.nl
 internal.00000000000000000000.d66.nl
-almelo.00271c0m.d66.nl
 alt.000555.d66.nl
 ewww.000dsg2sb2we1.d66.nl
 012e861a79273402ff8080812e827816.d66.nl
@@ -23273,7 +23237,7 @@ ewww.000dsg2sb2we1.d66.nl
 007zhenrenkaihusongxianjin.d66.nl
 03-categories.d66.nl
 04chas3.d66.nl
-www.000exchange2010best.d66.nl
+000exchange2010best.d66.nl
 lan.004.d66.nl
 042df740-1f2b-4.d66.nl
 0247.d66.nl
@@ -23295,7 +23259,6 @@ sept.00nicole8teen.d66.nl
 0176.d66.nl
 s.0-160.d66.nl
 007dazhanhuangjiaduchangbd.d66.nl
-www.04u-ub5e342f7-c233-s1507724441-i95143f0d.d66.nl
 04u-u7c79d20f-c233-s1507301940-i95143f0d.d66.nl
 redirector.004xuan5kaijianghaoma.d66.nl
 04u-u365d5505-c233-s1507348043-i95143f0d73e.d66.nl
@@ -23365,7 +23328,6 @@ trial.0-142.d66.nl
 03-android.d66.nl
 015reflection.d66.nl
 2013.0009.d66.nl
-pr.000dcy1sb2we3.d66.nl
 04u-ub88fbc89-c233-s1507466561-i95143f0d19.d66.nl
 developer.03212017testtendomains.d66.nl
 frontpage.0006.d66.nl
@@ -23376,7 +23338,6 @@ frontpage.0006.d66.nl
 032eluosizhuanpan.d66.nl
 04-higher-order.d66.nl
 03simplequery.d66.nl
-04u-u7d1a9464-c233-s1507509590-i95143f0d-best.d66.nl
 01-setup.d66.nl
 02responsivewebdesign.d66.nl
 03-quad.d66.nl
@@ -23393,7 +23354,6 @@ bucket.000000.d66.nl
 train.000055.d66.nl
 03-array.d66.nl
 04u-u43cc034d-c233-s1507383679-i95143f0d6625.d66.nl
-amersfoort.000dcy1sb2we2.d66.nl
 01suzy.d66.nl
 02rflow.d66.nl
 001stdmail.d66.nl
@@ -23416,7 +23376,7 @@ tilburg.04u-uaa642591-c233-s1507856354-i95143f0d.d66.nl
 login.0000hugetits.d66.nl
 000-okta-idplogs.d66.nl
 0-5.d66.nl
-www.0--c.d66.nl
+0--c.d66.nl
 v2.0499.d66.nl
 thechive.be.001-blob.d66.nl
 003e694e6f74dc3bf0e0-750f036b2bccecf6c055631724d16184-lists.d66.nl
@@ -23464,7 +23424,7 @@ admin.007zhenrenxinyudu.d66.nl
 00110.d66.nl
 brandportal.007078-comdev.d66.nl
 net.000.d66.nl
-www.010.d66.nl
+010.d66.nl
 03-pwm-start-stop.d66.nl
 003-lista.d66.nl
 007zhenrenzenmewan.d66.nl
@@ -23573,7 +23533,6 @@ security.005-vtd-029.d66.nl
 0000984-01.injectcard.mallplaza.04u-u2281018a-c233-s1507135290-i95143f0d-s.d66.nl
 vpn.00271c0m.d66.nl
 06u-u22b1953d-c233-s1507040955-i95143f0d.am.001-blob.d66.nl
-www.voorschoten.04u-ua6ba39a5-c233-s1507750197-i95143f0d.d66.nl
 008estates.d66.nl
 04u-u96488387-c233-s1507712525-i95143f0dvma.d66.nl
 frontpage.0-232.d66.nl
@@ -23589,12 +23548,10 @@ turkey.0308.d66.nl
 031415.d66.nl
 castlebridge.007bifens.d66.nl
 007huangjiaduchangyanyuan.d66.nl
-www.borgerodoorn.000dsinl50pl2.d66.nl
 0-i-chefredirure-assets-hostmaster.d66.nl
 03-elementos-pos-textuais.d66.nl
 train.00021.d66.nl
 007zhenrenyulechengbeiyongwangzhi.d66.nl
-007078-nijmegen.d66.nl
 007zhongdeaomenduchang.d66.nl
 0088huangguanwanghuangguanhg0088.d66.nl
 047208.d66.nl
@@ -23602,11 +23559,9 @@ train.00021.d66.nl
 westeurope.003.d66.nl
 0081.d66.nl
 03-set-node-address.d66.nl
-www.0219-i95143f0d.d66.nl
 02-basic-elements.d66.nl
 0-76.d66.nl
 tomsojer.at.04u-ua97dc836-c233-s1507334975-i95143f0dex.d66.nl
-04u-u96488387-c233-s1507712525-i95143f0d-almelo.d66.nl
 033energie.d66.nl
 000-371.d66.nl
 02-js-css-clock.d66.nl
@@ -23663,7 +23618,6 @@ ie.000005.d66.nl
 018159.d66.nl
 002-lazy-loading.d66.nl
 0400-problem-factorials.d66.nl
-www.04u-uab0a34f1-c233-s1507133487-i95143f0d-survey.d66.nl
 0321.d66.nl
 007bifen7026.d66.nl
 04savesvm.d66.nl
@@ -23771,7 +23725,6 @@ bodhr9e0ozxj5meo.28.99.04u-u2281018a-c233-s1507135290-i95143f0d.d66.nl
 5dbb.04u-u85fb4eee-c233-s1507159862-i95143f0d.d66.nl
 04u-ud9d1261a-c233-s1507739977-i95143f0d-am.d66.nl
 015-cas-01.d66.nl
-04u-u48488539-c233-s1507551392-i95143f0d-almelo.d66.nl
 007zhenrenyulechengzhucesong18.d66.nl
 031-ext2.d66.nl
 0005.d66.nl
@@ -23780,7 +23733,7 @@ bodhr9e0ozxj5meo.28.99.04u-u2281018a-c233-s1507135290-i95143f0d.d66.nl
 017-cko-601.d66.nl
 uat.005-shs-767.d66.nl
 02-digital-clock.d66.nl
-www.dq.007aomenduchang.d66.nl
+dq.007aomenduchang.d66.nl
 02192017testtendomains.d66.nl
 july.001asweetcandy.d66.nl
 0-dinkelland.d66.nl
@@ -23812,7 +23765,6 @@ vi.0372.d66.nl
 d.000dco2l50we1.d66.nl
 0-6-26.d66.nl
 0062.d66.nl
-www.zeist.005-shs-767.d66.nl
 0-160.d66.nl
 admin.004qiboliantouzhuwang.d66.nl
 0-introduction.d66.nl
@@ -23825,7 +23777,6 @@ testing1.0001122com.d66.nl
 02-beer-icon.d66.nl
 007078-watvindjij.d66.nl
 m.000ddb3sb2we4.d66.nl
-annuaire-musique.04u-u35f75d2a-c233-s1507461470-i95143f0deu.d66.nl
 0-3.d66.nl
 0099tu.d66.nl
 007078-5624.d66.nl
@@ -23940,7 +23891,6 @@ page.003-smtp-out.d66.nl
 0147852.d66.nl
 bvn.04u-u7c79d20f-c233-s1507301940-i95143f0d.d66.nl
 test.04u-u35f75d2a-c233-s1507461470-i95143f0d.d66.nl
-www.campelio.fr.04u-uaaba0021-c233-s1507480982-i95143f0d.d66.nl
 01-prerequisites-controller.d66.nl
 0048.d66.nl
 04u-u7087c01a-c233-s1507111093-i95143f0d.d66.nl
@@ -23959,7 +23909,6 @@ boards.007zhenrenbocai.d66.nl
 3.0120.d66.nl
 trial.007huangjiaduchangbaidu.d66.nl
 altro.007dazhanhuangjiaduchang720m.d66.nl
-0--c.d66.nl
 00-oppgaver.d66.nl
 03design.d66.nl
 0301.d66.nl
@@ -24045,7 +23994,6 @@ chef.0055.d66.nl
 01hostv3.d66.nl
 04-set-chrony-server.d66.nl
 3.0006.d66.nl
-04u-u39640132-c233-s1506951886-i95143f0dbarneveld.d66.nl
 007227n411p2g9-sch.d66.nl
 000005.i.04u-uececea42-c233-s1507064616-i95143f0d.d66.nl
 02cpt-vmh11.d66.nl
@@ -24059,8 +24007,6 @@ co.030.d66.nl
 0132-usb-gadget-adb-only-enable-the-gadget-when-adbd-is-r.d66.nl
 00000000000000000000info.d66.nl
 04-conferences.d66.nl
-04u-u00ce1b28-c233-s1507311673-i95143f0dcastricum.d66.nl
-www.annuaire-musique.04u-uef3c3159-c233-s1507044967-i95143f0d-eu.d66.nl
 0101.d66.nl
 demo.010-knz-501.d66.nl
 stage1.007zhenrenboyinpingtai.d66.nl
@@ -24193,8 +24139,7 @@ euw.0019.d66.nl
 00006.d66.nl
 000dsg2sb2we1stadskanaal.d66.nl
 gooisemeren.04u-u00ce1b28-c233-s1507311673-i95143f0d.d66.nl
-www.003e694e6f74dc3bf0e0almelo.d66.nl
-dq.007aomenduchang.d66.nl
+003e694e6f74dc3bf0e0almelo.d66.nl
 01-my-first-post.d66.nl
 org.007dazhanhuangjiaduchangbaidu.d66.nl
 0130-kdb-support-new-lines-without-carriage-returns.d66.nl
@@ -24210,7 +24155,6 @@ ss2.007huangjiaduchangyoukua.d66.nl
 01-found.d66.nl
 007zuqiupeilv.d66.nl
 4.0172.d66.nl
-www.hendrikidoambacht.d66.nl
 029-v3-client.d66.nl
 007.d66.nl
 01testsite01.d66.nl
@@ -24240,7 +24184,6 @@ hw.0067.d66.nl
 00readme.d66.nl
 02-political-contributions.d66.nl
 01-7-25-5.d66.nl
-www.noordbrabant.004zhejiang.d66.nl
 020-making-staticinteractive-voronoi-map-layers-in-ggplotleafle.d66.nl
 search.010system-com.d66.nl
 proxy.001ahotcookie.d66.nl
@@ -24310,7 +24253,7 @@ internal.007zhi21huangjiaduchang.d66.nl
 0-11435.d66.nl
 00111000-3.d66.nl
 020londoncoin.d66.nl
-www.003.d66.nl
+003.d66.nl
 fpsprod-ffff.ie.000dsinl50pl1.d66.nl
 topannu.fr.00000111.d66.nl
 0043.d66.nl
@@ -24321,7 +24264,7 @@ chef.02.d66.nl
 net.0118.d66.nl
 003e694e6f74dc3bf0e0l1.d66.nl
 01basiccss.d66.nl
-www.03.d66.nl
+03.d66.nl
 15.004460.d66.nl
 007zhenrenduboguojizhenrendubo.d66.nl
 0290.d66.nl
@@ -24336,7 +24279,6 @@ docker.0292.d66.nl
 00000000000000000000-wp.d66.nl
 00000000000000000000-6358.d66.nl
 0405963f-8ccd-4.d66.nl
-www.almelo.000dtk5l50pl2.d66.nl
 030-rok-804.d66.nl
 000ddb3sb2pl4ex.d66.nl
 04u-u85fb4eee-c233-s1507159862-i95143f0d.d66.nl
@@ -24399,12 +24341,11 @@ dev.0009.d66.nl
 page.001.d66.nl
 0-128.d66.nl
 nov.00sweetheart.d66.nl
-03.d66.nl
 004xuan5kaijianghaoma-u.d66.nl
 0075-lighting-part-4-transformations.d66.nl
 0001-include-winsock2-before-windows.d66.nl
 00anemona00.d66.nl
-www.001-blob-coevorden.d66.nl
+001-blob-coevorden.d66.nl
 0040.d66.nl
 webmaster.topannu.007dazhanhuangjiaduchangbaidu-fr.d66.nl
 034784406.d66.nl
@@ -24414,7 +24355,7 @@ tur.039.d66.nl
 0142-cpufreq-interactive-governor-event-tracing.d66.nl
 001-blob.d66.nl
 032-6.d66.nl
-www.00000111.d66.nl
+00000111.d66.nl
 july.0055.d66.nl
 s3.000hotdoll000.d66.nl
 0000mgbrummen.d66.nl
@@ -24455,7 +24396,6 @@ scm.tesis-carpool.04u-u2281018a-c233-s1507135290-i95143f0dp.d66.nl
 00021.d66.nl
 0175-pm-suspend-print-wall-time-at-suspend-entry-and-exit.d66.nl
 00zj8iewb4-2.d66.nl
-forum.00111000fi.d66.nl
 00002253.d66.nl
 tpe.0107youxizhongxin.d66.nl
 000dcy1sb2we2-x.d66.nl
@@ -24489,7 +24429,7 @@ deluge.d.000dco2l50we1.d66.nl
 salesforce-communities.las.cdn.000dco1sb2we3-t.d66.nl
 01470.d66.nl
 04u-uececea42-c233-s1507064616-i95143f0d-19.d66.nl
-www.04u-ua97dc836-c233-s1507334975-i95143f0ddq.d66.nl
+04u-ua97dc836-c233-s1507334975-i95143f0ddq.d66.nl
 007227n411p2g9a.d66.nl
 frontpage.008.d66.nl
 04u-u3a25b0fa-c233-s1507027435-i95143f0d.d66.nl
@@ -24561,7 +24501,6 @@ internal.0006caishenylcmwwwcs088.d66.nl
 0-address-oktapsstuffs-customer-account-product.d66.nl
 018.d66.nl
 002-windows.d66.nl
-02274fb80bf9e42.d66.nl
 0059.d66.nl
 docker.007zhenrenxinyuhaoma.d66.nl
 0-k8s-prod.d66.nl
@@ -24685,7 +24624,7 @@ garena.co.04u-uef3c3159-c233-s1507044967-i95143f0d-id.d66.nl
 s.044.d66.nl
 0348.d66.nl
 0005-vsc8601-and-clockskewfix.d66.nl
-www.amazon.005-shs-767de.d66.nl
+amazon.005-shs-767de.d66.nl
 00000-okta-idpv2.d66.nl
 000035.d66.nl
 00315-okta-pop3-test.d66.nl
@@ -24727,7 +24666,6 @@ lax.0027.d66.nl
 rn.000exchange2010.d66.nl
 00775337016b9183.d66.nl
 0341.d66.nl
-amazon.005-shs-767de.d66.nl
 00-html-puro.d66.nl
 04u-uef3c3159-c233-s1507044967-i95143f0d.am.04u-u7c79d20f-c233-s1507301940-i95143f0d.d66.nl
 s25.004xuan5kaijianghaoma.d66.nl
@@ -24735,7 +24673,6 @@ s25.004xuan5kaijianghaoma.d66.nl
 watvindjij.04u-u3c948956-c233-s1507607399-i95143f0d.d66.nl
 04u-u48488539-c233-s1507551392-i95143f0d-cv6.d66.nl
 001navelysroot.d66.nl
-04u-ua97dc836-c233-s1507334975-i95143f0ddq.d66.nl
 02-shapefunctions.d66.nl
 ci.00775337070318383.d66.nl
 00candygirl.d66.nl
@@ -24793,7 +24730,6 @@ test1.0-73.d66.nl
 01101110.01110101.apollo.01101100.d66.nl
 lax1.004xuan5zuorikaijiang.d66.nl
 02dom.d66.nl
-010.d66.nl
 03-view-models.d66.nl
 02v0-okta-stagingtomcat-github.d66.nl
 test.000sexymonique-noordbrabant.d66.nl
@@ -24801,7 +24737,6 @@ las.000000.d66.nl
 brazil.0000aaaa.d66.nl
 s1507745201.04.d66.nl
 t.004zhejiang.d66.nl
-00000111.d66.nl
 04651.d66.nl
 003b-exsrv16.d66.nl
 02-pack-it.d66.nl
@@ -24833,7 +24768,6 @@ am.000dcy1sb2pl3.d66.nl
 0318.d66.nl
 elasticbeanstalk.00021.d66.nl
 000150.d66.nl
-0-kenmin.d66.nl
 00-movies.d66.nl
 031mappingwithoftexture.d66.nl
 008q96hckwws.d66.nl
@@ -24845,7 +24779,6 @@ blog.04u-ub3620a6e-c233-s1507600447-i95143f0d-tilburg.d66.nl
 s1332.04u-uf86676db-c233-s1507214523-i95143f0d-t.d66.nl
 0035.d66.nl
 redirector.0001122com.d66.nl
-www.comptables-paris.007078fr.d66.nl
 010010.d66.nl
 00000111-cup.d66.nl
 blog.000dco1sb2we1tilburg.d66.nl
@@ -24874,7 +24807,6 @@ poc.000dcy1sb2we2.d66.nl
 prod.001-img.d66.nl
 0428-ion-move-into-staging.d66.nl
 0006caishenylcmwwwcs088am.d66.nl
-003e694e6f74dc3bf0e0almelo.d66.nl
 0050j000009dw9tqas.d66.nl
 06u-ufaf9e5c6-c233-s1507853823-i95143f0d.pantheon.04u-u39640132-c233-s1506951886-i95143f0d-am.d66.nl
 00000000-nuenen.d66.nl
@@ -24885,7 +24817,6 @@ team.0001122com.d66.nl
 027-w51-burton-conner-house.d66.nl
 653.04u-ub5e342f7-c233-s1507724441-i95143f0d.d66.nl
 0064.d66.nl
-000exchange2010best.d66.nl
 03tk.d66.nl
 007227n4198g951.d66.nl
 04conditionals.d66.nl
@@ -24905,7 +24836,7 @@ cms1.007dazhanhuangjiaduchanghouxu.d66.nl
 03-18-2014.d66.nl
 0179-9.d66.nl
 korea.0189.d66.nl
-www.campelio.007078-comfr.d66.nl
+campelio.007078-comfr.d66.nl
 0-212.d66.nl
 01-arrays.d66.nl
 001-img.d66.nl
@@ -24918,18 +24849,15 @@ www.campelio.007078-comfr.d66.nl
 01composer.d66.nl
 005050.d66.nl
 015-pointer-copy.d66.nl
-003.d66.nl
 04u-ue8138b7d-c233-s1507272744-i95143f0d-7151.d66.nl
 office.039.d66.nl
 01-switchtab.d66.nl
 04-dataset.d66.nl
 001-smtp-out.d66.nl
 9.00000000.d66.nl
-www.008estates.d66.nl
 0001-glassfish-jsp-compatibility.d66.nl
 acc.0123.d66.nl
 0kl.0000sa.d66.nl
-www.000dcy1sb2pl3-barneveld.d66.nl
 singed.0-38.d66.nl
 0394.d66.nl
 02ne.d66.nl
@@ -25084,7 +25012,6 @@ testing.000555.d66.nl
 04-02.d66.nl
 0-122.d66.nl
 ph.04u-ufd06a69f-c233-s1507044967-i95143f0dm.d66.nl
-www.04u-u365d5505-c233-s1507348043-i95143f0d.d66.nl
 013sk.d66.nl
 0422.d66.nl
 04embeddedlinuxdevelopment.d66.nl
@@ -25356,7 +25283,6 @@ developer.0201.d66.nl
 las.cdn.04u-u07727a4e-c233-s1507772040-i95143f0dt.d66.nl
 04u-ucdee7f50-c233-s1507835167-i95143f0dnas.d66.nl
 000naughtygirleu.d66.nl
-00781535842b376556coevorden.d66.nl
 04u-ub88fbc89-c233-s1507466561-i95143f0d-hilversum.d66.nl
 europewest.00011.d66.nl
 cm.00000000000000000000.d66.nl
@@ -25547,7 +25473,6 @@ muku.at.00000001-ex.d66.nl
 02embeddedlinuxinstallationnotes.d66.nl
 0218.d66.nl
 001-media-mask.d66.nl
-www.0.d66.nl
 002.d66.nl
 032clims3.d66.nl
 machine.0014.d66.nl
@@ -25602,7 +25527,6 @@ hwcdn.007227n4198g951.d66.nl
 6.0-151.d66.nl
 0467-ion-free-low-memory-from-page-pools-first.d66.nl
 000-n45-00315-okta-pop3.d66.nl
-www.000dsg2sb2pl4-breda.d66.nl
 023-non-abundant-numbers.d66.nl
 00googymax4.d66.nl
 z.0076.d66.nl
@@ -25627,12 +25551,10 @@ latinamerica.0034.d66.nl
 0203.d66.nl
 003e694e6f74dc3bf0e0-3559.d66.nl
 007kaihu.d66.nl
-01-sh-r05u09-co01.d66.nl
 005a.d66.nl
 0343.d66.nl
 a.0009.d66.nl
 00basicos.d66.nl
-campelio.007078-comfr.d66.nl
 000-n34.d66.nl
 01-stackview.d66.nl
 04-content.d66.nl
@@ -25648,7 +25570,6 @@ feb.0-188.d66.nl
 0-10.d66.nl
 04834.d66.nl
 007dazhanhuangjiaduchang720-15.d66.nl
-001-blob-coevorden.d66.nl
 fw.0088huangguanwang.d66.nl
 01-naked.d66.nl
 03-jobs-cahideip.d66.nl
@@ -25672,7 +25593,6 @@ s1332.04u-u359db133-c233-s1507524107-i95143f0dt.d66.nl
 01-crea-charlzon.d66.nl
 0163.d66.nl
 04-makeicons.d66.nl
-001.d66.nl
 01-mail.d66.nl
 99.04u-u2281018a-c233-s1507135290-i95143f0d.d66.nl
 007huangjiaduchangyuanshenggaoqing-v3lc84ni0d.d66.nl
@@ -25784,7 +25704,6 @@ training.00775337070318383.d66.nl
 0004a30b0019d0ea.d66.nl
 0250587150-com.d66.nl
 0323rd.d66.nl
-www.04u-uab7373a1-c233-s1507557359-i95143f0doegstgeest.d66.nl
 02-sub-projects.d66.nl
 000dtk5l50we4.redmond.corp.7.000dco1sb2we3.d66.nl
 04u-uaaba0021-c233-s1507480982-i95143f0d-krd.d66.nl
@@ -25815,7 +25734,6 @@ pass.0049.d66.nl
 001zuqiubifenbishimehqc.d66.nl
 pb.garena.co.04u-uef3c3159-c233-s1507044967-i95143f0d-id.d66.nl
 02p.d66.nl
-www.0333.d66.nl
 0282.d66.nl
 01mississauganorth9u10ucampbell.d66.nl
 www2.007dazhanhuangjiaduchang720m.d66.nl
@@ -25860,7 +25778,6 @@ firewall.00011.d66.nl
 036f3z1a6tpnoo8v.d66.nl
 0126.d66.nl
 020117.d66.nl
-www.best.04u-ucdee7f50-c233-s1507835167-i95143f0d.d66.nl
 000-612.d66.nl
 profiles.02kk.d66.nl
 023-merge-k-sorted-lists.d66.nl
@@ -25885,9 +25802,7 @@ webshop.04u-ufd06a69f-c233-s1507044967-i95143f0d.d66.nl
 00dk6c3n8jwb.d66.nl
 box.0003.d66.nl
 03-extend.d66.nl
-02.d66.nl
 01-mystify.d66.nl
-www.comptables-paris.005-kps-225fr.d66.nl
 00000000kc.d66.nl
 00c745584a98889a4362e1c93c19c962.d66.nl
 066www.d66.nl

@@ -14,7 +14,7 @@ ethoca-dev.odesk.com
 fivetran-sync.staging.agora.odesk.com
 gw-savvis2.odesk.com
 s-team.odesk.com
-www.origin.odesk.com
+origin.odesk.com
 staging.agora.odesk.com
 dfmrt.odesk.com
 email.odesk.com
@@ -24,7 +24,6 @@ ott.psdev.odesk.com
 s-app.odesk.com
 team.odesk.com
 updates.team.odesk.com
-www.odesk.com
 corp.odesk.com
 jira-dc-dev.odesk.com
 research.odesk.com
@@ -49,7 +48,7 @@ vega.odesk.com
 aux.odesk.com
 beta6.odesk.com
 dash.odesk.com
-www.try.odesk.com
+try.odesk.com
 kb.odesk.com
 lbtest.odesk.com
 mail1.static.odesk.com
@@ -79,7 +78,6 @@ beta4.odesk.com
 developers.odesk.com
 jira-ext.odesk.com
 gw-savvis1.odesk.com
-try.odesk.com
 v.odesk.com
 vpn01.odesk.com
 testing.odesk.com
@@ -90,7 +88,6 @@ omp.e.odesk.com
 omptrans.e.odesk.com
 project.odesk.com
 verify.odesk.com
-www.vpn01.odesk.com
 beta3.odesk.com
 education.odesk.com
 feedback.odesk.com

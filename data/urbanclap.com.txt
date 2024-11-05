@@ -1,4 +1,3 @@
-*.urbanclap.com
 airflow.urbanclap.com
 ameyo.urbanclap.com
 amp.urbanclap.com
@@ -62,7 +61,6 @@ static.urbanclap.com
 stg.urbanclap.com
 stg-sd.urbanclap.com
 testblog.urbanclap.com
-www.urbanclap.com
 apm.urbanclap.com
 dev-client.urbanclap.com
 dev-ops.urbanclap.com

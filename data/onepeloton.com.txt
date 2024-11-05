@@ -148,7 +148,7 @@ tmysl.stage.k8s.onepeloton.com
 ts-eliot.stage.k8s.onepeloton.com
 fleet-poc.corp.onepeloton.com
 dm-commercial.stage.k8s.onepeloton.com
-www.labview-build-server.onepeloton.com
+labview-build-server.onepeloton.com
 booking.onepeloton.com
 hospitality.onepeloton.com
 payment-payments-platform.prod.k8s.onepeloton.com
@@ -313,7 +313,6 @@ desp.prod.k8s.onepeloton.com
 gql-jenniferbarry.dev.k8s.onepeloton.com
 corelations.stage.k8s.onepeloton.com
 api-qa-light-members.onepeloton.com
-www.onepeloton.com
 gql-susangalbraith.dev.k8s.onepeloton.com
 grpc-public-clb-demo-rbourne-suite.test-us-west-2.k8s.onepeloton.com
 auth-orca-nginx.stage.k8s.onepeloton.com
@@ -362,9 +361,7 @@ braze-cc-poc.stage.k8s.onepeloton.com
 logistics.prod.k8s.onepeloton.com
 martech-backend-serv.dev.k8s.onepeloton.com
 verify.onepeloton.com
-*.verify.onepeloton.com
 welcome.onepeloton.com
-labview-build-server.onepeloton.com
 pelotonevents.onepeloton.com
 kong.stage.k8s.onepeloton.com
 status.onepeloton.com
@@ -375,7 +372,7 @@ graphql-router-engage-kong.stage.k8s.onepeloton.com
 graphql-router-engage.stage.k8s.onepeloton.com
 k8s2.onepeloton.com
 qa1.onepeloton.com
-www.prod-test.onepeloton.com
+prod-test.onepeloton.com
 prospects.prod-test.onepeloton.com
 dev.streaming.onepeloton.com
 pledge-uat-2021.onepeloton.com
@@ -413,4 +410,3 @@ classes-graphql-dgs.dev.k8s.onepeloton.com
 personal-records.stage.k8s.onepeloton.com
 universal-auth.onepeloton.com
 link.s.onepeloton.com
-*.onepeloton.com

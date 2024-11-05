@@ -10,7 +10,6 @@ ssov1.8x8staging.com
 platform-direct-beta.8x8staging.com
 chalet.8x8staging.com
 ns2.8x8staging.com
-www.8x8staging.com
 www-rzc55b.8x8staging.com
 admin-vnext.8x8staging.com
 cloudflare-test.8x8staging.com
@@ -71,7 +70,7 @@ stcngingcnpp06.8x8staging.com
 stagingappv15.8x8staging.com
 stsvngingsvnpp12.8x8staging.com
 fileslatform-int.8x8staging.com
-www.traffic.8x8staging.com
+traffic.8x8staging.com
 bert.physics.8x8staging.com
 psoc.8x8staging.com
 rlw4.8x8staging.com
@@ -82,10 +81,6 @@ dev1.8x8staging.com
 net-stagingapp17.8x8staging.com
 uslax.8x8staging.com
 superx.8x8staging.com
-*.8x8staging.com
-*.global-staging.chalet.8x8staging.com
-*.staging.chalet.8x8staging.com
-*.chalet.8x8staging.com
 platform-direct.8x8staging.com
 smp-int.8x8staging.com
 mobileidentity.8x8staging.com

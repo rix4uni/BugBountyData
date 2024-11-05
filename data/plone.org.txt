@@ -1,5 +1,4 @@
 community.plone.org
-*.plone.org
 dev.plone.org
 dist.plone.org
 demo.plone.org
@@ -20,7 +19,6 @@ social.plone.org
 stats.plone.org
 6.demo.plone.org
 archive.plone.org
-www.plone.org
 status.plone.org
 forum.plone.org
 dist2.plone.org

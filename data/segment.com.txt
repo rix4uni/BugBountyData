@@ -36,7 +36,6 @@ trebnginx.segment.com
 71020.segment.com
 puzzles.segment.com
 inbound.segment.com
-www.segment.com
 armada-proxy.dataeng.segment.com
 help.segment.com
 foxdcg-v5dvg7zihe.xid.segment.com
@@ -166,9 +165,8 @@ quasar.segment.com
 comparator.segment.com
 circle-build.segment.com
 exhibitor-ingest.segment.com
-www.cdn.segment.com
+cdn.segment.com
 pprof.segment.com
-www.cdn-settings.segment.com
 set.segment.com
 goodnews.segment.com
 cob.segment.com
@@ -199,7 +197,6 @@ design.segment.com
 destinations-qa-long.segment.com
 customer-dashboard.segment.com
 profiles.euw1.segment.com
-www.demo.segment.com
 spec.segment.com
 connect.segment.com
 conf.segment.com
@@ -214,7 +211,6 @@ mail.segment.com
 biz.segment.com
 directory.segment.com
 ajs-testing.segment.com
-www.learn.segment.com
 v1.ebth.sql.segment.com
 profiles-api.segment.com
 webhook-e2e.segment.com
@@ -231,11 +227,8 @@ circleci-debouncer.segment.com
 webhook.segment.com
 control-plane-service.flex-unify.segment.com
 beta.segment.com
-www.stage.segment.com
 sourcegraph.segment.com
-www.ldap.corp.segment.com
 26292546.engage.segment.com
-cdn.segment.com
 login.segment.com
 xoom-sd4qcc.redshift.segment.com
 messaging-cdn-app.segment.com
@@ -262,17 +255,14 @@ flagon-external.segment.com
 slack.segment.com
 debug-api.segment.com
 grafana.tooling.us-west-2.segment.com
-www.dev.segment.com
 pm-bounces.security.segment.com
 billing-orders.segment.com
 url4961.segment.com
-www.leaderboard.segment.com
 vpn.segment.com
 assets-api-eu-west-1.engage-services-eu.segment.com
 s124.segment.com
 auth.segment.com
 url4288.engage.segment.com
-www.ldap.segment.com
 registry.segment.com
 track.segment.com
 argus.segment.com
@@ -299,7 +289,6 @@ enterpriseenrollment.segment.com
 grafana-monitoring.segment.com
 preferences.segment.com
 retool.segment.com
-www.preview.segment.com
 bastion.segment.com
 replay-check.segment.com
 blackhole-webhook.segment.com
@@ -316,5 +305,4 @@ dn.segment.com
 segment-adscdn.segment.com
 adscdn.segment.com
 settings.segment.com
-www.partners.segment.com
 unified-access.segment.com

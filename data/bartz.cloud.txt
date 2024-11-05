@@ -29,7 +29,6 @@ barracuda.bartz.cloud
 mail3.bartz.cloud
 power.home.bartz.cloud
 spam.bartz.cloud
-www.bartz.cloud
 foo.home.bartz.cloud
 s3.home.bartz.cloud
 ns2.bartz.cloud
@@ -62,4 +61,3 @@ events.home.bartz.cloud
 mail01.bartz.cloud
 smtpseguro.bartz.cloud
 pop.bartz.cloud
-*.bartz.cloud

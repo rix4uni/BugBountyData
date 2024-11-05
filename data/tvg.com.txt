@@ -98,7 +98,6 @@ qa.tvg.com
 host50.tvg.com
 host85.tvg.com
 host86.tvg.com
-www.community.tvg.com
 4njbets-production.gcp-prod.tvg.com
 login-pabets.tvg.com
 ia.tvg.com
@@ -146,7 +145,6 @@ host61.tvg.com
 maila.tvg.com
 service-racing-production.gcp-prod.tvg.com
 host92.tvg.com
-www.tvg.com
 prod.semafone.tvg.com
 gl-sec.tvg.com
 host132.tvg.com
@@ -276,7 +274,6 @@ host151.tvg.com
 host190.tvg.com
 host214.tvg.com
 host73.tvg.com
-www.promotions.tvg.com
 com.tvg.com
 static1.tvg.com
 tipping.tvg.com
@@ -387,13 +384,12 @@ service-staging.tvg.com
 conference.tvg.com
 touch.qa.tvg.com
 mozillawww.tvg.com
-www.pa.tvg.com
 www-prod.tvg.com
 blog.tvg.com
 nodejs.stage.tvg.com
 start.tvg.com
 w2ww.tvg.com
-www.i.tvg.com
+i.tvg.com
 microsoft.tvg.com
 nodejs1.qa.tvg.com
 redshifttest.tvg.com

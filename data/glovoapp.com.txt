@@ -54,8 +54,6 @@ mvn.glovoapp.com
 debugapi.glovoapp.com
 protected-api.glovoapp.com
 legacy.glovoapp.com
-www.panorama.stage.glovoapp.com
-www.teamglovoexpress.glovoapp.com
 about.new.glovoapp.com
 document-validation.couriers.glovoapp.com
 whoami.fraud-adhoc01.glovoapp.com
@@ -74,13 +72,12 @@ tech.glovoapp.com
 cp.glovoapp.com
 track.glovoapp.com
 jobs.new.glovoapp.com
-www.syslog.stage.glovoapp.com
+syslog.stage.glovoapp.com
 opspublic.glovoapp.com
 monitor.glovoapp.com
 tmp.glovoapp.com
 delivered.glovoapp.com
 test.link.glovoapp.com
-www.evolve.glovoapp.com
 partners-help.glovoapp.com
 beta.glovoapp.com
 apm.glovoapp.com
@@ -116,10 +113,8 @@ internal.glovoapp.com
 artifactory-test.internal.glovoapp.com
 news.glovoapp.com
 brothers.glovoapp.com
-www.glovoapp.com
 qcommerce-integrations.glovoapp.com
 glovopedia.glovoapp.com
-syslog.stage.glovoapp.com
 payout.glovoapp.com
 cards-stage.glovoapp.com
 click.partner.glovoapp.com

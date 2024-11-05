@@ -5,7 +5,6 @@ nec017226.vpas.vt.edu
 crcairport240233.vpas.vt.edu
 stage-cms-prod.vpas.vt.edu
 nec017234.vpas.vt.edu
-www.vpas.vt.edu
 thorp.vpas.vt.edu
 lightning.vpas.vt.edu
 requestdev.vpas.vt.edu
@@ -15,11 +14,10 @@ it.vpas.vt.edu
 rescue.vpas.vt.edu
 martin.vpas.vt.edu
 agusta.vpas.vt.edu
-www.it.vpas.vt.edu
 admserv.vpas.vt.edu
 reservevehicle.vpas.vt.edu
 intranet.vpas.vt.edu
-www.apps.vpas.vt.edu
+apps.vpas.vt.edu
 requesttest.vpas.vt.edu
 emailer.vpas.vt.edu
 shuttlepassdev.vpas.vt.edu
@@ -73,7 +71,7 @@ db.doit.vpas.vt.edu
 sentry.vpas.vt.edu
 hsiq.vpas.vt.edu
 records.vpas.vt.edu
-www.fleetrservices.vpas.vt.edu
+fleetrservices.vpas.vt.edu
 dremailer.vpas.vt.edu
 insight.vpas.vt.edu
 constimpacts.vpas.vt.edu

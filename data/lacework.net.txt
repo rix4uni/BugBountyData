@@ -7646,7 +7646,6 @@ dwork.auprodn1.lacework.net
 dws2.auprodn1.lacework.net
 dwsgw.auprodn1.lacework.net
 dwslc-panma.auprodn1.lacework.net
-dww.auprodn1.lacework.net
 dwz.auprodn1.lacework.net
 dx9rbivhduprfpjm.auprodn1.lacework.net
 dxctadmini071yjo.auprodn1.lacework.net
@@ -10189,7 +10188,6 @@ fwaw7-1.auprodn1.lacework.net
 fwcloak.auprodn1.lacework.net
 fwdws-dta.auprodn1.lacework.net
 fwe.auprodn1.lacework.net
-fww.auprodn1.lacework.net
 fwwww5-3.www1.lacework.net
 fxe-1-2-1.auprodn1.lacework.net
 fxplus-trading-academy.public.lacework.net
@@ -30000,10 +29998,6 @@ www-thefurnituregallery-co-uk.auprodn1.lacework.net
 www-trial.auprodn1.lacework.net
 www-uat.auprodn1.lacework.net
 www-www.auprodn1.lacework.net
-www.fra.lacework.net
-www.lacework.net
-www.vpn-devtest.corp.lacework.net
-www.vpn-prod.corp.lacework.net
 www0-3global.auprodn1.lacework.net
 www0-4-hkg.auprodn1.lacework.net
 www0-9-0-www-37-5.www1.lacework.net
@@ -31450,7 +31444,6 @@ zzz.fra.lacework.net
 9scqw02.fra.lacework.net
 9spokes.auprodn1.lacework.net
 9to5mac.auprodn1.lacework.net
-9ww.auprodn1.lacework.net
 9y.auprodn1.lacework.net
 10-5-10-5.auprodn1.lacework.net
 10-6-0.auprodn1.lacework.net
@@ -35071,15 +35064,3 @@ _value.lacework.net
 dev6-eks.corp2.lacework.net
 spork2.corp5.lacework.net
 qa1006.corp3.lacework.net
-*.poc.lacework.net
-*.dev7.corp.lacework.net
-*.lacework.net
-*.kubeaprodus2.lacework.net
-*.dev.lacework.net
-*.autopush3.corp.lacework.net
-*.corp.lacework.net
-*.dev3.corp.lacework.net
-*.preprod.corp.lacework.net
-*.qa7.corp.lacework.net
-*.prodperf1.prodperf1.corp.lacework.net
-*.staging.corp.lacework.net

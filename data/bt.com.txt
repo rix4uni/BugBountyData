@@ -240,7 +240,6 @@ c-ecs-adc6f7e.platform.dev.digital-ent-int.bt.com
 css-oac-int-test-95aec1bb-8a.platform.dev.digital-ent-int.bt.com
 digitalvoice-products.omnivoice.dev.digital-ent-int.bt.com
 dev.cloudservices.bt.com
-www.dev.cloudservices.bt.com
 css-oac-int-test-aed297be-ee.platform.dev.digital-ent-int.bt.com
 author-prod-ams.digital-ent-int.bt.com
 business-bt-com-prod-ams.digital-ent-int.bt.com
@@ -325,7 +324,6 @@ prod-atom-e2estatic06394869.platform.prod.digital-ent-int.bt.com
 prod-atom-e2estatic06394869c28.platform.prod.digital-ent-int.bt.com
 feat-test-atom-e2estatic0639.platform.dev.digital-ent-int.bt.com
 feat-test-atom-e2estatic06394869c28.platform.dev.digital-ent-int.bt.com
-www.bt.com
 api-search.bt.com
 api-search.sport.bt.com
 assets.bt.com
@@ -339,14 +337,10 @@ search.bt.com
 sm.sport.bt.com
 sport.bt.com
 tv.bt.com
-www.btcom.ll-digital-prod1.bt.com
-www.btcom.ll-digital-prod2.bt.com
-www.home.bt.com
-www.info.bt.com
-www.products.bt.com
-www.productsandservices.bt.com
-www.sport.bt.com
-www.thephonebook.bt.com
+btcom.ll-digital-prod1.bt.com
+btcom.ll-digital-prod2.bt.com
+info.bt.com
+thephonebook.bt.com
 dev-atom-e2estatic08250488d3.platform.dev.digital-ent-int.bt.com
 dev-atom-e2estatic08250488d33.platform.dev.digital-ent-int.bt.com
 prod-atom-e2estatic08250488.platform.prod.digital-ent-int.bt.com
@@ -419,8 +413,8 @@ dns-int-test-dac-vd.testteamdac.dev.digital-ent-int.bt.com
 css-oac-int-test-3310e4de-16.platform.dev.digital-ent-int.bt.com
 css-oai-int-test-574cdfcf-0c.platform.dev.digital-ent-int.bt.com
 css-oac-int-test-2863114d-79.platform.dev.digital-ent-int.bt.com
-www.supplier.dev1.9459360a754efbe.euwe2.prd-plat.aws.bt.com
-www.int.supplier.dev1.9459360a754efbe.euwe2.prd-plat.aws.bt.com
+supplier.dev1.9459360a754efbe.euwe2.prd-plat.aws.bt.com
+int.supplier.dev1.9459360a754efbe.euwe2.prd-plat.aws.bt.com
 dev-atom-e2estatic040839718b.platform.dev.digital-ent-int.bt.com
 dev-atom-e2estatic040839718b3.platform.dev.digital-ent-int.bt.com
 e2escd-1101-673.dev.digital-ent-int.bt.com

@@ -22,7 +22,6 @@ default.cms4.nux.cz
 monit.cms4.nux.cz
 mysql.cms4.nux.cz
 stats.cms4.nux.cz
-www.cms4.nux.cz
 blade4.opnd.nux.cz
 web1.nux.cz
 adminer.web1.nux.cz
@@ -115,10 +114,9 @@ adminer.mail1.nux.cz
 stats.share.nux.cz
 c.kcp.nux.cz
 monit.ns1.nux.cz
-www.nux.cz
 stats.mail2.nux.cz
 adminer.ns3.nux.cz
-www.preview2.nux.cz
+preview2.nux.cz
 mysql.cms7.nux.cz
 mysql.backup.kcp.nux.cz
 ip.nux.cz
@@ -126,7 +124,7 @@ autodiscover.nux.cz
 monit.cms1.nux.cz
 hydroclean.preview.nux.cz
 adminer.mail2.nux.cz
-www.cms7.nux.cz
+cms7.nux.cz
 sms.nux.cz
 mysql.public.nux.cz
 sales.nux.cz
@@ -177,7 +175,7 @@ reference.nux.cz
 ldap.auth.nux.cz
 default.public.nux.cz
 adminer.cms3.nux.cz
-www.mx4.nux.cz
+mx4.nux.cz
 sirius.preview.nux.cz
 mysql.cms6.nux.cz
 dock1.nux.cz
@@ -227,7 +225,7 @@ cms6.nux.cz
 uandersena.delta.nux.cz
 ldap.nux.cz
 default.devel.nux.cz
-www.sentry.nux.cz
+sentry.nux.cz
 backup.kcp.nux.cz
 cinoherakintra.preview.nux.cz
 adminer.git.nux.cz
@@ -380,7 +378,6 @@ default.monitoring.nux.cz
 llm.nux.cz
 default.groupoffice.nux.cz
 default.deploy.nux.cz
-sentry.nux.cz
 ldap.stats.nux.cz
 mysql.cms1.nux.cz
 monit.monitoring.nux.cz

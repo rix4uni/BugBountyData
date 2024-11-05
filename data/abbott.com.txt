@@ -670,7 +670,7 @@ image.nl.nutrition.abbott.com
 image.hkanihcp.abbott.com
 prod.aa.abbott.com
 uat.pmis.abbott.com
-www.pmis.abbott.com
+pmis.abbott.com
 dam.abbott.com
 link-q.abbott.com
 link-d.abbott.com
@@ -698,7 +698,6 @@ espp.abbott.com
 addvcp.web.abbott.com
 cloud.medicineegypt.abbott.com
 staging.global-reference.abbott.com
-www.espp.abbott.com
 delivery.info.abbott.com
 prod-www-abbott-com.aws-aem1.abbott.com
 bpms-test.abbott.com
@@ -717,22 +716,14 @@ view.neuroemail.abbott.com
 dev.mynavica.abbott.com
 image.medicineturkey.abbott.com
 mynavica.abbott.com
-www.datapoint.abbott.com
 consumer.int.colibri.abbott.com
-www.orvi-active-kz.abbott.com
-www.duspatalin-kz.abbott.com
-www.creon-kz.abbott.com
-www.epdsites.abbott.com
-www.womenfirst-kz.abbott.com
-www.duphalac-kz.abbott.com
 filetransfer.abbott.com
 disphde1mt.apocservices.abbott.com
 disphde1ct.apocservices.abbott.com
 disphde1az.apocservices.abbott.com
 cloud.sghcp.abbott.com
 view.sghcp.abbott.com
-www.abbott.com
-www.domestichotspot.abbott.com
+domestichotspot.abbott.com
 ardx-dm-test.abbott.com
 eplink.abbott.com
 electrophysiology.abbott.com
@@ -742,7 +733,6 @@ image.neuroemail.abbott.com
 image.sghcp.abbott.com
 emails.jobalerts.abbott.com
 ardx-dm-development.abbott.com
-www.myhumanistpreprod.abbott.com
 aasjira.abbott.com
 qa.aem.abbott.com
 qa.domestichotspot.abbott.com
@@ -757,4 +747,3 @@ click.medicineturkey.abbott.com
 auditlog.test.logix.abbott.com
 auth-eu.abbott.com
 apdc-project.abbott.com
-www.apdc-project.abbott.com

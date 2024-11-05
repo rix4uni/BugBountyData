@@ -123,8 +123,6 @@ matomo.mpdl.mpg.de
 qa-leadnet-mpg.mpdl.mpg.de
 dataverse.mpdl.mpg.de
 qa.inge.mpdl.mpg.de
-www.soli.mpdl.mpg.de
-www.qa-soli.mpdl.mpg.de
 soli.mpdl.mpg.de
 qa-soli.mpdl.mpg.de
 groupleaders.mpdl.mpg.de
@@ -173,9 +171,8 @@ onlyoffice01-dev-keeper.mpdl.mpg.de
 vm26.mpdl.mpg.de
 labfolder.mpdl.mpg.de
 vm105.mpdl.mpg.de
-www.max-wissen.mpdl.mpg.de
-msrv-ads02.int.mpdl.mpg.de
 max-wissen.mpdl.mpg.de
+msrv-ads02.int.mpdl.mpg.de
 vm49.mpdl.mpg.de
 qa.fdm.mpdl.mpg.de
 vm75.mpdl.mpg.de
@@ -218,7 +215,6 @@ ftp.mpdl.mpg.de
 vm06.mpdl.mpg.de
 vm66.mpdl.mpg.de
 vm48.mpdl.mpg.de
-www.mpdl.mpg.de
 pubman.mpdl.mpg.de
 pubman-days.mpdl.mpg.de
 zfn.mpdl.mpg.de

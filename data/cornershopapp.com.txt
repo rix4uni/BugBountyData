@@ -53,7 +53,6 @@ s.cornershopapp.com
 mailing.cornershopapp.com
 compass.cornershopapp.com
 som.cornershopapp.com
-www.cornershopapp.com
 cr-faq-growth.cornershopapp.com
 bananarama.cornershopapp.com
 catalog-uber.cornershopapp.com
@@ -91,9 +90,6 @@ shoppers-manager.cornershopapp.com
 catalog-uber-merchants-api.cornershopapp.com
 grafana.cornershopapp.com
 catalog-uber-metadata-api.cornershopapp.com
-*.cornershopapp.com
-*.catalog-uber.cornershopapp.com
-*.domino.cornershopapp.com
 shopper-materials-public.cornershopapp.com
 nora.luis.cornershopapp.com
 staging.cornershopapp.com
@@ -1960,7 +1956,7 @@ admcatalog.accounting-gateway.013135.whitelabel.cornershopapp.com
 012.whitelabel.cornershopapp.com
 0006-modify-default-prefs-accounting.whitelabel.cornershopapp.com
 02-basic-sacueductoategy.whitelabel.cornershopapp.com
-www.flpenthouse.000web.whitelabel.cornershopapp.com
+flpenthouse.000web.whitelabel.cornershopapp.com
 000-7805bptgyaxwojhnngblisshkh3hv3n5zhy.whitelabel.cornershopapp.com
 buenaonda2014-15-18-project-6.02stronglycorrelatedactive.whitelabel.cornershopapp.com
 cb204d6321ce.000-r14.whitelabel.cornershopapp.com
@@ -3613,7 +3609,7 @@ about-acrsi.000-780.whitelabel.cornershopapp.com
 designer.000-r14.whitelabel.cornershopapp.com
 abdul.0024-swap.whitelabel.cornershopapp.com
 ackermannmodel.00-variables.whitelabel.cornershopapp.com
-www.0098341.whitelabel.cornershopapp.com
+0098341.whitelabel.cornershopapp.com
 8sne5ac3goqo5yfo.000-190.whitelabel.cornershopapp.com
 000-780ackclient.whitelabel.cornershopapp.com
 00-variables-18180762.whitelabel.cornershopapp.com
@@ -4194,7 +4190,6 @@ aadataforwarder.001998.whitelabel.cornershopapp.com
 02-basic-straccountmailegy.whitelabel.cornershopapp.com
 cms2buenaonda.01-image-active.whitelabel.cornershopapp.com
 02-packagertailview.whitelabel.cornershopapp.com
-0098341.whitelabel.cornershopapp.com
 03-exemples2026webstore.whitelabel.cornershopapp.com
 frontpage-gatewayhwcdn.000-n33-acc.whitelabel.cornershopapp.com
 000-780-48766543.whitelabel.cornershopapp.com

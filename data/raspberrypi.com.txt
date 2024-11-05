@@ -17,7 +17,6 @@ staging.raspberrypi.com
 compliance-templates.raspberrypi.com
 rpi-imager-stats.raspberrypi.com
 bookshelfproxy.raspberrypi.com
-www.raspberrypi.com
 instore.raspberrypi.com
 assets.raspberrypi.com
 content-api-assets.raspberrypi.com
@@ -55,7 +54,7 @@ builds.raspberrypi.com
 turn2.raspberrypi.com
 investors-staging.raspberrypi.com
 id-assets.raspberrypi.com
-www.store.raspberrypi.com
+store.raspberrypi.com
 server.raspberrypi.com
 api.project-bramble.raspberrypi.com
 welcome.raspberrypi.com
@@ -65,7 +64,6 @@ extranet.raspberrypi.com
 events.project-bramble.raspberrypi.com
 director.downloads.raspberrypi.com
 events-assets-staging.raspberrypi.com
-store.raspberrypi.com
 api.connect-ec41ad75.raspberrypi.com
 investors-assets.raspberrypi.com
 magazines-assets.raspberrypi.com

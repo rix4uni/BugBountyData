@@ -3,7 +3,6 @@ associates.amazon.sa
 sellercentral.amazon.sa
 sell.amazon.sa
 services.amazon.sa
-www.amazon.sa
 aax-eu.amazon.sa
 unagi.amazon.sa
 fls-eu.amazon.sa
@@ -22,7 +21,7 @@ avs-idrs.amazon.sa
 data.amazon.sa
 snowcentral.amazon.sa
 aeswidget.amazon.sa
-www.logistics.amazon.sa
+logistics.amazon.sa
 na-api-avs-idrs.amazon.sa
 origin-dl.amazon.sa
 origin-sellercentral.amazon.sa
@@ -40,9 +39,7 @@ advertising.amazon.sa
 auxilium.amazon.sa
 partnercentral.amazon.sa
 terrier.amazon.sa
-www.advertising.amazon.sa
 brandservices.amazon.sa
-logistics.amazon.sa
 documents.amazon.sa
 dropship.amazon.sa
 account-status.amazon.sa

@@ -48,7 +48,7 @@ srv-ps-kvm16.ps.kz
 srv-ps-ovz05.ps.kz
 ps-internal1-brd.ps.kz
 srv-pleskdb35.ps.kz
-www.builderv4.ps.kz
+builderv4.ps.kz
 archive-update-in-progress-mirror.ps.kz
 mt.ps.kz
 ifcsw2-csw1.ps.kz
@@ -83,7 +83,6 @@ srv-bitrix01.ps.kz
 srv-ps-plesk14.ps.kz
 plesk25.ps.kz
 panel3.ps.kz
-builderv4.ps.kz
 srv-plesk38.ps.kz
 srv-pleskdb14.ps.kz
 srv-ps-ovz12.ps.kz
@@ -191,7 +190,6 @@ ifbgw1-csw1.ps.kz
 srv-basekit01.ps.kz
 srv-plesk56.ps.kz
 srv-plesk62.ps.kz
-www.ps.kz
 srv-pgsqldb01.ps.kz
 srv-ps-kvm12.ps.kz
 srv-ps-ovz11.ps.kz
@@ -344,7 +342,6 @@ srv-ps-ovz06.ps.kz
 srv-plesk67.ps.kz
 shared-zabbix.ps.kz
 access3.ps.kz
-www.backup.ps.kz
 un05.j.ps.kz
 ipkvm-dc2-1.ps.kz
 mailgate07.ps.kz
@@ -493,7 +490,6 @@ csw1-ex-lo0.ps.kz
 ns15.jcloud.ps.kz
 colo-mirusdesk-1.ps.kz
 srv-ps-kvm06.ps.kz
-www.ariixteam.ns.ps.kz
 core.jcloud.ps.kz
 db1.ps.kz
 srv-ps-plesk09.ps.kz

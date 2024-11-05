@@ -294,7 +294,6 @@ freedominternet40.colo.bit.nl
 demo.testvip.bit.nl
 erfra-1.vm.bit.nl
 smtpout84.bit.nl
-www.bit.nl
 erfra-fw1.vm.bit.nl
 aspew-fw1.vm.bit.nl
 foxxl-fw1.vm.bit.nl
@@ -337,13 +336,9 @@ chatsupport.bit.nl
 verri-1.vm.bit.nl
 marskramer.bip.bit.nl
 zorwa-fw.vm.bit.nl
-www.hal.bit.nl
-www.hal2001.bit.nl
 bmath-production2.vm.bit.nl
 iddink-es.bip.bit.nl
-www.axigen.bit.nl
 megabit.bit.nl
-www.wan.bit.nl
 lowsd-1.kerio.bit.nl
 elatr-1.jitsi.bit.nl
 zorwo-2.jitsi.bit.nl
@@ -406,7 +401,6 @@ hsv.bip.bit.nl
 http-linux-test.lb.network.bit.nl
 oophaga-5.colo.bit.nl
 nl.http-linux.bit.nl
-www.atps.nl.http-linux.bit.nl
 ints59.colo.bit.nl
 87-251-62-5.umts.bit.nl
 87-251-58-165.lombox.customer.bit.nl
@@ -900,7 +894,6 @@ epcan49.customer.bit.nl
 213-136-21-251.adsl.bit.nl
 213-136-23-190.weas.bit.nl
 stoas-gw2a.jun1.bit-1.network.bit.nl
-www.nk.nl.http-linux.bit.nl
 amimp-13.colo.bit.nl
 animana189.colo.bit.nl
 deheus-59.colo.bit.nl
@@ -3423,7 +3416,7 @@ topgraphics4.colo.bit.nl
 213-154-238-140.lombox.customer.bit.nl
 87-251-50-82.lombox.customer.bit.nl
 camfil-gw.jun1.galilei.network.bit.nl
-www.megabit.nl.http-lb.bit.nl
+megabit.nl.http-lb.bit.nl
 oldelft-87-251-43-59.colo.bit.nl
 87-251-49-244.lombox.customer.bit.nl
 animana138.colo.bit.nl
@@ -4142,7 +4135,7 @@ moba2.customer.bit.nl
 aboma-keboma8.customer.bit.nl
 csngr39.colo.bit.nl
 shopctrl-10.colo.bit.nl
-www.volvo700vereniging.nl.http-lb.bit.nl
+volvo700vereniging.nl.http-lb.bit.nl
 213-136-18-247.lombox.customer.bit.nl
 213-136-23-181.weas.bit.nl
 87-251-48-63.lombox.customer.bit.nl
@@ -6137,7 +6130,6 @@ uphantis92.colo.bit.nl
 213-136-16-65.adsl.bit.nl
 aangetekend-213-154-244-32.colo.bit.nl
 s.colo.bit.nl
-www.nk.nl.http.bit.nl
 213-136-22-184.xdsl.bit.nl
 aboma-keboma17.customer.bit.nl
 bmath-accept1.vm.bit.nl
@@ -6157,7 +6149,7 @@ mcgregor-3.colo.bit.nl
 212-114-108-29.lombox.customer.bit.nl
 oldelft-276.colo.bit.nl
 uphantis250.colo.bit.nl
-www.tip-pd.nl.http-linux.bit.nl
+tip-pd.nl.http-linux.bit.nl
 tmincasso.bip.bit.nl
 vers1-01.vm.bit.nl
 213-136-21-148.adsl.bit.nl
@@ -6691,7 +6683,6 @@ aangetekend-213-154-244-152.colo.bit.nl
 ccs12.colo.bit.nl
 fastbyte-39-199.colo.bit.nl
 ints8.colo.bit.nl
-www.ljsde-1.kerio.bit.nl
 iddink-213-154-234-48.colo.bit.nl
 mcgregor-24.colo.bit.nl
 87-251-50-213.lombox.customer.bit.nl
@@ -6785,7 +6776,7 @@ dewal168.colo.bit.nl
 stoas-213-136-7-42.colo.bit.nl
 fastbyte49.colo.bit.nl
 vest-50.colo.bit.nl
-www.aangetekendmailen.nl.http-linux.bit.nl
+aangetekendmailen.nl.http-linux.bit.nl
 213-136-21-30.adsl.bit.nl
 87-251-57-21.lombox.customer.bit.nl
 adapcare-40.colo.bit.nl
@@ -9554,7 +9545,6 @@ deheus-44.colo.bit.nl
 eiffel1.vm.bit.nl
 ion5.colo.bit.nl
 walter3.colo.bit.nl
-megabit.nl.http-lb.bit.nl
 sonexo60.colo.bit.nl
 vest-6.colo.bit.nl
 212-114-108-54.lombox.customer.bit.nl
@@ -13676,7 +13666,6 @@ stoas-213-136-7-205.colo.bit.nl
 87-251-58-189.lombox.customer.bit.nl
 dewal-1.colo.bit.nl
 vanhelden04.colo.bit.nl
-www.nk.nl.webhosting.bit.nl
 213-136-21-152.adsl.bit.nl
 213-136-27-201.lombox.customer.bit.nl
 213-154-252-16.vdsl.bit.nl
@@ -15965,7 +15954,7 @@ afvalcombinatie-gw.jun1.galilei.network.bit.nl
 213-136-24-89.adsl.bit.nl
 87-251-56-198.lombox.customer.bit.nl
 camfil7.customer.bit.nl
-www.officeandbiz.excessacceeanwidecrew.com.http-linux.bit.nl
+officeandbiz.excessacceeanwidecrew.com.http-linux.bit.nl
 xantion296.colo.bit.nl
 212-114-108-72.lombox.customer.bit.nl
 212-114-114-106.lombox.customer.bit.nl
@@ -16246,7 +16235,6 @@ tigit14.colo.bit.nl
 datacenterservices50.colo.bit.nl
 entris3.colo.bit.nl
 213-136-17-97.lombox.customer.bit.nl
-www.nk.nl.http-lb.bit.nl
 213-136-20-249.adsl.bit.nl
 87-251-41-45.ndix.bit.nl
 87-251-56-251.lombox.customer.bit.nl
@@ -17364,7 +17352,6 @@ serv-ict-38.colo.bit.nl
 share-id18.colo.bit.nl
 solland05.customer.bit.nl
 stoas-213-136-6-188.colo.bit.nl
-volvo700vereniging.nl.http-lb.bit.nl
 212-114-100-32.ndix.bit.nl
 213-136-21-49.adsl.bit.nl
 213-154-252-59.ftto.bit.nl
@@ -18033,7 +18020,7 @@ aangetekend-213-154-244-193.colo.bit.nl
 adlib-229.customer.bit.nl
 meda1-5.vm.bit.nl
 stbio-gw.edge1.bit-2a.network.bit.nl
-www.ictgelderland.nl.http-linux.bit.nl
+ictgelderland.nl.http-linux.bit.nl
 xantion69.colo.bit.nl
 centric-gw.rbfs1.bit-2b.network.bit.nl
 entris-gw3.jun1.bit-1.network.bit.nl
@@ -18808,7 +18795,7 @@ shs-20.colo.bit.nl
 upload-linux.bit.nl
 ip-212-114-80-231.cust.osner.bit.nl
 test183.colo.bit.nl
-www.oceanwidecrew.com.http-linux.bit.nl
+oceanwidecrew.com.http-linux.bit.nl
 212-114-108-175.lombox.customer.bit.nl
 87-251-49-65.lombox.customer.bit.nl
 bss217.colo.bit.nl
@@ -18963,7 +18950,6 @@ speyk-8.colo.bit.nl
 keysolutions31.colo.bit.nl
 lays2-gw.jun1.bit-1.network.bit.nl
 stia3-87-251-32-97.vm.bit.nl
-www.nk.nl.http-linux.lb.network.bit.nl
 213-136-20-121.adsl.bit.nl
 87-251-57-65.lombox.customer.bit.nl
 aangetekend-213-154-244-254.colo.bit.nl

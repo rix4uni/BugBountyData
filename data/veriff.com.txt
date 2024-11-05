@@ -2101,7 +2101,6 @@ www-naij-com7.falcon-1-eu.veriff.com
 www-naij-com7.penguin-eu.veriff.com
 www-net.penguin-eu.veriff.com
 www-od.penguin-eu.veriff.com
-www.veriff.com
 www1-panel.falcon-1-eu.veriff.com
 www19-4-5.falcon-1-eu.veriff.com
 www19-4-5.penguin-eu.veriff.com
@@ -11180,15 +11179,12 @@ pandaqa.saas-3.veriff.com
 staging13.falcon-1-eu.veriff.com
 test-tginsburg-at-tesla-com.saas-4.veriff.com
 teststorezone01.saas-3.veriff.com
-.saas-4.veriff.com
 -panel.falcon-1-eu.veriff.com
 9-4-5.falcon-1-eu.veriff.com
 9-4-5.penguin-eu.veriff.com
 -9secure.flamingo-2-eu.veriff.com
-.penguin-eu.veriff.com
 xav.falcon-1-eu.veriff.com
 -53-sunrise.falcon-1-eu.veriff.com
-.flamingo-2-eu.veriff.com
 7-8.saas-3.veriff.com
 7.falcon-1-eu.veriff.com
 -2.falcon-1-eu.veriff.com
@@ -11799,7 +11795,6 @@ ns1-ns1-ns2-ns1-ns2-ns1-ns1-ns1-ns1-ns2.falcon-1-eu.veriff.com
 ek.falcon-1-eu.veriff.com
 135-207-176-16.penguin-eu.veriff.com
 falcon-4-eu.veriff.com
-www.webhooks.veriff.com
 error-meinfriseur.saas-3.veriff.com
 taplus.crow-eu.veriff.com
 v2cmsalpha.saas-3.veriff.com
@@ -13671,7 +13666,6 @@ ash2-analyticsexperiments-a1.crow-eu.veriff.com
 python-cabinetodocs.crow-eu.veriff.com
 service-paymentsstorage.crow-eu.veriff.com
 assets-www.flamingo-2-eu.veriff.com
-www.falcon-1-eu.veriff.com
 netlify.axchange.autodandomain-controllererfig-www.falcon-1-eu.veriff.com
 https-www-buzzfeed-com-05.crow-eu.veriff.com
 mobility-rt.saas-3.veriff.com

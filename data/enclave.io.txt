@@ -1,5 +1,4 @@
 go.enclave.io
-*.enclave.io
 staging-partner-api.enclave.io
 staging-partner.enclave.io
 staging-api.enclave.io
@@ -19,7 +18,6 @@ install.enclave.io
 preprod.api.partner.enclave.io
 telemetry.enclave.io
 null.enclave.io
-www.enclave.io
 preprod.api.enclave.io
 feedback.enclave.io
 infrastructure-sandfly-000.infra.env.enclave.io

@@ -5,7 +5,7 @@ dash.youthvillages.org
 guidetree-int.youthvillages.org
 dev.youthvillages.org
 guidetree-prod74.youthvillages.org
-www.apps.youthvillages.org
+apps.youthvillages.org
 yvstaging.youthvillages.org
 redcaptest.youthvillages.org
 yvcentral.youthvillages.org
@@ -17,7 +17,6 @@ redcapaad.youthvillages.org
 yvdnstest.youthvillages.org
 redcap.youthvillages.org
 profiles.youthvillages.org
-www.youthvillages.org
 voxcoonline.youthvillages.org
 webconf.youthvillages.org
 yvbidev.youthvillages.org
@@ -25,10 +24,8 @@ redcapsp.youthvillages.org
 cloud.e.youthvillages.org
 helpcenter.youthvillages.org
 guidetree-qa.youthvillages.org
-www.guidetree-qa.youthvillages.org
 yvu.youthvillages.org
 support.youthvillages.org
-www.guidetree-staging.youthvillages.org
 prtg.youthvillages.org
 careers.youthvillages.org
 staging.youthvillages.org
@@ -38,9 +35,6 @@ asp.youthvillages.org
 peopleconnect.youthvillages.org
 autodiscover.youthvillages.org
 forms.youthvillages.org
-apps.youthvillages.org
-www.guidetree-int.youthvillages.org
-www.guidetree.youthvillages.org
 view.e.youthvillages.org
 helpcenterdev.youthvillages.org
 sip.youthvillages.org
@@ -48,12 +42,10 @@ guidetree-qa74.youthvillages.org
 connect.youthvillages.org
 host.youthvillages.org
 gw.youthvillages.org
-www.yvu.youthvillages.org
-www.careers.youthvillages.org
 production.youthvillages.org
 mail.youthvillages.org
 host243.youthvillages.org
-www.yv.youthvillages.org
+yv.youthvillages.org
 thehyve-uat.youthvillages.org
 host246.youthvillages.org
 fs.youthvillages.org
@@ -71,7 +63,6 @@ host244.youthvillages.org
 wwww.youthvillages.org
 rdsgw.youthvillages.org
 thehyve.youthvillages.org
-*.youthvillages.org
 repo.youthvillages.org
 woburn.youthvillages.org
 jackson.youthvillages.org

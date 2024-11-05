@@ -77,7 +77,7 @@ rmq.ix.rijkscloud.nl
 portal.datascience.rijkscloud.nl
 gn2.meet.rijkscloud.nl
 studio.ix.rijkscloud.nl
-www.ix.rijkscloud.nl
+ix.rijkscloud.nl
 fbs-art.devops.rvb.rijkscloud.nl
 ceph-prx2.gn1.rijkscloud.nl
 rw1.rijkscloud.nl
@@ -254,7 +254,6 @@ shiny.paas-p-direkt.rijkscloud.nl
 gitlab.dgdoobi.rijkscloud.nl
 rstudio.dgdoobi.rijkscloud.nl
 jupyter.dgdoobi.rijkscloud.nl
-www.rijkscloud.nl
 glmig.tst.ix.rijkscloud.nl
 sectstssp.ix.rijkscloud.nl
 testapp.devops.rvb.rijkscloud.nl
@@ -446,16 +445,12 @@ portaal-iuc-acceptatie.rijkscloud.nl
 git.ivho.rijkscloud.nl
 developer.ix.rijkscloud.nl
 kibana.rapportage.rijkscloud.nl
-ix.rijkscloud.nl
 performance.ix.rijkscloud.nl
 performance.rijkscloud.nl
 git.performance.rijkscloud.nl
 git-dev.rijkscloud.nl
-*.objects.gn2.rijkscloud.nl
-*.objects.gn3.rijkscloud.nl
-*.objects.rw1.rijkscloud.nl
-*.osg.gn2.rijkscloud.nl
-*.osg.gn3.rijkscloud.nl
+osg.gn2.rijkscloud.nl
+osg.gn3.rijkscloud.nl
 abibzk.rijkscloud.nl
 accounts.ix.rijkscloud.nl
 api-performance.test.ix.rijkscloud.nl
@@ -639,8 +634,6 @@ osg-prx1.gn3.rijkscloud.nl
 osg-prx2.gn2.rijkscloud.nl
 osg-prx2.gn3.rijkscloud.nl
 osg-test.gn2.rijkscloud.nl
-osg.gn2.rijkscloud.nl
-osg.gn3.rijkscloud.nl
 pages.ix.rijkscloud.nl
 pgadmin.jvs.ix.rijkscloud.nl
 platform.analyse.ilt.rijkscloud.nl
@@ -760,7 +753,7 @@ vpn04.ec.rijkscloud.nl
 vpn1.ec.rijkscloud.nl
 vpn2.ec.rijkscloud.nl
 webmail.rijkscloud.nl
-www.rapportage.rijkscloud.nl
+rapportage.rijkscloud.nl
 cert1.ix.rijkscloud.nl
 dvrvb-api-a.rvb.rijkscloud.nl
 login-a.rvb.rijkscloud.nl
@@ -809,7 +802,7 @@ fun.objects.gn3.rijkscloud.nl
 relay-6.objects.gn3.rijkscloud.nl
 ftp8.objects.gn3.rijkscloud.nl
 memcache4.objects.gn3.rijkscloud.nl
-www.dev0.objects.gn3.rijkscloud.nl
+dev0.objects.gn3.rijkscloud.nl
 intranet3.objects.gn3.rijkscloud.nl
 cinema.objects.gn3.rijkscloud.nl
 descargas.objects.gn3.rijkscloud.nl
@@ -828,7 +821,6 @@ acct11-cert.objects.gn2.rijkscloud.nl
 lkjkui.objects.gn2.rijkscloud.nl
 dradis2.objects.gn2.rijkscloud.nl
 video8.objects.gn2.rijkscloud.nl
-www.113.objects.gn2.rijkscloud.nl
 pltn20.objects.gn3.rijkscloud.nl
 college.objects.gn3.rijkscloud.nl
 shms5.objects.gn2.rijkscloud.nl
@@ -839,13 +831,13 @@ members1.objects.gn2.rijkscloud.nl
 autodiscover.img.objects.gn3.rijkscloud.nl
 couchdb1.objects.gn3.rijkscloud.nl
 bro01.objects.gn2.rijkscloud.nl
-www.china.objects.gn2.rijkscloud.nl
+china.objects.gn2.rijkscloud.nl
 rtc0.objects.gn2.rijkscloud.nl
 deck-5.objects.gn3.rijkscloud.nl
 hfccourse.users.objects.gn2.rijkscloud.nl
 ns10.objects.gn3.rijkscloud.nl
 joomla9.objects.gn2.rijkscloud.nl
-www.temp.objects.gn2.rijkscloud.nl
+temp.objects.gn2.rijkscloud.nl
 piwik9.objects.gn2.rijkscloud.nl
 qaload.objects.gn3.rijkscloud.nl
 email12.objects.gn3.rijkscloud.nl
@@ -860,7 +852,7 @@ range225-42.objects.gn2.rijkscloud.nl
 cabinet.objects.gn3.rijkscloud.nl
 pt10-openbaar-downloads.objects.gn3.rijkscloud.nl
 pc49.objects.gn2.rijkscloud.nl
-www.alumni.objects.gn3.rijkscloud.nl
+alumni.objects.gn3.rijkscloud.nl
 ts24.objects.gn2.rijkscloud.nl
 gitorious-5.objects.gn2.rijkscloud.nl
 ant.objects.gn3.rijkscloud.nl
@@ -877,8 +869,8 @@ aaa.objects.gn2.rijkscloud.nl
 share.objects.gn2.rijkscloud.nl
 testes.objects.gn2.rijkscloud.nl
 anubis-11.objects.gn3.rijkscloud.nl
-www.plb4.objects.gn2.rijkscloud.nl
-www.fashion.objects.gn3.rijkscloud.nl
+plb4.objects.gn2.rijkscloud.nl
+fashion.objects.gn3.rijkscloud.nl
 sp-test9-velero.objects.gn2.rijkscloud.nl
 cv.objects.gn3.rijkscloud.nl
 web27.objects.gn2.rijkscloud.nl
@@ -890,7 +882,7 @@ webdisk.en.objects.gn2.rijkscloud.nl
 todo.objects.gn2.rijkscloud.nl
 ns2.gn3.rijkscloud.nl
 range92-139.objects.gn3.rijkscloud.nl
-www.ms.objects.gn3.rijkscloud.nl
+ms.objects.gn3.rijkscloud.nl
 postgres-11.objects.gn2.rijkscloud.nl
 chat4.objects.gn2.rijkscloud.nl
 mcp.objects.gn2.rijkscloud.nl
@@ -902,7 +894,7 @@ compuware.objects.gn3.rijkscloud.nl
 travel7.objects.gn2.rijkscloud.nl
 clif.objects.gn2.rijkscloud.nl
 player.objects.gn3.rijkscloud.nl
-www.monitor.objects.gn2.rijkscloud.nl
+monitor.objects.gn2.rijkscloud.nl
 freebsd7.objects.gn3.rijkscloud.nl
 postgres-7.objects.gn2.rijkscloud.nl
 eventlogger-9.objects.gn3.rijkscloud.nl
@@ -940,7 +932,6 @@ penza.objects.gn3.rijkscloud.nl
 gate1.objects.gn2.rijkscloud.nl
 range90-183.objects.gn2.rijkscloud.nl
 rs1.objects.gn2.rijkscloud.nl
-www.objects.gn2.rijkscloud.nl
 wwwhost-ox3.objects.gn2.rijkscloud.nl
 sql7.objects.gn2.rijkscloud.nl
 clhf1.ec.rijkscloud.nl
@@ -960,7 +951,7 @@ b11b.objects.gn2.rijkscloud.nl
 demo0.objects.gn2.rijkscloud.nl
 snmp.objects.gn2.rijkscloud.nl
 test124.objects.gn2.rijkscloud.nl
-www.acc.objects.gn2.rijkscloud.nl
+acc.objects.gn2.rijkscloud.nl
 cgit-03.objects.gn3.rijkscloud.nl
 mail5.objects.gn3.rijkscloud.nl
 build.objects.gn2.rijkscloud.nl
@@ -969,7 +960,7 @@ sl-web5.objects.gn2.rijkscloud.nl
 stc.objects.gn2.rijkscloud.nl
 gitlab7.objects.gn2.rijkscloud.nl
 anubis5.objects.gn2.rijkscloud.nl
-www.5.objects.gn3.rijkscloud.nl
+5.objects.gn3.rijkscloud.nl
 nod22.objects.gn3.rijkscloud.nl
 kazan.objects.gn2.rijkscloud.nl
 cfd188.objects.gn3.rijkscloud.nl
@@ -994,7 +985,7 @@ tower-02.objects.gn2.rijkscloud.nl
 atlas.objects.gn2.rijkscloud.nl
 penadmin1.objects.gn2.rijkscloud.nl
 servicio.objects.gn2.rijkscloud.nl
-www.dav84.users.objects.gn2.rijkscloud.nl
+dav84.users.objects.gn2.rijkscloud.nl
 range87-139.objects.gn3.rijkscloud.nl
 build1.objects.gn2.rijkscloud.nl
 helium.objects.gn2.rijkscloud.nl
@@ -1043,7 +1034,7 @@ b02.objects.gn2.rijkscloud.nl
 gitalist1.objects.gn2.rijkscloud.nl
 domolink.objects.gn3.rijkscloud.nl
 pc15.objects.gn2.rijkscloud.nl
-www.demo8.objects.gn3.rijkscloud.nl
+demo8.objects.gn3.rijkscloud.nl
 dictionary.objects.gn2.rijkscloud.nl
 travel6.objects.gn2.rijkscloud.nl
 docker01.objects.gn3.rijkscloud.nl
@@ -1077,7 +1068,7 @@ panelstatsmail.objects.gn3.rijkscloud.nl
 vivaldi.objects.gn2.rijkscloud.nl
 indefero-10.objects.gn3.rijkscloud.nl
 gitlab-7.objects.gn3.rijkscloud.nl
-www.staging.objects.gn2.rijkscloud.nl
+staging.objects.gn2.rijkscloud.nl
 phabricator-7.objects.gn2.rijkscloud.nl
 collector8.objects.gn3.rijkscloud.nl
 shop.objects.gn2.rijkscloud.nl
@@ -1101,7 +1092,7 @@ piwik9.objects.gn3.rijkscloud.nl
 gitweb-5.objects.gn2.rijkscloud.nl
 ceph-prx-ron1.gn3.rijkscloud.nl
 polipo-02.objects.gn2.rijkscloud.nl
-www.images.objects.gn3.rijkscloud.nl
+images.objects.gn3.rijkscloud.nl
 navi.objects.gn3.rijkscloud.nl
 fix-openbaar-downloads.objects.gn3.rijkscloud.nl
 meerkat5.objects.gn3.rijkscloud.nl
@@ -1118,7 +1109,7 @@ journal.objects.gn3.rijkscloud.nl
 www30.objects.gn2.rijkscloud.nl
 rsyslog-1.objects.gn2.rijkscloud.nl
 kvm5.objects.gn3.rijkscloud.nl
-www.131.objects.gn2.rijkscloud.nl
+131.objects.gn2.rijkscloud.nl
 pc101.objects.gn2.rijkscloud.nl
 diplomaonderzoek.dfront.rijkscloud.nl
 enet0.objects.gn2.rijkscloud.nl
@@ -1133,7 +1124,7 @@ gitalist-02.objects.gn3.rijkscloud.nl
 postgres-8.objects.gn3.rijkscloud.nl
 build-7.objects.gn3.rijkscloud.nl
 forward.objects.gn2.rijkscloud.nl
-www.dev10.objects.gn2.rijkscloud.nl
+dev10.objects.gn2.rijkscloud.nl
 mailgate7.objects.gn3.rijkscloud.nl
 atlassian-6.objects.gn2.rijkscloud.nl
 clhf1.gn2.rijkscloud.nl
@@ -1175,8 +1166,8 @@ click10.objects.gn2.rijkscloud.nl
 shms11.objects.gn2.rijkscloud.nl
 cms7.objects.gn2.rijkscloud.nl
 r34.objects.gn3.rijkscloud.nl
-www.au.objects.gn2.rijkscloud.nl
-www.newsletter.objects.gn2.rijkscloud.nl
+au.objects.gn2.rijkscloud.nl
+newsletter.objects.gn2.rijkscloud.nl
 host2114.objects.gn3.rijkscloud.nl
 eventlogger-2.objects.gn3.rijkscloud.nl
 qavgatekeeper.objects.gn3.rijkscloud.nl
@@ -1189,7 +1180,7 @@ blog10.objects.gn2.rijkscloud.nl
 jack.objects.gn2.rijkscloud.nl
 srv9.objects.gn2.rijkscloud.nl
 mailroom.objects.gn3.rijkscloud.nl
-www.preview.objects.gn2.rijkscloud.nl
+preview.objects.gn2.rijkscloud.nl
 indefero01.objects.gn2.rijkscloud.nl
 gate7.objects.gn3.rijkscloud.nl
 ead.objects.gn2.rijkscloud.nl
@@ -1220,10 +1211,10 @@ puppet-6.objects.gn3.rijkscloud.nl
 hades.objects.gn3.rijkscloud.nl
 memcache-10.objects.gn3.rijkscloud.nl
 igor.objects.gn3.rijkscloud.nl
-www.dav83.users.objects.gn2.rijkscloud.nl
+dav83.users.objects.gn2.rijkscloud.nl
 adserver.objects.gn3.rijkscloud.nl
 image0.objects.gn2.rijkscloud.nl
-www.clifford.users.objects.gn2.rijkscloud.nl
+clifford.users.objects.gn2.rijkscloud.nl
 black.objects.gn2.rijkscloud.nl
 ipa2.ec.rijkscloud.nl
 php7.objects.gn3.rijkscloud.nl
@@ -1247,7 +1238,7 @@ autoconfig.dev.objects.gn2.rijkscloud.nl
 range89-172.objects.gn3.rijkscloud.nl
 chef1.objects.gn2.rijkscloud.nl
 suricata-3.objects.gn2.rijkscloud.nl
-www.b4b.objects.gn3.rijkscloud.nl
+b4b.objects.gn3.rijkscloud.nl
 hydra.objects.gn2.rijkscloud.nl
 exchbhlan12.objects.gn3.rijkscloud.nl
 sr5.objects.gn2.rijkscloud.nl
@@ -1317,7 +1308,7 @@ yoshi.objects.gn2.rijkscloud.nl
 dav72.users.objects.gn2.rijkscloud.nl
 dk.objects.gn3.rijkscloud.nl
 honey.objects.gn2.rijkscloud.nl
-www.us.objects.gn2.rijkscloud.nl
+us.objects.gn2.rijkscloud.nl
 npm8.objects.gn3.rijkscloud.nl
 badboy.objects.gn2.rijkscloud.nl
 axis.objects.gn3.rijkscloud.nl
@@ -1402,7 +1393,7 @@ neu.objects.gn3.rijkscloud.nl
 elasticsearch01.objects.gn3.rijkscloud.nl
 ns10.objects.gn2.rijkscloud.nl
 video9.objects.gn2.rijkscloud.nl
-www.demo10.objects.gn2.rijkscloud.nl
+demo10.objects.gn2.rijkscloud.nl
 nsd2.ec.rijkscloud.nl
 ebay.objects.gn3.rijkscloud.nl
 mongo-3.objects.gn3.rijkscloud.nl
@@ -1426,7 +1417,7 @@ fms.objects.gn2.rijkscloud.nl
 photon.objects.gn3.rijkscloud.nl
 chatserver.objects.gn2.rijkscloud.nl
 mongodb5.objects.gn2.rijkscloud.nl
-www.114.objects.gn2.rijkscloud.nl
+114.objects.gn2.rijkscloud.nl
 nam.objects.gn3.rijkscloud.nl
 autoconfig.store.objects.gn2.rijkscloud.nl
 segment-122-30.objects.gn2.rijkscloud.nl
@@ -1441,7 +1432,7 @@ xen5.objects.gn2.rijkscloud.nl
 dev.music.objects.gn3.rijkscloud.nl
 scrm3.objects.gn2.rijkscloud.nl
 redis-0.objects.gn3.rijkscloud.nl
-www.mp10.objects.gn3.rijkscloud.nl
+mp10.objects.gn3.rijkscloud.nl
 range217-49.objects.gn3.rijkscloud.nl
 euclid.objects.gn3.rijkscloud.nl
 gitweb-13.objects.gn2.rijkscloud.nl
@@ -1449,7 +1440,7 @@ pg-13.objects.gn2.rijkscloud.nl
 59.objects.gn3.rijkscloud.nl
 squirrelmail-01.objects.gn2.rijkscloud.nl
 plant.objects.gn3.rijkscloud.nl
-www.twitter.objects.gn2.rijkscloud.nl
+twitter.objects.gn2.rijkscloud.nl
 books.objects.gn2.rijkscloud.nl
 segment-124-3.objects.gn2.rijkscloud.nl
 pagerduty-7.objects.gn3.rijkscloud.nl
@@ -1583,7 +1574,7 @@ big5.objects.gn2.rijkscloud.nl
 custom.objects.gn3.rijkscloud.nl
 puppet-7.objects.gn2.rijkscloud.nl
 sp4.objects.gn2.rijkscloud.nl
-www.money.objects.gn3.rijkscloud.nl
+money.objects.gn3.rijkscloud.nl
 host4.objects.gn2.rijkscloud.nl
 postgres-12.objects.gn3.rijkscloud.nl
 inc.objects.gn3.rijkscloud.nl
@@ -1598,7 +1589,7 @@ redis0.objects.gn3.rijkscloud.nl
 mb12.objects.gn2.rijkscloud.nl
 range86-136.objects.gn2.rijkscloud.nl
 click6.mail.objects.gn2.rijkscloud.nl
-www.s3.objects.gn2.rijkscloud.nl
+s3.objects.gn2.rijkscloud.nl
 maillist.objects.gn3.rijkscloud.nl
 graphite-11.objects.gn3.rijkscloud.nl
 bn.objects.gn2.rijkscloud.nl
@@ -1607,7 +1598,7 @@ l1tp-us.objects.gn2.rijkscloud.nl
 archiv.objects.gn2.rijkscloud.nl
 helpdesk.objects.gn3.rijkscloud.nl
 torrelay-4.objects.gn2.rijkscloud.nl
-www.abc.objects.gn3.rijkscloud.nl
+abc.objects.gn3.rijkscloud.nl
 ppp9.objects.gn3.rijkscloud.nl
 img19.objects.gn2.rijkscloud.nl
 cms10.objects.gn3.rijkscloud.nl
@@ -1627,11 +1618,9 @@ range86-132.objects.gn3.rijkscloud.nl
 ac2-openbaar-tekstboekjes.objects.gn3.rijkscloud.nl
 tpmsqr10.objects.gn2.rijkscloud.nl
 notes.objects.gn3.rijkscloud.nl
-www.ns3.objects.gn2.rijkscloud.nl
 8k.objects.gn3.rijkscloud.nl
 prometheus2.objects.gn3.rijkscloud.nl
 hunter.objects.gn2.rijkscloud.nl
-www.qa.objects.gn3.rijkscloud.nl
 img5.objects.gn3.rijkscloud.nl
 dmz3.objects.gn2.rijkscloud.nl
 eventlogger-01.objects.gn2.rijkscloud.nl
@@ -1729,7 +1718,7 @@ checksrv.objects.gn2.rijkscloud.nl
 dh.objects.gn2.rijkscloud.nl
 click.objects.gn2.rijkscloud.nl
 cgit-4.objects.gn2.rijkscloud.nl
-www.lab.objects.gn3.rijkscloud.nl
+lab.objects.gn3.rijkscloud.nl
 phabricator3.objects.gn2.rijkscloud.nl
 3k.objects.gn3.rijkscloud.nl
 puppet11.objects.gn2.rijkscloud.nl
@@ -1739,7 +1728,7 @@ v9.objects.gn2.rijkscloud.nl
 d3.objects.gn2.rijkscloud.nl
 mattermost-test.objects.gn3.rijkscloud.nl
 trade.objects.gn2.rijkscloud.nl
-www.crm.objects.gn3.rijkscloud.nl
+crm.objects.gn3.rijkscloud.nl
 hadoop-4.objects.gn2.rijkscloud.nl
 gateway.objects.gn3.rijkscloud.nl
 collection.objects.gn3.rijkscloud.nl
@@ -1761,8 +1750,7 @@ www-6.objects.gn2.rijkscloud.nl
 log4.objects.gn3.rijkscloud.nl
 s341.objects.gn2.rijkscloud.nl
 gitlab-01.objects.gn2.rijkscloud.nl
-www.film.objects.gn2.rijkscloud.nl
-www.v20.objects.gn2.rijkscloud.nl
+v20.objects.gn2.rijkscloud.nl
 movies.objects.gn2.rijkscloud.nl
 bro-9.objects.gn2.rijkscloud.nl
 eate13-cert.objects.gn3.rijkscloud.nl
@@ -1829,7 +1817,6 @@ mh.objects.gn2.rijkscloud.nl
 howto.objects.gn2.rijkscloud.nl
 on8-openbaar-beoordelingsmodel-opgaven.objects.gn3.rijkscloud.nl
 indefero-5.objects.gn2.rijkscloud.nl
-www.books.objects.gn2.rijkscloud.nl
 tgtggb.objects.gn2.rijkscloud.nl
 bbtest.objects.gn3.rijkscloud.nl
 eate0.objects.gn3.rijkscloud.nl
@@ -1850,7 +1837,7 @@ l3tp-us.objects.gn2.rijkscloud.nl
 ibm.objects.gn2.rijkscloud.nl
 s7.objects.gn2.rijkscloud.nl
 s447.objects.gn2.rijkscloud.nl
-www.tienda.objects.gn2.rijkscloud.nl
+tienda.objects.gn2.rijkscloud.nl
 b1.objects.gn2.rijkscloud.nl
 mongodb-03.objects.gn2.rijkscloud.nl
 euro2008.objects.gn3.rijkscloud.nl
@@ -1859,7 +1846,7 @@ wire.objects.gn2.rijkscloud.nl
 kpi.dfront.rijkscloud.nl
 bravo.objects.gn3.rijkscloud.nl
 gitweb9.objects.gn3.rijkscloud.nl
-www.1.objects.gn3.rijkscloud.nl
+1.objects.gn3.rijkscloud.nl
 mongo-2.objects.gn2.rijkscloud.nl
 buckets.objects.gn3.rijkscloud.nl
 hudson0.objects.gn3.rijkscloud.nl
@@ -1927,7 +1914,7 @@ range214-42.objects.gn2.rijkscloud.nl
 pc65.objects.gn2.rijkscloud.nl
 nfs7.jc.objects.gn2.rijkscloud.nl
 store5.objects.gn2.rijkscloud.nl
-www.ns6.objects.gn2.rijkscloud.nl
+ns6.objects.gn2.rijkscloud.nl
 reserve.objects.gn2.rijkscloud.nl
 collector-4.objects.gn2.rijkscloud.nl
 sl-mysql-db2.objects.gn2.rijkscloud.nl
@@ -1948,14 +1935,12 @@ csr11.net.objects.gn3.rijkscloud.nl
 range81-172.objects.gn2.rijkscloud.nl
 tower02.objects.gn2.rijkscloud.nl
 relay11.objects.gn2.rijkscloud.nl
-www.vb.objects.gn2.rijkscloud.nl
 anubis-3.objects.gn3.rijkscloud.nl
 segment-125-30.objects.gn2.rijkscloud.nl
 sci.objects.gn2.rijkscloud.nl
 secure.dev.objects.gn3.rijkscloud.nl
 api-8.objects.gn2.rijkscloud.nl
 es-6.objects.gn3.rijkscloud.nl
-www.slb0.objects.gn2.rijkscloud.nl
 elasticsearch02.objects.gn3.rijkscloud.nl
 clubs.objects.gn3.rijkscloud.nl
 v.objects.gn2.rijkscloud.nl
@@ -2026,7 +2011,7 @@ img0.objects.gn3.rijkscloud.nl
 moon.objects.gn2.rijkscloud.nl
 ppp2.objects.gn3.rijkscloud.nl
 couch-10.objects.gn2.rijkscloud.nl
-www.www6.objects.gn2.rijkscloud.nl
+www6.objects.gn2.rijkscloud.nl
 advance.objects.gn2.rijkscloud.nl
 bonobo-02.objects.gn3.rijkscloud.nl
 video4.objects.gn2.rijkscloud.nl
@@ -2039,7 +2024,6 @@ tinyproxy02.objects.gn2.rijkscloud.nl
 eros.objects.gn3.rijkscloud.nl
 cust112.objects.gn3.rijkscloud.nl
 range80-128.objects.gn3.rijkscloud.nl
-www.v9.objects.gn2.rijkscloud.nl
 squid0.objects.gn2.rijkscloud.nl
 web10.objects.gn2.rijkscloud.nl
 domain12.objects.gn2.rijkscloud.nl
@@ -2048,7 +2032,6 @@ phpunit.objects.gn3.rijkscloud.nl
 webdns1.objects.gn2.rijkscloud.nl
 cas.objects.gn3.rijkscloud.nl
 demo0.objects.gn3.rijkscloud.nl
-www.plus.objects.gn2.rijkscloud.nl
 www79.objects.gn2.rijkscloud.nl
 icare.objects.gn2.rijkscloud.nl
 schedule.objects.gn2.rijkscloud.nl
@@ -2121,7 +2104,7 @@ zbxprx2.ec.rijkscloud.nl
 prd-normering-cito-mbo-vo.objects.gn3.rijkscloud.nl
 cdn111.objects.gn3.rijkscloud.nl
 autoconfig.img.objects.gn3.rijkscloud.nl
-www.test5.users.objects.gn2.rijkscloud.nl
+test5.users.objects.gn2.rijkscloud.nl
 save.objects.gn2.rijkscloud.nl
 think.objects.gn2.rijkscloud.nl
 gate12.objects.gn2.rijkscloud.nl
@@ -2130,14 +2113,12 @@ build-9.objects.gn3.rijkscloud.nl
 tower6.objects.gn2.rijkscloud.nl
 mu.objects.gn3.rijkscloud.nl
 torrelay-01.objects.gn2.rijkscloud.nl
-www.test3.users.objects.gn2.rijkscloud.nl
 indefero-03.objects.gn2.rijkscloud.nl
 humanresources.objects.gn2.rijkscloud.nl
 0000.objects.gn2.rijkscloud.nl
 testssl-report-docs.apps.test9.gn3.sp.rijksapps.nl.objects.gn2.rijkscloud.nl
 dns2.objects.gn3.rijkscloud.nl
-www.mobil.objects.gn2.rijkscloud.nl
-www.b3b.objects.gn3.rijkscloud.nl
+b3b.objects.gn3.rijkscloud.nl
 pltn10.objects.gn2.rijkscloud.nl
 fo.objects.gn2.rijkscloud.nl
 pt10-openbaar-bijlagen.objects.gn3.rijkscloud.nl
@@ -2154,7 +2135,7 @@ couch12.objects.gn2.rijkscloud.nl
 atlassian-01.objects.gn2.rijkscloud.nl
 ac2-normering-cito-po.objects.gn3.rijkscloud.nl
 pop10.objects.gn2.rijkscloud.nl
-www.b0b.objects.gn2.rijkscloud.nl
+b0b.objects.gn2.rijkscloud.nl
 thebest.objects.gn2.rijkscloud.nl
 anubis9.objects.gn2.rijkscloud.nl
 segment-126-30.objects.gn2.rijkscloud.nl
@@ -2188,7 +2169,6 @@ range213-42.objects.gn3.rijkscloud.nl
 squirrelmail-03.objects.gn2.rijkscloud.nl
 boa.objects.gn2.rijkscloud.nl
 webstore.objects.gn2.rijkscloud.nl
-preview.objects.gn2.rijkscloud.nl
 webdns6.objects.gn2.rijkscloud.nl
 spokane.objects.gn2.rijkscloud.nl
 windows9.objects.gn2.rijkscloud.nl
@@ -2212,7 +2192,7 @@ dc0.objects.gn2.rijkscloud.nl
 core.objects.gn2.rijkscloud.nl
 postgresd-0.objects.gn2.rijkscloud.nl
 pcgk.objects.gn3.rijkscloud.nl
-www.cpanel.objects.gn3.rijkscloud.nl
+cpanel.objects.gn3.rijkscloud.nl
 elastic3.objects.gn3.rijkscloud.nl
 chelyabinsk-rnoc-rr3.backbone.objects.gn3.rijkscloud.nl
 dhcp.gn3.rijkscloud.nl
@@ -2248,7 +2228,7 @@ site6.objects.gn2.rijkscloud.nl
 amsterdam.objects.gn2.rijkscloud.nl
 adkit.objects.gn2.rijkscloud.nl
 yzsnwgert-en-restrict.cloudtop.rijkscloud.nl
-www.dev5.objects.gn2.rijkscloud.nl
+dev5.objects.gn2.rijkscloud.nl
 credit.objects.gn3.rijkscloud.nl
 on8-openbaar-tekstboekjes.objects.gn3.rijkscloud.nl
 sec.objects.gn2.rijkscloud.nl
@@ -2332,18 +2312,17 @@ mirror0.objects.gn3.rijkscloud.nl
 mssql8.objects.gn2.rijkscloud.nl
 bonobo-8.objects.gn3.rijkscloud.nl
 range86-166.objects.gn3.rijkscloud.nl
-twitter.objects.gn2.rijkscloud.nl
 elasticsearch-5.objects.gn2.rijkscloud.nl
 commerce.objects.gn3.rijkscloud.nl
 range78-172.objects.gn2.rijkscloud.nl
-www.6.objects.gn2.rijkscloud.nl
+6.objects.gn2.rijkscloud.nl
 gitlab.objects.gn3.rijkscloud.nl
 segment-121-7.objects.gn2.rijkscloud.nl
 cust113.objects.gn2.rijkscloud.nl
 ri.objects.gn2.rijkscloud.nl
 cfd298.objects.gn3.rijkscloud.nl
 hera.objects.gn2.rijkscloud.nl
-www.ns6.objects.gn3.rijkscloud.nl
+ns6.objects.gn3.rijkscloud.nl
 range85-172.objects.gn3.rijkscloud.nl
 ldap5.objects.gn3.rijkscloud.nl
 coop.objects.gn3.rijkscloud.nl
@@ -2370,11 +2349,11 @@ lp7.objects.gn3.rijkscloud.nl
 overheid-standaardplatform-reports.objects.gn3.rijkscloud.nl
 esx1.objects.gn2.rijkscloud.nl
 impsat.objects.gn2.rijkscloud.nl
-www.media.objects.gn2.rijkscloud.nl
+media.objects.gn2.rijkscloud.nl
 partnerapi.objects.gn2.rijkscloud.nl
 s214.objects.gn2.rijkscloud.nl
 rsyslog13.objects.gn2.rijkscloud.nl
-www.mp6.objects.gn2.rijkscloud.nl
+mp6.objects.gn2.rijkscloud.nl
 ip10.objects.gn2.rijkscloud.nl
 server5.objects.gn2.rijkscloud.nl
 baby.objects.gn3.rijkscloud.nl
@@ -2424,7 +2403,7 @@ haproxy-7.objects.gn2.rijkscloud.nl
 ww7.objects.gn2.rijkscloud.nl
 s208.objects.gn2.rijkscloud.nl
 snort-12.objects.gn2.rijkscloud.nl
-www.eu.objects.gn3.rijkscloud.nl
+eu.objects.gn3.rijkscloud.nl
 kvm10.objects.gn2.rijkscloud.nl
 jenkins-10.objects.gn3.rijkscloud.nl
 r6.objects.gn3.rijkscloud.nl

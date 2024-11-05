@@ -1,4 +1,3 @@
-*.broadviewnet.com
 146.145.128.62.static.broadviewnet.com
 146.145.86.110.broadviewnet.com
 adfs.broadviewnet.com
@@ -155,8 +154,6 @@ webmail.broadviewnet.com
 webservice1.broadviewnet.com
 wim2.broadviewnet.com
 wuite.broadviewnet.com
-www.broadviewnet.com
-www.myofficesuite.broadviewnet.com
 xwall.broadviewnet.com
 xwall2.broadviewnet.com
 xwall3.broadviewnet.com
@@ -182,6 +179,5 @@ ss.broadviewnet.com
 ssltest.broadviewnet.com
 vpn.broadviewnet.com
 wk.officesuite15.broadviewnet.com
-www.bvweb1.broadviewnet.com
-www.os.broadviewnet.com
-www.os2.broadviewnet.com
+os.broadviewnet.com
+os2.broadviewnet.com

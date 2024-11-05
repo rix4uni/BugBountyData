@@ -1,16 +1,12 @@
-*.sway.com
-*.directory.sway.com
-*.edog.sway.com
-*.locations.sway.com
-*.www.sway.com
+directory.sway.com
+edog.sway.com
+locations.sway.com
 aad.sway.com
 connect.eigerfx.co.sway.com
 cvs-ppe-s2s.sway.com
 cvs-s2s.sway.com
 dev.sway.com
-directory.sway.com
 directory.edog.sway.com
-edog.sway.com
 edog2.sway.com
 ei-s2s.sway.com
 ei-s2s.edog.sway.com
@@ -23,7 +19,6 @@ eus-003.www.sway.com
 eus-004.www.sway.com
 eus-005.www.sway.com
 eus-www.sway.com
-locations.sway.com
 locations.edog.sway.com
 neu-www.sway.com
 o365shellservice.sway.com
@@ -37,8 +32,6 @@ wus-002.www.sway.com
 wus-003.www.sway.com
 wus-004.www.sway.com
 wus-www.sway.com
-www.sway.com
-www.edog.sway.com
 wus-007.www.sway.com
 ea-000.www.edog.sway.com
 prod.sway.com
@@ -92,7 +85,7 @@ ea-www.directory.sway.com
 pop3.sway.com
 neu-001.www.sway.com
 neu-www.directory.sway.com
-www.mail.sway.com
+mail.sway.com
 scus-www.sway.com
 weu-005.www.sway.com
 eus-000.locations.sway.com
@@ -141,7 +134,6 @@ lankan.sway.com
 ea-001.directory.sway.com
 weu-000.locations.sway.com
 produce.sway.com
-mail.sway.com
 neu-001.directory.sway.com
 hosted.sway.com
 scus-000.www.sway.com

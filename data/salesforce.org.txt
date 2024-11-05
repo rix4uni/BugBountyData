@@ -32,10 +32,9 @@ impactexchange-ciauat.salesforce.org
 api.elevate.salesforce.org
 p10-220520-449-demo.salesforce.org
 vfx.salesforce.org
-www.salesforce.org
 hubs.demo.elevate.salesforce.org
 mail.demo.elevate.salesforce.org
-www.powerofus-docs.salesforce.org
+powerofus-docs.salesforce.org
 admin.elevate.salesforce.org
 admin.demo.elevate.salesforce.org
 api.partner.elevate.salesforce.org
@@ -50,7 +49,6 @@ developer.salesforce.org
 admin.partner.elevate.salesforce.org
 payments-api.elevate.salesforce.org
 pages.pilot.elevate.salesforce.org
-powerofus-docs.salesforce.org
 login.pilot.elevate.salesforce.org
 mail.elevate.salesforce.org
 c4.salesforce.org

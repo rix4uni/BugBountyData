@@ -5,7 +5,6 @@ scheduler-flower-preprod.prod-2.k8s.jinko.ai
 kibana-ompharma-prod.prod-2.k8s.jinko.ai
 api.preprod.jinko.ai
 staging.jinko.ai
-www.jinko.ai
 community.jinko.ai
 result-store-ompharma-prod.prod-2.k8s.jinko.ai
 preprod.jinko.ai

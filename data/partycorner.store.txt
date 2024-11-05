@@ -1,13 +1,11 @@
 server.test.partycorner.store
 test.partycorner.store
 ftp.test.partycorner.store
-www.test.partycorner.store
 smtp.test.partycorner.store
 pop.test.partycorner.store
 server.partycorner.store
 cdn.partycorner.store
 stats.partycorner.store
-www.partycorner.store
 ftp.partycorner.store
 pop.partycorner.store
 smtp.partycorner.store

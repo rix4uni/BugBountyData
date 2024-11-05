@@ -5,11 +5,10 @@ info2.biba.com
 go.biba.com
 ismtp.biba.com
 o1.email.biba.com
-www.bes.biba.com
+bes.biba.com
 builds.biba.com
 www-stage.biba.com
 integration-rtmp.biba.com
-www.help.biba.com
 integration.biba.com
 stage.biba.com
 push.biba.com
@@ -31,9 +30,7 @@ sip.biba.com
 push-stage.biba.com
 www2.biba.com
 prog-dev-elb.d.biba.com
-www.www7.biba.com
 www7.biba.com
 api.biba.com
 dev.biba.com
 bitp-us-east-1.biba.com
-www.biba.com

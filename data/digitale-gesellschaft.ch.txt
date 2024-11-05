@@ -12,7 +12,7 @@ chat.test.digitale-gesellschaft.ch
 git.digitale-gesellschaft.ch
 matrix.test.digitale-gesellschaft.ch
 synapse.matrix.test.digitale-gesellschaft.ch
-www.dns.digitale-gesellschaft.ch
+dns.digitale-gesellschaft.ch
 crm.test.digitale-gesellschaft.ch
 crm.digitale-gesellschaft.ch
 proxy.digitale-gesellschaft.ch
@@ -24,7 +24,6 @@ netzpolitiktreffen.digitale-gesellschaft.ch
 riot.matrix.test.digitale-gesellschaft.ch
 proxy.test.digitale-gesellschaft.ch
 gate.test.digitale-gesellschaft.ch
-www.digitale-gesellschaft.ch
 gate.digitale-gesellschaft.ch
 turn.matrix.digitale-gesellschaft.ch
 riot.matrix.digitale-gesellschaft.ch
@@ -40,7 +39,6 @@ res1.digitale-gesellschaft.ch
 wwwtest.digitale-gesellschaft.ch
 matrix.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
-dns.digitale-gesellschaft.ch
 dns2.digitale-gesellschaft.ch
 mrcwork.digitale-gesellschaft.ch
 mrctest.digitale-gesellschaft.ch
@@ -62,6 +60,5 @@ mail.mrctest.digitale-gesellschaft.ch
 tor3.digitale-gesellschaft.ch
 collector.digitale-gesellschaft.ch
 tor4e3.digitale-gesellschaft.ch
-www.collector.digitale-gesellschaft.ch
 tor1e3.digitale-gesellschaft.ch
 pad.digitale-gesellschaft.ch

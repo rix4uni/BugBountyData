@@ -16,9 +16,7 @@ ptp-rtr.null.linuxgemini.space
 vlan69-rtr.ptp-end.ptr.linuxgemini.space
 blog.linuxgemini.space
 mail.legacy.linuxgemini.space
-www.linuxgemini.space
 195.vlan69.ptp-end.null.linuxgemini.space
-www.bayrak.legacy.linuxgemini.space
 us-upstream.linuxgemini.space
 vorp.linuxgemini.space
 2.vlan69.ptp-end.null.linuxgemini.space
@@ -47,7 +45,6 @@ as208563.linuxgemini.space
 0.vlan69.ptp-end.null.linuxgemini.space
 cgit.linuxgemini.space
 gitlab.linuxgemini.space
-www.legacy.linuxgemini.space
 upstream-de.linuxgemini.space
 bayrak.linuxgemini.space
 status.linuxgemini.space

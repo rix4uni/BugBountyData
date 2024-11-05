@@ -3,20 +3,17 @@ postmaster.globaldataguard.com
 ns1.globaldataguard.com
 mail.globaldataguard.com
 orders.globaldataguard.com
-www.demo.globaldataguard.com
+demo.globaldataguard.com
 mailserver.globaldataguard.com
 www1.globaldataguard.com
 mailin.globaldataguard.com
 www2.globaldataguard.com
 m.globaldataguard.com
-www.globaldataguard.com
 ftp.globaldataguard.com
-www.orders.globaldataguard.com
 vmail.globaldataguard.com
 smtps.globaldataguard.com
 mailer.globaldataguard.com
 ns.globaldataguard.com
-demo.globaldataguard.com
 threats.globaldataguard.com
 remote.globaldataguard.com
 mail2.globaldataguard.com
@@ -31,4 +28,3 @@ webmail.globaldataguard.com
 masergy.globaldataguard.com
 updates.globaldataguard.com
 imap.globaldataguard.com
-*.globaldataguard.com

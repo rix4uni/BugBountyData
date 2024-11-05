@@ -1,9 +1,7 @@
-*.routerprotocol.com
-*.alpha-explorer-ui.routerprotocol.com
-*.devnet-alpha-explorer-ui.routerprotocol.com
-*.testnet.routerprotocol.com
-alpha-explorer-api.routerprotocol.com
 alpha-explorer-ui.routerprotocol.com
+devnet-alpha-explorer-ui.routerprotocol.com
+testnet.routerprotocol.com
+alpha-explorer-api.routerprotocol.com
 alpha-faucet-api.routerprotocol.com
 alpha-faucet-ui.routerprotocol.com
 alpha-router-station.routerprotocol.com
@@ -39,7 +37,6 @@ dev.routerprotocol.com
 dev.pathfinder.routerprotocol.com
 dev.stats.routerprotocol.com
 devnet-alpha.routerprotocol.com
-devnet-alpha-explorer-ui.routerprotocol.com
 devnet-alpha.evm.rpc.routerprotocol.com
 devnet-alpha.grpc.routerprotocol.com
 devnet-alpha.grpcweb.routerprotocol.com
@@ -107,7 +104,6 @@ staging.routerprotocol.com
 staging.pathfinder.routerprotocol.com
 staging.stats.routerprotocol.com
 sub-graph-aurora.routerprotocol.com
-testnet.routerprotocol.com
 testnet-eu.forwarder-alerter.routerprotocol.com
 testnet-jenkins.routerprotocol.com
 tmrpc.routerprotocol.com
@@ -116,7 +112,6 @@ ui-graph-aurora.routerprotocol.com
 uxdao.routerprotocol.com
 v1.docs.routerprotocol.com
 vote.routerprotocol.com
-www.routerprotocol.com
 api.pro-nitro-explorer.routerprotocol.com
 dc-aa8e722993._spfm.routerprotocol.com
 explorer.routerprotocol.com
@@ -155,14 +150,12 @@ explorer.testnet.routerprotocol.com
 _spfm.routerprotocol.com
 api.ecosystem-reward.routerprotocol.com
 api.nitroswap.routerprotocol.com
-www.academy.routerprotocol.com
 hub-alpha.routerprotocol.com
 api.forwarder.routerprotocol.com
 api.pf.routerprotocol.com
 hub-testnet.routerprotocol.com
 nitro-explorer.routerprotocol.com
 incentivised-testnet.routerprotocol.com
-www.blog.routerprotocol.com
 rc-alpha-contract-test.routerprotocol.com
 forwarder-testnet.routerprotocol.com
 dashboard.routerprotocol.com

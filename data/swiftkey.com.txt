@@ -155,7 +155,6 @@ development.swiftkey.com
 autosuggest.development.swiftkey.com
 emojicloudfrontend.staging.swiftkey.com
 moonpidgeon.development.swiftkey.com
-www.swiftkey.com
 jenson-admin.api.swiftkey.com
 prometheussf.services.westus2.swiftkey.com
 jaeger.services.northeurope.cls-production.swiftkey.com
@@ -653,7 +652,6 @@ alertmanager-2.infra.northeurope.production.swiftkey.com
 infra-mesos-lb.infra.northeurope.production.swiftkey.com
 pushgateway-int.infra.southeastasia.development.swiftkey.com
 alertmanager2.infra.northeurope.production.swiftkey.com
-www.open.swiftkey.com
 consul.infra.eastus2.development.swiftkey.com
 consul-ui.infra.southeastasia.development.swiftkey.com
 foghorn-service-internal.infra.northeurope.staging.swiftkey.com

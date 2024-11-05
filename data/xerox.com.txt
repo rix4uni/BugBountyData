@@ -242,7 +242,7 @@ dmo-test.partnernet.xerox.com
 pint.useastgw.xerox.com
 cmsebusprodweb.corp.xerox.com
 naao.buy.xerox.com
-xww.na.sms.xerox.com
+na.sms.xerox.com
 remserv18.support.xerox.com
 pcappsdr.corp.xerox.com
 test-advisory.services.xerox.com
@@ -600,7 +600,7 @@ eppns3.eur.xerox.com
 oa.parc.xerox.com
 autodiscover.xerox.com
 cmswebshop.external.xerox.com
-xww.s3.world.xerox.com
+s3.world.xerox.com
 cmsebustechintweb.corp.xerox.com
 automatecontent.xerox.com
 freeflow-test.extranet.xerox.com
@@ -841,7 +841,7 @@ terminology-stg.corp.xerox.com
 sfteu.xerox.com
 oa-int.parc.xerox.com
 bbim.world.xerox.com
-eww.eur.xerox.com
+eur.xerox.com
 sus-stage.support.xerox.com
 edispatching-xcr.xerox.com
 remotemail.xerox.com
@@ -906,7 +906,7 @@ xean03.corp.xerox.com
 gatestage08.websrvs.xerox.com
 ogclms-test.extranet.xerox.com
 hrv.eur.xerox.com
-xww.s3.eur.xerox.com
+s3.eur.xerox.com
 tumbler.useastgw.xerox.com
 paws.xerox.com
 cmsebustestdir.corp.xerox.com
@@ -1059,7 +1059,7 @@ cesa.opbu.xerox.com
 fed.directory.xerox.com
 omega.parc.xerox.com
 lemon-m.epn.uswestgw.xerox.com
-xww.tcelogin.world.xerox.com
+tcelogin.world.xerox.com
 xean02.corp.xerox.com
 hickory2.ext.uspitgw.xerox.com
 itsm-test.extranet.xerox.com
@@ -1072,7 +1072,7 @@ test.supplies.xerox.com
 stange.extranet.xerox.com
 billiken.useastgw.xerox.com
 hrc.eur.xerox.com
-xww.s3websrvs.world.xerox.com
+s3websrvs.world.xerox.com
 qbrportal.services.xerox.com
 chiron-m.useastgw.xerox.com
 sts.xerox.com
@@ -1144,7 +1144,7 @@ sems.corp.xerox.com
 eip.eur.xerox.com
 mdt-stage.support.xerox.com
 dit.xerox.com
-xww.s3websrvs.eur.xerox.com
+s3websrvs.eur.xerox.com
 ept.eur.xerox.com
 pcappsna.corp.xerox.com
 lemon.uswestgw.xerox.com
@@ -1152,7 +1152,6 @@ addison-m.usdalgw.xerox.com
 ionebustestr12web.xerox.com
 usa0300aa102-ext.epn.useastgw.xerox.com
 epl.eur.xerox.com
-eur.xerox.com
 learning.corp.xerox.com
 goblet.useastgw.xerox.com
 veldspar.ext.useastgw.xerox.com
@@ -1214,8 +1213,6 @@ f5-virtual-ip-13-16-33-20.epn.uksouthgw.xerox.com
 printkioskqa.portal.xerox.com
 preprod1integration3.services.xerox.com
 xinetdamemea-stg.services.xerox.com
-xww.thefic.xerox.com
-www.esnap.mainframe.xerox.com
 web3x.mainframe.xerox.com
 vision-qa-pwaserver.portal.xerox.com
 web4x.mainframe.xerox.com
@@ -1225,7 +1222,6 @@ fixit-test.corp.xerox.com
 vision-qa.portal.xerox.com
 xinetdamna-stg.services.xerox.com
 idp-db.corp.xerox.com
-www.gpecommerce.extranet.xerox.com
 dhcpportalemea.services.xerox.com
 belgium-hm-uat.services.xerox.com
 vision-qa-col.portal.xerox.com
@@ -1239,11 +1235,7 @@ xeroxsupportassistant-test.services.xerox.com
 onbaseui-stage.services.xerox.com
 workflowcentral-staging.services.xerox.com
 forms.business.xerox.com
-www.support.xerox.com
-www.accounts.xerox.com
 framework-assets.external.xerox.com
-www.office.xerox.com
-www.xerox.com
 pi.itservices.services.xerox.com
 vanbredamail-api.services.xerox.com
 web2x.mainframe.xerox.com
@@ -1367,9 +1359,8 @@ naocmsstorestaging.services.xerox.com
 staging1remoteweb.services.xerox.com
 hosttest1remoteweb.services.xerox.com
 proview-test.corp.xerox.com
-xww.marketsmartw.world.xerox.com
+marketsmartw.world.xerox.com
 engwiki-test.corp.xerox.com
-www.otis.extranet.xerox.com
 engservicedesk.corp.xerox.com
 api-east-stg-na-ext.services.xerox.com
 api-east-qa-na-ext.services.xerox.com
@@ -1379,7 +1370,7 @@ workflowuat.corp.xerox.com
 hosttest3integration6.services.xerox.com
 wwwesnapmainframeeur.idns.xerox.com
 engwiki.corp.xerox.com
-www.docushare-xogpsg-dr.xerox.com
+docushare-xogpsg-dr.xerox.com
 hosttest3office.services.xerox.com
 xeroxsupportassistant.services.xerox.com
 acc-enterprise.accounts.xerox.com
@@ -1423,7 +1414,6 @@ ip-genesis-cs-stg-weu.services.xerox.com
 intelligentfiler-stage.services.xerox.com
 ifusion.corp.xerox.com
 staging.smartcentre.xerox.com
-www.mainframe.xerox.com
 content.services.corp.xerox.com
 nano.xerox.com
 ukps-ppd.corp.xerox.com
@@ -1433,7 +1423,6 @@ flight-ui-staging.portal.xerox.com
 flight-sig-qa.portal.xerox.com
 ip-genesis-cs-stg-neu.services.xerox.com
 ukps-stg-ppd.corp.xerox.com
-www.sfr.business.xerox.com
 sfr.business.xerox.com
 sdi.xgs.xerox.com
 uat.services.xerox.com
@@ -1443,11 +1432,10 @@ cmhc-portal.corp.xerox.com
 ithelp.services.xerox.com
 office.support.xerox.com
 schemas.xerox.com
-www.ordersupplies.xerox.com
+ordersupplies.xerox.com
 reitmans-portal-stg.corp.xerox.com
 staging1transactions.services.xerox.com
 staging1integrations.services.xerox.com
-www.esnap.mainframe.eur.xerox.com
 xmpceipdevkochi.services.xerox.com
 xmpcwsdevkochi.services.xerox.com
 xbs-uk-advanced-uk-be-stage.origin.xerox.com
@@ -1484,7 +1472,6 @@ xwcsvccdn.services.xerox.com
 interactions.blogs.xerox.com
 yournewworkplace.blogs.xerox.com
 directory.blogs.xerox.com
-www.blogs.xerox.com
 kijkopzaken.blogs.xerox.com
 credder.blogs.xerox.com
 healthcareindustry.blogs.xerox.com
@@ -1497,7 +1484,6 @@ channelpartner.blogs.xerox.com
 developpementdurable.blogs.xerox.com
 healthcarerecovery.blogs.xerox.com
 xpro.corp.xerox.com
-www.xpro.corp.xerox.com
 eap-prod2.ise.corp.xerox.com
 gbrdc2-srv-ip4.ise.corp.xerox.com
 gbrlon05-srv-ip2.ise.corp.xerox.com
@@ -1507,32 +1493,19 @@ usa0300-srv-ip5.ise.corp.xerox.com
 usa0300-srv-ip6.ise.corp.xerox.com
 usa0300-srv-ix1.ise.corp.xerox.com
 sourcecontrol.corp.xerox.com
-www.sourcecontrol.corp.xerox.com
 vz.sn.itsm.xerox.com
-www.vz.sn.itsm.xerox.com
 track.partnermarketingcenter.business.xerox.com
 pp1-prod-ddn.support.xerox.com
-www.pp1-prod-ddn.support.xerox.com
 pp6-prod-ddn.support.xerox.com
-www.pp6-prod-ddn.support.xerox.com
 pp5-prod-ddn.support.xerox.com
-www.pp5-prod-ddn.support.xerox.com
 pp4-prod-ddn.support.xerox.com
-www.pp4-prod-ddn.support.xerox.com
 pp3-prod-ddn.support.xerox.com
-www.pp3-prod-ddn.support.xerox.com
 pp2-prod-ddn.support.xerox.com
-www.pp2-prod-ddn.support.xerox.com
 xeroxphoenix-uat.corp.xerox.com
-www.xeroxphoenix-uat.corp.xerox.com
 dashreplenish.supplies.xerox.com
-www.dashreplenish.supplies.xerox.com
 usa0300lv7077.sdsp.mc.xerox.com
-www.usa0300lv7077.sdsp.mc.xerox.com
 ffvc-test.portal.xerox.com
 azsignr-ffvc-test.portal.xerox.com
 ffvc-test-col.portal.xerox.com
 ffvc-test-pwaserver.portal.xerox.com
 ffvc-test-signalr.portal.xerox.com
-www.naoxdamstaging.services.xerox.com
-www.cmswebshop.external.xerox.com

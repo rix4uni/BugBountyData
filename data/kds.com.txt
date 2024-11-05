@@ -18,7 +18,6 @@ ns2.kds.com
 gsaetsnextmock.sandbox.neo.kds.com
 play.kds.com
 ns4.kds.com
-www.kds.com
 packageapi.dev.neo.kds.com
 w102.kds.com
 tech.kds.com
@@ -40,7 +39,6 @@ resourcecenter.kds.com
 cdn.kds.com
 awsstickiness.sandbox.neo.kds.com
 weblatenotifier.sandbox.neo.kds.com
-www.kdsguest.kds.com
 weblate-lnf.sandbox.neo.kds.com
 awsmigration-cf.sandbox.neo.kds.com
 awsmigration-cf-alb.sandbox.neo.kds.com
@@ -57,10 +55,7 @@ nexus.prod.build.kds.com
 nexus.dev.build.kds.com
 gsaetsnextmock.dev.neo.kds.com
 gsa-etsnext-mock.sandbox.neo.kds.com
-*.testlab.kds.com
 tst.kds.com
-www.kssl.kds.com
-*.kds.com
 autodiscover.kds.com
 enterpriseenrollment.kds.com
 msoid.kds.com
@@ -76,9 +71,9 @@ ww.kds.com
 ww.pt.kds.com
 ww1.kds.com
 ww2.kds.com
-www.haopan.kds.com
-www.kr.kds.com
-www.lolita.kds.com
+haopan.kds.com
+kr.kds.com
+lolita.kds.com
 cpanel.kds.com
 mail.kds.com
 ntgcmg.kdsneo.kds.com

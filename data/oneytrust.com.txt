@@ -17,7 +17,6 @@ api.xxl.prd.oneytrust.com
 newfront-uat.xxs.oneytrust.com
 front.xxl.dev.oneytrust.com
 static.dfp.stg.oneytrust.com
-www.oneytrust.com
 rabbitmq-rbot.oneytrust.com
 bo-api.ppr.score.oneytrust.com
 repo.oneytrust.com
@@ -28,7 +27,7 @@ api.xxl.uat.oneytrust.com
 redis.admin.ppr.score.oneytrust.com
 bo-score.oneytrust.com
 review-gra03.oneytrust.com
-www.test-wordpress.oneytrust.com
+test-wordpress.oneytrust.com
 review-rbx02.oneytrust.com
 docker-registry-ui.admin.digitalreview.oneytrust.com
 portainer.admin.digitalreview.oneytrust.com

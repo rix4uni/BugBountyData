@@ -1,4 +1,3 @@
-*.ibh.de
 demo2.ibh.de
 sso.ibh.de
 share.ibh.de
@@ -28,16 +27,14 @@ webconf.ibh.de
 w30.ibh.de
 status.mz.ibh.de
 mz.ibh.de
-www.mz.ibh.de
 sefi.ibh.de
 ibh.sefi.ibh.de
-www.ibh.de
 mailtresor.ibh.de
 www-old.ibh.de
 autodiscover.ibh.de
 secure.ibh.de
 login.ibh.de
-www.rais.ibh.de
+rais.ibh.de
 newsletter.ibh.de
 bud.ibh.de
 staging.kupo-test.ibh.de
@@ -45,7 +42,6 @@ portal.ibh.de
 cdn.ibh.de
 webmail.ibh.de
 micky.ibh.de
-rais.ibh.de
 api.portal.ibh.de
 kupo-test.ibh.de
 wwwold.ibh.de

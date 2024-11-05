@@ -22,7 +22,6 @@ opendata.cbg-meb.nl
 eurs-next.cbg-meb.nl
 english.cbg-meb.nl
 dcp-time-slot.cbg-meb.nl
-www.cbg-meb.nl
 webmail.cbg-meb.nl
 enterpriseenrollment.cbg-meb.nl
 av.cbg-meb.nl
@@ -38,12 +37,11 @@ rabbitmq.cbg-meb.nl
 b2bi-acc.cbg-meb.nl
 kex.cbg-meb.nl
 a-english.cbg-meb.nl
-www.db.cbg-meb.nl
+db.cbg-meb.nl
 eu2016.cbg-meb.nl
 autodiscover.cbg-meb.nl
 legacy.cbg-meb.nl
 guest.cbg-meb.nl
-db.cbg-meb.nl
 vpn.cbg-meb.nl
 magazinesintern.cbg-meb.nl
 access.cbg-meb.nl
@@ -58,5 +56,4 @@ dialin.cbg-meb.nl
 portal.cbg-meb.nl
 a-magazines.a-english.cbg-meb.nl
 meet.cbg-meb.nl
-www.ici-portal.cbg-meb.nl
 a-magazinesintern.a-english.cbg-meb.nl

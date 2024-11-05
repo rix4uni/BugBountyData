@@ -1981,7 +1981,6 @@ emea.hr-stage.netapp.com
 sas-c1.netapp.com
 dc6-gtm02.netapp.com
 www5.netapp.com
-www.netapp.com
 www01.netapp.com
 www02.netapp.com
 ncv.na-ne1.gnf.netapp.com
@@ -1995,7 +1994,6 @@ ncv.northamerica-northeast2.gcp.netapp.com
 gwaws.cloudinsights-qa.netapp.com
 docker.gwaws.cloudinsights-qa.netapp.com
 adm.gwaws.cloudinsights-qa.netapp.com
-*.gwaws.cloudinsights-qa.netapp.com
 ncv.asia-northeast1.gcp.netapp.com
 cvs-so-eu-n1-tst-vmdb.dev.gcp.netapp.com
 ncv.us-e4.autopush-tst.internal.npd.gnf.netapp.com
@@ -2033,7 +2031,6 @@ ncv.us-w1.staging.internal.npd.gnf.netapp.com
 o2qstg1.corp.netapp.com
 origin-azure-nwtestapp.netapp.com
 nextgen.netapp.com
-www.homebase-rtp.netapp.com
 pmbta.corp.netapp.com
 mail02.bounce.netapp.com
 ampmetrics.netapp.com
@@ -2045,7 +2042,6 @@ pht01-eu-1.cloudinsights.netapp.com
 adm.stgc01-us-1.cloudinsights.netapp.com
 psp-astra.cloudinsights-qa.netapp.com
 vmwsoaapp04-tst.corp.netapp.com
-www.blog.netapp.com
 hook.netapp.com
 c01-ap-1.cloudinsights.netapp.com
 hcestst1.corp.netapp.com
@@ -2058,7 +2054,6 @@ vmwrhcgws02-stg.corp.netapp.com
 cimapi.vds.netapp.com
 origin-now-old.netapp.com
 soaprd.corp.netapp.com
-www.travel.netapp.com
 comtst5.corp.netapp.com
 personalization.netapp.com
 vmwmatweb04-prd.dmz.netapp.com
@@ -2067,9 +2062,8 @@ ncv.af-s1.internal.gnf.netapp.com
 r71105aeb19v1.mva.gdl.englab.netapp.com
 docker.eks-01-yamunak.cloudinsights-qa.netapp.com
 techpartners.netapp.com
-www.kirov.netapp.com
+kirov.netapp.com
 demo.taborder.netapp.com
-www.hwu.netapp.com
 qd01-us-1.cloudinsights-qa.netapp.com
 e1.digital.netapp.com
 adm.devdeploy.cloudinsights-qa.netapp.com

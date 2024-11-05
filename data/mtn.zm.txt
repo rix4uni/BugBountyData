@@ -1,4 +1,3 @@
-*.mtn.zm
 auth.mtn.zm
 backend.webreg.mtn.zm
 ena.mtn.zm
@@ -9,11 +8,6 @@ rebalancer.mtn.zm
 selfservice.mtn.zm
 speedtest.mtn.zm
 webreg.mtn.zm
-www.mtn.zm
-www.backend.webreg.mtn.zm
-www.mtnmomo.mtn.zm
-www.partnergui.mtn.zm
-www.webreg.mtn.zm
 5gmaps.mtn.zm
 api.vm-vas-sm.mtn.zm
 callertunes.mtn.zm

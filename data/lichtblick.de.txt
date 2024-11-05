@@ -1,6 +1,5 @@
 uploaddev.lichtblick.de
 news.lichtblick.de
-www.lichtblick.de
 analytics.staging.thg.lichtblick.de
 staging.thg.lichtblick.de
 api.staging.thg.lichtblick.de
@@ -25,7 +24,6 @@ static-dev.lichtblick.de
 scepman.lichtblick.de
 swa-test.lichtblick.de
 imail.lichtblick.de
-www.vertrieb.lichtblick.de
 vertrieb.lichtblick.de
 pricing.lichtblick.de
 brand.lichtblick.de
@@ -72,20 +70,13 @@ lbskypeweb-ext.lichtblick.de
 webcon.lichtblick.de
 lyncdiscover.lichtblick.de
 esaleswebportal.lichtblick.de
-www.energie.lichtblick.de
 services.lichtblick.de
-www.bewerbung.lichtblick.de
 www4.lichtblick.de
 q7tbsrf94g48.lichtblick.de
 wwwdev.lichtblick.de
-www.remotedesktop.lichtblick.de
 remotedesktop.lichtblick.de
 enerviewer.lichtblick.de
-www.enerviewer.lichtblick.de
-www.mein-test.lichtblick.de
-www.adfs.lichtblick.de
-www.mein2.lichtblick.de
-www.smtp.lichtblick.de
+smtp.lichtblick.de
 map.lichtblick.de
 mediendatenbank.lichtblick.de
 sbc2.lichtblick.de

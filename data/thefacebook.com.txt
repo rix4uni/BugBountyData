@@ -55,7 +55,7 @@ tcscqacsh03.thefacebook.com
 ash-arvredamgmt103.thefacebook.com
 prn-sentry02.thefacebook.com
 ash-piiqts101.thefacebook.com
-www.ash-testrailwebapp01.thefacebook.com
+ash-testrailwebapp01.thefacebook.com
 lhr-dc04.thefacebook.com
 snc-mulepceprd10.thefacebook.com
 sea112-isiocures01.thefacebook.com
@@ -65,7 +65,7 @@ lab.thefacebook.com
 prn-dc08.thefacebook.com
 ldap-lhr.thefacebook.com
 frc-dc02.thefacebook.com
-www.cb.thefacebook.com
+cb.thefacebook.com
 asu.thefacebook.com
 lb-ash-ldap.thefacebook.com
 frc-vcsc02.thefacebook.com
@@ -368,7 +368,6 @@ ldap-ext.thefacebook.com
 hybrid.thefacebook.com
 mail.thefacebook.com
 autodiscover.thefacebook.com
-cb.thefacebook.com
 lhr-dc02.thefacebook.com
 prn-splunkindexer-lb.thefacebook.com
 frc-splunkindexer-lb.thefacebook.com
@@ -376,7 +375,6 @@ vsp-int.thefacebook.com
 tableau.thefacebook.com
 pki.thefacebook.com
 certs.thefacebook.com
-www.thefacebook.com
 tcprdextcsh.thefacebook.com
 tcprdextapp.thefacebook.com
 whtfix-dev.thefacebook.com
@@ -426,7 +424,6 @@ prn-taptstweb03.thefacebook.com
 taptstweb03.thefacebook.com
 frc-taptstops02.thefacebook.com
 frc-taptstops01.thefacebook.com
-www.vod.thefacebook.com
 vod.thefacebook.com
 siphon.thefacebook.com
 jamapt.thefacebook.com
@@ -436,7 +433,6 @@ lhrvpn04.thefacebook.com
 lhrvpn04-int.thefacebook.com
 lhrvpn03-int.thefacebook.com
 fscorp.glbx.thefacebook.com
-www.fs.thefacebook.com
 swift.thefacebook.com
 prn-secwikip01.thefacebook.com
 ccasas.thefacebook.com
@@ -466,18 +462,16 @@ prn-gtm-listener01.thefacebook.com
 prn-exchdc05.thefacebook.com
 snc-dc120.thefacebook.com
 ldapv6.thefacebook.com
-www.1wmdm.thefacebook.com
+1wmdm.thefacebook.com
 ash-discovery-webserver01.thefacebook.com
-www.ash-discovery-webserver01.thefacebook.com
-www.ldap.thefacebook.com
+ldap.thefacebook.com
 snc-teramc01.thefacebook.com
 prn-bomgar01.thefacebook.com
 frc-bomgar01.thefacebook.com
 printer.thefacebook.com
 ldap.outpost.thefacebook.com
-www.ldap.outpost.thefacebook.com
 snc.testrailwebapp01.thefacebook.com
-www.prn-dsm01.thefacebook.com
+prn-dsm01.thefacebook.com
 test03.thefacebook.com
 test.thefacebook.com
 test04.thefacebook.com
@@ -487,12 +481,10 @@ testvpn01.thefacebook.com
 testvpn04.thefacebook.com
 testvpn.thefacebook.com
 testvpn02.thefacebook.com
-www.ash-dsm01.thefacebook.com
+ash-dsm01.thefacebook.com
 frc-followme01.thefacebook.com
 esbmbltest.thefacebook.com
-www.esbmbltest.thefacebook.com
 ash-testrailwebapp02.thefacebook.com
-ash-testrailwebapp01.thefacebook.com
 prn-testrailwebapp01.thefacebook.com
 ash-vioigor01.thefacebook.com
 oauthredirect.tapprd-ext.thefacebook.com
@@ -519,7 +511,6 @@ sin-tctestweb01.thefacebook.com
 sin-dmztcweb001.thefacebook.com
 viohhad.thefacebook.com
 viohh.thefacebook.com
-www.prn-cxlcoverity01.thefacebook.com
 prn-cxlcoverity01.thefacebook.com
 lb-prn-roadhouse.thefacebook.com
 lb-ash-roadhouse.thefacebook.com
@@ -638,7 +629,6 @@ ash-dc151.thefacebook.com
 ash-dc152.thefacebook.com
 ash-dc251.thefacebook.com
 ash-dc252.thefacebook.com
-ash-dsm01.thefacebook.com
 ash-fbasic01.thefacebook.com
 ash-followme01.thefacebook.com
 ash-hub01.thefacebook.com
@@ -1116,7 +1106,6 @@ ldap-sin.thefacebook.com
 ldap-sinadmin1.fburl.thefacebook.com
 ldap.glb.thefacebook.com
 ldap.outpost.glb.thefacebook.com
-ldap.thefacebook.com
 leeu.thefacebook.com
 legacymail.thefacebook.com
 lehigh.thefacebook.com
@@ -1323,7 +1312,6 @@ princeton.thefacebook.com
 prn-bomgar02.thefacebook.com
 prn-clearpassdev01.thefacebook.com
 prn-discovery-webserver01.profiles.fburl.thefacebook.com
-prn-dsm01.thefacebook.com
 prn-followme01.thefacebook.com
 prn-followme01.thefacebook.com.lhr-fmp01.thefacebook.com
 prn-h2o01.thefacebook.com
@@ -1671,7 +1659,6 @@ uwlax.thefacebook.com
 uwm.thefacebook.com
 uwo.thefacebook.com
 uwosh.thefacebook.com
-uww.thefacebook.com
 uwyo.thefacebook.com
 valdosta.thefacebook.com
 valenciacc.thefacebook.com
@@ -1778,16 +1765,7 @@ wustl.thefacebook.com
 wvu.thefacebook.com
 ww.thefacebook.com
 wwu.thefacebook.com
-www.dsvpn.thefacebook.com
-www.esbmblprod.thefacebook.com
-www.exsyslog.thefacebook.com
-www.fs.lab.thefacebook.com
-www.gskp-htl.thefacebook.com
-www.prn-oculusresearchwiki01.thefacebook.com
-www.prn-testrailwebapp01.thefacebook.com
-www.sftpctl.glb.thefacebook.com
-www.vatlib.thefacebook.com
-www.yatta20.thefacebook.com
+yatta20.thefacebook.com
 wwww.thefacebook.com
 xu.thefacebook.com
 xula.thefacebook.com
@@ -1796,11 +1774,6 @@ ycp.thefacebook.com
 yorku.thefacebook.com
 ysu.thefacebook.com
 yu.thefacebook.com
-1wmdm.thefacebook.com
-*.thefacebook.com
-*.beatgames-teamcity.thefacebook.com
-*.my-od.thefacebook.com
-*.swift.thefacebook.com
 ams-btrsprd01.thefacebook.com
 ams-confectioner01.thefacebook.com
 ams-confectioner02.thefacebook.com
@@ -3155,9 +3128,6 @@ wfxtestmonitor.thefacebook.com
 whatfix.thefacebook.com
 wolfram.kg.thefacebook.com
 www-college.thefacebook.com
-www.snc-discovery-phab01.thefacebook.com
-www.snc-discovery-prod-be-webserver01.thefacebook.com
-www.snc-discovery-prod-fe-webserver01.thefacebook.com
 ash-arvrnpm303.thefacebook.com
 ash-arvrnpm302.thefacebook.com
 ash-arvrnpm301.thefacebook.com
@@ -3179,10 +3149,6 @@ snc-dpici-wm102.thefacebook.com
 ash-dpici-wm101.thefacebook.com
 snc-dpici-wm101.thefacebook.com
 downpour-teamcity.thefacebook.com
-*.snc-dpici-wm101.thefacebook.com
-*.downpour-teamcity.thefacebook.com
-*.snc-dpici-wm102.thefacebook.com
-*.ash-dpici-wm101.thefacebook.com
 citrixeast.thefacebook.com
 snc-ctxsf02.thefacebook.com
 citrixxml.thefacebook.com
@@ -3268,10 +3234,8 @@ tcplmuatcshext-cm.thefacebook.com
 ams501-nashared02.thefacebook.com
 matlabweb.thefacebook.com
 matlabweb.glb.thefacebook.com
-*.uipathaiprod.thefacebook.com
 uipathaiprod.thefacebook.com
 uipathaitest.thefacebook.com
-*.uipathaitest.thefacebook.com
 snc-sanugs-wa02.thefacebook.com
 cift.thefacebook.com
 threedexpswym.thefacebook.com
@@ -3308,11 +3272,6 @@ vcc-lab-aws.thefacebook.com
 snc-stduat101.thefacebook.com
 securithings-pilot-dashboard.thefacebook.com
 ash-stduat101.thefacebook.com
-*.glb.thefacebook.com
-*.tableau.glb.thefacebook.com
-*.tableau.thefacebook.com
-*.minio.thefacebook.com
-*.lab.thefacebook.com
 fre125-psec-cam-b8a44f188c60.thefacebook.com
 sun101-psec-cam-b8a44f17a760.thefacebook.com
 swift-prod.glb.thefacebook.com
@@ -3597,7 +3556,7 @@ nightlyclient79-lists.dev.beta.thefacebook.com
 v15-vipsystem.dev.beta.thefacebook.com
 v15-vip.dk-dev.beta.thefacebook.com
 oit-a106.13.connect.beta.thefacebook.com
-www.beta.thefacebook.com
+beta.thefacebook.com
 client79-lists.jeandev.beta.thefacebook.com
 visaoit-a106.connect.beta.thefacebook.com
 client79-lists-local.dev.beta.thefacebook.com
@@ -6576,7 +6535,7 @@ v15-vip.dev-signacert1.beta.thefacebook.com
 ai-oit-a106.connect.beta.thefacebook.com
 es.dev.beta.thefacebook.com
 image0-client79-lists.dev.beta.thefacebook.com
-www.sgp1.dev.beta.thefacebook.com
+sgp1.dev.beta.thefacebook.com
 issuesoit-a106.connect.beta.thefacebook.com
 pageoit-a106.connect.beta.thefacebook.com
 004backend1-logstash.connect.thefacebook.com

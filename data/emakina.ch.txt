@@ -6,7 +6,6 @@ services.emakina.ch
 account-blancpain.emakina.ch
 dev05emakinach.emakina.ch
 blancpain-com.emakina.ch
-*.emakina.ch
 bo.dev.oris.devazure.emakina.ch
 alt.emakina.ch
 blog.emakina.ch
@@ -20,7 +19,6 @@ js.uat.oris.devazure.emakina.ch
 avse.emakina.ch
 img.uat.oris.devazure.emakina.ch
 bo.uat.oris.devazure.emakina.ch
-www.emakina.ch
 js.orisfront.devazure.emakina.ch
 dev.oris.devazure.emakina.ch
 devazurevm.emakina.ch

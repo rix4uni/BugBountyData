@@ -43,7 +43,6 @@ checkoutguide.boldcommerce.com
 api.staging.boldcommerce.com
 kongmanager.boldcommerce.com
 start.boldcommerce.com
-www.boldcommerce.com
 developer.staging.boldcommerce.com
 sunrise.staging.boldcommerce.com
 api-subscriptions.staging.boldcommerce.com
@@ -76,7 +75,6 @@ lb.boldcommerce.com
 ternet.boldcommerce.com
 db-status.boldcommerce.com
 whateveryouwant.boldcommerce.com
-www.get.boldcommerce.com
 orchestrator.boldcommerce.com
 holidayloyaltypoints.boldcommerce.com
 partner-help.boldcommerce.com
@@ -101,7 +99,5 @@ team.test.boldcommerce.com
 enterprise-cashier.boldcommerce.com
 static-eps.secure.staging.boldcommerce.com
 testimonials.boldcommerce.com
-www.partner.boldcommerce.com
 checkout.staging.boldcommerce.com
 klarna-connector-hr.boldcommerce.com
-*.secure.staging.boldcommerce.com

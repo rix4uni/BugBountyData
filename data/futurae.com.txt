@@ -43,12 +43,9 @@ api-test.futurae.com
 api.futurae.com
 api-pilot.futurae.com
 newsletter.futurae.com
-*.mid.futurae.com
-www.futurae.com
-www.futurae-api-callbacks-production.futurae.com
+mid.futurae.com
 futurae-api-callbacks-production.futurae.com
 futurae-api-callbacks-test.futurae.com
-*.futurae.com
 x1-api-test.futurae.com
 blitz-test1.futurae.com
 futurae-api-callbacks-staging.futurae.com

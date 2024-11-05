@@ -37,7 +37,7 @@ services.devtest08.createspace.com
 services.devtest06.createspace.com
 gateways.staging.createspace.com
 tsw.createspace.com
-www.stress.createspace.com
+stress.createspace.com
 ww.createspace.com
 admin.devtest15.createspace.com
 csp.devtest00.createspace.com
@@ -56,7 +56,7 @@ gateways.devtest08.createspace.com
 gateways.devtest09.createspace.com
 services.devtest12.createspace.com
 cc.createspace.com
-www.createspace.comwww.createspace.com
+createspace.comwww.createspace.com
 admin.devtest07.createspace.com
 dist00.sbp1.createspace.com
 nagios.sbp3.createspace.com
@@ -123,7 +123,6 @@ forums.createspace.com
 dist00.sbp2.createspace.com
 sevensushicafe.devtest07.createspace.com
 tsw.stress.createspace.com
-www.createspace.com
 abna.stress.createspace.com
 admin.devtest01.createspace.com
 brdr01-left.sjc2.createspace.com

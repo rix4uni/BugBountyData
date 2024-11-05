@@ -128,8 +128,6 @@ bh4muqupisunnidd3narryq.glassdoor.com
 fastly.glassdoor.com
 retool.glassdoor.com
 o35.ptr7720.fblive.glassdoor.com
-www.guide.glassdoor.com
-www.glassdoor.com
 go.glassdoor.com
 qa.glassdoor.com
 stage.glassdoor.com
@@ -147,12 +145,6 @@ img1-stage.glassdoor.com
 img2-stage.glassdoor.com
 img3-stage.glassdoor.com
 img0-stage.glassdoor.com
-*.glassdoor.com
-*.content.glassdoor.com
-*.messaging.glassdoor.com
-*.outreach.glassdoor.com
-*.apply-canary.glassdoor.com
-*.apply.glassdoor.com
 admin-qa.glassdoor.com
 admin-stage.glassdoor.com
 admin.glassdoor.com
@@ -249,7 +241,6 @@ www-ng.glassdoor.com
 www-o.glassdoor.com
 wwwhome.glassdoor.com
 jobs-sftp.glassdoor.com
-www.stage.glassdoor.com
 blog-business.glassdoor.com
 resume-qa.glassdoor.com
 prod-data-hue.glassdoor.com

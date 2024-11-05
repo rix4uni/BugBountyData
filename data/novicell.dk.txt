@@ -11,8 +11,6 @@ sso.dk.goshop.staging.novicell.dk
 profile.dk.goshop.staging.novicell.dk
 static.goshop.staging.novicell.dk
 media.goshop.staging.novicell.dk
-www.novicell.dk
-www.pressalit.staging2.novicell.dk
 pressalit.staging2.novicell.dk
 media.pressalit.staging2.novicell.dk
 admin.pressalit.staging2.novicell.dk
@@ -22,7 +20,6 @@ fsl.staging02.net.novicell.dk
 employee.salling.development.novicell.dk
 backend.goshop.staging.novicell.dk
 performanceplatform.staging02.net.novicell.dk
-www.performanceplatform.staging02.net.novicell.dk
 http2test.development03.novicell.dk
 nps.development02.novicell.dk
 regtime.development02.novicell.dk
@@ -47,15 +44,9 @@ robotexperten.se.goshop.staging.novicell.dk
 robottiekspertti.fi.goshop.staging.novicell.dk
 shipping.goshop.staging.novicell.dk
 webhook.goshop.staging.novicell.dk
-www.kitchenone.dk.goshop.staging.novicell.dk
-www.kitchenone.fi.goshop.staging.novicell.dk
-www.kitchenone.no.goshop.staging.novicell.dk
-www.kitchenone.se.goshop.staging.novicell.dk
-www.roboteksperten.dk.goshop.staging.novicell.dk
-www.roboteksperten.no.goshop.staging.novicell.dk
-www.robotexpert.co.uk.goshop.staging.novicell.dk
-www.robotexperten.se.goshop.staging.novicell.dk
-www.robottiekspertti.fi.goshop.staging.novicell.dk
+kitchenone.no.goshop.staging.novicell.dk
+kitchenone.se.goshop.staging.novicell.dk
+robotexpert.co.uk.goshop.staging.novicell.dk
 gillelejebrugsforening.development02.novicell.dk
 icmdemo.pim.solutions.novicell.dk
 octopus.nc-cs-monitor-01.novicell.dk

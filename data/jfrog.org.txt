@@ -61,11 +61,9 @@ subversion.jfrog.org
 typesafe.jfrog.org
 artifactory.jfrog.org
 service.jfrog.org
-www.jfrog.org
 forums.jfrog.org
 cloudera.jfrog.org
 keycloak-test.jfrog.org
-*.jfrog.org
 alation-stg.jfrog.org
 alation.jfrog.org
 awx.jfrog.org

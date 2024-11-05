@@ -1,10 +1,5 @@
-*.atolcd.dev
 netbird.atolcd.dev
 agrilocal-evol.atolcd.dev
 agrilocal.atolcd.dev
 agrilocal-qualif.atolcd.dev
-*.agrilocal.atolcd.dev
-*.agrilocal-qualif.atolcd.dev
-*.priv.atolcd.dev
 priv.atolcd.dev
-*.agrilocal-evol.atolcd.dev

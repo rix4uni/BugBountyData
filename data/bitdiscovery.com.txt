@@ -6,11 +6,8 @@ s3.bitdiscovery.com
 docs.bitdiscovery.com
 events.bitdiscovery.com
 assetreport.bitdiscovery.com
-*.stage2.bitdiscovery.com
-*.live.bitdiscovery.com
-*.staging.bitdiscovery.com
-*.bitdiscovery.com
-www.bitdiscovery.com
+stage2.bitdiscovery.com
+live.bitdiscovery.com
 0-0-3.live.bitdiscovery.com
 0-0-36.stage2.bitdiscovery.com
 0-00.live.bitdiscovery.com
@@ -37965,7 +37962,6 @@ live-us-dev.stage2.bitdiscovery.com
 live-us-prod.stage2.bitdiscovery.com
 live-us-qa.stage2.bitdiscovery.com
 live-us-stage.stage2.bitdiscovery.com
-live.bitdiscovery.com
 live.stage2.bitdiscovery.com
 liveabc.stage2.bitdiscovery.com
 liveaccess.stage2.bitdiscovery.com
@@ -38535,7 +38531,6 @@ lweb24.stage2.bitdiscovery.com
 lweb25.stage2.bitdiscovery.com
 lweb26.stage2.bitdiscovery.com
 lwow.stage2.bitdiscovery.com
-lww.stage2.bitdiscovery.com
 lwxwvuts-6.stage2.bitdiscovery.com
 lxc.stage2.bitdiscovery.com
 lxegold01.live.bitdiscovery.com
@@ -54289,7 +54284,6 @@ stage1-80aaa0cvac.stage2.bitdiscovery.com
 stage1.stage2.bitdiscovery.com
 stage2-dcp2-ga.live.bitdiscovery.com
 stage2-dcp2-ga.stage2.bitdiscovery.com
-stage2.bitdiscovery.com
 stage2cp-vip1.stage2.bitdiscovery.com
 stage2du20.stage2.bitdiscovery.com
 stage2du21.stage2.bitdiscovery.com
@@ -71911,7 +71905,6 @@ zzjc.stage2.bitdiscovery.com
 9rijwk1f-android-2-5-3.live.bitdiscovery.com
 9s.live.bitdiscovery.com
 9to5mac.live.bitdiscovery.com
-9ww.stage2.bitdiscovery.com
 9xmovies.stage2.bitdiscovery.com
 9xtunes.live.bitdiscovery.com
 10-5-10-5.stage2.bitdiscovery.com
@@ -74558,7 +74551,7 @@ maine.272-dco-vc3-nsabb.live.bitdiscovery.com
 039-client.live.bitdiscovery.com
 17-121-112-63.live.bitdiscovery.com
 2k9nig-bis.live.bitdiscovery.com
-www.plb1.271-dco-vc8-nsabb.live.bitdiscovery.com
+plb1.271-dco-vc8-nsabb.live.bitdiscovery.com
 2a-z.live.bitdiscovery.com
 18centro-fr.live.bitdiscovery.com
 16-1.live.bitdiscovery.com
@@ -76712,7 +76705,6 @@ mysql.4efa.live.bitdiscovery.com
 09-1-0.live.bitdiscovery.com
 35y-as.live.bitdiscovery.com
 5-74-7-9.live.bitdiscovery.com
-www.mobile.171-dco-vc3-nsabb.live.bitdiscovery.com
 17-58-102-77.live.bitdiscovery.com
 432-9-7.live.bitdiscovery.com
 198-5.live.bitdiscovery.com
@@ -78544,7 +78536,6 @@ autodiscover.261-dco-vc3-nsabb.live.bitdiscovery.com
 0nlinetechnichteamsupport.live.bitdiscovery.com
 1trokato-cfd.live.bitdiscovery.com
 3b69ae8b7de3-cliftonmedialab.live.bitdiscovery.com
-plb1.271-dco-vc8-nsabb.live.bitdiscovery.com
 10yuankaihutiyanjin-okta-network-drookings-mirror.live.bitdiscovery.com
 3m-gls.live.bitdiscovery.com
 35-2-68-6.live.bitdiscovery.com

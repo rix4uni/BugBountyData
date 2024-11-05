@@ -59,7 +59,6 @@ win-mgmt-dev.deriv.cloud
 chefserver-staging.deriv.cloud
 ws-staging.deriv.cloud
 redmine-x.deriv.cloud
-www.deriv.cloud
 vpnmonitoring.deriv.cloud
 influx.deriv.cloud
 wikijs-new.deriv.cloud
@@ -68,4 +67,3 @@ bastion.staging.deriv.cloud
 redmine-qa.deriv.cloud
 qms.deriv.cloud
 brokerpilot.deriv.cloud
-*.deriv.cloud

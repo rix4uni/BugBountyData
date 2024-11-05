@@ -1,11 +1,9 @@
-*.gnip.com
-*.bastion.gnip.com
+bastion.gnip.com
 admin1.cl2-den-vw.ops.gnip.com
 amihan.gnip.com
 api.gnip.com
 api.prod.gnip.com
 avatar.gnip.com
-bastion.gnip.com
 beyondthearc.gnip.com
 blog.gnip.com
 blog-origin.gnip.com
@@ -110,9 +108,6 @@ stream.prod.gnip.com
 support.gnip.com
 try.gnip.com
 unicredit.gnip.com
-www.gnip.com
-www.client-vpn.gnip.com
-www.nagios.cl2-den-vw.prod.gnip.com
 yum-repo-cache.review.gnip.com
 https-encrypted-google-com-27.gnip.com
 adobe-sjc-1.gnip.com

@@ -1,4 +1,3 @@
-*.vistaprint.sg
 url.t.vistaprint.sg
 next.vistaprint.sg
 staging.vistaprint.sg
@@ -11,7 +10,6 @@ mta.em.vistaprint.sg
 rtm.vistaprint.sg
 secure.vistaprint.sg
 moov-origin.vistaprint.sg
-www.vistaprint.sg
 links.mail.vistaprint.sg
 gallery.vistaprint.sg
 designservices.vistaprint.sg

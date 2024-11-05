@@ -9,16 +9,14 @@ basementfinishingsystem.owenscorning.com
 builder.owenscorning.com
 access1.owenscorning.com
 auth.owenscorning.com
-www.owenscorning.com
 www2.owenscorning.com
 apis.owenscorning.com
-www.adart.owenscorning.com
 hre.apps.owenscorning.com
 careers.owenscorning.com
 api.owenscorning.com
 b2bgw-qa.owenscorning.com
 bcc.owenscorning.com
-www.bfs.owenscorning.com
+bfs.owenscorning.com
 assets.owenscorning.com
 solutions.owenscorning.com
 devel-roofvisualizer.owenscorning.com
@@ -50,7 +48,6 @@ connectservices.owenscorning.com
 ocvapps.owenscorning.com
 ocdwa.owenscorning.com
 ocdwaqa.owenscorning.com
-www.roofing.owenscorning.com
 stsq.owenscorning.com
 employeesso2-qa.owenscorning.com
 sparc.owenscorning.com
@@ -59,10 +56,7 @@ whqlabsonus.owenscorning.com
 qr.owenscorning.com
 jobs.owenscorning.com
 whqlabmsvoip2.owenscorning.com
-bfs.owenscorning.com
-www.homedepot.owenscorning.com
 homedepot.owenscorning.com
-www.homecenter.owenscorning.com
 homecenter.owenscorning.com
 feed.owenscorning.com
 w.owenscorning.com
@@ -79,13 +73,11 @@ genesis.owenscorning.com
 workrequests.owenscorning.com
 ocvideo.owenscorning.com
 masonry.owenscorning.com
-www.lowes.owenscorning.com
 lowes.owenscorning.com
 franchising.owenscorning.com
 fiori.owenscorning.com
 fiberscience.owenscorning.com
 eft.owenscorning.com
-www.eft.owenscorning.com
 designeyeq.owenscorning.com
 connect.owenscorning.com
 connect-devel.owenscorning.com
@@ -172,4 +164,3 @@ whqv8225.na.corp.owenscorning.com
 b2bgateway.owenscorning.com
 ibs.owenscorning.com
 ias4tls.owenscorning.com
-*.owenscorning.com

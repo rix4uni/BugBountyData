@@ -1,5 +1,4 @@
 jenkins.reverb.com
-www.reverb.com
 lp.reverb.com
 _dmarc.reverb.com
 help.reverb.com
@@ -19,7 +18,7 @@ url1978.reverb.com
 examples.reverb.com
 fastly.reverb.com
 yt.reverb.com
-www.local-dev.reverb.com
+local-dev.reverb.com
 echidna.reverb.com
 nsqadmin.reverb.com
 redshift-internal.reverb.com
@@ -40,7 +39,6 @@ mysqltest.reverb.com
 es5-unstable.reverb.com
 api.reverb.com
 build.reverb.com
-local-dev.reverb.com
 assets.stg.reverb.com
 status.reverb.com
 arbiter.production.rds.reverb.com
@@ -50,7 +48,7 @@ transifex-bridge.reverb.com
 feeds.reverb.com
 zendesk1.reverb.com
 airflow.reverb.com
-www.search.reverb.com
+search.reverb.com
 es5-stable.reverb.com
 cio.reverb.com
 core.sandbox.rds.reverb.com
@@ -68,7 +66,7 @@ listing-exports.reverb.com
 ci.reverb.com
 oktapreview.reverb.com
 static-testing.reverb.com
-www.product.reverb.com
+product.reverb.com
 w8x3q1e626omvddo.7.reverb.com
 zendesk2.reverb.com
 bigc-app.reverb.com
@@ -81,7 +79,6 @@ applink-stable.reverb.com
 email.reverb.com
 core-feed.production.rds.reverb.com
 staging.reverb.com
-www.sandbox.reverb.com
 core-pgbouncer-debug.production.rds.reverb.com
 cloud.mc.reverb.com
 qa.rre.reverb.com
@@ -117,7 +114,6 @@ airflow.preprod.rds.reverb.com
 em.reverb.com
 abmail.info.reverb.com
 core-bg-replica.production.rds.reverb.com
-product.reverb.com
 web17690.reverb.com
 geoip.reverb.com
 es5.reverb.com

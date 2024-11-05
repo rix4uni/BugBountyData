@@ -71,7 +71,7 @@ sa-we-psoft4.acc01.vumc.nl
 sp-ap-vrops1.stage.vumc.nl
 sa-dc06.acc01.vumc.nl
 ares.vumc.nl
-www.mail.vumc.nl
+mail.vumc.nl
 adds.ontw06.vumc.nl
 sp-dc02.vumc.nl
 sst-lb-nsxadv01.stage.vumc.nl
@@ -84,7 +84,7 @@ storefront-intern-test.vumc.nl
 treemanager.acc01.vumc.nl
 cneuro.vumc.nl
 storefront-lokaal.acc01.vumc.nl
-www.acc.vumc.nl
+acc.vumc.nl
 ss-ap-mepo03.stage.vumc.nl
 nsg1.acc01.vumc.nl
 smtp.vumc.nl
@@ -101,12 +101,11 @@ sst-lb-vra1.stage.vumc.nl
 cacti.vumc.nl
 intranet-acceptatie-backend.vumc.nl
 ns2.gslbe.acc01.vumc.nl
-www.st-dc02.test01.vumc.nl
 mscrowdsourcing.vumc.nl
 officeonline.vumc.nl
 ssa1.test01infra.vumc.nl
 storefront.test01infra.vumc.nl
-www.st-dc04.test01.vumc.nl
+st-dc04.test01.vumc.nl
 hybrideexchange.o365.acc.vumc.nl
 sp-mx-edg1.vumc.nl
 st-db-autok1.test01.vumc.nl
@@ -184,7 +183,7 @@ w.vumc.nl
 sp-ap-sysmxac1.vumc.nl
 ldaps.acc01.vumc.nl
 mijnwerkplek1.acc01.vumc.nl
-www.st-dc06.test01.vumc.nl
+st-dc06.test01.vumc.nl
 sp-ap-saquin1.vumc.nl
 imap.acc01.vumc.nl
 mijnwerkplek-acc1.vumc.nl
@@ -210,7 +209,6 @@ pop.vumc.nl
 preprod.intranet.vumc.nl
 sp-ap-lyncfe3.vumc.nl
 st1-mx-exch01.test01.vumc.nl
-www.vumc.nl
 sp-ap-apex2.vumc.nl
 infuus.acc01.vumc.nl
 post.vumc.nl
@@ -265,7 +263,7 @@ st-dc08.test01.vumc.nl
 so3-dc09.ontw03.vumc.nl
 st-ap-symp2.test01.vumc.nl
 studc-04.stu.vumc.nl
-www.endometriosecentrum.vumc.nl
+endometriosecentrum.vumc.nl
 athena.vumc.nl
 ldaps.ontw06.vumc.nl
 pop.acc01.vumc.nl
@@ -287,7 +285,7 @@ st-dc05.test01.vumc.nl
 mijnrooster-app.vumc.nl
 my.ecloud.vumc.nl
 sti-dc06.test01infra.vumc.nl
-www.sp-rs-bi11.vumc.nl
+sp-rs-bi11.vumc.nl
 internet-fallback.vumc.nl
 onesign.test01.vumc.nl
 sa-ap-jephsft1.acc01.vumc.nl
@@ -314,7 +312,6 @@ sa-dc05.acc01.vumc.nl
 ss-ap-vradem1.stage.vumc.nl
 storefront-lokaal2.vumc.nl
 grouperhilvtest.vumc.nl
-www.vitalitystar.acc01.vumc.nl
 discoverreceiver.vumc.nl
 sp-ap-radfmt1.vumc.nl
 intranet.backend.vumc.nl
@@ -330,7 +327,7 @@ sp-lb-vrli1.stage.vumc.nl
 sti-dc08.test01infra.vumc.nl
 sp-we-psoft4.vumc.nl
 ssa1.vumc.nl
-www.ss-ap-hpov3.stage.vumc.nl
+ss-ap-hpov3.stage.vumc.nl
 ewald-test-acc.vumc.nl
 mx1.vumc.nl
 ns2.vumc.nl
@@ -346,7 +343,7 @@ so3-dc08.ontw03.vumc.nl
 ss-ap-vsl1.stage.vumc.nl
 ss-we-vraiws2.stage.vumc.nl
 treemanager.test01.vumc.nl
-www.datalinq.vumc.nl
+datalinq.vumc.nl
 ol.vumc.nl
 sp-ap-bms.sso1.vumc.nl
 sp-apic03.vumc.nl
@@ -418,7 +415,6 @@ sp-ap-vrops2.stage.vumc.nl
 storefront-intern.acc01.vumc.nl
 ceres.vumc.nl
 smartsigns.vumc.nl
-www.beeldbank.vumc.nl
 sa-dc01.acc01.vumc.nl
 ssa1.ontw01infra.vumc.nl
 uc.acc01.vumc.nl
@@ -441,7 +437,6 @@ preprod.cms-images.vumc.nl
 sp-db-valuec2.vumc.nl
 ss-ap-vrni1.stage.vumc.nl
 storefront-lokaal2.test01.vumc.nl
-www.telefoongids.vumc.nl
 bms2.vumc.nl
 nfa1.test01infra.vumc.nl
 soi-dc05.ontw01infra.vumc.nl
@@ -451,7 +446,6 @@ ivflab2.vumc.nl
 sp-ap-mobion1.vumc.nl
 ldaps.test01.vumc.nl
 sp-we-autok1a.vumc.nl
-www.datalinq.acc01.vumc.nl
 storefront-lokaal2.ontw01infra.vumc.nl
 mijnwerkplek2.ontw01infra.vumc.nl
 mx2.vumc.nl
@@ -470,7 +464,7 @@ sst-lb-vraims1.stage.vumc.nl
 mijnwerkplek-acc.vumc.nl
 nsg2.test01.vumc.nl
 ss-ap-snow2.stage.vumc.nl
-www.coschappen.vumc.nl
+coschappen.vumc.nl
 nieuws-amstelacademie.vumc.nl
 abac.vumc.nl
 adds.stage.vumc.nl
@@ -493,7 +487,6 @@ ibis3.test01.vumc.nl
 rbk-vumc-01a.stage.vumc.nl
 sa-ap-xiltrix1.vumc.nl
 storefront-intern1.test01infra.vumc.nl
-www.sp-dc02.vumc.nl
 sa-db-afl2.acc01.vumc.nl
 accesscontrol.acc01.vumc.nl
 adds.ontw03.vumc.nl
@@ -511,7 +504,6 @@ ss-ap-hpov2.stage.vumc.nl
 st-dc03.test01.vumc.nl
 preprod.vumc.nl
 vumcxpression.vumc.nl
-datalinq.vumc.nl
 qmatic.vumc.nl
 sa-ap-hmy1.acc01.vumc.nl
 sp-ko-piicix2.vumc.nl
@@ -535,7 +527,6 @@ storefront-intern-acc.vumc.nl
 preprod.cms-static.vumc.nl
 receiver.vumc.nl
 sn-dsk-01-40-b.vumc.nl
-www.ss-ap-hpov2.stage.vumc.nl
 sa-lb-psoft2.acc01.vumc.nl
 sa1-mx-exch01.acc01.vumc.nl
 ss-ap-pscc1.stage.vumc.nl
@@ -573,7 +564,6 @@ dualclient.vumc.nl
 ldap.ontw06.vumc.nl
 mijnwerkplek.gslbe.acc01.vumc.nl
 so3-dc02.ontw03.vumc.nl
-mail.vumc.nl
 okcockpit.acc01.vumc.nl
 mijnrooster.acc01.vumc.nl
 mitunnel.gslbe.vumc.nl
@@ -623,7 +613,6 @@ storefront.test01.vumc.nl
 sp-ap-niptvs2.vumc.nl
 sp-ap-nps1.vumc.nl
 vr-core-e.vumc.nl
-www.st-dc01.test01.vumc.nl
 ss-ap-mepo01.stage.vumc.nl
 autodiscover.test01.vumc.nl
 mig-apotheek-portal.vumc.nl
@@ -653,12 +642,11 @@ ns1.gslbe.test01.vumc.nl
 outlook.vumc.nl
 sa-db-cylab3.acc01.vumc.nl
 ssa2.test01.vumc.nl
-www.vitalitystar.test01.vumc.nl
+vitalitystar.test01.vumc.nl
 mijnrooster-opl.vumc.nl
 ss-ap-mepo02.stage.vumc.nl
 ss-ap-vrli3.stage.vumc.nl
 videoconf01.vumc.nl
-www.ss-ap-hpov1.stage.vumc.nl
 ss-mc-rdssh1e.stage.vumc.nl
 ss-we-scomweb3.stage.vumc.nl
 sp-we-pocl1.vumc.nl
@@ -732,9 +720,7 @@ sst-ap-vrops3.stage.vumc.nl
 mijnwerkplek.vumc.nl
 ibis4.acc01.vumc.nl
 rbk-vumc.stage.vumc.nl
-vitalitystar.test01.vumc.nl
 ss-ap-vradem2.stage.vumc.nl
-st-dc04.test01.vumc.nl
 teamwerk.tfed.vumc.nl
 intranet.acceptatie.backend.vumc.nl
 sp-ap-radfmt2.vumc.nl
@@ -747,11 +733,10 @@ sst-ap-psc1.stage.vumc.nl
 ss-we-vraiws1.stage.vumc.nl
 sa-ap-eiwrkflw2.acc01.vumc.nl
 ss-lb-vwvrops1.stage.vumc.nl
-www.sp-dc01.vumc.nl
 imap.vumc.nl
 sp-dc09.vumc.nl
 ss-dc08.stage.vumc.nl
-www.english.vumc.nl
+english.vumc.nl
 wim.vumc.nl
 kadertool-vumc.vumc.nl
 nsg2.acc01.vumc.nl
@@ -790,7 +775,6 @@ vumc-ap-ias01.vumc.nl
 soi-dc04.ontw01infra.vumc.nl
 sp-ap-brainlab6.vumc.nl
 sp-mx-edg2.vumc.nl
-st-dc06.test01.vumc.nl
 storefront-intern-test1.vumc.nl
 ns1.gslbe.acc01.vumc.nl
 so7-dc02.ontw07.vumc.nl
@@ -827,12 +811,9 @@ sa-ap-nps1.acc01.vumc.nl
 ss-ap-vrlcm1.stage.vumc.nl
 telefoongids.acc01.vumc.nl
 sst-we-vraiws1.stage.vumc.nl
-www.preprod.vumc.nl
 vumc-mx-brh02.vumc.nl
 sa-ap-infuus1.acc01.vumc.nl
-coschappen.vumc.nl
 gxprod.fe01.vumc.nl
-ss-ap-hpov3.stage.vumc.nl
 redactie.vumc.nl
 ss-lb-psc1.stage.vumc.nl
 sst-ap-vc2.stage.vumc.nl
@@ -840,7 +821,6 @@ okcockpit.vumc.nl
 sti-dc02.test01infra.vumc.nl
 ts.tfed.vumc.nl
 mx4.vumc.nl
-www.vitalitystar.vumc.nl
 storefront-intern-test2.vumc.nl
 citrixdirector.ontw01infra.vumc.nl
 sa-dc02.acc01.vumc.nl
@@ -865,7 +845,6 @@ studc-01.stu.vumc.nl
 ss-ap-vrops4.stage.vumc.nl
 ss-dc02.stage.vumc.nl
 lss-ap-vrli2.stage.vumc.nl
-sp-rs-bi11.vumc.nl
 sp-ap-ise01.vumc.nl
 sp-ap-mitunnel2.vumc.nl
 sp-ap-eiwrkflw-lb.vumc.nl

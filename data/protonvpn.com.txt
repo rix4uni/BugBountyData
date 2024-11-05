@@ -1,4 +1,3 @@
-*.protonvpn.com
 account.protonvpn.com
 ch-301.protonvpn.com
 de-994.protonvpn.com
@@ -37,9 +36,6 @@ us-ca-11.protonvpn.com
 us-free.protonvpn.com
 webrtc-test.protonvpn.com
 wikidc4v2a.protonvpn.com
-www.protonvpn.com
-www.forum.protonvpn.com
-www.partners.protonvpn.com
 account-api.protonvpn.com
 download.protonvpn.com
 ip.protonvpn.com
@@ -1832,6 +1828,5 @@ ch-au-01.protonvpn.com
 ae-01.protonvpn.com
 nl-152.protonvpn.com
 dmca-protection.protonvpn.com
-*.join.protonvpn.com
 join.protonvpn.com
 join-api.protonvpn.com

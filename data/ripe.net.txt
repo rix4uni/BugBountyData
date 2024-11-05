@@ -118,7 +118,6 @@ authdns.ripe.net
 arin.authdns.ripe.net
 pri.authdns.ripe.net
 apnic.authdns.ripe.net
-www.ripe.net
 dyndns.atlas.ripe.net
 lacnic.authdns.ripe.net
 topology4.dyndns.atlas.ripe.net
@@ -15564,7 +15563,6 @@ worker122.cake.ripe.net
 eqix3-0104-f-08.hdp1.ripe.net
 _382e9b05f1089f37e5c199df9dcb93cd.rc.db.ripe.net
 worker68.ursa.ripe.net
-.ripe.net
 amsterdam.ripe.net
 rs.ripe.net
 4042.ripe.net
@@ -15939,7 +15937,6 @@ probev4.ripe.net
 qtstreamer.ripe.net
 meetingsoft.ripeadm.ripe.net
 ripelabs.ripe.net
-.ripemtg.ripe.net
 stats.ripemtg.ripe.net
 test-ripemtg.ripe.net
 test-.ripemtg.ripe.net
@@ -15992,7 +15989,6 @@ www-pre-solr-ha.ripe.net
 www-pre-plone-5.ripe.net
 www-solr.ripe.net
 www-pre-solr.ripe.net
-www.atlas.ripe.net
 www-meetings.ripe.net
 www-pre-apps-2.ripe.net
 www-plone-3.ripe.net
@@ -16070,7 +16066,6 @@ loki.it-general-prod.aws.ripe.net
 www-pre-plone-8.ripe.net
 ws-www-pre-plone3.ripe.net
 www-pre-db-8.ripe.net
-www.ris.ripe.net
 ns1.ke-nbo.k.ripe.net
 www-pre-plone-6.ripe.net
 ipmap.atlas-dev.aws.ripe.net
@@ -16116,7 +16111,6 @@ www-plone-1.ripe.net
 ws-www-pre-plone-data.ripe.net
 ns1.mf-sfg.k.ripe.net
 www-plone-4.ripe.net
-www.ipv6eyechart.ripe.net
 ws-www-mon1.ripe.net
 www-db-1.ripe.net
 www-pre-cache-1.ripe.net
@@ -16142,7 +16136,6 @@ ws-www-pre-plone4.ripe.net
 ws-www-plone3-data.ripe.net
 ws-www-pre-plone.ripe.net
 ws-www-plone2.ripe.net
-www.db.ripe.net
 www-pre-plone-7.ripe.net
 alertmanager.swe-db-dev.ripe.net
 www-solr-2.prepdev.ripe.net
@@ -16154,7 +16147,6 @@ db-www3.ripe.net
 www-pre-front-1.ripe.net
 www-int.ripe.net
 www2.ripe.net
-*.makstest.review.swe-rpki-dev.aws.ripe.net
+makstest.review.swe-rpki-dev.aws.ripe.net
 beta-ui.atlas.dev.ripe.net
 de-fra-as20676.anchors.atlas.ripe.net
-*.ripe.net

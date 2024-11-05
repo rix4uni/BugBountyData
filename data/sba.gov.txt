@@ -1,9 +1,6 @@
 learning.sba.gov
 ascent.sba.gov
-*.learning.sba.gov
-*.learn.sba.gov
 learn.sba.gov
-*.ascent.sba.gov
 ui.dsmcluster.sba.gov
 dsmcluster.sba.gov
 app.dsmcluster.sba.gov
@@ -631,10 +628,5 @@ base.ascent.www.sba.gov
 rapidsba2.sba.gov
 ca0wcmem.sba.gov
 sandbox.rulesengine.veterans.certify.sba.gov
-*.api.sba.gov
-www.odaappsportaldev.sba.gov
 odappsportaltest.sba.gov
-www.odappsportaltest.sba.gov
-www.odaappsportaltest.sba.gov
-www.sba.gov
 www2.sba.gov

@@ -3,7 +3,6 @@ staging.performanceiq.cbre.com
 qa.performanceiq.cbre.com
 dr.api.performanceiq.cbre.com
 staging-api.performanceiq.cbre.com
-www.staging-api.performanceiq.cbre.com
 api.dev.performanceiq.cbre.com
 dev.performanceiq.cbre.com
 api.qa.performanceiq.cbre.com
@@ -13,5 +12,3 @@ preprod.performanceiq.cbre.com
 prepord-api.performanceiq.cbre.com
 dev.api.performanceiq.cbre.com
 qa.api.performanceiq.cbre.com
-*.performanceiq.cbre.com
-*.staging.performanceiq.cbre.com

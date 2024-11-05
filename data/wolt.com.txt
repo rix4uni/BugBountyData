@@ -68,9 +68,6 @@ prometheus-main-thanos-sidecar.wolt.com
 gettest.wolt.com
 daas-internal-api.wolt.com
 l.wolt.com
-*.dd-internal.wolt.com
-*.eu-dd-internal.wolt.com
-*.internal.wolt.com
 eu-dd-internal.wolt.com
 wiki.wolt.com
 jenkins.wolt.com
@@ -81,10 +78,8 @@ dev2.k.wolt.com
 atlantis-sandbox.prod.fg.wolt.com
 webflow.wolt.com
 vpn.wolt.com
-www.designdelivered.wolt.com
 auth.wolt.com
 status.wolt.com
-www.wolt.com
 _amazonses.wolt.com
 prod-nginx-ingress-internal.wolt.com
 life.wolt.com
@@ -164,7 +159,6 @@ broker.wolt.com
 courier-api.wolt.com
 old-communications-service.wolt.com
 reconciliation-service.wolt.com
-www.press.wolt.com
 document-service.wolt.com
 prodinfo.wolt.com
 liveops-api.wolt.com

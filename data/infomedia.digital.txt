@@ -33,7 +33,7 @@ maputnik.infomedia.digital
 bam20-map-rep.infomedia.digital
 arch.infomedia.digital
 s3.minio-museum.infomedia.digital
-www.museum.infomedia.digital
+museum.infomedia.digital
 strapi.infomedia.digital
 cmca-back.infomedia.digital
 launcher.infomedia.digital
@@ -50,13 +50,12 @@ tiles.infomedia.digital
 admin.tmp-plenka.infomedia.digital
 build.infomedia.digital
 bam20-his-mob.infomedia.digital
-museum.infomedia.digital
 sort-station-mobile-dev.infomedia.digital
 bam20-map-dev.infomedia.digital
 foto-storage.infomedia.digital
 econom-sim-rzd.infomedia.digital
 bam20-his.infomedia.digital
-www.scripts.infomedia.digital
+scripts.infomedia.digital
 kostroma-web.infomedia.digital
 pereslavl-dev.infomedia.digital
 bam20-map.infomedia.digital

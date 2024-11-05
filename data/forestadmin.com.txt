@@ -8,7 +8,6 @@ api.forestadmin.com
 blog.forestadmin.com
 app.forestadmin.com
 webflow.forestadmin.com
-www.forestadmin.com
 demo.forestadmin.com
 trail.forestadmin.com
 us.forestadmin.com
@@ -17,7 +16,6 @@ status.forestadmin.com
 public-api.staging.forestadmin.com
 public-api.forestadmin.com
 app.staging.forestadmin.com
-*.forestadmin.com
 api.staging.forestadmin.com
 app.future.forestadmin.com
 beta.forestadmin.com

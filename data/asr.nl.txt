@@ -1,5 +1,4 @@
 mijnpensioen.asr.nl
-www.mijnpensioen.asr.nl
 ockto-figlo-clientauth.asr.nl
 ockto-figlo-clientauth-at.asr.nl
 test1.azure.asr.nl
@@ -12,12 +11,10 @@ inkomen-s.asrcockpit.azure.asr.nl
 inkomen.lowcode-s.azure.asr.nl
 manoutsys.lowcode-s.azure.asr.nl
 zorg.lowcode-s.azure.asr.nl
-*.api.azure.asr.nl
+api.azure.asr.nl
 test.azure.asr.nl
 sitecoreheadless.azure.asr.nl
-*.sitecoreheadless.azure.asr.nl
 sitecoreheadless-a.azure.asr.nl
-*.sitecoreheadless-a.azure.asr.nl
 profisee-o.azure.asr.nl
 incentives.asr.nl
 crp-shareprice.api-o.azure.asr.nl

@@ -1,10 +1,9 @@
-*.larksuite.com
-*.cn.larksuite.com
-*.jp.larksuite.com
-*.mail.larksuite.com
-*.open.larksuite.com
-*.sg.larksuite.com
-*.us.larksuite.com
+cn.larksuite.com
+jp.larksuite.com
+mail.larksuite.com
+open.larksuite.com
+sg.larksuite.com
+us.larksuite.com
 100.230.127.209.bc.larksuite.com
 147.230.127.209.bc.larksuite.com
 190.230.127.209.bc.larksuite.com
@@ -65,7 +64,6 @@ c1ey4wdv9g.larksuite.com
 c3ouui9ith1.larksuite.com
 c787vqvq1c.larksuite.com
 caber9uwxj.larksuite.com
-cn.larksuite.com
 d1j6o7i1b0.larksuite.com
 db2iqbf10c9.larksuite.com
 dco8gpdo97g.larksuite.com
@@ -128,7 +126,6 @@ jdvbazth76l.larksuite.com
 jed1sbtwnyq.larksuite.com
 jejzed5f52.larksuite.com
 joiv3xgns1.larksuite.com
-jp.larksuite.com
 jwtivixf70.larksuite.com
 jyjycn7lsu.larksuite.com
 jyvmetcg8r.larksuite.com
@@ -155,7 +152,6 @@ lvc-data.larksuite.com
 m1.larksuite.com
 m2.larksuite.com
 m3j6le2mr1.larksuite.com
-mail.larksuite.com
 mail-api.larksuite.com
 mail01.newsletter.larksuite.com
 malj5hpzrz.larksuite.com
@@ -197,7 +193,6 @@ o1.ptr2181.service.larksuite.com
 o12.ptr9896.larksuite.com
 o4mou1xtjf.larksuite.com
 oodhafp442.larksuite.com
-open.larksuite.com
 oxcssa.larksuite.com
 passport.larksuite.com
 pftx5ssb7v.larksuite.com
@@ -241,7 +236,6 @@ saltalk18.larksuite.com
 sczt2nuji8u.larksuite.com
 security.larksuite.com
 service.larksuite.com
-sg.larksuite.com
 sk6ank0ru5.larksuite.com
 slardar-bd.larksuite.com
 smtp.larksuite.com
@@ -290,7 +284,6 @@ u04.bc.larksuite.com
 u05.bc.larksuite.com
 u06.bc.larksuite.com
 u8u0cj6ujlr.jp.larksuite.com
-us.larksuite.com
 uxd2kwgwd7.larksuite.com
 uxl1iogetk.larksuite.com
 uyn8r33ucr.larksuite.com
@@ -306,9 +299,6 @@ vvmazpmvs7.larksuite.com
 vz2hwosd3i.larksuite.com
 w7jxs34vkr.larksuite.com
 wiyeg0wln5.larksuite.com
-www.larksuite.com
-www.blog.larksuite.com
-www.internal-api-lark-api.larksuite.com
 x8xvr0zt6d.larksuite.com
 xcotjdhxj4a.larksuite.com
 xenj9pwmvl.larksuite.com
@@ -1533,9 +1523,7 @@ wrizgjh3hd.larksuite.com
 wsqlm45o.bc.larksuite.com
 www-jp.larksuite.com
 www-lyamure-ru.bc.larksuite.com
-www.jp.larksuite.com
-www.sg.larksuite.com
-www.vqndq6vqzg.larksuite.com
+vqndq6vqzg.larksuite.com
 www55-4-5.bc.larksuite.com
 wwwgasedir.jp.larksuite.com
 wxsmokepinwww.bc.larksuite.com
@@ -2734,7 +2722,7 @@ teleperformance.larksuite.com
 238.231.127.209.bc.larksuite.com
 aifc9jf5kp.larksuite.com
 84.230.127.209.bc.larksuite.com
-www.verkehr.larksuite.com
+verkehr.larksuite.com
 uroaqeba9m.larksuite.com
 21.231.127.209.bc.larksuite.com
 myhome.larksuite.com
@@ -10521,7 +10509,6 @@ mx84.larksuite.com
 eth2.larksuite.com
 12.larksuite.com
 tw.larksuite.com
-verkehr.larksuite.com
 g2mti1ilzhm.larksuite.com
 dhcp-33-181.larksuite.com
 bucket-staging.larksuite.com
@@ -12471,6 +12458,5 @@ fr-lt01ioos.larksuite.com
 carrelagesalledebain.larksuite.com
 f-m.larksuite.com
 administratorhello.larksuite.com
-*.my.larksuite.com
 ahachatter.sg.larksuite.com
 og5oyyzeab6.sg.larksuite.com

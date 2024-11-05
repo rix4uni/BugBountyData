@@ -42,7 +42,6 @@ kiali.uksouth.dev.devtest.animalfriends.co.uk
 simon-hutton.dev.devtest.corp.animalfriends.co.uk
 nathan-ayling.dev.devtest.corp.animalfriends.co.uk
 app.skense.dev.devtest.animalfriends.co.uk
-www.animalfriends.co.uk
 app.skense.animalfriends.co.uk
 ryan-lewis.dev.devtest.corp.animalfriends.co.uk
 portal.ap.devtest.animalfriends.co.uk
@@ -190,4 +189,3 @@ management.devtest.animalfriends.co.uk
 dev.animalfriends.co.uk
 link.animalfriends.co.uk
 redgate.test.devtest.animalfriends.co.uk
-*.dev.animalfriends.co.uk

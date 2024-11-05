@@ -66,7 +66,7 @@ kodakblack.tidal.com
 xadmin.tidal.com
 image-sandbox.tidal.com
 host-36.tidal.com
-www.lookdeeper.tidal.com
+lookdeeper.tidal.com
 dockertest.tidal.com
 bamboo.tidal.com
 sirpackalot.tidal.com
@@ -82,7 +82,6 @@ bisadmin.tidal.com
 sonos-test.tidal.com
 dm.tidal.com
 vault.tidal.com
-www.support.tidal.com
 signupnode2.tidal.com
 api-cache.tidal.com
 en-pr-ak.audio.tidal.com
@@ -195,7 +194,6 @@ bi-console.tidal.com
 blackball.tidal.com
 stage.tidal.com
 ab-pr-hw.audio.tidal.com
-www.tidal.com
 tidal-web-0019.tidal.com
 connectqueue-rds.tidal.com
 openapi-lb.tidal.com
@@ -239,7 +237,6 @@ airflow.tidal.com
 info.stage.tidal.com
 embed.stage.tidal.com
 testsite.tidal.com
-lookdeeper.tidal.com
 sp-pr-cf-ext.stage.audio.tidal.com
 bigmouth.stage.tidal.com
 dm-lknsdcsjs.tidal.com
@@ -310,6 +307,4 @@ vmz-ad-cf.video.tidal.com
 discourse.tidal.com
 stage.openapi.tidal.com
 sms.tidal.com
-*.manifest.stage.tidal.com
-*.manifest.tidal.com
 my.stage.tidal.com

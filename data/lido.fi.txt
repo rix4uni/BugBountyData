@@ -1,10 +1,8 @@
-*.lido.fi
-*.dev.lido.fi
-*.testnet.lido.fi
+dev.lido.fi
+testnet.lido.fi
 blog.lido.fi
 careers.lido.fi
 dao-agreements.lido.fi
-dev.lido.fi
 docs.lido.fi
 docs.cosmos.lido.fi
 docs.kusama.lido.fi
@@ -27,10 +25,8 @@ scorecard.lido.fi
 stake.lido.fi
 staking-modules.lido.fi
 static.lido.fi
-testnet.lido.fi
 ui.lido.fi
 ui-blocks.lido.fi
-www.lido.fi
 help.lido.fi
 referral.lido.fi
 airdrop.lido.fi

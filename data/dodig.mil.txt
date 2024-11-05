@@ -1,4 +1,4 @@
-*.transfer.dodig.mil
+transfer.dodig.mil
 _dmarc.dodig.mil
 _dmarc.damis.dodig.mil
 _dmarc.foia.dodig.mil
@@ -3391,13 +3391,11 @@ rev.dodig.mil
 sslvpn.dodig.mil
 st-155-19-105-92.rev.dodig.mil
 static-155-212-13-112-154.rev.dodig.mil
-transfer.dodig.mil
 voltage-pp-0000.dodig.mil
 vpn.dodig.mil
 vpn.coop.dodig.mil
 wolf.dodig.mil
-www.dodig.mil
-www.dodhotline.dodig.mil
+dodhotline.dodig.mil
 214-9-128-101.rev.dodig.mil
 214-9-128-12.rev.dodig.mil
 214-9-128-22.rev.dodig.mil
@@ -3551,8 +3549,7 @@ host-214-9-143-230.rev.dodig.mil
 host-214-9-143-253.rev.dodig.mil
 host-214-9-143-75.rev.dodig.mil
 host-214-9-143-85.rev.dodig.mil
-dodhotline.dodig.mil
-www.access.dodig.mil
+access.dodig.mil
 604-8567www.dodig.mil
 search.dodig.mil
 infolink.dodig.mil

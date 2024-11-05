@@ -1,7 +1,6 @@
 vercel.whispir.com
 sparx-message-gateway.ap1.whispir.com
 sparx-message-gateway.us.whispir.com
-www.whispir.com
 sparx-message-gateway.au.whispir.com
 vercel-stage.whispir.com
 stage.whispir.com
@@ -44,7 +43,7 @@ workflows.whispir.com
 workflows-api.whispir.com
 identity.whispir.com
 hello.whispir.com
-www.support.whispir.com
+support.whispir.com
 wzc8cqhiqpasd.whispir.com
 developers.whispir.com
 workhealthgroup.au.whispir.com
@@ -59,7 +58,6 @@ accounts-api.whispir.com
 message-gateway-schema-dev.us.whispir.com
 message-gateway-schema-stage.us.whispir.com
 developer.au.whispir.com
-www.developer.au.whispir.com
 content.au.whispir.com
 content-api.au.whispir.com
 content.ap1.whispir.com

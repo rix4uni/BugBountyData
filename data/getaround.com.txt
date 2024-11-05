@@ -41,7 +41,7 @@ flag-tow.eng.connect.getaround.com
 foobar.wat.g3staging.getaround.com
 api.sensordb.connect.getaround.com
 uk.getaround.com
-www.g3staging.getaround.com
+g3staging.getaround.com
 grafana.devops.prod.getaround.com
 community.be.getaround.com
 community.fr.be.getaround.com
@@ -116,7 +116,6 @@ fr.getaround.com
 0.index.getaround.com
 1.index.getaround.com
 jobs.getaround.com
-g3staging.getaround.com
 puppet.eng.connect.getaround.com
 carkit3.g3staging.getaround.com
 de.getaround.com
@@ -187,7 +186,6 @@ ll.getaround.com
 na-tolls.platform.prod.getaround.com
 presse-fr.getaround.com
 legacy.www.getaround.com
-www.legacy.g3staging.getaround.com
 press-es.getaround.com
 mobile.getaround.com
 cobalt-assets.getaround.com
@@ -208,7 +206,6 @@ api.exosense.connect.prod.getaround.com
 profesionales.getaround.com
 docs.getaround.com
 007.getaround.com
-www.getaround.com
 villes.getaround.com
 web.getaround.com
 guarantee-program-lbc.getaround.com
@@ -220,16 +217,5 @@ charges-charges.platform.prod.getaround.com
 go.getaround.com
 jenkins.devops.stage.getaround.com
 scim.getaround.com
-www.wat.g3staging.getaround.com
 no.bobil.getaround.com
 no.business.getaround.com
-*.admin.g3staging.getaround.com
-*.api.g3staging.getaround.com
-*.data.g3staging.getaround.com
-*.g3staging.getaround.com
-*.getaround.com
-*.health.g3staging.getaround.com
-*.images.g3staging.getaround.com
-*.services.g3staging.getaround.com
-*.spirit.g3staging.getaround.com
-*.www.g3staging.getaround.com

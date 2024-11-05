@@ -1,10 +1,6 @@
 resources.littlehotelier.com
-*.resources.littlehotelier.com
 downloads.littlehotelier.com
-*.downloads.littlehotelier.com
 signup.littlehotelier.com
-*.signup.littlehotelier.com
-*.littlehotelier.com
 helpcentre.littlehotelier.com
 learn.littlehotelier.com
 application.littlehotelier.com
@@ -22,5 +18,4 @@ insights.littlehotelier.com
 wapps.littlehotelier.com
 authx.littlehotelier.com
 enterprise.littlehotelier.com
-*.login.littlehotelier.com
 discover.littlehotelier.com

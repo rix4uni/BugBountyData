@@ -1,5 +1,4 @@
 secure.resol.de
-*.secure.resol.de
 discovery.resol.de
 mail-test.resol.de
 dashboard.resol.de
@@ -7,7 +6,6 @@ dashboards.resol.de
 dashboard-devel.resol.de
 images.resol.de
 www-02.resol.de
-www.resol.de
 rosa-intern.resol.de
 steve-01.resol.de
 stylesheets.resol.de

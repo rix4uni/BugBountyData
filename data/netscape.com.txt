@@ -1,8 +1,8 @@
-*.helpconnect.netscape.com
-*.helpisp.netscape.com
-*.isp.netscape.com
-*.myaccount.netscape.com
-*.paymentsconnect.netscape.com
+helpconnect.netscape.com
+helpisp.netscape.com
+isp.netscape.com
+myaccount.netscape.com
+paymentsconnect.netscape.com
 250aisp.netscape.com
 ab.ncmail.netscape.com
 about.netscape.com
@@ -169,11 +169,9 @@ hat.netscape.com
 health.netscape.com
 help.netscape.com
 help.isp.netscape.com
-helpconnect.netscape.com
 helpconnect.dev.netscape.com
 helpconnect.qa.netscape.com
 helpconnect.stage.netscape.com
-helpisp.netscape.com
 helpisp.dev.netscape.com
 helpisp.qa.netscape.com
 helpisp.stage.netscape.com
@@ -193,7 +191,6 @@ ideveloper.netscape.com
 info.netscape.com
 install-config.netscape.com
 insweb.netscape.com
-isp.netscape.com
 isp-dev.netscape.com
 isp-dev-preview.netscape.com
 isp-mtc.netscape.com
@@ -232,7 +229,6 @@ movies.netscape.com
 mp.netscape.com
 music.netscape.com
 my.netscape.com
-myaccount.netscape.com
 myaccount-black.isp.netscape.com
 myaccount-black.isp.gmyaccount-black.isp.netscape.com
 myaccount-mtc.isp.netscape.com
@@ -275,7 +271,6 @@ oidc.connect.netscape.com
 oidc.myaccount.netscape.com
 oidc.paymentsconnect.netscape.com
 payment.netscape.com
-paymentsconnect.netscape.com
 paymentsconnect.dev.netscape.com
 paymentsconnect.qa.netscape.com
 paymentsconnect.stage.netscape.com
@@ -450,13 +445,8 @@ webmail.netscape.com
 websitegarage.netscape.com
 women.netscape.com
 wp.netscape.com
-www.netscape.com
 www-de.netscape.com
 www-rl.netscape.com
-www.browser.netscape.com
-www.de.netscape.com
-www.ebay.netscape.com
-www.isp.netscape.com
 www101.netscape.com
 www80.netscape.com
 www91.netscape.com
@@ -580,7 +570,7 @@ help.de.netscape.com
 www67.netscape.com
 www53.netscape.com
 exciteclassifieds.netscape.com
-www.ancestry.netscape.com
+ancestry.netscape.com
 www81.netscape.com
 www35.netscape.com
 homerealestate.netscape.com
@@ -601,7 +591,6 @@ enterprise.netscape.com
 merchant-int.netscape.com
 www73.netscape.com
 dirsearch.netscape.com
-www.jp.netscape.com
 home.nl.netscape.com
 financialnews.netscape.com
 home.dk.netscape.com
@@ -751,7 +740,7 @@ i77.netscape.com
 devedge.netscape.com
 ftp-euuk.netscape.com
 ftp-ashk.netscape.com
-www.workshop.netscape.com
+workshop.netscape.com
 hone.netscape.com
 smallbusiness.netscape.com
 memberdir.netscape.com
@@ -802,7 +791,6 @@ casetracker.netscape.com
 proto.netscape.com
 diy.beta.netscape.com
 i49.netscape.com
-ancestry.netscape.com
 videos.beta.netscape.com
 webcenter.ellisisland.netscape.com
 news.beta.netscape.com
@@ -1454,7 +1442,6 @@ spiral.isp.netscape.com
 ywing.isp.netscape.com
 home6.es.isp.netscape.com
 serverftp1.fi.isp.netscape.com
-.isp.netscape.com
 talkback5.isp.netscape.com
 calendar.isp.netscape.com
 de.isp.netscape.com

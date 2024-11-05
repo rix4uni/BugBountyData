@@ -18,7 +18,6 @@ apps.ionic.io
 jobs.ionic.io
 blog.ionic.io
 ions.ionic.io
-www.ionic.io
 stage.apps.ionic.io
 ideas.ionic.io
 pwa.ionic.io
@@ -36,4 +35,3 @@ try.ionic.io
 eas21.ionic.io
 docs-demo.ionic.io
 status.ionic.io
-*.ionic.io

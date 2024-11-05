@@ -1,7 +1,6 @@
 beta.thelittleclinic.com
 remoteaccess.thelittleclinic.com
 qmail.thelittleclinic.com
-www.thelittleclinic.com
 www-stage-akamai.thelittleclinic.com
 pay.thelittleclinic.com
 mail.thelittleclinic.com
@@ -20,9 +19,7 @@ tlcapps.thelittleclinic.com
 autodiscover.thelittleclinic.com
 pay-stage.thelittleclinic.com
 owa.thelittleclinic.com
-www.tlcapps.thelittleclinic.com
-www.tlcext.thelittleclinic.com
+tlcext.thelittleclinic.com
 smtp.thelittleclinic.com
 ftp.thelittleclinic.com
 pay-test2.thelittleclinic.com
-tlcext.thelittleclinic.com

@@ -25,7 +25,7 @@ dev.nonprod.nebula.warnermedia.com
 icopqa02appservice.warnermedia.com
 qaappcentralappservice2.warnermedia.com
 qaiamadminappservice1.warnermedia.com
-www.tech.warnermedia.com
+tech.warnermedia.com
 dev.dre.warnermedia.com
 nathan1.warnermedia.com
 bottomlinedev.warnermedia.com
@@ -38,7 +38,7 @@ aptos-inventory-service.aptosmw.dope.warnermedia.com
 cendp.warnermedia.com
 datahub.dev.dap.warnermedia.com
 np.wmapi.warnermedia.com
-www.admin.dev.elsportal.warnermedia.com
+admin.dev.elsportal.warnermedia.com
 xytechatlanta.warnermedia.com
 wmpw-app015215.wmad.warnermedia.com
 shopify-product-service.aptosmw-sandbox.dope.warnermedia.com
@@ -84,7 +84,7 @@ console.aqua-dev.appsec-nonprod.cso.warnermedia.com
 cnnc-awake.cso.warnermedia.com
 heimdall-old.appsec-nonprod.cso.warnermedia.com
 test11.warnermedia.com
-www.safebreach.sb.warnermedia.com
+safebreach.sb.warnermedia.com
 argmediaproxy02.warnermedia.com
 podest1.desktopcloud.warnermedia.com
 cso.warnermedia.com
@@ -101,7 +101,7 @@ teest.warnermedia.com
 onboard-aqua.appsec.cso.warnermedia.com
 partnerhub.warnermedia.com
 wmttservice.warnermedia.com
-www.cnn-prod-gateway.warnermedia.com
+cnn-prod-gateway.warnermedia.com
 heimdall-new.appsec.cso.warnermedia.com
 monitoring-service.aptosmw.dope.warnermedia.com
 dope.roadmap.warnermedia.com
@@ -115,13 +115,13 @@ test14.warnermedia.com
 tenebleio.cso.warnermedia.com
 mailmigration.warnermedia.com
 aptos-product-service.aptosmw-sandbox.dope.warnermedia.com
-www.cnn-qa-gateway.warnermedia.com
+cnn-qa-gateway.warnermedia.com
 qa-auth.pa-dev.warnermedia.com
 heimdall-oss.appsec-nonprod.cso.warnermedia.com
 pass.warnermedia.com
 sandbox.brandcenter.warnermedia.com
 thv.wb.com.thv.warnermedia.com
-www.2021csrimpactreport.warnermedia.com
+2021csrimpactreport.warnermedia.com
 ecservicesqa.warnermedia.com
 monitoring-service.aptosmw-sandbox.dope.warnermedia.com
 dev-braavos.warnermedia.com
@@ -129,7 +129,6 @@ fusion.warnermedia.com
 taxprocessor.commerce.warnermedia.com
 test-oct.warnermedia.com
 apacldaps.wmad.warnermedia.com
-cnn-prod-gateway.warnermedia.com
 desktopcloud5.warnermedia.com
 dev.cognito.watch.thv.warnermedia.com
 expmgmt.svc.galileo.warnermedia.com
@@ -149,7 +148,7 @@ prodwestiamservicesappservice2.warnermedia.com
 qaaupappservice1.warnermedia.com
 tiuat.looker.warnermedia.com
 analytics1-cnnc.awake.cso.warnermedia.com
-www.uat.elsportal.warnermedia.com
+uat.elsportal.warnermedia.com
 trw-lsbcluster02.wmad.warnermedia.com
 api.wbsttcallcentre.warnermedia.com
 splunk-ds.dmz.wmcso.warnermedia.com
@@ -170,7 +169,6 @@ mydasprod.warnermedia.com
 int.core.nebula.warnermedia.com
 atl-vdi-tert.warnermedia.com
 pressroom.warnermedia.com
-tech.warnermedia.com
 dev.elsportal.warnermedia.com
 admin-deliver.warnermedia.com
 argmediaproxy2.warnermedia.com
@@ -200,7 +198,7 @@ iamqa.warnermedia.com
 qa.assets.watch.thv.warnermedia.com
 qaiamadminappservice2.warnermedia.com
 elsportal.warnermedia.com
-www.wm360.warnermedia.com
+wm360.warnermedia.com
 git.wmedia.reverse-proxy.appsec.cso.warnermedia.com
 aaajenkins.warnermedia.com
 expmgmt.api.galileo.warnermedia.com
@@ -298,7 +296,6 @@ hyengldap.warnermedia.com
 pyxis.dev.dap.warnermedia.com
 qa.standards.dope.warnermedia.com
 talentsource.warnermedia.com
-www.dev.elsportal.warnermedia.com
 devdap-jenkins.warnermedia.com
 looker-dev.nonprod-dapapps.warnermedia.com
 msc-common-docs.warnermedia.com
@@ -317,7 +314,7 @@ iamservicesqa.warnermedia.com
 msctosca.wmad.warnermedia.com
 recommendation.api.helena-beta.warnermedia.com
 wmpw-app014161.wmad.warnermedia.com
-www.survey.warnermedia.com
+survey.warnermedia.com
 shopify-order-service.aptosmw-sandbox.dope.warnermedia.com
 qamfaappservice1.warnermedia.com
 zendesklag.warnermedia.com
@@ -340,7 +337,7 @@ artemis.appsec.cso.warnermedia.com
 eqix-da1.warnermedia.com
 inference.helena-beta.warnermedia.com
 registry.aqua.wmcso.warnermedia.com
-www.preview.thv.warnermedia.com
+preview.thv.warnermedia.com
 docs.appsec-nonprod.cso.warnermedia.com
 contractors-mia.gp.cso.warnermedia.com
 max-irr.prod-dapapps.warnermedia.com
@@ -361,7 +358,7 @@ ar1vlogjamv1.warnermedia.com
 artemis-ui.appsec.cso.warnermedia.com
 b2b.dope.warnermedia.com
 spsitetest.warnermedia.com
-www.thv.warnermedia.com
+thv.warnermedia.com
 submitmobile-api.warnermedia.com
 acc-squid-1.cso.warnermedia.com
 test33.warnermedia.com
@@ -396,7 +393,6 @@ api.covidtracker.warnermedia.com
 aws-ld-wbd-us-sandbox-1.sandbox.sdlp.warnermedia.com
 dsscomp2021.warnermedia.com
 istio.beta.dap.warnermedia.com
-admin.dev.elsportal.warnermedia.com
 alation.warnermedia.com
 feast.beta.dap.warnermedia.com
 services.warnermedia.com
@@ -417,7 +413,6 @@ qacapappservice01.warnermedia.com
 rapp.warnermedia.com
 api.helena-beta.warnermedia.com
 gp.warnermedia.com
-cnn-qa-gateway.warnermedia.com
 sspm-rsa.warnermedia.com
 ar1vmediap02.warnermedia.com
 dev.b2b.dope.warnermedia.com
@@ -566,7 +561,6 @@ brian-api.warnermedia.com
 podest3.desktopcloud.warnermedia.com
 preview.tableau.east.warnermedia.com
 qa.audit.content.warnermedia.com
-www.elsportal.warnermedia.com
 qa.grafana.prism.warnermedia.com
 appstreamprod.warnermedia.com
 spoosdev.warnermedia.com
@@ -576,7 +570,6 @@ wmpw-inf012565.wmad.warnermedia.com
 cnn-prod-dd-cs.warnermedia.com
 atom-dev.warnermedia.com
 prod-looker.warnermedia.com
-safebreach.sb.warnermedia.com
 submitmobile-auth-staging.dope.warnermedia.com
 wmpw-inf013615.wmad.warnermedia.com
 o730.ptr9660.jobalerts.warnermedia.com
@@ -599,7 +592,7 @@ github.appsec.cso.warnermedia.com
 hy-vdi-remote.warnermedia.com
 qa-cnn-curator.warnermedia.com
 git-dev.homebox.reverse-proxy.appsec.cso.warnermedia.com
-www.admin.elsportal.warnermedia.com
+admin.elsportal.warnermedia.com
 stage.api.audit.content.warnermedia.com
 epg.tapkit.warnermedia.com
 dev.content.tech.warnermedia.com
@@ -623,7 +616,6 @@ wmdw-inf015047.wmad.warnermedia.com
 xempt-staging.warnermedia.com
 ldaps.wmad.warnermedia.com
 prodwestiamservicesappservice1.warnermedia.com
-survey.warnermedia.com
 wmpw-inf012566.wmad.warnermedia.com
 airflow-beta.warnermedia.com
 looker-beta.nonprod-dapapps.warnermedia.com
@@ -644,7 +636,6 @@ batmanapp.wcet-aio.warnermedia.com
 dev.darkseid.warnermedia.com
 hytwsbcrwa21.warnermedia.com
 onboarding.warnermedia.com
-www.dev.thv.warnermedia.com
 screentrack-staging.warnermedia.com
 iamadminqa.warnermedia.com
 prod-prism.warnermedia.com
@@ -675,7 +666,6 @@ app.helena.warnermedia.com
 azkaban.warnermedia.com
 dev.api.covidtracker.warnermedia.com
 prensa.warnermedia.com
-preview.thv.warnermedia.com
 wmms.warnermedia.com
 desktopcloud2.warnermedia.com
 qa.api.wbsttcallcentre.warnermedia.com
@@ -686,7 +676,6 @@ dap.warnermedia.com
 aptosmw-sandbox.dope.warnermedia.com
 codecloud.reverse-proxy.appsec.cso.warnermedia.com
 ramp.helena-dev.warnermedia.com
-www.tapkit.warnermedia.com
 ppl.warnermedia.com
 experimentation.galileo.warnermedia.com
 metaflow.dap.warnermedia.com
@@ -780,7 +769,6 @@ variant-api.aptosmw.dope.warnermedia.com
 api.audit.content.warnermedia.com
 appvoleast.warnermedia.com
 briandev.warnermedia.com
-thv.warnermedia.com
 crf.warnermedia.com
 aaanextgen-qa.warnermedia.com
 auth.portal.warnermedia.com
@@ -802,7 +790,6 @@ tenableio.cso.warnermedia.com
 airflow.di.dap.warnermedia.com
 apps.warnermedia.com
 rstudiopm.warnermedia.com
-www.warnermedia.com
 uat.blueprint.warnermedia.com
 locust.helena-beta.warnermedia.com
 mediaproxytest.warnermedia.com
@@ -825,9 +812,7 @@ beta-kibana.warnermedia.com
 prodwestaupappservice1.warnermedia.com
 ec.warnermedia.com
 splunk-ds-prod-1.cso.warnermedia.com
-www.cnn-prod-dd-cs.warnermedia.com
-www.cnn-qa-dd-cs.warnermedia.com
-www.dev.survey.warnermedia.com
+dev.survey.warnermedia.com
 outboundsmtp-prod.contentprotection.warnermedia.com
 artemis-old.appsec-nonprod.cso.warnermedia.com
 app.helena-dev.warnermedia.com
@@ -845,7 +830,6 @@ fieldglass.warnermedia.com
 wmpw-inf014469.wmad.warnermedia.com
 spy-staging.warnermedia.com
 artemis-ui.appsec-nonprod.cso.warnermedia.com
-dev.survey.warnermedia.com
 morph.warnermedia.com
 qa.api.pa-dev.warnermedia.com
 stage.api.roadmap.dope.warnermedia.com
@@ -872,7 +856,6 @@ mediaproxyfe.warnermedia.com
 test-cert1.warnermedia.com
 shopify-media-service.aptosmw.dope.warnermedia.com
 argmediaproxy16.warnermedia.com
-www.qa-cnn-curator.warnermedia.com
 dev.mstack.warnermedia.com
 apcon.cso.warnermedia.com
 hrwdev.warnermedia.com
@@ -907,7 +890,6 @@ cdn-hbomax.warnermedia.com
 nathan.warnermedia.com
 qa.api.wmswagstore.warnermedia.com
 stage.covidtracker.warnermedia.com
-www.cnn-curator.warnermedia.com
 atl-vdi-bkup.warnermedia.com
 api.wrangler.aqua.wmcso.warnermedia.com
 auth.registry.aqua.wmcso.warnermedia.com
@@ -921,7 +903,6 @@ dam.warnermedia.com
 omnivore.dmz.wmcso.warnermedia.com
 fw.cso.warnermedia.com
 nce-vip-uk.cso.warnermedia.com
-www.admin.uat.elsportal.warnermedia.com
 atom.warnermedia.com
 briandev-api.warnermedia.com
 dev.smd.warnermedia.com
@@ -975,7 +956,6 @@ qa.advault.warnermedia.com
 return-dev.warnermedia.com
 argmediaproxy22.warnermedia.com
 lockedaccounts.wmad.warnermedia.com
-wm360.warnermedia.com
 wmpw-inf012861.wmad.warnermedia.com
 splunk-hec-prod.cso.warnermedia.com
 shazam-qa.warnermedia.com
@@ -985,7 +965,6 @@ prism.warnermedia.com
 rightslogic.warnermedia.com
 uat.morph.warnermedia.com
 dev.warnermedia.com
-admin.elsportal.warnermedia.com
 docs.helena.warnermedia.com
 eze-int.gp.cso.warnermedia.com
 spdcdev.warnermedia.com
@@ -1019,7 +998,6 @@ beta.galelio.warnermedia.com
 helena-beta.warnermedia.com
 qa-originalshub.warnermedia.com
 remote-rdu.warnermedia.com
-2021csrimpactreport.warnermedia.com
 contenedores.epg.tapkit.warnermedia.com
 analyzer.appsec-nonprod.cso.warnermedia.com
 prodwesticopappservice2.warnermedia.com
@@ -1114,11 +1092,10 @@ lightning.warnermedia.com
 uat.lasso.warnermedia.com
 feast.dev.dap.warnermedia.com
 tiqa.looker.warnermedia.com
-uat.elsportal.warnermedia.com
 mydaspreprd.warnermedia.com
 qa.wbsttwallbaord.warnermedia.com
 test.ars.wmad.warnermedia.com
-www.qa.cnn-curator.warnermedia.com
+qa.cnn-curator.warnermedia.com
 dev.registration.content.warnermedia.com
 dev.advault.warnermedia.com
 stage.core.nebula.warnermedia.com
@@ -1160,5 +1137,4 @@ lbcapsuleuse1.wmad.warnermedia.com
 wbpsccmcmg.warnermedia.com
 cribl-leader-dev.nonprod.private-logs.warnermedia.com
 21csrimpactreport.warnermedia.com
-*.brandcenter.warnermedia.com
-*.dev.sdlp.warnermedia.com
+dev.sdlp.warnermedia.com

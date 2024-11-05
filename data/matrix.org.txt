@@ -1,4 +1,3 @@
-www.matrix.org
 lfs.matrix.org
 matrix-client.matrix.org
 matrix-federation.matrix.org
@@ -147,7 +146,6 @@ hebe.matrix.org
 nyx.matrix.org
 conf.matrix.org
 sentry-int.matrix.org
-*.int-http.matrix.org
 conference.matrix.org
 aliucord.matrix.org
 elpis.matrix.org

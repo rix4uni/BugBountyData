@@ -1,8 +1,7 @@
-*.teslamotors.com
-*.artifactory.teslamotors.com
-*.dev.teslamotors.com
-*.fw.teslamotors.com
-*.vn.teslamotors.com
+artifactory.teslamotors.com
+dev.teslamotors.com
+fw.teslamotors.com
+vn.teslamotors.com
 01016.teslamotors.com
 20.teslamotors.com
 20www.teslamotors.com
@@ -37,7 +36,6 @@ apvpn.teslamotors.com
 apvpn-ex.teslamotors.com
 arfsck01-edge.teslamotors.com
 argocd.private.multitenantqts.prod.k8s.teslamotors.com
-artifactory.teslamotors.com
 artifactory.dev.teslamotors.com
 attwsproxy.teslamotors.com
 attwsproxy-stg.teslamotors.com
@@ -101,7 +99,6 @@ delivery-apigateway.teslamotors.com
 delivery-stg-apigateway.teslamotors.com
 delivery-stg2-apigateway.teslamotors.com
 deliveryops.teslamotors.com
-dev.teslamotors.com
 dialin.teslamotors.com
 dns.teslamotors.com
 docker-autopilot.dev.teslamotors.com
@@ -186,7 +183,6 @@ fs.teslamotors.com
 ftp.teslamotors.com
 ftp1.teslamotors.com
 fvcarriers.teslamotors.com
-fw.teslamotors.com
 garage.dev.teslamotors.com
 garage.vn.teslamotors.com
 gf-modeling-mpp.teslamotors.com
@@ -554,7 +550,6 @@ vendor-validation.teslamotors.com
 vendorvpn.teslamotors.com
 viewsvn.teslamotors.com
 vitals.dev.teslamotors.com
-vn.teslamotors.com
 voiceteams.teslamotors.com
 voltage-pp-0000.teslamotors.com
 vpn.teslamotors.com
@@ -610,7 +605,6 @@ wsproxy-cntst.teslamotors.com
 wsproxy-sdlc.teslamotors.com
 wsproxy2.teslamotors.com
 wwe-stg.teslamotors.com
-www.teslamotors.com
 www-0-lax.teslamotors.com
 www-dev.teslamotors.com
 www-origin.teslamotors.com
@@ -621,21 +615,6 @@ www-test07.teslamotors.com
 www-uat.teslamotors.com
 www-uat2.teslamotors.com
 www-uat2-my.teslamotors.com
-www.autapp01.pvg01.teslamotors.com
-www.base1wfodcs.teslamotors.com
-www.base1wfofns.teslamotors.com
-www.clearpass.teslamotors.com
-www.euvpn1.teslamotors.com
-www.garage.vn.teslamotors.com
-www.jss.teslamotors.com
-www.owner-api.teslamotors.com
-www.sftp.teslamotors.com
-www.sjc04p2autap1.teslamotors.com
-www.testcert1.teslamotors.com
-www.testcert3.teslamotors.com
-www.toolbox.teslamotors.com
-www.toolbox-external-stg.teslamotors.com
-www.wd.s3.teslamotors.com
 www03.sjc05.teslamotors.com
 www45.teslamotors.com
 wwwa.teslamotors.com
@@ -651,7 +630,6 @@ origin-deliveryops.teslamotors.com
 ipazta.teslamotors.com
 eaa-teslazero-cn-rdp.teslamotors.com
 origin-mytcore-stgsvc.teslamotors.com
-www.ir.teslamotors.com
 origin-fleetview.teslamotors.com
 origin-captive-underwriting-service.teslamotors.com
 origin-packaging-v2-ui.teslamotors.com
@@ -691,7 +669,6 @@ vmanage.teslamotors.com
 origin-upload.teslamotors.com
 origin-externalapps.teslamotors.com
 origin-externalapps-sdlc.teslamotors.com
-*.artifactory.dev.teslamotors.com
 payment-gateway-stg-ssl.teslamotors.com
 sjc04p1wwwwb38.teslamotors.com
 apigateway-dev.teslamotors.com

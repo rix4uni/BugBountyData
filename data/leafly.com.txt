@@ -98,9 +98,5 @@ cloud.leafly.com
 data.leafly.com
 mailserver.leafly.com
 web-reservations.leafly.com
-*.tableau.leafly.com
 tableau.leafly.com
-*.internal.leafly.com
 internal.leafly.com
-*.business.leafly.com
-*.leafly.com

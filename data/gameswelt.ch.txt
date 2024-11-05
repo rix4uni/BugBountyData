@@ -1,9 +1,7 @@
-www.gameswelt.ch
 stream.video.gameswelt.ch
-*.gameswelt.ch
-*.labs.gameswelt.ch
-*.stage.gameswelt.ch
-*.video.gameswelt.ch
+labs.gameswelt.ch
+stage.gameswelt.ch
+video.gameswelt.ch
 mirror.download.gameswelt.ch
 download.dev.gameswelt.ch
 assets.dev.gameswelt.ch
@@ -12,7 +10,6 @@ m.dev.gameswelt.ch
 fbia.dev.gameswelt.ch
 video.dev.gameswelt.ch
 dev.gameswelt.ch
-labs.gameswelt.ch
 video.vm.gameswelt.ch
 vm.gameswelt.ch
 assets.vm.gameswelt.ch
@@ -23,10 +20,8 @@ api.stage.gameswelt.ch
 img.stage.gameswelt.ch
 assets.stage.gameswelt.ch
 m.stage.gameswelt.ch
-stage.gameswelt.ch
 assets.gameswelt.ch
 m.gameswelt.ch
-video.gameswelt.ch
 img.gameswelt.ch
 api.gameswelt.ch
 admin.stage.gameswelt.ch

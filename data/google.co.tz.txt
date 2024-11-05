@@ -1,5 +1,5 @@
 workspace.google.co.tz
-www.adservice.google.co.tz
+adservice.google.co.tz
 groups.google.co.tz
 images.google.co.tz
 toolbarqueries.google.co.tz
@@ -18,7 +18,6 @@ ampcid.google.co.tz
 local.google.co.tz
 map.google.co.tz
 alt1.toolbarqueries.google.co.tz
-adservice.google.co.tz
 mobile.google.co.tz
 gsuite.google.co.tz
 news.google.co.tz
@@ -26,17 +25,14 @@ video.google.co.tz
 ogs.google.co.tz
 ww.google.co.tz
 labs.google.co.tz
-www.google.co.tz
 clients1.google.co.tz
 payments.google.co.tz
 image.google.co.tz
 toolbar.google.co.tz
-www.video.google.co.tz
 ns1.google.co.tz
 consent.google.co.tz
 earth.google.co.tz
 blogsearch.google.co.tz
-www.id.google.co.tz
 books.google.co.tz
 m.google.co.tz
 edu.google.co.tz
@@ -46,4 +42,3 @@ clients6.google.co.tz
 cse.google.co.tz
 ns2.google.co.tz
 translate.google.co.tz
-*.google.co.tz

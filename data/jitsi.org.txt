@@ -4,7 +4,6 @@ mail.jitsi.org
 download.jitsi.org
 meet.jitsi.org
 _dc-mx.55f6fe12aff7.lists.jitsi.org
-www.download.jitsi.org
 web.jitsi.org
 desktop.jitsi.org
 dc-23cb6641702b.jitsi.org
@@ -19,8 +18,6 @@ dev.jitsi.org
 trac.jitsi.org
 translate.jitsi.org
 ci.jitsi.org
-www.meet.jitsi.org
-www.jitsi.org
 gsoc.jitsi.org
 calendar.jitsi.org
 docs.jitsi.org
@@ -32,7 +29,6 @@ download-ci.jitsi.org
 balboa.jitsi.org
 android.jitsi.org
 dictionaries.jitsi.org
-*.jitsi.org
 cluecon.jitsi.org
 downloads.jitsi.org
 jitsi-api.jitsi.org

@@ -4,7 +4,7 @@ rake-migrations.bolagskraft.accodeing.com
 add-enum-to-expense.bolagskraft.accodeing.com
 after-migration-fixes.bolagskraft.accodeing.com
 docker.bolagskraft.accodeing.com
-www.test.hosting.accodeing.com
+test.hosting.accodeing.com
 deploy-conf--deploy.bolagskraft.accodeing.com
 natet.hosting.accodeing.com
 gatsby-testsite.hosting.accodeing.com
@@ -16,7 +16,6 @@ matrix.accodeing.com
 akram.hosting.accodeing.com
 begravningstjansthms.hosting.accodeing.com
 matomo.accodeing.com
-www.accodeing.com
 geekbeer.hosting.accodeing.com
 trip-category-translations.bolagskraft.accodeing.com
 link.accodeing.com
@@ -24,11 +23,10 @@ begravningstjansthmstest.hosting.accodeing.com
 analytics.accodeing.com
 goahander.hosting.accodeing.com
 refactoring-signed-storage-url.bolagskraft.accodeing.com
-test.hosting.accodeing.com
 trip-receipts-migration.bolagskraft.accodeing.com
 builds.hosting.accodeing.com
 development-deploy-config--deploy.bolagskraft.accodeing.com
-www.hosting.accodeing.com
+hosting.accodeing.com
 ka2.hosting.accodeing.com
 matomoo.accodeing.com
 google-cloud-cdn.accodeing.com
@@ -37,6 +35,5 @@ signed-urls-for-reading-files.bolagskraft.accodeing.com
 sweplex.accodeing.com
 testsite.hosting.accodeing.com
 staging.bolagskraft.accodeing.com
-hosting.accodeing.com
 gekbeer.hosting.accodeing.com
 support.accodeing.com

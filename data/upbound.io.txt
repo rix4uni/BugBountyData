@@ -2,9 +2,8 @@ chef.upbound.io
 argocd.5c3444ae-srv.upbound.io
 go.upbound.io
 email.upbound.io
-www.portal.upbound.io
+portal.upbound.io
 blog.upbound.io
-www.upbound.io
 mkto.upbound.io
 hello.upbound.io
 docs.upbound.io
@@ -39,9 +38,7 @@ registry.upbound.io
 api.upbound.io
 proxy.upbound.io
 vault-dev.upbound.io
-www.vault-dev.upbound.io
 helm.upbound.io
-www.cloud.upbound.io
 registry.production-db307fb0.upbound.io
 cloud.production-db307fb0.upbound.io
 static.production-db307fb0.upbound.io

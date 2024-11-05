@@ -6,7 +6,6 @@ lcs-aks-iac-prod.app.mobiliar.ch
 apv-aks-iac-prod.app.mobiliar.ch
 edc-aks-iac-prod.app.mobiliar.ch
 engineering-handbook.app.mobiliar.ch
-www.mobiliar.ch
 cloudworkplace.mobiliar.ch
 pos-aks-iac-prod.app.mobiliar.ch
 pis-aks-iac-prod.app.mobiliar.ch
@@ -153,7 +152,6 @@ mcm-dmsviewer.app.mobiliar.ch
 oms-kontrolle-auslieferung.app.mobiliar.ch
 bek-aks-iac-prod.app.mobiliar.ch
 mos-reporting.app.mobiliar.ch
-www.rechtsratgeber.mobiliar.ch
 crt-aks-iac-prod.app.mobiliar.ch
 leonteq-soap.mobiliar.ch
 leonteq-test.mobiliar.ch
@@ -184,7 +182,7 @@ gp-ext.mobiliar.ch
 lcs-transfert-b2e.app.mobiliar.ch
 mcs-aks-iac-prod.app.mobiliar.ch
 terraform.app.mobiliar.ch
-www.handwerker.mobiliar.ch
+handwerker.mobiliar.ch
 vam-verarbeitungszustand-b2e.app.mobiliar.ch
 mcf-aks-iac-prod.app.mobiliar.ch
 rwc-cli-testspab2e.app.mobiliar.ch

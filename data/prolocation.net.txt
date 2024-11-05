@@ -1,6 +1,5 @@
 meet.prolocation.net
 tb-p-web.prolocation.net
-*.tb-p-web.prolocation.net
 web246.prolocation.net
 85-119-104-250.sdb.prolocation.net
 81-23-gs-230-75-colo.prolocation.net
@@ -47,7 +46,7 @@ fruitmand.prolocation.net
 ian.prolocation.net
 rc02-delft-ek-media.prolocation.net
 vps0474.rk.prolocation.net
-www.nob-acc20.prolocation.net
+nob-acc20.prolocation.net
 85-119-110-89.sdb.prolocation.net
 gl-95132.prolocation.net
 test4.tb-a-web.prolocation.net
@@ -67,7 +66,7 @@ gs.prolocation.net
 release-dumpert.gs.prolocation.net
 spool10.prolocation.net
 surweb10.prolocation.net
-www.gw.prolocation.net
+gw.prolocation.net
 dev.www.prolocation.net
 nhg-db-float.prolocation.net
 web198.prolocation.net
@@ -132,7 +131,7 @@ jlweb10020.prolocation.net
 85-119-105-43.sdb.prolocation.net
 dhlexpress-arbiter10.prolocation.net
 gl-94074.prolocation.net
-www.office-tpm.prolocation.net
+office-tpm.prolocation.net
 81-23-gs-230-163-colo.prolocation.net
 85-119-105-81.sdb.prolocation.net
 85-119-110-150.sdb.prolocation.net
@@ -201,7 +200,7 @@ cashapp20.prolocation.net
 dnssec-test10.prolocation.net
 85-119-109-5.sdb.prolocation.net
 acc30.ag.prolocation.net
-www.tb-a-web.prolocation.net
+tb-a-web.prolocation.net
 85-119-105-41.sdb.prolocation.net
 85-119-106-109.sdb.prolocation.net
 clickp4050.prolocation.net
@@ -313,7 +312,7 @@ surblstreamproc.prolocation.net
 85-119-107-186.sdb.prolocation.net
 lb-float-pref-50.prolocation.net
 storage.prolocation.net
-www.extern.prolocation.net
+extern.prolocation.net
 85-119-104-109.sdb.prolocation.net
 85-119-110-101.sdb.prolocation.net
 gl-95100.prolocation.net
@@ -703,7 +702,6 @@ techtek-web40.prolocation.net
 85-119-109-107.sdb.prolocation.net
 85-119-110-2.sdb.prolocation.net
 gl-94083.prolocation.net
-www.bitnesswise.prolocation.net
 94-228-130-96.prolocation.net
 bastion-old.prolocation.net
 pingnode02.bbd.prolocation.net
@@ -766,7 +764,7 @@ gl-95219.prolocation.net
 gva.prolocation.net
 web10042.prolocation.net
 stan-p-proxy10.prolocation.net
-www.jlweb320.prolocation.net
+jlweb320.prolocation.net
 85-119-110-223.sdb.prolocation.net
 ask20-ipmi.prolocation.net
 ev-prd10.prolocation.net
@@ -821,7 +819,7 @@ auth.meet.prolocation.net
 avi20.prolocation.net
 gl-94088.prolocation.net
 uu-a-bachelor-db20.prolocation.net
-www.pblacc10.prolocation.net
+pblacc10.prolocation.net
 avbacc-balanced.prolocation.net
 vps0490.rk.prolocation.net
 81-23-gs-230-15-colo.prolocation.net
@@ -861,7 +859,6 @@ hadns-dlft.prolocation.net
 rsync10-ng.prolocation.net
 uu-p-master.prolocation.net
 pro202.prolocation.net
-gw.prolocation.net
 85-119-104-33.sdb.prolocation.net
 85-119-111-162.sdb.prolocation.net
 85-119-111-194.sdb.prolocation.net
@@ -895,7 +892,7 @@ vrrp-vlan-30-252.prolocation.net
 85-119-107-21.sdb.prolocation.net
 85-119-109-57.sdb.prolocation.net
 name.test0004.rk.prolocation.net
-www.meldpuntled.uu-fd-acc10.prolocation.net
+meldpuntled.uu-fd-acc10.prolocation.net
 81-23-gs-231-139-colo.prolocation.net
 85-119-104-100.sdb.prolocation.net
 85-119-104-12.sdb.prolocation.net
@@ -907,7 +904,7 @@ web185.prolocation.net
 adnode610.prolocation.net
 gl-94006.prolocation.net
 gl-94094.prolocation.net
-www.jlweb310.prolocation.net
+jlweb310.prolocation.net
 geenstijl-gw.prolocation.net
 openpeering.prolocation.net
 stroom10.prolocation.net
@@ -1074,7 +1071,7 @@ rc03-rc05-lt-10g-2.prolocation.net
 85-119-108-208.sdb.prolocation.net
 85-119-109-31.sdb.prolocation.net
 click-sfpdb10.prolocation.net
-www.anna20.prolocation.net
+anna20.prolocation.net
 85-119-105-39.sdb.prolocation.net
 85-119-110-91.sdb.prolocation.net
 85-119-111-202.sdb.prolocation.net
@@ -1138,7 +1135,7 @@ web223.prolocation.net
 85-119-111-83.sdb.prolocation.net
 lb330.prolocation.net
 web75-proxy.prolocation.net
-www.vmx03.prolocation.net
+vmx03.prolocation.net
 85-119-105-139.sdb.prolocation.net
 85-119-109-77.sdb.prolocation.net
 aveq-stream10.prolocation.net
@@ -1206,7 +1203,7 @@ lg.prolocation.net
 gl-95040.prolocation.net
 web53.prolocation.net
 clickp4010.prolocation.net
-www.old.service-devel.prolocation.net
+old.service-devel.prolocation.net
 85-119-108-109.sdb.prolocation.net
 85-119-108-139.sdb.prolocation.net
 85-119-109-227.sdb.prolocation.net
@@ -1231,7 +1228,6 @@ uu-p-studie-web20.prolocation.net
 85-119-111-178.sdb.prolocation.net
 eye-web10.prolocation.net
 smtpq-133-111.prolocation.net
-meldpuntled.uu-fd-acc10.prolocation.net
 85-119-104-156.sdb.prolocation.net
 rc01-breedband-delft-gige-1.prolocation.net
 rc04-20g-12-rc05-20g-12.prolocation.net
@@ -1258,7 +1254,7 @@ web30.gs.prolocation.net
 85-119-110-100.sdb.prolocation.net
 adnode667.prolocation.net
 xen70.prolocation.net
-www.nvz-acc10.prolocation.net
+nvz-acc10.prolocation.net
 85-119-110-103.sdb.prolocation.net
 94-228-130-107.prolocation.net
 gslb10.gs.prolocation.net
@@ -1475,7 +1471,6 @@ taal50.prolocation.net
 web230.prolocation.net
 81-23-gs-230-97-colo.prolocation.net
 gw-vlan-30.prolocation.net
-nvz-acc10.prolocation.net
 uu-p-corp-db20.prolocation.net
 whitelist-test.test0004.rk.prolocation.net
 smtpq-133-119.prolocation.net
@@ -1522,10 +1517,10 @@ stream20.bevd.prolocation.net
 flux-web40.prolocation.net
 85-119-109-46.sdb.prolocation.net
 vps0486.rk.prolocation.net
-www.status.prolocation.net
+status.prolocation.net
 85-119-109-103.sdb.prolocation.net
 db20.gh.prolocation.net
-www.express.dhl-acc10.prolocation.net
+express.dhl-acc10.prolocation.net
 jlweb32021.prolocation.net
 85-119-105-49.sdb.prolocation.net
 gl-95145.prolocation.net
@@ -1581,7 +1576,6 @@ gl-95129.prolocation.net
 v30.prolocation.net
 cdb.prolocation.net
 rc03-10g-12-rc02-8g.prolocation.net
-nob-acc20.prolocation.net
 213-206-89-189-hosted-by.prolocation.net
 81-23-gs-230-60-colo.prolocation.net
 81-23-gs-231-229-colo.prolocation.net
@@ -1602,7 +1596,7 @@ adnode740.prolocation.net
 gl-94043.prolocation.net
 rodns-signer20.prolocation.net
 web146.prolocation.net
-www.idp-demo.prolocation.net
+idp-demo.prolocation.net
 213-206-89-198-hosted-by.prolocation.net
 85-119-108-182.sdb.prolocation.net
 adnode200.prolocation.net
@@ -1648,7 +1642,6 @@ gl-94080.prolocation.net
 85-119-106-238.sdb.prolocation.net
 85-119-111-26.sdb.prolocation.net
 web02012.prolocation.net
-vmx03.prolocation.net
 85-119-105-117.sdb.prolocation.net
 85-119-109-157.sdb.prolocation.net
 85-119-109-17.sdb.prolocation.net
@@ -1692,7 +1685,6 @@ imopenx50.prolocation.net
 85-119-107-127.sdb.prolocation.net
 85-119-107-44.sdb.prolocation.net
 mailman3-test.prolocation.net
-extern.prolocation.net
 85-119-106-255.sdb.prolocation.net
 85-119-109-200.sdb.prolocation.net
 m.tnt.nl.prolocation.net
@@ -1777,7 +1769,6 @@ tb-app30.prolocation.net
 85-119-109-217.sdb.prolocation.net
 hof-relay-balanced.prolocation.net
 nhgricht-p-web10.prolocation.net
-old.service-devel.prolocation.net
 39-86-22-178.alticom.prolocation.net
 85-119-105-163.sdb.prolocation.net
 85-119-105-227.sdb.prolocation.net
@@ -1790,7 +1781,6 @@ flux-web30.prolocation.net
 gray-dev20.prolocation.net
 85-119-104-86.sdb.prolocation.net
 bastion-vlan136.prolocation.net
-tb-a-web.prolocation.net
 web23.prolocation.net
 85-119-105-74.sdb.prolocation.net
 85-119-106-210.sdb.prolocation.net
@@ -1864,7 +1854,6 @@ trix20.prolocation.net
 85-119-104-152.sdb.prolocation.net
 85-119-108-15.sdb.prolocation.net
 gl-94075.prolocation.net
-www.mailfilters.prolocation.net
 81-23-gs-230-65-colo.prolocation.net
 85-119-105-5.sdb.prolocation.net
 85-119-107-0.sdb.prolocation.net
@@ -1889,7 +1878,6 @@ ntvgweb10.prolocation.net
 taal40.prolocation.net
 85-119-105-68.sdb.prolocation.net
 85-119-108-198.sdb.prolocation.net
-idp-demo.prolocation.net
 linbuild.prolocation.net
 vrrp-vlan-135-252.prolocation.net
 web45.prolocation.net
@@ -1998,7 +1986,6 @@ smtpq-133-184.prolocation.net
 web01016.prolocation.net
 85-119-109-68.sdb.prolocation.net
 85-119-110-163.sdb.prolocation.net
-express.dhl-acc10.prolocation.net
 fw10.bbd.prolocation.net
 gl-94093.prolocation.net
 gl-95176.prolocation.net
@@ -2012,7 +1999,6 @@ mailhost30.prolocation.net
 81-23-gs-231-70-colo.prolocation.net
 85-119-109-13.sdb.prolocation.net
 85-119-110-98.sdb.prolocation.net
-anna20.prolocation.net
 eg-mannenmedia-balanced.prolocation.net
 filter20.prolocation.net
 85-119-104-118.sdb.prolocation.net
@@ -2164,7 +2150,7 @@ adnode540.prolocation.net
 signer10.prolocation.net
 stadstream.prolocation.net
 smtpq-133-98.prolocation.net
-www.idp.prolocation.net
+idp.prolocation.net
 81-23-gs-231-71-colo.prolocation.net
 85-119-105-156.sdb.prolocation.net
 85-119-107-168.sdb.prolocation.net
@@ -2301,7 +2287,7 @@ webmember10.prolocation.net
 81-23-gs-230-62-colo.prolocation.net
 85-119-105-72.sdb.prolocation.net
 rodns-signer10.prolocation.net
-www.nhgweb30.prolocation.net
+nhgweb30.prolocation.net
 web01030.prolocation.net
 85-119-105-55.sdb.prolocation.net
 94-228-gs-131-75-colo.prolocation.net
@@ -2650,7 +2636,7 @@ glweb310.prolocation.net
 smtpq-133-143.prolocation.net
 vrrp-vlan-131-252.prolocation.net
 web207.prolocation.net
-www.surblwww.prolocation.net
+surblwww.prolocation.net
 85-119-110-123.sdb.prolocation.net
 85-119-110-60.sdb.prolocation.net
 bas-test-ub2004.prolocation.net
@@ -2668,7 +2654,6 @@ surblwww-ng.prolocation.net
 wagcdi-acc10.prolocation.net
 gl-94008.prolocation.net
 gl-95202.prolocation.net
-pblacc10.prolocation.net
 85-119-109-112.sdb.prolocation.net
 alticom.prolocation.net
 cloud30.prolocation.net
@@ -2691,7 +2676,6 @@ noc-ng.prolocation.net
 85-119-109-183.sdb.prolocation.net
 bitlibre-interxion2.prolocation.net
 uu-p-bachelor-web20.prolocation.net
-www.new.service-devel.prolocation.net
 81-23-gs-231-35-colo.prolocation.net
 85-119-108-87.sdb.prolocation.net
 85-119-111-44.sdb.prolocation.net
@@ -2790,7 +2774,6 @@ web121.prolocation.net
 _webmail.prolocation.net
 85-119-111-141.sdb.prolocation.net
 web172.prolocation.net
-www.internetdk-acc20.prolocation.net
 85-119-104-27.sdb.prolocation.net
 gl-94010.prolocation.net
 uu-a-master-db10.prolocation.net
@@ -2844,7 +2827,6 @@ clickx1050.prolocation.net
 85-119-108-84.sdb.prolocation.net
 adnode470.prolocation.net
 smtpout20.tft.prolocation.net
-jlweb320.prolocation.net
 85-119-106-176.sdb.prolocation.net
 85-119-108-134.sdb.prolocation.net
 85-119-111-234.sdb.prolocation.net
@@ -3074,7 +3056,6 @@ uu-p-studie-web10.prolocation.net
 85-119-108-16.sdb.prolocation.net
 85-119-104-212.sdb.prolocation.net
 imgiso01web40.prolocation.net
-www.gl-web10.prolocation.net
 85-119-107-236.sdb.prolocation.net
 85-119-108-189.sdb.prolocation.net
 85-119-110-22.sdb.prolocation.net
@@ -3170,7 +3151,6 @@ surblportal.prolocation.net
 85-119-107-202.sdb.prolocation.net
 adbridge-balanced.prolocation.net
 85-119-111-173.sdb.prolocation.net
-www.stats.nhgstat-test10.prolocation.net
 85-119-106-15.sdb.prolocation.net
 cashbackup20.prolocation.net
 ndb1b.prolocation.net
@@ -3181,7 +3161,6 @@ gl-95057.prolocation.net
 vps0493.rk.prolocation.net
 oneshoe-appdata-balanced.prolocation.net
 vonq-db20.prolocation.net
-office-tpm.prolocation.net
 81-230-140-62-no142.tbcn.telia.30-208-colo.prolocation.net
 85-119-108-158.sdb.prolocation.net
 85-119-109-218.sdb.prolocation.net
@@ -3305,7 +3284,7 @@ wrd-gha-web20.prolocation.net
 speedy.prolocation.net
 svn.prolocation.net
 uu-p-corp-web20.prolocation.net
-www.brba-gw.bb.prolocation.net
+brba-gw.bb.prolocation.net
 85-119-106-216.sdb.prolocation.net
 85-119-108-146.sdb.prolocation.net
 85-119-111-197.sdb.prolocation.net
@@ -3417,7 +3396,6 @@ smtpq-133-144.prolocation.net
 web47-2.prolocation.net
 85-119-110-69.sdb.prolocation.net
 85-119-110-85.sdb.prolocation.net
-surblwww.prolocation.net
 85-119-111-237.sdb.prolocation.net
 85-119-105-101.sdb.prolocation.net
 85-119-106-254.sdb.prolocation.net
@@ -3426,7 +3404,6 @@ surblwww.prolocation.net
 uu-t-studie-db10.prolocation.net
 uu-p-corp.prolocation.net
 mail.prolocation.net
-www.tpm.prolocation.net
 85-119-108-121.sdb.prolocation.net
 85-119-110-24.sdb.prolocation.net
 94-228-130-109.prolocation.net
@@ -3554,8 +3531,7 @@ mer-static10.prolocation.net
 85-119-108-97.sdb.prolocation.net
 85-119-111-57.sdb.prolocation.net
 nls-balanced.prolocation.net
-www.lhv.web154.prolocation.net
-www.exaforte-app10.prolocation.net
+exaforte-app10.prolocation.net
 85-119-105-96.sdb.prolocation.net
 85-119-107-1.sdb.prolocation.net
 gl-94004.prolocation.net
@@ -3821,7 +3797,6 @@ gl-95127.prolocation.net
 81-23-gs-230-54-colo.prolocation.net
 85-119-104-251.sdb.prolocation.net
 gl-94071.prolocation.net
-www.observium-bbd.prolocation.net
 85-119-108-249.sdb.prolocation.net
 85-119-110-107.sdb.prolocation.net
 web51.prolocation.net
@@ -3841,7 +3816,6 @@ dhl-web20.prolocation.net
 bastion.bbd.prolocation.net
 81-23-gs-231-96-colo.prolocation.net
 web89.prolocation.net
-www.vmx01.prolocation.net
 85-119-107-110.sdb.prolocation.net
 85-119-108-104.sdb.prolocation.net
 dnsmonitor.prolocation.net
@@ -3964,7 +3938,6 @@ flux-web40-old.prolocation.net
 gl-95240.prolocation.net
 web50.prolocation.net
 uu-a-corp.prolocation.net
-www.rmon-ssh.prolocation.net
 85-119-104-11.sdb.prolocation.net
 gl-94028.prolocation.net
 gl-web40.prolocation.net
@@ -3984,7 +3957,6 @@ rbldns10.prolocation.net
 85-119-111-140.sdb.prolocation.net
 anna10.prolocation.net
 gl-95036.prolocation.net
-www.smtp.cc.prolocation.net
 egdb20.prolocation.net
 85-119-111-206.sdb.prolocation.net
 85-119-111-94.sdb.prolocation.net
@@ -4048,8 +4020,6 @@ en-dns12.prolocation.net
 85-119-110-30.sdb.prolocation.net
 vps0387.rk.prolocation.net
 web47.prolocation.net
-jlweb310.prolocation.net
-www.webmail-pro.prolocation.net
 81-23-gs-231-201-colo.prolocation.net
 filestore.prolocation.net
 nhjaxgstat10.prolocation.net
@@ -4151,7 +4121,6 @@ lb60-133.prolocation.net
 85-119-104-241.sdb.prolocation.net
 85-119-109-90.sdb.prolocation.net
 85-119-111-230.sdb.prolocation.net
-nhgweb30.prolocation.net
 sdb.prolocation.net
 81-23-gs-230-189-colo.prolocation.net
 85-119-105-97.sdb.prolocation.net
@@ -4173,7 +4142,7 @@ web136.prolocation.net
 web159.prolocation.net
 web19-2.prolocation.net
 web229.prolocation.net
-www.gw-eur.prolocation.net
+gw-eur.prolocation.net
 85-119-108-25.sdb.prolocation.net
 85-119-108-250.sdb.prolocation.net
 85-12db.prolocation.net
@@ -4214,7 +4183,7 @@ vrrp-vlan-129-253.prolocation.net
 85-119-110-112.sdb.prolocation.net
 gl-94117.prolocation.net
 gl-95111.prolocation.net
-www.vmx02.prolocation.net
+vmx02.prolocation.net
 gl-95122.prolocation.net
 nbtc-sdns20.prolocation.net
 stats.prolocation.net
@@ -4245,7 +4214,6 @@ gl-95115.prolocation.net
 85-119-110-131.sdb.prolocation.net
 rslt-web30.prolocation.net
 85-119-106-146.sdb.prolocation.net
-gw-eur.prolocation.net
 85-119-106-128.sdb.prolocation.net
 85-119-109-120.sdb.prolocation.net
 sentor.dtg.prolocation.net
@@ -4259,7 +4227,6 @@ ricci.prolocation.net
 nls-dev.prolocation.net
 web176.prolocation.net
 web226.prolocation.net
-www.eon-web10.prolocation.net
 81-23-gs-230-234-colo.prolocation.net
 81-23-gs-230-50-colo.prolocation.net
 85-119-109-108.sdb.prolocation.net
@@ -4309,7 +4276,6 @@ web107.prolocation.net
 81-23-gs-231-76-colo.prolocation.net
 85-119-107-185.sdb.prolocation.net
 gl-95003.prolocation.net
-vmx02.prolocation.net
 85-119-109-50.sdb.prolocation.net
 dsl-94-229-145-37.pool.prolocation.net
 pro2.prolocation.net
@@ -4403,7 +4369,6 @@ adnode420.prolocation.net
 85-119-106-80.sdb.prolocation.net
 gl-95214.prolocation.net
 shopweb10.gs.prolocation.net
-www.jlweb10.prolocation.net
 85-119-105-150.sdb.prolocation.net
 85-119-105-59.sdb.prolocation.net
 85-119-111-13.sdb.prolocation.net
@@ -4461,7 +4426,6 @@ gl-95234.prolocation.net
 web238.prolocation.net
 85-119-105-1.sdb.prolocation.net
 85-119-108-175.sdb.prolocation.net
-www.web204.prolocation.net
 85-119-109-247.sdb.prolocation.net
 85-12-119-111-13.sdb.prolocation.net
 focus.meet.prolocation.net
@@ -4535,7 +4499,6 @@ egopenx160.prolocation.net
 mediq-ef-spei-1g-rc03.prolocation.net
 web225.prolocation.net
 wrd-web10.prolocation.net
-brba-gw.bb.prolocation.net
 81-23-gs-230-81-colo.prolocation.net
 85-119-105-245.sdb.prolocation.net
 85-119-106-199.sdb.prolocation.net
@@ -4620,7 +4583,6 @@ mer-bastion.prolocation.net
 85-119-108-216.sdb.prolocation.net
 rtbps14.prolocation.net
 smtpout10.tft.prolocation.net
-status.prolocation.net
 85-119-106-145.sdb.prolocation.net
 85-119-109-191.sdb.prolocation.net
 85-119-111-144.sdb.prolocation.net
@@ -4708,7 +4670,6 @@ gl-95080.prolocation.net
 eredivisie.prolocation.net
 flux-web-balanced.prolocation.net
 web216.prolocation.net
-idp.prolocation.net
 85-119-106-81.sdb.prolocation.net
 85-119-111-128.sdb.prolocation.net
 egweb30.prolocation.net
@@ -4722,7 +4683,7 @@ tb-db10.prolocation.net
 85-119-108-192.sdb.prolocation.net
 85-119-108-223.sdb.prolocation.net
 85-119-110-164.sdb.prolocation.net
-www.glm-web10.prolocation.net
+glm-web10.prolocation.net
 85-119-106-158.sdb.prolocation.net
 gigabone10-5.prolocation.net
 vonq-stg-db10.prolocation.net
@@ -4741,7 +4702,6 @@ gl-95212.prolocation.net
 gm-web10.prolocation.net
 smtpq-133-179.prolocation.net
 tb-app10.prolocation.net
-www.vmx01-ng.prolocation.net
 freshfm.prolocation.net
 gl-95254.prolocation.net
 85-119-105-47.sdb.prolocation.net
@@ -4821,7 +4781,6 @@ vrrp-vlan-129-252.prolocation.net
 egdb30-m.prolocation.net
 web16.prolocation.net
 85-119-105-142.sdb.prolocation.net
-glm-web10.prolocation.net
 web156.prolocation.net
 85-119-110-169.sdb.prolocation.net
 hima-t-node1.prolocation.net
@@ -4844,7 +4803,6 @@ ring01.prolocation.net
 gl-95018.prolocation.net
 pvcp-web10.prolocation.net
 vonq-web50.prolocation.net
-www.rmon-bbd.prolocation.net
 85-119-105-201.sdb.prolocation.net
 85-119-110-221.sdb.prolocation.net
 85-119-110-234.sdb.prolocation.net
@@ -4852,7 +4810,6 @@ gl-95112.prolocation.net
 gl-95193.prolocation.net
 netmon10.prolocation.net
 jlweb10068.prolocation.net
-exaforte-app10.prolocation.net
 85-119-107-155.sdb.prolocation.net
 egweb40.prolocation.net
 gl-95005.prolocation.net
@@ -4863,7 +4820,6 @@ tb-web10.prolocation.net
 85-119-108-226.sdb.prolocation.net
 85-119-111-66.sdb.prolocation.net
 iqstream20.prolocation.net
-www.prolocation.net
 85-119-106-144.sdb.prolocation.net
 conference.meet.prolocation.net
 nhgarts-lb.prolocation.net
@@ -4928,7 +4884,6 @@ eglb20.prolocation.net
 root11.prolocation.net
 topsectorchemie.nl.web181.prolocation.net
 web183.prolocation.net
-www.shrweb10.prolocation.net
 85-119-105-178.sdb.prolocation.net
 85-119-105-197.sdb.prolocation.net
 85-119-108-46.sdb.prolocation.net
@@ -4994,7 +4949,6 @@ webproxy10.prolocation.net
 85-119-108-5.sdb.prolocation.net
 gl-95200.prolocation.net
 voip20.prolocation.net
-www.jobmbo-acc10.prolocation.net
 81-23-gs-230-132-colo.prolocation.net
 85-119-106-117.sdb.prolocation.net
 gh.prolocation.net

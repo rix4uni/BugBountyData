@@ -11,7 +11,6 @@ edit-preview.cisa.gov
 gwids.cisa.gov
 malware.cisa.gov
 malware-anonymous.cisa.gov
-www.cisa.gov
 messages.cisa.gov
 askcisa.cisa.gov
 report.cisa.gov
@@ -29,7 +28,6 @@ gwypt3.gateway.cisa.gov
 engine-presidentscup.cisa.gov
 origin-devlearning.cisa.gov
 devlearning.cisa.gov
-www.niccs.cisa.gov
 adfs.venom.cisa.gov
 stage.tripwire.cisa.gov
 esubmissions.pciims.cisa.gov
@@ -37,17 +35,14 @@ sftp.gwids.cisa.gov
 icsus-cert.cisa.gov
 test.protectivedns.cisa.gov
 origin-learning.cisa.gov
-www.filedrop.cisa.gov
 staging.cisa.gov
 rdg1.venom.cisa.gov
 staging-cybermarketplace-api.cisa.gov
 staging-cybermarketplace.cisa.gov
-www.malware.cisa.gov
 preview.cisa.gov
 id-presidentscup.cisa.gov
 test-ci.protectivedns.cisa.gov
 gwypt2.gateway.cisa.gov
-www.gwids.cisa.gov
 jscape.cisa.gov
 cybermarketplace-api.cisa.gov
 enterpriseregistration.venom.cisa.gov
@@ -72,8 +67,6 @@ pciims.gateway.cisa.gov
 forwarder.askcisa.cisa.gov
 x22www.cisa.gov
 learning.cisa.gov
-www.us-cert.cisa.gov
-www.gateway.cisa.gov
 registration.pciims.cisa.gov
 origin1-presidentscup.cisa.gov
 dashboard.gateway.cisa.gov
@@ -84,7 +77,6 @@ management.gateway.cisa.gov
 gwypt4.gateway.cisa.gov
 expo.cisa.gov
 enterpriseregistration.dhs.cisa.gov
-www.pciims.cisa.gov
 certauth.adfs.venom.cisa.gov
 cybermarketplace.cisa.gov
 protectivedns.cisa.gov
@@ -112,7 +104,6 @@ origin-registration.gateway.cisa.gov
 origin-cge.gateway.cisa.gov
 origin-ptsfs.gwids.cisa.gov
 origin-gwypt3.gateway.cisa.gov
-www.test-ci.protectivedns.cisa.gov
 cse.cisa.gov
 sepio.venom.cisa.gov
 origin-sram.gateway.cisa.gov
@@ -127,7 +118,6 @@ pncclic-cname.avd.internal.cisa.gov
 venom.cisa.gov
 api.protectivedns.cisa.gov
 selector1._domainkey.cisa.gov
-www.ssp.cisa.gov
 production.gateway.cisa.gov
 autodiscover.t365.cisa.gov
 pciimspt4.pciims.cisa.gov
@@ -135,7 +125,6 @@ vnentracrlstore.venom.cisa.gov
 origin-pciims.cisa.gov
 origin-eo13650.gateway.cisa.gov
 origin-esubmissions.pciims.cisa.gov
-www.ci.protectivedns.cisa.gov
 t365.cisa.gov
 forward-networks.venom.cisa.gov
 origin-dashboard.gateway.cisa.gov
@@ -145,7 +134,6 @@ csccust.production.gateway.cisa.gov
 origin-gwypt1.gateway.cisa.gov
 origin-csccust.gateway.cisa.gov
 origin-staging-cybermarketplace.cisa.gov
-www.protectivedns.cisa.gov
 autodiscover.associates.dhs.cisa.gov
 selector1._domainkey.dhs.cisa.gov
 api.dev.protectivedns.cisa.gov
@@ -158,14 +146,12 @@ enterpriseenrollment.t365.cisa.gov
 bin.protectivedns.cisa.gov
 api.test.protectivedns.cisa.gov
 origin-cybermarketplace.cisa.gov
-www.test.protectivedns.cisa.gov
 dashboard.production.gateway.cisa.gov
 api.ci.protectivedns.cisa.gov
 enterpriseenrollment.dhs.cisa.gov
 origin-management.gateway.cisa.gov
 api.test-ci.protectivedns.cisa.gov
 origin-tripwire.cisa.gov
-www.dev.protectivedns.cisa.gov
 origin-pciimspt4.pciims.cisa.gov
 enterpriseregistration.cisa.gov
 enterpriseregistration.t365.cisa.gov
@@ -173,10 +159,5 @@ ransomwarewww.cisa.gov
 u00a0us-cert.cisa.gov
 onus-cert.cisa.gov
 cert.cisa.gov
-*.ci.protectivedns.cisa.gov
-*.dev.protectivedns.cisa.gov
-*.protectivedns.cisa.gov
-*.test-ci.protectivedns.cisa.gov
-*.test.protectivedns.cisa.gov
 confluence.protectivedns.cisa.gov
 jira.protectivedns.cisa.gov

@@ -11,7 +11,6 @@ azuredrpoc.moxa.com
 sales.mus.moxa.com
 mcnms01.mcn.moxa.com
 mcncas02.mcn.moxa.com
-www.moxa.com
 internet.mus.moxa.com
 it2.mus.moxa.com
 mrcjp.moxa.com
@@ -93,7 +92,6 @@ lyncdiscover.moxa.com
 sportal.moxa.com
 de.moxa.com
 japan.moxa.com
-www.mrc.moxa.com
 idcmail.moxa.com
 vpn.mus.moxa.com
 debian.moxa.com
@@ -105,7 +103,6 @@ modns.moxa.com
 am.moxa.com
 122-147-213-117.moxa.com
 gpms.moxa.com
-www.musmail.moxa.com
 mcnacp.moxa.com
 61-219-164-89.moxa.com
 61-219-164-90.moxa.com
@@ -113,7 +110,6 @@ mcnacp.moxa.com
 203-74-133-89.moxa.com
 113-196-152-4.moxa.com
 calemvm1.moxa.com
-www.iothinxcalculator.moxa.com
 113-196-152-49.moxa.com
 search.moxa.com
 pdimcms.moxa.com
@@ -122,7 +118,6 @@ f5.moxa.com
 badesmtp.moxa.com
 59-124-138-240.moxa.com
 foundation.moxa.com
-www.mhqmail.moxa.com
 spa.moxa.com
 moxaspam1.moxa.com
 jira-dev-01.moxa.com
@@ -146,11 +141,9 @@ demo.mus.moxa.com
 mhqacp-01.moxa.com
 59-124-139-175.moxa.com
 pa-500.moxa.com
-www.mhq-rd-vc01.moxa.com
-www.bombardier.vm.moxa.com
+mhq-rd-vc01.moxa.com
 113-196-152-80.moxa.com
 mhqwac01.moxa.com
-www.ieselect.moxa.com
 hqidc.moxa.com
 calemvm1.mus.moxa.com
 113-196-152-41.moxa.com
@@ -175,7 +168,6 @@ iwaccessoryapi.moxa.com
 113-196-152-18.moxa.com
 113-196-152-26.moxa.com
 113-196-152-75.moxa.com
-www.ehr.moxa.com
 61-219-48-72.moxa.com
 web2.moxa.com
 gold.moxa.com
@@ -184,14 +176,11 @@ meuexch01.meu.moxa.com
 blackduck.moxa.com
 203-74-133-82.moxa.com
 aruba.moxa.com
-www.partnerzone.moxa.com
 jpuat.moxa.com
 113-196-152-15.moxa.com
 mhqnst.mus.moxa.com
 smtp.moxa.com
-www.idcmail.moxa.com
 60-251-173-188.moxa.com
-www.uat.moxa.com
 calmail.mus.moxa.com
 mcnnpsvm02.mcn.moxa.com
 59-124-138-110.moxa.com
@@ -227,7 +216,6 @@ mus.moxa.com
 60-251-173-186.moxa.com
 gp.meu.moxa.com
 mcnwacvm01.mcn.moxa.com
-www.sitcms.moxa.com
 web3.moxa.com
 badeconnect.moxa.com
 60-250-30-10.moxa.com
@@ -249,7 +237,7 @@ mtsc.moxa.com
 113-196-152-44.moxa.com
 60-251-173-183.moxa.com
 mail.fr.moxa.com
-www.signserver.moxa.com
+signserver.moxa.com
 113-196-152-57.moxa.com
 113-196-152-84.moxa.com
 113-196-152-30.moxa.com
@@ -263,7 +251,6 @@ moxans.mus.moxa.com
 teest-launcher.moxa.com
 61-220-229-202.moxa.com
 113-196-152-5.moxa.com
-www.expe02.moxa.com
 157-187-3-202.moxa.com
 60-250-30-155.moxa.com
 iwaccessory.moxa.com
@@ -276,7 +263,6 @@ mhqnetgitlab.moxa.com
 113-196-152-65.moxa.com
 moxaspam.moxa.com
 59-124-138-239.moxa.com
-signserver.moxa.com
 mhqsrm01.moxa.com
 vps.moxa.com
 113-196-152-20.moxa.com
@@ -295,7 +281,6 @@ sysselectapi.moxa.com
 cloudapi.moxa.com
 61-220-229-206.moxa.com
 61-220-229-201.moxa.com
-www.mhqacp.moxa.com
 administrator.moxa.com
 113-196-152-94.moxa.com
 122-147-213-118.moxa.com
@@ -312,7 +297,7 @@ newvpn.moxa.com
 113-196-152-51.moxa.com
 122-147-213-113.moxa.com
 113-196-152-13.moxa.com
-www.git.moxa.com
+git.moxa.com
 122-147-213-119.moxa.com
 113-196-152-19.moxa.com
 searchresult.moxa.com
@@ -330,7 +315,6 @@ idccas02.hqidc.moxa.com
 122-147-212-12.moxa.com
 61-219-164-88.moxa.com
 61-219-48-70.moxa.com
-www.rwdsite.moxa.com
 meucas01.moxa.com
 meucas01.meu.moxa.com
 113-196-152-28.moxa.com
@@ -339,7 +323,6 @@ meucas01.meu.moxa.com
 kan_hsu.moxa.com
 113-196-152-67.moxa.com
 unicode.moxa.com
-www.blackduck.moxa.com
 122-147-212-8.moxa.com
 mhqcas01.moxa.com
 123-51-235-192.moxa.com
@@ -356,14 +339,12 @@ redirectus.moxa.com
 mhq-rd-vra.moxa.com
 113-196-152-12.moxa.com
 113-196-152-48.moxa.com
-git.moxa.com
 59-124-138-109.moxa.com
 eath.moxa.com
 123-51-153-25.moxa.com
 203-74-133-88.moxa.com
 vpncloud02.moxa.com
 123-51-153-27.moxa.com
-www.mhqnetgitlab.moxa.com
 211-23-72-70.moxa.com
 hank-lin.moxa.com
 113-196-152-99.moxa.com
@@ -377,7 +358,6 @@ iw-allen.moxa.com
 moxasv.moxa.com
 cms.moxa.com
 59-124-139-179.moxa.com
-mhq-rd-vc01.moxa.com
 61-219-164-86.moxa.com
 lyncextweb.moxa.com
 211-23-72-74.moxa.com
@@ -391,13 +371,11 @@ mhqunivms-01.moxa.com
 203-74-133-83.moxa.com
 113-196-152-77.moxa.com
 badesv.moxa.com
-www.wcmsuat.moxa.com
 esms.moxa.com
 earth.moxa.com
 meumail.moxa.com
 113-196-152-25.moxa.com
 113-196-152-83.moxa.com
-www.expe01.moxa.com
 gold1.moxa.com
 muswebmail.moxa.com
 60-251-173-181.moxa.com
@@ -408,5 +386,3 @@ rmauat.moxa.com
 twuat.moxa.com
 solutionpartner.moxa.com
 signserver-dmz.moxa.com
-www.detest.moxa.com
-www.digitalplatform.moxa.com

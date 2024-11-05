@@ -723,7 +723,7 @@ em-indexpage-optimization.index.eu-central-1.dev.ecosia.org
 jg-indexpage-experiment.design.dev.ecosia.org
 mp-indexpage-release-new.www.dev.ecosia.org
 mp-goodall-temp-fix.flora.eu-central-1.dev.ecosia.org
-www.staging.ecosia.org
+staging.ecosia.org
 ar-notifications.proxy.eu-central-1.dev.ecosia.org
 em-indexpage-no-50m.index.dev.ecosia.org
 jg-dev-ingress-internal.admin.dev.ecosia.org
@@ -823,7 +823,6 @@ mp-bazel-nodejs-update2.index.eu-central-1.dev.ecosia.org
 jg-indexpage-print-env.index-static.dev.ecosia.org
 mp-search-release.api.eu-central-1.dev.ecosia.org
 va-setup-og-tags.api.dev.ecosia.org
-www.eu-central-1.dev.ecosia.org
 dh-entity-icons.search.dev.ecosia.org
 em-storybook.index.eu-central-1.dev.ecosia.org
 jg-dev-ingress-internal.goodall.dev.ecosia.org
@@ -862,7 +861,7 @@ cdn-testing.ecosia.org
 info.eu-central-1.prod.ecosia.org
 dh-maps.index-static.dev.ecosia.org
 mp-convert-to-string.search.eu-central-1.dev.ecosia.org
-www.eu-central-1.staging.ecosia.org
+eu-central-1.staging.ecosia.org
 jg-indexpage-print-env.index-static.eu-central-1.dev.ecosia.org
 jg-revert-revert.index.eu-central-1.dev.ecosia.org
 jl-shutdown-hotels-proxy.hotels.eu-central-1.dev.ecosia.org
@@ -919,7 +918,7 @@ em-common-coverage-report.design.eu-central-1.dev.ecosia.org
 em-indexpage-android-cta.index.dev.ecosia.org
 jg-add-floodlight-tag.info.dev.ecosia.org
 jg-nuxt-devtools.index.eu-central-1.dev.ecosia.org
-www.us-east-1.prod.ecosia.org
+us-east-1.prod.ecosia.org
 weather.ecosia.org
 ar-qa-fixes.admin.dev.ecosia.org
 em-common-button-refinements.index.eu-central-1.dev.ecosia.org
@@ -1078,7 +1077,7 @@ jg-kubeless.api.dev.ecosia.org
 jg-nuxt-generate-trees.index.eu-central-1.dev.ecosia.org
 mp-redis-cache.api.dev.ecosia.org
 mp-update-jest2.www.dev.ecosia.org
-www.ca-central-1.prod.ecosia.org
+ca-central-1.prod.ecosia.org
 em-api-proxy-cors-origins.proxy.dev.ecosia.org
 jg-add-default-port-readme.info.dev.ecosia.org
 jg-indexpage-eu.www.eu-central-1.dev.ecosia.org
@@ -1213,7 +1212,6 @@ airflow.dev.ecosia.org
 em-indexpage-no-50m.index-static.eu-central-1.dev.ecosia.org
 em-storybook.design.eu-central-1.dev.ecosia.org
 jg-bazel-docker-build.index.eu-central-1.dev.ecosia.org
-eu-central-1.staging.ecosia.org
 em-common-js-dirs.index.eu-central-1.dev.ecosia.org
 em-indexpage-ssr-full.index.dev.ecosia.org
 mp-k8s-ci-cd.search.dev.ecosia.org
@@ -1324,7 +1322,7 @@ jg-heimdall-bootstrap.index.eu-central-1.dev.ecosia.org
 jg-namespace-resourcequota.proxy.eu-central-1.dev.ecosia.org
 mp-goodall-temp-fix.flora.dev.ecosia.org
 mp-jsonnet-lint2.proxy.eu-central-1.dev.ecosia.org
-www.dev.ecosia.org
+dev.ecosia.org
 search.ecosia.org
 ar-indexpage-minor-fix.index.dev.ecosia.org
 em-indexpage-improvements.index.dev.ecosia.org
@@ -1470,7 +1468,6 @@ jg-remove-treecount-mobile.info.dev.ecosia.org
 em-storybook.index.dev.ecosia.org
 jg-flagr-prototype.flora.eu-central-1.dev.ecosia.org
 fr.blog.ecosia.org
-ca-central-1.prod.ecosia.org
 ar-fix-tracking.index.eu-central-1.dev.ecosia.org
 em-common-spaces-box.www.dev.ecosia.org
 va-og-image.index.eu-central-1.dev.ecosia.org
@@ -1800,7 +1797,6 @@ em-common-test.www.eu-central-1.dev.ecosia.org
 em-feedback.api-proxy.dev.ecosia.org
 jg-goodall-prod.index.dev.ecosia.org
 hotels.ecosia.org
-staging.ecosia.org
 mp-jsonnet-lint2.proxy.dev.ecosia.org
 jl-adjust-weather-api-proxy-response.www.dev.ecosia.org
 mp-jsonnet-lint2.search.eu-central-1.dev.ecosia.org
@@ -2067,7 +2063,6 @@ em-indexpage-video-i18n.admin.eu-central-1.dev.ecosia.org
 mp-repository-cache.index.dev.ecosia.org
 jg-autocomplete-certmanager.proxy.dev.ecosia.org
 jg-admin-fix-dev-restore.index.eu-central-1.dev.ecosia.org
-us-east-1.prod.ecosia.org
 dh-maps.www.eu-central-1.dev.ecosia.org
 em-map-section.index.dev.ecosia.org
 em-styleguide-alpha-2.design.eu-central-1.dev.ecosia.org
@@ -2146,7 +2141,6 @@ em-set.index.eu-central-1.dev.ecosia.org
 jg-lib-clusterapp.admin.dev.ecosia.org
 mp-autocomplete-jsonnet-fix.hotels.eu-central-1.dev.ecosia.org
 mp-update-jest2.index.eu-central-1.dev.ecosia.org
-www.ecosia.org
 dh-wl-cookie-limit.www.eu-central-1.dev.ecosia.org
 em-common-spaces.www.eu-central-1.dev.ecosia.org
 jg-dev-ingress-internal.api.eu-central-1.dev.ecosia.org

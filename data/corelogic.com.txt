@@ -1,10 +1,9 @@
-*.corelogic.com
 authqa.corelogic.com
 auth.corelogic.com
 qa.clientsso.corelogic.com
 uat.clientsso.corelogic.com
 clientsso.corelogic.com
-www.customercenter.corelogic.com
+customercenter.corelogic.com
 dr-www.customercenter.corelogic.com
 cs.adminservice.corelogic.com
 realquest.adminservice.corelogic.com
@@ -13,7 +12,6 @@ csrealquest.adminservice.corelogic.com
 c2d.adminservice.corelogic.com
 dr-realquest.adminservice.corelogic.com
 dr-c2d.adminservice.corelogic.com
-customercenter.corelogic.com
 vpn.wtc.corelogic.com
 vpn0.wtc.corelogic.com
 vpn2.wtc.corelogic.com
@@ -152,14 +150,13 @@ share-staging.gomls.corelogic.com
 share.gomls.corelogic.com
 uat.clientsso-apac.corelogic.com
 test.docsolutions.corelogic.com
-www.docsolutions.corelogic.com
+docsolutions.corelogic.com
 cyba.dev.corelogic.com
 xml.docsolutions.corelogic.com
 xml.test.docsolutions.corelogic.com
-www.servicingdev.corelogic.com
-www.homeequitydev.corelogic.com
-www.securitiesdev.corelogic.com
-www.corelogic.com
+servicingdev.corelogic.com
+homeequitydev.corelogic.com
+securitiesdev.corelogic.com
 ist1.globalgateway.corelogic.com
 uat1.globalgateway.corelogic.com
 vecanalyticsld.corelogic.com
@@ -172,7 +169,6 @@ dev.corelogic.com
 status.insurancesolutions.corelogic.com
 crc.corelogic.com
 mortgageplatform.corelogic.com
-docsolutions.corelogic.com
 insight.corelogic.com
 quincy-voice.corelogic.com
 api-trestle.corelogic.com
@@ -191,13 +187,12 @@ digitaltax.corelogic.com
 emailusgcp.corelogic.com
 wp-dev.corelogic.com
 api.weather.corelogic.com
-www.weather.corelogic.com
+weather.corelogic.com
 reasdev.corelogic.com
 url2714.corelogic.com
 url1520.corelogic.com
 wp-origin.corelogic.com
 upload.weather.corelogic.com
-weather.corelogic.com
 securedlauncher.int.discovery.corelogic.com
 na.corelogic.com
 portfoliomanagement-solutions-int.discovery.corelogic.com
@@ -275,7 +270,6 @@ clp-profile-service-uat.corelogic.com
 credcofreeze.corelogic.com
 url2391.corelogic.com
 riskmeter.corelogic.com
-www.wvs.corelogic.com
 int.discovery.corelogic.com
 clientsso-apac.corelogic.com
 gomls.corelogic.com
@@ -305,8 +299,6 @@ gomls-multipush.corelogic.com
 gomls-home-assist.corelogic.com
 adminservice.corelogic.com
 nonprd.discovery.corelogic.com
-www.videos.corelogic.com
-www.ic3portal.corelogic.com
 ic3portal.corelogic.com
 qa1.globalgateway.corelogic.com
 perf.globalgateway.corelogic.com
@@ -314,7 +306,6 @@ qa2.globalgateway.corelogic.com
 uat2.globalgateway.corelogic.com
 dev1.globalgateway.corelogic.com
 dev2.globalgateway.corelogic.com
-www.sandbox-example-space1-sbx.discovery.corelogic.com
 sandbox-example-space1-sbx.discovery.corelogic.com
 riskmodel.corelogic.com
 qa.rpsfreeze.corelogic.com

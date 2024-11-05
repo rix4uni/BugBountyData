@@ -1,12 +1,10 @@
 ms.orencloud.com
-www.orencloud.com
 nagiosxi.orencloud.com
 aimspve01.orencloud.com
 zabbixmon.orencloud.com
 bbb.orencloud.com
 teamku.orencloud.com
-www.astios.orencloud.com
-*.orencloud.com
+astios.orencloud.com
 otp.orencloud.com
 cpanel.orencloud.com
 cpcalendars.orencloud.com
@@ -14,9 +12,7 @@ cpcontacts.orencloud.com
 mail.orencloud.com
 webdisk.orencloud.com
 webmail.orencloud.com
-astios.orencloud.com
 astiostech.orencloud.com
-www.astiostech.orencloud.com
 nagios-net-log.orencloud.com
 wpkk.orencloud.com
 nagios.orencloud.com

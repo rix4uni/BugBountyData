@@ -82,15 +82,12 @@ connect.outokumpu.com
 otk-otkd-cm-weu-sc93-test.pcs.outokumpu.com
 collector-weu.outokumpu.com
 client-vpn-mexico1.outokumpu.com
-www.outokumpu.com
-www.myportal.outokumpu.com
 myportal.outokumpu.com
 mobile.caneadegerfors.outokumpu.com
-www.insidermanagement.outokumpu.com
 fecrsop.outokumpu.com
 workspace.outokumpu.com
 rd-weu.pcs.outokumpu.com
-www.logistics.outokumpu.com
+logistics.outokumpu.com
 partners.outokumpu.com
 remotesupport.outokumpu.com
 otk-otke-cd-weu-sc93-test.pcs.outokumpu.com
@@ -110,13 +107,10 @@ mobilebuddy.outokumpu.com
 pyfunctiondev.preprod.odp.outokumpu.com
 ecommerce.outokumpu.com
 kerberos.nad.outokumpu.com
-www.otk-otke-cd-weu-sc93-demo.pcs.outokumpu.com
-www.remotesupport.outokumpu.com
 elearning.outokumpu.com
 sales.tornio.outokumpu.com
 customercontact2.outokumpu.com
 odp-hist-weu-dev-vm.preprod.odp.outokumpu.com
-www.odp-hist-weu-dev-vm.preprod.odp.outokumpu.com
 concur.outokumpu.com
 integration.outokumpu.com
 tullinsuora.outokumpu.com
@@ -130,7 +124,6 @@ otkvendorq01.outokumpu.com
 preprod.integration.outokumpu.com
 devproj.integration.outokumpu.com
 testproj.integration.outokumpu.com
-www.fecrsop.outokumpu.com
 adfs.outokumpu.com
 hybrid.outokumpu.com
 enterpriseregistration.outokumpu.com
@@ -140,7 +133,6 @@ otk-otkd-weu-dev-ce.pcs.outokumpu.com
 secure-staging.outokumpu.com
 secure.outokumpu.com
 otk-sc-cdn2-dev.pcs.outokumpu.com
-www.rd-weu.outokumpu.com
 otkc-cdn.outokumpu.com
 otkc-cdn.pcs.outokumpu.com
 ess.outokumpu.com
@@ -148,7 +140,7 @@ qas.integration.outokumpu.com
 test2.integration.outokumpu.com
 customercontact.outokumpu.com
 files.outokumpu.com
-www.lead.tornio.outokumpu.com
+lead.tornio.outokumpu.com
 dev2.integration.outokumpu.com
 integration2.outokumpu.com
 partner-vpn-emea1.outokumpu.com

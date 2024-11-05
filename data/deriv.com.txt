@@ -2,7 +2,6 @@ track.deriv.com
 eu.deriv.com
 login.deriv.com
 static.deriv.com
-www.deriv.com
 app.deriv.com
 t.deriv.com
 mt5-demo-de02.deriv.com
@@ -27,7 +26,7 @@ cf-pages-app.deriv.com
 ct.deriv.com
 urls.deriv.com
 staging-tradingview.deriv.com
-www.mt5-demo-web.deriv.com
+mt5-demo-web.deriv.com
 cf-pages-deriv-components.deriv.com
 tech.deriv.com
 webflow.deriv.com
@@ -66,7 +65,6 @@ staging.cf-pages-deriv-static-content.deriv.com
 test.cf-pages-deriv-binary-static.deriv.com
 cf-pages-binary-static.deriv.com
 community.deriv.com
-www.cashier.deriv.com
 staging-eu.cf-pages.deriv.com
 ct-uat2.deriv.com
 staging-eu.deriv.com
@@ -74,7 +72,6 @@ staging-hub.deriv.com
 staging.cf-pages-tradingview.deriv.com
 test.cf-pages-binary-static.deriv.com
 dx-api.deriv.com
-mt5-demo-web.deriv.com
 id-ct.deriv.com
 landing.deriv.com
 staging.cf-pages-app.deriv.com
@@ -160,4 +157,3 @@ mt5-af03.deriv.com
 mt5-us02-ts1.deriv.com
 mt5-af03-ts1.deriv.com
 mt5-real02-web-svg.deriv.com
-*.deriv.com

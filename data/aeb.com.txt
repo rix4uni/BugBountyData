@@ -37,7 +37,6 @@ dev.uapi.aeb.com
 cloudcompany.dev.internal.aeb.com
 assets.run.aeb.com
 assets-dev.dev.aeb.com
-www.aeb.com
 repo.aeb.com
 hybridmail.aeb.com
 test.dataintegration.aeb.com
@@ -182,8 +181,7 @@ aebid.labs.aeb.com
 form.labs.aeb.com
 login.labs.aeb.com
 labs.aeb.com
-www.hybridmail.aeb.com
-www.autodiscover.aeb.com
+autodiscover.aeb.com
 nextdev01.k8s.labs.aeb.com
 constructionsite01.k8s.labs.aeb.com
 mgmt.intern.aeb.com
@@ -206,9 +204,8 @@ ucs2.aeb.com
 meet.aeb.com
 dialin.aeb.com
 service2.webdev.aeb.com
-www.webdev.aeb.com
-service-en.webdev.aeb.com
 webdev.aeb.com
+service-en.webdev.aeb.com
 rancher.mgmt.dc.aeb.com
 somo.aeb.com
 registry.next.labs.aeb.com

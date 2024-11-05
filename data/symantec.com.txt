@@ -45,7 +45,7 @@ atpaas3.atpcloud.symantec.com
 dub2adsdirpin01.symc.symantec.com
 idp.vip.symantec.com
 istrgen.symantec.com
-www.splunk-non-prod.ebiz.symantec.com
+splunk-non-prod.ebiz.symantec.com
 dls-int.symantec.com
 esxi-t332fg-028.symc.symantec.com
 sasroot.symantec.com
@@ -161,7 +161,7 @@ ds-dev.trm.symantec.com
 ea749d7e-88a7-11e9-8d19-0242ac110002.ds.dlp.protect.symantec.com
 ee.api.ws.symantec.com
 eyeofsauron.ges.symantec.com
-www.go.symantec.com
+go.symantec.com
 cossplunkapi-tus1.ges.symantec.com
 registration.symantec.com
 tus3pupconpin04.symc.symantec.com
@@ -425,7 +425,6 @@ previewstoremanuiqa5.estore.musw1-en01.ebiz.symantec.com
 products.websecurity.symantec.com
 search-thawte-de-uat-web-tus3.symc.symantec.com
 symorderqa.symantec.com
-www.symantec.com
 certauth.adfs.symantec.com
 dub2iptccmpin21.net.symantec.com
 gateway.us-west-2.p01.i01.si01.protect.symantec.com
@@ -591,7 +590,7 @@ absservices.ges.symantec.com
 cmc.gso.symantec.com
 symwisedownloadtest.symantec.com
 tus3-bigiq-1-vip.net.symantec.com
-www.stc-pro-rsa.test.symantec.com
+stc-pro-rsa.test.symantec.com
 678.symantec.com
 jamf-test.symc.symantec.com
 t.quarantine.symantec.com
@@ -724,7 +723,7 @@ crssrch-lt2.ges.symantec.com
 dev-mysymantec-maint.ges.symantec.com
 ird1vipappp01.symc.symantec.com
 mixev1.symantec.com
-www.ecc-ssproev.123.symantec.com
+ecc-ssproev.123.symantec.com
 access-int.symantec.com
 chat.mss.symantec.com
 sluplistalt.symantec.com
@@ -1015,7 +1014,7 @@ dvalic-o365-p01-smtp.phx2.dlp.protect.symantec.com
 licensingwsserver.ges.symantec.com
 san33.symantec.com
 siaw-load2.symantec.com
-www.events.symantec.com
+events.symantec.com
 acswsserver.ges.symantec.com
 jp.websecurity.symantec.com
 mss.symantec.com
@@ -1071,7 +1070,7 @@ ash1secspepin02.symantec.com
 business-tst-1.symantec.com
 securitycloud-prod2-scep.symantec.com
 tibemsserverext_8222.ges.symantec.com
-www.gtevsha2mix-ct.symantec.com
+gtevsha2mix-ct.symantec.com
 666.symantec.com
 searchmasterlt.estore.musw1-en01.ebiz.symantec.com
 tibcobwqa401.shared.musw1-en01.ebiz.symantec.com
@@ -1101,7 +1100,7 @@ tucson-serial-1.dlplab.engdlp.symantec.com
 buy-qa1.symanteccloud.com.gtm.symantec.com
 dub2iptutypin01-ms.symc.symantec.com
 tus1scnwebpex02.ges.symantec.com
-www.i18n.symantec.com
+i18n.symantec.com
 san1452test772.symantec.com
 san3.symantec.com
 securitycloud-mdm-enc.symantec.com
@@ -1123,7 +1122,7 @@ api.ws.symantec.com
 cebemain.symantec.com
 dub2iptpgupin01.net.symantec.com
 tus3secinxpin20.symc.symantec.com
-www.mynortonaccount.com.gtm.symantec.com
+mynortonaccount.com.gtm.symantec.com
 adc-musw.ebiz.symantec.com
 dpsalesforce.symantec.com
 request1-staging.symc.symantec.com
@@ -1151,7 +1150,7 @@ solutions.symantec.com
 spr1iptcucpin01.symc.symantec.com
 tucson-serial-1.engdlp.symantec.com
 vltsrv15.symc.symantec.com
-www.splunk.mird1-en01.ebiz.symantec.com
+splunk.mird1-en01.ebiz.symantec.com
 cul1sgnwebpin02.ges.symantec.com
 ee-seal-info.ws.symantec.com
 nss-shasta-wrs-prod-ecl1.symantec.com
@@ -1573,7 +1572,7 @@ sebe-stage.symantec.com.gtm.symantec.com
 tus3comewypex01.symc.symantec.com
 shasta-clt-prod-ecl1.symantec.com
 tus3secsdstin01.symc.symantec.com
-www.test1.symantec.com
+test1.symantec.com
 1dad4b64-9239-409c-a3c8-b16de44ca5d2.ds.dlp.protect.symantec.com
 9fcac3a1-9754-4f6b-b303-a89d85262da9.ds.dlp.protect.symantec.com
 ddp.salesforce.symantec.com
@@ -1718,7 +1717,7 @@ pnebrngdnspiv01.gso.symantec.com
 previewcmqa2201.estore.mird1-en01.ebiz.symantec.com
 redis-stage01.symc.symantec.com
 tusnicappwdi01.symc.symantec.com
-www.watportal.symantec.com
+watportal.symantec.com
 phx2.dryrun-gateway.dlp.protect.symantec.com
 searchservice-symwise.symantec.com
 searchslaveqa401.estore.musw1-en01.ebiz.symantec.com
@@ -1813,7 +1812,7 @@ tus3pimpsmpin04.symc.symantec.com
 xhome2-ig-02.symantec.com
 inftpd2.ges.symantec.com
 redrobin-o365-p01-smtp.ash2.dlp.protect.symantec.com
-www.partnernet-sit.symantec.com
+partnernet-sit.symantec.com
 imws-symwise-qa.symc.symantec.com
 origin-secure.nbu.symantec.com
 pfmsadmin-qa.wss.symantec.com
@@ -1930,7 +1929,7 @@ eed9d54c-4bda-11ed-886e-2a279f590565.ds.dlp.protect.symantec.com
 isupplier.symantec.com
 ldap-ash.symc.symantec.com
 tus3secinxpin53.symc.symantec.com
-www.ecc-san1.123.symantec.com
+ecc-san1.123.symantec.com
 elmuat-asb1.symc.symantec.com
 lib-stage.norton.com.ntn.symantec.com
 stg-nortoncdn.symantec.com
@@ -1965,7 +1964,7 @@ ev12.symantec.com
 partnernet.symantec.com
 tus3qlsappsin01.symantec.com
 ustu-dcobkppdex01.ges.symantec.com
-www.emea.symantec.com
+emea.symantec.com
 tus3rngwidpiv01.gso.symantec.com
 wip5.symantec.com
 6e6c1a5a-0c38-11ed-9036-96242b973bf7.ds.dlp.protect.symantec.com
@@ -2005,7 +2004,7 @@ tus3autwebsin01.symc.symantec.com
 apps.msc1.sepmobile.securitycloud.symantec.com
 extu-vbpib-2.symantec.com
 green-swapi.a.gist-cloud.symantec.com
-www.safeweb.symantec.com
+safeweb.symantec.com
 ipsassay.ges.symantec.com
 promoqa31.ebiz.symantec.com
 tus3-bigiq-2-vip.net.symantec.com
@@ -2236,7 +2235,7 @@ aemauthorqa.aem.musw1-en01.ebiz.symantec.com
 chubb-o365-p01-smtp.na.dlp.protect.symantec.com
 ssltest-san2-sub72.jp.websecurity.symantec.com
 tus3rmcappdin01.symc.symantec.com
-www.o3.symantec.com
+o3.symantec.com
 uscu-dcoconpdex01.ges.symantec.com
 secsplunkindexer02.sre.musw1-en01.ebiz.symantec.com
 securitycloud-soak-r3.symantec.com
@@ -2378,7 +2377,7 @@ sso-dev.trm.symantec.com
 tus3rngdnspiv01.gso.symantec.com
 report.riskinsight.symantec.com
 staging-sort2.symantec.com
-www.cert.ev.symantec.com
+cert.ev.symantec.com
 1554c6ee-9cff-11ed-a823-0e0367c9b52b.ds.dlp.protect.symantec.com
 ebeams-qa1.symantec.com.gtm.symantec.com
 eccev1.symantec.com
@@ -2398,7 +2397,7 @@ as2d.symantec.com
 coherence12qa2201.sympay.mird1-en01.ebiz.symantec.com
 tus3netcls04-n01-2100.symc.symantec.com
 tus3secsdspin01.symc.symantec.com
-www.sepc.securitycloud.symantec.com
+sepc.securitycloud.symantec.com
 absmonitoring-lt1.ges.symantec.com
 api.norton.com.ntn.symantec.com
 buy-lt.symantec.com.gtm.symantec.com
@@ -2507,7 +2506,7 @@ cpeslb6.ges.symantec.com
 news.symantec.com
 ptalt.ges.symantec.com
 test-securesigning.websecurity.symantec.com
-www.sha1.ev.symantec.com
+sha1.ev.symantec.com
 www29.gso-uat-test.symc.symantec.com
 mvca-mpi-psn-5.net.symantec.com
 sensuapi.sre.musw1-en01.ebiz.symantec.com
@@ -2593,7 +2592,6 @@ tus3adsdirpin12.symc.symantec.com
 awsegtest.symantec.com
 chaseproxyqa401.sympay.musw1-en01.ebiz.symantec.com
 sepmobilesales.symantec.com
-splunk-non-prod.ebiz.symantec.com
 symwisedownload-web-west.symc.symantec.com
 api.login-int2.norton.com.gtm.symantec.com
 api.sep.au.securitycloud.symantec.com
@@ -2889,7 +2887,7 @@ pnetuser.ges.symantec.com
 cwp.status.symantec.com
 pneb-fpi-main-dmz-custom.net.symantec.com
 swi-uat.symantec.com
-www.gso-uat-test02.symc.symantec.com
+gso-uat-test02.symc.symantec.com
 tcp443.symantec.com
 api-qa-mtv.dlp.wss.symantec.com
 siaw-load1.symantec.com
@@ -3034,8 +3032,8 @@ granite-sandbox.symc.symantec.com
 lcebemain.symantec.com
 oobic-symwise-dev.symantec.com
 tus1oxydassex02.ges.symantec.com
-www.nisheven2.symantec.com
-www.phoenix.symantec.com
+nisheven2.symantec.com
+phoenix.symantec.com
 nvd.securitycloud.symantec.com
 syd1iptutypin22.net.symantec.com
 tus1ocsofepin04.symc.symantec.com
@@ -3086,7 +3084,7 @@ api.global.dmas.symantec.com
 authservicelt.estore.musw1-en01.ebiz.symantec.com
 edb1nicapppin01.net.symantec.com
 eu-west-1b.mta.dlp.protect.symantec.com
-www.555.symantec.com
+555.symantec.com
 cm-bug-01.ussfqa.qalabs.symantec.com
 iconnect-symwise-dev-app-west.symc.symantec.com
 mft-upgrade-dev.symantec.com
@@ -3243,7 +3241,7 @@ symcenter.tus3adsaacpin01.symc.symantec.com
 tools-dev.symc.symantec.com
 symorderuat-tus.symantec.com
 upload2.symantec.com
-www.onlinefamily.symantec.com
+onlinefamily.symantec.com
 csruser.ges.symantec.com
 hb-dev-web-tus3.symc.symantec.com
 login-admin-stage.symantec.com
@@ -3327,7 +3325,6 @@ cmqa22.estore.mird1-en01.ebiz.symantec.com
 digitalhub2.symantec.com
 dis05ash.dis.symantec.com
 idp-dev-tus3.symc.symantec.com
-onlinefamily.symantec.com
 trecsuser.ges.symantec.com
 tusadsdirwpi06.symc.symantec.com
 esxi-t314kl-005.symc.symantec.com
@@ -3540,7 +3537,7 @@ wsctev.symantec.com
 3090b022-3df4-11ed-ac4c-f6a6087b2ac0.ds.dlp.protect.symantec.com
 findev.symc.symantec.com
 hybrid3.symantec.com
-www.gha-crossrootremoval.symantec.com
+gha-crossrootremoval.symantec.com
 learn-central.symantec.com
 shasta-rrs-sim.symantec.com
 secsplunkindexmaster01.sre.musw1-en01.ebiz.symantec.com
@@ -3633,7 +3630,7 @@ vipuserservices-auth-tus.symantec.com
 asb1vvcvccpin01symc.symantec.com
 test-sslassistnat-ecc.symantec.com
 tus3rmcappqin02.symc.symantec.com
-www.sympay.sympay.musw1-ep02-prod.ebiz.symantec.com
+sympay.sympay.musw1-ep02-prod.ebiz.symantec.com
 awmailtest.symantec.com
 keyservice-int2.symantec.com
 knowledge-uat.symc.symantec.com
@@ -3741,7 +3738,6 @@ mywifi-dev.symantec.com
 trecs-dev.symc.symantec.com
 tus3lcsvltrin01.symc.symantec.com
 wipntn4.ntn.symantec.com
-www.456.symantec.com
 61edce44-2afc-11ed-80ef-06d907f885fc.ds.dlp.protect.symantec.com
 dlo.symantec.com
 pif-admin-asb1.nbu.symantec.com
@@ -4208,7 +4204,6 @@ tus3dlpenfpiv01.symc.symantec.com
 digitalhub-int.symc.symantec.com
 fdbc9aef-44cb-4f2e-b42f-941a873bc0f3.ds.dlp.protect.symantec.com
 kb-internal-dev.symc.symantec.com
-o3.symantec.com
 origin-www.symantec.com
 reporting.a.vip.symantec.com
 san7.symantec.com
@@ -4424,7 +4419,7 @@ vpn-us-west.symantec.com
 us-mc1.sepmobile.securitycloud.symantec.com
 qa-2015-2.symantec.com
 tus3labmonpin14.symc.symantec.com
-www.ews-gtev-ct14-5.symantec.com
+ews-gtev-ct14-5.symantec.com
 esxi-t332fg-036.symc.symantec.com
 eu.spoc.securitycloud.symantec.com
 onl-tst-1.symantec.com
@@ -4524,7 +4519,7 @@ join.symantec.com
 previewpromoserviceqa401.estore.musw1-en01.ebiz.symantec.com
 tus1adsdirpin09.symc.symantec.com
 tus3-dpext-dev-f04.symantec.com
-www.os-patch.ev.symantec.com
+os-patch.ev.symantec.com
 absmonitoring-stg2.ges.symantec.com
 mail03.mktgassets.symantec.com
 subscriptionnotification.symantec.com
@@ -4642,7 +4637,7 @@ mac-shasta-wrs-prod-tus3.symantec.com
 mss.trm.symantec.com
 norton-node6-sign.gsl.symantec.com
 upload-symwise-app-tus3.symc.symantec.com
-www.security-stg.symantec.com
+security-stg.symantec.com
 ansibletower.eu-central-1.emailsecurity.symantec.com
 extws-stg.ges.symantec.com
 mdm-patch.ges.symantec.com
@@ -4809,7 +4804,6 @@ ww3.symc.symantec.com
 search.norton.com.gtm.symantec.com
 tyo1ipttftpin01.symc.symantec.com
 sce-raritan-01.star.symantec.com
-www.ev2.symantec.com
 content-author-qa.symantec.com
 enc-qa.engdlp.symantec.com
 f68c9aa2-12c0-11ed-97db-3a07a8bc18e3.ds.dlp.protect.symantec.com
@@ -4876,7 +4870,7 @@ iconnect-symwise-qa-app-tus3.symc.symantec.com
 qa-partnernet.symantec.com
 sas-ig-03.symantec.com
 tus3pupapppin05.symc.symantec.com
-www.threatexplorer.symantec.com
+threatexplorer.symantec.com
 dev.collector.mss.symantec.com
 dub2rngnacpiv01.gso.symantec.com
 etrack.symc.symantec.com
@@ -4942,7 +4936,6 @@ cgd2iptccmpin22.net.symantec.com
 nav1amswebpcl11.ges.symantec.com
 secure1.symantec.com
 shasta-clt-beta.symantec.com
-events.symantec.com
 fmw.ges.symantec.com
 search-thawte-fr-uat.symc.symantec.com
 tus3infappsin05.symc.symantec.com
@@ -5130,7 +5123,7 @@ friday.dlplab.engdlp.symantec.com
 gpk2iptfnepin01.symc.symantec.com
 registry.spr.spt.symantec.com
 tus1entrrssex11.ges.symantec.com
-www.sha2mixed.ev.symantec.com
+sha2mixed.ev.symantec.com
 elmqa.symc.symantec.com
 pnebadsdirpin01.symc.symantec.com
 qa-sngweb.symantec.com
@@ -5238,7 +5231,6 @@ sso-dev2.trm.symantec.com
 syminfo-author-uat.symantec.com
 sympayconsole.ges.symantec.com
 gpk2iptpgupin01.net.symantec.com
-phoenix.symantec.com
 rcnqa.symantec.com
 search-bcprod.symc.symantec.com
 sshkey.ebiz.symantec.com
@@ -5368,7 +5360,6 @@ dlsalt-int.symantec.com
 estorenotifierqa4.estore.musw1-en01.ebiz.symantec.com
 login.sso.phx2.cpe.symantec.com
 tus1adsdirpin16.symc.symantec.com
-www.jenkins-ssa.gsl.symantec.com
 access-beta.symantec.com
 csrt-uat1.norton.com.gtm.symantec.com
 lccost-load1.symantec.com
@@ -5461,7 +5452,6 @@ cm-jenkins-sep.symantec.com
 kb-internal-web-tus.symantec.com
 pnetcontent.ges.symantec.com
 securitycloud-load-scep.symantec.com
-www.websecurity.symantec.com
 7aef3426-0a7c-44c4-858c-68a41ac83358.ds.dlp.protect.symantec.com
 bcls-services.symantec.com
 tus1oxywebsex06.ex.ges.symantec.com
@@ -5504,8 +5494,7 @@ gw01entry01.gw01.dis.symantec.com
 ilg1lxe11iap07.ges.symantec.com
 tus1smtextpex02.ges.symantec.com
 tus3-dpext-dev-f02.symantec.com
-www.hacrossrootremoval.symantec.com
-www.ssl.symantec.com
+hacrossrootremoval.symantec.com
 28ba3ee0-8975-11e9-8bce-0242ac110002.ds.dlp.protect.symantec.com
 hronline.ges.symantec.com
 previewsearchmasterqa401.estore.musw1-en01.ebiz.symantec.com
@@ -5540,7 +5529,7 @@ estoreemail.estore.mird1-ep01-prod.ebiz.symantec.com
 mft.symantec.com.gtm.symantec.com
 sgars-dev-web-tuc.symc.symantec.com
 tbidev2.symantec.com
-www.waf-ddos.symantec.com
+waf-ddos.symantec.com
 3d63a85e-8035-11ec-80ae-56890502f0e2.ds.dlp.protect.symantec.com
 ddpqa.salesforce.symantec.com
 innovate.elq.symantec.com
@@ -5639,7 +5628,6 @@ tus3adsdirpin05.symc.symantec.com
 ews-thawte-ct14-5.symantec.com
 gw.ecg.dlp.protect.symantec.com
 login.symantec.com
-sepc.securitycloud.symantec.com
 splunksearchhead-prod01.sre.musw1-ep01-core.ebiz.symantec.com
 kb-geotrust-symwise.symantec.com.ntn.symantec.com
 pba.eng.symantec.com
@@ -5664,7 +5652,7 @@ check-msc1.sepmobile.securitycloud.symantec.com
 cnn1adsdirpin01.symc.symantec.com
 crt.symantec.com
 tyo1iptccmpin01.symc.symantec.com
-www.symantecstore.com.gtm.symantec.com
+symantecstore.com.gtm.symantec.com
 bbva-mex-gmail-p01-smtp.phx2.dlp.protect.symantec.com
 cloudconnect2-ci.qalabs.symantec.com
 ia-auth.vip.symantec.com
@@ -5694,7 +5682,6 @@ rmtupload-uat.symc.symantec.com
 shasta-mr-healthy-test.symantec.com
 tus3sc2dddbssin25.ges.symantec.com
 symtop2.corp.symantec.com
-www.partnernet-internal.symantec.com
 amexcardupdater.sympay.musw1-ep02-prod.ebiz.symantec.com
 mvca-symc-guest.net.symantec.com
 search-thawte-fr-qa.symc.symantec.com
@@ -5717,7 +5704,7 @@ buy-dev1.symantecstore.com.gtm.symantec.com
 ccsc-build.gist.symantec.com
 dub2iptpgupin01.symc.symantec.com
 my-uat.symantec.com
-www.productactivation.symantec.com
+productactivation.symantec.com
 san7.mixev1.symantec.com
 secsplunkindexer.sre.mird1-en01.ebiz.symantec.com
 ssltest2.jp.websecurity.symantec.com
@@ -6033,7 +6020,6 @@ ash2.teamenforce6-gateway.dlp.protect.symantec.com
 ebeft-qa.symantec.com
 esxi-t314kl-034.symc.symantec.com
 weblogicadminstoreqa4.estore.musw1-en01.ebiz.symantec.com
-www.shop.symantec.com
 tus3secssbpin01.symantec.com
 asb1gdsdirpex07.symc.symantec.com
 esxi-t314kl-013.symc.symantec.com
@@ -6220,7 +6206,7 @@ csaswebalt.symantec.com
 dvalic-o365-p01-smtp.na.dlp.protect.symantec.com
 e66fe366-d934-11eb-8378-5a85cc01a790.ds.dlp.protect.symantec.com
 su4.symc.symantec.com
-www.ssproev.111.symantec.com
+ssproev.111.symantec.com
 pnebiptpgupin01.net.symantec.com
 ps-secure-tuc3.symantec.com
 qachat.mss.symantec.com
@@ -6440,7 +6426,7 @@ kb-verisign-intl-symwise-tus3.symantec.com
 pfms-dev3.wss.symantec.com
 previewrulesengine.estore.musw1-ep02-prod.ebiz.symantec.com
 tus1-lpe-ldb-wr-1-vlan-662.net.symantec.com
-www.ss-ev-sha1.111.symantec.com
+ss-ev-sha1.111.symantec.com
 pgw-verify.wss.symantec.com
 symc-corp.ges.symantec.com
 tus3rngalppiv01.gso.symantec.com
@@ -6597,7 +6583,6 @@ ges.symantec.com
 mnc1-rpi-wan-1-s1-0.net.symantec.com
 pgp.gso.symantec.com
 tus1sgnwebtin02.symc.symantec.com
-www.enterpriseenrollment.symantec.com
 antt.sam.symantec.com
 c01fd17a-58c2-4816-8f70-1827561d3ac1.ds.dlp.protect.symantec.com
 cowc-o365-p01-smtp.na.dlp.protect.symantec.com
@@ -6676,7 +6661,6 @@ zone-relay.symc.symantec.com
 14923bee-d890-11ec-a689-96fc6c7035c3.ds.dlp.protect.symantec.com
 cebemain-int2.symantec.com
 fileconnect-dev.symantec.com
-www.partnernet-qa.symantec.com
 a13d1cbb-c787-4c55-ad52-6cd220126ac0.ds.dlp.protect.symantec.com
 nortonlogs.symantec.com
 pilot-eca-prs2048.pki.symantec.com
@@ -6706,7 +6690,6 @@ customersupportuat.symantec.com
 fd809dff-99fe-43ac-868e-85ceda82a417.ds.dlp.protect.symantec.com
 sabrix-report.symc.symantec.com
 tus1oxyweblex08.ges.symantec.com
-www.cops.symantec.com
 905c18d2-bc4f-11ed-834c-9a329d434ff5.ds.dlp.protect.symantec.com
 beachhead-int.symantec.com
 pbacbct.eng.symantec.com
@@ -6990,11 +6973,9 @@ lcsitemain-stage.symantec.com
 nfmdm.symantec.com
 pnebrngfwlpiv01.gso.symantec.com
 previewauthserviceqa401.estore.musw1-en01.ebiz.symantec.com
-sympay.sympay.musw1-ep02-prod.ebiz.symantec.com
 tus3secinxpin62.symc.symantec.com
 train-licensing.symantec.com
 ts2950-37.engba.symantec.com
-www.auth.ssadev.symantec.com
 cdm-insertapi1-prod.gist-cloud.symantec.com
 ds-staging.trm.symantec.com
 jenkins-master05-tus3.symc.symantec.com
@@ -7279,7 +7260,6 @@ buy-qa1.norton.com.gtm.symantec.com
 capriza-vip-syminfo.symantec.com
 esxi-t314kl-036.symc.symantec.com
 missreporting.qalabs.symantec.com
-partnernet-sit.symantec.com
 sympayconsole-uat1.ges.symantec.com
 sabrix.symc.symantec.com
 stage-shs.symantec.com
@@ -7475,7 +7455,7 @@ rtdest-check.ops.vip.symantec.com
 san3.tcce1.symantec.com
 scdc-dev-sort.engba.symantec.com
 tus3iptccmdin03.symc.symantec.com
-www.sub-request.111.symantec.com
+sub-request.111.symantec.com
 cloudeng1.net.symantec.com
 mssl_828045253.symantec.com
 nrevn.1.symantec.com
@@ -7547,7 +7527,6 @@ productadvisor-stg.symantec.com
 e54b821c-3fc8-4e66-9b4f-c161ea64379a.ds.dlp.protect.symantec.com
 sin1iptccmpi03.net.symantec.com
 tusextprod7111.ges.symantec.com
-www.uep.securitycloud.symantec.com
 api.eu.dmas.symantec.com
 c3po.engdlp.symantec.com
 esxi-t314kl-004.symc.symantec.com
@@ -7661,7 +7640,7 @@ identity-dev.symc.symantec.com
 node8-sign.gsl.symantec.com
 partnernet-author-uat.nbu.symantec.com
 scmnet50prod.symc.symantec.com
-www.my.symantec.com
+my.symantec.com
 previewpromoserviceqa501.estore.musw1-en01.ebiz.symantec.com
 san38.symantec.com
 ssltest-san2-sub29.jp.websecurity.symantec.com
@@ -7811,7 +7790,7 @@ content-dev.connect.symantec.com
 devarch.edrc.symantec.com
 hb-tus.symantec.com
 mss-jira.symantec.com
-www.nev004.symantec.com
+nev004.symantec.com
 afe5561e-5679-4059-baea-55f1d7c5e5c2.ds.dlp.protect.symantec.com
 esxi-t314kl-062.symc.symantec.com
 splunk-stage.ebiz.symantec.com
@@ -7951,7 +7930,7 @@ gw02entry01.gw02.dis.symantec.com
 netnod-ix-ge-b-sth-4770.symantec.com
 san9.mixev1.symantec.com
 spr1iptlgrpin01.symc.symantec.com
-www.testev-thawte-prod.symantec.com
+testev-thawte-prod.symantec.com
 tools-uat.symc.symantec.com
 tus1smtinbpex02.symantec.com
 34535.symantec.com
@@ -8207,7 +8186,6 @@ mdm-qa2.symc.symantec.com
 searchmaster.estore.musw1-ep02-prod.ebiz.symantec.com
 searchservice-symwise-qa.symc.symantec.com
 tus3comewypex04.ges.symantec.com
-www.123.symantec.com
 ash2.securitycloud-r3.symantec.com
 elmqa2.symc.symantec.com
 lcsas-int2.symantec.com
@@ -8269,7 +8247,6 @@ sem-uat.symantec.com
 tus1smtoutpex02.symantec.com
 tus3tibemsserverint7444.symc.symantec.com
 tools-uat.symantec.com
-www.estore.estore.musw1-ep02-prod.ebiz.symantec.com
 lcwer.symantec.com
 manage.norton.com.ntn.symantec.com
 sentinel16-2.symantec.com
@@ -8336,7 +8313,6 @@ ding.ewip.symantec.com
 esxi-t314kl-076.symc.symantec.com
 knowledge-qa.symc.symantec.com
 store1stg.symantec.com
-www.wat.symantec.com
 tus1smtinbpex02-tmp.symantec.com
 dev-community-datapower.connect.symantec.com
 dvalic.phx2.dlp.protect.symantec.com
@@ -8381,7 +8357,6 @@ ilg1lxfmw02.ges.symantec.com
 partnerdesk.symantec.com
 ssid-ev-1year-iis-201502-0709.jp.websecurity.symantec.com
 mirror.sam.symantec.com
-my.symantec.com
 tibcoemsqa2201.shared.mird1-en01.ebiz.symantec.com
 cce11086-50ca-11e9-9a5f-0242ac110003.ds.dlp.protect.symantec.com
 dub2secspepin02.symc.symantec.com
@@ -8417,7 +8392,7 @@ kb-internal-dev-app-tus3.symc.symantec.com
 metadatauat21.ebiz.symantec.com
 pif2.symantec.com
 tus1bkpacspex03.ges.symantec.com
-www.evcert.ev.symantec.com
+evcert.ev.symantec.com
 estoreqa501.estore.musw1-en01.ebiz.symantec.com
 mssl_828044752.symantec.com
 trecs-qa.symc.symantec.com
@@ -8478,14 +8453,13 @@ gpk3-rpe-core-1.net.symantec.com
 onboard.norton.com.gtm.symantec.com
 sub.eng.symantec.com
 tus3-dpext-dev-f06.symantec.com
-www.copsportal.symantec.com
 atp-ctp-8.symantec.com
 ecomsplunk.norton.com.gtm.symantec.com
 legacy.datafeeds.symantec.com
 uat-erpu5.ges.symantec.com
 webduniya.bizbdl-int.symantec.com.gtm.symantec.com
 7ddab258-899f-467b-a9e4-637764a90d3f.ds.dlp.protect.symantec.com
-www.ct14-5.symantec.com
+ct14-5.symantec.com
 c15fac40-9919-11ed-8fa5-ce13c3dfe12a.ds.dlp.protect.symantec.com
 san9.symantec.com
 tibemsserverext_7999.ges.symantec.com
@@ -8572,7 +8546,7 @@ abs1swigwysex01.symc.symantec.com
 dub2iptfnepin01.net.symantec.com
 entkb.symantec.com
 origin-www-prd.symantec.com
-www.mdm.securitycloud.symantec.com
+mdm.securitycloud.symantec.com
 san22.symantec.com
 sympayconsoleqa4.sympay.musw1-en01.ebiz.symantec.com
 tus3adsdirpin17.symc.symantec.com
@@ -8603,7 +8577,7 @@ tus3iptutypin01.symc.symantec.com
 eu-west-1c.mta.dlp.protect.symantec.com
 idprotect.vip.symantec.com
 iosprofile.sepmobile.securitycloud.symantec.com
-www.testev.symantec.com
+testev.symantec.com
 imws-symwise-app-asb1.symc.symantec.com
 ip.protect.symantec.com
 mobilesecurity-stg.norton.com.ntn.symantec.com
@@ -8761,7 +8735,7 @@ previewestoreomqa501.estore.musw1-en01.ebiz.symantec.com
 usw1igaappp03.symc.symantec.com
 pam-psm.symc.symantec.com
 tus3vmwmonpin08.symc.symantec.com
-www.sspro-ev-sha1.111.symantec.com
+sspro-ev-sha1.111.symantec.com
 asb1comewypex02.symc.symantec.com
 community1.symc.symantec.com
 dub2iptsmepin01.symc.symantec.com
@@ -8964,7 +8938,6 @@ qliksenseext.symantec.com
 spf-ilg.pki.symantec.com
 symproject.ges.symantec.com
 tai-vdi-cs-1.symc.symantec.com
-waf-ddos.symantec.com
 api.trm.mss.symantec.com
 evenstring2.symantec.com
 mfg-nagios.gsl.symantec.com
@@ -9008,7 +8981,7 @@ websvc-qa1.symantecstore.com.gtm.symantec.com
 aciapg-www.symantec.com
 imwstest-symwise.symantec.com
 tibemsserverint_8777.ges.symantec.com
-www.gso-uat-test01.symc.symantec.com
+gso-uat-test01.symc.symantec.com
 ansibletower.af-south-1.emailsecurity.symantec.com
 atp-ctp-2.symantec.com
 gatekeyper-dev.symc.symantec.com
@@ -9047,8 +9020,7 @@ xmlservice-qa01extf.symantec.com
 password-agents-asb1.symantec.com
 sensurabbitmq01.sre.musw1-en01.ebiz.symantec.com
 valid-root5.websecurity.symantec.com
-www.9876.symantec.com
-www.ev12311.symantec.com
+9876.symantec.com
 tus3rngdllpiv01.gso.symantec.com
 asb1-mpi-nac-02.net.symantec.com
 dis01gw.dis.symantec.com
@@ -9201,7 +9173,6 @@ na01sa01.na01.nrsi.symantec.com
 psr48.eon.gsl.symantec.com
 webdl-int.symantec.com.gtm.symantec.com
 tus1iptccmpin21.net.symantec.com
-www.ci.ssa.symantec.com
 222.symantec.com
 ashnetclsi03.symc.symantec.com
 newct.symantec.com
@@ -9298,7 +9269,6 @@ pdh-uat.ges.symantec.com
 rmtdv2.symc.symantec.com
 tus1ciswebpex05.ges.symantec.com
 tus3pimpsmdin01.symc.symantec.com
-www.splunk.musw1-en01.ebiz.symantec.com
 dub2rngaaapiv01.gso.symantec.com
 gdsdir-prod.ges.symantec.com
 glusterfsqa2203.shared.mird1-en01.ebiz.symantec.com
@@ -9373,7 +9343,6 @@ tus3vdiapppin12.symc.symantec.com
 de63cb50-5868-437e-be00-3878ea40331b.ds.dlp.protect.symantec.com
 dls-int2.symantec.com.gtm.symantec.com
 sites.symantec.com
-splunk.mird1-en01.ebiz.symantec.com
 symsearch-ui-dev.symc.symantec.com
 packages.symantec.com
 3e03a1be-3f45-44ec-9def-600a3f78f888.ds.dlp.protect.symantec.com
@@ -9429,11 +9398,9 @@ shasta-test.symantec.com
 http-3a__www.symantec.com
 8e7c0420-e0de-11ec-b30d-4e9ec821cfab.ds.dlp.protect.symantec.com
 admin-wcsp1.ges.symantec.com
-mdm.securitycloud.symantec.com
 norton-node3-sign.gsl.symantec.com
 webservice-extf.symantec.com.gtm.symantec.com
-www.testnev005.symantec.com
-www.security.symantec.com
+testnev005.symantec.com
 xmlservice-sfdc.symantec.com.gtm.symantec.com
 602f948e-a261-11ed-a59e-1ad34f793877.ds.dlp.protect.symantec.com
 client-id-cs3qa.wss.symantec.com
@@ -9511,7 +9478,6 @@ ssupdates-uat-web.symc.symantec.com
 stage-heimdall.gist.symantec.com
 my.vip.symantec.com
 artifactory-01.qalabs.symantec.com
-emea.symantec.com
 hb.symantec.com
 iconnect-symwise-uat.symantec.com
 jenkins-stage.ebiz.symantec.com
@@ -9528,7 +9494,6 @@ dvalic.ash2.dlp.protect.symantec.com
 jira-poc.symc.symantec.com
 tus3ecawebpex01.symc.symantec.com
 ustu-exdns-1.ges.symantec.com
-www.copskibana.symantec.com
 tus3wfeapppin01.symc.symantec.com
 api.elastica.eu.wss.symantec.com
 awmail.symantec.com.gtm.symantec.com
@@ -9568,7 +9533,7 @@ client-id-stage.wss.symantec.com
 extu-vbpob-2.symantec.com
 reply.nortonproducts.symantec.com
 sensuuchiwa02.sre.mird1-ep01-prod.ebiz.symantec.com
-www.sha2-mixed.ev.symantec.com
+sha2-mixed.ev.symantec.com
 knowledge-rapidssl-dev.symc.symantec.com
 solve.elq.symantec.com
 submit-cc-web01.gist.symantec.com
@@ -9765,7 +9730,6 @@ mssl_82805018.symantec.com
 mv.symantec.com
 tus3secinxpin33.symc.symantec.com
 tus3swilicsin01.symc.symantec.com
-www.partnernet-temp.symantec.com
 cdn-stage.securitycloud.symantec.com
 iconnect-symwise.symantec.com.ntn.symantec.com
 node5-sign.gsl.symantec.com
@@ -9848,7 +9812,6 @@ portal.a.gist-cloud.symantec.com
 tus3adsdirpin16.symc.symantec.com
 tus3nplkeysin02.symc.symantec.com
 tus3comewypex03.ges.symantec.com
-www.protectyoursecrets.symantec.com
 catalog-tst-1.symantec.com
 d9e8edbe-79b7-11ea-80e7-0242ac110002.ds.dlp.protect.symantec.com
 ev2-replace-dsa.ev12311.symantec.com
@@ -10014,7 +9977,7 @@ ustu-sne-core-1-vlan516.net.symantec.com
 crssrch-prd3.ges.symantec.com
 tibcobw.shared.mird1-ep01-prod.ebiz.symantec.com
 tus1-dpext-stg-f11.ges.symantec.com
-www.119.symantec.com
+119.symantec.com
 lcebe-stage.symantec.com
 tyo1rngsnepiv01.gso.symantec.com
 vr.status.symantec.com
@@ -10065,7 +10028,6 @@ promoreader.ebiz.symantec.com
 store-cm-dev2.symanteccloud.com.gtm.symantec.com
 tus1-dpext-stg-fo15.ges.symantec.com
 tus3rngpampiv01.gso.symantec.com
-119.symantec.com
 abtest2.ds.protect.symantec.com
 central.b6.crsi.symantec.com
 ebewer-qa.symantec.com
@@ -10206,7 +10168,7 @@ tus1-lpe-ldb-wr-2-vlan-660.net.symantec.com
 webappmpg-01rosetta.symantec.com
 ssltest-san2-sub54.jp.websecurity.symantec.com
 tus3secinxpin72.symc.symantec.com
-www.789.symantec.com
+789.symantec.com
 csas-vm-load.symantec.com
 hmt-uat.symc.symantec.com
 hyperion.symantec.com
@@ -10268,7 +10230,7 @@ peering.symantec.com
 spr1iptcucpin01.net.symantec.com
 tcce2.symantec.com
 werams-qa1.symantec.com.gtm.symantec.com
-www.servicedesk.smc.symantec.com
+servicedesk.smc.symantec.com
 symbinqa501.sympay.musw1-en01.ebiz.symantec.com
 testptr.pki.symantec.com
 optimus-int2-01.usccqa.qalabs.symantec.com
@@ -10422,7 +10384,7 @@ tus1gfnappsex02.ex.ges.symantec.com
 cmp-iaas-tus3.symc.symantec.com
 spf-ilg.websecurity.symantec.com
 ssltest-san2-sub71.jp.websecurity.symantec.com
-www.adc-mird.ebiz.symantec.com
+adc-mird.ebiz.symantec.com
 adc-musw-np.ebiz.symantec.com
 previewestore.estore.musw1-ep02-prod.ebiz.symantec.com
 ssltest-san2-sub63.jp.websecurity.symantec.com
@@ -10431,7 +10393,6 @@ san24.mixev1.symantec.com
 store-cm-qa1.symanteccloud.com.gtm.symantec.com
 symorder.symantec.com.gtm.symantec.com
 vpn-infra-2.securitycloud.symantec.com
-www.service1.symantec.com
 octopus-tools.symc.symantec.com
 protex.net.symantec.com
 usw1adsdirp02.symc.symantec.com
@@ -10476,7 +10437,6 @@ csrqa22.estore.mird1-en01.ebiz.symantec.com
 slsacv-gmail-p01-smtp.ash2.dlp.protect.symantec.com
 spf-mtv.symantec.com
 30cdfa8f-5cc4-4e8f-8527-0de08e9e55ed.ds.dlp.protect.symantec.com
-555.symantec.com
 5805d33a-e621-11ea-9fb2-0242ac110002.ds.dlp.protect.symantec.com
 agents-stage.symantec.com
 client-id-qa-mtv.wss.symantec.com
@@ -10580,7 +10540,6 @@ mssl_828045952.symantec.com
 uscu-rpd-gate-1.net.symantec.com
 werams-qa1.symantec.com
 wip4.symantec.com
-www.cryptoservice.shared.musw1-ep02-prod.ebiz.symantec.com
 oidc2.vip.symantec.com
 pd-mestceks-padmspev1sen161.symantec.com
 search-thawte-de-uat-symc.symantec.com
@@ -10623,7 +10582,6 @@ password-agents.symantec.com.gtm.symantec.com
 sc-submit-lb.gist.symantec.com
 tusvc-06.symc.symantec.com
 vip-dev-jenkins-master.symc.symantec.com
-www.jp.websecurity.symantec.com
 splunkhforwarder.sre.musw1-ep01-core.ebiz.symantec.com
 tus3ecawebpex02.symc.symantec.com
 ar02sa02.ar02.crsi.symantec.com
@@ -10723,7 +10681,6 @@ crmeappsqa.symantec.com
 ds.trm.symantec.com
 isupplier-qa.symantec.com
 seti.i18n.symantec.com
-adc-mird.ebiz.symantec.com
 beachhead.symantec.com
 gsid-ev-1year-iis-201504-0717.jp.websecurity.symantec.com
 managingmobility.symantec.com
@@ -10745,7 +10702,6 @@ tus3itaapppin01.symc.symantec.com
 api-stage.connect.symantec.com
 excu-bigip2.symantec.com
 tibcobwqa2203.shared.mird1-en01.ebiz.symantec.com
-www.service.symantec.com
 09b9100d-f3f2-47e9-bfd5-9820f3def598.ds.dlp.protect.symantec.com
 pctools-shasta-wrs.symantec.com.ntn.symantec.com
 symu-uat.symantec.com
@@ -10780,7 +10736,6 @@ tyo1rnguxppiv01.gso.symantec.com
 passive.userservices.vip.symantec.com
 snowopsreporting.symc.symantec.com
 tus3gntvcspin04.symc.symantec.com
-threatexplorer.symantec.com
 pctools-shasta-rrs.symantec.com
 danone-admin.sam.symantec.com
 mvc1edpclstr01.symc.symantec.com
@@ -10871,8 +10826,6 @@ adc-mird-np-0.sre.mird1-en01.ebiz.symantec.com
 asb1iptfnepin01.symc.symantec.com
 support-cc-qa.symantec.com
 tusadsdirwpi13.symc.symantec.com
-safeweb.symantec.com
-www.my-qa.symantec.com
 client-id-cicd.wss.symantec.com
 previewmetadataservice.estore.musw1-ep02-prod.ebiz.symantec.com
 shasta-rrs.symantec.com
@@ -10904,7 +10857,6 @@ contentimportexportqa401.estore.musw1-en01.ebiz.symantec.com
 securefileshareint.symantec.com
 sensuuchiwa.sre.musw1-ep02-prod.ebiz.symantec.com
 tus1cciappsex01.ges.symantec.com
-security-stg.symantec.com
 sre-workflow.gist.symantec.com
 vpn.ca-central-1.cde.symantec.com
 cul1sgnwebpin02.symc.symantec.com
@@ -10933,7 +10885,7 @@ nprinting-dev.symc.symantec.com
 olpadmin-int2.symantec.com
 san32.mixev1.symantec.com
 tus3labmonpin07.symc.symantec.com
-www.1531.111.symantec.com
+1531.111.symantec.com
 mssl_828045938.symantec.com
 tus3secinxpin64.symc.symantec.com
 tus3tibemsserverint_7777.symc.symantec.com
@@ -11049,7 +11001,6 @@ bc50cea6-2176-11ee-be21-5e32ecb6e204.ds.dlp.protect.symantec.com
 cloud-uat.symantec.com
 estoresettleqa2201.estore.mird1-en01.ebiz.symantec.com
 ev-rsa-mix-050714.symantec.com
-go.symantec.com
 ssp.a.vip.symantec.com
 sympay-lt1.ges.symantec.com
 tus1cciapppex01.ges.symantec.com
@@ -11063,7 +11014,6 @@ buy-uat1.norton.com.gtm.symantec.com
 fc93437c-4d17-11ea-98c1-0242ac110002.ds.dlp.protect.symantec.com
 ilg1lxwlc1w2.ges.symantec.com
 swrs-qa1.ges.symantec.com
-www.adc-musw.ebiz.symantec.com
 aprtool-dev.symc.symantec.com
 asb1vipapppin03.ges.symantec.com
 pfms-cicd.wss.symantec.com
@@ -11089,7 +11039,6 @@ tus3netclstrpin01-pin01.symc.symantec.com
 37bef85d-6270-4d81-8dc0-962f33a8e87b.ds.dlp.protect.symantec.com
 brew.websecurity.symantec.com
 dsaree.symantec.com
-i18n.symantec.com
 tus1oxywebsex04.ges.symantec.com
 ssae-stage.symantec.com.gtm.symantec.com
 subscriptions1.symantec.com
@@ -11129,7 +11078,6 @@ lighthouseilus.punin.sen.symantec.com
 sprnvc-sso.spr.spt.symantec.com
 cloudsecurity-gc.symantec.com
 string001sto.symantec.com
-watportal.symantec.com
 09dec3.666.symantec.com
 jenkins-ngc-cc.gsl.symantec.com
 rulesuiqa2202.estore.mird1-en01.ebiz.symantec.com

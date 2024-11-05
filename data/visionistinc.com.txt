@@ -6,7 +6,7 @@ draft-gem.labs.visionistinc.com
 calendar.visionistinc.com
 unanet.visionistinc.com
 bslite.labs.visionistinc.com
-www.helpdesk.visionistinc.com
+helpdesk.visionistinc.com
 traefik.caughtflag-test.labs.visionistinc.com
 portal.visionistinc.com
 365.visionistinc.com
@@ -17,7 +17,7 @@ shmoocon.caughtflag.labs.visionistinc.com
 shmoocon2024.caughtflag.labs.visionistinc.com
 mail.visionistinc.com
 files.visionistinc.com
-www.vdi.visionistinc.com
+vdi.visionistinc.com
 ffast.visionistinc.com
 dev.visionistinc.com
 wtp.visionistinc.com
@@ -31,7 +31,6 @@ login.visionistinc.com
 docs.visionistinc.com
 servicedesk.visionistinc.com
 gitlab.visionistinc.com
-www.visionistinc.com
 takeback.labs.visionistinc.com
 jira.visionistinc.com
 bd.visionistinc.com
@@ -53,7 +52,7 @@ loci.labs.visionistinc.com
 ns-rc.labs.visionistinc.com
 raptor.labs.visionistinc.com
 ssyy.labs.visionistinc.com
-www.fast.visionistinc.com
+fast.visionistinc.com
 talktracker.labs.visionistinc.com
 caughtflag.labs.visionistinc.com
 jimbot.labs.visionistinc.com
@@ -73,14 +72,10 @@ elastic.testing.pc.labs.visionistinc.com
 launchpad.labs.visionistinc.com
 nginx1.caughtflag-test.labs.visionistinc.com
 bestflag.caughtflag-test.labs.visionistinc.com
-www.servicedesk.visionistinc.com
 neuroace-ui.labs.visionistinc.com
 neuroace.labs.visionistinc.com
-vdi.visionistinc.com
 wordpress.visionistinc.com
-fast.visionistinc.com
 trifecta.testing.pc.labs.visionistinc.com
-www.unanet.visionistinc.com
 draft-gem-highschool.labs.visionistinc.com
 neo4j.testing.pc.labs.visionistinc.com
 testing3.nanostorm.labs.visionistinc.com
@@ -93,7 +88,6 @@ cake.labs.visionistinc.com
 linux.visionistinc.com
 ns-syyphon.labs.visionistinc.com
 testing2.nanostorm.labs.visionistinc.com
-helpdesk.visionistinc.com
 nexus.visionistinc.com
 dev.snapshot.labs.visionistinc.com
 graphite.testing.pc.labs.visionistinc.com

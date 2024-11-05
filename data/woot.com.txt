@@ -19,7 +19,7 @@ scom.production.woot.com
 builder.woot.com
 mdm.woot.com
 mothership.woot.com
-www.vpn.woot.com
+vpn.woot.com
 aicache.members.woot.com
 localhost.woot.com
 members.woot.com
@@ -30,7 +30,7 @@ sap.woot.com
 scomops101.staging.woot.com
 http.woot.com
 wootgpt.staging.woot.com
-www.corpmail.woot.com
+corpmail.woot.com
 gzip.static.woot.com
 sslwww.woot.com
 synapsemail.woot.com
@@ -39,7 +39,6 @@ mediaservice.woot.com
 accessories.woot.com
 pia.woot.com
 wantone.woot.com
-corpmail.woot.com
 error.woot.com
 pbx.woot.com
 server.woot.com
@@ -49,7 +48,7 @@ sslshirt.woot.com
 support.devo.woot.com
 ww1.woot.com
 wine.woot.com
-www.home.woot.com
+home.woot.com
 vip-auth.woot.com
 bidet.woot.com
 mail1.news.woot.com
@@ -112,15 +111,13 @@ cim-service-qa.woot.com
 eventstreamapi.devo.woot.com
 fw.woot.com
 games.woot.com
-www.www.woot.com
+www.woot.com
 help.woot.com
 sale.images.woot.com
-www.woot.com
 star-mini.c10r.facebook.comhome.woot.com
 support.woot.com
 survey.woot.com
 test.woot.com
-www.shirt.woot.com
 upload.woot.com
 wootscanapi.staging.woot.com
 c.woot.com
@@ -146,7 +143,6 @@ graphql.staging.woot.com
 face.woot.com
 tools.woot.comaccount.woot.com
 woot.woot.com
-www.kids.woot.com
 email.images.woot.com
 forums.woot.com
 catshirts.woot.com
@@ -178,9 +174,9 @@ dns1.woot.com
 docker.woot.com
 酒.woot.com
 ns1.woot.com
-www.sellout.woot.com
+sellout.woot.com
 noreply.woot.com
-www.deals.woot.com
+deals.woot.com
 cloud.woot.com
 short.woot.com
 dns2.woot.com
@@ -190,7 +186,6 @@ wwww.woot.com
 beer.woot.com
 careers.woot.com
 cim-api-uat.woot.com
-deals.woot.com
 outlook.woot.com
 video.woot.com
 debug.woot.com
@@ -211,17 +206,14 @@ account.woot.com
 dropship.woot.com
 ns.woot.com
 root.woot.com
-sellout.woot.com
 staging.woot.com
 8023bb5f542a68c1dbae6caf2bc510ae.woot.com
 sport.woot.com
 wantone.devo.woot.com
-www.staging.woot.com
 autoconfig.woot.com
 ns3.woot.com
 pop3.woot.com
 whistler.woot.com
-www.wine.woot.com
 graphql.woot.com
 images.deals.woot.com
 postmaster.woot.com
@@ -236,7 +228,6 @@ account.staging.woot.com
 admin.staging.woot.com
 aicache.lb.woot.com
 pizza.woot.com
-home.woot.com
 old.woot.com
 wootgpt.woot.com
 mail3.news.woot.com
@@ -260,9 +251,7 @@ wootscanapi.devo.woot.com
 autodiscover.woot.com
 gw.woot.com
 vendor.devo.woot.com
-vpn.woot.com
 home.staging.woot.com
-www.tools.woot.com
 wootscan.devo.woot.com
 pets.woot.com
 crowdstriketest.woot.com
@@ -284,5 +273,4 @@ gzip.static.deals.woot.com
 computers.woot.comelectronics.woot.com
 sport.staging.woot.com
 accesories.woot.com
-www.vendorportal.woot.com
 vp2.vendor.woot.com

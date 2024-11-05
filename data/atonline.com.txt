@@ -1,11 +1,10 @@
 sip.atonline.com
 smtp.atonline.com
 my.atonline.com
-www.atonline.com
 customer.atonline.com
 jp002.sip.atonline.com
 atim.atonline.com
-www.att.atonline.com
+att.atonline.com
 spins.atonline.com
 static.atonline.com
 git.atonline.com
@@ -24,4 +23,3 @@ carolinabb.atonline.com
 ws-noauth.atonline.com
 audio.atonline.com
 dancemusicbb.atonline.com
-*.doexec.atonline.com

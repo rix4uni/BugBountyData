@@ -88,12 +88,6 @@ vab-mx201.valiant.ch
 vpn2corp.valiant.ch
 vpn2corp-test.valiant.ch
 webconf.valiant.ch
-www.valiant.ch
-www.actuslilas.valiant.ch
-www.actuslilas-tst.valiant.ch
-www.lilaktuell.valiant.ch
-www.lilaktuell-tst.valiant.ch
-www.sip.valiant.ch
 wwwsec.valiant.ch
 wwwsec-i.valiant.ch
 wwwsec-i.mobile.valiant.ch
@@ -110,7 +104,7 @@ wwwsec.brv.valiant.ch
 al.tst.ident.valiant.ch
 www3.valiant.ch
 wwwsec.ste.valiant.ch
-www.bjl.valiant.ch
+bjl.valiant.ch
 al.prd.services.valiant.ch
 bitbucket.valiant.ch
 jira.valiant.ch
@@ -120,7 +114,6 @@ wsec.valiant.ch
 w.valiant.ch
 al.tst.services.valiant.ch
 confluence.valiant.ch
-bjl.valiant.ch
 052iibrandq-devqvv806.edu.valiant.ch
 013tn131vy3fy6g13jsstaging4.edu.valiant.ch
 052dvwadvwacq92v806servdvwacew.edu.valiant.ch
@@ -230,7 +223,7 @@ tcsuaspd.0.edu.valiant.ch
 052iiawsq92v806testw.edu.valiant.ch
 5f5b5b10b65f.052ii12q92v806qaw.edu.valiant.ch
 052globalglobalcq92v806qaw.edu.valiant.ch
-www.0.edu.valiant.ch
+0.edu.valiant.ch
 013tn131vy3fy6g13js-devopsfs.edu.valiant.ch
 graphql.052forumforumcq92v806qaw.edu.valiant.ch
 010tn101vy3fy6g10js-envadfs33.edu.valiant.ch
@@ -1565,7 +1558,6 @@ lilakauto-vpn2live-tst-eu-test-amdemo-adminell-tst.0.edu.valiant.ch
 03tn31vy3fy6g3jspreviewopenlab.edu.valiant.ch
 015tn151vy3fy6g15js-mgmtlive-aps6.edu.valiant.ch
 check.edu.valiant.ch
-0.edu.valiant.ch
 051iicq91v806qaw-version1wfs.edu.valiant.ch
 0122iicq92v806qaw-version2.edu.valiant.ch
 011tn111vy3fy6g11js-devops-www10.edu.valiant.ch

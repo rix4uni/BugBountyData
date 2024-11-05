@@ -4,7 +4,6 @@ mta-sts.register.si
 kocna.register.si
 epp-test.register.si
 dnssec-signer.register.si
-www.register.si
 polovnik.register.si
 eppv3db3.register.si
 kozice.register.si
@@ -15,7 +14,7 @@ epp-internal-devx.register.si
 epp-internal-dev1.register.si
 sitarjevec.register.si
 redmine.register.si
-www.test.register.si
+test.register.si
 epp-internal-dev2.register.si
 epp-internal-dev.register.si
 eppv3db2.register.si
@@ -23,14 +22,11 @@ replikav3.register.si
 hudournik.register.si
 eppv3db4.register.si
 matsi.register.si
-www.matsi.register.si
 netnod.register.si
 d-zone2.register.si
 d-zone1.register.si
-www.idp.register.si
 kljukav3.register.si
 kljuka.register.si
-test.register.si
 mrzovec.register.si
 straza3.register.si
 straza1.register.si

@@ -15,11 +15,10 @@ jiratest.24i.com
 smarttv-pureflix-dev.24i.com
 my.cinessance.staging.24i.com
 tvaas.24i.com
-www.jiratest.24i.com
 jira-staging.24i.com
 jirastaging.24i.com
-www.jira.24i.com
-www.ssltest.24i.com
+jira.24i.com
+ssltest.24i.com
 ssl-test.24i.com
 backstage-fapi-staging.24i.com
 jira-debug.24i.com
@@ -39,12 +38,7 @@ jira-old.24i.com
 pureflix-stage.24i.com
 videos.cinessance.24i.com
 experience.24i.com
-www.24i.com
-www.backstage-cms.24i.com
-www.ssl-test.24i.com
-www.time.24i.com
 avod.24i.com
-jira.24i.com
 mail.24i.com
 sentry.24i.com
 interviewtest.24i.com

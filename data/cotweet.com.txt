@@ -6,7 +6,7 @@ canary.cotweet.com
 suckerfish-api-01.dev02.cotweet.com
 ent-new-staging.cotweet.com
 test1.cotweet.com
-www.sftest.cotweet.com
+sftest.cotweet.com
 ent-qa-imh.cotweet.com
 calendar.cotweet.com
 app4.cotweet.com
@@ -31,7 +31,6 @@ intake-haproxy-01.prod01.cotweet.com
 mta.email.cotweet.com
 staging.cotweet.com
 ent-qa2-pub-sub.cotweet.com
-sftest.cotweet.com
 media.cotweet.com
 ent-dev2.cotweet.com
 ent-dev2-imh.cotweet.com
@@ -46,7 +45,6 @@ app.cotweet.com
 enterprisesupport.cotweet.com
 suckerfish-api-01.qa02.cotweet.com
 docs.cotweet.com
-www.cotweet.com
 dev.cotweet.com
 mx02.cotweet.com
 mk.qa.cotweet.com

@@ -2,7 +2,6 @@ integrations-dev.knockri.com
 centralca.graphql-dev.knockri.com
 eastus.graphql-dev.knockri.com
 eastus.apply.knockri.com
-www.knockri.com
 eastus.recruiter.knockri.com
 integrations.knockri.com
 evaluator.knockri.com
@@ -42,7 +41,5 @@ regional-logger.knockri.com
 regional.application.knockri.com
 stg-application.knockri.com
 mail1.knockri.com
-www.mail1.knockri.com
-www.mail.knockri.com
+mail.knockri.com
 email.knockri.com
-www.email.knockri.com

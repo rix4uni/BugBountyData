@@ -4,11 +4,9 @@ app.orcasecurity.io
 region-selection.orcasecurity.io
 app.sa.orcasecurity.io
 workflow-runners.orcasecurity.io
-*.workflow-runners.orcasecurity.io
 threatoptix.production-ryan1.us-east-1.orcasecurity.io
 us.hb32.app.orcasecurity.io
 api.orcasecurity.io
-www.orcasecurity.io
 threatoptix.production.ap-southeast-2.orcasecurity.io
 liran2-dev.orcasecurity.io
 eu.orcasecurity.io

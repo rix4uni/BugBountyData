@@ -5,13 +5,12 @@ kiosk-rc-na.bitaccessbtm.com
 empirebit.bitaccessbtm.com
 apidev.bitaccessbtm.com
 edge.bitaccessbtm.com
-www.kiosk-eu.bitaccessbtm.com
+kiosk-eu.bitaccessbtm.com
 opdev.bitaccessbtm.com
 rockitcoin.bitaccessbtm.com
 kiosk-api.bitaccessbtm.com
 work-api-rc.bitaccessbtm.com
 cash2bitcoin.bitaccessbtm.com
-www.bitaccessbtm.com
 cashapi-test.bitaccessbtm.com
 firstcoinatmcustomerportal.bitaccessbtm.com
 kiosk-rc.bitaccessbtm.com
@@ -33,7 +32,6 @@ limewire-api.bitaccessbtm.com
 devlogin.bitaccessbtm.com
 admin-api.bitaccessbtm.com
 metrofino.bitaccessbtm.com
-kiosk-eu.bitaccessbtm.com
 coincloud.bitaccessbtm.com
 bitcoindepot.bitaccessbtm.com
 crypto-kiosk.bitaccessbtm.com
@@ -47,7 +45,6 @@ iframe-test.bitaccessbtm.com
 s.bitaccessbtm.com
 cctest.bitaccessbtm.com
 bitcoindepot-dev.bitaccessbtm.com
-*.bitaccessbtm.com
 aatp-console.kiosk-rc-eu.bitaccessbtm.com
 admin-api-dev.bitaccessbtm.com
 admin-api-eu.bitaccessbtm.com

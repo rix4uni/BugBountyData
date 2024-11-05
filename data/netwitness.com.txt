@@ -101,7 +101,6 @@ nwo.lab.netwitness.com
 archiver.hosted.netwitness.com
 tric2.lab.netwitness.com
 www-dev.netwitness.com
-www.cms.netwitness.com
 api.iot.netwitness.com
 bw.lab.netwitness.com
 update.netwitness.com
@@ -142,12 +141,10 @@ status.netwitness.com
 community.staging.netwitness.com
 appliance.hosted.netwitness.com
 status.insight.netwitness.com
-www.webinars.netwitness.com
+webinars.netwitness.com
 ops.dev.iot.netwitness.com
 proxmox01.lab.netwitness.com
-webinars.netwitness.com
 telemetry.netwitness.com
-www.netwitness.com
 staging.detectai.netwitness.com
 stgliveecat.netwitness.com
 proxmox.dirty.lab.netwitness.com
@@ -172,7 +169,6 @@ egcaigw.netwitness.com
 proxmox.lab.netwitness.com
 login.netwitness.com
 assets.staging.detectai.netwitness.com
-www.cloud.netwitness.com
 statusproxmox3.detectai.netwitness.com
 mx1.pruebastatus.detectai.netwitness.com
 gov-1rer-status.detectai.netwitness.com
@@ -204,7 +200,6 @@ secure-trk.status.detectai.netwitness.com
 controlpanel.ky-status.detectai.netwitness.com
 prodmail.detectai.netwitness.com
 2tty.exchange-status.detectai.netwitness.com
-www.status.detectai.netwitness.com
 gwns1.status.detectai.netwitness.com
 mx1.wholesale-status.detectai.netwitness.com
 stage4.detectai.netwitness.com
@@ -307,7 +302,6 @@ ps.netwitness.com
 mysql-status.detectai.netwitness.com
 dev2cdn.status.detectai.netwitness.com
 gov.jewelry-status.detectai.netwitness.com
-www.community.netwitness.com
 a.assets.staging.detectai.netwitness.com
 jp.status.detectai.netwitness.com
 community-mail.netwitness.com
@@ -376,10 +370,9 @@ ns1-status.detectai.netwitness.com
 jewelry.detectai.netwitness.com
 1rerstatus.detectai.netwitness.com
 ftp.netwitness.com
-www.live.netwitness.com
 dev2exchange-status.detectai.netwitness.com
 demo.dev.status.detectai.netwitness.com
-www.sync.status.detectai.netwitness.com
+sync.status.detectai.netwitness.com
 support.status.detectai.netwitness.com
 pre-server-status.detectai.netwitness.com
 tty-ns-status.detectai.netwitness.com
@@ -393,7 +386,6 @@ f5.mail.detectai.netwitness.com
 status-localhost.detectai.netwitness.com
 pl-status.detectai.netwitness.com
 statuspool.detectai.netwitness.com
-www.update.netwitness.com
 b5bstatus.detectai.netwitness.com
 controlpanel-govyty-status.detectai.netwitness.com
 vps2-www2status.detectai.netwitness.com
@@ -633,7 +625,6 @@ storage2-storage2.detectai.netwitness.com
 sentinel.status.detectai.netwitness.com
 storage2-status.detectai.netwitness.com
 stage.status.detectai.netwitness.com
-www.detectai.netwitness.com
 6441056b613c32a9.2status.detectai.netwitness.com
 prod-trk-status.detectai.netwitness.com
 status-eaccess.detectai.netwitness.com
@@ -728,7 +719,6 @@ op-status.detectai.netwitness.com
 app-op.status.detectai.netwitness.com
 api.m-status.detectai.netwitness.com
 devcualistatus.detectai.netwitness.com
-www.prueba.detectai.netwitness.com
 status-proxmox6.detectai.netwitness.com
 ftp.devregister.netwitness.com
 1rer.support.detectai.netwitness.com
@@ -827,7 +817,6 @@ creativevps2.status.detectai.netwitness.com
 selector1._domainkey.netwitness.com
 2status.detectai.netwitness.com
 nsgw.status.detectai.netwitness.com
-www.gov.detectai.netwitness.com
 accountstatus.detectai.netwitness.com
 dev1-status.detectai.netwitness.com
 ns1vcstatus.detectai.netwitness.com
@@ -865,7 +854,6 @@ jewelry.email.status.detectai.netwitness.com
 customercare.netwitness.com
 status-promotion.detectai.netwitness.com
 exchangestatus.detectai.netwitness.com
-sync.status.detectai.netwitness.com
 cloudstaging.netwitness.com
 net-status.detectai.netwitness.com
 shop.status.detectai.netwitness.com
@@ -1066,7 +1054,6 @@ admin.sync-status.detectai.netwitness.com
 status-social.detectai.netwitness.com
 test.sentinel.status.detectai.netwitness.com
 june-status.detectai.netwitness.com
-www.77738.assets.detectai.netwitness.com
 pro.supportstatus.detectai.netwitness.com
 test-mx1.detectai.netwitness.com
 status-imail.detectai.netwitness.com
@@ -1088,7 +1075,6 @@ trk.cdn-status.detectai.netwitness.com
 email.exchange.status.detectai.netwitness.com
 u.painel.status.detectai.netwitness.com
 bw.status.detectai.netwitness.com
-www.register.netwitness.com
 statuswhois.detectai.netwitness.com
 homer.status.detectai.netwitness.com
 emailremote.status.detectai.netwitness.com
@@ -1114,12 +1100,10 @@ tty-status.detectai.netwitness.com
 betastatus.detectai.netwitness.com
 procloudflare-resolve-to.detectai.netwitness.com
 f5.email.detectai.netwitness.com
-www.77738.assets.visionxdr.netwitness.com
 singedstatus.detectai.netwitness.com
 wildcardsubdomaintoprocess.ww1status.detectai.netwitness.com
 www2-exchange-status.detectai.netwitness.com
 statuslms.detectai.netwitness.com
-www.devregister.netwitness.com
 statustr.detectai.netwitness.com
 test-ftp-status.detectai.netwitness.com
 u.blog.detectai.netwitness.com

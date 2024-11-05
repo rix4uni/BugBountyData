@@ -1,9 +1,7 @@
 edrs-hert.northwave.nl
 edrs-piet.northwave.nl
-*.northwave.nl
 edrs-dirk.northwave.nl
 edrs-ens.northwave.nl
-www.northwave.nl
 sdd-webhook.northwave.nl
 edrs-mari.northwave.nl
 edrs-hom.northwave.nl
@@ -33,7 +31,6 @@ edrs-nw.northwave.nl
 edrs-kap.northwave.nl
 edrs-lien.northwave.nl
 edrs-grons.northwave.nl
-*.local.northwave.nl
 local.northwave.nl
 edrs-wil-eei.northwave.nl
 edrs-wil.northwave.nl
@@ -65,7 +62,5 @@ edrs-zev-eei.northwave.nl
 edrs-hoen.northwave.nl
 meet.northwave.nl
 edrs-loos.northwave.nl
-*.laarbroek.customer.northwave.nl
 laarbroek.customer.northwave.nl
 portal.northwave.nl
-www.portal.northwave.nl

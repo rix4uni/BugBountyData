@@ -577,7 +577,6 @@ office.sales-agile.bexio-dev.gcp.bexio.com
 idp.sales-agile.bexio-dev.gcp.bexio.com
 api.sales-agile.bexio-dev.gcp.bexio.com
 cockpit.djordjea-dev.bexio-dev.gcp.bexio.com
-www.bexio.com
 network.bexio.com
 auth.platform-dev.bexio-dev.gcp.bexio.com
 office.platform-dev.bexio-dev.gcp.bexio.com
@@ -586,7 +585,6 @@ office.monica-dev.bexio-dev.gcp.bexio.com
 support-test.bexio.com
 support.bexio.com
 help.bexio.com
-www.support.bexio.com
 auth.z-automator-test.bexio-dev.gcp.bexio.com
 auth.bexio.com
 admin.mloher.bru.dev.bexio.com
@@ -651,11 +649,8 @@ db-admin.daniel-sy7-dev.bru.dev.bexio.com
 db-admin.sedw.bru.dev.bexio.com
 admin.sedw.bru.dev.bexio.com
 billing.sedw.bru.dev.bexio.com
-*.bexio.com
-*.bexio-preprod.gcp.bexio.com
-*.dev.bexio.com
-*.ubs-testing.dev.bexio.com
-*.www.bexio.com
+dev.bexio.com
+ubs-testing.dev.bexio.com
 a.bexio.com
 admin.bexio.com
 admin.acconejournal.bru.dev.bexio.com
@@ -2642,7 +2637,6 @@ db.dev5.pgs.bexio.com
 dbmgt-tool.it.bexio.com
 demo-dev.bexio-dev.gcp.bexio.com
 design.bexio.com
-dev.bexio.com
 dev-api-contracts-bexio.master-openshift-dev.pgs.bexio.com
 dev-grafana-bexio.master-openshift-dev.pgs.bexio.com
 dev-portal.dev.pgs.bexio.com
@@ -6058,7 +6052,6 @@ uat1.bexio.com
 uat1.website.bexio.com
 uat2.bexio.com
 uat2.website.bexio.com
-ubs-testing.dev.bexio.com
 uiyncl.zrh.dev.bexio.com
 vault.it.bexio.com
 vcbfrx.bru.dev.bexio.com
@@ -6070,11 +6063,7 @@ vybksn.zrh.dev.bexio.com
 webhook.zccyzb.zrh.dev.bexio.com
 wugvxx.zrh.dev.bexio.com
 www-dev.gcp.bexio.com
-www.banking.bexio.com
-www.gcp.bexio.com
-www.ideas.bexio.com
-www.network.bexio.com
-www.staging.bexio.com
+staging.bexio.com
 wwwww.gcp.bexio.com
 xahzqz.zrh.dev.bexio.com
 xpwxog.zrh.dev.bexio.com
@@ -6533,7 +6522,6 @@ releaseweb.bexio.com
 sp.bexio.com
 assets.uat-env.bexio-dev.gcp.bexio.com
 logout.uat-env.bexio-dev.gcp.bexio.com
-*.support-ubs.dev.bexio.com
 removemeifneededagain-ingress.bexio-dev.gcp.bexio.com
 vault.bexio-preprod.gcp.bexio.com
 payroll.bexio-preprod.gcp.bexio.com

@@ -696,7 +696,6 @@ test-lastmile-mqtt.grofer.io
 web2-consumer-stage.grofer.io
 w3g-mft-batman.stage-ore-k8s.grofer.io
 superset-stage.grofer.io
-www.grofer.io
 redash-finance-service-data.prod-sgp-k8s.grofer.io
 cms-cms.prod-sgp-k8s.grofer.io
 w3g-mft-batman.public-stage-ore-k8s.grofer.io
@@ -755,4 +754,3 @@ dashboard-retail.prod.public-stage-ore-k8s.grofer.io
 emailcrm-api-mft-crm-stage.stage-ore-k8s.grofer.io
 b4bdatahub-oauth2-proxy-data.stage-ore-k8s.grofer.io
 gweb1.public-stage-ore-k8s.grofer.io
-*.grofer.io

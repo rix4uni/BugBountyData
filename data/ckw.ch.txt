@@ -207,7 +207,6 @@ dcp-axpo-pricing-preprod.dcp-dev.ckw.ch
 dcp-webapp-feat-dcp-195-2.dcp-dev.ckw.ch
 dtp-energyconsumption-feature-dtp-493.dtp-dev.ckw.ch
 dcp-webapp-feature-dcp-419.dcp-dev.ckw.ch
-www.ckw.ch
 dtp-selfservice-dtp-560.dtp-dev.ckw.ch
 selfservice-bezahlen.ckw.ch
 dtp-energyconsumption-feature-dtp-290.dtp-dev.ckw.ch
@@ -475,6 +474,5 @@ dcp-webapp-feature-dcp-552.dcp-dev.ckw.ch
 dcp-historical-time-series-feature-dcp-601.dcp-dev.ckw.ch
 dcp-crm-feature-dcp-542.dcp-dev.ckw.ch
 sso-keycloak-customization.dtp.ckw.ch
-*.pki.ckw.ch
 dcp-offer-management-feature-dcp-542.dcp-dev.ckw.ch
 dtp-selfservice-dtp-918.dtp-dev.ckw.ch

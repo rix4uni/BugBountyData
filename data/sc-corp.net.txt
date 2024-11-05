@@ -6485,8 +6485,7 @@ wiki-dev-api.sc-corp.net
 wiki-dev.sc-corp.net
 wiki-stage.sc-corp.net
 wiki.sc-corp.net
-www.esri.okta.com.special-employeesurvey.jenkins.vellum-stg.sc-corp.net
-www.sc-corp.net
+esri.okta.com.special-employeesurvey.jenkins.vellum-stg.sc-corp.net
 xp-mercury.secproxy.sc-corp.net
 xray-beta.sc-corp.net
 xray-prod.sc-corp.net
@@ -7238,7 +7237,6 @@ msg.edge.18.test-automation.sc-corp.net
 2011.7.vellum-stg.sc-corp.net
 nginx.staging.i.vellum-stg.sc-corp.net
 135-207-58-50.vellum-stg.sc-corp.net
-.secproxy-dev.sc-corp.net
 135-207-45-48.vellum-stg.sc-corp.net
 135-197-229-9.vellum-stg.sc-corp.net
 elb.test-automation.sc-corp.net

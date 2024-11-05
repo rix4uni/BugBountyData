@@ -13,7 +13,6 @@ howto.jooki.rocks
 s.jooki.rocks
 eu.jooki.rocks
 wifi.jooki.rocks
-www.jooki.rocks
 feedback.jooki.rocks
 ces2018.jooki.rocks
 setup-staging.jooki.rocks
@@ -26,7 +25,6 @@ virtual.jooki.rocks
 us.jooki.rocks
 voice.jooki.rocks
 bounce.jooki.rocks
-*.jooki.rocks
 invite.jooki.rocks
 partners.jooki.rocks
 privacy.jooki.rocks
@@ -100,7 +98,6 @@ gjshare.jooki.rocks
 webmail.jooki.rocks
 sf1._domainkey.jooki.rocks
 ukprivacy.jooki.rocks
-www.old.jooki.rocks
 frbackend.jooki.rocks
 kubectldesktop.jooki.rocks
 docs.partners.jooki.rocks
@@ -172,7 +169,6 @@ partners.region.jooki.rocks
 europeblog.jooki.rocks
 ids-voice.jooki.rocks
 acc.jooki.rocks
-www.daisy.jooki.rocks
 ca-cgi.jooki.rocks
 be52._domainkey.jooki.rocks
 application-blog.jooki.rocks
@@ -234,7 +230,7 @@ cajenkins.jooki.rocks
 pressapidocs.jooki.rocks
 be5._domainkey.jooki.rocks
 oab.jooki.rocks
-www.europe.jooki.rocks
+europe.jooki.rocks
 alpha-system.jooki.rocks
 customer.changelog.jooki.rocks
 elink.jooki.rocks

@@ -1,7 +1,6 @@
 teleport.gcp-dev.sdp.infoblox.com
-*.teleport.gcp-dev.sdp.infoblox.com
-*.ddi-prd-frk1.ddiaas.csp.infoblox.com
-*.ddi-prd-nva1.ddiaas.csp.infoblox.com
+ddi-prd-frk1.ddiaas.csp.infoblox.com
+ddi-prd-nva1.ddiaas.csp.infoblox.com
 colowww3-mgt.infoblox.com
 ddm.training.infoblox.com
 dfs2.infoblox.com
@@ -16,7 +15,7 @@ videos.infoblox.com
 ddi-prd-euc1.ddiaas.csp.infoblox.com
 ddi-qa-ase1.managed.test.infoblox.com
 csp.demo-box-1.biab.test.infoblox.com
-www.watermark.training.infoblox.com
+watermark.training.infoblox.com
 agomez-tele-poc.sandbox.test.infoblox.com
 burnaby.biscotti.infoblox.com
 castula.training.infoblox.com
@@ -28,8 +27,8 @@ csp.demo.dev-31.kops.sdp.infoblox.com
 mapdemo.infoblox.com
 spire.eu-com-1.eu.csp.infoblox.com
 grpc.atlas23.atlasdev-19.noa.infoblox.com
-www.go.infoblox.com
-www.start.training.infoblox.com
+go.infoblox.com
+start.training.infoblox.com
 env-5.test.infoblox.com
 notifications.infoblox.com
 dns3demo.infoblox.com
@@ -57,7 +56,6 @@ dev-bloxdrop.infoblox.com
 sslvpn.infoblox.com
 gcp-ddi-prd-hkg1.gcp.sdp.infoblox.com
 api.dwells-identity.kops.sdp.infoblox.com
-watermark.training.infoblox.com
 support-internal.infoblox.com
 ca1.threatdefense.infoblox.com
 grpc.ngp-cp.dev-31.kops.sdp.infoblox.com
@@ -76,7 +74,7 @@ lms.training.infoblox.com
 6map.infoblox.com
 az-inds-radius1.infoblox.com
 thens-1.infoblox.com
-www.webstage.infoblox.com
+webstage.infoblox.com
 ld1.threatdefense.infoblox.com
 nttspa941-7979.infoblox.com
 reports-dev.dl.infoblox.com
@@ -97,7 +95,7 @@ vault.gcp-dev.sdp.infoblox.com
 otstweb1.infoblox.com
 pass.infoblox.com
 partner.infoblox.com
-www.sirius.training.infoblox.com
+sirius.training.infoblox.com
 grpc.naveen-ti.atlasdev-19.noa.infoblox.com
 mailman.infoblox.com
 threatdefense.bloxone.infoblox.com
@@ -105,7 +103,7 @@ ftp.infoblox.com
 fw2-tran-sec-qts.infoblox.com
 license.infoblox.com
 panorama.infoblox.com
-www.support-uat.infoblox.com
+support-uat.infoblox.com
 gridmasters.infoblox.com
 grpc.parinayns.dev-31.kops.sdp.infoblox.com
 registry.qa.atlasdev-19.noa.infoblox.com
@@ -169,7 +167,6 @@ click.infoblox.com
 provision.eng.test.infoblox.com
 reserved_4_demo_92.infoblox.com
 sf-order-creation.infoblox.com
-sirius.training.infoblox.com
 t35t1ng.infoblox.com
 bloxtools-dev.infoblox.com
 grpc-dwells-identity.kops.sdp.infoblox.com
@@ -216,7 +213,6 @@ info.infoblox.com
 nios-sspc-rpt-ibmad.madlab.infoblox.com
 boomi-scim.infoblox.com
 vault.gcp.sdp.infoblox.com
-www.ddm.training.infoblox.com
 daneel.infoblox.com
 dns.bloxone.eu.infoblox.com
 grpc-ident.kops.sdp.infoblox.com
@@ -226,7 +222,6 @@ docs.education.infoblox.com
 ibstagelb.infoblox.com
 grpc.ds.atlasdev-19.noa.infoblox.com
 registration.cloudapps.infoblox.com
-www.support.infoblox.com
 management.blr1.azurestackeng.inblr.infoblox.com
 docker.inca.infoblox.com
 loto-dash.india.infoblox.com
@@ -235,7 +230,7 @@ x2008qtsdc1_public.infoblox.com
 inblr.infoblox.com
 reserved-for-qa2.inca.infoblox.com
 sc-sdbranch-vpn1.infoblox.com
-www.partnertrainingregistration.infoblox.com
+partnertrainingregistration.infoblox.com
 bloxnet.infoblox.com
 registry.jkraj.atlasdev-19.noa.infoblox.com
 registry.yy.atlasdev-19.noa.infoblox.com
@@ -254,7 +249,7 @@ vodafone-fw.infoblox.com
 _csp.infoblox.com
 adfs.infoblox.com
 rpz-support-public.infoblox.com
-www.stage.auth.infoblox.com
+stage.auth.infoblox.com
 demospm.infoblox.com
 clda.infoblox.com
 deneb.training.infoblox.com
@@ -262,7 +257,6 @@ thor.infoblox.com
 cubejs.ccm.infoblox.com
 stg-1.doh.test.threatdefense.infoblox.com
 eu-stg-1.eu.stage.test.infoblox.com
-webstage.infoblox.com
 forms.infoblox.com
 demomgm.infoblox.com
 grpc.sagarwal.dev-31.kops.sdp.infoblox.com
@@ -275,12 +269,12 @@ tme.infoblox.com
 fk1.threatdefense.infoblox.com
 registry.atlas23.atlasdev-19.noa.infoblox.com
 sdp.fedcloud.infoblox.com
-www.blog.infoblox.com
+blog.infoblox.com
 sen1.infoblox.com
 unknown.iad.s-mip.infoblox.com
 ns2-preprod-rpz.csp.infoblox.com
 adp4.infoblox.com
-www.portal.training.infoblox.com
+portal.training.infoblox.com
 services-dev-2.sdp.infoblox.com
 registry.atlasdev-19.noa.infoblox.com
 registry.naveendev.atlasdev-19.noa.infoblox.com
@@ -297,7 +291,7 @@ dns3demoha2.infoblox.com
 teleport.gcp.sdp.infoblox.com
 ddi-coredns.eu-com-1.eu.csp.infoblox.com
 vpn.infoblox.com
-www.auth.infoblox.com
+auth.infoblox.com
 p4.escolo.infoblox.com
 gcp-ddi-dev-ase1.gcp.test.infoblox.com
 email.infoblox.com
@@ -347,13 +341,11 @@ grpc-dw-identity.kops.sdp.infoblox.com
 registry.cdc-jk.atlasdev-19.noa.infoblox.com
 bloxdropdev-qts.infoblox.com
 partners.infoblox.com
-stage.auth.infoblox.com
 teleport.services-dev.sdp.infoblox.com
 vpnmfa.infoblox.com
 oudevweb1.infoblox.com
 registry.ngp-cp.qa-2-core.test.infoblox.com
 registry.tgogoi2.dev-31.kops.sdp.infoblox.com
-support-uat.infoblox.com
 ddi-prd-sgp1.ddiaas.csp.infoblox.com
 gcp.sdp.infoblox.com
 gcp-ddi-dev-aps1.gcp.test.infoblox.com
@@ -361,19 +353,18 @@ esxi2-vnios1.infoblox.com
 dem.infoblox.com
 grpc.mingli.atlasdev-19.noa.infoblox.com
 harbor-dex.services.eu.sdp.infoblox.com
-partnertrainingregistration.infoblox.com
 beta.infoblox.com
 secure-api.infoblox.com
 portal.env-4.test.infoblox.com
 databaseservers.atlasdb.infoblox.com
-www.blogs.infoblox.com
+blogs.infoblox.com
 cerberus_old.infoblox.com
 grpc.shravindran.dev-31.kops.sdp.infoblox.com
 dex-cluster.kops.sdp.infoblox.com
 registry.mayank.atlasdev-19.noa.infoblox.com
 sen1staging.infoblox.com
 awesome.csp.infoblox.com
-www.content.training.infoblox.com
+content.training.infoblox.com
 oweb01.infoblox.com
 cloud.infoblox.com
 demogm1.infoblox.com
@@ -428,8 +419,6 @@ spire-env-2a.test.infoblox.com
 acamar.training.infoblox.com
 html5-rdp-gateway2.infoblox.com
 grpc.mayank.atlasdev-19.noa.infoblox.com
-www.connect.training.infoblox.com
-www.forms2.infoblox.com
 harbor.services.eu.sdp.infoblox.com
 dns3demoha1.infoblox.com
 json-dwells-identity.kops.sdp.infoblox.com
@@ -458,7 +447,6 @@ democenter002.infoblox.com
 grpc.naveen23.atlasdev-19.noa.infoblox.com
 pftimmy.infoblox.com
 wwwipv6.infoblox.com
-ddi-prd-frk1.ddiaas.csp.infoblox.com
 stick.infoblox.com
 bloxcast.infoblox.com
 oss-atlas-security-logs.eng.test.infoblox.com
@@ -540,14 +528,12 @@ threatdefense.infoblox.com
 api.bcurcio-identity.kops.sdp.infoblox.com
 ns4.infoblox.com
 reserved_4_demo_96.infoblox.com
-www.vpn.training.infoblox.com
 securemail.infoblox.com
 vcloud9.infoblox.com
 cp-black-va.noa.infoblox.com
 vsp1.inca.infoblox.com
 auth-poseidon-preprod.csp.infoblox.com
 jira.inca.infoblox.com
-portal.training.infoblox.com
 registry.mli.atlasdev-19.noa.infoblox.com
 registry.notifications-cp.dev-31.kops.sdp.infoblox.com
 sadira.training.infoblox.com
@@ -565,7 +551,6 @@ twiki.inca.infoblox.com
 bloxtoolsdemo.infoblox.com
 e8bad24e4dcd4ae49c0e7553a16bc8.test.threatdefense.infoblox.com
 expressway-e-cluster.infoblox.com
-go.infoblox.com
 roadmap.infoblox.com
 suptraining.infoblox.com
 covadwirelesssw.infoblox.com
@@ -622,7 +607,6 @@ testcert.infoblox.com
 help.csp.infoblox.com
 registry.sthombare.atlasdev-19.noa.infoblox.com
 vpn-cdnsfw-ap-northeast-1.csp.infoblox.com
-www.infoblox.com
 demogm2.infoblox.com
 grpc.jkraj.atlasdev-19.noa.infoblox.com
 icsprod2.infoblox.com
@@ -632,7 +616,6 @@ example.infoblox.com
 gcp-dev.sdp.infoblox.com
 autodiscover_qts.infoblox.com
 registry.demo.dev-31.kops.sdp.infoblox.com
-www.expressway-e.infoblox.com
 objectstore.claims.atlas.infoblox.com
 evocati.training.infoblox.com
 spica.training.infoblox.com
@@ -692,7 +675,6 @@ stage.sso.infoblox.com
 stgorclweb1.infoblox.com
 bloxdroptrans.infoblox.com
 vcloud9-proxy.infoblox.com
-blogs.infoblox.com
 edge4.infoblox.com
 grpc.bootstrap-m.dev-31.kops.sdp.infoblox.com
 grpc.test-ns.dev-31.kops.sdp.infoblox.com
@@ -721,7 +703,6 @@ registry.shravindran.atlasdev-19.noa.infoblox.com
 sp_2007.infoblox.com
 spire-oidc.box-3.eng.test.infoblox.com
 featureflagoverrides.terminus.infoblox.com
-content.training.infoblox.com
 grpc.arunmb-integration.atlasdev-19.noa.infoblox.com
 ipamdemo.au.infoblox.com
 grpc.bootstrap-auth.dev-31.kops.sdp.infoblox.com
@@ -757,7 +738,6 @@ adminvault.blr1.azurestackeng.inblr.infoblox.com
 broadcast.training.infoblox.com
 grpc.thayward.atlasdev-19.noa.infoblox.com
 patah-mip.infoblox.com
-www.lab.training.infoblox.com
 spire.box-3.eng.test.infoblox.com
 atlasdev-19.noa.infoblox.com
 ident.kops.sdp.infoblox.com
@@ -818,7 +798,6 @@ grpc-daniel-identity.kops.sdp.infoblox.com
 inca.infoblox.com
 network.training.infoblox.com
 ww3.infoblox.com
-auth.infoblox.com
 fk2.threatdefense.infoblox.com
 idgridts.infoblox.com
 registry.yy-test.atlasdev-19.noa.infoblox.com
@@ -911,14 +890,13 @@ grpc.tgogoi.atlasdev-19.noa.infoblox.com
 dfsdgghhdh-btrb-4bbb-bffb-cmjumbfgfnhm9.doh.threatdefense.infoblox.com
 ns7.infoblox.com
 catalog.training.infoblox.com
-start.training.infoblox.com
 supportal.infoblox.com
 db.atlas.infoblox.com
 ddi-dev-euc1.managed.test.infoblox.com
 az-usw-radius1.infoblox.com
 grpc.dstest.dev-31.kops.sdp.infoblox.com
 reports.dl.infoblox.com
-*.na.csp.infoblox.com
+na.csp.infoblox.com
 registry.singhs.env-4.kops.sdp.infoblox.com
 registry.anirudh-test.qa-36.kops.sdp.infoblox.com
 csp.auditlogcba.env-4.kops.sdp.infoblox.com

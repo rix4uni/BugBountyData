@@ -191,7 +191,6 @@ apps.cp.thomsonreuters.com
 practicallaw.thomsonreuters.com
 views.cp.thomsonreuters.com
 aws.thomsonreuters.com
-www.thomsonreuters.com
 collab.thomsonreuters.com
 legaltracker.thomsonreuters.com
 corp.aws.thomsonreuters.com
@@ -329,7 +328,6 @@ content-5721662265491456.analytics.thomsonreuters.com
 connect.5992.aws.thomsonreuters.com
 ciam.thomsonreuters.com
 main.ciam.thomsonreuters.com
-www.clear.thomsonreuters.com
 ltw-poc-triva.thomsonreuters.com
 productnotice.thomsonreuters.com
 app.productnotice.thomsonreuters.com
@@ -553,7 +551,6 @@ nuevocerdo-ams-qa-a.int.thomsonreuters.com
 a204279-osp-api-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
 imconsultancy.thomsonreuters.com
 mig2.smu.converis.thomsonreuters.com
-www.proview.thomsonreuters.com
 ddev2.ldap.use2.4152.aws-int.thomsonreuters.com
 wel-int.ewp.thomsonreuters.com
 ws2.projectne.thomsonreuters.com
@@ -792,7 +789,7 @@ ndpup-qa.ctrack.thomsonreuters.com
 olc-health.qed.thomsonreuters.com
 origin-eagan.login.incites.thomsonreuters.com
 usw2-imp.platform.7166.aws-int.thomsonreuters.com
-www.workbn1.thomsonreuters.com
+workbn1.thomsonreuters.com
 c480tffcmccas.ten.thomsonreuters.com
 devex-content-api-dev.plexus-ppe.1554.aws.thomsonreuters.com
 events-analytics-hp-westlaw-com.04032.aws-int.thomsonreuters.com
@@ -1070,7 +1067,7 @@ a205880-wsof-api-qa-eu-west-1-b.desktop-preprod.aws-int.thomsonreuters.com
 hkexcn.thomsonreuters.com
 otp-webapi-prod-use1.tr-tax-prod.aws-int.thomsonreuters.com
 ws-api-ext.prod.us-east-1.7582.aws.thomsonreuters.com
-www.samsnowgy1.thomsonreuters.com
+samsnowgy1.thomsonreuters.com
 community-staging.developers.thomsonreuters.com
 global-vds.46551.aws-int.thomsonreuters.com
 satproductdataservices-security.int.thomsonreuters.com
@@ -1092,7 +1089,7 @@ uat.makeorder.int.thomsonreuters.com
 uds-int-govt-hp-westlaw-com-use1.04032.aws-int.thomsonreuters.com
 cn-asset-verification.demo.8677.aws-int.thomsonreuters.com
 region-use2.uk.draftingassistant.thomsonreuters.com
-www.int.uk.practicallaw.qed.thomsonreuters.com
+int.uk.practicallaw.qed.thomsonreuters.com
 dtc-tele-tps1.int.thomsonreuters.com
 qa.hrapps.thomsonreuters.com
 wf-baw-ppe.edp-content-preprod.aws-int.thomsonreuters.com
@@ -1121,7 +1118,7 @@ apac1.vav.cp.thomsonreuters.com
 platform-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
 santalucia.thomsonreuters.com
 uk1-scorm-eu.opt.thomsonreuters.com
-www.red.newsplanner.thomsonreuters.com
+red.newsplanner.thomsonreuters.com
 assembly-dev-126-asm.1349.aws-int.thomsonreuters.com
 ip.int.csshared.qed.thomsonreuters.com
 trcra02t024.thomsonreuters.com
@@ -1275,7 +1272,7 @@ a204278-osp-core-common-uat.tr-tax-prod.aws-int.thomsonreuters.com
 gst-import-api-sat-use1-aws.tax.nonprod.int.thomsonreuters.com
 prod-dynamic-change-window-ui.fp.tr-fr-prod.aws-int.thomsonreuters.com
 skills-mfe-ci.plexus-cari-ppuse1.97328.aws.thomsonreuters.com
-www.int.us.checkpoint.hotprod.thomsonreuters.com
+int.us.checkpoint.hotprod.thomsonreuters.com
 apactracker.thomsonreuters.com
 camico-prospect.thomsonreuters.com
 h3emosessingerqa.us.preview.3e.thomsonreuters.com
@@ -1720,7 +1717,7 @@ ct-elasticsearch.int.thomsonreuters.com
 account-api-nonprod.plexus-ppe.1554.aws.thomsonreuters.com
 usit-ledoscan-amer1-api.int.thomsonreuters.com
 sensu.nonprod.gcs.thomsonreuters.com
-www.findlawimages.com.flportalstage.int.thomsonreuters.com
+findlawimages.com.flportalstage.int.thomsonreuters.com
 ci.fm.ng.bento.ui.int.thomsonreuters.com
 dev-csi-change-portal-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 onesource-idt-dfic-uat-int.iv.determination.thomsonreuters.com
@@ -1737,7 +1734,7 @@ uat-fp-platform-tomcat.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 cp-prod-alerts.tr-tax-cp-prod.aws-int.thomsonreuters.com
 eagf-vcucmsa01.ten.thomsonreuters.com
 ntcp-erpcprp-sdk-dealwatch-www.cp.thomsonreuters.com
-www.int.uk.practicallaw.ci.thomsonreuters.com
+int.uk.practicallaw.ci.thomsonreuters.com
 oit-organizerintegration-api-sat-use1-aws.tax.non-prod.int.thomsonreuters.com
 playground-config-uk.converis.thomsonreuters.com
 site-use1c2.uk.draftingassistant.thomsonreuters.com
@@ -1790,7 +1787,7 @@ a204837-lm-esd-devx1-euw1.a-worldcheck-preprod.aws-int.thomsonreuters.com
 a205149-api-el-web-b-eu-west-1-ppe-beta.desktop-preprod.aws-int.thomsonreuters.com
 emea1.eikonmessenger.cp.thomsonreuters.com
 signon.dev.thomsonreuters.com
-www.fsw.iwealth.thomsonreuters.com
+fsw.iwealth.thomsonreuters.com
 delef-staging.ctrack.thomsonreuters.com
 dev-eaas-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 hdcp-erpcprp-stslogin-www.cp.thomsonreuters.com
@@ -1810,7 +1807,7 @@ a206682-apac2.tr-tax-prod.aws-int.thomsonreuters.com
 a250377-reps-np.edp-content-preprod.aws-int.thomsonreuters.com
 realestate.flportaldev-ams.int.thomsonreuters.com
 workflow.gcs.int.thomsonreuters.com
-www.apac2.polling.thomsonreuters.com
+apac2.polling.thomsonreuters.com
 jdkt-ag-dkt-dev.4119.aws-int.thomsonreuters.com
 vds-amers-prod.int.thomsonreuters.com
 vds-dev-fid2.plexus-isrm-ppuse1.15510.aws-int.thomsonreuters.com
@@ -2004,7 +2001,7 @@ roster.thomsonreuters.com
 activemq-aviator-mssql.ctrack.thomsonreuters.com
 batchserverbr1-int-clear-demo-thomsonreuters-com.36049.aws-int.thomsonreuters.com
 cdap-terra-prod.api.thomsonreuters.com
-www.clw-prodadminaws.int.thomsonreuters.com
+clw-prodadminaws.int.thomsonreuters.com
 a206181-edd-ssgt-prod.a-edp-prod.aws-int.thomsonreuters.com
 region-use2.ca.practicallaw.qed.thomsonreuters.com
 oit-formrequestservice-sat-use1-aws.tax.prod.int.thomsonreuters.com
@@ -2045,7 +2042,7 @@ ct-860tct-lab.int.thomsonreuters.com
 onesource-idt-cmp-uat-admin.iv.determination.thomsonreuters.com
 osr-draftable-ci-use1.3300.aws.thomsonreuters.com
 uat-csi-change-display-portal-restrictedusers-site.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.gtmlearning.thomsonreuters.com
+gtmlearning.thomsonreuters.com
 regint.qed.thomsonreuters.com
 content-access.plexus-ras-use1.3772.aws.thomsonreuters.com
 findlawnews.flportalqa.int.thomsonreuters.com
@@ -2104,7 +2101,7 @@ a205880-admpnl-api-prod-eu-west-1-a.desktop.aws-int.thomsonreuters.com
 ohcms-amq-auto.ctrack.thomsonreuters.com
 eu1-ppe.worklife.desktop-preprod.aws-int.thomsonreuters.com
 ohcms-config.ctrack.thomsonreuters.com
-www.int.global.checkpoint.qed.thomsonreuters.com
+int.global.checkpoint.qed.thomsonreuters.com
 access-mgmt-ci.plexus-cari-ppuse1.97328.aws-int.thomsonreuters.com
 anchore.thomsonreuters.com
 eoircms-amq-qa.ctrack.thomsonreuters.com
@@ -2463,7 +2460,7 @@ prod-fpn-snow-writeback-loader.fp.tr-fr-prod.aws-int.thomsonreuters.com
 ssoadmin-stage.thomsonreuters.com
 distribution-int-proview-prod-thomsonreuters-com.04032.aws-int.thomsonreuters.com
 glm-uploadservices-amer-prod-use1-aws.tax.prod.thomsonreuters.com
-www.int.practicallawconnect.hotprod.thomsonreuters.com
+int.practicallawconnect.hotprod.thomsonreuters.com
 a205923-akk-mlt1-uat-internal-use1.33960.aws-int.thomsonreuters.com
 a250143-chain-ppe-euw1.rr-dev.aws-int.thomsonreuters.com
 apac1.rapido.cp.thomsonreuters.com
@@ -2508,7 +2505,7 @@ a205880-admpnl-db-ro-prod.desktop.aws-int.thomsonreuters.com
 authz-204890-prod.tr-fr-prod.aws-int.thomsonreuters.com
 brightcoveservices-sbdc-stage-use1.0413.aws-int.thomsonreuters.com
 a200172-cp-qed-use1.1434.aws-int.thomsonreuters.com
-www.techdeals.flportalstage-ams.int.thomsonreuters.com
+techdeals.flportalstage-ams.int.thomsonreuters.com
 accesstoken-int-prs-ci-thomsonreuters-com.20271.aws-int.thomsonreuters.com
 ipcmj2.thomsonreuters.com
 documentprofile-mn.76978.aws-int.thomsonreuters.com
@@ -2551,7 +2548,6 @@ region-use1.nz.draftingassistant.demo.thomsonreuters.com
 batchpralert-int-prs-prod-thomsonreuters-com.71182.aws-int.thomsonreuters.com
 c428zssfhsw03.int.thomsonreuters.com
 hostinggui-qc.4152.aws-int.thomsonreuters.com
-www.ca.practicallaw.thomsonreuters.com
 a205094-routing-alb-dev-as1-eu-west-1.appserver.desktop-preprod.aws-int.thomsonreuters.com
 mgmtadldapeag.int.thomsonreuters.com
 multimedia-alb-api.prod.7582.aws-int.thomsonreuters.com
@@ -2725,7 +2721,7 @@ a206215-atlantis.1554.aws.thomsonreuters.com
 qa-federated.opt.thomsonreuters.com
 refinitiv-dev1.fr-nonprod.aws.thomsonreuters.com
 simpledocument-mr7.76978.aws-int.thomsonreuters.com
-www.courttv.flportalstage.int.thomsonreuters.com
+courttv.flportalstage.int.thomsonreuters.com
 ai-concept-hub-camundaoperate.plexus-ppe.1554.aws.thomsonreuters.com
 depup-api-auto.ctrack.thomsonreuters.com
 federation-xmpp-beta.collab.thomsonreuters.com
@@ -3105,7 +3101,7 @@ picservices.int.thomsonreuters.com
 machinuser-einv-prd.thomsonreuters.com
 multimedia.prod.api.7582.aws.thomsonreuters.com
 region-eag.trdrafting.qed.thomsonreuters.com
-www.jobs.flportaldev-ams.int.thomsonreuters.com
+jobs.flportaldev-ams.int.thomsonreuters.com
 a204891-gw.edp-distribution-preprod.aws-int.thomsonreuters.com
 activitytrackerservicesext-idc-qa-use1.1129.aws.thomsonreuters.com
 credentials-scale.gcs.int.thomsonreuters.com
@@ -3252,7 +3248,7 @@ qa.portal-connect.netfirm.int.thomsonreuters.com
 xml.dtcp.nn.thomsonreuters.com
 a205094-platform-qa-as1-eu-west-1.appserver.desktop-preprod.aws-int.thomsonreuters.com
 dcct-prodprev.ctrack.thomsonreuters.com
-www.techdeals.flportalqa-ams.int.thomsonreuters.com
+techdeals.flportalqa-ams.int.thomsonreuters.com
 pinvokeservice-dev-use1-aws.tax.nonprod.int.thomsonreuters.com
 publication-directory-ext.us.dev.0712.aws.thomsonreuters.com
 qa.newsplanner.int.thomsonreuters.com
@@ -3307,7 +3303,7 @@ novus-graphql.dev.0712.aws.thomsonreuters.com
 dtcp-tsadpo3-www.cp.thomsonreuters.com
 efmsl-oct-sat.3300.aws-int.thomsonreuters.com
 searchindexconfig-dev.ras.int.thomsonreuters.com
-www.amers.polling.thomsonreuters.com
+amers.polling.thomsonreuters.com
 depup-migrate.ctrack.thomsonreuters.com
 ppe-euw1.nepapi.newsapi-preprod.aws-int.thomsonreuters.com
 salt.newsapi-preprod.aws-int.thomsonreuters.com
@@ -3352,7 +3348,7 @@ shared-amq-1-38-1.ctrack.thomsonreuters.com
 a205880-eol-cache-rw-ppe-ap-southeast-1-a.desktop-preprod.aws-int.thomsonreuters.com
 act-site-euw1-qa.a-worldcheck-preprod.aws-int.thomsonreuters.com
 distribution-f-dev.0888.aws-int.thomsonreuters.com
-www.int.us.checkpoint.demo.thomsonreuters.com
+int.us.checkpoint.demo.thomsonreuters.com
 lpafeed-qa.int.thomsonreuters.com
 nnpdf.plnp.nn.thomsonreuters.com
 ukstaging.legaltracker.int.thomsonreuters.com
@@ -3412,7 +3408,7 @@ caf.desktop-preprod.aws-int.thomsonreuters.com
 dev-eapsgc-simulator.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 testuser20181129.int.thomsonreuters.com
 acm-test.int.thomsonreuters.com
-www.workbn5.thomsonreuters.com
+workbn5.thomsonreuters.com
 access-mgmt.plexus-cari-use1.79110.aws-int.thomsonreuters.com
 ci-reporting-app.opt.thomsonreuters.com
 test.bermudauserlab.int.thomsonreuters.com
@@ -3586,7 +3582,7 @@ prod.interdados.thomsonreuters.com
 stg.fsw.iwealth.thomsonreuters.com
 swagger-ap1-prod.worklife.desktop.aws-int.thomsonreuters.com
 trcra06t023.thomsonreuters.com
-www.optibotneo-dev.thomsonreuters.com
+optibotneo-dev.thomsonreuters.com
 dev-am-services.tr-tax-nonprod.aws-int.thomsonreuters.com
 gst-util-api-dr-use1-aws.tax.prod.int.thomsonreuters.com
 planning.thomsonreuters.com
@@ -3922,8 +3918,6 @@ pw-prod.a-pal-prod.aws-int.thomsonreuters.com
 trta-content-editor-sbx.int.thomsonreuters.com
 azproblueadmin.int.thomsonreuters.com
 qa-aws-lawbench.int.thomsonreuters.com
-www.mvp.newsplanner.thomsonreuters.com
-www.workbn2.thomsonreuters.com
 a204896-dep-jobs-amer.tr-tax-prod.aws-int.thomsonreuters.com
 afct-staging.ctrack.thomsonreuters.com
 amers1.app.kaltura.cp.thomsonreuters.com
@@ -3958,7 +3952,7 @@ sitetaxweb.tax.thomsonreuters.com
 enterpriseenrollment.thomsonreuters.com
 rsb-insourceexpress-dr-usw2-aws.tax.prod.thomsonreuters.com
 site-use1c2.deadlineassistant.thomsonreuters.com
-www.apac6.newsplanner.thomsonreuters.com
+apac6.newsplanner.thomsonreuters.com
 edge.tenants.ciam.thomsonreuters.com
 assembly-dev-79-asm.1349.aws-int.thomsonreuters.com
 dataorchestration-int-nextcanada-prod-westlaw-com.04032.aws-int.thomsonreuters.com
@@ -4084,7 +4078,7 @@ c194hfm.intqa.thomsonreuters.com
 uksouth-rcj-nonprod-qa-app-vm-1.int.thomsonreuters.com
 a205880-wsof-api-prod-us-east-1-b.desktop.aws-int.thomsonreuters.com
 rms-world-check-one-cdn.thomsonreuters.com
-www.trkd.thomsonreuters.com
+trkd.thomsonreuters.com
 int.proview.demo.int.thomsonreuters.com
 analytics.newsapi.aws-int.thomsonreuters.com
 bitbucketssh.ctrack.thomsonreuters.com
@@ -4146,7 +4140,7 @@ isrmtest.thomsonreuters.com
 a.uk.practicallaw.thomsonreuters.com
 apac2.streaming.cp.thomsonreuters.com
 rule.qa-eflvweb.int.thomsonreuters.com
-www.profdev.flportalqa.int.thomsonreuters.com
+profdev.flportalqa.int.thomsonreuters.com
 a206449-ngra-api-euc1-uat.tr-tax-prod.aws-int.thomsonreuters.com
 argocd.yoshua.cp.93ea.use2.azure-int.thomsonreuters.com
 prod.evn.6761.aws-int.thomsonreuters.com
@@ -4180,7 +4174,7 @@ eag1.vpn.thomsonreuters.com
 dr-poessneckfastvat.thomsonreuters.com
 qa.netfirm-win-utils.netfirm.int.thomsonreuters.com
 seaats-staging.ctrack.thomsonreuters.com
-www.amers1.newsplanner.thomsonreuters.com
+amers1.newsplanner.thomsonreuters.com
 aa-pentest.converis.thomsonreuters.com
 cclient.ldap-use2.prism-prod.aws-int.thomsonreuters.com
 checkpoint-qed-db.tr-tax-cp-preprod.aws-int.thomsonreuters.com
@@ -4230,7 +4224,7 @@ clientinfodocservices-stage.api.thomsonreuters.com
 delivery-ci.gcs.int.thomsonreuters.com
 dev.int.thomsonreuters.com
 tracker.azenv01es.int.thomsonreuters.com
-www.apac2.newsplanner.thomsonreuters.com
+apac2.newsplanner.thomsonreuters.com
 site-use1c2.deadlineassistant.qed.thomsonreuters.com
 businesssystems-trx.thomsonreuters.com
 ogt-legacy-recof-secure-hlg.n202261pp.iad-3kaq.oci-int.thomsonreuters.com
@@ -4244,7 +4238,6 @@ trcra07t012.thomsonreuters.com
 a205094-platform-dev-as2-us-east-1.appserver.desktop-preprod.aws-int.thomsonreuters.com
 a206181-edd-cac-ppe.a-edp-preprod.aws-int.thomsonreuters.com
 amers2.msf2.cp.thomsonreuters.com
-www.compliancelearning.thomsonreuters.com
 caselawupload-dev.int.thomsonreuters.com
 dev-auth-sandbox.thomsonreuters.com
 sharednext.au.practicallaw.hotprod.thomsonreuters.com
@@ -4573,7 +4566,7 @@ launchpad.ps.thomsonreuters.com
 sa-uk.practicallaw.hotprod.thomsonreuters.com
 int.deadlineassistant.demo.thomsonreuters.com
 sa-proview.thomsonreuters.com
-www.proview.qed.thomsonreuters.com
+proview.qed.thomsonreuters.com
 ott-tracking-odata-api-sat-use1-aws.tax.nonprod.thomsonreuters.com
 saphtz-pas.int.thomsonreuters.com
 dev-me-int-site.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
@@ -4604,7 +4597,7 @@ cp-qed-cp-toc-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 eastus2samad.thomsonreuters.com
 concert-appalb-uat-use1-aws.int.thomsonreuters.com
 litigation.flportaldev.int.thomsonreuters.com
-www.red.polling.thomsonreuters.com
+red.polling.thomsonreuters.com
 aem-dispatcher-stage-b.int.thomsonreuters.com
 api.qa.taxone.thomsonreuters.com
 c098yty.int.thomsonreuters.com
@@ -4625,7 +4618,7 @@ a205880-aaa-api-dev-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 a207947aclient.ldap.1667.aws-int.thomsonreuters.com
 cp-qed-cp-notes-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 trcra04t008.thomsonreuters.com
-www.int.practicallawcompliance.qed.thomsonreuters.com
+int.practicallawcompliance.qed.thomsonreuters.com
 a207947-kbappstorage-novuscl-main-qed-us-east-1.1667.aws-int.thomsonreuters.com
 cafe-api-qa-emea1.int.thomsonreuters.com
 feat5.codebook.desktop-preprod.aws-int.thomsonreuters.com
@@ -4639,8 +4632,6 @@ main-cd-puexv0auugvcs7n1.edge.tenants.ciam-nonprod.thomsonreuters.com
 ntcp-xtaaws-www.cp.thomsonreuters.com
 sappiuat-sftp.ext.thomsonreuters.com
 rps-api-us-east-1-qa.edp-content-preprod.aws-int.thomsonreuters.com
-www.jobs.flportalstage-ams.int.thomsonreuters.com
-int.global.checkpoint.qed.thomsonreuters.com
 abi-clt-17-gw-pre-prod.aws.int.thomsonreuters.com
 ci.app.newsplanner.int.thomsonreuters.com
 amers2.researchmonitor.cp.thomsonreuters.com
@@ -4652,7 +4643,7 @@ a205923-akk-chs-qa-j-internal-usw2.6042.aws-int.thomsonreuters.com
 acquisitionchannel-v81-use1.8519.aws.thomsonreuters.com
 amers2-ec-hmds.cp.thomsonreuters.com
 ntcp-aaadasv81-gbl-unv-www.cp.thomsonreuters.com
-www.amers1.polling.thomsonreuters.com
+amers1.polling.thomsonreuters.com
 assembly-dev-31-asm.1349.aws-int.thomsonreuters.com
 federated-search-api-latency.global.ppe.7582.aws.thomsonreuters.com
 pentest.converis.thomsonreuters.com
@@ -4786,8 +4777,8 @@ nonprod.obi.thomsonreuters.com
 onesource-idt-cre-amer-admin.iv.determination.thomsonreuters.com
 extra-sweetandmaxwell-dev.int.thomsonreuters.com
 h3eeckertseamanspreview.us.preview.3e.thomsonreuters.com
-www.int.practicallawcompliance.thomsonreuters.com
-www.truccr.thomsonreuters.com
+int.practicallawcompliance.thomsonreuters.com
+truccr.thomsonreuters.com
 a200206-idt-deta-client-tc-qa-oci-usa1.hostedtax.thomsonreuters.com
 africa-thomsonreuters-com.uat.openweb.thomsonreuters.com
 c913gca.int.thomsonreuters.com
@@ -4805,7 +4796,7 @@ fta.7166.aws-int.thomsonreuters.com
 jrs-cvcs-01.int.thomsonreuters.com
 apac1.streetsight.cp.thomsonreuters.com
 poll.test.emea.web.failover.5230.aws.thomsonreuters.com
-www.h3esrch-sandbox-01.nprd.3ecloud.thomsonreuters.com
+h3esrch-sandbox-01.nprd.3ecloud.thomsonreuters.com
 assembly-dev-98-asm.1349.aws-int.thomsonreuters.com
 publicportalapi-libra.ctrack.thomsonreuters.com
 jcare-api-internal.ci.80161.aws.thomsonreuters.com
@@ -5053,7 +5044,7 @@ dev1.highqmod.thomsonreuters.com
 karma-ext.secops.aws.thomsonreuters.com
 uat.invoicing.tabcks.int.thomsonreuters.com
 web-dev-use1-aws-opt.tax.nonprod.thomsonreuters.com
-www.courttv.flportaldev-ams.int.thomsonreuters.com
+courttv.flportaldev-ams.int.thomsonreuters.com
 a250143-snapshot-ppe.rr-dev.aws-int.thomsonreuters.com
 api-hardening-eastus.nprd.3ecloud.thomsonreuters.com
 confideservices-dev.api.thomsonreuters.com
@@ -5254,7 +5245,6 @@ profiles.incites-int.thomsonreuters.com
 a205880-aaa-webapi-uat-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 profileapi-fldir-main-prod-use1.0413.aws-int.thomsonreuters.com
 reputationadmin-stage.int.thomsonreuters.com
-www.risk.thomsonreuters.com
 a205094-internal-routing-dev-cb1.appserver.desktop-preprod.aws-int.thomsonreuters.com
 dxp-light-db.tr-corporate-nonprod.aws-int.thomsonreuters.com
 h3eosborneclarkeqa.uk.preview.3e.thomsonreuters.com
@@ -5361,7 +5351,7 @@ ip.regintel-community.demo.thomsonreuters.com
 delcoef-qa-129.ctrack.thomsonreuters.com
 int.risk-dedup-stage.demo.thomsonreuters.com
 rtdata.thomsonreuters.com
-www.apac.polling.thomsonreuters.com
+apac.polling.thomsonreuters.com
 int.practicallawcompliance.hotprod.thomsonreuters.com
 optoutservice-int-prs-prod-thomsonreuters-com-use2.71182.aws-int.thomsonreuters.com
 bpsa-ui.7582.aws.thomsonreuters.com
@@ -5439,7 +5429,7 @@ emobile5-us-east-1.stage.desktop.aws-int.thomsonreuters.com
 qa-me-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 a204891-reportportal.edp-cicd.aws-int.thomsonreuters.com
 h3egbspreview.uk.preview.3e.thomsonreuters.com
-www.int.practicallawcompliance.ci.thomsonreuters.com
+int.practicallawcompliance.ci.thomsonreuters.com
 lkapi.qa.thomsonreuters.com
 oit-usit-chart-api-dr-use1-aws.tax.prod.int.thomsonreuters.com
 uds-int-govt-hp-westlaw-com-use2.04032.aws-int.thomsonreuters.com
@@ -5451,7 +5441,7 @@ distribution-i-dev.0888.aws-int.thomsonreuters.com
 ftpadmin.qa.taxone.thomsonreuters.com
 cobaltservicesbulk-use1-demo.dataroom-preprod.aws-int.thomsonreuters.com
 ontccms-dmtapi-migrate.ctrack.thomsonreuters.com
-www.findlawimages.flportalqa.int.thomsonreuters.com
+findlawimages.flportalqa.int.thomsonreuters.com
 discountadmintool-qa.int.thomsonreuters.com
 ogt-legacy-webservices-hlg-438.n202261pp.iad-3kaq.oci-int.thomsonreuters.com
 qa-use1-readershipnepapi.analytics.newsapi-preprod.aws-int.thomsonreuters.com
@@ -5537,7 +5527,7 @@ stg.researchinview.thomsonreuters.com
 token.ci.proviewsites.int.thomsonreuters.com
 conversionservices-stage.int.thomsonreuters.com
 prod-euw1-ingestor.rsdp.newsapi.aws-int.thomsonreuters.com
-www.flportaldev-ams.int.thomsonreuters.com
+flportaldev-ams.int.thomsonreuters.com
 satworkpapers-concertmigration.int.thomsonreuters.com
 emea1.admin.cp.thomsonreuters.com
 parsing-qa.gcs.int.thomsonreuters.com
@@ -5658,7 +5648,6 @@ proview.int.thomsonreuters.com
 bddataengineqa.thomsonreuters.com
 ci.datafusion.thomsonreuters.com
 qa.pps.thomsonreuters.com
-www.int.anzlaw.hotprod.thomsonreuters.com
 lynxcontacts.thomsonreuters.com
 onesource-idt-det-amer-ws.iv.determination.thomsonreuters.com
 training-fire.lynx.thomsonreuters.com
@@ -5725,7 +5714,7 @@ dev-glm-mainweb.int.thomsonreuters.com
 documentprofile-o.76978.aws-int.thomsonreuters.com
 education.flportalqa-ams.int.thomsonreuters.com
 newsplus-recommendation-ext.dev.0712.aws.thomsonreuters.com
-www.flportalqa-ams.int.thomsonreuters.com
+flportalqa-ams.int.thomsonreuters.com
 3ecmt.eu.3e.thomsonreuters.com
 h3esrch-01-admin.uk.preview.3e.thomsonreuters.com
 ldaptesttool-prod.1667.aws-int.thomsonreuters.com
@@ -5747,7 +5736,7 @@ alteryx-preprod.int.thomsonreuters.com
 community.legal.thomsonreuters.com
 ott-mergeapi-api-dev-use1-aws.tax.nonprod.thomsonreuters.com
 workflow-uat-euw2.tr-tax-prod.aws-int.thomsonreuters.com
-www.apac.ci.newsplanner.thomsonreuters.com
+apac.ci.newsplanner.thomsonreuters.com
 domainservicesapigee-fdc-ci-use1.1129.aws.thomsonreuters.com
 feat7.codebook.desktop-preprod.aws-int.thomsonreuters.com
 novus-search-orchestrator-ci.plexus-ras1-ppuse1.5771.aws-int.thomsonreuters.com
@@ -5943,7 +5932,7 @@ a207947-domainutilites-prod.1667.aws-int.thomsonreuters.com
 ogt-legacy-tracking-qa-573.n202261pp.iad-3kaq.oci-int.thomsonreuters.com
 zipkin.sc.up.363c.use2.azure-int.thomsonreuters.com
 slu.thomsonreuters.com
-www.e.flportalstage.int.thomsonreuters.com
+e.flportalstage.int.thomsonreuters.com
 datadiscovery.int.thomsonreuters.com
 services.checkpoint.thomsonreuters.com
 signon-cloud.thomsonreuters.com
@@ -5973,7 +5962,7 @@ a205880-cache-rw-prod-ap-southeast-1.desktop.aws-int.thomsonreuters.com
 api.sphinx-uat.8528.aws.thomsonreuters.com
 forms.lp.flportalqa.int.thomsonreuters.com
 qa.newscontent.fr-nonprod.aws.thomsonreuters.com
-www.emea.ppe.newsplanner.thomsonreuters.com
+emea.ppe.newsplanner.thomsonreuters.com
 apac1.creditviews.cp.thomsonreuters.com
 mltools.labs.thomsonreuters.com
 ss-normalization-qa.plexus-cari-ppuse1.97328.aws-int.thomsonreuters.com
@@ -6140,7 +6129,7 @@ a206171-wf-baw-pp.edp-content-preprod.aws-int.thomsonreuters.com
 explore.thomsonreuters.com
 eage-tele-vm-vcs3.int.thomsonreuters.com
 ledo-gosystem-dr-use1-aws.tax.prod.int.thomsonreuters.com
-www.workbn6.thomsonreuters.com
+workbn6.thomsonreuters.com
 california.flportaldev.int.thomsonreuters.com
 chp02-hkg.thomsonreuters.com
 dui.flportaldev.int.thomsonreuters.com
@@ -6653,7 +6642,7 @@ c912mbnprod.int.thomsonreuters.com
 dtc-media-publishing-eu.opt.thomsonreuters.com
 onesource-idt-det-qa-ws.iv.determination.thomsonreuters.com
 c416kgc.ecom.bigdata.int.thomsonreuters.com
-www.flportaldev.int.thomsonreuters.com
+flportaldev.int.thomsonreuters.com
 ppe-api.mediacheck.fr-nonprod.aws.thomsonreuters.com
 injury.flportaldev.int.thomsonreuters.com
 oneimport-ui-dev-use1-aws.tax.nonprod.int.thomsonreuters.com
@@ -6687,7 +6676,7 @@ dev-aws-lawbench.int.thomsonreuters.com
 exhubqc.thomsonreuters.com
 gosystem-dr.thomsonreuters.com
 novus-auxiliary-demo-use2.4152.aws-int.thomsonreuters.com
-www.trpsshelp.thomsonreuters.com
+trpsshelp.thomsonreuters.com
 a206215-atlantis-preprod.1554.aws.thomsonreuters.com
 ci.assetverfication.confirmation.8677.aws-int.thomsonreuters.com
 linsi-prod-green-euw1-scheduler.8528.aws-int.thomsonreuters.com
@@ -6698,7 +6687,7 @@ h3efoxwilliampresoltest.3ecloud.thomsonreuters.com
 history-use1-prod.dataroom-prod.aws-int.thomsonreuters.com
 nr-dist-scout-pln.ie.prod.7582.aws-int.thomsonreuters.com
 quiz-eu.opt.thomsonreuters.com
-www.3ematterpricing.thomsonreuters.com
+3ematterpricing.thomsonreuters.com
 boomiawsppemq.thomsonreuters.com
 docker.a-corporate-preprod.aws-int.thomsonreuters.com
 ftps.onesourcetrust.thomsonreuters.com
@@ -6778,7 +6767,7 @@ trc.nfuse.thomsonreuters.com
 votools.netfirm.int.thomsonreuters.com
 a205923-akk-chs-dev-internal-apse1.6042.aws-int.thomsonreuters.com
 cssharedigroute-qed.opt.thomsonreuters.com
-www.foreclosure.flportalqa.int.thomsonreuters.com
+foreclosure.flportalqa.int.thomsonreuters.com
 afctm-staging.ctrack.thomsonreuters.com
 site-use1c1.anzlaw.ci.thomsonreuters.com
 website.int.uk.draftingassistant.thomsonreuters.com
@@ -6828,7 +6817,7 @@ cp-privacy-prod.tr-tax-cp-prod.aws-int.thomsonreuters.com
 metadata-service.7582.aws-int.thomsonreuters.com
 pointconnect-ff.beta.commodities.thomsonreuters.com
 oms-sftp-uat-eu.thomsonreuters.com
-www.int.practicallawconnect.thomsonreuters.com
+int.practicallawconnect.thomsonreuters.com
 qed-b-2.au.practicallaw.thomsonreuters.com
 samportal-bdc-qa-use1.1129.aws-int.thomsonreuters.com
 site-use1c2.ca.practicallaw.qed.thomsonreuters.com
@@ -6862,7 +6851,6 @@ a205923-akk-rls-prd-usw2.7794.aws-int.thomsonreuters.com
 ci.app.polling.int.thomsonreuters.com
 sso-dev.thomsonreuters.com
 trcra07t139.thomsonreuters.com
-www.africa.thomsonreuters.com
 brms-rule-brmsweb-sat-use1-aws.tax.nonprod.int.thomsonreuters.com
 chp02-dev-dtc.thomsonreuters.com
 hazelcast-int-prs-prod-thomsonreuters-com.71182.aws-int.thomsonreuters.com
@@ -7053,7 +7041,6 @@ ws-api.dev.0712.aws-int.thomsonreuters.com
 domainservicesapigee-fdc-prod-use1.0413.aws.thomsonreuters.com
 hello-ecs.int.thomsonreuters.com
 qa-service-assurance-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
-workbn1.thomsonreuters.com
 amers2.fxheatmap.cp.thomsonreuters.com
 nr-dist-elasticsearch.qa.0712.aws-int.thomsonreuters.com
 origin-cpnz-maf.thomsonreuters.com
@@ -7217,7 +7204,6 @@ profileengine-stage.int.thomsonreuters.com
 adsfulfillment-dev.int.thomsonreuters.com
 publication-indexer.qa.4856.aws-int.thomsonreuters.com
 0170181-csappl.int.thomsonreuters.com
-3ematterpricing.thomsonreuters.com
 account-api.plexus-g.7373.aws.thomsonreuters.com
 attendance-mapleleafs-mssql.ctrack.thomsonreuters.com
 messgen-dev.edp-analytics-preprod.aws-int.thomsonreuters.com
@@ -7251,7 +7237,6 @@ batchaccesstoken-int-prs-prod-thomsonreuters-com-use2.71182.aws-int.thomsonreute
 dev-jobs-us2-int.opt.thomsonreuters.com
 unison.int.thomsonreuters.com
 batchsupportbr3-int-clear-demo-thomsonreuters-com.36049.aws-int.thomsonreuters.com
-courttv.flportalstage.int.thomsonreuters.com
 lb01.cloud.gcs.thomsonreuters.com
 linked-data.osr-cifullstack.3300.aws-int.thomsonreuters.com
 site-use1c1.practicalcompliance.qed.thomsonreuters.com
@@ -7540,7 +7525,7 @@ myfid-1.myfid.dev.svc.cluster.int.thomsonreuters.com
 nr-dist-rest.prod.7582.aws-int.thomsonreuters.com
 prod-csi-api.fp.tr-fr-prod.aws-int.thomsonreuters.com
 use1-imp.gtmcontent.7166.aws.thomsonreuters.com
-www.samsnow.thomsonreuters.com
+samsnow.thomsonreuters.com
 a205880-admpnl-cache-rw-qa-eu-west-1-b.desktop-preprod.aws-int.thomsonreuters.com
 dms-beletseri1-sand.tr-tax-nonprod.aws-int.thomsonreuters.com
 macsupport.thomsonreuters.com
@@ -7580,7 +7565,7 @@ emea-spsd-dit-f-trading.int.thomsonreuters.com
 homsonreuters-com-pe.uat.openweb.thomsonreuters.com
 qa.portal-connect.netfirm.c761.use2.azure-int.thomsonreuters.com
 smtp-lh2-1.thomsonreuters.com
-www.uat.truccr.thomsonreuters.com
+uat.truccr.thomsonreuters.com
 a200206-idt-deta-client-tc-sat-gcp-use4.hostedtax.thomsonreuters.com
 bot.prod.m365.cocounsel.thomsonreuters.com
 qa.content.thomsonreuters.com
@@ -7614,7 +7599,6 @@ a204896-dep-adj-apac.tr-tax-prod.aws-int.thomsonreuters.com
 api.blue-docs.tr-tax-nonprod.aws-int.thomsonreuters.com
 core-oct-apac2.1642.aws.thomsonreuters.com
 qa-trmc-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.legalsolutions.thomsonreuters.com
 book-info-jas.preprod-jas-k.1554.aws-int.thomsonreuters.com
 dev.pps.int.thomsonreuters.com
 dms-siris-uat-usw2.tr-tax-prod.aws-int.thomsonreuters.com
@@ -7717,7 +7701,6 @@ osa-postgres-redirector-prod-use1-aws.tax.prod.thomsonreuters.com
 ld4p-hd3rund02.trading-int.thomsonreuters.com
 ppe-euw1-matcher-blue.salt.newsapi-preprod.aws-int.thomsonreuters.com
 static.tax.store.thomsonreuters.com
-www.int.uk.practicallaw.demo.thomsonreuters.com
 aws-efss.api.thomsonreuters.com
 c492ywkc5.int.thomsonreuters.com
 ci.legalhome.staging.thomsonreuters.com
@@ -7850,7 +7833,7 @@ ontccms-prodprev.ctrack.thomsonreuters.com
 azdevgreenadmin.int.thomsonreuters.com
 c530zjz.int.thomsonreuters.com
 docviewer2.onecalais.thomsonreuters.com
-www.techdeals.flportalqa.int.thomsonreuters.com
+techdeals.flportalqa.int.thomsonreuters.com
 prechecktestdr.int.thomsonreuters.com
 a205880-admpnl-cache-rw-qa-us-east-1-a.desktop-preprod.aws-int.thomsonreuters.com
 a205880-api-ppe-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
@@ -7939,10 +7922,10 @@ uat-ott-taw.thomsonreuters.com
 bankfeeds.thomsonreuters.com
 emea.wowza.livecentral.thomsonreuters.com
 karma-docs.int.thomsonreuters.com
-www.amp.iwealth.thomsonreuters.com
+amp.iwealth.thomsonreuters.com
 dev-csi-change-cron.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 omdemo.uat.csd.legal.aws.thomsonreuters.com
-www.amers6.newsplanner.thomsonreuters.com
+amers6.newsplanner.thomsonreuters.com
 publication-indexer-publishing.ie.prod.7582.aws-int.thomsonreuters.com
 tds-london.int.thomsonreuters.com
 a200206-idt-deta-client-tc-oci-usa1-sat-vgd.hostedtax.thomsonreuters.com
@@ -7960,7 +7943,6 @@ ott-tbot-aws.tax.nonprod.thomsonreuters.com
 stcp-erpcprp-stslogin-www.cp.thomsonreuters.com
 ps360qa.tr-secops-nonprod.aws-int.thomsonreuters.com
 qa.cpc.thomsonreuters.com
-int.uk.practicallaw.qed.thomsonreuters.com
 hrportaldev.thomsonreuters.com
 lipperraft.thomsonreuters.com
 a207947-kbci-isfodfe-dcx-main-ci-us-east-1.4152.aws-int.thomsonreuters.com
@@ -7986,7 +7968,7 @@ a205880-aaasearch-uat-us-east-1.desktop-preprod.aws-int.thomsonreuters.com
 aws-sat-gosystemtaxreturnapi.thomsonreuters.com
 azdevcobaltadmin.int.thomsonreuters.com
 infratools-dataroom-qed-use2.dataroom-prod.aws-int.thomsonreuters.com
-www.int.global.practicallaw.ci.thomsonreuters.com
+int.global.practicallaw.ci.thomsonreuters.com
 h3etorkinmaneslive.ca.3e.thomsonreuters.com
 lab-authzui.int.thomsonreuters.com
 pa-ppe-regressiontest.pal-qa.aws-int.thomsonreuters.com
@@ -8161,7 +8143,7 @@ uat-me-ext-site.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 region-use1.uk.draftingassistant.ci.thomsonreuters.com
 smetrics.thomsonreuters.com
 use1-prd.platform.7166.aws.thomsonreuters.com
-www.sgxen.thomsonreuters.com
+sgxen.thomsonreuters.com
 azdevstoneadmin.int.thomsonreuters.com
 california.lp.flportaldev.int.thomsonreuters.com
 origin-shared-cf.thomsonreuters.com
@@ -8262,7 +8244,7 @@ a250372-s2d-qa.edp-content-preprod.aws-int.thomsonreuters.com
 cp-qed-admin-notification-ui.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 cms.ppe.5419.aws-int.thomsonreuters.com
 raidqa.thomsonreuters.com
-www.thomsonreuters-ru.uat.openweb.thomsonreuters.com
+thomsonreuters-ru.uat.openweb.thomsonreuters.com
 a207838-sss-api-dev.5759.aws-int.thomsonreuters.com
 apiinternal-int-clearapiint-prod-thomsonreuters-com-use1.40958.aws-int.thomsonreuters.com
 beta-omservice.thomsonreuters.com
@@ -8442,7 +8424,7 @@ s4pph-htr-p1.int.thomsonreuters.com
 symb-shrd-endpts-dev.tr-fr-nonprod.aws-int.thomsonreuters.com
 searchresultmanager-grpc-dev.plexus-ras1-ppuse1.5771.aws-int.thomsonreuters.com
 website.int.uk.draftingassistant.qed.thomsonreuters.com
-www.revistadostribunais.com.br.qc.wlbr.int.thomsonreuters.com
+revistadostribunais.com.br.qc.wlbr.int.thomsonreuters.com
 ai-precision-best-headnotes-int.plexus-ras1-ppuse1.5771.aws-int.thomsonreuters.com
 api-eastus.3ecloud.thomsonreuters.com
 karma.tr-corporate-prod.aws-int.thomsonreuters.com
@@ -8479,7 +8461,7 @@ cleartools.qed.int.thomsonreuters.com
 emexx.cp.thomsonreuters.com
 prod-csi-change-display-portal-restrictedusers-site.fp.tr-fr-prod.aws-int.thomsonreuters.com
 workflow-def-inst.tr-tax-nonprod.aws-int.thomsonreuters.com
-www.emea2.newsplanner.thomsonreuters.com
+emea2.newsplanner.thomsonreuters.com
 ip.ri-int.qed.thomsonreuters.com
 a205880-cache-ro-qa-us-east-1-a.desktop-preprod.aws-int.thomsonreuters.com
 onvio-dependencies-graph.int.thomsonreuters.com
@@ -8490,7 +8472,7 @@ dms-marduk-uat-usw2.tr-tax-prod.aws-int.thomsonreuters.com
 austsearch.ha.thomsonreuters.com
 dtcp-erpcprp-sdk-jira-www.cp.thomsonreuters.com
 site-use1c2.uk.draftingassistant.demo.thomsonreuters.com
-www.techdeals.work.flportalqa-ams.int.thomsonreuters.com
+techdeals.work.flportalqa-ams.int.thomsonreuters.com
 dtcp-aaadasv80-gbl-unv-www.cp.thomsonreuters.com
 dtcp-aaahbsv-www.cp.thomsonreuters.com
 dev-use1-healthcheck-mrnepapi.analytics.newsapi-preprod.aws-int.thomsonreuters.com
@@ -8807,7 +8789,6 @@ d-jrecs-dev.3378.aws-int.thomsonreuters.com
 euem-trs-r01.int.thomsonreuters.com
 preprod.checkpoint.thomsonreuters.com
 riceuniversity-old.converis.thomsonreuters.com
-www.criminal-law.prodaws.thomsonreuters.com
 a205880-aaa-api-prod-ap-southeast-1.desktop.aws-int.thomsonreuters.com
 amq-2.dev.4856.aws-int.thomsonreuters.com
 cp-prod-cp-notes-service.tr-tax-cp-prod.aws-int.thomsonreuters.com
@@ -8897,7 +8878,6 @@ a201820-cbtdr-nlb-amq-prod-use2.dataroom-prod.aws-int.thomsonreuters.com
 a205094-dev-as3.appserver.desktop-preprod.aws-int.thomsonreuters.com
 c886azx.intqa.thomsonreuters.com
 saptmxpas.int.thomsonreuters.com
-www.developers.thomsonreuters.com
 caselawapi-qa.int.thomsonreuters.com
 taxonomy-g-dev-tax.9816.aws-int.thomsonreuters.com
 qa.nflinux.netfirm.c761.use2.azure-int.thomsonreuters.com
@@ -9276,7 +9256,7 @@ idt-cre-sdm-usa1.uat.hnja-oci.thomsonreuters.com
 emea1.staging.codebook.desktop.aws-int.thomsonreuters.com
 test-perf.1p.thomsonreuters.com
 euc1-prd.gtmapi.7166.aws-int.thomsonreuters.com
-www.foreclosure.flportalstage-ams.int.thomsonreuters.com
+foreclosure.flportalstage-ams.int.thomsonreuters.com
 miketest2.int.thomsonreuters.com
 testdnsname.tr-legal-nonprod.azure-int.thomsonreuters.com
 a205880-admpnl-cache-rw-dev-ap-southeast-1-b.desktop-preprod.aws-int.thomsonreuters.com
@@ -9296,7 +9276,6 @@ namedentityrecognition-qa.gcs.int.thomsonreuters.com
 qa.workflowui.int.thomsonreuters.com
 publicportalapi-leo.ctrack.thomsonreuters.com
 uat.api.awssm.thomsonreuters.com
-www.accelus.thomsonreuters.com
 otp-integ-dev2-tr-tax-nonprod.aws-int.thomsonreuters.com
 kibana-app.dev.0712.aws-int.thomsonreuters.com
 metadata-service.ppe.7582.aws-int.thomsonreuters.com
@@ -9420,7 +9399,6 @@ eureka-ci.ras.int.thomsonreuters.com
 ogt-gtm-web-qa2.8443.aws-int.thomsonreuters.com
 supervip-csshared.int.thomsonreuters.com
 historyeventlistener-use1-qed.dataroom-prod.aws-int.thomsonreuters.com
-www.checkpoint.thomsonreuters.com
 api.apigarden.thomsonreuters.com
 eage-vcucmsb02.ten.thomsonreuters.com
 feat3.codebook.desktop-preprod.aws-int.thomsonreuters.com
@@ -9475,7 +9453,6 @@ ws-mc-api.qa.4856.aws.thomsonreuters.com
 hpglab-ssl.int.thomsonreuters.com
 research-regint-demo.8101.aws.thomsonreuters.com
 restapi-us2p.select.datascope.thomsonreuters.com
-www.int.practicallawcompliance.hotprod.thomsonreuters.com
 amers2.flowzone.cp.thomsonreuters.com
 graphfeed-docs.datafusion.thomsonreuters.com
 us-east-1.machinea.eca.thomsonreuters.com
@@ -9500,7 +9477,6 @@ a204937-qps-htc-dev.qps-dev.aws-int.thomsonreuters.com
 oit-systemdata-api-dev-use1-aws.tax.nonprod.int.thomsonreuters.com
 demo.au.firmstyle.thomsonreuters.com
 h3ecloudsandbox01.us.ops1.3e.thomsonreuters.com
-www.jobs.flportalqa.int.thomsonreuters.com
 0172648.ghlab.5759.aws.thomsonreuters.com
 a205094-routing-alb-ppe.appserver.desktop-preprod.aws-int.thomsonreuters.com
 dcoprodoem.int.thomsonreuters.com
@@ -9616,7 +9592,7 @@ nonprod.contactcenter.int.thomsonreuters.com
 cpa-prod-cpa-content-processing-service.tr-tax-cp-prod.aws-int.thomsonreuters.com
 publicportalapi-virgo.ctrack.thomsonreuters.com
 qa.ui.myna.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.ppe.newsplanner.thomsonreuters.com
+ppe.newsplanner.thomsonreuters.com
 ci.assetverification.confirmation.8677.aws-int.thomsonreuters.com
 qa1b-checkpointlearning.thomsonreuters.com
 test.questionnaire.polling.int.thomsonreuters.com
@@ -9642,7 +9618,6 @@ a205880-wsof-cache-ro-uat-us-east-1.desktop-preprod.aws-int.thomsonreuters.com
 demo.preprod-jas.1554.aws-int.thomsonreuters.com
 jt1-test.rr-dev.aws-int.thomsonreuters.com
 region-use1.linkresolver.demo.thomsonreuters.com
-www.int.us.checkpoint.qed.thomsonreuters.com
 a205923-akk-anu-uat-use1.33960.aws-int.thomsonreuters.com
 api-playground.tr-fr-nonprod.aws-int.thomsonreuters.com
 push.insiderred.thomsonreuters.com
@@ -9672,7 +9647,7 @@ search-discovery-qa.plexus-cari-ppuse1.97328.aws-int.thomsonreuters.com
 a205880-cache-rw-ppe-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 beta-tsa-prod.ha.thomsonreuters.com
 int.next.ci.thomsonreuters.com
-www.intelligencecenter.thomsonreuters.com
+intelligencecenter.thomsonreuters.com
 a204339-util-preprod-usa1.external.hnja-oci.thomsonreuters.com
 dms-imanage.931c.use2.azure-int.thomsonreuters.com
 usagpoc.legaltracker.int.thomsonreuters.com
@@ -9735,7 +9710,7 @@ dev-csi-apex.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 www-tax-r2d2-prod-use1.0413.aws.thomsonreuters.com
 a205880-aaa-api-dev-eu-west-1-b.desktop-preprod.aws-int.thomsonreuters.com
 novus-rest-prod-use2.1667.aws-int.thomsonreuters.com
-www.dev-rc-au.thomsonreuters.com
+dev-rc-au.thomsonreuters.com
 region-eag.au.draftingassistant.thomsonreuters.com
 grafana.tax-prof1-cicd-nonprod.aws-int.thomsonreuters.com
 ocrconverter.gcs.int.thomsonreuters.com
@@ -9766,7 +9741,7 @@ opwebppetest.thomsonreuters.com
 qa-media-eu.opt.thomsonreuters.com
 mytrppe.thomsonreuters.com
 qa.ga-apigw.8067.aws.thomsonreuters.com
-www.int.businesslawcenter.demo.thomsonreuters.com
+int.businesslawcenter.demo.thomsonreuters.com
 accessmanagement-qa.gcs.thomsonreuters.com
 assembly-dev-158-asm.1349.aws-int.thomsonreuters.com
 lev-emea-ci.thomsonreuters.com
@@ -9875,7 +9850,6 @@ trc.mail.thomsonreuters.com
 a205880-admpnl-cache-ro-uat-ap-southeast-1-b.desktop-preprod.aws-int.thomsonreuters.com
 a205880-eol-db-ro-uat.desktop-preprod.aws-int.thomsonreuters.com
 cobaltapps-ci.int.thomsonreuters.com
-www.oteasoftware-prod-use1-aws.tax.prod.thomsonreuters.com
 int.au.draftingassistant.hotprod.thomsonreuters.com
 livecentral.thomsonreuters.com
 rps-api-qa.edp-content-preprod.aws-int.thomsonreuters.com
@@ -9980,7 +9954,6 @@ legacyservices.int.thomsonreuters.com
 openai-ras-gpt4-turbo-ptu.thomsonreuters.com
 qa.lipperftp.int.thomsonreuters.com
 sa-global.checkpoint.demo.thomsonreuters.com
-www.dfsaen-lp.thomsonreuters.com
 a205094-routing-alb-ppe-as2-eu-west-1.appserver.desktop-preprod.aws-int.thomsonreuters.com
 appliedinnovation-int.thomsonreuters.com
 eap.prd.sing.gov.tr-corporate-prod.aws-int.thomsonreuters.com
@@ -10056,7 +10029,7 @@ olcespbatch.ha.thomsonreuters.com
 ott-trusttax-cw-prod-use1-aws.tax.prod.thomsonreuters.com
 qa-checkpoint-registration.thomsonreuters.com
 new-api.preprod-jas.1554.aws-int.thomsonreuters.com
-www.int.anzlaw.qed.thomsonreuters.com
+int.anzlaw.qed.thomsonreuters.com
 au.firmstyle.thomsonreuters.com
 batchservices-qa.int.thomsonreuters.com
 entityid-int-legalservices-prod-westlaw-com-geo.04032.aws-int.thomsonreuters.com
@@ -10349,7 +10322,7 @@ document-int-nextcanada-hp-westlaw-com.04032.aws-int.thomsonreuters.com
 ec-hmds-lo5p.thomsonreuters.com
 ogt-gtm-next-aws.int.thomsonreuters.com
 performanceconsole-pcdc-prod-use1.0413.aws-int.thomsonreuters.com
-www.formio.3ecloudpoc.thomsonreuters.com
+formio.3ecloudpoc.thomsonreuters.com
 ci.vespa.1696.aws.thomsonreuters.com
 ct-elasticsearch-sbx.int.thomsonreuters.com
 gsftp-dtc.wm.thomsonreuters.com
@@ -10592,7 +10565,7 @@ safetest.thomsonreuters.com
 scorm.opt.thomsonreuters.com
 web.swan-dev.int.thomsonreuters.com
 workspace.us.servicesga.3e.thomsonreuters.com
-www.int.us.checkpoint.thomsonreuters.com
+int.us.checkpoint.thomsonreuters.com
 amers1.fincharts.views.ia.thomsonreuters.com
 amers2.partner10.cp.thomsonreuters.com
 elder.flportalqa-ams.int.thomsonreuters.com
@@ -10880,7 +10853,7 @@ test.workflowui.int.thomsonreuters.com
 dev-me-service.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 hkexen-prod.thomsonreuters.com
 panhandler.netfirm.c761.use2.azure-int.thomsonreuters.com
-www.amers.ppe.newsplanner.thomsonreuters.com
+amers.ppe.newsplanner.thomsonreuters.com
 6043834-ps.8789.aws-int.thomsonreuters.com
 site-use1c2.au.draftingassistant.hotprod.thomsonreuters.com
 staging-cloud.datafusion.thomsonreuters.com
@@ -11135,7 +11108,6 @@ pointconnect.prod-dtc.commodities.thomsonreuters.com
 sphinx-rmatagging-service-weighted.global.test.80161.aws.thomsonreuters.com
 9185.aws-int.thomsonreuters.com
 dev-fpn-ip-discovery-load.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
-int.practicallawcompliance.thomsonreuters.com
 tfx-islamicdeal-blotter-rest-amers-prod.int.thomsonreuters.com
 lzcolumbia.legaltrackerservices.int.thomsonreuters.com
 qa.keygen.netfirm.int.thomsonreuters.com
@@ -11247,7 +11219,7 @@ plexus-isrm-ppuse1.15510.aws-int.thomsonreuters.com
 api-dev-exp.thomsonreuters.com
 dtc.cms.insider.thomsonreuters.com
 odr-api.int.thomsonreuters.com
-www.poc-devex-remote-app-api.9744.aws.thomsonreuters.com
+poc-devex-remote-app-api.9744.aws.thomsonreuters.com
 eagf-tele-vm-vcs-e2.thomsonreuters.com
 site-use1c2.canada.draftingassistant.hotprod.thomsonreuters.com
 web-oitc-apac1.1642.aws.thomsonreuters.com
@@ -11380,12 +11352,11 @@ productrenewal.checkpoint.thomsonreuters.com
 smtp05c.amers.thomsonreuters.com
 sgp-cvcs-03.int.thomsonreuters.com
 wacopup-api-config.ctrack.thomsonreuters.com
-www.hkexcn.thomsonreuters.com
 eagf-vcucmpb.ten.thomsonreuters.com
 pub-assembly-dev-36.9185.aws-int.thomsonreuters.com
 sbs-sweetandmaxwell-dev.int.thomsonreuters.com
 oit-workpaper-api-sat-use1-aws.tax.non-prod.int.thomsonreuters.com
-www.workbn7.thomsonreuters.com
+workbn7.thomsonreuters.com
 api-enterprise-llm-dev.e781.use.azure-int.thomsonreuters.com
 pt1-us-internal-sc-akk-dms.int.thomsonreuters.com
 pub-assembly-dev-2.9185.aws-int.thomsonreuters.com
@@ -11417,7 +11388,6 @@ custleadservices-dev.int.thomsonreuters.com
 jrecs-mms-qa.gcs.int.thomsonreuters.com
 tracs-admin-pln-cis.int.thomsonreuters.com
 hdcp-dve4vs1-www.cp.thomsonreuters.com
-intelligencecenter.thomsonreuters.com
 nws-205140-produse1-internal.newsapi.aws-int.thomsonreuters.com
 cc-opcs-pace-ci.plexus-cari-ppuse1.97328.aws.thomsonreuters.com
 ogt-gtm-web-prd2.7166.aws.thomsonreuters.com
@@ -11495,7 +11465,6 @@ truslzstgcnv6.legaltrackerservices.int.thomsonreuters.com
 loadtonovus-ci.gcs.int.thomsonreuters.com
 lynxus1-red-userd.int.thomsonreuters.com
 qa.commit.bulk-205061.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.findlawimages.com.flportalstage-ams.int.thomsonreuters.com
 assembly-dev-192-asm.1349.aws-int.thomsonreuters.com
 eportus2.hkg.corp.thomsonreuters.com
 h3esimmonsstrategy.uk.preview.3e.thomsonreuters.com
@@ -11508,7 +11477,7 @@ dms-siris-prod-use1.tr-tax-prod.aws-int.thomsonreuters.com
 batchserver-int-clear-prod-thomsonreuters-com-geo.40958.aws-int.thomsonreuters.com
 scs-prod-euw1-ucdp.newsapi.aws-int.thomsonreuters.com
 service.insiderred.thomsonreuters.com
-www.int.uk.practicallaw.thomsonreuters.com
+int.uk.practicallaw.thomsonreuters.com
 manage.sso-auth-sandbox.int.thomsonreuters.com
 ppe-euw1-mr-collector.analytics.newsapi-preprod.aws-int.thomsonreuters.com
 ppe.livecentral.thomsonreuters.com
@@ -11554,7 +11523,7 @@ mock-events.dfe.thomsonreuters.com
 bigdata-cas-fr-dev.int.thomsonreuters.com
 cpa-prod-autosuggest-recommender-dr.tr-tax-cp-prod.aws-int.thomsonreuters.com
 itnuw-aws.tax.prod.thomsonreuters.com
-www.roadmap.thomsonreuters.com
+roadmap.thomsonreuters.com
 pub-assembly-dev-93.9185.aws-int.thomsonreuters.com
 schema.gcs.thomsonreuters.com
 translation.osr-qa.3300.aws-int.thomsonreuters.com
@@ -11597,7 +11566,7 @@ dev-compliancelearning.thomsonreuters.com
 dms-marduk-sand.tr-tax-nonprod.aws-int.thomsonreuters.com
 mopa-migrate.ctrack.thomsonreuters.com
 rtmproxy-int-clear-qed-thomsonreuters-com-geo.40958.aws-int.thomsonreuters.com
-www.old.laley.com.ar.ha.thomsonreuters.com
+old.laley.com.ar.ha.thomsonreuters.com
 amers1.streamingwmajax.cp.thomsonreuters.com
 api.apigarden-qa.int.thomsonreuters.com
 eds-cfs-204890-main-ppe.tr-fr-nonprod.aws-int.thomsonreuters.com
@@ -11684,7 +11653,7 @@ tool-dtc.asset4.thomsonreuters.com
 c905aygddta01.int.thomsonreuters.com
 distribution.gcs.int.thomsonreuters.com
 site-use1c2.global.checkpoint.thomsonreuters.com
-www.int.global.practicallaw.demo.thomsonreuters.com
+int.global.practicallaw.demo.thomsonreuters.com
 assembly-dev-14-asm.1349.aws-int.thomsonreuters.com
 qa-use1-healthcheck.salt.newsapi-preprod.aws-int.thomsonreuters.com
 trpa-qa.9724.aws-int.thomsonreuters.com
@@ -11693,7 +11662,6 @@ mc-eaghs-nep-nr.thomsonreuters.com
 stcp-erpcprp-sdk-tm3-www.cp.thomsonreuters.com
 trcra04t002.thomsonreuters.com
 usit-import-amer1.api.int.thomsonreuters.com
-proview.qed.thomsonreuters.com
 h3esrch-01-admin.us.live.3e.thomsonreuters.com
 preprod.file-management-mfe-int.thomsonreuters.com
 backupportal-int.thomsonreuters.com
@@ -11891,7 +11859,7 @@ lb02.cloud.gcs.thomsonreuters.com
 api-efiler-oitc-dev.tr-tax-nonprod.aws-int.thomsonreuters.com
 biskams.thomsonreuters.com
 dataorchestration-int-forms-qed-westlaw-com.04032.aws-int.thomsonreuters.com
-www.int.anzlaw.thomsonreuters.com
+int.anzlaw.thomsonreuters.com
 ip.regintel-admin.demo.thomsonreuters.com
 openreports-stage-b.int.thomsonreuters.com
 otp-integ-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -11952,7 +11920,7 @@ config-dev.pal-dev.aws-int.thomsonreuters.com
 entitlement.8821.aws.thomsonreuters.com
 idt-det-usa1.prod.hnja-oci.thomsonreuters.com
 nhef-amq-staging.ctrack.thomsonreuters.com
-www.int.practicallawconnect.demo.thomsonreuters.com
+int.practicallawconnect.demo.thomsonreuters.com
 a204693-prod-emea2.tr-tax-prod.aws-int.thomsonreuters.com
 batchsupportprevrel-int-clear-ci-thomsonreuters-com.36049.aws-int.thomsonreuters.com
 dev-fp-report-site.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
@@ -12038,7 +12006,7 @@ mbpup-api-auto.ctrack.thomsonreuters.com
 smtp09co.amers.thomsonreuters.com
 testbrindha1.thomsonreuters.com
 us2p-license-ime.int.thomsonreuters.com
-www.techdeals.flportalstage.int.thomsonreuters.com
+techdeals.flportalstage.int.thomsonreuters.com
 6112297-ps.8789.aws-int.thomsonreuters.com
 cpa-dev-cpa-gdp-classifier.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 nuclear-s2s-ci.int.thomsonreuters.com
@@ -12144,7 +12112,7 @@ a205094-internal-routing-prod-cb1-us-east-1.appserver.desktop.aws-int.thomsonreu
 chat.insider.thomsonreuters.com
 cntr02.vpn.thomsonreuters.com
 pb-euw1-dv-sitea.a-worldcheck-preprod.aws-int.thomsonreuters.com
-www.int.dataprivacyadvisor.hotprod.thomsonreuters.com
+int.dataprivacyadvisor.hotprod.thomsonreuters.com
 ontccrp-staging.ctrack.thomsonreuters.com
 uslegalcenter.legaltrackerservices.thomsonreuters.com
 pub-assembly-dev-45.9185.aws-int.thomsonreuters.com
@@ -12180,7 +12148,7 @@ ott-dataconversions-api-dev-use1-aws.tax.nonprod.thomsonreuters.com
 legacyservicesext-ssdc-stage-use1.60413.aws.thomsonreuters.com
 tfx-commodities-blotter-rest-prod.int.thomsonreuters.com
 a250486-bb-prod.edp-content.aws-int.thomsonreuters.com
-www.foreclosure.flportaldev.int.thomsonreuters.com
+foreclosure.flportaldev.int.thomsonreuters.com
 serengeti.sculpinauto.int.thomsonreuters.com
 trtasso.thomsonreuters.com
 uds-int-v3-prod-taxnetpro-com.04032.aws-int.thomsonreuters.com
@@ -12339,7 +12307,6 @@ sg1p-vcucmsa01.ten.thomsonreuters.com
 uknsb.legaltrackerservices.int.thomsonreuters.com
 wksp3eprod.int.thomsonreuters.com
 a206254-cvm-ve-qa-use1.cvm-dev.aws-int.thomsonreuters.com
-apac6.newsplanner.thomsonreuters.com
 linsi-ci-blue-euw1-storygen.8335.aws-int.thomsonreuters.com
 documentprofile-e.76978.aws-int.thomsonreuters.com
 mlregistry-ci.gcs.int.thomsonreuters.com
@@ -12490,7 +12457,7 @@ irgo.casecenter.thomsonreuters.com
 a206766-oiul-kibana-uat-usa1.internal.hnja-oci.thomsonreuters.com
 activitytrackerservices-dev.int.thomsonreuters.com
 c190mkw.int.thomsonreuters.com
-www.int.practicallawconnect.ci.thomsonreuters.com
+int.practicallawconnect.ci.thomsonreuters.com
 prod-eaprovisionsite-ng.fp.tr-fr-prod.aws-int.thomsonreuters.com
 publicportalapi-ducks-mssql.ctrack.thomsonreuters.com
 brightcoveservices-sbdc-prod-use1.0413.aws-int.thomsonreuters.com
@@ -12679,7 +12646,7 @@ distribution-scheduler-qa.gcs.int.thomsonreuters.com
 ppe-euw1-healthcheck-readershipnepapi.analytics.newsapi-preprod.aws-int.thomsonreuters.com
 tagservices-sbdc-qa-use1.1129.aws-int.thomsonreuters.com
 votools.netfirm.c761.use2.azure-int.thomsonreuters.com
-www.profdev.flportalstage-ams.int.thomsonreuters.com
+profdev.flportalstage-ams.int.thomsonreuters.com
 a250377-reps-e2e.edp-content-preprod.aws-int.thomsonreuters.com
 careers.flportalstage-ams.int.thomsonreuters.com
 ec-hmds-ntcp.thomsonreuters.com
@@ -12696,7 +12663,6 @@ linsi-prod-blue-euw1-coreservices.8528.aws.thomsonreuters.com
 ppe-use1.nf.newsapi-preprod.aws-int.thomsonreuters.com
 cn-psdo-loader.9297.aws-int.thomsonreuters.com
 serengeti.unionjackservices.int.thomsonreuters.com
-www.adgmen.thomsonreuters.com
 amers1.admin.cp.thomsonreuters.com
 trcra07t031.thomsonreuters.com
 treric-pwi.thomsonreuters.com
@@ -12761,7 +12727,6 @@ myfid1-dev.int.thomsonreuters.com
 ellis-build.int.thomsonreuters.com
 iw-chart2.ocb.iwealth.thomsonreuters.com
 usit-binder-pd.api.int.thomsonreuters.com
-www.amers5.newsplanner.thomsonreuters.com
 amers2-cm-hmds.cp.thomsonreuters.com
 c909pgstympr4.intprod.thomsonreuters.com
 community-qa.business.thomsonreuters.com
@@ -12777,7 +12742,6 @@ scrum-assistant.5759.aws-int.thomsonreuters.com
 euc1-reg.ftaan.8443.aws-int.thomsonreuters.com
 onesource-idt-cre-uat-ux.iv.determination.thomsonreuters.com
 zmq.dfe.thomsonreuters.com
-int.practicallawcompliance.qed.thomsonreuters.com
 a204837-lm-esd-dev04-euw1.a-worldcheck-preprod.aws-int.thomsonreuters.com
 a206378-aaa-qos-prod.aaa.aws-int.thomsonreuters.com
 trgrftp.thomsonreuters.com
@@ -12867,7 +12831,6 @@ trtenscccmg.ten.thomsonreuters.com
 amers1.viewsstatic1.cp.thomsonreuters.com
 cpltest-admin-checkpoint.thomsonreuters.com
 dataservicesdev.thomsonreuters.com
-www.laley.thomsonreuters.com
 wildcard.int.thomsonreuters.com
 ocractivemq.nlb.int.thomsonreuters.com
 preprod.ampadmin1.iwealth.thomsonreuters.com
@@ -12933,7 +12896,6 @@ ftps.content-int.thomsonreuters.com
 recordauthority-c285049-dev.9983.aws-int.thomsonreuters.com
 lynxinsight-coreservices.8528.aws.thomsonreuters.com
 qa-legalfinancial-training.thomsonreuters.com
-www.cbuae-uat.thomsonreuters.com
 usboomstick.legaltracker.int.thomsonreuters.com
 pub-assembly-dev-85.9185.aws-int.thomsonreuters.com
 cp-prod-cp-news-processing-service.tr-tax-cp-prod.aws-int.thomsonreuters.com
@@ -12960,11 +12922,11 @@ c991thndcgc.ten.thomsonreuters.com
 opwebhybrisclduat.int.thomsonreuters.com
 storage.super-duper-long-certificate-name.training-wes-haut.gcp-int.thomsonreuters.com
 securefesttest.thomsonreuters.com
-www.calabrioamc.thomsonreuters.com
+calabrioamc.thomsonreuters.com
 amers1.emaxx.cp.thomsonreuters.com
 dataroom.platformencryption-use1-ci.dataroom-crypt-preprod.59768.aws-int.thomsonreuters.com
 ncl.status.newsapi.aws-int.thomsonreuters.com
-www.mlx.iwealth.thomsonreuters.com
+mlx.iwealth.thomsonreuters.com
 ci-awssm.thomsonreuters.com
 federated-search-api.ie.prod.7582.aws.thomsonreuters.com
 gpsm.int.thomsonreuters.com
@@ -13082,7 +13044,6 @@ glbscp-uka-prod-mwtestsite-vip.thomsonreuters.com
 openai-ras-gpt4-8k-ptu.thomsonreuters.com
 pa-dev.pal-dev.aws-int.thomsonreuters.com
 pricing.ejvdev.int.thomsonreuters.com
-www.int.global.checkpoint.hotprod.thomsonreuters.com
 a208460-batch-qed-use1.40958.aws-int.thomsonreuters.com
 caselawupload.int.thomsonreuters.com
 eportus2.lon.colo.thomsonreuters.com
@@ -13121,7 +13082,7 @@ taxes.flportaldev.int.thomsonreuters.com
 thomsonreuters-com-australia.uat.openweb.thomsonreuters.com
 amers.ci.test.polling.int.thomsonreuters.com
 api-cit.datastream-sphinx-nonprod.thomsonreuters.com
-www.techdeals.work.flportalqa.int.thomsonreuters.com
+techdeals.work.flportalqa.int.thomsonreuters.com
 argocd.prod-mgmt-usw2.8427.aws-int.thomsonreuters.com
 multimedia.dev.api.0712.aws.thomsonreuters.com
 smtp02c.apac.thomsonreuters.com
@@ -13132,7 +13093,6 @@ ott-accounts-api-sat-use1-aws.tax.nonprod.thomsonreuters.com
 backend.uat.painelsla.thomsonreuters.com
 dev-notes-service-cloud.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 isf-filter-qed.1667.aws-int.thomsonreuters.com
-findlawimages.com.flportalstage.int.thomsonreuters.com
 smtp-msp-3.corp.thomsonreuters.com
 a250372-comps.edp-content.aws-int.thomsonreuters.com
 echo-server.plexus-demo.1554.aws.thomsonreuters.com
@@ -13170,7 +13130,7 @@ test-api.9744.aws-int.thomsonreuters.com
 test111.ucdp.thomsonreuters.com
 us-east-1.eca-ci.thomsonreuters.com
 website-int-v3-hp-taxnetpro-com.04032.aws-int.thomsonreuters.com
-www.int.us.checkpoint.ci.thomsonreuters.com
+int.us.checkpoint.ci.thomsonreuters.com
 int.deadlineassistant.qed.thomsonreuters.com
 novus-auxiliary-prod-use1.1667.aws-int.thomsonreuters.com
 sat-use1-rndweb-services.tr-tax-prod.aws-int.thomsonreuters.com
@@ -13191,7 +13151,7 @@ web.provisionsdr.thomsonreuters.com
 a205770.apt-preprod.aws-int.thomsonreuters.com
 a207838-sss-api-prod.6992.aws-int.thomsonreuters.com
 aumentumpoc.thomsonreuters.com
-www.profdev.flportaldev.int.thomsonreuters.com
+profdev.flportaldev.int.thomsonreuters.com
 jcare-api-internal.us.ppe.7582.aws.thomsonreuters.com
 usracoons2.legaltracker.int.thomsonreuters.com
 lipperlanatest.thomsonreuters.com
@@ -13246,7 +13206,7 @@ uds-int-nextcorrectional-qed-westlaw-com-use2.04032.aws-int.thomsonreuters.com
 gestta-demo.52128.aws-int.thomsonreuters.com
 infratools-cp-prod-use1.1434.aws-int.thomsonreuters.com
 trnerr-ci-699.plexus-ppe.1554.aws.thomsonreuters.com
-www.int.practicallawcompliance.demo.thomsonreuters.com
+int.practicallawcompliance.demo.thomsonreuters.com
 dev-checkpointlearning.int.thomsonreuters.com
 qa-int.hnja-oci.thomsonreuters.com
 tracker.uscolumbiaservices.int.thomsonreuters.com
@@ -13323,7 +13283,6 @@ apidocs-edp-ref.cp.thomsonreuters.com
 listmatching.ppe.jenga.worldcheckcuration-beta.aws-int.thomsonreuters.com
 dtcp-erpcprp-sdk-reutersbest-www.cp.thomsonreuters.com
 newsroom.sftp2.ha.thomsonreuters.com
-www.qfcra-en.thomsonreuters.com
 api.sat-organizertoweb.int.thomsonreuters.com
 newscontent.fr-nonprod.aws.thomsonreuters.com
 relationshipprofile-qa.gcs.int.thomsonreuters.com
@@ -13373,7 +13332,6 @@ slagui-qc.4152.aws-int.thomsonreuters.com
 170qc.thomsonreuters.com
 dev-accreditation-app.opt.thomsonreuters.com
 dtcp-hmdp2pd-ajax-www.cp.thomsonreuters.com
-www.cbben.thomsonreuters.com
 a201820-drdemo-alb-demo-use1.dataroom-preprod.aws-int.thomsonreuters.com
 blr.remoteaccess.thomsonreuters.com
 davenetics.flportaldev.int.thomsonreuters.com
@@ -13433,7 +13391,7 @@ comparision-qa.gcs.int.thomsonreuters.com
 oit-formrequestsvc-sat-use1-aws.tax.non-prod.int.thomsonreuters.com
 stcp-dvevs3-www.cp.thomsonreuters.com
 a205258-elb-dev-euw1.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.apac1.polling.thomsonreuters.com
+apac1.polling.thomsonreuters.com
 cas-test.converis.thomsonreuters.com
 cflbtest-lh3.thomsonreuters.com
 dtcq-csb004s11.int.thomsonreuters.com
@@ -13520,12 +13478,11 @@ foldering-int-proview-qed-thomsonreuters-com.04032.aws-int.thomsonreuters.com
 historyeventlistener-use1-prod.dataroom-prod.aws-int.thomsonreuters.com
 demo.int.renew.tax.thomsonreuters.com
 manufacturingmaintenance-qacloud.int.thomsonreuters.com
-www.techdeals.work.flportalstage.int.thomsonreuters.com
+techdeals.work.flportalstage.int.thomsonreuters.com
 amers2.pointcarbon.cp.thomsonreuters.com
 stg.institution-d.researchinview.thomsonreuters.com
 test-app.fwc.8335.aws.thomsonreuters.com
 socket.api.sphinx.thomsonreuters.com
-www.concourse.thomsonreuters.com
 fds-hub-dev.pal-dev.aws-int.thomsonreuters.com
 pralert-int-prs-prod-thomsonreuters-com-use2.71182.aws-int.thomsonreuters.com
 schema-c-dev.9816.aws-int.thomsonreuters.com
@@ -13781,7 +13738,7 @@ us-sc-akk-dms.int.thomsonreuters.com
 backend.qa.taxautomation.thomsonreuters.com
 hadoop-sculptor.int.thomsonreuters.com
 lusid-asap-qa.pal-qa.aws-int.thomsonreuters.com
-www.lawinfo-uat.int.thomsonreuters.com
+lawinfo-uat.int.thomsonreuters.com
 lzusint.legaltrackerservices.int.thomsonreuters.com
 web.onesourceuk.thomsonreuters.com
 hdcp-dveweb4-www.cp.thomsonreuters.com
@@ -13870,7 +13827,6 @@ a205923-akk-chs-dev-j-usw2.6042.aws-int.thomsonreuters.com
 bitbucket-external.ctrack.thomsonreuters.com
 opentextqa.int.thomsonreuters.com
 ukqatestauto2.legaltracker.int.thomsonreuters.com
-www.monitorsuite.thomsonreuters.com
 afsops1eu2avm.3661.use2.azure-int.thomsonreuters.com
 clientinfodocservices-dev.api.thomsonreuters.com
 nr-dist-media-screener.7582.aws-int.thomsonreuters.com
@@ -13962,7 +13918,6 @@ web.onesourcessodrsflb.thomsonreuters.com
 accelus.ppe.tr-fr-nonprod.aws-int.thomsonreuters.com
 b.clear.thomsonreuters.com
 dev.incident-reporter.int.thomsonreuters.com
-foreclosure.flportaldev.int.thomsonreuters.com
 h3esrch-01.us.load.3e.thomsonreuters.com
 searchorchestrator-ci.ras.int.thomsonreuters.com
 smartvaluation-int.thomsonreuters.com
@@ -13977,7 +13932,6 @@ legal.rs.cp.thomsonreuters.com
 ott-sales-api-dev2-use1-aws.tax.nonprod.thomsonreuters.com
 family.flportalstage.int.thomsonreuters.com
 trcra06t027.thomsonreuters.com
-www.emea6.newsplanner.thomsonreuters.com
 a205880-eol-cache-rw-uat-ap-southeast-1.desktop-preprod.aws-int.thomsonreuters.com
 argo-workflows.sc.up.363c.use2.azure-int.thomsonreuters.com
 euem-cond-a01.int.thomsonreuters.com
@@ -14040,7 +13994,6 @@ cdqmat.thomsonreuters.com
 developers.sphinx.int.thomsonreuters.com
 efmh5-oitc-pub.tr-tax-nonprod.aws-int.thomsonreuters.com
 stcp-erpcprp-sdk-reutersbest-www.cp.thomsonreuters.com
-int.practicallawcompliance.ci.thomsonreuters.com
 aem-dispatcher-qa.int.thomsonreuters.com
 poddv.thomsonreuters.com
 a205880-eol-api-qa-us-east-1-b.desktop-preprod.aws-int.thomsonreuters.com
@@ -14062,7 +14015,7 @@ ftp.asset4.thomsonreuters.com
 mytimedev.int.thomsonreuters.com
 site-use2c1.canada.draftingassistant.qed.thomsonreuters.com
 euc1-reg.gtmapi.8443.aws-int.thomsonreuters.com
-www.e.flportalqa.int.thomsonreuters.com
+e.flportalqa.int.thomsonreuters.com
 s1-practicallawcompliance.qed.thomsonreuters.com
 test-uwc.converis.thomsonreuters.com
 7d00.ukw.azure-int.thomsonreuters.com
@@ -14096,7 +14049,6 @@ boxiqa.thomsonreuters.com
 casetracking-int-legalservices-prod-westlaw-com-use1.04032.aws-int.thomsonreuters.com
 h3esrch-01-admin.uk.live.3e.thomsonreuters.com
 a250377-bms-api.e2e.edp-content-preprod.aws-int.thomsonreuters.com
-h3esrch-sandbox-01.nprd.3ecloud.thomsonreuters.com
 ip.deadlineassistant.qed.thomsonreuters.com
 dxp-jenkins.tr-corporate-nonprod.aws-int.thomsonreuters.com
 ref-data.pts.int.thomsonreuters.com
@@ -14109,14 +14061,14 @@ ukilasl-payonline-prod.thomsonreuters.com
 dev-email-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 es-cluster-manager.us-east-1.prod.7582.aws-int.thomsonreuters.com
 flcoreservices-dev.int.thomsonreuters.com
-www.int.us.practicallaw.thomsonreuters.com
+int.us.practicallaw.thomsonreuters.com
 onesource-idt-oarb-uat-ws.iv.determination.thomsonreuters.com
 proviewtickets.int.thomsonreuters.com
 a205094-platform-ppe-as2-ap-southeast-1.appserver.desktop-cicd.aws-int.thomsonreuters.com
 bclient.ldap-use2.prism-prod.aws-int.thomsonreuters.com
 idt-cre-ce-usa1.prod.hnja-oci.thomsonreuters.com
 web-oct-sat.3300.aws-int.thomsonreuters.com
-www.revistadostribunais.com.br.clt.int.thomsonreuters.com
+revistadostribunais.com.br.clt.int.thomsonreuters.com
 linsi-test-storygen.8335.aws-int.thomsonreuters.com
 si-k1packageapi.thomsonreuters.com
 trcra06t100.thomsonreuters.com
@@ -14215,7 +14167,7 @@ a207838-sss-api-sandbox.8528.aws-int.thomsonreuters.com
 apac1.help.cp.thomsonreuters.com
 ucdponbrd-amers02.thomsonreuters.com
 a204891-rslv-apse1-dev.edp-distribution-preprod.aws-int.thomsonreuters.com
-www.emea1.polling.thomsonreuters.com
+emea1.polling.thomsonreuters.com
 ecp.datafusion.thomsonreuters.com
 editorial-odentrack.int.thomsonreuters.com
 test2-riceuniversity.converis.thomsonreuters.com
@@ -14317,7 +14269,6 @@ dev-data-engine.gcp-int.thomsonreuters.com
 distribution-scheduler-j-dev.0888.aws-int.thomsonreuters.com
 federated-search-api-internal-latency.global.qa.0712.aws.thomsonreuters.com
 stc-tele-vcs-e2-apac.int.thomsonreuters.com
-apac.polling.thomsonreuters.com
 appserver-amers2-cpspod.int.thomsonreuters.com
 ciam-pingdataconsole-dev.plexus-pp.1554.aws-int.thomsonreuters.com
 trcra04t020.thomsonreuters.com
@@ -14334,12 +14285,10 @@ smtsweb.thomsonreuters.com
 uat-eapservice-cloud.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 arbor-leader-pln.int.thomsonreuters.com
 assembly-dev-182-asm.1349.aws-int.thomsonreuters.com
-formio.3ecloudpoc.thomsonreuters.com
 a205880-admpnl-api-dev-eu-west-1.desktop-preprod.aws-int.thomsonreuters.com
 novus-rest-qed-use2.1667.aws-int.thomsonreuters.com
 uat1.ameriprise.iwealth.thomsonreuters.com
 us-east-1.eca-uat.thomsonreuters.com
-www.trlegal.thomsonreuters.com
 a206766-oiul-kibana-dev-usa1.internal.hnja-oci.thomsonreuters.com
 centraltechtools-use1-ci.dataroom-preprod.aws-int.thomsonreuters.com
 oit-report-api-sat-use1-aws.tax.non-prod.int.thomsonreuters.com
@@ -14401,7 +14350,6 @@ crdemo.int.thomsonreuters.com
 qa-use1.nf.newsapi-preprod.aws-int.thomsonreuters.com
 quant-stream-qa.apt-tact-nonprod.aws.thomsonreuters.com
 acuity.ci.thomsonreuters.com
-gtmlearning.thomsonreuters.com
 qa-fpn-ip-discovery-load.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 qa-tax-learning.thomsonreuters.com
 workflow-rules-dev.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -14457,7 +14405,6 @@ fids-fail.ecp-registry.thomsonreuters.com
 ftp-qa.tdn.thomsonreuters.com
 ukilasl-fsa-prod.thomsonreuters.com
 uat-fw-euw1b-2-feeds.thomsonreuters.com
-www.supreme.flportalqa-ams.int.thomsonreuters.com
 storage-grafana-msp.int.thomsonreuters.com
 api.assetskiosktest.int.thomsonreuters.com
 emea1.appcdn.kaltura.cp.thomsonreuters.com
@@ -14609,7 +14556,7 @@ mopa-api-auto.ctrack.thomsonreuters.com
 onvio-cdn-all-demo.8677.aws-int.thomsonreuters.com
 prd.phbr.ha.thomsonreuters.com
 ukpentest.legaltrackerservices.int.thomsonreuters.com
-www.supreme.flportalstage.int.thomsonreuters.com
+supreme.flportalstage.int.thomsonreuters.com
 adn-test-suite-nonprod.9744.aws.thomsonreuters.com
 digestgen-dev.edp-analytics-preprod.aws-int.thomsonreuters.com
 esbeag-stage.api.thomsonreuters.com
@@ -14703,7 +14650,6 @@ sf-dpm-config.ctrack.thomsonreuters.com
 ss-normalization-ci.plexus-cari-ppuse1.97328.aws.thomsonreuters.com
 icwftp.thomsonreuters.com
 site-use1c1.uk.draftingassistant.hotprod.thomsonreuters.com
-www.flportalqa.int.thomsonreuters.com
 calendar-core-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
 managementconsole-qa.thomsonreuters.com
 ppe.invoicingws.tabcks.int.thomsonreuters.com
@@ -14812,10 +14758,9 @@ usit-knowledgebase-amer1.api.int.thomsonreuters.com
 a.anzlaw.demo.thomsonreuters.com
 eds-trf-204891-euw1-qa.tr-fr-nonprod.aws-int.thomsonreuters.com
 mailin1-trp.thomsonreuters.com
-www.findlawimages.flportalqa-ams.int.thomsonreuters.com
+findlawimages.flportalqa-ams.int.thomsonreuters.com
 ct-yph184-sbx.int.thomsonreuters.com
 optimizer-ppe.pal-qa.aws-int.thomsonreuters.com
-www.amers.newsplanner.thomsonreuters.com
 ci.api.legalplatform.thomsonreuters.com
 nonprod.cat83.thomsonreuters.com
 test.nepapi.newsapi-preprod.aws-int.thomsonreuters.com
@@ -14930,9 +14875,7 @@ amers2.stream.ia.thomsonreuters.com
 biz.flportalqa-ams.int.thomsonreuters.com
 brightcoveservices-stage.api.thomsonreuters.com
 usit-incometaxint-amer1.api.int.thomsonreuters.com
-www.supreme.flportaldev.int.thomsonreuters.com
 apac1.fincharts.cp.thomsonreuters.com
-dev-rc-au.thomsonreuters.com
 mikesontest.int.thomsonreuters.com
 dev.data-syncer.3300.aws-int.thomsonreuters.com
 einstein-api.thomsonreuters.com
@@ -15037,7 +14980,7 @@ site-use1c1.deadlineassistant.demo.thomsonreuters.com
 lps-amers-health.5419.aws.thomsonreuters.com
 site-use1c2.nz.draftingassistant.qed.thomsonreuters.com
 test-fw-euw1-dbt.thomsonreuters.com
-www.judicialchambers.thomsonreuters.com
+judicialchambers.thomsonreuters.com
 dtcp-dveweb-www.cp.thomsonreuters.com
 orca-data-access.indexmaster-qa.aws-int.thomsonreuters.com
 prnormalize-int-prs-qed-thomsonreuters-com-geo.71182.aws-int.thomsonreuters.com
@@ -15056,7 +14999,6 @@ store-us1-wlp3pp.worklife.desktop-preprod.aws-int.thomsonreuters.com
 a206449-ngra-scheduler-euc1-prod.tr-tax-prod.aws-int.thomsonreuters.com
 collateralwebpagedev.thomsonreuters.com
 emea.ci.questionnaire.polling.thomsonreuters.com
-int.dataprivacyadvisor.hotprod.thomsonreuters.com
 a204279-osp-api-emea.tr-tax-prod.aws-int.thomsonreuters.com
 s1-practicallawconnect.hotprod.thomsonreuters.com
 uat-eaas-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
@@ -15113,11 +15055,10 @@ a205880-wsof-cache-ro-prod-eu-west-1-a.desktop.aws-int.thomsonreuters.com
 aaa-mars-bridge-dit.int.thomsonreuters.com
 marketplace-dev.thomsonreuters.com
 a205880-eol-api-ppe-eu-west-1.desktop-preprod.aws-int.thomsonreuters.com
-www.mypaysolutions.thomsonreuters.com
 dev-osa-redirector.int.thomsonreuters.com
 perf.desktop-preprod.aws-int.thomsonreuters.com
 qa.doe-metrics.5759.aws.thomsonreuters.com
-www.int.practicepoint.thomsonreuters.com
+int.practicepoint.thomsonreuters.com
 custleadapigee-lipdc-qa-use1.1129.aws.thomsonreuters.com
 pub-assembly-dev-8.9185.aws-int.thomsonreuters.com
 s1-proview-msp.thomsonreuters.com
@@ -15181,7 +15122,6 @@ lat-emea-euw1.int.thomsonreuters.com
 slagui-client.1667.aws-int.thomsonreuters.com
 legaltracker.int.thomsonreuters.com
 swagger-eu1-wlp3pp.worklife.desktop-preprod.aws-int.thomsonreuters.com
-www.apac.test.newsplanner.thomsonreuters.com
 ontcpup-backend-oneday.ctrack.thomsonreuters.com
 chatsvc-lipdc-prod-use1.0413.aws-int.thomsonreuters.com
 dtc-tele-vcs-c1.int.thomsonreuters.com
@@ -15277,7 +15217,7 @@ dev-fp-elf.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 fsnews.flportalstage.int.thomsonreuters.com
 api.db-lake-qa.tr-secops-nonprod.aws-int.thomsonreuters.com
 region-use1.proview.hotprod.thomsonreuters.com
-www.techdeals.work.flportaldev-ams.int.thomsonreuters.com
+techdeals.work.flportaldev-ams.int.thomsonreuters.com
 ci-fw-euw1b-1-sec.thomsonreuters.com
 pr-reports-ci.int.thomsonreuters.com
 preprod-techtoc.5759.aws.thomsonreuters.com
@@ -15297,7 +15237,6 @@ vertexws.thomsonreuters.com
 0077976-task-dev.2428.aws-int.thomsonreuters.com
 external-main-stable-use1.akkadia.5759.aws-int.thomsonreuters.com
 seclelegacyingest.thomsonreuters.com
-int.anzlaw.thomsonreuters.com
 pmiapi-dev.int.thomsonreuters.com
 a205880-aaasearch-prod-ap-southeast-1-a.desktop.aws-int.thomsonreuters.com
 cobaltservicesbulk-use1-ci.dataroom-preprod.aws-int.thomsonreuters.com
@@ -15627,12 +15566,10 @@ int.prod01.fintech.thomsonreuters.com
 support-dev.edp-analytics-preprod.aws-int.thomsonreuters.com
 taxone-integrator.uat.taxone.thomsonreuters.com
 voltage-pp-0000.thomsonreuters.com
-www.fiscosoft-tools.thomsonreuters.com
 a204896-dep-ca-sat.1642.aws-int.thomsonreuters.com
 a206606-typescript-reference-api.9744.aws.thomsonreuters.com
 flcas-qa.api.thomsonreuters.com
 ws-hmds-lo5p.cp.thomsonreuters.com
-www.foreclosure.flportalqa-ams.int.thomsonreuters.com
 a205923-akk-chs.thomsonreuters.com
 hyd-ccm-tft-1a.ten.thomsonreuters.com
 nr-dist-s3.qa.0712.aws-int.thomsonreuters.com
@@ -15674,7 +15611,6 @@ dev.api.beacon.int.thomsonreuters.com
 services-convene.thomsonreuters.com
 cari-apis-qa.plexus-cari-ppuse1.97328.aws-int.thomsonreuters.com
 ci.self-registation.confirmation.8677.aws-int.thomsonreuters.com
-samsnow.thomsonreuters.com
 alpa-staging.ctrack.thomsonreuters.com
 clearsearchproxy-int-clear-qed-thomsonreuters-com-geo.40958.aws-int.thomsonreuters.com
 ftp0.disclosure.thomsonreuters.com
@@ -15816,7 +15752,6 @@ pub-assembly-dev-61.9185.aws-int.thomsonreuters.com
 blue-docs-hook.tr-tax-nonprod.aws-int.thomsonreuters.com
 lab-us-oitgss-sc-akk-dms.thomsonreuters.com
 prod-crossconnect-service.private.fp.tr-fr-prod.aws-int.thomsonreuters.com
-int.practicallawconnect.ci.thomsonreuters.com
 plexus-cari-ppuse2.97328.aws.thomsonreuters.com
 a204837-lm-esd-curation-qa-euw2.aws-3-qa-staging-worldcheckcuration.aws-int.thomsonreuters.com
 qa.lukibusinesssystemssuiteserveragent.int.thomsonreuters.com
@@ -15942,7 +15877,6 @@ osa-coreapp9-prod-use1-aws.tax.prod.thomsonreuters.com
 pub-assembly-dev-3.9185.aws-int.thomsonreuters.com
 ip.deadlineassistant.ci.thomsonreuters.com
 easel-qc-use1.4152.aws-int.thomsonreuters.com
-poc-devex-remote-app-api.9744.aws.thomsonreuters.com
 wacopup-auto.ctrack.thomsonreuters.com
 app.ask.legalsolutions.thomsonreuters.com
 preprod.pgadmin.tfms.int.thomsonreuters.com
@@ -15962,7 +15896,6 @@ lact-auto.ctrack.thomsonreuters.com
 mms-rms-dev-4.3378.aws-int.thomsonreuters.com
 orpup-backend-dev.ctrack.thomsonreuters.com
 pod.thomsonreuters.com
-www.ria.thomsonreuters.com
 canadaampic-ocdc-stage-use1.0413.aws-int.thomsonreuters.com
 fof-ppe.pal-qa.aws-int.thomsonreuters.com
 idt-user-synch.dev.iad-hnja.oci-int.thomsonreuters.com
@@ -16070,7 +16003,7 @@ dev-pmi.int.thomsonreuters.com
 nflinux.netfirm.c761.use2.azure-int.thomsonreuters.com
 ecoptor-b.thomsonreuters.com
 idt-cmc-usa1.prod.hnja-oci.thomsonreuters.com
-www.apac.ppe.newsplanner.thomsonreuters.com
+apac.ppe.newsplanner.thomsonreuters.com
 a201820-dr-dataroom-prod-use1.dataroom-prod.aws-int.thomsonreuters.com
 centraltechtools-use1-qed.dataroom-prod.aws-int.thomsonreuters.com
 dev-aws-aub.int.thomsonreuters.com
@@ -16086,7 +16019,6 @@ elasticsearch-weighted.global.dev.0712.aws-int.thomsonreuters.com
 ppe-use1-restrictions.analytics.newsapi-preprod.aws-int.thomsonreuters.com
 stg-afi-services.iwealth.thomsonreuters.com
 truslzstgcnv2.legaltrackerservices.thomsonreuters.com
-profdev.flportalstage-ams.int.thomsonreuters.com
 qa-dr.akkadia-private.8067.aws-int.thomsonreuters.com
 a205923-akk-chs-dev-internal-use1.6042.aws.thomsonreuters.com
 dpm-hurricanes.ctrack.thomsonreuters.com
@@ -16123,7 +16055,6 @@ origin-ext-extirules-plrss-sni.qed.thomsonreuters.com
 delcocms-proddr.ctrack.thomsonreuters.com
 documentsecfiling-c.76978.aws-int.thomsonreuters.com
 manage.sso-auth-prod-usw2.int.thomsonreuters.com
-profdev.flportaldev.int.thomsonreuters.com
 searchapi-fldir-main-qa-use1.1129.aws-int.thomsonreuters.com
 a205880-wsof-cache-rw-dev-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 canadaampic-findlaw.int.thomsonreuters.com
@@ -16204,7 +16135,6 @@ callleadhandler-lipdc-qa-use1.1129.aws-int.thomsonreuters.com
 delpa-api-staging.ctrack.thomsonreuters.com
 sub-cflbtest.thomsonreuters.com
 dev-fleet-scheduler-service.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.ccat.thomsonreuters.com
 oit-report-api-lab-use1-aws.tax.nonprod.int.thomsonreuters.com
 truslzstgcnv8.legaltrackerservices.int.thomsonreuters.com
 cb-prod-use2.4152.aws-int.thomsonreuters.com
@@ -16214,7 +16144,7 @@ a206449-ngra-async-api-use1-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
 c638tzycmisdp.ten.thomsonreuters.com
 c708vdk.ead.thomsonreuters.com
 api-use1-imp.gtmapi.7166.aws-int.thomsonreuters.com
-www.supreme.flportalqa.int.thomsonreuters.com
+supreme.flportalqa.int.thomsonreuters.com
 pointconnect.commodities.thomsonreuters.com
 smartsales.thomsonreuters.com
 a206166-filings-es.qa.edp-core-preprod.aws-int.thomsonreuters.com
@@ -16232,7 +16162,6 @@ core-oct-cuat.1642.aws.thomsonreuters.com
 demo.legaltrackerservices.thomsonreuters.com
 pg.qa.dfe.thomsonreuters.com
 region-use1.gov.us.practicallaw.thomsonreuters.com
-int.us.checkpoint.ci.thomsonreuters.com
 a250377-wp13-qa.edp-content-preprod.aws-int.thomsonreuters.com
 indexbuilder-int.vars.int.thomsonreuters.com
 delivertonovus-qa.gcs.int.thomsonreuters.com
@@ -16359,7 +16288,7 @@ ip.anzlaw.demo.thomsonreuters.com
 idl-1-dev02-ire.a-worldcheck-preprod.aws-int.thomsonreuters.com
 itnuw.prod1.int.thomsonreuters.com
 a.au.practicallaw.thomsonreuters.com
-www.matterx.thomsonreuters.com
+matterx.thomsonreuters.com
 amers.ci.questionnaire.polling.thomsonreuters.com
 cflbtest.thomsonreuters.com
 opssolutioncenter.thomsonreuters.com
@@ -16444,7 +16373,6 @@ platform-console-ciam-cis.9744.aws.thomsonreuters.com
 prod.taxintelligence.thomsonreuters.com
 auth.plexus-preprod-hzheng.1554.aws-int.thomsonreuters.com
 dev-scormengine-us.opt.thomsonreuters.com
-foreclosure.flportalstage-ams.int.thomsonreuters.com
 a205880-wsof-cache-ro-dev-us-east-1-a.desktop-preprod.aws-int.thomsonreuters.com
 catalog-coverage-qa.gcs.int.thomsonreuters.com
 wacocms-reporting-auto.ctrack.thomsonreuters.com
@@ -16461,9 +16389,7 @@ etapstaging.int.thomsonreuters.com
 a208044-manta-dev-admin.3795.aws-int.thomsonreuters.com
 ai-rag-westlaw-nz-qa.plexus-ras1-ppuse1.5771.aws-int.thomsonreuters.com
 anz.remoteaccess.thomsonreuters.com
-www.ee.formio.3ecloudpoc.thomsonreuters.com
 vds-fid0.plexus-isrm-euw1.46551.aws-int.thomsonreuters.com
-www.a250227-rpar-cicd.qual-id-cicd.aws-int.thomsonreuters.com
 a200341-meter-client-use1.meter.prism-prod.aws-int.thomsonreuters.com
 a205094-platform-qa-as2-us-east-1.appserver.desktop-cicd.aws-int.thomsonreuters.com
 swagger-eu1-dev.worklife.desktop-preprod.aws-int.thomsonreuters.com
@@ -16497,7 +16423,6 @@ test-uaa-us.opt.thomsonreuters.com
 dev-ksfulfillments.int.thomsonreuters.com
 otp-uas-dr.tr-tax-prod.aws-int.thomsonreuters.com
 s1-us.checkpoint.hotprod.thomsonreuters.com
-www.foreclosure.flportaldev-ams.int.thomsonreuters.com
 prod.vespa.0665.aws.thomsonreuters.com
 es-cluster-manager.eu-west-1.prod.7582.aws-int.thomsonreuters.com
 tracker.olympus.int.thomsonreuters.com
@@ -16619,7 +16544,6 @@ tickhistory.london.thomsonreuters.com
 qa01.smartfiscalcalendar.thomsonreuters.com
 recordauthority-0013660-dev.9983.aws-int.thomsonreuters.com
 site-use1c2.dataprivacyadvisor.demo.thomsonreuters.com
-www.cs.thomsonreuters.com
 cobaltservicesinternal.qed.int.thomsonreuters.com
 dpm-redmachine.ctrack.thomsonreuters.com
 dtxp-ast-dc-api.int.thomsonreuters.com
@@ -16627,7 +16551,7 @@ military.flportalqa-ams.int.thomsonreuters.com
 qa.billingwebportal.int.thomsonreuters.com
 s1-global.checkpoint.thomsonreuters.com
 serengeti.qastaging.int.thomsonreuters.com
-www.int.us.practicallaw.qed.thomsonreuters.com
+int.us.practicallaw.qed.thomsonreuters.com
 dit.das.dtaas.int.thomsonreuters.com
 dr.akkadia-public.9297.aws-int.thomsonreuters.com
 gst-util-api-sb.thomsonreuters.com
@@ -16655,7 +16579,6 @@ ga-qa.thomsonreuters.com
 hostinggui-client-use1.1667.aws-int.thomsonreuters.com
 idevaws.pdfservices.38104.aws-int.thomsonreuters.com
 prod-fleet-scheduler.fp.tr-fr-prod.aws-int.thomsonreuters.com
-amers6.newsplanner.thomsonreuters.com
 idu-dev-use1.4152.aws-int.thomsonreuters.com
 apac1.partner7.cp.thomsonreuters.com
 cp-prod-cp-user-profile-service.tr-tax-cp-prod.aws-int.thomsonreuters.com
@@ -16680,7 +16603,6 @@ autoqa-api-oms.thomsonreuters.com
 aws-rstaxservices-sat.api.thomsonreuters.com
 a205149-api-el-web-b-us-east-1-ppe-beta.desktop-preprod.aws-int.thomsonreuters.com
 preprod.au.thomsonreuters.com
-www.courttv.flportaldev.int.thomsonreuters.com
 ip.int.uk.draftingassistant.qed.thomsonreuters.com
 ds-test-edt.int.thomsonreuters.com
 wf-odm-int-dev05.edp-content-preprod.aws-int.thomsonreuters.com
@@ -16763,7 +16685,7 @@ onesource-idt-tcm-dev-int.iv.determination.thomsonreuters.com
 site-use1c1.uk.practicallaw.thomsonreuters.com
 realtimeproceeding.gcs.thomsonreuters.com
 sensu-api.pln.amers.monitor.compass.int.thomsonreuters.com
-www.profdev.flportalstage.int.thomsonreuters.com
+profdev.flportalstage.int.thomsonreuters.com
 ey-sftp.thomsonreuters.com
 lzustest02.legaltracker.int.thomsonreuters.com
 nr-dist-scout-pln.7582.aws-int.thomsonreuters.com
@@ -16789,7 +16711,6 @@ clickbudget-fldir-main-qa-use1.1129.aws-int.thomsonreuters.com
 fulfillmentservicesapigee-ssdc-prod-use1.60413.aws.thomsonreuters.com
 sso-test.thomsonreuters.com
 wf-odm-qa05.edp-content-preprod.aws-int.thomsonreuters.com
-www.entertainment.flportalstage.int.thomsonreuters.com
 a204891-kong-mngt-use1-ppe.edp-distribution-preprod.aws-int.thomsonreuters.com
 coreservices.api.thomsonreuters.com
 failover.amers.ci.web.polling.5230.aws.thomsonreuters.com
@@ -17007,7 +16928,6 @@ website.int.au.draftingassistant.hotprod.thomsonreuters.com
 c425rmz.int.thomsonreuters.com
 karmaqa.int.thomsonreuters.com
 mms-rms-dev.3378.aws-int.thomsonreuters.com
-int.businesslawcenter.demo.thomsonreuters.com
 courtexpress.thomsonreuters.com
 qa.glwb.int.thomsonreuters.com
 salesseed.legaltrackerservices.thomsonreuters.com
@@ -17022,7 +16942,6 @@ amers2.views4static2.cp.thomsonreuters.com
 emobile5-failover-eu-west-1.stage.desktop.aws-int.thomsonreuters.com
 webapi-psii-main-ci.tr-fr-nonprod.aws-int.thomsonreuters.com
 digita-com-jenkins.1431.aws-int.thomsonreuters.com
-www.training.thomsonreuters.com
 iameapi-stc-prod.thomsonreuters.com
 test4.int.thomsonreuters.com
 tsappsrhat65.int.thomsonreuters.com
@@ -17030,7 +16949,6 @@ newsplus-recommendation.ppe.7976.aws-int.thomsonreuters.com
 website-int-analytics-hp-westlaw-com.04032.aws-int.thomsonreuters.com
 wormhole-qa.int.thomsonreuters.com
 a201820-pt-platformtools-ci-use1.dataroom-preprod.aws-int.thomsonreuters.com
-amers.polling.thomsonreuters.com
 cms-reindex.qa.0712.aws-int.thomsonreuters.com
 cpanel.frontlinelearning.thomsonreuters.com
 pam.int.thomsonreuters.com
@@ -17043,7 +16961,7 @@ ai-accelerate-open-search-use1.78677.aws-int.thomsonreuters.com
 dspsupporttool-dev.aws-int.thomsonreuters.com
 smtp01co.amers.thomsonreuters.com
 webanalyticsservices-qa.int.thomsonreuters.com
-www.techdeals.work.flportaldev.int.thomsonreuters.com
+techdeals.work.flportaldev.int.thomsonreuters.com
 scout-hdc.research.thomsonreuters.com
 a205880-admpnl-api-uat-us-east-1-b.desktop-preprod.aws-int.thomsonreuters.com
 assembly-dev-26-asm.1349.aws-int.thomsonreuters.com
@@ -17223,7 +17141,7 @@ uat-lpkg.euw1.thomsonreuters.com
 emerald-ingest.dev.0712.aws.thomsonreuters.com
 misis.converis.thomsonreuters.com
 notification-ci.gcs.int.thomsonreuters.com
-www.entertainment.flportalqa.int.thomsonreuters.com
+entertainment.flportalqa.int.thomsonreuters.com
 alerteventlistener-int-legalservices-prod-westlaw-com.04032.aws-int.thomsonreuters.com
 assembly-dev-170-asm.1349.aws-int.thomsonreuters.com
 attorneys-li-r2d2-prod-use1.0413.aws.thomsonreuters.com
@@ -17263,7 +17181,6 @@ use1-uat.refapp.7166.aws-int.thomsonreuters.com
 a207838-sss-api-sandbox.8335.aws-int.thomsonreuters.com
 batchsupportbr2-int-clear-ci-thomsonreuters-com.36049.aws-int.thomsonreuters.com
 ct-cjm309-sbx.int.thomsonreuters.com
-www.dflp-qa.1129.aws-int.thomsonreuters.com
 karmadev-consul.tr-secops-nonprod.aws-int.thomsonreuters.com
 global.checkpoint.qed.thomsonreuters.com
 jcare-api-internal-weighted.global.dev.0712.aws.thomsonreuters.com
@@ -17552,7 +17469,6 @@ ha.thomsonreuters.com
 legalservices-qed-westlaw-geo.04032.aws-int.thomsonreuters.com
 eg.cvo.thomsonreuters.com
 uat-eapsgc-simulator.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.frontlinelearning.thomsonreuters.com
 lafi-filinginstructions-dr-usw2-aws.tax.prod.thomsonreuters.com
 tdfprd-tdp-d1.int.thomsonreuters.com
 api-dev-organizertoweb-use1-aws.tax.nonprod.int.thomsonreuters.com
@@ -17602,7 +17518,6 @@ distribution-g-dev.0888.aws-int.thomsonreuters.com
 legalservices-psecurity-use1-demo.dataroom-crypt-preprod.59768.aws-int.thomsonreuters.com
 azpreblueadmin.int.thomsonreuters.com
 ev1-cvcs-01.int.thomsonreuters.com
-int.uk.practicallaw.thomsonreuters.com
 nf.newsapi-preprod.aws-int.thomsonreuters.com
 sapts2.int.thomsonreuters.com
 solrmaster-qa.int.thomsonreuters.com
@@ -17764,7 +17679,7 @@ licence.lab.taxone.thomsonreuters.com
 osa-coreapp13-prod-use1-aws.tax.prod.thomsonreuters.com
 omcuas.qed.thomsonreuters.com
 ustest02.legaltrackerservices.int.thomsonreuters.com
-www.airtrack.preprod.int.thomsonreuters.com
+airtrack.preprod.int.thomsonreuters.com
 dev.tr-fr-nonprod.aws-int.thomsonreuters.com
 publisherservicesmn-ssdc-stage-use1.0413.aws-int.thomsonreuters.com
 smtp-lh3-4.thomsonreuters.com
@@ -17986,7 +17901,7 @@ ogt-legacy-webservices-v2-hlg-433.n202261pp.iad-3kaq.oci-int.thomsonreuters.com
 aem-author-sb.tr-corporate-nonprod.aws-int.thomsonreuters.com
 rundcmp-sbdc-stage-use1.0413.aws-int.thomsonreuters.com
 a250372-livews-dev.edp-content-preprod.aws-int.thomsonreuters.com
-www.healing.thomsonreuters.com
+healing.thomsonreuters.com
 api.alarms.monitor.azure.compass.int.thomsonreuters.com
 cvc-lon-testbed.int.thomsonreuters.com
 pmiapi-fdc-ci-use1.1129.aws-int.thomsonreuters.com
@@ -18013,10 +17928,8 @@ wf-baw-int-qa.edp-content-preprod.aws-int.thomsonreuters.com
 echo-server.max-cluster.1554.aws-int.thomsonreuters.com
 emea1.streaming-eue.cp.thomsonreuters.com
 ftp.prod.pricingpartners.thomsonreuters.com
-www.sse.thomsonreuters.com
 a205880-aaasearch-ppe-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 a205880-admpnl-api-ppe-eu-west-1.desktop-preprod.aws-int.thomsonreuters.com
-healing.thomsonreuters.com
 thomsonreuters-com-my.uat.openweb.thomsonreuters.com
 a204837-lm-esd-ppe-euw1.a-worldcheck-preprod.aws-int.thomsonreuters.com
 clearauth-int-clear-prod-thomsonreuters-com-use2.40958.aws-int.thomsonreuters.com
@@ -18064,7 +17977,7 @@ a205880-admpnl-db-rw-prod.desktop.aws-int.thomsonreuters.com
 ci.ga-apigw.8067.aws.thomsonreuters.com
 c726qch.int.thomsonreuters.com
 qa-training-optimus.accredlaunch.thomsonreuters.com
-www.revistadostribunais.com.br.qc.wlbr2.int.thomsonreuters.com
+revistadostribunais.com.br.qc.wlbr2.int.thomsonreuters.com
 a206449-ngra-ui-use1-dev.tr-tax-nonprod.aws-int.thomsonreuters.com
 ap1-wlp5pd-st-gate.worklife.desktop.aws-int.thomsonreuters.com
 mnctp-staging.ctrack.thomsonreuters.com
@@ -18390,7 +18303,7 @@ sap-int-us-api.3300.aws.thomsonreuters.com
 openreports-b.int.thomsonreuters.com
 sc-govt-hp-westlaw-com.04032.aws-int.thomsonreuters.com
 ws.dfe.thomsonreuters.com
-www.abogado-uat.int.thomsonreuters.com
+abogado-uat.int.thomsonreuters.com
 a201820-dr-qed-use2.dataroom-prod.aws-int.thomsonreuters.com
 linsi-test-coreservices.8335.aws.thomsonreuters.com
 ogt-legacy-webservices-dev-579.n202261pp.iad-3kaq.oci-int.thomsonreuters.com
@@ -18400,7 +18313,6 @@ trcra05t014.thomsonreuters.com
 3ecmt.uk.preview.3e.thomsonreuters.com
 a205094-internal-routing-prod-as2-ap-southeast-1.appserver.desktop.aws-int.thomsonreuters.com
 content-access-ci.plexus-ras1-ppuse1.5771.aws-int.thomsonreuters.com
-www.profdev.flportalqa-ams.int.thomsonreuters.com
 plexus-confirm-ppe.8067.aws-int.thomsonreuters.com
 sa-canada.draftingassistant.hotprod.thomsonreuters.com
 uds-int-v3-prod-taxnetpro-com-use2.04032.aws-int.thomsonreuters.com
@@ -18416,7 +18328,6 @@ symb-publish-qed-use1.fr.aws.thomsonreuters.com
 lat-apac-use1.int.thomsonreuters.com
 ras.int.thomsonreuters.com
 tr-sapbi4uat.int.thomsonreuters.com
-www.matter.thomsonreuters.com
 a205880-cache-ro-prod-us-east-1-a.desktop.aws-int.thomsonreuters.com
 erts-apse1-prod.tr-fr-prod.aws-int.thomsonreuters.com
 bot.newsplanner.thomsonreuters.com
@@ -18451,7 +18362,6 @@ gbl.thomsonreuters.com
 mytr-id-prod-ue1-identity-console-int.corp.aws.thomsonreuters.com
 draftingapps-demo.int.thomsonreuters.com
 trnerr-ci-689.plexus-ppe.1554.aws.thomsonreuters.com
-workbn7.thomsonreuters.com
 courtroom-mapleleafs-mssql.ctrack.thomsonreuters.com
 spear-dev-corpdigital.tr-tax-nonprod.aws-int.thomsonreuters.com
 assembly-dev-150-asm.1349.aws-int.thomsonreuters.com
@@ -18484,7 +18394,6 @@ plexus-w.7373.aws-int.thomsonreuters.com
 oit-workpapers-content-tool-pd-aws.tax.nonprod.int.thomsonreuters.com
 qa-fps-selenium-hub.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 recordauthority.gcs.int.thomsonreuters.com
-www.int.anzlaw.demo.thomsonreuters.com
 a205880-eol-cache-ro-ppe-ap-southeast-1-b.desktop-preprod.aws-int.thomsonreuters.com
 eds-aa-204891-main-prod.tr-fr-prod.aws-int.thomsonreuters.com
 otir-trusttax-rmq-prod-use1-aws.tax.prod.int.thomsonreuters.com
@@ -18670,7 +18579,6 @@ flportalstage.int.thomsonreuters.com
 dms-siris-sand.tr-tax-nonprod.aws-int.thomsonreuters.com
 ico.prod.auto.int.thomsonreuters.com
 ppe-euw1-healthcheck.nf.newsapi-preprod.aws-int.thomsonreuters.com
-www.int.us.practicallaw.demo.thomsonreuters.com
 druk-directtargetvips.int.thomsonreuters.com
 qed.af-apigw.9297.aws.thomsonreuters.com
 trackertripwire-int.thomsonreuters.com
@@ -18820,7 +18728,7 @@ origin-extirules-sni.qed.thomsonreuters.com
 nmc.0712.aws.thomsonreuters.com
 qa-fleet-scheduler.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 test-lsr-apac-euw1.thomsonreuters.com
-www.ci.truccr.thomsonreuters.com
+ci.truccr.thomsonreuters.com
 int.proview.ci.thomsonreuters.com
 a204340-oarb-uat-usa1.external.hnja-oci.thomsonreuters.com
 ci.authorization.confirmation.8677.aws-int.thomsonreuters.com
@@ -18833,7 +18741,6 @@ trs.support.3e.thomsonreuters.com
 3977.aws-int.thomsonreuters.com
 batchsupport-int-clear-prod-thomsonreuters-com-geo.40958.aws-int.thomsonreuters.com
 cm-hmds-dtcp.thomsonreuters.com
-roadmap.thomsonreuters.com
 rsbatch-oct-uat.3300.aws.thomsonreuters.com
 fids-fail-e2e.a-corporate-preprod.aws-int.thomsonreuters.com
 qa-aws-aub.int.thomsonreuters.com
@@ -18871,13 +18778,12 @@ cleanup-int-proview-hp-thomsonreuters-com.04032.aws-int.thomsonreuters.com
 nlytedev.int.thomsonreuters.com
 boomi-pp.thomsonreuters.com
 sapwrpci.int.thomsonreuters.com
-www.int.businesslawcenter.ci.thomsonreuters.com
 vicms-oneday.ctrack.thomsonreuters.com
 1129.aws.thomsonreuters.com
 api.apigarden-qa-tmp.int.thomsonreuters.com
 ntcp-erpcprp-sdk-sancert4-www.cp.thomsonreuters.com
 test-aa-fredhutch.converis.thomsonreuters.com
-www.demo.iwealth.thomsonreuters.com
+demo.iwealth.thomsonreuters.com
 a205880-cache-rw-dev-eu-west-1.desktop-preprod.aws-int.thomsonreuters.com
 authz-204890-ppe.tr-fr-nonprod.aws-int.thomsonreuters.com
 lev-emea-uat.thomsonreuters.com
@@ -19297,7 +19203,6 @@ batchaccesstoken-int-prs-ci-thomsonreuters-com.20271.aws-int.thomsonreuters.com
 assembly-dev-99-asm.1349.aws-int.thomsonreuters.com
 courttv.flportalstage-ams.int.thomsonreuters.com
 echo-server.preprod-numf-use1.1554.aws-int.thomsonreuters.com
-matterx.thomsonreuters.com
 mr-relationshipprofile-dev.3362.aws-int.thomsonreuters.com
 ip.int.uk.draftingassistant.demo.thomsonreuters.com
 document-int-v3-qed-taxnetpro-com.04032.aws-int.thomsonreuters.com
@@ -19499,7 +19404,6 @@ dtc-tele-vcs-e1.int.thomsonreuters.com
 lzplatformfull2.legaltrackerservices.int.thomsonreuters.com
 site-use1c2.nz.drafting.qed.thomsonreuters.com
 trams-lon.preprod.int.thomsonreuters.com
-www.eap.thomsonreuters.com
 dataalert.int.thomsonreuters.com
 dev-fpa-genesis-profile-conversion.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 tfx-islamicdeal-analytics-rest-emea-prod.int.thomsonreuters.com
@@ -19606,7 +19510,6 @@ citation.gcs.int.thomsonreuters.com
 ott-compute-api-prod-use1-aws.tax.prod.thomsonreuters.com
 intellectualpropertyresolver-qa.9625.aws-int.thomsonreuters.com
 rd-livy.int.thomsonreuters.com
-courttv.flportaldev-ams.int.thomsonreuters.com
 executionjournal-ci.gcs.int.thomsonreuters.com
 safe.ospes.int.thomsonreuters.com
 sc-forms-qed-westlaw-com.04032.aws-int.thomsonreuters.com
@@ -19692,13 +19595,13 @@ insignis-aranzadidigital-es-dev.api.thomsonreuters.com
 a205149-api-el-eu-west-1-dev-ct.desktop-preprod.aws-int.thomsonreuters.com
 databots.int.thomsonreuters.com
 saptgq.int.thomsonreuters.com
-www.eaiqa.thomsonreuters.com
+eaiqa.thomsonreuters.com
 lawschools-sl-r2d2-ci-use1.1129.aws.thomsonreuters.com
 tmsconsole-ci.6761.aws-int.thomsonreuters.com
 wtrpservice.thomsonreuters.com
 rabbitmq-fbt-qa1.7745.aws-int.thomsonreuters.com
 web.onesourcedr.thomsonreuters.com
-www.oteasoftware-dr-usw2-aws.tax.prod.thomsonreuters.com
+oteasoftware-dr-usw2-aws.tax.prod.thomsonreuters.com
 0106588-ps.8789.aws-int.thomsonreuters.com
 ai-concept-hub.plexus-ppe.1554.aws.thomsonreuters.com
 clears2sbr3-int-clear-ci-thomsonreuters-com.36049.aws-int.thomsonreuters.com
@@ -19724,7 +19627,7 @@ auth.dev01.fintech.thomsonreuters.com
 a205923-akk-dmo-uat-use1.6042.aws-int.thomsonreuters.com
 cpa-qed-feature-generation-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 nr-publishing-acquire.us.prod.7582.aws-int.thomsonreuters.com
-www.findlawimages.flportaldev.int.thomsonreuters.com
+findlawimages.flportaldev.int.thomsonreuters.com
 mailout2-trm.thomsonreuters.com
 ppe-use1.nepapi.tr-fr-nonprod.aws-int.thomsonreuters.com
 qc.checkpoint.thomsonreuters.com
@@ -19810,7 +19713,6 @@ pw-tsa-qa.pal-qa.aws-int.thomsonreuters.com
 qa.cheetahmanager.int.thomsonreuters.com
 si-gosystemtaxreturnapi.thomsonreuters.com
 aidatamonitoring.gcs.thomsonreuters.com
-oteasoftware-dr-usw2-aws.tax.prod.thomsonreuters.com
 pub-assembly-dev-92.9185.aws-int.thomsonreuters.com
 namedentityrecognition-api.2863.aws-int.thomsonreuters.com
 os1099.services.thomsonreuters.com
@@ -19850,7 +19752,6 @@ preferences-platformservices.int.thomsonreuters.com
 pubgui-prod-use1.1667.aws-int.thomsonreuters.com
 aws-int.thomsonreuters.com
 jenkins.tr-corporate-prod.aws-int.thomsonreuters.com
-ppe.newsplanner.thomsonreuters.com
 checkpoint.demo.thomsonreuters.com
 echo-server.plexus-isrm-ppuse1.15510.aws-int.thomsonreuters.com
 qa-dfcore2-services.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -20019,7 +19920,6 @@ us-nuclearbatch-sc-akk-dms.thomsonreuters.com
 otir-jenkins-aws.tax.nonprod.thomsonreuters.com
 tcd.researchinview.thomsonreuters.com
 test01222019.int.thomsonreuters.com
-www.courttv.flportalstage-ams.int.thomsonreuters.com
 api-efiler-oitc-emea1.1642.aws.thomsonreuters.com
 cms-draco.ctrack.thomsonreuters.com
 qa-aig.thomsonreuters.com
@@ -20121,7 +20021,6 @@ prod-rvpn-service.private.fp.tr-fr-prod.aws-int.thomsonreuters.com
 rc.ott.int.thomsonreuters.com
 azpreoceanadmin.int.thomsonreuters.com
 echo-server.preprod-mikey.1554.aws-int.thomsonreuters.com
-int.us.checkpoint.thomsonreuters.com
 h3efrandzelrobinssample.us.preview.3e.thomsonreuters.com
 novus-rest-prod-use1.1667.aws-int.thomsonreuters.com
 qa.informaticaadhocload.judicial.int.thomsonreuters.com
@@ -20517,7 +20416,7 @@ aaa-provisioning-prod-apse1.aaa.aws-int.thomsonreuters.com
 cpltest-checkpoint-registration.thomsonreuters.com
 legalservices-batchpsecurity-use1-prod-crypt.85950.aws-int.thomsonreuters.com
 mgmtadldap-lhr3.int.thomsonreuters.com
-www.amers2.newsplanner.thomsonreuters.com
+amers2.newsplanner.thomsonreuters.com
 dev-eapservice-cloud.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 ev2-cvcs-02.int.thomsonreuters.com
 itracker-beta.thomsonreuters.com
@@ -20539,7 +20438,6 @@ qa-glm-mainweb-upload.int.thomsonreuters.com
 a205880-api-prod-ap-southeast-1-a.desktop.aws-int.thomsonreuters.com
 alpup-backend-auto.ctrack.thomsonreuters.com
 ec-hmds-hdcp.thomsonreuters.com
-www.int.practicalcompliance.qed.thomsonreuters.com
 c263fumegd4.ten.thomsonreuters.com
 help.checkpointlearning.thomsonreuters.com
 lzukqaaut3.legaltrackerservices.int.thomsonreuters.com
@@ -20734,7 +20632,7 @@ cp-qed-user-profile-rds.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 entitlements-int-legalservices-olc-qed-westlaw-com-use2.04032.aws-int.thomsonreuters.com
 staging.blog.legalsolutions.thomsonreuters.com
 usit-systemdata-dev.api.int.thomsonreuters.com
-www.expresswillsonline.thomsonreuters.com
+expresswillsonline.thomsonreuters.com
 a204837-lm-esd-curation-ppe-euw1.worldcheckcuration-beta.aws-int.thomsonreuters.com
 apim.dr.3e.thomsonreuters.com
 ci-lsr-amers-euw1.int.thomsonreuters.com
@@ -20810,14 +20708,13 @@ rsb-insourceexpress-pd-use1-aws.tax.nonprod.thomsonreuters.com
 t1dw.lab.taxone.thomsonreuters.com
 training-noti2.lynx.thomsonreuters.com
 api.isnm-qa.tr-secops-nonprod.aws-int.thomsonreuters.com
-int.practicallawconnect.thomsonreuters.com
 ott-taw-cw-dev2-use1-aws.tax.nonprod.thomsonreuters.com
 itracker-amers2.thomsonreuters.com
 api-li-r2d2-qa-use1.1129.aws.thomsonreuters.com
 assembly-dev-166-asm.1349.aws-int.thomsonreuters.com
 ws.dev-stable.1p.thomsonreuters.com
 15685.aws-int.thomsonreuters.com
-www.int.au.practicallaw.thomsonreuters.com
+int.au.practicallaw.thomsonreuters.com
 cp-test-cp-newsletter-subscription-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 fsdemo.legaltrackerservices.int.thomsonreuters.com
 management.research.thomsonreuters.com
@@ -20959,7 +20856,6 @@ testuserey65.int.thomsonreuters.com
 assembly-dev-143-asm.1349.aws-int.thomsonreuters.com
 secure.ap.thomsonreuters.com
 a205094-ppe-as2.appserver.desktop-preprod.aws-int.thomsonreuters.com
-amers.ppe.newsplanner.thomsonreuters.com
 assembly-dev-132-asm.1349.aws-int.thomsonreuters.com
 redis.stc.apac.monitor.compass.int.thomsonreuters.com
 sa-practicalcompliance.ci.thomsonreuters.com
@@ -21048,7 +20944,7 @@ dev-comms-api.loop.thomsonreuters.com.thomsonreuters.com
 media.thomsonreuters.com
 a206170-sweue-dev.edp-content-preprod.aws-int.thomsonreuters.com
 fhcrc-aws.converis.thomsonreuters.com
-www.int.practicallawconnect.qed.thomsonreuters.com
+int.practicallawconnect.qed.thomsonreuters.com
 commentsawsdev.int.thomsonreuters.com
 h3evcptnp01.3ecloud.thomsonreuters.com
 world-check.thomsonreuters.com
@@ -21097,7 +20993,6 @@ onehost.thomsonreuters.com
 site-use1c1.uk.draftingassistant.ci.thomsonreuters.com
 opwebsite.int.anzlaw.thomsonreuters.com
 search-regint.qed.thomsonreuters.com
-int.us.practicallaw.qed.thomsonreuters.com
 ci.newsplanner.thomsonreuters.com
 mikeson.test.int.thomsonreuters.com
 igrid.ten.thomsonreuters.com
@@ -21331,7 +21226,7 @@ usbrest.legaltrackerservices.int.thomsonreuters.com
 automations.api.sphinx-test.thomsonreuters.com
 c142qnz.ecom.bigdata.int.thomsonreuters.com
 region-use1.global.checkpoint.ci.thomsonreuters.com
-www.emea2.polling.thomsonreuters.com
+emea2.polling.thomsonreuters.com
 cprodj2012.ldap.4217.aws-int.thomsonreuters.com
 dev-self-service.datadog.50922.aws-int.thomsonreuters.com
 hdcp-aaahbsv-www.cp.thomsonreuters.com
@@ -21340,7 +21235,7 @@ edgar.flportalstage.int.thomsonreuters.com
 gtm-ogt-dev.4251.aws-int.thomsonreuters.com
 uk1p-vucxn01a.ten.thomsonreuters.com
 workbook-oitc-emea1.1642.aws.thomsonreuters.com
-www.clw-prodadminaws.thomsonreuters.com
+clw-prodadminaws.thomsonreuters.com
 a250372-be-prod.edp-content-prod.aws-int.thomsonreuters.com
 dtcp-wsgapi-www.cp.thomsonreuters.com
 msp1-colo-grfa-01.int.thomsonreuters.com
@@ -21404,7 +21299,6 @@ coordinator-int.vars.int.thomsonreuters.com
 express-gestta-qa.52128.aws-int.thomsonreuters.com
 apac1.loanconnector.cp.thomsonreuters.com
 efmh5-oitc-apac2.1642.aws.thomsonreuters.com
-samsnowgy1.thomsonreuters.com
 gidf-demo.4152.aws-int.thomsonreuters.com
 prod-csi-software-download-token.fp.tr-fr-prod.aws-int.thomsonreuters.com
 6121668.ghlab.5759.aws.thomsonreuters.com
@@ -21419,7 +21313,6 @@ dataandanalytics-ci.2619.aws-int.thomsonreuters.com
 prod-fpo-service.private.fp.tr-fr-prod.aws-int.thomsonreuters.com
 sc-forms-hp-westlaw-com.04032.aws-int.thomsonreuters.com
 c509qrp.intqa.thomsonreuters.com
-clw-prodadminaws.thomsonreuters.com
 h3elitchfieldcavosample.3ecloud.thomsonreuters.com
 aws-pd-k1packageapi.tax.nonprod.thomsonreuters.com
 cpa-qed-public-search-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
@@ -21440,7 +21333,7 @@ assembly-dev-29-asm.1349.aws-int.thomsonreuters.com
 content.draftingassistant.stage.thomsonreuters.com
 dashboard.dev.di.thomsonreuters.com
 test-lat-amers-euw1.thomsonreuters.com
-www.polling.apac.thomsonreuters.com
+polling.apac.thomsonreuters.com
 eds-trf-204891-apse1-ppe.tr-fr-nonprod.aws-int.thomsonreuters.com
 jdkt-ab-dkt-dev.4119.aws-int.thomsonreuters.com
 otir-trusttax-odata-dev-use1-aws.tax.nonprod.thomsonreuters.com
@@ -21448,7 +21341,7 @@ cb-use1-dev.4152.aws-int.thomsonreuters.com
 dtcp.spdauto.thomsonreuters.com
 swagger-ap1-dev.worklife.desktop-preprod.aws-int.thomsonreuters.com
 workflow.8232.aws-int.thomsonreuters.com
-www.int.us.practicallaw.hotprod.thomsonreuters.com
+int.us.practicallaw.hotprod.thomsonreuters.com
 a205880-aaasearch-uat-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 a207947-domainutilites-client.1667.aws-int.thomsonreuters.com
 ai-ccu01-3.int.thomsonreuters.com
@@ -21525,7 +21418,6 @@ ct-089gmj-tam.int.thomsonreuters.com
 ukintegration.legaltracker.int.thomsonreuters.com
 ogt-odo-preprod.int.thomsonreuters.com
 use1-prd.fta.7166.aws-int.thomsonreuters.com
-int.practicallawcompliance.demo.thomsonreuters.com
 customerportal.thomsonreuters.com
 regintel-content.qed.thomsonreuters.com
 rule-brmsweb-dev-use1-aws.tax.nonprod.int.thomsonreuters.com
@@ -21558,7 +21450,6 @@ serengeti.muservices.int.thomsonreuters.com
 adn-management-api.9744.aws.thomsonreuters.com
 clearalertsproxy-int-clearapiint-ci-thomsonreuters-com.36049.aws-int.thomsonreuters.com
 h3eosborneclarkesample.uk.preview.3e.thomsonreuters.com
-int.global.practicallaw.demo.thomsonreuters.com
 a205880-eol-cache-ro-ppe-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 covqa.int.thomsonreuters.com
 signoncallbackstest.thomsonreuters.com
@@ -21612,7 +21503,7 @@ a205880-admpnl-cache-ro-dev-ap-southeast-1.desktop-preprod.aws-int.thomsonreuter
 legalblogs.flportalqa-ams.int.thomsonreuters.com
 solt-prod-dr.int.thomsonreuters.com
 sensu.prod.gcs.thomsonreuters.com
-www.contribute.thomsonreuters.com
+contribute.thomsonreuters.com
 eage-mgt-niddc01b.int.thomsonreuters.com
 ftp.prod-dtc.commodities.thomsonreuters.com
 metrics-graphite.monitor.compass.int.thomsonreuters.com
@@ -21709,8 +21600,6 @@ assembly-dev-21-asm.1349.aws-int.thomsonreuters.com
 notificationingress-prod-dr.gcs.int.thomsonreuters.com
 preprod.mts.aws.thomsonreuters.com
 trcmgweu.thomsonreuters.com
-workbn5.thomsonreuters.com
-www.int.global.checkpoint.thomsonreuters.com
 ip.proview.ci.thomsonreuters.com
 c609vky.int.thomsonreuters.com
 downloads.ci.polling.thomsonreuters.com
@@ -21818,7 +21707,6 @@ hdcp-erpcprp-sdk-eikonmsg-www.cp.thomsonreuters.com
 stcp-dvevs1-www.cp.thomsonreuters.com
 a205923-akk-chs-rc-dev-usw2.6042.aws-int.thomsonreuters.com
 pview-prod-wideip.thomsonreuters.com
-www.amers.ci.newsplanner.thomsonreuters.com
 a205094-internal-routing-prod-eu-west-1.appserver.desktop.aws-int.thomsonreuters.com
 sea.ha.thomsonreuters.com
 staging.artemis.a208358-plxai-preprod.gcp-int.thomsonreuters.com
@@ -21832,7 +21720,6 @@ a205880-eol-api-uat-eu-west-1-b.desktop-preprod.aws-int.thomsonreuters.com
 rsbatch-oitc-pub.tr-tax-nonprod.aws-int.thomsonreuters.com
 vs.tr-corporate-nonprod.aws-int.thomsonreuters.com
 prod-ott-transactions.int.thomsonreuters.com
-www.emea.ci.newsplanner.thomsonreuters.com
 iam-vds-host1.int.thomsonreuters.com
 newsletters.flportalqa.int.thomsonreuters.com
 nr-dist-sftp.us.qa.0712.aws-int.thomsonreuters.com
@@ -21856,7 +21743,7 @@ euw2-reg.platform.8443.aws-int.thomsonreuters.com
 a.au.practicallaw.demo.thomsonreuters.com
 a204548-wf2-prod-usw2.tr-tax-prod.aws-int.thomsonreuters.com
 a205094-internal-routing-ppe-us-east-1.appserver.desktop-preprod.aws-int.thomsonreuters.com
-www.amers2.polling.thomsonreuters.com
+amers2.polling.thomsonreuters.com
 cms-service-api.ie.ppe.7582.aws-int.thomsonreuters.com
 moef-auto.ctrack.thomsonreuters.com
 plexus-pp.1554.aws-int.thomsonreuters.com
@@ -21931,7 +21818,6 @@ idt-vat-sat-use1.3300.aws-int.thomsonreuters.com
 s1-global.practicallaw.hotprod.thomsonreuters.com
 searchresultmanager-grpc-dev.ras.int.thomsonreuters.com
 workspace.uk.3e.thomsonreuters.com
-www.jobs.flportalqa-ams.int.thomsonreuters.com
 a250143-resolver-ppe-apse1-lb.rr-dev.aws-int.thomsonreuters.com
 recordauthority-c204811-dev.9983.aws-int.thomsonreuters.com
 swagger-us1-wlp6pd.worklife.desktop.aws-int.thomsonreuters.com
@@ -22028,7 +21914,6 @@ a207947-ldap-dev-use2-c.4152.aws-int.thomsonreuters.com
 eus-prod.azureml.legaltrackerservices.int.thomsonreuters.com
 idt-cre-ce-usa1.uat-int.hnja-oci.thomsonreuters.com
 site-use2c2.nz.draftingassistant.thomsonreuters.com
-www.proview.hotprod.thomsonreuters.com
 decms-migrate.ctrack.thomsonreuters.com
 identifiermapping-int.gcs.int.thomsonreuters.com
 pr-search-ci.int.thomsonreuters.com
@@ -22131,7 +22016,6 @@ ecp-cdn-205060.tr-fr-prod.aws-int.thomsonreuters.com
 idt-cmc-usa1.qa.hnja-oci.thomsonreuters.com
 qa.m365.cocounsel.thomsonreuters.com
 lps-emea.thomsonreuters.com
-www.findlawimages.com.flportalqa-ams.int.thomsonreuters.com
 cpreg.ci.thomsonreuters.com
 cp-test-cp-spellcheck-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 historyeventlistener-use1-ci.dataroom-preprod.aws-int.thomsonreuters.com
@@ -22266,7 +22150,6 @@ c143qmvdr.int.thomsonreuters.com
 ci.api.awssm.int.thomsonreuters.com
 ny6p-td3rund01.trading-int.thomsonreuters.com
 origin-cppe-maf.thomsonreuters.com
-www.findlawimages.com.flportalqa.int.thomsonreuters.com
 coreservicesapigee-ssdc-prod-use1.0413.aws.thomsonreuters.com
 cvc-lon-qa1.int.thomsonreuters.com
 orcms-amq-oneday.ctrack.thomsonreuters.com
@@ -22287,7 +22170,6 @@ azeaduse2dc02.ead.thomsonreuters.com
 credentials-int.gcs.int.thomsonreuters.com
 ctm-sftp-preprod.02219.aws-int.thomsonreuters.com
 fulfillmentinstructions-stage.int.thomsonreuters.com
-int.us.practicallaw.thomsonreuters.com
 nuevocerdo-b.int.thomsonreuters.com
 a205718-esorganization-troa-main-prod-us-east-1.9495.aws-int.thomsonreuters.com
 a206449-ngra-ui-use1-sand.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -22506,7 +22388,6 @@ orderupload.thomsonreuters.com
 a204044-otp-dr-usw2.tax.aws.thomsonreuters.com
 a206166-filings-manual-qa.edp-core-preprod.aws-int.thomsonreuters.com
 corporate.flportalstage.int.thomsonreuters.com
-www.lawschool.thomsonreuters.com
 a205094-platform-qa-us-east-1.appserver.desktop-cicd.aws-int.thomsonreuters.com
 sfcocms-staging-criminal.ctrack.thomsonreuters.com
 veracode-lrtc.converis.thomsonreuters.com
@@ -22650,7 +22531,7 @@ dev.iad-hnja.oci-int.thomsonreuters.com
 pdfnep.hdcp.thomsonreuters.com
 rt1-bi.int.thomsonreuters.com
 saptidpas.int.thomsonreuters.com
-www.trkd.ntc.thomsonreuters.com
+trkd.ntc.thomsonreuters.com
 apac1-failover.ecps.cp.thomsonreuters.com
 assets-search-ci.int.thomsonreuters.com
 chp02-hdc.thomsonreuters.com
@@ -22663,7 +22544,6 @@ ntcp-ecpecps-failover-emea-www.cp.thomsonreuters.com
 pw-userauth-qa.pal-qa.aws-int.thomsonreuters.com
 weather.elf.int.thomsonreuters.com
 dms-beletseri-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
-emea.ppe.newsplanner.thomsonreuters.com
 opensearch-cluster.sc.up.363c.use2.azure-int.thomsonreuters.com
 picservices-stage.api.thomsonreuters.com
 trackerlearning.thomsonreuters.com
@@ -22865,7 +22745,6 @@ gidf-demo-use2.4152.aws-int.thomsonreuters.com
 osu.researchinview.thomsonreuters.com
 workbook-oitc-uat.3300.aws.thomsonreuters.com
 qa-media-publishing-eu.opt.thomsonreuters.com
-www.apac.newsplanner.thomsonreuters.com
 github-risk.thomsonreuters.com
 hadoop-ethprodhzl.int.thomsonreuters.com
 operatordashboard.int.thomsonreuters.com
@@ -22893,11 +22772,9 @@ apiportal.alarms.monitor.aws.stage.compass.thomsonreuters.com
 dpm-staging.ctrack.thomsonreuters.com
 authoring-ci.gcs.thomsonreuters.com
 wokresources.qc.thomsonreuters.com
-www.int.uk.practicallaw.hotprod.thomsonreuters.com
 a204832-dms-akkadia.tr-tax-nonprod.aws-int.thomsonreuters.com
 dui.flportalstage-ams.int.thomsonreuters.com
 nzlaw.ci.thomsonreuters.com
-www.samsnowgy.thomsonreuters.com
 oit-efile-api-dr-usw2-aws.tax.prod.int.thomsonreuters.com
 taxonomy-old.gcs.int.thomsonreuters.com
 trdelzstgcnv2.legaltrackerservices.int.thomsonreuters.com
@@ -22905,7 +22782,6 @@ assembly-dev-35-asm.1349.aws-int.thomsonreuters.com
 qa-kubevis.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 lambda-ap1-stage.worklife.desktop.aws-int.thomsonreuters.com
 m.arnecommunity.thomsonreuters.com
-www.trcc-ege-egainweb.thomsonreuters.com
 s1-dataprivacyadvisor.thomsonreuters.com
 flentitlementservices-dev.int.thomsonreuters.com
 listmatching.qa-euw1.jenga.aws-3-qa-staging-worldcheckcuration.aws-int.thomsonreuters.com
@@ -22947,7 +22823,6 @@ c289vne.intprod.thomsonreuters.com
 opwebuat-arecommerce.thomsonreuters.com
 otir-trusttax-tinmatch-sat-use1-aws.tax.nonprod.int.thomsonreuters.com
 can-ctrackimpl-shared-amq-1-40-5.ctrack.thomsonreuters.com
-entertainment.flportalqa.int.thomsonreuters.com
 prolawcloud.thomsonreuters.com
 linsi-prod-blue-coreservices.8528.aws.thomsonreuters.com
 ppe-use1-healthcheck.nf.newsapi-preprod.aws-int.thomsonreuters.com
@@ -23000,7 +22875,6 @@ amers1.mtr.cp.thomsonreuters.com
 ddos.adn-nonnprod.9744.aws.thomsonreuters.com
 eagan-vdi.thomsonreuters.com
 legalservices-psecurity-use2-prod-crypt.85950.aws-int.thomsonreuters.com
-www.workato-token-api.9744.aws.thomsonreuters.com
 c219nsz.int.thomsonreuters.com
 selfapi-qatest.apt-core-preprod.aws-int.thomsonreuters.com
 euw2-prd.gtmcontent.7166.aws-int.thomsonreuters.com
@@ -23063,7 +22937,6 @@ site-use1c1.us.practicallaw.hotprod.thomsonreuters.com
 nmc-api.ppe.use.7582.aws-int.thomsonreuters.com
 ntcp-rcnas-gbl-www.cp.thomsonreuters.com
 pmd.int.prototype1.ci.thomsonreuters.com
-www.amers.test.newsplanner.thomsonreuters.com
 aa-56-eur.converis.thomsonreuters.com
 findlawtagservices-dev.api.thomsonreuters.com
 h3emosessingersample.us.preview.3e.thomsonreuters.com
@@ -23152,7 +23025,6 @@ a204548-camunda-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
 bue-itssql.int.thomsonreuters.com
 cms-leo.ctrack.thomsonreuters.com
 website-int-km-hp-westlaw-com.04032.aws-int.thomsonreuters.com
-flportaldev.int.thomsonreuters.com
 karma.int.thomsonreuters.com
 lzushammers2.legaltracker.int.thomsonreuters.com
 smtp03co.emea.thomsonreuters.com
@@ -23268,7 +23140,7 @@ dev-eaprovisionsite.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 profiles-sl-r2d2-ci-use1.1129.aws.thomsonreuters.com
 qa.botplatform-int.thomsonreuters.com
 sgp-cvcs-07.int.thomsonreuters.com
-www.revistadostribunais.com.br.dev.int.thomsonreuters.com
+revistadostribunais.com.br.dev.int.thomsonreuters.com
 a250377-nz-np.edp-content-preprod.aws-int.thomsonreuters.com
 cafe-rpt-gui-dev-emea1.int.thomsonreuters.com
 dev-accreditationlaunch-app.opt.thomsonreuters.com
@@ -23326,7 +23198,6 @@ c121zdx.ead.thomsonreuters.com
 c470fbatynqa2.intqa.thomsonreuters.com
 coreservices-dev.api.thomsonreuters.com
 wf-odm-rs-qa.edp-content-preprod.aws-int.thomsonreuters.com
-www.int.practicalcompliance.ci.thomsonreuters.com
 a206171-wf.edp-content-preprod.aws-int.thomsonreuters.com
 bdp-train.thomsonreuters.com
 pic-a.int.thomsonreuters.com
@@ -23586,7 +23457,7 @@ dev.securepayment.thomsonreuters.com
 qa.pmdm.thomsonreuters.com
 qed-use2.dataroom-prod.aws-int.thomsonreuters.com
 ushammers2.legaltrackerservices.int.thomsonreuters.com
-www.findlawimages.flportaldev-ams.int.thomsonreuters.com
+findlawimages.flportaldev-ams.int.thomsonreuters.com
 a205094-platform-dvn-us-east-1.appserver.desktop-cicd.aws-int.thomsonreuters.com
 ip.int.judicialpractice.ci.thomsonreuters.com
 mgmt.apigateway-qa.thomsonreuters.com
@@ -23648,12 +23519,10 @@ ip.int.donedeals.demo.thomsonreuters.com
 a207946-j2012-prod-use1-tester.ldap.83902.aws-int.thomsonreuters.com
 mytr.thomsonreuters.com
 uspentest2.legaltrackerservices.int.thomsonreuters.com
-www.emea.newsplanner.thomsonreuters.com
 a201820-dr-dr-demo-use1.dataroom-preprod.aws-int.thomsonreuters.com
 entitlementsadmin-int-legalservices-olc-prod-westlaw-com.04032.aws-int.thomsonreuters.com
 saphtw-ppd.int.thomsonreuters.com
 aaa-provisioning-ubs-apse1.aaa-preprod.aws-int.thomsonreuters.com
-judicialchambers.thomsonreuters.com
 roundhall.thomsonreuters.com
 news.lp.flportalqa.int.thomsonreuters.com
 ott-grafana-aws.tax.prod.int.thomsonreuters.com
@@ -23762,7 +23631,7 @@ a205880-aaasearch-prod-us-east-1-a.desktop.aws-int.thomsonreuters.com
 permid-ppe.thomsonreuters.com
 qa2.tfms.int.thomsonreuters.com
 ukdnt1.legaltracker.int.thomsonreuters.com
-www.eaidev.thomsonreuters.com
+eaidev.thomsonreuters.com
 ci.int.thomsonreuters.com
 pub-assembly-dev-37.9185.aws-int.thomsonreuters.com
 qa.old.newsplanner.int.thomsonreuters.com
@@ -23775,7 +23644,6 @@ ip.shared.qed.thomsonreuters.com
 smtp03c.apac.thomsonreuters.com
 test-aws-lawbench.int.thomsonreuters.com
 a204891-gw-stg-euw1-ppe.edp-distribution-preprod.aws-int.thomsonreuters.com
-supreme.flportalqa.int.thomsonreuters.com
 wnerelayf.rtv.thomsonreuters.com
 westlawnext-security-use2-prod-crypt.85950.aws-int.thomsonreuters.com
 eg-dqxapp-b01.intprod.thomsonreuters.com
@@ -23865,7 +23733,6 @@ bb-md-docket-ci.plexus-cari-ppuse1.97328.aws.thomsonreuters.com
 dataroom-platformencryption-use2-qed-crypt.85950.aws-int.thomsonreuters.com
 docket-revision-int.plexus-ras1-ppuse1.5771.aws-int.thomsonreuters.com
 symb-nept-inst.tr-fr-prod.aws-int.thomsonreuters.com
-www.practicetechnology.thomsonreuters.com
 a205880-cache-rw-dev-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 a206170-swt-qa.edp-content-preprod.aws-int.thomsonreuters.com
 activitytrackerservices-dev.api.thomsonreuters.com
@@ -23906,8 +23773,6 @@ cms-ducks-mssql.ctrack.thomsonreuters.com
 emea1-brokerstats.cp.thomsonreuters.com
 qa-use1-api.nepapi.newsapi-preprod.aws-int.thomsonreuters.com
 uat.ebillws.checkpoint.thomsonreuters.com
-www.cbuae-qa.thomsonreuters.com
-www.abacus.thomsonreuters.com
 aws-os-cognito-nuclear-prod.labs.thomsonreuters.com
 test-forecasting-metapraxis.int.thomsonreuters.com
 test-lsr-emea-euw1.int.thomsonreuters.com
@@ -24125,7 +23990,7 @@ listmatching.devx1.jenga.a-worldcheck-preprod.aws-int.thomsonreuters.com
 ppe-use1-api.nf.newsapi-preprod.aws-int.thomsonreuters.com
 publication-directory.prod.7582.aws-int.thomsonreuters.com
 voiceproxy.thomsonreuters.com
-www.emea5.newsplanner.thomsonreuters.com
+emea5.newsplanner.thomsonreuters.com
 alpha.pi-dev.tr-corporate-nonprod.aws-int.thomsonreuters.com
 cipher-test.thomsonreuters.com
 eap.stg.amers.sw.tr-corporate-nonprod.aws-int.thomsonreuters.com
@@ -24188,7 +24053,6 @@ jenga-main-dev-euw1.tr-fr-nonprod.aws-int.thomsonreuters.com
 mndesmstrprd01.tr-legal-prod.azure-int.thomsonreuters.com
 del-reporting-qa.ctrack.thomsonreuters.com
 netconnect-int-prs-demo-thomsonreuters-com.20271.aws-int.thomsonreuters.com
-www.en.adgm.thomsonreuters.com
 site-use1c1.au.draftingassistant.hotprod.thomsonreuters.com
 ucdponbrd-qa-emea01.thomsonreuters.com
 www-mock.ci.oap.int.thomsonreuters.com
@@ -24247,7 +24111,6 @@ a205149-api-el-eu-west-1-dev-sk.desktop-preprod.aws-int.thomsonreuters.com
 a205880-eol-api-qa-eu-west-1.desktop-preprod.aws-int.thomsonreuters.com
 emea1.eikon.cp.thomsonreuters.com
 top100innovators.thomsonreuters.com
-www.int.global.checkpoint.demo.thomsonreuters.com
 lps-emea-photographer.thomsonreuters.com
 salesnavigator.thomsonreuters.com
 datastore-dev.tr-corporate-nonprod.aws-int.thomsonreuters.com
@@ -24329,7 +24192,6 @@ checkmarx-dev.thomsonreuters.com
 test.esw.newsplanner.int.thomsonreuters.com
 brms-api-brmsweb-sat-use1-aws.tax.nonprod.int.thomsonreuters.com
 echo-server.ks-poc-v1.1554.aws-int.thomsonreuters.com
-int.practicepoint.thomsonreuters.com
 plexus-confirm-ppeuw1.8067.aws-int.thomsonreuters.com
 eag-mgt-fireeye-hxd1.int.thomsonreuters.com
 aws-marketplace-fulfillment.1642.aws.thomsonreuters.com
@@ -24352,7 +24214,6 @@ webui-psii-main-prod.tr-fr-prod.aws-int.thomsonreuters.com
 devcloud-eagan.int.thomsonreuters.com
 ukminers.legaltrackerservices.int.thomsonreuters.com
 activitytrackerservicesext-idc-prod-use1.0413.aws.thomsonreuters.com
-emea5.newsplanner.thomsonreuters.com
 self-service.sparkpost.0554.aws-int.thomsonreuters.com
 int.regintel-admin.qed.thomsonreuters.com
 amers2.autexnow.cp.thomsonreuters.com
@@ -24378,11 +24239,9 @@ cp-test-cp-news-processing-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 h3esrch-nprd-01.95a5.aue.azure-int.thomsonreuters.com
 opwebuat-fnrecommerce.thomsonreuters.com
 alertproductservice-int-legalservices-qed-westlaw-com-use1.04032.aws-int.thomsonreuters.com
-supreme.flportalstage.int.thomsonreuters.com
 qa.ondamedia.api.infinitylaw.thomsonreuters.com
 shared-dpm-1-40-1.ctrack.thomsonreuters.com
 ofx-ott.int.thomsonreuters.com
-profdev.flportalstage.int.thomsonreuters.com
 qa.edcocms.thomsonreuters.com
 c375yznegpd10.ten.thomsonreuters.com
 dev2-oxp-office.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -24396,7 +24255,7 @@ preview.qa.store.legal.thomsonreuters.com
 prototype1.ci.thomsonreuters.com
 api-euc1-imp.gtmapi.7166.aws.thomsonreuters.com
 cpa-test-cpa-search-rank-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
-www.concourse.hotprod.thomsonreuters.com
+concourse.hotprod.thomsonreuters.com
 em.prod.csd.legal.aws.thomsonreuters.com
 ssmart.int.thomsonreuters.com
 tfms.int.thomsonreuters.com
@@ -24453,7 +24312,6 @@ prod-core.int.thomsonreuters.com
 qa-us-cocounsel-sc-akk-dms.thomsonreuters.com
 supervip-csshared-eu1.int.qed.thomsonreuters.com
 use1-dev.gtmapi-apigw.8443.aws.thomsonreuters.com
-www.int.global.checkpoint.ci.thomsonreuters.com
 aspen-api-prod.aws-int.thomsonreuters.com
 aub-int-use1.5665.aws-int.thomsonreuters.com
 magellan3-ftp.thomsonreuters.com
@@ -24541,7 +24399,6 @@ llm-proxy-monitor-prod.plexus-ras-use1.3772.aws-int.thomsonreuters.com
 otp-uacs-dev2.tr-tax-nonprod.aws-int.thomsonreuters.com
 trails.mis-soa.thomsonreuters.com
 ui.thomsonreuters.com
-int.us.checkpoint.demo.thomsonreuters.com
 nepapi.newsapi-preprod.aws-int.thomsonreuters.com
 smtp05e.amers.thomsonreuters.com
 us.practicallaw.qed.thomsonreuters.com
@@ -24561,7 +24418,6 @@ shared-es8.ctrack.thomsonreuters.com
 typeahead-int-nextcorrectional-hp-westlaw-com.04032.aws-int.thomsonreuters.com
 preprod1.a205380-taas.a-edp-preprod.aws-int.thomsonreuters.com
 ukrpl.legaltracker.int.thomsonreuters.com
-www.tax.thomsonreuters.com
 cache.service.insider.thomsonreuters.com
 conference.chat.etv.thomsonreuters.com
 hvr-qa.datalake.int.thomsonreuters.com
@@ -24620,7 +24476,6 @@ trcra07t005.thomsonreuters.com
 att-arch-lab-tms.videolab.thomsonreuters.com
 cm-portal-ui-usa1.prod.hnja-oci.thomsonreuters.com
 prod-ott-schedulek1.int.thomsonreuters.com
-www.cbuae.thomsonreuters.com
 a204956-scs-prod-euw1-jenkins-cicd-test-server.jenkins.newsapi-cicd.aws-int.thomsonreuters.com
 document-int-forms-prod-westlaw-com.04032.aws-int.thomsonreuters.com
 preprod.rasplexus.multisancert.thomsonreuters.com
@@ -24636,7 +24491,6 @@ a205880-wsof-api-uat-us-east-1.desktop-preprod.aws-int.thomsonreuters.com
 aem-ppe-dispatcher4.thomsonreuters.com
 emea1.fxttest.cp.thomsonreuters.com
 es-publishing.0712.aws-int.thomsonreuters.com
-www.researchinview.thomsonreuters.com
 a205923-akk-chs-dev-internal-usw2.6042.aws.thomsonreuters.com
 int.proview.ci.api.thomsonreuters.com
 menu-gestta-ci.52128.aws-int.thomsonreuters.com
@@ -24687,7 +24541,7 @@ us1-wlp6pd.worklife.desktop.aws-int.thomsonreuters.com
 plexus-cari-ppuse2.97328.aws-int.thomsonreuters.com
 aaa-mars-bridge-dev.int.thomsonreuters.com
 linsi-preprod-test-results.8335.aws.thomsonreuters.com
-www.concourse.qed.thomsonreuters.com
+concourse.qed.thomsonreuters.com
 alcms-amq-config.ctrack.thomsonreuters.com
 kiali.sc.up.363c.use2.azure-int.thomsonreuters.com
 otir-trusttax-rmq-dr-use1-aws.tax.prod.int.thomsonreuters.com
@@ -24863,7 +24717,7 @@ ppe-use1-readershipapi.analytics.newsapi-preprod.aws-int.thomsonreuters.com
 api-assetskiosk.core.api.thomsonreuters.com
 api-euc1-hotfix.gtmapi.8443.aws-int.thomsonreuters.com
 ci.gdms.6761.aws-int.thomsonreuters.com
-www.courttv.flportalqa.int.thomsonreuters.com
+courttv.flportalqa.int.thomsonreuters.com
 assembly-dev-46-asm.1349.aws-int.thomsonreuters.com
 cp-qed-cp-folder-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 edcmailout-cps2.thomsonreuters.com
@@ -24877,7 +24731,7 @@ dr-usw2-df-services.tr-tax-prod.aws-int.thomsonreuters.com
 socialsecurity.flportaldev-ams.int.thomsonreuters.com
 betaapiinternal-int-clearapiint-prod-thomsonreuters-com-geo.40958.aws-int.thomsonreuters.com
 delcopa-migrate.ctrack.thomsonreuters.com
-www.businessintelligence.thomsonreuters.com
+businessintelligence.thomsonreuters.com
 apac1.trace.cp.thomsonreuters.com
 prod-use1.nf.newsapi.aws-int.thomsonreuters.com
 searchspellchecker-int-nextcorrectional-prod-westlaw-com.04032.aws-int.thomsonreuters.com
@@ -24933,7 +24787,6 @@ performancecemea-china-telecom-china-unicom.harmless-performance-probing.thomson
 conteudotaxone.thomsonreuters.com
 novus-ldap-dev.7053.aws-int.thomsonreuters.com
 qa.hotdocs.checkpoint.thomsonreuters.com
-www.opwebuat.thomsonreuters.com
 batchpralert-int-prs-ci-thomsonreuters-com.20271.aws-int.thomsonreuters.com
 ciam-aip-sandbox.plexus-ppe.1554.aws.thomsonreuters.com
 constitution.flportalstage-ams.int.thomsonreuters.com
@@ -24991,7 +24844,7 @@ a.newscontent.fr-nonprod.aws.thomsonreuters.com
 dms-beletseri-uat-euc1.tr-tax-prod.aws-int.thomsonreuters.com
 dr-euc1-dfcore2-services.tr-tax-nonprod.aws-int.thomsonreuters.com
 trinternal1preview.us.preview.3e.thomsonreuters.com
-www.emea.polling.thomsonreuters.com
+emea.polling.thomsonreuters.com
 viewrenditionconfig-ci.vars.int.thomsonreuters.com
 efmh5-oitc-cte.tr-tax-nonprod.aws-int.thomsonreuters.com
 idevaws.fileservices.38104.aws-int.thomsonreuters.com
@@ -25009,7 +24862,6 @@ api-oct-cte.tr-tax-nonprod.aws-int.thomsonreuters.com
 asbcacms-qa.ctrack.thomsonreuters.com
 delcocms-reporting-qa-129.ctrack.thomsonreuters.com
 mbpup-backend-auto.ctrack.thomsonreuters.com
-workbn6.thomsonreuters.com
 a205880-admintools0-cache-ro-dev-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 coreservices-ssdc-stage-use1.0413.aws-int.thomsonreuters.com
 isf-pubfilter-prod.1667.aws-int.thomsonreuters.com
@@ -25050,7 +24902,7 @@ dev-use1-healthchk.nepapi.tr-fr-nonprod.aws-int.thomsonreuters.com
 findlawtagservices-stage.api.thomsonreuters.com
 a206682-sec-svc-apac2.tr-tax-prod.aws-int.thomsonreuters.com
 frontend.lab01.fintech.thomsonreuters.com
-www.workbn4.thomsonreuters.com
+workbn4.thomsonreuters.com
 a205880-aaa-webapi-qa-us-east-1-b.desktop-preprod.aws-int.thomsonreuters.com
 mnoahpa-api-qa.ctrack.thomsonreuters.com
 s1-deadlineassistant.thomsonreuters.com
@@ -25067,7 +24919,6 @@ ci.akkadia-public.8677.aws-int.thomsonreuters.com
 collateral-librarydev.thomsonreuters.com
 int.proview.demo.api.thomsonreuters.com
 pub-assembly-dev-14.9185.aws-int.thomsonreuters.com
-www.lipperraft.thomsonreuters.com
 pic-findlaw.thomsonreuters.com
 training.digita.thomsonreuters.com
 clientinfodocservicesapigee-ssdc-ci-use1.1129.aws.thomsonreuters.com
@@ -25195,7 +25046,7 @@ pmiapi-fdc-prod-use1.0413.aws-int.thomsonreuters.com
 c386ziv.int.thomsonreuters.com
 conlaw.usatoday.flportalqa-ams.int.thomsonreuters.com
 eap.apac.thomsonreuters.com
-www.int.practicalcompliance.demo.thomsonreuters.com
+int.practicalcompliance.demo.thomsonreuters.com
 reputationadmin-qa.int.thomsonreuters.com
 smtp-msp-4.corp.thomsonreuters.com
 test.roster.thomsonreuters.com
@@ -25321,7 +25172,6 @@ company.flportalqa-ams.int.thomsonreuters.com
 csinternalbulk-use1-ci.dataroom-preprod.aws-int.thomsonreuters.com
 licence.sat.taxone.thomsonreuters.com
 mis-soa.thomsonreuters.com
-www.jobs.flportalstage.int.thomsonreuters.com
 amers2.bizcharts.cp.thomsonreuters.com
 bpsa-ui.qa.0712.aws.thomsonreuters.com
 ccisearch-qed-use1.1667.aws-int.thomsonreuters.com
@@ -25339,7 +25189,6 @@ qed.akkadia-public.8067.aws-int.thomsonreuters.com
 multisan.plexus-confirm-ppe.8067.aws-int.thomsonreuters.com
 ngwf-def-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
 pt1-us-internal-sc-akk-dms.thomsonreuters.com
-www.findlawimages.com.flportaldev-ams.int.thomsonreuters.com
 fulfillmentservicesapigee-ssdc-ci-use1.1129.aws.thomsonreuters.com
 h3elitchfieldcavohybrid.3ecloud.thomsonreuters.com
 jdkt-m-dkt-dev.4119.aws-int.thomsonreuters.com
@@ -25471,7 +25320,6 @@ uds-int-analytics-prod-westlaw-com-use1.04032.aws-int.thomsonreuters.com
 converttopdf-scale.gcs.int.thomsonreuters.com
 far02.vpn.thomsonreuters.com
 flemailer-ssdc-prod-use1.0413.aws-int.thomsonreuters.com
-www.engagementmanager.thomsonreuters.com
 ai-accelerate-open-search-int-use2.4649.aws-int.thomsonreuters.com
 novus-search-orchestrator-qa.plexus-ras1-ppuse1.5771.aws-int.thomsonreuters.com
 smtp01e.apac.thomsonreuters.com
@@ -25519,7 +25367,6 @@ assembly-dev-28-asm.1349.aws-int.thomsonreuters.com
 testcsr.nprd.3ecloud.thomsonreuters.com
 emea-dealingedge-dit-t-trading.int.thomsonreuters.com
 ssoadmin-dev.thomsonreuters.com
-www.int.anzlaw.ci.thomsonreuters.com
 ai-concept-hub-dev-camundazeebegateway.plexus-ppe.1554.aws.thomsonreuters.com
 euw2-qa.platform.8443.aws.thomsonreuters.com
 searchenhancements.int.thomsonreuters.com
@@ -25608,7 +25455,6 @@ csp-uat.int.thomsonreuters.com
 kmlservice.int.thomsonreuters.com
 mnef-staging.ctrack.thomsonreuters.com
 qa.api.confirmation.8067.aws-int.thomsonreuters.com
-www.data-transfer.thomsonreuters.com
 alpup-api-config.ctrack.thomsonreuters.com
 federation-alpha.collab.thomsonreuters.com
 dev-fleet-scheduler-service.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
@@ -25840,13 +25686,11 @@ pub-assembly-dev.9185.aws-int.thomsonreuters.com
 a205880-aaa-api-ppe-eu-west-1.desktop-preprod.aws-int.thomsonreuters.com
 ci.legalhome.is.thomsonreuters.com
 dev.cpe.checkpointlearning.thomsonreuters.com
-www.jobs.flportaldev.int.thomsonreuters.com
-www.samsnow-dev.thomsonreuters.com
 csshared-ext-trtacuas-limited.qed.thomsonreuters.com
 dev.pacapplications.int.thomsonreuters.com
 transition.dev01.fintech.thomsonreuters.com
 s1-anzlaw.demo.thomsonreuters.com
-www.int.practicalcompliance.thomsonreuters.com
+int.practicalcompliance.thomsonreuters.com
 amers1.stream.ia.thomsonreuters.com
 c800hubqed.int.thomsonreuters.com
 hkexen-prod.60413.aws.thomsonreuters.com
@@ -25914,7 +25758,6 @@ amers2.admin.cp.thomsonreuters.com
 api.us.live.3e.thomsonreuters.com
 atlassian.services.legalsolutions.thomsonreuters.com
 lhr3-colo-grfa-01.int.thomsonreuters.com
-int.au.practicallaw.thomsonreuters.com
 newsplus-novus-recommendation.ie.ppe.7582.aws-int.thomsonreuters.com
 cms.dev.aws.newsroom.int.thomsonreuters.com
 fulfillmentservicesapigee-ssdc-stage-use1.0413.aws.thomsonreuters.com
@@ -25948,7 +25791,7 @@ security-mas.int.thomsonreuters.com
 a205880-aaa-api-prod-ap-southeast-1-a.desktop.aws-int.thomsonreuters.com
 c238fmx.int.thomsonreuters.com
 es-publishing.ie.prod.7582.aws-int.thomsonreuters.com
-www.careertraining.thomsonreuters.com
+careertraining.thomsonreuters.com
 ci.eu.akkadia-public.8067.aws-int.thomsonreuters.com
 indiatitlesftp.thomsonreuters.com
 serengeti.ukintegrationservices.int.thomsonreuters.com
@@ -26234,7 +26077,6 @@ portal-connect.netfirm.int.thomsonreuters.com
 a205880-wsof-api-uat-us-east-1-a.desktop-preprod.aws-int.thomsonreuters.com
 aws-mgmt-fireeye-hxd2.int.thomsonreuters.com
 ciam-pingdataconsole-nonprod.plexus-ppe.1554.aws.thomsonreuters.com
-www.ediscoverypoint.thomsonreuters.com
 legalshared.security-use1-ci.dataroom-crypt-preprod.59768.aws-int.thomsonreuters.com
 uat-euc1-oxp-processor.tr-tax-prod.aws-int.thomsonreuters.com
 us-r-sc-akk-dms.6042.aws.thomsonreuters.com
@@ -26283,7 +26125,7 @@ api.prod.gdms.3698.aws-int.thomsonreuters.com
 attendance-staging-mssql.ctrack.thomsonreuters.com
 shared-dpm-1-42-3.ctrack.thomsonreuters.com
 tla-qa.thomsonreuters.com
-www.findlawimages.com.flportaldev.int.thomsonreuters.com
+findlawimages.com.flportaldev.int.thomsonreuters.com
 a206264-ghreleases.2212.aws.thomsonreuters.com
 bdptrain-mobile.thomsonreuters.com
 fxall-hmds-beta.thomsonreuters.com
@@ -26395,7 +26237,6 @@ eg-eltgsx-b08.intqa.thomsonreuters.com
 hdcp-tsadpo2-www.cp.thomsonreuters.com
 shell.ng.bento.ui.int.thomsonreuters.com
 aaa-sts-preprod-ap.tr-fr-nonprod.aws-int.thomsonreuters.com
-apac.ppe.newsplanner.thomsonreuters.com
 remoteaccess.thomsonreuters.com
 wnerelaydc.rtv.thomsonreuters.com
 prod-csi-change-display-portal-site.private.fp.tr-fr-prod.aws-int.thomsonreuters.com
@@ -26458,7 +26299,7 @@ get-port-loads-qa.a-pal-preprod.aws-int.thomsonreuters.com
 kyct-qa.ctrack.thomsonreuters.com
 ip.judicialpractice.ci.thomsonreuters.com
 linsi-prod-blue-use1-scheduler.8528.aws-int.thomsonreuters.com
-www.clk.iwealth.thomsonreuters.com
+clk.iwealth.thomsonreuters.com
 otp-integ-dr-euc1.tr-tax-prod.aws-int.thomsonreuters.com
 practice.flportaldev.int.thomsonreuters.com
 sda.vedaas.int.thomsonreuters.com
@@ -26472,7 +26313,7 @@ a204832-dms-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
 a205094-platform-dev-cb1-eu-west-1.appserver.desktop-cicd.aws-int.thomsonreuters.com
 oit-svc-dev-use1-aws.tax.nonprod.int.thomsonreuters.com
 ontcpup-prodprev.ctrack.thomsonreuters.com
-www.workbn1-dev.thomsonreuters.com
+workbn1-dev.thomsonreuters.com
 a.betabatch.thomsonreuters.com
 admin.product-insight.thomsonreuters.com
 mail03.taxintl.thomsonreuters.com
@@ -26488,7 +26329,6 @@ ott-transactions-odata-api-qa-use1-aws.tax.nonprod.thomsonreuters.com
 assembly-dev-11-asm.1349.aws-int.thomsonreuters.com
 efmh5-oct-dev.tr-tax-nonprod.aws-int.thomsonreuters.com
 eglab.tlr.thomsonreuters.com
-www.workbn3.thomsonreuters.com
 amers2.tm3.cp.thomsonreuters.com
 bluemoon-selhub-y.int.thomsonreuters.com
 website.int.au.draftingassistant.ci.thomsonreuters.com
@@ -26570,7 +26410,6 @@ newlawonline-dev.int.thomsonreuters.com
 os-api.1642.aws-int.thomsonreuters.com
 sand-oxp-content.tr-tax-nonprod.aws-int.thomsonreuters.com
 trams-sourcebase-global.int.thomsonreuters.com
-www.apac5.newsplanner.thomsonreuters.com
 cobaltservicesinternalbulk-us1.ci.int.thomsonreuters.com
 a205880-admpnl-cache-ro-dev-us-east-1-b.desktop-preprod.aws-int.thomsonreuters.com
 a250143-chain-prod-euw1-lb.rr.aws-int.thomsonreuters.com
@@ -26614,7 +26453,6 @@ a206408-api-ppe.edp-content-preprod.aws-int.thomsonreuters.com
 a206408-bw-i.edp-content.aws-int.thomsonreuters.com
 c826bwfeedw01.int.thomsonreuters.com
 webservices-demo.engagementmanager.thomsonreuters.com
-www.rulebook.thomsonreuters.com
 mdmadmin.thomsonreuters.com
 uksouth-rcj-nonprod-staging-es-app-vm-4.int.thomsonreuters.com
 vds.plexus-isrm-euw1.46551.aws-int.thomsonreuters.com
@@ -26669,7 +26507,6 @@ listmatching-curation.ppe-euw1.jenga.aws-3-dev-test-worldcheckcuration.aws-int.t
 plexus-ppw.1554.aws.thomsonreuters.com
 api.di.int.thomsonreuters.com
 lafi-websvc-asg-use1.7745.aws-int.thomsonreuters.com
-int.practicallawconnect.demo.thomsonreuters.com
 qa.datafusion.thomsonreuters.com
 trsruntimeappnp.int.thomsonreuters.com
 legal.aws.thomsonreuters.com
@@ -26799,7 +26636,6 @@ api-training-optimus.int.thomsonreuters.com
 app-store-mfe-dev.1554.aws.thomsonreuters.com
 ftp.ukicases.thomsonreuters.com
 h3estuartlawlive.us.3e.thomsonreuters.com
-www.int.dataprivacyadvisor.thomsonreuters.com
 awsdr-gosystemtbb.thomsonreuters.com
 class-test-mock-api.gcs.int.thomsonreuters.com
 efmh5-oitc-dev.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -26811,7 +26647,6 @@ metrics-eikon-mon.int.thomsonreuters.com
 test-wlec-us-int.opt.thomsonreuters.com
 nuevocerdo-ams-b.int.thomsonreuters.com
 ip.trtagis.demo.thomsonreuters.com
-int.us.practicallaw.hotprod.thomsonreuters.com
 notifc-pre-prod.aws.int.thomsonreuters.com
 gidf-qed-use1.4152.aws-int.thomsonreuters.com
 secrets-rotation-apigee.adn.thomsonreuters.com
@@ -26853,7 +26688,6 @@ ccigateway-prod-use1.1667.aws-int.thomsonreuters.com
 cp-dev-proxy-manager.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 aiopenarena-ci.gcs.int.thomsonreuters.com
 automai-director-2.0667.aws-int.thomsonreuters.com
-int.practicallawconnect.qed.thomsonreuters.com
 a205880-db-rw-ppe.desktop-preprod.aws-int.thomsonreuters.com
 act-site-euw2-prod.a-worldcheck-prod.aws-int.thomsonreuters.com
 documentsecfiling-m.gcs.int.thomsonreuters.com
@@ -26890,7 +26724,7 @@ a205923-akk-chs-j-qa-internal-usw2.6042.aws-int.thomsonreuters.com
 dev-oxp-clientdata.tr-tax-nonprod.aws-int.thomsonreuters.com
 eds-md-204891-main-ppe.tr-fr-nonprod.aws-int.thomsonreuters.com
 rsb-pass-thru-tester-pd-use1-aws.tax.nonprod.thomsonreuters.com
-www.profdev.flportaldev-ams.int.thomsonreuters.com
+profdev.flportaldev-ams.int.thomsonreuters.com
 soxcompliancedr.thomsonreuters.com
 boomiawsmonitoring-qa.thomsonreuters.com
 dtcp.nep.thomsonreuters.com
@@ -26905,7 +26739,7 @@ chat-mfe-prod.plexus-cari-use1.79110.aws-int.thomsonreuters.com
 ccms-dev.tr-corporate-nonprod.aws-int.thomsonreuters.com
 a204233-oavs-qa-usa1.internal.hnja-oci.thomsonreuters.com
 quac-int-use1.5665.aws-int.thomsonreuters.com
-www.int.au.practicallaw.hotprod.thomsonreuters.com
+int.au.practicallaw.hotprod.thomsonreuters.com
 scwtest.int.thomsonreuters.com
 activemq-support.ctrack.thomsonreuters.com
 adportal-mgmt-qa.int.thomsonreuters.com
@@ -26997,7 +26831,6 @@ camunda-dev-tasklist.plexus-ppe.1554.aws.thomsonreuters.com
 hvr-uat.datalake.int.thomsonreuters.com
 pano.ips.thomsonreuters.com
 a200206-idt-deta-client-tc-sat-oci-usa1-vnm.hostedtax.thomsonreuters.com
-courttv.flportalqa.int.thomsonreuters.com
 dev-origin-services.int.thomsonreuters.com
 api-lz-centralus.hardening.3ecloud.thomsonreuters.com
 web.provisionqa.thomsonreuters.com
@@ -27056,7 +26889,6 @@ belk.hostedtax.thomsonreuters.com
 echo-server.ks-aws-argocd.1554.aws-int.thomsonreuters.com
 c279473-relationshipprofile-dev.3362.aws-int.thomsonreuters.com
 sso-stage.thomsonreuters.com
-www.seller-marketplace.thomsonreuters.com
 flportalqa-sites.int.thomsonreuters.com
 articlemetadata.jenga-main-prod-euw1.tr-fr-prod.aws-int.thomsonreuters.com
 attorneymatch.flportalstage-ams.int.thomsonreuters.com
@@ -27084,11 +26916,9 @@ new.emea.newsplanner.thomsonreuters.com
 echo-server.preprod-izhah-useast1.1554.aws-int.thomsonreuters.com
 emea1.vav.cp.thomsonreuters.com
 hk1p-vcucmsa05.ten.thomsonreuters.com
-www.flportalstage.int.thomsonreuters.com
 a250372-bb-dev.edp-content-preprod.aws-int.thomsonreuters.com
 betaclears2s-int-clearbeta-prod-thomsonreuters-com-use1.40958.aws-int.thomsonreuters.com
 dev-ledojava.int.thomsonreuters.com
-clw-prodadminaws.int.thomsonreuters.com
 kubecost.plexus-demo.1554.aws-int.thomsonreuters.com
 appd-dep-sap.thomsonreuters.com
 client-sae-coreservice.api.thomsonreuters.com
@@ -27248,12 +27078,10 @@ test.newsplanner.thomsonreuters.com
 h3esrch-admin-svc-eus2-01.services.3e.thomsonreuters.com
 otir1-tinmatch.aws.tax.sat.thomsonreuters.com
 plexus-confirm-ppw.8067.aws.thomsonreuters.com
-workbn1-dev.thomsonreuters.com
 a205880-eol-api-qa-us-east-1.desktop-preprod.aws-int.thomsonreuters.com
 dev-app.fwc.8335.aws.thomsonreuters.com
 uaa-us.opt.thomsonreuters.com
 ehb-staging.ctrack.thomsonreuters.com
-www.socwiki.int.thomsonreuters.com
 preprod.amp.iwealth.thomsonreuters.com
 rudder-stage.int.thomsonreuters.com
 syd-cvcs-01.int.thomsonreuters.com
@@ -27381,8 +27209,6 @@ devicesearch.ha.thomsonreuters.com
 ip.acuity.ci.thomsonreuters.com
 concocms-reporting-auto.ctrack.thomsonreuters.com
 test031220191.thomsonreuters.com
-int.practicalcompliance.demo.thomsonreuters.com
-int.uk.practicallaw.ci.thomsonreuters.com
 new-localaw-dev.int.thomsonreuters.com
 origin-amers1.viewsstatic3.ia.thomsonreuters.com
 prod-fps-report-service.private.fp.tr-fr-prod.aws-int.thomsonreuters.com
@@ -27440,7 +27266,7 @@ smu.converis.thomsonreuters.com
 ci.akkadia-private.8677.aws-int.thomsonreuters.com
 demo1-amers.converis.thomsonreuters.com
 dtcd-dciptsa01.int.thomsonreuters.com
-www.int.au.practicallaw.demo.thomsonreuters.com
+int.au.practicallaw.demo.thomsonreuters.com
 linsi-prod-green-euw1-libraryservice.8528.aws.thomsonreuters.com
 ogt-legacy-webservices-v2-dev-571.n202261pp.iad-3kaq.oci-int.thomsonreuters.com
 qa.legalhome.staging.thomsonreuters.com
@@ -27460,7 +27286,7 @@ a205880-admpnl-cache-ro-uat-ap-southeast-1-a.desktop-preprod.aws-int.thomsonreut
 a206145-dep-ai-prod-euw2.tr-tax-prod.aws-int.thomsonreuters.com
 amers1.dev.codebook.desktop-preprod.aws-int.thomsonreuters.com
 lipperasiaweb.thomsonreuters.com
-www.caz.thomsonreuters.com
+caz.thomsonreuters.com
 ui.int.thomsonreuters.com
 datastore.tr-corporate-prod.aws-int.thomsonreuters.com
 uk1p-infsmtpg.thomsonreuters.com
@@ -27474,7 +27300,6 @@ amers.vpn.thomsonreuters.com
 baselinemonitor.int.thomsonreuters.com
 erts-apse1-ppe.tr-fr-nonprod.aws-int.thomsonreuters.com
 trend-dsm.secops-preprod.aws.thomsonreuters.com
-www.entertainment.flportaldev.int.thomsonreuters.com
 ip.int.regintel-community.demo.thomsonreuters.com
 aideployment.int.thomsonreuters.com
 dev-glm-servicesweb.int.thomsonreuters.com
@@ -27560,7 +27385,6 @@ demo-km-pm.931c.use2.azure-int.thomsonreuters.com
 dev-training-optimus.accredclient.thomsonreuters.com
 a206449-ngra-api-use1-prod.tr-tax-prod.aws-int.thomsonreuters.com
 lab-authzi.int.thomsonreuters.com
-optibotneo-dev.thomsonreuters.com
 tfx-fixedincome-admin-rest-dtc-prod.int.thomsonreuters.com
 alb-qa.1129.aws-int.thomsonreuters.com
 iameapi-dtc-prod.thomsonreuters.com
@@ -27579,7 +27403,6 @@ nr-publishing-acquire.ie.prod.7582.aws-int.thomsonreuters.com
 saptgqpas.int.thomsonreuters.com
 api-preprod-julius.thomsonreuters.com
 conferencing.thomsonreuters.com
-contribute.thomsonreuters.com
 docker-registry.risk.int.thomsonreuters.com
 ica-apse2-services-prod.tr-tax-prod.aws-int.thomsonreuters.com
 mail03.legaltracker-highq.thomsonreuters.com
@@ -27626,7 +27449,6 @@ ip.proview.qed.thomsonreuters.com
 osa-redirector-qa-use1-aws.tax.nonprod.int.thomsonreuters.com
 searchindexconfig-qa.vars.int.thomsonreuters.com
 hippo.flportalqa.int.thomsonreuters.com
-www.checkpointlearning.thomsonreuters.com
 assembly-dev-153-asm.1349.aws-int.thomsonreuters.com
 chat.risk.thomsonreuters.com
 eventfilterutility-a.ha.thomsonreuters.com
@@ -27748,7 +27570,6 @@ legalshared-security-use1-qed-crypt.85950.aws-int.thomsonreuters.com
 qa-msg-lynx.int.thomsonreuters.com
 bpsa-ui-latency.global.prod.7582.aws.thomsonreuters.com
 site-use1c1.uk.practicallaw.hotprod.thomsonreuters.com
-concourse.qed.thomsonreuters.com
 invoicing.tabcks.int.thomsonreuters.com
 pub-assembly-dev-53.9185.aws-int.thomsonreuters.com
 dora.5759.aws-int.thomsonreuters.com
@@ -27756,7 +27577,6 @@ api.dev2-organizertoweb.int.thomsonreuters.com
 bulk-205061.tr-fr-nonprod.aws-int.thomsonreuters.com
 reuters-search-proxy.7404.aws.thomsonreuters.com
 sftp-onesource.thomsonreuters.com
-www.int.us.practicallaw.ci.thomsonreuters.com
 dxtra-dit.markets.int.thomsonreuters.com
 eage-tele-vcs-e1.thomsonreuters.com
 jericho-demo.int.thomsonreuters.com
@@ -27854,7 +27674,6 @@ swagger-us1-dev.worklife.desktop-preprod.aws-int.thomsonreuters.com
 a204891-gw-stg-use1-qa.edp-distribution-preprod.aws-int.thomsonreuters.com
 ediscoverypoint.demo.thomsonreuters.com
 federated-search-api-latency.global.lab.0712.aws.thomsonreuters.com
-jobs.flportaldev-ams.int.thomsonreuters.com
 rptapp.polling.int.thomsonreuters.com
 hdcpsftp1.research.thomsonreuters.com
 site-use1c1.us.checkpoint.ci.thomsonreuters.com
@@ -27873,7 +27692,7 @@ realtimeprod.ibesdatafeeds.thomsonreuters.com
 a204937-qps-htc-dev.edp-analytics-preprod.aws-int.thomsonreuters.com
 adgmen-uat.thomsonreuters.com
 euc1-qa.refapp.8443.aws-int.thomsonreuters.com
-www.revistadostribunais.com.br.qc.wlbr3.int.thomsonreuters.com
+revistadostribunais.com.br.qc.wlbr3.int.thomsonreuters.com
 clearprismservice-int-clearapiint-qed-thomsonreuters-com-use1.40958.aws-int.thomsonreuters.com
 logportal.collab.dtc.int.thomsonreuters.com
 pub-assembly-dev-42.9185.aws-int.thomsonreuters.com
@@ -27985,7 +27804,6 @@ ngwf-preprod-scc-use1.tr-tax-nonprod.aws-int.thomsonreuters.com
 trackerlearningservices.thomsonreuters.com
 api02-lz-eastus2-load.3e.thomsonreuters.com
 origincld-staticuat-laley.thomsonreuters.com
-www.int.au.practicallaw.qed.thomsonreuters.com
 apac1.download.cp.thomsonreuters.com
 assembly-dev-164-asm.1349.aws-int.thomsonreuters.com
 dev-glm-originapi.int.thomsonreuters.com
@@ -28025,14 +27843,13 @@ core-oitc-apac1.1642.aws.thomsonreuters.com
 person-authority-ci.9724.aws.thomsonreuters.com
 ppe-use1-api.mediacheck.risk.tr-fr-nonprod.aws-int.thomsonreuters.com
 uat-csi-software-download-token.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
-www.e.flportaldev.int.thomsonreuters.com
+e.flportaldev.int.thomsonreuters.com
 innovation-thomsonreuters-com.uat.openweb.thomsonreuters.com
 a205880-wsof-cache-ro-ppe-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 attorneymatch.flportaldev.int.thomsonreuters.com
 c798fgw.intprod.thomsonreuters.com
 etapapistaging.int.thomsonreuters.com
 gst-systemdata-api-dc-use1-aws.tax.prod.int.thomsonreuters.com
-int.au.practicallaw.hotprod.thomsonreuters.com
 origin-s2s.beta.thomsonreuters.com
 serengeti.concourse.qed1services.int.thomsonreuters.com
 a200190-nm-oct-cte.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -28109,7 +27926,7 @@ h3emcdonaldhopkinssample.us.preview.3e.thomsonreuters.com
 ica-euw2-services-prod.tr-tax-prod.aws-int.thomsonreuters.com
 selfapi-qa.apt-core-preprod.aws-int.thomsonreuters.com
 wfa-q01.int.thomsonreuters.com
-www.revistadostribunais.com.wlbrclt.int.thomsonreuters.com
+revistadostribunais.com.wlbrclt.int.thomsonreuters.com
 a200172-int-cp-main-ci-use1.5463.aws-int.thomsonreuters.com
 a207947-ldap-dev-use2-a.4152.aws-int.thomsonreuters.com
 filetransformer-use1-demo.dataroom-preprod.aws-int.thomsonreuters.com
@@ -28132,7 +27949,6 @@ dpm-techwriter.ctrack.thomsonreuters.com
 amers2.pefundperformance.cp.thomsonreuters.com
 onesource-idt-cmp-dev-int.iv.determination.thomsonreuters.com
 onesourcebr.thomsonreuters.com
-int.au.practicallaw.demo.thomsonreuters.com
 a204891-aa-stg-euw1-ppe.edp-distribution-preprod.aws-int.thomsonreuters.com
 a205880-api-uat-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 taxnav.ssl.ftp.thomsonreuters.com
@@ -28169,7 +27985,6 @@ security-dsb.int.thomsonreuters.com
 api.trkd.thomsonreuters.com
 emea1.tm3.cp.thomsonreuters.com
 tranxp.hdc.sec.thomsonreuters.com
-concourse.hotprod.thomsonreuters.com
 otir-trusttax-tinmatch-qa-use1-aws.tax.nonprod.int.thomsonreuters.com
 ally-app.0491.aws-int.thomsonreuters.com
 assembly-dev-161-asm.1349.aws-int.thomsonreuters.com
@@ -28438,7 +28253,6 @@ dep-prod-apse2-services.tr-tax-prod.aws-int.thomsonreuters.com
 esi-devenv.thomsonreuters.com
 a205770-ccr-euw1-ppe.qps-dev.aws-int.thomsonreuters.com
 taxonomy-f-dev-tax.9816.aws-int.thomsonreuters.com
-int.us.checkpoint.hotprod.thomsonreuters.com
 novus-distr-api-weighted.global.ppe.7582.aws-int.thomsonreuters.com
 a206145-dep-ai-prod-apse2.tr-tax-prod.aws-int.thomsonreuters.com
 downloads.test.polling.thomsonreuters.com
@@ -28451,7 +28265,6 @@ us.practicallaw.demo.thomsonreuters.com
 dev-gcms-coreservice-br.api.thomsonreuters.com
 explorer-main-stable-use1.akkadia.tr-corporate-nonprod.aws-int.thomsonreuters.com
 training-wes-haut.gcp-int.thomsonreuters.com
-www.aspiretoleadmn.thomsonreuters.com
 akairules-plrss-sni.demo.thomsonreuters.com
 cp-perf-cp-intuitive-search.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 repository.deliveryautomationwindows.int.thomsonreuters.com
@@ -28542,7 +28355,6 @@ pw-tsa-dev.pal-dev.aws-int.thomsonreuters.com
 a205094-platform-prod-as3-ap-southeast-1.appserver.desktop.aws-int.thomsonreuters.com
 cn-demo.thomsonreuters.com
 fmc.qa.thomsonreuters.com
-www.courttv.flportalqa-ams.int.thomsonreuters.com
 a207804-cn-ci-eu-west-1.ci.eu.akkadia-public.8067.aws-int.thomsonreuters.com
 gst-util-api-pd-use1-aws.tax.nonprod.int.thomsonreuters.com
 testuserey404.int.thomsonreuters.com
@@ -28565,7 +28377,7 @@ a205880-wsof-cache-rw-qa-us-east-1.desktop-preprod.aws-int.thomsonreuters.com
 clearuibr2-int-clear-demo-thomsonreuters-com.36049.aws-int.thomsonreuters.com
 kafka-cpsprodhdc.int.thomsonreuters.com
 stg.admin.researchinview.thomsonreuters.com
-www.findlawimages.flportalstage-ams.int.thomsonreuters.com
+findlawimages.flportalstage-ams.int.thomsonreuters.com
 cp-test-cp-platform-config-service.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 webcontent-int-v3-hp-taxnetpro-com.04032.aws-int.thomsonreuters.com
 oit-legacy-support-sat-use1-aws.tax.non-prod.int.thomsonreuters.com
@@ -28583,7 +28395,6 @@ website-int-nextcanada-qed-westlaw-com.04032.aws-int.thomsonreuters.com
 api-qa-use1.os-api.3300.aws.thomsonreuters.com
 emea1.partner9.cp.thomsonreuters.com
 la-api-demo-ci.int.thomsonreuters.com
-www.emea1.newsplanner.thomsonreuters.com
 searchorchestrator-qa.ras.int.thomsonreuters.com
 qa-os.data-containers.dev-data-engine.gcp-int.thomsonreuters.com
 ubo-205598-qa-euw1.tr-fr-nonprod.aws-int.thomsonreuters.com
@@ -28682,7 +28493,6 @@ site-use1c1.dataprivacyadvisor.demo.thomsonreuters.com
 entitlement-v85-use1.2840.aws.thomsonreuters.com
 ftpadmin.uat.taxone.thomsonreuters.com
 indexing-ci.gcs.int.thomsonreuters.com
-www.trademarks.thomsonreuters.com
 4119.aws-int.thomsonreuters.com
 ica-services-sandbox.tr-tax-nonprod.aws-int.thomsonreuters.com
 mytr-id-prod-identity-console-int.thomsonreuters.com
@@ -28869,7 +28679,6 @@ aws-formrequestservice-sat.api.thomsonreuters.com
 cn-sdfc.thomsonreuters.com
 iameapi-plano-prod.thomsonreuters.com
 uat-us-dataroom-sc-akk-dms.thomsonreuters.com
-www.trcc-ege-eaginweb.thomsonreuters.com
 a206171-api.edp-content-preprod.aws-int.thomsonreuters.com
 api-ci.graphics-sphinx-nonprod.thomsonreuters.com
 api.us.load-03.3e.thomsonreuters.com
@@ -28954,7 +28763,6 @@ mytr-id-nonprod-ew1-identity-console-api-int.thomsonreuters.com
 vipup-api-qa.ctrack.thomsonreuters.com
 alcms-dpm-ocr-staging.ctrack.thomsonreuters.com
 cobaltserviceslookup.ci.int.thomsonreuters.com
-int.practicallawconnect.hotprod.thomsonreuters.com
 publicaccess-draco.ctrack.thomsonreuters.com
 qa-me-service.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 atd.asset4.thomsonreuters.com
@@ -28997,7 +28805,6 @@ dms-marduk-sat-use1.tr-tax-prod.aws-int.thomsonreuters.com
 vormetric.converis.thomsonreuters.com
 c654qsfinfuat.int.thomsonreuters.com
 content.dev.int.thomsonreuters.com
-www.foreclosure.flportalstage.int.thomsonreuters.com
 identifiermappingpoc-ci.gcs.int.thomsonreuters.com
 otir-trusttax-tinmatch-dr-use1-aws.tax.prod.int.thomsonreuters.com
 realtimeassembly-int.gcs.int.thomsonreuters.com
@@ -29037,7 +28844,7 @@ cobaltsvcs-virusscan.api.thomsonreuters.com
 dado.5759.aws-int.thomsonreuters.com
 prod-use1-mr.status.newsapi.aws-int.thomsonreuters.com
 spear-qa.tr-tax-nonprod.aws-int.thomsonreuters.com
-www.apac1.newsplanner.thomsonreuters.com
+apac1.newsplanner.thomsonreuters.com
 cs-user.thomsonreuters.com
 mgmtadldap-bz1.int.thomsonreuters.com
 sa-au.practicallaw.demo.thomsonreuters.com
@@ -29058,7 +28865,6 @@ ukqatestauto2.legaltrackerservices.int.thomsonreuters.com
 a205094-ppe-uat.appserver.desktop-preprod.aws-int.thomsonreuters.com
 bookinfo.sharedcap.up.363c.use2.azure-int.thomsonreuters.com
 ws6-wluk.int.thomsonreuters.com
-www.emea.test.newsplanner.thomsonreuters.com
 app-onboarding.ci.8677.aws-int.thomsonreuters.com
 listmatching.dev02-apse1.jenga.a-worldcheck-preprod.aws-int.thomsonreuters.com
 workflow-prod-euw2.tr-tax-prod.aws-int.thomsonreuters.com
@@ -29193,7 +28999,6 @@ c793mfrdcgc.ten.thomsonreuters.com
 compound-renderer.datafusion.thomsonreuters.com
 eppleregn.ctus2.pln.cust.thomsonreuters.com
 sftp-qa-hzl.tdn.thomsonreuters.com
-businessintelligence.thomsonreuters.com
 c066wwnldppd5.ten.thomsonreuters.com
 carr-vcucmsa08.ten.thomsonreuters.com
 verify.services.qa.otir.int.thomsonreuters.com
@@ -29237,7 +29042,6 @@ clearprismservice-int-clearapiint-qed-thomsonreuters-com.40958.aws-int.thomsonre
 prod-fw-euw1a-2-sec.thomsonreuters.com
 pub-assembly-dev-29.9185.aws-int.thomsonreuters.com
 qa-use1-mr.status.newsapi-preprod.aws-int.thomsonreuters.com
-www.workato-token-api.5447.aws.thomsonreuters.com
 accuity-learning.thomsonreuters.com
 autofunddr.thomsonreuters.com
 efmh5-oct-cte.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -29277,7 +29081,6 @@ dtcn-td3rund01.int.thomsonreuters.com
 eg.sslvpnmagcluster.thomsonreuters.com
 trs.hardening.3e.thomsonreuters.com
 vieef-auto.ctrack.thomsonreuters.com
-foreclosure.flportalqa.int.thomsonreuters.com
 pubgui-client-use1.4152.aws-int.thomsonreuters.com
 sftp7-ediscoverypoint.thomsonreuters.com
 novus-rest-prod-use2.4152.aws-int.thomsonreuters.com
@@ -29308,7 +29111,6 @@ aa-test-cu.converis.thomsonreuters.com
 compliance-us.opt.thomsonreuters.com
 distribution-j-dev.0888.aws-int.thomsonreuters.com
 oit-systemdata-api-dr-usw2-aws.tax.prod.int.thomsonreuters.com
-www.supreme.flportalstage-ams.int.thomsonreuters.com
 a205880-admin-tools0-cache-rw-dev-us-east-1-b.desktop-preprod.aws-int.thomsonreuters.com
 amers1.viewsstatic2.cp.thomsonreuters.com
 site-use1c1.uk.draftingassistant.demo.thomsonreuters.com
@@ -29332,7 +29134,6 @@ practicallaw.ci.thomsonreuters.com
 accreditationwidgets-app.opt.thomsonreuters.com
 cpa-prod-cpa-orchestrator-service.tr-tax-cp-prod.aws-int.thomsonreuters.com
 rapmqprod.int.thomsonreuters.com
-www.roadmap2020.thomsonreuters.com
 test0219.int.thomsonreuters.com
 dev.hnja-oci.thomsonreuters.com
 h3etrsalesmain.us.3e.thomsonreuters.com
@@ -29341,7 +29142,6 @@ qa2.livecentral.thomsonreuters.com
 uds-int-analytics-hp-westlaw-com.04032.aws-int.thomsonreuters.com
 a201824-artemis--uat-use1.aws.thomsonreuters.com
 federation.otir.thomsonreuters.com
-www.flportalstage-ams.int.thomsonreuters.com
 wwwold-trkd.thomsonreuters.com
 a204896-dep-ca-sat-v1-5.tr-tax-prod.aws-int.thomsonreuters.com
 corporate.flportalstage-ams.int.thomsonreuters.com
@@ -29434,7 +29234,6 @@ echo-server.plexus-snowflake-preprod-gloriaa-use1.1554.aws-int.thomsonreuters.co
 a204891-aa-use1-ppe.edp-distribution-preprod.aws-int.thomsonreuters.com
 asap-dev.a-pal-preprod.aws-int.thomsonreuters.com
 dev-organizertoweb-use1-aws.tax.nonprod.thomsonreuters.com
-profdev.flportaldev-ams.int.thomsonreuters.com
 rsb-gosystemrs-poc-use1-aws.tax.prod.thomsonreuters.com
 a205880-eol-db-ro-ppe.desktop-preprod.aws-int.thomsonreuters.com
 idt-cmc-usa1.uat.hnja-oci.thomsonreuters.com
@@ -29570,7 +29369,7 @@ bkk-cvcs-01.int.thomsonreuters.com
 euc1-dev.gtmcontent.8443.aws-int.thomsonreuters.com
 batchuibr4-int-clear-ci-thomsonreuters-com.36049.aws-int.thomsonreuters.com
 qa01.onesourcebr.thomsonreuters.com
-www.int.practicalcompliance.hotprod.thomsonreuters.com
+int.practicalcompliance.hotprod.thomsonreuters.com
 sstm-dev.int.thomsonreuters.com
 test.aws-int.thomsonreuters.com
 lab03.dfe.thomsonreuters.com
@@ -29696,7 +29495,6 @@ documentprofile-kd.76978.aws-int.thomsonreuters.com
 trcra04t017.thomsonreuters.com
 activitystreammanager-qa.int.thomsonreuters.com
 adn-authorization-nonprod.5447.aws.thomsonreuters.com
-apac.ci.newsplanner.thomsonreuters.com
 sccms-prodprev.ctrack.thomsonreuters.com
 sso-dev.selfservice.thomsonreuters.com
 webfarm.cloud.gcs.thomsonreuters.com
@@ -29719,7 +29517,6 @@ ip.int.uk.practicallaw.demo.thomsonreuters.com
 documentprofile-tm.76978.aws-int.thomsonreuters.com
 dtcp-erpcprp-vs3-www.cp.thomsonreuters.com
 asap-ppe.pal-qa.aws-int.thomsonreuters.com
-findlawimages.com.flportaldev.int.thomsonreuters.com
 serengeti.epamperfservices.int.thomsonreuters.com
 amers2.mobile13.cp.thomsonreuters.com
 h3esrch-preview-01.3661.uks.azure-int.thomsonreuters.com
@@ -29763,7 +29560,6 @@ amer2-download.thomsonreuters.com
 collab.qa.thelink.thomsonreuters.com
 workspace.ca.preview.3e.thomsonreuters.com
 lse.converis.thomsonreuters.com
-sgxen.thomsonreuters.com
 a205880-wsof-api-qa-eu-west-1-a.desktop-preprod.aws-int.thomsonreuters.com
 auth.qa01.fintech.thomsonreuters.com
 dev-dfcore-services.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -29795,7 +29591,6 @@ c623yumcqup01.ten.thomsonreuters.com
 security-irm-dev.int.thomsonreuters.com
 usw2-exp.platform.8443.aws.thomsonreuters.com
 feed-manager.ppe.5419.aws-int.thomsonreuters.com
-profdev.flportalqa.int.thomsonreuters.com
 serengeti.greenlineservices.int.thomsonreuters.com
 lynxevt-blue.thomsonreuters.com
 mailrelay1-ext.thomsonreuters.com
@@ -29838,7 +29633,7 @@ compass-rp-int.wideip.mgmt.compass.int.thomsonreuters.com
 dse-qa1-checkpointlearning.thomsonreuters.com
 lab-brmsweb-use1-aws.tax.nonprod.int.thomsonreuters.com
 trams-pln.preprod.int.thomsonreuters.com
-www.a205884-cicd.apt-core-cicd.aws-int.thomsonreuters.com
+a205884-cicd.apt-core-cicd.aws-int.thomsonreuters.com
 a205880-admpnl-api-ppe-ap-southeast-1-b.desktop-preprod.aws-int.thomsonreuters.com
 datalink-qa.thomsonreuters.com
 haut.gcp-int.thomsonreuters.com
@@ -29849,7 +29644,6 @@ cp-prod-cp-newsletter-subscription-service.tr-tax-cp-prod.aws-int.thomsonreuters
 netdemo.legaltrackerservices.thomsonreuters.com
 a205094-platform-ppe-uat-ap-southeast-1.appserver.desktop-preprod.aws-int.thomsonreuters.com
 draftable-nonprod.3300.aws.thomsonreuters.com
-workbn4.thomsonreuters.com
 infinitylaw-qa.thomsonreuters.com
 ott-ten99-reporting-api-qa-use1-aws.tax.nonprod.thomsonreuters.com
 assembly-dev-171-asm.1349.aws-int.thomsonreuters.com
@@ -29867,7 +29661,6 @@ bdp-demo.thomsonreuters.com
 lusid-pw-dev.pal-dev.aws-int.thomsonreuters.com
 lzoriginsauto.legaltrackerservices.int.thomsonreuters.com
 sc-drafting-qed-westlaw-com.04032.aws-int.thomsonreuters.com
-www.healing-uat.thomsonreuters.com
 attendance-redmachine-mssql.ctrack.thomsonreuters.com
 fulfillmentinstructions-fdc-prod-use1.0413.aws-int.thomsonreuters.com
 hdcp-erpcprp-ts-chunk-www.cp.thomsonreuters.com
@@ -29906,7 +29699,7 @@ iaqa1.views.gateway.thomsonreuters.com
 rshelp-awsdev.tax.nonprod.int.thomsonreuters.com
 a205094-appserver-desktop-cicd.aws-int.thomsonreuters.com
 ucdponbrd-sgw01.thomsonreuters.com
-www.techdeals.work.flportalstage-ams.int.thomsonreuters.com
+techdeals.work.flportalstage-ams.int.thomsonreuters.com
 otir-trusttax-verify-services-cw-qa-use1-aws.tax.nonprod.thomsonreuters.com
 cloudtest4.thomsonreuters.com
 courtroom-config.ctrack.thomsonreuters.com
@@ -30125,14 +29918,12 @@ ntcp-erpcprp-wld-stream-www.cp.thomsonreuters.com
 aa-qa-smu.converis.thomsonreuters.com
 dev.netposition.int.thomsonreuters.com
 mysapsbx.int.thomsonreuters.com
-www.optibotneo.thomsonreuters.com
 platform.legaltrackerservices.thomsonreuters.com
 search.thelink.thomsonreuters.com
 us2p-vcucmsb04.ten.thomsonreuters.com
 ogt-legacy-webservices-v2-hlg-401.n202261pp.iad-3kaq.oci-int.thomsonreuters.com
 relatedinfo-int-km-prod-westlaw-com.04032.aws-int.thomsonreuters.com
 saptbd.int.thomsonreuters.com
-www.myownn-dev.thomsonreuters.com
 dcexittest.int.thomsonreuters.com
 files-dev.int.thomsonreuters.com
 rsb-pass-thru-tester-poc-use1-aws.tax.prod.thomsonreuters.com
@@ -30212,7 +30003,6 @@ pd-taxreturnapi-use1-aws.tax.nonprod.thomsonreuters.com
 prod.eaganf.orderit.thomsonreuters.com
 satproductdataservices.int.thomsonreuters.com
 uat03.interdados.thomsonreuters.com
-int.anzlaw.qed.thomsonreuters.com
 clientinfodocservicesapigee-ssdc-prod-use1.60413.aws.thomsonreuters.com
 mail02.taxprof.thomsonreuters.com
 mopa-api-prodtest.ctrack.thomsonreuters.com
@@ -30298,7 +30088,6 @@ data-hub-prod-euw2.tr-tax-prod.aws-int.thomsonreuters.com
 site-use1c1.nz.draftingassistant.hotprod.thomsonreuters.com
 trcmgeaa.thomsonreuters.com
 tsa-metapraxis.int.thomsonreuters.com
-www.hkexen.thomsonreuters.com
 a205094-platform-qa-cb1-eu-west-1.appserver.desktop-preprod.aws-int.thomsonreuters.com
 lactm-prodprev.ctrack.thomsonreuters.com
 lite-oitc-dev.tr-tax-nonprod.aws-int.thomsonreuters.com
@@ -30382,7 +30171,6 @@ trnerr-ci-712.plexus-ppe.1554.aws.thomsonreuters.com
 a205880-eol-cache-ro-uat-ap-southeast-1.desktop-preprod.aws-int.thomsonreuters.com
 checkpoint-qed.tr-tax-cp-preprod.aws-int.thomsonreuters.com
 integration.apidocs.edp.thomsonreuters.com
-www.techdeals.flportaldev.int.thomsonreuters.com
 assembly-dev-10-asm.1349.aws-int.thomsonreuters.com
 findlawtagservices-qa.int.thomsonreuters.com
 practicetechnology2.thomsonreuters.com
@@ -30395,7 +30183,6 @@ c260gbp.intqa.thomsonreuters.com
 idt-cre-ce.dev.iad-hnja.oci-int.thomsonreuters.com
 transfer.practicetechnology.thomsonreuters.com
 csinternal-use1-ci.dataroom-preprod.aws-int.thomsonreuters.com
-emea.polling.thomsonreuters.com
 ppe.billingsupport.checkpoint.thomsonreuters.com
 nr-dist-elasticsearch.0712.aws-int.thomsonreuters.com
 rapmqdev.int.thomsonreuters.com
@@ -30591,7 +30378,7 @@ ac-gcms-ci.plexus-cari-ppuse1.97328.aws-int.thomsonreuters.com
 afs.us.preview.3e.thomsonreuters.com
 mms-rms-dev-10.3378.aws-int.thomsonreuters.com
 lsr-amers.thomsonreuters.com
-www.findlawimages.flportalstage.int.thomsonreuters.com
+findlawimages.flportalstage.int.thomsonreuters.com
 a250372-bb-qa.edp-content-preprod.aws-int.thomsonreuters.com
 a250655-search-nm-ppe-euw2.worldcheckcuration-beta.aws-int.thomsonreuters.com
 historysvc-qa.edp-analytics-preprod.aws-int.thomsonreuters.com
@@ -30642,7 +30429,7 @@ dev-export-service.private.fp.tr-fr-nonprod.aws-int.thomsonreuters.com
 esbsun-dev.int.thomsonreuters.com
 onesource-idt-oavs-uat-ws.iv.determination.thomsonreuters.com
 search-int-nextcanada-prod-westlaw-com.04032.aws-int.thomsonreuters.com
-www.techdeals.flportaldev-ams.int.thomsonreuters.com
+techdeals.flportaldev-ams.int.thomsonreuters.com
 a205880-api-dev-us-east-1-b.desktop-preprod.aws-int.thomsonreuters.com
 a205923-akk-mlt1-uat-osr-gameday.33960.aws.thomsonreuters.com
 pub-assembly-dev-47.9185.aws-int.thomsonreuters.com
@@ -30742,7 +30529,6 @@ prod-fpinfoblox-service.fp.tr-fr-prod.aws-int.thomsonreuters.com
 acc-media.plt.a-worldcheck-prod.aws-int.thomsonreuters.com
 c401pcsccrwr1.ccr.int.thomsonreuters.com
 cpa-test-logs.tr-tax-cp-preprod.aws-int.thomsonreuters.com
-www.fmc.qa.thomsonreuters.com
 c398tnqdcgc.ten.thomsonreuters.com
 eform-rs-sat-use1-aws.tax.nonprod.int.thomsonreuters.com
 preprod.ebilling.thomsonreuters.com
@@ -30928,7 +30714,6 @@ a250655-search-nm-esd-dev-euw2.aws-3-dev-test-worldcheckcuration.aws-int.thomson
 adjustments-metapraxis-test.int.thomsonreuters.com
 research.fr-nonprod.aws.thomsonreuters.com
 trcra06t162.thomsonreuters.com
-www.supreme.flportaldev-ams.int.thomsonreuters.com
 3091.aws-int.thomsonreuters.com
 c423jvsisdvfs.devadfs.thomsonreuters.com
 idl-uat02-sin.worldcheckprivate.aws-int.thomsonreuters.com
@@ -31089,7 +30874,6 @@ ibes1dr.thomsonreuters.com
 calendar.thomsonreuters.com
 a204591-cmp-prod-usa1.internal.hnja-oci.thomsonreuters.com
 a204339-oraint-dev-usa1.external.hnja-oci.thomsonreuters.com
-trkd.ntc.thomsonreuters.com
 rmcftp-pln.management.research.thomsonreuters.com
 entitlement-v56-use1.8821.aws.thomsonreuters.com
 prod-poc01.hostedtax.thomsonreuters.com
@@ -31111,22 +30895,16 @@ alb-prod.0413.aws.thomsonreuters.com
 prod.thomsonreuters.com
 a204339-oraint-qa-usa1.external.hnja-oci.thomsonreuters.com
 sslvpn.thomsonreuters.com
-apac1.newsplanner.thomsonreuters.com
 nitro.admin.int.thomsonreuters.com
 ws.thomsonreuters.com
 a204339-oraint-uat-usa1.internal.hnja-oci.thomsonreuters.com
-amp.iwealth.thomsonreuters.com
-demo.iwealth.thomsonreuters.com
 prod02.hostedtax.thomsonreuters.com
 mail01.ks.taxprof.thomsonreuters.com
-amers2.polling.thomsonreuters.com
 i.thomsonreuters.com
-eaidev.thomsonreuters.com
 a200206-idt-cre-dev-usa1.waf.hnja-oci.thomsonreuters.com
 a200206-idt-det-uat-usa1.internal.hnja-oci.thomsonreuters.com
 services.thomsonreuters.com
 ext-extirules-sni.hotprod.thomsonreuters.com
-red.newsplanner.thomsonreuters.com
 a202752-dfi-qa-usa1.internal.hnja-oci.thomsonreuters.com
 ppcintranet.int.thomsonreuters.com
 reportweb-qa.thomsonreuters.com
@@ -31141,7 +30919,6 @@ a200206-idt-cre-prod-usa1.internal.hnja-oci.thomsonreuters.com
 h3ehinmanstraubsample.us.preview.3e.thomsonreuters.com
 task.0919.aws.thomsonreuters.com
 shared.practicallaw.ci.thomsonreuters.com
-emea2.newsplanner.thomsonreuters.com
 prod-ftp01.hostedtax.thomsonreuters.com
 partner.thomsonreuters.com
 sami-admin.cdt.int.thomsonreuters.com
@@ -31173,12 +30950,10 @@ gateway.thomsonreuters.com
 extirules-gen80to443-sni.ci.thomsonreuters.com
 qed1-es-lynxnewsplanner.int.thomsonreuters.com
 tr.thomsonreuters.com
-polling.apac.thomsonreuters.com
 trcra04t029.thomsonreuters.com
 ogt-gtm-mobile-qa.thomsonreuters.com
 prod-es-grok-eagan.int.thomsonreuters.com
 fxtdiagnosticstest-amers3.trading.thomsonreuters.com
-expresswillsonline.thomsonreuters.com
 guestwlan.thomsonreuters.com
 asmirules-practicallaw-sni.ci.thomsonreuters.com
 prod-es-datascopeselect-hzl.int.thomsonreuters.com
@@ -31194,7 +30969,6 @@ fxtfbtest-amers3.trading.thomsonreuters.com
 prodman.int.thomsonreuters.co.nz.ha.thomsonreuters.com
 dcis-prod.hostedtax.thomsonreuters.com
 bounce.thomsonreuters.com
-calabrioamc.thomsonreuters.com
 staging.insidecareers.thomsonreuters.com
 demo.search.es-platform.int.thomsonreuters.com
 a200206-idt-det-qa-usa1.internal.hnja-oci.thomsonreuters.com
@@ -31202,9 +30976,7 @@ onesource-idt-amer-z1-vip-ext-1.hostedtax.thomsonreuters.com
 reverse-proxy.osr-prod-ap.1642.aws.thomsonreuters.com
 beta.thomsonreuters.com
 confluence.risk.int.thomsonreuters.com
-trkd.thomsonreuters.com
 sip.thomsonreuters.com
-mlx.iwealth.thomsonreuters.com
 prod.es-tcm-translation.int.thomsonreuters.com
 global.thomsonreuters.com
 a200206-idt-cre-dev-usa1.internal.hnja-oci.thomsonreuters.com
@@ -31222,10 +30994,8 @@ ftp-dficint-usa1.prod.hnja-oci.thomsonreuters.com
 h3ewinsteadstage.us.preview.3e.thomsonreuters.com
 a204339-oraint-dev-usa1.waf.hnja-oci.thomsonreuters.com
 a200206-idt-cre-qa-usa1.external.hnja-oci.thomsonreuters.com
-eaiqa.thomsonreuters.com
 a202750-cmc-prod-usa1.internal.hnja-oci.thomsonreuters.com
 projects.thomsonreuters.com
-apac2.newsplanner.thomsonreuters.com
 a200206-idt-det-dev-usa1.waf.hnja-oci.thomsonreuters.com
 static.thomsonreuters.com
 shared-ext.practicallaw.hotprod.thomsonreuters.com
@@ -31239,7 +31009,6 @@ a204591-cmp-dev-usa1.internal.hnja-oci.thomsonreuters.com
 a204591-cmp-uat-usa1.internal.hnja-oci.thomsonreuters.com
 lms.int.thomsonreuters.com
 boomi-pp-e.thomsonreuters.com
-amers1.newsplanner.thomsonreuters.com
 a202752-dfi-uat-usa1.internal.hnja-oci.thomsonreuters.com
 a202750-cmc-dev-usa1.internal.hnja-oci.thomsonreuters.com
 prod-beta.hostedtax.thomsonreuters.com
@@ -31256,7 +31025,6 @@ onesource-idt-uat-z1-vip-ext-1.hostedtax.thomsonreuters.com
 eegitemea.int.thomsonreuters.com
 amers3.fxtreportstest.trading.thomsonreuters.com
 wm.thomsonreuters.com
-red.polling.thomsonreuters.com
 a204339-oraint-qa-usa1.internal.hnja-oci.thomsonreuters.com
 a202752-dfi-dev-usa1.internal.hnja-oci.thomsonreuters.com
 ftp-dficint-usa1.uat.hnja-oci.thomsonreuters.com
@@ -31264,8 +31032,6 @@ mail01.productnotice.thomsonreuters.com
 aks-app-demo-store.ef44.use2.azure-int.thomsonreuters.com
 airflow-tr-secops-fedramp.aws-int.thomsonreuters.com
 executionjournal-scale.gcs.int.thomsonreuters.com
-*.int.thomsonreuters.com
-*.thomsonreuters.com
 sama-prod.n208400prd.jed.3kaq-oci.thomsonreuters.com
 drsama.ndr208400prd.jed.3kaq-oci.thomsonreuters.com
 ogt-legacy-webservices-dev-522.n202261pp.3kaq-oci.thomsonreuters.com
@@ -31373,7 +31139,6 @@ agileqa.int.thomsonreuters.com
 livepages.thomsonreuters.com
 aipromptbuilder-ci.gcs.int.thomsonreuters.com
 region-use2.practicalcompliance.qed.thomsonreuters.com
-www.newsandinsight.thomsonreuters.com
 _store.legal.thomsonreuters.com
 api.csslatam.thomsonreuters.com
 seacms-qaconfig.ctrack.thomsonreuters.com
@@ -31505,7 +31270,6 @@ ont.thomsonreuters.com
 nh-nlb-qla01-sitea.a-worldcheck-preprod.aws-int.thomsonreuters.com
 auth.db-lake.tr-secops-fedramp.aws-int.thomsonreuters.com
 site-use2c1.anzlaw.qed.thomsonreuters.com
-www.os-vgortan-ri.incites.thomsonreuters.com
 author-dev-ams.ewp.thomsonreuters.com
 ott-five277-api-dev-use1-aws.tax.nonprod.thomsonreuters.com
 senny-1.incites.thomsonreuters.com
@@ -31564,7 +31328,6 @@ use1-dev.integtns.8443.aws-int.thomsonreuters.com
 publish1uswest2-as.prod.ewp.thomsonreuters.com
 holidayecard.thomsonreuters.com
 nr-dist-elektron.us.ppe.7582.aws-int.thomsonreuters.com
-www.avianca.incites.thomsonreuters.com
 rmnh.incites.thomsonreuters.com
 nh-nlb-d01-sitea.a-worldcheck-preprod.aws-int.thomsonreuters.com
 rms-world-checkone.thomsonreuters.com
@@ -31574,14 +31337,13 @@ ott-five227-odata-api-sat-use1-aws.tax.nonprod.thomsonreuters.com
 cortellisconnections.thomsonreuters.com
 cifraclub.incites.thomsonreuters.com
 amershub.thomsonreuters.com
-www.simotaspeedway.incites.thomsonreuters.com
+simotaspeedway.incites.thomsonreuters.com
 crlfr3.thomsonreuters.com
 www2.thomsonreuters.com
 s1-proview.hotprod.thomsonreuters.com
 a204937-qps-azsproxy-use1-dev.qps-dev.aws-int.thomsonreuters.com
 remoteusertest.thomsonreuters.com
 site-use2c1.practicalcompliance.qed.thomsonreuters.com
-www.mulherespeladasefotosamadorasdesexo.incites.thomsonreuters.com
 ott-ten99-iris-api-sat-use1-aws.tax.nonprod.thomsonreuters.com
 iwealth.thomsonreuters.com
 executionjournal.gcs.thomsonreuters.com
@@ -31590,7 +31352,6 @@ publish2useast1-as.prod.ewp.thomsonreuters.com
 publish1useast1-as.dev.ewp.thomsonreuters.com
 c542anp.int.thomsonreuters.com
 tax-elearning.thomsonreuters.com
-simotaspeedway.incites.thomsonreuters.com
 nh-nlb-ppp01-siteb.a-worldcheck-prod.aws-int.thomsonreuters.com
 login.incitgithub-okta.thomsonreuters.com
 dataentryoutsourcing.incites.thomsonreuters.com

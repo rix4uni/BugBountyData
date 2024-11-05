@@ -1,13 +1,12 @@
 auth.zicorp.com
 imap.zicorp.com
 pop3.zicorp.com
-www.zicorp.com
 ww17.qix.zicorp.com
 dns.zicorp.com
 default.htmwww.zicorp.com
 securesmtp.zicorp.com
 mx1.zicorp.com
-www.ww45.zicorp.com
+ww45.zicorp.com
 cc.zicorp.com
 mail.zicorp.com
 ww16.zicorp.com
@@ -21,7 +20,6 @@ admin.zicorp.com
 pop.zicorp.com
 mx01.zicorp.com
 public.zicorp.com
-ww45.zicorp.com
 ww17.public.zicorp.com
 mvideo.zicorp.com
 ww2.zicorp.com
@@ -29,7 +27,7 @@ sales.zicorp.com
 vvww.zicorp.com
 mx0.zicorp.com
 ww25.zicorp.com
-www.www.zicorp.com
+www.zicorp.com
 ww17.zicorp.com
 ww1.public.zicorp.com
 qix.zicorp.com
@@ -141,7 +139,6 @@ mta.zicorp.com
 mercurial.zicorp.com
 ci.demo.zicorp.com
 postmaster.zicorp.com
-www.ww17.qix.zicorp.com
 dkim._domainkey.zicorp.com
 triton.zicorp.com
 mailer._domainkey.zicorp.com
@@ -191,7 +188,7 @@ nautilus.zicorp.com
 _tcp.dc._msdcs.zicorp.com
 smtpseguro.zicorp.com
 key1._domainkey.s1.zicorp.com
-www.ftp.zicorp.com
+ftp.zicorp.com
 ms1.zicorp.com
 cmihgdg5i174qgeqf3qg.zicorp.com
 shipping.zicorp.com
@@ -216,12 +213,11 @@ relay1.zicorp.com
 mailserver.zicorp.com
 barracuda.zicorp.com
 default._domainkey.zicorp.com
-www.filme.zicorp.com
+filme.zicorp.com
 ttt.zicorp.com
 mt.zicorp.com
 ww1.auth.zicorp.com
 union.zicorp.com
-www.qix.zicorp.com
 usa.zicorp.com
 x._domainkey.zicorp.com
 smtpout.zicorp.com
@@ -237,7 +233,6 @@ mailin.zicorp.com
 dev-ci.zicorp.com
 _domainkey.s1.zicorp.com
 smtp.mail.zicorp.com
-ftp.zicorp.com
 mx20.zicorp.com
 mta-sts.zicorp.com
 vpn.zicorp.com

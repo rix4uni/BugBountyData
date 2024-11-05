@@ -1,4 +1,3 @@
-*.bitmoji.com
 api.bitmoji.com
 api.staging.bitmoji.com
 b.bitmoji.com
@@ -21,9 +20,7 @@ staging.api.bitmoji.com
 star.bitmoji.com
 support.bitmoji.com
 test.bitmoji.com
-www.bitmoji.com
-www.ar24.frimages.bitmoji.com
-www.images.bitmoji.com
+ar24.frimages.bitmoji.com
 www2.bitmoji.com
 staging.us-east.bitmoji.com
 com.snap.bitmoji.com

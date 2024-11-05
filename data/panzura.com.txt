@@ -6,7 +6,6 @@ service.panzura.com
 openvpn2.panzura.com
 video.panzura.com
 webinars.panzura.com
-www.panzura.com
 sadownload.sa.dev.panzura.com
 support2.sa.dev.panzura.com
 community.panzura.com
@@ -14,7 +13,7 @@ sadownload.panzura.com
 testcp.panzura.com
 apolloemail.panzura.com
 cpanel.shop.panzura.com
-www.shop.panzura.com
+shop.panzura.com
 trn.panzura.com
 cpcontacts.shop.panzura.com
 pzuploader.panzura.com
@@ -28,10 +27,9 @@ autodiscover.shop.panzura.com
 go.panzura.com
 mobileclient.panzura.com
 qa.lab-edge.panzura.com
-www.lab-edge.panzura.com
+lab-edge.panzura.com
 test-edge.panzura.com
 mail.shop.panzura.com
-shop.panzura.com
 webdisk.shop.panzura.com
 sa-opensearch.int.sa.dev.panzura.com
 dataservices.status.panzura.com
@@ -40,7 +38,6 @@ sb.lab-edge.panzura.com
 zeppelin.us.pds.prd.panzura.com
 docs.panzura.com
 explore.panzura.com
-lab-edge.panzura.com
 learn.panzura.com
 cpcalendars.shop.panzura.com
 dev.lab-edge.panzura.com
@@ -59,7 +56,6 @@ us.pds.prd.panzura.com
 cloufs.us.it.panzura.com
 support3.sa.dev.panzura.com
 alb.us.it.panzura.com
-www.openvpn2.panzura.com
 sasupportdownload.sa.dev.panzura.com
 support2.int.sa.dev.panzura.com
 us.pds.dev.panzura.com
@@ -71,7 +67,6 @@ support3.int.sa.dev.panzura.com
 zeppelin-server.zeppelin-dev.panzura.com
 licensing.qa.panzura.com
 apipziq.int.sa.dev.panzura.com
-www.openvpn.panzura.com
 us.pds.qa.panzura.com
 sdw.int.sa.dev.panzura.com
 spark-rest.zeppelin.us.pds.dev.panzura.com
@@ -79,7 +74,6 @@ zeppelin-server.zeppelin-stg.panzura.com
 apipoller.pziq.dev.panzura.com
 zeppelin-server.zeppelin-prduk.panzura.com
 buzz.panzura.com
-www.bitstream.panzura.com
 bitstream.panzura.com
 sa.dev.panzura.com
 zeppelin-server.zeppelin-qa.panzura.com
@@ -87,7 +81,6 @@ sadownload.int.sa.dev.panzura.com
 licensing.dev.panzura.com
 edge.us.it.panzura.com
 zeppelin-server.zeppelin.us.pds.dev.panzura.com
-www.anyconnect.panzura.com
 sa-opensearch.sa.dev.panzura.com
 s3.panzura.com
 data.panzura.com

@@ -1,14 +1,11 @@
-*.meituan.net
-*.d.meituan.net
-*.dreport.meituan.net
+d.meituan.net
+dreport.meituan.net
 analytics.meituan.net
 awp-assets.meituan.net
 awps-assets.meituan.net
 b.meituan.net
 c.meituan.net
 cs0.meituan.net
-d.meituan.net
-dreport.meituan.net
 eva.meituan.net
 fe.meituan.net
 frep.meituan.net
@@ -46,7 +43,6 @@ vfile.meituan.net
 wreport.meituan.net
 wreport1.meituan.net
 wreport2.meituan.net
-www.meituan.net
 xs01.meituan.net
 y1.meituan.net
 yfpk.meituan.net
@@ -69,7 +65,6 @@ ws.meituan.net
 awp-assets2.meituan.net
 awp-static.meituan.net
 cube.meituan.net
-www.b.meituan.net
 bike-exp.meituan.net
 route-stats.dreport.meituan.net
 prism-report-ddd.dreport.meituan.net
@@ -216,7 +211,6 @@ rt-health-trace-log.dreport.meituan.net
 prism-report-custom.dreport.meituan.net
 babel-statistics-android.dreport.meituan.net
 img-cn.meituan.net
-*.img-cn.meituan.net
 data-sdk-uuid-log.d.meituan.net
 o3.d.meituan.net
 p13.d.meituan.net

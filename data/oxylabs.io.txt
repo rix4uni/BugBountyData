@@ -58,7 +58,6 @@ admin.oxylabs.io
 serpstats.oxylabs.io
 proxy.oxylabs.io
 api.oxylabs.io
-www.oxylabs.io
 developers.oxylabs.io
 docs.oxylabs.io
 hi.oxylabs.io
@@ -79,7 +78,6 @@ revalidate-us.oxylabs.io
 revalidate-eu.oxylabs.io
 stage-stats-v2.oxylabs.io
 ngrp.oxylabs.io
-www.faq.oxylabs.io
 stage2-dashboard-api.oxylabs.io
 stage-china-next.oxylabs.io
 pr.oxylabs.io
@@ -89,8 +87,6 @@ client-monitor.oxylabs.io
 webhooks.oxylabs.io
 iptest.oxylabs.io
 stage2.oxylabs.io
-www.learn.oxylabs.io
-www.test.oxylabs.io
 stage-shared-api.oxylabs.io
 web-data.oxylabs.io
 stage-china.oxylabs.io
@@ -107,7 +103,6 @@ oxyserps-stage-nbg-serpstats.oxylabs.io
 oxyserps-stage-serpstats.oxylabs.io
 proxy-staging.oxylabs.io
 stage-api1.oxylabs.io
-www.career.oxylabs.io
 admin-staging.oxylabs.io
 api-staging.oxylabs.io
 api.dev.marketplaces.oxylabs.io

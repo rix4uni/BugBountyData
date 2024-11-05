@@ -149,7 +149,6 @@ msg.csw.lenovo.com
 uds.lenovo.com
 naea1.uds.lenovo.com
 api.naea1.uds.lenovo.com
-www.lenovo.com
 auth.naea1.uds.lenovo.com
 sso.lenovo.com
 mqtt.naea1.uds.lenovo.com
@@ -286,7 +285,6 @@ router-dev.lenovo.com
 uds-pen.lenovo.com
 unifiedcloud.lenovo.com
 webvpnusrdu01.lenovo.com
-www.support.lenovo.com
 dxp-dev.lenovo.com
 naea1.holo-one-qa-sit.lenovo.com
 thinkshield-qa.lenovo.com
@@ -373,7 +371,6 @@ einkgen2-download.lenovo.com
 oobe.uds.lenovo.com
 tag.lenovo.com
 o944.ecomm.lenovo.com
-www.download.lenovo.com
 api-cui.euwe1.uds.lenovo.com
 o945.ecomm.lenovo.com
 o940.ecomm.lenovo.com
@@ -394,7 +391,6 @@ most.lenovo.com
 dt.lenovo.com
 ngspms.lenovo.com
 unlockapi.lenovo.com
-www.experiencesmarter.lenovo.com
 soa-de-test.lenovo.com
 webvpn.us.lenovo.com
 agvpnise3515-01.lenovo.com
@@ -441,7 +437,6 @@ xiaole.lenovo.com
 glu.lenovo.com
 scct.gtm.lenovo.com
 email.box.lenovo.com
-www.summergames.lenovo.com
 thinksmart-qa.lenovo.com
 api-mtls-qa.lcp.naea1.uds-sse.lenovo.com
 enterpriseregistration.lenovo.com
@@ -494,7 +489,6 @@ otpvpn.lenovo.com
 portal-cdn.euwe1.uds.lenovo.com
 meta.boxqa.lenovo.com
 trsb.partnerhub.lenovo.com
-www.powerof2.nvidia.lenovo.com
 cnmailch03.lenovo.com
 forst.partnerhub.lenovo.com
 isg-support-test.labs.lenovo.com
@@ -528,7 +522,7 @@ api-mtls-sit.xr.naea1.uds-sse.lenovo.com
 confluencetest1.labs.lenovo.com
 cuiadmin.uds.lenovo.com
 smartrecruiter.lcf5.lenovo.com
-www.gdi.lenovo.com
+gdi.lenovo.com
 dev-hybris.gtm.lenovo.com
 webvpn02.sz.lenovo.com
 api-dev.unifiedcloud.gtm.lenovo.com
@@ -605,7 +599,6 @@ mail02.update.lenovo.com
 onpremva.naea1.holo-one-dev.lenovo.com
 tdm.uds.lenovo.com
 tools.naea1.uds-stage.lenovo.com
-www.s.lenovo.com
 downloads.cnno1.uds.lenovo.com
 palantir.lenovo.com
 tabletcust.lenovo.com
@@ -693,7 +686,7 @@ glass.naea1.uds-qa.lenovo.com
 k8s.onprem.naea1.holo-one-dev.lenovo.com
 qas-cto.gtm.lenovo.com
 scc.bigip.lenovo.com
-www.dcgpricing.lenovo.com
+dcgpricing.lenovo.com
 watermarkdocs.lenovo.com
 ips.lenovo.com
 adfs.poc.adfed.lenovo.com
@@ -715,7 +708,6 @@ account.naea1.uds.lenovo.com
 emea-bounce.lenovo.com
 global-dgfeeds.lenovo.com
 indonresellertest1234.partnerhub.lenovo.com
-www.lesign.lenovo.com
 proxy.holo-one-dev.lenovo.com
 qms.lenovo.com
 release2209-onprem.uds-dev.lenovo.com
@@ -747,11 +739,9 @@ tdp2-tst.lenovo.com
 webmail.brandworld.lenovo.com
 auth-less.naea1.uds.lenovo.com
 core.euwe1.holo-one.lenovo.com
-dcgpricing.lenovo.com
 ice-firewall-2.icelab.lenovo.com
 lsrc.lenovo.com
-www.shop.lenovo.com
-www.tsc.lenovo.com
+tsc.lenovo.com
 no.lenovo.com
 landesk-swdownload.lenovo.com
 pt.thinkshield-qa.lenovo.com
@@ -759,7 +749,6 @@ app1.qliksense.lenovo.com
 appx-qa-carefree5488.partnerhub.lenovo.com
 stage.dds.lenovo.com
 uat.powerof2.nvidia.lenovo.com
-www.login.shop.lenovo.com
 less-liveevent.uds-dev.lenovo.com
 api-emea-mds.lenovo.com
 knowledge.lenovo.com
@@ -774,7 +763,6 @@ xcc-7d2x-j901e7c0.lenovo.com
 admin.jr.lenovo.com
 api-sustainability.lenovo.com
 superset.lenovo.com
-www.beta.lenovo.com
 microapi-cn-in.lenovo.com
 wan.lenovo.com
 il-pce.icelab.lenovo.com
@@ -785,7 +773,6 @@ uat-sales.bj.lenovo.com
 api-ar.naea1.uds-stage.lenovo.com
 mail.brandworld.lenovo.com
 mqtt.naea1.uds-pen.lenovo.com
-www.stores.lenovo.com
 tdms.lenovo.com
 us.api-test.gtm.lenovo.com
 qa.sso.lenovo.com
@@ -845,7 +832,7 @@ ise-cnpek01-pan01.lenovo.com
 lpht-oa.lenovo.com
 lstt.lenovo.com
 lyncnetcheck.lenovo.com
-www.brandworld.lenovo.com
+brandworld.lenovo.com
 mooc.lenovo.com
 resolve-qa.lenovo.com
 sun.naea1.holo-one-dev.lenovo.com
@@ -861,7 +848,6 @@ api-ar.euwe1.uds.lenovo.com
 clever-edu.naea1.uds.lenovo.com
 products.lenovo.com
 vpn230.eu.lenovo.com
-www.atlas.lenovo.com
 atlas.lenovo.com
 baoyumarketplace.partnerhub.lenovo.com
 bp-sit.lenovo.com
@@ -917,7 +903,7 @@ cnvpnise3595-02.lenovo.com
 smartdock.lenovo.com
 api-cn-t.lenovo.com
 whp.lcf5.lenovo.com
-www.login.www.lenovo.com
+login.www.lenovo.com
 api-mtls-dev.dms.naea1.uds-sse.lenovo.com
 hub.idp.xclarityone.lenovo.com
 pay.lenovo.com
@@ -927,7 +913,7 @@ cloudshare.lenovo.com
 bjplmapp.lenovo.com
 signaling.naea1.holo-one-dev.lenovo.com
 www-ofs-uat-test.lenovo.com
-www.chs.lenovo.com
+chs.lenovo.com
 euwe1.uds-qa.lenovo.com
 repository.lenovo.com
 webdisk.brandworld.lenovo.com
@@ -1054,7 +1040,6 @@ osdt.lenovo.com
 ema.naea1.uds.lenovo.com
 externalwebem.lenovo.com
 idp.sandbox.xclarityone.lenovo.com
-www.uds.lenovo.com
 alirt2.lenovo.com
 glosse4lenovo.lenovo.com
 mqtt.uds-qa.lenovo.com
@@ -1078,7 +1063,7 @@ account.uds-sit.lenovo.com
 app.lenovo.com
 ic236.eu.lenovo.com
 origin.uat.xclarityone.lenovo.com
-www.insights.lenovo.com
+insights.lenovo.com
 run.lenovo.com
 baiying.lenovo.com
 csacn1.lenovo.com
@@ -1087,7 +1072,6 @@ idp.uat.xclarityone.lenovo.com
 mail.uds-pen.lenovo.com
 portal-aui.cnno1.uds.lenovo.com
 sbcteamshkext.lenovo.com
-www.exclusives.lenovo.com
 lepack.lenovo.com
 pocm-msft.lenovo.com
 activate.connect.lenovo.com
@@ -1096,7 +1080,6 @@ lenvip.lenovo.com
 sts.cn.lenovo.com
 test.cdn.lenovo.com
 brazil-bounce.lenovo.com
-insights.lenovo.com
 lis.gtm.lenovo.com
 micron-dev.holo-one-dev.lenovo.com
 cenova.box.lenovo.com
@@ -1107,7 +1090,7 @@ push.lenovo.com
 api-mtls-qa.so.naea1.uds-sse.lenovo.com
 privprod-idp-xclarityone.lenovo.com
 qas-leshop.gtm.lenovo.com
-www.apfepl01.lenovo.com
+apfepl01.lenovo.com
 webvpnftussjo03.gtm.lenovo.com
 guest.lenovo.com
 liferay.cnno1.uds.lenovo.com
@@ -1123,7 +1106,6 @@ downloads.naea1.uds.lenovo.com
 emea-en.tw22.lenovo.com
 gerrit-cn.lenovo.com
 uat-isa.bj.lenovo.com
-www.connect2.lenovo.com
 esslyncstd2.lenovo.com
 estore.cnno1.uds.lenovo.com
 pre-c-hybris.lenovo.com
@@ -1132,7 +1114,7 @@ response.lenovo.com
 cnbu.lenovo.com
 policy.euwe1.netfilter.lenovo.com
 up229-onprem.uds-dev.lenovo.com
-www.webinsights.lenovo.com
+webinsights.lenovo.com
 accelerator.lenovo.com
 promotions-staging-development.lenovo.com
 xfdlx.lenovo.com
@@ -1140,7 +1122,7 @@ bpclaims.lenovo.com
 beta.start.lenovo.com
 drtool.lenovo.com
 japan3tiersubd.partnerhub.lenovo.com
-www.login.shopap.lenovo.com
+login.shopap.lenovo.com
 test.le-credit.lenovo.com
 sf.lenovo.com
 miragearcn.lcf5.lenovo.com
@@ -1175,8 +1157,6 @@ ec.lenovo.com
 cnhkise3515-01.lenovo.com
 edge-lxca.uds-dev.lenovo.com
 pre-www6.lenovo.com
-www.partnerinfo.lenovo.com
-www.webform.wd.lenovo.com
 drvdisc1.lenovo.com
 sqtest.lenovo.com
 voicecloud.lenovo.com
@@ -1190,12 +1170,10 @@ usmailch02.lenovo.com
 oacp.lenovo.com
 tableau.lenovo.com
 origin.sit.xclarityone.lenovo.com
-www.jira.lenovo.com
 airesearch.server.lenovo.com
 saas.lenovo.com
 smartwidget.dxp.lenovo.com
 soa-test.lenovo.com
-www.gamestore.lenovo.com
 geo.cnno1.uds-qa.lenovo.com
 ise-cnpek01-pan02.lenovo.com
 las.lena.lenovo.com
@@ -1297,7 +1275,7 @@ hackathon.lenovo.com
 lenovointernetus.lenovo.com
 us.uat.biportal.lenovo.com
 888.lenovo.com
-www.jd.lenovo.com
+jd.lenovo.com
 dcsc-api.lenovo.com
 edge-aws.uds-dev.lenovo.com
 media.cochat.lenovo.com
@@ -1319,10 +1297,8 @@ mailu.naea1.uds-dev.lenovo.com
 mqtt-mtls-dev.pas.naea1.uds-sse.lenovo.com
 sustainability-uat.lenovo.com
 test-new-4.cnno1.uds-qa.lenovo.com
-webinsights.lenovo.com
-www.baogp.lenovo.com
+baogp.lenovo.com
 bsp.lenovo.com
-www.dds.lenovo.com
 presence.naea1.holo-one-qa.lenovo.com
 gzyat.relmeetingapp.lenovo.com
 integration-origin-xclarityone.lenovo.com
@@ -1356,7 +1332,6 @@ aigiving.lenovo.com
 aposenablement.lenovo.com
 approval.cochat.lenovo.com
 spop-data-report.lenovo.com
-www.box.lenovo.com
 mitem.lenovo.com
 servicepartner.lenovo.com
 bycube.lenovo.com
@@ -1401,7 +1376,6 @@ conference.cochat.lenovo.com
 file-ap-origin.cochat.lenovo.com
 ise-cnhet03-psn01.lenovo.com
 live.retailuat.lenovo.com
-www.giftcards.lenovo.com
 aimaster.docker.lisa.lenovo.com
 ms-devops.lenovo.com
 rdt.lenovo.com
@@ -1424,7 +1398,6 @@ vpn231.eu.lenovo.com
 walt.partnerhub.lenovo.com
 mms.lenovo.com
 tstnova.lenovo.com
-www.storyhub.lenovo.com
 magellan.lenovo.com
 computerstores.lenovo.com
 dlxtag.lcf5.lenovo.com
@@ -1459,8 +1432,8 @@ s3smartdevices.lenovo.com
 csw-pen.lenovo.com
 indoornavi.cochat.lenovo.com
 nagarrosb.partnerhub.lenovo.com
-www.cftsupport.bigip.lenovo.com
-www.smartmeeting.lenovo.com
+cftsupport.bigip.lenovo.com
+smartmeeting.lenovo.com
 legc.lenovo.com
 tabletcust-dev.lenovo.com
 subaru3-dev.lenovo.com
@@ -1499,7 +1472,6 @@ oms.lenovo.com
 oobe.uds-qa.lenovo.com
 pauto.lenovo.com
 apccm2khkg01.lenovo.com
-chs.lenovo.com
 classification.lenovo.com
 scan.saas.lenovo.com
 mobile-ota-cdn.lenovo.com
@@ -1625,10 +1597,8 @@ ns.box.lenovo.com
 usfcweb1.lenovo.com
 cloud-tst01.api.lenovo.com
 n3-ikp-us-ex.lenovo.com
-www.lenovonews.news.lenovo.com
 auth.onprem.naea1.holo-one-dev.lenovo.com
 patch-vpn.ccg.lenovo.com
-www.legion.lenovo.com
 iceportal2.icelab.lenovo.com
 session-proxy.naea1.holo-one.lenovo.com
 rts.lenovo.com
@@ -1658,7 +1628,6 @@ auth.cnno1.uds-qa.lenovo.com
 huishou.bigip.lenovo.com
 lccftp.lenovo.com
 liferay.euwe1.uds.lenovo.com
-www.pcsupport.lenovo.com
 api-mtls.cnno1.uds-sit.lenovo.com
 resolute-beta.lenovo.com
 shea1.lenovo.com
@@ -1674,7 +1643,6 @@ bus-test.lenovo.com
 ibsm.lenovo.com
 idp.nonprod.xclarityone.lenovo.com
 whpzxcz.lenovo.com
-www.legrandtest.lenovo.com
 pt.uds-qa.lenovo.com
 cui-apollo.euwe1.uds.lenovo.com
 hawk.lenovo.com
@@ -1703,7 +1671,7 @@ na-mds.lenovo.com
 remote.dev.xclarityone.lenovo.com
 testing.studio.lenovo.com
 turn.cnno1.holo-one.lenovo.com
-www.vantagestore.lenovo.com
+vantagestore.lenovo.com
 displaycdn.lenovo.com
 customersyncmsdtosap-nonprod.lenovo.com
 fos.lenovo.com
@@ -1744,7 +1712,6 @@ pc-test.cochat.lenovo.com
 spesfcs.lenovo.com
 usdownload.lenovo.com
 voice.cnno1.uds.lenovo.com
-www.aefepl02.lenovo.com
 ebpcn.gtm.lenovo.com
 origin.idp.nonprod.xclarityone.lenovo.com
 partnersolutions.lenovo.com
@@ -1770,7 +1737,7 @@ exclusives.dxp-qa.lenovo.com
 grow.lenovo.com
 sandbox-idp-xclarityone.lenovo.com
 login.cochat.lenovo.com
-www.informatica.wd.lenovo.com
+informatica.wd.lenovo.com
 ceodashboard.lenovo.com
 itouchless-prd.lenovo.com
 l.lenovo.com
@@ -1793,10 +1760,8 @@ pre.wx.lenovo.com
 emeasmbloyalty.lenovo.com
 lms.lenovo.com
 think.lenovo.com
-brandworld.lenovo.com
 ea.lenovo.com
 esreseller.partnerhub.lenovo.com
-informatica.wd.lenovo.com
 cbitest.lenovo.com
 exclusives.csw.lenovo.com
 signaling.naea1.holo-one.lenovo.com
@@ -1857,7 +1822,6 @@ piaoju.lenovo.com
 preprdesupport.lenovo.com
 rewards.cochat.lenovo.com
 confluence.ecommerce.lenovo.com
-www.account.lenovo.com
 api.tsc.lenovo.com
 iceportal-2.icelab.lenovo.com
 rtc.smartedu.lenovo.com
@@ -1872,7 +1836,6 @@ thinksmart-dev.lenovo.com
 paasstaticresource.lenovo.com
 res.box.lenovo.com
 tools.dds.lenovo.com
-www.thinkshield.lenovo.com
 ema.naea1.uds-perf.lenovo.com
 iot.lenovo.com
 preprod-most.lenovo.com
@@ -1889,7 +1852,6 @@ qas-csp.lenovo.com
 servicehubuat.lenovo.com
 es.lenovo.com
 ingress.naea1.uds.lenovo.com
-www.cnfepl02.lenovo.com
 bamboo1-test.labs.lenovo.com
 bjstrtool.lenovo.com
 edge-mh8.uds-dev.lenovo.com
@@ -1900,7 +1862,6 @@ bounce3.ecomms.lenovo.com
 virtual.lenovo.com
 portal-platform.cnno1.uds-qa.lenovo.com
 psref.gtm.lenovo.com
-www.netfilter.lenovo.com
 ic237.eu.lenovo.com
 jira1-dev.labs.lenovo.com
 dev.sso.lenovo.com
@@ -1949,7 +1910,6 @@ thinkcloud.lenovo.com
 api-polaris-prod.lenovo.com
 join.gtm.lenovo.com
 turn.naea1.holo-one-qa.lenovo.com
-www.partners.lenovo.com
 appserver.lcf5.lenovo.com
 booking-uat.lenovo.com
 enttst.lenovo.com
@@ -1985,13 +1945,11 @@ va32o1rgw.lenovo.com
 apsmbloyalty.lenovo.com
 idmail.lenovo.com
 pipeline.cnno1.holo-one.lenovo.com
-www.stg.dxp.lenovo.com
 hub.uat.xclarityone.lenovo.com
 mail01.datacentercomms.lenovo.com
 images.smbdirect.lenovo.com
 mqtt-mtls-dev.lcp.naea1.uds-sse.lenovo.com
 mqtt-mtls.naea1.uds-pen.lenovo.com
-www.uat.powerof2.nvidia.lenovo.com
 tsonline.lenovo.com
 inacpltest.partnerhub.lenovo.com
 driverdl.lenovo.com
@@ -2009,7 +1967,6 @@ ic246.eu.lenovo.com
 india.moli.lenovo.com
 inreseller.partnerhub.lenovo.com
 miragearcn.lenovo.com
-www.pcgplmmobile.lenovo.com
 pscm.lenovo.com
 oneportal.lenovo.com
 aoct.lenovo.com
@@ -2045,7 +2002,7 @@ udmp.smartedu.lenovo.com
 windows.lenovo.com
 cdn-file-store.naea1.uds.lenovo.com
 citrix.gtm.lenovo.com
-www.cnlyncszsbs01.lenovo.com
+cnlyncszsbs01.lenovo.com
 xiaoyi.pre.lenovo.com
 copilot-proxy.lenovo.com
 ltc.lenovo.com
@@ -2105,7 +2062,7 @@ liveevents.uds.lenovo.com
 loyalty-sandbox.lenovo.com
 mail.cnno1.uds-qa.lenovo.com
 ss-test.cnno1.uds-qa.lenovo.com
-www.truscale.lenovo.com
+truscale.lenovo.com
 portal.thinkreality.lenovo.com
 srm.gtm.lenovo.com
 cbp-quotation-app-dev.earth.xpaas.lenovo.com
@@ -2189,12 +2146,10 @@ api-tst-emea-mds.lenovo.com
 apsmtp.lenovo.com
 smartoffice.csw.lenovo.com
 us-api-test.gtm.lenovo.com
-www.news.lenovo.com
 pas.naea1.uds-sse.lenovo.com
 dlxdx.lenovo.com
 mobility.lenovo.com
 vpn235.eu.lenovo.com
-tsc.lenovo.com
 welcomeguest.lenovo.com
 app16.qliksense.lenovo.com
 bounce4.ecomms.lenovo.com
@@ -2263,12 +2218,10 @@ portal.uds-qa.lenovo.com
 integration.xclarityone.lenovo.com
 wopi.cochat.lenovo.com
 ic252.eu.lenovo.com
-www.empartner.lenovo.com
 linkredit.lenovo.com
 api-mtls-dev.lcp.naea1.uds-sse.lenovo.com
 planningmdev.lenovo.com
 wing.cftsupport.bigip.lenovo.com
-www.thinkreality.lenovo.com
 xcc-7z71-j901ve40.lenovo.com
 video.lenovo.com
 con-c-hybris.lenovo.com
@@ -2344,7 +2297,6 @@ cubemail.lenovo.com
 dtdlpms.lenovo.com
 wbjl-oss.aiot.lenovo.com
 emea-it.tw22.lenovo.com
-gdi.lenovo.com
 spokenenglishtest.smartedu.lenovo.com
 workphone.lenovo.com
 ic251.eu.lenovo.com
@@ -2390,7 +2342,6 @@ vpn234.eu.lenovo.com
 bitbucket-usea1.tc-dev.lenovo.com
 cui.uds.lenovo.com
 emaila.em.lenovo.com
-login.www.lenovo.com
 servicecares.lenovo.com
 sports.cochat.lenovo.com
 crdttest.lenovo.com
@@ -2463,7 +2414,6 @@ ids.labs.lenovo.com
 ingress.naea1.holo-one.lenovo.com
 remote.sit.xclarityone.lenovo.com
 search3.ca.lenovo.com
-cnlyncszsbs01.lenovo.com
 cnmailch05.lenovo.com
 downloads.uds.lenovo.com
 apps.cochat-2.lenovo.com
@@ -2484,7 +2434,6 @@ tools.euwe1.uds-stage.lenovo.com
 mobile.dlms.lenovo.com
 naea3.holo-one-dev.lenovo.com
 oobe.holo-one-dev.lenovo.com
-www.brain.lenovo.com
 yihuuat.lenovo.com
 thinkreality-dev.lenovo.com
 lpht.lec.lenovo.com
@@ -2575,7 +2524,6 @@ sxm.eu.lenovo.com
 api01.bigip.lenovo.com
 enterprise.lenovo.com
 ise-cnpek01-psn03.lenovo.com
-www.targets.lenovo.com
 tv.lenovo.com
 tms.bigip.lenovo.com
 start.gb.lenovo.com
@@ -2600,7 +2548,7 @@ media.euwe1.holo-one.lenovo.com
 prep-dcsc.lenovo.com
 timis.edu.lenovo.com
 www-beta.lenovo.com
-www.paipai.lenovo.com
+paipai.lenovo.com
 ovp.gtm.lenovo.com
 rem-gateway-hml.lenovo.com
 test.euv.lenovo.com
@@ -2679,7 +2627,6 @@ healthiot.lenovo.com
 store.appcloud.lenovo.com
 ise-cnpek01-mnt01.lenovo.com
 pas.euwe1.uds.lenovo.com
-www.trk.ecomm.lenovo.com
 io.gdi.lenovo.com
 rolandberger.relmeetingapp.lenovo.com
 dev-vpn.ccg.lenovo.com
@@ -2696,7 +2643,6 @@ ss.lenovo.com
 test.codata.lenovo.com
 test2.wxplatform.lenovo.com
 threseller.partnerhub.lenovo.com
-www.products.lenovo.com
 alitestnew123.partnerhub.lenovo.com
 dkhdx.lenovo.com
 presence.naea1.holo-one.lenovo.com
@@ -2711,7 +2657,7 @@ prep-ludp.lenovo.com
 apfepl02.lenovo.com
 uat-dcsc.lenovo.com
 vpn229.eu.lenovo.com
-www.futurecenter.lenovo.com
+futurecenter.lenovo.com
 ic239.eu.lenovo.com
 ns2.lenovo.com
 qdts-hk.lenovo.com
@@ -2731,7 +2677,6 @@ catalog.lenovo.com
 datashark.lenovo.com
 earth-sy.xpaas.gtm.lenovo.com
 app2.qliksense.lenovo.com
-login.shopap.lenovo.com
 qas-c-hybris.lcf5.lenovo.com
 startpage.uk.lenovo.com
 artifactory.tc-dev.lenovo.com
@@ -2776,7 +2721,6 @@ api01-test.lenovo.com
 cms.naea1.uds-qa.lenovo.com
 ec.ocean.lenovo.com
 internal.idp.nonprod.xclarityone.lenovo.com
-vantagestore.lenovo.com
 anz.moli.lenovo.com
 info-americas.lenovo.com
 n.lenovo.com
@@ -2801,7 +2745,6 @@ artifactory-eu-edge.tc-dev.lenovo.com
 bamboo1.labs.lenovo.com
 clever-edu.naea1.uds-stage.lenovo.com
 f5-us01.gtm.lenovo.com
-apfepl01.lenovo.com
 lscs-dev.dev.cloud.lenovo.com
 qa1-xclarityone.lenovo.com
 cn.sso.lenovo.com
@@ -2881,7 +2824,6 @@ enews.lenovo.com
 infoboard.csw.lenovo.com
 politemailanalytics.lenovo.com
 webmail-load.naea1.uds-qa.lenovo.com
-www.techtoday.lenovo.com
 rs.lenovo.com
 rsdsecure-test.lenovo.com
 session.naea1.holo-one.lenovo.com
@@ -2892,7 +2834,6 @@ xcc-7d2x-j901e7ca.lenovo.com
 cnvpnise3595-01.lenovo.com
 ema.naea1.uds-sse.lenovo.com
 static.dd.lenovo.com
-www.ms.lenovo.com
 asp.servicetools.lenovo.com
 portal-platform.naea1.uds.lenovo.com
 rtl.lenovo.com
@@ -2991,9 +2932,6 @@ cpcd.lenovo.com
 auth.uds-qa.lenovo.com
 thinkpad.lenovo.com
 smmp.lenovo.com
-www.precious.lenovo.com
-www.analytics.lenovo.com
-www.prod.online.lenovo.com
 spf.pfpool.lenovo.com
 kf.cube.lenovo.com
 customer-tst.lenovo.com
@@ -3011,9 +2949,6 @@ jp.lenovo.com
 staging-marketplace-templates.cp.lenovo.com
 aidashboard.lenovo.com
 pic.shop.lenovo.com
-*.tc.lenovo.com
-*.artifactory.tc.lenovo.com
-*.lenovo.com
 skreseller.partnerhub.lenovo.com
 external.sit.xclarityone.lenovo.com
 external.dev.xclarityone.lenovo.com
@@ -3022,7 +2957,3 @@ lph.lenovo.com
 srmscp.lenovo.com
 uspre-llm.lena.lenovo.com
 1234macaotestresellerportal.partnerhub.lenovo.com
-*.uds-pen.lenovo.com
-*.naea1.uds-pen.lenovo.com
-*.uds-perf.lenovo.com
-*.naea1.uds-perf.lenovo.com

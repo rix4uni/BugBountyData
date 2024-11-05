@@ -29,7 +29,6 @@ warehouse.quickbox.com
 wms-qa.quickbox.com
 wms.quickbox.com
 wmstools.quickbox.com
-www.quickbox.com
 connect.quickbox.com
 hi.quickbox.com
 mail.dev.quickbox.com
@@ -40,12 +39,3 @@ mail.staging.quickbox.com
 server.quickbox.com
 staging.quickbox.com
 wms-dev.quickbox.com
-www.afacceptance.quickbox.com
-www.dev.quickbox.com
-www.login.quickbox.com
-www.old.quickbox.com
-www.orderstatus.quickbox.com
-www.server.quickbox.com
-www.staging.quickbox.com
-www.tpkns.quickbox.com
-www.warehouse.quickbox.com

@@ -3,7 +3,7 @@ local.webhooks.glidr.io
 o1.em.glidr.io
 help.glidr.io
 passive.dev-1.glidr.io
-www.ww2.glidr.io
+ww2.glidr.io
 enterprise.glidr.io
 testing.glidr.io
 prod.glidr.io
@@ -11,7 +11,7 @@ citi.glidr.io
 staging-api.glidr.io
 sandbox1.glidr.io
 sandbox3.glidr.io
-www.dev-1.glidr.io
+dev-1.glidr.io
 airops.glidr.io
 launchpadcentral.glidr.io
 passive.glidr.io
@@ -24,11 +24,9 @@ new.glidr.io
 app.passive.glidr.io
 gitlab.glidr.io
 operations.glidr.io
-www.glidr.io
 dev.glidr.io
 dev-api.new.glidr.io
 app.subdomain.glidr.io
-dev-1.glidr.io
 local.glidr.io
 subdomain.glidr.io
 webhooks.glidr.io
@@ -39,16 +37,13 @@ glidr.glidr.io
 citi-api.citi.glidr.io
 testenterprise.glidr.io
 webhooks.dev.glidr.io
-www.blog.glidr.io
 sandbox4.glidr.io
 psmaaustralia.glidr.io
 staging.glidr.io
 app.glidr.io
 stage.glidr.io
 sandbox2.glidr.io
-ww2.glidr.io
 cititest.glidr.io
 playground.glidr.io
 app.passive.dev-1.glidr.io
 app.passive.production.dev-1.glidr.io
-*.dev-1.glidr.io

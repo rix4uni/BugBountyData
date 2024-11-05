@@ -6,7 +6,6 @@ billing.satellite.me
 admin2.satellite.me
 admin.satellite.me
 account.satellite.me
-www.satellite.me
 admin.dev.satellite.me
 staging.satellite.me
 holodeck.satellite.me
@@ -16,18 +15,15 @@ landing.satellite.me
 changelog.satellite.me
 gruppen.satellite.me
 business.satellite.me
-www.business.satellite.me
 group.satellite.me
 help.satellite.me
 status.satellite.me
 statusdev.satellite.me
 open.satellite.me
 app.satellite.me
-www.api.satellite.me
 api.satellite.me
-www.blog.satellite.me
+blog.satellite.me
 dev.satellite.me
 admin-new.satellite.me
-blog.satellite.me
 console.satellite.me
 auth.satellite.me

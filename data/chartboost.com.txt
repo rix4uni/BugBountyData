@@ -1,9 +1,8 @@
 admin-gke.chartboost.com
 docs-staging.chartboost.com
-*.chartboost.com
-*.auction.mediation-sdk.chartboost.com
-*.mediation-sdk.chartboost.com
-*.monetization-sdk.chartboost.com
+auction.mediation-sdk.chartboost.com
+mediation-sdk.chartboost.com
+monetization-sdk.chartboost.com
 webflow-marketing.chartboost.com
 live.chartboost.com
 status.chartboost.com
@@ -30,7 +29,6 @@ components.chartboost.com
 creatives.chartboost.com
 admin.chartboost.com
 helium-api.chartboost.com
-www.chartboost.com
 da.chartboost.com
 da.monetization-sdk.chartboost.com
 tracking-da.monetization-sdk.chartboost.com
@@ -94,7 +92,6 @@ chili.chartboost.com
 pizza.chartboost.com
 popcorn-blue.chartboost.com
 popcorn.chartboost.com
-www.engineering.chartboost.com
 aks-test-3.chartboost.com
 le-tester.chartboost.com
 info.chartboost.com
@@ -103,4 +100,3 @@ cpanel.chartboost.com
 mail.chartboost.com
 webdisk.chartboost.com
 webmail.chartboost.com
-www.answers.chartboost.com

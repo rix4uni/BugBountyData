@@ -12,7 +12,6 @@ guides.chorus.one
 graphql.chorus.one
 support.chorus.one
 dev.opus.chorus.one
-www.chorus.one
 terra.chorus.one
 d00.dev.hopper.chorus.one
 p02.prod.opus.chorus.one
@@ -33,4 +32,3 @@ thegraph.chorus.one
 prod.opus.chorus.one
 staging.opus.chorus.one
 blog.chorus.one
-*.chorus.one

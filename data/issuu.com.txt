@@ -244,7 +244,6 @@ upload.issuu.com
 request.issuu.com
 e.issuu.com
 page.issuu.com
-www.issuu.com
 content.issuu.com
 static.issuu.com
 document.issuu.com
@@ -252,11 +251,8 @@ image.issuu.com
 skin.issuu.com
 bounces.issuu.com
 lite.issuu.com
-www.blog.issuu.com
-www.vpn.issuu.com
 zendesk1.issuu.com
 zendesk2.issuu.com
-*.issuu.com
 api-fastly.issuu.com
 darko.issuu.com
 darko2.issuu.com

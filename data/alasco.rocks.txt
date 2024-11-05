@@ -102,12 +102,6 @@ app-bug-bounty.alasco.rocks
 api-staging.alasco.rocks
 branding-bug-bounty.alasco.rocks
 api-docs.alasco.rocks
-*.alasco.rocks
-*.staging.alasco.rocks
-*.internal.alasco.rocks
-*.dev.alasco.rocks
-*.prod.alasco.rocks
-*.demo.alasco.rocks
 apinodetemp-storage.dev.alasco.rocks
 branding.alasco.rocks
 insightvm.alasco.rocks
@@ -116,7 +110,6 @@ metabase.alasco.rocks
 rabbitmq.alasco.rocks
 static-staging.alasco.rocks
 webpublicww.login.alasco.rocks
-www.alasco.rocks
 web191415.alasco.rocks
 metabase-db.alasco.rocks
 rds.alasco.rocks

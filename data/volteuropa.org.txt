@@ -57,7 +57,6 @@ deventer.volteuropa.org
 admin.status.volteuropa.org
 utrecht.volteuropa.org
 foodvalley.volteuropa.org
-www.volteuropa.org
 staging.store.web.volteuropa.org
 prometheus-grafana-prometheus-ovh.teleport.volteuropa.org
 beta.volteuropa.org
@@ -83,7 +82,7 @@ alertmanager-operated-prometheus-ovh.teleport.volteuropa.org
 ireland.staging.volteuropa.org
 eur.pages.volteuropa.org
 merch.volteuropa.org
-www.my.volteuropa.org
+my.volteuropa.org
 edge-proxy.volteuropa.org
 nl.pages.volteuropa.org
 enschede.volteuropa.org
@@ -96,7 +95,6 @@ tracking.volteuropa.org
 delft.volteuropa.org
 suitecrm-https-suitecrm-ovh.teleport.volteuropa.org
 storage.volteuropa.org
-www.merch.volteuropa.org
 test.volteuropa.org
 austria.staging.volteuropa.org
 dashboard.innovation.volteuropa.org
@@ -117,7 +115,6 @@ malta.staging.volteuropa.org
 croatia.staging.volteuropa.org
 ideabox.volteuropa.org
 app-antragsgruen-ovh.teleport.volteuropa.org
-my.volteuropa.org
 fundraising.volteuropa.org
 nederland.staging.volteuropa.org
 sverige.staging.volteuropa.org

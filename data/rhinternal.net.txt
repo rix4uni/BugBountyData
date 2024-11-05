@@ -123,8 +123,6 @@ vault.loadtest.rhinternal.net
 wallet.dev.rhinternal.net
 webapp.dev.rhinternal.net
 webhooks.apollo.rhinternal.net
-www.dev.rhinternal.net
-www.foo.rhinternal.net
 47.apollo.rhinternal.net
 coder.rde.rhinternal.net
 guestbook.dev.rhinternal.net
@@ -802,7 +800,6 @@ confluent-broker-rest-server.dev.rhinternal.net
 101.apollo.rhinternal.net
 build-metadata-service.build.rhinternal.net
 brammermap.kcprofessional.co.uk.apollo.rhinternal.net
-www.rhinternal.net
 dr.kcinternaljobs.co.uk.apollo.rhinternal.net
 admin-buildbarn.build.rhinternal.net
 ecr-proxy.build.rhinternal.net

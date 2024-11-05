@@ -1,4 +1,4 @@
-www.images.google.com.py
+images.google.com.py
 ads.google.com.py
 mail.google.com.py
 workspace.google.com.py
@@ -6,7 +6,6 @@ cse.google.com.py
 apps.google.com.py
 bks7.books.google.com.py
 chrome.google.com.py
-images.google.com.py
 bks2.books.google.com.py
 marketingplatform.google.com.py
 maps.google.com.py
@@ -15,12 +14,11 @@ bks1.books.google.com.py
 bks6.books.google.com.py
 photos.google.com.py
 translate.google.com.py
-www.maps.google.com.py
 picasa.google.com.py
 adssettings.google.com.py
 admob.google.com.py
 store.google.com.py
-www.adservice.google.com.py
+adservice.google.com.py
 toolbarqueries.google.com.py
 video.google.com.py
 image.google.com.py
@@ -30,7 +28,6 @@ m.google.com.py
 assistant.google.com.py
 blogsearch.google.com.py
 clients6.google.com.py
-adservice.google.com.py
 ampcid.google.com.py
 scholar.google.com.py
 earth.google.com.py
@@ -52,11 +49,9 @@ shopping.google.com.py
 bks4.books.google.com.py
 bks9.books.google.com.py
 lens.google.com.py
-www.google.com.py
 accounts.google.com.py
 consent.google.com.py
 edu.google.com.py
 books.google.com.py
 plus.google.com.py
 gg.google.com.py
-*.google.com.py

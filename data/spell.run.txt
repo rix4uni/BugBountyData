@@ -1,4 +1,3 @@
-*.spell.run
 admin.spell.run
 alpha.spell.run
 api.spell.run
@@ -28,7 +27,6 @@ sales.spell.run
 vpn.spell.run
 vpn2.spell.run
 web.spell.run
-www.spell.run
 piwik.dev-horizon.spell.run
 medialand.dev-horizon.spell.run
 piwik.community.spell.run

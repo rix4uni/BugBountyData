@@ -1,17 +1,10 @@
 remote.pd3.action1.com
-*.remote.pd3.action1.com
 backend.pd3.action1.com
-*.backend.pd3.action1.com
 remote.pd1.action1.com
-*.remote.pd1.action1.com
 backend.pd1.action1.com
-*.backend.pd1.action1.com
 app.pd1.action1.com
-*.app.pd1.action1.com
 app.pd3.action1.com
-*.app.pd3.action1.com
 app.ip1.action1.com
-www.dev.action1.com
 dev.action1.com
 status.action1.com
 appstatic-odd.action1.com
@@ -23,9 +16,7 @@ go.action1.com
 web.action1.com
 on.action1.com
 backend-prod.action1.com
-www.web.action1.com
 backend.ip1.action1.com
-www.action1.com
 appstatic.action1.com
 eu-cdn.action1.com
 me.remote.app.action1.com
@@ -33,7 +24,7 @@ app.au.action1.com
 a1-frontend-prod-odd.eu.action1.com
 a1-frontend-prod-even.eu.action1.com
 appstatic-dev.action1.com
-www.server.action1.com
+server.action1.com
 backend.au.action1.com
 remote.au.action1.com
 ea.remote.app.action1.com
@@ -50,7 +41,6 @@ srv3.action1.com
 backend-prod-odd.action1.com
 a1-frontend-prod-even.action1.com
 app-dev2.action1.com
-www.app-dev.action1.com
 remote.app-dev3.action1.com
 remote.app.action1.com
 a1-frontend-prod-odd.action1.com
@@ -68,11 +58,9 @@ vpn.action1.com
 app.test.action1.com
 remote.test.action1.com
 status-ap-southeast-2.action1.com
-server.action1.com
 relay.action1.com
 backend.pd2.action1.com
 remote.action1.com
-www.relay.action1.com
 remote.pd2.action1.com
 eu.remote.app.action1.com
 a1-server-prod-even.action1.com

@@ -1,4 +1,3 @@
-*.mcdelivery.co.in
 api.mcdelivery.co.in
 backoffice.mcdelivery.co.in
 be.mcdelivery.co.in
@@ -10,7 +9,6 @@ oms.mcdelivery.co.in
 restaurants.mcdelivery.co.in
 services.mcdelivery.co.in
 uat.mcdelivery.co.in
-www.mcdelivery.co.in
 aggregator.mcdelivery.co.in
 aggregator.uat.mcdelivery.co.in
 api.uat.mcdelivery.co.in
@@ -25,7 +23,6 @@ uat.backoffice.mcdelivery.co.in
 v2api.mcdelivery.co.in
 web.uat.mcdelivery.co.in
 webbr.mcdelivery.co.in
-www.locateme.mcdelivery.co.in
 webbr.uat.mcdelivery.co.in
 mobapi.mcdelivery.co.in
 uat.msite.mcdelivery.co.in

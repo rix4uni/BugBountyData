@@ -1,6 +1,6 @@
 api.carbon.aussiebroadband.com.au
 static1.aussiebroadband.com.au
-www.lnk.aussiebroadband.com.au
+lnk.aussiebroadband.com.au
 owa.team.aussiebroadband.com.au
 ava.aussiebroadband.com.au
 cvcs.aussiebroadband.com.au
@@ -17,7 +17,6 @@ webmail.aussiebroadband.com.au
 partners.aussiebroadband.com.au
 staging-origin-auth.aussiebroadband.com.au
 autodiscover.aussiebroadband.com.au
-www.aussiebroadband.com.au
 cpanel.aussiebroadband.com.au
 testacs.aussiebroadband.com.au
 speed.ade.aussiebroadband.com.au
@@ -74,7 +73,6 @@ lg-mel.aussiebroadband.com.au
 ex01.team.aussiebroadband.com.au
 members.aussiebroadband.com.au
 fetchtv-notifications.aussiebroadband.com.au
-www.cpanel.aussiebroadband.com.au
 stg.aussiebroadband.com.au
 k8snetbox.aussiebroadband.com.au
 platinum.aussiebroadband.com.au
@@ -120,7 +118,6 @@ dnscache2.aussiebroadband.com.au
 portal.business.aussiebroadband.com.au
 dnscache1.aussiebroadband.com.au
 services-mel.aussiebroadband.com.au
-www.iridium.aussiebroadband.com.au
 pax.aussiebroadband.com.au
 lg-per.aussiebroadband.com.au
 fortimanager.aussiebroadband.com.au
@@ -131,5 +128,3 @@ mercury.aussiebroadband.com.au
 prometheus-freeradius.aussiebroadband.com.au
 cloud.aussiebroadband.com.au
 tracker.aussiebroadband.com.au
-*.aussiebroadband.com.au
-*.mnss-fmg.aussiebroadband.com.au

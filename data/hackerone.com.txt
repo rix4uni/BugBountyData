@@ -1,7 +1,6 @@
 sts.hackerone.com
 docs.hackerone.com
 forwarding.hackerone.com
-www.hackerone.com
 managed.hackerone.com
 info.hackerone.com
 apis.hackerone.com
@@ -40,7 +39,6 @@ go.hackerone.com
 profile-photos-user-content.hackerone.com
 fwdkim1.hackerone.com
 fsdkim.hackerone.com
-*.hackerone.com
 _dmarc.hackerone.com
 _amazonses.hackerone.com
 cs1._domainkey.hackerone.com

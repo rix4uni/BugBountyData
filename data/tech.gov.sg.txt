@@ -41,7 +41,6 @@ v1.designsystem.tech.gov.sg
 dash.deep.tech.gov.sg
 stg.docs.developer.tech.gov.sg
 stg-portal.mash.tech.gov.sg
-www.tech.gov.sg
 test.console.dev.developer.tech.gov.sg
 launchpad-api.uat.private.data.tech.gov.sg
 argocd-dev.api.developer.tech.gov.sg
@@ -116,7 +115,6 @@ cam-api.data.tech.gov.sg
 uat.data.tech.gov.sg
 ally.tech.gov.sg
 latios-api.uat.data.tech.gov.sg
-www.hive.tech.gov.sg
 sso-test.uat.data.tech.gov.sg
 dev.admin.docs.developer.tech.gov.sg
 stg.assets.developer.tech.gov.sg
@@ -131,10 +129,9 @@ admin-dev.api.developer.tech.gov.sg
 stg.self-service.gcsoc.tech.gov.sg
 lf.thedigitalacademy.tech.gov.sg
 public.uat.data.tech.gov.sg
-www.api.developer.tech.gov.sg
+api.developer.tech.gov.sg
 dev.console.dev.developer.tech.gov.sg
 api.console.dev.developer.tech.gov.sg
-www.developer.tech.gov.sg
 aibots-api.private.data.tech.gov.sg
 services-int.api.developer.tech.gov.sg
 vue.console.dev.developer.tech.gov.sg
@@ -164,7 +161,6 @@ api.tenant.console.dev.developer.tech.gov.sg
 sso-test.launchpad.tech.gov.sg
 beta.standards.tech.gov.sg
 admin.api.developer.tech.gov.sg
-www.designsystem.tech.gov.sg
 dashboard.stg.seed.tech.gov.sg
 test.api.console.stg.developer.tech.gov.sg
 automation.stg.deep.tech.gov.sg
@@ -177,7 +173,6 @@ admin.docs.developer.tech.gov.sg
 stg.cloudscape.tech.gov.sg
 telemetry.tech.gov.sg
 v2.designsystem.tech.gov.sg
-api.developer.tech.gov.sg
 accessibility.tech.gov.sg
 ictss-standards.tech.gov.sg
 avatar-cache.launchpad.tech.gov.sg
@@ -205,7 +200,6 @@ a11y-dev.tech.gov.sg
 stg.portal.im8.tech.gov.sg
 services.api.developer.tech.gov.sg
 assets.console.stg.developer.tech.gov.sg
-www.thedigitalacademy.tech.gov.sg
 bastion.console.dev.developer.tech.gov.sg
 jts.tech.gov.sg
 spear.in.tech.gov.sg
@@ -222,19 +216,13 @@ cap-gvt-cts-dev.tech.gov.sg
 launchpad.data.tech.gov.sg
 obmgr.gcsoc.tech.gov.sg
 v1.react.designsystem.tech.gov.sg
-www.webcomponent.designsystem.tech.gov.sg
 bd77hjl.45950897m.tech.gov.sg
 csg.tech.gov.sg
 beta.tech.gov.sg
-*.vm.dev02.gto.tech.gov.sg
 vm.dev02.gto.tech.gov.sg
 vm.dev01.gto.tech.gov.sg
-*.vm.dev01.gto.tech.gov.sg
-*.vm.dev03.gto.tech.gov.sg
 vm.dev03.gto.tech.gov.sg
 cio-api-intra.data.tech.gov.sg
-*.data.tech.gov.sg
 ollama.dev.gto.tech.gov.sg
 cioo-inter-alb.data.tech.gov.sg
 ollamaplus.dev.gto.tech.gov.sg
-*.developer.tech.gov.sg

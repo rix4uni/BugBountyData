@@ -5,7 +5,7 @@ appsanywhere.fh-swf.de
 lectures.digitalfarmlab.fh-swf.de
 smartfm21-doku.cafm.fh-swf.de
 elon05.fh-swf.de
-www.fachschaft-in.fh-swf.de
+fachschaft-in.fh-swf.de
 area51.fh-swf.de
 ease.fh-swf.de
 ecampus.fh-swf.de
@@ -23,7 +23,7 @@ asta.fh-swf.de
 eduvpn.fh-swf.de
 elearning-in.fh-swf.de
 kai.fhb.fh-swf.de
-www.cvci.fh-swf.de
+cvci.fh-swf.de
 evasys.fh-swf.de
 publikationen.fhb.fh-swf.de
 login.ezproxy.fhb.fh-swf.de
@@ -31,7 +31,6 @@ download.fh-swf.de
 blog-h00.fhb.fh-swf.de
 3.fh-swf.de
 de-statista-com.ezproxy.fhb.fh-swf.de
-www.fh-swf.de
 e-learning-cv-ci.fh-swf.de
 fachschaft.fh-swf.de
 e-learning.fh-swf.de
@@ -48,7 +47,6 @@ elearning.fh-swf.de
 git.fhb.fh-swf.de
 4.fh-swf.de
 cms.fh-swf.de
-fachschaft-in.fh-swf.de
 ese-studies.fh-swf.de
 elon07.fh-swf.de
 informatik.fh-swf.de
@@ -142,7 +140,7 @@ stud-in.fh-swf.de
 servicedesk-app.its.fh-swf.de
 glog-2.its.fh-swf.de
 so-wlan-gast.its.fh-swf.de
-www.soest.fh-swf.de
+soest.fh-swf.de
 hap4-14.pcpool.fh-swf.de
 mep2-61.pcpool.fh-swf.de
 wohnzimmer.fh-swf.de
@@ -195,7 +193,7 @@ benin.digitalfarmlab.fh-swf.de
 ancalagon.its.fh-swf.de
 mep3-14.pcpool.fh-swf.de
 isp4-25.pcpool.fh-swf.de
-www.ki.fh-swf.de
+ki.fh-swf.de
 hap2-22.pcpool.fh-swf.de
 hawcdvz.dvz.fh-swf.de
 csm-server.soest.fh-swf.de
@@ -336,10 +334,9 @@ hap2-44.pcpool.fh-swf.de
 isp6-21.pcpool.fh-swf.de
 islabh200300.its.fh-swf.de
 kenya-conjoint.digitalfarmlab.fh-swf.de
-www.llm.fh-swf.de
+llm.fh-swf.de
 otrs.its.fh-swf.de
 imap.fh-swf.de
-www.informatik.fh-swf.de
 h1-pomig1-web.hv.fh-swf.de
 lizenzserver-soest.fh-swf.de
 office.physlab-fbei.fh-swf.de
@@ -402,7 +399,6 @@ mep1-21.pcpool.fh-swf.de
 mewlcl1171.dvz.fh-swf.de
 itsmx.fh-swf.de
 aaw-paging01.fh-swf.de
-cvci.fh-swf.de
 ras-gateway-04.hv.fh-swf.de
 is-gate.its.fh-swf.de
 isp1-21.pcpool.fh-swf.de
@@ -589,7 +585,6 @@ hap4-43.pcpool.fh-swf.de
 mep1-22.pcpool.fh-swf.de
 hap4-53.pcpool.fh-swf.de
 dfn024.dialin.fh-swf.de
-soest.fh-swf.de
 fbe-intern.fh-swf.de
 mach-test-web.hv.fh-swf.de
 h1-spiegel-untrusted.hv.fh-swf.de
@@ -776,7 +771,6 @@ dms-test.fh-swf.de
 hap2-do.pcpool.fh-swf.de
 isp4-do.pcpool.fh-swf.de
 pki.pkiapi-test.fh-swf.de
-www.kai.fh-swf.de
 isp6-14.pcpool.fh-swf.de
 sospos-zeugtest-db.hv.fh-swf.de
 hagegru.its.fh-swf.de
@@ -819,7 +813,7 @@ dfn031.dialin.fh-swf.de
 listenneu.fh-swf.de
 hwt.its.fh-swf.de
 i-doit.its.fh-swf.de
-www.stellen.fh-swf.de
+stellen.fh-swf.de
 isp3-32.pcpool.fh-swf.de
 mep1-m1.pcpool.fh-swf.de
 its-207.its.fh-swf.de
@@ -835,7 +829,6 @@ dfn035.dialin.fh-swf.de
 hap2-32.pcpool.fh-swf.de
 otrs-devel.fh-swf.de
 mep2-55.pcpool.fh-swf.de
-stellen.fh-swf.de
 hap1-14.pcpool.fh-swf.de
 sospos-prod-db.hv.fh-swf.de
 hap1-15.pcpool.fh-swf.de
@@ -903,7 +896,7 @@ its203.its.fh-swf.de
 mk3s-05.physlab-fbei.fh-swf.de
 fog-ha.pcpool.fh-swf.de
 dfn045.dialin.fh-swf.de
-www.karriereportal.fh-swf.de
+karriereportal.fh-swf.de
 hap2-54.pcpool.fh-swf.de
 hap4-52.pcpool.fh-swf.de
 clabsun1.meschede.fh-swf.de
@@ -929,7 +922,7 @@ hap4-64.pcpool.fh-swf.de
 dvzmg7.fh-swf.de
 itsso-b.fh-swf.de
 berben-pc.fh-swf.de
-www.meschede.fh-swf.de
+meschede.fh-swf.de
 dmsweb.fh-swf.de
 hap3-14.pcpool.fh-swf.de
 itsso247.its.fh-swf.de
@@ -985,7 +978,6 @@ radius.fh-swf.de
 harbor.ki.fh-swf.de
 login.ezproxy.kai.fh-swf.de
 hap3-52.pcpool.fh-swf.de
-ki.fh-swf.de
 dfn005.dialin.fh-swf.de
 hap3-22.pcpool.fh-swf.de
 hap1-43.pcpool.fh-swf.de
@@ -993,7 +985,6 @@ dvziswww-1.fh-swf.de
 isfwsmout.its.fh-swf.de
 soest.its.fh-swf.de
 aauth-devel.fh-swf.de
-karriereportal.fh-swf.de
 isp2-34.pcpool.fh-swf.de
 itsmx-03.fh-swf.de
 isp3-14.pcpool.fh-swf.de
@@ -1010,7 +1001,6 @@ dvzmg6.fh-swf.de
 elon10.fh-swf.de
 host-h01.fhb.fh-swf.de
 itsmx-01.fh-swf.de
-www.igreen.fh-swf.de
 doku.its.fh-swf.de
 isp5-51.pcpool.fh-swf.de
 vpu.fh-swf.de
@@ -1081,7 +1071,6 @@ dfn002.dialin.fh-swf.de
 mknas3.meschede.fh-swf.de
 mep3-12.pcpool.fh-swf.de
 its215.its.fh-swf.de
-llm.fh-swf.de
 privacyid2.fh-swf.de
 isp1-22.pcpool.fh-swf.de
 itsso246.its.fh-swf.de
@@ -1104,6 +1093,4 @@ wascho.its.fh-swf.de
 mep3-24.pcpool.fh-swf.de
 isp2-24.pcpool.fh-swf.de
 luwc0101.dvz.fh-swf.de
-meschede.fh-swf.de
 mep2-22.pcpool.fh-swf.de
-*.informatik.fh-swf.de

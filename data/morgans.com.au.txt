@@ -1,5 +1,4 @@
 researchupdates.morgans.com.au
-*.morgans.com.au
 access.morgans.com.au
 client.morgans.com.au
 stafftradingresearch.morgans.com.au
@@ -13,17 +12,15 @@ mobile.morgans.com.au
 transferdev.morgans.com.au
 transfer.morgans.com.au
 mft.morgans.com.au
-www.morgans.com.au
 researchinvoicing.morgans.com.au
 file-download-proxy-service.morgans.com.au
 file-download-proxy-service-uat.morgans.com.au
 client-uat.morgans.com.au
 mint-search.morgans.com.au
 mint.morgans.com.au
-www.conferences.morgans.com.au
+conferences.morgans.com.au
 international-research.morgans.com.au
 connect.morgans.com.au
-conferences.morgans.com.au
 apis-uat.morgans.com.au
 apis-dev.morgans.com.au
 auth-broker-uat.morgans.com.au

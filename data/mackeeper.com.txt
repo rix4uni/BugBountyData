@@ -53,7 +53,6 @@ generator.mackeeper.com
 sz.mackeeper.com
 pkg.mackeeper.com
 link.email.mackeeper.com
-www.pub-mc.mackeeper.com
 app1.account.us.mackeeper.com
 land.sz.mackeeper.com
 land.mackeeper.com
@@ -63,7 +62,7 @@ static-cdn.mackeeper.com
 account.mackeeper.com
 download.mackeeper.com
 vpn-api.mackeeper.com
-www.store.mackeeper.com
+store.mackeeper.com
 dl.mackeeper.com
 app2.at.eu.mackeeper.com
 static-account.mackeeper.com
@@ -81,8 +80,6 @@ ldr.mackeeper.com
 noreply.mackeeper.com
 manual.mackeeper.com
 api-ne.mackeeper.com
-www.mackeeper.com
-store.mackeeper.com
 crm.mackeeper.com
 assets.mackeeper.com
 app1.account.eu.mackeeper.com
@@ -94,13 +91,12 @@ mkapi.mackeeper.com
 app2.account.us.mackeeper.com
 mackeeperapp.sz.mackeeper.com
 api.mackeeper.com
-www.static.mackeeper.com
+static.mackeeper.com
 avupdate.mackeeper.com
 stage.mkapi.mackeeper.com
 download2.mackeeper.com
 mail1.mackeeper.com
 mx.mackeeper.com
-static.mackeeper.com
 support.mackeeper.com
 update.mackeeper.com
 statistic.mackeeper.com
@@ -111,13 +107,6 @@ stage.account.mackeeper.com
 test-updateav.mackeeper.com
 stage.antitheft.mackeeper.com
 bn.sz.mackeeper.com
-*.account.mackeeper.com
-*.sz.mackeeper.com
-*.mackeeper.com
-*.account.tz.mackeeper.com
-*.account.sz.mackeeper.com
-www.rdt.mackeeper.com
-*.tz.mackeeper.com
 access-acc-acc-backupsauth-antiviruspre.email.mackeeper.com
 accountauth.mackeeper.com
 adbrowser.account.mackeeper.com
@@ -415,7 +404,6 @@ wombat-tools-dub-jlb.sz.mackeeper.com
 work-67995713.mackeeper.com
 wwt.tz.mackeeper.com
 www-2april.email.mackeeper.com
-www.statistic.mackeeper.com
 wwwprdw.sz.mackeeper.com
 y40pexgtm002a.mail.mackeeper.com
 zchat.account.sz.mackeeper.com

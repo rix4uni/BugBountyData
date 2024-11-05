@@ -1,9 +1,7 @@
-www.test.argyll-bute.gov.uk
-idp.test.argyll-bute.gov.uk
 test.argyll-bute.gov.uk
+idp.test.argyll-bute.gov.uk
 app.connected.argyll-bute.gov.uk
-*.app.argyll-bute.gov.uk
-*.argyll-bute.gov.uk
+app.argyll-bute.gov.uk
 image.connected.argyll-bute.gov.uk
 exws01.argyll-bute.gov.uk
 exws02.argyll-bute.gov.uk
@@ -16,10 +14,9 @@ uc.argyll-bute.gov.uk
 wes2.argyll-bute.gov.uk
 wes.argyll-bute.gov.uk
 leon.argyll-bute.gov.uk
-www.clyde.cottage.argyll-bute.gov.uk
-www.silverbirch.argyll-bute.gov.uk
-www.willowview.argyll-bute.gov.uk
-www.argyll-bute.gov.uk
+clyde.cottage.argyll-bute.gov.uk
+silverbirch.argyll-bute.gov.uk
+willowview.argyll-bute.gov.uk
 idp.argyll-bute.gov.uk
 dwp-cis.argyll-bute.gov.uk
 parking.argyll-bute.gov.uk
@@ -56,7 +53,7 @@ fios.argyll-bute.gov.uk
 abch-psnedge02.argyll-bute.gov.uk
 abc-adfs.argyll-bute.gov.uk
 sophos-eas-edu.argyll-bute.gov.uk
-www.abpb.argyll-bute.gov.uk
+abpb.argyll-bute.gov.uk
 smtp2.argyll-bute.gov.uk
 myaccount.argyll-bute.gov.uk
 concerto.argyll-bute.gov.uk

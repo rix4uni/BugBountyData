@@ -1,4 +1,4 @@
-*.jcwa.cybercom.mil
+jcwa.cybercom.mil
 _dmarc.cybercom.mil
 autodiscover.cybercom.mil
 carp.cybercom.mil
@@ -7,7 +7,6 @@ extron-stadium-suitet.cybercom.mil
 help.roboticknight.cybercom.mil
 home.roboticknight.cybercom.mil
 jaws.cybercom.mil
-jcwa.cybercom.mil
 keycloak.roboticknight.cybercom.mil
 knowledge.roboticknight.cybercom.mil
 login.apps.cybercom.mil
@@ -30,9 +29,6 @@ subhub.roboticknight.cybercom.mil
 tatooine.cybercom.mil
 thehive.roboticknight.cybercom.mil
 wildcard-com.cybercom.mil
-www.cybercom.mil
-www.scarif.cybercom.mil
-www.yavin.cybercom.mil
 yavin.cybercom.mil
 cil.vdi.cybercom.mil
 cm.splunk.cybercom.mil

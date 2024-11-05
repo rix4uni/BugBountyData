@@ -24,7 +24,6 @@ influxdb.schoolbox.com.au
 link.schoolbox.com.au
 registry.schoolbox.com.au
 wwwdev.schoolbox.com.au
-www.payments.schoolbox.com.au
 argocd.schoolbox.com.au
 support.schoolbox.com.au
 loki.schoolbox.com.au
@@ -43,9 +42,7 @@ alpha.schoolbox.com.au
 stg.schoolbox.com.au
 static.schoolbox.com.au
 demodav.schoolbox.com.au
-www.support.schoolbox.com.au
 alphadav.schoolbox.com.au
-www.schoolbox.com.au
 success.schoolbox.com.au
 pages.schoolbox.com.au
 ist-prd.schoolbox.com.au

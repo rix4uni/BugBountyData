@@ -1,4 +1,3 @@
-*.zerodha.com
 4.zerodha.com
 aadhaar.zerodha.com
 bo.zerodha.com
@@ -55,16 +54,6 @@ websocket-test.zerodha.com
 ws.zerodha.com
 ws-mobile.zerodha.com
 ws20.zerodha.com
-www.zerodha.com
-www.bo2.zerodha.com
-www.cashier.zerodha.com
-www.mf.zerodha.com
-www.smallcase.zerodha.com
-www.stocks.zerodha.com
-www.trade.zerodha.com
-www.ws.zerodha.com
-www.ws-mobile.zerodha.com
-www.z5.zerodha.com
 z5.zerodha.com
 zaccount.zerodha.com
 kite-demo.zerodha.com
@@ -76,15 +65,12 @@ varsity-assets.zerodha.com
 q2.zerodha.com
 b.zerodha.com
 zconnect.zerodha.com
-www.support.zerodha.com
 technicals.zerodha.com
 backoffice.zerodha.com
 varsitylive.zerodha.com
 kite1.zerodha.com
 fletch.zerodha.com
-www.bo.zerodha.com
 connect.zerodha.com
-www.streak.zerodha.com
 2023-04-21-12.48.36-coin.zerodha.com
 w.zerodha.com
 listmonk.zerodha.com

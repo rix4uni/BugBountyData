@@ -1,7 +1,6 @@
 community.cap.org
 education.cap.org
 educationuat.cap.org
-*.cap.org
 dr-ext-fw01.cap.org
 uatlogin.cap.org
 thecapcmg.cap.org
@@ -19,7 +18,6 @@ apps.cap.org
 memberportalperf.cap.org
 oneloginuat.cap.org
 ebooks.cap.org
-www.cap.org
 onelogin.cap.org
 citrix1.cap.org
 annualreport.cap.org
@@ -36,12 +34,9 @@ brandmerchandise.cap.org
 infobeta.cap.org
 files.cap.org
 newsroom.cap.org
-www.newsroom.cap.org
 appsuite.cap.org
 learn.cap.org
 prdoessm.cap.org
-www.oneloginnp.cap.org
-www.tstlogin.cap.org
 tstlogin.cap.org
 pappingenius01.cap.org
 npappingenius02.cap.org
@@ -50,7 +45,6 @@ npappingenius01.cap.org
 email.cap.org
 citrixvdi.cap.org
 capnet.cap.org
-www.citrixvdi.cap.org
 webapps.cap.org
 citrix.cap.org
 laboratoryselfservice.cap.org
@@ -66,10 +60,8 @@ putlsplkfwd01.cap.org
 estoreuat.cap.org
 pappemailgwagtvm6x.cap.org
 memberportal.cap.org
-www.ebooks.cap.org
 autodiscover.cap.org
 loginuat.cap.org
-www.brandmerchandise.cap.org
 fileshare.cap.org
 pappemailgwmstvm.cap.org
 biuat.cap.org
@@ -96,14 +88,11 @@ capvpn.cap.org
 pebs0.cap.org
 sdc.cap.org
 webuat.cap.org
-www.brandmerchandiseuat.cap.org
 educationstaging.cap.org
 learning.cap.org
 laboratoryselfserviceskdn.cap.org
 vpn.cap.org
 spaces.cap.org
-www.onelogin.cap.org
-www.oneloginuat.cap.org
 ocatpproj.cap.org
 ldap2.cap.org
 pappemailgwagtvm5x.cap.org

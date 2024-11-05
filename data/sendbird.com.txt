@@ -192,7 +192,7 @@ go.sendbird.com
 status-nvirginia2.sendbird.com
 api-f076e977-f9bd-41a7-b37b-9c1bd2d0d67e.sendbird.com
 dataeng.sendbird.com
-www.vpn-us.sendbird.com
+vpn-us.sendbird.com
 api-cf-us-3.sendbird.com
 lt1.sendbird.com
 registry.sendbird.com
@@ -296,7 +296,6 @@ api-d5b36649-87d4-41f1-be41-2f5ac327e27f.sendbird.com
 phoenix.sendbird.com
 api-8c58754e-6966-44be-ba61-a598549df34a.sendbird.com
 api-8f3a8143-958f-4bee-8c54-4194e366298a.sendbird.com
-www.sendbird.com
 learn-test.sendbird.com
 dt.sendbird.com
 api-d2845744-81a3-4585-99ff-4dcabe2ca190.sendbird.com
@@ -355,7 +354,6 @@ cepext-staging.sendbird.com
 security.sendbird.com
 notifications-preprod.sendbird.com
 aichatbot.sendbird.com
-vpn-us.sendbird.com
 api-66d00543-5634-48a1-99ee-897a48dd8e8c.sendbird.com
 api-21329fe1-8660-4e67-9093-2debb1913d59.sendbird.com
 st.sendbird.com
@@ -372,7 +370,6 @@ sbpush2.sendbird.com
 ws-picpay.sendbird.com
 soleng.sendbird.com
 api-cf-eu-1.sendbird.com
-www.events.sendbird.com
 aiwidget.sample.sendbird.com
 insight.sendbird.com
 api-us-3-tls12.sendbird.com

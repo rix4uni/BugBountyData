@@ -1,6 +1,5 @@
 comms.edm.iag.com.au
 stg.payments.iag.com.au
-www.stg.payments.iag.com.au
 welcome.iag.com.au
 slack-history.iag.com.au
 vmsentry.iag.com.au
@@ -166,7 +165,6 @@ opus.iag.com.au
 extranet.iag.com.au
 roam.iag.com.au
 micro.iag.com.au
-www.iag.com.au
 cep.dev.digital.iag.com.au
 docs.iag.com.au
 apples-c-au.gslb.iag.com.au
@@ -266,19 +264,14 @@ ak-origin.security.iag.com.au
 cep.digital.iag.com.au
 asb.partnerportal.iag.com.au
 nrma.digital.iag.com.au
-www.test-developer.iag.com.au
-www.developer.iag.com.au
 businesspartner.iag.com.au
-www.businesspartner.iag.com.au
 test-waf.api.iag.com.au
-www.test-waf.api.iag.com.au
 dev-waf.api.iag.com.au
-www.dev-waf.api.iag.com.au
 nonprod.autopay.iag.com.au
 general-insurance.coles.iag.com.au
 asb.fin1.digital.iag.com.au
 lumi.dev.digital.iag.com.au
-www.autopay.iag.com.au
+autopay.iag.com.au
 edit.security.iag.com.au
 out.thevillage.iag.com.au
 asb.stg.digital.iag.com.au
@@ -287,7 +280,7 @@ asb.stg.partnerportal.iag.com.au
 sts.gslb.iag.com.au
 asb.stub.digital.iag.com.au
 dr.roam.iag.com.au
-www.roamdevmobile.iag.com.au
+roamdevmobile.iag.com.au
 appmonitor-test.iag.com.au
 asb.perf.partnerportal.iag.com.au
 asb.dev.partnerportal.iag.com.au
@@ -296,7 +289,7 @@ casi.digital.iag.com.au
 roam.gslb.iag.com.au
 asb.sit1.digital.iag.com.au
 news.iag.com.au
-www.fleetandmobility.iag.com.au
+fleetandmobility.iag.com.au
 w.iag.com.au
 cep.sita.digital.iag.com.au
 casi.dev.digital.iag.com.au
@@ -309,7 +302,6 @@ emdashboard.iag.com.au
 uat.autopay.iag.com.au
 cep.trn.digital.iag.com.au
 casi.sit.digital.iag.com.au
-www.roam.iag.com.au
 webservice.orm.iag.com.au
 uat.i90.iag.com.au
 asb.stub.partnerportal.iag.com.au
@@ -323,6 +315,6 @@ cep.tst.digital.iag.com.au
 asb.sit.partnerportal.iag.com.au
 w.orm.iag.com.au
 dev.helpalways.nrma.iag.com.au
-www.orm.iag.com.au
+orm.iag.com.au
 cep.bata.digital.iag.com.au
 asb.dev.digital.iag.com.au

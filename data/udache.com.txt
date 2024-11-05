@@ -1,7 +1,6 @@
 pre-page.udache.com
 dpush.udache.com
 hnb-router-gs-tls11-tls12-tls13.udache.com
-www.udache.com
 page-mp.udache.com
 api.udache.com
 sim05-api.udache.com
@@ -21,7 +20,7 @@ file.udache.com
 mail.udache.com
 gz01.router.udache.com
 hna-router-gs-v6tmp.udache.com
-www.static.udache.com
+static.udache.com
 ftp.udache.com
 xg.udache.com
 d-push.udache.com
@@ -37,7 +36,6 @@ dpubstatic.udache.com
 activity.udache.com
 email.udache.com
 pregspay.udache.com
-static.udache.com
 ut-static.udache.com
 pay.udache.com
 compgz.udache.com
@@ -48,8 +46,6 @@ webxstatic.udache.com
 page.udache.com
 hnb-router-gs-v6.udache.com
 ys.router.udache.com
-*.udache.com
-*.static.udache.com
 dpub.udache.com
 imap.udache.com
 invoice.udache.com

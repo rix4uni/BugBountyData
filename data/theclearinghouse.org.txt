@@ -21,7 +21,6 @@ paymentsresource-uat.theclearinghouse.org
 uat.media.theclearinghouse.org
 uid.theclearinghouse.org
 view.m.theclearinghouse.org
-www.theclearinghouse.org
 auth.theclearinghouse.org
 cid-dev.theclearinghouse.org
 cid-uat.theclearinghouse.org
@@ -46,12 +45,5 @@ uat-cm.theclearinghouse.org
 uat.theclearinghouse.org
 uid-dev.theclearinghouse.org
 uid-uat.theclearinghouse.org
-www.nych-nc1.theclearinghouse.org
-www.nych-nc2.theclearinghouse.org
-www.nych-pa1.theclearinghouse.org
-www.nych-pa2.theclearinghouse.org
-www.paymentsresource-dev.theclearinghouse.org
-www.paymentsresource-uat.theclearinghouse.org
-www.uid.theclearinghouse.org
 xconnect.auth.theclearinghouse.org
 xconnect.uat.theclearinghouse.org

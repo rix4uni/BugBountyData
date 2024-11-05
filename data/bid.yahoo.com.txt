@@ -1,24 +1,16 @@
-*.analytics.bid.yahoo.com
-*.api.bid.yahoo.com
-*.beta.bid.yahoo.com
-*.beta.billing.bid.yahoo.com
-*.bid.yahoo.com
-*.campaign.bid.yahoo.com
-*.pp.bid.yahoo.com
-*.promo.bid.yahoo.com
 analytics.bid.yahoo.com
 api.bid.yahoo.com
 beta.bid.yahoo.com
 beta.billing.bid.yahoo.com
 campaign.bid.yahoo.com
+pp.bid.yahoo.com
+promo.bid.yahoo.com
 canary-tw-billing.bid.yahoo.com
 canary-tw.cst.analytics.bid.yahoo.com
 co.bid.yahoo.com
 loadfb.bkln.bid.yahoo.com
 m.tw.bid.yahoo.com
 m.tw.search.bid.yahoo.com
-pp.bid.yahoo.com
-promo.bid.yahoo.com
 tw-beta-store.bid.yahoo.com
 tw-billing.bid.yahoo.com
 tw-new.bid.yahoo.com
@@ -122,7 +114,6 @@ webdisk.beta.bid.yahoo.com
 httppage.bid.yahoo.com
 ptw.f5.age.bid.yahoo.com
 tw.85page.bid.yahoo.com
-www.beta.bid.yahoo.com
 tw.fe.page.big.bid.yahoo.com
 f2.bid.yahoo.com
 tw.f5.bage.bid.yahoo.com
@@ -161,7 +152,6 @@ stonelone.beta.bid.yahoo.com
 tw.edit.affiliates.bid.yahoo.com
 tw.imgup.api.bid.yahoo.com
 12.beta.bid.yahoo.com
-.beta.bid.yahoo.com
 acfbb.beta.bid.yahoo.com
 tw.f2page.bid.yahoo.com
 tw.f5page.bid.yahoo.com
@@ -171,4 +161,3 @@ tw.f3.bid.yahoo.com
 tw.f5.bid.yahoo.com
 tw.f4.gage.bid.yahoo.com
 canon-di-web-tomcat-dtc-mapquest-a.beta.bid.yahoo.com
-www.bid.yahoo.com

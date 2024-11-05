@@ -23,7 +23,7 @@ beagle.k8s.test.betsharedservices.io
 horses.nps.betviewapi.green-1.k8s.betsharedservices.io
 kumara.k8s.test.betsharedservices.io
 mq.a.push.green-1.k8s.betsharedservices.io
-www.slackapps.betsharedservices.io
+slackapps.betsharedservices.io
 2.ws.nps.push.green-1.k8s.betsharedservices.io
 bobapi.test.k8s.test.betsharedservices.io
 horses.test4.betviewapi.test.k8s.test.betsharedservices.io
@@ -35,15 +35,12 @@ victory.dev.betsharedservices.io
 bmt.sportsbook.test.k8s.test.betsharedservices.io
 mq.nps.push.green-1.k8s.betsharedservices.io
 test.k8s.test.betsharedservices.io
-www.slackapps.test.betsharedservices.io
 titanic.k8s.vpcdev.test.betsharedservices.io
 westcotts.k8s.test.betsharedservices.io
 uki-automation.k8s.uki-automation.betsharedservices.io
 burgina.k8s.test.betsharedservices.io
 gravesa.k8s.test.betsharedservices.io
-slackapps.betsharedservices.io
 titanic.k8s.test.betsharedservices.io
-www.betsharedservices.io
 sonarqube.green-1.k8s.betsharedservices.io
 football-rab-pricing-stage-green.test.k8s.test.betsharedservices.io
 football-rab-pricing-dev-test4.test.k8s.test.betsharedservices.io

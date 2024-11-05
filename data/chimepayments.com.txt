@@ -1,7 +1,6 @@
 dev.chimepayments.com
 dev5.chimepayments.com
 prod.chimepayments.com
-www.chimepayments.com
 vcas.qa.chimepayments.com
 visa-gateway.qa.chimepayments.com
 ga-blue-nlb.prod.chimepayments.com
@@ -22,10 +21,7 @@ visa-gateway.prod.chimepayments.com
 ga-orange.prod.chimepayments.com
 qa.chimepayments.com
 visa-gateway.tmp-cert.chimepayments.com
-*.qa.chimepayments.com
-*.cert.chimepayments.com
 vcas.cert.chimepayments.com
-*.prod.chimepayments.com
 ga-gold.qa.chimepayments.com
 ga-orange-nlb.dev5.chimepayments.com
 ga-orange-nlb.qa.chimepayments.com

@@ -244,7 +244,6 @@ admin-pr-6049.ollie.k8s.theatlantic.com
 pr-806.accounts-api.k8s.theatlantic.com
 pr-2091.hattie-frontend.k8s.theatlantic.com
 pr-703.accounts-api.k8s.theatlantic.com
-www.login.theatlantic.com
 www2.theatlantic.com
 admin-pr-6045.ollie.k8s.theatlantic.com
 beta-triton-nginx.accounts-api.k8s.theatlantic.com
@@ -254,7 +253,7 @@ rethinkbeta.theatlantic.com
 link-stage.theatlantic.com
 infra-transportation.theatlantic.com
 pr-719.accounts-api.k8s.theatlantic.com
-www.rs-stripe.theatlantic.com
+rs-stripe.theatlantic.com
 pr-710.accounts-api.k8s.theatlantic.com
 pr-2080.hattie-frontend.k8s.theatlantic.com
 pr-6022.ollie.k8s.theatlantic.com
@@ -515,7 +514,6 @@ pr-654.accounts-api.k8s.theatlantic.com
 admin-pr-856.accounts-api.k8s.theatlantic.com
 pr-6058.ollie.k8s.theatlantic.com
 pr-695.accounts-api.k8s.theatlantic.com
-rs-stripe.theatlantic.com
 go.theatlantic.com
 admin-pr-733.accounts-api.k8s.theatlantic.com
 pr-724.accounts-api.k8s.theatlantic.com
@@ -546,7 +544,6 @@ atl-product.theatlantic.com
 live.theatlantic.com
 pr-758.accounts-api.k8s.theatlantic.com
 peoplevcancer-equity.theatlantic.com
-www.building.theatlantic.com
 amp.k8s.theatlantic.com
 admin-triton-admin.accounts-api.k8s.theatlantic.com
 admin-pr-738.accounts-api.k8s.theatlantic.com
@@ -561,7 +558,6 @@ pr-711.accounts-api.k8s.theatlantic.com
 pr-702.accounts-api.k8s.theatlantic.com
 pr-715.accounts-api.k8s.theatlantic.com
 pr-717.accounts-api.k8s.theatlantic.com
-www.theatlantic.com
 plt-363.ollie.k8s.theatlantic.com
 k8s.frontend.k8s.theatlantic.com
 pr-812.accounts-api.k8s.theatlantic.com
@@ -603,7 +599,6 @@ accounts-api.k8s.theatlantic.com
 pr-803.accounts-api.k8s.theatlantic.com
 pr-783.accounts-api.k8s.theatlantic.com
 www-stage.theatlantic.com
-www.admin.theatlantic.com
 ollie.k8s.theatlantic.com
 pr-2095.hattie-frontend.k8s.theatlantic.com
 pr-2078.hattie-frontend.k8s.theatlantic.com

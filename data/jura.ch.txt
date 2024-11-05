@@ -8,7 +8,6 @@ rcju.jura.ch
 email2.jura.ch
 servicenow-t.jura.ch
 vm-uccx-pub.jura.ch
-www.jura.ch
 adfs-t.jura.ch
 webaccess.jura.ch
 tfs.jura.ch
@@ -20,7 +19,7 @@ archivescantonales.jura.ch
 sitrf.jura.ch
 faq.jura.ch
 register.jura.ch
-www.tracking.jura.ch
+tracking.jura.ch
 identityserver.jura.ch
 geotile4.jura.ch
 geo.jura.ch
@@ -52,7 +51,6 @@ ns3.jura.ch
 forms-t.jura.ch
 connect.jura.ch
 web-backup.jura.ch
-tracking.jura.ch
 schoolvpn.edu.jura.ch
 vm-uccx-pub-ec-ms.jura.ch
 geotile2.jura.ch
@@ -146,11 +144,8 @@ vm-slx-mapfish-stage.jura.ch
 vm-slx-mapfish.jura.ch
 vm-sms-webext.jura.ch
 jurisprudence.jura.ch
-www.mail.jura.ch
-www.vpn-old.jura.ch
 apea.jura.ch
 jenovjira.jura.ch
-*.jura.ch
 arcims.jura.ch
 backup.jura.ch
 bbrs.jura.ch
@@ -196,7 +191,6 @@ jura.chwww.jura.ch
 11www.jura.ch
 cejefwww.jura.ch
 portalju.jura.ch
-www.geoportail.jura.ch
 ae.jura.ch
 ftp.jura.ch
 sdtwww.jura.ch

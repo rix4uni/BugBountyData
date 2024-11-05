@@ -1,4 +1,3 @@
-*.pcapcloud.com
 aldev.pcapcloud.com
 alight-devtrunk.pcapcloud.com
 alight-qastaging.pcapcloud.com
@@ -33,7 +32,6 @@ staging-img.pcapcloud.com
 static.pcapcloud.com
 www-blog.pcapcloud.com
 www-devtrunk.pcapcloud.com
-www.mg-mgqa-ws.pcapcloud.com
 devtrunkuse1ws.pcapcloud.com
 qastaginguse1ws.pcapcloud.com
 www-qatrunk.pcapcloud.com
@@ -53,5 +51,4 @@ kb.pcapcloud.com
 epqa-img.pcapcloud.com
 qastagingadmin.pcapcloud.com
 jenkins-nginx.pcapcloud.com
-www.pcapcloud.com
 corp.pcapcloud.com

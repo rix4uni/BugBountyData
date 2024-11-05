@@ -1,7 +1,6 @@
-www.helpsystems.com
 one-dev.helpsystems.com
 vcloud.helpsystems.com
-www.vcloudproxy.helpsystems.com
+vcloudproxy.helpsystems.com
 community.helpsystems.com
 dev.helpsystems.com
 edprvcsa01.helpsystems.com
@@ -22,7 +21,7 @@ hscommunityuat.helpsystems.com
 one-test.helpsystems.com
 password.helpsystems.com
 test.helpsystemstest2.docm.helpsystems.com
-www.ssl.helpsystems.com
+ssl.helpsystems.com
 api.one-dev.helpsystems.com
 exchange.helpsystems.com
 go.helpsystems.com
@@ -42,7 +41,6 @@ info.filecatalyst.helpsystems.com
 insiders.helpsystems.com
 qte.helpsystems.com
 qte-dev.helpsystems.com
-vcloudproxy.helpsystems.com
 communityuat.helpsystems.com
 hsdownloads.helpsystems.com
 ibmiinsiders.helpsystems.com
@@ -50,20 +48,16 @@ veenadevportal.one-dev.helpsystems.com
 uhstechdocs.helpsystems.com
 hscommunitydev.helpsystems.com
 mscrm.helpsystems.com
-ssl.helpsystems.com
-www.botstore.helpsystems.com
-www.one-test.helpsystems.com
 awsseg02.helpsystems.com
 cdn.helpsystems.com
 crm2.helpsystems.com
-www.vcloud.helpsystems.com
 awsseg01.helpsystems.com
 blog.helpsystems.com
 edprpiq01.helpsystems.com
 hermes.helpsystems.com
 static.helpsystems.com
 test.helpsystemstest3.docm.helpsystems.com
-www.hscrm.helpsystems.com
+hscrm.helpsystems.com
 rds.helpsystems.com
 content.one-dev.helpsystems.com
 deployment.one-test.helpsystems.com
@@ -86,7 +80,6 @@ one.helpsystems.com
 qte-uat.helpsystems.com
 content.one-test.helpsystems.com
 edprdct01.helpsystems.com
-hscrm.helpsystems.com
 edpritcert.helpsystems.com
 international.helpsystems.com
 virtusatest.docm.helpsystems.com

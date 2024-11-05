@@ -207,11 +207,11 @@ merchants-ru.kelkoo.com
 beta.kelkoo.com
 br-r8.glb.kelkoo.com
 se-travel.glb.kelkoo.com
-www.r.kelkoo.com
+r.kelkoo.com
 dc1-ecs-pub-ch-vip.kelkoo.com
 ca-r8.glb.kelkoo.com
 dc1-r8-pub-ru-vip.kelkoo.com
-www.br.kelkoo.com
+br.kelkoo.com
 dc1-ecs-pub-pl-vip.kelkoo.com
 dc1-net-pub-gw-03.kelkoo.com
 dc2-r8-pub-apa-vip.kelkoo.com
@@ -284,7 +284,7 @@ it-r8.aws.kelkoo.com
 dc1-net-pub2-gw-04.kelkoo.com
 nb-ecs.aws.kelkoo.com
 nl-r8.aws.kelkoo.com
-www.ads.kelkoo.com
+ads.kelkoo.com
 be-export.kelkoo.com
 dc1-ecs-pub-nb-vip.kelkoo.com
 dc1-net-pub2-lb-02.kelkoo.com
@@ -316,7 +316,6 @@ kk-data.aws.kelkoo.com
 dc1-hpcm-pub-sharpeye-vip.kelkoo.com
 dc1-pws-pub-blog-vip.kelkoo.com
 no-r8.aws.kelkoo.com
-r.kelkoo.com
 dc1-ecs-pub-pt-vip.kelkoo.com
 dc1-ecs-pub-es-vip.kelkoo.com
 dk-travel.glb.kelkoo.com
@@ -357,7 +356,6 @@ dc1-net-pub-fw-02.kelkoo.com
 uk.bck.kelkoo.com
 dc1-img-pub2-ra-vip.kelkoo.com
 it-r8.glb.kelkoo.com
-br.kelkoo.com
 fr-ecs.aws.kelkoo.com
 de-ecs.aws.kelkoo.com
 au.kelkoo.com
@@ -387,7 +385,6 @@ ru-go.aws.kelkoo.com
 dc2-net-pub-nat-office.kelkoo.com
 dc1-ecs-pub-go-vip.kelkoo.com
 dc1-hpcm-pub-widgets-vip.kelkoo.com
-www.kelkoo.com
 ironport2.kelkoo.com
 amarok.kelkoo.com
 no-go.aws.kelkoo.com
@@ -421,10 +418,9 @@ cygnus.kelkoo.com
 dc1-ecs-pub-us-vip.kelkoo.com
 dc2-r8-pub-in-vip.kelkoo.com
 merchants.kelkoo.com
-ads.kelkoo.com
 tauro.kelkoo.com
 uk-travel.glb.kelkoo.com
-www.www.kelkoo.com
+www.kelkoo.com
 dc1-hpcm-pub-ticketing-vip.kelkoo.com
 dc1-km-pub-web-vip.kelkoo.com
 dc1-net-pub-lb-vip.kelkoo.com
@@ -436,6 +432,4 @@ ru-r8.aws.kelkoo.com
 digital.kelkoo.com
 dc1-pws-pub-profile-vip.kelkoo.com
 elmundo.kelkoo.com
-*.kelkoo.com
-*.aws.kelkoo.com
 nz-go.aws.kelkoo.com

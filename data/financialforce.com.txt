@@ -8,7 +8,6 @@ jira.dev.financialforce.com
 communitylive.financialforce.com
 mkt.financialforce.com
 dev.financialforce.com
-www.financialforce.com
 confluence.dev.financialforce.com
 stash.dev.financialforce.com
 hello.financialforce.com
@@ -94,7 +93,7 @@ ci-metrics.dev.financialforce.com
 jira-upgrade.dev.financialforce.com
 stash-test.dev.financialforce.com
 test.financialforce.com
-www.vpn.financialforce.com
+vpn.financialforce.com
 clx-ffuat-dev.dev.financialforce.com
 clx-localtest3.dev.financialforce.com
 redtelephone.dev.financialforce.com
@@ -145,7 +144,6 @@ auth.ffdirectory.redtelephone.dev.financialforce.com
 auth.directory.redtelephone.dev.financialforce.com
 gophish.redtelephone.dev.financialforce.com
 0.help.financialforce.com
-www.pages.financialforce.com
 df14.financialforce.com
 loadtest.financialforce.com
 dev-api-gateway.services.financialforce.com
@@ -204,7 +202,6 @@ netsuite.financialforce.com
 jirapsademo6.dev.financialforce.com
 auth-ffdirectory.redtelephone.dev.financialforce.com
 03.help.financialforce.com
-www.video.financialforce.com
 smc-uat.dev.financialforce.com
 jira-staging-17.dev.financialforce.com
 releng-confluence-master-0.ec2.financialforce.com
@@ -242,7 +239,6 @@ orizuru.financialforce.com
 gitprime.production.dev.financialforce.com
 jira-metrics.dev.financialforce.com
 api.gateway-sandbox.dev.financialforce.com
-vpn.financialforce.com
 745.help.financialforce.com
 cdn.financialforce.com
 elk-ingestor-public.shared-services.dev.financialforce.com
@@ -255,7 +251,7 @@ jirapsademo1.staging.dev.financialforce.com
 releng-jenkins-master-6.ec2.financialforce.com
 releng-jira-master-0.ec2.financialforce.com
 releng-jira-master-7.ec2.financialforce.com
-www.register.financialforce.com
+register.financialforce.com
 clxtest.accelerate.financialforce.com
 jiraprm.dev.financialforce.com
 lyncdiscover.financialforce.com
@@ -276,7 +272,6 @@ cicd-test.work-graph-dev.dev.financialforce.com
 jirapsademo2.staging.dev.financialforce.com
 elkstaging-ingestor-public.staging.dev.financialforce.com
 jira-devops.dev.financialforce.com
-register.financialforce.com
 org-pooling-prod.dev.financialforce.com
 saql-generator-staging.dev.financialforce.com
 jirasecurity.dev.financialforce.com

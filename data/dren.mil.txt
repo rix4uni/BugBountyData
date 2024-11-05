@@ -1,9 +1,9 @@
-*.coastalimaging.erdc.dren.mil
-*.el.erdc.dren.mil
-*.erdc.dren.mil
-*.mrsi.erdc.dren.mil
-*.sms.erdc.dren.mil
-*.vtime.erdc.dren.mil
+coastalimaging.erdc.dren.mil
+el.erdc.dren.mil
+erdc.dren.mil
+mrsi.erdc.dren.mil
+sms.erdc.dren.mil
+vtime.erdc.dren.mil
 _dmarc.dren.mil
 _dmarc.erdc.dren.mil
 acas-services-east.dren.mil
@@ -113,7 +113,6 @@ cms1-wpafb.mgmt.dren.mil
 cms2-sandiego.mgmt.dren.mil
 cms2-wpafb.mgmt.dren.mil
 cmsdb-sandiego.mgmt.dren.mil
-coastalimaging.erdc.dren.mil
 cods-data-console.erdc.dren.mil
 community.vdl.afrl.dren.mil
 control-west1.vtc.dren.mil
@@ -533,7 +532,6 @@ education.erdc.dren.mil
 efcec.erdc.dren.mil
 efd.erdc.dren.mil
 egsb.el.erdc.dren.mil
-el.erdc.dren.mil
 elhub.erdc.dren.mil
 elsz-services.rdte.afrl.dren.mil
 em-jps.erdc.dren.mil
@@ -545,7 +543,6 @@ energetics.erdc.dren.mil
 eng.dren.mil
 envawards.erdc.dren.mil
 epas.erdc.dren.mil
-erdc.dren.mil
 erdc-gw1.erdc.dren.mil
 erdc-gw2.erdc.dren.mil
 erdc-lib-web.erdc.dren.mil
@@ -855,7 +852,6 @@ mobile.erdc.dren.mil
 monitoring-west.dren.mil
 moviregistration.w.dren.mil
 mpl.erdc.dren.mil
-mrsi.erdc.dren.mil
 ms-ex1vks.erdc.dren.mil
 ms-ex2vks.erdc.dren.mil
 ms-tmg1vks.erdc.dren.mil
@@ -1120,7 +1116,6 @@ smartgatepi.erdc.dren.mil
 smartgatepitest.erdc.dren.mil
 smpl-gis.erdc.dren.mil
 smpl.erdc.dren.mil
-sms.erdc.dren.mil
 smsreports.sms.erdc.dren.mil
 smtp.dren.mil
 smtp-east.dren.mil
@@ -1241,7 +1236,6 @@ vtc-servers-dse-prefix.dren.mil
 vtc-servers-dse-srx.dren.mil
 vtc-servers-dsw-prefix.dren.mil
 vtc-servers-dsw-srx.dren.mil
-vtime.erdc.dren.mil
 web-east.dren.mil
 web-extranet-east.dren.mil
 web-extranet-west.dren.mil
@@ -2280,13 +2274,7 @@ wots.el.erdc.dren.mil
 wotsdev.el.erdc.dren.mil
 wrapdev.el.erdc.dren.mil
 wspi.erdc.dren.mil
-www.dren.mil
-www.erdc.dren.mil
-www.rdte.afrl.dren.mil
-www.sdms.afrl.dren.mil
-www.sms.erdc.dren.mil
-www.vdl.afrl.dren.mil
-www.vtc.dren.mil
+sdms.afrl.dren.mil
 wwwhpc.w.dren.mil
 wwwvtcdren.w.dren.mil
 ybrvpn.dren.mil
@@ -2616,7 +2604,6 @@ ugmhpc.w.dren.mil
 uwierzytelnianie-apg.dren.mil
 ntp.dren.mil
 ldap.dren.mil
-www.chlthredds.erdc.dren.mil
 portalnavy.w.dren.mil
 mparent-dx80.vtc.dren.mil
 vtime-arcgis.erdc.dren.mil

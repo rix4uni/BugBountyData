@@ -1,6 +1,5 @@
-*.rarible.com
-*.ext.rarible.com
-*.x.rarible.com
+ext.rarible.com
+x.rarible.com
 academy.rarible.com
 api-mainnet.rarible.com
 app.rarible.com
@@ -38,8 +37,6 @@ testnet-wlbl-proxy1.ext.rarible.com
 url8842.rarible.com
 wlbl-proxy1.ext.rarible.com
 wlbl-proxy2.ext.rarible.com
-www.rarible.com
-x.rarible.com
 0-0-61.x.rarible.com
 0-48-9.x.rarible.com
 0tinzx5ctu.x.rarible.com
@@ -576,7 +573,6 @@ everis.x.rarible.com
 ewep203a.x.rarible.com
 ewr2.x.rarible.com
 example-start-clients.x.rarible.com
-ext.rarible.com
 f8cepf1i.x.rarible.com
 facade.x.rarible.com
 fada2-1.x.rarible.com
@@ -646,7 +642,6 @@ fubotv.x.rarible.com
 fudj1-1.x.rarible.com
 fuln4-2.x.rarible.com
 fval1-1.x.rarible.com
-fww.x.rarible.com
 fzadhoip.x.rarible.com
 fzoxv5pq.x.rarible.com
 g00.x.rarible.com
@@ -5228,7 +5223,6 @@ arkaine.x.rarible.com
 denites2.x.rarible.com
 manzonitree.x.rarible.com
 mintle.x.rarible.com
-*.hc.rarible.com
 atrans.x.rarible.com
 db1www.x.rarible.com
 dbms-private-ilo-nhmanvrec01.x.rarible.com

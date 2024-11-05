@@ -1,5 +1,5 @@
-*.makalu.nro.mil
-*.makalu.proj.nro.mil
+makalu.nro.mil
+makalu.proj.nro.mil
 a11cicfuw001.nro.mil
 a11cicfuw001a.nro.mil
 a11cicfuw001b.nro.mil
@@ -53,8 +53,6 @@ mail.nro.mil
 mail.dcgs.nro.mil
 mail.svc.nro.mil
 mail.testm.dcgs.nro.mil
-makalu.nro.mil
-makalu.proj.nro.mil
 mcgia-admin.landingzone.proj.nro.mil
 mcgia-admin.test.landingzone.proj.nro.mil
 mcgia1.landingzone.proj.nro.mil
@@ -153,10 +151,8 @@ westmail.nro.mil
 westvdi.nro.mil
 westvpn.nro.mil
 winsec-u1.nro.mil
-www.nro.mil
-www.dcgs.nro.mil
-www.test.landingzone.proj.nro.mil
-www.testm.dcgs.nro.mil
+test.landingzone.proj.nro.mil
+testm.dcgs.nro.mil
 a11sviwgvdns2.nro.mil
 eastvdi.nro.mil
 meetings.nro.mil
@@ -165,10 +161,9 @@ s70-fw.nro.mil
 w31sviwgipam.nro.mil
 w31sviwgvdns2.nro.mil
 w31svusgvcs001.nro.mil
-www.landingzone.proj.nro.mil
+landingzone.proj.nro.mil
 eastvdi2.nro.mil
 westvdi2.nro.mil
-testm.dcgs.nro.mil
 vxob.nro.mil
 vpn817263907.nro.mil
 tcvsite.nro.mil

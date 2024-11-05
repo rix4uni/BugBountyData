@@ -10,7 +10,7 @@ toxicity.demo.peltarion.com
 viesti.platform.peltarion.com
 swepol.research.peltarion.com
 tvv.research.peltarion.com
-www.data.peltarion.com
+data.peltarion.com
 a.azure-eu-west.platform.peltarion.com
 graphql.gcp-eu-west-1.platform.peltarion.com
 mcdermott.services.peltarion.com
@@ -46,7 +46,7 @@ excel.plugins.peltarion.com
 om.azure-eu-west.platform.peltarion.com
 service.peltarion.com
 textsimilarity.research.peltarion.com
-www.update.peltarion.com
+update.peltarion.com
 account.platform.peltarion.com
 app.azure-eu-west.staging.peltarion.com
 console2.platform.peltarion.com
@@ -61,7 +61,6 @@ k.gcp-eu-west-1.platform.peltarion.com
 api.azure-eu-west.platform.peltarion.com
 discourse.peltarion.com
 httpbin3.demo.peltarion.com
-www.blog.peltarion.com
 platform.peltarion.com
 tu.gcp-eu-west-1.platform.peltarion.com
 app.gcp-eu-west-1.platform.peltarion.com
@@ -70,10 +69,7 @@ nqrec.research.peltarion.com
 similarity53.research.peltarion.com
 textsimilarity.demo.peltarion.com
 toxicity.research.peltarion.com
-update.peltarion.com
-www.docs.peltarion.com
 087a7d30.nlp.research.peltarion.com
-data.peltarion.com
 excel.connectors.peltarion.com
 dm.gcp-eu-west-1.platform.peltarion.com
 twitter-sentiment.demo.peltarion.com
@@ -81,16 +77,13 @@ twittercs.demo.peltarion.com
 app.azure-eu-west.platform.peltarion.com
 community.peltarion.com
 dm.azure-eu-west.platform.peltarion.com
-www.shop.peltarion.com
 plugins.peltarion.com
 a.peltarion.com
 analytics-collector.platform.peltarion.com
 pages.peltarion.com
 re-training-api.peltarion.com
 s.peltarion.com
-www.doc.peltarion.com
 azure-eu-west.platform.peltarion.com
-www.peltarion.com
 app.gcp-eu-west-1.staging.peltarion.com
 l.azure-eu-west.platform.peltarion.com
 merrychristmasservice.demo.peltarion.com
@@ -2890,7 +2883,6 @@ ids-test.demo.peltarion.com
 pop-or-12.demo.peltarion.com
 payment-sentiment.demo.peltarion.com
 author-stylerestrict.demo.peltarion.com
-www.author-style.demo.peltarion.com
 httpbinstg.demo.peltarion.com
 accpop-or-rock.demo.peltarion.com
 author-test1.demo.peltarion.com
@@ -3750,7 +3742,6 @@ _hip-nat-t._udp.demo.peltarion.com
 pop-or-rock-nginx.demo.peltarion.com
 cloudfront-httpbin.demo.peltarion.com
 author-stylecfg.demo.peltarion.com
-www.pop-or-rock.demo.peltarion.com
 merrychristmassandbox.demo.peltarion.com
 junemerrychristmas.demo.peltarion.com
 c-toxicity.demo.peltarion.com
@@ -4410,7 +4401,6 @@ cloudfrontauthor-style.demo.peltarion.com
 pop-or-rock4.demo.peltarion.com
 merrychristmas12.demo.peltarion.com
 pop-or-akamai.demo.peltarion.com
-www.merrychristmas.demo.peltarion.com
 author-style-g.demo.peltarion.com
 poland-twitter-sentiment.demo.peltarion.com
 authmerrychristmas.demo.peltarion.com

@@ -5,7 +5,6 @@ homebridge.teleport.hilbrink.eu
 jan-download.hilbrink.eu
 jellyfin.hilbrink.eu
 librenms.hilbrink.eu
-www.hilbrink.eu
 sonarr.teleport.hilbrink.eu
 autodiscover.hilbrink.eu
 solaredge.hilbrink.eu
@@ -75,7 +74,6 @@ flightradar.hilbrink.eu
 multicraft.hilbrink.eu
 flextv.hilbrink.eu
 stats.hilbrink.eu
-*.hilbrink.eu
 unifivoip.teleport.hilbrink.eu
 tdarr.teleport.hilbrink.eu
 proxmox.teleport.hilbrink.eu

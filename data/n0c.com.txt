@@ -1,5 +1,4 @@
-*.n0c.com
-*.ht2-storage.n0c.com
+ht2-storage.n0c.com
 blocklist.n0c.com
 filemanager-fr.n0c.com
 hc-busywolf-eu.n0c.com
@@ -22,7 +21,6 @@ hc-purepug-eu.n0c.com
 hc-realtuna-ca.n0c.com
 hc1-ca.n0c.com
 head.n0c.com
-ht2-storage.n0c.com
 kb.n0c.com
 lau1-cloud-controller.n0c.com
 legacy-ca.n0c.com
@@ -349,10 +347,6 @@ resolver3-fr.n0c.com
 sitebuilder-ca.n0c.com
 sitebuilder-fr.n0c.com
 sx5dwo.hc1-ca.n0c.com
-www.n0c.com
-www.kb.n0c.com
-www.lau1-cloud-controller.n0c.com
-www.sx5dwo.hc1-ca.n0c.com
 builder1.n0c.com
 ftp.n0c.com
 hc-wellrat-eu.n0c.com

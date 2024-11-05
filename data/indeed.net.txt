@@ -1975,7 +1975,6 @@ wendigo.us-east-2.sandbox.qa.indeed.net
 pma.ausoff.indeed.net
 firefly.us-east-2.sandbox.stage.indeed.net
 template-service.sandbox.qa.indeed.net
-*.pages.stage.indeed.net
 code.stage.indeed.net
 registry.stage.indeed.net
 payments-risk-manager.us-east-2.sandbox.stage.indeed.net
@@ -2602,7 +2601,6 @@ grut.sandbox.indeed.net
 aus-logcache1.indeed.net
 cobra-nrt.sandbox.indeed.net
 jobsearchservice-test-global-8.sandbox.stage.indeed.net
-www.qa.indeed.net
 zuora-notification.sandbox.indeed.net
 cmi-metadata.sandbox.qa.indeed.net
 gatekeeper.sandbox.indeed.net
@@ -2717,7 +2715,6 @@ icb-markus.us-east-2.sandbox.qa.indeed.net
 phoner-admin.sandbox.qa.indeed.net
 processengine-services.sandbox.indeed.net
 smb-d2i-configuration-service.us-east-2.sandbox.qa.indeed.net
-www.qae2e.indeed.net
 email-scraper-buddy.sandbox.indeed.net
 jobsearchservice-test-eastasian-2-b.us-east-2.sandbox.stage.indeed.net
 cortex-gateway-nrt.sandbox.indeed.net
@@ -3040,7 +3037,7 @@ internal.sandbox.indeed.net
 mockingbird-dbethea-test-82.sandbox.qa.indeed.net
 elaboration-webapp.us-east-2.sandbox.qa.indeed.net
 elephant-dma-queue-producer.sandbox.indeed.net
-www.abc.indeed.net
+abc.indeed.net
 career-guide-mosaic-host-service.ap-northeast-1.sandbox.indeed.net
 syd-lb-oceania-vip.sydprod.indeed.net
 argenerator.sandbox.indeed.net
@@ -3095,7 +3092,6 @@ flex-internal-tools-qa.indeed.net
 ywing.sandbox.indeed.net
 calibrationweb.us-east-2.sandbox.indeed.net
 stargate.us-east-2.sandbox.qa.indeed.net
-www.dev.indeed.net
 gumball.sandbox.qa.indeed.net
 father.sandbox.qa.indeed.net
 jobsearchservice-test-global-4-b.sandbox.stage.indeed.net
@@ -3415,7 +3411,7 @@ mockingbird-dbethea-test-80.us-east-2.sandbox.qa.indeed.net
 roslin.sandbox.indeed.net
 sbs-app.sandbox.qa.indeed.net
 drmx-draft-jobs-mutation-api.us-east-2.sandbox.qa.indeed.net
-www.vi.is.cute.com.indeed.net
+vi.is.cute.com.indeed.net
 henson-gardener.sandbox.qa.indeed.net
 auscorp-bigiq1.indeed.net
 ads.qa.indeed.net
@@ -4200,7 +4196,6 @@ pipeline-cluster-state-testing.ca-central-1.sandbox.indeed.net
 central-aws.sandbox.qa.indeed.net
 waldorf.sandbox.qa.indeed.net
 example-ssr-webapp.sandbox.indeed.net
-www.indeed.net
 zuora-notification.sandbox.qa.indeed.net
 cpo-queue-consumer.us-east-2.sandbox.indeed.net
 sentry-relay.sandbox.qa.indeed.net
@@ -4506,7 +4501,6 @@ tophat.canary.us-east-2.sandbox.indeed.net
 uip-micro-content-jp-provider.ap-northeast-1.sandbox.indeed.net
 ord-cob1.indeed.net
 api-edu-webapp.us-east-2.sandbox.indeed.net
-*.labeler.sandbox.indeed.net
 amp-activation-service-qa.indeed.net
 ch-fr.qa.indeed.net
 cn.qa.indeed.net

@@ -28,7 +28,7 @@ finarch-blue.prod.rpay.int.roku.com
 finarch-green.prod.rpay.int.roku.com
 finarch.corp.roku.com
 mediacenter.staging.roku.com
-*.sr.roku.com
+sr.roku.com
 trclink-staging.web.roku.com
 photo-circles-service-beta.web.roku.com
 aci-svc-analytics-qa.portal.roku.com
@@ -51,14 +51,14 @@ cigars2.web.roku.com
 ads-yield-staging.portal.roku.com
 aci-svc-payment-method-staging.portal.roku.com
 gitlab-test-sandbox.tools.roku.com
-*.test-sandbox.pages.tools.roku.com
+test-sandbox.pages.tools.roku.com
 registry.gitlab-test-sandbox.tools.roku.com
 watch-staging.web.roku.com
 watch-qa.web.roku.com
 2018.5.28.portal.roku.com
-*.portal.roku.com
-*.staging.portal.roku.com
-*.qa.portal.roku.com
+portal.roku.com
+staging.portal.roku.com
+qa.portal.roku.com
 ads-yield.portal.roku.com
 aci-svc-creative-builder-staging.portal.roku.com
 plugins.qa.roku.com
@@ -73,7 +73,7 @@ ads-rad-qa.portal.roku.com
 hints.stg.voice.roku.com
 hints.us-east-1.stg.voice.roku.com
 instant-signup-beta.us-east-1.msc.roku.com
-*.pages-test-sandbox.tools.roku.com
+pages-test-sandbox.tools.roku.com
 fpt-qa.portal.roku.com
 api.us-west-2.staging.pci.aws.roku.com
 api.edge.geo.staging.rpay.roku.com
@@ -89,8 +89,7 @@ es-beacon-green.staging.rpay.int.roku.com
 es-beacon-blue.staging.rpay.int.roku.com
 es-beacon-main.staging.rpay.int.roku.com
 api.mobile.roku.com
-*.mobile.roku.com
-*.api.mobile.roku.com
+mobile.roku.com
 ads-dmp.portal.roku.com
 bdp.us-east4.de.gcp.roku.com
 bdp.de.gcp.roku.com
@@ -202,7 +201,6 @@ rpmsvc.staging.apps.aws.roku.com
 rpaymesh-device.us-east-1.prod.rpay.aws.roku.com
 identity-dev-ext.ads.roku.com
 analytics.roku.com
-www.roku.com
 cdn.tcom.ads.roku.com
 p.ads.roku.com
 rmcp-device.us-east-1.staging.pci.aws.roku.com

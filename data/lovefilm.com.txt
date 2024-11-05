@@ -78,7 +78,7 @@ vpn.lovefilm.com
 digital-qa.lovefilm.com
 germany.lovefilm.com
 schemas.lovefilm.com
-www.shop.lovefilm.com
+shop.lovefilm.com
 office.lovefilm.com
 streaming.lovefilm.com
 dispatch-preprod.lovefilm.com
@@ -94,7 +94,6 @@ static.affinion-test.lovefilm.dev3.lovefilm.com
 watchnow-dev.lovefilm.com
 blog.lovefilm.com
 sso-staging.lovefilm.com
-www.tiscali.lovefilm.com
 aaa.stargate.lovefilm.com
 developer.lovefilm.com
 dispatch.lovefilm.com
@@ -110,8 +109,6 @@ sso.lovefilm.com
 t4-atv-ext.lovefilm.com
 t10-atv-ext.lovefilm.com
 outlook.lovefilm.com
-shop.lovefilm.com
-www.lovefilm.com
 aol.lovefilm.com
 gbc1-ms-01.lovefilm.com
 intranet.lovefilm.com

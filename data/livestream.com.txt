@@ -1,6 +1,5 @@
-*.livestream.com
-*.gce.livestream.com
-*.new.livestream.com
+gce.livestream.com
+new.livestream.com
 03.livestream.com
 1.livestream.com
 212-1.livestream.com
@@ -1927,7 +1926,6 @@ fw.donations.livestream.com
 ga.donations.livestream.com
 gac-rds-external-readonly-preprod.donations.livestream.com
 gac-rds-external-readonly.donations.livestream.com
-gce.livestream.com
 gcom-product-find-dev.donations.livestream.com
 gcom-product-find-qa.donations.livestream.com
 git.donations.livestream.com
@@ -2040,7 +2038,6 @@ mx2.donations.livestream.com
 mysql.donations.livestream.com
 mywellsfargo-com.e.channel.e.channel.api.new.livestream.com
 nbaportal.livestream.com
-new.livestream.com
 new.donations.livestream.com
 news.donations.livestream.com
 nginx-newest.donations.livestream.com
@@ -2244,14 +2241,7 @@ wordpress.donations.livestream.com
 wp.donations.livestream.com
 ww.livestream.com
 ww1.donations.livestream.com
-www.livestream.com
 www-702.donations.livestream.com
-www.as.team.46.101.167.34.e.channel.e.channel.api.channel.e.channel.api.new.montrealstore.api.new.livestream.com
-www.cdn.livestream.com
-www.new.livestream.com
-www.ott-api.livestream.com
-www.team.xthestreettvlivex.e.channel.vod.donations.api.new.livestream.com
-www.try.livestream.com
 www1-b-preprod-usps-com.e.channel.api.channel.brokersstore.api.new.livestream.com
 www1.donations.livestream.com
 www2.donations.livestream.com
@@ -2640,7 +2630,6 @@ oauth.fs.livestream.com
 takedown.new.livestream.com
 vod.fs.livestream.com
 vod.new.livestream.com
-www.fs.livestream.com
 zendesk1.livestream.com
 zendesk2.livestream.com
 zendesk3.livestream.com
@@ -2717,7 +2706,7 @@ ns2-ns1-ns1-ns1-ns2-ns2-ns1-ns2-ns1-ns2-ns1-ns2-ns1.channel.livestream.com
 xaptax.e.channel.livestream.com
 xaddcx.e.channel.livestream.com
 ns1-ns1-ns2-ns1-ns2-ns2-ns2-ns1-ns1-ns1-ns2-ns2-ns2-ns1.channel.livestream.com
-www.zah-tv.livestream.com
+zah-tv.livestream.com
 xradiogiulianovax.e.channel.livestream.com
 xfdxnetbetax.e.channel.livestream.com
 sio-ssl-38.sio.new.livestream.com
@@ -2862,7 +2851,6 @@ xhoratvlivex.e.channel.livestream.com
 sio-ssl-37.sio.new.livestream.com
 xvin-livex.e.channel.livestream.com
 urlwww.livestream.com
-www.cde.livestream.com
 xhtcx.e.channel.livestream.com
 xcamilaferreirax.e.channel.livestream.com
 sio-ssl-44.sio.new.livestream.com
@@ -2967,7 +2955,7 @@ sio-ssl-56.sio.new.livestream.com
 sio-ssl-53.sio.new.livestream.com
 app-carrot.gce.livestream.com
 xnbtcx.e.channel.livestream.com
-www.vetsed.infowww.livestream.com
+vetsed.infowww.livestream.com
 xtelesismax.e.channel.livestream.com
 commission-central.livestream.com
 xietvlivex.e.channel.livestream.com

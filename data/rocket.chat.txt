@@ -23,13 +23,12 @@ bbs.rocket.chat
 jitsi.rocket.chat
 traefik.tests-a.fed.rocket.chat
 pr-32694.qa.rocket.chat
-www.reactiflux.rocket.chat
+reactiflux.rocket.chat
 pr-25701.qa.rocket.chat
 pr-26443.qa.rocket.chat
 support.rocket.chat
 carlostest2.workspaces.staging.cloud.rocket.chat
 pr-26843.qa.rocket.chat
-www.rocket.chat
 pr-27467.qa.rocket.chat
 civil808.rocket.chat
 pr-32393.qa.rocket.chat
@@ -170,7 +169,7 @@ pr-27205.qa.rocket.chat
 pr-25814.qa.rocket.chat
 farmaciaja.rocket.chat
 logs.dedicated-use1-archipelago.cloud.rocket.chat
-www.qilimbic.rocket.chat
+qilimbic.rocket.chat
 pr-28781.qa.rocket.chat
 pr-31793.qa.rocket.chat
 pr-27188.qa.rocket.chat
@@ -366,7 +365,7 @@ traefik-webinar3.rocket.chat
 iclr.rocket.chat
 cd.rocket.chat
 pr-25170.qa.rocket.chat
-www.meteor-test.rocket.chat
+meteor-test.rocket.chat
 stromantown.workspaces.staging.cloud.rocket.chat
 pr-24921.qa.rocket.chat
 elielson.workspaces.staging.cloud.rocket.chat
@@ -467,7 +466,7 @@ vtestminimum.workspaces.staging.cloud.rocket.chat
 pr-26481.qa.rocket.chat
 pr-23860.qa.rocket.chat
 tc001.workspaces.staging.cloud.rocket.chat
-www.fbintegration.rocket.chat
+fbintegration.rocket.chat
 teste12.workspaces.staging.cloud.rocket.chat
 aw.rocket.chat
 frontier.rocket.chat
@@ -638,7 +637,6 @@ use1.cloud.rocket.chat
 tests-a.fed.rocket.chat
 pr-26194.qa.rocket.chat
 cm.rocket.chat
-fbintegration.rocket.chat
 clouso.rocket.chat
 pr-24297.qa.rocket.chat
 pr-26155.qa.rocket.chat
@@ -862,7 +860,7 @@ xxxxxxx.rocket.chat
 traefik-test-2.rocket.chat
 pr-22407.qa.rocket.chat
 postgen.use1test.cloud.rocket.chat
-www.fleetcommand.rocket.chat
+fleetcommand.rocket.chat
 cloud.rocket.chat
 pr-26574.qa.rocket.chat
 auroraland.rocket.chat
@@ -1463,7 +1461,6 @@ video.rocket.chat
 testemail.workspaces.staging.cloud.rocket.chat
 pr-27475.qa.rocket.chat
 pr-26049.qa.rocket.chat
-www.qchatspace.rocket.chat
 devices.rocket.chat
 metrics.dedicated-usw1-snohomish.cloud.rocket.chat
 juliosnewtrial99.workspaces.staging.cloud.rocket.chat
@@ -2485,7 +2482,6 @@ learnearnfun.rocket.chat
 pr-31915.qa.rocket.chat
 pr-29425.qa.rocket.chat
 thanos-receiver.cloud.rocket.chat
-meteor-test.rocket.chat
 workspace73883.workspaces.staging.cloud.rocket.chat
 staging3.use1.cloud.rocket.chat
 workspace35398.workspaces.staging.cloud.rocket.chat
@@ -2645,7 +2641,6 @@ n22.use1.cloud.rocket.chat
 pr-30065.qa.rocket.chat
 workspace73983.workspaces.staging.cloud.rocket.chat
 debdut.dev.rocket.chat
-www.demo.rocket.chat
 n03.svc.cloud.rocket.chat
 traders-lounge.rocket.chat
 workspace98124.workspaces.staging.cloud.rocket.chat
@@ -2686,7 +2681,6 @@ pr-29869.qa.rocket.chat
 pr-30623.qa.rocket.chat
 pr-32499.qa.rocket.chat
 workspace40489.workspaces.staging.cloud.rocket.chat
-fleetcommand.rocket.chat
 workspace60041.workspaces.staging.cloud.rocket.chat
 pr-29162.qa.rocket.chat
 pr-29158.qa.rocket.chat
@@ -2739,7 +2733,6 @@ pr-31820.qa.rocket.chat
 pr-29685.qa.rocket.chat
 synapse.momo.writing-demo.dev.rocket.chat
 synapse.fedev.writing-demo.dev.rocket.chat
-www.partner.rocket.chat
 pr-32071.qa.rocket.chat
 vrrio.rocket.chat
 workspace94726.workspaces.staging.cloud.rocket.chat
@@ -2975,7 +2968,6 @@ keakea.workspaces.staging.cloud.rocket.chat
 pr-30489.qa.rocket.chat
 workspace14266.workspaces.staging.cloud.rocket.chat
 pr-27861.qa.rocket.chat
-www.writing-demo.dev.rocket.chat
 pr-29073.qa.rocket.chat
 pr-27753.qa.rocket.chat
 pr-30472.qa.rocket.chat

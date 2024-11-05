@@ -16,7 +16,6 @@ gslb.mtb.com
 commercialservices.mtb.com
 treasurycenter.mtb.com
 rest.gslb.mtb.com
-www.mtb.com
 mfp.gslb.mtb.com
 pfd-ciam.mtb.com
 onlinebanking.gslb.mtb.com
@@ -101,7 +100,7 @@ mills-intmtbapigtwy.mtb.com
 test00j01.mtb.com
 nastest.mtb.com
 shp.cert.mtb.com
-www.custodycwreporting.mtb.com
+custodycwreporting.mtb.com
 rsaent-bo-01.mtb.com
 featureflaggingservicepreprod-api.mtb.com
 midway.cert.mtb.com
@@ -196,7 +195,7 @@ git.prkcl.mtb.com
 mqs-1app002.prod.mtb.com
 treasurycentercert1.mtb.com
 vpn2.mtb.com
-www.drmtbapigtwy.mtb.com
+drmtbapigtwy.mtb.com
 applynowdr.gslb.mtb.com
 dpartner.mtb.com
 mload.mtb.com
@@ -206,7 +205,7 @@ understands.mtb.com
 appsist.mtb.com
 dev4auth.mtb.com
 inttestapi.dev.mtb.com
-www.test3rest.mtb.com
+test3rest.mtb.com
 listserver.mtb.com
 oos.mtb.com
 webtooldr.prod.mtb.com
@@ -215,7 +214,7 @@ pfm-1drapp001.prod.mtb.com
 cmdcert.mtb.com
 digcms-sit.dev.mtb.com
 p-prodmbx.mtb.com
-www.rewards.mtb.com
+rewards.mtb.com
 autodiscover16.mtb.com
 directconnect.mtb.com
 loadmortgage.mtb.com
@@ -257,7 +256,7 @@ hpdmdr-ext.mtb.com
 needsdr.mtb.com
 prodfixdev1auth.mtb.com
 wapnetcert.mtb.com
-www.onlinemortgage.mtb.com
+onlinemortgage.mtb.com
 access-epa.gslb.mtb.com
 certrest.mtb.com
 commercialbanking.gslb.mtb.com
@@ -266,7 +265,6 @@ iee.mtb.com
 prkcln02expyedge.mtb.com
 bank.mtb.com
 mtb-4cert-agw.mtb.com
-www.valuerewards.mtb.com
 lun-appdr.prod.mtb.com
 mbx-7mihs850.dev.mtb.com
 achorigreportdr.prod.mtb.com
@@ -274,7 +272,7 @@ enprod.mtb.com
 gcmmail16.mtb.com
 lun-appdr.mtb.com
 prodfixtest1mfp.mtb.com
-www.manx.mtb.com
+manx.mtb.com
 certmobileads.gslb.mtb.com
 insuranceanalytics.cert.mtb.com
 prkcln03expyedge.mtb.com
@@ -316,12 +314,10 @@ test1m.mtb.com
 movc.mtb.com
 externalfiles.mtb.com
 gaffes.prod.mtb.com
-www.techrecruithub.mtb.com
 sft-loadbaltest.mtb.com
 certxms-mvpn.mtb.com
 dev-loanofficers.mtb.com
 p-access-epa-601.mtb.com
-www.whatsimportant.mtb.com
 mtest4.mtb.com
 recordsarchivingtest-services.mtb.com
 vendor-mills.mtb.com
@@ -377,7 +373,7 @@ exh-1mbxxxp038.prod.mtb.com
 leafanalytics-dev.mtb.com
 lun-4app002.cert.mtb.com
 pdfgenapp.mtb.com
-www.checking.mtb.com
+checking.mtb.com
 directconnectofx.gslb.mtb.com
 loadofx.mtb.com
 cmddev.mtb.com
@@ -401,7 +397,7 @@ foro.mtb.com
 alders.prod.mtb.com
 commercialservices-mills.mtb.com
 demosist2.mtb.com
-www.go.mtb.com
+go.mtb.com
 certm.gslbextcert.mtb.com
 directconnectofx.gslbext.mtb.com
 igtapps.dev.mtb.com
@@ -409,7 +405,7 @@ nao.mtb.com
 tft-4m1bkgd401.cert.mtb.com
 certxms-mvpn-mills.mtb.com
 ed-csr-test.mtb.com
-www.cortinadobbiaco.mtb.com
+cortinadobbiaco.mtb.com
 smartspend9r2dr.mtb.com
 authoringcert.mtb.com
 commercialservicescert2.mtb.com
@@ -462,11 +458,11 @@ bpmpstest.mtb.com
 partner-new.mtb.com
 mtbmbs.mtb.com
 pqa2auth.mtb.com
-www.bonusrewards.mtb.com
+bonusrewards.mtb.com
 bill-pay-ui.apps.osepreprod.mtb.com
 dev4nao.mtb.com
 test5mfp.mtb.com
-www.mail.mtb.com
+mail.mtb.com
 pfmcert.cert.mtb.com
 pilot1resources.mtb.com
 centresuite.mtb.com
@@ -482,7 +478,6 @@ featureflagservice-api.apps.oseprod.mtb.com
 plmdscert.mtb.com
 test4rest.mtb.com
 cdn.mtb.com
-www.newsroom.mtb.com
 cert2nao.mtb.com
 certpartner-prkcl.mtb.com
 mdev3.mtb.com
@@ -502,13 +497,12 @@ tbxtest6x.dev.mtb.com
 test3auth.mtb.com
 iosmail.mtb.com
 mtbextauth.mtb.com
-www.dog.mtb.com
+dog.mtb.com
 enroll.mtb.com
 devmobilemagr.mtb.com
 test3nao.mtb.com
 throes.cert.mtb.com
 ws-wcffileservicedr.prod.mtb.com
-www.creditcard.mtb.com
 apps.mtb.com
 dev1mobilefirst.mtb.com
 partner-prkcl.gslb.mtb.com
@@ -579,8 +573,6 @@ loadauth.gslbextcert.mtb.com
 amused.cert.mtb.com
 certxms-mvpn.gslb.mtb.com
 insiderdr.mtb.com
-checking.mtb.com
-www.understands.mtb.com
 previewist2.mtb.com
 pcl-prodmbx.mtb.com
 api-4lmobl102.cert.mtb.com
@@ -605,7 +597,7 @@ caving.prod.mtb.com
 loadauth.gslb.mtb.com
 m-intcertapi.cert.mtb.com
 m-partner-602.mtb.com
-www.mortgageportal.mtb.com
+mortgageportal.mtb.com
 dev4mfp.mtb.com
 doccustodycert.gslb.mtb.com
 dr-onlinebanking.mtb.com
@@ -635,7 +627,7 @@ dehorn.prod.mtb.com
 edtest.mtb.com
 stage-promos.mtb.com
 pqa1.mtb.com
-www.dev4rest.mtb.com
+dev4rest.mtb.com
 mr.mtb.com
 access.mtb.com
 irp-1lncrsp001.prod.mtb.com
@@ -677,7 +669,6 @@ treasurycenteradmintest2.dev.mtb.com
 test2mbx.mtb.com
 certmfp.mtb.com
 elater.prod.mtb.com
-onlinemortgage.mtb.com
 pfd-ciam-cert-ns.mtb.com
 results.mtb.com
 smartspend9r2test.mtb.com
@@ -730,7 +721,6 @@ fdx-inter-cert.cldauto4.mtb.com
 proddocgen.mtb.com
 profilemgmt-api.digitalbanking.mtb.com
 stage-alwayschecking.mtb.com
-www.hsa.mtb.com
 cheeps.cert.mtb.com
 pau-7mlseng001.dev.mtb.com
 prkcl-loadrestinternal-vip.mtb.com
@@ -773,7 +763,6 @@ assetsist2.mtb.com
 cert2rm.mtb.com
 zelle-services-api.apps.osecert.mtb.com
 certauth.gslb.mtb.com
-mortgageportal.mtb.com
 pingonemtbcert.mtb.com
 pilot1finwrks.mtb.com
 lun-1rweb002.prod.mtb.com
@@ -781,7 +770,7 @@ mno.mtb.com
 p2-onlinepreprod.mtb.com
 test1mobilefirstinternal.mtb.com
 webmail.cert.mtb.com
-www.me.mft.mtb.com
+me.mft.mtb.com
 mailservices.mtb.com
 login.mtb.com
 autodiscover.mortgage.mtb.com
@@ -803,7 +792,6 @@ millsn04expyedge.mtb.com
 readiness-enrollhsa.mtb.com
 stage-asset.mtb.com
 webmail16.mtb.com
-www.commercialrewards.mtb.com
 dr-prodrm.mtb.com
 mailb.mtb.com
 prkcln04expyedge.mtb.com
@@ -814,9 +802,8 @@ mdr.mtb.com
 mft.gslb.mtb.com
 pilot1rest.mtb.com
 rac-1cmsicv002.prod.mtb.com
-www.c2c.mtb.com
+c2c.mtb.com
 loadm.mtb.com
-mail.mtb.com
 services.mtb.com
 smartspend9r2cert.mtb.com
 tbxprod6x.mtb.com
@@ -908,7 +895,6 @@ async.mtb.com
 certdocgen.mtb.com
 directconnectofx.mtb.com
 edtestsan.mtb.com
-rewards.mtb.com
 certmobilemagr.gslb.mtb.com
 certnao.gslb.mtb.com
 fta.dr.mtb.com
@@ -986,13 +972,12 @@ stoccert.mtb.com
 webmailb.mtb.com
 icmcert.mtb.com
 asset.gslb.mtb.com
-test3rest.mtb.com
 airmobilerps.mtb.com
 auth.gslb.mtb.com
 test1mfp.mtb.com
 mi.mtb.com
 login-mfe.digitalbanking.mtb.com
-www.club.mtb.com
+club.mtb.com
 appsint.mtb.com
 mtestalt2.mtb.com
 stage-bank.mtb.com
@@ -1020,7 +1005,6 @@ mcert2.mtb.com
 storefront.prod.mtb.com
 appsdev.mtb.com
 certpartner-mills.mtb.com
-custodycwreporting.mtb.com
 testlab.mtb.com
 mail16.cert.mtb.com
 sma01.gslb.mtb.com
@@ -1035,14 +1019,13 @@ vpn2-prkcl.mtb.com
 renigs.cert.mtb.com
 tbxdev6x.mtb.com
 treasurycenteradmin1.cert.mtb.com
-www.lookforward.mtb.com
+lookforward.mtb.com
 dlpmailc.mtb.com
 dev1ao.mtb.com
 pau-1mlspaz001.prod.mtb.com
 mtbmbs5.mtb.com
 pau-1mlspaz002.prod.mtb.com
 pilot1onlinebanking.mtb.com
-www.gslb.mtb.com
 certaccess-epa-new.mtb.com
 daccert.mtb.com
 irp-1lncrsp002.prod.mtb.com
@@ -1098,7 +1081,6 @@ autodiscover.prod.mtb.com
 lockboxexceptionscert.mtb.com
 m-certmtbdesktop.mtb.com
 smartspenddev.mtb.com
-drmtbapigtwy.mtb.com
 internalfiles.mtb.com
 servicesdev.mtb.com
 retake.dev.mtb.com
@@ -1106,7 +1088,6 @@ mdev2.mtb.com
 mills01pr1mlm.prod.mtb.com
 thirdpartycomplaints.gslb.mtb.com
 air.gslb.mtb.com
-dev4rest.mtb.com
 mbx-7mihs803.dev.mtb.com
 mtb-test-apimportal.mtb.com
 myhomeloan.mtb.com
@@ -1115,7 +1096,6 @@ preview.mtb.com
 azuresamlcert.mtb.com
 bpmpscert.mtb.com
 demoscert.mtb.com
-www.onlinebanking.mtb.com
 treasurycenteradmin.mtb.com
 zelle-api.mtb.com
 limuli.cert.mtb.com
@@ -1157,7 +1137,6 @@ test1rest.mtb.com
 loadm.gslb.mtb.com
 mbx-7pmfp802.dev.mtb.com
 smartspend.mtb.com
-go.mtb.com
 plmdsdr.mtb.com
 prodfixdev1nao.mtb.com
 dev4m.mtb.com
@@ -1170,13 +1149,12 @@ pilot1auth.mtb.com
 applynow.gslbext.mtb.com
 bill-pay.apps.osepreprod.mtb.com
 ddc2-prod.mtb.com
-lookforward.mtb.com
 lending.mtb.com
 test2nao.mtb.com
 partner.gslbext.mtb.com
 dev2nao.mtb.com
 mqs-7app002.cert.mtb.com
-www.fun.mtb.com
+fun.mtb.com
 assets.mtb.com
 mtbvpn2.mtb.com
 onlinelockboxdr.mtb.com
@@ -1190,7 +1168,6 @@ devmtbapigtwy.mtb.com
 loadmfp.mtb.com
 exh-1mbxxxp015.prod.mtb.com
 tft-4p1bkgd402.cert.mtb.com
-www.wcmcert.mtb.com
 bankownedproperty.mtb.com
 gcmmail.mtb.com
 millsn02expyedge.mtb.com

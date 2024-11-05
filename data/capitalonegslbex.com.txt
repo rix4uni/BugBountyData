@@ -469,7 +469,6 @@ uawcard.aws-card-dqa.capitalonegslbex.com
 cks-dev.aws-isrm-dqa.capitalonegslbex.com
 couk-ite05-shape.aws-uk-pcat1.capitalonegslbex.com
 sbao-rp-waf-preprod-west-ext.aws-cardsbb-qa.capitalonegslbex.com
-www.dev-aws-incubator-up.aws-card-dqa.capitalonegslbex.com
 auto-buying.aws-fs1-qa.capitalonegslbex.com
 locations-api-us-west-2-prod-01.aws-rb.capitalonegslbex.com
 nsb-sparklendingmobile-perf.aws-rb.capitalonegslbex.com
@@ -817,7 +816,7 @@ bergdorfgoodman.aws-card.capitalonegslbex.com
 coaf-fs-creditpull-mfe-qa.aws-fs1-qa.capitalonegslbex.com
 nsb-sparklendingmobile-east.aws-rb.capitalonegslbex.com
 verify-data-shape.aws-uk-pp.capitalonegslbex.com
-www.servicecardapply.aws-card-dqa.capitalonegslbex.com
+servicecardapply.aws-card-dqa.capitalonegslbex.com
 ease-echo-main.aws-stsd.capitalonegslbex.com
 mobile-corporatecard-rp-waf.aws-cb-core-cat1.capitalonegslbex.com
 agreements-data-prod.aws-uk.capitalonegslbex.com
@@ -1291,7 +1290,6 @@ working-america.aws-card.capitalonegslbex.com
 aws-rb.capitalonegslbex.com
 coaf-pre-approval.aws-fs1-qa.capitalonegslbex.com
 east.homepage-web.aws-stsd.capitalonegslbex.com
-servicecardapply.aws-card-dqa.capitalonegslbex.com
 static-cofi-com-p1.aws-cofi-dqa.capitalonegslbex.com
 mpass2-cdn.aws-stsd.capitalonegslbex.com
 nmcard.aws-card.capitalonegslbex.com
@@ -1445,7 +1443,7 @@ coaf-container.aws-fs1-qa.capitalonegslbex.com
 fs-vehicle-and-loan-mfe.aws-fs1-dev.capitalonegslbex.com
 sakscard.aws-card.capitalonegslbex.com
 west.reviews-forms-web-prod.aws-stsd.capitalonegslbex.com
-www.growthventuresqar53.aws-cof-innovation-qa.capitalonegslbex.com
+growthventuresqar53.aws-cof-innovation-qa.capitalonegslbex.com
 cardapp-bp.aws-uk-pcat1.capitalonegslbex.com
 fe.financial-education-web-prod.aws-stsd.capitalonegslbex.com
 menardspro.aws-card-dqa.capitalonegslbex.com
@@ -1471,12 +1469,11 @@ quotationsweb-data-qa-euw2.aws-uk-hzl.capitalonegslbex.com
 wib-qa-cdn.aws-stsd-dqa.capitalonegslbex.com
 extidentity-qa.aws-stsd-dqa.capitalonegslbex.com
 icce-cdew-east-traffic.aws-cof-cml-core-pub-cde-waf-ue1.capitalonegslbex.com
-www.growth-ventures-qa.aws-cof-st-mosaic-apps-qa-c4ml.capitalonegslbex.com
 approvl-prod-east-traffic.aws-cof-fs-core-pub-prod-waf.capitalonegslbex.com
 ascena-pong-qa-live.aws-card-dqa.capitalonegslbex.com
 atucard.aws-card-dqa.capitalonegslbex.com
 unitedincome.aws-cof-card-core-apps-prd-uinc.capitalonegslbex.com
-www.financecardapply.aws-card-dqa.capitalonegslbex.com
+financecardapply.aws-card-dqa.capitalonegslbex.com
 alpacard.aws-card-dqa.capitalonegslbex.com
 andromeda-web-prod.aws-coaf.capitalonegslbex.com
 commandcenter.aws-ito.capitalonegslbex.com
@@ -1606,7 +1603,6 @@ dcrp-shape-it.aws-stdt-qa.capitalonegslbex.com
 fatcats-web-prod.aws-stsd.capitalonegslbex.com
 wfslockbox-dcm-ext-uat-us-east-1.aws-cb-dqa.capitalonegslbex.com
 ease-qa-main.aws-st-digital-apps-pcd.capitalonegslbex.com
-financecardapply.aws-card-dqa.capitalonegslbex.com
 invoicehub.aws-ito.capitalonegslbex.com
 sbcard.aws-card.capitalonegslbex.com
 shape-slingshot.aws-cof-qa-drr-system.capitalonegslbex.com
@@ -1840,7 +1836,6 @@ cofi401k-redirect-p1.aws-cofi-dqa.capitalonegslbex.com
 ease-foxtrot-main.aws-stsd.capitalonegslbex.com
 ease-qa-main-cde.aws-stsd-dqa.capitalonegslbex.com
 east.wib-web-prod.aws-stsd.capitalonegslbex.com
-growthventuresqar53.aws-cof-innovation-qa.capitalonegslbex.com
 locations-api-us-west-2-qa-04.aws-rb-dqa.capitalonegslbex.com
 nm.aws-card.capitalonegslbex.com
 wfslockbox-dcm-ext-uat-us-west-2.aws-cb-dqa.capitalonegslbex.com
@@ -2220,7 +2215,6 @@ clip-email-waf.aws-uk.capitalonegslbex.com
 ants-sb-cf.aws-fs1-dev.capitalonegslbex.com
 kohls.aws-card.capitalonegslbex.com
 cf8e40b84d.capitalonegslbex.com
-www.aws-cof-canada-card-prod.capitalonegslbex.com
 marketing-web-ui-prod.aws-uk.capitalonegslbex.com
 kohlscreditcard.aws-card.capitalonegslbex.com
 dealernavigator-weight.aws-coaf.capitalonegslbex.com
@@ -2300,8 +2294,6 @@ walmart-primer.aws-cof-card-common-qa.capitalonegslbex.com
 walmartprimer.aws-card-dqa.capitalonegslbex.com
 walmartprimer.aws-card.capitalonegslbex.com
 walmartprimer.aws-cof-card-common-qa.capitalonegslbex.com
-www.growth-ventures-prod.aws-cof-st-mosaic-apps-prod-c4ml.capitalonegslbex.com
-www.growth-ventures-qa-cof-st-mosaic-apps-qa-c4ml.capitalonegslbex.com
 cde-spyderco-b-e-gb-r53.aws-st-digital-apps-cde.capitalonegslbex.com
 gbprod-waf-prod.aws-stsd.capitalonegslbex.com
 extidentity.aws-stsd.capitalonegslbex.com
@@ -2316,7 +2308,6 @@ ane-demo.aws-coaf-dqa.capitalonegslbex.com
 preprod-router-creditwise.aws-card-dqa.capitalonegslbex.com
 spectrum-ms.aws-stsd.capitalonegslbex.com
 dynamic-app-canada-waf-prod-us-west-2.aws-card.capitalonegslbex.com
-www.capitalonegslbex.com
 aws-st-digital-apps-cde.capitalonegslbex.com
 beta-api.aws-stsd-dqa.capitalonegslbex.com
 api-waf-cde.aws-st-cat1.capitalonegslbex.com

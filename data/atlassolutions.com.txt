@@ -331,7 +331,6 @@ mr2.app.atlassolutions.com
 emm.appvpn.app.atlassolutions.com
 app.latest.atlassolutions.com
 trc.app.atlassolutions.com
-www.atlassolutions.com
 trunkstable.atlassolutions.com
 sharepoint.clh.app.atlassolutions.com
 kdms.app.atlassolutions.com
@@ -502,7 +501,7 @@ esr.qa.app.atlassolutions.com
 germany.atlassolutions.com
 omc.dev.graph.atlassolutions.com
 atworkhomepage.app.atlassolutions.com
-www.gsc.app.atlassolutions.com
+gsc.app.atlassolutions.com
 iasq.app.atlassolutions.com
 joeaug.app.atlassolutions.com
 uatb.mifosb.app.atlassolutions.com
@@ -582,7 +581,7 @@ e3a.app.atlassolutions.com
 stg2.app.atlassolutions.com
 stl-biz-pp-sharedemail.app.atlassolutions.com
 uatcd.inf.app.atlassolutions.com
-www.isupplier.app.atlassolutions.com
+isupplier.app.atlassolutions.com
 krusty.app.atlassolutions.com
 atworkcardprofile.staging.app.atlassolutions.com
 uatb-mifosb.app.atlassolutions.com
@@ -652,8 +651,5 @@ inner.app.atlassolutions.com
 sierra.app.atlassolutions.com
 square.app.atlassolutions.com
 srv15.app.atlassolutions.com
-*.trunkstable.atlassolutions.com
-*.atlassolutions.com
-*.latest.atlassolutions.com
 ash4.atlassolutions.com
 prn1.atlassolutions.com

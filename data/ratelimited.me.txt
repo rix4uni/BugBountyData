@@ -1,4 +1,3 @@
-*.ratelimited.me
 02.ratelimited.me
 03.ratelimited.me
 13.ratelimited.me
@@ -229,9 +228,6 @@ webmail.ratelimited.me
 whm.ratelimited.me
 who.ratelimited.me
 ws.gsn.ratelimited.me
-www.ratelimited.me
-www.auth.ratelimited.me
-www.forums.ratelimited.me
 adkit-arvest.ratelimited.me
 amp-arvest.ratelimited.me
 apollo-arvest.ratelimited.me

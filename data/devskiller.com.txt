@@ -9,7 +9,6 @@ dojo.devskiller.com
 tr.devskiller.com
 badges.devskiller.com
 c.se1.ide.devskiller.com
-www.devskiller.com
 c.as1.ide.devskiller.com
 go.devskiller.com
 auth.devskiller.com
@@ -25,5 +24,4 @@ boost.devskiller.com
 stage.devskiller.com
 my-stage.devskiller.com
 click.devskiller.com
-*.devskiller.com
-*.uw2.ide.devskiller.com
+uw2.ide.devskiller.com

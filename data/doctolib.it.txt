@@ -1,6 +1,5 @@
 appo-internal-production-dongnocchi.doctolib.it
 careers.doctolib.it
-www.doctolib.it
 portal.doctolib.it
 events-logs.doctolib.it
 pro-dev.doctolib.it
@@ -49,18 +48,10 @@ preview.doctolib.it
 assets-dev.doctolib.it
 about-dev.doctolib.it
 pro.doctolib.it
-www.info.doctolib.it
 fhir-prd-aws-de-fra-1.doctolib.it
 admin-staging.doctolib.it
 api-preprod.doctolib.it
 partners-staging.doctolib.it
-*.doctolib.it
-*.integration-production.doctolib.it
-*.integration-staging.doctolib.it
-*.portal.doctolib.it
-*.portal-interf.doctolib.it
-*.portal-staging.doctolib.it
-*.preview.doctolib.it
 dev.doctolib.it
 staging.doctolib.it
 cust51.doctolib.it
@@ -548,7 +539,6 @@ c.auth-ns.doctolib.it
 sc.doctolib.it
 servidor.doctolib.it
 documentos.doctolib.it
-www.preview.doctolib.it
 netmeeting.doctolib.it
 gallery.doctolib.it
 statusstagingproportalprom.preview.doctolib.it

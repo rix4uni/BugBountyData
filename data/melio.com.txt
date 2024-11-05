@@ -75,7 +75,6 @@ shopify-test-cf.melio.com
 staging.website.melio.com
 subscription-service-webhooks.melio.com
 support-service.melio.com
-www.melio.com
 accounting-software-api.melio.com
 accounting-software.melio.com
 alpha-accounting-software-api.melio.com
@@ -95,5 +94,3 @@ platform-storybook-dev.melio.com
 security.melio.com
 status.melio.com
 subdomain.yourdomain.com.melio.com
-www.payments.melio.com
-www.security.melio.com

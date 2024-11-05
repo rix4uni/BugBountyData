@@ -1,4 +1,3 @@
-*.torfs.be
 0.assets.torfs.be
 1.assets.torfs.be
 10.assets.torfs.be
@@ -37,10 +36,6 @@ webmail.torfs.be
 webmail2.torfs.be
 wedstrijd.torfs.be
 winkels.torfs.be
-www.torfs.be
-www.blog.torfs.be
-www.samenfit.torfs.be
-www.winkels.torfs.be
 sip.torfs.be
 feeds.torfs.be
 _sipfederationtls._tcp.torfs.be

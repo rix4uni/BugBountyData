@@ -1657,7 +1657,7 @@ mail.mail.mta-sts.mail.mta-sts.mail.mail.mail.mta-sts.mail.mail.mail.mail.mail.m
 mail.mta-sts.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.szd.probely.com
 mail.mta-sts.mail.mta-sts.mail.mta-sts.mail.mail.mta-sts.mail.mail.mail.mail.mail.szd.probely.com
 mta-sts.mail.mail.mail.mail.mail.mail.mail.mta-sts.mail.mta-sts.mail.mail.szp.probely.com
-www.blog.probely.com
+blog.probely.com
 mail.mail.mail.mta-sts.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.szd.probely.com
 mail.mail.mail.mta-sts.mail.mail.mta-sts.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.szs.probely.com
 mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mta-sts.mail.mail.mail.mail.szp.probely.com
@@ -4892,7 +4892,6 @@ mail.mail.mail.mta-sts.mail.mta-sts.mail.mta-sts.mail.mta-sts.mail.mail.mail.mai
 mail.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.mail.mta-sts.mail.mail.mail.szp.probely.com
 mail.mail.mail.mta-sts.mail.mail.mta-sts.mail.mail.mta-sts.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.szp.probely.com
 mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.mail.mail.mail.szd.probely.com
-www.probely.com
 mail.mail.mail.mail.mail.mail.mta-sts.mail.mail.mail.mail.mta-sts.mail.mail.szd.probely.com
 mail.mail.mta-sts.mail.mail.mail.mail.mta-sts.mail.mta-sts.mail.szs.probely.com
 mta-sts.mail.mail.mail.mta-sts.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.szd.probely.com
@@ -8966,7 +8965,6 @@ mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mta-sts.mail.ma
 mail.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mta-sts.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.szd.probely.com
 mta-sts.mail.mail.mail.mail.mail.mta-sts.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.szp.probely.com
 mta-sts.mail.mail.mail.mta-sts.mail.mail.mta-sts.mail.mta-sts.mail.mail.mail.mail.mail.szs.probely.com
-blog.probely.com
 mail.mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.mta-sts.mail.mail.szs.probely.com
 mail.mail.mta-sts.mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.szd.probely.com
 mail.mail.mta-sts.mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.szs.probely.com
@@ -9882,17 +9880,4 @@ mail.mail.mail.mail.mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.mail.mail.mail
 mail.mail.mail.mail.mta-sts.mail.mail.szs.probely.com
 mail.mail.mail.mta-sts.mail.mail.mail.mta-sts.mail.mta-sts.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.szd.probely.com
 mail.mail.mail.mail.mail.mail.mail.mta-sts.mail.mail.mail.mail.mta-sts.mail.mail.mail.mail.mail.mail.mail.mail.szp.probely.com
-*.corp.stg.probely.com
-*.plus.qa.probely.com
-*.plus.stg.probely.com
-*.qa.probely.com
-*.stg.eu.probely.com
-*.stg.probely.com
-*.stg.us.probely.com
-*.eu.probely.com
-*.us.probely.com
-*.corp.eu.probely.com
-*.corp.us.probely.com
-*.probely.com
-*.corp.probely.com
 api.stg.eu.probely.com

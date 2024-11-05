@@ -1,10 +1,9 @@
-*.just-eat.com
-*.cms.just-eat.com
-*.cms-nonprod.just-eat.com
-*.dev-github.just-eat.com
-*.is.just-eat.com
-*.webui.cms.just-eat.com
-*.webui.cms-nonprod.just-eat.com
+cms.just-eat.com
+cms-nonprod.just-eat.com
+dev-github.just-eat.com
+is.just-eat.com
+webui.cms.just-eat.com
+webui.cms-nonprod.just-eat.com
 acc-shop.just-eat.com
 accelerator.just-eat.com
 adfs.just-eat.com
@@ -17,9 +16,6 @@ brand-box.marketing.just-eat.com
 careers.just-eat.com
 click.email.just-eat.com
 cloudflaretest.is-staging.just-eat.com
-cms.just-eat.com
-cms-nonprod.just-eat.com
-dev-github.just-eat.com
 developers.just-eat.com
 elb-sitebuilder.just-eat.com
 email.just-eat.com
@@ -32,7 +28,6 @@ gwow-direct.just-eat.com
 ict.just-eat.com
 ictpublic.just-eat.com
 image.email.just-eat.com
-is.just-eat.com
 is-staging.just-eat.com
 join.just-eat.com
 just-data.just-eat.com
@@ -74,13 +69,8 @@ vault.just-eat.com
 vaultstore.just-eat.com
 ventures.just-eat.com
 view.email.just-eat.com
-webui.cms.just-eat.com
-webui.cms-nonprod.just-eat.com
 wiki.just-eat.com
 www.just-eat.com
-www.meet.just-eat.com
-www.staging.just-eat.com
-www.www.just-eat.com
 access.just-eat.com
 api-wte.just-eat.com
 incaptest.is-staging.just-eat.com
@@ -3565,7 +3555,7 @@ cms-nongwow.just-eat.com
 cms-softwareosoftwareprod.just-eat.com
 cms-prod-corporatefr-stage-green.just-eat.com
 qa-it-blue-australiaeasts.just-eat.com
-www.new-dragon.just-eat.com
+new-dragon.just-eat.com
 cms-qa-partnerbloguk-stage.just-eat.com
 cms-nondevops-partnerblogfr-stage-green.just-eat.com
 cms-devops-ch-bluenprod.just-eat.com
@@ -4674,7 +4664,6 @@ cms-nonprodpartnerconnectapi-production.just-eat.com
 marketingdevops-partnernl-green.just-eat.com
 cms-nonproduat-partneres-blue.just-eat.com
 cms-nonnz-partnerapi.just-eat.com
-www.jam.just-eat.com
 gh.just-eat.com
 twilioivrs-nonprod.just-eat.com
 cms-nonprod-devops-techblog-stage.just-eat.com

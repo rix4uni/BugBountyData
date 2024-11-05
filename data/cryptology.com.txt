@@ -14,7 +14,7 @@ email.cryptology.com
 mail.blog.cryptology.com
 balance-api.dev.cryptology.com
 secmon.staging.cryptology.com
-www.iphone-lottery.cryptology.com
+iphone-lottery.cryptology.com
 tomo-signer.dev.cryptology.com
 octopus.prod.cryptology.com
 static.cryptology.com
@@ -128,7 +128,6 @@ octopus-prod-ws.cryptology.com
 payments-dev-otc-pe-api-partner.cryptology.com
 partners-manager.cryptology.com
 partner.cryptology.com
-iphone-lottery.cryptology.com
 sentry.dev.cryptology.com
 bapi.cryptology.com
 admin.cryptology.com
@@ -151,7 +150,6 @@ gl-runner1.cryptology.com
 margin.cryptology.com
 pypi.cryptology.com
 mobile-api.cryptology.com
-www.cryptology.com
 1.api.staging.cryptology.com
 addons.1.sentry-prod.cryptology.com
 addon1.autodiscover.blog.cryptology.com
@@ -161,10 +159,6 @@ addon1.pypi.cryptology.com
 autodiscover.blog.cryptology.com
 collector.prod.cryptology.com
 api.prod.cryptology.com
-www.promo.cryptology.com
-www.trading-competition.cryptology.com
-www.refprogram.cryptology.com
-www.blog.cryptology.com
 crgo-1234-coin-page-design-fixes.staging.cryptology.com
 banners-admin.prod.cryptology.com
 defi-317-solana-non-custodial-staking.staging.cryptology.com
@@ -617,7 +611,6 @@ www-10wa.pages.cryptology.com
 www-52swagger.pages.cryptology.com
 www-google-co-zm02.pages.cryptology.com
 www-google-co-zm6-1.pages.cryptology.com
-www.git.cryptology.com
 ycw.pages.cryptology.com
 ygdpr.pages.cryptology.com
 yura.pages.cryptology.com
@@ -657,15 +650,6 @@ zwah1bfuel01.pages.cryptology.com
 750-63.pages.cryptology.com
 839-26.pages.cryptology.com
 958-2-9-9.pages.cryptology.com
-*.cryptology.com
-*.blog.cryptology.com
-*.dev.cryptology.com
-*.dev2.dev.cryptology.com
-*.g.cryptology.com
-*.prod.cryptology.com
-*.sandbox.cryptology.com
-*.staging.cryptology.com
-*.docs.cryptology.com
 cardpay-callback.prod.cryptology.com
 merdeka-com32.pages.cryptology.com
 135-197-241-51.pages.cryptology.com

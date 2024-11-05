@@ -487,7 +487,7 @@ wombat.stg.bol.io
 wpc.stg.bol.io
 wspc.stg.bol.io
 wst.stg.bol.io
-www.jclenv.sbx.bol.io
+jclenv.sbx.bol.io
 xavier.stg.bol.io
 xpmt-stats.stg.bol.io
 yeast.stg.bol.io
@@ -2431,7 +2431,6 @@ jcl.jclenv.sbx.bol.io
 jclapp.jclenv.sbx.bol.io
 jclenv-ew4-001.ingress-istio-internal.jclenv.sbx.bol.io
 jclenv-ew4-002.ingress-istio-internal.jclenv.sbx.bol.io
-jclenv.sbx.bol.io
 jclshop3.jclenv.sbx.bol.io
 jeb.pro.bol.io
 jeb.stg.bol.io

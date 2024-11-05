@@ -18,7 +18,7 @@ stream-hft.coindcx.com
 jupyter.coindcx.com
 chart-preprod.coindcx.com
 preproduction-pay.coindcx.com
-www.info.coindcx.com
+info.coindcx.com
 marketing.coindcx.com
 vpn-v3.coindcx.com
 test-bi.coindcx.com
@@ -34,7 +34,6 @@ preprod-xyz.coindcx.com
 apm.coindcx.com
 link.alert.coindcx.com
 docs.coindcx.com
-www.coindcx.com
 share.coindcx.com
 staging.coindcx.com
 vpn-v5.coindcx.com
@@ -44,7 +43,6 @@ link.engage.coindcx.com
 o309.e.engage.coindcx.com
 preprod-invest.coindcx.com
 preproduction.coindcx.com
-info.coindcx.com
 maintenance.coindcx.com
 support.coindcx.com
 testing-stream.coindcx.com
@@ -62,7 +60,7 @@ quality.coindcx.com
 sg.coindcx.com
 vpn.coindcx.com
 vip.coindcx.com
-www.careers.coindcx.com
+careers.coindcx.com
 testnet.coindcx.com
 preprod-pro.coindcx.com
 uat-api.coindcx.com
@@ -73,7 +71,7 @@ cdn.staging-api.coindcx.com
 images.staging-api.coindcx.com
 gateway.staging-api.coindcx.com
 alert.coindcx.com
-www.in.coindcx.com
+in.coindcx.com
 upload.coindcx.com
 bi.coindcx.com
 cdnassets.coindcx.com
@@ -95,9 +93,7 @@ engage.coindcx.com
 link.coindcx.com
 preprod-admin.coindcx.com
 info-internal.coindcx.com
-careers.coindcx.com
 analytics.coindcx.com
-in.coindcx.com
 airbyte.coindcx.com
 chart.coindcx.com
 pre-production.coindcx.com
@@ -167,21 +163,12 @@ api-tls.coindcx.com
 customer-experience-tls.coindcx.com
 customer-experience-preprod.coindcx.com
 customer-experience.coindcx.com
-*.otcdesk.coindcx.com
-*.blog.coindcx.com
-*.info.coindcx.com
-*.coindcx.com
-*.engage.coindcx.com
-*.marketing.coindcx.com
-*.staging-api.coindcx.com
-*.staging-auth.coindcx.com
 _amazonses.coindcx.com
 cdw.coindcx.com
 e.alert.coindcx.com
 fwdkim1.coindcx.com
 pm.alert.coindcx.com
 pm.engage.coindcx.com
-www.support.coindcx.com
 _dmarc.coindcx.com
 elsita.coindcx.com
 mm938.coindcx.com
@@ -522,7 +509,6 @@ aiklddnf.coindcx.com
 googlebase.coindcx.com
 romeo.coindcx.com
 kigg1012.coindcx.com
-www.marketing.coindcx.com
 pnuexam.coindcx.com
 ism.coindcx.com
 twssg.coindcx.com

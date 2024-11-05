@@ -1,39 +1,26 @@
 sko.cloudera.com
-*.dw-env-bq4wlr.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-bq4wlr.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.dw-env-q6m9mj.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-q6m9mj.xcu2-8y8x.dwx.workload-dev.cloudera.com
 flow.dev.ai.cloudera.com
-*.dw-env-z9kntd.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-z9kntd.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.dw-env-cssmzh.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-cssmzh.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.dw-env-q2xtsl.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-q2xtsl.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.dw-env-2d977d.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-2d977d.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.dw-env-hp27dp.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-hp27dp.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.api.monitoring.ap-1.cdp.mow-stage.cloudera.com
-*.dw-env-rbxsqf.xcu2-8y8x.dwx.workload-dev.cloudera.com
+api.monitoring.ap-1.cdp.mow-stage.cloudera.com
 dw-env-rbxsqf.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.dw-env-fvsgkj.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-fvsgkj.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.internal.usg-1.cdp.mow-int.cloudera.com
-www.events.cloudera.com
-*.dw-env-nmjnmx.xcu2-8y8x.dwx.workload-dev.cloudera.com
+internal.usg-1.cdp.mow-int.cloudera.com
+events.cloudera.com
 dw-env-nmjnmx.xcu2-8y8x.dwx.workload-dev.cloudera.com
 support-captain.support-aws.cloudera.com
-*.dw-env-ghjnhs.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-ghjnhs.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.internal.usg-1.cdp.mow-dev2.cloudera.com
-*.usg-1.cdp.mow-dev2.cloudera.com
-*.us-west-1.cdp.cloudera.com
-*.dw-env-p5ml7m.xcu2-8y8x.dwx.workload-dev.cloudera.com
+internal.usg-1.cdp.mow-dev2.cloudera.com
+usg-1.cdp.mow-dev2.cloudera.com
+us-west-1.cdp.cloudera.com
 dw-env-p5ml7m.xcu2-8y8x.dwx.workload-dev.cloudera.com
-*.api.monitoring.eu-1.cdp.mow-stage.cloudera.com
-*.api.monitoring.cdp.mow-stage.cloudera.com
-www.cloudera.com
+api.monitoring.eu-1.cdp.mow-stage.cloudera.com
+api.monitoring.cdp.mow-stage.cloudera.com
 www3.cloudera.com
 vision.cloudera.com
 dw-env-6f6wjt.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -168,7 +155,7 @@ dw-env-nq7rp4.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-wn6f7d.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-zkxgks.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-dmkdnm.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.aquasec.gce.cloudera.com
+aquasec.gce.cloudera.com
 dw-env-5f7qw6.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-ptsc74.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-t58jf6.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -313,7 +300,6 @@ dw-env-9wdkrv.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-2z8gct.dwx.workload-dev.cloudera.com
 env-78j784.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-n8tgzb.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-api.monitoring.ap-1.cdp.mow-stage.cloudera.com
 dw-env-fn6kfm.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-vrkt9n.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-pjm5n2.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -543,7 +529,6 @@ ccp20.exam.cloudera.com
 dw-env-2k65mx.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-thkfg2.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-zr6wbr.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-www.vision.cloudera.com
 cx105.core.cloudera.com
 cx135.core.cloudera.com
 dw-env-9chqsb.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -580,7 +565,6 @@ env-h5kxhp.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-s8rk94.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-6ctzpb.dwx.workload-int.cloudera.com
 ldap.cloudera.com
-api.monitoring.eu-1.cdp.mow-stage.cloudera.com
 dw-env-4swpcz.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-cq69bt.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-8k4jv4.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -722,7 +706,6 @@ dw-env-964s92.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-vnvr5h.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-6t8zrk.dwx-dev-public.cloudera.com
 env-hm7cp8.dwx-dev-public.cloudera.com
-www.cops.cloudera.com
 dw-env-4qfngk.xcu2-8y8x.dwx-dev-public.cloudera.com
 cx024.core.cloudera.com
 dw-env-vn9nj8.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -850,7 +833,7 @@ dw-env-q8sjtf.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-xnscct.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-glt7t2.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-nnpccp.dwx-dev-public.cloudera.com
-www.slackbot.cloudera.com
+slackbot.cloudera.com
 dw-env-s59fv5.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-xvckch.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-tzk72a.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -868,7 +851,7 @@ dw-env-9n6pvs.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-7n2bgh.dwx-dev-public.cloudera.com
 env-p7zmkv.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 learning-tools.sjc.cloudera.com
-www.wiki.cloudera.com
+wiki.cloudera.com
 csi.infra.cloudera.com
 cx116.core.cloudera.com
 env-g2fgpz.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -977,7 +960,7 @@ env-mbq4lb.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-qdh2kl.dwx.workload-int.cloudera.com
 env-rh2f4r.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-vstsp7.dwx.workload-dev.cloudera.com
-www.jira-test.cloudera.com
+jira-test.cloudera.com
 ccp16.exam.cloudera.com
 dw-env-xq44kd.xcu2-8y8x.dwx.workload-dev.cloudera.com
 web.monitoring.cdp.mow-dev.cloudera.com
@@ -1109,7 +1092,6 @@ dw-env-zgwfs4.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-dstn6j.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-b4s8rn.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-wvw8xh.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-slackbot.cloudera.com
 dw-env-l9pzlv.xcu2-8y8x.dwx.workload-dev.cloudera.com
 csi-staging.sjc.cloudera.com
 dw-env-4sr5pj.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -1173,7 +1155,7 @@ dw-env-rm4kh2.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cx153.core.cloudera.com
 dw-env-5t6vwl.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-xm9grc.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.github.mtv.cloudera.com
+github.mtv.cloudera.com
 dw-env-f6rznz.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-z56lzh.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-92xb98.dwx.workload-dev.cloudera.com
@@ -1205,7 +1187,6 @@ dw-env-bjjfpf.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-wpz5cj.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-f2279p.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-hs6r2v.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-jira-test.cloudera.com
 dw-env-wpvhbt.xcu2-8y8x.dwx.workload-dev.cloudera.com
 sjc-130.cloudera.com
 dw-env-pmlm8p.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -1274,7 +1255,7 @@ msops5241.cdpaas.cloudera.com
 env-9w2m5b.dwx.workload-int.cloudera.com
 dw-env-7466qk.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-brslsv.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.ccp.cloudera.com
+ccp.cloudera.com
 dw-env-d4v7p6.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-24h46j.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-dbb8kb.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -1412,9 +1393,7 @@ dw-env-mj4rh5.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-mv7r2v.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-r5gsxp.l1exgr.dwx.workload-dev.cloudera.com
 env-blsmj7.dwx.workload-dev.cloudera.com
-www.archive.cloudera.com
 university.cloudera.com
-aquasec.gce.cloudera.com
 cx072.core.cloudera.com
 dw-env-9lbl58.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-5g5wj7.dwx.workload-dev.cloudera.com
@@ -1601,7 +1580,6 @@ dw-env-hmqbtz.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-jgkgbk.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-mx9f6z.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-pkh795.xcu2-8y8x.dwx-dev-public.cloudera.com
-internal.usg-1.cdp.mow-int.cloudera.com
 dw-env-tptqzt.xcu2-8y8x.dwx.workload-dev.cloudera.com
 hue-smiko-impala.env-2lxtnx.dwx.workload-int.cloudera.com
 dw-env-r2zgl8.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -1687,7 +1665,7 @@ jira-api.infra.cloudera.com
 dw-env-tdrkg6.xcu2-8y8x.dwx.workload-dev.cloudera.com
 sd-jenkins-prod.sre.cloudera.com
 cx185.core.cloudera.com
-www.gerrit.sjc.cloudera.com
+gerrit.sjc.cloudera.com
 dw-env-dmsmq8.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-q8rmnk.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-x6zjhl.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -1751,7 +1729,7 @@ env-6sxmzr.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 nr004.core.cloudera.com
 shs.sjc.cloudera.com
 ve0237.halxg.cloudera.com
-www.ftp.cloudera.com
+ftp.cloudera.com
 kr.cloudera.com
 cx067.core.cloudera.com
 dw-env-td4wd8.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -1781,7 +1759,6 @@ env-7xh685.dwx-dev-public.cloudera.com
 env-9mkxsb.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-msl6b7.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-tdrnvd.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-github.mtv.cloudera.com
 env-s5j66b.dwx.workload-int.cloudera.com
 dw-env-lk8gfk.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-hjhrh4.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -1909,7 +1886,6 @@ env-zgb25q.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-fjr8wd.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-8kg4z2.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 lwatterworth.usg-1.cdp.mow-dev.cloudera.com
-www.securedrop.cloudera.com
 o1.email.noreply.cloudera.com
 dw-env-tr5xsp.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-9bwvd6.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -1949,7 +1925,6 @@ dw-env-qwfdd5.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-5wrmpj.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-h8lxtp.dwx.workload-int.cloudera.com
 env-x6tsfv.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.csi.cloudera.com
 env-v2q2lb.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 ccp04.exam.cloudera.com
 dw-env-r5hz9b.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -1960,7 +1935,6 @@ dw-env-xn5m7f.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-8w98ng.dwx.workload-dev.cloudera.com
 env-vtgdkv.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 hue-cdp-impala.env-stwvfn.dwx.workload-dev.cloudera.com
-www.csi-okta.infra.cloudera.com
 dw-env-m6l869.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-ztl7q2.xcu2-8y8x.dwx.workload-dev.cloudera.com
 ccp15.exam.cloudera.com
@@ -2029,7 +2003,6 @@ env-27n68r.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-fntlcd.dwx.workload-dev.cloudera.com
 env-gxz2tj.dwx.workload-dev.cloudera.com
 env-lj5kwx.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-www.investors.cloudera.com
 dw-env-xh8jvr.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cx170.core.cloudera.com
 cx233.core.cloudera.com
@@ -2150,7 +2123,6 @@ dw-env-j5fzkb.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-j5m5q5.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-wbkm2d.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-n9xz54.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-www.metering.cloudera.com
 env-qlq4sx.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 education.cloudera.com
 dw-env-56ng66.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -2201,7 +2173,7 @@ dw-env-wfl9tl.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-j6xdtk.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-kvfzrw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 monitoring.ap-1.cdp.mow-stage.cloudera.com
-www.optimizer.cloudera.com
+optimizer.cloudera.com
 dw-env-sfpxhv.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-x67n54.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-nzz7pm.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -2482,7 +2454,6 @@ slave1.cloudera.com
 env-hvbb2z.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-pm4dm2.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 secure.dev-upgrade.aem.cloudera.com
-www.pages.cloudera.com
 dw-env-ctt8bv.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-qrznjl.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-rhmcks.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -2564,7 +2535,7 @@ dw-env-kszqrd.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-p4fkgm.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-tfgl7d.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-b299jp.xcu2-8y8x.dwx-dev-public.cloudera.com
-www.docs.cloudera.com
+docs.cloudera.com
 hue-i.env-xjstxb.dwx.workload-int.cloudera.com
 dw-env-vzfkrj.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-mxdxd7.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -2623,7 +2594,7 @@ cx241.core.cloudera.com
 dw-tevesz-azure-test2.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-w6nxxl.dwx.workload-dev.cloudera.com
 pp020.core.cloudera.com
-www.mft.cloudera.com
+mft.cloudera.com
 ise-rancher.sjc.cloudera.com
 jira-staging.cloudera.com
 dw-env-kv5q6v.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -2736,8 +2707,7 @@ dw-env-z8j5xh.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-jf7m4z.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-l44bbj.dwx.workload-int.cloudera.com
 nightly-cdsw-4.cdsw.eng.cloudera.com
-www.skillsmatrix.sjc.cloudera.com
-gerrit.sjc.cloudera.com
+skillsmatrix.sjc.cloudera.com
 dw-env-vhnnzr.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cx119.core.cloudera.com
 ds-dev.cloudera.com
@@ -2954,7 +2924,6 @@ dw-env-87w7x8.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-wxk6nn.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-56d9w8.dwx.workload-int.cloudera.com
 env-hsdcq9.dwx.workload-int.cloudera.com
-ftp.cloudera.com
 dw-env-9tlpj6.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-qdxxxx.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-sp7v48.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -3033,7 +3002,6 @@ env-n55prp.dwx.workload-dev.cloudera.com
 env-w9fmlq.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-wtpwdm.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-fs6qz8.dwx.workload-dev.cloudera.com
-docs.cloudera.com
 cx217.core.cloudera.com
 dw-env-6qghrq.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-7g9rst.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -3063,7 +3031,6 @@ gke-us-central1.kc.cloudera.com
 dw-env-56qw65.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-95l92c.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-wtvt8l.dwx.workload-dev.cloudera.com
-www.docs-stage.cloudera.com
 dw-env-pdpnpg.xcu2-8y8x.dwx.workload-dev.cloudera.com
 bgp.cloudera.com
 dw-env-j7g88r.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -3166,7 +3133,6 @@ cn-prod-aem-cloud.cloudera.com
 dw-env-jbs96h.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-jxtfdq.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-swsstc.xcu2-8y8x.dwx-dev-public.cloudera.com
-www.ldap.cloudera.com
 dw-env-6dts7p.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-fcdwsb.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-5qgsnn.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -3216,7 +3182,6 @@ dw-env-f5n9p6.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-jn4b8k.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-qbfz4k.dwx-dev-public.cloudera.com
 env-vqwx2j.dwx.workload-dev.cloudera.com
-events.cloudera.com
 azure2020hive.env-m9zrsz.dwx.workload-dev.cloudera.com
 cx102.core.cloudera.com
 cx152.core.cloudera.com
@@ -3258,7 +3223,7 @@ env-6hhx52.dw.f6o3-rjrj.dwx.workload-dev.cloudera.com
 env-8pv5z9.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-bdkgrw.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-fh9t2r.dwx-dev-public.cloudera.com
-www.spot.infosec.cloudera.com
+spot.infosec.cloudera.com
 dw-env-cfv5vn.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-w9cthk.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-smssxt.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -3519,7 +3484,7 @@ env-lnlbq8.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-p7zrfx.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-whdnht.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-slnskw.dwx-dev-public.cloudera.com
-www.blog.cloudera.com
+blog.cloudera.com
 dw-env-qkvdks.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-64zndw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-mmvvmr.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -3566,7 +3531,6 @@ dw-env-6cxtlt.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-8jqwz2.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-7zlrlv.dwx-dev-public.cloudera.com
 env-xcgmhv.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.csi.infra.cloudera.com
 dw-env-lswnzv.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-4ccfrs.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-h8t5t4.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -3692,7 +3656,6 @@ env-crc77r.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-hl85hw.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-phfd94.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-t5tck4.dwx.workload-int.cloudera.com
-www.ondemand.cloudera.com
 bottou01-10g.pa.cloudera.com
 dw-env-ngfb2n.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-qcnw6k.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -3741,11 +3704,9 @@ dw-env-nz97m6.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-hk7vn9.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-slz9fs.dwx.workload-int.cloudera.com
 env-tht7mj.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.docs-dev.cloudera.com
 dw-env-4sk5wt.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-n8mphb.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-nhh24n.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-www.cloudcat.infra.cloudera.com
 dw-env-ph94gf.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-whcqsp.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-29h9zq.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -3760,7 +3721,6 @@ master.cloudera.com
 studio-dev-cross-tenant-app.studiocp-int.sre.cloudera.com
 dw-env-5nvmzk.xcu2-8y8x.dwx-dev-public.cloudera.com
 s3a-metrics-4.gce.cloudera.com
-blog.cloudera.com
 gridlink-stage.cloudera.com
 dw-env-n7r57g.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-xx754b.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -3815,7 +3775,6 @@ app-dashboard.optimizer.cloudera.com
 dw-env-7f5ddr.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-h4jfrr.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 monitoring.cdp.cloudera.com
-skillsmatrix.sjc.cloudera.com
 scale-tpcds-hive-azure.env-fxm27c.dwx.workload-int.cloudera.com
 dw-env-ghp8wz.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-xhhdks.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -3842,7 +3801,7 @@ cx117.core.cloudera.com
 cx225.core.cloudera.com
 dw-env-lwqhzt.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-sbplgp.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.staging-metering.cloudera.com
+staging-metering.cloudera.com
 dw-env-b7fbxn.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-f996v9.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-brxrqx.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -3933,7 +3892,6 @@ dw-env-nwjhf7.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-96mkzx.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-kcx6kh.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-m94rx4.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-staging-metering.cloudera.com
 dw-env-7ftrrn.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-nt4n8q.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-tmqg7c.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4191,7 +4149,7 @@ dw-env-qj4hpg.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-t2ck5c.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-qsdfcf.xcu2-8y8x.dwx.workload-dev.cloudera.com
 sso-int.cat.cloudera.com
-www.github.infra.cloudera.com
+github.infra.cloudera.com
 dw-env-lfd5fs.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-t28nfx.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-vssvgc.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -4258,7 +4216,6 @@ dw-env-x5ldhz.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-bq5q68.dwx-dev-public.cloudera.com
 env-rjbd5d.dwx-dev-public.cloudera.com
 env-w4q7xt.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.staging-csh.cloudera.com
 dw-env-txwl9j.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-vfn9zw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-wlb75q.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4298,7 +4255,6 @@ dw-env-fxw7gr.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-fz7n84.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-hwhgkt.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-kftz8p.dwx.workload-dev.cloudera.com
-www.repository.cloudera.com
 dw-env-6rqgx2.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-fvj5zt.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-vgwpcg.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4314,7 +4270,6 @@ dw-env-9frv5f.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-psw2st.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-6n89cb.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-lfw6gx.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-api.monitoring.cdp.mow-stage.cloudera.com
 dw-env-4kh9gh.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-nd7q4t.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-qdxp5m.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4370,7 +4325,6 @@ env-4xk42x.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-l4gzpb.dwx.workload-dev.cloudera.com
 env-nv6p6r.dwx.workload-dev.cloudera.com
 sjc-148.cloudera.com
-www.university.cloudera.com
 dw-env-g4sdnd.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-rtg66r.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-86xmwc.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4394,7 +4348,6 @@ dw-env-gslpmg.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-5mdr69.dwx.workload-dev.cloudera.com
 env-78zs7j.dwx-dev-public.cloudera.com
 github-dev.github.gov-dev.cloudera.com
-www.tableau.cloudera.com
 dw-env-wdpjhh.xcu2-8y8x.dwx.workload-dev.cloudera.com
 hue-q0302112413855832.env-xhnhw4.dwx.workload-int.cloudera.com
 dw-env-ldrlsk.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4609,7 +4562,6 @@ dw-env-ddnvmt.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-mxmr5f.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-g6grwq.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-grvx74.dwx.workload-int.cloudera.com
-www.archiveblog.cloudera.com
 env-h2fl5m.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 staging-ctx.infra.cloudera.com
 env-rttq5q.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4638,7 +4590,7 @@ consoleauth.us-west-1.core.altus.cloudera.com
 dw-env-hglkpv.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-jt4qxj.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-p56mz9.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.info.cloudera.com
+info.cloudera.com
 studio-int-cross-tenant-app.studiocp-int.sre.cloudera.com
 dw-env-srqjtm.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cx090.core.cloudera.com
@@ -4662,7 +4614,6 @@ dw-env-qddwk9.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-g54r7p.dwx-dev-public.cloudera.com
 env-nqm4pz.dwx.workload-int.cloudera.com
 env-x6tb9z.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-mft.cloudera.com
 dw-env-4ddsc2.xcu2-8y8x.dwx.workload-dev.cloudera.com
 api.monitoring.cdp.cloudera.com
 env-x5bc2f.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4736,7 +4687,6 @@ env-c8f7gl.dwx-dev-public.cloudera.com
 env-g2v46f.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-6jphhc.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-2tl4qq.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-spot.infosec.cloudera.com
 env-mjg64g.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-22k8lx.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cx189.core.cloudera.com
@@ -4745,7 +4695,6 @@ dw-env-gmb4h7.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-hkqnv9.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-lzlhtw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-6nvlw6.dwx-dev-public.cloudera.com
-www.pachyderm.cloudera.com
 dw-env-bs2nfx.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-f59bqt.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-54jz88.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4796,7 +4745,6 @@ ise.cloudera.com
 cloud-staging.aem.cloudera.com
 dw-env-szn4l5.xcu2-8y8x.dwx.workload-dev.cloudera.com
 encrypt.cloudera.com
-www.jira-staging.cloudera.com
 dw-env-nvw9vx.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-8tw4vx.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-42hszn.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -4840,7 +4788,6 @@ env-jbm2wd.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-zbvv7b.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 spatel2.saas-dev.cloudera.com
 cdp-monitoring-int-usw2.sre.cloudera.com
-us-west-1.cdp.cloudera.com
 dw-env-xpmvwv.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-zjw4f8.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-hx57wr.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -4862,7 +4809,6 @@ cx165.core.cloudera.com
 dw-env-st9858.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-w9qpzc.dwx.workload-dev.cloudera.com
 env-xdqvp6.dwx.workload-dev.cloudera.com
-optimizer.cloudera.com
 sjc-171.cloudera.com
 dw-env-8xxxsc.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-7smp69.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -5035,7 +4981,6 @@ dw-env-tjf72m.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-ggwznt.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-qh5km6.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 go.cloudera.com
-wiki.cloudera.com
 dw-env-2tjmxc.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cx115.core.cloudera.com
 dw-env-j7g2px.xcu2-8y8x.dwx-dev-public.cloudera.com
@@ -5044,7 +4989,6 @@ env-wx6mbq.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cx156.core.cloudera.com
 env-id3.dwx-test.dwx-dev-public.cloudera.com
 env-j9hrnr.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
-www.jira.cloudera.com
 dw-env-96qxvc.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-fg47vp.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-n2cc46.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -5109,7 +5053,7 @@ spinnaker.service-delivery.cloudera.com
 dw-env-sdkdbr.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-7984xl.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-rwphsn.dwx.workload-int.cloudera.com
-www.github-sandbox.sjc.cloudera.com
+github-sandbox.sjc.cloudera.com
 dw-env-99vqkm.xcu2-8y8x.dwx-dev-public.cloudera.com
 cx154.core.cloudera.com
 cx224.core.cloudera.com
@@ -5225,8 +5169,6 @@ dwx-azure-nk2-wqe.env-v6cbnh.dwx.workload-int.cloudera.com
 env-q9zrf8.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-x6msrh.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 ops-dev.cdpaas.cloudera.com
-www.csh.cloudera.com
-ccp.cloudera.com
 dw-env-j7k87t.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-2ksn7f.dwx.workload-int.cloudera.com
 env-sxpfkh.dwx-dev-public.cloudera.com
@@ -5318,7 +5260,6 @@ dw-env-pzhjhz.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-kgq8xf.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-ssm9w2.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-zhc444.dwx.workload-dev.cloudera.com
-www.jp.cloudera.com
 dw-env-hbrxfm.xcu2-8y8x.dwx.workload-dev.cloudera.com
 cazena-jira.cloudera.com
 dw-env-l6flr5.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -5383,7 +5324,6 @@ dw-env-4wns78.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-lgd7r5.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-bf2h5n.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-p4ttgw.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
-www.tableau.edh.cloudera.com
 dw-env-cgxvck.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-2p6nh7.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-xhfvq9.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -5430,7 +5370,6 @@ env-mpczxn.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 docker.repository.cloudera.com
 dw-env-q2bxk7.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-stz6mf.dwx.workload-dev.cloudera.com
-github.infra.cloudera.com
 dw-env-bjd6sv.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-z8drck.xcu2-8y8x.dwx-dev-public.cloudera.com
 dw-env-kbjwrj.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -5581,7 +5520,6 @@ kubecat-build-longrunning-eks-prod-us-west-2.kc.cloudera.com
 cx147.core.cloudera.com
 dw-env-jt7drq.xcu2-8y8x.dwx.workload-dev.cloudera.com
 hue-ai.env-w97mmn.dwx.workload-int.cloudera.com
-www.ise-jenkins.sjc.cloudera.com
 confluence.cops.cloudera.com
 dw-env-bnq6zw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-xbgzdm.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -5614,7 +5552,6 @@ coordinator-ai.env-w97mmn.dwx.workload-int.cloudera.com
 dw-env-xmvfzg.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-m2ndfj.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 env-xzpszj.dwx-dev-public.cloudera.com
-info.cloudera.com
 dw-env-kbzg69.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-m46vn4.dw.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-vbpgfm.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
@@ -5696,7 +5633,6 @@ env-kd4596.dwx-dev-public.cloudera.com
 env-vcg5cw.dw.xcu2-8y8x.dwx.workload-dev.cloudera.com
 dw-env-8cg9j9.xcu2-8y8x.dwx-dev-public.cloudera.com
 env-n2rprn.dwx.workload-int.cloudera.com
-github-sandbox.sjc.cloudera.com
 jenkins.studiocp-dev.sre.cloudera.com
 sjc-144.cloudera.com
 dw-env-2q8ls6.xcu2-8y8x.dwx.workload-dev.cloudera.com

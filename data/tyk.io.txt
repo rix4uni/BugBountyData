@@ -1,10 +1,9 @@
-*.tyk.io
-*.aws-apse1.cloud-ara.tyk.io
-*.aws-euc1.cloud-ara.tyk.io
-*.aws-euw2.cloud-ara.tyk.io
-*.aws-use1.cloud-ara.tyk.io
-*.aws-usw2.cloud-ara.tyk.io
-*.cloud.tyk.io
+aws-apse1.cloud-ara.tyk.io
+aws-euc1.cloud-ara.tyk.io
+aws-euw2.cloud-ara.tyk.io
+aws-use1.cloud-ara.tyk.io
+aws-usw2.cloud-ara.tyk.io
+cloud.tyk.io
 3-tier-logic-inc.cloud.tyk.io
 account.cloud-ara.tyk.io
 admin.cloud.tyk.io
@@ -14,12 +13,7 @@ api.deptrack.tyk.io
 apimanager-prd.cloud.tyk.io
 aquabyte.cloud.tyk.io
 associated-underground-mgw.aws-euw1.cloud-ara.tyk.io
-aws-apse1.cloud-ara.tyk.io
-aws-euc1.cloud-ara.tyk.io
 aws-euw1.cloud-ara.tyk.io
-aws-euw2.cloud-ara.tyk.io
-aws-use1.cloud-ara.tyk.io
-aws-usw2.cloud-ara.tyk.io
 beslist-nl.cloud.tyk.io
 bespokebaranbeslist-nl.cloud.tyk.io
 boiling-albatross-dev.aws-use1.cloud-ara.tyk.io
@@ -29,7 +23,6 @@ changing-amount-mgw.aws-euw1.cloud-ara.tyk.io
 cheap-valuable-mgw.aws-use1.cloud-ara.tyk.io
 cityverve.cloud.tyk.io
 classicstatus.tyk.io
-cloud.tyk.io
 cloudv2.tyk.io
 community.tyk.io
 content.tyk.io
@@ -111,7 +104,6 @@ userfeeds.cloud.tyk.io
 wiki.tyk.io
 wooden-storytelling-mgw.aws-euw1.cloud-ara.tyk.io
 worried-trigonometry-gw.aws-euw2.cloud-ara.tyk.io
-www.tyk.io
 yale-school-of-management.cloud.tyk.io
 ytel-inc.cloud.tyk.io
 chef-customers-preprodcontainer-corporate.cloud.tyk.io
@@ -1218,7 +1210,6 @@ www-0-7http.cloud.tyk.io
 www-0-9-4.cloud.tyk.io
 www-1-31.cloud.tyk.io
 www-detik-com.cloud.tyk.io
-www.cloud.tyk.io
 www02as.cloud.tyk.io
 www3-53.cloud.tyk.io
 xerox-dnb-ananlyticsstudio.cloud.tyk.io
@@ -2046,7 +2037,6 @@ buildtag.cloud.tyk.io
 bv-w.cloud.tyk.io
 bvc3xd0gufqj.cloud.tyk.io
 bwlite.cloud.tyk.io
-bww.cloud.tyk.io
 bydandy1.cloud.tyk.io
 byhmassacre.cloud.tyk.io
 c-00.cloud.tyk.io
@@ -4596,7 +4586,6 @@ uncertain-kitten-gw.aws-euc1.cloud-ara.tyk.io
 obedient-postage-adm.aws-use1.cloud-ara.tyk.io
 star2star-communications.cloud.tyk.io
 zcabrokerd.cloud.tyk.io
-*.aws-apse2.cloud-ara.tyk.io
 international-hamster-gw.aws-apse1.cloud-ara.tyk.io
 hello.tyk.io
 customers.tyk.io

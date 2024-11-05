@@ -4,7 +4,6 @@ vprc-eu2.formlabs.com
 vprc-jp.formlabs.com
 vprc-us1.formlabs.com
 vprc-us2.formlabs.com
-*.formlabs.com
 wholesale.formlabs.com
 tickets.formlabs.com
 metabase.formlabs.com
@@ -22,11 +21,10 @@ next-content-staging.formlabs.com
 marketingkudos.formlabs.com
 staging-data-collection.formlabs.com
 webmin.formlabs.com
-www.support.formlabs.com
+support.formlabs.com
 integrations-integration-my.formlabs.com
 track.formlabs.com
 cms-preview-careers-staging.formlabs.com
-www.formlabs.com
 careers-content-staging.formlabs.com
 integration-content.formlabs.com
 partners-sandbox-staging.formlabs.com
@@ -40,7 +38,7 @@ dental.formlabs.com
 production-content-staging.formlabs.com
 static.formlabs.com
 wholesale-staging.formlabs.com
-www.engineering.formlabs.com
+engineering.formlabs.com
 api-staging.formlabs.com
 coremigration-integration-my.formlabs.com
 fcm-staging.formlabs.com
@@ -91,7 +89,6 @@ factory-api.formlabs.com
 systems.formlabs.com
 form3-tour.formlabs.com
 qa-staging.formlabs.com
-engineering.formlabs.com
 migration-integration-my.formlabs.com
 event.formlabs.com
 pf-internal.formlabs.com
@@ -106,7 +103,6 @@ checkout-integration-checkout.formlabs.com
 careers.formlabs.com
 dashboard.integration.formlabs.com
 authentication.formlabs.com
-support.formlabs.com
 qa.formlabs.com
 wholesale-preview.formlabs.com
 abtest.formlabs.com

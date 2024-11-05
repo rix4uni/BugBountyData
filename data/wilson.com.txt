@@ -1,4 +1,3 @@
-www.wilson.com
 origin-prod.wilson.com
 portal.wilson.com
 qual-it.ecom.wilson.com
@@ -51,7 +50,7 @@ admin-origin-dev-cms.wilson.com
 admin-nam.ecom.wilson.com
 stage.wilson.com
 wcrprod.wilson.com
-www.ecom.wilson.com
+ecom.wilson.com
 origin-stage-cms.wilson.com
 admin-origin-stage-cms.wilson.com
 dev.shop.wilson.com
@@ -59,7 +58,6 @@ login.wilson.com
 adoptions.wilson.com
 admin-origin-prod-cms.wilson.com
 au.wilson.com
-www.wdt.wilson.com
 origin-prod-cms.wilson.com
 host146.wilson.com
 host287.wilson.com
@@ -72,7 +70,7 @@ host209.wilson.com
 host10.wilson.com
 sales.wilson.com
 mta2.insider.wilson.com
-www.spq.wilson.com
+spq.wilson.com
 host496.wilson.com
 host201.wilson.com
 host495.wilson.com
@@ -89,7 +87,6 @@ host330.wilson.com
 host463.wilson.com
 host385.wilson.com
 host453.wilson.com
-www.portal.wilson.com
 host427.wilson.com
 host189.wilson.com
 host311.wilson.com
@@ -135,7 +132,6 @@ host39.wilson.com
 host362.wilson.com
 designrequest.wilson.com
 host191.wilson.com
-www.wccstage.wilson.com
 host386.wilson.com
 eds.wilson.com
 host493.wilson.com
@@ -169,11 +165,10 @@ host392.wilson.com
 host232.wilson.com
 host29.wilson.com
 host324.wilson.com
-www.sales.wilson.com
 host395.wilson.com
 host378.wilson.com
 host292.wilson.com
-www.customworks.wilson.com
+customworks.wilson.com
 wilsongo.wilson.com
 host78.wilson.com
 host236.wilson.com
@@ -187,7 +182,6 @@ host32.wilson.com
 admin.wilson.com
 host112.wilson.com
 host109.wilson.com
-www.eds.wilson.com
 host42.wilson.com
 contacts-qual-bu.wilson.com
 host230.wilson.com
@@ -237,7 +231,7 @@ burnchallenge.wilson.com
 host95.wilson.com
 host323.wilson.com
 host178.wilson.com
-www.retail.wilson.com
+retail.wilson.com
 host76.wilson.com
 host424.wilson.com
 stag.shop.wilson.com
@@ -245,7 +239,6 @@ host173.wilson.com
 host237.wilson.com
 host304.wilson.com
 host431.wilson.com
-www.wcgstage.wilson.com
 host278.wilson.com
 host332.wilson.com
 host21.wilson.com
@@ -260,7 +253,6 @@ host34.wilson.com
 host149.wilson.com
 host46.wilson.com
 host259.wilson.com
-www.wccdev.wilson.com
 host298.wilson.com
 host320.wilson.com
 premier.wilson.com
@@ -272,7 +264,6 @@ host451.wilson.com
 host115.wilson.com
 metrics.wilson.com
 host229.wilson.com
-customworks.wilson.com
 host309.wilson.com
 host52.wilson.com
 host300.wilson.com
@@ -281,17 +272,14 @@ host110.wilson.com
 host106.wilson.com
 host63.wilson.com
 host499.wilson.com
-www.adoptions.wilson.com
 host160.wilson.com
 host498.wilson.com
 host100.wilson.com
 ftp.wilson.com
 img.mycontract-mail.wilson.com
 host27.wilson.com
-www.wccprod.wilson.com
 host14.wilson.com
 host301.wilson.com
-spq.wilson.com
 host401.wilson.com
 host111.wilson.com
 host204.wilson.com
@@ -334,7 +322,6 @@ host15.wilson.com
 test-qbx.wilson.com
 host483.wilson.com
 host215.wilson.com
-retail.wilson.com
 host57.wilson.com
 host243.wilson.com
 host248.wilson.com
@@ -393,9 +380,7 @@ host97.wilson.com
 host268.wilson.com
 host102.wilson.com
 host49.wilson.com
-www.wcgprod.wilson.com
 host211.wilson.com
-www.wcrprod.wilson.com
 host233.wilson.com
 host126.wilson.com
 host435.wilson.com
@@ -428,7 +413,6 @@ host434.wilson.com
 host372.wilson.com
 host79.wilson.com
 host212.wilson.com
-www.wcgspec.wilson.com
 host260.wilson.com
 host350.wilson.com
 host53.wilson.com
@@ -438,7 +422,6 @@ host101.wilson.com
 host221.wilson.com
 host138.wilson.com
 host131.wilson.com
-www.vip.wilson.com
 host195.wilson.com
 qual-it-pod-global-admin-nam.ecom.wilson.com
 host140.wilson.com
@@ -452,7 +435,6 @@ host272.wilson.com
 etp.wilson.com
 noprod-api.wilson.com
 host396.wilson.com
-www.designrequest.wilson.com
 host502.wilson.com
 host194.wilson.com
 host290.wilson.com
@@ -514,7 +496,6 @@ host228.wilson.com
 host40.wilson.com
 host468.wilson.com
 host357.wilson.com
-www.wcrstage.wilson.com
 takaninicounselling-co-nz.wilson.com
 host133.wilson.com
 fr.burnchallenge.wilson.com
@@ -528,7 +509,6 @@ host276.wilson.com
 host9.wilson.com
 host210.wilson.com
 host439.wilson.com
-www.chispbx.wilson.com
 host400.wilson.com
 mta4.insider.wilson.com
 host344.wilson.com
@@ -554,7 +534,6 @@ host494.wilson.com
 host328.wilson.com
 host338.wilson.com
 host465.wilson.com
-www.login.wilson.com
 host461.wilson.com
 host159.wilson.com
 host466.wilson.com
@@ -610,7 +589,6 @@ host168.wilson.com
 view.insider.wilson.com
 host59.wilson.com
 host432.wilson.com
-www.onboard.wilson.com
 host244.wilson.com
 host255.wilson.com
 host205.wilson.com
@@ -671,7 +649,6 @@ host475.wilson.com
 host339.wilson.com
 host472.wilson.com
 host443.wilson.com
-www.support.wilson.com
 host375.wilson.com
 host297.wilson.com
 host80.wilson.com

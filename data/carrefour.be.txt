@@ -2,7 +2,7 @@ bknt-011.sandbox.carrefour.be
 uat-drive.carrefour.be
 p1-api.carrefour.be
 win.carrefour.be
-www.keycloak-uat.tc.carrefour.be
+keycloak-uat.tc.carrefour.be
 p1-drive-bypass.carrefour.be
 login.aem.carrefour.be
 img.mail.drive.carrefour.be
@@ -20,7 +20,7 @@ bc-test-1.carrefour.be
 res1.newsletter.carrefour.be
 t1.newsletter.carrefour.be
 login.drive.carrefour.be
-www.voyages.carrefour.be
+voyages.carrefour.be
 p1-backgroundprocessing.carrefour.be
 d4-drive.dev.carrefour.be
 login.dev.carrefour.be
@@ -46,10 +46,9 @@ delivery.carrefour.be
 newsletter.carrefour.be
 auth-dev.tc.carrefour.be
 test-support.carrefour.be
-www.shipto.carrefour.be
+shipto.carrefour.be
 login.uat-drive.carrefour.be
 driveapi.carrefour.be
-www.carrefour.be
 inyourpocket.carrefour.be
 p1-drive.carrefour.be
 preprod-api.carrefour.be
@@ -61,7 +60,6 @@ mdmcentric.carrefour.be
 s1-backgroundprocessing.carrefour.be
 reizen.carrefour.be
 freshtest.carrefour.be
-www.reizen.carrefour.be
 support.fastdelivery.carrefour.be
 int-api.carrefour.be
 nemesis-preprod.carrefour.be
@@ -100,5 +98,4 @@ login.bonuscard.carrefour.be
 vrt.carrefour.be
 support.carrefour.be
 production.carrefour.be
-www.keycloak.tc.carrefour.be
 dev.auth.supplier.carrefour.be

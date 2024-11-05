@@ -1,7 +1,6 @@
-*.breadcrumb.com
-*.internal.breadcrumb.com
-*.internal.staging.breadcrumb.com
-*.staging.breadcrumb.com
+internal.breadcrumb.com
+internal.staging.breadcrumb.com
+staging.breadcrumb.com
 0.ecs-lb.breadcrumb.com
 01.ecs-lb.breadcrumb.com
 1017-uatvaccines.breadcrumb.com
@@ -56,8 +55,6 @@ go.breadcrumb.com
 hq.breadcrumb.com
 hq-aws.breadcrumb.com
 hq-prod.breadcrumb.com
-internal.breadcrumb.com
-internal.staging.breadcrumb.com
 kp.ecs-lb.breadcrumb.com
 logs.breadcrumb.com
 mailserv.ecs-lb.breadcrumb.com
@@ -81,7 +78,6 @@ reports-prod.breadcrumb.com
 resources.breadcrumb.com
 rqpo.hq.breadcrumb.com
 rrq-9.hq.breadcrumb.com
-staging.breadcrumb.com
 status.breadcrumb.com
 store.breadcrumb.com
 support.breadcrumb.com
@@ -95,11 +91,7 @@ web4378.store.breadcrumb.com
 web5155.reports.breadcrumb.com
 web5527.reports.breadcrumb.com
 webdisk.payments.breadcrumb.com
-www.breadcrumb.com
-www.go.breadcrumb.com
-www.onlineservices.reports.breadcrumb.com
-www.reports.breadcrumb.com
-www.store.breadcrumb.com
+onlineservices.reports.breadcrumb.com
 adminuserspostgresdoc-corporate.ecs-lb.breadcrumb.com
 api-internal.breadcrumb.com
 api-internal.staging.breadcrumb.com
@@ -141,7 +133,7 @@ tk09.hq.breadcrumb.com
 tor118-190-pda.ecs-lb.breadcrumb.com
 tw-beta-campaign.store.breadcrumb.com
 v1-teamstatus-externaltunnel-mx.ecs-lb.breadcrumb.com
-www.hc.mossy.breadcrumb.com
+hc.mossy.breadcrumb.com
 antivirusupport-mail2.breadcrumb.com
 ww5.breadcrumb.com
 acapi.api.breadcrumb.com
@@ -170,7 +162,6 @@ antivirusupport.web.breadcrumb.com
 new.hq.breadcrumb.com
 sitecore.reports.breadcrumb.com
 web.payments.breadcrumb.com
-www.hq.breadcrumb.com
 stats.payments.breadcrumb.com
 ftp.mossy.breadcrumb.com
 www2.reports.breadcrumb.com
@@ -426,7 +417,6 @@ ww1.reports.breadcrumb.com
 253aapi.breadcrumb.com
 searchportal-dev.payments.breadcrumb.com
 wp.hq.breadcrumb.com
-www.antivirusupport.breadcrumb.com
 searchportal-qa.api.breadcrumb.com
 _cisco-uds._tcp.hq.breadcrumb.com
 sitecore.hq.breadcrumb.com
@@ -895,7 +885,6 @@ a.api.breadcrumb.com
 uatvaccines.owa.breadcrumb.com
 blog.payments.breadcrumb.com
 download.reports.breadcrumb.com
-www.payments.breadcrumb.com
 gws-rds-external-readonly-uat.reports.breadcrumb.com
 whois.mossy.breadcrumb.com
 dc.hq.breadcrumb.com
@@ -1172,7 +1161,6 @@ s.breadcrumb.com
 emailantivirusupport.breadcrumb.com
 mobile.breadcrumb.com
 careers.payments.breadcrumb.com
-www.api.breadcrumb.com
 math.breadcrumb.com
 mx7antivirusupport.breadcrumb.com
 web.mossy.breadcrumb.com
@@ -1565,7 +1553,6 @@ stats.api.breadcrumb.com
 dns.hq.breadcrumb.com
 cim-api-uat.payments.breadcrumb.com
 mailin2-antivirusupport.breadcrumb.com
-www.mossy.breadcrumb.com
 office.mossy.breadcrumb.com
 antivirusupport-api.breadcrumb.com
 antivirusupport-ns.breadcrumb.com

@@ -2,18 +2,17 @@ docs.paysbuy.com
 logs.brm.paysbuy.com
 ns1.paysbuy.com
 pay.paysbuy.com
-www.fbapp.paysbuy.com
+fbapp.paysbuy.com
 billerbackoffice.uat.corp.paysbuy.com
 channel.bill.paysbuy.com
 dev.paysbuy.com
-www.m.paysbuy.com
+m.paysbuy.com
 auth.paysbuy.com
 devmpi.paysbuy.com
 uat.api.paysbuy.com
 ns2.paysbuy.com
 payapi.paysbuy.com
 uat-barcode.paysbuy.com
-www.paysbuy.com
 billerbackoffice.corp.paysbuy.com
 epn.paysbuy.com
 m2.paysbuy.com
@@ -29,7 +28,6 @@ api.paysbuy.com
 dev.mob.paysbuy.com
 idcfw11.paysbuy.com
 predomain.paysbuy.com
-m.paysbuy.com
 mpi.paysbuy.com
 uat-auth.paysbuy.com
 vault.paysbuy.com
@@ -47,4 +45,3 @@ uat.pay.paysbuy.com
 wave.paysbuy.com
 channel.uat.bill.paysbuy.com
 demo.paysbuy.com
-fbapp.paysbuy.com

@@ -1,7 +1,6 @@
-*.beta.finance.yahoo.com
-*.checkout.finance.yahoo.com
-*.finance.yahoo.com
-*.mysubscriptions.finance.yahoo.com
+beta.finance.yahoo.com
+checkout.finance.yahoo.com
+mysubscriptions.finance.yahoo.com
 admin.finance.yahoo.com
 api.finance.yahoo.com
 apple-query.finance.yahoo.com
@@ -11,7 +10,6 @@ au.finance.yahoo.com
 autoc.finance.yahoo.com
 badge.finance.yahoo.com
 beta.c.finance.yahoo.com
-beta.finance.yahoo.com
 betachart.finance.yahoo.com
 betastreamerapi.finance.yahoo.com
 billing.finance.yahoo.com
@@ -24,7 +22,6 @@ ca.stage.finance.yahoo.com
 cf.finance.yahoo.com
 cf.news.finance.yahoo.com
 chart.finance.yahoo.com
-checkout.finance.yahoo.com
 chinese.finance.yahoo.com
 cn.finance.yahoo.com
 config-staging.finance.yahoo.com
@@ -72,7 +69,6 @@ mobile-query.edgecast-cdn.finance.yahoo.com
 mobile-query.finance.yahoo.com
 mx.finance.yahoo.com
 mx.news.finance.yahoo.com
-mysubscriptions.finance.yahoo.com
 news.finance.yahoo.com
 nz.finance.yahoo.com
 oidc.checkout.finance.yahoo.com
@@ -135,10 +131,8 @@ uk.finance.yahoo.com
 uk.messages.finance.yahoo.com
 uk.old.finance.yahoo.com
 uk.specials.finance.yahoo.com
-www.finance.yahoo.com
 xml-headlines.finance.yahoo.com
 edgecast-cdn.finance.yahoo.com
-*.pr.finance.yahoo.com
 pr.finance.yahoo.com
 iquery-stage.finance.yahoo.com
 chartapi.finance.yahoo.com
@@ -167,10 +161,8 @@ streamerapi.finance.yahoo.comstreamerapi.finance.yahoo.com
 mobile-query-stage.finance.yahoo.com
 e5413.g.akamaiedge.netbilling.finance.yahoo.com
 localhost.finance.yahoo.com
-www.beta.finance.yahoo.com
 contest.finance.yahoo.com
 finance-external-services-api.finance.yahoo.com
-www.ca.finance.yahoo.com
 l2-query.finance.yahoo.com
 staging.finance.yahoo.com
 yahoo.uservoice.comchart.finance.yahoo.com
@@ -183,6 +175,3 @@ query.finance.yahoo.com
 se.finance.yahoo.com
 es-us.finance.yahoo.com
 gb.finance.yahoo.com
-www.ichart.finance.yahoo.com
-www.streamerapi.finance.yahoo.com
-www.ads.finance.yahoo.com

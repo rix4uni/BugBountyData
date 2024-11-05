@@ -30,8 +30,7 @@ groups.google.co.uk
 books.google.co.uk
 shopping.google.co.uk
 store.google.co.uk
-*.consent.corp.google.co.uk
-*.corp.google.co.uk
+consent.corp.google.co.uk
 adssettings.google.co.uk
 ampcid.google.co.uk
 assistant.google.co.uk
@@ -43,9 +42,6 @@ clients6.google.co.uk
 shoppinglist-pa.clients6.google.co.uk
 startup.google.co.uk
 myadcenter.google.co.uk
-consent.corp.google.co.uk
 cctldtest.google.co.uk
 adwords.google.co.uk
 testonly.google.co.uk
-*.google.co.uk
-www.google.co.uk

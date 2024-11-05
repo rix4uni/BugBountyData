@@ -8,7 +8,7 @@ spring-academy-verify.broadcom.com
 tanzu-academy-verify.broadcom.com
 ksa.broadcom.com
 incorta-cloud-prm-dev.broadcom.com
-*.symclass.broadcom.com
+symclass.broadcom.com
 dc2c412c-d4b3-11eb-937d-4a0c1fb5cd6f.ds.dlp-dev.broadcom.com
 dc2c412c-d4b3.ds.dlp-dev.broadcom.com
 vvs.broadcom.com
@@ -21,13 +21,10 @@ partnerportal.broadcom.com
 partnerportal-prdsgn.broadcom.com
 tap.broadcom.com
 vcf-stg.broadcom.com
-*.broadcom.com
 f88fe591-8497-4d92-9d8e-fae51dbec273.ds.dlp.protect.broadcom.com
 f88fe591-8497.ds.dlp.protect.broadcom.com
 apprisk.cloudsoc.broadcom.com
-*.apprisk.cloudsoc.broadcom.com
 webrisk.cloudsoc.broadcom.com
-*.webrisk.cloudsoc.broadcom.com
 servicedesk-dev.broadcom.com
 downloads2-pqa.broadcom.com
 vcgw-updates-dev.broadcom.com
@@ -93,7 +90,7 @@ tpe.tanzu.broadcom.com
 grafana-us-east4.dlp-dev.broadcom.com
 187ec528-52dd-4095-ac10-87f1a47dcc68.ds.dlp.protect.broadcom.com
 incortacloud-su-bi-test.broadcom.com
-www.sec.csp01.saas.broadcom.com
+sec.csp01.saas.broadcom.com
 colossus-faults-sim.star.saas.broadcom.com
 ecd2ebfb-32c5-441f-b843-6f3e3e1f7591.ds.dlp.protect.broadcom.com
 dev.platform.tanzu.broadcom.com
@@ -108,7 +105,6 @@ incortacloud-spark-bi-dev.broadcom.com
 valueops.broadcom.com
 connectall-verify.broadcom.com
 developer.mainframe.broadcom.com
-www.developer.mainframe.broadcom.com
 integration.mainframe.broadcom.com
 compass.broadcom.com
 onedotbot-acc.broadcom.com
@@ -138,7 +134,6 @@ incortacloud-cmc-bi-perf.broadcom.com
 hostname.broadcom.com
 jp.broadcom.com
 webapp.broadcom.com
-www.broadcom.com
 static.broadcom.com
 error.broadcom.com
 8dbc6e69-ec11-4df0-b77d-6a6177a3f402.ds.dlp.protect.broadcom.com
@@ -235,7 +230,7 @@ c7ccf5e0-b9f1-40a8-abd3-2152c9ff4596.ds.dlp.protect.broadcom.com
 0c252345-4136-462d-8a0f-9f765b943c27.ds.dlp.protect.broadcom.com
 svn.sj.broadcom.com
 caseupload.broadcom.com
-www.symantec.broadcom.com
+symantec.broadcom.com
 services.ipce.broadcom.com
 academy-classes.broadcom.com
 1-spot.broadcom.com
@@ -256,7 +251,7 @@ agile-dev.broadcom.com
 stb.broadcom.com
 product-downloads-poc-us.broadcom.com
 lumos.broadcom.com
-*.casb.csv01.saas.broadcom.com
+casb.csv01.saas.broadcom.com
 dp-downloads-qa.broadcom.com
 ask.broadcom.com
 repo-pqa.broadcom.com
@@ -530,7 +525,7 @@ e27bfc08-78cf.ds.dlp.protect.broadcom.com
 15e03e90-8e3f.ds.dlp.protect.broadcom.com
 go.broadcom.com
 symantec-blogs.broadcom.com
-*.aws.broadcom.com
+aws.broadcom.com
 interopmatrix.broadcom.com
 vvs-staging.broadcom.com
 vrealize-updates.broadcom.com

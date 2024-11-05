@@ -1,5 +1,4 @@
 www2.funradio.fr
-www.funradio.fr
 ft-daiconnect.hls.funradio.fr
 apt-reu.funradio.fr
 belfort.funradio.fr
@@ -50,8 +49,8 @@ espacerh.funradio.fr
 admedia.funradio.fr
 hls.funradio.fr
 cdnorigin.hls.funradio.fr
-www.civ.funradio.fr
-www.lab.civ.funradio.fr
+civ.funradio.fr
+lab.civ.funradio.fr
 groupwww.funradio.fr
 icecast.funradio.fr
 gcore.dev.hls.funradio.fr
@@ -98,7 +97,6 @@ toulouse.funradio.fr
 facture.funradio.fr
 instantgagnants.funradio.fr
 nikeplus.funradio.fr
-www.lab.funradio.fr
 cover.staging.hls.funradio.fr
 dev-hls.funradio.fr
 static.funradio.fr

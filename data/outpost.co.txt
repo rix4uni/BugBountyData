@@ -1,4 +1,3 @@
-*.outpost.co
 api.outpost.co
 api.cat.outpost.co
 api.cat-stage.outpost.co
@@ -20,9 +19,5 @@ static.newstage.outpost.co
 static.stage.outpost.co
 swagger.outpost.co
 swagger.qa.outpost.co
-www.outpost.co
-www.blog.outpost.co
-www.newstage.outpost.co
-www.stage.outpost.co
 status.outpost.co
 2fwww.outpost.co

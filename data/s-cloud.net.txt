@@ -1,7 +1,6 @@
-*.s-cloud.net
-*.dev.s-cloud.net
-*.dev-test.s-cloud.net
-*.int.s-cloud.net
+dev.s-cloud.net
+dev-test.s-cloud.net
+int.s-cloud.net
 1pass-scim.s-cloud.net
 ampelmann-et.traffic-test-backend-ksdjn012.s-cloud.net
 ampelmann-frontend.traffic-test-backend-ksdjn012.s-cloud.net
@@ -41,8 +40,6 @@ cdn-334c.s-cloud.net
 ci-external.dev.s-cloud.net
 ci-external.dev-test.s-cloud.net
 crash-trace.s-cloud.net
-dev.s-cloud.net
-dev-test.s-cloud.net
 dmz.s-cloud.net
 ds.office.s-cloud.net
 e-1-1-v14-fw2.ams5.s-cloud.net
@@ -58,7 +55,6 @@ google-x-conn-rtr1.ams5.s-cloud.net
 i01a.ams4.s-cloud.net
 i02a.ams4.s-cloud.net
 identity.ds.office.s-cloud.net
-int.s-cloud.net
 ip-178-249-139-5.n01.ams5.s-cloud.net
 ip-178-249-139-6.n01.ams5.s-cloud.net
 ip-178-249-139-7.n01.ams5.s-cloud.net
@@ -155,14 +151,6 @@ ve-89-dr1.n01.ams5.s-cloud.net
 ve-90-dr1.m01.ams5.s-cloud.net
 ve-91-dr1.l01.ams5.s-cloud.net
 vpn1.s-cloud.net
-www.ampelmann-et.traffic-test-backend-ksdjn012.s-cloud.net
-www.ampelmann-frontend.traffic-test-backend-ksdjn012.s-cloud.net
-www.ampelmann-media.traffic-test-backend-ksdjn012.s-cloud.net
-www.ampelmann-no-cache.traffic-test-backend-ksdjn012.s-cloud.net
-www.ampelmann-static.traffic-test-backend-ksdjn012.s-cloud.net
-www.ampelmann.traffic-test-backend-ksdjn012.s-cloud.net
-www.bff.traffic-test-backend-ksdjn012.s-cloud.net
-www.traffic-test-backend-ksdjn012.s-cloud.net
 zonedirector0.ber.office.s-cloud.net
 zonedirector0.lax.office.s-cloud.net
 zonedirector1.ber.office.s-cloud.net
@@ -210,7 +198,6 @@ vpn.s-cloud.net
 vpn0.s-cloud.net
 listentest.s-cloud.net
 proxy-us.s-cloud.net
-www.s-cloud.net
 hadoop.int.s-cloud.net
 proxy-au.s-cloud.net
 proxy-ie.s-cloud.net

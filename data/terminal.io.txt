@@ -4,15 +4,11 @@ cms.terminal.io
 client.terminal.io
 apply-123.dev.terminal.io
 apply.terminal.io
-www.client.terminal.io
 client.prod.terminal.io
 vpn.terminal.io
 client.dev.terminal.io
-www.client.dev.terminal.io
-www.terminal.io
 apply.dev.terminal.io
 infra-test.terminal.io
-*.infra-test.terminal.io
 pr-3817-sentinel.dev.terminal.io
 pr-3817-www.dev.terminal.io
 api.terminal.io
@@ -21,10 +17,9 @@ links.mail.terminal.io
 hello.terminal.io
 graphql-engine.dev.terminal.io
 go.dev.terminal.io
-www.dev.terminal.io
+dev.terminal.io
 go.terminal.io
 mp.dev.terminal.io
-dev.terminal.io
 prod.terminal.io
 api-segment.prod.terminal.io
 cdn-segment.prod.terminal.io

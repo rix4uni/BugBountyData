@@ -91,7 +91,7 @@ autonews.ramp.com
 rams.ramp.com
 eagles.ramp.com
 hsn.ramp.com
-www.marketing.ramp.com
+marketing.ramp.com
 btr.ramp.com
 browns.ramp.com
 eonlineus.ramp.com
@@ -129,7 +129,6 @@ medianotary.ramp.com
 farmjournal.ramp.com
 kiss985.cdn.ramp.com
 wrblcolumbusga.ramp.com
-marketing.ramp.com
 wgcl.ramp.com
 kqmt.ramp.com
 morningstar.ramp.com
@@ -196,7 +195,6 @@ accountants.ramp.com
 wral.ramp.com
 central.ramp.com
 rachaelray.ramp.com
-www.ramp.com
 wncnraleighnc.ramp.com
 cdn.api.ramp.com
 buccaneers.ramp.com
@@ -238,7 +236,7 @@ foxlatino.ramp.com
 parenting.ramp.com
 foxsports.ramp.com
 oiq.ramp.com
-www.cdn.ramp.com
+cdn.ramp.com
 dev.ramp.com
 1thingboston.ramp.com
 fnt-enc-vault-api.ramp.com
@@ -370,19 +368,15 @@ petside.cdn.ramp.com
 discovery.ramp.com
 demo-sso.ramp.com
 developers.ramp.com
-*.ramp.com
 url7512.ramp.com
 dfp.qa.ramp.com
 internal-web-cf-investigation-1.ramp.com
 internal-investigation-404s.ramp.com
 privacy.ramp.com
 secretstore.ramp.com
-www.app.ramp.com
 test-cf-pages-code-splitting.ramp.com
-www.test-cf-pages.ramp.com
-app-cf-pages.ramp.com
-www.app-cf-pages.ramp.com
 test-cf-pages.ramp.com
+app-cf-pages.ramp.com
 ryu-pages.ramp.com
 ryu-pages-test.ramp.com
 demo-amq.ramp.com

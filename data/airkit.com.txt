@@ -34,7 +34,6 @@ assets.staging.airkit.com
 o48.rb.airkit.com
 bundles.staging.airkit.com
 cx.airkit.com
-www.airkit.com
 console.airkit.com
 supervisor.prod.airkit.com
 assets.prod.airkit.com
@@ -84,8 +83,6 @@ assets.airkit.com
 webdisk.airkit.com
 us-west-2a.inbound.api.staging.airkit.com
 autodiscover.airkit.com
-www.nextup.airkit.com
-www.staging.airkit.com
 us-east-1.inbound.app.staging.airkit.com
 a04.support.staging.airkit.com
 bundles.prod.airkit.com
@@ -112,7 +109,6 @@ a02.support.staging.airkit.com
 us-east-1.api.staging.airkit.com
 us-east-1c.app.staging.airkit.com
 kits.airkit.com
-www.cx.airkit.com
 a01-support.prod.airkit.com
 developer.prod.airkit.com
 ip-ranges.airkit.com

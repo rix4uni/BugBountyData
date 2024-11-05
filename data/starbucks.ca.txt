@@ -1,4 +1,4 @@
-*.dev.starbucks.ca
+dev.starbucks.ca
 app.starbucks.ca
 app.cert.starbucks.ca
 app.dev.starbucks.ca
@@ -10,7 +10,6 @@ cert.starbucks.ca
 customerservice.starbucks.ca
 customerservicenew.starbucks.ca
 demostore.starbucks.ca
-dev.starbucks.ca
 dev.fr.starbucks.ca
 dr-www.starbucks.ca
 drsecurepaymentform.starbucks.ca
@@ -75,21 +74,6 @@ testsecureui.starbucks.ca
 testsecureuifr.starbucks.ca
 tsticommerceagent.starbucks.ca
 votremelange.starbucks.ca
-www.starbucks.ca
-www.app.starbucks.ca
-www.app.load.starbucks.ca
-www.app.test.starbucks.ca
-www.careers.starbucks.ca
-www.cert.starbucks.ca
-www.dev.starbucks.ca
-www.fr.careers.starbucks.ca
-www.load.starbucks.ca
-www.preview.test.starbucks.ca
-www.solutions.starbucks.ca
-www.store.starbucks.ca
-www.store-en.starbucks.ca
-www.stories.starbucks.ca
-www.test.starbucks.ca
 yourblend.starbucks.ca
 community.starbucks.ca
 v4-mldb03.starbucks.ca
@@ -101,7 +85,6 @@ stars.starbucks.ca
 testglobalassetshost.starbucks.com.starbucks.ca
 w.starbucks.ca
 fr.carrieres.starbucks.ca
-www.fr.carrieres.starbucks.ca
 loadfr-chd.starbucks.ca
 www-iad.starbucks.ca
 dr-securepaymentform.starbucks.ca
@@ -110,7 +93,6 @@ stagesecureuifr.starbucks.ca
 loadsecureuifr.starbucks.ca
 loadwww-chd.starbucks.ca
 secureuifr.starbucks.ca
-www.starbucks.comwww.starbucks.ca
+starbucks.comwww.starbucks.ca
 com.starbucks.ca
 one.starbucks.ca
-www.one.starbucks.ca

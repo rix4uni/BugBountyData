@@ -1,5 +1,4 @@
-*.shein.com
-*.edm.shein.com
+edm.shein.com
 analytics.shein.com
 api.shein.com
 api-gateway-central-dc.shein.com
@@ -30,7 +29,6 @@ cn3-mt190.info-de.shein.com
 count.shein.com
 de.shein.com
 ecrm.shein.com
-edm.shein.com
 es.shein.com
 euqs.shein.com
 eur.shein.com
@@ -122,9 +120,6 @@ us.help.shein.com
 usvpn.shein.com
 vpn.shein.com
 webinars.seller-us.shein.com
-www.shein.com
-www.bankltd-test01.shein.com
-www.eur.shein.com
 za.shein.com
 id.shein.com
 news.asia.shein.com
@@ -188,7 +183,6 @@ xx.shein.com
 api-service-us-gray01.shein.com
 api-shein-test01.shein.com
 api-service-test01.shein.com
-www.us.shein.com
 rcs.shein.com
 api-service-test22.shein.com
 0--c.mail.shein.com
@@ -219,7 +213,6 @@ kr.shein.com
 im-api-chat-central.shein.com
 exchange-webview.shein.com
 design-x-api.shein.com
-www.mail.mail.shein.com
 img2.shein.com
 link2-ar.shein.com
 pubkey-test.shein.com
@@ -227,7 +220,6 @@ dc.shein.com
 news.www.shein.com
 exchange.shein.com
 baoguang.shein.com
-www.mail.shein.com
 download.shein.com
 minerva.shein.com
 sellerhub.shein.com
@@ -1219,7 +1211,7 @@ eur-exchange-webview.shein.com
 1314q1w2imagealpha--17503-stage.mail.shein.com
 17503-0-0-wwwproduction-00--c-prd.mail.shein.com
 900908v2eurate-0--cex6.mail.shein.com
-www.google.com-business-solutions-developers-platform-worldwide.shein.com
+google.com-business-solutions-developers-platform-worldwide.shein.com
 1314q1w2stage-17503-0-0-0-0www.mail.shein.com
 1314q1w2stageqa10--c.mail.shein.com
 17503-0-0-dev1-0.mail.shein.com

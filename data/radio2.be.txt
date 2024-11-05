@@ -1,5 +1,5 @@
-*.hetwarmstekoor.radio2.be
-*.stag.hetwarmstekoor.radio2.be
+hetwarmstekoor.radio2.be
+stag.hetwarmstekoor.radio2.be
 1000klassiekers.radio2.be
 1000klassiekerskoor-gasten.events.radio2.be
 1000klassiekerskoor-vooravond.events.radio2.be
@@ -44,7 +44,6 @@ events.radio2.be
 extra.radio2.be
 forum.radio2.be
 geboorteplaat.radio2.be
-hetwarmstekoor.radio2.be
 iedereentoegankelijk.radio2.be
 interactie.radio2.be
 interactie-stag.radio2.be
@@ -68,7 +67,6 @@ radio2weekwatchers-25052024.events.radio2.be
 raio2weekwatchers-08062024.events.radio2.be
 staatheterin.radio2.be
 stag.radio2.be
-stag.hetwarmstekoor.radio2.be
 static.radio2.be
 static-dev.radio2.be
 static-stag.radio2.be
@@ -87,11 +85,7 @@ weekwatchers.events.radio2.be
 weekwatchersjanuari2023.events.radio2.be
 wenskaart.radio2.be
 wm.radio2.be
-www.radio2.be
-www.doemee.radio2.be
-www.forum.radio2.be
-www.gamw.forum.radio2.be
-www.vivavlaanderen.radio2.be
+gamw.forum.radio2.be
 zomerhit.radio2.be
 zomertop500.radio2.be
 radio2weekwatchers-09032024.events.radio2.be

@@ -8,13 +8,9 @@ nxi-cdn.exponea.com
 exp-framework.exponea.com
 neoengage-va.exponea.com
 wikinea.exponea.com
-*.wikinea.exponea.com
 intercom.exponea.com
-*.intercom.exponea.com
 guides.exponea.com
-*.guides.exponea.com
 abtest-api.exponea.com
-*.abtest-api.exponea.com
 lner.exponea.com
 smretailinc.us.exponea.com
 fcib-map-api.can.exponea.com
@@ -33,7 +29,7 @@ gd5.cdn.gdev.exponea.com
 graylogdev-api.sec.exponea.com
 dev-api.exponea.com
 logs.exponea.com
-www.aaa.sec.exponea.com
+aaa.sec.exponea.com
 cdn-npt-e-joules-com.uk.exponea.com
 thu-status.exponea.com
 pelikan.exponea.com
@@ -105,7 +101,6 @@ jys-status.exponea.com
 haven.uk.exponea.com
 ns-testing-77.gdev.exponea.com
 flipo-pl-cdn.exponea.com
-aaa.sec.exponea.com
 app-1034.qa.exponea.com
 api.mie.exponea.com
 app.e-pfg.exponea.com
@@ -114,7 +109,6 @@ privatebin.exponea.com
 khb-api.exponea.com
 notifications.staging.exponea.com
 vpn2.gcp.exponea.com
-www.vpn-mgmt-sec-01.gcp.exponea.com
 sofology-api.exponea.com
 app.gdev.exponea.com
 api-analytics.6.gdev.exponea.com
@@ -127,7 +121,7 @@ monitoring-service-tmp.exponea.com
 vpn-mgmt-sec-02.sec.exponea.com
 api-fbs.us.exponea.com
 neoengage-us.exponea.com
-www.eng-support.gdev.exponea.com
+eng-support.gdev.exponea.com
 cdn-exp-dfs-uk.exponea.com
 autogit.integrations.exponea.com
 cdn.stg.exponea.com
@@ -155,7 +149,6 @@ fron-2498-default-cloning-beh.analytics.master.gdev.exponea.com
 gd3.app.gdev.exponea.com
 jira-test.exponea.com
 kbc-cdn.exponea.com
-www.shop.exponea.com
 mail1.static.exponea.com
 cdn-bho-wallis.exponea.com
 gnt.exponea.com
@@ -164,7 +157,6 @@ ext1.siem.sec.exponea.com
 gre-status.exponea.com
 monitoring-service2.exponea.com
 slsp-cdn.exponea.com
-www.onboarding.exponea.com
 asset-templates2.exponea.com
 fron-2882-report-table.analytics.qa.gdev.exponea.com
 ellos.exponea.com
@@ -195,10 +187,9 @@ dnb-cdn.us.exponea.com
 pts-status.exponea.com
 api-analytics.staging.exponea.com
 notifications.gd2.exponea.com
-www.graylog-dev.exponea.com
+graylog-dev.exponea.com
 monitoring.gdev.exponea.com
 spl-03.siem.sec.exponea.com
-eng-support.gdev.exponea.com
 fron-3122-rewrite-other-nodes.analytics.master.gdev.exponea.com
 batcher3.exponea.com
 cdn.gd3.exponea.com
@@ -272,7 +263,7 @@ cdn.staging.exponea.com
 dgl-api.exponea.com
 fron-2544-attribution-models.analytics.master.gdev.exponea.com
 monitoring.eu-west1.siem.exponea.com
-www.vpn.exponea.com
+vpn.exponea.com
 mmd-cdn.uk.exponea.com
 dnb-api.us.exponea.com
 api-analytics.qa.gdev.exponea.com
@@ -288,8 +279,7 @@ kbc-api.exponea.com
 cso-status.exponea.com
 grafana.gcp.exponea.com
 sofology-cdn.exponea.com
-www.blog.exponea.com
-www.vpn2.sec.exponea.com
+vpn2.sec.exponea.com
 api.us1.exponea.com
 fcg-status.exponea.com
 exporter.exponea.com
@@ -312,7 +302,7 @@ vulntest.sec.gcp.exponea.com
 app-nxt-victoriassecret.uk.exponea.com
 cdn.gd1.exponea.com
 ctl.exponea.com
-www.sazka.stackrox.exponea.com
+sazka.stackrox.exponea.com
 custom-cin-api-monitoring.exponea.com
 analytics.nay.instance.exponea.com
 jira2.exponea.com
@@ -339,7 +329,6 @@ analytics.qa.gdev.exponea.com
 cdn.us2.exponea.com
 fron-2692-raw-visual-email-ed.analytics.master.gdev.exponea.com
 gqa.app.gdev.exponea.com
-www.guides.exponea.com
 uk1-status.exponea.com
 servicedesk.exponea.com
 afi-status.exponea.com
@@ -539,7 +528,6 @@ cdn.9.gdev.exponea.com
 fis-status.exponea.com
 adalytics-o2-sk-cdn.exponea.com
 service.stackrox.exponea.com
-vpn2.sec.exponea.com
 aeo-api.us.exponea.com
 sentry.can.exponea.com
 cdn.cdg.exponea.com
@@ -553,7 +541,6 @@ api.ftspecialist.exponea.com
 cdn.6.gdev.exponea.com
 fron-2620-catalog-items-calle.analytics.master.gdev.exponea.com
 prediction-api.us.exponea.com
-www.ai.stackrox.exponea.com
 nxi.exponea.com
 spl-04.siem.sec.exponea.com
 demoapp.exponea.com
@@ -567,7 +554,6 @@ packages.exponea.com
 cntdwn.integrations.exponea.com
 dev-aws-public.exponea.com
 discourse.exponea.com
-sazka.stackrox.exponea.com
 monitoring.ai-dev.exponea.com
 sentry-gservice-test.exponea.com
 argocd.gdev.exponea.com
@@ -602,8 +588,6 @@ fron-1390-health-dashboard.analytics.master.gdev.exponea.com
 api-analytics.1.gdev.exponea.com
 maas.cis.exponea.com
 mktg-arcadia-cdn.exponea.com
-www.oldweb.exponea.com
-www.service.stackrox.exponea.com
 indrive-cdn.exponea.com
 o2-status.exponea.com
 analytics.3.gdev.exponea.com
@@ -621,9 +605,7 @@ api.network.exponea.com
 status.exponea.com
 cdn-bho-burton.exponea.com
 fron-1492-sheet-on-the-fly.analytics.master.gdev.exponea.com
-www.smc.exponea.com
 mennace.exponea.com
-www.exponea.com
 lner-cdn.exponea.com
 puc.exponea.com
 api-demoapp.exponea.com
@@ -640,7 +622,6 @@ api.ns-test.static.gdev.exponea.com
 alx.exponea.com
 fron-1463-handle-operators-in.analytics.master.gdev.exponea.com
 gophish-mgmt.sec.gcp.exponea.com
-graylog-dev.exponea.com
 mall-cz-mallgroup-api.exponea.com
 analytics.gd2.exponea.com
 cdn.eu1.exponea.com
@@ -768,10 +749,8 @@ cdn.uk.exponea.com
 mmd-status.exponea.com
 app-campaigns.partners.exponea.com
 ceva.exponea.com
-vpn.exponea.com
 fron-3052-attribute-picker-ov.analytics.master.gdev.exponea.com
 pelikan-hu-api.exponea.com
-www.syslog.us-central1.siem.exponea.com
 intg-tmp.us.exponea.com
 ndm-status.exponea.com
 analytics.j.gdev.exponea.com
@@ -819,7 +798,6 @@ custom-eng-api-monitoring.uk.exponea.com
 custom-api-monitoring.exponea.com
 api-analytics.9.gdev.exponea.com
 lmd-status.exponea.com
-www.academy.exponea.com
 neoengage-va-api.exponea.com
 adastra-partnering-com-cdn.exponea.com
 prod-private.integrations.exponea.com

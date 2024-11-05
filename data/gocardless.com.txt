@@ -1598,7 +1598,7 @@ success.api.gocardless.com
 1a1.bankaccountdata.gocardless.com
 mssql.17.bankaccountdata.gocardless.com
 0-svn.bankaccountdata.gocardless.com
-www.1jeeb.bankaccountdata.gocardless.com
+1jeeb.bankaccountdata.gocardless.com
 tutorials.0.bankaccountdata.gocardless.com
 cloudfront.0jeeb.bankaccountdata.gocardless.com
 2015g.bankaccountdata.gocardless.com
@@ -2142,7 +2142,7 @@ h.0.bankaccountdata.gocardless.com
 0download.bankaccountdata.gocardless.com
 2015-dash.bankaccountdata.gocardless.com
 1yke4.bankaccountdata.gocardless.com
-www.16.bankaccountdata.gocardless.com
+16.bankaccountdata.gocardless.com
 1-ws26.bankaccountdata.gocardless.com
 poland.1jeeb.bankaccountdata.gocardless.com
 0-pp.bankaccountdata.gocardless.com
@@ -2574,7 +2574,6 @@ co.2017.bankaccountdata.gocardless.com
 integration.0.bankaccountdata.gocardless.com
 0jeeblocal.bankaccountdata.gocardless.com
 17-review.bankaccountdata.gocardless.com
-www.ob-auth.gocardless.com
 1jeeb-jinx.bankaccountdata.gocardless.com
 115gwayt6v39z28a.bankaccountdata.gocardless.com
 1398.bankaccountdata.gocardless.com
@@ -3111,7 +3110,6 @@ h.1jeeb.bankaccountdata.gocardless.com
 edge.2015.bankaccountdata.gocardless.com
 zabbix.1jeeb.bankaccountdata.gocardless.com
 new.1jeeb.bankaccountdata.gocardless.com
-1jeeb.bankaccountdata.gocardless.com
 1jeebpay.bankaccountdata.gocardless.com
 0-io.bankaccountdata.gocardless.com
 1jeeb-control.bankaccountdata.gocardless.com
@@ -3151,7 +3149,6 @@ mailhost.1jeeb.bankaccountdata.gocardless.com
 1xero.bankaccountdata.gocardless.com
 op.0.bankaccountdata.gocardless.com
 video.16.bankaccountdata.gocardless.com
-www.ob-auth-staging.gocardless.com
 1jeeb-tools.bankaccountdata.gocardless.com
 1-webmail.bankaccountdata.gocardless.com
 solaris.17.bankaccountdata.gocardless.com
@@ -3171,7 +3168,6 @@ smtp.0.bankaccountdata.gocardless.com
 0web4.bankaccountdata.gocardless.com
 eu.1jeeb.bankaccountdata.gocardless.com
 pop.2017.bankaccountdata.gocardless.com
-www.0.bankaccountdata.gocardless.com
 0-co.bankaccountdata.gocardless.com
 tpe.1jeeb.bankaccountdata.gocardless.com
 1jeeb-win30.bankaccountdata.gocardless.com
@@ -3650,7 +3646,6 @@ mail.080.bankaccountdata.gocardless.com
 2019-test3.bankaccountdata.gocardless.com
 2017-mon.bankaccountdata.gocardless.com
 17cresson.bankaccountdata.gocardless.com
-www.2013.bankaccountdata.gocardless.com
 0-inte.bankaccountdata.gocardless.com
 zimbra.16.bankaccountdata.gocardless.com
 member.16.bankaccountdata.gocardless.com
@@ -4771,7 +4766,6 @@ lists.1jeeb.bankaccountdata.gocardless.com
 0jeeb-development.bankaccountdata.gocardless.com
 0jeebh.bankaccountdata.gocardless.com
 tickets.0.bankaccountdata.gocardless.com
-16.bankaccountdata.gocardless.com
 15library.bankaccountdata.gocardless.com
 1jeebconfluence.bankaccountdata.gocardless.com
 sports.15.bankaccountdata.gocardless.com
@@ -4802,7 +4796,6 @@ temp.10.bankaccountdata.gocardless.com
 2017pc1042.bankaccountdata.gocardless.com
 0ftp1.bankaccountdata.gocardless.com
 2017addons.bankaccountdata.gocardless.com
-www.gocardless.com
 0lib.bankaccountdata.gocardless.com
 ox.1jeeb.bankaccountdata.gocardless.com
 0jeeb-wur.bankaccountdata.gocardless.com
@@ -5075,12 +5068,10 @@ gslink-gainsight.gocardless.com
 partnerportal.gocardless.com
 ux.gocardless.com
 chef.production.gocardless.com
-www.help.gocardless.com
 outbound-payments.gocardless.com
 ob.prod.gocardless.com
 go.gocardless.com
 cdn-logos.gocardless.com
-www.rhino.gocardless.com
 sage.gocardless.com
 dash.bankaccountdata.gocardless.com
 success.gocardless.com

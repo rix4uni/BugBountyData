@@ -6,7 +6,6 @@ test.hybula.com
 agent.hybula.com
 metal.hybula.com
 console.hybula.com
-www.hybula.com
 docs.hybula.com
 portal.hybula.com
 api.hybula.com
@@ -17,4 +16,3 @@ solus.hybula.com
 blacklist.hybula.com
 support.hybula.com
 blog.hybula.com
-www.api.hybula.com

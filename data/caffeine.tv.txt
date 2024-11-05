@@ -1410,11 +1410,9 @@ hls.caffeine.tv
 applink.caffeine.tv
 ssa.caffeine.tv
 content-guide.caffeine.tv
-www.caffeine.tv
 get-clips.development.caffeine.tv
 private.staging.caffeine.tv
 mercy.staging.caffeine.tv
-www.staging.caffeine.tv
 navi.staging.caffeine.tv
 api-sam.staging.caffeine.tv
 api-sam.development.caffeine.tv
@@ -1539,7 +1537,6 @@ www-0-1-5.caffeine.tv
 www-15-4.caffeine.tv
 www-marketing.caffeine.tv
 www-testuni.new-www.caffeine.tv
-www.tma.caffeine.tv
 wx10.stage.caffeine.tv
 wyliemicharter.rtcdn.caffeine.tv
 ycpi-mail-rest-img.events.caffeine.tv
@@ -1548,19 +1545,10 @@ zoomam229mmr.caffeine.tv
 17-121-113-15.events.caffeine.tv
 32ef.events.caffeine.tv
 059-00-9.events.caffeine.tv
-*.caffeine.tv
-*.prod.caffeine.tv
-*.rtcdn.caffeine.tv
-*.stage.caffeine.tv
-*.staging.caffeine.tv
 events-standalone.caffeine.tv
 frescotortillasn.caffeine.tv
 mg.email.caffeine.tv
 static-1n.caffeine.tv
-*.creator.staging.caffeine.tv
-*.creator.caffeine.tv
-*.kyleparrott.infra.caffeine.tv
-*.infra.caffeine.tv
 assets.random-environment.caffeine.tv
 u003ewww.caffeine.tv
 api.random-environment.caffeine.tv
@@ -1725,7 +1713,7 @@ www3-zww8pww85.robmessick.infra.caffeine.tv
 pharmacykousik.infra.ckousik.staging.caffeine.tv
 8t-130.staging.caffeine.tv
 sel-email.sel.staging.caffeine.tv
-www.yu.ckousik.staging.caffeine.tv
+yu.ckousik.staging.caffeine.tv
 webserver.online.o2.staging.caffeine.tv
 35-phx.salesforce.ckousik.staging.caffeine.tv
 3oja.staging.caffeine.tv
@@ -1782,7 +1770,7 @@ realtime-gf.kyleparrott.infra.caffeine.tv
 fedcbasa.ckousik.infra.caffeine.tv
 3ssick-23.infra.caffeine.tv
 traefik-9.ckousik.staging.caffeine.tv
-www.test.cs3.ckousik.staging.caffeine.tv
+test.cs3.ckousik.staging.caffeine.tv
 kyleparrott5454.infra.caffeine.tv
 ggfedc.ckousik.staging.caffeine.tv
 k-editor-7.ckousik.staging.caffeine.tv
@@ -1862,7 +1850,7 @@ punity-dashboard-5.ckousik.staging.caffeine.tv
 webserver.riga.ckousik.staging.caffeine.tv
 210zyx-9.kyleparrott.infra.caffeine.tv
 vssick-dashboard.infra.caffeine.tv
-www.de90.staging.caffeine.tv
+de90.staging.caffeine.tv
 apiadmin-dashboard-8.ckousik.infra.caffeine.tv
 a0zy.robmessick.infra.caffeine.tv
 712.kyleparrott.infra.caffeine.tv
@@ -1878,7 +1866,7 @@ online.www.test3.staging.caffeine.tv
 parapfe-api.ckousik.staging.caffeine.tv
 qi-0.infra.caffeine.tv
 lt-1-b.staging.caffeine.tv
-www.webserver.das.staging.caffeine.tv
+webserver.das.staging.caffeine.tv
 duca.ckousik.staging.caffeine.tv
 2areyes6.kyleparrott.infra.caffeine.tv
 4kjihgfe-15.ckousik.staging.caffeine.tv
@@ -1906,7 +1894,7 @@ jin14.staging.caffeine.tv
 font-2u.ckousik.staging.caffeine.tv
 client.direct.staging.caffeine.tv
 ssh.ns1.texas.staging.caffeine.tv
-www.www.k2.ckousik.staging.caffeine.tv
+www.k2.ckousik.staging.caffeine.tv
 j3214z.ckousik.infra.caffeine.tv
 hgfedcbarobmessick23.kyleparrott.infra.caffeine.tv
 4ick-6.kyleparrott.infra.caffeine.tv
@@ -1950,10 +1938,10 @@ s06.staging.caffeine.tv
 s2frelease.traefik.staging.caffeine.tv
 webserver.mail.qa2.ckousik.staging.caffeine.tv
 jihde-5.kyleparrott.infra.caffeine.tv
-www.findmy.staging.caffeine.tv
+findmy.staging.caffeine.tv
 database02.auth-ns.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.staging.caffeine.tv
 67656.kyleparrott.infra.caffeine.tv
-www.vpn.40.ckousik.staging.caffeine.tv
+vpn.40.ckousik.staging.caffeine.tv
 stream-prod-dl.ckousik.staging.caffeine.tv
 rwep.robmessick.infra.caffeine.tv
 smtp.prod.c3po.staging.caffeine.tv
@@ -2045,7 +2033,7 @@ mysteryoftheinquity.apps.osdevtest.os4.jacob.dev.caffeine.tv
 recovery.traefik.staging.caffeine.tv
 vaultw.infra.caffeine.tv
 hgfedcba5876543218z.kyleparrott.infra.caffeine.tv
-www.alma.staging.caffeine.tv
+alma.staging.caffeine.tv
 a2.teredo.auth-ns.teredo.teredo.teredo.auth-ns.auth-ns.staging.caffeine.tv
 edcba0873.kyleparrott.infra.caffeine.tv
 3ditor8.staging.caffeine.tv
@@ -2126,7 +2114,7 @@ xww8apiepi2.robmessick.infra.caffeine.tv
 fpegosho.ckousik.staging.caffeine.tv
 pdmin-8.kyleparrott.infra.caffeine.tv
 rdwserver.ckousik.staging.caffeine.tv
-www.test.online.webserver.mail.staging.caffeine.tv
+test.online.webserver.mail.staging.caffeine.tv
 f-25d.staging.caffeine.tv
 davidchen-jihgfedcbaro.robmessick.infra.caffeine.tv
 qck10.ckousik.staging.caffeine.tv
@@ -2242,7 +2230,7 @@ mail.mo.ckousik.staging.caffeine.tv
 ai-2eyes.kyleparrott.infra.caffeine.tv
 styx.ckousik.staging.caffeine.tv
 ssh.mail.new-www.ckousik.staging.caffeine.tv
-www.webtasarim.ckousik.staging.caffeine.tv
+webtasarim.ckousik.staging.caffeine.tv
 ns1.prod.ntp0.ckousik.staging.caffeine.tv
 n.l0.staging.caffeine.tv
 webmail.mail.gt.ckousik.staging.caffeine.tv
@@ -2257,7 +2245,7 @@ dsrqponmlkjihgfedcbapa.ckousik.infra.caffeine.tv
 wlkj-8.kyleparrott.infra.caffeine.tv
 adwu.staging.caffeine.tv
 gizycko.api.ckousik.staging.caffeine.tv
-www.memo.staging.caffeine.tv
+memo.staging.caffeine.tv
 myportal.api.ckousik.staging.caffeine.tv
 ual-6.kyleparrott.infra.caffeine.tv
 o1-i.staging.caffeine.tv
@@ -2312,7 +2300,7 @@ iutsrqpon4.kyleparrott.infra.caffeine.tv
 ssh.mail.rid.staging.caffeine.tv
 webmail.uran.staging.caffeine.tv
 vutsrqponm-3.robmessick.infra.caffeine.tv
-www.spp.ckousik.staging.caffeine.tv
+spp.ckousik.staging.caffeine.tv
 fremontyxwvutsrqponmlkjihgfedc15.robmessick.infra.caffeine.tv
 ssh.www.bac.ckousik.staging.caffeine.tv
 link-cet.ckousik.staging.caffeine.tv
@@ -2357,10 +2345,10 @@ www-tw3.robmessick.infra.caffeine.tv
 res24.infra.caffeine.tv
 fj7.staging.caffeine.tv
 npi-9w.robmessick.infra.caffeine.tv
-www.dr-sorhaitz-benjamin.ckousik.staging.caffeine.tv
+dr-sorhaitz-benjamin.ckousik.staging.caffeine.tv
 hik28.staging.caffeine.tv
 6ity-api.ckousik.infra.caffeine.tv
-www.idispo-phl.ap.staging.caffeine.tv
+idispo-phl.ap.staging.caffeine.tv
 gf61.kyleparrott.infra.caffeine.tv
 ap4blog.staging.caffeine.tv
 ssh.test.ill.ckousik.staging.caffeine.tv
@@ -2426,7 +2414,7 @@ prod.xac.staging.caffeine.tv
 6ents8.ckousik.infra.caffeine.tv
 pn10.ckousik.staging.caffeine.tv
 pc645.staging.caffeine.tv
-www.ns1.flv.staging.caffeine.tv
+ns1.flv.staging.caffeine.tv
 dmwise18.ckousik.infra.caffeine.tv
 ptf2.ckousik.staging.caffeine.tv
 8es-dashboard.robmessick.infra.caffeine.tv
@@ -2454,7 +2442,7 @@ ynmlkjihg.ckousik.staging.caffeine.tv
 urrott-27.infra.caffeine.tv
 wvutsrqp7.ckousik.staging.caffeine.tv
 ue-editor-8.ckousik.staging.caffeine.tv
-www.online.srv16.staging.caffeine.tv
+online.srv16.staging.caffeine.tv
 betf.staging.caffeine.tv
 mail.ssh.prova.ckousik.staging.caffeine.tv
 qa.mobile2.ckousik.staging.caffeine.tv
@@ -2489,7 +2477,7 @@ ns1.prod.millenium.ckousik.staging.caffeine.tv
 robmessick-790.infra.caffeine.tv
 mfz6.staging.caffeine.tv
 ls-29.kyleparrott.infra.caffeine.tv
-www.webmail.lottery.ckousik.staging.caffeine.tv
+webmail.lottery.ckousik.staging.caffeine.tv
 fermi.staging.caffeine.tv
 et-2-0.ckousik.infra.caffeine.tv
 webserver.test.sftp.staging.caffeine.tv
@@ -2511,7 +2499,7 @@ yantis9.ckousik.staging.caffeine.tv
 65-nm-7.robmessick.infra.caffeine.tv
 bank-fe.staging.caffeine.tv
 iraefik9.infra.caffeine.tv
-www.online.inc.ckousik.staging.caffeine.tv
+online.inc.ckousik.staging.caffeine.tv
 s3-com.staging.caffeine.tv
 bdsc.webapps.ckousik.staging.caffeine.tv
 fcbatraefik.robmessick.infra.caffeine.tv
@@ -2533,7 +2521,7 @@ on-8.staging.caffeine.tv
 gick3.staging.caffeine.tv
 api929.robmessick.infra.caffeine.tv
 idol-anime.ckousik.staging.caffeine.tv
-www.www.freemail.ckousik.staging.caffeine.tv
+www.freemail.ckousik.staging.caffeine.tv
 slaltime-7.kyleparrott.infra.caffeine.tv
 33zy.infra.caffeine.tv
 apispring.ckousik.staging.caffeine.tv
@@ -2542,7 +2530,7 @@ kghlyncext.ckousik.staging.caffeine.tv
 fremontent-cltimerea.ckousik.staging.caffeine.tv
 y-prd.staging.caffeine.tv
 way2k10cas2.corp.ckousik.staging.caffeine.tv
-www.webserver.cpanel.ckousik.staging.caffeine.tv
+webserver.cpanel.ckousik.staging.caffeine.tv
 vpn.ftp.moj.ckousik.staging.caffeine.tv
 fremont-1-o0.ckousik.staging.caffeine.tv
 4d9j.staging.caffeine.tv
@@ -2617,7 +2605,7 @@ api-1871.kyleparrott.infra.caffeine.tv
 ns1.test.tempus.staging.caffeine.tv
 cqpon8.robmessick.infra.caffeine.tv
 email.rm.ckousik.staging.caffeine.tv
-www.wellth.ckousik.staging.caffeine.tv
+wellth.ckousik.staging.caffeine.tv
 cadmin-4.ckousik.staging.caffeine.tv
 8nt-10i.staging.caffeine.tv
 42zyxwvutsrqponml-11.kyleparrott.infra.caffeine.tv
@@ -2820,7 +2808,7 @@ quarratanews.ckousik.staging.caffeine.tv
 staff2.staging.caffeine.tv
 madminmlkjihgfed.ckousik.staging.caffeine.tv
 geyes-editor13.infra.caffeine.tv
-www.online.transfer.ckousik.staging.caffeine.tv
+online.transfer.ckousik.staging.caffeine.tv
 qoj.staging.caffeine.tv
 unreal.staging.caffeine.tv
 slave.console.ckousik.staging.caffeine.tv
@@ -2873,7 +2861,7 @@ i_qa.staging.caffeine.tv
 zk7.staging.caffeine.tv
 8leparrott6.infra.caffeine.tv
 pedcba.robmessick.infra.caffeine.tv
-www.sur.ckousik.staging.caffeine.tv
+sur.ckousik.staging.caffeine.tv
 jonml.infra.caffeine.tv
 43210zyxwvut-3.kyleparrott.infra.caffeine.tv
 davidchen-vpiadmin28.ckousik.staging.caffeine.tv
@@ -2881,7 +2869,7 @@ ns1.webmail.tcdn.ckousik.staging.caffeine.tv
 57416.staging.caffeine.tv
 node5065.ckousik.staging.caffeine.tv
 fremont-guide-editoreditor-dashboard.api.ckousik.staging.caffeine.tv
-www.vpn.kk.staging.caffeine.tv
+vpn.kk.staging.caffeine.tv
 lpg.ckousik.staging.caffeine.tv
 7pi6.kyleparrott.infra.caffeine.tv
 online.ns1.radius.ckousik.staging.caffeine.tv
@@ -2906,7 +2894,7 @@ dealtime23.ckousik.infra.caffeine.tv
 3n86.ckousik.staging.caffeine.tv
 ftp.ns1.uninett-gw.ckousik.staging.caffeine.tv
 680.www.staging.caffeine.tv
-www.test.ngo.ckousik.staging.caffeine.tv
+test.ngo.ckousik.staging.caffeine.tv
 gzhdl.ckousik.staging.caffeine.tv
 foster06.ckousik.staging.caffeine.tv
 twmkji.robmessick.infra.caffeine.tv
@@ -3011,7 +2999,7 @@ prod.bd.staging.caffeine.tv
 ugfedcba9871.robmessick.infra.caffeine.tv
 ssh.online.dic.staging.caffeine.tv
 ftp.webserver.g.staging.caffeine.tv
-www.vpn.mx11.ckousik.staging.caffeine.tv
+vpn.mx11.ckousik.staging.caffeine.tv
 www-constantcontact.ckousik.staging.caffeine.tv
 kyleparrott0--2.infra.caffeine.tv
 e-6-p.staging.caffeine.tv
@@ -3060,7 +3048,7 @@ api-i.robmessick.infra.caffeine.tv
 webmail.ghost.ckousik.staging.caffeine.tv
 clt-12.ckousik.staging.caffeine.tv
 stisrtsrqponml-7.kyleparrott.infra.caffeine.tv
-www.sh1.staging.caffeine.tv
+sh1.staging.caffeine.tv
 meetmeamer.corp.ckousik.staging.caffeine.tv
 ssh.vpn.score.ckousik.staging.caffeine.tv
 mpi-7.robmessick.infra.caffeine.tv
@@ -3105,9 +3093,9 @@ pparrott-8.infra.caffeine.tv
 google.dna.ckousik.staging.caffeine.tv
 webserver.www.epost.ckousik.staging.caffeine.tv
 ba1876editor-dashboard.robmessick.infra.caffeine.tv
-www.webmail.app3.ckousik.staging.caffeine.tv
+webmail.app3.ckousik.staging.caffeine.tv
 webserver.ssh.integra.ckousik.staging.caffeine.tv
-www.harringtonpark.ckousik.staging.caffeine.tv
+harringtonpark.ckousik.staging.caffeine.tv
 srqp-4d.ckousik.staging.caffeine.tv
 utsapi-5.robmessick.infra.caffeine.tv
 0me-6.ckousik.staging.caffeine.tv
@@ -3174,7 +3162,7 @@ fzft.staging.caffeine.tv
 ftp.vpn.calcium.staging.caffeine.tv
 uih-49.staging.caffeine.tv
 sabc1.staging.caffeine.tv
-www.scaappt.ckousik.staging.caffeine.tv
+scaappt.ckousik.staging.caffeine.tv
 kw-aww-18.robmessick.infra.caffeine.tv
 webserver.forums.ckousik.staging.caffeine.tv
 432124.infra.caffeine.tv
@@ -3231,7 +3219,7 @@ test.mail.bach.ckousik.staging.caffeine.tv
 x3qo.ckousik.staging.caffeine.tv
 07.m.staging.caffeine.tv
 h76541.ckousik.staging.caffeine.tv
-www.smtp.plesk.ckousik.staging.caffeine.tv
+smtp.plesk.ckousik.staging.caffeine.tv
 wwwsww.robmessick.infra.caffeine.tv
 5ok-31.staging.caffeine.tv
 2-2s.staging.caffeine.tv
@@ -3356,7 +3344,7 @@ ftp.edmonton.ckousik.staging.caffeine.tv
 webmail.test.memo.staging.caffeine.tv
 7esx0zyxwvut.kyleparrott.infra.caffeine.tv
 cont-itime.infra.caffeine.tv
-www.bpre.accounts.webdev.ckousik.staging.caffeine.tv
+bpre.accounts.webdev.ckousik.staging.caffeine.tv
 ftp.online.sc.ckousik.staging.caffeine.tv
 communityreyesdashboard.kyleparrott.infra.caffeine.tv
 reparrott2.infra.caffeine.tv
@@ -3385,7 +3373,7 @@ uk18.ckousik.staging.caffeine.tv
 vdcb.kyleparrott.infra.caffeine.tv
 3nt-8z.staging.caffeine.tv
 ultime-5.ckousik.infra.caffeine.tv
-www.online.81.ckousik.staging.caffeine.tv
+online.81.ckousik.staging.caffeine.tv
 corp-signin.ckousik.staging.caffeine.tv
 smtp.sap.staging.caffeine.tv
 browsertc.ckousik.staging.caffeine.tv
@@ -3424,14 +3412,14 @@ es-dashboard.ckousik.staging.caffeine.tv
 3i17.ckousik.infra.caffeine.tv
 ipi1.staging.caffeine.tv
 96hfthost.ckousik.staging.caffeine.tv
-www.vpn.training1.ckousik.staging.caffeine.tv
+vpn.training1.ckousik.staging.caffeine.tv
 49f74.ckousik.staging.caffeine.tv
 tard-3.staging.caffeine.tv
 9tsrq26.ckousik.staging.caffeine.tv
 chemwatch.tomnook.staging.caffeine.tv
 frex6e.ckousik.staging.caffeine.tv
 psick-apiadmin-0-s0.ckousik.staging.caffeine.tv
-www.webmail.kunden.ckousik.staging.caffeine.tv
+webmail.kunden.ckousik.staging.caffeine.tv
 ayes25.staging.caffeine.tv
 ramprasadbommaganty.ckousik.staging.caffeine.tv
 5es16.ckousik.staging.caffeine.tv

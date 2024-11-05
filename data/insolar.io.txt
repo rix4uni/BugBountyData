@@ -49,7 +49,6 @@ graylog.insolar.io
 enterprise.insolar.io
 prometheus.insolar.io
 wallet.insolar.io
-www.insolar.io
 registry.insolar.io
 ui-registry-releases.insolar.io
 registry-releases.insolar.io
@@ -279,21 +278,15 @@ u1-chat-alpha.dev.insolar.io
 u1-chat-beta.dev.insolar.io
 wallet-front.dev-wallet-1.k8s-dev.insolar.io
 wallet-api.dev-wallet-1.k8s-dev.insolar.io
-*.insolar.io
 www70.insolar.io
-*.mainnet.insolar.io
-*.test.insolar.io
-*.testnet.insolar.io
-*.svrn-demo.dev.insolar.io
-*.svalbygn.dev.insolar.io
-*.yedyuut.dev.insolar.io
-*.garage.insolar.io
+mainnet.insolar.io
+testnet.insolar.io
 monitoring.k8s-dev.insolar.io
 prometheus.k8s-dev.insolar.io
 beachhead-dashboard.dev.insolar.io
 wallet-api.sadako.insolar.io
 wallet.sadako.insolar.io
-*.uscifarm.insolar.io
+uscifarm.insolar.io
 alerts.saiv-stage.insolar.io
 loki.uscifarm.insolar.io
 grafana.uscifarm.insolar.io
@@ -312,17 +305,13 @@ wallet-api.dev-wallet.k8s-dev.insolar.io
 internal-wallet-api.dev-wallet.k8s-dev.insolar.io
 internal-wallet-front.dev-wallet.k8s-dev.insolar.io
 site.xns.k8s-dev.insolar.io
-*.apidocs.k8s-dev.insolar.io
-*.xns.k8s-dev.insolar.io
 api.demo-saiv.saiv.insolar.io
-*.site-insolar-io.k8s-dev.insolar.io
 internal-wallet-api.dev-wallet-3.k8s-dev.insolar.io
 internal-wallet-front.dev-wallet-3.k8s-dev.insolar.io
 prometheus.stage-saiv.insolar.io
 demo-sc-one-gamma.dev.insolar.io
 landing1.dev.insolar.io
 demo-sc-one-beta.dev.insolar.io
-*.apidocs-insolar-io.k8s-dev.insolar.io
 explorer-api.mainnet.insolar.io
 explorer.mainnet.insolar.io
 alerts.k8s-mainnet.insolar.io
@@ -337,7 +326,7 @@ wallet-front.demo-wallet.k8s-dev.insolar.io
 be-front.demo-wallet.k8s-dev.insolar.io
 saiv-admin-api.dev.insolar.io
 saiv-api.dev.insolar.io
-*.dev-site-insolar-io.k8s-dev.insolar.io
+dev-site-insolar-io.k8s-dev.insolar.io
 wallet-api-external.demo-wallet.k8s-dev.insolar.io
 wallet-front.qa-wallet.k8s-dev.insolar.io
 wallet-api.qa-wallet.k8s-dev.insolar.io
@@ -361,7 +350,6 @@ heb-gamma.dev.insolar.io
 heb-beta.dev.insolar.io
 heb-alpha.dev.insolar.io
 teamcity-build-retryer.dev.insolar.io
-*.dev.insolar.io
 monitoring.k8-dev.insolar.io
 teamcity-hooks.dev.insolar.io
 explorer.qa-block-explorer-beta.insolar.io
@@ -392,7 +380,7 @@ u1-chat-alpha.qa-uranium.insolar.io
 u1-chat-gamma.dev-uranium.insolar.io
 u1-chat-alpha.dev-uranium.insolar.io
 u1-chat-beta.dev-uranium.insolar.io
-*.qa-block-explorer-stage.insolar.io
+qa-block-explorer-stage.insolar.io
 monitoring.dev.insolar.io
 teamcity.int.k8s.insolar.io
 teamcity-tmp.int.k8s.insolar.io
@@ -405,12 +393,7 @@ explorer-alpha.qa.insolar.io
 testsite1.dev.insolar.io
 testsite2.dev.insolar.io
 confluence.pdc.dev.insolar.io
-dev-site-insolar-io.k8s-dev.insolar.io
 iowallet-api.test.insolar.io
-mainnet.insolar.io
-qa-block-explorer-stage.insolar.io
-testnet.insolar.io
-uscifarm.insolar.io
 www1.insolar.io
 hypervisor-10.insolar.io
 wd.insolar.io
@@ -701,7 +684,7 @@ dboyront04.5pi.demo-saiv3.insolar.io
 133-106web-api.demo-saiv3.insolar.io
 teamcity.01implepi.demo-saiv3.insolar.io
 25797-soc1.demo-saiv3.insolar.io
-www.naa.5pi.demo-saiv3.insolar.io
+naa.5pi.demo-saiv3.insolar.io
 a27974844-smtp.demo-saiv3.insolar.io
 0xasiancatx0-ai.demo-saiv3.insolar.io
 1api.demo-saiv3.insolar.io
@@ -748,7 +731,7 @@ jdesigncore.6fy.demo-saiv3.insolar.io
 hom1-infoclient.6.demo-saiv3.insolar.io
 xiyoujiyulechengzhenqiandubo.6fy.demo-saiv3.insolar.io
 246-smurfet.demo-saiv3.insolar.io
-www.36api-3.demo-saiv3.insolar.io
+36api-3.demo-saiv3.insolar.io
 dlw238-2.6fy.demo-saiv3.insolar.io
 20796-api-host.demo-saiv3.insolar.io
 strapi.4i.demo-saiv3.insolar.io
@@ -760,7 +743,7 @@ api.5m-api.demo-saiv3.insolar.io
 173-172lva.demo-saiv3.insolar.io
 24web-api.demo-saiv3.insolar.io
 fall766.6.demo-saiv3.insolar.io
-www.36ail1api.demo-saiv3.insolar.io
+36ail1api.demo-saiv3.insolar.io
 0ugapi-3.demo-saiv3.insolar.io
 08-br42-api-3.demo-saiv3.insolar.io
 a-nanandc.demo-saiv3.insolar.io
@@ -821,7 +804,7 @@ hss-ppls-0133.pplsira.a19-a9.demo-saiv3.insolar.io
 152-70zyx.demo-saiv3.insolar.io
 0uutage-saiv.demo-saiv3.insolar.io
 jaeger.k8s.5pi.demo-saiv3.insolar.io
-www.exportwww.1.demo-saiv3.insolar.io
+exportwww.1.demo-saiv3.insolar.io
 5sjcommerce2pi.demo-saiv3.insolar.io
 253-24ns3-api.demo-saiv3.insolar.io
 a500-repo-imarketing3.demo-saiv3.insolar.io
@@ -847,7 +830,7 @@ macdesign1-007.5pi.demo-saiv3.insolar.io
 918-cimplepi.demo-saiv3.insolar.io
 30667-agus.demo-saiv3.insolar.io
 0mbentry-registrapi.demo-saiv3.insolar.io
-www.999-admin.demo-saiv3.insolar.io
+999-admin.demo-saiv3.insolar.io
 38-72roject2.demo-saiv3.insolar.io
 30b68september1-api.demo-saiv3.insolar.io
 release.2-bestptc.demo-saiv3.insolar.io
@@ -982,7 +965,7 @@ onshilan-mobileapp.6.demo-saiv3.insolar.io
 amozesh.2i.demo-saiv3.insolar.io
 a07theunderworld.demo-saiv3.insolar.io
 33875api-3.demo-saiv3.insolar.io
-www.jeito.life.s.a9.demo-saiv3.insolar.io
+jeito.life.s.a9.demo-saiv3.insolar.io
 aaccess.demo-saiv3.insolar.io
 0i-6fy.demo-saiv3.insolar.io
 152-7-zaryab.demo-saiv3.insolar.io
@@ -1098,7 +1081,7 @@ mallory.2i.demo-saiv3.insolar.io
 api.0supportapi.demo-saiv3.insolar.io
 a35-kjih.demo-saiv3.insolar.io
 32405hpjlolvbpi.demo-saiv3.insolar.io
-www.282-6.demo-saiv3.insolar.io
+282-6.demo-saiv3.insolar.io
 6rmpi8.demo-saiv3.insolar.io
 2zscimplepi.demo-saiv3.insolar.io
 s820b.6fy.demo-saiv3.insolar.io
@@ -1147,7 +1130,7 @@ ashiga-body-xsrvjp.0zyx.demo-saiv3.insolar.io
 csg-est-0209.csg.0zyx.demo-saiv3.insolar.io
 0r8.4i.demo-saiv3.insolar.io
 9mjihg.demo-saiv3.insolar.io
-www.87zyx.demo-saiv3.insolar.io
+87zyx.demo-saiv3.insolar.io
 server.demo.4i.demo-saiv3.insolar.io
 004460testsite-insolar.demo-saiv3.insolar.io
 2d627-insolar-soc1.demo-saiv3.insolar.io
@@ -1191,7 +1174,7 @@ tokushima-syaken-com.4i.demo-saiv3.insolar.io
 33995uts.demo-saiv3.insolar.io
 26cgp.demo-saiv3.insolar.io
 2f2f4api8.demo-saiv3.insolar.io
-www.secure2.4i.demo-saiv3.insolar.io
+secure2.4i.demo-saiv3.insolar.io
 30thkji.demo-saiv3.insolar.io
 kyouei.demo.a9.demo-saiv3.insolar.io
 02-onm.demo-saiv3.insolar.io
@@ -1325,7 +1308,7 @@ taty.4i.demo-saiv3.insolar.io
 6jbcimplepi.demo-saiv3.insolar.io
 173-172-web-api.demo-saiv3.insolar.io
 bikinistore3.a9.demo-saiv3.insolar.io
-www.saransk.6.demo-saiv3.insolar.io
+saransk.6.demo-saiv3.insolar.io
 14nianshijiebeishijiananding1.demo-saiv3.insolar.io
 jxgc.6.demo-saiv3.insolar.io
 1ingapi-4.demo-saiv3.insolar.io
@@ -1379,7 +1362,7 @@ baijialegailvshouyi.4i.demo-saiv3.insolar.io
 6my-landing1.demo-saiv3.insolar.io
 7jtupportapi.demo-saiv3.insolar.io
 a7nnanomi-xsrvjp.demo-saiv3.insolar.io
-www.aapins2.demo-saiv3.insolar.io
+aapins2.demo-saiv3.insolar.io
 231-175-imarketing3.demo-saiv3.insolar.io
 3b56-apins2.demo-saiv3.insolar.io
 27-243-jixie-api.demo-saiv3.insolar.io
@@ -1453,7 +1436,7 @@ sbtydbfd.a9.demo-saiv3.insolar.io
 0fradmin.demo-saiv3.insolar.io
 1uk.2i.demo-saiv3.insolar.io
 _9estsite-insolar.demo-saiv3.insolar.io
-www.wifi.5pi.demo-saiv3.insolar.io
+wifi.5pi.demo-saiv3.insolar.io
 211-117cimplepi.demo-saiv3.insolar.io
 0t3odobilldev1.demo-saiv3.insolar.io
 5y9-6.demo-saiv3.insolar.io
@@ -1482,7 +1465,7 @@ dbbiddata01qa-6120.1.demo-saiv3.insolar.io
 253-61-t.demo-saiv3.insolar.io
 vpn-ha.2i.demo-saiv3.insolar.io
 145-192gus.demo-saiv3.insolar.io
-www.be.wip.net.11frame.demo-saiv3.insolar.io
+be.wip.net.11frame.demo-saiv3.insolar.io
 2000-hgf.demo-saiv3.insolar.io
 6-demo-vm-api.demo-saiv3.insolar.io
 consigliori.1.demo-saiv3.insolar.io
@@ -1680,7 +1663,7 @@ infamouz.6.demo-saiv3.insolar.io
 183-233api-3.demo-saiv3.insolar.io
 ofcgw.012bn-vulcan.demo-saiv3.insolar.io
 24272pi-host.demo-saiv3.insolar.io
-www.7-ssl8api.demo-saiv3.insolar.io
+7-ssl8api.demo-saiv3.insolar.io
 30956-yseapi.demo-saiv3.insolar.io
 nakatsurutomoko.compi.6.demo-saiv3.insolar.io
 709-n.demo-saiv3.insolar.io
@@ -1689,7 +1672,7 @@ master.02pi-host.demo-saiv3.insolar.io
 133-164ayamikokuhuku-compi.demo-saiv3.insolar.io
 30572edawoomtrpi.demo-saiv3.insolar.io
 02l-godobilldev1.demo-saiv3.insolar.io
-www.2012-4i.demo-saiv3.insolar.io
+2012-4i.demo-saiv3.insolar.io
 97sesei.demo-saiv3.insolar.io
 189-test.demo-saiv3.insolar.io
 7v1pi-test.demo-saiv3.insolar.io
@@ -1725,7 +1708,7 @@ sentry.registryer.4i.demo-saiv3.insolar.io
 6ekpi-3.demo-saiv3.insolar.io
 0usuebles.demo-saiv3.insolar.io
 6kxentry-registry.demo-saiv3.insolar.io
-www.87gp.demo-saiv3.insolar.io
+87gp.demo-saiv3.insolar.io
 44k-api-test.demo-saiv3.insolar.io
 1create-es-comai.demo-saiv3.insolar.io
 3020c-6fy.demo-saiv3.insolar.io
@@ -1758,7 +1741,7 @@ aamwv.demo-saiv3.insolar.io
 2a595pgadmin-api.demo-saiv3.insolar.io
 4i-2i.demo-saiv3.insolar.io
 2o7agafriend2-api.demo-saiv3.insolar.io
-www.formular.0zyx.demo-saiv3.insolar.io
+formular.0zyx.demo-saiv3.insolar.io
 118-166pw6kkn.demo-saiv3.insolar.io
 confluence-aws.0zyx.demo-saiv3.insolar.io
 186-33tage-saiv.demo-saiv3.insolar.io
@@ -1888,7 +1871,7 @@ hypervisor.12-ozled1pi.demo-saiv3.insolar.io
 13539pgadmin-api.demo-saiv3.insolar.io
 128-153-api.demo-saiv3.insolar.io
 web11973.0zyx.demo-saiv3.insolar.io
-www.2012nsolar-api.demo-saiv3.insolar.io
+2012nsolar-api.demo-saiv3.insolar.io
 ypi.4i.demo-saiv3.insolar.io
 187-93ampingfirst2.demo-saiv3.insolar.io
 43v-vm-api.demo-saiv3.insolar.io
@@ -1982,7 +1965,7 @@ etec.6.demo-saiv3.insolar.io
 337395upportapi.demo-saiv3.insolar.io
 149-236yseapi.demo-saiv3.insolar.io
 170-130pgadmin-api.demo-saiv3.insolar.io
-www.88.2i.demo-saiv3.insolar.io
+88.2i.demo-saiv3.insolar.io
 a41ns3-api.demo-saiv3.insolar.io
 999999.demo-saiv3.insolar.io
 021fenchengii.demo-saiv3.insolar.io
@@ -2040,7 +2023,7 @@ is-is.mc.prod.a9.demo-saiv3.insolar.io
 8qppiaws.demo-saiv3.insolar.io
 235-204-be-fronov.demo-saiv3.insolar.io
 86s-2i.demo-saiv3.insolar.io
-www.rmt.23-227-38-68-jihg.demo-saiv3.insolar.io
+rmt.23-227-38-68-jihg.demo-saiv3.insolar.io
 4oi-6.demo-saiv3.insolar.io
 2ba97dmin-apiremote.demo-saiv3.insolar.io
 24473etherlands-api.demo-saiv3.insolar.io
@@ -2081,7 +2064,7 @@ hypervisor.09cimplepi.demo-saiv3.insolar.io
 12944-vuts.demo-saiv3.insolar.io
 xwing911.6.demo-saiv3.insolar.io
 14-235-hypervisor-api.demo-saiv3.insolar.io
-www.pharmacy.0zyx.demo-saiv3.insolar.io
+pharmacy.0zyx.demo-saiv3.insolar.io
 384-muebles.demo-saiv3.insolar.io
 38-46komazawacon-compi.demo-saiv3.insolar.io
 16354-jixie-api.demo-saiv3.insolar.io
@@ -2096,7 +2079,7 @@ baijialedejueqiaowanfa.a9.demo-saiv3.insolar.io
 hypervisor-08.br42.insolar.io
 20-64-ii.demo-saiv3.insolar.io
 217-205ecommerce2pi.demo-saiv3.insolar.io
-www.282nm.demo-saiv3.insolar.io
+282nm.demo-saiv3.insolar.io
 34cccsobnsy0iaftspv.demo-saiv3.insolar.io
 59b683bctpi.demo-saiv3.insolar.io
 3w-apiremote.demo-saiv3.insolar.io
@@ -2106,7 +2089,7 @@ a9a-server-api.demo-saiv3.insolar.io
 2g4gadmin-api.demo-saiv3.insolar.io
 kingchoon001.2i.demo-saiv3.insolar.io
 blessed.5pi.demo-saiv3.insolar.io
-www.2016cba.demo-saiv3.insolar.io
+2016cba.demo-saiv3.insolar.io
 hss-health-l51.health.6.demo-saiv3.insolar.io
 14bea-kji.demo-saiv3.insolar.io
 3155tuoyixiaoyouxisl.demo-saiv3.insolar.io
@@ -2155,7 +2138,7 @@ a38agus.demo-saiv3.insolar.io
 119-vm-api.demo-saiv3.insolar.io
 217-217api-host.demo-saiv3.insolar.io
 02-hwportal-api.demo-saiv3.insolar.io
-www.abbey-ozled1pi.demo-saiv3.insolar.io
+abbey-ozled1pi.demo-saiv3.insolar.io
 49jqwampingfirst2.demo-saiv3.insolar.io
 3ipaegilju.demo-saiv3.insolar.io
 dev.59b683bcsobnsy0iaftspv.demo-saiv3.insolar.io
@@ -2195,7 +2178,7 @@ s909.6.demo-saiv3.insolar.io
 96earyan.demo-saiv3.insolar.io
 1e3komazawacon-compi.demo-saiv3.insolar.io
 6k0upportapi.demo-saiv3.insolar.io
-www.abbeym-insolar.demo-saiv3.insolar.io
+abbeym-insolar.demo-saiv3.insolar.io
 224-51-september1-api.demo-saiv3.insolar.io
 7.185544i.demo-saiv3.insolar.io
 9nh-muebles.demo-saiv3.insolar.io
@@ -2434,7 +2417,7 @@ rayzor.1.demo-saiv3.insolar.io
 244-165api-4.demo-saiv3.insolar.io
 hypervisor.09-wallet-front.demo-saiv3.insolar.io
 netsystem.4i.demo-saiv3.insolar.io
-www.dl.2i.demo-saiv3.insolar.io
+dl.2i.demo-saiv3.insolar.io
 4a7-wvu.demo-saiv3.insolar.io
 0np2i.demo-saiv3.insolar.io
 4we.demo-saiv3.insolar.io
@@ -2466,7 +2449,7 @@ eun1590.2i.demo-saiv3.insolar.io
 44ok-biz.5pi.demo-saiv3.insolar.io
 9bu-tpi.demo-saiv3.insolar.io
 5yampingfirst2.demo-saiv3.insolar.io
-www.lovers.6.demo-saiv3.insolar.io
+lovers.6.demo-saiv3.insolar.io
 116c1ixie-api.demo-saiv3.insolar.io
 5s0ii.demo-saiv3.insolar.io
 176jinbifuguchuanqisifumail1api.demo-saiv3.insolar.io
@@ -2586,7 +2569,7 @@ mail.39-ai.demo-saiv3.insolar.io
 brightstar.0zyx.demo-saiv3.insolar.io
 33b7bdmin.demo-saiv3.insolar.io
 nebula.01pi.demo-saiv3.insolar.io
-www.69mx1api.demo-saiv3.insolar.io
+69mx1api.demo-saiv3.insolar.io
 8169.demo-saiv3.insolar.io
 8n9zled1pi.demo-saiv3.insolar.io
 27822godobilldev1.demo-saiv3.insolar.io
@@ -2679,7 +2662,7 @@ sas-alumni-0027.sasg.1.demo-saiv3.insolar.io
 4-7gpw6kkn.demo-saiv3.insolar.io
 29587gafriend2-api.demo-saiv3.insolar.io
 1qu6halhvazf1qat.demo-saiv3.insolar.io
-www.3gl.demo-saiv3.insolar.io
+3gl.demo-saiv3.insolar.io
 gandg7.1.demo-saiv3.insolar.io
 140-170-ns3-api.demo-saiv3.insolar.io
 4rb-campingfirst2.demo-saiv3.insolar.io
@@ -2699,9 +2682,9 @@ sy3.4i.demo-saiv3.insolar.io
 15027-api.demo-saiv3.insolar.io
 1188suncom-godobilldev1.demo-saiv3.insolar.io
 2ozr3-supportapi.demo-saiv3.insolar.io
-www.549.4i.demo-saiv3.insolar.io
+549.4i.demo-saiv3.insolar.io
 280c1eb-landing1.demo-saiv3.insolar.io
-www.training.24162gadmin-api.demo-saiv3.insolar.io
+training.24162gadmin-api.demo-saiv3.insolar.io
 l8b.5pi.demo-saiv3.insolar.io
 36cccsobnsy0iaftspv.demo-saiv3.insolar.io
 oyl.5pi.demo-saiv3.insolar.io
@@ -2841,7 +2824,7 @@ release.2ntry-registrapi.demo-saiv3.insolar.io
 2c6bb.2i.demo-saiv3.insolar.io
 ksuzuki4.a9.demo-saiv3.insolar.io
 134-104-api-5.demo-saiv3.insolar.io
-www.46-hypervisor-api.demo-saiv3.insolar.io
+46-hypervisor-api.demo-saiv3.insolar.io
 7j8-2i.demo-saiv3.insolar.io
 3-vm-mi.demo-saiv3.insolar.io
 241-231ksobnsy0iaftspv.demo-saiv3.insolar.io
@@ -2853,7 +2836,7 @@ kuber.17seapi.demo-saiv3.insolar.io
 9-demo-api-4.demo-saiv3.insolar.io
 6g1-api-test.demo-saiv3.insolar.io
 164-198ittleboy.demo-saiv3.insolar.io
-www.api.5pi.demo-saiv3.insolar.io
+api.5pi.demo-saiv3.insolar.io
 11-84pi.demo-saiv3.insolar.io
 hss-ppls-0133.pplsira.a19prometheus.demo-saiv3.insolar.io
 gf-demo.6.demo-saiv3.insolar.io
@@ -2945,7 +2928,7 @@ host-209-149-114-72.1.demo-saiv3.insolar.io
 16077ii.demo-saiv3.insolar.io
 52b-littleboy.demo-saiv3.insolar.io
 2013wangshangxianjinqipaishionm.demo-saiv3.insolar.io
-www.aspire.a9.demo-saiv3.insolar.io
+aspire.a9.demo-saiv3.insolar.io
 0zyx-demo-api-4.demo-saiv3.insolar.io
 14fedozled1pi.demo-saiv3.insolar.io
 2006-nayamikokuhuku-compi.demo-saiv3.insolar.io
@@ -3055,7 +3038,7 @@ occ-0-3753-3997.1-ozled1pi.demo-saiv3.insolar.io
 181-agus.demo-saiv3.insolar.io
 7mm-theunderworld.demo-saiv3.insolar.io
 01-csm-iframe.demo-saiv3.insolar.io
-www.mechanics.5pi.demo-saiv3.insolar.io
+mechanics.5pi.demo-saiv3.insolar.io
 y0o.6fy.demo-saiv3.insolar.io
 2kv-mail1api.demo-saiv3.insolar.io
 4vrodq2ms.demo-saiv3.insolar.io
@@ -3076,7 +3059,7 @@ teamcity-01.br42.insolar.io
 122rometheus.demo-saiv3.insolar.io
 0nbpi.demo-saiv3.insolar.io
 217-83-ui-registry.demo-saiv3.insolar.io
-www.dir.6fy.demo-saiv3.insolar.io
+dir.6fy.demo-saiv3.insolar.io
 8-v-muebles.demo-saiv3.insolar.io
 7-2ui.demo-saiv3.insolar.io
 169-103i.demo-saiv3.insolar.io
@@ -3128,7 +3111,7 @@ a2-0zyx.demo-saiv3.insolar.io
 29p-ozled1pi.demo-saiv3.insolar.io
 188-194-g.demo-saiv3.insolar.io
 5pi-demoksobnsy0iaftspv.demo-saiv3.insolar.io
-www.blackwatch.4i.demo-saiv3.insolar.io
+blackwatch.4i.demo-saiv3.insolar.io
 217-83cubeintnj.demo-saiv3.insolar.io
 6ks-hpjlolvbpi.demo-saiv3.insolar.io
 99q-vi.demo-saiv3.insolar.io
@@ -3351,7 +3334,7 @@ portal-beta.6.demo-saiv3.insolar.io
 33220allet-api.demo-saiv3.insolar.io
 7fyji.demo-saiv3.insolar.io
 155-47app-api.demo-saiv3.insolar.io
-www.test.jmarnold.users.4i.demo-saiv3.insolar.io
+test.jmarnold.users.4i.demo-saiv3.insolar.io
 occ-0-1946-2186.1aipiaotouzhuwang.demo-saiv3.insolar.io
 2zjq1-xbw9ce37kbwznwbul.demo-saiv3.insolar.io
 203-174e-api.demo-saiv3.insolar.io
@@ -3412,12 +3395,12 @@ yzw.2i.demo-saiv3.insolar.io
 9xcapi-ns1.demo-saiv3.insolar.io
 252-99-ii.demo-saiv3.insolar.io
 8cedpopmei.demo-saiv3.insolar.io
-www.282edawoomtrpi.demo-saiv3.insolar.io
+282edawoomtrpi.demo-saiv3.insolar.io
 3compjlolvbpi.demo-saiv3.insolar.io
 emea-dev.4i.demo-saiv3.insolar.io
 151111-remoteapi.demo-saiv3.insolar.io
 615-api-4.demo-saiv3.insolar.io
-www.www.1.demo-saiv3.insolar.io
+www.1.demo-saiv3.insolar.io
 337395ii.demo-saiv3.insolar.io
 scary.6.demo-saiv3.insolar.io
 15sem.demo-saiv3.insolar.io
@@ -3528,7 +3511,7 @@ vhn.a9.demo-saiv3.insolar.io
 8dreptember1-api.demo-saiv3.insolar.io
 6fy.demo-saiv3.insolar.io
 3133heunderworld.demo-saiv3.insolar.io
-www.gazette.6fy.demo-saiv3.insolar.io
+gazette.6fy.demo-saiv3.insolar.io
 121-100-landing.demo-saiv3.insolar.io
 6hforumsonm.demo-saiv3.insolar.io
 2e534ksobnsy0iaftspv.demo-saiv3.insolar.io
@@ -3542,7 +3525,7 @@ api.1aipiaotouzhuwang.demo-saiv3.insolar.io
 2-50ryan.demo-saiv3.insolar.io
 35j4198g948mx1api.demo-saiv3.insolar.io
 137-240nsolar-api.demo-saiv3.insolar.io
-www.server53.6.demo-saiv3.insolar.io
+server53.6.demo-saiv3.insolar.io
 134c2-aryan.demo-saiv3.insolar.io
 5pi-demo-netherlands-api.demo-saiv3.insolar.io
 4mcxipjko515m4q5937z.demo-saiv3.insolar.io
@@ -3553,12 +3536,12 @@ leechi.a9.demo-saiv3.insolar.io
 14828fed.demo-saiv3.insolar.io
 238-2-agafriend2-api.demo-saiv3.insolar.io
 58l-0zyx.demo-saiv3.insolar.io
-www.spam.4i.demo-saiv3.insolar.io
+spam.4i.demo-saiv3.insolar.io
 vpn111-eip.1.demo-saiv3.insolar.io
 5rk-wallet-front.demo-saiv3.insolar.io
 1stdol-muebles.demo-saiv3.insolar.io
 340a0api-host.demo-saiv3.insolar.io
-www.2016ate.demo-saiv3.insolar.io
+2016ate.demo-saiv3.insolar.io
 dashboards-external.2i.demo-saiv3.insolar.io
 0kh-apins2.demo-saiv3.insolar.io
 194-151-internal-wallet.demo-saiv3.insolar.io
@@ -3605,7 +3588,7 @@ lc.a-2yu-kji.demo-saiv3.insolar.io
 api.0ui-registry.demo-saiv3.insolar.io
 135-190ji.demo-saiv3.insolar.io
 221b-netpi-ns1.demo-saiv3.insolar.io
-www.38-jixie-api.demo-saiv3.insolar.io
+38-jixie-api.demo-saiv3.insolar.io
 1544-ui-retry.demo-saiv3.insolar.io
 0e0-remoteapi.demo-saiv3.insolar.io
 16-hw-5pi.demo-saiv3.insolar.io
@@ -3927,7 +3910,7 @@ namuro1.4i.demo-saiv3.insolar.io
 27360ww.123.0zyx.demo-saiv3.insolar.io
 10azled1pi.demo-saiv3.insolar.io
 bnt.6.demo-saiv3.insolar.io
-www.premier.a9.demo-saiv3.insolar.io
+premier.a9.demo-saiv3.insolar.io
 206-95i.demo-saiv3.insolar.io
 72ucba.demo-saiv3.insolar.io
 es-01.br42.insolar.io
@@ -3946,11 +3929,11 @@ v182.6.demo-saiv3.insolar.io
 2ibecureapi.demo-saiv3.insolar.io
 7i-dpi.demo-saiv3.insolar.io
 2pi-4i.demo-saiv3.insolar.io
-www.69be-fronov.demo-saiv3.insolar.io
+69be-fronov.demo-saiv3.insolar.io
 195-116vuts.demo-saiv3.insolar.io
 12fgf.demo-saiv3.insolar.io
 7kqns3-api.demo-saiv3.insolar.io
-www.3dorestapi.demo-saiv3.insolar.io
+3dorestapi.demo-saiv3.insolar.io
 5y9heb-landing1.demo-saiv3.insolar.io
 0e4anopypi.demo-saiv3.insolar.io
 uranium.insolar.a9.demo-saiv3.insolar.io
@@ -3971,7 +3954,7 @@ udin.1.demo-saiv3.insolar.io
 74shgf.demo-saiv3.insolar.io
 240-82-vi.demo-saiv3.insolar.io
 a72pins2.demo-saiv3.insolar.io
-www.999-campingfirst2.demo-saiv3.insolar.io
+999-campingfirst2.demo-saiv3.insolar.io
 71eapi.demo-saiv3.insolar.io
 77aeb-api.demo-saiv3.insolar.io
 38fang-forestapi.demo-saiv3.insolar.io
@@ -4181,7 +4164,7 @@ host11.112qpon.demo-saiv3.insolar.io
 2840tage-saiv.demo-saiv3.insolar.io
 3021be-fronov.demo-saiv3.insolar.io
 986-imarketing3.demo-saiv3.insolar.io
-www.survivor.2i.demo-saiv3.insolar.io
+survivor.2i.demo-saiv3.insolar.io
 27ieptember1-api.demo-saiv3.insolar.io
 5pikjih.demo-saiv3.insolar.io
 3672dtheunderworld.demo-saiv3.insolar.io
@@ -4258,8 +4241,8 @@ tong04304.4i.demo-saiv3.insolar.io
 6uacba.demo-saiv3.insolar.io
 0081-shcaypervisor-api.demo-saiv3.insolar.io
 15623ni.demo-saiv3.insolar.io
-www.partypoker.5pi.demo-saiv3.insolar.io
-www.wf.4i.demo-saiv3.insolar.io
+partypoker.5pi.demo-saiv3.insolar.io
+wf.4i.demo-saiv3.insolar.io
 55onm.demo-saiv3.insolar.io
 8zraryan.demo-saiv3.insolar.io
 2014shanghaizhongkaotiyuomazawacon-compi.demo-saiv3.insolar.io
@@ -4309,7 +4292,7 @@ ww45.71.206-carrerasadmin.demo-saiv3.insolar.io
 arkansas.docs.4i.demo-saiv3.insolar.io
 240-107-kjih.demo-saiv3.insolar.io
 20982apiremote.demo-saiv3.insolar.io
-www.39-webmail-api.demo-saiv3.insolar.io
+39-webmail-api.demo-saiv3.insolar.io
 197-221gfed.demo-saiv3.insolar.io
 sas-cam-0005.sasg.6fy.demo-saiv3.insolar.io
 hjw.5pi.demo-saiv3.insolar.io
@@ -4499,7 +4482,6 @@ s410a.0zyx.demo-saiv3.insolar.io
 api.1.demo-saiv3.insolar.io
 5xy-xi.demo-saiv3.insolar.io
 40z-apiremote.demo-saiv3.insolar.io
-www.a-teamerver-api.demo-saiv3.insolar.io
 2f3-forestapi.demo-saiv3.insolar.io
 16-hw-xi.demo-saiv3.insolar.io
 mysticalmomentsindiacom.5pi.demo-saiv3.insolar.io
@@ -4530,7 +4512,7 @@ o27.2i.demo-saiv3.insolar.io
 137-200prometheus.demo-saiv3.insolar.io
 o.2i.demo-saiv3.insolar.io
 1859pi.demo-saiv3.insolar.io
-www.a-supportapi.demo-saiv3.insolar.io
+a-supportapi.demo-saiv3.insolar.io
 3-vm-be-fronov.demo-saiv3.insolar.io
 pharmacistnavi-net.2i.demo-saiv3.insolar.io
 139-66-server-api.demo-saiv3.insolar.io
@@ -4560,7 +4542,7 @@ infoiconalign.146irc-cimplepi.demo-saiv3.insolar.io
 353779imarketing3.demo-saiv3.insolar.io
 2a7bcmailin1-api.demo-saiv3.insolar.io
 133-94ayamikokuhuku-compi.demo-saiv3.insolar.io
-www.addons.a9.demo-saiv3.insolar.io
+addons.a9.demo-saiv3.insolar.io
 206-30orestapi.demo-saiv3.insolar.io
 ismtp.2i.demo-saiv3.insolar.io
 1ql6.demo-saiv3.insolar.io
@@ -4756,7 +4738,7 @@ site.174oc1.demo-saiv3.insolar.io
 herbkenkyujo-spur-jp.1.demo-saiv3.insolar.io
 151-48admin.demo-saiv3.insolar.io
 3a50c-agus.demo-saiv3.insolar.io
-www.88-mi.demo-saiv3.insolar.io
+88-mi.demo-saiv3.insolar.io
 calentamientoglobal.a9.demo-saiv3.insolar.io
 3s2carrerasadmin.demo-saiv3.insolar.io
 3smmurfet.demo-saiv3.insolar.io
@@ -4784,7 +4766,7 @@ feedback-ja.5pi.demo-saiv3.insolar.io
 2xg-ihg.demo-saiv3.insolar.io
 6toui.demo-saiv3.insolar.io
 249-181sl.demo-saiv3.insolar.io
-www.bp.5pi.demo-saiv3.insolar.io
+bp.5pi.demo-saiv3.insolar.io
 4.demo-saiv3.insolar.io
 68h-jihg.demo-saiv3.insolar.io
 36-212murfet.demo-saiv3.insolar.io
@@ -4817,7 +4799,7 @@ huygen.5pi.demo-saiv3.insolar.io
 jina2493.5pi.demo-saiv3.insolar.io
 1fsai.demo-saiv3.insolar.io
 3g1-wainat.demo-saiv3.insolar.io
-www.282ii.demo-saiv3.insolar.io
+282ii.demo-saiv3.insolar.io
 17api.demo-saiv3.insolar.io
 0-evuts.demo-saiv3.insolar.io
 hypervisor-06.br42.insolar.io
@@ -4844,7 +4826,7 @@ s4320a.a9.demo-saiv3.insolar.io
 8li-5pi.demo-saiv3.insolar.io
 353395onm.demo-saiv3.insolar.io
 2w6m-api.demo-saiv3.insolar.io
-www.999pgadmin-api.demo-saiv3.insolar.io
+999pgadmin-api.demo-saiv3.insolar.io
 7vu-api-ns1.demo-saiv3.insolar.io
 9170318383-nayamikokuhuku-compi.demo-saiv3.insolar.io
 8vf2i.demo-saiv3.insolar.io
@@ -5016,12 +4998,12 @@ image-sensors-world.4littleboy.demo-saiv3.insolar.io
 01-testnet-ssl8api.demo-saiv3.insolar.io
 1k8-aryan.demo-saiv3.insolar.io
 6t8qbmvlnift.demo-saiv3.insolar.io
-www.36vi.demo-saiv3.insolar.io
+36vi.demo-saiv3.insolar.io
 119sentry-registry.demo-saiv3.insolar.io
 0r3oallet-front.demo-saiv3.insolar.io
 k1._domainkey.insolar.io
 12f-ii.demo-saiv3.insolar.io
-www.69.6.demo-saiv3.insolar.io
+69.6.demo-saiv3.insolar.io
 basty.6fy.demo-saiv3.insolar.io
 sfo.casper.68xi.demo-saiv3.insolar.io
 k8s.br11.2i.demo-saiv3.insolar.io
@@ -5096,7 +5078,7 @@ sdi.saas.4i.demo-saiv3.insolar.io
 177-228-sem.demo-saiv3.insolar.io
 web1852.6.demo-saiv3.insolar.io
 77n-entry-registrapi.demo-saiv3.insolar.io
-www.filmclub.2i.demo-saiv3.insolar.io
+filmclub.2i.demo-saiv3.insolar.io
 602aryan.demo-saiv3.insolar.io
 2-50-vm-api.demo-saiv3.insolar.io
 101-7-dev-site2.demo-saiv3.insolar.io
@@ -5241,7 +5223,7 @@ email472.a9.demo-saiv3.insolar.io
 01.demo-saiv3.insolar.io
 3wzpjlolvbpi.demo-saiv3.insolar.io
 14146-mi.demo-saiv3.insolar.io
-www.999mtp.demo-saiv3.insolar.io
+999mtp.demo-saiv3.insolar.io
 1nlampingfirst2.demo-saiv3.insolar.io
 311599tage-saiv.demo-saiv3.insolar.io
 tr0-4.5pi.demo-saiv3.insolar.io
@@ -5523,7 +5505,7 @@ ps2-jd1.admin.a9.demo-saiv3.insolar.io
 3ingmigosa.demo-saiv3.insolar.io
 3ezwvu.demo-saiv3.insolar.io
 namph8.2i.demo-saiv3.insolar.io
-www.galaxy.2i.demo-saiv3.insolar.io
+galaxy.2i.demo-saiv3.insolar.io
 77e-g.demo-saiv3.insolar.io
 vy3.5pi.demo-saiv3.insolar.io
 9yx1api.demo-saiv3.insolar.io

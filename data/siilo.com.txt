@@ -1,5 +1,4 @@
 cld-prod-nl.siilo.com
-www.siilo.com
 avt-prod-nl.siilo.com
 web-lb.siilo.com
 spaces.siilo.com
@@ -22,7 +21,6 @@ sandbox-nl.siilo.com
 mjt.siilo.com
 clortho-sandbox.siilo.com
 mjt-dev.siilo.com
-*.siilo.com
 connectonnect.siilo.com
 prod-nl.siilo.com
 sip.siilo.com

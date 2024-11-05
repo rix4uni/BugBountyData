@@ -14,7 +14,6 @@ push.ubiqu.com
 api.access.ubiqu.com
 api.identity.strongpin.ubiqu.com
 demo.ubiqu.com
-www.ubiqu.com
 api.identification.strongpin.ubiqu.com
 apps.ubiqu.com
 api.kpn.auth.access.ubiqu.com
@@ -34,7 +33,6 @@ cpcalendars.ubiqu.com
 cpcontacts.ubiqu.com
 rt.access.ubiqu.com
 runtimev2.ubiqu.com
-www.pstore.ubiqu.com
 api.ubiqu.com
 kpn.api.ubiqu.com
 callback.ubiqu.com

@@ -10,7 +10,6 @@ gazebo-apps.dev.ml.havenstudios.com
 live.telemetry.havenstudios.com
 service.wip.ml.havenstudios.com
 uat.labs.havenstudios.com
-www.havenstudios.com
 wip.telemetry.havenstudios.com
 grafana.infra.havenstudios.com
 wip.services.bleepprivate.havenstudios.com
@@ -67,4 +66,3 @@ has-staging.havenstudios.com
 mtl.perforce.infra.havenstudios.com
 llm.wip.ml.havenstudios.com
 emblem.gradio.wip.ml.havenstudios.com
-*.dev.telemetry.havenstudios.com

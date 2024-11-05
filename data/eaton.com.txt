@@ -5,12 +5,8 @@ evci-next.qa.chargecentral.eaton.com
 testbed.qa.chargecentral.eaton.com
 ev-driver.qa.chargecentral.eaton.com
 blackduck.eaton.com
-www.blackduck.eaton.com
 em2portal-qa.eaton.com
-www.em2portal-qa.eaton.com
-*.dev.chargecentral.eaton.com
 dev.chargecentral.eaton.com
-*.qa.chargecentral.eaton.com
 qa.chargecentral.eaton.com
 brightlayer-bss-r2-dev.eaton.com
 brightlayer-account-rm-r2-dev.eaton.com
@@ -19,9 +15,6 @@ brightlayer-grafana-rm-r2-dev.eaton.com
 brightlayer-k8s-dashboard-rm-r2-dev.eaton.com
 brightlayer-rm-r2-dev.eaton.com
 id-qa.eaton.com
-www.id-qa.eaton.com
 hybridmail.eaton.com
-www.hybridmail.eaton.com
 eid-qa.eaton.com
-www.eaton.com
 www1.eaton.com

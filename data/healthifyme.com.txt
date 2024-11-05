@@ -3,7 +3,7 @@ acctsglinks.healthifyme.com
 email.mailgun.healthifyme.com
 insights-public.healthifyme.com
 api.beta.healthifyme.com
-www.coachdb.healthifyme.com
+coachdb.healthifyme.com
 mis.healthifyme.com
 testbower.healthifyme.com
 apps.healthifyme.com
@@ -40,11 +40,9 @@ cms.healthifyme.com
 cdn.healthifyme.com
 insightsv2.healthifyme.com
 aws.healthifyme.com
-www.webhook.healthifyme.com
+webhook.healthifyme.com
 sglink.healthifyme.com
-coachdb.healthifyme.com
-www.coach.healthifyme.com
-www.k8s.healthifyme.com
+k8s.healthifyme.com
 try.healthifyme.com
 blog-cdn.healthifyme.com
 tf.healthifyme.com
@@ -53,9 +51,7 @@ affiliates.healthifyme.com
 recipe.healthifyme.com
 cloudflare.healthifyme.com
 elb.healthifyme.com
-www.stories.healthifyme.com
 leads.healthifyme.com
-www.beta.healthifyme.com
 tf.apps.healthifyme.com
 visio.healthifyme.com
 o3.info.healthifyme.com
@@ -63,13 +59,11 @@ ssr.healthifyme.com
 email.tx.healthifyme.com
 apps2.healthifyme.com
 healthread.healthifyme.com
-k8s.healthifyme.com
 analytics.healthifyme.com
 taghash.healthifyme.com
 plans.healthifyme.com
 vicidial.healthifyme.com
 eatbetter.healthifyme.com
-www.healthifyme.com
 engagesglinks.healthifyme.com
 vici-international.healthifyme.com
 payment.healthifyme.com
@@ -81,7 +75,6 @@ android.healthifyme.com
 payments.healthifyme.com
 internal.healthifyme.com
 store.healthifyme.com
-webhook.healthifyme.com
 info.healthifyme.com
 prod.healthifyme.com
 account.healthifyme.com
@@ -112,11 +105,7 @@ test.healthifyme.com
 tips.healthifyme.com
 email.healthifyme.com
 blog.healthifyme.com
-*.healthifyme.com
 lp.healthifyme.com
-*.avatar.healthifyme.com
-*.k8s.healthifyme.com
-*.vicidial.healthifyme.com
 api.aws.healthifyme.com
 apps.avatar.healthifyme.com
 apps3.healthifyme.com
@@ -126,7 +115,5 @@ internal.events.healthifyme.com
 loadtest.healthifyme.com
 mumbai.healthifyme.com
 piwik.apps.healthifyme.com
-www.avatar.healthifyme.com
-www.external.healthifyme.com
 108.healthifyme.com
 ca.healthifyme.com

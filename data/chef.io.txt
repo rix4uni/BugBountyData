@@ -2,8 +2,8 @@ communitysit-cloud.chef.io
 sit-cloud.chef.io
 community.sit.chef.io
 community.uat.chef.io
-www.sit.chef.io
-www.uat.chef.io
+sit.chef.io
+uat.chef.io
 uat-cloud.chef.io
 communityuat-cloud.chef.io
 status.chef.io
@@ -11,7 +11,6 @@ telemetry-acceptance.es.chef.io
 telemetry-acceptance.chef.io
 telemetry.chef.io
 telemetry.es.chef.io
-*.telemetry.chef.io
 amtest.saas.chef.io
 isolutions.saas.chef.io
 priceline.saas.chef.io
@@ -22,7 +21,6 @@ e.chef.io
 example.demo.chef.io
 lita-origin-acceptance.es.chef.io
 saas5.demo.chef.io
-www.chef.io
 api-dev-es.chef.io
 events.chef.io
 jackson-river.saas.chef.io
@@ -70,7 +68,7 @@ delivery-forum.chef.io
 moveit.demo.chef.io
 package-router-origin-acceptance.es.chef.io
 automatesaas.chef.io
-www.blog.chef.io
+blog.chef.io
 automate.chef.io
 cag.demo.chef.io
 key.demo.chef.io
@@ -86,8 +84,6 @@ brand.chef.io
 discourse.chef.io
 enterpriseholdings.saas.chef.io
 test-kitchen.chef.io
-www.discourse.chef.io
-www.feedback.chef.io
 api-acceptance.chef.io
 forms.chef.io
 supermarket-preprod.chef.io
@@ -106,11 +102,10 @@ automate.cpcp.chef.io
 compliance.chef.io
 transdev.demo.chef.io
 support-logs.chef.io
-www.learn.chef.io
 account-preprod.chef.io
 summit.chef.io
 test.saas.chef.io
-www.chefconf.chef.io
+chefconf.chef.io
 corp.chef.io
 tickets.chef.io
 exa.demo.chef.io
@@ -136,7 +131,6 @@ account-acceptance.chef.io
 transparencyone.demo.chef.io
 tester.demo.chef.io
 chefconnect.chef.io
-chefconf.chef.io
 chefit.automate.chef.io
 raina-es-upgrade.chef.io
 rer.demo.chef.io
@@ -167,7 +161,6 @@ chefops.automate.chef.io
 lita-origin-delivered.es.chef.io
 slanec.demo.chef.io
 transauto-g0-0-0-13-16-uacc01.ctamr.embrining.chef.io
-www.training.chef.io
 friends.chef.io
 package-router-origin-delivered.es.chef.io
 sks.demo.chef.io
@@ -183,7 +176,6 @@ lita-delivered.es.chef.io
 qwe.demo.chef.io
 supportlink.chef.io
 docs-acceptance.chef.io
-www.community.chef.io
 lita.chef.io
 middlebury-college.saas.chef.io
 prodege.saas.chef.io
@@ -192,7 +184,6 @@ hello.chef.io
 mrcooper.demo.chef.io
 registry.chef360.chef.io
 citrix-webmarket.automate.chef.io
-www.partners.chef.io
 email.chef.io
 expeditor-docs.es.chef.io
 wiki.corp.chef.io
@@ -200,7 +191,6 @@ rrrr.demo.chef.io
 uxresearch.chef.io
 expeditor.chef.io
 downloads-dev.chef.io
-blog.chef.io
 bignews.chef.io
 omnitruck.chef.io
 output.demo.chef.io

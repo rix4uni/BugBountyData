@@ -1,8 +1,6 @@
-*.kaleido.ai
-*.accounts.kaleido.ai
-*.labs.kaleido.ai
-account.kaleido.ai
 accounts.kaleido.ai
+labs.kaleido.ai
+account.kaleido.ai
 api.kaleido.ai
 api-new.kaleido.ai
 app.kaleido.ai
@@ -22,7 +20,6 @@ kld4.host.kaleido.ai
 kld5.host.kaleido.ai
 kld6.host.kaleido.ai
 kld7.host.kaleido.ai
-labs.kaleido.ai
 labs.cr1.kaleido.ai
 lorempicsum.cr1.kaleido.ai
 mongodb.cr1.kaleido.ai
@@ -35,9 +32,6 @@ staging.labs.kaleido.ai
 status.kaleido.ai
 test.kaleido.ai
 tools.kaleido.ai
-www.kaleido.ai
-www.labs.kaleido.ai
-www.staging.labs.kaleido.ai
 staging.accounts.kaleido.ai
 zendesk1.kaleido.ai
 zendesk2.kaleido.ai
@@ -353,7 +347,7 @@ range86-187.nimp-talk.0.cr1.kaleido.ai
 0.cr1.kaleido.ai
 0wildcard_cname_detect1.3.0.cr1.kaleido.ai
 nimp-talk-cpe.0.cr1.kaleido.ai
-www.nimp-talk.0-11.cr1.kaleido.ai
+nimp-talk.0-11.cr1.kaleido.ai
 nimp-talkbrand.0.cr1.kaleido.ai
 00nimp-talk.0.cr1.kaleido.ai
 me-south-1.0.cr1.kaleido.ai
@@ -751,7 +745,7 @@ nimp-talk.0-broadband.cr1.kaleido.ai
 nimp-talk.pantheon.0.cr1.kaleido.ai
 nimp-talk13.0.cr1.kaleido.ai
 fwd.0.cr1.kaleido.ai
-www.nimp-talk.0-17.cr1.kaleido.ai
+nimp-talk.0-17.cr1.kaleido.ai
 mi.nimp-talk.0.cr1.kaleido.ai
 segment-119-226.nimp-talk.0.cr1.kaleido.ai
 hw.0.cr1.kaleido.ai
@@ -1030,7 +1024,7 @@ ns1.nimp-talk.0.cr1.kaleido.ai
 nimp-talkrepo.0.cr1.kaleido.ai
 nimp-talk-isp.0.cr1.kaleido.ai
 akalinimp-talk.0.cr1.kaleido.ai
-www.candoku.4k.0.cr1.kaleido.ai
+candoku.4k.0.cr1.kaleido.ai
 telemar-nimp-talk.0.cr1.kaleido.ai
 evelynnnimp-talk.0.cr1.kaleido.ai
 business.nimp-talk.0.cr1.kaleido.ai
@@ -1216,7 +1210,6 @@ nimp-talksfldmi.0.cr1.kaleido.ai
 nimp-talk-tx.0.cr1.kaleido.ai
 nimp-talk.0-new.cr1.kaleido.ai
 0wildcard_a_detect1.oceania.0.cr1.kaleido.ai
-nimp-talk.0-17.cr1.kaleido.ai
 0-190.cr1.kaleido.ai
 range86-141.0.cr1.kaleido.ai
 nimp-talktpe.0.cr1.kaleido.ai
@@ -1429,7 +1422,7 @@ nimp-talk.0-mweb.cr1.kaleido.ai
 nimp-talk.lan.0.cr1.kaleido.ai
 0wildcard_a_detect1.00.0.cr1.kaleido.ai
 0wildcard_cname_detect1.dynamicip.0.cr1.kaleido.ai
-www.10.0.cr1.kaleido.ai
+10.0.cr1.kaleido.ai
 range86-176-nimp-talk.0.cr1.kaleido.ai
 nimp-talk-ap-east.0.cr1.kaleido.ai
 netherlands.0.cr1.kaleido.ai
@@ -1575,7 +1568,7 @@ iplsin.0.cr1.kaleido.ai
 0wildcard_cname_detect1.ocn.0.cr1.kaleido.ai
 c.nimp-talk.0.cr1.kaleido.ai
 0wildcard_cname_detect1.forum.0.cr1.kaleido.ai
-www.candoku.11.0.cr1.kaleido.ai
+candoku.11.0.cr1.kaleido.ai
 nimp-talk.0-07.cr1.kaleido.ai
 nimp-talk.0-tm.cr1.kaleido.ai
 business.0.cr1.kaleido.ai
@@ -1867,7 +1860,7 @@ ed.nimp-talk.0.cr1.kaleido.ai
 range86-186.0.cr1.kaleido.ai
 nimp-talkrange86-158.0.cr1.kaleido.ai
 lft.0.cr1.kaleido.ai
-www.nimp-talk.11.0.cr1.kaleido.ai
+nimp-talk.11.0.cr1.kaleido.ai
 student.nimp-talk.0.cr1.kaleido.ai
 cmsnimp-talk.0.cr1.kaleido.ai
 0wildcard_a_detect1.service.0.cr1.kaleido.ai
@@ -1938,7 +1931,7 @@ no-dns-yetnimp-talk.0.cr1.kaleido.ai
 0-eu-central-1.cr1.kaleido.ai
 hwcdn-nimp-talk.0.cr1.kaleido.ai
 cltnimp-talk.0.cr1.kaleido.ai
-www.5.0.cr1.kaleido.ai
+5.0.cr1.kaleido.ai
 0wildcard_a_detect1.167.0.cr1.kaleido.ai
 nimp-talk.001.0.cr1.kaleido.ai
 0wildcard_a_detect1.range86-179.0.cr1.kaleido.ai
@@ -1949,7 +1942,6 @@ mobileonline-nimp-talk.0.cr1.kaleido.ai
 nimp-talk.chs.0.cr1.kaleido.ai
 0-upc-i.cr1.kaleido.ai
 313chekin-ur-as37.5.0.cr1.kaleido.ai
-5.0.cr1.kaleido.ai
 mssnks.0.cr1.kaleido.ai
 captain.nimp-talk.0.cr1.kaleido.ai
 0-dsl-w.cr1.kaleido.ai
@@ -2169,7 +2161,6 @@ clta.0.cr1.kaleido.ai
 nimp-talkpriv.0.cr1.kaleido.ai
 est.0.cr1.kaleido.ai
 0wildcard_cname_detect1.github.0.cr1.kaleido.ai
-www.0-nimp-talk.cr1.kaleido.ai
 0wildcard_cname_detect1.epm.0.cr1.kaleido.ai
 embratelnimp-talk.0.cr1.kaleido.ai
 nimp-talk-me-south.0.cr1.kaleido.ai
@@ -2353,7 +2344,7 @@ swagger.0.cr1.kaleido.ai
 nimp-talk-nam.0.cr1.kaleido.ai
 sept-nimp-talk.0.cr1.kaleido.ai
 bgk.0.cr1.kaleido.ai
-www.nimp-talk.0-z.cr1.kaleido.ai
+nimp-talk.0-z.cr1.kaleido.ai
 range86-156.nimp-talk.0.cr1.kaleido.ai
 nimp-talkt.0.cr1.kaleido.ai
 pc.0.cr1.kaleido.ai
@@ -2437,7 +2428,6 @@ pantheonnimp-talk.0.cr1.kaleido.ai
 nimp-talkkr.0.cr1.kaleido.ai
 0wildcard_cname_detect1.dip0.0.cr1.kaleido.ai
 nimp-talk.ipcom.0.cr1.kaleido.ai
-www.candoku.0-4k.cr1.kaleido.ai
 eu-west.nimp-talk.0.cr1.kaleido.ai
 nimp-talkpppoe.0.cr1.kaleido.ai
 dhcp-nimp-talk.0.cr1.kaleido.ai
@@ -2634,7 +2624,6 @@ nimp-talk.dhcp4.0.cr1.kaleido.ai
 nimp-talk-sdsl.0.cr1.kaleido.ai
 range86-177-nimp-talk.0.cr1.kaleido.ai
 lb.nimp-talk.0.cr1.kaleido.ai
-nimp-talk.0-z.cr1.kaleido.ai
 0wildcard_cname_detect1.dsl.0.cr1.kaleido.ai
 accountnimp-talk.0.cr1.kaleido.ai
 nimp-talkhkg.0.cr1.kaleido.ai
@@ -2651,9 +2640,7 @@ intelignet.nimp-talk.0.cr1.kaleido.ai
 status-nimp-talk.0.cr1.kaleido.ai
 sea.0.cr1.kaleido.ai
 313chekin-ur-as37.pantheon.0.cr1.kaleido.ai
-www.nimp-talk.61.0.cr1.kaleido.ai
 0wildcard_a_detect1.nswc.0.cr1.kaleido.ai
-www.candoku.0.cr1.kaleido.ai
 0wildcard_cname_detect1.pltn13.0.cr1.kaleido.ai
 nimp-talkca.0.cr1.kaleido.ai
 0wildcard_cname_detect1.no-dns-yet.0.cr1.kaleido.ai
@@ -2691,7 +2678,6 @@ nimp-talk.machine.0.cr1.kaleido.ai
 snantx.0.cr1.kaleido.ai
 nimp-talk.0-fibertel.cr1.kaleido.ai
 nimp-talk-bna.0.cr1.kaleido.ai
-candoku.11.0.cr1.kaleido.ai
 ok-nimp-talk.0.cr1.kaleido.ai
 corp-eur.0.cr1.kaleido.ai
 0wildcard_cname_detect1.july.0.cr1.kaleido.ai
@@ -2778,7 +2764,6 @@ php-nimp-talk.0.cr1.kaleido.ai
 uninet.nimp-talk.0.cr1.kaleido.ai
 0wildcard_a_detect1.md.0.cr1.kaleido.ai
 nimp-talk-phnx.0.cr1.kaleido.ai
-www.candoku.08.0.cr1.kaleido.ai
 0-btas.cr1.kaleido.ai
 nimp-talk-seed.0.cr1.kaleido.ai
 0wildcard_cname_detect1.infoweb.0.cr1.kaleido.ai
@@ -2996,7 +2981,7 @@ nimp-talktukw.0.cr1.kaleido.ai
 apollo.nimp-talk.0.cr1.kaleido.ai
 nothing.0.cr1.kaleido.ai
 nimp-talk-captain.0.cr1.kaleido.ai
-www.nimp-talk.0-61.cr1.kaleido.ai
+nimp-talk.0-61.cr1.kaleido.ai
 0wildcard_cname_detect1.clta.0.cr1.kaleido.ai
 nimp-talkstatic.0.cr1.kaleido.ai
 lewisnimp-talk.0.cr1.kaleido.ai
@@ -3045,7 +3030,7 @@ bb-nimp-talk.0.cr1.kaleido.ai
 sol.0.cr1.kaleido.ai
 nimp-talk-190.0.cr1.kaleido.ai
 0wildcard_a_detect1.not-set-yet.0.cr1.kaleido.ai
-www.candoku.0-11.cr1.kaleido.ai
+candoku.0-11.cr1.kaleido.ai
 nimp-talklogin.0.cr1.kaleido.ai
 0wildcard_a_detect1.98-62.0.cr1.kaleido.ai
 nimp-talk.06.0.cr1.kaleido.ai
@@ -3470,7 +3455,6 @@ nimp-talk-ri.0.cr1.kaleido.ai
 nimp-talk.007.0.cr1.kaleido.ai
 nimp-talk-prod.0.cr1.kaleido.ai
 nimp-talk.bucky.0.cr1.kaleido.ai
-10.0.cr1.kaleido.ai
 nimp-talk-megared.0.cr1.kaleido.ai
 59.nimp-talk.0.cr1.kaleido.ai
 nimp-talk.ca.0.cr1.kaleido.ai
@@ -3967,7 +3951,6 @@ lan-nimp-talk.0.cr1.kaleido.ai
 0-4k.cr1.kaleido.ai
 0-broadband.cr1.kaleido.ai
 07.0.cr1.kaleido.ai
-candoku.4k.0.cr1.kaleido.ai
 june.0.cr1.kaleido.ai
 0wildcard_a_detect1.neo.0.cr1.kaleido.ai
 0wildcard_a_detect1.rcsntx.0.cr1.kaleido.ai
@@ -4038,7 +4021,6 @@ nimp-talkdion.0.cr1.kaleido.ai
 nimp-talk.0-01.cr1.kaleido.ai
 nimp-talkdsl.0.cr1.kaleido.ai
 staging-nimp-talk.0.cr1.kaleido.ai
-www.candoku.9.0.cr1.kaleido.ai
 0wildcard_cname_detect1.deploy.0.cr1.kaleido.ai
 0-siw.cr1.kaleido.ai
 clt.0.cr1.kaleido.ai
@@ -4116,7 +4098,6 @@ nimp-talk-okcyok.0.cr1.kaleido.ai
 0wildcard_a_detect1.11.0.cr1.kaleido.ai
 nimp-talk-0.0.cr1.kaleido.ai
 0wildcard_a_detect1.march.0.cr1.kaleido.ai
-nimp-talk.11.0.cr1.kaleido.ai
 0wildcard_cname_detect1.impsat.0.cr1.kaleido.ai
 0wildcard_a_detect1.range86-156.0.cr1.kaleido.ai
 0-wood.cr1.kaleido.ai
@@ -4387,7 +4368,7 @@ hkcable.nimp-talk.0.cr1.kaleido.ai
 0wildcard_cname_detect1.range86-149.0.cr1.kaleido.ai
 nimp-talkd4.0.cr1.kaleido.ai
 0wildcard_a_detect1.domolink.0.cr1.kaleido.ai
-www.candoku.0-08.cr1.kaleido.ai
+candoku.0-08.cr1.kaleido.ai
 lb-nimp-talk.0.cr1.kaleido.ai
 0wildcard_a_detect1.216.0.cr1.kaleido.ai
 nimp-talkgames.0.cr1.kaleido.ai
@@ -4400,7 +4381,6 @@ nimp-talkwimax-client.0.cr1.kaleido.ai
 0-dec.cr1.kaleido.ai
 nimp-talk.reviews.0.cr1.kaleido.ai
 nimp-talk.0-cork.cr1.kaleido.ai
-www.0-candoku.cr1.kaleido.ai
 nimp-talkz.0.cr1.kaleido.ai
 nimp-talk.ded.0.cr1.kaleido.ai
 dialuol-nimp-talk.0.cr1.kaleido.ai
@@ -4530,7 +4510,6 @@ sasknetnimp-talk.0.cr1.kaleido.ai
 etb.0.cr1.kaleido.ai
 nimp-talk.0-livnmi.cr1.kaleido.ai
 ca-central-3-nimp-talk.0.cr1.kaleido.ai
-www.nimp-talk.0-2.cr1.kaleido.ai
 nimp-talk.0-ramstein.cr1.kaleido.ai
 313chekin-ur-as37.nimp-talk.7.0.cr1.kaleido.ai
 milwwi-nimp-talk.0.cr1.kaleido.ai
@@ -4870,7 +4849,6 @@ staffnimp-talk.0.cr1.kaleido.ai
 0wildcard_cname_detect1.08.0.cr1.kaleido.ai
 0wildcard_a_detect1.237.0.cr1.kaleido.ai
 nimp-talk-jenkins.0.cr1.kaleido.ai
-www.nimp-talk.0-c.cr1.kaleido.ai
 range86-184.0.cr1.kaleido.ai
 boxnimp-talk.0.cr1.kaleido.ai
 loadbalancer.0.cr1.kaleido.ai
@@ -4998,7 +4976,6 @@ lewis.0.cr1.kaleido.ai
 nimp-talkwood.0.cr1.kaleido.ai
 range86-160nimp-talk.0.cr1.kaleido.ai
 jscnimp-talk.0.cr1.kaleido.ai
-www.nimp-talk.0.cr1.kaleido.ai
 range86-137.nimp-talk.0.cr1.kaleido.ai
 nimp-talk.pay.0.cr1.kaleido.ai
 nimp-talk-domolink.0.cr1.kaleido.ai

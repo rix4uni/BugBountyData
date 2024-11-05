@@ -1,8 +1,6 @@
 openblocks.uhg.com
 aihub.uhg.com
-www.aihub.uhg.com
 ai.hcp.uhg.com
-www.ai.hcp.uhg.com
 cloud.eohs.uhg.com
 click.eohs.uhg.com
 flu.idp.uhg.com
@@ -28,7 +26,7 @@ globalselfserviceclock-tmp.uhg.com
 sustainability.uhg.com
 humancapitalmanagement-stage.uhg.com
 globalselfservice-stage.uhg.com
-www.dev.aiservices.uhg.com
+dev.aiservices.uhg.com
 quick-quotes-elr.uhg.com
 ihrconnect.uhg.com
 ardwdev.uhg.com
@@ -92,7 +90,7 @@ view.optumlabs.uhg.com
 mig-cvreferrals-stage.uhg.com
 navigator2.uhg.com
 stg-portal-api.api.uhg.com
-www.br.uhg.com
+br.uhg.com
 globalmobilitylinkuat.uhg.com
 mig-tpreferrals-stage.uhg.com
 brand.uhg.com
@@ -103,7 +101,6 @@ marketpay.uhg.com
 vertexrpt-dev.uhg.com
 psfinancials-dev.uhg.com
 prod46-ihrconnect.uhg.com
-br.uhg.com
 mgrose-stg-admin.api.uhg.com
 us-east-1.omni-api-dev.uhg.com
 omni-api-dev.uhg.com
@@ -220,7 +217,6 @@ uhgwip.probot.dev.uhg.com
 authservice2-dev.entauth.uhg.com
 careers-tmp2.uhg.com
 hcp-dev.uhg.com
-www.brand.uhg.com
 hcp-apim-dmz-cp-admin-stg-centralus.uhg.com
 hcp-apim-dmz-cp-prod-centralus.uhg.com
 ssopfcorp-ctc-dev.uhg.com
@@ -309,7 +305,7 @@ ardwppd.uhg.com
 cdn.email.uhg.com
 policy-service-eastus2.authz.uhg.com
 stride-stage.uhg.com
-www.giving.uhg.com
+giving.uhg.com
 dear-transactions-dev.uhg.com
 hcp-app-stage-gtm-ctc.uhg.com
 docker.aprxy.uhg.com
@@ -456,7 +452,7 @@ cloud.email.protectwell.uhg.com
 eastus2.engg-testing.identity.uhg.com
 orbit-microstrategy-mobdev10.uhg.com
 ws-ttest.uhg.com
-www.unitedwellbeing.uhg.com
+unitedwellbeing.uhg.com
 zbecker2-entitlement-grpc-centralus.authz-stg.uhg.com
 authgateway1-dev-elr.entiam.uhg.com
 corrigo-elr.uhg.com
@@ -480,7 +476,6 @@ be-epass.uhg.com
 zb1-azu-westus.api-stg.uhg.com
 cghanapu-portal-api.api-dev.uhg.com
 onesourcetest.uhg.com
-www.stride.uhg.com
 cghanapu-stg-azu-eastus2.api.uhg.com
 hcp-apim-dp-stg-eastus2.uhg.com
 hub-security-sp-stage.uhg.com
@@ -592,7 +587,7 @@ immerse.uhg.com
 sparqactions-test-admin.uhg.com
 demo-cert.uhg.com
 dune-twin.hcp.uhg.com
-www.probot.dev.uhg.com
+probot.dev.uhg.com
 stg-azure-westus.api-stg.uhg.com.api-stg.uhg.com
 aliens-dev.hcp.uhg.com
 identity.phub-im.uhg.com
@@ -628,7 +623,6 @@ pkorraku-stg-azu-eastus.api.uhg.com
 serraview-stage.uhg.com
 demo59-ihrconnect.uhg.com
 intg-dashboard-sit3.uhg.com
-www.uhg.com
 api-uhg-prod.uhg.com
 tms-tstage.uhg.com
 dojo.uhg.com
@@ -645,7 +639,6 @@ dgresh1.api-dev.uhg.com
 hub-int.uhg.com
 ivrtool.omni-dev.uhg.com
 rdelahoz-stg-portal.api.uhg.com
-www.uhgvision-mwp.uhg.com
 uhgvision-mwp-stg.uhg.com
 authservice2-dev-ctc.entauth.uhg.com
 careers.uhg.com
@@ -766,7 +759,6 @@ edelivery-cpttprd.uhg.com
 phub-auth-stg.uhg.com
 user.dev.identity.uhg.com
 www-stg.br.uhg.com
-www.idp360.uhg.com
 authgateway3-ctc.entiam.uhg.com
 external-redirect-corpsys-nonprod.uhg.com
 extensions-dev-az.uhg.com
@@ -838,7 +830,7 @@ cars-gcp.uhg.com
 datasecurityportalstg.uhg.com
 taxprovisionadmin-stage.uhg.com
 freinard-portal.api-dev.uhg.com
-www.backend.idp360.uhg.com
+backend.idp360.uhg.com
 dear-test.uhg.com
 authserviceark.entauth.uhg.com
 vault-enterprise-dmz-stage.uhg.com
@@ -876,7 +868,6 @@ rqns-tableauadmin-stg-elr.uhg.com
 umrcescps.uhg.com
 abyss-cloud.uhg.com
 alb-lambda-mtls-test.api-dev.uhg.com
-www.stage.idp360.uhg.com
 egrctest.uhg.com
 ihrpp-rtsso-stg1-hcc.uhg.com
 ntssocorp1.uhg.com
@@ -908,7 +899,7 @@ careercompasstest.uhg.com
 chat.hcp.uhg.com
 rayalas2-identity-engr-azure.uhg.com
 umrcescpsstage.uhg.com
-www.stride-pcomm.uhg.com
+stride-pcomm.uhg.com
 opal-server-certtest.services-nonprod.unitedaistudio.uhg.com
 superbyte-ctc.uhg.com
 nps-stage.uhg.com
@@ -966,7 +957,7 @@ content-service-prod-gtm.uhg.com
 globalselfservice-csr-stage.uhg.com
 prod-azure-centralus.api.uhg.com.api.uhg.com
 uatmyreservations.uhg.com
-www.stg-covid-backend.idp360.uhg.com
+stg-covid-backend.idp360.uhg.com
 copsarchive.uhg.com
 ta-pz-stage.uhg.com
 plan-selector-api.int.ce.uhg.com
@@ -1054,7 +1045,6 @@ kwatt3-portal-api.api-dev.uhg.com
 cdroege.api-dev.uhg.com
 hcp-stage-gtm-ctc.uhg.com
 paymentservicesportal.uhg.com
-www.stride-stage.uhg.com
 zbmain-azu-centralus.api-stg.uhg.com
 hive-stg.hcp.uhg.com
 lagoon-demo-test.uhg.com
@@ -1073,7 +1063,6 @@ zb-blackbox-azure-centralus.api-dev.uhg.com
 hq.hcp.uhg.com
 cghanapu-stg-azu-eastus2.api-stg.uhg.com
 ecip-stage-elr.uhg.com
-www.es.uhg.com
 rhdireto.uhg.com
 copsarchive-filevending-tst.uhg.com
 edmfmpf-sys.uhg.com
@@ -1174,7 +1163,6 @@ cars-dev.uhg.com
 dev-1.services-nonprod.unitedaistudio.uhg.com
 mercury.uhg.com
 volcan-actions-api-dev.uhg.com
-www.sustainability.uhg.com
 authgatewayark-stgext.entiam.uhg.com
 aws-us-east-1-v1.api-stg.uhg.com
 orbit-tableau.uhg.com
@@ -1186,7 +1174,6 @@ apollocontrolplane-prod.unitedaistudio-core.uhg.com
 benefitslogout.uhg.com
 ntssocorp4stg.uhg.com
 planning-test.uhg.com
-dev.aiservices.uhg.com
 kubernetes-test.uhg.com
 ntssocorp2stg.uhg.com
 stale.probot.dev.uhg.com
@@ -1364,7 +1351,6 @@ sso-int-stg.uhg.com
 superbyte-elr.uhg.com
 superset-dear-dev.uhg.com
 rseibe1-stg-azu-eastus2.api.uhg.com
-unitedwellbeing.uhg.com
 authservice1-stg-elr.entauth.uhg.com
 globalselfservice-test.uhg.com
 legosapi-legosprod.legos.uhg.com
@@ -1479,7 +1465,6 @@ hub-sparq.uhg.com
 blackbox-azure-centralus.api.uhg.com
 cdn.stage.idp360.uhg.com
 sg-gcp-perf-test-ue-nonprod.api-dev.uhg.com
-www.strideinthekitchen.uhg.com
 hcp-apim-dmz-cp-cluster-stg-centralus.uhg.com
 nc-digitalenrollment-prod.uhg.com
 servicebus-dev-pz.uhg.com
@@ -1510,7 +1495,6 @@ policy-server-eastus2.authz.uhg.com
 benefitsenroll.uhg.com
 console-functions.hcp.uhg.com
 costar-ctc.uhg.com
-giving.uhg.com
 hrdirectstg.uhg.com
 ihr-ctc.uhg.com
 uhgvision-pwp-elr.uhg.com
@@ -1561,7 +1545,6 @@ developer-dev.rdelahoz-portal.api-dev.uhg.com
 edmfmpf-obprod.uhg.com
 hub-int-elr.uhg.com
 techops-dev.uhg.com
-www.sustainability-stg.uhg.com
 zbecker2-portal.api-dev.uhg.com
 zb1-azu-eastus.api-stg.uhg.com
 aws-us-east-2-v1.api.uhg.com
@@ -1674,7 +1657,6 @@ egrc.uhg.com
 planning-hfr-dvl.uhg.com
 uhgvision-txn-p1-elr.uhg.com
 sparkonline-ctc.uhg.com
-www.dev.ai.hcp.uhg.com
 api-stage.internal.identity.uhg.com
 authgateway1-dev.uhg.com
 aws-us-west-2-v1.api.uhg.com
@@ -1890,7 +1872,6 @@ planning.uhg.com
 rseibe1-stg-manager.api.uhg.com
 zbdev-azu-eastus2.api-dev.uhg.com
 sm-vault-cache-api.uhg.com
-www.aiservices.uhg.com
 clinicaldata.uhg.com
 identity.phub-im-np.uhg.com
 lagoon.uhg.com
@@ -2014,7 +1995,7 @@ fdedatagov-stage.uhg.com
 hcp-apim-sec-cp-dev-centralus.uhg.com
 policy-service.authz-dev.uhg.com
 rseibe1-tmp.api.uhg.com
-www.stg-backend.idp360.uhg.com
+stg-backend.idp360.uhg.com
 cep2azure-dev.uhg.com
 mgrose-stg-portal.api.uhg.com
 phub-auth-stag-ctc.uhg.com
@@ -2024,7 +2005,6 @@ volcan-skynet-api-nonprod.uhg.com
 apollomdsprod-prod.unitedaistudio-core.uhg.com
 preview-stg.hcp.uhg.com
 sparqactions-dev-admin-elr.uhg.com
-www.info-stg.uhg.com
 zb1-azu-centralus.api-stg.uhg.com
 cc-datamapping-services-tst.uhg.com
 remhubbackend-remhub-stg.remhub.uhg.com
@@ -2041,7 +2021,6 @@ nomad.service.uhgwm110-025040.ap.ctc.development.mesh.uhg.com
 nandi-panacea.panacea.uhg.com
 stg-aws-us-east-1.api-stg.uhg.com.api-stg.uhg.com
 subro-data-hub.optuminsight-payer.pages.uhg.com
-www.dev.idp360.uhg.com
 api-uhg-oss-dev-ctc.uhg.com
 hrdirecthelpdesk.uhg.com
 jestum.api-dev.uhg.com
@@ -2060,7 +2039,7 @@ authservice1-elr.entauth.uhg.com
 authservice3-ctc.entauth.uhg.com
 ihr-provider-api-stg1-hcc-elr.uhg.com
 imrp-commandcenter-test.uhg.com
-www.covid-backend.idp360.uhg.com
+covid-backend.idp360.uhg.com
 zb-admin.api-stg.uhg.com
 navigator-jasper.uhg.com
 psfinancialsfe.uhg.com
@@ -2070,7 +2049,6 @@ mgrose-stg-portal-api.api.uhg.com
 ssoiamextra-stg-elr.uhg.com
 cghanapu-stg-manager.api.uhg.com
 preferencesadmin-tool-sps-stg.uhg.com
-stride-pcomm.uhg.com
 api.prod.vulnerability.idp.uhg.com
 ardwprd.uhg.com
 hq-stg-cloud.hcp.uhg.com
@@ -2102,7 +2080,6 @@ lagoon-aws-dev.uhg.com
 nc-digitalenrollment-stg1.uhg.com
 authservice5.entauth.uhg.com
 otel.internal-omni-nonprod.uhg.com
-www.brand-stg.uhg.com
 rqns-tableauservice-stg.uhg.com
 stg-thespoke.uhg.com
 blackbox-aws-us-east-1.api.uhg.com
@@ -2114,7 +2091,6 @@ vault-enterprise-dmz-test-dr.uhg.com
 volunteering-test.uhg.com
 jjoh105-stg-azu-eastus.api.uhg.com
 opa.authz-dev.uhg.com
-probot.dev.uhg.com
 cghanapu.kong.clustering.api-dev.uhg.com
 ihr-pp-rtsso-hcc-stg1-ihr.uhg.com
 iislam1.api-dev.uhg.com
@@ -2177,7 +2153,6 @@ uhgvision-s1.uhg.com
 quick-quotes-stage-ctc.uhg.com
 api.chat.hcp.uhg.com
 default.np-portal.api-dev.uhg.com
-www.stg-sparq.uhg.com
 devtest-1.services-nonprod.unitedaistudio.uhg.com
 tfe-webhook-0081149.uhg.com
 vault-enterprise-dr.uhg.com
@@ -2232,5 +2207,4 @@ maelstrom-dmz-dev.uhg.com
 opal-server-eastus2.authz.uhg.com
 expenselookup.uhg.com
 hcp-apim-cp-dev-centralus.uhg.com
-www.dev.aihub.uhg.com
 zbecker2-portal-api.api-stg.uhg.com

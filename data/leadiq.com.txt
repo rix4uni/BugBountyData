@@ -2185,7 +2185,6 @@ web7.dev.leadiq.com
 web8.dev.leadiq.com
 web9.dev.leadiq.com
 webapp.dev.k8.leadiq.com
-www.leadiq.com
 account.eu.leadiq.com
 alb.internal.leadiq.com
 alb.leadiq.com
@@ -2313,10 +2312,3 @@ traefik.traefik.leadiq.com
 vault.k8.eu.leadiq.com
 vault.nidavellir.leadiq.com
 web.leadiq.com
-www.blog.leadiq.com
-www.content.leadiq.com
-www.devs.develop.openvpn.leadiq.com
-www.devs.prod.openvpn.leadiq.com
-www.heimdall.leadiq.com
-www.openvpn.leadiq.com
-www.sisense.leadiq.com

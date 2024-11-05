@@ -1,11 +1,9 @@
-*.vine.co
-*.cdn.vine.co
+cdn.vine.co
 admin.vine.co
 ar.help.vine.co
 archive.vine.co
 blog.vine.co
 brand.vine.co
-cdn.vine.co
 chef-ironfan.test.vine.co
 dev-svc.vine.co
 devel.vine.co
@@ -32,9 +30,6 @@ tk.help.vine.co
 v.cdn.vine.co
 videobeta.vine.co
 wildcard.cdn.vine.co
-www.vine.co
-www.brand.vine.co
-www.videobeta.vine.co
 https-encrypted-google-com-28.vine.co
 alpha-oracle.vine.co
 ftsam-139-19.vine.co

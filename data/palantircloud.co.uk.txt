@@ -1,4 +1,3 @@
-*.palantircloud.co.uk
 beech.palantircloud.co.uk
 beech-compute.palantircloud.co.uk
 beech-container-registry.palantircloud.co.uk
@@ -21,7 +20,6 @@ skiddaw.palantircloud.co.uk
 skiddaw-compute.palantircloud.co.uk
 skiddaw-container-registry.palantircloud.co.uk
 skiddaw-containers.palantircloud.co.uk
-www.palantircloud.co.uk
 grafana.palantircloud.co.uk
 pueblo-staging.palantircloud.co.uk
 cove-mgmt.palantircloud.co.uk

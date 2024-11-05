@@ -40,7 +40,6 @@ baysidensw-yoursay.auth.harvestdp.com
 ausnet-communityhub.auth.harvestdp.com
 argocd.preprod.harvestdp.com
 cassowary-planning.auth.harvestdp.com
-www.harvestdp.com
 api-preprod-au-test.bedrock.uat.harvestdp.com
 hive-pae-vanilla.alysha.dev.harvestdp.com
 api.us.harvestdp.com
@@ -215,7 +214,7 @@ hdp-api.97.uat.harvestdp.com
 hobs-newzones.cluster.ka1.prod.au.harvestdp.com
 tam-yourvoice.cluster.k1.preprod.au.harvestdp.com
 vic-engage-ft-2.cluster.k2.preprod.au.harvestdp.com
-www.nci.pre-release.harvestdp.com
+nci.pre-release.harvestdp.com
 cassowary-planning.pre-release.harvestdp.com
 ondemand-ausarts-training.cluster.ka1.prod.au.harvestdp.com
 urbis-connect.pre-release.harvestdp.com
@@ -250,7 +249,6 @@ hdp-formapp.95.uat.harvestdp.com
 hdp-thehivevanilla.49.uat.harvestdp.com
 lon-getinvolved.cluster.prod.ca.harvestdp.com
 nswepa-yoursay.cluster.ka1.prod.au.harvestdp.com
-www.ballarat-budget-priorities.harvestdp.com
 cgy-engage-preprod.bedrock.uat.harvestdp.com
 formapp-uat-20.cluster.k1.preprod.au.harvestdp.com
 cassowary-planning-preprod.uat.harvestdp.com
@@ -379,7 +377,7 @@ ondemand-clarecc-explore.cluster.ka1.prod.au.harvestdp.com
 cbnks-haveyoursay.cluster.k1.preprod.au.harvestdp.com
 ondemand-whittlesea-training.cluster.ka1.prod.au.harvestdp.com
 vic-engage.45.uat.harvestdp.com
-www.agbioen.com.au.cluster.ka1.prod.au.harvestdp.com
+agbioen.com.au.cluster.ka1.prod.au.harvestdp.com
 dandenong-yoursay.pre-release.harvestdp.com
 yoursay-act-gov-au.cluster.k1.preprod.au.harvestdp.com
 form-app.cluster.k1.preprod.au.harvestdp.com
@@ -447,7 +445,7 @@ vmch-yoursay.cluster.k1.preprod.au.harvestdp.com
 hdp-thehiveproduct.cluster.kb1.prod.au.harvestdp.com
 ondemand-mosman-thehivedemo.cluster.demo1.prod.au.harvestdp.com
 shape-nelson.pre-release.harvestdp.com
-www.the-hive.com.au.cluster.ka1.prod.au.harvestdp.com
+the-hive.com.au.cluster.ka1.prod.au.harvestdp.com
 hdp-formapp.56.uat.harvestdp.com
 healthiercoluster.preprod.au.harvestdp.com
 nswsopa-mysop.cluster.ka1.prod.au.harvestdp.com
@@ -662,7 +660,7 @@ brmbnk-yoursay-preprod.uat.harvestdp.com
 haveyoursay.cbcity.nsw.gov.au.uat.harvestdp.com
 hdp-thehivevanilla-kb1.php74.cluster.kb1.prod.au.harvestdp.com
 hdp-thehivevanilla.71.uat.harvestdp.com
-www.harvestdp.com.cluster.ka1.prod.au.harvestdp.com
+harvestdp.com.cluster.ka1.prod.au.harvestdp.com
 ingress.cluster.kb1.prod.au.harvestdp.com
 gympie-shape-preprod.uat.harvestdp.com
 hdp-formapp.51.uat.harvestdp.com
@@ -672,7 +670,7 @@ albertparkmasterplan.com.au.staging.harvestdp.com
 hels-dialog.83.uat.harvestdp.com
 dom-hdp1.cluster.k1.preprod.au.harvestdp.com
 com-participate.cluster.kb1.prod.au.harvestdp.com
-www.hdp-thehivevanilla.generic-testing-2.preprod.harvestdp.com
+hdp-thehivevanilla.generic-testing-2.preprod.harvestdp.com
 dylan.dev.harvestdp.com
 formapp-uat-11.cluster.k1.preprod.au.harvestdp.com
 hdp-example.cluster.prod.au.harvestdp.com
@@ -690,7 +688,6 @@ pod-startup.cluster.k1.preprod.au.harvestdp.com
 api-uat-7.cluster.k1.preprod.au.harvestdp.com
 bcc-engage.90.uat.harvestdp.com
 hdp-thehivedemo.cluster.ka1.prod.au.harvestdp.com
-the-hive.com.au.cluster.ka1.prod.au.harvestdp.com
 melvilletalks-com-au.cluster.k1.preprod.au.harvestdp.com
 vic-engage.app.harvestdp.com
 brv-ourrecovery.uat.harvestdp.com
@@ -922,7 +919,6 @@ act.k8s.harvestdp.com
 ccs-yoursay-preprod.bedrock.uat.harvestdp.com
 cww-yoursay.pre-release.harvestdp.com
 hdp-api.104.uat.harvestdp.com
-hdp-thehivevanilla.generic-testing-2.preprod.harvestdp.com
 um-ourcampus.cluster.preprod.au.harvestdp.com
 um-ourcampus.app.harvestdp.com
 form.bedrock.uat-100.harvestdp.com
@@ -1014,7 +1010,6 @@ ondemand-glen-allabilities.cluster.demo1.prod.au.harvestdp.com
 more-conversations.cluster.ka1.prod.au.harvestdp.com
 rancher-95j90akz.test.harvestdp.com
 sdp.engage.vic.gov.au.staging.harvestdp.com
-harvestdp.com.cluster.ka1.prod.au.harvestdp.com
 ondemand-frankston-training.cluster.ka1.prod.au.harvestdp.com
 cam-matters.108.uat.harvestdp.com
 hdp-thehivevanilla.57.uat.harvestdp.com
@@ -1205,7 +1200,6 @@ hdp-thehivevanilla.86.uat.harvestdp.com
 mldra-yoursay.cluster.ka1.prod.au.harvestdp.com
 prometheus.devops.harvestdp.com
 vic-engage.pilsen.uat.harvestdp.com
-nci.pre-release.harvestdp.com
 testing-things.app.harvestdp.com
 testing-1-2-0-rc.cluster.k1.preprod.au.harvestdp.com
 api-uat-22.cluster.k1.preprod.au.harvestdp.com
@@ -1333,7 +1327,6 @@ bays-yoursay.108.uat.harvestdp.com
 elem-conv-preprod.uat.harvestdp.com
 hdp-api.jamestown.uat.harvestdp.com
 hdp-api.kigali.uat.harvestdp.com
-www.mpcharacter.com.cluster.k1.preprod.au.harvestdp.com
 ondemand-gladstone-training.cluster.ka1.prod.au.harvestdp.com
 strath-share.app.harvestdp.com
 ban-shape.uat.harvestdp.com
@@ -1874,7 +1867,6 @@ ghd-agbioen.cluster.ka1.prod.au.harvestdp.com
 gisborne-participate-preprod.uat.harvestdp.com
 more-conversations.73.uat.harvestdp.com
 gisborne-participate.108.uat.harvestdp.com
-www.the-hive.com.au.cluster.k1.preprod.au.harvestdp.com
 dashboard.cluster.k1.preprod.au.harvestdp.com
 pae-haveyoursay.cluster.ka1.prod.au.harvestdp.com
 vanilla-alpine.cluster.k1.preprod.au.harvestdp.com
@@ -1952,7 +1944,6 @@ ve.demo.harvestdp.com
 hdp-thehivedesign.cluster.ka1.prod.au.harvestdp.com
 iv-30year.cluster.prod.au.harvestdp.com
 nels-shape-uat-25-2.cluster.k1.preprod.au.harvestdp.com
-www.harvestdp.com.cluster.k1.preprod.au.harvestdp.com
 email.harvestdp.com
 dev.harvestdp.com
 hels-dialog.eu.app.harvestdp.com

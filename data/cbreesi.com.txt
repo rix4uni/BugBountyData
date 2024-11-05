@@ -11,7 +11,7 @@ mosaic-uat-bff.cbreesi.com
 mosaic-uat.cbreesi.com
 default.cbreesi.com
 webdisk.cbreesi.com
-www.conductor2.cbreesi.com
+conductor2.cbreesi.com
 mosaic-dev-bff.cbreesi.com
 mosaic-dev.cbreesi.com
 relay.cbreesi.com
@@ -21,7 +21,6 @@ esi-ae-portal.cbreesi.com
 bms.cbreesi.com
 analytics-01.cbreesi.com
 amzconductortst.cbreesi.com
-www.neaqbms.cbreesi.com
 mqttdev.cbreesi.com
 scj.cbreesi.com
 mosaic-demo-bff.cbreesi.com
@@ -34,18 +33,15 @@ heartbeat.cbreesi.com
 adamtp.cbreesi.com
 mosaic-bff.cbreesi.com
 cloroxcpc.cbreesi.com
-conductor2.cbreesi.com
 analytics.cbreesi.com
 mail.cbreesi.com
 mosaic.cbreesi.com
 ioniagara02.cbreesi.com
-www.portal.cbreesi.com
-www.amzconductortst.cbreesi.com
+portal.cbreesi.com
 peregrine.cbreesi.com
 iomqtt.cbreesi.com
 ioproperties.cbreesi.com
 analytics-02.cbreesi.com
-www.conductor.cbreesi.com
 uber-prism.cbreesi.com
 demoui.cbreesi.com
 demouidatacenter.cbreesi.com
@@ -56,9 +52,6 @@ dev.cbreesi.com
 ioniagara01.cbreesi.com
 uber.cbreesi.com
 demoanalytics.cbreesi.com
-portal.cbreesi.com
 next.cbreesi.com
-www.dev.cbreesi.com
 demouidistribution.cbreesi.com
 mqttadm.cbreesi.com
-www.cbreesi.com

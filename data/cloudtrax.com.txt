@@ -34,7 +34,6 @@ staging-ct4-dev.cloudtrax.com
 test.cloudtrax.com
 aochider.cloudtrax.com
 mobile-api.cloudtrax.com
-www.cloudtrax.com
 ct4.cloudtrax.com
 q-ak.bstatic.comconnkeeper.cloudtrax.com
 sam-ssl-test.cloudtrax.com
@@ -70,8 +69,6 @@ news.genapi.euconnkeeper.cloudtrax.com
 cloudgz-ecs.gravityzone.bitdefender.comcloud_ap.cloudtrax.com
 paypal.cloudtrax.com
 cloudap.cloudtrax.com
-*.cloudtrax.com
-*.d.cloudtrax.com
 api-dev.cloudtrax.com
 dev-internal.cloudtrax.com
 checkin-fallback.cloudtrax.com
@@ -87,7 +84,6 @@ webdev.cloudtrax.com
 ap-files-mirror.cloudtrax.com
 _ap-test.cloudtrax.com
 klocwork.cloudtrax.com
-www.lobby.cloudtrax.com
 food.cloudtrax.com
 mobilegzecs1.i.cloudtrax.com
 mobile-vkeeper3.i.cloudtrax.com
@@ -627,7 +623,6 @@ mobile-powerstrip4.i.cloudtrax.com
 mobile-apiblog.i.cloudtrax.com
 ap-files.cloudtrax.com
 mobile-v3-testkeeper4.i.cloudtrax.com
-www.dev.cloudtrax.com
 mobile2vpn.i.cloudtrax.com
 mobilecert-test1-v3-test.i.cloudtrax.com
 mobile-trafficuk.i.cloudtrax.com
@@ -1695,7 +1690,6 @@ mobile-ak-static.i.cloudtrax.com
 mobilectv3.i.cloudtrax.com
 mobile-v3-z.i.cloudtrax.com
 mobilecert-test1ri.i.cloudtrax.com
-www.checkin.cloudtrax.com
 mobile_ap-net.i.cloudtrax.com
 mobilebrandingdomainhealth.i.cloudtrax.com
 mobile-test1-ct4-mobile.i.cloudtrax.com

@@ -66,8 +66,6 @@ cdn-test-c-us-west.waveful.app
 cdn-test-c-asia.waveful.app
 run-g-us-east4-getuserpreferences.waveful.app
 run-g-us-east4-reportpageview.waveful.app
-www.pizza.waveful.app
-www.waveful.app
 run-test-g-us-east4-followuser.waveful.app
 run-g-us-east4-getleaderboard.waveful.app
 run-test-g-us-east4-sendmessage.waveful.app

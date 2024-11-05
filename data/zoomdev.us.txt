@@ -1,13 +1,12 @@
-*.zoomdev.us
-*.asyncmq.zoomdev.us
-*.mlp.zoomdev.us
-*.mstenant1.zoomdev.us
-*.mstenant2.zoomdev.us
-*.mstenant3.zoomdev.us
-*.p2dev.keyserver.zoomdev.us
-*.together.zoomdev.us
-*.vault.zoomdev.us
-*.web-devops.zoomdev.us
+asyncmq.zoomdev.us
+mlp.zoomdev.us
+mstenant1.zoomdev.us
+mstenant2.zoomdev.us
+mstenant3.zoomdev.us
+p2dev.keyserver.zoomdev.us
+together.zoomdev.us
+vault.zoomdev.us
+web-devops.zoomdev.us
 54.165.114.82.zoomdev.us
 a-default-rpc-nginx.zoomdev.us
 a01ark.zoomdev.us
@@ -300,7 +299,6 @@ asradaptor-dev-aws-va1.ai.zoomdev.us
 async-comm-rancher.zoomdev.us
 async-notification.zoomdev.us
 asyncim.zoomdev.us
-asyncmq.zoomdev.us
 asyncmq-ap.zoomdev.us
 asyncmq-bridge-int.zoomdev.us
 asyncmq-bridge-main.zoomdev.us
@@ -2044,7 +2042,6 @@ mlflow-tracking.zoomdev.us
 mlk8s.zoomdev.us
 mlogfiledev1.zoomdev.us
 mlogfiles.zoomdev.us
-mlp.zoomdev.us
 mlp-api.zoomdev.us
 mlp-apidb.zoomdev.us
 mlp-detai.zoomdev.us
@@ -2097,9 +2094,6 @@ mra.keyserver.zoomdev.us
 mrb-01.cold.keyserver.zoomdev.us
 mrb-01.keyserver.zoomdev.us
 mrb.keyserver.zoomdev.us
-mstenant1.zoomdev.us
-mstenant2.zoomdev.us
-mstenant3.zoomdev.us
 mta-sts.zoomdev.us
 mta-sts-ac002.zoomdev.us
 mta-sts-ac005.zoomdev.us
@@ -2335,7 +2329,6 @@ oygbcsinudmuiwxwpcaj.testing-vault.zoomdev.us
 oyizsmnscsnlcdmzskjw.testing-vault.zoomdev.us
 oyjtlvwsxddrpuulxuzh.testing-vault.zoomdev.us
 p2dev-01.keyserver.zoomdev.us
-p2dev.keyserver.zoomdev.us
 pagnovzvmsepbdbbaqcu.testing-vault.zoomdev.us
 paxuldswvbrndhkrnibh.testing-vault.zoomdev.us
 pbx-dev-cdn-back.zoomdev.us
@@ -3149,7 +3142,6 @@ tkzjihceastcrmohhzme.testing-vault.zoomdev.us
 tlxibrtmdjokzjosnqkm.testing-vault.zoomdev.us
 tnsspam-detection-experiment.zoomdev.us
 tnstitan.zoomdev.us
-together.zoomdev.us
 tpainter.zoomdev.us
 tpaxnvvxdftqxlomzzpa.testing-vault.zoomdev.us
 tpwfvjawlcychzidyqss.testing-vault.zoomdev.us
@@ -3220,7 +3212,6 @@ va2devbot.zoomdev.us
 vabaigjlwkmflpnlqvbc.testing-vault.zoomdev.us
 vadevamp-apps.zoomdev.us
 vadevbot.zoomdev.us
-vault.zoomdev.us
 vault-poc.zoomdev.us
 vchxbgxorteiywlbkafj.testing-vault.zoomdev.us
 vfrjgjzjgdldmjkevjyh.testing-vault.zoomdev.us
@@ -3235,7 +3226,6 @@ waywo.zoomdev.us
 web.zoomdev.us
 web-archzccp-java-test.zoomdev.us
 web-blue.jenkins-dev.zoomdev.us
-web-devops.zoomdev.us
 web-green.jenkins-dev.zoomdev.us
 web.jenkins-dev.zoomdev.us
 webguard-console.zoomdev.us
@@ -3282,8 +3272,6 @@ wsszcc04qa.zoomdev.us
 wsszccdev02.zoomdev.us
 wsszccdev03.zoomdev.us
 wtcvmsikdzfvividyoss.testing-vault.zoomdev.us
-www.cmsdev.zoomdev.us
-www.explore.zoomdev.us
 xaig.zoomdev.us
 xgkimlawgziykrbcarok.testing-vault.zoomdev.us
 xhts.zoomdev.us
@@ -3603,7 +3591,6 @@ ucs.zoomdev.us
 update.zoomdev.us
 van.zoomdev.us
 will.zoomdev.us
-www.zoomdev.us
 xxx.zoomdev.us
 zeus.zoomdev.us
 1.zoomdev.us
@@ -3904,7 +3891,6 @@ vhdgdftrmoalvtqwpwvl.testing-vault.zoomdev.us
 web-arch-sharp-eyes.zoomdev.us
 web-archzcp-test-app.zoomdev.us
 websrv-udms.zoomdev.us
-www.viss.zoomdev.us
 xaig-test.zoomdev.us
 xx.zoomdev.us
 ytjfizfjcpokzqhopggw.testing-vault.zoomdev.us
@@ -4971,9 +4957,9 @@ monitoring.sandbox-02.keyserver.zoomdev.us
 monitoring.jarodd-02.keyserver.zoomdev.us
 monitoring.sandbox-03.keyserver.zoomdev.us
 dogfood.zoomdev.us
-*.mq.zoomdev.us
-*.qazccconnect-01.zoomdev.us
-*.zccconnect-01.zoomdev.us
+mq.zoomdev.us
+qazccconnect-01.zoomdev.us
+zccconnect-01.zoomdev.us
 a01file-cf.zoomdev.us
 acpoc.zoomdev.us
 adminweb-acpoc.zoomdev.us
@@ -5123,7 +5109,6 @@ qa01smspbx-va.zoomdev.us
 qa01streamproxy.zoomdev.us
 qacarrier233.zoomdev.us
 qacarrier245.zoomdev.us
-qazccconnect-01.zoomdev.us
 querytreatment1-colo01-colo.zoomdev.us
 querytreatment1-colo01-colo.ai.zoomdev.us
 querytreatment2-colo01-colo.zoomdev.us
@@ -5217,7 +5202,6 @@ useriptracker-acpoc.zoomdev.us
 webmail-acpoc.zoomdev.us
 worker-zt-en-uk-0-zmdev-aws-us-east-1.ai.zoomdev.us
 zcalendar-acpoc.zoomdev.us
-zccconnect-01.zoomdev.us
 zjaeger-acpoc.zoomdev.us
 zlas.corp.zoomdev.us
 zmail-acpoc.zoomdev.us
@@ -5244,7 +5228,6 @@ k8s-management-console.zoomdev.us
 devepzoomeventinfo.zoomdev.us
 ngxpls-acdev-internal.zoomdev.us
 colo-oci-va1.zoomdev.us
-mq.zoomdev.us
 epevents-t29.zoomdev.us
 zvastaticcloudflare.zoomdev.us
 devcoloccizpapi.zoomdev.us

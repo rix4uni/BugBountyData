@@ -11,7 +11,6 @@ stash.us.preproduction.stedi.com
 webhooks.us.preproduction.stedi.com
 vartanbeno.healthcare.us.development.stedi.com
 public-assets.guides.us.stedi.com
-www.stedi.com
 documentstore.preprod.documents.stedi.com
 dls.stedi.com
 nddery-us-west-2.guides.us.development.stedi.com
@@ -89,7 +88,6 @@ terminal.stedi.com
 app.stedi.com
 core.us.development.stedi.com
 olaf.payers.us.development.stedi.com
-*.stedi.com
 short.enrollments.us.development.stedi.com
 ken.enrollments.us.development.stedi.com
 jan.healthcare.us.development.stedi.com

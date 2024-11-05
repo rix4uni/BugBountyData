@@ -1,4 +1,3 @@
-*.mollie.com
 account.mollie.com
 api.mollie.com
 api.cc.mollie.com
@@ -89,23 +88,6 @@ web02.mollie.com
 website.mollie.com
 website-profiler.mollie.com
 wix-pay.mollie.com
-www.mollie.com
-www.api.id.mollie.com
-www.assets.mollie.com
-www.assets.docs.mollie.com
-www.beta.mollie.com
-www.blog.mollie.com
-www.cdn.mollie.com
-www.docs.mollie.com
-www.id.mollie.com
-www.jobs.mollie.com
-www.legacy.mollie.com
-www.legacyapi.mollie.com
-www.paymentlink.mollie.com
-www.preview.mollie.com
-www.staging-api.cc.mollie.com
-www.staging-js.mollie.com
-www.suppliers.mollie.com
 private.docs.mollie.com
 _spf.ses.mollie.com
 bounces.mollie.com
@@ -151,7 +133,6 @@ web03.mollie.com
 web04.mollie.com
 bdrp.businessaccount.mollie.com
 piwik.plink.mollie.com
-www.bdrp.suppliers.mollie.com
 businessaccounts.mollie.com
 test.dwam-test.mollie.com
 dwam-test.mollie.com

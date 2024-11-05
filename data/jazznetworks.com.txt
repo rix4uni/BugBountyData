@@ -2,7 +2,6 @@ apidocs.cloud.dev.jazznetworks.com
 support.jazznetworks.com
 jsg.jazznetworks.com
 registry.jazznetworks.com
-www.jazznetworks.com
 ds.jazznetworks.com
 handbook.jazznetworks.com
 status.cloud.jazznetworks.com
@@ -62,13 +61,11 @@ feat-103.manage.cloud.dev.jazznetworks.com
 feature-review2.cloud.dev.jazznetworks.com
 staging.jazznetworks.com
 lambda.dev.jazznetworks.com
-www.logan.aws.jazznetworks.com
-www.restore.jazznetworks.com
+restore.jazznetworks.com
 feat-216.console.cloud.dev.jazznetworks.com
 gamma.jazznetworks.com
 latest2.demo.jazznetworks.com
 manage2.cloud.jazznetworks.com
-restore.jazznetworks.com
 login.console.cloud.dev.jazznetworks.com
 cmp-k8s-uptest.cloud.dev.jazznetworks.com
 edge-cloud-test.dev.jazznetworks.com

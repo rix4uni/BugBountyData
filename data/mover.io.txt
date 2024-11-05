@@ -53,12 +53,12 @@ wus2.odyssey-testing.ops.mover.io
 nike-admin.mover.io
 php-devbox.mover.io
 eus2.odyssey-testing.ops.mover.io
-www.bifrost-v2.mover.io
+bifrost-v2.mover.io
 openproject.ops.mover.io
 production.e.odyssey.ops.mover.io
 sdf-spo01-001-eus.cosmic.ecs.testing.mover.io
 weu-production-new-api.eu.mover.io
-www.dev-api.mover.io
+dev-api.mover.io
 staging-api.mover.io
 odyssey.ops.mover.io
 apitestspo01001wus2.testing.mover.io
@@ -91,7 +91,6 @@ jolt-sql.testing.mover.io
 migrate.mover.io
 spo01-009-ncus.legacyapi.mover.io
 api.ftcgcc.mover.io
-bifrost-v2.mover.io
 cosmic.ecs.eu.mover.io
 eastus-prod-01.cosmic.lookup.mover.io
 eus-partition.mover.io
@@ -100,7 +99,6 @@ mongodb-ppe-wus-1.mover.io
 westus2-prod-00.cosmic.lookup.mover.io
 weu.production.odyssey.ops.mover.io
 email.mg.mover.io
-www.mover.io
 email-icons.mover.io
 spo01-800-wus2.cosmic.mmapi.mover.io
 api2testspo01001wus2.testing.mover.io
@@ -131,7 +129,6 @@ host-checkin.ops.mover.io
 jolt-sql.ops.mover.io
 spo01-009-ncus.cosmic.mmpapi.mover.io
 westus2-prod-01.cosmic.lookup.mover.io
-www.api.mover.io
 new-production.odyssey.ops.mover.io
 api.devbox.development.mover.io
 jolt.ops.mover.io
@@ -197,7 +194,6 @@ spo01-000-wus2.cosmic.ecs.devbox.development.mover.io
 cliqr-chef.mover.io
 fd.mmpapi.eu.mover.io
 spo01-067-eus2.cosmic.mmpapi.mover.io
-www.app.mover.io
 api-fdpool.eu.mover.io
 ppe.odyssey.ops.mover.io
 blog.mover.io
@@ -233,7 +229,6 @@ phpdoc.ops.mover.io
 api-fdpool.mover.io
 testing-greg-testing-times-three.mover.io
 testing-internal.odyssey.ops.mover.io
-www.staging-app.mover.io
 reports.nam1.testing.mover.io
 eastus2-prod-00.cosmic.lookup.mover.io
 internal-odyssey.nam1.prod.mover.io
@@ -257,7 +252,6 @@ pee.mover.io
 eus2-new-api.testing.mover.io
 mongodb-ppe-wus2-2.mover.io
 docs.mover.io
-dev-api.mover.io
 app.devbox.development.mover.io
 kibana-ppe.ops.mover.io
 mongodb-ppe-wus-3.mover.io
@@ -282,4 +276,3 @@ mattermost-hooks.mover.io
 ops.mover.io
 spof01-006-usgovarizona.cosmic.gccm.mover.io
 spof01-006-usgovtexas.cosmic.gccm.mover.io
-*.production.odyssey.ops.mover.io

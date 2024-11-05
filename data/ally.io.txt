@@ -4,7 +4,6 @@ app.ally.io
 security-sandbox.ally.io
 website.ally.io
 chat.ally.io
-www.ally.io
 slack-sandbox.ally.io
 security-ipm.ally.io
 beta.ally.io
@@ -62,4 +61,3 @@ applink.ally.io
 bots.ally.io
 ux-demo.ally.io
 jira-cloudapp.ally.io
-*.core-quality-demo.ally.io

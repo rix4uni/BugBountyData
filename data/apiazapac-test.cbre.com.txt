@@ -18,7 +18,7 @@ uat-k2runtime.apiazapac-test.cbre.com
 gvpn-mx.glb.apiazapac-test.cbre.com
 co-tm.nonprod.apiazapac-test.cbre.com
 glv-eig.apiazapac-test.cbre.com
-www.hub.apiazapac-test.cbre.com
+hub.apiazapac-test.cbre.com
 looplink.boston.apiazapac-test.cbre.com
 pulse-contact-pes.apiazapac-test.cbre.com
 test.aws.apiazapac-test.cbre.com
@@ -76,7 +76,6 @@ bulkedit.qa2.miq.apiazapac-test.cbre.com
 aloha-api-docs.apiazapac-test.cbre.com
 test-costlab.apiazapac-test.cbre.com
 propertcentral-test.apiazapac-test.cbre.com
-hub.apiazapac-test.cbre.com
 poc-ereg.ifmhub.apiazapac-test.cbre.com
 myservice-qa.apiazapac-test.cbre.com
 gia-portal-uat-staging.apiazapac-test.cbre.com
@@ -163,7 +162,7 @@ visionhub.apiazapac-test.cbre.com
 uat.cbreone.apiazapac-test.cbre.com
 webfront.apiazapac-test.cbre.com
 cbredemoutility.apiazapac-test.cbre.com
-www.nissanhelpdesk-vaws.apiazapac-test.cbre.com
+nissanhelpdesk-vaws.apiazapac-test.cbre.com
 testpermissionsmanagement.apiazapac-test.cbre.com
 ccoe.apiazapac-test.cbre.com
 mapappsuat.apiazapac-test.cbre.com
@@ -183,7 +182,7 @@ devops-e-green-gw.serviceinsight.apiazapac-test.cbre.com
 vi53.apiazapac-test.cbre.com
 mybiuat.apiazapac-test.cbre.com
 dev.api.myproperty.apiazapac-test.cbre.com
-www.see.apiazapac-test.cbre.com
+see.apiazapac-test.cbre.com
 itrackqa.apiazapac-test.cbre.com
 gwsliverpoolmx.apiazapac-test.cbre.com
 pulse-bcp-rec.apiazapac-test.cbre.com
@@ -197,7 +196,7 @@ myfin.apiazapac-test.cbre.com
 insightcisco.apiazapac-test.cbre.com
 smartiq.apiazapac-test.cbre.com
 qaui.officeready-np.apiazapac-test.cbre.com
-www.uatdevices.apiazapac-test.cbre.com
+uatdevices.apiazapac-test.cbre.com
 uat.experience.apiazapac-test.cbre.com
 video.apiazapac-test.cbre.com
 ichannel-dev.apiazapac-test.cbre.com
@@ -327,7 +326,7 @@ myocs.apiazapac-test.cbre.com
 em6456.apiazapac-test.cbre.com
 fte2-present.apiazapac-test.cbre.com
 looplink.sacramento.apiazapac-test.cbre.com
-www.gwscognos.apiazapac-test.cbre.com
+gwscognos.apiazapac-test.cbre.com
 rolls-royce-uat.locator.apiazapac-test.cbre.com
 eftcloud-test.apiazapac-test.cbre.com
 share.apiazapac-test.cbre.com
@@ -341,10 +340,10 @@ f5idp.apiazapac-test.cbre.com
 uat-kenya.apiazapac-test.cbre.com
 dealdata-oss-dev.apiazapac-test.cbre.com
 pact-gateway.serviceinsight.apiazapac-test.cbre.com
-www.intrepidspuat.apiazapac-test.cbre.com
+intrepidspuat.apiazapac-test.cbre.com
 gwsdsm.apiazapac-test.cbre.com
 amex.locator.apiazapac-test.cbre.com
-www.intrepid.selfservicerequestportal.apiazapac-test.cbre.com
+intrepid.selfservicerequestportal.apiazapac-test.cbre.com
 cmms-gw-e-green.serviceinsight.apiazapac-test.cbre.com
 merge.permissionsmanagement.apiazapac-test.cbre.com
 egypt-tm.nonprod.apiazapac-test.cbre.com
@@ -391,7 +390,6 @@ myfinmauat.apiazapac-test.cbre.com
 cz-tm.nonprod.apiazapac-test.cbre.com
 ivi-hdportal.apiazapac-test.cbre.com
 gwsworkorderportal-tst.apiazapac-test.cbre.com
-gwscognos.apiazapac-test.cbre.com
 dev.avm.apiazapac-test.cbre.com
 elearnresources.apiazapac-test.cbre.com
 dev-service.intrepid.apiazapac-test.cbre.com
@@ -402,7 +400,6 @@ qa1.nonprod.apiazapac-test.cbre.com
 vas-tour-ol-dev.apiazapac-test.cbre.com
 ds.dev.chatbot.apiazapac-test.cbre.com
 gwskodak.apiazapac-test.cbre.com
-uatdevices.apiazapac-test.cbre.com
 gwsing.apiazapac-test.cbre.com
 myhcmcareers.apiazapac-test.cbre.com
 cassouat.apiazapac-test.cbre.com
@@ -771,7 +768,7 @@ dev-ba-ewrf.apiazapac-test.cbre.com
 looplink.paloalto.apiazapac-test.cbre.com
 gcsfinuat.apiazapac-test.cbre.com
 goodlink-02.apiazapac-test.cbre.com
-www.cyprus.apiazapac-test.cbre.com
+cyprus.apiazapac-test.cbre.com
 brokerhub.apiazapac-test.cbre.com
 erix.apiazapac-test.cbre.com
 ma-tm.nonprod.apiazapac-test.cbre.com
@@ -836,12 +833,11 @@ search.apiazapac-test.cbre.com
 shared-dr-usce-aks.cloudeng.apiazapac-test.cbre.com
 login-uat.apiazapac-test.cbre.com
 api.miq.apiazapac-test.cbre.com
-www.go.apiazapac-test.cbre.com
 videmo1.apiazapac-test.cbre.com
 siteiqtest.apiazapac-test.cbre.com
 mywork.apiazapac-test.cbre.com
 cdm.apiazapac-test.cbre.com
-www.pakistan.apiazapac-test.cbre.com
+pakistan.apiazapac-test.cbre.com
 dealiq.apiazapac-test.cbre.com
 staging.prenotes.dealiq.apiazapac-test.cbre.com
 lockbox-west.gcsonp.apiazapac-test.cbre.com
@@ -952,7 +948,7 @@ bammapuserapi.apiazapac-test.cbre.com
 dev.tether.apiazapac-test.cbre.com
 cmmsredirect.serviceinsight.apiazapac-test.cbre.com
 shared-prod-ukso-aks.cloudeng.apiazapac-test.cbre.com
-www.gwscognos-uat.apiazapac-test.cbre.com
+gwscognos-uat.apiazapac-test.cbre.com
 magr01.mydevices.apiazapac-test.cbre.com
 atcouchdb.apiazapac-test.cbre.com
 devops-auth-w-green.serviceinsight.apiazapac-test.cbre.com
@@ -975,7 +971,6 @@ api.apacfinishline.apiazapac-test.cbre.com
 pdfgenerator.apiazapac-test.cbre.com
 gcsmobiletrtrg.apiazapac-test.cbre.com
 cbrenowpreprod.apiazapac-test.cbre.com
-www.avm.apiazapac-test.cbre.com
 gwsphilips.apiazapac-test.cbre.com
 piq-old.apiazapac-test.cbre.com
 gwsfmpintegrations.apiazapac-test.cbre.com
@@ -1106,7 +1101,6 @@ unitedarabemirates.preview.apiazapac-test.cbre.com
 looplink.memphis.apiazapac-test.cbre.com
 mck-dev.intrepid.apiazapac-test.cbre.com
 sqdevorig.apiazapac-test.cbre.com
-www.e-valuation.apiazapac-test.cbre.com
 marketinsightsapi.apiazapac-test.cbre.com
 test.report.capitalflows.apiazapac-test.cbre.com
 my-tm.nonprod.apiazapac-test.cbre.com
@@ -1153,7 +1147,7 @@ pulse-criticaldate-uat.apiazapac-test.cbre.com
 uat-www.apiazapac-test.cbre.com
 atcouchdbstaging-east.apiazapac-test.cbre.com
 apiemea-test.apiazapac-test.cbre.com
-www.gia-portal.apiazapac-test.cbre.com
+gia-portal.apiazapac-test.cbre.com
 disruptech-test.apiazapac-test.cbre.com
 coreclient-ui-uat-green.vas-plat.apiazapac-test.cbre.com
 dctmsvc-dev.apiazapac-test.cbre.com
@@ -1170,7 +1164,6 @@ mapapps.apiazapac-test.cbre.com
 apimanager-dev.apiazapac-test.cbre.com
 servicescenterdev3.apiazapac-test.cbre.com
 vista.apiazapac-test.cbre.com
-www.nissanhelpdesk-crs.apiazapac-test.cbre.com
 itrackii.apiazapac-test.cbre.com
 es-sbc2.apiazapac-test.cbre.com
 cbreuat.locator.apiazapac-test.cbre.com
@@ -1217,7 +1210,6 @@ giulianipartners.apiazapac-test.cbre.com
 hostportal-dev.apiazapac-test.cbre.com
 au.eip-webhook-dev.apiazapac-test.cbre.com
 seg101.mydevices.apiazapac-test.cbre.com
-www.dr-insightreporting.apiazapac-test.cbre.com
 myhcmuat2.apiazapac-test.cbre.com
 myportalloginuat.apiazapac-test.cbre.com
 ppdbpworkplacetoolkit.apiazapac-test.cbre.com
@@ -1290,7 +1282,6 @@ looplink.kansascity.apiazapac-test.cbre.com
 artifactory-new.gcso.apiazapac-test.cbre.com
 gwsfoyershell.apiazapac-test.cbre.com
 gps-selfservice.apiazapac-test.cbre.com
-www.investor.apiazapac-test.cbre.com
 kuwait.preview.apiazapac-test.cbre.com
 uat-lightbox.apiazapac-test.cbre.com
 gwscadburys.apiazapac-test.cbre.com
@@ -1434,7 +1425,6 @@ api.staging.dealiq.apiazapac-test.cbre.com
 proptech-feedback.apiazapac-test.cbre.com
 testap.apiazapac-test.cbre.com
 dev-serviceapi.apiazapac-test.cbre.com
-www.gia-api.apiazapac-test.cbre.com
 us.artifactory.gcso.apiazapac-test.cbre.com
 cbreiev.apiazapac-test.cbre.com
 mag01.mydevices.apiazapac-test.cbre.com
@@ -1459,7 +1449,6 @@ prd-us-quantum.apiazapac-test.cbre.com
 looplink.martingr.apiazapac-test.cbre.com
 intrepiduat.apiazapac-test.cbre.com
 api-sb.experience.apiazapac-test.cbre.com
-intrepidspuat.apiazapac-test.cbre.com
 uidashboard-test.apiazapac-test.cbre.com
 api.smartfm.apiazapac-test.cbre.com
 ireweb.apiazapac-test.cbre.com
@@ -1478,7 +1467,6 @@ colombia.preview.apiazapac-test.cbre.com
 pakistan-tm.nonprod.apiazapac-test.cbre.com
 maintenance.serviceinsight.apiazapac-test.cbre.com
 pulse-admin-rec.apiazapac-test.cbre.com
-gwscognos-uat.apiazapac-test.cbre.com
 stagingapi.flow.apiazapac-test.cbre.com
 marketiq.apiazapac-test.cbre.com
 devops-c-green-gw.serviceinsight.apiazapac-test.cbre.com
@@ -1540,7 +1528,7 @@ uat-siteadmin.apiazapac-test.cbre.com
 cmsauthoring.apiazapac-test.cbre.com
 dev-login.apiazapac-test.cbre.com
 gwsgm.apiazapac-test.cbre.com
-www.workplace.apiazapac-test.cbre.com
+workplace.apiazapac-test.cbre.com
 hu-uat.nonprod.apiazapac-test.cbre.com
 crystal-ball.serviceinsight.apiazapac-test.cbre.com
 dealdata-oss.apiazapac-test.cbre.com
@@ -1751,7 +1739,6 @@ se-sbc2.apiazapac-test.cbre.com
 estimator-api-uat.apiazapac-test.cbre.com
 estimator-uat.apiazapac-test.cbre.com
 qa-cmms-auth.serviceinsight.apiazapac-test.cbre.com
-www.assetiq.apiazapac-test.cbre.com
 dr-hyperion.apiazapac-test.cbre.com
 salesone.apiazapac-test.cbre.com
 looplink.longisland.apiazapac-test.cbre.com
@@ -1794,7 +1781,7 @@ pulseforms-property-uat.apiazapac-test.cbre.com
 my-uat.nonprod.apiazapac-test.cbre.com
 looplink.charlottesville.apiazapac-test.cbre.com
 staging.dealiq.apiazapac-test.cbre.com
-www.staging.hub.apiazapac-test.cbre.com
+staging.hub.apiazapac-test.cbre.com
 uat.surveycreator.brokerhub.apiazapac-test.cbre.com
 videmo2.apiazapac-test.cbre.com
 sr-uat.gwsmobility-np.apiazapac-test.cbre.com
@@ -1868,7 +1855,6 @@ qa2.api.miq.apiazapac-test.cbre.com
 mobicontrol.apiazapac-test.cbre.com
 marketinsightsapi-dev.apiazapac-test.cbre.com
 lyncdiscover.apiazapac-test.cbre.com
-nissanhelpdesk-vaws.apiazapac-test.cbre.com
 tgm-ts-backend-dev2.green.apiazapac-test.cbre.com
 capitaladvisors.preview.apiazapac-test.cbre.com
 f5auth.apiazapac-test.cbre.com
@@ -1892,7 +1878,6 @@ screening.apiazapac-test.cbre.com
 gwsmaximorpt.glb.apiazapac-test.cbre.com
 viregus.apiazapac-test.cbre.com
 indonesia-uat.nonprod.apiazapac-test.cbre.com
-www.twistlock.gcso.apiazapac-test.cbre.com
 businessanalytics2-test.apiazapac-test.cbre.com
 mailcan.apiazapac-test.cbre.com
 tech.apiazapac-test.cbre.com
@@ -1914,7 +1899,7 @@ artifactory.gcso.apiazapac-test.cbre.com
 ir.apiazapac-test.cbre.com
 devforecaster.apiazapac-test.cbre.com
 mybioacconnect.apiazapac-test.cbre.com
-www.mck.intrepid.apiazapac-test.cbre.com
+mck.intrepid.apiazapac-test.cbre.com
 poc-cmms-auth.serviceinsight.apiazapac-test.cbre.com
 shared-sandbox-use2-aks.cloudeng.apiazapac-test.cbre.com
 devx.apiazapac-test.cbre.com

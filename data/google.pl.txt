@@ -24,7 +24,6 @@ images.google.pl
 news.google.pl
 apps.google.pl
 groups.google.pl
-www.google.pl
 mapy.google.pl
 clients6.google.pl
 picasa.google.pl
@@ -37,14 +36,12 @@ edu.google.pl
 consent.google.pl
 lh5.google.pl
 adservice.google.pl
-www.sandbox.google.pl
 pack.google.pl
 chrome.google.pl
 desktop.google.pl
 adsense.google.pl
 toolbarqueries.google.pl
 gsuite.google.pl
-www.maps.google.pl
 cctldtest.google.pl
 syslog.google.pl
 bks6.books.google.pl
@@ -61,9 +58,6 @@ assistant.google.pl
 46.215.203.35.bc.google.pl
 picasaweb.google.pl
 flights.google.pl
-www.video.google.pl
-www.picasaweb.google.pl
-www.translate.google.pl
 blogsearch.google.pl
 plus.google.pl
 toolbar.google.pl
@@ -72,4 +66,3 @@ alt1.aspmx.l.google.pl
 mta-sts.alt1.aspmx.l.google.pl
 campaigns.google.pl
 khms1.google.pl
-*.google.pl

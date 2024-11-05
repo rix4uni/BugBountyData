@@ -1,6 +1,5 @@
-*.neixin.cn
-*.st.neixin.cn
-*.xm.st.neixin.cn
+st.neixin.cn
+xm.st.neixin.cn
 admin.neixin.cn
 api.neixin.cn
 co.neixin.cn
@@ -17,11 +16,8 @@ polling.neixin.cn
 preview.neixin.cn
 qa.neixin.cn
 share.neixin.cn
-st.neixin.cn
 wendang.neixin.cn
 wss.neixin.cn
-www.neixin.cn
-xm.st.neixin.cn
 st-api.neixin.cn
 km-static.neixin.cn
 develop.neixin.cn

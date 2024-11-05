@@ -21,17 +21,15 @@ staging-replay.buhler-datascience.ch
 mattermost.buhler-datascience.ch
 demo-goldeneye.buhler-datascience.ch
 demo-bram.buhler-datascience.ch
-www.staging-grainigo.buhler-datascience.ch
+staging-grainigo.buhler-datascience.ch
 demo-buhler-carbon-calculator.buhler-datascience.ch
 staging-carbon-calculator.buhler-datascience.ch
 staging-mee.buhler-datascience.ch
 sentry.buhler-datascience.ch
 lora.buhler-datascience.ch
 impact-calculator.buhler-datascience.ch
-www.lora.buhler-datascience.ch
 staging-goldeneye.buhler-datascience.ch
 mee.buhler-datascience.ch
-staging-grainigo.buhler-datascience.ch
 keycloak.buhler-datascience.ch
 staging02-datacatalog.buhler-datascience.ch
 prometheus.buhler-datascience.ch
@@ -44,4 +42,3 @@ moisturepro.buhler-datascience.ch
 staging-lora.buhler-datascience.ch
 replay.buhler-datascience.ch
 dev02-replay.buhler-datascience.ch
-www.buhler-datascience.ch

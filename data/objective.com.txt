@@ -54,7 +54,6 @@ mdbp.objective.com
 consult-pharmac.objective.com
 demoadmin.build.objective.com
 alburycity-cloudview-portal.nexus.objective.com
-www.objective.com
 powerlink-cloudview-portal.nexus.objective.com
 nexusdev-tunnel.nexus-dev.objective.com
 fileman-waipa.processing.buildnonprod.objective.com
@@ -314,7 +313,6 @@ apvma.nexus.objective.com
 pentestb.3sixtynonprod.objective.com
 nexusstaging-cloudview-portal.nexus-staging.objective.com
 cdpp.nexus.objective.com
-www.icc.objective.com
 apvma-uat.nexus.objective.com
 master.3sixtynonprod.objective.com
 management.nexus-dev.objective.com
@@ -355,7 +353,7 @@ inspections-southwaikato.buildnonprod.objective.com
 dev1.buildnonprod.objective.com
 waccc.nexus.objective.com
 phishing.infosec.objective.com
-*.buildnonprod.objective.com
+buildnonprod.objective.com
 alphatest4.processing.buildnonprod.objective.com
 alphatest4-api.processing.buildnonprod.objective.com
 inspections-alphatest4.processing.buildnonprod.objective.com

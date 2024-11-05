@@ -350,4 +350,4 @@ abc.duolingo.com
 public-static.duolingo.com
 math-prod.duolingo.com
 okta.duolingo.com
-*.creston-dev-1.creston.infra-eks-dev.duolingo.com
+creston-dev-1.creston.infra-eks-dev.duolingo.com

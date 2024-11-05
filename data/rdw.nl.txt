@@ -27,7 +27,6 @@ preview-kennisbank.rdw.nl
 preview-lpg-handboek.rdw.nl
 preview.rdw.nl
 preview-tachograaf-handboek.rdw.nl
-www.rdw.nl
 rdwelkom.rdw.nl
 kentekenregistratieactiefmaken.rdw.nl
 inspire.rdw.nl
@@ -55,7 +54,6 @@ certauth.authenticatie2.rdw.nl
 enterpriseregistration.rdw.nl
 tbmaps.rdw.nl
 nav.rdw.nl
-*.ka.rdw.nl
 ka.rdw.nl
 typegoedkeuringaanvragen.rdw.nl
 verzekeringsgegevensopvragen.rdw.nl
@@ -91,7 +89,6 @@ edsorderhubv2-ne.rdw.nl
 dwo-intern.rdw.nl
 dwo.rdw.nl
 cmg.rdw.nl
-*.rdw.nl
 tthclientcertificate.rdw.nl
 tthprdclient.rdw.nl
 tthprdsigner.rdw.nl
@@ -154,9 +151,7 @@ support3.rdw.nl
 support4.rdw.nl
 support5.rdw.nl
 support-gn4.rdw.nl
-*.ase.edsorderhub-ne.rdw.nl
 ase.edsorderhub-ne.rdw.nl
-*.ase.edsorderhub-we.rdw.nl
 ase.edsorderhub-we.rdw.nl
 mx2.rdw.nl
 mx1.rdw.nl
@@ -387,8 +382,8 @@ jaarverslag2011.rdw.nl
 jaarverslag2012.rdw.nl
 shared.rdw.nl
 diensten.rdw.nl
-*.scm.ase.edsorderhub-ne.rdw.nl
-*.scm.ase.edsorderhub-we.rdw.nl
+scm.ase.edsorderhub-ne.rdw.nl
+scm.ase.edsorderhub-we.rdw.nl
 diensten-ne.rdw.nl
 service.rdw.nl
 cms.rdw.nl
@@ -411,13 +406,12 @@ crwam.rdw.nl
 tet.rdw.nl
 rme.rdw.nl
 terugroepregister.rdw.nl
-www.orverkiezingen.rdw.nl
+orverkiezingen.rdw.nl
 tgk.rdw.nl
 redirect.rdw.nl
 dkw.rdw.nl
 vld.rdw.nl
 gaik.rdw.nl
-www.diensten.rdw.nl
 sites-s.rdw.nl
 lis.rdw.nl
 nprverkooppunten.rdw.nl

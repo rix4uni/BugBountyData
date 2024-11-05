@@ -1,6 +1,5 @@
 portal.shopbazar.com
 bazar-admin-staging.shopbazar.com
-*.shopbazar.com
 portal-dev.shopbazar.com
 dev.shopbazar.com
 portal-staging.shopbazar.com
@@ -20,12 +19,11 @@ mydev.shopbazar.com
 airbyte.shopbazar.com
 aux-dev.shopbazar.com
 app-staging.shopbazar.com
-www.help.shopbazar.com
+help.shopbazar.com
 bazar-admin.shopbazar.com
 eu.shopbazar.com
 test.shopbazar.com
 sales.shopbazar.com
 app.shopbazar.com
-www.shopbazar.com
 bazar-b2b-backend.shopbazar.com
 dailydeals.shopbazar.com

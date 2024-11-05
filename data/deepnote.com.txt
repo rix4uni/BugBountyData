@@ -18,7 +18,5 @@ community.deepnote.com
 ecr-proxy.papaya.deepnote.com
 links.info.deepnote.com
 gusto.deepnote.com
-*.ecr-proxy.gusto.deepnote.com
-*.gusto.deepnote.com
+ecr-proxy.gusto.deepnote.com
 carta.deepnote.com
-www.deepnote.com

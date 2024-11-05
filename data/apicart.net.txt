@@ -14,7 +14,6 @@ sandbox.test.apicart.net
 data-api.test.apicart.net
 store-admin.apicart.net
 data-api.apicart.net
-www.apicart.net
 adm-logs.apicart.net
 adm-rabbitmq.apicart.net
 accounts.apicart.net
@@ -23,9 +22,8 @@ admin.apicart.net
 git.apicart.net
 cdn.apicart.net
 registry.git.apicart.net
-www.mock.apicart.net
-adm-traefik.apicart.net
 mock.apicart.net
+adm-traefik.apicart.net
 adm-mail.apicart.net
 adm-goaccess.apicart.net
 adm-influx.apicart.net

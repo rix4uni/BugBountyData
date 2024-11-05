@@ -71,7 +71,6 @@ node-data1.us1.wallarm.com
 eu1-qless.wallarm.com
 mx2.wallarm.com
 parsers.wallarm.com
-www.docs.wallarm.com
 moon.wallarm.com
 vault.wallarm.com
 uploads.wallarm.com
@@ -90,17 +89,12 @@ dkr.wallarm.com
 apiconsole.audit.wallarm.com
 authenticate.i.wallarm.com
 mirror.wallarm.com
-www.wallarm.com
 jenkins.wallarm.com
 mx1.wallarm.com
 attack-types.wallarm.com
-www.us1.wallarm.com
-www.lab.wallarm.com
-www.support.wallarm.com
 cl-demo.wallarm.com
 sentry-ng.wallarm.com
 csplab.wallarm.com
-www.us1.my.wallarm.com
 node-data.audit.wallarm.com
 vmware-vapp-repo-api.wallarm.com
 eu1-prometheus.wallarm.com
@@ -116,7 +110,6 @@ my.us1.wallarm.com
 vpn.wallarm.com
 node-data0.us1.wallarm.com
 beta.wallarm.com
-www.us1.api.wallarm.com
 us1-graphs.wallarm.com
 ico.wallarm.com
 argocd.staging.eu1.onprem.wallarm.com

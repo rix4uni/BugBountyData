@@ -102,7 +102,6 @@ lite-release-dev.printerapp.papercut.com
 s.send.papercut.com
 sandbox.mobility.cloud.papercut.com
 test.pmitc.papercut.com
-www.scan.papercut.com
 fuji-xerox.au.printerapp.papercut.com
 fuji-xerox-connect.au.printerapp.papercut.com
 api.eu.cloud.papercut.com
@@ -124,19 +123,17 @@ sharp.au.printerapp.papercut.com
 paperback.papercut.com
 cdn-src.papercut.com
 uk.pocket.papercut.com
-www.www-test.papercut.com
+www-test.papercut.com
 au.pocket.papercut.com
 fuji-xerox-connect.printerapp.papercut.com
 ocr.uk.cloud.papercut.com
 sharp.uk.printerapp.papercut.com
-www.papercut.com
 auth.partner.papercut.com
 update.uk.pmitc.papercut.com
 fuji-xerox.eu.printerapp.papercut.com
 api.au.cloud.papercut.com
 notifications.cloud.papercut.com
 sharp-connect2.printerapp.papercut.com
-www.go.papercut.com
 fujixerox-connect.printerapp.papercut.com
 learn.papercut.com
 matt.partner.dev.papercut.com
@@ -163,7 +160,6 @@ my.papercut.com
 hosting-test.papercut.com
 konica-minolta-dev.printerapp.papercut.com
 update.cloud.papercut.com
-www.my.papercut.com
 fujifilm-dev.printerapp.papercut.com
 partner.staging.papercut.com
 url8110.papercut.com
@@ -171,7 +167,6 @@ kyocera-connect.printerapp.papercut.com
 mqtt2.notifications.cloud.papercut.com
 multiverse.staging.cloud.papercut.com
 support.uk.pmitc.papercut.com
-www.buy.papercut.com
 au.hive.papercut.com
 store.papercut.com
 support.papercut.com
@@ -198,7 +193,6 @@ konica-minolta-connect.au.printerapp.papercut.com
 cloudnode.au.pmitc.papercut.com
 update.multiverse.staging.cloud.papercut.com
 userprovisionning.pmitc.papercut.com
-www-test.papercut.com
 canon.au.printerapp.papercut.com
 au.pmitc.papercut.com
 channel-reports.staging.papercut.com
@@ -207,7 +201,6 @@ au.printerapp.papercut.com
 auth.partner.staging.papercut.com
 login.multiverse.papercut.com
 user-provisioning.au.pmitc.papercut.com
-www.mobility-print-standalone.papercut.com
 api.bex.papercut.com
 api.uk.cloud.papercut.com
 connect-dev.printerapp.papercut.com
@@ -232,7 +225,6 @@ login.papercut.com
 au.send.papercut.com
 matt.auth.partner.dev.papercut.com
 addons.uk.cloud.papercut.com
-www.learn.papercut.com
 fujifilm-connect.au.printerapp.papercut.com
 paperback.staging.papercut.com
 sharp-dev.printerapp.papercut.com
@@ -249,7 +241,6 @@ xerox-connect.au.printerapp.papercut.com
 konica-minolta.uk.printerapp.papercut.com
 ocr.eu.cloud.papercut.com
 test1-d2k.papercut.com
-www.portal.papercut.com
 xerox-dev.printerapp.papercut.com
 lists.papercut.com
 shahrooq.partner.dev.papercut.com
@@ -262,7 +253,6 @@ cdn.eu.pmitc.papercut.com
 reseller.papercut.com
 eu.pmitc.papercut.com
 welcomeback.papercut.com
-www.staging.papercut.com
 blogs.papercut.com
 mdplay.dev.papercut.com
 buy-cdn.papercut.com
@@ -290,7 +280,6 @@ test.paperback.staging.papercut.com
 uk.send.papercut.com
 proxy.toshiba.printerapp.papercut.com
 toshiba-proxy.printerapp.papercut.com
-www.staging.multiverse.papercut.com
 docs.papercut.com
 ocr.au.cloud.papercut.com
 fujifilm-connect.printerapp.papercut.com
@@ -305,7 +294,6 @@ dev.auth.partner.dev.papercut.com
 lesf-connect.printerapp.papercut.com
 myaccount.papercut.com
 update.au.pmitc.papercut.com
-www.universal-print.papercut.com
 demos.papercut.com
 identity.papercut.com
 link.careers.papercut.com

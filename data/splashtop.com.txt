@@ -300,11 +300,3 @@ vault.splashtop.com
 stage.ztw.splashtop.com
 shared.e3-singapore-c1-usw2.dev.ztw.splashtop.com
 dat.cs.e1-boardman-c4-aps1.demo.ztw.splashtop.com
-*.tailscale.stage.ztw.splashtop.com
-*.splashtop.com
-*.dat.cs.e1-london-ctrl-usw2.prod.ssw.splashtop.com
-*.shared.e1-london-ctrl-usw2.us.ssw.splashtop.com
-*.app.e1-london-ctrl-usw2.us.ssw.splashtop.com
-*.app.e1-boardman-c1-usw2.dev.ztw.splashtop.com
-*.dat.cs.e1-boardman-c1-usw2.dev.ztw.splashtop.com
-*.shared.e1-boardman-c1-usw2.dev.ztw.splashtop.com

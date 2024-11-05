@@ -1,8 +1,7 @@
-*.oroinc.com
-*.dev.oroinc.com
-*.enterprise.saas1190.oroinc.com
-*.rcbuild8.dev.oroinc.com
-*.shared.saas1190.oroinc.com
+dev.oroinc.com
+enterprise.saas1190.oroinc.com
+rcbuild8.dev.oroinc.com
+shared.saas1190.oroinc.com
 academy.stage.dev.oroinc.com
 achumak-commerce-crm-ee-mysql.qa.oroinc.com
 admin-saas.saas1190.oroinc.com
@@ -22,7 +21,6 @@ community.oroinc.com
 content.oroinc.com
 crm.oroinc.com
 de.oroinc.stage.dev.oroinc.com
-dev.oroinc.com
 digital2.stage.dev.oroinc.com
 dkyrii-dev3.dev.oroinc.com
 doc.oroinc.com
@@ -66,7 +64,6 @@ oromomentum.stage.dev.oroinc.com
 orovibe.stage.dev.oroinc.com
 packagist.oroinc.com
 partners.oroinc.com
-rcbuild8.dev.oroinc.com
 ru.oroinc.stage.dev.oroinc.com
 ru.stage.dev.oroinc.com
 sales.oroinc.com
@@ -89,9 +86,6 @@ vpn-idp.oroinc.com
 vpn-idp.dev.oroinc.com
 vpn-test.dev.oroinc.com
 wifi.oroinc.com
-www.oroinc.com
-www.achumak-commerce-crm-ee-mysql.qa.oroinc.com
-www.stage.dev.oroinc.com
 zabbix.cloud-production.oroinc.com
 account-elasticbeanstalkvps1tunnel-mx.qa.oroinc.com
 achumak-commerce-crm-ee-pgsql.qa.oroinc.com
@@ -120,7 +114,6 @@ dhanzenko-commerce-crm-ee-mysql.qa.oroinc.com
 dhanzenko-commerce-crm-ee-pgsql.qa.oroinc.com
 dhanzenko-commerce-crm-ee-psql.qa.oroinc.com
 dskarboviichuk-commerce-crm-ee-pgsql.qa.oroinc.com
-enterprise.saas1190.oroinc.com
 errorcmsvpnpostman.dev.oroinc.com
 etsyrulik-commerce-crm-ee-mysql.qa.oroinc.com
 etsyrulik-commerce-crm-ee-pgsql.qa.oroinc.com
@@ -190,7 +183,6 @@ s3p-shield-kube-rollouts-webhook-5da5ebe.qa.oroinc.com
 sdtnav-dev1-alias4.qa.oroinc.com
 send.oroinc.com
 servicedesk.oroinc.com
-shared.saas1190.oroinc.com
 skoshelieva-commerce-crm-ee-pgsql.qa.oroinc.com
 skoshelieva-platform-mysql.qa.oroinc.com
 steh.qa.oroinc.com
@@ -2500,7 +2492,6 @@ mpsharedservices-dev.dev.oroinc.com
 tencentcloudpoc.dev.oroinc.com
 tor25-89-pdc.dev.oroinc.com
 xchannel.dev.oroinc.com
-xww.dev.oroinc.com
 example-postgres.dev.oroinc.com
 fpnh8-1.dev.oroinc.com
 kahuna-neocovidev.dev.oroinc.com

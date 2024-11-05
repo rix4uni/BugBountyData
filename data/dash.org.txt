@@ -131,7 +131,6 @@ seed-4.alpha.networks.dash.org
 seed-4.manila.rd.dash.org
 insight.paulaner.networks.dash.org
 seed-5.yankee.networks.dash.org
-www.dash.org
 seed-4.mainnet-support.networks.dash.org
 www-mrv.dash.org
 insight.xxxx.networks.dash.org
@@ -350,8 +349,6 @@ insight.mainnet-support.networks.dash.org
 faucet.mainnet-support.networks.dash.org
 faucet.alpha.networks.dash.org
 insight.alpha.networks.dash.org
-*.dash.org
-www.blog.dash.org
 faucet.feni.networks.dash.org
 p-eu-west-3.vpn.dash.org
 insight.feni.networks.dash.org

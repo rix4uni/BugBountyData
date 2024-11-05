@@ -4,7 +4,6 @@ git3.onap.org
 docs.onap.org
 wiki.onap.org
 2wiki.onap.org
-www.onap.org
 wiki2.onap.org
 nexus3ap.onap.org
 jenkins.onap.org
@@ -25,7 +24,6 @@ simpledemo.onap.org
 vesclient.onap.org
 ves-client.onap.org
 dns2.lists.onap.org
-www.wiki.onap.org
 c1.vm1.sdnc.simpledemo.onap.org
 drprov.simpledemo.onap.org
 aai-schema-service.onap.org
@@ -54,7 +52,7 @@ clamp.api.simpledemo.onap.org
 ww1.onap.org
 policy.api.simpledemo.onap.org
 cli.api.simpledemo.onap.org
-www.oom.onap.org
+oom.onap.org
 sdnr.onap.org
 dmaap-bc.onap.org
 dmaap-dr-prov.onap.org

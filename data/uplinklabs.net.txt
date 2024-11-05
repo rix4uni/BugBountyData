@@ -1,6 +1,5 @@
 elwing.uplinklabs.net
-*.uplinklabs.net
-*.internal.uplinklabs.net
+internal.uplinklabs.net
 cloud.uplinklabs.net
 wifi.uplinklabs.net
 ruckus.uplinklabs.net

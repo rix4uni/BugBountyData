@@ -98,7 +98,6 @@ app.cnvrg.klippa.com
 zeiss-us.prodigy.hub.klippa.com
 api.test.bgg.klippa.com
 api.test.sms.klippa.com
-www.klippa.com
 prescription-ne-fr.prodigy.hub.klippa.com
 cluster.custom-ocr.klippa.com
 custom-ocr-03.klippa.com
@@ -206,7 +205,6 @@ signature-location.annotera.dochorizon.klippa.com
 layoutlm-relations.annotera.dochorizon.klippa.com
 layoutlm-boxes.annotera.dochorizon.klippa.com
 chatgpt.hub.klippa.com
-*.klippa.com
 hwr-western.annotera.dochorizon.klippa.com
 konfuzio.comirissolutionspro.comwww.itesoft.comwww.klippa.com
 api.klippa.com
@@ -236,7 +234,7 @@ demo-widget-proxy.dochorizon.klippa.com
 lago-api.dochorizon.klippa.com
 lago.dochorizon.klippa.com
 activepieces.test.dochorizon.klippa.com
-www.itesoft.comwww.klippa.com
+itesoft.comwww.klippa.com
 irissolutionspro.comwww.itesoft.comwww.klippa.com
 grafana.aks-ch-north-prod.k8s.klippa.com
 grafana.aks-eu-west-prod.k8s.klippa.com

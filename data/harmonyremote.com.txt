@@ -1,9 +1,7 @@
-*.harmonyremote.com
-*.images.harmonyremote.com
+images.harmonyremote.com
 dashboard.harmonyremote.com
 dealers.harmonyremote.com
 help.harmonyremote.com
-images.harmonyremote.com
 mail.harmonyremote.com
 maintenance.harmonyremote.com
 members.harmonyremote.com
@@ -12,7 +10,6 @@ ns2.gslb.harmonyremote.com
 stg.harmonyremote.com
 support.harmonyremote.com
 test.harmonyremote.com
-www.harmonyremote.com
 espresso.harmonyremote.com
 customer.harmonyremote.com
 dealer.harmonyremote.com

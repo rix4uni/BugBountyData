@@ -1,7 +1,7 @@
 goviet.gojekapi.com
 dispatch.gojekapi.com
 ap.gojekapi.com
-www.gopaycc.gojekapi.com
+gopaycc.gojekapi.com
 integration-gobox-api.gojekapi.com
 admin-partners.gojekapi.com
 gocorp-payments.gojekapi.com
@@ -63,7 +63,6 @@ get-stg-voucher-allocation-service.gojekapi.com
 money-management.bills-and-pulsa.team.di-partner-stg.gojekapi.com
 web-staging.di-partner.gojekapi.com
 govietstaging-driver.gojekapi.com
-gopaycc.gojekapi.com
 get-voucher-allocation-service.gojekapi.com
 gomed.gojekapi.com
 driver.gojekapi.com
@@ -121,17 +120,12 @@ gopay-raccoon.gojekapi.com
 integration-magic-link-service.gojekapi.com
 gopay-web-raccoon-integration.gojekapi.com
 integration-dispatch-v2.gojekapi.com
-*.di-partner-stg.gojekapi.com
-*.di-partner.gojekapi.com
-*.gojekapi.com
-*.gobike.gojekapi.com
 agent.gojekapi.com
 api-v2.gojekapi.com
 courier.gojekapi.com
 go-kilat-staging.gojekapi.com
 images-goviet.gojekapi.com
 uat-api.gojekapi.com
-www.gojekapi.com
 mokapos-raccoon.gojekapi.com
 admin-integration-partners-kong.gojekapi.com
 gopay-merchant-raccoon.gojekapi.com

@@ -27,7 +27,6 @@ netbox.corp.gentlent.com
 resellers.gentlent.com
 git.corp.gentlent.com
 ns3.gentlent.com
-www.gentlent.com
 pub.corp.gentlent.com
 gdb-monitoring.corp.gentlent.com
 my.gentlent.com
@@ -57,4 +56,3 @@ tester.gentlent.com
 ssl-issuance-test-0009.gentlent.com
 captain.gcore.gentlent.com
 gcore.gcore.gentlent.com
-*.gentlent.com

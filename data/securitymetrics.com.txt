@@ -2,9 +2,7 @@ hq-prod-devops-bot.securitymetrics.com
 derp-e.securitymetrics.com
 derp-w.securitymetrics.com
 beta.securitymetrics.com
-www.securitymetrics.com
 preview.securitymetrics.com
-*.securitymetrics.com
 web1.securitymetrics.com
 autodiscover.securitymetrics.com
 scan61.securitymetrics.com
@@ -187,13 +185,12 @@ scan114.securitymetrics.com
 scan119.securitymetrics.com
 scan51.securitymetrics.com
 scan69.securitymetrics.com
-www.bitbucket.securitymetrics.com
+bitbucket.securitymetrics.com
 scan107.securitymetrics.com
 check58or.securitymetrics.com
 internal.securitymetrics.com
 regen-this-cert-async.lecert-dev-97724.securitymetrics.com
 scan41.securitymetrics.com
-www.test-bitbucket.securitymetrics.com
 test.beacon.securitymetrics.com
 scan101.securitymetrics.com
 monitor.securitymetrics.com
@@ -201,7 +198,6 @@ hq-prod1-mail-1.securitymetrics.com
 sales.pentest.securitymetrics.com
 scan48.securitymetrics.com
 scan79.securitymetrics.com
-bitbucket.securitymetrics.com
 dkmail1.securitymetrics.com
 c7maas.securitymetrics.com
 create-this-cert-sync.lecert-dev-97724.securitymetrics.com
@@ -273,7 +269,7 @@ scan22.securitymetrics.com
 scan62.securitymetrics.com
 scan77.securitymetrics.com
 vision-db.securitymetrics.com
-www.shop.securitymetrics.com
+shop.securitymetrics.com
 career.pentest.securitymetrics.com
 scan08.securitymetrics.com
 regen-this-cert-sync.lecert-dev-97724.securitymetrics.com
@@ -284,7 +280,6 @@ paste.pentest.securitymetrics.com
 it.palo-alto.securitymetrics.com
 scan27.securitymetrics.com
 scan54.securitymetrics.com
-shop.securitymetrics.com
 create-this-cert-async.lecert-dev-68954.securitymetrics.com
 hjgun428.lecert-dev.securitymetrics.com
 hq-ref-mail.securitymetrics.com

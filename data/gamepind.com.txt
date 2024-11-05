@@ -1,4 +1,3 @@
-*.gamepind.com
 agt-fantasy-daily-test1.gamepind.com
 agt-fantasy-test-wp.gamepind.com
 apk.gamepind.com
@@ -31,7 +30,6 @@ secure.gamepind.com
 securebox.gamepind.com
 spin.gamepind.com
 trivialive.gamepind.com
-www.gamepind.com
 apps.gamepind.com
 cst.gamepind.com
 monitoring.gamepind.com
@@ -823,7 +821,7 @@ loadmainserviceeventstaging.gamepind.com
 mainservice.eventstaging.gamepind.com
 fantasy-aws-daily-eureka1.gamepind.com
 fantasy-aws-daily-sentry-console-akamai.gamepind.com
-www.acemar.gamepind.com
+acemar.gamepind.com
 pfgc-stg-app-geoemail.gamepind.com
 pfgc-wallet-sentinel-new2-staging.gamepind.com
 pregplmaster.gamepind.com

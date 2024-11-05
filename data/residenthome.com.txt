@@ -15,7 +15,6 @@ stage-api.residenthome.com
 vpn-access.ops.residenthome.com
 webhooks.qa-data-eng.residenthome.com
 wp.residenthome.com
-www.residenthome.com
 xpert.residenthome.com
 api.c8c9ag.sandbox.residenthome.com
 api.sandbox.residenthome.com
@@ -41,5 +40,4 @@ test-env.residenthome.com
 testam.residenthome.com
 tf-test-env.residenthome.com
 w6usra.sandbox.residenthome.com
-www.c8c9ag.sandbox.residenthome.com
-www.nest.residenthome.com
+nest.residenthome.com

@@ -56,7 +56,6 @@ ecs.us-east-1a.prod.beeswax.com
 spark.beeswax.com
 jenkins-test.us-east-1a.prod.beeswax.com
 looker.apps.beeswax.com
-www.beeswax.com
 demandbase.beeswax.com
 stingersbx.beeswax.com
 playdigo.beeswax.com
@@ -136,7 +135,6 @@ bazel-cache-common.dev.us-east-1.beeswax.com
 blogqa.beeswax.com
 status.beeswax.com
 testrail-dev.restapi.prod.beeswax.com
-mww.beeswax.com
 ap-northeast-1-nginx.prodmon.beeswax.com
 k8s.eu-west-1.beeswax.com
 marjo.beeswax.com

@@ -65,7 +65,7 @@ mx1.comcastspectacor.com
 24-104-156-238.comcastspectacor.com
 24-104-156-81.comcastspectacor.com
 ctr-bl-c-apc-1500.mgmt.comcastspectacor.com
-www.pam.comcastspectacor.com
+pam.comcastspectacor.com
 24-104-156-108.comcastspectacor.com
 24-104-156-143.comcastspectacor.com
 24-104-156-59.comcastspectacor.com
@@ -90,7 +90,7 @@ status.it.comcastspectacor.com
 24-104-156-153.comcastspectacor.com
 24-104-156-193.comcastspectacor.com
 24-104-156-83.comcastspectacor.com
-www.ping.comcastspectacor.com
+ping.comcastspectacor.com
 24-104-156-116.comcastspectacor.com
 24-104-156-127.comcastspectacor.com
 24-104-156-201.comcastspectacor.com
@@ -166,10 +166,8 @@ app.comcastspectacor.com
 24-104-156-41.comcastspectacor.com
 email.comcastspectacor.com
 airwatch.comcastspectacor.com
-www.selfservice.comcastspectacor.com
 24-104-156-49.comcastspectacor.com
 ctr-mz-exp-apc-1500.mgmt.comcastspectacor.com
-www.assist.comcastspectacor.com
 24-104-156-139.comcastspectacor.com
 122.comcastspectacor.com
 24-104-156-141.comcastspectacor.com
@@ -178,9 +176,8 @@ www.assist.comcastspectacor.com
 24-104-156-44.comcastspectacor.com
 24-104-156-51.comcastspectacor.com
 24-104-156-60.comcastspectacor.com
-www.danls.comcastspectacor.com
+danls.comcastspectacor.com
 awconsole.comcastspectacor.com
-www.svip.comcastspectacor.com
 24-104-156-88.comcastspectacor.com
 24-104-156-62.comcastspectacor.com
 24-104-156-70.comcastspectacor.com
@@ -188,13 +185,12 @@ www.svip.comcastspectacor.com
 24-104-156-219.comcastspectacor.com
 24-104-156-94.comcastspectacor.com
 fly-vo-mdf-2-apc-2200.mgmt.comcastspectacor.com
-pam.comcastspectacor.com
 24-104-156-125.comcastspectacor.com
 24-104-156-230.comcastspectacor.com
 24-104-156-53.comcastspectacor.com
 24-104-156-67.comcastspectacor.com
 sip.comcastspectacor.com
-www.vpn.comcastspectacor.com
+vpn.comcastspectacor.com
 24-104-156-110.comcastspectacor.com
 24-104-156-213.comcastspectacor.com
 24-104-156-214.comcastspectacor.com
@@ -209,7 +205,7 @@ www.vpn.comcastspectacor.com
 24-104-156-244.comcastspectacor.com
 24-104-156-248.comcastspectacor.com
 24-104-156-28.comcastspectacor.com
-www.info.comcastspectacor.com
+info.comcastspectacor.com
 24-104-156-58.comcastspectacor.com
 fly-vo-wings-apc-1500.mgmt.comcastspectacor.com
 status.comcastspectacor.com
@@ -235,7 +231,6 @@ emam.comcastspectacor.com
 24-104-156-91.comcastspectacor.com
 24-104-156-96.comcastspectacor.com
 24-104-156-99.comcastspectacor.com
-vpn.comcastspectacor.com
 24-104-156-204.comcastspectacor.com
 24-104-156-224.comcastspectacor.com
 24-104-156-26.comcastspectacor.com
@@ -253,8 +248,7 @@ mx1b.comcastspectacor.com
 24-104-156-78.comcastspectacor.com
 spectrafood.comcastspectacor.com
 mail01.events.comcastspectacor.com
-www.adrms.comcastspectacor.com
-www.citrix.comcastspectacor.com
+citrix.comcastspectacor.com
 cshq-nagios-xi.comcastspectacor.com
 24-104-156-17.comcastspectacor.com
 24-104-156-177.comcastspectacor.com
@@ -267,7 +261,7 @@ cshq-nagios-xi.comcastspectacor.com
 24-104-156-10.comcastspectacor.com
 24-104-156-231.comcastspectacor.com
 24-104-156-92.comcastspectacor.com
-www.directaccess.comcastspectacor.com
+directaccess.comcastspectacor.com
 24-104-156-209.comcastspectacor.com
 24-104-156-8.comcastspectacor.com
 24-104-156-170.comcastspectacor.com
@@ -278,7 +272,6 @@ mx4.comcastspectacor.com
 24-104-156-114.comcastspectacor.com
 24-104-156-176.comcastspectacor.com
 24-104-156-22.comcastspectacor.com
-citrix.comcastspectacor.com
 24-104-156-97.comcastspectacor.com
 ctr-el-it-apc-1500.mgmt.comcastspectacor.com
 mx1a.comcastspectacor.com
@@ -308,13 +301,11 @@ spam.comcastspectacor.com
 24-104-156-151.comcastspectacor.com
 24-104-156-27.comcastspectacor.com
 24-104-156-66.comcastspectacor.com
-info.comcastspectacor.com
 24-104-156-166.comcastspectacor.com
 ctr-mz-b-apc-1500.mgmt.comcastspectacor.com
 24-104-156-160.comcastspectacor.com
 118.comcastspectacor.com
 24-104-156-76.comcastspectacor.com
-www.emam.comcastspectacor.com
 116.comcastspectacor.com
 24-104-156-93.comcastspectacor.com
 mx2a.comcastspectacor.com
@@ -326,7 +317,6 @@ mx2a.comcastspectacor.com
 24-104-156-57.comcastspectacor.com
 24-104-156-6.comcastspectacor.com
 mx2b.comcastspectacor.com
-directaccess.comcastspectacor.com
 24-104-156-15.comcastspectacor.com
 24-104-156-16.comcastspectacor.com
 24-104-156-180.comcastspectacor.com
@@ -341,14 +331,10 @@ directaccess.comcastspectacor.com
 24-104-156-35.comcastspectacor.com
 24-104-156-36.comcastspectacor.com
 24-104-156-95.comcastspectacor.com
-www.comcastspectacor.com
 spectra-ping.comcastspectacor.com
-danls.comcastspectacor.com
 24-104-156-117.comcastspectacor.com
 24-104-156-228.comcastspectacor.com
 24-104-156-56.comcastspectacor.com
 24-104-156-75.comcastspectacor.com
 events.comcastspectacor.com
 fly-vo-mdf-2-apc-1500.mgmt.comcastspectacor.com
-ping.comcastspectacor.com
-www.helpdesk.comcastspectacor.com

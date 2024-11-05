@@ -1,4 +1,3 @@
-*.mariadb.org
 archive.mariadb.org
 badges.mariadb.org
 bb01.mariadb.org
@@ -45,8 +44,6 @@ test-faust.mariadb.org
 tools.mariadb.org
 translate.mariadb.org
 webdav.mariadb.org
-www.mariadb.org
-www.new.mariadb.org
 yum.mariadb.org
 zabbix.mariadb.org
 bastion.mariadb.org

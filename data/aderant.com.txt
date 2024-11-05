@@ -70,14 +70,13 @@ radius.aderant.com
 svras202.aderant.com
 na.citrix.aderant.com
 askmaddi.aderant.com
-www.ap.ftp.aderant.com
+ap.ftp.aderant.com
 packages.ap.aderant.com
 livelink.aderant.com
 apgateway.aderant.com
 athena-api.cloud.aderant.com
 billblast-api.aderant.com
 itegg.aderant.com
-www.aderant.com
 vpn.aderant.com
 akl.ap.direct.aderant.com
 devitimekeep.aderant.com
@@ -93,7 +92,6 @@ askmaddimomentum.cloud.aderant.com
 momentum.aderant.com
 passivetimeassistant.aderant.com
 svda401.na.aderant.com
-www.billblast.aderant.com
 thrive.aderant.com
 vpn-lax.aderant.com
 reporting-service.platform-prod.cluster.internal.cloud.aderant.com
@@ -132,7 +130,6 @@ clarify.support.aderant.com
 lon.eu.direct.aderant.com
 na.direct.aderant.com
 svras602.ap.aderant.com
-www.na.owa.aderant.com
 ps-reporting-dev.cloud.aderant.com
 crlna.aderant.com
 ok.aderant.com
@@ -174,13 +171,10 @@ intelligence.aderant.com
 loki.cloud.aderant.com
 3.aderant.com
 vpn-atl.aderant.com
-www.mkt.aderant.com
-ap.ftp.aderant.com
 firminsight.aderant.com
 passivetimeassistant-dev.aderant.com
 svras902.aderant.com
 svrds301.ap.aderant.com
-www.radius.aderant.com
 marketing.aderant.com
 firm-service.platform-prod.cluster.internal.cloud.aderant.com
 svras703.eu.aderant.com
@@ -194,6 +188,5 @@ vpn-tlh.aderant.com
 zendesk.aderant.com
 superset.cluster.internal.cloud.aderant.com
 usermanagementtest.aderant.com
-www.ap.owa.aderant.com
 www3.aderant.com
 vpn-lon.aderant.com

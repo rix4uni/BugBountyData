@@ -9,7 +9,7 @@ app.oat-adf.saturn.o2service.de
 oat-msd.portal.saturn.o2service.de
 portal.qa2-vzm.saturn.o2service.de
 qa2-kfl.portal.saturn.o2service.de
-www.ldl-prod.portal.saturn.o2service.de
+ldl-prod.portal.saturn.o2service.de
 oat-kfl.portal.saturn.o2service.de
 portal.qaphp-ldl.saturn.o2service.de
 qa-mediamarkt.staging.saturn.o2service.de
@@ -44,7 +44,6 @@ oat-slk.portal.saturn.o2service.de
 sps.saturn.o2service.de
 oat-slk.saturn.o2service.de
 kuendigung.saturn.o2service.de
-ldl-prod.portal.saturn.o2service.de
 qa-fnc.portal.saturn.o2service.de
 gw.saturn.o2service.de
 qa2-ttk.portal.saturn.o2service.de
@@ -66,7 +65,7 @@ preview.oat-slk.saturn.o2service.de
 portal.qa-kfl.saturn.o2service.de
 mediamarkt.saturn.o2service.de
 cms.saturn.o2service.de
-www.fnc-prod.portal.saturn.o2service.de
+fnc-prod.portal.saturn.o2service.de
 portal.qa2-kdg.saturn.o2service.de
 preview.qa-ldl.saturn.o2service.de
 qa-msd.portal.saturn.o2service.de
@@ -107,7 +106,6 @@ mobile-test.saturn.o2service.de
 portal.qa-adf.saturn.o2service.de
 landing.qa-fnc.saturn.o2service.de
 qa2-slk.staging.saturn.o2service.de
-www.saturn.o2service.de
 slk-prod.portal.saturn.o2service.de
 preview.qa2-slk.saturn.o2service.de
 selfcare.dev-tcm.saturn.o2service.de
@@ -179,7 +177,6 @@ qa-mediamarkt.portal.saturn.o2service.de
 cms-test.saturn.o2service.de
 rator-monitor.saturn.o2service.de
 qa2-apl.staging.saturn.o2service.de
-fnc-prod.portal.saturn.o2service.de
 app.qa2-adf.saturn.o2service.de
 portal.qa-ttk.saturn.o2service.de
 oat-fnc.saturn.o2service.de

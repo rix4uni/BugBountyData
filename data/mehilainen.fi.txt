@@ -10,7 +10,7 @@ testikuvantaminen2.mehilainen.fi
 ag2.mehilainen.fi
 korona1.mehilainen.fi
 nappula.mehilainen.fi
-www.mielenterveyskuntoutus.mehilainen.fi
+mielenterveyskuntoutus.mehilainen.fi
 yritys1.mehilainen.fi
 wepeople.mehilainen.fi
 mailer.mehilainen.fi
@@ -24,7 +24,7 @@ ajaxe.mehilainen.fi
 futiskuva.mehilainen.fi
 gateway-battery-dev.mehilainen.fi
 portti1.mehilainen.fi
-www.ilmanlaseja.mehilainen.fi
+ilmanlaseja.mehilainen.fi
 hermione-webapi.mehilainen.fi
 kyselyt-testi-prod.mehilainen.fi
 media2.mehilainen.fi
@@ -51,7 +51,7 @@ test.aws-api.mehilainen.fi
 koronatestit.mehilainen.fi
 oa.mehilainen.fi
 kyselyt-testi.mehilainen.fi
-www.vammaispalvelut.mehilainen.fi
+vammaispalvelut.mehilainen.fi
 auth-test.mehilainen.fi
 koronatesti.mehilainen.fi
 testi-ajanvaraus.mehilainen.fi
@@ -73,15 +73,14 @@ oma.mehilainen.fi
 pa-test.mehilainen.fi
 palaute.mehilainen.fi
 demo-ajanvaraus.mehilainen.fi
-mielenterveyskuntoutus.mehilainen.fi
 www3.mehilainen.fi
 fs.mehilainen.fi
 kyselyt.mehilainen.fi
 virta-gke.mehilainen.fi
 private.aws-api.mehilainen.fi
 k.test.mehilainen.fi
-www.phhyky.mehilainen.fi
-www.testit.mehilainen.fi
+phhyky.mehilainen.fi
+testit.mehilainen.fi
 jamix-ateriaali-ruokatilaus.mehilainen.fi
 link.viestit.mehilainen.fi
 staging.vammaispalvelut.mehilainen.fi
@@ -90,7 +89,7 @@ agtest1.mehilainen.fi
 avgcp.mehilainen.fi
 prod.www.mehilainen.fi
 unsubscribe.mehilainen.fi
-www.beta.mehilainen.fi
+beta.mehilainen.fi
 ajanvaraus1.mehilainen.fi
 enterpriseregistration.mehilainen.fi
 fs3.mehilainen.fi
@@ -114,7 +113,6 @@ mehidocreports.mehilainen.fi
 analytics.mehilainen.fi
 ag1.mehilainen.fi
 ajanvaraus.mehilainen.fi
-beta.mehilainen.fi
 domacare.mehilainen.fi
 email.contact.mehilainen.fi
 sg.mehilainen.fi
@@ -132,7 +130,6 @@ verkkokauppa.mehilainen.fi
 aspa-test.mehilainen.fi
 lyncdiscover.mehilainen.fi
 secure.mehilainen.fi
-ilmanlaseja.mehilainen.fi
 k.private-test.mehilainen.fi
 yritys.mehilainen.fi
 as.mehilainen.fi
@@ -158,7 +155,6 @@ tyopaikat.mehilainen.fi
 ajanvaraus-api.mehilainen.fi
 nappula-test.mehilainen.fi
 puhti-api.mehilainen.fi
-www.felicitas.mehilainen.fi
 mehisentry.mehilainen.fi
 auth.mehilainen.fi
 markkinointilupa.mehilainen.fi
@@ -167,7 +163,6 @@ media.mehilainen.fi
 laatukenno.kenno.mehilainen.fi
 lahitapiolaetu.mehilainen.fi
 virta.mehilainen.fi
-www.mehilainen.fi
 beta-ajanvaraus.mehilainen.fi
 design-system.mehilainen.fi
 hermione-test-app.mehilainen.fi
@@ -183,11 +178,9 @@ ag.mehilainen.fi
 av3-prod.mehilainen.fi
 tth-api-test.mehilainen.fi
 meet.mehilainen.fi
-phhyky.mehilainen.fi
 test.mehilainen.fi
 lahetys.mehilainen.fi
 oppi.mehilainen.fi
-vammaispalvelut.mehilainen.fi
 virta-dev.mehilainen.fi
 private-test.aws-api.mehilainen.fi
 av.mehilainen.fi
@@ -218,7 +211,6 @@ hr-gcp.mehilainen.fi
 webext.mehilainen.fi
 sentry.mehilainen.fi
 sv.mehilainen.fi
-www.korona.mehilainen.fi
 private-test.gcp-api.mehilainen.fi
 asiakasraati.tep.mehilainen.fi
 private-aws.mehilainen.fi
@@ -226,17 +218,14 @@ link.tep-email.mehilainen.fi
 oma2.mehilainen.fi
 pa.mehilainen.fi
 staging.felicitas.mehilainen.fi
-testit.mehilainen.fi
 ai.mehilainen.fi
 en.mehilainen.fi
 siikalatva.mehilainen.fi
 mehidoc-beta.mehilainen.fi
 puhti-api-test.mehilainen.fi
-www.siikalatva.mehilainen.fi
 palautelomake.mehilainen.fi
 influenssalaskuri.mehilainen.fi
 mediahallinta.mehilainen.fi
-www.lahjakorttihallinta.mehilainen.fi
 hello.dev.gcp.mehilainen.fi
 wi1.mehilainen.fi
 esitiedot.mehilainen.fi

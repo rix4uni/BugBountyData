@@ -16,15 +16,13 @@ cms-qa-wellcare.buzzrx.com
 cms-rx.buzzrx.com
 kmart-dev.buzzrx.com
 walmart.buzzrx.com
-www.cms.buzzrx.com
+cms.buzzrx.com
 cbfb.buzzrx.com
 wellcare.buzzrx.com
 buzzrx-qa-fe.buzzrx.com
 uat.buzzrx.com
 qa-clicks.contacts.buzzrx.com
 staging-drugservice-api-1.buzzrx.com
-www.buzzrx.com
-cms.buzzrx.com
 clicks.contact.buzzrx.com
 cms-ipm.buzzrx.com
 hyvee-dev.buzzrx.com
@@ -38,4 +36,3 @@ rwkbkx4r.mail.buzzrx.com
 walmart-qa.buzzrx.com
 fbwct.buzzrx.com
 dev-clicks.mail.buzzrx.com
-*.buzzrx.com

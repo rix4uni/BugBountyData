@@ -19,7 +19,7 @@ mq.hilab.com.br
 attendance.serverless.dev-services.hilab.com.br
 sale.serverless.dev-services.hilab.com.br
 setting.serverless.hml-services.hilab.com.br
-www.estudiomarcial.estudioou-gravida.hilab.com.br
+estudiomarcial.estudioou-gravida.hilab.com.br
 knative-serving.hml-services.hilab.com.br
 rabbitmq.hml-services.hilab.com.br
 kube-system.dev-services.hilab.com.br
@@ -126,7 +126,6 @@ dev-data.hilab.com.br
 kube-system.hml-services.hilab.com.br
 attendance.serverless.services.hilab.com.br
 stock.serverless.services.hilab.com.br
-www.dev.hilab.com.br
 assinatura.hilab.com.br
 portal.hilab.com.br
 taina.hilab.com.br
@@ -135,7 +134,7 @@ kube-public.hml-services.hilab.com.br
 serverless.dev-services.hilab.com.br
 analyte.serverless.hml-services.hilab.com.br
 financial.serverless.dev-services.hilab.com.br
-www.blog.hilab.com.br
+blog.hilab.com.br
 ingress-system.services.hilab.com.br
 kubecost.dev-services.hilab.com.br
 miniredis.hml-services.hilab.com.br
@@ -155,7 +154,7 @@ login.hilab.com.br
 patient.serverless.dev-services.hilab.com.br
 rabbitmq.serverless.services.hilab.com.br
 testredis.dev-services.hilab.com.br
-www.estou-gravida.hilab.com.br
+estou-gravida.hilab.com.br
 lab.hilab.com.br
 job.dev-services.hilab.com.br
 job.services.hilab.com.br
@@ -249,7 +248,6 @@ hilab-server.serverless.dev-services.hilab.com.br
 materiais.hilab.com.br
 report.serverless.dev-services.hilab.com.br
 scanner.serverless.services.hilab.com.br
-www.hilab.com.br
 cert-system.dev-services.hilab.com.br
 gitlab.dev-services.hilab.com.br
 dev-shinyproxy.hilab.com.br
@@ -261,14 +259,11 @@ redis.hml-services.hilab.com.br
 devhilabf.hilab.com.br
 event-display.eventing.dev-services.hilab.com.br
 workplace.serverless.hml-services.hilab.com.br
-www.login.hilab.com.br
 operations-server.serverless.dev-services.hilab.com.br
-blog.hilab.com.br
 data-science.services.hilab.com.br
 nginx-example.dev-services.hilab.com.br
 velero.dev-services.hilab.com.br
 dialog.serverless.hml-services.hilab.com.br
-estou-gravida.hilab.com.br
 kiali.hilab.com.br
 message.dev-services.hilab.com.br
 dev-grafana.hilab.com.br

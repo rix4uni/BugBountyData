@@ -427,7 +427,7 @@ elections.worldline.com
 accueil-http-pmumirror-ph.gsb.worldline.com
 cmu-api.psd2.apigee.digitalbanking.worldline.com
 iacc-cas.itsm.worldline.com
-www.csr2016.worldline.com
+csr2016.worldline.com
 trusted-digitization.worldline.com
 vpn.worldline.com
 rse2016.worldline.com
@@ -444,7 +444,6 @@ cln-api.psd2.apigee.digitalbanking.worldline.com
 extranet.mbnsei.digitalbanking.worldline.com
 contract.worldline.com
 ktl-api.psd2.apigee.digitalbanking.worldline.com
-csr2016.worldline.com
 secure.payments.worldline.com
 accueil-http-joaonline-ph.gsb.worldline.com
 transfert.fichiers.worldline.com
@@ -455,7 +454,6 @@ kibana.reporting.digitalbanking.worldline.com
 vas.extranet.worldline.com
 _dmarc.worldline.com
 accueil-http-pmumirror-jc.gsb.worldline.com
-www.sips.worldline.com
 prizechecker.mbnsei.digitalbanking.worldline.com
 portal.cloud.worldline.com
 tpd.dk.worldline.com
@@ -465,12 +463,11 @@ onesource-dr.payments.worldline.com
 ova-api.psd2.apigee.digitalbanking.worldline.com
 mbnsei.digitalbanking.worldline.com
 shop.be.worldline.com
-www.rapports2016.worldline.com
+rapports2016.worldline.com
 login.wip.payments.worldline.com
 mil-fallback.psd2.apigee.digitalbanking.worldline.com
 merchanthub.worldline.com
 nfz-api.psd2.apigee.digitalbanking.worldline.com
-www.rse2016.worldline.com
 sip.worldline.com
 health.analytics.digitalbanking.worldline.com
 auth.wip.payments.worldline.com
@@ -522,12 +519,10 @@ brandportal.worldline.com
 login.gtm.worldline.com
 consultation-pmumirror-jc.gsb.worldline.com
 paylib-flash.worldline.com
-www.drwp.worldline.com
+drwp.worldline.com
 monitoringmanagement.itsm.worldline.com
 consultation-betclic-jc.gsb.worldline.com
-rapports2016.worldline.com
 banks.extranet.be.worldline.com
-www.fairs.worldline.com
 bexs-notify-eu.payments.worldline.com
 mail-and-drive.worldline.com
 auth.proof-manager-viewer.sae.worldline.com
@@ -535,10 +530,8 @@ cloud.worldline.com
 xl-release.itsm.worldline.com
 bflpay.in.worldline.com
 monitoring.worldline.com
-www.es.worldline.com
 backupreport.eacc.itsm.worldline.com
 api.mbnsei.digitalbanking.worldline.com
-www.reports2016.worldline.com
 onlinepaymentacceptance.worldline.com
 outgoing10.vdm.ppb.worldline.com
 horus.itsm.worldline.com
@@ -564,7 +557,6 @@ bnpp-pf-se-auto.worldline.com
 bnpp-pf-imx.worldline.com
 u5b.fo.hub.worldline.com
 mobile.worldline.com
-www.fr.worldline.com
 psp-gateway-confirmation.worldline.com
 ceu-api.psd2.apigee.digitalbanking.worldline.com
 auth.payments.worldline.com
@@ -579,7 +571,6 @@ smethod.systemtest.payments.worldline.com
 eacc-keycloak.itsm.worldline.com
 apigee.digitalbanking.worldline.com
 ecomplus.in.worldline.com
-drwp.worldline.com
 stage.worldline.com
 papershopbe.worldline.com
 tpp.worldline.com
@@ -591,21 +582,16 @@ prod-authent.a2g.fo.hub.worldline.com
 se.worldline.com
 es.reporting.digitalbanking.worldline.com
 consultation-betclic-ps.gsb.worldline.com
-www.th.worldline.com
 issuing-ims-b2b.baltic.worldline.com
 pci-portal.worldline.com
 business.worldline.com
 tsm-preprod.baltic.worldline.com
 ebanx-nfy-eu.test.payments.worldline.com
-www.tw.worldline.com
 mkp-fallback.psd2.apigee.digitalbanking.worldline.com
 reverseproxy.eacc.itsm.worldline.com
 management.apigee.digitalbanking.worldline.com
-www.onlinepaymentacceptance.worldline.com
 portal.itsm.worldline.com
-www.worldline.com
 bpb-api.psd2.apigee.digitalbanking.worldline.com
-www.rapportannuel2016.worldline.com
 go.worldline.com
 csbhom.worldline.com
 portal.mbnsei.digitalbanking.worldline.com
@@ -631,7 +617,6 @@ consultation-pmu-jc.gsb.worldline.com
 health.mbnsei.digitalbanking.worldline.com
 ibptest.test.payments.worldline.com
 consultation-pmu-ps.gsb.worldline.com
-www.my.worldline.com
 ssl.vpn01.worldline.com
 collection.in.worldline.com
 utv.cat.tvp.worldline.com
@@ -674,7 +659,6 @@ frspvmed001-sip.worldline.com
 uat.ap.worldline.com
 prod.paymentsolutions.baltic.worldline.com
 uat.mypaymentsolution.lu.worldline.com
-www.lu.worldline.com
 fi.worldline.com
 stage.financial-institutions.worldline.com
 dev.paymentsolutions.baltic.worldline.com
@@ -753,15 +737,13 @@ massmail9.ppb.worldline.com
 uat.ee.worldline.com
 ws8.payments.worldline.com
 uat.worldline.com
-www.ecom.in.worldline.com
 dev.mypaymentsolution.be.worldline.com
 authent.lbp.fo.hub.worldline.com
 stage.financial-services.worldline.com
 utv.cat.mpp.worldline.com
 uat.cn.worldline.com
-www.magazine.worldline.com
+magazine.worldline.com
 demo.be.worldline.com
-www.uk.worldline.com
 dev.uk.worldline.com
 authproduction.pushpull.worldline.com
 qlf-ftpssl.pci.worldline.com
@@ -770,7 +752,6 @@ stage.cl.worldline.com
 outgoing20.ppb.worldline.com
 ntfy-part-2.payments.worldline.com
 dev.financial-institutions.worldline.com
-www.global-issuing.service.worldline.com
 webhooks-out.eacc.ppb.worldline.com
 golive-sso-qlf.worldline.com
 stage.ing.be.worldline.com
@@ -791,7 +772,6 @@ dev.be.worldline.com
 frspvmed002-webconf.worldline.com
 auth.otu-attestation.eacc.otu.worldline.com
 vpn-global-issuing.service.worldline.com
-www.corp.worldline.com
 test-score-client.arkea.fo.hub.worldline.com
 iacc-ssl-genericpush-ws.worldline.com
 swconsultation.worldline.com
@@ -799,7 +779,6 @@ frspvmed001-av.worldline.com
 ws6.payments.worldline.com
 dev.cl.worldline.com
 stage.epayment.pl.worldline.com
-www.be.worldline.com
 prd-consultation-francepari-ps.gsb.worldline.com
 client-tvp-hce-prod.worldline.com
 outgoing25.ppb.worldline.com
@@ -814,7 +793,6 @@ amq-geny.gsb.worldline.com
 massmail22.ppb.worldline.com
 forecastingtool.worldline.com
 prod.smime.bnpp.fo.hub.worldline.com
-www.payconiq.be.worldline.com
 itsm.worldline.com
 prd-xarm-administration.gsb.worldline.com
 accueil-http-joaonline.gsb.worldline.com
@@ -849,7 +827,6 @@ uat.iot-health-traceability-solutions.worldline.com
 ws7.payments.worldline.com
 test-authent.ta.fo.hub.worldline.com
 uat.rapports.worldline.com
-www.login.payments.worldline.com
 uat.ar.worldline.com
 svcr-209-74-2-91.ppp.svvc.payments.worldline.com
 quicksign.archiving.worldline.com
@@ -918,7 +895,6 @@ outgoing10.ppb.worldline.com
 dev.ing.be.worldline.com
 stage.support.be.worldline.com
 outgoing11.scl.ppb.worldline.com
-www.annualreport2016.worldline.com
 prod.fr.worldline.com
 dev.login.gtm.worldline.com
 client-prod-authent.zkb.hub.worldline.com
@@ -962,7 +938,6 @@ stage.sk.worldline.com
 outgoing23.ppb.worldline.com
 prd-consultation-geny-ph.gsb.worldline.com
 uat.se.worldline.com
-www.sk.worldline.com
 test-client.newb.hub.worldline.com
 auth.saem.qlf.sae2.worldline.com
 uat.kbc.be.worldline.com
@@ -981,13 +956,11 @@ gpg-ingenico-sncf.worldline.com
 mvst.worldline.com
 wac.worldline.com
 reporting.worldline.com
-magazine.worldline.com
 test-issuing-ims-web.baltic.worldline.com
 outgoing1.ppb.worldline.com
 test-client.danske.fo.hub.worldline.com
 mail-av.terrapromessa.euail-and-drive.worldline.com
 uat.jp.worldline.com
-www.terminalbezkosztow.pl.worldline.com
 test-authent.caps.fo.hub.worldline.com
 iacviacc-reverseproxy.itsm.worldline.com
 onlinepayments.baltic.worldline.com
@@ -999,9 +972,7 @@ ott.payments.worldline.com
 sms.hub.worldline.com
 massmail14.ppb.worldline.com
 prod.kartenforum.de.worldline.com
-www.qlf-global-issuing.service.worldline.com
 be.xx.worldline.com
-www.platobnyterminal.sk.worldline.com
 uat.belfius.worldline.com
 auth.otu-attestation.otu.worldline.com
 consultation-gaming1-ps.gsb.worldline.com
@@ -1037,7 +1008,6 @@ prod.worldline.com
 horodatagev1.worldline.com
 outgoing24.ppb.worldline.com
 stages.fr.worldline.com
-www.insight.in.worldline.com
 massmail13.ppb.worldline.com
 wcb-lbp.pprd.bcc.worldline.com
 massmail3.ppb.worldline.com
@@ -1100,7 +1070,6 @@ uat.reports.worldline.com
 sncf.fo.smime.worldline.com
 uat.no.worldline.com
 dev.iot-health-traceability-solutions.worldline.com
-www.securepaymentpage.baltic.worldline.com
 prod-authent.brs.fo.hub.worldline.com
 zabbix.int.payments.worldline.com
 outgoing17.ppb.worldline.com
@@ -1115,7 +1084,6 @@ prod.be.worldline.com
 clcarteaffaires.worldline.com
 outgoing15.ppb.worldline.com
 stage.epayment.de.worldline.com
-www.sips.uk.worldline.com
 stage.iot-health-traceability-solutions.worldline.com
 stage.lv.worldline.com
 massmail2.ppb.worldline.com
@@ -1125,7 +1093,6 @@ stg-accueil-http-oppida-cn.gsb.worldline.com
 issuing-cms01.baltic.worldline.com
 monbsi.worldline.com
 stage.paymark.worldline.com
-www.jobs.worldline.com
 uat.na.worldline.com
 eacc-ssl-genericpush-ws.worldline.com
 vxml-cccb-cat.worldline.com
@@ -1136,7 +1103,6 @@ auth.api.prod.bnppf.worldline.com
 tsm-test.baltic.worldline.com
 uat.ie.worldline.com
 go2.worldline.com
-www.polskabezgotowki.pl.worldline.com
 stage.digital-mobility-and-trusted-transactions.worldline.com
 sso.worldline.com
 uat.rethink-transactions.worldline.com
@@ -1161,8 +1127,6 @@ stage.rethink-transactions.worldline.com
 uat.sk.worldline.com
 gui-premium.worldline.com
 uat.terminals.worldline.com
-*.systemtest.payments.worldline.com
-www.nl.worldline.com
 login.test.payments.worldline.com
 js.baltic.worldline.com
 prd-consultation-pmu-jc.gsb.worldline.com

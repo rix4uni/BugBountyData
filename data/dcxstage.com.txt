@@ -1,6 +1,5 @@
-*.dcxstage.com
-*.info.dcxstage.com
-*.marketing.dcxstage.com
+info.dcxstage.com
+marketing.dcxstage.com
 airbyte.dcxstage.com
 apm.dcxstage.com
 app.dcxstage.com
@@ -9,11 +8,9 @@ cdn.dcxstage.com
 channelauth.dcxstage.com
 dcx-letsencrypt.dcxstage.com
 docs.dcxstage.com
-info.dcxstage.com
 infra-reports.dcxstage.com
 kibana.dcxstage.com
 login.dcxstage.com
-marketing.dcxstage.com
 node-registry.dcxstage.com
 retool.dcxstage.com
 stream.dcxstage.com
@@ -63,7 +60,6 @@ gmu.dcxstage.com
 invest.dcxstage.com
 defi.dcxstage.com
 eis.dcxstage.com
-www.dcxstage.com
 api-jp.dcxstage.com
 web-api.dcxstage.com
 public.dcxstage.com
@@ -91,7 +87,6 @@ defi-admin-service.dcxstage.com
 mercury-cefi-oms.dcxstage.com
 mercury-exchange-communication-gateway-jp.dcxstage.com
 coindcx-staging-pay.dcxstage.com
-www.info.dcxstage.com
 mercury-app-config.dcxstage.com
 recommendation.dcxstage.com
 mercury-exchange-broker-performance.dcxstage.com

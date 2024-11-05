@@ -19,7 +19,6 @@ webmail.makina-corpus.com
 postorius.makina-corpus.com
 demo-terravisu-territoires.makina-corpus.com
 proxy-smtp7.makina-corpus.com
-www.makina-corpus.com
 formations.makina-corpus.com
 formation.makina-corpus.com
 demo-collectivite-territoires.makina-corpus.com
@@ -54,5 +53,3 @@ spf.makina-corpus.com
 pre.makina-corpus.com
 ns2.makina-corpus.com
 alt-mailman.makina-corpus.com
-*.antispam.makina-corpus.com
-*.makina-corpus.com

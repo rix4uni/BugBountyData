@@ -7,7 +7,7 @@ blog.grofers.com
 mum2-phoenix-retail.grofers.com
 helpdesk2.grofers.com
 elasticsearch-search-prod.grofers.com
-www.gtrack.grofers.com
+gtrack.grofers.com
 internalapi-oms-stage.grofers.com
 manera.grofers.com
 publicproxy-infra.service.prod-ap-southeast-1.grofers.com
@@ -23,7 +23,7 @@ elite.grofers.com
 -careers.grofers.com
 news.grofers.com
 internalapi.grofers.com
-www.brands.grofers.com
+brands.grofers.com
 del6-dh-phoenix-retail.grofers.com
 minternal.grofers.com
 distributors.grofers.com
@@ -31,7 +31,6 @@ marketing.grofers.com
 preprodpayments.grofers.com
 storeops-api.grofers.com
 inv.grofers.com
-www.grofers.com
 celery.cmsmon.grofers.com
 ds3-phoenix-retail.grofers.com
 em1893.grofers.com
@@ -44,14 +43,13 @@ partners.grofers.com
 clo2-phoenix-retail.grofers.com
 mum3-phoenix-retail.grofers.com
 westeros.grofers.com
-www.services.grofers.com
+services.grofers.com
 ahm2-phoenix-retail.grofers.com
 gur3-phoenix-retail.grofers.com
-gtrack.grofers.com
 symphony.grofers.com
 supply-metrics-api.grofers.com
 service.prod-ap-southeast-1.grofers.com
-www.lambda.grofers.com
+lambda.grofers.com
 grafana-v2.grofers.com
 es2-phoenix-retail.grofers.com
 offers.grofers.com
@@ -80,7 +78,6 @@ kol2-phoenix-retail.grofers.com
 shopper.grofers.com
 cartapi-consumer-prod.grofers.com
 clo1-phoenix-retail.grofers.com
-brands.grofers.com
 geo-tracker.grofers.com
 testcdn.grofers.com
 gur5-phoenix-retail.grofers.com
@@ -100,7 +97,6 @@ guw1-phoenix-retail.grofers.com
 gur4-phoenix-retail.grofers.com
 api2.grofers.com
 cdn-s3.grofers.com
-lambda.grofers.com
 obelix-dashboard.grofers.com
 bidashboard.grofers.com
 logistics-queue.grofers.com
@@ -114,7 +110,6 @@ cmsapp.grofers.com
 logistics.grofers.com
 redash-queries.grofers.com
 helpdesk.grofers.com
-services.grofers.com
 pwa.grofers.com
 happyhome.grofers.com
 cdn2.grofers.com
@@ -204,13 +199,7 @@ logex-api.grofers.com
 braavos.grofers.com
 sp.grofers.com
 ops.grofers.com
-www.distributors.grofers.com
-www.employee-ac-hooks.grofers.com
-www.partners.grofers.com
 bidahsboard.grofers.com
-*.grofers.com
-*.partners.grofers.com
-www.api.grofers.com
 aaaaaaab-9.grofers.com
 ads.grofers.com
 api4.grofers.com
@@ -247,7 +236,6 @@ httpcdn.grofers.com
 jwzd7o6f8n.grofers.com
 52xj7thw6q.grofers.com
 re9j4vh6tk.grofers.com
-www.happyhome.grofers.com
 talkapi-consumer-prod.grofers.com
 fdm._domainkey.grofers.com
 sellers-beta.grofers.com

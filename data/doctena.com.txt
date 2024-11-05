@@ -46,7 +46,6 @@ staging-onboarding.doctena.com
 admin.secure.doctena.com
 testing-agendapro.doctena.com
 status.doctena.com
-www.doctena.com
 fr.demo20.doctena.com
 v2.testing-secure.doctena.com
 gw.doctena.com
@@ -65,7 +64,6 @@ monitoring.doctena.com
 api-pro-aws-production.doctena.com
 status-admin.doctena.com
 quote.doctena.com
-www.production-secure.doctena.com
 prov2.doctena.com
 testing-secure-admin.doctena.com
 demo-api.video.doctena.com
@@ -87,13 +85,11 @@ search.demo.api.doctena.com
 demo-agendapro.doctena.com
 staging.api.doctena.com
 search.testing.api.doctena.com
-www.demo100.doctena.com
 imap.doctena.com
 webmail.doctena.com
 pop.doctena.com
 mail.doctena.com
 vpn.doctena.com
-www.demo20.doctena.com
 privacy.doctena.com
 booking-app.doctena.com
 demo.api.doctena.com
@@ -104,4 +100,3 @@ search.api.doctena.com
 _amazonses.doctena.com
 search.staging.api.doctena.com
 cdn.doctena.com
-*.doctena.com

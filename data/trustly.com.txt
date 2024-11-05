@@ -13,7 +13,6 @@ backoffice.trustly.com
 checkout.trustly.com
 emails.hello.trustly.com
 staging.trustly.com
-www.staging.trustly.com
 developers.trustly.com
 us.trustly.com
 test.callback.trustly.com
@@ -25,7 +24,6 @@ hub.trustly.com
 my.trustly.com
 ca-en.trustly.com
 ca-fr.trustly.com
-www.trustly.com
 experience.trustly.com
 experience-amsterdam.trustly.com
 experience-london.trustly.com
@@ -40,13 +38,12 @@ demo.trustly.com
 ns-misc.trustly.com
 static.trustly.com
 paypal.trustly.com
-www.blocket-test.trustly.com
+blocket-test.trustly.com
 dev.trustly.com
 eu.developers.trustly.com
 notifications.trustly.com
 discover.trustly.com
 sandbox.my.trustly.com
-blocket-test.trustly.com
 fr-ca.trustly.com
 int.notifications.trustly.com
 assets.trustly.com
@@ -58,11 +55,9 @@ afterpartyxyz.trustly.com
 payout-signing.trustly.com
 ebaysupportrequest.trustly.com
 emails.eu.trustly.com
-www.backoffice.trustly.com
-www.int.trustly.com
+int.trustly.com
 developers-new.trustly.com
 pt.trustly.com
-int.trustly.com
 staging-assets.trustly.com
 video.int.trustly.com
 checkout.test.trustly.com

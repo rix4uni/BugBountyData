@@ -102,7 +102,7 @@ adequate-desk.shopify.io
 athena-remix.shopify.io
 ice-cream-customers.shopify.io
 operator.shopify.io
-www.cf-experiment.shopify.io
+cf-experiment.shopify.io
 1867lt-staging.shopify.io
 gus-staging.shopify.io
 iris-staging.shopify.io
@@ -261,7 +261,6 @@ rpc.cdp.shopify.io
 spy-v2.shopify.io
 token-scan-consumer.shopify.io
 cambridge.shopify.io
-www.hot.shopify.io
 dancefloor-staging.shopify.io
 impact-staging.shopify.io
 sbomasum.shopify.io
@@ -399,7 +398,6 @@ api-icinga-gce-us-east1.shopify.io
 bourgeois-staging-ui.shopify.io
 interlinking-opportunities.growth-labs.shopify.io
 lb4.chi2.shopify.io
-cf-experiment.shopify.io
 documancer.shopify.io
 ecosystem-security.docs.shopify.io
 extensibility.shopify.io
@@ -678,7 +676,6 @@ production-change-visualization.shopify.io
 reezbot.shopify.io
 routify.ash.shopify.io
 sbominator-staging.shopify.io
-www.linkpop-staging.shopify.io
 appsec-dashboard.shopify.io
 rpc.melody-staging-infra.shopify.io
 splunk-admin.shopify.io
@@ -703,7 +700,7 @@ galaxy.shopify.io
 scaling-with-apps.docs.shopify.io
 sql-helper.shopify.io
 cooker.shopify.io
-www.borg.shopify.io
+borg.shopify.io
 lb8.chi2.shopify.io
 lb8.ash.shopify.io
 lb9.ash.shopify.io
@@ -743,5 +740,3 @@ chatsql.lit.shopify.io
 cask-staging-ai.shopify.io
 elnk.docs.shopify.io
 readme-enhancer.shopify.io
-*.lit.shopify.io
-*.skai-train.shopify.io

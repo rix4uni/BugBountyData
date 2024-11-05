@@ -8,7 +8,3 @@ preview.doppler.team
 api.preview.doppler.team
 houston.staging.doppler.team
 houston.doppler.team
-*.doppler.team
-*.api.preview.doppler.team
-*.preview.doppler.team
-*.staging.doppler.team

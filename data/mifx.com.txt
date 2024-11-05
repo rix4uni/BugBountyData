@@ -70,10 +70,9 @@ hrms-api.qa.mifx.com
 files.qa.mifx.com
 backoffice-next.qa.mifx.com
 backoffice-web.qa.mifx.com
-www.erp.mifx.com
+erp.mifx.com
 engage.mifx.com
 client-trade.qa.mifx.com
-erp.mifx.com
 sales-web.qa.mifx.com
 wiki.mifx.com
 auth-prd.mifx.com
@@ -150,7 +149,6 @@ backoffice-web.k8s.mifx.com
 backoffice-api.k8s.mifx.com
 client-api.k8s.mifx.com
 hrms-web.k8s.mifx.com
-www.mifx.com
 client-api.local.mifx.com
 offers.mifx.com
 refferal-web.dev.mifx.com

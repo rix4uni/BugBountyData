@@ -69,14 +69,12 @@ dev3-cll.monki.com
 dev1-www.monki.com
 accc-www.monki.com
 lp.monki.com
-www.monki.com
 test.social.monki.com
 acc.social.monki.com
 wwwtest.staging.monki.com
 t.mail.monki.com
-*.npr.monki.com
-*.printshop.monki.com
-www.staging.monki.com
+npr.monki.com
+staging.monki.com
 wwwtest.monki.com
 originwww.staging.monki.com
 m.mail.monki.com
@@ -94,7 +92,6 @@ r189.email.monki.com
 r189.mail.monki.com
 res.mail.monki.com
 web.monki.com
-npr.monki.com
 mail.monki.com
 files2.monki.com
 cs.monki.com
@@ -156,4 +153,3 @@ r104.newsletters.monki.com
 s1._domainkey.rate.monki.com
 o71.ptr5617.em1888.monki.com
 _dmarc.mail.monki.com
-www.shop.monki.com

@@ -48,10 +48,10 @@ files.windesheim.nl
 sccm.windesheim.nl
 scrsolr01.windesheim.nl
 video.windesheim.nl
-www.int.test.windesheim.nl
+int.test.windesheim.nl
 bibliotheek.windesheim.nl
 cv.windesheim.nl
-www.wbw.test.windesheim.nl
+wbw.test.windesheim.nl
 po.acceptatie.windesheim.nl
 sccmss04.windesheim.nl
 lyncdiscover.windesheim.nl
@@ -63,7 +63,7 @@ sts.windesheim.nl
 catalogusapitest.windesheim.nl
 eduacc03.windesheim.nl
 consdbt02.windesheim.nl
-www.media.acceptatie.windesheim.nl
+media.acceptatie.windesheim.nl
 wwwtest.windesheim.nl
 access02t.windesheim.nl
 midas.windesheim.nl
@@ -74,7 +74,7 @@ studentgegevensservicetest.windesheim.nl
 mijnstudentenadministratie.windesheim.nl
 mcsitekiosktest.windesheim.nl
 prototype.windesheim.nl
-www.acceptatie.windesheim.nl
+acceptatie.windesheim.nl
 sccmgw01.windesheim.nl
 skylab.windesheim.nl
 erp.windesheim.nl
@@ -101,13 +101,13 @@ decostijdelijk.windesheim.nl
 wop.windesheim.nl
 cms.int.acceptatie.windesheim.nl
 tfs.windesheim.nl
-www.wbw.acceptatie.windesheim.nl
+wbw.acceptatie.windesheim.nl
 abs.windesheim.nl
 intekenen.windesheim.nl
 sccmreport.windesheim.nl
 mailservices.windesheim.nl
 mydepartment.windesheim.nl
-www.int.acceptatie.windesheim.nl
+int.acceptatie.windesheim.nl
 msoid.windesheim.nl
 cms.acceptatie.windesheim.nl
 _sipfederationtls._tcp.windesheim.nl
@@ -124,7 +124,6 @@ webmailtest.windesheim.nl
 plannen-leerroute.acceptatie.windesheim.nl
 webshop.windesheim.nl
 cmswwwtest.windesheim.nl
-www.windesheim.nl
 151-74.dhcp.windesheim.nl
 39-168.dhcp.windesheim.nl
 91-94.dhcp.windesheim.nl
@@ -469,7 +468,7 @@ dashboarda.windesheim.nl
 154-246.dhcp.windesheim.nl
 35-76.dhcp.windesheim.nl
 84-94.dhcp.windesheim.nl
-www.netappocpm01.windesheim.nl
+netappocpm01.windesheim.nl
 21-255.dhcp.windesheim.nl
 39-171.dhcp.windesheim.nl
 107-78.dhcp.windesheim.nl
@@ -688,7 +687,6 @@ lenerspas.windesheim.nl
 135-189.dhcp.windesheim.nl
 ip9135a65f.speed.cp.windesheim.nl
 109-50.dhcp.windesheim.nl
-www.erpa.windesheim.nl
 155-20.dhcp.windesheim.nl
 90-83.dhcp.windesheim.nl
 100-18.dhcp.windesheim.nl
@@ -1166,7 +1164,6 @@ s4bfe02t.windesheim.nl
 93-19.dhcp.windesheim.nl
 140-76.dhcp.windesheim.nl
 43-198.dhcp.windesheim.nl
-netappocpm01.windesheim.nl
 149-46.dhcp.windesheim.nl
 143-72.dhcp.windesheim.nl
 119-8.dhcp.windesheim.nl
@@ -1307,7 +1304,6 @@ owncloud.windesheim.nl
 137-200.dhcp.windesheim.nl
 92-108.dhcp.windesheim.nl
 111-177.dhcp.windesheim.nl
-www.mydepartmenttest.windesheim.nl
 152-113.dhcp.windesheim.nl
 82-180.dhcp.windesheim.nl
 125-33.dhcp.windesheim.nl
@@ -1373,7 +1369,6 @@ www.mydepartmenttest.windesheim.nl
 41-54.dhcp.windesheim.nl
 99-195.dhcp.windesheim.nl
 116-55.dhcp.windesheim.nl
-www.files.windesheim.nl
 34-72.dhcp.windesheim.nl
 113-46.dhcp.windesheim.nl
 97-172.dhcp.windesheim.nl
@@ -2701,7 +2696,7 @@ int.productiewh.windesheim.nl
 159-91.dhcp.windesheim.nl
 130-73.dhcp.windesheim.nl
 149-143.dhcp.windesheim.nl
-www.vubistest.windesheim.nl
+vubistest.windesheim.nl
 108-94.dhcp.windesheim.nl
 39-118.dhcp.windesheim.nl
 39-226.dhcp.windesheim.nl
@@ -3429,7 +3424,7 @@ iiapp01t.windesheim.nl
 159-199.dhcp.windesheim.nl
 99-177.dhcp.windesheim.nl
 113-93.dhcp.windesheim.nl
-www.edutest01.windesheim.nl
+edutest01.windesheim.nl
 107-228.dhcp.windesheim.nl
 154-9.dhcp.windesheim.nl
 99-129.dhcp.windesheim.nl
@@ -4028,7 +4023,7 @@ esmtp.windesheim.nl
 145-247.dhcp.windesheim.nl
 86-196.dhcp.windesheim.nl
 116-36.dhcp.windesheim.nl
-www.teamsites.windesheim.nl
+teamsites.windesheim.nl
 35-113.dhcp.windesheim.nl
 116-19.dhcp.windesheim.nl
 148-114.dhcp.windesheim.nl
@@ -4157,7 +4152,6 @@ cms.wbw.testwh.windesheim.nl
 147-147.dhcp.windesheim.nl
 38-128.dhcp.windesheim.nl
 96-200.dhcp.windesheim.nl
-acceptatie.windesheim.nl
 192-155.dhcp.windesheim.nl
 113-34.dhcp.windesheim.nl
 85-156.dhcp.windesheim.nl
@@ -5571,7 +5565,7 @@ teamsitesoud.windesheim.nl
 147-115.dhcp.windesheim.nl
 96-55.dhcp.windesheim.nl
 112-202.dhcp.windesheim.nl
-www.erpt.windesheim.nl
+erpt.windesheim.nl
 44-249.dhcp.windesheim.nl
 143-54.dhcp.windesheim.nl
 150-221.dhcp.windesheim.nl
@@ -6295,7 +6289,6 @@ fsmac01.windesheim.nl
 110-77.dhcp.windesheim.nl
 107-31.dhcp.windesheim.nl
 93-254.dhcp.windesheim.nl
-www.eduacc03.windesheim.nl
 98-103.dhcp.windesheim.nl
 33-95.dhcp.windesheim.nl
 80-193.dhcp.windesheim.nl
@@ -6365,7 +6358,6 @@ consdbf02.windesheim.nl
 130-150.dhcp.windesheim.nl
 147-154.dhcp.windesheim.nl
 84-205.dhcp.windesheim.nl
-wbw.acceptatie.windesheim.nl
 116-163.dhcp.windesheim.nl
 99-157.dhcp.windesheim.nl
 120-224.dhcp.windesheim.nl
@@ -6627,7 +6619,7 @@ eduacc02.windesheim.nl
 36-180.dhcp.windesheim.nl
 134-13.dhcp.windesheim.nl
 42-114.dhcp.windesheim.nl
-www.pmp04.windesheim.nl
+pmp04.windesheim.nl
 95-162.dhcp.windesheim.nl
 85-178.dhcp.windesheim.nl
 94-120.dhcp.windesheim.nl
@@ -6812,7 +6804,7 @@ intekenapitest.windesheim.nl
 86-92.dhcp.windesheim.nl
 156-159.dhcp.windesheim.nl
 82-69.dhcp.windesheim.nl
-www.netappocum01.windesheim.nl
+netappocum01.windesheim.nl
 47-151.dhcp.windesheim.nl
 144-80.dhcp.windesheim.nl
 40-115.dhcp.windesheim.nl
@@ -6851,7 +6843,7 @@ sim02t.opensim.windesheim.nl
 158-35.dhcp.windesheim.nl
 133-66.dhcp.windesheim.nl
 117-76.dhcp.windesheim.nl
-www.viking01.windesheim.nl
+viking01.windesheim.nl
 rdsweb01t.windesheim.nl
 148-177.dhcp.windesheim.nl
 108-82.dhcp.windesheim.nl
@@ -8225,7 +8217,6 @@ opensim.windesheim.nl
 127-118.dhcp.windesheim.nl
 82-38.dhcp.windesheim.nl
 131-132.dhcp.windesheim.nl
-www.sharenettest.windesheim.nl
 155-122.dhcp.windesheim.nl
 42-56.dhcp.windesheim.nl
 92-163.dhcp.windesheim.nl
@@ -8323,7 +8314,6 @@ teamsitesoud.windesheim.nl.windesheim.nl
 103-33.dhcp.windesheim.nl
 bastion.windesheim.nl
 140-210.dhcp.windesheim.nl
-www.multipress.windesheim.nl
 115-203.dhcp.windesheim.nl
 141-160.dhcp.windesheim.nl
 122-113.dhcp.windesheim.nl
@@ -8485,7 +8475,7 @@ outsystemsmgmt01.windesheim.nl
 33-58.dhcp.windesheim.nl
 102-62.dhcp.windesheim.nl
 155-221.dhcp.windesheim.nl
-www.mysite.windesheim.nl
+mysite.windesheim.nl
 105-253.dhcp.windesheim.nl
 82-238.dhcp.windesheim.nl
 91-32.dhcp.windesheim.nl
@@ -8650,7 +8640,6 @@ mijn.windesheim.nl
 134-170.dhcp.windesheim.nl
 119-2.dhcp.windesheim.nl
 47-239.dhcp.windesheim.nl
-www.webmailtest.windesheim.nl
 42-147.dhcp.windesheim.nl
 119-130.dhcp.windesheim.nl
 twww.opensim.windesheim.nl
@@ -8731,7 +8720,6 @@ sim01p.opensim.windesheim.nl
 152-242.dhcp.windesheim.nl
 153-44.dhcp.windesheim.nl
 114-177.dhcp.windesheim.nl
-pmp04.windesheim.nl
 107-9.dhcp.windesheim.nl
 140-231.dhcp.windesheim.nl
 34-237.dhcp.windesheim.nl
@@ -8761,7 +8749,6 @@ fctest.windesheim.nl
 90-129.dhcp.windesheim.nl
 133-232.dhcp.windesheim.nl
 105-86.dhcp.windesheim.nl
-viking01.windesheim.nl
 152-253.dhcp.windesheim.nl
 149-39.dhcp.windesheim.nl
 42-132.dhcp.windesheim.nl
@@ -10206,7 +10193,6 @@ websimtest.windesheim.nl
 115-252.dhcp.windesheim.nl
 192-113.dhcp.windesheim.nl
 121-2.dhcp.windesheim.nl
-www.eduacc01.windesheim.nl
 80-119.dhcp.windesheim.nl
 156-107.dhcp.windesheim.nl
 147-246.dhcp.windesheim.nl
@@ -10784,7 +10770,6 @@ twifi.opensim.windesheim.nl
 21-84.dhcp.windesheim.nl
 137-8.dhcp.windesheim.nl
 92-107.dhcp.windesheim.nl
-www.apps.windesheim.nl
 132-14.dhcp.windesheim.nl
 116-82.dhcp.windesheim.nl
 149-118.dhcp.windesheim.nl
@@ -10887,7 +10872,7 @@ download.uc.windesheim.nl
 36-116.dhcp.windesheim.nl
 138-251.dhcp.windesheim.nl
 47-21.dhcp.windesheim.nl
-www.gve.windesheim.nl
+gve.windesheim.nl
 124-245.dhcp.windesheim.nl
 43-205.dhcp.windesheim.nl
 38-136.dhcp.windesheim.nl
@@ -10992,7 +10977,7 @@ archibim08.windesheim.nl
 156-185.dhcp.windesheim.nl
 91-82.dhcp.windesheim.nl
 119-193.dhcp.windesheim.nl
-www.wbw.acceptatiewh.windesheim.nl
+wbw.acceptatiewh.windesheim.nl
 107-138.dhcp.windesheim.nl
 45-166.dhcp.windesheim.nl
 87-55.dhcp.windesheim.nl
@@ -11160,7 +11145,6 @@ evadotest.windesheim.nl
 121-113.dhcp.windesheim.nl
 83-117.dhcp.windesheim.nl
 94-250.dhcp.windesheim.nl
-www.windesheimcm01.windesheim.nl
 125-218.dhcp.windesheim.nl
 6-187.dhcp.windesheim.nl
 128-12.dhcp.windesheim.nl
@@ -11323,7 +11307,6 @@ smartweb01.windesheim.nl
 143-219.dhcp.windesheim.nl
 132-121.dhcp.windesheim.nl
 99-47.dhcp.windesheim.nl
-www.decostijdelijk.windesheim.nl
 94-245.dhcp.windesheim.nl
 34-123.dhcp.windesheim.nl
 157-187.dhcp.windesheim.nl
@@ -11418,7 +11401,6 @@ s4bfe04t.windesheim.nl
 101-213.dhcp.windesheim.nl
 126-23.dhcp.windesheim.nl
 141-105.dhcp.windesheim.nl
-www.quarantaine.windesheim.nl
 116-248.dhcp.windesheim.nl
 33-104.dhcp.windesheim.nl
 141-144.dhcp.windesheim.nl
@@ -11426,7 +11408,6 @@ www.quarantaine.windesheim.nl
 136-227.dhcp.windesheim.nl
 94-8.dhcp.windesheim.nl
 109-165.dhcp.windesheim.nl
-www.infositetest.windesheim.nl
 101-211.dhcp.windesheim.nl
 128-9.dhcp.windesheim.nl
 36-171.dhcp.windesheim.nl
@@ -11474,7 +11455,7 @@ www.infositetest.windesheim.nl
 41-117.dhcp.windesheim.nl
 123-227.dhcp.windesheim.nl
 84-99.dhcp.windesheim.nl
-www.decosweb02t.windesheim.nl
+decosweb02t.windesheim.nl
 po.windesheim.nl
 90-220.dhcp.windesheim.nl
 81-93.dhcp.windesheim.nl
@@ -11519,7 +11500,7 @@ po.windesheim.nl
 206-115.dhcp.windesheim.nl
 109-88.dhcp.windesheim.nl
 139-64.dhcp.windesheim.nl
-www.parkeertelling.windesheim.nl
+parkeertelling.windesheim.nl
 131-207.dhcp.windesheim.nl
 107-177.dhcp.windesheim.nl
 80-232.dhcp.windesheim.nl
@@ -11558,7 +11539,6 @@ leren.windesheim.nl
 136-102.dhcp.windesheim.nl
 142-246.dhcp.windesheim.nl
 143-100.dhcp.windesheim.nl
-www.password.windesheim.nl
 117-20.dhcp.windesheim.nl
 135-34.dhcp.windesheim.nl
 85-165.dhcp.windesheim.nl
@@ -12361,7 +12341,7 @@ wac-f01.windesheim.nl
 146-19.dhcp.windesheim.nl
 143-112.dhcp.windesheim.nl
 33-77.dhcp.windesheim.nl
-www.int.testwh.windesheim.nl
+int.testwh.windesheim.nl
 92-75.dhcp.windesheim.nl
 39-43.dhcp.windesheim.nl
 141-17.dhcp.windesheim.nl
@@ -12415,7 +12395,6 @@ decosweb04.windesheim.nl
 44-244.dhcp.windesheim.nl
 157-115.dhcp.windesheim.nl
 84-251.dhcp.windesheim.nl
-decosweb02t.windesheim.nl
 159-190.dhcp.windesheim.nl
 158-90.dhcp.windesheim.nl
 130-143.dhcp.windesheim.nl
@@ -12544,7 +12523,6 @@ tessa2.windesheim.nl
 96-255.dhcp.windesheim.nl
 128-96.dhcp.windesheim.nl
 119-222.dhcp.windesheim.nl
-mysite.windesheim.nl
 134-151.dhcp.windesheim.nl
 135-58.dhcp.windesheim.nl
 128-42.dhcp.windesheim.nl
@@ -12568,7 +12546,6 @@ default.windesheim.nl
 137-220.dhcp.windesheim.nl
 91-156.dhcp.windesheim.nl
 91-211.dhcp.windesheim.nl
-www.inschrijvingen.windesheim.nl
 111-182.dhcp.windesheim.nl
 portal.skylab.windesheim.nl
 91-67.dhcp.windesheim.nl
@@ -13313,7 +13290,6 @@ purplehrm.windesheim.nl
 142-239.dhcp.windesheim.nl
 110-213.dhcp.windesheim.nl
 106-154.dhcp.windesheim.nl
-edutest01.windesheim.nl
 145-52.dhcp.windesheim.nl
 157-114.dhcp.windesheim.nl
 33-225.dhcp.windesheim.nl
@@ -13723,7 +13699,6 @@ windesheimcm1.windesheim.nl
 43-182.dhcp.windesheim.nl
 104-4.dhcp.windesheim.nl
 120-173.dhcp.windesheim.nl
-www.auth.windesheim.nl
 42-201.dhcp.windesheim.nl
 109-231.dhcp.windesheim.nl
 87-65.dhcp.windesheim.nl
@@ -14072,7 +14047,7 @@ wacinfra.windesheim.nl
 81-51.dhcp.windesheim.nl
 106-122.dhcp.windesheim.nl
 40-102.dhcp.windesheim.nl
-www.media.acceptatiewh.windesheim.nl
+media.acceptatiewh.windesheim.nl
 34-27.dhcp.windesheim.nl
 122-35.dhcp.windesheim.nl
 156-91.dhcp.windesheim.nl
@@ -14162,7 +14137,7 @@ fcswatch02.windesheim.nl
 44-114.dhcp.windesheim.nl
 133-18.dhcp.windesheim.nl
 111-203.dhcp.windesheim.nl
-www.pms.windesheim.nl
+pms.windesheim.nl
 149-61.dhcp.windesheim.nl
 34-50.dhcp.windesheim.nl
 192-175.dhcp.windesheim.nl
@@ -14210,7 +14185,6 @@ ip91359f99.sdhcp.windesheim.nl
 112-53.dhcp.windesheim.nl
 43-225.dhcp.windesheim.nl
 111-62.dhcp.windesheim.nl
-www.hubble.windesheim.nl
 94-138.dhcp.windesheim.nl
 146-55.dhcp.windesheim.nl
 applications.windesheim.nl
@@ -14228,7 +14202,7 @@ applications.windesheim.nl
 38-141.dhcp.windesheim.nl
 q-point.windesheim.nl
 132-58.dhcp.windesheim.nl
-www.appsitetest.windesheim.nl
+appsitetest.windesheim.nl
 139-169.dhcp.windesheim.nl
 134-141.dhcp.windesheim.nl
 21-206.dhcp.windesheim.nl
@@ -14293,7 +14267,6 @@ excas02.windesheim.nl
 155-76.dhcp.windesheim.nl
 44-3.dhcp.windesheim.nl
 35-136.dhcp.windesheim.nl
-www.gemini01.windesheim.nl
 159-93.dhcp.windesheim.nl
 103-182.dhcp.windesheim.nl
 136-126.dhcp.windesheim.nl
@@ -14657,7 +14630,6 @@ crmontw.windesheim.nl
 104-156.dhcp.windesheim.nl
 32-102.dhcp.windesheim.nl
 32-96.dhcp.windesheim.nl
-www.infosite.windesheim.nl
 87-222.dhcp.windesheim.nl
 117-198.dhcp.windesheim.nl
 125-12.dhcp.windesheim.nl
@@ -14671,7 +14643,6 @@ www.infosite.windesheim.nl
 155-110.dhcp.windesheim.nl
 116-193.dhcp.windesheim.nl
 150-201.dhcp.windesheim.nl
-int.test.windesheim.nl
 112-89.dhcp.windesheim.nl
 82-123.dhcp.windesheim.nl
 122-166.dhcp.windesheim.nl
@@ -14983,7 +14954,6 @@ auteursrechten.windesheim.nl
 106-220.dhcp.windesheim.nl
 125-74.dhcp.windesheim.nl
 84-179.dhcp.windesheim.nl
-www.keysafe.windesheim.nl
 122-78.dhcp.windesheim.nl
 37-124.dhcp.windesheim.nl
 intekenronde.windesheim.nl
@@ -15520,7 +15490,6 @@ mijninschrijvingen.windesheim.nl
 136-58.dhcp.windesheim.nl
 130-132.dhcp.windesheim.nl
 156-125.dhcp.windesheim.nl
-teamsites.windesheim.nl
 100-197.dhcp.windesheim.nl
 89-191.dhcp.windesheim.nl
 40-47.dhcp.windesheim.nl
@@ -16023,7 +15992,6 @@ website.windesheim.nl
 120-154.dhcp.windesheim.nl
 46-9.dhcp.windesheim.nl
 126-240.dhcp.windesheim.nl
-www.erp.windesheim.nl
 101-183.dhcp.windesheim.nl
 102-140.dhcp.windesheim.nl
 85-77.dhcp.windesheim.nl
@@ -16575,7 +16543,6 @@ sim03o.opensim.windesheim.nl
 80-27.dhcp.windesheim.nl
 107-74.dhcp.windesheim.nl
 102-172.dhcp.windesheim.nl
-www.parkeren.windesheim.nl
 113-59.dhcp.windesheim.nl
 106-15.dhcp.windesheim.nl
 47-43.dhcp.windesheim.nl
@@ -16620,7 +16587,7 @@ padlet.windesheim.nl
 148-14.dhcp.windesheim.nl
 151-17.dhcp.windesheim.nl
 44-226.dhcp.windesheim.nl
-www.erpo.windesheim.nl
+erpo.windesheim.nl
 143-249.dhcp.windesheim.nl
 151-13.dhcp.windesheim.nl
 41-136.dhcp.windesheim.nl
@@ -16901,7 +16868,7 @@ bhvapp01o.windesheim.nl
 102-125.dhcp.windesheim.nl
 111-49.dhcp.windesheim.nl
 32-59.dhcp.windesheim.nl
-www.testwh.windesheim.nl
+testwh.windesheim.nl
 82-141.dhcp.windesheim.nl
 38-24.dhcp.windesheim.nl
 106-227.dhcp.windesheim.nl
@@ -17020,7 +16987,6 @@ s4bfe04.windesheim.nl
 101-4.dhcp.windesheim.nl
 82-230.dhcp.windesheim.nl
 144-31.dhcp.windesheim.nl
-www.mydepartment.windesheim.nl
 85-137.dhcp.windesheim.nl
 129-252.dhcp.windesheim.nl
 43-46.dhcp.windesheim.nl
@@ -17208,7 +17174,6 @@ h12.dhcp.windesheim.nl
 149-35.dhcp.windesheim.nl
 139-187.dhcp.windesheim.nl
 121-60.dhcp.windesheim.nl
-www.mcsitekiosktest.windesheim.nl
 111-118.dhcp.windesheim.nl
 116-65.dhcp.windesheim.nl
 120-5.dhcp.windesheim.nl
@@ -17353,11 +17318,9 @@ vct01.windesheim.nl
 108-28.dhcp.windesheim.nl
 120-208.dhcp.windesheim.nl
 143-63.dhcp.windesheim.nl
-www.oradisco02.windesheim.nl
 103-254.dhcp.windesheim.nl
 83-44.dhcp.windesheim.nl
 94-207.dhcp.windesheim.nl
-www.opencourses.windesheim.nl
 94-37.dhcp.windesheim.nl
 146-31.dhcp.windesheim.nl
 89-45.dhcp.windesheim.nl
@@ -17566,7 +17529,6 @@ biztalkwcfontw.windesheim.nl
 102-117.dhcp.windesheim.nl
 140-22.dhcp.windesheim.nl
 129-178.dhcp.windesheim.nl
-erpt.windesheim.nl
 118-161.dhcp.windesheim.nl
 116-154.dhcp.windesheim.nl
 111-194.dhcp.windesheim.nl
@@ -17913,7 +17875,6 @@ filecloudo.windesheim.nl
 136-52.dhcp.windesheim.nl
 155-58.dhcp.windesheim.nl
 146-76.dhcp.windesheim.nl
-www.decos.windesheim.nl
 126-59.dhcp.windesheim.nl
 90-210.dhcp.windesheim.nl
 140-218.dhcp.windesheim.nl
@@ -18727,7 +18688,6 @@ tresyexp.windesheim.nl
 144-191.dhcp.windesheim.nl
 146-44.dhcp.windesheim.nl
 81-90.dhcp.windesheim.nl
-www.educator.windesheim.nl
 114-67.dhcp.windesheim.nl
 32-71.dhcp.windesheim.nl
 134-89.dhcp.windesheim.nl
@@ -18782,7 +18742,7 @@ s4bedge01t.windesheim.nl
 98-133.dhcp.windesheim.nl
 97-1.dhcp.windesheim.nl
 34-42-235-80.sta.estpak.dhcp.windesheim.nl
-www.passwordreset.windesheim.nl
+passwordreset.windesheim.nl
 151-185.dhcp.windesheim.nl
 47-186.dhcp.windesheim.nl
 40-79.dhcp.windesheim.nl
@@ -19077,7 +19037,6 @@ license02.windesheim.nl
 93-40.dhcp.windesheim.nl
 158-196.dhcp.windesheim.nl
 117-81.dhcp.windesheim.nl
-gve.windesheim.nl
 81-25.dhcp.windesheim.nl
 45-223.dhcp.windesheim.nl
 156-12.dhcp.windesheim.nl
@@ -19260,7 +19219,6 @@ winspire.windesheim.nl
 120-102.dhcp.windesheim.nl
 38-235.dhcp.windesheim.nl
 192-30.dhcp.windesheim.nl
-parkeertelling.windesheim.nl
 94-87.dhcp.windesheim.nl
 ma-145-5-1.dhcp.windesheim.nl
 148-236.dhcp.windesheim.nl
@@ -19346,7 +19304,7 @@ ma-145-5-1.dhcp.windesheim.nl
 121-188.dhcp.windesheim.nl
 152-96.dhcp.windesheim.nl
 99-9.dhcp.windesheim.nl
-www.media.testwh.windesheim.nl
+media.testwh.windesheim.nl
 41-246.dhcp.windesheim.nl
 ip913ntrol.windesheim.nl
 93-170.dhcp.windesheim.nl
@@ -19449,7 +19407,6 @@ s4bfe03t.windesheim.nl
 81-69.dhcp.windesheim.nl
 116-189.dhcp.windesheim.nl
 149-201.dhcp.windesheim.nl
-passwordreset.windesheim.nl
 130-138.dhcp.windesheim.nl
 133-49.dhcp.windesheim.nl
 105-246.dhcp.windesheim.nl
@@ -19954,7 +19911,6 @@ excas.windesheim.nl
 90-159.dhcp.windesheim.nl
 edu01a.windesheim.nl
 88-187.dhcp.windesheim.nl
-www.wallboard.windesheim.nl
 47-250.dhcp.windesheim.nl
 39-111.dhcp.windesheim.nl
 129-176.dhcp.windesheim.nl
@@ -20828,7 +20784,6 @@ admin.windesheim.nl
 90-232.dhcp.windesheim.nl
 151-205.dhcp.windesheim.nl
 206-136.dhcp.windesheim.nl
-www.media.test.windesheim.nl
 105-216.dhcp.windesheim.nl
 192-83.dhcp.windesheim.nl
 118-223.dhcp.windesheim.nl
@@ -21129,7 +21084,6 @@ consdbt01.windesheim.nl
 46-31.dhcp.windesheim.nl
 126-34.dhcp.windesheim.nl
 118-238.dhcp.windesheim.nl
-www.test.windesheim.nl
 123-144.dhcp.windesheim.nl
 85-60.dhcp.windesheim.nl
 100-90.dhcp.windesheim.nl
@@ -21232,7 +21186,6 @@ proefelo.windesheim.nl
 81-71.dhcp.windesheim.nl
 85-86.dhcp.windesheim.nl
 112-33.dhcp.windesheim.nl
-www.tfs.windesheim.nl
 141-163.dhcp.windesheim.nl
 135-91.dhcp.windesheim.nl
 152-214.dhcp.windesheim.nl
@@ -21420,7 +21373,6 @@ ip9135b4d2.spcp.windesheim.nl
 93-85.dhcp.windesheim.nl
 138-122.dhcp.windesheim.nl
 119-166.dhcp.windesheim.nl
-www.sharesitetest.windesheim.nl
 139-237.dhcp.windesheim.nl
 81-137.dhcp.windesheim.nl
 143-220.dhcp.windesheim.nl
@@ -21599,7 +21551,6 @@ netbotzt.windesheim.nl
 40-83.dhcp.windesheim.nl
 162.dhcp.windesheim.nl
 106-136.dhcp.windesheim.nl
-www.mysitetest.windesheim.nl
 150-120.dhcp.windesheim.nl
 154-185.dhcp.windesheim.nl
 114-63.dhcp.windesheim.nl
@@ -21621,7 +21572,6 @@ www.mysitetest.windesheim.nl
 123-115.dhcp.windesheim.nl
 117-167.dhcp.windesheim.nl
 148-209.dhcp.windesheim.nl
-wbw.test.windesheim.nl
 32-27.dhcp.windesheim.nl
 112-141.dhcp.windesheim.nl
 110-146.dhcp.windesheim.nl
@@ -21839,7 +21789,6 @@ ise03.windesheim.nl
 149-230.dhcp.windesheim.nl
 91-206.dhcp.windesheim.nl
 120-136.dhcp.windesheim.nl
-pms.windesheim.nl
 145-2.dhcp.windesheim.nl
 154-29.dhcp.windesheim.nl
 117-250.dhcp.windesheim.nl
@@ -22299,7 +22248,6 @@ betaling.windesheim.nl
 115-87.dhcp.windesheim.nl
 43-72.dhcp.windesheim.nl
 206-48.dhcp.windesheim.nl
-netappocum01.windesheim.nl
 37-147.dhcp.windesheim.nl
 116-25.dhcp.windesheim.nl
 99-51.dhcp.windesheim.nl
@@ -22404,7 +22352,6 @@ dashboard.windesheim.nl
 34-118.dhcp.windesheim.nl
 35-248.dhcp.windesheim.nl
 atlasbroker.windesheim.nl
-www.apollo01.windesheim.nl
 34-188.dhcp.windesheim.nl
 100-213.dhcp.windesheim.nl
 104-142.dhcp.windesheim.nl
@@ -22591,7 +22538,7 @@ av.windesheim.nl
 143-11.dhcp.windesheim.nl
 155-47.dhcp.windesheim.nl
 153-50.dhcp.windesheim.nl
-www.studielink.windesheim.nl
+studielink.windesheim.nl
 87-137.dhcp.windesheim.nl
 135-204.dhcp.windesheim.nl
 118-226.dhcp.windesheim.nl
@@ -22751,7 +22698,6 @@ rdsbroker02t.windesheim.nl
 206-224.dhcp.windesheim.nl
 192-110.dhcp.windesheim.nl
 149-21.dhcp.windesheim.nl
-erpo.windesheim.nl
 147-150.dhcp.windesheim.nl
 107-215.dhcp.windesheim.nl
 88-249.dhcp.windesheim.nl
@@ -22947,7 +22893,6 @@ cms.testwh.windesheim.nl
 103-231.dhcp.windesheim.nl
 137-218.dhcp.windesheim.nl
 40-82.dhcp.windesheim.nl
-appsitetest.windesheim.nl
 47-44.dhcp.windesheim.nl
 44-16.dhcp.windesheim.nl
 120-30.dhcp.windesheim.nl
@@ -23176,7 +23121,6 @@ anyw365.windesheim.nl
 21-235.dhcp.windesheim.nl
 118-22.dhcp.windesheim.nl
 154-62.dhcp.windesheim.nl
-www.teamsitestest.windesheim.nl
 119-201.dhcp.windesheim.nl
 38-149.dhcp.windesheim.nl
 156-220.dhcp.windesheim.nl
@@ -23231,7 +23175,6 @@ www.teamsitestest.windesheim.nl
 147-152.dhcp.windesheim.nl
 103-99.dhcp.windesheim.nl
 100-57.dhcp.windesheim.nl
-www.gitlab.windesheim.nl
 96-197.dhcp.windesheim.nl
 131-21.dhcp.windesheim.nl
 88-63.dhcp.windesheim.nl
@@ -23496,7 +23439,6 @@ facnettest3.windesheim.nl
 120-184.dhcp.windesheim.nl
 206-141.dhcp.windesheim.nl
 85-44.dhcp.windesheim.nl
-www.biztalkwcfontw.windesheim.nl
 93-113.dhcp.windesheim.nl
 129-33.dhcp.windesheim.nl
 89-162.dhcp.windesheim.nl
@@ -23558,7 +23500,6 @@ www.biztalkwcfontw.windesheim.nl
 81-233.dhcp.windesheim.nl
 139-213.dhcp.windesheim.nl
 87-104.dhcp.windesheim.nl
-www.vubis.windesheim.nl
 81-218.dhcp.windesheim.nl
 83-225.dhcp.windesheim.nl
 37-161.dhcp.windesheim.nl
@@ -23569,7 +23510,6 @@ www.vubis.windesheim.nl
 85-176.dhcp.windesheim.nl
 88-32.dhcp.windesheim.nl
 101-154.dhcp.windesheim.nl
-int.acceptatie.windesheim.nl
 40-105.dhcp.windesheim.nl
 98-152.dhcp.windesheim.nl
 143-33.dhcp.windesheim.nl
@@ -23680,7 +23620,6 @@ mtest.windesheim.nl
 39-214.dhcp.windesheim.nl
 86-143.dhcp.windesheim.nl
 134-61.dhcp.windesheim.nl
-www.scommonitor.windesheim.nl
 93-100.dhcp.windesheim.nl
 122-81.dhcp.windesheim.nl
 118-127.dhcp.windesheim.nl
@@ -23751,7 +23690,6 @@ autodiscover.student.windesheim.nl
 112-138.dhcp.windesheim.nl
 192-127.dhcp.windesheim.nl
 47-97.dhcp.windesheim.nl
-www.ex03t.windesheim.nl
 87-179.dhcp.windesheim.nl
 152-16.dhcp.windesheim.nl
 94-92.dhcp.windesheim.nl
@@ -23842,7 +23780,6 @@ consdbt04.windesheim.nl
 100-87.dhcp.windesheim.nl
 129-194.dhcp.windesheim.nl
 83-203.dhcp.windesheim.nl
-www.insschrijvingentest.windesheim.nl
 157-103.dhcp.windesheim.nl
 33-226.dhcp.windesheim.nl
 141-220.dhcp.windesheim.nl
@@ -24240,7 +24177,6 @@ crmtest.windesheim.nl
 85-30.dhcp.windesheim.nl
 145-11.dhcp.windesheim.nl
 95-240.dhcp.windesheim.nl
-www.vreport.windesheim.nl
 100-58.dhcp.windesheim.nl
 192-5.dhcp.windesheim.nl
 106-163.dhcp.windesheim.nl
@@ -24557,7 +24493,6 @@ matchpointtest.windesheim.nl
 37-66.dhcp.windesheim.nl
 134-182.dhcp.windesheim.nl
 89-26.dhcp.windesheim.nl
-www.tfstest.windesheim.nl
 153-133.dhcp.windesheim.nl
 154-76.dhcp.windesheim.nl
 107-199.dhcp.windesheim.nl
@@ -24690,7 +24625,6 @@ tsinf04.windesheim.nl
 101-131.dhcp.windesheim.nl
 81-231.dhcp.windesheim.nl
 148-198.dhcp.windesheim.nl
-www.sharesite.windesheim.nl
 101-91.dhcp.windesheim.nl
 97-113.dhcp.windesheim.nl
 144-141.dhcp.windesheim.nl
@@ -24709,7 +24643,6 @@ www.sharesite.windesheim.nl
 155-199.dhcp.windesheim.nl
 112-246.dhcp.windesheim.nl
 132-44.dhcp.windesheim.nl
-www.pki.windesheim.nl
 154-228.dhcp.windesheim.nl
 93-105.dhcp.windesheim.nl
 91-191.dhcp.windesheim.nl
@@ -24919,7 +24852,6 @@ communitiesontw.windesheim.nl
 134-156.dhcp.windesheim.nl
 134-203.dhcp.windesheim.nl
 134-209.dhcp.windesheim.nl
-www.priva.windesheim.nl
 129-45.dhcp.windesheim.nl
 44-199.dhcp.windesheim.nl
 130-172.dhcp.windesheim.nl
@@ -24936,9 +24868,7 @@ www.priva.windesheim.nl
 145-46.dhcp.windesheim.nl
 148-208.dhcp.windesheim.nl
 103-96.dhcp.windesheim.nl
-www.ext01.windesheim.nl
 105-240.dhcp.windesheim.nl
-www.qpoint.windesheim.nl
 80-226.dhcp.windesheim.nl
 100-227.dhcp.windesheim.nl
 134-51.dhcp.windesheim.nl
@@ -25113,7 +25043,6 @@ outsystemsmgmt.windesheim.nl
 91-126.dhcp.windesheim.nl
 47-10.dhcp.windesheim.nl
 130-112.dhcp.windesheim.nl
-vubistest.windesheim.nl
 83-3.dhcp.windesheim.nl
 44-37.dhcp.windesheim.nl
 156-155.dhcp.windesheim.nl
@@ -25467,7 +25396,6 @@ swatch01.windesheim.nl
 46-126.dhcp.windesheim.nl
 126-243.dhcp.windesheim.nl
 33-138.dhcp.windesheim.nl
-www.biztalkwcfacc.windesheim.nl
 88-208.dhcp.windesheim.nl
 112-4.dhcp.windesheim.nl
 35-155.dhcp.windesheim.nl
@@ -25502,7 +25430,6 @@ po.test.windesheim.nl
 32-128.dhcp.windesheim.nl
 138-169.dhcp.windesheim.nl
 144-105.dhcp.windesheim.nl
-www.sharenet.windesheim.nl
 s4bfe01t.windesheim.nl
 206-9.dhcp.windesheim.nl
 97-201.dhcp.windesheim.nl
@@ -25579,7 +25506,6 @@ grid.opensim.windesheim.nl
 40-73.dhcp.windesheim.nl
 142-109.dhcp.windesheim.nl
 136-239.dhcp.windesheim.nl
-www.hermes.windesheim.nl
 110-144.dhcp.windesheim.nl
 103-111.dhcp.windesheim.nl
 88-170.dhcp.windesheim.nl
@@ -26387,7 +26313,6 @@ adc-prod02.windesheim.nl
 35-107.dhcp.windesheim.nl
 100-176.dhcp.windesheim.nl
 43-197.dhcp.windesheim.nl
-www.evadotest5.windesheim.nl
 105-245.dhcp.windesheim.nl
 127-109.dhcp.windesheim.nl
 ma-145.windesheim.nl
@@ -26471,23 +26396,20 @@ tsinf01t.windesheim.nl
 sk-nsx-mgmt-gemini03.backend.skylab.windesheim.nl
 146-234-.windesheim.nl
 webct.windesheim.nl
-www.scrsolr01.windesheim.nl
 survalizer.windesheim.nl
 proxy02.windesheim.nl
 dnac01.windesheim.nl
-www.nagios.windesheim.nl
 lyncfe03.windesheim.nl
 pmpdbt01.windesheim.nl
-www.narcis.nl.narcis.han01.windesheim.nl
+narcis.nl.narcis.han01.windesheim.nl
 canonldaptest.windesheim.nl
 41-76.dhcp.windesheim.nl
 fake.windesheim.nl
-www.ict-monitor.windesheim.nl
 cms.productiewh.windesheim.nl
 sfbfe01t.windesheim.nl
 saferinternetday.windesheim.nl
 nieuwsbriefwoop.windesheim.nl
-www.productiewh.windesheim.nl
+productiewh.windesheim.nl
 helena.windesheim.nl
 cmsweb.windesheim.nl
 elektrotechniek.windesheim.nl
@@ -26501,22 +26423,15 @@ pica.databank.windesheim.nl
 osis.windesheim.nl
 canonldap.windesheim.nl
 vb23.bsl.nl.hboswitch.han01.windesheim.nl
-www.vclog01.windesheim.nl
-www.acceptatiewh.windesheim.nl
-www.evado.windesheim.nl
-www.sciencedirect.com.sciencedirect.han01.windesheim.nl
+acceptatiewh.windesheim.nl
+sciencedirect.com.sciencedirect.han01.windesheim.nl
 vpms01t.windesheim.nl
 download.springer.com.springerlink.han01.windesheim.nl
 pimf.windesheim.nl
 bic.windesheim.nl
 innovatie.windesheim.nl
 testhost02.windesheim.nl
-www.houston.windesheim.nl
-www.sccmss01.windesheim.nl
-www.mimportal.windesheim.nl
-www.wwwtest.windesheim.nl
-www.leren.windesheim.nl
-www.netmon.windesheim.nl
+sccmss01.windesheim.nl
 abcd.windesheim.nl
 sisold.windesheim.nl
 proquest.safaribooksonline.com.safari.han01.windesheim.nl
@@ -26528,10 +26443,9 @@ web.a.ebscohost.com.ase.han01.windesheim.nl
 sportdiscus.databank.windesheim.nl
 97-.windesheim.nl
 pica.databank.windesheim.nl.ase.han01.windesheim.nl
-www.stealthwatchkoppeling.windesheim.nl
+stealthwatchkoppeling.windesheim.nl
 pmpdbf01.windesheim.nl
 bscw.windesheim.nl
-www.elo.windesheim.nl
 zoep.windesheim.nl
 users.windesheim.nl
 sccmss03.windesheim.nl
@@ -26545,14 +26459,11 @@ mijn.stimulansz.nl.gezondheidteksten.han01.windesheim.nl
 respoc.windesheim.nl
 auth.frontend.skylab.windesheim.nl
 vredu.windesheim.nl
-www.gbsa.windesheim.nl
 88-40.dhcp.windesheim.nl
-www.mimportala.windesheim.nl
 web-1b-1ebscohost-1com-1cinahl.han01.windesheim.nl
 vnri.windesheim.nl
 respocapp.windesheim.nl
 web.b.ebscohost.com.cinahl.han01.windesheim.nl
-www.elotest.windesheim.nl
 move.windesheim.nl
 journalistiek.windesheim.nl
 outmgmt01.windesheim.nl
@@ -26567,21 +26478,19 @@ testhost.windesheim.nl
 dnac.windesheim.nl
 cijferimport.windesheim.nl
 ww.windesheim.nl
-www.netappvscskylab01.windesheim.nl
-www.boomuitgeversdenhaag.nl.boombooks.han01.windesheim.nl
+netappvscskylab01.windesheim.nl
+boomuitgeversdenhaag.nl.boombooks.han01.windesheim.nl
 sk-log01.management.skylab.windesheim.nl
 mediabibliotheek.windesheim.nl
 sharenetinfo.windesheim.nl
-www.adaudit.windesheim.nl
 afdelingen.windesheim.nl
-www.adformatie.nl.adformatie.han01.windesheim.nl
+adformatie.nl.adformatie.han01.windesheim.nl
 auth02.frontend.skylab.windesheim.nl
 gallery.windesheim.nl
 101-141-.windesheim.nl
 cms.wbw.acceptatiewh.windesheim.nl
 pth.windesheim.nl
 cms.website.windesheim.nl
-stealthwatchkoppeling.windesheim.nl
 api.windesheim.nl
 portal.windesheim.nl
 sccmdpt03.windesheim.nl
@@ -26592,35 +26501,26 @@ e-learning.windesheim.nl
 pmpag01.windesheim.nl
 web-1a-1ebscohost-1com-1cinahl.han01.windesheim.nl
 conscluster01.windesheim.nl
-sccmss01.windesheim.nl
 sk-nsx-mgmt-gemini02.backend.skylab.windesheim.nl
-www.voicelink.windesheim.nl
 researchdrive.windesheim.nl
-www.cv.windesheim.nl
 int.cms.productiewh.windesheim.nl
-www.intekenen.windesheim.nl
-www.wbw.testwh.windesheim.nl
+wbw.testwh.windesheim.nl
 iasontw.windesheim.nl
-www.sccmgw01.windesheim.nl
 reach.databank.windesheim.nl
 sk-nsx-mgmt-gemini-cluster.backend.skylab.windesheim.nl
-www.s4bedgepool01.windesheim.nl
-www.invert.be.invert.han01.windesheim.nl
+invert.be.invert.han01.windesheim.nl
 sfbfe02t.windesheim.nl
 ipo.windesheim.nl
 87-110.dhcp.windesheim.nl
 auth03.frontend.skylab.windesheim.nl
-www.sbrcurnet.nl.sbr.han01.windesheim.nl
+sbrcurnet.nl.sbr.han01.windesheim.nl
 lyncfe02.windesheim.nl
 edufe05a.windesheim.nl
 joulogin.windesheim.nl
-www.iloamp01.windesheim.nl
 web.a.ebscohost.com.eric.han01.windesheim.nl
 eduacc05.windesheim.nl
 dsp.windesheim.nl
-netappvscskylab01.windesheim.nl
 lg2.windesheim.nl
-www.dns04.windesheim.nl
 databank.windesheim.nl
 webapps2.windesheim.nl
 resultaten-acc.windesheim.nl
@@ -26629,16 +26529,14 @@ link.springer.com.springerlink.han01.windesheim.nl
 woop.windesheim.nl
 info01.windesheim.nl
 mmbase.windesheim.nl
-www.decostest.windesheim.nl
 kennistafels.windesheim.nl
 83-195.dhcp.windesheim.nl
 intranet.windesheim.nl
-www.nsxman01.windesheim.nl
 canonldapdc01.canonldap.windesheim.nl
 lexisnexiscom.databank.windesheim.nl
 company-1info-1companyinfo.han01.windesheim.nl
 db01.windesheim.nl
-www.int.acceptatiewh.windesheim.nl
+int.acceptatiewh.windesheim.nl
 web.b.ebscohost.com.ase.han01.windesheim.nl
 sccmrp03.windesheim.nl
 kluwer.databank.windesheim.nl
@@ -26655,9 +26553,6 @@ pimt.windesheim.nl
 ivt.windesheim.nl
 token.windesheim.nl
 windesheim.bibliotheek.budh.nl.boombooks.han01.windesheim.nl
-www.sccmss04.windesheim.nl
 pim.windesheim.nl
-www.inschrijvingentest.windesheim.nl
 canonldapdc01t.canonldaptest.windesheim.nl
-www.purplehrm.windesheim.nl
 m3.windesheim.nl

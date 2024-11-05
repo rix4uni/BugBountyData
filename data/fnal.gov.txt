@@ -1,8 +1,6 @@
-www.fnal.gov
-*.fnal.gov
 indico.fnal.gov
 ssiferrygpvm02.fnal.gov
-*.apps.okdssidev2.fnal.gov
+apps.okdssidev2.fnal.gov
 test-6-eaf.fnal.gov
 test-3-eaf.fnal.gov
 okdssidev2-mgr.fnal.gov
@@ -174,7 +172,6 @@ cmscta-eosmgm-01.fnal.gov
 cmscta-eosfst-02.fnal.gov
 fermi-rsa-2.fnal.gov
 fermi-rsa.fnal.gov
-www.mailtest2019.fermitest.fnal.gov
 mailtest2019.fermitest.fnal.gov
 fndcadoor.fnal.gov
 estestserveralt5.fnal.gov
@@ -227,13 +224,12 @@ cmseos2314.fnal.gov
 cmseos2320.fnal.gov
 cmseos2313.fnal.gov
 iedison-systemaccount.fnal.gov
-*.ghe-sqms.fnal.gov
+ghe-sqms.fnal.gov
 avatars.ghe-sqms.fnal.gov
 assets.ghe-sqms.fnal.gov
 media.ghe-sqms.fnal.gov
 pages.ghe-sqms.fnal.gov
 codeload.ghe-sqms.fnal.gov
-ghe-sqms.fnal.gov
 uploads.ghe-sqms.fnal.gov
 render.ghe-sqms.fnal.gov
 raw.ghe-sqms.fnal.gov
@@ -279,7 +275,7 @@ samwebgpvm01.fnal.gov
 harbor.apps.okddev.fnal.gov
 nsexpresswaye.fnal.gov
 fermicloud758.fnal.gov
-*.apps.okddev.fnal.gov
+apps.okddev.fnal.gov
 fermicloud753.fnal.gov
 okddev-mgr.fnal.gov
 cmssi-factory01.fnal.gov
@@ -495,7 +491,7 @@ cmsstor344.fnal.gov
 cmsstor325.fnal.gov
 cd-129686.dhcp.fnal.gov
 samgm2.fnal.gov
-*.okddev.fnal.gov
+okddev.fnal.gov
 cmseos-tf1504.fnal.gov
 cmseos-tf1505.fnal.gov
 cmseos-tstgridftp.fnal.gov
@@ -578,7 +574,6 @@ assets.ghe-pip2.fnal.gov
 codeload.ghe-pip2.fnal.gov
 dask-gateway-tls.fnal.gov
 pages.ghe-pip2.fnal.gov
-*.ghe-pip2.fnal.gov
 render.ghe-pip2.fnal.gov
 dask-gateway.fnal.gov
 cmseos-im1102.fnal.gov
@@ -958,7 +953,7 @@ cmsstor927.fnal.gov
 fndca1.fnal.gov
 cmsstor823.fnal.gov
 cmsstor820.fnal.gov
-*.apps.okdprod1.fnal.gov
+apps.okdprod1.fnal.gov
 cmsstor908.fnal.gov
 pubstor2214.fnal.gov
 cmsstor920.fnal.gov
@@ -1274,7 +1269,7 @@ stkendca2002.fnal.gov
 stkendca2219.fnal.gov
 stkendca2019.fnal.gov
 stkendca1912.fnal.gov
-*.apps.okdssidev.fnal.gov
+apps.okdssidev.fnal.gov
 okdssidev-mgr.fnal.gov
 fermifactory02.fnal.gov
 fermifactory01.fnal.gov
@@ -1317,7 +1312,7 @@ edtestsrv3.fnal.gov
 cmsnoted1-test.fnal.gov
 edtestsrv4.fnal.gov
 edtestsrv5.fnal.gov
-*.apps.okdprod2.fnal.gov
+apps.okdprod2.fnal.gov
 fermifactory-test-al9.fnal.gov
 cmsstor422.fnal.gov
 wcio.fnal.gov
@@ -1420,7 +1415,7 @@ tst-htvault-02.fnal.gov
 tst-htvault-01.fnal.gov
 blackbox-graphitesrv01.fnal.gov
 fts-lariat-daq01.fnal.gov
-*.apps.okdprod.fnal.gov
+apps.okdprod.fnal.gov
 cmseos17.fnal.gov
 dmsdcadev01.fnal.gov
 dmsdcadev06.fnal.gov
@@ -1492,7 +1487,7 @@ cmsstor433.fnal.gov
 cmsstor434.fnal.gov
 cmsstor429.fnal.gov
 cmsstor430.fnal.gov
-*.apps.okdprod1.okdprod1.fnal.gov
+apps.okdprod1.okdprod1.fnal.gov
 checkmk-ro-mongodb.fnal.gov
 ssiceph-dev.fnal.gov
 ssiceph-dev-data-04.fnal.gov
@@ -1878,8 +1873,8 @@ accelerator-ai-hub.okddev.fnal.gov
 cmssrv221.fnal.gov
 okd-gpfe01.fnal.gov
 pilot-okd-gpfe01.fnal.gov
-*.apps.okdprod2.okdprod2.fnal.gov
-*.apps.okddev.okddev.fnal.gov
+apps.okdprod2.okdprod2.fnal.gov
+apps.okddev.okddev.fnal.gov
 rexdbsrv4.fnal.gov
 cmseos52.fnal.gov
 cmseos30.fnal.gov
@@ -2514,9 +2509,8 @@ dmsdca20.fnal.gov
 dmsdca18.fnal.gov
 dbweb5.fnal.gov
 dbweb6.fnal.gov
-*.fermipointapps.fnal.gov
-gco-fkhan-test.fnal.gov
 fermipointapps.fnal.gov
+gco-fkhan-test.fnal.gov
 okdsvc011.fnal.gov
 hosttest01.fnal.gov
 okd-htcce01.fnal.gov

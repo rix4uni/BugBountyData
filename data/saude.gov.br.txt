@@ -689,9 +689,7 @@ wiki-coatic.prod.saude.gov.br
 wiki-coatic.saude.gov.br
 wiki.infra.saude.gov.br
 wordpress.hmg.saude.gov.br
-www.hmg.saude.gov.br
-www.into.saude.gov.br
-www.saude.gov.br
+hmg.saude.gov.br
 zabbix.hmg.saude.gov.br
 zeppelin.hmg.saude.gov.br
 ap-manager-rabbitmq.saude.gov.br
@@ -707,7 +705,6 @@ formsus2.saude.gov.br
 gestao-esusve.saude.gov.br
 gestao-leitos.saude.gov.br
 healthdata.hmg.saude.gov.br
-hmg.saude.gov.br
 igep.into.saude.gov.br
 infra.saude.gov.br
 intocloud02.into.saude.gov.br

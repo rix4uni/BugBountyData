@@ -1,5 +1,4 @@
-*.supplieroasis.com
-*.test.supplieroasis.com
+test.supplieroasis.com
 api.supplieroasis.com
 api.test.supplieroasis.com
 demo.supplieroasis.com
@@ -18,10 +17,8 @@ reports.supplieroasis.com
 sofslogin.supplieroasis.com
 sofstest.supplieroasis.com
 soreportsapi.supplieroasis.com
-test.supplieroasis.com
 warehouse.supplieroasis.com
 warehouse-ws.supplieroasis.com
-www.supplieroasis.com
-www.suppowww.supplieroasis.com
+suppowww.supplieroasis.com
 ingsapiv1.supplieroasis.com
 u002fwww.supplieroasis.com

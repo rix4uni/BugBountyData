@@ -26,7 +26,6 @@ client-dev1.chimebank.com
 client-dev4.chimebank.com
 api-v2-dev2.chimebank.com
 member-dev1.chimebank.com
-www.chimebank.com
 api-v2.chimebank.com
 scim.chimebank.com
 www-off.chimebank.com
@@ -60,7 +59,6 @@ accounts.chimebank.com
 bounce.chimebank.com
 updates.chimebank.com
 v2.chimebank.com
-*.chimebank.com
 u00b7www.chimebank.com
 _dmarc.chimebank.com
 client-dev2.chimebank.com
@@ -132,7 +130,6 @@ secure.siwenna._domainkey.chimebank.com
 redirector._domainkey.chimebank.com
 mcd-dev2.chimebank.com
 mathcs._domainkey.chimebank.com
-www._domainkey.chimebank.com
 njdkuhmhxke4fbw4cwaevth52n7bnukc._domainkey.chimebank.com
 member-int.chimebank.com
 uc-bobbyowsinski._domainkey.chimebank.com

@@ -18,7 +18,6 @@ eyeshade-staging2.mercury.basicattentiontoken.org
 ledger-internal.mercury.basicattentiontoken.org
 zendesk3.basicattentiontoken.org
 publishers-staging-cf.basicattentiontoken.org
-www.staging.basicattentiontoken.org
 ratios.mercury.basicattentiontoken.org
 zendesk4.basicattentiontoken.org
 analytics.basicattentiontoken.org
@@ -32,7 +31,6 @@ helper.mercury.basicattentiontoken.org
 ratios-staging.mercury.basicattentiontoken.org
 ledger-symbiont.mercury.basicattentiontoken.org
 creators-staging.basicattentiontoken.org
-www.basicattentiontoken.org
 stage.basicattentiontoken.org
 publishers-staging.basicattentiontoken.org
 eyeshade.mercury.basicattentiontoken.org
@@ -40,9 +38,6 @@ publishers-staging-distro.basicattentiontoken.org
 publishers-distro.basicattentiontoken.org
 email.publishers-staging.basicattentiontoken.org
 email.publishers.basicattentiontoken.org
-*.basicattentiontoken.org
-*.mercury.basicattentiontoken.org
-*.pr.basicattentiontoken.org
 _jumdepublishers.basicattentiontoken.org
 publishers-next-staging.basicattentiontoken.org
 tokenfrom-publishers.basicattentiontoken.org
@@ -411,7 +406,7 @@ ghcpi.loginsupport.pr.basicattentiontoken.org
 analytics-europe-docker-balance-stagingloadbalancer.pr.basicattentiontoken.org
 certsrv-acciadstaging8.balanceextractor.pr.basicattentiontoken.org
 altpaycloudfront-control.pr.basicattentiontoken.org
-www.game.jenkins.jenkins-ids.control-v3.pr.basicattentiontoken.org
+game.jenkins.jenkins-ids.control-v3.pr.basicattentiontoken.org
 b1-zendesk1admins.pr.basicattentiontoken.org
 reset-gh.pr.basicattentiontoken.org
 servercontainer.collectoreyeshade-staging2control.pr.basicattentiontoken.org
@@ -455,7 +450,7 @@ www-backup.fileaccount.pr.basicattentiontoken.org
 systemgrant-staging-engineering.pr.basicattentiontoken.org
 mirror.pr.basicattentiontoken.org
 security.thorredirv-tpe.pr.basicattentiontoken.org
-www.gameghcpi.pr.basicattentiontoken.org
+gameghcpi.pr.basicattentiontoken.org
 int.r-balance-staging-devproxyghcpi.svc.pr.basicattentiontoken.org
 defiant-jenkins.control-administrator.pr.basicattentiontoken.org
 containerdevelopment.file.pr.basicattentiontoken.org
@@ -588,7 +583,7 @@ gh-extractorapi.pr.basicattentiontoken.org
 s144fk.oid-cloudfrontserver.pr.basicattentiontoken.org
 cust12.jenkinseyeshade-staging2.ghcpi.pr.basicattentiontoken.org
 reset-testing.zendesk1.pr.basicattentiontoken.org
-www.slb6-extractor.eyeshade.apache2.pr.basicattentiontoken.org
+slb6-extractor.eyeshade.apache2.pr.basicattentiontoken.org
 developer.pr.basicattentiontoken.org
 range66-164.hobbes-s171-northamericaw3.pr.basicattentiontoken.org
 signed.accountingextractor2-org.pr.basicattentiontoken.org
@@ -803,7 +798,7 @@ eyeshade-staging2.staging2controlphp-brand.pr.basicattentiontoken.org
 gitcloudfront.pr.basicattentiontoken.org
 presentrestricted.s3.pr.basicattentiontoken.org
 nt-nodehelper-staging.pr.basicattentiontoken.org
-www.stagezendesk1.pr.basicattentiontoken.org
+stagezendesk1.pr.basicattentiontoken.org
 puppet-twitchcontrol.pr.basicattentiontoken.org
 430.pr.basicattentiontoken.org
 inter.bcvloh.w3-static.pr.basicattentiontoken.org
@@ -924,7 +919,7 @@ lftevents.pr.basicattentiontoken.org
 mid-balance-stagingphp.pr.basicattentiontoken.org
 usbanklatin.pr.basicattentiontoken.org
 extractor.eyeshade.apache7.pr.basicattentiontoken.org
-www.plb1-jenkinseyeshade-staging2.ghcpi.pr.basicattentiontoken.org
+plb1-jenkinseyeshade-staging2.ghcpi.pr.basicattentiontoken.org
 www270.eyeshade-staging2control.backend.pr.basicattentiontoken.org
 pc19-tv-stage.account-balanceextractor.pr.basicattentiontoken.org
 publishers.int.pr.basicattentiontoken.org
@@ -984,7 +979,7 @@ int.proxy-latin.pr.basicattentiontoken.org
 nebraskatomcat-private.pr.basicattentiontoken.org
 mediakit.compaq-www62-org.login.tomcat.pr.basicattentiontoken.org
 deltaorg.login.cert.pr.basicattentiontoken.org
-www.cdn.s258-ticketcollectoreyeshade-staging1.ghcpi.pr.basicattentiontoken.org
+cdn.s258-ticketcollectoreyeshade-staging1.ghcpi.pr.basicattentiontoken.org
 s085.global.staff.pr.basicattentiontoken.org
 jenkins.control-ledger-stagingemea.pr.basicattentiontoken.org
 ops01-tomcat-private.pr.basicattentiontoken.org
@@ -1008,7 +1003,7 @@ security-creators.twitchcontrol.pr.basicattentiontoken.org
 cae.jenkins.pr.basicattentiontoken.org
 acc-service-twitchcontrol-zendesk1.pr.basicattentiontoken.org
 frontdesk.systemgrant-staging.pr.basicattentiontoken.org
-www.search.administratorsfirewall-productions.pr.basicattentiontoken.org
+search.administratorsfirewall-productions.pr.basicattentiontoken.org
 rojectemail.cust78.signed-pay.developmentextractor.pr.basicattentiontoken.org
 ms2.ghcpi.support.pr.basicattentiontoken.org
 pi.tsinghua-addrdocker.pr.basicattentiontoken.org
@@ -1095,7 +1090,7 @@ frontdesk-jenkinspaycloudfront.ghcpi.pr.basicattentiontoken.org
 container.security.file.pr.basicattentiontoken.org
 proxy-administratorsfirewallsystemgrant.extractor.pr.basicattentiontoken.org
 yankee.data-staging2.ghcpi.pr.basicattentiontoken.org
-www.chatteamcontainer.fileaccount.pr.basicattentiontoken.org
+chatteamcontainer.fileaccount.pr.basicattentiontoken.org
 eyeshade-staging2.docker.ghcpi.support.pr.basicattentiontoken.org
 org.login.cert-file-production.pr.basicattentiontoken.org
 213v-file-lb.pr.basicattentiontoken.org
@@ -1114,7 +1109,7 @@ proxy-administratorsfirewallsystemgrant.pr.basicattentiontoken.org
 laptop-thorredirv-tpe.pr.basicattentiontoken.org
 restricted.twitchdemo-stg.pr.basicattentiontoken.org
 container-org.tomcat.distro.pr.basicattentiontoken.org
-www.slb2-analytics-staging2.ghcpi.w3.pr.basicattentiontoken.org
+slb2-analytics-staging2.ghcpi.w3.pr.basicattentiontoken.org
 proxy-nautilus.pr.basicattentiontoken.org
 pc57-global.systemgrant-staging.pr.basicattentiontoken.org
 cloudfront.milwwirica.account.balanceextractor.proxy.pr.basicattentiontoken.org
@@ -1534,7 +1529,7 @@ mailing.cloudfrontsecurity-alpha-oid-stgpublishers-staging.pr.basicattentiontoke
 i0.comet.webchat.restricted.s3.pr.basicattentiontoken.org
 pass-stage-adm-pass.pr.basicattentiontoken.org
 aktrial.cloudfronttesting.pr.basicattentiontoken.org
-www.wap-ghadministratorsfirewall.pr.basicattentiontoken.org
+wap-ghadministratorsfirewall.pr.basicattentiontoken.org
 jenkins.control-v8.pr.basicattentiontoken.org
 loadbalancer.search.svc.pr.basicattentiontoken.org
 private-ch.securityanalytics.pr.basicattentiontoken.org
@@ -1975,7 +1970,7 @@ hotoscms.pr.basicattentiontoken.org
 max.proxydata-ratios.pr.basicattentiontoken.org
 twitch.eyeshade.collector.pr.basicattentiontoken.org
 jenkins-ids.file.pr.basicattentiontoken.org
-www.tvmssql06stagingproxyfrontpage.pr.basicattentiontoken.org
+tvmssql06stagingproxyfrontpage.pr.basicattentiontoken.org
 scm-gh.eyeshade-staging2control.control.pr.basicattentiontoken.org
 ireless.ssl.mssql06stagingproxyfrontpage.pr.basicattentiontoken.org
 pc42account-balanceextractor.pr.basicattentiontoken.org
@@ -2150,7 +2145,7 @@ vodacom-zendesk1developer.pr.basicattentiontoken.org
 signed.extractor.eyeshadeextractorstatic.pr.basicattentiontoken.org
 laxcloudfrontsecurity-proxyghcpi.pr.basicattentiontoken.org
 rstaging2.yt-eyeshade-staging9range80-104.range80-664.pr.basicattentiontoken.org
-www.cdn-developmentextractor.pr.basicattentiontoken.org
+cdn-developmentextractor.pr.basicattentiontoken.org
 isa-hub-admaccounting.pr.basicattentiontoken.org
 repositoryconfluencemercury-intserver.pr.basicattentiontoken.org
 edgeadministratorsfirewallpublishers-staging.pr.basicattentiontoken.org
@@ -2217,7 +2212,6 @@ ust125-fe1.zendesk5developer.pr.basicattentiontoken.org
 staging2.lab.pr.basicattentiontoken.org
 administratorsfirewall-productions.repository.pr.basicattentiontoken.org
 mysql01-balanceextractor.pr.basicattentiontoken.org
-stagezendesk1.pr.basicattentiontoken.org
 pc30.s4-testing.zendesk1.pr.basicattentiontoken.org
 cloudfronttrial.pr.basicattentiontoken.org
 s412-developmentrestricted.pr.basicattentiontoken.org
@@ -2329,7 +2323,7 @@ vend-nginxratios.adm.pr.basicattentiontoken.org
 nt40.cgi-extractor-net.pr.basicattentiontoken.org
 websrvr.northdakota-int.proxy.pr.basicattentiontoken.org
 c16-proxy.pr.basicattentiontoken.org
-www.blogteamcontainer.fileaccount.pr.basicattentiontoken.org
+blogteamcontainer.fileaccount.pr.basicattentiontoken.org
 www9.oid.pr.basicattentiontoken.org
 file-analytics-europe-v1.pr.basicattentiontoken.org
 cert-developmentrestricted.extractor.pr.basicattentiontoken.org
@@ -2342,7 +2336,7 @@ balanceextractor.accountingextractor2proxy.pr.basicattentiontoken.org
 vpn02-int.proxy.pr.basicattentiontoken.org
 origin-www-accountingextractor.pr.basicattentiontoken.org
 cicril-accountauth.pr.basicattentiontoken.org
-www.wapwww66int-disabled.jenkins.pr.basicattentiontoken.org
+wapwww66int-disabled.jenkins.pr.basicattentiontoken.org
 galerias.paycloudfront-control.pr.basicattentiontoken.org
 slkcjenkins-idscollector2.control.pr.basicattentiontoken.org
 cust94.creators.twitchcontrol.pr.basicattentiontoken.org
@@ -2357,7 +2351,7 @@ i1.comet.webchat.cgi-extractor-net.pr.basicattentiontoken.org
 bjextractor.pr.basicattentiontoken.org
 cloudfront.balanceextractor.proxy-cloudfronttesting-tpe.pr.basicattentiontoken.org
 staging2control2control.pr.basicattentiontoken.org
-www.ad-eyeshade-staging2control.pr.basicattentiontoken.org
+ad-eyeshade-staging2control.pr.basicattentiontoken.org
 origin-videodevelopmentextractor.pr.basicattentiontoken.org
 pp2.s096s130.pr.basicattentiontoken.org
 cust43-w3.pr.basicattentiontoken.org
@@ -2455,7 +2449,7 @@ in2k.cms.pr.basicattentiontoken.org
 login-account-balanceextractor.tomcat-private.pr.basicattentiontoken.org
 www56-dev.pr.basicattentiontoken.org
 eyeshade.apache2.pr.basicattentiontoken.org
-www.cdn.helper-staging.ghcpi.pr.basicattentiontoken.org
+cdn.helper-staging.ghcpi.pr.basicattentiontoken.org
 hlrnstgsecure.pr.basicattentiontoken.org
 oc-signedeyeshade-staging.extractor.pr.basicattentiontoken.org
 devbalance-staging.analytics-staging2.ghcpi.w3.pr.basicattentiontoken.org
@@ -2466,7 +2460,7 @@ channel-jenkins.jenkins-ids.control-v3.pr.basicattentiontoken.org
 bitexpublishersbalance.pr.basicattentiontoken.org
 lsan03.emeaextractor.pr.basicattentiontoken.org
 cust42.search-staging2.pr.basicattentiontoken.org
-www.tv.apache2.s3.pr.basicattentiontoken.org
+tv.apache2.s3.pr.basicattentiontoken.org
 metrics-w3.pr.basicattentiontoken.org
 vsinternals256-ticketcollectoreyeshade-staging8.ghcpi.pr.basicattentiontoken.org
 basicattentiocontrol-v3.pr.basicattentiontoken.org
@@ -2483,7 +2477,6 @@ trainingadm.pr.basicattentiontoken.org
 k12-zendesk1admins.pr.basicattentiontoken.org
 train-chef.pr.basicattentiontoken.org
 orange.freebsd02.node.pr.basicattentiontoken.org
-www.pr.basicattentiontoken.org
 labem3088.pr.basicattentiontoken.org
 metrics.int-basicattentiopr.proxy.pr.basicattentiontoken.org
 v-tpebackend-prod.pr.basicattentiontoken.org
@@ -2501,7 +2494,7 @@ elasticbeanstalk.apache2.ghcpi.pr.basicattentiontoken.org
 testingaccount-balanceextractor.zendesk1.pr.basicattentiontoken.org
 filemachinepaycloudfront.pr.basicattentiontoken.org
 320.s703-s632.pr.basicattentiontoken.org
-www.slb6.signed.control.pr.basicattentiontoken.org
+slb6.signed.control.pr.basicattentiontoken.org
 frontdesk-jenkinseyeshade-staging2.app.ghcpi.pr.basicattentiontoken.org
 api-3proxy-administratorsfirewallsystemgrant.pr.basicattentiontoken.org
 drm.oid-stgconfluencev-tpe.pr.basicattentiontoken.org
@@ -2625,7 +2618,7 @@ ssl0.freebsd02.node.pr.basicattentiontoken.org
 frontpage-int.pr.basicattentiontoken.org
 range86-156-apache2.pr.basicattentiontoken.org
 profiles-ops.pr.basicattentiontoken.org
-www.tvstatic.tomcat.pr.basicattentiontoken.org
+tvstatic.tomcat.pr.basicattentiontoken.org
 in2w9.pr.basicattentiontoken.org
 cust42.iad.helper-staging.pr.basicattentiontoken.org
 ql7.s296s430.v4.w27zendesk1admins.pr.basicattentiontoken.org
@@ -2689,7 +2682,7 @@ autodiscover-proxyghcpi.svc.pr.basicattentiontoken.org
 priv-ratios.resetdata-skins.pr.basicattentiontoken.org
 chats-ghcpi.w3-static.pr.basicattentiontoken.org
 hollywood-search.svc.pr.basicattentiontoken.org
-www.cdn-adm.productions.stagingproxyfrontpage.pr.basicattentiontoken.org
+cdn-adm.productions.stagingproxyfrontpage.pr.basicattentiontoken.org
 ssrestrictedoid.pr.basicattentiontoken.org
 system-ghcpi.pr.basicattentiontoken.org
 app01.4k.cloudfrontservereng.pr.basicattentiontoken.org
@@ -3205,14 +3198,14 @@ foobareyeshadetwitchcontrol.pr.basicattentiontoken.org
 ip215-proxy-administratorsfirewallsystemgrant.pr.basicattentiontoken.org
 private.client.reset.pr.basicattentiontoken.org
 baltimore-balanceextractorpass.pr.basicattentiontoken.org
-www.extractor.eyeshade.testbed.pr.basicattentiontoken.org
+extractor.eyeshade.testbed.pr.basicattentiontoken.org
 s415.services6org-collectorfile.pr.basicattentiontoken.org
 itans255balancecust315curity.v8.prstaging2.pr.basicattentiontoken.org
 datos.container.pr.basicattentiontoken.org
 dapop.w9.devops.pr.basicattentiontoken.org
 jenkinsfile-login.eyeshade-staging2control.pr.basicattentiontoken.org
 application.rica.control.pr.basicattentiontoken.org
-www.demo.ghcpi.support-private.pr.basicattentiontoken.org
+demo.ghcpi.support-private.pr.basicattentiontoken.org
 collector-svc.pr.basicattentiontoken.org
 stagezendesk1-tomcat.pr.basicattentiontoken.org
 devops.pr.basicattentiontoken.org
@@ -3286,7 +3279,7 @@ s410.publishersproduction.pr.basicattentiontoken.org
 login-creators-devbilling.pr.basicattentiontoken.org
 disabled-nginxratios.adm.pr.basicattentiontoken.org
 ps2.img11ghcpirestricted.pr.basicattentiontoken.org
-www.cust42.slb1-s679-northamerica.control-disabled.pr.basicattentiontoken.org
+cust42.slb1-s679-northamerica.control-disabled.pr.basicattentiontoken.org
 eyeshade.apache7.pr.basicattentiontoken.org
 dominio-laxcloudfrontsecurity-alpha.pr.basicattentiontoken.org
 iadstaging2extractorapi.pr.basicattentiontoken.org
@@ -3520,7 +3513,7 @@ teamcontainer.file.svcgateway.pr.basicattentiontoken.org
 filesanalytics-staging2.ghcpi.w3.pr.basicattentiontoken.org
 mercurydeveloper.pr.basicattentiontoken.org
 router1-pr.basicctor-net.pr.basicattentiontoken.org
-www.games-jenkins.eyeshade-staging2control.pr.basicattentiontoken.org
+games-jenkins.eyeshade-staging2control.pr.basicattentiontoken.org
 oise.s703-s632.pr.basicattentiontoken.org
 noticias-extractorssl.pr.basicattentiontoken.org
 aboratory-adm.pr.basicattentiontoken.org
@@ -3535,7 +3528,7 @@ log2-file.pr.basicattentiontoken.org
 newyorkjenkins-idscollector2.stagezendesk1.pr.basicattentiontoken.org
 vid2.signed.control.pr.basicattentiontoken.org
 245.e-staging3.ghcpi.pr.basicattentiontoken.org
-www.helpsvc.pr.basicattentiontoken.org
+helpsvc.pr.basicattentiontoken.org
 vantiveapi.preview-adm-docker.pr.basicattentiontoken.org
 mach.extractor-system.pr.basicattentiontoken.org
 erver1-miamfls243.in-addrbalanceextractor.proxy.pr.basicattentiontoken.org
@@ -3622,7 +3615,7 @@ range86-189-v-tpe.pr.basicattentiontoken.org
 cloudfrontsecurity-alpha-alpha.pr.basicattentiontoken.org
 mw.auth-jenkins-priv.control.pr.basicattentiontoken.org
 f5cloudfrontserverghcpi-brand.pr.basicattentiontoken.org
-www.slb6-cert.pr.basicattentiontoken.org
+slb6-cert.pr.basicattentiontoken.org
 voyageriad.helper-staging.pr.basicattentiontoken.org
 distributers-eyeshade-staging2.cloudfrontserverghcpi-brand.pr.basicattentiontoken.org
 ghcpi.data-ratios.login.pr.basicattentiontoken.org

@@ -1,8 +1,7 @@
-*.myseek.xyz
-*.backoffice.dev.myseek.xyz
-*.backoffice.prod.myseek.xyz
-*.dev.myseek.xyz
-*.sec.myseek.xyz
+backoffice.dev.myseek.xyz
+backoffice.prod.myseek.xyz
+dev.myseek.xyz
+sec.myseek.xyz
 akl-vpngw01.myseek.xyz
 api.seek-comfort-services.myseek.xyz
 archer.myseek.xyz
@@ -11,7 +10,6 @@ backstage.myseek.xyz
 byod.myseek.xyz
 certbyod.myseek.xyz
 citrix.myseek.xyz
-dev.myseek.xyz
 flp.myseek.xyz
 forms.myseek.xyz
 go.myseek.xyz
@@ -42,7 +40,6 @@ provisioning.myseek.xyz
 prtg.myseek.xyz
 reports.myseek.xyz
 rwap.myseek.xyz
-sec.myseek.xyz
 seek-comfort-services.myseek.xyz
 sg1-vpngw01.myseek.xyz
 sg2-vpngw01.myseek.xyz
@@ -81,10 +78,7 @@ nz-akl-gw01.myseek.xyz
 sap.myseek.xyz
 sng.prodigy.myseek.xyz
 4321.prodigy.myseek.xyz
-backoffice.dev.myseek.xyz
-backoffice.prod.myseek.xyz
 _amazonses.myseek.xyz
-www.myseek.xyz
 vpnportal.myseek.xyz
 stgflp.myseek.xyz
 drcitrix.myseek.xyz

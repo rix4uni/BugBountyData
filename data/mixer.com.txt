@@ -13,7 +13,7 @@ dist29-dal07.mixer.com
 chat.mixer.com
 dist-hls.mixer.com
 dist17-wdc01.mixer.com
-www.dev.mixer.com
+dev.mixer.com
 staging-partnerhub.mixer.com
 dist3-wdc01.mixer.com
 forums.mixer.com
@@ -94,7 +94,6 @@ chat3-dal.mixer.com
 chat5-dal.mixer.com
 images.mixer.com
 mediadata.mixer.com
-dev.mixer.com
 cvs.mixer.com
 uploads.mixer.com
 dist66-sao01.mixer.com
@@ -118,7 +117,6 @@ video.mixer.com
 dist31-fra02.mixer.com
 dist11-wdc01.mixer.com
 streammgmt.mixer.com
-www.mixer.com
 dist1-mel01.mixer.com
 c.mixer.com
 monetization.mixer.com

@@ -1,4 +1,3 @@
-*.getmoneytree.com
 app.getmoneytree.com
 app-staging.getmoneytree.com
 assets.getmoneytree.com
@@ -45,13 +44,11 @@ vault.getmoneytree.com
 vault-develop.getmoneytree.com
 vault-staging.getmoneytree.com
 web-au-api-staging.getmoneytree.com
-www.getmoneytree.com
 www-staging.getmoneytree.com
 csv-uploader-staging.getmoneytree.com
 business.getmoneytree.com
 staging.app.getmoneytree.com
 gocashless-staging.getmoneytree.com
-www.au-api-staging.getmoneytree.com
 assets-staging.getmoneytree.com
 linkkit.getmoneytree.com
 jp-api-perf.getmoneytree.com

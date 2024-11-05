@@ -1,4 +1,3 @@
-*.portofantwerp.com
 aaa-nstest-d1.portofantwerp.com
 admin.droneportal.portofantwerp.com
 admin.droneportal-test.portofantwerp.com
@@ -122,12 +121,10 @@ webconf2-d1.portofantwerp.com
 webmail.portofantwerp.com
 webmail-accpt.portofantwerp.com
 wiki.portofantwerp.com
-www.portofantwerp.com
 www-accpt.portofantwerp.com
 www-rxseaport-eu.portofantwerp.com
 www-rxseaport-eu-accpt.portofantwerp.com
 www-test.portofantwerp.com
-www.jobs.portofantwerp.com
 git.portofantwerp.com
 wiki-accpt.portofantwerp.com
 _d1.portofantwerp.com
@@ -152,7 +149,6 @@ email.mail.digital.portofantwerp.com
 apiweb-test.portofantwerp.com
 check.portofantwerp.com
 geo-test.portofantwerp.com
-www.events.portofantwerp.com
 remoteapps.portofantwerp.com
 email.mhp.portofantwerp.com
 ows.portofantwerp.com

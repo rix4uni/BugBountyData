@@ -58,7 +58,6 @@ dev.rtls.soti.net
 ss-authenticationservice.soti.net
 eu1.snap.soti.net
 partners.soti.net
-www.vpn.soti.net
 vpn.soti.net
 remotevpn.soti.net
 invpn.soti.net
@@ -102,7 +101,6 @@ pm.marketplace.soti.net
 qa7.qa.insight.soti.net
 pm.discussions.soti.net
 pl.soti.net
-www.pl.soti.net
 rc-na.qa.insight.soti.net
 rc-eu.qa.insight.soti.net
 sotiassistservices-test.soti.net
@@ -116,7 +114,6 @@ tenant.qa.rtls.soti.net
 qa1.discussions.soti.net
 cdn.qa5.snap.soti.net
 dev.marketplace.soti.net
-www.nl.soti.net
 nl.soti.net
 ss-authenticationservice-test.soti.net
 api.clalab.soti.net
@@ -132,5 +129,4 @@ data.dev.rtls.soti.net
 broker.eu.rtls.soti.net
 brokerdevalb.idp.soti.net
 qa.marketplaceapi.soti.net
-www.soti.net
 dac.snap.soti.net

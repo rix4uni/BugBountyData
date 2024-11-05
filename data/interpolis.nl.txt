@@ -1,7 +1,6 @@
 acc-api.interpolis.nl
-www.zzapi.interpolis.nl
-zorgactiefbedrijf.interpolis.nl
 zzapi.interpolis.nl
+zorgactiefbedrijf.interpolis.nl
 tst6-cm-www.interpolis.nl
 redirect.interpolis.nl
 mijnzorg.interpolis.nl
@@ -28,7 +27,6 @@ login-select-zorg.interpolis.nl
 tst.login.gezondheidsverklaringaov.interpolis.nl
 pre-inloggen.interpolis.nl
 e.videogesprek.interpolis.nl
-www.communicatieshop.interpolis.nl
 acc.messagingapi-client.interpolis.nl
 acc.appcontent.interpolis.nl
 acc.gezondheidsverklaringaov.interpolis.nl
@@ -59,7 +57,7 @@ siam-digitalekluis.interpolis.nl
 acc.taxateurs.interpolis.nl
 acc-mijnzorg.interpolis.nl
 denkvooruit.interpolis.nl
-www.zorgzoeker.interpolis.nl
+zorgzoeker.interpolis.nl
 verbouwmaatje.staging.interpolis.nl
 cm-www.interpolis.nl
 tst-mob-api.interpolis.nl
@@ -86,7 +84,6 @@ acc5-cm-www.interpolis.nl
 staging.zonnepanelen.interpolis.nl
 verbouwmaatje.interpolis.nl
 zorggebruik.interpolis.nl
-zorgzoeker.interpolis.nl
 inbrekers.interpolis.nl
 tst.taxateurs.interpolis.nl
 acc-mobweb.interpolis.nl
@@ -175,7 +172,6 @@ beleggingsverzekeringen.interpolis.nl
 zorgactief.interpolis.nl
 e.interpolis.nl
 mijn.interpolis.nl
-www.interpolis.nl
 pensioenportaal.interpolis.nl
 secure.interpolis.nl
 acc.stg.mijnzorg.interpolis.nl
@@ -212,12 +208,11 @@ prd-sitecorexc.gezondheidsverklaring.interpolis.nl
 acc6-www.interpolis.nl
 tst2-taxateurs.interpolis.nl
 acc-www.pensioenonline.interpolis.nl
-www.pensioenonline.interpolis.nl
+pensioenonline.interpolis.nl
 tst-www.pensioenonline.interpolis.nl
 cdn.interpolis.nl
 tst6-cm.taxateurs.interpolis.nl
 f.klantpanel.interpolis.nl
-*.evenement.interpolis.nl
 1.dev.mijngezondheid.interpolis.nl
 1.tst.login.interpolis.nl
 1.tst.mijngezondheid.interpolis.nl
@@ -246,7 +241,6 @@ mig.www.interpolis.nl
 mijnleven.interpolis.nl
 mx1.interpolis.nl
 mx2.interpolis.nl
-pensioenonline.interpolis.nl
 pensioenportaal.acceptatie.interpolis.nl
 pensioenportaalwerkgevers-acc.interpolis.nl
 pensioenverzekeringen.acceptatie.interpolis.nl
@@ -275,25 +269,12 @@ tst6-cm-taxateurs.interpolis.nl
 wagenpark.interpolis.nl
 webwerken.acceptatie.interpolis.nl
 wga.interpolis.nl
-www.acc-zorgzoeker.interpolis.nl
-www.api.interpolis.nl
-www.atp.acceptatie.interpolis.nl
-www.halfjaarlijkseterugkoppelingklantpanel.interpolis.nl
-www.jaaroverzicht.interpolis.nl
-www.mobweb.interpolis.nl
-www.strategie.interpolis.nl
-www.uitbetalingvergoeding.interpolis.nl
+uitbetalingvergoeding.interpolis.nl
 zakelijk.interpolis.nl
 zorg.interpolis.nl
 zorgkeuze.interpolis.nl
 zzcms.interpolis.nl
-*.tst.www.interpolis.nl
-*.mig.cm.interpolis.nl
-*.tst.cm.interpolis.nl
-*.mig.www.interpolis.nl
 acc.stg.mijngezondheid.interpolis.nl
-*.mig.taxateurs.interpolis.nl
-*.tst.taxateurs.interpolis.nl
 conferentie.evenement.interpolis.nl
 6.mig.www.interpolis.nl
 congres.evenement.interpolis.nl
@@ -302,7 +283,6 @@ congres.evenement.interpolis.nl
 3.tst.www.interpolis.nl
 leesvoor.interpolis.nl
 4.tst.taxateurs.interpolis.nl
-www.beleggingsverzekeringen.interpolis.nl
 onderhoud.pensioenonline.interpolis.nl
 1.tst.taxateurs.interpolis.nl
 interpoliswebinarduurzaamondernemen.evenement.interpolis.nl
@@ -316,7 +296,6 @@ interpolisduurzaamheidseminar.evenement.interpolis.nl
 module.interpolis.nl
 tst.mijnzorg.interpolis.nl
 vps01.interpolis.nl
-www.zorg.interpolis.nl
 5.tst.www.interpolis.nl
 5.tst.cm.interpolis.nl
 2.mig.taxateurs.interpolis.nl
@@ -331,8 +310,6 @@ mannetje.interpolis.nl
 vuurwerkshow.interpolis.nl
 interpoliswebinarpreventieengedrag.evenement.interpolis.nl
 3.mig.cm.interpolis.nl
-www.portaal.interpolis.nl
-www.zorgactief.interpolis.nl
 overlijdensrisicocheck.interpolis.nl
 interpoliswebinarveiligomgaanmetlithiumion.evenement.interpolis.nl
 w.interpolis.nl
@@ -446,7 +423,6 @@ kepin-v2.interpolis.nl
 aovpremietool.acceptatie.interpolis.nl
 awverify.acc-www.interpolis.nl
 selector1._domainkey.onderzoek.interpolis.nl
-www.beleggingspensioen.interpolis.nl
 sel1._domainkey.klantpanel.interpolis.nl
 awverify.www.interpolis.nl
 awverify.cm-www.interpolis.nl

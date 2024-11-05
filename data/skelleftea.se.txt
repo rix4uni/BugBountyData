@@ -1,5 +1,5 @@
 anyconnect.skelleftea.se
-www.insidan.skelleftea.se
+insidan.skelleftea.se
 sts.skelleftea.se
 mail1.skelleftea.se
 www3.skelleftea.se
@@ -7,7 +7,6 @@ securemeeting.skelleftea.se
 assistent.skelleftea.se
 skolsurfa.skelleftea.se
 guest1.skelleftea.se
-www.skelleftea.se
 support.skelleftea.se
 samarbeta.skelleftea.se
 wlc.wlan.skelleftea.se
@@ -19,7 +18,7 @@ ewarnago.skelleftea.se
 www10.skelleftea.se
 lcifo.skelleftea.se
 sip.skelleftea.se
-www.campus.skelleftea.se
+campus.skelleftea.se
 access.skelleftea.se
 kulturbanken.skelleftea.se
 northvoltett.skelleftea.se
@@ -45,11 +44,9 @@ guest2.skelleftea.se
 mail2.skelleftea.se
 ewarna.skelleftea.se
 sarakulturhus.skelleftea.se
-campus.skelleftea.se
 next.inventering.tekniska.skelleftea.se
 inventering.tekniska.skelleftea.se
 svefaktura.skelleftea.se
-insidan.skelleftea.se
 bibliotek.skelleftea.se
 vaxer.skelleftea.se
 campingws.skelleftea.se
@@ -82,7 +79,7 @@ ume-dc-ise04.kommun.skelleftea.se
 turistinfo.skelleftea.se
 larande.skelleftea.se
 ns.kommun.skelleftea.se
-www.beta.skelleftea.se
+beta.skelleftea.se
 heartnet.kommun.skelleftea.se
 samastageta.skelleftea.se
 diariet.skelleftea.se
@@ -92,7 +89,6 @@ skeria.skelleftea.se
 metasharetest.skelleftea.se
 campusdc1.campus.skelleftea.se
 lamp.skola.skelleftea.se
-www.dmz.skelleftea.se
 webaccess.skelleftea.se
 multiaccessapi.dmz.skelleftea.se
 sanus.campus.skelleftea.se
@@ -104,7 +100,6 @@ mail.kommun.skelleftea.se
 www5.skelleftea.se
 nic.kommun.skelleftea.se
 backus.campus.skelleftea.se
-www.skeria.skelleftea.se
 spf2.skelleftea.se
 altiris.campus.skelleftea.se
 kartor.skelleftea.se
@@ -115,7 +110,7 @@ bokabyskehavsbad.skelleftea.se
 nic.skelleftea.se
 dc01.campus.skelleftea.se
 heartnet-pix.skeria.skelleftea.se
-www.securing.skelleftea.se
+securing.skelleftea.se
 portal.skelleftea.se
 multiaccess.skelleftea.se
 macpm1.skola.skelleftea.se
@@ -128,7 +123,6 @@ lamp02.skelleftea.se
 heartnet-vpn.skeria.skelleftea.se
 tietoeduapi.skelleftea.se
 web.dmz.skelleftea.se
-beta.skelleftea.se
 www5.dmz.skelleftea.se
 fluidfs1.campus.skelleftea.se
 wiki.biomine.skelleftea.se
@@ -154,10 +148,8 @@ pswebtest.kommun.skelleftea.se
 invest.skelleftea.se
 fluidfs0.campus.skelleftea.se
 skola.skelleftea.se
-www.kommun.skelleftea.se
 gw-srv2.skola.skelleftea.se
 apigw-int-test.kommun.skelleftea.se
-www.polaris.skelleftea.se
 skeguest01.skelleftea.se
 smtp.mjfhs.skelleftea.se
 webconf.skelleftea.se
@@ -181,5 +173,4 @@ biomine.skelleftea.se
 ske-t-metashare.kommun.skelleftea.se
 webaccess2.dmz.skelleftea.se
 ftp.skelleftea.se
-www.support.skelleftea.se
 rmft.skelleftea.se

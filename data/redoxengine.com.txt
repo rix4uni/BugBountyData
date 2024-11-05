@@ -1,9 +1,7 @@
-*.redoxengine.com
-*.10x.redoxengine.com
-*.ca.redoxengine.com
-*.gamma.redoxengine.com
-*.prod.redoxengine.com
 10x.redoxengine.com
+ca.redoxengine.com
+gamma.redoxengine.com
+prod.redoxengine.com
 10x.jenkins.redoxengine.com
 10xcarequality.redoxengine.com
 10xjenkins.redoxengine.com
@@ -21,7 +19,6 @@ betax.developer.redoxengine.com
 blob.redoxengine.com
 blob.gamma.redoxengine.com
 blog.redoxengine.com
-ca.redoxengine.com
 candi.redoxengine.com
 carequality.redoxengine.com
 clientcert.redoxengine.com
@@ -37,7 +34,6 @@ eets.redoxengine.com
 eets.gamma.redoxengine.com
 evening-earth.gamma.redoxengine.com
 explore.redoxengine.com
-gamma.redoxengine.com
 grafana.redoxengine.com
 grafana.10x.redoxengine.com
 help.redoxengine.com
@@ -59,7 +55,6 @@ mimir.redoxengine.com
 mimir.10x.redoxengine.com
 onboarding.redoxengine.com
 p8n20.redoxengine.com
-prod.redoxengine.com
 prod.jenkins.redoxengine.com
 prodelasticsearch.redoxengine.com
 prodjenkins.redoxengine.com
@@ -98,11 +93,6 @@ vpn.redoxengine.com
 webhooks.gamma.redoxengine.com
 webhooks10x.redoxengine.com
 wiki.redoxengine.com
-www.redoxengine.com
-www.icinga.redoxengine.com
-www.matrixcare.redoxengine.com
-www.sso.redoxengine.com
-www.testclientcert.ca.redoxengine.com
 admin.10x.redoxengine.com
 api-b.redoxengine.com
 api.ca.redoxengine.com

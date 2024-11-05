@@ -8,7 +8,6 @@ nats.indmoney.com
 apixt-fz.indmoney.com
 mf-ext.indmoney.com
 indcdn.indmoney.com
-www.indmoney.com
 updates.indmoney.com
 sentry.indmoney.com
 insurance-ext.indmoney.com
@@ -86,8 +85,6 @@ pre-prod-web.indmoney.com
 widget.indmoney.com
 crypto.indmoney.com
 widget-dev.indmoney.com
-*.indmoney.com
-*.internal.indmoney.com
 apixt-iw-test.indmoney.com
 backoffice-api.indmoney.com
 backoffice.indmoney.com

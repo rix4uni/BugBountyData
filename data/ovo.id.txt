@@ -1,8 +1,7 @@
-*.ovo.id
-*.aws.ovo.id
-*.corp.aws.ovo.id
-*.cp1.ovo.id
-*.settlement.ovo.id
+aws.ovo.id
+corp.aws.ovo.id
+cp1.ovo.id
+settlement.ovo.id
 aegis.ovo.id
 alpha.dududev.ovo.id
 android.ovo.id
@@ -11,7 +10,6 @@ api.cp6.ovo.id
 apigw-glb01.cp6.ovo.id
 apigw01.aws.ovo.id
 apigw01.cp1.ovo.id
-aws.ovo.id
 bastion.ovo.id
 bifrost.aws.ovo.id
 bigdata.ovo.id
@@ -21,8 +19,6 @@ cdn01.ovo.id
 cellblockui.ovo.id
 commander.ovo.id
 consul01.aws.ovo.id
-corp.aws.ovo.id
-cp1.ovo.id
 cp3.ovo.id
 cp6.ovo.id
 cybvpn20.ovo.id
@@ -67,7 +63,6 @@ postman.ovo.id
 ravier.ovo.id
 risk-grwap.cp6.ovo.id
 risk-ui.cp6.ovo.id
-settlement.ovo.id
 smtp-test.smtpcorp.ovo.id
 smtp01.smtpcorp.ovo.id
 smtp02.smtpcorp.ovo.id
@@ -96,14 +91,6 @@ tmp2-web.ovo.id
 tracker.ovo.id
 web-loyalty-admin.ovo.id
 webview.ovo.id
-www.ovo.id
-www.aegis.ovo.id
-www.daftar-merchant.ovo.id
-www.delivery.hello.ovo.id
-www.insurance.ovo.id
-www.merchant-signup.ovo.id
-www.pg.ovo.id
-www.pgdev.ovo.id
 xtramile.cp6.ovo.id
 link.ovo.id
 paylater.ovo.id
@@ -1192,7 +1179,7 @@ jenkins01.0-0115app.cp3.ovo.id
 api01.0-101-app.cp3.ovo.id
 stg-mexapi07.0-101-api.cp3.ovo.id
 0-101-app-019ba540autodiscover-forum.cp3.ovo.id
-www.0-101-ads.cp3.ovo.id
+0-101-ads.cp3.ovo.id
 0-101-app-01-ids-tw-okta-01-ablink8.cp3.ovo.id
 0-101-00d2000000008tfeay-administrator.cp3.ovo.id
 ad-shieldlite06-awsopac.0-101-app.cp3.ovo.id
@@ -3011,7 +2998,6 @@ db.0-101-ads.cp3.ovo.id
 stg-gt-gw01.sg.aws.ovo.id
 stg-meximus08.0-101-api.cp3.ovo.id
 0-101-api-00dj0000001rrymeaidb.cp3.ovo.id
-0-101-ads.cp3.ovo.id
 stg-spwl-perf96.sg.aws.ovo.id
 stg-risk5.sg.aws.ovo.id
 shieldlite06-awsopac.awsspcacheapp05.0-101-app.cp3.ovo.id
@@ -5492,8 +5478,6 @@ awstf.0-000000-blogs.cp3.ovo.id
 mexapi07.sg.aws.ovo.id
 0-101-api007zuqiubifendeveloper.cp3.ovo.id
 usrprofile04.sg.aws.ovo.id
-*.k8s.stg.aws.ovo.id
-*.pvt.k8s.stg.aws.ovo.id
 k8s.stg.aws.ovo.id
 pvt.k8s.stg.aws.ovo.id
 hello.ovo.id

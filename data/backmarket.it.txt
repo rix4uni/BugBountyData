@@ -13,9 +13,8 @@ py3preprod.backmarket.it
 staging2.story.backmarket.it
 py2.preprod.backmarket.it
 story.backmarket.it
-www.gtm.dev.backmarket.it
+gtm.dev.backmarket.it
 accounts.backmarket.it
-www.backmarket.it
 stories.backmarket.it
 oauth2.backmarket.it
 oauth2-prod-eu.backmarket.it
@@ -34,5 +33,4 @@ py2preprod.backmarket.it
 staging1.story.backmarket.it
 parcel-cdn.consegnato.backmarket.it
 dev.backmarket.it
-gtm.dev.backmarket.it
 py3.preprod.backmarket.it

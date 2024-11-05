@@ -289,11 +289,11 @@ plattform.dataplattform.sparebank1.no
 185-127-101-58.sparebank1.no
 test-1660540801837368311.devaws.sparebank1.no
 ws.gitpod-next2.test-dataplattform.sparebank1.no
-www.portalen.sparebank1.no
+portalen.sparebank1.no
 185-127-101-155.sparebank1.no
 merkevarebok.intern.sparebank1.no
 test-1674383259350777266.devaws.sparebank1.no
-www.nyheter.sparebank1.no
+nyheter.sparebank1.no
 185-127-100-181.sparebank1.no
 185-127-101-122.sparebank1.no
 185-127-101-38.sparebank1.no
@@ -308,7 +308,6 @@ lom-skjaak.sb1a.sparebank1.no
 test-1673276099906173960.devaws.sparebank1.no
 185-127-100-98.sparebank1.no
 waf.aws.sparebank1.no
-www.sarpsborg.sparebank1.no
 185-127-101-110.sparebank1.no
 login.kreditt.lofavor.qa.sparebank1.no
 test-1660830609851734902.devaws.sparebank1.no
@@ -344,7 +343,7 @@ grafana.aws.sparebank1.no
 test-1635252668920675861.devaws.sparebank1.no
 test-1638860691792478554.devaws.sparebank1.no
 test-1666698420866684809.devaws.sparebank1.no
-www.jevnakerlunner.sparebank1.no
+jevnakerlunner.sparebank1.no
 test-1678869919786379301.devaws.sparebank1.no
 qa.sparebank1.no
 test-1667910902502956111.devaws.sparebank1.no
@@ -375,13 +374,12 @@ test-1670871346252563657.devaws.sparebank1.no
 c7a3.gitpod-beta.test-dataplattform.sparebank1.no
 185-127-100-78.sparebank1.no
 test-1673809596469016932.devaws.sparebank1.no
-www.jevnaker.sparebank1.no
 185-127-100-13.sparebank1.no
 185-127-101-195.sparebank1.no
 185-127-101-34.sparebank1.no
 test-1659684964455399030.devaws.sparebank1.no
-www.eikerdrammen.sparebank1.no
-www.strommen.sparebank1.no
+eikerdrammen.sparebank1.no
+strommen.sparebank1.no
 dp-curly-guide.sb1u-dp.test-dataplattform.sparebank1.no
 gitpod-alpha.ostlandet.dataplattform.sparebank1.no
 185-127-101-102.sparebank1.no
@@ -437,7 +435,7 @@ test-1674717280218024398.devaws.sparebank1.no
 185-127-101-137.sparebank1.no
 185-127-101-147.sparebank1.no
 test-1677141275272633459.devaws.sparebank1.no
-www.pilot.intern.sparebank1.no
+pilot.intern.sparebank1.no
 8ac0.gitpod.test-dataplattform.sparebank1.no
 185-127-100-101.sparebank1.no
 test-1635252264960504433.devaws.sparebank1.no
@@ -471,7 +469,6 @@ test-1669807578174147497.devaws.sparebank1.no
 test-1677682979649043550.devaws.sparebank1.no
 185-127-100-191.sparebank1.no
 185-127-100-88.sparebank1.no
-www.rvs.sparebank1.no
 test-1664863159106012401.devaws.sparebank1.no
 test-1677832252930389965.devaws.sparebank1.no
 vault-aws-broker.dp-test.test-dataplattform.sparebank1.no
@@ -557,7 +554,7 @@ prometheus.dataplattform.sparebank1.no
 test-1630666537890198067.devaws.sparebank1.no
 test-1643375850832676238.devaws.sparebank1.no
 test-1643714945817757963.devaws.sparebank1.no
-www.raade.sparebank1.no
+raade.sparebank1.no
 ws.gitpod-beta.smn.test-dataplattform.sparebank1.no
 185-127-101-186.sparebank1.no
 185-127-100-197.sparebank1.no
@@ -668,7 +665,7 @@ test-1669439079351199064.devaws.sparebank1.no
 test-1673387161736438870.devaws.sparebank1.no
 test-1675800373117404473.devaws.sparebank1.no
 vault-test.sparebank1.no
-www.moss.sparebank1.no
+moss.sparebank1.no
 intern.app.prodaws.sparebank1.no
 test-1660417392717050930.devaws.sparebank1.no
 185-127-100-107.sparebank1.no
@@ -708,7 +705,6 @@ sparebank1utvikling-dp-test-domain.sb1u.test-dataplattform.sparebank1.no
 185-127-101-247.sparebank1.no
 185-127-101-56.sparebank1.no
 systembasen-seven.test.sparebank1.no
-raade.sparebank1.no
 185-127-101-141.sparebank1.no
 systembasen03.test.sparebank1.no
 test-1636454650956098370.devaws.sparebank1.no
@@ -775,7 +771,7 @@ test-1637765569799555386.devaws.sparebank1.no
 sparebank1utvikling-dataplattform-demo-repo.test-dataplattform.sparebank1.no
 67cd.gitpod.ostlandet.dataplattform.sparebank1.no
 test-1640022569329739504.devaws.sparebank1.no
-www.fredrikstad.sparebank1.no
+fredrikstad.sparebank1.no
 test-1638541688799153459.devaws.sparebank1.no
 test-1639047035453647301.devaws.sparebank1.no
 test-1676640407952015972.devaws.sparebank1.no
@@ -790,7 +786,7 @@ docker.intern.sparebank1.no
 test-1678099768048522226.devaws.sparebank1.no
 92e8.gitpod-alpha.dataplattform.sparebank1.no
 test-1646334796152913301.devaws.sparebank1.no
-www.vaaler.sparebank1.no
+vaaler.sparebank1.no
 185-127-100-85.sparebank1.no
 e-post.sparebank1.no
 test-1677232580773222327.devaws.sparebank1.no
@@ -819,7 +815,6 @@ sparebank1utvikling-robo-jackhammer.test-dataplattform.sparebank1.no
 test-1643314866293850443.devaws.sparebank1.no
 test-1667390734915418529.devaws.sparebank1.no
 test-1676988806316268768.devaws.sparebank1.no
-www.skade.sparebank1.no
 7851.gitpod-next.test-dataplattform.sparebank1.no
 intern.app.fremtind-test-app.devaws.sparebank1.no
 185-127-101-104.sparebank1.no
@@ -832,7 +827,7 @@ coder.test-dataplattform.sparebank1.no
 icc.intern.sparebank1.no
 gitpod-next2.test-dataplattform.sparebank1.no
 sparebank1utvikling-friendly-potato.test-dataplattform.sparebank1.no
-www.ski.sparebank1.no
+ski.sparebank1.no
 185-127-100-163.sparebank1.no
 185-127-100-236.sparebank1.no
 thanos-gitpod.nord-norge.dataplattform.sparebank1.no
@@ -876,7 +871,6 @@ test-1638515555684159472.devaws.sparebank1.no
 test-1643705587192192157.devaws.sparebank1.no
 test-1705992927826272141.devaws.sparebank1.no
 vault-aws-broker.sr.dataplattform.sparebank1.no
-www.kvinnherad.sparebank1.no
 gitpod.samspar.dataplattform.sparebank1.no
 185-127-100-3.sparebank1.no
 test-1643631584162986836.devaws.sparebank1.no
@@ -895,7 +889,7 @@ psono01.qa.sparebank1.no
 test-1630679121753544768.devaws.sparebank1.no
 test-1666166326524563407.devaws.sparebank1.no
 test-1674277473113564412.devaws.sparebank1.no
-www.lillestrom.sparebank1.no
+lillestrom.sparebank1.no
 sam-sponsor.sb1a.sparebank1.no
 test-1669611877123398211.devaws.sparebank1.no
 test-1674968678196385248.devaws.sparebank1.no
@@ -1026,7 +1020,7 @@ test-1674651229509238276.devaws.sparebank1.no
 test-1643373110143836985.devaws.sparebank1.no
 test-1706171065853036620.devaws.sparebank1.no
 test-1710748960328312614.devaws.sparebank1.no
-www.askim.sparebank1.no
+askim.sparebank1.no
 test-1664524357914135819.devaws.sparebank1.no
 test-1677301476134669926.devaws.sparebank1.no
 ciscoise02.elg.sparebank1.no
@@ -1069,7 +1063,6 @@ test-1661245658150690452.devaws.sparebank1.no
 185-127-101-121.sparebank1.no
 test-1630485804776276983.devaws.sparebank1.no
 test-1637060720704687815.devaws.sparebank1.no
-jevnakerlunner.sparebank1.no
 ws.gitpod.sr-bank.dataplattform.sparebank1.no
 185-127-101-152.sparebank1.no
 syslogrhcl01.dmz.sparebank1.no
@@ -1115,14 +1108,13 @@ test-1637321396215044772.devaws.sparebank1.no
 test-1643203516649583076.devaws.sparebank1.no
 test-1657257048375739809.devaws.sparebank1.no
 test-1674814298270035602.devaws.sparebank1.no
-www.grorud.sparebank1.no
+grorud.sparebank1.no
 acs1.sparebank1.no
 185-127-100-162.sparebank1.no
 test-1674191116911444775.devaws.sparebank1.no
 test-1674545725840089698.devaws.sparebank1.no
 test-1676384809534408709.devaws.sparebank1.no
 6877.gitpod-next.test-dataplattform.sparebank1.no
-www.gudbrandsdal.sparebank1.no
 185-127-101-252.sparebank1.no
 kredittkort2018.sparebank1.no
 attachments.sparebank1.no
@@ -1253,7 +1245,6 @@ test-1668762703882188899.devaws.sparebank1.no
 test-1675326164547943227.devaws.sparebank1.no
 test-1675427608776287560.devaws.sparebank1.no
 185-127-100-62.sparebank1.no
-www.gran.sparebank1.no
 185-127-101-242.sparebank1.no
 test-1660051807269199139.devaws.sparebank1.no
 semirandom.gitpod-alpha.ostlandet.dataplattform.sparebank1.no
@@ -1324,7 +1315,7 @@ test-1721895096328476281.devaws.sparebank1.no
 185-127-100-241.sparebank1.no
 test-1724400255365611465.devaws.sparebank1.no
 app.prodaws.sparebank1.no
-www.asker.sparebank1.no
+asker.sparebank1.no
 kundefront.app.dev.aws.sparebank1.no
 api-sb1sk-temp.prod.sparebank1.no
 ews.sparebank1.no
@@ -1381,11 +1372,10 @@ test-1661176619467021234.devaws.sparebank1.no
 test-1674481632991065149.devaws.sparebank1.no
 test-1677575468250225180.devaws.sparebank1.no
 test-1678712547879798013.devaws.sparebank1.no
-www.spo.sparebank1.no
+spo.sparebank1.no
 sparebank1utvikling-curly-goggles.test-dataplattform.sparebank1.no
 08b3.gitpod-alpha.dataplattform.sparebank1.no
 d21c.gitpod-beta.dataplattform.sparebank1.no
-www.oslo.sparebank1.no
 5338.gitpod-next.test-dataplattform.sparebank1.no
 test-1664268352363650755.devaws.sparebank1.no
 185-127-100-124.sparebank1.no
@@ -1505,7 +1495,6 @@ wsabc.gitpod-next.test-dataplattform.sparebank1.no
 portalmelding02.prod.sparebank1.no
 test-1675318549688534621.devaws.sparebank1.no
 test-1706610182205418588.devaws.sparebank1.no
-www.aksjehandel.sparebank1.no
 6d9d.gitpod-next.test-dataplattform.sparebank1.no
 185-127-101-199.sparebank1.no
 test-1630679056278269657.devaws.sparebank1.no
@@ -1533,7 +1522,7 @@ sparebank1utvikling-futw.test-dataplattform.sparebank1.no
 prod-int.sparebank1.no
 test-1630678069227236400.devaws.sparebank1.no
 test-1676272678956797678.devaws.sparebank1.no
-www.bekkestua.sparebank1.no
+bekkestua.sparebank1.no
 test-1677238683769744277.devaws.sparebank1.no
 185-127-101-112.sparebank1.no
 test-1660309247299396248.devaws.sparebank1.no
@@ -1542,9 +1531,8 @@ b7f9.gitpod-alpha.test-dataplattform.sparebank1.no
 eks.test-dataplattform.sparebank1.no
 pxedge03.video.sparebank1.no
 test-1630962812299967357.devaws.sparebank1.no
-www.haldensp.sparebank1.no
+haldensp.sparebank1.no
 advh-finansiering-dbt-sample.sb1u-dp.test-dataplattform.sparebank1.no
-www.sandsvar.sparebank1.no
 185-127-100-247.sparebank1.no
 test-1641288813241505640.devaws.sparebank1.no
 test-1657004437981020327.devaws.sparebank1.no
@@ -1636,12 +1624,12 @@ ac-marketing-sr.prod.sparebank1.no
 conf08.nettmote.sparebank1.no
 test-1678108935092215269.devaws.sparebank1.no
 test-1679515653236866863.devaws.sparebank1.no
-www.vestby.sparebank1.no
+vestby.sparebank1.no
 devns.devaws.sparebank1.no
 185-127-100-186.sparebank1.no
 iver.sparebank1.no
 185-127-100-109.sparebank1.no
-www.storo.sparebank1.no
+storo.sparebank1.no
 random4.gitpod-next.test-dataplattform.sparebank1.no
 sparebank1utvikling-laughing-octo-dollop2.test-dataplattform.sparebank1.no
 test-1656944487424987287.devaws.sparebank1.no
@@ -1772,13 +1760,12 @@ test.test-dataplattform.sparebank1.no
 185-127-101-180.sparebank1.no
 sam-guest.sb1a.sparebank1.no
 test-1675070819394572241.devaws.sparebank1.no
-www.hallingbanken.sparebank1.no
+hallingbanken.sparebank1.no
 svc.infra.prodaws.sparebank1.no
 test-1677702988497599672.devaws.sparebank1.no
 xyas.gitpod-next.test-dataplattform.sparebank1.no
 xyg.gitpod-next.test-dataplattform.sparebank1.no
 test-1670873361950699473.devaws.sparebank1.no
-www.aksess.sparebank1.no
 test-1659357902081358546.devaws.sparebank1.no
 test-1669619367227044423.devaws.sparebank1.no
 test-1677571114435661138.devaws.sparebank1.no
@@ -1835,7 +1822,6 @@ test-1667830289417408007.devaws.sparebank1.no
 satellite01.prod-int.sparebank1.no
 test-1632403799939373268.devaws.sparebank1.no
 test-1661260039160587648.devaws.sparebank1.no
-www.sparebank1.no
 185-127-100-126.sparebank1.no
 test-1661246040328126783.devaws.sparebank1.no
 test-1717575801100245107.devaws.sparebank1.no
@@ -1862,7 +1848,6 @@ test-1656339281052858383.devaws.sparebank1.no
 29bd.gitpod-next.test-dataplattform.sparebank1.no
 pressesenter.sparebank1.no
 test-1631003230805177990.devaws.sparebank1.no
-www.drammen.sparebank1.no
 dp-shiny-meme.sb1u-dp.test-dataplattform.sparebank1.no
 9dfe.gitpod-next.test-dataplattform.sparebank1.no
 fea8.gitpod-alpha.dataplattform.sparebank1.no
@@ -1930,7 +1915,6 @@ api.sb1sk-dev1.test.sparebank1.no
 6d47.gitpod-alpha.test-dataplattform.sparebank1.no
 185-127-101-167.sparebank1.no
 test-1659294246746546320.devaws.sparebank1.no
-www.nettmote.sparebank1.no
 gitpod-alpha.test-dataplattform.sparebank1.no
 gitpod-alpha-lol.test-dataplattform.sparebank1.no
 185-127-100-60.sparebank1.no
@@ -1951,7 +1935,7 @@ az.sparebank1.no
 185-127-101-161.sparebank1.no
 test-1675757304973748806.devaws.sparebank1.no
 test-1713945579325315346.devaws.sparebank1.no
-www.son.sparebank1.no
+son.sparebank1.no
 185-127-100-210.sparebank1.no
 dvhds05.test.sparebank1.no
 kundeforsikring-at.test.sparebank1.no
@@ -1978,7 +1962,6 @@ random.gitpod.test-dataplattform.sparebank1.no
 test-1673963231006502532.devaws.sparebank1.no
 test-1676574286150176946.devaws.sparebank1.no
 test-1717576680809633417.devaws.sparebank1.no
-www.oa.sparebank1.no
 185-127-100-28.sparebank1.no
 185-127-101-237.sparebank1.no
 digitalbank-repo.test.sparebank1.no
@@ -1993,7 +1976,6 @@ test-1636528765627199220.devaws.sparebank1.no
 test-1660050031067152705.devaws.sparebank1.no
 test-1675071748192976570.devaws.sparebank1.no
 test-1726547867299328624.devaws.sparebank1.no
-www.m.sparebank1.no
 dp-test-domain.sb1u-dp.test-dataplattform.sparebank1.no
 185-127-101-225.sparebank1.no
 test-1630657624772440343.devaws.sparebank1.no
@@ -2047,7 +2029,7 @@ digger-ava-test.aws.sparebank1.no
 docs.analyseplattform.sparebank1.no
 test-1643633256244215072.devaws.sparebank1.no
 test-1660626404867282094.devaws.sparebank1.no
-www.jessheim.sparebank1.no
+jessheim.sparebank1.no
 185-127-100-89.sparebank1.no
 test-1643290497022170680.devaws.sparebank1.no
 185-127-101-234.sparebank1.no
@@ -2097,10 +2079,7 @@ test-1718713771952200297.devaws.sparebank1.no
 test-1637224208424102881.devaws.sparebank1.no
 test-1643367599359348438.devaws.sparebank1.no
 test-1660135196652146764.devaws.sparebank1.no
-www.kongsberg.sparebank1.no
 185-127-100-175.sparebank1.no
-www.lomogskjaak.sparebank1.no
-www.eiendom.sparebank1.no
 login.kreditt.coop.test.sparebank1.no
 ostfold-akershus.sb1a.sparebank1.no
 test-1644836000297614404.devaws.sparebank1.no
@@ -2125,12 +2104,12 @@ clusterdev.devaws.sparebank1.no
 185-127-101-12.sparebank1.no
 185-127-101-46.sparebank1.no
 test-1660280740123301072.devaws.sparebank1.no
-www.valdres.sparebank1.no
+valdres.sparebank1.no
 06e9.gitpod.test-dataplattform.sparebank1.no
 185-127-100-76.sparebank1.no
 test-1643519027766931167.devaws.sparebank1.no
 test-1669724690009381839.devaws.sparebank1.no
-www.nittedal.sparebank1.no
+nittedal.sparebank1.no
 185-127-101-159.sparebank1.no
 185-127-101-99.sparebank1.no
 test-1658775886569094069.devaws.sparebank1.no
@@ -2163,9 +2142,9 @@ test-1673856538872758294.devaws.sparebank1.no
 dp-animated-engine.sb1u-dp.test-dataplattform.sparebank1.no
 survey.sparebank1.no
 test-1677596356584832318.devaws.sparebank1.no
-www.gjovik.sparebank1.no
+gjovik.sparebank1.no
 lofavor.test.sparebank1.no
-www.rygge.sparebank1.no
+rygge.sparebank1.no
 ws.gitpod.ostlandet.dataplattform.sparebank1.no
 demo.sparebank1.no
 login.kreditt.lbs.test.sparebank1.no
@@ -2225,9 +2204,7 @@ test-1673510296643215473.devaws.sparebank1.no
 nordvest.sb1a.sparebank1.no
 1bdf.gitpod-next.test-dataplattform.sparebank1.no
 test-1669402972470618640.devaws.sparebank1.no
-www.skoyen.sparebank1.no
-storo.sparebank1.no
-www.kredittkort.sparebank1.no
+skoyen.sparebank1.no
 ws.gitpod-alpha.smn.dataplattform.sparebank1.no
 test-1717583757681687472.devaws.sparebank1.no
 vault-aws-broker.dp.dataplattform.sparebank1.no
@@ -2245,10 +2222,8 @@ test-1666783035730355477.devaws.sparebank1.no
 test-1667907617158823971.devaws.sparebank1.no
 185-127-101-209.sparebank1.no
 185-127-101-6.sparebank1.no
-pilot.intern.sparebank1.no
 random3.gitpod-next.test-dataplattform.sparebank1.no
-www.lunner.sparebank1.no
-www.qa.sparebank1.no
+lunner.sparebank1.no
 3446.gitpod-next.test-dataplattform.sparebank1.no
 test-1659848634666499917.devaws.sparebank1.no
 test-1678741114556769517.devaws.sparebank1.no
@@ -2317,10 +2292,8 @@ test-1677223876845896297.devaws.sparebank1.no
 185-127-100-47.sparebank1.no
 a903.gitpod-alpha.dataplattform.sparebank1.no
 test-1657429546683899233.devaws.sparebank1.no
-www.liv.sparebank1.no
 ws.gitpod.dataplattform.sparebank1.no
 test-1677594318081156460.devaws.sparebank1.no
-www.modum.sparebank1.no
 test-1630429626857770815.devaws.sparebank1.no
 ff61.gitpod-beta.test-dataplattform.sparebank1.no
 ws.gitpod-alpha-2.test-dataplattform.sparebank1.no
@@ -2349,7 +2322,6 @@ test-1659422947411205150.devaws.sparebank1.no
 test-1630939636570458335.devaws.sparebank1.no
 test-1635174303184980095.devaws.sparebank1.no
 test-1659345675839456392.devaws.sparebank1.no
-www.app.dev.aws.sparebank1.no
 185-127-100-49.sparebank1.no
 185-127-101-217.sparebank1.no
 185-127-101-86.sparebank1.no
@@ -2375,7 +2347,6 @@ e749.gitpod-next.test-dataplattform.sparebank1.no
 imap4.sparebank1.no
 test-1630672040360666921.devaws.sparebank1.no
 test-1674643589932232001.devaws.sparebank1.no
-www.forsikring.sparebank1.no
 ail-eksternproxy.prod.sparebank1.no
 test-1643634247762999574.devaws.sparebank1.no
 test-1666869510856603846.devaws.sparebank1.no
@@ -2393,7 +2364,6 @@ test-1676634072531681955.devaws.sparebank1.no
 imre-kerr-sb1-imre-movies.test-dataplattform.sparebank1.no
 test-1674722736648026985.devaws.sparebank1.no
 test-1677141763489424693.devaws.sparebank1.no
-www.halden.sparebank1.no
 test-1698216288861904273.devaws.sparebank1.no
 test-1705939031139247772.devaws.sparebank1.no
 5960.gitpod.test-dataplattform.sparebank1.no
@@ -2428,7 +2398,6 @@ sam-ise2.sb1a.sparebank1.no
 test-1643346215286904990.devaws.sparebank1.no
 test-1675797723185480840.devaws.sparebank1.no
 velkommen.sparebank1.no
-www.nottero.sparebank1.no
 coop.qa.sparebank1.no
 ultra-super-unfriendly-meme.sb1u-dp.test-dataplattform.sparebank1.no
 d4e7.gitpod-next.test-dataplattform.sparebank1.no
@@ -2468,7 +2437,6 @@ b8ca.gitpod-next.test-dataplattform.sparebank1.no
 185-127-101-40.sparebank1.no
 185-127-101-51.sparebank1.no
 formue.sparebank1.no
-nyheter.sparebank1.no
 test-1639727365044669281.devaws.sparebank1.no
 5b76.gitpod-beta.test-dataplattform.sparebank1.no
 185-127-100-17.sparebank1.no
@@ -2500,7 +2468,6 @@ e351.gitpod-next.test-dataplattform.sparebank1.no
 test-1631026593337376768.devaws.sparebank1.no
 test-1637237391616210445.devaws.sparebank1.no
 test-1660194261754018942.devaws.sparebank1.no
-www.ringerike.sparebank1.no
 5a25.gitpod-alpha.test-dataplattform.sparebank1.no
 185-127-101-216.sparebank1.no
 sparebank1utvikling-ubiquitous-adventure.test-dataplattform.sparebank1.no
@@ -2559,7 +2526,6 @@ test-1659341383386518223.devaws.sparebank1.no
 test-1664823011366401238.devaws.sparebank1.no
 185-127-101-74.sparebank1.no
 test-1675796677380148327.devaws.sparebank1.no
-www.ksmb.sparebank1.no
 185-127-101-181.sparebank1.no
 iverapi.az.sparebank1.no
 jss.sparebank1.no
@@ -2613,7 +2579,6 @@ test-1638553973312886549.devaws.sparebank1.no
 bitbucket.intern.sparebank1.no
 blaaaaa.test-dataplattform.sparebank1.no
 test-1630046218595320701.devaws.sparebank1.no
-www.hallingdal.sparebank1.no
 aaaise03.sb1a.sparebank1.no
 autodiscover.modum.sparebank1.no
 185-127-100-216.sparebank1.no
@@ -2625,7 +2590,6 @@ test-1713529902393485528.devaws.sparebank1.no
 185-127-100-238.sparebank1.no
 185-127-100-48.sparebank1.no
 test-1662395753184700675.devaws.sparebank1.no
-www.spb-grenland.sparebank1.no
 test-1643623507818354141.devaws.sparebank1.no
 cjgsn.gitpod-alpha.dataplattform.sparebank1.no
 test-1643224670550227030.devaws.sparebank1.no
@@ -2650,22 +2614,12 @@ test-1644396319269758749.devaws.sparebank1.no
 systembasen01.test.sparebank1.no
 test-1663077593435897507.devaws.sparebank1.no
 test-1664356949434639543.devaws.sparebank1.no
-www.sign.sparebank1.no
 bnbank.test.sparebank1.no
 foo.test.sparebank1.no
 sparebank1utvikling-demo-repo.test-dataplattform.sparebank1.no
 notteroy-tonsberg.sponsorportalen.sparebank1.no
 185-127-100-42.sparebank1.no
 185-127-101-139.sparebank1.no
-*.gitpod-alpha.dataplattform.sparebank1.no
-*.plattform.dataplattform.sparebank1.no
-*.semirandom.gitpod-alpha.dataplattform.sparebank1.no
-*.ws.gitpod-alpha.dataplattform.sparebank1.no
-*.pg.clusterdev-nightly.devaws.sparebank1.no
-*.clusterdev-nightly.devaws.sparebank1.no
-*.modum.sparebank1.no
-*.nottero.sparebank1.no
-*.sponsorportalen.sparebank1.no
 satellite03.prod-int.sparebank1.no
 mwrga.gitpod-alpha.dataplattform.sparebank1.no
 satellite05.prod-int.sparebank1.no

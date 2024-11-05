@@ -12,14 +12,14 @@ smp2.cc.vt.edu
 sun-prod-app-esx.cc.vt.edu
 algoviz.cc.vt.edu
 classroomav.cc.vt.edu
-www.researchcomputing.cc.vt.edu
+researchcomputing.cc.vt.edu
 scooby.cc.vt.edu
 serenity.cc.vt.edu
 bob.cc.vt.edu
 box177.cc.vt.edu
 consort.cc.vt.edu
 dlrl.cc.vt.edu
-www.lockitdown.cc.vt.edu
+lockitdown.cc.vt.edu
 hardy.cc.vt.edu
 jerry.cc.vt.edu
 cgit02.cc.vt.edu
@@ -41,7 +41,7 @@ apple-techs.cc.vt.edu
 canyon.cc.vt.edu
 ensemble.cc.vt.edu
 foxhole.cc.vt.edu
-www.openlife01.cc.vt.edu
+openlife01.cc.vt.edu
 worf-www.cc.vt.edu
 arc02.cc.vt.edu
 ate.cc.vt.edu
@@ -69,7 +69,7 @@ bigkahuna.cc.vt.edu
 ecorridors.cc.vt.edu
 proxy.cc.vt.edu
 spyro.cc.vt.edu
-www.sas.cc.vt.edu
+sas.cc.vt.edu
 sun-prod-app.cc.vt.edu
 tom.cc.vt.edu
 380310370545749130.53ncstrl.cc.vt.edu
@@ -80,9 +80,8 @@ ocs.cc.vt.edu
 vtserf.cc.vt.edu
 uaserve.cc.vt.edu
 ate3.cc.vt.edu
-www.csdak.cc.vt.edu
+csdak.cc.vt.edu
 grimlock.cc.vt.edu
-lockitdown.cc.vt.edu
 pulsar.cc.vt.edu
 ate5.cc.vt.edu
 cgit04.cc.vt.edu
@@ -111,11 +110,9 @@ zeus-vhost.cc.vt.edu
 beckham.cc.vt.edu
 rhodes.cc.vt.edu
 solaris.cc.vt.edu
-www.cc.vt.edu
 courseware.cc.vt.edu
 gis04.cc.vt.edu
 holodeck.cc.vt.edu
-researchcomputing.cc.vt.edu
 test-search.cc.vt.edu
 spider01.cc.vt.edu
 algoviz-beta.cc.vt.edu
@@ -130,10 +127,8 @@ sun-test-app-esx.cc.vt.edu
 bb-prod-oltp-1.cc.vt.edu
 calsbarracuda.cc.vt.edu
 crabapple.cc.vt.edu
-openlife01.cc.vt.edu
 openlife02.cc.vt.edu
 tiamat.cc.vt.edu
-csdak.cc.vt.edu
 iscmcu1.cc.vt.edu
 neelix-fbox.cc.vt.edu
 opendsa.cc.vt.edu
@@ -170,7 +165,7 @@ cgit06.cc.vt.edu
 don.cc.vt.edu
 figo.cc.vt.edu
 handle.cc.vt.edu
-www.namaste.cc.vt.edu
+namaste.cc.vt.edu
 player.cc.vt.edu
 webistrator.cc.vt.edu
 orwell.cc.vt.edu
@@ -194,7 +189,6 @@ worf.cc.vt.edu
 hwala1.cc.vt.edu
 bugs.cc.vt.edu
 mcnair.cc.vt.edu
-namaste.cc.vt.edu
 wmtest.cc.vt.edu
 sun-dvlp-sql.cc.vt.edu
 rpa-prod-web.cc.vt.edu
@@ -210,7 +204,6 @@ depart-prod-1.cc.vt.edu
 hwala2.cc.vt.edu
 sun-dvlp-sql-esx.cc.vt.edu
 sun-prod-sql-esx.cc.vt.edu
-www.fishbowl.cc.vt.edu
 tcp-web-prod-1.cc.vt.edu
 tcp-web-prod-2.cc.vt.edu
 gasser18.cc.vt.edu
@@ -271,7 +264,6 @@ logview-prod-03.cc.vt.edu
 logqueue-prod-06.cc.vt.edu
 logview-prod-09.cc.vt.edu
 logview-prod-05.cc.vt.edu
-www.cgit04.cc.vt.edu
 logqueue-dev-04.cc.vt.edu
 logview-dev-06.cc.vt.edu
 logqueue-dev-02.cc.vt.edu
@@ -290,7 +282,6 @@ im.cc.vt.edu
 conference.cc.vt.edu
 m.csdak.cc.vt.edu
 m.fishbowl.cc.vt.edu
-www.capacity.cc.vt.edu
 capacity.cc.vt.edu
 m.capacity.cc.vt.edu
 wac.cc.vt.edu

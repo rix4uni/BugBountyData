@@ -1,4 +1,3 @@
-www.matthewlyon.net
 lts.matthewlyon.net
 smtp.matthewlyon.net
 imap.matthewlyon.net
@@ -11,7 +10,6 @@ carddav.matthewlyon.net
 proxy.matthewlyon.net
 testing.matthewlyon.net
 ftp.matthewlyon.net
-*.matthewlyon.net
 autodiscover.matthewlyon.net
 private.matthewlyon.net
 mail.matthewlyon.net

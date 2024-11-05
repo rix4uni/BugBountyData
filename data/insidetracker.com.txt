@@ -5,7 +5,6 @@ store.insidetracker.com
 support.insidetracker.com
 info.insidetracker.com
 blog.insidetracker.com
-*.insidetracker.com
 ambassador.insidetracker.com
 api-ambassador.insidetracker.com
 physician-test3-api.insidetracker.com
@@ -21,4 +20,3 @@ physician-api.insidetracker.com
 physician.insidetracker.com
 advisor.insidetracker.com
 ocr.insidetracker.com
-www.insidetracker.com

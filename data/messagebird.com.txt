@@ -52,7 +52,6 @@ messaging-staging.messagebird.com
 inbox-static.messagebird.com
 solutions.messagebird.com
 chat-cluster.messagebird.com
-www.messagebird.com
 out.messagebird.com
 eu-west-1.twilio.to.nest.messagebird.com
 mon-ext.messagebird.com
@@ -136,7 +135,6 @@ whatsapp-sandbox.messagebird.com
 kiwi.messagebird.com
 sip.messagebird.com
 eramba.messagebird.com
-www.chat.messagebird.com
 nl-son01.messagebird.com
 plume.messagebird.com
 git.messagebird.com
@@ -164,8 +162,6 @@ ab-inbev-staging.messagebird.com
 salesforce.messagebird.com
 marketingcloud-demo.messagebird.com
 whatsapppoet.messagebird.com
-www.blog.messagebird.com
-www.staging.chat.messagebird.com
 smpp01-blr1-do.messagebird.com
 marketingcloud-mep.messagebird.com
 inbox-staging.messagebird.com
@@ -204,7 +200,6 @@ mail01-ams03-do.messagebird.com
 fw01.nl-son01.messagebird.com
 integrations.messagebird.com
 lb.ap-south-1.nest.messagebird.com
-www.mms.messagebird.com
 peer01.sg1.sip.messagebird.com
 mail01-ams02-do.messagebird.com
 testing.messagebird.com
@@ -214,13 +209,11 @@ live.messagebird.com
 ap-south-1.nest.messagebird.com
 webrtc.eu-west-1.nest.messagebird.com
 peer01.apac1.sip.messagebird.com
-www.developers.messagebird.com
 platform.messagebird.com
 peer01.be1.sip.messagebird.com
 ha.global.sip.messagebird.com
 ilb.us-west-2.nest.messagebird.com
 intent.messagebird.com
 sbc-1.us-west-1.nest.messagebird.com
-www.cdn.messagebird.com
 lb.us-west-2.nest.messagebird.com
 fw01.nl-ams01.messagebird.com

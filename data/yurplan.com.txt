@@ -18,7 +18,6 @@ pro.yurplan.com
 master.stage.yurplan.com
 wiki.yurplan.com
 passbolt.yurplan.com
-www.yurplan.com
 externe.yurplan.com
 mini-site.yurplan.com
 test-aws.yurplan.com
@@ -29,5 +28,3 @@ lb.stage.yurplan.com
 pr-1234.stage.yurplan.com
 assets.yurplan.com
 waiting-room.yurplan.com
-*.stage.yurplan.com
-*.yurplan.com

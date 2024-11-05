@@ -1,6 +1,6 @@
-*.s3.am4.opera.technology
-*.s3.ams.opera.technology
-*.s3.trn.opera.technology
+s3.am4.opera.technology
+s3.ams.opera.technology
+s3.trn.opera.technology
 a01-06-02.feednews.opera.technology
 a01-06-03.feednews.opera.technology
 a01-06-04.feednews.opera.technology
@@ -1537,11 +1537,8 @@ s28-01-12.surfeasy.opera.technology
 s28-02-12.surfeasy.opera.technology
 s29-01-12.surfeasy.opera.technology
 s29-02-12.surfeasy.opera.technology
-s3.am4.opera.technology
-s3.ams.opera.technology
 s3.lati.opera.technology
 s3.singa.opera.technology
-s3.trn.opera.technology
 s30-01-12.surfeasy.opera.technology
 s30-02-12.surfeasy.opera.technology
 s30-14.opera.technology
@@ -1674,7 +1671,6 @@ vip03.lati.lb.opera.technology
 vip04.ams.lb.opera.technology
 vip04.lati.lb.opera.technology
 vop02.am4.lb.opera.technology
-www.s3.am4.opera.technology
 opensearch-dasboard.opera.technology
 opensearch-node1.opera.technology
 opensearch-node2.opera.technology
@@ -1769,7 +1765,6 @@ v114.proxmox-ams.opera.technology
 infra-gobblin.feednews.opera.technology
 transcoder-hadoop-1.feednews.opera.technology
 v0698.cr-01.ash.opera.technology
-www.opera.technology
 fn-singa-snat-2.feednews.opera.technology
 infra-zk-6.feednews.opera.technology
 v149.proxmox-ash.opera.technology

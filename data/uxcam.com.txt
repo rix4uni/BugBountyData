@@ -22,7 +22,6 @@ sdk.uxcam.com
 frontenddev.uxcam.com
 pythonapi-prod.uxcam.com
 kibana.uxcam.com
-www.uxcam.com
 websdk-recording.uxcam.com
 app.uxcam.com
 verify.uxcam.com
@@ -45,7 +44,6 @@ alphadashboard.uxcam.com
 s3.uxcam.com
 alphawebsite.uxcam.com
 newrestapi.uxcam.com
-www.blog.uxcam.com
 web.uxcam.com
 static-build.uxcam.com
 d31db5b1b4.us.verifysession.uxcam.com
@@ -67,5 +65,3 @@ acc89ab415.us.verifysession.uxcam.com
 integrated-platforms.uxcam.com
 websdk.uxcam.com
 1ce87a215a.us.verifysession.uxcam.com
-*.uxcam.com
-www.info.uxcam.com

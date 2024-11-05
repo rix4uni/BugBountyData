@@ -5,7 +5,6 @@ jobs.bitwage.com
 proxy4.bitwage.com
 api5.bitwage.com
 app.bitwage.com
-www.bitwage.com
 blog.bitwage.com
 support.bitwage.com
 docs.bitwage.com
@@ -76,13 +75,11 @@ premium.bitwage.com
 release.bitwage.com
 api.pay.qa.bitwage.com
 btc2.bitwage.com
-www.docs4.bitwage.com
 dev.bitwage.com
 admin.bitwage.com
 api.uat.bitwage.com
 proxy7.bitwage.com
 slackin.bitwage.com
-www.community.bitwage.com
 v2sandbox.bitwage.com
 app.sandbox.bitwage.com
 vpn.bitwage.com
@@ -92,4 +89,3 @@ worker2qa.bitwage.com
 join.bitwage.com
 btc.bitwage.com
 sandbox.bitwage.com
-*.sandbox.bitwage.com

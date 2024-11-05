@@ -1,4 +1,3 @@
-*.postmates.com
 02.email.postmates.com
 1046.payments-webhook.gke-stage.postmates.com
 1c169943774970fd802781293bb1337a.prod.us-west-1.postmates.com
@@ -1419,8 +1418,6 @@ webhooks.postmates.com
 work.postmates.com
 wristband.gke-prod.postmates.com
 wristband.gke-stage.postmates.com
-www.postmates.com
-www.blog.postmates.com
 api-stage.postmates.com
 api-v2.postmates.com
 deliver.postmates.com
@@ -1823,7 +1820,6 @@ ghcpi.nagios1.prod.us-west-1.postmates.com
 quanxunwanghebocaideguanxi.prod.us-west-1.postmates.com
 datanagios1.prod.us-west-1.postmates.com
 tracking.ibm.postmates.com
-www.stage.postmates.com
 los.prod.us-west-1.postmates.com
 engineering-scarletwitch.stage.postmates.com
 aomen368yulecheng.prod.us-west-1.postmates.com

@@ -186,7 +186,6 @@ worldwidewire.wwt.com
 wowzadmz.wwt.com
 www-dev.wwt.com
 www-test.wwt.com
-www.wwt.com
 zero.gitlab.labs.wwt.com
 zero.labs.wwt.com
 1password-standby.postgres-dev.wwt.com
@@ -2213,12 +2212,9 @@ wwtcom-assistant.aihub-snd-dc1.wwt.com
 wwtcom-assistant.aihub-snd.wwt.com
 wwtcom-assistant.aihub-tst.wwt.com
 wwtcom-assistant.aihub.wwt.com
-www.mobile.wwt.com
-www.prdxms01.wwt.com
-www.www2.wwt.com
+www2.wwt.com
 www2-dev.wwt.com
 www2-test.wwt.com
-www2.wwt.com
 xaas-contracts-gql-standby.postgres-dev.wwt.com
 xaas-contracts-gql-standby.postgres-tst.wwt.com
 xaas-contracts-gql-standby.postgres.wwt.com

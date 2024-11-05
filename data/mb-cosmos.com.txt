@@ -1,4 +1,3 @@
-*.mb-cosmos.com
 hubble.mb-cosmos.com
 lastline.mb-cosmos.com
 log.lastline.mb-cosmos.com
@@ -9,7 +8,6 @@ mb-stage-meps.mb-cosmos.com
 staging-hubble.mb-cosmos.com
 update.lastline.mb-cosmos.com
 user.lastline.mb-cosmos.com
-www.hubble.mb-cosmos.com
 api.mb-cosmos.com
 bg.mb-cosmos.com
 blitz.mb-cosmos.com
@@ -72,7 +70,6 @@ upload-api.mb-cosmos.com
 upload.mb-cosmos.com
 urlmanager.mb-cosmos.com
 virustotal.mb-cosmos.com
-www.mb-cosmos.com
 bactem-dev.mb-cosmos.com
 mb-prod-realtime.mb-cosmos.com
 mb-prod-blitz.mb-cosmos.com
@@ -115,7 +112,6 @@ one.two.three.mb-cosmos.com
 petroleum.mb-cosmos.com
 deis-dev.mb-cosmos.com
 staging-deis-ui.mb-cosmos.com
-www.staging.mb-cosmos.com
 kibana-dev.mb-cosmos.com
 dev-upload-api.mb-cosmos.com
 cosmos-prod-coreos-us-east-1e-00.mb-cosmos.com

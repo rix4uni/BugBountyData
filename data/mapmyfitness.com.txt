@@ -1,5 +1,4 @@
-*.mapmyfitness.com
-*.mvp.mapmyfitness.com
+mvp.mapmyfitness.com
 about.mapmyfitness.com
 adserver.mapmyfitness.com
 api.mapmyfitness.com
@@ -28,7 +27,6 @@ liveapi5.mapmyfitness.com
 main.panama.mapmyfitness.com
 multi.panama.mapmyfitness.com
 mvc.mapmyfitness.com
-mvp.mapmyfitness.com
 ox-d-ssl.mapmyfitness.com
 ox-i.mapmyfitness.com
 prod.panama.mapmyfitness.com
@@ -42,11 +40,8 @@ tdfaa-api.mapmyfitness.com
 test.panama.mapmyfitness.com
 wiki.dev.mapmyfitness.com
 ws.mapmyfitness.com
-www.mapmyfitness.com
-www.business.mapmyfitness.com
-www.landing.mapmyfitness.com
-*.fs-external.mapmyfitness.com
-*.run-external.mapmyfitness.com
+fs-external.mapmyfitness.com
+run-external.mapmyfitness.com
 335030-lincoln.mapmyfitness.com
 335032-garfield.mapmyfitness.com
 335032-kennedy.mapmyfitness.com
@@ -56,8 +51,5 @@ jefferson.mapmyfitness.com
 o1.ptr6327.mapmyfitness.com
 o5.sendgrid.mapmyfitness.com
 new.mapmyfitness.com
-*.developer.mapmyfitness.com
 developer.mapmyfitness.com
 developer-test.mapmyfitness.com
-run-external.mapmyfitness.com
-fs-external.mapmyfitness.com

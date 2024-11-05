@@ -1,7 +1,6 @@
 marketing-content.gener8ads.com
 refer.gener8ads.com
 alertmanager.gener8ads.com
-www.gener8ads.com
 releases.gener8ads.com
 partnerships.gener8ads.com
 email-assets.gener8ads.com
@@ -38,8 +37,6 @@ metabase.gener8ads.com
 dev-marketing.gener8ads.com
 dd.gener8ads.com
 bastion.gener8ads.com
-*.gener8ads.com
-*.apollo.gener8ads.com
 crm.gener8ads.com
 dd.staging.gener8ads.com
 hostmaster.gener8ads.com

@@ -358,7 +358,6 @@ tizen-smart-tv-beta.n638821.clients.dev.nrk.no
 bidra.n16271.clients.dev.nrk.no
 psint-transmissions-api.nrk.no
 podpush-dev.int.nrk.no
-www.stage.nrk.no
 n642666.clients.dev.nrk.no
 nrk-sso-plattform-int-eno-k8s-az-nrk-cloud.nrk.no
 fil.ftp.nrk.no
@@ -397,7 +396,6 @@ madmzsigmsag02.nrk.no
 nrk-sso-k8s-ne-nrkno-nonprod-gcp-nrk-cloud.nrk.no
 potion-dev.felles.ds.nrk.no
 sportsresultater.stage.nrk.no
-www.nrk.no
 atv.nrk.no
 eksperimenter.nrk.no
 n644736.clients.dev.nrk.no
@@ -834,7 +832,7 @@ nrk-sso-plattform-public-eno-k8s-nonprod-az-nrk-cloud.nrk.no
 ludo-test.dev.nrk.no
 innlogging-webproxy-stage.api.nrk.no
 kurator-ssehub-stage.nrk.no
-www.yr.stage.nrk.no
+yr.stage.nrk.no
 kurator-api-vm.nrk.no
 n645863.akamai-test-domain.nrk.no
 radioarkiv-dev-new.int.nrk.no
@@ -928,7 +926,7 @@ monitor.n653706.clients.dev.nrk.no
 n635998.clients.dev.nrk.no
 nrk-sso-plattform-cdn-weu-k8s-az-nrk-cloud.nrk.no
 prod.kibana.we.innlogging.nrk.no
-www.malxsigmgr01.felles.ds.nrk.no
+malxsigmgr01.felles.ds.nrk.no
 votes-generic-admin-api-nonprod.nrk.no
 innlogging.n648405.clients.dev.nrk.no
 madns01.nrk.no
@@ -1307,7 +1305,6 @@ ipam.nrk.no
 preview.nrk.no
 site3.dev.nrk.no
 timesfiler.nrk.no
-www.preprod.nrk.no
 radio-interaction.nrk.no
 nord-scheduler-dev.nrk.no
 radio-web-smart-app-banner-preprod-int.nrk.no
@@ -1420,7 +1417,6 @@ app.n637831.clients.dev.nrk.no
 hest-innlogging.nrk.no
 m.stage.nrk.no
 kurator-ssehub.nrk.no
-malxsigmgr01.felles.ds.nrk.no
 midas-client.n644721.clients.dev.nrk.no
 radio-web-test.nrk.no
 podkast.nrk.no
@@ -1428,7 +1424,6 @@ elastic5.nrk.no
 kurator-front-office.nrk.no
 nl.nrk.no
 radio-web-fixsqueezylive-stage-int.nrk.no
-www.signiant.nrk.no
 dh-test.nrk.no
 kurator-api.kube.nrk.no
 admin.api.maskorama.intern.nrk.no

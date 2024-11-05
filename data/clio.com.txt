@@ -1,12 +1,11 @@
 nginx-plus.beta.clio.com
 proxy.account.clio.com
 jstest04.beta.clio.com
-www.dxd.clio.com
+dxd.clio.com
 referralprogram.clio.com
 us.grow.clio.com
 ca.status.clio.com
 revert-24119-revert-23909-clio-67744.beta.clio.com
-www.clio.com
 000111-gmail-general-beta.beta.clio.com
 ha-proxy.beta.clio.com
 clio-68655-firm-calendar-as-attendee.beta.clio.com
@@ -20,7 +19,7 @@ master-adam.beta.clio.com
 card-scroll-demo.beta.clio.com
 clivebarkershalloween.cool-events.beta.clio.com
 m.clio.com
-www.consultants.clio.com
+consultants.clio.com
 clio-67834-cleanup-feature-announcement.beta.clio.com
 docs.developers.clio.com
 ci.clio.com
@@ -59,11 +58,11 @@ clio-70000-hard-cost-payment-je-2.beta.clio.com
 eu.grow.clio.com
 igtm.clio.com
 clio-68729.beta.clio.com
-www.culture.clio.com
+culture.clio.com
 money-49475-payment-plan-stop-modal.beta.clio.com
 nicholas-ws-backend.beta.clio.com
 nginx-api.beta.clio.com
-www.suncallhome.clio.com
+suncallhome.clio.com
 too-many-documents-header-fix.beta.clio.com
 au.app.clio.com
 au.admin.clio.com
@@ -120,10 +119,8 @@ connect.probono.clio.com
 ny.probono.clio.com
 au.status.grow.clio.com
 au.status.clio.com
-culture.clio.com
 community.clio.com
 billing.clio.com
-www.clients.clio.com
 eu.status.grow.clio.com
 developer.clio.com
 status.clio.com
@@ -155,23 +152,17 @@ payments.clio.com
 eu.developers.clio.com
 staging.draft.clio.com
 questionnaires.clio.com
-*.staging.grow.clio.com
 staging-proxy.docusign.clio.com
 accounting.clio.com
-dxd.clio.com
-*.beta.clio.com
-consultants.clio.com
-www.labs.clio.com
+beta.clio.com
 us.nps.clio.com
 nps.clio.com
 nginx-plus-app-01.beta.clio.com
 staging-marketing.clio.com
-beta.clio.com
 test2.grow-smash.beta.clio.com
 advocates.clio.com
 docusign.clio.com
 staging-cloudfront.clio.com
-*.clio.com
 _saml-domain-challenge.clio.com
 abc.clio.com
 americanhistory.abc.clio.com
@@ -216,15 +207,13 @@ vrmzw.www.clio.com
 webqq2.api-docs.clio.com
 wikiv2dbms-opsdefaultproduction.www.clio.com
 www-0-8-7.questionnaires.clio.com
-www.123.clio.com
-www.abc.clio.com
-www.ancienthistory.abc.clio.com
-www.ancienthistory.anc.clio.com
-www.app.clio.com
-www.clubuldeistorie.clio.com
-www.renault.clio.com
-www.socialstudies.abc.clio.com
-www.stategeography.abc.clio.com
+123.clio.com
+ancienthistory.abc.clio.com
+ancienthistory.anc.clio.com
+clubuldeistorie.clio.com
+renault.clio.com
+socialstudies.abc.clio.com
+stategeography.abc.clio.com
 zendesk1.clio.com
 zendesk2.clio.com
 zendesk3.clio.com
@@ -285,7 +274,7 @@ sales-tool-demo.beta.clio.com
 smart-payment-page.beta.clio.com
 smart-payments-demo.beta.clio.com
 tes.bedo-id.clio.com
-www.ec2.clio.com
+ec2.clio.com
 404: not found_saml-domain-challenge.clio.com
 a8g-trust-reconciliation-prototype.beta.clio.com
 cliocon-appcues.beta.clio.com
@@ -384,7 +373,7 @@ eascovideosnov.staging.grow.clio.com
 admincovideos-ebscovideoseos.staging.grow.clio.com
 clio-43852-trust-amount-disabled.beta.clio.com
 mobile-text-msgs.beta.clio.com
-www.worldhistory2.abc.clio.com
+worldhistory2.abc.clio.com
 chef-ebscovideos10.staging.grow.clio.com
 apache-ebscovideoscovideosebscolaxdeos.staging.grow.clio.com
 eacovideosscovideosboxovideos.staging.grow.clio.com
@@ -723,7 +712,7 @@ e10scovideoscovideosauthorization--e10scovideoscovideos.staging.grow.clio.com
 mcarruthers.beta.clio.com
 2012covideoscovideosebscovideos.staging.grow.clio.com
 grow-qbo8.beta.clio.com
-www.amazing.clio.com
+amazing.clio.com
 accountings-ebscovideos.staging.grow.clio.com
 matter-team-permissions.beta.clio.com
 mobile-continuity-poc.beta.clio.com
@@ -755,7 +744,6 @@ apache-ebscovideoscovideosebscocms1ideos.staging.grow.clio.com
 data-ebscovideoscovideoseconfscovideos.staging.grow.clio.com
 eactivescovideos-edev1scovideos.staging.grow.clio.com
 eadmscovideos-demoscovideoseos.staging.grow.clio.com
-www.go.clio.com
 acceptebscovideoscovideos.staging.grow.clio.com
 upgrade-webpacker.beta.clio.com
 demo-ebscovideos-box--demo-ebscovideos.staging.grow.clio.com
@@ -1110,7 +1098,7 @@ parker.beta.clio.com
 bounceovideosorigineos.staging.grow.clio.com
 10covideos4eos.staging.grow.clio.com
 payinf-add-logging-for-get-payout-stripe.beta.clio.com
-www.socialstudies.abc-clio.clio.com
+socialstudies.abc-clio.clio.com
 ctlcovideosds.staging.grow.clio.com
 15covideosracking.staging.grow.clio.com
 17ebscovideosnternaleos.staging.grow.clio.com
@@ -1170,7 +1158,7 @@ customercovideos-gateway.staging.grow.clio.com
 boardscovideoscovideos-docsscovideos.staging.grow.clio.com
 boardscovideoscovideostgcovideos.staging.grow.clio.com
 demo-ebscovideos021covideos.staging.grow.clio.com
-www.g.clio.com
+g.clio.com
 apiserverebscovideosghovideos.staging.grow.clio.com
 2017covideoscovideos-page.staging.grow.clio.com
 designcovideoscovilaneos.staging.grow.clio.com
@@ -1190,7 +1178,6 @@ app-integrations.beta.clio.com
 brasilelbeos.staging.grow.clio.com
 apiserverebscovideos-ebscovideosdeos.staging.grow.clio.com
 docsapi-ebscovideos1ebscovideosideos.staging.grow.clio.com
-worldhistory2.abc.clio.com
 adsebscovideosebscodevelopideos.staging.grow.clio.com
 apaccovideos-ebscovideoscovideos.staging.grow.clio.com
 account-ebscovideosddon.staging.grow.clio.com
@@ -1409,7 +1396,7 @@ brasil-2012--brasil.staging.grow.clio.com
 e10scovideoscovideos-ebspartnerovideos.staging.grow.clio.com
 eb2012-ebscovideosideos.staging.grow.clio.com
 beta359955ounter5ebscovideosdeos.staging.grow.clio.com
-www.amercianhistory.abc.clio.com
+amercianhistory.abc.clio.com
 eakalicovideosscovideos-ebscovideosdeos.staging.grow.clio.com
 designs-ebscovideoseappscovideos.staging.grow.clio.com
 brasils-ebscovideos.staging.grow.clio.com
@@ -1508,7 +1495,6 @@ bounceovideos-ebscomarchideos.staging.grow.clio.com
 payment-plans-feature.beta.clio.com
 9ebscovideos-deveos.staging.grow.clio.com
 demo-ebscovideos-repo-demo-ebscovideos.staging.grow.clio.com
-www.forum.clio.com
 e13ebscovideosscovideoscovideos-toolbar.staging.grow.clio.com
 e13ebscovideosscovideosbucketcovideos.staging.grow.clio.com
 campaign-ebscovideostesting-campaign-ebscovideos.staging.grow.clio.com
@@ -2041,7 +2027,7 @@ easanacovideosscovideosaccept.staging.grow.clio.com
 accounts-confovideos.staging.grow.clio.com
 apidocs-ebscovideosebscoviautheos.staging.grow.clio.com
 authorizationebscovideoseng.staging.grow.clio.com
-www.databass.abc.clio.com
+databass.abc.clio.com
 develebscovideoscovideos-ebscosdeos.staging.grow.clio.com
 2017covideosapi-ebscovideos.staging.grow.clio.com
 develebscovideoscovideos-documentsscovideos.staging.grow.clio.com
@@ -2277,7 +2263,7 @@ betaeacon-docsscovideosideos.staging.grow.clio.com
 disbursement-category-tax-prototype.beta.clio.com
 clients-money-96328-go-back-when-payment-failed.beta.clio.com
 cms1-ebscovideoscovideos--cms1-ebscovideoscovideos-firewall.staging.grow.clio.com
-www.americahhistory.abc.clio.com
+americahhistory.abc.clio.com
 accountseveloper.staging.grow.clio.com
 democovideoscovideosaprileos.staging.grow.clio.com
 e13ebscovideosscovideos11.staging.grow.clio.com
@@ -2833,7 +2819,6 @@ betaafka-ebspartnerovideos.staging.grow.clio.com
 beta359955-speappscovideos.staging.grow.clio.com
 front-mail.draft.clio.com
 cert-ebscovideos-masterscovideos.staging.grow.clio.com
-www.americanhistory.abc.clio.com
 admincovideos-demoscovideoseos.staging.grow.clio.com
 e10ebscovideosscovideosk8s.staging.grow.clio.com
 e6ebscovideosscovideose-ebscovideos.staging.grow.clio.com
@@ -3276,7 +3261,6 @@ cert-ebscovideos.staging.grow.clio.com
 betaafka-redirect.staging.grow.clio.com
 account-stage1covideos.staging.grow.clio.com
 e3scovideoscovideos-ebsgetterovideos.staging.grow.clio.com
-socialstudies.abc.clio.com
 apidocs-ebscovideos-ebscosdeos.staging.grow.clio.com
 15covideosek8sscovideos.staging.grow.clio.com
 account-ebscovideoselastic-account-ebscovideos.staging.grow.clio.com
@@ -3500,7 +3484,7 @@ eapplicationscovideosscovideosk8s.staging.grow.clio.com
 lem.beta.clio.com
 cert-ebscovideostrain.staging.grow.clio.com
 betavcovideos-reviews.staging.grow.clio.com
-www.gea.clio.com
+gea.clio.com
 communitycovideoscovideos1-ebscovideosideos.staging.grow.clio.com
 2012covideoscovideosing.staging.grow.clio.com
 authorizationebscovideosapidocs.staging.grow.clio.com
@@ -3548,7 +3532,7 @@ consolecovideos.staging.grow.clio.com
 boardscovideoscovideosebsco5deos.staging.grow.clio.com
 e13ebscovideosscovideoscovideos.staging.grow.clio.com
 communitycovideoscovideosebscovideos.staging.grow.clio.com
-www.history.abc.clio.com
+history.abc.clio.com
 acceptebscovideos.staging.grow.clio.com
 boardssupportovideos.staging.grow.clio.com
 admincovideosebsco5deos.staging.grow.clio.com
@@ -3567,7 +3551,7 @@ ctlcovideos--ctlcovideostraffic.staging.grow.clio.com
 clients-graph2.beta.clio.com
 easanascovideos-esecurescovideos.staging.grow.clio.com
 e10scovideoscovideosauthentication.staging.grow.clio.com
-www.socialsttudies.abc.clio.com
+socialsttudies.abc.clio.com
 e15scovideoss.staging.grow.clio.com
 designs-ebscovideos-ebscovideosovideos.staging.grow.clio.com
 developers-ebscovideoscc.staging.grow.clio.com
@@ -3694,7 +3678,6 @@ communitycovideoscovideosforms--communitycovideoscovideos.staging.grow.clio.com
 beta359955ounterfrontpage--beta359955ounter.staging.grow.clio.com
 10covideosprivovideos.staging.grow.clio.com
 15covideos-eregionscovideos.staging.grow.clio.com
-www.apps.clio.com
 docsapi-ebscovideos.staging.grow.clio.com
 democovideoscovideosigncovideos.staging.grow.clio.com
 data-ebscovideoscovideos-swag.staging.grow.clio.com
@@ -3727,7 +3710,7 @@ applications-kubernetes-applications.staging.grow.clio.com
 communitycovideoscovideosatecovideos.staging.grow.clio.com
 eacovideosscovideosing.staging.grow.clio.com
 apaccovideos-edge.staging.grow.clio.com
-www.world.geography.abc.clio.com
+world.geography.abc.clio.com
 49row-docsscovideos.staging.grow.clio.com
 easanacovideosscovideosrepository-easanacovideosscovideos.staging.grow.clio.com
 apiserverebscovideospc.staging.grow.clio.com
@@ -3967,7 +3950,7 @@ e3scovideoscovideos1.staging.grow.clio.com
 e3scovideoscovideosebscovideosdeos.staging.grow.clio.com
 beta359955-sp-ebscovideosideos.staging.grow.clio.com
 eakalicovideosscovideos-authorization.staging.grow.clio.com
-www.amazin.clio.com
+amazin.clio.com
 apache-ebscovideoscovideospi.staging.grow.clio.com
 customer-development.staging.grow.clio.com
 admincovideoscertovideos.staging.grow.clio.com
@@ -4038,7 +4021,7 @@ administratorebscovideosuthentication.staging.grow.clio.com
 account-ebscopluginsideos.staging.grow.clio.com
 customerebscoopdeos.staging.grow.clio.com
 cust62wag.staging.grow.clio.com
-www.cbel.clio.com
+cbel.clio.com
 easanacovideosscovideoscovideos-prod.staging.grow.clio.com
 49rows-49row.staging.grow.clio.com
 9ebscovideos-documentsscovideos.staging.grow.clio.com
@@ -4126,7 +4109,6 @@ campaign-ebscovideosuctionscovideos.staging.grow.clio.com
 customercovideoselastic-customercovideos.staging.grow.clio.com
 eamericacovideosscovideos-sync3eoscovideos.staging.grow.clio.com
 graph1.beta.clio.com
-www.americangovernment.abc.clio.com
 alicja-nginx-test-1.beta.clio.com
 demoovideos-ebscoviaccountseos.staging.grow.clio.com
 confluence-ebscovideoscovideos-ebscovideosovideos.staging.grow.clio.com
@@ -4267,7 +4249,6 @@ betav-ebscocms1ideos.staging.grow.clio.com
 te-testing.beta.clio.com
 10covideos-ebscok8s-devideos.staging.grow.clio.com
 develebscovideoscovideos-asanascovideos.staging.grow.clio.com
-stategeography.abc.clio.com
 democovideoscovideosdocs.staging.grow.clio.com
 account-ebscovideosnorthamerica--account-ebscovideos.staging.grow.clio.com
 communitycovideoscovideos-integration.staging.grow.clio.com
@@ -4303,7 +4284,7 @@ outlook-axios-upgrade.beta.clio.com
 e10ebscovideosscovideos-prod.staging.grow.clio.com
 developers-ebscovideos.staging.grow.clio.com
 apaccovideosfw--apaccovideos.staging.grow.clio.com
-www.app.go.clio.com
+app.go.clio.com
 authorizationebscovideosic-ebscovideos.staging.grow.clio.com
 money-114643-unlink-smart-payment-matter.beta.clio.com
 democovideoscovideoscovideosdocuments.staging.grow.clio.com
@@ -4418,11 +4399,10 @@ eactivescovideos.staging.grow.clio.com
 cert-ebscovideos-ebscovideosscovideos.staging.grow.clio.com
 administratorebscovideos-ebscovi16eos.staging.grow.clio.com
 themis-60092-refactor.beta.clio.com
-www.databases.abc.clio.com
 accountingebscovipaymenteos.staging.grow.clio.com
 eactivescovideos-eorgscovideos.staging.grow.clio.com
 8covideos-kubectlovideos.staging.grow.clio.com
-www.socialstudies.com-abc.clio.com
+socialstudies.com-abc.clio.com
 cust600-ebscovideos.staging.grow.clio.com
 customercovideosovideos.staging.grow.clio.com
 12-ebscovideos--12-ebscovideosmgmt.staging.grow.clio.com
@@ -4542,14 +4522,13 @@ chef-ebscovideoslanideos.staging.grow.clio.com
 e3scovideoscovideosicovideos.staging.grow.clio.com
 2017covideoscoteamideos.staging.grow.clio.com
 e15scovideos-ebscoapplicationideos.staging.grow.clio.com
-www.ap.clio.com
+ap.clio.com
 bounceovideosapache.staging.grow.clio.com
 account-ebscovideosollo.staging.grow.clio.com
 administratorebscovideos-engineideos.staging.grow.clio.com
 cert-ebscovideosicovideos.staging.grow.clio.com
 e10scovideoscovideos-servereos.staging.grow.clio.com
 apidocs-ebscovideosing.staging.grow.clio.com
-ancienthistory.abc.clio.com
 adsebscovideos-ebscovideosovideos.staging.grow.clio.com
 49rowafka.staging.grow.clio.com
 10covideosstage1.staging.grow.clio.com
@@ -4733,7 +4712,7 @@ confluence-ebscovideoscovideos-webapp.staging.grow.clio.com
 grow-qbo1.beta.clio.com
 applications-webapp.staging.grow.clio.com
 easanacovideosscovideos-emachinescovideos.staging.grow.clio.com
-www.fares.clio.com
+fares.clio.com
 apache-ebscovideoscovideos7.staging.grow.clio.com
 administratorebscovideosaccept.staging.grow.clio.com
 e2018scovideoss-ebscovideos.staging.grow.clio.com
@@ -4799,7 +4778,6 @@ applicationscoviservereos.staging.grow.clio.com
 chef-ebscovideos21.staging.grow.clio.com
 12-ebscovideoscovideos.staging.grow.clio.com
 cms1-ebscovideoscovideos--cms1-ebscovideoscovideosdevelop.staging.grow.clio.com
-www.worldgeography.abc.clio.com
 eamericacovideosscovideos-esearchscovideos.staging.grow.clio.com
 eamericacovideosscovideos-edge.staging.grow.clio.com
 e3scovideoscovideos-septcovideos.staging.grow.clio.com
@@ -4826,7 +4804,6 @@ e2018scovideoscovideos-prod.staging.grow.clio.com
 customerspringeos.staging.grow.clio.com
 synack-pentest-2.beta.clio.com
 betav-septcovideos.staging.grow.clio.com
-www.worldhistory.abc.clio.com
 cert-ebscovideos-ebsdevelopmentovideos.staging.grow.clio.com
 easanacovideosscovideoscovideoscovideos.staging.grow.clio.com
 develebscovideoscovideos8.staging.grow.clio.com
@@ -4967,7 +4944,7 @@ eakalicovideosscovideos-ebscocideos.staging.grow.clio.com
 e6ebscovideosscovideos-emachinescovideos.staging.grow.clio.com
 betaafkaebscovitest2eos.staging.grow.clio.com
 8covideos-chd.staging.grow.clio.com
-www.glencoe.abc.clio.com
+glencoe.abc.clio.com
 applicationebscovideosebscocms1ideos.staging.grow.clio.com
 eadmscovideos-eadmscovideos.staging.grow.clio.com
 communitycovideoscovideoscdnideos.staging.grow.clio.com
@@ -5094,7 +5071,6 @@ graph4.beta.clio.com
 eapplicationscovideosscovideos-cms.staging.grow.clio.com
 clio-41811-remove-contacts-staged-rollout.beta.clio.com
 trust-reconciliation.beta.clio.com
-www.m.app.clio.com
 49rowrain.staging.grow.clio.com
 account-ebscovideos--account-ebscovideos-3.staging.grow.clio.com
 docsdeos-ebscovideoscovideos.staging.grow.clio.com

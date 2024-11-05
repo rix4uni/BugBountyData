@@ -2,13 +2,13 @@ internal-mirror.proserve.nl
 os21909.proserve.nl
 finkerfinance.insights.services.proserve.nl
 wms6.proserve.nl
-www.rundeck-test.proserve.nl
+rundeck-test.proserve.nl
 da253.proserve.nl
 dns-proserve-west-be02.proserve.nl
 pvm11977.proserve.nl
 vm16983.proserve.nl
-www.log-dpl.proserve.nl
-www.vb365portal.proserve.nl
+log-dpl.proserve.nl
+vb365portal.proserve.nl
 demo.services.proserve.nl
 intern-vobs-archief.proserve.nl
 observium.proserve.nl
@@ -57,7 +57,7 @@ svprntu01.int.proserve.nl
 vm10117.proserve.nl
 vm11293.proserve.nl
 vm685.proserve.nl
-www.mijn.proserve.nl
+mijn.proserve.nl
 cm-83y.proserve.nl
 cm-dc-forward-stg.services.proserve.nl
 da287.proserve.nl
@@ -71,8 +71,8 @@ vm303.proserve.nl
 vm893.proserve.nl
 cm-83-97-151-137.t-space.by.proserve.nl
 da207.proserve.nl
-www.ldap.proserve.nl
-www.dns.proserve.nl
+ldap.proserve.nl
+dns.proserve.nl
 fw1.single2.agilexs.proserve.nl
 node2.openshift.mboogert.vcloud.proserve.nl
 pvm16437.proserve.nl
@@ -103,7 +103,7 @@ ccvshop.insights.services.proserve.nl
 dns-proserve-south-be02.proserve.nl
 dns-shared-east-be02.proserve.nl
 ge-1-3-0-1011.cr2.be.proserve.nl
-www.insightvm.proserve.nl
+insightvm.proserve.nl
 procam2.eun.proserve.nl
 rdtest.proserve.nl
 vm10982.proserve.nl
@@ -149,8 +149,8 @@ fw1.cluster1.mgt.proserve.nl
 apache.proserve.nl
 usm01.proserve.nl
 da10476.proserve.nl
-www.machpanel.proserve.nl
-www.outbound02.he.proserve.nl
+machpanel.proserve.nl
+outbound02.he.proserve.nl
 web05-a.bll.simpel.proserve.nl
 backup4.proserve.nl
 bt-pt-prod-db04.brandtech.proserve.nl
@@ -164,7 +164,7 @@ spidey.proserve.nl
 svprap16.int.proserve.nl
 vm10439.proserve.nl
 vm16513.proserve.nl
-www.rundeck.proserve.nl
+rundeck.proserve.nl
 bt-pt-prod-app03.brandtech.proserve.nl
 mailbox-api.ccvshop.proserve.nl
 puppet-acc.proserve.nl
@@ -180,7 +180,7 @@ vm224.proserve.nl
 backoffice01.prod.transfollow.proserve.nl
 cm-83-97-149-183.telace.by.proserve.nl
 purchase.icecreamreip-space.by.proserve.nl
-www.log-nca-es-004.hypernode.proserve.nl
+log-nca-es-004.hypernode.proserve.nl
 eyed.proserve.nl
 da238.proserve.nl
 staging.status.proserve.nl
@@ -210,7 +210,7 @@ vm10756.proserve.nl
 vm897.proserve.nl
 parallels.proserve.nl
 pvm10374.proserve.nl
-www.spamgw01.proserve.nl
+spamgw01.proserve.nl
 registry.proserve.nl
 ash.abuseio.proserve.nl
 demo-servicedesk.proserve.nl
@@ -228,7 +228,7 @@ prometheus.happypasta.proserve.nl
 pvm14539.proserve.nl
 vm11980.proserve.nl
 vm275.proserve.nl
-www.bosch.proserve.nl
+bosch.proserve.nl
 donkey.proserve.nl
 gw15.rt.ams.proserve.nl
 muiswerk-web22.muiswerk.proserve.nl
@@ -265,7 +265,7 @@ dns-proserve-east-be01.proserve.nl
 test.status.proserve.nl
 vm16501.proserve.nl
 vm930.proserve.nl
-www.vb365portaltm.proserve.nl
+vb365portaltm.proserve.nl
 www01-acc.otravo.proserve.nl
 demo-demo-review-feature-1-cg6too.k8s.famouscake.proserve.nl
 pvm11121.proserve.nl
@@ -346,17 +346,17 @@ da413.proserve.nl
 ge-0-3-0-403.cr1.rb2f.nl.proserve.nl
 sieve.proserve.nl
 vm12.ohbuzz.ne9.proserve.nl
-www.survey.proserve.nl
+survey.proserve.nl
 nawas.services.proserve.nl
 procam4.eun.proserve.nl
 pvm10053.proserve.nl
 vevida-gw.proserve.nl
-www.cloudconnect.proserve.nl
+cloudconnect.proserve.nl
 lo0.nca-001.core.proserve.nl
 os14686.proserve.nl
 vm10228.proserve.nl
 web04-a.cfe.simpel.proserve.nl
-www.bind-import.proserve.nl
+bind-import.proserve.nl
 staging.web01.monitor.proserve.nl
 vm10857.proserve.nl
 vm518.proserve.nl
@@ -386,8 +386,8 @@ vm10738.proserve.nl
 monitor.proserve.nl
 svprdb02.int.proserve.nl
 teredo-relay.proserve.nl
-www.dns-proserve.proserve.nl
-www.web-dp.monitor.proserve.nl
+dns-proserve.proserve.nl
+web-dp.monitor.proserve.nl
 backup-vpn.proserve.nl
 elasticsearch.courseware.proserve.nl
 os11942.proserve.nl
@@ -400,7 +400,6 @@ web04.shopsunited.proserve.nl
 kubeops.logging.proserve.nl
 test.openvas.proserve.nl
 vm17665.proserve.nl
-www.dns-dootall.proserve.nl
 vm11245.proserve.nl
 vm11282.proserve.nl
 demo-demo-review-feature-1-zd3sq4.k8s.famouscake.proserve.nl
@@ -430,7 +429,6 @@ fw1.bol.proserve.nl
 vm10752.proserve.nl
 build01.prod.transfollow.proserve.nl
 vm10240.proserve.nl
-cloudconnect.proserve.nl
 da214.proserve.nl
 pvm11923.proserve.nl
 vcloud.proserve.nl
@@ -466,7 +464,7 @@ da444.proserve.nl
 ge-0-3-0-1.m5rbnl.proserve.nl
 gi9-32.cr1.eun.nl.proserve.nl
 wazuh-dashboard-002.proserve.nl
-www.log-eun-es-001.hypernode.proserve.nl
+log-eun-es-001.hypernode.proserve.nl
 pvm11173.proserve.nl
 te4-2.cr1.eun.proserve.nl
 vm-7028b97d-1d62-474f-b0e2-40e68bb21567.ams.resource.clou.proserve.nl
@@ -526,7 +524,6 @@ vm10960.proserve.nl
 da302.proserve.nl
 rdgwtest.proserve.nl
 vm10045.proserve.nl
-www.registry.proserve.nl
 da10478.proserve.nl
 lbtest02.proserve.nl
 pvm11398.proserve.nl
@@ -551,11 +548,11 @@ ge-0-3-0.m5gsnl.proserve.nl
 gw47.rt.ams.proserve.nl
 sunrise.proserve.nl
 testvps.proserve.nl
-www.oxidized.proserve.nl
+oxidized.proserve.nl
 clockwork.proserve.nl
 ip-83-96-180-3.fbac.proserve.nl
 vm682.proserve.nl
-www.log-dpl-ingress-001.proserve.nl
+log-dpl-ingress-001.proserve.nl
 beheer.proserve.nl
 bsmtp1.proserve.nl
 eun-vmwcd-cell01.proserve.nl
@@ -586,7 +583,7 @@ automation.proserve.nl
 dns-shared-east-lb01.proserve.nl
 vm10824.proserve.nl
 svprtc30.int.proserve.nl
-www.veeamspc.proserve.nl
+veeamspc.proserve.nl
 da356.proserve.nl
 demo-demo-review-main-yi2y9f.k8s.famouscake.proserve.nl
 m7i-1.lcl.be.proserve.nl
@@ -595,7 +592,7 @@ pvm473.proserve.nl
 vm620.proserve.nl
 kibana.services.proserve.nl
 wazuh-es-002.proserve.nl
-www.outbound01.he.proserve.nl
+outbound01.he.proserve.nl
 anchore.logging.proserve.nl
 bax.etherpad.services.proserve.nl
 check.proserve.nl
@@ -628,21 +625,20 @@ svprntu03.int.proserve.nl
 onlinebackup.proserve.nl
 vps407.proserve.nl
 wlanhost.lcl.be.proserve.nl
-www.mathijstest1.proserve.nl
 dns-proserve-north-be01.proserve.nl
 portal02.acc.transfollow.proserve.nl
 da313.proserve.nl
 homer.proserve.nl
 web04-p.bll.simpel.proserve.nl
 uny.proserve.nl
-www.spamfilter.proserve.nl
+spamfilter.proserve.nl
 api01.test.transfollow.proserve.nl
 bt-pt-prod-db03.brandtech.proserve.nl
 puppetdb.proserve.nl
 spamgw.proserve.nl
 autodiscover.proserve.nl
 backoffice02.acc.transfollow.proserve.nl
-www.commserve.proserve.nl
+commserve.proserve.nl
 da381.proserve.nl
 fringe.insights.services.proserve.nl
 gw09.rt.ams.proserve.nl
@@ -653,13 +649,11 @@ vm13037.proserve.nl
 vm403.proserve.nl
 vm779.proserve.nl
 da250.proserve.nl
-bind-import.proserve.nl
 kpmgstaffing.insights.services.proserve.nl
 ldap2.proserve.nl
 vm10769.proserve.nl
 da285.proserve.nl
 pvm456.proserve.nl
-machpanel.proserve.nl
 vm292.proserve.nl
 vm899.proserve.nl
 cobbler.proserve.nl
@@ -679,7 +673,6 @@ rundeck3.proserve.nl
 vm206.proserve.nl
 web03-a.bll.simpel.proserve.nl
 vm431.proserve.nl
-web-dp.monitor.proserve.nl
 db04.shopsunited.proserve.nl
 ossim01.proserve.nl
 spamgw04-fb.proserve.nl
@@ -693,7 +686,7 @@ support-test-api.proserve.nl
 vm10229.proserve.nl
 a14.ne.by.proserve.nl
 da242.proserve.nl
-www.dsc.proserve.nl
+dsc.proserve.nl
 vm16514.proserve.nl
 da418.proserve.nl
 paragin.insights.services.proserve.nl
@@ -755,7 +748,6 @@ vm11448.proserve.nl
 jnj.proserve.nl
 elasticsearch.logging.proserve.nl
 pvm476.proserve.nl
-www.log-dpl-es-001.proserve.nl
 te5-5-vl7.cr1.dp.nl.proserve.nl
 vm18507.proserve.nl
 vps431.proserve.nl
@@ -769,8 +761,6 @@ ge9-14.cr2.dp.proserve.nl
 ip.proserve.nl
 meet.proserve.nl
 procam3.eun.proserve.nl
-www.reseller.proserve.nl
-www.rundeck3.proserve.nl
 afsgroup.insights.services.proserve.nl
 netsoft3.proserve.nl
 vm10745.proserve.nl
@@ -782,7 +772,7 @@ plesktestdoos.proserve.nl
 pvm17346.proserve.nl
 recursor2.dp.proserve.nl
 vm13430.proserve.nl
-www.log-nca-es-003.hypernode.proserve.nl
+log-nca-es-003.hypernode.proserve.nl
 da316.proserve.nl
 neon.proserve.nl
 nl.aux.proserve.nl
@@ -921,7 +911,7 @@ vm10153.proserve.nl
 vm811.proserve.nl
 splunk-master.dp.proserve.nl
 vm10840.proserve.nl
-www.dns-vibo.proserve.nl
+dns-vibo.proserve.nl
 vm501.proserve.nl
 vm624.proserve.nl
 vm681.proserve.nl
@@ -930,7 +920,7 @@ vm16516.proserve.nl
 diplodocus.proserve.nl
 fw1.netbiz.nl.proserve.nl
 vm18083.proserve.nl
-www.librenms.proserve.nl
+librenms.proserve.nl
 support-analytics.proserve.nl
 gitlab.simpel.proserve.nl
 insights.services.proserve.nl
@@ -941,7 +931,6 @@ pvm13085.proserve.nl
 kdc2.proserve.nl
 web04-p.cfe.simpel.proserve.nl
 gw27.rt.proserve.nl
-spamgw01.proserve.nl
 vm10921.proserve.nl
 vm671.proserve.nl
 ps217.proserve.nl
@@ -971,7 +960,6 @@ da442.proserve.nl
 gi3-7-vl24.cr2.dp.nl.proserve.nl
 v2001.eun.nl.proserve.nl
 vm10917.proserve.nl
-www.ubuntu-mirror.proserve.nl
 vm10978.proserve.nl
 vm16100.proserve.nl
 b4u.proserve.nl
@@ -1014,7 +1002,7 @@ vm887.proserve.nl
 backoffice01.test.transfollow.proserve.nl
 ge-0-3-0-642.m5gsnl.proserve.nl
 vm16160.proserve.nl
-www.vm17863.proserve.nl
+vm17863.proserve.nl
 influxdb1.proserve.nl
 rr1.proserve.nl
 spacewalk.proserve.nl
@@ -1055,7 +1043,7 @@ svatap05.int.proserve.nl
 vm10016.proserve.nl
 wazuh-dashboard.proserve.nl
 testmonitor.proserve.nl
-www.pino.proserve.nl
+pino.proserve.nl
 otravo.insights.services.proserve.nl
 svprwe04.int.proserve.nl
 vm11873.proserve.nl
@@ -1065,7 +1053,7 @@ pvm478.proserve.nl
 vm10915.proserve.nl
 lb01.acc.transfollow.proserve.nl
 spamgw-de01-fb.proserve.nl
-www.dpl-vcenter01.vmware.proserve.nl
+dpl-vcenter01.vmware.proserve.nl
 xtractive.proserve.nl
 stattus.proserve.nl
 ge-0-3-0-401.cr1.gs.proserve.nl
@@ -1087,8 +1075,7 @@ pvm10517.proserve.nl
 vm10977.proserve.nl
 vm19849.proserve.nl
 wazuh-es-003.proserve.nl
-www.dns-vibosuper.proserve.nl
-www.monitor.proserve.nl
+dns-vibosuper.proserve.nl
 da374.proserve.nl
 vm17611.proserve.nl
 vm771.proserve.nl
@@ -1097,7 +1084,6 @@ holidaymedia.insights.services.proserve.nl
 pvm10408.proserve.nl
 vm10301.proserve.nl
 web02.project89109.proserve.nl
-www.nca-vmwcd-cell01.proserve.nl
 lb02.project89109.proserve.nl
 vm10962.proserve.nl
 vm900.proserve.nl
@@ -1120,10 +1106,8 @@ vm11590.proserve.nl
 da10103.proserve.nl
 pvm530.proserve.nl
 vm621.proserve.nl
-bosch.proserve.nl
 lb.eun.he.proserve.nl
 publicsonar.git.proserve.nl
-www.automatron.proserve.nl
 gi-3-1-2.cr1.eun.nl.proserve.nl
 pvm487.proserve.nl
 vm10106.proserve.nl
@@ -1131,9 +1115,7 @@ vpn.knmi.proserve.nl
 da218.proserve.nl
 log-eun-es-004.hypernode.proserve.nl
 pvm10056.proserve.nl
-spamfilter.proserve.nl
 apache.be.proserve.nl
-log-dpl.proserve.nl
 portal01.partner.transfollow.proserve.nl
 ps074.proserve.nl
 spamex-fb.proserve.nl
@@ -1148,7 +1130,6 @@ gw17.rt.ams.proserve.nl
 hn.addvision.proserve.nl
 prestashop.k8s.proserve.nl
 tales.proserve.nl
-vb365portal.proserve.nl
 vm16610.proserve.nl
 gemeentearchief3.proserve.nl
 e47.gsa-001.core.proserve.nl
@@ -1171,7 +1152,6 @@ vm10464.proserve.nl
 pvm532.proserve.nl
 tam.insights.services.proserve.nl
 cerberus.proserve.nl
-dpl-vcenter01.vmware.proserve.nl
 pvm11892.proserve.nl
 pvm475.proserve.nl
 vm898.proserve.nl
@@ -1179,7 +1159,6 @@ vm10042.proserve.nl
 vm13063.proserve.nl
 vm16442.proserve.nl
 vm609.proserve.nl
-www.accounts.proserve.nl
 1ace.by.proserve.nl
 dns-proserve-east-be02.proserve.nl
 svpras01.int.proserve.nl
@@ -1209,11 +1188,9 @@ vm11592.proserve.nl
 cm-dc-forward.services.proserve.nl
 dataplace-gw.proserve.nl
 gw13-2.rt.ams.proserve.nl
-librenms.proserve.nl
 lb01.test.transfollow.proserve.nl
 vm10916.proserve.nl
 web.inl.proserve.nl
-www.puppetdb.proserve.nl
 vm17564.proserve.nl
 vm20735.proserve.nl
 contactverification.proserve.nl
@@ -1290,7 +1267,6 @@ elasticsearch.services.proserve.nl
 pvm16827.proserve.nl
 vm11920.proserve.nl
 web03-ot.bll.simpel.proserve.nl
-dns-proserve.proserve.nl
 maintraffic2.dp.proserve.nl
 netsoft-2.proserve.nl
 noc.proserve.nl
@@ -1298,14 +1274,12 @@ cm-83-97-136-112.tele-space.by.proserve.nl
 cm-sales-forward.services.proserve.nl
 vm10118.proserve.nl
 webvirtualcenter.proserve.nl
-www.prepsec.proserve.nl
 cpcloud.proserve.nl
 dataplace-gw-cr2.dp.proserve.nl
 goblin.proserve.nl
 usm.proserve.nl
 vm778.proserve.nl
 maintraffic.nkf.proserve.nl
-oxidized.proserve.nl
 pvm10309.proserve.nl
 vm17053.proserve.nl
 e47.dpl-001.core.proserve.nl
@@ -1313,7 +1287,6 @@ gw52.rt.ams.proserve.nl
 web03-ot.cfe.simpel.proserve.nl
 pvm10249.proserve.nl
 wms7.proserve.nl
-www.check.proserve.nl
 server.proserve.nl
 nas02-ob.proserve.nl
 rogue.proserve.nl
@@ -1327,8 +1300,8 @@ elasticsearch.happypasta.proserve.nl
 ge-1-3-0-1037.m7i2.lcl.be.proserve.nl
 lb-dpl.mgmt.proserve.nl
 serenity.proserve.nl
-www.dashboard.proserve.nl
-www.kibana.invers.proserve.nl
+dashboard.proserve.nl
+kibana.invers.proserve.nl
 da281.proserve.nl
 vm10428.proserve.nl
 vm11341.proserve.nl
@@ -1352,7 +1325,6 @@ vm10444.proserve.nl
 achilles.proserve.nl
 lb03-p.simpel.proserve.nl
 picserver.proserve.nl
-www.patch.proserve.nl
 vm16502.proserve.nl
 da1037.proserve.nl
 gw01.dataplace.rt.proserve.nl
@@ -1369,7 +1341,6 @@ pvm17451.proserve.nl
 space.by.proserve.nl
 gambia.proserve.nl
 dns-shared-east-be01.proserve.nl
-log-nca-es-004.hypernode.proserve.nl
 log01.test.transfollow.proserve.nl
 pvm10825.proserve.nl
 liquix.insights.services.proserve.nl
@@ -1382,7 +1353,6 @@ vm194.proserve.nl
 rbwlanap.proserve.nl
 siem.proserve.nl
 vm11243.proserve.nl
-www.log-dpl-es-003.proserve.nl
 clanhost-mirror.proserve.nl
 esx1.de.proserve.nl
 ge-ipr1-m7i-2.lcl.be.proserve.nl
@@ -1420,7 +1390,6 @@ dmg.insights.services.proserve.nl
 pvm16749.proserve.nl
 vm10803.proserve.nl
 vm16890.proserve.nl
-vm17863.proserve.nl
 www02-acc.otravo.proserve.nl
 cm-83-97-160-9.te.proserve.nl
 da10395.proserve.nl
@@ -1446,7 +1415,6 @@ vm514.proserve.nl
 vm735.proserve.nl
 enilno.proserve.nl
 dns-proserve-west-be01.proserve.nl
-log-nca-es-003.hypernode.proserve.nl
 pvm11910.proserve.nl
 te5-4-vl13.cr1.dp.nl.proserve.nl
 vm11769.proserve.nl
@@ -1467,10 +1435,8 @@ spamgw02.proserve.nl
 backup01-um.proserve.nl
 mon01-db1.proserve.nl
 nedbase.insights.services.proserve.nl
-www.log-eun-es-003.hypernode.proserve.nl
 vm10015.proserve.nl
 vm631.proserve.nl
-www.elasticsearch.git.proserve.nl
 vm20902.proserve.nl
 vm10742.proserve.nl
 grafana.proserve.nl
@@ -1488,7 +1454,7 @@ vm10306.proserve.nl
 api2.dev.cloudvps.proserve.nl
 ge-1-0-0-202.core01.rb.proserve.nl
 vm10120.proserve.nl
-www.puppetdashboard.proserve.nl
+puppetdashboard.proserve.nl
 vm17007.proserve.nl
 winrepo.proserve.nl
 e47.nca-002.core.proserve.nl
@@ -1515,7 +1481,6 @@ vm918.proserve.nl
 pvm17159.proserve.nl
 pvm491.proserve.nl
 vm10119.proserve.nl
-www.web-eun.monitor.proserve.nl
 database01.test.transfollow.proserve.nl
 fe-0-0-3.m5rbnl.proserve.nl
 intermediair02.proserve.nl
@@ -1570,7 +1535,6 @@ os13358.proserve.nl
 gi-2-3-9.cr1.nkf.proserve.nl
 ip-83-96-180-6.fbac.proserve.nl
 pvm17999.proserve.nl
-www.sgnbbcc.proserve.nl
 gw03.rt.ams.proserve.nl
 hipchat.proserve.nl
 spamgw05-fb.proserve.nl
@@ -1585,7 +1549,6 @@ api01.prod.transfollow.proserve.nl
 bt-pt-prod-cache02.brandtech.proserve.nl
 dns-shared-north-be02.proserve.nl
 gw13-5.rt.ams.proserve.nl
-outbound02.he.proserve.nl
 vcenter2.vmware.proserve.nl
 vm19826.proserve.nl
 acc-lb.nca.he.proserve.nl
@@ -1600,7 +1563,6 @@ designbase2.proserve.nl
 vm780.proserve.nl
 support.proserve.nl
 2.ntp.proserve.nl
-commserve.proserve.nl
 demo-demo-review-master-8dyme2.k8s.famouscake.proserve.nl
 vm17255.proserve.nl
 e47.nca-001.core.proserve.nl
@@ -1611,9 +1573,7 @@ ienw.insights.services.proserve.nl
 sh01.pmh.proserve.nl
 da346.proserve.nl
 vm10381.proserve.nl
-www.backup-vpn.proserve.nl
 comgensolutions.insights.services.proserve.nl
-www.vcenter01.vmware.proserve.nl
 dataflex.insights.services.proserve.nl
 cerebro.services.proserve.nl
 hotspot.proserve.nl
@@ -1629,7 +1589,6 @@ vm18082.proserve.nl
 vm10707.proserve.nl
 web06-a.bll.simpel.proserve.nl
 procam3.proserve.nl
-dashboard.proserve.nl
 lb01.prod.transfollow.proserve.nl
 sms.proserve.nl
 status.proserve.nl
@@ -1641,13 +1600,10 @@ vm10391.proserve.nl
 weservit.cr1.dataplace.nl.proserve.nl
 checker02-dp.proserve.nl
 database01.partner.transfollow.proserve.nl
-log-eun-es-001.hypernode.proserve.nl
 vm13155.proserve.nl
-www.rd.proserve.nl
 haddock.proserve.nl
 oxidized01.proserve.nl
 vm10230.proserve.nl
-www.eun-vb365tmb01.veeamo365.proserve.nl
 log-dpl-kib-001.proserve.nl
 provisioning.proserve.nl
 www03-prod.otravo.proserve.nl
@@ -1655,7 +1611,6 @@ server23.muiswerk.proserve.nl
 roods.proserve.nl
 content.proserve.nl
 da206.proserve.nl
-ldap.proserve.nl
 munin.proserve.nl
 vm10992.proserve.nl
 80.red-81ce.by.proserve.nl
@@ -1667,7 +1622,6 @@ ka-mail.proserve.nl
 vm17005.proserve.nl
 vpn.greenchoice.proserve.nl
 bastest1.proserve.nl
-dns-vibosuper.proserve.nl
 lb02-prod.otravo.proserve.nl
 vm10037.proserve.nl
 prometheus.famouscake.proserve.nl
@@ -1676,14 +1630,11 @@ vm705.proserve.nl
 xximo.insights.services.proserve.nl
 e47.gsa-002.core.proserve.nl
 vm10017.proserve.nl
-www.log-dpl-es-002.proserve.nl
 blog.proserve.nl
 hypernode.insights.services.proserve.nl
 vm21647.proserve.nl
 cm-83-97-1pace.by.proserve.nl
 pvm17313.proserve.nl
-survey.proserve.nl
-vb365portaltm.proserve.nl
 vm18579.proserve.nl
 www1.proserve.nl
 sellnet.proserve.nl
@@ -1693,7 +1644,6 @@ pvm11397.proserve.nl
 vm11045.proserve.nl
 vm723.proserve.nl
 dns-shared-west-be01.proserve.nl
-dsc.proserve.nl
 rr3.proserve.nl
 vm10758.proserve.nl
 vm10300.proserve.nl
@@ -1701,10 +1651,9 @@ am19021.proserve.nl
 fe-0-0-0.m7i2lclbe.proserve.nl
 gw33.rt.ams.proserve.nl
 pvm10729.proserve.nl
-dns.proserve.nl
 wiki.ebeert.proserve.nl
 vm764-acceptatie.proserve.nl
-www.dane.proserve.nl
+dane.proserve.nl
 demo-demo-review-d-all-cont-irmolx.k8s.famouscake.proserve.nl
 fe-0-0-1.m7i2lclbe.proserve.nl
 gw05.rt.ams.proserve.nl
@@ -1767,19 +1716,17 @@ puppet6db.staging.proserve.nl
 spawn.proserve.nl
 vm10247.proserve.nl
 ubnt2204.proserve.nl
-www.staging.monitor.proserve.nl
+staging.monitor.proserve.nl
 web02.morethangifts.proserve.nl
 ge-0-2-0-1.core01.int.rb.proserve.nl
 ge-1-3-0-1010.m7i2lclbe.proserve.nl
 mtx.proserve.nl
 spamfilter02.he.proserve.nl
 maintraffic1.dp.proserve.nl
-pino.proserve.nl
 vm13057.proserve.nl
 log-nca-kib-001.hypernode.proserve.nl
 vm17870.proserve.nl
 vm465.proserve.nl
-www.puppet.proserve.nl
 staging.icinga02.monitor.proserve.nl
 vm10980.proserve.nl
 vm186.proserve.nl
@@ -1800,7 +1747,6 @@ vm16375.proserve.nl
 vm270.proserve.nl
 bastion.famouscake.proserve.nl
 api02.partner.transfollow.proserve.nl
-dns-vibo.proserve.nl
 order.proserve.nl
 pvm10057.proserve.nl
 procam5.proserve.nl
@@ -1811,7 +1757,6 @@ db-ota.proserve.nl
 m7i-2-dsc.proserve.nl
 php54.vm16515.proserve.nl
 vm13091.proserve.nl
-www.git.proserve.nl
 pvm504.proserve.nl
 vm21828.proserve.nl
 vm719.proserve.nl
@@ -1853,7 +1798,6 @@ pvm17783.proserve.nl
 bt-pt-acc-app01.brandtech.proserve.nl
 digix.proserve.nl
 vm724.proserve.nl
-outbound01.he.proserve.nl
 pvm10827.proserve.nl
 sptn01.proserve.nl
 vm19851.proserve.nl
@@ -1863,7 +1807,6 @@ svprft01.int.proserve.nl
 vm13064.proserve.nl
 vuecinemas.insights.services.proserve.nl
 vm414.proserve.nl
-www.log-eun-es-004.hypernode.proserve.nl
 da297.proserve.nl
 da301.proserve.nl
 shopsunited.insights.services.proserve.nl
@@ -1874,7 +1817,6 @@ nginx01.prod.transfollow.proserve.nl
 pvm13450.proserve.nl
 servicedesk.proserve.nl
 spam.proserve.nl
-www.proserve.nl
 cr1.dp.proserve.nl
 deploy01-mgmt.otravo.proserve.nl
 registry.simpel.proserve.nl
@@ -1885,7 +1827,7 @@ vm11941.proserve.nl
 stats.proserve.nl
 vm189.proserve.nl
 vm917.proserve.nl
-www.wc.uxstaging.proserve.nl
+wc.uxstaging.proserve.nl
 ip-space.by.pip-space.by.proserve.nl
 pvm13798.proserve.nl
 svprntu05.int.proserve.nl
@@ -1914,7 +1856,6 @@ svprmc02.int.proserve.nl
 vm10757.proserve.nl
 winlin-cust-gw.lclbe.proserve.nl
 fds.proserve.nl
-www.log-nca-es-002.hypernode.proserve.nl
 cr2.dp.nl.proserve.nl
 da16571.proserve.nl
 m7i-2.lcl.be.proserve.nl
@@ -1934,15 +1875,12 @@ cert.proserve.nl
 da459.proserve.nl
 db01.internal.proserve.nl
 dlr.insights.services.proserve.nl
-wc.uxstaging.proserve.nl
 vm11222.proserve.nl
 acceptation-outbound01.he.proserve.nl
 cache01-prod.otravo.proserve.nl
 egs.proserve.nl
-kibana.invers.proserve.nl
 tropaz-acc.saltro.proserve.nl
 vm10746.proserve.nl
-www.openvas.proserve.nl
 lb03-a.simpel.proserve.nl
 mx-fb01.proserve.nl
 pvm10091.proserve.nl
@@ -1969,9 +1907,6 @@ db02.shopsunited.proserve.nl
 ge-0-3-0-201.cr1.rb2f.nl.proserve.nl
 profmedia.proserve.nl
 streamcenter.proserve.nl
-dane.proserve.nl
-log-dpl-ingress-001.proserve.nl
-mijn.proserve.nl
 vm10976.proserve.nl
 pvm500.proserve.nl
 twisted.proserve.nl
@@ -1993,9 +1928,7 @@ localhost.proserve.nl
 cr1.lcl.be.proserve.nl
 e48.dpl-004.core.proserve.nl
 pvm10407.proserve.nl
-www.sms.proserve.nl
 pvm10850.proserve.nl
-staging.monitor.proserve.nl
 vm10452.proserve.nl
 nfs1.openshift.mboogert.vcloud.proserve.nl
 pam20975.proserve.nl
@@ -2004,16 +1937,13 @@ forsale.proserve.nl
 ns1.proserve.nl
 spamgw08-fb.proserve.nl
 wlangw01.rt.be.proserve.nl
-www.order.proserve.nl
 vm10749.proserve.nl
 vm10986.proserve.nl
 vm21762.proserve.nl
-www.cpcloud.proserve.nl
 lb01-p.tcc.proserve.nl
 os14721.proserve.nl
 pvm11031.proserve.nl
 vm10092.proserve.nl
-www.mirror.proserve.nl
 cr1.rb2f.nl.proserve.nl
 fw1.secure-logistics.proserve.nl
 vm10287.proserve.nl
@@ -2024,9 +1954,7 @@ pvm10951.proserve.nl
 staging.ots.proserve.nl
 vm10710.proserve.nl
 vm10711.proserve.nl
-www.cloudvmw.proserve.nl
 vm10294.proserve.nl
-insightvm.proserve.nl
 office.proserve.nl
 ce.by.proserve.nl
 ge-0-3-0.m5rbnl.proserve.nl
@@ -2050,12 +1978,9 @@ pvm10159.proserve.nl
 vm11369.proserve.nl
 m7i-1-dsc.proserve.nl
 vm19855.proserve.nl
-www.eun-vb365r01.veeamo365.proserve.nl
-www.rdvmw.proserve.nl
 163.rpace.by.proserve.nl
 db1.proserve.nl
 gw01.ams.rt.proserve.nl
-veeamspc.proserve.nl
 vm13047.proserve.nl
 vps419.proserve.nl
 aralto.proserve.nl
@@ -2073,7 +1998,6 @@ pvm17314.proserve.nl
 hyperbyte2.proserve.nl
 vm16611.proserve.nl
 vm932.proserve.nl
-rundeck.proserve.nl
 sentia-proserve-gw.rb.proserve.nl
 te4-3.cr1.nkf.proserve.nl
 vm10058.proserve.nl
@@ -2105,7 +2029,6 @@ sc.proserve.nl
 te1-4.cr1.nkf.proserve.nl
 vm10470.proserve.nl
 vm16590.proserve.nl
-www.preview.proserve.nl
 dpl-rdvmw.proserve.nl
 ge-0-2-0.m5rbnl.proserve.nl
 proserve-itss-gw.proserve.nl
@@ -2136,11 +2059,8 @@ dns-proserve-east-lb01.proserve.nl
 ge-0-3-0-410.m10rbnl.proserve.nl
 lb01.project89109.proserve.nl
 mbmtb.k8s.proserve.nl
-www.eun-vmwcd-cell02.proserve.nl
-www.eun-vmwcd-cell01.proserve.nl
 helix.proserve.nl
 ots.proserve.nl
-puppetdashboard.proserve.nl
 wazuh-server-001.proserve.nl
 jenj3.proserve.nl
 ge-0-3-0-1066.cr2.rb2f.proserve.nl
@@ -2159,7 +2079,6 @@ concollect.insights.services.proserve.nl
 intermediair03.proserve.nl
 support-test.proserve.nl
 vm10152.proserve.nl
-rundeck-test.proserve.nl
 vm10471.proserve.nl
 jdn2.proserve.nl
 da274.proserve.nl
@@ -2196,7 +2115,6 @@ cm-83-97-166-122.telecable.e-space.by.proserve.nl
 vm10410.proserve.nl
 vm16982.proserve.nl
 tableau.proserve.nl
-www.tableau.proserve.nl
 elasticsearch.signet.proserve.nl
 elasticsearch-001.signet.proserve.nl
 elasticsearch-002.signet.proserve.nl

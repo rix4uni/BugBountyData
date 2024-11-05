@@ -1,20 +1,16 @@
-*.test-socrata.com
-*.api.us.test-socrata.com
-*.aws.staging.test-socrata.com
-*.connect.apps.test-socrata.com
-*.insights.apps.test-socrata.com
-*.internal.test-socrata.com
-*.stat.apps.test-socrata.com
-admin.apps.test-socrata.com
 api.us.test-socrata.com
-auth.opendata.test-socrata.com
 aws.staging.test-socrata.com
+connect.apps.test-socrata.com
+insights.apps.test-socrata.com
+internal.test-socrata.com
+stat.apps.test-socrata.com
+admin.apps.test-socrata.com
+auth.opendata.test-socrata.com
 bcppvaoftw.john.test-socrata.com
 blog.test-socrata.com
 budget.johnnym.test-socrata.com
 cityperformance.john.test-socrata.com
 clare.test-socrata.com
-connect.apps.test-socrata.com
 cszpvhodfi.cust.test-socrata.com
 development.online.test-socrata.com
 elumitas.test-socrata.com
@@ -28,8 +24,6 @@ fpyhnazykv.cust.staging.test-socrata.com
 gavzeihbny.cust.test-socrata.com
 geo1.online.test-socrata.com
 httpsopendata.test-socrata.com
-insights.apps.test-socrata.com
-internal.test-socrata.com
 ipsec-test.john.test-socrata.com
 jdvdtsksaw.cust.staging.test-socrata.com
 jzscqjzeop.john.test-socrata.com
@@ -51,7 +45,6 @@ spending-migrate-one.john.test-socrata.com
 spending-one.john.test-socrata.com
 spf.test-socrata.com
 staging.test-socrata.com
-stat.apps.test-socrata.com
 test.john.test-socrata.com
 tic-test.test-socrata.com
 tire-test-domain.test-socrata.com
@@ -59,7 +52,6 @@ un.test-socrata.com
 vcmagstqfy.cust.test-socrata.com
 vertex-stories.test-socrata.com
 vsjwxqvtua.cust.test-socrata.com
-www.test-socrata.com
 esri-fed.test-socrata.com
 mchui.test-socrata.com
 sarab-scgc.test-socrata.com
@@ -85,7 +77,6 @@ dnm.opendata-demo.test-socrata.com
 fw.opendata-demo.test-socrata.com
 pop3.opendata-demo.test-socrata.com
 cveapi.opendata-demo.test-socrata.com
-www.opendata-demo.test-socrata.com
 sites.test-socrata.com
 cp.test-socrata.com
 owa.opendata-demo.test-socrata.com
@@ -362,36 +353,36 @@ cert.test-socrata.com
 jdvdtsksaw.cust.stagseptg.test-socrata.com
 udbbeqaira.john.test-socrata.com
 admin.appold.test-socrata.com
-www.mycity.john.ext-lb-pool-1.test-socrata.com
+mycity.john.ext-lb-pool-1.test-socrata.com
 0.0.test-socrata.com
 wxaxxlhdhg.john.test-socrata.com
 evwerlbyov.cust.expe001staging.test-socrata.com
 0001.test-socrata.com
-www.green-effort.test-socrata.com
+green-effort.test-socrata.com
 abctpsvrdy.cust.test-socrata.com
 cust.agent-staging.test-socrata.com
-www.eemspoor1.opendata-demo.test-socrata.com
+eemspoor1.opendata-demo.test-socrata.com
 john.test-socrata.com
 azure.test-socrata.com
-www.coffeemoodcloud.opendata-demo.test-socrata.com
-www.tendrechasseauxoeufs.test-socrata.com
+coffeemoodcloud.opendata-demo.test-socrata.com
+tendrechasseauxoeufs.test-socrata.com
 0-demo.test-socrata.com
 0.test-socrata.com
 nopendata.test-socrata.com
 kbxgipqjrv.jrm.test-socrata.com
 aws-us-west-2-staging.test-socrata.com
 demo.test-socrata.com
-www.home-startmk.test-socrata.com
+home-startmk.test-socrata.com
 admin.internal-hera.test-socrata.com
 jrm.test-socrata.com
-www.marcoantonio.test-socrata.com
+marcoantonio.test-socrata.com
 cust.staging.test-socrata.com
 evwerlbyov.heroes.cust.staging.test-socrata.com
 apac.cn.0.test-socrata.com
-www.myojpity.john.test-socrata.com
+myojpity.john.test-socrata.com
 apache.einputcgy.test-socrata.com
 qjbkcjijyn.cust.test-socrata.com
-www.realtime.ny.opendata-demo.test-socrata.com
+realtime.ny.opendata-demo.test-socrata.com
 online.test-socrata.com
 evwerlbyov.cust.staging.icn1a.test-socrata.com
 app.zen1to1.opendata-demo.test-socrata.com
@@ -405,13 +396,13 @@ us.test-socrata.com
 00.test-socrata.com
 nopendata-demo.test-socrata.com
 spending-migrate-one.john-eupre.test-socrata.com
-www.thermodomi.test-socrata.com
-www.mycity.johnstatic1.test-socrata.com
+thermodomi.test-socrata.com
+mycity.johnstatic1.test-socrata.com
 storage.test-socrata.com
 apps.test-socrata.com
 provisionatortest.test-socrata.com
 000web.test-socrata.com
-www.r-oneshop.test-socrata.com
+r-oneshop.test-socrata.com
 0-demo-181826.test-socrata.com
 priv.test-socrata.com
 0-acc-apac.test-socrata.com
@@ -449,7 +440,7 @@ ks-vendingtransactions-mq0.test-socrata.com
 reus.test-socrata.com
 budget.0-demo-johnnym.test-socrata.com
 ppp16.test-socrata.com
-www.ec2-54-248-114-56.ap-northeast-1.compute.0-demo.test-socrata.com
+ec2-54-248-114-56.ap-northeast-1.compute.0-demo.test-socrata.com
 mssql.0-demo-opendata-demo.test-socrata.com
 ec2-3-92-237-44.compute-1.0-demo.test-socrata.com
 ns1.test-socrata.com
@@ -563,7 +554,7 @@ api.0-demo-opendata-demo.test-socrata.com
 serialization.test-socrata.com
 basic-nodejs-dev.0-demo.test-socrata.com
 9len8w.c1.kafka.ca-central-1.0-demo.test-socrata.com
-www.0-60-docker.test-socrata.com
+0-60-docker.test-socrata.com
 comdevelopment.metriccomv1.test1-omsproxy-e6zyxw.login.0-com-onlinegithub-ext-start-make-money-online.test-socrata.com
 ec2-52-69-75-168.ap-northeast-1.compute.0-demo.test-socrata.com
 ynqt2ahlvba37ar3hr5p23ifvi.appsync-realtime-api.ap-southeast-1.0-demo.test-socrata.com
@@ -576,7 +567,7 @@ ec2-34-205-140-219.compute-1.0-demo.test-socrata.com
 0-240.test-socrata.com
 cexkfy.c2.kafka.ca-central-1.0-demo.test-socrata.com
 ec2-13-232-144-92.ap-south-1.compute.0-demo.test-socrata.com
-www.de.0-60.test-socrata.com
+de.0-60.test-socrata.com
 kubernetes.0-demo-demo.test-socrata.com
 14-001.test-socrata.com
 0-dashboard.test-socrata.com
@@ -732,7 +723,7 @@ communityphobos.apac.cn.0-bvv997uuc7ddc72bp4r0.test-socrata.com
 server1.opendata-demo.test-socrata.com
 ec2-52-192-19-153.ap-northeast-1.compute.0-demo.test-socrata.com
 img.test-socrata.com
-www.sohpjz.c2.kafka.ap-southeast-2.0-demo.test-socrata.com
+sohpjz.c2.kafka.ap-southeast-2.0-demo.test-socrata.com
 ec2-52-78-66-200.ap-northeast-2.compute.0-demo.test-socrata.com
 ec2-52-23-162-85.compute-1.0-demo.test-socrata.com
 0-admin.test-socrata.com
@@ -789,7 +780,7 @@ m.opendata-demo.test-socrata.com
 ec2-13-232-38-36.ap-south-1.compute.0-demo.test-socrata.com
 canary-f9c61c446a1e.xlpii4.c1.kafka.ca-central-1.0-demo.test-socrata.com
 ec2-34-232-52-64.compute-1.0-demo.test-socrata.com
-www.google.comdevelopment.metriccomv1.test1-omsproxy-e6zyxw.login.0-com-onlinegithub-ext-start-make-money-online.test-socrata.com
+google.comdevelopment.metriccomv1.test1-omsproxy-e6zyxw.login.0-com-onlinegithub-ext-start-make-money-online.test-socrata.com
 secure.0-demo-opendata-demo.test-socrata.com
 gcom-product-find-qa.0-demo-demo.test-socrata.com
 d-ny98ksmtx3.execute-api.ap-southeast-2.0-demo.test-socrata.com
@@ -828,7 +819,7 @@ ec2-34-236-44-115.compute-1.0-demo.test-socrata.com
 0-aap.test-socrata.com
 0-demo-www4b.test-socrata.com
 3m74ta0k24cwb7yk.opendata-demo.0-9.test-socrata.com
-www.0-212.test-socrata.com
+0-212.test-socrata.com
 cszpvhodfi.0-demo-cust.test-socrata.com
 ec2-54-211-225-231.compute-1.0-demo.test-socrata.com
 0-38-docker.test-socrata.com
@@ -894,7 +885,6 @@ ec2-54-168-208-63.ap-northeast-1.compute.0-demo.test-socrata.com
 ec2-52-5-192-237.compute-1.0-demo.test-socrata.com
 ec2-15-164-138-159.ap-northeast-2.compute.0-demo.test-socrata.com
 merchandising-preview.opendata-demo.test-socrata.com
-www.backup1-omsproxy-e6zyxw.0-chd.test-socrata.com
 ec2-54-199-145-80.ap-northeast-1.compute.0-demo.test-socrata.com
 sry139.c4.kafka.ap-southeast-1.0-demo.test-socrata.com
 0-2psagengv2.test-socrata.com
@@ -920,7 +910,7 @@ searchportal.opendata-demo.test-socrata.com
 0-demo-pay.test-socrata.com
 ec2-13-233-84-217.ap-south-1.compute.0-demo.test-socrata.com
 canary-e32bc2984c.24k1zf.c4.kafka.ap-southeast-2.0-demo.test-socrata.com
-www.canary-d913380d8e.i0mf9x.c4.kafka.ap-southeast-1.0-demo.test-socrata.com
+canary-d913380d8e.i0mf9x.c4.kafka.ap-southeast-1.0-demo.test-socrata.com
 ns1.0-demo-demo.test-socrata.com
 0-demo-s020b381.test-socrata.com
 bcp2-web-aud.0-demo.test-socrata.com
@@ -961,7 +951,7 @@ canary-e1f69a034149.s06w4n.c1.kafka.ca-central-1.0-demo.test-socrata.com
 0-demo-nn.test-socrata.com
 ec2-3-36-136-117.ap-northeast-2.compute.0-demo.test-socrata.com
 0-admins.test-socrata.com
-www.cloud.0-demo.test-socrata.com
+cloud.0-demo.test-socrata.com
 0-1-8.test-socrata.com
 _tls.test-socrata.com
 apache.test-socrata.com
@@ -1104,7 +1094,7 @@ sz.test-socrata.com
 ec2-107-22-238-217.compute-1.0-demo.test-socrata.com
 0-demo-service.test-socrata.com
 0-demo-ftp.test-socrata.com
-www.0-90.test-socrata.com
+0-90.test-socrata.com
 0-35.test-socrata.com
 mwtn-poc.test-socrata.com
 canary-cf100ed5fe87.ciausj.c4.kafka.ca-central-1.0-demo.test-socrata.com
@@ -1149,7 +1139,7 @@ ec2-54-248-112-202.ap-northeast-1.compute.0-demo.test-socrata.com
 0-30.test-socrata.com
 ec2-52-3-223-56.compute-1.0-demo.test-socrata.com
 collab.0-demo-demo.test-socrata.com
-www.0-11.test-socrata.com
+0-11.test-socrata.com
 albuquerque.test-socrata.com
 ec2-52-207-244-57.compute-1.0-demo.test-socrata.com
 ec2-54-180-115-158.ap-northeast-2.compute.0-demo.test-socrata.com
@@ -1460,14 +1450,12 @@ ec2-174-129-175-61.compute-1.0-demo.test-socrata.com
 cashmall-game-38ca2eef4880709c.elb.af-south-1.0-demo.test-socrata.com
 ec2-34-229-231-243.compute-1.0-demo.test-socrata.com
 dnm.0-15opendata-demo.test-socrata.com
-www.uvsiob.c4.kafka.ap-northeast-1.0-demo.test-socrata.com
 canary-2788c7aaa4bd.9len8w.c1.kafka.ca-central-1.0-demo.test-socrata.com
 ec2-54-145-191-107.compute-1.0-demo.test-socrata.com
 0-demo-stagtsg.test-socrata.com
 admin.0-demo-demo.test-socrata.com
 03.test-socrata.com
 gws.opendata-demo.test-socrata.com
-www.canary-d9415a4315.ahy1t8.c4.kafka.ap-northeast-2.0-demo.test-socrata.com
 netidcjxbf-esnode.0-boxstg-cms.test-socrata.com
 ec2-3-90-27-163.compute-1.0-demo.test-socrata.com
 0-37.test-socrata.com
@@ -1534,7 +1522,7 @@ philadelphia.test-socrata.com
 ec2-3-35-113-166.ap-northeast-2.compute.0-demo.test-socrata.com
 ap-east-1.compute.0-demo.test-socrata.com
 gws-qa.opendata-demo.test-socrata.com
-www.eyzqfy.c1.kafka.ap-south-1.0-demo.test-socrata.com
+eyzqfy.c1.kafka.ap-south-1.0-demo.test-socrata.com
 ec2-3-112-226-191.ap-northeast-1.compute.0-demo.test-socrata.com
 stats.0-demo-demo.test-socrata.com
 m0jow8.c2.kafka.ap-southeast-2.0-demo.test-socrata.com
@@ -1789,7 +1777,7 @@ ec2-34-224-78-92.compute-1.0-demo.test-socrata.com
 0-demo-proxy.test-socrata.com
 analytics.test-socrata.com
 0-demo-gws-qa.test-socrata.com
-www.0-120.test-socrata.com
+0-120.test-socrata.com
 web-design-and-ui.test-socrata.com
 0-cgiassetsgitlabure-assets.test-socrata.com
 ec2-3-236-64-206.compute-1.0-demo.test-socrata.com
@@ -1922,7 +1910,6 @@ tools.0-demo-opendata-demo.test-socrata.com
 ec2-18-235-8-87.compute-1.0-demo.test-socrata.com
 0-11235.test-socrata.com
 0-appmifiles-common.test-socrata.com
-www.0-4.test-socrata.com
 ec2-18-162-69-172.ap-east-1.compute.0-demo.test-socrata.com
 safety-fear.test-socrata.com
 de3sto.c1.kafka.ap-east-1.0-demo.test-socrata.com
@@ -1952,7 +1939,6 @@ ingress.test-socrata.com
 searchportal-dev.test-socrata.com
 mail2.opendata-demo.test-socrata.com
 0-111.test-socrata.com
-google.comdevelopment.metriccomv1.test1-omsproxy-e6zyxw.login.0-com-onlinegithub-ext-start-make-money-online.test-socrata.com
 fl68sr.c4.kafka.af-south-1.0-demo.test-socrata.com
 ec2-52-66-51-204.ap-south-1.compute.0-demo.test-socrata.com
 dc.opendata-demo.test-socrata.com
@@ -1994,7 +1980,7 @@ de0.test-socrata.com
 canary-b567662e2203.rdt6kv.c4.kafka.ca-central-1.0-demo.test-socrata.com
 cim-api-dev.opendata-demo.test-socrata.com
 0-authentication.test-socrata.com
-www.0-66.test-socrata.com
+0-66.test-socrata.com
 0-demo-sync.test-socrata.com
 ks-vendingtransactions-mq2.opendata-demo.test-socrata.com
 ec2-3-112-43-74.ap-northeast-1.compute.0-demo.test-socrata.com
@@ -2026,7 +2012,6 @@ a.0-demo-opendata-demo.test-socrata.com
 0-2nstagemnsteaven5.test-socrata.com
 ec2-13-250-204-74.ap-southeast-1.compute.0-demo.test-socrata.com
 ec2-52-199-198-158.ap-northeast-1.compute.0-demo.test-socrata.com
-0-11.test-socrata.com
 ec2-54-242-231-34.compute-1.0-demo.test-socrata.com
 ec2-13-228-125-213.ap-southeast-1.compute.0-demo.test-socrata.com
 opendata-demo.0-25.test-socrata.com
@@ -2054,7 +2039,7 @@ canary-0b167e6b71.ogipnw.c4.kafka.ap-northeast-1.0-demo.test-socrata.com
 ec2-13-229-99-6.ap-southeast-1.compute.0-demo.test-socrata.com
 ec2-52-79-221-138.ap-northeast-2.compute.0-demo.test-socrata.com
 0-demo-u.test-socrata.com
-www.compute-1.0-demo.test-socrata.com
+compute-1.0-demo.test-socrata.com
 0-3210zyxwvu.test-socrata.com
 latin.test-socrata.com
 0-demo-2rw8d345dax526rcgb121oh9.test-socrata.com
@@ -2184,13 +2169,12 @@ cws.ap-southeast-1.0-demo.test-socrata.com
 0-766235.test-socrata.com
 docs.test-socrata.com
 macintosh.test-socrata.com
-eyzqfy.c1.kafka.ap-south-1.0-demo.test-socrata.com
 www1.0-demo-opendata-demo.test-socrata.com
 8.test-socrata.com
 ec2-54-165-171-185.compute-1.0-demo.test-socrata.com
 appsync-api.ap-northeast-1.0-demo.test-socrata.com
 0-237.test-socrata.com
-www.0-assetsjk-assets.test-socrata.com
+0-assetsjk-assets.test-socrata.com
 0-147.test-socrata.com
 0-demo-preview.test-socrata.com
 0-demo-quality.test-socrata.com
@@ -2514,7 +2498,6 @@ occurrence-data.test-socrata.com
 attr.test-socrata.com
 vzrclf.c1.kafka.ap-northeast-2.0-demo.test-socrata.com
 0-d.test-socrata.com
-www.ec2-18-212-213-228.compute-1.0-demo.test-socrata.com
 canary-f1cf6b778f17.nysa5s.c2.kafka.ap-south-1.0-demo.test-socrata.com
 0-110.test-socrata.com
 0-98.test-socrata.com
@@ -2561,7 +2544,6 @@ ec2-3-34-156-98.ap-northeast-2.compute.0-demo.test-socrata.com
 0-113-dsl.test-socrata.com
 readonly.test-socrata.com
 global.test-socrata.com
-www.0-176.test-socrata.com
 ec2-13-125-45-238.ap-northeast-2.compute.0-demo.test-socrata.com
 ec2-18-183-96-87.ap-northeast-1.compute.0-demo.test-socrata.com
 phoenix.test-socrata.com
@@ -2666,7 +2648,7 @@ ec2-3-235-145-52.compute-1.0-demo.test-socrata.com
 0-75.test-socrata.com
 autoconfig.0-demo.test-socrata.com
 0-demo-cim-dev.test-socrata.com
-www.0-demo-home-startmk.test-socrata.com
+0-demo-home-startmk.test-socrata.com
 k3.test-socrata.com
 frzv89.c4.kafka.ap-northeast-2.0-demo.test-socrata.com
 0-apidocs.test-socrata.com
@@ -2799,7 +2781,6 @@ ec2-35-174-246-131.compute-1.0-demo.test-socrata.com
 video.0-demo-opendata-demo.test-socrata.com
 canary-13fd2929f7.o4gryx.c1.kafka.ap-northeast-1.0-demo.test-socrata.com
 search.test-socrata.com
-0-120.test-socrata.com
 ns2.opendata-demo.test-socrata.com
 security.test-socrata.com
 gitlab.0-demo-opendata-demo.test-socrata.com
@@ -2810,7 +2791,6 @@ store.0-demo-opendata-demo.test-socrata.com
 ec2-54-85-45-26.compute-1.0-demo.test-socrata.com
 0-acc.test-socrata.com
 0-demo-ks-limits-api.test-socrata.com
-www.0-8-0.test-socrata.com
 mongo.test-socrata.com
 y85xjj.c3.kafka.ap-northeast-2.0-demo.test-socrata.com
 sadmin.test-socrata.com
@@ -2990,7 +2970,6 @@ k0xzue.c2.kafka.ap-east-1.0-demo.test-socrata.com
 0-demo-smtp.test-socrata.com
 c3bwh0.c4.kafka.ap-east-1.0-demo.test-socrata.com
 canary-b10c682370.y85xjj.c3.kafka.ap-northeast-2.0-demo.test-socrata.com
-www.catalog-proxysql-live-sg-d5453fb2cafa5e18.elb.ap-southeast-1.0-demo.test-socrata.com
 ec2-107-20-40-27.compute-1.0-demo.test-socrata.com
 www-1.test-socrata.com
 0-demo-ids.test-socrata.com
@@ -3029,12 +3008,11 @@ ec2-75-101-221-43.compute-1.0-demo.test-socrata.com
 assets.0-demo-demo.test-socrata.com
 canary-7cb9f49b60.pc7e64.c2.kafka.ap-northeast-2.0-demo.test-socrata.com
 budget.0-demo.test-socrata.com
-www.ec2-18-162-85-74.ap-east-1.compute.0-demo.test-socrata.com
+ec2-18-162-85-74.ap-east-1.compute.0-demo.test-socrata.com
 9j3qwf.c3.kafka.ap-east-1.0-demo.test-socrata.com
 ec2-13-127-213-105.ap-south-1.compute.0-demo.test-socrata.com
 d-awy8i63hx0.execute-api.ap-south-1.0-demo.test-socrata.com
 ec2-54-146-46-32.compute-1.0-demo.test-socrata.com
-www.google.com-tomcat2-oms.5-comv2.tomcat1-omspreviewpay-e6zyxw.0-billing.test-socrata.com
 0-demo-security.test-socrata.com
 canary-760b1d1c0b.yo7zih.c2.kafka.ap-northeast-1.0-demo.test-socrata.com
 akamai-test.0-demo-opendata-demo.test-socrata.com
@@ -3117,7 +3095,6 @@ mhdcdcts03olvemo.test.test.data.tgebackup-omsproxy-partner.0-chd.test-socrata.co
 ec2-13-233-18-30.ap-south-1.compute.0-demo.test-socrata.com
 yvn1m1.c2.kafka.ap-east-1.0-demo.test-socrata.com
 canary-340da3ca55df.tjxrwv.c4.kafka.ap-east-1.0-demo.test-socrata.com
-0-90.test-socrata.com
 ec2-54-82-42-204.compute-1.0-demo.test-socrata.com
 john.0-aws.test-socrata.com
 0-demo-stat.test-socrata.com
@@ -3170,7 +3147,6 @@ first-app.test-socrata.com
 ec2-3-34-192-197.ap-northeast-2.compute.0-demo.test-socrata.com
 help.0-demo-opendata-demo.test-socrata.com
 nginx-newest1.0-demo-demo.test-socrata.com
-canary-d913380d8e.i0mf9x.c4.kafka.ap-southeast-1.0-demo.test-socrata.com
 0-bvv997uuc7ddc72bp4r0.test-socrata.com
 ga.test-socrata.com
 admin.0-demo-hera.test-socrata.com
@@ -3263,7 +3239,6 @@ ec2-15-164-162-6.ap-northeast-2.compute.0-demo.test-socrata.com
 ec2-34-231-84-228.compute-1.0-demo.test-socrata.com
 jlag58.c2.kafka.ap-northeast-1.0-demo.test-socrata.com
 qaira.0-demo-john.test-socrata.com
-www.ec2-52-3-190-107.compute-1.0-demo.test-socrata.com
 0-04.test-socrata.com
 ec2-3-89-159-207.compute-1.0-demo.test-socrata.com
 0-bibliographies.test-socrata.com
@@ -3294,7 +3269,7 @@ gui.0-demo-demo.test-socrata.com
 ec2-107-20-192-61.compute-1.0-demo.test-socrata.com
 akamai.test-socrata.com
 ak.test-socrata.com
-www.google.comproductionment.comv2.test1-omsproxy-e4zyxw-apache.0-chddev-paytest.test-socrata.com
+google.comproductionment.comv2.test1-omsproxy-e4zyxw-apache.0-chddev-paytest.test-socrata.com
 ec2-54-152-2-223.compute-1.0-demo.test-socrata.com
 0-battleoure-assets-idcjoypaywall.test-socrata.com
 rfatez.c3.kafka.ap-southeast-1.0-demo.test-socrata.com
@@ -3338,13 +3313,12 @@ ec2-184-72-106-165.compute-1.0-demo.test-socrata.com
 redux-bank.test-socrata.com
 ec2-174-129-141-158.compute-1.0-demo.test-socrata.com
 ec2-18-212-172-224.compute-1.0-demo.test-socrata.com
-www.0-ctl.test-socrata.com
+0-ctl.test-socrata.com
 canary-60dfd2ba2778.ks1byw.c2.kafka.ap-south-1.0-demo.test-socrata.com
 ipsec-test.test-socrata.com
 ec2-13-235-129-167.ap-south-1.compute.0-demo.test-socrata.com
 ec2-54-225-238-235.compute-1.0-demo.test-socrata.com
 firewall.test-socrata.com
-www.docker.0-41.test-socrata.com
 2a.0-demo.test-socrata.com
 tcj7o5byxmgingoc.0-75.test-socrata.com
 0-auth.test-socrata.com
@@ -3405,7 +3379,6 @@ merchandising.test-socrata.com
 apn2.cache.0-demo.test-socrata.com
 office.0-demo-demo.test-socrata.com
 0-612wechecommunittjcssww.test-socrata.com
-www.ec2-3-84-190-118.compute-1.0-demo.test-socrata.com
 usd7dv.c2.kafka.ap-northeast-1.0-demo.test-socrata.com
 ec2-52-193-156-187.ap-northeast-1.compute.0-demo.test-socrata.com
 ec2-3-85-108-67.compute-1.0-demo.test-socrata.com
@@ -3440,7 +3413,6 @@ canary-1b6668a535.lzq5u3.c1.kafka.ap-northeast-1.0-demo.test-socrata.com
 ec2-18-215-218-27.compute-1.0-demo.test-socrata.com
 0-demo-billing.test-socrata.com
 canary-a600a8f1bb93.ldm5qf.c1.kafka.ap-south-1.0-demo.test-socrata.com
-0-60-docker.test-socrata.com
 7agkix.c4.kafka.ap-southeast-2.0-demo.test-socrata.com
 ec2-54-90-69-159.compute-1.0-demo.test-socrata.com
 provincia.test-socrata.com
@@ -3586,7 +3558,6 @@ apidocs.test-socrata.com
 comm.2ohh-bkingcfo.mhdcdcts03olvemo.test.test.data.tgebackup-omsproxy-partner.0-chd.test-socrata.com
 0-2016-03-01-friday-26-febuary-2016.test-socrata.com
 ec2-54-144-201-42.compute-1.0-demo.test-socrata.com
-www.0-demo-demo.test-socrata.com
 ec2-54-199-225-5.ap-northeast-1.compute.0-demo.test-socrata.com
 fjnmy1.c2.kafka.ap-southeast-1.0-demo.test-socrata.com
 d3scc3.c2.kafka.ap-south-1.0-demo.test-socrata.com
@@ -3732,7 +3703,6 @@ ec2-35-153-206-19.compute-1.0-demo.test-socrata.com
 acc.test-socrata.com
 myhome.test-socrata.com
 d-xi89fanzbf.execute-api.ca-central-1.0-demo.test-socrata.com
-www.google.com-eventscomv2.cniad-secureproxyassetsdanghuandev-pay.0-authorization-comv2.test-socrata.com
 ip.test-socrata.com
 view.test-socrata.com
 0-demo-machine.test-socrata.com
@@ -3747,7 +3717,6 @@ mailserv.test-socrata.com
 gnrxvt.c3.kafka.ap-northeast-2.0-demo.test-socrata.com
 with-nebula-os-package-plugin.test-socrata.com
 0-2-430b0-dot-living-bio.test-socrata.com
-0-demo-home-startmk.test-socrata.com
 vantive.test-socrata.com
 0-demo-ce05-4bca-848d-c4e4dac19851.test-socrata.com
 module-object.test-socrata.com
@@ -3812,7 +3781,6 @@ us-east-1.0-demo-demo.test-socrata.com
 ec2-3-212-239-166.compute-1.0-demo.test-socrata.com
 ec2-35-173-198-62.compute-1.0-demo.test-socrata.com
 ec2-3-92-53-55.compute-1.0-demo.test-socrata.com
-0-212.test-socrata.com
 374vni.c2.kafka.ap-northeast-1.0-demo.test-socrata.com
 0-197.test-socrata.com
 new.0-demo-opendata-demo.test-socrata.com
@@ -3837,7 +3805,6 @@ fo.test-socrata.com
 history.test-socrata.com
 ec2-54-86-50-176.compute-1.0-demo.test-socrata.com
 0-043a77998fb325870f2f5641.test-socrata.com
-www.c1c1538c8d18cba898adfc6cbe143092-d60f444a031ee2aa.elb.ap-southeast-2.0-demo.test-socrata.com
 0-34.test-socrata.com
 0-157.test-socrata.com
 esb6uz.ng.0001.euw1.cache.0-demo.test-socrata.com
@@ -3854,7 +3821,6 @@ using-base-in-head.test-socrata.com
 0-demo-root.test-socrata.com
 0-demo-nginx-newest1.test-socrata.com
 imap.0-demo-demo.test-socrata.com
-www.ec2-54-197-251-45.compute-1.0-demo.test-socrata.com
 0-demo-jenkins.test-socrata.com
 2preview.test-socrata.com
 gc-sr-1629624774.xfnzxy.c1.kafka.ap-northeast-1.0-demo.test-socrata.com
@@ -3972,7 +3938,6 @@ all-dispatch-tests.0-demo.test-socrata.com
 test13.nursing-hideip.comm.test.backup-iot-user.test.test.data.backup-omsproxy-partner.0-chd.test-socrata.com
 promo.team.0-battleoure-assets-idcjoypaywall.test-socrata.com
 0-demo-detenganlavacuna.test-socrata.com
-google.comproductionment.comv2.test1-omsproxy-e4zyxw-apache.0-chddev-paytest.test-socrata.com
 canary-73d15d0c3c.f4uh4a.c2.kafka.ap-northeast-1.0-demo.test-socrata.com
 0-203.test-socrata.com
 0-cleanup.test-socrata.com
@@ -4020,7 +3985,6 @@ idcjoy.id-epoch-acc.team-scm.0-data-in-ads.test-socrata.com
 aligned.test-socrata.com
 0-akamai.test-socrata.com
 ec2-34-206-108-253.compute-1.0-demo.test-socrata.com
-ec2-54-248-114-56.ap-northeast-1.compute.0-demo.test-socrata.com
 ec2-3-6-254-147.ap-south-1.compute.0-demo.test-socrata.com
 0-chromosome.test-socrata.com
 c1.kafka.ca-central-1.0-demo.test-socrata.com
@@ -4153,7 +4117,6 @@ download.0-demo-opendata-demo.test-socrata.com
 s7c2o8.c4.kafka.ap-northeast-1.0-demo.test-socrata.com
 01-unifiedpreference.test-socrata.com
 ssl.test-socrata.com
-www.0-demo-r-oneshop.test-socrata.com
 pc7e64.c2.kafka.ap-northeast-2.0-demo.test-socrata.com
 c92w0z.c3.kafka.ap-southeast-2.0-demo.test-socrata.com
 spending-migrate-one.0-demo-john-eupre.test-socrata.com
@@ -4184,7 +4147,6 @@ ec2-52-91-58-158.compute-1.0-demo.test-socrata.com
 0-demo-webmail.test-socrata.com
 ec2-52-91-178-169.compute-1.0-demo.test-socrata.com
 canary-1ecafe21bd12.qctadt.c1.kafka.ca-central-1.0-demo.test-socrata.com
-de.0-60.test-socrata.com
 3app.test-socrata.com
 webproxy.idcjoyapac.promo.elasticbeanstalk-team.0-assetsdocumentsdavpno.test-socrata.com
 dns1.0-demo-demo.test-socrata.com
@@ -4201,7 +4163,6 @@ mpstore.test-socrata.com
 0-72.test-socrata.com
 0-demo-nopendata-demo.test-socrata.com
 ec2-54-238-147-254.ap-northeast-1.compute.0-demo.test-socrata.com
-www.0-demo-h2.test-socrata.com
 aws-nitro-enclaves.0-demo.test-socrata.com
 0-demo-pop3.test-socrata.com
 ec2-13-235-4-222.ap-south-1.compute.0-demo.test-socrata.com
@@ -4210,7 +4171,6 @@ mx01.test-socrata.com
 cloudfront.0-demo.test-socrata.com
 af.test-socrata.com
 cloudreadiness.0-demo.test-socrata.com
-www.0-3.test-socrata.com
 canary-0cc3fb439f7f.c3bwh0.c4.kafka.ap-east-1.0-demo.test-socrata.com
 _collab-edge.test-socrata.com
 mkehn2.c4.kafka.ap-east-1.0-demo.test-socrata.com
@@ -4271,7 +4231,6 @@ ec2-54-175-88-102.compute-1.0-demo.test-socrata.com
 ec2-54-88-113-92.compute-1.0-demo.test-socrata.com
 eupre.test-socrata.com
 0-1-hello-sockets-overview.test-socrata.com
-www.elb.af-south-1.0-demo.test-socrata.com
 0-create-config.test-socrata.com
 go.opendata-demo.test-socrata.com
 ec2-54-150-100-95.ap-northeast-1.compute.0-demo.test-socrata.com
@@ -4282,11 +4241,9 @@ ec2-3-94-61-159.compute-1.0-demo.test-socrata.com
 swag.test-socrata.com
 ec2-54-162-107-191.compute-1.0-demo.test-socrata.com
 ec2-18-181-62-84.ap-northeast-1.compute.0-demo.test-socrata.com
-www.0-60-opendata-dest.test-socrata.com
 nodejs-dev.0-demo-demo.test-socrata.com
 ec2-52-192-80-77.ap-northeast-1.compute.0-demo.test-socrata.com
 0-1knapsackdeckbuilder.test-socrata.com
-www.bbs.0-demo.test-socrata.com
 0-admissions.test-socrata.com
 6fj50q.c3.kafka.ap-southeast-1.0-demo.test-socrata.com
 0-demo-losinstrumentosmusicales.test-socrata.com
@@ -4354,7 +4311,6 @@ crm.opendata-demo.test-socrata.com
 0-aws-us-west-2-staging.test-socrata.com
 0-4-0.test-socrata.com
 k8s-dev.test-socrata.com
-www.0-demo-opendata-demo.test-socrata.com
 ec2-54-211-183-56.compute-1.0-demo.test-socrata.com
 ec2-52-207-106-252.compute-1.0-demo.test-socrata.com
 ec2-52-23-191-221.compute-1.0-demo.test-socrata.com
@@ -4410,7 +4366,6 @@ kafka-cluster-005.sohpjz.c2.kafka.ap-southeast-2.0-demo.test-socrata.com
 0-1549gv3jpbp222k87b285kej-wpengine.test-socrata.com
 ec2-13-231-96-43.ap-northeast-1.compute.0-demo.test-socrata.com
 server1.0-demo-demo.test-socrata.com
-compute-1.0-demo.test-socrata.com
 kentucky.test-socrata.com
 bklsy6.0001.apn2.cache.0-demo.test-socrata.com
 0-demo-retail.test-socrata.com
@@ -4477,7 +4432,7 @@ gui.opendata-demo.test-socrata.com
 0-463aopendata.test-socrata.com
 couplingmodel.test-socrata.com
 ec2-34-203-211-195.compute-1.0-demo.test-socrata.com
-www.canary-be79f27c3de1.lv8nlk.c2.kafka.ap-south-1.0-demo.test-socrata.com
+canary-be79f27c3de1.lv8nlk.c2.kafka.ap-south-1.0-demo.test-socrata.com
 dd.test-socrata.com
 c4.kafka.ap-southeast-2.0-demo.test-socrata.com
 vld2us.c4.kafka.ap-southeast-2.0-demo.test-socrata.com
@@ -4591,8 +4546,6 @@ ec2-13-125-180-160.ap-northeast-2.compute.0-demo.test-socrata.com
 cgi.0-demo.test-socrata.com
 181826.0-demo.test-socrata.com
 rl1ni6.c3.kafka.ap-northeast-1.0-demo.test-socrata.com
-0-66.test-socrata.com
-sohpjz.c2.kafka.ap-southeast-2.0-demo.test-socrata.com
 ec2-3-115-187-244.ap-northeast-1.compute.0-demo.test-socrata.com
 0-cust.test-socrata.com
 0-0-processor-demo.test-socrata.com
@@ -4602,7 +4555,6 @@ bide1-cluster.5k3ts6.c4.kafka.ap-northeast-1.0-demo.test-socrata.com
 0-demo-files.test-socrata.com
 v.test-socrata.com
 stg.test-socrata.com
-www.google.comdevelopment-node.cndev-oms-docker.eventscomv2.test1-omsproxy-dashboard.0-accmentmobile.test-socrata.com
 ks-invoice-api.0-demo-opendata-demo.test-socrata.com
 0-3weche-4.test-socrata.com
 ec2-18-176-244-99.ap-northeast-1.compute.0-demo.test-socrata.com
@@ -4620,7 +4572,6 @@ cert.0-demo.test-socrata.com
 canary-8b1be02a88.mb8qv9.c4.kafka.ap-southeast-2.0-demo.test-socrata.com
 canary-ccd9e4bc9c.uyaqz9.c4.kafka.ap-northeast-2.0-demo.test-socrata.com
 0-demo-new.test-socrata.com
-www.0-demo-green-effort.test-socrata.com
 canary-c9fbb49794dd.h5xqed.c3.kafka.ap-east-1.0-demo.test-socrata.com
 ssl.0-demo-demo.test-socrata.com
 0-authenticate.test-socrata.com
@@ -4691,7 +4642,6 @@ u6gsvd.c1.kafka.ap-south-1.0-demo.test-socrata.com
 repository.test-socrata.com
 0-155.test-socrata.com
 ec2-52-193-195-104.ap-northeast-1.compute.0-demo.test-socrata.com
-www.ec2-15-206-77-181.ap-south-1.compute.0-demo.test-socrata.com
 ec2-13-115-43-118.ap-northeast-1.compute.0-demo.test-socrata.com
 bajolamascara.test-socrata.com
 0-600.test-socrata.com
@@ -4727,7 +4677,6 @@ cim-data-quality-qa.0-demo-demo.test-socrata.com
 c3.kafka.ap-southeast-1.0-demo.test-socrata.com
 pre-prod.0-demo-opendata-demo.test-socrata.com
 elb.ap-east-1.0-demo.test-socrata.com
-www.0-6packabs.test-socrata.com
 0-1-okta-ios-admins-api-client-secure.test-socrata.com
 mx01.0-demo-opendata-demo.test-socrata.com
 documentation.test-socrata.com
@@ -4786,7 +4735,6 @@ canary-6a7fe4ef50.q6neay.c3.kafka.ap-northeast-1.0-demo.test-socrata.com
 owa.0-demo-demo.test-socrata.com
 mvn.test-socrata.com
 golo.test-socrata.com
-www.0-11235.test-socrata.com
 canary-a3c3885ba0.vfntej.c1.kafka.ap-northeast-1.0-demo.test-socrata.com
 ec2-34-230-39-76.compute-1.0-demo.test-socrata.com
 0-152.test-socrata.com
@@ -4797,7 +4745,6 @@ ec2-52-86-83-217.compute-1.0-demo.test-socrata.com
 canary-f578be2e3604.jdjlhl.c1.kafka.ca-central-1.0-demo.test-socrata.com
 ec2-3-6-223-48.ap-south-1.compute.0-demo.test-socrata.com
 2-_etcd-server-ssl.test-socrata.com
-www.ec2-107-21-67-151.compute-1.0-demo.test-socrata.com
 c2.kafka.ap-southeast-2.0-demo.test-socrata.com
 ec2-52-198-220-30.ap-northeast-1.compute.0-demo.test-socrata.com
 ec2-18-163-211-107.ap-east-1.compute.0-demo.test-socrata.com
@@ -4807,7 +4754,6 @@ cim-dev.opendata-demo.test-socrata.com
 canary-ab592bb4617b.izvwg4.c4.kafka.ca-central-1.0-demo.test-socrata.com
 ec2-13-209-61-157.ap-northeast-2.compute.0-demo.test-socrata.com
 0-country.test-socrata.com
-0-assetsjk-assets.test-socrata.com
 24k1zf.c4.kafka.ap-southeast-2.0-demo.test-socrata.com
 0-chd.test-socrata.com
 canary.wo8ht7.c3.kafka.ap-southeast-1.0-demo.test-socrata.com
@@ -4829,7 +4775,6 @@ mta-sts.opendata-demo.test-socrata.com
 0-demo-europe.test-socrata.com
 prod-envoy-wss-nlb-0-ae10b2d70f596b45.elb.ap-south-1.0-demo.test-socrata.com
 ec2-52-196-19-118.ap-northeast-1.compute.0-demo.test-socrata.com
-0-ctl.test-socrata.com
 vendor.0-demo-demo.test-socrata.com
 0-demo-dabrowa.test-socrata.com
 0-63.test-socrata.com
@@ -4862,7 +4807,6 @@ bower.test-socrata.com
 ec2-35-173-226-88.compute-1.0-demo.test-socrata.com
 0-demo-fw.test-socrata.com
 ec2-52-7-107-39.compute-1.0-demo.test-socrata.com
-www.c2.kafka.ap-northeast-1.0-demo.test-socrata.com
 customer-opendata-demo.test-socrata.com
 k7ya5v.c1.kafka.ap-southeast-1.0-demo.test-socrata.com
 control-flow.test-socrata.com
@@ -4966,7 +4910,6 @@ danieapp.opendata-demo.test-socrata.com
 0-demo-staff.test-socrata.com
 0-demo-h6.test-socrata.com
 msk-cluster-test.hqrsv6.c2.kafka.ap-southeast-1.0-demo.test-socrata.com
-ec2-18-162-85-74.ap-east-1.compute.0-demo.test-socrata.com
 ec2-13-114-50-138.ap-northeast-1.compute.0-demo.test-socrata.com
 ec2-3-112-220-180.ap-northeast-1.compute.0-demo.test-socrata.com
 0-demo-respiratory.test-socrata.com
@@ -5051,7 +4994,6 @@ ciausj.c4.kafka.ca-central-1.0-demo.test-socrata.com
 0-demo-mx2.test-socrata.com
 0-3-stagemn.test-socrata.com
 0-demo-cvs.test-socrata.com
-www.0-766235.test-socrata.com
 0-analyticssigned.test-socrata.com
 0-7-weche-4.test-socrata.com
 0-demo-gcom-product-find-dev.test-socrata.com
@@ -5082,7 +5024,6 @@ ec2-52-1-83-65.compute-1.0-demo.test-socrata.com
 post.test-socrata.com
 chef.test-socrata.com
 ec2-13-232-14-9.ap-south-1.compute.0-demo.test-socrata.com
-cloud.0-demo.test-socrata.com
 0-add-cities.test-socrata.com
 ec2-18-166-102-180.ap-east-1.compute.0-demo.test-socrata.com
 ec2-54-146-36-165.compute-1.0-demo.test-socrata.com
@@ -5124,7 +5065,6 @@ gws.0-demo-opendata-demo.test-socrata.com
 pjr7i0.c4.kafka.ap-southeast-1.0-demo.test-socrata.com
 mail2.0-demo-opendata-demo.test-socrata.com
 wpx395.c3.kafka.ap-southeast-1.0-demo.test-socrata.com
-www.0-demo-marcoantonio.test-socrata.com
 cgi.test-socrata.com
 15-002.test-socrata.com
 ks-vendingtransactions-mq2.0-41-demo.test-socrata.com
@@ -5150,7 +5090,6 @@ canary-219a3f624085.wfyioy.c4.kafka.ap-east-1.0-demo.test-socrata.com
 exploreontimeflightperformancedataset.test-socrata.com
 cf3.0-demo.test-socrata.com
 ec2-46-51-233-40.ap-northeast-1.compute.0-demo.test-socrata.com
-canary-be79f27c3de1.lv8nlk.c2.kafka.ap-south-1.0-demo.test-socrata.com
 0-demo-r3---sn-ab5sznld.test-socrata.com
 ec2-13-127-15-106.ap-south-1.compute.0-demo.test-socrata.com
 canary-6335efcb5c.fcdu69.c3.kafka.ap-southeast-1.0-demo.test-socrata.com
@@ -6622,7 +6561,6 @@ sub-97-234-101.test-socrata.com
 ghcpi.test-socrata.com
 jbb.test-socrata.com
 budhost2015.test-socrata.com
-*.homepage.apps.test-socrata.com
 homepage.apps.test-socrata.com
 integrations.apps.test-socrata.com
 jhyatt.test-socrata.com

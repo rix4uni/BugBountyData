@@ -6,7 +6,6 @@ prod-api.mailtag.io
 blog.mailtag.io
 api.mailtag.io
 dev-api.mailtag.io
-www.mailtag.io
 dashboard.mailtag.io
 digest.mailtag.io
 api.staging.mailtag.io
@@ -15,7 +14,6 @@ beta.mailtag.io
 dash.mailtag.io
 help.mailtag.io
 portal.mailtag.io
-www.blog.mailtag.io
 grafana-dev.mailtag.io
 652.development.mailtag.io
 643.development.mailtag.io

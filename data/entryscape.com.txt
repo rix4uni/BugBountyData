@@ -4,7 +4,7 @@ registry-dev.entryscape.com
 assets.entryscape.com
 community.entryscape.com
 dev.entryscape.com
-www.cdn.entryscape.com
+cdn.entryscape.com
 swagger.entryscape.com
 dev2.docs.entryscape.com
 free.entryscape.com
@@ -12,7 +12,6 @@ staging.docs.entryscape.com
 g.dev.entryscape.com
 docs.entryscape.com
 static.infra.entryscape.com
-www.entryscape.com
 support.entryscape.com
 af.dev.entryscape.com
 security.entryscape.com

@@ -3,7 +3,6 @@ ims.fhfa.gov
 solutiononetest.fhfa.gov
 citrix.fhfa.gov
 workext.cns.fhfa.gov
-www.fhfa.gov
 solutionone.fhfa.gov
 gpvpn.fhfa.gov
 gpadmin.fhfa.gov
@@ -76,7 +75,7 @@ access-cc.fhfa.gov
 av-cc.fhfa.gov
 dialin.fhfa.gov
 webapp01.fhfa.gov
-www.int.fhfa.gov
+int.fhfa.gov
 webapp12.fhfa.gov
 av-dc.fhfa.gov
 access-dc.fhfa.gov
@@ -91,7 +90,6 @@ ns02.fhfa.gov
 meet-ext.cns.fhfa.gov
 webext02.fhfa.gov
 imsws21.int.fhfa.gov
-int.fhfa.gov
 imswa22.int.fhfa.gov
 scdvr.fhfa.gov
 citrixext.cns.fhfa.gov

@@ -4,12 +4,11 @@ plugins.qbittorrent.org
 bugs.qbittorrent.org
 doc.qbittorrent.org
 bug.qbittorrent.org
-www.qbittorrent.org
 searchplugins.qbittorrent.org
-www.www.qbittorrent.org
+www.qbittorrent.org
 wiki.qbittorrent.org
 source.qbittorrent.org
-www.f.qbittorrent.org
+f.qbittorrent.org
 cpanel.qbittorrent.org
 webdisk.qbittorrent.org
 ftp.qbittorrent.org
@@ -17,4 +16,3 @@ git.qbittorrent.org
 webmail.qbittorrent.org
 mail.qbittorrent.org
 forums.qbittorrent.org
-f.qbittorrent.org

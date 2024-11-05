@@ -5,7 +5,7 @@ dns1.cybersource.com
 eqix-sv8.cybersource.com
 reports.us.cybersource.com
 vdensslvpn2.cybersource.com
-www.email.cybersource.com
+email.cybersource.com
 docs.cas.cybersource.com
 rs2client.cybersource.com
 secure-api.cybersource.com
@@ -98,7 +98,7 @@ amf.cybersource.com
 businesscentertest.ca.cybersource.com
 57499-oce0-apia.cybersource.com
 smbregistration.ca.cybersource.com
-www.webmail.cybersource.com
+webmail.cybersource.com
 mail.cybersource.com
 reg.ca.cybersource.com
 84927-occ0-testsecureacceptance.cybersource.com
@@ -134,9 +134,8 @@ new-sit.ets-hosted.cybersource.com
 sbreseller.us.cybersource.com
 smbregistration.cybersource.com
 paytest.cybersource.com
-www.cps.mvci-hosted.cybersource.com
+cps.mvci-hosted.cybersource.com
 hm-test.hosted.cybersource.com
-www.info.cybersource.com
 63727-oce-ebc.cybersource.com
 apiaccountupdater.cybersource.com
 rb.cybersource.com
@@ -153,10 +152,8 @@ shop-hardware.cybersource.com
 ump.cybersource.com
 support.cybersource.com
 community.developer.cybersource.com
-www.new-cybetsperf.ets-hosted.cybersource.com
 nab-gw.apitest.cybersource.com
 88425-oce-rtmclientcenter.cybersource.com
-www.cybersource.com
 businesscentertest.global.cybersource.com
 c3-developer.cas.cybersource.com
 mailhost.cybersource.com
@@ -166,15 +163,13 @@ barc-gw.ebc2test.cybersource.com
 batchuploadtest.cybersource.com
 new-sit.cybersource.com
 sjesslvpn.cybersource.com
-www.ca.cybersource.com
-www.cybetsperfbatch.ets-hosted.cybersource.com
+ca.cybersource.com
 apia.cybersource.com
 statustest.cybersource.com
 49592-occ-ubc.cybersource.com
 accountupdater.us.cybersource.com
 testsecureacceptancea.cybersource.com
 new-production.cybersource.com
-www.co.cybersource.com
 testsecureacceptance.merchant-services.cybersource.com
 supportscreens.global.cybersource.com
 sbcreports.cybersource.com
@@ -190,7 +185,7 @@ mori-test.hosted.cybersource.com
 umpsandbox.cybersource.com
 c2-developer.cas.cybersource.com
 mams.cybersource.com
-www.production.ets-hosted.cybersource.com
+production.ets-hosted.cybersource.com
 supportscreens.ca.cybersource.com
 mh2.cybersource.com
 13678-occ-apply.cybersource.com
@@ -208,7 +203,7 @@ visanetgt.ubctest.cybersource.com
 stage-ebc.cybersource.com
 41616-occ-ebc2.cybersource.com
 community.developer.cas.cybersource.com
-www.global.cybersource.com
+global.cybersource.com
 ebc2.in.cybersource.com
 supportscreens.cybersource.com
 34342-occ-businesscentertest.cybersource.com
@@ -216,11 +211,10 @@ batchtest.cybersource.com
 25397-occ-testsecureacceptancea.cybersource.com
 ebc2.cybersource.com
 barclays-docs.cas.cybersource.com
-www.community.developer.cybersource.com
 secureacceptance.cybersource.com
 cgkstage.cybersource.com
 wvo-test.hosted.cybersource.com
-www.batch.ets-hosted.cybersource.com
+batch.ets-hosted.cybersource.com
 pop3.cybersource.com
 54379-occ0-apiaccountupdater.cybersource.com
 rakbankpay.ubc.cybersource.com
@@ -236,13 +230,11 @@ storedvalue.global.cybersource.com
 ets-hosted.cybersource.com
 stageflex.cybersource.com
 mail06.demand.cybersource.com
-webmail.cybersource.com
 17390-oce-secureacceptance.cybersource.com
 equitybanktanzania.ubc.cybersource.com
 downloadreports.in.cybersource.com
 uksslvpn.cybersource.com
 sbcreports.ca.cybersource.com
-batch.ets-hosted.cybersource.com
 secureacceptancetemp.cybersource.com
 56938-oce0-apiaccountupdater.cybersource.com
 visatt-test.hosted.cybersource.com
@@ -261,7 +253,6 @@ application.cybersource.com
 mail02.demand.cybersource.com
 notificationsicltest.gpx.cybersource.com
 supportscreenstest.us.cybersource.com
-www.cps-test.mvci-hosted.cybersource.com
 supporttestv1.cybersource.com
 gdf.cybersource.com
 pier1-test.hosted.cybersource.com
@@ -274,11 +265,9 @@ paybylinktest.cybersource.com
 82594-oce0-ebctest.cybersource.com
 demand.cybersource.com
 mori.hosted.cybersource.com
-www.app.demand.cybersource.com
-www.new-sit.ets-hosted.cybersource.com
+app.demand.cybersource.com
 comcast.hosted.cybersource.com
 13678-oce-apply.cybersource.com
-www.us.cybersource.com
 api.us.cybersource.com
 businesscenter.ca.cybersource.com
 devtest1.cybersource.com
@@ -297,7 +286,6 @@ ecb.cybersource.com
 paymentsense.ubc.cybersource.com
 api-ma.in.cybersource.com
 gdftest.cybersource.com
-www.cas.cybersource.com
 dns4.cybersource.com
 batch.cybersource.com
 34221-oce-downloadreports.cybersource.com
@@ -317,7 +305,7 @@ apps.ca.cybersource.com
 gpxclienttest.cybersource.com
 mail03.demand.cybersource.com
 downloadreports.cybersource.com
-www.stage.ets-hosted.cybersource.com
+stage.ets-hosted.cybersource.com
 54345-occ-ubctest.cybersource.com
 accountupdatertest.us.cybersource.com
 wellsfargo.cybersource.com
@@ -328,12 +316,10 @@ tmsclienttest.cybersource.com
 businesscenter.cybersource.com
 stage.cybersource.com
 sje-7206-1.cybersource.com
-email.cybersource.com
 search.cybersource.com
 storedvalue.us.cybersource.com
 hbl.ubc.cybersource.com
 network.ubctest.cybersource.com
-production.ets-hosted.cybersource.com
 apitesta.cybersource.com
 hidden-master.cybersource.com
 notifications.gpx.cybersource.com
@@ -346,10 +332,8 @@ ets.hosted.cybersource.com
 psc.cybersource.com
 tmsclientqa.cybersource.com
 wfgateway.us.cybersource.com
-www.community.developer.cas.cybersource.com
-www.images.demand.cybersource.com
+images.demand.cybersource.com
 94541-occ-svtest.cybersource.com
-app.demand.cybersource.com
 downloadreports.ca.cybersource.com
 mail04.demand.cybersource.com
 18493-occ0-apiaccountupdatertest.cybersource.com
@@ -358,7 +342,6 @@ mail04.demand.cybersource.com
 nab-docs.cas.cybersource.com
 api.in.cybersource.com
 c2-docs.cas.cybersource.com
-stage.ets-hosted.cybersource.com
 wvo-test2.hosted.cybersource.com
 54541-occ-ebctest.cybersource.com
 15421-oce-businesscenter.cybersource.com
@@ -370,7 +353,6 @@ hm.hosted.cybersource.com
 anz.ubc.cybersource.com
 38657-occ0-apia.cybersource.com
 barclaycard.ubc.cybersource.com
-images.demand.cybersource.com
 api.accountupdatertest.cybersource.com
 densslvpn.cybersource.com
 bankmuscat.ubc.cybersource.com
@@ -378,7 +360,6 @@ bankmuscat.ubc.cybersource.com
 stage2secureacceptance.cybersource.com
 umptest.cybersource.com
 gpap.ubctest.cybersource.com
-cps.mvci-hosted.cybersource.com
 reports.cybersource.com
 qnb.ubc.cybersource.com
 businesscentertest.us.cybersource.com
@@ -402,7 +383,7 @@ c3-docs.cas.cybersource.com
 batch.ca.cybersource.com
 secureacceptance.merchant-services.cybersource.com
 45329-oce-ebctest.cybersource.com
-www.az.cybersource.com
+az.cybersource.com
 stageup.cybersource.com
 apply.cybersource.com
 83482-occ-wfgateway.cybersource.com
@@ -420,7 +401,6 @@ sbwww.cybersource.com
 apply.ca.cybersource.com
 smtp-gw.cybersource.com
 portal.support.cybersource.com
-ca.cybersource.com
 6539553-occ0-origin.cybersource.com
 search.ca.cybersource.com
 ebc2test.cybersource.com
@@ -428,7 +408,6 @@ sslvpn.cybersource.com
 serial1-0.cybersource.com
 flex.cybersource.com
 testflex.cybersource.com
-global.cybersource.com
 ir.cybersource.com
 nab-gw.ebc2test.cybersource.com
 oce-secure-apitest.cybersource.com
@@ -454,7 +433,6 @@ tcms.ubc.cybersource.com
 worldpay.ubc.cybersource.com
 prod.developer.cybersource.com
 mashreq.ubctest.cybersource.com
-www.stage2secureacceptance.cybersource.com
 internal.cgktest.cybersource.com
 bangkokbank.ubc.cybersource.com
 63727-oce-ebc.ubc.in.cybersource.com
@@ -3843,7 +3821,6 @@ wa.0-13141511-occ0-vsictest.ubc.in.cybersource.com
 cust.0.0-09.ubc.in.cybersource.com
 ubc.in.cybersource.apitesta.0-01.ubc.in.cybersource.com
 axisbank.api1.0-003.ubc.in.cybersource.com
-az.cybersource.com
 incpsmtconfluence.cybersource.lan.0-09.ubc.in.cybersource.com
 mail.0-11idev.ubc.in.cybersource.com
 ubc.in.cybersource.d4.0-05.ubc.in.cybersource.com

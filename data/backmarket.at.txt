@@ -4,7 +4,6 @@ tr.preprod.backmarket.at
 dse.backmarket.at
 oauth2-staging.backmarket.at
 preprod.backmarket.at
-www.backmarket.at
 analytics.backmarket.at
 dev.backmarket.at
 story.backmarket.at
@@ -15,11 +14,6 @@ oauth2-preprod.backmarket.at
 oauth2-prod.backmarket.at
 tr.backmarket.at
 int.backmarket.at
-*.backmarket.at
-*.dev.backmarket.at
-*.int.backmarket.at
-*.preprod.backmarket.at
-*.dse.backmarket.at
 oauth2-staging-eu.backmarket.at
 accounts.preprod.backmarket.at
 oauth2-preprod-eu.backmarket.at

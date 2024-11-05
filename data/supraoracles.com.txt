@@ -6,13 +6,11 @@ teleport.supraoracles.com
 pritunl-vpn.entropy.supraoracles.com
 data.supraoracles.com
 jenkins.entropy.supraoracles.com
-*.supraoracles.com
 rpc-devnet.supraoracles.com
 wss-cerberus.supraoracles.com
 wp.supraoracles.com
 auth.supraoracles.com
 qa-scout.supraoracles.com
-www.supraoracles.com
 prod-pritunl-vpn.entropy.supraoracles.com
 join.supraoracles.com
 cerberus.supraoracles.com

@@ -1,4 +1,3 @@
-*.starlinkisp.net
 acklnzl1-mgt-fwl1.starlinkisp.net
 alerts.starlinkisp.net
 aws-fgm-01.starlinkisp.net
@@ -283,9 +282,6 @@ tools-01.starlinkisp.net
 v4-mtu9k-sea-six.starlinkisp.net
 vpn-fw-01.starlinkisp.net
 vpnserver.starlinkisp.net
-www.starlinkisp.net
-www.geoip.starlinkisp.net
-www.observium.starlinkisp.net
 ztp.starlinkisp.net
 alert.starlinkisp.net
 alertmanager.starlinkisp.net

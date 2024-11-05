@@ -1,7 +1,6 @@
-*.bplans.com
-*.qa.bplans.com
-*.qa-articles.bplans.com
-*.qa-timberry.bplans.com
+qa.bplans.com
+qa-articles.bplans.com
+qa-timberry.bplans.com
 253awww.bplans.com
 3awww.bplans.com
 a.bplans.com
@@ -349,9 +348,6 @@ publishing-catalog.bplans.com
 publishing-catalog.www.bplans.com
 publishing-preview.bplans.com
 publishing-preview.www.bplans.com
-qa.bplans.com
-qa-articles.bplans.com
-qa-timberry.bplans.com
 remote.bplans.com
 remote.www.bplans.com
 retail.bplans.com
@@ -478,8 +474,6 @@ ww1.bplans.com
 ww1.www.bplans.com
 wwn.bplans.com
 www.bplans.com
-www.upandrunning.bplans.com
-www.www.bplans.com
 www1.bplans.com
 www1.www.bplans.com
 www2.bplans.com

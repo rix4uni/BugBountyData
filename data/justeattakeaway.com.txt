@@ -2,7 +2,7 @@ view.ridewith.justeattakeaway.com
 mta19.connect.justeattakeaway.com
 localhost.connect.justeattakeaway.com
 mta24.connect.justeattakeaway.com
-www.tech.justeattakeaway.com
+tech.justeattakeaway.com
 mta11.connect.justeattakeaway.com
 mta30.connect.justeattakeaway.com
 mta29.connect.justeattakeaway.com
@@ -19,7 +19,6 @@ mta34.connect.justeattakeaway.com
 mta22.connect.justeattakeaway.com
 mta5.connect.justeattakeaway.com
 mta.hello.justeattakeaway.com
-www.justeattakeaway.com
 brand.justeattakeaway.com
 jobalerts.justeattakeaway.com
 hello.justeattakeaway.com
@@ -28,7 +27,6 @@ mta31.connect.justeattakeaway.com
 mta28.connect.justeattakeaway.com
 bounce.ridewith.justeattakeaway.com
 mta26.connect.justeattakeaway.com
-tech.justeattakeaway.com
 mta7.hello.justeattakeaway.com
 mta25.connect.justeattakeaway.com
 mta11.hello.justeattakeaway.com
@@ -88,7 +86,6 @@ kitchen.justeattakeaway.com
 mta37.connect.justeattakeaway.com
 features.api.justeattakeaway.com
 mta3.connect.justeattakeaway.com
-www.careers.justeattakeaway.com
 partner-hub.justeattakeaway.com
 emails.corporate.justeattakeaway.com
 enterpriseenrollment.justeattakeaway.com
@@ -115,11 +112,6 @@ email.news.justeattakeaway.com
 forum.justeattakeaway.com
 just-eat-takeaway-bonus-scheme.justeattakeaway.com
 talent.justeattakeaway.com
-*.justeattakeaway.com
-*.api.justeattakeaway.com
-*.api-staging.justeattakeaway.com
-*.dev.justeattakeaway.com
-*.staging.justeattakeaway.com
 image.hello.justeattakeaway.com
 nullcareers.justeattakeaway.com
 cloud.update.justeattakeaway.com

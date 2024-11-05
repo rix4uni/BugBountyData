@@ -1,9 +1,8 @@
-www.sick.com
 s3.systemselektor.svd.cloud.sick.com
 phpmyadmin.systemselektor.svd.cloud.sick.com
 assethub-admin.cloud.sick.com
 oetker.uat-cloud.sick.com
-www.explore.sick.com
+explore.sick.com
 smartservice.sick.com
 dtag.dev-cloud.sick.com
 api.maritime-compliance-monitor.cloud.sick.com
@@ -61,7 +60,7 @@ test-cloud.sick.com
 api.oetker.cloud.sick.com
 dev.userservice.sick.com
 repo.sick.com
-www.brand.sick.com
+brand.sick.com
 id-events.cloud.sick.com
 id-origin.sick.com
 webcube.sick.com
@@ -104,7 +103,7 @@ api.iam.dev-cloud.sick.com
 sps.dev-cloud.sick.com
 mail02.sick.com
 prtg.sick.com
-www.test2.sick.com
+test2.sick.com
 device-manifest.cloud.sick.com
 csxcpqcloudprod.sick.com
 id.sick.com
@@ -142,7 +141,7 @@ safety-analytics.cloud.sick.com
 valuemap.svd.test-cloud.sick.com
 vcsgwus.video.sick.com
 dtag.uat-cloud.sick.com
-www.prod.sick.com
+prod.sick.com
 john.sick.com
 sentry-test1-3.sick.com
 sentry.sick.com
@@ -185,9 +184,8 @@ windowwww.sick.com
 cdn.sick.com
 jobboerse.sick.com
 aldi.demo.svd.test-cloud.sick.com
-test2.sick.com
 api.flm.dev-cloud.sick.com
-www.test.sick.com
+test.sick.com
 orora.cloud.sick.com
 karriereblog.sick.com
 api.oee.test-cloud.sick.com
@@ -219,7 +217,7 @@ api.maritime-compliance-monitor.dev-cloud.sick.com
 marketplace.asf.appspace.cloud.sick.com
 dev.api.integration.az.sick.com
 userselfserviceauth.sick.com
-www.uat2.sick.com
+uat2.sick.com
 desksharingweb.sick.com
 appspace.dev-cloud.sick.com
 uat-cloud.sick.com
@@ -240,13 +238,11 @@ skm.uat-cloud.sick.com
 uat.api.integration.sick.com
 mail01.info.sick.com
 artifactory.sick.com
-www.myevent.sick.com
 sd3.cloud.sick.com
 flm.dev-cloud.sick.com
 web.svd.cloud.sick.com
 gcp.cloud.sick.com
 ftp.sick.com
-www.skm.uat-cloud.sick.com
 api.machine-monitoring.cloud.sick.com
 api.machine-monitoring.test-cloud.sick.com
 csaf.cloud.sick.com
@@ -260,7 +256,7 @@ id-events.uat-cloud.sick.com
 extranet.sick.com
 flowsic-applicationdesign.uat-cloud.sick.com
 portal.sick.com
-www.userservice.sick.com
+userservice.sick.com
 bangkok.sick.com
 api.shuttle-monitoring.dev-cloud.sick.com
 vcsgw.ap.sick.com
@@ -271,7 +267,6 @@ maxwell.uat-cloud.sick.com
 oauthproxy.lcop-e2e.maxwell.uat-cloud.sick.com
 oee.uat-cloud.sick.com
 api.flm.uat-cloud.sick.com
-test.sick.com
 vcsgw02.na.sick.com
 api.aldi.demo.svd.test-cloud.sick.com
 api.oee.uat-cloud.sick.com
@@ -292,10 +287,7 @@ vpn.sick.com
 assethub.cloud.sick.com
 dokutool.cloud.sick.com
 pid.sick.com
-prod.sick.com
 wm9xq.sick.com
-www.ocean-conference.sick.com
-uat2.sick.com
 sentry3-2.sick.com
 systemselektor.cloud.sick.com
 vote.az.sick.com
@@ -312,7 +304,7 @@ loc.test-cloud.sick.com
 ci-twin.dev-cloud.sick.com
 sps.uat-cloud.sick.com
 vcsgwb2b.eu.sick.com
-www.locdev.sick.com
+locdev.sick.com
 reporting.sick.com
 sentry-test2.sick.com
 ddb.flowsic-applicationdesign.cloud.sick.com
@@ -339,15 +331,13 @@ emissionmonitor.dev-cloud.sick.com
 oetker.test-cloud.sick.com
 remoteservice.sick.com
 flowsic100gwww.sick.com
-brand.sick.com
 machine-monitoring.dev-cloud.sick.com
 guest.sick.com
 api.ida.dev-cloud.sick.com
 jobs.sick.com
 oauthproxy-argocd.applications.maxwell.uat-cloud.sick.com
 systemselektor.svd.cloud.sick.com
-www.train.userservice.sick.com
-www.uat.sick.com
+uat.sick.com
 dev.integration.sick.com
 extranet-q.sick.com
 mlg2.cloud.sick.com
@@ -409,7 +399,6 @@ api.oetker.uat-cloud.sick.com
 desksharing01.sick.com
 sentry3.sick.com
 sick-ems.sick.com
-www.play.userservice.sick.com
 apppool.cloud.sick.com
 cloudservice.sick.com
 groups.cloud.sick.com
@@ -436,7 +425,6 @@ lcop-e2e.maxwell.uat-cloud.sick.com
 machine-monitoring.uat-cloud.sick.com
 shuttle-monitoring.dev-cloud.sick.com
 web.svd.test-cloud.sick.com
-www.dev.userservice.sick.com
 preview.test2.sick.com
 costs.uat-cloud.sick.com
 docs.appspace.dev-cloud.sick.com
@@ -446,18 +434,15 @@ icc-2.maxwell.uat-cloud.sick.com
 registry.sick.com
 oauthproxy.lcop.maxwell.uat-cloud.sick.com
 test.marketplace.asf.appspace.dev-cloud.sick.com
-userservice.sick.com
 setup-mini-line.sick.com
 localization.sick.com
 msa.cloud.sick.com
-explore.sick.com
 oetker.dev-cloud.sick.com
 sentry5.sick.com
 vcsgw12.eu.sick.com
 sentry-test1-4.sick.com
 dtag.cloud.sick.com
 sia-online.sick.com
-www.license.sick.com
 ida.test-cloud.sick.com
 sd3.dev-cloud.sick.com
 jira.sick.com
@@ -483,7 +468,6 @@ api.flowsic-applicationdesign.dev-cloud.sick.com
 api.shuttle-monitoring.test-cloud.sick.com
 lcop.maxwell.uat-cloud.sick.com
 train-support.sick.com
-www.image.eloquamedia.sick.com
 cloudproxy.sick.com
 api.flm.cloud.sick.com
 eyeo-link.test-cloud.sick.com
@@ -492,7 +476,6 @@ id.test.sick.com
 images.info.sick.com
 device-manifest.dev-cloud.sick.com
 enco.test.sick.com
-locdev.sick.com
 dyson-tnt.dev-cloud.sick.com
 flowsic-digitaldesign.dev-cloud.sick.com
 ms-tunnel.sick.com
@@ -512,11 +495,9 @@ desksharing02.sick.com
 dev-support.sick.com
 na.sick.com
 phpmyadmin.valuemap.svd.test-cloud.sick.com
-uat.sick.com
 vcsgw02.eu.sick.com
 wakrt01.sick.com
 catchall.sick.com
-www.test.userservice.sick.com
 berufsorientierung.sick.com
 mail1.supportportal.sick.com
 partner.sick.com
@@ -525,8 +506,3 @@ svn.sick.com
 webkit-demo.svd.cloud.sick.com
 aasx.dev-cloud.sick.com
 latexco.uat-cloud.sick.com
-*.showcase.cloud.sick.com
-*.sd3.cloud.sick.com
-*.sd3.dev-cloud.sick.com
-*.sd3.uat-cloud.sick.com
-*.repo.cloud.sick.com

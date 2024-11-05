@@ -1,4 +1,3 @@
-*.okto.tech
 3p.okto.tech
 admin.okto.tech
 api.okto.tech
@@ -28,8 +27,6 @@ support.okto.tech
 test.okto.tech
 testing.okto.tech
 web.okto.tech
-www.okto.tech
-www.projects.okto.tech
 stream.okto.tech
 norge-data-query-service.okto.tech
 prod-mpc-mobile-b-node-1-spec.okto.tech
@@ -49,7 +46,6 @@ i6pjbdy5rl2cc0a.app.okto.tech
 dashboard-backend.okto.tech
 preprod-auth.okto.tech
 prod-mpc-mobile-a-node-2-spec.okto.tech
-www.portal.okto.tech
 preprod-norge-portfolio-service.okto.tech
 norge-search.okto.tech
 norge-flow-manager-backend.okto.tech
@@ -74,16 +70,13 @@ norge-bff.okto.tech
 prod-mpc-mobile-b-node-2-spec.okto.tech
 m.okto.tech
 preprod-norge-stream-v2.okto.tech
-www.dev.okto.tech
 norge-portfolio-service.okto.tech
-www.apps.okto.tech
-www.backend.okto.tech
 preprod-norge-flow-manager-backend.okto.tech
 whitepaper.okto.tech
 docs.okto.tech
 sandbox-auth.okto.tech
 experimentation.okto.tech
-www.cloud.okto.tech
+cloud.okto.tech
 okto-charts.okto.tech
 okto-wallet-connect.okto.tech
 apigw.okto.tech
@@ -92,15 +85,9 @@ x7pf1hydkigloqk.app.okto.tech
 click.okto.tech
 3p-bff.okto.tech
 login.okto.tech
-www.panel.okto.tech
-www.app.okto.tech
 sdk-docs.okto.tech
-www.crm.okto.tech
-www.store.okto.tech
 norge-stream.okto.tech
-www.new.okto.tech
 preprod-opensearch.okto.tech
-www.testing.okto.tech
 okto-admin.okto.tech
 rgie148ryurovem.app.okto.tech
 site.okto.tech
@@ -116,7 +103,6 @@ preprod-norge-stream.okto.tech
 help.okto.tech
 s.okto.tech
 preprod-norge-token-price.okto.tech
-www.support.okto.tech
 p1._domainkey.news.okto.tech
 auth.okto.tech
 norge-stream-v2.okto.tech

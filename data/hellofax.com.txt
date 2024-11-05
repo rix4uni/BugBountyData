@@ -5,7 +5,6 @@ staging.hellofax.com
 e.mail.hellofax.com
 marketing.hellofax.com
 blog.hellofax.com
-www.hellofax.com
 app.hellofax.com
 status.hellofax.com
 sandboxprod.hellofax.com
@@ -18,5 +17,4 @@ http-injector.mail.hellofax.com
 p26-iwmb8-china.hellofax.com
 integration.hellofax.com
 w.hellofax.com
-*.hellofax.com
 _dmarc.hellofax.com

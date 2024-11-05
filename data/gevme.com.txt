@@ -69,7 +69,6 @@ careers.gevme.com
 admin-dev.gevme.com
 custom-virtual2.gevme.com
 custom-virtual.gevme.com
-www.gevme.com
 custom.gevme.com
 survey-dev.gevme.com
 auth.gevme.com
@@ -99,11 +98,9 @@ api.crowdflow.gevme.com
 event-listing-dev.gevme.com
 fop-generator.gevme.com
 www-stg.gevme.com
-www.grow.gevme.com
 docs-dev.gevme.com
 crowdflow.gevme.com
 app-ui-dev.gevme.com
-www.gems.gevme.com
 pre-prod.gevme.com
 dashboard.gevme.com
 mom-dev.gevme.com
@@ -113,13 +110,4 @@ kiosk-op.crowdflow.gevme.com
 api-op.crowdflow.gevme.com
 bex-asia-2014-visitor-registration.gevme.com
 design-interiors-2014-visitor-registration.gevme.com
-*.gevme.com
-*.web.gevme.com
-*.offers.gevme.com
-*.she-home.gevme.com
-*.crowdflow.gevme.com
-*.gems.gevme.com
-*.stagingweb.gevme.com
-*.my.gevme.com
-*.academy.gevme.com
-*.printserver.gevme.com
+printserver.gevme.com

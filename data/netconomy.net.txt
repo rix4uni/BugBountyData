@@ -42,7 +42,6 @@ m.t.xxxlshop.de.k8s.tlz.local.netconomy.net
 o.moemax.hu.olz.local.netconomy.net
 t.moebelix.hu.tlz.local.netconomy.net
 dev.bto.ops.netconomy.net
-www.netconomy.net
 rbapp.local.netconomy.net
 docs.z0nc.netconomy.net
 t.moemax.de.k8s.olz.local.netconomy.net
@@ -198,7 +197,7 @@ internix.netconomy.net
 t.moemax.hu.tlz.local.netconomy.net
 o.moemax.ro.olz.local.netconomy.net
 o.moemax.at.olz.local.netconomy.net
-www.ncsfa-t.ops.local.netconomy.net
+ncsfa-t.ops.local.netconomy.net
 m.o.xxxlshop.de.olz.local.netconomy.net
 origin.ncgrj-t-proxy001.ops.local.netconomy.net
 ncplu-o-proxy001.ops.local.netconomy.net
@@ -269,5 +268,3 @@ ncsalessapsec-t-app001.ops.local.netconomy.net
 ki.vmrh01.local.netconomy.net
 m.t.moebelix.sk.tlz.local.netconomy.net
 test.netconomy.net
-*.dev.vms.ops.netconomy.net
-*.omt.vms.ops.netconomy.net

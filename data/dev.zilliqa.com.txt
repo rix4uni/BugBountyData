@@ -1,8 +1,4 @@
-*.api.hg.dev.zilliqa.com
-*.hg.dev.zilliqa.com
 api.hg.dev.zilliqa.com
 hg.dev.zilliqa.com
-*.athena.api.dev.zilliqa.com
-athena.dev.zilliqa.com
-*.athena.dev.zilliqa.com
 athena.api.dev.zilliqa.com
+athena.dev.zilliqa.com

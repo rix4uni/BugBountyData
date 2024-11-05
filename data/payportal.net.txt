@@ -35,14 +35,12 @@ union.payportal.net
 corp.payportal.net
 feeds.payportal.net
 cpanel.payportal.net
-www.bolero.payportal.net
 s.payportal.net
 h7.payportal.net
 info.payportal.net
 k2.payportal.net
 cpcalendars.payportal.net
 forums.payportal.net
-www.reseller.payportal.net
 secure.payportal.net
 cs.payportal.net
 host.payportal.net
@@ -50,7 +48,6 @@ groups.payportal.net
 de.payportal.net
 www5b.payportal.net
 top100.payportal.net
-www.payportal.net
 homepage2.payportal.net
 www4b.payportal.net
 people.payportal.net
@@ -122,7 +119,6 @@ rsu-prepaid.hp.payportal.net
 1-costatest-alb-okta-default.simplysearch.payportal.net
 dashboard.payportal.net
 00000-okta-idpsvc-legacy-0-i-chefsslure-assets.payportal.net
-*.payportal.net
 0aih2qot8c-2.payportal.net
 0c93.payportal.net
 0knn.payportal.net
@@ -4808,14 +4804,10 @@ www-google-co-zm1-2.bolero.payportal.net
 www-naij-com-66.payportal.net
 www-naij-com-8-8.payportal.net
 www-verification-src.payportal.net
-www.simplybabalicious.payportal.net
-www.simplyedge.payportal.net
-www.simplylux.payportal.net
-www.simplymanifest.payportal.net
-www.simplymaternity.payportal.net
-www.simplytapit.payportal.net
-www.simplytime.payportal.net
-www.simplywelldone.payportal.net
+simplylux.payportal.net
+simplymanifest.payportal.net
+simplytime.payportal.net
+simplywelldone.payportal.net
 www0-02.payportal.net
 www0-80.payportal.net
 www13-2.bolero.payportal.net
@@ -5756,7 +5748,6 @@ voip.payportal.net
 0030040c42d1201305161148080272142061916.payportal.net
 de23f529-0bcb-43f9-aba1-afc9748c3c23.payportal.net
 lon5dpu113.payportal.net
-simplywelldone.payportal.net
 be8d2b5a5ff6cf1ba3eac19b321709fb.payportal.net
 135-207-53-13.hp.payportal.net
 0030040c4166201108090118230121311409212.payportal.net
@@ -6269,7 +6260,6 @@ resellerpc83proxy.payportal.net
 1ip-86-110-168-114.payportal.net
 0030040c40ae200001010904397820293950638.payportal.net
 135-197-231-44.hp.payportal.net
-simplylux.payportal.net
 device1657532-5f27b43e.payportal.net
 cadernospersonalizados.payportal.net
 f3d787edad5be0e527e2f0d605423f72.payportal.net

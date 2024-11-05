@@ -36,7 +36,6 @@ thanos-storegateway-2-cov1-uk.intahnet.co.uk
 s3-internal.lon1-uk.intahnet.co.uk
 minio-console.cov1-uk.intahnet.co.uk
 preview.intahnet.co.uk
-*.preview.intahnet.co.uk
 thanos-storegateway-0-lon1-uk.intahnet.co.uk
 thanos-storegateway-1-lon1-uk.intahnet.co.uk
 thanos-storegateway-2-lon1-uk.intahnet.co.uk
@@ -70,7 +69,6 @@ plex-ext.intahnet.co.uk
 plex-int.intahnet.co.uk
 hedgedoc.intahnet.co.uk
 videostream.intahnet.co.uk
-www.intahnet.co.uk
 sonarr.intahnet.co.uk
 transmission.intahnet.co.uk
 bazarr.intahnet.co.uk

@@ -1,4 +1,4 @@
-*.dnc.nrtllc.com
+dnc.nrtllc.com
 agentdba.nrtllc.com
 agentdirectdepositadmin.nrtllc.com
 ams.nrtllc.com
@@ -24,7 +24,6 @@ dev.dnc.nrtllc.com
 dev.lc.nrtllc.com
 dev.mydeals.nrtllc.com
 dev8.epay.nrtllc.com
-dnc.nrtllc.com
 dnc-backend.nrtllc.com
 drmail.nrtllc.com
 ecs.dev-dnc.nrtllc.com
@@ -91,12 +90,4 @@ trident-uat.nrtllc.com
 tridentapi.nrtllc.com
 tridentpayments.nrtllc.com
 tridenttrain.nrtllc.com
-www.nrtllc.com
-www.ams.nrtllc.com
-www.amsnew.nrtllc.com
-www.amsqa.nrtllc.com
-www.big.nrtllc.com
-www.escrowapi.nrtllc.com
-www.hybrid.nrtllc.com
-www.onbasemobile.nrtllc.com
 marketing.nrtllc.com

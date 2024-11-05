@@ -4,7 +4,6 @@ order.hop.visma.lv
 acquaint.hop.visma.lv
 mhe.hop.visma.lv
 hop-stage.visma.lv
-*.visma.lv
 persondata.hop-stage.visma.lv
 order.hop-stage.visma.lv
 mhe.hop-stage.visma.lv
@@ -21,7 +20,6 @@ hrreport.hop-dev.visma.lv
 order.hop-dev.visma.lv
 mhe.hop-dev.visma.lv
 persondata.hop-dev.visma.lv
-www.visma.lv
 webred.visma.lv
 veikals.visma.lv
 bristest2.ur.visma.lv

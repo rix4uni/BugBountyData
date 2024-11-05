@@ -7,13 +7,12 @@ dashboard-tokenization.neatcommerce.com
 dashboard.neatcommerce.com
 staging-signup.neatcommerce.com
 api-worker.neatcommerce.com
-www.neatcommerce.com
 jump.neatcommerce.com
 card-api.neatcommerce.com
 staging-webhook.neatcommerce.com
 staging-cs.neatcommerce.com
 marketing.neatcommerce.com
-www.3dsecure.neatcommerce.com
+3dsecure.neatcommerce.com
 pdf.neatcommerce.com
 staging-api.neatcommerce.com
 airflow.neatcommerce.com
@@ -27,7 +26,6 @@ neat-test888.neatcommerce.com
 staging-card-api.neatcommerce.com
 staging-pdf.neatcommerce.com
 staging-tokenization.neatcommerce.com
-3dsecure.neatcommerce.com
 join.neatcommerce.com
 neat-argo.neatcommerce.com
 kiali.neatcommerce.com

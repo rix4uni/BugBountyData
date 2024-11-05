@@ -28,9 +28,8 @@ public.api.test.fretlink.com
 1ee43534-3b44-47c4-9899-80de22684cfe.prod.in.fretlink.com
 conference.fretlink.com
 rundeck.in.fretlink.com
-www.wiki.fretlink.com
+wiki.fretlink.com
 geodata.dev.test.fretlink.com
-www.conference.fretlink.com
 tech.test.fretlink.com
 de7aff49-f360-44a6-8dfc-2f4856932a3b.prod.in.fretlink.com
 blog.fretlink.com
@@ -42,7 +41,6 @@ pricing-model.dev.test.fretlink.com
 5ea354e9-b5da-4975-8be1-26c4bc29155e.prod.in.fretlink.com
 osrm-ovh-01.in.fretlink.com
 app.dev.test.fretlink.com
-www.fretlink.com
 ftp-tp-01.private.test.fretlink.com
 gitlab.in.fretlink.com
 carrier-directory.prod.in.fretlink.com
@@ -52,7 +50,6 @@ db0bfd27-69b6-406b-af3b-5315b44f53aa.prod.in.fretlink.com
 rabbit-02.private.in.fretlink.com
 rabbit-03.private.test.fretlink.com
 pricer.prod.in.fretlink.com
-www.blog.fretlink.com
 assets.test.fretlink.com
 assets.fretlink.com
 carrier-directory.dev.test.fretlink.com
@@ -63,7 +60,7 @@ api.in.fretlink.com
 app.fretlink.com
 3857809b-daa5-4121-ad6f-a7d4dbc140c1.dev.test.fretlink.com
 metabase.fretlink.com
-www.test.fretlink.com
+test.fretlink.com
 ipam.office.fretlink.com
 osrm-hz-03.in.fretlink.com
 www2.test.fretlink.com
@@ -84,13 +81,12 @@ d123f6fd-b9e4-4f64-95c2-c0b215c9aeb4.prod.in.fretlink.com
 rabbit-01.test.fretlink.com
 document-store.s3.fretlink.com
 rabbit-05.in.fretlink.com
-www.help.office.fretlink.com
-www.assets.test.fretlink.com
+help.office.fretlink.com
 rabbitmq.fretlink.com
 nix-store.private.in.fretlink.com
 toolbox.in.fretlink.com
 notifier.prod.in.fretlink.com
-www.prometheus.in.fretlink.com
+prometheus.in.fretlink.com
 s3.fretlink.com
 rabbit-integ-03.test.fretlink.com
 netdata.in.fretlink.com
@@ -117,7 +113,6 @@ ftp-tp-01.in.fretlink.com
 osrm-ovh-02.in.fretlink.com
 37bc3836-3cba-4f87-aa0b-021690b6f287.prod.in.fretlink.com
 public.pages.fretlink.com
-wiki.fretlink.com
 a5916a42b587e034f5a431497691b075.prod.in.fretlink.com
 blog.gg.fretlink.com
 ftp-tp-01.private.in.fretlink.com
@@ -130,15 +125,12 @@ d5afb15b-7b62-4adf-8094-87b57b7296ee.prod.in.fretlink.com
 rabbit-integ-01.test.fretlink.com
 kong-internal.in.fretlink.com
 rabbit-01.private.test.fretlink.com
-prometheus.in.fretlink.com
 app.test.fretlink.com
 6e2210ac-c30d-4d81-98aa-7cdcc1556309.test.fretlink.com
-help.office.fretlink.com
 tableau01.in.fretlink.com
 next2.www.fretlink.com
 callbacks.acceptance.test.fretlink.com
 app-lb.in.fretlink.com
-www.pricer.dev.test.fretlink.com
 newsletter.fretlink.com
 email.fretlink.com
 transporteur.fretlink.com

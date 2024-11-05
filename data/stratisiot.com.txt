@@ -56,7 +56,6 @@ cs.test.stratisiot.com
 developer.staging.kddi.stratisiot.com
 status-page.eng.stratisiot.com
 prometheus-k8s.staging.kddi.stratisiot.com
-www.stratisiot.com
 kibana-jp.staging.kddi.stratisiot.com
 grafana.staging.kddi.stratisiot.com
 apm.dev.stratisiot.com

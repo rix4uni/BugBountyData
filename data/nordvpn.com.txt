@@ -1,5 +1,4 @@
-*.nordvpn.com
-*.applytics.nordvpn.com
+applytics.nordvpn.com
 45.76.244.240.america.nordvpn.com
 80.93.177.7.ru-msk.nordvpn.com
 account.nordvpn.com
@@ -78,7 +77,6 @@ anon-uk1-248.nordvpn.com
 anon-usa-233.nordvpn.com
 anon-usa-234.nordvpn.com
 api.nordvpn.com
-applytics.nordvpn.com
 ar10.nordvpn.com
 ar11.nordvpn.com
 ar12.nordvpn.com
@@ -7354,10 +7352,6 @@ vpn-uk1.nordvpn.com
 vpn-usa.nordvpn.com
 wp-test.nordvpn.com
 wp2.web.internal.nordvpn.com
-www.nordvpn.com
-www.affiliates.nordvpn.com
-www.dns1.nordvpn.com
-www.dns2.nordvpn.com
 youtube.nordvpn.com
 za11.nordvpn.com
 za12.nordvpn.com

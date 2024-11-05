@@ -12,7 +12,6 @@ v1.blofin.com
 docs.blofin.com
 s3.blofin.com
 pre.blofin.com
-www.blofin.com
 ws2-private.blofin.com
 s2.blofin.com
 s3private-test.blofin.com
@@ -22,7 +21,6 @@ s3test.blofin.com
 api.blofin.com
 partner.blofin.com
 staging-admin.blofin.com
-*.blofin.com
 beacon-log-server.blofin.com
 ws-private.blofin.com
 tempdev.blofin.com

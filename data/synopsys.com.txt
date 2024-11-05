@@ -2113,7 +2113,6 @@ sdc-coresvc2.synopsys.com
 config.cacsast.sig-clops.synopsys.com
 diamond-snps.synopsys.com
 us05fw-nat.synopsys.com
-*.altair.synopsys.com
 chatgpt4.synopsys.com
 acs-storage-cdev-us.altair.synopsys.com
 saasintg1-azure.cloud.synopsys.com
@@ -2297,7 +2296,6 @@ wabtec.status.polaris.synopsys.com
 pix-xlate-5.synopsys.com
 kfsign.synopsys.com
 test-thanos.cloudops.synopsys.com
-www.scs8-admin.synopsys.com
 thanos-csse-prd.csse.cloudops.synopsys.com
 kfdemoent3san.synopsys.com
 thanos-ruler-blackduck.stg.cloudops.synopsys.com
@@ -2305,7 +2303,7 @@ de02-sftp-ext.synopsys.com
 innozone-poc.labs.polaris.synopsys.com
 organon.status.polaris.synopsys.com
 agilent-test.status.polaris.synopsys.com
-www.snpsgithub-dev.internal.synopsys.com
+snpsgithub-dev.internal.synopsys.com
 bff-newsaasdrpreprod.cloud.synopsys.com
 eudc-vpn-1-ext.synopsys.com
 siem.synopsys.com
@@ -2332,7 +2330,6 @@ rnd-demov2.labs.polaris.synopsys.com
 saaseval2-azure.cloud.synopsys.com
 us01-vpn-03.synopsys.com
 us16-vpn-router-vl20.synospys.com.synopsys.com
-www.am04cppm01.internal.synopsys.com
 de02-www.synopsys.com
 sig-artifactory-test.internal.synopsys.com
 nokia-telnet.synopsys.com
@@ -2355,7 +2352,6 @@ acs-storage-im-us.altair.synopsys.com
 bff-portalha.cloud.synopsys.com
 us47-fw-nat.synopsys.com
 organon-status.polaris.synopsys.com
-www.jp01-vpn.synopsys.com
 api-preprod.cloud.synopsys.com
 dc2-ccasp-cube-ext.synopsys.com
 snps-test-bu11.scc.synopsys.com
@@ -2395,7 +2391,6 @@ au-a.ace.synopsys.com
 catur.training.synopsys.com
 lincolnelectric.status.polaris.synopsys.com
 sig-product-docs-be.synopsys.com
-www.solvnetplus.synopsys.com
 mail01.go2.synopsys.com
 p100-c.intern.synopsys.com
 saaseval4-azure.cloud.synopsys.com
@@ -2403,7 +2398,6 @@ acs-storage-prd-us.polaris.synopsys.com
 test-iz.labs.polaris.synopsys.com
 us03-fw-nat.synopsys.com
 viewconnect-eu-lnx.synopsys.com
-www.sig-product-docs-be.synopsys.com
 kb-cmak-dev.cloudops.synopsys.com
 pacifico.status.polaris.synopsys.com
 colibrigroup.status.polaris.synopsys.com
@@ -2413,7 +2407,7 @@ pages.snpsgithub-dev.internal.synopsys.com
 agt-cloud.labs.polaris.synopsys.com
 api-pv.cloud.synopsys.com
 ie02-fw01.synopsys.com
-www.eudccppm01.internal.synopsys.com
+eudccppm01.internal.synopsys.com
 llmgr-testing.labs.polaris.synopsys.com
 jp01-r7-nat.synopsys.com
 saaspreprod.cloud.synopsys.com
@@ -2441,7 +2435,7 @@ portaldevops-qadr.cloud.synopsys.com
 saasperf.cloud.synopsys.com
 sample-customer-1-alb.seeker.stg.cloudops.synopsys.com
 thanos-ruler-seeker-saas-grpc.cloudops.synopsys.com
-www.siglicense-na.internal.synopsys.com
+siglicense-na.internal.synopsys.com
 mikeskitestpleaserevoke.synopsys.com
 storage-devint-us.altair.synopsys.com
 addc1.saasevl10-azure.cloud.synopsys.com
@@ -2490,7 +2484,6 @@ addc2.saasoqmt1-azure.cloud.synopsys.com
 addc2.saastsmc1-azure.cloud.synopsys.com
 in32-voice-gw-01.synopsys.com
 mytotalrewards.synopsys.com
-www.kfsign.synopsys.com
 asta.training.synopsys.com
 thanos-kb-factory-dr-grpc.kb.cloudops.synopsys.com
 saasqstr1-azure.cloud.synopsys.com
@@ -2614,7 +2607,7 @@ addc1.saasm31t1-azure.cloud.synopsys.com
 mcui.cloud.synopsys.com
 in68-cube-1.synopsys.com
 thanos-kb-prd-apac-1-grpc.kb.cloudops.synopsys.com
-www.us03-sig-eng-wt.internal.synopsys.com
+us03-sig-eng-wt.internal.synopsys.com
 cn45-cube-1.synopsys.com
 mikeskimdtest2san5.synopsys.com
 dsa-pix-ext.synopsys.com
@@ -2643,12 +2636,11 @@ us20-fw-nat.synopsys.com
 infield.azure.synopsys.com
 saaspv3-azure.cloud.synopsys.com
 storage-us-devint.altair.synopsys.com
-www.synopsys.com
 mdc-vpn-router-ext.synopsys.com
 thanos-ruler-common.cloudops.synopsys.com
 komen.status.polaris.synopsys.com
 addc2.saasvirs1-azure.cloud.synopsys.com
-www.snpsgithub.internal.synopsys.com
+snpsgithub.internal.synopsys.com
 acs-storage-perf-us.altair.synopsys.com
 addc1.saasevl22-azure.cloud.synopsys.com
 portalbffdr.saasqaspa.cloud.synopsys.com
@@ -2711,7 +2703,7 @@ thanos-ruler-bdba-saas.stg.cloudops.synopsys.com
 mdc-colt-router-g-0-1-37.synopsys.com
 thanos-obs-1.cloudops.synopsys.com
 thanos-ruler-kb.cloudops.synopsys.com
-www.us01vctxwx0197.internal.synopsys.com
+us01vctxwx0197.internal.synopsys.com
 jobs-204.synopsys.com
 jimd-test-repo7.labs.polaris.synopsys.com
 saastrbl1-azure.cloud.synopsys.com
@@ -2736,12 +2728,11 @@ eudcgateway-ext.synopsys.com
 haretchprototype.synopsys.com
 mdc-rap-1.synopsys.com
 ap-e.ace.synopsys.com
-www.cyberarkepm.aws.synopsys.com
+cyberarkepm.aws.synopsys.com
 core-internet-test.synopsys.com
 licgenqa.synopsys.com
 addc1.saastsmc1-azure.cloud.synopsys.com
 cloudops-thanos-query-grpc.stg.cloudops.synopsys.com
-www.uat.ams.synopsys.com
 dc8-vpn-router-g001.synopsys.com
 us27-fw-ext.synopsys.com
 saasevl19-azure.cloud.synopsys.com
@@ -2764,7 +2755,6 @@ acs-storage-clops-us.altair.synopsys.com
 lplfinancial-status.polaris.synopsys.com
 prometheus-kb-tier1-prd-emea.kb.cloudops.synopsys.com
 qa-us01repo-haproxy01.internal.synopsys.com
-www.indccppm01.internal.synopsys.com
 us22-mci-router-fa.synopsys.com
 circlecvi.status.polaris.synopsys.com
 codeload.snpsghes-sg.internal.synopsys.com
@@ -2795,7 +2785,6 @@ thanos-ruler-other.stg.cloudops.synopsys.com
 eudc-exdns1.synopsys.com
 corp-stage.ai.synopsys.com
 saastrng1-azure.cloud.synopsys.com
-www.defensics-store.internal.synopsys.com
 indc-reliance-router-g01-52.synopsys.com
 acs-storage-prf2-us.altair.synopsys.com
 test-thanos-grpc-nc.cloudops.synopsys.com
@@ -2805,7 +2794,6 @@ addc2.saasevl13-azure.cloud.synopsys.com
 us24-training-1.synopsys.com
 us38-fw.synopsys.com
 npm.snpsgithub.internal.synopsys.com
-siglicense-na.internal.synopsys.com
 pix-xlate-7.synopsys.com
 thanos-cloudops-meshpoc-cilium-02-grpc.poc.cloudops.synopsys.com
 addc2.saasseco1-azure.cloud.synopsys.com
@@ -2825,7 +2813,6 @@ us20-fw-ext.synopsys.com
 yvelazco-vpn-test.synopsys.com
 bu11.scc.synopsys.com
 dr-polariscontrol.cloudops.synopsys.com
-www.training.synopsys.com
 optimizer.synopsys.com
 addc2.flexeda-azure.cloud.synopsys.com
 d204-191-115-124.achi.synopsys.com
@@ -2884,7 +2871,6 @@ addc1.saastrng1-azure.cloud.synopsys.com
 ca11-nat.synopsys.com
 mdc-test-vpn.synopsys.com
 thanos-ruler-other-grpc.cloudops.synopsys.com
-www.scs8.synopsys.com
 kb-elastic-tier1-prd-apac.kb.cloudops.synopsys.com
 moto-3.synopsys.com
 solvnet-pre3dns.synopsys.com
@@ -2928,12 +2914,11 @@ addc2.saasqa4-azure.cloud.synopsys.com
 seeker-saas-staging-us-east-1-grpc.staging-seeker.synopsys.com
 thanos-cloudops-meshpoc-linkerd-01-grpc.poc.cloudops.synopsys.com
 thanos-kb-dev.kb.cloudops.synopsys.com
-www.careers.synopsys.com
 us11-mci-router-fa.synopsys.com
 us6a-vpn-router-vl20.synopsys.com
 contentful.status.polaris.synopsys.com
 ephibian-status.polaris.synopsys.com
-www.us01vldctrack.internal.synopsys.com
+us01vldctrack.internal.synopsys.com
 thanos-bdba-saas-production.bdba-saas.cloudops.synopsys.com
 addc1.saaspvtr1-azure.cloud.synopsys.com
 addc2.saasqstr1-azure.cloud.synopsys.com
@@ -2992,16 +2977,13 @@ ap-f.ace.synopsys.com
 jimd-test-repo2.labs.polaris.synopsys.com
 chatduck-graph.labs.polaris.synopsys.com
 uploads.snpsgithub.internal.synopsys.com
-www.innovate.synopsys.com
 o365relay-in.wips.synopsys.com
 avatars.snpsghes-sg.internal.synopsys.com
-www.cloudops.synopsys.com
 cloudmed.status.polaris.synopsys.com
 de02-estfiler.synopsys.com
 service.wips.synopsys.com
 us20-fw.synopsys.com
 thanos-sentinel-dev.cloudops.synopsys.com
-www.us01cppm02.internal.synopsys.com
 thanos-kb-factory-dev.kb.cloudops.synopsys.com
 addc2.saasevl21-azure.cloud.synopsys.com
 thanos-ruler-openhub.stg.cloudops.synopsys.com
@@ -3037,7 +3019,6 @@ addc2.saasrain1-azure.cloud.synopsys.com
 uploads.snpsghes-sg.internal.synopsys.com
 us02-asa-1-ext.synopsys.com
 sig-data-insights-dev-us-central1.sigdatainsights.stg.cloudops.synopsys.com
-cyberarkepm.aws.synopsys.com
 addc1.saasevl13-azure.cloud.synopsys.com
 microsoft.scc.synopsys.com
 jimdtest.labs.polaris.synopsys.com
@@ -3065,7 +3046,6 @@ jenkinsv7-test.labs.polaris.synopsys.com
 parner.synopsys.com
 sample-customer-2.staging-seeker.synopsys.com
 thanos-ruler-blackduck-grpc.cloudops.synopsys.com
-www.partners.synopsys.com
 hm.status.polaris.synopsys.com
 snpsgit-registry.internal.synopsys.com
 us03-ccasp-cube-ext.synopsys.com
@@ -3082,12 +3062,10 @@ panca.inup.synopsys.com
 saasintl1-azure.cloud.synopsys.com
 crsoftware-status.polaris.synopsys.com
 ebs-ftp-pd1.synopsys.com
-www.in19cppm01.internal.synopsys.com
 jsm.stg.cloudops.synopsys.com
 ussv-nat-r7.synopsys.com
 medicalsecuritycard.status.polaris.synopsys.com
 thanos-cloudops-meshpoc-istio-01.poc.cloudops.synopsys.com
-eudccppm01.internal.synopsys.com
 mdc-f5gtm.synopsys.com
 us18-fw-ext.synopsys.com
 thanos-ruler-bdreg.stg.cloudops.synopsys.com
@@ -3104,13 +3082,11 @@ store-poc.polaris.synopsys.com
 us1a-hide-nat.synopsys.com
 de02-dsa-fw-vip.synopsys.com
 saasae1-azure.cloud.synopsys.com
-www.video.synopsys.com
 fw-tw01-ext.synopsys.com
 us01-ftp-ext2.synopsys.com
 tenacious-pub.synopsys.com
 in01repo.internal.synopsys.com
 storage-infra-us.altair.synopsys.com
-www.scs6-admin.synopsys.com
 saaseval5-azure.cloud.synopsys.com
 acs-storage-tm-us.altair.synopsys.com
 moto-4.synopsys.com
@@ -3132,7 +3108,6 @@ fwd.status.polaris.synopsys.com
 us47-vpn-02.synopsys.com
 us38-vpn-router-vl20.synopsys.com
 in01-education.synopsys.com
-www.jp01cppm01.internal.synopsys.com
 ap-g.ace.synopsys.com
 addc1.saasevl29-azure.cloud.synopsys.com
 ie02-estfiler.synopsys.com
@@ -3199,7 +3174,6 @@ polaris-industries.status.polaris.synopsys.com
 us28-vpn-02.synopsys.com
 addc1.saaselte1-azure.cloud.synopsys.com
 prometheus-kb-tier1-dev.cloudops.synopsys.com
-www.event.synopsys.com
 addc1.saaseval9-azure.cloud.synopsys.com
 mdc-o365-ssl.synopsys.com
 keyfactorpki.synopsys.com
@@ -3284,7 +3258,6 @@ saascsco1-azure.cloud.synopsys.com
 fw-vpn-dmz-telnet.synopsys.com
 neon.training.synopsys.com
 scsvuc003.synopsys.com
-www.scs6.synopsys.com
 clicbici.synopsys.com
 neweval.cloudportal.synopsys.com
 smtprelay-in1.wips.synopsys.com
@@ -3439,7 +3412,6 @@ addc2.saaseval7-azure.cloud.synopsys.com
 us01-c4000-ext.synopsys.com
 thanos-kb-factory-dev-grpc.kb.cloudops.synopsys.com
 addc1.flexeda2-azure.cloud.synopsys.com
-www.cn58cppm01.internal.synopsys.com
 dac-courses.synopsys.com
 se80-ext-rtr.synopsys.com.synopsys.com
 attendee.synopsys.com
@@ -3555,7 +3527,6 @@ us02-collab-exp.synopsys.com
 avatars.snpsghes-eda.internal.synopsys.com
 jp01-voice-gw-1.synopsys.com
 us18-mci-router-fa.synopsys.com
-us03-sig-eng-wt.internal.synopsys.com
 us24-fw.synopsys.com
 de02-solvnet.synopsys.com
 jenkins.stg.cloudops.synopsys.com
@@ -3566,10 +3537,8 @@ in01esxi-mgmt-ext.synopsys.com
 npm.snpsgithub-dev.internal.synopsys.com
 snps-elasticsearch-client-zone3-00.gcp.siem.synopsys.com
 thanos-ruler-synthetic.cloudops.synopsys.com
-us01vldctrack.internal.synopsys.com
 addc1.saassemi1-azure.cloud.synopsys.com
 groups.synopsys.com
-www.access-sg01gcp.synopsys.com
 badcvwokrsadqa1.synopsys.com
 netlab-router.synopsys.com
 telemetry.wips.synopsys.com
@@ -3579,7 +3548,7 @@ us01-test-pix.synopsys.com
 tokens.synopsys.com
 synit.synopsys.com
 thanos-ruler-bdreg.cloudops.synopsys.com
-www.synergy.synopsys.com
+synergy.synopsys.com
 ns1-pub.synopsys.com
 addc1.saasspa1-azure.cloud.synopsys.com
 licdev-kg-licgen.siglic.synopsys.com
@@ -3678,7 +3647,6 @@ adc-c3745-genuity-fa0-0.synopsys.com
 saasspa.cloud.synopsys.com
 us02sentryas1qa-ext.synopsys.com
 hseval01.synopsys.com
-us01vctxwx0197.internal.synopsys.com
 us20-dmz-moto.synopsys.com
 10.15.130.7.saasacrx1-azure.cloud.synopsys.com
 addc2.saascsco1-azure.cloud.synopsys.com
@@ -3722,14 +3690,13 @@ us20-fw-hide.synopsys.com
 screenconnect.synopsys.com
 pix-xlate-4.synopsys.com
 us05-fw-nat.synopsys.com
-www.sigdemo.synopsys.com
+sigdemo.synopsys.com
 in01-voice-gw-1.synopsys.com
 saasvirs1-azure.cloud.synopsys.com
 thanos-alertmanager-test.cloudops.synopsys.com
 acs-storage-test-us.altair.synopsys.com
 us03ns1-mgmt.synopsys.com
 acs-storage-bnr-us.altair.synopsys.com
-www.demo.io.synopsys.com
 cloudportal.synopsys.com
 chatduck-api.labs.polaris.synopsys.com
 cloudops-kube.ingress.cloudops.synopsys.com
@@ -3811,9 +3778,7 @@ addc1.saaspv6-azure.cloud.synopsys.com
 demo.status.polaris.synopsys.com
 interactiongaming-status.polaris.synopsys.com
 kb-cmak-stg.kb.cloudops.synopsys.com
-www.us03cppm01.internal.synopsys.com
 idp.infield.azure.synopsys.com
-www.security-dashboard.synopsys.com
 stg-dbt-docs.sigdatainsights.cloudops.synopsys.com
 addc1.saasatls2-azure.cloud.synopsys.com
 chatgpt.synopsys.com
@@ -3862,7 +3827,6 @@ thanos-blackduck-reg.kb.cloudops.synopsys.com
 test-thanos-grpc.cloudops.synopsys.com
 cloudops-reporting-ui.stg.cloudops.synopsys.com
 eudc-o365relay4.synopsys.com
-snpsgithub-dev.internal.synopsys.com
 io.sig-clops.synopsys.com
 us195.us1.kctvnext-router-hsrp.synopsys.com
 saasment1-azure.cloud.synopsys.com
@@ -3921,7 +3885,6 @@ addc2.saasqa8-azure.cloud.synopsys.com
 indc-vpn-cm1.synopsys.com
 minio.infield.azure.synopsys.com
 addc2.saasmtno1-azure.cloud.synopsys.com
-www.cloud-security.synopsys.com
 mynt.polaris.synopsys.com
 storage-se-us.altair.synopsys.com
 portalbff.portaldevops-qadr.cloud.synopsys.com
@@ -4002,7 +3965,6 @@ booksapp-meshpoc-kuma-01.poc.cloudops.synopsys.com
 cloudops-thanos-query.cloudops.synopsys.com
 thanos-sig-repo-stg.sig-repo.stg.cloudops.synopsys.com
 whitehat.aws.synopsys.com
-www.us01cppm01.internal.synopsys.com
 kb-prd-apac-kube.cloudops.synopsys.com
 saasapbr1-azure.cloud.synopsys.com
 saaselte1-azure.cloud.synopsys.com
@@ -4107,7 +4069,6 @@ vi.intern.synopsys.com
 kb-openshift-sdc.cloudops.synopsys.com
 manncs1-ext.synopsys.com
 smtprelay8.synopsys.com
-synergy.synopsys.com
 saasevl28-azure.cloud.synopsys.com
 centraladdc1.saaseval-azure.cloud.synopsys.com
 codeload.snpsghes-eda.internal.synopsys.com
@@ -4123,7 +4084,6 @@ prudential.status.polaris.synopsys.com
 api-l4.cloud.synopsys.com
 docker.snpsghes-eda.internal.synopsys.com
 portalbff.saasspa.cloud.synopsys.com
-www.snpsmirror.internal.synopsys.com
 fw-solvnet-dmz.synopsys.com
 thanos-ruler-seeker-saas-grpc.stg.cloudops.synopsys.com
 thanos-ruler-seeker-saas.cloudops.synopsys.com
@@ -4140,7 +4100,6 @@ aarp.status.polaris.synopsys.com
 dac-test.synopsys.com
 sv2vwokrsadqa1.synopsys.com
 jenkinsv10-test.labs.polaris.synopsys.com
-www.dashboard.gcp.siem.synopsys.com
 saasevl25-azure.cloud.synopsys.com
 us01-rancher-vm01.internal.synopsys.com
 addc2.saasdev-azure.cloud.synopsys.com
@@ -4178,7 +4137,6 @@ saassotr1-azure.cloud.synopsys.com
 thanos.gitlab.cloudops.synopsys.com
 fr03-vpn-02.synopsys.com
 us16-sig-anet-nat.synopsys.com
-www.mytotalrewards.synopsys.com
 addc1.saaseval6-azure.cloud.synopsys.com
 addc2.saasae1-azure.cloud.synopsys.com
 addc2.saascadr1-azure.cloud.synopsys.com
@@ -4202,7 +4160,6 @@ us04-user-nat.synopsys.com
 sample-customer-2.seeker.stg.cloudops.synopsys.com
 telstrapurple-status.polaris.synopsys.com
 senseon.status.polaris.synopsys.com
-snpsgithub.internal.synopsys.com
 bar-svc-storage-us.altair.synopsys.com
 sample-customer-1-test1.seeker.stg.cloudops.synopsys.com
 exalateqa.synopsys.com
@@ -4221,7 +4178,6 @@ saasonnv1-azure.cloud.synopsys.com
 acs-storage-stg-us.altair.synopsys.com
 addc1.saasefpo2-azure.cloud.synopsys.com
 mikeskimdtest2.synopsys.com
-www.infield.azure.synopsys.com
 fi02-fw-hide.synopsys.com
 cluster-01-us-central1.sig-repo.stg.cloudops.synopsys.com
 nessus-blm1.synopsys.com
@@ -4276,7 +4232,6 @@ scs003.synopsys.com
 sv2-exdns4.synopsys.com
 sfint-store.altair.synopsys.com
 thanos-alertmanager.stg.cloudops.synopsys.com
-www.mdccppm01.internal.synopsys.com
 jimd-test-repo4.labs.polaris.synopsys.com
 mynt.status.polaris.synopsys.com
 addc1.saasacrx1-azure.cloud.synopsys.com
@@ -4295,7 +4250,6 @@ mikeskitestvalidation.synopsys.com
 addc2.saasmerc1-azure.cloud.synopsys.com
 us03-vpn-03.synopsys.com
 de02-dsa-fw02-ext.synopsys.com
-www.ams.synopsys.com
 thanos-seeker-staging-us-east-1.staging-seeker.synopsys.com
 intactfc-test.status.polaris.synopsys.com
 stg-mt-cluster-01.polaris-stg.polaris.synopsys.com
@@ -4307,5 +4261,3 @@ us16-vpn-01.synopsys.com
 virlog-ioltest.synopsys.com
 mikeskitestem.synopsys.com
 polaris-assist-demo.labs.polaris.synopsys.com
-*.ci-2893457237.synopsys.com
-*.optimizer.synopsys.com

@@ -157,7 +157,7 @@ breuninger.promoteiq.com
 developer.staging-homedepot.promoteiq.com
 devrpenv.ms.promoteiq.com
 ui.staging-newegg.promoteiq.com
-www.webinars.promoteiq.com
+webinars.promoteiq.com
 staging5-thebay.promoteiq.com
 sandbox-kfl.promoteiq.com
 developer.sandbox-bhphoto.promoteiq.com
@@ -307,7 +307,6 @@ client-failover.promoteiq.com
 developer.sandbox-kroger.promoteiq.com
 developer.sandbox-zulily.promoteiq.com
 sandbox-schwarz-dev.promoteiq.com
-www.promoteiq.com
 api.devi-officedepot.promoteiq.com
 developer.sandbox-masterofmalt.promoteiq.com
 developer.staging-contoso.promoteiq.com
@@ -326,7 +325,6 @@ staging11-otto.promoteiq.com
 ui.stg-bjs.promoteiq.com
 staging5-homedepotca.promoteiq.com
 api.officedepot.promoteiq.com
-webinars.promoteiq.com
 ui.albertsons-poc.promoteiq.com
 ui.kroger.promoteiq.com
 api.staging-kroger.promoteiq.com
@@ -394,7 +392,6 @@ bvt2-zappos.promoteiq.com
 m.promoteiq.com
 sandbox-otto-cert.promoteiq.com
 tip-ui.newegg.promoteiq.com
-www.docs.promoteiq.com
 developer.staging-fabrikam.promoteiq.com
 staging9-fourthcoffee.promoteiq.com
 api.staging-viavarejo.promoteiq.com
@@ -752,8 +749,6 @@ developer.staging-zappos.promoteiq.com
 api.pretendco-001.promoteiq.com
 ui.dickssportinggoods.promoteiq.com
 developer.staging-chewy.promoteiq.com
-*.piq-db.dev.iad.ms.promoteiq.com
 retailerdatasharesbox.promoteiq.com
 retailerdatashare.promoteiq.com
 sandbox-zappos.promoteiq.com
-*.proxysql.promoteiq.com

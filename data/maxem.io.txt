@@ -35,15 +35,13 @@ gitlab.maxem.io
 review-feature-no-3s7myl.storybook.maxem.io
 devproxy.maxem.io
 grafana.maxem.io
-www.beta.maxem.io
+beta.maxem.io
 review-feature-rg-odi7wz.storybook.maxem.io
 review-feature-no-zpo0gm.storybook.maxem.io
 argocd.maxem.io
-www.my.maxem.io
 review-feature-rg-e34j6r.storybook.maxem.io
 review-feature-rg-kh2fbd.storybook.maxem.io
 review-feature-rg-unlc24.storybook.maxem.io
-www.maxem.io
 vault.maxem.io
 review-feature-no-co9s0h.storybook.maxem.io
 access.maxem.io
@@ -60,7 +58,6 @@ sonarqube.maxem.io
 maxem.iowww.maxem.io
 review-feature-rg-x2tso2.storybook.maxem.io
 foobar.storybook.maxem.io
-beta.maxem.io
 review-feature-rg-65bj9i.storybook.maxem.io
 review-feature-rg-lrxzi0.storybook.maxem.io
 storybook.maxem.io

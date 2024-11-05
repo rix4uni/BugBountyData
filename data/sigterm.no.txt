@@ -7,7 +7,6 @@ seafile.sigterm.no
 mail02.sigterm.no
 dnsdist.sigterm.no
 web02.sigterm.no
-www.sigterm.no
 i2pdownload.sigterm.no
 analytics.sigterm.no
 keyserver.sigterm.no

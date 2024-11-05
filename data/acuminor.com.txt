@@ -1,5 +1,4 @@
 hs.acuminor.com
-www.acuminor.com
 api.acuminor.com
 app.acuminor.com
 test.acuminor.com
@@ -20,5 +19,3 @@ stage2.acuminor.com
 service.acuminor.com
 marginalen.acuminor.com
 dev.acuminor.com
-*.dev.acuminor.com
-*.acuminor.com

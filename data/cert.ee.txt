@@ -452,7 +452,6 @@ auth.jitsi.cert.ee
 106-136.hndl.cert.ee
 27-136.hndl.cert.ee
 53-142.rev.cert.ee
-www.taxii.cert.ee
 173-141.rev.cert.ee
 188-136.hndl.cert.ee
 254-140.hnrvl.cert.ee
@@ -723,7 +722,6 @@ bifarius.cert.ee
 37-136.hndl.cert.ee
 11-136.hndl.cert.ee
 153-141.rev.cert.ee
-www.panorama.cert.ee
 137-140.hnrvl.cert.ee
 16-143.hnrvl.cert.ee
 188-141.rev.cert.ee
@@ -1001,7 +999,6 @@ bugz.cert.ee
 188-140.hnrvl.cert.ee
 241-143.hnrvl.cert.ee
 32-141.rev.cert.ee
-www.cert.ee
 80-141.rev.cert.ee
 63-140.hnrvl.cert.ee
 7-141.rev.cert.ee

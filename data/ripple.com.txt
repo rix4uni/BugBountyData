@@ -51,7 +51,6 @@ consumer01.i.ripple.com
 chopra2.i.ripple.com
 b721.i.ripple.com
 ktest01.i.ripple.com
-www.ripple.com
 b760.i.ripple.com
 thom1.i.ripple.com
 j131.i.ripple.com
@@ -122,13 +121,13 @@ b122.i.ripple.com
 dev.txnexporter.ripple.com
 fw.sfo.corp.ripple.com
 testnet.xrpcharts.ripple.com
-www.panorama.it.ripple.com
+panorama.it.ripple.com
 aud.i.ripple.com
 cppm.sin1.corp.ripple.com
 j125.i.ripple.com
 elbtest303.xctest.i.ripple.com
 east.ripple.com
-www.dev.caspian-api.ingestion.ripple.com
+dev.caspian-api.ingestion.ripple.com
 llapi.staging.caspian.ripple.com
 aj1.i.ripple.com
 test-south.rc.ripple.com
@@ -139,7 +138,7 @@ smxv43.i.ripple.com
 j113.i.ripple.com
 rene5.i.ripple.com
 swell-staging.ripple.com
-www.caspian-api.ingestion.ripple.com
+caspian-api.ingestion.ripple.com
 scep-mtls-poc.it.ripple.com
 smartbank-2.i.ripple.com
 trust.ripple.com
@@ -159,10 +158,9 @@ r173.i.ripple.com
 r183.i.ripple.com
 b801.i.ripple.com
 b321.i.ripple.com
-www.home.ripple.com
+home.ripple.com
 flo1.i.ripple.com
 vault.euc1.ops.ripple.com
-www.s1.ripple.com
 elbtest311.xctest.i.ripple.com
 blobvault.ripple.com
 dev-api-remit.ripple.com
@@ -251,7 +249,7 @@ vn001.i.ripple.com
 dataapi.staging.caspian.ripple.com
 j116.i.ripple.com
 p34ans2.i.ripple.com
-www.integration.auth.ripple.com
+integration.auth.ripple.com
 xcurrent-v4-beta3.i.ripple.com
 trial10.xctest.i.ripple.com
 xcv4-west-bank.i.ripple.com
@@ -270,7 +268,7 @@ opensource.ripple.com
 ra3.i.ripple.com
 weytest3.i.ripple.com
 test1b-dkoh.i.ripple.com
-www.clients.ripple.com
+clients.ripple.com
 xcv4003.i.ripple.com
 api.staging.caspian.ripple.com
 dev.dcm.ripple.com
@@ -316,7 +314,6 @@ mb1lhr.i.ripple.com
 muc.i.ripple.com
 r812.i.ripple.com
 xsoar.infosec.ripple.com
-www.radius.ripple.com
 xcv4-south-bank.i.ripple.com
 data-staging.ripple.com
 demos.ripple.com
@@ -345,7 +342,6 @@ rsubs.stg.dcm.ripple.com
 sek.i.ripple.com
 api.dev.dcm.ripple.com
 api.stg.dcm.ripple.com
-integration.auth.ripple.com
 kef002.i.ripple.com
 sat01.i.ripple.com
 vn007.i.ripple.com
@@ -377,7 +373,6 @@ rc-uk-south.i.ripple.com
 rsubs.dev.dcm.ripple.com
 denmark.i.ripple.com
 kegbot.ops.ripple.com
-panorama.it.ripple.com
 rc-sin.i.ripple.com
 rc842.i.ripple.com
 vpn.sfo.corp.ripple.com
@@ -464,7 +459,7 @@ lonservauto1.i.ripple.com
 r805.i.ripple.com
 pat062.i.ripple.com
 perf05.xctest.i.ripple.com
-www.corpnettools.usw2.it.ripple.com
+corpnettools.usw2.it.ripple.com
 sandbox.liquidityhub.ripple.com
 1pconnect.it.ripple.com
 dave2.i.ripple.com
@@ -475,7 +470,6 @@ f510.i.ripple.com
 f511.i.ripple.com
 kegbot-nginx.kubeernetes.ops.ripple.com
 r184.i.ripple.com
-www.private-client-data.ripple.com
 tp.i.ripple.com
 auth1.ripple.com
 r105.i.ripple.com
@@ -509,7 +503,7 @@ th.i.ripple.com
 bor.i.ripple.com
 cppm-prod.usw2.it.ripple.com
 jsch02.i.ripple.com
-www.liquidityhub.ripple.com
+liquidityhub.ripple.com
 pong.swell2020.ripple.com
 tpzth.i.ripple.com
 _east.ripple.com
@@ -537,11 +531,10 @@ staging.ripple.com
 staging.gallery.swell.ripple.com
 test.dev.issuer.ripple.com
 westgate.i.ripple.com
-www.technicalsupport.ripple.com
+technicalsupport.ripple.com
 dev05.xctest.i.ripple.com
 download.ripple.com
 elbtest128.xctest.i.ripple.com
-home.ripple.com
 j126.i.ripple.com
 xcv4001.i.ripple.com
 sademo1.xctest.i.ripple.com
@@ -572,7 +565,6 @@ elbtest135.xctest.i.ripple.com
 b702.i.ripple.com
 bapache.i.ripple.com
 perf03.xctest.i.ripple.com
-www.staging.caspian-api.ingestion.ripple.com
 xrp-holder-portal.ripple.com
 elbtest13.xctest.i.ripple.com
 alr.i.ripple.com
@@ -585,7 +577,6 @@ rc821.i.ripple.com
 ds.ripple.com
 xctest.i.ripple.com
 api.ripple.com
-corpnettools.usw2.it.ripple.com
 david-schwartz-thespian.staging.swell2020.ripple.com
 cli2.i.ripple.com
 nzd.i.ripple.com
@@ -602,7 +593,6 @@ b311.i.ripple.com
 cppm.it.ripple.com
 f502.i.ripple.com
 testnet-proxy.i.ripple.com
-www.swell.ripple.com
 artiproxy.usw2.ops.ripple.com
 b701.i.ripple.com
 p34rec1.i.ripple.com
@@ -644,10 +634,9 @@ ci.ripple.com
 cppm-proxy.it.ripple.com
 n1.i.ripple.com
 a111.i.ripple.com
-www.gitlab.ops.ripple.com
-www.securemail.ripple.com
-intranet.ripple.com
+gitlab.ops.ripple.com
 securemail.ripple.com
+intranet.ripple.com
 vn010.i.ripple.com
 weytest1.i.ripple.com
 fox1.i.ripple.com
@@ -656,13 +645,9 @@ mc.i.ripple.com
 mhvl01.i.ripple.com
 pat050.i.ripple.com
 alipay.ripple.com
-dev.caspian-api.ingestion.ripple.com
-gitlab.ops.ripple.com
-technicalsupport.ripple.com
 api-staging.validators.ripple.com
 s2.livenet.ripple.com
 elbtest5.xctest.i.ripple.com
-www.sandbox.liquidityhub.ripple.com
 r106.i.ripple.com
 r851.i.ripple.com
 rc822.i.ripple.com
@@ -672,7 +657,6 @@ r163.i.ripple.com
 t101.i.ripple.com
 t102.i.ripple.com
 brett1.i.ripple.com
-clients.ripple.com
 dave3.i.ripple.com
 gavel.hackathon.ripple.com
 way-usd.i.ripple.com
@@ -686,7 +670,6 @@ dcm.ripple.com
 ilp.i.ripple.com
 p34send1.i.ripple.com
 sonarqube.ops.ripple.com
-www.developers.ripple.com
 huginn.ripple.com
 info.ripple.com
 pp-sender.i.ripple.com
@@ -700,15 +683,11 @@ j109.i.ripple.com
 ops.ripple.com
 public.txnexporter.ripple.com
 xcv3-south-bank.i.ripple.com
-caspian-api.ingestion.ripple.com
 elbtest31.xctest.i.ripple.com
-liquidityhub.ripple.com
 staging.swell.ripple.com
 tf.ripple.com
-www.realvaluerightnow.ripple.com
 r811.i.ripple.com
 rc811.i.ripple.com
-www.api.gitlab.ops.ripple.com
 api.staging.swell2020.ripple.com
 forum.ripple.com
 pong.staging.swell2020.ripple.com
@@ -762,7 +741,6 @@ scb-testing.i.ripple.com
 perf04.xctest.i.ripple.com
 spain.i.ripple.com
 elbtest35.xctest.i.ripple.com
-www.logrhythm.sfo.corp.ripple.com
 blog.ripple.com
 lc1.i.ripple.com
 quiz.staging.swell2020.ripple.com

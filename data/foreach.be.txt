@@ -3,7 +3,7 @@ kibana.pre-test.camalion.foreach.be
 apm.pre-test.camalion.foreach.be
 pre-test.camalion.foreach.be
 uat.camalion.foreach.be
-www.test.camalion.foreach.be
+test.camalion.foreach.be
 kibana.uat.camalion.foreach.be
 apm.uat.camalion.foreach.be
 elasticsearch.uat.camalion.foreach.be

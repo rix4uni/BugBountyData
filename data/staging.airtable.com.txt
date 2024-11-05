@@ -1,5 +1,5 @@
-*.fs.staging.airtable.com
-*.srp.staging.airtable.com
+fs.staging.airtable.com
+srp.staging.airtable.com
 a.staging.airtable.com
 api.fs.staging.airtable.com
 cdn.fs.staging.airtable.com
@@ -9,18 +9,14 @@ dialog.fs.staging.airtable.com
 dl.staging.airtable.com
 dl3.staging.airtable.com
 email.staging.airtable.com
-fs.staging.airtable.com
 hooks.staging.airtable.com
 internal-test.staging.airtable.com
 lightstep.staging.airtable.com
 process.fs.staging.airtable.com
 sco-assets.support.staging.airtable.com
-srp.staging.airtable.com
 static.fs.staging.airtable.com
 static.staging.airtable.com
 support.staging.airtable.com
-www.fs.staging.airtable.com
-www.staging.airtable.com
 www1.staging.airtable.com
 try.staging.airtable.com
 upload.fs.staging.airtable.com

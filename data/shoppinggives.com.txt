@@ -32,7 +32,6 @@ resources.shoppinggives.com
 shop.shoppinggives.com
 shopify-forw.api.dev.shoppinggives.com
 shopify-forw.api.qa.shoppinggives.com
-www.shoppinggives.com
 api.staging1.shoppinggives.com
 app.dev.shoppinggives.com
 app.qa.shoppinggives.com
@@ -46,4 +45,3 @@ portal.qa.shoppinggives.com
 qa.shoppinggives.com
 staging1.shoppinggives.com
 test.shoppinggives.com
-www.clearity.shoppinggives.com

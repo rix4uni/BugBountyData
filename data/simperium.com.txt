@@ -1,7 +1,6 @@
 blog.simperium.com
 js.simperium.com
 auth.simperium.com
-www.simperium.com
 backups35.dca.simperium.com
 email.simperium.com
 status.simperium.com
@@ -9,7 +8,6 @@ admin.simperium.com
 api.simperium.com
 mongodb1-0.dfw.simperium.com
 dbsync.simperium.com
-*.simperium.com
 wiki-uploads-accessstaging-masterrings.simperium.com
 developer.simperium.com
 iosunittest.simperium.com

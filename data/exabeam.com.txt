@@ -76,10 +76,9 @@ poa.aa.exabeam.com
 swratingen.dl.exabeam.com
 si-ngt3-e2e.data.exabeam.com
 tonatiuh.dl.exabeam.com
-*.aa.exabeam.com
-*.cc.exabeam.com
-*.dl.exabeam.com
-*.exabeam.com
+aa.exabeam.com
+cc.exabeam.com
+dl.exabeam.com
 dmsoc.cc.exabeam.com
 ubsuebaprep.cc.exabeam.com
 ubsuebaprep.aa.exabeam.com
@@ -484,7 +483,7 @@ ken1e-e2e.dl.exabeam.com
 51a0e7bd.status.exabeam.com
 fstqual.aa.exabeam.com
 monster.dl.exabeam.com
-www.ubidemo.exabeam.com
+ubidemo.exabeam.com
 uwa.aa.exabeam.com
 varoor02-e2e.aa.exabeam.com
 c543f18d.status.exabeam.com
@@ -986,7 +985,7 @@ pomerleau.aa.exabeam.com
 aauipdev-e2e.cc.exabeam.com
 boarspov.dl.exabeam.com
 fcc9c3b8.status.exabeam.com
-www.democenter.exabeam.com
+democenter.exabeam.com
 b023be68.status.exabeam.com
 boot1e-e2e.cc.exabeam.com
 si-ngck-e2e.aa.exabeam.com
@@ -1034,7 +1033,6 @@ aa-bibo2-e2e.aa.exabeam.com
 rqlab.cc.exabeam.com
 pomerleau.dl.exabeam.com
 tecnimont4.dl.exabeam.com
-cc.exabeam.com
 accentotlab.cc.exabeam.com
 aipso.cc.exabeam.com
 cdpq.aa.exabeam.com
@@ -3283,7 +3281,6 @@ insperity.cloned.aa.exabeam.com
 9101b366.status.exabeam.com
 hritik-e2e.dl.exabeam.com
 kirinlog.dl.exabeam.com
-www.sipdemo.exabeam.com
 deloittelab.cc.exabeam.com
 ladapoc.aa.exabeam.com
 467b2b42.status.exabeam.com
@@ -4128,7 +4125,6 @@ jonesday2.aa.exabeam.com
 clone4-e2e.aa.exabeam.com
 ed4cb310.status.exabeam.com
 solutec.cc.exabeam.com
-dl.exabeam.com
 apache.aa.exabeam.com
 cc-eh-e2e.aa.exabeam.com
 fllp.cc.exabeam.com
@@ -4480,7 +4476,6 @@ a5f863f0.status.exabeam.com
 exa-613-e2e.dl.exabeam.com
 expedia.aa.exabeam.com
 hm.aa.exabeam.com
-www.transfer.exabeam.com
 6860ec99.status.exabeam.com
 fr.aa.exabeam.com
 neofirst318.cc.exabeam.com
@@ -4528,7 +4523,6 @@ shc.dl.exabeam.com
 kettering.cc.exabeam.com
 ultra.aa.exabeam.com
 usmed.dl.exabeam.com
-www.exabeam.com
 354e5c48.status.exabeam.com
 advarra.data.exabeam.com
 b16d9d4f.status.exabeam.com
@@ -5319,7 +5313,6 @@ si-test2-e2e.aa.exabeam.com
 marriott.aa.exabeam.com
 ua.cc.exabeam.com
 xyf.cc.exabeam.com
-aa.exabeam.com
 4194b1e4.status.exabeam.com
 bfin.dl.exabeam.com
 amit-e2e.cc.exabeam.com
@@ -5401,7 +5394,6 @@ mcmillan.aa.exabeam.com
 btest-e2e.dl.exabeam.com
 muratapoc.cc.exabeam.com
 reg-v11-e2e.aa.exabeam.com
-www.go.exabeam.com
 753bb273.status.exabeam.com
 aa1-bibo-e2e.dl.exabeam.com
 si-lrg1-e2e.dl.exabeam.com
@@ -5877,7 +5869,7 @@ c3a7c833.status.exabeam.com
 ciscodev.aa.exabeam.com
 c149b2af.status.exabeam.com
 exabeam-demo1.dl.exabeam.com
-www.community.exabeam.com
+community.exabeam.com
 074f6b6a.status.exabeam.com
 d9e44b4b.status.exabeam.com
 newmont.dl.exabeam.com
@@ -6138,7 +6130,6 @@ goco.aa.exabeam.com
 apap.cc.exabeam.com
 gladstone.aa.exabeam.com
 televia.aa.exabeam.com
-www.bamboo.exabeam.com
 tbd2-int-e2e.dl.exabeam.com
 testlrint1.cc.exabeam.com
 547ffad8.status.exabeam.com
@@ -6623,7 +6614,6 @@ sbf.cc.exabeam.com
 cisco-pov.dl.exabeam.com
 inf-6621-e2e.dl.exabeam.com
 univwea.aa.exabeam.com
-democenter.exabeam.com
 newrez.cc.exabeam.com
 psr-cc6-e2e.cc.exabeam.com
 ks-e2e.aa.exabeam.com
@@ -6910,7 +6900,6 @@ si-ngtel-e2e.dl.exabeam.com
 cc933-dl-e2e.dl.exabeam.com
 mti.dl.exabeam.com
 napanew2.cc.exabeam.com
-community.exabeam.com
 dataminreu.cc.exabeam.com
 marsprod-haproxy.ia.exabeam.com
 ngsc-new-e2e.aa.exabeam.com
@@ -6933,7 +6922,7 @@ hdfsmin4-e2e.dl.exabeam.com
 frcs.cc.exabeam.com
 clone2-e2e.dl.exabeam.com
 sitest14.aa.exabeam.com
-www.partnerportal.exabeam.com
+partnerportal.exabeam.com
 5c117a5e.status.exabeam.com
 gmfinancial.aa.exabeam.com
 uip-reg-e2e.aa.exabeam.com
@@ -7650,7 +7639,6 @@ maravai.cc.exabeam.com
 c5m-e2e.aa.exabeam.com
 ngsc-dev-e2e.dl.exabeam.com
 skotest5.cc.exabeam.com
-www.partners.exabeam.com
 reg-sne-e2e.aa.exabeam.com
 ubagroup.data.exabeam.com
 si-msdau-e2e.cc.exabeam.com
@@ -8063,7 +8051,6 @@ jge.cc.exabeam.com
 ligthouse.cc.exabeam.com
 teleperform.aa.exabeam.com
 tiny-e2e.dl.exabeam.com
-www.partnersocial.exabeam.com
 dbdl-uip-e2e.dl.exabeam.com
 exabeam-demo2.dl.exabeam.com
 nvdot.aa.exabeam.com
@@ -8292,7 +8279,6 @@ advisor360.cc.exabeam.com
 clone-src1.cc.exabeam.com
 ctc.cloned.aa.exabeam.com
 k12m6-e2e-haproxy.ia.exabeam.com
-partnerportal.exabeam.com
 deftech.cc.exabeam.com
 ken1m-e2e.dl.exabeam.com
 lab-test-e2e.aa.exabeam.com
@@ -8345,7 +8331,6 @@ virtus.aa.exabeam.com
 pillsbury.aa.exabeam.com
 igt.cc.exabeam.com
 smartsheet.dl.exabeam.com
-ubidemo.exabeam.com
 vystar.aa.exabeam.com
 cs-lab1-e2e.cc.exabeam.com
 chubbpovng.dl.exabeam.com
@@ -8444,14 +8429,11 @@ psns-am-e2e.aa.exabeam.com
 gic.cc.exabeam.com
 gicuat.aa.exabeam.com
 shub-e2e.cc.exabeam.com
-*.beats.exabeam.com
 bspoc.aa.exabeam.com
 rcwilley.aa.exabeam.com
 bspoc.cc.exabeam.com
 rcwilley.cc.exabeam.com
-*.ia.exabeam.com
 zeonpov.aa.exabeam.com
-*.cloud.exabeam.com
 zeonpov.cc.exabeam.com
 bancodelta.aa.exabeam.com
 bancodelta.cc.exabeam.com

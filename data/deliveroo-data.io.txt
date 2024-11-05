@@ -4,10 +4,8 @@ bastion-staging.deliveroo-data.io
 weather.deliveroo-data.io
 bastion-production.deliveroo-data.io
 internal.canoe-production-k8s.deliveroo-data.io
-www.deliveroo-data.io
 -chd.deliveroo-data.io
 -k8s-prod.deliveroo-data.io
 bastion.canoe-production-k8s.deliveroo-data.io
 api.internal.canoe-production-k8s.deliveroo-data.io
 api.canoe-production-k8s.deliveroo-data.io
-*.deliveroo-data.io

@@ -27,7 +27,7 @@ sfcc-dev.asics.com
 sfcc-us.stg.asics.com
 sfcc-jp.stg.asics.com
 outlet.dev.asics.com
-www.dev.asics.com
+dev.asics.com
 sfcc-jp-development-kr.dev.asics.com
 id-sandbox.asics.com
 sfcc-stg-us.asics.com
@@ -37,7 +37,7 @@ walking.dev.asics.com
 sfcc-us.dev.asics.com
 sfcc-jp-development-jp-walking.dev.asics.com
 sfcc-jp.dev.asics.com
-www.stg.asics.com
+stg.asics.com
 id.dev.asics.com
 myvisit-me.asics.com
 releases.asics.com
@@ -135,13 +135,13 @@ shinagawa.asics.com
 cloud.walking-retail.asics.com
 ja-gl.races-draft.asics.com
 mx1.japanoutlet.asics.com
-www.preprod.asics.com
+preprod.asics.com
 www-sfcc-us-067-walking.dev.asics.com
 www-hk.races-draft.asics.com
 www-sfcc-us-033-outlet.dev.asics.com
 impact.asics.com
 www-se.races-draft.asics.com
-www.ucexternal02.asics.com
+ucexternal02.asics.com
 wearable.asics.com
 sfcc-dev04-jp.asics.com
 ocsp.asics.com
@@ -160,7 +160,6 @@ myvisit-emea.asics.com
 www-sfcc-ci-005-walking.dev.asics.com
 footid.de.staging.asics.com
 www-sg.races-draft.asics.com
-dev.asics.com
 outlet.asics.com
 www-sfcc-us-065-walking.dev.asics.com
 www-sfcc-us-064-outlet.dev.asics.com
@@ -169,7 +168,7 @@ www-sfcc-us-013-outlet.dev.asics.com
 www-sfcc-us-054-walking.dev.asics.com
 data-viewer.asics.com
 my.asics.com
-www.walking-journal.asics.com
+walking-journal.asics.com
 www-sfcc-us-048-walking.dev.asics.com
 redirector.asics.com
 sfcc-dev-jp.asics.com
@@ -197,11 +196,9 @@ origin-www.asics.com
 www2-origin.asics.com
 www-sfcc-us-038-outlet.dev.asics.com
 www-sfcc-us-041-outlet.dev.asics.com
-www.sfcc-dev.asics.com
 www-ca.races-draft.asics.com
 sfcc-prd.asics.com
 footid-de.dev.asics.com
 ui.asics.com
 eu-tpvpn2.asics.com
-walking-journal.asics.com
 link.indonesia.asics.com

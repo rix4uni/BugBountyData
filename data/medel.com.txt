@@ -25,14 +25,12 @@ portal.azeuw.api-q.medel.com
 mymedel.cdn.medel.com
 crm.cdn.medel.com
 itsupport.cdn.medel.com
-www.shop.br.medel.com
 download.cdn.medel.com
-www.medel.com
 pift.audiokey-dev.apps.medel.com
 fonts.cdn.medel.com
 crmmkt.cdn.medel.com
 shop.ca.medel.com
-www.spark.ent.medel.com
+spark.ent.medel.com
 stiwell.medel.com
 sfc.ent.medel.com
 hearlife.medel.com
@@ -42,8 +40,8 @@ staging.sitefinity.ent.medel.com
 sws-euw1-plesk-01.web-tools.ent.medel.com
 sfc-test.ent.medel.com
 hearring.web-test.medel.com
-*.web-dev.medel.com
-*.web-test.medel.com
+web-dev.medel.com
+web-test.medel.com
 image.e.medel.com
 auth-dev.login.medel.com
 sfc01.cdn.medel.com
@@ -62,7 +60,6 @@ hearinghealthcare.medel.com
 s.medel.com
 s3.medel.com
 ideasforears.web-test.medel.com
-spark.ent.medel.com
 sws-plesk-test-01.web-dev.medel.com
 marketingorders.at.medel.com
 vuln.ent.medel.com
@@ -89,7 +86,6 @@ academy.vienna.medel.com
 hearbetter.medel.com
 surgical-videos.web-test.medel.com
 qa.igscommunity.web-dev.medel.com
-www.shop.at.medel.com
 cdn-us.shop.medel.com
 sws-sae1-plesk-01.web-tools.ent.medel.com
 marketing.shop.medel.com

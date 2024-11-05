@@ -8,7 +8,7 @@ c.cpanel.net
 blog.cpanel.net
 luke.cabundle.cpanel.net
 bootcamp.cpanel.net
-www.1.cpanel.net
+1.cpanel.net
 cpanel.demo.cpanel.net
 appcat.cpanel.net
 apps.cpanel.net
@@ -44,7 +44,6 @@ cpsupport.cpanel.net
 webmail.demo.cpanel.net
 auth.cpanel.net
 cp1con.cpanel.net
-www.billing.cpanel.net
 cpu.cpanel.net
 centos2.cpanel.net
 leia.cabundle.cpanel.net
@@ -58,7 +57,6 @@ clamav.cpanel.net
 chrono.cpanel.net
 cpaneldemo.cpanel.net
 cpanmetadb.cpanel.net
-www.cpanel.net
 auth6.cpanel.net
 attracta.cpanel.net
 confluence1.cpanel.net
@@ -72,7 +70,7 @@ zd-purple.cpanel.net
 zd-brown.cpanel.net
 partner.docs.cpanel.net
 interview-a8.cpanel.net
-*.registry-cache.awe.cpanel.net
+registry-cache.awe.cpanel.net
 dal-1.frontend.www.prod.cpanel.net
 a.cpanel.net
 audit.cpanel.net
@@ -907,7 +905,6 @@ consul-2.staging.eco.cpanel.net
 vault-server-0.rg.eco.cpanel.net
 runner-1.dev-nas.eco.cpanel.net
 consul.dev-nas.eco.cpanel.net
-1.cpanel.net
 hou-3.slave.customerldap.prod.cpanel.net
 calf.testing.eco.cpanel.net
 postgresql.v2-6-0.eco.cpanel.net
@@ -1179,7 +1176,6 @@ wp.cpanel.net
 zd-red.cpanel.net
 documentation-export.cpanel.net
 newwww.cpanel.net
-www.rosetta.cpanel.net
 tp.cpanel.net
 ping-uat.cpanel.net
 ping-test.cpanel.net
@@ -1187,7 +1183,6 @@ wp2.cpanel.net
 hou-3.plesk.www.prod.cpanel.net
 sso.idm-test.cpanel.net
 hou-1.plesk.www.prod.cpanel.net
-www.sso.idm-test.cpanel.net
 wg.eco.cpanel.net
 jss.cpanel.net
 install.narcissus.cpanel.net
@@ -1272,22 +1267,6 @@ skycomp.exams.cpanel.net
 kualo.exams.cpanel.net
 netnation.exams.cpanel.net
 bobcares.exams.cpanel.net
-www.paste.university.cpanel.net
-www.cs-test.cpanel.net
-www.university.cpanel.net
-www.hou-1.www.cpanel.net
-www.redrobin.cpanel.net
-www.mx1.cpanel.net
-www.ome.cpanel.net
 miniomirror.devops.cpanel.net
-www.preview.cpanel.net
 lab.awe.cpanel.net
-www.qs2.tech.cpanel.net
-www.launch6.class.cpanel.net
-www.nick.mail.cpanel.net
-www.ovh1.tech.cpanel.net
-www.launch5.class.cpanel.net
-www.mxarchive2.cpanel.net
-www.exams.cpanel.net
-www.dashboard.tech.cpanel.net
 mail.cpanel.net

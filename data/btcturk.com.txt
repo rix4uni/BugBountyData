@@ -22,7 +22,6 @@ sms-service.btcturk.com
 pro-dev.btcturk.com
 cdn.btcturk.com
 bilgibankasi.btcturk.com
-www.btcturk.com
 autodiscover.btcturk.com
 form.btcturk.com
 destek.btcturk.com
@@ -112,11 +111,6 @@ api-mobile.btcturk.com
 api-pro.btcturk.com
 delypea.btcturk.com
 infoset-helpdesk.kripto.btcturk.com
-*.pro.btcturk.com
-*.kripto.btcturk.com
-*.global.btcturk.com
-*.btcturk.com
-*.dev.btcturk.com
 account-global.btcturk.com
 api-beta.btcturk.com
 api-mobile-beta.btcturk.com
@@ -259,4 +253,3 @@ fiat-gw.btcturk.com
 bjxwpvernl.btcturk.com
 zendesk2._domainkey.btcturk.com
 cf.btcturk.com
-www.pro.btcturk.com

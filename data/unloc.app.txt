@@ -18,7 +18,6 @@ test-mqtt.unloc.app
 get.unloc.app
 my-dev.unloc.app
 testmicsen.jump.unloc.app
-www.unloc.app
 dk.unloc.app
 se.unloc.app
 demo.unloc.app
@@ -28,7 +27,6 @@ open.unloc.app
 my.unloc.app
 dl-dev.unloc.app
 dl.unloc.app
-www.my.unloc.app
 shop.unloc.app
 store.unloc.app
 api.unloc.app
@@ -39,7 +37,7 @@ rak.sandbox.unloc.app
 api.sandbox.unloc.app
 my.sandbox.unloc.app
 onboarding.unloc.app
-www.dev.unloc.app
+dev.unloc.app
 autokey.unloc.app
 autokey.dev.unloc.app
 europetest.unloc.app

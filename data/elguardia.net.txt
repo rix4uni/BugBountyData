@@ -28,7 +28,7 @@ ilms.elguardia.net
 ds-ims-dev.elguardia.net
 netmodapp4-01.elguardia.net
 netmodapp3-01.elguardia.net
-www.awapi.elguardia.net
+awapi.elguardia.net
 dev002.c1-service-cloud.elguardia.net
 ecrba.ivv.c1-service-cloud.elguardia.net
 jamf.elguardia.net
@@ -42,7 +42,6 @@ usaid.elguardia.net
 mx.elguardia.net
 ecrba.test-pi.c1-service-cloud.elguardia.net
 netmodapp1-02.elguardia.net
-www.elguardia.net
 cacms-dev.elguardia.net
 mytravel-dev.elguardia.net
 www1w.elguardia.net
@@ -53,11 +52,10 @@ gbiclouddev.elguardia.net
 netmodapp2-01.elguardia.net
 github.elguardia.net
 eecore.elguardia.net
-www.awcore.elguardia.net
+awcore.elguardia.net
 ds-ims-dev-01.elguardia.net
 netmodapp1.elguardia.net
-www.twdsbc.elguardia.net
-awapi.elguardia.net
+twdsbc.elguardia.net
 webgoatnoauth.elguardia.net
 netmodapp4.elguardia.net
 netmodapp3.elguardia.net
@@ -71,9 +69,6 @@ test.c1-service-cloud.elguardia.net
 hybrid.elguardia.net
 webgels.elguardia.net
 mytravel-test-perf.elguardia.net
-twdsbc.elguardia.net
-awcore.elguardia.net
-www.goive.elguardia.net
 netmodapptest-02.elguardia.net
 ds-aware-01.elguardia.net
 orchdev.elguardia.net

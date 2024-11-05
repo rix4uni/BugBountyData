@@ -1,5 +1,4 @@
 1passscim.pipe.com
-*.internal.pipe.com
 internal.pipe.com
 dashboard.pipe.com
 app.pipe.com
@@ -8,7 +7,6 @@ partners.pipe.com
 docs.pipe.com
 embed.pipe.com
 api.embed.pipe.com
-www.pipe.com
 login.pipe.com
 hr.pipe.com
 it.pipe.com
@@ -19,5 +17,4 @@ hasura.pipe.com
 verify.pipe.com
 embedtest.pipe.com
 jupyterhub.preview.pipe.com
-*.preview.pipe.com
 preview.pipe.com

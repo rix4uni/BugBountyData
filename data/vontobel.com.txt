@@ -6,7 +6,6 @@ test-raupgrade-v383.vontobel.com
 am.vontobel.com
 markets.vontobel.com
 secmail.vontobel.com
-www.vontobel.com
 t-we-markets.vontobel.com
 t-markets.vontobel.com
 volt.vontobel.com
@@ -32,13 +31,12 @@ smtp2.vontobel.com
 identification.api.vontobel.com
 smtp-acpt.vontobel.com
 on.vontobel.com
-www.sfa.vontobel.com
+sfa.vontobel.com
 am-t.vontobel.com
 px01.a-meet.vontobel.com
 ellexx.vontobel.com
 myras-ng.vontobel.com
 a-relay1.vontobel.com
-sfa.vontobel.com
 devops-ras.vontobel.com
 access.vontobel.com
 t-academy.vontobel.com
@@ -128,7 +126,6 @@ a-myras.vontobel.com
 a-astmgmt.vontobel.com
 a2-astmgmt.vontobel.com
 astmgmt.vontobel.com
-www.investerest.vontobel.com
 incident.vontobel.com
 vconf.vontobel.com
 login.vontobel.com

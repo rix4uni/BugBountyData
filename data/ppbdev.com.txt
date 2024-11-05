@@ -861,7 +861,6 @@ administrator-019198.ppbdev.com
 administrator-016228.ppbdev.com
 administrator-024106.ppbdev.com
 administrator-001-14-006-drc.ppbdev.com
-www.ppbdev.com
 administrator-021.ppbdev.com
 administrator-023178.ppbdev.com
 administrator-0-0-staticdsl5-73-1.ppbdev.com
@@ -2394,11 +2393,7 @@ gamesapi.betfair.com.nxt.ppbdev.com
 developer.betfair.com.qa.ppbdev.com
 betfair.ar.qa.ppbdev.com
 betfair.cdn.gmmaster.ppbdev.com
-*.developer.betfair.com.au.qa.ppbdev.com
-*.betfair.com.au.prf.ppbdev.com
-*.betfair.com.au.nxt.ppbdev.com
-*.betfair.com.au.qa.ppbdev.com
-*.ppbdev.com
+developer.betfair.com.au.qa.ppbdev.com
 games.paddypower.com.nxt.ppbdev.com
 casino.betfair.com.nxt.ppbdev.com
 betting.betfair.com.nxt.ppbdev.com
@@ -2406,11 +2401,9 @@ bgi.flutterb2b.com.nxt.ppbdev.com
 games.paddypower.com.getdev.ppbdev.com
 mainbranchdeploy.getdev.ppbdev.com
 casino.betfair.com.getdev.ppbdev.com
-www.skyvegas.com.getdev.ppbdev.com
 skillzone.paddypower.com.nxt.ppbdev.com
 jogoresponsavel.betfair.bet.br.nxt.ppbdev.com
 jogoresponsavel.betfair.bet.br.ppbdev.com
-developer.betfair.com.au.qa.ppbdev.com
 jogoresponsavel.betfair.com.nxt.ppbdev.com
 undefinedbranchdeploy.getdev.ppbdev.com
 jogoresponsavel1.betfair.bet.br.ppbdev.com

@@ -1,6 +1,5 @@
 blog.zulip.com
-www.api.zulip.com
-www.zulip.com
+api.zulip.com
 avatars.zulip.com
 kicad.zulip.com
 plan9.zulip.com
@@ -28,10 +27,8 @@ metaphysicalplant.zulip.com
 static.zulip.com
 web.zulip.com
 e.mysteryhunt.zulip.com
-api.zulip.com
 example.zulip.com
 mysteryhunt.zulip.com
-www.blog.zulip.com
 docs.zulip.com
 hackinorth.zulip.com
 vandystats.zulip.com

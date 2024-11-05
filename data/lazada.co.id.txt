@@ -1,13 +1,11 @@
-*.lazada.co.id
-*.adsense.lazada.co.id
-*.education.lazada.co.id
-*.m.lazada.co.id
-*.sellercenter.lazada.co.id
-*.sellercenter-staging.lazada.co.id
+adsense.lazada.co.id
+education.lazada.co.id
+m.lazada.co.id
+sellercenter.lazada.co.id
+sellercenter-staging.lazada.co.id
 acs-m.lazada.co.id
 admin.lazada.co.id
 adrisk-sample-ad.lazada.co.id
-adsense.lazada.co.id
 affiliate.lazada.co.id
 akuma.lazada.co.id
 ali.lazada.co.id
@@ -27,7 +25,6 @@ cart.lazada.co.id
 cart-m.lazada.co.id
 checkout.lazada.co.id
 checkout-m.lazada.co.id
-education.lazada.co.id
 er.lazada.co.id
 er-p.lazada.co.id
 filebroker-cdn.lazada.co.id
@@ -45,7 +42,6 @@ jmacs-m.lazada.co.id
 ju.lazada.co.id
 layout.lazada.co.id
 lms.lazada.co.id
-m.lazada.co.id
 member.lazada.co.id
 member-m.lazada.co.id
 mobapi.lazada.co.id
@@ -64,9 +60,7 @@ pre-omsfb-logistics.lazada.co.id
 pre-wormhole.lazada.co.id
 promo.lazada.co.id
 s.lazada.co.id
-sellercenter.lazada.co.id
 sellercenter-api.lazada.co.id
-sellercenter-staging.lazada.co.id
 sellercenter-staging-api.lazada.co.id
 sellercenter-staging-static.lazada.co.id
 sellercenter-static.lazada.co.id
@@ -86,8 +80,6 @@ tracker.lazada.co.id
 u.lazada.co.id
 university.lazada.co.id
 web.lazada.co.id
-www.lazada.co.id
-www.ho.lazada.co.id
 static-asc.sellercenter.lazada.co.id
 recommender.lazada.co.id
 shop-decoration-api.lazada.co.id
@@ -153,7 +145,6 @@ pform.lazada.co.id
 pre-c.lazada.co.id
 ssc.lazada.co.id
 c360.lazada.co.id
-www.digital.lazada.co.id
 education-staging.lazada.co.id
 xb70de85cf61bad939cbe8a004eedad3ae1665606755a1984346082a911339676abaac2daa__bx__www.lazada.co.id
 i4vgzbyq5t.lazada.co.id

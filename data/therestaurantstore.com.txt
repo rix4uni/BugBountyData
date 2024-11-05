@@ -1,6 +1,5 @@
 tokenizer.therestaurantstore.com
 go.therestaurantstore.com
-www.therestaurantstore.com
 owa.therestaurantstore.com
 admin.therestaurantstore.com
 mail.therestaurantstore.com
@@ -12,4 +11,3 @@ cdnimg1.therestaurantstore.com
 test.therestaurantstore.com
 assets.therestaurantstore.com
 chat.therestaurantstore.com
-*.therestaurantstore.com

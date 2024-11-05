@@ -23,10 +23,8 @@ bank.btc.taler.net
 buywith.taler.net
 auditor.btc.taler.net
 blog.demo.taler.net
-www.taler.net
 sync.demo.taler.net
 auditor.demo.taler.net
-www.git.taler.net
 shop.demo.taler.net
 v1.anastasis.taler.net
 api.taler.net
@@ -127,7 +125,7 @@ bank.netzbon-demo.taler.net
 grafana.taler.net
 exchange.kyctest.taler.net
 shop.bookseller.taler.net
-www.wild.gv.taler.net
+wild.gv.taler.net
 auditor.euro.taler.net
 donations.test.taler.net
 head.taler.net

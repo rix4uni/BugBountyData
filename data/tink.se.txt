@@ -118,7 +118,6 @@ safe-settings.production.global.tink.se
 support.tink.se
 tink-link-hosted-assets.production.oxford.tink.se
 tink-link-hosted-assets.staging.oxford.tink.se
-www.tink.se
 account.production.oxford.tink.se
 account.staging.oxford.tink.se
 acme.link.preprod.oxford.tink.se
@@ -381,11 +380,3 @@ tink-link-hosted-assets.preprod.oxford.tink.se
 tinkstage.production.global.tink.se
 unleash-proxy.production.oxford.tink.se
 unleash-proxy.staging.oxford.tink.se
-www.business.tink.se
-www.console.production.rugby.tink.se
-www.console.staging.oxford.tink.se
-www.console.staging.rugby.tink.se
-www.console.tink.se
-www.dashboard.internal.tink.se
-www.demo.tink.se
-www.repos.tink.se

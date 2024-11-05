@@ -3,7 +3,7 @@ mailserver.vanloongroup.com
 zmail.vanloongroup.com
 pop.vanloongroup.com
 mailgate.vanloongroup.com
-www.sql02.vanloongroup.com
+sql02.vanloongroup.com
 ms.vanloongroup.com
 mx2.vanloongroup.com
 art.vanloongroup.com
@@ -20,7 +20,7 @@ barracuda.vanloongroup.com
 smtps.vanloongroup.com
 mail6.vanloongroup.com
 werkenbij.vanloongroup.com
-www.vacatures.vanloongroup.com
+vacatures.vanloongroup.com
 gateway.vanloongroup.com
 smtpauth.vanloongroup.com
 home.vanloongroup.com
@@ -49,7 +49,6 @@ zimbra.vanloongroup.com
 thor.vanloongroup.com
 root.vanloongroup.com
 mailgw.vanloongroup.com
-www.werkenbij.vanloongroup.com
 mailhost.vanloongroup.com
 ns1.vanloongroup.com
 mailapp.vanloongroup.com
@@ -88,14 +87,12 @@ po.vanloongroup.com
 ms1.vanloongroup.com
 www1.vanloongroup.com
 remote.vanloongroup.com
-www.vanloongroup.com
 vlecctvnas.vanloongroup.com
 sniper.vanloongroup.com
 server.vanloongroup.com
 server1.vanloongroup.com
 mail02.vanloongroup.com
 authsmtp.vanloongroup.com
-vacatures.vanloongroup.com
 mbox.vanloongroup.com
 relay.vanloongroup.com
 saphirtest.vanloongroup.com
@@ -111,7 +108,6 @@ poczta.vanloongroup.com
 auth.vanloongroup.com
 vlscctvnas.vanloongroup.com
 servicedesk.vanloongroup.com
-sql02.vanloongroup.com
 cs.vanloongroup.com
 mails.vanloongroup.com
 correo.vanloongroup.com

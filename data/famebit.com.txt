@@ -4,7 +4,7 @@ dev.famebit.com
 static.dev.famebit.com
 docs.famebit.com
 api.staging.famebit.com
-www.localdev.famebit.com
+localdev.famebit.com
 calendar.famebit.com
 api.dev.famebit.com
 legacyapi.dev.famebit.com
@@ -14,9 +14,7 @@ legacyapi.staging.famebit.com
 staging.famebit.com
 images.dev.famebit.com
 images.famebit.com
-localdev.famebit.com
 legacyapi.localdev.famebit.com
-www.famebit.com
 thumbs.dev.famebit.com
 thumbs.famebit.com
 api.localdev.famebit.com

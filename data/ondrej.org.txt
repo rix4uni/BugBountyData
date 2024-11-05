@@ -1,4 +1,3 @@
-*.ondrej.org
 pihole.ondrej.org
 pw.ondrej.org
 rocky.ondrej.org
@@ -7,7 +6,6 @@ home.ondrej.org
 hypnos.ondrej.org
 irc.ondrej.org
 transmission.ondrej.org
-www.ondrej.org
 blog.ondrej.org
 anita.ondrej.org
 fn.ondrej.org
@@ -15,7 +13,6 @@ foto.ondrej.org
 loxone.ondrej.org
 munin.ondrej.org
 todo.ondrej.org
-www.fn.ondrej.org
 nomidev.ondrej.org
 sitebar.ondrej.org
 ww.ondrej.org

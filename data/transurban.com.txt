@@ -5,7 +5,7 @@ mycamera.transurban.com
 revoketest.transurban.com
 tucmg.transurban.com
 amistestmif.transurban.com
-www.mfa.transurban.com
+mfa.transurban.com
 demo.transurban.com
 mag.transurban.com
 preprod.community.transurban.com
@@ -24,7 +24,7 @@ preprod.blog.transurban.com
 remote.transurban.com
 testcert8.transurban.com
 workspacetu-usa.transurban.com
-www.preprod.careers.transurban.com
+preprod.careers.transurban.com
 ams.transurban.com
 sr14.transurban.com
 vpn-dc1.transurban.com
@@ -44,11 +44,11 @@ tableau-np.transurban.com
 tdc1pcwee01.transurban.com
 workspacetu-aus.transurban.com
 smtp-auth-dc4.transurban.com
-www.tollnotice.transurban.com
+tollnotice.transurban.com
 api-staging.transurban.com
 prdrmxccr.applications.transurban.com
 preprod.connectedcities.transurban.com
-www.preprod.cavs.transurban.com
+preprod.cavs.transurban.com
 connectuqc.transurban.com
 callau.transurban.com
 jira.transurban.com
@@ -61,7 +61,7 @@ amistest.transurban.com
 test4.transurban.com
 testcert6.transurban.com
 dm03.transurban.com
-www.connectedcities.transurban.com
+connectedcities.transurban.com
 tdc2pcwee01.transurban.com
 kiransan.transurban.com
 vbond.transurban.com
@@ -101,7 +101,6 @@ phantom-dev.transurban.com
 prdqes.applications.transurban.com
 amsnew.transurban.com
 testcert.transurban.com
-www.community.transurban.com
 sergetest.transurban.com
 preprod.transurban.com
 san2.transurban.com
@@ -123,9 +122,7 @@ testcert5.transurban.com
 amssandbox.transurban.com
 im.transurban.com
 test.transurban.com
-mfa.transurban.com
 mytestcert.transurban.com
-www.transurban.com
 preprod.tableau.transurban.com
 smtp-auth.transurban.com
 ssprtestdr.transurban.com
@@ -133,7 +130,6 @@ test1.transurban.com
 corp-id.transurban.com
 outlook.transurban.com
 prdroamccr.applications.transurban.com
-www.connectuwcx.transurban.com
 five.transurban.com
 api-preprod.transurban.com
 curator.transurban.com
@@ -150,7 +146,6 @@ sr16.transurban.com
 tableau.transurban.com
 _dmarc.transurban.com
 gazzasplay.transurban.com
-connectedcities.transurban.com
 securetu.transurban.com
 applications.transurban.com
 av.transurban.com
@@ -176,7 +171,6 @@ accesstutestdr.transurban.com
 dev.careers.transurban.com
 e.transurban.com
 phantom.transurban.com
-preprod.careers.transurban.com
 smtp-dc4.transurban.com
 splunk-security-posture.transurban.com
 test2.transurban.com
@@ -212,7 +206,6 @@ tuapps.transurban.com
 tuportal.transurban.com
 tuwebex01.transurban.com
 api-perftest.transurban.com
-preprod.cavs.transurban.com
 preprod.northamerica.transurban.com
 test3.transurban.com
 testcert2.transurban.com
@@ -220,7 +213,7 @@ threesans.transurban.com
 amstestmif.transurban.com
 outlookus.transurban.com
 revoketest2.transurban.com
-www.careers.transurban.com
+careers.transurban.com
 erecruit.transurban.com
 smtp-dc2.transurban.com
 vipssp.transurban.com
@@ -244,7 +237,6 @@ prd03tps.applications.transurban.com
 workspacetu.transurban.com
 preprod.northconnex.transurban.com
 morpheus.transurban.com
-careers.transurban.com
 myconnectus.transurban.com
 nosans.transurban.com
 onesan.transurban.com

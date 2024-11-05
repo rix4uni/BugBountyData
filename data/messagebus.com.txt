@@ -309,7 +309,7 @@ mbb4063.podomatic.messagebus.com
 mbb4649.sharedpool.messagebus.com
 mbb4304.aboutme.messagebus.com
 uk.messagebus.com
-www.developer.messagebus.com
+developer.messagebus.com
 jy-usw1-ptms01.production.messagebus.com
 mbb4124.mail.remind.messagebus.com
 mba4564.sharedpool.messagebus.com
@@ -384,7 +384,6 @@ mba1068.jooners.messagebus.com
 mbb4094.brilliant.messagebus.com
 mbb4118.rukkus.messagebus.com
 jy31e67.pixelmags.messagebus.com
-www.messagebus.com
 retail.messagebus.com
 mbb4199.yelp.messagebus.com
 mba1041.appature.messagebus.com
@@ -478,7 +477,7 @@ mbb4366.adam602.messagebus.com
 cveapi.messagebus.com
 mbb4145.coldwellbankerhomes.messagebus.com
 mbb4134.coldwellbankerhomes.messagebus.com
-www.smtp.medium.messagebus.com
+smtp.medium.messagebus.com
 mbb4155.frankly.messagebus.com
 mba1057.jelly.messagebus.com
 mba1022.mountainproject.messagebus.com
@@ -647,7 +646,6 @@ news.messagebus.com
 nginx-newest.messagebus.com
 mba4573.sharedpool.messagebus.com
 mbb4141.coldwellbankerhomes.messagebus.com
-smtp.medium.messagebus.com
 mobile.messagebus.com
 mba1012.sendwithus.messagebus.com
 mba4592.sharedpool.messagebus.com
@@ -707,7 +705,6 @@ mbb4666.sharedpool.messagebus.com
 mba1315.8tracks.messagebus.com
 vendor.messagebus.com
 mbb4392.magisto.messagebus.com
-developer.messagebus.com
 ks-vendingtransactions-mq2.messagebus.com
 shop.messagebus.com
 _cisco-uds.messagebus.com
@@ -805,7 +802,6 @@ mbc2e489eb3b3m.messagebus.com
 app-lb.messagebus.com
 72-bb4661.sharedpool.messagebus.com
 services.adam602.messagebus.com
-www.news.messagebus.com
 services-jy-prod.messagebus.com
 services.catster.messagebus.com
 jetblack.messagebus.com

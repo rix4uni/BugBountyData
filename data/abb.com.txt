@@ -76,7 +76,6 @@ sccmcxcmg.abb.com
 us.abb.com
 nse1.abb.com
 rap.abb.com
-www.abb.com
 comm-eu.rap.abb.com
 crl.pki.abb.com
 comm-us.rap.abb.com
@@ -147,7 +146,7 @@ asccenhancement.motion.abb.com
 commonedge-dev-p0.genix.abb.com
 iapp.cn.abb.com
 innovationnews.abb.com
-www.industrialsolutions.fi.abb.com
+industrialsolutions.fi.abb.com
 ask.abb.com
 com.stage.abb.com
 dev.api.configurator.electrificationtools.abb.com
@@ -303,7 +302,6 @@ dev.industrialsolutions.ru.abb.com
 fiba-services.abb.com
 inet40.abb.com
 insideplus.abb.com
-industrialsolutions.fi.abb.com
 b2bmessage-test.abb.com
 dev.global.electrification-commercialbuildingplanner.abb.com
 dev.industrialsolutions.tr.abb.com
@@ -2291,7 +2289,6 @@ mybenefits.us.abb.com
 motor-inspection-service.motion.abb.com
 stage.cust-rel.e.abb.com
 nam.asset.e-mobility.abb.com
-*.nam.asset.e-mobility.abb.com
 status-driveswebapps.abb.com
 test.pcponepoint.abb.com
 test.api.project-tracker-mosd.in.abb.com
@@ -2315,11 +2312,8 @@ backoffice.commissioning.evcharging.abb.com
 service.evcharging.abb.com
 wiki.partnerhub.abb.com
 cylonhqfw01.abb.com
-*.dev.connect.robotics.abb.com
-*.erc.asset.e-mobility.abb.com
 test.starteck.abb.com
 stage.api.harmonicestimator.motion.abb.com
-*.new.abb.com
 waf-abb-cert03.abb.com
 level-selector.abb.com
 login.account.buildingplus.abb.com

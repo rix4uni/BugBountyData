@@ -4,7 +4,6 @@ graph-3.stage.k8s.onepeloton.co.uk
 studio.onepeloton.co.uk
 kong-graph.test.k8s.onepeloton.co.uk
 gql-graphql-gateway.test.k8s.onepeloton.co.uk
-www.onepeloton.co.uk
 cooldown-stage.onepeloton.co.uk
 schedule.studio.onepeloton.co.uk
 tv.onepeloton.co.uk
@@ -46,11 +45,10 @@ comeback.onepeloton.co.uk
 user-identity-nginx.stage.k8s.onepeloton.co.uk
 graph.test.k8s.onepeloton.co.uk
 cooldown-dev.onepeloton.co.uk
-www.house.onepeloton.co.uk
 ge.stage.k8s.onepeloton.co.uk
 business.onepeloton.co.uk
 stage.k8s.onepeloton.co.uk
-www.discover.onepeloton.co.uk
+discover.onepeloton.co.uk
 qa1-www.onepeloton.co.uk
 r53.onepeloton.co.uk
 uat-prod-www.onepeloton.co.uk
@@ -58,7 +56,7 @@ cooldown-uat.onepeloton.co.uk
 secret.onepeloton.co.uk
 qa1-percy-www.onepeloton.co.uk
 uat-www.onepeloton.co.uk
-www.onetoonefitness.i.onepeloton.co.uk
+onetoonefitness.i.onepeloton.co.uk
 uat-api-qa-members.onepeloton.co.uk
 uat-members.onepeloton.co.uk
 test.k8s.onepeloton.co.uk
@@ -70,14 +68,9 @@ pelothon2020.onepeloton.co.uk
 api-qa1-toggle-light-uat-members.onepeloton.co.uk
 xtest.onepeloton.co.uk
 prod.k8s.onepeloton.co.uk
-discover.onepeloton.co.uk
 cooldown.onepeloton.co.uk
 uikit.onepeloton.co.uk
 dev.k8s.onepeloton.co.uk
-*.onepeloton.co.uk
-*.secret.onepeloton.co.uk
-*.test.onepeloton.co.uk
-*.xtest.onepeloton.co.uk
 local-www.onepeloton.co.uk
 streetwww.onepeloton.co.uk
 ge.onepeloton.co.uk
@@ -85,11 +78,8 @@ support.onepeloton.co.uk
 global.onepeloton.co.uk
 blog.onepeloton.co.uk
 findyourride.onepeloton.co.uk
-www.uat.onepeloton.co.uk
 press.onepeloton.co.uk
 booking.onepeloton.co.uk
-www.test.onepeloton.co.uk
-www.secret.onepeloton.co.uk
 api.onepeloton.co.uk
 members.test.onepeloton.co.uk
 account.test.onepeloton.co.uk

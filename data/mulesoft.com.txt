@@ -44,7 +44,7 @@ cf.mulesoft.com
 env.support.mulesoft.com
 mq-us-east-1.anypoint.mulesoft.com
 cy.fabric2.rpa.qax.mulesoft.com
-www.training.mulesoft.com
+training.mulesoft.com
 object-store-direct-eu-west-2.stgx.anypoint.mulesoft.com
 devx.anypoint.mulesoft.com
 hqbhsyos.rpa.qax.mulesoft.com
@@ -85,7 +85,6 @@ gatsby.devrel.mulesoft.com
 flex-packages.qax.anypoint.mulesoft.com
 pub.dev-codelabs.tools.mulesoft.com
 docs-stg.mulesoft.com
-www.mulesoft.com
 academy.mulesoft.com
 mq-ap-northeast-1.anypoint.mulesoft.com
 webconnect.staging.mulesoft.com
@@ -98,7 +97,6 @@ stable.mulesoft.com
 mocksvc.mulesoft.com
 acmea2.mulesoft.com
 b7xtayi4.rpa.devx.mulesoft.com
-www.customerfeedback.mulesoft.com
 build-dashboard.pce.mulesoft.com
 mq-ap-southeast-2.stgx.anypoint.mulesoft.com
 connect.mulesoft.com
@@ -562,7 +560,6 @@ ftp.mulesoft.com
 rfunc9wq.rpa.devx.mulesoft.com
 runtime-manager.ca1.platform.mulesoft.com
 xjsr7p7a.rpa.qax.mulesoft.com
-www.anypoint.mulesoft.com
 docs-jp.mulesoft.com
 ejnowecg.rpa.devx.mulesoft.com
 sb.ux.mulesoft.com
@@ -690,7 +687,6 @@ credential-repo.tools.mulesoft.com
 bl2os8ax.rpa.qax.mulesoft.com
 cdn-qa.anypoint.mulesoft.com
 stgx.mulesoft.com
-www.swag.mulesoft.com
 pcf.mulesoft.com
 is8rp7b3.rpa.qax.mulesoft.com
 perflab-elastic.perf.anypoint.mulesoft.com
@@ -708,7 +704,6 @@ dataweave.mulesoft.com
 4edzz4sf.rpa.stgx.mulesoft.com
 vpn.nip.mulesoft.com
 uj1x4uni.rpa.mulesoft.com
-www.s2.developer.mulesoft.com
 api-notebook.stgx.anypoint.mulesoft.com
 lume.mulesoft.com
 npt6s2ux.rpa.stgx.mulesoft.com
@@ -736,7 +731,6 @@ test-smpt-server.pce.mulesoft.com
 skhv5sro.rpa.qax.mulesoft.com
 xcxakjfy.rpa.qax.mulesoft.com
 sc-jenkins.tools.mulesoft.com
-training.mulesoft.com
 mds.devx.anypoint.mulesoft.com
 23ado6da.rpa.qax.mulesoft.com
 catalog.graph.eu1.anypoint.mulesoft.com
@@ -833,10 +827,6 @@ beta.mulesoft.com
 njnhutya.rpa.qax.mulesoft.com
 runtime-manager.devx.anypoint.mulesoft.com
 workshop.tools.mulesoft.com
-*.rpa.qax.mulesoft.com
-*.pqo1geo5.rpa.qax.mulesoft.com
-*.ozj8zfuj.rpa.qax.mulesoft.com
-*.yetvzsov.rpa.qax.mulesoft.com
 test.workshop.tools.mulesoft.com
 rtf.devrel.mulesoft.com
 ingest.mulesoft.com
@@ -856,7 +846,6 @@ apps.ci-9-build-w-162053.pce.mulesoft.com
 perf-dr.digital.mulesoft.com
 perf-prev-dr.digital.mulesoft.com
 dev-prev.digital.mulesoft.com
-www.devx.anypoint.mulesoft.com
 dynax01.ad01.svc.demos.mulesoft.com
 corp.crowdbleau.istratorstodayisnew.mds.qax.anypoint.mulesoft.com
 sftp.shared.demos.mulesoft.com
@@ -864,7 +853,7 @@ ldap.shared.demos.mulesoft.com
 webdisk.bugs.anypoint-environments.mulesoft.com
 cfte.mulesoft.com
 sunhill7.anypoint-environments.mulesoft.com
-www.jax.demos.devrel.mulesoft.com
+jax.demos.devrel.mulesoft.com
 demo.mulesoft.com
 sfedge.devx.anypoint.mulesoft.com
 onprem-qa.anypoint.mulesoft.com
@@ -889,9 +878,6 @@ object-store-direct-us-east-1.anypoint.mulesoft.com
 object-store-direct-ca-central-1.stgx.anypoint.mulesoft.com
 object-store-direct-sa-east-1.stgx.anypoint.mulesoft.com
 api.mulesoft.com
-*.w8jsmqal.rpa.qax.mulesoft.com
-*.composer.mulesoft.com
-*.workshops.mulesoft.com
 status.devx.mulesoft.com
 eu1-status.devx.mulesoft.com
 gov-status.devx.mulesoft.com

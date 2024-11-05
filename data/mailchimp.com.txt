@@ -394,7 +394,6 @@ us2.mailchimp.com
 kb.mailchimp.com
 apidocs.mailchimp.com
 blog.mailchimp.com
-www.mailchimp.com
 us1.mailchimp.com
 us10.mailchimp.com
 us11.mailchimp.com
@@ -423,24 +422,8 @@ images.mailchimp.com
 us10.admin.mailchimp.com
 us21.admin.mailchimp.com
 us17.api.mailchimp.com
-www.delivery.mailchimp.com
 us8.admin.mailchimp.com
-*.api.mailchimp.com
-*.mailchimp.com
-*.ls.mailchimp.com
-www.drupal-oauth.mailchimp.com
 form-assets-e2e.mailchimp.com
-*.admin.mailchimp.com
-*.delivery.mailchimp.com
-*.parsimony-target.mailchimp.com
-*.partner-api.mailchimp.com
-*.partners.mailchimp.com
-*.dev.delivery.mailchimp.com
-*.firebase.mailchimp.com
-*.wildcard.delivery.mailchimp.com
-*.alation.mailchimp.com
-www.modev1.mailchimp.com
-*.sts.mailchimp.com
 m.mailchimp.com
 messages.mailchimp.com
 wiki.mailchimp.com
@@ -645,7 +628,6 @@ prepr.inbound.mailchimp.com
 brand-assets-e2e.mailchimp.com
 us10-crowd-api-interposer.mailchimp.com
 k1._domainkey.systemalerts17.mailchimp.com
-www.design.mailchimp.com
 sc1.api.mailchimp.com
 k1._domainkey.systemalerts16.mailchimp.com
 mail58.mailchimp.com
@@ -952,4 +934,3 @@ prepr.admin.mailchimp.com
 wink.mailchimp.com
 us3.delivery.mailchimp.com
 k3._domainkey.mailchimp.com
-*.mcmta.delivery.mailchimp.com

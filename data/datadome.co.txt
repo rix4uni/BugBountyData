@@ -60,7 +60,7 @@ trust.datadome.co
 api-alb-eu-south-1.datadome.co
 dd.erli.pl.first-party-js.datadome.co
 package.staging.datadome.co
-www.dev.datadome.co
+dev.datadome.co
 api-alb-us-utah-1.datadome.co
 dd.hypedc.com.first-party-js.datadome.co
 sslgen-startrack.datadome.co
@@ -76,7 +76,6 @@ js.datadome.co
 fusiondirectory.datadome.co
 preprod-customer-api.datadome.co
 sslgen-angel.datadome.co
-dev.datadome.co
 auth0.tooling.datadome.co
 preprod-backoffice.datadome.co
 datadome.patreon.com.first-party-js.datadome.co
@@ -353,18 +352,7 @@ sslgen-auspost.datadome.co
 dd.betano.bg.first-party-js.datadome.co
 dcheqjwqu4.mlb.com.first-party-js.datadome.co
 dwt.soundcloud.com.first-party-js.datadome.co
-www.datadome.co
-*.prod.datadome.co
-*.sdbx-sre.datadome.co
 test-api-us-east-1.staging.datadome.co
-*.tooling.datadome.co
-*.staging.datadome.co
-*.sdbx-engine.datadome.co
-*.internal.datadome.co
-*.datadome.co
-www.dev-corporate-website.datadome.co
-*.dev.datadome.co
-*.monitoring.sdbx-sre.datadome.co
 account-api.datadome.co
 api-cdn.datadome.co
 api-fastly.datadome.co
@@ -570,7 +558,6 @@ boattrader.com.first-party-js.datadome.co
 chargepoint.com.first-party-js.datadome.co
 ext.sezane.com.first-party-js.datadome.co
 sezane.com.first-party-js.datadome.co
-*.sdbx-dashboard.datadome.co
 sdbx-dashboard.datadome.co
 dev-es-datalake-us-monitoring-us-west-2.staging.datadome.co
 auth-staging.datadome.co

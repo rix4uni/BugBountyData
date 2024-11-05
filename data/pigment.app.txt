@@ -200,10 +200,7 @@ preprod-eu1-job-profiling-kibana.pigment.app
 job-profiling-kibana.staging-eu1-cluster.preprod-eu1-location.pigment.app
 staging-us1-backoffice.pigment.app
 us1.staging-kiali.pigment.app
-www.staging.pigment.app
 _dmarc.pigment.app
-www.pigment.app
-www.looker-api.pigment.app
 ai-dev-literalai.pigment.app
 ai-dev-langsmith.pigment.app
 staging-eu1-waf.pigment.app

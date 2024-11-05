@@ -677,12 +677,11 @@ guidance-tx.tdameritrade.com
 5ossevents.cfprod-tx.tdameritrade.com
 remoteaccess-uat.tdameritrade.com
 lite.tdameritrade.com
-www.institutional.tdameritrade.com
+institutional.tdameritrade.com
 drwww.tdameritrade.com
 digitalevents-w.tdameritrade.com
 pl-revised-postsales.cfprod01-tx-a.tdameritrade.com
 betterbegins.tdameritrade.com
-institutional.tdameritrade.com
 famertable-dsevents.cfprod-tx.tdameritrade.com
 api-tx.tdameritrade.com
 acceptance.tdameritrade.com
@@ -756,7 +755,7 @@ rt2seventsdata.cfprod-tx.tdameritrade.com
 dsauthentication.cfprod-tx.tdameritrade.com
 leanacademy.tdameritrade.com
 remoteaccess-uat-tx.tdameritrade.com
-www.na.tdameritrade.com
+na.tdameritrade.com
 associate-dynjc.tdameritrade.com
 goal-setup-beta.tdameritrade.com
 mobileauth.tdameritrade.com
@@ -764,7 +763,6 @@ mobile-cms-ct.tdameritrade.com
 mobile-ct.tdameritrade.com
 clientprofile-w-beta.tdameritrade.com
 new-tx.tdameritrade.com
-www.tdameritrade.com
 now.com.ppccgsecure.cfprod-jc.tdameritrade.com
 pfmarginoptionsvc.cfprod01-tx-a.tdameritrade.com
 new-ct.tdameritrade.com

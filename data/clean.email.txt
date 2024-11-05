@@ -8,7 +8,6 @@ lo.app.clean.email
 staging.app.clean.email
 ios.clean.email
 app.clean.email
-www.clean.email
 develop.clean.email
 android.clean.email
 android-native.clean.email
@@ -30,8 +29,6 @@ qaandroid.app.clean.email
 qa.app.clean.email
 telemetry.clean.email
 2a57j78dc7iseqzlcjsstem6jmc49mv.telemetry.clean.email
-*.clean.email
-*.telemetry.clean.email
 producthunt.clean.email
 cf.clean.email
 open.clean.email

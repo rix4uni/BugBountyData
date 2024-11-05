@@ -1,7 +1,6 @@
-*.naver.jp
-*.line.naver.jp
-*.matome.naver.jp
-*.play.naver.jp
+line.naver.jp
+matome.naver.jp
+play.naver.jp
 4.sophosxl.netgwg.line.naver.jp
 aax.amazon-adsystem.comgwg.line.naver.jp
 about.naver.jp
@@ -346,7 +345,6 @@ gwk.line.naver.jp
 gws.line.naver.jp
 gws.play.naver.jp
 gwu.line.naver.jp
-gww.line.naver.jp
 gwx.line.naver.jp
 gwz.line.naver.jp
 gxx.line.naver.jp
@@ -381,7 +379,6 @@ legy-us-addr.line.naver.jp
 legy-us-long.line.naver.jp
 legy-us-short.line.naver.jp
 legy-vn-short.line.naver.jp
-line.naver.jp
 line-billinggw.naver.jp
 line-billinggw-beta.naver.jp
 line-novel.naver.jp
@@ -401,7 +398,6 @@ livedoor-video.naver.jp
 login.naver.jp
 m.naver.jp
 manga.line.naver.jp
-matome.naver.jp
 matome.alpha.naver.jp
 matome.beta.naver.jp
 media.line.naver.jp
@@ -434,7 +430,6 @@ photoeditor.naver.jp
 photoviewer.naver.jp
 pick.naver.jp
 pickmag.naver.jp
-play.naver.jp
 play.line.naver.jp
 poker.line.naver.jp
 pr.line.naver.jp
@@ -506,8 +501,6 @@ vaccine.line.naver.jp
 vid.official.line.naver.jp
 video.naver.jp
 web.naver.jp
-www.naver.jp
-www.matome.naver.jp
 cac-sdl-shop.line.naver.jp
 gbu.line.naver.jp
 cac-dl.appresource.line.naver.jp
@@ -547,7 +540,6 @@ edoor-translate.naver.jp
 answer.naver.jp
 cafe2.naver.jp
 blogfiles.naver.jp
-www.cafe.naver.jp
 237-19.naver.jp
 ipn.beta.naver.jp
 biz.line.alpha.naver.jp
@@ -5586,6 +5578,3 @@ gd2u.220-cpanel.enquete.line.alpha.naver.jp
 035-v3-api-soa-int-lgecoltac-game.enquete.line.alpha.naver.jp
 18lgv3stc1-release-triauth-8080-kr03-gm2-beta3.enquete.line.alpha.naver.jp
 18dev03-clova-radiko-web-rc3.enquete.line.alpha.naver.jp
-*.beta.naver.jp
-*.line.alpha.naver.jp
-*.line.beta.naver.jp

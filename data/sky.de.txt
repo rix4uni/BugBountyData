@@ -49,7 +49,7 @@ de-ve-pb01.internal.sky.de
 test.screening.sky.de
 area3.portal11.sky.de
 origin-business-de.glb.sky.de
-www.events.sky.de
+events.sky.de
 amptracking.sky.de
 uat.idm.sky.de
 brmbillcarerest-brmdev06.internal.sky.de
@@ -115,7 +115,6 @@ test-id.sky.de
 s-m-prddhbroker01.internal.sky.de
 supportcenter.sky.de
 n4.cms.sky.de
-events.sky.de
 muc-test.axis.sky.de
 uat-skygo.sky.de
 vpn.sky.de
@@ -165,7 +164,6 @@ api.preprod.id.sky.de
 area11.portal7.sky.de
 unser.sky.de
 test.confluence.sky.de
-www.screening.sky.de
 skyui.sky.de
 testlab.sky.de
 xb-id.sky.de
@@ -185,7 +183,7 @@ ise-nac-test-01.internal.sky.de
 kickbase.sky.de
 stream-id.sky.de
 de-ve-pc02.internal.sky.de
-www.skygo2.sky.de
+skygo2.sky.de
 id.stage.sport.sky.de
 arcaas.sky.de
 prdtbcwvd25.internal.sky.de
@@ -247,7 +245,7 @@ muc-axis.sky.de
 preprod.sky.de
 kafka-005.sit.nc.gcp.internal.sky.de
 muc-info.sky.de
-www.affiliate.sky.de
+affiliate.sky.de
 n3.cms.sky.de
 ftv-uat-id.sky.de
 origin-muc-int.sky.de
@@ -258,14 +256,11 @@ prdtbcwvd26.internal.sky.de
 achievement.sky.de
 muc-test.sportrecherche.sky.de
 softphone.sky.de
-www.extra.sky.de
-affiliate.sky.de
 prdtbcapp3.internal.sky.de
 serviceapp.glb.sky.de
 partner.sky.de
 da1-dn02-3bv8xm.internal.sky.de
 origin-serviceapp.sky.de
-skygo2.sky.de
 preprod.idm.sky.de
 de-ve-pm02.internal.sky.de
 kafdrop.datahub.internal.sky.de
@@ -289,7 +284,7 @@ vault-001.dev.internal.sky.de
 a1oobsslvpn.sky.de
 academy.sky.de
 stream-uat-id.sky.de
-www.stage.skyticket.sky.de
+stage.skyticket.sky.de
 brmbc-console-brmdev02.internal.sky.de
 dg1-dn01-2bv8xm.internal.sky.de
 dg1-dn03-c1q7xm.internal.sky.de
@@ -351,7 +346,7 @@ origin-preprod.sky.de
 s-m-psasx5.sky.de
 ifinder-test-ondemand.sky.de
 s-m-prddhbroker04.internal.sky.de
-www.int.skyextra.sky.de
+int.skyextra.sky.de
 autodiscover.sky.de
 muc-int.info.sky.de
 prod2-origin-skyticket.sky.de
@@ -442,7 +437,7 @@ brmboc-brmint01.internal.sky.de
 muc-uat.nc.sky.de
 prdtbcapp26.internal.sky.de
 dev.sky.de
-www.haendler.sky.de
+haendler.sky.de
 kafka-003.dev.nc.gcp.internal.sky.de
 muc-test.webtrust.internal.sky.de
 mysql.admin.sky.de
@@ -470,7 +465,6 @@ wirwollendeinestimme.sky.de
 bi-sas-em.sky.de
 prdtbcapp25.internal.sky.de
 uk-test.hawkeye.sky.de
-www.skyhrcs1d.sky.de
 brmbillcare-brmdev01.internal.sky.de
 ethan-id.sky.de
 int.skyfinder.sky.de
@@ -541,7 +535,7 @@ prdtbcapp29.internal.sky.de
 prdtbcapp30.internal.sky.de
 de-ve-pb04.internal.sky.de
 mta820.mail.6erpack.sky.de
-www.func.prod.skyticket.sky.de
+func.prod.skyticket.sky.de
 b2w-joker-test.internal.sky.de
 kafka-004.uat.nc.gcp.internal.sky.de
 s-m-prdesdata06.internal.sky.de
@@ -564,7 +558,6 @@ vpn-test.sky.de
 elasticsearch-009.uat.nc.gcp.internal.sky.de
 kafka-003.prod.nc.gcp.internal.sky.de
 extra-test.api.sky.de
-haendler.sky.de
 skyremoteaccess.sky.de
 test.storm.sky.de
 bluemovie-cc.glb.sky.de
@@ -572,7 +565,6 @@ muc-int.admintool.internal.sky.de
 medien.sky.de
 portal9.sky.de
 skyhrcs1q.internal.sky.de
-www.wirwollendeinestimme.sky.de
 vdi.external.sky.de
 prod2-origin-skyticket-at.glb.sky.de
 api.id.sky.de
@@ -603,7 +595,6 @@ mail.6erpack.sky.de
 mediatrix.sky.de
 edrmksmpkg-ref.internal.sky.de
 prdtbcapp5.internal.sky.de
-www.sky.de
 area5.portal11.sky.de
 d.ns.mail.6erpack.sky.de
 s-m-prddhbroker03.internal.sky.de
@@ -631,7 +622,7 @@ elasticsearch-003.dev.nc.gcp.internal.sky.de
 edrmksmpkg-prod.internal.sky.de
 de-ve-ise-test.sky.de
 glass-id.sky.de
-www.6erpack.sky.de
+6erpack.sky.de
 brmbillcarerest-brmint01.internal.sky.de
 dp.sky.de
 vdc-vm-0003817.internal.sky.de
@@ -643,7 +634,7 @@ prdtbcapp02.internal.sky.de
 prdtbcwvd31.internal.sky.de
 karriere.sky.de
 test.telekom.sky.de
-www.info.sky.de
+info.sky.de
 elasticsearch-004.sit.nc.gcp.internal.sky.de
 muc-test.nwm.internal.sky.de
 area5.porta11.sky.de
@@ -662,11 +653,9 @@ api.cf.sky.de
 dev.idm.sky.de
 dt-uat-id.sky.de
 skyremoteaccess.glb.sky.de
-www.wap.sky.de
 brmboc-console-brmdev06.internal.sky.de
 freundschaftswerbung.sky.de
 extra.api.sky.de
-www.servicepartner.sky.de
 aspera.sky.de
 elasticsearch-005.sit.nc.gcp.internal.sky.de
 n2.test.cms.sky.de
@@ -690,7 +679,7 @@ mantis.sky.de
 monitoring.sky.de
 muc-int.sky.de
 temp.sky.de
-www.skygo.sky.de
+skygo.sky.de
 e.ns.mail.6erpack.sky.de
 servicecenter.sky.de
 test.sgsl.sky.de
@@ -729,14 +718,13 @@ origin-skyticket.sky.de
 lg-id.sky.de
 mob-id.store-test.sky.de
 obb.cf.sky.de
-www.business.sky.de
+business.sky.de
 apib2b.dev.id.sky.de
 dc-cit-g1-b07-apic02.internal.sky.de
 uk-area1.portal9.sky.de
 kafka-005.uat.nc.gcp.internal.sky.de
 mucgamasppro02p.sky.de
 skymedia.glb.sky.de
-int.skyextra.sky.de
 lernwelt-staging.sky.de
 alertmanager.datahub.test.internal.sky.de
 da1-dn01-g9v8xm.internal.sky.de
@@ -849,7 +837,6 @@ de-ve-pb02.internal.sky.de
 prdtbcapp31.internal.sky.de
 prdtbcapp7.internal.sky.de
 test.cms.sky.de
-skygo.sky.de
 brmbillcare-brmdev02.internal.sky.de
 test.next.sky.de
 test.softphone.sky.de
@@ -873,7 +860,6 @@ s-m-prdest01.internal.sky.de
 selectstatic.sky.de
 int.sgsl.sky.de
 skyfinder.sky.de
-www.servicecenter.sky.de
 brmboc.internal.sky.de
 ios-id.go.sky.de
 newcrm.sky.de
@@ -898,7 +884,6 @@ magento-test.glb.sky.de
 uk-test.sgsl.sky.de
 int.www.sky.de
 and-id.uat-go.sky.de
-info.sky.de
 mob-id.sport.sky.de
 da1-dn04-j9v8xm.internal.sky.de
 muc-business.sky.de
@@ -945,7 +930,6 @@ matchstreamingplayer.sky.de
 mft.sky.de
 prod-stdtls.sky.de
 kafka-009.sit.nc.gcp.internal.sky.de
-business.sky.de
 ps4-uat-id.sky.de
 stb-id.sky.de
 origin-business-at.glb.sky.de
@@ -953,7 +937,6 @@ test.cti.sky.de
 tibco.internal.sky.de
 vodafone.glb.sky.de
 neuland.glb.sky.de
-6erpack.sky.de
 brmbcrest-console-brmtst01.internal.sky.de
 dash-set.sky.de
 s-m-prdest03.internal.sky.de
@@ -985,7 +968,6 @@ dg1-dn09-91q7xm.internal.sky.de
 t6.skyticket.sky.de
 cms.sky.de
 mft.internal.sky.de
-www.skyticket.sky.de
 connect-de.glb.sky.de
 api.uat.id.sky.de
 brmpdc-brmsit01.internal.sky.de
@@ -1032,7 +1014,6 @@ sit.idm.sky.de
 tsttbcapp02.internal.sky.de
 lg-uat-id.sky.de
 test.info.sky.de
-www.skyepcs1q.sky.de
 dev.lettershop.sky.de
 muc-test.internal.sky.de
 origin-muc.skymedia.sky.de
@@ -1065,7 +1046,6 @@ film.sky.de
 videos.sport.sky.de
 test-skyonline.sky.de
 bw.sky.de
-www.hotel.sky.de
 origin-muc-int.business.sky.de
 s-m-prdgitlab01.internal.sky.de
 tstboeapp02.internal.sky.de

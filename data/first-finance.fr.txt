@@ -4,7 +4,6 @@ extranet-client.first-finance.fr
 go.first-finance.fr
 wwww.first-finance.fr
 www2.first-finance.fr
-www.first-finance.fr
 extranet.first-finance.fr
 preprod.first-finance.fr
 status.first-finance.fr
@@ -15,9 +14,7 @@ lp.first-finance.fr
 files.first-finance.fr
 outgow.first-finance.fr
 masterclass.first-finance.fr
-*.first-finance.fr
 amphibee.first-finance.fr
 prepamphibee.first-finance.fr
 connect.first-finance.fr
 fw.first-finance.fr
-www.digital.first-finance.fr

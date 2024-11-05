@@ -2,7 +2,6 @@ da.premiers.qld.gov.au
 dr-oa.premiers.qld.gov.au
 spf1.premiers.qld.gov.au
 statauth.premiers.qld.gov.au
-www.statauth.premiers.qld.gov.au
 dfvcouncil.premiers.qld.gov.au
 csg.premiers.qld.gov.au
 dr-mobile.premiers.qld.gov.au
@@ -15,9 +14,8 @@ dpctstcm01.premiers.qld.gov.au
 mail.governmentbodies.premiers.qld.gov.au
 search.premiers.qld.gov.au
 smtp-relay.premiers.qld.gov.au
-www.poppies.premiers.qld.gov.au
+poppies.premiers.qld.gov.au
 cbawl.premiers.qld.gov.au
-www.premiers.qld.gov.au
 awards.premiers.qld.gov.au
 mobile.premiers.qld.gov.au
 townsvillecommunities.premiers.qld.gov.au
@@ -25,7 +23,7 @@ remote.premiers.qld.gov.au
 autodiscover.premiers.qld.gov.au
 chiefentrepreneur.premiers.qld.gov.au
 hprmtest.premiers.qld.gov.au
-www.governmentbodies.premiers.qld.gov.au
+governmentbodies.premiers.qld.gov.au
 whiteribbon.premiers.qld.gov.au
 www2.premiers.qld.gov.au
 router.premiers.qld.gov.au
@@ -37,13 +35,11 @@ mail.ird.premiers.qld.gov.au
 origin-www.premiers.qld.gov.au
 advancingnq.premiers.qld.gov.au
 login.rolr.premiers.qld.gov.au
-www.growthsummit.premiers.qld.gov.au
 orgculture.premiers.qld.gov.au
 meetings.premiers.qld.gov.au
 cabbag.premiers.qld.gov.au
 firewall.premiers.qld.gov.au
 ilearn.premiers.qld.gov.au
-poppies.premiers.qld.gov.au
 spf2.premiers.qld.gov.au
 tracker2.premiers.qld.gov.au
 campaigns.premiers.qld.gov.au
@@ -56,13 +52,9 @@ events.premiers.qld.gov.au
 enews.premiers.qld.gov.au
 ird.premiers.qld.gov.au
 initiatives.premiers.qld.gov.au
-governmentbodies.premiers.qld.gov.au
 ecu.premiers.qld.gov.au
 dcdpc-fw01.premiers.qld.gov.au
 dpctestaem03.premiers.qld.gov.au
-www.ird.premiers.qld.gov.au
 dcdpc-fw02.premiers.qld.gov.au
 rolr.premiers.qld.gov.au
 ecu.enews.premiers.qld.gov.au
-*.premiers.qld.gov.au
-www.cabbag.premiers.qld.gov.au

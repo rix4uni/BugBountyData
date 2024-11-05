@@ -9,14 +9,12 @@ api.onecart.co.za
 gotest.onecart.co.za
 beta.spotlight.onecart.co.za
 test.onecart.co.za
-www.onecart.co.za
 beta.dev-spotlight.onecart.co.za
 loadtest-api.onecart.co.za
 dev-api.onecart.co.za
 woolworths.onecart.co.za
 dash-order-history.woolworths.onecart.co.za
 dev-images.onecart.co.za
-www.dev-sls-api.onecart.co.za
 loadtest-sls-api.onecart.co.za
 shopper.onecart.co.za
 sls-api.woolworths.onecart.co.za
@@ -46,7 +44,6 @@ cpanel.onecart.co.za
 images.onecart.co.za
 mail.onecart.co.za
 webdisk.onecart.co.za
-www.devsite.onecart.co.za
 admin-dev.onecart.co.za
 staging-api.onecart.co.za
 dev-nlp.onecart.co.za

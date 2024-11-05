@@ -16,7 +16,6 @@ direct-events-collector.spot.im
 pix.spot.im
 mobile-gw.spot.im
 metrics-logger.spot.im
-www.spot.im
 mobile-gw-cf.spot.im
 recirculation-cf.spot.im
 amp.spot.im
@@ -39,7 +38,6 @@ data.meow.spot.im
 radaronline-community.spot.im
 ws.spot.im
 spoxy-shard4.spot.im
-www.api-2-0.spot.im
 heston.spot.im
 extract.spot.im
 hbcdn.spot.im
@@ -92,7 +90,6 @@ lakersnation-community.spot.im
 email-connect.spot.im
 premaster-app-cdn.spot.im
 com.okcoin.commons.okcoin.open.api.service.spot.im
-www.traffic.spot.im
 com.okcoin.okex.open.api.service.spot.im
 ak-events-collector.spot.im
 spoxy-shard1.spot.im
@@ -109,7 +106,6 @@ mmaweekly-community.spot.im
 recommendation.spot.im
 stagingv2.spot.im
 api.spot.im
-www.app-cdn.spot.im
 ak-admin.spot.im
 whatculture-community.spot.im
 booking.spot.im
@@ -133,9 +129,7 @@ com.monkey.follow.okex.service.spot.im
 production-kong-1b.spot.im
 me.spot.im
 spoxy-shard5.spot.im
-www.launcher.spot.im
 props.spot.im
-www.community.spot.im
 ak-publisher-assets.spot.im
 sso.spot.im
 ws-api.spot.im

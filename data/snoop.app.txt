@@ -2,7 +2,6 @@ cms.snoop.app
 ablink.service.snoop.app
 mobilephone.snoop.app
 cms.dev.snoop.app
-www.snoop.app
 broadband.snoop.app
 partner-services-api.snoop.app
 ablink.email.snoop.app
@@ -36,7 +35,6 @@ o2310.abmail.service.snoop.app
 auth.cms.test.snoop.app
 mta-sts.switch.snoop.app
 mta-sts.service.snoop.app
-www.jobs.snoop.app
 snoop-shd-webapp-vgw.snoop-shd-services.test.eu-west-1.internal.snoop.app
 test-cn-2.snoop.app
 cms-idp-test.snoop.app

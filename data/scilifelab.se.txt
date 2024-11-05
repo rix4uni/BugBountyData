@@ -1,6 +1,5 @@
 cigrid-stage.scilifelab.se
 scienceprize.scilifelab.se
-www.scilifelab.se
 api.coffee-dsw.dckube.scilifelab.se
 megingjord.scilifelab.se
 opera134.scilifelab.se
@@ -61,7 +60,7 @@ gandalf-white.scilifelab.se
 funcoup3.scilifelab.se
 kyrakhp.dyn.scilifelab.se
 lisaddell.dyn.scilifelab.se
-www.cg-mongo1-prod.scilifelab.se
+cg-mongo1-prod.scilifelab.se
 annazemba.scilifelab.se
 odin.scilifelab.se
 tcbl30.scilifelab.se
@@ -250,7 +249,7 @@ phenopacket-stage.scilifelab.se
 tissuumaps.dckube.scilifelab.se
 katt.scilifelab.se
 ngi-pelagos.sys.scilifelab.se
-www.c42v01.sys.scilifelab.se
+c42v01.sys.scilifelab.se
 seek.dckube.scilifelab.se
 seq-nas-2.scilifelab.se
 zahrakhp.dyn.scilifelab.se
@@ -321,7 +320,7 @@ floatingvp.dyn.scilifelab.se
 janus.sys.scilifelab.se
 matsutake.scilifelab.se
 minerva.scilifelab.se
-www.dc1.ad.scilifelab.se
+dc1.ad.scilifelab.se
 cc-lab001.scilifelab.se
 mbs01.scilifelab.se
 ola-notebook-gpu.dckube.scilifelab.se
@@ -438,7 +437,7 @@ valtteriwmbp.scilifelab.se
 videoconalfa4-pad.scilifelab.se
 karlssonpataket.scilifelab.se
 nas-6.scilifelab.se
-www.dc2.ad.scilifelab.se
+dc2.ad.scilifelab.se
 dcai.scilifelab.se
 simonmdell.dyn.scilifelab.se
 tamarindo.scilifelab.se
@@ -498,7 +497,6 @@ akta.dyn.scilifelab.se
 michaelaaspmbp.scilifelab.se
 oods.dckube.scilifelab.se
 timstoff.scilifelab.se
-www.cg-mongo2-prod.scilifelab.se
 mfsmaster1.scilifelab.se
 mbs09.scilifelab.se
 publications-covid19.dckube.scilifelab.se
@@ -687,7 +685,6 @@ studio.serve.scilifelab.se
 gamma1-fw.scilifelab.se
 monolith.scilifelab.se
 aragorn.scilifelab.se
-dc2.ad.scilifelab.se
 homer.scilifelab.se
 karljwmbp.scilifelab.se
 imagexpress42.scilifelab.se
@@ -783,7 +780,6 @@ almaalenovo.scilifelab.se
 fleet-menu.dckube.scilifelab.se
 karinnmbp.dyn.scilifelab.se
 nayanikabhmbp.scilifelab.se
-c42v01.sys.scilifelab.se
 cg-vm-node3.scilifelab.se
 intrakupa1.scilifelab.se
 matomo.dckube.scilifelab.se
@@ -910,7 +906,6 @@ intern.scilifelab.se
 jankasus.scilifelab.se
 philh-notebook-gpu.dckube.scilifelab.se
 hd03.scilifelab.se
-www.c42v02.sys.scilifelab.se
 ds218play.dyn.scilifelab.se
 matsddell.scilifelab.se
 cryoem.dckube3.scilifelab.se
@@ -1179,7 +1174,6 @@ student-pbseq-gpu-02-notebook.dckube.scilifelab.se
 almstorm.scilifelab.se
 anubis.dckube.scilifelab.se
 rapunzel3.scilifelab.se
-dc1.ad.scilifelab.se
 halpc.scilifelab.se
 biacore-db.scilifelab.se
 cg-smrtlnk.sys.scilifelab.se
@@ -1432,7 +1426,6 @@ wabi-wiki2.scilifelab.se
 cg-osd1.scilifelab.se
 karinsmbp.scilifelab.se
 opdemo.dckube.scilifelab.se
-www.vaisala.scilifelab.se
 dc-kube4-worker.scilifelab.se
 juniandmba.scilifelab.se
 petermbp.scilifelab.se
@@ -1559,7 +1552,6 @@ pcons3.scilifelab.se
 su-www.scilifelab.se
 coffee-menu.dckube.scilifelab.se
 everthodell.sys.scilifelab.se
-www.cg-mongo3-prod.scilifelab.se
 chemlab.dyn.scilifelab.se
 dddp-akta100.dyn.scilifelab.se
 dcnode02-dev-worker.scilifelab.se
@@ -1630,7 +1622,6 @@ pathogens.dckube3.scilifelab.se
 andreasbhp.scilifelab.se
 gustavlmbp.scilifelab.se
 alice-novaseq.scilifelab.se
-cg-mongo1-prod.scilifelab.se
 cg-services-prod-deployments.scilifelab.se
 cg-services-stage-deployments.scilifelab.se
 su-sonnhammer.scilifelab.se

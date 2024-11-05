@@ -26,7 +26,6 @@ mta-sts.name.am
 selfiesam.name.am
 staging-api.name.am
 status.name.am
-www.name.am
 beta.name.am
 cpanel.blog.name.am
 cpanel.docs.name.am
@@ -64,14 +63,3 @@ whm.host10.name.am
 whm.host11.name.am
 whm.host8.name.am
 whm.host9.name.am
-www.blog.name.am
-www.docs.name.am
-www.host10.name.am
-www.host11.name.am
-www.host3.name.am
-www.host4.name.am
-www.host5.name.am
-www.host6.name.am
-www.host7.name.am
-www.host8.name.am
-www.host9.name.am

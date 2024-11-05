@@ -16,7 +16,7 @@ info-test.kolumbus.no
 ny.kolumbus.no
 driver.atldev.kolumbus.no
 traffic-director-api.atl.kolumbus.no
-www.billetter.kolumbus.no
+billetter.kolumbus.no
 m.kolumbus.no
 status.kolumbus.no
 siri-et-test.kolumbus.no
@@ -32,7 +32,6 @@ billetter-admin.kolumbus.no
 rthub-api.kolumbus.no
 old-driver.atldev.kolumbus.no
 cert.kolumbus.no
-billetter.kolumbus.no
 lyncdiscover.kolumbus.no
 bestilling.kolumbus.no
 test.operatorapi.kolumbus.no
@@ -43,7 +42,6 @@ avvik-test.kolumbus.no
 ng-api-test.kolumbus.no
 billett.kolumbus.no
 billetter-admin-test.kolumbus.no
-www.bestilling.kolumbus.no
 reiseplanlegger.kolumbus.no
 id.kolumbus.no
 sip.kolumbus.no
@@ -71,7 +69,6 @@ dashboard.kolumbus.no
 receipt.kolumbus.no
 fort-admin-test.kolumbus.no
 atl-overview.atldev.kolumbus.no
-www.kolumbus.no
 dashboard-test.kolumbus.no
 smtp.kolumbus.no
 traffic-director-ws.atldev.kolumbus.no
@@ -91,9 +88,7 @@ fort-api-test.kolumbus.no
 operatorapi.kolumbus.no
 spf1.kolumbus.no
 walle-portal.kolumbus.no
-www.billett.kolumbus.no
 stats.atl.kolumbus.no
-www.sanntidsskjerm.kolumbus.no
 walle-dev-portal.kolumbus.no
 grpc-test.kolumbus.no
 julekalender.kolumbus.no
@@ -101,7 +96,6 @@ atl2-api.atldev.kolumbus.no
 bedrift-test.kolumbus.no
 traffic-director-api-qc.atldev.kolumbus.no
 error.kolumbus.no
-www.sis.kolumbus.no
 fort-api.kolumbus.no
 minside-test.kolumbus.no
 walle.kolumbus.no

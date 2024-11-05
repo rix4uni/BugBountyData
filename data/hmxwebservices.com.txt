@@ -13,7 +13,6 @@ dropmix-dev-admin.hmxwebservices.com
 audica-live-admin.hmxwebservices.com
 hype-dev.hmxwebservices.com
 rb4ca-dev.hmxwebservices.com
-www.hmxwebservices.com
 kata-dev.hmxwebservices.com
 audica-api.hmxwebservices.com
 rb4ca-prod-admin.hmxwebservices.com
@@ -30,4 +29,3 @@ prototype-static.hmxwebservices.com
 hype-dev-admin.hmxwebservices.com
 audica-loadtest-api.hmxwebservices.com
 kata-dev-admin.hmxwebservices.com
-*.hmxwebservices.com

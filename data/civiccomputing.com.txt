@@ -69,7 +69,7 @@ hos.a11y.civiccomputing.com
 ops.civiccomputing.com
 debt.sss-api.clients.civiccomputing.com
 80-75-66-199.civiccomputing.com
-www.kostas-test.staging.civiccomputing.com
+kostas-test.staging.civiccomputing.com
 paf-dev.clients.civiccomputing.com
 80-75-66-132.civiccomputing.com
 fraud-referrals.sss-api.clients.civiccomputing.com
@@ -112,7 +112,6 @@ test-bpkxgaurg9.saml.civiccomputing.com
 80-75-66-188.civiccomputing.com
 mentori.staging.civiccomputing.com
 sqa-lb.civiccomputing.com
-www.testkostak.staging.civiccomputing.com
 tehanu-vm.civiccomputing.com
 80-75-66-133.civiccomputing.com
 gopro-demo.staging.civiccomputing.com
@@ -305,7 +304,6 @@ company5.payequity.staging.civiccomputing.com
 gopro-demo-uma.staging.civiccomputing.com
 sg-pat.staging.civiccomputing.com
 eskills4all.staging.civiccomputing.com
-www.civiccomputing.com
 mgt-03.civiccomputing.com
 v1p.staging.civiccomputing.com
 vpn.civiccomputing.com
@@ -336,7 +334,7 @@ asnts.civiccomputing.com
 cms-docs.staging.civiccomputing.com
 report-asap-moodle.staging.civiccomputing.com
 tpr-ae.a11y.civiccomputing.com
-www.kostas1-test.staging.civiccomputing.com
+kostas1-test.staging.civiccomputing.com
 cookiecontrol-dashboard.release.civiccomputing.com
 80-75-66-221.civiccomputing.com
 ooffice.staging.civiccomputing.com
@@ -408,7 +406,6 @@ matrix.staging.civiccomputing.com
 walkwithwater-live.staging.civiccomputing.com
 ecitb-php8.staging.civiccomputing.com
 nmrn.dev.civiccomputing.com
-kostas-test.staging.civiccomputing.com
 sg-rn.staging.civiccomputing.com
 cc-cdn.civiccomputing.com
 gopro.sss.staging.civiccomputing.com

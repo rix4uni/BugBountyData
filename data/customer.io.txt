@@ -105,7 +105,6 @@ learn.customer.io
 cdp-eu-west.customer.io
 email.customer.io
 hs.customer.io
-www.rsvp.customer.io
 timezones.customer.io
 marketing-track.customer.io
 cdp-east-edge.customer.io
@@ -113,7 +112,6 @@ academy.customer.io
 manage.customer.io
 shop.customer.io
 calendar.customer.io
-www.customer.io
 mx1-unsubscribe2.customer.io
 cms-docker.customer.io
 henryt.fly.customer.io
@@ -147,11 +145,6 @@ assets.customer.io
 fly-prod-staging2.customer.io
 sandbox.customer.io
 hotness.customer.io
-www.app.customer.io
 sentry.customer.io
 links.customer.io
 login.customer.io
-www.try.customer.io
-*.customer.io
-*.fly-standalone.customer.io
-*.fly.customer.io

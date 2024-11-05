@@ -16,7 +16,7 @@ web.staging.sb.underdogsports.com
 login-pi.staging.underdogsports.com
 backoffice-ui-typed.develop.sb.underdogsports.com
 login.develop.underdogsports.com
-www.app.underdogsports.com
+app.underdogsports.com
 play.staging.underdogsports.com
 finorc-chargebacks.aws.prod.core.underdogsports.com
 payments.staging.underdogsports.com
@@ -42,8 +42,8 @@ finorc-chargebacks.aws.staging.core.underdogsports.com
 backoffice-ui-typed.ext.develop.sb.underdogsports.com
 demo-website.ext.develop.sb.underdogsports.com
 web-sportsbook-app.ext.aws.staging.sb.underdogsports.com
-www.app.staging.underdogsports.com
-www.app.ir.underdogsports.com
+app.staging.underdogsports.com
+app.ir.underdogsports.com
 finorc.payments.staging.core.underdogsports.com
 backoffice-api.ext.ir.sb.underdogsports.com
 player-profile.aws.cert.core.underdogsports.com
@@ -70,20 +70,16 @@ backoffice-api.ext.aws.prod.sb.underdogsports.com
 finorc.payments.prod.core.underdogsports.com
 finorc.payments.cert.core.underdogsports.com
 web.develop.sb.underdogsports.com
-www.app.cert.underdogsports.com
+app.cert.underdogsports.com
 warden.sb.underdogsports.com
 login.cert.underdogsports.com
 player-profile.webhook.develop.sb.underdogsports.com
 docv.aws.prod.core.underdogsports.com
-www.underdogsports.com
 docv.ir.sb.underdogsports.com
 clicks.underdogsports.com
 betgenius-integration.ext.aws.prod.sb.underdogsports.com
-app.underdogsports.com
-*.ext.aws.prod.sb.underdogsports.com
-app.staging.underdogsports.com
+ext.aws.prod.sb.underdogsports.com
 develop.pe.underdogsports.com
-*.develop.pe.underdogsports.com
 cert.sb.underdogsports.com
 translations.staging.sb.underdogsports.com
 simplebet-integration-live.develop.sb.underdogsports.com
@@ -220,7 +216,6 @@ market-collections.ir.sb.underdogsports.com
 limits.staging.sb.underdogsports.com
 odds-storage.develop.sb.underdogsports.com
 player-api-feed.int.sb.underdogsports.com
-app.ir.underdogsports.com
 crm-integration.ir.sb.underdogsports.com
 limits.int.sb.underdogsports.com
 aws.prod.underdogsports.com
@@ -241,7 +236,6 @@ ext.aws.cert.sb.underdogsports.com
 betplacement-lite.staging.sb.underdogsports.com
 player-api-monitor.iap.develop.sb.underdogsports.com
 player-api.aws.staging.sb.underdogsports.com
-www.web.develop.sb.underdogsports.com
 wallet.tempint.core.underdogsports.com
 argocd.aws.staging.sb.underdogsports.com
 reporting.ir.sb.underdogsports.com
@@ -308,7 +302,6 @@ market-collections.staging.sb.underdogsports.com
 player-profile.staging.sb.underdogsports.com
 rabbitmq.ir.sb.underdogsports.com
 cert.core.underdogsports.com
-ext.aws.prod.sb.underdogsports.com
 argocd.ddd.sb.underdogsports.com
 translations.ir.sb.underdogsports.com
 backoffice-ui-typed.int.sb.underdogsports.com
@@ -329,7 +322,6 @@ simplebet-integration-replay.aws.prod.sb.underdogsports.com
 swish-integration2.develop.sb.underdogsports.com
 bonuses.aws.prod.sb.underdogsports.com
 int.sb.underdogsports.com
-app.cert.underdogsports.com
 player-api-monitor.aws.staging.sb.underdogsports.com
 reporting.aws.prod.sb.underdogsports.com
 cert.underdogsports.com

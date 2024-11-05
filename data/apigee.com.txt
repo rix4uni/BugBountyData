@@ -23,7 +23,7 @@ honeywell.apigee.com
 f.i.apigee.com
 apiportal.api.apigee.com
 dev-aegon.devportal.apigee.com
-www.bbs.apigee.com
+bbs.apigee.com
 cati.apigee.com
 members-wildmind.apigee.com
 xdb.stayinvalid.apigee.com
@@ -46,17 +46,16 @@ apigee-sap-071514.apigee.com
 pearson-test.apiportal.apigee.com
 ramp.apiportal.apigee.com
 entrp-prod.apiportal.apigee.com
-www.apiportal.apigee.com
-www.events.apigee.com
-ap.apigee.com
 apiportal.apigee.com
+events.apigee.com
+ap.apigee.com
 7ug.apigee.com
 acquia-stg.apigee.com
 api-trakt.apigee.com
 healthapix.apigee.com
 live-connectedhome.devportal.apigee.com
 zeus.apigee.com
-www.slideshare.jdavid.apigee.com
+slideshare.jdavid.apigee.com
 fox-sports.apiportal.apigee.com
 arledia.apigee.com
 academy.apigee.com
@@ -71,24 +70,22 @@ api-manta.apigee.com
 zk06wo.us-wo.4.apigee.com
 citrix.apiportal.test.apigee.com
 adapt-chicago.apigee.com
-www.adia.apigee.com
+adia.apigee.com
 api.pnc.s.apigee.com
-www.community.apigee.com
 yywudi.apigee.com
 ap-sy.4.apigee.com
 6qb.apigee.com
 sense-demo.apigee.com
 apibaas.apigee.com
-www.eval.apigee.com
+eval.apigee.com
 demo16.apiportal.apigee.com
 apiportal.apigee.co.apigee.com
-www.ignite.apigee.com
+ignite.apigee.com
 api.hybrid-beta2.s.apigee.com
 blog-stg.apigee.com
 punch.gigabo.apigee.com
 icici-bank-azure-prod.apigee.com
 peptalk.apigee.com
-www.healthapix.apigee.com
 zk01ea.us-ea.4.apigee.com
 adobe-pass.apiportal.apigee.com
 cyqtomb.apigee.com
@@ -113,14 +110,13 @@ tinychat.apigee.com
 adkey-jeavins.apigee.com
 fuck.cctv8964.apigee.com
 speedradartomcat-wildmind.apigee.com
-www.coke-test.apiportal.apigee.com
 apiportal.apig.apigee.com
 dev-jlldemo.devportal.apigee.com
 jenkins.apigee.com
 bods-epic.apigee.com
 dev-iag-nonprod.devportal.apigee.com
 specs.apigee.com
-www.360.apigee.com
+360.apigee.com
 activation-wildmind.apigee.com
 adapt-ny.apigee.com
 alpha30.apigee.com
@@ -128,7 +124,7 @@ morrisons.test.apiportal.apigee.com
 test.apigee.com
 vantiv.apiportal.apigee.com
 53b.apigee.com
-www.ea.apiportal.apigee.com
+ea.apiportal.apigee.com
 ardvax.apigee.com
 software.apigee.com
 mart.lab.s.apigee.com
@@ -148,10 +144,8 @@ twitter.ubuntucn.apigee.com
 vodafone-non-prod.apiportal.apigee.com
 vpn-sjc.apigee.com
 dev-pointclickcareapis.devportal.apigee.com
-bbs.apigee.com
 pubmatic.apiportal.apigee.com
 dylan.apigee.com
-www.apigee.com
 sandbox.apigee.com
 api-org-test-dc1.hybrid-beta2.s.apigee.com
 rhapsody.apiportal.apigee.com
@@ -196,10 +190,8 @@ bbc.apiportal.apigee.com
 api.accounts.apigee.com
 apiwww.apigee.com
 blogtd.apigee.com
-www.pages.apigee.com
 pubmatic-test.apiportal.apigee.com
 followme.avenirzheng.apigee.com
-www.developers.apigee.com
 sense-beta.apigee.com
 soap.hipster.s.apigee.com
 2-3community.apigee.com
@@ -266,22 +258,20 @@ acquia-dev.apigee.com
 pubmatic.test.apiportal.apigee.com
 arledia.arledia.apigee.com
 dev-contactive.devportal.apigee.com
-www.zeus.apigee.com
-www.healthapi-x.apigee.com
+healthapi-x.apigee.com
 status.api.apigee.com
 morrisons.apiportal.apigee.com
 quote.apigee.com
 ad-similargroup.apigee.com
 api.sb.hybrid.s.apigee.com
 supportcenter.apigee.com
-www.budo.apigee.com
+budo.apigee.com
 tw.acain.apigee.com
 hcsc-qa.lb.apigee.com
 live-healthsparq.devportal.apigee.com
 nucleus-api-test.apigee.com
 mart-api-test.hybrid-beta2.s.apigee.com
 apsy.4.apigee.com
-www.blog.apigee.com
 takenet-prod.apiportal.apigee.com
 ci.apigee.com
 commmunity.apigee.com
@@ -296,7 +286,6 @@ vzaar.apigee.com
 icici-bank-azure-prod.login.apigee.com
 apac-hybrid.s.apigee.com
 cocacola.apiportal.apigee.com
-www.deploynow.apigee.com
 blog2.apigee.com
 apige.apigee.com
 blueidea05.apigee.com
@@ -306,10 +295,9 @@ api-doxument.apigee.com
 cosafinity.apiportal.apigee.com
 sony-dadc.apiportal.apigee.com
 amadeus-sandbox.apiportal.apigee.com
-eval.apigee.com
 gluu-idp.apigee.com
 services.e2e.apigee.com
-www.appservices.apigee.com
+appservices.apigee.com
 walmartlabs.apiportal.apigee.com
 calimg-smallstyle.apigee.com
 dev-equitybank.devportal.apigee.com
@@ -329,12 +317,9 @@ magazineluiza.apiportal.apigee.com
 twitter.rhymos.apigee.com
 smartdocs.apigee.com
 adapt.apigee.com
-healthapi-x.apigee.com
-www.api.enterprise.apigee.com
 post-johnsm00.apigee.com
 motley-fool.apiportal.apigee.com
 movie.apigee.c.apigee.com
-360.apigee.com
 yodlee.apiportal.apigee.com
 staging3.movie.apigee.c.apigee.com
 morrison.apiportal.apigee.com
@@ -349,9 +334,7 @@ ipa-up2.apigee.com
 thor.apigee.com
 demo10.apiportal.apigee.com
 apiportal.test.apigee.com
-ignite.apigee.com
 9eq.apigee.com
-www.airflow.apigee.com
 takenet.apiportal.apigee.com
 dev.apigee.com
 cctv8964.apigee.com
@@ -375,7 +358,6 @@ blog-dev.apigee.com
 mobileanalytics.apigee.com
 8no.apigee.com
 au.apigee.com
-appservices.apigee.com
 live-liveops.devportal.apigee.com
 target.apiportal.apigee.com
 zk04wo.us-wo.4.apigee.com
@@ -392,7 +374,6 @@ commuity.apigee.com
 sense-legacy.apigee.com
 sears2.apiportal.apigee.com
 twitter.apigee.com
-www.mobileanalytics.apigee.com
 yelpplatform.apiportal.apigee.com
 clootsruitersporttwitterfeed-api.apigee.com
 accounts2.apigee.com
@@ -401,7 +382,6 @@ associatedpress.apiportal.apigee.com
 merck.apiportal.apigee.com
 mktg-prd.apigee.com
 piiwww.apigee.com
-www.thor.apigee.com
 coke-test.apiportal.apig.apigee.com
 dev-apigee-pentest3.devportal.apigee.com
 graph-johnsm00.apigee.com
@@ -428,7 +408,6 @@ developer.apigee.com
 moodysanalytics-portal.apigee.com
 animeeple.apigee.com
 ipa-up.apigee.com
-www.quote.apigee.com
 magazineluiza.apiportal.apigee.c.apigee.com
 alpha360.apigee.com
 api-test.sb.hybrid.s.apigee.com
@@ -445,7 +424,6 @@ nikeplayer.apigee.com
 zk05wo.us-wo.4.apigee.com
 apigeeks.apigee.com
 c.apigee.com
-ea.apiportal.apigee.com
 earthnetworks.apiportal.apigee.com
 apideiwww.apigee.com
 hybrid-api-test.demo.s.apigee.com
@@ -455,7 +433,6 @@ amazonpng-evandti.apigee.com
 citytours.apigee.com
 mart.hybrid-beta2.s.apigee.com
 4.apigee.com
-events.apigee.com
 gk-hybrid-gcp-exp-test.lab.s.apigee.com
 unauthorized-7-0.apigee.com
 dev-ethor.devportal.apigee.com
@@ -525,7 +502,6 @@ unauthorized-27.apigee.com
 syna.login.apigee.com
 newforums3-6.apigee.com
 brown.enterprise.apigee.com
-www.mx.apigee.com
 newforums91-3.apigee.com
 pages-6-5-8.apigee.com
 linfang.twt.apigee.com
@@ -585,7 +561,7 @@ newforums19.apigee.com
 newforums5-2-4.apigee.com
 pages-730.apigee.com
 pages-8-0.apigee.com
-www.stream.apigee.com
+stream.apigee.com
 pages5-1.apigee.com
 unauthorized-7.apigee.com
 unauthorized3.apigee.com
@@ -659,7 +635,7 @@ pages-5-0.apigee.com
 pages6-6.apigee.com
 pages981.apigee.com
 unauthorized-8-3.apigee.com
-www.phonescomplete.apigee.com
+phonescomplete.apigee.com
 consultant-pms.login.apigee.com
 newforums-28.apigee.com
 newforums-6-7.apigee.com
@@ -677,7 +653,7 @@ pages-7-5-1.apigee.com
 pages6-9-9.apigee.com
 unauthorized8-7.apigee.com
 web4216.apigee.com
-www.money.apigee.com
+money.apigee.com
 newforums529.apigee.com
 earthnetworks.apiportal.test.apigee.com
 consultant-pms.apigee.com
@@ -742,7 +718,7 @@ web3458.apigee.com
 newforums-2-6.apigee.com
 pages9-9.apigee.com
 repo.apigee.com
-www.yum.apigee.com
+yum.apigee.com
 twitter.minijoe.apigee.com
 newforums9-95.apigee.com
 pages8-7.apigee.com
@@ -857,7 +833,6 @@ unauthorized91.apigee.com
 pages-6-9-3.apigee.com
 pages-88.apigee.com
 unauthorized-1-5.apigee.com
-www.vpn-us.apigee.com
 kcoffee.login.apigee.com
 newforums9-29.apigee.com
 pages925.apigee.com
@@ -949,7 +924,7 @@ mocktarget.apigee.com
 newforums-3-1.apigee.com
 pages-7-5-8.apigee.com
 example.devportal.apigee.com
-www.travian.apigee.com
+travian.apigee.com
 6.enterprise.apigee.com
 newforums-11.apigee.com
 newforums-8-1.apigee.com
@@ -986,7 +961,7 @@ xq.apigee.com
 v144-bne3-vc.login.apigee.com
 newforums-5-6.apigee.com
 newforums930.apigee.com
-www.dev-connect-sandbox.apigee.com
+dev-connect-sandbox.apigee.com
 newforums5-3.apigee.com
 newforums-22.apigee.com
 newforums0-5.apigee.com
@@ -1076,7 +1051,7 @@ wifi-movilforumtelefonica.login.apigee.com
 newforums-17.apigee.com
 newforums98-2.apigee.com
 pages-0-9.apigee.com
-www.puppet.apigee.com
+puppet.apigee.com
 unauthorized-6-6.apigee.com
 unauthorized8.apigee.com
 prod-aol-publishers.devportal.apigee.com
@@ -1094,7 +1069,7 @@ pages6-96.apigee.com
 pages8-6.apigee.com
 unauthorized9-7.apigee.com
 dev-digitalstrom.devportal.apigee.com
-www.git.apigee.com
+git.apigee.com
 zs6.login.apigee.com
 newforums1-5.apigee.com
 pages-82.apigee.com
@@ -1108,7 +1083,7 @@ pages-6-84.apigee.com
 pages-7-23.apigee.com
 pages6-7-4.apigee.com
 at.enterprise.apigee.com
-www.noreply.apigee.com
+noreply.apigee.com
 pages-7-68.apigee.com
 pages-732.apigee.com
 unauthorized7-3.apigee.com
@@ -1186,7 +1161,7 @@ lebanon.apigee.com
 newforums2-9.apigee.com
 newforums9-1-3.apigee.com
 newforums988.apigee.com
-www.orion.apigee.com
+orion.apigee.com
 pages-73-1.apigee.com
 pages72.apigee.com
 unauthorized0-5.apigee.com
@@ -1412,7 +1387,7 @@ newforums916.apigee.com
 vikiyou.apigee.com
 sirius.apigee.com
 live-sage.devportal.apigee.com
-www.lg.apigee.com
+lg.apigee.com
 newforums-41.apigee.com
 newforums06.apigee.com
 newforums35.apigee.com
@@ -1464,7 +1439,7 @@ newforums8-2.apigee.com
 pages-7-21.apigee.com
 unauthorized60.apigee.com
 pages-7-6-4.apigee.com
-www.dev-connect2-demo.apigee.com
+dev-connect2-demo.apigee.com
 fox.enterprise.apigee.com
 126551.ys.fatumblruptime.login.apigee.com
 newforums3-5.apigee.com
@@ -1534,7 +1509,6 @@ newforums91-5.apigee.com
 pages-96.apigee.com
 pages48.apigee.com
 unauthorized69.apigee.com
-slideshare.jdavid.apigee.com
 newforums9-2-3.apigee.com
 newforums95.apigee.com
 pages-2-0.apigee.com
@@ -1585,7 +1559,6 @@ newforums9-22.apigee.com
 newforums986.apigee.com
 pages-0-6.apigee.com
 pages-8-4-6.apigee.com
-phonescomplete.apigee.com
 newforums-7-7.apigee.com
 newforums9-0.apigee.com
 newforums93-7.apigee.com
@@ -1645,7 +1618,7 @@ unauthorized7-8.apigee.com
 pages985.apigee.com
 bankhapi.devportal.apigee.com
 pkm199nike.us-we.i.apigee.com
-www.learn.apigee.com
+learn.apigee.com
 newforums6-1.apigee.com
 pages-44.apigee.com
 pages-73.apigee.com
@@ -1721,7 +1694,7 @@ pages2.apigee.com
 unauthorized-22.apigee.com
 unauthorized-39.apigee.com
 pages69-2.apigee.com
-www.build.apigee.com
+build.apigee.com
 amazonpng-evandti.login.apigee.com
 blueidea05.login.apigee.com
 members-wildmind.login.apigee.com
@@ -1746,7 +1719,6 @@ pages-6-8-7.apigee.com
 pages-882.apigee.com
 pages07.apigee.com
 pages6-97.apigee.com
-www.repo.apigee.com
 unauthorized-11.apigee.com
 pages-26.apigee.com
 pages6-99.apigee.com
@@ -1770,7 +1742,7 @@ pages-7-5-6.apigee.com
 pages6-9.apigee.com
 mirage.apigee.com
 elblogerperu.apigee.com
-www.netmon.apigee.com
+netmon.apigee.com
 pages-0-7.apigee.com
 pages-5.apigee.com
 pages-80.apigee.com
@@ -1845,7 +1817,6 @@ newforums-9-9.apigee.com
 pages-49.apigee.com
 pages-7-29.apigee.com
 pages-8-0-7.apigee.com
-www.supportcenter.apigee.com
 alpha30.login.apigee.com
 newforums985.apigee.com
 pages6-7-2.apigee.com
@@ -1989,7 +1960,6 @@ newforums30.apigee.com
 pages-885.apigee.com
 pages9-3-9.apigee.com
 pages92-1.apigee.com
-www.vpn-sjc.apigee.com
 dev-unifiedpatentcourt.devportal.apigee.com
 policies.login.apigee.com
 pages--7.apigee.com
@@ -2271,7 +2241,7 @@ newforums5-8.apigee.com
 newforums9-3-8.apigee.com
 newforums9-9-4.apigee.com
 pages-68.apigee.com
-www.pms.apigee.com
+pms.apigee.com
 dev.eschwabeval.devportal.apigee.com
 beta.login.apigee.com
 newforums12.apigee.com
@@ -2295,7 +2265,6 @@ yaya900602.apigee.com
 pages90.apigee.com
 unauthorized-52.apigee.com
 unauthorized-60.apigee.com
-www.estimator.apigee.com
 vzaar.login.apigee.com
 newforums-08.apigee.com
 pages6-9-6.apigee.com
@@ -2359,7 +2328,7 @@ pages-2-2.apigee.com
 pages10.apigee.com
 pages9-5.apigee.com
 wde.apigee.com
-www.jabber.apigee.com
+jabber.apigee.com
 unauthorized6-8.login.apigee.com
 newforums9-5-7.apigee.com
 unauthorized45.apigee.com
@@ -2413,7 +2382,7 @@ newforums-54.login.apigee.com
 newforums-6-6.apigee.com
 pages-6-4.apigee.com
 unauthorized4-7.apigee.com
-www.zenoss.apigee.com
+zenoss.apigee.com
 unauthorized-3-6.apigee.com
 gettyimages.dn.apigee.com
 gopher.enterprise.apigee.com
@@ -2508,13 +2477,12 @@ pages-680.apigee.com
 pages5-6.apigee.com
 unauthorized0.apigee.com
 newforums-40.apigee.com
-www.ifanring.tcr.apigee.com
 newforums-81.apigee.com
 newforums526.apigee.com
 pages-7-5-3.apigee.com
 unauthorized17.apigee.com
 cust1.enterprise.apigee.com
-www.mag.apigee.com
+mag.apigee.com
 newforums-13.apigee.com
 newforums5-4.apigee.com
 unauthorized-4-6.apigee.com
@@ -2658,7 +2626,7 @@ newforums8-6.apigee.com
 pages6-9-8.apigee.com
 unauthorized0-3.apigee.com
 pages-4-9.apigee.com
-www.test2.apigee.com
+test2.apigee.com
 test-heal.login.apigee.com
 newforums02.apigee.com
 newforums58.apigee.com
@@ -2696,7 +2664,6 @@ teng198.apigee.com
 unauthorized-8.apigee.com
 unauthorized1-8.apigee.com
 careers.login.apigee.com
-orion.apigee.com
 pages-7-5-2.apigee.com
 pages77.apigee.com
 unauthorized88.apigee.com
@@ -2719,7 +2686,6 @@ tumblrcloud.login.apigee.com
 pages-6-83.apigee.com
 pages693.apigee.com
 unauthorized-7-4.apigee.com
-www.insights.apigee.com
 ndtv.apigee.com
 pages-94.apigee.com
 newforums43.apigee.com
@@ -3061,7 +3027,7 @@ pages6-94.apigee.com
 gluuidp.login.apigee.com
 moneycontrol.apigee.com
 newforums9-27.apigee.com
-www.page.apigee.com
+page.apigee.com
 pages-52.apigee.com
 pages-8-40.apigee.com
 pages-9-5.apigee.com
@@ -3092,7 +3058,6 @@ pages5-7.apigee.com
 unauthorized8-5.apigee.com
 pages05.apigee.com
 unauthorized92.apigee.com
-www.gateway-sandbox.apigee.com
 magazineluiza.apigee.com
 pages-78.apigee.com
 unauthorized-73.apigee.com
@@ -3105,7 +3070,6 @@ pages-6-5-6.apigee.com
 pages9-3-1.apigee.com
 unauthorized09.apigee.com
 pages9-3.apigee.com
-dev-connect-sandbox.apigee.com
 frsnca.login.apigee.com
 web3059.login.apigee.com
 newforums-8-5.apigee.com
@@ -3135,7 +3099,6 @@ newforums-5-3.apigee.com
 newforums1-2.apigee.com
 occ-wde.apigee.com
 pages9-79.apigee.com
-.orgname.devportal.apigee.com
 dmarc.apigee.com
 host11.apigee.com
 uswe.i.apigee.com

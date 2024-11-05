@@ -1,12 +1,10 @@
-*.local.inscribe.ai
-*.salvatore.local.inscribe.ai
 local.inscribe.ai
+salvatore.local.inscribe.ai
 julian.local.inscribe.ai
 app.inscribe.ai
 dan.local.inscribe.ai
 liam.local.inscribe.ai
 gabriel.local.inscribe.ai
-www.inscribe.ai
 metrics.inscribe.ai
 pages.inscribe.ai
 m.inscribe.ai
@@ -21,7 +19,6 @@ vpn.inscribe.ai
 vpn.staging.internal.inscribe.ai
 wf.inscribe.ai
 support.inscribe.ai
-*.gabriel.local.inscribe.ai
 ivo.local.inscribe.ai
 api.inscribe.ai
 s3.local.inscribe.ai
@@ -33,7 +30,6 @@ sadhbh.local.inscribe.ai
 martina.local.inscribe.ai
 michael.local.inscribe.ai
 lendinghome.inscribe.ai
-salvatore.local.inscribe.ai
 staging.inscribe.ai
 raphael.local.inscribe.ai
 eks.internal.inscribe.ai

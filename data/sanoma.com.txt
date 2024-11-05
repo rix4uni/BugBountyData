@@ -1,6 +1,6 @@
 learning.integration.sanoma.com
 contentplatform.sanoma.com
-www.branding.sanoma.com
+branding.sanoma.com
 officewebapp.sanoma.com
 sso.sanoma.com
 uutiskirje.sanoma.com
@@ -18,7 +18,7 @@ eip-jw8nc7np.sanoma.com
 restricted.apps.osc-nu-dev.k8s.cloud.sanoma.com
 csh.osc-security.ccoe.sanoma.com
 fiedgpool01.sanoma.com
-www.test.sanoma.com
+test.sanoma.com
 restricted.tools.osc-nu-prod.k8s.cloud.sanoma.com
 lasimestari.sanoma.com
 bwgw-test.sanoma.com
@@ -41,7 +41,6 @@ group.integration12.sanoma.com
 fi-ext.sanoma.com
 intwebfarm.sanoma.com
 crma.sanoma.com
-branding.sanoma.com
 sim.sanoma.com
 fiae01.sanoma.com
 sanomaeus.sanoma.com
@@ -53,7 +52,6 @@ platform.sanoma.com
 osc-nu-test.k8s.cloud.sanoma.com
 crm.sanoma.com
 lighthouse.sanoma.com
-www.sanoma.com
 bwisereptest.sanoma.com
 osc-security.ccoe.sanoma.com
 lyncdiscoverinternal.sanoma.com
@@ -84,7 +82,6 @@ dev.sanoma.com
 filyncwebpoolweb01.sanoma.com
 lbpdev.sanoma.com
 sasnlreport.sanoma.com
-www.sanomaeus.sanoma.com
 maestro.sanoma.com
 enterpriseenrollment.sanoma.com
 aws.sanoma.com
@@ -97,8 +94,6 @@ logs.sanoma.com
 osc-nu-dev.k8s.cloud.sanoma.com
 ace.sanoma.com
 platformdev.sanoma.com
-www.fi-testvpn.sanoma.com
-www.learning.sanoma.com
 earlybird.sanoma.com
 public.apps.osc-nu-dev.k8s.cloud.sanoma.com
 filyncwebpool01.sanoma.com
@@ -130,7 +125,6 @@ bwise.sanoma.com
 uccpool.sanoma.com
 avconf.sanoma.com
 dory.cloud.sanoma.com
-test.sanoma.com
 restricted.apps-2.osc-nu-prod.k8s.cloud.sanoma.com
 msoid.sanoma.com
 snowlm.sanoma.com

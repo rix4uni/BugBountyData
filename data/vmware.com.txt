@@ -1,7 +1,7 @@
 tanzu-integration-test.stacks.whitesand.tmc.cloud.vmware.com
 vropssizer.vmware.com
 dp.tanzu-integration-test.stacks.whitesand.tmc.cloud.vmware.com
-*.tmc.cloud.vmware.com
+tmc.cloud.vmware.com
 apjevents.vmware.com
 blob.juniper.stacks.juniperforest.tmc.cloud.vmware.com
 juniper.stacks.juniperforest.tmc.cloud.vmware.com
@@ -20,9 +20,7 @@ test-store-latam.vmware.com
 test-store-ru.vmware.com
 test-store-uk.vmware.com
 test-store-us.vmware.com
-www.vmware.com
-*.vmware.com
-*.cloud2.vmware.com
+cloud2.vmware.com
 cloudhealth.vmware.com
 cloudsolutions.vmware.com
 sase.vmware.com
@@ -37,7 +35,6 @@ nsx.techzone.vmware.com
 apps-cloudmgmt.techzone.vmware.com
 vmc.techzone.vmware.com
 techzone.vmware.com
-*.techzone.vmware.com
 tanzu.vmware.com
 onboarding.svcs.bluesky.tmc-dev.cloud.vmware.com
 onboarding.tmc-dev.cloud.vmware.com
@@ -60,7 +57,6 @@ configmax.esp.vmware.com
 ports.esp.vmware.com
 blob.ruby.stacks.rubyfalls.tmc.cloud.vmware.com
 console-stg.us-gov.cloud.vmware.com
-www.console-stg.us-gov.cloud.vmware.com
 communities.vmware.com
 lumos.vmware.com
 oss-assessment.app-catalog.vmware.com

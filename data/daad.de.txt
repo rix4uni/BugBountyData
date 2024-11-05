@@ -7,9 +7,8 @@ ssl.daad.de
 saml.daad.de
 be.daad.de
 karriere.daad.de
-www.daad.de
 www2.daad.de
-www.eu.daad.de
+eu.daad.de
 pilot-gw-vpn.daad.de
 pilot-portal-vpn.daad.de
 gw-bonn.daad.de
@@ -33,9 +32,8 @@ srv-uag01.daad.de
 remote-pilot.daad.de
 portal.daad.de
 intune-ndes.daad.de
-www.view.daad.de
-blast.daad.de
 view.daad.de
+blast.daad.de
 srv-viewcs03.daad.de
 srv-viewcs04.daad.de
 static.daad.de
@@ -56,7 +54,6 @@ ns1.daad.de
 newdelhi.daad.de
 tokyo.daad.de
 london.daad.de
-eu.daad.de
 eu-community.daad.de
 rio.daad.de
 go-east.daad.de
@@ -65,4 +62,3 @@ ic.daad.de
 paris.daad.de
 pdf.daad.de
 nairobi.daad.de
-www.ic.daad.de

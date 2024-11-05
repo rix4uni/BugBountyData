@@ -1,6 +1,4 @@
-*.shein.com.vn
 m.shein.com.vn
-www.shein.com.vn
 onelink.shein.com.vn
 ec2-52-31-167-10.eu-west-1.compute.shein.com.vn
 vpce-0b8c2c5b1b365c465-3k2qzbdp-eu-central-1a.s3.eu-central-1.vpce.shein.com.vn
@@ -76,7 +74,7 @@ bucket.vpce-027e5ec7b4a1c4484-yzk6xbyg-ap-northeast-1a.s3.ap-northeast-1.vpce.sh
 c3.kafka.eu-north-1.shein.com.vn
 18e6ea80dde7919694b129308431748c.gr7.us-west-2.eks.shein.com.vn
 us-west-1.compute.shein.com.vn
-www.network.shein.com.vn
+network.shein.com.vn
 rboluj.0001.use1.cache.shein.com.vn
 1808-1350523819.us-east-1.elb.shein.com.vn
 61086.eu-west-2.elb.shein.com.vn
@@ -172,7 +170,7 @@ elb.ap-southeast-1.shein.com.vn
 vpce-088872e46af2fee27-0smqxbbr-eu-central-1c.s3.eu-central-1.vpce.shein.com.vn
 dropthishost.shein.com.vn
 redshift.shein.com.vn
-www.ec.shein.com.vn
+ec.shein.com.vn
 vpce-0b60d75324b48df89-24wiknid.s3.ap-northeast-1.vpce.shein.com.vn
 ec2-35-178-207-85.eu-west-2.compute.shein.com.vn
 vpc-staging-logging-f3cjrjvksj23t7vnc42s6k2pt4.ap-southeast-1.es.shein.com.vn
@@ -181,7 +179,7 @@ www-app.shein.com.vn
 canary-4899032c79b1.zdtc4m.c1.kafka.ap-east-1.shein.com.vn
 5a49902dacdf0-8875thqu.s3.eu-west-2.vpce.shein.com.vn
 bucket.vpce-0bf0b7a0a94b8f1ce-vakbwqjg.s3.us-gov-west-1.vpce.shein.com.vn
-www.print.shein.com.vn
+print.shein.com.vn
 vpce-066cbe95c33680ffe-lsnlzftk-ap-southeast-3b.s3.ap-southeast-3.vpce.shein.com.vn
 vpce-0bfa13bb884f0d8d8-n399y8jm-eu-west-3b.s3.eu-west-3.vpce.shein.com.vn
 ap-south-1.vpce.shein.com.vn
@@ -194,7 +192,7 @@ ec2-52-11-29-54.us-west-2.compute.shein.com.vn
 ec2-52-214-89-79.eu-west-1.compute.shein.com.vn
 e28ho5.c4.kafka.us-west-2.shein.com.vn
 c1.kafka-gamma.us-west-2.shein.com.vn
-www.quran.shein.com.vn
+quran.shein.com.vn
 ec2-34-216-67-56.us-west-2.compute.shein.com.vn
 yit5h3.c4.kafka.us-west-2.shein.com.vn
 ec2-3-135-209-24.us-east-2.compute.shein.com.vn
@@ -296,7 +294,7 @@ gc-sr-1626464913-ce.i0q1l1.c1.kafka.eu-central-1.shein.com.vn
 v42kxh.c2.kafka.ap-southeast-1.shein.com.vn
 canarycca9dd58671a.5gc9dn.c4.kafka.af-south-1.shein.com.vn
 canary-48764fb4d573.tcyun0.c2.kafka.eu-central-1.shein.com.vn
-www.miami.shein.com.vn
+miami.shein.com.vn
 ec2-54-95-77-40.ap-northeast-1.compute.shein.com.vn
 darknight.shein.com.vn
 pj-i-010c992314acae211-1809078335.us-east-1.elb.shein.com.vn
@@ -387,7 +385,7 @@ ttb8v6.c9.kafka.eu-central-1.shein.com.vn
 fc11312-mnhmnyxe-eu-south-1c.s3.eu-south-1.vpce.shein.com.vn
 ec2-35-177-240-132.eu-west-2.compute.shein.com.vn
 73956831.us-gov-west-1.elb.shein.com.vn
-www.hardware.shein.com.vn
+hardware.shein.com.vn
 canary7aaafac34cd.fkbhko.c3.kafka.ap-southeast-2.shein.com.vn
 c3.kafka.sa-east-1.shein.com.vn
 amzlb1927-2058934630.us-east-1.elb.shein.com.vn
@@ -402,7 +400,7 @@ esco64aze2.execute-api.eu-west-1.shein.com.vn
 ec2-3-25-70-91.ap-southeast-2.compute.shein.com.vn
 43c528352b3b052b12674da81b390745.gr7.eu-west-1.eks.shein.com.vn
 268.us-west-2.elb.shein.com.vn
-www.affiliates.shein.com.vn
+affiliates.shein.com.vn
 bucket.vpce-01bf9f203879d97de-opstv768-us-west-1b.s3.us-west-1.vpce.shein.com.vn
 jxgg1j.c4.kafka.eu-central-1.shein.com.vn
 ec2-52-211-77-180.eu-west-1.compute.shein.com.vn
@@ -457,7 +455,7 @@ f2678d4c1eb974be31e5837ba04969d6.gr7.us-east-1.eks.shein.com.vn
 9d6d-twqjriqg-eu-west-1a.s3.eu-west-1.vpce.shein.com.vn
 epub.shein.com.vn
 vpce-0da14af6e122cc69b-saj4xl0g-eu-west-2a.s3.eu-west-2.vpce.shein.com.vn
-www.6.shein.com.vn
+6.shein.com.vn
 jolsom.c4.kafka.us-east-2.shein.com.vn
 bucket.vpce-03923971e0d814ac4-1t20kvfp-us-east-1b.s3.us-east-1.vpce.shein.com.vn
 ap-northeast-1.eks.shein.com.vn
@@ -546,7 +544,7 @@ tzxqkegbhs3ya9j0v4stzqdhh2f1-k8s-2057976613.us-east-1.elb.shein.com.vn
 eu-west-1.elb.shein.com.vn
 e83d4o.c2.kafka.af-south-1.shein.com.vn
 c4.kafka.us-west-1.shein.com.vn
-www.washington.shein.com.vn
+washington.shein.com.vn
 a558193-cqsvppoh-eu-north-1b.s3.eu-north-1.vpce.shein.com.vn
 3-243-94.us-west-2.compute.shein.com.vn
 vpce-00189074246b9ce3c-i1eag6kb-eu-south-2c.s3.eu-south-2.vpce.shein.com.vn
@@ -649,7 +647,7 @@ bc66f8dfe5499-15n50enr.s3.us-east-1.vpce.shein.com.vn
 v99lyr.c7.kafka.us-west-2.shein.com.vn
 vpce-0e302e4e71c1d12d6-rmlgk7b5.s3.eu-central-1.vpce.shein.com.vn
 9af-682326776.us-east-1.elb.shein.com.vn
-www.videos.shein.com.vn
+videos.shein.com.vn
 mcd-middleware-quality-ecs-alb-1969969847.us-east-1.elb.shein.com.vn
 77100948.us-east-1.elb.shein.com.vn
 ec2-18-236-251-223.us-west-2.compute.shein.com.vn
@@ -703,7 +701,7 @@ gcsr1671959241cell2do.i98d8f.c2.kafka.af-south-1.shein.com.vn
 bucket.vpce-07fb8fe5751f378a6-wbnfk5rj-us-east-1a.s3.us-east-1.vpce.shein.com.vn
 s3.ap-northeast-3.vpce.shein.com.vn
 canarye2697f29de0.xzjbd8.c2.kafka.ap-northeast-1.shein.com.vn
-www.c.shein.com.vn
+c.shein.com.vn
 s3.ap-south-1.vpce.shein.com.vn
 bucket.vpce-07b6bcb4e7030e28a-08fhoi11-ap-south-1a.s3.ap-south-1.vpce.shein.com.vn
 lambda.ap-northeast-3.shein.com.vn
@@ -711,7 +709,7 @@ bucket.vpce-0e3b90aed8fd5d9bd-qmi9clfo-eu-west-1b.s3.eu-west-1.vpce.shein.com.vn
 z9fo49.c1.kafka.ap-southeast-2.shein.com.vn
 vpce-023753757584de352-od0gtj0w-eu-west-1a.s3.eu-west-1.vpce.shein.com.vn
 vpce-0bdfc2b63bfee72fc-vruzzkw6-eu-central-1c.s3.eu-central-1.vpce.shein.com.vn
-www.server2.shein.com.vn
+server2.shein.com.vn
 canary-6e70e0a0a90c.oi3cn8.c1.kafka.us-west-1.shein.com.vn
 ap-southeast-2.vpce.shein.com.vn
 internal-compass-alb-int-sbox-730457170.eu-west-1.elb.shein.com.vn
@@ -725,7 +723,7 @@ store.www.shein.com.vn
 bucket.vpce-0c1e39e3d8a97dc30-3y5in138-ap-northeast-1d.s3.ap-northeast-1.vpce.shein.com.vn
 ww7.shein.com.vn
 elb.shein.com.vn
-www.comics.shein.com.vn
+comics.shein.com.vn
 c4.kafka.us-east-2.shein.com.vn
 bucket.vpce-0f9bdb9d49f13b092-owcthn3m-us-east-2a.s3.us-east-2.vpce.shein.com.vn
 bucket.vpce-02b6cbc2f0ebb6978-udishf82-eu-west-2c.s3.eu-west-2.vpce.shein.com.vn
@@ -753,7 +751,7 @@ dwn8vv.c3.kafka.eu-central-1.shein.com.vn
 vpce-03279c53ee8fce9a1-q1fkm2hv.s3.us-east-2.vpce.shein.com.vn
 aebcf45baddfb-ejckkas8.s3.us-west-2.vpce.shein.com.vn
 vpce-017a3e41696900e4d-i4nfmekp-ap-northeast-2a.s3.ap-northeast-2.vpce.shein.com.vn
-www.rss.shein.com.vn
+rss.shein.com.vn
 vpce-05c0690e32930d5c2-0ucepitp.s3.eu-north-1.vpce.shein.com.vn
 canary3ced6c05ebfd.gx9a57.c3.kafka.us-west-1.shein.com.vn
 bucket.vpce-041a22f062a0235a3-ldk6gkn1.s3.eu-central-1.vpce.shein.com.vn
@@ -833,7 +831,7 @@ vpce-0dbe09d5aaaf04bb2-0bwwomls-eu-north-1b.s3.eu-north-1.vpce.shein.com.vn
 35.sa-east-1.elb.shein.com.vn
 blacklight-969217407.eu-central-1.elb.shein.com.vn
 tq11fh.c3.kafka.eu-north-1.shein.com.vn
-www.med.shein.com.vn
+med.shein.com.vn
 d-yh9v4tbza5.execute-api.us-west-2.shein.com.vn
 8892121.us-east-1.elb.shein.com.vn
 5gc9dn.c4.kafka.af-south-1.shein.com.vn
@@ -898,7 +896,7 @@ ec2-18-200-203-163.eu-west-1.compute.shein.com.vn
 c4.kafka.ap-southeast-2.shein.com.vn
 c1.kafka.eu-central-1.shein.com.vn
 vpce-0688023c7b3c2bb5d-eq2p8o05-ap-northeast-2b.s3.ap-northeast-2.vpce.shein.com.vn
-www.ns1.shein.com.vn
+ns1.shein.com.vn
 canary210521877335.amv8u1.c1.kafka.af-south-1.shein.com.vn
 search-voucher-main-azme7d-6yxmptx7wtppcpjxg5varzkimm.eu-central-1.es.shein.com.vn
 c1.kafka.eu-west-1.shein.com.vn
@@ -995,11 +993,11 @@ canaryf2b2e12275a.13q9da.c2.kafka.ap-southeast-1.shein.com.vn
 qrlante4yh.execute-api.eu-west-2.shein.com.vn
 ec2-34-253-206-254.eu-west-1.compute.shein.com.vn
 vpce-0fbf29b989f729bbf-o2prdq2a.s3.af-south-1.vpce.shein.com.vn
-www.customer.shein.com.vn
-www.kazan.shein.com.vn
+customer.shein.com.vn
+kazan.shein.com.vn
 bucket.vpce-02b28c8e6ca3e8219-x23ji7z9.s3.us-east-1.vpce.shein.com.vn
 us-west-2.shein.com.vn
-www.fis.shein.com.vn
+fis.shein.com.vn
 canaryb1b27a9f8e5.mcam7n.c3.kafka-beta.us-east-1.shein.com.vn
 qa4-automation-jenkins-master-137237622.ap-south-1.elb.shein.com.vn
 i0q1l1.c1.kafka.eu-central-1.shein.com.vn
@@ -1098,7 +1096,7 @@ bucket.vpce-00359be429c92bf66-jbb9ewax.s3.eu-central-2.vpce.shein.com.vn
 canary-a3efec37addf.o9sl8a.c3.kafka.me-south-1.shein.com.vn
 eu-west-2.shein.com.vn
 vpce-0393aa4d735fa9cd5-7y5eucnt-ap-south-1b.s3.ap-south-1.vpce.shein.com.vn
-www.cards.shein.com.vn
+cards.shein.com.vn
 ap-southeast-4.vpce.shein.com.vn
 vpce-svc-0d3c993c4f6cb1c05.eu-west-1.vpce.shein.com.vn
 gr7.eu-west-1.eks.shein.com.vn
@@ -1219,7 +1217,7 @@ ec2-3-248-27-206.eu-west-1.compute.shein.com.vn
 vpce-0d60cd644c382bf9a-ctpj0bbo-us-west-2b.s3.us-west-2.vpce.shein.com.vn
 ec2-100-25-193-247.compute-1.shein.com.vn
 ec2-13-210-154-158.ap-southeast-2.compute.shein.com.vn
-www.rc.shein.com.vn
+rc.shein.com.vn
 ec2-54-173-52-60.compute-1.shein.com.vn
 rps-me-zzlcb4u4zho1.cfbs2b.cfg.use1.cache.shein.com.vn
 vpce-08057cb6f2b4849cb-1ji6ruo9-eu-south-1a.s3.eu-south-1.vpce.shein.com.vn
@@ -1267,7 +1265,6 @@ vpce-049a381b5b04fdb6b-2x855ea6-us-east-1d.s3.us-east-1.vpce.shein.com.vn
 ap-southeast-1.eks.shein.com.vn
 ec2-18-184-115-175.eu-central-1.compute.shein.com.vn
 vpce-0e51b1539adae2d13-pfn2ikzd.s3.ap-southeast-2.vpce.shein.com.vn
-www.elb.shein.com.vn
 www40.shein.com.vn
 awseb-awseb-84dbzx87kmgd-1523862292.us-east-2.elb.shein.com.vn
 vpce-0d232d60d87a697b4-qjod8mkj.s3.ap-northeast-3.vpce.shein.com.vn
@@ -1427,7 +1424,7 @@ ec2-34-209-55-250.us-west-2.compute.shein.com.vn
 execute-api.ap-south-1.shein.com.vn
 es.shein.com.vn
 bucket.vpce-0a22c1563461bde15-6iqs4dgk.s3.us-east-1.vpce.shein.com.vn
-www.mark.shein.com.vn
+mark.shein.com.vn
 vpce-03cdfb6042363c98c-w16w77zg-eu-west-2a.s3.eu-west-2.vpce.shein.com.vn
 d-yb68njcds7.execute-api.us-east-1.shein.com.vn
 a74dd21fb0ba440bf917fbfea2a1f95a-1079570557.us-west-2.elb.shein.com.vn
@@ -1487,7 +1484,6 @@ ec2-18-217-209-132.us-east-2.compute.shein.com.vn
 bucket.vpce-01c593d2165998c23-gcjqixi8-us-gov-west-1b.s3.us-gov-west-1.vpce.shein.com.vn
 sa-east-1.compute.shein.com.vn
 jx3go8cz.s3.us-west-2.vpce.shein.com.vn
-www.piwik.shein.com.vn
 vpce-0bb6c79fba213a877-xhfl5mr4-ap-southeast-3a.s3.ap-southeast-3.vpce.shein.com.vn
 oi3cn8.c1.kafka.us-west-1.shein.com.vn
 mrap.accesspoint.s3-global.shein.com.vn
@@ -1499,8 +1495,8 @@ bucket.vpce-03b65d328df0651c6-0vruqeq7-eu-west-3b.s3.eu-west-3.vpce.shein.com.vn
 vpce-0fe26d73f43fb2f84-59fopiyd-ap-southeast-2b.s3.ap-southeast-2.vpce.shein.com.vn
 ec2-52-18-20-117.eu-west-1.compute.shein.com.vn
 dd6e3c8e12-6929tc5g.s3.us-west-2.vpce.shein.com.vn
-www.25.shein.com.vn
-www.jocuri.shein.com.vn
+25.shein.com.vn
+jocuri.shein.com.vn
 gffg8n.c3.kafka.sa-east-1.shein.com.vn
 ec2-3-225-153-53.compute-1.shein.com.vn
 rewardsapp-554211206.us-east-1.elb.shein.com.vn
@@ -1541,7 +1537,7 @@ udagram.czdw0fvhi9rw.us-east-1.rds.shein.com.vn
 internal-gina-qa-gina-api-private-1849832071.eu-west-1.elb.shein.com.vn
 ec2-3-16-74-38.us-east-2.compute.shein.com.vn
 vpce-01c593d2165998c23-gcjqixi8-us-gov-west-1b.s3.us-gov-west-1.vpce.shein.com.vn
-www.music.shein.com.vn
+music.shein.com.vn
 polaris.shein.com.vn
 eu-north-1.compute.shein.com.vn
 web11.shein.com.vn
@@ -1582,14 +1578,14 @@ bucket.vpce-06723d7118b12ca3e-a2fni6k3-us-east-1d.s3.us-east-1.vpce.shein.com.vn
 sk1.eu-north-1.eks.shein.com.vn
 ec2-52-195-163-32.ap-northeast-1.compute.shein.com.vn
 a3a27e73dfe984b3c87a009dc26562cd-5592984.sa-east-1.elb.shein.com.vn
-www.client.shein.com.vn
+client.shein.com.vn
 vpce-0445c3c00376dd555-lc3yqqth.s3.me-south-1.vpce.shein.com.vn
 devsp-publi-cej8jjmytqcm-1043904884.us-east-1.elb.shein.com.vn
 prod-conjur-alb-1100813766.ap-southeast-2.elb.shein.com.vn
 c2.kafka.ap-northeast-2.shein.com.vn
 canaryb2770f93506.h46otd.c5.kafka.ap-southeast-2.shein.com.vn
 bucket.vpce-0e76877c5de6b61da-gxb1orqk-ap-east-1b.s3.ap-east-1.vpce.shein.com.vn
-www.logo.shein.com.vn
+logo.shein.com.vn
 bucket.vpce-07469dfc3ccfacabe-mwjrvzv6-eu-central-1b.s3.eu-central-1.vpce.shein.com.vn
 bucket.vpce-00fab5ab90f4fbdc4-3d0b556a-eu-central-2a.s3.eu-central-2.vpce.shein.com.vn
 vpce-0737a5a89c764b0c4-99twhdui-eu-west-2c.s3.eu-west-2.vpce.shein.com.vn
@@ -1623,7 +1619,7 @@ bucket.vpce-005c4d6f83e45deab-x8am5ysw-eu-south-1a.s3.eu-south-1.vpce.shein.com.
 ec2-52-196-185-144.ap-northeast-1.compute.shein.com.vn
 webdisk.static.shein.com.vn
 eu-south-1.vpce.shein.com.vn
-www.ffm.shein.com.vn
+ffm.shein.com.vn
 willow.shein.com.vn
 ec2-3-84-214-69.compute-1.shein.com.vn
 canarycef48017c2dc.himrbc.c2.kafka.us-west-1.shein.com.vn
@@ -1719,4 +1715,4 @@ kafka.us-west-2.shein.com.vn
 sierra.shein.com.vn
 ap-northeast-1.shein.com.vn
 bucket.vpce-083f3b6cfa68c78e4-ygkqbmv7-us-east-1a.s3.us-east-1.vpce.shein.com.vn
-www.rus.shein.com.vn
+rus.shein.com.vn

@@ -7,6 +7,3 @@ gratisfabrikken.dev.appfarm.app
 flyyt.appfarm.app
 minimer.appfarm.app
 dev.appfarm.app
-*.test.appfarm.app
-*.dev.appfarm.app
-*.appfarm.app

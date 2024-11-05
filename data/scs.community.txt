@@ -25,13 +25,11 @@ zuul.scs.community
 meet.opendesk.k8s.scs.community
 chat.opendesk.k8s.scs.community
 ftp.scs.community
-www.maschinenraum.scs.community
+maschinenraum.scs.community
 objectstore.opendesk.k8s.scs.community
 matrix.opendesk.k8s.scs.community
-www.scs.community
 wiki.opendesk.k8s.scs.community
 icon.maschinenraum.scs.community
-maschinenraum.scs.community
 kamaji-cluster.kaas-playground1.moin.k8s.scs.community
 matrix-neodatefix-bot.opendesk.k8s.scs.community
 webmail.opendesk.k8s.scs.community

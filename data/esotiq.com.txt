@@ -5,8 +5,8 @@ airflow.esotiq.com
 teamcity.esotiq.com
 franczyza.esotiq.com
 tools.it.esotiq.com
-www.it.esotiq.com
-www.raport.esotiq.com
+it.esotiq.com
+raport.esotiq.com
 jenkins.esotiq.com
 pl.esotiq.com
 formula.esotiq.com
@@ -16,7 +16,6 @@ sftp.esotiq.com
 webmail.esotiq.com
 sklep.esotiq.com
 drupal.esotiq.com
-www.esotiq.com
 poczta.esotiq.com
 newsletter.de.esotiq.com
 beta.esotiq.com
@@ -26,8 +25,6 @@ smtp.esotiq.com
 mydream.esotiq.com
 imap.esotiq.com
 mikolaj.esotiq.com
-www.mydream.esotiq.com
-raport.esotiq.com
 stage.order-picker.azure.esotiq.com
 de.esotiq.com
 mx.esotiq.com

@@ -69,7 +69,6 @@ netmntr.mdialog.com
 support.mdialog.com
 amc-vod.mdialog.com
 m21.mdialog.com
-www.mdialog.com
 logs.mdialog.com
 backup.mdialog.com
 linear-ingest-ntg.mdialog.com
@@ -80,4 +79,3 @@ auth-pr.mdialog.com
 jira.mdialog.com
 manatest.mdialog.com
 vast-preview.mdialog.com
-*.mdialog.com

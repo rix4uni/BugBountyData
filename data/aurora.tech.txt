@@ -725,7 +725,6 @@ batch-api2.common.cloud.aurora.tech
 atlas-index-writer.common.dev.cloud.aurora.tech
 uitoolshed-dev.common.cloud.aurora.tech
 mapping-orchestrator-dev.common.cloud.aurora.tech
-www.aurora.tech
 puppet-exp01-db.dev.cloud.aurora.tech
 kiali.aws-use1-batch-prod06.batch.cloud.aurora.tech
 access.use1-offboard-prod01.ob.cloud.aurora.tech

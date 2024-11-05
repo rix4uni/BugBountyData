@@ -21,7 +21,6 @@ pihole-alt2.ericlagergren.com
 dns1.ericlagergren.com
 metrics.ericlagergren.com
 prometheus.ericlagergren.com
-www.ericlagergren.com
 subnetting.ericlagergren.com
 erx10.ericlagergren.com
 rpi1.ericlagergren.com
@@ -29,4 +28,3 @@ dns2.ericlagergren.com
 gas-prices.ericlagergren.com
 leg-lookup.ericlagergren.com
 chronograf.ericlagergren.com
-*.ericlagergren.com

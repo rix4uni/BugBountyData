@@ -417,7 +417,7 @@ reserved-208-91-170-134.reserved.efrontier.com
 reserved-208-91-171-238.corp.efrontier.com
 reserved-208-91-175-148.efrontier.com
 reserved-208-91-175-42.efrontier.com
-www.de.efrontier.com
+de.efrontier.com
 open-64.scl2.efrontier.com
 reserved-208-91-173-137.eng.efrontier.com
 reserved-208-91-173-9.eng.efrontier.com
@@ -430,7 +430,7 @@ reserved-208-91-171-233.corp.efrontier.com
 reserved-208-91-174-46.reserved.efrontier.com
 reserved-208-91-175-111.efrontier.com
 tc-internal-lon5.efrontier.com
-www.uk.efrontier.com
+uk.efrontier.com
 nagios-ams1.efrontier.com
 smtp-relay.maa.efrontier.com
 reserved-208-91-171-99.corp.efrontier.com
@@ -512,7 +512,6 @@ acm.efrontier.com
 gdpr-na.efrontier.com
 pixel20.ewr.efrontier.com
 reserved.araban-m208-91-173-36.eng.efrontier.com
-uk.efrontier.com
 enterprise2.efrontier.com
 reserved-208-91-175-69.efrontier.com
 reserved-208-91-169-148.reserved.efrontier.com
@@ -689,7 +688,7 @@ enterprise-test.scl2.efrontier.com
 reserved-208-91-170-238.reserved.efrontier.com
 reserved-208-91-168-66.efrontier.com
 reserved-208-91-171-41.corp.efrontier.com
-www.in.efrontier.com
+in.efrontier.com
 gw-00-ge2-0.scl.efrontier.com
 open-81.scl2.efrontier.com
 reserved-208-91-168-123.efrontier.com
@@ -1155,7 +1154,6 @@ reserved-208-91-168-107.efrontier.com
 reserved-208-91-173-66.eng.efrontier.com
 reserved-208-91-174-35.reserved.efrontier.com
 sw-01-vlan921.scl2.efrontier.com
-de.efrontier.com
 reserved-208-91-170-152.reserved.efrontier.com
 netblk-208-91-168-0.efrontier.com
 reserved-208-91-173-7.eng.efrontier.com
@@ -1595,7 +1593,6 @@ reserved-208-91-174-187.reserved.efrontier.com
 reserved-208-91-174-38.reserved.efrontier.com
 dhcp-193.scl2.efrontier.com
 r2.efrontier.com
-in.efrontier.com
 reserved-208-91-175-181.efrontier.com
 reserved-wbe-192-86-154-72.mhrw-170-58.reserved.efrontier.com
 reserved-208-91-175-145.efrontier.com
@@ -1717,7 +1714,6 @@ reserved-208-91-168-20.efrontier.com
 reserved-208-91-168-37.efrontier.com
 reserved-208-91-169-99.reserved.efrontier.com
 reserved-208-91-170-244.reserved.efrontier.com
-www.fr.efrontier.com
 reserved-208-91-168-100.efrontier.com
 reserved-208-91-170-203.reserved.efrontier.com
 reserved-208-91-170-47.reserved.efrontier.com
@@ -1757,7 +1753,6 @@ nagios-lon5.efrontier.com
 reserved-208-91-173-15.eng.efrontier.com
 reserved-208-91-173-56.eng.efrontier.com
 reserved-208-91-174-80.reserved.efrontier.com
-www.efrontier.com
 reserved-208-91-168-160.efrontier.com
 reserved-208-91-171-158.corp.efrontier.com
 reserved-208-91-171-222.corp.efrontier.com

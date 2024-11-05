@@ -4,7 +4,6 @@ academy-content.dataiku.com
 rkqasvkj.i.cloud.dataiku.com
 community.dataiku.com
 ebsin9st.i.cloud.dataiku.com
-www.dataiku.com
 yctctbdh.i.cloud.dataiku.com
 answers.dataiku.com
 lyw23ygn.i.cloud.dataiku.com
@@ -29,9 +28,8 @@ api.par.preprod.aiservices.dataiku.com
 academy.dataiku.com
 yldvn2e2.i.cloud.dataiku.com
 21ktnzlp.i.cloud.dataiku.com
-*.dataiku.com
 launchpad-og.dev1.getitstarted.dataiku.com
 gis-test-1-alb.dev1.getitstarted.dataiku.com
-*.gis-test-1.dev1.getitstarted.dataiku.com
+gis-test-1.dev1.getitstarted.dataiku.com
 launchpad-test.dev1.getitstarted.dataiku.com
 launchpad-ephemeral.dev1.getitstarted.dataiku.com

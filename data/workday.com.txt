@@ -332,8 +332,7 @@ wd5-perf-identity.workday.com
 wd5-perf-services1.workday.com
 wd5-perf.workday.com
 wd5-toa.workday.com
-www.mktg.workday.com
-www.workday.com
+mktg.workday.com
 xtmbridge-dev.ct.workday.com
 accounts.workday.com
 adaptive-content.ct.workday.com
@@ -423,7 +422,6 @@ linen-prod.id.workday.com
 linen.id.workday.com
 memoq-pre.workday.com
 memoq.workday.com
-mktg.workday.com
 mlci.mlde.workday.com
 mlciprod.mlde.workday.com
 models-devtest.mlde.workday.com
@@ -492,7 +490,5 @@ wcp.workday.com
 wd10.workday.com
 workdaycustomercenter-dev.workday.com
 workdaycustomercenter.workday.com
-www.benefits.workday.com
-www.community.workday.com
 xtm-pre.workday.com
 xtm.workday.com

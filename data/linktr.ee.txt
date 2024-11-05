@@ -134,9 +134,6 @@ vadim.qa.linktr.ee
 vidcompressor-destination.production.linktr.ee
 vidcompressor-destination.qa.linktr.ee
 website.production.linktr.ee
-www.blog.linktr.ee
-www.linktr.ee
-www.qa.linktr.ee
 ablink.ae.linktr.ee
 ablink.ma.linktr.ee
 account.develop.linktr.ee
@@ -467,10 +464,6 @@ website-temp.qa.linktr.ee
 website.linktr.ee
 website.qa.linktr.ee
 websiteqa.linktr.ee
-www.green.qa.linktr.ee
-www.jobs.linktr.ee
-www.metabase.linktr.ee
-www.qa.blog.linktr.ee
 ugc.production.linktr.ee
 eb.production.linktr.ee
 edge.website.production.linktr.ee
@@ -500,7 +493,7 @@ gatsbyigniter-dev.qa.linktr.ee
 application.monolith.linktr.ee
 ciam.linktr.ee
 ssr.qa.linktr.ee
-www.beta.linktr.ee
+beta.linktr.ee
 edge.nv-profiles.qa.linktr.ee
 graph.recovery-production.linktr.ee
 public.ltauth.production.linktr.ee
@@ -521,7 +514,6 @@ edge.static-profiles.production.linktr.ee
 edge.nv-profiles.production.linktr.ee
 edge.website.qa.linktr.ee
 recovery.ecs.profiles.recovery-production.linktr.ee
-beta.linktr.ee
 linkiq.qa.linktr.ee
 data-labelling.qa.linktr.ee
 creator-report-23.qa.linktr.ee
@@ -574,6 +566,3 @@ brand-portal-origin.qa.linktr.ee
 merch.linktr.ee
 business-origin.qa.linktr.ee
 brand-portal-origin.production.linktr.ee
-*.users.linktr.ee
-*.qa.enrichments.linktr.ee
-*.enrichments.linktr.ee

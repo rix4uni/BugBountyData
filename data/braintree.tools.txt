@@ -1,12 +1,11 @@
-*.ap-southeast-2.cpair.dev.braintree.tools
-*.cpair.dev.braintree.tools
-*.eu-central-1.cpair.dev.braintree.tools
-*.us-east-1.cpair.dev.braintree.tools
-*.us-east-2.cpair.dev.braintree.tools
-*.us-west-1.cpair.dev.braintree.tools
-*.us-west-2.cpair.dev.braintree.tools
-29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 ap-southeast-2.cpair.dev.braintree.tools
+cpair.dev.braintree.tools
+eu-central-1.cpair.dev.braintree.tools
+us-east-1.cpair.dev.braintree.tools
+us-east-2.cpair.dev.braintree.tools
+us-west-1.cpair.dev.braintree.tools
+us-west-2.cpair.dev.braintree.tools
+29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 application-inventory.braintree.tools
 artifactory-dev.braintree.tools
 bazaar.braintree.tools
@@ -25,7 +24,6 @@ cidevtools.braintree.tools
 circleci.braintree.tools
 confluence-test.braintree.tools
 cpair.braintree.tools
-cpair.dev.braintree.tools
 data-airflow.braintree.tools
 data-airflow-flower.braintree.tools
 data-airflow-flower.sand.braintree.tools
@@ -40,7 +38,6 @@ docker.artifactory-dev.braintree.tools
 dockerhub.braintree.tools
 drake-lyrics.braintree.tools
 environmentalist.braintree.tools
-eu-central-1.cpair.dev.braintree.tools
 event-sink-prod.braintree.tools
 event-sink-qa.braintree.tools
 event-sink-sand.braintree.tools
@@ -143,14 +140,9 @@ stq.braintree.tools
 toby.braintree.tools
 tugboat.braintree.tools
 tugboat.sand.braintree.tools
-us-east-1.cpair.dev.braintree.tools
 us-east-1.dev.braintree.tools
-us-east-2.cpair.dev.braintree.tools
-us-west-1.cpair.dev.braintree.tools
-us-west-2.cpair.dev.braintree.tools
 webmail.au.us-east-1.cpair.dev.braintree.tools
 webmail.ec.us-east-1.cpair.dev.braintree.tools
-www.dockerhub.braintree.tools
 -rican.ap-southeast-2.cpair.dev.29bghadministrators.lufcrestricted.us-east-1.cpair.dev.braintree.tools
 lufc.api-docs.us-east-1.cpair.dev.braintree.tools
 phpcpair.dev-jasmine-715.ap-southeast-2.cpair.rawdev.ap-southeast-2.cpair.dev.braintree.tools
@@ -163,7 +155,6 @@ nautilus-au.us-east-1.cpair.dev.lufc.us-east-2.cpair.dev.braintree.tools
 us-east-1.cpair.dev.au.us-east-2.cpair.dev.braintree.tools
 00000000qi-12730.-5.ap-southeast-2.cpair.dev.braintree.tools
 dev.us-east-1.cpair.dev.au.us-east-2.cpair.dev.braintree.tools
-www.braintree.tools
 cpair.dev.lufc.us-east-2.0-0360cmh198cpair.dev-tomcat-58853-24752.ap-southeast-2.cpair.dev.00311788.0-degrees000112233.ap-southeast-2.cpair.dev.braintree.tools
 cpair.rawdev.ap-southeast-2.cpair.dev.braintree.tools
 graphite.sand.us-east-1.cpair.dev.au.us-east-2.cpair.dev.braintree.tools
@@ -640,7 +631,7 @@ dfafc385a01e.pcmsds.us-west-1.cpair.dev.braintree.tools
 astrobhadauria6888.au.us-east-1.cpair.dev.braintree.tools
 entrades.au.us-east-1.cpair.dev.braintree.tools
 session-07837.au.us-east-1.cpair.dev.braintree.tools
-www.skjh.us-east-2.cpair.dev.braintree.tools
+skjh.us-east-2.cpair.dev.braintree.tools
 gyo4161.blog.us-east-2.cpair.dev.braintree.tools
 lync4-eu6.us-east-2.cpair.dev.braintree.tools
 tripmaker.au.us-east-1.cpair.dev.braintree.tools
@@ -699,7 +690,7 @@ putrajunio.us-east-2.cpair.dev.braintree.tools
 mail1.uk.us-east-1.cpair.dev.braintree.tools
 paintertainment.au.us-east-1.cpair.dev.braintree.tools
 csg-est-3422.csgwebmail.ec.us-east-1.cpair.dev.braintree.tools
-www.rawa-mazowiecka.au.us-east-1.cpair.dev.braintree.tools
+rawa-mazowiecka.au.us-east-1.cpair.dev.braintree.tools
 power8g529bgh.lufc.us-east-1.cpair.dev.braintree.tools
 xn----ctbjbobhg4cmbl8a.us-east-2.cpair.dev.braintree.tools
 thereafter.us-east-2.cpair.dev.braintree.tools
@@ -715,7 +706,7 @@ ppls-y2lab-046.ppls.webmail.ec.us-east-1.cpair.dev.braintree.tools
 web22309bgh.lufc.us-east-1.cpair.dev.braintree.tools
 presd07.us-east-2.cpair.dev.braintree.tools
 expe4712.us-east-2.cpair.dev.braintree.tools
-www.alnd.au.us-east-1.cpair.dev.braintree.tools
+alnd.au.us-east-1.cpair.dev.braintree.tools
 csg-est-4079.csgwebmail.ec.us-east-1.cpair.dev.braintree.tools
 remke.ap-southeast-2.cpair.dev.braintree.tools
 hiti.au.us-east-1.cpair.dev.braintree.tools
@@ -729,7 +720,7 @@ sched.au.us-east-1.cpair.dev.braintree.tools
 web54931onfluence.ahc.us-east-1.cpair.dev.braintree.tools
 custom.search.au.us-east-1.cpair.dev.braintree.tools
 minionone.eu-central-1.cpair.dev.braintree.tools
-www.santosepulcro.au.us-east-1.cpair.dev.braintree.tools
+santosepulcro.au.us-east-1.cpair.dev.braintree.tools
 gd2486.us-east-2.cpair.dev.braintree.tools
 racing1380.au.us-east-1.cpair.dev.braintree.tools
 kubernete-api.us-east-2.cpair.dev.braintree.tools
@@ -757,11 +748,11 @@ fs-usw2-k-079.au.us-east-1.cpair.dev.braintree.tools
 lucianefernandez.us-east-1.cpair.dev.braintree.tools
 web0453.us-east-1.cpair.dev.braintree.tools
 au.reg.ap-southeast-2.cpair.dev.braintree.tools
-www.aise.ics.us-east-1.cpair.dev.braintree.tools
+aise.ics.us-east-1.cpair.dev.braintree.tools
 members.ab.au.us-east-1.cpair.dev.braintree.tools
-www.ciaf.au.us-east-1.cpair.dev.braintree.tools
+ciaf.au.us-east-1.cpair.dev.braintree.tools
 admin.dealer.us-east-1.cpair.dev.braintree.tools
-www.replay.29bgh.lufc.us-east-1.cpair.dev.braintree.tools
+replay.29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 gensen-sb.us-east-2.cpair.dev.braintree.tools
 fs-usw2-t-606.au.us-east-1.cpair.dev.braintree.tools
 mfe.dps.state.us-east-1.cpair.dev.braintree.tools
@@ -864,7 +855,7 @@ modiot-ci-prod-webclient.us-east-2.cpair.dev.braintree.tools
 cafe224.au.us-east-1.cpair.dev.braintree.tools
 powerman7749.au.us-east-1.cpair.dev.braintree.tools
 i8250.nova.us-east-1.cpair.dev.braintree.tools
-www.moduloacademico.us-east-1.cpair.dev.braintree.tools
+moduloacademico.us-east-1.cpair.dev.braintree.tools
 powerman5242.au.us-east-1.cpair.dev.braintree.tools
 camdendepot.us-east-2.cpair.dev.braintree.tools
 stepack.us-east-2.cpair.dev.braintree.tools
@@ -972,7 +963,7 @@ fs-usw2-m-561.us-east-2.cpair.dev.braintree.tools
 mizu0575.blog.us-east-2.cpair.dev.braintree.tools
 morenvy026ptnebmail.au.us-east-1.cpair.dev.braintree.tools
 knx4560.us-east-2.cpair.dev.braintree.tools
-www.webcams-dir.centre-est.us-east-2.cpair.dev.braintree.tools
+webcams-dir.centre-est.us-east-2.cpair.dev.braintree.tools
 advancestroi.au.us-east-1.cpair.dev.braintree.tools
 grogrogro.x.au.us-east-1.cpair.dev.braintree.tools
 papago1699.au.us-east-1.cpair.dev.braintree.tools
@@ -1036,7 +1027,7 @@ river9382.us-east-2.cpair.dev.braintree.tools
 cadence-staging-dca.au.us-east-1.cpair.dev.braintree.tools
 62115.us-east-2.cpair.dev.braintree.tools
 impact01.au.us-east-1.cpair.dev.braintree.tools
-www.arcadeebmail.au.us-east-1.cpair.dev.braintree.tools
+arcadeebmail.au.us-east-1.cpair.dev.braintree.tools
 tampangmesum.us-east-2.cpair.dev.braintree.tools
 river3383.us-east-2.cpair.dev.braintree.tools
 www7010ebmail.au.us-east-1.cpair.dev.braintree.tools
@@ -1058,7 +1049,7 @@ ajf2.au.us-east-1.cpair.dev.braintree.tools
 cs7212v4.us-east-2.cpair.dev.braintree.tools
 otchet.us-east-1.cpair.dev.braintree.tools
 fisher.au.us-east-1.cpair.dev.braintree.tools
-www.sanagenorin-h.au.us-east-1.cpair.dev.braintree.tools
+sanagenorin-h.au.us-east-1.cpair.dev.braintree.tools
 dzen.us-east-2.cpair.dev.braintree.tools
 tscwebmail.au.us-east-1.cpair.dev.braintree.tools
 id.closersonline.au.us-east-1.cpair.dev.braintree.tools
@@ -1073,7 +1064,7 @@ kumi4344.blog.au.us-east-1.cpair.dev.braintree.tools
 sch8419u.us-east-2.cpair.dev.braintree.tools
 chattypink.au.us-east-1.cpair.dev.braintree.tools
 startyoutube.au.us-east-1.cpair.dev.braintree.tools
-www.experts.us-east-1.cpair.dev.braintree.tools
+experts.us-east-1.cpair.dev.braintree.tools
 gike1-kumpulansex.us-east-2.cpair.dev.braintree.tools
 buyer-frontend-beta.au.us-east-1.cpair.dev.braintree.tools
 sas-alumni-5285.sasg.us-west-2.cpair.dev.braintree.tools
@@ -1162,7 +1153,7 @@ web10162-webmail.ec.us-east-1.cpair.dev.braintree.tools
 a5449.au.us-east-1.cpair.dev.braintree.tools
 60655.us-east-2.cpair.dev.braintree.tools
 musollahsg.us-east-2.cpair.dev.braintree.tools
-www.hey.au.us-east-1.cpair.dev.braintree.tools
+hey.au.us-east-1.cpair.dev.braintree.tools
 batchmid-a.us-east-2.cpair.dev.braintree.tools
 peck3451.us-east-2.cpair.dev.braintree.tools
 einkaufsportal.au.us-east-1.cpair.dev.braintree.tools
@@ -1175,8 +1166,8 @@ manifest-us-west-2.au.us-east-1.cpair.dev.braintree.tools
 vhs3193.webmail.au.us-east-1.cpair.dev.braintree.tools
 letsweb.us-east-2.cpair.dev.braintree.tools
 severoroth.web0122.us-east-2.cpair.dev.braintree.tools
-www.slask.us-east-2.cpair.dev.braintree.tools
-www.iwmi.us-east-1.cpair.dev.braintree.tools
+slask.us-east-2.cpair.dev.braintree.tools
+iwmi.us-east-1.cpair.dev.braintree.tools
 a3667c.au.us-east-1.cpair.dev.braintree.tools
 sas-dis-7812.sasg.lufc.us-east-1.cpair.dev.braintree.tools
 belfirst.au.us-east-1.cpair.dev.braintree.tools
@@ -1221,7 +1212,7 @@ manumissio.us-east-2.cpair.dev.braintree.tools
 s58299tmpstptn.us-east-2.cpair.dev.braintree.tools
 kuokevin8998.au.us-east-1.cpair.dev.braintree.tools
 console-beta.au.us-east-1.cpair.dev.braintree.tools
-www.labs.chem-eng.us-east-2.cpair.dev.braintree.tools
+labs.chem-eng.us-east-2.cpair.dev.braintree.tools
 de-si1.au.us-east-1.cpair.dev.braintree.tools
 supercarwebmail.au.us-east-1.cpair.dev.braintree.tools
 expe9432.au.us-west-1.cpair.dev.braintree.tools
@@ -1273,7 +1264,7 @@ web13612.confluence.ahc.us-east-1.cpair.dev.braintree.tools
 animalsn.ap-southeast-2.cpair.dev.braintree.tools
 channeltv-7319-staging2.au.us-east-1.cpair.dev.braintree.tools
 ckhu7167.au.us-east-1.cpair.dev.braintree.tools
-www.rover.webmail.ec.us-east-1.cpair.dev.braintree.tools
+rover.webmail.ec.us-east-1.cpair.dev.braintree.tools
 asaka-shiki-niiza-wako.ap-southeast-2.cpair.dev.braintree.tools
 moderndrama.supermonk.au.us-east-1.cpair.dev.braintree.tools
 postres.us-east-2.cpair.dev.braintree.tools
@@ -1286,7 +1277,7 @@ washingtoncounty.eu-central-1.cpair.dev.braintree.tools
 sidgi.us-east-2.cpair.dev.braintree.tools
 yunteam6975.au.us-east-1.cpair.dev.braintree.tools
 dra-proxy-prod.au.us-east-1.cpair.dev.braintree.tools
-www.sanliurfa.au.us-east-1.cpair.dev.braintree.tools
+sanliurfa.au.us-east-1.cpair.dev.braintree.tools
 jinglebin.au.us-east-1.cpair.dev.braintree.tools
 fra739.au.us-east-1.cpair.dev.braintree.tools
 metricsatt.us-east-2.cpair.dev.braintree.tools
@@ -1306,7 +1297,7 @@ sq281bgh.lufc.us-east-1.cpair.dev.braintree.tools
 yocastas.au.us-east-1.cpair.dev.braintree.tools
 web12268-hoghoghfarda.us-east-2.cpair.dev.braintree.tools
 b04683.us-east-2.cpair.dev.braintree.tools
-www.firey.users-webmail.au.us-east-1.cpair.dev.braintree.tools
+firey.users-webmail.au.us-east-1.cpair.dev.braintree.tools
 le-cercle-psy.au.us-east-1.cpair.dev.braintree.tools
 hotstar-tv-movies-live-cricket.en.us-east-2.cpair.dev.braintree.tools
 utssi.c.au.us-east-1.cpair.dev.braintree.tools
@@ -1506,7 +1497,7 @@ i3886.au.us-east-1.cpair.dev.braintree.tools
 reumamici.us-east-2.cpair.dev.braintree.tools
 ranchomiragelibrary.us-east-2.cpair.dev.braintree.tools
 marcello.confluence.eits.us-east-1.cpair.dev.braintree.tools
-www.atendimento-29bgh.lufc.us-east-1.cpair.dev.braintree.tools
+atendimento-29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 sct-webmail.ec.us-east-1.cpair.dev.braintree.tools
 company.us-east-2.cpair.dev.braintree.tools
 progressfile.au.us-east-1.cpair.dev.braintree.tools
@@ -1568,7 +1559,7 @@ silvi.us-east-2.cpair.dev.braintree.tools
 web11211.us-east-2.cpair.dev.braintree.tools
 speedsoftonfluence.ahc.us-east-1.cpair.dev.braintree.tools
 j0r990kvh6kvvj.mk.us-east-1.cpair.dev.braintree.tools
-www.gryphonusa.us-east-2.cpair.dev.braintree.tools
+gryphonusa.us-east-2.cpair.dev.braintree.tools
 i2752.nova.us-east-1.cpair.dev.braintree.tools
 tsuriguide.blog.us-east-2.cpair.dev.braintree.tools
 careers-adventurenannies.au.us-east-1.cpair.dev.braintree.tools
@@ -1616,7 +1607,7 @@ autodiscover.update.29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 pr-3862.us-east-2.cpair.dev.braintree.tools
 datateca.us-east-1.cpair.dev.braintree.tools
 kyb7896webmail.au.us-east-1.cpair.dev.braintree.tools
-www.ceonline.qa.us-east-1.cpair.dev.braintree.tools
+ceonline.qa.us-east-1.cpair.dev.braintree.tools
 hca-mac495.shcaebmail.au.us-east-1.cpair.dev.braintree.tools
 8e.forces.us-east-1.cpair.dev.braintree.tools
 pengetahuanjitu.ap-southeast-2.cpair.dev.braintree.tools
@@ -1641,7 +1632,7 @@ sdalkjaslkjg6080jg.us-east-2.cpair.dev.braintree.tools
 norse.us-east-2.cpair.dev.braintree.tools
 khymem.us-east-2.cpair.dev.braintree.tools
 aaronschmit.au.us-east-1.cpair.dev.braintree.tools
-www.therejectswebmail.au.us-east-1.cpair.dev.braintree.tools
+therejectswebmail.au.us-east-1.cpair.dev.braintree.tools
 cmm.au.ap-southeast-2.cpair.dev.braintree.tools
 ringtunes.us-east-2.cpair.dev.braintree.tools
 mylink.us-east-1.cpair.dev.braintree.tools
@@ -1740,7 +1731,7 @@ vpn-sa.au.us-east-1.cpair.dev.braintree.tools
 revol4134.us-east-2.cpair.dev.braintree.tools
 lightworks.au.us-east-1.cpair.dev.braintree.tools
 i4380.nova.us-east-1.cpair.dev.braintree.tools
-www.documents.confluence.lufc.us-east-1.cpair.dev.braintree.tools
+documents.confluence.lufc.us-east-1.cpair.dev.braintree.tools
 227-36-219stage.ap-southeast-2.cpair.dev.braintree.tools
 vadim70704.us-east-2.cpair.dev.braintree.tools
 utpublish.us-east-2.cpair.dev.braintree.tools
@@ -1800,7 +1791,7 @@ secureqa.fordvehiclesus.us-west-2.cpair.dev.braintree.tools
 atp-bgcheck-prz.us-east-2.cpair.dev.braintree.tools
 log-de.au.us-east-1.cpair.dev.braintree.tools
 irwanariadi31-us.ap-southeast-2.cpair.dev.braintree.tools
-www.adabis.us-east-1.cpair.dev.braintree.tools
+adabis.us-east-1.cpair.dev.braintree.tools
 img0316.us-east-2.cpair.dev.braintree.tools
 oniku-xsrvjp.29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 facturaluz2.us-east-1.cpair.dev.braintree.tools
@@ -1828,7 +1819,7 @@ sas-alumni-9950.sasg.us-west-2.cpair.dev.braintree.tools
 dfafc385a01e.lfs.stage.eu-central-1.cpair.dev.braintree.tools
 aoweila5082.us-east-2.cpair.dev.braintree.tools
 nagomiisi.au.us-east-1.cpair.dev.braintree.tools
-www.dga.us-east-2.cpair.dev.braintree.tools
+dga.us-east-2.cpair.dev.braintree.tools
 daletoutouzhujiqiao9bgh.lufc.us-east-1.cpair.dev.braintree.tools
 img9019.us-east-2.cpair.dev.braintree.tools
 bhuvan2.au.us-east-1.cpair.dev.braintree.tools
@@ -2037,7 +2028,7 @@ bniagf0x.siteal.iipe.us-east-1.cpair.dev.braintree.tools
 collegeroosters.us-west-1.cpair.dev.braintree.tools
 jeff7693.us-east-2.cpair.dev.braintree.tools
 albergoeremita.us-east-2.cpair.dev.braintree.tools
-www.nspo.au.us-east-1.cpair.dev.braintree.tools
+nspo.au.us-east-1.cpair.dev.braintree.tools
 8d8a.au.us-east-1.cpair.dev.braintree.tools
 8qvit.citytech.us-east-2.cpair.dev.braintree.tools
 foof-auth-devent-filiatest-devdatest-development-filiatest-cn.databases-identity9bgh.lufc.us-east-1.cpair.dev.braintree.tools
@@ -2064,7 +2055,7 @@ italkero.us-east-2.cpair.dev.braintree.tools
 spiritualpomocnik.us-east-2.cpair.dev.braintree.tools
 inforhus.us-east-2.cpair.dev.braintree.tools
 shortficej.us-east-2.cpair.dev.braintree.tools
-www.apple.29bgh.lufc.us-east-1.cpair.dev.braintree.tools
+apple.29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 edolo00620.au.us-east-1.cpair.dev.braintree.tools
 ksy7681.eu-central-1.cpair.dev.braintree.tools
 tanci.us-east-2.cpair.dev.braintree.tools
@@ -2114,7 +2105,7 @@ thetacostandtaqueria.us-east-1.cpair.dev.braintree.tools
 kejenchang4912.au.us-east-1.cpair.dev.braintree.tools
 maoting4075.us-east-2.cpair.dev.braintree.tools
 ef9411t.cto.us-east-1.cpair.dev.braintree.tools
-www.charm.us-east-2.cpair.dev.braintree.tools
+charm.us-east-2.cpair.dev.braintree.tools
 blksma.us-east-2.cpair.dev.braintree.tools
 sony227confluence.lufc.us-east-1.cpair.dev.braintree.tools
 mail.biz-29bgh.lufc.us-east-1.cpair.dev.braintree.tools
@@ -2231,7 +2222,7 @@ smlove1hatachi-xsrvjpebmail.ec.us-east-1.cpair.dev.braintree.tools
 cordata.us-east-2.cpair.dev.braintree.tools
 a2142c.au.us-east-1.cpair.dev.braintree.tools
 shoujizuqiubifenwangzhiingsquest.au.us-east-1.cpair.dev.braintree.tools
-www.xat29bgh.lufc.us-east-1.cpair.dev.braintree.tools
+xat29bgh.lufc.us-east-1.cpair.dev.braintree.tools
 assistenza.business.us-east-2.cpair.dev.braintree.tools
 s1739a-webmail.ec.us-east-1.cpair.dev.braintree.tools
 gd2collection.us-east-2.cpair.dev.braintree.tools
@@ -2269,9 +2260,9 @@ viajes-canje-puntos.us-east-2.cpair.dev.braintree.tools
 godomall-067webmail.au.us-east-1.cpair.dev.braintree.tools
 dragonstrategy.us-east-2.cpair.dev.braintree.tools
 psrnt20211us.au.us-east-1.cpair.dev.braintree.tools
-www.mddefp.au.us-east-1.cpair.dev.braintree.tools
+mddefp.au.us-east-1.cpair.dev.braintree.tools
 cluster-testing.au.us-east-1.cpair.dev.braintree.tools
-www.cursoslivres.us-east-2.cpair.dev.braintree.tools
+cursoslivres.us-east-2.cpair.dev.braintree.tools
 mewc4598.au.us-east-1.cpair.dev.braintree.tools
 sfutility-2895.us-east-2.cpair.dev.braintree.tools
 vl504.us-east-2.cpair.dev.braintree.tools
@@ -2289,7 +2280,7 @@ any-finance-yql.us-west-2.cpair.dev.braintree.tools
 modernisethemes.au.us-east-1.cpair.dev.braintree.tools
 vlu.us-east-2.cpair.dev.braintree.tools
 plastiksanat.au.us-east-1.cpair.dev.braintree.tools
-www.trang.us-east-1.cpair.dev.braintree.tools
+trang.us-east-1.cpair.dev.braintree.tools
 web5682onfluence.lufc.us-east-1.cpair.dev.braintree.tools
 origin-octoshape.au.us-east-1.cpair.dev.braintree.tools
 candy0633.us-east-1.cpair.dev.braintree.tools
@@ -2486,7 +2477,7 @@ yakov.au.us-east-1.cpair.dev.braintree.tools
 santai2828.au.us-east-1.cpair.dev.braintree.tools
 sintoniasaudenatural.us-east-2.cpair.dev.braintree.tools
 iwasamari.us-east-2.cpair.dev.braintree.tools
-www.ghewebmail.au.us-east-1.cpair.dev.braintree.tools
+ghewebmail.au.us-east-1.cpair.dev.braintree.tools
 www6234ebmail.au.us-east-1.cpair.dev.braintree.tools
 arlostreaming2344.us-east-2.cpair.dev.braintree.tools
 iventex.us-east-2.cpair.dev.braintree.tools

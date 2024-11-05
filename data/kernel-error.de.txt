@@ -12,11 +12,9 @@ bsd02.kernel-error.de
 imap.kernel-error.de
 sha256.kernel-error.de
 _tcp.smtp.kernel-error.de
-www.kernel-error.de
 dns.kernel-error.de
 bilder.kernel-error.de
 bsd01-old.kernel-error.de
 service.kernel-error.de
-www.sha256.kernel-error.de
 smtp.kernel-error.de
 mta-sts.kernel-error.de

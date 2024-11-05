@@ -6,7 +6,6 @@ docs.manywho.com
 img.mail.manywho.com
 cdn.manywho.com
 jira.manywho.com
-www.manywho.com
 cpanel.developers.manywho.com
 0.manywho.com
 vpn.manywho.com
@@ -37,7 +36,7 @@ flow-multi-region-test-do-not-give-to-customers.manywho.com
 apidocs.manywho.com
 staging.manywho.com
 realtime.manywho.com
-www.developers.manywho.com
+developers.manywho.com
 docs-testing.manywho.com
 services-staging-us.manywho.com
 stgdevelopers-old.manywho.com
@@ -48,7 +47,6 @@ flow-ca.manywho.com
 webdisk.developers.manywho.com
 deveigoogledrivers.manywho.com
 flow-gb.manywho.com
-developers.manywho.com
 alphaers.manywho.com
 status.manywho.com
 rehost-staging-proxy-services.manywho.com
@@ -61,5 +59,3 @@ services-staging.manywho.com
 nextgen.manywho.com
 collaboration.uat.manywho.com
 piwik.manywho.com
-www.cdn.manywho.com
-www.support.manywho.com

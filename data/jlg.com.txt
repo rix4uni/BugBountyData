@@ -1,7 +1,5 @@
 onlineexpress-t.jlg.com
-*.onlineexpress-t.jlg.com
 onlineexpress-beta.jlg.com
-*.onlineexpress-beta.jlg.com
 beta.jlg.com
 electrictelehandler.jlg.com
 onlineexpress-d.jlg.com
@@ -23,7 +21,6 @@ auth.jlg.com
 5771f431.staging.cf.auth-v.jlg.com
 skytrak.jlg.com
 link.clearsky.jlg.com
-www.jlg.com
 enews.jlg.com
 verticallifts.jlg.com
 csapps.jlg.com
@@ -48,4 +45,3 @@ media.jlg.com
 apis-t.jlg.com
 jobs.jlg.com
 apps.jlg.com
-*.onlineexpress-d.jlg.com

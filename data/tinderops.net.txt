@@ -1,10 +1,10 @@
-*.as1.tinderops.net
-*.eck.ue1az.tinderops.net
-*.prodv2.k8s.tinderops.net
-*.security.k8s.tinderops.net
-*.ue1.tinderops.net
-*.ue1az.tinderops.net
-*.uw2.tinderops.net
+as1.tinderops.net
+eck.ue1az.tinderops.net
+prodv2.k8s.tinderops.net
+security.k8s.tinderops.net
+ue1.tinderops.net
+ue1az.tinderops.net
+uw2.tinderops.net
 acm-test.ops.tinderops.net
 airflow-prod.datadev1.tinderops.net
 airflow-staging.datadev1.tinderops.net
@@ -21,7 +21,6 @@ api.staging.k8s.tinderops.net
 apisecondary.prodv2-c.k8s.tinderops.net
 aqua.staging7.k8s.tinderops.net
 archive.prometheus.tinderops.net
-as1.tinderops.net
 auth.prometheus.tinderops.net
 auth.staging.k8s.tinderops.net
 axonius.security.k8s.tinderops.net
@@ -273,7 +272,6 @@ prod-higgsdb.datadev1.tinderops.net
 prod-qt-alb.ue1az.tinderops.net
 prod-redis.datadev1.tinderops.net
 prod.datadev1.tinderops.net
-prodv2.k8s.tinderops.net
 prometheus-archive.prodv2.k8s.tinderops.net
 prometheus-archive.staging.k8s.tinderops.net
 puppet.prodv2.k8s.tinderops.net
@@ -301,7 +299,6 @@ rundeck-reporting-db.ue1.tinderops.net
 rundeck-reporting.ue1.tinderops.net
 rundeck.datadev1.tinderops.net
 security.jenkins.ci.tinderops.net
-security.k8s.tinderops.net
 sm.datadev1.tinderops.net
 spinnaker.tinderops.net
 spinnaker.ue1az.tinderops.net
@@ -343,12 +340,9 @@ temporalweb.ue1az.tinderops.net
 test-clb.ops.tinderops.net
 test.ops.tinderops.net
 tindersecurityops.tinderops.net
-ue1.tinderops.net
-ue1az.tinderops.net
 ue1new.tinderops.net
 updates.prometheus.tinderops.net
 user-service.prometheus.tinderops.net
-uw2.tinderops.net
 vault.as1.tinderops.net
 vault.ase1.tinderops.net
 vault.ec1.tinderops.net
@@ -411,11 +405,9 @@ idx1.security.k8s.tinderops.net
 splunk-dep.security.k8s.tinderops.net
 splunk-idx.security.k8s.tinderops.net
 teleport-proxy.prodv2.k8s.tinderops.net
-eck.ue1az.tinderops.net
 hnengagements.ue1az.tinderops.net
 ftp1-nmlinfraapplication.ue1az.tinderops.net
 gspinnaker-infra-c.ue1az.tinderops.net
-www.tinderops.net
 k8s.tinderops.net
 ml.ue1az.tinderops.net
 ylabsod-qt.ue1az.tinderops.net

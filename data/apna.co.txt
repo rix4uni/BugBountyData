@@ -1,8 +1,7 @@
-*.apna.co
-*.infra.apna.co
-*.kinstablog.apna.co
-*.production.infra.apna.co
-*.tools.infra.apna.co
+infra.apna.co
+kinstablog.apna.co
+production.infra.apna.co
+tools.infra.apna.co
 access.preprod.infra.apna.co
 achievers.apna.co
 aicte-career-portal.apna.co
@@ -152,7 +151,6 @@ grpc-v2.production.infra.apna.co
 grpc.production.infra.apna.co
 i2a-preprod.infra.apna.co
 identity.apna.co
-infra.apna.co
 insight-weigted.staging.infra.apna.co
 international.apna.co
 jenkins.infra.apna.co
@@ -202,7 +200,6 @@ kb-seclogs-production01.infra.apna.co
 kb-ups-test-development01.infra.apna.co
 kb-vijay-launch-001-production01.infra.apna.co
 kb-wazuh-apnatime-production01.infra.apna.co
-kinstablog.apna.co
 kong-admin.prod.infra.apna.co
 kong-admin.staging.infra.apna.co
 l.apna.co
@@ -235,7 +232,6 @@ pritunl.infra.apna.co
 prod-reblaze.apna.co
 prod-reblaze.infra.apna.co
 production.apna.co
-production.infra.apna.co
 prom-dash.infra.apna.co
 prometheus.infra.apna.co
 prometheus.staging.infra.apna.co
@@ -283,9 +279,3 @@ wazuh.workers.infra.apna.co
 webdisk.apna.co
 webmail.apna.co
 website-test.apna.co
-www.apna.co
-www.achievers.apna.co
-www.canary-microservices.staging.infra.apna.co
-www.chiefonboarding.infra.apna.co
-www.percona.infra.apna.co
-www.sonarqube.infra.apna.co

@@ -5,7 +5,6 @@ dns01.ekt.ch
 ekt-49-137.ekt.ch
 sync.ekt.ch
 gate11.ekt.ch
-www.ekt.ch
 login.ekt.ch
 naturstrom.ekt.ch
 vpn01.ekt.ch
@@ -23,7 +22,6 @@ ftp.ekt.ch
 gate05.ekt.ch
 gate07.ekt.ch
 newsletter.ekt.ch
-*.ekt.ch
 autodiscover.ads01.ekt.ch
 da01.ekt.ch
 dadatacenter.ekt.ch
@@ -67,8 +65,6 @@ postman03.ekt.ch
 postman03.ads01.ekt.ch
 postman13.ekt.ch
 postman13.ads01.ekt.ch
-www.mail.ekt.ch
-eww.ekt.ch
 svr.ekt.ch
 ucc.ekt.ch
 gast01.ekt.ch
@@ -84,11 +80,11 @@ webmail.ekt.ch
 evr.ekt.ch
 messdaten.ekt.ch
 enterpriseregistration.ekt.ch
-www.lernende.ekt.ch
+lernende.ekt.ch
 rastest.ekt.ch
 crl.ekt.ch
 ewbs.ekt.ch
-www.contracting.ekt.ch
+contracting.ekt.ch
 encontrol.ekt.ch
 ips.ads01.ekt.ch
 ewab.ekt.ch
@@ -106,10 +102,8 @@ alarm.ekt.ch
 ndes01.ads01.ekt.ch
 sip.ekt.ch
 gast02.ekt.ch
-lernende.ekt.ch
 evb.ekt.ch
 sync20.ekt.ch
-www.energietour2012.ekt.ch
-www.lehrlinge.ekt.ch
+energietour2012.ekt.ch
 reporting.ekt.ch
 pam.ekt.ch

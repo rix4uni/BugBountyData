@@ -1,6 +1,6 @@
-*.staging.data.primer.io
+staging.data.primer.io
 webflow.primer.io
-*.dev.data.primer.io
+dev.data.primer.io
 api.sandbox.primer.io
 payment-timeline.api.dev.core.primer.io
 payment-timeline.api.production.core.primer.io
@@ -23,7 +23,7 @@ workflow-builder.api.sandbox.core.primer.io
 network-token-notifications.api.dev.core.primer.io
 connect.api.sandbox.core.primer.io
 nango.api.production.core.primer.io
-www.primerstg1.primer.io
+primerstg1.primer.io
 api.sandbox.core.primer.io
 community.primer.io
 primer-etl.api.dev.data.primer.io

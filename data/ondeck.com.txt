@@ -1,4 +1,3 @@
-*.staging.ondeck.com
 staging.ondeck.com
 edge.odxp-uat.odx.ondeck.com
 twentyone.ondeck.com
@@ -7,7 +6,7 @@ api.ondeck.com
 businessloansaulogin.columbusuat.odx.ondeck.com
 sso.quickcapitalstg.ondeck.com
 twentythree.ondeck.com
-www.lynx.odx.ondeck.com
+lynx.odx.ondeck.com
 pub.e.ondeck.com
 cloud.e.ondeck.com
 twenty.ondeck.com
@@ -16,7 +15,7 @@ psql02.perfectmusic-pl.wt.production.ondeck.com
 boardwalkuat.odx.ondeck.com
 fossa.ondeck.com
 smart.ondeck.com
-www.quickcapitalstg.ondeck.com
+quickcapitalstg.ondeck.com
 partner-offer-orchestrator.ondeck.com
 testvpn.ondeck.com
 odxpuat.odx.ondeck.com
@@ -34,7 +33,7 @@ hellosdbx.ondeck.com
 info.ondeck.com
 lynxuat.odx.ondeck.com
 twentynine.ondeck.com
-www.instant-funding-plugin-test.ondeck.com
+instant-funding-plugin-test.ondeck.com
 fifteen.ondeck.com
 my.staging.ondeck.com
 p5-expe-cluster01.ondeck.com
@@ -42,8 +41,7 @@ salesdesk.ondeck.com
 stagingconsole.ondeck.com
 stagingonline.ondeck.com
 thirtysix.ondeck.com
-www.coaprod-fdx.columbus.odx.ondeck.com
-quickcapitalstg.ondeck.com
+coaprod-fdx.columbus.odx.ondeck.com
 sixteen.ondeck.com
 stagingloans.ondeck.com
 stagingwww.ondeck.com
@@ -78,7 +76,6 @@ investors.ondeck.com
 surveys.ondeck.com
 thirtyfour.ondeck.com
 aulogin.columbus.odx.ondeck.com
-www.ondeck.com
 lsp.ondeck.com
 ny-xo-vpn.ondeck.com
 p6vpn-odx.ondeck.com
@@ -107,7 +104,7 @@ info1.ondeck.com
 lynxstaging.odx.ondeck.com
 data.columbus.odx.ondeck.com
 twentyeight.ondeck.com
-www.coauat-fdx.columbusuat.odx.ondeck.com
+coauat-fdx.columbusuat.odx.ondeck.com
 sharla.ondeck.com
 mailer2.columbus.odx.ondeck.com
 mx2.ondeck.com
@@ -115,14 +112,12 @@ ny-ws-vpn.ondeck.com
 thirteen.ondeck.com
 thirty.ondeck.com
 thirtyeight.ondeck.com
-www.surveys.ondeck.com
 e.ondeck.com
 collab-edge.ondeck.com
 p5vpn-odx.ondeck.com
 stagingauth.ondeck.com
 stagingwwwnext-ca.ondeck.com
 partneroffer.ondeck.com
-instant-funding-plugin-test.ondeck.com
 va-xo-vpn.ondeck.com
 dragonchildx.edge.odxp-uat.odx.ondeck.com
 nagepaizidechunyaohao.wt.production.ondeck.com
@@ -155,7 +150,6 @@ login.staging.ondeck.com
 clsrm2.ondeck.com
 clsrm3.ondeck.com
 co-xo-vpn.ondeck.com
-www.udx.columbus.odx.ondeck.com
 wt.staging.ondeck.com
 stagingstagingonline.ondeck.com
 trainrec.ondeck.com
@@ -169,7 +163,6 @@ firefly-integration.ondeck.com
 odxp.odx.ondeck.com
 nineteen.ondeck.com
 p6vpn.ondeck.com
-www.prodmongoops.ondeck.com
 auth.card.ondeck.com
 contract.ondeck.com
 nyra2.ondeck.com
@@ -192,14 +185,11 @@ hipchat.ondeck.com
 checkout.production.ondeck.com
 h5i.wt.production.ondeck.com
 webhook.ondeck.com
-www.instant-funding-plugin.ondeck.com
 staginginstantfunding.ondeck.com
 nullam2.ondeck.com
 pages.e.ondeck.com
-coauat-fdx.columbusuat.odx.ondeck.com
 nyra-xo.ondeck.com
 origin.ondeck.com
-www.stagingmongoops.ondeck.com
 fortynine.ondeck.com
 staging-lynx.ondeck.com
 account.ondeck.com
@@ -209,7 +199,6 @@ sredo.wt.production.ondeck.com
 auth.ondeck.com
 corpvpn.ondeck.com
 edge.production.ondeck.com
-lynx.odx.ondeck.com
 nine.ondeck.com
 share.ondeck.com
 columbus.odx.ondeck.com
@@ -224,7 +213,6 @@ erikdevolve.wt.staging.ondeck.com
 my.ondeck.com
 one.ondeck.com
 wt.prod.ondeck.com
-www.investors.ondeck.com
 stagingmobileapi.ondeck.com
 ffisso.ondeck.com
 loansales.ondeck.com
@@ -250,7 +238,6 @@ devwww.ondeck.com
 loans.ondeck.com
 terri.ondeck.com
 thirtyseven.ondeck.com
-www.udx.columbusuat.odx.ondeck.com
 activemq02.ondeck.com
 conference-2-ondecupcluster.ondeck.com
 eleven.ondeck.com
@@ -260,7 +247,6 @@ stagingwww02.ondeck.com
 three.ondeck.com
 twentysix.ondeck.com
 hlebograd.edge.odxp-uat.odx.ondeck.com
-www.activemq.ondeck.com
 naomi.ondeck.com
 stagingloansales.ondeck.com
 stagingwww10up.ondeck.com
@@ -278,8 +264,6 @@ console.ondeck.com
 fifty.ondeck.com
 fortyfour.ondeck.com
 twentyseven.ondeck.com
-www.lynxqa.odx.ondeck.com
-coaprod-fdx.columbus.odx.ondeck.com
 bubieber.wt.odxp.odx.ondeck.com
 apollo.odx.ondeck.com
 co-ws-vpn.ondeck.com

@@ -573,11 +573,9 @@ stedin.trainingscatalogus.nl
 stedinleeromgeving-a.trainingscatalogus.nl
 stedinlms-a.trainingscatalogus.nl
 tijdelijk-eneco.trainingscatalogus.nl
-www.trainingscatalogus.nl
 enrollment-api.schiphol-lms.trainingscatalogus.nl
 vgz-lms-a.scim-api.trainingscatalogus.nl
 vgz-lms-a.course-api.trainingscatalogus.nl
-*.trainingscatalogus.nl
 belastingdienst-lms-a.course-api.trainingscatalogus.nl
 belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl
 belastingdienst-lms-a.scim-api.trainingscatalogus.nl

@@ -40,7 +40,7 @@ stage.upgrades.guests.plusgrade.com
 view.send.plusgrade.com
 upg-prd.plusgrade.com
 upgrade.stage.plusgrade.com
-www.partner-gateway.plusgrade.com
+partner-gateway.plusgrade.com
 ws-inventory.stg.internal.plusgrade.com
 canvas.plusgrade.com
 consumer.qacert.plusgrade.com
@@ -57,7 +57,7 @@ delivery.plusgrade.com
 guests.stage.plusgrade.com
 payment-gateway.internal.qacert.plusgrade.com
 ws-inventory.prd.internal.plusgrade.com
-www.partner-gateway.stage.plusgrade.com
+partner-gateway.stage.plusgrade.com
 guests.upgrades.demo.plusgrade.com
 hotels.stage.plusgrade.com
 image.send.plusgrade.com
@@ -71,16 +71,15 @@ consumer-uat.stage.plusgrade.com
 cx-stage.plusgrade.com
 internal.k8s-dev.plusgrade.com
 service-hub-consumer-uat.stage.plusgrade.com
-www.email.guests.plusgrade.com
+email.guests.plusgrade.com
 stage.internal.dataland.plusgrade.com
 ey-stage.plusgrade.com
-partner-gateway.plusgrade.com
 uat.plusgrade.com
 mgmt.internal.plusgrade.com
 console.dataland.plusgrade.com
 dev.internal.plusgrade.com
 offers.prdb.internal.plusgrade.com
-www.hotels.plusgrade.com
+hotels.plusgrade.com
 ws-inventory.uat.internal.plusgrade.com
 internal.dev.plusgrade.com
 pglabs.plusgrade.com
@@ -94,7 +93,6 @@ mgmt.plusgrade.com
 front-desk.hotels.plusgrade.com
 directus.dataland.plusgrade.com
 stg-data.internal.plusgrade.com
-partner-gateway.stage.plusgrade.com
 stage.marketing.guests.plusgrade.com
 gateway.internal.dataland.plusgrade.com
 boards.labs.plusgrade.com
@@ -117,7 +115,6 @@ guests.products.demo.plusgrade.com
 service-hub-partner-prd.plusgrade.com
 stage.products.guests.plusgrade.com
 service-hub-partner-prdb.plusgrade.com
-hotels.plusgrade.com
 labs.plusgrade.com
 service.jarvis.plusgrade.com
 auth.hotels.plusgrade.com
@@ -191,13 +188,11 @@ uat.internal.plusgrade.com
 affiliate.ftf.plusgrade.com
 airbyte.dataland.plusgrade.com
 offers.stg.internal.plusgrade.com
-www.plusgrade.com
 k8s-dev.plusgrade.com
 kane.labs.plusgrade.com
 canvas.stage.plusgrade.com
 mailman.plusgrade.com
 o1.email.plusgrade.com
-www.guests.plusgrade.com
 prd-data.internal.plusgrade.com
 demo.email.guests.plusgrade.com
 guests.products.plusgrade.com
@@ -214,7 +209,6 @@ travelagain.plusgrade.com
 qh.stage.plusgrade.com
 registry.dataland.plusgrade.com
 store.dataland.plusgrade.com
-email.guests.plusgrade.com
 upgrade-stage.plusgrade.com
 vx.ss.plusgrade.com
 dataland.plusgrade.com

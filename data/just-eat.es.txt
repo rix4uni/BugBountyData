@@ -1,7 +1,6 @@
-*.just-eat.es
-*.couriers.just-eat.es
-*.feature.just-eat.es
-*.frontend.office.stag.clops.just-eat.es
+couriers.just-eat.es
+feature.just-eat.es
+frontend.office.stag.clops.just-eat.es
 ablink.emails.just-eat.es
 ablink.orders.just-eat.es
 acc-shop.just-eat.es
@@ -14,7 +13,6 @@ canvas.just-eat.es
 cftest-customermanagement.just-eat.es
 cloud.update.just-eat.es
 connect.just-eat.es
-couriers.just-eat.es
 customermanagement.just-eat.es
 drivers.just-eat.es
 endpoint.just-eat.es
@@ -22,8 +20,6 @@ es-deliveryserviceexternalapi.just-eat.es
 es-partnermanagement.just-eat.es
 es-zeusexternal.just-eat.es
 events.just-eat.es
-feature.just-eat.es
-frontend.office.stag.clops.just-eat.es
 guia.just-eat.es
 help.just-eat.es
 img.info.just-eat.es
@@ -86,8 +82,7 @@ restaurantmenumanager.just-eat.es
 shop.just-eat.es
 test-shop.just-eat.es
 topplacement.just-eat.es
-www.just-eat.es
-www.everest.just-eat.es
+everest.just-eat.es
 zipcodeadmin.just-eat.es
 https.just-eat.es
 homepage1.just-eat.es
@@ -103,7 +98,7 @@ image.email.just-eat.es
 partner-centre.just-eat.es
 admin.just-eat.es
 curryland.just-eat.es
-www.almakebab.just-eat.es
+almakebab.just-eat.es
 dhcp.just-eat.es
 o489.emails-es-geodataapi-i18n-production-smp.just-eat.es
 info.just-eat.es
@@ -474,7 +469,7 @@ elkebit-geodataapi-iapinnzit-geodataapi-iapin.just-eat.es
 device2960796-2fa8e767-local.just-eat.es
 device1621851-cc5c0863-local.just-eat.es
 banzailracodbanzaibiscaia.just-eat.es
-www.chilangos.just-eat.es
+chilangos.just-eat.es
 restaurantemariacanela.just-eat.es
 kebrestaurantsbeuskrestaurantsdicrestaurantsscoviejo.just-eat.es
 donerkebabcarmelo.just-eat.es
@@ -653,7 +648,7 @@ task.just-eat.es
 term.just-eat.es
 es-restricted.just-eat.es
 es-menu-iav2i.just-eat.es
-www.asadorsnackypreparadosjaysa.just-eat.es
+asadorsnackypreparadosjaysa.just-eat.es
 es-partnerinit-restaurant-api-migrationnghts.just-eat.es
 buf.just-eat.es
 18910836310www.just-eat.es
@@ -1050,7 +1045,6 @@ www1.just-eat.es
 dnuoqz3jcmk6xbyyi5o7ajef9tw8qrxsllch24pi.just-eat.es
 cz.just-eat.es
 es-restacsegatewayrantmanagementapi.just-eat.es
-almakebab.just-eat.es
 5f19ce21-562b-478c-9654-b8852792a5ff.just-eat.es
 osrm-bes.just-eat.es
 gassethabana-friedchicken.just-eat.es
@@ -2279,7 +2273,7 @@ switch.just-eat.es
 granpizzeriakebab.just-eat.es
 peoplespizza.just-eat.es
 violaswedding.just-eat.es
-www.guia.www.just-eat.es
+guia.www.just-eat.es
 emails-accountweb.just-eat.es
 sandboxs-brandmanagsandboxmsandboxnt-i18n-production.just-eat.es
 encrypted.just-eat.es
@@ -2330,7 +2324,6 @@ expresssavela.just-eat.es
 ordersaccountweb.just-eat.es
 7ha7zds7wvqysbc-mgmt.just-eat.es
 nt.just-eat.es
-www.laesquinita.just-eat.es
 marchando-cocina.just-eat.es
 casa-dragon-es-searchweb.just-eat.es
 ikkimadrid.just-eat.es
@@ -2403,7 +2396,6 @@ elisku1720victoriku1720lku1720sgolondrinku1720s.just-eat.es
 10-topplacementdb-i18n-production.just-eat.es
 es-intconsumerweb-i18n-production.just-eat.es
 pics50e-1561-hp6550.just-eat.es
-www.restaurants.just-eat.es
 es-menustage1.just-eat.es
 396317-1279623-raikfcquaxqncofqfm.just-eat.es
 grprintadminprintadminnkitchprintadminn.just-eat.es
@@ -2880,7 +2872,6 @@ mccmhh7mcfvt5jlv8ks.just-eat.es
 media.just-eat.es
 bloombergindustry8qx7sv6ctzktwrr9.just-eat.es
 mx02.just-eat.es
-www.ablink.orders.just-eat.es
 a36f972f734589e2ff5028938e8e15f1.just-eat.es
 grenoble-r1-vgkdkqmjpt.just-eat.es
 agg0.just-eat.es
@@ -2896,7 +2887,6 @@ ad7d900b754e75dd8c01ef3a.just-eat.es
 slavesislavedonerkebslavebsslaventslavecolomslave.just-eat.es
 zmail.just-eat.es
 relay.just-eat.es
-everest.just-eat.es
 laocanicolasa.just-eat.es
 canvasremote2.just-eat.es
 curncystockie.just-eat.es
@@ -3195,7 +3185,6 @@ hotpizzacpresscustomermanagement.just-eat.es
 thetatamiroom.just-eat.es
 passorders.just-eat.es
 9xrxy0s9pwrlbjbeftp3.just-eat.es
-chilangos.just-eat.es
 es-searchorchestrator-i18n-production.just-eat.es
 device2563734-6f684832.just-eat.es
 aolmusicemails.just-eat.es
@@ -3627,7 +3616,6 @@ esperanzaii.just-eat.es
 lascampanasdeflorencelkebanzaa.just-eat.es
 everest-guana.just-eat.es
 haw.just-eat.es
-asadorsnackypreparadosjaysa.just-eat.es
 lascampanasdeflorenciapl.just-eat.es
 uat-couriersuk-stage-blue-westeuropevc.just-eat.es
 o489-ordermanagementapi.just-eat.es
@@ -4846,7 +4834,6 @@ applications-acc-shopcc-uat.just-eat.es
 administratorsfoenticate-internal.just-eat.es
 applications-7ioiemailssabhsiaenticate-wwwdev.just-eat.es
 applications-7ioiemailssabhsiaenticate-1.just-eat.es
-www.partner-centre.just-eat.es
 administratorsfoenticate-newsadm.just-eat.es
 applications-2vooafl0-acces-orderpadlitearraval.just-eat.es
 auth0-1c4dshanakura-active-uk-stagebaballhanakurasit.just-eat.es
@@ -4942,7 +4929,6 @@ applications-admin2-newsabhsiaenticate-dev1-www.just-eat.es
 applications-accountdultuat.just-eat.es
 applications-2jrccsdulttest.just-eat.es
 applications-puplogndroidabhsiaenticate-dev1.just-eat.es
-www.partner.just-eat.es
 administratorsfoenticatesituat.just-eat.es
 applications-7ioiemailss-internal.just-eat.es
 applications-7ioiemailssabhsiaenticatedev.just-eat.es

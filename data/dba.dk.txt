@@ -346,10 +346,6 @@ es-moderation-int.horizontal-es.dba.dk
 qa01-casapi.dba.dk
 boost.pg.dba.dk
 crowdstrike.qa01.dba.dk
-www.dba.dk
-www.qa03.dba.dk
-www.qa02.dba.dk
-www.qa01.dba.dk
 guid3.dba.dk
 gguide.dba.dk
 gide.dba.dk
@@ -414,6 +410,3 @@ boliger.dba.dk
 count.dba.dk
 cpr.dba.dk
 team.dba.dk
-*.recommerce.svc.dba.dk
-*.real-estate.svc.dba.dk
-*.horizontal.svc.dba.dk

@@ -41,7 +41,6 @@ edge-bkn431-c51-cloud.druva.com
 scan-engine2-rapid7.druva.com
 insyncbackup-pub-bkn136-c501-cloud.druva.com
 pub-bkn363-c51-cloud.druva.com
-www.druva.com
 mspconsole.druva.com
 edge-bkn9-c81-cloud.druva.com
 n137-c5-cloud.druva.com
@@ -348,7 +347,7 @@ n21-c1-cloud.druva.com
 n3-c52-cloud.druva.com
 pub-bkn2-c114-cloud.druva.com
 dreporting-dgovstaging.druva.com
-www.learn.druva.com
+learn.druva.com
 n10-c1-phoenix.druva.com
 n3-c660-phoenix.druva.com
 pub-bkn185-c51-cloud.druva.com
@@ -455,7 +454,7 @@ insyncbackup-n73-c22-cloud.druva.com
 pub-bkn53-c51-cloud.druva.com
 insyncbackup-pub-bkn23-c51-cloud.druva.com
 n32-c5-cloud.druva.com
-www.content.druva.com
+content.druva.com
 insyncbackup-pub-bkn387-c51-cloud.druva.com
 insyncbackup-pub-bkn232-c51-cloud.druva.com
 n1-c1-phoenix.druva.com
@@ -614,7 +613,7 @@ insyncbackup-e1-c2-cloud.druva.com
 n5-c7-phoenix.druva.com
 n1-c68-cloud.druva.com
 n131-c22-cloud.druva.com
-www.cdn.druva.com
+cdn.druva.com
 pub-bkn9-c91-cloud.druva.com
 edge-bkn92-c51-cloud.druva.com
 n36-c51-phoenix.druva.com
@@ -889,7 +888,6 @@ status.druva.com
 pub-bkn474-c51-cloud.druva.com
 pub-bkn11-c41-cloud.druva.com
 n18-c2-phoenix.druva.com
-content.druva.com
 pub-bkn34-c22-cloud.druva.com
 insyncbackup-pub-bkn60-c28-cloud.druva.com
 n20-c770-phoenix.druva.com
@@ -937,7 +935,6 @@ pub-bkn59-c91-cloud.druva.com
 n79-c51-cloud.druva.com
 apis-dstaging-ap1-dstg.druva.com
 email.druva.com
-learn.druva.com
 pub-bkn21-c22-cloud.druva.com
 pub-eprn14-c12-cloud.druva.com
 insyncbackup-edge-bkn53-c91-cloud.druva.com
@@ -1030,7 +1027,6 @@ n17-c7-cloud.druva.com
 pub-bkn34-c1-govcloud.druva.com
 n4-c51-cloud.druva.com
 p0-c0-eval2.druva.com
-www.partnerportal.druva.com
 n13-c1-phoenix.druva.com
 cm2-govcloud.druva.com
 pub-bkn51-c1-govcloud.druva.com
@@ -1084,7 +1080,6 @@ n4-c7-phoenix.druva.com
 pub-bkn9-c61-cloud.druva.com
 n23-c5-cloud.druva.com
 apis-deval-eval11.druva.com
-www.resources.druva.com
 edge-bkn229-c51-cloud.druva.com
 insyncbackup-pub-bkn1-c501-cloud.druva.com
 pub-bkn16-c81-cloud.druva.com
@@ -1195,7 +1190,6 @@ p0-c0-cstaginggov.druva.com
 insyncbackup-edge-bkn39-c91-cloud.druva.com
 insyncbackup-pub-bkn120-c51-cloud.druva.com
 n3-c122-cloud.druva.com
-cdn.druva.com
 dell-govconsolestaging.druva.com
 devc1.druva.com
 devplugins.druva.com
@@ -1957,7 +1951,6 @@ insyncbackup-pub-bkn59-c91-cloud.druva.com
 insyncbackup-pub-bkn369-c51-cloud.druva.com
 insyncbackup-pub-bkn3-c1-govcloud.druva.com
 idallocator-staging.druva.com
-www.dxp.druva.com
 pub-bkn87-c51-cloud.druva.com
 n0-c26-cloud.druva.com
 insyncbackup-pub-bkn18-c51-cloud.druva.com

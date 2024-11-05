@@ -1,4 +1,3 @@
-www.hellosign.com
 es.smartling-mar-stg.hellosign.com
 spa.hellosign.com
 kibana.hellosign.com
@@ -27,7 +26,6 @@ da.smartling-mar-stg.hellosign.com
 ja.smartling-mar-stg.hellosign.com
 jenkinci.hellosign.com
 it.smartling-mar-stg.hellosign.com
-www.app.hellosign.com
 pl.hellosign.com
 admin.hellosign.com
 vault.hellosign.com
@@ -42,11 +40,11 @@ hans.smartling-mar-stg.hellosign.com
 dbbastion.hellosign.com
 sv.smartling-mar-stg.hellosign.com
 pt.smartling-mar-stg.hellosign.com
-www.blog.hellosign.com
+blog.hellosign.com
 staging.hellosign.com
 o1.omkt.hellosign.com
-www.go.hellosign.com
-www.info.hellosign.com
+go.hellosign.com
+info.hellosign.com
 101.static.mail.hellosign.com
 api.hellosign.com
 fr.hellosign.com
@@ -73,11 +71,9 @@ ru.hellosign.com
 embedded.hellosign.com
 consul.hellosign.com
 pt.hellosign.com
-go.hellosign.com
 th.hellosign.com
 ms.hellosign.com
-info.hellosign.com
-www.faq.hellosign.com
+faq.hellosign.com
 demo.hellosign.com
 da.hellosign.com
 helloslow.hellosign.com
@@ -89,7 +85,6 @@ gb.smartling-mar-stg.hellosign.com
 th.smartling-mar-stg.hellosign.com
 no.hellosign.com
 mysql.hellosign.com
-faq.hellosign.com
 smartling-mar-stg.hellosign.com
 sales.hellosign.com
 246.static.mail.hellosign.com
@@ -99,7 +94,6 @@ review.hellosign.com
 webflow.hellosign.com
 workremotely.hellosign.com
 spa.smartling-mar-stg.hellosign.com
-blog.hellosign.com
 ko.hellosign.com
 nl.hellosign.com
 cdn.hellosign.com
@@ -137,9 +131,6 @@ email.email.hellosign.com
 get.hellosign.com
 k3.hellosign.com
 w.hellosign.com
-www.checkmarx.hellosign.com
-*.hellosign.com
-www.apidemo.hellosign.com
 _dmarc.hellosign.com
 dev-app.hellosign.com
 em518.hellosign.com

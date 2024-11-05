@@ -30,7 +30,6 @@ jan.dev.medewerkers.pukkelpop.be
 api.tickets.pukkelpop.be
 promotion.pukkelpop.be
 assets-pp.pukkelpop.be
-www.pukkelpop.be
 medewerkers.pukkelpop.be
 staging.api.pukkelpop.be
 servicedesk.pukkelpop.be
@@ -69,4 +68,4 @@ front01.pukkelpop.be
 ppmailer.pukkelpop.be
 2010.pukkelpop.be
 nfs01.cluster.pukkelpop.be
-www.ftp.pukkelpop.be
+ftp.pukkelpop.be

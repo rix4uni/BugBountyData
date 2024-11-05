@@ -1,7 +1,6 @@
 webhare.utwente.nl
 surveyts.et.utwente.nl
 eurotherm.et.utwente.nl
-www.eurotherm.et.utwente.nl
 roundcube-new.harambee.utwente.nl
 mail-new.harambee.utwente.nl
 seccrypt.eemcs.utwente.nl
@@ -16,9 +15,8 @@ ipv6.irnut.utwente.nl
 irnut.utwente.nl
 mail.irnut.utwente.nl
 webdisk.irnut.utwente.nl
-www.irnut.utwente.nl
-www.paradoks.utwente.nl
-www.concept.utwente.nl
+paradoks.utwente.nl
+concept.utwente.nl
 cervisia-matrix.student.ipv6.utwente.nl
 cervisia-matrix.student.utwente.nl
 cpcalendars.blueshell.utwente.nl
@@ -30,10 +28,7 @@ ipv6.blueshell.utwente.nl
 mail.blueshell.utwente.nl
 webdisk.blueshell.utwente.nl
 webmail.blueshell.utwente.nl
-www.blueshell.utwente.nl
 test.bellettrie.utwente.nl
-www.test.bellettrie.utwente.nl
-*.inter-actief.utwente.nl
 inter-actief.utwente.nl
 horafinita.utwente.nl
 mattermost.dacs.utwente.nl
@@ -62,7 +57,6 @@ ipv6.diok.utwente.nl
 mail.diok.utwente.nl
 webdisk.diok.utwente.nl
 webmail.diok.utwente.nl
-www.diok.utwente.nl
 lianxi.scintilla.utwente.nl
 lustrum10.scintilla.utwente.nl
 mfareset.utwente.nl
@@ -80,7 +74,6 @@ ipv6.schaken.utwente.nl
 mail.schaken.utwente.nl
 webdisk.schaken.utwente.nl
 webmail.schaken.utwente.nl
-www.schaken.utwente.nl
 ipv6.voz.utwente.nl
 autodiscover.voz.utwente.nl
 cpanel.voz.utwente.nl
@@ -90,7 +83,6 @@ mail.voz.utwente.nl
 voz.utwente.nl
 webdisk.voz.utwente.nl
 webmail.voz.utwente.nl
-www.voz.utwente.nl
 dipsoman.ia.utwente.nl
 dipsoman.inter-actief.utwente.nl
 dipsomania.ia.utwente.nl
@@ -109,7 +101,6 @@ cpcontacts.ambitiouswomenut.utwente.nl
 ipv6.ambitiouswomenut.utwente.nl
 webdisk.ambitiouswomenut.utwente.nl
 webmail.ambitiouswomenut.utwente.nl
-www.ambitiouswomenut.utwente.nl
 dev.euroszeilen.utwente.nl
 labapps.bmslab.utwente.nl
 linux820.bms.utwente.nl
@@ -120,7 +111,6 @@ openscience.utwente.nl
 instructievideo.bms.utwente.nl
 instructievideo.gw.utwente.nl
 mc.wiki.utwente.nl
-www.prototype.communique.utwente.nl
 prototype.communique.utwente.nl
 webdisk.skybox.utwente.nl
 autodiscover.skybox.utwente.nl
@@ -141,8 +131,7 @@ webdisk.negotiationproject.utwente.nl
 webmail.negotiationproject.utwente.nl
 foreman.virt.dacs.utwente.nl
 sma.et.utwente.nl
-www.sma.et.utwente.nl
-www.virt.dacs.utwente.nl
+virt.dacs.utwente.nl
 dacs-wiki.ewi.utwente.nl
 docs.virt.dacs.utwente.nl
 grafana.virt.dacs.utwente.nl
@@ -171,4 +160,3 @@ bdsi.bms.utwente.nl
 streaming.snt.utwente.nl
 boogschutter.student.utwente.nl
 bata-prod3.snt.utwente.nl
-www.utwente.nl

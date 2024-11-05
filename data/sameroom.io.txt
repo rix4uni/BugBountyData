@@ -13,15 +13,13 @@ skyhighnetworks2.sameroom.io
 googleapis.com.customtravelapp.skyhighnetworks2.sameroom.io
 servicenow.com.service-now-uat.linkgroup.sameroom.io
 enterprise.sameroom.io
-www.airvest.sameroom.io
+airvest.sameroom.io
 vcenter.corp.sameroom.io
 linkgroup.sameroom.io
 entreprise.sameroom.io
-airvest.sameroom.io
 s3-website-us-east-1.sameroom.io
 translate.googleapis.com.customtravelapp.skyhighnetworks2.sameroom.io
 service-now-uat.linkgroup.sameroom.io
-www.sameroom.io
 mattel.com-thetoybox.s3-website-us-east-1.sameroom.io
 hipchat.corp.sameroom.io
 homeaway.sameroom.io
@@ -787,7 +785,6 @@ cisco.sameroom.io
 00000-okta-idp-support.nginx.sameroom.io
 00000-okta-idp-support.179.sameroom.io
 00000-okta-idp-support.sameroom.io
-*.sameroom.io
 8x8.sameroom.io
 0-ua-ed-in-f90.sameroom.io
 brasil.sameroom.io

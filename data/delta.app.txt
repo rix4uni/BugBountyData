@@ -18,7 +18,6 @@ stg.desktop.delta.app
 form.delta.app
 hr.delta.app
 slack.delta.app
-www.delta.app
 static.delta.app
 telegram.delta.app
 webflow-staging.delta.app
@@ -26,7 +25,6 @@ twitter.delta.app
 prod.desktop.delta.app
 web-images.delta.app
 nft-images.delta.app
-*.delta.app
 ben.delta.app
 clicks.delta.app
 develop.delta.app

@@ -11,7 +11,6 @@ announcements.bybit.com
 i.bybit.com
 affiliates.bybit.com
 api2.bybit.com
-www.bybit.com
 ws2.bybit.com
 api.bybit.com
 static-sg.bybit.com
@@ -33,7 +32,7 @@ unifytest1.bybit.com
 cht-perf-1.bybit.com
 5fpmzy9tg3oki8k3.bybit.com
 automan.bybit.com
-www.fiat-test-3.bybit.com
+fiat-test-3.bybit.com
 fix-testnet.bybit.com
 ws2-2-testnet.bybit.com
 2gyjy4i8gpyjcziu4r4vmurmp9gthycq.bybit.com
@@ -53,7 +52,7 @@ treasury-csp-gateway-testnet.bybit.com
 openapi.bybit.com
 o1.ptr7130.bybit.com
 announcements.bybit-test-1.bybit.com
-www.gtd-test-1.bybit.com
+gtd-test-1.bybit.com
 stream-demo.bybit.com
 ua.bybit.com
 spot-test.bybit.com
@@ -134,7 +133,6 @@ aio-test-2.bybit.com
 unify-dev-1.bybit.com
 verify80797.bybit.com
 sgdev-2.bybit.com
-gtd-test-1.bybit.com
 mt4-testnet.bybit.com
 whale-testnet.bybit.com
 api3.bybit.com
@@ -172,7 +170,6 @@ test.bybit.com
 wss.test.bybit.com
 sbu-perf-1.bybit.com
 infra-perf-1.bybit.com
-www.unify-test-3.bybit.com
 admin-testnet.bybit.com
 announcement.bybit.com
 oauth-static.bybit.com
@@ -187,7 +184,6 @@ api2.cht-test-1.bybit.com
 s-testnet.bybit.com
 proxy-dev.bybit.com
 unify-p2p-3.bybit.com
-fiat-test-3.bybit.com
 o3711.mail.promo.bybit.com
 orbrchampions2023.bybit.com
 sgdev-1.bybit.com
@@ -248,7 +244,6 @@ _amazonses.bybit.com
 link.ablink.bybit.com
 _dmarc.bybit.com
 institution.bybit.com
-*.bybit.com
 bybit-dev-2.bybit.com
 bybit-dev-1.bybit.com
 notification-2.bybit.com
@@ -259,7 +254,6 @@ bybit-perf-1.bybit.com
 _trader.adapters.bybit.com
 mail.bybit.com
 bybittest3.bybit.com
-www.www.bybit.com
+www.bybit.com
 bybit-test-3.bybit.com
 bybitdev2.bybit.com
-*.unify-test-1.bybit.com

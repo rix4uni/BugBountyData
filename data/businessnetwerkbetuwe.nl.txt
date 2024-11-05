@@ -23,7 +23,7 @@ mta.businessnetwerkbetuwe.nl
 mail3.businessnetwerkbetuwe.nl
 update.businessnetwerkbetuwe.nl
 zmail.businessnetwerkbetuwe.nl
-www.updates.businessnetwerkbetuwe.nl
+updates.businessnetwerkbetuwe.nl
 cpcontacts.update.businessnetwerkbetuwe.nl
 ipv6.businessnetwerkbetuwe.nl
 smtpseguro.businessnetwerkbetuwe.nl
@@ -35,8 +35,6 @@ mail8.businessnetwerkbetuwe.nl
 postmaster.businessnetwerkbetuwe.nl
 webmail.updates.businessnetwerkbetuwe.nl
 mx01.businessnetwerkbetuwe.nl
-updates.businessnetwerkbetuwe.nl
-www.businessnetwerkbetuwe.nl
 auth.businessnetwerkbetuwe.nl
 mx20.businessnetwerkbetuwe.nl
 server2.businessnetwerkbetuwe.nl
@@ -61,7 +59,6 @@ smtp1.businessnetwerkbetuwe.nl
 newmail.businessnetwerkbetuwe.nl
 autodiscover.businessnetwerkbetuwe.nl
 gate.businessnetwerkbetuwe.nl
-www.update.businessnetwerkbetuwe.nl
 ipv6.updates.businessnetwerkbetuwe.nl
 smtps.businessnetwerkbetuwe.nl
 pop3.businessnetwerkbetuwe.nl

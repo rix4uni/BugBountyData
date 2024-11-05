@@ -17,7 +17,6 @@ gemalto-hsm.prod.ew1.quovo.com
 gitlab-registry-lv.dev.ue1.quovo.com
 syncbroker.prod.ue1.quovo.com
 secure.prod.ue1.quovo.com
-www.quovo.com
 gitlab.old.ue1.quovo.com
 kuberos-test.dev.ue1.quovo.com
 stifel-viper.prod.ue1.quovo.com
@@ -77,7 +76,6 @@ pypi.util.ue1.quovo.com
 rq-dashboard.dev.ue1.quovo.com
 stiftu.prod.ue1.quovo.com
 old.ue1.quovo.com
-www.ev_oauth.quovo.com
 wwwdev.quovo.com
 embed.dev.ue1.quovo.com
 jpm-pubapiv3.prod.ue1.quovo.com
@@ -96,7 +94,7 @@ jpm-pubapi.prod.ue1.quovo.com
 pubapiv3-k8s.dev.ue1.quovo.com
 pubapiv3-k8s.prod.ue1.quovo.com
 stifel2beta.quovo.com
-www.new.quovo.com
+new.quovo.com
 k8s-admin3-api.dev.ue1.quovo.com
 cerebro-logging.prod.ew1.quovo.com
 jpm-api.prod.ue1.quovo.com
@@ -148,7 +146,7 @@ jenkins.quovo.com
 kibana.old.ue1.quovo.com
 wellsbeta.quovo.com
 asp-k8s.prod.ue1.quovo.com
-www.api.quovo.com
+api.quovo.com
 kibana.prod.ew1.quovo.com
 prod.ue1.quovo.com
 public-api.prod.ue1.quovo.com
@@ -160,7 +158,6 @@ wellsbeta-asp.prod.ue1.quovo.com
 analytics-jupyter.prod.ue1.quovo.com
 jenkins.util.ue1.quovo.com
 kuberos.prod.ue1.quovo.com
-new.quovo.com
 pa-vpn1.util.ue1.quovo.com
 viper.prod.ue1.quovo.com
 registry.norman-gitlab.dev.ue1.quovo.com
@@ -178,7 +175,6 @@ coutts-mamba.prod.ew1.quovo.com
 oauth-k8s.dev.ue1.quovo.com
 passcore.prod.ue1.quovo.com
 test-api.dev.ew1.quovo.com
-www.gemalto-hsm2.prod.ew1.quovo.com
 cerebro-logging.old.ue1.quovo.com
 davestest.dev.ue1.quovo.com
 gemalto-hsm1.prod.ew1.quovo.com
@@ -195,7 +191,6 @@ k8s-jpmbeta-viper.prod.ue1.quovo.com
 tmrest.dev.ew1.quovo.com
 coutts-asp-uat-k8s.prod.ew1.quovo.com
 secure-k8s.dev.ue1.quovo.com
-www.gemalto-hsm1.prod.ew1.quovo.com
 pa-vpn1-ext.util.ue1.quovo.com
 appapi.dev.ue1.quovo.com
 pubapiv2-debug-k8s.prod.ue1.quovo.com
@@ -232,7 +227,6 @@ jpmbeta.quovo.com
 jpm-asp-k8s.prod.ue1.quovo.com
 k8s-asp.dev.ue1.quovo.com
 wells-mamba.prod.ue1.quovo.com
-api.quovo.com
 coutts-connect1.prod.ew1.quovo.com
 grafana.dev.ue1.quovo.com
 jpm-appapi.dev.ue1.quovo.com
@@ -251,7 +245,7 @@ appapi-k8s.dev.ue1.quovo.com
 grafana.old.ue1.quovo.com
 sentry.dev.ue1.quovo.com
 webhooks.prod.ue1.quovo.com
-www.saml.quovo.com
+saml.quovo.com
 admin-api.util.ue1.quovo.com
 k8s-admin2.util.ue1.quovo.com
 pubapiv2-debug.prod.ue1.quovo.com
@@ -264,7 +258,6 @@ coutts-mamba-uat.prod.ew1.quovo.com
 flatbroker-ondemand.prod.ue1.quovo.com
 geostorm.prod.ue1.quovo.com
 lv-gitlab.dev.ue1.quovo.com
-www.ev-oauth.quovo.com
 pubapiv3.prod.ue1.quovo.com
 tmrest.prod.ew1.quovo.com
 admin2.dev.ue1.quovo.com
@@ -290,7 +283,6 @@ oauth-k8s.prod.ue1.quovo.com
 chase-connect2-k8s.quovo.com
 passcore.dev.ue1.quovo.com
 wells-viper-k8s.prod.ue1.quovo.com
-saml.quovo.com
 adminapi-prod.old.ue1.quovo.com
 app-coutts-uat.prod.ew1.quovo.com
 coutts-asp.prod.ew1.quovo.com

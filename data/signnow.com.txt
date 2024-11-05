@@ -2,7 +2,7 @@ individuals-may-view-a.signnow.com
 smtp0-6.signnow.com
 app-dev.signnow.com
 printable-self-certification-form-2020.signnow.com
-www.cop.signnow.com
+cop.signnow.com
 uat0.signnow.com
 smtp1-6.signnow.com
 smtp9-3.signnow.com
@@ -10,7 +10,7 @@ kibana-cl01.signnow.com
 reply.signnow.com
 smtp0-7.signnow.com
 owner-operator-lease-agreementdoc.signnow.com
-www.ssop-qa.signnow.com
+ssop-qa.signnow.com
 mrkt1.signnow.com
 app-mobiledev.signnow.com
 app-dev1.signnow.com
@@ -27,7 +27,6 @@ app-rc.signnow.com
 smtp0-0.signnow.com
 smtp1-0.signnow.com
 api-dev.signnow.com
-www.api.signnow.com
 snseats-stage.signnow.com
 stage.signnow.com
 snfiller-cdn.signnow.com
@@ -40,18 +39,17 @@ api-rc.signnow.com
 trust.signnow.com
 zabbix.signnow.com
 sn-payments-front.signnow.com
-www.dsop.signnow.com
+dsop.signnow.com
 sn-payments-front-rc.signnow.com
-www.sf.signnow.com
+sf.signnow.com
 api-dev1.signnow.com
 donation-value-guide-2017-spreadsheet-form.signnow.com
 officeproxy-dev.signnow.com
 seven.signnow.com
 smtp1-7.signnow.com
 vera-bradley-return-label.signnow.com
-www.petitions.signnow.com
-adtest.adtest.signnow.com
 petitions.signnow.com
+adtest.adtest.signnow.com
 stage-sn0.signnow.com
 eu-app.signnow.com
 smtp0-1.signnow.com
@@ -59,7 +57,7 @@ snseats-dev.signnow.com
 reo-schedule-worksheet-form.signnow.com
 snseats-jenkins.signnow.com
 smtp9-2.signnow.com
-www.officeproxy-qa.signnow.com
+officeproxy-qa.signnow.com
 eu-api.signnow.com
 app-eval.signnow.com
 smtp2.signnow.com
@@ -72,7 +70,7 @@ redirect-sn0.signnow.com
 university.signnow.com
 go.signnow.com
 certificate-of-completion-for-drug-class-form.signnow.com
-www.wsop.signnow.com
+wsop.signnow.com
 smtp1-3.signnow.com
 academy.signnow.com
 app-stage0.signnow.com
@@ -82,14 +80,12 @@ eu.signnow.com
 api-dev2.signnow.com
 pdffiller-cdn.signnow.com
 slack-integration.signnow.com
-www.advice.signnow.com
+advice.signnow.com
 mw.signnow.com
 psira-certificate-renewal-requirements-form.signnow.com
 business.signnow.com
-www.academy.signnow.com
 api-mobiledev.signnow.com
 docs.signnow.com
-cop.signnow.com
 app-dev3.signnow.com
 app-dev2.signnow.com
 app-eval0.signnow.com
@@ -97,4 +93,3 @@ smtp9-0.signnow.com
 legacy-api.signnow.com
 help.signnow.com
 agreement-to-purchase-and-sell-lots-or-vacant-land.signnow.com
-advice.signnow.com

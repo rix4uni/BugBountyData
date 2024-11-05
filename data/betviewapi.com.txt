@@ -5,7 +5,7 @@ stats.betviewapi.com
 dev.test.popularbets.betviewapi.com
 stats.nps.betviewapi.com
 us-east.cpaul.test.popularbets.betviewapi.com
-www.rab-pricing.betviewapi.com
+rab-pricing.betviewapi.com
 test.popularbets.betviewapi.com
 walshd.test.popularbets.betviewapi.com
 staging.betviewapi.com
@@ -20,7 +20,6 @@ games.betviewapi.com
 test8.betviewapi.com
 a.test4.aws.test.popularbets.betviewapi.com
 rab.a.betviewapi.com
-www.betviewapi.com
 test2.betviewapi.com
 bhellas.trending.test.popularbets.betviewapi.com
 williamsad.trending.test.popularbets.betviewapi.com
@@ -32,7 +31,6 @@ staging.trending.test.popularbets.betviewapi.com
 walshd.trending.test.popularbets.betviewapi.com
 test4.betviewapi.com
 gareth.test.popularbets.betviewapi.com
-rab-pricing.betviewapi.com
 rab.nps.betviewapi.com
 a.dev.aws.test.popularbets.betviewapi.com
 b.cpaul.test.popularbets.betviewapi.com
@@ -51,7 +49,6 @@ edge.cpaul.test.popularbets.betviewapi.com
 erwann.trending.test.popularbets.betviewapi.com
 staging.games.betviewapi.com
 williamsad.test.popularbets.betviewapi.com
-www.cashout.betviewapi.com
 test5.betviewapi.com
 api-static.staging.games.betviewapi.com
 horses.nps.betviewapi.com
@@ -77,4 +74,3 @@ event-data.nps.betviewapi.com
 api.staging.games.betviewapi.com
 api.test4.games.betviewapi.com
 event-data.betviewapi.com
-www.popularbets.betviewapi.com

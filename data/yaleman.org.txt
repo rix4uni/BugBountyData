@@ -48,7 +48,6 @@ splunk-nonebook.housenet.yaleman.org
 nonebook.housenet.yaleman.org
 hass.yaleman.org
 kanidmdev.housenet.yaleman.org
-www.yaleman.org
 thruk.housenet.yaleman.org
 k8s-dashboard.housenet.yaleman.org
 nomad.housenet.yaleman.org
@@ -93,7 +92,6 @@ services.yaleman.org
 misp1.housenet.yaleman.org
 splunk-web.yaleman.org
 vault.yaleman.org
-*.yaleman.org
 k8s.housenet.yaleman.org
 wordpress.yaleman.org
 kanidm3.housenet.yaleman.org
@@ -123,7 +121,6 @@ netboot.housenet.yaleman.org
 grafana.housenet.yaleman.org
 helios1-v4.housenet.yaleman.org
 headlamp.yaleman.org
-www.api.housenet.yaleman.org
 kanidm4.housenet.yaleman.org
 freshrss.yaleman.org
 otlp.housenet.yaleman.org

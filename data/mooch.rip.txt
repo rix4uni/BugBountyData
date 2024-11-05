@@ -40,7 +40,7 @@ rd-artifactory.company.mooch.rip
 istio-ingressgateway-istio-system.apps.okd.rd-staging.mooch.rip
 aerial-frontend.rd-aerial-demo.mooch.rip
 timeline.rd-staging.mooch.rip
-www.api.okd.rd-staging.mooch.rip
+api.okd.rd-staging.mooch.rip
 rd-jira.company.mooch.rip
 apps.okd.rd-staging.mooch.rip
 wc.istio-ingressgateway-istio-system.apps.ocp.rd-earnest-sandbox.mooch.rip
@@ -81,7 +81,6 @@ codelabstest.company.mooch.rip
 tempest-raf.mooch.rip
 crypto.rd-staging.mooch.rip
 jaeger-collector.rd-staging.mooch.rip
-api.okd.rd-staging.mooch.rip
 tempest-staging.mooch.rip
 jaeger-frontend.rd-staging.mooch.rip
 keycloak.rd-staging.mooch.rip
@@ -399,7 +398,6 @@ mobileconsole-openshift-console.apps.okd.rd-staging.mooch.rip
 istio-ingressgateway-istio-system-file.apps.okd.rd-staging.mooch.rip
 istio-ingressjaeger-collector-istio-system.apps.ocp.rd-earnest-sandbox.mooch.rip
 istio-ingressgateway-istio-systemhkg.apps.okd.rd-staging.mooch.rip
-www.apps.okd.rd-staging.mooch.rip
 console-openshift-consoleapi-docs.apps.okd.rd-staging.mooch.rip
 console-openshift-consoleyy.apps.okd.rd-staging.mooch.rip
 bucketistio-ingressgateway-istio-system.apps.okd.rd-staging.mooch.rip
@@ -1141,7 +1139,6 @@ mon-istio-ingressgateway-istio-system.apps.okd.rd-staging.mooch.rip
 perkeep.apps.okd.rd-staging.mooch.rip
 da.console-openshift-console.apps.okd.rd-staging.mooch.rip
 console-openshift-consolepay.apps.okd.rd-staging.mooch.rip
-www.mooch.rip
 stgconsoleadm.apps.okd.rd-staging.mooch.rip
 americaconsole-openshift-console.apps.okd.rd-staging.mooch.rip
 wc.istio-ingressgateway-istio-system.enrichment.apps.okd.rd-earnest-sandbox.mooch.rip

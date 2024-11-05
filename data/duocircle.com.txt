@@ -52,11 +52,9 @@ images.duocircle.com
 c1.ore.duocircle.com
 proxy2.ore.duocircle.com
 ftp.duocircle.com
-www.logstash1-public-us-west-2a.duocircle.com
 _dmarc.duocircle.com
 trust.duocircle.com
 mail.duocircle.com
-www.duocircle.com
 neticca2.ore.duocircle.com
 cont3.ore.duocircle.com
 conta1.ore.duocircle.com
@@ -70,4 +68,3 @@ proxy1.ore.duocircle.com
 devadmin.duocircle.com
 ds.duocircle.com
 docs.duocircle.com
-*.duocircle.com

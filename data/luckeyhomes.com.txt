@@ -1,4 +1,3 @@
-www.luckeyhomes.com
 releasehost.luckeyhomes.com
 book.luckeyhomes.com
 guest.luckeyhomes.com
@@ -21,7 +20,6 @@ images.luckeyhomes.com
 join.luckeyhomes.com
 imap.luckeyhomes.com
 email.mailgun.luckeyhomes.com
-*.luckeyhomes.com
 app.luckeyhomes.com
 beta.luckeyhomes.com
 email.mg.luckeyhomes.com

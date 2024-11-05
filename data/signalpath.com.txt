@@ -9,22 +9,18 @@ new-site.signalpath.com
 validation.signalpath.com
 test.signalpath.com
 g.signalpath.com
-www.clientdev.signalpath.com
+clientdev.signalpath.com
 jenkins.gcp.signalpath.com
 gateway-validation.signalpath.com
 data.product.signalpath.com
-clientdev.signalpath.com
 gcp.qa.signalpath.com
 grc.signalpath.com
 clientuat.signalpath.com
-www.clientuat.signalpath.com
 tableau.signalpath.com
 dev-stable.gcp.signalpath.com
-www.signalpath.com
 gateway-test.signalpath.com
 compare.signalpath.com
 support.signalpath.com
-www.support.signalpath.com
 dev-unstable.gcp.signalpath.com
 jenkins-unstable.gcp.signalpath.com
 kp.signalpath.com
@@ -38,7 +34,6 @@ sparc.signalpath.com
 test-viewpoint-api.gcp.signalpath.com
 test-crosscloud.gcp.signalpath.com
 dev-stable-crosscloud.gcp.signalpath.com
-*.g.signalpath.com
 prod-viewpoint-api.gcp.signalpath.com
 prod.gcp.signalpath.com
 stage-viewpoint-api.gcp.signalpath.com
@@ -50,7 +45,6 @@ prod-kp-viewpoint-api.gcp.signalpath.com
 dev-unstable-crosscloud.gcp.signalpath.com
 test.gcp.signalpath.com
 dev-stable-viewpoint-api.gcp.signalpath.com
-*.signalpath.com
 exp.signalpath.com
 jenkins-stable.gcp.signalpath.com
 api.signalpath.com
@@ -1338,7 +1332,6 @@ a2.g.signalpath.com
 1bg1.g.signalpath.com
 3mnh.g.signalpath.com
 h7vv.g.signalpath.com
-xww.g.signalpath.com
 email.g.signalpath.com
 wwf.g.signalpath.com
 e0bi.g.signalpath.com
@@ -2333,7 +2326,6 @@ ekg6.g.signalpath.com
 bne1.g.signalpath.com
 6p9q.g.signalpath.com
 emgi.g.signalpath.com
-www.g.signalpath.com
 dqnr.g.signalpath.com
 0mht.g.signalpath.com
 6-wg.g.signalpath.com
@@ -4178,7 +4170,6 @@ g5od.g.signalpath.com
 buy.g.signalpath.com
 ctw1.g.signalpath.com
 gtrp.g.signalpath.com
-dww.g.signalpath.com
 5fnk.g.signalpath.com
 bs2c.g.signalpath.com
 4i1j.g.signalpath.com

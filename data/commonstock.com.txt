@@ -90,17 +90,15 @@ cdn-assets.commonstock.com
 cdn.commonstock.com
 netdata.commonstock.com
 staging.user-content.commonstock.com
-www.uat.commonstock.com
+uat.commonstock.com
 blackbird.commonstock.com
 ucs.commonstock.com
 enrichment.commonstock.com
 staging.pds.commonstock.com
-uat.commonstock.com
 dev.link.commonstock.com
 trades.commonstock.com
 mds-experiment-tasktiger.commonstock.com
 mds-tasktiger.commonstock.com
-www.commonstock.com
 api.commonstock.commonstock.com
 dev.feed.commonstock.com
 bookmarks.commonstock.com
@@ -111,7 +109,7 @@ alerts.commonstock.com
 staging.link.commonstock.com
 app.staging.commonstock.com
 nats-client.commonstock.com
-www.about.commonstock.com
+about.commonstock.com
 dev.mds.commonstock.com
 staging.identity.commonstock.com
 user-content.commonstock.com
@@ -119,7 +117,6 @@ staging.feed.commonstock.com
 dashboard.commonstock.com
 feed.commonstock.com
 identity.commonstock.com
-about.commonstock.com
 app.uat.commonstock.com
 link.commonstock.com
 luigi-dev.commonstock.com

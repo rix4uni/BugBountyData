@@ -43,11 +43,9 @@ partnerships.booking.com
 developers.booking.com
 cruises.booking.com
 community.booking.com
-www.booking.com
 mobile-apps.booking.com
 c.booking.com
 nellie.booking.com
-www.c.booking.com
 web-vitals.booking.com
 iphone-xml.booking.com
 secure.c.booking.com
@@ -233,7 +231,6 @@ rbaron34-test.booking.com
 ha-prodoutprx-01-02.booking.com
 procurement.booking.com
 eva-home.booking.com
-www.surveys.booking.com
 lhr4.dqs.booking.com
 lhr4-bksb-03.voice.booking.com
 workplacedelegation.booking.com
@@ -256,9 +253,9 @@ tableau-dev.booking.com
 ash1-bkpb-01-ms.voice.booking.com
 authorityportaluat.booking.com
 pex-asia-05.vc.booking.com
-www.brand.booking.com
+brand.booking.com
 mailout-101-r4.booking.com
-www.cares.booking.com
+cares.booking.com
 _dmarc.mx6.booking.com
 demand.developers.booking.com
 wiki-l.booking.com
@@ -414,7 +411,6 @@ bk-eu-west4.prod.booking.com
 mailtrap.uat.partner.booking.com
 www-staging.booking.com
 sap-wzrdspldev4a2.sap.bk-eu-west7.dqs.booking.com
-www.business.booking.com
 proxy-out-l.booking.com
 lhr4-webrtcme-02.voice.booking.com
 hms.c.booking.com
@@ -554,14 +550,13 @@ spf.booking.com
 itsupport.booking.com
 car-pricing-pricing.prod.cloud.booking.com
 gpgw01.ams20.corp.booking.com
-www.secure-admin.booking.com
 test-ams4.booking.com
 o7.sg.booking.com
 sapk-devpi.ams4.sap.booking.com
 lhr4-ucfin22-01.voice.booking.com
 chatdev.booking.com
 www-ash1.booking.com
-www.suite-sites.booking.com
+suite-sites.booking.com
 gw4gp2.booking.com
 gw6gp2.booking.com
 gw1gp3.booking.com
@@ -652,7 +647,6 @@ appdev.support.booking.com
 awslhr-cpass-dev01.booking.com
 las3-bksb-03.voice.booking.com
 ams20-wg-client-rp.physicalsecurity.ams20.corp.booking.com
-www.iphone-xml.booking.com
 mailout-206-r1.booking.com
 o2.booking.com
 jupyter-lhr4.booking.com
@@ -710,7 +704,7 @@ workforce-dev.voicedqs.booking.com
 hgk1-bk-sbcvt-03.voice.booking.com
 test-prod.booking.com
 o6.sg.booking.com
-www.refer.booking.com
+refer.booking.com
 d1.booking.com
 awmdm.booking.com
 support.marketplace.booking.com
@@ -886,7 +880,6 @@ www-hkg1.booking.com
 ams4-cpaslab-02.booking.com
 ash1-bkfin2-01.voice.booking.com
 api-lhr4.booking.com
-suite-sites.booking.com
 ams4-bkcjsb-01.voice.booking.com
 mailout-204-r6.booking.com
 admin.api.booking.com
@@ -1019,7 +1012,6 @@ verint-lhr4.voice.booking.com
 lhr4-bkcjsb-01.voice.booking.com
 cpass.booking.com
 lhr4-lbimp-01.voicedqs.booking.com
-www.join.booking.com
 wukong-res.booking.com
 lhr4-cpass-01.booking.com
 iphone-xml-aws.booking.com
@@ -1030,7 +1022,6 @@ events.booking.com
 ams4-verapp-03.voice.booking.com
 pex-asia-01.vc.booking.com
 cloud.email.partnerships.booking.com
-www.secure-supply-xml.booking.com
 test-secure.booking.com
 mail-hd06.booking.com
 gw4gp3.booking.com
@@ -1059,7 +1050,7 @@ ece.support.booking.com
 o30.sg.booking.com
 orchestratorsrvc.support.booking.com
 pex-us-04.vc.booking.com
-www.partner-courses.booking.com
+partner-courses.booking.com
 secure-attractions-xml.c.booking.com
 globalproductions.booking.com
 mailout-104-r3.booking.com
@@ -1101,14 +1092,13 @@ ams4.prod.booking.com
 mx103.booking.com
 usvcsexp.voice.booking.com
 orsusscimapi-sandbox.booking.com
-www.communicationzone.booking.com
+communicationzone.booking.com
 choice.suite.booking.com
 mailout-201-int.booking.com
 appslhr4.support.booking.com
 mail-me4.booking.com
 proxy-out-a-2.booking.com
 sg-a-mail-3.booking.com
-brand.booking.com
 lhr4-lb1unty-01-ms.voicedqs.booking.com
 sapk-rdeck-01.ams4.sap.booking.com
 gw5gp3.booking.com
@@ -1193,7 +1183,6 @@ gi-ams4.booking.com
 grp216-6.msg.booking.com
 lhr4-bkfin22-01.voice.booking.com
 grphost.scout.booking.com
-www.click.booking.com
 mailinglist.itspublic.booking.com
 cars-dev.booking.com
 wallet-backoffice-cell.fintech.dev.booking.com
@@ -1229,7 +1218,6 @@ uat.partnerships.booking.com
 dwfdev.sap.booking.com
 prodout-01.booking.com
 vbase.voice.booking.com
-communicationzone.booking.com
 tableau-dr-a.booking.com
 uat.partner.booking.com
 grp216-136.msg.booking.com
@@ -1252,7 +1240,6 @@ o11.sg.booking.com
 checkmarx.booking.com
 mailinglist.support.booking.com
 www-s.booking.com
-www.vpn.booking.com
 sccmdp-westindia.itspublic.booking.com
 mailout-207-r2.booking.com
 lhr4-webrtcse-02.voice.booking.com
@@ -1295,7 +1282,6 @@ vpn-21.booking.com
 las3-ucvcsexp-01.voice.booking.com
 guidamutuo.netwww.booking.com
 mailout-104-r4.booking.com
-www.suite.booking.com
 ci-support.booking.com
 lhr4-bk-sbcvt-03.voice.booking.com
 mx110.booking.com
@@ -1339,7 +1325,6 @@ ams4-lbwebrtcme-02.voicedqs.booking.com
 ash1-bktftp-01.voice.booking.com
 769803.booking.com
 pegadev.bugs.booking.com
-www.sustainability.booking.com
 mail-hd09.booking.com
 siemapi.support.booking.com
 sha8gwgp.booking.com
@@ -1352,7 +1337,6 @@ lhr4-lb1sb-02.voicedqs.booking.com
 pex-asia-04.vc.booking.com
 dqs.igw.booking.com
 sndev03.booking.com
-partner-courses.booking.com
 u.booking.com
 about-staging.booking.com
 ash1-bk-sbcvt-03.voice.booking.com
@@ -1427,7 +1411,6 @@ cloudfront-prod.meshgw.booking.com
 admins.crisis.booking.com
 mailout-108-r3.booking.com
 foreman.prod.booking.com
-cares.booking.com
 csagents.crisis.booking.com
 secure-staging.booking.com
 ash1-lbwebrtcme-01.voicedqs.booking.com
@@ -1448,7 +1431,6 @@ mailout-102-r2.booking.com
 propertypage-staging.booking.com
 cs.booking.com
 supply2-xml.c.booking.com
-www.metrics.business.booking.com
 api.dev.transport.booking.com
 glb.booking.com
 partners.crisis.booking.com
@@ -1464,7 +1446,6 @@ marathon-ams4.booking.com
 ha-prodoutdns-01-02.booking.com
 berdyanskie2.ams4.lom.booking.com
 controlrooms.booking.com
-www.airwatch.booking.com
 mail-hd05.booking.com
 postalnotifications.booking.com
 gw7gp3.booking.com
@@ -1599,7 +1580,6 @@ xmpp-l2.booking.com
 webexadm.booking.com
 shelter.booking.com
 transportaffiliates.support.booking.com
-www.secure-distribution-xml.booking.com
 workforce-lhr4.voice.booking.com
 ugcupload.c.booking.com
 o18.sg.booking.com
@@ -1632,7 +1612,6 @@ workforce.glb.voice.booking.com
 auditbeat.eu-lon-staging1.lon1.prod.booking.com
 rfhpkeqlecmrkgouwaafkzvopgownfawovahtsjl.booking.com
 tfe.booking.com
-www.suitehelp.booking.com
 grp59-26.msg.booking.com
 758184.booking.com
 363902.booking.com
@@ -1839,7 +1818,6 @@ nostradamus.booking.com
 las3-ucfin18-01.voice.booking.com
 broken.support.booking.com
 citigroup.prod.booking.com
-www.guestreviewawards.booking.com
 sg-a-mail-6.booking.com
 rateintelligence.booking.com
 lhr4-cpass-04.booking.com
@@ -1882,7 +1860,6 @@ o15.sg.booking.com
 ams4-bkfin17-01.voice.booking.com
 eva.booking.com
 ns4.voice.booking.com
-refer.booking.com
 bhelp.support.booking.com
 carrier-staging.booking.com
 ash1-bkimp-02.voice.booking.com

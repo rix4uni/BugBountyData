@@ -1,5 +1,5 @@
 specs.wacapps.net
-www.kt.api.wacapps.net
+kt.api.wacapps.net
 communitywww.wacapps.net
 g.wacapps.net
 app15-4.eng.wacapps.net
@@ -36,11 +36,10 @@ api.wacapps.net
 mesh2.wacapps.net
 nat-vip.eng.wacapps.net
 router1-2.eng.wacapps.net
-www.ktstaging.api.wacapps.net
+ktstaging.api.wacapps.net
 gateway.wacapps.net
 smtp.wacapps.net
 app15-1.eng.wacapps.net
-ktstaging.api.wacapps.net
 router-tw.eng.wacapps.net
 ussdns2.eng.wacapps.net
 owa.wacapps.net
@@ -50,7 +49,6 @@ asa.wacapps.net
 cdn.wacapps.net
 debian-ext.eng.wacapps.net
 app15-3.eng.wacapps.net
-kt.api.wacapps.net
 nat-vip-tw.eng.wacapps.net
 ca.wacapps.net
 auth.wacapps.net
@@ -65,10 +63,8 @@ fw1-1.eng.wacapps.net
 w2c.wacapps.net
 wacapis.wacapps.net
 app15-2.eng.wacapps.net
-www.smart.api.wacapps.net
-git.wacapps.net
-www.wacapps.net
 smart.api.wacapps.net
+git.wacapps.net
 app30.eng.wacapps.net
 compliance.wacapps.net
 router1-3.eng.wacapps.net

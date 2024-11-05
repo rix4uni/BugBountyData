@@ -58,7 +58,6 @@ staging-navigator.attomdata.com
 status.attomdata.com
 testfiles.attomdata.com
 wadmin.attomdata.com
-www.attomdata.com
 adfs.attomdata.com
 api1.attomdata.com
 attomdatalist.attomdata.com
@@ -75,11 +74,5 @@ matt.attomdata.com
 obi-std.gateway.attomdata.com
 octopus.attomdata.com
 propertynavigator1.attomdata.com
-www.adfs.attomdata.com
-www.api.gateway.attomdata.com
-www.files.attomdata.com
-www.list.attomdata.com
-www.navigator.attomdata.com
-www.reports.attomdata.com
 www1.attomdata.com
 wwwtest.attomdata.com

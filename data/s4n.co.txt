@@ -612,7 +612,6 @@ infra-534.bio4n-dev.hub.s4n.co
 sonarqube-ag.hub-zalenium.s4n.co
 i47-pm1.hub-zalenium.s4n.co
 infra-331-jd.bio4n-qa.hub.s4n.co
-www.s4n.co
 7-64-jdl.jcp.hub.s4n.co
 new-kiali.bio4n-qa.hub.s4n.co
 i-inf-69-ag.hub-jaeger.s4n.co
@@ -1073,4 +1072,3 @@ jaeger122-pm1.df.hub.s4n.co
 i-516-jd-2.bio4n-dev.hub.s4n.co
 i-64-jdl-1.dk.hub.s4n.co
 i-79-cm.bio4n-feature.hub.s4n.co
-*.copa.s4n.co

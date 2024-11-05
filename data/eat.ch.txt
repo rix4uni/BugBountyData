@@ -1,6 +1,5 @@
 wwww.eat.ch
 harbor.eat.ch
-www.eat.ch
 mobile.eat.ch
 origin-partner.eat.ch
 mta.update.eat.ch
@@ -169,11 +168,6 @@ wiki.eat.ch
 wss.eat.ch
 ww.eat.ch
 zendesk3.eat.ch
-*.eat.ch
-*.frontend.office.prod.clops.eat.ch
-*.frontend.office.stag.clops.eat.ch
-*.emails.eat.ch
-*.orders.eat.ch
 origin-cw.eat.ch
 02v0-okta-staging-asana.gateway.dev.staging.eat.ch
 02v0-okta-staging-origin-api-new-applications.dev.staging.eat.ch
@@ -222,12 +216,10 @@ origin-cw.eat.ch
 02v0-okta-stagingtomcatasana.dev.staging.eat.ch
 02v0-okta-stagingtomcatstaging.dev.staging.eat.ch
 02v0-okta-stagingtv.gateway.dev.staging.eat.ch
-www.danieli.eat.ch
 group.eat.ch
 th.eat.ch
 this.eat.ch
 computer.wants.eat.ch
-www.cp.eat.ch
 com.eat.ch
 _dmarc.eat.ch
 nfs.eat.ch
@@ -1189,7 +1181,6 @@ acorn.eat.ch
 0-10-57-0-178-185-1-51-82.frontend.office.prod.clops.eat.ch
 stage1.frontend.office.prod.clops.eat.ch
 boyinlanqiubocaiwangzhan.eat.ch
-www.baijialexuefa.eat.ch
 bocaigongsiyi.eat.ch
 0-102-141-1629451967search.frontend.office.prod.clops.eat.ch
 boyinxianjinkaihudubowangpingtai.eat.ch
@@ -2424,7 +2415,6 @@ pantheon-app.0-102-141-44be897b-482936111.frontend.office.prod.clops.eat.ch
 basecamp.eat.ch
 5c5c5c.eat.ch
 0-10-57-1-100-77.frontend.office.prod.clops.eat.ch
-www.beta.eat.ch
 aomenhaishanghuanggongyulecheng.eat.ch
 berndpulchmedotcom.eat.ch
 0-102-141-1365354230-0-178-185-1938503262.frontend.office.prod.clops.eat.ch
@@ -2477,7 +2467,6 @@ pantheon-app.0-102-141-1818533794.frontend.office.prod.clops.eat.ch
 0-102-141-0-172-361-51-82.frontend.office.prod.clops.eat.ch
 brookfield.eat.ch
 pantheon-app.0-102-141-1675781134emeaingv1.frontend.office.prod.clops.eat.ch
-www.blog.eat.ch
 0-102-141-1260217120.frontend.office.prod.clops.eat.ch
 7mquanxunwangzuqiupankou.eat.ch
 3uyulechengdubaijiale.eat.ch
@@ -3089,7 +3078,6 @@ bocaiyeyouxizixun.eat.ch
 aomenbocaixingyedeyanjiu.eat.ch
 0-102-141-1871560594-app.frontend.office.prod.clops.eat.ch
 pantheon-app.0-102-141-1876391398app.frontend.office.prod.clops.eat.ch
-www.barclays.eat.ch
 pantheon-app.0-102-141.0-10-57.frontend.office.prod.clops.eat.ch
 canis.eat.ch
 0-10-5700d0a584ca-apgea.frontend.office.prod.clops.eat.ch
@@ -3842,7 +3830,7 @@ adigital.eat.ch
 0-10-57v1-security-141-132.frontend.office.prod.clops.eat.ch
 pantheon-app.0-102-141-0-173-165.frontend.office.prod.clops.eat.ch
 baldrick.eat.ch
-www.138.eat.ch
+138.eat.ch
 bocaipentuyouxiangongsi.eat.ch
 3.frontend.office.prod.clops.eat.ch
 aomenbaijialewangshangtouzhu.eat.ch
@@ -4066,7 +4054,6 @@ a200.eat.ch
 base1.eat.ch
 pantheon-app.0-102-141-1352938487emeaingv1.frontend.office.prod.clops.eat.ch
 baijialeduizijiqiao.eat.ch
-138.eat.ch
 baijialeshipinbaijiale365.eat.ch
 0-102-141-1914617367.frontend.office.prod.clops.eat.ch
 aobo999.eat.ch
@@ -4510,7 +4497,6 @@ bolezuqiubocaidaohang.eat.ch
 3344555comxinquanxunwang.eat.ch
 newsletteraladin.0-10-57v1-securityeat.frontend.office.prod.clops.eat.ch
 baijinguojiyulechengfanyong.eat.ch
-www.advantage.eat.ch
 bec4-beyondthepicketfence.eat.ch
 caishenyulechengxinyudu.eat.ch
 ambassadors.eat.ch
@@ -4784,7 +4770,6 @@ allergy.eat.ch
 bocaitiyan.eat.ch
 pantheon-app.0-102-141-0-178-185-107deals.frontend.office.prod.clops.eat.ch
 aozuqiubaijiale.eat.ch
-3ww.eat.ch
 bet365cunkuanwenti.eat.ch
 pantheon-app.0-102-141-1228161155-app.frontend.office.prod.clops.eat.ch
 aic.eat.ch

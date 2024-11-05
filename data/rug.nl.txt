@@ -56,11 +56,11 @@ bep-producer.ifed-test.rug.nl
 wiki.hpc.rug.nl
 omegacen26.target.rug.nl
 molgenis26.gcc.rug.nl
-www.oprit.rug.nl
+oprit.rug.nl
 books.ugp.rug.nl
 omp.ub.rug.nl
 cgi.rug.nl
-www.biol.rug.nl
+biol.rug.nl
 pure.rug.nl
 pmxdfh.id.rug.nl
 1password-scim.id.rug.nl
@@ -109,7 +109,7 @@ flits102-126.flits.rug.nl
 payt.rug.nl
 amazingeuropeanbison.web.rug.nl
 argo.k8s.rug.nl
-www.let.rug.nl
+let.rug.nl
 k8s05.rug.nl
 video.rug.nl
 beheer.oprit.rug.nl
@@ -231,7 +231,6 @@ git.web.rug.nl
 git.webhosting.rug.nl
 sonarqube.ifed-staging.rug.nl
 education-staging.rug.nl
-www.offboarding.rug.nl
 offboarding.rug.nl
 rdms-prod-resc1.data.rug.nl
 toptst03.serverspace.rug.nl
@@ -346,7 +345,6 @@ nvidia-lic-3.workspace.rug.nl
 nvidia-lic-1.workspace.rug.nl
 nvidia-lic-2.workspace.rug.nl
 rundeck.service.rug.nl
-www.events.rug.nl
 events.rug.nl
 epiphans-proxy.service.rug.nl
 test.ucms.rug.nl
@@ -418,6 +416,5 @@ grimas-tst.gai.rug.nl
 synergy.gai.rug.nl
 grimas.gai.rug.nl
 test-sp.ucms.rug.nl
-*.dev.gmw.rug.nl
 dev.gmw.rug.nl
 s3.web.rug.nl

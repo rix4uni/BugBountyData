@@ -6,7 +6,6 @@ abwebpay-mbod-qa.bankofamerica.com
 abwebpay-mbod.bankofamerica.com
 sso-ceqa.bankofamerica.com
 eib.bankofamerica.com
-www.bankofamerica.com
 mobile.bankofamerica.com
 smallbusinessonlinecommunity.bankofamerica.com
 hph-checkfree.bankofamerica.com
@@ -1016,10 +1015,7 @@ gmi-va-cont.bankofamerica.com
 epass-uat.bankofamerica.com
 epass-uat-new.bankofamerica.com
 myhealth.bankofamerica.com
-www.healthbenefits.bankofamerica.com
 healthbenefits.bankofamerica.com
-www.myhealth.bankofamerica.com
-www.benefitsolutions.bankofamerica.com
 benefitsolutions.bankofamerica.com
 cpo-accelerate.bankofamerica.com
 vip-cpo-accelerate-splash-proda.bankofamerica.com
@@ -1290,7 +1286,6 @@ cpmobile-ex-splash1-uat1.bankofamerica.com
 cpmobile-ex-splash2-uat1.bankofamerica.com
 cpmobile-ex-nv-uat1.bankofamerica.com
 locations.privatebank.bankofamerica.com
-www.locations.privatebank.bankofamerica.com
 assets.privatebank.bankofamerica.com
 maps.privatebank.bankofamerica.com
 rstatic.privatebank.bankofamerica.com
@@ -1467,9 +1462,7 @@ cmbsi.bankofamerica.com
 bofamlinsight-lt2.bankofamerica.com
 bofamlinsight-pz-lt2.bankofamerica.com
 private.bankofamerica.com
-www.private.bankofamerica.com
 uat.private.bankofamerica.com
-www.uat.private.bankofamerica.com
 ephi-tch-mqipt-1-test-va.bankofamerica.com
 mqp.qpk5chin.bankofamerica.com
 authhub46252-lle.bankofamerica.com
@@ -2723,7 +2716,6 @@ erequest-uat.bankofamerica.com
 ifx-ws-p-emea.bankofamerica.com
 ifx-ws-r-emea.bankofamerica.com
 invest-redirect.bankofamerica.com
-www.invest-redirect.bankofamerica.com
 invest-redirect-va.bankofamerica.com
 invest-redirect-padc.bankofamerica.com
 storefront-sit1a.bankofamerica.com
@@ -2793,7 +2785,7 @@ warehouselending-r.bankofamerica.com
 devfsa.ims.bankofamerica.com
 devmlo.ims.bankofamerica.com
 devsbb.ims.bankofamerica.com
-www.privatebankfssit2.bankofamerica.com
+privatebankfssit2.bankofamerica.com
 sit1fsa.ims.bankofamerica.com
 sit1mlo.ims.bankofamerica.com
 sit1sbb.ims.bankofamerica.com
@@ -2869,7 +2861,7 @@ gbam-gateway-pz-sit2.bankofamerica.com
 gbam-pz-gateway-ext-sit2.bankofamerica.com
 auth.privatebankfssit1.bankofamerica.com
 webapi.privatebankfssit1.bankofamerica.com
-www.privatebankfssit1.bankofamerica.com
+privatebankfssit1.bankofamerica.com
 homeloans.bankofamerica.com
 view.gcibemail.bankofamerica.com
 passwordreset-uat.bankofamerica.com
@@ -2911,7 +2903,7 @@ lva62bodlsas01v.sdi.corp.bankofamerica.com
 lva63bodlsas01v.sdi.corp.bankofamerica.com
 lva72bodlsas01v.sdi.corp.bankofamerica.com
 lva73bodlsas01v.sdi.corp.bankofamerica.com
-www.privatebankfsdev.bankofamerica.com
+privatebankfsdev.bankofamerica.com
 smfa-uat-sz-vae.bankofamerica.com
 smfa-uat-sz-vae-vip.bankofamerica.com
 smfa-uat2-sz-vae-vip.bankofamerica.com
@@ -2993,7 +2985,7 @@ smfa-prd-sz-rva-vip.bankofamerica.com
 smfa-prd-sz-rva.bankofamerica.com
 smfa-prd-sz-padc-vip.bankofamerica.com
 smfa-prd-sz-padc.bankofamerica.com
-www.privatebankfspt1.bankofamerica.com
+privatebankfspt1.bankofamerica.com
 dmdc-adsf-nonprod.bankofamerica.com
 mou-uat.bankofamerica.com
 portal-india.bankofamerica.com
@@ -3131,7 +3123,6 @@ b2bigateway-sws.bankofamerica.com
 b2bigateway-sws-tx.bankofamerica.com
 b2bigateway-sws-pa.bankofamerica.com
 b2bigateway-sws-va.bankofamerica.com
-www.privatebank.bankofamerica.com
 privatebank.bankofamerica.com
 hhcb-dr-new.bankofamerica.com
 hhcb.bankofamerica.com
@@ -3311,7 +3302,7 @@ b2biportal-payment-uat2.bankofamerica.com
 b2biportal-payment-uat3.bankofamerica.com
 tch-ste-jws-23nonprod-hsm.bankofamerica.com
 www-sit3.ecnp.bankofamerica.com
-www.managerewardsonline.bankofamerica.com
+managerewardsonline.bankofamerica.com
 autoloan-pt1-new.bankofamerica.com
 dealertrk-pt1-new.bankofamerica.com
 elending-pt1-new.bankofamerica.com
@@ -3443,7 +3434,7 @@ staging.kyndrylalerting.bankofamerica.com
 staging-ibmalerting.bankofamerica.com
 staging-attalerting.bankofamerica.com
 order.carecredit-staging.bankofamerica.com
-www.staging.managerewardsonline.bankofamerica.com
+staging.managerewardsonline.bankofamerica.com
 order.carecredit-sandbox.bankofamerica.com
 ndmmgr.mjwm.bankofamerica.com
 vsimssuppliers-uat3.bankofamerica.com

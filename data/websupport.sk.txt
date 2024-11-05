@@ -1,4 +1,4 @@
-*.r5.websupport.sk
+r5.websupport.sk
 fireapp.vps.websupport.sk
 stabilit2.vps.websupport.sk
 friday.vps.websupport.sk
@@ -16,11 +16,9 @@ bridges.vps.websupport.sk
 r1.websupport.sk
 activitypointtest.vps.websupport.sk
 linux-mirror.websupport.sk
-www.websupport.sk
 shellserver-3.websupport.sk
 zelena.vps.websupport.sk
 helske.vps.websupport.sk
-r5.websupport.sk
 truban.vps.websupport.sk
 skilllabdev1.vps.websupport.sk
 r0.websupport.sk
@@ -1024,7 +1022,6 @@ philipfry.vps.websupport.sk
 239.154.188.213.in-addr.arpa.websupport.sk
 smartdesigns.vps.websupport.sk
 7.155.188.213.in-addr.arpa.websupport.sk
-www.staging.websupport.sk
 172.174.17.37.in-addr.arpa.websupport.sk
 brownsk1-ip1.websupport.sk
 219.235.32.193.in-addr.arpa.websupport.sk
@@ -1068,7 +1065,7 @@ displej.vps.websupport.sk
 86.172.9.37.in-addr.arpa.websupport.sk
 251.108.140.185.in-addr.arpa.websupport.sk
 164.153.188.213.in-addr.arpa.websupport.sk
-www.epp.websupport.sk
+epp.websupport.sk
 12.88.111.185.in-addr.arpa.websupport.sk
 157.108.140.185.in-addr.arpa.websupport.sk
 139.170.9.37.in-addr.arpa.websupport.sk
@@ -1213,7 +1210,6 @@ bender.websupport.sk
 roxdor.vps.websupport.sk
 studiozdravia.sk.data14.websupport.sk
 64.152.188.213.in-addr.arpa.websupport.sk
-www.bridges.vps.websupport.sk
 170.29.210.195.in-addr.arpa.websupport.sk
 211.152.188.213.in-addr.arpa.websupport.sk
 104.172.9.37.in-addr.arpa.websupport.sk
@@ -2093,7 +2089,7 @@ opencom.vps.websupport.sk
 daslaa.vps.websupport.sk
 120.174.17.37.in-addr.arpa.websupport.sk
 calc.fpvps.websupport.sk
-www.mynewserver7.vps.websupport.sk
+mynewserver7.vps.websupport.sk
 mysmeles.vps.websupport.sk
 holdthefrontpage.vps.websupport.sk
 118.90.111.185.in-addr.arpa.websupport.sk
@@ -4786,7 +4782,6 @@ redneck.websupport.sk
 xxdeb.vps.websupport.sk
 vipling.vps.websupport.sk
 aeihosting.vps.websupport.sk
-mynewserver7.vps.websupport.sk
 124.168.9.37.in-addr.arpa.websupport.sk
 mail-proxyout-mua-10.websupport.sk
 220.168.9.37.in-addr.arpa.websupport.sk
@@ -5865,7 +5860,6 @@ igo.vps.websupport.sk
 anjelskydiabolske.vps.websupport.sk
 143.88.111.185.in-addr.arpa.websupport.sk
 serverusa.vps.websupport.sk
-www.mail.websupport.sk
 fc-premium-ip2.vps.websupport.sk
 130.88.111.185.in-addr.arpa.websupport.sk
 lb-proxy-24.websupport.sk
@@ -5974,12 +5968,10 @@ matykveve.vps.websupport.sk
 omfgholycrapvol2.vps.websupport.sk
 morseone.vps.websupport.sk
 196.154.188.213.in-addr.arpa.websupport.sk
-epp.websupport.sk
 24.171.9.37.in-addr.arpa.websupport.sk
 zahorska.vps.websupport.sk
 experiment.vps.websupport.sk
 117.169.9.37.in-addr.arpa.websupport.sk
-www.vlastnawebstranka.websupport.sk
 246.88.111.185.in-addr.arpa.websupport.sk
 olafinka.vps.websupport.sk
 lukasws.vps.websupport.sk
@@ -6768,8 +6760,6 @@ lb-proxyssl-2.websupport.sk
 170.153.188.213.in-addr.arpa.websupport.sk
 3dlb.vps.websupport.sk
 ipeople.vps.websupport.sk
-*.m1.websupport.sk
-*.r1.websupport.sk
 img.websupport.sk
 snsn2.vps.websupport.sk
 blewarmor.futbol.d.websupport.sk
@@ -6812,7 +6802,7 @@ ns4.websupport.sk
 chasesecurityupdates.secureaccountupdate.com.d.websupport.sk
 web.websupport.sk
 postgresql.r2.websupport.sk
-www.advance356.vps.websupport.sk
+advance356.vps.websupport.sk
 16.90.111.185.in-addr.arpa.websupport.sk
 aooasiuxza.vps.websupport.sk
 wwww.websupport.sk

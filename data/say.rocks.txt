@@ -1,5 +1,4 @@
-*.say.rocks
-*.sandbox.say.rocks
+sandbox.say.rocks
 api.say.rocks
 api.cloud.say.rocks
 api.internal.kubernetes.say.rocks
@@ -71,7 +70,6 @@ preferences-test.say.rocks
 preferences.sandbox.say.rocks
 previsional.say.rocks
 retried.say.rocks
-sandbox.say.rocks
 santasworkshop.cloud.say.rocks
 santasworkshop.qa.say.rocks
 scarp.say.rocks
@@ -100,7 +98,6 @@ vote.sandbox.say.rocks
 waitlist.say.rocks
 weighty.say.rocks
 wooziness.say.rocks
-www.say.rocks
 assets.say.rocks
 bulk-uploads.say.rocks
 election-reports.say.rocks
@@ -120,11 +117,9 @@ preferences-cloud.say.rocks
 voting-rob.cloud.say.rocks
 voting.cloud.say.rocks
 voting.qa.say.rocks
-www.cloud.say.rocks
 corp.say.rocks
 api.kubernetes.say.rocks
 styleguide.say.rocks
-www.brokerportal.cloud.say.rocks
 broker-assets.say.rocks
 issuer-cloud.say.rocks
 meeting-attendance.say.rocks

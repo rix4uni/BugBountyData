@@ -1,4 +1,4 @@
-*.bondi.palantirfoundry.com.au
+bondi.palantirfoundry.com.au
 aplos.palantirfoundry.com.au
 aplos-bootcamp.palantirfoundry.com.au
 autumn.palantirfoundry.com.au
@@ -9,7 +9,6 @@ autumn-mgmt.palantirfoundry.com.au
 autumn-mgmt-staging.palantirfoundry.com.au
 autumn-staging.palantirfoundry.com.au
 axle-bootcamp.palantirfoundry.com.au
-bondi.palantirfoundry.com.au
 calluna.palantirfoundry.com.au
 calluna-compute.palantirfoundry.com.au
 calluna-container-registry.palantirfoundry.com.au
@@ -53,6 +52,4 @@ waratah-mgmt.palantirfoundry.com.au
 zire-mgmt.palantirfoundry.com.au
 zire-mgmt-staging.palantirfoundry.com.au
 waratah-container-registry-staging.palantirfoundry.com.au
-www.palantirfoundry.com.au
 estimateone.palantirfoundry.com.au
-*.aplos.palantirfoundry.com.au

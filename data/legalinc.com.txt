@@ -38,7 +38,6 @@ cruiseplanners.legalinc.com
 portal-stripe-uat.legalinc.com
 pri-uat.legalinc.com
 treehugger-ai-dev.legalinc.com
-www.legalinc.com
 autoarticle.legalinc.com
 hirschbach-uat.legalinc.com
 portal-dev.legalinc.com
@@ -61,7 +60,7 @@ sop-dev.legalinc.com
 openvpn.legalinc.com
 orders-uat.legalinc.com
 pages.legalinc.com
-www.corporatekits.legalinc.com
+corporatekits.legalinc.com
 comms-dev.legalinc.com
 compliance.legalinc.com
 dashboard-development.legalinc.com
@@ -75,7 +74,6 @@ connections.legalinc.com
 staging2.legalinc.com
 statewatcher.legalinc.com
 vpntest.legalinc.com
-corporatekits.legalinc.com
 raapi-staging.legalinc.com
 raapi-uat.legalinc.com
 renew-uat.legalinc.com

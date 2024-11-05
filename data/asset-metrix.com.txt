@@ -10,11 +10,9 @@ vpn-02.asset-metrix.com
 webmail.asset-metrix.com
 unigestion.asset-metrix.com
 am-sbc-01.asset-metrix.com
-www.am-sbc-01.asset-metrix.com
 lp-services.asset-metrix.com
 pocon.asset-metrix.com
-www.asset-metrix.com
-www.am-api.bnpparibas.asset-metrix.com
+am-api.bnpparibas.asset-metrix.com
 bnpparibas-dev.asset-metrix.com
 zpa.asset-metrix.com
 matterwave.services.asset-metrix.com
@@ -26,7 +24,6 @@ services-preprod.asset-metrix.com
 auth.bnpparibas.asset-metrix.com
 point3.asset-metrix.com
 new.asset-metrix.com
-am-api.bnpparibas.asset-metrix.com
 bnpparibas-demo.asset-metrix.com
 pras.asset-metrix.com
 services.asset-metrix.com
@@ -43,11 +40,7 @@ maxburg.services.asset-metrix.com
 bnpparibas.asset-metrix.com
 demo.asset-metrix.com
 17capital.asset-metrix.com
-*.bnpparibas-dev.asset-metrix.com
 17capital.services.asset-metrix.com
 eoscp.services.asset-metrix.com
 dubag.services.asset-metrix.com
-*.bnpparibas.asset-metrix.com
 risk.services.asset-metrix.com
-*.bnpparibas-demo.asset-metrix.com
-*.bnpparibas-preprod.asset-metrix.com

@@ -9,7 +9,7 @@ ingress.amplifr.com
 logux-staging.amplifr.com
 cdn.legacy.amplifr.com
 imgcdn.legacy.amplifr.com
-www.landings.amplifr.com
+landings.amplifr.com
 legacy.amplifr.com
 gitlab.amplifr.com
 imgcdn.amplifr.com
@@ -28,7 +28,6 @@ wiki.amplifr.com
 redash.amplifr.com
 redash-new.amplifr.com
 testing.amplifr.com
-landings.amplifr.com
 help.amplifr.com
 media.staging.amplifr.com
 mattermost.amplifr.com

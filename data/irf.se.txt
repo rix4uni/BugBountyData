@@ -158,7 +158,6 @@ dalin.irf.se
 arkivz.eiscat.irf.se
 flare.lund.irf.se
 tima.irf.se
-www.eduroam.irf.se
 hiroshima-cu.irf.se
 imadpu.irf.se
 kocken.irf.se
@@ -196,7 +195,6 @@ aerosol.irf.se
 aspera-3.irf.se
 printerplan2.irf.se
 databear-raid.irf.se
-www.irf.se
 brendel.alis.irf.se
 vesa.irf.se
 uwepc.irf.se
@@ -277,7 +275,6 @@ szinty.irf.se
 johans.irf.se
 analysis.eiscat.irf.se
 irfscanner.irf.se
-www.spacelab.irf.se
 aerohive12.irf.se
 observatory.irf.se
 teliamd110.irf.se
@@ -328,7 +325,6 @@ guest1.lund.irf.se
 aerohive3.irf.se
 receptiondisplay.irf.se
 spacemaster.irf.se
-www.alis.irf.se
 radioirf-mag.irf.se
 infra-ki.irf.se
 sgupower2.irf.se
@@ -385,7 +381,6 @@ mex-thor.irf.se
 sunrise.lund.irf.se
 rpi-gps.irf.se
 yamau.irf.se
-www.umea.irf.se
 stefank.irf.se
 tomo.irf.se
 ilfil-jamton.umea.irf.se
@@ -468,7 +463,6 @@ vrooom.umea.irf.se
 nimrod.irf.se
 sol.lund.irf.se
 lidar2.irf.se
-www.lund.irf.se
 gadget.eiscat.irf.se
 bigbear.irf.se
 durque.irf.se
@@ -508,7 +502,6 @@ alak.irf.se
 paf2.irf.se
 visitor-gw-5.guest.irf.se
 radiobear.irf.se
-www.mailserver.irf.se
 skollipv6.irf.se
 bettan.irf.se
 irf-gw-vlan7.dmz.irf.se
@@ -516,8 +509,6 @@ observatory2.irf.se
 rio4.irf.se
 callisto.irf.se
 radionear2.irf.se
-www.pluto.irf.se
-www.zabbix.irf.se
 linksys-wap54g-2.guest.irf.se
 magnus.irf.se
 lj2100.lund.irf.se
@@ -583,7 +574,6 @@ adslupp.irf.se
 sunet-gw4.irf.se
 irf2-ge2-1.irf.se
 pic.irf.se
-www.saturnus.irf.se
 nc60.eiscat.irf.se
 irf-gw-loopback0.irf.se
 radiorio.irf.se
@@ -596,7 +586,6 @@ gw-outer.eiscat.irf.se
 fw2-1.irf.se
 ra1.eiscat.irf.se
 meteor.irf.se
-www.fire.eiscat.irf.se
 fw1-carp-3.guest.irf.se
 irf-gw-23.irf.se
 ellab8.irf.se
@@ -698,7 +687,6 @@ kalle.irf.se
 kc.irf.se
 libra.irf.se
 mikko.irf.se
-www.code.irf.se
 wlanirf-aula.irf.se
 mark.irf.se
 lists-sympa.irf.se
@@ -730,7 +718,6 @@ vistor-gw-1.guest.irf.se
 misato.irf.se
 irf224.irf.se
 k4261.eiscat.irf.se
-www.outgoingmail.irf.se
 fw2-carp-5.guest.irf.se
 k3.eiscat.irf.se
 pclab.eiscat.irf.se
@@ -803,4 +790,3 @@ kuhn-ltu.irf.se
 idpshibbolethv4.irf.se
 carp-2.irf.se
 mongrel.irf.se
-www.mongrel.irf.se

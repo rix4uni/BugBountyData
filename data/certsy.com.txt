@@ -1,5 +1,4 @@
-*.certsy.com
-*.internal.certsy.com
+internal.certsy.com
 admin.certsy.com
 admin-ui-prod.certsy.com
 alb-admin-ui-prod.certsy.com
@@ -17,13 +16,11 @@ docs.certsy.com
 help.certsy.com
 hirer.certsy.com
 hirer-ui-prod.certsy.com
-internal.certsy.com
 landing.certsy.com
 mail.certsy.com
 matomo.certsy.com
 rtw-poc.certsy.com
 status.certsy.com
-www.certsy.com
 zendesk1.certsy.com
 zendesk2.certsy.com
 zendesk3.certsy.com
@@ -32,6 +29,5 @@ gateway.certsy.com
 notifications.certsy.com
 email.certsy.com
 _dmarc.certsy.com
-www.hirer.certsy.com
 _amazonses.certsy.com
 ad.certsy.com

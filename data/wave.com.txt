@@ -1,8 +1,6 @@
 status.wave.com
 cm.tusd.wave.com
-*.cm.tusd.wave.com
 tusd.wave.com
-*.tusd.wave.com
 qq.confirm.wave.com
 qr.wave.com
 docs.wave.com
@@ -52,7 +50,6 @@ ml.mmapp.wave.com
 business-gateway.wave.com
 mmapp.wave.com
 josh-test.wave.com
-www.wave.com
 www-preview.wave.com
 www-new.wave.com
 updates.wave.com
@@ -62,8 +59,6 @@ tigo-ussd.wave.com
 api.wave.com
 agents.wave.com
 ng.ussd.wave.com
-www.ng.ussd.wave.com
-www.ussd.wave.com
 ussd.wave.com
 finance.wave.com
 go.wave.com

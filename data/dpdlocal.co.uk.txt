@@ -108,7 +108,6 @@ apis.myaddressbook.dpdlocal.co.uk
 apis.myproductbook.dpdlocal.co.uk
 apis.myreturns.dpdlocal.co.uk
 now.dpdlocal.co.uk
-www.dpdlocal.co.uk
 apis.q3-mycollections.dpdlocal.co.uk
 apis.q1-my.dpdlocal.co.uk
 d1-apis.myadmin.dpdlocal.co.uk
@@ -116,7 +115,6 @@ apis.q1-depots.dpdlocal.co.uk
 apis.q1-myproductbook.dpdlocal.co.uk
 apis.q3-my.dpdlocal.co.uk
 apis.d1-mydeliveries.dpdlocal.co.uk
-*.claims.dpdlocal.co.uk
 claims.dpdlocal.co.uk
 d1-myaddressbook.dpdlocal.co.uk
 nps.dpdlocal.co.uk
@@ -145,5 +143,4 @@ apis.q1-customerchat.dpdlocal.co.uk
 apis.q3-collections.dpdlocal.co.uk
 q3-myadmin.dpdlocal.co.uk
 api.dpdlocal.co.uk
-*.dpdlocal.co.uk
 loopback.dpdlocal.co.uk

@@ -9,7 +9,6 @@ mriasset2.man.com
 reach.man.com
 col.man.com
 sales.man.com
-www.man.com
 starcompliance-uat.man.com
 starcompliance.man.com
 research.man.com
@@ -17,7 +16,7 @@ staging.man.com
 email.man.com
 go.man.com
 dev.sales.man.com
-www.dev.man.com
+dev.man.com
 sfxbustest.man.com
 infosec.man.com
 eu-uct-mtls.man.com
@@ -33,9 +32,7 @@ click.man.com
 www2.man.com
 guest-net.man.com
 reharas.man.com
-www.reharas.man.com
 sydaras.man.com
-www.sydaras.man.com
 wkgaras.man.com
 sfxbus.man.com
 us-uct-11.man.com
@@ -53,7 +50,5 @@ ftp.man.com
 412158f94dd832707c74a0bc123f9534.man.com
 login.bony.drama.man.com
 nycaras.man.com
-www.nycaras.man.com
-www.dtraras.man.com
-www.wkgaras.man.com
+dtraras.man.com
 _sipfederationtls._tcp.man.com

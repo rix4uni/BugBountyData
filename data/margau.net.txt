@@ -9,7 +9,6 @@ hostmaster.margau.net
 cloud.margau.net
 smtp1.services.margau.net
 vault.http.k8s.margau.net
-www.margau.net
 grafana.margau.net
 prometheus.grpc.k8s.margau.net
 salt.margau.net

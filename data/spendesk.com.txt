@@ -1,4 +1,3 @@
-*.spendesk.com
 demo.app.spendesk.com
 trust.spendesk.com
 files.demo.spendesk.com
@@ -15,7 +14,6 @@ auth.spendesk.com
 public-api.spendesk.com
 start.spendesk.com
 collect.spendesk.com
-www.spendesk.com
 files.spendesk.com
 procurement.spendesk.com
 analytics-server.spendesk.com

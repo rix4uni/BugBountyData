@@ -1,4 +1,3 @@
-*.interseller.io
 mxe.interseller.io
 tracker.interseller.io
 mxf.interseller.io
@@ -21,8 +20,6 @@ app-dev.interseller.io
 mxd.interseller.io
 app.interseller.io
 blog.interseller.io
-www.blog.interseller.io
-www.interseller.io
 mxg.interseller.io
 www-staging.interseller.io
 cloudapp.interseller.io

@@ -7,7 +7,7 @@ phoenix.canva.com
 button-demo.canva.com
 afe.canva.com
 mta5.email.canva.com
-www.ftp.canva.com
+ftp.canva.com
 csp.canva.com
 o682.engage.canva.com
 x22document-export.canva.com
@@ -124,7 +124,6 @@ about.canva.com
 ww.canva.com
 resources.canva.com
 unhcr-design-for-a-cause-uploads.cse.canva.com
-ftp.canva.com
 partner.canva.com
 clicks.engage.canva.com
 1p-sc.canva.com
@@ -290,17 +289,6 @@ images.canva.com
 category-puplic.canva.com
 content-managegment-files.canva.com
 editor.canva.com
-www.canva.com
-*.canva.com
-*.about.canva.com
-*.create.canva.com
-*.developer.canva.com
-*.engage.canva.com
-*.learn.canva.com
-*.newsletter.canva.com
-*.support.canva.com
-*.cse.canva.com
-www.support.canva.com
 clb03-v110.canva.com
 o4775.e.engage.canva.com
 proxy-internal.cse.canva.com
@@ -317,7 +305,6 @@ domains.canva.com
 payout.canva.com
 ns.canva.com
 o4776.e.engage.canva.com
-www.l.engage.canva.com
 upload-gateway.canva.com
 renderer-internal.cse.canva.com
 ci-server.dd.canva.com
@@ -326,7 +313,6 @@ _www.canva.com
 beam.canva.com
 media-private-assets.canva.com
 o4226.e.engage.canva.com
-www.track.canva.com
 _amazonses.canva.com
 cm._domainkey.canva.com
 ugw-api.canva.com
@@ -435,5 +421,4 @@ _spf2.canva.com
 _spf1.canva.com
 _spf7.canva.com
 _spf5.canva.com
-*.eu1.canva.com
 eu1.canva.com

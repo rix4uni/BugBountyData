@@ -1,5 +1,4 @@
-*.usa.gov
-*.staging.search.usa.gov
+staging.search.usa.gov
 1.usa.gov
 199.144.180.124.4k.usa.gov
 199.145.39.140.4k.usa.gov
@@ -961,7 +960,6 @@ staging-vote.usa.gov
 staging.apps.usa.gov
 staging.infr.search.usa.gov
 staging.my.usa.gov
-staging.search.usa.gov
 staging.sites.usa.gov
 stallion.staging.search.usa.gov
 standards.usa.gov
@@ -1040,23 +1038,6 @@ willet.staging.search.usa.gov
 wombat.staging.search.usa.gov
 womenbizinfo.sites.usa.gov
 womenshealth.sites.infr.search.usa.gov
-www.usa.gov
-www.1.usa.gov
-www.alpha.my.usa.gov
-www.analytics.usa.gov
-www.blog.usa.gov
-www.business.usa.gov
-www.epa-notice.usa.gov
-www.feedback.usa.gov
-www.gobierno.usa.gov
-www.gsa-ecas.usa.gov
-www.jobcenter.usa.gov
-www.kids.usa.gov
-www.my.usa.gov
-www.promotions.usa.gov
-www.search.usa.gov
-www.staging.my.usa.gov
-www.vote.usa.gov
 yak.staging.search.usa.gov
 ypestis.staging.search.usa.gov
 z-199-131-190-253.ip.fs.fed.usa.gov
@@ -1217,7 +1198,6 @@ origin-m.usa.gov
 _gov.sites.infr.search.usa.gov
 frisbm0lft7nkaibajdim208c4b2f6fk.usa.gov
 surevy.usa.gov
-www.www.usa.gov
+www.usa.gov
 clari.web.usa.gov
 citizenscience.sites.usa.gov
-*.search.usa.gov

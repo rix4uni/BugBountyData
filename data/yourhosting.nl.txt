@@ -10,7 +10,6 @@ server093.yourhosting.nl
 server110.yourhosting.nl
 server087.yourhosting.nl
 server030.yourhosting.nl
-*.account.yourhosting.nl
 account.yourhosting.nl
 web-1014.yourhosting.nl
 web-1013.yourhosting.nl
@@ -53,7 +52,6 @@ web-1034.yourhosting.nl
 acc.yourhosting.nl
 webversie.yourhosting.nl
 ns-j.dns.yourhosting.nl
-www.yourhosting.nl
 crowdtechmail.yourhosting.nl
 wiki.yourhosting.nl
 webmail.plesk.yourhosting.nl
@@ -83,7 +81,6 @@ web-1015.yourhosting.nl
 web-1004.yourhosting.nl
 web-1003.yourhosting.nl
 webmail-acc.yourhosting.nl
-www.werkenbij.yourhosting.nl
 cloud.yourhosting.nl
 web-1002.yourhosting.nl
 web-1001.yourhosting.nl
@@ -215,7 +212,7 @@ mysql-server047.yourhosting.nl
 mysql-server053.yourhosting.nl
 mysql-server052.yourhosting.nl
 mysql-server109.yourhosting.nl
-www.mijn.yourhosting.nl
+mijn.yourhosting.nl
 server113.yourhosting.nl
 server111.yourhosting.nl
 server108.yourhosting.nl

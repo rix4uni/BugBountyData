@@ -1,4 +1,3 @@
-*.shakepay.com
 api.shakepay.com
 api.qa.shakepay.com
 blog.shakepay.com
@@ -18,7 +17,6 @@ staging.shakepay.com
 status.shakepay.com
 status.api.shakepay.com
 ustrwg.shakepay.com
-www.shakepay.com
 confirm.shakepay.com
 link.shakepay.com
 mail.shakepay.com
@@ -32,9 +30,3 @@ internal.shakepay.com
 cluster.shakepay.com
 api-cluster.shakepay.com
 web-cluster.shakepay.com
-*.qa.shakepay.com
-*.staging.shakepay.com
-*.shaketh-prod-fallback.shakepay.com
-*.shaketh-prod.shakepay.com
-*.shaketh-qa.shakepay.com
-*.shaketh-staging.shakepay.com

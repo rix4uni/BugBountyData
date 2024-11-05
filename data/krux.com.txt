@@ -9,7 +9,7 @@ localhost.krux.com
 api.krux.com
 autodiscover.krux.com
 krodc1.krux.com
-www.krodc.krux.com
+krodc.krux.com
 ebooks.krux.com
 onboarding-stage.krux.com
 tableau-dev.krux.com
@@ -20,10 +20,8 @@ uploads.krux.com
 tableau-prod.krux.com
 calendar.krux.com
 status.krux.com
-www.krux.com
 origin-www.krux.com
 webtest.krux.com
 krodc2.krux.com
-krodc.krux.com
 reports.krux.com
 onboarding.krux.com

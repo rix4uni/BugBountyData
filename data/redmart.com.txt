@@ -1,5 +1,4 @@
-*.redmart.com
-*.alpha.redmart.com
+alpha.redmart.com
 01sm-cc.pandasecurity.comabout.redmart.com
 20reasons.redmart.com
 ablink.abtest.redmart.com
@@ -13,7 +12,6 @@ admin.redmart.com
 admin.alpha.redmart.com
 admin.console.redmart.com
 ads.redmart.com
-alpha.redmart.com
 api.redmart.com
 api.alpha.redmart.com
 api.beta.redmart.com
@@ -176,8 +174,6 @@ westfc-api.redmart.com
 wh-sortation-dashboard.westfc.redmart.com
 wh.microservices.redmart.com
 ww.redmart.com
-www.redmart.com
-www.pb.supplier.redmart.com
 wwwdd.redmart.com
 wwww.redmart.com
 wwwww.redmart.com
@@ -189,7 +185,7 @@ com.redmart.com
 buildartifacts.redmart.com
 console-ali.redmart.com
 travis.aplha.redmart.com
-www.www.redmart.com
+www.redmart.com
 console-fc.redmart.com
 reasons.redmart.com
 webproxy.idcjoy.ciextstaffdata.page.cdn-idcseropenapiicenow-stgzdopenapideopenapiops.0.redmart.com

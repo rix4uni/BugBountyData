@@ -1,5 +1,4 @@
-*.staging.unito.io
-*.unito.io
+staging.unito.io
 staging-share.unito.io
 excel-powerup-staging.unito.io
 sandbox1-login.unito.io
@@ -8,7 +7,6 @@ asana-embed-staging.unito.io
 dev-app.unito.io
 go.unito.io
 internal.unito.io
-staging.unito.io
 api.unito.io
 manifesto.unito.io
 staging-app.unito.io
@@ -54,7 +52,7 @@ jira-dc.unito.io
 lb-maestro-internal.unito.io
 login.unito.io
 staging-app-lab1.unito.io
-www.guide.unito.io
+guide.unito.io
 sandbox4.unito.io
 draveur.unito.io
 campaigns.unito.io
@@ -65,7 +63,6 @@ website.unito.io
 ceci-n-est-pas-un-slack-bot-staging.unito.io
 staging-app-lab5.unito.io
 staging-webhooks.unito.io
-www.try.unito.io
 trello-powerup-staging-test.unito.io
 app.unito.io
 bouncer.unito.io
@@ -73,11 +70,9 @@ share.unito.io
 github.unito.io
 partners.unito.io
 trello-cardsync-staging.unito.io
-guide.unito.io
 excel-powerup.unito.io
 staging-login.unito.io
 sandbox2.unito.io
 asana-embed.unito.io
 staging-maestro-internal.internal.unito.io
-www.unito.io
 data-metabase.unito.io

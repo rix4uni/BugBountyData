@@ -1,5 +1,4 @@
 hostmaster.medicinemen.eu
-www.medicinemen.eu
 minio1.medicinemen.eu
 xdev1.medicinemen.eu
 prod2.medicinemen.eu
@@ -38,7 +37,6 @@ prom.edge.medicinemen.eu
 test.medicinemen.eu
 grafana.edge.medicinemen.eu
 viz.edge.medicinemen.eu
-www.test.medicinemen.eu
 prometheus.edge.medicinemen.eu
 www2.medicinemen.eu
 ella4life.medicinemen.eu

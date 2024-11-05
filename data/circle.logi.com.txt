@@ -1,4 +1,3 @@
-*.circle.logi.com
 api.circle.logi.com
 debug-support.circle.logi.com
 email.circle.logi.com
@@ -21,4 +20,3 @@ acme.circle.logi.com
 staging2.circle.logi.com
 debug.circle.logi.com
 api-test.circle.logi.com
-www.circle.logi.com

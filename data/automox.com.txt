@@ -110,10 +110,7 @@ atlantis.atlantis.automox.com
 ok.automox.com
 hello.automox.com
 docs.automox.com
-*.automox.com
-www.automox.com
 prod-usw2-eks0.automox.com
-*.prod-usw2-eks0.automox.com
 vault.prod-usw2-eks0.automox.com
 1pscim.asint.automox.com
 atlantis-shared-internal.atlantis.automox.com

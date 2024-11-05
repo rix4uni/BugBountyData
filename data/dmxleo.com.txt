@@ -854,13 +854,6 @@ jx3.dmxleo.com
 addirector-prod-cloud-europewest1.dmxleo.com
 public-staging-global.dmxleo.com
 public-staging-europewest1.dmxleo.com
-*.jx.dmxleo.com
-*.jenkinsx.dmxleo.com
-*.cicd.dmxleo.com
-*.jx-blue.dmxleo.com
-*.jx-beta.dmxleo.com
-*.dmxleo.com
-www.jira.dmxleo.com
 assetssmfc-lab.jenkinsx.dmxleo.com
 atl-prd-ngw9a-eth1-01.jenkinsx.dmxleo.com
 autodiscover.dmxleo.com
@@ -890,7 +883,6 @@ wmucooley.jenkinsx.dmxleo.com
 confluence.dmxleo.com
 inspector-storage-europewest1.dmxleo.com
 public-staging-useast1.dmxleo.com
-*.jx3.dmxleo.com
 addirector-staging-cloud-europewest1.dmxleo.com
 ae-prod-aws-us-east-2.dmxleo.com
 ae-prod-aws-us-west-2.dmxleo.com
@@ -935,8 +927,6 @@ staging-inspector-storage.dmxleo.com
 staging-inspector-storage-europewest1.dmxleo.com
 staging-prebid-service-ew1.dmxleo.com
 public-qa-dspcookiematching-elb.dmxleo.com
-www.dmxleo.com
-www.public-prod-dspcookiematching.dmxleo.com
 2fpublic-prod-dspcookiematching.dmxleo.com
 vpn.dmxleo.com
 preview-console-app-pr-1444-cookie-matching-center-pr-117.0-1472.jenkinsx.dmxleo.com
@@ -1718,7 +1708,7 @@ private-prod-adserver-asiasoutheast1.0-42.jenkinsx.dmxleo.com
 0-44-preview-console-api-pr-1466.jenkinsx.dmxleo.com
 preview-dsp-console-app-pr-11.0-44.jenkinsx.dmxleo.com
 0-1442-console-app-pr-1458.jenkinsx.dmxleo.com
-www.0-1472.jenkinsx.dmxleo.com
+0-1472.jenkinsx.dmxleo.com
 0-44-se.jenkinsx.dmxleo.com
 preview-console-app-pr-1459-console-api.0-1472jx.jenkinsx.dmxleo.com
 0-41cicril.jenkinsx.dmxleo.com
@@ -2403,7 +2393,7 @@ preview-uservice-pr-1480-console-api.jx.0-1472.jenkinsx.dmxleo.com
 preview-dsp-console-app-pr-1507-console-api.jx.0-1472.jenkinsx.dmxleo.com
 0-44-public-pr-1467-console-api-pr-1472.jenkinsx.dmxleo.com
 xdsl.0-44.jenkinsx.dmxleo.com
-www.0-44.jenkinsx.dmxleo.com
+0-44.jenkinsx.dmxleo.com
 1pr-117.0-44.jenkinsx.dmxleo.com
 0-1462-prod-infinitum.jenkinsx.dmxleo.com
 chef.0-44.jenkinsx.dmxleo.com
@@ -4307,7 +4297,6 @@ taplaylisttoolapi-uswest1.0-1472.jenkinsx.dmxleo.com
 0-44atlantis.jenkinsx.dmxleo.com
 public-pr-48.0-1472-jx.jenkinsx.dmxleo.com
 0-1472-preview-console-api-pr-2.jenkinsx.dmxleo.com
-0-44.jenkinsx.dmxleo.com
 preview-reporting-app-pr-1428-console-api-pr-32.0-1482jx.jenkinsx.dmxleo.com
 preview-uservice-pr-1460-console-api.0-44.jenkinsx.dmxleo.com
 serving.0-44.jenkinsx.dmxleo.com
@@ -4849,7 +4838,6 @@ y-1472.0-1472.jenkinsx.dmxleo.com
 private-prod-adserver-europewest1.0-44.jenkinsx.dmxleo.com
 0-44-preview-inventor-staging-pr-1466.jenkinsx.dmxleo.com
 0-44apg.jenkinsx.dmxleo.com
-0-1472.jenkinsx.dmxleo.com
 airflow-k8s-dev.dmxleo.com
 0-44-ed.jenkinsx.dmxleo.com
 ppr-94.0-44.jenkinsx.dmxleo.com
@@ -5349,7 +5337,6 @@ jx.0-1475.jenkinsx.dmxleo.com
 0-1472g29.jenkinsx.dmxleo.com
 0-44-public-dev-eucentral1-addirector-stage01.jenkinsx.dmxleo.com
 mc.0-44.jenkinsx.dmxleo.com
-www.0-1472jx.jenkinsx.dmxleo.com
 0-1471-jx.jenkinsx.dmxleo.com
 7pr-29.0-43.jenkinsx.dmxleo.com
 0-1472staging-playerdiagnosticscollector-europewest1.jenkinsx.dmxleo.com
@@ -5445,7 +5432,6 @@ intelignet.0-44.jenkinsx.dmxleo.com
 0-44-origin.jenkinsx.dmxleo.com
 0-42odn.jenkinsx.dmxleo.com
 rf12c5swtxor8x97.0-1452.jenkinsx.dmxleo.com
-www.jx.0-1472.jenkinsx.dmxleo.com
 cpe.0-44.jenkinsx.dmxleo.com
 0-1472-16.jenkinsx.dmxleo.com
 console-app-pr-1464-console-api-pr-1484-console-app-pr-118.jx.0-1472.jenkinsx.dmxleo.com

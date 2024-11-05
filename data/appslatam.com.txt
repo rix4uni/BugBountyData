@@ -161,7 +161,7 @@ dg.gcp.appslatam.com
 dantest.plygrd.appslatam.com
 hello-world.devl.appslatam.com
 coronavirus.appslatam.com
-www.codeprobing1.appslatam.com
+codeprobing1.appslatam.com
 artifactoryrepo1.appslatam.com
 transit-dev.appslatam.com
 logistica.dev.appslatam.com
@@ -175,7 +175,7 @@ ssp-cdn.devl.appslatam.com
 eggplant.appslatam.com
 latamdevstack.dev.appslatam.com
 esignature.dev.appslatam.com
-www.jtamantto.appslatam.com
+jtamantto.appslatam.com
 front-latamtrade.dev.appslatam.com
 rundeck.dg.appslatam.com
 ra.plygrd.appslatam.com
@@ -183,7 +183,6 @@ soacomgcp.dev.appslatam.com
 intg-testpu24101betaall.appslatam.com
 dev.appslatam.com
 techpubs.appslatam.com
-www.mav.appslatam.com
 dinc-neo4j.dev.appslatam.com
 sdcomer.appslatam.com
 lds.dev.appslatam.com
@@ -212,7 +211,7 @@ ladeliverytest001.dev.appslatam.com
 intg-putestdcu.appslatam.com
 srtlatam.dev.appslatam.com
 advana-cosmos-catalog.appslatam.com
-www.artifactoryrepo.appslatam.com
+artifactoryrepo.appslatam.com
 contactcenter-pci.dev.appslatam.com
 supportdispatch.appslatam.com
 logistica.appslatam.com
@@ -239,4 +238,3 @@ testpu241all.appslatam.com
 advana-extra-fuel-sandbox.dev.appslatam.com
 openshift-poc.dev.appslatam.com
 experimentation.appslatam.com
-*.desafioseguridad.appslatam.com

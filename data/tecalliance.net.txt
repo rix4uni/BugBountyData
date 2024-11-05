@@ -18,7 +18,6 @@ docs.idp-int.tecalliance.net
 release.pta.tecalliance.net
 test.pta.tecalliance.net
 get.tecalliance.net
-www.tecalliance.net
 drf-stg.rmi.tecalliance.net
 tecrmi.tecalliance.net
 prod.1one.tecalliance.net
@@ -145,7 +144,7 @@ tecer.galodigital.tecalliance.net
 testing-cdn.tecalliance.net
 rmi.imagesimilarity.tecalliance.net
 career.tecalliance.net
-www.dwnld.tecalliance.net
+dwnld.tecalliance.net
 main.dac-dev.rmi.tecalliance.net
 test.sec.aws.tecalliance.net
 amtu.jnp-prod.aws.tecalliance.net
@@ -275,7 +274,6 @@ test.ts.aws.tecalliance.net
 get.dev.id.tecalliance.net
 admin.dataview.tecalliance.net
 webadmin.stg.tecalliance.net
-www.one-stg-portal.tecalliance.net
 part.dev.imagesimilarity.tecalliance.net
 stg.1one.tecalliance.net
 dev.pta.tecalliance.net

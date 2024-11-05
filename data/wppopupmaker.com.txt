@@ -1,5 +1,5 @@
 metrics.wppopupmaker.com
-*.demos.wppopupmaker.com
+demos.wppopupmaker.com
 developer.wppopupmaker.com
 support.wppopupmaker.com
 share.wppopupmaker.com
@@ -12,7 +12,6 @@ demo.wppopupmaker.com
 static4.wppopupmaker.com
 apicdn.wppopupmaker.com
 static2.wppopupmaker.com
-demos.wppopupmaker.com
 static3.wppopupmaker.com
 themes.wppopupmaker.com
 new.wppopupmaker.com
@@ -20,11 +19,9 @@ api2.wppopupmaker.com
 email.wppopupmaker.com
 translate.wppopupmaker.com
 static.wppopupmaker.com
-www.wppopupmaker.com
 status.wppopupmaker.com
 mo.wppopupmaker.com
 examples.wppopupmaker.com
 emailcdn.wppopupmaker.com
 mail.wppopupmaker.com
 docs.wppopupmaker.com
-*.wppopupmaker.com

@@ -35,7 +35,6 @@ apps.stage.napoleonsports.be
 tickets.web.silent.web.napoleonsports.be
 mail.napoleonsports.be
 web.stage.napoleonsports.be
-www.napoleonsports.be
 media.napoleonsports.be
 stage.web.napoleonsports.be
 web.production.betler.napoleonsports.be
@@ -864,7 +863,6 @@ db.0-atlas-core.dev.incubator.napoleonsports.be
 campbellriverdlfkgjnvpeir.0-api1eu2.dev.incubator.napoleonsports.be
 us-east-2.0-api1eu2-build.dev.incubator.napoleonsports.be
 asset-incubatorbackuptemp.0-backup.dev.incubator.napoleonsports.be
-www.dev.napoleonsports.be
 0-betav1.dev.incubator.napoleonsports.be
 198.0-api1eu2-anoopweb.dev.incubator.napoleonsports.be
 0-api1eu2api-40-5-1-40-5-2.dev.incubator.napoleonsports.be
@@ -3269,7 +3267,6 @@ stg42aomenyongliduchangbocai.0-ads-content.dev.incubator.napoleonsports.be
 0-stg42-62-127-142-38.dev.incubator.napoleonsports.be
 0-stg42-business-assets.dev.incubator.napoleonsports.be
 shop.0-api1eu2-a.dev.incubator.napoleonsports.be
-www.0-cdn.dev.incubator.napoleonsports.be
 0-clausskovhus.dev.incubator.napoleonsports.be
 v2.incubatorarlostreaming503.0-administrator.dev.incubator.napoleonsports.be
 0-api1eu2be.dev.incubator.napoleonsports.be
@@ -4732,7 +4729,6 @@ supportstg42careers.0-api1eu2.dev.incubator.napoleonsports.be
 2fdn9i2gmg4z2ze4232ozemc-wpengine.0-api1eu2.dev.incubator.napoleonsports.be
 0-stg42-build-beta.dev.incubator.napoleonsports.be
 0-stg42-bonkura-oyaji.dev.incubator.napoleonsports.be
-www.0-api1eu2.dev.incubator.napoleonsports.be
 0-stg42-archive.dev.incubator.napoleonsports.be
 0-stg42-acist-api1eu2anaveragehuman.dev.incubator.napoleonsports.be
 0-ars-aus-q101www1.dev.incubator.napoleonsports.be

@@ -1,4 +1,3 @@
-*.broersma.com
 gateway.broersma.com
 smtp.broersma.com
 mailer.broersma.com
@@ -10,7 +9,7 @@ mail.broersma.com
 ms1.broersma.com
 imap.broersma.com
 mail5.broersma.com
-www.sp.broersma.com
+sp.broersma.com
 mx10.broersma.com
 mailrelay.broersma.com
 mxs.broersma.com
@@ -24,7 +23,6 @@ m.broersma.com
 mailgate.broersma.com
 pop3.broersma.com
 ns1.broersma.com
-sp.broersma.com
 relay1.broersma.com
 ns.broersma.com
 server1.broersma.com
@@ -47,6 +45,5 @@ smtp3.broersma.com
 mail6.broersma.com
 mx7.broersma.com
 antispam.broersma.com
-www.broersma.com
 mail12.broersma.com
 mta.broersma.com

@@ -1,4 +1,3 @@
-www.motor.direct
 cpanel.motor.direct
 self.motor.direct
 axis0.config.motor.direct
@@ -22,4 +21,3 @@ leftaxis.stepper.motor.direct
 _z.motor.direct
 rightaxis.motorgearboxencoder.motor.direct
 sys.camera.motor.direct
-*.motor.direct

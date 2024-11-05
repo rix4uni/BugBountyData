@@ -13,7 +13,6 @@ develop.autocomplete.fig.io
 pkg.fig.io
 desktop.fig.io
 metabase.fig.io
-www.fig.io
 autocomplete.fig.io
 ws.fig.io
 t.mail.fig.io
@@ -31,4 +30,3 @@ pkg-cdn.fig.io
 status.fig.io
 valentines.fig.io
 api.fig.io
-*.fig.io

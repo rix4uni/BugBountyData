@@ -1,6 +1,5 @@
 lnmail.cpp.cz
 prod.cpp.cz
-www.cpp.cz
 portal.cpp.cz
 mail.cpp.cz
 autodiscover.cpp.cz
@@ -22,7 +21,7 @@ portal-gosta.cpp.cz
 collab-edge.cpp.cz
 asistence.cpp.cz
 mhubc-t.cpp.cz
-www.neon.cpp.cz
+neon.cpp.cz
 mta-sts.sluzby.cpp.cz
 tst.cpp.cz
 kongres.cpp.cz
@@ -49,7 +48,6 @@ susp-ws-test2.cpp.cz
 gw.cpp.cz
 b2b-ws-test.cpp.cz
 edge1.cpp.cz
-neon.cpp.cz
 susp-p2.cpp.cz
 uploaddev.cpp.cz
 uploadtst.cpp.cz

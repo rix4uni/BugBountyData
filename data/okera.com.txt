@@ -5,7 +5,7 @@ ns1.commoneks.poc.okera.com
 rest.tf2.demo.okera.com
 info.okera.com
 planner-0.build.demo.okera.com
-www.azuremarketplace.okera.com
+azuremarketplace.okera.com
 planner.tf2.demo.okera.com
 worker.tf2.demo.okera.com
 poc.okera.com
@@ -26,7 +26,6 @@ tf2.demo.okera.com
 itay2.cloud.poc.okera.com
 support.okera.com
 toyota.poc.okera.com
-www.okera.com
 beta.okera.com
 itay3.cloud.poc.okera.com
 planner-2.build.demo.okera.com
@@ -41,6 +40,5 @@ sms.okera.com
 docs.okera.com
 demo.okera.com
 3.build.demo.okera.com
-azuremarketplace.okera.com
 itay5.cloud.poc.okera.com
 planner-1.build.demo.okera.com

@@ -84,7 +84,6 @@ uat2-dhl-author.prg-dc.dhl.com
 sd.dhl.com
 ss.dhl.com
 mrt2.ap.dhl.com
-www.dhl.com
 wsbexpress.dhl.com
 del.dhl.com
 webpod.dhl.com
@@ -1462,7 +1461,7 @@ api-training.dhl.com
 woas.dhl.com
 xml-api.dhl.com
 kronos-emea-asp2.dhl.com
-www.tw.dhl.com
+tw.dhl.com
 dsctopdev.dhl.com
 origin-dhlspeu.dhl.com
 splwmosext.dhl.com
@@ -1739,7 +1738,6 @@ product-classification-gateway-dev.dhl.com
 lnkazr-ace-weu-qa.dhl.com
 dhlexpress-myjob-api.dhl.com
 qtest-test.dhl.com
-www.mybill.dhl.com
 triggerdialog-uat.dhl.com
 csschina.dhl.com
 auclientapps.dhl.com
@@ -1838,7 +1836,6 @@ getsmartr-test.dhl.com
 dialin.dhl.com
 wsbuat.dhl.com
 flysmart-wf.dhl.com
-mww.dhl.com
 mybillbill.dhl.com
 tandt-mysupplychain.dhl.com
 wmsscale2018tpm.dhl.com
@@ -2094,7 +2091,6 @@ wccprgbatch.dhl.com
 ftp2-dhllink-qa.dhl.com
 magtw1-dev.dhl.com
 cvpn-am.dhl.com
-www.cn.dhl.com
 srt-be-app-uat.dhl.com
 servicenow-uat2.dhl.com
 magtw2-test.dhl.com
@@ -2672,7 +2668,7 @@ cvpn2a3-apidsc.calidustms.dhl.com
 myops-dev.dhl.com
 dcscbjcert2-portal-war-test.calidustms.dhl.com
 build4s.ide.api.dhl.com
-www.smartsensor-capture-test.dhl.com
+smartsensor-capture-test.dhl.com
 calidus-online-routeopt.calidustms.dhl.com
 ns01.ide.api.dhl.com
 calidus-online-routigoukwww.calidustms.dhl.com
@@ -2745,7 +2741,6 @@ portal-war-test.cnawsws.calidustms.dhl.com
 admin.calidustms.dhl.com
 npts4test.dhl.com
 origin-elp-tempuat.dhl.com
-www.aduanasdhlexpress.dhl.com
 go5j0v1jtzi8zu3u.tanzu.app.dhl.com
 origin-www.by.dhl.com
 dhlwebshipping.calidustms.dhl.com
@@ -2761,7 +2756,6 @@ ar.calidustms.dhl.com
 aimsecrew-ltm.calidustms.calidustms.dhl.com
 0irqy5glx5morp4t.calidustms.dhl.com
 customerportal-dhl.pocbizagi.dhl.com
-www.discover.dhl.com
 apidsc-wmsprap6.calidustms.dhl.com
 banomfeomdow.dhl.com
 gapi-bat.ash.dhlec.dhl.com
@@ -2772,7 +2766,6 @@ careers.calidustms.dhl.com
 components.grid.test.dhl.com
 alqsbnuccwsu.dhl.com
 akiymemmmfsv.dhl.com
-www.alltheway.dhl.com
 calidus-comcfa.calidustms.dhl.com
 blwqlluukrcp.dhl.com
 calidustmselogdelljp2.calidustms.dhl.com
@@ -2936,7 +2929,7 @@ etpxhvnogkyw.ap.dhl.com
 _dmarc.aumail.dhl.com
 kyeviqnzeenu._spf.dhl.com
 prgdclyaee01.dhl.com
-www.hybridglobalmail.dhl.com
+hybridglobalmail.dhl.com
 dcczchols3100-portal-war-test.calidustms.dhl.com
 bskqoneuaxyw.dhl.com
 mykulls1204.apis.dhl.com
@@ -3057,7 +3050,7 @@ pstmvrulvdoo._tcp.dc._msdcs.dhl.com
 aepkbsuizsdptkx9.calidustms.dhl.com
 tgzsbpojxlyk._spf.dhl.com
 knllgqpclnlv._tcp.3c12621e-88de-466c-a18f-d32f394cb35c.domains._msdcs.dhl.com
-www.bbxpressamericas.dhl.com
+bbxpressamericas.dhl.com
 calidus-onlineapidsc.calidustms.dhl.com
 awmwarrxqqfm.dhl.com
 apidsc-qa.calidustms.dhl.com
@@ -3264,7 +3257,7 @@ selis.dhl.com
 dccmsjobs.calidustms.dhl.com
 m.dhl-usa.com.origin.m.dhl.com
 149.239.48.16._spf.dhl.com
-www.dscireland.dhl.com
+dscireland.dhl.com
 bxinmuotpmfn.dhl.com
 calidus-gateway2g.calidustms.dhl.com
 calidus-onlineodp.calidustms.dhl.com
@@ -3273,7 +3266,7 @@ br.ide.api.dhl.com
 cvpn-exp1.ide.api.dhl.com
 dgfuscdzsvc.calidustms.dhl.com
 anlwknppwrus.dhl.com
-www.importexpress.dhl.com
+importexpress.dhl.com
 test-preprod.dhlecommerce.dhl.com
 biknozrlvkns.dhl.com
 aoxmguqpkdlr.dhl.com
@@ -3467,7 +3460,7 @@ customerreportsexternal-portal-war-test.calidustms.dhl.com
 uat-sct.dhl.com
 ccs.ide.api.dhl.com
 dunelm-portal-uat.calidus.dhl.com
-www.unisys.itrack.dhl.com
+unisys.itrack.dhl.com
 as-f-test.ide.api.dhl.com
 wsbexpressuat-am.goce.dhl.com
 addkipenwskl.dhl.com
@@ -3612,7 +3605,6 @@ aidaweb.dhl.com
 shop.tanzu.app.dhl.com
 cdn7cawldmy09e9.calidus.calidustms.dhl.com
 atxymvegkvhr.dhl.com
-smartsensor-capture-test.dhl.com
 calidus-hubfsgateway.calidustms.dhl.com
 amrta02uat.dhl.com
 cvpn-exp1a.cn.dhl.com
@@ -3681,7 +3673,6 @@ origin-ezybill4u-zpp.dhl.com
 ekhxjlfezbpr._domainkey.dhl.com
 app.uscustomsbrokerage.dhl.com
 tst.airquality.dhl.com
-www.mv.dhl.com
 dcczchows3170.calidustms.dhl.com
 lpl-test.dhl.com
 dhlsharefile.dhl.com
@@ -3741,7 +3732,7 @@ webprap6-ext.goce.dhl.com
 data4.ide.api.dhl.com
 ltc-test.prg-dc.dhl.com
 tmp-jumpseat-test.dhl.com
-www.by.dhl.com
+by.dhl.com
 ffmcrt.dhl.com
 caliduskronosdsc-diclock-meg.calidustms.dhl.com
 cloud1.splea.dhl.com
@@ -3781,7 +3772,6 @@ view.shipmenttracking.iot.dhl.com
 beta.calidustms.dhl.com
 calidustms.comtmptasuat.calidustms.dhl.com
 monitor.plato-zeno-test-cee.dhl.com
-www.ide.api.dhl.com
 azdywdrmntqx.dhl.com
 benner-test.dhl.com
 dccag-apidsc.calidustms.dhl.com
@@ -3812,7 +3802,6 @@ mailing._domainkey.dhl.com
 mslnwcklpdtm._spf.dhl.com
 buynsend.ide.api.dhl.com
 cpm-portal-war-test.calidustms.dhl.com
-www.myexperience.dhl.com
 bzfyvoillwgy.dhl.com
 5qxzs3hpcmkpztx0.tanzu.app.dhl.com
 manalytics-d-test.dhl.com
@@ -3858,7 +3847,6 @@ dscssoeudev.dsctransport.cloudnet.dhl.com
 test-internal.apollo.dhl.com
 grid-bnl.dhl.com
 afwfqqasvwicmsg.dhl.com
-www.paketshop.dhl.com
 btcyspgskolk.dhl.com
 ap.dmac-c.dhl.com
 mykulls1203.apis.dhl.com
@@ -3997,7 +3985,6 @@ avilogonpoint.aviweb.dhl.com
 20221124-salesforce._domainkey.dhl.com
 zqtnyisrcaor._spf.dhl.com
 supplynet.dhl.com
-unisys.itrack.dhl.com
 carharttdc4-locus-prod-qas.dhl.com
 raf-score-meg.dhl.com
 2t39opszgczr7akb.calidustms.dhl.com
@@ -4162,7 +4149,6 @@ dcczchols2536.calidus-online.calidustms.dhl.com
 calidus-online-commyapollo.calidustms.dhl.com
 guestcwa-eu01-int.dhl.com
 cargomovetracker.calidus.calidustms.dhl.com
-www.analytics.dhl.com
 amnodeiqapp-portal-war-test.calidustms.dhl.com
 r1.tms.dhl.com
 acdrhnonqodm.dhl.com
@@ -4260,7 +4246,7 @@ gait-idp-back.dhl.com
 drh-admin-cert.calidustms.dhl.com
 calidustmscjsueaw.calidustms.dhl.com
 author.m.dhl.com
-www.win-flights.dhl.com
+win-flights.dhl.com
 dhlspeu.ide.api.dhl.com
 amgsmntgmupk.dhl.com
 0200722-salesforce._domainkey.dhl.com
@@ -4273,7 +4259,7 @@ amkuqkfnhdjm.dhl.com
 tasuat1.dhl.com
 cyclone2-eu-prod-gui-chd.dhl.com
 portal-war-test.dcmytpmws1080.calidustms.dhl.com
-www.dhl.co.jp.dev-https-origin.dhl.com
+dhl.co.jp.dev-https-origin.dhl.com
 uslck-locus-test.dhl.com
 ajzyrlfttgpt.dhl.com
 connect-portal-war-test.calidustms.dhl.com
@@ -4381,7 +4367,6 @@ dhlezy.calidustms.dhl.com
 api.esp-uat.dhl.com
 sci-tms-dev.dhl.com
 nug-test.dhl.com
-www.logistics-test.dhl.com
 dpdhl._spf.dhl.com
 calidus-onlineprod.calidustms.dhl.com
 patagonia-locus-prod.dhl.com
@@ -4410,7 +4395,7 @@ mytpmws1047.kul-dc.dhl.com
 conview-uat-old.calidustms.dhl.com
 wkpxhpxmiuln.225.66.32.dhl.com
 dhlfreight.calidustms.dhl.com
-www.yurtdisinagonder.dhl.com
+yurtdisinagonder.dhl.com
 wnptmsyfvunx._tcp.3c12621e-88de-466c-a18f-d32f394cb35c.domains._msdcs.dhl.com
 apidschttpgw-esi.calidustms.dhl.com
 cvpn.ipv6.dhl.com
@@ -4590,7 +4575,6 @@ byhzleeuapjr.dhl.com
 lnkazr-ltm-ace-eus-qa.dhl.com
 certifiedhr.test.dhl.com
 bfnwmfohmaxt.dhl.com
-www.bt.dhl.com
 dgf-mfe.calidustms.dhl.com
 bemqndjniplp.dhl.com
 bkmmmopdgvql.dhl.com
@@ -4682,7 +4666,6 @@ origin-locator-internal.dhl.com
 dcczchows5394.calidustms.dhl.com
 bpzyknrmaaov.dhl.com
 dcczchows196.calidustms.dhl.com
-www.xm2.dhl.com
 ipfsapi.bless-test.dhl.com
 uat.r2.mms.dhl.com
 citrix.calidustms.dhl.com
@@ -4813,7 +4796,7 @@ cnm.calidustms.dhl.com
 prgdc193.dhl.com
 dsccz-as2-test.dhl.com
 dhx.calidustms.dhl.com
-www.azr-prod-dmz.ipaa.dhl.com
+azr-prod-dmz.ipaa.dhl.com
 nucleus-apps.ide.api.dhl.com
 bigticketdelivery.dhl.com
 dc37-portal-war-test.calidustms.dhl.com
@@ -4827,7 +4810,6 @@ avernggdhwyk.dhl.com
 dhlit1.dhl.com
 elogapacandcn.dhl.com
 raf-scoreengine-meg.dhl.com
-www.bj.dhl.com
 nlf.numslt.dhl.com
 calidustms.dsc-uat.calidustms.dhl.com
 dcprgdclyavc.calidustms.dhl.com
@@ -5099,7 +5081,6 @@ plmrcleiehnu._tcp.3c12621e-88de-466c-a18f-d32f394cb35c.domains._msdcs.dhl.com
 mynetpassword.dhl.com
 calidusdscotmllp05dev.calidustms.dhl.com
 mykulws9550.prg-dc.dhl.com
-www.mydhl.dhl.com
 selfservice.dhl.com
 mhcwp-locus-qas.dhl.com
 sci-visibility-track.dhl.com
@@ -5416,7 +5397,7 @@ dcawacslocator-portal-war-test.calidustms.dhl.com
 gapi-prod.api.dhl.com
 directconnect-test.dhl.com
 lyncadmin.dhl.com
-www.prologs.dhl.com
+prologs.dhl.com
 api-shared.sea.dhl.com
 mykulws1378.kul-dc.dhl.com
 dcd.calidus.calidustms.dhl.com
@@ -5646,7 +5627,7 @@ gogreen2-assessment-tool-prod.dhl.com
 5ww5xxx7flw9ps9n.tanzu.app.dhl.com
 dcczchols2738.calidustms.dhl.com
 bzlwlmlkynjo.dhl.com
-www.la-reg.dhl.com
+la-reg.dhl.com
 apismykulls1204-calidus-online.calidustms.dhl.com
 ykkmolbknwbq.ap.dhl.com
 kahsmmcgbnzx._tcp.dhl.com
@@ -5770,7 +5751,7 @@ dsctopdev-portal-war-test.calidustms.dhl.com
 qa.travisperkins.mediatrak.dhl.com
 apissftp.calidustms.dhl.com
 splclus.ide.api.dhl.com
-www.icccawardsamericas.dhl.com
+icccawardsamericas.dhl.com
 dscmobileexpenses.calidustms.dhl.com
 welcome.ide.api.dhl.com
 dhl._domainkey.dhl.com
@@ -5983,7 +5964,6 @@ stats1.ide.api.dhl.com
 besuujjzblxm.dhl.com
 sci-qa.dhl.com
 prd.aks.iot.dhl.com
-www.oso.dhl.com
 dhlecommerce.calidustms.dhl.com
 jua32amhqufpfq57ygxqaqzdffntobay._domainkey.betruck.dhl.com
 chadmin-portal-war-test.calidustms.dhl.com
@@ -6052,7 +6032,6 @@ jnjqa.dhl.com
 ajqkvwppqbxl.dhl.com
 dit-amq-1.dhl.com
 juycnkp56jwk3m8q.tanzu.app.dhl.com
-dscireland.dhl.com
 api-sit-vzen.dhl.com
 fcokyevxfkqr._spf.dhl.com
 dev.auintoic.dhl.com
@@ -6064,7 +6043,7 @@ stats5s.ide.api.dhl.com
 databases.tanzu.app.dhl.com
 calidus-onlinegoalsmdm-uat.calidustms.dhl.com
 tlmtvpdlmack._spf.dhl.com
-www.fba-tracking.dhl.com
+fba-tracking.dhl.com
 oddrestresp-stg.dhl.com
 dgf-san-test.dhl.com
 philips.dhl.com
@@ -6072,7 +6051,6 @@ ryrtest.dhl.com
 bboxlymrygmr.dhl.com
 dcsapsiqdb.calidus-online.calidustms.dhl.com
 dpdhlgr-test.dhl.com
-www.intraship-sm.dhl.com
 apidsc-uatlogging.calidustms.dhl.com
 ihubsftp.dhl.com
 calidustmsbd.calidustms.dhl.com
@@ -6123,7 +6101,7 @@ cra.calidustms.dhl.com
 bkmtyonwpjps.dhl.com
 dcs4test-ea.dhl.com
 cweb.dhl.com
-www.realestatemarketplace.cre.dhl.com
+realestatemarketplace.cre.dhl.com
 tas-test.dhl.com
 hmlkeamknppq._spf.dhl.com
 dccafxprod-portal-war-test.calidustms.dhl.com
@@ -6156,7 +6134,6 @@ fmlonhimmqku._tcp.dhl.com
 ucupdates-r2.phx-dc.dhl.com
 select-ext-auth.dhl.com
 test.dhl.com
-www.iq.dhl.com
 etdi.dhl.com
 calidus-onlinemyparcel.calidustms.dhl.com
 tst-nisa.dhl.com
@@ -6355,7 +6332,6 @@ prgdca-xnet-cag01a.dhl.com
 utce1.sc3.dhl.com
 _ldap._tcp.799d525d-d636-4cca-a9ef-8d8ba29d2bcb.domains._msdcs.dhl.com
 6t1eywlwnfi9r5ga.calidustms.dhl.com
-www.globalmail.dhl.com
 bmypuievpznw.dhl.com
 portal-war-test.delldn.calidustms.dhl.com
 ea-pse-zvpn01.dhl.com
@@ -6370,7 +6346,7 @@ fsc.bru-hub.dhl.com
 pnxnfdraevyx._tcp.2879a783-4e9b-426d-a9df-a1b9d5b3a262.domains._msdcs.dhl.com
 applinks-c-uat.dhl.com
 calidus-online-aviationcargo-uat.calidustms.dhl.com
-www.gogreen.dhl.com
+gogreen.dhl.com
 dcphxdclywae-calidus.calidustms.dhl.com
 cxd-fsixtest.calidustms.dhl.com
 customerreportsexternal.calidustms.dhl.com
@@ -6417,7 +6393,6 @@ americasramp.dhl.com
 b2buat-ae.dhl.com
 calidustms.dhlimaverick.calidustms.dhl.com
 buuyrduunpqq.dhl.com
-gogreen.dhl.com
 20240418-sales360-alternate._domainkey.dhl.com
 globe-orders.dhl.com
 heavyweightcert2.dhl.com
@@ -6684,7 +6659,6 @@ qa.bigticketdelivery.dhl.com
 cag-vdi-prg-test.dhl.com
 apidpdhl-portal-war-test.calidustms.dhl.com
 aviationcargo-uat.dhl.com
-www.mydhl-test.dhl.com
 dconcert2.dhl.com
 wsitest2-eosl-e2e.dhl.com
 dhlexpress-myjob-api.calidustms.dhl.com
@@ -6719,14 +6693,12 @@ dscauapps-qa.calidustms.dhl.com
 emea-eun-ccaas-cloudsbc01.dhl.com
 compeopleplace.calidustms.dhl.com
 calidustms.cncnbi.calidustms.dhl.com
-www.paketshop-ref.dhl.com
 dscappzensga-dev.dhl.com
 zbswnuqashcm._tcp.3c12621e-88de-466c-a18f-d32f394cb35c.domains._msdcs.dhl.com
 clnff1u5nfgntrmsn15g.ide.api.dhl.com
 view-apac.mysupplychain.dhl.com
 oiiyuclznton._tcp.dhl.com
 ewf-cbj-0001.orig1.ap-cbj.dhl.com
-www.dsctopapac1.dhl.com
 ddd-test.goce.dhl.com
 usitst06-test.dhl.com
 dmhwmsisejul._spf.dhl.com
@@ -6796,7 +6768,6 @@ nxjzflcwjqby._tcp.dhl.com
 cdex-ref.necst.dhl.com
 internal.ide.api.dhl.com
 ftpcw1in.dhl.com
-www.delivered.dhl.com
 cbiportal.dhl.com
 pl.tjx.styleflow.dhl.com
 lgxsxihsoyco._spf.dhl.com
@@ -6811,7 +6782,6 @@ comet-uat2.calidustms.dhl.com
 dsctopna01.calidustms.dhl.com
 calidus-docmanageruk.calidustms.dhl.com
 bpxpsqifmkos.dhl.com
-prologs.dhl.com
 calidustmsmypos2.calidustms.dhl.com
 origin-zhsc4sopon-registrierungssteuerungui-www.dhl.com
 calidus-exp-dev.calidustms.dhl.com
@@ -6870,7 +6840,6 @@ s8tfyap9aabq8dqc.tanzu.app.dhl.com
 brrogfzeoqan.dhl.com
 aukqfoimumxw.dhl.com
 sf-dhl-prod._domainkey.dhl.com
-www.caribbeaneshop.dhl.com
 calidustms-crest-api.calidustms.dhl.com
 dckuldclyfep.calidus.calidustms.dhl.com
 calidustmswww-dhl-h5-nsf.calidustms.dhl.com
@@ -6910,13 +6879,12 @@ qvzzpgbkbept._spf.dhl.com
 cz-wgp-sky.calidustms.dhl.com
 cloud.calidustms.dhl.com
 bbnkersoyksx.dhl.com
-www.belegsuche.dhl.com
+belegsuche.dhl.com
 publiccloud.dhl.com
 jqomcrzsumho._spf.dhl.com
 bpnpmfwgmctr.dhl.com
 techsupport-sit.express.dhl.com
 calidus-onlineconnectedview.calidustms.dhl.com
-www.dscimagegallery.dhl.com
 feirourjlpso._spf.dhl.com
 api-external-dmz.its.fra.aks.dhl.com
 bdcoolpvcnks.dhl.com
@@ -6927,7 +6895,7 @@ origin-css.www.dhl.com
 lad-co.ao.dhl.com
 cvpn6a1.calidustms.dhl.com
 bpfkytfnlyjq.dhl.com
-www.test.itrack.dhl.com
+test.itrack.dhl.com
 futureaviportal.dhl.com
 apxnkpctkyay.dhl.com
 mykulws1397.kul-dc.dhl.com
@@ -6958,7 +6926,6 @@ zmorxurbrkfs._tcp.dhl.com
 calidustmsmws.calidustms.dhl.com
 prgdca-sbc02-ext1.dhl.com
 axyrlledpgwv.dhl.com
-www.dhlsupplychainmatters.dhl.com
 jcynlkmoyxpn._domainkey.dhl.com
 ace-dhlcom._domainkey.dhl.com
 applinks-c.dhl.com
@@ -6996,7 +6963,6 @@ express-test.api.dhl.com
 origin-shipnow-prg.dhl.com
 dhlconnect-portal-war-test.calidustms.dhl.com
 cag-otp.ide.api.dhl.com
-www.marinelogistics.dhl.com
 6-portal-war-test.calidustms.dhl.com
 clogics-test.dhl.com
 239ade840737.dev.tanzu.app.dhl.com
@@ -7049,7 +7015,6 @@ bnbyyokmxkxq.dhl.com
 apissandbox.ide.api.dhl.com
 eas.goce.dhl.com
 calidusdcltc.calidustms.dhl.com
-www.gogreenhub.dhl.com
 calidus-swp.calidustms.dhl.com
 caswebcomm.calidustms.dhl.com
 sapdp1db.prg-dc.dhl.com
@@ -7162,7 +7127,6 @@ kmaqapjpzeot._spf.dhl.com
 b2bgateway-link.calidustms.dhl.com
 dior-lsw.dhl.com
 mumzkuspvpmq._tcp.dhl.com
-www.unsub.dhl.com
 bcs.calidustms.dhl.com
 calidustms-pocbizagimanalytics2.calidustms.dhl.com
 dcczchows1350.calidustms.dhl.com
@@ -7279,7 +7243,6 @@ calidus.40200.calidustms.dhl.com
 calidus-onlineqpulseglobalqpulsercg.calidustms.dhl.com
 atwvoenuweap.dhl.com
 cw1tms-qa.dhl.com
-www.amazonitrack.dhl.com
 apec-aue-ccaas-cloudsbc01.dhl.com
 aznxmzolkmak.dhl.com
 commykulap.calidustms.dhl.com
@@ -7483,7 +7446,6 @@ bae2ky5rjswf6eh6k4ljrirgrxcukers._domainkey.dhl.com
 chdapi-portal-war-test.calidustms.dhl.com
 gftvwnldwgiv.ap.dhl.com
 aubsiuat-tv.dhl.com
-www.intraship1.dhl-ru.dhl.com
 mct.prg-dc.dhl.com
 api.calidustms.dhl.com
 dcczchols3449-portal-war-test.calidustms.dhl.com
@@ -7583,7 +7545,6 @@ dddklumemnyx._tcp.3c12621e-88de-466c-a18f-d32f394cb35c.domains._msdcs.dhl.com
 bumkppdmoutx.dhl.com
 logot.dhl.com
 servicenow-ext-auth-test.dhl.com
-www.wms.dhl.com
 prgdcb-xvpn-fw01-untrust.dhl.com
 dcczchows5494.calidus.calidustms.dhl.com
 calidus.dscodir4.calidustms.dhl.com
@@ -7593,7 +7554,6 @@ calidus-online-logistics-test.calidustms.dhl.com
 blpvzzkwhxku.dhl.com
 apidscalexandria.calidustms.dhl.com
 accessnettest.calidustms.dhl.com
-www.packet.dhl.com
 pt.express.dhl.com
 czchols2536.prg-dc.dhl.com
 czchooct002.ide.api.dhl.com
@@ -7732,7 +7692,6 @@ dodxmlpi.goce.dhl.com
 5.calidustms.dhl.com
 bmksnvwmgqnu.dhl.com
 engine-test.pocbizagi.dhl.com
-www.dscotmdev.dhl.com
 spr._domainkey.dhl.com
 avvywmllubds.dhl.com
 deutschepostdhl.calidustms.dhl.com
@@ -7784,7 +7743,6 @@ elogdellchn2.dhl.com
 calidus-online-ftpcw.calidustms.dhl.com
 dscoraclecloudbbx-portal-war-test.calidustms.dhl.com
 ap.dhl.com
-yurtdisinagonder.dhl.com
 splwmosrfext.dhl.com
 aeopbjmgzlov.dhl.com
 monitor.plato-zeno-cz.dhl.com
@@ -7814,11 +7772,10 @@ amsmxgeemdbz.dhl.com
 dygworktywlt._tcp.3c12621e-88de-466c-a18f-d32f394cb35c.domains._msdcs.dhl.com
 cls2hilgadgpq7mnj7r0.calidustms.dhl.com
 bxfnponlyfty.dhl.com
-www.paketshop-dev.dhl.com
+paketshop-dev.dhl.com
 egxtlwfzlbdo.ap.dhl.com
 iproxy-a.goce.dhl.com
 uat.spl-test-dr.dhl.com
-by.dhl.com
 talpzdxrneyw._tcp.dc._msdcs.dhl.com
 apismykulkwspc-portal-war-test.calidustms.dhl.com
 dcczchols3048.calidustms.dhl.com
@@ -7970,7 +7927,6 @@ portal-war-test.dcprgdclywsi23.calidustms.dhl.com
 calidus-onlineguestaccountstgv2.calidustms.dhl.com
 rpmsprod-qa.dhl.com
 bigticketdelivery.calidustms.dhl.com
-www.selektvracht.itrack.dhl.com
 svt-noram.dhl.com
 mykulws9548.prg-dc.dhl.com
 amazon206-saloodo.dhl.com
@@ -8039,7 +7995,6 @@ msipackingsystem.dhl.com
 certauth-portal-war-test.calidustms.dhl.com
 calidus-onlinedcczchols3100.calidustms.dhl.com
 dsctmspptr1-cas.calidustms.dhl.com
-www.gq.dhl.com
 9xtty7dht5mignf4.calidustms.dhl.com
 cpm.calidustms.dhl.com
 merlin-uat.dhl.com
@@ -8101,7 +8056,6 @@ mdm0048.dhl.com
 ftzin.dhl.com
 blxrnuodqbar.dhl.com
 fat.spl-test.dhl.com
-www.resilience360.dhl.com
 dcscbj-portal-war-test.calidustms.dhl.com
 dcczchows5368-portal-war-test.calidustms.dhl.com
 innovationcentercms.dhl.com
@@ -8132,7 +8086,6 @@ ch188trpfkp0vdv8p4s0.calidustms.dhl.com
 edi.calidustms.dhl.com
 prgdca-lab-cag01b.dhl.com
 calidusauth-na-old.calidustms.dhl.com
-www.testselektvracht.itrack.dhl.com
 6441056b613c32a9.calidustms.dhl.com
 calidus-online-mrsgateway3.calidustms.dhl.com
 amxrhuwjxdkt.dhl.com
@@ -8153,7 +8106,6 @@ v-da-001.dhl.com
 acg-cdb.calidus.calidustms.dhl.com
 us-dsc-gvp-ac01.dhl.com
 calidus-online.dgfuscs.calidustms.dhl.com
-belegsuche.dhl.com
 zvzxglgelvcm._spf.dhl.com
 srjyu6kpzh3ptd62m7tfe7jy4gjoawpe._domainkey.dhl.com
 uelkthblrlmt.ap.dhl.com
@@ -8163,7 +8115,6 @@ aekkaxtfoojv.dhl.com
 cctrtest-integration.dhl.com
 mta8s.ide.api.dhl.com
 calidus-online130.calidustms.dhl.com
-paketshop-dev.dhl.com
 nrm-uat.necst.dhl.com
 qomogqxaynen._spf.dhl.com
 dcsmtp.calidustms.dhl.com
@@ -8225,7 +8176,6 @@ rp.gatwickdirect.dhl.com
 dscotmllp05test-portal-war-test.calidustms.dhl.com
 bwxmohpnzfpq.dhl.com
 prgdclyfep11.prg-dc.dhl.com
-www.dscdeepsecurity.dhl.com
 calidustms.dscotmapac.calidustms.dhl.com
 apecexp-apimv2-nonprod.dhl.com
 mykulwv1212.kul-dc.dhl.com
@@ -8327,7 +8277,6 @@ sftp-invoiceapproval-dscganda-qas.de.dhl.com
 easqas.dhl.com
 bsjmmqkjpklk.dhl.com
 omm-online.dhl.com
-www.smartsensor-temperature-test.dhl.com
 cra-am-dev.dhl.com
 magtw-e-uat.dhl.com
 irecprja.dhl.com
@@ -8593,7 +8542,6 @@ gematemp.dhl.com
 atmeta-relay.api.dhl.com
 delldn.ide.api.dhl.com
 apidsc-training.calidustms.dhl.com
-www.ml.dhl.com
 xyevtyjlwnxw.ap.dhl.com
 chase.calidustms.dhl.com
 opxwegaaejhl._tcp.3c12621e-88de-466c-a18f-d32f394cb35c.domains._msdcs.dhl.com
@@ -9079,7 +9027,7 @@ czchols2335.prg-dc.dhl.com
 calidus-online.avatar.calidustms.dhl.com
 globalforwardinginitiativesccm2.dhl.com
 carharttdc4-locus-test.dhl.com
-www.dhl.ch.dev-https-origin.dhl.com
+dhl.ch.dev-https-origin.dhl.com
 bpm-ia-ext-calidus-online.calidustms.dhl.com
 wqfpnpgwjhpp._tcp.dc._msdcs.dhl.com
 v-da-002.dhl.com
@@ -9153,7 +9101,6 @@ cia.calidustms.dhl.com
 akvssfkkoebu.dhl.com
 wfa.dhl.com
 cvpn-mob.calidustms.dhl.com
-www.yurtdisinagonderi.dhl.com
 vlnmuklxesyu._tcp.czcho._sites.dhl.com
 mmvrlzpkaeqq._spf.dhl.com
 retail-tmp.dhl.com
@@ -9206,7 +9153,6 @@ api-bat-parceleurope.dhl.com
 calidus-gbsdoxis.calidustms.dhl.com
 acgrshohfwfp.dhl.com
 zimmer-locus-prod.ide.api.dhl.com
-www.africa.dhl.com
 bbltmohmbkyp.dhl.com
 aimsecrew-ltm.goce.dhl.com
 lkdvyqaywkku._domainkey.dhl.com
@@ -9279,7 +9225,7 @@ dpdhlgr-dev.calidustms.dhl.com
 api.resourceflex.dhl.com
 demfcst.avi-dc.dhl.com
 cctr.calidustms.dhl.com
-www.dhl.com.dev-https-origin.dhl.com
+dhl.com.dev-https-origin.dhl.com
 6y2dxqrrtbrq9sdr.calidustms.dhl.com
 openshiftdemo-test-frontend.dhl.com
 fr.tislog-test.dhl.com
@@ -9304,7 +9250,6 @@ ca.mydhl.dhl.com
 amlosxpqttqr.dhl.com
 kicrmdujoqrp._tcp.dhl.com
 dcczchows1304-portal-war-test.calidustms.dhl.com
-la-reg.dhl.com
 calidus-onlinekronos-temp-asp2.calidustms.dhl.com
 vdpuznxrdaow.ap.dhl.com
 dgfsameday-portal-war-test.calidustms.dhl.com
@@ -9485,12 +9430,11 @@ gaitcitrixuat2.dhl.com
 dxl-portal-war-test.calidustms.dhl.com
 208.72.90.125._spf.dhl.com
 deliveryconnect444.calidustms.calidustms.dhl.com
-www.test.apollo.dhl.com
 tst.assettracking.iot.dhl.com
 dmacportal-e-test.dhl.com
 wayfair.portal.ecsuk.dhl.com
 vgl-acc.dhlparcel-nl.dhl.com
-www.dhl.com.pe.test-https-origin.dhl.com
+dhl.com.pe.test-https-origin.dhl.com
 getsmartrconnect-uat.dhl.com
 dscodidevr4.dhl.com
 uat.dhluniforms.dhl.com
@@ -9522,11 +9466,10 @@ config-matrix.uat-scb.dhl.com
 m.dhl.ro.origin.test.m.dhl.com
 test041.ru.dhl.com
 dcvsuattr-prg.dhl.com
-www.dhl.com.gh.test-https-origin.dhl.com
+dhl.com.gh.test-https-origin.dhl.com
 test-dmz.apps.mykulocp001.dhl.com
 itsapideveloper.dhl.com
 origin-mygts-api-cbj.dhl.com
-azr-prod-dmz.ipaa.dhl.com
 vflc.dhlec.dhl.com
 prdebs01.nums.dhl.com
 datalake-cb.dhl.com
@@ -9537,7 +9480,7 @@ csv-preprod-wspst.apis.dhl.com
 qasdca-sbc03.dhl.com
 welcome-ar-admin.dhl.com
 m.dhl.com.hk.test.m.dhl.com
-www.dhl.co.zw.test-https-origin.dhl.com
+dhl.co.zw.test-https-origin.dhl.com
 mykulap1012.apis.dhl.com
 pnp-plapp-sg-test.dhl.com
 czchols5318.prg-dc.dhl.com
@@ -9571,7 +9514,7 @@ mykullspc002364.apis.dhl.com
 cnshaws20083.kul-dc.dhl.com
 czcholstc001178.prg-dc.dhl.com
 infra-automation.dhl.com
-www.dhl.hr.test-https-origin.dhl.com
+dhl.hr.test-https-origin.dhl.com
 mykullstc000170.apis.dhl.com
 qctest.dhl.com
 czchows9144.prg-dc.dhl.com
@@ -9579,7 +9522,7 @@ czcholsint1663.prg-dc.dhl.com
 tokensigning-fidstaging2.dhl.com
 m.dhl.be.test.m.dhl.com
 uki-digitalpd.dhl.com
-www.dpdhl-jobs-vor-ort.de.test.m.dhl.com
+dpdhl-jobs-vor-ort.de.test.m.dhl.com
 cqs.sherloc-prod-sea.dhl.com
 dcihub-int-pst-tr.dhl.com
 debrief-enrichment-aggr-test-cloud.dhl.com
@@ -9594,14 +9537,14 @@ console.apps.czchooct999.dhl.com
 lhr242a.dhl.com
 mykulls1916.apis.dhl.com
 emportal-uat.dhl.com
-www.dhl.co.za.test-https-origin.dhl.com
+dhl.co.za.test-https-origin.dhl.com
 czcholspc004083.prg-dc.dhl.com
 mykulls1917.apis.dhl.com
 prod-dmz.apps.mytpmocp001.dhl.com
 xmlpi-api.prod.express.dhl.com
 prgdclydir01.prg-dc.dhl.com
 czchols2755.prg-dc.dhl.com
-www.dpdhl-jobsvorort.de.test.m.dhl.com
+dpdhl-jobsvorort.de.test.m.dhl.com
 czcholspc001140.prg-dc.dhl.com
 devopsmanuals.avi-dc.dhl.com
 rafocp-ext.dhl.com
@@ -9646,12 +9589,11 @@ proddr2-internal-ocp.kul-dc.dhl.com
 rebootmanager-api-uat.dhl.com
 ech-test-author-support.prg-dc.dhl.com
 accenture-usaext.dhl.com
-www.dhl-connect.dhl.com
 explore.uat.dhl.com
 soe.dhl.com
 usaso-locus-test.dhl.com
 essfqws10087.prg-dc.dhl.com
-www.dhl.kz.test-https-origin.dhl.com
+dhl.kz.test-https-origin.dhl.com
 csi-innovation-cms-prod.dhl.com
 czcholstc000667.prg-dc.dhl.com
 api-bat.parceleurope.dhl.com
@@ -9674,7 +9616,7 @@ m.dhl.com.uy.test.m.dhl.com
 hrservices.dhl.com
 event-history.sherloc-prod-weu.dhl.com
 mykulls1712.apis.dhl.com
-www.dhl.be.test-https-origin.dhl.com
+dhl.be.test-https-origin.dhl.com
 apps.pocbizagi.dhl.com
 exp-gho-hr-uat-api.dhl.com
 origin-wsb-expapi-poc.weu.dhl.com
@@ -9708,7 +9650,7 @@ oracle_fusion2.dhl.com
 lhr028a.dhl.com
 apdc194.dhl.com
 lhr226a.dhl.com
-www.dhl.com.lb.test-https-origin.dhl.com
+dhl.com.lb.test-https-origin.dhl.com
 ewf-ref-cbj.dhl.com
 m.dhl.ee.origin.test.m.dhl.com
 givrsbcprod.dhl.com
@@ -9728,8 +9670,8 @@ dgf-apigw-internal.prg-dc.dhl.com
 lhr233a.dhl.com
 myseeit-vpn.dhl.com
 dcg1-prod-tss.dhl.com
-www.diin.dhl.com
-www.dhl.co.mu.test-https-origin.dhl.com
+diin.dhl.com
+dhl.co.mu.test-https-origin.dhl.com
 iis2.ecm.stars.dhl.com
 ui.eot-uat.dhl.com
 tst.api.rfid.iot.dhl.com
@@ -9777,7 +9719,7 @@ uat-ltc.dhl.com
 svt-noram-aks.dhl.com
 lhr047a.dhl.com
 m.dhl.ru.origin.test.m.dhl.com
-www.dhl.com.kh.test-https-origin.dhl.com
+dhl.com.kh.test-https-origin.dhl.com
 m.dhl.com.hn.origin.test.m.dhl.com
 kuldclyipp01.kul-dc.dhl.com
 czcholstc002739.prg-dc.dhl.com
@@ -9786,7 +9728,7 @@ fv.dctcloud.dhl.com
 dcg1-prodr-portal.dhl.com
 lnkazr-ltm-es-eus-prd.dhl.com
 lnkazr-ace-sea-prd.dhl.com
-www.dhl.co.uk.dev-https-origin.dhl.com
+dhl.co.uk.dev-https-origin.dhl.com
 proviewdev-v2.dhl.com
 czcholstc002961.prg-dc.dhl.com
 mykulls1632.apis.dhl.com
@@ -9837,12 +9779,11 @@ s21dctrnde1.dhl.com
 sscim-api.test.dhl.com
 airquality.conditionmonitoring.iot.dhl.com
 ewftmc-prg.dhl.com
-www.dhl.com.hu.test-https-origin.dhl.com
+dhl.com.hu.test-https-origin.dhl.com
 wmsprap6.dhl.com
 prgdclyfep21.dhl.com
 czchowsint1762.prg-dc.dhl.com
-www.dhl.af.test-https-origin.dhl.com
-www.dscotmapac1.dhl.com
+dhl.af.test-https-origin.dhl.com
 mbagtw1-uat.dhl.com
 fopsop.ford.mediatrak.dhl.com
 lhr027a.dhl.com
@@ -9860,12 +9801,11 @@ bdmac2.dhl.com
 dhllink-apim-eus-prd.dhl.com
 dyn-uat2-apimanagement.dhl.com
 status.developer.dhl.com
-www.dhlfreightse.dhl.com
 locator-prod-cbj.dhl.com
 wsb-ui-prod.dhl.com
 srdispas1-test.dhl.com
 couk.gitdhl.dhl.com
-www.retail.connect-e2.apis.dhl.com
+retail.connect-e2.apis.dhl.com
 aimsecrew-bcs-uat.avi-dc.dhl.com
 getapp-test.dhl.com
 svt-noram-aks-test.dhl.com
@@ -9878,7 +9818,6 @@ gsd-apps2-prg.dhl.com
 tosext.kul-dc.dhl.com
 flc.dhlec.dhl.com
 czchows5393.prg-dc.dhl.com
-www.stg-careers.dhl.com
 spcpau.esbrest-uat.dhl.com
 malapi-test.dhl.com
 wsb-ui-am.dhl.com
@@ -9890,7 +9829,7 @@ traxpayfa5-qa.dhl.com
 retail-test.apis.dhl.com
 bg.gitdhl.dhl.com
 czchooct002.dhl.com
-www.delivered.dhl.com.test.m.dhl.com
+delivered.dhl.com.test.m.dhl.com
 api.sscim.uat.dhl.com
 workspace.datalabs.dhl.com
 dcg1-prodr-isdata01.dhl.com
@@ -9925,12 +9864,11 @@ connectplus.dhl.com
 lhr240a.dhl.com
 vgapi.prg.dhlec.dhl.com
 czcholstc002960.prg-dc.dhl.com
-www.dhl.com.la.test-https-origin.dhl.com
+dhl.com.la.test-https-origin.dhl.com
 ops-security-api-uat.dhl.com
 cz1.cloudapps.dhl.com
 esharenewtest.dhl.com
 event-history-sherloc-stg.dhl.com
-www.paydutytaxes.dhl.com
 monitor-shipment.sherloc-dev.dhl.com
 mykulwspc000241.kul-dc.dhl.com
 mailmarksbx-ecsuk.dhl.com
@@ -9945,14 +9883,12 @@ vgapi-bat.cbj.dhlec.dhl.com
 lhr239a.dhl.com
 sigutuenvio.dhl.com
 agw-testsuite-weu-tat.dhl.com
-www.upcloseandvirtual.dhl.com
 czcholstc001284.prg-dc.dhl.com
 dqf-az.dhl.com
 usqaslspc000074.phx-dc.dhl.com
 goals-communicator-uat.gait.dhl.com
 lhr191a.dhl.com
 link-grok.dhl.com
-www.globalmaileurope.dhl.com
 v4.datalabs.dhl.com
 czchows6171.prg-dc.dhl.com
 eu.gitdhl.dhl.com
@@ -9987,9 +9923,8 @@ mytpmws1040.kul-dc.dhl.com
 test-orm.apis.dhl.com
 bootcamp.latam.express.dhl.com
 opsys-wsp-ecsuk.dhl.com
-www.dhl-sr-staging.dhl.com
 api.crestqa.dgf.dhl.com
-www.dhl.com.ng.test-https-origin.dhl.com
+dhl.com.ng.test-https-origin.dhl.com
 dhlsp-az-dev.dhl.com
 dk.gitdhl.dhl.com
 czcholstc001352.prg-dc.dhl.com
@@ -10014,7 +9949,6 @@ nl.pit.dhl.com
 sats.dhl.com
 czcholstc000071.prg-dc.dhl.com
 ecomgtwy.dhl.com
-www.intrashipch.dhl.com
 cw1preprod-ecom.dhl.com
 oddws.dhl.com
 usakl-locus-prod-qas.dhl.com
@@ -10040,7 +9974,6 @@ cvpn-sfdsc.dhl.com
 prgdclywsi23.prg-dc.dhl.com
 marks-and-spencer.portal.ecsuk.dhl.com
 sh01.dhl.com
-www.dscjiraapac.dhl.com
 swi.au.dsc.dhl.com
 czstlws394.prg-dc.dhl.com
 poststation.koeln.lidl.82017742.202102.dhl.com
@@ -10105,7 +10038,6 @@ dhltvanr.dhl.com
 narita-tst.dhl.com
 wccprgbatch.kul-dc.dhl.com
 ap.analyticsplatform.dhl.com
-www.routigouk.dhl.com
 theview-apac-cp.dhl.com
 esecure-test-eosl.dhl.com
 devopsbi.avi-dc.dhl.com
@@ -10129,7 +10061,7 @@ m.dhl.nl.origin.test.m.dhl.com
 mail4b-out.dhl.com
 dctservices-test-e2e.dhl.com
 testtavi.dhl.com
-www.dhl.com.sa.test-https-origin.dhl.com
+dhl.com.sa.test-https-origin.dhl.com
 lhr145a.dhl.com
 mykulls4383.apis.dhl.com
 laborshareapp.lsa.dhl.com
@@ -10148,9 +10080,9 @@ czchogoogle011.prg-dc.dhl.com
 ccpconfig-sit.dhl.com
 int.api.autoid.iot.dhl.com
 live-tgv-vip.avi-dc.dhl.com
-www.express-international.com.origin.test.m.dhl.com
+express-international.com.origin.test.m.dhl.com
 uslck-locus-prod-meg.dhl.com
-www.dhl.com.lk.test-https-origin.dhl.com
+dhl.com.lk.test-https-origin.dhl.com
 mydhlplusplatform-e2e.dhl.com
 hgfproveedor.dhl.com
 techsupport-stg.express.dhl.com
@@ -10168,7 +10100,6 @@ dsc-aca-um-uat.prg-dc.dhl.com
 lhr171a.dhl.com
 migfac06dev.dhl.com
 redis-11122.rpahaa-as-cho.dhl.com
-www.togetherunstoppable.dhl.com
 dhllink-apigit-eus-qa.dhl.com
 dyn-devbau-apideveloper.dhl.com
 guru-ext-test.dhl.com
@@ -10225,7 +10156,6 @@ mykulwspc000348.kul-dc.dhl.com
 crestqa.dgf.dhl.com
 dpdhl-int-pst-cbj.dhl.com
 czcholsint1980.prg-dc.dhl.com
-www.ye.dhl.com
 scb-ui.stg-scb.dhl.com
 m.dhl.com.cy.origin.test.m.dhl.com
 people.postbank.dhl.com
@@ -10249,7 +10179,6 @@ auexpapps-uat.dhl.com
 link-itxv9-ftp2-prd.dhl.com
 esharenew-test.dhl.com
 boappws.dhl.com
-www.supplychainjobs.dhl.com
 m.dhl.com.qa.origin.test.m.dhl.com
 dcihub-int-pen.dhl.com
 live-devopsbi-vip.avi-dc.dhl.com
@@ -10286,7 +10215,7 @@ dcd-pst-prg-admin.dhl.com
 test-dmz.apps.czchooct002.dhl.com
 esb-cert1-os.dhl.com
 voip2.uksdc.dhl.com
-www.3pl.dhl.com
+3pl.dhl.com
 dom.cn.dhl.com
 sagekenyaess.dhl.com
 dmac-en1-uat.dhl.com
@@ -10301,14 +10230,14 @@ vap-db.prg-dc.dhl.com
 expressvisionpicking-cert.dhl.com
 objectstore.rpasuite.dhl.com
 keyserver-new.dhl.com
-www.dhl.co.jp.test-https-origin.dhl.com
+dhl.co.jp.test-https-origin.dhl.com
 usjot-mars-agv-prod-meg.dhl.com
 czcholstc003003.prg-dc.dhl.com
 retup-aws.dhl.com
 test1.splea.dhl.com
 m.dhl.ca.test.m.dhl.com
 czchoap0210.prg-dc.dhl.com
-www.dhl.com.sg.test-https-origin.dhl.com
+dhl.com.sg.test-https-origin.dhl.com
 m.dhl.co.in.test.m.dhl.com
 apppe-test.dhl.com
 cxd-fsixtest2.dhl.com
@@ -10324,7 +10253,7 @@ certauth.gaitloginpoc.dhl.com
 mt.gitdhl.dhl.com
 prgdca-ise-pn01.dhl.com
 czchows5396.prg-dc.dhl.com
-www.diaw.dhl.fr.test-https-origin.dhl.com
+diaw.dhl.fr.test-https-origin.dhl.com
 simt.phx-dc.dhl.com
 lhr214a.dhl.com
 sapbpeci.prg-dc.dhl.com
@@ -10383,7 +10312,6 @@ cfit-uat-nonfw-isdata01.dhl.com
 m.dhl.at.origin.test.m.dhl.com
 dmac-admin.dhl.com
 czex04elvm02.prg-dc.dhl.com
-www.logistics-dev.dhl.com
 origin-7yozcbzzmp-bonus-www.dhl.com
 lhr007a.dhl.com
 cyclone2-eu-qa.dhl.com.dhl.com
@@ -10396,7 +10324,7 @@ dcg1-prod-mb02.dhl.com
 lv.gitdhl.dhl.com
 gns-proxy-sherloc-dev.dhl.com
 kuldclyavc01.dhl.com
-www.dhl.co.uk.test-https-origin.dhl.com
+dhl.co.uk.test-https-origin.dhl.com
 signature.apis.dhl.com
 elogdellcn.dhl.com
 czchows5997.prg-dc.dhl.com
@@ -10407,7 +10335,7 @@ czchoap0275.prg-dc.dhl.com
 apitest-acc.dhlparcel-lu.dhl.com
 artifactory-cbj.dhl.com
 cw1preprod-web.dhl.com
-www.dhl.com.kw.test-https-origin.dhl.com
+dhl.com.kw.test-https-origin.dhl.com
 mykulls1690.apis.dhl.com
 bugzilla-vip.bru-hub.dhl.com
 czchols5198.prg-dc.dhl.com
@@ -10439,15 +10367,14 @@ getintouch.dhl.com
 narita-test.dhl.com
 czcholstc000645.prg-dc.dhl.com
 uat.gss-api-v4.dhl.com
-www.fspa.dhl.com
 czchowspc000252.prg-dc.dhl.com
-www.mo.dhl.com
+mo.dhl.com
 itsapigw.dhl.com
 pollux.dhl.com
 prod-dmz.aps.mykulocp001.dhl.com
 api-bat-tmp.deutschepost.dhl.com
 czchowstc000338.prg-dc.dhl.com
-www.delivered.dhl.com.origin.test.m.dhl.com
+delivered.dhl.com.origin.test.m.dhl.com
 docs.sherloc-test.dhl.com
 mydhlplusplatform-qa.dhl.com
 art-edge-azr-eu.dhl.com
@@ -10455,12 +10382,11 @@ expclouddirectapigw-pst.dhl.com
 cramx-cloud.dhl.com
 pos-reseller-dev.dhl.com
 kiwiplus-is-prod.prg-dc.dhl.com
-www.link-active.dhl.com
+link-active.dhl.com
 ditpickquer-test.dhl.com
 prod3-ocp.phx-dc.dhl.com
 dcg1-prod-ai01.dhl.com
 sia.dhl.com
-www.r360.dhl.com
 dhl-cycsftp-float-qa.dhl.com
 gateway3b.dhl.com
 m.dhl.bg.test.m.dhl.com
@@ -10483,7 +10409,6 @@ cqs.sherloc-dev.dhl.com
 registry1-ocp.prg-dc.dhl.com
 myepp-test.dhl.com
 getapp-tip.dhl.com
-www.llp-dxl.dhl.com
 suchatbot-test.dhl.com
 usqasls0175.phx-dc.dhl.com
 prod1-internal-ocp.prg-dc.dhl.com
@@ -10493,7 +10418,7 @@ gapi.connect-e2.apis.dhl.com
 cscm.dhl.com
 notification.sherloc-test.dhl.com
 by.gitdhl.dhl.com
-www.dhl.in.test-https-origin.dhl.com
+dhl.in.test-https-origin.dhl.com
 servicepointsservice-ecsuk.dhl.com
 ui.sherloc-prod-weu.dhl.com
 dsctrstockt.dhl.com
@@ -10503,7 +10428,6 @@ czcholstc000488.prg-dc.dhl.com
 usakl-locus-prod.dhl.com
 bugzilla.bru-hub.dhl.com
 usucg-locus-prod.dhl.com
-www.intraship1-dhl-lv.dhl.com
 agw-testsuite-weu-sit.dhl.com
 m.dhl.com.sv.origin.test.m.dhl.com
 wsb-gca-eu.dhl.com
@@ -10519,7 +10443,6 @@ docs.sherloc-prod.dhl.com
 lhr081a.dhl.com
 pos-admin.dhl.com
 econtract.dsc.dhl.com
-www.test-sp.dhl.com
 apbbxportal-nonprod.apideveloper.dhl.com
 fileshare.us.ecs.dhl.com
 iloczj00404wm.gb.dhl.com
@@ -10534,7 +10457,7 @@ czchols4535.prg-dc.dhl.com
 demandmanagementnwc-qas.dhl.com
 ech-prod-dispatcher.prg-dc.dhl.com
 ehv.acc.nl.dhl.com
-www.dhl.al.test-https-origin.dhl.com
+dhl.al.test-https-origin.dhl.com
 cisp-int.dhl.com
 m.dhl.com.ve.origin.test.m.dhl.com
 live-rcts-vip.avi-dc.dhl.com
@@ -10546,7 +10469,6 @@ dsctmststr1.dhl.com
 api.tst.autoid.iot.dhl.com
 assettracking.iot.dhl.com
 czcholstc000082.prg-dc.dhl.com
-www.importeasy.dhl.com
 web.eu.datalabs.dhl.com
 bpm-ia.dhl.com
 pusinf02.phx-dc.dhl.com
@@ -10569,13 +10491,12 @@ esb-proxy.sherloc-prod-sea.dhl.com
 mca-test.dhl.com
 dhllink-apim-weu-qa.dhl.com
 thirdpartyintegrationservice-ecsuk.dhl.com
-www.dhl.co.mw.test-https-origin.dhl.com
+dhl.co.mw.test-https-origin.dhl.com
 origin.uat.ocp.dhlpass.dhl.com
 czchooct003.dhl.com
 productservice-ecsuk.dhl.com
 czcholspc001545.prg-dc.dhl.com
 mdms.dhl.com
-www.testglobalmail.dhl.com
 consumer-test.asia.apis.dhl.com
 poststation.bergischgladbach.aldi.82017739.202102.dhl.com
 dev-iconnector-bah-rcv-vip.gait.dhl.com
@@ -10632,7 +10553,7 @@ dhllink-apimgmt-weu-prd.dhl.com
 czchols2745.prg-dc.dhl.com
 api.intify-testing.dhl.com
 gaitseg.dhl.com
-www.dhl.by.test-https-origin.dhl.com
+dhl.by.test-https-origin.dhl.com
 czcholspc001136.prg-dc.dhl.com
 gcdbportal-gbl-tmp.dhl.com
 ewftmc-ref-cbj.dhl.com
@@ -10645,7 +10566,6 @@ saps8qci.prg-dc.dhl.com
 start.dhl.com
 ech-stage-author-support.prg-dc.dhl.com
 grid-express.my-profile.uat.dhl.com
-retail.connect-e2.apis.dhl.com
 dcg1-uat-ai01.dhl.com
 ipub.sftp-prg.dhl.com
 qa.fopsop.svc.mtk.ford.mediatrak.dhl.com
@@ -10682,19 +10602,17 @@ dhllink-linkccapi-qa.dhl.com
 mailmarkspoilsservice-ecsuk.dhl.com
 czchoapint0446.prg-dc.dhl.com
 mynet.dhl.com
-www.unsubscribe.dhl.com
 zaazu-sbc01.dhl.com
 sscim-api.dhl.com
 wsb-expapi-poc.weu.dhl.com
-www.dhl.com.ye.test-https-origin.dhl.com
+dhl.com.ye.test-https-origin.dhl.com
 origin-dove-cbj.dhl.com
 grid-express.dev.dhl.com
-www.dhl.co.sz.test-https-origin.dhl.com
+dhl.co.sz.test-https-origin.dhl.com
 dscameapex-dev.dhl.com
 c2ngprodpilot.dhl.com
 gateway-sherloc-stg.dhl.com
 poc2gateway1e.dhl.com
-www.psf.dhl.com
 ech-stage-publish.prg-dc.dhl.com
 m.dhl.fr.test.m.dhl.com
 czchows6172.prg-dc.dhl.com
@@ -10717,7 +10635,6 @@ mykullspc000002.apis.dhl.com
 kuldclyfep21.kul-dc.dhl.com
 stg-scb.dhl.com
 efoms-nonssl-test.asia.apis.dhl.com
-www.mydhl-staging.dhl.com
 lhr219a.dhl.com
 monitor-shipment-sherloc-stg.dhl.com
 czstlws0432.prg-dc.dhl.com
@@ -10734,8 +10651,7 @@ artifactory-us.dhl.com
 czcholspc000212.prg-dc.dhl.com
 gia-test.eqcx.dhl.com
 esp-uat2.dhl.com
-www.locator.dhl.com
-www.dhl.bg.test-https-origin.dhl.com
+dhl.bg.test-https-origin.dhl.com
 dcg1-proha-mb02.dhl.com
 dpdhl-int-uat3.dhl.com
 kr-apideveloper.dhl.com
@@ -10756,7 +10672,7 @@ test-dmz.apps.usqasocp001.dhl.com
 ewfbackend-ref-cbj.dhl.com
 qasdca-sd-faz.dhl.com
 pleiades-dhl-prod.fr.dhl.com
-www.dhl.com.na.test-https-origin.dhl.com
+dhl.com.na.test-https-origin.dhl.com
 stationmonitor.dgf.dhl.com
 dhlcs-dev.dhl.com
 czchows6577.prg-dc.dhl.com
@@ -10778,7 +10694,7 @@ orm.apis.dhl.com
 opsysintegrationservice-ecsuk.dhl.com
 m.dhl.com.tw.origin.test.m.dhl.com
 myseeit.dhl.com
-www.dhl.com.qa.test-https-origin.dhl.com
+dhl.com.qa.test-https-origin.dhl.com
 dci-test.ia-reg.dhl.com
 opms-proxy-sherloc-stg.dhl.com
 clock-dev.dhl.com
@@ -10809,7 +10725,7 @@ soe-stage.dhl.com
 waf.bpm.gbs.dhl.com
 deniedparty-am.dhl.com
 prgdclyipp01.prg-dc.dhl.com
-www.dhl.com.test-https-origin.dhl.com
+dhl.com.test-https-origin.dhl.com
 web.ap.datalabs.dhl.com
 dhllink-apidevloper-sea-prd.dhl.com
 proddr2-loginproxy.kul-dc.dhl.com
@@ -10846,7 +10762,7 @@ czchows5121.prg-dc.dhl.com
 apihub-digikama-sandbox.eu.dhl.com
 wmsscalemanagementreport-ext.goce.dhl.com
 ecomtest.dhl.com
-www.dhl.dk.test-https-origin.dhl.com
+dhl.dk.test-https-origin.dhl.com
 lhr174a.dhl.com
 tt-uat.dhl.com
 ib-preprod1-mq1.prg-dc.dhl.com
@@ -10859,7 +10775,7 @@ config-matrix.test-scb.dhl.com
 scheduler-test.plato-test.dhl.com
 alexandria.qpulseair.dhl.com
 sk.gitdhl.dhl.com
-www.dhigin.dhl.com
+dhigin.dhl.com
 kr-apimanagement.dhl.com
 czchols4892.prg-dc.dhl.com
 jdarw-ukrugp5.dhl.com
@@ -10903,7 +10819,7 @@ lhr093a.dhl.com
 preprodintoic.au.dsc.dhl.com
 czcholstc000769.prg-dc.dhl.com
 hestia-dev.atmeta.dhl.com
-www.dhl.co.ug.test-https-origin.dhl.com
+dhl.co.ug.test-https-origin.dhl.com
 ech-dispatcher-test.prg-dc.dhl.com
 flc.acc.nl.dhl.com
 lhr095a.dhl.com
@@ -10911,7 +10827,7 @@ usqaslstc000326.phx-dc.dhl.com
 accenture-ext.dhl.com
 mex-co.mx.dhl.com
 backend.cxd-fsixdev2.dhl.com
-www.cn.dhl.com.dev-https-origin.dhl.com
+cn.dhl.com.dev-https-origin.dhl.com
 cff-app-fe-test-cloud.dhl.com
 kiwiplus-sftp.dhl.com
 ech-test-publish.prg-dc.dhl.com
@@ -10936,14 +10852,13 @@ api-sherloc-dev.dhl.com
 delldn-uat.dhl.com
 ocntcbjws.apis.dhl.com
 czcholsint1064.prg-dc.dhl.com
-www.dhl.com.pk.test-https-origin.dhl.com
+dhl.com.pk.test-https-origin.dhl.com
 bru.pit.dhl.com
 prod-int.apps.lt1stl.dhl.com
 apim-dhllink-ext-weu-qa.dhl.com
 malapi-dev.dhl.com
 lhr103a.dhl.com
 gist.git-test.dhl.com
-www.intraship1-dhl-cz.dhl.com
 m.dhl.com.ec.origin.test.m.dhl.com
 vgapi-bat.prg.dhlec.dhl.com
 reference-service.sherloc-test.dhl.com
@@ -10994,8 +10909,6 @@ usqaslspc000075.phx-dc.dhl.com
 czcholsint1659.prg-dc.dhl.com
 begate-bruhub-auth.dhl.com
 vocabulary-dev.dhl.com
-www.datpb.dhl.com
-www.connectedview.dhl.com
 dev.dscs-uom.dsc.dhl.com
 mdmbenelux.dhl.com
 apdc192.dhl.com
@@ -11031,7 +10944,6 @@ czchowsint752.prg-dc.dhl.com
 dhllink-apimgmt-sea-qa.dhl.com
 alm.rpa-as-cho-poc.dhl.com
 test-paydutytaxes.dhl.com
-www.elp-tempuat.dhl.com
 lhr013a.dhl.com
 ipub.sftp-aims.dhl.com
 poststation.koeln.netto.82017735.202102.dhl.com
@@ -11040,20 +10952,17 @@ rest.frt-e4u-ctb-prod.dhl.com
 czchows6075.prg-dc.dhl.com
 czcholsint920.prg-dc.dhl.com
 sbrmanagementgateway.dhl.com
-www.dscotmtest.dhl.com
 autoid.iot.dhl.com
 nrim-uat.necst.prg-dc.dhl.com
 tptdev.dhl.com
 osp.datalake-cb.dhl.com
-www.r3.mms.dhl.com
+r3.mms.dhl.com
 dms-cus-prod.prod-int.apps.czchoocp001.dhl.com
-www.demandsurcharge.dhl.com
 usqasws4101.phx-dc.dhl.com
 essrules.dhl.com
 debriefv4-ap.dhl.com
 dev.api.ngfs.iot.dhl.com
-www.dhl.co.ke.test-https-origin.dhl.com
-www.apitest.apollo.dhl.com
+dhl.co.ke.test-https-origin.dhl.com
 objectstore.rpa-as-stl-poc.dhl.com
 apihub-digikama-sandbox.dhl.com
 mykulls1589.apis.dhl.com
@@ -11083,7 +10992,7 @@ gcaopenshift-eu.dhl.com
 usckz-locus-prod-qas.dhl.com
 az.nl.dhl.com
 opms-proxy.sherloc-test.dhl.com
-www.dhl.ae.test-https-origin.dhl.com
+dhl.ae.test-https-origin.dhl.com
 cnshals20054.apis.dhl.com
 manalytics-admin-test.dhl.com
 ereadiness-test.dhl.com
@@ -11097,7 +11006,7 @@ dhllink-apimgmt-eus-prd.dhl.com
 guest-us01-pub.dhl.com
 qpulsercg.qpulsega-uat.dhl.com
 gip-api-prod.dhl.com
-www.dhl.com.sy.test-https-origin.dhl.com
+dhl.com.sy.test-https-origin.dhl.com
 lhr092a.dhl.com
 gsd-apps-prg.dhl.com
 prod-int.apps.usmegocp001.dhl.com
@@ -11131,7 +11040,6 @@ lhr009a.dhl.com
 smt-apigit-weu-prd.dhl.com
 debrief-testv4-am.dhl.com
 shipping.pg.dhl.com
-www.logistics-uat.dhl.com
 czcholsint1661.prg-dc.dhl.com
 preprod3.dhlecommerce.dhl.com
 locator-prod.dhl.com
@@ -11139,10 +11047,10 @@ event-history.sherloc-e2e.dhl.com
 ui.sherloc-stg.dhl.com
 dcvso.dhl.com
 dev.airquality.conditionmonitoring.iot.dhl.com
-www.dhl.cz.test-https-origin.dhl.com
+dhl.cz.test-https-origin.dhl.com
 test-apigee.freight-logistics.dhl.com
 test.fspa.dhl.com
-www.dhl.co.ir.test-https-origin.dhl.com
+dhl.co.ir.test-https-origin.dhl.com
 ecs-cz-test.necst.dhl.com
 opms-proxy.sherloc-dev.dhl.com
 czchowsint2126.prg-dc.dhl.com
@@ -11153,7 +11061,7 @@ apis.ecpay.dhl.com
 dsdevelopments.mws-dev.dhl.com
 webmail2.dhl.com
 spcpau.esbrest-cert.dhl.com
-www.dhl.com.et.test-https-origin.dhl.com
+dhl.com.et.test-https-origin.dhl.com
 mykullspc002365.apis.dhl.com
 config-matrix.dev-scb.dhl.com
 lhr074a.dhl.com
@@ -11166,7 +11074,7 @@ czchowspc001419.prg-dc.dhl.com
 debrief-delivery-aggr-test-cloud.dhl.com
 mys.frp-analytics.dhl.com
 lhr231a.dhl.com
-www.dhl.co.ls.test-https-origin.dhl.com
+dhl.co.ls.test-https-origin.dhl.com
 tst.woi.dhl.com
 hms-storage-cz.dhl.com
 hpetemp.dhl.com
@@ -11179,7 +11087,6 @@ mykulls1630.apis.dhl.com
 newsletter.lot.dhl.com
 auth.spt-test.dhl.com
 lhr220a.dhl.com
-www.globaltrade.cn.dhl.com
 lhr072a.dhl.com
 static.fsixdtest.dhl.com
 dhlindiaplugin.dhl.com
@@ -11202,7 +11109,6 @@ traxwsbdart-vip.avi-dc.dhl.com
 czcholstc000104.prg-dc.dhl.com
 api-acc.dhlparcel-lu.dhl.com
 qpulsega.qpulsega-uat.dhl.com
-www.intraship1-ch.dhl.com
 notification-sherloc-dev.dhl.com
 gcaocp-eu.dhl.com
 oldukmail-ecsuk.dhl.com
@@ -11265,12 +11171,11 @@ dcg1-uat-tss.dhl.com
 esb-proxy-sherloc-test.dhl.com
 usmv4-locus-prod-qas.dhl.com
 dcg1-uat-isdata03.dhl.com
-www.dscustportaldev.dhl.com
 lhr018a.dhl.com
-www.dhl.pt.test-https-origin.dhl.com
+dhl.pt.test-https-origin.dhl.com
 cap-internal-cert.dhl.com
 evoil.tislog-freight.dhl.com
-www.dhl.co.il.dev-https-origin.dhl.com
+dhl.co.il.dev-https-origin.dhl.com
 prodintoic.au.dsc.dhl.com
 lhr048a.dhl.com
 m.dhl.fr.origin.test.m.dhl.com
@@ -11287,7 +11192,6 @@ czchols3774.prg-dc.dhl.com
 origin-8011bypy01-verfuegenui-www.dhl.com
 gws.dhl.com
 smt-apideveloper-weu-qa.dhl.com
-www.paketshop-uat.dhl.com
 admin-fcis.dhl.com
 ramco.dhl.com
 test-int.apps.usqasocp001.dhl.com
@@ -11328,7 +11232,6 @@ api-express-cert.dhl.com
 wsb-gca-internal.dhl.com
 czchowspc000259.prg-dc.dhl.com
 proview-usatest.dhl.com
-www.gf.dhl.com
 cnawsws000022.kul-dc.dhl.com
 usrbv-locus-prod.dhl.com
 dcg1-prod-fwds.dhl.com
@@ -11348,13 +11251,12 @@ m.dhl.se.origin.test.m.dhl.com
 fds-is-cert.dhl.com
 czchowspc000755.prg-dc.dhl.com
 mbagtw-c-test.dhl.com
-www.dcihub.dhl.com
 czstlws0423.prg-dc.dhl.com
 dcg1-prodr-mb02.dhl.com
 mykulls1622.apis.dhl.com
 sslvpn.be.dhl.com
 migfac05dev.dhl.com
-www.dhl-usa.com.test-https-origin.dhl.com
+dhl-usa.com.test-https-origin.dhl.com
 origin-dhlsp.dhl.com
 documentservice-ecsuk.dhl.com
 czcholstc000668.prg-dc.dhl.com
@@ -11365,7 +11267,7 @@ hms.dhl.com
 dpdhl-int-pst-prg.dhl.com
 test-ct-20200720-2.dhl.com
 gcaocp-eu-sit.dhl.com
-www.dhl.co.tz.test-https-origin.dhl.com
+dhl.co.tz.test-https-origin.dhl.com
 prod-int.apps.lt1aims.dhl.com
 lhr014a.dhl.com
 theviewtest.phx-dc.dhl.com
@@ -11398,7 +11300,6 @@ tst.management.iot.dhl.com
 m.dhl.co.zw.origin.test.m.dhl.com
 smartflow3.ru.dhl.com
 oftpv2-exp-fin-ssc.dhl.com
-www.yellowbook.dhl.com
 static.bookings.dhl.com
 mmsus.dhl.com
 x3.hillebrand.dhl.com
@@ -11411,7 +11312,6 @@ givrsbctest.dhl.com
 test-m.cn.dhl.com
 lhr224a.dhl.com
 uat.gss-exemption-v4.dhl.com
-www.intraship1-dhl-co-uk.dhl.com
 cff-app-fe-uat-cloud.dhl.com
 czcholstc000066.prg-dc.dhl.com
 elg-xcvpn.dhl.com
@@ -11426,7 +11326,6 @@ lhr182a.dhl.com
 expressgrid.uat.dhl.com
 czstlws0559.prg-dc.dhl.com
 bpm-ia-int.dhl.com
-www.delivery.dhl.com
 dhle-staging-dvreg.dhl.com
 esecure-az-test.dhl.com
 gateway3d.dhl.com
@@ -11436,7 +11335,7 @@ dyn-devbau-apimanagement.dhl.com
 mmp.dhl.com
 prp.dhl.com
 catalog-dhl.pocbizagi.dhl.com
-www.dhl.com.bd.test-https-origin.dhl.com
+dhl.com.bd.test-https-origin.dhl.com
 enrich.ccre-cbj.dhl.com
 amm.acc.nl.dhl.com
 remittancefileprocessing-dev.prg-dc.dhl.com
@@ -11454,7 +11353,7 @@ auixopaydev.kul-dc.dhl.com
 dctcloud-dev.dhl.com
 prod1-ocp.prg-dc.dhl.com
 uslec-63-243-22-175.ctst06-test.dhl.com
-www.dhl.co.zm.test-https-origin.dhl.com
+dhl.co.zm.test-https-origin.dhl.com
 esb-proxy.sherloc-prod-weu.dhl.com
 mykulls1252.apis.dhl.com
 czcholsint2068.prg-dc.dhl.com
@@ -11481,17 +11380,17 @@ live-devopsmanuals-vip.avi-dc.dhl.com
 sbrscmgateway.dhl.com
 dcg1-prodr-fwds.dhl.com
 czcholstc000155.prg-dc.dhl.com
-www.testunisys.itrack.dhl.com
+testunisys.itrack.dhl.com
 gccpconfig-dev.dhl.com
 dgf-int-uat1.dhl.com
-www.dhl.lv.test-https-origin.dhl.com
+dhl.lv.test-https-origin.dhl.com
 czcholstc000214.prg-dc.dhl.com
 prod-int.apps.usqasocp001.dhl.com
 gateway.sherloc-prod.dhl.com
 ech-stage-dispatcher.prg-dc.dhl.com
 gcafecis-ap.dhl.com
 rafreport-old.dhl.com
-www.dhl.sk.test-https-origin.dhl.com
+dhl.sk.test-https-origin.dhl.com
 manalytics-tip.dhl.com
 jdaems-frsqfp1.dhl.com
 m.dhl.lu.origin.test.m.dhl.com
@@ -11509,7 +11408,6 @@ esb01.prg-dc.dhl.com
 b2btn-eu-qa.dhl.com
 gwebplus-mws-prod.apis.dhl.com
 client.test.dhl.com
-www.smartsensor-capture.dhl.com
 hms-storage-my.dhl.com
 docs-sherloc-dev.dhl.com
 im1.prg-dc.dhl.com
@@ -11525,7 +11423,7 @@ esb-proxy.sherloc-dev.dhl.com
 apdca-sd-radius02.dhl.com
 lhr235a.dhl.com
 download.cxd-fsixdev2.dhl.com
-www.dhl.co.kr.dev-https-origin.dhl.com
+dhl.co.kr.dev-https-origin.dhl.com
 sci-prg.dhl.com
 vocabulary-test.dhl.com
 lhr254a.dhl.com
@@ -11536,7 +11434,7 @@ dpdhl-int-uat2.dhl.com
 fec3.dhl.com
 gcaweb-am.dhl.com
 lnkazrq01.prg-dc.dhl.com
-www.dhl.ee.test-https-origin.dhl.com
+dhl.ee.test-https-origin.dhl.com
 shipping.iq.dhl.com
 youridea-pen-test.dhl.com
 origin-ez7ya2tqys-stammdatenundservicesui-www.dhl.com
@@ -11564,7 +11462,7 @@ cusinf07.phx-dc.dhl.com
 opms-proxy.sherloc-e2e.dhl.com
 c2ngdev.dhl.com
 retouropdracht-acc.dhlparcel-nl.dhl.com
-www.dhl.cl.test-https-origin.dhl.com
+dhl.cl.test-https-origin.dhl.com
 va-apps-prg.dhl.com
 theview-dfn.phx-dc.dhl.com
 ssoauthenticationservice-ecsuk.dhl.com
@@ -11586,7 +11484,6 @@ czchows5015.prg-dc.dhl.com
 isc1-backup.dhl.com
 scb-ui.test-scb.dhl.com
 guest-eu01-pub.dhl.com
-www.ondemand.dhl.com
 lhr158a.dhl.com
 gwebplus-schis-prod.apis.dhl.com
 console.apps.mykulocp001.dhl.com
@@ -11607,7 +11504,7 @@ ftp1-test.dhl.com
 czcholsint919.prg-dc.dhl.com
 cz2.cloudapps.dhl.com
 webprap6.dhl.com
-www.dhl.se.test-https-origin.dhl.com
+dhl.se.test-https-origin.dhl.com
 apdca-ise-pn01.dhl.com
 tst.conditionmonitoring.iot.dhl.com
 dev-acm-vip.avi-dc.dhl.com
@@ -11627,7 +11524,7 @@ lhr198a.dhl.com
 reference-service.sherloc-prod.dhl.com
 mykullstc000021.apis.dhl.com
 czchols2753.prg-dc.dhl.com
-www.dhl.jo.test-https-origin.dhl.com
+dhl.jo.test-https-origin.dhl.com
 czchowspc000798.prg-dc.dhl.com
 cff-app-be-preprod-cloud.dhl.com
 emportal-test.dhl.com
@@ -11646,7 +11543,7 @@ kr-apigw.dhl.com
 acs-jgenius.dhl.com
 gcaceuc-dr-splex.prg-dc.dhl.com
 globalcontracting-train.dhl.com
-www.dhl.ru.dev-https-origin.dhl.com
+dhl.ru.dev-https-origin.dhl.com
 cmc-globalsign-test-20180502.dhl.com
 cvpn-exp2a.cn.dhl.com
 dcihub-int-uat3.dhl.com
@@ -11674,11 +11571,10 @@ lhr245a.dhl.com
 ewfprod-ref.dhl.com
 voip2.ro.dhl.com
 spcpau.esbrest-sit.dhl.com
-www.mydhl-staging-int.dhl.com
 m.dhl.co.jp.test.m.dhl.com
 proddr2-ocp.kul-dc.dhl.com
 sea.dmac1.dhl.com
-www.dhl.ba.test-https-origin.dhl.com
+dhl.ba.test-https-origin.dhl.com
 dcg1-prod-portal.dhl.com
 mbagtw-d-test.dhl.com
 usckz-locus-test.dhl.com
@@ -11686,7 +11582,6 @@ static.example.dhl.com
 cnshals20052.apis.dhl.com
 dyn-prf-apigw.dhl.com
 lhr041a.dhl.com
-www.r2.tms.dhl.com
 vcc.dhl.com
 opms-proxy-sherloc-test.dhl.com
 lhr040a.dhl.com
@@ -11720,8 +11615,6 @@ ipaa-us-apps.dhl.com
 gwebplus-is-prod.prg-dc.dhl.com
 dcg1-proha-isdata02.dhl.com
 mybill-uat.dhl.com
-www.sd.dhl.com
-www.certifiedreplenishment.dhl.com
 bitest.cn.dhl.com
 test.m.dhl.com
 dscmws-dev.dhl.com
@@ -11731,7 +11624,7 @@ lhr243a.dhl.com
 usqaswstc000164.phx-dc.dhl.com
 dscssoeutestingress.dsctransport.cloudnet.dhl.com
 czchows6168.prg-dc.dhl.com
-www.dhl.it.test-https-origin.dhl.com
+dhl.it.test-https-origin.dhl.com
 usqaslspc000479.phx-dc.dhl.com
 smlpitest-e2e.dhl.com
 adobe.dhl.com
@@ -11740,9 +11633,8 @@ flc-central-gui.prg.dhlec.dhl.com
 qcs-pre-prod.dac.dhl.com
 mq-publisher.smp-stg.dhl.com
 prgdca-ise-mn01.dhl.com
-www.dhl.fr.test-https-origin.dhl.com
+dhl.fr.test-https-origin.dhl.com
 gss-api-v4.dhl.com
-www.parcelshop.dhl.com
 gcabepis-am.dhl.com
 r12prjc.dhl.com
 odb-test.necst.dhl.com
@@ -11751,7 +11643,6 @@ ru.gitdhl.dhl.com
 dmac-tip.dhl.com
 ele-test.dhl.com
 uat.dscs-mefis.dsc.dhl.com
-www.developer.dhl.com
 lhr044a.dhl.com
 cap-internal.dhl.com
 mykulap1010.apis.dhl.com
@@ -11780,9 +11671,8 @@ csvapem.apis.dhl.com
 seeit-pngvpn008.dhl.com
 jdarw-frsqfp1.dhl.com
 admr-eu-int.dhl.com
-www.ss.dhl.com
 http-b2b-test.dhl.com
-www.powerofglobal.trade.origin.test.m.dhl.com
+powerofglobal.trade.origin.test.m.dhl.com
 api.external.dhl.com
 smartscanner.dhl.com
 cmsjobs.dhl.com
@@ -11800,14 +11690,14 @@ pleiades-dhl-horsprod.fr.dhl.com
 dcvsuato.dhl.com
 recibos.dhl.com
 lhr057a.dhl.com
-www.dhl.com.br.test-https-origin.dhl.com
+dhl.com.br.test-https-origin.dhl.com
 esi-wiki.dhl.com
 czchowspc002328.prg-dc.dhl.com
 dceviewer-images.ru.dhl.com
 lhr051a.dhl.com
 czchowspc001267.prg-dc.dhl.com
 dhle-staging-rates.dhl.com
-www.dhl.nl.test-https-origin.dhl.com
+dhl.nl.test-https-origin.dhl.com
 mykullspc000009.apis.dhl.com
 kiwiplus-sftp.prg-dc.dhl.com
 gns-proxy-sherloc-stg.dhl.com
@@ -11815,7 +11705,6 @@ usuykws0058.phx-dc.dhl.com
 lhr246a.dhl.com
 int.inventory.iot.dhl.com
 us3.cloudapps.dhl.com
-www.testpacket.dhl.com
 gnsx-dev.dhl.com
 smt-apimgmt-weu-qa.dhl.com
 czcholstc000110.prg-dc.dhl.com
@@ -11841,7 +11730,6 @@ uat.dhlpass.dhl.com
 techsupport-trn.express.dhl.com
 api.sherloc-test.dhl.com
 demandmanagement-nwc.goce.dhl.com
-www.parcelshop-dev.dhl.com
 saccct.kul-dc.dhl.com
 comet-uat2.dhl.com
 api2.esp.dhl.com
@@ -11856,7 +11744,7 @@ dscacais.dhl.com
 dcg1-proha-tss.dhl.com
 m.dhl.com.my.test.m.dhl.com
 apps.mykulocp002.dhl.com
-www.bbxpressamericas.dhl.com.dhl.com
+bbxpressamericas.dhl.com.dhl.com
 console.apps.usmegocp001.dhl.com
 esecure-qws-sit.dhl.com
 mykulls1376.apis.dhl.com
@@ -11883,11 +11771,11 @@ dscodipptr4.dhl.com
 essrules-test.dhl.com
 lake.dhl.com
 saq-proxy-sherloc-test.dhl.com
-www.express-international.com.test.m.dhl.com
+express-international.com.test.m.dhl.com
 mysctrackandtrace-onboarding.dhl.com
 mykulws1531.kul-dc.dhl.com
 auth.cxd-fsixtest2.dhl.com
-www.dhl.co.rs.test-https-origin.dhl.com
+dhl.co.rs.test-https-origin.dhl.com
 usqaswstc001253.phx-dc.dhl.com
 mykulls1379.apis.dhl.com
 dhllink-apidevloper-eus-prd.dhl.com
@@ -11935,7 +11823,7 @@ essrules-az.dhl.com
 idvmsvendor.dhl.com
 esb-cert2-os.dhl.com
 mytpmws1081.kul-dc.dhl.com
-www.dhl.at.test-https-origin.dhl.com
+dhl.at.test-https-origin.dhl.com
 hkghris.dhl.com
 lhr185a.dhl.com
 wsb-ui-eu.dhl.com
@@ -11947,11 +11835,11 @@ mercurio.mex-co.mx.dhl.com
 admin.fsixdtest.dhl.com
 was-os.dhl.com
 m.dhl.com.pl.origin.test.m.dhl.com
-www.dhl.com.my.test-https-origin.dhl.com
+dhl.com.my.test-https-origin.dhl.com
 jdarefs-ukrugp5.dhl.com
 cqs-sherloc-dev.dhl.com
 esecure-eosl-prg.dhl.com
-www.dhl.co.bw.test-https-origin.dhl.com
+dhl.co.bw.test-https-origin.dhl.com
 lhr188a.dhl.com
 m.dhl.co.ke.test.m.dhl.com
 lhr099a.dhl.com
@@ -11962,7 +11850,6 @@ czchoap0211.prg-dc.dhl.com
 m.dhl.ee.test.m.dhl.com
 rest.frt-e4u-ctb-uat.dhl.com
 ecs-benelux.necst.dhl.com
-www.group.dhl.com
 nrm-sbx.necst.prg-dc.dhl.com
 czcholstc000821.prg-dc.dhl.com
 splsterling.dhl.com
@@ -11970,7 +11857,7 @@ coi.uat.dhl.com
 mykulws9440.kul-dc.dhl.com
 art-edge-azr-ap.dhl.com
 o2.portal.ecsuk.dhl.com
-www.dhl.si.test-https-origin.dhl.com
+dhl.si.test-https-origin.dhl.com
 api.xbu.dhl.com
 czchows6167.prg-dc.dhl.com
 dsctopingress.dhl.com
@@ -12026,7 +11913,7 @@ mkv-pacer-test.dhl.com
 inblrws1181.kul-dc.dhl.com
 isc3-report.dhl.com
 m.dhl.dk.origin.test.m.dhl.com
-www.dhl.es.test-https-origin.dhl.com
+dhl.es.test-https-origin.dhl.com
 lhr084a.dhl.com
 smartscanner-test.dhl.com
 dcg1-prodr-isdata02.dhl.com
@@ -12052,7 +11939,6 @@ lhr169a.dhl.com
 alexandria.qpulseair-uat.dhl.com
 usuykws0057.phx-dc.dhl.com
 czchowstc001656.prg-dc.dhl.com
-www.cxm.dsc.dhl.com
 pos-admin-dev.dhl.com
 svt.sherloc-e2e.dhl.com
 mynetcmsdev.dhl.com
@@ -12064,7 +11950,6 @@ lhr234a.dhl.com
 debrief-delivery-aggr-tat-cloud.dhl.com
 supplies-lnx-cert.dhl.com
 admin.myllp.dhl.com
-www.auctions.dhl.com
 manage-dev-dhl.pocbizagi.dhl.com
 apportalapi-pst.dhl.com
 build.pocbizagi.dhl.com
@@ -12091,7 +11976,6 @@ isosphera-test.es.dhl.com
 fopsop.mdm.ford.mediatrak.dhl.com
 cqs.sherloc-e2e.dhl.com
 ech-prod-author-support.prg-dc.dhl.com
-www.dscorder-qas.dhl.com
 v4.workspace.datalabs.dhl.com
 czcholsint772.prg-dc.dhl.com
 moniorcd-test.dhl.com
@@ -12099,7 +11983,6 @@ czchols5346.prg-dc.dhl.com
 m.dhl.co.nz.origin.test.m.dhl.com
 imap2.dhl.com
 dscssoeutestgw.dsctransport.cloudnet.dhl.com
-www.customeraccountreg.dhl.com
 tostest18.cn.dhl.com
 ech-prod-author-editor.prg-dc.dhl.com
 apbbxportal-nonprod.apigit.dhl.com
@@ -12141,7 +12024,6 @@ wsb-gca-am.dhl.com
 czchols4223.prg-dc.dhl.com
 m.dhl.cl.test.m.dhl.com
 gotmppt.dhl.com
-www.careers.dhl.com
 lhr115a.dhl.com
 dcg1-uat-finfwdata.dhl.com
 dhlup56dev-www.cn.dhl.com
@@ -12166,9 +12048,6 @@ live-cmsjobs-vip.avi-dc.dhl.com
 gsconnect.dhl.com
 cmsjobs.avi-dc.dhl.com
 kuldclywai11.kul-dc.dhl.com
-www.parcelshop-ref.dhl.com
-www.r3.tms.dhl.com
-www.dsctopdna01.dhl.com
 apitest-acc.dhlparcel-nl.dhl.com
 louis-service.gait.dhl.com
 cloud.csi.dhl.com
@@ -12185,12 +12064,11 @@ gwebplus-is-prod.dhl.com
 gtd-web-gts-stg-cz.dhl.com
 dmacportal-d-test.dhl.com
 czchols4142.prg-dc.dhl.com
-www.woi.dhl.com
 cdcpextractor-dev.dhl.com
 dsc-int-is-uat.prg-dc.dhl.com
 cra.dhl.com
 rafocp-int.dhl.com
-www.dhl.com.jm.test-https-origin.dhl.com
+dhl.com.jm.test-https-origin.dhl.com
 cfit-uat-fw-isdata01.dhl.com
 cqs.sherloc-stg.dhl.com
 ramcosim.au.dsc.dhl.com
@@ -12248,10 +12126,9 @@ docs.sherloc-stg.dhl.com
 roclaagvbornemtestcloud.dhl.com
 s21dcda1.dhl.com
 czstl.s3.dhl.com
-www.novatime01-ch.dhl.com
 elp-tempws.dhl.com
 sonarqube.dhl.com
-www.dpdhl-jobs-vor-ort.de.origin.test.m.dhl.com
+dpdhl-jobs-vor-ort.de.origin.test.m.dhl.com
 connectedview-old.dhl.com
 lhr140a.dhl.com
 vap4-uat.dhl.com
@@ -12261,10 +12138,9 @@ cloud-workspace-dev.datalabs.dhl.com
 svt-sherloc-stg.dhl.com
 poststation.rheinbach.lidl.82017734.202102.dhl.com
 smt-apigit-weu-qa.dhl.com
-www.dhl.com.co.test-https-origin.dhl.com
+dhl.com.co.test-https-origin.dhl.com
 apps-test.pocbizagi.dhl.com
 uat-gcpt.dhl.com
-www.testglobalmaileurope.dhl.com
 phxdclyfep21.phx-dc.dhl.com
 mail-int.dhl.com
 ap.datalabs.dhl.com
@@ -12294,7 +12170,7 @@ usckz-locus-uat.dhl.com
 tepr-nl.dhl.com
 czcholstc003943.prg-dc.dhl.com
 lhr195a.dhl.com
-www.dhl.com.is.test-https-origin.dhl.com
+dhl.com.is.test-https-origin.dhl.com
 czstlls328.prg-dc.dhl.com
 lhr130a.dhl.com
 intraship-test.dhl.com
@@ -12353,7 +12229,7 @@ mdmplapp0680.dhl.com
 hipp-rc-ppl.dhl.com
 edmemapps.dhl.com
 npa-ext-auth-test.dhl.com
-www.dhl.com.ge.test-https-origin.dhl.com
+dhl.com.ge.test-https-origin.dhl.com
 anx.acc.nl.dhl.com
 lhr075a.dhl.com
 api.rfid.iot.dhl.com
@@ -12364,7 +12240,7 @@ czchols5769.prg-dc.dhl.com
 czchows5395.prg-dc.dhl.com
 czchols4461.prg-dc.dhl.com
 o365migrationportal.kul-dc.dhl.com
-www.pg.dhl.com
+pg.dhl.com
 yellowbook.dev.dhl.com
 cfavs.esbrest-ap-prod.dhl.com
 mykullstc000079.apis.dhl.com
@@ -12379,7 +12255,6 @@ dcg-apis-prod-ts-ftpwm.dhl.com
 cafmuk.dhl.com
 lhr019a.dhl.com
 dcvs3.dhl.com
-www.uk.express.dhl.com
 poststation.kerpen.lidl.82017732.202102.dhl.com
 ftp-sgdgm.dhl.com
 frpdev.frp-analytics.dhl.com
@@ -12398,7 +12273,7 @@ globalcontracting-csb1.dhl.com
 oracle_fusion1.dhl.com
 czchows6163.prg-dc.dhl.com
 ebsemea3.dhl.com
-www.dhl.com.bb.test-https-origin.dhl.com
+dhl.com.bb.test-https-origin.dhl.com
 mykulwstc000255.kul-dc.dhl.com
 del-test.dhl.com
 dashboardprap6.dhl.com
@@ -12497,7 +12372,7 @@ bne-wcs-prod.dhl.com
 mykulls1614.apis.dhl.com
 viewscreen.git-test.dhl.com
 esb-dev-os.dhl.com
-www.dhl.com.gr.test-https-origin.dhl.com
+dhl.com.gr.test-https-origin.dhl.com
 efk1-ocp.prg-dc.dhl.com
 eci.dhl.com
 lhr175a.dhl.com
@@ -12532,7 +12407,6 @@ czchols5692.prg-dc.dhl.com
 event-history-sherloc-test.dhl.com
 pusinf08.phx-dc.dhl.com
 signature-test.apis.dhl.com
-www.expresscareers.dhl.com
 jdarefs-nlberp8.dhl.com
 mykulap1019.apis.dhl.com
 czcholstc000566.prg-dc.dhl.com
@@ -12555,14 +12429,13 @@ cvpn-vn.dhl.com
 old.edatagate.dhl.com
 prgdca-iselab01.dhl.com
 czchowspc000012.prg-dc.dhl.com
-www.wwww.togetherunstoppable.dhl.com
 author.test.m.dhl.com
 srt-be-scheduled-jobs-uat2.dhl.com
 lhr177a.dhl.com
 sites.pocbizagi.dhl.com
 xa122ls200015.prg-dc.dhl.com
-www.dhl.ro.test-https-origin.dhl.com
-www.dhl.com.tt.test-https-origin.dhl.com
+dhl.ro.test-https-origin.dhl.com
+dhl.com.tt.test-https-origin.dhl.com
 phoenixocs.dhl.com
 u1-git.dhl.com
 m.dhl.com.bd.test.m.dhl.com
@@ -12579,7 +12452,6 @@ mbagtw-e-test.dhl.com
 lhr073a.dhl.com
 esb-uat-mq.dhl.com
 acs-jgenius-prg.dhl.com
-www.sp.dhl.com
 qpulsercg.qpulseglobal-uat.dhl.com
 prod-int.apps.czstlocp001.dhl.com
 dhllink-apim-weu-prd.dhl.com
@@ -12611,11 +12483,10 @@ drx.acc.nl.dhl.com
 va-apps-uat.prg-dc.dhl.com
 ewfstage-ref.dhl.com
 azrocp3.dhl.com
-www.dhl.ru.test-https-origin.dhl.com
+dhl.ru.test-https-origin.dhl.com
 ssomaintenanceservice-ecsuk.dhl.com
 dyn-uat2-apigw.dhl.com
 nrm.necst.dhl.com
-www.pureq.goce.dhl.com
 czstlws0433.prg-dc.dhl.com
 lhr109a.dhl.com
 cvpn4v6.dhl.com
@@ -12655,7 +12526,7 @@ dev.api.autoid.iot.dhl.com
 dscapps-dev.dhl.com
 live-auditapplication-vip.avi-dc.dhl.com
 theview-uki.phx-dc.dhl.com
-www.dhl.com.pg.test-https-origin.dhl.com
+dhl.com.pg.test-https-origin.dhl.com
 mykullspc000236.apis.dhl.com
 jdaems-ukrugp5.dhl.com
 reference-service-sherloc-test.dhl.com
@@ -12671,7 +12542,7 @@ hkghrisuat.dhl.com
 czcholstc001853.prg-dc.dhl.com
 uslck-locus-dev.dhl.com
 my3.cloudapps.dhl.com
-www.dhl.lt.test-https-origin.dhl.com
+dhl.lt.test-https-origin.dhl.com
 svt.sherloc-dev.dhl.com
 woasnew.qa.dhl.com
 mlgateway.dhl.com
@@ -12714,7 +12585,7 @@ test.pkitest.dhl.com
 ui-sherloc-dev.dhl.com
 seeit-3mmvpn001.dhl.com
 smt-apimgmt-weu-dev.dhl.com
-www.dhl.fi.test-https-origin.dhl.com
+dhl.fi.test-https-origin.dhl.com
 magtw-e-test.dhl.com
 sel.spl.dhl.com
 usqaslspc000032.phx-dc.dhl.com
@@ -12756,7 +12627,6 @@ datafactory.dhl.com
 dsctmsr1ext.dhl.com
 gca7-wsb-ap-beta.dhl.com
 apps.czstlocp002.dhl.com
-www.ficoapps-mx.dhl.com
 czchols4342.prg-dc.dhl.com
 czchowstc000091.prg-dc.dhl.com
 emportal-tip.dhl.com
@@ -12770,7 +12640,6 @@ mojdhl-pre.dhl.com
 jenkins-core-prg.dhl.com
 mail6b-out.dhl.com
 c2ngauthuatpilot.dhl.com
-www.dpdhl-sr-staging.dhl.com
 mykullstc000026.apis.dhl.com
 nzd2-crs-proha-offrat.dhl.com
 galexe.dhl.com
@@ -12786,10 +12655,8 @@ dhlfasttrack-expr.dhl.com
 czcholstc001929.prg-dc.dhl.com
 prod-int.ipaa.dhl.com
 wcc.dhl.com
-www.pureq.dhl.com
 czchoap0223.prg-dc.dhl.com
-www.dhl.com.ua.test-https-origin.dhl.com
-www.ipresent.dhl.com
+dhl.com.ua.test-https-origin.dhl.com
 oat.dhl.com
 rebootmanager-api.dhl.com
 apdc190.dhl.com
@@ -12797,8 +12664,7 @@ test-int.apps.czchooct003.dhl.com
 acm-dev.avi-dc.dhl.com
 prod-int.apps.lt1cbj.dhl.com
 pst.umexhktest.dhl.com
-www.dsctms.dhl.com
-www.dhl.co.nz.test-https-origin.dhl.com
+dhl.co.nz.test-https-origin.dhl.com
 m.dhl.hu.origin.test.m.dhl.com
 m.dhl.pt.origin.test.m.dhl.com
 gcaopenshift-am.dhl.com
@@ -12836,15 +12702,15 @@ lnkextq02.prg-dc.dhl.com
 gns-proxy-sherloc-test.dhl.com
 mippreu1.dhl.com
 m.dhl.co.in.origin.test.m.dhl.com
-www.dhl.com.mx.dev-https-origin.dhl.com
+dhl.com.mx.dev-https-origin.dhl.com
 aubsiuat-toll.dhl.com
 dscssoeudevgw.dhl.com
 image.dhl.com
 was-prg.dhl.com
 testwebservicescert.dhl.com
 debrief-fe-tat-cloud.dhl.com
-www.dhl.bt.test-https-origin.dhl.com
-www.diest-https-origin.dhl.com
+dhl.bt.test-https-origin.dhl.com
+diest-https-origin.dhl.com
 tracking.gapi.dhl.com
 sciprap6-ext.dhl.com
 dhlexpress-myjob-test.dhl.com
@@ -12853,14 +12719,12 @@ ise-pn.dhl.com
 ech-prod-publish.prg-dc.dhl.com
 lhr218a.dhl.com
 czchols4226.prg-dc.dhl.com
-www.powerofglobal.trade.test.m.dhl.com
 view.hello.ecs.dhl.com
 s21erptrndp1.dhl.com
 suonc2.spl-test-uat.dhl.com
 apps.mykuloct001.dhl.com
 ms4.dhl.com
 mydhlplatform-pst.dhl.com
-www.captrack.dhl.com
 mykulls2068.apis.dhl.com
 quote.mydhli-test.dhl.com
 mykulwstc000101.kul-dc.dhl.com
@@ -12869,10 +12733,10 @@ assets.git-test.dhl.com
 czchols4231.prg-dc.dhl.com
 user-register-dhl.pocbizagi.dhl.com
 sspr-register.dhl.com
-www.dhl.com.bn.test-https-origin.dhl.com
+dhl.com.bn.test-https-origin.dhl.com
 traxwsbah.avi-dc.dhl.com
 dmac-internal-test.dhl.com
-www.dhl.com.au.test-https-origin.dhl.com
+dhl.com.au.test-https-origin.dhl.com
 wcoxml.dhl.com
 cnawsws000043.kul-dc.dhl.com
 origin.m.dhl.com
@@ -12900,7 +12764,7 @@ dev.aks.iot.dhl.com
 darknet-cbj.dhl.com
 e2lptest.dhl.com
 m.dhl.hu.test.m.dhl.com
-www.dhl.co.il.test-https-origin.dhl.com
+dhl.co.il.test-https-origin.dhl.com
 nisa-ext.dhl.com
 api.sherloc-prod.dhl.com
 eip-pr1-bld11.prg-dc.dhl.com
@@ -12952,11 +12816,11 @@ m.dhl.no.test.m.dhl.com
 phxdclyfep21.dhl.com
 jdarefs-frsqfp1.dhl.com
 dscssoapactestgw.dhl.com
-www.dhl.com.mk.test-https-origin.dhl.com
+dhl.com.mk.test-https-origin.dhl.com
 lhr106a.dhl.com
 czchows5921.prg-dc.dhl.com
 debrief-enrichment-aggr-dev-cloud.dhl.com
-www.dhl.com.cy.test-https-origin.dhl.com
+dhl.com.cy.test-https-origin.dhl.com
 czchols4180.prg-dc.dhl.com
 m.dhl.com.pk.test.m.dhl.com
 apps-oss.datalake-cb.dhl.com
@@ -12965,9 +12829,7 @@ cnbi.dhl.com
 globalimaging-test.dhl.com
 lhr016a.dhl.com
 lhr104a.dhl.com
-www.sc3.dhl.com
 sheportal.dhl.com
-link-active.dhl.com
 dcvsuat.dhl.com
 test.developer.dhl.com
 gwebplus-bulk-prod.dhl.com
@@ -13010,9 +12872,7 @@ pocdatalabs.dhl.com
 download.cxd-fsixdev.dhl.com
 lnkexap02.prg-dc.dhl.com
 dhllink-apigit-sea-qa.dhl.com
-www.origin-delivery.dhl.com
 apitest-acc.dhlparcel-be.dhl.com
-www.aeb-loadbalancer-bat.dhl.com
 cz3.cloudapps.dhl.com
 crihjwubfh.dhl.com
 web.datalabs.dhl.com
@@ -13028,14 +12888,14 @@ dmac-test-admin.dhl.com
 czchowstc000150.prg-dc.dhl.com
 us2.cloudapps.dhl.com
 cf1-ocp.prg-dc.dhl.com
-www.dpdhl-jobsvorort.de.origin.test.m.dhl.com
+dpdhl-jobsvorort.de.origin.test.m.dhl.com
 ccc-ref-node1.prg-dc.dhl.com
 ftp2-test.dhl.com
 m.dhl.nl.test.m.dhl.com
 mykulwspc000311.kul-dc.dhl.com
 czcholsint1071.prg-dc.dhl.com
 ewftmc-ref-prg.dhl.com
-www.dhl.com.pl.test-https-origin.dhl.com
+dhl.com.pl.test-https-origin.dhl.com
 czchows6590.prg-dc.dhl.com
 esecure-test-prg.dhl.com
 icelandbc.wish.dhl.com
@@ -13045,18 +12905,16 @@ ui.sherloc-test.dhl.com
 czcholstc001868.prg-dc.dhl.com
 apitest.ecpay.dhl.com
 malapi-stageprod.dhl.com
-realestatemarketplace.cre.dhl.com
-www.dhl.lu.test-https-origin.dhl.com
+dhl.lu.test-https-origin.dhl.com
 esharenew-auth-test.dhl.com
 fihelws81.prg-dc.dhl.com
 czchols3776.prg-dc.dhl.com
 referral.us.ecom.dhl.com
-www.test-internal.apollo.dhl.com
 mykulws9441.kul-dc.dhl.com
 czcholstc000713.prg-dc.dhl.com
 icsws-prd-az.dhl.com
 ewfprod-test.dhl.com
-www.dhl.ch.test-https-origin.dhl.com
+dhl.ch.test-https-origin.dhl.com
 econnect-ref-node1.prg-dc.dhl.com
 esb-proxy.sherloc-stg.dhl.com
 czcholstc002044.prg-dc.dhl.com
@@ -13070,10 +12928,9 @@ prgtst-dci2.dhl.com
 ecfa.dhl.com
 oip-apigw-qa.dhl.com
 dev.dhlpass.dhl.com
-www.intraship1-dhl-gr.dhl.com
 lhr203a.dhl.com
 test-dmz.ipaa.dhl.com
-www.dhlegypt.com.test-https-origin.dhl.com
+dhlegypt.com.test-https-origin.dhl.com
 mykulls4046.apis.dhl.com
 lhr204a.dhl.com
 cms.avi-dc.dhl.com
@@ -13100,7 +12957,7 @@ gtd-gts-cz.dhl.com
 dcs4-ea-new.dhl.com
 dcd-pst-cbj-admin.dhl.com
 wfotestmobile.dhl.com
-www.dhl.ie.test-https-origin.dhl.com
+dhl.ie.test-https-origin.dhl.com
 lhr039a.dhl.com
 dev.sea.dhlpass.dhl.com
 rum-rafintra.dhl.com
@@ -13110,14 +12967,13 @@ origin-ecis-cbj.dhl.com
 conex.fr.dhl.com
 dmac-admin-uat.dhl.com
 swi.dhl.com
-www.dhl.fr.dev-https-origin.dhl.com
+dhl.fr.dev-https-origin.dhl.com
 m.dhl.com.tw.test.m.dhl.com
 ncn.dmac1-uat.dhl.com
 czchows3714.prg-dc.dhl.com
 merlinev.de.dsc.dhl.com
 deniedparty.dhl.com
 theview-beta.phx-dc.dhl.com
-www.r1.tms.dhl.com
 cvpn-sfdsc1a.dhl.com
 grafana-hr-systems-express.dhl.com
 ftzinamazon1.dhl.com
@@ -13169,7 +13025,7 @@ goc.dhl.com
 dhllink-api-uat-poc.dhl.com
 int-direct.dhl.com
 ewf-to-csv-am.dhl.com
-www.dhl.no.test-https-origin.dhl.com
+dhl.no.test-https-origin.dhl.com
 ui.eot-test.dhl.com
 dscodipptr4.goce-cn.dhl.com
 m.dhl.cl.origin.test.m.dhl.com
@@ -13205,7 +13061,7 @@ depot-accept.nl.dhl.com
 narita-pre.dhl.com
 gcdbportal-gbl-tmp.goc.dhl.com
 dsccz-wgp-dc1.dhl.com
-www.dhl.com.bh.test-https-origin.dhl.com
+dhl.com.bh.test-https-origin.dhl.com
 cvpn-sfdsc01b.dhl.com
 origin-mygts-stg.dhl.com
 return.it.express.dhl.com
@@ -13220,8 +13076,7 @@ lhr205a.dhl.com
 sia-test.dhl.com
 dcd-e2e.dhl.com
 connect-e3.apis.dhl.com
-www.intrashipeu.dhl.com
-www.dhl.com.af.test-https-origin.dhl.com
+dhl.com.af.test-https-origin.dhl.com
 easylog-de1.fr.dhl.com
 cloudappazure.dhl.com
 zal4ca01.dhl.com
@@ -13231,12 +13086,12 @@ suppliers-dtsc.dhl.com
 si.gitdhl.dhl.com
 lnkdbfp03.prg-dc.dhl.com
 dgff-eip.dhl.com
-www.dhl.com.bs.test-https-origin.dhl.com
+dhl.com.bs.test-https-origin.dhl.com
 mykulws9547.prg-dc.dhl.com
 theviewdev.phx-dc.dhl.com
 mro.goce.dhl.com
 link-itxv9-ftp1-prd.dhl.com
-www.dhl.com.vg.test-https-origin.dhl.com
+dhl.com.vg.test-https-origin.dhl.com
 pctref.dhlec.dhl.com
 mytpmws1078.kul-dc.dhl.com
 gwebplus-emailis-prod.prg-dc.dhl.com
@@ -13300,7 +13155,6 @@ usucg-locus-test.dhl.com
 cff-app-fe-preprod-cloud.dhl.com
 mbagtw1-tip.dhl.com
 airlineportaladmin.dhl.com
-bbxpressamericas.dhl.com
 lhr004a.dhl.com
 testwebservices.dhl.com
 test-dmz.apps.czchooct999.dhl.com
@@ -13331,7 +13185,6 @@ usqaslspc000253.phx-dc.dhl.com
 magtw8-test.dhl.com
 mykulls2083.apis.dhl.com
 czchowspc000163.prg-dc.dhl.com
-www.ncw2.dhl.com
 m.dhl.be.origin.test.m.dhl.com
 apbbxportal-nonprod.apimanagement.dhl.com
 apim-test9026i.dhl.com
@@ -13353,7 +13206,7 @@ czchows5394.prg-dc.dhl.com
 auixopayuat.kul-dc.dhl.com
 acs.ru.dhl.com
 dscodidevr4.goce-cn.dhl.com
-www.dhl.com.om.test-https-origin.dhl.com
+dhl.com.om.test-https-origin.dhl.com
 apigbs.goce.dhl.com
 auixopay.kul-dc.dhl.com
 lhr025a.dhl.com
@@ -13364,7 +13217,6 @@ debrief-gref-loader-tat-cloud.dhl.com
 docs-sherloc-test.dhl.com
 ref.finder.dhl.com
 bical.dhl.com
-www.r2.mms.dhl.com
 hse-mobile.dhl.com
 czchowspc000119.prg-dc.dhl.com
 svt.sherloc-stg.dhl.com
@@ -13373,10 +13225,8 @@ plsapisv.dhl.com
 ggg-tat-test.prg-dc.dhl.com
 amp.datalake-cloud-dev.dhl.com
 prgdclywsi13.prg-dc.dhl.com
-www.logistics.dhl.com
-www.oddops-stag.dhl.com
 api-sherloc-test.dhl.com
-www.dhl.com.np.test-https-origin.dhl.com
+dhl.com.np.test-https-origin.dhl.com
 mynetsearchqa.dhl.com
 mykullspc000727.apis.dhl.com
 doc-service-rafintra.dhl.com
@@ -13386,7 +13236,6 @@ offrate.dhl.com
 getdmac-tip.dhl.com
 it.gitdhl.dhl.com
 disco-pilot.dhl.com
-www.express-logistics-platform.dhl.com
 edmam.dhl.com
 theview-na-cp.dhl.com
 genx30-jgenius-os-sds.dhl.com
@@ -13407,10 +13256,9 @@ lhr244a.dhl.com
 ac.dao-test.dhl.com
 czstlls107.prg-dc.dhl.com
 czchols5347.prg-dc.dhl.com
-www.supplychainireland.dhl.com
+supplychainireland.dhl.com
 lhr146a.dhl.com
 rabbit-anow-console.dhl.com
-www.cg.dhl.com
 m.dhl.com.au.test.m.dhl.com
 cnawsws000045.kul-dc.dhl.com
 czchowsint1108.prg-dc.dhl.com
@@ -13418,9 +13266,8 @@ manalytics2-p1-test.dhl.com
 czas0140.prg-dc.dhl.com
 ramcouat.au.dsc.dhl.com
 manage-dev.pocbizagi.dhl.com
-www.parcelshop-uat.dhl.com
 mytpmws1079.kul-dc.dhl.com
-www.dhl.com.mt.test-https-origin.dhl.com
+dhl.com.mt.test-https-origin.dhl.com
 test.eos.dhl.com
 dyn-prf-apideveloper.dhl.com
 mercury.dhl.com
@@ -13444,26 +13291,24 @@ theview-latam-cp.dhl.com
 lhr090a.dhl.com
 migrationpage.prg-dc.dhl.com
 phoenix2.cn.dhl.com
-www.dhl.com.bm.test-https-origin.dhl.com
+dhl.com.bm.test-https-origin.dhl.com
 va-apps-kul.dhl.com
 ukmconsignmentnumberservice-ecsuk.dhl.com
 itresilience.dhl.com
 mykulls1905.apis.dhl.com
 track-mydhli.dhl.com
 globalcontracting-test.dhl.com
-www.dscustportaltest.dhl.com
 dcgfw-prod-isdata.dhl.com
 dev.dscs-imw.dsc.dhl.com
 fr.gitdhl.dhl.com
 apigbs-qa.prg-dc.dhl.com
 tpt.dhl.com
 mydhlplusplatform-e2e-prg.dhl.com
-www.dhl.com.tr.test-https-origin.dhl.com
-www.t.tms.dhl.com
+dhl.com.tr.test-https-origin.dhl.com
 link-itxv9-ftp3-prd.dhl.com
 m.dhl.com.ph.origin.test.m.dhl.com
 lhr236a.dhl.com
-www.dhl.co.kr.test-https-origin.dhl.com
+dhl.co.kr.test-https-origin.dhl.com
 mbagtw8-test.dhl.com
 ac.dao-dev.dhl.com
 apps.mytpmocp001.dhl.com
@@ -13522,8 +13367,6 @@ gwloghost2.dhl.com
 czchows3631.prg-dc.dhl.com
 rvw.dhl.com
 expmenahcmpay.dhl.com
-*.zh-hans.lot.dhl.com
-*.mail.freight.dhl.com
 dcihub-int-prod-tr.dhl.com
 deutschepostdhl-int-prod-tr.dhl.com
 dgf-int-prod-tr.dhl.com
@@ -13537,6 +13380,5 @@ dmac-a-uat.dhl.com
 applinks-a-uat.dhl.com
 magtw-a-uat.dhl.com
 manalytics-a-uat.dhl.com
-*.lot.dhl.com
 byod-am02.dhl.com
 guest-am02.dhl.com

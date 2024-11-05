@@ -1,7 +1,6 @@
-*.olx.in
-*.cashmycar.olx.in
-*.prd.infra.olx.in
-*.stg.infra.olx.in
+cashmycar.olx.in
+prd.infra.olx.in
+stg.infra.olx.in
 10.72.180.60www.olx.in
 abohar.olx.in
 achalpur.olx.in
@@ -138,7 +137,6 @@ burhanpur.olx.in
 burhardhanpuri.olx.in
 business.olx.in
 cars.olx.in
-cashmycar.olx.in
 cdn.cashmycar.olx.in
 chakradharpur.olx.in
 chandannagarmc.olx.in
@@ -494,7 +492,6 @@ pondicherry.olx.in
 pondicherrycity.olx.in
 ponnur.olx.in
 portblair.olx.in
-prd.infra.olx.in
 prompthr.olx.in
 pudukkottai.olx.in
 pune.olx.in
@@ -591,7 +588,6 @@ staging-www.cashmycar.olx.in
 staging.cashmycar.olx.in
 stateofdelhi.olx.in
 statics.olx.in
-stg.infra.olx.in
 sujangarh.olx.in
 sultanpur-uttarpradesh.olx.in
 sunabeda.olx.in
@@ -694,18 +690,7 @@ warangal.olx.in
 wardha.olx.in
 westbengal.olx.in
 ww.olx.in
-www.olx.in
-www.alappuzha.olx.in
-www.blog.cashmycar.olx.in
-www.cashmycar.olx.in
-www.customer.olx.in
-www.guntur.olx.in
-www.hoshiarpur.olx.in
-www.in.cashmycar.olx.in
-www.olx.inwww.olx.in
-www.prompthr.olx.in
-www.qc-test.cashmycar.olx.in
-www.stage.cashmycar.olx.in
+olx.inwww.olx.in
 wwwf.olx.in
 wwww.olx.in
 yamunanagar.olx.in

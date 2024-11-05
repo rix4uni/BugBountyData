@@ -49,7 +49,7 @@ earables.teco.edu
 gitlab.teco.edu
 gitlab.staging.teco.edu
 redmine-server.teco.edu
-www.edge-ml-beta.dmz.teco.edu
+edge-ml-beta.dmz.teco.edu
 wearables.teco.edu
 smartaq02.teco.edu
 smartaqnet-worker3.vm.teco.edu
@@ -67,7 +67,6 @@ aura.teco.edu
 autoconfig.teco.edu
 browser.staging.teco.edu
 chronocommand.teco.edu
-www.teco.edu
 cloud.teco.edu
 chosen.teco.edu
 dns01.teco.edu
@@ -91,7 +90,7 @@ pseteam2.vm.teco.edu
 wearable.teco.edu
 website.dmz.teco.edu
 icinga.teco.edu
-www.dmz.teco.edu
+dmz.teco.edu
 mociot-ws2324.dmz.teco.edu
 jenkins.teco.edu
 wekan.teco.edu
@@ -101,7 +100,7 @@ dashboard.staging.teco.edu
 keycloak.staging.teco.edu
 mail.teco.edu
 pseteam2.dmz.teco.edu
-www.jobs.teco.edu
+jobs.teco.edu
 registry.staging.teco.edu
 remind.vm.teco.edu
 tecodc05.teco.edu
@@ -117,7 +116,6 @@ teco-gitlab.staging.teco.edu
 teco226pc.teco.edu
 teco64pc.teco.edu
 tecodc01.teco.edu
-edge-ml-beta.dmz.teco.edu
 gitlab-oauth.staging.teco.edu
 projects.teco.edu
 syspass.teco.edu

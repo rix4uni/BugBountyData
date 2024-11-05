@@ -1,12 +1,10 @@
 members-preprod2-integration-secure.transunion.com
 api1-stg.transunion.com
 techservices.transunion.com
-www.techservices.transunion.com
 pingcrt-uat.transunion.com
 yahoo-client-test.tui.transunion.com
 api1.transunion.com
 consumerdispute.transunion.com
-www.consumerdispute.transunion.com
 administrationdirect-uat.transunion.com
 direct-uat.transunion.com
 custcert.transunion.com
@@ -22,9 +20,6 @@ residentid.transunion.com
 tutest.transunion.com
 nacam-test.transunion.com
 residentvision.transunion.com
-www.residentvision.transunion.com
 legalrequest.transunion.com
 netaccess-test.transunion.com
 creditretriever.transunion.com
-www.residentid.transunion.com
-www.creditretriever.transunion.com

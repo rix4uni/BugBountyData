@@ -9,10 +9,10 @@ rep.rechtspraak.nl
 eu-eclidata.rechtspraak.nl
 vcsewcluster.rechtspraak.nl
 zittingsprikker.rechtspraak.nl
-www.toezichtwsnp.rechtspraak.nl
+toezichtwsnp.rechtspraak.nl
 sst-s2s.rechtspraak.nl
 scm.apis.rechtspraak.nl
-www.pki.rechtspraak.nl
+pki.rechtspraak.nl
 vcsew2.rechtspraak.nl
 toezichtlkb.rechtspraak.nl
 watismijnip.rechtspraak.nl
@@ -20,7 +20,7 @@ apis.acc.rechtspraak.nl
 vip-npi.rechtspraak.nl
 scm.apis.tst.rechtspraak.nl
 stats-admin.rechtspraak.nl
-www.sip02.rechtspraak.nl
+sip02.rechtspraak.nl
 mcu.rechtspraak.nl
 ecli.rechtspraak.nl
 developer.apis.np.rechtspraak.nl
@@ -34,7 +34,7 @@ zjpwe016.rechtspraak.nl
 rmw.rechtspraak.nl
 apptunnel2.rechtspraak.nl
 burenrechter.rechtspraak.nl
-www.amt.rechtspraak.nl
+amt.rechtspraak.nl
 stb.rechtspraak.nl
 vcsew.rechtspraak.nl
 certauth.signin.rechtspraak.nl
@@ -47,7 +47,6 @@ ideal.rechtspraak.nl
 ncc-acc.rechtspraak.nl
 webconf01.rechtspraak.nl
 dipi.rechtspraak.nl
-sip02.rechtspraak.nl
 zjpuc007.rechtspraak.nl
 sng.rechtspraak.nl
 rekeningcourant.rechtspraak.nl
@@ -83,7 +82,6 @@ ncc-adfs-token-decrypting.rechtspraak.nl
 md2.rechtspraak.nl
 federatie.rechtspraak.nl
 zjpwe015.rechtspraak.nl
-pki.rechtspraak.nl
 ccbrservice.rechtspraak.nl
 ncc-siam-acc.rechtspraak.nl
 dpc.rechtspraak.nl
@@ -91,7 +89,7 @@ scm.apis.dev.rechtspraak.nl
 mijnzaak.rechtspraak.nl
 design.rechtspraak.nl
 scm.apis.np.rechtspraak.nl
-www.sip01.rechtspraak.nl
+sip01.rechtspraak.nl
 aanmeldenpubliek.rechtspraak.nl
 splunkhfwd.rechtspraak.nl
 cms1.rechtspraak.nl
@@ -112,7 +110,6 @@ curateleenbewindregisterservice.rechtspraak.nl
 static.rechtspraak.nl
 encryption.sts.rechtspraak.nl
 apis.tst.rechtspraak.nl
-toezichtwsnp.rechtspraak.nl
 ncc-siam.rechtspraak.nl
 kcd.rechtspraak.nl
 cms2.rechtspraak.nl
@@ -140,11 +137,9 @@ sbc.rechtspraak.nl
 mijnzaak.acc.rechtspraak.nl
 euir.rechtspraak.nl
 activesync2.rechtspraak.nl
-sip01.rechtspraak.nl
 activesync.rechtspraak.nl
 reptoegang.rechtspraak.nl
 owa01.rechtspraak.nl
-amt.rechtspraak.nl
 mededeling.rechtspraak.nl
 ekantonzaak.rechtspraak.nl
 developer.apis.rechtspraak.nl
@@ -184,16 +179,8 @@ configuration.apis.acc.rechtspraak.nl
 front1.rechtspraak.nl
 sbc01.rechtspraak.nl
 zoeken.rechtspraak.nl
-www.rechtspraak.nl
 zjpwe007.rechtspraak.nl
 zjpwe017.rechtspraak.nl
-www.rep20.rechtspraak.nl
-www.activesync.rechtspraak.nl
-www.apptunnel.rechtspraak.nl
-www.e-facturen.rechtspraak.nl
-*.rechtspraak.nl
-www.rekeningcourant.rechtspraak.nl
-www.sts.rechtspraak.nl
 av01.rechtspraak.nl
 av02.rechtspraak.nl
 browserstack-vip3.wlc.rechtspraak.nl

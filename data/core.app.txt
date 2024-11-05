@@ -1,4 +1,3 @@
-*.core.app
 5biinc.mobile.apps.officer.core.app
 9nkoda.clientapp.core.app
 about.core.app
@@ -73,7 +72,6 @@ test.core.app
 toolboxtouch.app.core.app
 twofour.trading.core.app
 window.lang.applications.spreadsheet.core.app
-www.core.app
 xn--finalcom-c49li6dqy8hii6dfxf.ewmobile.pottery3d.core.app
 xn--wap-8p9dm34f.core.app
 xyz.greenhd.s.core.app
@@ -298,7 +296,7 @@ rev.core.app
 mailer.core.app
 proxy.core.app
 partners.core.app
-www.mail.core.app
+mail.core.app
 cbepgskeleton.core.app
 crs.core.app
 banners.core.app
@@ -308,7 +306,6 @@ dns4.core.app
 blinkt.openvpn.core.app
 log.core.app
 ded.core.app
-www.common.mob.lib.core.app
 webdisk.blog.core.app
 platform.vision.core.app
 uat.core.app
@@ -319,7 +316,6 @@ org.ecgine.client.core.app
 dir.core.app
 yway.game.core.app
 ed.core.app
-www.com.softplan.saj.applet.core.app
 autodiscover.test.core.app
 vault-platform.core.app
 platform.core.app
@@ -340,7 +336,7 @@ foxsports.core.app
 win.core.app
 send.production.prod.core.app
 dev1.core.app
-www.chat.core.app
+chat.core.app
 ops.core.app
 ir.core.app
 tmp.core.app
@@ -357,7 +353,6 @@ forum.core.app
 vcenter.core.app
 labs.core.app
 video.core.app
-www.com.photoai.core.app
 cacti.core.app
 pcs.core.app
 analytics.core.app
@@ -376,7 +371,6 @@ maps.core.app
 webdisk.demo.core.app
 radius1.core.app
 reserved.core.app
-www.br.com.softplan.saj.applet.core.app
 event.core.app
 speed.core.app
 order.core.app
@@ -395,11 +389,9 @@ stage.core.app
 cm.core.app
 siw.core.app
 digitaltv.core.app
-www.saj.applet.core.app
 w102.core.app
 blog.core.app
 autoconfig.m.core.app
-www.au.com.foxsports.core.app
 zimbra.core.app
 mssql.core.app
 ny.core.app
@@ -429,7 +421,6 @@ dns0.core.app
 gateway.core.app
 upload.core.app
 im.core.app
-www.m.core.app
 microsoft.core.app
 s.core.app
 direct.core.app
@@ -452,7 +443,6 @@ temp.core.app
 txr.core.app
 cloudfront.core.app
 fw.core.app
-www.com.sap.glx.core.app
 backup1.core.app
 customers.core.app
 outlook.core.app
@@ -465,14 +455,12 @@ amedd.core.app
 lloyds.discover.core.app
 post.core.app
 help.core.app
-www.com.is.core.app
 monitor.core.app
 mcp.core.app
 lighthouse.platform.vision.core.app
 oc.core.app
 apple.core.app
 org.core.app
-www.intranet.core.app
 gsp.core.app
 upl.core.app
 account.core.app
@@ -487,12 +475,10 @@ links.core.app
 sam.core.app
 adm.core.app
 photos.core.app
-mail.core.app
 ars.core.app
 sys.core.app
 bt.core.app
 clients.core.app
-www.twofour.trading.core.app
 eur.core.app
 ga.core.app
 demon.core.app
@@ -500,13 +486,11 @@ lan.core.app
 eng.core.app
 vpgk.core.app
 host1.core.app
-www.mobile.internet.core.app
 ks.core.app
 production.core.app
 mailing.core.app
 mem.core.app
 board.core.app
-www.crm.core.app
 login.platform.cyclops.core.app
 star.core.app
 officer.core.app
@@ -532,17 +516,15 @@ auth.production.eu-west-1.core.app
 2.core.app
 api.core.app
 mpls.core.app
-www.edditer.brige.core.app
 devsql.core.app
 business.core.app
 services.core.app
 admintool-test.production.core.app
 embratel.core.app
-www.ads.core.app
+ads.core.app
 mall.core.app
 skeleton.core.app
 download.core.app
-www.ore.front.core.app
 mobi.core.app
 music.core.app
 tour.core.app
@@ -552,7 +534,6 @@ lauener.core.app
 or.core.app
 arc.core.app
 server1.core.app
-chat.core.app
 ns11.core.app
 ccgg.core.app
 gis.core.app
@@ -571,7 +552,6 @@ matrix.core.app
 sntcca.core.app
 scache2.core.app
 smail.core.app
-ads.core.app
 ns0.core.app
 staging.core.app
 speedtest.core.app
@@ -585,7 +565,6 @@ billy-morgan.core.app
 bpb.core.app
 reverse.core.app
 student.core.app
-www.discover.core.app
 mobile.apps.officer.core.app
 lyncdiscover.core.app
 nagios.core.app
@@ -627,7 +606,6 @@ cdn.core.app
 tor.core.app
 ph.core.app
 assets.core.app
-www.video.core.app
 upc-i.core.app
 nh.core.app
 w1.core.app

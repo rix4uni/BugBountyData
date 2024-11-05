@@ -5,7 +5,6 @@ w.mykds.com
 gbtmobile-kibana.mykds.com
 prereleasev60.mykds.com
 w.neoqt.mykds.com
-www.mykds.com
 diag.mykds.com
 gbtmobile.mykds.com
 dld.mykds.com
@@ -163,16 +162,10 @@ grafana.neoqt.mykds.com
 neostatic.neoqt.mykds.com
 frafana.neoqt.mykds.com
 rabbitmq.neoqt.mykds.com
-*.mykds.com
 yp-ec2-chatgpt.salami.mykds.com
 ypsite.salami.mykds.com
 neoplaysr.salami.mykds.com
 osdashboard.salami.mykds.com
-*.olay.mykds.com
-*.smp.mykds.com
-*.prolay.mykds.com
-*.prsmp.mykds.com
-*.sandbox.mykds.com
 developer.mykds.com
 prerelease.mykds.com
 proxy.mykds.com

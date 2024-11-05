@@ -5,7 +5,7 @@ looplink.pcg.cbre.us
 looplink.reno.cbre.us
 looplink.charlotte.cbre.us
 looplink.elpaso.cbre.us
-www.auth.cbre.us
+auth.cbre.us
 fte-www.cbre.us
 looplink.madison.cbre.us
 looplink.sfpen.cbre.us
@@ -84,7 +84,6 @@ looplink.albany.cbre.us
 looplink.boulos.cbre.us
 looplink.fredericksburg.cbre.us
 looplink.nashville.cbre.us
-www.fte1-www.cbre.us
 looplink.ontario.cbre.us
 looplink.orlando.cbre.us
 looplink.teamjwmn.cbre.us
@@ -93,12 +92,8 @@ looplink.baltimore.cbre.us
 looplink.chicago.cbre.us
 looplink.lasvegas.cbre.us
 looplink.mega.cbre.us
-www.retailproperties.cbre.us
-www.retailtxok.cbre.us
-auth.cbre.us
 looplink.raleigh.cbre.us
 looplink.sfeastbay.cbre.us
-www.cbre.us
 looplink.cincinnati.cbre.us
 looplink.desmoines.cbre.us
 looplink.littlerock.cbre.us
@@ -115,7 +110,6 @@ looplink.melbourne.cbre.us
 looplink.sc.cbre.us
 looplink.fameco.cbre.us
 looplink.ladt.cbre.us
-www.uat-www.cbre.us
 philadelphiaretailwww.cbre.us
 looplink.columbus.cbre.us
 looplink.dayton.cbre.us

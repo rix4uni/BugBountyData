@@ -27,7 +27,7 @@ webmail.vermont.eu
 imap.vermont.eu
 server.vermont.eu
 mailin.vermont.eu
-www.home.vermont.eu
+home.vermont.eu
 cloud.vermont.eu
 mail6.vermont.eu
 ns2.vermont.eu
@@ -76,7 +76,6 @@ ssl.vermont.eu
 ipe.vermont.eu
 edi.vermont.eu
 ldap.vermont.eu
-www.vermont.eu
 wiki.vermont.eu
 mart.vermont.eu
 privat.vermont.eu
@@ -172,7 +171,6 @@ antispam.vermont.eu
 mail8.vermont.eu
 mail5.vermont.eu
 auth.vermont.eu
-home.vermont.eu
 archive.vermont.eu
 inf.vermont.eu
 mail3.vermont.eu

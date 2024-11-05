@@ -34,7 +34,7 @@ csp-report.cobytes.io
 houtenprod04.cobytes.io
 mailfilter03.cobytes.io
 shared01.cobytes.io
-www.vcsa01.vmware.infra.cobytes.io
+vcsa01.vmware.infra.cobytes.io
 gitlab.cobytes.io
 mtradingtest01.cobytes.io
 repo02.cobytes.io
@@ -48,7 +48,6 @@ webrtbprod04.cobytes.io
 code01.cobytes.io
 fw.hlm.cobytes.io
 veenendaalprod02.cobytes.io
-vcsa01.vmware.infra.cobytes.io
 admin.basisbeveiliginghouten.cobytes.io
 heerhugowaardprod01.cobytes.io
 jira01.infra.cobytes.io
@@ -86,7 +85,7 @@ hv02.ams.cobytes.io
 absprod01.cobytes.io
 beefensteak.cobytes.io
 customer.vpn.cobytes.io
-www.vcsa02.vmware.infra.cobytes.io
+vcsa02.vmware.infra.cobytes.io
 heemskerkprod01.cobytes.io
 ns1.cobytes.io
 vip-lb.lsbd.cobytes.io
@@ -136,7 +135,7 @@ campingplannerprod01.cobytes.io
 documizersprod01.cobytes.io
 livitwebprod01.cobytes.io
 medemblikacc01.cobytes.io
-www.dc01.infra.cobytes.io
+dc01.infra.cobytes.io
 cpprod01.cobytes.io
 endeprod01.cobytes.io
 nijmegenstreamprod01.cobytes.io
@@ -171,7 +170,6 @@ cnvportalsprod01.cobytes.io
 debiantest02.cobytes.io
 leadcenterprod04.cobytes.io.cobytes.io
 nieuwegeinprod01.cobytes.io
-www.cobytes.io
 basisbevprod01.cobytes.io
 dongeninwayprod01.cobytes.io
 mtradingprod05.cobytes.io
@@ -246,7 +244,6 @@ lincprod01.cobytes.io
 test01.cobytes.io
 veenendaalprod04.cobytes.io
 wijkprod01.cobytes.io
-www.vcsa01.infra.cobytes.io
 espritscholenprod02.cobytes.io
 fw02.hlm.cobytes.io
 nvfbprod01.cobytes.io
@@ -348,7 +345,6 @@ fw01.dtn.cobytes.io
 gitlab01.appcomm.cobytes.io
 myip.cobytes.io
 veenendaalacc01.cobytes.io
-www.ncentral01.cobytes.io
 ipv6proxy01.cobytes.io
 nissewaardprod01.cobytes.io
 soestprod02.cobytes.io
@@ -363,11 +359,9 @@ crmconnectors.office.cobytes.io
 dockertest01.cobytes.io
 mailproxy02.cobytes.io
 vip-lb.services.cobytes.io
-vcsa02.vmware.infra.cobytes.io
 katwijkprod02.cobytes.io
 twn.geocdn.cobytes.io
 vip-shared-cluster-out.cobytes.io
-dc01.infra.cobytes.io
 logstash.cobytes.io
 mex.geocdn.cobytes.io
 codartsprod02.cobytes.io
@@ -376,7 +370,7 @@ webrtbprod01.cobytes.io
 chl.geocdn.cobytes.io
 hadirector01.idotmedia.ehv.cobytes.io
 prod.digibord.kwintessens.cobytes.io
-www.build01.aicn.cobytes.io
+build01.aicn.cobytes.io
 absprod02.cobytes.io
 ind.geocdn.cobytes.io
 netdreamsprod05.cobytes.io
@@ -445,7 +439,6 @@ bldhmsprod.cobytes.io
 dongeninwaydemo01.cobytes.io
 kwintessensprod02.cobytes.io
 r1test.cobytes.io
-build01.aicn.cobytes.io
 cptest01.cobytes.io
 heerhugowaardprod02.cobytes.io
 zeistprod02.cobytes.io
@@ -455,14 +448,12 @@ netdreamsprod06.cobytes.io
 zheprod01.cobytes.io
 gbr.geocdn.cobytes.io
 houtenbisprod01.cobytes.io
-www.prod.tilburg.cobytes.io
 barneveldprod01.cobytes.io
 offenegemeindenprod01.cobytes.io
 icfprod01.cobytes.io
 185-77-147ed-by.cobytes.io
 criminalwarprod01.cobytes.io
 ogcommunityprod01.cobytes.io
-www.rds.broodfonds.cobytes.io
 acc.tilburg.cobytes.io
 brunoklassiek.cobytes.io
 cloud.cobytes.io
@@ -475,7 +466,6 @@ hostbill.cobytes.io
 prt.geocdn.cobytes.io
 swoprod01.cobytes.io
 visdealacc01.cobytes.io
-www.simplesaml.cobytes.io
 bldhmsprod02.cobytes.io
 dnspanel.cobytes.io
 filebackup01.cobytes.io
@@ -504,7 +494,6 @@ kcedeprod01.cobytes.io
 bamboo.cobytes.io
 leadcenterprod02.cobytes.io
 soestprod01.cobytes.io
-www.platform.cobytes.io
 wwwprod01.cobytes.io
 edeprod05.cobytes.io
 lb01.kwintessens.cobytes.io
@@ -529,7 +518,6 @@ sdintranetprod01.cobytes.io
 sgp.geocdn.cobytes.io
 soestprod04.cobytes.io
 twbcmmprod01.cobytes.io
-www.bitbucket01.aicn.cobytes.io
 barneveldacc01.cobytes.io
 houtenprod02.cobytes.io
 qliksenseprod01.aicn.cobytes.io

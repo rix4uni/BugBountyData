@@ -1383,7 +1383,6 @@ presto-staging-exp-load-presto-data-presto-us-central1-3.shopify-data-presto-glo
 bfcm-globe-trickle-cricket-st-wqd6jhrt-data-flink-us-central1-2.flink.shopifykloud.com
 presto-staging-hackdays-hpa-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
 presto-staging-pano-on-trino-presto-data-presto-us-central1-3.shopify-data-presto-global.shopifykloud.com
-www.shopifykloud.com
 streaming-sales-model-staging-ie2a342j-data-flink-us-central1-2.flink.shopifykloud.com
 shopify-audience-gen-test-fli-wxck2prs-data-flink-us-central1-1.flink.shopifykloud.com
 streaming-sales-model-product-vvmr335q-data-flink-us-central1-1.flink.shopifykloud.com

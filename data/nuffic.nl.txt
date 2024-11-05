@@ -20,7 +20,7 @@ student-portal.nuffic.nl
 delta.test.nuffic.nl
 idrac.acceptatie.nuffic.nl
 fora.nuffic.nl
-www.edit-testing-neso.nuffic.nl
+edit-testing-neso.nuffic.nl
 ncas.nuffic.nl
 selfserviceportal.nuffic.nl
 postregistratie.nuffic.nl
@@ -47,7 +47,6 @@ werkplek.nuffic.nl
 mint.nuffic.nl
 projects-a.nuffic.nl
 solweb-a.nuffic.nl
-www.nuffic.nl
 studentbase.nuffic.nl
 winreports.nuffic.nl
 sol.nuffic.nl
@@ -91,7 +90,7 @@ delta.nuffic.nl
 acc.nuffic.nl
 delta-acc.nuffic.nl
 eva-externalapi.acc.nuffic.nl
-www.webmail.nuffic.nl
+webmail.nuffic.nl
 sagitta.nuffic.nl
 deltabo-pre.nuffic.nl
 acc-quickscan.nuffic.nl
@@ -103,15 +102,13 @@ cec.nuffic.nl
 deltabo.nuffic.nl
 glossary.nuffic.nl
 shared.nuffic.nl
-webmail.nuffic.nl
 ispacweb.nuffic.nl
 test.nuffic.nl
 solweb-p.nuffic.nl
 hybrid.nuffic.nl
-edit-testing-neso.nuffic.nl
 ovapi.nuffic.nl
 bo.nuffic.nl
-www.testing-neso.nuffic.nl
+testing-neso.nuffic.nl
 topdesk.nuffic.nl
 idrac-acceptatie.nuffic.nl
 sagitta-a.nuffic.nl
@@ -126,7 +123,6 @@ portal.nuffic.nl
 acc-neso.nuffic.nl
 eva2-bo.nuffic.nl
 delta.acc.nuffic.nl
-testing-neso.nuffic.nl
 mars.nuffic.nl
 deltabo-acc.nuffic.nl
 nps.nuffic.nl

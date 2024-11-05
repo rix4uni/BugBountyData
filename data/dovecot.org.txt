@@ -23,14 +23,12 @@ test.dovecot.org
 wiki.dovecot.org
 wiki1.dovecot.org
 wiki2.dovecot.org
-www.dovecot.org
 www-host.dovecot.org
 www-proxy.dovecot.org
 wwwdev.dovecot.org
 old.dovecot.org
 dovecot-news.dovecot.org
 dovecot.dovecot.org
-www.master.wiki2.dovecot.org
 lists.dovecot.org
 ftp.dovecot.org
 invalid.dovecot.org

@@ -37,7 +37,6 @@ night-owl.casper.tools
 artifactory.casper.tools
 ipt.casper.tools
 data.casper.tools
-*.casper.tools
 access-chefold.casper.tools
 admin.casper.tools
 bedpostwp.casper.tools
@@ -87,7 +86,6 @@ zoomnym39mmr.1pass-scim.casper.tools
 hostmaster.medialand.casper.tools
 hostmaster.medialand.eeserv.casper.tools
 sf-stg.casper.tools
-www.casper.tools
 sf2-stg-web.casper.tools
 casper-db-replica.casper.tools
 sf2-prd-web.casper.tools

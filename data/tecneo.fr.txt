@@ -15,9 +15,7 @@ wifi-portal.tecneo.fr
 traefik-unifi.tecneo.fr
 cloud.tecneo.fr
 colibri.tecneo.fr
-*.sso.tecneo.fr
 sso.tecneo.fr
-*.teleport.tecneo.fr
 teleport.tecneo.fr
 netbird.tecneo.fr
 optima.tecneo.fr
@@ -37,7 +35,6 @@ freshrss.tecneo.fr
 pki.tecneo.fr
 paperless.tecneo.fr
 zerotier.tecneo.fr
-www.tecneo.fr
 analytics.tecneo.fr
 monitoring.tecneo.fr
 uptime.tecneo.fr
@@ -48,7 +45,6 @@ pentest.tecneo.fr
 cloud-abd.tecneo.fr
 stormlight.tecneo.fr
 doli.tecneo.fr
-www.doli.tecneo.fr
 facto.tecneo.fr
 traefik.sso.tecneo.fr
 checkmk.tecneo.fr
@@ -79,7 +75,6 @@ fresh.tecneo.fr
 stats.tecneo.fr
 annuaire-jsa.tecneo.fr
 mainwp.tecneo.fr
-www.mainwp.tecneo.fr
 annuaire-bds.tecneo.fr
 repertoire.tecneo.fr
 ldap.tecneo.fr
@@ -91,7 +86,6 @@ facturation.tecneo.fr
 monparc.tecneo.fr
 pve-bds.tecneo.fr
 shoplist.tecneo.fr
-www.shoplist.tecneo.fr
 network.tecneo.fr
 wifi.tecneo.fr
 wazo.tecneo.fr

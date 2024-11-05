@@ -9,7 +9,6 @@ native.jane.com
 pages.jane.com
 sell.jane.com
 seller.jane.com
-www.jane.com
 alertmanager.astro.jane.com
 alertmanager.astronomer.jane.com
 alertmanager.infra-astro.jane.com
@@ -53,5 +52,3 @@ sellersupport.jane.com
 studio.jane.com
 support.jane.com
 tmp.aws.jane.com
-www.sellersupport.jane.com
-www.support.jane.com

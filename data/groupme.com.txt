@@ -26,7 +26,6 @@ stg.groupme.com
 testflight.groupme.com
 conversations.groupme.com
 export.groupme.com
-www.groupme.com
 file.groupme.com
 db1b-ext.rs.groupme.com
 fw2-ext.rs.groupme.com
@@ -82,8 +81,5 @@ nagios.groupme.com
 m.groupme.com
 situationroom.groupme.com
 preview.groupme.com
-www.app.groupme.com
 westus2.groupme.com
 eastus2.groupme.com
-*.groupme.com
-*.aws.groupme.com

@@ -12,13 +12,13 @@ blog-ue1.pardot.com
 embedded-preview.pardot.com
 ops.pardot.com
 internal-embedded.pardot.com
-www.dev.pardot.com
+dev.pardot.com
 img.pardot.com
 provisioning-ue1.pardot.com
 slack-bridge-ue1.demo.pardot.com
 office.pardot.com
 pi-lba.demo.pardot.com
-www.cdn.pardot.com
+cdn.pardot.com
 bluemesh.pardot.com
 pi-ue1.pardot.com
 new.pardot.com
@@ -35,7 +35,7 @@ compliance.dev.pardot.com
 et._spf.pardot.com
 pi-ue1-lba7.pardot.com
 pi0-lba1-2-ue1.aws.pardot.com
-www.go.pardot.com
+go.pardot.com
 pi-lba1-1-ue1.demo.pardot.com
 cdn-ssl-ue1.pardot.com
 www-cdn2.pardot.com
@@ -56,7 +56,7 @@ slack-bridge-canary-ue1.demo.pardot.com
 vault.dev.pardot.com
 internal-ue1-lb4.pardot.com
 patching.aws.pardot.com
-www.perf.pardot.com
+perf.pardot.com
 email-s2.pardot.com
 pi0-proxyout1-3-ue1.aws.pardot.com
 secretsdev.ops.pardot.com
@@ -107,7 +107,6 @@ app-ue1.pardot.com
 js-ue1.pardot.com
 example-ue1.pardot.com
 slack-bridge-canary.perf.pardot.com
-dev.pardot.com
 slack-bridge-ue1.pardot.com
 slack-bridge.demo.pardot.com
 trust.dev.pardot.com
@@ -126,7 +125,7 @@ assets.pardot.com
 canary-provisioning.demo.pardot.com
 pi-phx-lb2.pardot.com
 pi-ue1-lb2.pardot.com
-www.demo.pardot.com
+demo.pardot.com
 xhprof-ue1.perf.pardot.com
 storm.demo.pardot.com
 app-debug.dev.pardot.com
@@ -200,9 +199,7 @@ www2.pardot.com
 xhprof.pardot.com
 download-ue1.pardot.com
 embedded-preview.dev.pardot.com
-go.pardot.com
 hipchat.dev.pardot.com
-perf.pardot.com
 pi0-proxyout1-4-ue1.aws.pardot.com
 aspmx.pardot.com
 checkmarx.dev.pardot.com
@@ -219,7 +216,6 @@ pi-phx-lb1.pardot.com
 storage-next.pardot.com
 calendar.pardot.com
 launch.pardot.com
-www.pardot.com
 callerid.pardot.com
 docs.pardot.com
 leaddeck.pardot.com
@@ -228,7 +224,6 @@ slack-bridge-canary-ue1.pardot.com
 go.perf.pardot.com
 support.pardot.com
 success-ue1.pardot.com
-www.assets.pardot.com
 internal-ue1-lb5.pardot.com
 pi-phx.t.pardot.com
 canary-preview-ue1.pardot.com
@@ -236,13 +231,11 @@ slack-bridge.perf.pardot.com
 debug.demo.pardot.com
 canary-ue1.pardot.com
 cid.pardot.com
-demo.pardot.com
 pi-phx-lb3.pardot.com
 app.dev.pardot.com
 artifactory-alb.dev.pardot.com
 gitbot-github.dev.pardot.com
 slack-bridge.pardot.com
-www.pi-ue1.pardot.com
 canoehipchat.dev.pardot.com
 docker.dev.pardot.com
 slack-bridge.dev.pardot.com
@@ -280,7 +273,6 @@ xhprof-ue1.pardot.com
 mail.pardot.com
 success.pardot.com
 app.perf.pardot.com
-www.pi.t.pardot.com
 e2ecredentials.dev.pardot.com
 email-d1.pardot.com
 embedded-preview-ue1.pardot.com
@@ -306,7 +298,6 @@ pi-dfw-lb3.pardot.com
 appdev.pardot.com
 training-ue1.pardot.com
 www-cdn.pardot.com
-www.pi.pardot.com
 gitbot-kubernetes.aws.pardot.com
 internal-ue1-lb3.pardot.com
 sites.pardot.com
@@ -330,7 +321,6 @@ pi0-proxyout1-4-uw2.aws.pardot.com
 slack-bridge-canary.pardot.com
 ideas-ue1.pardot.com
 ww.pardot.com
-cdn.pardot.com
 internal-ue1-lb6.pardot.com
 crepe.dev.pardot.com
 provisioning.pardot.com

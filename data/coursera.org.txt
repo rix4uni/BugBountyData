@@ -1,7 +1,6 @@
 in.coursera.org
 logui.corp.coursera.org
 wwww.coursera.org
-www.coursera.org
 y7046dzs.m.learn.coursera.org
 pages.coursera.org
 building.coursera.org
@@ -33,7 +32,7 @@ legal.coursera.org
 dev7.labs-dev.coursera.org
 click.mail.coursera.org
 kr.coursera.org
-www.vcenter.corp.coursera.org
+vcenter.corp.coursera.org
 mta17.email.coursera.org
 conference2017.coursera.org
 email.coursera.org
@@ -53,7 +52,7 @@ jira.coursera.org
 status.coursera.org
 fr.coursera.org
 apply.coursera.org
-www.clearpass.corp.coursera.org
+clearpass.corp.coursera.org
 vy8stkzx.m.learn.coursera.org
 labs-dev.coursera.org
 enterprise.coursera.org
@@ -77,7 +76,6 @@ conference2018.coursera.org
 mta5.email.coursera.org
 labs.coursera.org
 mta1a4.mail.coursera.org
-clearpass.corp.coursera.org
 inbound.mail.coursera.org
 mta1b2.mail.coursera.org
 ko.coursera.org
@@ -110,7 +108,6 @@ op1-scim-bridge.corp.coursera.org
 class.coursera.org
 corp.coursera.org
 servicedesk-dev.corp.coursera.org
-vcenter.corp.coursera.org
 conference2016.coursera.org
 conference2019.coursera.org
 ja.coursera.org
@@ -230,23 +227,8 @@ opskbbarracudarmark.autodandomainshopdata-origin-stripe.labs-dev.coursera.org
 f-live-eu-beccasara.autodandomainshopdata-origin-stripe.labs-dev.coursera.org
 5.febnewsnetrange-50.autodandomainshopdata-origin-stripe.labs-dev.coursera.org
 cp.live-eu-beccasara.autodandomainshopdata-origin-stripe.labs-dev.coursera.org
-*.labs-dr.coursera.org
+labs-dr.coursera.org
 zentral.corp.coursera.org
-*.coursera.org
-*.dev1.labs-dev.coursera.org
-*.dev2.labs-dev.coursera.org
-*.dev3.labs-dev.coursera.org
-*.dev4.labs-dev.coursera.org
-*.dev5.labs-dev.coursera.org
-*.dev6.labs-dev.coursera.org
-*.dev7.labs-dev.coursera.org
-*.dev8.labs-dev.coursera.org
-*.dev9.labs-dev.coursera.org
-*.labs-dev.coursera.org
-*.labs.coursera.org
-*.gp.coursera.org
-*.corp.coursera.org
-www.mv-vpn.coursera.org
 0-0-8-6.labs-dev.coursera.org
 0-03-4.labs.coursera.org
 0-07.labs-dev.coursera.org
@@ -8056,7 +8038,6 @@ bwms.labs-dev.coursera.org
 bwsix.labs-dev.coursera.org
 bwsix.labs.coursera.org
 bwss205d.labs.coursera.org
-bww.labs.coursera.org
 bx--euportal-a-vipt.labs.coursera.org
 bx--euportal-vip.labs.coursera.org
 bx--euuatportal-a-vip.labs.coursera.org
@@ -25273,7 +25254,6 @@ hwcsweb.labs-dev.coursera.org
 hwhwax.labs-dev.coursera.org
 hwid-drru.labs.coursera.org
 hws-test2.labs.coursera.org
-hww.labs-dev.coursera.org
 hwx.labs-dev.coursera.org
 hx0j.labs-dev.coursera.org
 hxat.labs-dev.coursera.org
@@ -31514,7 +31494,6 @@ lweb7.labs.coursera.org
 lwnfg.labs-dev.coursera.org
 lwow.labs-dev.coursera.org
 lws.labs-dev.coursera.org
-lww.labs-dev.coursera.org
 lx9vbc576mdeypf.labs.coursera.org
 lxelastic6.labs-dev.coursera.org
 lxelasticdev2.labs.coursera.org
@@ -39908,7 +39887,6 @@ pwswlf.labs.coursera.org
 pwt-grafana-palladium.labs-dev.coursera.org
 pwuille.labs-dev.coursera.org
 pww-a3.labs.coursera.org
-pww.labs-dev.coursera.org
 pwzr2.labs-dev.coursera.org
 px-prd03.labs.coursera.org
 px-prd03a.labs.coursera.org
@@ -53480,7 +53458,6 @@ vvvw.labs.coursera.org
 vwdlashufe.labs-dev.coursera.org
 vwecam.labs-dev.coursera.org
 vwhgfe-5.labs.coursera.org
-vww.labs.coursera.org
 vwyy.labs-dev.coursera.org
 vx13.labs-dev.coursera.org
 vx14.labs-dev.coursera.org
@@ -54980,8 +54957,6 @@ www-tur.labs-dev.coursera.org
 www-tur.labs.coursera.org
 www-video-hp-commercial.labs.coursera.org
 www-wdc.labs-dev.coursera.org
-www.labs-dev.coursera.org
-www.labs.coursera.org
 www0-3.labs.coursera.org
 www0-8-6.labs.coursera.org
 www0-8.labs-dev.coursera.org
@@ -57368,7 +57343,6 @@ zz3.labs.coursera.org
 6spzj8.labs.coursera.org
 6tmzh0lxxx.labs-dev.coursera.org
 6viyij.labs-dev.coursera.org
-6ww.labs.coursera.org
 6yxw39w.labs.coursera.org
 6zfayeoaab.labs-dev.coursera.org
 007dazhanhuangjiaduchangzaixian.labs.coursera.org
@@ -60618,4 +60592,3 @@ learn.coursera.org
 toxcclmsunnw.labs.coursera.org
 rvwhqfgrwzxd.labs.coursera.org
 production-common-skillspace.gp.coursera.org
-labs-dr.coursera.org

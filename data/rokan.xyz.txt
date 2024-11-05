@@ -7,9 +7,8 @@ pop3.rokan.xyz
 smtp.rokan.xyz
 mta-sts.rokan.xyz
 imap.hermes.rokan.xyz
-www.hermes.rokan.xyz
-autoconfig.hermes.rokan.xyz
 hermes.rokan.xyz
+autoconfig.hermes.rokan.xyz
 smtp.hermes.rokan.xyz
 pop3.hermes.rokan.xyz
 mx.hermes.rokan.xyz
@@ -27,7 +26,6 @@ office.rokan.xyz
 budget.rokan.xyz
 r0x.rokan.xyz
 matrix.rokan.xyz
-www.rokan.xyz
 hledger.rokan.xyz
 friendica.rokan.xyz
 autodiscover.rokan.xyz

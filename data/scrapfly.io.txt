@@ -3,7 +3,6 @@ c.scrapfly.io
 api.staging.scrapfly.io
 dkron.staging.scrapfly.io
 demo.dkron.scrapfly.io
-www.scrapfly.io
 cdn.scrapfly.io
 tools.scrapfly.io
 stock.scrapfly.io
@@ -12,7 +11,6 @@ staging.www.scrapfly.io
 proxy-saver.scrapfly.io
 blog.scrapfly.io
 api.scrapfly.io
-www.staging.scrapfly.io
 stock.staging.scrapfly.io
 rabbitmq.staging.scrapfly.io
 demo.scrapfly.io

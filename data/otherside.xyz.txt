@@ -1,5 +1,4 @@
-*.otherside.xyz
-*.sandbox.otherside.xyz
+sandbox.otherside.xyz
 2ndtrip.otherside.xyz
 2ntrip.otherside.xyz
 _dmarc.mx.otherside.xyz
@@ -37,7 +36,6 @@ mx.mx.mx.mx.mx.mx.mx.mx.mx.otherside.xyz
 mx.mx.mx.mx.mx.mx.mx.mx.mx.mx.otherside.xyz
 mx.mx.mx.mx.mx.mx.mx.mx.mx.mx.mx.otherside.xyz
 mx.mx.mx.mx.mx.mx.tx.mx.otherside.xyz
-sandbox.otherside.xyz
 scalet-domain-0-05c941.ue-stg.otherside.xyz
 scalet-domain-0-06c880.ue-stg.otherside.xyz
 scalet-domain-0-0a7c0b.ue-stg.otherside.xyz
@@ -86,7 +84,6 @@ scalet-domain-0-f63669.ue-stg.otherside.xyz
 scalet-domain-0-f74734.ue-stg.otherside.xyz
 scalet-domain-0-f8853e.ue-stg.otherside.xyz
 scalet-domain-0-fe10cc.ue-stg.otherside.xyz
-www.otherside.xyz
 yugaau-domain-0-3e33fc.ue-stg.otherside.xyz
 yugaau-domain-0-480713.ue-stg.otherside.xyz
 yugaau-domain-0-a4dbda.ue-stg.otherside.xyz

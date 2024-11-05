@@ -51,8 +51,6 @@ staging-analytics.dialafrika.com
 survey-staging.dialafrika.com
 voip-api.dialafrika.com
 voip-dev.dialafrika.com
-www.devcrm.dialafrika.com
-www.dialafrika.com
 zaundax.dialafrika.com
 adbot.dialafrika.com
 ajab.dialafrika.com
@@ -118,9 +116,4 @@ webmail.bpo.dialafrika.com
 webmail.crmajab.dialafrika.com
 webmail.dialafrika.com
 workpay.dialafrika.com
-www.ajabcrm.dialafrika.com
-www.bonga.dialafrika.com
-www.bpo.dialafrika.com
-www.crmajab.dialafrika.com
-www.nia.dialafrika.com
-www.testbpo.dialafrika.com
+testbpo.dialafrika.com

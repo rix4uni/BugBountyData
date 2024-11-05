@@ -2,7 +2,6 @@ portal.helseplattformen.no
 portal.gslb.helseplattformen.no
 idpt-iam.helseplattformen.no
 support.helseplattformen.no
-www.helseplattformen.no
 mfa-iam.helseplattformen.no
 mfa-iam-uat.helseplattformen.no
 lyncdiscover.helseplattformen.no
@@ -27,11 +26,9 @@ app-test.helseplattformen.no
 securefile.helseplattformen.no
 mobil-test.helseplattformen.no
 sip.helseplattformen.no
-www.bca-nonprod.helseplattformen.no
+bca-nonprod.helseplattformen.no
 hsw-upgrade.helseplattformen.no
-www.hsw-upgrade.helseplattformen.no
 wbs-upgrade.helseplattformen.no
-www.wbs-upgrade.helseplattformen.no
 slicerdicer-tst.helseplattformen.no
 slicerdicer-poc.helseplattformen.no
 hsw-prd.helseplattformen.no
@@ -45,11 +42,6 @@ pasient-tst.helseplattformen.no
 icbg-nonprod.helseplattformen.no
 icfg-nonprod.helseplattformen.no
 bcaweb.helseplattformen.no
-www.bcaweb.helseplattformen.no
-bca-nonprod.helseplattformen.no
-www.mobil.helseplattformen.no
-www.bca.helseplattformen.no
 bca.helseplattformen.no
 kuiper.helseplattformen.no
-www.kuiper.helseplattformen.no
 mobil-poc.helseplattformen.no

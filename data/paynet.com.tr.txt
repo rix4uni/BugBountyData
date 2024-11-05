@@ -8,7 +8,6 @@ autodiscover.paynet.com.tr
 pts.paynet.com.tr
 pts-pj.paynet.com.tr
 blog.paynet.com.tr
-www.paynet.com.tr
 test3.bom.paynet.com.tr
 test4-statics.paynet.com.tr
 test4-kurumsal.paynet.com.tr
@@ -39,13 +38,12 @@ odeme.paynet.com.tr
 pcs-statics.paynet.com.tr
 test.bkmpunchout.paynet.com.tr
 test4-pj.paynet.com.tr
-www.odeme.paynet.com.tr
 pts-arenabank.paynet.com.tr
 api.paynet.com.tr
 mail.e.paynet.com.tr
 pts-statics.paynet.com.tr
 test4.paynet.com.tr
-www.marketing.paynet.com.tr
+marketing.paynet.com.tr
 vpn.paynet.com.tr
 pts-pynt.paynet.com.tr
 api-open.paynet.com.tr
@@ -54,7 +52,6 @@ service-open.paynet.com.tr
 test4-arenabank.paynet.com.tr
 git.paynet.com.tr
 test.paynet.com.tr
-marketing.paynet.com.tr
 pj.paynet.com.tr
 mailtm.paynet.com.tr
 pts-api.paynet.com.tr

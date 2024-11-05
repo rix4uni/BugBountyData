@@ -1,4 +1,3 @@
-www.flair.sqa.org.uk
 flair.sqa.org.uk
 img.appeals.sqa.org.uk
 www4.sqa.org.uk
@@ -33,14 +32,13 @@ preprodglas.qasubmission.sqa.org.uk
 preprodglas.cass.sqa.org.uk
 pages2.sqa.org.uk
 pages.sqa.org.uk
-www.sqa.org.uk
 acm21-qa.sqa.org.uk
 preprodglas.estimates.sqa.org.uk
 sandbox.sqa.org.uk
 businessworldpreprod.sqa.org.uk
 elicsa.sqa.org.uk
-www.electris.sqa.org.uk
-www.accreditation.sqa.org.uk
+electris.sqa.org.uk
+accreditation.sqa.org.uk
 fs.sqa.org.uk
 portals.sqa.org.uk
 appointees.sqa.org.uk
@@ -71,7 +69,6 @@ preprod.navigator.sqa.org.uk
 preprod.common.sqa.org.uk
 preprod.rsa.sqa.org.uk
 businessworld.sqa.org.uk
-www.businessworld.sqa.org.uk
 cn.sqa.org.uk
 blogs.sqa.org.uk
 int.sqa.org.uk
@@ -95,12 +92,10 @@ test2.auth.sqa.org.uk
 test2.connect.sqa.org.uk
 test2.appointees.sqa.org.uk
 test2.rs.sqa.org.uk
-www.mailer.sqa.org.uk
+mailer.sqa.org.uk
 preprod.appointees.sqa.org.uk
 preprod.candidates.sqa.org.uk
 preprod.connect.sqa.org.uk
-mailer.sqa.org.uk
-electris.sqa.org.uk
 monitoringsys.sqa.org.uk
 training.common.sqa.org.uk
 training.auth.sqa.org.uk
@@ -117,4 +112,3 @@ training.rs.sqa.org.uk
 training.navigator.sqa.org.uk
 cd4pe.sqa.org.uk
 secure.sqa.org.uk
-accreditation.sqa.org.uk

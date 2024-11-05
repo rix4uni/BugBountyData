@@ -7,7 +7,7 @@ broker.xively.com
 infra.xively.com
 timeseries.demo.xively.com
 ximqtt01-02.xively.com
-www.app.xively.com
+app.xively.com
 data.xively.com
 lutron.broker.xively.com
 jadviga.app.xively.com
@@ -17,7 +17,6 @@ xiapi01-01.xively.com
 ximon01-01.xively.com
 v3www.xively.com
 ximqtt02-02.xively.com
-app.xively.com
 dataflow.xively.com
 stage.xively.com
 xiapi02-01.xively.com
@@ -29,7 +28,6 @@ ximqtt01-01.xively.com
 xiwww01-02.xively.com
 xiwww02-01.xively.com
 v3mqtt.xively.com
-www.xively.com
 app.demo.xively.com
 logging.xively.com
 demo.xively.com

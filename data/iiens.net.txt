@@ -9,7 +9,6 @@ mirroir.wiki.iiens.net
 explore.api.iiens.net
 errors.iiens.net
 maps.iiens.net
-*.iiens.net
 dev.place.iiens.net
 smoke.iiens.net
 winnie.iiens.net
@@ -34,7 +33,6 @@ trac.iiens.net
 pass.iiens.net
 estudines.iiens.net
 phpmyadmin.iiens.net
-www.iiens.net
 www-dev.iiens.net
 playbot.iiens.net
 dansiie.iiens.net
@@ -112,7 +110,7 @@ tele.iiens.net
 truecommand.app.iiens.net
 drive.app.iiens.net
 connect.app.iiens.net
-www.app.iiens.net
+app.iiens.net
 cors-everywhere.app.iiens.net
 place.iiens.net
 internal2.status.iiens.net
@@ -159,7 +157,6 @@ findelin.iiens.net
 leone.iiens.net
 tom.iiens.net
 lameire.iiens.net
-app.iiens.net
 chat.app.iiens.net
 icinga.iiens.net
 img.iiens.net

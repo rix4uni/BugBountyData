@@ -1,12 +1,11 @@
-*.seek.com.au
-*.ai-research.cloud.seek.com.au
-*.aips.seek.com.au
-*.cloud.seek.com.au
-*.discover.staging.cloud.seek.com.au
-*.pp.aips.seek.com.au
-*.staging.seek.com.au
-*.staging.cloud.seek.com.au
-*.test.cloud.seek.com.au
+ai-research.cloud.seek.com.au
+aips.seek.com.au
+cloud.seek.com.au
+discover.staging.cloud.seek.com.au
+pp.aips.seek.com.au
+staging.seek.com.au
+staging.cloud.seek.com.au
+test.cloud.seek.com.au
 10.cloud.seek.com.au
 101-229-47-212.rev.cloud.seek.com.au
 11.cloud.seek.com.au
@@ -30,8 +29,6 @@ adv-caja-x-api.staging.cloud.seek.com.au
 adv-invoice-api.cloud.seek.com.au
 advertiser.seek.com.au
 advertiser-metrics-forwarder.cloud.seek.com.au
-ai-research.cloud.seek.com.au
-aips.seek.com.au
 aips-personalisation-staging.cloud.seek.com.au
 aips-personalisation.cloud.seek.com.au
 analytics.seek.com.au
@@ -100,7 +97,6 @@ chalice-search-api.cloud.seek.com.au
 chalice-search-experience-api.cloud.seek.com.au
 click.email.seek.com.au
 clients.staging.cloud.seek.com.au
-cloud.seek.com.au
 cloud.email.seek.com.au
 cm-recommendation-api.cloud.seek.com.au
 collab-edge.seek.com.au
@@ -129,7 +125,6 @@ dev.pay.seek.com.au
 devanalytics.seek.com.au
 devportal.seek.com.au
 discover-metrics.cloud.seek.com.au
-discover.staging.cloud.seek.com.au
 draccess.seek.com.au
 drauth.seek.com.au
 drremoteaccess.seek.com.au
@@ -279,7 +274,6 @@ paycheck.ninemsn.seek.com.au
 pop.staging.cloud.seek.com.au
 portal.seek.com.au
 pp.ai.cloud.seek.com.au
-pp.aips.seek.com.au
 prerelease.staging.cloud.seek.com.au
 presto-bm.dds.aips.seek.com.au
 productblog.seek.com.au
@@ -331,8 +325,6 @@ smtp4-bulk.seek.com.au
 spf.seek.com.au
 spool.staging.cloud.seek.com.au
 staff.seek.com.au
-staging.seek.com.au
-staging.cloud.seek.com.au
 staginganalytics.seek.com.au
 statestreet.cloud.seek.com.au
 stats.staging.cloud.seek.com.au
@@ -364,7 +356,6 @@ team8.gantryclassroom.staging.cloud.seek.com.au
 team9.gantryclassroom.staging.cloud.seek.com.au
 test.seek.com.au
 test.api.seek.com.au
-test.cloud.seek.com.au
 test.talentsearch.seek.com.au
 testcrunch-runner-js-api.cloud.seek.com.au
 testsubdomain.staging.cloud.seek.com.au
@@ -385,16 +376,6 @@ webservices.seek.com.au
 whysettle.seek.com.au
 wiki.cloud.seek.com.au
 ww.seek.com.au
-www.seek.com.au
-www.arias.seek.com.au
-www.help.seek.com.au
-www.insight.seek.com.au
-www.pay.talent.seek.com.au
-www.pp.ai.cloud.seek.com.au
-www.sandbox.seek.com.au
-www.staging.seek.com.au
-www.surveys.seek.com.au
-www.whysettle.seek.com.au
 x.ex.seek.com.au
 x.notifications.seek.com.au
 x0ns.seek.com.au
@@ -458,7 +439,6 @@ appleidcom-firewall.document.home.index2git.staging.cloud.seek.com.au
 certmanalytic-service-cdn-dev.apollo.staging.cloud.seek.com.au
 chalice-experience-api.cloud.seek.com.au
 media.april.northamerica-ir.staging.cloud.seek.com.au
-www.team3.gantryclassroom.staging.cloud.seek.com.au
 secure.cdn-login.media.northamerica-ir.staging.cloud.seek.com.au
 wellsfargotransfer-secure.staging.cloud.seek.com.au
 appleidcom-fileirewall.home.index2.staging.cloud.seek.com.au
@@ -487,10 +467,10 @@ secure.cdn-login-version.media.northamerica-ir.staging.cloud.seek.com.au
 boken.ibetterviewage-service-cdn.cloud.seek.com.au
 adm-certmanalytic-service-cdn-dev.apollo.staging.cloud.seek.com.au
 image-service-cdnebs.staging.cloud.seek.com.au
-www.full-movie-online.dev1stream.staging.cloud.seek.com.au
+full-movie-online.dev1stream.staging.cloud.seek.com.au
 appleidcom.home.iemaildex2.cloud.seek.com.au
 move-staging.cdn-secure.media.oscar.staging.cloud.seek.com.au
-www.mario.northamerica-profiles-cdn.cloud.seek.com.au
+mario.northamerica-profiles-cdn.cloud.seek.com.au
 jobapplications.seek.com.au
 dev.seek.com.au
 nudge-uatwindscreencoverudges-dev.cloud.seek.com.au
@@ -535,7 +515,7 @@ hhsvaccines.cloud.seek.com.au
 cosmicvirus-nudges-dev.cloud.seek.com.au
 com.library.pub.cloud.seek.com.au
 dev1stream.staging.cloud.seek.com.au
-www.secure.cloud.seek.com.au
+secure.cloud.seek.com.au
 skl-events-capture-api.cloud.seek.com.au
 en.cloud.seek.com.au
 dev1strealogout.staging.cloud.seek.com.au
@@ -580,7 +560,6 @@ cdn.cloud.seek.com.au
 media.oscar.staging.cloud.seek.com.au
 northamerica-profiles-cdn.cloud.seek.com.au
 fls.cloud.seek.com.au
-secure.cloud.seek.com.au
 staging.cdn-secure.media.vpn-ospaywallr.staging.cloud.seek.com.au
 staging-administrator.cloud.seek.com.au
 system.cdn.cloud.seek.com.au
@@ -590,7 +569,6 @@ virusparis.cloud.seek.com.au
 hoimapse.index2git.staging.cloud.seek.com.au
 skyline.portal.staging.cloud.seek.com.au
 restricted-mobile.nike.staging.cloud.seek.com.au
-mario.northamerica-profiles-cdn.cloud.seek.com.au
 datauat-web5179-migrate.staging.cloud.seek.com.au
 hirer-ecapi.cloud.seek.com.au
 kg.cloud.seek.com.au
@@ -611,7 +589,6 @@ datauat-web5179-migrate.repo.staging.cloud.seek.com.au
 staging.cdn-secure.web.media.oscar.staging.cloud.seek.com.au
 cdn-login-version.media.northamerica-ir.staging.cloud.seek.com.au
 virusflags.cloud.seek.com.au
-full-movie-online.dev1stream.staging.cloud.seek.com.au
 blog.cloud.seek.com.au
 antivirus.cloud.seek.com.au
 home.index217.staging.cloud.seek.com.au
@@ -687,7 +664,6 @@ cdnskins.media.oscar.staging.cloud.seek.com.au
 datauat-web5179.staging.install.cloud.seek.com.au
 dot.staging.cloud.seek.com.au
 antivirus.gov.mil.cloud.seek.com.au
-www.full-movie-online.dev1stream-control.staging.cloud.seek.com.au
 secure.staging.cdnskins.media.oscar.staging.cloud.seek.com.au
 tomcat-stam.datauat-web5179.staging.install.cloud.seek.com.au
 skl-payment-api.staging.cloud.seek.com.au
@@ -749,13 +725,12 @@ u002fskl-lmis-api.int-cloud.seek.com.au
 http-www.cloud.seek.com.au
 wpt-contact-api.staging.cloud.seek.com.au
 staging.pp.aips.seek.com.au
-www.hmrc-secure-server-refund-application-processing-y.united-kingdom.crown.service.gov.uk.cloud.seek.com.au
+hmrc-secure-server-refund-application-processing-y.united-kingdom.crown.service.gov.uk.cloud.seek.com.au
 u002fnudge-api.cloud.seek.com.au
 u002fchalice-experience-api.cloud.seek.com.au
 ns.ex.seek.com.au
 u002fskl-lmis-api.cloud.seek.com.au
 email.fin.seek.com.au
-www.beer.cloud.seek.com.au
 relnofollowhttpsadvertiser.seek.com.au
 payments.staging.cloud.seek.com.au
 u002fjobsearch-api-ts.cloud.seek.com.au

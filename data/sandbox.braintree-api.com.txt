@@ -1,4 +1,3 @@
-*.sandbox.braintree-api.com
 aegis-proxy-sand-ap-southeast-2.sandbox.braintree-api.com
 aegis-proxy-sand-eu-central-1.sandbox.braintree-api.com
 aegis-proxy-sand-us-east-1.sandbox.braintree-api.com
@@ -503,7 +502,6 @@ threedsecure-sand-ap-southeast-2.sandbox.braintree-api.com
 origin-journalist-sand.sandbox.braintree-api.com
 kube-controller-sand-us-east-1.sandbox.braintree-api.com
 threedsecure-sand-us-east-2.sandbox.braintree-api.com
-www.sandbox.braintree-api.com
 analytics-sand-ap-southeast-2.sandbox.braintree-api.com
 pamhook-sand-eu-central-1.sandbox.braintree-api.com
 cloudflare.sandbox.braintree-api.com

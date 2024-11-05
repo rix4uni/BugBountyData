@@ -8,7 +8,7 @@ opal.kpmgservices.co.nz
 opalauth-prd.kpmgservices.co.nz
 remediation.nbsuat.kpmgservices.co.nz
 reports.kpmgservices.co.nz
-www.remediation.kpmgservices.co.nz
+remediation.kpmgservices.co.nz
 admin.bupa.holidaysact.kpmgservices.co.nz
 admin.holidayremediation.kpmg.co.nz.kpmgservices.co.nz
 admin.holidaysact.bupauat.kpmgservices.co.nz
@@ -22,4 +22,3 @@ holidaysact.skyuat.kpmgservices.co.nz
 lb-site2.kpmgservices.co.nz
 nginx.kpmgservices.co.nz
 remediation.bupauat.kpmgservices.co.nz
-remediation.kpmgservices.co.nz

@@ -1,7 +1,6 @@
-*.nominet.uk
-*.epp.nominet.uk
-*.registrars.nominet.uk
-*.webchat.nominet.uk
+epp.nominet.uk
+registrars.nominet.uk
+webchat.nominet.uk
 abogado.epp.nominet.uk
 access.nominet.uk
 ams2nommdfelp01.nominet.uk
@@ -178,7 +177,6 @@ domainhealth-api.nominet.uk
 domainmanager.nominet.uk
 dragon.nominet.uk
 droplists.nominet.uk
-epp.nominet.uk
 expressway-dc1.nominet.uk
 expressway-dc1-02.nominet.uk
 expressway-dc2.nominet.uk
@@ -226,7 +224,6 @@ pdnssupport.nominet.uk
 psn.nominet.uk
 qa-testing.nominet.uk
 rdap.nominet.uk
-registrars.nominet.uk
 resources.nominet.uk
 rodeo.epp.nominet.uk
 sams1.nominet.uk
@@ -326,17 +323,9 @@ testbed-yoga.whois.nominet.uk
 vip.epp.nominet.uk
 virtualregistrar.nominet.uk
 vodka.epp.nominet.uk
-webchat.nominet.uk
 wedding.epp.nominet.uk
 whois.nominet.uk
 work.epp.nominet.uk
-www.nominet.uk
-www.api.nominet.uk
-www.dnssupport.nominet.uk
-www.jobs.nominet.uk
-www.pdns.nominet.uk
-www.pdnssupport.nominet.uk
-www.psn.nominet.uk
 xfinity.epp.nominet.uk
 yoga.epp.nominet.uk
 zdns-api.nominet.uk

@@ -1,13 +1,10 @@
-*.lazada.com.ph
-*.adsense.lazada.com.ph
-*.alimebot.lazada.com.ph
-*.education.lazada.com.ph
-*.sellercenter.lazada.com.ph
-*.sellercenter-staging.lazada.com.ph
-acs-m.lazada.com.ph
 adsense.lazada.com.ph
-ali.lazada.com.ph
 alimebot.lazada.com.ph
+education.lazada.com.ph
+sellercenter.lazada.com.ph
+sellercenter-staging.lazada.com.ph
+acs-m.lazada.com.ph
+ali.lazada.com.ph
 api.lazada.com.ph
 api.sellercenter.lazada.com.ph
 asc-hub.lazada.com.ph
@@ -20,7 +17,6 @@ cart.lazada.com.ph
 checkout.lazada.com.ph
 checkout-m.lazada.com.ph
 community.lazada.com.ph
-education.lazada.com.ph
 email.lazada.com.ph
 er.lazada.com.ph
 er-p.lazada.com.ph
@@ -49,9 +45,7 @@ pdpdesc-m.lazada.com.ph
 pre-wormhole.lazada.com.ph
 s.lazada.com.ph
 seller-transparency-api.lazada.com.ph
-sellercenter.lazada.com.ph
 sellercenter-api.lazada.com.ph
-sellercenter-staging.lazada.com.ph
 sellercenter-staging-api.lazada.com.ph
 sellercenter-static.lazada.com.ph
 sofp.lazada.com.ph
@@ -68,7 +62,6 @@ topup.lazada.com.ph
 tracker.lazada.com.ph
 u.lazada.com.ph
 wallet.lazada.com.ph
-www.lazada.com.ph
 xform.lazada.com.ph
 a.lazada.com.ph
 ifs.lazada.com.ph

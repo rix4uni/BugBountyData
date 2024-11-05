@@ -190,9 +190,7 @@ custom.branch.io
 api-safetrack.branch.io
 dashboard.dev2.branch.io
 api.internal.k8s.prod.branch.io
-www.dashboard.branch.io
 prometheus-spotify.prod.branch.io
-www.branch.io
 dk8m0c7hty.branch.io
 app.cdn.branch.io
 kibanainfra-prod.branch.io
@@ -207,4 +205,3 @@ api3.branch.io
 web1-1-1a.aws.branch.io
 eks-stage-dove-usw1.branch.io
 api.k8s.prod.branch.io
-www.vip.branch.io

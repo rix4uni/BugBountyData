@@ -55,8 +55,6 @@ stream.ap-northeast-1.skydio.com
 stream.skydio.com
 support.skydio.com
 telemetry-api-us-west.skydio.com
-www.skydio.com
-www.staging.skydio.com
 admin-staging.skydio.com
 api-db-test.skydio.com
 api-internal.skydio.com
@@ -154,4 +152,3 @@ stream.staging.skydio.com
 telemetry-api-k8s-staging.skydio.com
 telemetry-api-us-west-staging.skydio.com
 teleport.skydio.com
-www.academy.skydio.com

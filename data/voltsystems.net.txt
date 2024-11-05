@@ -13,7 +13,7 @@ walmart-staging-api-scus.voltsystems.net.voltsystems.net
 walmart-staging-import-log-api.voltsystems.net
 walmart-staging-inventory-data-feed-api.voltsystems.net
 providers-api-walmart.voltsystems.net
-www.staging-identity-server.voltsystems.net
+staging-identity-server.voltsystems.net
 dev-identity-server-pri.voltsystems.net
 volt-wmt-api.voltsystems.net
 walmart-staging-api-gateway.voltsystems.net
@@ -21,9 +21,7 @@ wmt-volt-api-prod-wus.voltsystems.net
 devretail.voltsystems.net
 dev-identity-server-sec.voltsystems.net
 prod-lms-api.voltsystems.net
-www.voltsystems.net
 walmart-qa-dashboard-api.voltsystems.net
-staging-identity-server.voltsystems.net
 walmart-qa-dashboard.voltsystems.net
 apidocs.voltsystems.net
 app-api-walmart.voltsystems.net
@@ -59,7 +57,6 @@ staging-dashboard-api-walmart.voltsystems.net
 testing-cert.voltsystems.net
 walmart-prod-servicechannel-api.voltsystems.net
 walmart-prod-servicechannel-api-temp.voltsystems.net
-www.prod-identity-server.voltsystems.net
 wmt-volt-api-prod-scus.voltsystems.net
 staging-identity-server-signing.voltsystems.net
 api-walmart-qa.voltsystems.net

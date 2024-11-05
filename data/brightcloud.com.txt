@@ -9,7 +9,6 @@ beta.brightcloud.com
 bcti.brightcloud.com
 sdnsagent-qa.brightcloud.com
 sdnspolicy-qa.brightcloud.com
-www.brightcloud.com
 typhoon.brightcloud.com
 ccreceiver-qa.brightcloud.com
 sdnsagent.brightcloud.com
@@ -68,9 +67,9 @@ ns2.brightcloud.com
 infra-api.newrelic.combcap15.brightcloud.com
 lions.netconnected.mcbcap15.brightcloud.com
 271753.genapicloud.combcap15.brightcloud.com
-www.foxnot.combcap15.brightcloud.com
+foxnot.combcap15.brightcloud.com
 apps.facebook.combcap15.brightcloud.com
-www.payment.digitalbcap15.brightcloud.com
+payment.digitalbcap15.brightcloud.com
 clients1.google.combcap15.brightcloud.com
 builds.cdn.getgo.combcap15.brightcloud.com
 intranot.paris.notaires.frbcap15.brightcloud.com
@@ -82,7 +81,7 @@ people.skype.combcap15.brightcloud.com
 aax-eu.amazon-adsystem.combcap15.brightcloud.com
 planot.malard-notaires.frbcap15.brightcloud.com
 api.lefebvre-sarrut.eubcap15.brightcloud.com
-www.cridon-paris.frbcap15.brightcloud.com
+cridon-paris.frbcap15.brightcloud.com
 ocsp.trustwave.combcap15.brightcloud.com
 p46-ckdatabase.icloud.combcap15.brightcloud.com
 271283.genapicloud.combcap15.brightcloud.com
@@ -90,14 +89,14 @@ keystone.mwbsys.combcap15.brightcloud.com
 visitor.fiftyt.combcap15.brightcloud.com
 agenda.allegoria.frbcap15.brightcloud.com
 flow.backupgrid.netbcap15.brightcloud.com
-www.billetweb.frbcap15.brightcloud.com
+billetweb.frbcap15.brightcloud.com
 upgrade.bitdefender.combcap15.brightcloud.com
 tunnel.rg-supervision.combcap15.brightcloud.com
 clientservices.googleapis.combcap15.brightcloud.com
 exchange.nenap.combcap15.brightcloud.com
 s.symcb.combcap15.brightcloud.com
 271598.genapicloud.combcap15.brightcloud.com
-www.facebook.combcap15.brightcloud.com
+facebook.combcap15.brightcloud.com
 criteo-sync.teads.tvbcap15.brightcloud.com
 arc.msn.combcap15.brightcloud.com
 271761.genapicloud.combcap15.brightcloud.com

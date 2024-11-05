@@ -1,5 +1,4 @@
 pages.herocentral.de
-*.pages.herocentral.de
 dns.herocentral.de
 tracker.herocentral.de
 inventar.herocentral.de
@@ -35,7 +34,6 @@ signatures.herocentral.de
 piboard.herocentral.de
 list.calamity.herocentral.de
 darthmail.herocentral.de
-www.herocentral.de
 calamity.herocentral.de
 salesaudit.herocentral.de
 kafka-ui.herocentral.de

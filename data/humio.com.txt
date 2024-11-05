@@ -55,7 +55,7 @@ demo-es-2.humio.com
 cloud-es.us.humio.com
 update.humio.com
 webfront06.humio.com
-www.upcoming.humio.com
+upcoming.humio.com
 ops-es-internal.au.humio.com
 webfront04.humio.com
 newcloud103.humio.com
@@ -129,7 +129,6 @@ cloud02.humio.com
 docs.tecnotre.humio.com
 host.humio.com
 ops-internal.eu1.humio.com
-upcoming.humio.com
 big03.humio.com
 25252fwww.humio.com
 demo-2.humio.com
@@ -179,7 +178,6 @@ quickstart-es.humio.com
 metrics.au.humio.com
 newcloud07.humio.com
 ops.humio.com
-www.humio.com
 dcos-universe.humio.com
 testcloud04.humio.com
 pm-bounces.humio.com

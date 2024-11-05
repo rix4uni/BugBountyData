@@ -1,12 +1,11 @@
 us-west.sip.flowroute.com
 webhook.flowroute.com
-www.newstaging.flowroute.com
+newstaging.flowroute.com
 kazzlo-staging.flowroute.com
 go.flowroute.com
 demo.webrtc.flowroute.com
 media.flowroute.com
 partner.flowroute.com
-www.flowroute.com
 mossio-blog.flowroute.com
 tickets.flowroute.com
 campaign.flowroute.com
@@ -23,7 +22,6 @@ sip.flowroute.com
 api.flowroute.com
 careers.flowroute.com
 info.flowroute.com
-newstaging.flowroute.com
 web.flowroute.com
 try.flowroute.com
 datadog.flowroute.com

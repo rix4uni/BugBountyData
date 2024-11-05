@@ -1,13 +1,10 @@
 directories.demo.famedly.de
-*.directories.demo.famedly.de
 organisation-directory.demo.famedly.de
 user-directory.demo.famedly.de
 restic-fsn1.famedly.de
-*.restic-fsn1.famedly.de
 admin.dev.famedly.de
 app.dev.famedly.de
 auth.dev.famedly.de
-www.famedly.de
 leitstelle-3.116117.staging.famedly.de
 ns1.famedly.de
 leitstelle-1.116117.staging.famedly.de
@@ -234,9 +231,7 @@ riot.arztpraxis.famedly.de
 matrix.arztpraxis.famedly.de
 krankenhaus.famedly.de
 store.famedly.de
-*.adfs-client-dev.famedly.de
 zi-testing.116117.staging.famedly.de
-*.zi-testing.116117.staging.famedly.de
 tim-beta.dev.famedly.de
 demo-tim2.staging.famedly.de
 tim-zeta.dev.famedly.de

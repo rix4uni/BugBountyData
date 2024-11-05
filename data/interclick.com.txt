@@ -9,7 +9,7 @@ feedads.g.interclick.com
 my.interclick.com
 bizdev.sharepoint.interclick.com
 tech.interclick.com
-www.call.interclick.com
+call.interclick.com
 idcs.interclick.com
 vcampaigns.interclick.com
 api.interclick.com
@@ -47,7 +47,6 @@ imap.interclick.com
 w2.interclick.com
 campaigns-origin.interclick.com
 osm.interclick.com
-call.interclick.com
 ad.interclick.com
 dialin.interclick.com
 mail-backup.interclick.com
@@ -61,7 +60,6 @@ v2.www.interclick.com
 west.a1.interclick.com
 wdc-mgmt.vpn.interclick.com
 ats.interclick.com
-www.interclick.com
 yosm.interclick.com
 secure.interclick.com
 wdc.vpn.interclick.com
@@ -103,11 +101,9 @@ dime.interclick.com
 genome.interclick.com
 corp.vpn.interclick.com
 wdc-mail-edge.interclick.com
-www.sip.interclick.com
 autodiscover.interclick.com
 localhost.interclick.com
 admin.interclick.com
 content.interclick.com
 ops.sharepoint.interclick.com
 sj-mail.interclick.com
-*.interclick.com

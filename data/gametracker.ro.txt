@@ -1,5 +1,5 @@
 site.gametracker.ro
-www.blog.gametracker.ro
+blog.gametracker.ro
 tra.gametracker.ro
 admin.gametracker.ro
 nuxt.gametracker.ro
@@ -10,13 +10,10 @@ dev.3.gametracker.ro
 discord.gametracker.ro
 test.gametracker.ro
 docker.gametracker.ro
-www.docker.gametracker.ro
-www.gametracker.ro
 autoconfig.gametracker.ro
 app.gametracker.ro
 static.gametracker.ro
 load.tr.gametracker.ro
 cipi.gametracker.ro
 gt.gametracker.ro
-blog.gametracker.ro
 dev.gametracker.ro

@@ -26,7 +26,6 @@ waa-rec.arkea.com
 waa.arkea.com
 api-azb.arkea.com
 evenements.arkea.com
-www.recrutement.arkea.com
 recrutement.arkea.com
 mmxout22.arkea.com
 cogito.arkea.com
@@ -73,7 +72,6 @@ mx5.arkea.com
 vpnssl-b.arkea.com
 api.psa.arkea.com
 mixingtux-in-1-r.l.infra.arkea.com
-www.arkea.com
 transfert.arkea.com
 devportal-rci.arkea.com
 ssocipher.arkea.com
@@ -129,7 +127,7 @@ mxout7.arkea.com
 ingbe-rec.arkea.com
 beta4.arkea.com
 ns-web-clichy-4.arkea.com
-www.easybourse.arkea.com
+easybourse.arkea.com
 ns-waf-jb-5.arkea.com
 ns1.prd-os.arkea.com
 ns2.prd-os.arkea.com
@@ -164,13 +162,11 @@ www-psabanque-fr.arkea.com
 mx3.arkea.com
 www-livretzesto-fr.arkea.com
 rec.bad.arkea.com
-*.val.bad.arkea.com
-*.rec.bad.arkea.com
-*.isoprod.bad.arkea.com
-*.int.bad.arkea.com
-*.hml.bad.arkea.com
-*.nreg.bad.arkea.com
-*.tech.bad.arkea.com
+val.bad.arkea.com
+int.bad.arkea.com
+hml.bad.arkea.com
+nreg.bad.arkea.com
+tech.bad.arkea.com
 cmb.apis.val.arkea.com
 financo.apis.val.arkea.com
 fortuneo.apis.val.arkea.com

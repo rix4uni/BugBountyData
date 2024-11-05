@@ -7,7 +7,7 @@ dashboard.dev2.mero.co
 analytics.mero.co
 auth.mero.co
 outbound.mero.co
-www.assets.staging.mero.co
+assets.staging.mero.co
 building-template.dev.mero.co
 app.staging.mero.co
 support.mero.co
@@ -28,9 +28,7 @@ tableau.mero.co
 sso.dev.mero.co
 pairing.mero.co
 mixpanel.mero.co
-assets.staging.mero.co
 api.mero.co
-www.mero.co
 dashboard.qa.mero.co
 cleaner.dev2.mero.co
 dashboard.mero.co
@@ -64,4 +62,3 @@ cleaner.dev.mero.co
 pairing.dev.mero.co
 tenant.mero.co
 testing.mero.co
-*.preview.mero.co

@@ -1,4 +1,3 @@
-*.zomatobook.com
 api.zomatobook.com
 api-dev.zomatobook.com
 api-test.zomatobook.com
@@ -14,7 +13,6 @@ services-test.zomatobook.com
 services2.zomatobook.com
 support.zomatobook.com
 widget.zomatobook.com
-www.zomatobook.com
 api-dev2.zomatobook.com
 p2.zomatobook.com
 log.zomatobook.com

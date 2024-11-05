@@ -11,6 +11,5 @@ apps.middleware.vt.edu
 webapps.middleware.vt.edu
 login.middleware.vt.edu
 cas-dev.middleware.vt.edu
-www.middleware.vt.edu
 shib-pprd.middleware.vt.edu
 cas-pprd.middleware.vt.edu

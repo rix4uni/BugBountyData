@@ -1,4 +1,3 @@
-*.braintreegateway.com
 10vendas.braintreegateway.com
 api.braintreegateway.com
 api.sandbox.braintreegateway.com
@@ -64,16 +63,6 @@ venmosdk.braintreegateway.com
 venmosdk.qa2.braintreegateway.com
 venmosdk.sandbox.braintreegateway.com
 web.faperta.braintreegateway.com
-www.braintreegateway.com
-www.api.sandbox.braintreegateway.com
-www.assets.braintreegateway.com
-www.js.braintreegateway.com
-www.metrics.sandbox.braintreegateway.com
-www.qa.braintreegateway.com
-www.qa2.braintreegateway.com
-www.sandbox.braintreegateway.com
-www.venmosdk.braintreegateway.com
-www.venmosdk.sandbox.braintreegateway.com
 _dmarc.braintreegateway.com
 https-sandbox.braintreegateway.com
 custom-endpoint.braintreegateway.com

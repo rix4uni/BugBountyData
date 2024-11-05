@@ -1,4 +1,3 @@
-*.rezserver.com
 admin.rezserver.com
 americanforcestravel.rezserver.com
 api.rezserver.com
@@ -19,7 +18,6 @@ secure.rezserver.com
 staging.rezserver.com
 tlstest.rezserver.com
 whitelabel.rezserver.com
-www.rezserver.com
 admin-staging.rezserver.com
 api-sandbox.rezserver.com
 api-staging.rezserver.com

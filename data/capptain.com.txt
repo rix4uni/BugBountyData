@@ -1,5 +1,5 @@
 fr.capptain.com
-www.app.capptain.com
+app.capptain.com
 eu02.capptain.com
 ru.capptain.com
 ns2.capptain.com
@@ -29,12 +29,10 @@ device02.eu01.capptain.com
 xmpp.device06.eu01.capptain.com
 bosh.device44.prod.capptain.com
 zabbix.prod.capptain.com
-www.capptain.com
 bosh.device40.prod.capptain.com
 operation.prod.capptain.com
 bosh.device60.prod.capptain.com
 api.prod.capptain.com
-app.capptain.com
 support.capptain.com
 bosh.device07.eu01.capptain.com
 bosh.device45.prod.capptain.com

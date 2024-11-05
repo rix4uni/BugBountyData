@@ -1,4 +1,3 @@
-*.google.se
 clients6.google.se
 khm0.google.se
 store.google.se
@@ -24,7 +23,7 @@ workspace.google.se
 adsense.google.se
 cse.google.se
 video.google.se
-www.translate.google.se
+translate.google.se
 photos.google.se
 khms1.google.se
 picasaweb.google.se
@@ -43,11 +42,10 @@ adservice.google.se
 bks9.books.google.se
 clients1.google.se
 scholar.google.se
-translate.google.se
 directory.google.se
 adssettings.google.se
 ghs.google.se
-www.blogsearch.google.se
+blogsearch.google.se
 enterprise.google.se
 payments.google.se
 consent.google.se
@@ -65,11 +63,8 @@ lh4.google.se
 archive.google.se
 bks0.books.google.se
 bks4.books.google.se
-blogsearch.google.se
-www.maps.google.se
 books.google.se
 local.google.se
-www.google.se
 images.google.se
 europe.google.se
 apps.google.se

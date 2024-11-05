@@ -23,7 +23,6 @@ roadmap.hackthebox.com
 okt.hackthebox.com
 resources.hackthebox.com
 status.hackthebox.com
-www.hackthebox.com
 atlas.hackthebox.com
 labs.hackthebox.com
 parrot-storage.hackthebox.com
@@ -39,8 +38,6 @@ regex-safety-validator.hackthebox.com
 academy-cdn.hackthebox.com
 events.hackthebox.com
 referral.hackthebox.com
-*.hackthebox.com
-*.dev.hackthebox.com
 airflow.data-dev.hackthebox.com
 meltano.data-dev.hackthebox.com
 noahbot.hackthebox.com

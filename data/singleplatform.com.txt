@@ -38,9 +38,7 @@ s.accounts.singleplatform.com
 support.singleplatform.com
 bugzilla.singleplatform.com
 paywall.integration.singleplatform.com
-www.bugzilla.singleplatform.com
 accounts.stage.singleplatform.com
-www.singleplatform.com
 paywall.qa2.singleplatform.com
 new2.singleplatform.com
 cdef.dev1.singleplatform.com
@@ -136,41 +134,6 @@ as.singleplatform.com
 a.singleplatform.com
 s.singleplatform.com
 spdj-singlepage.api-sandbox.singleplatform.com
-*.singleplatform.com
-*.prod.singleplatform.com
-*.mgmt.singleplatform.com
-*.api-sandbox.singleplatform.com
-*.docs.singleplatform.com
-*.login.integration.singleplatform.com
-*.login.qa2.singleplatform.com
-*.login.qa1.singleplatform.com
-*.qa2.singleplatform.com
-*.integration.singleplatform.com
-*.qa1.singleplatform.com
-*.dev1.singleplatform.com
-*.login.dev1.singleplatform.com
-*.common.singleplatform.com
-*.cfn.singleplatform.com
-*.new.singleplatform.com
-*.new2.singleplatform.com
-*.new3.singleplatform.com
-*.cognito.singleplatform.com
-*.cdef.dev1.singleplatform.com
-*.cdef.qa1.singleplatform.com
-*.cdef.qa2.singleplatform.com
-*.cdef.integration.singleplatform.com
-*.accounts.stage.singleplatform.com
-*.stage.singleplatform.com
-*.accounts.dev1.singleplatform.com
-*.accounts.qa2.singleplatform.com
-*.accounts.qa1.singleplatform.com
-*.login.stage.singleplatform.com
-*.cdef.stage.singleplatform.com
-*.accounts.integration.singleplatform.com
-*.cdef.singleplatform.com
-*.test.singleplatform.com
-*.freemium.singleplatform.com
-*.demo.singleplatform.com
 a.api-sandbox.singleplatform.com
 a.integration.singleplatform.com
 a.qa1.singleplatform.com
@@ -253,8 +216,7 @@ spdj-singlepage.qa2.singleplatform.com
 stage.docs.singleplatform.com
 usersconfig-old-my-external-domain.api-sandbox.singleplatform.com
 wiki-ljusdal.api-sandbox.singleplatform.com
-www.accounts.singleplatform.com
-www.afghankabobhouse.singleplatform.com
+accounts.singleplatform.com
 www300.singleplatform.com
 1.singleplatform.com
 2fwww.singleplatform.com
@@ -478,10 +440,9 @@ trattoriabelvedere.mobile.singleplatform.com
 bennystacos.mobile.singleplatform.com
 bravarotisseriegrill.singleplatform.com
 bravobroadway.singleplatform.com
-www.mcswiggansnyc.mobile.singleplatform.com
+mcswiggansnyc.mobile.singleplatform.com
 cansbarcanteen.mobile.singleplatform.com
 theridgeeatdrink.mobile.singleplatform.com
-www.irc.singleplatform.com
 pandachineserestaurant.singleplatform.com
 vienivai.mobile.singleplatform.com
 cinemarestaurant.singleplatform.com
@@ -591,7 +552,7 @@ nypizzeriagalleria.singleplatform.com
 georgesgreekcafe.mobile.singleplatform.com
 mumbaichopstix.mobile.singleplatform.com
 fengshuirestaurant.singleplatform.com
-www.mysalonmecca.singleplatform.com
+mysalonmecca.singleplatform.com
 itsapizza.singleplatform.com
 esperanto.mobile.singleplatform.com
 henryshat.mobile.singleplatform.com
@@ -677,8 +638,6 @@ omai.singleplatform.com
 araon.mobile.singleplatform.com
 indiagardenrestaurant.mobile.singleplatform.com
 merchantsny7thave.mobile.singleplatform.com
-www.o1.email.singleplatform.com
-mcswiggansnyc.mobile.singleplatform.com
 rarebarlex.mobile.singleplatform.com
 bravobroadway.mobile.singleplatform.com
 nappertandy.mobile.singleplatform.com
@@ -725,7 +684,6 @@ dimsum.singleplatform.com
 metropoliscafe.singleplatform.com
 whym.mobile.singleplatform.com
 johnnyv.mobile.singleplatform.com
-www.accounts.integration.singleplatform.com
 my.singleplatform.com
 soma.mobile.singleplatform.com
 theflyingpuck.mobile.singleplatform.com
@@ -992,7 +950,7 @@ swagger.008.singleplatform.com
 19e2a.singleplatform.com
 120-129.singleplatform.com
 15153.singleplatform.com
-www.12th.singleplatform.com
+12th.singleplatform.com
 148-199.singleplatform.com
 0ae.singleplatform.com
 150-18.singleplatform.com
@@ -1193,7 +1151,7 @@ smhttp.18869.singleplatform.com
 166-88.singleplatform.com
 0031.singleplatform.com
 177573.singleplatform.com
-www.1000bapak.singleplatform.com
+1000bapak.singleplatform.com
 106-228.singleplatform.com
 18huangshiwangshangyule.singleplatform.com
 170-220.singleplatform.com
@@ -1437,7 +1395,7 @@ repo.03.singleplatform.com
 111.singleplatform.com
 144-148.singleplatform.com
 102-17.singleplatform.com
-www.11941-96surrey.singleplatform.com
+11941-96surrey.singleplatform.com
 138-218.singleplatform.com
 193-188.singleplatform.com
 179-129.singleplatform.com
@@ -1601,7 +1559,7 @@ clients.1503450002.singleplatform.com
 15352.singleplatform.com
 115-59.singleplatform.com
 162-89.singleplatform.com
-www.143dotapps.singleplatform.com
+143dotapps.singleplatform.com
 155-72.singleplatform.com
 16659.singleplatform.com
 10911964235970530741.singleplatform.com
@@ -1663,7 +1621,7 @@ www.143dotapps.singleplatform.com
 109-253.singleplatform.com
 00021.singleplatform.com
 1f3b4.singleplatform.com
-www.0st.singleplatform.com
+0st.singleplatform.com
 1republik2ndave.singleplatform.com
 160-253.singleplatform.com
 137595.singleplatform.com
@@ -1848,7 +1806,7 @@ nl.081.singleplatform.com
 1bb51.singleplatform.com
 145-57.singleplatform.com
 11756.singleplatform.com
-www.abbeylanguagetravel.1.singleplatform.com
+abbeylanguagetravel.1.singleplatform.com
 18-github.singleplatform.com
 162-100.singleplatform.com
 167-144.singleplatform.com
@@ -1992,7 +1950,7 @@ onestopinternet.122.singleplatform.com
 128-116.singleplatform.com
 164-240.singleplatform.com
 000927.singleplatform.com
-www.1a-fetisch.singleplatform.com
+1a-fetisch.singleplatform.com
 19-23.singleplatform.com
 165e6.singleplatform.com
 19f5c.singleplatform.com
@@ -2135,7 +2093,7 @@ www.1a-fetisch.singleplatform.com
 10e43.singleplatform.com
 115559.singleplatform.com
 15417499147k2123.singleplatform.com
-www.100aar.singleplatform.com
+100aar.singleplatform.com
 13-153.singleplatform.com
 134y9kt0198g951.singleplatform.com
 13-207.singleplatform.com
@@ -2272,7 +2230,7 @@ www.100aar.singleplatform.com
 17854.singleplatform.com
 147-89.singleplatform.com
 1minutecafe.singleplatform.com
-www.066.singleplatform.com
+066.singleplatform.com
 143-84.singleplatform.com
 dev1.036.singleplatform.com
 1803477975970h5459.singleplatform.com
@@ -2400,7 +2358,7 @@ dsupermarkednettoplprod.112.singleplatform.com
 154-232.singleplatform.com
 129e5.singleplatform.com
 1e3d8.singleplatform.com
-www.10003.singleplatform.com
+10003.singleplatform.com
 174-37.singleplatform.com
 183-153.singleplatform.com
 175-50.singleplatform.com
@@ -2440,7 +2398,7 @@ www.10003.singleplatform.com
 165-173.singleplatform.com
 17958r7o7198g948.singleplatform.com
 131-3.singleplatform.com
-www.18naga.singleplatform.com
+18naga.singleplatform.com
 124-34.singleplatform.com
 17290.singleplatform.com
 126-40.singleplatform.com
@@ -2546,7 +2504,7 @@ administrator.020.singleplatform.com
 15016.singleplatform.com
 4.064.singleplatform.com
 16881.singleplatform.com
-www.111skynews.singleplatform.com
+111skynews.singleplatform.com
 108-58.singleplatform.com
 104-150.singleplatform.com
 15201.singleplatform.com
@@ -2585,7 +2543,7 @@ www.111skynews.singleplatform.com
 007zhenrenyulechengzenmeyang.singleplatform.com
 165196.singleplatform.com
 148-194.singleplatform.com
-www.1828.singleplatform.com
+1828.singleplatform.com
 1b30f.singleplatform.com
 171559.singleplatform.com
 129b8.singleplatform.com
@@ -2640,7 +2598,7 @@ www.1828.singleplatform.com
 18657.singleplatform.com
 1dfe1.singleplatform.com
 17685.singleplatform.com
-www.107.singleplatform.com
+107.singleplatform.com
 1577998198g9.singleplatform.com
 10-132.singleplatform.com
 16603.singleplatform.com
@@ -2874,7 +2832,7 @@ elb.048.singleplatform.com
 188betcunkuan.singleplatform.com
 12betscore.singleplatform.com
 183-184.singleplatform.com
-www.1c-demo.singleplatform.com
+1c-demo.singleplatform.com
 17d04.singleplatform.com
 162183414b3.singleplatform.com
 146-111.singleplatform.com
@@ -3034,7 +2992,7 @@ portstephensremovals.1.singleplatform.com
 164-210.singleplatform.com
 101-57.singleplatform.com
 155-130.singleplatform.com
-www.encaustic.1.singleplatform.com
+encaustic.1.singleplatform.com
 134-34.singleplatform.com
 129ec.singleplatform.com
 186i36198g9.singleplatform.com
@@ -3174,7 +3132,7 @@ payment.022.singleplatform.com
 130-40.singleplatform.com
 10-250.singleplatform.com
 analogdevices.122.singleplatform.com
-www.1humidificateur.singleplatform.com
+1humidificateur.singleplatform.com
 160-74.singleplatform.com
 126-160.singleplatform.com
 18983.singleplatform.com
@@ -3407,7 +3365,7 @@ frontpage.0xffffffe0.singleplatform.com
 117-46.singleplatform.com
 16b9183liuhecai145w8530.singleplatform.com
 135573.singleplatform.com
-www.13.singleplatform.com
+13.singleplatform.com
 16780.singleplatform.com
 14858.singleplatform.com
 19bc2.singleplatform.com
@@ -3441,7 +3399,7 @@ machine.151.singleplatform.com
 147-197.singleplatform.com
 132-198.singleplatform.com
 1335.singleplatform.com
-www.1td.singleplatform.com
+1td.singleplatform.com
 165-159.singleplatform.com
 169-251.singleplatform.com
 0x11.singleplatform.com
@@ -3466,7 +3424,6 @@ www.1td.singleplatform.com
 125-37.singleplatform.com
 194-214.singleplatform.com
 157-226.singleplatform.com
-12th.singleplatform.com
 153-20.singleplatform.com
 14machine.singleplatform.com
 17d15.singleplatform.com
@@ -3505,7 +3462,7 @@ www.1td.singleplatform.com
 18316.singleplatform.com
 0s.singleplatform.com
 196-7.singleplatform.com
-www.0077.singleplatform.com
+0077.singleplatform.com
 1bc17.singleplatform.com
 16a51.singleplatform.com
 1i2lfe.singleplatform.com
@@ -3517,7 +3474,7 @@ www.0077.singleplatform.com
 12f68.singleplatform.com
 1c693.singleplatform.com
 139-139.singleplatform.com
-www.18dmedia.singleplatform.com
+18dmedia.singleplatform.com
 040.singleplatform.com
 13-251.singleplatform.com
 154-230.singleplatform.com
@@ -3571,7 +3528,7 @@ payment.036.singleplatform.com
 0849319587.singleplatform.com
 130ee.singleplatform.com
 10951.singleplatform.com
-www.internet-zablokirovan.internet-zablokirovan.10078.singleplatform.com
+internet-zablokirovan.internet-zablokirovan.10078.singleplatform.com
 18177.singleplatform.com
 1410.singleplatform.com
 173-84.singleplatform.com
@@ -3596,7 +3553,7 @@ www.internet-zablokirovan.internet-zablokirovan.10078.singleplatform.com
 17538.singleplatform.com
 047201010.singleplatform.com
 193-147.singleplatform.com
-www.123hp.singleplatform.com
+123hp.singleplatform.com
 16384.singleplatform.com
 133-25.singleplatform.com
 134-120.singleplatform.com
@@ -3710,7 +3667,7 @@ poland.151.singleplatform.com
 176-12.singleplatform.com
 18-1.singleplatform.com
 137-139.singleplatform.com
-www.123accounting.1.singleplatform.com
+123accounting.1.singleplatform.com
 129-196.singleplatform.com
 19geshuxuejiazutuandubo.singleplatform.com
 02-api-docs.singleplatform.com
@@ -3806,7 +3763,7 @@ sonychina.112.singleplatform.com
 12804.singleplatform.com
 190-249.singleplatform.com
 14.singleplatform.com
-www.10016.singleplatform.com
+10016.singleplatform.com
 180hejishimezhiyehao.singleplatform.com
 16129.singleplatform.com
 0-trial.singleplatform.com
@@ -3848,7 +3805,7 @@ skins.151.singleplatform.com
 147-163.singleplatform.com
 17-westeurope.singleplatform.com
 16542.singleplatform.com
-www.1rusdosug.singleplatform.com
+1rusdosug.singleplatform.com
 1240.singleplatform.com
 147-97.singleplatform.com
 12758.singleplatform.com
@@ -3941,7 +3898,7 @@ forum.008.singleplatform.com
 110-12.singleplatform.com
 172-162.singleplatform.com
 127-189.singleplatform.com
-www.123hoc.singleplatform.com
+123hoc.singleplatform.com
 107-193.singleplatform.com
 14-124.singleplatform.com
 135-144.singleplatform.com
@@ -3957,7 +3914,7 @@ www.123hoc.singleplatform.com
 12947.singleplatform.com
 1friskypussy.singleplatform.com
 10-192.singleplatform.com
-www.143.singleplatform.com
+143.singleplatform.com
 1da4c.singleplatform.com
 102-5.singleplatform.com
 114zuqiu.singleplatform.com
@@ -4003,7 +3960,7 @@ latin.112.singleplatform.com
 122-80.singleplatform.com
 149-19.singleplatform.com
 1eab8.singleplatform.com
-www.036.singleplatform.com
+036.singleplatform.com
 164-172.singleplatform.com
 16834.singleplatform.com
 118-118.singleplatform.com
@@ -4109,7 +4066,6 @@ brasil.036.singleplatform.com
 0machine.singleplatform.com
 147-158.singleplatform.com
 147cf.singleplatform.com
-0st.singleplatform.com
 102766.singleplatform.com
 1777.singleplatform.com
 16s9i4198g951e9123.singleplatform.com
@@ -4291,7 +4247,7 @@ msh.09.singleplatform.com
 138-242.singleplatform.com
 19prod.singleplatform.com
 141-146.singleplatform.com
-www.maitlandwelding.1.singleplatform.com
+maitlandwelding.1.singleplatform.com
 189f9r7o7198g9.singleplatform.com
 143-169.singleplatform.com
 13-199.singleplatform.com
@@ -4485,7 +4441,7 @@ cms1.03.singleplatform.com
 1mx.singleplatform.com
 051017.singleplatform.com
 10540.singleplatform.com
-www.10gb.singleplatform.com
+10gb.singleplatform.com
 1-day.singleplatform.com
 188jinbaoboyulechengpingtai.singleplatform.com
 141-3.singleplatform.com
@@ -4587,7 +4543,6 @@ swagger.084.singleplatform.com
 16175.singleplatform.com
 179-119.singleplatform.com
 132-77.singleplatform.com
-036.singleplatform.com
 119311.singleplatform.com
 11d82.singleplatform.com
 175379.singleplatform.com
@@ -4748,7 +4703,6 @@ ops.064.singleplatform.com
 195ciyinghejifabuwang.singleplatform.com
 11037.singleplatform.com
 126-37.singleplatform.com
-13.singleplatform.com
 14344.singleplatform.com
 191q4r7o7147k2123.singleplatform.com
 176chuanqidubojiqiao.singleplatform.com
@@ -5034,7 +4988,7 @@ container.03.singleplatform.com
 universityofchicagograduateschool.122.singleplatform.com
 132-54.singleplatform.com
 19af8.singleplatform.com
-www.0008.singleplatform.com
+0008.singleplatform.com
 135-237.singleplatform.com
 138-36.singleplatform.com
 12nianouzhoubei34mingjuesai.singleplatform.com
@@ -5154,7 +5108,6 @@ olympiaverlag.122.singleplatform.com
 150-129.singleplatform.com
 157-19.singleplatform.com
 155599.singleplatform.com
-107.singleplatform.com
 secure.12bet.singleplatform.com
 17bb3.singleplatform.com
 185-9.singleplatform.com
@@ -5265,7 +5218,7 @@ euwe.022.singleplatform.com
 132-163.singleplatform.com
 17c3.singleplatform.com
 133-168.singleplatform.com
-www.111hack.singleplatform.com
+111hack.singleplatform.com
 106-66.singleplatform.com
 193-47.singleplatform.com
 1001mall.singleplatform.com
@@ -5425,7 +5378,7 @@ acc.18.singleplatform.com
 138-215.singleplatform.com
 0ytwzna3f8.singleplatform.com
 15e2.singleplatform.com
-www.1231.singleplatform.com
+1231.singleplatform.com
 151-195.singleplatform.com
 17-219.singleplatform.com
 181-126.singleplatform.com
@@ -5510,7 +5463,7 @@ www.1231.singleplatform.com
 199qicaiaoxueciying.singleplatform.com
 182-59.singleplatform.com
 1314qu.singleplatform.com
-www.0920022854.singleplatform.com
+0920022854.singleplatform.com
 16407.singleplatform.com
 18271.singleplatform.com
 171e7.singleplatform.com
@@ -5674,7 +5627,7 @@ control.0xffffffe0.singleplatform.com
 1477361638176.singleplatform.com
 14400.singleplatform.com
 15-103.singleplatform.com
-www.152.singleplatform.com
+152.singleplatform.com
 14432.singleplatform.com
 137-122.singleplatform.com
 11806.singleplatform.com
@@ -5773,7 +5726,7 @@ www.152.singleplatform.com
 188betguanwang.singleplatform.com
 1eb86.singleplatform.com
 19-253.singleplatform.com
-www.1hotel.singleplatform.com
+1hotel.singleplatform.com
 1489.singleplatform.com
 158-65.singleplatform.com
 11-59.singleplatform.com

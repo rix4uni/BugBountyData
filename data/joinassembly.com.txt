@@ -1,5 +1,3 @@
-*.joinassembly.com
-www.joinassembly.com
 my.joinassembly.com
 app.joinassembly.com
 prod-app-frontend.prod-infra.joinassembly.com
@@ -19,11 +17,9 @@ url6079.joinassembly.com
 api-prod.joinassembly.com
 gcp-tika.prod-infra.joinassembly.com
 try.joinassembly.com
-*.gcp-dev-infra.joinassembly.com
+gcp-dev-infra.joinassembly.com
 duplo.gcp-dev-infra.joinassembly.com
 rp.joinassembly.com
 gcp-tika-prod.joinassembly.com
-*.prod-infra.joinassembly.com
 duplo-dev.infra.joinassembly.com
-*.infra.joinassembly.com
 lander.joinassembly.com

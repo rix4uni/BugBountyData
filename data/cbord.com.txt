@@ -3,8 +3,6 @@ uat.frontend.traylogistics.cbord.com
 careers.cbord.com
 get.ca.cbord.com
 student.ca.cbord.com
-*.student.ca.cbord.com
-*.get.ca.cbord.com
 staging.patient.cbord.com
 legacy.cbord.com
 new.cbord.com
@@ -164,7 +162,6 @@ universities.cbord.com
 getdemo.cbord.com
 get.cbord.com
 sysco.cbord.com
-www.cbord.com
 get.feature1.cbord.com
 admin.get.feature1.cbord.com
 student.feature1.cbord.com

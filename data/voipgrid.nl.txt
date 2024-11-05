@@ -223,7 +223,6 @@ proxy1-staging.voipgrid.nl
 beta.voipgrid.nl
 karma-dev.voipgrid.nl
 sbc0-staging.voipgrid.nl
-www.voipgrid.nl
 k8slb0-ams.voipgrid.nl
 openvpn-dev.voipgrid.nl
 presence-dev3.voipgrid.nl
@@ -324,7 +323,6 @@ dataproviderlookup.voipgrid.nl
 kubernetes.voipgrid.nl
 pstore-dev.voipgrid.nl
 ua2.sig.voipgrid.nl
-www.dataproviderlookup.voipgrid.nl
 gitlab0-grq-dev.voipgrid.nl
 graylog0-grq.voipgrid.nl
 prometheus0-dev.voipgrid.nl

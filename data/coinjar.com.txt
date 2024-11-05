@@ -1,6 +1,6 @@
 swipe.coinjar.com
 classic.coinjar.com
-www.github.syd.coinjar.com
+github.syd.coinjar.com
 chat.coinjar.com
 am.coinjar.com
 status.coinjar.com
@@ -9,7 +9,6 @@ campaigns.coinjar.com
 websocket.coinjar.com
 docs.exchange.coinjar.com
 mail.coinjar.com
-www.coinjar.com
 assets.coinjar.com
 careers.coinjar.com
 api.pricehub.coinjar.com
@@ -65,7 +64,6 @@ secure.coinjar.com
 api.coinjar.com
 phabricator.syd.coinjar.com
 nps.stg.syd.coinjar.com
-github.syd.coinjar.com
 api-direct.coinjar.com
 heap.coinjar.com
 shopadocket-partner-api.coinjar.com
@@ -80,23 +78,17 @@ cmc-data.exchange.coinjar.com
 codeload.github.syd.coinjar.com
 cf.coinjar.com
 avatars.github.syd.coinjar.com
-www.aerofs.syd.coinjar.com
 syd.internal.coinjar.com
 secure.sandbox.coinjar.com
 docker.github.syd.coinjar.com
 stg.syd.internal.coinjar.com
 hipchat.github.syd.coinjar.com
 maven.github.syd.coinjar.com
-www.vpn.syd.coinjar.com
 internal-data.exchange.coinjar.com
 sqlpad.syd.coinjar.com
-www.hipchat.syd.coinjar.com
 redcountybluecounty.yd.coinjar.com
-www.access.coinjar.com
-www.blog.coinjar.com
 clear.coinjar.com
 exceptiontracker.syd.coinjar.com
-www.sip.coinjar.com
 confluence.20.github.syd.coinjar.com
 grpc.prd.syd.internal.coinjar.com
 gitlab.syd.coinjar.com
@@ -104,7 +96,6 @@ hipchat.swagger.github.syd.coinjar.com
 assets.github.syd.coinjar.com
 wazo01.pbx.prd.syd.external.coinjar.com
 rubygems.github.syd.coinjar.com
-www.ripple.syd.coinjar.com
 167-swagger.github.syd.coinjar.com
 grpc.stg.syd.internal.coinjar.com
 20.2010.github.syd.coinjar.com
@@ -130,7 +121,6 @@ au.intranet.coinjar.com
 pages.github.syd.coinjar.com
 hipchat.15.github.syd.coinjar.com
 nps.syd.coinjar.comnpm.github.syd.coinjar.com
-www.gtm.coinjar.com
 20sd.github.syd.coinjar.com
 media.github.syd.coinjar.com
 api-gcp.coinjar.com

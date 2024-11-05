@@ -28,7 +28,6 @@ tvpc.personal.gewis.nl
 webhost-demo.gewis.nl
 static.gewis.nl
 gewisvdesktop.gewis.nl
-www.gewis.nl
 banaan.org.gewis.nl
 info.gewis.nl
 web.gewis.nl
@@ -45,7 +44,6 @@ rink.personal.gewis.nl
 wiki.gehack.gewis.nl
 ceb.gewis.nl
 sites.gehack.gewis.nl
-www.rink.personal.gewis.nl
 gehack.gewis.nl
 router01.localnet.gewis.nl
 gewiswg.gewis.nl
@@ -68,7 +66,7 @@ support.gewis.nl
 status.gewis.nl
 images.gewis.nl
 gepwnage.gewis.nl
-www.personal.gewis.nl
+personal.gewis.nl
 mail-incoming.gewis.nl
 gewisdc02.gewis.nl
 stijl.gewis.nl
@@ -77,7 +75,6 @@ rex.gewis.nl
 bestwiki.gewis.nl
 gewisapp01.gewis.nl
 kanboard.gewis.nl
-www.max.personal.gewis.nl
 rexfse.gewis.nl
 wwww.gewis.nl
 pm.gewis.nl
@@ -98,5 +95,3 @@ wiso.gewis.nl
 kleding.gewis.nl
 imap.gewis.nl
 ldaps.gewis.nl
-*.gewis.nl
-*.test.gewis.nl

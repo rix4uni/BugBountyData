@@ -1,6 +1,6 @@
 binsights-production.doctolib.fr
 secours.doctolib.fr
-www.centre-dentaire-du-moulin-addentis.doctolib.fr
+centre-dentaire-du-moulin-addentis.doctolib.fr
 ssl-production.doctolib.fr
 api-prd-aws-de-fra-1.doctolib.fr
 www-preprod.doctolib.fr
@@ -46,7 +46,7 @@ assets-prd-aws-fr-par-1.doctolib.fr
 pro-dev.doctolib.fr
 m-prd-aws-de-fra-1.doctolib.fr
 api-legacy-prd-aws-de-fra-1.doctolib.fr
-www.info.doctolib.fr
+info.doctolib.fr
 ip-4.sib.doctolib.fr
 cache0.prodco.doctolib.fr
 exceptions-preprod.doctolib.fr
@@ -57,7 +57,6 @@ logs-billing-dev.doctolib.fr
 careers.doctolib.fr
 assets.doctolib.fr
 dev-events-logs-staging.doctolib.fr
-info.doctolib.fr
 r.ip-5.sib.doctolib.fr
 airflow-data-production.doctolib.fr
 about2-staging.doctolib.fr
@@ -105,7 +104,6 @@ wildcardfr-prodco.doctolib.fr
 evfr-prodco.doctolib.fr
 evfr-prodaz.doctolib.fr
 mailtrail.doctolib.fr
-centre-dentaire-du-moulin-addentis.doctolib.fr
 adminium-production.doctolib.fr
 o1.email.doctolib.fr
 dbinsights-production.doctolib.fr
@@ -187,7 +185,6 @@ push-staging.doctolib.fr
 connectors.doctolib.fr
 ddv-install.doctolib.fr
 legal.doctolib.fr
-www.doctolib.fr
 rs-interf.doctolib.fr
 pro-prd-aws-fr-par-1.doctolib.fr
 billing-client-logs.billing.doctolib.fr
@@ -205,18 +202,8 @@ legal-staging.doctolib.fr
 medialand.api-sas.doctolib.fr
 mta-sts.doctolib.fr
 partners-dev.doctolib.fr
-www.docto.doctolib.fr
-www.staging.doctolib.fr
 api-sas-staging.doctolib.fr
 logs-staging.doctolib.fr
-*.doctolib.fr
-*.billing.doctolib.fr
-*.billing-dev.doctolib.fr
-*.billing-staging.doctolib.fr
-*.ddv-staging.doctolib.fr
-*.portal.doctolib.fr
-*.portal-interf.doctolib.fr
-*.preview.doctolib.fr
 ev-fr-prodaz.doctolib.fr
 ev-fr-prodco.doctolib.fr
 m-dev.doctolib.fr
@@ -224,8 +211,6 @@ m-staging.doctolib.fr
 wildcard-fr-prodaz.doctolib.fr
 wildcard-fr-staging.doctolib.fr
 www-thep.doctolib.fr
-*.portal-staging.doctolib.fr
-*.ddv.doctolib.fr
 pgwatch2-production.doctolib.fr
 rs-sftp-origin.doctolib.fr
 cache0-prodco.doctolib.fr
@@ -252,8 +237,7 @@ logs-dev.doctolib.fr
 cerebro-production.doctolib.fr
 hyp00-prodco.doctolib.fr
 menceauwww.doctolib.fr
-www.www.doctolib.fr
-www.pro.doctolib.fr
+www.doctolib.fr
 adminium-dev.doctolib.fr
 adminium-prd-aws-fr-par-1.doctolib.fr
 couchbase-prd-aws-fr-par-1.doctolib.fr
@@ -314,7 +298,6 @@ hyp0-prodco.doctolib.fr
 minium-production.doctolib.fr
 dev.doctolib.fr
 jenkins00-production.doctolib.fr
-www.m.doctolib.fr
 connectors-staging.doctolib.fr
 info2.doctolib.fr
 pro-staging-aws-fr-par-1.doctolib.fr
@@ -333,7 +316,7 @@ admin.doctolib.fr
 a-prd-aws-fr-par-1.doctolib.fr
 toolbox-dev-aws-de-fra-1.doctolib.fr
 01-prodco.doctolib.fr
-www.pr.doctolib.fr
+pr.doctolib.fr
 orange.frwww.doctolib.fr
 pro-interf.doctolib.fr
 billing-client-logs.billing-dev.doctolib.fr
@@ -595,7 +578,7 @@ kminium-staging2.doctolib.fr
 3l.doctolib.fr
 9ww-staging2.doctolib.fr
 mw-staging3.doctolib.fr
-www.aviatorwww.doctolib.fr
+aviatorwww.doctolib.fr
 ffr-prodco.doctolib.fr
 4ium-staging3.doctolib.fr
 4binsights-staging2.doctolib.fr
@@ -955,7 +938,6 @@ caritasmuenchen.doctolib.fr
 agenda-staging9.doctolib.fr
 hrd-fr-prodco.doctolib.fr
 w-tging3333.doctolib.fr
-rww.doctolib.fr
 bsights-staging3.doctolib.fr
 atessaging222222.doctolib.fr
 lnium-staging.doctolib.fr
@@ -1087,7 +1069,7 @@ em-prodaz.doctolib.fr
 ev-fr-prodco1.doctolib.fr
 5production.doctolib.fr
 bing2.doctolib.fr
-www.argus2.preview.doctolib.fr
+argus2.preview.doctolib.fr
 vvmnxtokvgmz.doctolib.fr
 adminium-prodaz0.doctolib.fr
 adminium-production-6.doctolib.fr
@@ -1341,7 +1323,6 @@ cust126.doctolib.fr
 7ners-staging2.doctolib.fr
 assets-staging36.doctolib.fr
 vard-fr-staging.doctolib.fr
-www.info-staging.doctolib.fr
 db-01.doctolib.fr
 2ro-prodaz.doctolib.fr
 jw-staging3.doctolib.fr
@@ -1748,7 +1729,6 @@ vers.doctolib.fr
 email3.doctolib.fr
 assets-staging2-5.doctolib.fr
 status-2.doctolib.fr
-www.card.doctolib.fr
 dium-production.doctolib.fr
 vbinsights-production.doctolib.fr
 vemaspy-datafoundation.doctolib.fr
@@ -2012,7 +1992,6 @@ mysql1.doctolib.fr
 dcbam-pro.doctolib.fr
 assets-staging23.doctolib.fr
 ybinsights-staging2.doctolib.fr
-argus2.preview.doctolib.fr
 xuction.doctolib.fr
 yw2.doctolib.fr
 hrail.doctolib.fr
@@ -2143,7 +2122,6 @@ assetsadminium-production.doctolib.fr
 aminium-staging2.doctolib.fr
 assetsadminium-staging.doctolib.fr
 status0.doctolib.fr
-aviatorwww.doctolib.fr
 aomenqiupantuijian.doctolib.fr
 bfr-prodaz.doctolib.fr
 r-taging222.doctolib.fr
@@ -2467,7 +2445,6 @@ wildcard-partners-staging.doctolib.fr
 3fr-prodco.doctolib.fr
 ltrail.doctolib.fr
 wildcard-fr-staging-9.doctolib.fr
-gww.doctolib.fr
 aer-stagingggg.doctolib.fr
 adminiumdbinsights-staging2.doctolib.fr
 uum-staging2.doctolib.fr
@@ -2771,7 +2748,6 @@ mpy-datafoundation.doctolib.fr
 fedcbaadminium-sta.doctolib.fr
 m-prodaz.doctolib.fr
 rminium-staging2.doctolib.fr
-www.partners.doctolib.fr
 yco.doctolib.fr
 zeus.doctolib.fr
 nbinsights-staging3.doctolib.fr
@@ -2934,7 +2910,6 @@ weborder.doctolib.fr
 6insights-staging3.doctolib.fr
 einsights-staging3.doctolib.fr
 info-staging7.doctolib.fr
-9ww.doctolib.fr
 server2.doctolib.fr
 dminium-staging.doctolib.fr
 gro-staging3.doctolib.fr
@@ -3568,7 +3543,6 @@ evwww-staging2.doctolib.fr
 mpeg.doctolib.fr
 rdminium-production.doctolib.fr
 sesstaging2222.doctolib.fr
-www.preview.doctolib.fr
 expoelearning.doctolib.fr
 wildcard-m-staging3.doctolib.fr
 ceap-atafoundationnnnnn.doctolib.fr
@@ -3772,7 +3746,6 @@ zldcard-fr-staging.doctolib.fr
 tng3.doctolib.fr
 wnium-staging.doctolib.fr
 anfo-staging.doctolib.fr
-www.doctolib.frwww.doctolib.fr
 ns01.doctolib.fr
 zhenqianqipaidaohangwangzhan.doctolib.fr
 lcard-fr-staging.doctolib.fr
@@ -4158,7 +4131,6 @@ cs-staging.doctolib.fr
 4rs-staging.doctolib.fr
 9ssets.doctolib.fr
 khts-prodaz.doctolib.fr
-www.centre-dentaire-des-quatre-chemins-addentis.doctolib.fr
 ro-prodaz.doctolib.fr
 gnium-production.doctolib.fr
 vpn0.doctolib.fr

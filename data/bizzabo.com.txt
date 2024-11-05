@@ -18,7 +18,6 @@ status.bizzabo.com
 wookie.bizzabo.com
 ymca-sslevents.ext.dev.bizzabo.com
 blog.bizzabo.com
-www.bizzabo.com
 es8-people-1-http.eks.db.prod.bizzabo.com
 auth.dev.bizzabo.com
 auth.bizzabo.com
@@ -29,7 +28,6 @@ events.bizzabo.com
 o1.registration1.bizzabo.com
 vault.db-eks.dev.bizzabo.com
 es-people-http.db-eks.prod.bizzabo.com
-*.stream-ext.bizzabo.com
-*.fastly.stream-ext.bizzabo.com
+stream-ext.bizzabo.com
+fastly.stream-ext.bizzabo.com
 recapped.bizzabo.com
-*.bizzabo.com

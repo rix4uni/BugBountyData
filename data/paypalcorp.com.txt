@@ -1235,7 +1235,6 @@ dev52-tools-iaz-caas-gke.piman.paypalcorp.com
 paypalguestportal6.paypalcorp.com
 azr-pxtms-apac.px.paypalcorp.com
 denwebconflb.paypalcorp.com
-www.cafe.paypalcorp.com
 dub-ma-int.paypalcorp.com
 lvs-ctx-craz.paypalcorp.com
 lvs1-wbmas-104.paypalcorp.com
@@ -1524,7 +1523,6 @@ dkim2.paypalcorp.com
 lvs-ipextra-02.paypalcorp.com
 phx-hdx.paypalcorp.com
 ras.paypalcorp.com
-www.desktopwss.paypalcorp.com
 azcus-ctxcc-007.paypalcorp.com
 den1-xnsms-002.paypalcorp.com
 icm.paypalcorp.com
@@ -1705,7 +1703,6 @@ phx11-ctxsf-005.paypalcorp.com
 azr-pxcnf-usest-u01.px.paypalcorp.com
 mva-eu-ext.paypalcorp.com
 transfer-dr.paypalcorp.com
-www.dub-ns-int.paypalcorp.com
 fra-ns-wah.paypalcorp.com
 lvs1-cesat-s01.paypalcorp.com
 lvs1-ssoas-u09.paypalcorp.com
@@ -1877,7 +1874,6 @@ phx11-slidv-001.paypalcorp.com
 azwu2-ssoas-u05.azure.paypalcorp.com
 cfbt.nyx.paypalcorp.com
 lvs-hdx.paypalcorp.com
-www.rsflows.paypalcorp.com
 clearpass.glb.paypalcorp.com
 lvs-craz.paypalcorp.com
 iamcorpsecoudcs.paypalcorp.com
@@ -1912,7 +1908,6 @@ supplierportal-dr.paypalcorp.com
 nova-ams.paypalcorp.com
 ipro-eu-addservices.paypalcorp.com
 lvs1-cescs-s02.paypalcorp.com
-www.dub-ns-mpls.paypalcorp.com
 zabbix.genesis.paypalcorp.com
 azr-pxcnf-uswst-u13.px.paypalcorp.com
 corpcitrix-lvs-lab.paypalcorp.com

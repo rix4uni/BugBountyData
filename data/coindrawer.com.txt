@@ -1,4 +1,3 @@
-www.coindrawer.com
 imap2.coindrawer.com
 mail2.coindrawer.com
 smtp.coindrawer.com
@@ -28,12 +27,11 @@ barracuda.coindrawer.com
 gateway.coindrawer.com
 ns.coindrawer.com
 pop.coindrawer.com
-www.zulu.coindrawer.com
 server1.coindrawer.com
 mx1.coindrawer.com
 authsmtp.coindrawer.com
 imap1.coindrawer.com
-www.coinprod.coindrawer.com
+coinprod.coindrawer.com
 smtp2.coindrawer.com
 email.coindrawer.com
 outmail.coindrawer.com
@@ -60,7 +58,6 @@ post.coindrawer.com
 mailgw.coindrawer.com
 mailhost.coindrawer.com
 newmail.coindrawer.com
-coinprod.coindrawer.com
 mailgate.coindrawer.com
 mx4.coindrawer.com
 srv.coindrawer.com

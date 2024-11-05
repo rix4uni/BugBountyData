@@ -1,4 +1,4 @@
-*.signalr.timeblockr.com
+signalr.timeblockr.com
 app.timeblockr.com
 webmeeting-demo.timeblockr.com
 centric.include.timeblockr.com
@@ -294,16 +294,10 @@ status.timeblockr.com
 devaudit.api.timeblockr.com
 uwv.timeblockr.com
 vpn.timeblockr.com
-www.timeblockr.com
-*.timeblockr.com
-*.include.timeblockr.com
-*.admin.timeblockr.com
-*.api.timeblockr.com
-*.wcf.timeblockr.com
-www.include.timeblockr.com
-*.app.timeblockr.com
-*.appointment.timeblockr.com
-www.afspraak.timeblockr.com
+admin.timeblockr.com
+api.timeblockr.com
+wcf.timeblockr.com
+appointment.timeblockr.com
 afspraak.timeblockr.com
 gdrp.admin.timeblockr.com
 uithoorn.admin.timeblockr.com

@@ -2,7 +2,6 @@ docs.huwer.xyz
 hole.huwer.xyz
 grafana.huwer.xyz
 cloud.huwer.xyz
-www.huwer.xyz
 nodered.home.huwer.xyz
 assistant.huwer.xyz
 updates.huwer.xyz
@@ -12,4 +11,3 @@ autodiscover.huwer.xyz
 mail.huwer.xyz
 office.huwer.xyz
 traefik.huwer.xyz
-*.huwer.xyz

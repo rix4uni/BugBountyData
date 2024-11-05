@@ -1,6 +1,6 @@
-www.keis.kubota.com
+keis.kubota.com
 engine.kubota.com
-www.mobileiron.kubota.com
+mobileiron.kubota.com
 gitampf-px5.kubota.com
 m.kubota.com
 miotgw.kubota.com
@@ -8,7 +8,6 @@ en.locator.kubota.com
 eu-pf-kfdc-dev3.kubota.com
 csr.kubota.com
 go-skc.kubota.com
-keis.kubota.com
 locator.kubota.com
 kpad.kubota.com
 dealers.kubota.com
@@ -30,7 +29,6 @@ acctmng.miotgw.kubota.com
 eu-pf-kfdc-dev2.kubota.com
 es.locator.kubota.com
 sys.kubota.com
-www.kubota.com
 change.kubota.com
 spf.kubota.com
 kubotastyleservice.kubota.com
@@ -38,11 +36,10 @@ seimai.locator.kubota.com
 cdn-imm-flashreport-qas.kubota.com
 iotrp.miotgw.kubota.com
 codeextracter-qas.kubota.com
-www.sys.kubota.com
 mail.sys.kubota.com
 igwjp-dev.miotgw.kubota.com
 eu-pf-kfdc-dev.kubota.com
-www.email.kubota.com
+email.kubota.com
 kcm-test.engine.kubota.com
 kcm.engine.kubota.com
 www-origin.kubota.com
@@ -55,10 +52,8 @@ barracuda.kubota.com
 docs.kubota.com
 igwus-dev.miotgw.kubota.com
 mobility.kubota.com
-mobileiron.kubota.com
 iotpf.miotgw.kubota.com
 ma-feeder.kubota.com
-www.sametime.kubota.com
 spf3.kubota.com
 mail.kubota.com
 cejp.locator.kubota.com
@@ -75,8 +70,6 @@ mail2.sys.kubota.com
 sky-sv3-hgw.kubota.com
 jp.locator.kubota.com
 acctmng-dev.miotgw.kubota.com
-email.kubota.com
 calendar.kubota.com
 contacts.kubota.com
 cdn-flashreport.kubota.com
-*.locator.kubota.com

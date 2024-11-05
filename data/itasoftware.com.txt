@@ -523,7 +523,6 @@ cust13-4.itasoftware.com
 ge0-0.cust35vpn1.itasoftware.com
 ge0-0.cust35vpn4.itasoftware.com
 ita2ldaplb1.internal.itasoftware.com
-www.matrix.itasoftware.com
 cust02-206.itasoftware.com
 cust124-7.itasoftware.com
 cust18vpn1.itasoftware.com
@@ -669,7 +668,6 @@ fe0-0.cust24vpn2.itasoftware.com
 cust195-4.itasoftware.com
 cust23-1.itasoftware.com
 cust32-20.itasoftware.com
-www.hya2.pss.itasoftware.com
 fe0-0.cust209vpn4.itasoftware.com
 cust02-45.itasoftware.com
 cust02-72.itasoftware.com
@@ -685,7 +683,6 @@ cust164-1.itasoftware.com
 cust16vpn1.itasoftware.com
 cust32-102.itasoftware.com
 cust32-240.itasoftware.com
-www.itasoftware.com
 cust02-58.itasoftware.com
 ldap-master.internal.itasoftware.com
 lo0.ixc-rtr3.dc1.itasoftware.com
@@ -803,13 +800,10 @@ az-demo.itasoftware.com
 tu1.ixc-vpn2.dc2.itasoftware.com
 ita5rtr1.itasoftware.com
 cust32-132.itasoftware.com
-www.qagds.polaris.itasoftware.com
 ge1-3-0.inetrtr1.dc2.itasoftware.com
-www.uat9k.pss.itasoftware.com
 1.te-0-0-0.ixc-rtr4.dc1.itasoftware.com
 cust209-6.itasoftware.com
 cust32-10.itasoftware.com
-www.hya1.pss.itasoftware.com
 cust209-19.itasoftware.com
 smtp.itasoftware.com
 ita1fw.itasoftware.com
@@ -837,4 +831,3 @@ guest-fw.dc4.itasoftware.com
 sec.ge0-0.inet-rtr1.dc4.itasoftware.com
 cust125-1.itasoftware.com
 cust32-185.itasoftware.com
-*.internal.itasoftware.com

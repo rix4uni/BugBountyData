@@ -70,11 +70,6 @@ affiliate.bitdelta.com
 qa-v2.bitdelta.com
 feature-kyc.bitdelta.com
 media.bitdelta.com
-www.bitdelta.com
-*.bitdelta.com
-*.dev.bitdelta.com
-*.amplify.bitdelta.com
-*.aws.bitdelta.com
 media-dev.bitdelta.com
 academy.bitdelta.com
 api.bitdelta.com
@@ -127,7 +122,6 @@ email.bitdelta.com
 mail02.bitdelta.com
 enterpriseregistration.bitdelta.com
 s1._domainkey.sgmail.bitdelta.com
-www.amplify.bitdelta.com
 em4736.sgmail.bitdelta.com
 mxb.bitdelta.com
 api-migration.bitdelta.com

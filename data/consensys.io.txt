@@ -94,7 +94,6 @@ staging.snaps.consensys.io
 api.staking.consensys.io
 api-eu-central-1.access-dev.internal.consensys.io
 docs-template.consensys.io
-www.consensys.io
 metamind.consensys.io
 go.navhackathon.consensys.io
 api.access-dev.internal.consensys.io
@@ -134,4 +133,3 @@ keymaster-prod.eu-north-1.aws.staking.consensys.io
 az.staking.consensys.io
 eu-north-1.aws.staking.consensys.io
 dev.snaps.consensys.io
-www.navhackathon.consensys.io

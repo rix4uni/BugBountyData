@@ -606,7 +606,6 @@ collect.duckduckgo.com
 builder.duckduckgo.com
 watrcoolr.duckduckgo.com
 ff.duckduckgo.com
-www.duckduckgo.com
 icons.duckduckgo.com
 smtpa-outbound1.duckduckgo.com
 smtpa-outbound6.duckduckgo.com
@@ -707,8 +706,6 @@ www-434.duckduckgo.com
 yahoo.duckduckgo.com
 yelp.duckduckgo.com
 84-198-21-135.duckduckgo.com
-*.duckduckgo.com
-*.vault.duckduckgo.com
 discourse.duckduckgo.com
 irc.duckduckgo.com
 jkvtest6.duckduckgo.com

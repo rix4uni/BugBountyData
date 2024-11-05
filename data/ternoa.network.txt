@@ -1,4 +1,3 @@
-*.ternoa.network
 alphanet-attestation.ternoa.network
 alphanet-c1n1.ternoa.network
 alphanet-c1n2.ternoa.network
@@ -79,7 +78,6 @@ ternoa-bots.ternoa.network
 wallet-connectrelay.ternoa.network
 whitepaper.ternoa.network
 wiki.ternoa.network
-www.ternoa.network
 yopass.ternoa.network
 alphanet.ternoa.network
 dev-2.ternoa.network

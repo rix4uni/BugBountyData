@@ -116,7 +116,6 @@ mi1.csmail.app.spacelift.dev
 d2a362iw7hh899.app.spacelift.dev
 0-15-0.app.spacelift.dev
 15.app.spacelift.dev
-www.app.spacelift.dev
 admin-xp.app.spacelift.dev
 europcar.app.spacelift.dev
 5o.app.spacelift.dev
@@ -167,7 +166,7 @@ dummy16.app.spacelift.dev
 api-cosmos.app.spacelift.dev
 navmobile.app.spacelift.dev
 adaudit.app.spacelift.dev
-www.0358.app.app.spacelift.dev
+0358.app.app.spacelift.dev
 afg.app.spacelift.dev
 ip-10-0-50-160.app.spacelift.dev
 0-hello-world.app.spacelift.dev
@@ -2042,8 +2041,6 @@ d14e0irai0gcaa.app.spacelift.dev
 device1044052-66652856-local.app.spacelift.dev
 f219be745d2737da9aee65bfeb828770.app.spacelift.dev
 pp.app.spacelift.dev
-*.spacelift.dev
-*.app.spacelift.dev
 9ad35ef3-9e55-8c04-a6fc-36e4c7ef1707.spacelift.dev
 assets.spacelift.dev
 bacon.spacelift.dev
@@ -2056,7 +2053,6 @@ otd78c1d52g2cjzj48rkvxrs1bntem3j.spacelift.dev
 vcs-gateway.spacelift.dev
 webhooks.spacelift.dev
 worker-iot.spacelift.dev
-www.spacelift.dev
 openlibrary.app.spacelift.dev
 screenshot4.app.spacelift.dev
 vegaacademy.app.spacelift.dev

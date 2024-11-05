@@ -29,7 +29,6 @@ uidp-prod-secondary-staging.udir.no
 analysebrettet-qup-test.udir.no
 psi.udir.no
 data.udir.no
-www.gsi.udir.no
 gsi.udir.no
 test-psi.udir.no
 uidp-admin-tst.udir.no
@@ -76,7 +75,6 @@ pgsx-dev.udir.no
 undersokelseradmin.udir.no
 undersokelsesdata.udir.no
 forfatter.eps.udir.no
-www.radius.udir.no
 radius.udir.no
 qa-data.udir.no
 sokeresultat.udir.no
@@ -110,13 +108,11 @@ smtp2.udir.no
 email.udir.no
 vm-pxedge04.udir.no
 vm-pxedge03.udir.no
-www.udir.no
 ldaps.udir.no
 eps.udir.no
 ns3.udir.no
 lexin.udir.no
 konf04.vk.udir.no
-www.lexin.udir.no
 konf03.vk.udir.no
 sip.vk.udir.no
 rapportportalen.udir.no
@@ -127,7 +123,6 @@ pexipmgmt.udir.no
 flm.udir.no
 lyncdiscoverinternal.udir.no
 beta.kurs.udir.no
-www.beta.kurs.udir.no
 ns2.udir.no
 ns1.udir.no
 dialin.udir.no
@@ -137,7 +132,6 @@ meet.udir.no
 sip.udir.no
 wc.udir.no
 lyncdiscover.udir.no
-www.lync.udir.no
 lync.udir.no
 pgsd-rd.udir.no
 id.udir.no

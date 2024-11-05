@@ -87,7 +87,6 @@ signature.doctolib.com
 rs-media-origin.doctolib.com
 wildcard-com-prodaz.doctolib.com
 events-logs-staging.doctolib.com
-www.doctolib.com
 eks.data-staging.doctolib.com
 api.data-science.data-staging.doctolib.com
 app.doctolib.com
@@ -102,16 +101,6 @@ tableau.data-staging.doctolib.com
 _spf.doctolib.com
 _spf2.doctolib.com
 pro.doctolib.com
-*.doctolib.com
-*.cms.doctolib.com
-*.cms-staging.doctolib.com
-*.data.doctolib.com
-*.data-staging.doctolib.com
-*.eks.data.doctolib.com
-*.eks.data-staging.doctolib.com
-*.keyless.doctolib.com
-*.eks-ag.data-staging.doctolib.com
-*.eks-sandbox.data-staging.doctolib.com
 auth-interf.doctolib.com
 auth-staging.doctolib.com
 rs-interf-origin.doctolib.com
@@ -2961,7 +2950,6 @@ n179.0--fourth-dimensionally-foros-0178000-n30-7-71-styling-textw91.cms-staging.
 b0b-fr-0-0-0-0-0-0-0-000-87textproduction133-94-9474.cms-staging.doctolib.com
 nelson-0-0-0-0-0-0-0-0-0-000-n175-pr000-94-94v5-95-000-78.0--fourth-dimensionally-foros-0178000-n30-0-000-n166-pr.cms-staging.doctolib.com
 0-0-0-0-0-0-0-0-000-70cas-94ng4-94-94-5.0--fourth-dimensionally-foros-0178000-n30-0-000-n166-pr.cms-staging.doctolib.com
-www.0--fourth-dimensionally-foros-0178000-n30-7-71-styling-textw91.cms-staging.doctolib.com
 0-0-0-0-0-0-0-0-0-000-n17-sp-89-facebook-ng9-94-94-68cas.0--fourth-dimensionally-foros-0178000-n30.cms-staging.doctolib.com
 b0b-fr-0-0-0-0-0-0-0-000-87textproduction133-94-9427.cms-staging.doctolib.com
 w103000.0--fourth-dimensionally-foros-0178000-n30-7-71-styling-textw91.cms-staging.doctolib.com

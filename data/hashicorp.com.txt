@@ -1,4 +1,4 @@
-*.cloud.hashicorp.com
+cloud.hashicorp.com
 releases.hashicorp.com
 checkpoint-api.hashicorp.com
 tghun.dev.releases.hashicorp.com
@@ -21,7 +21,6 @@ hashiconf.hashicorp.com
 hashiconf-eu.hashicorp.com
 via.hashicorp.com
 staging.hashicorp.com
-www.hashicorp.com
 go.hashicorp.com
 training.hashicorp.com
 learn-user-service.hashicorp.com
@@ -30,7 +29,6 @@ discuss-staging.hashicorp.com
 ir.hashicorp.com
 hashiconfeu.hashicorp.com
 vault-internal-dr.hashicorp.com
-cloud.hashicorp.com
 eula.hashicorp.com
 support-uploads.hashicorp.com
 dev-cla.hashicorp.com

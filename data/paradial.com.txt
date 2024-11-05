@@ -2,7 +2,6 @@ web.paradial.com
 www1.paradial.com
 smtp.paradial.com
 internal.paradial.com
-www.paradial.com
 mx.paradial.com
 my.paradial.com
 antispam.paradial.com
@@ -69,5 +68,4 @@ ns1.paradial.com
 autoconfig.paradial.com
 mail._domainkey.paradial.com
 git.paradial.com
-www.cloud.paradial.com
 aaa.paradial.com

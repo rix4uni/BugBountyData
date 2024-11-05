@@ -49,7 +49,7 @@ headline-production.coindesk.com
 link.dev9.coindesk.com
 link2.coindesk.com
 print.coindesk.com
-www.coinflwww.coindesk.com
+coinflwww.coindesk.com
 staging2.coindesk.com
 staging2.static.coindesk.com
 vpn.coindesk.com
@@ -57,7 +57,7 @@ dev4.coindesk.com
 dev4.api.coindesk.com
 sandbox.api.sailthru.coindesk.com
 vote.coindesk.com
-www.static.coindesk.com
+static.coindesk.com
 sandbox.coindesk.com
 chatbots.coindesk.com
 rfi-dev.coindesk.com
@@ -93,7 +93,6 @@ stateofcrypto.coindesk.com
 dev13.storybook.coindesk.com
 test.coindesk.com
 dev14.cms.coindesk.com
-static.coindesk.com
 api.payments.coindesk.com
 dev2.static.coindesk.com
 test.flest.coindesk.com
@@ -103,7 +102,7 @@ cex.coindesk.com
 jobs.coindesk.com
 link.dev6.coindesk.com
 metrics.coindesk.com
-www.events.coindesk.com
+events.coindesk.com
 storybook.coindesk.com
 link.dev12.coindesk.com
 dev16.coindesk.com
@@ -113,7 +112,6 @@ support.coindesk.com
 uat.scripts.coindesk.com
 rfi.coindesk.com
 staging.user.coindesk.com
-www.coindesk.com
 api-old.coindesk.com
 link.dev10.coindesk.com
 link.dev5.coindesk.com
@@ -145,7 +143,6 @@ sandbox.cdes.coindesk.com
 test.api.atlas.coindesk.com
 headline-sandbox.coindesk.com
 videos.coindesk.com
-www.prod.events.coindesk.com
 qa.cms.coindesk.com
 staging.users.coindesk.com
 flash.ws.coindesk.com
@@ -178,7 +175,6 @@ staging2.storybook.coindesk.com
 dev7.coindesk.com
 link.dev11.coindesk.com
 uat.script.coindesk.com
-www.vpn.coindesk.com
 uat.storybook.coindesk.com
 dev11.coindesk.com
 dev11.sattic.coindesk.com
@@ -248,7 +244,6 @@ sandbox.api.atlas.coindesk.com
 dev6.coindesk.com
 dev7.static.coindesk.com
 dev9.cms.coindesk.com
-events.coindesk.com
 deals.coindesk.com
 dev.events.api.coindesk.com
 link.dev8.coindesk.com

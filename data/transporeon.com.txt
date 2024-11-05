@@ -376,7 +376,6 @@ demo-prep-05.operations.dev.transporeon.com
 apps.transporeon.com
 jobs.transporeon.com
 mailsender11.transporeon.com
-www.transporeon.com
 citrix.transporeon.com
 adfs.officetest.transporeon.com
 mail.transporeon.com
@@ -406,7 +405,6 @@ ftp.test.transporeon.com
 carrier.test.transporeon.com
 status.transporeon.com
 xchct.test.transporeon.com
-www.old.transporeon.com
 registrationcenter.transporeon.com
 data-sync.data-blender.internal.operations.dev.transporeon.com
 417843.operations.transporeon.com
@@ -431,7 +429,6 @@ intranet-it.transporeon.com
 carrier02.transporeon.com
 eventhub03.dev.transporeon.com
 telematics.dv.transporeon.com
-www.test.transporeon.com
 wildcard.test.transporeon.com
 legal.transporeon.com
 mdm.transporeon.com
@@ -440,7 +437,6 @@ vpnulmvodafone.office.transporeon.com
 translator.internal.operations.dev.transporeon.com
 ctc.transporeon.com
 customermc.transporeon.com
-*.elastic.transporeon.com
 summit.transporeon.com
 livesend.transporeon.com
 mercareon-reporting.transporeon.com

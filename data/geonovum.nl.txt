@@ -6,9 +6,6 @@ geogedeeld.geonovum.nl
 bgt-imgeo.geonovum.nl
 portall.geonovum.nl
 apitestbed.geonovum.nl
-*.ro-standaarden.geonovum.nl
-www.geonovum.nl
-*.geonovum.nl
 beheer.geonovum.nl
 schemas.geonovum.nl
 apitestdocs.geonovum.nl
@@ -17,9 +14,7 @@ remoteaccess.geonovum.nl
 pr04demo.geonovum.nl
 vpn.geonovum.nl
 standaardbeheer.geonovum.nl
-www.standaardbeheer.geonovum.nl
 pdokforum.geonovum.nl
-www.pdokforum.geonovum.nl
 wiki.geonovum.nl
 services.geonovum.nl
 sensors.geonovum.nl
@@ -27,6 +22,5 @@ demo.geonovum.nl
 mail.geonovum.nl
 wifi.geonovum.nl
 geostandards.geonovum.nl
-www.vpn.geonovum.nl
 remote.geonovum.nl
 omgevingsplandemo.geonovum.nl

@@ -1,4 +1,3 @@
-*.palantir.com
 adfs.palantir.com
 admin.argo-test.palantir.com
 alerting-demo.sandbox.training.palantir.com
@@ -189,19 +188,6 @@ vr.palantir.com
 vsp.mi.palantir.com
 wiki.palantir.com
 wsentry.mi.palantir.com
-www.palantir.com
-www.argo.palantir.com
-www.files.palantir.com
-www.investors.palantir.com
-www.mobile-gpvpn.palantir.com
-www.mtvpn.palantir.com
-www.plgpvpn.palantir.com
-www.pltrcmg01.palantir.com
-www.pwgpvpn.palantir.com
-www.regalia.palantir.com
-www.securemail.palantir.com
-www.snax-eap.palantir.com
-www.vr.palantir.com
 api.sandbox.training.palantir.com
 sandbox.training.palantir.com
 aip.palantir.com

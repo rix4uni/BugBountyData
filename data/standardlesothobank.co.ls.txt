@@ -1,5 +1,4 @@
-*.standardlesothobank.co.ls
-*.tradeclub.standardlesothobank.co.ls
+tradeclub.standardlesothobank.co.ls
 api-gateway.standardlesothobank.co.ls
 api-gateway.sandbox.standardlesothobank.co.ls
 cache.standardlesothobank.co.ls
@@ -28,11 +27,8 @@ portal.sandbox.standardlesothobank.co.ls
 services.standardlesothobank.co.ls
 servicesuat.standardlesothobank.co.ls
 stbg.standardlesothobank.co.ls
-tradeclub.standardlesothobank.co.ls
 uat-digiaud.standardlesothobank.co.ls
 view.e.standardlesothobank.co.ls
-www.standardlesothobank.co.ls
-www.tradeclub.standardlesothobank.co.ls
 www3.standardlesothobank.co.ls
 www3.ebank.standardlesothobank.co.ls
 mta.e.standardlesothobank.co.ls

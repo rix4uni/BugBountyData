@@ -19,7 +19,6 @@ auth.dev.apexx.porthos.io
 client-generator.dev.core.porthos.io
 dev.admin-tool.oracode.porthos.io
 print.core.porthos.io
-www.porthos.io
 eiam-token-generator.qa.core.porthos.io
 crl.pki.porthos.io
 dev.apexx.porthos.io

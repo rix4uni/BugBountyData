@@ -1,5 +1,4 @@
 ws-uat-clon.olxautos.cl
-www.olxautos.cl
 origin.dealer.olxautos.cl
 origin.credpanel.olxautos.cl
 api.olxautos.cl
@@ -35,5 +34,3 @@ venta-online-qa.olxautos.cl
 signature.olxautos.cl
 api-uat.olxautos.cl
 stg.infra.olxautos.cl
-*.stg.infra.olxautos.cl
-*.olxautos.cl

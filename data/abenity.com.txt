@@ -1,5 +1,4 @@
 app3.discounts.abenity.com
-*.abenity.com
 ifps.abenity.com
 ambetter.abenity.com
 hotels.abenity.com
@@ -20,7 +19,6 @@ goodmanmfg.abenity.com
 travel.abenity.com
 cruises.abenity.com
 uptravel.abenity.com
-www.abenity.com
 clientsupport.abenity.com
 vizient.abenity.com
 staging.abenity.com
@@ -39,13 +37,9 @@ nationwide.abenity.com
 unionplus.abenity.com
 learn4life.abenity.com
 m.movies.abenity.com
-*.azure.abenity.com
 azure.abenity.com
 app2.discounts.abenity.com
 app.discounts.abenity.com
-*.flights.abenity.com
-*.staging.abenity.com
-*.links.abenity.com
 links.abenity.com
 openvpn.abenity.com
 vpn.abenity.com
@@ -53,7 +47,6 @@ ci3.abenity.com
 assets.abenity.com
 ci-build.abenity.com
 ci.abenity.com
-www.travel.abenity.com
 concierge.abenity.com
 insurance.abenity.com
 vendor.staging.abenity.com
@@ -292,7 +285,6 @@ goodhousekeeping.abenity.com
 churchill.abenity.com
 securico.abenity.com
 dtna.abenity.com
-www.ilfb.abenity.com
 domainkey.abenity.com
 acu.abenity.com
 hope.abenity.com

@@ -101,7 +101,7 @@ mi.hag.meiro.io
 mi.ml.meiro.io
 sql.ll.meiro.io
 sql.rombii.meiro.io
-www.api.bat.cdp.meiro.io
+api.bat.cdp.meiro.io
 me.kartagotours.meiro.io
 rmq.me.bat.meiro.io
 sdk.me.sld.meiro.io
@@ -130,7 +130,7 @@ reservio.meiro.io
 sql.mi.rombii.meiro.io
 stats.me.bat.meiro.io
 wsapi.cdp.retail.demo.meiro.io
-www.staging4.meiro.io
+staging4.meiro.io
 logs.mi.esplanade.meiro.io
 logs.cdp.internal.meiro.io
 cdp.ecommerce.demo.meiro.io
@@ -149,9 +149,8 @@ api.reyna.meiro.io
 api.mi.ecomm.meiro.io
 logs.cdp.learn.meiro.io
 sql.mi.meiro.io
-www.meiro.io
 mi.rombii.meiro.io
-www.docker-registry.meiro.io
+docker-registry.meiro.io
 api.mi.training.meiro.io
 cdp.megapixel.meiro.io
 logs.mi-dcc.bca.meiro.io
@@ -186,7 +185,6 @@ app.me.uem.meiro.io
 cdp.aria.meiro.io
 me.cimbniaga.meiro.io
 mi.minerra.meiro.io
-api.bat.cdp.meiro.io
 mediacorp.meiro.io
 logs.dev.meiro.io
 mi.optimics.meiro.io
@@ -202,7 +200,6 @@ mi.aria.meiro.io
 mi.reprise.meiro.io
 traefik.me.cod.meiro.io
 dashboard.me.chemist.meiro.io
-docker-registry.meiro.io
 me.cod.meiro.io
 app.me.drmax.meiro.io
 logs.cdp.retail.demo.meiro.io
@@ -262,7 +259,7 @@ cdp.drmaxpl.meiro.io
 logs.mi.training.meiro.io
 traefik.me.xl.meiro.io
 trial.meiro.io
-www.staging2.meiro.io
+staging2.meiro.io
 api.demo.meiro.io
 app.me.chemist.meiro.io
 cdp.hag.meiro.io
@@ -388,7 +385,6 @@ cdp.meiro.io
 cdp.drmax.it.meiro.io
 cdp.unipharma.meiro.io
 mi.drmaxpl.meiro.io
-staging2.meiro.io
 mi.scania.meiro.io
 logs.cdp.banking.demo.meiro.io
 api.cdp.chemist.meiro.io
@@ -426,7 +422,6 @@ mi.uem.meiro.io
 logs.mi.chemist.meiro.io
 logs.cdp.chemist.meiro.io
 logs.mi.drmax.meiro.io
-staging4.meiro.io
 api.me.xl.meiro.io
 me2.fischer.meiro.io
 api.cdp.ecomm.meiro.io

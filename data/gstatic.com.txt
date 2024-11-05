@@ -1572,7 +1572,7 @@ p2-a3hzppdmggp5a-ljh3jdzlys66koq5-if-v6exp3-v4.metric.gstatic.com
 p2-a4iyuowpyvmsc-ulle57us5vp4owir-if-v6exp3-v4.metric.gstatic.com
 encrypted-vtbn0.gstatic.com
 p2-hxgx3cxla4y22-upswlgccftjlrr4m-if-v6exp3-v4.metric.gstatic.com
-www.maps.gstatic.com
+maps.gstatic.com
 p2-a4qliijjokvoc-u4t7kfaalbw73jdh-if-v6exp3-v4.metric.gstatic.com
 p2-a55ccxhmtlfu6-fvvwt52zhtaqaflu-if-v6exp3-v4.metric.gstatic.com
 p2-as55sqkur7ko6-mlur5w4vgbm6db53-if-v6exp3-v4.metric.gstatic.com
@@ -2367,7 +2367,6 @@ p2-a2emoq6ztmpd2-yvonb6zxubf4liqo-if-v6exp3-v4.metric.gstatic.com
 p2-aeltkveogxzok-2gv3to36ieyvwnmi-if-v6exp3-v4.metric.gstatic.com
 p4-dfif4utrp7lpm-jy7ukjz6fzi733it-if-v6exp3-v4.metric.gstatic.com
 p2-fqdmpp6vidbma-46wpw4bywfey6w2y-if-v6exp3-v4.metric.gstatic.com
-maps.gstatic.com
 p2-a26vhjimpay7k-bzkdfve5gdbkbmdc-if-v6exp3-v4.metric.gstatic.com
 p2-cd2luflonkywc-yu6fhsesj5224ue7-if-v6exp3-v4.metric.gstatic.com
 p2-clpvjs3t54s2c-dae3xdkyxlr5at2a-if-v6exp3-v4.metric.gstatic.com
@@ -2444,7 +2443,6 @@ p2-ml4o37di7rtsm-mzelmsiltuzfnv3f-if-v6exp3-v4.metric.gstatic.com
 p2-a2ygu6akxa7e6-dozkeemwj6ibhuzz-if-v6exp3-v4.metric.gstatic.com
 p2-a4irtsrzj7bu4-gunnqd52xzudlgqm-if-v6exp3-v4.metric.gstatic.com
 p2-epk5gephlcwoi-njqq46wu6i5nae22-if-v6exp3-v4.metric.gstatic.com
-www.gstatic.com
 p2-aggoem456buri-2gmutexj3plhdhaq-if-v6exp3-v4.metric.gstatic.com
 p2-eomwrt5k3nq4k-m7uonndnjt42afzk-if-v6exp3-v4.metric.gstatic.com
 p2-f5maypywrc34a-xacp2ieduxyovnai-if-v6exp3-v4.metric.gstatic.com
@@ -2722,7 +2720,6 @@ p2-p22omqtqqszl4-rkcqmzi2gpygcbsh-if-v6exp3-v4.metric.gstatic.com
 p2-a52zbpemkhu36-zmdtpwuk2ahrn26p-if-v6exp3-v4.metric.gstatic.com
 p2-ad57lxg2kl7h4-nzcey4yk4eqy444f-if-v6exp3-v4.metric.gstatic.com
 p2-attnod4bs7dx6-2uyi3aabjirmt7fm-if-v6exp3-v4.metric.gstatic.com
-www.ssl.gstatic.com
 p2-fvrietnvmwvck-i7zfl3iyg3pbkdcf-if-v6exp3-v4.metric.gstatic.com
 p2-mra6jc2omp7bw-gv6g2nly2uutml4q-if-v6exp3-v4.metric.gstatic.com
 p2-al4sj2rbfsha4-nruaku7osxv4la3d-if-v6exp3-v4.metric.gstatic.com
@@ -3360,7 +3357,6 @@ p2-a2icdrq35qv5q-o2tnfl2a52527cx5-if-v6exp3-v4.metric.gstatic.com
 p2-dw7vb2isk4yce-ouan7ktsuepdncgd-if-v6exp3-v4.metric.gstatic.com
 p2-blqjrkfjsk454-vkrlzfsfwb5rswlr-if-v6exp3-v4.metric.gstatic.com
 p2-jmyad5g4bfycq-4z7khjosezus4kby-if-v6exp3-v4.metric.gstatic.com
-www.fonts.gstatic.com
 p2-adsp7te5nc4hy-mydvbc2puaxkkwx7-if-v6exp3-v4.metric.gstatic.com
 p2-bc6rprwm4qxfq-d2n73h5dvwf2wpna-if-v6exp3-v4.metric.gstatic.com
 p2-a4lohvmxhib5a-do5kly5zlxsetlfx-if-v6exp3-v4.metric.gstatic.com
@@ -3414,22 +3410,6 @@ p2-nln7xjtz7gmji-nhlpowrokxbsiwa4-if-v6exp3-v4.metric.gstatic.com
 p2-acgaxwrf4otmy-orunfp4eccbp4jbf-if-v6exp3-v4.metric.gstatic.com
 p2-d2q4dxkhjzlfq-cpxagzndbppmvyyu-if-v6exp3-v4.metric.gstatic.com
 p2-a547pagyclrau-miz7pvur6h4wx6fu-if-v6exp3-v4.metric.gstatic.com
-*.unicast.metric.gstatic.com
-*.unicast-stb.metric.gstatic.com
-*.unicast2.metric.gstatic.com
-*.unicast2-stb.metric.gstatic.com
-*.stbcast5.metric.gstatic.com
-*.stbcast5-stb.metric.gstatic.com
-*.v4.metric.gstatic.com
-*.ds.metric.gstatic.com
-*.stbcast.metric.gstatic.com
-*.stbcast-stb.metric.gstatic.com
-*.stbcast2.metric.gstatic.com
-*.stbcast2-stb.metric.gstatic.com
-*.stbcast3.metric.gstatic.com
-*.stbcast3-stb.metric.gstatic.com
-*.gstatic.com
-*.metric.gstatic.com
 9lrfsi-dnsotls-ds.metric.gstatic.com
 ienqzz-dnsotls-ds.metric.gstatic.com
 rrvjel-dnsotls-ds.metric.gstatic.com

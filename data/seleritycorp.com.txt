@@ -10,7 +10,7 @@ content-alt.prod.seleritycorp.com
 context-api-etrade.prod.seleritycorp.com
 context-api.prod.seleritycorp.com
 icinga.seleritycorp.com
-www.conifer-alt.seleritycorp.com
+conifer-alt.seleritycorp.com
 buzzer.prod.seleritycorp.com
 gerrit.prod.seleritycorp.com
 grafana.prod.seleritycorp.com
@@ -40,7 +40,7 @@ gitweb.seleritycorp.com
 microtopics.seleritycorp.com
 secure.prod.seleritycorp.com
 selerityhelp.seleritycorp.com
-www.content.seleritycorp.com
+content.seleritycorp.com
 cds.test.seleritycorp.com
 embargo.seleritycorp.com
 seleritysync.seleritycorp.com
@@ -81,8 +81,6 @@ tabloid.seleritycorp.com
 context-data-service-test.seleritycorp.com
 piwik.prod.seleritycorp.com
 rundeck.seleritycorp.com
-www.conifer-test.seleritycorp.com
-www.content-alt.seleritycorp.com
 context-api.seleritycorp.com
 content.prod.seleritycorp.com
 mail-relay.seleritycorp.com
@@ -99,7 +97,6 @@ graphite.seleritycorp.com
 content-test.seleritycorp.com
 rds.seleritycorp.com
 dpc.seleritycorp.com
-conifer-alt.seleritycorp.com
 ec2vpcet00.ci-ec2v.seleritycorp.com
 ex4zhndp01.seleritycorp.com
 gerrit.seleritycorp.com
@@ -113,13 +110,11 @@ dpc.prod.seleritycorp.com
 ec2vconp0-wrr-hc.seleritycorp.com
 ex1zinfp01.seleritycorp.com
 reference-data-service-test.test.seleritycorp.com
-www.seleritycorp.com
 context.seleritycorp.com
 cds.prod.seleritycorp.com
 content-alt-internal.seleritycorp.com
 context-test.seleritycorp.com
 context-api-alt.prod.seleritycorp.com
-www.rted-api.seleritycorp.com
 pce-demo.seleritycorp.com
 rds-test.seleritycorp.com
 rds-analyst-test.seleritycorp.com
@@ -131,7 +126,7 @@ ec2redp1-l-hc.seleritycorp.com
 piwik.seleritycorp.com
 piwik-sc.seleritycorp.com
 icinga.prod.seleritycorp.com
-www.companyblog.seleritycorp.com
+companyblog.seleritycorp.com
 conifer-etrade.seleritycorp.com
 content-internal.prod.seleritycorp.com
 dds.seleritycorp.com
@@ -140,13 +135,10 @@ pcqs.seleritycorp.com
 sc-icons.seleritycorp.com
 content-alt-internal.prod.seleritycorp.com
 tabby.seleritycorp.com
-www.labs.seleritycorp.com
 context-sa.seleritycorp.com
 disambiguation-data-service-test.seleritycorp.com
 ec2secp-l-hc.seleritycorp.com
 com.seleritycorp.com
-www.context.seleritycorp.com
-companyblog.seleritycorp.com
 ec2vlabp01.seleritycorp.com
 embargo.prod.seleritycorp.com
 grafana.seleritycorp.com
@@ -158,7 +150,6 @@ cs.seleritycorp.com
 ec2nwr0-l-hc.seleritycorp.com
 event.seleritycorp.com
 sh.seleritycorp.com
-content.seleritycorp.com
 help.seleritycorp.com
 ec2conp1-l-hc.seleritycorp.com
 ec2conp2-l-hc.seleritycorp.com
@@ -172,7 +163,6 @@ context.prod.seleritycorp.com
 dds.prod.seleritycorp.com
 ec2osect01.ci-ec2o.seleritycorp.com
 rds.test.seleritycorp.com
-www.content-test.seleritycorp.com
 narwhalrouter.prod.seleritycorp.com
 pcqs.prod.seleritycorp.com
 alfie.seleritycorp.com
@@ -181,9 +171,7 @@ ec2vrwcp01.seleritycorp.com
 embargo1.seleritycorp.com
 help.prod.seleritycorp.com
 jenkins1.prod.seleritycorp.com
-www.sgi.seleritycorp.com
 context-test.test.seleritycorp.com
 document-proxy-test.seleritycorp.com
 ec2redt-l-hc.seleritycorp.com
 secure-test.seleritycorp.com
-www.conifer.seleritycorp.com

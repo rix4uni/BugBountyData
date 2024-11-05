@@ -1,5 +1,4 @@
-*.porkbun.com
-*.ns.porkbun.com
+ns.porkbun.com
 a.porkbun.com
 admin.porkbun.com
 ahzols.porkbun.com
@@ -199,7 +198,6 @@ news.porkbun.com
 nill.porkbun.com
 norwich.porkbun.com
 nouongroup.porkbun.com
-ns.porkbun.com
 ns.curitiba.porkbun.com
 ns.fortaleza.porkbun.com
 ns.maceio.porkbun.com
@@ -319,12 +317,7 @@ wp.porkbun.com
 wp1.porkbun.com
 wpdev.porkbun.com
 ww1.porkbun.com
-www.porkbun.com
-www.cp1.porkbun.com
-www.cp1parked.porkbun.com
-www.cp2.porkbun.com
-www.curitiba.porkbun.com
-www.maceio.maceio.porkbun.com
+maceio.maceio.porkbun.com
 www1.porkbun.com
 www2.porkbun.com
 xenophon.porkbun.com
@@ -1375,7 +1368,6 @@ its-corcraft.dixie.porkbun.com
 its-opengovernment.dixie.porkbun.com
 ivr-support-gateway-uat.dixie.porkbun.com
 iws01dbo001a.dixie.porkbun.com
-iww.dixie.porkbun.com
 j1onn0hweq.dixie.porkbun.com
 j94neocovidev.dixie.porkbun.com
 jabberimp.dixie.porkbun.com
@@ -1845,7 +1837,6 @@ pv11p02sa-d13.dixie.porkbun.com
 pv11p03sa-q15.dixie.porkbun.com
 pvh-fccn.dixie.porkbun.com
 pvt-pulsar-azure-westeurope.dixie.porkbun.com
-pww.dixie.porkbun.com
 pxp25.dixie.porkbun.com
 pxp36.dixie.porkbun.com
 q04.dixie.porkbun.com
@@ -2368,7 +2359,6 @@ vpnapi.macio.porkbun.com
 vpnassetslegacymyaws.smtp.porkbun.com
 vpnusers-config-extranet-database-officebackups-domain.dixie.porkbun.com
 vsaaberdeen.dixie.porkbun.com
-vww.dixie.porkbun.com
 vx62.dixie.porkbun.com
 w8.dixie.porkbun.com
 waip1.dixie.porkbun.com
@@ -2662,15 +2652,11 @@ zy-staging3.dixie.porkbun.com
 963-5-5.dixie.porkbun.com
 986s.dixie.porkbun.com
 panel.porkbun.com
-www.maceio.porkbun.com
-www.fortaleza.porkbun.com
 as14618curitiba.porkbun.com
 addressproviderasnfwd1.porkbun.com
 stage.porkbun.com
 1.porkbun.com
 below.porkbun.com
-www.pop.porkbun.com
-www.admin.porkbun.com
 checkip.porkbun.com
 api-ipv4.porkbun.com
 71bxkd4usm.porkbun.com

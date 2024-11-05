@@ -5,13 +5,11 @@ cgedd.asana.plus
 reporting-api.integrations.asana.plus
 forms.asana.plus
 forms-server.asana.plus
-www.cgedd.asana.plus
 acc.integrations.asana.plus
 pc901.integrations-auth.asana.plus
 outlook2.asana.plus
 integrations-auth.asana.plus
 gdrive.asana.plus
-www.asana.plus
 outlook-stag.asana.plus
 acc-beta.integrations.asana.plus
 beta.asana.plus
@@ -69,10 +67,6 @@ jira-dc.integrations.asana.plus
 auth.integrations-auth.asana.plus
 jira-api-allowedlist.integrations.asana.plus
 jira-api-allowedlist-qa.integrations.asana.plus
-*.integrations-auth.asana.plus
-*.integrations.asana.plus
-*.asana.plus
-*.beta.asana.plus
 fleetbadgeaccess-prod1.integrations.asana.plus
 w27p.integrations.asana.plus
 web-europe-uploads-acceptdockerintra-backups-www-test.integrations.asana.plus
@@ -940,7 +934,6 @@ cgedd-github-cust103-situat.integrations-auth.asana.plus
 hinet-000-667-16.integrations-auth.asana.plus
 hinet-03-fundamentals-iiatt-s28716www.integrations-auth.asana.plus
 hinet-08jsonauthjira-internaltest.integrations-auth.asana.plus
-www.config.integrations-auth.asana.plus
 hinet-0001-add-caldate-and-caltime-auth-emea-internal.integrations-auth.asana.plus
 hinet-05-11-2014-auth-emea-sit.integrations-auth.asana.plus
 hinet-0-global-bio-uat.integrations-auth.asana.plus

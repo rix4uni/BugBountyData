@@ -1,10 +1,8 @@
 cdn.hartmannindustries.com
 ranking.marketing.hartmannindustries.com
-www.hartmannindustries.com
 nw23.hartmannindustries.com
 mta-sts.hartmannindustries.com
-*.hartmannindustries.com
-*.testing.hartmannindustries.com
+testing.hartmannindustries.com
 unifi.ubnt.infra.hartmannindustries.com
 unifi.infra.hartmannindustries.com
 monitoring.infra.hartmannindustries.com

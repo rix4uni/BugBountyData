@@ -333,12 +333,7 @@ pp.firstapi.education.govt.nz
 zero.education.govt.nz
 mag.education.govt.nz
 nsi.compliance.interface.education.govt.nz
-*.pp.firstapi.education.govt.nz
-*.cpinfohub.education.govt.nz
-*.ppinfohub.education.govt.nz
-www.education.govt.nz
 online-services.education.govt.nz
-www.consultation.education.govt.nz
 ca-assets.dataplatform.education.govt.nz
 teharatau-oe.education.govt.nz
 assets.workforce.education.govt.nz
@@ -361,9 +356,8 @@ edsecbrokerext.education.govt.nz
 brand.education.govt.nz
 app.forms.education.govt.nz
 myako.education.govt.nz
-www.partnershipschools.education.govt.nz
-api.k8s.terito.education.govt.nz
 partnershipschools.education.govt.nz
+api.k8s.terito.education.govt.nz
 proxy-endpoint.education.govt.nz
 cloudflare-members-report.education.govt.nz
 assets.preview.education.govt.nz

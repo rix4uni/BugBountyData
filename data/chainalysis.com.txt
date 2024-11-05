@@ -36,7 +36,6 @@ thibault-bch.chainalysis.com
 felix.chainalysis.com
 janus.chainalysis.com
 oisin.chainalysis.com
-www.chainalysis.com
 shell.chainalysis.com
 gultopp.chainalysis.com
 status.chainalysis.com
@@ -188,10 +187,8 @@ riesling-public-api.reactor-beta.e.chainalysis.com
 riesling-api.reactor-beta.e.chainalysis.com
 riesling-public-api.reactor-dev.e.chainalysis.com
 riesling-api.reactor-dev.e.chainalysis.com
-*.kyt-dev.e.chainalysis.com
 kyt-dev.e.chainalysis.com
 download.pac-dev.e.chainalysis.com
 us-download-internal.pac-dev.e.chainalysis.com
 dev.chainalysis.com
-*.dev.chainalysis.com
 frspofforth.chainalysis.com

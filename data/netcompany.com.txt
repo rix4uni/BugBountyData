@@ -20,7 +20,6 @@ dsb-dev01.pulse.netcompany.com
 puls-dev01.pulse.netcompany.com
 timereg.netcompany.com
 events.netcompany.com
-www.netcompany.com
 demo01.pulse.netcompany.com
 demo01-tools.pulse.netcompany.com
 leonardo.support.netcompany.com
@@ -52,7 +51,6 @@ dsb-dev-monitoring.pulse.netcompany.com
 ves-dev01.pulse.netcompany.com
 project.netcompany.com
 pof-prod01.pulse.netcompany.com
-*.registry.pulse.netcompany.com
 cortex.netcompany.com
 goto-uk.netcompany.com
 sag-demo.netcompany.com
@@ -77,8 +75,4 @@ sag-sof.netcompany.com
 sag-dev.netcompany.com
 lyncdiscover.netcompany.com
 kub.netcompany.com
-www.kub.netcompany.com
 gamechanger.netcompany.com
-*.pof-dev-monitoring.pulse.netcompany.com
-*.pof-test01.pulse.netcompany.com
-*.pof-dev01.pulse.netcompany.com

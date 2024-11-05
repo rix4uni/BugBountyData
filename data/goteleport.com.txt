@@ -1,4 +1,3 @@
-*.goteleport.com
 _dmarc.mx.goteleport.com
 blog.goteleport.com
 community.goteleport.com
@@ -21,7 +20,6 @@ status.goteleport.com
 support.goteleport.com
 trust.goteleport.com
 url7864.goteleport.com
-www.goteleport.com
 a.ns.goteleport.com
 b.ns.goteleport.com
 dashboard.goteleport.com
@@ -100,5 +98,4 @@ proxy1.goteleport.com
 proxy2.goteleport.com
 domain.goteleport.com
 domain-controller.domain.goteleport.com
-*.docusaurus.goteleport.com
 docusaurus.goteleport.com

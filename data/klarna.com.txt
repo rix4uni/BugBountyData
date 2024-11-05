@@ -558,7 +558,7 @@ test26.kcmatic.klarna.com
 vpn-tsic.klarna.com
 klarna-hq-guests.klarna.com
 topup.klarna.com
-www.thecheckout.klarna.com
+thecheckout.klarna.com
 api.kosma.playground.klarna.com
 dc-api-ap.klarna.com
 info.klarna.com
@@ -580,8 +580,6 @@ ads.klarna.com
 login.playground.klarna.com
 issuer.playground.klarna.com
 docs.openbanking.klarna.com
-www.gsuite.klarna.com
-www.klarna.com
 download.virtual-shopping.klarna.com
 il-stripe-evo.playground.klarna.com
 _amazonses.klarna.com
@@ -734,7 +732,6 @@ favoritethings.klarna.com
 185-133-70-163.v4.byoip.klarna.com
 185-133-71-210.v4.byoip.klarna.com
 192-71-254-243.v4.byoip.klarna.com
-www.banktransfer.klarna.com
 192-71-254-147.v4.byoip.klarna.com
 185-133-71-13.v4.byoip.klarna.com
 185-133-69-251.v4.byoip.klarna.com
@@ -881,7 +878,6 @@ admin.creator.klarna.com
 185-133-69-211.v4.byoip.klarna.com
 192-71-254-215.v4.byoip.klarna.com
 192-71-255-68.v4.byoip.klarna.com
-www.nonprod.klarna.com
 smtpoutz18.klarna.com
 185-133-70-1.v4.byoip.klarna.com
 192-71-255-137.v4.byoip.klarna.com
@@ -977,7 +973,6 @@ il-stripe.playground.klarna.com
 192-176-43-124.v4.byoip.klarna.com
 vs-websockets.staging.klarna.com
 185-133-70-43.v4.byoip.klarna.com
-www.wavy.klarna.com
 193-104-32-30.v4.byoip.klarna.com
 eu-dashboard-env1.virtual-shopping.nonprod.klarna.com
 185-133-70-134.v4.byoip.klarna.com
@@ -1251,7 +1246,6 @@ trips.alpha.klarna.com
 185-133-68-130.v4.byoip.klarna.com
 192-71-255-123.v4.byoip.klarna.com
 193-104-32-148.v4.byoip.klarna.com
-www.topup.playground.klarna.com
 eu-dashboard.virtual-shopping.klarna.com
 192-71-254-46.v4.byoip.klarna.com
 185-133-70-197.v4.byoip.klarna.com
@@ -1422,7 +1416,6 @@ vs-websockets.nonprod.klarna.com
 kww-bff.branch.nonprod.klarna.com
 mxz7.klarna.com
 185-133-69-136.v4.byoip.klarna.com
-www.buy.playground.klarna.com
 192-71-254-104.v4.byoip.klarna.com
 192-71-254-189.v4.byoip.klarna.com
 193-104-32-45.v4.byoip.klarna.com
@@ -1528,7 +1521,6 @@ media.shoppable-video.klarna.com
 192-71-254-134.v4.byoip.klarna.com
 193-104-32-146.v4.byoip.klarna.com
 185-133-71-35.v4.byoip.klarna.com
-www.staging.admin.creator.klarna.com
 193-104-32-164.v4.byoip.klarna.com
 185-133-70-221.v4.byoip.klarna.com
 192-71-254-165.v4.byoip.klarna.com
@@ -1702,7 +1694,6 @@ bastion-staging.nonprod.klarna.com
 il-ppp.playground.klarna.com
 185-133-68-193.v4.byoip.klarna.com
 192-176-43-150.v4.byoip.klarna.com
-www.engineering.klarna.com
 185-133-71-100.v4.byoip.klarna.com
 185-133-71-236.v4.byoip.klarna.com
 192-71-254-31.v4.byoip.klarna.com
@@ -1823,7 +1814,6 @@ o4306.abmail.e.klarna.com
 192-71-255-198.v4.byoip.klarna.com
 185-133-69-241.v4.byoip.klarna.com
 185-133-68-0.v4.byoip.klarna.com
-www.topup.klarna.com
 192-176-43-23.v4.byoip.klarna.com
 192-71-255-19.v4.byoip.klarna.com
 192-71-254-206.v4.byoip.klarna.com
@@ -1972,7 +1962,6 @@ retailer-product-feed-qa.virtual-shopping.nonprod.klarna.com
 185-133-71-9.v4.byoip.klarna.com
 192-71-255-65.v4.byoip.klarna.com
 193-104-32-163.v4.byoip.klarna.com
-www.buy.klarna.com
 192-71-254-149.v4.byoip.klarna.com
 192-176-43-64.v4.byoip.klarna.com
 playground.openbanking.klarna.com
@@ -2022,7 +2011,7 @@ restapi-sea.testdrive.klarna.com
 185-133-69-104.v4.byoip.klarna.com
 192-176-43-252.v4.byoip.klarna.com
 185-133-68-181.v4.byoip.klarna.com
-www.creator.klarna.com
+creator.klarna.com
 192-71-254-70.v4.byoip.klarna.com
 185-133-69-197.v4.byoip.klarna.com
 192-71-254-24.v4.byoip.klarna.com
@@ -2042,7 +2031,6 @@ plimus.matrixgamlayground.eu.portal.klarna.com
 192-71-255-8.v4.byoip.klarna.com
 us-insights.virtual-shopping.klarna.com
 192-71-255-165.v4.byoip.klarna.com
-www.js.playground.klarna.com
 185-133-68-250.v4.byoip.klarna.com
 193-104-32-7.v4.byoip.klarna.com
 192-71-254-93.v4.byoip.klarna.com
@@ -2097,7 +2085,6 @@ o4307.abmail.e.klarna.com
 185-133-68-132.v4.byoip.klarna.com
 192-176-43-80.v4.byoip.klarna.com
 185-133-71-167.v4.byoip.klarna.com
-creator.klarna.com
 192-71-254-108.v4.byoip.klarna.com
 185-133-70-57.v4.byoip.klarna.com
 193-104-32-80.v4.byoip.klarna.com
@@ -2294,7 +2281,6 @@ screensharing-api-us.nonprod.klarna.com
 kep-tf-provider.nonprod.klarna.com
 185-133-70-133.v4.byoip.klarna.com
 192-71-255-108.v4.byoip.klarna.com
-www.performance.klarna.com
 193-104-32-193.v4.byoip.klarna.com
 192-71-254-137.v4.byoip.klarna.com
 193-104-32-91.v4.byoip.klarna.com
@@ -2551,7 +2537,6 @@ owp.nonprod.klarna.com
 screensharing-site-us.nonprod.klarna.com
 193-104-32-177.v4.byoip.klarna.com
 192-71-255-109.v4.byoip.klarna.com
-thecheckout.klarna.com
 193-104-32-127.v4.byoip.klarna.com
 185-133-70-6.v4.byoip.klarna.com
 192-176-43-141.v4.byoip.klarna.com
@@ -2568,8 +2553,6 @@ ctf.klarna.com
 ctf.nonprod.klarna.com
 drive-to-store-ads.klarna.com
 klarnacom-preview.tagmanager.klarna.com
-kww.klarna.com
-kww.nonprod.klarna.com
 merchant-help.creator.klarna.com
 merchantportal-preview.tagmanager.klarna.com
 no-credit-registry-staging.nonprod.klarna.com
@@ -2596,8 +2579,3 @@ staging-influencer-shopify.nonprod.klarna.com
 staging.myshop.klarna.com
 us-insights-qa.virtual-shopping.nonprod.klarna.com
 us.mail.klarna.com
-www.dc-api-ap.klarna.com
-www.facetoface.klarna.com
-www.facetoface.playground.klarna.com
-www.preview.klarna.com
-www.preview.performance.klarna.com

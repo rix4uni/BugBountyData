@@ -93,7 +93,6 @@ log1.finn.no
 alloctest7.pg.staging.finn.no
 achievement.pg.prod.finn.no
 hjemmehos.finn.no
-www.finn.no
 forbruker.pg.toripg.rc.nmp.finn.no
 dashboard.finn.no
 alloctest5.pg.staging.finn.no
@@ -838,7 +837,6 @@ cmt.pg.prod.finn.no
 sharedfavorites-repl.pg.dev.finn.no
 sharedfavorites.pg.dev.finn.no
 alloctest9-repl.pg.staging.finn.no
-www.naringstorget.finn.no
 backstage.finn.no
 pg-blocket-feedback-repl.pg.dev.finn.no
 pg-blocket-feedback.pg.dev.finn.no
@@ -908,7 +906,6 @@ mobility-pro-ad-reader.pg.dev.finn.no
 mobility-pro-ad-reader-repl.pg.dev.finn.no
 mobility-pro-ad-reader.pg.prod.finn.no
 mobility-pro-ad-reader-repl.pg.prod.finn.no
-*.svc.staging.finn.no
 svc.staging.finn.no
 re-valuation-tool.pg.dev.finn.no
 re-valuation-tool-repl.pg.dev.finn.no

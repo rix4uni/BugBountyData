@@ -1,6 +1,5 @@
 apps06-b7-006-a.profsvcs.ellucian.com
 previewlogin.ellucian.com
-www.ellucian.com
 appstc01-hyland21.tenant.ellucian.com
 clientapps.ellucian.com
 appsesm01-nelnet21.tenant.ellucian.com
@@ -117,8 +116,8 @@ o134246.ellucian.com
 slctlc15.ellucian.com
 w177219.ellucian.com
 smtp-relay-tmp.ellucian.com
-www.engage.webservices.ellucian.com
-www.d7.drupal.webservices.ellucian.com
+engage.webservices.ellucian.com
+d7.drupal.webservices.ellucian.com
 m210042.ellucian.com
 m210057.ellucian.com
 m220178.ellucian.com
@@ -133,7 +132,7 @@ unesco-xe.ellucian.com
 m220079.ellucian.com
 m220253.ellucian.com
 udctc081.ellucian.com
-www.rxwdissm001.ellucian.com
+rxwdissm001.ellucian.com
 udcdgen4.ellucian.com
 w177135.ellucian.com
 m201094.ellucian.com
@@ -172,7 +171,7 @@ m215090.ellucian.com
 m220213.ellucian.com
 malatcw04.ellucian.com
 o134140.ellucian.com
-www.bigfix.ellucian.com
+bigfix.ellucian.com
 m215078.ellucian.com
 m215251.ellucian.com
 maldmz-sw4-dc2.ellucian.com
@@ -197,7 +196,7 @@ maludcvm2.ellucian.com
 sctmnt19old.ellucian.com
 udclumsvc02.ellucian.com
 udctc173.ellucian.com
-www.ise.ellucian.com
+ise.ellucian.com
 apps03pa.conf.ellucian.com
 collaboration.ellucian.com
 m012084.ellucian.com
@@ -267,7 +266,6 @@ w177040.ellucian.com
 w177192.ellucian.com
 ws-drupal.ellucian.com
 o134183.ellucian.com
-bigfix.ellucian.com
 m013253.ellucian.com
 m215111.ellucian.com
 m220044.ellucian.com
@@ -377,7 +375,7 @@ sls25.ellucian.com
 tafe-wkflow.ellucian.com
 udcdvm51.ellucian.com
 unitedkingdom.ellucian.com
-www.mmg.webservices.ellucian.com
+mmg.webservices.ellucian.com
 m215236.ellucian.com
 m220071.ellucian.com
 mallacdm14.ellucian.com
@@ -403,7 +401,7 @@ m220169.ellucian.com
 rocdevi2.ellucian.com
 udcdesx2.ellucian.com
 udctc222.ellucian.com
-www.surveyor.webservices.ellucian.com
+surveyor.webservices.ellucian.com
 design.ellucian.com
 m220199.ellucian.com
 malsls8.ellucian.com
@@ -414,7 +412,7 @@ o134227.ellucian.com
 udcdvm31.ellucian.com
 w177215.ellucian.com
 smtp-relay.ellucian.com
-www.webservices.ellucian.com
+webservices.ellucian.com
 intldemocas.ellucian.com
 malsapweb2.ellucian.com
 fm2.ellucian.com
@@ -460,7 +458,7 @@ salesloft.ellucian.com
 w174127.ellucian.com
 w177033.ellucian.com
 web6.ellucian.com
-www.appserv101.ellucian.com
+appserv101.ellucian.com
 commons2a.ellucian.com
 elivemacmob12.ellucian.com
 o134083.ellucian.com
@@ -571,12 +569,11 @@ udctc008.ellucian.com
 m215223.ellucian.com
 malsurvey1.ellucian.com
 w177223.ellucian.com
-www.iadjenkins.ellucian.com
+iadjenkins.ellucian.com
 testcic.ellucian.com
 ac-db.ellucian.com
 udctc029.ellucian.com
 udctc053.ellucian.com
-www.peng.datadog.automation.ellucian.com
 m215008.ellucian.com
 shuttle.webservices.ellucian.com
 udclumsvc05.ellucian.com
@@ -699,7 +696,7 @@ mail01.learn.ellucian.com
 jira-test.ellucian.com
 rocdevu2.ellucian.com
 slctesti74.ellucian.com
-www.academytest.ellucian.com
+academytest.ellucian.com
 m215011.ellucian.com
 m215066.ellucian.com
 m215108.ellucian.com
@@ -735,14 +732,13 @@ cloud.ellucian.com
 dev-02859.ellucian.com
 m220188.ellucian.com
 m220242.ellucian.com
-www.careers.ellucian.com
+careers.ellucian.com
 coll18csgtestach.ellucian.com
 autodiscover.ellucian.com
 m220184.ellucian.com
 udctc193.ellucian.com
 w177075.ellucian.com
 webs13.ellucian.com
-www.dc10-fmc-107.ellucian.com
 m215067.ellucian.com
 m220013.ellucian.com
 malsls17.ellucian.com
@@ -755,7 +751,7 @@ w177138.ellucian.com
 vpn-us-east-1.ellucian.com
 udctc068.ellucian.com
 udctc207.ellucian.com
-www.securelink.ellucian.com
+securelink.ellucian.com
 m215208.ellucian.com
 sctmnot7.ellucian.com
 edocs-private.ellucian.com
@@ -821,7 +817,7 @@ m220084.ellucian.com
 m215105.ellucian.com
 rb-db-1009994.banner.ellucian.com
 udctc006.ellucian.com
-www.trainingtest.ellucian.com
+trainingtest.ellucian.com
 m220064.ellucian.com
 m220122.ellucian.com
 o134102.ellucian.com
@@ -886,7 +882,6 @@ slc209072.ellucian.com
 udctc212.ellucian.com
 w174064.ellucian.com
 w174082.ellucian.com
-academytest.ellucian.com
 m215115.ellucian.com
 o134036.ellucian.com
 o134038.ellucian.com
@@ -910,7 +905,6 @@ m220220.ellucian.com
 udctc018.ellucian.com
 udctc197.ellucian.com
 w177179.ellucian.com
-surveyor.webservices.ellucian.com
 training.ellucian.com
 m025009.ellucian.com
 m215162.ellucian.com
@@ -1038,7 +1032,6 @@ sctmsun5.ellucian.com
 udcdgen2.ellucian.com
 udcdvm21.ellucian.com
 w177168.ellucian.com
-www.drupal.webservices.ellucian.com
 m218115.ellucian.com
 demo1.cbe.ellucian.com
 m220228.ellucian.com
@@ -1163,7 +1156,6 @@ m027010.ellucian.com
 udclumsvc14.ellucian.com
 w177188.ellucian.com
 w177203.ellucian.com
-www.malaln41.ellucian.com
 w177251.ellucian.com
 vpn-us-west-1.ellucian.com
 m215002.ellucian.com
@@ -1247,7 +1239,6 @@ grr.ellucian.com
 w177140.ellucian.com
 m012175.ellucian.com
 malatcs01.ellucian.com
-mmg.webservices.ellucian.com
 slc209085.ellucian.com
 udcdvm58.ellucian.com
 udctc218.ellucian.com
@@ -1259,7 +1250,6 @@ m220020.ellucian.com
 m220130.ellucian.com
 sls2.ellucian.com
 w177122.ellucian.com
-www.cvrmnagiosxi002.ellucian.com
 ac-xe.ellucian.com
 m012128.ellucian.com
 m210006.ellucian.com
@@ -1291,7 +1281,6 @@ maltemdmzrly1.ellucian.com
 udctc217.ellucian.com
 w177161.ellucian.com
 w177207.ellucian.com
-www.techmanudevhost.ellucian.com
 sls49.ellucian.com
 m215253.ellucian.com
 sctmnot4.ellucian.com
@@ -1344,7 +1333,7 @@ m220077.ellucian.com
 mansame1.ellucian.com
 udctc060.ellucian.com
 w177147.ellucian.com
-www.d8.drupal.webservices.ellucian.com
+d8.drupal.webservices.ellucian.com
 m215154.ellucian.com
 m215233.ellucian.com
 rb-esm-10096233.banner.ellucian.com
@@ -1387,7 +1376,6 @@ o134193.ellucian.com
 udcdxtn2.ellucian.com
 udctc250.ellucian.com
 udctc089.ellucian.com
-appserv101.ellucian.com
 lucitest.ellucian.com
 m012067.ellucian.com
 m215038.ellucian.com
@@ -1398,7 +1386,7 @@ w177036.ellucian.com
 w177090.ellucian.com
 m215089.ellucian.com
 slctestx3.ellucian.com
-www.iadsan002.ellucian.com
+iadsan002.ellucian.com
 elivemacmob04.ellucian.com
 inbe700.ellucian.com
 malsms2k3.ellucian.com
@@ -1445,7 +1433,6 @@ o134210.ellucian.com
 sls27.ellucian.com
 sls9.ellucian.com
 ssosandbox.ellucian.com
-www.officeqa.ellucian.com
 m215083.ellucian.com
 m215131.ellucian.com
 o134037.ellucian.com
@@ -1474,7 +1461,7 @@ udctc130.ellucian.com
 udctc134.ellucian.com
 w177023.ellucian.com
 w177097.ellucian.com
-www.rivier.webservices.ellucian.com
+rivier.webservices.ellucian.com
 m210030.ellucian.com
 w177062.ellucian.com
 m220055.ellucian.com
@@ -1517,7 +1504,6 @@ udctc056.ellucian.com
 w177146.ellucian.com
 webmail.ellucian.com
 vpn-us-north-2.ellucian.com
-trainingtest.ellucian.com
 dc10-ise.ellucian.com
 m220140.ellucian.com
 maludciam3.ellucian.com
@@ -1532,7 +1518,7 @@ malatcs09.ellucian.com
 o134254.ellucian.com
 vpn-us-east-2.ellucian.com
 w177013.ellucian.com
-www.avw16pgms001.ellucian.com
+avw16pgms001.ellucian.com
 m012082.ellucian.com
 udcdvm65.ellucian.com
 udctc019.ellucian.com
@@ -1542,7 +1528,6 @@ m012031.ellucian.com
 m215086.ellucian.com
 m215171.ellucian.com
 m220162.ellucian.com
-d7.drupal.webservices.ellucian.com
 mallacdm10.ellucian.com
 m215098.ellucian.com
 torbsc1.ellucian.com
@@ -1552,7 +1537,6 @@ waltrain.ellucian.com
 mobiledev5.ellucian.com
 smtp-relay1-tmp.ellucian.com
 webs22.ellucian.com
-careers.ellucian.com
 m220217.ellucian.com
 m220229.ellucian.com
 rocoram2.ellucian.com
@@ -1561,7 +1545,6 @@ w177230.ellucian.com
 mal-emc-relay-1.ellucian.com
 udcdvm50.ellucian.com
 udctc140.ellucian.com
-avw16pgms001.ellucian.com
 brainstorm.ellucian.com
 slc209012.ellucian.com
 m002173.ellucian.com
@@ -1593,7 +1576,7 @@ sctmssnt3.ellucian.com
 udcdlum4.ellucian.com
 udctc233.ellucian.com
 w184.z064220026.nyc-ny38.ellucian.com
-www.cvwpnps001.ellucian.com
+cvwpnps001.ellucian.com
 csm.ellucian.com
 m220210.ellucian.com
 o134220.ellucian.com
@@ -1608,7 +1591,6 @@ o134137.ellucian.com
 sls42.ellucian.com
 w177159.ellucian.com
 m215074.ellucian.com
-ise.ellucian.com
 maitbsc1.ellucian.com
 udclumsvc17.ellucian.com
 m215084.ellucian.com
@@ -1629,7 +1611,6 @@ slctlc14.ellucian.com
 m012062.ellucian.com
 maltemdmzrly8.ellucian.com
 o134098.ellucian.com
-www.training.ellucian.com
 w177158.ellucian.com
 elluciancrm.webservices.ellucian.com
 m210055.ellucian.com
@@ -1674,7 +1655,6 @@ o134004.ellucian.com
 sls29.ellucian.com
 udctc219.ellucian.com
 w174085.ellucian.com
-www.xe.ellucian.com
 bounce.ellucian.com
 m215144.ellucian.com
 o134139.ellucian.com
@@ -1711,11 +1691,10 @@ m220104.ellucian.com
 m220164.ellucian.com
 o134050.ellucian.com
 udcs9db1.ellucian.com
-www.malsipgw1.ellucian.com
+malsipgw1.ellucian.com
 m220151.ellucian.com
 malbfdmzrly1.ellucian.com
 malmod5.ellucian.com
-securelink.ellucian.com
 camftp1.ellucian.com
 intldemodb14.ellucian.com
 o134190.ellucian.com
@@ -1754,9 +1733,7 @@ webs25.ellucian.com
 apps03ny.conf.ellucian.com
 malbfdmzrly2.ellucian.com
 o134166.ellucian.com
-www.oxygencontentfusion.ellucian.com
 testlp5.ellucian.com
-d8.drupal.webservices.ellucian.com
 m210044.ellucian.com
 udcsxdb1.ellucian.com
 m215215.ellucian.com
@@ -1860,7 +1837,6 @@ sls5.ellucian.com
 w177216.ellucian.com
 m218007.ellucian.com
 maludcvc1.ellucian.com
-rivier.webservices.ellucian.com
 udctc092.ellucian.com
 intlx.kasidemowebct4.ellucian.com
 slctests87.ellucian.com
@@ -1927,7 +1903,6 @@ sctmnot2.ellucian.com
 w177225.ellucian.com
 m030002.ellucian.com
 udctc097.ellucian.com
-engage.webservices.ellucian.com
 rsa.ellucian.com
 intldemoweb2.ellucian.com
 m220086.ellucian.com
@@ -2026,13 +2001,12 @@ essbeta5.ellucian.com
 intldemodb2.ellucian.com
 m215046.ellucian.com
 m220183.ellucian.com
-malsipgw1.ellucian.com
 slc209054.ellucian.com
 essbeta3.ellucian.com
 m220148.ellucian.com
 sdbsc1.ellucian.com
 w177121.ellucian.com
-www.files.webservices.ellucian.com
+files.webservices.ellucian.com
 w177221.ellucian.com
 camrtr1.ellucian.com
 dc10-netlab-2110.ellucian.com
@@ -2045,8 +2019,6 @@ h682e.koerber.ellucian.com
 m215013.ellucian.com
 m215207.ellucian.com
 w177151.ellucian.com
-cvwpnps001.ellucian.com
-iadsan002.ellucian.com
 m220012.ellucian.com
 slctlc6.ellucian.com
 w177004.ellucian.com
@@ -2072,11 +2044,10 @@ udctc185.ellucian.com
 udctc205.ellucian.com
 demolp5.ellucian.com
 essbeta1.ellucian.com
-iadjenkins.ellucian.com
 m215132.ellucian.com
 udcdvm22.ellucian.com
 udctc045.ellucian.com
-www.perfxnetapi.ellucian.com
+perfxnetapi.ellucian.com
 clarity.ellucian.com
 maltemdmzrly5.ellucian.com
 m210058.ellucian.com
@@ -2084,7 +2055,6 @@ malsls9.ellucian.com
 malvern.ellucian.com
 udctc146.ellucian.com
 w177059.ellucian.com
-www.wordpress.webservices.ellucian.com
 trust.ellucian.com
 luci.ellucian.com
 activesync.ellucian.com
@@ -2110,7 +2080,6 @@ labexbb1.ellucian.com
 m012101.ellucian.com
 m210022.ellucian.com
 m215198.ellucian.com
-www.img.webservices.ellucian.com
 m215243.ellucian.com
 w177201.ellucian.com
 w177204.ellucian.com
@@ -2145,7 +2114,6 @@ m220050.ellucian.com
 o134165.ellucian.com
 rocdevi1.ellucian.com
 w174065.ellucian.com
-www.wptest.webservices.ellucian.com
 udctc004.ellucian.com
 m025007.ellucian.com
 m215071.ellucian.com
@@ -2173,7 +2141,6 @@ m210007.ellucian.com
 m215176.ellucian.com
 malaln67.ellucian.com
 sctibm1.ellucian.com
-www.test-iis-net.profsvcs.ellucian.com
 dam.ellucian.com
 fde.ellucian.com
 m215211.ellucian.com
@@ -2215,7 +2182,6 @@ apps03va.conf.ellucian.com
 o134172.ellucian.com
 w177081.ellucian.com
 w177180.ellucian.com
-www.cocc.webservices.ellucian.com
 m210041.ellucian.com
 slctvmw7n.ellucian.com
 w177035.ellucian.com
@@ -2264,7 +2230,6 @@ cptdevwshp05.ellucian.com
 m210034.ellucian.com
 udcscep1.ellucian.com
 w177077.ellucian.com
-www.tsu.webservices.ellucian.com
 m220222.ellucian.com
 o134127.ellucian.com
 o134199.ellucian.com
@@ -2426,7 +2391,6 @@ i201081.ellucian.com
 camweb5.ellucian.com
 m215238.ellucian.com
 o134192.ellucian.com
-rxwdissm001.ellucian.com
 slctesti116.ellucian.com
 m215096.ellucian.com
 udctc232.ellucian.com
@@ -2445,7 +2409,6 @@ maldprcol.ellucian.com
 o134194.ellucian.com
 p.ellucian.com
 compatibility.ellucian.com
-files.webservices.ellucian.com
 m215177.ellucian.com
 o134006.ellucian.com
 udcdvm34.ellucian.com
@@ -2466,7 +2429,6 @@ m215114.ellucian.com
 m215117.ellucian.com
 o134134.ellucian.com
 w177208.ellucian.com
-www.bac.webservices.ellucian.com
 m025001.ellucian.com
 m215195.ellucian.com
 m220226.ellucian.com
@@ -2521,7 +2483,6 @@ o134030.ellucian.com
 slclcmsdevcli.ellucian.com
 udctc172.ellucian.com
 udctc202.ellucian.com
-webservices.ellucian.com
 m210045.ellucian.com
 m215045.ellucian.com
 malmom1.ellucian.com
@@ -2544,7 +2505,6 @@ benefits.ellucian.com
 away-2.ellucian.com
 m012061.ellucian.com
 m210002.ellucian.com
-www.test.myhealthplan.ellucian.com
 schemas.ellucian.com
 maitland.ellucian.com
 udctc115.ellucian.com
@@ -2559,7 +2519,6 @@ camsrs1.ellucian.com
 m215064.ellucian.com
 malnot3.ellucian.com
 o134089.ellucian.com
-perfxnetapi.ellucian.com
 sls8.ellucian.com
 udcdvm62.ellucian.com
 w177250.ellucian.com
@@ -2651,7 +2610,6 @@ sctmnot8.ellucian.com
 udctc244.ellucian.com
 ellumination.ellucian.com
 w174088.ellucian.com
-www.elluciancrm.webservices.ellucian.com
 m215039.ellucian.com
 malexbesrtr.ellucian.com
 maltestadfsproxy6.ellucian.com
@@ -2683,7 +2641,6 @@ m220073.ellucian.com
 maltemdmzrly2.ellucian.com
 o134247.ellucian.com
 udctc002.ellucian.com
-www.shuttle.webservices.ellucian.com
 argus.ellucian.com
 m215125.ellucian.com
 m220248.ellucian.com
@@ -2693,6 +2650,3 @@ o134129.ellucian.com
 sctrsun3.ellucian.com
 m012192.ellucian.com
 m220190.ellucian.com
-www.moodle-wcc.webservices.ellucian.com
-*.ellucian.com
-*.modcntr.ellucian.com

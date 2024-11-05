@@ -47,20 +47,17 @@ openvpn.wearethink.com
 cms-uat-iiss.wearethink.com
 int-iiss.wearethink.com
 perf-arup.wearethink.com
-www.cdn-prod-lhh.wearethink.com
 sip.wearethink.com
 brit.wearethink.com
 cms-arup9-uat.wearethink.com
 cms-qa-lvgi.wearethink.com
 www-qa-lvgi.wearethink.com
-www.cdn-uat-lhh.wearethink.com
+cdn-uat-lhh.wearethink.com
 www-uat.arup.wearethink.com
-www.wearethink.com
 cms-arup9-qa.wearethink.com
 git.wearethink.com
 old.cms-arup9-uat.wearethink.com
 www-int-lvfs.wearethink.com
-cdn-uat-lhh.wearethink.com
 int-arup.wearethink.com
 www-prod-lhh-cdn.wearethink.com
 www-int-lvgi.wearethink.com
@@ -79,4 +76,3 @@ teamcity.wearethink.com
 www-arup9-qa.wearethink.com
 www-uat-lhh.wearethink.com
 www-uat-lhh-cdn.wearethink.com
-*.wearethink.com

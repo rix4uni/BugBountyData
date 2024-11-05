@@ -36,7 +36,4 @@ engagement-search-opensearch.glia.com
 app.glia.com
 app.beta.glia.com
 logs.beta.glia.com
-*.media.glia.com
 media-observability.glia.com
-*.media-observability.glia.com
-www.glia.com

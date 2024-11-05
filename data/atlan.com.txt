@@ -106,7 +106,6 @@ release-production.atlan.com
 discovery-excel.atlan.com
 analytics.atlan.com
 app.atlan.com
-www.atlan.com
 website-assets.atlan.com
 admin.atlan.com
 jira.atlan.com
@@ -125,4 +124,3 @@ invitationhomes.atlan.com
 nextgen.atlan.com
 cci.atlan.com
 integrations.atlan.com
-*.atlan.com

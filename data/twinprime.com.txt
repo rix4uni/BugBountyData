@@ -2,7 +2,7 @@ acc-1169.cust.twinprime.com
 accd-1-vpc-accd-us-west-1.accd.twinprime.com
 accd-4-vpc-accd-us-west-1.accd.twinprime.com
 local-origin.vm.twinprime.com
-www.wester.t.twinprime.com
+wester.t.twinprime.com
 local-origin4.t.twinprime.com
 mgcerdeno-origin.vm.twinprime.com
 acc-1165.cust.twinprime.com
@@ -21,7 +21,6 @@ monit2-origin3.vm.twinprime.com
 sdk.twinprime.com
 shauli-origin1.vm.twinprime.com
 refwest.twinprime.com
-www.twinprime.com
 acc-dev.t.twinprime.com
 acc-e3b.cust.twinprime.com
 monit-origin2.vm.twinprime.com
@@ -61,7 +60,6 @@ mgcerdeno-origin4.vm.twinprime.com
 monit1-origin4.vm.twinprime.com
 monit3-origin1.vm.twinprime.com
 acc-115d.cust.twinprime.com
-www.spdy.t.twinprime.com
 ops.twinprime.com
 support.twinprime.com
 accd-1-vpc-accd-ap-southeast-2.accd.twinprime.com
@@ -95,7 +93,6 @@ accd-perf-test.t.twinprime.com
 mgcerdeno-origin3.vm.twinprime.com
 opctest.cust.twinprime.com
 t.twinprime.com
-wester.t.twinprime.com
 wester3.t.twinprime.com
 e.twinprime.com
 acc-shauli.t.twinprime.com
@@ -149,7 +146,6 @@ accd-2-vpc-accd-us-west-1.accd.twinprime.com
 east.t.twinprime.com
 local-origin2.vm.twinprime.com
 mgcerdeno-origin1.vm.twinprime.com
-www.sdk.twinprime.com
 smtp.twinprime.com
 acc-5.t.twinprime.com
 accd-2-vpc-accd-us-east-2.accd.twinprime.com
@@ -186,7 +182,6 @@ acc-1158.cust.twinprime.com
 edge-org.t.twinprime.com
 intweb-api.cust.twinprime.com
 local-origin.t.twinprime.com
-www.support.twinprime.com
 acc-116b.cust.twinprime.com
 acc-116c.cust.twinprime.com
 acc-dev8.t.twinprime.com

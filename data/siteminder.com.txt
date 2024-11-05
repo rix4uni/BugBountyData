@@ -30,12 +30,11 @@ auth0.siteminder.com
 bbuat.siteminder.com
 app-apac.siteminder.com
 futureleaders.siteminder.com
-www.siteminder.com
 partnerplatform.siteminder.com
 blr.siteminder.com
 build.dev.siteminder.com
 engagement.siteminder.com
-www.wiki.siteminder.com
+wiki.siteminder.com
 login.siteminder.com
 cmdemo.siteminder.com
 partnerhub.siteminder.com
@@ -63,7 +62,7 @@ help.siteminder.com
 app.siteminder.com
 careers.siteminder.com
 signup.siteminder.com
-www.ning.siteminder.com
+ning.siteminder.com
 mp-widgets.siteminder.com
 gds-report.siteminder.com
 webbox-assets-preprod.siteminder.com
@@ -82,11 +81,3 @@ cdn.siteminder.com
 ws-apac.siteminder.com
 m.bbuat.siteminder.com
 partners-quote.siteminder.com
-*.gds-report.siteminder.com
-*.futureleaders.siteminder.com
-*.support.siteminder.com
-*.partners-quote.siteminder.com
-*.quest.siteminder.com
-*.techspace.siteminder.com
-*.jira.siteminder.com
-*.login.siteminder.com

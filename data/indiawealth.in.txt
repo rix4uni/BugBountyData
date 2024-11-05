@@ -6,7 +6,6 @@ widget.indiawealth.in
 loanvendor-dev-proxy.indiawealth.in
 raven.indiawealth.in
 dev.indiawealth.in
-www.indiawealth.in
 mf-pp.indiawealth.in
 dev-cdn.indiawealth.in
 airflow.indiawealth.in
@@ -65,7 +64,6 @@ neo.indiawealth.in
 ind-memory-ext.indiawealth.in
 indcredx.indiawealth.in
 eagle.indiawealth.in
-*.indiawealth.in
 beta.indiawealth.in
 ind-learn-test.indiawealth.in
 acc-aggregator-test.indiawealth.in

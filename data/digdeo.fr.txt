@@ -3,7 +3,7 @@ librenms.digdeo.fr
 msg.digdeo.fr
 ns-03.digdeo.fr
 ftp.digdeo.fr
-www.noc.digdeo.fr
+noc.digdeo.fr
 dev.digdeo.fr
 mail.digdeo.fr
 ipam.corp.digdeo.fr
@@ -29,7 +29,6 @@ pma.corp.digdeo.fr
 trail.digdeo.fr
 web.dp1.digdeo.fr
 dash.corp.digdeo.fr
-www.digdeo.fr
 audace.dp1.digdeo.fr
 spf.digdeo.fr
 stats.digdeo.fr
@@ -39,7 +38,6 @@ wwwpp.digdeo.fr
 conf.digdeo.fr
 in.digdeo.fr
 vault.cust.digdeo.fr
-noc.digdeo.fr
 projets.digdeo.fr
 turn.meet.digdeo.fr
 dev2.digdeo.fr

@@ -1,4 +1,3 @@
-*.powerdns.com
 admin.ox-pdns-demo.platform.powerdns.com
 allinone.platform-demo.powerdns.com
 arm64-1.powerdns.com
@@ -86,9 +85,6 @@ trending1.powerdns.com
 web1.powerdns.com
 webrtc-dev1.powerdns.com
 wiki.powerdns.com
-www.powerdns.com
-www.autotest.powerdns.com
-www.xs.powerdns.com
 xs.powerdns.com
 zonecontrol.demo1.dev.platform.powerdns.com
 000.cl.powerdns.com
@@ -124,9 +120,9 @@ status.powerdns.com
 v3dcp.powerdns.com
 v3domains.powerdns.com
 w.powerdns.com
-www.cpa.powerdns.com
-www.rn.powerdns.com
-www.storyconf.powerdns.com
+cpa.powerdns.com
+rn.powerdns.com
+storyconf.powerdns.com
 dist.security-status.secpoll.powerdns.com
 secpoll.powerdns.com
 random.powerdns.com

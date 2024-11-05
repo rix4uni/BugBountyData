@@ -3,7 +3,7 @@ ldap1.cloudendure.com
 gcp.cloudendure.com
 azuremp-register.cloudendure.com
 opstest.cloudendure.com
-www.docs.cloudendure.com
+docs.cloudendure.com
 aws-register.cloudendure.com
 dashboard.cloudendure.com
 cn.cloudendure.com
@@ -29,7 +29,6 @@ console-static.cloudendure.com
 azure-register.cloudendure.com
 gcp-ce.cloudendure.com
 email.cloudendure.com
-www.china.cloudendure.com
 gcpce.cloudendure.com
 azure-register-new.cloudendure.com
 grafana2.cloudendure.com
@@ -56,7 +55,6 @@ audit-elastic.cloudendure.com
 mgt-deploy.cloudendure.com
 dashboard2.cloudendure.com
 kfir.cloudendure.com
-docs.cloudendure.com
 go.cloudendure.com
 gce.cloudendure.com
 partners.cloudendure.com
@@ -66,7 +64,6 @@ appce.cloudendure.com
 v11.cloudendure.com
 deps.cloudendure.com
 jump-china.cloudendure.com
-www.cloudendure.com
 _dmarc.cloudendure.com
 azuremp-register-new.cloudendure.com
 calendar.cloudendure.com

@@ -27,12 +27,11 @@ internal.api.greynoise.io
 jaeger.guardians.prod.greynoise.io
 visualizer-app.prod.greynoise.io
 grafana.platform.dev.greynoise.io
-www.greynoise.io
 api.ip-similarity.prod.greynoise.io
 api.sift.prod.greynoise.io
 partner.labs.greynoise.io
 enterprise.greynoise.io
-www.dev.labs.greynoise.io
+dev.labs.greynoise.io
 prometheus.labs.greynoise.io
 graphql.labs.greynoise.io
 status.labs.greynoise.io
@@ -44,7 +43,7 @@ api.ip-similarity.dev.greynoise.io
 iam.dev.greynoise.io
 enrichments.labs.greynoise.io
 api.prod.greynoise.io
-www.ssr.viz.dev.greynoise.io
+ssr.viz.dev.greynoise.io
 rtest.ds.rnd.greynoise.io
 www2.greynoise.io
 pach.ds.rnd.greynoise.io
@@ -64,7 +63,7 @@ info.greynoise.io
 api.labs.greynoise.io
 shiny.labs.greynoise.io
 context.labs.greynoise.io
-www.viz.greynoise.io
+viz.greynoise.io
 dev.api.greynoise.io
 kafka-broker-0.rnd.greynoise.io
 viz.prod.greynoise.io
@@ -87,7 +86,7 @@ quarto.ds.rnd.greynoise.io
 kafka-bootstrap.labs.greynoise.io
 demo.ds.rnd.greynoise.io
 storybook.prod.greynoise.io
-www.new.greynoise.io
+new.greynoise.io
 viz.dev.greynoise.io
 nayyara.dev.greynoise.io
 visualizer-app.review.dev.greynoise.io

@@ -10,8 +10,6 @@ mail.ns2.rackone.it
 webdisk.ns2.rackone.it
 webmail.ns2.rackone.it
 whm.ns2.rackone.it
-www.ns2.rackone.it
-www.rackone.it
 staging.rackone.it
 dns01.rackone.it
 mkt.rackone.it
@@ -287,7 +285,6 @@ host210-214-131-185.static.rackone.it
 host238-212-131-185.static.rackone.it
 host253-212-131-185.static.rackone.it
 webmail.rackone.it
-www.commerciale.rackone.it
 host147-212-131-185.static.rackone.it
 host215-64-78-185.static.rackone.it
 host219-67-78-185.static.rackone.it
@@ -305,7 +302,6 @@ host158-67-78-185.static.rackone.it
 host159-214-131-185.static.rackone.it
 host181-65-78-185.static.rackone.it
 host36-64-78-185.static.rackone.it
-www.news.rackone.it
 host93-67-78-185.static.rackone.it
 host133-213-131-185.static.rackone.it
 host171-147-196-62.rackone.it
@@ -387,7 +383,6 @@ host82-213-131-185.static.rackone.it
 host171-64-78-185.static.rackone.it
 host248-214-131-185.static.rackone.it
 host75-212-131-185.static.rackone.it
-www.owncloud.rackone.it
 host144-213-131-185.static.rackone.it
 host190-213-131-185.static.rackone.it
 host33-66-78-185.static.rackone.it
@@ -509,8 +504,8 @@ host152-215-131-185.static.rackone.it
 host55-212-131-185.static.rackone.it
 host81-212-131-185.static.rackone.it
 host227-65-78-185.static.rackone.it
-www.abgw.rackone.it
-www.cloudbackup.rackone.it
+abgw.rackone.it
+cloudbackup.rackone.it
 host163-64-78-185.static.rackone.it
 host186-212-131-185.static.rackone.it
 host57-215-131-185.static.rackone.it
@@ -832,7 +827,6 @@ host163-215-131-185.static.rackone.it
 host182-66-78-185.static.rackone.it
 host196-64-78-185.static.rackone.it
 whm.ns1.rackone.it
-www.mkt.rackone.it
 host120-64-78-185.static.rackone.it
 host43-214-131-185.static.rackone.it
 host72-67-78-185.static.rackone.it
@@ -1386,7 +1380,6 @@ host221-213-131-185.static.rackone.it
 host163-67-78-185.static.rackone.it
 host207-65-78-185.static.rackone.it
 host57-212-131-185.static.rackone.it
-www.staff.rackone.it
 host142-64-78-185.static.rackone.it
 host176-64-78-185.static.rackone.it
 host234-66-78-185.static.rackone.it
@@ -1396,7 +1389,6 @@ host13-214-131-185.static.rackone.it
 host98-66-78-185.static.rackone.it
 host111-65-78-185.static.rackone.it
 host177-66-78-185.static.rackone.it
-www.ns1.rackone.it
 host101-215-131-185.static.rackone.it
 host46-215-131-185.static.rackone.it
 host60-145-196-62.rackone.it
@@ -1801,7 +1793,6 @@ host23-67-78-185.static.rackone.it
 host50-67-78-185.static.rackone.it
 host78-145-196-62.static.rackone.it
 mail.ns1.rackone.it
-cloudbackup.rackone.it
 host107-64-78-185.static.rackone.it
 host199-67-78-185.static.rackone.it
 host244-67-78-185.static.rackone.it
@@ -1824,7 +1815,6 @@ host229-213-131-185.static.rackone.it
 host244-212-131-185.static.rackone.it
 host142-212-131-185.static.rackone.it
 host142-67-78-185.static.rackone.it
-www.staging.rackone.it
 host114-67-78-185.static.rackone.it
 host169-213-131-185.static.rackone.it
 host232-67-78-185.static.rackone.it
@@ -1961,7 +1951,6 @@ host59-66-78-185.static.rackone.it
 host158-147-196-62.rackone.it
 host221-65-78-185.static.rackone.it
 host37-213-131-185.static.rackone.it
-www.panel.rackone.it
 host181-66-78-185.static.rackone.it
 host234-214-131-185.static.rackone.it
 host33-64-78-185.static.rackone.it
@@ -2018,7 +2007,6 @@ host167-65-78-185.static.rackone.it
 host24-213-131-185.static.rackone.it
 host27-65-78-185.static.rackone.it
 host5-65-78-185.static.rackone.it
-abgw.rackone.it
 host116-212-131-185.static.rackone.it
 host177-214-131-185.static.rackone.it
 host232-65-78-185.static.rackone.it

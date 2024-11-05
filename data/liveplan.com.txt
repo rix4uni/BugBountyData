@@ -1,9 +1,8 @@
-*.liveplan.com
-*.app.liveplan.com
-*.qa.liveplan.com
-*.qa-resources.liveplan.com
-*.qa-samples.liveplan.com
-*.stage.liveplan.com
+app.liveplan.com
+qa.liveplan.com
+qa-resources.liveplan.com
+qa-samples.liveplan.com
+stage.liveplan.com
 253aapp.liveplan.com
 253awww.liveplan.com
 3aapp.liveplan.com
@@ -28,7 +27,6 @@ akamai.www.liveplan.com
 api.liveplan.com
 api.app.liveplan.com
 api.www.liveplan.com
-app.liveplan.com
 app.app.liveplan.com
 app.www.liveplan.com
 assets.liveplan.com
@@ -522,9 +520,6 @@ publishing-catalog.www.liveplan.com
 publishing-preview.liveplan.com
 publishing-preview.app.liveplan.com
 publishing-preview.www.liveplan.com
-qa.liveplan.com
-qa-resources.liveplan.com
-qa-samples.liveplan.com
 remote.liveplan.com
 remote.app.liveplan.com
 remote.www.liveplan.com
@@ -598,7 +593,6 @@ sslvpn.www.liveplan.com
 sso.liveplan.com
 sso.app.liveplan.com
 sso.www.liveplan.com
-stage.liveplan.com
 stage.app.liveplan.com
 stage.www.liveplan.com
 staging.liveplan.com
@@ -718,9 +712,6 @@ ww1.liveplan.com
 ww1.app.liveplan.com
 ww1.www.liveplan.com
 www.liveplan.com
-www.app.liveplan.com
-www.specials.liveplan.com
-www.www.liveplan.com
 www1.liveplan.com
 www1.app.liveplan.com
 www1.www.liveplan.com
@@ -728,9 +719,8 @@ www2.liveplan.com
 www2.app.liveplan.com
 www2.www.liveplan.com
 sam.liveplan.com
-www.strategicadvisor.liveplan.com
 indewww.liveplan.com
-www.livcultuwww.liveplan.com
+livcultuwww.liveplan.com
 inwww.liveplan.com
 nv2ugs96i5.liveplan.com
 app-static.liveplan.com
@@ -739,7 +729,7 @@ search4.prodsecure.liveplan.com
 hnom5ic0lx.liveplan.com
 max1.liveplan.com
 pp.liveplan.com
-www.links2gwww.liveplan.com
+links2gwww.liveplan.com
 freezeray.liveplan.com
 qiwww.liveplan.com
 app-web.liveplan.com
@@ -812,7 +802,7 @@ img.p.2.0.0.liveplan.com
 15dashboard.liveplan.com
 14858.liveplan.com
 03-parametrostype.liveplan.com
-www.11.liveplan.com
+11.liveplan.com
 06tools.liveplan.com
 136.180.118.liveplan.com
 199.125.liveplan.com
@@ -915,7 +905,7 @@ dev.03.liveplan.com
 10f30.liveplan.com
 132-188.liveplan.com
 103-052.liveplan.com
-www.1017-livcultuwww.liveplan.com
+1017-livcultuwww.liveplan.com
 100-164.liveplan.com
 083-185.liveplan.com
 001zuqiubifenbishime.liveplan.com
@@ -940,8 +930,8 @@ writing.0.liveplan.com
 12-resources.liveplan.com
 157-61.liveplan.com
 13283.liveplan.com
-www.150.liveplan.com
-www.1359.liveplan.com
+150.liveplan.com
+1359.liveplan.com
 0ht3.liveplan.com
 87.124.liveplan.com
 007pipi.liveplan.com
@@ -1063,7 +1053,7 @@ ip188.138.liveplan.com
 1004angel.liveplan.com
 025z.liveplan.com
 05-07.liveplan.com
-www.03.liveplan.com
+03.liveplan.com
 251.102.liveplan.com
 13052.liveplan.com
 0fdl.liveplan.com
@@ -1071,7 +1061,7 @@ www.03.liveplan.com
 16179.liveplan.com
 142-113.liveplan.com
 027113.liveplan.com
-www.075788888.liveplan.com
+075788888.liveplan.com
 11boost.liveplan.com
 1401983.liveplan.com
 200.139.liveplan.com
@@ -1180,7 +1170,7 @@ host.115.122.liveplan.com
 202.76.121.liveplan.com
 internet-zablokirovan.internet-zablokirovan.10085.liveplan.com
 05032017.liveplan.com
-www.049.liveplan.com
+049.liveplan.com
 00886.liveplan.com
 145-202.liveplan.com
 112-126.liveplan.com
@@ -1358,7 +1348,7 @@ academic.liveplan.com
 16111820.liveplan.com
 160-5.liveplan.com
 1017dashboard.liveplan.com
-www.123pc.liveplan.com
+123pc.liveplan.com
 116-87.liveplan.com
 0vpo.liveplan.com
 76.78.121.liveplan.com
@@ -1419,7 +1409,7 @@ ip233.143.liveplan.com
 10b5.liveplan.com
 ip129.130.liveplan.com
 103-107.liveplan.com
-www.074.liveplan.com
+074.liveplan.com
 0773.liveplan.com
 78.27.119.liveplan.com
 229.246.121.liveplan.com
@@ -1491,7 +1481,7 @@ ip-185.138.liveplan.com
 0wdv.liveplan.com
 149082.liveplan.com
 1211b.liveplan.com
-www.1012.liveplan.com
+1012.liveplan.com
 11702.liveplan.com
 10d6b.liveplan.com
 141-225.liveplan.com
@@ -1513,7 +1503,7 @@ internet-zablokirovan.internet-zablokirovan.10091.liveplan.com
 0yz4.liveplan.com
 238.32.121.liveplan.com
 1407343565.liveplan.com
-www.101selfimprovementtips.liveplan.com
+101selfimprovementtips.liveplan.com
 13cereales.liveplan.com
 134-218.liveplan.com
 search4.prodigsecure.1017.liveplan.com
@@ -1575,7 +1565,7 @@ specials.00.liveplan.com
 130-209.liveplan.com
 113.189.118.liveplan.com
 14-112.liveplan.com
-www.11111.liveplan.com
+11111.liveplan.com
 135-7.liveplan.com
 0l7r.liveplan.com
 105d4.liveplan.com
@@ -1707,7 +1697,7 @@ ip48.125.liveplan.com
 ip243.122.liveplan.com
 164-1.liveplan.com
 12203.liveplan.com
-www.123peliculas.liveplan.com
+123peliculas.liveplan.com
 12e0f.liveplan.com
 124-248.liveplan.com
 175.129.liveplan.com
@@ -1808,7 +1798,7 @@ ip98.103.liveplan.com
 152-112.liveplan.com
 115-240.liveplan.com
 163.189.11.liveplan.com
-www.12rm.liveplan.com
+12rm.liveplan.com
 109f9.liveplan.com
 134-52.liveplan.com
 144s016870318383.liveplan.com
@@ -1840,7 +1830,7 @@ ip107.123.liveplan.com
 ip-191.139.liveplan.com
 119f5.liveplan.com
 ip58.114.liveplan.com
-www.123-prosto.liveplan.com
+123-prosto.liveplan.com
 15-237.liveplan.com
 0h76.liveplan.com
 11193.liveplan.com
@@ -2030,7 +2020,7 @@ ip218.141.liveplan.com
 137127.liveplan.com
 11684.liveplan.com
 134-162.liveplan.com
-www.10bdainfmtz.liveplan.com
+10bdainfmtz.liveplan.com
 100-31.liveplan.com
 0q8e.liveplan.com
 12.238.121.liveplan.com
@@ -2048,7 +2038,7 @@ ip133.120.liveplan.com
 159170.liveplan.com
 11d.liveplan.com
 165-154.liveplan.com
-www.10fund.liveplan.com
+10fund.liveplan.com
 0m2w.liveplan.com
 1-253.liveplan.com
 100.159.118.liveplan.com
@@ -2113,7 +2103,7 @@ www.10fund.liveplan.com
 129-15.liveplan.com
 34.150.liveplan.com
 1526f.liveplan.com
-www.01cell.liveplan.com
+01cell.liveplan.com
 12734881.liveplan.com
 090b.liveplan.com
 141-146.liveplan.com
@@ -2213,7 +2203,7 @@ puppet.liveplan.com
 11-sinif-takdir-tesekkur-hesaplama.liveplan.com
 host-253.122.liveplan.com
 70.136.liveplan.com
-www.129.liveplan.com
+129.liveplan.com
 163-35.liveplan.com
 142099.liveplan.com
 earthlink.122.liveplan.com
@@ -2221,7 +2211,7 @@ earthlink.122.liveplan.com
 0rsa.liveplan.com
 107d3.liveplan.com
 14-strategicadvisor.liveplan.com
-www.1069.liveplan.com
+1069.liveplan.com
 10a17.liveplan.com
 121-125.liveplan.com
 0o2o.liveplan.com
@@ -2288,7 +2278,7 @@ host.122.120.liveplan.com
 35.105.liveplan.com
 marshaltm.13980.liveplan.com
 101-41.liveplan.com
-www.0riscuriai.liveplan.com
+0riscuriai.liveplan.com
 14cc.liveplan.com
 0lhw.liveplan.com
 ip133.102.liveplan.com
@@ -2489,7 +2479,7 @@ ip-40.127.liveplan.com
 1511.liveplan.com
 072t.liveplan.com
 009nestedclass.liveplan.com
-www.0persia.liveplan.com
+0persia.liveplan.com
 99.78.121.liveplan.com
 107fd.liveplan.com
 112y616b9183.liveplan.com
@@ -2597,7 +2587,7 @@ host.117.119.liveplan.com
 14515.liveplan.com
 088g2.liveplan.com
 131152.liveplan.com
-www.1017-links2gwww.liveplan.com
+1017-links2gwww.liveplan.com
 00229.liveplan.com
 06-08.liveplan.com
 0sqx.liveplan.com
@@ -2607,7 +2597,7 @@ www.1017-links2gwww.liveplan.com
 13d82.liveplan.com
 10-symbols.liveplan.com
 123-1.liveplan.com
-www.1005.liveplan.com
+1005.liveplan.com
 13-64.liveplan.com
 164ad.liveplan.com
 114-17.liveplan.com
@@ -2705,7 +2695,7 @@ host.63.125.liveplan.com
 131-110.liveplan.com
 29.152.liveplan.com
 prototype.liveplan.com
-www.1017-specials.liveplan.com
+1017-specials.liveplan.com
 09-tempo-play-pattern.liveplan.com
 114-229-static.liveplan.com
 15.106.liveplan.com
@@ -2725,7 +2715,7 @@ ip112.142.liveplan.com
 158-140.liveplan.com
 122.liveplan.com
 13753.liveplan.com
-www.11434481948.liveplan.com
+11434481948.liveplan.com
 1017scoreboard.liveplan.com
 121-jgweb.liveplan.com
 142-189.liveplan.com
@@ -2734,7 +2724,6 @@ www.11434481948.liveplan.com
 14bq.liveplan.com
 115-5.liveplan.com
 0hv.liveplan.com
-129.liveplan.com
 1467f.liveplan.com
 11princess1.liveplan.com
 1390939063.liveplan.com
@@ -3010,13 +2999,13 @@ ip47.117.liveplan.com
 15d2.liveplan.com
 14-252.liveplan.com
 153.181.118.liveplan.com
-www.branxtonbeefjerky.1.liveplan.com
+branxtonbeefjerky.1.liveplan.com
 34176304485954366379422095314709929095534108684545.14977824704684330898251207314238373739115143206896.liveplan.com
 1274.liveplan.com
 12817.liveplan.com
 09-cross-platform-todo-list.liveplan.com
 107-30.liveplan.com
-www.1017strategicadvisor.liveplan.com
+1017strategicadvisor.liveplan.com
 host.112.144.liveplan.com
 150-8.liveplan.com
 117.121.liveplan.com
@@ -3053,7 +3042,7 @@ writing.01.liveplan.com
 17.09.26-09.00.liveplan.com
 norwegiancruiseline.112.liveplan.com
 kabansk.03.liveplan.com
-www.1519.liveplan.com
+1519.liveplan.com
 12c5d.liveplan.com
 162-86.liveplan.com
 11.127.liveplan.com
@@ -3075,7 +3064,7 @@ www.1519.liveplan.com
 157-137.liveplan.com
 0alt.liveplan.com
 0e3v.liveplan.com
-www.12-tomatoes.liveplan.com
+12-tomatoes.liveplan.com
 0xxxek84.liveplan.com
 11666.liveplan.com
 15m6.liveplan.com
@@ -3085,7 +3074,7 @@ www.12-tomatoes.liveplan.com
 137ee.liveplan.com
 10betbeiyongwangzhan.liveplan.com
 ip194.140.liveplan.com
-www.0006.liveplan.com
+0006.liveplan.com
 100-46.liveplan.com
 ip168.128.liveplan.com
 152-40.liveplan.com
@@ -3283,7 +3272,6 @@ ip123.137.liveplan.com
 hdfclifepensionprod.112.liveplan.com
 133-240.liveplan.com
 1017-20.liveplan.com
-0persia.liveplan.com
 69668024371807797286041229355880516746563341443103.11070895503722545700058741029855382163360336656843.liveplan.com
 150150.liveplan.com
 1489.liveplan.com
@@ -3401,7 +3389,7 @@ ip60.119.liveplan.com
 206.26.119.liveplan.com
 160-145.liveplan.com
 0yx7.liveplan.com
-www.app.1017.liveplan.com
+app.1017.liveplan.com
 101-051.liveplan.com
 157-adsl.liveplan.com
 16-76.liveplan.com
@@ -3441,7 +3429,7 @@ psql02.anna-steel.app.liveplan.com
 100piada.liveplan.com
 141.liveplan.com
 233.126.119.liveplan.com
-www.100022.liveplan.com
+100022.liveplan.com
 solstice.223.165.64.138.liveplan.com
 125-102.liveplan.com
 018089.liveplan.com
@@ -3450,7 +3438,7 @@ solstice.223.165.64.138.liveplan.com
 15strategicadvisor.liveplan.com
 026ba9dd-9a71-4d7b-99b2-2c4e4938a937.liveplan.com
 0avw.liveplan.com
-www.1001escapades.liveplan.com
+1001escapades.liveplan.com
 15459.liveplan.com
 102.16.liveplan.com
 14-algorithm.liveplan.com
@@ -3641,7 +3629,7 @@ gazetazone.0tljul7f8lk5tek.liveplan.com
 160.110.liveplan.com
 ip12.118.liveplan.com
 1000km.liveplan.com
-www.1000tips.liveplan.com
+1000tips.liveplan.com
 10.252.121.liveplan.com
 121-129.liveplan.com
 09ph.liveplan.com
@@ -3889,9 +3877,9 @@ mysql03.120938.liveplan.com
 50.126.119.liveplan.com
 ip84.116.liveplan.com
 14437.liveplan.com
-www.1017links2gwww.liveplan.com
+1017links2gwww.liveplan.com
 064.liveplan.com
-www.1000kata.liveplan.com
+1000kata.liveplan.com
 demo.liveplan.com
 189.128.118.liveplan.com
 141.162.liveplan.com
@@ -3970,7 +3958,7 @@ ip-176.124.liveplan.com
 10fj.liveplan.com
 073162.liveplan.com
 0aqy.liveplan.com
-www.042.liveplan.com
+042.liveplan.com
 05cz.liveplan.com
 16-178.liveplan.com
 142-250.liveplan.com
@@ -4388,7 +4376,7 @@ nodebb.91.247.228.126.liveplan.com
 139-218-static.liveplan.com
 11-47.liveplan.com
 14bm.liveplan.com
-www.1017specials.liveplan.com
+1017specials.liveplan.com
 13abc.liveplan.com
 100000509.liveplan.com
 0dfh.liveplan.com
@@ -4452,7 +4440,6 @@ ip152.103.liveplan.com
 13-777-mc-8888.liveplan.com
 121-161-static.liveplan.com
 133d.liveplan.com
-www.1.liveplan.com
 144.125.liveplan.com
 ip254.138.liveplan.com
 216.178.118.liveplan.com
@@ -4471,7 +4458,7 @@ ip254.138.liveplan.com
 152-109.liveplan.com
 239.113.119.liveplan.com
 148-217.liveplan.com
-www.0960768498.liveplan.com
+0960768498.liveplan.com
 02r.liveplan.com
 14y.liveplan.com
 132-171.liveplan.com
@@ -4590,7 +4577,7 @@ host.112.156.liveplan.com
 203.212.0.liveplan.com
 113-56.liveplan.com
 14942.liveplan.com
-www.1085.liveplan.com
+1085.liveplan.com
 12a7f.liveplan.com
 128.136.117.liveplan.com
 206.78.121.liveplan.com
@@ -4680,7 +4667,7 @@ kao.112.liveplan.com
 28.26.119.liveplan.com
 119-75.liveplan.com
 160-139.liveplan.com
-www.1057.liveplan.com
+1057.liveplan.com
 10144.liveplan.com
 146fc.liveplan.com
 123chat.liveplan.com
@@ -4831,7 +4818,7 @@ webmail.1234.liveplan.com
 159-240.liveplan.com
 129-78.liveplan.com
 1-mok.liveplan.com
-www.12flower.liveplan.com
+12flower.liveplan.com
 0g5k.liveplan.com
 131-70.liveplan.com
 109-163.liveplan.com
@@ -5258,7 +5245,6 @@ h17.112.liveplan.com
 0902.liveplan.com
 11256.liveplan.com
 0152mak.liveplan.com
-www.135.liveplan.com
 175.110.liveplan.com
 141.142.118.liveplan.com
 143-168.liveplan.com
@@ -5331,7 +5317,7 @@ ip249.116.liveplan.com
 0ewj.liveplan.com
 onedemo2.0001.liveplan.com
 01234acom.liveplan.com
-www.1224.liveplan.com
+1224.liveplan.com
 07-01-cad2015.liveplan.com
 0qou.liveplan.com
 1646e.liveplan.com
@@ -5348,7 +5334,7 @@ ip175.127.liveplan.com
 12betwangzhi.liveplan.com
 235.3.115.liveplan.com
 0z7r.liveplan.com
-www.rikscny145.145.liveplan.com
+rikscny145.145.liveplan.com
 1-writing.liveplan.com
 105c7.liveplan.com
 133-rev188.liveplan.com
@@ -5480,7 +5466,7 @@ ip129.138.liveplan.com
 120-244.liveplan.com
 bankofamerica.com.verificatin.system.130623925245353736303239343434363234343436322ed312.liveplan.com
 0dy1.liveplan.com
-www.087.liveplan.com
+087.liveplan.com
 104485-01-0.liveplan.com
 134-139-static.liveplan.com
 124163.liveplan.com
@@ -5555,7 +5541,7 @@ host231.108.liveplan.com
 114249.liveplan.com
 016222.liveplan.com
 0a29.liveplan.com
-www.1079.liveplan.com
+1079.liveplan.com
 152-188.liveplan.com
 106163.liveplan.com
 11354.liveplan.com
@@ -5585,7 +5571,7 @@ design.liveplan.com
 13vt.liveplan.com
 11-92.liveplan.com
 207.125.liveplan.com
-www.1400.liveplan.com
+1400.liveplan.com
 mos-prorab.14749.liveplan.com
 070659.liveplan.com
 126-174.liveplan.com
@@ -5715,7 +5701,6 @@ ip96.126.liveplan.com
 018174.liveplan.com
 0f97.liveplan.com
 ip129.142.liveplan.com
-www.1105.liveplan.com
 102-28.liveplan.com
 0rv5.liveplan.com
 host.240.130.liveplan.com
@@ -5726,7 +5711,7 @@ host.119.139.liveplan.com
 100seo-jp.liveplan.com
 138-131.liveplan.com
 134.128.liveplan.com
-www.livcultuwww.1017.liveplan.com
+livcultuwww.1017.liveplan.com
 10885.liveplan.com
 10148.liveplan.com
 0rzd.liveplan.com
@@ -5737,7 +5722,7 @@ www.livcultuwww.1017.liveplan.com
 106-194.liveplan.com
 0lv8.liveplan.com
 187.15.liveplan.com
-www.1615.liveplan.com
+1615.liveplan.com
 097767ff8.liveplan.com
 08-http-site-config-sample.liveplan.com
 15o7.liveplan.com

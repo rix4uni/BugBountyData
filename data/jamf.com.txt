@@ -1,4 +1,3 @@
-*.jamf.com
 reg.jamf.com
 events.jamf.com
 id-files-cdn.jamf.com
@@ -24,7 +23,6 @@ au.auth.jamf.com
 eu.auth.jamf.com
 engage-sb.jamf.com
 gslinkn.jamf.com
-www.jamf.com
 marketplace.jamf.com
 status.jamf.com
 block.jamf.com
@@ -43,11 +41,10 @@ reg-stg.jamf.com
 content.pendo.account.jamf.com
 servicepartnerproviders.jamf.com
 ir.jamf.com
-www.store.jamf.com
+store.jamf.com
 safe-qa.jamf.com
 safe-dev.jamf.com
 safe.jamf.com
-store.jamf.com
 redirect.jamf.com
 radar-qa.jamf.com
 radar.jamf.com

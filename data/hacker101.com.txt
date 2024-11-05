@@ -3,7 +3,6 @@ levels-b.hacker101.com
 ctf.hacker101.com
 386d1d43b2009ed2831f944d2887346a.ctf.hacker101.com
 maintenance.hacker101.com
-www.hacker101.com
 levels-a.hacker101.com
 218e9afbb4e5111fd1b7b16108acc3ae.ctf.hacker101.com
 1af56fd13936d87deb2b62035f75d8cf.ctf.hacker101.com
@@ -11,8 +10,6 @@ levels-a.hacker101.com
 da207afa1597afad88053e35573cfa7e.ctf.hacker101.com
 80023f1c560ea7ba19c305d796bf87b0.ctf.hacker101.com
 b4212ce1357e170eda808889f8067f9a.ctf.hacker101.com
-*.hacker101.com
-*.ctf.hacker101.com
 0b35a4035cc959a0e9def692bb3a40ae.ctf.hacker101.com
 a343003a3b192c1f51fe866a46634bb7.ctf.hacker101.com
 a8cb550e91f91bee6ca25c50f73d7527.ctf.hacker101.com
@@ -101,7 +98,6 @@ us-east-2.ctf.hacker101.com
 us-west-2.ctf.hacker101.com
 v1.ctf.hacker101.com
 wp.ctf.hacker101.com
-www.ctf.hacker101.com
 www1.ctf.hacker101.com
 www2.ctf.hacker101.com
 nullmx.hacker101.com

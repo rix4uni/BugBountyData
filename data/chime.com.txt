@@ -265,14 +265,10 @@ office.chime.com
 interchange.chime.com
 email.talent.chime.com
 datadog-forwarder.chime.com
-www.chime.com
 app.chime.com
 chat.chime.com
 state.chime.com
-www.mobilesite.chime.com
-www.accounts.chime.com
 event-router.chime.com
-*.chime.com
 arkose-client.chime.com
 vpn.chime.com
 stampede-server-dev1.chime.com
@@ -532,7 +528,6 @@ gsimulator-dev3.chime.com
 airflow-prod.chime.com
 compass-dev2.chime.com
 stampede-dev5.chime.com
-www.otherones.chime.com
 mlp-model-registry-service-dev1.chime.com
 derby-dev3.chime.com
 _acme-challenge.wp-dev3.chime.com

@@ -81,7 +81,7 @@ awis.api.alexa.com
 crawl23-public.alexa.com
 wg.alexa.com
 pages.alexa.com
-www.muv.alexa.com
+muv.alexa.com
 xml.alexa.com
 api.hub-stage.alexa.com
 cdt-api-stage.alexa.com
@@ -90,7 +90,6 @@ search.toolbars.alexa.com
 smtp.alexa.com
 try1.alexa.com
 internal-hub.alexa.com
-muv.alexa.com
 datasources-stage.ec2.alexa.com
 internal.hub.alexa.com
 scache.alexa.com
@@ -228,7 +227,6 @@ geo.ec2.alexa.com
 tmproxy.ec2.alexa.com
 recovery.alexa.com
 mktg.alexa.com
-www.alexa.com
 internal-hub-stage.alexa.com
 location_to_thumbnail_for_www.alexa.com
 cdt-search.ec2.alexa.com

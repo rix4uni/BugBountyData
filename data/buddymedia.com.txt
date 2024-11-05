@@ -40,7 +40,7 @@ publish01.publish.buddymedia.com
 publish03.publish.buddymedia.com
 sam.buddymedia.com
 tickets.buddymedia.com
-www.uefa.buddymedia.com
+uefa.buddymedia.com
 beta.buddymedia.com
 brain.julie.dev.buddymedia.com
 dev.buddymedia.com
@@ -92,7 +92,6 @@ o.buddymedia.com
 origin01.publish.stag.buddymedia.com
 publish.stag.buddymedia.com
 tabspp.buddymedia.com
-uefa.buddymedia.com
 dev-ec2.buddymedia.com
 int.buddymedia.com
 origin.publish.buddymedia.com
@@ -103,12 +102,10 @@ upload02.publish.stag.buddymedia.com
 cdn-tabs.buddymedia.com
 stripes.buddymedia.com
 vpn-us3.buddymedia.com
-www.buddymedia.com
 df.buddymedia.com
 web2.buddymedia.com
 expedia.buddymedia.com
 hp.buddymedia.com
-www.dev.buddymedia.com
 rtm.buddymedia.com
 cdn-corp.buddymedia.com
 hqbv2.buddymedia.com
@@ -116,13 +113,12 @@ intel.buddymedia.com
 ncl.buddymedia.com
 tabsstg.buddymedia.com
 publish03.publish.stag.buddymedia.com
-www.tickets.buddymedia.com
 wwwlb1.buddymedia.com
 cdn-cwa.buddymedia.com
 volvo.buddymedia.com
-www.starwoodshotel.buddymedia.com
+starwoodshotel.buddymedia.com
 loopster.buddymedia.com
-www.chanel.buddymedia.com
+chanel.buddymedia.com
 disney.buddymedia.com
 cbdemo.buddymedia.com
 wonkasfmicro.buddymedia.com
@@ -130,11 +126,11 @@ expotv.buddymedia.com
 joe.buddymedia.com
 ww.buddymedia.com
 underarmour.buddymedia.com
-www.8.buddymedia.com
+8.buddymedia.com
 developers.buddymedia.com
 old.buddymedia.com
 just-eat.buddymedia.com
-www.assets.buddymedia.com
+assets.buddymedia.com
 bmu.buddymedia.com
 matrix.buddymedia.com
 ctrack.buddymedia.com
@@ -151,10 +147,8 @@ tickets.staging.buddymedia.com
 daveandbusters.buddymedia.com
 video.foxnews.buddymedia.com
 wwwimg4.buddymedia.com
-www.login.buddymedia.com
 w.buddymedia.com
 apac.buddymedia.com
-assets.buddymedia.com
 visa.buddymedia.com
 wwwimg1.buddymedia.com
 sales.buddymedia.com
@@ -181,7 +175,7 @@ janj.buddymedia.com
 nbty.buddymedia.com
 redken.buddymedia.com
 15.buddymedia.com
-www.0.buddymedia.com
+0.buddymedia.com
 fbnew.matt.dev.buddymedia.com
 hbo.buddymedia.com
 channelec2.buddymedia.com
@@ -233,7 +227,7 @@ s3.buddymedia.com
 rdpropmyphoto.buddymedia.com
 bose.buddymedia.com
 adinsert.buddymedia.com
-www.20.buddymedia.com
+20.buddymedia.com
 pepsico.buddymedia.com
 myspacebucks.buddymedia.com
 seaworld.buddymedia.com
@@ -256,7 +250,7 @@ uninvited.buddymedia.com
 dr.buddymedia.com
 socialmedia8.buddymedia.com
 beerpong.staging.buddymedia.com
-www.a1.buddymedia.com
+a1.buddymedia.com
 ford.beta.buddymedia.com
 wwwimg3.buddymedia.com
 games.buddymedia.com

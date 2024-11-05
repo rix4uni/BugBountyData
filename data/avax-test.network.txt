@@ -1,4 +1,3 @@
-*.avax-test.network
 api.avax-test.network
 bridge.avax-test.network
 bridgeandtunnel.avax-test.network
@@ -16,8 +15,6 @@ vpn.avax-test.network
 wallet.avax-test.network
 warden.avax-test.network
 warden-test.avax-test.network
-www.warden.avax-test.network
-www.warden-test.avax-test.network
 airflow.avax-test.network
 debug.avax-test.network
 ecosystem.avax-test.network
@@ -25,7 +22,6 @@ payment-gateway.avax-test.network
 read.avax-test.network
 tele.avax-test.network
 test.avax-test.network
-www.avax-test.network
 api-wagmi.avax-test.network
 data-posthog.avax-test.network
 api-wagmi-testnet-us-west-2.avax-test.network
@@ -50,7 +46,7 @@ healthadmin4.core-webhook-proxy.avax-test.network
 admin4-st.core-webhook-proxy.avax-test.network
 painel.core-webhook-proxy.avax-test.network
 vps.core-webhook-proxy.avax-test.network
-www.poczta.core-webhook-proxy.avax-test.network
+poczta.core-webhook-proxy.avax-test.network
 aquarius.core-webhook-proxy.avax-test.network
 extranet14.core-webhook-proxy.avax-test.network
 ext.core-webhook-proxy.avax-test.network
@@ -77,7 +73,7 @@ w.core-webhook-proxy.avax-test.network
 devops.core-webhook-proxy.avax-test.network
 net.core-webhook-proxy.avax-test.network
 stake.core-webhook-proxy.avax-test.network
-www.dating.core-webhook-proxy.avax-test.network
+dating.core-webhook-proxy.avax-test.network
 callisto.core-webhook-proxy.avax-test.network
 bugs.core-webhook-proxy.avax-test.network
 client.core-webhook-proxy.avax-test.network
@@ -90,7 +86,7 @@ api1.core-webhook-proxy.avax-test.network
 ns34.core-webhook-proxy.avax-test.network
 cool.core-webhook-proxy.avax-test.network
 r6279cq8p7tzndbe.core-webhook-proxy.avax-test.network
-www.gsgou.users.core-webhook-proxy.avax-test.network
+gsgou.users.core-webhook-proxy.avax-test.network
 boardsgallery.core-webhook-proxy.avax-test.network
 wholesale.core-webhook-proxy.avax-test.network
 localhost.boards.core-webhook-proxy.avax-test.network
@@ -159,7 +155,7 @@ content.core-webhook-proxy.avax-test.network
 sound.core-webhook-proxy.avax-test.network
 2d9g2t.nsk.core-webhook-proxy.avax-test.network
 pagepromotion.core-webhook-proxy.avax-test.network
-www.foto.core-webhook-proxy.avax-test.network
+foto.core-webhook-proxy.avax-test.network
 pxkrffvhc8l9w3rb.core-webhook-proxy.avax-test.network
 testnet-jono12-c0e28.avax-test.network
 test10.core-webhook-proxy.avax-test.network
@@ -176,7 +172,7 @@ znl1om8l4cxa8d39su.wiki.core-webhook-proxy.avax-test.network
 east.core-webhook-proxy.avax-test.network
 metaboards.core-webhook-proxy.avax-test.network
 library.core-webhook-proxy.avax-test.network
-www.help.core-webhook-proxy.avax-test.network
+help.core-webhook-proxy.avax-test.network
 demo7.core-webhook-proxy.avax-test.network
 airflow-ds.avax-test.network
 w3.core-webhook-proxy.avax-test.network
@@ -188,7 +184,7 @@ cnnetmail.core-webhook-proxy.avax-test.network
 nginx-cn.core-webhook-proxy.avax-test.network
 bastion.core-webhook-proxy.avax-test.network
 mobileboards.core-webhook-proxy.avax-test.network
-www.mobi.core-webhook-proxy.avax-test.network
+mobi.core-webhook-proxy.avax-test.network
 videos.core-webhook-proxy.avax-test.network
 all.videocdn.core-webhook-proxy.avax-test.network
 w4.core-webhook-proxy.avax-test.network
@@ -214,7 +210,7 @@ jc.core-webhook-proxy.avax-test.network
 pz0hvq.nsk.core-webhook-proxy.avax-test.network
 egypt.core-webhook-proxy.avax-test.network
 boards-users.core-webhook-proxy.avax-test.network
-www.promo.core-webhook-proxy.avax-test.network
+promo.core-webhook-proxy.avax-test.network
 products.core-webhook-proxy.avax-test.network
 ctl.core-webhook-proxy.avax-test.network
 marchcontent.core-webhook-proxy.avax-test.network
@@ -245,14 +241,14 @@ query.core-webhook-proxy.avax-test.network
 3954.core-webhook-proxy.avax-test.network
 es.core-webhook-proxy.avax-test.network
 tp17t50ngx94e4ku-g.stat.core-webhook-proxy.avax-test.network
-www.hotels.core-webhook-proxy.avax-test.network
+hotels.core-webhook-proxy.avax-test.network
 13-boards.core-webhook-proxy.avax-test.network
 train.core-webhook-proxy.avax-test.network
 service.boards.core-webhook-proxy.avax-test.network
 soporte.core-webhook-proxy.avax-test.network
 anthony.core-webhook-proxy.avax-test.network
 qmail.core-webhook-proxy.avax-test.network
-www.android.core-webhook-proxy.avax-test.network
+android.core-webhook-proxy.avax-test.network
 sk-yiggpn93bg1co.beta.core-webhook-proxy.avax-test.network
 smail.core-webhook-proxy.avax-test.network
 eu0wh58ibgr.flash.core-webhook-proxy.avax-test.network
@@ -385,7 +381,7 @@ webct.core-webhook-proxy.avax-test.network
 radio.core-webhook-proxy.avax-test.network
 avalanche-faucet.avax-test.network
 wsus.core-webhook-proxy.avax-test.network
-www.office.core-webhook-proxy.avax-test.network
+office.core-webhook-proxy.avax-test.network
 contentdev2.core-webhook-proxy.avax-test.network
 destiny.core-webhook-proxy.avax-test.network
 1ini9p1jw32f3u89.core-webhook-proxy.avax-test.network
@@ -400,7 +396,7 @@ d2.core-webhook-proxy.avax-test.network
 devel.core-webhook-proxy.avax-test.network
 s26.core-webhook-proxy.avax-test.network
 noc-page.core-webhook-proxy.avax-test.network
-www.se.core-webhook-proxy.avax-test.network
+se.core-webhook-proxy.avax-test.network
 portal2.core-webhook-proxy.avax-test.network
 development.core-webhook-proxy.avax-test.network
 k9.core-webhook-proxy.avax-test.network
@@ -442,7 +438,7 @@ ngj-qi97z1bn3dlczz.test.core-webhook-proxy.avax-test.network
 pma-boards.core-webhook-proxy.avax-test.network
 hacker.core-webhook-proxy.avax-test.network
 portal1.core-webhook-proxy.avax-test.network
-www.info.core-webhook-proxy.avax-test.network
+info.core-webhook-proxy.avax-test.network
 warden.core-webhook-proxy.avax-test.network
 cloud-content.core-webhook-proxy.avax-test.network
 stella.core-webhook-proxy.avax-test.network
@@ -475,7 +471,7 @@ ns38.core-webhook-proxy.avax-test.network
 datatunnel.core-webhook-proxy.avax-test.network
 asana.core-webhook-proxy.avax-test.network
 dev1.core-webhook-proxy.avax-test.network
-www.staging.core-webhook-proxy.avax-test.network
+staging.core-webhook-proxy.avax-test.network
 es-content.core-webhook-proxy.avax-test.network
 content-cart.core-webhook-proxy.avax-test.network
 subnet-explorer-api-dev.avax-test.network
@@ -517,8 +513,8 @@ testing.core-webhook-proxy.avax-test.network
 sierracharlie.users.core-webhook-proxy.avax-test.network
 ljk3ozdeniurnuaz.core-webhook-proxy.avax-test.network
 cnapi3.core-webhook-proxy.avax-test.network
-www.c.core-webhook-proxy.avax-test.network
-www.art.core-webhook-proxy.avax-test.network
+c.core-webhook-proxy.avax-test.network
+art.core-webhook-proxy.avax-test.network
 google.core-webhook-proxy.avax-test.network
 marketing.core-webhook-proxy.avax-test.network
 america.core-webhook-proxy.avax-test.network
@@ -541,7 +537,6 @@ rktg6kpx9kx8.control.core-webhook-proxy.avax-test.network
 14dev0.core-webhook-proxy.avax-test.network
 jg.core-webhook-proxy.avax-test.network
 outlet.core-webhook-proxy.avax-test.network
-c.core-webhook-proxy.avax-test.network
 wf.core-webhook-proxy.avax-test.network
 staff.core-webhook-proxy.avax-test.network
 desktop.core-webhook-proxy.avax-test.network
@@ -647,7 +642,6 @@ mgw6yptgprvkzsc9.core-webhook-proxy.avax-test.network
 viwz3xe21pkogpj6pv.board.core-webhook-proxy.avax-test.network
 mtjaumcpruiojyaaz5v.services.core-webhook-proxy.avax-test.network
 two.14.core-webhook-proxy.avax-test.network
-www.marketing.core-webhook-proxy.avax-test.network
 ingressposthog.core-webhook-proxy.avax-test.network
 _tsdns._tcp.core-webhook-proxy.avax-test.network
 guru.core-webhook-proxy.avax-test.network
@@ -691,7 +685,7 @@ front.core-webhook-proxy.avax-test.network
 testnet-playdappte-us-west-2.avax-test.network
 ssltest.core-webhook-proxy.avax-test.network
 cp.core-webhook-proxy.avax-test.network
-www.extranet.core-webhook-proxy.avax-test.network
+extranet.core-webhook-proxy.avax-test.network
 brasil.core-webhook-proxy.avax-test.network
 clk435u6b7sv.acc.core-webhook-proxy.avax-test.network
 boardspartners.core-webhook-proxy.avax-test.network
@@ -733,7 +727,7 @@ us.core-webhook-proxy.avax-test.network
 alpha.core-webhook-proxy.avax-test.network
 seedless-api.core-webhook-proxy.avax-test.network
 contentcloudfront.core-webhook-proxy.avax-test.network
-www.ts.core-webhook-proxy.avax-test.network
+ts.core-webhook-proxy.avax-test.network
 admin4domaincontrolpanel.core-webhook-proxy.avax-test.network
 t36pgrauaue9hnve1ak.users.core-webhook-proxy.avax-test.network
 defender.core-webhook-proxy.avax-test.network
@@ -795,7 +789,6 @@ testnet-dogus-us-west-2.core-webhook-proxy.avax-test.network
 albert.core-webhook-proxy.avax-test.network
 custom.core-webhook-proxy.avax-test.network
 data.admin4.core-webhook-proxy.avax-test.network
-www.videos.core-webhook-proxy.avax-test.network
 ftp.core-webhook-proxy.avax-test.network
 localhost.core-webhook-proxy.avax-test.network
 mu.core-webhook-proxy.avax-test.network
@@ -860,7 +853,7 @@ api-dexalot-testnet-debug.avax-test.network
 services.core-webhook-proxy.avax-test.network
 nt.page.core-webhook-proxy.avax-test.network
 weblog.core-webhook-proxy.avax-test.network
-www.webmail.core-webhook-proxy.avax-test.network
+webmail.core-webhook-proxy.avax-test.network
 biznes.core-webhook-proxy.avax-test.network
 europe-admin4.core-webhook-proxy.avax-test.network
 ether.core-webhook-proxy.avax-test.network
@@ -869,14 +862,11 @@ castor.core-webhook-proxy.avax-test.network
 enjfsd68g9hc1bsu8dn7.mobile.core-webhook-proxy.avax-test.network
 cnsharepoint.core-webhook-proxy.avax-test.network
 jira.core-webhook-proxy.avax-test.network
-info.core-webhook-proxy.avax-test.network
 preview.core-webhook-proxy.avax-test.network
 auction.core-webhook-proxy.avax-test.network
 nhvmj3f9gg4jd.client.core-webhook-proxy.avax-test.network
-www.php.core-webhook-proxy.avax-test.network
 virtual.core-webhook-proxy.avax-test.network
 whois.core-webhook-proxy.avax-test.network
-www.library.core-webhook-proxy.avax-test.network
 bp.core-webhook-proxy.avax-test.network
 acbuw9y5l33nexp4.explorer.core-webhook-proxy.avax-test.network
 13temp.core-webhook-proxy.avax-test.network
@@ -893,7 +883,7 @@ latin.core-webhook-proxy.avax-test.network
 phoenix.core-webhook-proxy.avax-test.network
 cn-external.core-webhook-proxy.avax-test.network
 newsletter.core-webhook-proxy.avax-test.network
-www.sandbox.core-webhook-proxy.avax-test.network
+sandbox.core-webhook-proxy.avax-test.network
 auth.core-webhook-proxy.avax-test.network
 boardssept.core-webhook-proxy.avax-test.network
 cms0.core-webhook-proxy.avax-test.network
@@ -922,7 +912,6 @@ jx.core-webhook-proxy.avax-test.network
 laboratories.core-webhook-proxy.avax-test.network
 xyz.core-webhook-proxy.avax-test.network
 repo.core-webhook-proxy.avax-test.network
-www.games.core-webhook-proxy.avax-test.network
 atlas-boards.core-webhook-proxy.avax-test.network
 alumni.core-webhook-proxy.avax-test.network
 free.core-webhook-proxy.avax-test.network
@@ -935,7 +924,7 @@ akamai.core-webhook-proxy.avax-test.network
 www-test-9.core-webhook-proxy.avax-test.network
 boards-slave.core-webhook-proxy.avax-test.network
 99rmche8ce2mqz5y.core-webhook-proxy.avax-test.network
-www.work.core-webhook-proxy.avax-test.network
+work.core-webhook-proxy.avax-test.network
 ex.core-webhook-proxy.avax-test.network
 contentx.core-webhook-proxy.avax-test.network
 domaincontrolpanel.core-webhook-proxy.avax-test.network
@@ -994,10 +983,9 @@ host-admin4.core-webhook-proxy.avax-test.network
 io.core-webhook-proxy.avax-test.network
 hvm0jh.members.core-webhook-proxy.avax-test.network
 gmail.core-webhook-proxy.avax-test.network
-www.sports.core-webhook-proxy.avax-test.network
+sports.core-webhook-proxy.avax-test.network
 cdn2.core-webhook-proxy.avax-test.network
 1.core-webhook-proxy.avax-test.network
-foto.core-webhook-proxy.avax-test.network
 testnet-jono14-us-west-2.avax-test.network
 bridge-api.avax-test.network
 in.core-webhook-proxy.avax-test.network
@@ -1030,7 +1018,6 @@ cms.core-webhook-proxy.avax-test.network
 multi.core-webhook-proxy.avax-test.network
 webcam.admin4.core-webhook-proxy.avax-test.network
 13-meta.core-webhook-proxy.avax-test.network
-hotels.core-webhook-proxy.avax-test.network
 contentorion.core-webhook-proxy.avax-test.network
 14galeria.core-webhook-proxy.avax-test.network
 ads.core-webhook-proxy.avax-test.network
@@ -1065,7 +1052,7 @@ dk16nbo763tqu4818gn5r.analytics.core-webhook-proxy.avax-test.network
 apollo.core-webhook-proxy.avax-test.network
 _www-ldap-gw._tcp.core-webhook-proxy.avax-test.network
 pruebas.core-webhook-proxy.avax-test.network
-www.reklama.core-webhook-proxy.avax-test.network
+reklama.core-webhook-proxy.avax-test.network
 access.core-webhook-proxy.avax-test.network
 promotioncn.core-webhook-proxy.avax-test.network
 vmail.core-webhook-proxy.avax-test.network
@@ -1101,7 +1088,6 @@ ns.core-webhook-proxy.avax-test.network
 members.core-webhook-proxy.avax-test.network
 autoconfig.static.core-webhook-proxy.avax-test.network
 ffat64yr24hlnga6ku29i.control.core-webhook-proxy.avax-test.network
-www.x.core-webhook-proxy.avax-test.network
 c8k8b7xpgdnppggs.core-webhook-proxy.avax-test.network
 ja.core-webhook-proxy.avax-test.network
 relayer-dev.core-webhook-proxy.avax-test.network
@@ -1119,7 +1105,6 @@ descargas.core-webhook-proxy.avax-test.network
 ipfixe.core-webhook-proxy.avax-test.network
 euw-admin4.core-webhook-proxy.avax-test.network
 ids.core-webhook-proxy.avax-test.network
-sports.core-webhook-proxy.avax-test.network
 remote.core-webhook-proxy.avax-test.network
 svn.core-webhook-proxy.avax-test.network
 rss-14.core-webhook-proxy.avax-test.network
@@ -1182,7 +1167,6 @@ social.core-webhook-proxy.avax-test.network
 security.core-webhook-proxy.avax-test.network
 integration.core-webhook-proxy.avax-test.network
 _kerberos-master._tcp.core-webhook-proxy.avax-test.network
-office.core-webhook-proxy.avax-test.network
 korcn.core-webhook-proxy.avax-test.network
 redir13.core-webhook-proxy.avax-test.network
 turk-page.core-webhook-proxy.avax-test.network
@@ -1192,7 +1176,6 @@ compras.core-webhook-proxy.avax-test.network
 paywall.core-webhook-proxy.avax-test.network
 contentmail.core-webhook-proxy.avax-test.network
 kit.core-webhook-proxy.avax-test.network
-help.core-webhook-proxy.avax-test.network
 13-integration.core-webhook-proxy.avax-test.network
 old.core-webhook-proxy.avax-test.network
 2008.core-webhook-proxy.avax-test.network
@@ -1216,7 +1199,6 @@ wwwm.core-webhook-proxy.avax-test.network
 www9.core-webhook-proxy.avax-test.network
 diy.core-webhook-proxy.avax-test.network
 novo.core-webhook-proxy.avax-test.network
-webmail.core-webhook-proxy.avax-test.network
 ingresspartner.core-webhook-proxy.avax-test.network
 barney.core-webhook-proxy.avax-test.network
 booking.core-webhook-proxy.avax-test.network
@@ -1241,7 +1223,6 @@ bingo.core-webhook-proxy.avax-test.network
 7.core-webhook-proxy.avax-test.network
 soa.core-webhook-proxy.avax-test.network
 testing.9.core-webhook-proxy.avax-test.network
-se.core-webhook-proxy.avax-test.network
 prep.core-webhook-proxy.avax-test.network
 mobile.9.core-webhook-proxy.avax-test.network
 staging4.core-webhook-proxy.avax-test.network
@@ -1329,7 +1310,6 @@ backoffice.core-webhook-proxy.avax-test.network
 polygon.core-webhook-proxy.avax-test.network
 teamboards.core-webhook-proxy.avax-test.network
 stat14.core-webhook-proxy.avax-test.network
-www.kazan.core-webhook-proxy.avax-test.network
 ns33.core-webhook-proxy.avax-test.network
 14korea.core-webhook-proxy.avax-test.network
 enigma.core-webhook-proxy.avax-test.network
@@ -1358,7 +1338,6 @@ ftp2-boards.core-webhook-proxy.avax-test.network
 ehw2-umalc31xhfyqq.image.core-webhook-proxy.avax-test.network
 spp.core-webhook-proxy.avax-test.network
 network.core-webhook-proxy.avax-test.network
-reklama.core-webhook-proxy.avax-test.network
 9-foros.core-webhook-proxy.avax-test.network
 psychologie.core-webhook-proxy.avax-test.network
 speedtest.core-webhook-proxy.avax-test.network
@@ -1396,16 +1375,13 @@ bluesky.core-webhook-proxy.avax-test.network
 g2.core-webhook-proxy.avax-test.network
 bsc.core-webhook-proxy.avax-test.network
 2xvkc3.search.core-webhook-proxy.avax-test.network
-work.core-webhook-proxy.avax-test.network
 demostration.core-webhook-proxy.avax-test.network
 admin4rdp.core-webhook-proxy.avax-test.network
 node2.core-webhook-proxy.avax-test.network
 ekaterinburg.core-webhook-proxy.avax-test.network
-www.crm.core-webhook-proxy.avax-test.network
 i9mn6p759b9iom803d1fg.old.core-webhook-proxy.avax-test.network
 rsc.core-webhook-proxy.avax-test.network
 root.core-webhook-proxy.avax-test.network
-dating.core-webhook-proxy.avax-test.network
 gkzi53lc3j0ag0.us.core-webhook-proxy.avax-test.network
 graphnode1.core-webhook-proxy.avax-test.network
 contentinfo.core-webhook-proxy.avax-test.network
@@ -1433,14 +1409,13 @@ page-vle.core-webhook-proxy.avax-test.network
 new.core-webhook-proxy.avax-test.network
 brand.core-webhook-proxy.avax-test.network
 folders.boards.core-webhook-proxy.avax-test.network
-www.demwunz.users.core-webhook-proxy.avax-test.network
+demwunz.users.core-webhook-proxy.avax-test.network
 testnet-jono13-us-west-2.avax-test.network
 btc13.core-webhook-proxy.avax-test.network
 ingress.core-webhook-proxy.avax-test.network
 domainadmin-content.core-webhook-proxy.avax-test.network
 wpad.core-webhook-proxy.avax-test.network
 mse.core-webhook-proxy.avax-test.network
-sandbox.core-webhook-proxy.avax-test.network
 mail9.core-webhook-proxy.avax-test.network
 s5.core-webhook-proxy.avax-test.network
 hotline.core-webhook-proxy.avax-test.network
@@ -1454,14 +1429,12 @@ oldwww.core-webhook-proxy.avax-test.network
 cloudflare-resolve-to.core-webhook-proxy.avax-test.network
 _imaps._tcp.core-webhook-proxy.avax-test.network
 boards-b1b.core-webhook-proxy.avax-test.network
-www.blogs.core-webhook-proxy.avax-test.network
 enterpriseenrollment.core-webhook-proxy.avax-test.network
 watson.core-webhook-proxy.avax-test.network
 country.core-webhook-proxy.avax-test.network
 catalogo.core-webhook-proxy.avax-test.network
 img7.core-webhook-proxy.avax-test.network
 api-dd-testnet-us-west-2.avax-test.network
-mobi.core-webhook-proxy.avax-test.network
 ft6o6a90oerm4h2a-j1.chat.core-webhook-proxy.avax-test.network
 3mkibbxn5-r-x3ftgi82nzaz.id.core-webhook-proxy.avax-test.network
 election.core-webhook-proxy.avax-test.network
@@ -1515,7 +1488,7 @@ eduroam.core-webhook-proxy.avax-test.network
 ns35.core-webhook-proxy.avax-test.network
 pad.core-webhook-proxy.avax-test.network
 da.9.core-webhook-proxy.avax-test.network
-www.tw.core-webhook-proxy.avax-test.network
+tw.core-webhook-proxy.avax-test.network
 bib.core-webhook-proxy.avax-test.network
 webdisk.old.core-webhook-proxy.avax-test.network
 pds.core-webhook-proxy.avax-test.network
@@ -1539,7 +1512,6 @@ zvh04vzh.social.core-webhook-proxy.avax-test.network
 meeting.core-webhook-proxy.avax-test.network
 13-la.core-webhook-proxy.avax-test.network
 dns5.core-webhook-proxy.avax-test.network
-poczta.core-webhook-proxy.avax-test.network
 ims.core-webhook-proxy.avax-test.network
 web01.core-webhook-proxy.avax-test.network
 unix-admin4.core-webhook-proxy.avax-test.network
@@ -1573,11 +1545,8 @@ airflow-ds.core-webhook-proxy.avax-test.network
 q.core-webhook-proxy.avax-test.network
 chronosadmin4.core-webhook-proxy.avax-test.network
 vm.core-webhook-proxy.avax-test.network
-www.core-webhook-proxy.avax-test.network
 identity.core-webhook-proxy.avax-test.network
-www.flash.core-webhook-proxy.avax-test.network
 jc3poeil.test.core-webhook-proxy.avax-test.network
-staging.core-webhook-proxy.avax-test.network
 na.pool.core-webhook-proxy.avax-test.network
 wwwm-cn.core-webhook-proxy.avax-test.network
 myaccount.core-webhook-proxy.avax-test.network
@@ -1590,28 +1559,25 @@ gw.core-webhook-proxy.avax-test.network
 book.core-webhook-proxy.avax-test.network
 upl.core-webhook-proxy.avax-test.network
 am.core-webhook-proxy.avax-test.network
-www.tools.core-webhook-proxy.avax-test.network
+tools.core-webhook-proxy.avax-test.network
 gc.core-webhook-proxy.avax-test.network
 cargo.core-webhook-proxy.avax-test.network
 web4-cn.core-webhook-proxy.avax-test.network
 decontent.core-webhook-proxy.avax-test.network
-www.api.core-webhook-proxy.avax-test.network
 testing3-cn.core-webhook-proxy.avax-test.network
 beauty.core-webhook-proxy.avax-test.network
 foo.core-webhook-proxy.avax-test.network
 03c83s5j7.ua.core-webhook-proxy.avax-test.network
 training.core-webhook-proxy.avax-test.network
-gsgou.users.core-webhook-proxy.avax-test.network
 imap5d.9.core-webhook-proxy.avax-test.network
-www.lab.core-webhook-proxy.avax-test.network
 mailgate-13.core-webhook-proxy.avax-test.network
 tomcat.core-webhook-proxy.avax-test.network
 pendrell.core-webhook-proxy.avax-test.network
 2018.core-webhook-proxy.avax-test.network
-www.careers.core-webhook-proxy.avax-test.network
+careers.core-webhook-proxy.avax-test.network
 picture.core-webhook-proxy.avax-test.network
 admin4-marketing.core-webhook-proxy.avax-test.network
-www.mobile.core-webhook-proxy.avax-test.network
+mobile.core-webhook-proxy.avax-test.network
 aws.core-webhook-proxy.avax-test.network
 13.core-webhook-proxy.avax-test.network
 testnet-shrapnel-us-west-2.avax-test.network
@@ -1619,7 +1585,6 @@ static2.core-webhook-proxy.avax-test.network
 m7.core-webhook-proxy.avax-test.network
 proto.core-webhook-proxy.avax-test.network
 h-e7mu6smnvbiq-zk.jobs.core-webhook-proxy.avax-test.network
-www.support.core-webhook-proxy.avax-test.network
 irawdode.social.core-webhook-proxy.avax-test.network
 sugar.core-webhook-proxy.avax-test.network
 13-catalog.core-webhook-proxy.avax-test.network
@@ -1651,15 +1616,12 @@ boardsspring.core-webhook-proxy.avax-test.network
 dev0.admin4.core-webhook-proxy.avax-test.network
 redir.core-webhook-proxy.avax-test.network
 asp.core-webhook-proxy.avax-test.network
-www.monitor.core-webhook-proxy.avax-test.network
 newyork.core-webhook-proxy.avax-test.network
 job.cn.core-webhook-proxy.avax-test.network
-www.www.core-webhook-proxy.avax-test.network
+www.core-webhook-proxy.avax-test.network
 pc1.core-webhook-proxy.avax-test.network
 control.core-webhook-proxy.avax-test.network
-mobile.core-webhook-proxy.avax-test.network
 s.core-webhook-proxy.avax-test.network
-tw.core-webhook-proxy.avax-test.network
 apc.core-webhook-proxy.avax-test.network
 gay.core-webhook-proxy.avax-test.network
 yoda.core-webhook-proxy.avax-test.network
@@ -1688,7 +1650,6 @@ it-content.core-webhook-proxy.avax-test.network
 mcuh4gsv74mmrcrzd4.client.core-webhook-proxy.avax-test.network
 biblioteca.core-webhook-proxy.avax-test.network
 sailing.core-webhook-proxy.avax-test.network
-android.core-webhook-proxy.avax-test.network
 montana.core-webhook-proxy.avax-test.network
 connect.admin4.core-webhook-proxy.avax-test.network
 peerinfo.avax-test.network
@@ -1701,7 +1662,6 @@ xena.core-webhook-proxy.avax-test.network
 ojkh40uriho5invw.core-webhook-proxy.avax-test.network
 xmail.core-webhook-proxy.avax-test.network
 2014.core-webhook-proxy.avax-test.network
-www.stream.core-webhook-proxy.avax-test.network
 9-kor.core-webhook-proxy.avax-test.network
 moodle.core-webhook-proxy.avax-test.network
 wl.core-webhook-proxy.avax-test.network
@@ -1712,14 +1672,12 @@ page-fr.core-webhook-proxy.avax-test.network
 s1.core-webhook-proxy.avax-test.network
 otrs.core-webhook-proxy.avax-test.network
 14.core-webhook-proxy.avax-test.network
-careers.core-webhook-proxy.avax-test.network
 vpn.core-webhook-proxy.avax-test.network
 addons-boards.core-webhook-proxy.avax-test.network
 webdisk.admin.core-webhook-proxy.avax-test.network
 mailman13.core-webhook-proxy.avax-test.network
 authentication.core-webhook-proxy.avax-test.network
 automotive.core-webhook-proxy.avax-test.network
-www.hr.core-webhook-proxy.avax-test.network
 boards-content.core-webhook-proxy.avax-test.network
 dc2.core-webhook-proxy.avax-test.network
 admin4v0.core-webhook-proxy.avax-test.network
@@ -1731,7 +1689,6 @@ nfs.core-webhook-proxy.avax-test.network
 8v0zwd4y0df4wa.en.core-webhook-proxy.avax-test.network
 calendar-13.core-webhook-proxy.avax-test.network
 dodge.core-webhook-proxy.avax-test.network
-www.board.core-webhook-proxy.avax-test.network
 coivb4pmb.jc.core-webhook-proxy.avax-test.network
 teste.core-webhook-proxy.avax-test.network
 kurgan.core-webhook-proxy.avax-test.network
@@ -1749,12 +1706,10 @@ reset.14.core-webhook-proxy.avax-test.network
 tulip.core-webhook-proxy.avax-test.network
 web05.core-webhook-proxy.avax-test.network
 bitcoin.core-webhook-proxy.avax-test.network
-art.core-webhook-proxy.avax-test.network
 bitcoin-bridge-api.avax-test.network
 novell.core-webhook-proxy.avax-test.network
 tst.core-webhook-proxy.avax-test.network
 akali.core-webhook-proxy.avax-test.network
-www.tr.core-webhook-proxy.avax-test.network
 y6kopd63yxh5.images.core-webhook-proxy.avax-test.network
 ingress.apac.core-webhook-proxy.avax-test.network
 origin-admin4.core-webhook-proxy.avax-test.network
@@ -1764,7 +1719,6 @@ go9.core-webhook-proxy.avax-test.network
 money.core-webhook-proxy.avax-test.network
 tracker.core-webhook-proxy.avax-test.network
 deliver.core-webhook-proxy.avax-test.network
-www.reg.core-webhook-proxy.avax-test.network
 lfnc1atkdzccjwv.forum.core-webhook-proxy.avax-test.network
 iy07jxl9dy.ua.core-webhook-proxy.avax-test.network
 php9.core-webhook-proxy.avax-test.network
@@ -1783,7 +1737,6 @@ node9.core-webhook-proxy.avax-test.network
 postmaster.core-webhook-proxy.avax-test.network
 boards-affiliate.core-webhook-proxy.avax-test.network
 sypp5l8bqjkjjuto.core-webhook-proxy.avax-test.network
-ts.core-webhook-proxy.avax-test.network
 dexter.core-webhook-proxy.avax-test.network
 ingress.sandbox.core-webhook-proxy.avax-test.network
 ras.core-webhook-proxy.avax-test.network
@@ -1823,7 +1776,6 @@ win35.core-webhook-proxy.avax-test.network
 roger.core-webhook-proxy.avax-test.network
 oldsite9.core-webhook-proxy.avax-test.network
 hotspotboards.core-webhook-proxy.avax-test.network
-promo.core-webhook-proxy.avax-test.network
 mis.core-webhook-proxy.avax-test.network
 test4.core-webhook-proxy.avax-test.network
 igqzt-knfd.school.core-webhook-proxy.avax-test.network
@@ -1843,14 +1795,12 @@ webadmin.core-webhook-proxy.avax-test.network
 eg.core-webhook-proxy.avax-test.network
 argocd-subnets-testnet.avax-test.network
 pagefacebook.core-webhook-proxy.avax-test.network
-www.geo.core-webhook-proxy.avax-test.network
 dialin.core-webhook-proxy.avax-test.network
 home.core-webhook-proxy.avax-test.network
 ajt1g68fprgry555.android.core-webhook-proxy.avax-test.network
 ipsec-14.core-webhook-proxy.avax-test.network
 fl.core-webhook-proxy.avax-test.network
 boardswordpress.core-webhook-proxy.avax-test.network
-www.catalog.core-webhook-proxy.avax-test.network
 cn-loopback.core-webhook-proxy.avax-test.network
 rs.core-webhook-proxy.avax-test.network
 oc.core-webhook-proxy.avax-test.network
@@ -1860,16 +1810,13 @@ arq34py56ndoc6j4.core-webhook-proxy.avax-test.network
 private-14.core-webhook-proxy.avax-test.network
 os.core-webhook-proxy.avax-test.network
 api-us-west-2.avax-test.network
-www.vestibular.core-webhook-proxy.avax-test.network
 beer.core-webhook-proxy.avax-test.network
 euw.core-webhook-proxy.avax-test.network
 container.core-webhook-proxy.avax-test.network
-extranet.core-webhook-proxy.avax-test.network
 dns.core-webhook-proxy.avax-test.network
 maxim.core-webhook-proxy.avax-test.network
 www-admin4.core-webhook-proxy.avax-test.network
 barracuda.core-webhook-proxy.avax-test.network
-tools.core-webhook-proxy.avax-test.network
 1irbrfsh079vt3bau.flash.core-webhook-proxy.avax-test.network
 river.core-webhook-proxy.avax-test.network
 dhcp.core-webhook-proxy.avax-test.network
@@ -1880,7 +1827,6 @@ social.14.core-webhook-proxy.avax-test.network
 u0ln32uwty5a3nxe.core-webhook-proxy.avax-test.network
 bridge.core-webhook-proxy.avax-test.network
 autoconfig.directory.core-webhook-proxy.avax-test.network
-www.noc.core-webhook-proxy.avax-test.network
 testing0.core-webhook-proxy.avax-test.network
 sv.admin4.core-webhook-proxy.avax-test.network
 ns02.core-webhook-proxy.avax-test.network
@@ -1891,7 +1837,6 @@ accounting.core-webhook-proxy.avax-test.network
 robin.core-webhook-proxy.avax-test.network
 beta.core-webhook-proxy.avax-test.network
 jupiter.core-webhook-proxy.avax-test.network
-www.whois.core-webhook-proxy.avax-test.network
 market.core-webhook-proxy.avax-test.network
 search-admin4.core-webhook-proxy.avax-test.network
 h9c0iv362s.board.core-webhook-proxy.avax-test.network
@@ -1913,7 +1858,6 @@ ftpd-14.core-webhook-proxy.avax-test.network
 ibank.core-webhook-proxy.avax-test.network
 9-polkadot.core-webhook-proxy.avax-test.network
 9-germany.core-webhook-proxy.avax-test.network
-www.testing.core-webhook-proxy.avax-test.network
 camping.core-webhook-proxy.avax-test.network
 rnd.core-webhook-proxy.avax-test.network
 webcast.core-webhook-proxy.avax-test.network
@@ -1947,7 +1891,6 @@ _pop3s._tcp.core-webhook-proxy.avax-test.network
 ethereum.core-webhook-proxy.avax-test.network
 corporate14.core-webhook-proxy.avax-test.network
 katalog.core-webhook-proxy.avax-test.network
-demwunz.users.core-webhook-proxy.avax-test.network
 boards-api-docs.core-webhook-proxy.avax-test.network
 iphone.core-webhook-proxy.avax-test.network
 umn2fznq1vc1rzmlum7o8g.core-webhook-proxy.avax-test.network
@@ -1961,5 +1904,4 @@ mailhost-boards.core-webhook-proxy.avax-test.network
 igk.core-webhook-proxy.avax-test.network
 oc.pool.core-webhook-proxy.avax-test.network
 io.cn.core-webhook-proxy.avax-test.network
-*.core-webhook-proxy.avax-test.network
 _dmarc.avax-test.network

@@ -86,7 +86,6 @@ lyncdiscover.allpay.net
 trn.allpay.net
 webcon.allpay.net
 plt.allpay.net
-www.allpay.net
 customerhub.uat.allpay.net
 api.tpa.allpay.net
 mail.allpay.net
@@ -135,6 +134,3 @@ test3.allpay.net
 ezine.allpay.net
 vpn.allpay.net
 agilis.qua01.allpay.net
-*.prd01.allpay.net
-*.agilis.uat01.allpay.net
-*.agilis.trn01.allpay.net

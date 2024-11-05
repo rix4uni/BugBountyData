@@ -37,7 +37,6 @@ demo22.falcon-sandbox.com
 content.falcon-sandbox.com
 evocate.falcon-sandbox.com
 h7.falcon-sandbox.com
-www.falcon-sandbox.com
 k5.falcon-sandbox.com
 uni.falcon-sandbox.com
 intellij-java-xl-style.falcon-sandbox.com
@@ -1178,7 +1177,6 @@ oraclearvest-eu-west-1mobileclient.elb.falcon-sandbox.com
 nodearvest.falcon-sandbox.com
 13-arvest-eu-west-1.elb.fileserver.falcon-sandbox.com
 monitor-arvest-eu-west-1.k8s-prodelb.falcon-sandbox.com
-*.falcon-sandbox.com
 abv.falcon-sandbox.com
 adaptivebiotech.falcon-sandbox.com
 anz.falcon-sandbox.com
@@ -1223,8 +1221,6 @@ i.falcon-sandbox.com
 adserver.prd-lean-lb-47186949.eu-west-1.nov-elb-ads.arvest.falcon-sandbox.com
 georgiaunited.falcon-sandbox.com
 prd-lean-lb-47186949.eu-west-1.elb.arvest-evelynn.falcon-sandbox.com
-www.kb.falcon-sandbox.com
-www.shell.falcon-sandbox.com
 admins3-global-18-219-30-21.falcon-sandbox.com
 1-6-5s3-global.falcon-sandbox.com
 2-3-5scompute-compute.falcon-sandbox.com
@@ -1401,7 +1397,7 @@ ah-dec2-34-220-83-55-3-8-228-127compute.falcon-sandbox.com
 1--99-5elb-35-182-10-146.falcon-sandbox.com
 1--99-5-1529640993170581718.falcon-sandbox.com
 51m7ec2-54-191-24-137-18-219-30-21.falcon-sandbox.com
-www.renre.falcon-sandbox.com
+renre.falcon-sandbox.com
 2016u1720172018.falcon-sandbox.com
 history-3-8-228-127compute--51m7.falcon-sandbox.com
 3-4-0s.falcon-sandbox.com

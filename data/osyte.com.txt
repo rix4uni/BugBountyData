@@ -16,8 +16,6 @@ stage.osyte.com
 staging2.osyte.com
 status.osyte.com
 test.osyte.com
-www.osyte.com
-www.staging2.osyte.com
 auth.clientapi-dev.osyte.com
 autodiscover.osyte.com
 cpanel.osyte.com
@@ -32,6 +30,3 @@ testdrivetrade.osyte.com
 testing123.osyte.com
 webdisk.osyte.com
 webmail.osyte.com
-www.dashboard.osyte.com
-www.demo.osyte.com
-www.testing123.osyte.com

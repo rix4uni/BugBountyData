@@ -158,7 +158,7 @@ soapipsup.hidglobal.com
 pi.intranet.hidglobal.com
 staging.transport.digitalid.hidglobal.com
 openidservice.webportal.origo.hidglobal.com
-www.iamsportal.hidglobal.com
+iamsportal.hidglobal.com
 event.api.eu.origo.hidglobal.com
 m.api.eu.origo.hidglobal.com
 preprod.portal.iam.hidglobal.com
@@ -183,7 +183,6 @@ managedservices.hidglobal.com
 connected-architecture.api.origo.hidglobal.com
 iamsustaining.hidglobal.com
 isupplieruat.hidglobal.com
-www.hidglobal.com
 cert.acs.api.origo.hidglobal.com
 int.sdi.hidglobal.com
 vertex.aq1.hidglobal.com
@@ -202,7 +201,7 @@ eatdevportal.hidglobal.com
 connected-architecture.cert.api.origo.hidglobal.com
 authentication-config.hidglobal.com
 go.reader.hidglobal.com
-www.support.hidglobal.com
+support.hidglobal.com
 cms.dcbs.hidglobal.com
 edidev.hidglobal.com
 soapip.aq1.hidglobal.com
@@ -269,7 +268,6 @@ groups.hidglobal.com
 passport-facade-service.cert.webportal.origo.hidglobal.com
 prg-eng-src0.hidglobal.com
 staging.hidglobal.com
-iamsportal.hidglobal.com
 preprod.orderstatus.hidglobal.com
 qa.activid.sdi.hidglobal.com
 sur-eng-ab2.hidglobal.com
@@ -343,7 +341,7 @@ status.fargoconnect.hidglobal.com
 hidcrevpn.hidglobal.com
 hotdsecmatters.hidglobal.com
 license-dev.hidglobal.com
-www.idp.hidglobal.com
+idp.hidglobal.com
 emoddev.hidglobal.com
 linqcloud.cert.origo.hidglobal.com
 certificate-manager.api.origo.hidglobal.com
@@ -359,7 +357,6 @@ usauslivlxmfa1.hidglobal.com
 auth-us.api.admin.hidglobal.com
 uspal-sms.hidglobal.com
 agile.hidglobal.com
-idp.hidglobal.com
 vulcans.hidglobal.com
 agile.aq1fs.hidglobal.com
 test-pki.activid.hidglobal.com
@@ -384,7 +381,7 @@ ociwosdev.hidglobal.com
 sftp.hidglobal.com
 dev-sdi.hidglobal.com
 dev-dm2018.pantheonsite.io.hidglobal.com
-www.ws.managedservices.hidglobal.com
+ws.managedservices.hidglobal.com
 intranet.hidglobal.com
 google-wallet-fle.api.origo.hidglobal.com
 hfc.hidglobal.com
@@ -470,7 +467,7 @@ p.api.eval.dcm.hidglobal.com
 isupplierliv.hidglobal.com
 linqcloudservice.preprod.origo.hidglobal.com
 pacs-config.hidglobal.com
-www.wp.test.origo.hidglobal.com
+wp.test.origo.hidglobal.com
 sharepoint4.hidglobal.com
 ebslivcmdisco.hidglobal.com
 ebssit.hidglobal.com
@@ -487,7 +484,6 @@ mibws.hidglobal.com
 auth-eu.user.hidglobal.com
 analytics.developers.hidglobal.com
 oiad1itilxgit01.hidglobal.com
-www.scs.hidglobal.com
 brand.hidglobal.com
 agileaq2fs.hidglobal.com
 dc2.reflab.ps.hidglobal.com
@@ -495,7 +491,6 @@ iod.hidglobal.com
 apexdmo.hidglobal.com
 m.api.eu-de.origo.hidglobal.com
 mobileidentitywsvcpp.hidglobal.com
-www.wallet.origo.hidglobal.com
 smtp-oci.hidglobal.com
 api.preprod.compass.hidglobal.com
 transport.digitalid.hidglobal.com
@@ -606,7 +601,6 @@ devtesthub.goid.hidglobal.com
 discovereraq2.hidglobal.com
 soapip.aq2.hidglobal.com
 sonar.linq.hidglobal.com
-www.smetrics.hidglobal.com
 linqcloudservice.cert.origo.hidglobal.com
 cnshwfw1.hidglobal.com
 credential-management.api.eu.origo.hidglobal.com
@@ -614,7 +608,6 @@ isupplier-uat.hidglobal.com
 platformhub.goid.hidglobal.com
 priyanka.hidglobal.com
 soapip.uat.hidglobal.com
-ws.managedservices.hidglobal.com
 credential-management-internal.api.origo.hidglobal.com
 prod-de.orchp.aaas.hidglobal.com
 search-service.webportal.origo.hidglobal.com
@@ -694,8 +687,7 @@ contract.api.origo.hidglobal.com
 devtest.ticketing.hidglobal.com
 middleware.webportal.origo.hidglobal.com
 toolkit.idt.hidglobal.com
-www.auth-eu.admin.hidglobal.com
-www.orderstatus.hidglobal.com
+orderstatus.hidglobal.com
 edi.hidglobal.com
 ociwstst.hidglobal.com
 preprod.portal.origo.hidglobal.com
@@ -715,11 +707,9 @@ sitowebwww.hidglobal.com
 rs-stage1.hidglobal.com
 rs-stage2.hidglobal.com
 usauststmsosco1.hidglobal.com
-www.partnerportal.hidglobal.com
 dev.mobilehub.goid.hidglobal.com
 test.lte.hidglobal.com
 psp.hidglobal.com
-orderstatus.hidglobal.com
 mail.hidglobal.com
 usfre-sms.hidglobal.com
 bosportal.hidglobal.com
@@ -736,7 +726,6 @@ demo.ls.hidglobal.com
 status.auth.hidglobal.com
 ioddemo.hidglobal.com
 oiad1aq2lxapx11.hidglobal.com
-www.activid.sdi.hidglobal.com
 api.preprod.authoro.hidglobal.com
 se-git-linux.hidglobal.com
 usfre-itapi.hidglobal.com
@@ -744,11 +733,10 @@ api.authoro.hidglobal.com
 app.api.cert.origo.hidglobal.com
 oiad2tstlxfxa01.hidglobal.com
 sur-eng-bin4.hidglobal.com
-support.hidglobal.com
 dm.hidglobal.com
 eng-atlas12.hidglobal.com
 iamsupport.hidglobal.com
-www.w.hidglobal.com
+w.hidglobal.com
 codereview.hidglobal.com
 credential-management.api.eu-de.origo.hidglobal.com
 integration1.ticketing.hidglobal.com
@@ -770,7 +758,6 @@ crescendo.hidglobal.com
 skms.staging.cg.hidglobal.com
 soapip.pch.hidglobal.com
 subscription.apiv2.portal.iam.hidglobal.com
-www.auth-us.admin.hidglobal.com
 portalservices.hidglobal.com
 ebsaq1.hidglobal.com
 flxtst.hidglobal.com
@@ -783,12 +770,10 @@ discoverer.uat.hidglobal.com
 license.hidglobal.com
 local.hidglobal.com
 test-idp.hidglobal.com
-wp.test.origo.hidglobal.com
 fre-eng-vcenter1.hidglobal.com
 ebsuat.hidglobal.com
 iicdev.hidglobal.com
 jenkins.czkar.hidglobal.com
-www.int.activid.sdi.hidglobal.com
 auth-de.api.admin.hidglobal.com
 artifacts.linq.hidglobal.com
 activid.hidglobal.com
@@ -810,13 +795,11 @@ fre-eng-bin4.hidglobal.com
 linqcloudservice.origo.hidglobal.com
 pcarrero.hidglobal.com
 vpndefra.hidglobal.com
-www.forms.hidglobal.com
 events.hidglobal.com
 devtesthub.ticketing.hidglobal.com
 iicliv.hidglobal.com
 se-jenkins1.hidglobal.com
 inembtstsurvc.hidglobal.com
-www.umanage.eit.hidglobal.com
 fiafi2livwebapp.hidglobal.com
 nexus.czkar.hidglobal.com
 vault.hidglobal.com
@@ -877,7 +860,6 @@ ebsdev.hidglobal.com
 apexliv.hidglobal.com
 ociwsliv.hidglobal.com
 oiad1livmsnxwb1.hidglobal.com
-3ww.hidglobal.com
 creativeservices.hidglobal.com
 hfc-pi.hidglobal.com
 isupplier-sup.hidglobal.com
@@ -886,8 +868,6 @@ qa.managedservices.hidglobal.com
 share.dev.hidglobal.com
 shop.hidglobal.com
 iwiki.dev.hidglobal.com
-w.hidglobal.com
 agilesitfs.hidglobal.com
 web.api.origo.hidglobal.com
-www.campaigns.hidglobal.com
 ebssbx.hidglobal.com

@@ -358,7 +358,7 @@ udenxmmo.datachecker-prod.k8s.shockmedia.nl
 niels.shockmedia.nl
 enquete.shockmedia.nl
 server1.waterluxe.cloud.shockmedia.nl
-www.backup.shockmedia.nl
+backup.shockmedia.nl
 server66.am-impact.cloud.shockmedia.nl
 bris3.shockmedia.nl
 thomtest5.app.k8s.shockmedia.nl
@@ -388,7 +388,6 @@ server1.plastica.cloud.shockmedia.nl
 server5-new.am-impact.cloud.shockmedia.nl
 server1.kippers.cloud.shockmedia.nl
 locallicious.shockmedia.nl
-backup.shockmedia.nl
 server3.brndz.cloud.shockmedia.nl
 server27-new.am-impact.cloud.shockmedia.nl
 thomtest2.app.k8s.shockmedia.nl
@@ -409,10 +408,8 @@ sara.shockmedia.nl
 kledingvinder2.nedfinity.cloud.shockmedia.nl
 i1s3cnk2.datachecker-prod.k8s.shockmedia.nl
 remastering.shockmedia.nl
-www.shockmedia.nl
 hosting21-new.cloud.shockmedia.nl
 server2.acato.cloud.shockmedia.nl
-www.staging1.sleiderink.cloud.shockmedia.nl
 nieuwesite.shockmedia.nl
 validaide-a-1.validaide.cloud.shockmedia.nl
 honsbeek.xencluster1.shockmedia.nl
@@ -434,7 +431,6 @@ development.top1toys.adwise.shockmedia.nl
 server1.amazing.shockmedia.nl
 test.nieuwsbrief.shockmedia.nl
 ogp.shockmedia.nl
-www.moc7.shockmedia.nl
 server47.am-impact.cloud.shockmedia.nl
 saskia.shockmedia.nl
 server1.wac.cloud.shockmedia.nl
@@ -502,7 +498,6 @@ mid1ac.tbl.shockmedia.nl
 db1.eazis.cloud.shockmedia.nl
 da4.cloud.shockmedia.nl
 server1.lanman.cloud.shockmedia.nl
-www.midmon1.tbl.shockmedia.nl
 server1.me.cloud.shockmedia.nl
 fortoda1.shockmedia.nl
 node2.mandalorian.shockmedia.nl
@@ -520,7 +515,6 @@ server1.moderna.cloud.shockmedia.nl
 node4.bris.shockmedia.nl
 server1.appliedrisk.cloud.shockmedia.nl
 ns3.apeldoorn.shockmedia.nl
-www.server3.bkc.cloud.shockmedia.nl
 zbxproxy.eazis.cloud.shockmedia.nl
 web1.fg.viral.shockmedia.nl
 agent02.stage01.glitnor.shockmedia.nl
@@ -561,7 +555,6 @@ node1.ninja.shockmedia.nl
 monq-db1.finnplay.shockmedia.nl
 repo.shockmedia.nl
 staging8.finnplay.shockmedia.nl
-www.phpmyadmin.web.altipla.shockmedia.nl
 wazuhelk02.shockmedia.nl
 da9-new.cloud.shockmedia.nl
 bris7.shockmedia.nl
@@ -585,7 +578,6 @@ downloads.shockmedia.nl
 node2.shockcloud.shockmedia.nl
 node1.k8s.am-impact.shockmedia.nl
 server1.funcall.cloud.shockmedia.nl
-www.node1.brixcrm.shockmedia.nl
 sqlslave1.jhg.shockmedia.nl
 webs2.op.shockmedia.nl
 services.pinkweb.shockmedia.nl
@@ -856,11 +848,9 @@ db2.ninja.shockmedia.nl
 kroesewevers.pinkweb.shockmedia.nl
 mila.shockmedia.nl
 proxy2.hpg.cloud.shockmedia.nl
-www.server1.webton.cloud.shockmedia.nl
 wazuh-worker-02.shockmedia.nl
 ha2.premiums.cloud.shockmedia.nl
 mid1p.tbl.shockmedia.nl
-www.webtserver01.cloud.shockmedia.nl
 moc5.shockmedia.nl
 itmundi1.shockmedia.nl
 bfweb.cluster.belfabriek.shockmedia.nl
@@ -1053,7 +1043,6 @@ bo1.slotjoint.shockmedia.nl
 bc1.shockmedia.nl
 juniper-d216.shockmedia.nl
 onboarding.hpg.cloud.shockmedia.nl
-www.node2.brixcrm.shockmedia.nl
 profronde1.shockmedia.nl
 fallbackmx.shockmedia.nl
 topicus.cube.shockmedia.nl
@@ -1091,7 +1080,6 @@ web2.taxapi.cloud.shockmedia.nl
 server1.marotura.cloud.shockmedia.nl
 sonar.shockmedia.nl
 server1.horescasmulders.shockmedia.nl
-www.server1.moma.cloud.shockmedia.nl
 mailproxy.webton.shockmedia.nl
 amy.cluster2.shockmedia.nl
 carconnect2.terberg.shockmedia.nl
@@ -1238,7 +1226,6 @@ bo1.fg.viral.shockmedia.nl
 server1.nestor.cloud.shockmedia.nl
 web2.altipla.shockmedia.nl
 juniper-b103.shockmedia.nl
-www.axon1.viral.shockmedia.nl
 sftp1.salesdock.cloud.shockmedia.nl
 server52.am-impact.cloud.shockmedia.nl
 server2.bammboo.shockmedia.nl
@@ -1319,7 +1306,6 @@ admin1.op.shockmedia.nl
 nataliya.shockmedia.nl
 web6.viral.shockmedia.nl
 telcp2.tbl.shockmedia.nl
-www.server1.krabo.cloud.shockmedia.nl
 server3.wirelab.cloud.shockmedia.nl
 log1.ninja.shockmedia.nl
 newtime1.vegas.shockmedia.nl
@@ -1365,7 +1351,6 @@ server24.am-impact.cloud.shockmedia.nl
 server1.valuco.cloud.shockmedia.nl
 monitoring.finnplay.shockmedia.nl
 server1.copyrobin.cloud.shockmedia.nl
-www.server1.upx.cloud.shockmedia.nl
 server1.keessmit.adwise.shockmedia.nl
 dedi-db1.iasset.shockmedia.nl
 server6.teamnijhuis.cloud.shockmedia.nl
@@ -1394,7 +1379,6 @@ kensi.shockmedia.nl
 bris10.shockmedia.nl
 recognize.shockmedia.nl
 msh8.shockmedia.nl
-www.server2.webton.cloud.shockmedia.nl
 api4.mediabookers.shockmedia.nl
 fiona.cloud.shockmedia.nl
 acc.taxapi.cloud.shockmedia.nl
@@ -1439,11 +1423,9 @@ mail1.voc.cloud.shockmedia.nl
 server1.blancomode.cloud.shockmedia.nl
 ekhrooney.xencluster1.shockmedia.nl
 server2.nerdscompany.cloud.shockmedia.nl
-www.server1.osr.cloud.shockmedia.nl
 severinus1.am-impact.cloud.shockmedia.nl
 server1.lowik.shockmedia.nl
 dgcron1.swissknife.shockmedia.nl
-www.node2.nieuwbouwnl.shockmedia.nl
 server1.freshapple.shockmedia.nl
 server1.montix.cloud.shockmedia.nl
 osm1.swissknife.shockmedia.nl
@@ -1492,7 +1474,6 @@ leon1.shockmedia.nl
 server1.unigear.shockmedia.nl
 lizzy.shockmedia.nl
 server2.gateway.cloud.shockmedia.nl
-www.server2.bkc.cloud.shockmedia.nl
 office2.shockmedia.nl
 server10.am-impact.cloud.shockmedia.nl
 storage2.op.shockmedia.nl
@@ -1517,7 +1498,6 @@ productie.capcloud.shockmedia.nl
 dwarz1.shockmedia.nl
 db2.eazis.cloud.shockmedia.nl
 lb.brixcrm.k8s.shockmedia.nl
-www.safe1.viral.shockmedia.nl
 test.vuora.cloud.shockmedia.nl
 server1.ftfa.cloud.shockmedia.nl
 telcp1.tbl.shockmedia.nl
@@ -1772,14 +1752,12 @@ delanoz.cloud.shockmedia.nl
 ta1.blink.cloud.shockmedia.nl
 webv3.op.shockmedia.nl
 factuur.shockmedia.nl
-www.node3.brixcrm.shockmedia.nl
 node3.shockcloud.shockmedia.nl
 devr1.shockmedia.nl
 server1.teamnijhuis.cloud.shockmedia.nl
 server3.borenco.cloud.shockmedia.nl
 pb1.shockmedia.nl
 storage.op.shockmedia.nl
-www.node1.nieuwbouwnl.shockmedia.nl
 web2.gini.shockmedia.nl
 tm2.shockmedia.nl
 job1.vrooam.shockmedia.nl

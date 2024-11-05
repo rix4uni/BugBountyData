@@ -1,5 +1,4 @@
-*.ancestry.ca
-*.ajax.ancestry.ca
+ajax.ancestry.ca
 api.ancestry.ca
 archives.ancestry.ca
 blog.ancestry.ca
@@ -24,8 +23,6 @@ boards.ancestry.ca
 mediasvc.ancestry.ca
 search.ancestry.ca
 banner.ajax.ancestry.ca
-www.ancestry.ca
-ajax.ancestry.ca
 support.ancestry.ca
 library.ancestry.ca
 mcservices.ancestry.ca
@@ -40,11 +37,10 @@ aaemail.ajax.ancestry.ca
 fbsso.ajax.ancestry.ca
 person.ancestry.ca
 community.ancestry.ca
-www.mycanvas.ancestry.ca
+mycanvas.ancestry.ca
 shoebox.ancestry.ca
 analytics.ancestry.ca
 imageservice.ancestry.ca
-mycanvas.ancestry.ca
 order.ancestry.ca
 sharing.ancestry.ca
 contextux.ancestry.ca

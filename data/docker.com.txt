@@ -201,7 +201,7 @@ production.platform.docker.com
 ultra-new-service.mikhail-status-test.sandbox.platform.docker.com
 server.javier-test-1.sandbox.platform.docker.com
 tutum.docker.com
-*.marlin-stage.docker.com
+marlin-stage.docker.com
 dockmaster.docker.com
 account-stage.docker.com
 ftp.blog.docker.com
@@ -218,7 +218,6 @@ repo.cloud.docker.com
 cp.docker.com
 contribute.docker.com
 admin.docker.com
-www.docker.com
 auth.docker.com
 base2.docker.com
 tunnel02.cloud.docker.com

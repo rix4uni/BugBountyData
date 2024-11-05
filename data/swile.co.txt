@@ -1,7 +1,6 @@
 travel-br-staging.swile.co
 travel-br.swile.co
 help.swile.co
-www.swile.co
 calendar.swile.co
 clicks.swile.co
 status.swile.co
@@ -9,7 +8,6 @@ company-api.swile.co
 directory.swile.co
 marketing.swile.co
 thedaily.swile.co
-www.brand-media-dev-wp.swile.co
 brand-media-dev-wp.swile.co
 team.swile.co
 corporate-core-api.swile.co
@@ -137,7 +135,7 @@ user6-frontend-a.training.swile.co
 benefits-api-staging.swile.co
 compliance-vgs.swile.co
 external-directory-staging.swile.co
-www.do.swile.co
+do.swile.co
 invoicing-api.swile.co
 pages-api-sandbox.swile.co
 polls-api-staging.swile.co
@@ -161,7 +159,7 @@ social-backoffice-sandbox.swile.co
 bz084.news.swile.co
 corporate-core-api-staging.swile.co
 flex-staging.swile.co
-www.vault.swile.co
+vault.swile.co
 benefits-flexben-br-api-staging.swile.co
 brand-media-wp.swile.co
 data-superset.swile.co
@@ -185,7 +183,7 @@ secret-vault-api-sandbox.swile.co
 corpo-features-apii-staging.swile.co
 places-api-sandbox.swile.co
 processing-api.swile.co
-www.portal.swile.co
+portal.swile.co
 hello-kubernetes.swile.co
 merchants-join-staging.swile.co
 places-api.swile.co
@@ -240,7 +238,6 @@ join-staging.swile.co
 notifications-hub.swile.co
 okarito-staging.swile.co
 brand-media-br-wp.swile.co
-portal.swile.co
 benefits-flexben-br-api.swile.co
 mta-165-114-201.info.swile.co
 admin-api-staging.swile.co
@@ -248,14 +245,11 @@ jeux.thedaily.swile.co
 accounting-api-staging.swile.co
 affiliates-api-staging.swile.co
 compliance-api-sandbox.swile.co
-www.help.swile.co
 ressources.swile.co
 user4-frontend-a.training.swile.co
-do.swile.co
 enrichment-api.swile.co
 invitations-api-sandbox.swile.co
 monext-adapter-api-sandbox.swile.co
-www.brand-media-br-wp.swile.co
 invoicing-api-sandbox.swile.co
 verygoodsecurity.swile.co
 training.swile.co
@@ -290,7 +284,6 @@ accounting-api.swile.co
 directory-limonetik-sandbox.swile.co
 finance-api.swile.co
 loop-api-sandbox.swile.co
-www.remote.swile.co
 files-vault-api.swile.co
 shop.swile.co
 user1-hello-kube.training.swile.co
@@ -302,7 +295,6 @@ platform-app-test-api.swile.co
 cards-api-staging.swile.co
 gophish-staging.swile.co
 notifications-hub-api-staging.swile.co
-www.brand-media-wp.swile.co
 enrichment-api-staging.swile.co
 monext-adapter-api-staging.swile.co
 pdf-sandbox.swile.co
@@ -323,7 +315,6 @@ design-system.swile.co
 external-directory-slack-staging.swile.co
 lebonmoment.swile.co
 team-sandbox.swile.co
-vault.swile.co
 gophish-tmp.swile.co
 in-app-notifications-api-staging.swile.co
 okarito-api-sandbox.swile.co

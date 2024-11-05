@@ -1,6 +1,5 @@
-*.onfido.com
-*.ca.onfido.com
-*.us.onfido.com
+ca.onfido.com
+us.onfido.com
 analytics-sdk.onfido.com
 analytics-sdk-1.onfido.com
 analytics-sdk-dev.onfido.com
@@ -19,7 +18,6 @@ applicants.onfido.com
 assets.onfido.com
 blog.onfido.com
 brand.onfido.com
-ca.onfido.com
 cab.onfido.com
 credentials-gateway.onfido.com
 credentials-gateway-dev.onfido.com
@@ -68,13 +66,8 @@ tf-kraken-eu-west-1b-master.onfido.com
 tf-kraken-eu-west-1c-master.onfido.com
 tls-api.onfido.com
 token-factory.onfido.com
-us.onfido.com
 us-east-1.onfido.com
 vdp.onfido.com
-www.onfido.com
-www.drivingrecords.onfido.com
-www.hub.onfido.com
-www.info.onfido.com
 cdn-ims-ui.onfido.com
 dashboard-api.onfido.com
 dev.onfido.com

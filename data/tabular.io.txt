@@ -29,7 +29,6 @@ app.gcp-us-west1.dev.tabular.io
 app.tabular.io
 api.cliff-bootstrap.tabular.io
 app.cliff-bootstrap.tabular.io
-www.tabular.io
 us-east-2.tabular.io
 net.sf.doolin.gui.ext.tabular.io
 net.sf.doolin.tabular.io

@@ -3,7 +3,6 @@ merchant.exmo.com
 info.exmo.com
 api.exmo.com
 fiat.exmo.com
-www.exmo.com
 exmocoin.exmo.com
 broker.exmo.com
 sg.exmo.com
@@ -22,7 +21,6 @@ img.exmo.com
 link.exmo.com
 tradingview.exmo.com
 uk.exmo.com
-*.exmo.com
 miron.exmo.com
 s2._domainkey.exmo.com
 _jabber._tcp.exmo.com
@@ -34,6 +32,5 @@ status.exmo.com
 _domainkey.exmo.com
 channel.exmo.com
 k1._domainkey.exmo.com
-www.m.exmo.com
 _xmpp-server._tcp.exmo.com
 media2.exmo.com

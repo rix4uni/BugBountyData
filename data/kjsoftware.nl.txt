@@ -30,7 +30,6 @@ zabbix.hq.kjsoftware.nl
 adezz-api-staging.web07.kjsoftware.nl
 hq.kjsoftware.nl
 adezz-api-staging.web06.kjsoftware.nl
-www.kjsoftware.nl
 featureflag-dev.kjsoftware.nl
 mt-link.kjsoftware.nl
 production.kubedemo.kjsoftware.nl
@@ -42,8 +41,6 @@ jenkins.hq.kjsoftware.nl
 staging.kubedemo.kjsoftware.nl
 test.kubedemo.kjsoftware.nl
 packeton.hq.kjsoftware.nl
-*.singularity.kjsoftware.nl
-*.scherm.kjsoftware.nl
 autodiscover.kjsoftware.nl
 vpn.kjsoftware.nl
 _dmarc.kjsoftware.nl

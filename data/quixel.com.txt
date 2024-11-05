@@ -32,7 +32,6 @@ dev-staging.quixel.com
 help.quixel.com
 meta.quixel.com
 dashboard-staging2.quixel.com
-www.quixel.com
 image-resize-staging.quixel.com
 downloadp.quixel.com
 tm.quixel.com
@@ -93,7 +92,6 @@ cdn-plugins-staging.quixel.com
 ff.quixel.com
 cfci-staging.quixel.com
 oca.quixel.com
-*.quixel.com
 unsubscribe.quixel.com
 svnalpha.quixel.com
 unsubscribe-staging.quixel.com

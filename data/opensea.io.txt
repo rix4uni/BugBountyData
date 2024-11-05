@@ -1,6 +1,5 @@
-*.opensea.io
-*.pro.opensea.io
-*.testnets.opensea.io
+pro.opensea.io
+testnets.opensea.io
 api.opensea.io
 api.k8s.opensea.io
 api2.opensea.io
@@ -41,7 +40,6 @@ partners.opensea.io
 partnerships.opensea.io
 previews.k8s.opensea.io
 privy.wallets.opensea.io
-pro.opensea.io
 rinkeby.opensea.io
 rinkeby-api.opensea.io
 rinkeby-storage.opensea.io
@@ -50,10 +48,7 @@ status.opensea.io
 storage.opensea.io
 support.opensea.io
 surveys.opensea.io
-testnets.opensea.io
 testnets-api.opensea.io
-www.opensea.io
-www.atlantis.k8s.opensea.io
 api.pro.opensea.io
 bounces.opensea.io
 dev-wallets.opensea.io

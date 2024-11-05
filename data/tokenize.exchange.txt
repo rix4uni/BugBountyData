@@ -16,8 +16,6 @@ dev2-api.tokenize.exchange
 ico-dev.tokenize.exchange
 ico.tokenize.exchange
 invite.tokenize.exchange
-www.blog.tokenize.exchange
-www.support.tokenize.exchange
 v3.tokenize.exchange
 old.tokenize.exchange
 testnet.tokenize.exchange
@@ -26,7 +24,6 @@ ip.tokenize.exchange
 news.tokenize.exchange
 account.tokenize.exchange
 api-v3.tokenize.exchange
-www.tokenize.exchange
 api.tokenize.exchange
 staging.tokenize.exchange
 dev2.tokenize.exchange
@@ -37,4 +34,3 @@ sso-api.tokenize.exchange
 api3.tokenize.exchange
 dev.tokenize.exchange
 com.tokenize.exchange
-*.tokenize.exchange

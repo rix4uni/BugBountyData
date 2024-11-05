@@ -20,7 +20,6 @@ trustifyoaddin.trustifi.com
 trustifystage.trustifi.com
 headers-scan.trustifi.com
 stageapp.trustifi.com
-www.trustifi.com
 sovasecure.trustifi.com
 iowabar.trustifi.com
 trustify.trustifi.com
@@ -36,7 +35,6 @@ email-security.trustifi.com
 stagecompany.trustifi.com
 staging.trustifi.com
 10.86.180.25events.trustifi.com
-www.staging.trustifi.com
 tracking.trustifi.com
 docs.trustifi.com
 testing.trustifi.com
@@ -45,9 +43,8 @@ mail.test.trustifi.com
 stage-ev01.trustifi.com
 webmail.ws1.trustifi.com
 stage-ev02.trustifi.com
-www.wssc.trustifi.com
-mail-12.trustifi.com
 wssc.trustifi.com
+mail-12.trustifi.com
 w.trustifi.com
 smtp-us2.trustifi.com
 stage-smtp.trustifi.com
@@ -73,5 +70,4 @@ mail.dev.trustifi.com
 inbound-smtp-eu.trustifi.com
 mail.staging.trustifi.com
 mail-11.trustifi.com
-www.old.trustifi.com
 mail.trustifi.com

@@ -12,7 +12,6 @@ e-fapiao-admin-uat.uat.efapiao.burberry.cn
 preprod-api.api.non-prod.burberry.cn
 api-westore.apps.burberry.cn
 api-h5-visioncc.apps.burberry.cn
-www.burberry.cn
 api-westore.prod.westore.burberry.cn
 api-h5-visioncc-uat.uat.vxi-cn.burberry.cn
 checkout-uat1cn-bj.nonprod.aws-cn.burberry.cn
@@ -145,7 +144,7 @@ china.streaming.apps.burberry.cn
 api.uat1.non-prod.burberry.cn
 browse-nft1cn-bj.nonprod.aws-cn.burberry.cn
 e-fapiao-admin.prod.efapiao.burberry.cn
-www.stg.burberry.cn
+stg.burberry.cn
 auth.burberry.cn
 tb-bear-stickers.static.burberry.cn
 scrm.apps.burberry.cn

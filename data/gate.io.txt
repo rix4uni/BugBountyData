@@ -22,7 +22,6 @@ email.sendemail.gate.io
 testnet.gate.io
 workmail.gate.io
 web02.gate.io
-www.gate.io
 cloud.gate.io
 api.gate.io
 apim.gate.io
@@ -42,7 +41,6 @@ test01.gate.io
 testing.gate.io
 dev.gate.io
 test.gate.io
-*.gate.io
 autodiscover.mail.gate.io
 data.promo.gate.io
 email.mail.gate.io

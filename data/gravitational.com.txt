@@ -1,4 +1,3 @@
-*.gravitational.com
 1p.gravitational.com
 admin.gravitational.com
 blog.gravitational.com
@@ -22,8 +21,6 @@ status.gravitational.com
 support.gravitational.com
 trinetx.gravitational.com
 try.gravitational.com
-www.gravitational.com
-www.medium.gravitational.com
 dashboard-api.gravitational.com
 spf1.gravitational.com
 ssh-certificate-parser.gravitational.com

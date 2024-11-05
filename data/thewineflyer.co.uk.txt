@@ -3,13 +3,8 @@ track.thewineflyer.co.uk
 account-staging.thewineflyer.co.uk
 account.thewineflyer.co.uk
 email.thewineflyer.co.uk
-www.thewineflyer.co.uk
-*.account-test.thewineflyer.co.uk
 account-test.thewineflyer.co.uk
-*.devx.thewineflyer.co.uk
 devx.thewineflyer.co.uk
-*.account.thewineflyer.co.uk
-*.account-staging.thewineflyer.co.uk
 dev1.thewineflyer.co.uk
 dev2.thewineflyer.co.uk
 staging.thewineflyer.co.uk

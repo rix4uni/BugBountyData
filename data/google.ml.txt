@@ -7,7 +7,6 @@ cctldtest.google.ml
 books.google.ml
 images.google.ml
 ns1.google.ml
-www.google.ml
 ns3.google.ml
 clients1.google.ml
 clients6.google.ml
@@ -20,4 +19,3 @@ trends.google.ml
 mobile.google.ml
 video.google.ml
 m.google.ml
-*.google.ml

@@ -1,6 +1,4 @@
-*.enazamusic.com
 mobiuz-uz.demo.enazamusic.com
-*.mobiuz-uz.demo.enazamusic.com
 user-data.develop-develop.service.qa.enazamusic.com
 callback.kcell-kz.enazamusic.com
 api.enaza.demo.enazamusic.com
@@ -166,10 +164,7 @@ service.enazamusic.com
 storage.enazamusic.com
 resize.enazamusic.com
 ucell.enazamusic.com
-www.enazamusic.com
-www.platform.enazamusic.com
 platform.enazamusic.com
-*.beeline-uz.enazamusic.com
 beeline-uz.service.enazamusic.com
 dev.enazamusic.com
 radio.megafon-tj.enazamusic.com

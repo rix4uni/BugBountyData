@@ -57,7 +57,6 @@ support.convoy.com
 support.k8s.convoy.com
 vpn.convoy.com
 webhooks.convoy.com
-www.convoy.com
 account.convoy.com
 airflow-flower-prod.convoy.com
 airflow-servers-prod.convoy.com
@@ -222,11 +221,6 @@ tua.convoy.com
 us-west-2.convoy.com
 webhook.convoy.com
 wiki.convoy.com
-www.beta-ops.convoy.com
-www.shipper-integrations-test.convoy.com
-www.shipper-integrations.convoy.com
-www.signup.convoy.com
-www.vpn.convoy.com
 xray-beta.convoy.com
 xray.convoy.com
 yards.convoy.com

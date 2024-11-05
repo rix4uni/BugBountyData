@@ -1,11 +1,9 @@
-www.google.st
 cse.google.st
 toolbarqueries.google.st
 clients6.google.st
 accounts.google.st
 adservice.google.st
 blogsearch.google.st
-www.blogsearch.google.st
 cctldtest.google.st
 clients1.google.st
 maps.google.st
@@ -13,9 +11,6 @@ images.google.st
 id.google.st
 translate.google.st
 books.google.st
-*.google.st
-*.clients6.google.st
-*.cctldtest.google.st
 com.zuko.billingz.google.st
 classifly.utils.google.st
 local.google.st

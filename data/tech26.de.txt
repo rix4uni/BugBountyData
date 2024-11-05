@@ -1,4 +1,3 @@
-*.tech26.de
 aisp.tech26.de
 aisp-staging.tech26.de
 api.tech26.de
@@ -219,7 +218,6 @@ ebics-lb-staging-fra.tech26.de
 tz3-pgadmin-aalbu-staging.tech26.de
 yttrium-staging-fra.tech26.de
 vpntz2bank-oldstaging-fra.tech26.de
-www.tech26.de
 tz2-workbench.tech26.de
 satie-staging.tech26.de
 newstransactor.tech26.de

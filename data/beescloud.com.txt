@@ -1,5 +1,4 @@
 design.beescloud.com
-www.beescloud.com
 docker-http.vgervasi-dev-20220422t091554.ps.beescloud.com
 mon.ps-crodriguezlopez-v1-3.flow-training.beescloud.com
 mon.ps-crodriguezlopez.flow-training.beescloud.com
@@ -68,7 +67,7 @@ ci.stusa1008test.sa-demo.beescloud.com
 nexus.stusa2507.sa-demo.beescloud.com
 pr-1412.preview.app.devoptics-dev.beescloud.com
 rye.ps.beescloud.com
-www.gcp.beescloud.com
+gcp.beescloud.com
 pr-1547.preview.app.devoptics-dev.beescloud.com
 docker-registry.jx.gke.arc.beescloud.com
 es.genpactdemo.sa-demo.beescloud.com
@@ -628,7 +627,6 @@ cd.stupsjan2001.flow-training.beescloud.com
 ci.stusatest110224test.sa-demo.beescloud.com
 nexus.devopsdays-oval.sa-demo.beescloud.com
 pr-1676.preview.app.devoptics-dev.beescloud.com
-www.phish-hunt.beescloud.com
 ci-test9vc.v.sevcluster.sa-demo.beescloud.com
 cd.stups1509.flow-training.beescloud.com
 ci.stupssda2.flow-training.beescloud.com
@@ -991,7 +989,7 @@ sonarqube.stusa040323.sa-demo.beescloud.com
 es.stusa0507.sa-demo.beescloud.com
 pr-155.data.dev.beescloud.com
 sda.ssharma.ps.beescloud.com
-www.previous.beescloud.com
+previous.beescloud.com
 cd.stusa17012024.sa-demo.beescloud.com
 grafana.stupswb1201a.flow-training.beescloud.com
 kibana.pkodemo.sa-demo.beescloud.com
@@ -1112,7 +1110,6 @@ nexus.pstest5.flow-training.beescloud.com
 pr-112.audit.dev.beescloud.com
 pr-83.data.dev.beescloud.com
 anchore.beescloud.com
-www.status.saas-qa.beescloud.com
 ci.stusa141121.sa-demo.beescloud.com
 es.nfi-dem-20221103.sa-demo.beescloud.com
 kibana.stusa1705.sa-demo.beescloud.com
@@ -1312,7 +1309,7 @@ pr-1338.preview.app.devoptics-dev.beescloud.com
 pr-14.audit.dev.beescloud.com
 pr-63.integration.dev.beescloud.com
 sonarqube.sbsa090723b.sa-demo.beescloud.com
-www.coremodern-pentest.beescloud.com
+coremodern-pentest.beescloud.com
 pr-1623.preview.app.devoptics-dev.beescloud.com
 nexus.sandbox-ada.sa-demo.beescloud.com
 pr-126.audit.dev.beescloud.com
@@ -1630,7 +1627,6 @@ nexus.stusa180522.sa-demo.beescloud.com
 pr-1509.preview.app.devoptics-dev.beescloud.com
 pr-77.integration.dev.beescloud.com
 sonarqube.stusa090224b.sa-demo.beescloud.com
-www.id.saas-preprod.beescloud.com
 ci.stusa03nov21.sa-demo.beescloud.com
 cd.saarmnodes.sa-demo.beescloud.com
 ci.stutest0712a.sa-demo.beescloud.com
@@ -2596,7 +2592,6 @@ pr-1416.preview.app.devoptics-dev.beescloud.com
 pr-1419.preview.app.devoptics-dev.beescloud.com
 cd-test9vc.v.sevcluster.sa-demo.beescloud.com
 stupsftest.flow-training.beescloud.com
-www.qa.cbc.beescloud.com
 pr-1695.preview.app.devoptics-dev.beescloud.com
 ci.ocbc-sa-casc-demo.sa-demo.beescloud.com
 es.stusa2806final.sa-demo.beescloud.com
@@ -2663,7 +2658,6 @@ nexus.stusa171121.sa-demo.beescloud.com
 pr-1555.preview.app.devoptics-dev.beescloud.com
 neo4j.champagne.cbc.beescloud.com
 ci.cbci-pm.beescloud.com
-coremodern-pentest.beescloud.com
 nexus.xgalanxhi-testproject.flow-training.beescloud.com
 pr-1530.preview.app.devoptics-dev.beescloud.com
 pr-50.data.dev.beescloud.com
@@ -3076,7 +3070,6 @@ pr-1678.preview.app.devoptics-dev.beescloud.com
 ci.stutest1612.sa-demo.beescloud.com
 pr-1359.preview.app.devoptics-dev.beescloud.com
 pr-1573.preview.app.devoptics-dev.beescloud.com
-previous.beescloud.com
 nexus.stusajan21.sa-demo.beescloud.com
 grafana.stusa011121.sa-demo.beescloud.com
 nexus.guru-rep-dailybuild1.sa-demo.beescloud.com
@@ -3302,11 +3295,7 @@ cd.stusa110224.sa-demo.beescloud.com
 pr-1527.preview.app.devoptics-dev.beescloud.com
 bp02.aws.ps.beescloud.com
 vj-sda-ilb.cd-k8s.beescloud.com
-*.jgolden.ps.beescloud.com
 cbci-test-jnord-29909.dev-test.cbci.beescloud.com
-*.rkivisto.support.beescloud.com
 cbci-test-jmdesprez-25581.dev-test.cbci.beescloud.com
-*.sbx7.cbc.beescloud.com
+sbx7.cbc.beescloud.com
 ci2.aws.aalwahab.ps.beescloud.com
-*.crl.aws.ps.beescloud.com
-*.tim.ps.beescloud.com

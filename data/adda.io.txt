@@ -1,5 +1,5 @@
 support.adda.io
-www.usa.adda.io
+usa.adda.io
 us.adda.io
 in.adda.io
 jenkinsnew.adda.io
@@ -31,17 +31,13 @@ risehigh.adda.io
 globalapi.adda.io
 global.adda.io
 india.adda.io
-usa.adda.io
-*.adda.io
 testing.adda.io
 ccc1.adda.io
 us1.adda.io
 grafana.adda.io
 prometheus.adda.io
-www.webflowus.adda.io
-www.us.adda.io
-webflow.us.adda.io
 webflowus.adda.io
+webflow.us.adda.io
 demo1.us.adda.io
 nagios.adda.io
 solr.adda.io
@@ -55,9 +51,6 @@ postfixadmin.adda.io
 webmail.adda.io
 spam.adda.io
 auth.adda.io
-*.in.adda.io
-*.india.adda.io
-www.adda.io
 demo1.adda.io
 demo.lino.adda.io
 chennai.adda.io

@@ -1,4 +1,3 @@
-*.ortelmobile.de
 adm.ortelmobile.de
 api-consent-coms.ortelmobile.de
 apigw.ortelmobile.de
@@ -50,16 +49,8 @@ spf.ortelmobile.de
 staging.ortelmobile.de
 test.ortelmobile.de
 test-mein.ortelmobile.de
-www.ortelmobile.de
-www.handel.ortelmobile.de
-www.handyshop.ortelmobile.de
-www.mein.ortelmobile.de
-www.permissions.ortelmobile.de
-www.registrierung.ortelmobile.de
-www.sim-karte-aktivierung.ortelmobile.de
-www.staging.ortelmobile.de
-www.www.www.www.www.www.www.www.www.www.www.www.cms.ortelmobile.de
-www.www.www.www.www.www.www.www.www.www.www.www.www.www.wwe.ortelmobile.de
+www.www.www.www.www.www.www.www.www.www.www.cms.ortelmobile.de
+www.www.www.www.www.www.www.www.www.www.www.www.www.wwe.ortelmobile.de
 login-ciam.ortelmobile.de
 login-ciam-dev.ortelmobile.de
 login-ciam-e2e1.ortelmobile.de

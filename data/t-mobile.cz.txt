@@ -1,8 +1,7 @@
-*.t-mobile.cz
-*.dc.t-mobile.cz
-*.o365customer.t-mobile.cz
-*.pbx.t-mobile.cz
-*.whistleblower.t-mobile.cz
+dc.t-mobile.cz
+o365customer.t-mobile.cz
+pbx.t-mobile.cz
+whistleblower.t-mobile.cz
 acsbc.dc.t-mobile.cz
 adfs.t-mobile.cz
 adp.uc.dc.t-mobile.cz
@@ -81,7 +80,6 @@ ctx-vpn-dea.t-mobile.cz
 ctx-vpn-emp.t-mobile.cz
 ctx-vpn-net.t-mobile.cz
 ctxmailhub.t-mobile.cz
-dc.t-mobile.cz
 dc1.vccb.dc.t-mobile.cz
 dc2.vccb.dc.t-mobile.cz
 dealers.t-mobile.cz
@@ -242,7 +240,6 @@ ns3.t-mobile.cz
 nss.t-mobile.cz
 nss01.dc.t-mobile.cz
 ntp.t-mobile.cz
-o365customer.t-mobile.cz
 oauth.t-mobile.cz
 ocgw.info.t-mobile.cz
 ochranasiti.t-mobile.cz
@@ -265,7 +262,6 @@ owa.t-mobile.cz
 owaps.t-mobile.cz
 partners.t-mobile.cz
 partnership.t-mobile.cz
-pbx.t-mobile.cz
 pcscfctx2.ims.t-mobile.cz
 pcscfrzt2.ims.t-mobile.cz
 pdownload.t-mobile.cz
@@ -481,23 +477,10 @@ webconf13.t-mobile.cz
 webproxy.t-mobile.cz
 webproxy1.t-mobile.cz
 webproxy2.t-mobile.cz
-whistleblower.t-mobile.cz
 wic.t-mobile.cz
 ws-customer.t-mobile.cz
 ws-partner.t-mobile.cz
 ws2375.t-mobile.cz
-www.t-mobile.cz
-www.api2.t-mobile.cz
-www.api3.t-mobile.cz
-www.aplikace.t-mobile.cz
-www.b2bapps.t-mobile.cz
-www.genesys-byoc.ims.t-mobile.cz
-www.m-platba.t-mobile.cz
-www.moje-firma.t-mobile.cz
-www.novinky.t-mobile.cz
-www.pruzkumy.t-mobile.cz
-www.snadneji.t-mobile.cz
-www.t-app.t-mobile.cz
 www1.t-mobile.cz
 www2.t-mobile.cz
 xspweb.t-mobile.cz
@@ -630,7 +613,6 @@ sbc14.o365customer.t-mobile.cz
 fmccctx.t-mobile.cz
 t2oneview.t-mobile.cz
 staging-t-app.t-mobile.cz
-www.muj.t-mobile.cz
 sbc37.o365customer.t-mobile.cz
 fmccrzt.t-mobile.cz
 vpn-fmccrzt.t-mobile.cz
@@ -654,7 +636,6 @@ sbc2.o365customer.t-mobile.cz
 sbc9.o365customer.t-mobile.cz
 t-umsrzt.t-mobile.cz
 oftp2invoicing.t-mobile.cz
-www.eshop.t-mobile.cz
 portal1-uc.dc.t-mobile.cz
 athens.mvas.t-mobile.cz
 poneview.t-mobile.cz
@@ -674,13 +655,11 @@ dnscheck10s.t-mobile.cz
 vpn-trunk.t-mobile.cz
 sbc22.o365customer.t-mobile.cz
 lyncdiscover.o365.t-mobile.cz
-www.partner.t-mobile.cz
-www.whistleblower.t-mobile.cz
+partner.t-mobile.cz
 enterpriseenrollment.obchod.t-mobile.cz
 trunkrzt.t-mobile.cz
 autodiscover.mpn.t-mobile.cz
 tapigw-ext.t-mobile.cz
-www.share.t-mobile.cz
 beluga1.t-mobile.cz
 sbc21.o365customer.t-mobile.cz
 msoid.autopark.t-mobile.cz
@@ -701,7 +680,6 @@ msoid.partner.t-mobile.cz
 autodiscover.pruzkumy.t-mobile.cz
 sbc29.o365customer.t-mobile.cz
 znalec5g.t-mobile.cz
-www.info.t-mobile.cz
 sip.osobne.t-mobile.cz
 sbc12.o365customer.t-mobile.cz
 apigw-ext.t-mobile.cz
@@ -755,7 +733,6 @@ msoid.obchod.t-mobile.cz
 sbc45.o365customer.t-mobile.cz
 nip-test.t-mobile.cz
 smtprelay2.omni.t-mobile.cz
-www.prodejna.t-mobile.cz
 sbc33.o365customer.t-mobile.cz
 sbc25.o365customer.t-mobile.cz
 vpn-fmccctx.t-mobile.cz
@@ -813,7 +790,6 @@ gprsh1.isp.t-mobile.cz
 mych5test.t-mobile.cz
 89-24-36-70.customers.t-mobile.cz
 external.t-mobile.cz
-*.vccb.dc.t-mobile.cz
 instalace.t-mobile.cz
 tmragw1.sdwan.t-mobile.cz
 tmragw2.sdwan.t-mobile.cz
@@ -826,7 +802,6 @@ w.aplikace.t-mobile.cz
 t3www.t-mobile.cz
 speed.t-mobile.cz
 out_ws-customer.t-mobile.cz
-www.speed.t-mobile.cz
 w.t-mobile.cz
 tmobilepomahamewww.t-mobile.cz
 tsm-sdwan.t-mobile.cz

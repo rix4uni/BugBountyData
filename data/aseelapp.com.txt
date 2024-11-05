@@ -33,7 +33,6 @@ sites.aseelapp.com
 ku1720.aseelapp.com
 i.aseelapp.com
 k2.aseelapp.com
-www.aseelapp.com
 aux.aseelapp.com
 h4.aseelapp.com
 www2u.aseelapp.com
@@ -79,7 +78,6 @@ automation.preprod.aseelapp.com
 smt.preprod.aseelapp.com
 ghost.preprod.aseelapp.com
 api.preprod.aseelapp.com
-*.aseelapp.com
 docs.aseelapp.com
 video-solution.aseelapp.com
 institution.aseelapp.com
@@ -103,7 +101,7 @@ asm.aseelapp.com
 nginx.aseelapp.com
 flag07.aseelapp.com
 flag06.aseelapp.com
-www.preprod.aseelapp.com
+preprod.aseelapp.com
 ferni.aseelapp.com
 good.aseelapp.com
 wazuh.aseelapp.com
@@ -118,7 +116,6 @@ rohullah.containers.aseelapp.com
 mustafa.containers.aseelapp.com
 magento.containers.aseelapp.com
 karim.containers.aseelapp.com
-preprod.aseelapp.com
 hakimi.aseelapp.com
 registry.aseelapp.com
 errors.aseelapp.com
@@ -127,15 +124,12 @@ emran.containers.aseelapp.com
 magento2.containers.aseelapp.com
 ctf.aseelapp.com
 stage.aseelapp.com
-www.stage.aseelapp.com
 test.aseelapp.com
-www.test.aseelapp.com
 tmp.preprod.aseelapp.com
 k8s.aseelapp.com
 api-stories.aseelapp.com
 api.stories.aseelapp.com
 shravan.aseelapp.com
-www.shravan.aseelapp.com
 blog.preprod.aseelapp.com
 playground.aseelapp.com
 karim.preprod.aseelapp.com
@@ -147,9 +141,6 @@ storefront.dev.aseelapp.com
 n8n.preprod.aseelapp.com
 medusa.preprod.aseelapp.com
 subscriptions.aseelapp.com
-www.subscriptions.aseelapp.com
-www.nginx.aseelapp.com
 assets.aseelapp.com
 static.aseelapp.com
 ilyas.dev.aseelapp.com
-www.ilyas.dev.aseelapp.com

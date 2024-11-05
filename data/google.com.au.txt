@@ -34,13 +34,10 @@ testonly.google.com.au
 cctldtest.google.com.au
 adwords.google.com.au
 clients6.google.com.au
-www.sandbox.google.com.au
-www.google.com.au
 edu.google.com.au
 alt1.toolbarqueries.google.com.au
-www.picasa.google.com.au
-blogsearch.google.com.au
 picasa.google.com.au
+blogsearch.google.com.au
 trends.google.com.au
 flights.google.com.au
 ogs.google.com.au
@@ -48,7 +45,6 @@ scholar.google.com.au
 picasaweb.google.com.au
 250apicasaweb.google.com.au
 clients1.google.com.au
-www.blogsearch.google.com.au
 adservice.google.com.au
 khms1.google.com.au
 enterprise.google.com.au
@@ -68,15 +64,12 @@ desktop.google.com.au
 print.google.com.au
 khm.google.com.au
 mapmaker.google.com.au
-www.news.google.com.au
 alt4.aspmx.l.google.com.au
 lh3.google.com.au
 workspace.google.com.au
 lh2.google.com.au
 aspmx.l.google.com.au
-www.books.google.com.au
 chrome.google.com.au
-www.video.google.com.au
 pack.google.com.au
 book.google.com.au
 earth.google.com.au
@@ -84,4 +77,3 @@ lh4.google.com.au
 jmt17.google.com.au
 a.serverless-qa.sandbox.google.com.au
 alt2.aspmx.l.google.com.au
-*.google.com.au

@@ -26,7 +26,7 @@ storage.prd.developmentaid.org
 api2.developmentaid.org
 mxout.developmentaid.org
 mxfilter.developmentaid.org
-www.advertisement.developmentaid.org
+advertisement.developmentaid.org
 s11.developmentaid.org
 devsrv.mailservice.developmentaid.org
 cache01.prd.developmentaid.org
@@ -46,9 +46,7 @@ web05.prd.developmentaid.org
 mailservice.developmentaid.org
 apps02.prd.developmentaid.org
 unifi.developmentaid.org
-advertisement.developmentaid.org
 mx.lb.developmentaid.org
 smtp03.prd.developmentaid.org
-www.developmentaid.org
 mta-sts.mxbackup.developmentaid.org
 maintenance.developmentaid.org

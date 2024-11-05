@@ -1,5 +1,4 @@
-*.myoas.com
-*.t2mail.myoas.com
+t2mail.myoas.com
 adap-h5.myoas.com
 adfs.t2mail.myoas.com
 api.myoas.com
@@ -94,7 +93,6 @@ ssov2.myoas.com
 survey.myoas.com
 t-omeeting.myoas.com
 t-ssov2.myoas.com
-t2mail.myoas.com
 tb.myoas.com
 tcp.store.k8s-277.wire.community-vpn.48.myoas.com
 tms.myoas.com
@@ -204,9 +202,8 @@ vst.myoas.com
 web179.myoas.com
 webex.myoas.com
 ws5a5rzy.oray.myoas.com
-www.euphoriaguidenz.oray.myoas.com
-www.isk4.com.cdn.oray.myoas.com
-www.myoas.com
+euphoriaguidenz.oray.myoas.com
+isk4.com.cdn.oray.myoas.com
 x2f07e4d.dyn.oray.myoas.com
 x2f52b1a.dyn.oray.myoas.com
 x4d001558.dyn.oray.myoas.com

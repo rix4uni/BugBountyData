@@ -6,7 +6,6 @@ investors.legalzoom.com
 businessresources.legalzoom.com
 lawforward.legalzoom.com
 wevorce.legalzoom.com
-www.legalzoom.com
 api.legalzoom.com
 auth.legalzoom.com
 e.legalzoom.com
@@ -234,7 +233,7 @@ backstage-dev.devops.prd.aws-01.legalzoom.com
 dev.entitydomain.dev.aws-01.legalzoom.com
 backstage.dev.aws-01.legalzoom.com
 dev.product-catalog-service.dev.aws-01.legalzoom.com
-www.divorce.lifeplan.legalzoom.com
+divorce.lifeplan.legalzoom.com
 zc.legalzoom.com
 qa.api-advisor-configuration-service.dev.aws-01.legalzoom.com
 nginx-proxy.qa.aws-01.legalzoom.com
@@ -335,7 +334,6 @@ wwwdev.cloudfront-le.aws-01.legalzoom.com
 lzred-origin.legalzoom.com
 meet.legalzoom.com
 salesforce-consumer.apps.prd.aws-01.legalzoom.com
-www.dev.cloudfront.le.aws-01.legalzoom.com
 qa.api-addressvalidation-service.dev.aws-01.legalzoom.com
 qa-auth.legalzoom.com
 dev.api-relationship-service.dev.aws-01.legalzoom.com
@@ -443,7 +441,7 @@ oidc.github.legalzoom.com
 qa.partnerships-inbound-preview.dev.aws-01.legalzoom.com
 dev.elementary-site.dev.aws-01.legalzoom.com
 sitemap.legalzoom.com
-www.cloudfront.aws-01.legalzoom.com
+cloudfront.aws-01.legalzoom.com
 dev.authorization-service.dev.aws-01.legalzoom.com
 qa.experts-collab-platform.dev.aws-01.legalzoom.com
 stg.site-external-questionnaire-llc.dev.aws-01.legalzoom.com
@@ -549,7 +547,6 @@ heard-uat.legalzoom.com
 pica.legalzoom.com
 qa.workflow.dev.aws-01.legalzoom.com
 api-f-e-m-service.apps.prd.aws-01.legalzoom.com
-www.origin-www.legalzoom.com
 api-jwks.apps.prd.aws-01.legalzoom.com
 apidev.legalzoom.com
 drupal.legalzoom.com
@@ -660,7 +657,6 @@ qa.site-external-questionnaire-llc.dev.aws-01.legalzoom.com
 local.devops.legalzoom.com
 mta.e.legalzoom.com
 lzldap.legalzoom.com
-www.equip.legalzoom.com
 cpq-be.qa.aws-01.legalzoom.com
 llm.qa.aws-01.legalzoom.com
 dev-cf.iq-flow.dev.aws-01.legalzoom.com
@@ -675,7 +671,6 @@ dev-pg.authorization-service.dev.aws-01.legalzoom.com
 api-billing-service.apps.prd.aws-01.legalzoom.com
 dev.lz-data-deletion.dev.aws-01.legalzoom.com
 qa.iq-flow-embedded.dev.aws-01.legalzoom.com
-www.dev.cloudfront.devops.le.aws-01.legalzoom.com
 dev.entitlements-vendor.dev.aws-01.legalzoom.com
 qa.proofer-admin.dev.aws-01.legalzoom.com
 qa.time-warp-graphql-server.dev.aws-01.legalzoom.com
@@ -709,7 +704,6 @@ internal.qa.payments-ui.dev.aws-01.legalzoom.com
 website.legalzoom.com
 dev.business-licenses.dev.aws-01.legalzoom.com
 qa.doc-assist-weaviate.dev.aws-01.legalzoom.com
-www.qa.cloudfront.devops.le.aws-01.legalzoom.com
 wwwdev.devops-le.dev.aws-01.legalzoom.com
 springe2etest.apps.prd.aws-01.legalzoom.com
 dev.revvassets.legalzoom.com
@@ -838,7 +832,6 @@ videos.legalzoom.com
 dev.box-migration-app.dev.aws-01.legalzoom.com
 dev-lzapps.legalzoom.com
 margo-preview.dev.aws-01.legalzoom.com
-cloudfront.aws-01.legalzoom.com
 laiw12if569p.legalzoom.com
 blue-green-roll-out.my-account-rex.dev.aws-01.legalzoom.com
 dev.ai-assistant-platform.dev.aws-01.legalzoom.com
@@ -886,7 +879,6 @@ dev.notifications-platform.dev.aws-01.legalzoom.com
 test-metadata-service.apps.prd.aws-01.legalzoom.com
 kafka.dev.aws-01.legalzoom.com
 storybook.my-account-rex.dev.aws-01.legalzoom.com
-www.prod.cloudfront.devops.le.aws-01.legalzoom.com
 subscription.apigw.legalzoom.com
 mail1.mail.bdp.legalzoom.com
 dev.datahub-deployment.dev.aws-01.legalzoom.com
@@ -941,7 +933,6 @@ web.legalzoom.com
 qa-partnerservices.legalzoom.com
 gwe-gen.legalzoom.com
 local.legalzoom.com
-divorce.lifeplan.legalzoom.com
 api-origin.dev.cloudfront.le.aws-01.legalzoom.com
 negroni-design-system.legalzoom.com
 qa.api-group-plan-service.dev.aws-01.legalzoom.com
@@ -985,7 +976,7 @@ checkout-service.apps.prd.aws-01.legalzoom.com
 mx1.legalzoom.com
 api.ecm-dev.aws-01.legalzoom.com
 qa.ancillary-sku-service.dev.aws-01.legalzoom.com
-www.qa.cloudfront.le.aws-01.legalzoom.com
+qa.cloudfront.le.aws-01.legalzoom.com
 qa.api-questionnaire-storage-service.dev.aws-01.legalzoom.com
 myaccount.dev.aws-01.legalzoom.com
 dev.epexpress.dev.aws-01.legalzoom.com
@@ -1040,7 +1031,6 @@ dev.api-s-m-service.dev.aws-01.legalzoom.com
 dev.partnerships-data.dev.aws-01.legalzoom.com
 wwwstg.legalzoom.com
 api-qa.cloudfront.le.aws-01.legalzoom.com
-www.divorce.legalzoom.com
 dev.api-stp-product-service.dev.aws-01.legalzoom.com
 domainmanagement.apps.prd.aws-01.legalzoom.com
 start.legalzoom.com
@@ -1133,7 +1123,6 @@ dev.api-identity-protection-service.dev.aws-01.legalzoom.com
 qa.expert-portal.dev.aws-01.legalzoom.com
 drupal.devops.dev.aws-01.legalzoom.com
 dev.compliance-platform.dev.aws-01.legalzoom.com
-www.sip.legalzoom.com
 messaging.legalzoom.com
 guides-biz.apps.prd.aws-01.legalzoom.com
 dev.payments-platform.dev.aws-01.legalzoom.com
@@ -1202,6 +1191,5 @@ personal-services.apigw.legalzoom.com
 rex-preview-prd.apps.prd.aws-01.legalzoom.com
 dev.iq-flow-preview.dev.aws-01.legalzoom.com
 dev-cf.iq-flow-preview.dev.aws-01.legalzoom.com
-*.artifactory.legalzoom.com
 rex-preview-qa.my-account-rex.dev.aws-01.legalzoom.com
 dev.personal-services.dev.aws-01.legalzoom.com

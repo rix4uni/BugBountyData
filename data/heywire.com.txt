@@ -14,7 +14,7 @@ test.pk.heywire.com
 pics.heywire.com
 sbox-scrt-e2.heywire.com
 scalasrv.ds.montclair.edsbox-scrt-prv.heywire.com
-www.app.heywire.com
+app.heywire.com
 prod-apple.heywire.com
 prod-fbgw.heywire.com
 prod-app.heywire.com
@@ -22,7 +22,7 @@ mms-mt-na103.heywire.com
 mon-i300.heywire.com
 dev-cgw.heywire.com
 eng-provisioning.heywire.com
-www.georgemobile.heywire.com
+georgemobile.heywire.com
 mms-mt-e203.heywire.com
 heywire-apt.heywire.com
 sms-mt-ca101.heywire.com
@@ -39,7 +39,6 @@ qalmvcmms.heywire.com
 mms-mt-na101.heywire.com
 mon-i310.heywire.com
 sms-mt-e211.heywire.com
-app.heywire.com
 sms-mt-e207.heywire.com
 sfcb.heywire.com
 register.heywire.com
@@ -68,7 +67,7 @@ mon-e301.heywire.com
 prf-scrt-fbgw.heywire.com
 qalmvc.heywire.com
 sbox-scrt-prv-w2.heywire.com
-www.mms.sandbox.heywire.com
+mms.sandbox.heywire.com
 ltp.heywire.com
 build.dev.heywire.com
 mms-mt-bw03.heywire.com
@@ -115,7 +114,6 @@ lablogs.heywire.com
 mmsgw-e211.heywire.com
 euprovisioning.heywire.com
 prod-scrt-e2.heywire.com
-www.content.heywire.com
 qalmvc-1.heywire.com
 mms-mt-na203.heywire.com
 sms-mt-e019.heywire.com
@@ -138,7 +136,6 @@ sbox-scrt-w1.heywire.com
 sms-mt-ka103.heywire.com
 mms-mt-e206.heywire.com
 mon-e300.heywire.com
-georgemobile.heywire.com
 prod-scrt-prv.heywire.com
 sbox-scrt-w2.heywire.com
 prod.heywire.com
@@ -154,7 +151,6 @@ sms-mt-na203.heywire.com
 logs.heywire.com
 sms-mt-e210.heywire.com
 adwhirl.heywire.com
-www.register.heywire.com
 mms-mt-e210.heywire.com
 mms-mt-na104.heywire.com
 prod-oauth.heywire.com
@@ -162,7 +158,6 @@ prod-mms.heywire.com
 sms-mt-e203.heywire.com
 prf-scrt.heywire.com
 sandbox.heywire.com
-www.sandbox.heywire.com
 download.heywire.com
 mon-f301.heywire.com
 blog.heywire.com
@@ -171,7 +166,6 @@ sms-mt-e209.heywire.com
 eng.heywire.com
 prod-scrt-w1.heywire.com
 console.heywire.com
-www.heywire.com
 smsgw-eu3.heywire.com
 sms-mt-na104.heywire.com
 oauth.heywire.com
@@ -179,9 +173,7 @@ sms-mt-us102.heywire.com
 use.sslvpn.heywire.com
 biz.heywire.com
 oauth.dev.heywire.com
-mms.sandbox.heywire.com
 sbox-scrt-e1.heywire.com
-www.biz.heywire.com
 02dependencytest.pk.heywire.com
 08-smartsync.pk.heywire.com
 1-src.pk.heywire.com
@@ -1895,7 +1887,6 @@ fromthedutchman.0a03868b67e99b050.pk.heywire.com
 54.166.131-feedback.135.compute.1.pk.heywire.com
 100100126.pk.heywire.com
 09b.pk.heywire.com
-www.vividwebsites.1.pk.heywire.com
 1-tools-of-the-trade.pk.heywire.com
 0083-blending-part-2-apis.pk.heywire.com
 100000119.pk.heywire.com
@@ -1912,7 +1903,6 @@ www.vividwebsites.1.pk.heywire.com
 0908.pk.heywire.com
 01b68948bcb6f1e48facb06783814060.pk.heywire.com
 03-image.pk.heywire.com
-www.104-218-52-74.pk.heywire.com
 06037d00-58fe-466c-9d1a-a6ef4e3c0b1e.pk.heywire.com
 02-oop.pk.heywire.com
 06-95767282.pk.heywire.com

@@ -3,7 +3,7 @@ es.dev.datajoy.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.datajoy.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.datajoy.com
 qa.datajoy.com
-www.wp-prod.datajoy.com
+wp-prod.datajoy.com
 dev.datajoy.com
 hostmaster.datajoy.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.datajoy.com
@@ -16,7 +16,6 @@ my.dev.datajoy.com
 hostmaster.hostmaster.hostmaster.datajoy.com
 url.datajoy.com
 hello.datajoy.com
-wp-prod.datajoy.com
 accounts.datajoy.com
 alpha.qa.datajoy.com
 auth.datajoy.com
@@ -47,4 +46,3 @@ my.qa.datajoy.com
 auth.qa.datajoy.com
 go2.datajoy.com
 my.datajoy.com
-www.datajoy.com

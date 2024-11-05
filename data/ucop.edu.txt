@@ -459,7 +459,6 @@ qa.was.devops.ucop.edu
 st-doorways.ucop.edu
 sdcloud-lab.ucop.edu
 spaltadm.ucop.edu
-www.ucop.edu
 rooms.ucop.edu
 iamsamlq01.ucop.edu
 ppsdev.ucop.edu
@@ -1322,7 +1321,6 @@ fis-ftp-test.ucop.edu
 spbkdrdev1.ucop.edu
 qa.calteach.ucop.edu
 cpspdev7.ucop.edu
-www.nxterra.ucop.edu
 rems.qa.finapps.aws.ucop.edu
 rems.dev.finapps.aws.ucop.edu
 rems.prod.finapps.aws.ucop.edu
@@ -1330,7 +1328,6 @@ ava-sdsc-0-5.ucop.edu
 4507-x01.ucop.edu
 profile.prd.uas.aws.ucop.edu
 ava-ucb-0-1.ucop.edu
-www.mesa.ucop.edu
 qa.researchmemosapi.ucop.edu
 internal-prod.i9complete.was.devops.ucop.edu
 nui.ucop.edu
@@ -1338,7 +1335,7 @@ dc-d-adm-w2.adlab.ucop.edu
 083-available.ucop.edu
 tcs01.ucop.edu
 idpproxy-ucpath-qa.sso.qa.iam.aws.ucop.edu
-www.melvyl.ucop.edu
+melvyl.ucop.edu
 l-irc-dc02.ucop.edu
 52-164-16.openstacke.ucop.edu
 128_48_251_203.ddns.ucop.edu
@@ -1415,7 +1412,7 @@ sandbox.ppfp.ucop.edu
 eva.ucop.edu
 mvsb-eelink.ucop.edu
 merlin.ucop.edu
-www.lpai.ucop.edu
+lpai.ucop.edu
 legacy-its.ucop.edu
 1200estates-server.ucop.edu
 f5111a.ucop.edu
@@ -1449,7 +1446,7 @@ ava-ucb-0-util-drac.ucop.edu
 sdsc-uc30-vipa.ucop.edu
 internal-qa.jabber911.was.devops.ucop.edu
 pucanrweb.anr.uat.anr.aws.ucop.edu
-www.slp.ucop.edu
+slp.ucop.edu
 internal-prod.onwardcalifornia.was.devops.ucop.edu
 l-irc-dc03.adlab.ucop.edu
 perftestwin04.ucop.edu
@@ -1484,14 +1481,12 @@ by05a-voip-e911-01.ucop.edu
 f03-cam-panic8.ucop.edu
 cdl-btingle-1m.ad.ucop.edu
 d-its-tab03.ucop.edu
-www.eap.ucop.edu
 ite-p-web-w2.ucop.edu
 labs.ucop.edu
 stubbs.ucop.edu
 internal-qa.trdrp.org.was.devops.ucop.edu
 eias.eias.dev.shs.aws.ucop.edu
 sdsc-uc35.ucop.edu
-melvyl.ucop.edu
 52-176-185.openstack.csaiys-db2-p01.ucop.edu
 mvsb-vlink1.ucop.edu
 internal-prod.trdrp.org.was.devops.ucop.edu
@@ -1523,7 +1518,7 @@ internal-qa.data.was.devops.ucop.edu
 sdsc-webservd-alt.ucop.edu
 1200estates-recorder.ucop.edu
 esxi-sdsc-05-vk.ucop.edu
-www.gpo.ucop.edu
+gpo.ucop.edu
 sdsc-hod12-vipa.ucop.edu
 samlproxy.sso.qa.iam.aws.ucop.edu
 maintenance.tools.rwd.aws.ucop.edu
@@ -1531,7 +1526,6 @@ ava-ucb-0-1-drac.ucop.edu
 repository.ucop.edu
 internal-prod.staffadvisors.was.devops.ucop.edu
 unxpupd01.ldc.devops.ucop.edu
-www.ucci.ucop.edu
 internal-qa.csmp.was.devops.ucop.edu
 unxpdbp02.ucop.edu
 sdsc-uc40-vipa.ucop.edu
@@ -1640,7 +1634,6 @@ mft.ucop.edu
 mylogin.adaxes.prod.shs.aws.ucop.edu
 bld01.bld.rwd.aws.ucop.edu
 uctechnews.ucop.edu
-www.atyourservice.ucop.edu
 puente.ucop.edu
 concur.ucop.edu
 basicneeds.ucop.edu

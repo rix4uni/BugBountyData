@@ -68,7 +68,6 @@ hms.wyze.com
 o2745.abmail.hello.wyze.com
 mw.beta-services.wyze.com
 middleware.auth.wyze.com
-www.wyze.com
 auth-prod.api.wyze.com
 app-resource.wyze.com
 claims.wyze.com
@@ -82,12 +81,10 @@ o2747.abmail.noreply.wyze.com
 dev.wyze.com
 blog.wyze.com
 wyzelabs.view.wyze.com
-*.api.wyze.com
 mail.wyze.com
 ns1.wyze.com
 communitysupport.wyze.com
 local2.wyze.com
-www.business.wyze.com
 beta-new.my.wyze.com
 ns2.wyze.com
 hello.wyze.com
@@ -96,7 +93,6 @@ com.wyze.com
 noreply.wyze.com
 devicemgmt-service-beta.wyze.com
 ns.wyze.com
-www.boc.wyze.com
+boc.wyze.com
 pr.wyze.com
 app-core.cloud.wyze.com
-*.wyze.com

@@ -39,12 +39,10 @@ polygon-issuer-api-mainnet.s.guild.xyz
 voting.guild.xyz
 guild-privacy.s.guild.xyz
 balancy.guild.xyz
-www.guild.xyz
 go.guild.xyz
 polygon-issuer-ui.s.guild.xyz
-www.lego.guild.xyz
 _dmarc.mxc.mx.guild.xyz
-www.alpha.guild.xyz
+alpha.guild.xyz
 mx.mx._dmarc.mx.guild.xyz
 mx.guild.xyz
 umami.guild.xyz
@@ -84,7 +82,6 @@ cluster.node3.ipfs.guild.xyz
 mx.mx.mx._dmarc.mx.guild.xyz
 _dmarc.mx.mx.guild.xyz
 _dmarc.mx.guild.xyz
-alpha.guild.xyz
 node2.ipfs.guild.xyz
 mx.mx.mx.mx.mx.guild.xyz
 2.ipfs.guild.xyz

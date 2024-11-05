@@ -28,7 +28,7 @@ updateservice.warema.de
 support.warema.de
 appt.ms.staging.warema.de
 angebote.warema.de
-www.isitepro.warema.de
+isitepro.warema.de
 webexchange.warema.de
 ebiz-apps.warema.de
 mx01.warema.de
@@ -39,7 +39,6 @@ emm.warema.de
 corenet-gw1-prod-we-appgw.azure.warema.de
 login.warema.de
 gremienportal.warema.de
-isitepro.warema.de
 notify.ms.staging.warema.de
 web.isite.warema.de
 seminare.warema.de
@@ -50,7 +49,6 @@ gw-t-systems.warema.de
 businesscard.warema.de
 nionet.warema.de
 ebizapistest.warema.de
-www.partner.ms.warema.de
 imi.warema.de
 citrixweb-test.warema.de
 oma.warema.de
@@ -60,7 +58,7 @@ wvpn.warema.de
 login2.warema.de
 www-tech.warema.de
 stoffeigenschaften.warema.de
-www.partner.ms.staging.warema.de
+partner.ms.staging.warema.de
 testing.warema.de
 otp.warema.de
 tpiapp.warema.de
@@ -78,7 +76,6 @@ s01edv01.d01mar.warema.de.d01mar.warema.de
 auth.warema.de
 kundenbefragung.warema.de
 training2020.warema.de
-www.lcc.staging.warema.de
 devicecloudservice.prod.devicecloud.warema.de
 gw-ipsec.warema.de
 mbc.warema.de
@@ -90,12 +87,10 @@ xpertapistest.warema.de
 s01edv01.d01mar.warema.de
 cms.warema.de
 hotspot.warema.de
-www.agreement.ms.staging.warema.de
 fw-dmz2.warema.de
 agreement.ms.warema.de
 agreement.ms.testing.warema.de
 lcc.testing.warema.de
-partner.ms.staging.warema.de
 web-mar-01.warema.de
 citrixweb.gslb.warema.de
 climatronic.warema.de
@@ -108,14 +103,12 @@ corenet-gw2-prod-we-appgw.warema.de
 notify.ms.warema.de
 konsolenplaner.warema.de
 prime.warema.de
-www.hotspot.warema.de
 steuerungen.warema.de
 news.warema.de
 s01edv297.warema.de
 waremaissuingca1.warema.de
 emp-dmz-mar.warema.de
 xpertapisdev.warema.de
-www.warema.de
 corenet-gw1-prod-we-appgw.warema.de
 sso.warema.de
 webmail.isite.warema.de
@@ -138,13 +131,11 @@ webmail2016.warema.de
 appt.ms.warema.de
 crossgrid.warema.de
 s01edv298.warema.de
-www.appt.ms.warema.de
 training2021.warema.de
 appt.ms.testing.warema.de
 fw-dmz1.warema.de
 r01edv11.warema.de
 shop.warema.de
-www.lead.ms.staging.warema.de
 webmail.warema.de
 fw-mar.warema.de
 xpertapis.warema.de

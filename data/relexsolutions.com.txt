@@ -14,7 +14,7 @@ metrics-insert.prod-us.prod.ia.relexsolutions.com
 metrics-agent.prod-us.prod.ia.relexsolutions.com
 smoke-sxpa9q.apps.k8sop.relexsolutions.com
 smoke-hrmkbn.apps.k8sop.relexsolutions.com
-*.reviewapps.nonprod.plan.relexsolutions.com
+reviewapps.nonprod.plan.relexsolutions.com
 stream-datadog-eqat1.service-prod-us.k8sop.relexsolutions.com
 spaceapi.storecitrixexpjamie2.dev.sahosted.relexsolutions.com
 aldi-nord-c1-ft-test.prod.plan.relexsolutions.com
@@ -117,7 +117,6 @@ us.store.relexsolutions.com
 prometheus.qa3.dev.internal.work.relexsolutions.com
 test.kesko.work.relexsolutions.com
 beta-eu.relexsolutions.com
-www.relexsolutions.com
 prometheus.poc001.work.relexsolutions.com
 prometheus.optonly.internal.work.relexsolutions.com
 vkcom.work.relexsolutions.com
@@ -2012,7 +2011,6 @@ herba.test.plan.relexsolutions.com
 mr-1761-ci.mr-1761-ci-common.platform.relexsolutions.com
 hgdh.120-23a61179.120-23a61179-com.platform.relexsolutions.com
 ftzj.118-a717bba5.118-a717bba5-com.platform.relexsolutions.com
-www.intraday-explainability.work.relexsolutions.com
 bpoa.mr-1615-ci.mr-1615-ci-common.platform.relexsolutions.com
 119-8377da90.119-8377da90-com.platform.relexsolutions.com
 ci-b09d1979.ci-b09d1979-common.platform.relexsolutions.com
@@ -4463,7 +4461,6 @@ dm.test.plan.relexsolutions.com
 weee.test.plan.relexsolutions.com
 hello-world.ci-5b7b5b99.dev.platform.relexsolutions.com
 hello-world.ci-e82bdc65.dev.platform.relexsolutions.com
-reviewapps.nonprod.plan.relexsolutions.com
 prometheus.auto-531792800.dev.work.relexsolutions.com
 thehomedepot-dev-internal.test.plan.relexsolutions.com
 itcq.mr-1250-ci.mr-1250-ci-common.platform.relexsolutions.com
@@ -13954,7 +13951,6 @@ unitedb.test.plan.relexsolutions.com
 smoke-388138434.dev.internal.work.relexsolutions.com
 arld.mr-1608-ci.mr-1608-ci-common.platform.relexsolutions.com
 spaceapi.umsdev.dev.sahosted.relexsolutions.com
-www.skillsacademy.relexsolutions.com
 marks-and-spencer.prod.plan.relexsolutions.com
 beta.relexsolutions.com
 qrho.mr-1408-124.1408-124-common.platform.relexsolutions.com
@@ -16192,7 +16188,6 @@ hhon.mr-2192-ci.mr-2192-ci-common.platform.relexsolutions.com
 vgtg.mr-1807-ci.mr-1807-ci-common.platform.relexsolutions.com
 ci-b9051fe8.ci-b9051fe8-common.platform.relexsolutions.com
 qprv.ci-573a4b1f.ci-573a4b1f-common.platform.relexsolutions.com
-www.sprouts.space.relexsolutions.com
 bennet-dev.test.plan.relexsolutions.com
 hello-world.ci-0e745161.dev.platform.relexsolutions.com
 eh6perftest005.dev.plan.relexsolutions.com

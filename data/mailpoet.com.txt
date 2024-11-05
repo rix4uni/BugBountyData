@@ -15,7 +15,6 @@ atomic.mailpoet.com
 support.mailpoet.com
 metabase-prod-2.mailpoet.com
 account-prod-1.mailpoet.com
-www.mailpoet.com
 shop.staging.mailpoet.com
 account-prod-2.mailpoet.com
 email-queue-prod-1.mailpoet.com
@@ -52,7 +51,6 @@ api.mailpoet.com
 demo3.mailpoet.com
 mailing.mailpoet.com
 bridge.mailpoet.com
-*.mailpoet.com
 mo.mailpoet.com
 nt.mailpoet.com
 spf.mailpoet.com
@@ -86,7 +84,7 @@ bridge-prod-20.mailpoet.com
 webmail.mailpoet.com
 configmgrenroll.mailpoet.com
 nravzjgibggi7lot.www.mailpoet.com
-www.www.mailpoet.com
+www.mailpoet.com
 prometheus-prod-20-private.mailpoet.com
 oknnumnmwjgr.mailpoet.com
 imap.mailpoet.com
@@ -103,7 +101,6 @@ zendesk2._domainkey.mailpoet.com
 webproxy.atomic.mailpoet.com
 zendesk1._domainkey.mailpoet.com
 dgrjyihdnw2pr7up.www.mailpoet.com
-www.support.mailpoet.com
 strong1._domainkey.mailpoet.com
 xn--support-3ja.mailpoet.com
 www-prod-2-private.mailpoet.com

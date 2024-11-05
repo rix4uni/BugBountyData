@@ -52,7 +52,6 @@ us.kount.net
 vpn-core02.kount.net
 vpn-core03.kount.net
 vpn-core10.kount.net
-www.kount.net
 600720-prod.sg.kount.net
 cent-awc.kount.net
 zmg-awc.test.kount.net
@@ -66,16 +65,3 @@ cd-awc.kount.net
 cent-awc.beta.kount.net
 pp-awc.kount.net
 cent-awc.demo.kount.net
-*.us.kount.net
-*.beta.kount.net
-*.demo.kount.net
-*.kount.net
-*.partner.beta.kount.net
-*.partner.demo.kount.net
-*.partner.kount.net
-*.partner.sandbox14.kount.net
-*.partner.test.kount.net
-*.sandbox14.kount.net
-*.sg.kount.net
-*.test.kount.net
-*.partner.qa.kount.net

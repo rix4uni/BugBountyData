@@ -6,7 +6,6 @@ preprod.adminconsole.cshardware.com
 server.cshardware.com
 stage.cshardware.com
 stageadminconsole.cshardware.com
-www.cshardware.com
 adminconsole.cshardware.com
 cdn.cshardware.com
 e.cshardware.com
@@ -15,6 +14,3 @@ mail.cshardware.com
 preprod.cshardware.com
 prod.cshardware.com
 remote.mail.cshardware.com
-www.cdn.cshardware.com
-www.email.cshardware.com
-www.server.cshardware.com

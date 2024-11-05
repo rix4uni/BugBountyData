@@ -17,7 +17,6 @@ ml.datascout.coop.ch
 dev.emoji.coop.ch
 eas.coop.ch
 staging-xmasapi.coop.ch
-www.photo.coop.ch
 smp.coop.ch
 rezeptbilder.coop.ch
 simsalawin.coop.ch
@@ -26,7 +25,7 @@ bw-trading.coop.ch
 dev.wissen.coop.ch
 svrlnxsp01.sz.coop.ch
 svrtxc02.hs.coop.ch
-www.paques.coop.ch
+paques.coop.ch
 svrtuc02.hs.coop.ch
 mdmext.coop.ch
 registry.datascout.coop.ch
@@ -40,7 +39,7 @@ view.nl.coop.ch
 vortex.tnt.datascout.coop.ch
 pcsext.coop.ch
 wartung-intranet.coop.ch
-www.fuermichunddich.coop.ch
+fuermichunddich.coop.ch
 svrltxc101-0.hz.coop.ch
 abenteuernatur.coop.ch
 multiterm.coop.ch
@@ -65,14 +64,14 @@ svrpfa004-tomcat1.hs.coop.ch
 mtonline.coop.ch
 contentimages-r18.coop.ch
 labels.coop.ch
-www.bauundhobbycontent-r17.coop.ch
+bauundhobbycontent-r17.coop.ch
 svrpfa004-tomcat2.hs.coop.ch
 meeting.hs.coop.ch
 demo2.xc.coop.ch
 dmesecure.coop.ch
 notebook.datascout-test.coop.ch
 xmlexport.coop.ch
-www.beehappy.coop.ch
+beehappy.coop.ch
 rezepte-cms.coop.ch
 nexus3.sz.coop.ch
 apm.datascout.coop.ch
@@ -433,7 +432,6 @@ confluence-test.coop.ch
 partnerweb-ahv-test.coop.ch
 mailtg-gw2.coop.ch
 christmas.coop.ch
-bauundhobbycontent-r17.coop.ch
 abws.coop.ch
 pcs2.coop.ch
 woodwing.coop.ch
@@ -517,7 +515,6 @@ grill.coop.ch
 smtpout1-o365.coop.ch
 wartung-sap-portal.coop.ch
 wartung-geschenkkarte.coop.ch
-paques.coop.ch
 easter.coop.ch
 mymail.coop.ch
 itsm-test.coop.ch
@@ -565,7 +562,6 @@ ral.coop.ch
 standorte.coop.ch
 libs.coop.ch
 rezepte.coop.ch
-www.coop.ch
 quiz.coop.ch
 basketservice.hs.coop.ch
 view.news.coop.ch
@@ -576,7 +572,6 @@ tnt.datascout.coop.ch
 cdn.datascout.coop.ch
 image.news.coop.ch
 image.retail-media.coop.ch
-www.recruiting.coop.ch
 api.recruiting.coop.ch
 click.retail-media.coop.ch
 view.retail-media.coop.ch
@@ -603,12 +598,10 @@ click.wirtschaftspolitik.coop.ch
 view.wirtschaftspolitik.coop.ch
 staging.trophy.coop.ch
 dev.trophy.coop.ch
-www.coopilot.coop.ch
 staging.chill.coop.ch
 dev.chill.coop.ch
 geschenkkarte-qual.coop.ch
 staging.feedback.coop.ch
-www.feedback.coop.ch
 dev.feedback.coop.ch
 image.politik.coop.ch
 view.politik.coop.ch
@@ -616,10 +609,8 @@ cloud.politik.coop.ch
 click.politik.coop.ch
 click.nl.coop.ch
 mx2.coop.ch
-www.trophy.coop.ch
 dev.rating.coop.ch
 staging.rating.coop.ch
-www.rating.coop.ch
 dev.ostern.coop.ch
 staging.ostern.coop.ch
 hz.coop.ch
@@ -646,13 +637,11 @@ svraapicemp01.hs.coop.ch
 svrl1ralt53.sz.coop.ch
 svrl1ralt54.sz.coop.ch
 svrehr02.hs.coop.ch
-www.reka-card.coop.ch
 dev.noelini.coop.ch
 dev.grill.coop.ch
 staging.grill.coop.ch
 mediaassets-test.coop.ch
 mediamanager.tg.coop.ch
-www.beta.coop.ch
 jobs-test.coop.ch
 templates-rb17.coop.ch
 conference-2-standalonecluster404e6.coop.ch
@@ -665,8 +654,6 @@ geschenkkarte-r18.coop.ch
 webservices.coop.ch
 kwf-tg.coop.ch
 test-sgtm.coop.ch
-www.lobster.coop.ch
-www.lobster-test.coop.ch
 mdmext-t.sz.coop.ch
 svrm1mdmmset01.sz.coop.ch
 api-green-nettoshop-entw-external.coop.ch
@@ -687,19 +674,14 @@ txt.coop.ch
 txc.coop.ch
 staging-summer.coop.ch
 ext.coop.ch
-www.thm.coop.ch
-www.thm-test.coop.ch
 exa.coop.ch
 ekf.coop.ch
 svrchr02.hs.coop.ch
 collab51.coop.ch
 collabcluster01.coop.ch
-*.coop.ch
 nexus3.hs.coop.ch
 nexus4.hs.coop.ch
 svrlnxsp02.hs.coop.ch
-*.hz.coop.ch
-*.gz.coop.ch
 gz.coop.ch
 cxt.coop.ch
 cxc.coop.ch
@@ -786,13 +768,10 @@ websocket-test-cloud.coop.ch
 svrm1mdmmsep11.sz.coop.ch
 author-coopilot.coop.ch
 author-coopilot-test.coop.ch
-*.sz.coop.ch
 sz.coop.ch
-*.hs.coop.ch
 hs.coop.ch
 qual.coopcontent.coop.ch
 svrl1extrasolrsrcp02.hs.coop.ch
-www.asamobile.coop.ch
 wlcd300-97.sz.coop.ch
 wlcd300-96.sz.coop.ch
 auth.rnr.coop.ch
@@ -862,7 +841,6 @@ rnr.coop.ch
 rnr-int.coop.ch
 dev.bergwelt.coop.ch
 staging.bergwelt.coop.ch
-www.bergwelt.coop.ch
 learning-test.coop.ch
 img.coop.ch
 staging.noelini.coop.ch
@@ -876,10 +854,6 @@ kwf-epp.coop.ch
 coopcontent-r18.coop.ch
 dev.hellosummer.coop.ch
 staging.hellosummer.coop.ch
-www.hellosummer.coop.ch
-www.easter.coop.ch
-www.ostern.coop.ch
-www.pasqua.coop.ch
 bpm.coop.ch
 labelscms.coop.ch
 gameservices.coop.ch
@@ -894,33 +868,26 @@ inverno.coop.ch
 staging.hiver.coop.ch
 staging.inverno.coop.ch
 winterzauber.coop.ch
-www.winterzauber.coop.ch
 pkidata.coop.ch
 vrops.hs.coop.ch
 festtage.coop.ch
 wanko-fleet-test.coop.ch
 sharepoint-test.coop.ch
 dev.fuermichunddich.coop.ch
-fuermichunddich.coop.ch
 permeeperte.coop.ch
 pourmoietpourtoi.coop.ch
 staging.fuermichunddich.coop.ch
-www.permeeperte.coop.ch
-www.pourmoietpourtoi.coop.ch
 dev.seahappy.coop.ch
 seahappy.coop.ch
 staging.seahappy.coop.ch
-www.seahappy.coop.ch
 logintest.coop.ch
 ssotest.coop.ch
 test-coopcontent.coop.ch
 wac-test.coop.ch
 emoji.coop.ch
 staging.emoji.coop.ch
-www.emoji.coop.ch
 epaper-r18.coop.ch
 cooplogin01.coop.ch
-beehappy.coop.ch
 dev.beehappy.coop.ch
 staging.beehappy.coop.ch
 svrl1kubregp01.hs.coop.ch
@@ -939,9 +906,6 @@ geschenkkartetest.coop.ch
 mesa.coop.ch
 cprprint.coop.ch
 recruiting-test.coop.ch
-www.cartaregalo.coop.ch
-www.cartecadeau.coop.ch
-www.geschenkkarte.coop.ch
 wankofleet.coop.ch
 servicemanager.coop.ch
 extranet-neu.coop.ch
@@ -1037,8 +1001,6 @@ staging.wissen.coop.ch
 wissen.coop.ch
 dashboardtest.coop.ch
 slaveral.coop.ch
-www.bauundhobbycontent-test.coop.ch
-www.bauundhobbycontent-test-r17.coop.ch
 cps-mobile-cpm.coop.ch
 bh-ttest.coop.ch
 mde-e.coop.ch
@@ -1046,7 +1008,6 @@ fileload-test.coop.ch
 xmas.coop.ch
 soaentrytest.coop.ch
 bauundhobbycontent.coop.ch
-www.bauundhobbycontent.coop.ch
 mobilesurf.coop.ch
 airdst.coop.ch
 airrtpt.coop.ch
@@ -1073,7 +1034,6 @@ cdn.coop.ch
 tcb.coop.ch
 dev.festtage.coop.ch
 staging.festtage.coop.ch
-www.festtage.coop.ch
 railcarefleetmdm-test.coop.ch
 railcarefleet-test.coop.ch
 dev.dsp.coop.ch
@@ -1199,7 +1159,7 @@ svradnsextp01.sz.coop.ch
 portal-svrm1stseimap01.clusterinter.coop.ch
 portaldrop.clusterinter.coop.ch
 conference-2-standalonecluster405e6-portal.clusterinter.coop.ch
-www.music-portal.clusterinter.coop.ch
+music-portal.clusterinter.coop.ch
 quiz-lernende.coop.ch
 tech-portal.clusterinter.coop.ch
 portalservicestest-cisp.clusterinter.coop.ch
@@ -1257,7 +1217,6 @@ mdm1-t.clusterinter.coop.ch
 dev-xmasapi.portal.clusterinter.coop.ch
 bs4.clusterinter.coop.ch
 r12-ttest-portal.clusterinter.coop.ch
-www.fattoria.coop.ch
 standalonecluster404e6portal.clusterinter.coop.ch
 conference-2-standalonecluster407e6portal.clusterinter.coop.ch
 portal-cartecadeau-qual-r18.clusterinter.coop.ch
@@ -1453,7 +1412,7 @@ pages.politik.coop.ch
 portal-devenv.clusterinter.coop.ch
 ergotranslate-entw.coop.ch
 libs-r21.clusterinter.coop.ch
-www.freizeitcenter.coop.ch
+freizeitcenter.coop.ch
 portalmarch.clusterinter.coop.ch
 s455.clusterinter.coop.ch
 portal-pantheon.clusterinter.coop.ch
@@ -1599,7 +1558,6 @@ portaldatabase.clusterinter.coop.ch
 svrcxt5portal.clusterinter.coop.ch
 range86-152.portal.clusterinter.coop.ch
 portal-svrl1chexpwe48.clusterinter.coop.ch
-www.wapportal.clusterinter.coop.ch
 search.clusterinter.coop.ch
 design.portal.clusterinter.coop.ch
 portalpartnerweb.clusterinter.coop.ch
@@ -1613,7 +1571,6 @@ yesjxbyk.clusterinter.coop.ch
 oa.clusterinter.coop.ch
 buffalo.clusterinter.coop.ch
 messages.portal.clusterinter.coop.ch
-www.food.coop.ch
 ylkazhoq.clusterinter.coop.ch
 portalsvrtxc3.clusterinter.coop.ch
 portal-templates-rb18.clusterinter.coop.ch
@@ -1836,7 +1793,6 @@ portalblumenundpflanzen.clusterinter.coop.ch
 gallery-portal.clusterinter.coop.ch
 svrm1pkidata50.portal.clusterinter.coop.ch
 portal-mobile2004.clusterinter.coop.ch
-www.bauernhof.coop.ch
 standalonecluster403e6.clusterinter.coop.ch
 mta4.nl.coop.ch
 webtrends.coop.ch
@@ -1857,7 +1813,6 @@ portalinmuebles.clusterinter.coop.ch
 hypernova-portal.clusterinter.coop.ch
 abhsia.clusterinter.coop.ch
 wordpressportal.clusterinter.coop.ch
-www.apiportal.clusterinter.coop.ch
 xmas-test.portal.clusterinter.coop.ch
 svrm1pkidata1portal.clusterinter.coop.ch
 portalj0ee6test.clusterinter.coop.ch
@@ -2276,7 +2231,6 @@ qhjnrqos.portal.clusterinter.coop.ch
 mediendb-entw.coop.ch
 c1._domainkey.ahv.coop.ch
 www-1.clusterinter.coop.ch
-www.mobile.coop.ch
 portalwp.clusterinter.coop.ch
 workflow.coop.ch
 svrexw98.portal.clusterinter.coop.ch
@@ -2479,7 +2433,6 @@ static.grill.coop.ch
 ccmp.coop.ch
 selector1._domainkey.cbz.coop.ch
 cms0.portal.clusterinter.coop.ch
-www.zwitschern.coop.ch
 svripmail2.coop.ch
 snoopy-portal.clusterinter.coop.ch
 kgzendxw.portal.clusterinter.coop.ch
@@ -2641,7 +2594,6 @@ _dmarc.coop.ch
 bauundhobbycontent-r18.portal.clusterinter.coop.ch
 irc.portal.clusterinter.coop.ch
 servicescsm4.clusterinter.coop.ch
-www.kampagnenarchiv.coop.ch
 nginxportal.clusterinter.coop.ch
 portal-phpmyadmin.clusterinter.coop.ch
 portallso.clusterinter.coop.ch
@@ -2671,7 +2623,6 @@ ftp.clusterinter.coop.ch
 dublin.clusterinter.coop.ch
 corp.clusterinter.coop.ch
 bytmcb5as38r51ep.portal.clusterinter.coop.ch
-www.ernaehrung.coop.ch
 bi-test-portal.clusterinter.coop.ch
 portal-svrm4mdmmsep04.clusterinter.coop.ch
 uploads.portal.clusterinter.coop.ch
@@ -2695,7 +2646,6 @@ rtuocfkp.clusterinter.coop.ch
 learning-portal.clusterinter.coop.ch
 tnt-orders-qual.coop.ch
 miembrosportal.clusterinter.coop.ch
-freizeitcenter.coop.ch
 contentimages-preview-portal.clusterinter.coop.ch
 svrmhsexgw01.coop.ch
 coopcontent-r18portal.clusterinter.coop.ch
@@ -2839,7 +2789,6 @@ nbomxnlu.clusterinter.coop.ch
 svradnsfwdp3.portal.clusterinter.coop.ch
 ns1.portal.clusterinter.coop.ch
 portal-geschenkkarte-test-r19.clusterinter.coop.ch
-www.umwelt.coop.ch
 campusportal.clusterinter.coop.ch
 portal-web-access-out1.clusterinter.coop.ch
 entw.coop.ch
@@ -2849,7 +2798,6 @@ feeds.clusterinter.coop.ch
 staging.portal.clusterinter.coop.ch
 svrlcxc131-3portal.clusterinter.coop.ch
 portalvhcogtgici.clusterinter.coop.ch
-music-portal.clusterinter.coop.ch
 localhost.retail-media.coop.ch
 eportal.clusterinter.coop.ch
 standalonecluster404e7-portal.clusterinter.coop.ch
@@ -3040,7 +2988,6 @@ rwvxacrq.clusterinter.coop.ch
 email.portal.clusterinter.coop.ch
 portalextern4.clusterinter.coop.ch
 8-portal.clusterinter.coop.ch
-www.disney.coop.ch
 portalphpmyadmin.clusterinter.coop.ch
 northamerica-portal.clusterinter.coop.ch
 hr-entw.coop.ch
@@ -3069,7 +3016,6 @@ out5.portal.clusterinter.coop.ch
 rvqelzzf.clusterinter.coop.ch
 cartaregalo-test-r19-portal.clusterinter.coop.ch
 portalsvrm1abwst52.clusterinter.coop.ch
-www.adimgportal.clusterinter.coop.ch
 kwf-ccr-portal.clusterinter.coop.ch
 www-test.coop.ch
 sndqrzlm.clusterinter.coop.ch
@@ -3155,7 +3101,7 @@ superchance.coop.ch
 wanko-fleet.clusterinter.coop.ch
 epaper-r16portal.clusterinter.coop.ch
 pcsext.portal.clusterinter.coop.ch
-www.coopliot.coop.ch
+coopliot.coop.ch
 portal-svrl4chexpwe04.clusterinter.coop.ch
 portalnatale.clusterinter.coop.ch
 s461.clusterinter.coop.ch
@@ -3184,7 +3130,6 @@ pcanywhere-portal.clusterinter.coop.ch
 cartecadeau-qual-r18.clusterinter.coop.ch
 ddcvroaa.clusterinter.coop.ch
 j3ee6testportal.clusterinter.coop.ch
-www.ferme.coop.ch
 test-insieme.portal.clusterinter.coop.ch
 lax.portal.clusterinter.coop.ch
 svrm1pkidata52-portal.clusterinter.coop.ch

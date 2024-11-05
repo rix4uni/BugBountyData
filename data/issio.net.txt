@@ -1,7 +1,7 @@
 uptime.issio.net
 e2a-va.issio.net
 qa2.issio.net
-www.qa.issio.net
+qa.issio.net
 compare.issio.net
 temp.issio.net
 e1c-va.issio.net
@@ -18,19 +18,17 @@ e2b-va.issio.net
 trunk.issio.net
 aws-spf.issio.net
 va-beta.issio.net
-qa.issio.net
 w2c-va.issio.net
 soapy.issio.net
 e2c-va.issio.net
 issio.qa.issio.net
 nessus.issio.net
-www.issio.net
 w1c-va.issio.net
 e1a-va.issio.net
 rds.issio.net
 help.issio.net
 sso.issio.net
-www.freeze.issio.net
+freeze.issio.net
 uw1-va.issio.net
 w2b-va.issio.net
 e1b-va.issio.net
@@ -43,7 +41,6 @@ e1e-va.issio.net
 freeze-va.issio.net
 old-qa.issio.net
 calendar.freeze.issio.net
-www.trunk.issio.net
 w1a-va.issio.net
 hudson.issio.net
 aws.issio.net
@@ -55,7 +52,6 @@ va-staging.issio.net
 yp.issio.net
 support.issio.net
 calendar.qa.issio.net
-freeze.issio.net
 w2b-www.issio.net
 e2a-www.issio.net
 444129-web3.issio.net
@@ -63,7 +59,6 @@ va-devops.issio.net
 hl7.qa1.issio.net
 w2a-www.issio.net
 calendar.qa2.issio.net
-www.va.issio.net
 hl7.qa2.issio.net
 uw1-gov.issio.net
 w1d-www.issio.net
@@ -79,7 +74,6 @@ w1b-www.issio.net
 gov.issio.net
 w2c-www.issio.net
 calendar.qa1.issio.net
-www.calendar.qa.issio.net
 ue1-gov.issio.net
 e1a-gov.issio.net
 uw2-www.issio.net
@@ -94,4 +88,3 @@ w1a-www.issio.net
 w1b-gov.issio.net
 w1a-gov.issio.net
 gov-beta.issio.net
-*.issio.net

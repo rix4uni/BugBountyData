@@ -327,7 +327,6 @@ sl458.web.hostpoint.ch
 sl144.web.hostpoint.ch
 blog2012.hostpoint.ch
 sl152.web.hostpoint.ch
-www.buffalo.server4.hostpoint.ch
 1990719-fix4this.widget-server-uc.sites.hostpoint.ch
 popimap003.mail.hostpoint.ch
 sl297.web.hostpoint.ch
@@ -361,7 +360,7 @@ mysql20j12.db.hostpoint.ch
 mysql22j01.db.hostpoint.ch
 corevl20-hs12.zrh02.hostpoint.ch
 sites01.hostpoint.ch
-www.bschmut.server2.hostpoint.ch
+bschmut.server2.hostpoint.ch
 mysql12j09.db.hostpoint.ch
 sl1730.web.hostpoint.ch
 server-m002.hostpoint.ch
@@ -387,7 +386,7 @@ server-p007.hostpoint.ch
 sl235.web.hostpoint.ch
 mysql18j02.db.hostpoint.ch
 server-r002.hostpoint.ch
-www.server2.hostpoint.ch
+server2.hostpoint.ch
 jublasch.server4.hostpoint.ch
 mysql14j14.db.hostpoint.ch
 s7.server.hostpoint.ch
@@ -507,7 +506,7 @@ hscrew.server4.hostpoint.ch
 mysql20j13.db.hostpoint.ch
 sl286.web.hostpoint.ch
 server13.hostpoint.ch
-www.server41.hostpoint.ch
+server41.hostpoint.ch
 b39.server.hostpoint.ch
 sl103.web.hostpoint.ch
 mxout016.mail.hostpoint.ch
@@ -549,16 +548,14 @@ schaerh.server13.hostpoint.ch
 b11.server.hostpoint.ch
 mysql24j05.db.hostpoint.ch
 sl353.web.hostpoint.ch
-server41.hostpoint.ch
 sl1580.web.hostpoint.ch
 monanet.server3.hostpoint.ch
 mysql24j06.db.hostpoint.ch
 mysql16j16.db.hostpoint.ch
 sl1312.web.hostpoint.ch
 server-p001.hostpoint.ch
-www.server24.hostpoint.ch
 sl213.web.hostpoint.ch
-www.customerpromo.hostpoint.ch
+customerpromo.hostpoint.ch
 b10.server.hostpoint.ch
 popimap005.mail.hostpoint.ch
 mysql25j02.db.hostpoint.ch
@@ -617,8 +614,6 @@ sl38.web.hostpoint.ch
 mysql26j14.db.hostpoint.ch
 sl324.web.hostpoint.ch
 antargus01.hostpoint.ch
-server2.hostpoint.ch
-www.server-p004.hostpoint.ch
 sl58.web.hostpoint.ch
 sl66.web.hostpoint.ch
 server6.hostpoint.ch
@@ -640,7 +635,6 @@ sl101.web.hostpoint.ch
 sl79.web.hostpoint.ch
 gatenat.adm.hostpoint.ch
 asmtp.mail.hostpoint.ch
-www.server20.hostpoint.ch
 mysql11j01.db.hostpoint.ch
 mailman012.mail.hostpoint.ch
 sl1712.web.hostpoint.ch
@@ -651,7 +645,6 @@ sl344.web.hostpoint.ch
 wwwtestch.dev.hostpoint.ch
 ns01.adm.hostpoint.ch
 s44.server.hostpoint.ch
-www.admin.hostpoint.ch
 s61.server.hostpoint.ch
 limited.webmail.hostpoint.ch
 mysql11zrh02.db.hostpoint.ch
@@ -752,7 +745,6 @@ mysql27j14.db.hostpoint.ch
 sl171.web.hostpoint.ch
 mysql28j02.db.hostpoint.ch
 sl211.web.hostpoint.ch
-bschmut.server2.hostpoint.ch
 mysql16j07.db.hostpoint.ch
 sl206.web.hostpoint.ch
 pop.mail.hostpoint.ch
@@ -821,7 +813,7 @@ sitestest2.hostpoint.ch
 mysql22j11.db.hostpoint.ch
 b50.server.hostpoint.ch
 mysql14j15.db.hostpoint.ch
-www.server18.hostpoint.ch
+server18.hostpoint.ch
 mysql21j00.db.hostpoint.ch
 p0.server.hostpoint.ch
 k1.server.hostpoint.ch
@@ -831,7 +823,6 @@ server16.hostpoint.ch
 sl216.web.hostpoint.ch
 mysql20j02.db.hostpoint.ch
 mysql13j08.db.hostpoint.ch
-www.server30.hostpoint.ch
 lb2.adm.hostpoint.ch
 sl1810.web.hostpoint.ch
 mysql15j14.db.hostpoint.ch
@@ -845,7 +836,6 @@ sl166.web.hostpoint.ch
 mxout018.mail.hostpoint.ch
 mysql23j15.db.hostpoint.ch
 nsc2.hostpoint.ch
-www.promo.hostpoint.ch
 sl581.web.hostpoint.ch
 sl349.web.hostpoint.ch
 mysql12j13.db.hostpoint.ch
@@ -860,7 +850,6 @@ mysql11j09.db.hostpoint.ch
 mysql25j09.db.hostpoint.ch
 sl194.web.hostpoint.ch
 2004396-fix4this.widget-server-uc.sites.hostpoint.ch
-www.server-r006.hostpoint.ch
 mail.hostpoint.ch
 corevl10-hs3.zrh01.hostpoint.ch
 sl360.web.hostpoint.ch
@@ -904,7 +893,6 @@ p5.server.hostpoint.ch
 fawaz-tr.server1.hostpoint.ch
 softhq.server3.hostpoint.ch
 sl326.web.hostpoint.ch
-www.server-p007.hostpoint.ch
 sl164.web.hostpoint.ch
 sl240.web.hostpoint.ch
 mysql14j12.db.hostpoint.ch
@@ -999,7 +987,6 @@ sl644.web.hostpoint.ch
 sl269.web.hostpoint.ch
 b24.server.hostpoint.ch
 popimap015.mail.hostpoint.ch
-www.hostpoint.ch
 sl22.web.hostpoint.ch
 sl116.web.hostpoint.ch
 mysql15j04.db.hostpoint.ch
@@ -1032,7 +1019,7 @@ server3.hostpoint.ch
 dev.adm.hostpoint.ch
 mail.adm.hostpoint.ch
 sl268.web.hostpoint.ch
-www.mindarea.server1.hostpoint.ch
+mindarea.server1.hostpoint.ch
 sl193.web.hostpoint.ch
 michihc.server10.hostpoint.ch
 mysql20j15.db.hostpoint.ch
@@ -1083,8 +1070,7 @@ sl53.web.hostpoint.ch
 cloud.logaholic.hostpoint.ch
 sl293.web.hostpoint.ch
 mysql22j15.db.hostpoint.ch
-server18.hostpoint.ch
-www.14daytrial.hostpoint.ch
+14daytrial.hostpoint.ch
 b48.server.hostpoint.ch
 sl180.web.hostpoint.ch
 retoblei.server13.hostpoint.ch
@@ -1348,13 +1334,11 @@ monitoring.hostpoint.ch
 mysql28j16.db.hostpoint.ch
 sl1532.web.hostpoint.ch
 sl119.web.hostpoint.ch
-www.server17.hostpoint.ch
 sl250.web.hostpoint.ch
 deluxe.server2.hostpoint.ch
 sl156.web.hostpoint.ch
 epages3.hostpoint.ch
 timschm.mysql.db.hostpoint.ch
-www.klubschule.hostpoint.ch
 landch.server4.hostpoint.ch
 wtapp01-selfserviceip.adm.hostpoint.ch
 sl160.web.hostpoint.ch
@@ -1366,7 +1350,6 @@ b14.server.hostpoint.ch
 corevl200-hs19.zrh01.hostpoint.ch
 sl252.web.hostpoint.ch
 s2.server.hostpoint.ch
-www.server16.hostpoint.ch
 switchr2b7-p02.zrh01.hostpoint.ch
 sl296.web.hostpoint.ch
 sl247.web.hostpoint.ch
@@ -1404,7 +1387,6 @@ sl649.web.hostpoint.ch
 sl201.web.hostpoint.ch
 sl656.web.hostpoint.ch
 sl209.web.hostpoint.ch
-www.server23.hostpoint.ch
 logaholic04.hostpoint.ch
 sl1520.web.hostpoint.ch
 sl578.web.hostpoint.ch
@@ -1437,16 +1419,10 @@ mail.mail.hostpoint.ch
 mailhost.hostpoint.ch
 hostmaster.hostpoint.ch
 sl2036.web.hostpoint.ch
-www.sites.hostpoint.ch
-www.flex.hostpoint.ch
-www.blog.hostpoint.ch
-www.office.hostpoint.ch
 ns4.hostpoint.ch
-www.connect.voice.hostpoint.ch
 sl1817.web.hostpoint.ch
 sl1757.web.hostpoint.ch
 sl1454.web.hostpoint.ch
-www.e-mail-assistant-certificate.hostpoint.ch
 nwidget-server-uc.sites.hostpoint.ch
 sl1625.web.hostpoint.ch
 sl1448.web.hostpoint.ch
@@ -1454,7 +1430,6 @@ sl1762.web.hostpoint.ch
 sl1766.web.hostpoint.ch
 sl1794.web.hostpoint.ch
 scrjch.ssh.cloud.hostpoint.ch
-www.drive.office.hostpoint.ch
 sl1735.web.hostpoint.ch
 sl1668.web.hostpoint.ch
 sl1666.web.hostpoint.ch
@@ -1462,15 +1437,10 @@ ftp.sl281.web.hostpoint.ch
 mail.sl73.web.hostpoint.ch
 sl1118.web.hostpoint.ch
 imap.sl75.web.hostpoint.ch
-www.rocket.chat.hostpoint.ch
 pop.sl109.web.sl109.web.hostpoint.ch
 sl356.web.hostpoint.ch
 wildcard.hostpoint.ch
-www.webshop.hostpoint.ch
-www.support.hostpoint.ch
 imap.p14.server.p14.server.hostpoint.ch
-www.sl87.web.hostpoint.ch
-www.banner.hostpoint.ch
 sl1284.web.hostpoint.ch
 dev04.adm.hostpoint.ch
 jira.dev.hostpoint.ch
@@ -1480,11 +1450,11 @@ n2.hostpoint.ch
 mail.sl104.web.hostpoint.ch
 ftp.sl44.web.hostpoint.ch
 sl1199.web.hostpoint.ch
-www.sl213.web.sl213.web.hostpoint.ch
+sl213.web.sl213.web.hostpoint.ch
 pop.sl202.web.sl202.web.hostpoint.ch
 mail.sl202.web.hostpoint.ch
 imap4.sl137.web.hostpoint.ch
-www.sl205.web.sl205.web.hostpoint.ch
+sl205.web.sl205.web.hostpoint.ch
 imap.sl217.web.hostpoint.ch
 imap4.sl73.web.hostpoint.ch
 ftp.sl321.web.sl321.web.hostpoint.ch

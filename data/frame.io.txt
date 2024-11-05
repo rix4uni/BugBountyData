@@ -300,7 +300,6 @@ sso.dev.frame.io
 goals.frame.io
 us-east-1-pr-113.edge.arcade.dev.frame.io
 api.arcade.dev.frame.io
-www.frame.io
 demo.us-east-1-pr-104.edge.arcade.dev.frame.io
 dev.frame.io
 falkor.dev.frame.io
@@ -310,7 +309,6 @@ frameio.us-east-1-pr-109.edge.arcade.dev.frame.io
 foo-admin.poc.frame.io
 saleshub.frame.io
 preview.eval.frame.io
-www.promotion.frame.io
 us-east-1-pr-20.edge.arcade.dev.frame.io
 demo.us-east-1-pr-111.edge.arcade.dev.frame.io
 us-east-1-pr-52.edge.arcade.dev.frame.io
@@ -369,7 +367,7 @@ transferapp.frame.io
 us-east-1-pr-98.edge.arcade.dev.frame.io
 us-east-1-pr-24.edge.arcade.dev.frame.io
 org.stormdev.mcwipeout.frame.io
-www.partners.frame.io
+partners.frame.io
 frameio.us-east-1-pr-110.edge.arcade.dev.frame.io
 ping-us-east-1-cell2.poc.frame.io
 us-east-1.poc.frame.io
@@ -410,7 +408,6 @@ us-east-1-pr-133.edge.arcade.dev.frame.io
 us-east-1.reporting-api-collector.sandbox.frame.io
 com.weaverboot.frame.io
 preview-bb82ea56.vercel.dev.frame.io
-partners.frame.io
 internal.frame.io
 sandbox.frame.io
 applications.staging.frame.io

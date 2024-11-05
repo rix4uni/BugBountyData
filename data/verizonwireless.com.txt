@@ -52,7 +52,7 @@ casecallout.comdinet51-ns-myverizonid.verizonwireless.com
 nyorbgdinet36-ns-scmnswmtest.verizonwireless.com
 aboutu.verizonwireless.com
 erpprd-ws-fsprd.verizonwireless.com
-www.rgw-auth.verizonwireless.com
+rgw-auth.verizonwireless.com
 tonesqa5.verizonwireless.com
 inet27-odc-aboutyouuat.verizonwireless.com
 mediamanager.verizonwireless.com
@@ -73,7 +73,7 @@ pershing.verizonwireless.com
 cascrmdinet26-ns-endecapp.verizonwireless.com
 ohtwbgdinet36-ns-vigqa8developer.verizonwireless.com
 ohtwbgdinetrd6-ns-vpn-devb.verizonwireless.com
-www.m-support.verizonwireless.com
+m-support.verizonwireless.com
 inet26-ns-odi-deviceuat.verizonwireless.com
 nyorbgdinet28-ns-pshr-uatvzwsso.verizonwireless.com
 nyorbgdinet36-ns-mcscmp-d03.verizonwireless.com
@@ -343,7 +343,7 @@ nyponrdd-dev-e.verizonwireless.com
 cascrmdinet26-ns-icsdev1nr.verizonwireless.com
 cascrmdinet26-ns-push-sit-vzw.verizonwireless.com
 posstore-sqa6.verizonwireless.com
-www.nsavs36-ld-c.verizonwireless.com
+nsavs36-ld-c.verizonwireless.com
 mcscmp-qa8.verizonwireless.com
 cascrmdinet52-ns-avscan.verizonwireless.com
 devbillpaysvc.verizonwireless.com
@@ -380,7 +380,7 @@ nyorbgdinet56-ns-m-mediastore-dev.verizonwireless.com
 twbgohaai-ipx3a-ext.verizonwireless.com
 cairvndinet2-c-businessrbt-test.verizonwireless.com
 cascrmdinet26-ns-preprodebillpay.verizonwireless.com
-www.welktx08vzwvocs-q-nk-esmrtr-cent-2.verizonwireless.com
+welktx08vzwvocs-q-nk-esmrtr-cent-2.verizonwireless.com
 nyorbgdinet24-ns2.verizonwireless.com
 tqa-orbg.verizonwireless.com
 cascrmdinet26-ns-itdashuat-sdc.verizonwireless.com
@@ -470,8 +470,8 @@ cascrmdinet55-ns-mobileshop-vzw.verizonwireless.com
 dreroes.midwest.dr.verizonwireless.com
 nyobgcolec2p1.verizonwireless.com
 ohtwbgdinet21-ns-sposstorestatic-train-tdc.verizonwireless.com
-www.txslrtdl02.verizonwireless.com
-www.welktx08vzwvocs-q-nk-esmrtr-cent-1.verizonwireless.com
+txslrtdl02.verizonwireless.com
+welktx08vzwvocs-q-nk-esmrtr-cent-1.verizonwireless.com
 awsqa8.verizonwireless.com
 cascrmdinet23-ns.verizonwireless.com
 nyorbgdinet36-ns-ccaremobile-bb-dev1.verizonwireless.com
@@ -516,7 +516,7 @@ nyorbgdinet36-ns-ppmyvsvcs.verizonwireless.com
 ohdblndinet26-ns-acsrtest.verizonwireless.com
 ohtwbgdinet36-ns-pp1ms-tdc-vzw.verizonwireless.com
 qa2billpay.verizonwireless.com
-www.gst-auth.verizonwireless.com
+gst-auth.verizonwireless.com
 ohtwbgdinet36-ns-vigdev6developer.verizonwireless.com
 vzwqa7.verizonwireless.com
 ohtwbgdinet56-ns-developercommunitydev.verizonwireless.com
@@ -591,7 +591,7 @@ mvbmobile-uat.verizonwireless.com
 cascrmdinet56-ns-tonesdev1.verizonwireless.com
 qa20billpaysvc.verizonwireless.com
 telestore-soe-nsd2.verizonwireless.com
-www.extvend.verizonwireless.com
+extvend.verizonwireless.com
 cascrmdinet55-ns2.verizonwireless.com
 myvzaskvz.mwest.verizonwireless.com
 ohdblndinet22-ns-dreroes-south.verizonwireless.com
@@ -777,7 +777,6 @@ cascrmdinet36-ns-mcscmp-int.verizonwireless.com
 juicepplogin.odc.verizonwireless.com
 ohtwbgdinetrd6-ns-vpn-deva.verizonwireless.com
 prevzwworkshops.verizonwireless.com
-nsavs36-ld-c.verizonwireless.com
 cascrmdinet28-ns-careers.verizonwireless.com
 cascrmdinet36-ns-dev1ms-vzw.verizonwireless.com
 mbaccmgrqa3.verizonwireless.com
@@ -811,7 +810,7 @@ cascrmdinet36-ns-pservicedev.verizonwireless.com
 nyorbgdinet36-ns-cimgs-test.verizonwireless.com
 nyorbgdngstlc-w1-yel-gi0-5.verizonwireless.com
 nyorbgdwlan-iw2-red-vrrp.verizonwireless.com
-www.artotxlpvzwvocs-c-nk-ucresm.verizonwireless.com
+artotxlpvzwvocs-c-nk-ucresm.verizonwireless.com
 cascrmdinet26-ns-mobile-wqa2.verizonwireless.com
 cacssinet4a-storefront.verizonwireless.com
 cascrmdinet36-ns-mcscmp-d03.verizonwireless.com
@@ -850,7 +849,7 @@ cascrmdinet54-ns2.verizonwireless.com
 cascrmdinet6-c-www.verizonwireless.com
 caseificioconti.crmdinet24-ns2.verizonwireless.com
 unassigned.epaod-vzw.verizonwireless.com
-www.txslries01.verizonwireless.com
+txslries01.verizonwireless.com
 cascrmdinet25-ns-odidevice-sdc.verizonwireless.com
 odi-admin-dev-alb.ebiz.verizonwireless.com
 ohtwbgdinet36-ns-erpdev-scn-inuat.verizonwireless.com
@@ -923,7 +922,7 @@ cascrmdinet36-ns-mediastore-qa6.verizonwireless.com
 ohdblndinet26-ns.verizonwireless.com
 scrmcagnn-7as01la.verizonwireless.com
 cascrmdinet36-ns-tonesint.verizonwireless.com
-www.njbbries01.verizonwireless.com
+njbbries01.verizonwireless.com
 cascrmdinet52-mblogin-sdc-new.verizonwireless.com
 ipc-dns-test.verizonwireless.com
 vip-rgr1.verizonwireless.com
@@ -950,7 +949,7 @@ cascrmdinet56-ns-m-mediastore-uat2.verizonwireless.com
 commissions.verizonwireless.com
 nyorbgdinet59-ns2.verizonwireless.com
 stg.digitalcare.verizonwireless.com
-www.2wayssl-mtas-to-ecgs-prod.verizonwireless.com
+2wayssl-mtas-to-ecgs-prod.verizonwireless.com
 twbgohaai-ipx7a-ext.verizonwireless.com
 cascrmdinet21-ns2.verizonwireless.com
 odcpprd-ssoauth.verizonwireless.com
@@ -1055,7 +1054,7 @@ scmesbtest-east.verizonwireless.com
 freebee.verizonwireless.com
 nyorbgd22p1-ns-pshr-uatvzwsso.verizonwireless.com
 nyorbgdinet28-ns-pshr-vzuat.verizonwireless.com
-www.server.stunnel.verizonwireless.com
+server.stunnel.verizonwireless.com
 cascrmdinet26-ns-preprodebillwu.verizonwireless.com
 nyorbgdinet23-ns-pscs-uatsso.verizonwireless.com
 ohtwbgdinet56-ns-developercommunitydev6.verizonwireless.com
@@ -1186,7 +1185,7 @@ cascrmdinet52-ns-temp-newbillpay.verizonwireless.com
 cascrmdinet22-ns-ebillwr.verizonwireless.com
 indirect-soe-nsd1.verizonwireless.com
 toms-test.verizonwireless.com
-www.olasuat.verizonwireless.com
+olasuat.verizonwireless.com
 edc0.fiecomm-sdc.verizonwireless.com
 nyorbgdinet23-ns-psvz-hrsvendor.verizonwireless.com
 smartphones.verizonwireless.com
@@ -1240,7 +1239,7 @@ ohdblndvs-5.verizonwireless.com
 ohtwbgdinet51-ns-nsavs51-c.verizonwireless.com
 m-mediastore-west.verizonwireless.com
 nyorbgdinet25-ns-dmdraco.verizonwireless.com
-www.mediastore.verizonwireless.com
+mediastore.verizonwireless.com
 cairvndinet24-ns-testman.verizonwireless.com
 cascrmdinet6-c-mobilemedia-newwest.verizonwireless.com
 ohtwbgdinet51-ns.verizonwireless.com
@@ -1324,7 +1323,6 @@ ohtwbgdinet25-ns-onemessage-pp.verizonwireless.com
 tonesuat2.verizonwireless.com
 vigperf2developer.verizonwireless.com
 vip-ext.verizonwireless.com
-www.odi-deviceuat-ig.verizonwireless.com
 wizard.verizonwireless.com
 bccdev4.verizonwireless.com
 ohtwbgdinet36-ns-dev2careadmin.verizonwireless.com
@@ -1406,7 +1404,7 @@ scrmcagni-ipx03-external-temp.verizonwireless.com
 vigperfdeveloper.verizonwireless.com
 qa3billpayimages.verizonwireless.com
 nyorbgdinet53-ns-myverizonlogin.verizonwireless.com
-www.rcnltxvzwvocs-l-nk-ucwsm-101.verizonwireless.com
+rcnltxvzwvocs-l-nk-ucwsm-101.verizonwireless.com
 nyorbgdinet26-ns-smfeduat-odc.verizonwireless.com
 verizontickets.verizonwireless.com
 cascrm1itfaw01.verizonwireless.com
@@ -1431,7 +1429,6 @@ ohtwbgdinet36-ns-ppmyvsvcs-mf-tdc.verizonwireless.com
 ohtwbgdinet56-ns-developercommunitydev4.verizonwireless.com
 cascrmdinet36-ns-qa1myvpostpay.verizonwireless.com
 crmomsi.east.verizonwireless.com
-server.stunnel.verizonwireless.com
 preprodecache.verizonwireless.com
 surveys.apps.verizonwireless.com
 mblogin-tdc.verizonwireless.com
@@ -1493,10 +1490,9 @@ mvbmobileqa2.verizonwireless.com
 nyorbgdinet23-ns1-pscs-sso.verizonwireless.com
 nyorbgdinet36-ns-mdata-qa5.verizonwireless.com
 ohtwbgdinet36-ns-developercommunityqa7.verizonwireless.com
-olasuat.verizonwireless.com
 sposstorestatic-sqa4.tdc.verizonwireless.com
 wsp001670wss.verizonwireless.com
-www.2wayssl-mtas-to-ecgs-lab.verizonwireless.com
+2wayssl-mtas-to-ecgs-lab.verizonwireless.com
 cascrmdinet21-ns-ccaremobile-bb-west.verizonwireless.com
 cascrmdinet53-ns-login.verizonwireless.com
 m.mediastore-perf2.verizonwireless.com
@@ -1512,17 +1508,17 @@ nyorbgdinet28-ns-mailhost.verizonwireless.com
 juicepplogin.verizonwireless.com
 nyorbgdinet36-ns-spg-etrn.verizonwireless.com
 nyorbgdinet56-ns-mdata-d03.verizonwireless.com
-www.suppub.verizonwireless.com
+suppub.verizonwireless.com
 2wayssl-omsg-prod.verizonwireless.com
 kal13-dbln.verizonwireless.com
 ohtwbgdinet36-ns-dm-admin-uat.verizonwireless.com
 cacssinet2-getmediatest-west.verizonwireless.com
 cascrmdinet25-ns-commissionsdr.verizonwireless.com
 preprod.smartphones.verizonwireless.com
-www.droiddoes.verizonwireless.com
+droiddoes.verizonwireless.com
 deviceforums-tdc.verizonwireless.com
 oi58mobile.verizonwireless.com
-www.nac1.verizonwireless.com
+nac1.verizonwireless.com
 ohtwbgdinet30-ns2.verizonwireless.com
 cltst2.verizonwireless.com
 eappsuat.verizonwireless.com
@@ -1611,8 +1607,8 @@ cascrmdinet25-ns-ice-sdc.verizonwireless.com
 cascrmdinet36-ns-mediastore-poc.verizonwireless.com
 mdata-uat.verizonwireless.com
 sposstorestatic-sqa3.tdc.verizonwireless.com
-www.filecourier.brandcentral.verizonwireless.com
-www.guest-auth.verizonwireless.com
+filecourier.brandcentral.verizonwireless.com
+guest-auth.verizonwireless.com
 onevzssosoe-east-yz-sit3.verizonwireless.com
 cascrmdinet36-ns-presupport.verizonwireless.com
 ohtwbgdinet21-ns-eroes-ss-west-midwest.verizonwireless.com
@@ -1648,8 +1644,7 @@ cascrmdinet36-ns-mediastore-perf.verizonwireless.com
 nyorbgdinet36-ns-preprodmy.verizonwireless.com
 nyorbgdinet56-ns-mcscmp-uat2.verizonwireless.com
 ohtwbginet27-ns-erpdev-scn-indev.verizonwireless.com
-www.bbtpnj33vzwvocs-c-nk-ucwesm.verizonwireless.com
-mediastore.verizonwireless.com
+bbtpnj33vzwvocs-c-nk-ucwesm.verizonwireless.com
 cascrmdinet36-ns-amregwpp.verizonwireless.com
 cascrmdinet36-ns-ppmyvsvcs-mf-sdc.verizonwireless.com
 learnuat.verizonwireless.com
@@ -1697,11 +1692,11 @@ ohtwbgdinet36-ns-preorder-prj5.verizonwireless.com
 ohtwbgdinet36-ns-vip-sqa2.tdc.verizonwireless.com
 awsqa5.verizonwireless.com
 posstore-prj3.verizonwireless.com
-www.app2.verizonwireless.com
+app2.verizonwireless.com
 cascrmdinet36-ns-mediastore-uat2.verizonwireless.com
 fivestarwest-tdc.verizonwireless.com
 nyorbgdinet21-ns-vip-ssl-east.verizonwireless.com
-www.brandcentral.verizonwireless.com
+brandcentral.verizonwireless.com
 ohtwbgdinet36-ns-developercommunitydev7.verizonwireless.com
 cascrmdinet25-ns-geocodesdc.verizonwireless.com
 cascrmdinet36-ns-mdata-qa1.verizonwireless.com
@@ -1730,7 +1725,7 @@ cascrmdinet36-ns-rmt-preprod.verizonwireless.com
 presurvey.verizonwireless.com
 sfdc.verizonwireless.com
 thingspaceportal.west.verizonwireless.com
-www.tsaian.verizonwireless.com
+tsaian.verizonwireless.com
 cascrmdinet36-ns-tonesdev1.verizonwireless.com
 cmperf.verizonwireless.com
 ohtwbgcolec2p3.verizonwireless.com
@@ -1747,7 +1742,7 @@ nycssinet4-getmedia-east.verizonwireless.com
 preorder-sqa6.verizonwireless.com
 cascrmdinet28-ns1.verizonwireless.com
 rcklca63vzwvocs-c-nk-ucwsm-01.verizonwireless.com
-www.2wayssl-mtas-neustar-lab.verizonwireless.com
+2wayssl-mtas-neustar-lab.verizonwireless.com
 ecrm.e.verizonwireless.com
 mediastore-sit2.verizonwireless.com
 ohtwbgdinet26-ns-vziappsdev-c.verizonwireless.com
@@ -1923,7 +1918,7 @@ nyorbgdinet29-ns-vzmobile-e.verizonwireless.com
 smppvzw.verizonwireless.com
 ohtwbgdmgstlc-w1-vrrp153.verizonwireless.com
 onepos.east.verizonwireless.com
-www.carkrtdl01.verizonwireless.com
+carkrtdl01.verizonwireless.com
 cascrmdinet36-ns-vesidmpp-sdc.verizonwireless.com
 ibas3.verizonwireless.com
 iotintelligence-uat.verizonwireless.com
@@ -1933,7 +1928,7 @@ careersdev.verizonwireless.com
 cim-tv.verizonwireless.com
 hold-ohtwbgdinet25-ns-mobilevec.verizonwireless.com
 nyorbgdinet56-ns-mediastore-perf2.verizonwireless.com
-www.dr2.opsportal.verizonwireless.com
+dr2.opsportal.verizonwireless.com
 erpprd-scn-inprd.verizonwireless.com
 qa1myvpostpay.verizonwireless.com
 ohtwbgdinet36-ns-udm-qa-vzw.verizonwireless.com
@@ -2000,7 +1995,7 @@ cascrmdinet27-ns1.verizonwireless.com
 myvprepay-east-yz.verizonwireless.com
 ohtwbgdinet21-ns-sposstore-tdc.verizonwireless.com
 vispweb-pp.verizonwireless.com
-www.roms.verizonwireless.com
+roms.verizonwireless.com
 nyorbgdinet36-ns-m-mediastore-qa5.verizonwireless.com
 vzwqa80.verizonwireless.com
 mft-odc.verizonwireless.com
@@ -2046,12 +2041,11 @@ cascrmcolec7p1.verizonwireless.com
 pegasus1.verizonwireless.com
 pretmyacct.verizonwireless.com
 webapp.sl.e.verizonwireless.com
-gst-auth.verizonwireless.com
 nyorbgdinet24-ns-tmyacct.verizonwireless.com
 supplychaintst.verizonwireless.com
 vip-sqa6.odc.verizonwireless.com
 cascrmdinet36-ns-uatbillpaysvc.verizonwireless.com
-www.igjwt.verizonwireless.com
+igjwt.verizonwireless.com
 ohtwbgdinet25-ns-scmpublish.verizonwireless.com
 signup-tdc.verizonwireless.com
 cascrmdinet2-c-businessrbt-test-west-vzw.verizonwireless.com
@@ -2074,7 +2068,6 @@ mvbmobile.mwest.verizonwireless.com
 nyorbgdinet27-ns-onepos-west-south.verizonwireless.com
 ohtwbgdinet27-ns-onepos-west-midwest.verizonwireless.com
 wfm-pocu.verizonwireless.com
-www.clspcoykvzwvocs-c-nk-agssm-01.verizonwireless.com
 ohtwbgdinet36-ns-vsearchesrdev.verizonwireless.com
 nyorbgdinet36-ns-next-gen-test-vip1.verizonwireless.com
 nyorbgdinet23-ns-hire-checklist.verizonwireless.com
@@ -2086,7 +2079,6 @@ twbgohaai-ipx03-ext.verizonwireless.com
 pselmdev-lp.verizonwireless.com
 mbss.verizonwireless.com
 nyorbgdinet36-ns-oneposdev-ss-east.verizonwireless.com
-www.mblkruat.verizonwireless.com
 ohtwbgdinet26-ns1-fs-tdc-testmail.verizonwireless.com
 cascrmdinet6-c-eroes-ss-west.verizonwireless.com
 nyorbgdinet26-ns-rdd-dev-e.verizonwireless.com
@@ -2181,7 +2173,6 @@ demobar.verizonwireless.com
 ohdblndvs-2.verizonwireless.com
 sse-sdc.verizonwireless.com
 cairvndinet8-preprodwbillpay.verizonwireless.com
-www.vzwas2edidev.verizonwireless.com
 nyorbgdinet2-c-m-mediastoretest-east.verizonwireless.com
 nyorbgdinet56-ns-mdata-uat2.verizonwireless.com
 wnp-uat-east.verizonwireless.com
@@ -2211,7 +2202,6 @@ cascrmdinet27-ns-appttmdm3.verizonwireless.com
 cascrmdinet36-ns-mediastore-qa8.verizonwireless.com
 cascrmdinet36-ns-testman.verizonwireless.com
 nyorbgdinet36-ns-m-mediastore-d03.verizonwireless.com
-roms.verizonwireless.com
 nyorbgdinet2-scmvit.verizonwireless.com
 cascrmdinet36-ns-m-mediastore-d01.verizonwireless.com
 nyorbgdinet25-ns-mft-odc.verizonwireless.com
@@ -2229,7 +2219,6 @@ cascrmdinet36-ns-m-mediastore-qa7.verizonwireless.com
 cascrmdinet52-ns-cloud.verizonwireless.com
 nyorbgdinet56-ns-mcscmp-d05.verizonwireless.com
 cascrmdinet26-ns-tqa-new-west.verizonwireless.com
-www.nac3.verizonwireless.com
 moxiecms.store.verizonwireless.com
 nyorbgdinet36-ns-m-mediastore-sit.verizonwireless.com
 ascrmdinet101-ns-rdd-w.verizonwireless.com
@@ -2375,7 +2364,7 @@ scrmcagnn-isg02-ext.verizonwireless.com
 alpha1.verizonwireless.com
 ohtwbgitfaw06.verizonwireless.com
 onepostraining-ss.west.verizonwireless.com
-www.njbbppdl01.verizonwireless.com
+njbbppdl01.verizonwireless.com
 cascrmdinet28-ns-sfdc.verizonwireless.com
 cascrmdinet26-ns-mobileservices-wsit-vzw.verizonwireless.com
 chatbot-exp-np-sit6.verizonwireless.com
@@ -2438,7 +2427,7 @@ cascrmdvpneext-2.verizonwireless.com
 m.mediastore-uat.verizonwireless.com
 nyorbgdinet26-ns-rdd-sit-e.verizonwireless.com
 preprodbillpaysvc.verizonwireless.com
-www.erpdev-catscm-inuat.verizonwireless.com
+erpdev-catscm-inuat.verizonwireless.com
 nyorbgdinet52-ns-billpaysvc.verizonwireless.com
 cascrmdinet52-ns-v4b-west.verizonwireless.com
 nyorbgdinet36-ns-mediastore-qa4.verizonwireless.com
@@ -2471,7 +2460,6 @@ cascrmdinet53-ns-crm-aem-prod-sdc.verizonwireless.com
 drerp-srm.verizonwireless.com
 ohtwbgdinet25-ns-visplogin.verizonwireless.com
 qcascrmitfaw02.verizonwireless.com
-www.nac2.verizonwireless.com
 telestore.verizonwireless.com
 accountanalysis.verizonwireless.com
 lkg03-mediamanager.verizonwireless.com
@@ -2540,7 +2528,6 @@ cascrmdinet36-ns-qa2myvprepay.verizonwireless.com
 ohtwbgdinet56-ns2.verizonwireless.com
 vescheckoutqa4.verizonwireless.com
 cascrmdinet36-ns-nsavs36-ld-grp-w.verizonwireless.com
-droiddoes.verizonwireless.com
 host35.verizonwireless.com
 nyorbgdinet1a-spg-preprod-vzw.verizonwireless.com
 mft-sdc.verizonwireless.com
@@ -2579,7 +2566,6 @@ hrs-wifi-nac2.verizonwireless.com
 mcscmp-d06.verizonwireless.com
 ohtwbgdinet21-ns-hhd-tdc-midwest.verizonwireless.com
 soecanarypub-sdc.verizonwireless.com
-carkrtdl01.verizonwireless.com
 cascrmcolec7p2.verizonwireless.com
 nyorbgdinet51-ns-vescheckout-odc.verizonwireless.com
 twsntqipsap02.verizonwireless.com
@@ -2591,7 +2577,6 @@ qcascrmitfaw01.verizonwireless.com
 gst-authw.verizonwireless.com
 mw.reply.verizonwireless.com
 nyorbgdinet52-ns-myvprepay.verizonwireless.com
-2wayssl-mtas-neustar-lab.verizonwireless.com
 cairvndinet5-wbillpay.verizonwireless.com
 carmelf1.verizonwireless.com
 vigintdeveloper.verizonwireless.com
@@ -2627,7 +2612,7 @@ nydzjccom.hkvip2t1a-his-preprod-vzw.verizonwireless.com
 nyorbgdinet36-ns-mdata-pf.verizonwireless.com
 ohtwbgdinet36-ns-preorder-sqa6.verizonwireless.com
 ohtwbgdinet27-ns-support-vzw.verizonwireless.com
-www.omsgout3-tdc.verizonwireless.com
+omsgout3-tdc.verizonwireless.com
 nycssinet1a-spg-preprod-vzw.verizonwireless.com
 nyorbgdinet22-ns-myverizoneapp.verizonwireless.com
 nyorbgdinet36-ns-learnuatstg-verizon.verizonwireless.com
@@ -2728,7 +2713,6 @@ cascrmdinet36-ns-mail13x2-test-vzw.verizonwireless.com
 meetingplaceext2mw.verizonwireless.com
 onevzssosoe-eks-east-yz-nsd1.verizonwireless.com
 sit.ie.digitalcare.verizonwireless.com
-www.twbgohaavocs-c-nk-esmrtr-01.verizonwireless.com
 cascrmdinet21-ns-rsm-west.verizonwireless.com
 developercommunityperf.verizonwireless.com
 hibemp-dev.verizonwireless.com
@@ -2758,7 +2742,6 @@ cascrmdinet53-ns-vesidm-sdc.verizonwireless.com
 nyorbgdinet21-ns-eroes-wsvc-midwest.verizonwireless.com
 aw-qa.verizonwireless.com
 nyorbgdinet21-ns-eroes-ss-mwest.verizonwireless.com
-rcnltxvzwvocs-l-nk-ucwsm-101.verizonwireless.com
 cascrmcolec8m.verizonwireless.com
 cascrmdinet36-ns-m-mediastore-d03.verizonwireless.com
 spsprp.odc.verizonwireless.com
@@ -2787,7 +2770,6 @@ sposstore-prj.verizonwireless.com
 cascrmdinet8-c.verizonwireless.com
 nyorbgdinet36-ns-m-mediastore-d01.verizonwireless.com
 nyorbgdinet53-ns-ecapportal-odc.verizonwireless.com
-www.nsavs36-ld-grp-w.verizonwireless.com
 csstage.verizonwireless.com
 rsm.west.verizonwireless.com
 wz-dev.verizonwireless.com
@@ -2802,8 +2784,7 @@ ecrmomcl.verizonwireless.com
 145.verizonwireless.com
 cascrmdinet21-ns-demobar-west.verizonwireless.com
 cloud-pp-tdc.verizonwireless.com
-omsgout3-tdc.verizonwireless.com
-www.solktxesvzwvocs-c-nk-agssm-01.verizonwireless.com
+solktxesvzwvocs-c-nk-agssm-01.verizonwireless.com
 mytestbillpay.verizonwireless.com
 cascrmdproxy3-ext.verizonwireless.com
 nyorbgdinet36-ns-selfserve-eqa3.verizonwireless.com
@@ -2820,13 +2801,12 @@ ohtwbgdinet26-ns-viguatdeveloper.verizonwireless.com
 cascrmdinet22-ns-survey.verizonwireless.com
 iotintelligence-qa.verizonwireless.com
 ohtwbgdinet28-ns-mailtdcmdm1-vzw.verizonwireless.com
-www.opsportal2.verizonwireless.com
+opsportal2.verizonwireless.com
 cascrmdinet26-ns-premyverizonwapp.verizonwireless.com
 cascrmdinet36-ns-mdata-qa.verizonwireless.com
 ohtwbgdinet27-etmprod-image-new.verizonwireless.com
 ohtwbgdinet26-ns-vzwebuat.verizonwireless.com
 ohtwbgdinet54-ns-scmgateway.verizonwireless.com
-www.txslrtdl01.verizonwireless.com
 nyorbgdinet52-ns-cloud.verizonwireless.com
 prewestaccessmgrpp.verizonwireless.com
 nyorbgdinet36-ns-pretmyacct.verizonwireless.com
@@ -2891,7 +2871,6 @@ vwin-uat-tdc.verizonwireless.com
 nyorbgdinet22-ns-wbillpay.verizonwireless.com
 nyorbgdinet36-ns-spg-esit3.verizonwireless.com
 ohtwbgdinet36-ns-deviceforumsdev.verizonwireless.com
-www.bbtpnj33vzwvocs-c-nk-agsesm.verizonwireless.com
 cascrmdinet56-ns-tonespf.verizonwireless.com
 mypos-ss.verizonwireless.com
 ohcssinet1a-vzam-preprod.verizonwireless.com
@@ -2930,7 +2909,7 @@ cascrmdinet36-ns-pp2ms-sdc-vzw.verizonwireless.com
 hhd.west.verizonwireless.com
 mediastore-d06.verizonwireless.com
 telestore-apigee.verizonwireless.com
-www.njbbrtdl01.verizonwireless.com
+njbbrtdl01.verizonwireless.com
 cascrmdinet36-ns-mailvmx2-test-vzw.verizonwireless.com
 ecommpp1.verizonwireless.com
 ohtwbgdinet28-ns-senaent1-vzw.verizonwireless.com
@@ -2984,7 +2963,6 @@ vzwda40.verizonwireless.com
 qamediamanager.verizonwireless.com
 cascrmdinet26-ns-crmomsi-pp.verizonwireless.com
 ohtwbgdinet56-ns-developercommunityqa.verizonwireless.com
-www.rcklca63vzwvocs-c-nk-ucwsm-01.verizonwireless.com
 cascrmdinet36-ns-vsearchesrdev.verizonwireless.com
 infodesk-np-lb.verizonwireless.com
 nyorbgdinet26-ns-infocenter-test.verizonwireless.com
@@ -3077,7 +3055,6 @@ orbgnyaei-7as01la.verizonwireless.com
 tmb-qa-emag.verizonwireless.com
 nyorbgdinet25-ns-toms.verizonwireless.com
 ohtwbgdinet36-ns-vztubedev.verizonwireless.com
-dr2.opsportal.verizonwireless.com
 v4b.verizonwireless.com
 nyorbgdinet55-ns.verizonwireless.com
 qa40billpayimages.verizonwireless.com
@@ -3121,10 +3098,9 @@ vzwdev3.verizonwireless.com
 nyorbgdinet23-ns-pscs-sso.verizonwireless.com
 nyorbgdinet27-ns1-smscvvm-dev-vzw.verizonwireless.com
 vzwpostxdev.verizonwireless.com
-www.mblkr.verizonwireless.com
+mblkr.verizonwireless.com
 cascrmdinet36-ns-mdata-perf.verizonwireless.com
 ec-m-support.verizonwireless.com
-igjwt.verizonwireless.com
 ohtwbgdinet26-ns-testman.verizonwireless.com
 cascrmdinet22-ns-wbaapp.verizonwireless.com
 cascrmdinet36-ns-juicepplogin.verizonwireless.com
@@ -3143,7 +3119,6 @@ tarskif1.verizonwireless.com
 nyorbgdinet36-ns-verizonmdm-demo-pp-odc.verizonwireless.com
 qingxiangtieguanyinduoshaoqian.res.verizonwireless.com
 scrmcagni-afw02lb.verizonwireless.com
-artotxlpvzwvocs-c-nk-ucresm.verizonwireless.com
 cascrmdinet21-ns-sposstorestatic-sdc.verizonwireless.com
 sposstorestatic-prj.verizonwireless.com
 ohdblndrev-roms-dr.verizonwireless.com
@@ -3181,7 +3156,7 @@ cascrmdinet36-ns-accessmgrqa5.verizonwireless.com
 casestwiz.verizonwireless.com
 nyorbgdinet36-ns-selfserve-esit2.verizonwireless.com
 syncw.verizonwireless.com
-www.alb.brandcentral.verizonwireless.com
+alb.brandcentral.verizonwireless.com
 ohtwbgdinet25-ns-afademo-vzw.verizonwireless.com
 ohtwbgdinet26-ns-preprodebillpay.verizonwireless.com
 es.verizonwireless.com
@@ -3273,7 +3248,6 @@ ohtwbgdinet36-ns-sposstore-bb-prj3.verizonwireless.com
 sposstore-sqa1.tdc.verizonwireless.com
 ohtwbgdinet26-ns-vzappsdev.verizonwireless.com
 ohtwbgdinet52-ns-myvsvcs-digital-tdc.verizonwireless.com
-njbbrtdl01.verizonwireless.com
 ohdblndinetrd-ns-vpn-dublin.verizonwireless.com
 mediastore-qa1.verizonwireless.com
 bizanalytics.verizonwireless.com
@@ -3298,7 +3272,7 @@ ohtwbgdinet25-ns-vztube-verizon.verizonwireless.com
 cairvndrev-c-sfaom-ss-mwest.verizonwireless.com
 nyorbgdinet26-ns-mobile-trn-east.verizonwireless.com
 nyorbgdinet26-ns-spg-eqa.verizonwireless.com
-www.rcklca63vzwvocs-c-nk-ucrsm-01.verizonwireless.com
+rcklca63vzwvocs-c-nk-ucrsm-01.verizonwireless.com
 cascrmdinet26-ns-icsqa2omta.verizonwireless.com
 kal14-irvn.verizonwireless.com
 learnuatstg.verizonwireless.com
@@ -3320,9 +3294,8 @@ ringtones.verizonwireless.com
 accessmgrqa8.verizonwireless.com
 nyorbgdinet51-ns-ecommservices.verizonwireless.com
 twbgohaai-afw0100.verizonwireless.com
-brandcentral.verizonwireless.com
 mytest.verizonwireless.com
-www.news.verizonwireless.com
+news.verizonwireless.com
 ohtwbgdinet56-ns-vigpfdeveloper.verizonwireless.com
 psuat-vzsso.verizonwireless.com
 vzomsgtwi2.verizonwireless.com
@@ -3405,7 +3378,7 @@ cascrmdinet56-ns-mediawebt04.verizonwireless.com
 cascrmdinet36-ns-cloudforlife-pp-w.verizonwireless.com
 caseca3-ns-loginservices.verizonwireless.com
 ohtwbgdinet36-ns-www98-east-tdc.verizonwireless.com
-www.odideviceuat.verizonwireless.com
+odideviceuat.verizonwireless.com
 nyorbgdinet36-ns-mdata-pf2.verizonwireless.com
 cairvndinet8-c-prebillpayimages-idc.verizonwireless.com
 cascrmdinet36-ns-tonesdev2.verizonwireless.com
@@ -3416,13 +3389,12 @@ vipsvcqa2.verizonwireless.com
 mbnorthaccessmgr.verizonwireless.com
 nyorbgdinet24-ns.verizonwireless.com
 vzwmaptdc.verizonwireless.com
-www.wfm-pocu.verizonwireless.com
 ohtwbgdinet36-ns-ccaremobile-dev1.verizonwireless.com
 demobar-west.verizonwireless.com
 dm-admin.tdc.verizonwireless.com
 ohyeahgerardbutlinet29-ns.verizonwireless.com
 syncmw.verizonwireless.com
-www.mvbmobileqa4.verizonwireless.com
+mvbmobileqa4.verizonwireless.com
 myvzfiles.verizonwireless.com
 network4g.verizonwireless.com
 nyorbgdinet26-ns-apiservices-uat.verizonwireless.com
@@ -3452,7 +3424,6 @@ cascrmdinet26-ns-push-sit-c-vzw.verizonwireless.com
 nyorbgdinet21-ns-eroes-ss-east-south.verizonwireless.com
 nyorbgdinet30-ns-vsearchws.verizonwireless.com
 ohtwbgdinet36-ns-vip-sqa2-tdc.verizonwireless.com
-www.staging.opsportal.verizonwireless.com
 ohtwbgcolec2p2.verizonwireless.com
 ohtwbgdinet26-ns-smfedprp-tdc.verizonwireless.com
 ohtwgbgdinet54-ns-opendevelopment.verizonwireless.com
@@ -3462,7 +3433,6 @@ mobile-mwest.verizonwireless.com
 nycssinet1.verizonwireless.com
 nyorbgdrams-m-eth2.verizonwireless.com
 scrmcagni-ipx05-ext.verizonwireless.com
-www.myverizonwapp.verizonwireless.com
 ohtwbgdinet51-ns-vzwonednapp.verizonwireless.com
 cascrmdinet52-ns-billpayimages.verizonwireless.com
 cascrmdinet56-ns-tonespf2.verizonwireless.com
@@ -3483,7 +3453,6 @@ quickaccesscl.verizonwireless.com
 nyorbgdinet25-ns-cim.verizonwireless.com
 nyorbgdinet36-ns-mcscmp-pf2.verizonwireless.com
 cascrmdinet26-ns-mobileservices-wuat-vzw.verizonwireless.com
-welktx08vzwvocs-q-nk-esmrtr-cent-1.verizonwireless.com
 ohcssinet1a-vzstart-dev.verizonwireless.com
 cascrmdinet36-ns-mbaccmgrqa5.verizonwireless.com
 nyorbgdinet24-c-mcscmpuat.verizonwireless.com
@@ -3598,7 +3567,7 @@ cimgs-test.verizonwireless.com
 nysonesperf.verizonwireless.com
 ohtwbgdinet21-ns-eroes-west-midwest.verizonwireless.com
 ohtwbgdinet36-ns-psuat-vzsso-tdc.verizonwireless.com
-www.preprodsurvey.verizonwireless.com
+preprodsurvey.verizonwireless.com
 cascrmdinet36-ns-mdata-qa2.verizonwireless.com
 myvdev1.verizonwireless.com
 nyorbgdinet21-ns2.verizonwireless.com
@@ -3713,7 +3682,7 @@ reviews.verizonwireless.com
 sposstore-prj4.verizonwireless.com
 v4b-east.verizonwireless.com
 ics.verizonwireless.com
-www.developercommunitydr.verizonwireless.com
+developercommunitydr.verizonwireless.com
 ohtwbgdinet21-ns.verizonwireless.com
 mw-campaign.verizonwireless.com
 nsavs36-w.verizonwireless.com
@@ -3794,7 +3763,7 @@ cascrmdinet36-ns-pretlogin-af.verizonwireless.com
 www-avs-w.verizonwireless.com
 nyorbgdinet36-ns-selfserve-esit1.verizonwireless.com
 ohtwbgdinet28-tokens.verizonwireless.com
-www.greenlake-rgw-auth.verizonwireless.com
+greenlake-rgw-auth.verizonwireless.com
 nyorbgdinet36-ns-tonesqa8.verizonwireless.com
 odi-admin-dev-elb.ebiz.verizonwireless.com
 ohtwbgdinet36-ns-mobile-nsit.verizonwireless.com
@@ -3809,7 +3778,7 @@ cascrmitfaw04.verizonwireless.com
 oibkv.nano-channel.corcommunityperf2.verizonwireless.com
 onepos.west.verizonwireless.com
 ohtwbgdinet36-ns-preorder-prj3.verizonwireless.com
-www.welktx08vocs-q-nk-esmrtr-3b.verizonwireless.com
+welktx08vocs-q-nk-esmrtr-3b.verizonwireless.com
 vesidm.verizonwireless.com
 cascrmdinet100-ns-ms4-sdc-vzw.verizonwireless.com
 cascrmdinet26-ns-b2bqa1.verizonwireless.com
@@ -3860,7 +3829,6 @@ orbgnyaes-afw01la.verizonwireless.com
 preprodebillwr.verizonwireless.com
 mdata-d06.verizonwireless.com
 ohtwbgdinet54-ns-scmnsconnect.verizonwireless.com
-alb.brandcentral.verizonwireless.com
 cascrmdinet23-ns-mypos-ss-west.verizonwireless.com
 indirect-soe.verizonwireless.com
 nyorbgdinet56-ns-mcscmp-d03.verizonwireless.com
@@ -3888,7 +3856,6 @@ ohtwbgdinet25-ns-gismaps.verizonwireless.com
 ohtwbgdinet36-ns-telestore-prj3.verizonwireless.com
 nyorbgdinet21-ns-vipsvc-east.verizonwireless.com
 ohdblndinet21-ns-eeroes-training.verizonwireless.com
-odideviceuat.verizonwireless.com
 cloudforlife-sdc.verizonwireless.com
 cloudstatic.verizonwireless.com
 icsdev2mmp.verizonwireless.com
@@ -4006,7 +3973,7 @@ docmgrapp.verizonwireless.com
 dw-qa.verizonwireless.com
 nyorbgdinet56-ns-m-mediastore-sit.verizonwireless.com
 stage.m.verizonwireless.com
-www.shop.verizonwireless.com
+shop.verizonwireless.com
 cascrmdinet36-ns-scmnswmtest.verizonwireless.com
 ecapportal-sdc.verizonwireless.com
 gw-qa2.verizonwireless.com
@@ -4021,7 +3988,6 @@ nyorbgdngstlc-w1-vrrp12.verizonwireless.com
 ohtwbgdinet28-ns-rewards.verizonwireless.com
 etmprod-ref.verizonwireless.com
 tester11.verizonwireless.com
-www.opsportal-dr2.verizonwireless.com
 cairvndinet22-ns2.verizonwireless.com
 cascrmdinet36-ns-qa1myvsvcs-digital.verizonwireless.com
 mobile-esit.verizonwireless.com
@@ -4078,7 +4044,6 @@ nyftpproxy-ce.verizonwireless.com
 pselm-utb.verizonwireless.com
 tqa-irvn-kal.verizonwireless.com
 cascrmdinet56-ns-tonesuat2.verizonwireless.com
-www.accountanalysismybiz-uat.verizonwireless.com
 b2borders.verizonwireless.com
 cimgs-test-odc.verizonwireless.com
 vzid-tdc.verizonwireless.com
@@ -4093,7 +4058,6 @@ cascrmdinet25-ns-vzi.verizonwireless.com
 myvqa8.verizonwireless.com
 ohtwbgdinet26-ns-prevzwworkshops.verizonwireless.com
 spsuat.verizonwireless.com
-www.nsavs36-ld-w.verizonwireless.com
 tlogin-west.verizonwireless.com
 cascrmdinet36-ns-b2bdev4-sdc.verizonwireless.com
 m.mediastore-d05.verizonwireless.com
@@ -4137,12 +4101,10 @@ cascrmdinet56-ns-tonesperf2.verizonwireless.com
 commissions2.verizonwireless.com
 nyorbgdinet36-ns-b2b-uat.verizonwireless.com
 t2.sl.e.verizonwireless.com
-2wayssl-mtas-to-ecgs-prod.verizonwireless.com
 developercommunitydev3.verizonwireless.com
 eapps-sdc.verizonwireless.com
 ohtwbgdinet25-ns-erp-srm.verizonwireless.com
 sposstore-tdc.verizonwireless.com
-txslries01.verizonwireless.com
 meetingplaceext4mw.verizonwireless.com
 nyorbgdinet26-ns-vziappsdev-e.verizonwireless.com
 ohtwbgdinet26-ns-push-sit-e-vzw.verizonwireless.com
@@ -4219,7 +4181,7 @@ ohtwbgdinet36-ns-vipsvcqa4.verizonwireless.com
 rewardsqa.verizonwireless.com
 cascrmdinet26-ns-hssservices-sit-west.verizonwireless.com
 cascrmdinet53-ns-autochat.verizonwireless.com
-www.clspcoykvzwvocs-c-nk-ucwsm-01.verizonwireless.com
+clspcoykvzwvocs-c-nk-ucwsm-01.verizonwireless.com
 cascrmdinet26-ns-icsqa3sp.verizonwireless.com
 cascrmdinet28-ns-coreent1-vzw.verizonwireless.com
 cascrmdinet36-ns-m-mediastore-qa3.verizonwireless.com
@@ -4233,7 +4195,6 @@ cascrmdinet36-ns-qa6wizard.verizonwireless.com
 m.mediastore-d04.verizonwireless.com
 cairvndinet24-ns-prebillpayimages.verizonwireless.com
 devicesecurityandprivacyservices-qa.verizonwireless.com
-news.verizonwireless.com
 nyorbgdinet27-ns-familybase.verizonwireless.com
 ohtwbgdinet26-ns-mobile-pp-tdc.verizonwireless.com
 nyorbgdinet26-ns-selfserve-pp-east.verizonwireless.com
@@ -4246,7 +4207,6 @@ vigdev2developer.verizonwireless.com
 bgdinet21-ns2.verizonwireless.com
 nyorbgdinet36-ns-tonesqa5.verizonwireless.com
 qa50billpay.verizonwireless.com
-shop.verizonwireless.com
 dev3billpayimages.verizonwireless.com
 bccuat1.verizonwireless.com
 cairvndinet5-c-survey-idc.verizonwireless.com
@@ -4336,7 +4296,6 @@ ohtwbgdinet36-ns-cim-test.verizonwireless.com
 ohtwbgdinet55-ns-mobilestage-n.verizonwireless.com
 scache.verizonwireless.com
 cascrmdinet27-ns-www-extvend.verizonwireless.com
-m-support.verizonwireless.com
 nysar-zuendkaush-preprod-vzw.verizonwireless.com
 vipsvcqa5.verizonwireless.com
 ses.east.verizonwireless.com
@@ -4347,7 +4306,6 @@ telestore-soe-nsq1.verizonwireless.com
 cascrmdinet36-ns-m-mediastore-qa4.verizonwireless.com
 erpdev-ws-fntst.verizonwireless.com
 sslvpneast.verizonwireless.com
-suppub.verizonwireless.com
 uat1wizard.verizonwireless.com
 infocenter-test.verizonwireless.com
 ohtwbgdinet21-ns-bccuat1.verizonwireless.com
@@ -4364,7 +4322,6 @@ cltst.verizonwireless.com
 nyorbgdinet27-ns-products.verizonwireless.com
 vip-sqa3.verizonwireless.com
 cascrmdinet26-ns-push-preprod-vzw.verizonwireless.com
-www.ppsoepub.verizonwireless.com
 nyorbgdinet36-ns-vsearchwsdev.verizonwireless.com
 ohcssinet1-eroestraining-ss.verizonwireless.com
 ohtwbgdinet26-ns1-secureauthdev.verizonwireless.com
@@ -4401,7 +4358,6 @@ awsqa6.verizonwireless.com
 cascrmdinet54-ns-scmnsrt.verizonwireless.com
 nyorbgdinet52-ns-juice.verizonwireless.com
 vzwda60.verizonwireless.com
-njbbries01.verizonwireless.com
 ohtwbgdmgstlb-w1-yel-gi1-5.verizonwireless.com
 sposstore-rgr.verizonwireless.com
 sposstorestatic-prj3.verizonwireless.com
@@ -4429,7 +4385,6 @@ ohtwbgdinet25-ns-roms.verizonwireless.com
 qa5billpay.verizonwireless.com
 cascrmdinet36-ns-qa3billpaysvc.verizonwireless.com
 scrmcagni-7as01las-adns.verizonwireless.com
-www.rcklcaigvzwvocs-c-nk-rtrcesm.verizonwireless.com
 cascrmdinet27-ns-smppvzw-west.verizonwireless.com
 ohtwbgdinet25-ns-sm-pmi.verizonwireless.com
 omsgout2-tpa.verizonwireless.com
@@ -4458,7 +4413,6 @@ inspicio.verizonwireless.com
 nyorbgdinet21-ns-onevzwebsocket.east.verizonwireless.com
 nyorbgdinet28-ns-learnapi-verizon.verizonwireless.com
 cascrmdinet30-ns-vsearchesr.verizonwireless.com
-extvend.verizonwireless.com
 obwdmqcex.verizonwireless.com
 ohtwbgdinet36-ns-careersassistantuat.verizonwireless.com
 ohtwbgdinet36-ns-vip-ssl-sqa1.verizonwireless.com
@@ -4477,7 +4431,6 @@ testman-avs-w.verizonwireless.com
 cascrmdinet36-ns-mcscmp-pf2.verizonwireless.com
 cascrmdinet56-ns-mcscmp-sit.verizonwireless.com
 vigqa7developer.verizonwireless.com
-www.opsportal-dr.verizonwireless.com
 cascrmdinet4-c-traveler-redirect.verizonwireless.com
 dm-admin.verizonwireless.com
 resourcelibrary.verizonwireless.com
@@ -4501,14 +4454,12 @@ vzwqa50.verizonwireless.com
 cascrmdinet4-c-appstore-redirect.verizonwireless.com
 myvsvcs-mf-tdc.verizonwireless.com
 ohtwbgdinet54-ns.verizonwireless.com
-opsportal2.verizonwireless.com
 posmobileqa3.verizonwireless.com
 cascrmdinet26-ns-rdd-qa-w.verizonwireless.com
 icsdev1sp.verizonwireless.com
 nyorbgdinet36-ns-tonesint.verizonwireless.com
 twbgohaai-ipx09-ext.verizonwireless.com
 twinsburg.mail.verizonwireless.com
-rgw-auth.verizonwireless.com
 ohtwbgdinet27-ns-uscnewphone.verizonwireless.com
 nyorbgdinet56-ns-mcscmp-qa.verizonwireless.com
 ohtwbgdinet36-ns-commstg-tdc.verizonwireless.com
@@ -4516,7 +4467,6 @@ click.myoffers.verizonwireless.com
 mft.verizonwireless.com
 orbgnyaei-afw01las.verizonwireless.com
 specialoffers.verizonwireless.com
-welktx08vzwvocs-q-nk-esmrtr-cent-2.verizonwireless.com
 cascrmdinet52-ns-api.verizonwireless.com
 ohtwbgdinet25-ns-odi-devicetemp.verizonwireless.com
 onemessage-ppcoi.verizonwireless.com
@@ -4538,7 +4488,6 @@ ohtwbgdinet25-ns-odi-deviceinternal.verizonwireless.com
 cascrmdinet53-ns-cofeesso.verizonwireless.com
 ec-presupport.verizonwireless.com
 nyorbgdinet21-ns-eroes-east-south.verizonwireless.com
-tsaian.verizonwireless.com
 nyorbgdinet21-ns-ccaremobile-bb-east.verizonwireless.com
 ohtwbgdinet36-ns-vzwdev-sps.verizonwireless.com
 cascrmdinet26-ns-mobileservices-wdev-vzw.verizonwireless.com
@@ -4548,7 +4497,6 @@ cairvndinet24-ns1-preprodbillpaysvc-vzw.verizonwireless.com
 hhd.mwest.verizonwireless.com
 nyorbgdinet36-ns-mediastore-perf.verizonwireless.com
 ohtwbgdinet36-ns-sposstorestatic-prj3.verizonwireless.com
-mblkr.verizonwireless.com
 dw-qa2.verizonwireless.com
 infomanager-sdc.verizonwireless.com
 ohtwbgdinet25-ns-vzwmapservices.verizonwireless.com
@@ -4659,7 +4607,6 @@ orbgnyaei-afw01la.verizonwireless.com
 twbgohaan-ias03las-vzappsdev-vzw.verizonwireless.com
 cascrmdinet24-ns2.verizonwireless.com
 vpn-dev3.verizonwireless.com
-www.2wayssl-mtas-to-bluejeans-lab.verizonwireless.com
 posmobileqa3.odc.verizonwireless.com
 b2bordersqa3.verizonwireless.com
 cascrmdinet36-ns-qa7myvpostpay.verizonwireless.com
@@ -4681,7 +4628,6 @@ telestore-sqa4.verizonwireless.com
 nyorbgdinet36-ns-tonesuat.verizonwireless.com
 ohtwbgdinet36-ns-misapp-entdev-vzw.verizonwireless.com
 vpn-devc.verizonwireless.com
-www.telestore-apigee.verizonwireless.com
 ohtwbgd36-ns-mdmcbeta-vzw.verizonwireless.com
 posmobile-train.verizonwireless.com
 accessmgrqa1.verizonwireless.com
@@ -4694,7 +4640,6 @@ cascrmdinet21-ns-wws-app.west.verizonwireless.com
 nyorbgdinet36-ns-rmt-sit.verizonwireless.com
 ohtwbgdinet101-ns-rmt-n.verizonwireless.com
 ppmyvprepay-yz-west.verizonwireless.com
-www.ecommstage-avs-c.verizonwireless.com
 b2big-uat.verizonwireless.com
 cascrmdinet21-ns-telestore-sdc.verizonwireless.com
 nyorbgdinet56-ns-m-mediastore-d06.verizonwireless.com
@@ -4731,7 +4676,7 @@ ecomm-sdc.verizonwireless.com
 esimm2m-to-cyberark-nonprod.verizonwireless.com
 wapi.verizonwireless.com
 scrmcagns-afw01la.verizonwireless.com
-www.digitalcare.verizonwireless.com
+digitalcare.verizonwireless.com
 vipsvcqa4.tdc.verizonwireless.com
 cascrmdinet36-ns-next-gen-test-vip1.verizonwireless.com
 eroes.verizonwireless.com
@@ -4742,7 +4687,7 @@ cascrmcolec9p3.verizonwireless.com
 cascrmdinet36-ns-m-mediastorepp.verizonwireless.com
 cascrmdinet36-ns-mcscmp-d07.verizonwireless.com
 ohtwbgdinet27-ns-websso-tdc.verizonwireless.com
-www.txslppdl01.verizonwireless.com
+txslppdl01.verizonwireless.com
 qa4billpaysvc.verizonwireless.com
 cairvndinet23-ns1.verizonwireless.com
 cascrmdinet26-ns-preprodwbillpay.verizonwireless.com
@@ -4756,7 +4701,7 @@ dc2-mediamanager.verizonwireless.com
 cascrmdinet100-yr-hsrp-v3110.verizonwireless.com
 ice-sdc.verizonwireless.com
 ohtwbgdinet2-c-spg-qa-vzw.verizonwireless.com
-www.custcare2.verizonwireless.com
+custcare2.verizonwireless.com
 icsrelay.verizonwireless.com
 nycssinet4a-accesspoint-east.verizonwireless.com
 origin.vcastlive.verizonwireless.com
@@ -4766,7 +4711,6 @@ nyorbgdinet36-ns-ccaremobile-bb-uat1.verizonwireless.com
 cascrmdinet52-ns-my.verizonwireless.com
 cascrmdinet52-ns-wwizapp.verizonwireless.com
 nyorbgcinet5-wbillpay.verizonwireless.com
-welktx08vocs-q-nk-esmrtr-3b.verizonwireless.com
 cascrmdinet26-ns-m2mqa2.verizonwireless.com
 nyorbgdinet2-c1-mytest.verizonwireless.com
 nyorbgdinet56-ns-scmnswmtest.verizonwireless.com
@@ -4786,7 +4730,6 @@ dm-admin-pp.tdc.verizonwireless.com
 nyorbgdinet22-ns2.verizonwireless.com
 ohdblndinet27-ns-aboutyou.verizonwireless.com
 twbgohaan-7as01las-adns.verizonwireless.com
-www.bbtpnj33vocs-c-nk-esmrtr-01.verizonwireless.com
 cascrmdinet25-ns-mapservicessdc.verizonwireless.com
 eas.verizonwireless.com
 ohtwbgdinet27-ns-videos.verizonwireless.com
@@ -4812,7 +4755,6 @@ cascrmdinet36-ns-m-mediastore-int.verizonwireless.com
 nycssinet4-breeze.verizonwireless.com
 cairvndinet8-tqa.verizonwireless.com
 scrmcagne-ras0100s-mpv-vzw.verizonwireless.com
-www.welktx08vzwvocs-q-nk-esmucr-2.verizonwireless.com
 cacssinet3-b2b.verizonwireless.com
 es-vzwqa4.verizonwireless.com
 scrm-nsi1.verizonwireless.com
@@ -4830,7 +4772,7 @@ nyorbgdinet55-ns-mobileshop-vzw.verizonwireless.com
 ohtwbgdinet25-ns-indirectorders.verizonwireless.com
 mediaqa2.verizonwireless.com
 ohtwbgdinet25-ns-vzwmapcachetdc.verizonwireless.com
-www.odideviceuatig.verizonwireless.com
+odideviceuatig.verizonwireless.com
 m2.e.verizonwireless.com
 nycssinet3.verizonwireless.com
 nyorbgdinet51-ns-octes.verizonwireless.com
@@ -4847,7 +4789,7 @@ ohtwbgdinet36-ns-vipsvcqa5-tdc.verizonwireless.com
 nyorbgddigi-m.verizonwireless.com
 ohtwbgdinet36-ns-preprodwizapp.verizonwireless.com
 stage-support.verizonwireless.com
-www.artotxlpvzwvocs-c-nk-ucwesm.verizonwireless.com
+artotxlpvzwvocs-c-nk-ucwesm.verizonwireless.com
 myaccount.verizonwireless.com
 nyorbgd-dhcpyb.verizonwireless.com
 nyorbgdinet36-ns-mediastore-d06.verizonwireless.com
@@ -4950,8 +4892,6 @@ nyorbgdinet36-ns-vip-rgr1.odc.verizonwireless.com
 twbaccessmgrpp.verizonwireless.com
 ohtwbgdinet36-ns-careers-uat-tdc.verizonwireless.com
 orbg-nsi2.verizonwireless.com
-www.verizonwireless.com
-filecourier.brandcentral.verizonwireless.com
 cascrmdinet27-ns-commisionsdr.verizonwireless.com
 m.store.verizonwireless.com
 nyorbgdinet27-ns-learning.verizonwireless.com
@@ -4986,8 +4926,6 @@ ohtwbgdinet51-ns-myverizonlogin.verizonwireless.com
 stage.store.verizonwireless.com
 cascrmdinet52-ns-ssoauth.verizonwireless.com
 ohtwbgdinet27-ns-hq-df.verizonwireless.com
-www.fedc2mno2000007256.verizonwireless.com
-www.packaging.brandcentral.verizonwireless.com
 developercommunityuat2.verizonwireless.com
 nyorbgdinet26-ns-selfserve-eqa.verizonwireless.com
 nyorbgdinet36-ns-preprodwizard.verizonwireless.com
@@ -5020,7 +4958,6 @@ cascrmdinet22-ns-newbillpay.verizonwireless.com
 cascrmdinet26-ns-icsqa2pg.verizonwireless.com
 nyorbgdinet28-ns-supplychainext-verizon.verizonwireless.com
 nyorbgdinet36-ns-pos-wwsdev5.verizonwireless.com
-solktxesvzwvocs-c-nk-agssm-01.verizonwireless.com
 doug-test-onevz-ecs-prj-r7.verizonwireless.com
 nyorbgdinet36-ns-rmt-preprod.verizonwireless.com
 ohtwbgdinet26-ns-npsdev.verizonwireless.com
@@ -5076,7 +5013,6 @@ nyorbgdinet36-ns-m-mediastore-d04.verizonwireless.com
 soepub-sdc.verizonwireless.com
 cnmbwestaccessmgr.verizonwireless.com
 nyorbgdinet36-ns-m-mediastore-uat.verizonwireless.com
-odideviceuatig.verizonwireless.com
 tlogin-tdc.verizonwireless.com
 m.mediastore-qa1.verizonwireless.com
 cloud.myoffers.verizonwireless.com
@@ -5173,7 +5109,7 @@ nyorbgdinet25-ns-df.verizonwireless.com
 vzwuat1.verizonwireless.com
 onevzssosoe-west-yz-bg-sit4.verizonwireless.com
 developercommunitypf.verizonwireless.com
-www.dr.opsportal.verizonwireless.com
+dr.opsportal.verizonwireless.com
 casemedicine.cobillpaysvc-vzw.verizonwireless.com
 dashboard-pilot-digitalready.verizonwireless.com
 pos-wwsqa6.tdc.verizonwireless.com
@@ -5199,7 +5135,7 @@ cascrmdinet25-ns-drerpprd-ws-fnprd.verizonwireless.com
 nyorbgdinet29-ns1.verizonwireless.com
 nyorbgdinet52-ns-vzwworkshops.verizonwireless.com
 qcascrmitfaw03.verizonwireless.com
-www.indirectorders.verizonwireless.com
+indirectorders.verizonwireless.com
 cascrmdinet36-ns-preprodwbillpay.verizonwireless.com
 nyorbgdinet21-tda-app-south.verizonwireless.com
 nyorbgdinet24-n-mediad01.verizonwireless.com
@@ -5211,7 +5147,7 @@ cascrmdinet2-c-timages.verizonwireless.com
 cnmbnorthaccessmgr.verizonwireless.com
 ohtwbgdinet36-ns-mienroll-dev.verizonwireless.com
 ohtwbgdinet36-ns-pos-wwsqa6.verizonwireless.com
-www.ibas.verizonwireless.com
+ibas.verizonwireless.com
 vigsitdeveloper.verizonwireless.com
 cim-tdc.verizonwireless.com
 nyorbgdinet36-ns-spg-esit4.verizonwireless.com
@@ -5289,7 +5225,6 @@ vip.west.verizonwireless.com
 ros.verizonwireless.com
 agreement.verizonwireless.com
 cascrmdinet36-ns-tonesuat2.verizonwireless.com
-artotxlpvzwvocs-c-nk-ucwesm.verizonwireless.com
 indirect-soe-nsd2-bg.verizonwireless.com
 telestore-soe-west.verizonwireless.com
 cascrmdinet26-ns-m2mqa1.verizonwireless.com
@@ -5342,7 +5277,7 @@ tonesqa4.verizonwireless.com
 cascrmdinet28-ns-mailsdcmdm1-vzw.verizonwireless.com
 caseclosed.b36-ns-qa4myvsvcs-mf.verizonwireless.com
 odi-device-dev.verizonwireless.com
-www.custcare.verizonwireless.com
+custcare.verizonwireless.com
 icsdev1sn.verizonwireless.com
 nyorbgdinet24-ns-vvm-sit2.verizonwireless.com
 ohtwbgdinet29-ns-vzigtwy-c.verizonwireless.com
@@ -5366,7 +5301,6 @@ cascrmdinet36-ns-qa6billpaysvc.verizonwireless.com
 posrc.mwest.verizonwireless.com
 sfaom-ss.east.verizonwireless.com
 vzwsfatest.verizonwireless.com
-clspcoykvzwvocs-c-nk-ucwsm-01.verizonwireless.com
 posmobileqa.verizonwireless.com
 wapregister.verizonwireless.com
 cairvndinet22-ns-billpaysvc.verizonwireless.com
@@ -5414,7 +5348,6 @@ mdata-qa4.verizonwireless.com
 nyorbgdinet36-ns-tmyverizonidwall.verizonwireless.com
 ohtwbgdinet51-ns-www.verizonwireless.com
 vip-ssl.south.verizonwireless.com
-www.iotintelligence.verizonwireless.com
 cascrmdinet6-c-vmedia-newwest.verizonwireless.com
 ohtwbgdinet36-ns-crmomsi-uat1.verizonwireless.com
 pretlogin-verizon.verizonwireless.com
@@ -5599,7 +5532,6 @@ nyorbgdinet24-c-mediaqa.verizonwireless.com
 nyorbgdinet36-ns-mediastore-qa3.verizonwireless.com
 ohtwbgdinet25-ns-fs-tdc.verizonwireless.com
 sposstorestatic.verizonwireless.com
-njbbppdl01.verizonwireless.com
 nyorbgdinet36-ns-vbcmspp.verizonwireless.com
 qa8billpayimages.verizonwireless.com
 click-sdc.verizonwireless.com
@@ -5714,7 +5646,6 @@ ohtwbgdinet36-ns-vipsvcqa3.tdc.verizonwireless.com
 cascrmdinet36-ns-qa80billpaysvc.verizonwireless.com
 cascrmdinet36-ns-mdata-perf2.verizonwireless.com
 preorder-prj1-4.verizonwireless.com
-www.bbtpnj33vzwvocs-c-nk-ucresm.verizonwireless.com
 mail2-ecrm.verizonwireless.com
 cascrmdinet2-c-pretlogin-vzw.verizonwireless.com
 cascrmdinet25-ns-ccaremobile.verizonwireless.com
@@ -5734,7 +5665,6 @@ ohtwbgdinet21-ns-infosecuritycompliance.verizonwireless.com
 ohtwbgdinet22-ns-myverizonnapp.verizonwireless.com
 mobilesupport.verizonwireless.com
 nyorbgdinet2-c.verizonwireless.com
-www.clspcoykvzwvocs-c-nk-rtrcesm.verizonwireless.com
 nyorbgdinet25-ns-maa-security-vzw.verizonwireless.com
 cascrmdinet26-ns-icsdev1imgs.verizonwireless.com
 cascrmdinet36-ns-dev3wizard.verizonwireless.com
@@ -5772,7 +5702,6 @@ csgwy01.verizonwireless.com
 ep-pp.verizonwireless.com
 nyorbgdinet55-ns-mobileapps-east-vzw.verizonwireless.com
 ohtwbgdinet25-ns-ice.verizonwireless.com
-www.esimm2m-to-cyberark-nonprod.verizonwireless.com
 cascrmd-dhcpyb.verizonwireless.com
 cascrmdinet36-ns-vzwqa8.verizonwireless.com
 ohtwbgdinet26-ns-vip-sqa4.verizonwireless.com
@@ -5904,7 +5833,6 @@ onevzssosoe-eks-east-yz-nsd2.verizonwireless.com
 ohtwbgdinet25-ns-maa-collector-vzw.verizonwireless.com
 cascrmdinet56-ns-tonessit.verizonwireless.com
 cmdev.verizonwireless.com
-greenlake-rgw-auth.verizonwireless.com
 ohtwbgdinet25-ns-df-tdc.verizonwireless.com
 qa1careadmin.verizonwireless.com
 b2buat2.verizonwireless.com
@@ -5913,7 +5841,6 @@ twsntqipsap01.verizonwireless.com
 cascrmdinet53-ns-myverizonlogin.verizonwireless.com
 nyorbgdinet36-ns-mcscmp-d01.verizonwireless.com
 ohtwbgdinet22-ns-wizard.verizonwireless.com
-erpdev-catscm-inuat.verizonwireless.com
 cascrmdinet26-ns-push-preprod-e-vzw.verizonwireless.com
 cascrmdinet36-ns-tmyverizonid.verizonwireless.com
 ohtwbgdinet25-ns-vipsvctrn-east.verizonwireless.com
@@ -6136,7 +6063,6 @@ scrmcagns-afw02lb.verizonwireless.com
 cascrmdinet36-ns-qa1billpaysvc.verizonwireless.com
 ecapportal-odc.verizonwireless.com
 samsproxy.verizonwireless.com
-2wayssl-mtas-to-ecgs-lab.verizonwireless.com
 cascrmdinet36-ns-devbillpaysvc.verizonwireless.com
 myvqa4.verizonwireless.com
 ohtwbgdinet28-ns-senret-vzw.verizonwireless.com
@@ -6144,7 +6070,7 @@ cascrmdinet56-ns-mediastore-qa.verizonwireless.com
 vzwkmapptest.verizonwireless.com
 nycssinet4-scmmedia-east.verizonwireless.com
 ohtwbgdinet25-ns-eapps.verizonwireless.com
-www.myverizonnapp.verizonwireless.com
+myverizonnapp.verizonwireless.com
 casentenet26-ns-icsdev1mmp.verizonwireless.com
 ns-tmtr.verizonwireless.com
 vzidr7-tdc.verizonwireless.com
@@ -6181,7 +6107,6 @@ ohtwbgdinet26-ns-push-preprod-e-vzw.verizonwireless.com
 cascrmdinet28-ns-learnapi-verizon.verizonwireless.com
 cascrmdinet55-ns-selfserve-vzw.verizonwireless.com
 nyorbgdinet56-ns-mediastore-sit.verizonwireless.com
-rcklca63vzwvocs-c-nk-ucrsm-01.verizonwireless.com
 wfmuat.verizonwireless.com
 sacramento.mail.verizonwireless.com
 cascrmdinet26-ns-prebillpayimages.verizonwireless.com
@@ -6261,8 +6186,6 @@ cascrmdinet36-nsvesidmqa5-sdc.verizonwireless.com
 ohtwbgdinet36-ns-twbaccessmgrpp.verizonwireless.com
 myvprepay-yz-east.verizonwireless.com
 mobile-ppd-west.verizonwireless.com
-indirectorders.verizonwireless.com
-guest-auth.verizonwireless.com
 nyorbgdinet36-ns-presupport.verizonwireless.com
 nyorbgdinet36-ns-tlogin.verizonwireless.com
 synctest.verizonwireless.com
@@ -6291,7 +6214,6 @@ cascrmdinet28-ns-mail3omzmdm1-vzw.verizonwireless.com
 cascrmdinet36-ns-mediastore-int.verizonwireless.com
 nyorbgdinet36-ns-tonesperf.verizonwireless.com
 qa3myvsvcs-digital.verizonwireless.com
-www.thingspace-uat.verizonwireless.com
 cascrmdinet36-ns-mdata-pf.verizonwireless.com
 cascrmdinet52-ns-myverizonwapp.verizonwireless.com
 ohtwbgdinet36-ns-wfm-pocuuat.verizonwireless.com
@@ -6376,7 +6298,6 @@ nyorbgdinet28-ns-pselm-lp.verizonwireless.com
 wzstage.verizonwireless.com
 syncps.verizonwireless.com
 tonesqa1.verizonwireless.com
-txslppdl01.verizonwireless.com
 nyorbgdinet25-ns-pie-prod-verizon.verizonwireless.com
 nyorbgdinet27-ns-syncps-vzw-old.verizonwireless.com
 ohtwbgdinet56-ns-vigdev4developer.verizonwireless.com
@@ -6446,10 +6367,8 @@ tda-uat.verizonwireless.com
 infodoc-tdc.verizonwireless.com
 cascrmdinet36-ns-iot-preprod-w.verizonwireless.com
 orbgnyaei-afw02lb.verizonwireless.com
-www.telestore-apigee-ui.verizonwireless.com
 cascrmdinet36-ns-mvbmobileqa3.verizonwireless.com
 mediastore-stage.verizonwireless.com
-dr.opsportal.verizonwireless.com
 mb-sdc.verizonwireless.com
 pos-wwsqa1.verizonwireless.com
 cascrmdinet52-ns-quickaccess.verizonwireless.com
@@ -6496,7 +6415,6 @@ m.mediastore-qa5.verizonwireless.com
 scmnscare.verizonwireless.com
 f5test1.verizonwireless.com
 nyorbgcinet5-ebillpay.verizonwireless.com
-developercommunitydr.verizonwireless.com
 ecrmomcl.tdc.verizonwireless.com
 eroestraining-ss.east.verizonwireless.com
 ohtwbgdinet26-ns-posmobile-dev4.verizonwireless.com
@@ -6523,7 +6441,6 @@ cascrmdinet26-ns1.verizonwireless.com
 nynsinet1-1-pselm-utb.verizonwireless.com
 cairvndinet21-ns1.verizonwireless.com
 preprod.opennetwork.verizonwireless.com
-www.opsportal.verizonwireless.com
 search.verizonwireless.com
 nyorbgdinet36-ns-learndev.verizonwireless.com
 nyorbgdinet36-ns-mcscmp-qa5.verizonwireless.com
@@ -6572,7 +6489,6 @@ ohtwbgdinet36-ns-pos-wwsqa3.verizonwireless.com
 cascrmdinet36-ns-itdashuat-sdc.verizonwireless.com
 developercommunitydev.verizonwireless.com
 epb-west.verizonwireless.com
-nac1.verizonwireless.com
 unyorbgmpsql02.verizonwireless.com
 tokens.verizonwireless.com
 onevzssosoe-east-yz-bg-sit3.verizonwireless.com
@@ -6592,7 +6508,6 @@ cascrmdwgstlb-w1-yel-gi1-5.verizonwireless.com
 nyorbgdinet36-ns-v6-tester-east.verizonwireless.com
 ohtwbgdinet28-ns-coreret-vzw.verizonwireless.com
 ws1exch-tpa.verizonwireless.com
-www.welktx08vzwvocs-q-nk-esmucw-1.verizonwireless.com
 qa8billpaysvc.verizonwireless.com
 nynsinet1-1-careers.verizonwireless.com
 nyorbgdinet21-ns-hhd-south.verizonwireless.com
@@ -6617,7 +6532,6 @@ ohtwbgdinet51-ns-websupport.verizonwireless.com
 nyorbgdinet56-ns-mcscmp-pf2.verizonwireless.com
 vzwhost-ddc.verizonwireless.com
 wnp-dev.verizonwireless.com
-mvbmobileqa4.verizonwireless.com
 qa7wizard.verizonwireless.com
 cascrmdinet26-ns-smfedprp-sdc.verizonwireless.com
 mediastore-d03.verizonwireless.com
@@ -6655,7 +6569,6 @@ ohtwbgdinet36-ns-developercommunitydev1.verizonwireless.com
 ohtwbgdinet36-ns-developercommunityqa.verizonwireless.com
 cloud-dev.verizonwireless.com
 nyorbgdinet36-ns-mediastore-qa.verizonwireless.com
-www.artotxlpvzwvocs-c-nk-agsesm.verizonwireless.com
 accountanalysis-uat.verizonwireless.com
 apiservices-uat-odc.verizonwireless.com
 cascrmdinet26-ns-icsqa3sn.verizonwireless.com
@@ -6663,7 +6576,6 @@ tlogin-sdc.verizonwireless.com
 nyorbgdinet27-ns-infodoc.verizonwireless.com
 nyorbgdinet8-tqa.verizonwireless.com
 ppjuiceforums.verizonwireless.com
-bbtpnj33vzwvocs-c-nk-ucwesm.verizonwireless.com
 m2m-tpa.verizonwireless.com
 vzrequest-dev.verizonwireless.com
 cascrmdinet36-ns-askvapp.verizonwireless.com
@@ -6674,7 +6586,6 @@ twbg-nsi1.verizonwireless.com
 ohtwbgdinet59-ns2.verizonwireless.com
 oidcpp.verizonwireless.com
 test-mocana.verizonwireless.com
-txslrtdl02.verizonwireless.com
 vzwda20.verizonwireless.com
 ohtwbgdinet25-ns-erpprd-wl-srmprd.verizonwireless.com
 opendevelopment.verizonwireless.com
@@ -6708,7 +6619,6 @@ ohtwbgdinet26-ns-posmobile-dev.verizonwireless.com
 ohtwbgdinet26-ns-vigqadeveloper.verizonwireless.com
 nyorbgdinet29-ns.verizonwireless.com
 nyorbgdwae612-2.verizonwireless.com
-myverizonnapp.verizonwireless.com
 cascrmdinet4-c-top-level-red-redirects.verizonwireless.com
 scmnscaretest.verizonwireless.com
 st9meetings-tdc.verizonwireless.com

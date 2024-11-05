@@ -4,7 +4,7 @@ api-app.datorama.com
 white-label-eu-origin.datorama.com
 server.ivgeny-test-2-eu2.azure.datorama.com
 cdp-presto-proxy-prod-eu.datorama.com
-www.community.datorama.com
+community.datorama.com
 cdn-magnify-cluedigital-com.datorama.com
 cdn-www-reports-apartmentseo-com.datorama.com
 azure.datorama.com
@@ -22,7 +22,6 @@ app-yieldnexus.cdn.datorama.com
 cdn-reports-jmgads-com.datorama.com
 server-disco-newengendisco-com.datorama.com
 web-prod-eu2-site-shield.azure.datorama.com
-community.datorama.com
 rtrv.datorama.com
 smgaustraliadataintelligence.cdn.datorama.com
 api-eu.datorama.com
@@ -79,7 +78,7 @@ platform-us2.datorama.com
 integration-service-prod-us-origin.datorama.com
 preprod2-app.datorama.com
 app-platform.datorama.com
-www.react-course.datorama.com
+react-course.datorama.com
 newman-prod-eu2.datorama.com
 ci-qa.datorama.com
 gartner-prod-eu2.datorama.com
@@ -175,7 +174,7 @@ app-eu2-static-.datorama.com
 capacityinteractive.cdn.datorama.com
 new-platform-prod-us2.datorama.com
 web-prod-us2-site-shield.azure.datorama.com
-www.app.datorama.com
+app.datorama.com
 server-smartstreamdata-com.datorama.com
 ftp.datorama.com
 ftp-legacy-us.datorama.com
@@ -184,7 +183,7 @@ cdn-reports-capacityinteractive-com.datorama.com
 ci-ftp.datorama.com
 cdn-www-planitstats-com.datorama.com
 prod-us2-ftp-k8s.datorama.com
-www.engineering.datorama.com
+engineering.datorama.com
 cdn-analytics-influential-co.datorama.com
 cdn-reports-amobee-com.datorama.com
 cdn-dash-fpinisghts-io.datorama.com
@@ -229,13 +228,11 @@ spotify-prod-us2.datorama.com
 reddit-prod-eu.datorama.com
 sync-service-prod-eu.datorama.com
 exacttarget-prod-eu2.datorama.com
-app.datorama.com
 api-us2.datorama.com
 idp-prod-eu-origin.datorama.com
 stg-test.datorama.com
 cerberus-prod-eu2.datorama.com
 server-dashboardsandreports-com.datorama.com
-www.success.datorama.com
 presto-prod-eu2-green.azure.datorama.com
 prod-eu2-rabbitmq-green.azure.datorama.com
 cdn-customerdashboard-newsxtend-com-au.datorama.com
@@ -294,13 +291,11 @@ exacttarget-prod-us.datorama.com
 developers.datorama.com
 openldap-prod-eu2.azure.datorama.com
 idp-akamai.datorama.com
-www.app.stg.datorama.com
 presto-prod-eu2-green.datorama.com
 vault-ps-orig.datorama.com
 prod-us-rabbitmq-green.datorama.com
 ps-ftp.datorama.com
 rabbitmq-prod-eu.datorama.com
-react-course.datorama.com
 loader-rest-prod-us2.datorama.com
 smartsheet-prod-eu.datorama.com
 white-label-us-origin.datorama.com
@@ -366,7 +361,6 @@ oauth-origin.datorama.com
 oauth-origin-site-shield.datorama.com
 web-prod-eu2.datorama.com
 app-cdn.datorama.com
-engineering.datorama.com
 flashlight-uniquedigital.cdn.datorama.com
 stg.datorama.com
 cdn-disco-newengendisco-com.datorama.com
@@ -391,7 +385,6 @@ api.datorama.com
 app1-eu2.datorama.com
 integration-service-prod-us2-origin.datorama.com
 mail.datorama.com
-www.success-center.datorama.com
 oceanbridgemedia.cdn.datorama.com
 presto-prod-eu-blue.datorama.com
 customdev-prod-eu2.azure.datorama.com
@@ -400,12 +393,10 @@ pulse1.datorama.com
 support.datorama.com
 openldap-prod-us2.datorama.com
 cdn-thread-bluechipww-com.datorama.com
-www.dev.datorama.com
 dingo-reg-prod.datorama.com
 idp-test.datorama.com
 stg-ftp.datorama.com
 rabbitmq-prod-us.datorama.com
-www.datorama.com
 integrate-prod-us2.azure.datorama.com
 web-prod-eu2-site-shield.datorama.com
 presto-prod-eu-green.datorama.com
@@ -1675,4 +1666,3 @@ facebookinsightsbreakdowns-prod-us.datorama.com
 poc-prod-us.datorama.com
 configserver-vault-prod-us2.azure.datorama.com
 cdp-spark-transformer-history-prod-eu.datorama.com
-*.datorama.com

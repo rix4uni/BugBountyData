@@ -84,8 +84,6 @@ user-highport.corporate-iam.zalan.do
 webhooks.rare.smart-product-platform-test.zalan.do
 webhooks.rare.smart-product-platform.zalan.do
 wheel.teapot.zalan.do
-www.integration-suite-prod.btp.sap.zalan.do
-www.zalan.do
 zenhub-testbed.bus.zalan.do
 zenhub.bus.zalan.do
 zenhub.dc.zalan.do
@@ -1153,17 +1151,8 @@ wpi-dev.aws.zalan.do
 wpi-dev.zalan.do
 wpi.aws.zalan.do
 wpi.zalan.do
-www.ad-proxy.wa.zalan.do
-www.apachesrv.sap.zalan.do
-www.artifactory.bus-evaluation.zalan.do
-www.jobs-qa.workplace.zalan.do
-www.payment-gateway.kohle-integration.zalan.do
-www.planb-provider-test.greendale-questionmark.zalan.do
-www.planb-tokeninfo-test.greendale-questionmark.zalan.do
-www.sapwebwd1.sap.zalan.do
-www.zappr.bus.zalan.do
-www.zenhub.dc.zalan.do
-www.zmon.app.zalan.do
+zappr.bus.zalan.do
+zmon.app.zalan.do
 x.teapot.zalan.do
 y.teapot.zalan.do
 z.teapot.zalan.do
@@ -1179,7 +1168,6 @@ zalon.aws.zalan.do
 zalon.zalan.do
 zappr-testbed.bus.zalan.do
 zappr-testbed.opensource.zalan.do
-zappr.bus.zalan.do
 zappr.opensource.zalan.do
 zaster-staging.aws.zalan.do
 zaster-staging.zalan.do
@@ -1210,7 +1198,6 @@ zlabels-staging.zalan.do
 zlabels.aws.zalan.do
 zlabels.zalan.do
 zlounge.zalan.do
-zmon.app.zalan.do
 zmon.aws.zalan.do
 zmon.zalan.do
 zms-automation-test.zalan.do

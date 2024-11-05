@@ -1,5 +1,4 @@
 demo.data.paritytech.io
-*.paritytech.io
 pov.data.paritytech.io
 calculator.data.paritytech.io
 shiny.data.paritytech.io
@@ -10,4 +9,3 @@ frontend.data.paritytech.io
 data.paritytech.io
 metabase.data.paritytech.io
 monitoring.deploy.paritytech.io
-www.paritytech.io

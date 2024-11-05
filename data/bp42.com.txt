@@ -1,12 +1,11 @@
 de.bp42.com
 asset1.bp42.com
-www.goethe-corona-fond.bp42.com
+goethe-corona-fond.bp42.com
 streambot.bp42.com
-www.goethe-corona-fonds.bp42.com
-www.geparden.bp42.com
-www.bp42.com
+goethe-corona-fonds.bp42.com
+geparden.bp42.com
 staging-assets.bp42.com
-www.goethecoronafonds.bp42.com
+goethecoronafonds.bp42.com
 wegbassen-test.bp42.com
 foo.bp42.com
 static-content.bp42.com
@@ -20,4 +19,4 @@ logstash.bp42.com
 happening-server.bp42.com
 graylog2.ops.bp42.com
 redirector.bp42.com
-www.blub.bp42.com
+blub.bp42.com

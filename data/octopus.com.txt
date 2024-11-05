@@ -1,8 +1,7 @@
-*.octopus.com
-*.api.licensing.octopus.com
-*.licensing.octopus.com
-*.stripe.billing.octopus.com
-*.stripe.licensing.octopus.com
+api.licensing.octopus.com
+licensing.octopus.com
+stripe.billing.octopus.com
+stripe.licensing.octopus.com
 a.dev.octopus.com
 account.octopus.com
 advisories.octopus.com
@@ -12,7 +11,6 @@ api.billing.a.dev.octopus.com
 api.billing.b.dev.octopus.com
 api.billing.c.dev.octopus.com
 api.billing.preprod.octopus.com
-api.licensing.octopus.com
 apt.octopus.com
 b.dev.octopus.com
 bamboosample.octopus.com
@@ -54,7 +52,6 @@ jenkinspipelinegenerator.octopus.com
 jenkinssample.octopus.com
 legacydocs.octopus.com
 library.octopus.com
-licensing.octopus.com
 link.octopus.com
 m.octopus.com
 mail.octopus.com
@@ -82,12 +79,10 @@ service.octopus.com
 shop.octopus.com
 staging.octopus.com
 status.octopus.com
-stripe.billing.octopus.com
 stripe.billing.a.dev.octopus.com
 stripe.billing.b.dev.octopus.com
 stripe.billing.c.dev.octopus.com
 stripe.billing.preprod.octopus.com
-stripe.licensing.octopus.com
 style.octopus.com
 svr01.octopus.com
 teamcitysample.octopus.com
@@ -99,11 +94,6 @@ trust.octopus.com
 url534.octopus.com
 vpn-uswe2.cloud.octopus.com
 whmcs11563.hosted.octopus.com
-www.octopus.com
-www.a.dev.octopus.com
-www.b.dev.octopus.com
-www.c.dev.octopus.com
-www.preprod.octopus.com
 zinc.octopus.com
 accounttemp-node-docs.cloud.octopus.com
 aiagent.octopus.com
@@ -154,7 +144,6 @@ support.octopus.com
 supportdocs.octopus.com
 tajfqjbxwh1gbfez6.octopus.com
 test-account.octopus.com
-uww.octopus.com
 v2-systemexpert.octopus.com
 videoclick.hosted.octopus.com
 videoclick.status.octopus.com

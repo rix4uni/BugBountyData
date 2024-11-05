@@ -8,7 +8,7 @@ evocat-staging.dokku.rails.cz
 parking.rails.cz
 evocat-rbp-staging.dev-dokku.rails.cz
 redmine-staging-clean.dokku.rails.cz
-www.demodata.rails.cz
+demodata.rails.cz
 redmine.rails.cz
 mpo-jesenik-api.rails.cz
 mpo-api.dev-dokku.rails.cz
@@ -23,9 +23,7 @@ epublish.ostrava.rails.cz
 magicstock-web-production.lack-dokku.rails.cz
 backups.rails.cz
 gpt.rails.cz
-demodata.rails.cz
 chatwoot.new-dokku.rails.cz
-www.rails.cz
 big-agi.new-dokku.rails.cz
 transmise-status.rails.cz
 zebutik.ostrava.rails.cz
@@ -45,7 +43,7 @@ events-staging.dev-dokku.rails.cz
 presta.ostrava.rails.cz
 ruian.rails.cz
 children-risk-staging.dokku.rails.cz
-www.res-nis.rails.cz
+res-nis.rails.cz
 chatgpt.new-dokku.rails.cz
 redmine-staging.dokku.rails.cz
 idm.rails.cz
@@ -82,7 +80,6 @@ feedmonster.dev-dokku.rails.cz
 wazuh.rails.cz
 console.minio.rails.cz
 livemap.dev-dokku.rails.cz
-res-nis.rails.cz
 new-dokku.rails.cz
 gpt-karvina.rails.cz
 unite-api-docs.dokku.rails.cz
@@ -93,7 +90,6 @@ unite-api.dokku.rails.cz
 wiki.rails.cz
 stockapp-next.dokku.rails.cz
 stockapp-staging.dokku.rails.cz
-www.parking.rails.cz
 dokku-stockapp.rails.cz
 meet-reservatic.infra.rails.cz
 tiles.rails.cz

@@ -1,4 +1,3 @@
-*.us-west-2.dev.earnin.com
 us-west-2.dev.earnin.com
 referral.k8s.us-west-2.dev.earnin.com
 api.earnin.com
@@ -7,7 +6,6 @@ www2.earnin.com
 card.kamino.earnin.com
 savings.earnin.com
 mobile-shell.mfe.prod.earnin.com
-www.earnin.com
 nativeapi.earnin.com
 nativeapi-cu.kamino.earnin.com
 csb-dev.us-west-2.dev.earnin.com
@@ -70,7 +68,6 @@ id.staging.earnin.com
 id.earnin.com
 id.dev.earnin.com
 action.earnin.com
-*.app.earnin.com
 nativeapi-dev-risk.us-west-2.dev.earnin.com
 nativeapi-markodynamic.us-west-2.dev.earnin.com
 stage-devops-nativeapi.us-west-2.dev.earnin.com
@@ -166,7 +163,6 @@ nativeapi-mobile.us-west-2.dev.earnin.com
 adjust.webhooks.earnin.com
 api-ingress-eks.k8s.us-west-2.dev.earnin.com
 o2240.abmail.transactions.earnin.com
-www.sso.earnin.com
 api.app.earnin.com
 github.api.spinnaker.devops-eks.us-west-2.dev.earnin.com
 mfe.dev.earnin.com
@@ -187,7 +183,6 @@ l5d.dev-eks.k8s.us-west-2.dev.earnin.com
 nativeapi-example.us-west-2.dev.earnin.com
 o2241.abmail.transactions.earnin.com
 www-qa.earnin.com
-www.gatekeeper.us-west-2.dev.earnin.com
 nativeapi-prodops.us-west-2.dev.earnin.com
 nativeapi-partnerships.us-west-2.dev.earnin.com
 nativeapeye.earnin.com
@@ -200,6 +195,5 @@ nativeapi-activation-2.us-west-2.dev.earnin.com
 jurgenistestingdnsoverride.sandbox.earnin.com
 jurgentesttwo.sandbox.earnin.com
 nativeapi-kyc.us-west-2.dev.earnin.com
-www.vpn.kamino.earnin.com
 infra-bot.us-west-2.dev.earnin.com
 affiliates.earnin.com

@@ -1,13 +1,12 @@
 go.toutapp.com
 blog.toutapp.com
 vpc.toutapp.com
-www.www1.toutapp.com
+www1.toutapp.com
 staging.toutapp.com
-www.mkt.toutapp.com
+mkt.toutapp.com
 analytics.toutapp.com
 sync.toutapp.com
 live.toutapp.com
-www.go.toutapp.com
 oops.toutapp.com
 10.72.104.128go.toutapp.com
 connect.toutapp.com
@@ -29,7 +28,6 @@ linker-staging.toutapp.com
 stageops01.toutapp.com
 www2.toutapp.com
 happiness.toutapp.com
-www1.toutapp.com
 email.toutapp.com
 emailone.toutapp.com
 o1.email.toutapp.com
@@ -39,8 +37,6 @@ o1.system.toutapp.com
 jobs.toutapp.com
 www3.toutapp.com
 billboard.toutapp.com
-mkt.toutapp.com
-www.toutapp.com
 linker-qa1.toutapp.com
 linker-qa2.toutapp.com
 developers.toutapp.com

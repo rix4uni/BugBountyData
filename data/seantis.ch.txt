@@ -61,7 +61,6 @@ mrt.seantis.ch
 sentry.k8s.seantis.ch
 nims.seantis.ch
 example.org.dev.seantis.ch
-www.terrakube.k8s.seantis.ch
 adrastus.seantis.ch
 smtp.seantis.ch
 imap.seantis.ch
@@ -100,7 +99,6 @@ stats.seantis.ch
 fcbaar.seantis.ch
 harbor.k8s.seantis.ch
 poseidon.seantis.ch
-www.sentry.k8s.seantis.ch
 ship.seantis.ch
 docare-dev.seantis.ch
 leon.seantis.ch
@@ -108,7 +106,6 @@ echion.seantis.ch
 projects.seantis.ch
 ares.seantis.ch
 keto.seantis.ch
-www.riskmatrix.k8s.seantis.ch
 controlpanel.seantis.ch
 beta.seantis.ch
 talos.seantis.ch
@@ -139,16 +136,14 @@ nereus.seantis.ch
 ponos.seantis.ch
 limos.seantis.ch
 phoebe.seantis.ch
-www.langfuse.k8s.seantis.ch
+langfuse.k8s.seantis.ch
 rascreening.seantis.ch
 ns.seantis.ch
-www.auth.k8s.seantis.ch
 zethus.seantis.ch
 asclepius.seantis.ch
 momos.seantis.ch
 phanes.seantis.ch
 oupis.seantis.ch
-www.grafana.k8s.seantis.ch
 auge.seantis.ch
 orion.seantis.ch
 psaraas.seantis.ch
@@ -159,7 +154,6 @@ panacea.seantis.ch
 heracles.seantis.ch
 perdix.seantis.ch
 pluto.seantis.ch
-langfuse.k8s.seantis.ch
 hestia.seantis.ch
 perses.seantis.ch
 metis.seantis.ch
@@ -171,7 +165,6 @@ arke.seantis.ch
 attis.seantis.ch
 pop3.seantis.ch
 registry.k8s.seantis.ch
-www.seantis.ch
 apollon.seantis.ch
 docs.seantis.ch
 melanippe.seantis.ch
@@ -189,8 +182,7 @@ amphion.seantis.ch
 geras.seantis.ch
 privatim-test.seantis.ch
 pistis.seantis.ch
-www.registry.k8s.seantis.ch
-www.ocqms.k8s.seantis.ch
+ocqms.k8s.seantis.ch
 cybele.seantis.ch
 mania.seantis.ch
 nemesis.seantis.ch
@@ -199,8 +191,6 @@ pop.seantis.ch
 neuheim.seantis.ch
 tyche.seantis.ch
 ourea.seantis.ch
-ocqms.k8s.seantis.ch
-www.ssentry.k8s.seantis.ch
 admetus.seantis.ch
 adranos.seantis.ch
 ftp.seantis.ch
@@ -210,7 +200,6 @@ ister.seantis.ch
 pasithea.seantis.ch
 docare-web.seantis.ch
 medicus.seantis.ch
-www.plausible.k8s.seantis.ch
 ns1.seantis.ch
 aeacus.seantis.ch
 zelos.seantis.ch
@@ -219,17 +208,14 @@ acrisius-legislatur-2011-2014.seantis.ch
 horme.seantis.ch
 vertec-corporate.seantis.ch
 psaraas-test.seantis.ch
-www.minio-console.k8s.seantis.ch
 acrisius.seantis.ch
 hedone.seantis.ch
 iris.seantis.ch
-www.m.seantis.ch
 vbeo.seantis.ch
 hebe.seantis.ch
 hephaistos.seantis.ch
 proteus.seantis.ch
 circe.seantis.ch
-www.harbor.k8s.seantis.ch
 hector.seantis.ch
 pan.seantis.ch
 eris.seantis.ch
@@ -238,7 +224,6 @@ risch.seantis.ch
 atlas.seantis.ch
 epicaste.seantis.ch
 tegyrios.seantis.ch
-www.terrakube-api.k8s.seantis.ch
 strophius.seantis.ch
 acastus.seantis.ch
 terrakube-registry.k8s.seantis.ch

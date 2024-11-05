@@ -1,5 +1,4 @@
 abonneren.communicatieplein.nl
-www.communicatieplein.nl
 rijkshuisstijl.communicatieplein.nl
 cplanner.communicatieplein.nl
 intra.communicatieplein.nl
@@ -15,7 +14,6 @@ _kftp._tcp.communicatieplein.nl
 _xmpp-client._udp.communicatieplein.nl
 _sip._udp.communicatieplein.nl
 _pop2._udp.communicatieplein.nl
-www.rijkshuisstijl.communicatieplein.nl
 _msft-gc-ssl._tcp.communicatieplein.nl
 _stun-p3._tcp.communicatieplein.nl
 _matrix._tcp.communicatieplein.nl

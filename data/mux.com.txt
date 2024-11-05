@@ -76,12 +76,11 @@ admin-qa.mux.com
 gcp-us-west1-vos1.staging.mux.com
 manifest.gce-us-east4.production.mux.com
 cms.mux.com
-*.fastly.staging.mux.com
-*.staging.mux.com
-*.edgemf.staging.mux.com
-*.fastly-staging.mux.com
+fastly.staging.mux.com
+staging.mux.com
+edgemf.staging.mux.com
+fastly-staging.mux.com
 globe.mux.com
 docs-legacy.mux.com
-*.oci-us-phoenix-1-vos1.staging.mux.com
 oci-us-phoenix-1-vos1.staging.mux.com
 blog.mux.com

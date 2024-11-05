@@ -19,7 +19,7 @@ dplmdm.erpppd.qbe.com
 insightsdataautomations.qbe.com
 group.qbe.com
 qd-uat.qbe.com
-www.us.qbe.com
+us.qbe.com
 customer.qbe.com
 aebservices.qbe.com
 provider.qbe.com
@@ -349,7 +349,6 @@ uat1-b2c.qbe.com
 red.qbe.com
 nonprod-abbyyfrsapi-instance1.qbe.com
 gp-perf-idp-us.qbe.com
-www.qbelearn.qbe.com
 easia.qbe.com
 ext-gwservices-sit.qbe.com
 fido.qbe.com
@@ -397,7 +396,6 @@ gp-sit.qbe.com
 naophdx.qbe.com
 appsentryau.qbe.com
 trn1.ctpfleet.qbe.com
-www.qbe.com
 stg.api-au.qbe.com
 uat1-remedy.qbe.com
 qred.qbe.com
@@ -421,7 +419,6 @@ shorturl.qbe.com
 sip.qbe.com
 gp-perf.qbe.com
 trn.ctpagentsonline.qbe.com
-www.qbeconnect.qbe.com
 int2-qnect.qbe.com
 itsurvey.qbe.com
 aosba2.qbe.com
@@ -527,13 +524,11 @@ asia.qbe.com
 gp-sit-auth-uk.qbe.com
 aunswctp1.qbe.com
 collab.qbe.com
-www.qeg.qbe.com
 usch3ppdm0001.corp.qbe.com
 ausbc.qbe.com
 qd-uat-us.qbe.com
 bitbucket-anzo.corp.qbe.com
 dev2.ebiz.qbe.com
-www.group.qbe.com
 sys8.ebiz.qbe.com
 itgraduates.qbe.com
 dpl.erpppd.qbe.com
@@ -622,7 +617,7 @@ gsc-proc-uat.au.qbe.com
 lfs.erp.qbe.com
 qbe-azu-nonprod.qbe.com
 qd-sit-us.qbe.com
-www.vpn.qbe.com
+vpn.qbe.com
 dev.tpos.qbe.com
 quw.pega.qbe.com
 int-my-customer.qbe.com
@@ -769,7 +764,7 @@ hk-api.qbe.com
 sys2-claims.qbe.com
 int8.ebiz.qbe.com
 api.qbe.com
-www.auto.fr.qbe.com
+auto.fr.qbe.com
 qd-dev-spaassets-au.qbe.com
 uat2-hk-customer.qbe.com
 prf-portal.api-au.qbe.com
@@ -806,7 +801,6 @@ uat1-v7.claim.workers.qbe.com
 uat.wise.elders.qbe.com
 idgate.us.qbe.com
 sys.ebiz.qbe.com
-www.ctpagentsonline.qbe.com
 uatenquiry.ebiz.qbe.com
 dev.quw.qbe.com
 mgmt.api-asia.qbe.com
@@ -861,7 +855,6 @@ gp-perf-xc-au.qbe.com
 gsc-repo-dev.au.qbe.com
 uat2-claims.qbe.com
 sip.pr.qbe.com
-www.greenslip.qbe.com
 apophdx.qbe.com
 uat2-88-smartqclaims.asia.qbe.com
 sys2-qnect.qbe.com
@@ -869,7 +862,6 @@ gsc-portal-uat.au.qbe.com
 dev2-hk-customer.qbe.com
 gp-preprod-auth-us.qbe.com
 uat1.ctpfleet.qbe.com
-us.qbe.com
 sys1-cms.qbe.com
 dr-auth-us.qbe.com
 gsc-uat.us.qbe.com
@@ -898,7 +890,6 @@ meet.qbe.com
 uat-mgmt.api-asia-np.qbe.com
 uat-hk-api.qbe.com
 lyncdiscover.qbe.com
-www.market.qbe.com
 usspesqlwp0137.corp.qbe.com
 dev2.greenslip.qbe.com
 uat5.quw.qbe.com

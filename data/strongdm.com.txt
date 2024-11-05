@@ -112,7 +112,6 @@ sfdc-redshift-connector.prod.us-east-2.data.strongdm.com
 sfdc-redshift-connector.prod.us-east-2.data-prod.strongdm.com
 status.strongdm.com
 tracking.strongdm.com
-www.strongdm.com
 assets.strongdm.com
 bastion1.strongdm.com
 collector.us-west-2.snd.strongdm.com

@@ -7,7 +7,6 @@ test.test-new.crisp.site
 mennorenkens.dev-001.crisp.site
 blog.runner-pip.test.crisp.site
 damientardypanis.dev-001.crisp.site
-www.runner-orderfinish.test.crisp.site
 old.test-new.crisp.site
 blog.shop.test.crisp.site
 blog.blog.test.test-new.crisp.site
@@ -23,7 +22,6 @@ blog.demo.test-new.crisp.site
 shop.test.crisp.site
 dev.test-new.crisp.site
 blog.blog.test-new.crisp.site
-www.crisp.site
 mysql.test-new.crisp.site
 blog.blog.store.test-new.crisp.site
 magento2.test.crisp.site
@@ -66,7 +64,6 @@ blog.shop.test-new.crisp.site
 runner-prep.test.crisp.site
 blog.blog.magento.test.crisp.site
 blog.runner-login.test.crisp.site
-www.blog.runner-login.test.crisp.site
 magento.test-new.crisp.site
 blog.runner-missing.test.crisp.site
 blog.blog.runner-stock.test.crisp.site

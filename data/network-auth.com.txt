@@ -649,10 +649,6 @@ na.network-auth.com
 n493.network-auth.com
 n411.network-auth.com
 n376.network-auth.com
-*.network-auth.com
-*.sandbox.network-auth.com
-*.poc.network-auth.com
-*.dev.network-auth.com
 n145-spare.network-auth.com
 n168-spare.network-auth.com
 n18-spare.network-auth.com
@@ -678,8 +674,6 @@ n562.network-auth.com
 n568.network-auth.com
 n7-spare.network-auth.com
 000000.482.be-okta.dev.network-auth.com
-*.tunnel-proxy.dns.network-auth.com
-*.tunnel-proxy.dns.sandbox.network-auth.com
 tunnel-proxy.dns.network-auth.com
 tunnel-proxy.dns.sandbox.network-auth.com
 n781.network-auth.com
@@ -926,7 +920,6 @@ n819.network-auth.com
 n765-spare.network-auth.com
 n677-spare.network-auth.com
 n576.network-auth.com
-www.network-auth.com
 n555.network-auth.com
 n787.network-auth.com
 n120-spare.network-auth.com
@@ -1305,7 +1298,6 @@ n653-spare.network-auth.com
 n457.network-auth.com
 n740.network-auth.com
 n732.network-auth.com
-www.account.network-auth.com
 n721-spare.network-auth.com
 n719-spare.network-auth.com
 n331-spare.network-auth.com

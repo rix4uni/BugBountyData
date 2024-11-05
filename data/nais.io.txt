@@ -1,18 +1,11 @@
 test.ssb.cloud.nais.io
-*.test.ssb.cloud.nais.io
 external.test.ssb.cloud.nais.io
-*.external.test.ssb.cloud.nais.io
 prod.ssb.cloud.nais.io
-*.prod.ssb.cloud.nais.io
 dev.dev-nais.cloud.nais.io
-*.dev.dev-nais.cloud.nais.io
 external.dev.dev-nais.cloud.nais.io
-*.external.dev.dev-nais.cloud.nais.io
 external.prod.ssb.cloud.nais.io
-*.external.prod.ssb.cloud.nais.io
 authenticated.dev.dev-nais.cloud.nais.io
-*.authenticated.dev.dev-nais.cloud.nais.io
-*.dev-nais.cloud.nais.io
+dev-nais.cloud.nais.io
 cdn.test-nais.cloud.nais.io
 loki-write.dev-nais.cloud.nais.io
 docs.nais.io
@@ -63,7 +56,6 @@ sykefravaerarbeidsgiver.labs.nais.io
 dinesykmeldte.labs.nais.io
 mariam.demo.dev-gke.nais.io
 sif-innsyn.labs.nais.io
-www.nais.io
 vegarm.demo.dev-gke.nais.io
 grafana.nais.io
 doc.ssb.cloud.nais.io
@@ -98,7 +90,6 @@ mtpilot.cloud.nais.io
 external.ci.nav.cloud.nais.io
 newdoc.nais.io
 dev.test-tenant3.cloud.nais.io
-dev-nais.cloud.nais.io
 external.nav.cloud.nais.io
 fhi.cloud.nais.io
 dev-fss.nais.io

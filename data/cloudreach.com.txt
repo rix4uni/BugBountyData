@@ -2,15 +2,13 @@ cinc-health.tp.colab.cloudreach.com
 download.ops.cloudreach.com
 backstage.tp.colab.cloudreach.com
 subprocessors.cloudreach.com
-www.cloudreach.com
 st2-ui.tp.colab.cloudreach.com
 grafana.tp.colab.cloudreach.com
-www.secrets.cloudreach.com
+secrets.cloudreach.com
 alertmanager.tp.colab.cloudreach.com
 base.chef.cloudreach.com
 pci.chef.cloudreach.com
 chef-alyx.dev.platform-eng.ops.cloudreach.com
-secrets.cloudreach.com
 magpie.colab.cloudreach.com
 tp.colab.cloudreach.com
 zesty.cloudreach.com
@@ -41,7 +39,7 @@ chef-harry.dev.platform-eng.ops.cloudreach.com
 vpn-prod.cloudreach.com
 vpn-rebuild.cloudreach.com
 backstage.colab.cloudreach.com
-www.api.test.gallery.cloudreach.com
+api.test.gallery.cloudreach.com
 info.cloudreach.com
 cr-ops.cloudreach.com
 cloudamize.prod.platform.cloudreach.com

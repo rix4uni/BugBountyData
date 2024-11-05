@@ -170,7 +170,7 @@ remind-redirect.teleport.fq6.floqast.engineering
 internal-fq7.floqast.engineering
 2020.teleport.fq6.floqast.engineering
 super-presigned-url-collaborate.fq6.floqast.engineering
-www.fq6.teleport.floqast.engineering
+fq6.teleport.floqast.engineering
 ai-settings.teleport.floqast.engineering
 workflow-dashboards.fq5.floqast.engineering
 documents.teleport.floqast.engineering
@@ -327,7 +327,6 @@ home.teleport.floqast.engineering
 fgkhw7y3gwqttpm3.teleport.fq6.floqast.engineering
 api-fq11.floqast.engineering
 oauth-spring.teleport.fq6.floqast.engineering
-www.teleport.fq6.floqast.engineering
 external-reconciliations.automation.floqast.engineering
 alpha.teleport.floqast.engineering
 blackboard.teleport.floqast.engineering
@@ -424,7 +423,6 @@ login-redirect.fq5.floqast.engineering
 folders.fq7.teleport.floqast.engineering
 hermes.teleport.fq6.floqast.engineering
 api-gateway.fq10.teleport.floqast.engineering
-www.floqast.engineering
 fq5new.teleport.fq6.floqast.engineering
 fq8workflows-variance.fq11.teleport.floqast.engineering
 client-setups.fq1.floqast.engineering
@@ -1801,7 +1799,6 @@ static-fq9.teleport.fq6.floqast.engineering
 adhoc-projects.fq12.floqast.engineering
 api-gateway.fq7.teleport.floqast.engineering
 companies.automation-eu.floqast.engineering
-www.comments.teleport.floqast.engineering
 super.fq10.floqast.engineering
 is.teleport.floqast.engineering
 sdk.teleport.fq6.floqast.engineering
@@ -2247,7 +2244,6 @@ intranet.teleport.fq6.floqast.engineering
 stagebaleprabu.teleport.floqast.engineering
 wcoya8gzn.teleport.fq6.floqast.engineering
 reporting.fq6.floqast.engineering
-fq6.teleport.floqast.engineering
 embed.teleport.floqast.engineering
 cconfn8h8g5066rw.teleport.fq6.floqast.engineering
 users.fq4.floqast.engineering
@@ -2335,7 +2331,7 @@ docs.teleport.floqast.engineering
 checklist.fq4.teleport.floqast.engineering
 video.teleport.floqast.engineering
 consolidation.automation-eu.teleport.floqast.engineering
-www.reports.teleport.floqast.engineering
+reports.teleport.floqast.engineering
 kerberos.teleport.floqast.engineering
 2apoland.teleport.fq6.floqast.engineering
 varianceeupbc.fq11.teleport.floqast.engineering
@@ -2348,7 +2344,7 @@ fq4audit.ftps.teleport.fq6.floqast.engineering
 www-super.automation.floqast.engineering
 main.teleport.floqast.engineering
 remind-automation.teleport.floqast.engineering
-www.static-fq4.teleport.floqast.engineering
+static-fq4.teleport.floqast.engineering
 bi-service.teleport.floqast.engineering
 infrawww82.teleport.fq6.floqast.engineering
 roles.fq9.floqast.engineering
@@ -2883,7 +2879,6 @@ fq-sessions.teleport.floqast.engineering
 sox.automation-eu.floqast.engineering
 gl-programs.fq2.floqast.engineering
 cribl-ingest.fq5.floqast.engineering
-www.fq6.floqast.engineering
 homer.teleport.floqast.engineering
 img1.teleport.floqast.engineering
 notification-integrations.teleport.fq6.floqast.engineering
@@ -3331,7 +3326,7 @@ review-notes.fq1.teleport.floqast.engineering
 us.fq10.teleport.floqast.engineering
 sftp-v2.fq6.floqast.engineering
 departments.fq12.floqast.engineering
-www.tracing.teleport.fq6.floqast.engineering
+tracing.teleport.fq6.floqast.engineering
 review.teleport.floqast.engineering
 bucky2a.teleport.fq6.floqast.engineering
 px.teleport.fq6.floqast.engineering
@@ -3490,7 +3485,6 @@ tester.teleport.floqast.engineering
 otel-collector.teleport.floqast.engineering
 intelligence.teleport.floqast.engineering
 docker.teleport.fq6.floqast.engineering
-reports.teleport.floqast.engineering
 storage-provider.fq9.floqast.engineering
 finance.teleport.fq6.floqast.engineering
 sftp-v2.fq8.floqast.engineering
@@ -3605,7 +3599,6 @@ platform-internal.fq2.floqast.engineering
 tags.fq1.floqast.engineering
 bulk-edit.fq6.teleport.floqast.engineering
 fq7.sftp.floqast.engineering
-static-fq4.teleport.floqast.engineering
 opstools.teleport.fq6.floqast.engineering
 ci.floqast.engineering
 2018-2a.teleport.fq6.floqast.engineering
@@ -3663,7 +3656,6 @@ avatars-fq10.teleport.floqast.engineering
 runrecs.teleport.fq6.floqast.engineering
 gist.teleport.fq6.floqast.engineering
 engineering-dashboard.production-sec.floqast.engineering
-tracing.teleport.fq6.floqast.engineering
 replication.fq2.teleport.floqast.engineering
 cza0q0zvi9trlt2z.teleport.floqast.engineering
 ml.teleport.fq6.floqast.engineering
@@ -4055,7 +4047,6 @@ _tcp.teleport.fq6.floqast.engineering
 reset.teleport.fq6.floqast.engineering
 variance.fq4.teleport.floqast.engineering
 dora-metrics.ops.teleport.floqast.engineering
-www.teleport.floqast.engineering
 new-client-setups.fq10.floqast.engineering
 otel-collector.fq7.floqast.engineering
 payment.teleport.fq6.floqast.engineering
@@ -4161,7 +4152,4 @@ documents.fq5.teleport.floqast.engineering
 dev1.teleport.fq6.floqast.engineering
 external.fq4.floqast.engineering
 auth.automation.teleport.floqast.engineering
-*.floqast.engineering
-*.fq6.floqast.engineering
-*.fq9.floqast.engineering
 px-esp.fq5.floqast.engineering

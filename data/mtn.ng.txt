@@ -44,11 +44,6 @@ testauth.mtn.ng
 testpay.mtn.ng
 uat-dashboard.mtn.ng
 uat-iot.mtn.ng
-www.mpulse.mtn.ng
-www.mtn.ng
-www.play.mtn.ng
-www.selfservice.mtn.ng
-www.shop.mtn.ng
 yellohubevents.mtn.ng
 yelloverse.mtn.ng
 admin.muzu.mtn.ng
@@ -61,5 +56,3 @@ mymtnnxgmagentodev.mtn.ng
 mymtnnxgmagentoprod.mtn.ng
 nova.mtn.ng
 reload.mtn.ng
-www.pay.mtn.ng
-www.smprod.mtn.ng

@@ -74,7 +74,6 @@ blog.aaa.aaa.moka-app.com
 store.aaa.moka-app.com
 blog.dev.shop.moka-app.com
 blog.blog.store.aaa.moka-app.com
-www.moka-app.com
 blog.blog.backup.moka-app.com
 blog.blog.blog.demo.moka-app.com
 blog.blog.demo.staging.moka-app.com
@@ -113,7 +112,7 @@ blog.magento.site.moka-app.com
 staging.test.moka-app.com
 wordpress.moka-app.com
 blog.blog.magento.2020.moka-app.com
-www.aaa.moka-app.com
+aaa.moka-app.com
 blog.blog.blog.blog.old.aaa.moka-app.com
 blog.blog.blog.blog.2020.moka-app.com
 blog.shop.store.moka-app.com
@@ -148,7 +147,6 @@ blog.blog.staging.2020.moka-app.com
 blog.shop.2020.moka-app.com
 blog.blog.old.aaa.moka-app.com
 blog.blog.staging.shop.moka-app.com
-aaa.moka-app.com
 blog.test.staging.moka-app.com
 demo.wordpress.moka-app.com
 blog.dev.test.moka-app.com
@@ -170,7 +168,6 @@ blog.blog.old.demo.moka-app.com
 blog.blog.shop.site.moka-app.com
 blog.blog.test.demo.moka-app.com
 blog.staging.store.moka-app.com
-www.blog.blog.blog.blog.shop.aaa.moka-app.com
 blog.blog.old.wordpress.moka-app.com
 blog.blog.old.shop.moka-app.com
 blog.blog.store.2020.moka-app.com
@@ -198,7 +195,6 @@ blog.magento.staging.moka-app.com
 blog.test.moka-app.com
 demo.staging.moka-app.com
 blog.blog.staging.site.moka-app.com
-www.blog.blog.dev.aaa.moka-app.com
 blog.blog.blog.store.moka-app.com
 blog.blog.blog.blog.magento.aaa.moka-app.com
 blog.blog.staging.store.moka-app.com
@@ -206,7 +202,7 @@ blog.dev.aaa.moka-app.com
 blog.shop.aaa.moka-app.com
 blog.blog.blog.magento.moka-app.com
 dev.2020.moka-app.com
-www.blog.demo.aaa.moka-app.com
+blog.demo.aaa.moka-app.com
 dev.demo.moka-app.com
 blog.blog.dev.staging.moka-app.com
 blog.blog.blog.2020.moka-app.com
@@ -244,13 +240,11 @@ blog.blog.dev.test.moka-app.com
 blog.blog.blog.staging.aaa.moka-app.com
 blog.blog.blog.blog.backup.moka-app.com
 blog.blog.old.store.moka-app.com
-www.blog.blog.store.aaa.moka-app.com
 blog.old.shop.moka-app.com
 blog.blog.blog.dev.2020.moka-app.com
 blog.blog.shop.2020.moka-app.com
 blog.blog.test.staging.moka-app.com
 blog.magento.aaa.moka-app.com
-blog.demo.aaa.moka-app.com
 test.wordpress.moka-app.com
 store.shop.moka-app.com
 old.moka-app.com
@@ -269,7 +263,6 @@ blog.store.moka-app.com
 blog.wp.moka-app.com
 old.staging.moka-app.com
 test.shop.moka-app.com
-www.blog.bnzuublog.store.aaa.moka-app.com
 sitemaps.moka-app.com
 blog.magento.store.moka-app.com
 blog.sitemap.moka-app.com

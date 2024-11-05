@@ -18,7 +18,6 @@ apmplus.nio.com
 app-stg-int.nio.com
 azure-tsp-kong-external-01-eu.nio.com
 live-nioday2017.nio.com
-www.adfs.nio.com
 external-app-message-01.nio.com
 datascience.nio.com
 mercury-app-api.nio.com
@@ -123,7 +122,7 @@ td.nio.com
 shth-nh.nio.com
 tsp.nio.com
 sentinel.nio.com
-www.ritthoff.nio.com
+ritthoff.nio.com
 app-test.nio.com
 assistant-gateway-stage.eu.nio.com
 power.nio.com
@@ -146,7 +145,6 @@ msg-center-stg.nio.com
 external-tsp-vip-01.nio.com
 m-car-mall.nio.com
 tsp-vms-dev.nio.com
-www.live.nio.com
 www-stg.nio.com
 cdn-public-fms-azure-test.eu.nio.com
 app-dev-int.nio.com
@@ -156,7 +154,7 @@ m-insurance.nio.com
 cdn-mercury.nio.com
 ev-static.nio.com
 shaolin.sec.nio.com
-www.valleyfive.nio.com
+valleyfive.nio.com
 app-int.nio.com
 nwp-su.nio.com
 im-tencent.eu.nio.com
@@ -175,11 +173,8 @@ configurator.nio.com
 securitynotice.nio.com
 external-tsp-vip-01-stg.nio.com
 ap.nio.com
-www.live-nioday2017.nio.com
 z5k8bi.47092.nio.com
 app.eu.nio.com
-www.nio.com
-www.www-stg.nio.com
 otd-app-api.nio.com
 activity.nio.com
 app.nio.com
@@ -206,7 +201,3 @@ tsp-gateway.nio.com
 m-rs-niorecruiting.nio.com
 uatcenter.nio.com
 external-emm-01.nio.com
-*.ap.nio.com
-*.eu.nio.com
-*.us.nio.com
-*.nio.com

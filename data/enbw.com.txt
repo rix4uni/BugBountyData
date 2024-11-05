@@ -277,7 +277,6 @@ dslkonto.enbw.com
 leasingangebot.enbw.com
 webdav.produktion.cms.enbw.com
 wallbox-shop.enbw.com
-*.wallbox-shop.enbw.com
 sso.produktion.corp.enbw.com
 sso.integration.corp.enbw.com
 email-tagdereinenerzeugung.enbw.com
@@ -289,7 +288,7 @@ email-kickoff.enbw.com
 adr.portalpatrol.enbw.com
 files.ai.einkauf.enbw.com
 panel.oneplatform-dev.enbw.com
-www.nextlevelladepark.enbw.com
+nextlevelladepark.enbw.com
 dev-meine.enbw.com
 kraken.oneplatform-dev.enbw.com
 celab.enbw.com
@@ -301,7 +300,6 @@ arch.kundenberaterportal.enbw.com
 tagdereinenerzeugung.enbw.com
 e-mail.enbw.com
 schilderapplikation.ca.spa-test.enbw.com
-nextlevelladepark.enbw.com
 app.ai.einkauf.enbw.com
 cdc.enbw.com
 showhouse.enbw.com

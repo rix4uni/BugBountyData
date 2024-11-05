@@ -38,7 +38,6 @@ redbutton.medtronic.com
 canadanews.medtronic.com
 jobs.medtronic.com
 pillcamremote.medtronic.com
-www.medtronic.com
 hcpresources.medtronic.com
 teneo-cloud-stage.medtronic.com
 e-thoth.medtronic.com
@@ -68,9 +67,9 @@ qa.inform.medtronic.com
 qa.efficio.medtronic.com
 qa.snapshot.medtronic.com
 onsite-training.medtronic.com
-www.manuals.medtronic.com
+manuals.medtronic.com
 emanualshlg.medtronic.com
-www.emanuals.medtronic.com
+emanuals.medtronic.com
 cvgpts-dev.medtronic.com
 rsm.medtronic.com
 amervideo-e.medtronic.com
@@ -90,7 +89,6 @@ test-last-ext.api.gaiteway.medtronic.com
 test-future-ext.api.gaiteway.medtronic.com
 test-last.gaiteway.medtronic.com
 myheartdevice.medtronic.com
-www.myheartdevice.medtronic.com
 birchassistdev-ext.medtronic.com
 nd009055.global.medtronic.com
 nd179031.global.medtronic.com
@@ -665,7 +663,7 @@ nd022057.global.medtronic.com
 nd031081.global.medtronic.com
 nd105227.global.medtronic.com
 nd230157.global.medtronic.com
-www.applens-prod.medtronic.com
+applens-prod.medtronic.com
 minimedoutcomes-stageapi.medtronic.com
 nd131053.global.medtronic.com
 nd155050.global.medtronic.com
@@ -789,7 +787,7 @@ nd130149.global.medtronic.com
 nd237132.global.medtronic.com
 nd215188.global.medtronic.com
 nd169210.global.medtronic.com
-www.test.einsteinconnect.medtronic.com
+test.einsteinconnect.medtronic.com
 nd175016.global.medtronic.com
 nd179146.global.medtronic.com
 nd230056.global.medtronic.com
@@ -1683,7 +1681,7 @@ nd154157.global.medtronic.com
 nd191199.global.medtronic.com
 nd247190.global.medtronic.com
 nd202046.global.medtronic.com
-www.carelink-test1.medtronic.com
+carelink-test1.medtronic.com
 nd070053.global.medtronic.com
 nd173118.global.medtronic.com
 nd195051.global.medtronic.com
@@ -2582,7 +2580,6 @@ nd028120.global.medtronic.com
 nd047181.global.medtronic.com
 nd130128.global.medtronic.com
 nd216093.global.medtronic.com
-emanuals.medtronic.com
 nd014105.global.medtronic.com
 nd177165.global.medtronic.com
 nd192013.global.medtronic.com
@@ -3518,7 +3515,7 @@ nd043203.global.medtronic.com
 nd085026.global.medtronic.com
 nd006078.global.medtronic.com
 nd187255.global.medtronic.com
-www.erp.medtronic.com
+erp.medtronic.com
 nd066135.global.medtronic.com
 nd113232.global.medtronic.com
 nd157195.global.medtronic.com
@@ -3857,7 +3854,7 @@ nd035239.global.medtronic.com
 nd061163.global.medtronic.com
 nd067039.global.medtronic.com
 nd217126.global.medtronic.com
-www.qa.einsteinconnect.medtronic.com
+qa.einsteinconnect.medtronic.com
 nd023214.global.medtronic.com
 nd117217.global.medtronic.com
 nd159231.global.medtronic.com
@@ -5549,7 +5546,7 @@ nd147071.global.medtronic.com
 nd170212.global.medtronic.com
 nd185076.global.medtronic.com
 nd187057.global.medtronic.com
-www.marketingpdp.medtronic.com
+marketingpdp.medtronic.com
 nd062132.global.medtronic.com
 nd115191.global.medtronic.com
 nd117078.global.medtronic.com
@@ -6107,7 +6104,7 @@ nd148216.global.medtronic.com
 nd081016.global.medtronic.com
 nd188249.global.medtronic.com
 nd220026.global.medtronic.com
-www.serviceclient.medtronic.com
+serviceclient.medtronic.com
 nd030048.global.medtronic.com
 nd036202.global.medtronic.com
 nd137095.global.medtronic.com
@@ -6250,7 +6247,7 @@ nd058135.global.medtronic.com
 nd121250.global.medtronic.com
 nd145143.global.medtronic.com
 nd166175.global.medtronic.com
-www.powerof.medtronic.com
+powerof.medtronic.com
 nd006114.global.medtronic.com
 nd122189.global.medtronic.com
 nd173009.global.medtronic.com
@@ -6422,7 +6419,7 @@ nd061073.global.medtronic.com
 nd073002.global.medtronic.com
 nd095143.global.medtronic.com
 videolibrary.medtronic.com
-www.einsteinconnect.medtronic.com
+einsteinconnect.medtronic.com
 nd161107.global.medtronic.com
 nd175105.global.medtronic.com
 nd191133.global.medtronic.com
@@ -7951,7 +7948,6 @@ nd157135.global.medtronic.com
 nd161136.global.medtronic.com
 nd177123.global.medtronic.com
 nd132165.global.medtronic.com
-www.talentacquisitioninterview.apac.medtronic.com
 nd009022.global.medtronic.com
 nd022083.global.medtronic.com
 nd070149.global.medtronic.com
@@ -8167,7 +8163,7 @@ nd113116.global.medtronic.com
 nd192128.global.medtronic.com
 nd155183.global.medtronic.com
 nd141127.global.medtronic.com
-www.staging.americas.connect.medtronic.com
+staging.americas.connect.medtronic.com
 nd055017.global.medtronic.com
 nd019084.global.medtronic.com
 nd046244.global.medtronic.com
@@ -8323,7 +8319,7 @@ nd052004.global.medtronic.com
 nd193149.global.medtronic.com
 nd104105.global.medtronic.com
 nd179225.global.medtronic.com
-www.retirementelection.medtronic.com
+retirementelection.medtronic.com
 nd180045.global.medtronic.com
 nd220174.global.medtronic.com
 nd253099.global.medtronic.com
@@ -8349,7 +8345,7 @@ nd105100.global.medtronic.com
 nd187236.global.medtronic.com
 nd202040.global.medtronic.com
 nd196023.global.medtronic.com
-www.powerofyoupowerofus.medtronic.com
+powerofyoupowerofus.medtronic.com
 nd066124.global.medtronic.com
 nd118183.global.medtronic.com
 nd132077.global.medtronic.com
@@ -8591,7 +8587,6 @@ nd011214.global.medtronic.com
 nd107254.global.medtronic.com
 nd145011.global.medtronic.com
 nd057029.global.medtronic.com
-staging.americas.connect.medtronic.com
 nd010154.global.medtronic.com
 nd097143.global.medtronic.com
 nd108245.global.medtronic.com
@@ -8830,7 +8825,7 @@ nd076211.global.medtronic.com
 nd088174.global.medtronic.com
 nd172221.global.medtronic.com
 nd237025.global.medtronic.com
-www.gihcentral.medtronic.com
+gihcentral.medtronic.com
 nd120161.global.medtronic.com
 nd123025.global.medtronic.com
 nd162080.global.medtronic.com
@@ -8851,7 +8846,7 @@ nd005109.global.medtronic.com
 nd085166.global.medtronic.com
 nd123246.global.medtronic.com
 nd144142.global.medtronic.com
-www.assess-spasticity.medtronic.com
+assess-spasticity.medtronic.com
 nd011209.global.medtronic.com
 nd115048.global.medtronic.com
 nd157127.global.medtronic.com
@@ -8862,7 +8857,6 @@ nd190085.global.medtronic.com
 nd243223.global.medtronic.com
 nd021111.global.medtronic.com
 nd083001.global.medtronic.com
-www.e-thoth.medtronic.com
 nd210042.global.medtronic.com
 nd011066.global.medtronic.com
 nd056229.global.medtronic.com
@@ -9674,7 +9668,7 @@ nd186169.global.medtronic.com
 nd232160.global.medtronic.com
 nd235044.global.medtronic.com
 pov.medtronic.com
-www.carelink-stage1.medtronic.com
+carelink-stage1.medtronic.com
 nd086240.global.medtronic.com
 nd170218.global.medtronic.com
 nd222067.global.medtronic.com
@@ -12828,7 +12822,7 @@ nd096219.global.medtronic.com
 nd100068.global.medtronic.com
 nd194247.global.medtronic.com
 nd254237.global.medtronic.com
-www.dev.einsteinconnect.medtronic.com
+dev.einsteinconnect.medtronic.com
 nd133192.global.medtronic.com
 nd168115.global.medtronic.com
 nd178016.global.medtronic.com
@@ -13722,7 +13716,6 @@ nd173201.global.medtronic.com
 nd047177.global.medtronic.com
 nd074249.global.medtronic.com
 nd171195.global.medtronic.com
-www.quickassist.medtronic.com
 nd073158.global.medtronic.com
 nd009047.global.medtronic.com
 nd032121.global.medtronic.com
@@ -16638,7 +16631,6 @@ nd121240.global.medtronic.com
 nd173048.global.medtronic.com
 nd187209.global.medtronic.com
 nd242099.global.medtronic.com
-www.efficio.medtronic.com
 remotepresence.medtronic.com
 nd200026.global.medtronic.com
 nd050054.global.medtronic.com
@@ -17460,7 +17452,7 @@ nd197215.global.medtronic.com
 nd067215.global.medtronic.com
 nd129017.global.medtronic.com
 nd173178.global.medtronic.com
-www.mycase.medtronic.com
+mycase.medtronic.com
 nd142045.global.medtronic.com
 nd203191.global.medtronic.com
 nd251081.global.medtronic.com
@@ -17585,7 +17577,6 @@ nd236103.global.medtronic.com
 nd183014.global.medtronic.com
 nd197155.global.medtronic.com
 nd241180.global.medtronic.com
-www.dev.dhfoundry.medtronic.com
 nd077182.global.medtronic.com
 nd080233.global.medtronic.com
 nd105130.global.medtronic.com
@@ -17974,7 +17965,7 @@ nd214077.global.medtronic.com
 nd111179.global.medtronic.com
 nd122102.global.medtronic.com
 nd185074.global.medtronic.com
-www.carelink-trials-next.medtronic.com
+carelink-trials-next.medtronic.com
 nd033034.global.medtronic.com
 nd049204.global.medtronic.com
 nd068008.global.medtronic.com
@@ -19751,7 +19742,6 @@ nd162215.global.medtronic.com
 nd115072.global.medtronic.com
 nd122255.global.medtronic.com
 nd156145.global.medtronic.com
-carelink-trials-next.medtronic.com
 nd024134.global.medtronic.com
 nd029241.global.medtronic.com
 nd077084.global.medtronic.com
@@ -19878,7 +19868,7 @@ nd001235.global.medtronic.com
 nd011170.global.medtronic.com
 nd025126.global.medtronic.com
 nd083137.global.medtronic.com
-www.education-staging.medtronic.com
+education-staging.medtronic.com
 nd090100.global.medtronic.com
 nd205241.global.medtronic.com
 nd019081.global.medtronic.com
@@ -20038,7 +20028,7 @@ nd233068.global.medtronic.com
 nd024208.global.medtronic.com
 nd141243.global.medtronic.com
 nd209106.global.medtronic.com
-www.carelink-stage2-next.medtronic.com
+carelink-stage2-next.medtronic.com
 nd224253.global.medtronic.com
 nd036116.global.medtronic.com
 nd126052.global.medtronic.com
@@ -20803,7 +20793,6 @@ nd084028.global.medtronic.com
 nd117221.global.medtronic.com
 nd143105.global.medtronic.com
 nd079184.global.medtronic.com
-powerof.medtronic.com
 nd024129.global.medtronic.com
 nd073099.global.medtronic.com
 nd154127.global.medtronic.com
@@ -21755,7 +21744,6 @@ nd012130.global.medtronic.com
 nd012131.global.medtronic.com
 nd012132.global.medtronic.com
 nd064044.global.medtronic.com
-www.applens-dev.medtronic.com
 nd019101.global.medtronic.com
 nd037042.global.medtronic.com
 nd105173.global.medtronic.com
@@ -21965,7 +21953,7 @@ nd129171.global.medtronic.com
 nd059057.global.medtronic.com
 nd079011.global.medtronic.com
 nd094066.global.medtronic.com
-www.foundation.medtronic.com
+foundation.medtronic.com
 nd154234.global.medtronic.com
 nd207040.global.medtronic.com
 nd235228.global.medtronic.com
@@ -21976,7 +21964,7 @@ nd114181.global.medtronic.com
 nd051044.global.medtronic.com
 nd228196.global.medtronic.com
 nd235021.global.medtronic.com
-www.talentacquisitioninterview.emea.medtronic.com
+talentacquisitioninterview.emea.medtronic.com
 nd114230.global.medtronic.com
 nd209120.global.medtronic.com
 nd220207.global.medtronic.com
@@ -22917,7 +22905,6 @@ b2brde.assets.medtronic.com
 carelink-clinical.medtronic.com
 nd185036.global.medtronic.com
 nd210035.global.medtronic.com
-foundation.medtronic.com
 nd052187.global.medtronic.com
 nd172242.global.medtronic.com
 nd211077.global.medtronic.com
@@ -23568,7 +23555,6 @@ nd065082.global.medtronic.com
 nd170181.global.medtronic.com
 nd211046.global.medtronic.com
 nd235196.global.medtronic.com
-mycase.medtronic.com
 nd005149.global.medtronic.com
 nd049242.global.medtronic.com
 nd167027.global.medtronic.com
@@ -23830,7 +23816,6 @@ nd253193.global.medtronic.com
 nd174195.global.medtronic.com
 nd200186.global.medtronic.com
 nd230145.global.medtronic.com
-manuals.medtronic.com
 nd024010.global.medtronic.com
 nd109005.global.medtronic.com
 nd148095.global.medtronic.com
@@ -24698,7 +24683,7 @@ nd171198.global.medtronic.com
 nd033043.global.medtronic.com
 nd033104.global.medtronic.com
 nd143070.global.medtronic.com
-www.carelink-clinical-stage1.medtronic.com
+carelink-clinical-stage1.medtronic.com
 nd158213.global.medtronic.com
 nolobal.medtronic.com
 nd020219.global.medtronic.com
@@ -24860,7 +24845,6 @@ nd054024.global.medtronic.com
 global-test.medtronic.com
 nd148068.global.medtronic.com
 nd153220.global.medtronic.com
-www.carelink-test.medtronic.com
 nd035211.global.medtronic.com
 nd173177.global.medtronic.com
 nd191059.global.medtronic.com
@@ -26732,7 +26716,6 @@ nd093180.global.medtronic.com
 nd216010.global.medtronic.com
 nd218036.global.medtronic.com
 nd240186.global.medtronic.com
-applens-prod.medtronic.com
 nd089188.global.medtronic.com
 nd093221.global.medtronic.com
 nd166094.global.medtronic.com
@@ -28044,7 +28027,7 @@ nd154169.global.medtronic.com
 nd180201.global.medtronic.com
 nd138100.global.medtronic.com
 nd199217.global.medtronic.com
-www.mvp.medtronic.com
+mvp.medtronic.com
 nd057128.global.medtronic.com
 nd071054.global.medtronic.com
 nd124154.global.medtronic.com
@@ -28691,7 +28674,6 @@ nd006125.global.medtronic.com
 nd062243.global.medtronic.com
 nd076200.global.medtronic.com
 nd146019.global.medtronic.com
-retirementelection.medtronic.com
 mspmxopr08.wpn.medtronic.com
 nd067142.global.medtronic.com
 nd159143.global.medtronic.com
@@ -30315,7 +30297,6 @@ nd242108.global.medtronic.com
 nd108033.global.medtronic.com
 nd131193.global.medtronic.com
 nd226232.global.medtronic.com
-www.gihdirectory.medtronic.com
 nd049126.global.medtronic.com
 nd156151.global.medtronic.com
 nd159118.global.medtronic.com
@@ -31949,7 +31930,6 @@ nd048173.global.medtronic.com
 nd052017.global.medtronic.com
 nd110093.global.medtronic.com
 nd197026.global.medtronic.com
-dev.einsteinconnect.medtronic.com
 nd108145.global.medtronic.com
 nd122078.global.medtronic.com
 nd149049.global.medtronic.com
@@ -32213,7 +32193,7 @@ nd072130.global.medtronic.com
 nd108108.global.medtronic.com
 nd070160.global.medtronic.com
 nd129156.global.medtronic.com
-www.myorders.medtronic.com
+myorders.medtronic.com
 nd003227.global.medtronic.com
 nd022049.global.medtronic.com
 nd054048.global.medtronic.com
@@ -33637,7 +33617,6 @@ aemforms-docusign-dev.medtronic.com
 nd013162.global.medtronic.com
 nd078051.global.medtronic.com
 nd097024.global.medtronic.com
-www.supportiq-dev.medtronic.com
 nd083207.global.medtronic.com
 nd098014.global.medtronic.com
 nd182101.global.medtronic.com
@@ -34180,7 +34159,6 @@ nd213115.global.medtronic.com
 nd242237.global.medtronic.com
 nd199051.global.medtronic.com
 nd228077.global.medtronic.com
-www.carelink-clinical-stage3.medtronic.com
 nd063041.global.medtronic.com
 nd112090.global.medtronic.com
 nd135070.global.medtronic.com
@@ -34208,7 +34186,6 @@ nd116233.global.medtronic.com
 nd168044.global.medtronic.com
 nd104057.global.medtronic.com
 nd217063.global.medtronic.com
-www.dna-windchill.external.training.medtronic.com
 nd090127.global.medtronic.com
 nd140108.global.medtronic.com
 nd206151.global.medtronic.com
@@ -35840,7 +35817,6 @@ nd097175.global.medtronic.com
 nd013004.global.medtronic.com
 nd056220.global.medtronic.com
 nd124211.global.medtronic.com
-www.skillslab.medtronic.com
 nd134059.global.medtronic.com
 nd137134.global.medtronic.com
 nd173078.global.medtronic.com
@@ -36629,7 +36605,6 @@ nd014190.global.medtronic.com
 nd032243.global.medtronic.com
 nd054032.global.medtronic.com
 nd060230.global.medtronic.com
-marketingpdp.medtronic.com
 nd146004.global.medtronic.com
 nd143195.global.medtronic.com
 nd163210.global.medtronic.com
@@ -37392,7 +37367,7 @@ nd061139.global.medtronic.com
 nd079200.global.medtronic.com
 nd198196.global.medtronic.com
 nd20lobal.medtronic.com
-www.serviceclients.medtronic.com
+serviceclients.medtronic.com
 nd011189.global.medtronic.com
 nd156041.global.medtronic.com
 nd180128.global.medtronic.com
@@ -37698,7 +37673,7 @@ nd003034.global.medtronic.com
 nd030171.global.medtronic.com
 nd037209.global.medtronic.com
 nd077126.global.medtronic.com
-www.web.medtronic.com
+web.medtronic.com
 nd075066.global.medtronic.com
 nd160101.global.medtronic.com
 nd229106.global.medtronic.com
@@ -40156,7 +40131,6 @@ nd138074.global.medtronic.com
 nd143025.global.medtronic.com
 nd089034.global.medtronic.com
 nd218186.global.medtronic.com
-carelink-test1.medtronic.com
 nd006073.global.medtronic.com
 nd020107.global.medtronic.com
 nd086079.global.medtronic.com
@@ -41819,7 +41793,6 @@ nd046032.global.medtronic.com
 nd093063.global.medtronic.com
 nd119086.global.medtronic.com
 nd120058.global.medtronic.com
-www.myactivity.medtronic.com
 nd050018.global.medtronic.com
 nd050187.global.medtronic.com
 nd165095.global.medtronic.com
@@ -42341,7 +42314,6 @@ nd248056.global.medtronic.com
 nd051109.global.medtronic.com
 nd054061.global.medtronic.com
 nd117143.global.medtronic.com
-www.professional.medtronic.com
 nd061166.global.medtronic.com
 nd094139.global.medtronic.com
 nd147234.global.medtronic.com
@@ -43014,7 +42986,6 @@ nd144235.global.medtronic.com
 nd186237.global.medtronic.com
 nd194114.global.medtronic.com
 nd194167.global.medtronic.com
-einsteinconnect.medtronic.com
 mgnl.medtronic.com
 nd070077.global.medtronic.com
 nd132028.global.medtronic.com
@@ -43647,7 +43618,6 @@ nd036057.global.medtronic.com
 nd042121.global.medtronic.com
 nd083165.global.medtronic.com
 nd094149.global.medtronic.com
-assess-spasticity.medtronic.com
 mft5-stage.medtronic.com
 nd015243.global.medtronic.com
 nd023085.global.medtronic.com
@@ -44038,7 +44008,6 @@ nd187056.global.medtronic.com
 nd156227.global.medtronic.com
 nd157236.global.medtronic.com
 nd236049.global.medtronic.com
-mvp.medtronic.com
 nd048001.global.medtronic.com
 nd064067.global.medtronic.com
 nd110119.global.medtronic.com
@@ -44647,7 +44616,6 @@ nd020186.global.medtronic.com
 nd052080.global.medtronic.com
 nd129004.global.medtronic.com
 nd144181.global.medtronic.com
-www.education.medtronic.com
 nd087232.global.medtronic.com
 nd097028.global.medtronic.com
 nd208064.global.medtronic.com
@@ -45658,7 +45626,6 @@ nd116025.global.medtronic.com
 eurdata.medtronic.com
 nd046119.global.medtronic.com
 nd249043.global.medtronic.com
-www.supportiq.medtronic.com
 nd151190.global.medtronic.com
 nd169003.global.medtronic.com
 nd169189.global.medtronic.com
@@ -47056,7 +47023,6 @@ nd209099.global.medtronic.com
 nd213044.global.medtronic.com
 nd163082.global.medtronic.com
 nd205120.global.medtronic.com
-gihcentral.medtronic.com
 nd058102.global.medtronic.com
 nd096253.global.medtronic.com
 nd116027.global.medtronic.com
@@ -48812,7 +48778,6 @@ nd225032.global.medtronic.com
 nd008032.global.medtronic.com
 nd064209.global.medtronic.com
 nd156159.global.medtronic.com
-www.asktraining.medtronic.com
 nd132078.global.medtronic.com
 nd178100.global.medtronic.com
 nd225163.global.medtronic.com
@@ -49198,7 +49163,6 @@ nd125093.global.medtronic.com
 nd158196.global.medtronic.com
 nd060049.global.medtronic.com
 nd130030.global.medtronic.com
-www.ecgenie.medtronic.com
 nd095098.global.medtronic.com
 nd140244.global.medtronic.com
 nd227194.global.medtronic.com
@@ -51344,7 +51308,6 @@ nd115179.global.medtronic.com
 nd162221.global.medtronic.com
 nd041115.global.medtronic.com
 nd225185.global.medtronic.com
-www.carelink-clinical-test1.medtronic.com
 nd104178.global.medtronic.com
 nd113115.global.medtronic.com
 nd211149.global.medtronic.com
@@ -51403,7 +51366,7 @@ nd080215.global.medtronic.com
 nd126023.global.medtronic.com
 nd194240.global.medtronic.com
 nd197095.global.medtronic.com
-www.perfusion.medtronic.com
+perfusion.medtronic.com
 nd002200.global.medtronic.com
 nd090070.global.medtronic.com
 nd111038.global.medtronic.com
@@ -52217,7 +52180,6 @@ nd030132.global.medtronic.com
 nd199004.global.medtronic.com
 nd205236.global.medtronic.com
 nd245032.global.medtronic.com
-www.investors.medtronic.com
 nd089044.global.medtronic.com
 nd093237.global.medtronic.com
 nd103146.global.medtronic.com
@@ -53159,7 +53121,6 @@ nd168121.global.medtronic.com
 nd179218.global.medtronic.com
 nd182012.global.medtronic.com
 nd206155.global.medtronic.com
-education-staging.medtronic.com
 nd023230.global.medtronic.com
 nd039051.global.medtronic.com
 nd040237.global.medtronic.com
@@ -54364,7 +54325,6 @@ nd191099.global.medtronic.com
 nd213015.global.medtronic.com
 nd142040.global.medtronic.com
 nd172169.global.medtronic.com
-www.myactivity-test.medtronic.com
 vv-us-dr.medtronic.com
 nd092069.global.medtronic.com
 nd100155.global.medtronic.com
@@ -54406,7 +54366,7 @@ dctmmededserv-test-new.medtronic.com
 nd063242.global.medtronic.com
 nd107134.global.medtronic.com
 nd210163.global.medtronic.com
-www.portalru1.medtronic.com
+portalru1.medtronic.com
 nd058084.global.medtronic.com
 nd061033.global.medtronic.com
 nd062028.global.medtronic.com
@@ -55021,7 +54981,6 @@ nd077088.global.medtronic.com
 nd087096.global.medtronic.com
 nd181102.global.medtronic.com
 nd233210.global.medtronic.com
-carelink-stage2-next.medtronic.com
 nd162001.global.medtronic.com
 nd168028.global.medtronic.com
 nd243121.global.medtronic.com
@@ -55072,7 +55031,6 @@ nd074048.global.medtronic.com
 nd074106.global.medtronic.com
 nd139245.global.medtronic.com
 nd055040.global.medtronic.com
-talentacquisitioninterview.emea.medtronic.com
 nd142022.global.medtronic.com
 nd227002.global.medtronic.com
 nd013196.global.medtronic.com
@@ -56730,7 +56688,6 @@ nd247168.global.medtronic.com
 nd132003.global.medtronic.com
 nd136178.global.medtronic.com
 nd210114.global.medtronic.com
-carelink-clinical-stage1.medtronic.com
 nd013024.global.medtronic.com
 nd108201.global.medtronic.com
 nd115063.global.medtronic.com
@@ -56884,7 +56841,6 @@ nd099195.global.medtronic.com
 nd219246.global.medtronic.com
 nd232133.global.medtronic.com
 nd255171.global.medtronic.com
-www.carelink-stage3.medtronic.com
 nd009027.global.medtronic.com
 nd083229.global.medtronic.com
 nd152081.global.medtronic.com
@@ -57762,7 +57718,7 @@ nd137200.global.medtronic.com
 nd157215.global.medtronic.com
 nd163077.global.medtronic.com
 nd062155.global.medtronic.com
-www.pr.medtronic.com
+pr.medtronic.com
 mobile.cl-a.cldev.medtronic.com
 nd018043.global.medtronic.com
 nd082137.global.medtronic.com
@@ -58004,7 +57960,6 @@ nd133052.global.medtronic.com
 nd152155.global.medtronic.com
 nd091196.global.medtronic.com
 nd221052.global.medtronic.com
-www.pipelineportal.medtronic.com
 nd141160.global.medtronic.com
 nd185198.global.medtronic.com
 nd206089.global.medtronic.com
@@ -59091,7 +59046,6 @@ nd090115.global.medtronic.com
 nd100153.global.medtronic.com
 nd168008.global.medtronic.com
 torch-dev.medtronic.com
-www.vista.medtronic.com
 nd118248.global.medtronic.com
 nd136253.global.medtronic.com
 nd215212.global.medtronic.com
@@ -59626,7 +59580,6 @@ lshtest1.medtronic.com
 nd015148.global.medtronic.com
 nd084153.global.medtronic.com
 nd196181.global.medtronic.com
-www.talentacquisitioninterview.latam.medtronic.com
 mspremote.medtronic.com
 nd029186.global.medtronic.com
 nd030040.global.medtronic.com
@@ -61454,7 +61407,6 @@ nd140163.global.medtronic.com
 nd130052.global.medtronic.com
 nd194133.global.medtronic.com
 nd237078.global.medtronic.com
-qa.einsteinconnect.medtronic.com
 nd024223.global.medtronic.com
 nd070067.global.medtronic.com
 nd138004.global.medtronic.com
@@ -61538,7 +61490,7 @@ nd012253.global.medtronic.com
 nd108235.global.medtronic.com
 nd148142.global.medtronic.com
 nd235204.global.medtronic.com
-www.centroamericaycaribe.medtronic.com
+centroamericaycaribe.medtronic.com
 nd128011.global.medtronic.com
 nd178159.global.medtronic.com
 nd208117.global.medtronic.com
@@ -62152,7 +62104,6 @@ nd098213.global.medtronic.com
 nd099130.global.medtronic.com
 nd134163.global.medtronic.com
 nd183203.global.medtronic.com
-myorders.medtronic.com
 nd002060.global.medtronic.com
 nd028186.global.medtronic.com
 nd126140.global.medtronic.com
@@ -63457,7 +63408,6 @@ nd165121.global.medtronic.com
 nd203193.global.medtronic.com
 nd224128.global.medtronic.com
 nd250208.global.medtronic.com
-pr.medtronic.com
 nd026167.global.medtronic.com
 nd026255.global.medtronic.com
 nd129131.global.medtronic.com
@@ -63516,7 +63466,6 @@ nd065013.global.medtronic.com
 nd177055.global.medtronic.com
 nd024125.global.medtronic.com
 nd177190.global.medtronic.com
-www.concise-dev.medtronic.com
 nd012243.global.medtronic.com
 nd139195.global.medtronic.com
 nd202036.global.medtronic.com
@@ -64866,7 +64815,6 @@ developer-stage.medtronic.com
 nd055165.global.medtronic.com
 nd084010.global.medtronic.com
 nd143207.global.medtronic.com
-powerofyoupowerofus.medtronic.com
 nd040033.global.medtronic.com
 nd068150.global.medtronic.com
 nd086186.global.medtronic.com
@@ -65441,7 +65389,6 @@ nd108073.global.medtronic.com
 nd181173.global.medtronic.com
 nd185120.global.medtronic.com
 nothin104034.global.medtronic.com
-test.einsteinconnect.medtronic.com
 nd049023.global.medtronic.com
 nd049102.global.medtronic.com
 nd067056.global.medtronic.com
@@ -66084,7 +66031,6 @@ nd063048.global.medtronic.com
 nd102013.global.medtronic.com
 nd250073.global.medtronic.com
 nd254254.global.medtronic.com
-www.supportiq-qa.medtronic.com
 nd037227.global.medtronic.com
 nd102136.global.medtronic.com
 nd130169.global.medtronic.com
@@ -66115,7 +66061,6 @@ nd234011.global.medtronic.com
 nd196169.global.medtronic.com
 nd233199.global.medtronic.com
 nd244228.global.medtronic.com
-carelink-stage1.medtronic.com
 nd070089.global.medtronic.com
 nd116098.global.medtronic.com
 nd151182.global.medtronic.com
@@ -66688,7 +66633,6 @@ nd197050.global.medtronic.com
 nd215255.global.medtronic.com
 nd175223.global.medtronic.com
 docker-prod-virtual.artifacts.medtronic.com
-erp.medtronic.com
 imaging-ui-test.digitalhealth.medtronic.com
 nd065202.global.medtronic.com
 recognize.medtronic.com
@@ -66732,7 +66676,6 @@ nd219101.global.medtronic.com
 nd230044.global.medtronic.com
 nd065034.global.medtronic.com
 nd197062.global.medtronic.com
-www.sutureacademy.medtronic.com
 nd013217.global.medtronic.com
 nd026193.global.medtronic.com
 nd141162.global.medtronic.com
@@ -66844,7 +66787,6 @@ nd172134.global.medtronic.com
 nd041061.global.medtronic.com
 nd112101.global.medtronic.com
 nd206242.global.medtronic.com
-www.missioninmotion.medtronic.com
 navcode-dev.medtronic.com
 nd035056.global.medtronic.com
 nd132226.global.medtronic.com

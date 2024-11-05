@@ -90,7 +90,6 @@ circleci-to-gha-backend.my.uat.cluster.aven.com
 circleci-to-gha-backend.notary.uat.cluster.aven.com
 fftr-ul-parametrized.crypto.uat.cluster.aven.com
 suppressionlogicupdate.app.uat.cluster.aven.com
-www.aven.com
 go.aven.com
 praneeth-2pc-fees-7.notary.uat.cluster.aven.com
 upgrade-cypress-v10.notary.uat.cluster.aven.com
@@ -175,7 +174,7 @@ external-logging-ingress-for-frontend.my.uat.cluster.aven.com
 fix-dialpad-ig-tests-on-test.notary.uat.cluster.aven.com
 flaky-cypress-tests-fixes.crypto.uat.cluster.aven.com
 waitlist.aven.com
-www.my.aven.com
+my.aven.com
 hostmaster.mx._dmarc.mx.aven.com
 replace-pdf-library-docker.auto.uat.cluster.aven.com
 update-messaging.notary.uat.cluster.aven.com
@@ -244,7 +243,6 @@ plaid2.notary.uat.cluster.aven.com
 python-perf.notary.uat.cluster.aven.com
 rest-of-auto-uw-response.auto.uat.cluster.aven.com
 uat.app.uat.cluster.aven.com
-my.aven.com
 font.app.uat.cluster.aven.com
 legacy-ingress-redirect.aven.uat.cluster.aven.com
 github-ig-check-improvements-part1.notary.uat.cluster.aven.com
@@ -354,7 +352,6 @@ scim.aven.com
 uat.aven.com
 aven.istio.uat.cluster.aven.com
 fix-co-owner-page.notary.uat.cluster.aven.com
-www.prod.aven.com
 tax-free-policy.aven.uat.cluster.aven.com
 xuemeiliu-noi-reasons.app.uat.cluster.aven.com
 praneeth-2pc-fees-7.aven.uat.cluster.aven.com
@@ -384,9 +381,8 @@ stable-notary.logs.uat.cluster.aven.com
 advisor.uat.cluster.aven.com
 ak.app.uat.cluster.aven.com
 develop.notary.uat.cluster.aven.com
-www.test.aven.com
+test.aven.com
 test.my.uat.cluster.aven.com
-www.uat.aven.com
 josh.crypto.uat.cluster.aven.com
 njoung.notary.uat.cluster.aven.com
 score.aven.com
@@ -430,7 +426,6 @@ master.aven.uat.cluster.aven.com
 notary-testing.my.uat.cluster.aven.com
 use-pypy.my.uat.cluster.aven.com
 vitalmatch.aven.com
-test.aven.com
 advisor.istio.cluster.aven.com
 circleci-to-gha-backend.aven.uat.cluster.aven.com
 suppressionlogicupdate.auto.uat.cluster.aven.com
@@ -556,7 +551,6 @@ cypress-known-ips.my.uat.cluster.aven.com
 k8s-logz.aven.test.cluster.aven.com
 messaging-changes.app.uat.cluster.aven.com
 store-document-versions.crypto.uat.cluster.aven.com
-www.staging.aven.com
 crypto.aven.com
 coownerstatus.aven.uat.cluster.aven.com
 my.istio.uat.cluster.aven.com

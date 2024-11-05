@@ -6,7 +6,7 @@ dl.rca.fr
 addictill.beta.rca.fr
 espaceclient.rca.fr
 connect.beta.rca.fr
-www.analytics.rca.fr
+analytics.rca.fr
 nouveautesmeg.rca.fr
 e-services.rca.fr
 cloud4.rca.fr
@@ -33,12 +33,10 @@ captation.beta.rca.fr
 web-services.rca.fr
 connexiongagnante.rca.fr
 connect.meg.sandbox.rca.fr
-www.rca.fr
 sms.emailing.rca.fr
 questionnaire.rca.fr
 meg.sandbox.rca.fr
 megsupervision.rca.fr
-analytics.rca.fr
 caisse.rca.fr
 mcae.rca.fr
 r.mailing.rca.fr
@@ -93,7 +91,6 @@ sekoia.beta.rca.fr
 visio.rca.fr
 ien.rca.fr
 c7.beta.rca.fr
-www.cdn.rca.fr
 org.opensearch.performanceanalyzer.rca.fr
 beta-k8s.rca.fr
 backupcloud1.rca.fr

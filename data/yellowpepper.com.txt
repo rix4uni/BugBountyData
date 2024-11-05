@@ -31,13 +31,12 @@ cde-profiling.transfers-non-prod.yellowpepper.com
 oracle.yellowpepper.com
 credibancostg-admin.mp.yellowpepper.com
 forbes.yellowpepper.com
-www.k8.yellowpepper.com
+k8.yellowpepper.com
 visa-pen-test-cde.yellowpepper.com
 stg.yellowpepper.com
 dartz.yellowpepper.com
 cde-lt-ip-monitoring.transfers-non-prod.yellowpepper.com
 idp-admin.yepex.yellowpepper.com
-k8.yellowpepper.com
 cd-webhooks.yellowpepper.com
 ads-eu.yellowpepper.com
 code-quality-api.unicomer-non-prod.yellowpepper.com
@@ -162,7 +161,6 @@ yepex-cde-monitoring.yellowpepper.com
 staging.yellowpepper.com
 support.yellowpepper.com
 api.yellowpepper.com
-www.yellowpepper.com
 code-quality.transfers-non-prod.yellowpepper.com
 nexus.mp.yellowpepper.com
 unicomer-cr-burn-in.yellowpepper.com
@@ -559,7 +557,7 @@ prod.0-groups2p-cde-load-test.yellowpepper.com
 0-166mp.yellowpepper.com
 0-106mp.yellowpepper.com
 0--jsc.yellowpepper.com
-www.0-marescalnet.yellowpepper.com
+0-marescalnet.yellowpepper.com
 0-compositeplot.yellowpepper.com
 yepex.0-214.yellowpepper.com
 0.0-l2p-noncde-migration.yellowpepper.com
@@ -577,7 +575,7 @@ statping-ts3.torontodc.eth0.0-apache.yellowpepper.com
 0--eu-central-1.yellowpepper.com
 0--klmzmi.yellowpepper.com
 pendik1.0-client.yellowpepper.com
-www.0-9-atelier.yellowpepper.com
+0-9-atelier.yellowpepper.com
 0.0-connect.yellowpepper.com
 0--nb.yellowpepper.com
 0-192.yellowpepper.com
@@ -678,7 +676,7 @@ pc4.crr01mrqtmi.gbe.9.0.0-mp.yellowpepper.com
 0-_3.yellowpepper.com
 cts03olvemo.tge-nstatichost-211.1.0.0-client.yellowpepper.com
 0-cbsi.yellowpepper.com
-www.k8.0-e.yellowpepper.com
+k8.0-e.yellowpepper.com
 0-bo.yellowpepper.com
 0-lagr.yellowpepper.com
 di.0-cts01hgtnmi.yellowpepper.com
@@ -705,7 +703,7 @@ net.lerman-altairtest.prod.0-l2p-dev.yellowpepper.com
 0-7o.yellowpepper.com
 web1103ds2.blogs.db.test.0-mail.yellowpepper.com
 0-2s.yellowpepper.com
-www.0-90.yellowpepper.com
+0-90.yellowpepper.com
 0-gqx.yellowpepper.com
 0-1mp.yellowpepper.com
 0-advertorials.yellowpepper.com
@@ -724,7 +722,7 @@ tampa-statichost-187.0-cof-dev.yellowpepper.com
 0-mtls.yellowpepper.com
 unicomer-dev-tt.0-93.yellowpepper.com
 hirer.glendale.0-developer.yellowpepper.com
-www.0-b.yellowpepper.com
+0-b.yellowpepper.com
 regina.serial4crr01mrqtmi.0.0-client.yellowpepper.com
 blogs.app.test.0-art2oredr.yellowpepper.com
 0-cairfndvs.yellowpepper.com
@@ -892,7 +890,7 @@ prod.0-groupsmp.yellowpepper.com
 kitchens-zebra.0-cof-vault-stg.yellowpepper.com
 0-2-0-0.yellowpepper.com
 bx3-torontoxn.0-3-0-1.yellowpepper.com
-www.https-instabridge-com-05.0-cof-monitoring.yellowpepper.com
+https-instabridge-com-05.0-cof-monitoring.yellowpepper.com
 0--dhcp-bl.yellowpepper.com
 tcore3-calgaryqa.0-8-5-0.yellowpepper.com
 0--s.yellowpepper.com
@@ -1258,7 +1256,6 @@ mp.0-101.yellowpepper.com
 0--mia.yellowpepper.com
 0--mirror.yellowpepper.com
 yepex.serial4.0.0-consumer.yellowpepper.com
-0-90.yellowpepper.com
 0-7-concourse-v2.yellowpepper.com
 0-fhs.yellowpepper.com
 0-103.yellowpepper.com
@@ -1302,7 +1299,7 @@ serial4.education-0.0-mp.yellowpepper.com
 0.0-cdn.yellowpepper.com
 0--mtnl.yellowpepper.com
 concourse-v2di.0-cts01hgtnmi.yellowpepper.com
-www.www-4.0-client.yellowpepper.com
+www-4.0-client.yellowpepper.com
 0-library.yellowpepper.com
 0-bmc-lib.yellowpepper.com
 0-alpe.yellowpepper.com
@@ -1612,7 +1609,7 @@ ad1.advertorials.0-aws.yellowpepper.com
 net.plano.lerman.prod.0-cof-dev.yellowpepper.com
 classic.0-linux2unicomer-stg-cr.yellowpepper.com
 0.0-b.yellowpepper.com
-www.0-6packabs.yellowpepper.com
+0-6packabs.yellowpepper.com
 9.0.0-cust79.yellowpepper.com
 0-c-ypvc03.yellowpepper.com
 0.0-durofelguera.yellowpepper.com
@@ -1682,7 +1679,7 @@ web.blogs.db.test.0-nena105.yellowpepper.com
 hirer.0-ilb000sso2-travelstg.yellowpepper.com
 0-3-staticyp02.yellowpepper.com
 l2p-load-testserial4.0.0-consumer.yellowpepper.com
-www.0-91.yellowpepper.com
+0-91.yellowpepper.com
 0-cde-migration.yellowpepper.com
 0.0-adslgp.yellowpepper.com
 0-52client.yellowpepper.com
@@ -1878,7 +1875,6 @@ web.blogs.db.test.statichost-151.0-client.yellowpepper.com
 0-esajournals.yellowpepper.com
 0.0-ipv4.yellowpepper.com
 0-eex.yellowpepper.com
-www.0-93.yellowpepper.com
 dhcp-hotel-wired-9-3a-meeting.0.0-09.yellowpepper.com
 0-api-salesforce.yellowpepper.com
 0-7l.yellowpepper.com
@@ -1980,7 +1976,7 @@ tcore4-vancouver.0-0-0-3.yellowpepper.com
 0-descargas.yellowpepper.com
 0--bgk.yellowpepper.com
 0-et.yellowpepper.com
-www.ethon.0-dev.yellowpepper.com
+ethon.0-dev.yellowpepper.com
 0-docs.yellowpepper.com
 0--vault-l2p-cde-load-test.yellowpepper.com
 0.0-237.yellowpepper.com
@@ -2009,7 +2005,7 @@ mp.0-54.yellowpepper.com
 cof-monitoring.0-b-system.yellowpepper.com
 mpemp.0-mail500.yellowpepper.com
 0--2009.yellowpepper.com
-www.0-marescalcom.yellowpepper.com
+0-marescalcom.yellowpepper.com
 0-mixbdr01.yellowpepper.com
 0-itergateway-org.yellowpepper.com
 0--nespresso.yellowpepper.com
@@ -2020,7 +2016,7 @@ www.0-marescalcom.yellowpepper.com
 0--internode.yellowpepper.com
 0-kl.yellowpepper.com
 0-i6.yellowpepper.com
-www.0-o-0.yellowpepper.com
+0-o-0.yellowpepper.com
 0-97.yellowpepper.com
 0-35.yellowpepper.com
 0-n5.yellowpepper.com
@@ -2169,7 +2165,6 @@ ts3.astorontodc.eth0.0-client.yellowpepper.com
 0.0-blueyonder.yellowpepper.com
 0-cust54.0-client.yellowpepper.com
 0-jfl.yellowpepper.com
-www.0-defect-dojo.yellowpepper.com
 0-irmt.yellowpepper.com
 0-helloworld.yellowpepper.com
 0-etb.yellowpepper.com
@@ -2253,7 +2248,7 @@ dis14-calgaryqa.0-0-0.yellowpepper.com
 0-eu-west-3.yellowpepper.com
 hirer.0-delivery.yellowpepper.com
 0--july.yellowpepper.com
-www.0-mp3.yellowpepper.com
+0-mp3.yellowpepper.com
 0-developer.yellowpepper.com
 0.0-hw.yellowpepper.com
 0-hos.yellowpepper.com
@@ -2346,7 +2341,6 @@ prod.0-groupscof-tools.yellowpepper.com
 0.0-3.yellowpepper.com
 0-cmts01.yellowpepper.com
 0-ii.yellowpepper.com
-0-mp3.yellowpepper.com
 1nenterpriseenrollment.0.0-mp.yellowpepper.com
 yellowpepper.com.0-152.yellowpepper.com
 imt.blogs.app.sipproxy8.0-client.yellowpepper.com
@@ -2413,7 +2407,7 @@ sjc.yellowpepper.com
 0-0-6.yellowpepper.com
 0-hvault-unicomer-dev.yellowpepper.com
 0-bra.yellowpepper.com
-www.0-logic-worxcom.yellowpepper.com
+0-logic-worxcom.yellowpepper.com
 0-kej.yellowpepper.com
 0-edge.yellowpepper.com
 0--ts31.yellowpepper.com
@@ -2428,7 +2422,6 @@ static.cld.0-dev.yellowpepper.com
 0-cz.yellowpepper.com
 0-0-0-3.yellowpepper.com
 0-dba.yellowpepper.com
-0-91.yellowpepper.com
 web.blogs.db.myhealth-test.0-client.yellowpepper.com
 0-_x.yellowpepper.com
 0-apiseo2.yellowpepper.com
@@ -2539,7 +2532,7 @@ netoppofindautomatticent.redirectme.netoppofind.0-metric0.yellowpepper.com
 0-now.yellowpepper.com
 0--shv.yellowpepper.com
 0-208-cof-stg.yellowpepper.com
-www.https-www-buzzfeed-com7-8.0-cof-dev.yellowpepper.com
+https-www-buzzfeed-com7-8.0-cof-dev.yellowpepper.com
 imt.blogs.app.test.0-intranetstaticyp01.yellowpepper.com
 0-a01.yellowpepper.com
 0-6q.yellowpepper.com
@@ -2662,7 +2655,7 @@ origin-payment-test-zebra.0-client.yellowpepper.com
 0-index.yellowpepper.com
 nstatichost-160.di.0-l2p-dev.yellowpepper.com
 0-6r.yellowpepper.com
-www.0-4.yellowpepper.com
+0-4.yellowpepper.com
 0-not-set-yet.yellowpepper.com
 cxportaddon.0-client.yellowpepper.com
 0-bpmeta1-parse.yellowpepper.com
@@ -2870,7 +2863,7 @@ vault-unicomer-stg.imt.blogs.app.test.0-intranet.yellowpepper.com
 0--2012.yellowpepper.com
 0-nber.yellowpepper.com
 0.0-9.yellowpepper.com
-www.https-instabridge-com-05.0-l2p-dev.yellowpepper.com
+https-instabridge-com-05.0-l2p-dev.yellowpepper.com
 ztest1.0-autodiscover.yellowpepper.com
 0-music.yellowpepper.com
 rds.yellowpepper.com
@@ -2975,7 +2968,6 @@ mp.0-8.yellowpepper.com
 0-cfcy.yellowpepper.com
 0--mco.yellowpepper.com
 0.0-fwd.yellowpepper.com
-www.0-8-0.yellowpepper.com
 0.0-10.yellowpepper.com
 0-ib.yellowpepper.com
 client.0-139.yellowpepper.com
@@ -3082,7 +3074,6 @@ vault-l2p-load-test.0-f.yellowpepper.com
 0-dl1.yellowpepper.com
 0-l-client.yellowpepper.com
 sitsevision-9.0.0-cof-dev.yellowpepper.com
-www.0-client.yellowpepper.com
 0-mp.yellowpepper.com
 0--customers.yellowpepper.com
 0.0-mw.yellowpepper.com
@@ -3252,7 +3243,7 @@ saidani095.0-musicdvd.yellowpepper.com
 0-m0.yellowpepper.com
 0-hr.yellowpepper.com
 0-arlington-domain.yellowpepper.com
-www.0--c.yellowpepper.com
+0--c.yellowpepper.com
 0-corp-eur.yellowpepper.com
 statichost-240a2.0-cof-monitoring.yellowpepper.com
 0-message.yellowpepper.com
@@ -3290,9 +3281,7 @@ i5.0-mailgate5.yellowpepper.com
 l2p-qa-afp-noncdedi.0-cts01hgtnmi.yellowpepper.com
 0-e4.yellowpepper.com
 0-242.yellowpepper.com
-0-4.yellowpepper.com
 0-literature.yellowpepper.com
-www.0-mp.yellowpepper.com
 0-esajournals-org.yellowpepper.com
 oscar.yellowpepper.com
 0-25-yepexmestaging.yellowpepper.com
@@ -3344,7 +3333,7 @@ vault-l2p-stg.0-j.yellowpepper.com
 mysqladmin.yellowpepper.com
 0-2-balgat-ypvc02.yellowpepper.com
 0-jrg.yellowpepper.com
-www.0-kenmin.yellowpepper.com
+0-kenmin.yellowpepper.com
 0-cq.yellowpepper.com
 0--credibanco.yellowpepper.com
 0--arc.yellowpepper.com
@@ -3404,7 +3393,7 @@ classic.0-eng01.yellowpepper.com
 0.0-cardnetstg.yellowpepper.com
 0-bod.yellowpepper.com
 w9.0-mso.yellowpepper.com
-www.http-m-wattpad-com-45.0-cof-dev.yellowpepper.com
+http-m-wattpad-com-45.0-cof-dev.yellowpepper.com
 0-cm.yellowpepper.com
 0-gbu.yellowpepper.com
 0-6t.yellowpepper.com
@@ -3414,7 +3403,6 @@ client.0-d.yellowpepper.com
 vault-l2p-cde-load-test.0-5.yellowpepper.com
 l2p-afp-cdeimt.blogs.app.test.0-intranet.yellowpepper.com
 0-het.yellowpepper.com
-www.0-60quartermiletimes.yellowpepper.com
 0-kjz.yellowpepper.com
 0.0-cof-cde-monitoring.yellowpepper.com
 0-eenews-net.yellowpepper.com
@@ -3581,7 +3569,7 @@ luna.yellowpepper.com
 0.0-ded.yellowpepper.com
 0.0-16.yellowpepper.com
 0-hqc.yellowpepper.com
-www.02.0-k8.yellowpepper.com
+02.0-k8.yellowpepper.com
 web.ao-blogs.db.test.0-client.yellowpepper.com
 prod.0-accalia.yellowpepper.com
 0-163-plin.yellowpepper.com
@@ -3642,7 +3630,6 @@ k8di.0-cts01hgtnmi.yellowpepper.com
 0-2client.yellowpepper.com
 wc.yellowpepper.com
 0-austin.yellowpepper.com
-0--c.yellowpepper.com
 0-dlls.yellowpepper.com
 ts3.torontodc.coldfusion.eth0.0-concourse-v2.yellowpepper.com
 0-123456789.yellowpepper.com
@@ -3741,7 +3728,6 @@ tcore3-newyorkaa.0-0-0-2.yellowpepper.com
 0-57k8.yellowpepper.com
 0-ar01.yellowpepper.com
 unauthorized43.0-1738540095.yellowpepper.com
-0-6packabs.yellowpepper.com
 0--optusnet.yellowpepper.com
 0-51.yellowpepper.com
 0--tm.yellowpepper.com
@@ -3785,7 +3771,6 @@ blogs.app.sliapi-2.test.0-cof-vault-dev.yellowpepper.com
 0-88vault-l2p-stg.yellowpepper.com
 t3.1.0-mailgate4.yellowpepper.com
 polls.0.0-cof-dev.yellowpepper.com
-0-9-atelier.yellowpepper.com
 0.0-amedd.yellowpepper.com
 cts42ftwotxcrr01mrqtmi.gbe.9.0.0-mp.yellowpepper.com
 0-n0.yellowpepper.com
@@ -3894,7 +3879,6 @@ unicomer-dev-tt.0-f.yellowpepper.com
 0-cof-tools.yellowpepper.com
 0-e5.yellowpepper.com
 0.0-mco.yellowpepper.com
-0-marescalcom.yellowpepper.com
 0-c1.yellowpepper.com
 0.0-bna.yellowpepper.com
 0-106.yellowpepper.com
@@ -3949,7 +3933,6 @@ kids.yellowpepper.com
 0-mxbox.yellowpepper.com
 tcore4-calgaryqa.0-1-0-1.yellowpepper.com
 0--stage1.yellowpepper.com
-www.0-20.yellowpepper.com
 0-nwld-alexanderstreet.yellowpepper.com
 0--n.yellowpepper.com
 0-_e.yellowpepper.com
@@ -4037,8 +4020,7 @@ yepex-cdeimt.blogs.app.test.0-intranet.yellowpepper.com
 0.0-iern.yellowpepper.com
 0-mdfd.yellowpepper.com
 0-27k2p-afp-noncde.yellowpepper.com
-www.0-11235.yellowpepper.com
-0-marescalnet.yellowpepper.com
+0-11235.yellowpepper.com
 0--o.yellowpepper.com
 0-lon-salesforce.yellowpepper.com
 0-7p.yellowpepper.com
@@ -4190,7 +4172,6 @@ gbe.4library2.1.0-mp.yellowpepper.com
 0-154.yellowpepper.com
 cts42ftwotx.gbe.4.tcore31.0-cof-vault-dev.yellowpepper.com
 0-20mp.yellowpepper.com
-www.0-de.yellowpepper.com
 0-153.yellowpepper.com
 di.0-cts01hgtnmi-status.yellowpepper.com
 0-in.yellowpepper.com
@@ -4217,7 +4198,7 @@ blogs.db.test.beykop.0-concourse-v2.yellowpepper.com
 rxv.6.0-09.yellowpepper.com
 0-741946991.yellowpepper.com
 9.0.0-corpjira.yellowpepper.com
-www.0-cdn.yellowpepper.com
+0-cdn.yellowpepper.com
 0-8ng.yellowpepper.com
 0-197-vault-tools.yellowpepper.com
 0-a4.yellowpepper.com
@@ -4325,7 +4306,6 @@ cof-devclassic.0-linux2.yellowpepper.com
 0-au.yellowpepper.com
 0-12.yellowpepper.com
 0.0-2.yellowpepper.com
-www.0-cof-dev.yellowpepper.com
 os.yellowpepper.com
 0-_l.yellowpepper.com
 0-gr.yellowpepper.com
@@ -4499,7 +4479,7 @@ vault-l2p-dev.0-d.yellowpepper.com
 0-l2p-afp-noncde.yellowpepper.com
 0--cae.yellowpepper.com
 unicomer-stg-cr.0-106.yellowpepper.com
-www.0-ds3.yellowpepper.com
+0-ds3.yellowpepper.com
 0--ipt.yellowpepper.com
 0-cvault-l2p-load-test.yellowpepper.com
 ssl01statichost198.0-client.yellowpepper.com
@@ -4520,7 +4500,6 @@ cof-cde-monitoring.0-93.yellowpepper.com
 web.blogs-corona.db.test.0-cof-dev.yellowpepper.com
 0-ie.yellowpepper.com
 0-mms.yellowpepper.com
-0-logic-worxcom.yellowpepper.com
 0--mi.yellowpepper.com
 0.0-dc.yellowpepper.com
 0-mxsm.yellowpepper.com
@@ -4705,7 +4684,7 @@ cts04stbrga-a2.0-concourse.yellowpepper.com
 www-net.0-k8.yellowpepper.com
 0-america.yellowpepper.com
 0--pass.yellowpepper.com
-www.02.0-concourse.yellowpepper.com
+02.0-concourse.yellowpepper.com
 0-gc.yellowpepper.com
 0-fab3-1-gdc.yellowpepper.com
 0.0-calendar.yellowpepper.com
@@ -4759,7 +4738,7 @@ dis22-vancouver.0-0-0.yellowpepper.com
 0--ipltin.yellowpepper.com
 0-idm.yellowpepper.com
 0-cdlc.yellowpepper.com
-www.k8.0-f.yellowpepper.com
+k8.0-f.yellowpepper.com
 c-g6.0.6.0-09.yellowpepper.com
 cardnetstg-mcs.0-mp.yellowpepper.com
 0-29.yellowpepper.com
@@ -4829,7 +4808,6 @@ design.test.it.3.0-developer.yellowpepper.com
 0.0-cicril.yellowpepper.com
 0-fab8.yellowpepper.com
 dis5.regina-1-tuzla.serial4.0.0-cof-tools.yellowpepper.com
-www.0-k8.yellowpepper.com
 0-kc.yellowpepper.com
 rtr03.ge.2.1.0-npaymenthub.yellowpepper.com
 0-g-a.yellowpepper.com
@@ -4837,7 +4815,6 @@ rtr03.ge.2.1.0-npaymenthub.yellowpepper.com
 0-108.yellowpepper.com
 0-hrvr.yellowpepper.com
 0.0-fibertel.yellowpepper.com
-0-cdn.yellowpepper.com
 l2p-noncde-migration.0-8.yellowpepper.com
 0-mergentonline-com.yellowpepper.com
 0-internalkb.yellowpepper.com
@@ -4866,6 +4843,3 @@ support0-6.telkomsel.0-l2p-load-test.yellowpepper.com
 tampa.digitalcareers.0-l2p-cde-load-test.yellowpepper.com
 0-introductionpython.yellowpepper.com
 0-linguisticsabstracts-com.yellowpepper.com
-*.ads-eu-non-prod.yellowpepper.com
-*.yellowpepper.com
-*.ads-eu.yellowpepper.com

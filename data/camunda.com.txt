@@ -194,8 +194,7 @@ marketplace.camunda.com
 smart.camunda.com
 atlas.camunda.com
 ccon.camunda.com
-www.test.camunda.com
-www.camunda.com
+test.camunda.com
 ldap-main.camunda.com
 fox.camunda.com
 cntest.int.camunda.com
@@ -209,7 +208,6 @@ dns.camunda.com
 hq2.camunda.com
 dns2.camunda.com
 app-unsecure.camunda.com
-www.artifacts.camunda.com
 flightright.camunda.com
 playgroundint.camunda.com
 stage.ci-monitor.int.camunda.com
@@ -227,9 +225,7 @@ jira-upgrade-test.camunda.com
 survey.camunda.com
 ssgtm.camunda.com
 io.camunda.com
-test.camunda.com
 jira-casestudy-2.camunda.com
-www.certification.camunda.com
 dev.ci-eks-opencost.monitor.int.camunda.com
 mx.camunda.com
 vm4.camunda.com

@@ -26,9 +26,9 @@ ip-206-124-203-2.static.ean.com
 lyncdiscover.ean.com
 jingchengzhenrenyule.517lc.ean.com
 my.ean.com
-www.shaboink.ean.com
+shaboink.ean.com
 devsecure.ean.com
-www.secure.ean.com
+secure.ean.com
 analytics.ean.com
 staging.ean.com
 mx.mx._dmarc.ean.com
@@ -49,7 +49,7 @@ awin.ean.com
 cardiocity112.ean.com
 pay-test.ean.com
 affiliate-lookup.ean.com
-www.newapi.ean.com
+newapi.ean.com
 resources.ean.com
 us-west-2.prod.ean.com
 geography-srai.staging.ean.com
@@ -62,7 +62,7 @@ amenity-checker-internal.secure.ean.com
 sure.ean.com
 surebook.stable.ean.com
 origin-api.ch.ean.com
-www.interlockna.com.ean.com
+interlockna.com.ean.com
 atlas.ean.com
 dev.ean.com
 mybookings.ean.com
@@ -71,13 +71,10 @@ beanstalkinnovations.ean.com
 support.ean.com
 partnerconnect.ean.com
 host.isportstv.ean.com
-www.developer.ean.com
 labs.ean.com
 amenity-checker.secure.ean.com
 api.ean.com
-www.ean.com
 averages.ean.com
-secure.ean.com
 geography-v3-1.staging.ean.com
 test.ean.com
 widgets.ean.com
@@ -86,7 +83,6 @@ beta.sure.ean.com
 mvt-service.ean.com
 in1431.tmobatt.ean.com
 gds-cloud.ean.com
-www.dev.ean.com
 cr-test.ean.com
 surebook.staging.ean.com
 webdisk.ean.com
@@ -99,13 +95,9 @@ mirrors.ean.com
 geo-service.ean.com
 amenity-checker-internal.staging.ean.com
 console.ean.com
-www.devsecure.ean.com
 api.ch.ean.com
 cr-pay.ean.com
 cr-pay-test.ean.com
-*.staging.ean.com
-*.ean.com
-*.us-west-2.prod.ean.com
 rpcs.ean.com
 aws.ean.com
 deals.ean.com
@@ -120,9 +112,8 @@ zendesk3.ean.com
 zendesk4.ean.com
 kanaweb.ean.com
 merchandising.ean.com
-newapi.ean.com
 prod.appd.ean.com
 studio.ean.com
-www.dec.ac.ean.com
-www.edu.ean.com
+dec.ac.ean.com
+edu.ean.com
 redbusprimarydns.ean.com

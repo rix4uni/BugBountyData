@@ -1,6 +1,5 @@
-*.myfitnesspal.com
-*.dev.myfitnesspal.com
-*.integ.myfitnesspal.com
+dev.myfitnesspal.com
+integ.myfitnesspal.com
 abby.myfitnesspal.com
 account-billing.myfitnesspal.com
 acp.myfitnesspal.com
@@ -41,7 +40,6 @@ content.myfitnesspal.com
 cozyearth.myfitnesspal.com
 crimesalad.myfitnesspal.com
 demo.myfitnesspal.com
-dev.myfitnesspal.com
 device-activator-api.myfitnesspal.com
 dnd.myfitnesspal.com
 dunk.myfitnesspal.com
@@ -82,7 +80,6 @@ images.myfitnesspal.com
 impact.myfitnesspal.com
 impact2.myfitnesspal.com
 instacart.myfitnesspal.com
-integ.myfitnesspal.com
 itchy.myfitnesspal.com
 jandh.myfitnesspal.com
 jazminegarcia.myfitnesspal.com
@@ -170,8 +167,6 @@ wellnesspet.myfitnesspal.com
 whitehouseprogram.myfitnesspal.com
 withings.myfitnesspal.com
 wmma.myfitnesspal.com
-www.myfitnesspal.com
-www.blog.myfitnesspal.com
 yt.myfitnesspal.com
 zoeunlimited.myfitnesspal.com
 bz1470.e.blog.myfitnesspal.com
