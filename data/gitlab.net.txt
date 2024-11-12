@@ -5774,3 +5774,5 @@ renovate-helm-2-x.teleport.gitlab.net
 renovate-terraform-1-x.teleport.gitlab.net
 resource-order.teleport.gitlab.net
 terminate-okta-file.teleport.gitlab.net
+22new-sentry.gitlab.net
+logs.gitlab.net

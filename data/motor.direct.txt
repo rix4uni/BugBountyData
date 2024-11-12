@@ -21,3 +21,4 @@ leftaxis.stepper.motor.direct
 _z.motor.direct
 rightaxis.motorgearboxencoder.motor.direct
 sys.camera.motor.direct
+demo.motor.direct

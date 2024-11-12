@@ -13,3 +13,6 @@ state.spu.ch1.sweep.co
 self.sweep.co
 at.sweep.co
 committee.nova.atom.sweep.co
+cfg.wandb.sweep.co
+spu.ch1.sweep.co
+committee.nova.mods.atom.sweep.co

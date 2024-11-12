@@ -531,3 +531,7 @@ _mta-sts.in2-imap.fastmail.com
 _dmarc.in2-imap.fastmail.com
 pops-proxy.fastmail.com
 _dmarc.fastmail.com
+bay10-f23.bay10.fastmail.com
+dwin.fastmail.com
+smtp-proxy.fastmail.com
+imap-proxy.fastmail.com

@@ -74,3 +74,17 @@ app.qa.drata.com
 admin-failover.eu.drata.com
 integration-oauth.drata.com
 admin.dev.drata.com
+agent.drata.com
+ns1.drata.com
+email.gh-mail.drata.com
+idp.drata.com
+agent.eu.drata.com
+api.qa.drata.com
+public-api.drata.com
+agent.qa.drata.com
+amp.drata.com
+downloads.drata.com
+trust.cname.drata.com
+cdn.drata.com
+api.drata.com
+public-api.eu.drata.com

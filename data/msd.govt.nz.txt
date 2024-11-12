@@ -2427,3 +2427,13 @@ ite.ciam-realme-client-sl.dev.msd.govt.nz
 identity.perf.az.msd.govt.nz.az.msd.govt.nz
 ite.ciam-realme-client-wi.dev.msd.govt.nz
 cloudfront-test-test.awstest.msd.govt.nz
+engage.msd.govt.nz
+identity.uat.az.msd.govt.nz.az.msd.govt.nz
+dev-cms-vis-api-external.atfl.msd.govt.nz
+pre-prod-cms-vis-api-external.atfl.msd.govt.nz
+uat-cms-vis-api-external.atfl.msd.govt.nz
+test-apimgmt.int-npe.msd.govt.nz
+identity.msd.govt.nz
+test.int.msd.govt.nz
+train-cms-vis-api-external.atfl.msd.govt.nz
+test-apigw.int-npe.msd.govt.nz

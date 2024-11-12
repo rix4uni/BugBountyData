@@ -8,3 +8,12 @@ grafana.catio.network
 aaas.dyn.catio.network
 tabby.catio.network
 zabbix.catio.network
+authentik.catio.network
+mail.catio.network
+dashboard.svc.tangent.catio.network
+li.catio.network
+cactus.catio.network
+hu60-us1.node.catio.network
+social.catio.network
+neko.catio.network
+mastodon.catio.network

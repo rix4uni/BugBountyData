@@ -1026,3 +1026,9 @@ qa-webhooks-global-fsyd1.stripe.com
 qa-webhooks-global-fpdx2.stripe.com
 webhooks-global-fnrt1.stripe.com
 partner-global-fsin2.stripe.com
+intl.stripe.com
+qa-bfcm.stripe.com
+bfcm.stripe.com
+infra.stripe.com
+k8s.stripe.com
+i.stripe.com

@@ -88,3 +88,7 @@ pypiserver.raspberrypi.com
 connect-assets-ec41ad75.raspberrypi.com
 testb2bstore.raspberrypi.com
 magazines-assets-staging.raspberrypi.com
+turn3.raspberrypi.com
+cloudfront.raspberrypi.com
+auth.raspberrypi.com
+wireframe-production.raspberrypi.com

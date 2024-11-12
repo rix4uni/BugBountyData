@@ -48,3 +48,10 @@ synology.plugin-alliance.com
 am.plugin-alliance.com
 r199.mail.plugin-alliance.com
 ftp.plugin-alliance.com
+default._domainkey.plugin-alliance.com
+msoid.plugin-alliance.com
+_sipfederationtls._tcp.plugin-alliance.com
+lyncdiscover.plugin-alliance.com
+_dmarc.plugin-alliance.com
+sip.plugin-alliance.com
+_sip._tls.plugin-alliance.com

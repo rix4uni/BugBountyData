@@ -41,3 +41,5 @@ sgmtapi.missiveapp.com
 pm-bounces.missiveapp.com
 downloads.missiveapp.com
 attachments-1.missiveapp.com
+_dmarc.missiveapp.com
+cm._domainkey.missiveapp.com

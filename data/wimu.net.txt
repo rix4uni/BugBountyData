@@ -2,3 +2,6 @@ fallback.wimu.net
 ns2.wimu.net
 mail.wimu.net
 ns1.wimu.net
+smtp.wimu.net
+pop.wimu.net
+ftp.wimu.net

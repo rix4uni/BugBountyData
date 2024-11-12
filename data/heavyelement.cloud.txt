@@ -12,3 +12,6 @@ vault.heavyelement.cloud
 nx.heavyelement.cloud
 auth.heavyelement.cloud
 autoconfig.heavyelement.cloud
+autodiscover.heavyelement.cloud
+mta-sts.heavyelement.cloud
+crm.heavyelement.cloud

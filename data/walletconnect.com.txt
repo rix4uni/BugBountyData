@@ -142,3 +142,8 @@ dev.react-app.walletconnect.com
 push.walletconnect.com
 node1.staging.tss.walletconnect.com
 v2migrationlab.walletconnect.com
+bridge.walletconnect.com
+prod.walletconnect.com
+relay.dev.walletconnect.com
+not.relay.walletconnect.com
+discord.walletconnect.com

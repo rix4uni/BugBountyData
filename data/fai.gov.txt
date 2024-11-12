@@ -4,3 +4,7 @@ mta-sts.fai.gov
 login.fai.gov
 ldap.fai.gov
 content.fai.gov
+login.staging.fai.gov
+dev.fai.gov
+qa.fai.gov
+support3.fai.gov

@@ -90,3 +90,5 @@ qa.monitoring.bloxberg.org
 relay.bloxberg.org
 test.bloxberg.org
 check-validators-web-client.qa.nut.test.bloxberg.org
+new-blockscout-client.qa.blockscout.test.bloxberg.org
+blockexplorer-production-client.qa.blockscout.test.bloxberg.org

@@ -365,3 +365,15 @@ rokelton.us-east-1.test.asapp.com
 roklemme.prod.asapp.com
 roklemme.us-west-2.asapp.com
 ssh.infra.sandbox.asapp.com
+webarena-env-shopping.awsdev.asapp.com
+api.sandbox.asapp.com
+auth-dishget.asapp.com
+docs.asapp.com
+webarena-env-cms.awsdev.asapp.com
+api.asapp.com
+api.preprod.asapp.com
+papers-sew.awsdev.asapp.com
+webarena-env-reddit.awsdev.asapp.com
+jetblue-frontend.asapp.com
+webarena-env-github.awsdev.asapp.com
+optimumfixed-frontend.asapp.com

@@ -28,3 +28,12 @@ proxy.honeypot.l3montree.cloud
 sv-keijser.l3montree.cloud
 rmp-ui.bonnconsultinggroup.l3montree.cloud
 sonarqube.l3montree.cloud
+wazuh.bcg-rmp.l3montree.cloud
+prometheus.bcg-rmp.l3montree.cloud
+prometheus.bonnconsultinggroup.l3montree.cloud
+mage-ai.bonnconsultinggroup.l3montree.cloud
+imp-ui.bonnconsultinggroup.l3montree.cloud
+breakout.l3montree.cloud
+prometheus.csec.l3montree.cloud
+opensearch.bcg-rmp.l3montree.cloud
+opensearch.csec.l3montree.cloud

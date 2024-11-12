@@ -2,3 +2,5 @@ mail.ieuanhenry.name
 mta-sts.ieuanhenry.name
 secure.ieuanhenry.name
 git.ieuanhenry.name
+smtp.ieuanhenry.name
+220-smtp.ieuanhenry.name

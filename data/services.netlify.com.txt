@@ -2,3 +2,17 @@ cablecar.services.netlify.com
 stg-api-create.services.netlify.com
 api-create.services.netlify.com
 dev-api-create.services.netlify.com
+analytics.services.netlify.com
+lm-staging.services.netlify.com
+lm.services.netlify.com
+kafka.services.netlify.com
+analytics-staging.services.netlify.com
+supportapi.services.netlify.com
+api-create-balanced.services.netlify.com
+supportapi-staging.services.netlify.com
+commerce.services.netlify.com
+commerce-staging.services.netlify.com
+identity-staging.services.netlify.com
+socketeer.services.netlify.com
+identity.services.netlify.com
+kafka-staging.services.netlify.com

@@ -222,3 +222,13 @@ cloud04.humio.com
 ops02.humio.com
 ops04.humio.com
 us.humio.com
+test-cluster.humio.com
+test-cluster-hostname-ref.humio.com
+es-example.humio.com
+test-cluster-es-hostname-ref.humio.com
+humioclusters.core.humio.com
+humioaggregatealerts.core.humio.com
+humio-es.humio.com
+d7845218.humio.com
+test-cluster-es.humio.com
+example.humio.com

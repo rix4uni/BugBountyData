@@ -35,3 +35,5 @@ t.flo.health
 tr.flo.health
 t.test.flo.health
 t.staging.flo.health
+app.staging.flo.health
+relay.flo.health

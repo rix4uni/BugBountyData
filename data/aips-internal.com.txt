@@ -38,3 +38,10 @@ vault1.aips-internal.com
 vault2.aips-internal.com
 vault3.aips-internal.com
 vorwerk-dev.aips-internal.com
+kafka3-dds-prod.aips-internal.com
+kafka1-dds-prod.aips-internal.com
+kafka2-dds-prod.aips-internal.com
+kafka6-dds-prod.aips-internal.com
+kafka4-dds-prod.aips-internal.com
+kafka-dds-prod.aips-internal.com
+kafka5-dds-prod.aips-internal.com

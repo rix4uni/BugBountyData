@@ -2667,3 +2667,12 @@ ssoterians.saml.morganstanley.com
 metlife.saml.morganstanley.com
 spglobalinc.saml.morganstanley.com
 xspanse.saml.morganstanley.com
+_sips._tcp.morganstanley.com
+apps.morganstanley.com
+_h323ls._udp.morganstanley.com
+_sip._tcp.morganstanley.com
+_sip._udp.morganstanley.com
+_h323cs._tcp.morganstanley.com
+_sipfederationtls._tcp.morganstanley.com
+asiapac.vc.morganstanley.com
+emea.vc.morganstanley.com

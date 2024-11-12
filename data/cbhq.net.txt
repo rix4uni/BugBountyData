@@ -200,3 +200,10 @@ exchange.cbhq.net
 cb.secure.cbhq.net
 hipchat.cbhq.net
 docs-cdp-onramp-preview.cbhq.net
+base-sepolia-archive-k8s-dev.cbhq.net
+api-entry-gateway-development.cbhq.net
+docs-cdp-onchain-data-preview.cbhq.net
+blackrock-mq-client-staging.cbhq.net
+provisioning-reports.cbhq.net
+base-sepolia-dev.cbhq.net
+subdomain-did-api-dev.cbhq.net

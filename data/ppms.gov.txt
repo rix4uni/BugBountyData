@@ -31,3 +31,4 @@ k8s-ingress-ppms-soap-proxy-prod.ppms.gov
 api-staging.ppms.gov
 staging.ppms.gov
 api.ppms.gov
+grafana-loki-server.ppms.gov

@@ -21,3 +21,4 @@ mesos-services.dev.grindr.io
 airflow-eks.dev.grindr.io
 dash.dev.grindr.io
 vpn.curious.astro.dev.grindr.io
+media.astro.dev.grindr.io

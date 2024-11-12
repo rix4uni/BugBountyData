@@ -10,3 +10,16 @@ onfido.testnet.bitmex.com
 api.testnet.bitmex.com
 trading-view-gateway.testnet.bitmex.com
 beta.testnet.bitmex.com
+fix.testnet.bitmex.com
+trading-view.testnet.bitmex.com
+account.testnet.bitmex.com
+ws-services.testnet.bitmex.com
+trading-view.ws-services.testnet.bitmex.com
+trading-view1.ws-services.testnet.bitmex.com
+auth.testnet.bitmex.com
+live.testnet.bitmex.com
+trading-view-gateway1.testnet.bitmex.com
+wechat.testnet.bitmex.com
+w3.testnet.bitmex.com
+open.ws-services.testnet.bitmex.com
+watchlist.testnet.bitmex.com

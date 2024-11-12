@@ -400,3 +400,14 @@ windowsadmincenter.emadev.emoneyadvisor.com
 codacy.ema.emoneyadvisor.com
 vfcsplunkidx04.ema.emoneyadvisor.com
 vfdv-w06mtp01.emadev.emoneyadvisor.com
+_h323cs._tcp.emoneyadvisor.com
+_sipfederationtls._tcp.emoneyadvisor.com
+_sip._tls.emoneyadvisor.com
+_xmpp-server._tcp.emoneyadvisor.com
+_sip._tcp.emoneyadvisor.com
+_sips._tcp.emoneyadvisor.com
+_h323cs._udp.emoneyadvisor.com
+_h323ls._udp.emoneyadvisor.com
+_dmarc.emoneyadvisor.com
+vfccucmp01-ec-ms.ema.emoneyadvisor.com
+_sip._udp.emoneyadvisor.com

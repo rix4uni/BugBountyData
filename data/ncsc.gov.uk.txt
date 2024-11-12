@@ -1681,3 +1681,7 @@ testy.stage.pdnsdata.service.ncsc.gov.uk
 pr-2025.my-dev.prototype.service.ncsc.gov.uk
 pr-1573.my-dev.prototype.service.ncsc.gov.uk
 pr-2337.my-dev.prototype.service.ncsc.gov.uk
+infrastructure.ncsc.gov.uk
+_sipfederationtls._tcp.ncsc.gov.uk
+_sip._tls.ncsc.gov.uk
+_dmarc.ncsc.gov.uk

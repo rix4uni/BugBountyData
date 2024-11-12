@@ -196,3 +196,14 @@ echidna.cert.be
 prometheus.aks.infra.cert.be
 tornado.cert.be
 alertmanager.aks.infra.cert.be
+spoofr.infra.cert.be
+vm-adconnect-prod-01.infra.cert.be
+logs.int.baps.infra.cert.be
+errors.metrics.int.baps.infra.cert.be
+traefik.aks.infra.cert.be
+redirection.proxy.lp.baps.infra.cert.be
+gobaps.int.baps.infra.cert.be
+ilo2.infra.cert.be
+ilo1.infra.cert.be
+vsphere.infra.cert.be
+logbook.int.baps.infra.cert.be

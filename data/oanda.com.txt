@@ -1503,3 +1503,6 @@ pic-mt-otms-mobile-gateway.k8s-uat-euw3.u.gcp.oanda.com
 services-login-api.k8s-stg-asne1.s.gcp.oanda.com
 services-login-api-dark.k8s-stg-asne1.s.gcp.oanda.com
 customer-impact.k8s-prod-use4.p.gcp.oanda.com
+markj-pc.dev.oanda.com
+_pt.oanda.com
+api-histdata.oanda.com

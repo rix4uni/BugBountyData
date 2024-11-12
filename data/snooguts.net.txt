@@ -558,3 +558,9 @@ pub.inference-prod-usva-aws-1.aws.achilles.snooguts.net
 pri.dev-prod-usva-aws-5.aws.achilles.snooguts.net
 reddit-desktop-bot.kubernetes.ue1.snooguts.net
 crowdstrike.autodiscover.test.ue1.snooguts.net
+sourcegraph-staging.snooguts.net
+greenbook.snooguts.net
+bastion.orch.ue1.snooguts.net
+greenbook.kubernetes.ue1.snooguts.net
+atlas-preview.snooguts.net
+github-admin.snooguts.net

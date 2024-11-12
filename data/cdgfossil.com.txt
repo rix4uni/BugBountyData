@@ -86,3 +86,11 @@ security.cdgfossil.com
 wearosci-doc.cdgfossil.com
 wearos-bm.gcp.cdgfossil.com
 jenkins-train.cdgfossil.com
+k8s.dev.cdgfossil.com
+misfit-repair-portal.cdgfossil.com
+cloud.cdgfossil.com
+gateway-external.cdgfossil.com
+s1.k8s.dev.cdgfossil.com
+public-ingress.stg.cdgfossil.com
+api.dang-k8s.dev.cdgfossil.com
+public-ingress.cdgfossil.com

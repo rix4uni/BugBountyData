@@ -7,3 +7,7 @@ sbox.mailtrain.office-callservices.eu
 mailtrain.office-callservices.eu
 box.office-callservices.eu
 autoconfig.office-callservices.eu
+mta-sts.box.office-callservices.eu
+autodiscover.office-callservices.eu
+mail.office-callservices.eu
+mta-sts.office-callservices.eu

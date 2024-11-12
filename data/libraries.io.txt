@@ -14,3 +14,5 @@ firehose.libraries.io
 origin.libraries.io
 conda-parser.libraries.io
 cabal.libraries.io
+mail.libraries.io
+cocoapods.libraries.io

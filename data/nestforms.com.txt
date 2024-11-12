@@ -2,3 +2,7 @@ api-example-app.nestforms.com
 analytics.nestforms.com
 staging.nestforms.com
 files.nestforms.com
+ftp.nestforms.com
+imap.nestforms.com
+pop3.nestforms.com
+smtp.nestforms.com

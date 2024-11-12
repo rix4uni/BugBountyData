@@ -39,3 +39,9 @@ plesk2.ta-server.nl
 mail.ta-server.nl
 nieuw.ta-server.nl
 plesk.ta-server.nl
+_spf.ta-server.nl
+_dmarc.ta-server.nl
+primary.ns.ta-server.nl
+local.ta-server.nl
+hostmaster.ta-server.nl
+default._domainkey.ta-server.nl

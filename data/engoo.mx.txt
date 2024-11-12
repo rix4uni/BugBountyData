@@ -1,3 +1,13 @@
 dev.engoo.mx
 support.engoo.mx
 app.engoo.mx
+master.dev.app.engoo.mx
+api.engoo.mx
+subdir.dev.app.engoo.mx
+dev.app.engoo.mx
+api.subdir.dev.engoo.mx
+stg.engoo.mx
+rtc.branch.engoo.mx
+api.subdir.dev.app.engoo.mx
+devsrv.engoo.mx
+api.branch.engoo.mx

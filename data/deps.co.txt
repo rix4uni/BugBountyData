@@ -31,3 +31,4 @@ self.deps.co
 ctx.deps.co
 project.ext.deps.co
 module.deps.co
+solr.deps.co

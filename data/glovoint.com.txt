@@ -86,3 +86,8 @@ mlflow.dispatching-dev.acc.glovoint.com
 ots.glovoint.com
 fs-docs.mlp-g8s-prod.glovoint.com
 g8s-services-dev-preview.glovoint.com
+starburst.g8s-data-platform-prod.glovoint.com
+_pulpo.it.glovoint.com
+ci.glovoint.com
+internal.glovoint.com
+g8s-data-platform-karpenter-poc.glovoint.com

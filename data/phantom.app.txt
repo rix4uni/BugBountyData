@@ -68,3 +68,6 @@ api-ca-central-1.phantom.app
 docs.phantom.app
 eth-sepolia-backend.phantom.app
 boo.phantom.app
+eth-goerli-backend.phantom.app
+embedded-wallet.phantom.app
+embedded-wallet-signer.phantom.app

@@ -3117,3 +3117,9 @@ itsm.si-dev-us3.arubanetworks.com
 via-css1.arubanetworks.com
 aos-keygen.internal.eks-stg-use1.getaws.arubanetworks.com
 cslapi.internal.k8s-prod-usw1.getaws.arubanetworks.com
+asp-stg-rel-8-6.eks-stg-use1.getaws.arubanetworks.com
+weaviate-develop-grpc.internal.eks-stg-use1.getaws.arubanetworks.com
+github.eks-stg-use1.getaws.arubanetworks.com
+pekdev-build.arubanetworks.com
+via-css2.arubanetworks.com
+apigw.central.arubanetworks.com

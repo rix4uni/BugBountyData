@@ -90,3 +90,7 @@ com.animoca.google.st
 slot1.docs.ui.maps.google.st
 marketingplatform.google.st
 lens.google.st
+com.bigfishgames.google.st
+com.hashicorp.cdktf.providers.google.st
+ads.google.st
+controllers.strategies.google.st

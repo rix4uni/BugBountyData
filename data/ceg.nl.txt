@@ -15,3 +15,5 @@ smtp.ceg.nl
 pop.ceg.nl
 ftp.ceg.nl
 mail.ceg.nl
+mail.old.ceg.nl
+mail.dev.ceg.nl

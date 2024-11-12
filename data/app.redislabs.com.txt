@@ -1,0 +1,14 @@
+redisenterprisecluster.v1.app.redislabs.com
+namespacedvalidatingrules.app.redislabs.com
+redbfinalizer.redisenterpriseclusters.app.redislabs.com
+namespacedvalidatingtypes.app.redislabs.com
+redisenterprisedatabases.app.redislabs.com
+redisenterpriseremotecluster.v1alpha1.app.redislabs.com
+finalizer.redisenterprisedatabases.app.redislabs.com
+redisenterpriseactiveactivedatabase.v1alpha1.app.redislabs.com
+redisenterprisedatabase.v1alpha1.app.redislabs.com
+redisenterprisedatabase.app.redislabs.com
+redisenterpriseclusters.app.redislabs.com
+redisenterprisecluster.app.redislabs.com
+redisenterpriseremoteclusters.app.redislabs.com
+redisenterpriseactiveactivedatabases.app.redislabs.com

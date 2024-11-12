@@ -326,3 +326,5 @@ api.soest-anlagenvisualisierung.services.consolinno.de
 api.tenant-electricity.services.consolinno.de
 forchheimgast.glt.consolinno.de
 grafana.unit-con-swm.services.consolinno.de
+grafana.supfina.services.consolinno.de
+grafana.ms-raumfair.services.consolinno.de

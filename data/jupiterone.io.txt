@@ -4308,3 +4308,15 @@ query-engine-pod-007-reader.internal.us.jupiterone.io
 query-engine-pod-101-reader.internal.eu.jupiterone.io
 query-engine-pod-101.internal.eu.jupiterone.io
 aws-sns-eventsource-jupiterone-infra.infra.jupiterone.io
+ask.statestreet.jupiterone.io
+opentelemetry-collector.infra.jupiterone.io
+apigateway.eu.jupiterone.io
+aws-sns-eventsource-jupiterone-prod-eu.infra.jupiterone.io
+dex.internal.dev.jupiterone.io
+dex.infra.jupiterone.io
+argoworkflows.infra.jupiterone.io
+aws-sns-eventsource-jupiterone-prod-us-cisco.infra.jupiterone.io
+dex.us.jupiterone.io
+aws-sns-eventsource-jupiterone-prod-statestreet.infra.jupiterone.io
+aws-sns-eventsource-jupiterone-prod-us.infra.jupiterone.io
+dex.eu.jupiterone.io

@@ -42,3 +42,7 @@ docker.webuildapps.com
 jenkins.webuildapps.com
 cloud.webuildapps.com
 ice.webuildapps.com
+s5.webuildapps.com
+sentry-old.webuildapps.com
+sentry-new.webuildapps.com
+sentry-upgrade.webuildapps.com

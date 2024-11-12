@@ -111,3 +111,6 @@ go.zextras.com
 awsstore-1c.zextras.com
 lp-vie.zextras.com
 test1.letsencrypt.zextras.com
+ui-grpc.dev.zextras.com
+registry.dev.zextras.com
+staging.zextras.com

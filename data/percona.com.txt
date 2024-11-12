@@ -273,3 +273,9 @@ perconaxtradbbackups.pxc.percona.com
 dev.saas.cd.percona.com
 search.percona.com
 report.dev.percona.com
+perconaxtradbcluster.pxc.percona.com
+node0.ci.percona.com
+docs-rsync-endpoint.int.percona.com
+perconaservermongodbbackups.psmdb.percona.com
+vbox-01.ci.percona.com
+test.percona.com

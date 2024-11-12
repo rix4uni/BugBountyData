@@ -4909,3 +4909,11 @@ gold.storageclass.storage.k8s.io
 sparkapplications.sparkoperator.k8s.io
 v3.channel.k8s.io
 baremetal.cluster.k8s.io
+groupsnapshot.storage.k8s.io
+openmcp.k8s.io
+bogus.k8s.io
+meta.k8s.io
+samplecontroller.k8s.io
+apiserver.k8s.io
+nfs.csi.k8s.io
+resource-metrics.metrics.k8s.io

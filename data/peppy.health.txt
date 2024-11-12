@@ -30,3 +30,4 @@ weaviate-us.peppy.health
 manage-us.peppy.health
 auth-api-dev.peppy.health
 pred-api-dev-us.peppy.health
+trust.peppy.health

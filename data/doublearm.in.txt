@@ -1,1 +1,13 @@
 mta-sts.doublearm.in
+smtp.doublearm.in
+office.doublearm.in
+_dmarc.doublearm.in
+msa01-blr1.doublearm.in
+imap.doublearm.in
+mstore01-blr1.doublearm.in
+mta01-lon.doublearm.in
+web01-blr1.doublearm.in
+mail.doublearm.in
+mta02-pnq.doublearm.in
+default._domainkey.doublearm.in
+march01-blr1.doublearm.in

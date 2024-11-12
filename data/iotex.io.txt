@@ -243,3 +243,7 @@ ucam.io.iotex.io
 metrics.iotex.io
 babel-api-test.testnet.iotex.io
 price.iotex.io
+transaction-testnet.staging.safe.iotex.io
+flower-transaction-testnet.staging.iotex.io
+transaction.staging.safe.iotex.io
+archive-testnet.iotex.io

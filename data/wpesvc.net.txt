@@ -133,3 +133,5 @@ farm-ingress-api-staging.wpesvc.net
 helm-repo-staging.wpesvc.net
 edge-api-staging.wpesvc.net
 repos-staging.wpesvc.net
+edge-api.wpesvc.net
+helm-repo.wpesvc.net

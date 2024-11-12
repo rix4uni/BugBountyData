@@ -54,3 +54,7 @@ misp.tzcert.go.tz
 ns.tzcert.go.tz
 mail.tzcert.go.tz
 log.tzcert.go.tz
+graph.tzcert.go.tz
+ftp.tzcert.go.tz
+hornet.tzcert.go.tz
+tokens.tzcert.go.tz

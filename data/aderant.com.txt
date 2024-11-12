@@ -190,3 +190,11 @@ superset.cluster.internal.cloud.aderant.com
 usermanagementtest.aderant.com
 www3.aderant.com
 vpn-lon.aderant.com
+analytics.cloud.aderant.com
+athena.stg.cloud.aderant.com
+reporting-service-qa.platform-dev.cluster.internal.cloud.aderant.com
+sonar.swetools.aderant.com
+firm-service.platform-dev.cluster.internal.cloud.aderant.com
+linux104.env.aderant.com
+vpn-hyd.aderant.com
+qa.cloud.aderant.com

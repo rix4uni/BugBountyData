@@ -76,3 +76,4 @@ controllers.aiven.io
 finalizers.aiven.io
 mysql.aiven.io
 cassandra.aiven.io
+_dmarc.aiven.io

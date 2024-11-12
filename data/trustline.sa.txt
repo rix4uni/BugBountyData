@@ -15,3 +15,7 @@ app.trustline.sa
 sonarqube.trustline.sa
 dev-app.trustline.sa
 challenges.trustline.sa
+challenge-club.trustline.sa
+prod.trustline.sa
+challenge-rpsaas.trustline.sa
+old-prod.trustline.sa

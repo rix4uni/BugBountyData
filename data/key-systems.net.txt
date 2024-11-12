@@ -207,3 +207,11 @@ vserver-paucpk8cy.vsrv.key-systems.net
 mreg-0.key-systems.net
 eth2.152.fw.igb.ks.key-systems.net
 secscan-02.key-systems.net
+rdp-zt-bastion-02.zts.key-systems.net
+git.key-systems.net
+webfw-03.key-systems.net
+cloudflare-zt-bastion-02.zts.key-systems.net
+namestore-ote.key-systems.net
+webproxy.key-systems.net
+patch.key-systems.net
+cpanel-ks-01.key-systems.net

@@ -1,1 +1,8 @@
 mta-sts.balance.courses
+autoconfig.balance.courses
+autodiscover.balance.courses
+imap.balance.courses
+pop3.balance.courses
+smtp.balance.courses
+mail.balance.courses
+webmail.balance.courses

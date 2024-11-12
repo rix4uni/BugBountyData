@@ -212,3 +212,15 @@ qa-ate.wpml.org
 inspirebook.compatibility.wpml.org
 ams.wpml.org
 panel.tc-dev.wpml.org
+panel.test-tc.wpml.org
+admin.test-sr.wpml.org
+test-hub.wpml.org
+admin.test-tc.wpml.org
+test-admin.tc.wpml.org
+admin.test-hub.wpml.org
+test-panel.tc.wpml.org
+api.test-hub.wpml.org
+api.test-sr.wpml.org
+api.test-tc.wpml.org
+test-api.tc.wpml.org
+test-api.hub.wpml.org

@@ -29,3 +29,9 @@ adm-goaccess.apicart.net
 adm-influx.apicart.net
 adm-grafana.apicart.net
 adm-kube.apicart.net
+adm-weave.apicart.net
+adm-kibana.apicart.net
+store-api.docs.apicart.net
+cart-api.apicart.net
+mail.apicart.net
+admin-api.apicart.net

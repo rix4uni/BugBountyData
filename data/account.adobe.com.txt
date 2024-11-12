@@ -17,3 +17,7 @@ azure-stage.account.adobe.com
 stage-azure.account.adobe.com
 am-testing.account.adobe.com
 api-stage.account.adobe.com
+service.account.adobe.com
+acp-ss-ue1.adobe.ioapi.account.adobe.com
+prod.account.adobe.com
+services.account.adobe.com

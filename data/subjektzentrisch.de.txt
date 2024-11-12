@@ -21,3 +21,7 @@ ipv6.node2.subjektzentrisch.de
 ipv4.node3.subjektzentrisch.de
 ipv4.node2.subjektzentrisch.de
 mta-sts.subjektzentrisch.de
+mail1.subjektzentrisch.de
+logs.subjektzentrisch.de
+_mta-sts.subjektzentrisch.de
+mail.subjektzentrisch.de

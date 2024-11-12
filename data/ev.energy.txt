@@ -69,3 +69,12 @@ rolec.app-staging.ev.energy
 mta-165-114-76.ev.energy
 clicks.ev.energy
 mge.ev.energy
+_sipfederationtls._tcp.ev.energy
+sip.ev.energy
+autodiscover.ev.energy
+lyncdiscover.ev.energy
+_dmarc.ev.energy
+news.ev.energy
+_sip._tls.ev.energy
+default._domainkey.ev.energy
+msoid.ev.energy

@@ -82,3 +82,10 @@ ja.localhost.urbandictionary.net
 it.staging.urbandictionary.net
 ru.staging.urbandictionary.net
 sv.localhost.urbandictionary.net
+internal.c1.k8s.urbandictionary.net
+k8s.urbandictionary.net
+api.c1.k8s.urbandictionary.net
+api.internal.c1.k8s.urbandictionary.net
+com.nike.urbandictionary.net
+com.demo.urbandictionary.net
+c1.k8s.urbandictionary.net

@@ -203,3 +203,6 @@ ide-api.unified-5.api.openai.com
 prod-chatgpt-scus-g1.api.openai.com
 chatgptapi.unified-8.api.openai.com
 ide-rust-api.unified-8.api.openai.com
+gateway.unified-0.api.openai.com
+gateway.unified-1.api.openai.com
+private.northeurope.api.openai.com

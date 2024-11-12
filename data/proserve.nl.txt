@@ -2119,3 +2119,7 @@ elasticsearch.signet.proserve.nl
 elasticsearch-001.signet.proserve.nl
 elasticsearch-002.signet.proserve.nl
 elasticsearch-003.signet.proserve.nl
+ntp3.proserve.nl
+mgmt-vcenter01.vmware.proserve.nl
+ntp1.proserve.nl
+ntp2.proserve.nl

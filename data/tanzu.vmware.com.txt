@@ -8,3 +8,14 @@ blue.network-acceptance.tanzu.vmware.com
 info.tanzu.vmware.com
 network-integration.tanzu.vmware.com
 network-acceptance.tanzu.vmware.com
+upgrade.dev.registry-acceptance.tanzu.vmware.com
+upgrade-planner-api.tanzu.vmware.com
+upgrade-planner-acceptance-api.tanzu.vmware.com
+dev.registry-lab.tanzu.vmware.com
+upgrade-planner.tanzu.vmware.com
+registry-lab.tanzu.vmware.com
+registry-acceptance.tanzu.vmware.com
+upgrade-planner-acceptance.tanzu.vmware.com
+cn.content.tanzu.vmware.com
+upgrade.registry-acceptance.tanzu.vmware.com
+content.tanzu.vmware.com

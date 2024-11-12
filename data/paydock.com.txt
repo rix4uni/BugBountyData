@@ -85,3 +85,11 @@ new-helpdesk.paydock.com
 prometheus.cba-preprod.apac.paydock.com
 temporal-codec-server-cba-sandbox.cba-sandbox.apac.paydock.com
 woocommerce-qa.multitenant-staging.apac.paydock.com
+temporal-codec-server-staging-11.multitenant-staging.apac.paydock.com
+gitlab-slack-trigger-shared.shared.apac.paydock.com
+docs-v2.paydock.com
+temporal-codec-server-cba-production.cba-production.apac.paydock.com
+temporal-codec-server-cba-preprod.cba-preprod.apac.paydock.com
+woocommerce-staging-qa.multitenant-staging.apac.paydock.com
+priority-homepage-backend-multitenant-preprod.multitenant-staging.apac.paydock.com
+commercetools-uat.multitenant-staging.apac.paydock.com

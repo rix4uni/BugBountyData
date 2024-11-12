@@ -284,3 +284,6 @@ phala-0.boot.onfinality.io
 phala-1.boot.onfinality.io
 eu.health.onfinality.io
 zenchain-testnet.api.onfinality.io
+hkhttpbin.api.onfinality.io
+httpbin.api.onfinality.io
+node-6858325744838877184.sz.onfinality.io

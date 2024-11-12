@@ -60,3 +60,12 @@ meet.finoa.io
 tools.aws.finoa.io
 securesign-dev.finoa.io
 cdn.dev.aws.finoa.io
+mail02.finoa.io
+login.finoa.io
+mail.finoa.io
+mta-sts.mail.finoa.io
+app.finoa.io
+consensus.finoa.io
+api.finoa.io
+cdn.test.aws.finoa.io
+smtp.finoa.io

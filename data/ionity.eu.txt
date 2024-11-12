@@ -215,3 +215,15 @@ support.webdev.ionity.eu
 webprod.howto.ionity.eu
 station-communication-protocol.prod.backend-prod.aws.ionity.eu
 cognito-int.backend-dev.aws.ionity.eu
+compliances.ionity.eu
+k8s-prod.devtools.ionity.eu
+jira-dev.ionity.eu
+k8s-traefik.dev.backend-dev.aws.ionity.eu
+webprod.ci-dev.ionity.eu
+k8s-kong.dev.backend-dev.aws.ionity.eu
+grafana.k8s.int.backend-dev.aws.ionity.eu
+k8s.ionity.eu
+support-test.ionity.eu
+k8s-traefik.prod.devtools.ionity.eu
+rkc-gateway.prod.backend-prod.aws.ionity.eu
+observability.backend-sbx.aws.ionity.eu

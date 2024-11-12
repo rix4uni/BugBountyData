@@ -53,3 +53,10 @@ al-ebs-new.quantstamp.com
 dev.poc.quantstamp.com
 token.quantstamp.com
 oyaas-dev.quantstamp.com
+certificate-staging.quantstamp.com
+us-east-2.testnet-prod.zkrollups.quantstamp.com
+audit-staging.quantstamp.com
+us-east-1.dev.zkrollups.quantstamp.com
+forms-staging.quantstamp.com
+us-east-1.nodeoperator.internal.quantstamp.com
+eu-west-1.dev.zkrollups.quantstamp.com

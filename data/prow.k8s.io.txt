@@ -1,0 +1,4 @@
+monitoring-eks.prow.k8s.io
+docs.prow.k8s.io
+monitoring.prow.k8s.io
+monitoring-gke.prow.k8s.io

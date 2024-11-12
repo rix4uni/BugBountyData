@@ -78,3 +78,5 @@ dicom-whitelist.script.new
 scripts.dialog.script.new
 unix.script.new
 script.script.new
+unw.stat.script.new
+ld.script.new

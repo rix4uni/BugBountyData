@@ -4,3 +4,17 @@ cdn.hacc.media
 static.hacc.media
 cdn-master.hacc.media
 live-cdn.hacc.media
+chat.hacc.media
+search.hacc.media
+podcasts.hacc.media
+chat.uref.hacc.media
+cdn-node-1.live.hacc.media
+cdn-node-1.beta.hacc.media
+cdn-loadbalancer.live.hacc.media
+beta.hacc.media
+funkwhale.hacc.media
+cdn.beta.hacc.media
+cdn-node-2.live.hacc.media
+koyama.hacc.media
+wasi.live.hacc.media
+cdn-master.live.hacc.media

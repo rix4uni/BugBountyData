@@ -66,3 +66,6 @@ has-staging.havenstudios.com
 mtl.perforce.infra.havenstudios.com
 llm.wip.ml.havenstudios.com
 emblem.gradio.wip.ml.havenstudios.com
+_dmarc.havenstudios.com
+dev.buildmetadata.infra.havenstudios.com
+dev.build-metadata-service.infra.havenstudios.com

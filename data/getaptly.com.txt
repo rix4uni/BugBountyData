@@ -13,3 +13,11 @@ hermes-preview.api.getaptly.com
 preview.getaptly.com
 hooks.getaptly.com
 chat.getaptly.com
+stage-api.app.getaptly.com
+worker.getaptly.com
+status.getaptly.com
+app.getaptly.com
+assets.getaptly.com
+api.getaptly.com
+onboarding.getaptly.com
+help.getaptly.com

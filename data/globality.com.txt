@@ -90,3 +90,10 @@ sip.globality.com
 prod-media1.globality.com
 authconfig.demo.globality.com
 auth0.sandbox.globality.com
+_sipfederationtls._tcp.globality.com
+_amazonses.globality.com
+_dmarc.globality.com
+learningnew.globality.com
+msoid.globality.com
+_github-challenge-globality-corp.globality.com
+_sip._tls.globality.com

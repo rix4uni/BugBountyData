@@ -7,3 +7,12 @@ influxdb.console.chainstack.com
 es.console.chainstack.com
 alertmanager.console.chainstack.com
 prometheus.console.chainstack.com
+vminsert.console.chainstack.com
+prometheus.gcp-asia-southeast1.console.chainstack.com
+metrics.console.chainstack.com
+vmagent.console.chainstack.com
+ops.console.chainstack.com
+karma.console.chainstack.com
+balancer-migration.console.chainstack.com
+influxdb3.console.chainstack.com
+metrix.db.console.chainstack.com

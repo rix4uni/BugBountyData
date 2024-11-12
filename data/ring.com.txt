@@ -3049,3 +3049,4 @@ ls.ring.com
 gamma.us-west-2.carconnect.ring.com
 kibana-core.stg.elasticsearch.dm.ring.com
 release.kubeflow-dev.research.ring.com
+alpha.auth-service.codev.research.ring.com

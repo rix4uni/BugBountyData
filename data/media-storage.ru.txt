@@ -6,3 +6,11 @@ prom.k8s.media-storage.ru
 grafana.k3s.media-storage.ru
 mirror1.media-storage.ru
 wp.k3s.media-storage.ru
+karma.k8s.media-storage.ru
+report-maker.k8s.media-storage.ru
+conf.k8s.media-storage.ru
+wp.k8s.media-storage.ru
+grafana.k8s.media-storage.ru
+pinger.k8s.media-storage.ru
+wordpress-test.k8s.media-storage.ru
+kubeapps.k8s.media-storage.ru

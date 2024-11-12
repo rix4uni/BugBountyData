@@ -596,3 +596,7 @@ turnapi.netmaker.devim.team
 dzp-lk.prod.devim.team
 sms.prod.wl.devim.team
 collect-dev-api.devim.team
+pgwatch-1.dev.wl.devim.team
+pgwatch-1.prod.dzp.devim.team
+harbor.devim.team
+pgwatch-1.prod.wl.devim.team

@@ -417,3 +417,15 @@ bcit.apparmor.com
 southeastern.apparmor.com
 capa.apparmor.com
 lipscomb.apparmor.com
+spf.apparmor.com
+sec.apparmor.com
+www2.apparmor.com
+dashboard.apparmor.com
+cha.apparmor.com
+ex.apparmor.com
+values.conf.apparmor.com
+st.apparmor.com
+o1.alert.apparmor.com
+ubc.alertgo.apparmor.com
+bergenfieldpd.apparmor.com
+o4.ptr2884.o4.alert.apparmor.com

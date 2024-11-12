@@ -1650,3 +1650,5 @@ dev.fusion.bp-northeurope.cogniteapp.com
 jetfire.az-power-no-northeurope.cogniteapp.com
 staging.react-demo.westeurope-1.cogniteapp.com
 staging.remote-editor.omv.cogniteapp.com
+cdf-org-admin-staging.cogniteapp.com
+cdf-org-admin-prod.cogniteapp.com

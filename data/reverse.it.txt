@@ -5044,3 +5044,7 @@ out.reverse.it
 bi.end.reverse.it
 bi.start.reverse.it
 vert.reverse.it
+nonemptyvector.reverse.it
+dates.reverse.it
+nonemptystring.reverse.it
+_data.reverse.it

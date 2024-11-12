@@ -10,3 +10,6 @@ clients-staging.fromparcel.com
 groups.fromparcel.com
 app-staging.fromparcel.com
 calendar.fromparcel.com
+smtp.fromparcel.com
+files.fromparcel.com
+pop.fromparcel.com

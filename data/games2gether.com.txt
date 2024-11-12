@@ -14,3 +14,7 @@ humankind-personas.service.games2gether.com
 service.games2gether.com
 api.games2gether.com
 socket.games2gether.com
+humankind-encyclopedia.service.games2gether.com
+player-stats.service.games2gether.com
+email.games2gether.com
+api.service.games2gether.com

@@ -38,3 +38,6 @@ cs1.freshports.org
 accounts.testgit.freshports.org
 stagegit.freshports.org
 ruud.freshports.org
+invalid.freshports.org
+working-copy.freshports.org
+dev.null.freshports.org

@@ -9,3 +9,9 @@ staging-na.vokey.com
 apps.vokey.com
 development-na.vokey.com
 production-na.vokey.com
+ci.vokey.com
+email.vokey.com
+mta0000.vokey.com
+ssl.vokey.com
+mta.email.vokey.com
+test.st.vokey.com

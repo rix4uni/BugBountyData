@@ -183,3 +183,14 @@ pr-1623-dev2.ctrl.nginx.com
 vpn.nginx.com
 pipermail.nginx.com
 lyncdiscover.nginx.com
+emojivoto.testenv.ctrl.nginx.com
+foo.bar.kic.nginx.com
+test2.kic.nginx.com
+ghs.googlehosted.com.nginx.com
+test5.kic.nginx.com
+calendar.nginx.com
+_sip._tls.nginx.com
+demo.kic.nginx.com
+_sipfederationtls._tcp.nginx.com
+tech-c.nginx.com
+test3.kic.nginx.com

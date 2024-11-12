@@ -1,1 +1,17 @@
 community.staging.coda.io
+blog.staging.coda.io
+calc.staging.coda.io
+custom.staging.coda.io
+standalonefetcher.staging.coda.io
+admin.staging.coda.io
+auth.staging.coda.io
+fetcher.staging.coda.io
+snowpipe-proxy.staging.coda.io
+cert-service.staging.coda.io
+origin.staging.coda.io
+rotabanner.staging.coda.io
+sdm-gateway.staging.coda.io
+docservice.staging.coda.io
+loggingservice.staging.coda.io
+packs-auth.staging.coda.io
+videoclick.staging.coda.io

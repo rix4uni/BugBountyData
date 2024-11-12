@@ -1,2 +1,5 @@
 benchmark.vpn.mozilla.org
 status.vpn.mozilla.org
+telemetry.vpn.mozilla.org
+crash.vpn.mozilla.org
+crashplan.vpn.mozilla.org

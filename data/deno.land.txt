@@ -13,3 +13,5 @@ examples.deno.land
 gcp-alert-bot.deno.land
 lint.deno.land
 wpt.deno.land
+staging.cdn.deno.land
+dl2.deno.land

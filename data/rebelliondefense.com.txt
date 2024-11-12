@@ -326,3 +326,7 @@ mlflow.ml.i.gov-staging.rebelliondefense.com
 example-eks.gov-staging.rebelliondefense.com
 idoc.gov-staging.rebelliondefense.com
 rebel-ecs-simple.gov-staging.rebelliondefense.com
+maven-grafana.rebelliondefense.com
+face-extract.staging.rebelliondefense.com
+nifi.us.rebelliondefense.com
+nifi.gov-staging.rebelliondefense.com

@@ -75,3 +75,10 @@ com.nsa.core.ms
 com.argo.core.ms
 org.xplugin.core.ms
 org.savapage.core.ms
+imap.core.ms
+smtp.core.ms
+seat.core.ms
+pop3.core.ms
+fsalt.core.ms
+sinus.core.ms
+bsc.core.ms

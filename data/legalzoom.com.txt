@@ -1193,3 +1193,12 @@ dev.iq-flow-preview.dev.aws-01.legalzoom.com
 dev-cf.iq-flow-preview.dev.aws-01.legalzoom.com
 rex-preview-qa.my-account-rex.dev.aws-01.legalzoom.com
 dev.personal-services.dev.aws-01.legalzoom.com
+rex-preview-prd.my-account-rex.apps.prd.aws-01.legalzoom.com
+watchtower.apps.prd.aws-01.legalzoom.com
+devlake.devops.prd.aws-01.legalzoom.com
+dev.dsd-doc-gen.dev.aws-01.legalzoom.com
+fee-maintainence.apps.prd.aws-01.legalzoom.com
+dev.dsd-web-automation.dev.aws-01.legalzoom.com
+experimentation.apigw.legalzoom.com
+certificate.legalzoom.com
+qa.formations.dev.aws-01.legalzoom.com

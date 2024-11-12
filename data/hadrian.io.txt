@@ -27,3 +27,6 @@ integration-ytt6bgrxrb-snow.hadrian.io
 italian.hadrian.io
 _test.hadrian.io
 sandbox.hadrian.io
+aws-marketplace.hadrian.io
+deeploy.production.hadrian.io
+docs.hadrian.io

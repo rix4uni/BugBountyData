@@ -53,3 +53,6 @@ dns.netmeister.org
 cert.dns.netmeister.org
 ds.dns.netmeister.org
 0-panix.netmeister.org
+nsec3.dns.netmeister.org
+https-bogus-hint.test.netmeister.org
+cloudfront.cdn.netmeister.org

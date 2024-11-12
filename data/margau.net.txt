@@ -92,3 +92,5 @@ _dmarc.rosetta.infra.margau.net
 rosetta.ns.margau.net
 node01-vie01.node.k8s.margau.net
 hubble.pve.margau.net
+vpn.margau.net
+pretalx.margau.net

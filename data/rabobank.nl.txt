@@ -1884,3 +1884,10 @@ www-staging.rabobank.nl
 www-verification.rabobank.nl
 ta-ris.rabobank.nl
 idealv2.ipa.signing.acc.rabobank.nl
+api.governet.rabobank.nl
+verzekeringspost.rabobank.nl
+cribl-leader.cribltest-azure.rabobank.nl
+bigipserverpl_vip-cf.rabobank.nl
+token-vault.pay.rabobank.nl
+testcertificatercmp-wildcnonly-sha256-1san-noou.rabobank.nl
+testcertificatercmp-sha256-san-wildcard-cn.rabobank.nl

@@ -89,3 +89,6 @@ ca.sekurak.pl
 expert.sekurak.pl
 nt.sekurak.pl
 cs.sekurak.pl
+_dmarc.sekurak.pl
+_sipfederationtls._tcp.sekurak.pl
+mail._domainkey.sekurak.pl

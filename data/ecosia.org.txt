@@ -2151,3 +2151,6 @@ dh-widget-ranking.search.dev.ecosia.org
 em-indexpage-animations.index.dev.ecosia.org
 jg-indexpage-replicas.search.eu-central-1.dev.ecosia.org
 mp-convert-to-string.www.eu-central-1.dev.ecosia.org
+_amazonses.ecosia.org
+mail._domainkey.ecosia.org
+_dmarc.ecosia.org

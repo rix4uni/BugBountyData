@@ -46,3 +46,6 @@ slack-bot.nowpayments.io
 tx-checker-api-stage.nowpayments.io
 internal.staging.nowpayments.io
 internal-stage.nowpayments.io
+notify1.nowpayments.io
+cn-service-staging.nowpayments.io
+prod2-account-api.nowpayments.io

@@ -4,3 +4,8 @@ fert.yara.no
 fpt.yara.no
 pre.yara.no
 int.yara.no
+values.enrichment.yara.no
+hex.view.yara.no
+_rules.view.yara.no
+values.enrichment.service.yara.no
+hex.builtin.view.yara.no

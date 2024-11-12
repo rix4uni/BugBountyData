@@ -2,3 +2,9 @@ github.cobbler.io
 identity.cobbler.io
 admin.cobbler.io
 trust.cobbler.io
+app.cobbler.io
+status.cobbler.io
+admin.app.cobbler.io
+com.horvath.cobbler.io
+app.admin.cobbler.io
+auth.cobbler.io

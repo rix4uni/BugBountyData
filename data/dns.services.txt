@@ -1,0 +1,11 @@
+autodiscover.dns.services
+mail.dns.services
+webdisk.dns.services
+ns1.dns.services
+login.dns.services
+webmail.dns.services
+post.dns.services
+cpanel.dns.services
+ns2.dns.services
+_spf.dns.services
+ns3.dns.services

@@ -25,3 +25,4 @@ api.cluster1.k8slens.dev
 keycloak.lc-production1.k8slens.dev
 account.k8slens.dev
 bored.k8slens.dev
+wego.platform.k8slens.dev

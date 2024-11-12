@@ -3955,3 +3955,6 @@ relay.preview.trustpilot.com
 sslvpn.business-preview.trustpilot.com
 acceptatie.business-preview.trustpilot.com
 googlesellerratings-m3.mongodb.business-preview.trustpilot.com
+infrastructure-aggregatealertsapi.preview.trustpilot.com
+infra.business-preview.trustpilot.com
+infrastructure-alertcharts.preview.trustpilot.com

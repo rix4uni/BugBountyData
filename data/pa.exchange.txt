@@ -8,3 +8,4 @@ internal.pa.exchange
 staging.pa.exchange
 load.pa.exchange
 sc.pa.exchange
+org.polarsys.capella.core.explorer.activity.ui.pa.exchange

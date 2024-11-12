@@ -269,3 +269,16 @@ enterpriseregistration.aemo.com.au
 cdp.lb.aemo.com.au
 access.aemo.com.au
 apis.rfm.aemo.com.au
+ns2.aemo.com.au
+remote.lb.aemo.com.au
+_sip._udp.aemo.com.au
+ns1.aemo.com.au
+_sipfederationtls._tcp.aemo.com.au
+_dmarc.aemo.com.au
+_sips._tcp.aemo.com.au
+test.aemo.com.au
+_h323ls._udp.aemo.com.au
+_h323cs._tcp.aemo.com.au
+_sip._tls.aemo.com.au
+_amazonses.aemo.com.au
+_sip._tcp.aemo.com.au

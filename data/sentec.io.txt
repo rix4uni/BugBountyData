@@ -63,3 +63,15 @@ dev.redirect.sentec.io
 installer.agent.pms.sentec.io
 dev.api.pms.sentec.io
 staging.pubsub.sentec.io
+dev-api.accounts.sentec.io
+staging.guestdocuments.pms.sentec.io
+devs.vpn.pms.sentec.io
+dev.menu.pos.sentec.io
+mec1.staging.pos.sentec.io
+staging.static.pms.sentec.io
+mec1.staging.pms.sentec.io
+agent.pms.sentec.io
+build.sentec.io
+dev-api.finance.sentec.io
+mec1.accounts.sentec.io
+mec1.staging.static.pms.sentec.io

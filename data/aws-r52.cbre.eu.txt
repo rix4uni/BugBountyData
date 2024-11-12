@@ -1,3 +1,10 @@
 zone-staging.aws-r52.cbre.eu
 marketing-zone-staging.aws-r52.cbre.eu
 api-zone-staging.aws-r52.cbre.eu
+landx-test.aws-r52.cbre.eu
+landx-oauth-test.aws-r52.cbre.eu
+test-landx.aws-r52.cbre.eu
+landx-api-uat.aws-r52.cbre.eu
+landx-uat.aws-r52.cbre.eu
+landx-api-test.aws-r52.cbre.eu
+test-landx-api.aws-r52.cbre.eu

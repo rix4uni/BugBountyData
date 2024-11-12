@@ -189,3 +189,13 @@ internal-onestrata-regression.pre.strata.freewheel.com
 resources.freewheel.com
 internal-onestrata-pqm.apse1.pre.strata.freewheel.com
 internal-pqm-apse1prerdssql01.apse1.pre.strata.freewheel.com
+internal-pqm.use1.pre.strata.freewheel.com
+internal-pqm.euw1.prod.strata.freewheel.com
+internal-pqm-use1prerdssql01.use1.pre.strata.freewheel.com
+internal-apse1prerdssql01.apse1.pre.strata.freewheel.com
+internal-pqm.euw1.pre.strata.freewheel.com
+internal-pqm-euw1prerdssql03.euw1.pre.strata.freewheel.com
+internal-pqm-euw1prerdssql02.euw1.pre.strata.freewheel.com
+internal-pqm.apse1.pre.strata.freewheel.com
+internal-pqm-euw1prerdssql01.euw1.pre.strata.freewheel.com
+internal-pqm.use1.prod.strata.freewheel.com

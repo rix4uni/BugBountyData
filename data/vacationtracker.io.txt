@@ -61,3 +61,7 @@ app.vacationtracker.io
 api.release.beta.vacationtracker.io
 api-hotfix.beta.vacationtracker.io
 dashboard.vacationtracker.io
+hboard.vacationtracker.io
+old.vacationtracker.io
+stg.vacationtracker.io
+cdn.vacationtracker.io

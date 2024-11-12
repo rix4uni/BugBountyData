@@ -276,3 +276,14 @@ mattermost-hooks.mover.io
 ops.mover.io
 spof01-006-usgovarizona.cosmic.gccm.mover.io
 spof01-006-usgovtexas.cosmic.gccm.mover.io
+spo01-026-wus.cosmic.mmpapi.mover.io
+spo01-082-eus2.cosmic.mmpapi.nam1.prod.mover.io
+spo01-085-eus2.cosmic.mmpapi.nam1.prod.mover.io
+spo01-026-wus.cosmic.ecs.mover.io
+spo01-027-wus.cosmic.mmpapi.mover.io
+wus-partition.mover.io
+devbox-legacy-api.testing.mover.io
+spo01-028-wus.cosmic.mmpapi.nam1.prod.mover.io
+spo01-029-wus.cosmic.mmpapi.nam1.prod.mover.io
+spo01-027-wus.cosmic.ecs.mover.io
+spo01-027-wus.legacyapi.mover.io

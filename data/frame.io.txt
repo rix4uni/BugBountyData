@@ -444,3 +444,7 @@ frameio.us-east-1-pr-135.edge.arcade.dev.frame.io
 falkor-next.dev.frame.io
 fastly-test.dev.frame.io
 us-east-1-pr-135.edge.arcade.dev.frame.io
+go-lambda-at-edge.sandbox.frame.io
+us-east-1-pr-129.edge.arcade.dev.frame.io
+support-tool.eval.frame.io
+cms-falkor-next.staging.frame.io

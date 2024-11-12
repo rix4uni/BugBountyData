@@ -401,3 +401,9 @@ quickwit-indexer.preprod.internal.exoscale.ch
 vm.gva2-preprod.internal.exoscale.ch
 vm.preprod.internal.exoscale.ch
 block-blobd-orchestrator.gva2-preprod.internal.exoscale.ch
+blob-ui-sos.zrh1-preprod.internal.exoscale.ch
+quickwit-metastore.gva2-preprod.internal.exoscale.ch
+sos-blobd-orchestrator.gva2-preprod.internal.exoscale.ch
+blob-ui-sos.fra1.internal.exoscale.ch
+quickwit-metastore.preprod.internal.exoscale.ch
+blob-ui-sos.muc1.internal.exoscale.ch

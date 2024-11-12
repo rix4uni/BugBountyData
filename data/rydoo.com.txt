@@ -78,3 +78,11 @@ jitsi.rydoo.com
 uat.outpost.rydoo.com
 waf-travel.rydoo.com
 waf-expense.rydoo.com
+gitlab.rydoo.com
+approval-be-live.rydoo.com
+mailer.rydoo.com
+production-waf-azure.rydoo.com
+accept-waf-expense.rydoo.com
+accept-waf-azure.rydoo.com
+production-waf-enterprise.rydoo.com
+approval-uk-live.rydoo.com

@@ -161,3 +161,8 @@ cloudreports.cloud.claranet.com
 reporter.cloud.claranet.com
 abqlb.cloud.claranet.com
 circulo2.claranet.com
+plume-websocket.claranet.com
+training.claranet.com
+webhooks.claranet.com
+plume-proxy.claranet.com
+rabbitmq-prod-admin.claranet.com

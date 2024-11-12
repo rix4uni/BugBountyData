@@ -382,3 +382,7 @@ internal.ap-south-1.poc.poc.risk.pai.mypaytm.com
 internal.ap-south-1.staging.lending-v2.risk.pai.mypaytm.com
 poc.poc.risk.pai.mypaytm.com
 staging.lending-v2.risk.pai.mypaytm.com
+production.lending-v2.risk.pai.mypaytm.com
+argo-new.production.dre.cdp.mypaytm.com
+internal.production.dre.cdo.mypaytm.com
+internal.ap-south-1.production.lending-v2.risk.pai.mypaytm.com

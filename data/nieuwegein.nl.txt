@@ -117,3 +117,7 @@ smtp3.nieuwegein.nl
 localhost.nieuwegein.nl
 vm01cas.nieuwegein.nl
 vm02cas.nieuwegein.nl
+_dmarc.nieuwegein.nl
+_sip._tls.nieuwegein.nl
+sysadmin.nieuwegein.nl
+_sipfederationtls._tcp.nieuwegein.nl

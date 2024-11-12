@@ -1076,3 +1076,7 @@ nginx-ingress-test-96984.secrets.elastic.co
 nginx-ingress-test-98633.vault-acc.elastic.co
 nginx-ingress-test-99452.vault-acc.elastic.co
 nginx-ingress-test-99771.secrets.elastic.co
+auto-ops.eu-west-1.aws.cloud.elastic.co
+nginx-ingress-test-96309.secrets.elastic.co
+auto-ops.ap-southeast-1.aws.cloud.elastic.co
+nginx-ingress-test-77850.vault-acc.elastic.co

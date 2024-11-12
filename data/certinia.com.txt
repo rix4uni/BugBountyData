@@ -153,3 +153,16 @@ confluencedr.staging.internal.certinia.com
 jenkins.dev.cicd.certinia.com
 clx-staging.internal.certinia.com
 clx-demo.internal.certinia.com
+_dmarc.certinia.com
+autoconfig.help.certinia.com
+enterpriseenrollment.certinia.com
+artifact-ha-cf.staging.internal.certinia.com
+webdisk.help.certinia.com
+bitbucket-test.staging.internal.certinia.com
+clx-localtest4.internal.certinia.com
+ssh.bitbucket-test.staging.internal.certinia.com
+enterpriseregistration.certinia.com
+clx.certinia.com
+clx-development.internal.certinia.com
+jira-dr.staging.internal.certinia.com
+help-system-test.certinia.com

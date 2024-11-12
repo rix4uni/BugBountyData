@@ -34,3 +34,9 @@ secure.staging.pantryshop.com
 b2b-api-ex-v1.staging.pantryshop.com
 api-1.staging.pantryshop.com
 api-2.staging.pantryshop.com
+checkout.staging.pantryshop.com
+checkout-service.staging.pantryshop.com
+prerender.staging.pantryshop.com
+checkout-old.pantryshop.com
+admin-new.pantryshop.com
+business.staging.pantryshop.com

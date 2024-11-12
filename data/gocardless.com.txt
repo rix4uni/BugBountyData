@@ -5131,3 +5131,5 @@ directoryrolebindings.rbac.crd.gocardless.com
 workloads.crd.gocardless.com
 rbac.crd.gocardless.com
 wwww.gocardless.com
+comms.gocardless.com
+_dmarc.gocardless.com

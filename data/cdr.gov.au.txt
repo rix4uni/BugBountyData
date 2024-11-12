@@ -224,3 +224,7 @@ internal.gateway.api.hfix.cts.cdr.gov.au
 secure.api.test.cts.cdr.gov.au
 portal.dev2.cts.cdr.gov.au
 internal.gateway.api.dev2.cts.cdr.gov.au
+register.cdr.gov.au
+api.discovery.cdr.gov.au
+infosec.cdr.gov.au
+secure.api.int.cdr.gov.au

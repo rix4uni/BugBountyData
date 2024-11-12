@@ -95,3 +95,6 @@ bank.stage.intigriti.com
 minio-console.uat.intigriti.com
 api.stage.intigriti.com
 tools.intigriti.com
+bff-public.stage.intigriti.com
+minio.prod.intigriti.com
+bff-public.prod.intigriti.com

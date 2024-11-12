@@ -2014,3 +2014,11 @@ a9ec71fa3593d22b7.docs.canary.kubernetes.io
 19-lan-3submit-queue.docs.canary.kubernetes.io
 188bocaiwang-22.docs.canary.kubernetes.io
 hello.kubernetes.io
+zonefailure-domain.beta.kubernetes.io
+regionbeta.kubernetes.io
+osbeta.kubernetes.io
+hostnamefailure-domain.beta.kubernetes.io
+instance-typebeta.kubernetes.io
+truenode-role.kubernetes.io
+kms.kubernetes.io
+truenode.kubernetes.io

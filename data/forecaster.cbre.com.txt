@@ -4,3 +4,10 @@ staging.forecaster.cbre.com
 dev.forecaster.cbre.com
 api.forecaster.cbre.com
 merge.forecaster.cbre.com
+dev.api.forecaster.cbre.com
+qc.api.forecaster.cbre.com
+qc.forecaster.cbre.com
+test.api.forecaster.cbre.com
+test.pm.forecaster.cbre.com
+dev.api.pm.forecaster.cbre.com
+test.api.pm.forecaster.cbre.com

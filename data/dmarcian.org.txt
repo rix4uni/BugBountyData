@@ -8,3 +8,8 @@ tls.ci.dmarcian.org
 ci-app.ci.dmarcian.org
 ag.ci.dmarcian.org
 sources.util.dmarcian.org
+mta-sts.ci.dmarcian.org
+mta-sts.tls.ci.dmarcian.org
+mta-sts.ag.ci.dmarcian.org
+util2.util.dmarcian.org
+mta-sts.fr.ci.dmarcian.org

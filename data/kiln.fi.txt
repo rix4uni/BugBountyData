@@ -399,3 +399,9 @@ vault.testnet.kiln.fi
 mainnet-cardano-relayer-2.cardano.mainnet.kiln.fi
 mainnet-cardano-relayer-0.cardano.mainnet.kiln.fi
 mev.holesky.testnet.kiln.fi
+espresso-sequencer-europe-regular-1.mainnet.kiln.fi
+eth.api.internal.gcp.devnet.kiln.fi
+espresso-sequencer-asia-regular-0.mainnet.kiln.fi
+espresso-sequencer-europe-regular-0.mainnet.kiln.fi
+api-dashboard.kiln.fi
+espresso-sequencer-asia-da-archive-0.mainnet.kiln.fi

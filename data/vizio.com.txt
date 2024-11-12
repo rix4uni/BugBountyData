@@ -1050,3 +1050,17 @@ stage-nimbus.plat-svcs.vizio.com
 preprod-nimbus.plat-svcs.vizio.com
 nimbus.plat-svcs.vizio.com
 eflocal-vizio.voice.plat-svcs.vizio.com
+dev.acnplus-server.developer.vizio.com
+acnplus.developer.vizio.com
+dev-nimbus.plat-svcs.vizio.com
+ir.vizio.com
+dev.acnplus.developer.vizio.com
+dev.nimbus.plat-svcs.vizio.com
+dev.us-east-1.identity-ping-proxy.plat-svcs.vizio.com
+acnplus-server.developer.vizio.com
+bwlocal-google.voice.plat-svcs.vizio.com
+dev-vcc.voice.plat-svcs.vizio.com
+prod.uam-identity-svc.plat-svcs.vizio.com
+services.developer.vizio.com
+preprod.analytics.developer.vizio.com
+stage.acnplus.developer.vizio.com

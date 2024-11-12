@@ -313,3 +313,11 @@ erence.apps.mil
 conf11-okc.api.conference.apps.mil
 cmmc.emass.apps.mil
 api.osi.apps.mil
+haproxy2.test.caas.apps.mil
+webrtc.gslb.conference.apps.mil
+master2.test.caas.apps.mil
+oauth-openshift.apps.utin-ocp-web.caas.apps.mil
+airforce.emass.apps.mil
+worker0.test.caas.apps.mil
+worker2.test.caas.apps.mil
+openshift-worker-2.utin-ocp-web.caas.apps.mil

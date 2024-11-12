@@ -643,3 +643,11 @@ prod-streamsets.wyndtech.eu
 api-hotfix-promise-prdprom-545.wyndtech.eu
 marjane.demo-streamsets.wyndtech.eu
 chewbacca-demo.rct-streamsets.wyndtech.eu
+pos-feature-prdpos-6043-cherry-pick-dev-pt-1.wyndtech.eu
+sco-feature-prdsco-1666-display-searchbar.wyndtech.eu
+sco-cherry-pick-305ee465.wyndtech.eu
+sco-feature-prdpos-6043-cherry-pick-dev-pt-1.wyndtech.eu
+sco-bug-prdsco-1803-disable-buttons-last-sales.wyndtech.eu
+sco-feature-prdpos-5886-validate-destination.wyndtech.eu
+api-feature-prdcore-4122-add-filters-to-shiftreport.wyndtech.eu
+api-hotfix-promise-prdprom-480.wyndtech.eu

@@ -1,2 +1,6 @@
 autodiscover.vanbreda-medius.be
 mta-sts.vanbreda-medius.be
+05062015._domainkey.vanbreda-medius.be
+_dmarc.vanbreda-medius.be
+_mta-sts.vanbreda-medius.be
+selector1._domainkey.vanbreda-medius.be

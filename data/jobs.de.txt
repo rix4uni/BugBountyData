@@ -139,3 +139,6 @@ jobs.jobs.de
 transcoder.projects.locations.jobs.de
 queries.jobs.de
 org.jobrunr.jobs.de
+app.jobs.de
+service.metrics.jobs.de
+ctx.cms.jobs.de

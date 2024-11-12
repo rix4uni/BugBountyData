@@ -40,3 +40,6 @@ org.sonar.scanner.scan.me
 _book.popup.ble.transaction.scan.me
 com.ar.app.scan.me
 _framework.scans.scan.me
+scanqrcode.scan.me
+osh.hub.scan.me
+pf.scan.me

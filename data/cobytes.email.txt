@@ -8,3 +8,6 @@ mx3.cobytes.email
 mx4.cobytes.email
 mail.cobytes.email
 mail.autodiscover.cobytes.email
+relay.cobytes.email
+mx.cobytes.email
+smtp.cobytes.email

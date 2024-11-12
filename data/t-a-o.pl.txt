@@ -3,3 +3,9 @@ img.t-a-o.pl
 kids.t-a-o.pl
 css.t-a-o.pl
 js.t-a-o.pl
+staging1.gcp.t-a-o.pl
+staging2.gcp.t-a-o.pl
+staging1-static.gcp.t-a-o.pl
+staging1-nocache.gcp.t-a-o.pl
+staging2-static.gcp.t-a-o.pl
+staging2-nocache.gcp.t-a-o.pl

@@ -10,3 +10,4 @@ _quine.c.py.pl
 src.py.pl
 admin.sand.py.pl
 _dmarc.py.pl
+_testwarnings.py.pl

@@ -142,3 +142,9 @@ gateway-acc-services-env-a-s01-uk-london-1.analytics-production.oci.infra8.8x8cl
 nginxtest-dev.pilot.aws.infra8.8x8cloud.net
 mobilesvcs-stage.aws.infra8.8x8cloud.net
 mobilesvcs-dev.aws.infra8.8x8cloud.net
+thw.8x8cloud.net
+gtmprod-8x8-ap-tokyo-1-s9-eq.8x8cloud.net
+oci.thw.8x8cloud.net
+analytics-production.oci.thw.8x8cloud.net
+gateway-bell-acc-services-env-a-s01-ca-toronto-1.analytics-production.oci.thw.8x8cloud.net
+mobilesvcs-prod.aws.infra8.8x8cloud.net

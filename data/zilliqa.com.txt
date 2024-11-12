@@ -289,3 +289,6 @@ bootstrap.zq2-devnet.zilliqa.com
 checkpoints.zq2-devnet.zilliqa.com
 cardano-api.seed.zilliqa.com
 checkpoints.zq2-protomainnet.zilliqa.com
+otterscan.zq2-prototestnet.zilliqa.com
+grafana.zilliqa.com
+email.gh-mail.zilliqa.com

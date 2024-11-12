@@ -1,3 +1,11 @@
 lab.quitter.pl
 movim.quitter.pl
 conversejs.quitter.pl
+pop3.quitter.pl
+autodiscover.quitter.pl
+autoconfig.quitter.pl
+chat.quitter.pl
+imap.quitter.pl
+ftp.quitter.pl
+smtp.quitter.pl
+mail.quitter.pl

@@ -180,3 +180,5 @@ email.pointpay.io
 graphql.pointpay.io
 api.internal.staging-cluster.pointpay.io
 testnet.pointpay.io
+ws.pointpay.io
+matomo.pointpay.io

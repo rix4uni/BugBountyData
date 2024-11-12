@@ -8,3 +8,7 @@ monitor.pve0.vision-daten.de
 monitor.vision-daten.de
 vault.vision-daten.de
 cloud.vision-daten.de
+docker.vision-daten.de
+firewall.vision-daten.de
+mail.vision-daten.de
+proxmox.vision-daten.de

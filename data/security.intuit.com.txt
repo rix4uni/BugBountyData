@@ -4,3 +4,4 @@ report-uri.security.intuit.com
 csp-abuse-tests.security.intuit.com
 browser-defense.security.intuit.com
 admin.security.intuit.com
+ssp-generator-dev.security.intuit.com

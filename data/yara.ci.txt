@@ -1,2 +1,4 @@
 pre.yara.ci
 int.yara.ci
+webmail.yara.ci
+mail.yara.ci

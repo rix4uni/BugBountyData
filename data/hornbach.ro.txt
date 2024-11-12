@@ -54,3 +54,5 @@ int.gcp.hornbach.ro
 prd.gcp.hornbach.ro
 dev.gcp.hornbach.ro
 oneapp-api.prd.gcp.hornbach.ro
+oneapp.int.hornbach.ro
+preprod.hornbach.ro

@@ -8,3 +8,6 @@ cpanel.serverhost.no
 mail.serverhost.no
 autodiscover.serverhost.no
 webdisk.serverhost.no
+cdn.serverhost.no
+doh.serverhost.no
+engine.serverhost.no

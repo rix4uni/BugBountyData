@@ -336,3 +336,15 @@ imply-gb-gke-1.gcp.imply.io
 imply-kh-walkme.gcp.imply.io
 imply-ml-gke-v2.gcp.imply.io
 jdbc.api.saas-qa.imply.io
+infinispan.us-east-1.aws.id.saas-stg.imply.io
+ap-southeast-1.aws.api-int.imply.io
+dashboard.us-west-2.aws.id.saas-stg.imply.io
+dashboard.us-east-1.aws.id.saas-stg.imply.io
+us-east-2.aws.api-int.imply.io
+ap-southeast-1.aws.api-int.saas-stg.imply.io
+ap-southeast-1.aws.saas-sre.imply.io
+us-east-2.aws.saas-sre.imply.io
+us-east-1.aws.id.saas-stg.imply.io
+us-west-2.aws.id.saas-stg.imply.io
+infinispan.us-west-2.aws.id.saas-stg.imply.io
+ap-southeast-1.aws.sre.saas-stg.imply.io

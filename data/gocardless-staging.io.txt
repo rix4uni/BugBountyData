@@ -128,3 +128,8 @@ risk-que.gocardless-staging.io
 github-event-publisher.gocardless-staging.io
 open-banking-testbed.gocardless-staging.io
 prometheus.na.gocardless-staging.io
+ob-sandbox.gocardless-staging.io
+crowdstrike.07zhi23huangjiaduchang-okta.developer.gocardless-staging.io
+payer-details.gocardless-staging.io
+dash-ingest-iocs-crowdstrike.bankaccountdata.gocardless-staging.io
+website-crowdstrike.developer.gocardless-staging.io

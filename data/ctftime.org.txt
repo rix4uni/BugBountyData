@@ -1,2 +1,7 @@
 oauth.ctftime.org
 dl.ctftime.org
+mail.ctftime.org
+dev.ctftime.org
+_xmpp-server._tcp.ctftime.org
+mail._domainkey.ctftime.org
+_xmpp-client._tcp.ctftime.org

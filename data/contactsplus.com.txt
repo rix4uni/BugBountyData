@@ -12,3 +12,7 @@ service.contactsplus.com
 eks-prod.contactsplus.com
 app-elb.contactsplus.com
 email.contactsplus.com
+blog.contactsplus.com
+staging.contactsplus.com
+o1.ptr3927.contactsplus.com
+integrations.contactsplus.com

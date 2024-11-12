@@ -49,3 +49,9 @@ batch4.evermart.dk
 staging.evermart.dk
 fpc.www.evermart.dk
 api.evermart.dk
+_dmarc.evermart.dk
+_sipfederationtls._tcp.evermart.dk
+autodiscover.evermart.dk
+sip.evermart.dk
+_sip._tls.evermart.dk
+lyncdiscover.evermart.dk

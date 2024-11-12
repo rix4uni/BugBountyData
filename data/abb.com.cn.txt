@@ -666,3 +666,15 @@ webapi.test.edcs.abb.com.cn
 test.api-ci01.abilityplatform02.abb.com.cn
 stage.account.buildingplus.abb.com.cn
 dev.api.motorprojects.abb.com.cn
+dev.drives.abb.com.cn
+test.e2e.abb.com.cn
+hub.service.accept.evcharging.abb.com.cn
+test.drives.abb.com.cn
+tsp.abb.com.cn
+process.abb.com.cn
+request.abb.com.cn
+test.apimanagement.abb.com.cn
+apimanagement.abb.com.cn
+motors.abb.com.cn
+projects.drives.abb.com.cn
+dev.apimanagement.abb.com.cn

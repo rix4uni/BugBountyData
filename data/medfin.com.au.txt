@@ -27,3 +27,9 @@ staging-dev-shell.nonprod.medfin.com.au
 staging-ppte-shell.nonprod.medfin.com.au
 staging-prod-shell.nonprod.medfin.com.au
 staging-sit-shell.nonprod.medfin.com.au
+apps.medfin.com.au
+mail2.medfin.com.au
+_dmarc.medfin.com.au
+localhost.medfin.com.au
+citrix.medfin.com.au
+ftp.medfin.com.au

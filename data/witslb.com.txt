@@ -1,1 +1,16 @@
 messaging.prod.witslb.com
+0.uk.mdb-cluster.witslb.com
+1.de.mdb-cluster.witslb.com
+status.witslb.com
+cha1.dev.witslb.com
+semaphore.witslb.com
+0.dev.hetz.witslb.com
+3.de.mdb-cluster.witslb.com
+minio.messaging.prod.witslb.com
+wazuh.witslb.com
+0.de.mdb-cluster.witslb.com
+2.de.mdb-cluster.witslb.com
+store.witslb.com
+crypto.pay.witslb.com
+1.uk.mdb-cluster.witslb.com
+0.us.mdb-cluster.witslb.com

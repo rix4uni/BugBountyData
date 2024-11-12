@@ -3,3 +3,6 @@ bw.janky.cloud
 files.janky.cloud
 metadata.janky.cloud
 ingress.k8s.janky.cloud
+k8s.janky.cloud
+docker-1.janky.cloud
+master-0.k8s-dev.janky.cloud

@@ -195,3 +195,4 @@ backup-mariadb.par.preprod.crto.in
 build-moab.crto.in
 devtools.crto.in
 webscale-ghost-externals.crto.in
+ns.crto.in

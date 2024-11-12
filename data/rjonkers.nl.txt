@@ -1,3 +1,9 @@
 smtp.rjonkers.nl
 mta-sts.rjonkers.nl
 mail.rjonkers.nl
+x._domainkey.rjonkers.nl
+mail.mails.rjonkers.nl
+smtp.mails.rjonkers.nl
+files.rjonkers.nl
+mails.rjonkers.nl
+_dmarc.rjonkers.nl

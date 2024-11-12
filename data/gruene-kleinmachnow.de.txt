@@ -3,3 +3,11 @@ test.www.gruene-kleinmachnow.de
 mta-sts.lists.gruene-kleinmachnow.de
 mta-sts.gruene-kleinmachnow.de
 test.gruene-kleinmachnow.de
+mail.gruene-kleinmachnow.de
+openpgpkey.gruene-kleinmachnow.de
+_dmarc.gruene-kleinmachnow.de
+pop.gruene-kleinmachnow.de
+ftp.gruene-kleinmachnow.de
+_mta-sts.gruene-kleinmachnow.de
+webmail.gruene-kleinmachnow.de
+smtp.gruene-kleinmachnow.de

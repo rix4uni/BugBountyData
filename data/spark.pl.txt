@@ -111,3 +111,4 @@ ckanext.spark.pl
 novitus.predevel.spark.pl
 io.cdap.cdap.etl.spark.pl
 parallelismsetter-org.apache.pig.backend.hadoop.executionengine.spark.pl
+org.shadowlab.spark.pl

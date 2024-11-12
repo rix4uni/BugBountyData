@@ -4,3 +4,6 @@ login.acquisition.gov
 editor.acquisition.gov
 pricespaid.acquisition.gov
 dev.acquisition.gov
+staging.acquisition.gov
+login.staging.acquisition.gov
+dns.acquisition.gov

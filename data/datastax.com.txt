@@ -34837,3 +34837,9 @@ precisenode-1.security.datastax.com
 web-test.datastax.com
 installer.datastax.com
 superset-test.insights.datastax.com
+internal.dmc-us-east-1.infra.datastax.com
+e2bee4f5-e6a1-49a6-bfe4-9c99cfdc56c5-us-east1.db.astra.datastax.com
+ingress.us-east-2.test.apps.paas.datastax.com
+superset-prod.insights.datastax.com
+8e9396e4-9658-468e-bfd8-b7e88dbccbc3-us-east-2.apps.astra.datastax.com
+00000000-0000-0000-0000-000000000000-us-east1.apps.astra.datastax.com

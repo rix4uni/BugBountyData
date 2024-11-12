@@ -73,3 +73,7 @@ play-ci.clickhouse.com
 reg.clickhouse.com
 integration-tests.clickhouse.com
 sql-clickhouse.clickhouse.com
+ftp.clickhouse.com
+stats.clickhouse.com
+mail.clickhouse.com
+cloudemail.clickhouse.com

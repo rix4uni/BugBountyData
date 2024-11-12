@@ -5,3 +5,12 @@ capi.brumbrum.it
 files.brumbrum.it
 develop.brumbrum.it
 files.staging.brumbrum.it
+test.develop.brumbrum.it
+staging.brumbrum.it
+jenkins.cicd.brumbrum.it
+bounces.brumbrum.it
+playground.brumbrum.it
+cicd.brumbrum.it
+devops.playground.brumbrum.it
+api.playground.brumbrum.it
+test.playground.brumbrum.it

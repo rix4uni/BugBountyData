@@ -380,3 +380,13 @@ pulp.prod.urbanairship.com
 c00047-dl.urbanairship.com
 c00011-dl.urbanairship.com
 c00008-dl.urbanairship.com
+demo.urbanairship.com
+prod.urbanairship.com
+alertmanager.ua-ops-transitional-prod.us-east1.gcp.urbanairship.com
+_dmarc.urbanairship.com
+c00067-dl.urbanairship.com
+grafana-core.ua-ops-transitional-prod.us-east1.gcp.urbanairship.com
+staging-reach-api.urbanairship.com
+c00068-dl.urbanairship.com
+c00103-dl.urbanairship.com
+c00025-dl.urbanairship.com

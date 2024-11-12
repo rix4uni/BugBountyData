@@ -5,3 +5,10 @@ new.deepnote-staging.com
 dev.deepnote-staging.com
 aws.deepnote-staging.com
 monitoring.deepnote-staging.com
+zfs.dev.deepnote-staging.com
+api-ra-15422.deepnote-staging.com
+ecr-proxy.aws.deepnote-staging.com
+monitoring.newton.deepnote-staging.com
+ra-15422.deepnote-staging.com
+ecr-proxy.newton.deepnote-staging.com
+tenant.deepnote-staging.com
