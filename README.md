@@ -17,5 +17,5 @@ For a user-friendly experience, you can explore these programs via the website: 
   - If your organization restricts to wildcard subdomains (e.g., `*.dell.com`), you can filter the results by using the following `grep` command to extract only the allowed subdomains:
   
     ```bash
-    grep -a "\.dell.com$"
+    grep -aE "^(.*\.)?dell\.com$"
     ```
