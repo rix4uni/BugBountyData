@@ -91,3 +91,14 @@ email.cognism.com
 app.staging.cognism.com
 proxy-staging.cognism.com
 notifications.cognism.com
+synexia.cognism.com
+www.cognism.com
+www.eventhub.cognism.com
+api-v2.cognism.com
+app.production.cognism.com
+cluster-cdnv2.development.cognism.com
+jewel-api.development.cognism.com
+k8s-ingress.development.cognism.com
+k8s-ingress.production.cognism.com
+k8s-ingress.staging.cognism.com
+k8s-ingressv2.development.cognism.com

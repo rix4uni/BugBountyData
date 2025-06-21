@@ -1377,3 +1377,12 @@ mars.0-eenews-net.int-staging.ibops.net
 ftpadmin.0-apm-proxy.int-staging.ibops.net
 product-data.gateway.int.ibops.net
 product-data.gateway.int.staging.ibops.net
+budgeting-domain.gateway.int.ibops.net
+instok-api.staging.ibops.net
+octoshop-api.staging.ibops.net
+pd-sync.ibops.net
+amy-test-gateway.gateway.int.ibops.net
+amy-test-gateway.gateway.int.staging.ibops.net
+atlantis-playground-gateway.gateway.int.staging.ibops.net
+gringotts.pay.staging.ibops.net
+pay.staging.ibops.net

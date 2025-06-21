@@ -20,3 +20,7 @@ info.preempt.com
 _dmarc.preempt.com
 lyncdiscover.preempt.com
 email.preempt.com
+www.adfs.preempt.com
+www.dev-mfa.preempt.com
+www.qa-adfs.preempt.com
+www.qa-mfa.preempt.com

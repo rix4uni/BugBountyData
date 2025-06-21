@@ -408,3 +408,5 @@ pf-collab-service--app.ap-southeast-2.dev.atl-paas.net
 cloud-order-fulfillment-service--qok957kuucdrf22f.us-east-1.prod.atl-paas.net
 github-for-jira.ap-southwest-2.dev.atl-paas.net
 jira-frontend-prod-us-1.us-east-1.prod.public.atl-paas.net
+puds.prod.atl-paas.net
+www.docker.atl-paas.net

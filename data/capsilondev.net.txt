@@ -1,0 +1,13 @@
+docker.capsilondev.net
+nexus.capsilondev.net
+waf.capsilondev.net
+cert.capsilondev.net
+decent.capsilondev.net
+dev.capsilondev.net
+k8s-dashboard-eksdev.capsilondev.net
+k8s-dashboard.capsilondev.net
+prod.capsilondev.net
+qa.capsilondev.net
+spinnaker.capsilondev.net
+stage.capsilondev.net
+test.capsilondev.net

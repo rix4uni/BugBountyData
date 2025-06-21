@@ -7140,3 +7140,12 @@ idverse-mock-server-test.designsystem.digitalservicing-np.lfscnp.com
 service-poi-notification-adapter-test.designsystem.digitalservicing-np.lfscnp.com
 moodleshyam-slack-bot-workshop-api-dev.designsystem.digitalservicing-np.lfscnp.com
 lsc.designsystem.digitalservicing-np.lfscnp.com
+contentful-adapter-dev.01.dev.eapi-pcinp.lfscnp.com
+pay-dms-bff-prod.prod.o10s.lfscnp.com
+pay-dms-webhook-service-prod.prod.o10s.lfscnp.com
+www.apply-test-au.originations-np.lfscnp.com
+www.apply-test.originations-np.lfscnp.com
+admin.apigateway-sandbox.lfscnp.com
+www.001.testapp.sandbox.lfscnp.com
+www.37degress.digitalweb.lfscnp.com
+www.tmpkong.apigateway-sandbox.lfscnp.com

@@ -1,0 +1,6 @@
+api-internal.prod.bugbust.aws
+api-public.prod.bugbust.aws
+api.ops.prod.bugbust.aws
+api.prod.bugbust.aws
+prod.bugbust.aws
+beta.bugbust.aws

@@ -1,0 +1,17 @@
+analytics.firstrade.net
+data-api.firstrade.net
+data-src.firstrade.net
+dfp.firstrade.net
+secure-gateway.firstrade.net
+www.firstrade.net
+automation-service-apps.hq.k8s.firstrade.net
+hapi-mock-api-app.hq.k8s.firstrade.net
+help.firstrade.net
+invest3.hq.k8s.firstrade.net
+new-maa-dev.hq.k8s.firstrade.net
+pm.firstrade.net
+registry.hq.k8s.firstrade.net
+segment.firstrade.net
+svelte-dev.hq.k8s.firstrade.net
+svelte-uat.hq.k8s.firstrade.net
+todo-api-poc-develop.hq.k8s.firstrade.net

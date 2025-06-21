@@ -59,3 +59,7 @@ qa.careem-internal.com
 qa.vpn.careem-internal.com
 trino-gateway.careem-internal.com
 vpn.careem-internal.com
+activity-tracker-web.careem-internal.com
+qa-apollo.careem-internal.com
+qa-cnow-integrator-service.careem-internal.com
+www.qa.vpn.careem-internal.com

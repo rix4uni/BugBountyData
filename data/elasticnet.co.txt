@@ -5118,3 +5118,7 @@ portotatames.coalfire-ece-test.dev.inf.elasticnet.co
 pentest.cloudfront.28kbas25.coalfire-ece-test.dev.inf.elasticnet.co
 dmin.coalfire-ece-test.dev.inf.elasticnet.co
 broadcast-dev-internal.coalfire-ece-test.dev.inf.elasticnet.co
+jamfpro-webhook.infosec-microservices.inf.elasticnet.co
+opal-webhook.infosec-microservices.inf.elasticnet.co
+zoom-webhook.infosec-microservices.inf.elasticnet.co
+www.signal.inf.elasticnet.co

@@ -1,0 +1,11 @@
+analytics.dynamic-preprod.xyz
+app.dynamic-preprod.xyz
+clientshare.dynamic-preprod.xyz
+events.dynamic-preprod.xyz
+redcoast-api-preprod.us-east-1.alb.dynamic-preprod.xyz
+relay.dynamic-preprod.xyz
+waas.dynamic-preprod.xyz
+wallet-service.us-east-1.dynamic-preprod.xyz
+webhooks.dynamic-preprod.xyz
+redcoast.us-east-1.cf.dynamic-preprod.xyz
+wallet-service-preprod.us-east-1.alb.dynamic-preprod.xyz

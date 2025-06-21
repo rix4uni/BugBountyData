@@ -72,3 +72,16 @@ errorproxy.portal.eye.security
 catch.eye.security
 link.eye.security
 partners.eye.security
+api.control.eye.security
+api.control.tst.eye.security
+chat.eye.security
+google.eye.security
+internal.support.eye.security
+support.eye.security
+syslogtest.logs.eye.security
+trust.eye.security
+verify-page.eye.security
+www.eye.security
+api.controlplane.eye.security
+api.controlplane.tst.eye.security
+eu-1.logs.eye.security

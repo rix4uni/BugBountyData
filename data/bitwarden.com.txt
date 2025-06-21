@@ -87,3 +87,7 @@ enterprise.bitwarden.com
 ingress-nginx-prod.bitwarden.com
 selfhosted.bitwarden.com
 login.bitwarden.com
+dl.bitwarden.com
+onyx.bitwarden.com
+www.bitwarden.com
+www.blog.bitwarden.com

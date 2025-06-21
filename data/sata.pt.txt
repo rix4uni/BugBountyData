@@ -34,3 +34,17 @@ dev-ops360-api.sata.pt
 watchdog.sata.pt
 dev-auth-manager.sata.pt
 crew.sata.pt
+dev-encaminhamentos.sata.pt
+dev-handling-info.sata.pt
+dev-tma-authorizations-api.sata.pt
+dev-traffic-forms-api.sata.pt
+expenses-api.sata.pt
+handling-info.sata.pt
+scim.sata.pt
+av.sata.pt
+booking.sata.pt
+dialin.sata.pt
+meet.sata.pt
+sip.sata.pt
+webcomponents.sata.pt
+webconference.sata.pt

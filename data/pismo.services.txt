@@ -1,0 +1,15 @@
+artifacts.pismo.services
+checkmarx.pismo.services
+helm.pismo.services
+marketplace.pismo.services
+nessusproxy.pismo.services
+qgs.pismo.services
+cortex.pismo.services
+defectdojo.pismo.services
+internal.pismo.services
+mitrecaldera.pismo.services
+nessus-proxy.pismo.services
+packets.pismo.services
+rpm.pismo.services
+sonar.pismo.services
+vpn.pismo.services

@@ -71,3 +71,17 @@ boo.phantom.app
 eth-goerli-backend.phantom.app
 embedded-wallet.phantom.app
 embedded-wallet-signer.phantom.app
+assets.phantom.app
+braze-proxy.phantom.app
+chain-explorer.phantom.app
+crowdin.phantom.app
+development-juicebox.phantom.app
+eppo-proxy-backend.phantom.app
+production-juicebox.phantom.app
+rfq-api-prod.phantom.app
+signer.phantom.app
+streaming.phantom.app
+time.phantom.app
+tp-api.phantom.app
+www.phantom.app
+mobile-embedded-wallet-signer.phantom.app

@@ -21,3 +21,5 @@ tls-testing.liveoak.net
 traefik-stg.liveoaksandbox.liveoak.net
 vpn.liveoak.net
 vpn.sandbox.liveoak.net
+www.liveoak.net
+www.tls-testing.liveoak.net

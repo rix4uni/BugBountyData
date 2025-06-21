@@ -5,3 +5,12 @@ nonprod.ampolenergy.com.au
 api.ampolenergy.com.au
 dev.ampolenergy.com.au
 _dmarc.ampolenergy.com.au
+api-1.ampolenergy.com.au
+api-dev-1.nonprod.ampolenergy.com.au
+api-stg-1.nonprod.ampolenergy.com.au
+api-tst-1.nonprod.ampolenergy.com.au
+api-tst.nonprod.ampolenergy.com.au
+demo.ampolenergy.com.au
+www.ampolenergy.com.au
+www.stg.nonprod.ampolenergy.com.au
+energy-stg-1.nonprod.ampolenergy.com.au

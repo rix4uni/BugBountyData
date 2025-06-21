@@ -1,0 +1,14 @@
+api.auth.loop.com
+auth.loop.com
+docs.loop.com
+help.loop.com
+jpm-payments.ingress.loop.com
+openvpn.loop.com
+sandbox.jpm-payments.ingress.loop.com
+setup.auth.loop.com
+status.loop.com
+trust.loop.com
+www.loop.com
+jpm-digital-signature.egress.loop.com
+mail.loop.com
+sandbox.jpm-digital-signature.egress.loop.com

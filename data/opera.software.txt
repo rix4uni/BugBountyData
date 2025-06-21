@@ -340,3 +340,13 @@ trn04-02-03.osp.opera.software
 influxdb-test-ash.osp.opera.software
 vato-linkoping-dataops.osp.opera.software
 ofi-sub.osp.opera.software
+cdn-aria-staging-media.osp.opera.software
+cdn-gamemaker-aria-media.osp.opera.software
+cdn-mini-aria-production-media.osp.opera.software
+cdn-zen-aria-media.osp.opera.software
+grafana-omsv.opera.software
+sso-dev.opera.software
+sso.opera.software
+procom.dev.osp.opera.software
+www.buildbot-dev.opera.software
+www.dns.opera.software

@@ -417,3 +417,15 @@ repository-liftmodules.forge.cloudbees.com
 alb.ecs.cloudbees.com
 repository-eggsgd.forge.cloudbees.com
 ianbrandt.ci.cloudbees.com
+cdx.jx.charts-demo.cloudbees.com
+chat.cloudbees.com
+docker-registry.jx.charts-demo.cloudbees.com
+dogfooding.cloudbees.com
+nexus.jx.charts-demo.cloudbees.com
+www.cloudbees.com
+www.previous.cloudbees.com
+www.ci-foundation.cloudbees.com
+www.defectdojo.cloudbees.com
+www.gcp.cloudbees.com
+www.ldap.cloudbees.com
+www.partners.cloudbees.com

@@ -1,0 +1,13 @@
+beta-serviceportal.tgw.services
+cypress-api.tgw.services
+cypress-dashboard.tgw.services
+cypress-director.tgw.services
+dev-mailhog.tgw.services
+dev-mlps.tgw.services
+dev-serviceportal.tgw.services
+rebranding-serviceportal.tgw.services
+serviceportal.tgw.services
+staging-mailhog.tgw.services
+staging-mlps.tgw.services
+staging-order.tgw.services
+stagings-mailhog.tgw.services

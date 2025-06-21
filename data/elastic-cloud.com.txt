@@ -5990,3 +5990,11 @@ my-deployment-ebe511.kb.australiaeast.azure.elastic-cloud.com
 45610d4d713d4fa8a9cc1241b3b6e366.ap-south-1.aws.elastic-cloud.com
 url.elastic-cloud.com
 a9229a79e5534b0ea4fe6ef0e6559515.us-east-2.aws.elastic-cloud.com
+argo-workflows-genesis.cd.us-gov-east-1.aws.elastic-cloud.com
+argo-workflows.cd.us-gov-east-1.aws.elastic-cloud.com
+argocd.cd.us-gov-east-1.aws.elastic-cloud.com
+auth.usgov.aws.elastic-cloud.com
+genesis.cd.us-gov-east-1.aws.elastic-cloud.com
+gpctl.cd.us-gov-east-1.aws.elastic-cloud.com
+mki-inventory-api.gov.elastic-cloud.com
+www.gdw55e.elastic-cloud.com

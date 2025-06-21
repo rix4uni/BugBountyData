@@ -1,0 +1,11 @@
+api-sandbox.tele-sandbox.finto.io
+auth-sandbox.tele-sandbox.finto.io
+developer-sandbox.tele-sandbox.finto.io
+dumper.tele-sandbox.finto.io
+grafana-sandbox.tele-sandbox.finto.io
+jenkins-sandbox.tele-sandbox.finto.io
+k8s-sandbox.tele-sandbox.finto.io
+prom-sandbox.tele-sandbox.finto.io
+status.finto.io
+tele-sandbox.finto.io
+vault-sandbox.tele-sandbox.finto.io

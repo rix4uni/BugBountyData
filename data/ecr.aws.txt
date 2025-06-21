@@ -1,0 +1,13 @@
+api.us-east-1.gallery.ecr.aws
+gallery.ecr.aws
+public.ecr.aws
+public.spencer.ecr.aws
+repository-mapping.ecr-public.ecr.aws
+spencer-beta.ecr.aws
+spencer.ecr.aws
+beta.repository-mapping.ecr-public.ecr.aws
+dev.repository-mapping.ecr-public.ecr.aws
+ecr-redirect-test.ecr.aws
+gamma.repository-mapping.ecr-public.ecr.aws
+public.spencer-beta.ecr.aws
+us-east-1.gallery.ecr.aws

@@ -539,3 +539,16 @@ xbroker-z1-i1.dev.arlocloud.com
 xbroker-z2-i1.dev.arlocloud.com
 xcloud-builder.arlocloud.com
 xray.arlocloud.com
+www.advisor.arlocloud.com
+www.base01-cloudera.arlocloud.com
+www.base02-cloudera.arlocloud.com
+www.base03-cloudera.arlocloud.com
+www.hls.arlocloud.com
+www.kubernetesprod.arlocloud.com
+www.mqtt-cluster-z1.loadtest.arlocloud.com
+www.nifi01-cdp.arlocloud.com
+www.nifi02-cdp.arlocloud.com
+www.nifi03-cdp.arlocloud.com
+www.reportportal-dev.arlocloud.com
+www.tsb-nonprod.arlocloud.com
+www.wsd.arlocloud.com

@@ -1,0 +1,17 @@
+api.datasine.com
+foo.datasine.com
+getstarted.datasine.com
+jenkins.datasine.com
+production.api.datasine.com
+production.canopy.datasine.com
+production.pomegranate.datasine.com
+proxy.pomegranate.production.api.datasine.com
+proxy.pomegranate.staging.api.datasine.com
+sentry.datasine.com
+site.datasine.com
+staging.api.datasine.com
+staging.canopy.datasine.com
+staging.datasine.com
+staging.pomegranate.datasine.com
+trial.datasine.com
+wordpress.datasine.com

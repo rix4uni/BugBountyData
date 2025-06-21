@@ -16,3 +16,8 @@ payops-dashboard.gocardless-banking.io
 thanos-querier.gocardless-banking.io
 proxygen.gocardless-banking.io
 2048-xcode6.gocardless-banking.io
+bank-store-que-live.gocardless-banking.io
+bank-store-que-sandbox.gocardless-banking.io
+bank-store-que-ui-live.gocardless-banking.io
+gringotts-que-live.gocardless-banking.io
+gringotts-que-sandbox.gocardless-banking.io

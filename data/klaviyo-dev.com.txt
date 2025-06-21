@@ -72,3 +72,14 @@ test-marketing-origin-rules.klaviyo-dev.com
 ws.gitpod.klaviyo-dev.com
 www-proxy-cutover-test.klaviyo-dev.com
 yamato-iii-kez-hackathon-2022.services.klaviyo-dev.com
+a.klaviyo-dev.com
+argo-webhook-dev-argo-alpha.control.klaviyo-dev.com
+argo-webhook-dev-argo-awit.control.klaviyo-dev.com
+argo-webhook-dev-argo-jkm.control.klaviyo-dev.com
+argo-webhook-dev-argo-nl-b.control.klaviyo-dev.com
+argo-webhook-dev-argo-raj.control.klaviyo-dev.com
+argo-webhook-dev-argo-russo.control.klaviyo-dev.com
+argo-webhook-dev-argo-svg-a.control.klaviyo-dev.com
+argo-webhook-dev-argo-bdav.control.klaviyo-dev.com
+argo-webhook-dev-argo-joshs.control.klaviyo-dev.com
+argo-webhook-dev-argo-mike.control.klaviyo-dev.com

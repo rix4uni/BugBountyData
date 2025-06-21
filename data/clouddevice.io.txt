@@ -1,0 +1,10 @@
+admin.clouddevice.io
+admin.prod.granite.clouddevice.io
+auth.logging.clouddevice.io
+kibana.clouddevice.io
+legacy.logging.clouddevice.io
+logging.clouddevice.io
+testdiag.clouddevice.io
+testdiag.prod.granite.clouddevice.io
+www.admin.clouddevice.io
+www.admin.prod.granite.clouddevice.io

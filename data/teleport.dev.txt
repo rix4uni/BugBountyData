@@ -77,3 +77,6 @@ teleportuser.resources.teleport.dev
 debug.teleport.dev
 win-jr2l4p7kn15.teleport.dev
 teleportopensshserverv2.resources.teleport.dev
+approval-service.eks-gha-dev.cluster.teleport.dev
+www.teleport.dev
+gha-webhook.eks-gha-dev.cluster.teleport.dev

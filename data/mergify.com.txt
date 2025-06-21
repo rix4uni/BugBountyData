@@ -48,3 +48,14 @@ docs3.mergify.com
 docs2.mergify.com
 aws.mergify.com
 slack.mergify.com
+jenkins-dev.mergify.com
+mta-sts.mergify.com
+plausible.mergify.com
+www.mergify.com
+api-dev.mergify.com
+api-gcp-dev.mergify.com
+api-gcp.mergify.com
+github-webhook-dev.mergify.com
+github-webhook-gcp.mergify.com
+subscription-dev.mergify.com
+subscription-gcp.mergify.com

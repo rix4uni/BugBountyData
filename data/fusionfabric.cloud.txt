@@ -251,3 +251,7 @@ cse.fusionfabric.cloud
 test.digitalchannels.fusionfabric.cloud
 fmb.sandbox.fusionfabric.cloud
 prod.paas.fusionfabric.cloud
+api.preprod.fusionfabric.cloud
+beta.dev.fusionfabric.cloud
+www.fusionfabric.cloud
+www.qa.fusionfabric.cloud

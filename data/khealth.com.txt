@@ -174,3 +174,16 @@ payme-webhook-service.khealth.com
 lambdas-node.khealth.com
 api-akeyless.khealth.com
 support.khealth.com
+1p-scim.khealth.com
+event-enrichment.khealth.com
+gdpr.khealth.com
+hawk-gpt.khealth.com
+hero-force.khealth.com
+kangpy.khealth.com
+middle-force.khealth.com
+ml-models.khealth.com
+ro-temp.khealth.com
+ui-akeyless.infra.khealth.com
+www.khealth.com
+infra.khealth.com
+www.care.khealth.com

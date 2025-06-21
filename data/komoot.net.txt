@@ -84,3 +84,5 @@ live-location.main.komoot.net
 garmin-integration.main.komoot.net
 s3-file-logging.ios.komoot.net
 staging.backend-operational-tools.komoot.net
+staging.user-consent-staging.komoot.net
+user-consent-production.komoot.net
