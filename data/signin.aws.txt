@@ -199,3 +199,5 @@ us-west-1.api.prodish.signin.aws
 us-west-2.alpha.dev.signin.aws
 us-west-2.beta.signin.aws
 yukisait-credentials.dev.signin.aws
+signin.aws
+ap-east-2.signin.aws

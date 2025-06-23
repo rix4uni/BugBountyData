@@ -1,0 +1,6 @@
+api.adm.manager.pingpong.build
+api.adm.handler.pingpong.build
+stats.pingpong.build
+test.api.pingpong.build
+dev.api.pingpong.build
+api.pingpong.build

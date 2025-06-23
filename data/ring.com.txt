@@ -3118,3 +3118,13 @@ www.rs.dev.splunk.dm.ring.com
 www.rs.splunk.dm.ring.com
 www.vpn.ring.com
 www.webhooks.prod.splunk.dm.ring.com
+ring.com
+jira-eks.atl-dev.ring.com
+jira-eks.atl.ring.com
+ecs.us-east-1.devices.oauth.qa.ring.com
+ecs.us-east-1.devices.oauth.dev.ring.com
+ecs.eu-west-1.devices.oauth.qa.ring.com
+ecs.us-west-2.devices.oauth.dev.ring.com
+ecs.us-west-2.devices.oauth.qa.ring.com
+ecs.eu-west-1.devices.oauth.dev.ring.com
+deploy-jenkins.staging.rs.ring.com

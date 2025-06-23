@@ -1,0 +1,11 @@
+development.sephora-asia.net
+production.sephora-asia.net
+internal.sephora-asia.net
+staging.sephora-asia.net
+mlflow-staging.gcp.data.sephora-asia.net
+aero.gcp.data.sephora-asia.net
+grafana.gcp.data.sephora-asia.net
+als-recommend-staging.gcp.data.sephora-asia.net
+apigee-dev.gcp.data.sephora-asia.net
+dataiku.gcp.data.sephora-asia.net
+gtm-lb.gcp.data.sephora-asia.net

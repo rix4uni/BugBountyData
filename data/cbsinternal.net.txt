@@ -1,0 +1,13 @@
+checkmk-ap-southeast-1.cbsinternal.net
+tools0.cbsinternal.net
+tools1.cbsinternal.net
+grafana.cbsinternal.net
+messaging.cbsinternal.net
+pyroscope-ui.observability.cbsinternal.net
+checkmk-eu-central-1.cbsinternal.net
+git-webhook.videorelay-dev-euc1.cbsinternal.net
+observability.cbsinternal.net
+alertmanager-ui.observability.cbsinternal.net
+grafana.observability.cbsinternal.net
+checkmk-us-east-1.cbsinternal.net
+vr.cbsinternal.net

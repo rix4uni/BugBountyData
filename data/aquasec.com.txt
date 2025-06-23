@@ -1254,3 +1254,5 @@ k8s.pks.pks19.labs.aquasec.com
 console-ocp311dockerpool2.labs.aquasec.com
 console-okd8.labs.aquasec.com
 connect.codesec.aquasec.com
+aquasec.com
+mcp-poc.platform-dev.cloud.aquasec.com

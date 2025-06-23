@@ -1552,3 +1552,6 @@ infasandbox.share.mindtickle.com
 app.mindtickle.com
 influxdb2.devops-eks.mindtickle.com
 cb5-node-1.internal.mindtickle.com
+mindtickle.com
+kong-oss.integration.mindtickle.com
+kong-oss.staging.mindtickle.com

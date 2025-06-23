@@ -87,3 +87,6 @@ portal-apollo.bitrue.com
 zmq-openapi.bitrue.com
 zmq-fapi.bitrue.com
 _dmarc.bitrue.com
+bitrue.com
+www.bitrue.com
+*.bitrue.com

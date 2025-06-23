@@ -1,0 +1,14 @@
+workplace.production.partner-siaec.aicadium.ai
+siaec.ap-southeast-1.staging.siaec-002.aicadium.ai
+workplace.staging.partner-siaec.aicadium.ai
+workplace.staging.view.aicadium.ai
+gategroup.us-west-2.production.gategroup.aicadium.ai
+corporate.production-us-west-2.corporate.aicadium.ai
+gategroup.us-west-2.staging.gategroup.aicadium.ai
+platform-eks-cluster.staging.platform.aicadium.ai
+gategroup.us-west-2.production.gategroup-002.aicadium.ai
+platform-eks-cluster.production.platform.aicadium.ai
+demo.us-west-2.production.view-demo.aicadium.ai
+gategroup.us-west-2.staging.gategroup-002.aicadium.ai
+demo.us-west-2.staging.view-demo.aicadium.ai
+siaec.ap-southeast-1.production.siaec-002.aicadium.ai

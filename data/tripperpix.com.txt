@@ -1,0 +1,15 @@
+api-vb-partner-ext-dev.tripperpix.com
+gitlab-dev.tripperpix.com
+grafana-vb-mobile-sit.tripperpix.com
+vb-jenkins.tripperpix.com
+api-vb-mobile-ext-dev.tripperpix.com
+argocd-common-sit.tripperpix.com
+sonarqube.tripperpix.com
+extgw-vb-common.tripperpix.com
+extgw-cb-old-poc.tripperpix.com
+api-vb-mobile-uat.mb.nonprod.aws.tripperpix.com
+argocd-vb-platform-uat.mb.th.nonprod.aws.tripperpix.com
+api-vb-common-uat.cm.nonprod.aws.tripperpix.com
+argocd-vb-common-uat.cm.th.nonprod.aws.tripperpix.com
+api-vb-partner-uat.mb.th.nonprod.aws.tripperpix.com
+gitlab-devops.tripperpix.com

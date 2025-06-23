@@ -1,0 +1,7 @@
+ncnd.services
+portal.ncnd.services
+jumpbox.ncnd.services
+consul.jumpbox.ncnd.services
+deploy.jumpbox.ncnd.services
+swarm.jumpbox.ncnd.services
+zabbix.jumpbox.ncnd.services

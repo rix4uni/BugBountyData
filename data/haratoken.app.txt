@@ -1,0 +1,10 @@
+haratoken.app
+api.traceability.dev.haratoken.app
+trace-prd-demo-alb-ext.haratoken.app
+trace-prd-alb-ext.haratoken.app
+trace-gar-dev-zmb-alb.haratoken.app
+trace-gar-dev-after-alb.haratoken.app
+trace-gar-stg-alb.haratoken.app
+trace-gar-dev-alb.haratoken.app
+trace-platform-svc-v2-alb-stg.haratoken.app
+sonarqube.internal.haratoken.app

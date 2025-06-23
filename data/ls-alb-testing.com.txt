@@ -1,0 +1,7 @@
+cert-lb-deactivate-redirects.ls-alb-testing.com
+cert-lb-activate-redirects.ls-alb-testing.com
+cert-lb-change-tls-policy.ls-alb-testing.com
+ls-alb-testing.com
+ap-southeast-2.ls-alb-testing.com
+syd.ls-alb-testing.com
+lwchan-qs.ls-alb-testing.com
