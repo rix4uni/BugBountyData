@@ -34,3 +34,4 @@ active-consumer-group.deliveroo-data-test.io
 risk-index.deliveroo-data-test.io
 snowflake-insights.deliveroo-data-test.io
 franz-docs.deliveroo-data-test.io
+*.deliveroo-data-test.io

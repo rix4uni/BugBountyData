@@ -3593,3 +3593,5 @@ us-east-1.falcon-sandbox.com
 elb.elb.falcon-sandbox.com
 elb.eu-west-1.compute.falcon-sandbox.com
 eu-west-1.compute.falcon-sandbox.com
+*.falcon-sandbox.com
+www.falcon-sandbox.com

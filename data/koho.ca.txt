@@ -168,3 +168,10 @@ www.rds.internaldb.koho.ca
 www.rds.stg-internaldb.koho.ca
 www.tampuli.koho.ca
 wwweks.line-of-credit.koho.ca
+*.koho.ca
+*.amq.koho.ca
+*.data.koho.ca
+*.internal.koho.ca
+*.line-of-credit.koho.ca
+bpoauthenticated.admin.koho.ca
+www.bpo.admin.koho.ca

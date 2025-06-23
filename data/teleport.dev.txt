@@ -80,3 +80,4 @@ teleportopensshserverv2.resources.teleport.dev
 approval-service.eks-gha-dev.cluster.teleport.dev
 www.teleport.dev
 gha-webhook.eks-gha-dev.cluster.teleport.dev
+*.teleport.dev

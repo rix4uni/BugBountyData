@@ -24,3 +24,9 @@ _dmarc.loanbuilder.com
 temptest.loanbuilder.com
 www.loanbuilder.com
 www.try.loanbuilder.com
+*.loanbuilder.com
+*.dev.loanbuilder.com
+*.ist.loanbuilder.com
+*.sbx.loanbuilder.com
+*.test.loanbuilder.com
+*.uat.loanbuilder.com

@@ -10540,3 +10540,9 @@ server5141.dattobackup.com
 110.130.147.136.dattobackup.com
 64.122.130.104.dattobackup.com
 testdevice.dattobackup.com
+*.dattobackup.com
+*.device.dattobackup.com
+*.testdevice.dattobackup.com
+www.dattobackup.com
+www.continuum.dattobackup.com
+www.helpdesk.dattobackup.com

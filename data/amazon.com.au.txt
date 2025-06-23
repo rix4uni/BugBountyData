@@ -243,3 +243,13 @@ yo-www-amazon-com-au-kalias.amazon.com.au
 nt-www-amazon-com-au-kalias.amazon.com.au
 y3-www-amazon-com-au-kalias.amazon.com.au
 abc.smile.amazon.com.au
+.amazon.com.au
+*.amazon.com.au
+*.transient.amazon.com.au
+business.amazon.com.au
+mcs-cdn.business.amazon.com.au
+test-jsissue-longnameissue.amazon.com.au
+transmitter-testing1.amazon.com.au
+transmitter-testing2.amazon.com.au
+www.amazon.com.au
+www.logistics.amazon.com.au

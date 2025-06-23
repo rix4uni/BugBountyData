@@ -11,3 +11,7 @@ blog.iopay.me
 gateway.iopay.me
 campaign.iopay.me
 gateway-prod.iopay.me
+.iopay.me
+*.iopay.me
+gateway-point.iopay.me
+www.iopay.me

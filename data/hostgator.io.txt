@@ -13,3 +13,6 @@ dev-subscriptions.hostgator.io
 gator-solutions.hostgator.io
 test-proemail.hostgator.io
 test-subscriptions.hostgator.io
+*.hostgator.io
+www.mtls-gatorpay.hostgator.io
+www.test-mtls-gatorpay.hostgator.io

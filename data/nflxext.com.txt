@@ -18,3 +18,7 @@ atv.assets.nflxext.com
 akam.geo.nflxext.com
 geo.nflxext.com
 san.akam.geo.nflxext.com
+*.nflxext.com
+*.assets.nflxext.com
+*.games.nflxext.com
+www.nflxext.com

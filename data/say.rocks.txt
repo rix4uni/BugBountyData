@@ -174,3 +174,6 @@ postal.sandbox.say.rocks
 _dmarc.say.rocks
 nexus.say.rocks
 com.cdn.say.rocks
+*.say.rocks
+*.sandbox.say.rocks
+www.say.rocks

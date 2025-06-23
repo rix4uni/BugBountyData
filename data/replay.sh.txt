@@ -25,3 +25,7 @@ eventservice2.replay.sh
 raylink.data.replay.sh
 previousstate.replay.sh
 data.replay.sh
+.replay.sh
+*.replay.sh
+*.dev.replay.sh
+www.replay.sh

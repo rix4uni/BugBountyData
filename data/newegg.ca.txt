@@ -401,3 +401,7 @@ mail1.newegg.ca
 _www.newegg.ca
 pylint-dict-view-method.newegg.ca
 reg.promo.newegg.ca
+*.newegg.ca
+www.newegg.ca
+www.ows.newegg.ca
+www.secure.newegg.ca

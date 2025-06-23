@@ -88,3 +88,9 @@ com.longge.redis.com
 example.redis.com
 com.sematext.solr.redis.com
 agfapath.redis.com
+.redis.com
+*.redis.com
+*.exhibit.demo.gallery.redis.com
+*.redisinsight.redis.com
+perf-portal.redis.com
+www.redis.com

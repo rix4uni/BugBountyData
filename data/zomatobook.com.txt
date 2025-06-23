@@ -21,3 +21,5 @@ test.zomatobook.com
 _dmarc.zomatobook.com
 email.zomatobook.com
 codereview.zomatobook.com
+*.zomatobook.com
+www.zomatobook.com

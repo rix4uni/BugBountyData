@@ -12,3 +12,5 @@ preprod-app.asymetrix.io
 preprod.asymetrix.io
 prod.asymetrix.io
 _dmarc.asymetrix.io
+.asymetrix.io
+*.asymetrix.io

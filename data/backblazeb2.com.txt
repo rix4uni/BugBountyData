@@ -6357,3 +6357,13 @@ secure-document-k.s3.us-east-005.backblazeb2.com
 seoexpert.s3.eu-central-003.backblazeb2.com
 awexni.s3.us-east-005.backblazeb2.com
 s3.ca-east-006.backblazeb2.com
+.backblazeb2.com
+*.backblazeb2.com
+*.s3.ca-east-006.backblazeb2.com
+*.s3.eu-central-003.backblazeb2.com
+*.s3.us-east-005.backblazeb2.com
+*.s3.us-west-000.backblazeb2.com
+*.s3.us-west-001.backblazeb2.com
+*.s3.us-west-002.backblazeb2.com
+*.s3.us-west-004.backblazeb2.com
+www.backblazeb2.com

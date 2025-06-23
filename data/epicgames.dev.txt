@@ -3,3 +3,5 @@ weighted-epic-connect-manager-prod.epicgames.dev
 weighted-zh-connect.epicgames.dev
 connect.epicgames.dev
 250aapi.epicgames.dev
+*.epicgames.dev
+www.epicgames.dev

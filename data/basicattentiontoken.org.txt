@@ -3717,3 +3717,9 @@ livnmiiad.adm.pr.basicattentiontoken.org
 ms-sql.regionpayledger-internal.pr.basicattentiontoken.org
 jenkins.mercury-paycloudfront-control.pr.basicattentiontoken.org
 personal.eyeshade-staging2-developer.pr.basicattentiontoken.org
+.basicattentiontoken.org
+*.basicattentiontoken.org
+*.mercury.basicattentiontoken.org
+*.pr.basicattentiontoken.org
+www.basicattentiontoken.org
+www.staging.basicattentiontoken.org

@@ -29,3 +29,10 @@ felog.toobit.com
 api-plaza.toobit.com
 m.toobit.com
 maintenance.toobit.com
+*.toobit.com
+*.broker-admin.toobit.com
+*.saas-admin.toobit.com
+apitv.toobit.com
+tggame.toobit.com
+tgm.toobit.com
+www.toobit.com

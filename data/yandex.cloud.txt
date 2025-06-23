@@ -74,3 +74,9 @@ site-tools-preprod.yandex.cloud
 site-tools.yandex.cloud
 us.enterprise.datalens.yandex.cloud
 zitadel.enterprise.datalens.yandex.cloud
+*.baremetal.cloud.yandex.cloud
+*.baremetal.cloud-preprod.yandex.cloud
+*.chess.site-tools.yandex.cloud
+*.chess.site-tools-preprod.yandex.cloud
+*.oss.datalens.yandex.cloud
+*.site-tools.yandex.cloud

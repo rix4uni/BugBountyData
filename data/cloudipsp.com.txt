@@ -90,3 +90,9 @@ cdn-2109.cloudipsp.com
 7-207-27-190.fwd.cloudipsp.com
 9-99-81-233.fwd.cloudipsp.com
 afoamt1215.afoam.cloudipsp.com
+*.cloudipsp.com
+www.cloudipsp.com
+www.api.cloudipsp.com
+www.confluence.cloudipsp.com
+www.jira.cloudipsp.com
+www.sentry.cloudipsp.com

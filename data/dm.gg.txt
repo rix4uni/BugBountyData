@@ -461,3 +461,12 @@ dynamic-watch-history-red-dc3.kube.dm.gg
 cal1.dm.gg
 nyc1.dm.gg
 pol1.dm.gg
+*.dm.gg
+*.kube.dm.gg
+*.preview.kube.dm.gg
+*.pub.kube.dm.gg
+*.stg.dm.gg
+data-dyn-ads-pressure-api-us-west-2.k8s.dm.gg
+devops-demo-us-east-2-cdn.k8s.dm.gg
+devops-demo-us-west-2-cdn.k8s.dm.gg
+dyn-floor-prices-ap-south-1.k8s.dm.gg

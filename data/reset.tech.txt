@@ -45,3 +45,6 @@ test.reset.tech
 enterpriseenrollment.reset.tech
 flash.reset.tech
 dev.reset.tech
+.reset.tech
+*.reset.tech
+*.social.reset.tech

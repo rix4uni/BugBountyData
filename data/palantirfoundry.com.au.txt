@@ -54,3 +54,10 @@ zire-mgmt-staging.palantirfoundry.com.au
 waratah-container-registry-staging.palantirfoundry.com.au
 estimateone.palantirfoundry.com.au
 iic.palantirfoundry.com.au
+*.aplos.palantirfoundry.com.au
+*.bondi.palantirfoundry.com.au
+*.horizon.palantirfoundry.com.au
+cv.palantirfoundry.com.au
+pt-aus.palantirfoundry.com.au
+reformpoc.palantirfoundry.com.au
+tassaldev.palantirfoundry.com.au

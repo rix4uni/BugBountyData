@@ -17,3 +17,5 @@ smtp.lgtm.com
 _acme-challenge.www.lgtm.com
 _acme-challenge.lgtm.com
 _dmarc.lgtm.com
+www.lgtm.com
+www.downloads.lgtm.com

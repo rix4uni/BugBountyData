@@ -640,3 +640,13 @@ www.mars.hypr.com
 www.partners.hypr.com
 www.resources.hypr.com
 www.support.hypr.com
+.hypr.com
+*.hypr.com
+*.dev.hypr.com
+*.gov.hypr.com
+*.int.hypr.com
+*.localtest.dev.hypr.com
+*.prod.hypr.com
+*.stg.hypr.com
+*.tam.hypr.com
+vault-wellsfargo-rds-test.923080219292.hypr.com

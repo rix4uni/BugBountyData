@@ -156,3 +156,10 @@ super-apps.paytmmoney.com
 api-eq-feed.paytmmoney.com
 info.paytmmoney.com
 api-banks.paytmmoney.com
+.paytmmoney.com
+*.paytmmoney.com
+*.dev.paytmmoney.com
+*.devops.paytmmoney.com
+*.gold.paytmmoney.com
+*.staging.paytmmoney.com
+www.paytmmoney.com

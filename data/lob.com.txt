@@ -226,3 +226,11 @@ ldap.production-apps.lob.com
 https-universal-teachme-com01.production-apps.lob.com
 s3.production-apps.lob.com
 easa.production-apps.lob.com
+.lob.com
+*.lob.com
+*.hg.lob.com
+*.production-apps.lob.com
+*.render-production-apps.lob.com
+production-nomad-oidc.lob.com
+render-production-nomad-oidc.lob.com
+www.lob.com

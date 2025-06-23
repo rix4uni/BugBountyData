@@ -5771,3 +5771,17 @@ control.0xffffffe0.singleplatform.com
 view.em.singleplatform.com
 click.em.singleplatform.com
 rubyofsiam.singleplatform.com
+.singleplatform.com
+*.singleplatform.com
+*.api-sandbox.singleplatform.com
+*.docs.singleplatform.com
+*.integration.singleplatform.com
+*.login.integration.singleplatform.com
+*.login.qa1.singleplatform.com
+*.login.qa2.singleplatform.com
+*.mgmt.singleplatform.com
+*.prod.singleplatform.com
+*.qa1.singleplatform.com
+*.qa2.singleplatform.com
+www.singleplatform.com
+www.bugzilla.singleplatform.com

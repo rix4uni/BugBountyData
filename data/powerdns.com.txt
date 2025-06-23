@@ -229,3 +229,7 @@ dnsname-two.smn.tests.powerdns.com
 withednsnoecs.bereturnsecsthencookies.ecs.tests.powerdns.com
 nameandqtype.tests.powerdns.com
 qrate.group.dynblocks.tests.powerdns.com
+*.powerdns.com
+www.powerdns.com
+www.autotest.powerdns.com
+www.xs.powerdns.com

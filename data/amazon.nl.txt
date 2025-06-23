@@ -184,3 +184,9 @@ eu-api-alexa-gamma.amazon.nl
 na-api-alexa-gamma.amazon.nl
 projectdee-ui-gamma.amazon.nl
 tp.44c469b21-frontier.amazon.nl
+*.amazon.nl
+*.transient.amazon.nl
+www.amazon.nl
+www.advertising.amazon.nl
+www.cdn.amazon.nl
+www.logistics.amazon.nl

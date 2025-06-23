@@ -299,3 +299,6 @@ default220.sec-tunnel.com
 a30-03-01.sec-tunnel.com
 se.sec-tunnel.com
 www.api.sec-tunnel.com
+.sec-tunnel.com
+*.sec-tunnel.com
+www.sec-tunnel.com

@@ -328,3 +328,7 @@ yeetusdeletus.ratelimited.me
 _dmarc.ratelimited.me
 mail._domainkey.ratelimited.me
 staff.ratelimited.me
+*.ratelimited.me
+www.ratelimited.me
+www.auth.ratelimited.me
+www.forums.ratelimited.me

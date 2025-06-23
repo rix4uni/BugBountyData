@@ -153,3 +153,8 @@ r104.newsletters.monki.com
 s1._domainkey.rate.monki.com
 o71.ptr5617.em1888.monki.com
 _dmarc.mail.monki.com
+*.npr.monki.com
+m20.email.monki.com
+m21.email.monki.com
+www.monki.com
+www.staging.monki.com

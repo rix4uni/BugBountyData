@@ -21,3 +21,11 @@ w.bigbank.se
 localhost.bigbank.se
 org.fabric3.samples.bigbank.se
 be.continuum.bigbank.se
+.bigbank.se
+*.bigbank.se
+*.email.bigbank.se
+*.se.bigbank.se
+*.static.bigbank.se
+www.bigbank.se
+www.ansokan.bigbank.se
+www.brokers.bigbank.se

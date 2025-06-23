@@ -20,3 +20,6 @@ http-3a__www.mapmyride.com
 it.mapmyride.com
 fr.mvp.mapmyride.com
 www.mapmyride.com
+.mapmyride.com
+*.mapmyride.com
+*.mvp.mapmyride.com

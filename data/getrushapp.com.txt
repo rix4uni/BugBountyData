@@ -183,3 +183,6 @@ rgs06.getrushapp.com
 api-staging.getrushapp.com
 matchmaking-int.getrushapp.com
 rgs-cb01.getrushapp.com
+*.getrushapp.com
+www.getrushapp.com
+www.cdn.getrushapp.com

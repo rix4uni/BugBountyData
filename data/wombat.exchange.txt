@@ -18,3 +18,5 @@ vesting.wombat.exchange
 _dmarc.wombat.exchange
 prod-api.wombat.exchange
 test-api.wombat.exchange
+*.wombat.exchange
+www.wombat.exchange

@@ -8388,3 +8388,7 @@ cpanelservice2.smtp2go.com
 corp.smtp2go.com
 a0i212.smtp2go.com
 250-mail.smtp2go.com
+*.smtp2go.com
+www.smtp2go.com
+www.api.smtp2go.com
+www.careers.smtp2go.com

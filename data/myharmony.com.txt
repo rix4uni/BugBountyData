@@ -187,3 +187,8 @@ origin-cf-svcs-beta2.myharmony.com
 support-beta1.myharmony.com
 smart-control-add-onsupport.myharmony.com
 09support.myharmony.com
+*.myharmony.com
+*.dhg.myharmony.com
+*.dynamite.myharmony.com
+*.express.myharmony.com
+*.int.myharmony.com

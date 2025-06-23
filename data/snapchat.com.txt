@@ -1779,3 +1779,14 @@ farmland.games.snapchat.com
 squiggle.games.snapchat.com
 platform.snapchat.com
 star.aws.duplex.snapchat.com
+*.snapchat.com
+*.api.snapchat.com
+*.ats.snapchat.com
+*.aws.duplex.snapchat.com
+*.aws.staging.duplex.snapchat.com
+*.games.snapchat.com
+*.sc-gw-dev.snapchat.com
+image.learn.ads.snapchat.com
+www.snapchat.com
+www.business.snapchat.com
+www.intg.snapchat.com

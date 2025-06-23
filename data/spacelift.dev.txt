@@ -2074,3 +2074,5 @@ uoe5.app.spacelift.dev
 themommymarch.app.spacelift.dev
 smpsradio.app.spacelift.dev
 unitws.app.spacelift.dev
+*.spacelift.dev
+*.app.spacelift.dev

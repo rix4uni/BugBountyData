@@ -5088,3 +5088,13 @@ clients.1491872405.doctolib.net
 13e4b.doctolib.net
 15898.doctolib.net
 14e6e.doctolib.net
+.doctolib.net
+*.doctolib.net
+*.preview.doctolib.net
+*.teleport.doctolib.net
+*.tfe-run-tasks-prod.doctolib.net
+tfe-clone.doctolib.net
+tfe-docker-github-staging.doctolib.net
+tfe-docker-staging.doctolib.net
+tfe-github-clone.doctolib.net
+www.papercut.doctolib.net

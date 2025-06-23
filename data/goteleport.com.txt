@@ -104,3 +104,10 @@ docs.amplify.goteleport.com
 experience.goteleport.com
 web.amplify.goteleport.com
 amplify.goteleport.com
+.goteleport.com
+*.goteleport.com
+*.blog.amplify.goteleport.com
+*.docs.amplify.goteleport.com
+*.docusaurus.goteleport.com
+*.web.amplify.goteleport.com
+www.goteleport.com

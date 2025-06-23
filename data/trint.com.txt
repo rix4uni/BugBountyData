@@ -94,3 +94,17 @@ legacy.eu.trint.com
 next-app.trint.com
 webflow.trint.com
 checkout-embedded.trint.com
+.trint.com
+*.trint.com
+*.embed.trint.com
+*.embed.eu.trint.com
+*.eu.trint.com
+*.fs.trint.com
+*.internal.trint.com
+*.internal.eu.trint.com
+*.k8s.trint.com
+*.k8s.eu.trint.com
+testmailbox.trint.com
+testmailbox.eu.trint.com
+www.trint.com
+www.blog.trint.com

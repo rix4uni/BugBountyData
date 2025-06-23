@@ -115,3 +115,6 @@ argocd-dev2.wpengine.io
 npivovarov-dev.wpengine.io
 www.techops-staging.wpengine.io
 www.techops.wpengine.io
+*.wpengine.io
+canary-api1-lb.wpengine.io
+canary-api2-lb.wpengine.io

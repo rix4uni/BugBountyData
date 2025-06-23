@@ -209,3 +209,12 @@ base-sepolia-dev.cbhq.net
 subdomain-did-api-dev.cbhq.net
 ckms-es-dev.cbhq.net
 ckms-es.cbhq.net
+*.cbhq.net
+*.buf.cbhq.net
+*.cdp-web-staging.cbhq.net
+*.dev.cbhq.net
+*.github.cbhq.net
+*.github-dev.cbhq.net
+*.it.cbhq.net
+*.panther.cbhq.net
+*.panther-dev.cbhq.net

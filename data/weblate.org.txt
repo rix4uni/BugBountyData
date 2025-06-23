@@ -27,3 +27,7 @@ mail.weblate.org
 users.noreply.hosted.weblate.org
 api.weblate.org
 shop.weblate.org
+.weblate.org
+*.weblate.org
+graylog.weblate.org
+www.weblate.org

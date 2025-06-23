@@ -1036,3 +1036,12 @@ sv.doctolib.it
 _xmpp-client._tcp.doctolib.it
 vg.doctolib.it
 xmail.doctolib.it
+.doctolib.it
+*.doctolib.it
+*.integration-production.doctolib.it
+*.integration-staging.doctolib.it
+*.portal.doctolib.it
+*.portal-interf.doctolib.it
+*.portal-staging.doctolib.it
+*.preview.doctolib.it
+www.doctolib.it

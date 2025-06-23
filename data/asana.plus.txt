@@ -1263,3 +1263,5 @@ hinet-03-monitor-auth-authstaging.integrations-auth.asana.plus
 hinet-05-else-auth-uat.integrations-auth.asana.plus
 hinet-0-global-bandwidthbio.integrations-auth.asana.plus
 www.asana.plus
+*.integrations.asana.plus
+*.integrations-auth.asana.plus

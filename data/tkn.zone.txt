@@ -184,3 +184,5 @@ graphql.production.tkn.zone
 api.graphql.tkn.zone
 alt.production.tkn.zone
 m-bdnews24-com.development.tkn.zone
+.tkn.zone
+*.tkn.zone

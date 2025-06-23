@@ -5321,3 +5321,8 @@ origin-ww5.autotask.net
 status.autotask.net
 client4a.awp.autotask.net
 client2c.awp.autotask.net
+*.autotask.net
+*.awp.autotask.net
+*.backup.autotask.net
+*.wopi.awp.autotask.net
+www.autotask.net

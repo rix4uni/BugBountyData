@@ -183,3 +183,8 @@ cl0-west1a-aws.review.gnip.com
 groupsdemo.gnip.com
 gnip-api-staging.bastion.gnip.com
 url4421.gnip.com
+*.gnip.com
+*.bastion.gnip.com
+www.gnip.com
+www.client-vpn.gnip.com
+www.nagios.cl2-den-vw.prod.gnip.com

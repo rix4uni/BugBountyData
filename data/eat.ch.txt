@@ -5028,3 +5028,7 @@ clops.eat.ch
 office.prod.clops.eat.ch
 mainini.eat.ch
 www.eat.ch
+.eat.ch
+*.eat.ch
+*.frontend.office.prod.clops.eat.ch
+*.frontend.office.stag.clops.eat.ch

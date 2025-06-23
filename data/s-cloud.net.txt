@@ -212,3 +212,15 @@ ams-mid006.int.s-cloud.net
 alertmanager.int.s-cloud.net
 collins.int.s-cloud.net
 brdr1.m06.ams5.s-cloud.net
+*.s-cloud.net
+*.dev.s-cloud.net
+*.dev-test.s-cloud.net
+*.int.s-cloud.net
+www.ampelmann-et.traffic-test-backend-ksdjn012.s-cloud.net
+www.ampelmann-frontend.traffic-test-backend-ksdjn012.s-cloud.net
+www.ampelmann-media.traffic-test-backend-ksdjn012.s-cloud.net
+www.ampelmann-no-cache.traffic-test-backend-ksdjn012.s-cloud.net
+www.ampelmann-static.traffic-test-backend-ksdjn012.s-cloud.net
+www.ampelmann.traffic-test-backend-ksdjn012.s-cloud.net
+www.bff.traffic-test-backend-ksdjn012.s-cloud.net
+www.traffic-test-backend-ksdjn012.s-cloud.net

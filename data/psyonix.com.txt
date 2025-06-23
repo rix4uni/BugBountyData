@@ -71,3 +71,6 @@ apps.psyonix.com
 smtpout.psyonix.com
 _dmarc.psyonix.com
 www.psyonix.com
+.psyonix.com
+*.psyonix.com
+www.stats.psyonix.com

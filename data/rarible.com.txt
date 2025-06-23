@@ -5374,3 +5374,13 @@ mail.x.rarible.com
 us-east-2.x.rarible.com
 backup.x.rarible.com
 2fv1-20.x.rarible.com
+*.rarible.com
+*.beta.x.rarible.com
+*.ext.rarible.com
+*.hc.rarible.com
+*.int.rarible.com
+*.x.rarible.com
+dynamic-auth.rarible.com
+forms.rarible.com
+www.rarible.com
+www.x.rarible.com

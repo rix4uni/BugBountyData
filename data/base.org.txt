@@ -3272,3 +3272,6 @@ flashblocks.base.org
 www.base.org
 appchain.base.org
 l3.base.org
+.base.org
+*.base.org
+*.l3.base.org

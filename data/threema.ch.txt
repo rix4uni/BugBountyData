@@ -1633,3 +1633,10 @@ d0.0.threema.ch
 hcaptcha-broadcast.test.threema.ch
 0.threema.ch
 test.translate.threema.ch
+*.threema.ch
+*.blob.threema.ch
+*.ds.blob.threema.ch
+*.review.threema.ch
+*.sfu.threema.ch
+*.test.threema.ch
+www.threema.ch

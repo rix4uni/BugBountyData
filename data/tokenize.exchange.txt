@@ -34,3 +34,8 @@ sso-api.tokenize.exchange
 api3.tokenize.exchange
 dev.tokenize.exchange
 com.tokenize.exchange
+.tokenize.exchange
+*.tokenize.exchange
+www.tokenize.exchange
+www.blog.tokenize.exchange
+www.support.tokenize.exchange

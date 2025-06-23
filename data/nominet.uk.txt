@@ -416,3 +416,14 @@ now.epp.nominet.uk
 000.nominet.uk
 fast.epp.nominet.uk
 save.epp.nominet.uk
+*.nominet.uk
+*.epp.nominet.uk
+*.registrars.nominet.uk
+*.webchat.nominet.uk
+www.nominet.uk
+www.api.nominet.uk
+www.dnssupport.nominet.uk
+www.jobs.nominet.uk
+www.pdns.nominet.uk
+www.pdnssupport.nominet.uk
+www.psn.nominet.uk

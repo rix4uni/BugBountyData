@@ -4910,3 +4910,5 @@ apmis.just-eat.no
 0-0-0-foodwikiadm-acc.frontend.office.prod.clops.just-eat.no
 0-0-0-calendaradm-connectacc.frontend.office.prod.clops.just-eat.no
 www.just-eat.no
+*.just-eat.no
+*.couriers.just-eat.no

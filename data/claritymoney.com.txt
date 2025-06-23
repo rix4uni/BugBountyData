@@ -39,3 +39,6 @@ alexa.claritymoney.com
 ios-api.dev.claritymoney.com
 alexa.dev.claritymoney.com
 blog.claritymoney.com
+*.claritymoney.com
+*.dev.claritymoney.com
+www.claritymoney.com

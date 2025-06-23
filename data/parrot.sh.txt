@@ -469,3 +469,15 @@ eur-p-gen-6-127-113-96.simplycomputersplus.parrot.sh
 africa3-emea-mirror.parrot.sh
 domesticethernetaccesspricing.simplycomputersplus.parrot.sh
 emea.rsync.parrot.sh
+.parrot.sh
+*.parrot.sh
+*.analytics.parrot.sh
+*.any.parrot.sh
+*.anycast.parrot.sh
+*.core.parrot.sh
+*.deb.parrot.sh
+*.edge.parrot.sh
+*.gibson.infra.parrot.sh
+*.infra.parrot.sh
+*.mirror.parrot.sh
+*.speedtest.parrot.sh

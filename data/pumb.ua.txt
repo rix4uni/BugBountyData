@@ -127,3 +127,11 @@ _h323cs._tcp.pumb.ua
 13.pumb.ua
 i.pumb.ua
 adocspumb.pumb.ua
+*.pumb.ua
+*.ctrl-b.pumb.ua
+*.cz-sender.pumb.ua
+www.pumb.ua
+www.30razom.pumb.ua
+www.digital.pumb.ua
+www.mobile-content.pumb.ua
+www.studenthub.pumb.ua

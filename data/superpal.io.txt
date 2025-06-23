@@ -200,3 +200,13 @@ airflow-co.catalog-integrations.superpal.io
 airflow-br.internal.catalog-integrations.superpal.io
 proxy-ext.satellite.superpal.io
 estimator-api.superpal.io
+*.superpal.io
+*.catalog-integrations.superpal.io
+*.catalog-uber.superpal.io
+*.engineering.superpal.io
+*.internal.superpal.io
+*.internal.catalog-integrations.superpal.io
+*.internal.catalog-uber.superpal.io
+*.internal.datascience.superpal.io
+*.internal.engineering.superpal.io
+*.satellite.superpal.io

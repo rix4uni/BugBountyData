@@ -24,3 +24,5 @@ beanstalkd.white.market
 blsck.and.white.market
 tmp.white.market
 files.white.market
+*.white.market
+www.white.market

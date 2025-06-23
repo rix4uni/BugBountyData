@@ -128,3 +128,11 @@ feature-heroku-private-space.youneedabudget.com
 ts.youneedabudget.com
 apps.youneedabudget.com
 _dmarc.youneedabudget.com
+.youneedabudget.com
+*.youneedabudget.com
+*.email.youneedabudget.com
+*.news.youneedabudget.com
+*.updates.youneedabudget.com
+www.youneedabudget.com
+www.secure.youneedabudget.com
+www.software.youneedabudget.com

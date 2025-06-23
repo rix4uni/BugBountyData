@@ -27,3 +27,6 @@ dcg.dexalot.com
 subnet.dexalot.com
 merkletree.dexalot.com
 404: not foundadminbackend.dexalot.com
+*.dexalot.com
+cms.dexalot.com
+www.dexalot.com

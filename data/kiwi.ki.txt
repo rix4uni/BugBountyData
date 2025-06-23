@@ -156,3 +156,16 @@ www.monitor.kiwi.ki
 www.grafana.kiwi.ki
 www.kibana.kiwi.ki
 www.versions.services.kiwi.ki
+.kiwi.ki
+*.kiwi.ki
+*.docs.kiwi.ki
+*.firewall.kiwi.ki
+*.hardware.lychee.kiwi.ki
+*.housing.kiwi.ki
+*.housing.new-production.kiwi.ki
+*.lychee.kiwi.ki
+*.lychee.new-production.kiwi.ki
+*.new-prod.kiwi.ki
+*.new-production.kiwi.ki
+*.services.kiwi.ki
+www.installers-app.kiwi.ki

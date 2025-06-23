@@ -4589,3 +4589,11 @@ zcabrokerd.cloud.tyk.io
 international-hamster-gw.aws-apse1.cloud-ara.tyk.io
 hello.tyk.io
 customers.tyk.io
+*.tyk.io
+*.aws-apse1.cloud-ara.tyk.io
+*.aws-euc1.cloud-ara.tyk.io
+*.aws-euw2.cloud-ara.tyk.io
+*.aws-use1.cloud-ara.tyk.io
+*.aws-usw2.cloud-ara.tyk.io
+*.cloud.tyk.io
+www.tyk.io

@@ -60,3 +60,8 @@ cdn.moneytree.jp
 ppp.moneytree.jp
 83link.moneytree.jp
 www.moneytree.jp
+.moneytree.jp
+*.moneytree.jp
+*.lpt-dev.moneytree.jp
+*.lpt-prod.moneytree.jp
+*.lpt-stg.moneytree.jp

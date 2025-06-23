@@ -81,3 +81,10 @@ www.static.mediamarkt.es
 www.tiendas-pre.mediamarkt.es
 www.tiendas-test.mediamarkt.es
 www.tiendas.mediamarkt.es
+.mediamarkt.es
+*.mediamarkt.es
+www.mediamarkt.es
+www.api-pre.mediamarkt.es
+www.api-test.mediamarkt.es
+www.app.mediamarkt.es
+www.appointments.mediamarkt.es

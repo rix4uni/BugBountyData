@@ -269,3 +269,16 @@ newescuelasanitaria.events.mapbox.com
 www.mapbox.com
 www.blog.mapbox.com
 www.snap.events.mapbox.com
+.mapbox.com
+*.mapbox.com
+*.api.mapbox.com
+*.internal.mapbox.com
+*.sd.internal.mapbox.com
+*.sd.sites.mapbox.com
+*.tiles.mapbox.com
+api-rasterarrays-stageyprod.mapbox.com
+api-skel-production-ap-southeast-1.mapbox.com
+api-skel-production-eu-west-1.mapbox.com
+api-skel-production-us-east-1.mapbox.com
+api-skel-production-us-west-1.mapbox.com
+dummy.mapbox.com

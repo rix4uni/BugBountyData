@@ -53,3 +53,6 @@ _tcp.rubygems.org
 adoptme.rubygems.org
 foo.rubygems.org
 seattlerb.rubygems.org
+*.rubygems.org
+*.staging.rubygems.org
+www.rubygems.org

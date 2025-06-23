@@ -2870,3 +2870,7 @@ nanpa7king.blog104.hotelsanywhere.api-test.sre.solarcity.com
 surya.portal.api.sre.solarcity.com
 dreambd.soralab.api-test.sre.solarcity.com
 infra.scit.solarcity.com
+*.solarcity.com
+*.scsg.solarcity.com
+www.solarcity.com
+www.solarguard.solarcity.com

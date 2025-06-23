@@ -95,3 +95,10 @@ prod001.zivver.com
 prod004.zivver.com
 prod002.zivver.com
 test000.zivver.com
+.zivver.com
+*.zivver.com
+*.autodiscover.zivver.com
+*.email.zivver.com
+*.o365.zivver.com
+*.secure.zivver.com
+www.zivver.com

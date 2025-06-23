@@ -1943,3 +1943,17 @@ eagle-origin-dc.paytmbank.com
 internal-url.paytmbank.com
 persona-origin.paytmbank.com
 nginx-ite-test.paytmbank.com
+.paytmbank.com
+*.paytmbank.com
+*.frm-internal.paytmbank.com
+*.internal.production.gm.paytmbank.com
+www.paytmbank.com
+www.fastag-acquirer-inbound.paytmbank.com
+www.imps-internal.paytmbank.com
+www.netc-acquirer.paytmbank.com
+www.netc-issuer.paytmbank.com
+www.netc-issuer-uat.paytmbank.com
+www.netc-uat.paytmbank.com
+www.oauth.paytmbank.com
+www.partner.paytmbank.com
+www.pass-web.paytmbank.com

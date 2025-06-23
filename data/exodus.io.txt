@@ -794,3 +794,8 @@ xo-docs-s.a.exodus.io
 xo-docs.a.exodus.io
 www.exchange.exodus.io
 www.server.exodus.io
+.exodus.io
+*.exodus.io
+*.a.exodus.io
+*.prod.aws.exodus.io
+*.web-dapps.a.exodus.io

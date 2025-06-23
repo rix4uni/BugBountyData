@@ -178,3 +178,9 @@ home-preview.cirrusinsight.com
 hostmaster.eur-p-gen-6-127-218-13.tracking.cirrusinsight.com
 hostmaster.tixing.tracking.cirrusinsight.com
 hostmaster.pci-dmz-02.tracking.cirrusinsight.com
+.cirrusinsight.com
+*.cirrusinsight.com
+*.dev.cirrusinsight.com
+www.cirrusinsight.com
+www.secure.cirrusinsight.com
+www.secure3.cirrusinsight.com

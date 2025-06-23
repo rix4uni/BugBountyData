@@ -376,3 +376,13 @@ dtvlineselector.prd.base.be
 edge-metrics.base.be
 www.base.be
 www.shop.base.be
+*.dvp.base.be
+*.edp.base.be
+*.int.base.be
+*.lat.base.be
+*.mre.base.be
+*.prd.base.be
+*.sup.base.be
+*.trg.base.be
+*.uat.base.be
+www.prd.base.be

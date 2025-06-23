@@ -6586,3 +6586,11 @@ data-academy.test-socrata.com
 jesse-testing.test-socrata.com
 learn.test-socrata.com
 www.test-socrata.com
+*.test-socrata.com
+*.api.us.test-socrata.com
+*.aws.staging.test-socrata.com
+*.connect.apps.test-socrata.com
+*.homepage.apps.test-socrata.com
+*.insights.apps.test-socrata.com
+*.internal.test-socrata.com
+*.stat.apps.test-socrata.com

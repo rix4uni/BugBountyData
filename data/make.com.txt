@@ -2267,3 +2267,14 @@ eu.grid.make.com
 us.grid.make.com
 we.grid.make.com
 dev.grid.make.com
+*.make.com
+*.cosmos.labs.make.com
+*.labs.make.com
+*.loop-dev.make.com
+www.make.com
+www.api-documentation.make.com
+www.api-documentation-dev.make.com
+www.help.make.com
+www.help-dev.make.com
+www.help-white-label.make.com
+www.help-white-label-dev.make.com

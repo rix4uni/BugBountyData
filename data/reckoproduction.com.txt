@@ -13,3 +13,4 @@ olympus-thanos-bucket.reckoproduction.com
 canary-kafka.reckoproduction.com
 canary-es.reckoproduction.com
 olympus-thanos-query.reckoproduction.com
+*.reckoproduction.com

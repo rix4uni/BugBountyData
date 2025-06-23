@@ -234,3 +234,4 @@ restauranteventsweb-pub.je-apis.com
 pub-restauranteventsapi-production.je-apis.com
 internal-uk-partnermanagement.je-apis.com
 public-ordertimeapi.je-apis.com
+*.je-apis.com

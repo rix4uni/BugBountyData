@@ -236,3 +236,9 @@ goid-proxy.gojekapi.com
 assets.gojekapi.com
 mqtt-driver-prd.gojekapi.com
 tiktokshop-web-raccoon.gojekapi.com
+*.gojekapi.com
+*.di-partner.gojekapi.com
+*.di-partner-stg.gojekapi.com
+infrastructure-engineering.foundation.team.gojekapi.com
+www.gojekapi.com
+www.gopaycc.gojekapi.com

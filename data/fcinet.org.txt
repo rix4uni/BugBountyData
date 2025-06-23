@@ -21,3 +21,7 @@ au.training.fcinet.org
 imap.fcinet.org
 www2.fcinet.org
 demo.fcinet.org
+*.fcinet.org
+*.training.fcinet.org
+www.fcinet.org
+www.training.fcinet.org

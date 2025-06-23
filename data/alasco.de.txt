@@ -330,3 +330,5 @@ add-feature-flag-remove-command.staging.alasco.de
 ala-1885-bugfix-delete-amendment-doc-from-doc-view.staging.alasco.de
 pcf-222-remove-edit-user-flag.staging.alasco.de
 refactor-speed-up-tests.staging.alasco.de
+.alasco.de
+*.alasco.de

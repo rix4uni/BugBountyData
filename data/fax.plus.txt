@@ -39,3 +39,7 @@ nn.orbit1.fax.plus
 new.fax.plus
 sip.fax.plus
 s_www.fax.plus
+.fax.plus
+*.fax.plus
+*.mail.fax.plus
+www.fax.plus

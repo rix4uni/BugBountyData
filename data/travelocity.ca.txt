@@ -61,3 +61,7 @@ staging.win.travelocity.ca
 pkg.travelocity.ca
 cruise.test.travelocity.ca
 asv.travelocity.ca
+*.travelocity.ca
+*.test.travelocity.ca
+www.travelocity.ca
+www.test.travelocity.ca

@@ -603,3 +603,17 @@ sentinel-kibana.upstox.com
 uat-live-rest-api.upstox.com
 delivery.mailers.upstox.com
 openwhisk.upstox.com
+.upstox.com
+*.upstox.com
+*.dev.upstox.com
+*.partners.upstox.com
+*.prod.upstox.com
+*.service-qa.upstox.com
+*.service-uat.upstox.com
+*.static.upstox.com
+*.static-uat.upstox.com
+*.uat.upstox.com
+*.uat1.upstox.com
+webhook-uat.upstox.com
+www.upstox.com
+www.outbound.upstox.com

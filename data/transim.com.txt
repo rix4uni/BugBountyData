@@ -187,3 +187,6 @@ appserv-b.transim.com
 charlie.transim.com
 appserv-a.transim.com
 alpha.transim.com
+*.transim.com
+stage-wsproxy.transim.com
+www.transim.com

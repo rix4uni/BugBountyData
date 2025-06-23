@@ -84,3 +84,9 @@ stgflp.myseek.xyz
 drcitrix.myseek.xyz
 sy-oob-pa01.myseek.xyz
 m1-oob-fw01.myseek.xyz
+.myseek.xyz
+*.myseek.xyz
+*.backoffice.dev.myseek.xyz
+*.backoffice.prod.myseek.xyz
+*.dev.myseek.xyz
+*.sec.myseek.xyz

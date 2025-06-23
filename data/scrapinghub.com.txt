@@ -5128,3 +5128,17 @@ alertocoin.212.194.103.104.scrapinghub.com
 131-141.scrapinghub.com
 101-2dk-9graph2-okta-www.scrapinghub.com
 13615.scrapinghub.com
+.scrapinghub.com
+*.scrapinghub.com
+*.int01.xod-uncork.gke.scrapinghub.com
+*.prod.gcp.xod.scrapinghub.com
+*.staging.gcp.xod.scrapinghub.com
+*.test01.uncork-dev.gke.scrapinghub.com
+*.xod.scrapinghub.com
+www.scrapinghub.com
+www.benjamins.scrapinghub.com
+www.benjamins-test.scrapinghub.com
+www.staging2.scrapinghub.com
+www.staging3.scrapinghub.com
+www.staging5.scrapinghub.com
+www.support.scrapinghub.com

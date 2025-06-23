@@ -42,3 +42,8 @@ internal-staging.gmelius.com
 mailer.gmelius.com
 services-staging.gmelius.com
 mail.gmelius.com
+.gmelius.com
+*.gmelius.com
+www.gmelius.com
+www.blog.gmelius.com
+www.vip.gmelius.com

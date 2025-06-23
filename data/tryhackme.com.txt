@@ -49,3 +49,6 @@ remote-us-west.tryhackme.com
 cio56239.tryhackme.com
 euz3wjpgwjmh2ow7qyvs3rzfvvopraxy._domainkey.tryhackme.com
 outbound.intercom.tryhackme.com
+.tryhackme.com
+*.tryhackme.com
+www.tryhackme.com

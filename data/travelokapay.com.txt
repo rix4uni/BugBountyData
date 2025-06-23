@@ -20,3 +20,6 @@ origin-api.merchant.travelokapay.com
 data-ingestion.travelokapay.com
 origin-api.travelokapay.com
 api-tpaypmg.travelokapay.com
+*.travelokapay.com
+*.cobrand.travelokapay.com
+*.merchant.travelokapay.com

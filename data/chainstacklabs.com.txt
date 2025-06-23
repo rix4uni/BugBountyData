@@ -58,3 +58,7 @@ nd-pocket-10.chainstacklabs.com
 grpc-test.data.kava.chainstacklabs.com
 grpc.data.kava.chainstacklabs.com
 nd-pocket-14.chainstacklabs.com
+.chainstacklabs.com
+*.chainstacklabs.com
+*.data.kava.chainstacklabs.com
+*.kava.chainstacklabs.com

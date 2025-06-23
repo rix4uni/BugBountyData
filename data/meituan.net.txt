@@ -264,3 +264,9 @@ pki.meituan.net
 mtvod-ks.meituan.net
 beauty-hw-push.meituan.net
 beauty-kuai-hls-live.meituan.net
+.meituan.net
+*.meituan.net
+*.d.meituan.net
+*.dreport.meituan.net
+*.img-cn.meituan.net
+www.meituan.net

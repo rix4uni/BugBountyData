@@ -385,3 +385,13 @@ pbs-staging.techcrunch.com
 www2.techcrunch.com
 splunk-search-www.jp-preprod.techcrunch.com
 www1.techcrunch.com
+.techcrunch.com
+*.techcrunch.com
+*.dev.search.techcrunch.com
+*.pr.login.techcrunch.com
+*.qa.search.techcrunch.com
+*.search.techcrunch.com
+*.stage.login.techcrunch.com
+acapi.techcrunch.com
+www.techcrunch.com
+www.develop.techcrunch.com

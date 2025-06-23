@@ -90,3 +90,7 @@ tokens.nfts.link.co
 tar.link.co
 attribution.link.co
 preprod-support.link.co
+*.link.co
+*.fastly.cdn.link.co
+preprod.link.co
+www.link.co

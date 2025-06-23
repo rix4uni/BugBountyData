@@ -69,3 +69,5 @@ tealium-tags.medicaid.gov
 services.web.screening.medicaid.gov
 sendgrid.medicaid.gov
 impl.services.screening.medicaid.gov
+*.medicaid.gov
+www.medicaid.gov

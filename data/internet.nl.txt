@@ -163,3 +163,13 @@ a.b.qnamemin-test.internet.nl
 _tcp.internet.nl
 bla.internet.nl
 _dmarc.internet.nl
+www.internet.nl
+www.batch.internet.nl
+www.conn.internet.nl
+www.conn.dev-docker.internet.nl
+www.conn.docker.internet.nl
+www.dev.internet.nl
+www.dev-docker.internet.nl
+www.dev-docker.batch.internet.nl
+www.dev.batch.internet.nl
+www.docker.internet.nl

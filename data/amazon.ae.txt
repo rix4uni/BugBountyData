@@ -89,3 +89,9 @@ com.amazon.ae
 smile.amazon.ae
 nt-www-amazon-ae-kalias.amazon.ae
 opfcaptcha.amazon.ae
+*.amazon.ae
+*.browserapps.amazon.ae
+*.transient.amazon.ae
+www.amazon.ae
+www.advertising.amazon.ae
+www.logistics.amazon.ae

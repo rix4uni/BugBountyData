@@ -847,3 +847,7 @@ cm._domainkey.elephantsql.com
 kala.db.elephantsql.com
 tfke.db.elephantsql.com
 something.db.elephantsql.com
+*.db.elephantsql.com
+www.elephantsql.com
+www.api.elephantsql.com
+www.customer.elephantsql.com

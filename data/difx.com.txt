@@ -155,3 +155,17 @@ s1._domainkey.sendmail.difx.com
 smtp.comune.difx.com
 po.difx.com
 snp.difx.com
+.difx.com
+*.difx.com
+*.deployment.difx.com
+admin-dev-cms.difx.com
+argocd-dev.difx.com
+dev-admin-eks.difx.com
+dev-ciao-bot-web-eks.difx.com
+dev-eks-cms.difx.com
+kibana-dev.difx.com
+kubedashboard-dev.difx.com
+monitoring-dev.difx.com
+public-dev-api-eks.difx.com
+www.difx.com
+www.deployment.difx.com

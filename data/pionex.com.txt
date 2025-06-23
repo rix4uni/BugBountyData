@@ -87,3 +87,12 @@ em6126.pionex.com
 resfsync.pionex.com
 stream-v3.pionex.com
 cf-cdn.pionex.com
+.pionex.com
+*.pionex.com
+*.api.pionex.com
+*.beta.pionex.com
+*.internal.pionex.com
+*.origin.pionex.com
+*.wss.pionex.com
+www.pionex.com
+www.staging.pionex.com

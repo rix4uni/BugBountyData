@@ -651,3 +651,5 @@ testhost-testci.fallguys-dev.oncatapult.com
 testhost-rest-testci.fallguys-dev.oncatapult.com
 service-gateway-testci.fallguys-dev.oncatapult.com
 testhost-grpc-testci.fallguys-dev.oncatapult.com
+*.fallguys.oncatapult.com
+*.fallguys-dev.oncatapult.com

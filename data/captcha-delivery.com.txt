@@ -75,3 +75,8 @@ sdbx-dashboard.captcha-delivery.com
 2fgeo.captcha-delivery.com
 test-api-eu-central-2.staging.captcha-delivery.com
 test-api-eu-central-2-ipv6.staging.captcha-delivery.com
+*.captcha-delivery.com
+*.prod.captcha-delivery.com
+*.sdbx-engine.captcha-delivery.com
+*.sdbx-sre.captcha-delivery.com
+*.staging.captcha-delivery.com

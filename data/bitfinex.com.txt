@@ -3817,3 +3817,9 @@ drivers.0-10multimedia.marketing.bitfinex.com
 mchart.bitfinex.com
 c3dp4wq7z8.bitfinex.com
 bfx-pay.bitfinex.com
+*.bitfinex.com
+*.developers.bitfinex.com
+*.staging.bitfinex.com
+*.test.bitfinex.com
+www.bitfinex.com
+www.marketing.bitfinex.com

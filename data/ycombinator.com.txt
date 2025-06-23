@@ -58,3 +58,8 @@ preview.ycombinator.com
 s22celebrate.ycombinator.com
 segment-api.ycombinator.com
 segment-cdn.ycombinator.com
+*.ycombinator.com
+*.cf-upstream.ycombinator.com
+www.ycombinator.com
+www.blog.ycombinator.com
+www.leap.ycombinator.com

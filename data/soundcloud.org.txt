@@ -83,3 +83,5 @@ notabot.soundcloud.org
 charlie.range86-519-wwwdevelopment-dev.k8s-api-db.soundcloud.org
 customer.support.soundcloud.org
 mysql80-sweb-components.k8s-api-db.soundcloud.org
+.soundcloud.org
+*.soundcloud.org

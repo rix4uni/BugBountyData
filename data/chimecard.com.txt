@@ -138,3 +138,6 @@ radius._domainkey.chimecard.com
 ecu._domainkey.chimecard.com
 apizendesk-fw._dmarc.chimecard.com
 pc934._domainkey.chimecard.com
+.chimecard.com
+*.chimecard.com
+www.chimecard.com

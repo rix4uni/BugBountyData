@@ -45,3 +45,5 @@ it.spell.run
 wltracker.spell.run
 br.player.spell.run
 git.spell.run
+*.spell.run
+www.spell.run

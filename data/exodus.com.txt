@@ -92,3 +92,6 @@ monitoring-d.ot.exodus.com
 intercom._domainkey.exodus.com
 scam-hitlist-p.ot.exodus.com
 uk-support.exodus.com
+*.exodus.com
+*.ot.exodus.com
+www.exodus.com

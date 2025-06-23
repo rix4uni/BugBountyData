@@ -10843,3 +10843,16 @@ ocportal.uber.com
 chef-automate-testing.uber.com
 chef-infra.uber.com
 nationsbenefit.prod.tokenizer.uber.com
+.uber.com
+*.uber.com
+*.cfe.uber.com
+fpbi8c1t.uber.com
+management-settlement-it.uber.com
+settlement-it.uber.com
+www.uber.com
+www.amex.production.tokenizer.uber.com
+www.amex.sandbox.tokenizer.uber.com
+www.bizsys.uber.com
+www.blog.uber.com
+www.cpe.uber.com
+www.restauranthelp.uber.com

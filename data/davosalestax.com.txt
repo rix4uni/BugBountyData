@@ -32,3 +32,12 @@ d30api.rr.davosalestax.com
 davo-api.rr.davosalestax.com
 portal.rr.davosalestax.com
 ops-portal.rr.davosalestax.com
+.davosalestax.com
+*.davosalestax.com
+*.qa.davosalestax.com
+*.sbx.davosalestax.com
+docs-davo-api.qa.davosalestax.com
+docs-davo-api.sbx.davosalestax.com
+docs-davo-pos.qa.davosalestax.com
+docs-davo-pos.sbx.davosalestax.com
+www.davosalestax.com

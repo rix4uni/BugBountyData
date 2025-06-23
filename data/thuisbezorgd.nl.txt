@@ -355,3 +355,12 @@ offline.thuisbezorgd.nl
 www.foodwiki.thuisbezorgd.nl
 www.survey.thuisbezorgd.nl
 www.thuisbezorgd.nl
+.thuisbezorgd.nl
+*.thuisbezorgd.nl
+*.acc-vendors-shop.thuisbezorgd.nl
+*.feature.thuisbezorgd.nl
+*.frontend.office.prod.clops.thuisbezorgd.nl
+*.frontend.office.stag.clops.thuisbezorgd.nl
+*.test-vendors-shop.thuisbezorgd.nl
+*.vendors-shop.thuisbezorgd.nl
+www.stamppottenier.thuisbezorgd.nl

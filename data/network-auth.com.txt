@@ -3322,3 +3322,8 @@ firebasen299.ghcpi.dev.network-auth.com
 n186-spare.network-auth.com
 n963.network-auth.com
 org.dev.network-auth.com
+.network-auth.com
+*.network-auth.com
+*.sandbox.network-auth.com
+*.tunnel-proxy.dns.network-auth.com
+*.tunnel-proxy.dns.sandbox.network-auth.com

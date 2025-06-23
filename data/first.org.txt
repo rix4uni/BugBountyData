@@ -99,3 +99,7 @@ user.memberships.first.org
 listing.first.org
 course.first.org
 shot.first.org
+.first.org
+*.first.org
+*.aws.first.org
+go.first.org

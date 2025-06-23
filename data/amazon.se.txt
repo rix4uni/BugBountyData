@@ -84,3 +84,6 @@ webmail.amazon.se
 marketplace.amazon.se
 bounces.amazon.se
 smtp.amazon.se
+*.transient.amazon.se
+luna-staging.amazon.se
+www.amazon.se

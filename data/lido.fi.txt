@@ -176,3 +176,7 @@ info.lido.fi
 lidoconnect.lido.fi
 db.lido.fi
 csm.lido.fi
+.lido.fi
+*.lido.fi
+*.dev.lido.fi
+*.testnet.lido.fi

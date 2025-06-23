@@ -289,3 +289,11 @@ ns3.tickets.ua
 otpbank.tickets.ua
 test.tickets.ua
 20.tickets.ua
+*.tickets.ua
+ci.tickets.ua
+gems.tickets.ua
+jsd.tickets.ua
+jtime.tickets.ua
+kibana8.tickets.ua
+www.tickets.ua
+www.avia.tickets.ua

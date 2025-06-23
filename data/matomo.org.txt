@@ -62,3 +62,12 @@ video.matomo.org
 status.matomo.org
 dummy.matomo.org
 e2e-wp.matomo.org
+*.matomo.org
+banking.demo.matomo.org
+origin.developer.matomo.org
+origin.fr.matomo.org
+origin.plugins.matomo.org
+origin.staging-shop.matomo.org
+partners.matomo.org
+www.matomo.org
+zh-hans-staging.matomo.org

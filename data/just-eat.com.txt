@@ -11284,3 +11284,12 @@ devops-partnernz-blue.cms-nonprod.just-eat.com
 devops-partneruk-blue.cms-nonprod.just-eat.com
 devops-uk-blue.cms-nonprod.just-eat.com
 www.meet.just-eat.com
+*.just-eat.com
+*.cms.just-eat.com
+*.cms-nonprod.just-eat.com
+*.dev-github.just-eat.com
+*.is.just-eat.com
+*.webui.cms.just-eat.com
+*.webui.cms-nonprod.just-eat.com
+micrositeadmin.webui.cms.just-eat.com
+www.staging.just-eat.com

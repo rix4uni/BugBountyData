@@ -5252,3 +5252,10 @@ torrent-techexpert.hotornot.com
 asset1-cdn.hotornot.com
 test.hotornot.com
 med.test.hotornot.com
+.hotornot.com
+*.hotornot.com
+*.mshot.hotornot.com
+*.shot.hotornot.com
+*.vpn-shot.hotornot.com
+www.hotornot.com
+www.secure.hotornot.com

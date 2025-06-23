@@ -160,3 +160,7 @@ v2.rpc.mainnet.near.org
 wallet.statelessnet.near.org
 welcome.near.org
 eth-explorer-testnet.near.org
+.near.org
+test.eth-rpc.testnet.near.org
+www.near.org
+www.alpha.near.org

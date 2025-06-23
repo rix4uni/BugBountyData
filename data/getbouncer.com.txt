@@ -23,3 +23,6 @@ qa-testswitch.getbouncer.com
 sites.getbouncer.com
 sheets.getbouncer.com
 api-back.getbouncer.com
+.getbouncer.com
+*.getbouncer.com
+www.getbouncer.com

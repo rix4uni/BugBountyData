@@ -5193,3 +5193,17 @@ bc2backend-cdn.dev.psynet.gg
 pmm2.rlplt.psynet.gg
 pmm2.rlpp.psynet.gg
 pmm2.rlpt.psynet.gg
+*.config.psynet.gg
+*.ds.psynet.gg
+*.internal.psynet.gg
+*.rlbt.psynet.gg
+*.rlmlt.psynet.gg
+*.rlmp.psynet.gg
+*.rlms.psynet.gg
+*.rlmt.psynet.gg
+*.rlplt.psynet.gg
+*.rlpp.psynet.gg
+*.rlps.psynet.gg
+*.rlps-cert.psynet.gg
+*.rlpt.psynet.gg
+*.ttd.psynet.gg

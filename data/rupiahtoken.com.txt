@@ -3895,3 +3895,6 @@ susan.api-dashboard.rupiahtoken.com
 gitlab-testaging-ok.api-dashboard.rupiahtoken.com
 http-dictionary-reference-com1-4.api-dashboard.rupiahtoken.com
 imdb-ads.api-dashboard.rupiahtoken.com
+*.rupiahtoken.com
+*.staging.rupiahtoken.com
+www.rupiahtoken.com

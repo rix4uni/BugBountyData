@@ -75,3 +75,6 @@ alertmanager.starlingbank.com
 prometheus.starlingbank.com
 www.starlingbank.com
 www.cics.starlingbank.com
+*.starlingbank.com
+*.openintegrations.starlingbank.com
+www.community.starlingbank.com

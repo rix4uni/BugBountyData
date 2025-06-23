@@ -3,3 +3,5 @@ email.email.workatastartup.com
 sso-auth.workatastartup.com
 segment-cdn.workatastartup.com
 segment-api.workatastartup.com
+*.workatastartup.com
+www.workatastartup.com

@@ -92,3 +92,6 @@ android.example.jfrog.org
 repo21.jfrog.org
 adcs.jfrog.org
 w.jfrog.org
+.jfrog.org
+*.jfrog.org
+www.jfrog.org

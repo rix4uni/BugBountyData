@@ -214,3 +214,16 @@ marketingdb-ext.spokeo.com
 pass-server.spokeo.com
 pesto.spokeo.com
 staging-cdn.spokeo.com
+*.spokeo.com
+*.analytics.spokeo.com
+*.backend.spokeo.com
+*.backendqa.spokeo.com
+*.corp.spokeo.com
+*.hsf.qa.spokeo.com
+*.production.spokeo.com
+*.qa.spokeo.com
+*.sandbox.spokeo.com
+*.secops.spokeo.com
+*.servicedesk.spokeo.com
+*.shared.spokeo.com
+www.spokeo.com

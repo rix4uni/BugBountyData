@@ -33,3 +33,7 @@ xray.jit.si
 apps.jit.si
 conference.beta.meet.jit.si
 focus.beta.meet.jit.si
+*.meet.jit.si
+www.jit.si
+www.beta.meet.jit.si
+www.meet.jit.si

@@ -5184,3 +5184,17 @@ lyncdiscover.sipfed.online.lync.com
 lyncdiscoverinternal.sipfed.online.lync.com
 sip.sipfed.online.lync.com
 meet.sipfed.online.lync.com
+*.lync.com
+*.cqd.lync.com
+*.infra.lync.com
+*.online.lync.com
+*.resources.lync.com
+*.tip.lync.com
+www.lync.com
+www.sippooldb41e17.infra.lync.com
+www.webdir0e.online.lync.com
+www.webdir0f.online.lync.com
+www.webpooldm10b04.infra.lync.com
+www.webpoolhk20f11.infra.lync.com
+www.webpoolsg20f11.infra.lync.com
+www.webpoolsg20f16.infra.lync.com

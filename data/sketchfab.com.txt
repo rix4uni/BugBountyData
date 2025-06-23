@@ -61,3 +61,6 @@ www.blog.sketchfab.com
 www.staging-enterprise.blog.sketchfab.com
 www.staging1.blog.sketchfab.com
 www.staging2.blog.sketchfab.com
+.sketchfab.com
+*.sketchfab.com
+*.blog.sketchfab.com

@@ -7,3 +7,8 @@ selfservice-staging.bigbank.nl
 maintenance.bigbank.nl
 net.bigbank.nl
 www2.bigbank.nl
+*.bigbank.nl
+*.email.bigbank.nl
+*.nl.bigbank.nl
+*.static.bigbank.nl
+www.bigbank.nl

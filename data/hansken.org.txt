@@ -11,3 +11,8 @@ academic-registry.hansken.org
 lea-registry.hansken.org
 helm.hansken.org
 container.hansken.org
+*.container.hansken.org
+*.demo.hansken.org
+*.helm.hansken.org
+*.training.hansken.org
+www.hansken.org

@@ -52,3 +52,5 @@ epqa-img.pcapcloud.com
 qastagingadmin.pcapcloud.com
 jenkins-nginx.pcapcloud.com
 corp.pcapcloud.com
+*.pcapcloud.com
+www.mg-mgqa-ws.pcapcloud.com

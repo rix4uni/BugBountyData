@@ -64,3 +64,12 @@ vpce.swiftcapital.com
 us.swiftcapital.com
 content.swiftcapital.com
 _dmarc.swiftcapital.com
+.swiftcapital.com
+*.swiftcapital.com
+*.dev.swiftcapital.com
+*.internal.swiftcapital.com
+*.ist.swiftcapital.com
+*.test.swiftcapital.com
+*.uat.swiftcapital.com
+www.swiftcapital.com
+www.try.swiftcapital.com

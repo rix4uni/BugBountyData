@@ -123,3 +123,7 @@ verification.betfair.se
 ctcex.betfair.se
 ie2-sca.betfair.se
 req.betfair.se
+*.betfair.se
+*.nxt.betfair.se
+regstat.betfair.se
+www.betfair.se

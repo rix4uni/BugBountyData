@@ -4085,3 +4085,10 @@ pool-farm9.static.flickr.com
 pool-farm1.static.flickr.com
 sp2.flickr.com
 site.flickr.com
+.flickr.com
+*.flickr.com
+*.static.flickr.com
+*.static-alpha.flickr.com
+es.flickr.com
+www.flickr.com
+www.farm3.static.flickr.com

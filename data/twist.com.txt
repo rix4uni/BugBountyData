@@ -7738,3 +7738,5 @@ a.twist.com
 prometheus.twist.com
 docs.twist.com
 start.twist.com
+*.twist.com
+*.staging.twist.com

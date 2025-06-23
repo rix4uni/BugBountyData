@@ -5136,3 +5136,17 @@ gitlab.makerdao.com
 node.makerdao.com
 dev2.healthyworkpler2.market-making.makerdao.com
 data.makerdao.com
+.makerdao.com
+*.makerdao.com
+*.abuse-reports.makerdao.com
+*.abuse-test.makerdao.com
+*.chainlog.makerdao.com
+*.maker-prod.makerdao.com
+*.maker-prod-eu.makerdao.com
+*.maker-staging.makerdao.com
+*.vote.makerdao.com
+*.vote-staging.makerdao.com
+www.makerdao.com
+www.chat.makerdao.com
+www.shop.makerdao.com
+www.x.makerdao.com

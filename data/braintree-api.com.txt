@@ -1624,3 +1624,7 @@ monitor-data-model-qa-us-east-2.dev.braintree-api.com
 taskworker-auditor-qa-us-west-2.dev.braintree-api.com
 cloud-ingress-internal-prod-ap-southeast-2.production.braintree-api.com
 predictive-stand-in-qa-us-east-2.dev.braintree-api.com
+*.braintree-api.com
+*.bcoumes.dev.braintree-api.com
+*.dev.braintree-api.com
+*.sandbox.braintree-api.com

@@ -244,3 +244,14 @@ registry.prod.astro.da.smartcontract.com
 404: not foundaa-creditor.smartcontract.com
 _dmarc.smartcontract.com
 playground.dev.astro.da.smartcontract.com
+.smartcontract.com
+*.smartcontract.com
+*.datahub.da.smartcontract.com
+*.dev.astro.da.smartcontract.com
+*.prod.astro.da.smartcontract.com
+complink.smartcontract.com
+complink-ext.smartcontract.com
+staging.complink.smartcontract.com
+staging.complink-ext.smartcontract.com
+www.smartcontract.com
+www.careers.smartcontract.com

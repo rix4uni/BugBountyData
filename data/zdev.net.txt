@@ -286,3 +286,11 @@ excas1.ad.zdev.net
 ls9exchange25live.ad.zdev.net
 nui07h8ac30w2mbk.ad.zdev.net
 zanalytics.zdev.net
+*.zdev.net
+*.api.zdev.net
+*.eks.zdev.net
+*.preview.eks.zdev.net
+*.uiapps.preview.eks.zdev.net
+*.user.zdev.net
+*.zanalytics.zdev.net
+www.zdev.net

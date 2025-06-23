@@ -180,3 +180,11 @@ vault-auto-unseal.factory-prod.cnam-mesdmp.monespacesante.fr
 vault.factory-prod.cnam-mesdmp.monespacesante.fr
 www.pe1.monespacesante.fr
 www.securite.monespacesante.fr
+.monespacesante.fr
+*.monespacesante.fr
+*.developer.monespacesante.fr
+*.int.monespacesante.fr
+*.intnext.monespacesante.fr
+*.preprod2.monespacesante.fr
+*.rec.monespacesante.fr
+*.recbb.monespacesante.fr

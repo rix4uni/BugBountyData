@@ -822,3 +822,12 @@ s2._domainkey.jobalerts.chime.com
 server3.chime.com
 xxxsomeid.voiceconnector.chime.com
 workforcehub.chime.com
+.chime.com
+*.chime.com
+employers.wp-dev1.chime.com
+employers.wp-dev2.chime.com
+employers.wp-dev3.chime.com
+employers.wp-dev4.chime.com
+employers.wp-dev5.chime.com
+employers.wp-qa.chime.com
+www.chime.com

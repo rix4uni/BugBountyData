@@ -372,3 +372,7 @@ alta-build.teleport.teleportinfra.sh
 stat.platform.access-001.cloud.teleportinfra.sh
 0ti0t5lsddze8mek.teleport.teleportinfra.sh
 0-0-01-2084-bulge2915-bisc-593.teleport.teleportinfra.sh
+.teleportinfra.sh
+*.teleportinfra.sh
+*.platform.teleportinfra.sh
+*.teleport.teleportinfra.sh

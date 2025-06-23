@@ -1993,3 +1993,9 @@ www.splunk-1-us.grindr.com
 www.splunk-2-us.grindr.com
 www.uncoupled.grindr.com
 www.unwrapped.grindr.com
+*.grindr.com
+*.preprod1.grindr.com
+*.selfservice.grindr.com
+*.splunk.grindr.com
+www.lite-test.grindr.com
+www.preprod1.grindr.com

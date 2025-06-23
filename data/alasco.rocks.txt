@@ -126,3 +126,8 @@ rabbitmq-api.alasco.rocks
 rds-proxy.alasco.rocks
 em1480.n.alasco.rocks
 matillion.alasco.rocks
+*.alasco.rocks
+*.dev.alasco.rocks
+*.internal.alasco.rocks
+*.staging.alasco.rocks
+sonarqube.internal.alasco.rocks

@@ -127,3 +127,16 @@ mx2.customercare.kds.com
 w14.kds.com
 w13.kds.com
 play-api.kds.com
+*.testlab.kds.com
+colibrisbx.eu-west-1.kds.com
+grafana.colibrisbx.eu-west-1.kds.com
+help.colibrisbx.eu-west-3.kds.com
+matcha.colibrisbx.eu-west-1.kds.com
+neo.colibrisbx.eu-west-3.kds.com
+neostatic.colibrisbx.eu-west-3.kds.com
+opensearch.int.colibrisbx.eu-west-1.kds.com
+profileapi-fronts.colibrisbx.eu-west-1.kds.com
+reporting.colibrisbx.eu-west-1.kds.com
+trace.colibrisbx.eu-west-1.kds.com
+w.colibrisbx.eu-west-1.kds.com
+www.kds.com

@@ -15050,3 +15050,15 @@ www.staging-3.elementor.com
 www.staging.elementor.com
 ops-mail.elementor.com
 www.server.library.elementor.com
+.elementor.com
+*.elementor.com
+*.ai-assets.elementor.com
+*.hellotheme.elementor.com
+*.internal.new-prod.elementor.com
+*.new-prod.elementor.com
+*.prod.elementor.com
+*.prompts.elementor.com
+*.showoff.elementor.com
+*.t4-cert.elementor.com
+www.braintreetest.elementor.com
+www.demo.elementor.com

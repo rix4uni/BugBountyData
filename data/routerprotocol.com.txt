@@ -166,3 +166,11 @@ forwarder-alpha.routerprotocol.com
 ping-pong.routerprotocol.com
 game2.routerprotocol.com
 testnet.station.routerprotocol.com
+*.routerprotocol.com
+*.alpha-explorer-ui.routerprotocol.com
+*.devnet-alpha-explorer-ui.routerprotocol.com
+*.testnet.routerprotocol.com
+api.pay.routerprotocol.com
+explorer.pay.routerprotocol.com
+www.routerprotocol.com
+www.academy.routerprotocol.com

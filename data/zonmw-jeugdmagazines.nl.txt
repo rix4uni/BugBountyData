@@ -18,3 +18,5 @@ _xmpp-client._udp.zonmw-jeugdmagazines.nl
 _pop2._tcp.zonmw-jeugdmagazines.nl
 host.zonmw-jeugdmagazines.nl
 _kftp._tcp.zonmw-jeugdmagazines.nl
+*.zonmw-jeugdmagazines.nl
+www.zonmw-jeugdmagazines.nl

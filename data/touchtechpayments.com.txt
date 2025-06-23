@@ -76,3 +76,12 @@ vpn.touchtechpayments.com
 _jabber._tcp.touchtechpayments.com
 _xmpp-server._tcp.touchtechpayments.com
 https.touchtechpayments.com
+*.touchtechpayments.com
+*.acs.touchtechpayments.com
+*.acs.staging.touchtechpayments.com
+*.dev.touchtechpayments.com
+*.salpinx.touchtechpayments.com
+*.staging.touchtechpayments.com
+www.touchtechpayments.com
+www.app.touchtechpayments.com
+www.app.dev.touchtechpayments.com

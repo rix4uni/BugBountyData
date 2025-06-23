@@ -48,3 +48,6 @@ zendesk2.every.org
 zendesk3.every.org
 zendesk4.every.org
 mockapi.every.org
+.every.org
+*.every.org
+www.every.org

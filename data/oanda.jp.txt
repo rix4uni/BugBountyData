@@ -16,3 +16,11 @@ p5-mt5ac-01-sp.oanda.jp
 catrd.oanda.jp
 www-marketing.oanda.jp
 api-staging.oanda.jp
+.oanda.jp
+*.oanda.jp
+*.staging.oanda.jp
+*.uat.oanda.jp
+www.oanda.jp
+www.fxtradepro.oanda.jp
+www.maintenance.oanda.jp
+www.mygaika.oanda.jp

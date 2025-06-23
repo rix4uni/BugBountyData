@@ -28,3 +28,6 @@ em9497.trycourier.com
 policiesproduction-cf-client.trycourier.com
 staging-api1.trycourier.com
 lb-r-latin.trycourier.com
+*.trycourier.com
+www.trycourier.com
+www.app.trycourier.com

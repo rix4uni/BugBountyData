@@ -3487,3 +3487,6 @@ pod.k8s.gcr.io
 7ck8s.gcr.io
 19-09-23-19-03-44.logk8s.gcr.io
 www.gcr.io
+.gcr.io
+*.gcr.io
+www.k8s.gcr.io

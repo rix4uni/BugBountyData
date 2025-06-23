@@ -206,3 +206,4 @@ unrestrict.comm-zoomsgp110mmrcnsttests-splunkcnsudigests114.splunk.zoomus.cn
 unrestrict.comm-srdbhuihuisso-cndev-2cnst.us14cnst3.zoomus.cn
 unrestrict.comm-622-cncisco-cncisco.srdb-2.apachedemouscnstdbs.zoomus.cn
 www.zoomus.cn
+*.zoomus.cn

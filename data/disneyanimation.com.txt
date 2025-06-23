@@ -481,3 +481,14 @@ prodman-cloud-staging.disneyanimation.com
 riv-sdvoe-952.disneyanimation.com
 draftingdev.disneyanimation.com
 prodman-showtools.disneyanimation.com
+*.disneyanimation.com
+*.artifactory.disneyanimation.com
+*.artifactory-dev.disneyanimation.com
+coda-rest.disneyanimation.com
+directory.disneyanimation.com
+www.disneyanimation.com
+www.cdn.disneyanimation.com
+www.coda-stage.disneyanimation.com
+www.dremio4.disneyanimation.com
+www.media.disneyanimation.com
+www.technology.disneyanimation.com

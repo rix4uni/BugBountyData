@@ -4,3 +4,5 @@ test.playartifact.com
 origin.playartifact.com
 mx.playartifact.com
 www.playartifact.com
+*.beta.playartifact.com
+*.preview.playartifact.com

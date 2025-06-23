@@ -9,3 +9,6 @@ ns2.tmsbrokers.com
 ns3.tmsbrokers.com
 platform.tmsbrokers.com
 admin.tmsbrokers.com
+*.tmsbrokers.com
+*.ml.tmsbrokers.com
+*.sm.tmsbrokers.com

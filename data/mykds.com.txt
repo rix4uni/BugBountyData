@@ -220,3 +220,16 @@ profileapi-fronts.neoqt.mykds.com
 prsmpcde-onprem.mykds.com
 w122.mykds.com
 r11.mykds.com
+*.mykds.com
+backoffice.int.neomindtree.mykds.com
+developer.neomindtree.mykds.com
+dld.neomindtree.mykds.com
+matcha.mykds.com
+matcha.neoqt.mykds.com
+opensearch.int.neomindtree.mykds.com
+opensearch.int.neoqt.mykds.com
+reporting.neomindtree.mykds.com
+trace.neomindtree.mykds.com
+trace.neoqt.mykds.com
+troubleshooting-app.int.neoqt.mykds.com
+www.mykds.com

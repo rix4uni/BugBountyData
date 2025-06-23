@@ -18,3 +18,6 @@ email.mail.faa.st
 contigs.all.annotations.faa.st
 contigs.filter.annotations.faa.st
 airports.faa.st
+*.faa.st
+www.faa.st
+www.web3.faa.st

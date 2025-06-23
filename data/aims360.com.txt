@@ -245,3 +245,7 @@ hostmaster.web.aims360.com
 postgresgit.aims360.com
 135-207-50-37.stagingthreedots.aims360.com
 135-207-102-38.developer.aims360.com
+*.aims360.com
+*.cloud.aims360.com
+www.aims360.com
+www.my.aims360.com

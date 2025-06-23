@@ -5,3 +5,5 @@ g.cuv-prod.app
 wg.g.cuv-prod.app
 db.cuv-prod.app
 underwriter.prod.cuv-prod.app
+*.g.cuv-prod.app
+*.prod.cuv-prod.app

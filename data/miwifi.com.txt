@@ -71,3 +71,8 @@ www.oauth2.miwifi.com
 www.s.miwifi.com
 www.us.api.miwifi.com
 www.us.log.miwifi.com
+*.miwifi.com
+*.api.miwifi.com
+*.bigota.miwifi.com
+*.broker.miwifi.com
+*.log.miwifi.com

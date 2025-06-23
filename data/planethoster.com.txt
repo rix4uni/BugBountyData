@@ -124,3 +124,12 @@ www.assets.planethoster.com
 www.dev.forums.planethoster.com
 www.docs.planethoster.com
 www.my.planethoster.com
+.planethoster.com
+*.planethoster.com
+*.aide.planethoster.com
+*.api.planethoster.com
+*.blog.planethoster.com
+*.forums.planethoster.com
+*.partners.planethoster.com
+*.reussir-en-fr.planethoster.com
+*.seo.planethoster.com

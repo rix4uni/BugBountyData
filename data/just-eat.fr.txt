@@ -2414,3 +2414,7 @@ ad-idsaws.frontend.office.prod.clops.just-eat.fr
 zh-hk.docs-th-th.c.frontend.office.prod.clops.just-eat.fr
 cars.prod.cmn.frontend.office.prod.clops.just-eat.fr
 administrator.frontend.office.prod.clops.just-eat.fr
+*.just-eat.fr
+*.feature.just-eat.fr
+*.frontend.office.prod.clops.just-eat.fr
+*.frontend.office.stag.clops.just-eat.fr

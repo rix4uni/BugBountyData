@@ -342,3 +342,11 @@ a4ce.pivcac.prod.login.gov
 0b03.pivcac.prod.login.gov
 b43b.pivcac.prod.login.gov
 5b9c.pivcac.prod.login.gov
+.login.gov
+*.pages.gitstaging.gitlab.login.gov
+*.pages.production.gitlab.login.gov
+*.pivcac.dm.login.gov
+*.pivcac.prod.login.gov
+*.pivcac.staging.login.gov
+docv.login.gov
+www.login.gov

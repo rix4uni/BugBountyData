@@ -30,3 +30,7 @@ ga-orange-nlb.dev.chimepayments.com
 ga-gold.tmp-cert.chimepayments.com
 ga-orange-nlb.tmp-cert.chimepayments.com
 ga-orange.tmp-cert.chimepayments.com
+*.cert.chimepayments.com
+*.prod.chimepayments.com
+*.qa.chimepayments.com
+www.chimepayments.com

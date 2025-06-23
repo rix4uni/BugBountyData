@@ -497,3 +497,10 @@ gmlrevenuedlp.ue1az.tinderops.net
 kibana-changelog.eck.ue1az.tinderops.net
 ndata-infra-d.ue1az.tinderops.net
 rapidfirehop2s-alb.ue1az.tinderops.net
+*.as1.tinderops.net
+*.eck.ue1az.tinderops.net
+*.prodv2.k8s.tinderops.net
+*.security.k8s.tinderops.net
+*.ue1.tinderops.net
+*.ue1az.tinderops.net
+*.uw2.tinderops.net

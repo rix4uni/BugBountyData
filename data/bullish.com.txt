@@ -266,3 +266,8 @@ mail2.bullish.com
 vps.bullish.com
 smtp01.bullish.com
 persona.ext-api.exchange.bullish.com
+.bullish.com
+*.bullish.com
+*.access.bullish.com
+*.listing.bullish.com
+*.marketing.bullish.com

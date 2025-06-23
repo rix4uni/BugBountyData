@@ -4726,3 +4726,8 @@ fiostrending.githubapp.com
 cps-network-service-production.githubapp.com
 device983622-b3ffce62.githubapp.com
 code-scanning-ops.githubapp.com
+*.githubapp.com
+*.thewall.githubapp.com
+code-scanning-data.githubapp.com
+cse-hub.githubapp.com
+www.githubapp.com

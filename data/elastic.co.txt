@@ -1396,3 +1396,6 @@ www.protections-ci.elastic.co
 www.sbc.elastic.co
 www.swiftype-ci.elastic.co
 www.videos.elastic.co
+*.elastic.co
+*.auto-ops.cloud.elastic.co
+*.auto-ops.us-east-1.aws.cloud.elastic.co

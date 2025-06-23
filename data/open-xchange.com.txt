@@ -499,3 +499,13 @@ rubtsovpro.qa.open-xchange.com
 www.open-xchange.com
 www.career.open-xchange.com
 www.production.open-xchange.com
+.open-xchange.com
+*.open-xchange.com
+*.gitlab.open-xchange.com
+*.gitlab-test.open-xchange.com
+*.kube.open-xchange.com
+*.pages.open-xchange.com
+*.pages-test.open-xchange.com
+*.qa.open-xchange.com
+*.registry.open-xchange.com
+*.registry-test.open-xchange.com

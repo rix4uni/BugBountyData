@@ -350,3 +350,9 @@ sso.opera.software
 procom.dev.osp.opera.software
 www.buildbot-dev.opera.software
 www.dns.opera.software
+.opera.software
+*.opera.software
+*.dev.osp.opera.software
+*.osp.opera.software
+*.vpn.opera.software
+www.opera.software

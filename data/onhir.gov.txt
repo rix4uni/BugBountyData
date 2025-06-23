@@ -6,3 +6,9 @@ autodiscover.onhir.gov
 mail.onhir.gov
 mail1.onhir.gov
 rwww.onhir.gov
+*.onhir.gov
+idaas.onhir.gov
+www.onhir.gov
+www.adfs.onhir.gov
+www.idaas.onhir.gov
+www.mail.onhir.gov

@@ -6227,3 +6227,7 @@ study.quizlet.com
 www.try.quizlet.com
 fake.mp.dev.quizlet.com
 mp.dev.quizlet.com
+.quizlet.com
+*.quizlet.com
+*.dev.quizlet.com
+www.quizlet.com

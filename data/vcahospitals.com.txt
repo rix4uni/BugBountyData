@@ -32,3 +32,11 @@ secure.vcahospitals.com
 uat101-cm.vcahospitals.com
 prod.vcahospitals.com
 qa-cm.vcahospitals.com
+.vcahospitals.com
+*.vcahospitals.com
+www.vcahospitals.com
+www.local.vcahospitals.com
+www.marketing.vcahospitals.com
+www.newcats.vcahospitals.com
+www.newdogs.vcahospitals.com
+www.pets.vcahospitals.com

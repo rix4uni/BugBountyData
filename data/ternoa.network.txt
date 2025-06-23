@@ -88,3 +88,7 @@ explorer2.zkevm.ternoa.network
 faucet.zkevm.ternoa.network
 rpc.zkevm.ternoa.network
 testnetbridge.ternoa.network
+*.ternoa.network
+bridge-mainnet.zkevm.ternoa.network
+explorer-mainnet.zkevm.ternoa.network
+sequencer-mainnet.zkevm.ternoa.network

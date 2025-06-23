@@ -78902,3 +78902,9 @@ thissubdomainshouldonlyresolveifwildcard.155-9-193-23.live.bitdiscovery.com
 22photos.live.bitdiscovery.com
 05-4-07-4.live.bitdiscovery.com
 2dpaphostheaterbaseline.live.bitdiscovery.com
+.bitdiscovery.com
+*.bitdiscovery.com
+*.live.bitdiscovery.com
+*.stage2.bitdiscovery.com
+*.staging.bitdiscovery.com
+www.bitdiscovery.com

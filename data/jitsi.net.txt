@@ -10984,3 +10984,8 @@ kor.jitsi.net
 meet-jit-si-eu-central-1b-s11-jvb-186.jitsi.net
 perf.jitsi.net
 recorder.alpha.jitsi.net
+*.jitsi.net
+*.cloudflare.jitsi.net
+jaas.jitsi.net
+www.jitsi.net
+www.turn.jitsi.net

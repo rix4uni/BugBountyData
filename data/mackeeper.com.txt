@@ -536,3 +536,11 @@ tzk3.tz.mackeeper.com
 www.pub-mc.mackeeper.com
 www.rdt.mackeeper.com
 www.store.mackeeper.com
+.mackeeper.com
+*.mackeeper.com
+*.account.mackeeper.com
+*.account.sz.mackeeper.com
+*.account.tz.mackeeper.com
+*.sz.mackeeper.com
+*.tz.mackeeper.com
+www.mackeeper.com

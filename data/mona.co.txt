@@ -60,3 +60,7 @@ ncw-evm-admin.mona.co
 data-st-eks.mona.co
 ssh.mona.co
 datadog-mobile-sdk-data-relay.mona.co
+.mona.co
+*.mona.co
+*.minted.mona.co
+www.mona.co

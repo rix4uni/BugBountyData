@@ -383,3 +383,7 @@ prod-video-ap-southeast-3.periscope.tv
 prod-chatman-ancillary-ap-southeast-1.periscope.tv
 prod-replay-us-east-1-public.periscope.tv
 u003edev-admin.periscope.tv
+.periscope.tv
+*.periscope.tv
+*.video.periscope.tv
+www.periscope.tv

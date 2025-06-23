@@ -163,3 +163,7 @@ westernunionbranchesphilippines.o2service.de
 qa-fnc.staging.o2service.de
 landing.qa2-mda.o2service.de
 portal.qa2-fnc.o2service.de
+.o2service.de
+*.o2service.de
+*.staging.o2service.de
+www.o2service.de

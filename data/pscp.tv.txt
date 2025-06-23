@@ -351,3 +351,7 @@ prod-fastly-ap-southeast-2.pscp.tv
 prod-fastly-sa-east-1.pscp.tv
 prod-fastly-us-west-2.pscp.tv
 wwww.pscp.tv
+.pscp.tv
+*.pscp.tv
+*.video.pscp.tv
+www.pscp.tv

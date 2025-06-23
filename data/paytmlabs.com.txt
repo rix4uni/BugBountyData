@@ -480,3 +480,17 @@ elasticsearch09.internal.pai-risk-prod-paypay.paypay.osmose.paytmlabs.com
 airflow-stg.prod-ppbl.osmose.paytmlabs.com
 cassandra15.internal.pai-risk-perf-paypay.paypay.osmose.paytmlabs.com
 casemanagement-db.internal.stg-sa1.osmose.paytmlabs.com
+*.paytmlabs.com
+*.demo.osmose.paytmlabs.com
+*.dev-use2.osmose.paytmlabs.com
+*.pai-risk-perf-paypay.paypay.osmose.paytmlabs.com
+*.pai-risk-prod-paypay.paypay.osmose.paytmlabs.com
+*.pai-risk-stg-paypay.paypay.osmose.paytmlabs.com
+*.prod-fraud-merchant-usw2.osmose.paytmlabs.com
+*.prod-ppbl.osmose.paytmlabs.com
+*.prod-sa1.osmose.paytmlabs.com
+*.prod-usw2.osmose.paytmlabs.com
+*.rag.pai.paytmlabs.com
+*.stg-fraud-merchant-usw2.osmose.paytmlabs.com
+*.stg-sa1.osmose.paytmlabs.com
+jenkin-automation.osmose.paytmlabs.com

@@ -11,3 +11,9 @@ affiliates.mycslink.org
 patients-dev.mycslink.org
 oauth-test.mycslink.org
 oauth.mycslink.org
+*.mycslink.org
+www.mycslink.org
+www.opensched.mycslink.org
+www.opensched-dev.mycslink.org
+www.opensched-stage.mycslink.org
+www.opensched-test.mycslink.org

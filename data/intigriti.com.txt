@@ -98,3 +98,13 @@ tools.intigriti.com
 bff-public.stage.intigriti.com
 minio.prod.intigriti.com
 bff-public.prod.intigriti.com
+.intigriti.com
+*.intigriti.com
+*.int.intigriti.com
+*.int.prod.intigriti.com
+*.int.stage.intigriti.com
+*.int.uat.intigriti.com
+*.prod.intigriti.com
+*.stage.intigriti.com
+*.uat.intigriti.com
+www.intigriti.com

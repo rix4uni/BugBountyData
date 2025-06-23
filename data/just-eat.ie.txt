@@ -5527,3 +5527,10 @@ legacyxaycodes.just-eat.ie
 device1805298-07f75468-local.just-eat.ie
 dev.insidetrack.just-eat.ie
 ie-partnermanagement.just-eat.ie
+.just-eat.ie
+*.just-eat.ie
+*.couriers.just-eat.ie
+*.feature.just-eat.ie
+*.frontend.office.prod.clops.just-eat.ie
+*.frontend.office.stag.clops.just-eat.ie
+www.print.just-eat.ie

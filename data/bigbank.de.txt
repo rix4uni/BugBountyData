@@ -9,3 +9,9 @@ welcome.bigbank.de
 static.bigbank.de
 openaicore.bigbank.de
 w.bigbank.de
+.bigbank.de
+*.bigbank.de
+*.de.bigbank.de
+*.email.bigbank.de
+*.static.bigbank.de
+www.bigbank.de

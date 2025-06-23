@@ -131,3 +131,12 @@ tracker.valvesoftware.com
 adfs.valvesoftware.com
 origin.valvesoftware.com
 hlmaster.valvesoftware.com
+.valvesoftware.com
+*.valvesoftware.com
+*.beta.valvesoftware.com
+*.deckgen.valvesoftware.com
+*.developer.valvesoftware.com
+*.preview.valvesoftware.com
+*.store.valvesoftware.com
+www.valvesoftware.com
+www.store.valvesoftware.com

@@ -99,3 +99,15 @@ training-data-aggregator.umbraco.com
 apollotracking.umbraco.com
 packages.umbraco.com
 arrr.umbraco.com
+.umbraco.com
+*.umbraco.com
+*.identity.umbraco.com
+*.identity-dev.umbraco.com
+forum.umbraco.com
+www.umbraco.com
+www.cg.umbraco.com
+www.codegarden.umbraco.com
+www.community.umbraco.com
+www.dashboard.umbraco.com
+www.nl.umbraco.com
+www.try.umbraco.com

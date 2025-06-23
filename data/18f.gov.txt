@@ -216,3 +216,9 @@ standards.18f.gov
 sentry.18f.gov
 www.18f.gov
 www.federalist-docs.18f.gov
+.18f.gov
+*.sites-staging.federalist.18f.gov
+www.modularcontracting.18f.gov
+www.munki.18f.gov
+www.sites-dev.federalist.18f.gov
+www.staging.18f.gov

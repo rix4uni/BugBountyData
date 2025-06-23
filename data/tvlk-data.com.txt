@@ -191,3 +191,8 @@ tsa.tvlk-data.com
 example-app-stg-sso.tvlk-data.com
 example-app-stg.tvlk-data.com
 prod.tvlk-data.com
+*.tvlk-data.com
+data-ops-platform-v3.stg.tvlk-data.com
+feature-store-api-test.stg.tvlk-data.com
+openmetadata-ingestion.stg.tvlk-data.com
+openmetadata.stg.tvlk-data.com

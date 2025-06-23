@@ -328,3 +328,10 @@ ssquad5-api.test.veezi.com
 ssquad5-cm.test.veezi.com
 signage.oz.veezi.com
 vm-api.uswest.veezi.com
+*.veezi.com
+*.eu.veezi.com
+*.oz.veezi.com
+*.test.veezi.com
+*.us.veezi.com
+*.useast.veezi.com
+*.uswest.veezi.com

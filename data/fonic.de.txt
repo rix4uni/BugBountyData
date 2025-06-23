@@ -56,3 +56,11 @@ api-e2e2.fonic.de
 auth-e2e2.fonic.de
 auth-lrt.fonic.de
 login-ciam-nfr.fonic.de
+*.fonic.de
+*.www.fonic.de
+cdn.testing.fonic.de
+cdn.vertrag.fonic.de
+data.vertrag.fonic.de
+login-ciam.fonic.de
+www.fonic.de
+www.lidl.fonic.de

@@ -269,3 +269,5 @@ jenkins-ci-1.issuu.com
 _dmarc.issuu.com
 _amazonses.issuu.com
 cms.issuu.com
+*.issuu.com
+www.issuu.com

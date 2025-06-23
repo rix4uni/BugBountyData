@@ -54,3 +54,8 @@ prometheus.mariadb.org
 sg.mariadb.org
 websites.mariadb.org
 pass.mariadb.org
+*.mariadb.org
+minio.mariadb.org
+minio.dev.mariadb.org
+www.mariadb.org
+www.new.mariadb.org

@@ -152,3 +152,16 @@ qs.services.tms.pl
 webinar.tms.pl
 proxy.tms.pl
 beta.mobi.tms.pl
+*.tms.pl
+*.mailer.tms.pl
+*.ml.tms.pl
+*.sm.tms.pl
+*.test.tms.pl
+change-pass.tms.pl
+www.tms.pl
+www.ct.tms.pl
+www.devgw.gateway.tms.pl
+www.direct.tms.pl
+www.mobi.tms.pl
+www.mobidirect.tms.pl
+www.webdirect.tms.pl

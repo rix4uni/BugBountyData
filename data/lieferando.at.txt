@@ -4482,3 +4482,9 @@ hubrestit.lieferando.at
 adult-movies-online1.lieferando.at
 camaroben.lieferando.at
 www.lieferando.at
+.lieferando.at
+*.lieferando.at
+*.couriers.lieferando.at
+*.feature.lieferando.at
+*.frontend.office.prod.clops.lieferando.at
+*.frontend.office.stag.clops.lieferando.at

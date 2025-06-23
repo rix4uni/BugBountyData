@@ -125,3 +125,13 @@ cdn.offensive-security.com
 _dmarc.offensive-security.com
 ops-ovh4.offensive-security.com
 ops-ovh9.offensive-security.com
+*.awx-kube.offensive-security.com
+*.kube.offensive-security.com
+*.ops-ovh4.offensive-security.com
+*.ops-ovh9.offensive-security.com
+*.qa.offensive-security.com
+www.offensive-security.com
+www.chat.offensive-security.com
+www.community.offensive-security.com
+www.portal.offensive-security.com
+www.portal-preprod.offensive-security.com

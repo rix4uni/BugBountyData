@@ -21,3 +21,7 @@ sftp.cfbenchmarks.com
 uat.fix.cfbenchmarks.com
 bcpdr.cfbenchmarks.com
 oracleprod1.cfbenchmarks.com
+*.fix.cfbenchmarks.com
+*.test.fix.cfbenchmarks.com
+*.uat.fix.cfbenchmarks.com
+www.cfbenchmarks.com

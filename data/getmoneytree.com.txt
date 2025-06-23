@@ -62,3 +62,6 @@ linkkit-develop.getmoneytree.com
 myaccount-stg.r53-stg.getmoneytree.com
 www.getmoneytree.com
 jp-api-production.getmoneytree.com
+.getmoneytree.com
+*.getmoneytree.com
+*.business-staging.getmoneytree.com

@@ -34,3 +34,5 @@ channel.exmo.com
 k1._domainkey.exmo.com
 _xmpp-server._tcp.exmo.com
 media2.exmo.com
+*.exmo.com
+www.exmo.com

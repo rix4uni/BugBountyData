@@ -227,3 +227,17 @@ ims.strongdm.com
 app-nlb.strongdm.com
 eng-snd.strongdm.com
 sdm-proxy-dev.us-east-2.dev.strongdm.com
+*.eric-dorsey.eng-snd.strongdm.com
+*.kellen-anker.eng-snd.strongdm.com
+*.strongdm-bootstrap-organization.eng-snd.strongdm.com
+ecr-proxy.snd.strongdm.com
+ecr-proxy.us-west-2.snd.strongdm.com
+login.snd.strongdm.com
+registry.strongdm.com
+registry.us-west-2.internal.strongdm.com
+sdm-proxy-jsfoak.us-east-2.snd.strongdm.com
+sfdc-redshift-connector.eu-central-1.data.strongdm.com
+sfdc-redshift-connector.us-east-2.data.strongdm.com
+sfdc-redshift-connector.us.us-east-2.data.strongdm.com
+token-vending-machine.snd.strongdm.com
+www.strongdm.com

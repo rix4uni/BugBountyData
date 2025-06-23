@@ -247,3 +247,12 @@ record-cache01.mapmyfitness.com
 assets.mapmyfitness.com
 review.mapmyfitness.com
 origin-tdfaa-api.mapmyfitness.com
+.mapmyfitness.com
+*.mapmyfitness.com
+*.developer.mapmyfitness.com
+*.fs-external.mapmyfitness.com
+*.mvp.mapmyfitness.com
+*.run-external.mapmyfitness.com
+www.mapmyfitness.com
+www.business.mapmyfitness.com
+www.landing.mapmyfitness.com

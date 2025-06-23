@@ -205,3 +205,15 @@ autodiscover.dev.unikrn.com
 base.maps.api.be-okta-tqtelethon.dev.unikrn.com
 www.unikrn.com
 www.news.unikrn.com
+.unikrn.com
+*.unikrn.com
+*.dev.unikrn.com
+*.next.unikrn.com
+*.prod.unikrn.com
+www.admin.alumni.dev.unikrn.com
+www.bihar.admin.dev.unikrn.com
+www.cz.www-test.tqintra.dev.unikrn.com
+www.hicham.www-test.tqintra.dev.unikrn.com
+www.sharon.www-test.tqmobile.dev.unikrn.com
+www.tqintra.dev.unikrn.com
+www.tqtelethon.dev.unikrn.com

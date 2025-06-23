@@ -373,3 +373,15 @@ payments.grammarly.com
 org.denali-fb.grammarly.com
 origin.denali-fb.grammarly.com
 login-static.grammarly.com
+*.grammarly.com
+*.denali-fb.grammarly.com
+*.k8s-capi.grammarly.com
+*.mise-private.grammarly.com
+knowledge.grammarly.com
+lti-integration.grammarly.com
+www.grammarly.com
+www.autoreport.grammarly.com
+www.blog.grammarly.com
+www.dev.grammarly.com
+www.dev.v.grammarly.com
+www.nspl.grammarly.com

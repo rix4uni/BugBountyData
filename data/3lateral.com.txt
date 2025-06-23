@@ -16,3 +16,6 @@ postmaster.3lateral.com
 mta.3lateral.com
 smtp.3lateral.com
 enterpriseenrollment.3lateral.com
+.3lateral.com
+*.3lateral.com
+www.3lateral.com

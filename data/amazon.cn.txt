@@ -650,3 +650,10 @@ accountsapacheretail-proxy-policy-cn-north-1-fe-gamma.webdb.aax-cn.1cpanel.com.s
 amazon-www.amazon.cn
 bbsatcs-retail-proxy-cn-north-1-prod.aax-cn.1cpanel.com.sa.s.advertising.amazon.cn
 math-extern.apps.1cpanel.com.sa.s.advertising.amazon.cn
+*.s.advertising.amazon.cn
+www.amazon.cn
+www.alexa.comwww.amazon.cn
+www.cde-ta-g7g.amazon.cn
+www.cn-amazon-creturns.amazon.cn
+www.trans-logistics.amazon.cn
+www.translogistics.amazon.cn

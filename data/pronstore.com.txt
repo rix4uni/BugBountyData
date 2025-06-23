@@ -8,3 +8,5 @@ admin.pronstore.com
 cdn1-content.pronstore.com
 stage.pronstore.com
 origin.pronstore.com
+*.pronstore.com
+www.ws.pronstore.com

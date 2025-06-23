@@ -922,3 +922,9 @@ tst1sgak.staging.nozbe.com
 betapublish.staging.nozbe.com
 http-translate-reference-com4-2.staging.nozbe.com
 dev.payments.nozbe.com
+*.nozbe.com
+api4-3.nozbe.com
+www.nozbe.com
+www.checkout.nozbe.com
+www.server.nozbe.com
+www.test.nozbe.com

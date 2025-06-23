@@ -149,3 +149,11 @@ trmena-store.battlegrounds.pubg.com
 api-event.kr.pubg.com
 event.kr.pubg.com
 zk-pcprod.acs.pubg.com
+*.pubg.com
+*.accounts.pubg.com
+*.acs.pubg.com
+*.battlegrounds.pubg.com
+*.kr.pubg.com
+*.newstate.pubg.com
+*.partnerhub.pubg.com
+www.pubg.com

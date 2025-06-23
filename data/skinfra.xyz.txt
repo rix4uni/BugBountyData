@@ -246,3 +246,17 @@ eventcapture-api.eng.dev.skinfra.xyz
 insights-webinar.skinfra.xyz
 insights-webinar-staging.skinfra.xyz
 seekme.skinfra.xyz
+*.skinfra.xyz
+*.datainfra-apac.skinfra.xyz
+*.ga.dev.skinfra.xyz
+*.ga.prod.skinfra.xyz
+*.gantry-test.artefacts.prod.skinfra.xyz
+*.hack14.skinfra.xyz
+*.listo.skinfra.xyz
+*.sap.dev.skinfra.xyz
+*.ssod.skinfra.xyz
+aggregator.eeeoh.ap-southeast-2.dev.skinfra.xyz
+aggregator.eeeoh.dev.skinfra.xyz
+aggregator.eeeoh.prod.skinfra.xyz
+eeeoh.eeeoh.dev.skinfra.xyz
+uww.branding.staging.skinfra.xyz

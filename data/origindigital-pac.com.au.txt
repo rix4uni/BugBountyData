@@ -134,3 +134,5 @@ multisiteportal-login-prdb.origindigital-pac.com.au
 pdf-api-prod.origindigital-pac.com.au
 rm.dataportal.origindigital-pac.com.au
 s3assetsproxy-service-prod.origindigital-pac.com.au
+*.origindigital-pac.com.au
+*.api.origindigital-pac.com.au

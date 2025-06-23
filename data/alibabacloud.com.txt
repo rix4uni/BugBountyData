@@ -5461,3 +5461,15 @@ xdf379f027b885bd6b3ca97f84619843dcce4259917090bdbf1721699940a2079290032a-1982269
 xd15a74f8baea336faabe24974ceb0c4085386d63487c300a71725280143a2079290032a-1982269328abaac2aaa__bx__www.alibabacloud.com
 xd0ebe8faeb8307e6fb92739af7f1a3ceac67d26eaefe6a81c1726444361a2079290032a-1982269328abaac2aaa__bx__www.alibabacloud.com
 xd481b9c7b6ba8b1aaf986db4400136e921eeef743c27b52d61726409439a2079290032a-1982269328abaac2aaa__bx__www.alibabacloud.com
+.alibabacloud.com
+*.alibabacloud.com
+*.api.alibabacloud.com
+*.console.alibabacloud.com
+*.data.alibabacloud.com
+*.iva.alibabacloud.com
+*.xspace.alibabacloud.com
+www.alibabacloud.com
+www.account-cn.alibabacloud.com
+www.in.alibabacloud.com
+www.passport.alibabacloud.com
+www.topic.alibabacloud.com

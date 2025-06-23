@@ -72,3 +72,12 @@ cloudflare-verify.swiftfinancial.com
 content.swiftfinancial.com
 sip.swiftfinancial.com
 logging.swiftfinancial.com
+*.swiftfinancial.com
+*.dev.swiftfinancial.com
+*.ist.swiftfinancial.com
+*.sbx.swiftfinancial.com
+*.test.swiftfinancial.com
+*.uat.swiftfinancial.com
+www.swiftfinancial.com
+www.card.swiftfinancial.com
+www.card.uat.swiftfinancial.com

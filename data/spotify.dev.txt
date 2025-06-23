@@ -25,3 +25,5 @@ melodine.spotify.dev
 config.spotify.dev
 account.spotify.dev
 credentials.spotify.dev
+*.spotify.dev
+www.spotify.dev

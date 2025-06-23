@@ -395,3 +395,10 @@ scholar.doctolib.de
 mail1.doctolib.de
 fhir-prd-aws-fr-par-1.doctolib.de
 postmaster.doctolib.de
+.doctolib.de
+*.doctolib.de
+*.portal.doctolib.de
+*.portal-interf.doctolib.de
+*.portal-staging.doctolib.de
+*.preview.doctolib.de
+www.doctolib.de

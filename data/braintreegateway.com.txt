@@ -82,3 +82,10 @@ apply.sand.braintreegateway.com
 gateway-api.sandbox.braintreegateway.com
 w.braintreegateway.com
 gateway.qa.braintreegateway.com
+*.braintreegateway.com
+www.braintreegateway.com
+www.api.sandbox.braintreegateway.com
+www.assets.braintreegateway.com
+www.js.braintreegateway.com
+www.metrics.sandbox.braintreegateway.com
+www.qa.braintreegateway.com

@@ -12,3 +12,6 @@ static.eaas.binance.sg
 uniauth.eaas.binance.sg
 mailer.binance.sg
 accounts.eaas.binance.sg
+*.binance.sg
+*.eaas.binance.sg
+www.binance.sg

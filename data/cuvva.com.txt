@@ -43,3 +43,11 @@ prod.cuvva.com
 nonprod.cuvva.com
 sys.cuvva.com
 u003ewww.cuvva.com
+*.cuvva.com
+*.g.nonprod.cuvva.com
+*.g.prod.cuvva.com
+*.itb-info.cuvva.com
+*.lp-contact.cuvva.com
+*.lp-info.cuvva.com
+*.partner.cuvva.com
+linkstest.cuvva.com

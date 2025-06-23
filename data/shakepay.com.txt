@@ -30,3 +30,6 @@ internal.shakepay.com
 cluster.shakepay.com
 api-cluster.shakepay.com
 web-cluster.shakepay.com
+.shakepay.com
+*.shakepay.com
+www.shakepay.com

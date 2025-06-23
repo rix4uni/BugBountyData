@@ -7817,3 +7817,8 @@ txt2.t.dnsruby.validation-test-servers.nominet.org.uk
 txt.t.dnsruby.validation-test-servers.nominet.org.uk
 dnsruby.validation-test-servers.nominet.org.uk
 dnsjnio-1-0-1-test1.validation-test-servers.nominet.org.uk
+*.nominet.org.uk
+*.dns.service.nominet.org.uk
+*.ebero.nominet.org.uk
+www.nominet.org.uk
+www.listapi.nominet.org.uk

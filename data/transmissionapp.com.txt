@@ -61962,3 +61962,12 @@ zzzz.sb.transmissionapp.com
 988xw02.sb.transmissionapp.com
 999df1ce-dc73-4.sb.transmissionapp.com
 infra-prod.eng.transmissionapp.com
+*.transmissionapp.com
+*.core.pre-prod-1.infra-dev.eng.transmissionapp.com
+*.core.proserve-sandbox.infra-prod.eng.transmissionapp.com
+*.local.trade-dev.transmissionapp.com
+*.pre-prod-1.infra-dev.eng.transmissionapp.com
+*.proserve-sandbox.infra-prod.eng.transmissionapp.com
+*.sb.transmissionapp.com
+*.staging.transmissionapp.com
+*.web.sb.transmissionapp.com

@@ -59,3 +59,10 @@ zendesk4.paytm.ca
 zendesk2.paytm.ca
 zendesk3.paytm.ca
 rest-proxy.paytm.ca
+*.bitbucket.nonprod.hl.paytm.ca
+*.internal.nonprod.hl.paytm.ca
+*.nonprod.hl.paytm.ca
+www.paytm.ca
+www.apar-stg.paytm.ca
+www.blog.paytm.ca
+www.signing.apar-stg.paytm.ca

@@ -13,3 +13,5 @@ api-test-staging.zynbitdev.com
 crmapi-test-staging.zynbitdev.com
 dashboard-test-staging.zynbitdev.com
 ftp.zynbitdev.com
+*.zynbitdev.com
+www.zynbitdev.com

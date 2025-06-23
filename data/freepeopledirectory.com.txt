@@ -1,3 +1,6 @@
 qa.freepeopledirectory.com
 _dmarc.freepeopledirectory.com
 cf.freepeopledirectory.com
+*.freepeopledirectory.com
+*.qa.freepeopledirectory.com
+www.freepeopledirectory.com

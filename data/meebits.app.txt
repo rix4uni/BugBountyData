@@ -8,3 +8,5 @@ _dmarc.meebits.app
 meta.meebits.app
 data.meebits.app
 preprod-turnon.meebits.app
+.meebits.app
+*.meebits.app

@@ -152,3 +152,11 @@ eli5.ata.network
 explorer-testnet.ata.network
 pom-guide.ata.network
 grants.ata.network
+.ata.network
+*.ata.network
+attestation-explorer.ata.network
+attestation-indexer.ata.network
+pom-universal-link.ata.network
+proof-of-agent-relay.ata.network
+vault.ata.network
+www.ata.network

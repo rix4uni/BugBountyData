@@ -30,3 +30,5 @@ sectool.bugbase.in
 mm-bounce.bugbase.in
 ctf.bugbase.in
 adminv2.bugbase.in
+*.bugbase.in
+www.bugbase.in

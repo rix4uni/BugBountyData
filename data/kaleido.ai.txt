@@ -5010,3 +5010,10 @@ nimp-talk-turkey.0.cr1.kaleido.ai
 payment.nimp-talk.0.cr1.kaleido.ai
 nimp-talk-mongodb.0.cr1.kaleido.ai
 nimp-talkcdn.0.cr1.kaleido.ai
+.kaleido.ai
+*.kaleido.ai
+*.accounts.kaleido.ai
+*.labs.kaleido.ai
+www.kaleido.ai
+www.labs.kaleido.ai
+www.staging.labs.kaleido.ai

@@ -33,3 +33,7 @@ api-customer.test.bugbounty.fail
 api-customer-01.staging.bugbounty.fail
 cms.bugbounty.fail
 api.bugbounty.fail
+api-exposure.feature.bugbounty.fail
+api-exposure.test.bugbounty.fail
+api-shields.feature.bugbounty.fail
+www.bugbounty.fail

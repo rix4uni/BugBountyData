@@ -139,3 +139,7 @@ www.rsk.co
 www.backend.stats.rsk.co
 www.media.rsk.co
 www.staging.rsk.co
+*.rsk.co
+*.mainnet.rsk.co
+*.staging.rsk.co
+*.testnet.rsk.co

@@ -4937,3 +4937,17 @@ f7c5.g.signalpath.com
 blog.signalpath.com
 staging.gcp.signalpath.com
 staging-viewpoint-api.gcp.signalpath.com
+*.signalpath.com
+*.g.signalpath.com
+kp-validation-viewpoint-api.signalpath.com
+prod-crosscloud.gcp.signalpath.com
+stage-crosscloud.gcp.signalpath.com
+stage-kp-crosscloud.gcp.signalpath.com
+test-automation-crosscloud.gcp.signalpath.com
+test-automation-viewpoint-api.gcp.signalpath.com
+validation-viewpoint-api.signalpath.com
+viewpoint-api.signalpath.com
+www.signalpath.com
+www.clientdev.signalpath.com
+www.clientuat.signalpath.com
+www.support.signalpath.com

@@ -1853,3 +1853,13 @@ www.careers.takeaway.com
 www.corporate.takeaway.com
 www.scooberwebshop.takeaway.com
 www.takeaway.com
+.takeaway.com
+*.takeaway.com
+*.corporate.takeaway.com
+*.feature.takeaway.com
+*.frontend.office.prod.clops.takeaway.com
+*.frontend.office.stag.clops.takeaway.com
+*.gitpages.takeaway.com
+*.shop.takeaway.com
+*.takeaway.test7.staging.takeaway.com
+*.tmf.takeaway.com

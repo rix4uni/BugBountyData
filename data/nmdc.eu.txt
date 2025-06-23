@@ -10,3 +10,5 @@ localhost.nmdc.eu
 ssh.nmdc.eu
 autoconfig.nmdc.eu
 mail.nmdc.eu
+*.nmdc.eu
+www.nmdc.eu

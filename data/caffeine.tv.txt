@@ -3451,3 +3451,8 @@ hostmaster.gomed.events.caffeine.tv
 www.caffeine.tv
 www.staging.caffeine.tv
 www.tma.caffeine.tv
+*.caffeine.tv
+*.prod.caffeine.tv
+*.rtcdn.caffeine.tv
+*.stage.caffeine.tv
+*.staging.caffeine.tv

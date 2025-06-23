@@ -9,3 +9,5 @@ automate.fedramp.gov
 help.fedramp.gov
 www.fedramp.gov
 staging.fedramp.gov
+.fedramp.gov
+*.staging.fedramp.gov

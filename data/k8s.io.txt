@@ -4917,3 +4917,9 @@ samplecontroller.k8s.io
 apiserver.k8s.io
 nfs.csi.k8s.io
 resource-metrics.metrics.k8s.io
+*.k8s.io
+*.cluster-api-ibmcloud.sigs.k8s.io
+*.prow.k8s.io
+gateway-api-inference-extension.sigs.k8s.io
+release-1-9.cluster-api.sigs.k8s.io
+www.k8s.io

@@ -90,3 +90,5 @@ sf2-stg-web.casper.tools
 casper-db-replica.casper.tools
 sf2-prd-web.casper.tools
 hostmaster.piwik.operator.casper.tools
+.casper.tools
+*.casper.tools

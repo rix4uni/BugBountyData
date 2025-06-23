@@ -155,3 +155,16 @@ esaf2018.rsaconference.com
 enterpriseregistration.rsaconference.com
 efn2011europe.events-test.rsaconference.com
 webdr.rsaconference.com
+.rsaconference.com
+*.rsaconference.com
+*.email.rsaconference.com
+www.rsaconference.com
+www.dev-cd.rsaconference.com
+www.dev-cm.rsaconference.com
+www.go.rsaconference.com
+www.links.e.rsaconference.com
+www.prod-cd1.rsaconference.com
+www.prod-cd2.rsaconference.com
+www.prod-cm.rsaconference.com
+www.qa-cd.rsaconference.com
+www.qa-cm.rsaconference.com

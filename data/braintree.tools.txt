@@ -3625,3 +3625,11 @@ disputin.c.us-east-1.cpair.dev.braintree.tools
 docker.6.us-east-1.cpair.dev.braintree.tools
 5.us-east-1.cpair.dev.braintree.tools
 proxylogin.us-east-1.cpair.dev.braintree.tools
+*.ap-southeast-2.cpair.dev.braintree.tools
+*.cpair.dev.braintree.tools
+*.eu-central-1.cpair.dev.braintree.tools
+*.us-east-1.cpair.dev.braintree.tools
+*.us-east-2.cpair.dev.braintree.tools
+*.us-west-1.cpair.dev.braintree.tools
+*.us-west-2.cpair.dev.braintree.tools
+www.dockerhub.braintree.tools

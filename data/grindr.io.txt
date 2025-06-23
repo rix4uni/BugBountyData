@@ -3303,3 +3303,17 @@ mlops-nonsensitive.grindr.io
 apis.mlops-nonsensitive.grindr.io
 mlops-sensitive.grindr.io
 media.astro.dev.grindr.io
+.grindr.io
+*.grindr.io
+*.alpha.grindr.io
+*.astro.prod.grindr.io
+*.dev.grindr.io
+*.dev2.grindr.io
+*.dsci.grindr.io
+*.mlops-nonsensitive.grindr.io
+*.mlops-sensitive.grindr.io
+*.platform.grindr.io
+*.prod.grindr.io
+*.prod2.grindr.io
+*.security.grindr.io
+*.staging.grindr.io

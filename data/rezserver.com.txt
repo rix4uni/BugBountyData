@@ -34,3 +34,5 @@ api-deva.rezserver.com
 api-qaa.rezserver.com
 admin-deva.rezserver.com
 api-preprod.rezserver.com
+*.rezserver.com
+www.rezserver.com

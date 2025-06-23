@@ -1750,3 +1750,8 @@ s4-cloud.infra.account.lens.gravitational.co
 skinsapi.lens.gravitational.co
 bitbucket-events.lens.gravitational.co
 testcert.k9s.lens.gravitational.co
+.gravitational.co
+*.gravitational.co
+www.gravitational.co
+www.router.gravitational.co
+www.unifi.gravitational.co

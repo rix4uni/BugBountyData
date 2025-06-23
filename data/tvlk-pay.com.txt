@@ -10,3 +10,9 @@ deploy.tvlk-pay.com
 api-tpaypmg.stg.tvlk-pay.com
 api.stg.tvlk-pay.com
 tvpay.stg.tvlk-pay.com
+*.tvlk-pay.com
+*.merchant.tvlk-pay.com
+*.mfc.tvlk-pay.com
+*.prod.mfc.tvlk-pay.com
+*.stg.tvlk-pay.com
+*.stg.mfc.tvlk-pay.com

@@ -554,3 +554,11 @@ domainkeyapi.sa-east-1.us-west-2._dmarc.creditkarma.ca
 accountsenvsdmarccorp._dmarc.creditkarma.ca
 bmy200501._domainkey.creditkarma.ca
 384sep-2022._domainkey.creditkarma.ca
+.creditkarma.ca
+*.creditkarma.ca
+www.creditkarma.ca
+www.helpcenter.creditkarma.ca
+www.iad1.creditkarma.ca
+www.sjc1.creditkarma.ca
+www.support.creditkarma.ca
+www.us-central1.creditkarma.ca

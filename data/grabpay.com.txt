@@ -5488,3 +5488,13 @@ origin.athena.0.azr.grabpay.com
 origin-log.0.azr.grabpay.com
 orig-admin.0.azr.grabpay.com
 orig.grafana.0.azr.grabpay.com
+*.grabpay.com
+*.aws.grabpay.com
+*.azr.grabpay.com
+*.corp.grabpay.com
+*.cp1.grabpay.com
+*.sg.aws.grabpay.com
+www.grabpay.com
+www.api.grabpay.com
+www.csr01.grabpay.com
+www.fast-eddagw.grabpay.com

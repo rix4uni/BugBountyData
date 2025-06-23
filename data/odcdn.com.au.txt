@@ -45,3 +45,11 @@ searchcode.odcdn.com.au
 teamcity.odcdn.com.au
 test1.origin.odcdn.com.au
 puppetmaster.odcdn.com.au
+*.odcdn.com.au
+*.api.odcdn.com.au
+*.clientretention.api.odcdn.com.au
+*.digital.api.odcdn.com.au
+*.distributorlookup.api.odcdn.com.au
+*.ftr.api.odcdn.com.au
+*.plans.api.odcdn.com.au
+*.preprod.digital.api.odcdn.com.au

@@ -537,3 +537,15 @@ api-settings.system.eu.floqast.app
 www.floqast.app
 www.floverse.floqast.app
 www.ftps.floqast.app
+*.floqast.app
+*.au.floqast.app
+*.automation.floqast.app
+*.automation-eu.floqast.app
+*.eu.floqast.app
+*.hackme.floqast.app
+*.system.floqast.app
+*.system.au.floqast.app
+*.system.automation.floqast.app
+*.system.automation-eu.floqast.app
+*.system.eu.floqast.app
+*.system.hackme.floqast.app

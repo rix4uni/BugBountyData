@@ -167,3 +167,4 @@ lib.mailpoet.com
 test.mailpoet.com
 corp.mailpoet.com
 us.mailpoet.com
+*.mailpoet.com

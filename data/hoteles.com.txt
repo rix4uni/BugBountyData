@@ -41,3 +41,6 @@ ssoriginb-www.hoteles.com
 foo.hoteles.com
 pages.pt.hoteles.com
 0.0.0.0.0.0.0.0.g_arg_hot_brand.hot_brand_esp_plural_exact.hoteles.com
+*.hoteles.com
+www.hoteles.com
+www.ssl.hoteles.com

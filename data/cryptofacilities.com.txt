@@ -15,3 +15,11 @@ api.cryptofacilities.com
 demo.cryptofacilities.com
 gitlab.cryptofacilities.com
 admin-conformance.cryptofacilities.com
+*.cryptofacilities.com
+alpha.cryptofacilities.com
+www.cryptofacilities.com
+www.beta.cryptofacilities.com
+www.old.cryptofacilities.com
+www.status.cryptofacilities.com
+www.support.cryptofacilities.com
+www.uat.cryptofacilities.com

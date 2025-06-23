@@ -5,3 +5,5 @@ api.cloudkarafka.com
 status.cloudkarafka.com
 docs.cloudkarafka.com
 customer.cloudkarafka.com
+.cloudkarafka.com
+*.cloudkarafka.com

@@ -44,3 +44,9 @@ img.dota2.com
 _dmarc.dota2.com
 com.dota2.com
 db.dota2.com
+.dota2.com
+*.beta.dota2.com
+*.preview.dota2.com
+*.staging.dota2.com
+www.dota2.com
+www.staging.dota2.com

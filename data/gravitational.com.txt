@@ -58,3 +58,7 @@ githubs.teleport.gravitational.com
 roles.teleport.gravitational.com
 mail.gravitational.com
 ssl-example.gravitational.com
+.gravitational.com
+*.gravitational.com
+www.gravitational.com
+www.medium.gravitational.com

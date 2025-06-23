@@ -142,3 +142,7 @@ ott.kinopoisk.ru
 graphql-smarttv.kinopoisk.ru
 wwww.kinopoisk.ru
 graphql-web.kinopoisk.ru
+*.kinopoisk.ru
+*.unstable.payment-widget.kinopoisk.ru
+*.unstable.payment-widget-smarttv.plus.tst.kinopoisk.ru
+www.www.kinopoisk.ru

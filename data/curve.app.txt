@@ -12583,3 +12583,13 @@ centrocorona.vault-paytech-safe.production.curve.app
 hrsys.vault-paytech-safe.production.curve.app
 eu-west-1.curve.app
 production.eu-west-1.curve.app
+.curve.app
+*.curve.app
+*.production.curve.app
+*.production.galactus.curve.app
+*.production.quasar.curve.app
+*.production.vision.curve.app
+*.retoolv2.production.curve.app
+www.curve.app
+www.dev.curve.app
+www.discover.curve.app

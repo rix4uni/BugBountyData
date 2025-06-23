@@ -219,3 +219,16 @@ jesus.octopus.com
 zendesk4.octopus.com
 clearmeasure.octopus.com
 ictz.octopus.com
+*.octopus.com
+*.api.licensing.octopus.com
+*.licensing.octopus.com
+*.otel.octopus.com
+*.stripe.billing.octopus.com
+*.stripe.licensing.octopus.com
+auth.c.dev.octopus.com
+auth.localnw.dev.octopus.com
+www.octopus.com
+www.a.dev.octopus.com
+www.b.dev.octopus.com
+www.c.dev.octopus.com
+www.preprod.octopus.com

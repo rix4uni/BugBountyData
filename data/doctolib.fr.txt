@@ -4174,3 +4174,14 @@ baijialexiangduicelue.doctolib.fr
 sib.doctolib.fr
 push-production.doctolib.fr
 rs-push-staging.doctolib.fr
+.doctolib.fr
+*.doctolib.fr
+*.billing.doctolib.fr
+*.billing-dev.doctolib.fr
+*.billing-staging.doctolib.fr
+*.ddv-staging.doctolib.fr
+*.portal.doctolib.fr
+*.portal-interf.doctolib.fr
+*.preview.doctolib.fr
+www.docto.doctolib.fr
+www.staging.doctolib.fr

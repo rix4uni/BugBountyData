@@ -146,3 +146,11 @@ sb-stage.build.dropboxer.net
 graffogie.build.dropboxer.net
 wallarm-devapi.dropboxer.net
 www.99plus.dropboxer.net
+*.dropboxer.net
+*.api.dropboxer.net
+*.build.dropboxer.net
+*.f2k.dropboxer.net
+*.sb-stage.build.dropboxer.net
+*.teleport-dbx.dropboxer.net
+*.teleport-dbx-stage.dropboxer.net
+www.dropboxer.net

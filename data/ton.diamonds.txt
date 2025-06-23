@@ -3,3 +3,5 @@ support.ton.diamonds
 testnet.ton.diamonds
 api.ton.diamonds
 mainnet.ton.diamonds
+.ton.diamonds
+*.ton.diamonds

@@ -103,3 +103,8 @@ square-web.square.com
 developers.square.com
 squarewise.square.com
 fou.square.com
+.square.com
+*.square.com
+www.square.com
+www.dev-mule.apis.square.com
+www.prod-mule.apis.square.com

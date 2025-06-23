@@ -209,3 +209,10 @@ webview.myfitnesspal.com
 integ-api.myfitnesspal.com
 m.myfitnesspal.com
 apps.myfitnesspal.com
+.myfitnesspal.com
+*.myfitnesspal.com
+*.dev.myfitnesspal.com
+*.integ.myfitnesspal.com
+photos.integ.myfitnesspal.com
+www.myfitnesspal.com
+www.blog.myfitnesspal.com

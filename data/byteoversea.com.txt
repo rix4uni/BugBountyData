@@ -731,3 +731,7 @@ sketchy-staging.gecko-sg.byteoversea.com
 ttwid.maliva-mcs.byteoversea.com
 ad-audit-proxy-il.byteoversea.com
 bookmark-bap.log15.byteoversea.com
+.byteoversea.com
+*.byteoversea.com
+*.developer-sg.byteoversea.com
+*.libra.byteoversea.com

@@ -5265,3 +5265,9 @@ fishbowl-ws-prod.glassdoor.com
 www-prod-us-east-1.glassdoor.com
 gb.glassdoor.com
 salary.www.glassdoor.com
+*.glassdoor.com
+*.content.glassdoor.com
+*.messaging.glassdoor.com
+*.outreach.glassdoor.com
+www.glassdoor.com
+www.guide.glassdoor.com

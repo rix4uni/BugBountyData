@@ -742,3 +742,10 @@ www.testcert1.teslamotors.com
 www.testcert3.teslamotors.com
 www.toolbox-external-stg.teslamotors.com
 www.wd.s3.teslamotors.com
+*.teslamotors.com
+*.artifactory.teslamotors.com
+*.artifactory.dev.teslamotors.com
+*.dev.teslamotors.com
+*.fw.teslamotors.com
+*.vn.teslamotors.com
+www.toolbox.teslamotors.com

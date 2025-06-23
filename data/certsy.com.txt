@@ -31,3 +31,6 @@ email.certsy.com
 _dmarc.certsy.com
 _amazonses.certsy.com
 ad.certsy.com
+*.certsy.com
+*.internal.certsy.com
+www.certsy.com

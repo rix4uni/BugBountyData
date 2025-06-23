@@ -497,3 +497,11 @@ check.twimg.com
 vioeo.twimg.com
 staging.twimg.com
 deo.twimg.com
+.twimg.com
+*.twimg.com
+*.syndication.twimg.com
+video-s.twimg.com
+www.twimg.com
+www.ma.twimg.com
+www.pbs.twimg.com
+www.video.twimg.com

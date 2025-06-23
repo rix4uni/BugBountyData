@@ -51,3 +51,6 @@ ws-api.binance.us
 institutions-preprod.binance.us
 s1._domainkey.news.binance.us
 dapi.binance.us
+.binance.us
+*.binance.us
+www.binance.us

@@ -28,3 +28,7 @@ privacy.1rpc.io
 pre-release.1rpc.io
 talisman.1rpc.io
 next.1rpc.io
+.1rpc.io
+*.1rpc.io
+subagent.1rpc.io
+www.1rpc.io

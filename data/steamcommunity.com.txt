@@ -14,3 +14,7 @@ _dmarc.steamcommunity.com
 wwww.steamcommunity.com
 proxy.steamcommunity.com
 noscamm.steamcommunity.com
+.steamcommunity.com
+*.steamcommunity.com
+*.beta.steamcommunity.com
+*.preview.steamcommunity.com

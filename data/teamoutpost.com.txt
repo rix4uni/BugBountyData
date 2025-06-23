@@ -473,3 +473,5 @@ _etcd-server-ssl.teamoutpost.com
 _collab-edge._tls.teamoutpost.com
 _cuplogin._tcp.www.teamoutpost.com
 app.teamoutpost.com
+*.teamoutpost.com
+www.www.teamoutpost.com

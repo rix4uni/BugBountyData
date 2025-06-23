@@ -26,3 +26,6 @@ colors.sign.plus
 div.sign.plus
 vsg.token.sign.plus
 amountformatter.sign.plus
+*.sign.plus
+*.mail.sign.plus
+www.sign.plus

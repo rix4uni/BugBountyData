@@ -5027,3 +5027,7 @@ dev.03-mapilli-graph.my-od-1.03-mapilli.my-od-1.mapillary.com
 google.2024.dev.03-mapilli.my-od-1.03-mapilli.my-od-1.mapillary.com
 edm.elva.mapillary.com
 sblog.mapillary.com
+.mapillary.com
+*.mapillary.com
+*.my-od.mapillary.com
+www.mapillary.com

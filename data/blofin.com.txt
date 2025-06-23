@@ -68,3 +68,6 @@ dev-partner.blofin.com
 dev-grafana.blofin.com
 vonage.blofin.com
 demo-trading-openapi.blofin.com
+.blofin.com
+*.blofin.com
+www.blofin.com

@@ -21,3 +21,6 @@ play.eslint.org
 pt-br.eslint.org
 videoclick.docs.eslint.org
 zh-hans.docs.eslint.org
+*.eslint.org
+*.docs.eslint.org
+www.eslint.org

@@ -4,3 +4,5 @@ api.barqs.com
 staging.barqs.com
 mail.barqs.com
 secure.barqs.com
+.barqs.com
+*.barqs.com

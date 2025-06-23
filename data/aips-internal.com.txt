@@ -45,3 +45,8 @@ kafka6-dds-prod.aips-internal.com
 kafka4-dds-prod.aips-internal.com
 kafka-dds-prod.aips-internal.com
 kafka5-dds-prod.aips-internal.com
+*.aips-internal.com
+*.opt.aips-internal.com
+*.opt-staging.aips-internal.com
+*.prod.aips-internal.com
+*.staging.aips-internal.com

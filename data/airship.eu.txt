@@ -12,3 +12,6 @@ maestro-cluster.airship.eu
 sftp.airship.eu
 analyze-api.airship.eu
 api.airship.eu
+*.airship.eu
+www.airship.eu
+www.captain.airship.eu

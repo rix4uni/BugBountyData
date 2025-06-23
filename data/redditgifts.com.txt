@@ -36,3 +36,7 @@ unauthorized.redditgifts.com
 o3.email.redditgifts.com
 wwww.redditgifts.com
 _dmarc.redditgifts.com
+*.redditgifts.com
+www.redditgifts.com
+www.phabricator.redditgifts.com
+www.ssl.redditgifts.com

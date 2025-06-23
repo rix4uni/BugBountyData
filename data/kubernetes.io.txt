@@ -2022,3 +2022,15 @@ instance-typebeta.kubernetes.io
 truenode-role.kubernetes.io
 kms.kubernetes.io
 truenode.kubernetes.io
+.kubernetes.io
+v1-31.docs.kubernetes.io
+www.kubernetes.io
+www.hugo-migration.docs.kubernetes.io
+www.ux-test.docs.kubernetes.io
+www.v1-10.docs.kubernetes.io
+www.v1-4.docs.kubernetes.io
+www.v1-5.docs.kubernetes.io
+www.v1-6.docs.kubernetes.io
+www.v1-7.docs.kubernetes.io
+www.v1-8.docs.kubernetes.io
+www.v1-9.docs.kubernetes.io

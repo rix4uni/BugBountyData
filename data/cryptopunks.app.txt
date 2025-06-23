@@ -7,3 +7,6 @@ wrapped.cryptopunks.app
 generator.cryptopunks.app
 email.mail.cryptopunks.app
 _dmarc.cryptopunks.app
+.cryptopunks.app
+*.cryptopunks.app
+*.book.cryptopunks.app

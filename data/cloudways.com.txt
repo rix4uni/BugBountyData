@@ -8242,3 +8242,9 @@ connect.cloudways.com
 gateway.cloudways.com
 digitalsuite.cloudways.com
 vnwww.cloudways.com
+*.cloudways.com
+*.prepathon.cloudways.com
+www.cloudways.com
+www.console.cloudways.com
+www.support.cloudways.com
+www.webauth.cloudways.com

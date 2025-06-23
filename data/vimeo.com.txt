@@ -2314,3 +2314,16 @@ viewmaster-gke-dev.cloud.vimeo.com
 viewmaster-gke-prod.cloud.vimeo.com
 www.api.vimeo.com
 www.saml-signing.vimeo.com
+.vimeo.com
+*.vimeo.com
+*.beast.cdn.create.vimeo.com
+*.cloud.vimeo.com
+*.create.vimeo.com
+*.dev.create.vimeo.com
+*.player.vimeo.com
+*.stage.create.vimeo.com
+*.tus.vimeo.com
+*.venues.vimeo.com
+trickster.create.vimeo.com
+www.news.vimeo.com
+www.player.vimeo.com

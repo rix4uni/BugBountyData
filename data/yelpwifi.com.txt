@@ -13,3 +13,5 @@ api.yelpwifi.com
 login.yelpwifi.com
 images-origin.yelpwifi.com
 _dmarc.yelpwifi.com
+*.yelpwifi.com
+www.yelpwifi.com
