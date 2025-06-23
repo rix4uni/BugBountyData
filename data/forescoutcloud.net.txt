@@ -1849,3 +1849,4 @@ ci-app-obs-sensors0-01-arrayss.iris.production.forescoutcloud.net
 *.testing.forescoutcloud.net
 www.datapod-1-ingest.forescoutcloud.net
 www.datapod-1-query.forescoutcloud.net
+forescoutcloud.net

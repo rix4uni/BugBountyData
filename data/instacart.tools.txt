@@ -403,3 +403,7 @@ payments.dev.instacart.tools
 *.wegmanspbi.pbis-cf-dev.instacart.tools
 *.wildcloudflare.dev.instacart.tools
 reset.sftp-posoi.dev.instacart.tools
+instacart.tools
+tahir-test-networking-additional.dev.instacart.tools
+tahir-test-networking.dev.instacart.tools
+www.instacart.tools

@@ -2034,3 +2034,6 @@ www.v1-6.docs.kubernetes.io
 www.v1-7.docs.kubernetes.io
 www.v1-8.docs.kubernetes.io
 www.v1-9.docs.kubernetes.io
+kubernetes.io
+trax-test-primary-nat.docs.kubernetes.io
+www.canary.kubernetes.io

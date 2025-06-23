@@ -94,3 +94,5 @@ agfapath.redis.com
 *.redisinsight.redis.com
 perf-portal.redis.com
 www.redis.com
+highspot.redis.com
+redis.com

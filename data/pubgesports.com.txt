@@ -30,3 +30,14 @@ wstatic-dev.pubgesports.com
 wstatic-prod.pubgesports.com
 wtree.pubgesports.com
 *.pubgesports.com
+api-widget-admin.pubgesports.com
+api-widget.pubgesports.com
+dev-api-widget-admin.pubgesports.com
+dev-api-widget.pubgesports.com
+pubgesports.com
+qa-api-widget-admin.pubgesports.com
+qa-api-widget.pubgesports.com
+staging-api-widget-admin.pubgesports.com
+staging-api-widget.pubgesports.com
+widget.pubgesports.com
+www.www.pubgesports.com

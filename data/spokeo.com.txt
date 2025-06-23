@@ -227,3 +227,14 @@ staging-cdn.spokeo.com
 *.servicedesk.spokeo.com
 *.shared.spokeo.com
 www.spokeo.com
+argocd.sandbox.spokeo.com
+feature2.qa.spokeo.com
+feature3.qa.spokeo.com
+npm.production.spokeo.com
+pages.mail4.spokeo.com
+sitemaps.qa.spokeo.com
+spokeo.com
+www.production.spokeo.com
+www.testserver.spokeo.com
+www.try.spokeo.com
+www.visa.spokeo.com

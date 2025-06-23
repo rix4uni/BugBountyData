@@ -376,3 +376,5 @@ stat.platform.access-001.cloud.teleportinfra.sh
 *.teleportinfra.sh
 *.platform.teleportinfra.sh
 *.teleport.teleportinfra.sh
+teleportinfra.sh
+www.teleportinfra.sh

@@ -701,3 +701,4 @@ www.stories.algolia.com
 *.us.prod.inference.ai.algolia.com
 *.us.prod.workflows.algolia.com
 configstore-api-prod-us.algolia.com
+algolia.com

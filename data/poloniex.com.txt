@@ -394,3 +394,5 @@ x-api-tk.poloniex.com
 *.ws.mm-unified.colo.poloniex.com
 *.ws.mm.colo.poloniex.com
 www.poloniex.com
+poloniex.com
+test-api-docs.poloniex.com

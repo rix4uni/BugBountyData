@@ -70,3 +70,6 @@ com.delta.app
 document.delta.app
 .delta.app
 *.delta.app
+api-docs.delta.app
+delta.app
+www.delta.app

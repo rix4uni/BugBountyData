@@ -52,3 +52,8 @@ prometheus-poc.avax-dev.network
 loki-poc.avax-dev.network
 grafana-poc.avax-dev.network
 demo.avax-dev.network
+avax-dev.network
+www.noproxy-warden1.avax-dev.network
+www.warden1.avax-dev.network
+www.warden2.avax-dev.network
+www.warden3.avax-dev.network

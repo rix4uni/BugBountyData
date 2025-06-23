@@ -350,3 +350,6 @@ b43b.pivcac.prod.login.gov
 *.pivcac.staging.login.gov
 docv.login.gov
 www.login.gov
+login.gov
+www.pivcac.prod.login.gov
+www.pivcac.staging.login.gov

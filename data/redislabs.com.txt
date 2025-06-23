@@ -3271,3 +3271,11 @@ yuri1.us-central-1.gce.cloud.redislabs.com
 *.ui.dev.redislabs.com
 *.yvlpcf4.pcf.qa.redislabs.com
 monitoring-test-prometheus-poller-k8s-oncommit-pr-2198.dev-prometheus.dev.redislabs.com
+bo-qa.redislabs.com
+gslink.redislabs.com
+langsmith.redislabs.com
+node2.demo.redislabs.com
+ping.qa-cloud.redislabs.com
+redis-10398.c83.us-east-1-2.ec2.cloud.redislabs.com
+redis-18391.c111.us-east-1-mz.ec2.cloud.redislabs.com
+redislabs.com

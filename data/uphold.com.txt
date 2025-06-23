@@ -141,3 +141,4 @@ identity-service.webhooks.sandbox.uphold.com
 *.zendesk-services.webhooks.uphold.com
 *.zendesk-services.webhooks.sandbox.uphold.com
 www.uphold.com
+uphold.com

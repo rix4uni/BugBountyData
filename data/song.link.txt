@@ -56,3 +56,4 @@ config.saavn.endpoint.song.link
 communicationservice.song.link
 orig.song.link
 widget.song.link
+song.link

@@ -210,3 +210,4 @@ estimator-api.superpal.io
 *.internal.datascience.superpal.io
 *.internal.engineering.superpal.io
 *.satellite.superpal.io
+superpal.io

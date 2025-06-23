@@ -3327,3 +3327,4 @@ org.dev.network-auth.com
 *.sandbox.network-auth.com
 *.tunnel-proxy.dns.network-auth.com
 *.tunnel-proxy.dns.sandbox.network-auth.com
+network-auth.com

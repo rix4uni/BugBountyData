@@ -153,3 +153,7 @@ my.docker.registry.eu
 bp-webservice-gateway-strimko2test-main.apps.envtwo.dev.registry.eu
 control-plane-console-control-plane-platform-main.apps.envtwo.dev.registry.eu
 cn.swiftpass.feynman.spring.autoconfigure.discovery.registry.eu
+registry.eu
+www.registry.eu
+www.lu.registry.eu
+www.nl.registry.eu

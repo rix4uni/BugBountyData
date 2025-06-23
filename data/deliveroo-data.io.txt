@@ -10,3 +10,4 @@ bastion.canoe-production-k8s.deliveroo-data.io
 api.internal.canoe-production-k8s.deliveroo-data.io
 api.canoe-production-k8s.deliveroo-data.io
 *.deliveroo-data.io
+deliveroo-data.io
