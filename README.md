@@ -19,3 +19,7 @@ For a user-friendly experience, you can explore these programs via the website: 
     ```bash
     grep -aE "^(.*\.)?dell\.com$"
     ```
+
+```yaml
+curl -s "https://raw.githubusercontent.com/rix4uni/BugBountyData/refs/heads/main/data/dell.com.txt" | grep -aE "^(.*\.)?dell\.com$"
+```
